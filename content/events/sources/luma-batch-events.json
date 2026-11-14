@@ -1,106 +1,5 @@
 [
   {
-    "id": "luma-batch-xFFX1w014DYQNxw",
-    "slug": "grdkh8vt",
-    "name": "Meow + Legion: Private Founder Poker Night",
-    "description": "Cards, drinks, pizza, and the best crypto founders in New York at one table. Dealers are pros; the stakes are bragging rights.\n\nHosted by Meow × Legion.\n\nBy invitation only — seats are limited. 🃏\n\n## Event details\n\nHosted by Matt Schkolnick, Matt O'Connor (Founder Legion.cc), Dustin Kamali. The event takes place on October 13. Registration requires organizer approval.",
-    "startDate": "2026-10-13T23:00:00.000Z",
-    "endDate": "2026-10-14T02:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "SoHo, New York, New York, United States",
-    "url": "https://luma.com/grdkh8vt",
-    "registrationUrl": "https://luma.com/grdkh8vt",
-    "coverImage": "/events/luma-batch-xFFX1w014DYQNxw-74b39158.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Matt Schkolnick",
-      "Matt O'Connor",
-      "Dustin Kamali"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "SoHo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Matt Schkolnick"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/grdkh8vt",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/grdkh8vt",
-      "eventId": "evt-xFFX1w014DYQNxw",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe",
-      "enrichedAt": "2026-09-22T11:00:44.000Z",
-      "enrichMethod": "organizer-facts"
-    }
-  },
-  {
-    "id": "luma-batch-8I5O4bjlw0OlFUu",
-    "slug": "thesignal2026",
-    "name": "Two Prime Presents: The Signal 2026",
-    "description": "Two Prime presents The Signal, a one-day, invitation-only symposium featuring leaders in custody, vaults, real-world assets, stablecoins, and more. This year's conversation turns to the convergence of digital and traditional financial systems.\n\nThe event is hosted by Two Prime, an SEC-registered investment adviser and CFTC-registered commodity trading adviser focused on institutional digital asset investment management and BTC-secured lending.\n\nThis event is closed to the press. Institutional investors and industry professionals may apply to attend.\n\nProgramming runs from 9:00 AM to 4:30 PM.A light breakfast will be available, and a full lunch will be served.  Wine and hors d'oeuvres will follow the last speaker of the day.\n\nAttire is smart casual.\n\nConfirmed speakers include (with more to come):\n\nAlex Alden, Head of Digital Asset and Financial Technology Banking, BTIG\n\nMike Belshe, Co-founder and CEO, BitGo\n\nCarlos Domingo, Co-founder and CEO, Securitize\n\nPaul Giordano, Vice President of Digital Asset Management, MARA\n\nMichael Higgins, International CEO, Ripple Prime\n\nBo Hines, CEO, Tether USA₮\n\nAya Kantorovich, Co-founder & Co-CEO, August and Upshift\n\nAmar Kuchinad, Global CEO, Copper\n\nStani Kulechov, Founder and CEO, Aave\n\nRory Murray, VP, Digital Asset Management, CleanSpark\n\nJacob Phillips, Co-founder and CEO, Lombard Labs\n\nDavid Ripley, Co-CEO, Kraken\n\nMatthew Sigel, Portfolio Manager, VanEck\n\nTodd Stevens, Chief Capital Officer, Figure\n\nJamie Walker, Head of Digital Assets and Money Movement, U.S. Bank",
-    "startDate": "2026-10-14T12:30:00.000Z",
-    "endDate": "2026-10-14T21:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Murray Hill, New York, New York, United States",
-    "url": "https://luma.com/thesignal2026",
-    "registrationUrl": "https://luma.com/thesignal2026",
-    "coverImage": "/events/luma-batch-8I5O4bjlw0OlFUu-f4d91732.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Two Prime"
-    ],
-    "price": "USD 1500",
-    "approvalRequired": true,
-    "timezone": "America/New_York",
-    "neighborhood": "Murray Hill",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Two Prime",
-      "url": "https://luma.com/user/twoprime"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/thesignal2026",
-        "price": 1500,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/thesignal2026",
-      "eventId": "evt-8I5O4bjlw0OlFUu",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-4EDsB2GqW0jHyhh",
     "slug": "recon",
     "name": "ReCON - Coinspiracy II",
@@ -145,56 +44,6 @@
     "sourceVerification": {
       "url": "https://luma.com/recon",
       "eventId": "evt-4EDsB2GqW0jHyhh",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
-    "id": "luma-batch-ON8samQWGur2o5c",
-    "slug": "hfqu8u55",
-    "name": "Antidote Office Open Day! ⚡️",
-    "description": "Thinking about joining the UK’s premier Bitcoin ecosystem and becoming an Antidote member? Come see the Antidote space first!\n\nCurious about our Clerkenwell space? Whether you’re a founder looking for an accelerator or a builder seeking a high-signal co-working community, our Office Open Day is the perfect time to drop in, meet the team, and get a feel for the rhythm at Antidote HQ.\n\nAntidote is more than just an office, it's a premium co-working hub for the Bitcoin ecosystem. Whether you’re planning to pop into our office once a week or need a permanent desk, Antidote has a seat with your name on it! 🪑\n\nOur membership plans:\n\n🏢 The Resident | Best for full-time users. Includes a permanent desk and 24/7 access.\n\n💻 The Nomad | Best for hybrid workers. Unlimited access to our shared coworking areas.\n\n☕ Lite | Best for occasional use. Includes 6 visits per month.\n\nWhat to Expect:\n\nThe Grand Tour: Explore our dedicated desks, breakout zones, roof terrace, and meeting rooms.\n\nThe Network: Meet current members, the Antidote team and our founders in our accelerator programme.\n\nCoffee & Conversation: No formal pitches, just a chance to see if Antidote is the right fit for you.\n\nSpaces are limited so please register below to secure your free spot.\n\nWe look forward to welcoming you!\n\nFurther details about our membership plans can be found on our website here: https://antidotebtc.com/members.",
-    "startDate": "2026-10-13T09:30:00.000Z",
-    "endDate": "2026-10-13T13:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Antidote, Antidote, The Bindery, 51-53 Hatton Garden, London EC1N 8HN, UK",
-    "url": "https://luma.com/hfqu8u55",
-    "registrationUrl": "https://luma.com/hfqu8u55",
-    "coverImage": "/events/luma-batch-ON8samQWGur2o5c-ccdbc544.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Antidote BTC"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "neighborhood": "Farringdon",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Antidote",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Antidote BTC",
-      "url": "https://luma.com/user/antidotebtc"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hfqu8u55",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/hfqu8u55",
-      "eventId": "evt-ON8samQWGur2o5c",
       "fetchedAt": "2026-09-22T10:40:02.039Z",
       "method": "luma-page",
       "apifyRunId": "xaRAFVxiGJ65xirOe"
@@ -1135,36 +984,6 @@
     }
   },
   {
-    "id": "luma-batch-F8zatkGwjYGzv3V",
-    "slug": "wpfunpri",
-    "name": "El Taller - Hackathon de Colosseum",
-    "description": "Del 9 al 13 de Octubre, La Familia habilitará un Espacio en el centro de Madrid como punto de encuentro para builders, equipos y creadores que participarán en el Hackathon de Colosseum.\n\nEste espacio funcionará como un hub de trabajo y colaboración, diseñado para apoyar el desarrollo de proyectos en Solana y fortalecer la comunidad hispana del ecosistema.\n\nDurante este periodo ofreceremos:\n\nWorkshops técnicos y de producto sobre Solana\n\nSesiones con expertos y proyectos del ecosistema\n\nMentorías y office hours para feedback directo\n\nSoporte técnico y orientación para equipos\n\nEspacios de coworking para trabajar con foco\n\nDemos de proyectos en desarrollo\n\nActividades de comunidad y dinámicas colaborativas\n\nTorneos y experiencias abiertas para participantes\n\nHappy hours y momentos de networking informal\n\nEl programa culminará el 13 de Octubre con un Demo Day, enfocado en ayudar a los equipos a afinar su pitch y mejorar su presentación de cara al cierre del hackathon. Será un espacio tanto formativo como práctico, con reconocimiento y premios para proyectos destacados.\n\nEl taller es una invitación a construir juntos, aprender de referentes del ecosistema y conectar con otros miembros de La Familia mientras avanzas tu proyecto en Colosseum.\n\n📍 Madrid📅 9 - 13 Oct\n\nSomos La Familia 🤍",
-    "startDate": "2026-10-09T14:00:00.000Z",
-    "endDate": "2026-10-13T19:00:00.000Z",
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "Chamberí, Madrid, Spain",
-    "url": "https://luma.com/wpfunpri",
-    "registrationUrl": "https://luma.com/wpfunpri",
-    "coverImage": "/events/luma-batch-F8zatkGwjYGzv3V-7109b7ba.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "La Familia"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/Madrid",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/wpfunpri",
-      "eventId": "calev-F8zatkGwjYGzv3V",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-0boKcuyLBEPRDoT",
     "slug": "london-oct-16",
     "name": "Co-Working Fridays : London Chapter",
@@ -1473,33 +1292,6 @@
       "breakpoint",
       "solana-breakpoint"
     ]
-  },
-  {
-    "id": "luma-batch-evt8RezKQUn6TrHC",
-    "slug": "8kkegkh7",
-    "name": "Build with Stripe: Adding Payments to Your Product",
-    "description": "IMPORTANT: An RSVP on Luma alone does not register you. Complete your registration on the Stripe Community site to receive the join link: https://www.stripecommunity.com/public/clubs/stablecoins/events/build-with-stripe-community-embed-payments-into-your-platform-or-marketplace-bcbvqc5xp5\n\nHave an idea for an app, service, creator business, community, nonprofit, retail concept, professional service, marketplace, or other venture? This free, interactive 60-minute workshop makes the money side easier to understand.\n\nWe will map who pays, who gets paid, what value you provide, whether your business earns a fee, and when funds move. You will see when Stripe Connect may help and when a simpler Stripe setup may fit better.\n\nFor founders, product managers, designers, developers, creators, operators, students, small-business owners, and curious builders. No payments experience, technical expertise, company, or finished product is required.\n\nWednesday, October 14, 2026\n7:00 to 8:00 PM ET\nOnline and free",
-    "startDate": "2026-10-14T23:00:00.000Z",
-    "endDate": "2026-10-15T00:00:00.000Z",
-    "url": "https://luma.com/8kkegkh7",
-    "registrationUrl": "https://luma.com/8kkegkh7",
-    "coverImage": "/events/luma-batch-evt8RezKQUn6TrHC-7c81af23.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/8kkegkh7",
-      "eventId": "evt-8RezKQUn6TrHC7Y",
-      "fetchedAt": "2026-09-23T10:03:56.000Z",
-      "method": "luma-page",
-      "apifyRunId": "Ffaa1kYaomR8FZ23t"
-    }
   },
   {
     "id": "luma-batch-evtrN879vRTa1NBn",
@@ -2248,36 +2040,6 @@
     }
   },
   {
-    "id": "luma-batch-evtTDa0weWTryfBl",
-    "slug": "iyjal140",
-    "name": "Adan - Europe’s Next Chapter For Digital Assets",
-    "description": "🇪🇺 Europe’s Next Chapter for Digital Assets\n\nAdan and SG-FORGE invite you to join us in Brussels on October 13, 2026, for an event dedicated to the future of digital assets in Europe.\n\nTogether with our partners Ethereum Foundation, Bundesblock, Blockchain for Europe and Osservatori Digital Innovation, we will notably discuss the evolution of market infrastructure, the development of stablecoins and the next steps for the European regulatory framework.\n\nOn the agenda (additional speakers may be added):\n\n🎤 Europe’s New Market Infrastructure Stack: Can Tokenisation Scale?\n\nStéphanie Lheureux (Euroclear)\n\nMark Kepeneghian (Lise)\n\nMirian Breuer (Börse Stuttgart)\n\nMarkus Ferber (MEP)\n\nModerator : Adriana Torres Vergara (ADAN)\n\n🎤 Europe’s Stablecoin Moment: Competitiveness, Sovereignty or Both?\n\nStéphanie Cabossioras (SG-Forge)\n\nBrit Hecht (Qivalis)\n\nEmanuele Guzzoni (Bancomat)\n\nPatrick Hansen (Circle)\n\nLuca Serafini (Banca d'Italia)\n\nModerator : Tommaso Astazi (BC4EU)\n\n🎤 A Fireside Chat with AMF, Consob and BaFin\n\nSébastien Raspiller (Secretary General - AMF)\n\nNadia Linciano (Secretary General -  Consob)\n\nBaFin (speaker TBC)\n\nModerator : Dr. Hagen Weiss (Bundesblock)\n\n🎤 MiCA and Beyond: Is Europe Getting the Framework Right?\n\nPhilipp Bohrn (Bitpanda)\n\nFaustine Fleuret (Morpho)\n\nFilippo Paternò di Raddusa (Revolut)\n\nCharles Canonne (DG FISMA-European Commission)\n\nModerator : Ondrej Kovarik (Former MEP, European Ethereum Institute, FTI)\n\nPractical information\n\n📅 Tuesday, October 13, 2026\n\n🕟 Conferences from 3:00 PM to 6:00 PM, followed by a cocktail reception until 8:30 PM\n\n📍 Brussels, Belgium\n\n🇪🇺🇫🇷 Europe’s Next Chapter for Digital Assets\n\nL’Adan et SG-FORGE vous donnent rendez-vous à Bruxelles le 13 octobre 2026 pour un événement consacré à l’avenir des actifs numériques en Europe.\n\nAux côtés de nos partenaires Ethereum Foundation, Bundesblock et Osservatori Digital Innovation, nous aborderons notamment les évolutions des infrastructures de marché, le développement des stablecoins et les prochaines étapes du cadre réglementaire européen.\n\nAu programme\n\n🎤 Europe’s New Market Infrastructure Stack: Can Tokenisation Scale?\n\nStéphanie Lheureux (Euroclear)\n\nMark Kepeneghian (Lise)\n\nMirian Breuer (Börse Stuttgart)\n\nMarkus Ferber (MEP)\n\n🎤 Europe’s Stablecoin Moment: Competitiveness, Sovereignty or Both?\n\nStéphanie Cabossioras (SG-Forge)\n\nBrit Hecht (Qivalis)\n\nEmanuele Guzzoni (Bancomat)\n\nPatrick Hansen (Circle)\n\n🎤 A Fireside Chat with AMF, Consob and BaFin\n\nSébastien Raspiller (Secretary General - AMF)\n\nNadia Linciano (Secretary General -  Consob)\n\nBaFin (speaker TBC)\n\nModerator : Dr. Hagen Weiss (Bundesblock)\n\n🎤 MiCA and Beyond: Is Europe Getting the Framework Right?\n\nPhilipp Bohrn (Bitpanda)\n\nFaustine Fleuret (Morpho)\n\nFilippo Paternò di Raddusa (Revolut)\n\nCharles Canonne (DG FISMA-European Commission)\n\nOndrej Kovarik (Former MEP, European Ethereum Institute, FTI)\n\nInfos pratiques\n\n📅 Mardi 13 octobre 2026\n\n🕟 Conférences de 15h à 18h, puis cocktail jusqu’à 20h30\n\n📍 Bruxelles, Belgique",
-    "startDate": "2026-10-13T12:00:00.000Z",
-    "endDate": "2026-10-13T19:00:00.000Z",
-    "city": "Bruxelles",
-    "country": "Belgium",
-    "location": "Bruxelles, Bruxelles, Belgium",
-    "url": "https://luma.com/iyjal140",
-    "registrationUrl": "https://luma.com/iyjal140",
-    "coverImage": "/events/luma-batch-evtTDa0weWTryfBl-88abada8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Brussels",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/iyjal140",
-      "eventId": "evt-TDa0weWTryfBlBq",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtH1TbnZCL0kjl2",
     "slug": "ofpx3m1g",
     "name": "SLC XPR Community Activation",
@@ -2557,35 +2319,6 @@
     "sourceVerification": {
       "url": "https://luma.com/2nrn1c75",
       "eventId": "evt-ycWrx5n01IFcfSP",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt01U6xL7qkoePF",
-    "slug": "eldiad",
-    "name": "El Día D · La invasión del conocimiento",
-    "description": "EL DÍA D\n\nLa invasión del conocimiento llega a Medellín.\nNo es una agenda. Es un desembarco.\nMiércoles 14 de octubre, 2026 · Auditorio Fundadores, Universidad EAFIT · Medellín.\n—\nEsto no es una conferencia. Es una actualización de sistema operativo.\n\nEn 10ampro creemos que la ventaja más importante del siglo XXI no es tener más información — eso ya lo tiene todo el mundo. La ventaja real es saber qué información consumir, cómo procesarla y con quién contrastarla.\nUna mala dieta de información te vuelve pobre mentalmente antes de volverte pobre financieramente.\n—\nInvitados (sujeto a cambios)\nSantiago Santos — De Ethereum temprano a Solana, y la pregunta que importa: ¿cómo traer el GDP onchain?\n\nAndré Joffroy — Founder y CIO de Zaps. Si Medellín quiere más Teslas, necesita dónde cargarlos.\n\nJoe McCann —Presencia confirmada. El trader que apagó sus hedge funds para construir su propia máquina. Tesis: liquidez, Solana, JTO, AI. Lo oyeron en el ep 223; el 14 de octubre está en la sala.\n\nRicardo Sierra — CEO de Celsia. ¿Energy Valley en Antioquia?\n\nCamilo Ospina & Andrés Palacio — Péptidos, longevidad y la posibilidad de fabricar salud desde Medellín.\n\nAntonio Linares (sesión virtual en vivo) — Cómo piensa alguien que ha visto múltiples 100x antes que el mercado.\n\nInvitado por anunciar — La silla del centro del escenario todavía no tiene nombre público. Del mismo calibre de los que ya están en esta lista. El nombre se anuncia pronto; el precio no espera al anuncio.\n\nCohosts 10ampro — Hernán Jaramillo, Darío Palacio, Nicolás Fernández, Guillermo Valencia, Andrés Arias, Camilo Botero, El Gordo, Carolina Rojas.\n—\nPARA QUIÉN ES\nPara fundadores, inversionistas, operadores, médicos, builders. Para gente que sabe que el mundo cambia más rápido que su feed. Para quienes entienden que estar cerca de las mejores conversaciones es una forma de capital.\n\nNO VENGAS SI\n· Vienes a buscar frases lindas. · Vienes a repartir tarjetas sin escuchar. · Vienes a hacer networking transaccional de baja vibración. · Vienes a confirmar lo que ya crees.\n—\n\nLa conferencia queda toda grabada y se publica para suscriptores 10ampro en las semanas siguientes.\n\nEl manifiesto completo, los invitados con sus conversaciones y los detalles de la agenda: https://eldiad.10am.pro\n10ampro · Anno MMXXVI",
-    "startDate": "2026-10-14T14:30:00.000Z",
-    "endDate": "2026-10-14T22:00:00.000Z",
-    "city": "Medellín",
-    "country": "Colombia",
-    "location": "Auditorio Fundadores, Auditorio Fundadores, El Poblado, Medellín, El Poblado, Medellin, Antioquia, Colombia",
-    "url": "https://luma.com/eldiad",
-    "registrationUrl": "https://luma.com/eldiad",
-    "coverImage": "/events/luma-batch-evt01U6xL7qkoePF-20adbec9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "10amevents"
-    ],
-    "timezone": "America/Bogota",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/eldiad",
-      "eventId": "evt-01U6xL7qkoePFT7",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -3216,36 +2949,6 @@
     "sourceVerification": {
       "url": "https://luma.com/4ppsu496",
       "eventId": "evt-pGqXB9czBhF8uoh",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtceTF1z3WvKJ1i",
-    "slug": "tn1iwfoh",
-    "name": "Digital Assets: From Regulatory Frameworks to Asset Allocation EY x Belem Capital x Swiss Risk Association x BSA (EPFL)",
-    "description": "Belem Capital, EY, the Blockchain Student Association (BSA), and the Swiss Risk Association are pleased to invite you to a private morning event dedicated to asset allocators, private wealth managers, family offices, and professional investors.\n\nAs digital assets become an increasingly established part of the financial landscape, two questions are becoming central for investment professionals: how should the risks and regulatory considerations associated with this asset class be addressed, and how can digital assets be incorporated into a broader portfolio construction and asset allocation framework?\n\nThis event will bring together asset managers, risk specialists, regulatory experts, and allocators with a clear objective: to provide practical perspectives on the regulatory, risk-management, and investment frameworks that matter most to professional investors, while confronting these frameworks with the experience of market participants.\n\nThrough three keynotes and two panel discussions, we will explore the evolving regulatory environment in Switzerland and Europe, risk management in digital assets, the development of tokenisation and stablecoins, and the role of digital assets within professional investment portfolios.\n\nProgramme\n\n08:30 | Welcome & Networking Breakfast\n\n08:45 | Welcome Remarks – Stanislas de Maistre (CEO, Belem Capital), Jean-Noël Ardouin (Partner Financial Services, EY), and Jules Delforge (President, Blockchain Student Association)\n\n08:55 | EY Keynote: Introduction to the Regulatory Landscape and Digital Assets\n\n09:05 | Panel 1: Overview of Emerging Swiss and European Digital Asset Regulations\n\n09:35 | Belem Capital Keynote: From Tokenisation to Stablecoins: Building the Future of Capital Markets\n\n09:45 | Panel 2: Asset Allocation in the Digital Asset Universe\n\n10:15 | BSA Keynote: Introduction to the Blockchain Student Association (BSA)\n\n10:25 | Closing Networking Session\n\nSpeakers\n\nMeet and exchange with senior professionals and specialists from asset management, compliance, regulatory advisory, institutional investment, risk management, and asset allocation.\n\nWelcome Remarks: Stanislas de Maistre (CEO, Belem Capital), Jean-Noël Ardouin (Partner, Financial Services, EY), Jules Delforge (President, Blockchain Student Association)\n\nEY Keynote: Maxime Ochrymowicz (Senior Consultant EY)\n\nPanel 1 – Regulation: Biba Homsy (Founder & Partner, Homsy Legal)\n\nBelem Capital Keynote: Nassim Alexandre (GP & CIO, Belem Capital)\n\nPanel 2 – Asset Allocation: Nassim Alexandre (GP & CIO, Belem Capital), Lutz Preussler (Head of Asset Management Business Development, Sygnum),\n\nBSA Keynote: Jules Delforge (President, Blockchain Student Association)\n\nOrganisers\n\nBelem Capital · EY · Blockchain Student Association (BSA) · Swiss Risk Association\n\nOrganiser descriptions to be added.\n\nVenue & Access\n\nPlace de Pont-Rouge 1, 1212 Lancy\nPont-Rouge district, Geneva\n\nThis is a strictly private event and registration is mandatory. Due to limited capacity, all registrations are subject to approval by the organisers.",
-    "startDate": "2026-10-13T06:30:00.000Z",
-    "endDate": "2026-10-13T08:45:00.000Z",
-    "city": "Lancy",
-    "country": "Switzerland",
-    "location": "Ernst & Young SA, Ernst & Young SA, Place de Pont-Rouge 1, 1212 Lancy, Switzerland",
-    "url": "https://luma.com/tn1iwfoh",
-    "registrationUrl": "https://luma.com/tn1iwfoh",
-    "coverImage": "/events/luma-batch-evtceTF1z3WvKJ1i-4eea03f2.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Blockchain Student Association - EPFL"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Zurich",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/tn1iwfoh",
-      "eventId": "evt-ceTF1z3WvKJ1ieY",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

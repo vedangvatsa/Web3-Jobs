@@ -35,19 +35,6 @@
       ]
     },
     {
-      "id": "luma-batch-F8zatkGwjYGzv3V",
-      "slug": "wpfunpri",
-      "name": "El Taller - Hackathon de Colosseum",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/wpfunpri",
-        "fetchedAt": "2026-09-22T11:31:03.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "luma-host-evt-evt-T1nhxzU2JSJPAgq",
       "slug": "gll",
       "name": "A Global Living Lab: Light DAO's Next International Gathering",
@@ -66,78 +53,6 @@
         "What Makes Edge Cities a Unique Living Lab + Society Incubator",
         "Pricing",
         "Joining the Light DAO + SingularityNET Residency"
-      ]
-    },
-    {
-      "id": "premier-tabconf",
-      "slug": "tabconf",
-      "name": "TABConf 8 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://tabconf.com/",
-        "fetchedAt": "2026-09-22T12:14:29.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Format",
-        "Venue and tickets",
-        "Mission"
-      ]
-    },
-    {
-      "id": "luma-batch-evtceTF1z3WvKJ1i",
-      "slug": "tn1iwfoh",
-      "name": "Digital Assets: From Regulatory Frameworks to Asset Allocation EY x Belem Capital x Swiss Risk Association x BSA (EPFL)",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/tn1iwfoh",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Programme",
-        "Speakers"
-      ]
-    },
-    {
-      "id": "luma-batch-ON8samQWGur2o5c",
-      "slug": "hfqu8u55",
-      "name": "Antidote Office Open Day!",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/hfqu8u55",
-        "fetchedAt": "2026-09-22T10:40:02.039Z"
-      },
-      "sections": [
-        "About the event",
-        "What to Expect"
-      ]
-    },
-    {
-      "id": "luma-batch-evtTDa0weWTryfBl",
-      "slug": "iyjal140",
-      "name": "Adan - Europe's Next Chapter For Digital Assets",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/iyjal140",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-xFFX1w014DYQNxw",
-      "slug": "grdkh8vt",
-      "name": "Meow + Legion: Private Founder Poker Night",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/grdkh8vt",
-        "fetchedAt": "2026-09-22T11:53:33.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Event details"
       ]
     },
     {
@@ -167,75 +82,6 @@
       ]
     },
     {
-      "id": "luma-batch-8I5O4bjlw0OlFUu",
-      "slug": "thesignal2026",
-      "name": "Two Prime Presents: The Signal 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/thesignal2026",
-        "fetchedAt": "2026-09-22T10:40:02.039Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "premier-coinalts-2026",
-      "slug": "coinalts",
-      "name": "CoinAlts 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://coinalts.xyz/",
-        "fetchedAt": "2026-09-22T12:01:12.000Z"
-      },
-      "sections": [
-        "Shaping the Future of Digital Assets",
-        "About",
-        "Program"
-      ]
-    },
-    {
-      "id": "luma-crypto-VcpyfOM9tAtGEBi",
-      "slug": "nctaa",
-      "name": "Navigating Career Transitions in the Age of AI: Defining Your Professional Narrative",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/5rg1dsx5",
-        "fetchedAt": "2026-09-19T23:49:07.173Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-crypto-DW1mNXiXnvQ42Bi",
-      "slug": "jsspasvpbt",
-      "name": "Japan Startup Showcase 2026 - Palo Alto, Silicon Valley Presented by Breakpoint #TechCrunch2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/kdci5gdv",
-        "fetchedAt": "2026-09-19T23:49:08.067Z"
-      },
-      "sections": [
-        "About the event",
-        "Event Highlights",
-        "Who Should Attend"
-      ]
-    },
-    {
-      "id": "luma-batch-evt8RezKQUn6TrHC",
-      "slug": "8kkegkh7",
-      "name": "Build with Stripe: Adding Payments to Your Product",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/8kkegkh7",
-        "fetchedAt": "2026-09-23T10:03:56.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "premier-africabcfest",
       "slug": "africa",
       "name": "Africa Blockchain Festival 2026",
@@ -258,22 +104,6 @@
         "LOOKING FOR YOUR NEXT BIG HEADLINE?",
         "Reserve your spot",
         "Complete your purchase"
-      ]
-    },
-    {
-      "id": "luma-crypto-i7agflP95FW2Y66",
-      "slug": "jfdhayf",
-      "name": "Junto Founder Dinner (hosted by Andrew Yeung and friends)",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/juntofounderdinneroct14",
-        "fetchedAt": "2026-09-19T23:54:03.715Z"
-      },
-      "sections": [
-        "About the event",
-        "What to expect",
-        "Details",
-        "About our hosts & sponsors"
       ]
     },
     {

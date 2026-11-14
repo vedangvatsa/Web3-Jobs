@@ -9,44 +9,10 @@
     "slug": "ibt",
     "aliases": []
   },
-  "luma-batch-F8zatkGwjYGzv3V": {
-    "slug": "el-taller-colosseum-hackathon",
-    "aliases": [
-      "wpfunpri"
-    ]
-  },
   "luma-host-evt-evt-T1nhxzU2JSJPAgq": {
     "slug": "light-dao-global-living-lab",
     "aliases": [
       "gll"
-    ]
-  },
-  "premier-tabconf": {
-    "slug": "tabconf",
-    "aliases": []
-  },
-  "luma-batch-evtceTF1z3WvKJ1i": {
-    "slug": "digital-assets-regulation-asset-allocation",
-    "aliases": [
-      "tn1iwfoh"
-    ]
-  },
-  "luma-batch-ON8samQWGur2o5c": {
-    "slug": "antidote-office-open-day",
-    "aliases": [
-      "hfqu8u55"
-    ]
-  },
-  "luma-batch-evtTDa0weWTryfBl": {
-    "slug": "adan-europe-digital-assets",
-    "aliases": [
-      "iyjal140"
-    ]
-  },
-  "luma-batch-xFFX1w014DYQNxw": {
-    "slug": "meow-legion-founder-poker-night",
-    "aliases": [
-      "grdkh8vt"
     ]
   },
   "luma-batch-evt7gjnLEpvcig2Z": {
@@ -61,42 +27,10 @@
       "2nrn1c75"
     ]
   },
-  "luma-batch-8I5O4bjlw0OlFUu": {
-    "slug": "thesignal2026",
-    "aliases": []
-  },
-  "premier-coinalts-2026": {
-    "slug": "coinalts",
-    "aliases": []
-  },
-  "luma-crypto-VcpyfOM9tAtGEBi": {
-    "slug": "career-transitions-age-of-ai",
-    "aliases": [
-      "nctaa"
-    ]
-  },
-  "luma-crypto-DW1mNXiXnvQ42Bi": {
-    "slug": "japan-startup-showcase-palo-alto",
-    "aliases": [
-      "jsspasvpbt"
-    ]
-  },
-  "luma-batch-evt8RezKQUn6TrHC": {
-    "slug": "build-with-stripe",
-    "aliases": [
-      "8kkegkh7"
-    ]
-  },
   "premier-africabcfest": {
     "slug": "africa-blockchain-festival",
     "aliases": [
       "africa"
-    ]
-  },
-  "luma-crypto-i7agflP95FW2Y66": {
-    "slug": "junto-founder-dinner",
-    "aliases": [
-      "jfdhayf"
     ]
   },
   "luma-batch-3zOciZsW9mZvoY0": {
@@ -3861,5 +3795,17 @@
     "aliases": [
       "luma-crypto-mtgoy2crc193nlv"
     ]
+  },
+  "token2049-evt-gEewTU706GougGe": {
+    "slug": "bubble-house",
+    "aliases": []
+  },
+  "token2049-evt-9mFNax2EGCZcHcG": {
+    "slug": "fintech-networking",
+    "aliases": []
+  },
+  "token2049-evt-gtIzreCiLVQG3Zo": {
+    "slug": "sff-founder",
+    "aliases": []
   }
 }

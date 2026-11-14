@@ -786,5 +786,182 @@
       "pageTitle": "After Hours @ Fintech Week 🚀 · Luma",
       "sha256": "36f02c10b588741b3e56653f82b2c51c763a2afbfa00bf2ae2765d817f45be3d"
     }
+  },
+  {
+    "id": "token2049-evt-gEewTU706GougGe",
+    "name": "Bubble House+ Spa & Relax Lounge Social",
+    "description": "Bubble House+ Spa & Relax Lounge Social is scheduled for 15 November 2026 at 11:00 (Asia/Singapore). Hosted by clara, Asia Web3 Ai Association (AWAA).\n\nSwap your conference shoes for a change of clothes, sink into the heated soaking pool, unwind in the sauna, or keep the conversation going in the lounge.\n\nFresh fruit, signature drinks and Häagen-Dazs ice cream keep the treats coming, while toiletries, towels and a change of clothes mean you can pack light.",
+    "startDate": "2026-11-15T03:00:00.000Z",
+    "location": "Location to be announced",
+    "url": "https://luma.com/lzzjqbqm",
+    "registrationUrl": "https://luma.com/lzzjqbqm",
+    "coverImage": "/events/token2049-evt-geewtu706gougge-eee6996c.webp",
+    "endDate": "2026-11-21T16:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "venueName": "1 Venture Ave, #01-02 Perennial Business City, Singapore 608521",
+    "hosts": [
+      "clara",
+      "Asia Web3 Ai Association (AWAA)"
+    ],
+    "price": "SGD 298",
+    "approvalRequired": false,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/lzzjqbqm",
+        "price": 298,
+        "priceCurrency": "SGD",
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/lzzjqbqm",
+      "eventId": "evt-gEewTU706GougGe",
+      "fetchedAt": "2026-11-14T13:03:56.098Z",
+      "method": "luma-api"
+    },
+    "slug": "bubble-house",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/lzzjqbqm",
+      "fetchedAt": "2026-11-14T13:03:56.098Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Bubble House+ Spa & Relax Lounge Social",
+      "sha256": "6255e6ddb54fd5b89f0224a816a009d1c4d4a512a7bbc14cca3710cf0224071e",
+      "evidence": [
+        {
+          "url": "https://luma.com/lzzjqbqm",
+          "fetchedAt": "2026-11-14T13:03:56.098Z",
+          "sha256": "99847ac3ab255a5b5086f7377614e604f885c0706dc792ce038d300b915d3d3c"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-9mFNax2EGCZcHcG",
+    "name": "Fintech Networking Mixer @ Singapore FinTech Week",
+    "description": "Fintech Networking Mixer @ Singapore FinTech Week is scheduled for 19 November 2026 at 21:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA), Insight Genesis.\n\nAs this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.\n\nPlease note that entry will be granted only to ticketed guests, and tickets are not transferable.\n\nRegistration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.",
+    "startDate": "2026-11-19T13:00:00.000Z",
+    "location": "Singapore, Singapore",
+    "url": "https://luma.com/7e05bd9p",
+    "registrationUrl": "https://luma.com/7e05bd9p",
+    "coverImage": "/events/token2049-evt-9mfnax2egczchcg-c3a50b30.webp",
+    "endDate": "2026-11-19T17:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": true,
+    "city": "Singapore",
+    "country": "Singapore",
+    "hosts": [
+      "Asia Web3 Ai Association (AWAA)",
+      "Insight Genesis"
+    ],
+    "organizer": {
+      "type": "Organization",
+      "name": "Asia Web3 Ai Association (AWAA)",
+      "url": "https://asiaweb3aiassociation.org/"
+    },
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "After Hours",
+        "url": "https://luma.com/7e05bd9p",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/7e05bd9p",
+      "eventId": "evt-9mFNax2EGCZcHcG",
+      "fetchedAt": "2026-11-14T13:03:56.101Z",
+      "method": "luma-api"
+    },
+    "slug": "fintech-networking",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/7e05bd9p",
+      "fetchedAt": "2026-11-14T13:03:56.101Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "Fintech Networking Mixer @ Singapore FinTech Week",
+      "sha256": "ca26d711bdf3bccef1a3e0b7eaa56dda43470fddfac371164a6b4612bee17b23",
+      "evidence": [
+        {
+          "url": "https://luma.com/7e05bd9p",
+          "fetchedAt": "2026-11-14T13:03:56.101Z",
+          "sha256": "e8e8f8556185f7cd8554960c885300ace7fc2abc069dc2ec0828fda6d1ed97b5"
+        }
+      ]
+    }
+  },
+  {
+    "id": "token2049-evt-gtIzreCiLVQG3Zo",
+    "name": "SFF Founder Networking: What Founders Overlook When Scaling",
+    "description": "SFF Founder Networking: What Founders Overlook When Scaling is scheduled for 20 November 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Mae. StayPunctual.com, Thomas Budin, Asia Web3 Ai Association (AWAA).\n\nFounder reality check: A short, practical sharing session on common financial and operational blind spots.\n\nTake-home toolkit: Walk away with a practical checklist to help keep your business financially organised and growth-ready.\n\nDrinks & conversations: Exchange experiences, ideas and perhaps a few business confessions along the way.\n\nCanapé's and drinks included\n\nRegistration requires host approval. Registration is listed as free.",
+    "startDate": "2026-11-20T11:00:00.000Z",
+    "location": "Mandala Club, 31 Bukit Pasoh Rd, Singapore 089845",
+    "url": "https://luma.com/fpiex9vx",
+    "registrationUrl": "https://luma.com/fpiex9vx",
+    "coverImage": "/events/token2049-evt-gtizrecilvqg3zo-4bfe51e2.webp",
+    "endDate": "2026-11-20T13:00:00.000Z",
+    "timezone": "Asia/Singapore",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "locationHidden": false,
+    "city": "Singapore",
+    "country": "Singapore",
+    "venueName": "Mandala Club",
+    "streetAddress": "31 Bukit Pasoh Rd, Singapore",
+    "addressLocality": "Singapore",
+    "addressCountry": "SG",
+    "neighborhood": "Tanjong Pagar",
+    "coordinates": {
+      "latitude": 1.2792949999999998,
+      "longitude": 103.840375
+    },
+    "hosts": [
+      "Mae. StayPunctual.com",
+      "Thomas Budin",
+      "Asia Web3 Ai Association (AWAA)"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "ticketOffers": [
+      {
+        "name": "Standard",
+        "url": "https://luma.com/fpiex9vx",
+        "price": 0,
+        "availability": "InStock"
+      }
+    ],
+    "registrationAvailability": "open",
+    "sourceVerification": {
+      "url": "https://luma.com/fpiex9vx",
+      "eventId": "evt-gtIzreCiLVQG3Zo",
+      "fetchedAt": "2026-11-14T13:03:56.767Z",
+      "method": "luma-api"
+    },
+    "slug": "sff-founder",
+    "source": "token2049-verified",
+    "descriptionSource": {
+      "url": "https://luma.com/fpiex9vx",
+      "fetchedAt": "2026-11-14T13:03:56.767Z",
+      "method": "matched-organizer-record",
+      "pageTitle": "SFF Founder Networking: What Founders Overlook When Scaling",
+      "sha256": "ee42a05d87bb02f155aae5c3b0d6df9fbf7c2b591cee04cf78fd0da14798d3f9",
+      "evidence": [
+        {
+          "url": "https://luma.com/fpiex9vx",
+          "fetchedAt": "2026-11-14T13:03:56.767Z",
+          "sha256": "211add9539ee655f08be8f5cce8def33d513a13a16ed2917f6898ef884d7d81f"
+        }
+      ]
+    }
   }
 ]

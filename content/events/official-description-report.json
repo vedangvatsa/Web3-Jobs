@@ -230,21 +230,6 @@
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
     },
     {
-      "id": "premier-tabconf",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://8.tabconf.com/",
-        "fetchedAt": "2026-09-20T00:39:52.881Z",
-        "method": "official-section",
-        "pageTitle": "Home · TABConf 8",
-        "sha256": "6639eb81d7a76e4408bc77cca4318cbb7fecfe544823785508957f83ca3aaddd"
-      },
-      "previousStartDate": "2026-10-12T09:00:00.000Z",
-      "characters": 611,
-      "preview": "## When you’re here\n\n• Oct 12–13 — Builder Days & workshops (hands-on building and deep dive workshops).\n\n• Oct 14–15 — Conference sessions (villages, main stage, and community-led programming).\n\nVenue: Georgia Tech Exhibition Hall. Need a room? See Hotels (options near the venue; book directly with properties).\n\n## Mission\n\nTABConf’s mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin.\n\nWe bring together sharp minds to share what they’re building — from core devs to new contributors. If you want signal, not hype, you’re in the right place."
-    },
-    {
       "id": "premier-planblugano",
       "file": "curated-events.json",
       "name": "Plan B Forum Lugano 2026",
@@ -548,21 +533,6 @@
       "previousStartDate": "2026-09-28T08:00:00-04:00",
       "characters": 155,
       "preview": "A closed-door conference on corporate bitcoin treasury strategy — allocators, executives, and strategists in one room. September 28, 2026 in New York City."
-    },
-    {
-      "id": "premier-coinalts-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://coinalts.xyz/",
-        "fetchedAt": "2026-09-20T00:20:41.188Z",
-        "method": "official-section",
-        "pageTitle": "CoinAlts | Discover the Future of Finance | October 14, 2026",
-        "sha256": "b86eb2184d2ffe142d37efabd0ee4abadc2ec79d26fcdd5a21bccb4a4c246983"
-      },
-      "previousStartDate": "2026-10-14T09:00:00-07:00",
-      "characters": 482,
-      "preview": "## Shaping the Future of Digital Assets\n\nOn October 14, 2026, CoinAlts will host the latest in a series of events for the digital asset community addressing investment, legal, and operational issues pertaining to private fund managers.\n\nEstablished in 2017, CoinAlts is an annual gathering and forum for the digital asset community. 2026 Premier Sponsors Cole-Frieman & Mallon LLP, MG Stover LLC, Harneys, and KPMG have practices devoted to fund managers in the digital asset space."
     },
     {
       "id": "premier-blockchain-africa-2026",

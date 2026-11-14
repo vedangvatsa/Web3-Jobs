@@ -47,42 +47,6 @@ The announced Web3-related programs include Cross Margin Labs' Aqua0 DeFi reside
 
 Applications are reviewed on a rolling basis. Accepted applicants receive a ticket-purchase link, and payment confirms their place. Tickets include village programming, coworking and community activities, but not accommodation or most meals. Joining a residency is optional. Tickets are non-refundable; the organizer allows date changes or transfers to another attendee. Daily clock times are not confirmed for the village as a whole.
 
-<a id="event-599c9fb2732808a8"></a>
-
-## TABConf 8 2026
-
-- Record: `premier-tabconf`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-12T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://tabconf.com>
-
-### About the event
-
-TABConf 8 runs from October 12 to 15, 2026 at Georgia Tech Exhibition Hall in Atlanta. The organizer describes this as the final TABConf, a conference for Bitcoin protocol and application developers.
-
-October 12 and 13 are Builder Days with hands-on work and workshops across two rooms. Monday doors open at 10:00 and sessions start at 11:00. Conference sessions follow on October 14 and 15; an early closing ceremony is scheduled for Wednesday at 16:00, and Thursday sessions finish at 17:00.
-
-Tickets can be purchased with Bitcoin or fiat through the organizer's payment links. The official site provides the schedule, venue information and nearby hotel options.
-
-<a id="event-2e295b1d8ee6ba60"></a>
-
-## CoinAlts 2026
-
-- Record: `premier-coinalts-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-14T09:00:00-07:00
-- Description: Source-backed
-- Original page: <https://coinalts.xyz/>
-
-### About the event
-
-CoinAlts Fund Symposium takes place on October 14, 2026 at Hyatt Regency San Francisco, Five Embarcadero Center, as part of SF Fund Week. It addresses investment, legal and operational questions for private fund managers working with digital assets.
-
-Breakfast and registration start at 08:00, followed by the welcome at 09:00. The agenda includes regulatory compliance, event-contract investing, tax reporting, DeFi vaults, institutional infrastructure and fund operations. Fireside conversations feature Sean Bill and Arianna Simpson. Closing remarks are at 16:30, followed by a reception.
-
-The organizer provides an iConnections app for registrants. Its policy does not allow cancellation refunds; check current registration terms before purchasing.
-
 <a id="event-2d5d212da48b72b3"></a>
 
 ## Africa Blockchain Festival 2026
@@ -5682,6 +5646,44 @@ Get Down For Real This networking meetup is ideal for: - Startup founders and en
 
 Every Thursday, Avenue transforms into G.D.F.R. (Get Down For Real), a late-night escape where the music hits hard, the pours flow longer, and the energy never stays still. Soundtracked by seamless Open Format sets, expect everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish. Kickstart your night early with complimentary free-flow house pours from 10pm to 1am for all, setting the perfect tone for the night. Let the intimate lounge atmosphere of Avenue Singapore transport you, and be part of a community that knows exactly how to turn a Thursday into a celebration.
 
+<a id="event-3bf7bf876b17e371"></a>
+
+## Bubble House+ Spa & Relax Lounge Social
+
+- Record: `token2049-evt-gEewTU706GougGe`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-15T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lzzjqbqm>
+
+### About the event
+
+Bubble House+ Spa & Relax Lounge Social is scheduled for 15 November 2026 at 11:00 (Asia/Singapore). Hosted by clara, Asia Web3 Ai Association (AWAA).
+
+Swap your conference shoes for a change of clothes, sink into the heated soaking pool, unwind in the sauna, or keep the conversation going in the lounge.
+
+Fresh fruit, signature drinks and Häagen-Dazs ice cream keep the treats coming, while toiletries, towels and a change of clothes mean you can pack light.
+
+<a id="event-fb685b2ca1828100"></a>
+
+## Fintech Networking Mixer @ Singapore FinTech Week
+
+- Record: `token2049-evt-9mFNax2EGCZcHcG`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-19T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7e05bd9p>
+
+### About the event
+
+Fintech Networking Mixer @ Singapore FinTech Week is scheduled for 19 November 2026 at 21:00 (Asia/Singapore) in Singapore. Hosted by Asia Web3 Ai Association (AWAA), Insight Genesis.
+
+As this is an invite-only event, please be aware that registering does not guarantee access due to limited availability.
+
+Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
+
+Registration requires host approval. The organizer shares the exact location with approved guests. Registration is listed as free.
+
 <a id="event-9cee970f58cb560a"></a>
 
 ## Get Down For Real
@@ -5739,6 +5741,30 @@ Supporting Community Partners: Investissement Québec serves as the Québec gove
 Your secure crypto hardware wallet Tangem keeps your crypto safe and offline. Store, buy, earn, send, swap, and spend thousands of tokens. Your money. Your rules. Store, grow and spend your crypto. Simply Tangem. https://tangem.com/en/ Grab your delegate passes at 20% off for the AWAA community via the link: https://lnkd.in/gBrMJWXf A decentralized platform that leverages Insight Genesis AI (https://insightgenesis.ai/?utm_source=luma)technology for remote video and voice-based for personality, wellness, career, education, financial and health risk assessments and psychometric testing. By combining the principles of Web 3.
 
 0 with AI-powered health analytics, we create a community-driven ecosystem where users can earn, contribute, and engage with behavior data in a privacy-focused, transparent manner. Insight Genesis Ai is Live on Beta now at https://insightgenesis.ai/insights-form Follow X /genesis_insight (https://x.com/genesis_insight?utm_source=luma) Join TG https://t. me/InsightGenesis
+
+<a id="event-a6affe1366e302e4"></a>
+
+## SFF Founder Networking: What Founders Overlook When Scaling
+
+- Record: `token2049-evt-gtIzreCiLVQG3Zo`
+- Source: [token2049-discovered.json](sources/token2049-discovered.json)
+- Starts: 2026-11-20T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fpiex9vx>
+
+### About the event
+
+SFF Founder Networking: What Founders Overlook When Scaling is scheduled for 20 November 2026 at 19:00 (Asia/Singapore) in Singapore. Hosted by Mae. StayPunctual.com, Thomas Budin, Asia Web3 Ai Association (AWAA).
+
+Founder reality check: A short, practical sharing session on common financial and operational blind spots.
+
+Take-home toolkit: Walk away with a practical checklist to help keep your business financially organised and growth-ready.
+
+Drinks & conversations: Exchange experiences, ideas and perhaps a few business confessions along the way.
+
+Canapé's and drinks included
+
+Registration requires host approval. Registration is listed as free.
 
 <a id="event-005f980c772aa4d3"></a>
 
@@ -11471,136 +11497,6 @@ Timeline and awards
 The organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.
 
 Participants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.
-
-<a id="event-03d1259df12bd1b6"></a>
-
-## Navigating Career Transitions in the Age of AI: Defining Your Professional Narrative
-
-- Record: `luma-crypto-VcpyfOM9tAtGEBi`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-14T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/5rg1dsx5>
-
-### About the event
-
-As technology rapidly reshapes industries, job roles, and required skill sets, professionals are increasingly being asked to adapt before the path forward is fully clear. Whether navigating a career transition, responding to AI-driven disruption, repositioning yourself in a competitive job market, or hiring talent for emerging roles, success depends on more than technical expertise - it requires the ability to tell a compelling professional story.
-
-This highly interactive session uses Interactive Business Theater, featuring professional actors portraying realistic workplace and career conversations, to explore how individuals can define and communicate their unique value in a changing world of work. Through facilitated discussion, audience participation, and practical frameworks, participants will learn how to build a professional narrative that aligns their experiences, strengths, and aspirations with evolving employer needs.
-
-Learning Objectives:
-
-- Identify and articulate your unique value proposition in a rapidly evolving labor market
-- Translate past experiences and transferable skills into a compelling professional narrative
-- Position yourself competitively amid AI, automation, and shifting workforce demands
-- Navigate career development conversations with greater confidence, clarity, and adaptability
-
-Facilitator: Rahul Kay, MBA, MPH
-
-Rahul Kay helps organizations develop leaders who can navigate uncertainty, drive performance, and build stronger workplace cultures. As the Director of Client Success, his work focuses on leadership development, organizational effectiveness, and experiential learning. Prior to Ibis, Rahul was the CEO of an employee mental health organization, worked in organizational strategy at McKinsey, and supported change initiatives through the United Nations. He holds an MBA from the MIT Sloan School of Management, and MPH from Tufts Medical, and studied clinical psychology at Cornell.
-
-<a id="event-45d7f94678185f61"></a>
-
-## Japan Startup Showcase 2026 - Palo Alto, Silicon Valley Presented by Breakpoint #TechCrunch2026
-
-- Record: `luma-crypto-DW1mNXiXnvQ42Bi`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-14T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kdci5gdv>
-
-### About the event
-
-Japan Startup Showcase @ Palo Alto 2026: Connecting Top Japanese Innovators with US Investors & Corporate Partners
-
-About the Event: Join us for the 2nd annual Japan Startup Showcase, presented by Breakpoint! Building on the success of our 2025 pitch day, this targeted event brings a curated selection of Japan's most promising, global-ready startups directly to Silicon Valley.
-
-Whether you are a VC seeking vetted international deal flow, a CVC exploring strategic investments, or a corporate innovation leader seeking cross-border tech partners, this showcase is designed to deliver actionable opportunities.
-
-Why Attend?
-
-- Curated Deal Flow: Discover high-growth Japanese startups with cutting-edge solutions across AI, Entertainment, Content, Deep Tech, and advanced industries.
-- Strategic Collaboration: Connect directly with founders actively looking to expand into the US, secure funding, and form strategic alliances.
-- High-Value Networking: Meet fellow Silicon Valley investors, corporate executives, and leaders shaping the cross-border tech ecosystem.
-
-### Event Highlights
-
-- Startup Pitches: Concise, high-impact presentations by selected Japanese founders.
-- Pre
-
-:
-
-- d 1-on-1 Meetings: Exclusive opportunities for direct, private conversations between investors/corporate partners and startup founders to discuss specific synergies, partnerships, and investments in detail.
-- Networking Reception: Dedicated time to foster deeper discussions and build lasting connections in a relaxed setting over drinks and appetizers.
-
-### Who Should Attend
-
-- Venture Capitalists & Angel Investors looking for international diversification
-- Corporate Venture Capital (CVC) & Open Innovation Executives
-- Business Development & Strategy Leaders driving corporate partnership initiatives
-
-Organized by Breakpoint Co., Ltd.
-
-<a id="event-c314bc280c6dbc5b"></a>
-
-## Junto Founder Dinner (hosted by Andrew Yeung and friends)
-
-- Record: `luma-crypto-i7agflP95FW2Y66`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-15T01:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/juntofounderdinneroct14>
-
-### About the event
-
-[Hey! Andrew Yeung](https://www.linkedin.com/in/andyeung/?utm_source=luma) here.
-
-There's a certain kind of founder in SF you rarely see at events.
-
-They don't post daily hot takes or go to every networking event. They're heads-down: shipping product, closing customers, quietly building companies that everyone will be talking about in two years.
-
-On Oct 14, my friends at Merrill Lynch, Whop and I are hosting a dinner for exactly these people. Just a great meal with people worth knowing.
-
-If that's you, I'd love to meet you.
-
-When: Oct 14 in SF and we have 16 spots. By application onl
-
-:
-
-- - A 3-course meal, courtesy of our partners
-- Conversations with fellow high-performing startup leaders
-- Meaningful connections with ambitious peers who know what it's like to build in a new country
-- [If you're wondering how our dinners usually go... read this](https://docsend.com/view/inyeavnqjxikfxa2?utm_source=luma)
-
-Our only intent is to bring good, smart humans together
-
-### Details
-
-Date: Oct 14, 2026
-
-Time: 6:40pm
-
--
-
-Venue: Private Dining Room in SF
-
-See you there
-
-### About our hosts & sponsors
-
-[Andrew Yeung](https://www.linkedin.com/feed/?utm_source=luma) [is the founder of Fibe](https://www.meetfibe.com/?utm_source=luma) [and The Shortlist NYC](https://www.shortlistnyc.com/?utm_source=luma). [He is also an angel investor and Partner at Next Wave NYC](https://www.nextwave.nyc/?utm_source=luma), a pre-seed venture fund. Andrew has hosted over 300 events for 50,000 founders, operators, investors, and tech professionals that were featured by Bloomberg, Business Insider, Fast Company, Fortune Magazine, Axios, Newsweek, and Forbes. [Business Insider dubbed him the "Gatsby of Silicon Alley.]
-
-(https://www.businessinsider.com/andrew-yeung-google-employee-throwing-techs-hottest-parties-new-york-2023-7? utm_source=luma)"
-
-[Merrill Lynch's VC Group](https://advisor.ml.com/sites/ny/new-york-international-ii/the-vc-group) focuses on strategic cash management for early to mid-stage startups. Let us show you how founders and CFOs can make the most of their capital, post raise with our balancing, liquidity, yield, and flexibility with institutional grade solutions.
-
-[Whop](https://whop.com/) is building the first end-to-end API for running a business, enabling money movement, customer acquisition, and mobilization of an on-demand workforce.
-
-[Fireworks](https://fireworks.ai/) is the platform for specialized intelligence, enabling companies such as Doximity, Revolut, and Shopify to train and serve models tailored to their own data, workflows, and use cases. Founded by the team behind PyTorch, and backed by AMD, Atreides, Benchmark Capital, Index Ventures, Lightspeed, NVIDIA, Sequoia Capital, and TCV, Fireworks provides hundreds of state-of-the-art open models in text, image, embedding, and multimodal formats globally
-
-[Razorpay](https://razorpay.com/)is an end-to-end money movement platform that enables businesses to accept, process and disburse digital payments through a single unified system. One of APAC's largest payments companies, it powers payments for 5M+ businesses across India, Southeast Asia and the US, including 85 of India's 115 unicorns. For global companies expanding into India, Razorpay handles cross-border money movement - Payments, Compliance and go-to-market in a single stack. Airbnb, Shopify, Replit and a growing list of AI and tech companies run their India payments on Razorpay.
-
-[Get on the list for future events: Twitter](https://twitter.com/andruyeung?utm_source=luma) - [Instagram](https://www.instagram.com/andrewsmixers/?utm_source=luma) - [Website](https://www.andrewsmixers.com/?utm_source=luma)
 
 <a id="event-7f84e3104e5f4b84"></a>
 
@@ -20873,251 +20769,6 @@ Offer ends Sunday 18 October or when all 100 sell. Earlybird pricing then launch
 
 co (https://forum.fintechfringe.co)), and a consultancy - Scale & Grow. Find Out More (https://fintechweek. london/about/)
 
-<a id="event-c63bd2dc46a5d1a8"></a>
-
-## El Taller - Hackathon de Colosseum
-
-- Record: `luma-batch-F8zatkGwjYGzv3V`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-09T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/wpfunpri>
-
-### About the event
-
-Toda la información y la solicitud de plaza: https://lafamilia.so/ir/taller-luma
-
-Del 9 al 13 de Octubre, La Familia habilitará un Espacio en el centro de Madrid como punto de encuentro para builders, equipos y creadores que participarán en el Hackathon de Colosseum.
-
-Este espacio funcionará como un hub de trabajo y colaboración, diseñado para apoyar el desarrollo de proyectos en Solana y fortalecer la comunidad hispana del ecosistema.
-
-Durante este periodo ofreceremos:
-
-- Workshops técnicos y de producto sobre Solana
-- Sesiones con expertos y proyectos del ecosistema
-- Mentorías y office hours para feedback directo
-- Soporte técnico y orientación para equipos
-- Espacios de coworking para trabajar con foco
-- Demos de proyectos en desarrollo
-- Actividades de comunidad y dinámicas colaborativas
-- Torneos y experiencias abiertas para participantes
-- Happy hours y momentos de networking informal
-
-El programa culminará el 13 de Octubre con un Demo Day, enfocado en ayudar a los equipos a afinar su pitch y mejorar su presentación de cara al cierre del hackathon. Será un espacio tanto formativo como práctico, con reconocimiento y premios para proyectos destacados.
-
-El taller es una invitación a construir juntos, aprender de referentes del ecosistema y conectar con otros miembros de La Familia mientras avanzas tu proyecto en Colosseum.
-
-Madrid
-
-9 - 13 Oct
-
-Somos La Familia
-
-<a id="event-b0ff59ded83c639d"></a>
-
-## Digital Assets: From Regulatory Frameworks to Asset Allocation EY x Belem Capital x Swiss Risk Association x BSA (EPFL)
-
-- Record: `luma-batch-evtceTF1z3WvKJ1i`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-13T06:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/tn1iwfoh>
-
-### About the event
-
-Belem Capital, EY, the Blockchain Student Association (BSA), and the Swiss Risk Association are pleased to invite you to a private morning event dedicated to asset allocators, private wealth managers, family offices, and professional investors.
-
-As digital assets become an increasingly established part of the financial landscape, two questions are becoming central for investment professionals: how should the risks and regulatory considerations associated with this asset class be addressed, and how can digital assets be incorporated into a broader portfolio construction and asset allocation framework?
-
-This event will bring together asset managers, risk specialists, regulatory experts, and allocators with a clear objective: to provide practical perspectives on the regulatory, risk-management, and investment frameworks that matter most to professional investors, while confronting these frameworks with the experience of market participants.
-
-Through three keynotes and two panel discussions, we will explore the evolving regulatory environment in Switzerland and Europe, risk management in digital assets, the development of tokenisation and stablecoins, and the role of digital assets within professional investment portfolios.
-
-### Programme
-
-08:30 | Welcome & Networking Breakfast
-
-08:45 | Welcome Remarks - Stanislas de Maistre (CEO, Belem Capital), Jean-Noël Ardouin (Partner Financial Services, EY), and Jules Delforge (President, Blockchain Student Association)
-
-08:55 | EY Keynote: Introduction to the Regulatory Landscape and Digital Assets
-
-09:05 | Panel 1: Overview of Emerging Swiss and European Digital Asset Regulations
-
-09:35 | Belem Capital Keynote: From Tokenisation to Stablecoins: Building the Future of Capital Markets
-
-09:45 | Panel 2: Asset Allocation in the Digital Asset Universe
-
-10:15 | BSA Keynote: Introduction to the Blockchain Student Association (BSA)
-
-10:25 | Closing Networking Session
-
-### Speakers
-
-Meet and exchange with senior professionals and specialists from asset management, compliance, regulatory advisory, institutional investment, risk management, and asset allocation.
-
-Welcome Remarks: Stanislas de Maistre (CEO, Belem Capital), Jean-Noël Ardouin (Partner, Financial Services, EY), Jules Delforge (President, Blockchain Student Association)
-
-EY Keynote: Maxime Ochrymowicz (Senior Consultant EY)
-
-Panel 1 - Regulation: Biba Homsy (Founder & Partner, Homsy Legal)
-
-Belem Capital Keynote: Nassim Alexandre (GP & CIO, Belem Capital)
-
-Panel 2 - Asset Allocation: Nassim Alexandre (GP & CIO, Belem Capital), Lutz Preussler (Head of Asset Management Business Development, Sygnum),
-
-BSA Keynote: Jules Delforge (President, Blockchain Student Association)
-
-Organisers
-
-Belem Capital - EY - Blockchain Student Association (BSA) - Swiss Risk Association
-
-Organiser descriptions to be added.
-
-Venue & Access
-
-Place de Pont-Rouge 1, 1212 Lancy
-
-Pont-Rouge district, Geneva
-
-This is a strictly private event and registration is mandatory. Due to limited capacity, all registrations are subject to approval by the organisers.
-
-<a id="event-0698c2a29dfea9fb"></a>
-
-## Antidote Office Open Day! ⚡️
-
-- Record: `luma-batch-ON8samQWGur2o5c`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-13T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hfqu8u55>
-
-### About the event
-
-Thinking about joining the UK's premier Bitcoin ecosystem and becoming an Antidote member? Come see the Antidote space first!
-
-Curious about our Clerkenwell space? Whether you're a founder looking for an accelerator or a builder seeking a high-signal co-working community, our Office Open Day is the perfect time to drop in, meet the team, and get a feel for the rhythm at Antidote HQ.
-
-Antidote is more than just an office, it's a premium co-working hub for the Bitcoin ecosystem. Whether you're planning to pop into our office once a week or need a permanent desk, Antidote has a seat with your name on it!
-
-Our membership plans:
-
-The Resident | Best for full-time users. Includes a permanent desk and 24/7 access.
-
-The Nomad | Best for hybrid workers. Unlimited access to our shared coworking areas.
-
-Lite | Best for occasional use. Includes 6 visits per month.
-
-### What to Expect
-
-The Grand Tour: Explore our dedicated desks, breakout zones, roof terrace, and meeting rooms.
-
-The Network: Meet current members, the Antidote team and our founders in our accelerator programme.
-
-Coffee & Conversation: No formal pitches, just a chance to see if Antidote is the right fit for you.
-
-Spaces are limited so please register below to secure your free spot.
-
-We look forward to welcoming you!
-
-Further details about our membership plans can be found on our website here: https://antidotebtc.com/members.
-
-<a id="event-d2a81d5d637edd10"></a>
-
-## Adan - Europe’s Next Chapter For Digital Assets
-
-- Record: `luma-batch-evtTDa0weWTryfBl`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-13T12:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/iyjal140>
-
-### About the event
-
-🇪🇺 Europe's Next Chapter for Digital Assets
-
-Adan and SG-FORGE invite you to join us in Brussels on October 13, 2026, for an event dedicated to the future of digital assets in Europe.
-
-Together with our partners European Ethereum Institute, Bundesblock, Blockchain for Europe, Osservatori Digital Innovation and Alastria, we will notably discuss the evolution of market infrastructure, the development of stablecoins and the next steps for the European regulatory framework.
-
-On the agenda (additional speakers may be added):
-
-Europe's New Market Infrastructure Stack: Can Tokenisation Scale?
-
-- Luc Vantomme (Euroclear)
-- Mark Kepeneghian (Lise)
-- Mirian Breuer (Börse Stuttgart)
-- Markus Ferber (MEP)
-
-Moderator : Adriana Torres Vergara (ADAN)
-
-Europe's Stablecoin Moment: Competitiveness, Sovereignty or Both?
-
-- Stéphanie Cabossioras (SG-Forge)
-- Brit Hecht (Qivalis)
-- Emanuele Guzzoni (Bancomat)
-- Patrick Hansen (Circle)
-- Luca Serafini (Banca d'Italia)
-
-Moderator : Tommaso Astazi (BC4EU)
-
-A Fireside Chat with AMF, Consob and BaFin
-
-- Sébastien Raspiller (Secretary General - AMF)
-- Nadia Linciano (Secretary General - Consob)
-- BaFin (speaker TBC)
-
-Moderator : Dr. Hagen Weiss (Bundesblock)
-
-MiCA and Beyond: Is Europe Getting the Framework Right?
-
-- Philipp Bohrn (Bitpanda)
-- Faustine Fleuret (Morpho)
-- Filippo Paternò di Raddusa (Revolut)
-- Charles Canonne (DG FISMA-European Commission)
-
-Moderator : Ondrej Kovarik (Former MEP, European Ethereum Institute, FTI)
-
-Practical information
-
-Tuesday, October 13, 2026
-
-Conferences from 3:00 PM to 6:00 PM, followed by a cocktail reception until 8:30 PM
-
-Brussels, Belgium
-
-🇪🇺🇫🇷 Europe's Next Chapter for Digital Assets
-
-L'Adan et SG-FORGE vous donnent rendez-vous à Bruxelles le 13 octobre 2026 pour un événement consacré à l'avenir des actifs numériques en Europe.
-
-Aux côtés de nos partenaires European Ethereum Institute, Bundesblock, Blockchain for Europe, Osservatori Digital Innovation et Alastria, nous aborderons notamment les évolutions des infrastructures de marché, le développement des stablecoins et les prochaines étapes du cadre réglementaire européen.
-
-Au programme
-
-- Stéphanie Cabossioras (SG-Forge)
-- Brit Hecht (Qivalis)
-- Emanuele Guzzoni (Bancomat)
-- Patrick Hansen (Circle)
-
-A Fireside Chat with AMF, Consob and BaFin
-
-Moderator : Dr. Hagen Weiss (Bundesblock)
-
-MiCA and Beyond: Is Europe Getting the Framework Right?
-
-- Philipp Bohrn (Bitpanda)
-- Faustine Fleuret (Morpho)
-- Filippo Paternò di Raddusa (Revolut)
-- Charles Canonne (DG FISMA-European Commission)
-- Ondrej Kovarik (Former MEP, European Ethereum Institute, FTI)
-
-Infos pratiques
-
-Mardi 13 octobre 2026
-
-Conférences de 15h à 18h, puis cocktail jusqu'à 20h30
-
-Bruxelles, Belgique
-
 <a id="event-1d6b8a299bf3b2f2"></a>
 
 ## Aprende a usar Bitcoin desde cero
@@ -21187,168 +20838,6 @@ Herramientas para usar Bitcoins
 Consejos de prevención de estafas
 
 AMA Final
-
-<a id="event-520af659c23b3cc8"></a>
-
-## Meow + Legion: Private Founder Poker Night
-
-- Record: `luma-batch-xFFX1w014DYQNxw`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-13T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/grdkh8vt>
-
-### About the event
-
-Meow and Legion host an invitation-only poker evening for crypto founders in New York on October 13. Professional dealers run the tables, with drinks and pizza provided. The organizer describes the stakes as bragging rights.
-
-Seats are limited and registration requires approval. The exact address is shared with registered guests.
-
-<a id="event-e35f4682749aa5ea"></a>
-
-## Two Prime Presents: The Signal 2026
-
-- Record: `luma-batch-8I5O4bjlw0OlFUu`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-14T12:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/thesignal2026>
-
-### About the event
-
-Two Prime presents The Signal, a one-day, invitation-only symposium featuring leaders in custody, vaults, real-world assets, stablecoins, and more. This year's conversation turns to the convergence of digital and traditional financial systems.
-
-The event is hosted by Two Prime, an SEC-registered investment adviser and CFTC-registered commodity trading adviser focused on institutional digital asset investment management and BTC-secured lending.
-
-This event is closed to the press. Institutional investors and industry professionals may apply to attend.
-
-Programming runs from 9:00 AM to 4:30 PM.A light breakfast will be available, and a full lunch will be served. Wine and hors d'oeuvres will follow the last speaker of the day.
-
-Attire is smart casual.
-
-Confirmed speakers include (with more to come):
-
-Alex Alden, Head of Digital Asset and Financial Technology Banking, BTIG
-
-Mike Belshe, Co-founder and CEO, BitGo
-
-Carlos Domingo, Co-founder and CEO, Securitize
-
-Paul Giordano, Vice President of Digital Asset Management, MARA
-
-Michael Higgins, International CEO, Ripple Prime
-
-Bo Hines, CEO, Tether USA₮
-
-Aya Kantorovich, Co-founder & Co-CEO, August and Upshift
-
-Amar Kuchinad, Global CEO, Copper
-
-Stani Kulechov, Founder and CEO, Aave
-
-Rory Murray, VP, Digital Asset Management, CleanSpark
-
-Jacob Phillips, Co-founder and CEO, Lombard Labs
-
-David Ripley, Co-CEO, Kraken
-
-Matthew Sigel, Portfolio Manager, VanEck
-
-Todd Stevens, Chief Capital Officer, Figure
-
-Jamie Walker, Head of Digital Assets and Money Movement, U.S. Bank
-
-<a id="event-db8060c0ac19247a"></a>
-
-## El Día D · La invasión del conocimiento
-
-- Record: `luma-batch-evt01U6xL7qkoePF`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-14T14:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/eldiad>
-
-### About the event
-
-EL DÍA D
-
-La invasión del conocimiento llega a Medellín.
-
-No es una agenda. Es un desembarco.
-
-Miércoles 14 de octubre, 2026 - Auditorio Fundadores, Universidad EAFIT - Medellín.
-
--
-
-Esto no es una conferencia. Es una actualización de sistema operativo.
-
-En 10ampro creemos que la ventaja más importante del siglo XXI no es tener más información - eso ya lo tiene todo el mundo. La ventaja real es saber qué información consumir, cómo procesarla y con quién contrastarla.
-
-Una mala dieta de información te vuelve pobre mentalmente antes de volverte pobre financieramente.
-
--
-
-Invitados (sujeto a cambios)
-
-Santiago Santos - De Ethereum temprano a Solana, y la pregunta que importa: ¿cómo traer el GDP onchain?
-
-André Joffroy - Founder y CIO de Zaps. Si Medellín quiere más Teslas, necesita dónde cargarlos.
-
-Joe McCann - Presencia confirmada. El trader que apagó sus hedge funds para construir su propia máquina. Tesis: liquidez, Solana, JTO, AI. Lo oyeron en el ep 223; el 14 de octubre está en la sala.
-
-Ricardo Sierra - CEO de Celsia. ¿Energy Valley en Antioquia?
-
-Camilo Ospina & Andrés Palacio - Péptidos, longevidad y la posibilidad de fabricar salud desde Medellín.
-
-Antonio Linares (sesión virtual en vivo) - Cómo piensa alguien que ha visto múltiples 100x antes que el mercado.
-
-Invitado por anunciar - La silla del centro del escenario todavía no tiene nombre público. Del mismo calibre de los que ya están en esta lista. El nombre se anuncia pronto; el precio no espera al anuncio.
-
-Cohosts 10ampro - Hernán Jaramillo, Darío Palacio, Nicolás Fernández, Guillermo Valencia, Andrés Arias, Camilo Botero, El Gordo, Carolina Rojas.
-
--
-
-PARA QUIÉN ES
-
-Para fundadores, inversionistas, operadores, médicos, builders. Para gente que sabe que el mundo cambia más rápido que su feed. Para quienes entienden que estar cerca de las mejores conversaciones es una forma de capital.
-
-NO VENGAS SI
-
-- Vienes a buscar frases lindas. - Vienes a repartir tarjetas sin escuchar. - Vienes a hacer networking transaccional de baja vibración. - Vienes a confirmar lo que ya crees.
-
--
-
-La conferencia queda toda grabada y se publica para suscriptores 10ampro en las semanas siguientes.
-
-El manifiesto completo, los invitados con sus conversaciones y los detalles de la agenda: https://eldiad.10am.pro
-
-10ampro - Anno MMXXVI
-
-<a id="event-2e3ce663620d6f77"></a>
-
-## Build with Stripe Community: Build embedded payments into your platform or marketplace
-
-- Record: `luma-batch-evt8RezKQUn6TrHC`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-14T23:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/8kkegkh7>
-
-### About the event
-
-IMPORTANT: An RSVP on Luma alone does not register you. Complete your registration on the Stripe Community site to receive the join link: https://www.stripecommunity.com/public/clubs/stablecoins/events/build-with-stripe-community-embed-payments-into-your-platform-or-marketplace-bcbvqc5xp5
-
-Have an idea for an app, service, creator business, community, nonprofit, retail concept, professional service, marketplace, or other venture? This free, interactive 60-minute workshop makes the money side easier to understand.
-
-We will map who pays, who gets paid, what value you provide, whether your business earns a fee, and when funds move. You will see when Stripe Connect may help and when a simpler Stripe setup may fit better.
-
-For founders, product managers, designers, developers, creators, operators, students, small-business owners, and curious builders. No payments experience, technical expertise, company, or finished product is required.
-
-Wednesday, October 14, 2026
-
-7:00 to 8:00 PM ET
-
-Online and free
 
 <a id="event-16a7325f5533978d"></a>
 
@@ -24918,18 +24407,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-627787f1797a8f02"></a>
-
-## SOLANA BUILD STATION WARSAW
-
-- Record: `luma-host-evt-evt-bBADbrIz8Hyjr54`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-06T10:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/StplBuildStation>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-a808cc50f520c91c"></a>
 
 ## A Global Living Lab: Light DAO's Next International Gathering
@@ -25126,150 +24603,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-b70df333f01c6074"></a>
-
-## Construyendo servidores y clientes MCP
-
-- Record: `mu-316505307`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T09:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316505307/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d459fcbd802eed25"></a>
-
-## Antidote Office Open Day! ⚡️
-
-- Record: `luma-evt-ON8samQWGur2o5c`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T09:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/hfqu8u55>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-255e07df87b15dc4"></a>
-
-## Patients, Not Unicorns: An Evening at Barcelona's Maggie's Centre
-
-- Record: `luma-evt-9fG9CmDFC7ikDpE`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T16:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/trialhub-invites-you-to-kalida>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7ab9229d11852064"></a>
-
-## London Demo Dinner : Hosted by Superteam UK
-
-- Record: `luma-evt-IvaJLmv0XylCPfA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T16:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/London-DemoDinner-2026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-44d675aedd284952"></a>
-
-## London Demo Dinner : Hosted by Superteam UK
-
-- Record: `luma-host-evt-evt-IvaJLmv0XylCPfA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T16:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/London-DemoDinner-2026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-fb8dbdaa95caf27c"></a>
-
-## ApeCoin x Alchemy: Build in NYC
-
-- Record: `luma-evt-p1I36aVFKEiIGjW`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/tlc8fm8y>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4f4cfd88b390d272"></a>
-
-## Bienvenidos a charla en Español.
-
-- Record: `mu-316686929`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T18:30:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316686929/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-6be8ace3240183a2"></a>
-
-## Let's discuss Bitcoin and the Crypto Sector
-
-- Record: `mu-316687537`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T19:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/316687537/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-53a79004114578f7"></a>
-
-## AI For Startups - Silicon Valley Entrepreneurs
-
-- Record: `luma-evt-nRjdLClFUbFBIeF`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-13T22:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/kqiro7t3>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-b990177a87655c49"></a>
-
-## MeetupDeFi TLDR #50October 14 (opens in a new tab)
-
-- Record: `ethorg-meetupdefi-tldr--50october-14--opens-in-a-new-tab-`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T00:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/j3bohbt9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-0d6c8d509dfb3faf"></a>
-
-## Seed2Table – Pitch+Dinner for AI, Web3 & Deep Tech Investors
-
-- Record: `luma-evt-8eE3HeO8unJXCn5`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/nkueok61>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-33ee5d7631737adf"></a>
-
-## ISC2 Silicon Valley - October 2026 Chapter Meeting
-
-- Record: `luma-evt-0YMTsLLTMtHyV7k`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T01:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/mlumasx4>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-f249cbbacb7ab3b7"></a>
 
 ## Hackurity 2026
@@ -25279,388 +24612,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-14T03:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.revacyberclub.tech>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5179300b0e435484"></a>
-
-## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
-
-- Record: `mu-316325979`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T07:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-oregon/events/316325979/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a9688ccaa35580ae"></a>
-
-## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
-
-- Record: `mu-316325991`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T07:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/316325991/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-aee51db9c0b891af"></a>
-
-## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
-
-- Record: `mu-316326000`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T07:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-sf/events/316326000/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-649c01d92fec81c8"></a>
-
-## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
-
-- Record: `mu-316326004`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T07:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316326004/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-82dce0e5197851ac"></a>
-
-## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
-
-- Record: `mu-316325884`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T09:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-austin/events/316325884/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-2bd9f277f51fc52d"></a>
-
-## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
-
-- Record: `mu-316118375`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T09:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/316118375/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e25651b29e50f494"></a>
-
-## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
-
-- Record: `mu-316118514`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T09:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-sf/events/316118514/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-02d5a52193fa7395"></a>
-
-## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
-
-- Record: `mu-316118522`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T09:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/316118522/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-fa308e9cccdcf864"></a>
-
-## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
-
-- Record: `mu-316325935`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T10:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-north-carolina/events/316325935/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5ddbaa01d83b7a25"></a>
-
-## Automated Supply Chain Accountability with Computer Vision & Ledger Technology
-
-- Record: `mu-316325977`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T10:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-washington-dc/events/316325977/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-159be83f87c8fbbb"></a>
-
-## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
-
-- Record: `mu-316118454`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T11:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-austin/events/316118454/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c8712fe97df7235a"></a>
-
-## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
-
-- Record: `mu-316118464`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T12:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-north-carolina/events/316118464/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ba412eb8b6ecb561"></a>
-
-## FabricOps: Operating Hyperledger Fabric Networks on Kubernetes
-
-- Record: `mu-316118535`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T12:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/lfdt-washington-dc/events/316118535/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-22a079d8337f5916"></a>
-
-## Olas de calor y extremos climáticos: Barcelona del pasado, presente y futuro
-
-- Record: `luma-evt-wzxLHMocPPQR5OM`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T15:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/tr3jgm1b>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4be8c217e8bd6717"></a>
-
-## Fast Forward
-
-- Record: `luma-evt-Gxrb7efa9lu5vw5`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/fastforwardhack>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d8c40320e196117f"></a>
-
-## Solana Demo Day: Colosseum Hackathon
-
-- Record: `luma-evt-gy87siMQt7kHv1Q`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/vwqedg55>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7c2aceea4ff819b8"></a>
-
-## Navigating Career Transitions in the Age of AI: Defining Your Professional Narrative
-
-- Record: `luma-evt-VcpyfOM9tAtGEBi`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/5rg1dsx5>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-19490d7ac3697171"></a>
-
-## Canada Demo Day Watch Party: Colosseum Crypto World's Fair
-
-- Record: `luma-host-evt-evt-VfysSo13K4vqj7E`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T17:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/superteam-lbhe>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-eae88ee1bc390740"></a>
-
-## SF - Bitcoin Wednesdays
-
-- Record: `mu-316931185`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T17:30:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/316931185/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8bcb9920c89cf38d"></a>
-
-## ACP \| Verticomm Lunch & Learn
-
-- Record: `luma-evt-Z7nulSbBeA3aFMI`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/2l69mypi>
-- Original page: <https://luma.com/2l69mypi>
-
-### About the event
-
-You're Invited!
-
-Join us for an exclusive Lunch & Learn to discover how Elevate helps businesses simplify communications, improve collaboration, and deliver better customer experiences - all from one powerful platform.
-
-Enjoy a delicious complimentary lunch while learning how Elevate helps organizations:
-
-- Streamline communications across voice, video, chat, and SMS
-- Empower employees to work securely from anywhere
-- Enhance customer interactions and responsiveness
-- Boost productivity with integrated collaboration tools
-- Unlock AI-powered features and capabilities that help teams work smarter
-- Extend and enhance Microsoft Teams with enterprise-grade calling and collaboration capabilities
-
-You'll gain practical insights, see a live product demonstration, and have the opportunity to connect with communications experts in a relaxed, interactive setting.
-
-Reserve Your Seat
-
-Space is limited - register today to enjoy a great meal and discover smarter ways to connect your teams, customers, and business.
-
-Presented By ACP | Verticomm + Intermedia Intelligent Communications
-
-<a id="event-02ace1b902dc483b"></a>
-
-## Open Bitcoin Q&A Chat!
-
-- Record: `mu-316047301`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T19:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/satoshi-service-center/events/316047301/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-72381682c31bddb6"></a>
-
-## Open Bitcoin Q&A chat!
-
-- Record: `mu-316047393`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T20:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047393/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-2746bc3ec8910b46"></a>
-
-## Japan Startup Showcase 2026 - Palo Alto, Silicon Valley Presented by Breakpoint #TechCrunch2026
-
-- Record: `luma-evt-DW1mNXiXnvQ42Bi`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T20:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/kdci5gdv>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c1b04587b0416326"></a>
-
-## Japan Night Reception 2026 during SEMICON West
-
-- Record: `luma-evt-7xVB1XCgGZb5zVU`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/c7pqzty8>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7da6191768c0c18a"></a>
-
-## Nicolas y Los Fumadores - Miami Debut
-
-- Record: `luma-evt-thHhf6DA8th0Q15`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-14T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/0ghf8za3>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-45f8d5339fe54218"></a>
-
-## Barcelona x Silicon Valley Innovation Meetup
-
-- Record: `luma-evt-1u3kkLddnMGQZBl`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T00:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/kstkkf6w>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-b3c58685bed8150d"></a>
-
-## Compute & Connect: OCP x Semicon West Happy Hour
-
-- Record: `luma-evt-ErHDHiY7cNaFVUa`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T00:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/3n5iraj9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-0ecdfd47b2da0da1"></a>
-
-## Forward Vision: The Impact Lab
-
-- Record: `luma-evt-FDAyeAjNSVnjBES`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T00:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/5ysyjz88>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-39ea977c63f866ea"></a>
-
-## Polish Innovation Evening: From ideas to connections — Poland meets Silicon Valley
-
-- Record: `luma-evt-fKfXXsKEnfOd2GE`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T00:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/7ypc8nvc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d467b682b2eb0181"></a>
-
-## SemiAnalysis Presents: Silicon After Dark @ OCP Global Summit
-
-- Record: `luma-evt-SYVG9qZE6ZTChmG`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T02:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/siliconafterdark>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -25697,18 +24648,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-15T09:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316558834/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-398d095b039dc983"></a>
-
-## Flight3 x Superteam UK: Design & Presence: Look Like You Belong
-
-- Record: `luma-host-evt-evt-9EG9ApAOfm0ma0n`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T12:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/71xjzurz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34353,18 +33292,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-42830b174c1e9fed"></a>
-
-## Inscrição no programa IDEA Vestir o Futuro: da Psicologia do Consumo à Inovação Responsável
-
-- Record: `luma-evt-IDDZkYE3eHs0BKD`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-12T10:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/wwzz88ui>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-bc36f9b9b43f3c71"></a>
 
 ## Solana Demo Day \| London 2026
@@ -35235,18 +34162,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-db145f5599efdf0c"></a>
-
-## BU Blockchain x UPE Hackathon
-
-- Record: `luma-evt-Wdr0r9UyziI3u9O`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-14T14:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/wsyijrny>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-396109b368ddb020"></a>
 
 ## South Side Spanish (Bridgeport)
@@ -35283,6 +34198,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e909ccafcfb8401b"></a>
+
+## The Cocoon Experience™: Sound Journey in Silk & Cacao · Love, Forward
+
+- Record: `luma-evt-7E6JeTwXpDTSJne`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/89ilcbus>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-34b711fa770ebb08"></a>
 
 ## Superteam India Poker Night
@@ -35304,6 +34231,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-14T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/n8n-gyab>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-db145f5599efdf0c"></a>
+
+## BU Blockchain x CertiK Workshop
+
+- Record: `luma-evt-Wdr0r9UyziI3u9O`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/wsyijrny>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35331,6 +34270,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5862a517a6e0efbb"></a>
+
+## ☕ Silicon Valley Coffee & Connections: Sunnyvale
+
+- Record: `luma-evt-x8O59ziM38bf2No`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/s8siaoha>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2928fc73d03f2c38"></a>
 
 ## Little Blue Door: FastShares After Hours
@@ -35352,6 +34303,42 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-14T19:00:00-08:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/renegadephilosophers/events/317040834/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-293d7b0df072c5b7"></a>
+
+## Mastermind with a View: Finish Q4 Strong
+
+- Record: `luma-evt-sgVaJHjeD489wEv`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6n2w8nr2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2eed45927ac18f77"></a>
+
+## UTHF 2026: From Silicon to Sovereignty · AI Agents, Robotics & Sovereign AI
+
+- Record: `luma-evt-nFPzJmP0qJSRv8p`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T20:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/i2rg3kqy>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8064d99ffe7b1bed"></a>
+
+## The Sculpt Social: A Pvolve x Fairway Social Experience 💗✨
+
+- Record: `luma-evt-nr2uvULc8jBzgKb`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-14T20:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ramaexbx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35628,6 +34615,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-19fbb2b92b361a10"></a>
+
+## n8n Buildathon at Santa Clara University with AIC Club
+
+- Record: `luma-evt-10iIKpuqziInFER`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/n8n-j2jq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-46fa6e3b988db509"></a>
 
 ## Founder x VC Summit \| VIP Dinner \| Breakpoint Week 🇬🇧
@@ -35685,6 +34684,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-15T19:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/14g91az1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-85326c150a6063d2"></a>
+
+## XRP.Directory - Merchant Sign Up
+
+- Record: `luma-evt-inuMsj5RmMB8uMA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-15T20:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/gba385f7>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36102,6 +35113,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-934c5934ea3629d9"></a>
+
+## BING BONG AFTER DARK BREAKPOINT powered by PHANTOM
+
+- Record: `w3v-bing-bong-after-dark-breakpoint-powered-by-phantom`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16T21:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/ketcj6z6>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-11e5a7965eda5ac9"></a>
 
 ## CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters come together to bring you the Official Blockchain Futurist Conference Kickoff
@@ -36161,6 +35184,18 @@ By RSVPing to any of our events, you agree to be added to our future corresponde
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-fe2850083eb0cab7"></a>
+
+## Clips & Cocktails: AI Marketing Happy Hour with OpusClip & Marina Mogilko (aka Silicon Valley Girl)
+
+- Record: `luma-evt-G5UIxSj79mmASoV`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T01:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4xcuvbn7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a77bb66ba20da1cc"></a>
 
 ## Antidote Literary Salon
@@ -36170,6 +35205,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-17T02:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/gpghxftx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7e62070f649726b8"></a>
+
+## Chips & Pints: AI Club Semiconductor Happy Hour
+
+- Record: `luma-evt-e9cHFvY3I25nK9n`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ufox7tum>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36331,13 +35378,37 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-b2a17fa86cbd71cd"></a>
 
-## South Beach Miami Bitcoin Happy Hour at Monty's 300 Alton
+## South Beach Miami Bitcoin Happy Hour (with Special Guest Jeff Booth)
 
 - Record: `luma-evt-HxYBokO5oCKim9I`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-17T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/v0ejapv4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f57791f7e932dfe8"></a>
+
+## 30×30 Real Business AI Buildathon @Stanford
+
+- Record: `luma-evt-eMtFyc4Ro49baFE`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/7yx7xeqx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4792ddd146f0dcbb"></a>
+
+## 30×30 Real Business AI Buildathon @Stanford
+
+- Record: `luma-evt-ttAIX9coGPDKyR3`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fzo1dcu3>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36400,6 +35471,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T00:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/8hg81fe3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-00552981fc852b79"></a>
+
+## Spectroscopy in Astronomy
+
+- Record: `luma-evt-r8tHVqMHrFOKZ9W`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/mlmpmsx9>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36472,6 +35555,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T18:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/atlantabitdevs/events/317195141/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a13a5c3083841567"></a>
+
+## Open Bitcoin Q&A chat!
+
+- Record: `mu-316047404`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T20:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047404/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36583,6 +35678,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-42830b174c1e9fed"></a>
+
+## Inscrição no programa IDEA Vestir o Futuro: da Psicologia do Consumo à Inovação Responsável
+
+- Record: `luma-evt-IDDZkYE3eHs0BKD`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T10:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/wwzz88ui>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-14f458a250ffa4da"></a>
 
 ## ZK Learning Group: ZK Identity, supporting AML/KYC with ZK
@@ -36667,6 +35774,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2d14aba3ffd2a25a"></a>
+
+## Zug Ethereum Meetup #2 - DeFi on a neutral layer
+
+- Record: `luma-evt-ebWqcyECgmxb1tz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/zqkhdl2y>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d44aa25ddd722fa4"></a>
 
 ## B.O.B. Social with Ryan Kuester (Mujina)
@@ -36737,6 +35856,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/IXH26-xrpl-hackathon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fafa297b21dfd344"></a>
+
+## Solana Para Estudiantes - España 🇪🇸
+
+- Record: `luma-host-evt-evt-AfGAxD8AxHdOEEx`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T14:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/4j37rbu1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36832,18 +35963,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.universityblockchain.org/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-fafa297b21dfd344"></a>
-
-## Solana Para Estudiantes - España 🇪🇸
-
-- Record: `luma-host-evt-evt-AfGAxD8AxHdOEEx`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-20T17:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/4j37rbu1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36973,7 +36092,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `luma-host-evt-evt-hGXtyURp5lgm6Fa`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-22T18:00:00.000Z
+- Starts: 2026-11-22T21:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/brgiltaz>
 
@@ -37024,6 +36143,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23T20:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/zcaxtqsh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b4c58fd6ec41a00c"></a>
+
+## Toronto Blockchain Week 2026
+
+- Record: `luma-evt-13WH0lUCgcznSeW`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/blockchainweekto>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -37455,6 +36586,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1926db3d87822c18"></a>
+
+## The Art Angle – Artnet Airwaves Podcast Festival
+
+- Record: `luma-evt-ByPj9IuvAUH1Ydp`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T21:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/20q27enj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2e8567471710baee"></a>
 
 ## Proof of Talk Abu Dhabi
@@ -37518,6 +36661,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-04T20:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/vrxcwgdd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2335dd10ab2c6ace"></a>
+
+## NFT Energy Bash \| Art Basel Miami 2026
+
+- Record: `luma-evt-dY0o69Xn3KxTtUc`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-04T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/8ncxj67q>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -37981,6 +37136,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-01-27T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.globalgamesshow.com/abu-dhabi/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-637b58e12564453e"></a>
+
+## Women in Bitcoin Quarterly Meetup
+
+- Record: `luma-evt-pNMoC7rVijKGhB1`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-29T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/c8j9csoz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -38981,7 +38148,7 @@ Join 2027 Waitlist JOIN US ON 6 - 7 October 2027 THE LARGEST CRYPTO GATHERING IN
 
 - Record: `w3v-devcon-ix-lisbon`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2027-10-11T08:00:00.000Z
+- Starts: 2027-10-12T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://devcon.org/lisbon/>
 

@@ -715,29 +715,6 @@
     }
   },
   {
-    "id": "premier-tabconf",
-    "slug": "tabconf",
-    "name": "TABConf 8 2026",
-    "description": "TABConf 8 runs October 12–15, 2026 in Atlanta, GA — the final TABConf\n\nFormat\n\nOctober 12–13 are Builder Days with hands-on building and deep-dive workshops; October 14–15 bring conference sessions across villages, the main stage, and community-led programming\n\nVenue and tickets\n\nVenue: Georgia Tech Exhibition Hall, with nearby hotel options bookable directly. Pay with Bitcoin or fiat via Stripe. Speaker, sponsor, grant, and talk submissions run through the official site\n\nMission\n\nTABConf's mission is to create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin — signal, not hype, from core devs to new contributors.",
-    "startDate": "2026-10-12T09:00:00.000Z",
-    "endDate": "2026-10-14T18:00:00.000Z",
-    "city": "Atlanta",
-    "country": "United States",
-    "location": "Atlanta, GA, USA",
-    "url": "https://tabconf.com",
-    "website": "https://tabconf.com",
-    "coverImage": "/events/tabconf.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://tabconf.com/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Home · TABConf 8",
-      "sha256": "de63f15ebd6dd42452e24385f322cc075aac67b97e4a3f232b5e179fe56b52f0"
-    }
-  },
-  {
     "id": "premier-planblugano",
     "slug": "plan",
     "name": "Plan B Forum Lugano 2026",
@@ -1562,31 +1539,6 @@
     "source": "curated-premier",
     "slug": "ship-safe-devcon-mumbai-security-sessions",
     "coverImage": "/logo/partners/ibw.png"
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
-    "coverImage": "/events/premier-coinalts-2026-13936ffa.webp",
-    "id": "premier-coinalts-2026",
-    "slug": "coinalts",
-    "name": "CoinAlts 2026",
-    "description": "## Shaping the Future of Digital Assets\n\nOn October 14, 2026, CoinAlts will host the latest in a series of events for the digital asset community addressing investment, legal, and operational issues pertaining to private fund managers. The 2026 edition joins the fund symposium at SF Fund Week 2026 in San Francisco\n\nAbout\n\nEstablished in 2017, CoinAlts is an annual gathering and forum for the digital asset community — the leading gathering of crypto and financial services experts. 2026 premier sponsors Cole-Frieman and Mallon LLP, MG Stover LLC, Harneys, and KPMG run practices devoted to the space\n\nProgram\n\nA fund symposium program built around investment, legal, and operational sessions for private fund managers, with exclusive insights and networking opportunities.",
-    "startDate": "2026-10-14T09:00:00-07:00",
-    "endDate": "2026-10-14T18:00:00-07:00",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Hyatt Regency San Francisco, San Francisco, CA, USA",
-    "url": "https://coinalts.xyz/",
-    "website": "https://coinalts.xyz/",
-    "registrationUrl": "https://coinalts.xyz/",
-    "venueName": "Hyatt Regency San Francisco",
-    "descriptionSource": {
-      "url": "https://coinalts.xyz/",
-      "fetchedAt": "2026-09-22T12:01:12.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "CoinAlts | Discover the Future of Finance | October 14, 2026",
-      "sha256": "c0ddd89c7a865b25ed03982f0877264c8b063292f3ca9abf3f4c65fdfa82fbe8"
-    }
   },
   {
     "twitter": null,

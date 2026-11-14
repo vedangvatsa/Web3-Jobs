@@ -1,31 +1,39 @@
 {
-  "checkedAt": "2026-11-12T03:50:07.920Z",
+  "checkedAt": "2026-11-14T13:03:55.491Z",
   "written": true,
   "sourceCounts": {
     "https://luma.com/token2049": 0,
-    "https://luma.com/2049events": 7,
+    "https://luma.com/2049events": 9,
     "https://luma.com/singaporesideevents": 0,
     "https://week.token2049.com": 601,
     "https://docs.google.com/spreadsheets/d/1y3D1zB9IIGJbLeF8aicSYoXxtiZ5kAS25Wj4a5hvovg/view": 600,
     "https://miragather.com/TOKEN2049SGSideEvents2026": 510
   },
   "counts": {
-    "existing": 7,
+    "existing": 6,
+    "added": 3,
     "excluded": 5,
     "needs-review": 2
   },
-  "importedTotal": 13,
-  "added": [],
-  "receipts": [
+  "importedTotal": 16,
+  "added": [
     {
-      "url": "https://luma.com/wacw4gtv",
-      "name": "Get Down For Real",
-      "sources": [
-        "https://luma.com/2049events"
-      ],
-      "status": "existing",
-      "slug": "get-down-real3"
+      "id": "token2049-evt-gEewTU706GougGe",
+      "slug": "bubble-house",
+      "name": "Bubble House+ Spa & Relax Lounge Social"
     },
+    {
+      "id": "token2049-evt-9mFNax2EGCZcHcG",
+      "slug": "fintech-networking",
+      "name": "Fintech Networking Mixer @ Singapore FinTech Week"
+    },
+    {
+      "id": "token2049-evt-gtIzreCiLVQG3Zo",
+      "slug": "sff-founder",
+      "name": "SFF Founder Networking: What Founders Overlook When Scaling"
+    }
+  ],
+  "receipts": [
     {
       "url": "https://luma.com/e3w6b50m",
       "name": "Get Down For Real",
@@ -79,6 +87,36 @@
       ],
       "status": "existing",
       "slug": "tech-summit"
+    },
+    {
+      "url": "https://luma.com/lzzjqbqm",
+      "name": "Bubble House+ Spa & Relax Lounge Social",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "bubble-house",
+      "eventId": "evt-gEewTU706GougGe"
+    },
+    {
+      "url": "https://luma.com/7e05bd9p",
+      "name": "Fintech Networking Mixer @ Singapore FinTech Week",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "fintech-networking",
+      "eventId": "evt-9mFNax2EGCZcHcG"
+    },
+    {
+      "url": "https://luma.com/fpiex9vx",
+      "name": "SFF Founder Networking: What Founders Overlook When Scaling",
+      "sources": [
+        "https://luma.com/2049events"
+      ],
+      "status": "added",
+      "slug": "sff-founder",
+      "eventId": "evt-gtIzreCiLVQG3Zo"
     },
     {
       "url": "https://token2049.com/singapore/2049-origins",

@@ -841,41 +841,6 @@
       }
     ]
   },
-  "premier-tabconf": {
-    "summaryLead": "TABConf 8 lands in Atlanta this October with its usual promise: signal over hype, and rooms full of people who actually ship Bitcoin code. Expect hands-on Builder Days, community-proposed sessions, and the kind of arguments about protocol design you will not hear at a sponsor-heavy mega-conference.",
-    "sections": [
-      {
-        "heading": "A conference built like a workshop",
-        "content": [
-          "Most crypto conferences are built around their keynote slots. TABConf was built around its contributors. The stated mission is refreshingly blunt - create a forum for protocol and application developers to collaborate, debate, and innovate on Bitcoin - and the event has run on that principle since its first edition in 2018. It is community-run and multi-track, closer to an unconference than a production: attendees propose much of the programming themselves, and the people on stage are usually the same people merging pull requests the rest of the year.",
-          "That shape changes who shows up. Core developers sit in the same rooms as first-time contributors, educators pitch sessions beside researchers, and nobody needs a sponsor badge to be taken seriously. The organizers put it plainly: if you want signal rather than hype, this is your room. The four words on their masthead - technical, accessible, Bitcoin, community - are not decoration; they describe how the event actually selects its programming and treats its attendees.",
-          "For anyone whose interest in Bitcoin runs to real engineering trade-offs instead of price commentary, TABConf remains one of the few conferences designed for exactly that conversation. Bring opinions about consensus changes, wallet standards, or Lightning routing. You will find company."
-        ]
-      },
-      {
-        "heading": "Two halves to the week",
-        "content": [
-          "The eighth edition splits its time deliberately. October 12 and 13 belong to Builder Days: hands-on building sessions and deep-dive workshops where opening a laptop is expected and passive note-taking is missing the point. This is the part of TABConf that veterans tell newcomers not to skip - the format assumes you will try things, break things, and ask the person next to you why they broke differently.",
-          "From October 14 the format shifts to conference programming - themed villages, a main stage, and community-led sessions running in parallel across the venue. With multiple things happening at once, skim the schedule the night before and pick two or three priorities per day rather than attempting everything.",
-          "One practical warning: the official site lists programming through October 15, even though some listings show the conference ending on the 14th, so confirm the schedule before booking your return flight. Either way, plan to stay through the final afternoon. At developer-first events like this, the closing sessions tend to be where the week's debates get settled rather than merely opened."
-        ]
-      },
-      {
-        "heading": "Villages, and a game worth losing",
-        "content": [
-          "Instead of one big track, TABConf runs villages - semi-autonomous spaces organized around themes, each curating its own talks and whiteboards. It keeps hallway conversations concentrated: Lightning people find Lightning people, wallet builders find wallet builders, and cross-pollination happens when you deliberately wander between them. For newcomers, the villages double as a map of where Bitcoin's open questions currently live, from protocol research down to application plumbing.",
-          "There is also Capture the Bitcoin, the event's own security challenge, which turns attack-and-defend thinking into a competition running alongside the talks. Add a grants program that helps contributors attend who otherwise could not justify the trip, and a pattern emerges: participation beats spectatorship at every level of this event. Tickets can be paid in bitcoin or by card, which tells you something about the audience too. Come prepared to contribute something, however small - a question counts."
-        ]
-      },
-      {
-        "heading": "Logistics, briefly",
-        "content": [
-          "The venue is the Georgia Tech Exhibition Hall, which puts you near campus rather than downtown glitz; the site lists hotel options nearby and recommends booking directly with the properties. Atlanta in mid-October is usually mild and manageable, and the rail line spares visitors most of the city's notorious traffic. Budget real time between sessions for hallway arguments - at this event those are the actual programme.",
-          "Between sessions, the useful move is introducing yourself inside whichever village matches your work. TABConf rewards people who arrive with specific questions rather than generic ambitions. Eight editions in, its reputation rests on being the conference where Bitcoin's builders argue productively - and where a first-timer with a good question is never out of place."
-        ]
-      }
-    ]
-  },
   "premier-planblugano": {
     "summaryLead": "Plan ₿ Forum turns Lugano into Bitcoin's southern Swiss outpost for two days each autumn. The 2026 edition runs October 23-24 in a city where paying municipal taxes in bitcoin has been unremarkable for years - and where the host town itself is part of the agenda.",
     "sections": [
