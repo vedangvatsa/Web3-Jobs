@@ -172146,7 +172146,31 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-13",
-      "nextReviewDate": "2026-11-14"
+      "nextReviewDate": "2026-11-14",
+      "articleSlug": "arkansaskalshi",
+      "draftProgress": {
+        "id": "0218d84130d9972aa9f7",
+        "day": "2026-11-14",
+        "articleSlug": "arkansaskalshi",
+        "note": "Round 2: read Unchained's Nov 13 story and crypto.news's Nov 13 report; also opened the primary CFTC complaint PDF (E.D. Ark. 4:26-cv-01255, filed Nov 12). Two independent sources plus primary verified; draft and hero image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/kalshi-gets-doj-backing-against-arkansas-amid-prediction-markets-turf-war/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/doj-cftc-sue-arkansas-kalshi-prediction-markets/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.cftc.gov/media/14921/OGC_ArkansasCompliant111226/download",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-14T00:49:45.611Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f3b6f3548e56982b9589": {
       "source": "The Defiant",
