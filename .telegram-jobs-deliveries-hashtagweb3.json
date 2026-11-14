@@ -355,5 +355,123 @@
     "slotKey": "2026-11-14:afternoon",
     "messageId": 156222,
     "sentAt": "2026-11-14T11:33:10.565Z"
+  },
+  "b678097e-14f4-4a69-b677-1b433eedf113": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T19:32:30.867Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5074d899-f321-4eb2-be3a-f33f849f98a2",
+          "title": "Data Platform Engineer",
+          "company": "Rain",
+          "link": "https://jobs.ashbyhq.com/rain/5074d899-f321-4eb2-be3a-f33f849f98a2",
+          "date": "2026-11-12T15:15:22.911+00:00",
+          "source": "Ashby: Rain [rain]",
+          "location": "San Juan, Puerto Rico",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Technology and Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng768"
+        },
+        "key": "5074d899-f321-4eb2-be3a-f33f849f98a2",
+        "slug": "eng768",
+        "url": "https://hashtagweb3.com/eng768?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Data Platform Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8284968",
+          "title": "Enterprise Account Executive (Grower) - German Speaking",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8284968",
+          "date": "2026-10-22T13:25:33-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Germany",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls337"
+        },
+        "key": "8284968",
+        "slug": "sls337",
+        "url": "https://hashtagweb3.com/sls337?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Enterprise Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+          "title": "Head of Product",
+          "company": "Dune",
+          "link": "https://jobs.ashbyhq.com/dune/b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+          "date": "2026-10-19T11:54:15.743+00:00",
+          "source": "Ashby: Dune [Dune]",
+          "location": "East Coast US & Europe (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product & Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm314"
+        },
+        "key": "b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+        "slug": "pm314",
+        "url": "https://hashtagweb3.com/pm314?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Dune",
+        "title": "Head of Product"
+      },
+      {
+        "snapshot": {
+          "id": "4465190009",
+          "title": "Senior Platform Engineer",
+          "company": "Turnkey",
+          "link": "https://job-boards.greenhouse.io/turnkeycareers/jobs/4465190009",
+          "date": "2026-10-23T11:22:09-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Turnkey [turnkeycareers]",
+          "location": "United States (Remote)",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$180k – $250k/yr",
+          "dateVerified": true,
+          "slug": "eng299"
+        },
+        "key": "4465190009",
+        "slug": "eng299",
+        "url": "https://hashtagweb3.com/eng299?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Turnkey",
+        "title": "Senior Platform Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5481625008",
+          "title": "Senior Machine Learning Engineer, Platform",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5481625008?gh_jid=5481625008",
+          "date": "2026-11-13T11:55:55-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "10402 Engineering  - Product Platform Engineering",
+          "active": true,
+          "salary": "$228.7k – $343.1k/yr",
+          "dateVerified": true,
+          "slug": "eng501"
+        },
+        "key": "5481625008",
+        "slug": "eng501",
+        "url": "https://hashtagweb3.com/eng501?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Senior Machine Learning Engineer"
+      }
+    ],
+    "message": "- Rain is hiring <a href=\"https://hashtagweb3.com/eng768?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Platform Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls337?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive (Grower) - German Speaking</a>\n- Dune is hiring <a href=\"https://hashtagweb3.com/pm314?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Product</a>\n- Turnkey is hiring <a href=\"https://hashtagweb3.com/eng299?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Platform Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/eng501?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Machine Learning Engineer, Platform</a>",
+    "slotKey": "2026-11-14:evening"
   }
 }
