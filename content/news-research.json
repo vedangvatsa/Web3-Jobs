@@ -166280,7 +166280,27 @@
         "Retry The Block article after Cloudflare challenge clears"
       ],
       "lastReviewedDay": "2026-11-13",
-      "nextReviewDate": "2026-11-14"
+      "nextReviewDate": "2026-11-14",
+      "articleSlug": "bitmineloss",
+      "draftProgress": {
+        "id": "475ada6159bd64f57ebf",
+        "day": "2026-11-14",
+        "articleSlug": "bitmineloss",
+        "note": "Round 2: re-read Cointelegraph and also read Unchained's 10-K story; two independent sources verified (.31B net loss, 5,901,837 ETH at 4.56B vs 9.95B cost, material weaknesses second year, 43.7M derivatives loss). Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/bitmine-says-its-controls-are-still-not-effective-as-eth-ended-the-year-5-4-billion-below-cost",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-14T00:49:49.631Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "405ff13396b0517f98b2": {
       "source": "Crypto Briefing",
