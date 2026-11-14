@@ -173197,11 +173197,29 @@
         "The Defiant"
       ],
       "id": "801ba3d8b5380a0b22fd",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T07:10:03.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "source-blocked",
+      "note": "Read Crypto Briefing Nov. 13 full text (foundation-linked wallet sold 1,000 ETH Nov. 10 and 1,000 ETH Nov. 11 through CoW Protocol at $2,080-$2,130 averages, proceeds converted to USDS, wallet still held over 24,000 ETH, prior 2,785 ETH sale Oct. 26, 2.5-year expense buffer policy). The Defiant second URL is a price story whose body did not load and does not mention the sale, so no independent corroboration of the sale exists yet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/ether-nears-2-000-as-weekly-loss-outpaces-bitcoin-s",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:30:50.808Z",
+      "retrySearches": [
+        "Find independent reporting or on-chain analysis corroborating the Ethereum Foundation wallet sale of 2,000 ETH on Nov. 10-11 2026 and its USDS conversion"
+      ],
+      "lastReviewedDay": "2026-11-14",
+      "nextReviewDate": "2026-11-15"
     },
     "62d5d5f9b585a43232ba": {
       "source": "CryptoSlate",
@@ -335929,6 +335947,25 @@
           "retrySearches": [
             "Find independent reporting or an Ethlabs primary announcement corroborating the pqai27 post-quantum Ethereum 2027 proposal and Quick Slots withdrawal",
             "Retry thedefiant.io Ethlabs article after its 403 within the verification window"
+          ]
+        },
+        "801ba3d8b5380a0b22fd": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing Nov. 13 full text (foundation-linked wallet sold 1,000 ETH Nov. 10 and 1,000 ETH Nov. 11 through CoW Protocol at $2,080-$2,130 averages, proceeds converted to USDS, wallet still held over 24,000 ETH, prior 2,785 ETH sale Oct. 26, 2.5-year expense buffer policy). The Defiant second URL is a price story whose body did not load and does not mention the sale, so no independent corroboration of the sale exists yet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/ether-nears-2-000-as-weekly-loss-outpaces-bitcoin-s",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:30:50.808Z",
+          "retrySearches": [
+            "Find independent reporting or on-chain analysis corroborating the Ethereum Foundation wallet sale of 2,000 ETH on Nov. 10-11 2026 and its USDS conversion"
           ]
         }
       },
