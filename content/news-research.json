@@ -174719,9 +174719,9 @@
         "Bankless"
       ],
       "id": "549f3d77e33c6ffd5976",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-15T21:07:49.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "articleSlug": "kalshitrump",
@@ -174744,8 +174744,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: kalshitrump.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph, Bankless and Unchained on Kalshi ending Trump Jr.'s advisory role; mutual-split quote, August timeline, B/1B Polymarket round with 00M 1789 contribution, 00k stake dilution, Warren-Merkley Nov 9 letter and optics-issue comment verified across sources. Rewrote draft to 600+ words; quality, formatting, images, duplicates and link 200s pass.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
@@ -174756,16 +174756,15 @@
           "outcome": "read"
         },
         {
-          "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-          "outcome": "blocked"
+          "url": "https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-13T13:15:19.567Z",
-      "lastReviewedDay": "2026-11-13",
+      "reviewedAt": "2026-11-14T00:39:58.054Z",
+      "lastReviewedDay": "2026-11-14",
       "retrySearches": [
         "Repair and revalidate the preserved kalshitrump draft against its original sources: kalshitrump.md: under 600 words"
       ],
-      "nextReviewDate": "2026-11-14",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -335395,6 +335394,27 @@
           "reviewedAt": "2026-11-14T00:35:24.678Z",
           "duplicateOf": "secnoms",
           "mergedInto": "eeb0a1c4112118b24f1a"
+        },
+        "549f3d77e33c6ffd5976": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph, Bankless and Unchained on Kalshi ending Trump Jr.'s advisory role; mutual-split quote, August timeline, B/1B Polymarket round with 00M 1789 contribution, 00k stake dilution, Warren-Merkley Nov 9 letter and optics-issue comment verified across sources. Rewrote draft to 600+ words; quality, formatting, images, duplicates and link 200s pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/kalshi-ends-donald-trump-jr-advisor-role",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/donald-trump-jr-leaves-kalshi-keeps-polymarket-role-a-week-after-democrats-win-congress/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:39:58.054Z",
+          "articleSlug": "kalshitrump"
         }
       },
       "baselineSlugs": [
