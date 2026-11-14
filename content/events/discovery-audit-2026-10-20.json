@@ -50,17 +50,6 @@
       "descriptionSha256": "1c12dbb0225562c76a9f4d2e92530cc747b7417ed68acea5c4ee34bb92df5921"
     },
     {
-      "id": "luma-batch-jR6a4UNcsq5XvJN",
-      "slug": "islanddao-v5",
-      "aliases": [
-        "6laijuyn"
-      ],
-      "startDate": "2026-10-19T13:00:00.000Z",
-      "endDate": "2026-11-11T20:00:00.000Z",
-      "timezone": "America/Sao_Paulo",
-      "descriptionSha256": "50548b1289251da8196981f18fe250499fb60e6e3b561a5d8c3f99a669287c85"
-    },
-    {
       "id": "luma-batch-evtthEKKGG0CkEEX",
       "slug": "openfxm202026",
       "aliases": [],
@@ -317,28 +306,6 @@
       "descriptionSha256": "8ab4f503aea0a10dc85071d12587d181650130e7f2d869b4afffd34c66830d1f"
     },
     {
-      "id": "luma-batch-evtPICyDbNudDA4Z",
-      "slug": "bitcoin-indonesia-jakarta-meetup",
-      "aliases": [
-        "fan9g1ft"
-      ],
-      "startDate": "2026-10-24T06:00:00.000Z",
-      "endDate": "2026-10-24T08:00:00.000Z",
-      "timezone": "Asia/Jakarta",
-      "descriptionSha256": "e791cc87bca5e05be7aebb1fc2ed7409eea605e31b4267074efe69f34f1ec5c7"
-    },
-    {
-      "id": "india-luma-76s6hwzv",
-      "slug": "ready-for-the-run-lucknow",
-      "aliases": [
-        "rrl"
-      ],
-      "startDate": "2026-10-24T06:30:00.000Z",
-      "endDate": "2026-10-24T09:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "descriptionSha256": "72efcbb561e0de1226dd706c74d96d8ba5e646649785c76e5a7820a44b8653ed"
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "slug": "ai-fintech-xrpl-hackathon",
       "aliases": [
@@ -389,17 +356,6 @@
       "endDate": "2026-10-26T00:00:00.000Z",
       "timezone": "America/Los_Angeles",
       "descriptionSha256": "9e5f371029bc9d67186c4175bcff599bf28d2077fe764520f3eee4fa34734909"
-    },
-    {
-      "id": "india-luma-bitshalaboss",
-      "slug": "bitshala-boss-summit",
-      "aliases": [
-        "bbs"
-      ],
-      "startDate": "2026-10-26T05:30:00.000Z",
-      "endDate": "2026-11-01T05:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "descriptionSha256": "5e6d982474cfa3fa0535abb1439ef4a5ed8f0b189a743b590b690b2bb165a50e"
     },
     {
       "id": "luma-batch-JrwT6SseTVJgIBs",
@@ -619,17 +575,6 @@
       "endDate": "2026-10-31T09:00:00.000Z",
       "timezone": "Asia/Tokyo",
       "descriptionSha256": "e1eaf645f6db7c93b8f1b24fe170d1f8ba9411a4727ff5a04dcb659cef81bc5a"
-    },
-    {
-      "id": "india-luma-co5dtixa",
-      "slug": "ready-for-the-run-pune",
-      "aliases": [
-        "rrp"
-      ],
-      "startDate": "2026-10-31T05:30:00.000Z",
-      "endDate": "2026-10-31T08:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "descriptionSha256": "b88493ec138e41750f26f688ab031c3fc32bccadeb35c8ea2a9b8a6298833014"
     },
     {
       "id": "premier-ibt-mumbai-2026",
@@ -1324,17 +1269,6 @@
       "descriptionSha256": "745e9d7168c20e376b98318305bf805a9868670880e75e974621c2c0604d5058"
     },
     {
-      "id": "luma-batch-KupO2QEcLws6KMf",
-      "slug": "community-call",
-      "aliases": [
-        "8uhc300o"
-      ],
-      "startDate": "2026-11-05T17:00:00.000Z",
-      "endDate": "2026-11-05T17:30:00.000Z",
-      "timezone": "America/Toronto",
-      "descriptionSha256": "1faa393b8b5ee22a32e7cacecb0de8cb469400b9185d63068ae300c30d2d0adf"
-    },
-    {
       "id": "curated-dev3pack-career-fair-2026",
       "slug": "dev3pack-devcon-career-fair",
       "aliases": [],
@@ -1519,17 +1453,6 @@
       "descriptionSha256": "be081a9c5272bbd04fe2b2053e78fb12a0917b1b491e540b4000b37990e99458"
     },
     {
-      "id": "luma-batch-evtKhUrCbu57vTQe",
-      "slug": "bitcoin-hong-kong-meetup-november-2026",
-      "aliases": [
-        "llqbx5ts"
-      ],
-      "startDate": "2026-11-12T11:30:00.000Z",
-      "endDate": "2026-11-12T14:00:00.000Z",
-      "timezone": "Asia/Hong_Kong",
-      "descriptionSha256": "cdd2f6c86a8dcc4213e6181228544a433e8be20c5f3a9d08b66c95b2c67cb80a"
-    },
-    {
       "id": "premier-singapore-blockchain-week-2026",
       "slug": "singapore-blockchain-week",
       "aliases": [],
@@ -1573,17 +1496,6 @@
       "descriptionSha256": "0dc54420d95bd6bef2b40dfac5b18263b9c8b72586e3864ebe457a95aaf6975c"
     },
     {
-      "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
-      "slug": "founder-vc-summit-demo-day",
-      "aliases": [
-        "fxvs3"
-      ],
-      "startDate": "2026-11-14T11:00:00.000Z",
-      "endDate": "2026-11-14T17:00:00.000Z",
-      "timezone": "Europe/London",
-      "descriptionSha256": "e8c009dee9be5a1efe04f20a76926470164419e4dd4a23569c981ff3fa240a27"
-    },
-    {
       "id": "premier-ibt-jaipur-2026",
       "slug": "ibt-jaipur",
       "aliases": [],
@@ -1618,17 +1530,6 @@
       "endDate": "2026-11-17T16:00:00.000Z",
       "timezone": "Europe/Warsaw",
       "descriptionSha256": "ed9dd7729abdb5fd62ba50c04d1a620cf30c44892a851028611a4d7c3fb05389"
-    },
-    {
-      "id": "w3v-founder-x-vc-summit-vip-dinner-26-11-17",
-      "slug": "founder-vc-summit-vip-dinner",
-      "aliases": [
-        "fxvs4"
-      ],
-      "startDate": "2026-11-15T19:00:00.000Z",
-      "endDate": "2026-11-15T22:00:00.000Z",
-      "timezone": "Europe/London",
-      "descriptionSha256": "f1c1850d64ef296d8a6876faf169c0832173d38c95ee47c615f6a43dd5bcbad6"
     },
     {
       "id": "luma-batch-evt8JjOeNcaN4TA5",
@@ -1752,17 +1653,6 @@
       "descriptionSha256": "2f86eadece1231eeb33aca295b6ac5d3b971b47223ec4c3ba61a5471d4c39dd1"
     },
     {
-      "id": "india-luma-52vxy6fo",
-      "slug": "ready-for-the-run-bhopal",
-      "aliases": [
-        "rrb"
-      ],
-      "startDate": "2026-11-21T06:30:00.000Z",
-      "endDate": "2026-11-21T09:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "descriptionSha256": "24b6da41d0cddcf78b7ed4e7687605cfb55cad2cc2098fdff3e5780d225f76c3"
-    },
-    {
       "id": "premier-ibt-chandigarh-2026",
       "slug": "ibt-chandigarh",
       "aliases": [],
@@ -1853,17 +1743,6 @@
       "descriptionSha256": "ec10c327dae1f95ac9a45b593d9ef20dc38923aff40cb5b6ff1e96a16d1c23c0"
     },
     {
-      "id": "india-luma-icnjduyi",
-      "slug": "ready-for-the-run-hyderabad",
-      "aliases": [
-        "rrh"
-      ],
-      "startDate": "2026-12-05T06:30:00.000Z",
-      "endDate": "2026-12-05T09:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "descriptionSha256": "19e3152d73c31a982a13a31a39841d396384ed645e114d8a3fb1bf1ba572653f"
-    },
-    {
       "id": "ma-bitcoin-mena",
       "slug": "bitcoin-mena",
       "aliases": [],
@@ -1905,17 +1784,6 @@
       "startDate": "2026-12-10",
       "endDate": "2026-12-11",
       "descriptionSha256": "62b6a6b5557ac7940c236519963e55628723e75121f202c1f0fe629f8b8a3446"
-    },
-    {
-      "id": "luma-batch-evtsJTiDuzqsClRt",
-      "slug": "bitcoin-hong-kong-meetup-december-2026",
-      "aliases": [
-        "4dgy9usl"
-      ],
-      "startDate": "2026-12-17T11:30:00.000Z",
-      "endDate": "2026-12-17T14:00:00.000Z",
-      "timezone": "Asia/Hong_Kong",
-      "descriptionSha256": "71f5bc8184ffea81f9e88a6df0f2be6bb51334d89cd7648fd254e8466ec95fc3"
     },
     {
       "id": "luma-batch-evtt671wDnUAzkDr",
@@ -2446,44 +2314,6 @@
         "width": 1042,
         "height": 1042,
         "bytes": 15110
-      }
-    },
-    {
-      "id": "curated-mining-disrupt-2027-03-22",
-      "name": "Mining Disrupt 2027",
-      "startDate": "2027-03-22T19:00:00-05:00",
-      "endDate": "2027-03-24T18:00:00-05:00",
-      "timezone": "America/Chicago",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://miningdisrupt.com/",
-      "lane": "global",
-      "reason": "No known identity or URL match. Exact timestamps and public address come from organizer Event JSON-LD, not calendar defaults.",
-      "evidence": [
-        {
-          "url": "https://miningdisrupt.com/",
-          "fetchedAt": "2026-10-20T08:03:32.828Z",
-          "excerpt": "Mining Disrupt + Intelligence Disrupt: one event connecting Bitcoin mining, AI infrastructure and HPC. March 22–24, 2027. Your ticket also includes Intelligence Disrupt. Your selected pass benefits apply. Event JSON-LD: startDate 2027-03-22T19:00:00-05:00; endDate 2027-03-24T18:00:00-05:00; Irving Convention Center at Las Colinas; 500 W Las Colinas Blvd, Irving, TX 75039, US.",
-          "sha256": "034f4d4442ebf06d63e6350101d85e0b82907370c918ee13a8773a7cd4a53096",
-          "representation": "HTTP response HTML and Event JSON-LD"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:44.174Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://miningdisrupt.com/og-md.jpg",
-        "fetchedAt": "2026-10-20T09:48:59.523Z",
-        "status": 200,
-        "local": "/events/curated-mining-disrupt-2027-03-22-f9b16991.webp",
-        "sourceSha256": "06287eab3d7e281587194c7d89b8f2d76009e31b8c73e78458009580c1fd57f7",
-        "sha256": "67fb3b6ee4b06918d9ad1c25c39d7b2ddf8273865e2d710be3b48aa1d2678938",
-        "originalWidth": 1200,
-        "originalHeight": 630,
-        "width": 1200,
-        "height": 630,
-        "bytes": 77588
       }
     },
     {
@@ -3135,43 +2965,6 @@
       }
     },
     {
-      "id": "mu-316825220",
-      "name": "Crypto and Cigars",
-      "startDate": "2026-11-17T18:00:00-05:00",
-      "endDate": "2026-11-17T20:00:00-05:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/nj-blockchain/events/316825220/",
-      "lane": "americas",
-      "reason": "No matching event ID, normalized URL or dated identity in the supplied inventory. Current registration date supersedes the October 20 date on the discovery directory.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/nj-blockchain/events/316825220/",
-          "fetchedAt": "2026-10-20T08:05:44.209Z",
-          "excerpt": "startDate: 2026-11-17T18:00:00-05:00; endDate: 2026-11-17T20:00:00-05:00; CIGARROC LLC, 77 River St, Hoboken, NJ 07030, USA. Looking to find out what everyone has been building. Its a BYOB place.",
-          "sha256": "f7558e131fc35043c3fcf9189024b545107e33202f21e7dc430d34933b97c301",
-          "representation": "html; JSON-LD and visible event description; hash is of the full UTF-8 response"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:55.922Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/4/b/2/1/600_536419233.jpeg",
-        "fetchedAt": "2026-10-20T09:49:11.806Z",
-        "status": 200,
-        "local": "/events/mu-316825220-701379ab.webp",
-        "sourceSha256": "646b405368426311cf703fcac9a08d6983832ecb0fd5b649d81ce35482d40de1",
-        "sha256": "1dc121f5803412a88b3a9fd85b1f5419eff400e0d01a819be5ecdb6454de48a1",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 38262
-      }
-    },
-    {
       "id": "mu-316790235",
       "name": "Crypto Clubhouse: Privacy on Tap + GOTV Trivia + Giveaways 6-9pm Goat Bar",
       "startDate": "2026-10-20T18:00:00-07:00",
@@ -3613,43 +3406,6 @@
         "width": 600,
         "height": 338,
         "bytes": 14600
-      }
-    },
-    {
-      "id": "curated-ubc-hackathon-2026-11-13",
-      "name": "UBC 2026 Hackathon",
-      "startDate": "2026-11-13T12:00:00-06:00",
-      "endDate": "2026-11-21",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.universityblockchain.org/programs/hackathon",
-      "lane": "americas",
-      "reason": "Distinct hackathon with its own registration link and start date; the parent UBC conference already exists. Organizer page verified even though Devpost returned 403. No event-specific hackathon cover verified.",
-      "evidence": [
-        {
-          "url": "https://www.universityblockchain.org/programs/hackathon",
-          "fetchedAt": "2026-10-20T08:11:04.601Z",
-          "excerpt": "UBC 2026 Hackathon. Online Nov 13–20; Finals Nov 21 at UT Austin. Nov 13: Hacking starts, 12 PM CST. Nov 20: Submit, 12 PM CST on Devpost. Tracks: Tokenized Equities & RWAs; Agentic Payments & AI; DeFi & Onchain Apps; Consumer Apps. Register on Devpost: https://ubc-hackathon-2026.devpost.com/.",
-          "sha256": "ba80abf7018aaa89525e043cbca6cefad3f3a7f19624b82fb62bdadc21bbc005",
-          "representation": "html; organizer program page"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:05.195Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://www.universityblockchain.org/opengraph.png",
-        "fetchedAt": "2026-10-20T09:49:17.290Z",
-        "status": 200,
-        "local": "/events/curated-ubc-hackathon-2026-11-13-564edfe4.webp",
-        "sourceSha256": "fcf26395d54e52ab8ac498e3662138ae6e8531dfd23afa483098ccc7a213edc3",
-        "sha256": "ae64df0e5e204b6a000a6f5ef46df86146697ef767b7d23b06b4df8e623154de",
-        "originalWidth": 1254,
-        "originalHeight": 1254,
-        "width": 1254,
-        "height": 1254,
-        "bytes": 58362
       }
     },
     {
@@ -4780,162 +4536,6 @@
       }
     },
     {
-      "id": "discovery-evt-3OzyUMXsLNiVr57",
-      "name": "Montreal VibeStation",
-      "startDate": "2026-11-27T14:30:00.000Z",
-      "endDate": "2026-11-27T23:00:00.000Z",
-      "timezone": "America/Toronto",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-3OzyUMXsLNiVr57",
-      "url": "https://luma.com/cfw1k6ge",
-      "lane": "americas",
-      "reason": "Explicit November 27 Montréal occurrence remains open; the separately canceled Vancouver occurrence is held.",
-      "evidence": [
-        {
-          "url": "https://luma.com/cfw1k6ge",
-          "fetchedAt": "2026-10-20T08:06:51.335Z",
-          "excerpt": "evt-3OzyUMXsLNiVr57; Montreal VibeStation; 2026-11-27T14:30:00.000Z to 23:00:00.000Z; America/Toronto; Montréal, Canada; public, open, approval true, guests-only address. Coworking, project work, team formation; drinks, snacks and lunch; free with approval.",
-          "sha256": "269a71dc95cce20f0ceb3ea548e67c20f7b53ce4a28eacf7a90cb6722916d578",
-          "representation": "html; __NEXT_DATA__; only public city retained"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:20.368Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/xe/f30bb02b-99fc-4f1b-af66-3694971ef23f.png",
-        "fetchedAt": "2026-10-20T09:49:29.024Z",
-        "status": 200,
-        "local": "/events/discovery-evt-ucvyelutcmrfegu-2b66225c.webp",
-        "sourceSha256": "9271a1c79f6c9147b175a71d6e216c27580b0f6935381478d87b258da9a41059",
-        "sha256": "3264774bce1b326514c85096721232c6bb827a1237f4e58e0702096e2650d374",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 61788
-      }
-    },
-    {
-      "id": "discovery-evt-SGziONOytDR21GD",
-      "name": "Toronto VibeStation",
-      "startDate": "2026-11-27T14:30:00.000Z",
-      "endDate": "2026-11-27T23:00:00.000Z",
-      "timezone": "America/Toronto",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-SGziONOytDR21GD",
-      "url": "https://luma.com/ih7o5t51",
-      "lane": "americas",
-      "reason": "Explicit November 27 Toronto occurrence remains open and has a distinct ID.",
-      "evidence": [
-        {
-          "url": "https://luma.com/ih7o5t51",
-          "fetchedAt": "2026-10-20T08:06:51.982Z",
-          "excerpt": "evt-SGziONOytDR21GD; Toronto VibeStation; 2026-11-27T14:30:00.000Z to 23:00:00.000Z; America/Toronto; Toronto, Canada; public, open, approval true, guests-only address. Coworking, project work and finding team members; drinks, snacks and lunch; free with approval.",
-          "sha256": "45db1c77a4942e4afe5a1605222a9548a2214116f3731484fcf0a805d41d21f2",
-          "representation": "html; __NEXT_DATA__; only public city retained"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:21.009Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/of/441cfe7d-c114-42ae-9e48-43654501c52d.png",
-        "fetchedAt": "2026-10-20T09:49:29.166Z",
-        "status": 200,
-        "local": "/events/discovery-evt-fcjhbklpkjjhs08-0f48898e.webp",
-        "sourceSha256": "e4b24966c3b613e5a629a03c426e77ecfec436f5f8a63f41cd2dd55cb4c1a874",
-        "sha256": "6b3848e6374e7dc5a55dfa540c2cb121d30a5884173d05fa663838852b61ff84",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 53744
-      }
-    },
-    {
-      "id": "discovery-evt-pp8byfBBIuDs1mx",
-      "name": "Toronto VibeStation",
-      "startDate": "2026-12-04T14:30:00.000Z",
-      "endDate": "2026-12-04T23:00:00.000Z",
-      "timezone": "America/Toronto",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-pp8byfBBIuDs1mx",
-      "url": "https://luma.com/jrrdjwua",
-      "lane": "americas",
-      "reason": "Explicit December 4 occurrence, individually verified rather than generated from a recurrence rule.",
-      "evidence": [
-        {
-          "url": "https://luma.com/jrrdjwua",
-          "fetchedAt": "2026-10-20T08:06:52.352Z",
-          "excerpt": "evt-pp8byfBBIuDs1mx; Toronto VibeStation; 2026-12-04T14:30:00.000Z to 23:00:00.000Z; America/Toronto; Toronto, Canada; public, open, approval true, guests-only address. Coworking, project work and finding team members; drinks, snacks and lunch; free with approval.",
-          "sha256": "9fd515af17aa441bad67616d879d69534b8546e850b7f7e8542fc78fb280926d",
-          "representation": "html; __NEXT_DATA__; only public city retained"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:21.123Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/of/441cfe7d-c114-42ae-9e48-43654501c52d.png",
-        "fetchedAt": "2026-10-20T09:49:29.166Z",
-        "status": 200,
-        "local": "/events/discovery-evt-fcjhbklpkjjhs08-0f48898e.webp",
-        "sourceSha256": "e4b24966c3b613e5a629a03c426e77ecfec436f5f8a63f41cd2dd55cb4c1a874",
-        "sha256": "6b3848e6374e7dc5a55dfa540c2cb121d30a5884173d05fa663838852b61ff84",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 53744
-      }
-    },
-    {
-      "id": "discovery-evt-VNxCBFaf8gbSOl1",
-      "name": "Montreal VibeStation",
-      "startDate": "2026-12-04T14:30:00.000Z",
-      "endDate": "2026-12-04T23:00:00.000Z",
-      "timezone": "America/Toronto",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-VNxCBFaf8gbSOl1",
-      "url": "https://luma.com/pvuo6rrc",
-      "lane": "americas",
-      "reason": "Explicit December 4 occurrence; distinct event ID and URL.",
-      "evidence": [
-        {
-          "url": "https://luma.com/pvuo6rrc",
-          "fetchedAt": "2026-10-20T08:06:52.919Z",
-          "excerpt": "evt-VNxCBFaf8gbSOl1; Montreal VibeStation; 2026-12-04T14:30:00.000Z to 23:00:00.000Z; America/Toronto; Montréal, Canada; public, open, approval true, guests-only address. Coworking, project work and team formation; drinks, snacks and lunch; free with approval.",
-          "sha256": "76daa9083ff84b1346aad44ec469a2f698904ca9307cb0422d41524f21f68699",
-          "representation": "html; __NEXT_DATA__; only public city retained"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:22.025Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/xe/f30bb02b-99fc-4f1b-af66-3694971ef23f.png",
-        "fetchedAt": "2026-10-20T09:49:29.024Z",
-        "status": 200,
-        "local": "/events/discovery-evt-ucvyelutcmrfegu-2b66225c.webp",
-        "sourceSha256": "9271a1c79f6c9147b175a71d6e216c27580b0f6935381478d87b258da9a41059",
-        "sha256": "3264774bce1b326514c85096721232c6bb827a1237f4e58e0702096e2650d374",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 61788
-      }
-    },
-    {
       "id": "discovery-evt-7IqcX8M9irXvPE3",
       "name": "Skyline Coworking",
       "startDate": "2026-10-23T13:30:00.000Z",
@@ -5858,82 +5458,6 @@
       }
     },
     {
-      "id": "discovery-evt-d2jbH5c6zkZDRCH",
-      "name": "Crypto Dinner - Rotterdam",
-      "startDate": "2026-11-18T17:30:00.000Z",
-      "endDate": "2026-11-18T20:00:00.000Z",
-      "timezone": "Europe/Amsterdam",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-d2jbH5c6zkZDRCH",
-      "url": "https://luma.com/dinnerRotterdam",
-      "lane": "europe",
-      "reason": "No matching Luma ID, URL or name/date. Public approval-required listing; city-only location retained.",
-      "evidence": [
-        {
-          "url": "https://luma.com/dinnerRotterdam",
-          "fetchedAt": "2026-10-20T08:06:25.558Z",
-          "excerpt": "api_id: evt-d2jbH5c6zkZDRCH; start_at: 2026-11-18T17:30:00.000Z; end_at: 2026-11-18T20:00:00.000Z; timezone: Europe/Amsterdam; visibility: public; geo_address_visibility: guests-only; require_approval: true. Limited spots. Dinner guest will be selected upon application. Crypto Dinner Partners: OtterSec, BlockSight, CryptoCanal.",
-          "representation": "Public __NEXT_DATA__ field selection and description excerpts; exact location omitted"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:34.326Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/kn/636cb9c9-26a1-43e1-aa97-9a77c92def96.png",
-        "fetchedAt": "2026-10-20T09:49:38.718Z",
-        "status": 200,
-        "local": "/events/discovery-evt-d2jbh5c6zkzdrch-d5150a7f.webp",
-        "sourceSha256": "580cc5983a91e25c1f045c0d74af916b54b6ff5fc4dbc4db0e979eca6b671ad2",
-        "sha256": "33975e0a5e159c43b66d617bfd8b96b9e4f9dfc9ebf0c250cafc0456a7a9e0e5",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 166764
-      }
-    },
-    {
-      "id": "discovery-evt-DnwWNYAbNYeW8oC",
-      "name": "Crypto Dinner - Amsterdam",
-      "startDate": "2026-11-20T17:30:00.000Z",
-      "endDate": "2026-11-20T20:00:00.000Z",
-      "timezone": "Europe/Amsterdam",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-DnwWNYAbNYeW8oC",
-      "url": "https://luma.com/dinnerAmsterdam",
-      "lane": "europe",
-      "reason": "Absent by source ID, URL and name/date. Distinct Amsterdam event, not a duplicate of the Rotterdam dinner.",
-      "evidence": [
-        {
-          "url": "https://luma.com/dinnerAmsterdam",
-          "fetchedAt": "2026-10-20T08:06:25.568Z",
-          "excerpt": "api_id: evt-DnwWNYAbNYeW8oC; start_at: 2026-11-20T17:30:00.000Z; end_at: 2026-11-20T20:00:00.000Z; timezone: Europe/Amsterdam; visibility: public; geo_address_visibility: guests-only; require_approval: true. Limited spots. Dinner guest will be selected upon application. Crypto Dinner Partners: OtterSec, BlockSight, CryptoCanal.",
-          "representation": "Public __NEXT_DATA__ field selection and description excerpts; exact location omitted"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:35.327Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/2b/ac0294fb-9c95-4719-9b37-c965b5080c11.png",
-        "fetchedAt": "2026-10-20T09:49:39.365Z",
-        "status": 200,
-        "local": "/events/discovery-evt-dnwwnyabnyew8oc-d60f2cb9.webp",
-        "sourceSha256": "98f306fb7332eb716192e8145eec1e0b64165e2020910942c630dce684706b12",
-        "sha256": "2f4e58a900adef8bc2b107030ff5141ce138a9679929cbc1e311b5aefc6195ce",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 275494
-      }
-    },
-    {
       "id": "mu-316958855",
       "name": "Crypto Taxation in Greece (Φορολογία Κρυπτονομισμάτων στην Ελλάδα)",
       "startDate": "2026-10-30T19:30:00+02:00",
@@ -6005,43 +5529,6 @@
         "width": 600,
         "height": 337,
         "bytes": 61672
-      }
-    },
-    {
-      "id": "mu-316585521",
-      "name": "Bitcoin - Was unser Geld morgen wert ist",
-      "startDate": "2026-11-19T18:15:00+01:00",
-      "endDate": "2026-11-19T21:00:00+01:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/females-fit-for-finance/events/316585521/",
-      "lane": "europe",
-      "reason": "No matching source ID, URL or name/date. Free educational talk with a named presenter and specific beginner audience.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/females-fit-for-finance/events/316585521/",
-          "fetchedAt": "2026-10-20T08:06:25.999Z",
-          "excerpt": "startDate: 2026-11-19T18:15:00+01:00; endDate: 2026-11-19T21:00:00+01:00. Cafe Ephata, Garbergasse 14. Die 7. Females Fit for Finance-Edition. Lerne mit Margot Richter über die Kryptowährung Bitcoin. Der Vortrag richtet sich an Frauen, die bisher wenig oder gar keine Berührung mit Bitcoin hatten. Das Event ist kostenlos.",
-          "sha256": "0d033569eefd71aafc4c46ceb41b183eab45d06f3d7bd2c161c3a0aff47c7e00",
-          "representation": "Public HTML and Event JSON-LD excerpts; title quotation marks omitted; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:36.299Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/3/7/8/2/600_536174210.jpeg",
-        "fetchedAt": "2026-10-20T09:49:42.139Z",
-        "status": 200,
-        "local": "/events/mu-316585521-65fb58c8.webp",
-        "sourceSha256": "393027ad1a7631913441482922bdf6b809a1b6059d710f1e4dbdd1d6ca188d1f",
-        "sha256": "d6e25b685d91614ba0299bb562e026bf78ec2fbc0ca91edf7ffabfa2154eb1a1",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 13970
       }
     },
     {
@@ -7590,234 +7077,6 @@
       }
     },
     {
-      "id": "discovery-evt-dqMVS2PrUBDRnF3",
-      "name": "Bitcoin for Beginners",
-      "startDate": "2026-11-13T17:00:00+08:00",
-      "endDate": "2026-11-13T18:30:00+08:00",
-      "timezone": "Asia/Makassar",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-dqMVS2PrUBDRnF3",
-      "url": "https://luma.com/3mubvjso",
-      "lane": "asia-africa",
-      "reason": "No inventory match. Primary publishes a specific 13 November workshop occurrence with a beginner curriculum; not inferred from the second-Friday rule.",
-      "evidence": [
-        {
-          "url": "https://luma.com/3mubvjso",
-          "fetchedAt": "2026-10-20T08:06:42.304Z",
-          "excerpt": "Bitcoin for Beginners. start_at=2026-11-13T09:00:00.000Z; end_at=2026-11-13T10:30:00.000Z; timezone=Asia/Makassar; visibility=public. What is Bitcoin; how can you buy bitcoin; use bitcoin in daily life; store bitcoin safely. No prior knowledge needed. Free workshop in English & Bahasa Indonesia. Where? Bitcoin House Bali, Canggu. Public address: Jl. Kayu Manis, Badung, Bali 80351.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:00.156Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/j3/a01d442c-50af-4d6f-9544-8c5d28ce3a02.jpg",
-        "fetchedAt": "2026-10-20T09:49:59.909Z",
-        "status": 200,
-        "local": "/events/discovery-evt-dqmvs2prubdrnf3-bf6db692.webp",
-        "sourceSha256": "6caf1df0730a0e766ed2e82425d6ce9b3efdcfa5e8c7798da258a82a2cd8e8a7",
-        "sha256": "2b41d8d8ea93e0def7a0d2c30cd9a47fa4f88ae1d4499f6e251b4da85270cad5",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 113864
-      }
-    },
-    {
-      "id": "discovery-evt-zgDyaoeNsB7r9bo",
-      "name": "Bitcoin Indonesia Community Meetup Bandung 15 November 2026",
-      "startDate": "2026-11-15T10:00:00+07:00",
-      "endDate": "2026-11-15T13:00:00+07:00",
-      "timezone": "Asia/Jakarta",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-zgDyaoeNsB7r9bo",
-      "url": "https://luma.com/xdmgev1d",
-      "lane": "asia-africa",
-      "reason": "No inventory identity match. Physical community activity with an explicit Bitcoin discussion; source publishes the exact occurrence and public park venue.",
-      "evidence": [
-        {
-          "url": "https://luma.com/xdmgev1d",
-          "fetchedAt": "2026-10-20T08:06:39.216Z",
-          "excerpt": "Bitcoin Indonesia Community Meetup Bandung 15 November 2026. start_at=2026-11-15T03:00:00.000Z; end_at=2026-11-15T06:00:00.000Z; timezone=Asia/Jakarta; visibility=public. Hiking & Bitcoin: Ngobrol tentang Uang Masa Depan. Nggak harus jadi ahli Bitcoin atau pendaki berpengalaman. Pakai sepatu yang nyaman. Public venue: Taman Hutan Raya Ir. H. Djuanda, Jl. Pakar Bar. Jl. Ir. H. Juanda No.99, Ciburial, Cimenyan, Kabupaten Bandung, Jawa Barat 40198.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:00.584Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/px/604a4276-6083-4c3b-84d5-83bc12c0ef66.jpg",
-        "fetchedAt": "2026-10-20T09:50:00.362Z",
-        "status": 200,
-        "local": "/events/discovery-evt-zgdyaoensb7r9bo-5a3897d2.webp",
-        "sourceSha256": "e1cddd7b22154f293977121717ca49604169225690e54ca190b92dcae3620f60",
-        "sha256": "b370583ef212bc9124dc93da37bee6c66f284078879fd35db8572e54864c46b3",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 109520
-      }
-    },
-    {
-      "id": "discovery-evt-fqCdStFvtJYB08q",
-      "name": "Bitcoin Indonesia Community Meetup Malang 21 November 2026",
-      "startDate": "2026-11-21T12:00:00+07:00",
-      "endDate": "2026-11-21T15:00:00+07:00",
-      "timezone": "Asia/Jakarta",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-fqCdStFvtJYB08q",
-      "url": "https://luma.com/307ow0kn",
-      "lane": "asia-africa",
-      "reason": "No inventory match. Distinct November Malang occurrence with a published topic and venue, not the organizer website's past 17 October event.",
-      "evidence": [
-        {
-          "url": "https://luma.com/307ow0kn",
-          "fetchedAt": "2026-10-20T08:06:39.849Z",
-          "excerpt": "Bitcoin Indonesia Community Meetup Malang 21 November 2026. start_at=2026-11-21T05:00:00.000Z; end_at=2026-11-21T08:00:00.000Z; timezone=Asia/Jakarta; visibility=public. Mengapa Bitcoin Hanya 21 Juta? Memahami Kelangkaannya. Alasan di balik batas 21 juta Bitcoin, bagaimana aturan tersebut bekerja. Public venue: Naiki Cafe, Jl. Semeru No.42, Oro-oro Dowo, Klojen, Kota Malang, Jawa Timur 65119.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:01.141Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/6z/31d7b215-aa98-400d-b932-ce0f9132b651.jpg",
-        "fetchedAt": "2026-10-20T09:50:00.952Z",
-        "status": 200,
-        "local": "/events/discovery-evt-fqcdstfvtjyb08q-c29f5aee.webp",
-        "sourceSha256": "492e332beed8943a0075840ca07929f554e3dbd018a6014656d36685ea1c017a",
-        "sha256": "9dc1fbe533bf4ac25dd3a0324efb385ec97354c718af20467d451589e482d421",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 107158
-      }
-    },
-    {
-      "id": "discovery-evt-WHx7rX6yOb8hK4S",
-      "name": "Bitcoin Indonesia Community Meetup Jakarta 21 November 2026",
-      "startDate": "2026-11-21T13:00:00+07:00",
-      "endDate": "2026-11-21T15:00:00+07:00",
-      "timezone": "Asia/Jakarta",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-WHx7rX6yOb8hK4S",
-      "url": "https://luma.com/of16ixug",
-      "lane": "asia-africa",
-      "reason": "Separate 21 November occurrence, with a distinct event ID and public-speaking programme. The live 24 October Jakarta meetup is not this event.",
-      "evidence": [
-        {
-          "url": "https://luma.com/of16ixug",
-          "fetchedAt": "2026-10-20T08:06:40.416Z",
-          "excerpt": "Bitcoin Indonesia Community Meetup Jakarta 21 November 2026. start_at=2026-11-21T06:00:00.000Z; end_at=2026-11-21T08:00:00.000Z; timezone=Asia/Jakarta; visibility=public. Public Speaking Bitcoin: Belajar Bicara, Berani Berbagi. Belajar menyampaikan ide tentang Bitcoin dengan lebih jelas, menyusun pesan yang mudah dipahami. Public venue: the Banyan Nook - Coffee & Eatery, Jl. Pegangsaan Barat No.4, RT.16/RW.5, Menteng, Jakarta Pusat 10310.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:01.569Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/sd/7aa68068-c1fe-4aec-84a4-50ac2eb503c8.jpg",
-        "fetchedAt": "2026-10-20T09:50:01.382Z",
-        "status": 200,
-        "local": "/events/discovery-evt-whx7rx6yob8hk4s-f1758a9b.webp",
-        "sourceSha256": "5ef8a43f5b710454b42b9aa6d80474ebb705fad93736273087a74d3d3fb241a9",
-        "sha256": "02ef4afa64ea0b156d5fc005ffae112e4e1e002dbb359cbdabbe757bcc352fac",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 95910
-      }
-    },
-    {
-      "id": "discovery-evt-E4l4HG2CAI9ljHe",
-      "name": "Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island)",
-      "startDate": "2026-11-21T16:30:00+08:00",
-      "endDate": "2026-11-21T17:30:00+08:00",
-      "timezone": "Asia/Makassar",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-E4l4HG2CAI9ljHe",
-      "url": "https://luma.com/fsn6vdzc",
-      "lane": "asia-africa",
-      "reason": "Separately published 21 November merchant workshop with its own event ID. No inventory match; not an extrapolation from the October session.",
-      "evidence": [
-        {
-          "url": "https://luma.com/fsn6vdzc",
-          "fetchedAt": "2026-10-20T08:06:40.867Z",
-          "excerpt": "start_at=2026-11-21T08:30:00.000Z; end_at=2026-11-21T09:30:00.000Z; timezone=Asia/Makassar; visibility=public. A Bitcoin Merchant onboarding session. Where? Bitcoin House Bali, Canggu. Point of Sale device, hardware wallets, mining devices, a library. Workshop in both English & Bahasa Indonesia. Public address: Jl. Kayu Manis, Canggu, Kuta Utara, Badung, Bali 80351.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:02.141Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/89/a8c30740-7f69-4f9c-88a3-4af727a0967f.jpg",
-        "fetchedAt": "2026-10-20T09:49:54.600Z",
-        "status": 200,
-        "local": "/events/discovery-evt-ryg9kjjbzfme4d1-0c35fe3c.webp",
-        "sourceSha256": "1f7e453e41f6b2a7403c9f7e8a80698ef08fe5b759a8e76927ef871c4a1c7588",
-        "sha256": "8e40c6f7d94f289ed89c0a4ad01d30a5790540c9250a07424eeef380a90e1b0f",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 119878
-      }
-    },
-    {
-      "id": "discovery-evt-xodkzqBmzveUbjB",
-      "name": "Bitcoin Indonesia Community Meetup Magelang 22 November 2026",
-      "startDate": "2026-11-22T13:00:00+07:00",
-      "endDate": "2026-11-22T15:00:00+07:00",
-      "timezone": "Asia/Jakarta",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-xodkzqBmzveUbjB",
-      "url": "https://luma.com/epo8prov",
-      "lane": "asia-africa",
-      "reason": "No inventory match. Primary verifies a physical community discussion, including risk considerations. Description reports the topic without recommending investment or promising returns.",
-      "evidence": [
-        {
-          "url": "https://luma.com/epo8prov",
-          "fetchedAt": "2026-10-20T08:06:42.077Z",
-          "excerpt": "Bitcoin Indonesia Community Meetup Magelang 22 November 2026. start_at=2026-11-22T06:00:00.000Z; end_at=2026-11-22T08:00:00.000Z; timezone=Asia/Jakarta; visibility=public. DCA Bitcoin: Cara Investasi Bertahap Tanpa Tebak Harga. Membahas Dollar-Cost Averaging, termasuk risiko dan pentingnya menyesuaikan strategi dengan kondisi keuangan sendiri. Public venue: Omah Kembang Merbabu, Jl. Ngablak - Grabag, Krangean, Jogoyasan, Ngablak, Kabupaten Magelang, Jawa Tengah 56194.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:02.539Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/kp/b01edb27-d69f-4959-ad58-9d32d9e20abc.jpg",
-        "fetchedAt": "2026-10-20T09:49:55.126Z",
-        "status": 200,
-        "local": "/events/discovery-evt-uhnfhumggzhqe7f-59e70a83.webp",
-        "sourceSha256": "b1ae5896f55f19e6c042c2da2f42efcab0f9c4b0efd4775caaa14d2974155ba8",
-        "sha256": "67cf6ed8009897559560aa882bfaf0e496686162572e96d59d6e0f0e5bf19dc6",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 96716
-      }
-    },
-    {
       "id": "discovery-evt-LvRdeiNaeZflUIs",
       "name": "What If Someone Tried to Create 1 million Extra Bitcoin? | Vadodara",
       "startDate": "2026-10-21T11:30:00.000Z",
@@ -8219,52 +7478,6 @@
         "width": 1600,
         "height": 1378,
         "bytes": 49852
-      }
-    },
-    {
-      "id": "discovery-evt-oqwcWOYQmqqNHgi",
-      "name": "Mastering Lightning (ML) - Season 5 - Orientation Session",
-      "startDate": "2026-11-18T14:30:00.000Z",
-      "endDate": "2026-11-18T15:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-oqwcWOYQmqqNHgi",
-      "url": "https://luma.com/nyeumys1",
-      "lane": "india",
-      "reason": "No matching event ID, URL, name/date, hold or tombstone. India-led online orientation with a confirmed one-hour occurrence; the eight-week cohort end was not extrapolated.",
-      "evidence": [
-        {
-          "url": "https://luma.com/nyeumys1",
-          "fetchedAt": "2026-10-20T08:58:12.153Z",
-          "excerpt": "Mastering Lightning Season 5 Orientation. Starts 18th November 2026; Wednesdays 8:00 PM IST (2:30 PM UTC). LN engineering, node ops, channels, routing, security. Prerequisites: intermediate Bitcoin knowledge. Apply at app.bitshala.org and join Discord for the cohorts. start_at 2026-11-18T14:30:00.000Z; end_at 2026-11-18T15:30:00.000Z; Asia/Kolkata; location_type discord; visibility public; require_approval false.",
-          "sha256": "967b89a7aca1ae9a4ebb8cc7c7757ee079808377098bcc9283d5ccb760bb0403",
-          "representation": "HTTP response HTML and public embedded event data"
-        },
-        {
-          "url": "https://bitshala.org/cohorts",
-          "fetchedAt": "2026-10-20T09:00:29.927Z",
-          "excerpt": "Bitshala started in India. Cohorts are open globally, in English, with scheduled live sessions. Mastering the Lightning Network covers payment channels, routing, invoices and the Lightning protocol stack.",
-          "sha256": "81d2cae55385b7295775d2ccd6daed4c08197f8e5e40c82e2a6a1b331299c7a1",
-          "representation": "Primary organizer HTTP response HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:09.502Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/iu/f4db1711-3744-4bf1-abf9-93743003a028.jpg",
-        "fetchedAt": "2026-10-20T09:50:06.499Z",
-        "status": 200,
-        "local": "/events/discovery-evt-oqwcwoyqmqqnhgi-2e402f73.webp",
-        "sourceSha256": "b926747a7f8f725c01e5afc315181694a74a4894668349126bd3876fb0a6056f",
-        "sha256": "3b8fabb92915073bbb302d72c167564950d4bc079ab45694287a0300bae6f107",
-        "originalWidth": 1600,
-        "originalHeight": 1459,
-        "width": 1600,
-        "height": 1459,
-        "bytes": 51486
       }
     },
     {
@@ -8977,84 +8190,6 @@
       }
     },
     {
-      "id": "discovery-evt-gKhtfAiuAFPHESR",
-      "name": "Solana ⚽ Cup at Breakpoint",
-      "startDate": "2026-11-14T10:00:00.000Z",
-      "endDate": "2026-11-14T16:00:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-gKhtfAiuAFPHESR",
-      "url": "https://luma.com/5sf70a63",
-      "lane": "breakpoint",
-      "reason": "No matching source ID, normalized URL or dated name in the complete index. London is explicitly named in the description even though the guests-only location field gives no city.",
-      "evidence": [
-        {
-          "url": "https://luma.com/5sf70a63",
-          "fetchedAt": "2026-10-20T08:53:40.277Z",
-          "excerpt": "evt-gKhtfAiuAFPHESR; 2026-11-14T10:00:00.000Z to 2026-11-14T16:00:00.000Z; Europe/London; public; offline; require_approval false; geo_address_visibility guests-only. Cesto is hosting a football tournament at Breakpoint in London; ecosystem projects, Superteams and community players invited; announcements coming up. Host profile: Jason.",
-          "sha256": "4c09da46e4542ffe0f9bf68c7f4ada44f35000a2af341e8d3560814edabe974f",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city from explicit public prose; no private venue/map extraction; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:19.037Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/ea/76c18e53-e699-4cd5-84c2-5687132d7efc.png",
-        "fetchedAt": "2026-10-20T09:50:13.606Z",
-        "status": 200,
-        "local": "/events/discovery-evt-gkhtfaiuafphesr-312d6c0e.webp",
-        "sourceSha256": "61be2099d04fbdc863b20a3d68def82ee2106b23ad34ee614c6bc0a7f3f4e6ba",
-        "sha256": "5ebdb5667c3d7ea4b75e21fb3a71daff7c0700d8698e04cddc23e70152f4a527",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 153264
-      }
-    },
-    {
-      "id": "discovery-evt-JgYTRzXo6yWgqCd",
-      "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-      "startDate": "2026-11-15T08:00:00.000Z",
-      "endDate": "2026-11-15T08:45:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-JgYTRzXo6yWgqCd",
-      "url": "https://luma.com/solanapilates1",
-      "lane": "breakpoint",
-      "reason": "Distinct public November 15 session with its own evt ID; no inventory match. Officially associated community activity, not a technical workshop or an inferred recurrence.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates1",
-          "fetchedAt": "2026-10-20T08:53:41.944Z",
-          "excerpt": "evt-JgYTRzXo6yWgqCd; 2026-11-15T08:00:00.000Z to 2026-11-15T08:45:00.000Z; Europe/London; public; approval required; guests-only London location. Dynamic floor Pilates for founders and builders, hosted by Solana Foundation x OFFLINE; mat-based, no machines; all fitness levels.",
-          "sha256": "25662480a84210ccfb80f924cedf16de3996b20e03155f284445a40b30101810",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:19.659Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/59/f5c0c49c-2983-41d8-8b82-027eea593a57.png",
-        "fetchedAt": "2026-10-20T09:50:13.692Z",
-        "status": 200,
-        "local": "/events/discovery-evt-jgytrzxo6ywgqcd-7d4a0de1.webp",
-        "sourceSha256": "3136bce2101b7d4baba23a034dfd13f77817f37681d0e729ea6e71a012b5370a",
-        "sha256": "e6bd095aa352283e7e25487e87f6d314aafb8d964787c94b9706193f184e2deb",
-        "originalWidth": 1600,
-        "originalHeight": 1586,
-        "width": 1600,
-        "height": 1586,
-        "bytes": 482788
-      }
-    },
-    {
       "id": "discovery-evt-P1laFzLdOaT7vik",
       "name": "Tilt Pay Morning Coffee | Breakpoint '26",
       "startDate": "2026-11-15T08:30:00.000Z",
@@ -9091,357 +8226,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 267696
-      }
-    },
-    {
-      "id": "discovery-evt-F0ZHBEyHynGIlVo",
-      "name": "Solana Fitness Zone: Women of Solana Yoga by OFFLINE | Breakpoint 2026",
-      "startDate": "2026-11-15T09:00:00.000Z",
-      "endDate": "2026-11-15T10:30:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-F0ZHBEyHynGIlVo",
-      "url": "https://luma.com/womenofsolana",
-      "lane": "breakpoint",
-      "reason": "No matching source ID, URL or name/date across all inventory groups. Explicit November 15 community activity, not a generic fitness listing.",
-      "evidence": [
-        {
-          "url": "https://luma.com/womenofsolana",
-          "fetchedAt": "2026-10-20T08:53:42.776Z",
-          "excerpt": "evt-F0ZHBEyHynGIlVo; 2026-11-15T09:00:00.000Z to 2026-11-15T10:30:00.000Z; Europe/London; public; approval required; guests-only London location. Women of Solana Yoga hosted by Solana Foundation x OFFLINE, led by Lena Grundhoefer; yang then yin; no experience needed; 30-minute networking session afterward.",
-          "sha256": "1415df3f84b54399a2bee2d776f3082e430e0e0e343b82a7071d403f7274acbe",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:20.715Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/g5/b7d0125a-6b8d-45ab-9c70-68ab4693cf70.png",
-        "fetchedAt": "2026-10-20T09:50:14.514Z",
-        "status": 200,
-        "local": "/events/discovery-evt-f0zhbeyhyngilvo-eb2516dc.webp",
-        "sourceSha256": "49e74118d530a14de6ee216e422bde13d323b4d2d222f375104a478ac1604516",
-        "sha256": "9ce854615dbe7beb56e4a5765d13508302cf6d7218f1df9cc451f203441cc0cd",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 252332
-      }
-    },
-    {
-      "id": "discovery-evt-vL3kHCN39reaPwE",
-      "name": "Solana Fitness Zone: Mental Reset Workshop | Breakpoint 2026",
-      "startDate": "2026-11-15T10:45:00.000Z",
-      "endDate": "2026-11-15T11:45:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-vL3kHCN39reaPwE",
-      "url": "https://luma.com/solanareset",
-      "lane": "breakpoint",
-      "reason": "No identity match. Exact dated community session. Omitted the facilitator's surname because prose and host-profile naming differ, without inventing an identity resolution.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanareset",
-          "fetchedAt": "2026-10-20T08:53:43.745Z",
-          "excerpt": "evt-vL3kHCN39reaPwE; 2026-11-15T10:45:00.000Z to 2026-11-15T11:45:00.000Z; Europe/London; public; approval required; guests-only London location. Mental Reset Workshop for founders and builders, hosted by Solana Foundation x OFFLINE: guided practical tools to slow down and refocus; no experience needed. Prose names Jessica Dionne; host profile names Jessica Wright.",
-          "sha256": "8ee6585e6761a7dc8ec40284146e95a56c09b8f6ee98aa4419be86847ff4be22",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:21.225Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/kw/c116639d-3efb-4580-85d6-242879a59e29.png",
-        "fetchedAt": "2026-10-20T09:50:15.598Z",
-        "status": 200,
-        "local": "/events/discovery-evt-vl3khcn39reapwe-bfc8ae23.webp",
-        "sourceSha256": "22b396a691a43fc18282dd00a62754b2cbd2c105d75e5fe54563dacb864fcb1a",
-        "sha256": "113139297be21c2bc0c594320e17fe2f1a6e5b5952a8f9c38ea562edd6267304",
-        "originalWidth": 1600,
-        "originalHeight": 1606,
-        "width": 1594,
-        "height": 1600,
-        "bytes": 398568
-      }
-    },
-    {
-      "id": "discovery-evt-dG5O5F5HU9O4ikF",
-      "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-      "startDate": "2026-11-16T07:00:00.000Z",
-      "endDate": "2026-11-16T07:50:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-dG5O5F5HU9O4ikF",
-      "url": "https://luma.com/solanapilates2",
-      "lane": "breakpoint",
-      "reason": "No inventory match. Different evt ID, URL and date from the November 15 and 17 Pilates sessions. This occurrence is explicitly published, not extrapolated.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates2",
-          "fetchedAt": "2026-10-20T08:54:58.120Z",
-          "excerpt": "evt-dG5O5F5HU9O4ikF; 2026-11-16T07:00:00.000Z to 2026-11-16T07:50:00.000Z; Europe/London; public; approval required; guests-only London location. Dynamic floor Pilates for founders and builders, hosted by Solana Foundation x OFFLINE; mat-based, no machines; all fitness levels.",
-          "sha256": "a624f261a708cf2acb5ec6bbf920d77a98e3e0370d1d8abd3ac3b66d8a24bb94",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:21.566Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/dj/8e91ceb9-ea00-488a-95af-1bf9e8f4bd68.png",
-        "fetchedAt": "2026-10-20T09:50:16.063Z",
-        "status": 200,
-        "local": "/events/discovery-evt-dg5o5f5hu9o4ikf-047f7d29.webp",
-        "sourceSha256": "545414a7be609dc778d07a48ade6168212166b74dbc6bae8449263b9b3379a81",
-        "sha256": "b3f10c819a99e958a3536ce97e880a5ead72e23cb2382f466f48316e36b3689e",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 447636
-      }
-    },
-    {
-      "id": "discovery-evt-yqbouX052XUmpA8",
-      "name": "Solana Fitness Zone: Group Boxing | Breakpoint 2026",
-      "startDate": "2026-11-16T08:00:00.000Z",
-      "endDate": "2026-11-16T08:45:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-yqbouX052XUmpA8",
-      "url": "https://luma.com/solanaboxing",
-      "lane": "breakpoint",
-      "reason": "No matching identity in any inventory group. Explicitly dated Solana Foundation/OFFLINE community programme with a named instructor.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanaboxing",
-          "fetchedAt": "2026-10-20T08:54:58.876Z",
-          "excerpt": "evt-yqbouX052XUmpA8; 2026-11-16T08:00:00.000Z to 2026-11-16T08:45:00.000Z; Europe/London; public; approval required; guests-only London location. Group boxing by Lisa from Loofta for founders and builders; punching combinations, footwork and conditioning; no experience needed. Hosted by Solana Foundation x OFFLINE.",
-          "sha256": "f277f05051bf3f14bea352b6bc68da1ccb23532844691483fda4676892dc6ed2",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:22.187Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/x7/f1543e5f-a598-45a2-839d-5b169852c22e.png",
-        "fetchedAt": "2026-10-20T09:50:16.463Z",
-        "status": 200,
-        "local": "/events/discovery-evt-yqboux052xumpa8-183b194b.webp",
-        "sourceSha256": "3395ca263b095fa1991cb408a35bd2c5709c666b64301a00f5c549decc290975",
-        "sha256": "7ec6c03c77e6bf50a763625921bf4f3512bee7e93632579d8f038dc46d378105",
-        "originalWidth": 1600,
-        "originalHeight": 1593,
-        "width": 1600,
-        "height": 1593,
-        "bytes": 269652
-      }
-    },
-    {
-      "id": "discovery-evt-IME1HwTy1ywWmub",
-      "name": "Solana Fitness Zone: Rise & Shine Yoga by MonkeDAO | Breakpoint 2026",
-      "startDate": "2026-11-16T09:00:00.000Z",
-      "endDate": "2026-11-16T10:30:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-IME1HwTy1ywWmub",
-      "url": "https://luma.com/monkesflow",
-      "lane": "breakpoint",
-      "reason": "No source ID, normalized URL or name/date match in any inventory group. Distinct MonkeDAO session, not the November 15 Women of Solana class.",
-      "evidence": [
-        {
-          "url": "https://luma.com/monkesflow",
-          "fetchedAt": "2026-10-20T08:54:59.563Z",
-          "excerpt": "evt-IME1HwTy1ywWmub; 2026-11-16T09:00:00.000Z to 2026-11-16T10:30:00.000Z; Europe/London; public; approval required; guests-only London location. Rise & Shine Yoga, hosted by Solana Foundation x MonkeDAO; led by MonkeDAO member Mila; gentle moving practice with breath, no experience needed.",
-          "sha256": "5ffd73811e36edda35a5c1799470cea6dba896365b723c800810224ded76c1b1",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:22.412Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/lr/fce23e97-cdbe-4c6b-a16f-c865a79b6a79.png",
-        "fetchedAt": "2026-10-20T09:50:17.294Z",
-        "status": 200,
-        "local": "/events/discovery-evt-ime1hwty1ywwmub-e97637da.webp",
-        "sourceSha256": "d14a2635b4ef1df02511b36a40d470eab23077d9565f03ad3ec0fd4fefbab461",
-        "sha256": "ce87336d12553a575c299e47eae8e0392ea0ee484550becd7bdd624062be4595",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 383816
-      }
-    },
-    {
-      "id": "discovery-evt-vvQI67NJtBlP4qH",
-      "name": "Solana Fitness Zone: Dynamic Pilates | Breakpoint 2026",
-      "startDate": "2026-11-17T07:00:00.000Z",
-      "endDate": "2026-11-17T07:45:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-vvQI67NJtBlP4qH",
-      "url": "https://luma.com/solanapilates3",
-      "lane": "breakpoint",
-      "reason": "No inventory match. Independently published November 17 Pilates occurrence with its own URL and source event ID.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanapilates3",
-          "fetchedAt": "2026-10-20T08:55:00.897Z",
-          "excerpt": "evt-vvQI67NJtBlP4qH; 2026-11-17T07:00:00.000Z to 2026-11-17T07:45:00.000Z; Europe/London; public; approval required; guests-only London location. Dynamic floor Pilates for founders and builders, hosted by Solana Foundation x OFFLINE; mat-based, no machines.",
-          "sha256": "c4170a891d9563771f3a81e5613729ded4a621d29aedcf0f060b2f225ea11e56",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:23.171Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/gx/a2acdd97-1d70-4f5f-a5f8-a766130a5d14.png",
-        "fetchedAt": "2026-10-20T09:50:18.205Z",
-        "status": 200,
-        "local": "/events/discovery-evt-vvqi67njtblp4qh-2e3b71cc.webp",
-        "sourceSha256": "483d4b92afc13aa117c3af32993c78af2408adc486f53efa746fbadb601df2e1",
-        "sha256": "7523746fccf9e99c0a011d32d99dfaad3374e725d901652d352c29ed9b6d28d2",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 244570
-      }
-    },
-    {
-      "id": "discovery-evt-gjNVvhgcknTCwpc",
-      "name": "Solana Fitness Zone: HIIT Class | Breakpoint 2026",
-      "startDate": "2026-11-17T08:00:00.000Z",
-      "endDate": "2026-11-17T08:45:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-gjNVvhgcknTCwpc",
-      "url": "https://luma.com/solanahiits",
-      "lane": "breakpoint",
-      "reason": "No matching identity. November 17 has a separate evt ID and its stated 45-minute class agrees with the published start/end times. The conflicting November 15 listing is held separately.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanahiits",
-          "fetchedAt": "2026-10-20T08:55:01.515Z",
-          "excerpt": "evt-gjNVvhgcknTCwpc; 2026-11-17T08:00:00.000Z to 2026-11-17T08:45:00.000Z; Europe/London; public; approval required; guests-only London location. Description explicitly says 45-minute HIIT class for founders and builders, hosted by Solana Foundation x OFFLINE, scalable to any fitness level.",
-          "sha256": "d61e4624efcd94d3e2cac90eeeaed7adc6f2f6b4503263b581f92cfa39cbfceb",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:23.664Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/6o/5f788c44-493c-48f8-ae2e-80b06afbff20.png",
-        "fetchedAt": "2026-10-20T09:50:18.372Z",
-        "status": 200,
-        "local": "/events/discovery-evt-gjnvvhgckntcwpc-fb78e575.webp",
-        "sourceSha256": "dc64286ed5a7330080be1825a069f47f2021db8d5f398988b82cc144c5f11388",
-        "sha256": "69d2f9da84a4e72d34482b2ba118db16f52d5d83015d0f3b7258e80a823b6131",
-        "originalWidth": 1600,
-        "originalHeight": 1606,
-        "width": 1594,
-        "height": 1600,
-        "bytes": 332114
-      }
-    },
-    {
-      "id": "discovery-evt-nn6OreUXqAcO2wA",
-      "name": "Solana Fitness Zone: Sound Healing & Breathwork | Breakpoint 2026",
-      "startDate": "2026-11-17T09:00:00.000Z",
-      "endDate": "2026-11-17T09:50:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-nn6OreUXqAcO2wA",
-      "url": "https://luma.com/solanasoundheals",
-      "lane": "breakpoint",
-      "reason": "No inventory match. Explicit dated Breakpoint community activity. Description reports the exercise format without adopting health-effect claims.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanasoundheals",
-          "fetchedAt": "2026-10-20T08:55:02.202Z",
-          "excerpt": "evt-nn6OreUXqAcO2wA; 2026-11-17T09:00:00.000Z to 2026-11-17T09:50:00.000Z; Europe/London; public; approval required; guests-only London location. Sound Healing & Breathwork for founders and builders, hosted by Solana Foundation x OFFLINE. Guided breathing exercises paired with a sound bath; no experience needed.",
-          "sha256": "c78591e6e47e691e9e3181ae28e5e99fb44360ce2e09c9b981b94ea370b66376",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:24.284Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/jw/9ec800ec-f597-4dd6-a90a-dfbc189495c4.png",
-        "fetchedAt": "2026-10-20T09:50:20.016Z",
-        "status": 200,
-        "local": "/events/discovery-evt-nn6oreuxqaco2wa-b1d0d0d5.webp",
-        "sourceSha256": "fcb0b8f27b8a01d8e0a42a27005ddcac948e74857f15758f26c16dc60a777b38",
-        "sha256": "e33192bf58001cb035429fd0270479a64c3cd72995ea667184ca435e814b0a78",
-        "originalWidth": 1600,
-        "originalHeight": 1584,
-        "width": 1600,
-        "height": 1584,
-        "bytes": 272918
-      }
-    },
-    {
-      "id": "discovery-evt-EYXjEVxXQ9dbkmf",
-      "name": "Solana Fitness Zone: Aerial Yoga | Breakpoint 2026",
-      "startDate": "2026-11-17T10:00:00.000Z",
-      "endDate": "2026-11-17T11:00:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-EYXjEVxXQ9dbkmf",
-      "url": "https://luma.com/solanaerial",
-      "lane": "breakpoint",
-      "reason": "No matching normalized URL, event ID or name/date in runtime, sources, held rows or tombstones. Explicit November 17 side-event occurrence.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solanaerial",
-          "fetchedAt": "2026-10-20T08:55:02.865Z",
-          "excerpt": "evt-EYXjEVxXQ9dbkmf; 2026-11-17T10:00:00.000Z to 2026-11-17T11:00:00.000Z; Europe/London; public; approval required; guests-only London location. Aerial yoga with a fabric hammock suspended from the ceiling, hosted by Solana Foundation x OFFLINE; all levels welcome; fitted clothing, no zippers or loose clothing.",
-          "sha256": "e097775b5acff655644f2828f7b05df73115bf37f2543f64745f6dba49ee0f63",
-          "representation": "Public primary HTML and __NEXT_DATA__ excerpts; city-only hidden location; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:24.636Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/3q/a5b5459e-6997-4c7f-8e6e-12bebe120707.png",
-        "fetchedAt": "2026-10-20T09:50:20.071Z",
-        "status": 200,
-        "local": "/events/discovery-evt-eyxjevxxq9dbkmf-1765a87c.webp",
-        "sourceSha256": "9d0cc174cf208680faceab7eedeb47afae85f27526dc8a101ee2b4df16c7fce0",
-        "sha256": "1481d444b29b189b531ade560b3be2cba413508482b5fb42c0b88cb745182be6",
-        "originalWidth": 1600,
-        "originalHeight": 1604,
-        "width": 1596,
-        "height": 1600,
-        "bytes": 236860
       }
     }
   ],
@@ -10632,12 +9416,6 @@
       "lane": "asia-africa"
     },
     {
-      "url": "https://luma.com/fan9g1ft",
-      "id": "luma-batch-evtPICyDbNudDA4Z",
-      "reason": "Already live as the 24 October Jakarta occurrence. Later November Jakarta events have distinct IDs and programmes and are not duplicates of this one.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://luma.com/yjhzi8vg",
       "id": "luma-batch-evtrN879vRTa1NBn",
       "reason": "Same URL and event ID already live. Public approval-required drinks meetup; no venue inferred from coordinates.",
@@ -10710,12 +9488,6 @@
       "lane": "india"
     },
     {
-      "url": "https://luma.com/bitshalaboss",
-      "id": "india-luma-bitshalaboss",
-      "reason": "Already-published BOSS Summit identity. Current calendar title says October 26-31 while structured end is November 1; no date repair or checkout assumption proposed in this expansion pass.",
-      "lane": "india"
-    },
-    {
       "url": "https://indiablockchaintour.com/2026-nodes/mumbai/ticket",
       "id": "premier-ibt-mumbai-2026",
       "reason": "Devcon calendar's KonfHub Mumbai-node URL and the active organizer ticket URL refer to the same India Blockchain & AI Tour occurrence. Main tour and all seven remaining city nodes are already represented.",
@@ -10749,12 +9521,6 @@
       "url": "https://luma.com/rszxbf8n",
       "id": "w3v-purple-table-breakpoint-edition-26-11-13",
       "reason": "Same active URL and evt ID; current title adds Invite-only. Public request-to-join route does not imply unrestricted entry. Preserve approval and hidden venue.",
-      "lane": "breakpoint"
-    },
-    {
-      "url": "https://luma.com/a4qnux81",
-      "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
-      "reason": "Matching active evt ID, primary URL and dated event. Existing public city-only location is not a confirmed venue name.",
       "lane": "breakpoint"
     },
     {
@@ -11393,12 +10159,6 @@
       "url": "https://luma.com/encode-london-2026",
       "result": "duplicate",
       "note": "October 23-25 hackathon; already active. This October event is not a London Breakpoint side event.",
-      "lane": "global"
-    },
-    {
-      "url": "https://blockchainafrica.co/",
-      "result": "past-only",
-      "note": "October 15, 2026 has passed. No 2027 date inferred.",
       "lane": "global"
     },
     {

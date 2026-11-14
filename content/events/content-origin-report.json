@@ -121,68 +121,6 @@
       ]
     },
     {
-      "id": "premier-blockchain-africa-2026",
-      "slug": "blockchain-africa",
-      "name": "Blockchain Africa Conference 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://blockchainafrica.co/",
-        "fetchedAt": "2026-09-20T00:20:42.357Z"
-      },
-      "sections": [
-        "About the event",
-        "ABOUT BLOCKCHAIN AFRICA CONFERENCE",
-        "EXCLUSIVE NETWORKING",
-        "TOP GLOBAL SPEAKERS",
-        "EDUCATIONAL WORKSHOPS",
-        "MEDIA PARTNER",
-        "UPCOMING EVENTS",
-        "NEWS",
-        "OUR EVENT PHOTOS"
-      ]
-    },
-    {
-      "id": "token2049-evt-rnmJyD2klnY67Ue",
-      "slug": "fcsy",
-      "name": "Fireside Chat on a Super Yacht: AI Agents, AI in Space & What Gets Funded Next",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/n6e4pmtn",
-        "fetchedAt": "2026-10-11T18:08:46.271Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-W4GEoKovBqnA6lm",
-      "slug": "xppe9krt",
-      "name": "Trading Thursday: eXchange1 Mumbai Community Meetup",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/xppe9krt",
-        "fetchedAt": "2026-09-22T10:40:02.039Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-crypto-yB1Ga9TIhcXOMJA",
-      "slug": "stablecoin2",
-      "name": "Stablecoin Connect: Panel & Mixer",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
-        "fetchedAt": "2026-09-19T23:54:04.160Z"
-      },
-      "sections": [
-        "About the event",
-        "Agenda",
-        "Please Note"
-      ]
-    },
-    {
       "id": "luma-batch-evtzs8RDf9CsVEHu",
       "slug": "p60o9q3i",
       "name": "DC Privacy Summit",
@@ -397,21 +335,6 @@
       ]
     },
     {
-      "id": "luma-crypto-uY7AwaQhqCO2Ejy",
-      "slug": "executorch",
-      "name": "ExecuTorch Hackathon",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/executorch-hackathon",
-        "fetchedAt": "2026-09-19T23:49:09.866Z"
-      },
-      "sections": [
-        "About the event",
-        "Prizes",
-        "About Open Intelligence Foundation"
-      ]
-    },
-    {
       "id": "luma-evt-XVgMezNYKSfYZHA",
       "slug": "mlp",
       "name": "MyWeb3 - Launch Party",
@@ -477,20 +400,6 @@
       },
       "sections": [
         "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-jR6a4UNcsq5XvJN",
-      "slug": "6laijuyn",
-      "name": "IslandDAO v5 🇧🇷",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/6laijuyn",
-        "fetchedAt": "2026-09-22T11:53:33.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Event details"
       ]
     },
     {
@@ -840,37 +749,6 @@
       ]
     },
     {
-      "id": "luma-batch-evtPICyDbNudDA4Z",
-      "slug": "fan9g1ft",
-      "name": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/fan9g1ft",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "india-luma-76s6hwzv",
-      "slug": "rrl",
-      "name": "Ready for the Run @ Lucknow",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/76s6hwzv",
-        "fetchedAt": "2026-09-19T23:30:17.447Z"
-      },
-      "sections": [
-        "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
-        "Partners",
-        "Community Partners",
-        "Raajeev Anand (@[cryptomargofficial])/ TechHybr",
-        "About Infini3",
-        "About 28° North"
-      ]
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "slug": "xlh",
       "name": "XRP LEDGER HACKATHON",
@@ -947,27 +825,6 @@
       },
       "sections": [
         "About the event"
-      ]
-    },
-    {
-      "id": "india-luma-bitshalaboss",
-      "slug": "bbs",
-      "name": "Bitshala BOSS Summit 2026 | Jaipur | 26 Oct - 31 Oct",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/bitshalaboss",
-        "fetchedAt": "2026-09-19T23:30:18.151Z"
-      },
-      "sections": [
-        "Bitshala BOSS (Bitcoin Open-Source Software) Summit 2026 | Jaipur",
-        "What's happening",
-        "Timelines",
-        "Who Should Apply",
-        "Bring Your Work",
-        "Bringing a Family Member or Friend",
-        "Apply to Get Invited",
-        "Glimpse of Our Last BOSS Summit",
-        "About Bitshala"
       ]
     },
     {
@@ -1275,24 +1132,6 @@
       },
       "sections": [
         "About the event"
-      ]
-    },
-    {
-      "id": "india-luma-co5dtixa",
-      "slug": "rrp",
-      "name": "Ready for the Run @ Pune",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/co5dtixa",
-        "fetchedAt": "2026-09-19T23:30:19.332Z"
-      },
-      "sections": [
-        "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
-        "Partners",
-        "Community Partners",
-        "Raajeev Anand (@[cryptomargofficial])/ TechHybr",
-        "About Infini3",
-        "About 28° North"
       ]
     },
     {
@@ -2058,20 +1897,6 @@
       ]
     },
     {
-      "id": "luma-batch-KupO2QEcLws6KMf",
-      "slug": "8uhc300o",
-      "name": "Community Call",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/8uhc300o",
-        "fetchedAt": "2026-09-22T11:53:33.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Event details"
-      ]
-    },
-    {
       "id": "ibw-official-pragma-mumbai-11-05",
       "slug": "pragma-mumbai",
       "name": "Pragma Mumbai",
@@ -2324,19 +2149,6 @@
       ]
     },
     {
-      "id": "luma-batch-evtKhUrCbu57vTQe",
-      "slug": "llqbx5ts",
-      "name": "BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (The 2nd Thursday)",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/llqbx5ts",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "premier-singapore-blockchain-week-2026",
       "slug": "singapore-blockchain-week",
       "name": "Singapore Blockchain Week 2026",
@@ -2433,20 +2245,6 @@
       ]
     },
     {
-      "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
-      "slug": "fxvs3",
-      "name": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/a4qnux81",
-        "fetchedAt": "2026-09-19T23:54:59.691Z"
-      },
-      "sections": [
-        "About the event",
-        "[Hosted by BackersStage]"
-      ]
-    },
-    {
       "id": "premier-ibt-jaipur-2026",
       "slug": "ibt-jaipur",
       "name": "India Blockchain & AI Tour 2026 - Jaipur",
@@ -2506,19 +2304,6 @@
       "source": {
         "url": "https://luma.com/h6w8v75y",
         "fetchedAt": "2026-09-19T23:55:00.971Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "w3v-founder-x-vc-summit-vip-dinner-26-11-17",
-      "slug": "fxvs4",
-      "name": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/hrb0040d",
-        "fetchedAt": "2026-09-19T23:55:03.518Z"
       },
       "sections": [
         "About the event"
@@ -2705,24 +2490,6 @@
         "Institutional Investors",
         "Global Ecosystems",
         "Policy & Enterprise"
-      ]
-    },
-    {
-      "id": "india-luma-52vxy6fo",
-      "slug": "rrb",
-      "name": "Ready for the Run @ Bhopal",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/52vxy6fo",
-        "fetchedAt": "2026-09-19T23:30:18.187Z"
-      },
-      "sections": [
-        "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
-        "Partners",
-        "Community Partners",
-        "Raajeev Anand (@[cryptomargofficial])/ TechHybr",
-        "About Infini3",
-        "About 28° North"
       ]
     },
     {
@@ -2946,24 +2713,6 @@
       ]
     },
     {
-      "id": "india-luma-icnjduyi",
-      "slug": "rrh",
-      "name": "Ready for the Run @ Hyderabad",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/icnjduyi",
-        "fetchedAt": "2026-09-19T23:30:18.826Z"
-      },
-      "sections": [
-        "India's AI & Web3 community is preparing for the next market cycle - and we want to know how",
-        "Partners",
-        "Community Partners",
-        "Raajeev Anand (@[cryptomargofficial])/ TechHybr",
-        "About Infini3",
-        "About 28° North"
-      ]
-    },
-    {
       "id": "ma-bitcoin-mena",
       "slug": "bitcoin-mena",
       "name": "Bitcoin Mena",
@@ -3000,19 +2749,6 @@
       "source": {
         "url": "https://www.globaltradingshow.com/",
         "fetchedAt": "2026-10-06T11:55:41.462Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-evtsJTiDuzqsClRt",
-      "slug": "4dgy9usl",
-      "name": "BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (The 2nd Thursday)",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/4dgy9usl",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
       },
       "sections": [
         "About the event"

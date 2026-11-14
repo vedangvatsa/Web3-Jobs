@@ -2414,22 +2414,6 @@
       "applied": false
     },
     {
-      "id": "luma-batch-jR6a4UNcsq5XvJN",
-      "url": "https://luma.com/6laijuyn",
-      "fetchedAt": "2026-10-19T20:14:16.009Z",
-      "sourceEventId": "evt-vr1SvUyRNT6X5GE",
-      "sourceName": "IslandDAO v5 🇧🇷",
-      "sourceStartDate": "2026-10-19T13:00:00.000Z",
-      "sourceEndDate": "2026-11-11T20:00:00.000Z",
-      "sourceTimezone": "America/Sao_Paulo",
-      "sha256": "ca493bb6a763e10d6f10896d3ffaa45d1790bcb9d12ab964dbfd52fc3b704638",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "IslandDAO v5 🇧🇷",
-      "applied": false
-    },
-    {
       "id": "luma-host-evt-evt-T1nhxzU2JSJPAgq",
       "url": "https://luma.com/LightDAOEdgeCity",
       "fetchedAt": "2026-10-19T20:14:15.968Z",
@@ -2548,66 +2532,6 @@
       "applied": false
     },
     {
-      "id": "luma-batch-evtPICyDbNudDA4Z",
-      "url": "https://luma.com/fan9g1ft",
-      "fetchedAt": "2026-10-19T20:14:20.822Z",
-      "sourceEventId": "evt-PICyDbNudDA4Zpp",
-      "sourceName": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
-      "sourceStartDate": "2026-10-24T06:00:00.000Z",
-      "sourceEndDate": "2026-10-24T08:00:00.000Z",
-      "sourceTimezone": "Asia/Jakarta",
-      "sha256": "9b5a852640cc94b8c5e060c5953b2666313d7402ff4f5a189c88154a9cee255b",
-      "status": "verified",
-      "previouslyHidden": false,
-      "sourcePublicLocation": true,
-      "patch": {
-        "venueName": "The Coffee Mine",
-        "streetAddress": "Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kota Jakarta Pusat",
-        "addressLocality": "Kota Jakarta Pusat",
-        "addressRegion": "Daerah Khusus Ibukota Jakarta",
-        "addressCountry": "ID",
-        "location": "The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
-        "venueAddressSource": {
-          "checkedAt": "2026-10-19T20:14:20.822Z",
-          "urls": [
-            "https://luma.com/fan9g1ft"
-          ],
-          "venueName": "The Coffee Mine",
-          "streetAddress": "Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kota Jakarta Pusat",
-          "addressLocality": "Kota Jakarta Pusat",
-          "addressCountry": "ID",
-          "location": "The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia"
-        }
-      },
-      "evidence": [
-        {
-          "url": "https://luma.com/fan9g1ft",
-          "fetchedAt": "2026-10-19T20:14:20.822Z",
-          "claim": "The same event/date explicitly marks the venue public and shows this complete address to anonymous visitors.",
-          "excerpt": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026; 2026-10-24T06:00:00.000Z; Location: The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia"
-        }
-      ],
-      "note": "Public organizer page and explicit public/shown flags agree. Registration restrictions are not changed.",
-      "name": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
-      "applied": true
-    },
-    {
-      "id": "india-luma-76s6hwzv",
-      "url": "https://luma.com/76s6hwzv",
-      "fetchedAt": "2026-10-19T20:14:21.627Z",
-      "sourceEventId": "evt-235qnNMQO1z5ko2",
-      "sourceName": "Ready for the Run @ Lucknow",
-      "sourceStartDate": "2026-11-21T06:30:00.000Z",
-      "sourceEndDate": "2026-11-21T09:30:00.000Z",
-      "sourceTimezone": "Asia/Kolkata",
-      "sha256": "439841a53229638f80315d04c1ae780a855f96608e041f1cf23b4118231142a5",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Ready for the Run @ Lucknow",
-      "applied": false
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "url": "https://luma.com/xrpl-hackathon-nyc",
       "fetchedAt": "2026-10-19T20:14:22.183Z",
@@ -2621,22 +2545,6 @@
       "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
       "evidence": [],
       "name": "AI & Fintech XRPL Hackathon in New York",
-      "applied": false
-    },
-    {
-      "id": "india-luma-bitshalaboss",
-      "url": "https://luma.com/bitshalaboss",
-      "fetchedAt": "2026-10-19T20:14:23.305Z",
-      "sourceEventId": "evt-aWRMVdaGAUvP11m",
-      "sourceName": "Bitshala BOSS Summit 2026 | Jaipur | 26 Oct - 31 Oct",
-      "sourceStartDate": "2026-10-26T05:30:00.000Z",
-      "sourceEndDate": "2026-11-01T05:30:00.000Z",
-      "sourceTimezone": "Asia/Kolkata",
-      "sha256": "6cc771d14d6f429cbde8ab0dadc71609901dc71ccd04b870ef63ca031dc75162",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Bitshala BOSS Summit 2026 | Jaipur | 26 Oct - 31 Oct",
       "applied": false
     },
     {
@@ -2857,22 +2765,6 @@
       "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
       "evidence": [],
       "name": "Co-Working Fridays : London Chapter",
-      "applied": false
-    },
-    {
-      "id": "india-luma-co5dtixa",
-      "url": "https://luma.com/co5dtixa",
-      "fetchedAt": "2026-10-19T20:14:31.734Z",
-      "sourceEventId": "evt-KgqIL2Vzsaugk4D",
-      "sourceName": "Ready for the Run @ Pune",
-      "sourceStartDate": "2026-10-31T05:30:00.000Z",
-      "sourceEndDate": "2026-10-31T08:30:00.000Z",
-      "sourceTimezone": "Asia/Kolkata",
-      "sha256": "55c739686749afa341d5db0e8b45620fef5cf302e53852b491fd7defd90cf29f",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Ready for the Run @ Pune",
       "applied": false
     },
     {
@@ -3518,22 +3410,6 @@
       "applied": false
     },
     {
-      "id": "luma-batch-KupO2QEcLws6KMf",
-      "url": "https://luma.com/8uhc300o",
-      "fetchedAt": "2026-10-19T20:14:59.771Z",
-      "sourceEventId": "evt-kFLbDGioTFqXIpj",
-      "sourceName": "Community Call",
-      "sourceStartDate": "2026-11-05T17:00:00.000Z",
-      "sourceEndDate": "2026-11-05T17:30:00.000Z",
-      "sourceTimezone": "America/Toronto",
-      "sha256": "814a9887edd699847a17b3b358cf4a606886753b2b12f4a78422e17919114840",
-      "status": "not-announced",
-      "note": "Anonymous source only names a city/area or has no venue address.",
-      "evidence": [],
-      "name": "Community Call",
-      "applied": false
-    },
-    {
       "id": "luma-batch-Qzy0En8R3B1O2Rp",
       "url": "https://luma.com/london-nov-06",
       "fetchedAt": "2026-10-19T20:15:01.076Z",
@@ -3710,22 +3586,6 @@
       "applied": false
     },
     {
-      "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
-      "url": "https://luma.com/a4qnux81",
-      "fetchedAt": "2026-10-19T20:15:08.306Z",
-      "sourceEventId": "evt-Pfb1j5bJZxVmbGS",
-      "sourceName": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
-      "sourceStartDate": "2026-11-14T11:00:00.000Z",
-      "sourceEndDate": "2026-11-14T17:00:00.000Z",
-      "sourceTimezone": "Europe/London",
-      "sha256": "19affc3c06fd8312fc556c813aff799e6801723d94dee7bd6d5f39b7607333c0",
-      "status": "not-announced",
-      "note": "Anonymous source only names a city/area or has no venue address.",
-      "evidence": [],
-      "name": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
-      "applied": false
-    },
-    {
       "id": "w3v-blockzero-26-11-15",
       "url": "https://luma.com/dmxdc394",
       "fetchedAt": "2026-10-19T20:15:09.248Z",
@@ -3783,22 +3643,6 @@
       "note": "Anonymous source only names a city/area or has no venue address.",
       "evidence": [],
       "name": "Breakpoint Trading Battle",
-      "applied": false
-    },
-    {
-      "id": "w3v-founder-x-vc-summit-vip-dinner-26-11-17",
-      "url": "https://luma.com/hrb0040d",
-      "fetchedAt": "2026-10-19T20:15:10.599Z",
-      "sourceEventId": "evt-LDSErNQQ6jx89G5",
-      "sourceName": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
-      "sourceStartDate": "2026-11-15T19:00:00.000Z",
-      "sourceEndDate": "2026-11-15T22:00:00.000Z",
-      "sourceTimezone": "Europe/London",
-      "sha256": "ae8b81e70e1c52fdd353b52c87cc13b91292933432337a651bc3cb74a54be5f3",
-      "status": "not-announced",
-      "note": "Anonymous source only names a city/area or has no venue address.",
-      "evidence": [],
-      "name": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
       "applied": false
     },
     {
@@ -3968,38 +3812,6 @@
       "note": "Public organizer page and explicit public/shown flags agree. Registration restrictions are not changed.",
       "name": "University Blockchain Conference 2026",
       "applied": true
-    },
-    {
-      "id": "india-luma-icnjduyi",
-      "url": "https://luma.com/icnjduyi",
-      "fetchedAt": "2026-10-19T20:15:16.856Z",
-      "sourceEventId": "evt-6rvpEcD3MCG7bAT",
-      "sourceName": "Ready for the Run @ Hyderabad",
-      "sourceStartDate": "2026-12-05T06:30:00.000Z",
-      "sourceEndDate": "2026-12-05T09:30:00.000Z",
-      "sourceTimezone": "Asia/Kolkata",
-      "sha256": "a3dfe2607332ed9148c86250bc81bc27ba25d7efffb3bad4bd462925ee3fe7b5",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Ready for the Run @ Hyderabad",
-      "applied": false
-    },
-    {
-      "id": "india-luma-52vxy6fo",
-      "url": "https://luma.com/52vxy6fo",
-      "fetchedAt": "2026-10-19T20:15:16.777Z",
-      "sourceEventId": "evt-8iwL8zoLPQMDf9k",
-      "sourceName": "Ready for the Run @ Bhopal",
-      "sourceStartDate": "2026-11-21T06:30:00.000Z",
-      "sourceEndDate": "2026-11-21T09:30:00.000Z",
-      "sourceTimezone": "Asia/Kolkata",
-      "sha256": "69ddbc4390dfb50bb9bb000b20d2cdb2b87a8dd19a50ddfbc150b73f9e0b2ef4",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Ready for the Run @ Bhopal",
-      "applied": false
     },
     {
       "id": "luma-batch-gu8tBdih1P3Z2rD",

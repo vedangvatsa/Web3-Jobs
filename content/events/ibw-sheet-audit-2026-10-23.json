@@ -878,22 +878,10 @@
       "status": "already-published",
       "reviewNote": "CryptoMondays has a current primary page, but its timestamp uses Asia/Dubai (19:30–23:00 IST) while its agenda and the sheet say 18:00–21:30. No confirmed venue. Preserve the existing timing-conflict hold pending organizer clarification.",
       "matchReason": "registration URL / previously verified identity",
-      "published": [
-        {
-          "id": "ibw-luma-evt-UMczcjylUMol0HW",
-          "slug": "cryptomondays",
-          "name": "CryptoMondays Devcon India Edition",
-          "startDate": "2026-11-02T14:00:00.000Z",
-          "endDate": "2026-11-02T17:30:00.000Z"
-        }
-      ],
+      "published": [],
       "sourceMatches": [
         {
           "id": "india-luma-9bhu9f28",
-          "file": "ibw-side-events.json"
-        },
-        {
-          "id": "ibw-luma-evt-UMczcjylUMol0HW",
           "file": "ibw-side-events.json"
         },
         {

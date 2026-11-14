@@ -555,112 +555,6 @@
       ]
     },
     {
-      "id": "india-luma-co5dtixa",
-      "slug": "ready-for-the-run-pune",
-      "olderSlug": "ready-for-the-run-pune",
-      "decision": "apply-unsuperseded-description",
-      "reason": "Add named local partner, avoiding generic circuit sponsor boilerplate.",
-      "baselineHash": "022d948bcde18074eb2a8c0a2d39e74d99bcb7e8967d698d6fdb67ed42fba71c",
-      "currentHash": "022d948bcde18074eb2a8c0a2d39e74d99bcb7e8967d698d6fdb67ed42fba71c",
-      "olderHash": "b88493ec138e41750f26f688ab031c3fc32bccadeb35c8ea2a9b8a6298833014",
-      "proposedHash": "b88493ec138e41750f26f688ab031c3fc32bccadeb35c8ea2a9b8a6298833014",
-      "currentSource": {
-        "url": "https://luma.com/co5dtixa",
-        "fetchedAt": "2026-10-12T11:41:34.599Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Ready for the Run @ Pune",
-        "sha256": "022d948bcde18074eb2a8c0a2d39e74d99bcb7e8967d698d6fdb67ed42fba71c",
-        "evidence": [
-          {
-            "url": "https://luma.com/co5dtixa",
-            "fetchedAt": "2026-10-12T11:41:34.599Z",
-            "sha256": "03906bfb914a89d30bf3d66d7d720f700ebab18662cbdc77d84e7d9332f9405a",
-            "representation": "html"
-          }
-        ]
-      },
-      "olderSource": {
-        "url": "https://luma.com/co5dtixa",
-        "fetchedAt": "2026-10-14T11:49:50.641Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Ready for the Run @ Pune",
-        "sha256": "b88493ec138e41750f26f688ab031c3fc32bccadeb35c8ea2a9b8a6298833014",
-        "evidence": [
-          {
-            "url": "https://luma.com/co5dtixa",
-            "fetchedAt": "2026-10-14T11:49:50.641Z",
-            "sha256": "04d5a1e2350b71ed9d38a9b044b029ac9bc645082c681fb7b076aad97f6a634b"
-          }
-        ]
-      },
-      "proof": [
-        {
-          "url": "https://luma.com/co5dtixa",
-          "resolvedUrl": "https://luma.com/co5dtixa",
-          "checkedAt": "2026-10-14T11:49:50.641Z",
-          "status": 200,
-          "sha256": "04d5a1e2350b71ed9d38a9b044b029ac9bc645082c681fb7b076aad97f6a634b",
-          "title": "Ready for the Run @ Pune · Luma",
-          "descriptions": [
-            "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\n\n## Pune carries the theme Momentum. Six cities into the circuit, the conversation stops being separate rooms and starts reading like one trendline - what's compounding, what's stalling, and where the next cycle is actually headed.\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n\n## Special Mention - Local Community Partner\n\n\n## Dev Spark\n\nDev Spark is one of Pune's most active tech communities - a genuinely energetic crew of developers, students, and innovators who show up to learn, build, and back each other's growth. Their on-ground pull among Pune's builder crowd makes them a natural fit for this stop of the run.\n\nX (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)\n\n\n## Partners\n\n\n## Ecosystem Partners\n\n\n• OroPocket: X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n• KoinX: X (https://x.com/getkoinx) | LinkedIn (https://in.linkedin.com/company/getkoinx)\n• Kryptos: X (https://x.com/KryptosConnect) | LinkedIn (https://www.linkedin.com/company/kryptos)\n• Grovio: X (https://x.com/GrovioAI) | LinkedIn (https://www.linkedin.com/company/grovioai)\n• QuillAudits: X (https://x.com/QuillAudits_AI) | LinkedIn (https://www.linkedin.com/company/quillaudits)\n• Make0: Website (https://make0.ai/) | LinkedIn (https://www.linkedin.com/company/make0/)\n• Xtrading: X (https://x.com/xtrading_dex) | LinkedIn (https://www.linkedin.com/company/xtradingdex/)\n• BlockSurvey: X (https://x.com/blocksurvey) | LinkedIn (https://www.linkedin.com/company/blocksurvey)\n• 39K Group: X (https://x.com/39k_group) | LinkedIn (https://in.linkedin.com/company/39kgroup)\n\n\n## Media Partners\n\n\n• CoinsCapture: X (https://x.com/CoinsCapture) | LinkedIn (https://in.linkedin.com/company/coinscapture)\n• Blockopedia: X (https://x.com/theblockopedia_) | LinkedIn (https://www.linkedin.com/company/theblockopediaofficial)\n• Techtoken: X (https://x.com/Techtoken_in) | LinkedIn (https://www.linkedin.com/company/techtoken/)\n• TheCryptoHype: X (https://x.com/the_cryptohype) | LinkedIn (https://www.linkedin.com/company/thecryptohype/)\n• Block24Seven: X (https://x.com/Block24Seven) | LinkedIn (https://www.linkedin.com/company/block24seven/)\n\n\n## Community Partners\n\n\n• Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)\n• Hyderabad DAO: X (https://x.com/hyderabaddao) | LinkedIn (https://in.linkedin.com/company/hyderabad-dao)\n• Gwalior DAO: X (https://x.com/gwaliordao_) | LinkedIn (https://www.linkedin.com/company/gwaliordao/)\n• Lucknow DAO: X (https://x.com/Lucknow_DAO) | LinkedIn (https://www.linkedin.com/company/lucknowdao/)\n• Web3 Kerala: X (https://x.com/Web3_kerala) | LinkedIn (https://in.linkedin.com/company/web3-kerala)\n• Web3 Aligarh: X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)\n• Web3 Events: X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collably-network)\n• BBC: X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)\n• Zyphar: X (https://x.com/zyphar_ind) | LinkedIn (https://www.linkedin.com/company/zyphar)\n• Dev Spark: X (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)\n• Techeve: X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)\n• Ajinava Edge: X (https://x.com/ajinava) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in)\n• Stackhouse: Website (https://www.stackhouse.social/)\n• AavaCustoms: X (https://x.com/Aavacustoms) | LinkedIn (https://www.linkedin.com/company/aava-customs/)\n• KrowdKraft: X (https://x.com/KrowdKraft_) | LinkedIn (https://www.linkedin.com/company/krowdkraft/)\n• Builders Verse: X (https://x.com/buildersverse_)\n• Builder Base: X (https://x.com/theBuilder_base) | LinkedIn (https://www.linkedin.com/company/builder-base/)\n• Abhilekh Verma Consultancy: X (https://x.com/abhilekhverma) | LinkedIn (https://in.linkedin.com/company/abhilekhverma)\n• ArtofBlockchain: LinkedIn (https://in.linkedin.com/company/artofblockchain)\n\n\n## Co-Host\n\n\n## Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\nInsta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)\n\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\nX (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)\n\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats."
-          ]
-        }
-      ]
-    },
-    {
-      "id": "india-luma-76s6hwzv",
-      "slug": "ready-for-the-run-lucknow",
-      "olderSlug": "ready-for-the-run-lucknow",
-      "decision": "apply-unsuperseded-description",
-      "reason": "Primary source adds community-selected format and concrete exclusions.",
-      "baselineHash": "578a77fa3091aab83e425c4ff9f7df38a92e08464317276f06554be5c2889585",
-      "currentHash": "578a77fa3091aab83e425c4ff9f7df38a92e08464317276f06554be5c2889585",
-      "olderHash": "72efcbb561e0de1226dd706c74d96d8ba5e646649785c76e5a7820a44b8653ed",
-      "proposedHash": "72efcbb561e0de1226dd706c74d96d8ba5e646649785c76e5a7820a44b8653ed",
-      "currentSource": {
-        "url": "https://luma.com/76s6hwzv",
-        "fetchedAt": "2026-10-12T11:25:13.784Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Ready for the Run @ Lucknow",
-        "sha256": "578a77fa3091aab83e425c4ff9f7df38a92e08464317276f06554be5c2889585",
-        "evidence": [
-          {
-            "url": "https://luma.com/76s6hwzv",
-            "fetchedAt": "2026-10-12T11:25:13.784Z",
-            "sha256": "3c63e507e8cec00fdfb5f61b723a8a72d28a8a21f563fedff6620eb146822e3f",
-            "representation": "html"
-          }
-        ]
-      },
-      "olderSource": {
-        "url": "https://luma.com/76s6hwzv",
-        "fetchedAt": "2026-10-14T11:49:43.595Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Ready for the Run @ Lucknow",
-        "sha256": "72efcbb561e0de1226dd706c74d96d8ba5e646649785c76e5a7820a44b8653ed",
-        "evidence": [
-          {
-            "url": "https://luma.com/76s6hwzv",
-            "fetchedAt": "2026-10-14T11:49:43.595Z",
-            "sha256": "91a40636ee282fc8c5ce104930818fd50686e0f39a10eb82374071b82f97e02a"
-          }
-        ]
-      },
-      "proof": [
-        {
-          "url": "https://luma.com/76s6hwzv",
-          "resolvedUrl": "https://luma.com/76s6hwzv",
-          "checkedAt": "2026-10-14T11:49:43.595Z",
-          "status": 200,
-          "sha256": "91a40636ee282fc8c5ce104930818fd50686e0f39a10eb82374071b82f97e02a",
-          "title": "Ready for the Run @ Lucknow · Luma",
-          "descriptions": [
-            "## India's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nReady for the Run is a community-first meetup circuit bringing together builders, investors, traders, founders, and researchers for real conversations on where AI and Web3 are headed next. Expect candid discussions, live polling, and networking with people who are actually building and betting on this space.\n\n\n• NO Panel Discussions\n• NO Keynotes\n• NO Product Demos\n• NO Company Pitches\n\nEach Topic selected by the Community via surveys done on the Infini3 website:  https://goinfini3.com/\n\nLucknow carries the theme Trust. No market runs without it - regulation, custody, who you believe and why - and few cities are better suited to a conversation about relationships and reputation than this one.\n\nThis isn't a pitch fest. It's a space for honest takes, contrarian views, and collective intelligence - capturing how each city's community is thinking, positioning, and preparing right now, city by city, across a 9-city run - maybe more\n\nThe circuit is co-led by Raajeev Anand (TechHybr (https://x.com/techhybrx)), bringing his on-ground Web3 & AI community reach into every stop of the run.\n\nWhether you're deep in the trenches or just AI & Web3-curious, come add your voice to the conversation.\n\nReady? Let's run.\n\n\n## Partners\n\n\n## Ecosystem Partners\n\n\n• OroPocket: X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo (https://Have made a promo for this campaign   Anyone signing up using this link would get Rs 50 of free gold on their first investment of Rs 500:  https://oropocket.com/i/READY364)\n• KoinX: X (https://x.com/getkoinx) | LinkedIn (https://in.linkedin.com/company/getkoinx)\n• Kryptos: X (https://x.com/KryptosConnect) | LinkedIn (https://www.linkedin.com/company/kryptos)\n• Grovio: X (https://x.com/GrovioAI) | LinkedIn (https://www.linkedin.com/company/grovioai)\n• QuillAudits: X (https://x.com/QuillAudits_AI) | LinkedIn (https://www.linkedin.com/company/quillaudits)\n• Make0: Website (https://make0.ai/) | LinkedIn (https://www.linkedin.com/company/make0/)\n• Xtrading: X (https://x.com/xtrading_dex) | LinkedIn (https://www.linkedin.com/company/xtradingdex/)\n• BlockSurvey: X (https://x.com/blocksurvey) | LinkedIn (https://www.linkedin.com/company/blocksurvey)\n• 39K Group: X (https://x.com/39k_group) | LinkedIn (https://in.linkedin.com/company/39kgroup)\n\n\n## Media Partners\n\n\n• CoinsCapture: X (https://x.com/CoinsCapture) | LinkedIn (https://in.linkedin.com/company/coinscapture)\n• Blockopedia: X (https://x.com/theblockopedia_) | LinkedIn (https://www.linkedin.com/company/theblockopediaofficial)\n• Techtoken: X (https://x.com/Techtoken_in) | LinkedIn (https://www.linkedin.com/company/techtoken/)\n• TheCryptoHype: X (https://x.com/the_cryptohype) | LinkedIn (https://www.linkedin.com/company/thecryptohype/)\n• Block24Seven: X (https://x.com/Block24Seven) | LinkedIn (https://www.linkedin.com/company/block24seven/)\n\n\n## Community Partners\n\n\n• Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)\n• Hyderabad DAO: X (https://x.com/hyderabaddao) | LinkedIn (https://in.linkedin.com/company/hyderabad-dao)\n• Gwalior DAO: X (https://x.com/gwaliordao_) | LinkedIn (https://www.linkedin.com/company/gwaliordao/)\n• Lucknow DAO: X (https://x.com/Lucknow_DAO) | LinkedIn (https://www.linkedin.com/company/lucknowdao/)\n• Web3 Kerala: X (https://x.com/Web3_kerala) | LinkedIn (https://in.linkedin.com/company/web3-kerala)\n• Web3 Aligarh: X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)\n• Web3 Events: X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collably-network)\n• BBC: X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)\n• Zyphar: X (https://x.com/zyphar_ind) | LinkedIn (https://www.linkedin.com/company/zyphar)\n• Dev Spark: X (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)\n• Techeve: X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)\n• Ajinava Edge: X (https://x.com/ajinava) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in)\n• Stackhouse: Website (https://www.stackhouse.social/)\n• AavaCustoms: X (https://x.com/Aavacustoms) | LinkedIn (https://www.linkedin.com/company/aava-customs/)\n• KrowdKraft: X (https://x.com/KrowdKraft_) | LinkedIn (https://www.linkedin.com/company/krowdkraft/)\n• Builders Verse: X (https://x.com/buildersverse_)\n• Builder Base: X (https://x.com/theBuilder_base) | LinkedIn (https://www.linkedin.com/company/builder-base/)\n• Abhilekh Verma Consultancy: X (https://x.com/abhilekhverma) | LinkedIn (https://in.linkedin.com/company/abhilekhverma)\n• ArtofBlockchain: LinkedIn (https://in.linkedin.com/company/artofblockchain)\n\n\n## Co-Host\n\n\n## Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\nInsta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)\n\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\nWebsite (https://goinfini3.com/) | X (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)\n\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats."
-          ]
-        }
-      ]
-    },
-    {
       "id": "india-luma-qzzu690f",
       "slug": "alpend-collateral-call",
       "olderSlug": "alpend-collateral-call",
@@ -918,45 +812,6 @@
           "title": "NABS - Powered By Digital Infrastructure Network",
           "descriptions": [
             "The era of speculation is over. Blueprints reflects our collective mission to finalize the technical, energetic, and regulatory frameworks that will define North American leadership for decades to come. Attend NABS to get hands-on with the people securing our digital future and deploying the next generation of infrastructure.\n\nNABS is the conference for the leaders architecting the future of digital infrastructure. Focused on the core pillars of strategic infrastructure, capital, partnerships, and global leadership, the Summit convenes C-suite executives, policymakers, and innovators to secure and deploy the next generation of North American legacy.\n\nThis is where the industry’s blueprints are refined and the partnerships that drive global scale are solidified.Hosted by the Digital Infrastructure Network, the Summit provides an unprecedented look through the lens of a state bringing leadership to the global economy.\n\nThis year, NABS is expanding into the full digital infrastructure conversation. Our focus includes data centers and compute, AI, energy and the grid, quantum technologies, Bitcoin and digital assets, and the capital and policy that support all of them.\n\nWhat ties those areas together is that none can develop in isolation. AI needs compute; compute needs power, cooling, and networks; emerging technologies need security, investment, and clear policy.\n\nWe’re bringing together the operators, technology leaders, investors, researchers, policymakers, and advisers working through those questions. We want people to leave with useful relationships, a clearer understanding of the challenges, and opportunities to move actual projects forward.\n\n## Where leaders scaleinfrastructure, deploy capital, and secure global leadership.\n\n## Speakers"
-          ]
-        }
-      ]
-    },
-    {
-      "id": "luma-batch-KupO2QEcLws6KMf",
-      "slug": "community-call",
-      "olderSlug": "community-call",
-      "decision": "apply-unsuperseded-description",
-      "reason": "Remove stale invitation slogans and disclose the primary source's unresolved date conflict.",
-      "baselineHash": "fef8ef6dc98ce8296e3dd505a0ccca71b706e3fe3b97ec41de2f362a2d4a1646",
-      "currentHash": "fef8ef6dc98ce8296e3dd505a0ccca71b706e3fe3b97ec41de2f362a2d4a1646",
-      "olderHash": "1faa393b8b5ee22a32e7cacecb0de8cb469400b9185d63068ae300c30d2d0adf",
-      "proposedHash": "1faa393b8b5ee22a32e7cacecb0de8cb469400b9185d63068ae300c30d2d0adf",
-      "currentSource": null,
-      "olderSource": {
-        "url": "https://luma.com/8uhc300o",
-        "fetchedAt": "2026-10-14T11:55:50.993Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Community Call",
-        "sha256": "1faa393b8b5ee22a32e7cacecb0de8cb469400b9185d63068ae300c30d2d0adf",
-        "evidence": [
-          {
-            "url": "https://luma.com/8uhc300o",
-            "fetchedAt": "2026-10-14T11:55:50.993Z",
-            "sha256": "c8616b98ae6d1ccf0371068bed80f4946609819495abc4c6e99ff8dfb8e139f0"
-          }
-        ]
-      },
-      "proof": [
-        {
-          "url": "https://luma.com/8uhc300o",
-          "resolvedUrl": "https://luma.com/8uhc300o",
-          "checkedAt": "2026-10-14T11:55:50.993Z",
-          "status": 200,
-          "sha256": "c8616b98ae6d1ccf0371068bed80f4946609819495abc4c6e99ff8dfb8e139f0",
-          "title": "Community Call · Luma",
-          "descriptions": [
-            "Hey! \n\nGet ready to dive into the world of Solana with our Community Call happening Thursday, Jul 3rd, 12:00 PM to 12:30 PM EDT. \n\nhttps://discord.gg/vgt4M7jJfG\n\nHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone. \n\nJoin us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.\n\nGot questions? Bring 'em on! Want to get more involved? This is your chance! \n\nCan't wait to see you there!"
           ]
         }
       ]
@@ -1576,14 +1431,7 @@
       "content/events/sources/curated-events.json",
       "content/events/sources/india-luma-events.json"
     ],
-    "removedRuntimeRecords": [
-      {
-        "id": "token2049-evt-rnmJyD2klnY67Ue",
-        "slug": "ai-agents-space-yacht-fireside",
-        "startDate": "2026-10-15T09:30:00.000Z",
-        "endDate": "2026-10-15T14:00:00.000Z"
-      }
-    ],
+    "removedRuntimeRecords": [],
     "allPublishedDescriptionsSourceBacked": 216,
     "onlyIntendedRuntimeDescriptionsChanged": true,
     "existingMetadataUnchanged": true,

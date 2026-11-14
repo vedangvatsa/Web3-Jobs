@@ -40,52 +40,6 @@
     }
   },
   {
-    "id": "luma-crypto-yB1Ga9TIhcXOMJA",
-    "slug": "stablecoin2",
-    "name": "Stablecoin Connect: Panel & Mixer",
-    "description": "Stablecoin Connect: Panel & Mixer\nSolana x Aquanow x Universal\n\nDate: 15 October, Thursday\nTime:\n- 7:00 PM –\n- 10:00 PM\nLocation: Details will be shared upon approval\n\nJoin us for Stablecoin Connect: Panel & Mixer, an invite-only evening focused on the evolving stablecoin ecosystem.\n\n[Co-hosted with Aquanow](https://www.aquanow.com/ae) [and Universal](https://www.universal.ae/), the evening is designed to create space for meaningful conversations, fresh perspectives, and new connections.\n\nThe evening features a panel on the future of stablecoins, followed by a networking mixer to connect, exchange ideas, and continue the conversation.\n\nAgenda\n- 7:00 – 7:30 PM: Guest arrival & check-in\n- 7:30 – 8:00 PM: Panel discussion\n- 8:00 – 10:00 PM: Networking mixer\n\nPlease Note\n🔸 This is an invite-only event. RSVP required – no +1s, no walk-ins.\n🔸 This event has limited capacity and follows a first-come, first-served policy.\n🔸 Kindly arrive on time to secure your spot.\n🔸 Dress Code: Smart Casual. No flip-flops, beachwear/swimwear, or sportswear. Gentlemen are kindly requested not to wear shorts or open-toe shoes.\n\n📸 Photos will be taken during the event. By participating, you agree to their use for promotional purposes.\n\nWe look forward to seeing you there!",
-    "startDate": "2026-10-15T15:00:00.000Z",
-    "endDate": "2026-10-15T18:00:00.000Z",
-    "country": "United Arab Emirates",
-    "location": "United Arab Emirates",
-    "url": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
-    "registrationUrl": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
-    "coverImage": "/events/luma-crypto-yb1ga9tihcxomja-a233bce6.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Superteam Middle East",
-      "Aquanow",
-      "Universal"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Middle East",
-      "url": "https://uae.superteam.fun/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
-      "eventId": "evt-yB1Ga9TIhcXOMJA",
-      "fetchedAt": "2026-09-19T23:54:04.160Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-yogNb1gnuUEJWFz",
     "slug": "efdhay",
     "name": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",

@@ -1213,24 +1213,6 @@
       ]
     }
   },
-  "token2049-evt-YO7GY1OwI4l0QR6": {
-    "description": "Get Down For Real is an after-hours gathering at Avenue Singapore for founders, investors and professionals working in AI, Web3, fintech and digital assets. The format is informal conversation over drinks, without a presentation program.\n\nThe October 15 listing starts at 22:30 Singapore time. Avenue's Thursday music program mixes current hits, throwbacks and hip-hop. The organizer advertises complimentary house pours from 22:00 to 01:00. Registration is listed as free and requires approval.",
-    "descriptionSource": {
-      "url": "https://luma.com/d1uqegez",
-      "fetchedAt": "2026-10-12T11:25:04.738Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Get Down For Real",
-      "sha256": "f2aaaf97c97524dddcd53838aae8e6e0e78f7ac4d491d22f6af94efd71339fa8",
-      "evidence": [
-        {
-          "url": "https://luma.com/d1uqegez",
-          "fetchedAt": "2026-10-12T11:25:04.738Z",
-          "sha256": "f9217f79c13964c871945e80c323f96590cc9c4748f183d5422406c6b54c8b99",
-          "representation": "html"
-        }
-      ]
-    }
-  },
   "ibw-official-mip-20-road-to-devcon-10-24": {
     "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions\n\nWhat to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking\n\nWho should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins\n\nVenue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC)\n\nRegistration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
     "descriptionSource": {

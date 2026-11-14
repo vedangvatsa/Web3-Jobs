@@ -213,105 +213,6 @@
       }
     },
     {
-      "id": "premier-blockchain-africa-2026",
-      "oldSlug": "blockchain-africa",
-      "slug": "blockchain-africa",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 4915,
-      "characters": 487,
-      "source": {
-        "url": "https://blockchainafrica.co/",
-        "fetchedAt": "2026-10-12T11:25:04.157Z",
-        "status": 200,
-        "sha256": "f67b568020a8ea5bc5460bb1547579ecdb0e9b9235dbabf07633691292b16840"
-      }
-    },
-    {
-      "id": "token2049-evt-rnmJyD2klnY67Ue",
-      "oldSlug": "fcsy",
-      "slug": "ai-agents-space-yacht-fireside",
-      "candidate": true,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 376,
-      "characters": 733,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/n6e4pmtn",
-        "fetchedAt": "2026-10-12T11:25:04.279Z",
-        "status": 200,
-        "sha256": "d49c2881d01bb91d0524634f00292e7ab92b78617aa9a32f8a73c994b5df201d"
-      }
-    },
-    {
-      "id": "luma-batch-W4GEoKovBqnA6lm",
-      "oldSlug": "xppe9krt",
-      "slug": "exchange1-trading-thursday-mumbai",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 609,
-      "characters": 609,
-      "factChanges": {
-        "streetAddress": "Gate 2, Ltd, Building No 6, Western Express Hwy, NESCO, Goregaon East, Mumbai",
-        "coordinates": {
-          "latitude": 19.1497216,
-          "longitude": 72.8553757
-        },
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/xppe9krt",
-            "price": 0,
-            "availability": "SoldOut"
-          }
-        ],
-        "registrationAvailability": "waitlist"
-      },
-      "source": {
-        "url": "https://luma.com/xppe9krt",
-        "fetchedAt": "2026-10-12T11:25:04.612Z",
-        "status": 200,
-        "sha256": "3f8da1ce7fa2249425da78cd990daf77f6ce4c31ae573d20065456d9516f6db2"
-      }
-    },
-    {
-      "id": "token2049-evt-YO7GY1OwI4l0QR6",
-      "oldSlug": "gdr",
-      "slug": "get-down-for-real",
-      "candidate": true,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 384,
-      "characters": 495,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/d1uqegez",
-        "fetchedAt": "2026-10-12T11:25:04.738Z",
-        "status": 200,
-        "sha256": "f9217f79c13964c871945e80c323f96590cc9c4748f183d5422406c6b54c8b99"
-      }
-    },
-    {
-      "id": "luma-crypto-yB1Ga9TIhcXOMJA",
-      "oldSlug": "stablecoin2",
-      "slug": "stablecoin-connect",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 1251,
-      "characters": 1251,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/stablecoinconnectsolanaaquanowuniversal",
-        "fetchedAt": "2026-10-12T11:25:04.803Z",
-        "status": 200,
-        "sha256": "1f9fb1499bcdf0cbd3d3aff7c6fbb313edceeae562f52e9a66c3f4f3b34a849d"
-      }
-    },
-    {
       "id": "luma-batch-evtzs8RDf9CsVEHu",
       "oldSlug": "p60o9q3i",
       "slug": "dc-privacy-summit",
@@ -771,44 +672,6 @@
       }
     },
     {
-      "id": "luma-crypto-uY7AwaQhqCO2Ejy",
-      "oldSlug": "executorch",
-      "slug": "executorch",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 4234,
-      "characters": 4234,
-      "factChanges": {
-        "ticketOffers": [
-          {
-            "name": "Submit Proposal - IoT Track",
-            "url": "https://luma.com/executorch-hackathon",
-            "price": 0,
-            "availability": "InStock"
-          },
-          {
-            "name": "Submit Proposal - Compute",
-            "url": "https://luma.com/executorch-hackathon",
-            "price": 0,
-            "availability": "InStock"
-          },
-          {
-            "name": "Submit Proposal - Mobile + XR",
-            "url": "https://luma.com/executorch-hackathon",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/executorch-hackathon",
-        "fetchedAt": "2026-10-12T11:25:08.184Z",
-        "status": 200,
-        "sha256": "8d56cb31744753606a46394c6965442b3e7f4c347e6dae502b2cd3a2d74b06f9"
-      }
-    },
-    {
       "id": "luma-evt-XVgMezNYKSfYZHA",
       "oldSlug": "mlp",
       "slug": "myweb3-launch-party",
@@ -890,36 +753,6 @@
         "fetchedAt": "2026-10-12T11:41:08.854Z",
         "status": 200,
         "sha256": "caeee24e85b5e338eed6353bdf3e4bb49c64553dfc4d264d4e49de74f68770fc"
-      }
-    },
-    {
-      "id": "luma-batch-jR6a4UNcsq5XvJN",
-      "oldSlug": "6laijuyn",
-      "slug": "islanddao-v5",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 691,
-      "characters": 701,
-      "factChanges": {
-        "endDate": "2026-11-11T20:00:00.000Z",
-        "locationHidden": true,
-        "city": "Florianópolis",
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/6laijuyn",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/6laijuyn",
-        "fetchedAt": "2026-10-12T11:25:09.090Z",
-        "status": 200,
-        "sha256": "84c73231e524695de6a628529502157e5c3f743e52611ad8b0735947cbd24c73"
       }
     },
     {
@@ -1922,77 +1755,6 @@
       }
     },
     {
-      "id": "luma-batch-evtPICyDbNudDA4Z",
-      "oldSlug": "fan9g1ft",
-      "slug": "bitcoin-indonesia-jakarta-meetup",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 1763,
-      "characters": 1763,
-      "factChanges": {
-        "locationHidden": false,
-        "city": "Kota Jakarta Pusat",
-        "location": "The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
-        "venueName": "The Coffee Mine",
-        "addressLocality": "Kota Jakarta Pusat",
-        "addressRegion": "Daerah Khusus Ibukota Jakarta",
-        "addressCountry": "ID",
-        "neighborhood": "Direktorat Jenderal Energi Baru Terbarukan dan Konservasi Energi",
-        "coordinates": {
-          "latitude": -6.1973287,
-          "longitude": 106.84067639999999
-        },
-        "hosts": [
-          "Bitcoin Indonesia"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "Bitcoin Indonesia Meetups",
-          "url": "https://bitcoinindonesia.xyz/id/"
-        },
-        "approvalRequired": false,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/fan9g1ft",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/fan9g1ft",
-        "fetchedAt": "2026-10-12T11:25:13.662Z",
-        "status": 200,
-        "sha256": "5dd7d3cec9fa553af089ec17a996c4ab06e917f4c7acd6fb5304a533cdee7501"
-      }
-    },
-    {
-      "id": "india-luma-76s6hwzv",
-      "oldSlug": "rrl",
-      "slug": "ready-for-the-run-lucknow",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 4071,
-      "characters": 412,
-      "factChanges": {
-        "organizer": {
-          "type": "Organization",
-          "name": "Ready for the Run Meetups",
-          "url": "https://goinfini3.com/"
-        }
-      },
-      "source": {
-        "url": "https://luma.com/76s6hwzv",
-        "fetchedAt": "2026-10-12T11:25:13.784Z",
-        "status": 200,
-        "sha256": "3c63e507e8cec00fdfb5f61b723a8a72d28a8a21f563fedff6620eb146822e3f"
-      }
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "oldSlug": "xlh",
       "slug": "ai-fintech-xrpl-hackathon",
@@ -2166,39 +1928,6 @@
         "fetchedAt": "2026-10-12T11:25:14.478Z",
         "status": 200,
         "sha256": "9fe4b6426a75977e90e072e3c51e0fe79aaed166d8240cb02b2c6b9d77c7c7ba"
-      }
-    },
-    {
-      "id": "india-luma-bitshalaboss",
-      "oldSlug": "bbs",
-      "slug": "bitshala-boss-summit",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 3925,
-      "characters": 3925,
-      "factChanges": {
-        "ticketOffers": [
-          {
-            "name": "Sessions Pass (Paid)",
-            "url": "https://luma.com/bitshalaboss",
-            "price": 2499,
-            "priceCurrency": "INR",
-            "availability": "InStock"
-          },
-          {
-            "name": "Sessions Pass (Sponsored)",
-            "url": "https://luma.com/bitshalaboss",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/bitshalaboss",
-        "fetchedAt": "2026-10-12T11:25:14.814Z",
-        "status": 200,
-        "sha256": "b45fc79ca115e46bd5b6e5b44c80e5650e35665be4224ea52bb28074657cea46"
       }
     },
     {
@@ -2889,81 +2618,6 @@
         "fetchedAt": "2026-10-12T11:25:17.807Z",
         "status": 200,
         "sha256": "992681202151814caf40158252bf4b340ffccfdbc8aa9c7cb4ff8dafdb82d11d"
-      }
-    },
-    {
-      "id": "india-luma-co5dtixa",
-      "oldSlug": "rrp",
-      "slug": "ready-for-the-run-pune",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 4093,
-      "characters": 427,
-      "factChanges": {
-        "startDate": "2026-10-31T05:30:00.000Z",
-        "endDate": "2026-10-31T08:30:00.000Z",
-        "hosts": [
-          "Infini3 .",
-          "Raajeev Anand",
-          "Shantanu Sharma"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "Ready for the Run Meetups",
-          "url": "https://goinfini3.com/"
-        },
-        "ticketOffers": [
-          {
-            "name": "Degen",
-            "url": "https://luma.com/co5dtixa",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Founder",
-            "url": "https://luma.com/co5dtixa",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Builder",
-            "url": "https://luma.com/co5dtixa",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Investor",
-            "url": "https://luma.com/co5dtixa",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "KOL / Creator",
-            "url": "https://luma.com/co5dtixa",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Student",
-            "url": "https://luma.com/co5dtixa",
-            "price": 0,
-            "availability": "SoldOut"
-          },
-          {
-            "name": "Trader",
-            "url": "https://luma.com/co5dtixa",
-            "price": 0,
-            "availability": "SoldOut"
-          }
-        ],
-        "registrationAvailability": "waitlist"
-      },
-      "source": {
-        "url": "https://luma.com/co5dtixa",
-        "fetchedAt": "2026-10-12T11:41:34.599Z",
-        "status": 200,
-        "sha256": "03906bfb914a89d30bf3d66d7d720f700ebab18662cbdc77d84e7d9332f9405a"
       }
     },
     {
@@ -3974,41 +3628,6 @@
       }
     },
     {
-      "id": "luma-batch-KupO2QEcLws6KMf",
-      "oldSlug": "8uhc300o",
-      "slug": "community-call",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 634,
-      "characters": 634,
-      "factChanges": {
-        "locationHidden": false,
-        "location": "Location to be announced",
-        "hosts": [],
-        "organizer": {
-          "type": "Organization",
-          "name": "Superteam Canada",
-          "url": "https://superteam.ca/"
-        },
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/8uhc300o",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/8uhc300o",
-        "fetchedAt": "2026-10-12T11:43:19.785Z",
-        "status": 200,
-        "sha256": "4efbff2bd7a64526d7faa79a8833cfeb8a38bff1f4ea67b0fee416dd766b9ccb"
-      }
-    },
-    {
       "id": "ibw-official-pragma-mumbai-11-05",
       "oldSlug": "pragma-mumbai",
       "slug": "pragma-mumbai",
@@ -4407,54 +4026,6 @@
       }
     },
     {
-      "id": "luma-batch-evtKhUrCbu57vTQe",
-      "oldSlug": "llqbx5ts",
-      "slug": "bitcoin-hong-kong-meetup-november-2026",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 681,
-      "characters": 681,
-      "factChanges": {
-        "locationHidden": false,
-        "city": "Hong Kong Island",
-        "location": "Shake Shack (ifc mall), 4018,4F IFC, Two International Finance Centre, Finance St, Central, Hong Kong",
-        "venueName": "Shake Shack (ifc mall)",
-        "streetAddress": "Shake Shack (ifc mall), 4018,4F IFC, Two International Finance Centre, Finance St, Central, Hong Kong",
-        "addressLocality": "Hong Kong Island",
-        "addressRegion": "Hong Kong Island",
-        "addressCountry": "Hong Kong",
-        "coordinates": {
-          "latitude": 22.285373,
-          "longitude": 114.15893
-        },
-        "hosts": [
-          "Bitcoin Meetup Hong Kong"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "Bitcoin HK meetup",
-          "url": "https://luma.com/bitcoinorghk"
-        },
-        "approvalRequired": false,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/llqbx5ts",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/llqbx5ts",
-        "fetchedAt": "2026-10-12T11:43:46.871Z",
-        "status": 200,
-        "sha256": "bef0dea80d90cfe89f4ac93752b29c196a1fb63051e488572fb5629c5a1116aa"
-      }
-    },
-    {
       "id": "premier-singapore-blockchain-week-2026",
       "oldSlug": "singapore-blockchain-week",
       "slug": "singapore-blockchain-week",
@@ -4556,58 +4127,6 @@
       "note": "City ticket URL returned tour-wide content; city-specific agenda and venue remain unverified."
     },
     {
-      "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
-      "oldSlug": "fxvs3",
-      "slug": "founder-vc-summit-demo-day",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 1238,
-      "characters": 1238,
-      "factChanges": {
-        "hosts": [
-          "BackersStage Capital",
-          "Atharv",
-          "Aditya | Backersstage"
-        ],
-        "ticketOffers": [
-          {
-            "name": "VIP Pass",
-            "url": "https://luma.com/a4qnux81",
-            "price": 249,
-            "priceCurrency": "USD",
-            "availability": "InStock"
-          },
-          {
-            "name": "Founder Pass",
-            "url": "https://luma.com/a4qnux81",
-            "price": 149,
-            "priceCurrency": "USD",
-            "availability": "InStock"
-          },
-          {
-            "name": "Pitching Slot",
-            "url": "https://luma.com/a4qnux81",
-            "price": 0,
-            "availability": "InStock",
-            "validFrom": "2026-09-05T23:00:00.000Z"
-          },
-          {
-            "name": "Standard",
-            "url": "https://luma.com/a4qnux81",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/a4qnux81",
-        "fetchedAt": "2026-10-12T11:43:55.767Z",
-        "status": 200,
-        "sha256": "ebc4e72c944cc80a7cae0599c0e77f079096deeb3bffee32b09178548310f6dc"
-      }
-    },
-    {
       "id": "premier-ibt-jaipur-2026",
       "oldSlug": "ibt-jaipur",
       "slug": "ibt-jaipur",
@@ -4675,44 +4194,6 @@
         "fetchedAt": "2026-10-12T11:44:00.506Z",
         "status": 200,
         "sha256": "501863052cdbdc3ac2c827cea51d223d62e0ac6503624837b3b67794d7007ac5"
-      }
-    },
-    {
-      "id": "w3v-founder-x-vc-summit-vip-dinner-26-11-17",
-      "oldSlug": "fxvs4",
-      "slug": "founder-vc-summit-vip-dinner",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 916,
-      "characters": 916,
-      "factChanges": {
-        "hosts": [
-          "BackersStage Capital",
-          "Atharv",
-          "Aditya | Backersstage"
-        ],
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/hrb0040d",
-            "price": 0,
-            "availability": "InStock"
-          },
-          {
-            "name": "VIP Pass",
-            "url": "https://luma.com/hrb0040d",
-            "price": 249,
-            "priceCurrency": "USD",
-            "availability": "InStock"
-          }
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/hrb0040d",
-        "fetchedAt": "2026-10-12T11:44:02.767Z",
-        "status": 200,
-        "sha256": "aecb58c34c82577c1d05362183ab44bb44cf31a3a2efa1935208df7112acadcc"
       }
     },
     {
@@ -4998,29 +4479,6 @@
       "note": "City ticket URL returned tour-wide content; city-specific agenda and venue remain unverified."
     },
     {
-      "id": "india-luma-52vxy6fo",
-      "oldSlug": "rrb",
-      "slug": "ready-for-the-run-bhopal",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 4122,
-      "characters": 370,
-      "factChanges": {
-        "organizer": {
-          "type": "Organization",
-          "name": "Ready for the Run Meetups",
-          "url": "https://goinfini3.com/"
-        }
-      },
-      "source": {
-        "url": "https://luma.com/52vxy6fo",
-        "fetchedAt": "2026-10-12T11:44:26.203Z",
-        "status": 200,
-        "sha256": "d976bc01e3be792352f521ca3eaa0049cea4bd744ec2d4b2ba952ae455cddf8d"
-      }
-    },
-    {
       "id": "premier-ibt-chandigarh-2026",
       "oldSlug": "ibt-chandigarh",
       "slug": "ibt-chandigarh",
@@ -5252,29 +4710,6 @@
       }
     },
     {
-      "id": "india-luma-icnjduyi",
-      "oldSlug": "rrh",
-      "slug": "ready-for-the-run-hyderabad",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 4084,
-      "characters": 383,
-      "factChanges": {
-        "organizer": {
-          "type": "Organization",
-          "name": "Ready for the Run Meetups",
-          "url": "https://goinfini3.com/"
-        }
-      },
-      "source": {
-        "url": "https://luma.com/icnjduyi",
-        "fetchedAt": "2026-10-12T11:44:28.795Z",
-        "status": 200,
-        "sha256": "62312e7213dd2ca5f309453a14416bccb6a65d4f60254ba97f98f278bc492f22"
-      }
-    },
-    {
       "id": "ma-bitcoin-mena",
       "oldSlug": "bitcoin-mena",
       "slug": "bitcoin-mena",
@@ -5331,57 +4766,6 @@
         "fetchedAt": "2026-10-12T11:25:33.970Z",
         "status": 200,
         "sha256": "61000664c1849737c273cce00d83d6db66949a19b3da028a60053f3a886d1ca7"
-      }
-    },
-    {
-      "id": "luma-batch-evtsJTiDuzqsClRt",
-      "oldSlug": "4dgy9usl",
-      "slug": "bitcoin-hong-kong-meetup-december-2026",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 681,
-      "characters": 710,
-      "factChanges": {
-        "name": "BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (changed to Dec 17)",
-        "startDate": "2026-12-17T11:30:00.000Z",
-        "endDate": "2026-12-17T14:00:00.000Z",
-        "locationHidden": false,
-        "city": "Hong Kong Island",
-        "location": "Shake Shack (ifc mall), 4018,4F IFC, Two International Finance Centre, Finance St, Central, Hong Kong",
-        "venueName": "Shake Shack (ifc mall)",
-        "streetAddress": "Shake Shack (ifc mall), 4018,4F IFC, Two International Finance Centre, Finance St, Central, Hong Kong",
-        "addressLocality": "Hong Kong Island",
-        "addressRegion": "Hong Kong Island",
-        "addressCountry": "Hong Kong",
-        "coordinates": {
-          "latitude": 22.285373,
-          "longitude": 114.15893
-        },
-        "hosts": [
-          "Bitcoin Meetup Hong Kong"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "Bitcoin HK meetup",
-          "url": "https://luma.com/bitcoinorghk"
-        },
-        "approvalRequired": false,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/4dgy9usl",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/4dgy9usl",
-        "fetchedAt": "2026-10-12T11:44:33.316Z",
-        "status": 200,
-        "sha256": "a94a2659ea53ddfd0ba9326b2f9981af2cbab78971178b360626fc1832d4ddf3"
       }
     },
     {

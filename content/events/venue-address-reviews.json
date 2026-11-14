@@ -1111,30 +1111,6 @@
       }
     }
   },
-  "luma-batch-evtPICyDbNudDA4Z": {
-    "expectedStartDate": "2026-10-24T06:00:00.000Z",
-    "checkedAt": "2026-10-19T20:14:20.822Z",
-    "expectedSourceEventId": "evt-PICyDbNudDA4Zpp",
-    "patch": {
-      "venueName": "The Coffee Mine",
-      "streetAddress": "Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kota Jakarta Pusat",
-      "addressLocality": "Kota Jakarta Pusat",
-      "addressRegion": "Daerah Khusus Ibukota Jakarta",
-      "addressCountry": "ID",
-      "location": "The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
-      "venueAddressSource": {
-        "checkedAt": "2026-10-19T20:14:20.822Z",
-        "urls": [
-          "https://luma.com/fan9g1ft"
-        ],
-        "venueName": "The Coffee Mine",
-        "streetAddress": "Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kota Jakarta Pusat",
-        "addressLocality": "Kota Jakarta Pusat",
-        "addressCountry": "ID",
-        "location": "The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia"
-      }
-    }
-  },
   "luma-batch-evt9GgBM7ScK61zT": {
     "expectedStartDate": "2026-10-28T23:00:00.000Z",
     "checkedAt": "2026-10-19T20:14:27.080Z",

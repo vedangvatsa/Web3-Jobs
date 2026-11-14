@@ -535,21 +535,6 @@
       "preview": "A closed-door conference on corporate bitcoin treasury strategy — allocators, executives, and strategists in one room. September 28, 2026 in New York City."
     },
     {
-      "id": "premier-blockchain-africa-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://blockchainafrica.co/",
-        "fetchedAt": "2026-09-20T00:20:42.357Z",
-        "method": "official-section",
-        "pageTitle": "Blockchain Africa Conference 2026 | 15 Oct 2026 | 12th Edition",
-        "sha256": "e9c98af37b6dfd51397fda3f7f45ebcd8a46f2418b10084ffa6c48ffaa123e9a"
-      },
-      "previousStartDate": "2026-10-15T09:00:00+02:00",
-      "characters": 4915,
-      "preview": "• Previous Conferences Blockchain Africa Conference 2025 Strategic Bitcoin Reserve Summit 2025 Blockchain Africa Conference 2024 Crypto Fest 2024 Crypto Fest 2023 Blockchain Africa Conference 2023 Crypto Fest 2022 Blockchain Africa Conference 2022 Crypto Fest 2021 DeFi Conference 2021 Blockchain Africa Conference 2021 Crypto Fest 2020 DeFi Conference 2020 Blockchain Africa Conference 2020 Crypto Fest 2019 Blockchain Africa Conference 2019 Blockchain Africa Conference 2019 Blockchain Africa Conference 2018 Blockchain Africa Conference 2017 Blockchain and Bitcoin Africa Conference 2016 Bitcoin Africa Conference 2015\n\n## 12th Annual Edition\n\n## Blockchain Africa Conference 2026\n\n## BLOCKCHAIN AFRICA CONFERENCE OVER THE YEARS\n\n## 11,270+\n\n## 410+\n\n## 165+\n\n## ABOUT BLOCKCHAIN AFRICA CONFERENCE"
-    },
-    {
       "id": "premier-blockfest-africa-2026",
       "file": "curated-events.json",
       "status": "source-backed",
