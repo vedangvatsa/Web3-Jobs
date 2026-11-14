@@ -172723,7 +172723,7 @@
         "id": "fb88d655f7d0c67b685f",
         "day": "2026-11-14",
         "articleSlug": "binancefull",
-        "note": "Round 5: re-read Bitcoin Magazine full text (completed coverage Nov. 12, more than $6.34B company funds via SAFU partial draw + futures insurance + treasury, SAFU replenish to about $1B, 198-token PoR snapshot 00:00 UTC Nov. 12 vs 10 tokens Oct. 31, ZK proof 40-50 hours, phased withdrawals, coverage means replacement not recovery). Second independent source verified: Cointelegraph Nov. 13 DOJ seizure story states Binance covered affected assets with its own funds and published a new PoR snapshot showing one-to-one backing, per its Thursday X post. binancecover.md is the Oct. 31 set-aside - not a duplicate. Draft not started; next: write binancefull draft citing Bitcoin Magazine + Cointelegraph, get image.",
+        "note": "Round 6 checkpoint: sources read earlier today (Bitcoin Magazine full text + Cointelegraph DOJ seizure corroboration) not yet re-fetched this round; draft not started. Resume: recheck both sources, write binancefull, get image.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
@@ -172732,13 +172732,9 @@
           {
             "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
             "outcome": "read"
-          },
-          {
-            "url": "https://thedefiant.io/news/hacks/binance-says-hack-assets-covered-reserve-proof-pending",
-            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-14T01:30:07.166Z",
+        "updatedAt": "2026-11-14T01:37:46.268Z",
         "approved": false,
         "mustReview": true
       }
