@@ -168824,18 +168824,22 @@
         "id": "f91891fc0a923a01b21d",
         "day": "2026-11-14",
         "articleSlug": "novigrule",
-        "note": "Round 2: prior quality-gate failure was CourtListener 403 on the opinion link; draft not in checkout and needs a full rewrite with a source link that returns HTTP 200 (e.g. storage.courtlistener.com PDF or cftc/other primary), rechecked against Unchained.",
+        "note": "Round 4: re-read Unchained full text (McMahon preliminary-injunction denial, not-swaps holding, inherently contradictory Oct CFTC rules, no deference, Kalshi order collusive-effort language, geofencing/licensing path). Scratch also holds a local opinion PDF downloaded from storage.courtlistener.com (novig-opinion.pdf) and BTC Times coverage (novig-btc.html, headline on collusive-effort quote); Justia and SBC pages are Cloudflare-challenged. Draft not in checkout; next: confirm the exact storage.courtlistener.com PDF URL returns 200, read the opinion text, then write 650-900 word draft citing Unchained + BTC Times + the opinion PDF.",
         "sourceChecks": [
           {
-            "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york",
+            "url": "https://unchainedcrypto.com/judge-calls-cftcs-swap-rules-inherently-contradictory-as-novig-loses-bid-to-block-new-york/",
             "outcome": "read"
           },
           {
             "url": "https://www.courtlistener.com/docket/73720612/73/ludlow-exchange-llc-v-james/",
             "outcome": "blocked"
+          },
+          {
+            "url": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-14T00:46:40.963Z",
+        "updatedAt": "2026-11-14T01:16:22.393Z",
         "approved": false,
         "mustReview": true
       },
