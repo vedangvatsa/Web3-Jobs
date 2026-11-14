@@ -172265,9 +172265,9 @@
         "BeInCrypto"
       ],
       "id": "eeb0a1c4112118b24f1a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T02:29:27.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "articleSlug": "secnoms",
@@ -172289,7 +172289,25 @@
         "updatedAt": "2026-11-14T00:28:16.033Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the White House Nov 12 nominations list, the Cointelegraph Nov 13 report and Unchained's Nov 13 writeup; four nominees, terms, committee paths, staffing math and the Nov 20 clearance date all match across sources. Draft, local hero image and audits (quality, formatting, images, duplicates, link 200s) pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T00:35:12.640Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "1aa5e0951ef94ee88f4e": {
       "source": "CoinDesk",
@@ -335322,6 +335340,27 @@
             "Find independent reporting confirming the event in: Ethereum and Layer 1s Explained",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "eeb0a1c4112118b24f1a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the White House Nov 12 nominations list, the Cointelegraph Nov 13 report and Unchained's Nov 13 writeup; four nominees, terms, committee paths, staffing math and the Nov 20 clearance date all match across sources. Draft, local hero image and audits (quality, formatting, images, duplicates, link 200s) pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T00:35:12.640Z",
+          "articleSlug": "secnoms"
         }
       },
       "baselineSlugs": [
