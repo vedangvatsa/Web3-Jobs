@@ -173264,11 +173264,30 @@
         "The Defiant"
       ],
       "id": "7e234094c6deae67f56a",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T06:03:41.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "source-blocked",
+      "note": "CoinDesk primary URL returned HTTP 429 on GET today. The Defiant page returned HTTP 200 but only serves its headline deck (60 million USDT payment pushed into 2027, credit for protective derivatives, collateral still allows earlier liquidation) because the article body is JS-gated, which is not enough verified detail to publish. No third outlet is on the candidate.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:31:06.914Z",
+      "retrySearches": [
+        "Find readable independent reporting on Nakamoto owing Kraken 65 million and the delayed 60 million USDT payment terms",
+        "Retry the CoinDesk article after its 429 within the verification window"
+      ],
+      "lastReviewedDay": "2026-11-14",
+      "nextReviewDate": "2026-11-15"
     },
     "740d919ee3b210c975b4": {
       "source": "CoinDesk",
@@ -335966,6 +335985,26 @@
           "reviewedAt": "2026-11-14T01:30:50.808Z",
           "retrySearches": [
             "Find independent reporting or on-chain analysis corroborating the Ethereum Foundation wallet sale of 2,000 ETH on Nov. 10-11 2026 and its USDS conversion"
+          ]
+        },
+        "7e234094c6deae67f56a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CoinDesk primary URL returned HTTP 429 on GET today. The Defiant page returned HTTP 200 but only serves its headline deck (60 million USDT payment pushed into 2027, credit for protective derivatives, collateral still allows earlier liquidation) because the article body is JS-gated, which is not enough verified detail to publish. No third outlet is on the candidate.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:31:06.914Z",
+          "retrySearches": [
+            "Find readable independent reporting on Nakamoto owing Kraken 65 million and the delayed 60 million USDT payment terms",
+            "Retry the CoinDesk article after its 429 within the verification window"
           ]
         }
       },
