@@ -169875,11 +169875,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "ee5d41239536dd76f812",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T01:24:59.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing article: United Airlines amending its Contract of Carriage to bar AI agents from ticket transactions. This is an airline/AI policy story with no Web3, crypto or blockchain element, so it falls outside the site's news scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/united-airlines-restricts-ai-agents-access/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:39:40.172Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "34c1cda89d176f655d49": {
       "source": "Crypto Briefing",
@@ -336142,6 +336152,18 @@
           ],
           "reviewedAt": "2026-11-14T01:37:37.380Z",
           "articleSlug": "hsmvault"
+        },
+        "ee5d41239536dd76f812": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing article: United Airlines amending its Contract of Carriage to bar AI agents from ticket transactions. This is an airline/AI policy story with no Web3, crypto or blockchain element, so it falls outside the site's news scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/united-airlines-restricts-ai-agents-access/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:39:40.172Z"
         }
       },
       "baselineSlugs": [
