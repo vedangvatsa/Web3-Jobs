@@ -176514,11 +176514,21 @@
         "The Defiant"
       ],
       "id": "1e011aa37afac7403aed",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T16:01:27.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "price-chatter",
+      "note": "Read The Defiant's Nov. 13 markets column on Bitcoin's sixth straight weekly loss and 22% 2026 decline; CoinDesk headline is the same weekly-close commentary with the Anthropic IPO as market backdrop. Price performance analysis, no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/bitcoin-heads-for-sixth-weekly-loss-down-22-in-2026",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:33:46.545Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "f330779ede93ad3b3149": {
       "source": "CryptoSlate",
@@ -336044,6 +336054,18 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:33:20.420Z"
+        },
+        "1e011aa37afac7403aed": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read The Defiant's Nov. 13 markets column on Bitcoin's sixth straight weekly loss and 22% 2026 decline; CoinDesk headline is the same weekly-close commentary with the Anthropic IPO as market backdrop. Price performance analysis, no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/bitcoin-heads-for-sixth-weekly-loss-down-22-in-2026",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:33:46.545Z"
         }
       },
       "baselineSlugs": [
