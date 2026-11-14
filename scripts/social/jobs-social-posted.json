@@ -136122,7 +136122,8 @@
         "description": "Join Augustus as Engineering Fellowship. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "d957de70-3ea5-4a1e-9616-64c5261a9da5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2cajfhclo2i"
     }
   ]
 }
