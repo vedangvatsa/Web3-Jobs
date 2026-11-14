@@ -175502,11 +175502,29 @@
         "Crypto Briefing"
       ],
       "id": "507340dbfc30f9b48c5f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T18:36:02.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "source-blocked",
+      "note": "Read Decrypt's Nov. 13 report that Fed Chair Kevin Warsh will convene a Nov. 16 public forum in San Francisco on whether AI lowers or raises inflation. The candidate's second URL is a Crypto Briefing story about Vice Chair Jefferson's separate AI-productivity speech and does not mention the Warsh forum, so the forum has no independent corroboration; the Decrypt piece also frames the event mainly through Bitcoin price effects.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/fed-jefferson-ai-productivity-monetary-policy/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:10:58.410Z",
+      "retrySearches": [
+        "Find independent reporting confirming Fed Chair Warsh's Nov. 16 2026 San Francisco forum on AI inflation productivity and employment"
+      ],
+      "lastReviewedDay": "2026-11-14",
+      "nextReviewDate": "2026-11-15"
     },
     "c2eebe9465aba85bbfac": {
       "source": "Crypto Briefing",
@@ -175793,11 +175811,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "91bbadfa4fff20e98f61",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T21:25:04.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing story in full. It reports Soros Fund Management's Q3 2026 13F filing raising Micron to 35,618 shares (+58.9%) and Intel to 2.83 million shares (27-fold, 40M, 4.0% of portfolio), published Nov. 13. The story is about semiconductor equity positions with no Web3, crypto or digital-asset development; both candidate URLs are the same outlet (Crypto Briefing), so no independent corroboration exists either.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/soros-fund-raises-micron-intel-stakes/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:10:10.383Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "aff54ac90f034a13b3e8": {
       "source": "The Defiant",
@@ -335744,6 +335772,37 @@
           ],
           "reviewedAt": "2026-11-14T01:10:07.251Z",
           "duplicateOf": "dojseizure"
+        },
+        "91bbadfa4fff20e98f61": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing story in full. It reports Soros Fund Management's Q3 2026 13F filing raising Micron to 35,618 shares (+58.9%) and Intel to 2.83 million shares (27-fold, 40M, 4.0% of portfolio), published Nov. 13. The story is about semiconductor equity positions with no Web3, crypto or digital-asset development; both candidate URLs are the same outlet (Crypto Briefing), so no independent corroboration exists either.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/soros-fund-raises-micron-intel-stakes/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:10:10.383Z"
+        },
+        "507340dbfc30f9b48c5f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Decrypt's Nov. 13 report that Fed Chair Kevin Warsh will convene a Nov. 16 public forum in San Francisco on whether AI lowers or raises inflation. The candidate's second URL is a Crypto Briefing story about Vice Chair Jefferson's separate AI-productivity speech and does not mention the Warsh forum, so the forum has no independent corroboration; the Decrypt piece also frames the event mainly through Bitcoin price effects.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/fed-jefferson-ai-productivity-monetary-policy/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:10:58.410Z",
+          "retrySearches": [
+            "Find independent reporting confirming Fed Chair Warsh's Nov. 16 2026 San Francisco forum on AI inflation productivity and employment"
+          ]
         }
       },
       "baselineSlugs": [
