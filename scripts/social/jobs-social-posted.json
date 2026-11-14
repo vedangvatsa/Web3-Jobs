@@ -136519,6 +136519,41 @@
       "attemptId": "f9c573a2-9007-4355-851e-354af90f132b",
       "verification": "verified",
       "postId": "0xee13e624df48839bce0a1c04156913ae5c6f59bb"
+    },
+    {
+      "slug": "eng624",
+      "company": "Augustus",
+      "title": "Engineering Fellowship",
+      "platform": "farcaster",
+      "postedAt": "2026-11-14T19:33:12.085Z",
+      "expectedText": "Augustus is hiring Engineering Fellowship\n\nhttps://hashtagweb3.com/eng624/fc?og=7",
+      "snapshot": {
+        "id": "cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "title": "Engineering Fellowship",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "date": "2026-10-19T20:08:43.343+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng624"
+      },
+      "payload": {
+        "text": "Augustus is hiring Engineering Fellowship\n\nhttps://hashtagweb3.com/eng624/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng624/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "2e1e9964-eeae-44e0-ab3f-9cc5c35440ea",
+      "verification": "creating"
     }
   ]
 }
