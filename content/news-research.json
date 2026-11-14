@@ -176436,11 +176436,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "64cd54b215ad9c369b21",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T16:39:11.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "price-chatter",
+      "note": "Read Cointelegraph's Nov. 13 markets piece: BTC/USD commentary around 7,500-8,700, PPI reaction, FedWatch odds and analyst support-level warnings. Price and macro reaction only, no concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:33:20.420Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "b6fab03e33736b8cd32f": {
       "source": "BeInCrypto",
@@ -336022,6 +336032,18 @@
             "Find readable independent reporting on Nakamoto owing Kraken 65 million and the delayed 60 million USDT payment terms",
             "Retry the CoinDesk article after its 429 within the verification window"
           ]
+        },
+        "64cd54b215ad9c369b21": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Cointelegraph's Nov. 13 markets piece: BTC/USD commentary around 7,500-8,700, PPI reaction, FedWatch odds and analyst support-level warnings. Price and macro reaction only, no concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:33:20.420Z"
         }
       },
       "baselineSlugs": [
