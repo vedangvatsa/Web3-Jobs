@@ -873,7 +873,8 @@ async function verifySocialServing(
     const isJobOg =
       imageUrl.origin === SITE_URL &&
       (/^\/og\/jobs\/[^/]+\.png$/.test(imageUrl.pathname) ||
-        imageUrl.pathname === '/og-image-jobs.png');
+        imageUrl.pathname === '/og-image-jobs.png' ||
+        imageUrl.pathname === '/og-image.png');
     if (!isJobOg) {
       console.error(`Preview readiness: og:image is not a job OG asset for ${company}/${title} — aborting publish`);
       return null;

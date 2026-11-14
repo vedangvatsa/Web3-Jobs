@@ -21,7 +21,17 @@ function imageKey(source: string): string {
   return ['hashtagweb3.com', 'www.hashtagweb3.com'].includes(url.hostname) ? url.pathname : url.toString();
 }
 export function writeSocialImageInfo(root = process.cwd()) {
-  fs.writeFileSync(path.join(root, 'content/social-image-info.json'), `${JSON.stringify(preparedImages.get(root) || {})}\n`);
+  const filePath = path.join(root, 'content/social-image-info.json');
+  let existing: Record<string, SocialImageInfo> = {};
+  if (fs.existsSync(filePath)) {
+    try {
+      existing = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    } catch {
+      existing = {};
+    }
+  }
+  const merged = { ...existing, ...(preparedImages.get(root) || {}) };
+  fs.writeFileSync(filePath, `${JSON.stringify(merged)}\n`);
 }
 export async function preparePreviewImage(meta: OgPreviewMeta, root = process.cwd()): Promise<OgPreviewMeta> {
   let url = new URL(meta.ogImageUrl, 'https://hashtagweb3.com');
