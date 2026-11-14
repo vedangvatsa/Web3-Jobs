@@ -169778,7 +169778,7 @@
       "expiresAt": "2026-11-14T10:45:49.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "reason": "price-chatter",
-      "note": "Markets roundup framed entirely around Bitcoin price levels (4,000, 8k, below 9,000) plus AI-earnings and IPO commentary; no concrete Web3 event to verify. CoinDesk returned HTTP 429 on three attempts and The Block returned HTTP 403, so no source text was read and no read is claimed.",
+      "note": "Markets roundup framed entirely around Bitcoin price levels ($74,000, $68k, below $69,000) plus AI-earnings and IPO commentary; no concrete Web3 event to verify. CoinDesk returned HTTP 429 on three attempts and The Block returned HTTP 403, so no source text was read and no read is claimed.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
@@ -169789,7 +169789,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-14T00:49:50.912Z",
+      "reviewedAt": "2026-11-14T00:50:22.921Z",
       "lastReviewedDay": "2026-11-14"
     },
     "ee5d41239536dd76f812": {
@@ -335537,7 +335537,7 @@
         "0a0ef218b5aba4552fd5": {
           "status": "rejected",
           "reason": "price-chatter",
-          "note": "Markets roundup framed entirely around Bitcoin price levels (4,000, 8k, below 9,000) plus AI-earnings and IPO commentary; no concrete Web3 event to verify. CoinDesk returned HTTP 429 on three attempts and The Block returned HTTP 403, so no source text was read and no read is claimed.",
+          "note": "Markets roundup framed entirely around Bitcoin price levels ($74,000, $68k, below $69,000) plus AI-earnings and IPO commentary; no concrete Web3 event to verify. CoinDesk returned HTTP 429 on three attempts and The Block returned HTTP 403, so no source text was read and no read is claimed.",
           "sourceChecks": [
             {
               "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
@@ -335548,7 +335548,7 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-14T00:49:50.912Z"
+          "reviewedAt": "2026-11-14T00:50:22.921Z"
         }
       },
       "baselineSlugs": [
