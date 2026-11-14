@@ -137459,6 +137459,41 @@
       "attemptId": "72c3f26c-f40d-4b38-8fb8-9fd9873a0395",
       "verification": "verified",
       "postId": "0x668484eda3460350cbb2c94ba269b7b2dad30d13"
+    },
+    {
+      "slug": "rec62",
+      "company": "BTSE",
+      "title": "HR Operations Associate (Payroll)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-14T19:36:56.030Z",
+      "expectedText": "BTSE is hiring HR Operations Associate (Payroll)\n\nhttps://hashtagweb3.com/rec62/fc?og=7",
+      "snapshot": {
+        "id": "2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "title": "HR Operations Associate (Payroll)",
+        "company": "BTSE",
+        "link": "https://jobs.lever.co/BTSE/2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "date": "2026-11-04T03:37:49.258Z",
+        "source": "Lever: BTSE [BTSE]",
+        "location": "Taipei",
+        "workplaceType": "onsite",
+        "department": "BTSE",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "rec62"
+      },
+      "payload": {
+        "text": "BTSE is hiring HR Operations Associate (Payroll)\n\nhttps://hashtagweb3.com/rec62/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec62/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "acc68d24-8829-4dab-9fdc-501d552f8ea2",
+      "verification": "creating"
     }
   ]
 }
