@@ -238,5 +238,120 @@
     "slotKey": "2026-11-13:evening",
     "messageId": 156212,
     "sentAt": "2026-11-13T19:32:40.534Z"
+  },
+  "c5a74ca8-dada-4235-85e1-53d5656827b8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T11:32:39.149Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8317306",
+          "title": "Senior Staff Engineer, Big Data Infrastructure",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8317306",
+          "date": "2026-11-04T20:19:27-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francsico",
+          "department": "8125 Core Compute",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra67"
+        },
+        "key": "8317306",
+        "slug": "infra67",
+        "url": "https://hashtagweb3.com/infra67?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Senior Staff Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "d90d2ac3-d58d-4b63-b229-d2b09a4d8385",
+          "title": "Technical Recruiter - Engineering",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/d90d2ac3-d58d-4b63-b229-d2b09a4d8385",
+          "date": "2026-10-21T23:37:42.308+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec48"
+        },
+        "key": "d90d2ac3-d58d-4b63-b229-d2b09a4d8385",
+        "slug": "rec48",
+        "url": "https://hashtagweb3.com/rec48?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Technical Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "8047041003",
+          "title": "Principal/Senior VIP Product Manager, Onshore Markets",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8047041003",
+          "date": "2026-10-28T06:28:55-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm159"
+        },
+        "key": "8047041003",
+        "slug": "pm159",
+        "url": "https://hashtagweb3.com/pm159?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Principal/Senior VIP Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5457599008",
+          "title": "Mid Market Account Executive",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5457599008?gh_jid=5457599008",
+          "date": "2026-10-19T16:44:27-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "London, United Kingdom",
+          "department": "20229 S&M - Sales - Commerce Enterprise and Mid",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls306"
+        },
+        "key": "5457599008",
+        "slug": "sls306",
+        "url": "https://hashtagweb3.com/sls306?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Mid Market Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "4953468101",
+          "title": "RWA Product Manager",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4953468101",
+          "date": "2026-10-16T09:57:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE",
+          "department": "SBU & Assets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm37"
+        },
+        "key": "4953468101",
+        "slug": "pm37",
+        "url": "https://hashtagweb3.com/pm37?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "RWA Product Manager"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/infra67?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Staff Engineer, Big Data Infrastructure</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec48?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter - Engineering</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm159?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal/Senior VIP Product Manager, Onshore Markets</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls306?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mid Market Account Executive</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm37?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">RWA Product Manager</a>",
+    "slotKey": "2026-11-14:afternoon"
   }
 }
