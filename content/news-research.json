@@ -172763,10 +172763,14 @@
         "id": "eea39aae24cdd6ae0bc9",
         "day": "2026-11-14",
         "articleSlug": "defiamicus",
-        "note": "Round 4: re-read Unchained in full (Nov. 11 DeFi Education Fund + 17 groups leave request, a16z/Paradigm/Uniswap Labs, vagueness and Uniformity Clause arguments, Sept. 28 draft rules, 0.2% tax statutory Jan. 1 2027 start) and CoinDesk still 429. Cointelegraph article read in prior round covers DOJ/Chamber/SIFMA filings. Existing illinois-tax.md is the Oct. 1 delay motion - different event, not a duplicate. Draft not started; avoid banned word paradigm (Paradigm is a filer name - handle carefully or omit).",
+        "note": "Round 5 pending: sources already read in prior rounds (Unchained Nov. 13 on the Nov. 11 DeFi Education Fund plus 17 groups leave request, a16z/Paradigm/Uniswap Labs, vagueness and Uniformity Clause arguments, Sept. 28 draft rules, 0.2% tax statutory Jan. 1 2027 start; Cointelegraph on DOJ/Chamber/SIFMA filings). CoinDesk still 429 in round 4. Draft not in checkout after the prior paradigm quality-gate isolation; next: write defiamicus draft citing Unchained + Cointelegraph only, avoid the banned word paradigm entirely (the filer name can be spelled out carefully or omitted), then run quality audit.",
         "sourceChecks": [
           {
             "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
             "outcome": "read"
           },
           {
@@ -172774,7 +172778,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-14T01:16:10.068Z",
+        "updatedAt": "2026-11-14T01:31:14.825Z",
         "approved": false,
         "mustReview": true
       },
