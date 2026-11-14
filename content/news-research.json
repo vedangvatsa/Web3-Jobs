@@ -176327,7 +176327,27 @@
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 0,
       "expiresAt": "2026-11-16T21:49:27.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "articleSlug": "hsmvault",
+      "draftProgress": {
+        "id": "6a25249f63384300a17d",
+        "day": "2026-11-14",
+        "articleSlug": "hsmvault",
+        "note": "Round 6: re-read Cointelegraph Nov. 13 (launch with Thales, HSM+Secure-MPC, Back quotes on offline security, Binance hack example) and Crypto Briefing Nov. 13 full text (features, Q3 beta, Digital Assets Forum, Liquid TVL). Slug hsmvault verified free. Draft and image in progress.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/blockstream-thales-bitcoin-custody-offline-security/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-14T01:34:47.024Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "b36567f27527c5fb1bb5": {
       "source": "Crypto Briefing",
