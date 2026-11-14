@@ -6266,7 +6266,7 @@
     "link": "https://apply.workable.com/j/8BC3363A24",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Poland",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -6305,7 +6305,7 @@
     "link": "https://apply.workable.com/j/BEBE6194ED",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -6414,7 +6414,7 @@
     "link": "https://apply.workable.com/j/2C5DC33098",
     "date": "2026-11-08",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Poland",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -9174,28 +9174,6 @@
     "slug": "eng413"
   },
   {
-    "id": "334e4c8e49f601",
-    "title": "Regulatory Compliance Specialist",
-    "company": "Nexo",
-    "link": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
-    "date": "2026-11-05",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Nexo [nexo]",
-    "location": "Sofia, BG",
-    "isRemote": false,
-    "department": "Legal & Regulatory Compliance",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
-      "checkedAt": "2026-11-06T00:30:54.152Z",
-      "bodySha256": "f552f38dee6894e2963503fae535b75023878a0c460bcf76e0ac77ea0ea0ea67",
-      "provider": "breezy",
-      "datePosted": "2026-11-05"
-    },
-    "slug": "cmp92"
-  },
-  {
     "id": "72b1be57698101",
     "title": "Senior Regulatory Compliance Specialist",
     "company": "Nexo",
@@ -9216,6 +9194,28 @@
       "datePosted": "2026-11-05"
     },
     "slug": "cmp93"
+  },
+  {
+    "id": "334e4c8e49f601",
+    "title": "Regulatory Compliance Specialist",
+    "company": "Nexo",
+    "link": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
+    "date": "2026-11-05",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Nexo [nexo]",
+    "location": "Sofia, BG",
+    "isRemote": false,
+    "department": "Legal & Regulatory Compliance",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
+      "checkedAt": "2026-11-06T00:30:54.152Z",
+      "bodySha256": "f552f38dee6894e2963503fae535b75023878a0c460bcf76e0ac77ea0ea0ea67",
+      "provider": "breezy",
+      "datePosted": "2026-11-05"
+    },
+    "slug": "cmp92"
   },
   {
     "id": "a8c2bfcd-640f-4af1-90b4-8540a01f615a",
@@ -10664,7 +10664,7 @@
     "link": "https://apply.workable.com/j/57E66C06BE",
     "date": "2026-11-04",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Poland",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -11679,22 +11679,6 @@
     "slug": "mgr222"
   },
   {
-    "id": "D841F3D1AD",
-    "title": "BDM (Affiliates & Partnerships) Europe",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/D841F3D1AD",
-    "date": "2026-11-03T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Remote (Serbia / Spain / Italy / Portugal / Cyprus / France)",
-    "isRemote": true,
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "dateVerified": true,
-    "slug": "bape"
-  },
-  {
     "id": "B6C4743A0C",
     "title": "BDM (Affiliates & Partnerships) Asia",
     "company": "GoMining",
@@ -11709,6 +11693,22 @@
     "active": true,
     "dateVerified": true,
     "slug": "bapa"
+  },
+  {
+    "id": "D841F3D1AD",
+    "title": "BDM (Affiliates & Partnerships) Europe",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/D841F3D1AD",
+    "date": "2026-11-03T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Remote (Serbia / Spain / Italy / Portugal / Cyprus / France)",
+    "isRemote": true,
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "dateVerified": true,
+    "slug": "bape"
   },
   {
     "id": "BED1743981",
@@ -11765,7 +11765,7 @@
     "link": "https://apply.workable.com/j/82D0418695",
     "date": "2026-11-03",
     "source": "Workable: GoMining [gomining]",
-    "location": "Serbia",
+    "location": "Poland",
     "department": "Support",
     "active": true,
     "dateVerified": true,
@@ -12737,19 +12737,6 @@
     "slug": "sls214"
   },
   {
-    "id": "65B230465C",
-    "title": "Collection Manager / Senior Manager",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/65B230465C",
-    "date": "2026-11-02",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": null,
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr126"
-  },
-  {
     "id": "5E5FADBEA0",
     "title": "Backend Engineer - Money",
     "company": "Ajaib Crypto",
@@ -12761,6 +12748,19 @@
     "active": true,
     "dateVerified": true,
     "slug": "be99"
+  },
+  {
+    "id": "65B230465C",
+    "title": "Collection Manager / Senior Manager",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/65B230465C",
+    "date": "2026-11-02",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Jakarta, Indonesia",
+    "department": null,
+    "active": true,
+    "dateVerified": true,
+    "slug": "mgr126"
   },
   {
     "id": "57DA69985E",
@@ -12782,7 +12782,7 @@
     "link": "https://apply.workable.com/j/23E677EEE1",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -12808,7 +12808,7 @@
     "link": "https://apply.workable.com/j/B4AD47F599",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -18875,7 +18875,7 @@
     "link": "https://apply.workable.com/j/3DAF98D87C",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -25661,91 +25661,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "ops16"
-  },
-  {
-    "id": "feb54ac3-0bff-44bf-a6a2-b56f6db1fc83",
-    "title": "Head of Organic Growth, Kraken Pro",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/feb54ac3-0bff-44bf-a6a2-b56f6db1fc83",
-    "date": "2026-10-15T12:56:47.414+00:00",
-    "source": "Ashby: Kraken [kraken.com]",
-    "location": "Remote (United States)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Marketing",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mkt71"
-  },
-  {
-    "id": "bc3f3540-2764-497a-86ba-ed8078ad9b2f",
-    "title": "Head of Organic Growth, Kraken Pro",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/bc3f3540-2764-497a-86ba-ed8078ad9b2f",
-    "date": "2026-10-15T12:55:44.893+00:00",
-    "source": "Ashby: Kraken [kraken.com]",
-    "location": "Remote (United Kingdom)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Marketing",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mkt70"
-  },
-  {
-    "id": "2785484",
-    "title": "Head of Financial Infrastructure Partnerships & Expansion (Digital assets expertise)",
-    "company": "Tether",
-    "link": "https://tether.recruitee.com/o/head-of-financial-infrastructure-partnerships-expansion-digital-assets-expertise",
-    "date": "2026-10-15T12:47:57Z",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "dateVerified": true,
-    "slug": "infra46"
-  },
-  {
-    "id": "e4e52261-16bf-4285-aced-636fa7f6c28d",
-    "title": "Senior Application Security Engineer",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/sardine/e4e52261-16bf-4285-aced-636fa7f6c28d",
-    "date": "2026-10-15T12:13:54.769+00:00",
-    "source": "Ashby: Sardine [Sardine]",
-    "location": "Remote (United States)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Security and IT",
-    "active": true,
-    "dateVerified": true,
-    "slug": "sec115"
-  },
-  {
-    "id": "2785327",
-    "title": "Developer Productivity Engineer (100% Remote)",
-    "company": "Tether",
-    "link": "https://tether.recruitee.com/o/developer-productivity-engineer-100-remote-7",
-    "date": "2026-10-15T12:07:13Z",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "pm192"
-  },
-  {
-    "id": "a831f2fe-fd7f-4379-b7f9-bde67710b661",
-    "title": "Assistant General Counsel – Product and Regulatory Legal (EU)",
-    "company": "Kraken",
-    "link": "https://jobs.ashbyhq.com/kraken.com/a831f2fe-fd7f-4379-b7f9-bde67710b661",
-    "date": "2026-10-15T11:59:43.962+00:00",
-    "source": "Ashby: Kraken [kraken.com]",
-    "location": "Remote (United Kingdom)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Legal",
-    "active": true,
-    "dateVerified": true,
-    "slug": "pm31"
   }
 ]
