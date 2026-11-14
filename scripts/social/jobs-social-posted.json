@@ -137688,6 +137688,48 @@
       "verification": "verified",
       "postId": "6af8b8fec5b364e06211ac83",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7527455326921547776"
+    },
+    {
+      "slug": "rec62",
+      "company": "BTSE",
+      "title": "HR Operations Associate (Payroll)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-14T19:36:56.030Z",
+      "expectedText": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/li?og=7",
+      "snapshot": {
+        "id": "2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "title": "HR Operations Associate (Payroll)",
+        "company": "BTSE",
+        "link": "https://jobs.lever.co/BTSE/2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "date": "2026-11-04T03:37:49.258Z",
+        "source": "Lever: BTSE [BTSE]",
+        "location": "Taipei",
+        "workplaceType": "onsite",
+        "department": "BTSE",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "rec62"
+      },
+      "payload": {
+        "text": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec62/li?og=7",
+          "title": "HR Operations Associate (Payroll) at BTSE",
+          "description": "Join BTSE as HR Operations Associate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og-image.png"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "677754f8-bb4e-4233-a5bb-e8d838428d88",
+      "verification": "creating"
     }
   ]
 }
