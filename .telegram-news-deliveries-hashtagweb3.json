@@ -66,7 +66,7 @@
     "sentAt": "2026-11-13T19:32:56.449Z"
   },
   "3f0ba900-8cea-4e25-b0fb-6d4c710052a3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-14T11:33:35.949Z",
     "stories": [
       {
@@ -94,6 +94,8 @@
         "originalTitle": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA"
       }
     ],
-    "slotKey": "2026-11-14:afternoon"
+    "slotKey": "2026-11-14:afternoon",
+    "messageId": 156223,
+    "sentAt": "2026-11-14T11:33:39.017Z"
   }
 }
