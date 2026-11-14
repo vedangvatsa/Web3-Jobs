@@ -174727,9 +174727,9 @@
       "articleSlug": "kalshitrump",
       "draftProgress": {
         "id": "549f3d77e33c6ffd5976",
-        "day": "2026-11-13",
+        "day": "2026-11-14",
         "articleSlug": "kalshitrump",
-        "note": "Read Cointelegraph and Bankless reports on Kalshi ending Trump Jr. advisory role; CoinDesk returned HTTP 429 on WebFetch and curl. Draft not started.",
+        "note": "Round 1 2026-11-14: rechecking original sources for the preserved draft; prior draft under 600 words and not present in checkout, rewriting to 600+.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment",
@@ -174740,7 +174740,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-13T12:28:12.449Z",
+        "updatedAt": "2026-11-14T00:35:28.342Z",
         "approved": false,
         "mustReview": true
       },
