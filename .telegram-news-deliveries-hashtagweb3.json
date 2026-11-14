@@ -64,5 +64,36 @@
     "slotKey": "2026-11-13:evening",
     "messageId": 156213,
     "sentAt": "2026-11-13T19:32:56.449Z"
+  },
+  "3f0ba900-8cea-4e25-b0fb-6d4c710052a3": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T11:33:35.949Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Bitmine reports $6.3 billion net loss for fiscal 2026",
+        "summary": "The company's Form 10-K cited ongoing accounting weaknesses and ether holdings valued $5.4 billion below cost.",
+        "link": "https://hashtagweb3.com/bitmineloss?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitmine posts $6.3 billion net loss for fiscal 2026 as ether fell"
+      },
+      {
+        "index": -1,
+        "headline": "Kalshi ends Donald Trump Jr. advisory role over competitor investment",
+        "summary": "The contract ended after his firm 1789 Capital increased its investment in rival prediction market Polymarket.",
+        "link": "https://hashtagweb3.com/kalshitrump?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kalshi ends Donald Trump Jr.'s advisory role over Polymarket investment"
+      },
+      {
+        "index": -1,
+        "headline": "Kraken Parent Payward Q3 Adjusted EBITDA Drops 66%",
+        "summary": "Lower trading volumes drove the decline, though non-trading income and global spot market share increased.",
+        "link": "https://hashtagweb3.com/paywardq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA"
+      }
+    ],
+    "slotKey": "2026-11-14:afternoon"
   }
 }
