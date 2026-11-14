@@ -169911,11 +169911,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "34c1cda89d176f655d49",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T01:10:51.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing article: Naver Cloud courting AI data center customers for its GPU rental 'AI factory' backed by Brookfield and Nvidia. Pure AI-infrastructure story with no crypto or Web3 element, outside the site's news scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/naver-ai-data-center-customers-north-america/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:39:43.089Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "1241f0e52495aad287d6": {
       "source": "Crypto Briefing",
@@ -177966,8 +177976,12 @@
       "expiresAt": "2026-11-16T14:02:00.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "reason": "verified-event",
-      "note": "Read Cointelegraph, CoinMarketCap and Invezz reports of Payward's Q3 financial highlights. $60M adjusted EBITDA down 66% YoY, $487M Total Platform Margin, $353B volume, 6.5% spot share, 52% non-trading margin, acquisition list, prediction-markets and AI-agent plans verified across sources; CoinDesk and The Block URLs were checkpoint/Cloudflare blocked. Draft and local hero image completed.",
+      "note": "Validation repair: the draft cited Invezz, which returns HTTP 403 to the pipeline source checker, so every Invezz claim was rewritten against Payward's own Nov. 13 Q3 financial highlights (read in full) plus Cointelegraph and CoinMarketCap. Verified there: 0M adjusted EBITDA down 66% from 78.6M, 87M Total Platform Margin, 53B volume, 6.5% September spot share, 52% asset-and-access margin, 66M contracts and 7.1M funded accounts, xStocks above B, Saldo Bank agreement, VARA and AFSA approvals, proof of reserves by The Network Firm, and the IPO pause with a Q2 2027 earliest window. All outbound links now return HTTP 200.",
       "sourceChecks": [
+        {
+          "url": "https://www.payward.com/press-release/payward-q3-2026-financial-highlights",
+          "outcome": "read"
+        },
         {
           "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings",
           "outcome": "read"
@@ -177978,7 +177992,7 @@
         },
         {
           "url": "https://invezz.com/news/2026/11/13/kraken-payward-q3-2026-results/",
-          "outcome": "read"
+          "outcome": "blocked"
         },
         {
           "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
@@ -177989,7 +178003,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-14T01:05:08.636Z",
+      "reviewedAt": "2026-11-14T01:50:39.496Z",
       "articleSlug": "paywardq3",
       "lastReviewedDay": "2026-11-14"
     },
@@ -335906,8 +335920,12 @@
         "8a8904d66799289df684": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Read Cointelegraph, CoinMarketCap and Invezz reports of Payward's Q3 financial highlights. $60M adjusted EBITDA down 66% YoY, $487M Total Platform Margin, $353B volume, 6.5% spot share, 52% non-trading margin, acquisition list, prediction-markets and AI-agent plans verified across sources; CoinDesk and The Block URLs were checkpoint/Cloudflare blocked. Draft and local hero image completed.",
+          "note": "Validation repair: the draft cited Invezz, which returns HTTP 403 to the pipeline source checker, so every Invezz claim was rewritten against Payward's own Nov. 13 Q3 financial highlights (read in full) plus Cointelegraph and CoinMarketCap. Verified there: 0M adjusted EBITDA down 66% from 78.6M, 87M Total Platform Margin, 53B volume, 6.5% September spot share, 52% asset-and-access margin, 66M contracts and 7.1M funded accounts, xStocks above B, Saldo Bank agreement, VARA and AFSA approvals, proof of reserves by The Network Firm, and the IPO pause with a Q2 2027 earliest window. All outbound links now return HTTP 200.",
           "sourceChecks": [
+            {
+              "url": "https://www.payward.com/press-release/payward-q3-2026-financial-highlights",
+              "outcome": "read"
+            },
             {
               "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings",
               "outcome": "read"
@@ -335918,7 +335936,7 @@
             },
             {
               "url": "https://invezz.com/news/2026/11/13/kraken-payward-q3-2026-results/",
-              "outcome": "read"
+              "outcome": "blocked"
             },
             {
               "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
@@ -335929,7 +335947,7 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-14T01:05:08.636Z",
+          "reviewedAt": "2026-11-14T01:50:39.496Z",
           "articleSlug": "paywardq3"
         },
         "008423c02d9ec6930919": {
@@ -336164,6 +336182,18 @@
             }
           ],
           "reviewedAt": "2026-11-14T01:39:40.172Z"
+        },
+        "34c1cda89d176f655d49": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing article: Naver Cloud courting AI data center customers for its GPU rental 'AI factory' backed by Brookfield and Nvidia. Pure AI-infrastructure story with no crypto or Web3 element, outside the site's news scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/naver-ai-data-center-customers-north-america/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:39:43.089Z"
         }
       },
       "baselineSlugs": [
@@ -336650,7 +336680,10 @@
         ],
         "total": 128,
         "checkedAt": "2026-11-14T00:24:57.356Z"
-      }
+      },
+      "validationErrors": [
+        "Source link HTTP 403: https://invezz.com/news/2026/11/13/kraken-payward-q3-2026-results/"
+      ]
     }
   }
 }
