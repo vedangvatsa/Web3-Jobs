@@ -136058,7 +136058,8 @@
       "account": "hashtag_web3",
       "attemptId": "5f15c4cd-faba-403c-91e4-be730f1de3b6",
       "verification": "pending",
-      "postId": "6af8b77b918fe79d2e9d9e45"
+      "postId": "6af8b77b918fe79d2e9d9e45",
+      "error": "Buffer X publish failed for 6af8b77b918fe79d2e9d9e45: An unknown error has occurred. Please retry the post again, and get in touch if this persists."
     }
   ]
 }
