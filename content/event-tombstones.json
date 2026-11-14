@@ -9230,30 +9230,607 @@
       "luma-crypto-mzkvpeuerlczwog"
     ]
   },
+  "curated-mining-disrupt-2027-03-22": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "curated-mining-disrupt-2027-03-22"
+    ]
+  },
+  "curated-ubc-hackathon-2026-11-13": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "ubc-hackathon",
+      "curated-ubc-hackathon-2026-11-13"
+    ]
+  },
+  "discovery-evt-3OzyUMXsLNiVr57": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "montreal-vibestation-2026-11-27",
+      "discovery-evt-3ozyumxslnivr57"
+    ]
+  },
+  "discovery-evt-DnwWNYAbNYeW8oC": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "crypto-dinner-amsterdam",
+      "discovery-evt-dnwwnyabnyew8oc"
+    ]
+  },
+  "discovery-evt-E4l4HG2CAI9ljHe": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-merchants-use-bitcoin-your-business-bali-bitcoin-island-2026-11-21",
+      "discovery-evt-e4l4hg2cai9ljhe"
+    ]
+  },
+  "discovery-evt-EYXjEVxXQ9dbkmf": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-aerial-yoga-breakpoint",
+      "discovery-evt-eyxjevxxq9dbkmf"
+    ]
+  },
+  "discovery-evt-F0ZHBEyHynGIlVo": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-women-solana-yoga-offline-breakpoint",
+      "discovery-evt-f0zhbeyhyngilvo"
+    ]
+  },
+  "discovery-evt-IME1HwTy1ywWmub": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-rise-shine-yoga-monkedao-breakpoint",
+      "discovery-evt-ime1hwty1ywwmub"
+    ]
+  },
+  "discovery-evt-JgYTRzXo6yWgqCd": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-15",
+      "discovery-evt-jgytrzxo6ywgqcd"
+    ]
+  },
+  "discovery-evt-SGziONOytDR21GD": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "toronto-vibestation-2026-11-27",
+      "discovery-evt-sgzionoytdr21gd"
+    ]
+  },
+  "discovery-evt-VNxCBFaf8gbSOl1": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "montreal-vibestation-2026-12-04",
+      "discovery-evt-vnxcbfaf8gbsol1"
+    ]
+  },
+  "discovery-evt-WHx7rX6yOb8hK4S": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-indonesia-community-meetup-jakarta-21-november",
+      "discovery-evt-whx7rx6yob8hk4s"
+    ]
+  },
+  "discovery-evt-d2jbH5c6zkZDRCH": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "crypto-dinner-rotterdam",
+      "discovery-evt-d2jbh5c6zkzdrch"
+    ]
+  },
+  "discovery-evt-dG5O5F5HU9O4ikF": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-16",
+      "discovery-evt-dg5o5f5hu9o4ikf"
+    ]
+  },
+  "discovery-evt-dqMVS2PrUBDRnF3": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-beginners-2026-11-13",
+      "discovery-evt-dqmvs2prubdrnf3"
+    ]
+  },
+  "discovery-evt-fqCdStFvtJYB08q": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-indonesia-community-meetup-malang-21-november",
+      "discovery-evt-fqcdstfvtjyb08q"
+    ]
+  },
+  "discovery-evt-gKhtfAiuAFPHESR": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-cup-breakpoint",
+      "discovery-evt-gkhtfaiuafphesr"
+    ]
+  },
+  "discovery-evt-gjNVvhgcknTCwpc": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-hiit-class-breakpoint",
+      "discovery-evt-gjnvvhgckntcwpc"
+    ]
+  },
+  "discovery-evt-nn6OreUXqAcO2wA": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-sound-healing-breathwork-breakpoint",
+      "discovery-evt-nn6oreuxqaco2wa"
+    ]
+  },
+  "discovery-evt-oqwcWOYQmqqNHgi": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "mastering-lightning-ml-season-5-orientation-session",
+      "discovery-evt-oqwcwoyqmqqnhgi"
+    ]
+  },
+  "discovery-evt-pp8byfBBIuDs1mx": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "toronto-vibestation-2026-12-04",
+      "discovery-evt-pp8byfbbiuds1mx"
+    ]
+  },
+  "discovery-evt-vL3kHCN39reaPwE": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-mental-reset-workshop-breakpoint",
+      "discovery-evt-vl3khcn39reapwe"
+    ]
+  },
+  "discovery-evt-vvQI67NJtBlP4qH": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-dynamic-pilates-breakpoint-2026-11-17",
+      "discovery-evt-vvqi67njtblp4qh"
+    ]
+  },
+  "discovery-evt-xodkzqBmzveUbjB": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-indonesia-community-meetup-magelang-22-november",
+      "discovery-evt-xodkzqbmzveubjb"
+    ]
+  },
+  "discovery-evt-yqbouX052XUmpA8": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitness-zone-group-boxing-breakpoint",
+      "discovery-evt-yqboux052xumpa8"
+    ]
+  },
+  "discovery-evt-zgDyaoeNsB7r9bo": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-indonesia-community-meetup-bandung-15-november",
+      "discovery-evt-zgdyaoensb7r9bo"
+    ]
+  },
+  "ibw-cu2jm5bn": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "smokingsummit",
+      "ibw-cu2jm5bn"
+    ]
+  },
+  "ibw-luma-evt-08jX7ADSLH1huIV": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "zerog",
+      "ibw-luma-evt-08jx7adslh1huiv"
+    ]
+  },
+  "ibw-luma-evt-3xF3F3ZaJP4REwg": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "pizzaprotocols",
+      "ibw-luma-evt-3xf3f3zajp4rewg"
+    ]
+  },
+  "ibw-luma-evt-CTqpCOXclC0Tmfb": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "clickoptions",
+      "ibw-luma-evt-ctqpcoxclc0tmfb"
+    ]
+  },
+  "ibw-luma-evt-KCJhfbrKPukDWTG": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "privacyhub",
+      "ibw-luma-evt-kcjhfbrkpukdwtg"
+    ]
+  },
+  "ibw-luma-evt-UMczcjylUMol0HW": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "cryptomondays",
+      "ibw-luma-evt-umczcjylumol0hw"
+    ]
+  },
+  "ibw-luma-evt-VLyTum0FswtPeAH": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "foundervc",
+      "ibw-luma-evt-vlytum0fswtpeah"
+    ]
+  },
+  "ibw-luma-evt-Xs3C0Owpa4JQHSQ": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "cafecompute",
+      "ibw-luma-evt-xs3c0owpa4jqhsq"
+    ]
+  },
+  "ibw-luma-evt-ePIIFhD8Ah3L5au": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "cmosummit",
+      "ibw-luma-evt-epiifhd8ah3l5au"
+    ]
+  },
+  "ibw-luma-evt-fa4YPMi1DWA09q9": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "openhouse",
+      "ibw-luma-evt-fa4ypmi1dwa09q9"
+    ]
+  },
+  "ibw-luma-evt-lEdV5rOtFA9Zysr": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "claudecode",
+      "ibw-luma-evt-ledv5rotfa9zysr"
+    ]
+  },
+  "ibw-luma-evt-rkYNBXqNYl6ZLBm": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "hashkey",
+      "ibw-luma-evt-rkynbxqnyl6zlbm"
+    ]
+  },
+  "ibw-luma-evt-u4DFCi8nOPYqY7A": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "longstable",
+      "ibw-luma-evt-u4dfci8nopyqy7a"
+    ]
+  },
+  "ibw-t0e7b24u": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "chillplants",
+      "ibw-t0e7b24u"
+    ]
+  },
+  "india-luma-52vxy6fo": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "ready-for-the-run-bhopal",
+      "india-luma-52vxy6fo"
+    ]
+  },
+  "india-luma-76s6hwzv": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "rrl",
+      "india-luma-76s6hwzv"
+    ]
+  },
+  "india-luma-bitshalaboss": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bbs",
+      "india-luma-bitshalaboss"
+    ]
+  },
+  "india-luma-co5dtixa": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "rrp",
+      "india-luma-co5dtixa"
+    ]
+  },
+  "india-luma-icnjduyi": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "ready-for-the-run-hyderabad",
+      "india-luma-icnjduyi"
+    ]
+  },
+  "luma-batch-KupO2QEcLws6KMf": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "8uhc300o",
+      "luma-batch-kupo2qeclws6kmf"
+    ]
+  },
+  "luma-batch-evtKhUrCbu57vTQe": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-hong-kong-meetup-november-2026",
+      "luma-batch-evtkhurcbu57vtqe"
+    ]
+  },
+  "luma-batch-evtPICyDbNudDA4Z": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "fan9g1ft",
+      "luma-batch-evtpicydbnudda4z"
+    ]
+  },
+  "luma-batch-evtsJTiDuzqsClRt": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-hong-kong-meetup-december-2026",
+      "luma-batch-evtsjtiduzqsclrt"
+    ]
+  },
+  "luma-batch-jR6a4UNcsq5XvJN": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "luma-batch-jr6a4uncsq5xvjn"
+    ]
+  },
+  "luma-crypto-03aY9MF3WBtvMUc": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "ready-run-",
+      "luma-crypto-03ay9mf3wbtvmuc"
+    ]
+  },
+  "luma-crypto-0Sn4QB5KWkR4LeX": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitkzh",
+      "luma-crypto-0sn4qb5kwkr4lex"
+    ]
+  },
+  "luma-crypto-0ZlrAFPfJpWredR": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "crypto-dri",
+      "luma-crypto-0zlrafpfjpwredr"
+    ]
+  },
+  "luma-crypto-0hz2AvZ2012eFPh": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "dctrl-free",
+      "luma-crypto-0hz2avz2012efph"
+    ]
+  },
+  "luma-crypto-1qQKoBtjDhui9Zr": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "claude-onc",
+      "luma-crypto-1qqkobtjdhui9zr"
+    ]
+  },
+  "luma-crypto-5MTBYxmL59aBJLv": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "beerfi-pra",
+      "luma-crypto-5mtbyxml59abjlv"
+    ]
+  },
+  "luma-crypto-5f8DApeYV9EOQrM": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fit",
+      "luma-crypto-5f8dapeyv9eoqrm"
+    ]
+  },
+  "luma-crypto-6sq684bokHRdD3J": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "holiday-pi",
+      "luma-crypto-6sq684bokhrdd3j"
+    ]
+  },
+  "luma-crypto-7hiETCq4qdL9EWQ": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "p2p-org-ex",
+      "luma-crypto-7hietcq4qdl9ewq"
+    ]
+  },
+  "luma-crypto-AvNFzDNPSKFXge2": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bn9y6z5y",
+      "luma-crypto-avnfzdnpskfxge2"
+    ]
+  },
+  "luma-crypto-DUJsmWZeCMAMyn8": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bnb-builde",
+      "luma-crypto-dujsmwzecmamyn8"
+    ]
+  },
+  "luma-crypto-EVFYDsnnR9WoIhF": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "redotsclub",
+      "luma-crypto-evfydsnnr9woihf"
+    ]
+  },
+  "luma-crypto-GP7pouWMNMcBR92": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "luma-crypto-gp7pouwmnmcbr92"
+    ]
+  },
+  "luma-crypto-Lt6bJKPA48lfArP": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-bu",
+      "luma-crypto-lt6bjkpa48lfarp"
+    ]
+  },
+  "luma-crypto-QRCPU4eBHlR2IuK": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "money-laye",
+      "luma-crypto-qrcpu4ebhlr2iuk"
+    ]
+  },
+  "luma-crypto-a8d6XmtLvVlBCHQ": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "decentralized-not-unregulated-perps-trading-hyperliquid-canada",
+      "luma-crypto-a8d6xmtlvvlbchq"
+    ]
+  },
+  "luma-crypto-fNTbI5gPkGjWs4W": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "binance-un",
+      "luma-crypto-fntbi5gpkgjws4w"
+    ]
+  },
+  "luma-crypto-hH5qVNRMs3UbwXp": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "krexa-agents-showdown",
+      "luma-crypto-hh5qvnrms3ubwxp"
+    ]
+  },
+  "luma-crypto-mtGOY2CrC193nlv": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "after-hour01k"
+    ]
+  },
+  "luma-crypto-o1VjeTTkG1mOb1K": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "no-vibestation-due-breakpoint",
+      "luma-crypto-o1vjettkg1mob1k"
+    ]
+  },
+  "luma-crypto-tcFoFxwDZkn1fdl": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-me",
+      "luma-crypto-tcfofxwdzkn1fdl"
+    ]
+  },
+  "luma-crypto-uY7AwaQhqCO2Ejy": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "executorch",
+      "luma-crypto-uy7awaqhqco2ejy"
+    ]
+  },
+  "luma-crypto-wfBZ2uBmgRlbIab": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "cyberswaraj-nostr-cryptography-basics-how-it-actually-works",
+      "luma-crypto-wfbz2ubmgrlbiab"
+    ]
+  },
+  "luma-crypto-ye20BagHxEHh8CO": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "solana-fitsfz",
+      "luma-crypto-ye20baghxehh8co"
+    ]
+  },
+  "mu-316585521": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "bitcoin-was-unser-geld-morgen-wert-ist",
+      "mu-316585521"
+    ]
+  },
+  "mu-316825220": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "crypto-cigars",
+      "mu-316825220"
+    ]
+  },
+  "token2049-evt-JZv1H985Ggdevr9": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "tech-summit",
+      "token2049-evt-jzv1h985ggdevr9"
+    ]
+  },
+  "token2049-evt-hibdrdDywIqLsxW": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "founder-venture",
+      "token2049-evt-hibdrddywiqlsxw"
+    ]
+  },
+  "token2049-evt-mtGOY2CrC193nlv": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "after-hours",
+      "token2049-evt-mtgoy2crc193nlv"
+    ]
+  },
+  "w3v-founder-x-vc-summit-demo-day-26-11-14": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "founder-vc-summit-demo-day",
+      "w3v-founder-x-vc-summit-demo-day-26-11-14"
+    ]
+  },
+  "w3v-founder-x-vc-summit-vip-dinner-26-11-17": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "founder-vc-summit-vip-dinner",
+      "w3v-founder-x-vc-summit-vip-dinner-26-11-17"
+    ]
+  },
+  "w3v-the-unbanked-conference-london": {
+    "until": "2027-11-14T00:00:00.000Z",
+    "slugs": [
+      "w3v-the-unbanked-conference-london"
+    ]
+  },
   "premier-tabconf": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "tabconf",
       "premier-tabconf"
     ]
   },
   "premier-coinalts-2026": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "coinalts",
       "premier-coinalts-2026",
       "coinalts-2026"
     ]
   },
+  "premier-blockchain-africa-2026": {
+    "until": "2027-11-14T16:47:23.741Z",
+    "slugs": [
+      "blockchain-africa",
+      "premier-blockchain-africa-2026",
+      "blockchain-africa-2026"
+    ]
+  },
   "luma-evt-Z7nulSbBeA3aFMI": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "luma-evt-z7nulsbbea3afmi",
       "acp"
     ]
   },
   "luma-batch-xFFX1w014DYQNxw": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "meow-legion-founder-poker-night",
       "grdkh8vt",
@@ -9261,22 +9838,30 @@
     ]
   },
   "luma-batch-8I5O4bjlw0OlFUu": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "thesignal2026",
       "luma-batch-8i5o4bjlw0olfuu"
     ]
   },
   "luma-batch-ON8samQWGur2o5c": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "antidote-office-open-day",
       "hfqu8u55",
       "luma-batch-on8samqwgur2o5c"
     ]
   },
+  "luma-batch-W4GEoKovBqnA6lm": {
+    "until": "2027-11-14T16:47:23.741Z",
+    "slugs": [
+      "exchange1-trading-thursday-mumbai",
+      "xppe9krt",
+      "luma-batch-w4geokovbqna6lm"
+    ]
+  },
   "luma-batch-F8zatkGwjYGzv3V": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "el-taller-colosseum-hackathon",
       "wpfunpri",
@@ -9284,15 +9869,22 @@
     ]
   },
   "luma-batch-evt8RezKQUn6TrHC": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "build-with-stripe",
       "8kkegkh7",
       "luma-batch-evt8rezkqun6trhc"
     ]
   },
+  "luma-batch-evtnpZcSPkY2es66": {
+    "until": "2027-11-14T16:47:23.741Z",
+    "slugs": [
+      "luma-batch-evtnpzcspky2es66",
+      "54c9x6ri"
+    ]
+  },
   "luma-batch-evtTDa0weWTryfBl": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "adan-europe-digital-assets",
       "iyjal140",
@@ -9300,14 +9892,14 @@
     ]
   },
   "luma-batch-evt01U6xL7qkoePF": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "luma-batch-evt01u6xl7qkoepf",
       "eldiad"
     ]
   },
   "luma-batch-evtceTF1z3WvKJ1i": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "digital-assets-regulation-asset-allocation",
       "tn1iwfoh",
@@ -9315,7 +9907,7 @@
     ]
   },
   "luma-crypto-VcpyfOM9tAtGEBi": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "career-transitions-age-of-ai",
       "nctaa",
@@ -9323,7 +9915,7 @@
     ]
   },
   "luma-crypto-DW1mNXiXnvQ42Bi": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "japan-startup-showcase-palo-alto",
       "jsspasvpbt",
@@ -9331,11 +9923,19 @@
     ]
   },
   "luma-crypto-i7agflP95FW2Y66": {
-    "until": "2027-11-14T13:03:42.674Z",
+    "until": "2027-11-14T16:47:23.741Z",
     "slugs": [
       "junto-founder-dinner",
       "jfdhayf",
       "luma-crypto-i7agflp95fw2y66"
+    ]
+  },
+  "token2049-evt-rnmJyD2klnY67Ue": {
+    "until": "2027-11-14T16:47:23.741Z",
+    "slugs": [
+      "ai-agents-space-yacht-fireside",
+      "fcsy",
+      "token2049-evt-rnmjyd2klny67ue"
     ]
   }
 }

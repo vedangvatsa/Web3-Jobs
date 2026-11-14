@@ -751,64 +751,6 @@
     "website": "https://waset.org/smart-contracts-and-blockchain-conference-in-november-2026-in-dubai?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
   },
   {
-    "id": "w3v-the-unbanked-conference-london",
-    "name": "The (un)Banked Conference",
-    "description": "The (un)Banked is going to London.\n\nAfter a successful first edition in Amsterdam, we're bringing the conference to the City on 9th of November.  The FCA has published its final cryptoasset rules, Lloyds has settled a tokenised deposit on a public blockchain, and the major banks in the City now have dedicated digital asset teams. The question is no longer whether financial infrastructure moves on-chain, but who will operate it when it does.\n\nThat question sits at the centre of the programme. Across five panels on tokenisation, custody, stablecoins, institutional capital and regulation, we put banks, fintechs and crypto companies on the same stage to work through it together, with curated networking between sessions to continue the conversation.\n\nWhat to Expect\n\nWho should attend\nSenior executives, investors, and decision-makers shaping the future of finance, across banking, fintech, and digital assets. Ideal for professionals driving strategy, investment, and innovation at the intersection of traditional financial systems and onchain infrastructure.\n\nWhere it happens\nLanding Canary Wharf — 12 Bank Street, London\nLondon's flagship design-led venue, located in the heart of the capital's most connected business district.\n\nHow It Was in Amsterdam\n\nOur debut edition brought together 500+ senior leaders from banking, fintech, and digital assets for an evening of high-level conversation and networking.\n\n[Learn more about the previous edition at theunbanked.finance](https://theunbanked.finance)\n\nThis year, we're bringing that same energy to London. Speaker lineup to be announced soon — but first, here's who took over the room in Amsterdam.\n\n[Community Partner - Introduction.com](https://Introduction.com)\n\n[Introduction.com](https://Introduction.com) is a private global network anchored by a 400-member core community (7% acceptance rate) and amplified by a wider ecosystem of 500,000+ founders, investors, and operators.Our curated membership represents the executives and founders pioneering the future of tech and finance—from Web2 conglomerates like JP Morgan, Amazon, Google, and Stripe, to Web3 giants like Coinbase, Binance, a16z, and Pantera.\n\nWe meet globally to grow high-value relationships through curated events, strategic introductions, and sustained community engagement.\n\n[X](https://x.com/introductioncom?utm_source=luma) |[Website](https://www.introduction.com/?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/introductiondotcom?utm_source=luma)\n\nHosted by INPUT Global\n\nINPUT Global is a global communications partner for companies and founders across financial services, digital assets and emerging technology.\n\nWe build market credibility, recognition and influence through:\n\n• PR & Strategic Communications - shaping narratives and building media presence\n• Personal Branding (Voice™) - building visible, credible industry voices\n• Influencer Marketing - connecting brands with the right creators and communities\n• Events - creating the rooms, stages and moments that matter\n\nOur work spans the Americas, Europe and MENA, with experience across 500+ companies and leadership teams, including CBI, Tether, Ledger, Napster, The Vault, Bitget and Outlier Ventures.\n\n90% of our clients stay with us year after year.\n\n[Join INPUT Offstage](https://t.me/+3XURWkx0QXE2MDRk) on Telegram for event and speaking opportunities, media updates, webinars and streams, unreleased KNOWN podcast content, and conversations across our global network.\n\n[X](https://x.com/INPUT_global?utm_source=luma) | [LinkedIn](https://www.linkedin.com/company/inputglobal/?utm_source=luma) | [Website](https://input.global/?utm_source=luma) |  [Telegram](https://t.me/+3XURWkx0QXE2MDRk)\n\n> Sponsorship\n> A limited number of sponsorship opportunities are available.\n> [If you’re interested, please submit application here](https://docs.google.com/forms/d/e/1FAIpQLSd-vI3uQ_Ves900ahzTRj6FjZr7YbkzYTC7tsSDIJUGxYSOWg/viewform).",
-    "startDate": "2026-11-09T10:00:00.000Z",
-    "endDate": "2026-11-09T17:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Landing Canary Wharf, 1st Floor, 12 Bank St, Canary Wharf Estate, London E14 4DD, UK",
-    "url": "https://luma.com/TheUnBanked",
-    "coverImage": "/events/luma-recover-w3vtheunbankedco-71cd1e11.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "November 2026",
-    "hosts": [
-      "INPUT Global Events",
-      "Introduction.com"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "neighborhood": "Canary Wharf Estate",
-    "slug": "ubc",
-    "registrationUrl": "https://luma.com/TheUnBanked",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Landing Canary Wharf",
-    "streetAddress": "1st Floor, Cabot Square, 12 Bank St, London",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.503898199999995,
-      "longitude": -0.0232757
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "INPUT Global Events",
-      "url": "https://input.global/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/TheUnBanked",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/TheUnBanked",
-      "eventId": "evt-uVXUyuXnUPp7Nwn",
-      "fetchedAt": "2026-09-19T23:54:57.580Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "w3v-200ms-26-11-13",
     "name": "200ms",
     "description": "This event will focus on the Solana's microstructure and DeFi landscape: what's happening, how it impacts DeFi projects and what traders should know. Attendance will be free but selective. Priority is given for Solana builders, core developers, and on-chain traders. Thanks to all the sponsors: Anza (https://www.anza.xyz/?utm_source=luma), Ellipsis Labs (https://x.com/ellipsis_labs?utm_source=luma), Firedancer (https://x.com/jump_firedancer?s=11), Helius (http://helius.dev/?utm_source=luma), Jito Foundation (https://x.com/jito_sol?utm_source=luma), Multicoin Capital (https://multicoin.capital/?utm_source=luma), Triton One (https://x.com/triton_one?utm_source=luma), Temporal (https://temporal.xyz/), and World (https://x.com/world_xyz?s=11)\n\nTickets Standar\n\nEvent details\n\nDate: Nov 13, 2026, 09:00 (Europe/London)\nVenue: London, United Kingdom\nOrganised by: Jito Events\nTicket types: Standard\nTickets: Free\nRegistration: requires approval from the organiser\nEvent page: https://luma.com/6xip72je",
@@ -901,74 +843,6 @@
       "url": "https://luma.com/rszxbf8n",
       "eventId": "evt-Zdu4QV9UGKPwuvA",
       "fetchedAt": "2026-09-19T23:54:59.069Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    },
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
-  },
-  {
-    "id": "w3v-founder-x-vc-summit-demo-day-26-11-14",
-    "name": "Founder x VC Summit | Demo Day | Breakpoint 🇬🇧",
-    "description": "Founder × VC Summit: Payments & Institutions Edition\nDemo Day · Breakpoint Week · Nov 14 · London, UK 🇬🇧\n\n> TL;DR\n>\n> - Experts Keynote / Panels\n> - Demo Day | Startups: AI × Web3-native · stablecoins & payments · on-chain / AI infrastructure · applied AI with real revenue\n> - 10 startups, 5 minutes each, live pitch + investor Q&A\n\n[Join Circle: t.me/backersstage](https://t.me/backersstage)\n\n→ Apply to Speak / Judge: jac@backersstage.com\n→ Sponsor or partner with us: partner@backersstage.com\n\nHow the day runs: TBA\n\nWho should apply\n\n• Want to pitch? → Apply to Pitch (Opening Soon)\n• Founders  → Apply for a Founder Pass (Soon)\n• Investors - deploying in the next 6-12 months, hunting early signal (Soon)\n\nFOUNDER × VC SUMMIT has a limited number of partnership slots Kept intentionally small.\n\nTo explore [a slot, reach out by email at: atharv@backersstage.com](https://mailto:atharv@backersstage.com/?utm_source=luma)\nvia tg (@[theatharvshrivastava](https://t.me/theatharvshrivastava?utm_source=luma) / @[adityamahajan16](https://t.me/adityamahajan16?utm_source=luma))\n\nVIP Dinner on Nov 15 - speakers/ partners/ invited guest\n\n[Hosted by BackersStage](https://www.backersstage.com)\n\nPrevious Edition:\n\nPrevious Events:\n\netc.",
-    "startDate": "2026-11-14T11:00:00.000Z",
-    "endDate": "2026-11-14T17:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, UK",
-    "url": "https://luma.com/a4qnux81",
-    "coverImage": "/events/w3v-founder-x-vc-summit-demo-day-26-11-14-c379aee2.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "November 2026",
-    "hosts": [
-      "BackersStage Capital",
-      "Atharv",
-      "Aditya | Wisdora"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "slug": "fxvs3",
-    "registrationUrl": "https://luma.com/a4qnux81",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "London",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.5072178,
-      "longitude": -0.12758619999999998
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "BackersStage Capital",
-      "url": "https://www.backersstage.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/a4qnux81",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Pitching Slot",
-        "url": "https://luma.com/a4qnux81",
-        "price": 0,
-        "availability": "InStock",
-        "validFrom": "2026-09-05T23:00:00.000Z"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/a4qnux81",
-      "eventId": "evt-Pfb1j5bJZxVmbGS",
-      "fetchedAt": "2026-09-19T23:54:59.691Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
     },
@@ -1234,67 +1108,6 @@
     }
   },
   {
-    "id": "w3v-founder-x-vc-summit-vip-dinner-26-11-17",
-    "name": "Founder x VC Summit | VIP Dinner | Breakpoint Week 🇬🇧",
-    "description": "Founder × VC Summit: Payments & Institutions Edition | VIP Dinner | Breakpoint Week 🇬🇧\n\n> [Hosted by BackersStage](https://www.backersstage.com) · Strictly by invitation\n\nThe private close to Breakpoint week.\n\nThe founders and investors who actually move capital, one room, no stage, no pitches, nothing on the record.\n\nWe curate the night ourselves. You'll be next to the people worth meeting.\n\n→ Request a seat (invite only · capacity is strict)\n\nThe evening • An intimate, seated evening • Founders and investors, side by side • Off-the-record conversations, no agenda\n\nWho's in the room • Founders raising now • Active VCs and family offices • whales • Institutions • limited number of guest.\n\nBy request or partnership only partner@backersstage.com · ([tg: @theatharvshrivastava](https://t.me/theatharvshrivastava) / @[adityamahajan15](https://t.me/adityamahajan15))\n\nPrevious Edition:\n\nPrevious Events:\n\netc.",
-    "startDate": "2026-11-15T19:00:00.000Z",
-    "endDate": "2026-11-15T22:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, UK",
-    "url": "https://luma.com/hrb0040d",
-    "coverImage": "/events/w3v-founder-x-vc-summit-vip-dinner-26-11-17-2507d894.webp",
-    "source": "Hashtag Web3",
-    "bypassedFilter": true,
-    "month": "November 2026",
-    "hosts": [
-      "BackersStage Capital",
-      "Atharv",
-      "Aditya | Wisdora"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Europe/London",
-    "slug": "fxvs4",
-    "registrationUrl": "https://luma.com/hrb0040d",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "London",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.5072178,
-      "longitude": -0.12758619999999998
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "BackersStage Capital",
-      "url": "https://www.backersstage.com/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/hrb0040d",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/hrb0040d",
-      "eventId": "evt-LDSErNQQ6jx89G5",
-      "fetchedAt": "2026-09-19T23:55:03.518Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    },
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
-  },
-  {
     "id": "w3v-global-ai-show-2026-abu-dhabi",
     "name": "Global AI Show 2026 Abu Dhabi ",
     "description": "Global AI Show Abu Dhabi: a November 18–19, 2026 AI conference covering agents, infrastructure, cybersecurity, cloud and enterprise AI.",
@@ -1413,7 +1226,7 @@
   {
     "id": "ma-blockchain-conference-brasil",
     "name": "Blockchain Conference Brasil",
-    "description": "## O MAIOR EVENTO SOBRE BITCOIN, CRIPTO E BLOCKCHAIN DO BRASIL.\n\nConectando as principais lideranças, empresas e investidores do ecossistema blockchain\n\n15\n\n+10.00\n\n5\n\nPALESTRANTE\n\nPARTICIPANTE\n\nEXPOSITORE\n\n30 WORKSHOP\n\n2 DIA\n\n2 PALCO\n\nMÃO NA MASS\n\nDE EVENT\n\nSIMULTÂNEO\n\nBCB2\n\nO BCB É DE VERDAD\n\nMAIS DO QUE UM EVENTO. UMENCONTRO REAL DO ECOSSISTEMA.\n\nO BCB nasceu dentro da própria comunidade cripto. Mais do que um evento, é um ponto de encontro para quem constrói, investe e lidera o setor no Brasil\n\nNETWORKING ESTRATÉGICOE NEGÓCIOS DE VERDAD\n\nCONTEÚDODE ALTO NIVEL\n\nUm ambiente que conecta empresas, investidores, desenvolvedores e empreendedores em busca de parcerias, investimentos e novos negócios.\n\nPainéis, debates e apresentações com líderes do ecossistema cripto e especialistas do setor financeiro e tecnológico\n\nINOVAÇÃO ETÉCNOLOGI\n\nEXPERIÊNCIAS EATIVAÇÕE\n\nCOMUNIDADE E BUILDERS ENGAJADOS\n\nAtiva e relevante, impulsionada por uma forte rede de KOLs e criadores, que amplificam o alcance do evento.\n\nDiscussões sobre infraestrutura blockchain, Web3, regulação, finanças digitais e novas aplicações da tecnologia.\n\nWorkshops, podcasts áreas de exposição e experiências criadas por empresas e projetos do ecossistema\n\nPERFIL DO PÚBLIC\n\nO ECOSSISTEMA QUEMOVE O BCB.\n\nO BCB reúne os principais decisores do mercado cripto, conectando executivos, builders e investidores em um ambiente de alto nível técnico, estratégico e de negócios\n\nLIDERANÇAS DO SETOR DEINOVAÇÃO E FINANÇA\n\nFUNDADORES &STARTUPS\n\nExecutivos e tomadores de decisão que lideram empresas do setor financeiro e tecnológico.\n\nEmpreendedores que estão construindo novos produtos, protocolos e empresas\n\nBUILDERS& DESENVOLVEDORE\n\nINVESTIDORESESTRATÉGICOS\n\nDesenvolvedores e arquitetos de tecnologia responsáveis por construir a infraestrutura Web3.\n\nFundos, venture capital e investidores focados em inovação, blockchain e ativos digitais\n\nSETOR PÚBLICOE REGULATÓRI\n\nINVESTIDORESINDIVIDUAI\n\nINSTITUIÇÕESDE ENSINO\n\nInvestidores ativos no mercado de criptomoedas e novas tecnologias.\n\nRepresentantes de órgãos públicos, reguladores e especialistas do setor\n\nCOMUNIDADE ENGAJADA EATIVADA POR KOLs\n\nCreators, educadores e líderes de comunidade que ampliam o alcance e a relevância do ecossistema antes, durante e após o evento\n\nSPONSORS BCB2\n\nALGUMAS EMPRESAS QUE JÁ FIZERAM PARTE DO BCB\n\nFAÇA PARTE DO CENTRO DOECOSSISTEMA CRIPTO\n\nPARCEIROS DE MÍDIA BCB2\n\nMIDIAS SOCIAIS BCB2\n\nANTES, DURANTE E APÓS O BCB25, HOUVE UMA EXTENSA COBERTURA DA IMPRENSA\n\n+ 1.000.0000 DE VIEWS APENAS NO INSTAGRAM OFICIAL DO EVENTO\n\n+9\n\nARTIGOS E RELEASES NO BRASIL E EM TODO O MUND\n\nPALCO ETHEREU\n\nPALCO BITCOI\n\nÁREA VI\n\nPODCAST ZON\n\nÁREA CUSTOMIZAD\n\nÁREA DE EXPOSIÇÃ\n\nORGANIZAÇÃO",
+    "description": "Blockchain Conference Brasil reúne profissionais do setor cripto, investidores, desenvolvedores, empreendedores e representantes de instituições públicas e de ensino. A programação anunciada inclui painéis, debates, apresentações, workshops, podcasts e uma área de exposição. Os temas incluem infraestrutura blockchain, Web3, regulação, finanças digitais e novas aplicações da tecnologia. Consulte a página oficial para a agenda e os ingressos da edição atual; os números, patrocinadores e registros identificados como BCB25 referem-se à edição anterior.\n\n## O evento\n\nO Blockchain Conference Brasil (BCB) é apresentado como o maior evento sobre Bitcoin, cripto e blockchain do Brasil, conectando as principais lideranças, empresas e investidores do ecossistema. Mais do que um evento, é um ponto de encontro real do ecossistema para quem constrói, investe e lidera o setor no país.\n\n## Conteúdo e experiência\n\n- Conteúdo de alto nível: um ambiente que conecta empresas, investidores, desenvolvedores e empreendedores em busca de parcerias, investimentos e novos negócios, com painéis, debates e apresentações com líderes do ecossistema cripto.\n- Inovação e tecnologia: discussões sobre infraestrutura blockchain, Web3, regulação, finanças digitais e novas aplicações da tecnologia.\n- Comunidade e builders engajados: uma comunidade ativa e relevante, impulsionada por uma forte rede de KOLs e criadores, que amplificam o alcance do evento.\n- Espaços dedicados: palcos Ethereum e Bitcoin, área VIP, zona de podcast e área de exposição.\n\n## Networking e negócios\n\nO evento combina networking estratégico e geração de negócios, reunindo o ecossistema em um ambiente de alto nível técnico, estratégico e comercial.\n\n## Perfil do público\n\n- Fundadores e startups: executivos e tomadores de decisão que lideram empresas do setor financeiro e tecnológico, além de empreendedores construindo novos produtos, protocolos e empresas.\n- Builders e desenvolvedores: responsáveis por construir a infraestrutura Web3.\n- Investidores estratégicos: fundos, venture capital e investidores focados em inovação, blockchain e ativos digitais.\n- Setor público e reguladores: representantes de órgãos públicos, reguladores e especialistas do setor.\n- Investidores individuais e instituições de ensino.\n- Comunidade engajada e ativada por KOLs: creators, educadores e líderes de comunidade que ampliam o alcance e a relevância do ecossistema.",
     "startDate": "2026-11-28T00:00:00.000Z",
     "endDate": "2026-11-29T00:00:00.000Z",
     "city": "Sao Paulo, Brazil",
@@ -3006,7 +2819,7 @@
   {
     "id": "ma-digital-assets-forum-2027",
     "name": "Digital Assets Forum 2027",
-    "description": "## DIGITAL ASSETS FORUM 4 The premier event for the Institutional Digital Assets industr\n\n2027 speaker\n\nSasha Mill\n\nBank of Englan\n\nBugra Celi\n\nHSB\n\nArturo Callau Berengue\n\nCaixaBan\n\nLee McNab\n\nNatWes\n\nYiannos Ashioti\n\nRevolut Digital Assets Europ\n\nSabih Behza\n\nDeutsche Ban\n\nElliot Hento\n\nState Stree\n\nNadia Filal\n\nCaisse des Dépôt\n\nChristian Moo\n\nEB\n\nDarko Hajdukovi\n\nLondon Stock Exchange\n\nGabriel Lera Camp\n\nBBV\n\nImmo Garlich\n\nMarc de Klo\n\nTheta Capital Managemen\n\nSpencer Bogar\n\nBlockchain Capital LL\n\nPete Najaria\n\nRaptor Digita\n\nWHO ATTEND\n\nWhat's new in 202\n\n2 days, instead of 1 We’re doubling the excitement with two days to feature more speakers and panels than eve\n\nExclusive 1:1 meeting area Scroll through the attendee list and :\n- 1:1 meetings in advance. Get ready to maximize your ROI\n\nVIP night Kick off the event with an exclusive VIP night designed for premium networking and unwinding in styl\n\nMore LPs and GPs More allocators, institutional investors, family offices and wealth managers than eve\n\nPress room Press access just got better — connect with top speakers in a private space reserved for media insight\n\nPrivate roundtables A new format designed for direct, meaningful exchanges with top industry peer\n\nNew venue A more spacious and stylish setting, perfect for connecting and explorin\n\nGreater exhibition are\n\nWhy join\n\nBarbara Schlyte\n\nDWS Grou\n\nAnthony Scaramucc\n\nSkyBridge Capita\n\nVanessa Grelle\n\nArche Capita\n\nLet's get you a ticke\n\n699\n\nexcl. 20% VA\n\n999\n\n1.399\n\n1.199\n\n1.499\n\n2.199£ • Access to VIP Night Party with speakers, sponsors and media at 5* venu\n\n2.999\n\n4.999\n\n9.999£ The best ROI is achieved by bringing a team, don’t you think\n\nPlatinu\n\nDiamon\n\nGol\n\nSilve\n\nBronze La inversión en criptoactivos no está regulada, puede no ser adecuada para inversores minoristas y perderse la totalidad del importe invertido. Es importante leer y comprender los riesgos de esta inversión que se explican detalladamente en esta ubicación. European Blockchain Convention no se hace responsable de las opiniones expresadas por asistentes o colaboradores. Our events: EBC Barcelona | DAF New York | DAF London | DAF Abu Dhabi",
+    "description": "Digital Assets Forum 2027 is the premier event for the institutional digital assets industry in London, returning on February 10-11, 2027. The 2027 edition doubles the format to two days, with more speakers and panels than ever.\n\n## What's new in 2027\n\n- Two days instead of one, featuring more speakers and panels than ever.\n- Exclusive 1:1 meeting area: browse the attendee list and schedule 1:1 meetings in advance to maximize your time on site.\n- VIP night: kick off the event with an exclusive VIP night designed for premium networking and unwinding in style.\n- More LPs and GPs: more allocators, institutional investors, family offices, and wealth managers than ever.\n- Press room: connect with top speakers in a private space reserved for media insights.\n- Private roundtables: a new format designed for direct, meaningful exchanges with top industry peers.\n- New venue: a more spacious and stylish setting, perfect for connecting and exploring.\n- Greater exhibition area.\n\n## Speakers\n\nAnnounced speakers include Sasha Mills (Bank of England) and leaders from institutions including HSBC, NatWest, Revolut Digital Assets Europe, Deutsche Bank, State Street, Caisse des Dépôts, London Stock Exchange, BBVA, Theta Capital Management, Blockchain Capital, SkyBridge Capital, DWS Group, and Arche Capital.\n\n## Tickets\n\nTicket tiers start at £699 (excl. 20% VAT), with a VIP option at £2,199 that adds access to the VIP Night Party with speakers, sponsors and media at the 5-star venue, and a team option at £9,999 — the best return is achieved by bringing a team.",
     "startDate": "2027-02-10T00:00:00.000Z",
     "endDate": "2027-02-11T00:00:00.000Z",
     "city": "London, UK",
@@ -3233,7 +3046,7 @@
   {
     "id": "ma-teamz-web3-ai-summit-2027",
     "name": "TEAMZ Web3/AI Summit 2027",
-    "description": "## TEAMZ SUMMITは、日本最大級・アジア有数の国際テックカンファレンス。約1万人が集結し、最前線のテクノロジーとビジネス機会を通じて、新たな産業とグローバル連携を生み出します\n\n見逃した方も、もう一度体験したい方も。TS26の瞬間をここで\n\n新しい体\n\nRobots,Agents & Tradition TEAMZ SUMMIT (AI EDITION) では、AI分野を中心に、世界中から起業家、技術者、投資家、業界リーダーが集結します。最先端のテクノロジーと日本の文化・伝統が融合する特別な空間で、メインステージでの講演や文化パフォーマンス、展示会、テラスでのネットワーキング、サイドイベント、VIPプログラムなど、多彩な体験を提供します。新たなアイデア、人、ビジネスがつながり、次の未来を生み出す場を創出します\n\nGeneral Vie\n\nInnovative Speakers Shaping the Future. TEAMZ SUMMIT (AI EDITION) では、世界をリードする業界のリーダーやイノベーターが登壇し、AIや最先端テクノロジーの現在と未来について語ります。第一線で活躍する専門家の知見やビジョンに直接触れ、新たなアイデアと可能性を発見できる貴重な機会です\n\nSponsors, VC, Community, and Media Partners TEAMZ Web3/AIサミットは、スポンサーやVC、メディアなどが集結する特別なネットワーキングの場。業界のキーパーソンとつながり、Web3とAIの未来を共に切り拓きましょう\n\nGet Tickets, Lowest Price,Launch Sales! 最安価格でチケットを購入し、行列をスキップ。到着したらすぐにイベントへご入場いただけます。TEAMZ 2027では、待ち時間を限りなくゼロに近づけることを目指し、以下の改善施策を実施いたします\n\nGeneral Pas\n\n2日間（2027年4月6日〜7日\n\nRed Pas\n\nVIP Pas\n\n3日間（2027年4月5日〜7日\n\nWhy Joi\n\nDeal\n\nInspir\n\nLeadin\n\nOpportunitie\n\nHi Tec\n\nNetworkin\n\nLear\n\nGro\n\nConnec\n\nExperienc\n\nEvent details\n\nDate: Apr 6 - 7, 2027, 00:00\nVenue: Tokyo, Japan, Japan\nEvent page: https://www.teamz.co.jp/\n\n## Overview\n\nTEAMZ Web3/AI Summit 2027 is Japan's premier international technology conference bringing together over 10,000 attendees, entrepreneurs, engineers, institutional investors, and global Web3 and AI ecosystem leaders. Taking place at Happo-en in Tokyo, the two-day summit combines keynote stages, enterprise exhibitions, bilateral networking sessions, side events, and VIP roundtables exploring the convergence of artificial intelligence, autonomous agents, and decentralized protocols.",
+    "description": "TEAMZ SUMMITは、日本最大級・アジア有数の国際テックカンファレンス。約1万人が集結し、最前線のテクノロジーとビジネス機会を通じて、新たな産業とグローバル連携を生み出します。\n\n## About the event\n\nTEAMZ Web3/AI Summit 2027 is Japan's premier international technology conference bringing together over 10,000 attendees, entrepreneurs, engineers, institutional investors, and global Web3 and AI ecosystem leaders. Taking place at Happo-en in Tokyo, the two-day summit combines keynote stages, enterprise exhibitions, bilateral networking sessions, side events, and VIP roundtables exploring the convergence of artificial intelligence, autonomous agents, and decentralized protocols.\n\n## Robots, agents & tradition\n\nTEAMZ SUMMIT (AI EDITION) では、AI分野を中心に、世界中から起業家、技術者、投資家、業界リーダーが集結します。最先端のテクノロジーと日本の文化・伝統が融合する特別な空間で、メインステージでの講演や文化パフォーマンス、展示会、テラスでのネットワーキング、サイドイベント、VIPプログラムなど、多彩な体験を提供します。新たなアイデア、人、ビジネスがつながり、次の未来を生み出す場を創出します。\n\n## Innovative speakers shaping the future\n\nTEAMZ SUMMIT (AI EDITION) では、世界をリードする業界のリーダーやイノベーターが登壇し、AIや最先端テクノロジーの現在と未来について語ります。第一線で活躍する専門家の知見やビジョンに直接触れ、新たなアイデアと可能性を発見できる貴重な機会です。\n\n## Sponsors, VC, community, and media partners\n\nTEAMZ Web3/AIサミットは、スポンサーやVC、メディアなどが集結する特別なネットワーキングの場。業界のキーパーソンとつながり、Web3とAIの未来を共に切り拓きましょう。\n\n## Tickets\n\nチケットは一般パスからVIPパスまで複数の tiers を用意しています。最安価格でチケットを購入し、行列をスキップ。到着したらすぐにイベントへご入場いただけます。TEAMZ 2027では、待ち時間を限りなくゼロに近づけることを目指した改善施策を実施します。",
     "startDate": "2027-04-06T00:00:00.000Z",
     "endDate": "2027-04-07T00:00:00.000Z",
     "city": "Tokyo, Japan",

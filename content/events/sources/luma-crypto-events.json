@@ -228,70 +228,6 @@
     }
   },
   {
-    "id": "luma-crypto-uY7AwaQhqCO2Ejy",
-    "slug": "executorch",
-    "name": "ExecuTorch Hackathon",
-    "description": "NOTE: By registering for the Luma, you are submitting an application to participate. We will reach out on a rolling basis to let you know whether you've been accepted. There are a limited number of devices, we can support up to 200 participants.\n\nThis event is sponsored by Meta, Qualcomm, GitHub, Open Intelligence Foundation, and the PyTorch Foundation.\n\nJoin developers, researchers, and builders for the upcoming ExecuTorch Hackathon on October 17 -18 at [Founder’s Inc., officially part of Open Source AI Week 2026](https://opensourceaiweek.com/).\n\n[Hosted in collaboration with Qualcomm](https://www.qualcomm.com/developer), [Meta](https://www.meta.com/), [GitHub](https://github.com/), [the PyTorch Foundation](https://pytorch.org/foundation/), [and Open Intelligence Foundation](https://openintelligence.foundation/), this hands-on event will challenge teams [to build innovative AI experiences powered by ExecuTorch](https://executorch.ai/)—an open-source framework for deploying and running PyTorch models efficiently on edge and on-device hardware.\n\nParticipants will work in teams of 3–5 people and select one of three tracks outlined below. Each team will receive a device from their selected track to use during the event. Builders will also get access to GitHub Copilot Pro+ to support their builds.\n\nCompute Track\n\nBuild AI applications optimized for the Copilot+ PC powered by Snapdragon® X Elite processors, exploring the potential of powerful, efficient on-device AI computing.\n\nMobile + XR Track\n\nCreate AI-powered experiences for the Samsung Galaxy S25 Ultra powered by Snapdragon 8 Elite and Samsung Galaxy XR powered by Snapdragon® XR2+ Gen 2 processor, with a focus on mobile intelligence, immersive interaction, and multimodal applications.\n\nIoT Track\n\nDevelop intelligent edge and embedded applications using the Arduino® VENTUNO™ Q boards, combining on-device AI with real-time sensing, control, and connected experiences. Choose from an assortment of modulinos and accessories to complete your project (available on a first come, first served basis).\n\nTo participate, interested teams must select a track, form a team of 3–5, and submit a project proposal by October 4. Selected teams will be announced by October 7.\n\nPrizes\n\nThe top team in each track will receive a prize package for every member of the team: Meta AI glasses and an Arduino® UNO™ Q. Build a standout project, demonstrate the potential of on-device AI, and take home hardware to continue exploring the edge.\n\nGitHub will also award a one-year subscription to Copilot Pro to the winner.\n\nWhether you are an experienced edge AI developer or eager to explore the future of open-source, on-device intelligence, the ExecuTorch Hackathon is an opportunity to collaborate, experiment, and build with the latest hardware and software across compute, mobile, XR, and IoT.\n\nQuestions? Join our Discord!\nAsk questions about the event, connect with other participants, form a team, receive event announcements, and stay up to date throughout the hackathon.\n\n👉 Join here: https://discord.gg/A635v4hMSg\n\nBring your ideas. Build with ExecuTorch. Help shape the future of open-source, on device AI.\n\nAbout Open Intelligence Foundation\n\n[The Open Intelligence Foundation](https://openintelligence.foundation/) is a community-first nonprofit founded to protect, strengthen, and advance open-source AI, open models, and open science. Supported by a large community of volunteers and organizations, it takes a bottom-up approach to collaboration, working with academia and researchers to support research, development, and education in [open-source AI. The foundation also leads Open Source AI Week](https://opensourceaiweek.com/), a community-run initiative celebrating open-source AI.\n\nAbout Founders, Inc.\n[Founders, Inc.](https://f.inc/) backs early-stage founders in emerging tech with first checks and 55,000 sq. ft. of lab space in San Francisco's Fort Mason. They run year-round programs to help ambitious builders to go from early stage to scalable companies.\n\nSnapdragon and Qualcomm branded products are products of Qualcomm Technologies, Inc. and/or its subsidiaries. Arduino and VENTUNO are trademarks or registered trademarks of Arduino S.r.l.",
-    "startDate": "2026-10-17T17:00:00.000Z",
-    "endDate": "2026-10-19T02:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Founders, Inc. | San Francisco Lab, 2 Marina Blvd B300, San Francisco, CA 94123, USA",
-    "url": "https://luma.com/executorch-hackathon",
-    "registrationUrl": "https://luma.com/executorch-hackathon",
-    "coverImage": "/events/luma-crypto-uy7awaqhqco2ejy-131c9316.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "HackerSquad",
-      "Qualcomm",
-      "GitHub",
-      "Meta"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "Fort Mason",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Founders, Inc. | San Francisco Lab",
-    "streetAddress": "Landmark Building B, Fort Mason Center, 2 Marina Blvd B300, San Francisco",
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "coordinates": {
-      "latitude": 37.8069129,
-      "longitude": -122.4318963
-    },
-    "organizer": {
-      "type": "Organization",
-      "name": "[SF] HackerSquad",
-      "url": "https://hackersquad.io/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Submit Proposal",
-        "url": "https://luma.com/executorch-hackathon",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Apply to be a judge",
-        "url": "https://luma.com/executorch-hackathon",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/executorch-hackathon",
-      "eventId": "evt-uY7AwaQhqCO2Ejy",
-      "fetchedAt": "2026-09-19T23:49:09.866Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-KdgiJ5gO82TXRB9",
     "slug": "la3agghs",
     "name": "Local Align #3 — AI × GTM Growth Hackathon & Social",
@@ -629,30 +565,6 @@
       "fetchedAt": "2026-10-30T21:49:59.774Z",
       "method": "luma-page",
       "sha256": "c3af85d8b884aefe06ab696bfe48c65ba4a0510b2a40fc6015ae209262d45753"
-    }
-  },
-  {
-    "id": "luma-crypto-03aY9MF3WBtvMUc",
-    "slug": "ready-run-",
-    "name": "Ready For The Run @ IBW 2026",
-    "description": "## READY FOR THE RUN @ IBW \n\nIndia's AI & Web3 community is preparing for the next market cycle - and we want to know how.\n\nIndia Blockchain Week has invited Infini3 to host its \"Ready for the Run\" community session at the IBW venue. This is a shorter, sharper version of our city meetups: we introduce the Run, hear from the community partners who have backed it from day one, and put the room's pulse on the record through live polls.\n\n## What this is NOT\n\n• No panel discussions\n• No firesides\n• No keynotes\n• No company pitches or product demos\n\nJust the community, talking about where AI and Web3 in India are headed.\n\n## What to expect (about 1.5 hours)\n\n• First 15 mins · Welcome and intro to Ready for the Run: what it is and why we are doing it\n• Next 30 mins · 5-minute talks from our community partners on their vision and what this effort means to them\n• Next 20 mins · Fun Filled Live polls on the state of Crypto / Web3 in India\n• Final 20 mins · Break-off and networking\n\n## Why RFTR\n\nOur community partners have supported this circuit city after city. Hear it from them, in their own words, 5 minutes each:\n\n• Ajinava Edge: X (https://x.com/ajinava?utm_source=luma) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in?utm_source=luma)\n• Dev Spark: X (https://x.com/DevSparkspune?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/?utm_source=luma)\n• Web3 Aligarh: X (https://x.com/web3aligarh?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/?utm_source=luma)\n• Builders Verse: X (https://x.com/buildersverse_?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/builder-base/)\n• Zyphar: X (https://x.com/zyphar_ind?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/zyphar?utm_source=luma)\n• Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)\n\n## Live polls: state of Crypto / Web3 in India\n\nReal-time polls, answered by the people in the room. Your answers feed straight into the Community Pulse Snapshot.\n\n## Every stop feeds into two things\n\n• The Community Pulse Snapshot – a city-level read of sentiment, conviction, and signal.\n• India's AI & Web3 Preparedness Playbook – the community-generated roadmap this circuit is building toward.\n\n## Catch the full Run\n\nIBW is a short taste. The full Ready for the Run meetups go much deeper: five speaking sessions, live polls, surveys, quizzes, rewards and F&B in every city.\n\n• Mumbai Main Meetup - 4 Nov - https://luma.com/08ogvz1i\n• Lucknow - 21 Nov - https://luma.com/76s6hwzv\n• Bhopal - 28 Nov - https://luma.com/52vxy6fo\n• Hyderabad - 5 Dec - https://luma.com/icnjduyi\n• Bangalore - 12 Dec - https://luma.com/rjvg6uk4\n\n## Join the biggest community intelligence exercise in Web3 India: https://goinfini3.com/\n\nReady? Let's run.\n\n## Pacesetter Partners for RFTR Mumbai\n\nLongbook started as a personal project for Rohit and is now a powerful personal finance app on iOS/macOS that we need in the age of AI.\n\n## About longbook https://longbook.app/ready-for-the-run\n\nYour Longbook app is a memory of financial commitments, managed by your Claude. It helps you remember your money. Built for founders, builders, traders, creators and students who are #ReadyForTheRun and want to get their financial life in control.\n\n## Website (https://longbook.app/#) | X (https://x.com/rohthebuilder) | LinkedIn (https://www.linkedin.com/company/longbook-app/)\n\n## Partners\n\n## Pacesetter Partners\n\n• Longbook: Website (https://longbook.app/#) | X (https://x.com/rohthebuilder) | LinkedIn (https://www.linkedin.com/company/longbook-app/)\n• Flitpay: Website | X (https://x.com/flitpayofficial) | LinkedIn (https://www.linkedin.com/company/flitpay/)\n• OroPocket: X (https://x.com/oropocket) | LinkedIn (https://www.linkedin.com/company/oropocket/) | Promo\n\n## Ecosystem Partners\n\n• Bitrefill: Website (https://www.bitrefill.com/in/en/) | X (https://x.com/bitrefill) | LinkedIn (https://linkedin.com/company/bitrefill)\n• Minds by Animoca Brands: Website (https://www.hellominds.ai/) | X (https://x.com/hellominds_) | LinkedIn (https://www.linkedin.com/company/hellominds/)\n• KoinX: X (https://x.com/getkoinx) | LinkedIn (https://in.linkedin.com/company/getkoinx)\n• Kryptos: X (https://x.com/KryptosConnect) | LinkedIn (https://www.linkedin.com/company/kryptos)\n• Grovio: X (https://x.com/GrovioAI) | LinkedIn (https://www.linkedin.com/company/grovioai)\n• QuillAudits: X (https://x.com/QuillAudits_AI) | LinkedIn (https://www.linkedin.com/company/quillaudits)\n• Make0: Website (https://make0.ai/) | LinkedIn (https://www.linkedin.com/company/make0/)\n• Xtrading: X (https://x.com/xtrading_dex) | LinkedIn (https://www.linkedin.com/company/xtradingdex/)\n• BlockSurvey: X (https://x.com/blocksurvey) | LinkedIn (https://www.linkedin.com/company/blocksurvey)\n• 39K Group: X (https://x.com/39k_group) | LinkedIn (https://in.linkedin.com/company/39kgroup)\n\n## Media Partners\n\n• CoinsCapture: X (https://x.com/CoinsCapture) | LinkedIn (https://in.linkedin.com/company/coinscapture)\n• Blockopedia: X (https://x.com/theblockopedia_) | LinkedIn (https://www.linkedin.com/company/theblockopediaofficial)\n• Techtoken: X (https://x.com/Techtoken_in) | LinkedIn (https://www.linkedin.com/company/techtoken/)\n• TheCryptoHype: X (https://x.com/the_cryptohype) | LinkedIn (https://www.linkedin.com/company/thecryptohype/)\n• Block24Seven: X (https://x.com/Block24Seven) | LinkedIn (https://www.linkedin.com/company/block24seven/)\n• CryptonitUAE: X (https://x.com/CryptoniteUae) | LinkedIn (https://www.linkedin.com/company/cryptoniteuae/)\n\n## Community Partners\n\n• Bhopal DAO: X (https://x.com/bhopal_dao) | LinkedIn (https://www.linkedin.com/company/bhopal-dao)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collablynetwork/)\n• Hyderabad DAO: X (https://x.com/hyderabaddao) | LinkedIn (https://in.linkedin.com/company/hyderabad-dao)\n• Gwalior DAO: X (https://x.com/gwaliordao_) | LinkedIn (https://www.linkedin.com/company/gwaliordao/)\n• Lucknow DAO: X (https://x.com/Lucknow_DAO) | LinkedIn (https://www.linkedin.com/company/lucknowdao/)\n• Web3 Kerala: X (https://x.com/Web3_kerala) | LinkedIn (https://in.linkedin.com/company/web3-kerala)\n• Web3 Aligarh: X (https://x.com/web3aligarh) | LinkedIn (https://www.linkedin.com/company/web3-aligarh/)\n• Web3 Events: X (https://x.com/web3_events) | LinkedIn (https://www.linkedin.com/company/web3-events)\n• Collably Network: X (https://x.com/CollablyNetwork) | LinkedIn (https://www.linkedin.com/company/collably-network)\n• BBC: X (https://x.com/0x_bbc) | LinkedIn (https://www.linkedin.com/company/badass-builders)\n• Zyphar: X (https://x.com/zyphar_ind) | LinkedIn (https://www.linkedin.com/company/zyphar)\n• Dev Spark: X (https://x.com/DevSparkspune) | LinkedIn (https://www.linkedin.com/company/dev-spark-community/)\n• Techeve: X (https://x.com/TecheveIN) | LinkedIn (https://in.linkedin.com/company/techeve)\n• Ajinava Edge: X (https://x.com/ajinava) | LinkedIn (https://in.linkedin.com/company/ajinava-edge-in)\n• Stackhouse: Website (https://www.stackhouse.social/)\n• AavaCustoms: X (https://x.com/Aavacustoms) | LinkedIn (https://www.linkedin.com/company/aava-customs/)\n• KrowdKraft: X (https://x.com/KrowdKraft_) | LinkedIn (https://www.linkedin.com/company/krowdkraft/)\n• Builders Verse: X (https://x.com/buildersverse_)\n• Builder Base: X (https://x.com/theBuilder_base) | LinkedIn (https://www.linkedin.com/company/builder-base/)\n• Abhilekh Verma Consultancy: X (https://x.com/abhilekhverma) | LinkedIn (https://in.linkedin.com/company/abhilekhverma)\n• ArtofBlockchain: X (https://x.com/shubhadapande39) | LinkedIn (https://in.linkedin.com/company/artofblockchain)\n• Bitcoin Bharat: X (https://x.com/bitcoinbharat_) | LinkedIn (https://www.linkedin.com/company/bitcoinbharat/)\n• Loops House: X (https://x.com/LoopsHouse) | LinkedIn (https://www.linkedin.com/company/loopshouse/)\n\n## Co-Host\n\n## Raajeev Anand (@cryptomargofficial (https://www.instagram.com/cryptomargofficial/))/ TechHybr\n\nRaajeev Anand is an India-based Web3 & AI social media influencer and digital entrepreneur, building at the intersection of emerging technology and community-driven education.\n\nThrough TechHybr, his vision is to build a value-driven ecosystem, powered by Web3 and AI, that brings together content, development, and scale — making complex technology accessible, practical, and actionable for creators, students, and businesses across India.\n\nInsta (https://www.instagram.com/cryptomargofficial/) | X (https://x.com/raajeevanand) | LinkedIn (https://www.linkedin.com/in/raajeevanand/)\n\n## Glimpses of Previous Events\n\n## About Infini3\n\nInfini3 is an events and media platform, built as an IP of 28° North - a boutique strategic advisory firm for early-stage Web3 & AI startups. It brings India's crypto and Web3 ecosystem together across formats, from large-scale IRL events and community meetups to online panels, podcasts, and AMAs. Infini3 turns community participation into collective intelligence - capturing sentiment, insights, and signals from the people actually building and investing in this space.\n\nX (https://x.com/infini3_) | Telegram (https://t.me/goinfini3) | Instagram (https://www.instagram.com/goinfini3)\n\n## About 28° North\n\n28° North is a boutique strategic advisory firm for early-stage Web3 and AI startups, working on scope-based mandates across positioning, product, growth, community, and fundraising. It operates with an operator-first, KRA-driven approach - practical strategy built to execute, not just present. Infini3 is its events and media arm, extending that same structured, outcome-focused thinking into community-building and content formats.",
-    "startDate": "2026-11-01T11:00:00.000Z",
-    "endDate": "2026-11-01T12:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/t2xpm5gj",
-    "registrationUrl": "https://luma.com/t2xpm5gj",
-    "coverImage": "/events/luma-crypto-03ay9mf3wbtvmuc-7405e97d.webp",
-    "source": "luma-crypto",
-    "sideEventFor": [
-      "ibw"
-    ],
-    "descriptionSource": {
-      "url": "https://luma.com/t2xpm5gj",
-      "fetchedAt": "2026-10-30T21:50:01.234Z",
-      "method": "luma-page",
-      "sha256": "27c556da699b7b1ae75627d9be899c739fcb30ece11fff851751043c0768e362"
     }
   },
   {
@@ -1144,27 +1056,6 @@
     }
   },
   {
-    "id": "luma-crypto-tcFoFxwDZkn1fdl",
-    "slug": "bitcoin-me",
-    "name": "Bitcoin Meetup/ Custody Night",
-    "description": "Custody Night: Securing Digital Assets for Individual and Family Offices.\n\nDescription:\n\nHolding crypto is easy. Holding it safely, for yourself or for your clients, is a different Story.\n\nJoin us at Frank’s Records in Central for an evening on institutional-grade crypto custody. Guest speaker from BitGo will explain how qualified custody works, where the real risks are (key management, counterparty exposure, operational errors), and what family offices should look for before taking on digital assets.\n\nWho it’s for: family offices, wealth managers, trustees and anyone responsible for safeguarding digital assets on behalf of others. Large holder that want piece of mind, multi sig and insurance.\n\nWhat you’ll get:\n\n• Drinks and conversation with Hong Kong’s Bitcoin community\n\n• A clear walkthrough of crypto custody models: self-custody, multi-sig and qualified custodians\n• Why custody choices matter for compliance, insurance and peace of mind\n• Live Q&A with BitGo\n\n:\n- : BitGo presentation, “Custodying your digital assets”\nFollowed by Q&A and networking\n\nIn collaboration with\nThe Whale Lounge · BASIC Bitcoin POS · Bitcoin Association of Hong Kong & Bitgo.\n\n Frank’s Records, 7/F, Harilela House, 79 Wyndham Street, Central\n Wednesday 4 November 2026\n\nSpaces are limited, so please register to secure your seat.\n\n Join the Whale Lounge Telegram group https://t.me/+jEZFNPW9SBIwMWQx\n\n Join our Luma calendar https://luma.com/calendar/manage/cal-E5lctISBecgOsy1\n\nOrganized by the Bitcoin Association of Hong Kong × The Whale Lounge hkbitcoincity.com (https://hkbitcoincity.com) thewhalelounge.com (https://thewhalelounge.com) bitcoin.org.hk (https://bitcoin.org.hk)",
-    "startDate": "2026-11-04T10:00:00.000Z",
-    "endDate": "2026-11-04T13:00:00.000Z",
-    "city": "Hong Kong",
-    "country": "Hong Kong",
-    "location": "Hong Kong, Hong Kong",
-    "url": "https://luma.com/kkzppq2b",
-    "registrationUrl": "https://luma.com/kkzppq2b",
-    "coverImage": "/events/luma-crypto-tcfofxwdzkn1fdl-3551331b.webp",
-    "source": "luma-crypto",
-    "descriptionSource": {
-      "url": "https://luma.com/kkzppq2b",
-      "fetchedAt": "2026-10-30T21:50:16.998Z",
-      "method": "luma-page",
-      "sha256": "53cb479f6c53fd17e3d5819caaa5ea31155c8f2363a7f1aaba0c5f6d7f78d527"
-    }
-  },
-  {
     "id": "luma-crypto-j1ZvQzyjxZWRLtd",
     "slug": "35hjl1y5",
     "name": "Web3 Week Asia: Trader & Trencher night",
@@ -1385,44 +1276,6 @@
       "fetchedAt": "2026-10-30T21:50:19.713Z",
       "method": "luma-page",
       "sha256": "0552461a79c7283a2d1bff573dfeb81cee94a51488190438d193c0a2d12bf127"
-    }
-  },
-  {
-    "id": "luma-crypto-hH5qVNRMs3UbwXp",
-    "slug": "krexa-agents-showdown",
-    "name": "Krexa Agents Showdown",
-    "description": "## Krexa Agents Showdown\n\nThe Cursor for trading. Now put your agent to the test.\n\nKrexa lets you turn any trading idea into an AI agent. Choose an existing trading strategy or deploy your own custom strategy, then let your agent trade across venues and markets, from crypto and stocks to prediction markets.\n\nNow, it's time to see whose strategy comes out on top.\n\nWelcome to Krexa Agents Showdown, a competition where AI trading agents go head-to-head on Krexa. Deploy your strategy, compete against other participants, and climb the leaderboard by generating the highest profit.\n\nNo real money at stake. Just your strategy against everyone else's\n\nHow It Works\n\n1. Choose Your Strategy\n\nStart with an existing trading strategy on Krexa or bring your own custom strategy. Build your approach around how you think the markets will move.\n\n2. Deploy Your Agent\n\nPut your strategy to work. Your AI agent can trade across supported venues and markets, including crypto, stocks, and prediction markets.\n\n3. Trade With Krexa Cash\n\nYour agent trades using Krexa Cash, Krexa's simulated trading funds. Experiment with strategies and compete without risking real trading capital.\n\n4. Climb the Leaderboard\n\nYour agent's performance is measured by profit and loss (PnL). Generate the highest profit and claim your spot at the top\n\n🏆 Prize Pool: $600\n\nThree spots. One leaderboard. Make them count.\n\n🥇 1st Place: $300\n🥈 2nd Place: $200\n🥉 3rd Place: $10\n\nWho Can Participate?\n\nAnyone, anywhere.\n\nWhether you're a trader, an AI builder, a developer, or someone curious about autonomous trading, you're welcome. You don't need to build everything from scratch. Start with an existing strategy or deploy your own.\n\nFree to enter. Open worldwide. No real trading capital required\n\nCompetition Details\n\n• Entr\n\nFree\n• Trading funds: Krexa Cash (simulated funds)\n• Markets: Crypto, stocks, prediction markets, and other markets supported by Krexa\n• Strategies: Existing strategies or custom strategies\n• Leaderboard: Ranked by profit and loss (PnL)\n• Duration: Multiple days; exact dates to be announced\n• Total prize pool: $60\n\nHow to Participate\n\nJoin the Krexa Discord to get competition updates and instructions on how to participate.\n\nJoin Discord: https://discord.gg/BermYSwseM\n\nExplore Krexa: https://www.krexa.xyz\n\nThe Showdown Begins\n\nEvery participant has a strategy. Every agent gets its shot.\n\nDeploy yours. Trade with Krexa Cash. Beat the leaderboard.\n\nLet's see whose agent wins.",
-    "startDate": "2026-11-05T04:00:00.000Z",
-    "endDate": "2026-11-05T11:00:00.000Z",
-    "location": "Location to be announced",
-    "url": "https://luma.com/8qbzuam8",
-    "registrationUrl": "https://luma.com/8qbzuam8",
-    "coverImage": "/events/luma-crypto-hh5qvnrms3ubwxp-e03dca2b.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "tejas keshwani",
-      "Yatharth Kher"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Kolkata",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/8qbzuam8",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/8qbzuam8",
-      "eventId": "evt-hH5qVNRMs3UbwXp",
-      "fetchedAt": "2026-10-30T18:49:21.314Z",
-      "method": "luma-page"
     }
   },
   {
@@ -1659,27 +1512,6 @@
     }
   },
   {
-    "id": "luma-crypto-AvNFzDNPSKFXge2",
-    "slug": "bn9y6z5y",
-    "name": "CryptoMondays Berlin — Edition #2",
-    "description": "Q4 Market Update — where crypto stands going into year-end\n\nCryptoMondays (https://www.cryptomondays.io/?utm_source=luma) is a global network of city chapters where crypto and AI people meet in real life, on Mondays. This is the Berlin chapter's second edition — CMB #02.\n\nBitcoin just had its strongest Q3 since 2017, and Q4 has the best track record of any quarter. It also produced last year's −23%.\n\nEdition 02 is a 20-minute, no-hype read of where the market actually stands: flows, cycle position, and what the seasonality data does and doesn't say. Then your questions, then the room.\n\nFounders, devs, investors, researchers, and the crypto-curious all welcome. Bring one person who'd enjoy the room.\n\nThe night\n\n• 18:30 — Doors, drinks\n• 19:00 — Welcome by Rapha & Mike\n• 19:10 — 20-second introductions\n• 19:30 — Q4 Market Update\n• 19:50 — Q&A, then open room\n• 21:30 — Soft close (bar's open until 1)\n\nJoin the CryptoMondays Berlin Telegram: t.me/cryptomondaysberlin (https://t.me/cryptomondaysberlin?utm_source=luma)\n\nA market read, not financial advice.\n\nSponsor, speak, or help run it? Let us know here (https://forms.gle/ZeRkUm6bWCFFNyAg7?utm_source=luma).\n\nHosted by Rapha & Mike – Chapter Champions, part of the global CryptoMondays (https://www.cryptomondays.io/?utm_source=luma) network.",
-    "startDate": "2026-11-09T17:30:00.000Z",
-    "endDate": "2026-11-09T20:30:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "GRAND BAR - Restaurant | Bar | Lounge | Event-Lokation in Berlin-Mitte, Oranienburger Str. 33, 10117 Berlin, Germany",
-    "url": "https://luma.com/bn9y6z5y",
-    "registrationUrl": "https://luma.com/bn9y6z5y",
-    "coverImage": "/events/luma-crypto-avnfzdnpskfxge2-5bab607c.webp",
-    "source": "luma-crypto",
-    "descriptionSource": {
-      "url": "https://luma.com/bn9y6z5y",
-      "fetchedAt": "2026-10-30T21:50:25.544Z",
-      "method": "luma-page",
-      "sha256": "fd01e799806430884012cf324f4c2e1a575e220550afe8b272722d694d96d84a"
-    }
-  },
-  {
     "id": "luma-crypto-hEPVDHswwbLlwGV",
     "slug": "riserva-lo",
     "name": "Riserva London | Digital Assets under pressure: Sanctions, Enforcement and Economic Crime, Fireside with Fieldfisher.",
@@ -1747,51 +1579,6 @@
     }
   },
   {
-    "id": "luma-crypto-DUJsmWZeCMAMyn8",
-    "slug": "bnb-builde",
-    "name": "BNB Builder Sessions, Paris🇫🇷",
-    "description": "## BNB Builder Sessions Paris An evening for people building for real. Meet other builders from the Paris scene, connect with the local community, and walk out with something concrete: your own AI agent running onchain. The main event is a hands-on workshop on BNB Agent Studio, BNB Chain’s tool for creating and deploying onchain AI agents. It is led by Ramzy Chibani, BNB Chain DevRel Ambassador, alongside Gwenolé Martin, DevRel at BNB Chain. You describe what you want your agent to do in plain language, straight from Cursor or Claude Code, and let it run. Your agent gets its own wallet, an onchain identity (ERC-8004), and even pays for its own LLM calls. Full TypeScript support (no Python needed). No Web3 background required. Engineer, business student or designer, the AI does the heavy lifting so you can focus on what your agent actually does. You leave with your own BNB agent up and running. The best agents of the night win exclusive BNB prizes, and there’s plenty of exclusive merch for everyone. Free pizza and drinks for all Bring your laptop with Cursor or Claude Code installed Join the community: https://t.me/BNBChainFRdevs Follow us on X: https://x.com/BNBCHAIN",
-    "descriptionSource": {
-      "url": "https://luma.com/0wcr8wu7",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "BNB Builder Sessions, Paris🇫🇷 · Luma",
-      "sha256": "bd756f9eda1b7f902adde4f2cea3bd8f19abb2dca555a58faf56d7b92ed527e1"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/0wcr8wu7",
-      "eventId": "evt-DUJsmWZeCMAMyn8",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-10T16:30:00.000Z",
-    "endDate": "2026-11-10T19:00:00.000Z",
-    "city": "Nanterre",
-    "country": "France",
-    "location": "IIM - Institute of Internet and Multimedia, 47 Bd de Pesaro, 92000 Nanterre, France",
-    "timezone": "Europe/Paris",
-    "url": "https://luma.com/0wcr8wu7",
-    "registrationUrl": "https://luma.com/0wcr8wu7",
-    "coverImage": "/events/luma-crypto-dujsmwzecmamyn8-bebaa52a.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Ramzy",
-      "DeVinci Blockchain"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "registrationAvailability": "waitlist",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "addressLocality": "Nanterre",
-    "addressRegion": "Île-de-France",
-    "addressCountry": "FR",
-    "coordinates": {
-      "latitude": 48.893571699999995,
-      "longitude": 2.2269574
-    }
-  },
-  {
     "id": "luma-crypto-jEn9I5Fjm0SeLWn",
     "slug": "investire",
     "name": "INVESTIRE IN ASSET DIGITALI:CHI, COME, DOVE,QUANDO E PERCHÉ?",
@@ -1836,56 +1623,6 @@
     "coordinates": {
       "latitude": 45.4806084,
       "longitude": 9.211757
-    }
-  },
-  {
-    "id": "luma-crypto-fNTbI5gPkGjWs4W",
-    "slug": "binance-un",
-    "name": "Binance University Tour CESA",
-    "description": "## EL CESA SE CONECTA CON EL FUTURO | CIERRE DEL CLUB DE FINANZAS Cerramos el semestre del Club de Finanzas del CESA conectándonos con el futuro del dinero, la innovación y la tecnología. Llega al CESA el Binance University Tour, una experiencia educativa y llena de comunidad para explorar el ecosistema cripto, conocer nuevas oportunidades y descubrir las tendencias que están transformando el mundo financiero\n\n¿QUÉ ES EL BINANCE UNIVERSITY TOUR? Es una experiencia diseñada para aprender, conectar con personas interesadas en el mundo financiero y explorar las tecnologías que están redefiniendo la manera en que entendemos el dinero. De la mano de Binance, una de las plataformas líderes del ecosistema cripto a nivel global, tendremos la oportunidad de acercarnos a temas como: Binance | Trading | Criptomonedas | Web3 e innovació\n\nCERREMOS EL SEMESTRE CONECTÁNDONOS CON EL FUTURO Este encuentro será el espacio de cierre del Club de Finanzas del CESA: una oportunidad para compartir lo aprendido, ampliar nuestra perspectiva sobre las finanzas y explorar las tendencias que están marcando el futuro de la industria. No importa si ya haces parte del mundo cripto o si apenas quieres empezar a conocerlo: ¡este espacio es para ti! Lugar: Biblioteca CESA Evento de cierre del Club de Finanzas ¡Te esperamos para aprender, conectar y cerrar el semestre mirando hacia el futuro! Únete al grupo de Telegram de Binance en Español (https://t.me/+SM3JSRbBf-RkNmFl?utm_source=luma) y al canal de WhatsApp (https://whatsapp.com/channel/0029Vb787VhKwqSYDwddza2u?utm_source=luma) para más información. Síguenos en X (https://x.com/BinanceLATAM?utm_source=luma), Instagram (https://www.instagram.com/binancelatam/?utm_source=luma), Facebook (https://www.facebook.com/Binancelatam/?utm_source=luma). Además, tendremos merch oficial de Binance y algunas sorpresas para los asistentes. Cupos limitados – Las puertas abren a las 11:30 AM ¡No te quedes por fuera de esta experiencia Binance en Bogotá e invita a tu amigo que aún no sabe de cripto! Nov 09, 2026 Universidad CESA ¿No tienes cuenta de Binance? Registrate acá (https://www.binance.com/es-LA/referral/earn-together/refer2earn-usdc/claim?hl=es-LA&ref=GRO_28502_BAF2A&utm_source=default) y obten 15% de descuento en fees de trading de por vida",
-    "descriptionSource": {
-      "url": "https://luma.com/7ya8sg5d",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Binance University Tour CESA · Luma",
-      "sha256": "dcef8faae05542613fcd50a6b95e91aa09e28e02a1750a9a928953f0047767ba"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/7ya8sg5d",
-      "eventId": "evt-fNTbI5gPkGjWs4W",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-10T17:00:00.000Z",
-    "endDate": "2026-11-10T19:00:00.000Z",
-    "city": "Bogotá",
-    "country": "Colombia",
-    "location": "Cra. 6 #34-51, Santa Fé, Bogotá, Colombia",
-    "timezone": "America/Bogota",
-    "url": "https://luma.com/7ya8sg5d",
-    "registrationUrl": "https://luma.com/7ya8sg5d",
-    "coverImage": "/events/luma-crypto-fntbi5gpkgjws4w-81fb611b.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Binance Latinoamérica",
-      "Natalie Abuchaibe"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Binance Latam",
-      "url": "https://Binance.com"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "addressLocality": "Bogotá",
-    "addressRegion": "Bogotá",
-    "addressCountry": "CO",
-    "neighborhood": "Santa Fé",
-    "coordinates": {
-      "latitude": 4.6217293999999995,
-      "longitude": -74.0662317
     }
   },
   {
@@ -2186,45 +1923,6 @@
       "latitude": 41.3895249,
       "longitude": 2.1215655
     }
-  },
-  {
-    "id": "luma-crypto-7hiETCq4qdL9EWQ",
-    "slug": "p2p-org-ex",
-    "name": "P2P.org | Executive Dinner at Spark 2026, Barcelona",
-    "description": "## An Evening Where Influence Takes Its Seat On 10 November, during SPARK ‘26, we invite you to a private dinner in the heart of Barcelona. SPARK brings together leaders from banking, payments and digital assets, and P2P.org (https://P2P.org) invites you to step away from the conference floor for the evening. The dinner will take place in one of Barcelona’s most distinguished dining rooms, where Mediterranean cuisine, Catalan character and the city’s timeless sense of style make for a warm and refined setting. It is an intimate evening for a carefully curated circle of founders, investors and industry leaders. Expect the kind of conversation that rarely happens between sessions, and that often shapes what comes next. We look forward to welcoming you to a dinner reserved for those shaping the future of finance. Access is intentional, and every guest is chosen with care. Date: 10 November ⏰ Time: 8:30 PM Location: Barcelona (venue revealed to confirmed guests) This is an invite-only gathering. Only approved guests with the event QR code will be granted access\n\nImportant Information • Dress code: Business casual • Invitations are non-transferable • Registration must use a professional email (personal domains will be declined automatically) • No +1s permitted (this is a seated dinner, and access is reserved for confirmed guests) Please request your attendance by registering below. For any questions or further details, feel free to reach out. About P2P.org (https://p2p.org/?utm_source=luma): P2P.org (https://p2p.org/?utm_source=luma) stands at the forefront of institutional staking, transforming digital asset participation through our pioneering “Staking-as-a-Business” approach. With over $10 billion in staked and restaked assets spread across more than 40 blockchains, P2P.org (https://P2P.org) has built a thriving ecosystem that serves over 90,000 delegators and hundreds of institutional clients. P2P.org (https://P2P.org)’s commitment to technological excellence and performance optimization consistently delivers a superior staking experience, while the unified API simplifies the complex world of multi-chain staking, enabling institutions to access optimized solutions across 30+ chains through a single integration. For more information, please visit: www.p2p.org (https://www.p2p.org) Telegram: @P2Pstaking LinkedIn: p2p-org (https://www.linkedin.com/company/p2p-org/posts/?feedView=all&utm_source=luma) Follow us on X: @P2Pvalidator (https://x.com/p2pvalidator?utm_source=luma) Privacy notice: www.p2p.org/privacy-policy (https://www.p2p.org/privacy-policy) Disclaimer: By registering, you acknowledge that P2P.org (https://P2P.org) will process your registration details to organise, run and evaluate the event, based on its legitimate interests. P2P.org (https://P2P.org) is using the platform Luma (lu.ma (https://lu.ma)) to manage registrations for this event. Please note that your data may be processed outside the EU/EEA. Luma Inc.’s own terms and conditions, including those relating to data processing, may also apply. Notice on Photography Please be aware that photography and filming may take place during the event. By attending, you agree to be filmed or photographed, and for such content to be used without compensation.",
-    "descriptionSource": {
-      "url": "https://luma.com/pwb6hwx9",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "P2P.org | Executive Dinner at Spark 2026, Barcelona · Luma",
-      "sha256": "10fc2d7d075c521db857ece5d320ff28f88316a4168aca66f744777784ed42d9"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/pwb6hwx9",
-      "eventId": "evt-7hiETCq4qdL9EWQ",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-10T19:30:00.000Z",
-    "endDate": "2026-11-10T22:30:00.000Z",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "Barcelona, Spain",
-    "timezone": "Europe/Madrid",
-    "url": "https://luma.com/pwb6hwx9",
-    "registrationUrl": "https://luma.com/pwb6hwx9",
-    "coverImage": "/events/luma-crypto-7hietcq4qdl9ewq-7cbf63a5.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Guillermo Geraldo",
-      "Artemiy"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true
   },
   {
     "id": "luma-crypto-hSU6qvE6oZIX0Le",
@@ -3246,49 +2944,6 @@
     "locationHidden": true
   },
   {
-    "id": "luma-crypto-GP7pouWMNMcBR92",
-    "slug": "whitepaper",
-    "name": "Whitepaper Reading Club NYC: Hooks on Uniswap V4",
-    "description": "## Whitepaper Reading Club × Open Note Labs November Edition: Uniswap v4 Hooks For November's edition of Whitepaper Reading Club, we're partnering with Open Note Labs (https://on-labs.org/)to dive into Uniswap v4 Hooks and the expanding design space they enable. Uniswap v4 introduces hooks: customizable smart contracts that execute at specific points in a liquidity pool's lifecycle. By allowing developers to extend pool behavior without modifying the underlying protocol, hooks open up new possibilities for automated market makers, liquidity management, and onchain financial applications. We'll explore the architecture behind Uniswap v4, how hooks work, and what this new levels can be unlocked for the future of programmable finance. Discussion topics include: • Hooks and the Uniswap v4 architecture • Dynamic fees, custom accounting, and liquidity management • New mechanisms for market making and onchain trading • Emerging applications and design possibilities enabled by hooks Reading: Uniswap v4 Core Whitepaper (https://app.uniswap.org/whitepaper-v4.pdf\n\nModerator: Ryan Hall Ryan has been at Chainlink working on their smart contract since 2018. He then lea smart contract development at Lagrange and now at Polymarket. He's one of the best engineers that I know and knows Solidity like the back of his hand :\n\nAbout Whitepaper Reading Club We are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas. Learn more: Website (https://wprc.club/?utm_source=luma) · Summaries (https://www.wprc.club/papers?utm_source=luma) · Calendar (https://luma.com/whitepaper)",
-    "descriptionSource": {
-      "url": "https://luma.com/5f4ucacx",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Whitepaper Reading Club NYC: Hooks on Uniswap V4 · Luma",
-      "sha256": "b120935751d3c538c60257e4a6cd1964925624ef8e5e6b59c3928c929576095c"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/5f4ucacx",
-      "eventId": "evt-GP7pouWMNMcBR92",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-11T23:00:00.000Z",
-    "endDate": "2026-11-12T01:00:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, United States",
-    "timezone": "America/New_York",
-    "url": "https://luma.com/5f4ucacx",
-    "registrationUrl": "https://luma.com/5f4ucacx",
-    "coverImage": "/events/luma-crypto-gp7pouwmnmcbr92-e6f3c85f.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Lauren Harrington",
-      "Whitepaper Reading Club"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Open Note Labs",
-      "url": "https://discord.gg/apyGeyHxM"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true
-  },
-  {
     "id": "luma-crypto-kEZJAuuJhn19a2o",
     "slug": "africa-sta",
     "name": "Africa Stablecoin Summit 2026 Media Invite",
@@ -3702,56 +3357,6 @@
     }
   },
   {
-    "id": "luma-crypto-0hz2AvZ2012eFPh",
-    "slug": "dctrl-free",
-    "name": "DCTRL - Free Coworking & Open House #2",
-    "description": "Swing by DCTRL for a free day of coworking. Here's what you can expect: ➡️ Full workstations, lounge areas, and public tables are available however you like to work. ➡️ Coffee, water, and snacks will be provided. ➡️ Network and connect with other blockchain, crypto, and AI builders in Vancouver ➡️ Like what you see? Become a full time member at https://dctrl.wtf/join Attendance is free, approval required. For more info, join our telegram group: https://t.me/+8HImfBOQJSJlNzA\n\nEvent details\n\nDate: Nov 12, 2026, 10:00 (America/Vancouver)\nVenue: DCTRL\nHosts: DCTRL\nOrganised by: Vancouver Crypto Events\nTickets: Free\nRegistration: open (approval required)\nFull-time DCTRL membership is available for builders who want a permanent desk (https://dctrl.wtf/join).\nEvent page: https://luma.com/4omcpn9h",
-    "descriptionSource": {
-      "url": "https://luma.com/4omcpn9h",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "event-jsonld",
-      "pageTitle": "DCTRL - Free Coworking & Open House #2 · Luma",
-      "sha256": "48c38cff227936e2ee2422d1ef6b27cded35aba10f87ddf9cb5df867e343ce4f"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/4omcpn9h",
-      "eventId": "evt-0hz2AvZ2012eFPh",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-12T17:00:00.000Z",
-    "endDate": "2026-11-13T01:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada",
-    "timezone": "America/Vancouver",
-    "url": "https://luma.com/4omcpn9h",
-    "registrationUrl": "https://luma.com/4omcpn9h",
-    "coverImage": "/events/luma-crypto-0hz2avz2012efph-fadfa4b1.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "DCTRL"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Vancouver Crypto Events",
-      "url": "https://luma.com/yvr"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "streetAddress": "328 W Hastings St, Vancouver",
-    "addressLocality": "Vancouver",
-    "addressRegion": "British Columbia",
-    "addressCountry": "CA",
-    "neighborhood": "Downtown Vancouver",
-    "coordinates": {
-      "latitude": 49.282975099999994,
-      "longitude": -123.11064370000001
-    }
-  },
-  {
     "id": "luma-crypto-jPq39opsgYINrhk",
     "slug": "scrypt-x-t",
     "name": "SCRYPT x Tether, Cape Town",
@@ -4031,56 +3636,6 @@
     }
   },
   {
-    "id": "luma-crypto-a8d6XmtLvVlBCHQ",
-    "slug": "decentrali",
-    "name": "Decentralized, Not Unregulated: Perps Trading on Hyperliquid in Canada",
-    "description": "This week, we're excited to welcome Stephen Pederson of Pederson Law for a discussion on the rapidly evolving legal landscape of perpetual futures trading in Canada. Perps are one of the hottest narratives in crypto right now. Spearheaded by Hyperliquid and rapidly adopted by Lighter (Ethereum), Aster (Binance), Fomo (Solana), and many more, perpetual futures are reshaping how people trade onchain. But decentralized doesn't mean unregulated. As decentralized derivatives markets grow, so do the legal and regulatory questions surrounding them. What does Canadian law say about trading perps? How does regulation apply to decentralized platforms like Hyperliquid? And what should Canadian traders, builders, and protocol operators know? Join us for a practical, Canada-focused conversation with a lawyer working at the intersection of blockchain and financial regulation. Come with your questions\n\nThe presentation will be live streamed on: • https://www.youtube.com/@DCTRL • https://www.twitch.tv/dctrlvan • https://x.com/dctrlva\n\nAbout Pederson Law Pederson Law is a Vancouver-based law firm providing fractional legal services, specializing in smart contracts, blockchain law, and emerging technologies. • https://www.linkedin.com/in/stephenpedersonblockchain/ • Telegram: @Stevep_defilegal",
-    "descriptionSource": {
-      "url": "https://luma.com/pss6bafw",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Decentralized, Not Unregulated: Perps Trading on Hyperliquid in Canada · Luma",
-      "sha256": "2a1576b1a4a428db2f61ccadeb1b541ea354eea6074e44e66a1b062cec78748f"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/pss6bafw",
-      "eventId": "evt-a8d6XmtLvVlBCHQ",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-13T01:00:00.000Z",
-    "endDate": "2026-11-13T04:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada",
-    "timezone": "America/Vancouver",
-    "url": "https://luma.com/pss6bafw",
-    "registrationUrl": "https://luma.com/pss6bafw",
-    "coverImage": "/events/luma-crypto-a8d6xmtlvvlbchq-9fee9bb4.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "DCTRL"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Vancouver Crypto Events",
-      "url": "https://luma.com/yvr"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "streetAddress": "328 W Hastings St, Vancouver",
-    "addressLocality": "Vancouver",
-    "addressRegion": "British Columbia",
-    "addressCountry": "CA",
-    "neighborhood": "Downtown Vancouver",
-    "coordinates": {
-      "latitude": 49.282975099999994,
-      "longitude": -123.11064370000001
-    }
-  },
-  {
     "id": "luma-crypto-GYIjyF0zTE2V3qE",
     "slug": "singapore",
     "name": "SINGAPORE BLOCKCHAIN WEEK",
@@ -4267,26 +3822,6 @@
     "coordinates": {
       "latitude": 48.1761151,
       "longitude": 16.3953038
-    }
-  },
-  {
-    "id": "luma-crypto-o1VjeTTkG1mOb1K",
-    "slug": "no-vibesta",
-    "name": "NO VibeStation due to Breakpoint",
-    "description": "Due to Breakpoint 2026 there will be no coworking on November 13 and 20. For more info, join the Solana Canada telegram group: https://t.me/+Dm3WujI--Go1ZjQ0 By signing up to this event you agree that Superteam Canada can contact you about future events, major news, and more.\n\nAbout the organiser: Building the Solana ecosystem in Canada 🇨\ud83c\n\nTickets Standar\n\nEvent details\n\nDate: Nov 13, 2026, 09:30 (America/Toronto)\nVenue: No Coworking This week\nHosts: Superteam Canada\nOrganised by: Superteam Canada\nAbout the organiser: Building the Solana ecosystem in Canada 🇨🇦\nTicket types: Standard\nTickets: Free\nRegistration: requires approval from the organiser\nEvent page: https://luma.com/7pr0syfy",
-    "startDate": "2026-11-13T14:30:00.000Z",
-    "endDate": "2026-11-13T23:00:00.000Z",
-    "location": "No Coworking This week",
-    "url": "https://luma.com/7pr0syfy",
-    "registrationUrl": "https://luma.com/7pr0syfy",
-    "coverImage": "/events/luma-crypto-o1vjettkg1mob1k-c931d5da.webp",
-    "source": "luma-crypto",
-    "descriptionSource": {
-      "url": "https://luma.com/7pr0syfy",
-      "fetchedAt": "2026-11-10T19:33:14.856Z",
-      "method": "official-section",
-      "pageTitle": "NO VibeStation due to Breakpoint · Luma",
-      "sha256": "b47a1d2d8486b6af9051a4ba1602911e9173975a9be8035c59310552644829b0"
     }
   },
   {
@@ -5043,31 +4578,6 @@
     ]
   },
   {
-    "id": "luma-crypto-5f8DApeYV9EOQrM",
-    "slug": "solana-fit",
-    "name": "Solana Fitness Zone: Content Freestyle | Breakpoint 2026",
-    "description": "After each day of the Solana Fitness Zone, we’re hosting a Content Freestyle at the fitness studio for creators. It’s a quiet space away from the conference floor. Use the studio however you like and record at your own pace, with no interruptions.\n\nThe best content of the week will be entered to win Cudis rings or a limited-edition Solana yoga mat. To enter, post before Tuesday, November 17th and tag @getofflinexyz on X or Instagram.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
-    "startDate": "2026-11-15T12:00:00.000Z",
-    "endDate": "2026-11-15T13:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/sfzfreestyle1",
-    "registrationUrl": "https://luma.com/sfzfreestyle1",
-    "coverImage": "/events/luma-crypto-5f8dapeyv9eoqrm-8b1b044f.webp",
-    "source": "luma-crypto",
-    "descriptionSource": {
-      "url": "https://luma.com/sfzfreestyle1",
-      "fetchedAt": "2026-10-30T21:50:30.862Z",
-      "method": "luma-page",
-      "sha256": "6c437ec698254caebd58cfe6df4a01838a6abe8278eae2817d487eef37061442"
-    },
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
-  },
-  {
     "id": "luma-crypto-wn8SyNyFo4vuzqM",
     "slug": "sunnys-sun",
     "name": "Sunny’s Sunday Lunch (ft. Brave & Flipcash)",
@@ -5560,31 +5070,6 @@
     }
   },
   {
-    "id": "luma-crypto-0Sn4QB5KWkR4LeX",
-    "slug": "solana-fitkzh",
-    "name": "Solana Fitness Zone: Group Reiki Experience | Breakpoint 2026",
-    "description": "Join us at Solana Fitness Zone at Breakpoint London 2026 for a Group Reiki Experience led by Jennifer, Canadian Certified Counsellor and Reiki Master, from Echo Alignment for founders + builders, hosted by Solana Foundation (https://solana.org/) x OFFLINE (https://x.com/getofflinexyz?utm_source=luma).\n\nWhat’s reiki? A Japanese relaxation practice where a practitioner uses gentle, light touch or hovering hands to promote calm and balance. In this hands-off group session, you’ll simply lie back, breathe, and unwind. It’s a chance to slow down, reset, and recharge before the conference day ahead. No experience needed.\n\n Wear comfortable clothes, come as you are and bring an open mind. You can RSVP with a paid or free ticket.\n\nA paid ticket guarantees entry. Free tickets will be approved closer to the event, once we have a clear headcount. Please RSVP only if you plan to attend.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\nSolana Spaces (https://solanaspaces.com/?utm_source=luma) is the commerce layer of Solana.\n\nCUDIS (https://www.cudis.xyz/?utm_source=luma) is the first AI smart ring that rewards your wellness journey.\n\nEcho Alignment (https://www.echoalignment.com/) is a counselling and Reiki practice helping people feel present, grounded, and aligned with what matters most.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
-    "startDate": "2026-11-16T11:00:00.000Z",
-    "endDate": "2026-11-16T12:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/kzh1qgwg",
-    "registrationUrl": "https://luma.com/kzh1qgwg",
-    "coverImage": "/events/luma-crypto-0sn4qb5kwkr4lex-d789b5c2.webp",
-    "source": "luma-crypto",
-    "descriptionSource": {
-      "url": "https://luma.com/kzh1qgwg",
-      "fetchedAt": "2026-10-30T21:50:32.610Z",
-      "method": "luma-page",
-      "sha256": "ed09afd1edc46a18e8100cae434225f0b95e5dda5fe84848de4922363b29ef90"
-    },
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
-  },
-  {
     "id": "luma-crypto-C2fgopLuR1HroT9",
     "slug": "zebu-live",
     "name": "Zebu Live Arms: A Great British Pub Takeover, presented by AlphaWire",
@@ -5683,31 +5168,6 @@
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": true
-  },
-  {
-    "id": "luma-crypto-ye20BagHxEHh8CO",
-    "slug": "solana-fitsfz",
-    "name": "Solana Fitness Zone: Content Freestyle | Breakpoint 2026",
-    "description": "After each day of the Solana Fitness Zone, we’re hosting a Content Freestyle at the fitness studio for creators. It’s a quiet space away from the conference floor. Use the studio however you like and record at your own pace, with no interruptions.\n\nThe best content of the week will be entered to win Cudis rings or a limited-edition Solana yoga mat. To enter, post before Tuesday, November 17th and tag @getofflinexyz on X or Instagram.\n\nThank You to Our Partners \n\nSolana Foundation (https://solana.org/?utm_source=luma) is a non-profit dedicated to the decentralization, adoption, and security of the Solana ecosystem.\n\nOFFLINE (https://x.com/getofflinexyz?utm_source=luma) is a 9,200-person tech community of founders, investors & developers building real connections through in-person experiences across tech and crypto.\n\n​​​ Want to be a brand partner? DM @lenagrundhoefer on Telegram\n Follow us on X (https://x.com/getofflinexyz?utm_source=luma) & join OFFLINE's Telegram (https://t.me/+CIWB42TlHCE0MDVh?utm_source=luma) for more",
-    "startDate": "2026-11-16T12:00:00.000Z",
-    "endDate": "2026-11-16T13:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/sfzfreestyle2",
-    "registrationUrl": "https://luma.com/sfzfreestyle2",
-    "coverImage": "/events/luma-crypto-ye20baghxehh8co-c649d6cd.webp",
-    "source": "luma-crypto",
-    "descriptionSource": {
-      "url": "https://luma.com/sfzfreestyle2",
-      "fetchedAt": "2026-10-30T21:50:33.499Z",
-      "method": "luma-page",
-      "sha256": "6c437ec698254caebd58cfe6df4a01838a6abe8278eae2817d487eef37061442"
-    },
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
   },
   {
     "id": "luma-crypto-N3VlwqkgeWkkeCW",
@@ -5924,31 +5384,6 @@
     "coordinates": {
       "latitude": 51.4936094,
       "longitude": -0.21532859999999998
-    },
-    "sideEventFor": [
-      "breakpoint",
-      "solana-breakpoint"
-    ]
-  },
-  {
-    "id": "luma-crypto-QRCPU4eBHlR2IuK",
-    "slug": "money-laye",
-    "name": "Money Layer @Breakpoint🇬🇧 Week",
-    "description": "MONEY LAYER @ LONDON 2026\nMoney. Markets. Machines.\n16 November 2026 · 6:30–10:00 PM\nDuring Breakpoint London\nMoney Layer brings together the companies building the financial stack, the companies buying it, and the capital funding it.\nExpect founders, funds, market makers, exchanges, asset managers, fintechs, protocols and senior operators from across Breakpoint week.\n\nTHE EVENING\n\nWE'VE BUILT THESE ROOMS BEFORE\nPrevious Capvise Global editions have run across Singapore, Dubai, Bali and Buenos Aires, recording 6,400+ applications.\n\nFrom intimate founder-investor rooms to larger conference-week programmes, the same team is now bringing MONEY LAYER to London.\n\nPARTNER WITH MONEY LAYER\nIf your company is building around money, markets or machines, this is the room we want you positioned in.\nPartners can join:\nSeries and city partnerships available.\nPresenting · Money · Markets · Machines · Exchange · After Dark\nPartnership deck available on request.\n global@capvise.group\n Telegram: @sahilxdev\n\nBy Capvise Global\nA Capvise Group venture\nJoin the Capvise community:\nt.me/capvise\n\nPREVIOUS ROOMS\n\nSomnia @DevCon - https://luma.com/event/evt-WFNiDfBFqV8ZhlT\nFounder x VC Happy Hour - Blockchain Life 2025 - https://luma.com/event/evt-UKTgDW8LlFAEVL1\nFounder x VC Summit | Demo Day & Pitching Competition | (Day 1) - https://luma.com/event/evt-i7dL255UYQ1mcXz\nFounder x VC Happy Hour @Coinfest Asia 2025 - https://luma.com/event/evt-UobDq68RX95zrHl\nFounder x VC Summit | Happy Hour (Day 2) - https://luma.com/event/evt-7WvR4SOJEkXsbfV\nFounder x VC Summit | Closing Ceremony (Day 3) - https://luma.com/event/evt-IGYgOb2W1SmbPjr",
-    "startDate": "2026-11-16T18:30:00.000Z",
-    "endDate": "2026-11-16T22:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://luma.com/xykfcf1a",
-    "registrationUrl": "https://luma.com/xykfcf1a",
-    "coverImage": "/events/luma-crypto-qrcpu4ebhlr2iuk-30db811c.webp",
-    "source": "luma-crypto",
-    "descriptionSource": {
-      "url": "https://luma.com/xykfcf1a",
-      "fetchedAt": "2026-10-30T21:50:34.436Z",
-      "method": "luma-page",
-      "sha256": "f37c32094396dc8d5dcec9f22e4f33927a438e48e066b151e6f4ccad68428cf2"
     },
     "sideEventFor": [
       "breakpoint",
@@ -6564,53 +5999,6 @@
       "Singapore Blockchain Week (SBW)"
     ],
     "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true
-  },
-  {
-    "id": "luma-crypto-1qQKoBtjDhui9Zr",
-    "slug": "claude-onc",
-    "name": "Claude for OnChain Apps, Agents and Blockchain data | PRE-SFF Side Event 2026",
-    "description": "## ClaudeSG Community x QuickNode An evening for Web3 builders using A\n\nPRE-SFF Side Event 2026 Turn Claude into your On-Chain research agent. In this hands-on workshop, you'll connect Claude to live blockchain data with the Quicknode connector and build a read-only trading copilot, step by step: • Investigate any wallet: where its funds came from, who it trades with, and who might be behind it. • Check whether a token is safe before you touch it. • Combine both into a copilot that tracks smart-money wallets and flags trade ideas with its reasonin\n\nExclusive appearance from Quicknode architects\n\n:\n- What is Quicknode? Introduction on reading Blockchain data Why it is useful? LIVE Blockchain/Token data access with Claude Trade better with blockchain data of the Tokens you trade Check anyone's wallet and where its funds are from Checking for safety in Web3 Tokens ...More! No coding experience needed. You'll leave with a working copilot you can keep using at home, plus 1 month of Quicknode's Build plan free\n\nWho should come: Web3 developers, founders, and anyone curious about AI x blockchain. Check out our sites: www.claudecode.sg (https://www.claudecode.sg) www.claudearchitects.org (https://www.claudearchitects.org) Join our Telegram Community: T.me/claudesg (https://T.me/claudesg)",
-    "descriptionSource": {
-      "url": "https://luma.com/claudesgxquicknode",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Claude for OnChain Apps, Agents and Blockchain data | PRE-SFF Side Event 2026 · Luma",
-      "sha256": "960e204fda83d24c389c602acc9961ac17eacd86740f19d2a21f2e4438409345"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/claudesgxquicknode",
-      "eventId": "evt-1qQKoBtjDhui9Zr",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-17T08:30:00.000Z",
-    "endDate": "2026-11-17T10:30:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "timezone": "Asia/Singapore",
-    "url": "https://luma.com/claudesgxquicknode",
-    "registrationUrl": "https://luma.com/claudesgxquicknode",
-    "coverImage": "/events/luma-crypto-1qqkobtjdhui9zr-ebea493e.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Kimberly Tan",
-      "Freddy Lim",
-      "Angeline D",
-      "Marcus Kok",
-      "Quicknode"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Claude SG Community",
-      "url": "https://claudecode.sg"
-    },
-    "price": "Free",
-    "approvalRequired": true,
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
@@ -8715,50 +8103,6 @@
     "locationHidden": true
   },
   {
-    "id": "luma-crypto-mtGOY2CrC193nlv",
-    "slug": "after-hour01k",
-    "name": "After Hours @ Fintech Week 🚀",
-    "description": "## After Hours @ Fintech Week Timing is 10pm - 6am Complimentary admission timing: 10pm - 12am (subject to capability limit) Join us for an unforgettable evening at the Marquee, where we hosts an exclusive after-party to celebrate the success of the Singapore FinTech Festival. This glamorous event will bring together industry leaders, innovators, and enthusiasts for an evening of networking, entertainment, and celebration. Highlights: • Live Music and Entertainment: Enjoy a night of live music, DJ performances, and entertainment to keep the energy high. • Each Ticket provides admission to event only. • Networking Opportunities: Connect with top professionals, thought leaders, and peers in the blockchain and fintech industry. Exclusive zone at level 2 bar for attendees to gather and network. This is more than a social mixer — it’s a curated networking experience designed to spark collaboration and real dialogue during after hours\n\nClick Here to Join the Event TG Group for further online networking. (https://t.me/AiGenesis_event) Don't miss this opportunity to celebrate the future of Ai, blockchain and fintech in style. We look forward to seeing you at the Marquee\n\nNote As this is an invite-only event, please be aware that registering does not guarantee access due to limited availability. Please note that entry will be granted only to ticketed guests, and tickets are not transferable\n\nFintech Networking Mixe\n\nHosted by Leading Asia’s Digital Frontier: Connecting governments, enterprises, startups, and communities to drive innovation and collaboration across Blockchain, Web3, AI, and Real-World Asset Leading Asia’s Digital Frontier: Connecting governments, enterprises, startups, and communities to drive innovation and collaboration across Blockchain, Web3, AI, and Real-World Asset Join as member https://asiaweb3aiassociation.org/membership (https://asiaweb3aiassociation.org/membership?utm_source=luma) Follow us across our official channels: Twitter (X): [/AsiaWeb3Ai (https://x.com/AsiaWeb3Ai?utm_source=luma)] LinkedIn: [/asia-web3-ai-association (https://linkedin.com/company/asia-web3-ai-association/?utm_source=luma)] Website: [https://asiaweb3aiassociation.org (https://asiaweb3aiassociation.org/?utm_source=luma)] Telegram: [https://t.me/AsiaBlockchainEvents (https://t.me/AsiaBlockchainEvents?utm_source=luma)] Facebook Group: [https://www.facebook.com/groups/asiaweb3aiassociation (https://www.facebook.com/groups/asiaweb3aiassociation?utm_source=luma)] WhatsApp's Group Join WhatsApp Group (https://chat.whatsapp.com/DzGnNA8akAW06e0NBiWcft?utm_source=luma\n\nBuilding the infrastructure for a third way between debt and equity. https://www.bccstudio.biz\n\nSupporting Community Partners\n\nYour secure crypto hardware wallet Tangem keeps your crypto safe and offline. Store, buy, earn, send, swap, and spend thousands of tokens. Your money. Your rules. Store, grow and spend your crypto. Simply Tangem. https://tangem.com/en/ Grab your delegate passes at 20% off for the AWAA community via the link: https://lnkd.in/gBrMJWXf A decentralized platform that leverages Insight Genesis AI (https://insightgenesis.ai/?utm_source=luma)technology for remote video and voice-based for personality, wellness, career, education, financial and health risk assessments and psychometric testing. By combining the principles of Web 3.0 with AI-powered health analytics, we create a community-driven ecosystem where users can earn, contribute, and engage with behavior data in a privacy-focused, transparent manner. Insight Genesis Ai is Live on Beta now at https://insightgenesis.ai/insights-form Follow X /genesis_insight (https://x.com/genesis_insight?utm_source=luma\n\nJoin TG https://t.me/InsightGenesis Venue Partne\n\n​Marquee Singapore (https://taogroup.com/event/08-11-24-astrolab-marquee-singapore/?utm_source=luma) Marquee Singapore is a fully immersive nightclub experience with a perfect blend of design, technology and cutting-edge sound that spans across three different floors, dramatically high ceilings that soar 70 feet and a full-sized, an eight-armed Ferris Wheel that offers unrivaled views of the nightclub when you ride in its pods.",
-    "descriptionSource": {
-      "url": "https://luma.com/01k4xxdf",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "After Hours @ Fintech Week 🚀 · Luma",
-      "sha256": "3821a0ce55f1e4e5ed763c9730b272a6cd30f5a1840be043a029f6d0ca748732"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/01k4xxdf",
-      "eventId": "evt-mtGOY2CrC193nlv",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-20T14:00:00.000Z",
-    "endDate": "2026-11-20T22:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "timezone": "Asia/Singapore",
-    "url": "https://luma.com/01k4xxdf",
-    "registrationUrl": "https://luma.com/01k4xxdf",
-    "coverImage": "/events/luma-crypto-mtgoy2crc193nlv-60199497.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Asia Web3 Ai Association (AWAA)",
-      "Insight Genesis"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Asia Web3 Ai Association (AWAA)",
-      "url": "https://asiaweb3aiassociation.org/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true
-  },
-  {
     "id": "luma-crypto-fjeCLadJkeFMrar",
     "slug": "kriptocuma1yj",
     "name": "#KriptoCuma - #CryptoFriday",
@@ -8948,53 +8292,6 @@
     "coordinates": {
       "latitude": 6.2089262000000005,
       "longitude": -75.56698270000001
-    }
-  },
-  {
-    "id": "luma-crypto-EVFYDsnnR9WoIhF",
-    "slug": "redotsclub",
-    "name": "RedotsClub Brasil | Dinner at the Palac3",
-    "description": "RedotsClub Brasil × Palac3 | Dinner at the Palac3 O RedotsClub chega ao Brasil, e a primeira noite vai ser em volta de uma mesa de churrasco. Em parceria com a Palac3, comunidade do ecossistema Solana no Brasil, vamos fazer um jantar no Barbacoa Itaim, uma das churrascarias mais conhecidas de São Paulo. A ideia é juntar usuários da RedotPay, builders de Web3, creators, empreendedores e quem se interessa por pagamentos digitais e stablecoins. O que é o RedotsClub? O RedotsClub é a comunidade que conecta usuários da RedotPay em encontros online e presenciais. A gente se reúne pra trocar experiências, descobrir formas práticas de usar o produto, dar feedback e ficar por dentro das novidades. Quem é a Palac3? A Palac3 é uma comunidade brasileira do ecossistema Solana que junta builders, creators e entusiastas em eventos e parcerias pelo país. Agora ela se junta ao RedotsClub pra trazer esse encontro pra São Paulo. O que esperar da noite Jantar no Barbacoa Itaim Networking com a comunidade cripto, Web3 e fintech de SP Conversa sobre usos reais de pagamentos digitais, stablecoins e cripto no dia a dia Q&A aberto com pessoas do ecossistema RedotPay e Palac3 Quando Sexta-feira, 20 de novembro 19h às 22h (horário de Brasília) Onde Barbacoa Itaim R. Dr. Renato Paes de Barros, 65, Itaim Bibi, São Paulo, SP Importante As vagas são limitadas e a inscrição precisa ser aprovada pelos organizadores. Só entra quem estiver registrado e aprovado. Entre na comunidade Instagram: https://www.instagram.com/redotsclub/ Telegram: https://t.me/+Ux8YQBEbajZhZjc1 X: https://x.com/RedotsClub Discord Palac3: https://discord.gg/pvaNTNbJH Vai postar sobre o evento? Usa #RedotsClubBrasil e marca a gente no X: @RedotsClub! Coloquei o Discord como sendo da Palac3 e os outros três links como do RedotsClub. Se o Discord for do RedotsClub, é só tirar o “Palac3” dessa linha.",
-    "descriptionSource": {
-      "url": "https://luma.com/oi22soan",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "RedotsClub Brasil | Dinner at the Palac3 · Luma",
-      "sha256": "a851ac5fadfab91b925f8dc80995ad9abf55d3192a0de572673dc4cc99957803"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/oi22soan",
-      "eventId": "evt-EVFYDsnnR9WoIhF",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-20T22:00:00.000Z",
-    "endDate": "2026-11-21T01:00:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "Barbacoa, R. Dr. Renato Paes de Barros, 65 - Itaim Bibi, São Paulo - SP, 04530-000, Brazil",
-    "timezone": "America/Sao_Paulo",
-    "url": "https://luma.com/oi22soan",
-    "registrationUrl": "https://luma.com/oi22soan",
-    "coverImage": "/events/luma-crypto-evfydsnnr9woihf-ed012ac8.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Lucas Rodrigues",
-      "RedotsClub"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "streetAddress": "R. Dr. Renato Paes de Barros, 65 - Itaim Bibi, São Paulo",
-    "addressLocality": "São Paulo",
-    "addressRegion": "São Paulo",
-    "addressCountry": "BR",
-    "neighborhood": "Itaim Bibi",
-    "coordinates": {
-      "latitude": -23.579153899999998,
-      "longitude": -46.67502
     }
   },
   {
@@ -9402,55 +8699,6 @@
     "locationHidden": true
   },
   {
-    "id": "luma-crypto-5MTBYxmL59aBJLv",
-    "slug": "beerfi-pra",
-    "name": "Beerfi Prague - Web3 Builders Meetup #55",
-    "description": "Open door @ 19:00 Prague time, start 19:3\n\n:\n- • Introduction • Onsite/remote talk & Campfire • Lightning Talks / Fuck ups Once a month on the last Tuesday, we bring together Web3 builders - tech. founders / smart contract programmers / auditors. Whether you are a Web2 developer interested to learn more or a senior in the Web3 sphere, our meetup is for you! Enjoy a nice cold lager and get ready to blow your mind on what’s possible in blockchain. Our upcoming meetup will be again hosted at Decada - a crypto-friendly cafe bar with an inviting atmosphere and friendly staff. Decada's commitment to innovation makes it the perfect venue for gathering like-minded people. They are happy to invite us to join them for an evening of fresh perspectives, vibrant discussions, and good company at Decada. Have something to share like a project or protocol in Web3? You get the floor for 5 minutes. Please signup here: https://docs.google.com/document/d/1Dm3De2kWn00STS44Y0vyXtZsFd1A5TUU7sVH0aydr0s/edit The meetup is focused on project conceptual design and smart contract development. Have questions or want to share something cool with us? Join our community group on Telegram to get updates or to share knowledge: https://t.me/+eA4eMYlEo-k2ZGVk We look forward to seeing you all!",
-    "descriptionSource": {
-      "url": "https://luma.com/psj2b11a",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Beerfi Prague - Web3 Builders Meetup #55 · Luma",
-      "sha256": "f0f50b0cb8549e234ea3e74068c4ac5f5e1a24fbb9e89459b567e1b3e726eccc"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/psj2b11a",
-      "eventId": "evt-5MTBYxmL59aBJLv",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-24T18:00:00.000Z",
-    "endDate": "2026-11-24T22:30:00.000Z",
-    "city": "Hlavní město Praha",
-    "country": "Czech Republic",
-    "location": "Cafe DECADA, Vacínova 876/10, 180 00 Praha 8-Libeň, Czechia",
-    "timezone": "Europe/Prague",
-    "url": "https://luma.com/psj2b11a",
-    "registrationUrl": "https://luma.com/psj2b11a",
-    "coverImage": "/events/luma-crypto-5mtbyxml59abjlv-5f1e611c.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Radek Švarz"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "BeerFi Prague - Web3 Builders Meetup",
-      "url": "https://www.beerfi.org"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "addressLocality": "Hlavní město Praha",
-    "addressRegion": "Hlavní město Praha",
-    "addressCountry": "CZ",
-    "neighborhood": "Palmovka",
-    "coordinates": {
-      "latitude": 50.1045385,
-      "longitude": 14.477205199999998
-    }
-  },
-  {
     "id": "luma-crypto-kfINRdzZsASUd8Z",
     "slug": "bnb-bangko",
     "name": "BNB Bangkok",
@@ -9589,55 +8837,6 @@
     "attendanceMode": "offline",
     "visibility": "public",
     "locationHidden": true
-  },
-  {
-    "id": "luma-crypto-0ZlrAFPfJpWredR",
-    "slug": "crypto-dri",
-    "name": "Crypto Drinks - Amsterdam",
-    "description": "Crypto Drinks Amsterdam is back on Wednesday, November 25th, at Meet Berlage in the heart of Amsterdam, across from Centraal Station\n\n​Program • 18:30 Walk in, grab a drink and make friends • 19:30 Welcome chat with Eleonore Blanc (https://x.com/blockblanc), Founder of CryptoCanal • 19:40 Join 30s Community Pitche\n\nHosted by • Superteam NL (https://linktr.ee/SuperteamNL?utm_source=luma) - A home for everyone building on Solana. • CryptoCanal (https://www.cryptocanal.org/?utm_source=luma) offers education, event and consultancy services for the crypto industry and we're not afraid to be political. Follow us on Twitter (https://twitter.com/cryptocanal?utm_source=luma) and join our Telegram group (https://t.me/CryptoCanalCommunity?utm_source=luma) for the daily updates\n\nCrypto Drinks Sponsors • Edge (https://dl.edge.app/cryptocanal) Wallet (https://dl.edge.app/cryptocanal). Download Edge to buy/swap/trade all of your crypto assets and remain in full custody, you are sovereign. • Cyber Capital (https://www.cyber.capital/?utm_source=luma) is Europe’s oldest cryptocurrency based fund with a 10 year track record. • Privacy Pools (https://privacypools.com/?utm_source=luma) - A compliant way to transact privately on Ethereum. Privacy Pools blocks illicit actors to help maintain the integrity of the pool. • Zcash (https://z.cash/?utm_source=luma) - Privacy is norma\n\nCrypto Donations • Zcash ($ZEC) zs1e8t4xjhmmmsdeqs6efpmr3elupfupt06nrrsengf4mkqzcqfcd8a0tx3acsfan6l72gg5zqr049 • Dash ($DASH) Xt5YFs5wzwnTDzXcwuPWNuwCBDbY1zcDzR • Bitcoin Cash ($BCH) qrmxpu87k0sn2qae3uyq2l2jq9jxgp8udvuxmhzjru • Ethereum ($ETH) 0x8754bf57ae6320f871685A155EbcD16f903E0760 • Zano ($ZANO) ZxCV8GWx4DUDibGogBsSws8BLzWQ9ue5YF9ggUL7qu8GfRm82Y1abdoa2DTYSSYEVnPHXUSBkkAJ2FoCBKwyxXrf2DS4Nz61Q • Solana ($SOL) 7EN4Rskuff1h8ZmtAx6ABiGMcPgriY5ys2syaoJQcCc • Monero ($XMR) 49NaDPwUiya6XfwCTNN2gdRFG2NwQo4hTDrgiykZAcHR3rdc5XszJjn8A8tVpRrQQERZvw7Aq4Y9oHDGFSgn6ZYBNiUmUP\n\nMore about CryptoCanal (https://cryptocanal.org/)​ CryptoCanal (https://cryptocanal.org/)offers education, event and consultancy services for the crypto industry and we're not afraid to be political. Follow us on Twitter (https://twitter.com/cryptocanal?utm_source=luma) and join our Telegram group (https://t.me/CryptoCanalCommunity?utm_source=luma) for the daily updates\n\n​Disclaimer Photos and videos may be taken during the event for promotional and marketing purposes. By participating in CryptoDrinks, you consent to the use of your image and agree to share your contact details with our event partners. You may also receive occasional newsletters or updates related to future events or community news. You can withdraw your consent at any time by emailing hello@cryptocanal.org or using the unsubscribe link provided in each message. Please note that discussions and content shared during CryptoDrinks do not constitute financial advice. The cryptocurrency market involves significant risks, and participants should always conduct their own research and seek professional guidance before making any investment decisions.",
-    "descriptionSource": {
-      "url": "https://luma.com/o97gbshj",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Crypto Drinks - Amsterdam · Luma",
-      "sha256": "7d97e3195541a76dc4487540815d6eb80caaa794946acfa0f0994f9accf371e6"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/o97gbshj",
-      "eventId": "evt-0ZlrAFPfJpWredR",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-25T17:30:00.000Z",
-    "endDate": "2026-11-25T21:30:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Meet Berlage, Oudebrugsteeg 9, 1012 JN Amsterdam, Netherlands",
-    "timezone": "Europe/Amsterdam",
-    "url": "https://luma.com/o97gbshj",
-    "registrationUrl": "https://luma.com/o97gbshj",
-    "coverImage": "/events/luma-crypto-0zlrafpfjpwredr-e5d58b52.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "CryptoCanal"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "CryptoCanal",
-      "url": "https://www.cryptocanal.org/"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "addressLocality": "Amsterdam",
-    "addressRegion": "Noord-Holland",
-    "addressCountry": "NL",
-    "neighborhood": "Amsterdam-Centrum",
-    "coordinates": {
-      "latitude": 52.3753932,
-      "longitude": 4.897146
-    }
   },
   {
     "id": "luma-crypto-qejDoKqLkEYSumg",
@@ -10412,51 +9611,6 @@
     }
   },
   {
-    "id": "luma-crypto-wfBZ2uBmgRlbIab",
-    "slug": "cyberswara",
-    "name": "CyberSwaraj: Nostr, Cryptography Basics & How It Actually Works",
-    "description": "A beginner-to-intermediate friendly workshop for anyone curious about real digital privacy. Tired of platforms that own your data, shadow-ban your voice, or can disappear overnight? This hands-on session pulls back the curtain on Nostr — a simple, open protocol for decentralized social networking — and the cryptography that makes it possible. No prior technical background required; just curiosity\n\nWhat You'll Learn Part 1 — Cryptography Basics (Demystified) • Why privacy isn't \"having something to hide\" — it's about control • Public vs. private keys: the foundation of digital identity • Hashing, signatures, and encryption — what they do and when to use each • How you already use this technology everyday without realizing it • Common myths about anonymity and what actually protects you Part 2 — What Is Nostr? • The problem Nostr solves: platform lock-in, censorship, and identity fragility • How Nostr works: events, relays, keys, and clients • Your keys = your identity. Your data = portable across apps • Practical setup: create your first identity and post your first note Part 3 — Nostr Technicals (Made Approachable) • Event structure and kinds — the grammar of the protocol • Relays: what they are, how to choose them, and why many is better than one • NIPs (Nostr Implementation Possibilities) — the standards that keep the network compatible • Zap (Lightning payments) basics and why they matter for creators • Security habits: key storage, signing devices, and avoiding common pitfall\n\nWho This Is For • Beginners curious about privacy and decentralized tech • Builders, writers, and creators wanting platform independence • Intermediates who've \"heard of Nostr\" but never really understood it • Anyone who's lost an account, been shadow-banned, or worries about data ownershi\n\nWhat You'll Walk Away With • A working Nostr identity and your first published note • A clear mental model of cryptography fundamentals • The confidence to evaluate privacy tools critically • Resources and a community to continue learnin\n\nFormat Interactive mini-lecture + live demos + guided setup time + Q&A. Bring a laptop or phone. No coding required to participate; code examples available for the curious. Privacy isn't a feature you buy — it's a skill you build. Come learn it with us\n\n​Privacy is not about hiding. Most conversations about privacy start by making you feel paranoid. This one won't. Privacy is something ordinary and human. It's the ability to decide what parts of your life get shared, when they get shared, and with whom. In the physical world this feels obvious. You close the door when you change clothes. You lower your voice in a crowded room. You don't hand your diary to a stranger. Online, we've slowly given up all of that, usually without realising we were giving anything up. Each app asks for a small permission. Each service collects a small piece of information. Individually, none of it feels like much. Put together, it forms a surprisingly complete picture of how you live, think, move, and talk to people you love\n\n​What is the 'CyberSwaraj' event series about CyberSwaraj is a gathering for anyone interested in digital privacy, open-source tools, and taking back some control over their digital life. We run sessions for beginners, workshops for people ready to go deeper, and occasional deep-dives for the technically curious. Developers, privacy advocates, and people who've simply had enough of being tracked are all welcome\n\nStay Connected • Join us on YouTube: https://www.youtube.com/@CyberSwara\n\n​Venue Partner Bitshala Bitspace (https://x.com/bitshala?utm_source=luma), HSR Layout Sector 6, Bengaluru. • Join Our Community: http://discord.gg/atjEPVTdsQ • Subscribe to our Calendar: https://lu.ma/bitspace • Contact: 9118592188 (https://wa.me/919118592188?utm_source=luma)",
-    "descriptionSource": {
-      "url": "https://luma.com/42jg53zj",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "CyberSwaraj: Nostr, Cryptography Basics &amp; How It Actually Works · Luma",
-      "sha256": "e7381abeae2bc2260969a8bca00a5d36f1b51b46445501538379e885c018ec89"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/42jg53zj",
-      "eventId": "evt-wfBZ2uBmgRlbIab",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-11-29T06:30:00.000Z",
-    "endDate": "2026-11-29T09:30:00.000Z",
-    "city": "Bengaluru",
-    "country": "India",
-    "location": "Bengaluru, India",
-    "timezone": "Asia/Kolkata",
-    "url": "https://luma.com/42jg53zj",
-    "registrationUrl": "https://luma.com/42jg53zj",
-    "coverImage": "/events/luma-crypto-wfbz2ubmgrlbiab-bf1304ab.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "paperpsych",
-      "Bitshala Bitspace",
-      "madkilla",
-      "Basanta Goswami"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitshala Bitspace Events and Meetups",
-      "url": "https://bitshala.org/"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true
-  },
-  {
     "id": "luma-crypto-CutFLJtQgAGhmNJ",
     "slug": "orbscafe-2",
     "name": "「魔界の税理士 × ★しゅん」 カソツーの税金ぶっちゃけトーク！｜OrbsCafe #27",
@@ -11116,51 +10270,6 @@
     }
   },
   {
-    "id": "luma-crypto-6sq684bokHRdD3J",
-    "slug": "holiday-pi",
-    "name": "Holiday Pickleball with Pudgy Canada X WEEX Labs",
-    "description": "Holiday Pickleball Pudgy Canada’s last event of the year is here. Join us for Holiday Pickleball, co-hosted with WEEX Labs. Sunday, December 6, 2026 1:45 p.m. – 5:00 p.m. 0-0 Pickleball (flagship), Richmond 4 courts + private party room This is a free event, co-hosted with WEEX Labs. All levels are welcome. Whether you play every week or have never picked up a paddle\n\n:\n- • 25 custom Pudgy paddles to give away (priority for NFT holders, then a draw for remaining paddles) • Pebbles the mascot + photo ops • Community hang in the private party room • Pickleball for all skill levels Come celebrate the year with the crew, swing a few paddles, and close out 2026 together. See you in Richmond!",
-    "descriptionSource": {
-      "url": "https://luma.com/pudgy-vancouverholiday2026",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Holiday Pickleball with Pudgy Canada X WEEX Labs · Luma",
-      "sha256": "99ead06e35e6bfc1c1155386c3074139893bd94cb9e0054e42077b9b788f125a"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/pudgy-vancouverholiday2026",
-      "eventId": "evt-6sq684bokHRdD3J",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-12-06T20:45:00.000Z",
-    "endDate": "2026-12-07T00:00:00.000Z",
-    "city": "Richmond",
-    "country": "Canada",
-    "location": "Richmond, Canada",
-    "timezone": "America/Vancouver",
-    "url": "https://luma.com/pudgy-vancouverholiday2026",
-    "registrationUrl": "https://luma.com/pudgy-vancouverholiday2026",
-    "coverImage": "/events/luma-crypto-6sq684bokhrdd3j-0bebfed4.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Berko",
-      "Pudgy Canada",
-      "LittleWenZ"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Pudgy Penguins",
-      "url": "https://discord.gg/pudgypenguins"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true
-  },
-  {
     "id": "luma-crypto-Zfz00mr44SlPTBG",
     "slug": "33-corgear",
     "name": "第33回 CORGEAR Night ～仮想NISHIと振り返る2026年のWeb3 — コーギアナイト忘年会～",
@@ -11601,56 +10710,6 @@
     "coordinates": {
       "latitude": 40.7322184,
       "longitude": -74.0000245
-    }
-  },
-  {
-    "id": "luma-crypto-Lt6bJKPA48lfArP",
-    "slug": "bitcoin-bu",
-    "name": "Bitcoin Builders Club",
-    "description": "Bitcoin Builders Club is your monthly hangout in Austin, Texas, for devs, hackers, and founders come together to share ideas, demo projects, and explore the cutting edge of what's possible. Whether hacking on Bitcoin Lightning, developing open-source tools, or launching your next startup, this is your space to build in public, connect with peers, and get real-time feedback from a community of open-source creators. Every month, expect Austin-style hospitality featuring homestyle food prepared by a local chef, cold drinks, and vibrant conversations with fellow hackers, builders, and founders dedicated to pushing bitcoin innovation forward in Austin. Reach out to us on PlebLab Telegram (https://t.me/+7aSjyq9_hMkxN2Ix) if you are lost. What to Expect: Start BBC:\n- 6:15 – 6:20 PM Car will discuss community updates and other Austin Bitcoin scene happenings. Networking, Food & Hack & Tell:\n- 6:20 – 7:00 PM Meet friends as everyone pours in and gets settled before the main event. Eat, drink, and enjoy while catching some Hack & Tell updates from local builders. Builder Presentation:\n- 7:00 – 8:15 PM We’ll wrap with open Q&A and a full room discussion where you can ask about your own product, pitch, or strategy. Late to the party? Come on in. There’s still plenty of time for any questions, conversations, and meeting good people building on Bitcoin. Event Sponsors: Station Austin (https://capitalfactory.com) “STATION Austin is the center of gravity for entrepreneurs in Texas. Day and night, in-person and online, we gather the best founders, programmers, and designers outside of Silicon Valley and introduce them to investors, employees, and customers who help their ideas launch. STATION Austin is powered by Capital Factory, whose investments and leadership have helped power the Texas startup ecosystem for more than a decade. To sign up for a STATION Austin membership, click here (https://stationaustin.org/commons/).” PlebLab (https://pleblab.dev) “Thank you to PlebLab for sponsoring Bitcoin Builders Club. PlebLab supports thousands of builders shaping Bitcoin’s future. A hackerspace & community accelerator for the Bitcoin Era in Austin, Texas since 2021. Sign up for a Builder Pass (https://pay.zaprite.com/order/od_EE4gqaRkjp) and their Newsletter (https://dashboard.mailerlite.com/forms/10467/51078046840522216/share).\"",
-    "descriptionSource": {
-      "url": "https://luma.com/1uniw2n0",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "official-section",
-      "pageTitle": "Bitcoin Builders Club · Luma",
-      "sha256": "a095617c4478a7e6f6dba72f74ae3e689fd40a84787012ba960302cf8c1be8db"
-    },
-    "sourceVerification": {
-      "url": "https://luma.com/1uniw2n0",
-      "eventId": "evt-Lt6bJKPA48lfArP",
-      "fetchedAt": "2026-11-10T22:14:26.058Z",
-      "method": "luma-page"
-    },
-    "startDate": "2026-12-22T00:30:00.000Z",
-    "endDate": "2026-12-22T03:30:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Capital Factory, 701 Brazos St, Austin, TX 78701, USA",
-    "timezone": "America/Chicago",
-    "url": "https://luma.com/1uniw2n0",
-    "registrationUrl": "https://luma.com/1uniw2n0",
-    "coverImage": "/events/luma-crypto-lt6bjkpa48lfarp-c39e459f.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Car"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitcoin Builders Club",
-      "url": "https://pleblab.dev"
-    },
-    "price": "Free",
-    "registrationAvailability": "open",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "streetAddress": "701 Brazos St, Austin",
-    "addressLocality": "Austin",
-    "addressRegion": "Texas",
-    "addressCountry": "US",
-    "neighborhood": "Financial District",
-    "coordinates": {
-      "latitude": 30.268889,
-      "longitude": -97.740556
     }
   },
   {

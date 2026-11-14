@@ -500,56 +500,6 @@
     }
   },
   {
-    "id": "luma-batch-W4GEoKovBqnA6lm",
-    "slug": "xppe9krt",
-    "name": "Trading Thursday: eXchange1 Mumbai Community Meetup",
-    "description": "Join eXchange1 as we kick off Trading Thursdays, second of many evenings bringing Mumbai’s crypto and trading community together to connect, unwind, and swap ideas. No pitches, no slides. Just good conversation, live music, and a few surprises along the way.\n\nWhat to expect · a relaxed start · a short word from Deepankar Kapoor, eXchange1's Chief Growth Officer for Global Markets · a light trivia round · live music, pizzas, and open networking through the evening.\n\nFood beyond the welcome round are on you. The bar will be open through the evening for anything further.\n\nSpots are limited. See you there.",
-    "startDate": "2026-10-15T12:30:00.000Z",
-    "endDate": "2026-10-15T15:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Effingut Brewpub NESCO, Effingut Brewpub NESCO, Gate 2, Ltd, Building No 6, Western Express Hwy, NESCO, Goregaon East, Mumbai, Maharashtra 400063, India",
-    "url": "https://luma.com/xppe9krt",
-    "registrationUrl": "https://luma.com/xppe9krt",
-    "coverImage": "/events/luma-batch-W4GEoKovBqnA6lm-89044cee.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "eXchange1"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Asia/Kolkata",
-    "neighborhood": "NESCO",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Effingut Brewpub NESCO",
-    "addressLocality": "Mumbai",
-    "addressRegion": "Maharashtra",
-    "addressCountry": "IN",
-    "organizer": {
-      "type": "Organization",
-      "name": "eXchange1",
-      "url": "https://luma.com/user/eX1india"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/xppe9krt",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/xppe9krt",
-      "eventId": "evt-W4GEoKovBqnA6lm",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-kBSIe7BSMtDFldg",
     "slug": "legalsummit",
     "name": "Onchain Legal Summit :: Devcon India 2026",
@@ -1042,45 +992,6 @@
     }
   },
   {
-    "id": "luma-batch-jR6a4UNcsq5XvJN",
-    "slug": "6laijuyn",
-    "name": "IslandDAO v5 🇧🇷",
-    "description": "Apply at https://islanddao.org/ Register ONLY on the link above! For questions, join the islanddao telegram group: https://t.me/+3Ve0uhusm0Q0ZGY8 The world class retreat of one month of coworking, connecting and networking with the top developers, founders, builders, investors in the Solana ecosystem is back and for the first time, we're going to LATAM. 19 Oct- 11 Nov. 🇧🇷 Florianópolis (Floripa), Brazil. • Building • Feedback sessions • Investor days • Hackathon • Demo Day • Work opportunities • Fitness & Wellness and more https://x.com/islanddao/status/2085390922171228345?s=20 Follow us: • https://islanddao.org/ • https://x.com/islanddao • https://www.youtube.com/@IslandDAO\n\n## Event details\n\nDate: Oct 19 - Nov 11, 2026, 10:00 (America/Sao_Paulo)\nVenue: Florianópolis, Brazil\nHosts: Takisoul, Superteam Brasil\nTickets: Free\nRegistration: open\nEvent page: https://luma.com/6laijuyn",
-    "startDate": "2026-10-19T13:00:00.000Z",
-    "endDate": "2026-11-11T21:00:00.000Z",
-    "city": "Florianópolis",
-    "country": "Brazil",
-    "location": "Florianópolis, Brazil",
-    "url": "https://luma.com/6laijuyn",
-    "registrationUrl": "https://luma.com/6laijuyn",
-    "coverImage": "/events/luma-batch-jR6a4UNcsq5XvJN-ddd36a73.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Takisoul",
-      "Superteam Brasil"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Sao_Paulo",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/6laijuyn",
-      "eventId": "evt-vr1SvUyRNT6X5GE",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz",
-      "enrichedAt": "2026-09-22T11:31:29.000Z"
-    },
-    "descriptionSource": {
-      "url": "https://luma.com/6laijuyn",
-      "fetchedAt": "2026-11-10T18:33:02.578Z",
-      "method": "official-section",
-      "pageTitle": "IslandDAO v5 🇧🇷 · Luma",
-      "sha256": "af571a03a8e7068bf0228685df875fd3c1062e19b43e8b668b105cb6ce5c938c"
-    }
-  },
-  {
     "id": "luma-batch-OZx1friXAoHVZKN",
     "slug": "fdvdqkq9",
     "name": "Rust Melbourne Meetup",
@@ -1197,30 +1108,6 @@
       "url": "https://luma.com/london-oct-30",
       "eventId": "calev-k8AK0WzF9fIxpCI",
       "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
-    "id": "luma-batch-KupO2QEcLws6KMf",
-    "slug": "8uhc300o",
-    "name": "Community Call",
-    "description": "Hey! Get ready to dive into the world of Solana with our Community Call happening Thursday, Jul 3rd, 12:00 PM to 12:30 PM EDT. https://discord.gg/vgt4M7jJfGHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.\n\nJoin us on Discord for 30 minutes packed with insights, advice, and all things Superteam Canada.Got questions? Bring 'em on! Want to get more involved? This is your chance! Can't wait to see you there!\n\n## Event details\n\nOrganized by Superteam Canada. The event takes place on November 5.",
-    "startDate": "2026-11-05T17:00:00.000Z",
-    "endDate": "2026-11-05T17:30:00.000Z",
-    "url": "https://luma.com/8uhc300o",
-    "registrationUrl": "https://luma.com/8uhc300o",
-    "coverImage": "/events/luma-batch-KupO2QEcLws6KMf-cb8f8807.webp",
-    "source": "luma-batch",
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/Toronto",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/8uhc300o",
-      "eventId": "evt-kFLbDGioTFqXIpj",
-      "fetchedAt": "2026-09-22T11:53:33.000Z",
       "method": "luma-page",
       "apifyRunId": "WHcLsVUsFvlHmcVYz"
     }
@@ -1713,36 +1600,6 @@
     }
   },
   {
-    "id": "luma-batch-evtnpZcSPkY2es66",
-    "slug": "54c9x6ri",
-    "name": "Ledger OP3N 2026",
-    "description": "AI acts on your behalf.\nDeepfakes pass every check.\nYour phones and current technology were not built for this.\n\nLedger OP3N returns to Paris, October 15th.\n\nThis year, Ledger unveils what comes next — for security, money, and ownership in the age of AI.\n\nFounders, builders, investors, and creators gather for a day of keynotes, product launches, and live demonstrations.\n\nThe next era of digital ownership doesn't announce itself. You have to be there.\n\nSave the date.\nRegister for updates.\n\nLuma shared your contact details with Ledger to send you this invite and add you to our events calendar. Ledger and Luma act as independent data controllers, each responsible for their own processing of your personal data. We process your data on the basis of our legitimate interest in keeping you informed of Ledger events, and we will retain your details for twenty-five months from our last interaction with you. You have the right to object to this processing, as well as the right to access, correct, delete, or restrict your data. To exercise any of these rights, or to unsubscribe from our events calendar, please contact our Data Protection Officer at events@ledger.fr",
-    "startDate": "2026-10-15T11:00:00.000Z",
-    "endDate": "2026-10-15T16:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, Île-de-France, France",
-    "url": "https://luma.com/54c9x6ri",
-    "registrationUrl": "https://luma.com/54c9x6ri",
-    "coverImage": "/events/luma-batch-evtnpZcSPkY2es66-3ab2785c.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Ledger"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Paris",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/54c9x6ri",
-      "eventId": "evt-npZcSPkY2es66Te",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtAhlboiFVShnZR",
     "slug": "66118phy",
     "name": "SwissBorg Zurich Community Meetup",
@@ -2153,66 +2010,6 @@
     "sourceVerification": {
       "url": "https://luma.com/rjvg6uk4",
       "eventId": "evt-Cc88L6Ro1CT4HZB",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtsJTiDuzqsClRt",
-    "slug": "4dgy9usl",
-    "name": "BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (The 2nd Thursday)",
-    "description": "We welcome everyone to join our monthly public meet-up, talk to Bitcoiners, install a wallet and even trade some Sats. We also encourage Members to trade products or services for BTC, like in a Bitcoin flea market. Totally free, BAHK public meet-up is the best place for HK people to start their Bitcoin journey. Do spread the word among your contacts!  Register at: lu.ma/bitcoinorghk\n\nBitcoin devs and splitting bills with bitcoin or lightning is welcome. Also welcome if you are late but before 8:45 PM.\n\nIFC P4 Rooftop Garden(out side Shake Shake). We will take a few tables randomly. Text us on Telegram if you cannot see us. Telegram group link\n\nhttps://t.me/+bHO3lGRgyYxlNmFl",
-    "startDate": "2026-12-10T11:30:00.000Z",
-    "endDate": "2026-12-10T14:00:00.000Z",
-    "city": "Hong Kong Island",
-    "country": "Hong Kong",
-    "location": "Shake Shack (ifc mall), Shake Shack (ifc mall), 4018,4F IFC, Two International Finance Centre, Finance St, Central, Hong Kong",
-    "url": "https://luma.com/4dgy9usl",
-    "registrationUrl": "https://luma.com/4dgy9usl",
-    "coverImage": "/events/luma-batch-evtsJTiDuzqsClRt-5f43bb31.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin HK meetup"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Hong_Kong",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/4dgy9usl",
-      "eventId": "evt-sJTiDuzqsClRt4H",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtKhUrCbu57vTQe",
-    "slug": "llqbx5ts",
-    "name": "BTC HK - bitcoin meetup IFC P4 Rooftop Garden(tables outside Shake Shack) walk-in (The 2nd Thursday)",
-    "description": "We welcome everyone to join our monthly public meet-up, talk to Bitcoiners, install a wallet and even trade some Sats. We also encourage Members to trade products or services for BTC, like in a Bitcoin flea market. Totally free, BAHK public meet-up is the best place for HK people to start their Bitcoin journey. Do spread the word among your contacts!  Register at: lu.ma/bitcoinorghk\n\nBitcoin devs and splitting bills with bitcoin or lightning is welcome. Also welcome if you are late but before 8:45 PM.\n\nIFC P4 Rooftop Garden(out side Shake Shake). We will take a few tables randomly. Text us on Telegram if you cannot see us. Telegram group link\n\nhttps://t.me/+bHO3lGRgyYxlNmFl",
-    "startDate": "2026-11-12T11:30:00.000Z",
-    "endDate": "2026-11-12T14:00:00.000Z",
-    "city": "Hong Kong Island",
-    "country": "Hong Kong",
-    "location": "Shake Shack (ifc mall), Shake Shack (ifc mall), 4018,4F IFC, Two International Finance Centre, Finance St, Central, Hong Kong",
-    "url": "https://luma.com/llqbx5ts",
-    "registrationUrl": "https://luma.com/llqbx5ts",
-    "coverImage": "/events/luma-batch-evtKhUrCbu57vTQe-5f43bb31.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin HK meetup"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Hong_Kong",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/llqbx5ts",
-      "eventId": "evt-KhUrCbu57vTQekw",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -2709,36 +2506,6 @@
     "sourceVerification": {
       "url": "https://luma.com/lpe4mdxt",
       "eventId": "evt-t671wDnUAzkDrvu",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtPICyDbNudDA4Z",
-    "slug": "fan9g1ft",
-    "name": "Bitcoin Indonesia Community Meetup Jakarta 24 Oktober 2026",
-    "description": "Baca Sendiri, 9 Halaman yang Mengubah Cara Kerja Uang\n\nCuma 9 halaman. Tapi isinya cukup untuk bikin kita bertanya ulang: sebenarnya siapa yang menentukan bagaimana uang bekerja? 💸\n\nDi meetup kali ini, kita bakal membahas Bitcoin Whitepaper dan melihat bagaimana ide sederhana dari 9 halaman tersebut menawarkan cara yang berbeda dalam memindahkan nilai tanpa bergantung pada pihak ketiga.\n\nNggak perlu jadi ahli ekonomi atau paham teknologi dulu. Baca, pahami, lalu ngobrol bareng. 📖\n\n🔥 Kalau selama ini cuma dengar orang cerita soal Bitcoin, kali ini coba luangkan waktu buat baca sumbernya langsung. Kita bahas bareng, santai saja.\n\nYuk datang ke meetup Bitcoin Indonesia Jakarta, ajak teman yang juga penasaran, dan ikut ngobrol bareng komunitas.\n\nSampai ketemu di meetup! 🟠\n\nBitcoinstitution – Helping visionary business leaders to beat inflation & survive the World War III\n\n👤 LEADER KOMUNITAS JAKARTA: BANG RICKY\n\nBang Ricky — motor penggerak komunitas Bitcoinstitution Jakarta. Orangnya santai, tapi visinya kuat: bikin orang Indonesia ngerti Bitcoin dengan cara yang masuk akal & relevan.\n\n🌐 goakal.com/bitcoinstitution 📸 @bitcoinstitution.xyz\n\n📌 Info Penting: 🔸 Tiket acara dan ilmu2 daging semua GRATIS, tapi peserta diwajibkan membeli makan/minum sendiri2 saat acara 🔸 Tidak ada promosi altcoin, NFT, token, atau “kripto” lainnya 🔸 Hanya tentang Bitcoin — teknologi, nilai, dan dampaknya bagi dunia\n\n🔗 Tentang Kami\n\n🟠 Bitcoin Indonesia adalah inisiatif nirlaba yang bertujuan untuk:🕊️ Menyebarkan pemahaman tentang Bitcoin sebagai alat pembebasan individu⚖️ Mendorong kedaulatan finansial melalui edukasi netral📚 Menyediakan konten open-source yang bisa digunakan siapa pun, gratis\n\n📲 Telegram: t.me/+OIIRyKQmvJY0MWFk\n\n📸 Instagram: @bitcoinindo21\n\n🌐 Website: bitcoinindonesia.xyz",
-    "startDate": "2026-10-24T06:00:00.000Z",
-    "endDate": "2026-10-24T08:00:00.000Z",
-    "city": "Kota Jakarta Pusat",
-    "country": "Indonesia",
-    "location": "The Coffee Mine, The Coffee Mine, Jl. Pegangsaan Timur No.1, RT.1/RW.1, Pegangsaan, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10310, Indonesia",
-    "url": "https://luma.com/fan9g1ft",
-    "registrationUrl": "https://luma.com/fan9g1ft",
-    "coverImage": "/events/luma-batch-evtPICyDbNudDA4Z-1e4ae70b.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Bitcoin Indonesia Meetups"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Jakarta",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/fan9g1ft",
-      "eventId": "evt-PICyDbNudDA4Zpp",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
