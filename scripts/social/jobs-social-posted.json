@@ -136958,6 +136958,39 @@
       "attemptId": "142d63b0-660e-4ed1-8fb3-9ae401207c82",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 14-Nov-26 11:37:13 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A10UTOd7IRJCKxPqqKTtiJE\"}"
+    },
+    {
+      "slug": "rec62",
+      "company": "BTSE",
+      "title": "HR Operations Associate (Payroll)",
+      "platform": "bluesky",
+      "postedAt": "2026-11-14T19:36:56.030Z",
+      "expectedText": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/bsky?og=7",
+      "snapshot": {
+        "id": "2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "title": "HR Operations Associate (Payroll)",
+        "company": "BTSE",
+        "link": "https://jobs.lever.co/BTSE/2d3152b1-bcea-4ae0-b998-0348944a7d37",
+        "date": "2026-11-04T03:37:49.258Z",
+        "source": "Lever: BTSE [BTSE]",
+        "location": "Taipei",
+        "workplaceType": "onsite",
+        "department": "BTSE",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "rec62"
+      },
+      "payload": {
+        "text": "BTSE is hiring HR Operations Associate (Payroll): https://hashtagweb3.com/rec62/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/rec62/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/rec62.png?v=7",
+        "company": "BTSE",
+        "title": "HR Operations Associate (Payroll)",
+        "description": "Join BTSE as HR Operations Associate. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "2c3aa675-1988-4e99-9a22-7a9e322647c4",
+      "verification": "creating"
     }
   ]
 }
