@@ -11,8 +11,8 @@
     "department": "Engineering",
     "active": true,
     "salary": "$178.9k – $268.3k/yr",
-    "slug": "infra84",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "infra84"
   },
   {
     "id": "8934109002",
@@ -26,8 +26,8 @@
     "department": "Product",
     "active": true,
     "salary": "$114.4k – $160k/yr",
-    "slug": "pm311",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm311"
   },
   {
     "id": "8937035002",
@@ -41,8 +41,8 @@
     "department": "Partnerships",
     "active": true,
     "salary": "$76.6k – $100k/yr",
-    "slug": "sls503",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls503"
   },
   {
     "id": "8379461",
@@ -1529,17 +1529,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls475"
-  },
-  {
-    "id": "99764297",
-    "title": "Corporate Counsel",
-    "company": "Coinflow Labs",
-    "link": "https://jobs.ashbyhq.com/Coinflow/2bc08e56-e01e-460d-ab93-b156e27f2540",
-    "date": "2026-11-12T17:33:38.030+00:00",
-    "source": "https://jobs.dcg.co/jobs",
-    "dateVerified": true,
-    "slug": "cc11",
-    "location": "Not specified"
   },
   {
     "id": "6256234004",
@@ -6290,7 +6279,7 @@
     "link": "https://apply.workable.com/j/B3897A6BAC",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -6316,33 +6305,11 @@
     "link": "https://apply.workable.com/j/BEBE6194ED",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
     "slug": "be114"
-  },
-  {
-    "id": "7a4083b2fdfe",
-    "title": "Senior Financial Systems Analyst",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
-    "date": "2026-11-09",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Singapore, SG",
-    "isRemote": false,
-    "department": "Information Technology",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
-      "checkedAt": "2026-11-10T02:22:24.670Z",
-      "bodySha256": "9e92d919f8ba22310fcf4cff7d29b49761127e0d63ebfa5e59a0a66d31d170ae",
-      "provider": "breezy",
-      "datePosted": "2026-11-09"
-    },
-    "slug": "an118"
   },
   {
     "id": "6ec6d15f5bab",
@@ -6365,6 +6332,28 @@
       "datePosted": "2026-11-09"
     },
     "slug": "eng691"
+  },
+  {
+    "id": "7a4083b2fdfe",
+    "title": "Senior Financial Systems Analyst",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+    "date": "2026-11-09",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Singapore, SG",
+    "isRemote": false,
+    "department": "Information Technology",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+      "checkedAt": "2026-11-10T02:22:24.670Z",
+      "bodySha256": "9e92d919f8ba22310fcf4cff7d29b49761127e0d63ebfa5e59a0a66d31d170ae",
+      "provider": "breezy",
+      "datePosted": "2026-11-09"
+    },
+    "slug": "an118"
   },
   {
     "id": "JR2001293",
@@ -6425,7 +6414,7 @@
     "link": "https://apply.workable.com/j/2C5DC33098",
     "date": "2026-11-08",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Poland",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -7277,6 +7266,21 @@
     "slug": "infra71"
   },
   {
+    "id": "8197695003",
+    "title": "Senior Management, Platform & Infrastructure Audit",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8197695003",
+    "date": "2026-11-06T11:41:51-05:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "San Jose, CA",
+    "department": "Internal Audit ",
+    "active": true,
+    "salary": "$171k – $257k/yr",
+    "dateVerified": true,
+    "slug": "infra83"
+  },
+  {
     "id": "8350923",
     "title": "Partner Development Manager, Ecosystem Partnerships",
     "company": "Stripe",
@@ -7333,21 +7337,6 @@
     "salary": "$208.0k – $218.9k/yr",
     "dateVerified": true,
     "slug": "eng660"
-  },
-  {
-    "id": "7996101003",
-    "title": "Senior Management, Platform & Infrastructure Audit",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7996101003",
-    "date": "2026-11-06T11:08:15-05:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "San Jose, CA",
-    "department": "Internal Audit ",
-    "active": true,
-    "salary": "$171k – $257k/yr",
-    "dateVerified": true,
-    "slug": "infra83"
   },
   {
     "id": "8301957",
@@ -10557,11 +10546,11 @@
     "slug": "pm215"
   },
   {
-    "id": "8335618",
+    "id": "8335621",
     "title": "Social Support Specialist I",
     "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
-    "date": "2026-11-03T19:52:09-05:00",
+    "link": "https://www.coinbase.com/careers/positions/8335621?gh_jid=8335621",
+    "date": "2026-11-03T19:54:24-05:00",
     "dateSource": "Greenhouse.first_published",
     "source": "Greenhouse: Coinbase [coinbase]",
     "location": "Remote - USA",
@@ -11690,22 +11679,6 @@
     "slug": "mgr222"
   },
   {
-    "id": "B6C4743A0C",
-    "title": "BDM (Affiliates & Partnerships) Asia",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/B6C4743A0C",
-    "date": "2026-11-03T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Remote (China / India / Kazakhstan / Japan / Indonesia / Armenia)",
-    "isRemote": true,
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "dateVerified": true,
-    "slug": "bapa"
-  },
-  {
     "id": "D841F3D1AD",
     "title": "BDM (Affiliates & Partnerships) Europe",
     "company": "GoMining",
@@ -11720,6 +11693,22 @@
     "active": true,
     "dateVerified": true,
     "slug": "bape"
+  },
+  {
+    "id": "B6C4743A0C",
+    "title": "BDM (Affiliates & Partnerships) Asia",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/B6C4743A0C",
+    "date": "2026-11-03T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Remote (China / India / Kazakhstan / Japan / Indonesia / Armenia)",
+    "isRemote": true,
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "dateVerified": true,
+    "slug": "bapa"
   },
   {
     "id": "BED1743981",
@@ -11776,7 +11765,7 @@
     "link": "https://apply.workable.com/j/82D0418695",
     "date": "2026-11-03",
     "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus",
+    "location": "Serbia",
     "department": "Support",
     "active": true,
     "dateVerified": true,
@@ -12748,19 +12737,6 @@
     "slug": "sls214"
   },
   {
-    "id": "5E5FADBEA0",
-    "title": "Backend Engineer - Money",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/5E5FADBEA0",
-    "date": "2026-11-02",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "be99"
-  },
-  {
     "id": "65B230465C",
     "title": "Collection Manager / Senior Manager",
     "company": "Ajaib Crypto",
@@ -12772,6 +12748,19 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr126"
+  },
+  {
+    "id": "5E5FADBEA0",
+    "title": "Backend Engineer - Money",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/5E5FADBEA0",
+    "date": "2026-11-02",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Jakarta, Indonesia",
+    "department": "Engineering",
+    "active": true,
+    "dateVerified": true,
+    "slug": "be99"
   },
   {
     "id": "57DA69985E",
@@ -12793,7 +12782,7 @@
     "link": "https://apply.workable.com/j/23E677EEE1",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -12819,17 +12808,17 @@
     "link": "https://apply.workable.com/j/B4AD47F599",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
     "slug": "be100"
   },
   {
-    "id": "68ff9c2948ca",
-    "title": "AI Datacenter Electrical / High Voltage Construction Manager",
+    "id": "dab20211c983",
+    "title": "AI Datacenter Construction Cost Lead",
     "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
+    "link": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
     "date": "2026-11-02",
     "dateVerified": true,
     "dateSource": "Breezy.JobPosting.datePosted",
@@ -12839,13 +12828,13 @@
     "department": "",
     "active": true,
     "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
-      "checkedAt": "2026-11-04T00:07:21.159Z",
-      "bodySha256": "0d48bf8f480b847432805ba8db91b42d43b237e1d1a807af8974d08e0de49a94",
+      "url": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
+      "checkedAt": "2026-11-05T00:30:49.947Z",
+      "bodySha256": "0f2b8f1be757e7a977140a0d2825e1e6ba53173f24595e369f7b09b004260b50",
       "provider": "breezy",
       "datePosted": "2026-11-02"
     },
-    "slug": "mgr224"
+    "slug": "adcc"
   },
   {
     "id": "966674063fc9",
@@ -12870,10 +12859,10 @@
     "slug": "mgr225"
   },
   {
-    "id": "dab20211c983",
-    "title": "AI Datacenter Construction Cost Lead",
+    "id": "68ff9c2948ca",
+    "title": "AI Datacenter Electrical / High Voltage Construction Manager",
     "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
+    "link": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
     "date": "2026-11-02",
     "dateVerified": true,
     "dateSource": "Breezy.JobPosting.datePosted",
@@ -12883,13 +12872,13 @@
     "department": "",
     "active": true,
     "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
-      "checkedAt": "2026-11-05T00:30:49.947Z",
-      "bodySha256": "0f2b8f1be757e7a977140a0d2825e1e6ba53173f24595e369f7b09b004260b50",
+      "url": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
+      "checkedAt": "2026-11-04T00:07:21.159Z",
+      "bodySha256": "0d48bf8f480b847432805ba8db91b42d43b237e1d1a807af8974d08e0de49a94",
       "provider": "breezy",
       "datePosted": "2026-11-02"
     },
-    "slug": "adcc"
+    "slug": "mgr224"
   },
   {
     "id": "e89b32dd03f5",
@@ -13328,6 +13317,20 @@
     "slug": "eng686"
   },
   {
+    "id": "8337209",
+    "title": "Customer Support Specialist ll",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8337209?gh_jid=8337209",
+    "date": "2026-10-30T15:09:54-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Coinbase [coinbase]",
+    "location": "Manila, Philippines",
+    "department": "Customer Experience",
+    "active": true,
+    "dateVerified": true,
+    "slug": "cssl11"
+  },
+  {
     "id": "4474003009",
     "title": "Startup Account Executive",
     "company": "Turnkey",
@@ -13645,21 +13648,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls376"
-  },
-  {
-    "id": "4725490006",
-    "title": "Sales Director, Payments",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position?gh_jid=4725490006",
-    "date": "2026-10-30T10:31:40-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "New York",
-    "department": "Sales",
-    "active": true,
-    "salary": "$280k – $390k/yr",
-    "dateVerified": true,
-    "slug": "sls505"
   },
   {
     "id": "8336819",
@@ -14408,20 +14396,6 @@
     "slug": "sls365"
   },
   {
-    "id": "8334234",
-    "title": "Customer Support Specialist ll",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234",
-    "date": "2026-10-29T14:31:15-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Manila, Philippines",
-    "department": "Customer Experience",
-    "active": true,
-    "dateVerified": true,
-    "slug": "cssl11"
-  },
-  {
     "id": "6238590004",
     "title": "Accounting Senior Manager",
     "company": "Alpaca",
@@ -15044,6 +15018,20 @@
     "dateVerified": true,
     "dateSource": "Lever.createdAt",
     "slug": "aso85"
+  },
+  {
+    "id": "8066179003",
+    "title": "Head of Tax Information Reporting",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8066179003",
+    "date": "2026-10-29T03:19:19-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "EMEA (Remote)",
+    "department": "Compliance",
+    "active": true,
+    "dateVerified": true,
+    "slug": "tir7"
   },
   {
     "id": "8333165",
@@ -16458,28 +16446,6 @@
     "slug": "pcac"
   },
   {
-    "id": "cee1769dc482",
-    "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
-    "date": "2026-10-28",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "San Jose, CA",
-    "isRemote": false,
-    "department": "AI Cloud",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
-      "checkedAt": "2026-10-30T03:42:02.721Z",
-      "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
-      "provider": "breezy",
-      "datePosted": "2026-10-28"
-    },
-    "slug": "sls189"
-  },
-  {
     "id": "62b347cbd2e2",
     "title": "Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle",
     "company": "Bitdeer",
@@ -16500,6 +16466,28 @@
       "datePosted": "2026-10-28"
     },
     "slug": "sls187"
+  },
+  {
+    "id": "cee1769dc482",
+    "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "San Jose, CA",
+    "isRemote": false,
+    "department": "AI Cloud",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+      "checkedAt": "2026-10-30T03:42:02.721Z",
+      "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    },
+    "slug": "sls189"
   },
   {
     "id": "605451fdfa56",
@@ -16765,20 +16753,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec97"
-  },
-  {
-    "id": "8046685003",
-    "title": "Head of Tax Information Reporting",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
-    "date": "2026-10-27T16:32:34-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "EMEA (Remote)",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "tir7"
   },
   {
     "id": "e8815463-ee2b-4fb8-bb18-4890866dc61a",
@@ -18888,7 +18862,7 @@
     "link": "https://apply.workable.com/j/1F4419D80D",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -18901,7 +18875,7 @@
     "link": "https://apply.workable.com/j/3DAF98D87C",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -21686,20 +21660,6 @@
     "slug": "er"
   },
   {
-    "id": "f192a8ac-f788-4e9e-88d2-3ad906c5e734",
-    "title": "Security Engineer, Product Security",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/f192a8ac-f788-4e9e-88d2-3ad906c5e734",
-    "date": "2026-10-21",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "Remote (United States)",
-    "workplaceType": "Remote",
-    "department": "Security",
-    "active": true,
-    "slug": "sec40"
-  },
-  {
     "id": "1c718a25-79c6-4dce-8f71-350eda862cef",
     "title": "Sales Executive, APAC - Banking & Capital Markets",
     "company": "Chainlink Labs",
@@ -21712,6 +21672,20 @@
     "department": "Capital Markets",
     "active": true,
     "slug": "sls248"
+  },
+  {
+    "id": "f192a8ac-f788-4e9e-88d2-3ad906c5e734",
+    "title": "Security Engineer, Product Security",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/f192a8ac-f788-4e9e-88d2-3ad906c5e734",
+    "date": "2026-10-21",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "Remote (United States)",
+    "workplaceType": "Remote",
+    "department": "Security",
+    "active": true,
+    "slug": "sec40"
   },
   {
     "id": "3F4E74A732",
@@ -22211,6 +22185,21 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng635"
+  },
+  {
+    "id": "4717630006",
+    "title": "Sales Director, Payments",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4717630006",
+    "date": "2026-10-20T11:25:36-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Fireblocks [fireblocks]",
+    "location": "New York",
+    "department": "Sales",
+    "active": true,
+    "salary": "$280k – $390k/yr",
+    "dateVerified": true,
+    "slug": "sls504"
   },
   {
     "id": "5457200008",
@@ -23804,28 +23793,6 @@
     "slug": "eng400"
   },
   {
-    "id": "3d1118fbc3e2",
-    "title": "Senior Financial Analyst (Financing / Capital Markets)",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
-    "date": "2026-10-19",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "San Jose, CA",
-    "isRemote": false,
-    "department": "Finance",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
-      "checkedAt": "2026-11-05T00:30:55.123Z",
-      "bodySha256": "4280a5c4a144ba18935f77ac6029ffda0af314fa4e88742f1b6a08a04be4d049",
-      "provider": "breezy",
-      "datePosted": "2026-10-19"
-    },
-    "slug": "an69"
-  },
-  {
     "id": "cb3893a9140d",
     "title": "Senior Finance Manager / Director of Finance (Financing / Capital Markets)",
     "company": "Bitdeer",
@@ -23846,6 +23813,28 @@
       "datePosted": "2026-10-19"
     },
     "slug": "mgr147"
+  },
+  {
+    "id": "3d1118fbc3e2",
+    "title": "Senior Financial Analyst (Financing / Capital Markets)",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
+    "date": "2026-10-19",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "San Jose, CA",
+    "isRemote": false,
+    "department": "Finance",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/3d1118fbc3e2-senior-financial-analyst-financing-capital-markets",
+      "checkedAt": "2026-11-05T00:30:55.123Z",
+      "bodySha256": "4280a5c4a144ba18935f77ac6029ffda0af314fa4e88742f1b6a08a04be4d049",
+      "provider": "breezy",
+      "datePosted": "2026-10-19"
+    },
+    "slug": "an69"
   },
   {
     "id": "5009500101",
@@ -24484,7 +24473,7 @@
     "location": "Buenos Aires, Argentina (Remote)",
     "department": "Corporate Development",
     "active": true,
-    "slug": "sls504"
+    "slug": "sls509"
   },
   {
     "id": "eecf9af5-46fb-4b62-b8c8-921098fd6514",
@@ -24960,7 +24949,7 @@
     "link": "https://apply.workable.com/j/97A1EF0F16",
     "date": "2026-10-16T00:00:00.000Z",
     "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus",
+    "location": "Kazakhstan",
     "department": "BD",
     "active": true,
     "dateVerified": true,
@@ -25758,18 +25747,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "pm31"
-  },
-  {
-    "id": "2785216",
-    "title": "Fullstack Engineer - AgenticOps (100% Remote)",
-    "company": "Tether",
-    "link": "https://tether.recruitee.com/o/fullstack-engineer-agenticops-100-remote-15",
-    "date": "2026-10-15T11:36:50Z",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "fs29"
   }
 ]

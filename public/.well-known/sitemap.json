@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-14T10:57:54.405Z",
+  "generatedAt": "2026-11-14T11:39:06.176Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4010,
+  "count": 4007,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -3406,12 +3406,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/cc11",
-      "lastmod": "2026-11-12",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/cc9",
       "lastmod": "2026-10-22",
       "changefreq": "daily",
@@ -4432,12 +4426,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/coinflow-labs",
-      "lastmod": "2026-11-12",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/coingecko",
       "lastmod": "2026-11-13",
       "changefreq": "weekly",
@@ -5069,7 +5057,7 @@
     },
     {
       "url": "https://hashtagweb3.com/cssl11",
-      "lastmod": "2026-10-29",
+      "lastmod": "2026-10-30",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -8766,12 +8754,6 @@
     {
       "url": "https://hashtagweb3.com/fs28",
       "lastmod": "2026-10-26",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/fs29",
-      "lastmod": "2026-10-15",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -19697,25 +19679,25 @@
     },
     {
       "url": "https://hashtagweb3.com/sls504",
-      "lastmod": "2026-10-16",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sls505",
-      "lastmod": "2026-10-30",
+      "lastmod": "2026-10-20",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/sls506",
-      "lastmod": "2026-11-12",
+      "lastmod": "2026-10-16",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/sls507",
       "lastmod": "2026-11-06",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sls508",
+      "lastmod": "2026-11-12",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -20999,7 +20981,7 @@
     },
     {
       "url": "https://hashtagweb3.com/tir7",
-      "lastmod": "2026-10-27",
+      "lastmod": "2026-10-29",
       "changefreq": "daily",
       "priority": 0.8
     },

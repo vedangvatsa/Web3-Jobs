@@ -157290,5 +157290,69 @@
     "company": "Story Protocol",
     "title": "Senior Accountant (Story + Wizard)",
     "newSlug": "sls508"
+  },
+  "mkt117": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt153"
+  },
+  "sls304": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls507"
+  },
+  "cmp131": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp177"
+  },
+  "cc11": {
+    "id": "99764297",
+    "link": "https://jobs.ashbyhq.com/Coinflow/2bc08e56-e01e-460d-ab93-b156e27f2540",
+    "company": "Coinflow Labs",
+    "title": "Corporate Counsel"
+  },
+  "infra83": {
+    "id": "7996101003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996101003",
+    "company": "OKX",
+    "title": "Senior Management, Platform & Infrastructure Audit"
+  },
+  "sss8": {
+    "id": "8335618",
+    "link": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
+    "company": "Coinbase",
+    "title": "Social Support Specialist I"
+  },
+  "sls505": {
+    "id": "4725490006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4725490006",
+    "company": "Fireblocks",
+    "title": "Sales Director, Payments"
+  },
+  "cssl11": {
+    "id": "8334234",
+    "link": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "tir7": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "sls504": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls509"
   }
 }
