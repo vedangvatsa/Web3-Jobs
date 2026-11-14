@@ -240,7 +240,7 @@
     "sentAt": "2026-11-13T19:32:40.534Z"
   },
   "c5a74ca8-dada-4235-85e1-53d5656827b8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-14T11:32:39.149Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -352,6 +352,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/infra67?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Staff Engineer, Big Data Infrastructure</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec48?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter - Engineering</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm159?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal/Senior VIP Product Manager, Onshore Markets</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls306?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mid Market Account Executive</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm37?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">RWA Product Manager</a>",
-    "slotKey": "2026-11-14:afternoon"
+    "slotKey": "2026-11-14:afternoon",
+    "messageId": 156222,
+    "sentAt": "2026-11-14T11:33:10.565Z"
   }
 }
