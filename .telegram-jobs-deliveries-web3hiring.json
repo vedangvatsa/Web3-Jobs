@@ -710,5 +710,124 @@
     "slotKey": "2026-11-14:afternoon",
     "messageId": 193,
     "sentAt": "2026-11-14T11:32:19.401Z"
+  },
+  "0ee933a2-7a1e-4e9b-bb36-a55a3c463d15": {
+    "status": "reserved",
+    "reservedAt": "2026-11-14T19:32:21.571Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6255596004",
+          "title": "Operations Analyst",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6255596004",
+          "date": "2026-11-11T16:30:20-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote - Global (Eastern Time Zone)",
+          "department": "Market Data",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops174"
+        },
+        "key": "6255596004",
+        "slug": "ops174",
+        "url": "https://hashtagweb3.com/ops174?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Operations Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "keka-dcx-146600",
+          "title": "Institutional Sales",
+          "company": "BitOasis",
+          "link": "https://dcx.keka.com/careers/jobdetails/146600",
+          "location": "Dubai, United Arab Emirates",
+          "department": "Business Development",
+          "type": "Full-time",
+          "date": "2026-11-06T12:06:46.330Z",
+          "dateVerified": true,
+          "dateSource": "Keka.JobPosting.publishedOn",
+          "source": "Keka: BitOasis [dcx]",
+          "applyUrl": "https://dcx.keka.com/careers/jobdetails/146600",
+          "active": true,
+          "salary": "AED 20,000 - 30,000/month",
+          "slug": "sls507"
+        },
+        "key": "keka-dcx-146600",
+        "slug": "sls507",
+        "url": "https://hashtagweb3.com/sls507?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitOasis",
+        "title": "Institutional Sales"
+      },
+      {
+        "snapshot": {
+          "id": "6ac76cb5-b395-4a2b-bef4-124c176359fd",
+          "title": "Finance Analyst",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/Coinflow/6ac76cb5-b395-4a2b-bef4-124c176359fd",
+          "date": "2026-10-21T15:21:56.577+00:00",
+          "source": "Ashby: Coinflow [Coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an25"
+        },
+        "key": "6ac76cb5-b395-4a2b-bef4-124c176359fd",
+        "slug": "an25",
+        "url": "https://hashtagweb3.com/an25?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Finance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "a8c2bfcd-640f-4af1-90b4-8540a01f615a",
+          "title": "Staff Product Security Engineer",
+          "company": "Tools for Humanity",
+          "link": "https://jobs.ashbyhq.com/Tools%20for%20Humanity/a8c2bfcd-640f-4af1-90b4-8540a01f615a",
+          "date": "2026-11-04T23:56:31.865+00:00",
+          "source": "Ashby: Tools for Humanity [Tools for Humanity]",
+          "location": "San Francisco",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec148"
+        },
+        "key": "a8c2bfcd-640f-4af1-90b4-8540a01f615a",
+        "slug": "sec148",
+        "url": "https://hashtagweb3.com/sec148?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tools for Humanity",
+        "title": "Staff Product Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8041248003",
+          "title": "Senior Business Analytics Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8041248003",
+          "date": "2026-10-22T06:13:20-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sliema, Malta",
+          "department": "CEO Office",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr108"
+        },
+        "key": "8041248003",
+        "slug": "mgr108",
+        "url": "https://hashtagweb3.com/mgr108?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Business Analytics Manager"
+      }
+    ],
+    "message": "- Alpaca is hiring <a href=\"https://hashtagweb3.com/ops174?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Analyst</a>\n- BitOasis is hiring <a href=\"https://hashtagweb3.com/sls507?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Institutional Sales</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/an25?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Analyst</a>\n- Tools for Humanity is hiring <a href=\"https://hashtagweb3.com/sec148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Security Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr108?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Analytics Manager</a>",
+    "slotKey": "2026-11-14:evening"
   }
 }
