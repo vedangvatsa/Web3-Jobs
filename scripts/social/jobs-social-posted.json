@@ -136735,6 +136735,47 @@
       "attemptId": "a1d2e1b2-bd6a-4e6e-89a0-b49d533d8304",
       "verification": "verified",
       "postId": "0x3ebcbd9fd1a117a03c92f928ea44f7572eede259"
+    },
+    {
+      "slug": "eng624",
+      "company": "Augustus",
+      "title": "Engineering Fellowship",
+      "platform": "linkedin",
+      "postedAt": "2026-11-14T19:33:12.085Z",
+      "expectedText": "Augustus is hiring Engineering Fellowship: https://hashtagweb3.com/eng624/li?og=7",
+      "snapshot": {
+        "id": "cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "title": "Engineering Fellowship",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "date": "2026-10-19T20:08:43.343+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng624"
+      },
+      "payload": {
+        "text": "Augustus is hiring Engineering Fellowship: https://hashtagweb3.com/eng624/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng624/li?og=7",
+          "title": "Engineering Fellowship at Augustus",
+          "description": "Join Augustus as Engineering Fellowship. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og-image.png"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "db700949-232b-49e2-9a9d-03971dc43d07",
+      "verification": "creating"
     }
   ]
 }
