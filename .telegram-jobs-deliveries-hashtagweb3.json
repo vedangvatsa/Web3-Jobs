@@ -357,7 +357,7 @@
     "sentAt": "2026-11-14T11:33:10.565Z"
   },
   "b678097e-14f4-4a69-b677-1b433eedf113": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-14T19:32:30.867Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -472,6 +472,8 @@
       }
     ],
     "message": "- Rain is hiring <a href=\"https://hashtagweb3.com/eng768?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Data Platform Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls337?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive (Grower) - German Speaking</a>\n- Dune is hiring <a href=\"https://hashtagweb3.com/pm314?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Product</a>\n- Turnkey is hiring <a href=\"https://hashtagweb3.com/eng299?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Platform Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/eng501?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Machine Learning Engineer, Platform</a>",
-    "slotKey": "2026-11-14:evening"
+    "slotKey": "2026-11-14:evening",
+    "messageId": 156241,
+    "sentAt": "2026-11-14T19:32:38.158Z"
   }
 }
