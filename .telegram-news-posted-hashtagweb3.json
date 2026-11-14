@@ -8,6 +8,9 @@
   "https://hashtagweb3.com/bitmineloss?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/kalshitrump?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/paywardq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/novigrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nvidiasuccession?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/okxicedebut?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -26,6 +29,12 @@
   "Kalshi ends Donald Trump Jr.'s advisory role over Polymarket investment",
   "Kraken Parent Payward Q3 Adjusted EBITDA Drops 66%",
   "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA",
+  "NY Judge Rules Novig Sports Contracts Are Not Swaps",
+  "New York judge denies Novig injunction, rules sports event contracts are not swaps",
+  "Nvidia board considers Arm CEO Rene Haas to succeed Huang",
+  "Nvidia board approaches Arm chief Rene Haas as Huang successor",
+  "OKXICE to launch tokenized stock trading on November 23",
+  "OKXICE sets Nov. 23 open for tokenized stock trading",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -34,5 +43,8 @@
   "fp:202|allow|approv|asset|bill|freez|hous|lawmaker|legislation|lower",
   "fp:54b|63b|account|below|bitmin|cit|cost|ether|fell|fiscal2026",
   "fp:advisory|capital|competitor|contract|donald|end|firm1789|his|increas|investment",
-  "fp:adjust|declin|drop|drops66|drov|ebitda|global|incom|increas|kraken"
+  "fp:adjust|declin|drop|drops66|drov|ebitda|global|incom|increas|kraken",
+  "fp:are|contract|deny|event|gambl|injunction|judg|licens|not|novig",
+  "fp:600|approach|arm|board|ceo|chief|consider|contact|employe|financial",
+  "fp:asset|at9|despite67|issuer|nov23|november23|objection|of70|okxic|open"
 ]
