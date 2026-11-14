@@ -712,7 +712,7 @@
     "sentAt": "2026-11-14T11:32:19.401Z"
   },
   "0ee933a2-7a1e-4e9b-bb36-a55a3c463d15": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-14T19:32:21.571Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -828,6 +828,8 @@
       }
     ],
     "message": "- Alpaca is hiring <a href=\"https://hashtagweb3.com/ops174?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Analyst</a>\n- BitOasis is hiring <a href=\"https://hashtagweb3.com/sls507?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Institutional Sales</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/an25?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Finance Analyst</a>\n- Tools for Humanity is hiring <a href=\"https://hashtagweb3.com/sec148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Security Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr108?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Business Analytics Manager</a>",
-    "slotKey": "2026-11-14:evening"
+    "slotKey": "2026-11-14:evening",
+    "messageId": 16646,
+    "sentAt": "2026-11-14T19:32:23.928Z"
   }
 }
