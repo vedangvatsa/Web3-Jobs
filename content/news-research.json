@@ -169213,14 +169213,14 @@
         "id": "35e98476d4100d3ce42c",
         "day": "2026-11-14",
         "articleSlug": "bitgetshield",
-        "note": "Round 4: found independent corroboration via web search - crypto.news and Crypto Briefing both covered Bitget Wallet's Nov. 11 AI threat-detection announcement (7.4-fold Q3 phishing rise, 37,000/week vs 5,000, 57.4% share, 90.2% AI-flagged domains). Cointelegraph read in prior round. Next: read crypto.news and cryptobriefing full text, then write draft.",
+        "note": "Round 4: independent corroboration found - crypto.news and Crypto Briefing both published Nov. 11 stories on Bitget Wallet's AI threat-detection expansion (7.4-fold Q3 rise, 37,000 vs 5,000 weekly flagged signing requests, 57.4% phishing share, 90.2% AI-flagged newly blocked domains in early Q4, 69.8% without external-feed match, GetShield layers, COO Alvin Kan caveats). Cointelegraph read in prior round. Search excerpts only so far for the two new outlets - next: open crypto.news and cryptobriefing.com full text, then write bitgetshield draft.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge",
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-14T01:11:30.483Z",
+        "updatedAt": "2026-11-14T01:16:26.384Z",
         "approved": false,
         "mustReview": true
       }
