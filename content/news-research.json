@@ -169402,28 +169402,28 @@
       "id": "9dc53deaf05a35876e73",
       "status": "deferred",
       "firstSeenAt": "2026-11-12T01:37:00.023Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-14T21:00:46.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Ethlabs Puts Ethereum Quantum Defense Ahead of Speed\": https://thedefiant.io/news/blockchains/ethlabs-puts-ethereum-quantum-defense-ahead-of-speed -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "note": "Read Bankless Nov. 13 full text on Ethlabs publishing its pqai27 proposal Nov. 11 (withdraws Quick Slots 12s to 10s push, targets post-quantum Ethereum in 2027, Monnot calls Quick Slots withdrawal unconditional, Wahrstatter and Ben-Sasson doubts). The Defiant primary URL returned HTTP 403 today, so only one independent outlet is readable.",
       "sourceChecks": [
         {
+          "url": "https://www.bankless.com/read/news/ethlabs-drops-quick-slots-push-to-chase-a-post-quantum-ethereum-by-2027",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/news/blockchains/ethlabs-puts-ethereum-quantum-defense-ahead-of-speed",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-13T11:28:45.735Z"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-13T11:28:55.220Z",
+      "reviewedAt": "2026-11-14T01:30:43.974Z",
       "retrySearches": [
-        "Find a readable primary announcement or filing for: Ethlabs Puts Ethereum Quantum Defense Ahead of Speed",
-        "Find independent reporting confirming the event in: Ethlabs Puts Ethereum Quantum Defense Ahead of Speed",
-        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+        "Find independent reporting or an Ethlabs primary announcement corroborating the pqai27 post-quantum Ethereum 2027 proposal and Quick Slots withdrawal",
+        "Retry thedefiant.io Ethlabs article after its 403 within the verification window"
       ],
-      "lastReviewedDay": "2026-11-13",
-      "nextReviewDate": "2026-11-14"
+      "lastReviewedDay": "2026-11-14",
+      "nextReviewDate": "2026-11-15"
     },
     "6d0905d8b201cc61df28": {
       "source": "BeInCrypto",
@@ -335910,6 +335910,26 @@
           ],
           "reviewedAt": "2026-11-14T01:27:24.844Z",
           "articleSlug": "novigrule"
+        },
+        "9dc53deaf05a35876e73": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Bankless Nov. 13 full text on Ethlabs publishing its pqai27 proposal Nov. 11 (withdraws Quick Slots 12s to 10s push, targets post-quantum Ethereum in 2027, Monnot calls Quick Slots withdrawal unconditional, Wahrstatter and Ben-Sasson doubts). The Defiant primary URL returned HTTP 403 today, so only one independent outlet is readable.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/ethlabs-drops-quick-slots-push-to-chase-a-post-quantum-ethereum-by-2027",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/ethlabs-puts-ethereum-quantum-defense-ahead-of-speed",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:30:43.974Z",
+          "retrySearches": [
+            "Find independent reporting or an Ethlabs primary announcement corroborating the pqai27 post-quantum Ethereum 2027 proposal and Quick Slots withdrawal",
+            "Retry thedefiant.io Ethlabs article after its 403 within the verification window"
+          ]
         }
       },
       "baselineSlugs": [
