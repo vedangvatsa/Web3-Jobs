@@ -136775,7 +136775,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "db700949-232b-49e2-9a9d-03971dc43d07",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af8b803e86a5789a6c9ec86"
     }
   ]
 }
