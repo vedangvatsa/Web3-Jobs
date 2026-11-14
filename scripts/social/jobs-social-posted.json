@@ -137313,7 +137313,8 @@
       },
       "account": "channel:founders",
       "attemptId": "f1fafc93-8a27-456c-9f03-2a9a514be07a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x905051350642690b53adb5d2f5edda93675a175d"
     }
   ]
 }
