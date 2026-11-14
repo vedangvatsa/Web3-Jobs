@@ -136090,6 +136090,39 @@
       "attemptId": "46350e76-0ffa-4e96-bcca-f60dbf2e1066",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 14-Nov-26 11:33:25 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ALIY9uBLvruALbH6AvJlj70\"}"
+    },
+    {
+      "slug": "eng624",
+      "company": "Augustus",
+      "title": "Engineering Fellowship",
+      "platform": "bluesky",
+      "postedAt": "2026-11-14T19:33:12.085Z",
+      "expectedText": "Augustus is hiring Engineering Fellowship: https://hashtagweb3.com/eng624/bsky?og=7",
+      "snapshot": {
+        "id": "cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "title": "Engineering Fellowship",
+        "company": "Augustus",
+        "link": "https://jobs.ashbyhq.com/Augustus/cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "date": "2026-10-19T20:08:43.343+00:00",
+        "source": "Ashby: Augustus [Augustus]",
+        "location": "Berlin",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng624"
+      },
+      "payload": {
+        "text": "Augustus is hiring Engineering Fellowship: https://hashtagweb3.com/eng624/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng624/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng624.png?v=7",
+        "company": "Augustus",
+        "title": "Engineering Fellowship",
+        "description": "Join Augustus as Engineering Fellowship. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "d957de70-3ea5-4a1e-9616-64c5261a9da5",
+      "verification": "creating"
     }
   ]
 }
