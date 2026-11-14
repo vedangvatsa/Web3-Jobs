@@ -179,6 +179,16 @@
       "slot": "afternoon",
       "date": "2026-11-12",
       "queuedAt": "2026-11-12T11:33:32.979Z"
+    },
+    {
+      "slug": "aztectierra",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af846d94b28296eb1538b85",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-14",
+      "queuedAt": "2026-11-14T11:32:41.404Z"
     }
   ]
 }
