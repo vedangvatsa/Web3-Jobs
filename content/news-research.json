@@ -176323,9 +176323,9 @@
         "Crypto Briefing"
       ],
       "id": "6a25249f63384300a17d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T21:49:27.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "articleSlug": "hsmvault",
@@ -176347,7 +176347,21 @@
         "updatedAt": "2026-11-14T01:34:47.024Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov. 13 Blockstream-Thales custody launch against Cointelegraph's report with Adam Back interview quotes and Crypto Briefing's full product details (HSM-bound Secure-MPC signing, institutional features, Q3 beta, Digital Assets Forum). Quality, formatting, image, duplicate audits pass; hero is a CC BY 2.0 Adam Back photo self-hosted at /images/news/hsmvault.jpg.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/blockstream-thales-bitcoin-custody-offline-security/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-14T01:37:37.380Z",
+      "lastReviewedDay": "2026-11-14"
     },
     "b36567f27527c5fb1bb5": {
       "source": "Crypto Briefing",
@@ -336123,6 +336137,23 @@
           "retrySearches": [
             "Find independent reporting or official confirmation of advancing SpaceX-Tesla merger talks, ideally the Bloomberg Technology original or SEC/company statements"
           ]
+        },
+        "6a25249f63384300a17d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov. 13 Blockstream-Thales custody launch against Cointelegraph's report with Adam Back interview quotes and Crypto Briefing's full product details (HSM-bound Secure-MPC signing, institutional features, Q3 beta, Digital Assets Forum). Quality, formatting, image, duplicate audits pass; hero is a CC BY 2.0 Adam Back photo self-hosted at /images/news/hsmvault.jpg.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/blockstream-thales-bitcoin-custody-offline-security/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-14T01:37:37.380Z",
+          "articleSlug": "hsmvault"
         }
       },
       "baselineSlugs": [
