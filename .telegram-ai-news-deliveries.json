@@ -78,7 +78,7 @@
     "sentAt": "2026-11-13T19:32:11.491Z"
   },
   "98db16d7-efef-4df1-9c6a-2d55f0fe47b9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-14T11:32:35.994Z",
     "stories": [
       {
@@ -112,6 +112,8 @@
         "originalTitle": "As AI agents take control, Nvidia rethinks the security playbook"
       }
     ],
-    "slotKey": "2026-11-14:afternoon"
+    "slotKey": "2026-11-14:afternoon",
+    "messageId": 193514,
+    "sentAt": "2026-11-14T11:33:33.610Z"
   }
 }
