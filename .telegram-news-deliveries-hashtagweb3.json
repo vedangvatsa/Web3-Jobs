@@ -196,5 +196,36 @@
     "slotKey": "2026-11-15:afternoon",
     "messageId": 156268,
     "sentAt": "2026-11-15T11:33:10.643Z"
+  },
+  "0bc8d50c-d4de-4c0d-b5bd-bdb03d4612ac": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T19:32:52.051Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "DOJ Authorized to Seize $1.2 Billion Stolen Binance Funds",
+        "summary": "The department also disrupted FaceStealer infrastructure tied to over $400 million in separate crypto thefts.",
+        "link": "https://hashtagweb3.com/dojseizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOJ gets court authority to seize $1.2 billion of Binance hack crypto, disrupts FaceStealer"
+      },
+      {
+        "index": -1,
+        "headline": "DTCC to Bring Tokenized Assets to Solana in 2027",
+        "summary": "The clearinghouse will integrate its Tokenization Service with the blockchain network in the second half of 2027.",
+        "link": "https://hashtagweb3.com/dtccsolana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DTCC plans to bring tokenized DTC assets to Solana in second half of 2027"
+      },
+      {
+        "index": -1,
+        "headline": "Grayscale allocates $1 million from fund fees to Zcash",
+        "summary": "The firm awarded four $100,000 grants and launched a national advertising campaign on Nov. 10.",
+        "link": "https://hashtagweb3.com/zcashgrants?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Grayscale pledges $1 million to Zcash ecosystem with first $400,000 in grants"
+      }
+    ],
+    "slotKey": "2026-11-15:evening"
   }
 }
