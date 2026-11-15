@@ -178913,7 +178913,7 @@
         "id": "4519c0868b1010faa321",
         "day": "2026-11-15",
         "articleSlug": "kavalendhack",
-        "note": "Read Crypto Briefing Nov. 14 and TokenPost Nov. 14 on the Kava Lend exploit (55.2M KAVA drained via dormant BUSD market, ~.09M raised on BNB Chain, exchanges halted, Axelar paused); The Block returned 403. Two independent sources read; draft, image and audits still pending.",
+        "note": "Read Crypto Briefing Nov. 14 and TokenPost Nov. 14 on the Kava Lend exploit (55.2M KAVA drained via dormant BUSD market, about $2.09M raised on BNB Chain, Korean exchanges halted deposits, Axelar bridge paused); The Block returned 403. Two independent sources read; draft, image and audits still pending.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/kava-token-incident-bridge-shutdown/",
@@ -178928,7 +178928,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-15T03:55:30.347Z",
+        "updatedAt": "2026-11-15T03:55:46.941Z",
         "approved": false,
         "mustReview": true
       }
