@@ -140940,7 +140940,8 @@
       },
       "account": "channel:product",
       "attemptId": "40d69d11-b309-4ffa-aba6-35de24d1bc15",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6d879664974082836ff0d24f7fb897e63dbde2a2"
     }
   ]
 }
