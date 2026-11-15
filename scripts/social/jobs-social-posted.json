@@ -140600,7 +140600,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "870f1fa3-6b64-4987-8f66-044b6331fb12",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x890f10238f46865dfa2539a2f1d70b4440ad56da"
     }
   ]
 }
