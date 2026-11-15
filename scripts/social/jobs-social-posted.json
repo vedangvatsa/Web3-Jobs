@@ -138133,7 +138133,8 @@
       },
       "account": "channel:build",
       "attemptId": "a2fa6002-aae7-4485-b36f-da479608e65a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x38eb4109be5c6124a0afb13e1e1c1f94d6ce1cce"
     }
   ]
 }
