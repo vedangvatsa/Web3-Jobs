@@ -173405,14 +173405,14 @@
         "id": "801ba3d8b5380a0b22fd",
         "day": "2026-11-15",
         "articleSlug": "efsale",
-        "note": "Round 3 progress: search this round surfaced independent corroboration for the Nov. 10-11 foundation-linked wallet sale of 2,000 ETH - crypto.news Nov. 11 (Lookonchain-identified 0x5CBC address, 1,000 ETH each day via CoW Protocol into USDS, ~.16M total, prior 2,785 ETH sale Oct. 26), Lookonchain's own Nov. 11 feed item, and Phemex's Nov. 10 note on the first 1,000 ETH sale. Crypto Briefing was read in round 1. None of the new independent pages have been opened yet this round, and no draft exists; recheck and read crypto.news plus one more before any ready outcome.",
+        "note": "Round 3 progress: search this round surfaced independent corroboration for the Nov. 10-11 foundation-linked wallet sale of 2,000 ETH - crypto.news Nov. 11 (Lookonchain-identified 0x5CBC address, 1,000 ETH each day via CoW Protocol into USDS, about $4.16 million total, prior 2,785 ETH sale Oct. 26), Lookonchain own Nov. 11 feed item, and Phemex Nov. 10 note on the first 1,000 ETH sale. Crypto Briefing was read in round 1. None of the new independent pages have been opened yet this round, and no draft exists; recheck and read crypto.news plus one more before any ready outcome.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-15T04:36:56.914Z",
+        "updatedAt": "2026-11-15T04:37:22.488Z",
         "approved": false,
         "mustReview": true
       }
