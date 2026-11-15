@@ -141051,6 +141051,45 @@
       "verification": "verified",
       "postId": "6afa0a6ac5b364e0627a0d41",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7527817635372191744"
+    },
+    {
+      "slug": "sup7",
+      "company": "Riot Platforms",
+      "title": "Mining Operations Supervisor",
+      "platform": "linkedin",
+      "postedAt": "2026-11-15T19:37:11.799Z",
+      "expectedText": "Riot Platforms is hiring Mining Operations Supervisor: https://hashtagweb3.com/sup7/li?og=7",
+      "snapshot": {
+        "id": "88abf1d3-7e44-4519-8665-26e0d49939f7",
+        "title": "Mining Operations Supervisor",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/88abf1d3-7e44-4519-8665-26e0d49939f7",
+        "date": "2026-11-11T14:51:11.285000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Rockdale, TX",
+        "department": "Operations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sup7"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Mining Operations Supervisor: https://hashtagweb3.com/sup7/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sup7/li?og=7",
+          "title": "Mining Operations Supervisor at Riot Platforms",
+          "description": "Join Riot Platforms as Mining Operations Supervisor. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og-image.png"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "65767e5b-533c-4438-8d1d-5555367634ec",
+      "verification": "creating"
     }
   ]
 }
