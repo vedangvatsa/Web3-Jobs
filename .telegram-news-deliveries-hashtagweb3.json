@@ -165,7 +165,7 @@
     "sentAt": "2026-11-15T03:33:15.967Z"
   },
   "7ec1adca-d0fb-42a6-ba9c-defe3dc29c5a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T11:33:07.391Z",
     "stories": [
       {
@@ -193,6 +193,8 @@
         "originalTitle": "Decrypt Money Account adds confidential transfers through Helius privacy rings"
       }
     ],
-    "slotKey": "2026-11-15:afternoon"
+    "slotKey": "2026-11-15:afternoon",
+    "messageId": 156268,
+    "sentAt": "2026-11-15T11:33:10.643Z"
   }
 }

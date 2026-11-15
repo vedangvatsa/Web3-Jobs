@@ -14,6 +14,9 @@
   "https://hashtagweb3.com/secperp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/secnoms?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/twentyoneq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/arkansaskalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/acrosshack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/heliusmoney?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -44,6 +47,12 @@
   "Trump nominates Peirce successor and three others to SEC, CFTC",
   "Twenty One Capital reports $1.09 billion Q3 profit from Bitcoin",
   "Twenty One Capital reports $1.09 billion Q3 net income from bitcoin gains",
+  "US Authorities Sue Arkansas Over Kalshi Gambling Case",
+  "US and CFTC sue Arkansas to stop its case against Kalshi",
+  "Across Protocol Recovers Website After $402,000 Hijack",
+  "Across restores website after domain hijack as Bitquery traces $402,000 in losses",
+  "Decrypt Money Account Integrates Helius Solana Privacy Rings",
+  "Decrypt Money Account adds confidential transfers through Helius privacy rings",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -58,5 +67,8 @@
   "fp:asset|at9|despite67|issuer|nov23|november23|objection|of70|okxic|open",
   "fp:against|approval|back|brief|cbo|cftc|citadel|court|fight|fil",
   "fp:agency|among|bipartisan|cftc|financial|four|hester|levin|nominat|other",
-  "fp:109b|1865m|capital|drov|earn|firm|gain|incom|loss|maintain"
+  "fp:109b|1865m|capital|drov|earn|firm|gain|incom|loss|maintain",
+  "fp:against|argu|arkansa|authority|cas|cftc|contract|event|exclusiv|federal",
+  "fp:000|401|402|900|attack|bitquery|blockchain|domain|drain|engineer",
+  "fp:account|add|address|amount|confidential|decrypt|helius|hid|integrat|leav"
 ]
