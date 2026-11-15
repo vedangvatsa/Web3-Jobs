@@ -1079,7 +1079,7 @@
     "sentAt": "2026-11-15T03:32:27.884Z"
   },
   "e8025f94-e885-4b4c-bb1a-ac24854ed3d3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T03:32:29.923Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -1199,6 +1199,8 @@
       }
     ],
     "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/ops135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Commercial Strategy &amp; Ops Lead</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/eng215?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Engineer - EMEA</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/sls187?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/ops121?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">CRM MarTech &amp; Email Ops Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sls370?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Director, Financial Institutions</a>",
-    "slotKey": "2026-11-15:morning"
+    "slotKey": "2026-11-15:morning",
+    "messageId": 195,
+    "sentAt": "2026-11-15T03:32:32.248Z"
   }
 }
