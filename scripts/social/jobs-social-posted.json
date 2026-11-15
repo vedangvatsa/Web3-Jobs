@@ -140180,7 +140180,8 @@
       },
       "account": "channel:growth",
       "attemptId": "b5a1ff08-f7fc-4251-80a3-6deda270ff0e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x71abcb730848c013087c570884da535924f24adf"
     }
   ]
 }
