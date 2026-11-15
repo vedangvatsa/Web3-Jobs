@@ -179502,7 +179502,7 @@
         "id": "2046504137498498c5b8",
         "day": "2026-11-15",
         "articleSlug": "megacuts",
-        "note": "Round 1 progress: read Cointelegraph Nov. 14 in full (20% staff cut announced Friday by co-founder Shuyao Kong across blockchain/wallet/ecosystem/comms roles, 0M treasury commitment to AI products, inference market whitepaper by Yilong Li and Lei Yang, December public launch planned). CoinDesk returned 429 via WebFetch and curl; The Block returned 403. Still need one readable independent source (crypto.news, TokenPost, Yahoo Finance or Crypto Briefing coverage exists) before any ready outcome; no draft started.",
+        "note": "Round 1 progress: read Cointelegraph Nov. 14 in full (20% staff cut announced Friday by co-founder Shuyao Kong across blockchain/wallet/ecosystem/comms roles, $30 million treasury commitment to AI products, inference market whitepaper by Yilong Li and Lei Yang, December public launch planned). CoinDesk returned 429 via WebFetch and curl; The Block returned 403. Still need one readable independent source (crypto.news, TokenPost, Yahoo Finance or Crypto Briefing coverage exists) before any ready outcome; no draft started.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
@@ -179517,7 +179517,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-15T04:36:50.715Z",
+        "updatedAt": "2026-11-15T04:37:17.008Z",
         "approved": false,
         "mustReview": true
       }
