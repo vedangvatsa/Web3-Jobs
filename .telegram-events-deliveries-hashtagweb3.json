@@ -147,5 +147,53 @@
     "slotKey": "2026-11-14:afternoon",
     "messageId": 156221,
     "sentAt": "2026-11-14T11:32:22.026Z"
+  },
+  "b6f33a78-b34e-40d2-875d-bd5669e98ae8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T11:32:14.891Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-GrtC9TUcGYFirbV",
+        "slug": "not-your-k",
+        "name": "Not Your Keys, Not Your Cheese: Wallet and Security for Solana",
+        "startDate": "2026-11-15T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-grtc9tucgyfirbv",
+          "page:not-your-k:2026-11-15",
+          "luma:evt-grtc9tucgyfirbv",
+          "luma-url:/blockaid-ztbw",
+          "event:notyourkeysnotyourcheesewalletandsecurityforsolana:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-ClcU6QY4XgmdYq5",
+        "slug": "table-stri",
+        "name": "At the Table with Stripe Crypto, Visa, & Open Standard",
+        "startDate": "2026-11-15T18:30:00.000Z",
+        "keys": [
+          "luma-crypto-clcu6qy4xgmdyq5",
+          "page:table-stri:2026-11-15",
+          "luma:evt-clcu6qy4xgmdyq5",
+          "luma-url:/bxvz2tvf",
+          "event:atthetablewithstripecryptovisaopenstandard:2026-11-15:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-29QrT9f31XVpCC5",
+        "slug": "block-mond",
+        "name": "Block Mondays Dubai - Ai x Blockchain - Funding - Ecox Network",
+        "startDate": "2026-11-16T02:30:00.000Z",
+        "keys": [
+          "luma-crypto-29qrt9f31xvpcc5",
+          "page:block-mond:2026-11-16",
+          "luma:evt-29qrt9f31xvpcc5",
+          "luma-url:/ecox-q91p",
+          "event:blockmondaysdubaiaixblockchainfundingecoxnetwork:2026-11-16:dubai"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-15:afternoon"
   }
 }
