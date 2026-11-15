@@ -178592,9 +178592,9 @@
         "Crypto Briefing"
       ],
       "id": "abd27a2e624f2fc55d53",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T19:06:59.000Z",
       "lastSeenAt": "2026-11-15T03:31:30.173Z",
       "articleSlug": "cftclouisiana",
@@ -178620,7 +178620,29 @@
         "updatedAt": "2026-11-15T03:47:09.450Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the CFTC Nov. 13 press release, Crypto Briefing's Nov. 14 report and RG.org's Nov. 14 report on the federal suit against Louisiana and Murrill's Nov. 14 reply; verified the case number, defendant list, hearing dates and both quoted statements across sources. The Block URL returned 403.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9326-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/cftc-sues-louisiana-prediction-markets/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://rg.org/news/prediction-markets/cftc-doj-sue-louisiana-murrill-prediction-markets-tro-preemption",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T03:54:18.122Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "a8d6dc203d124ff6fadc": {
       "source": "Decrypt",
@@ -342878,6 +342900,31 @@
           ],
           "reviewedAt": "2026-11-15T03:43:46.737Z",
           "articleSlug": "binancefull"
+        },
+        "abd27a2e624f2fc55d53": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CFTC Nov. 13 press release, Crypto Briefing's Nov. 14 report and RG.org's Nov. 14 report on the federal suit against Louisiana and Murrill's Nov. 14 reply; verified the case number, defendant list, hearing dates and both quoted statements across sources. The Block URL returned 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9326-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cftc-sues-louisiana-prediction-markets/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://rg.org/news/prediction-markets/cftc-doj-sue-louisiana-murrill-prediction-markets-tro-preemption",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T03:54:18.122Z",
+          "articleSlug": "cftclouisiana"
         }
       },
       "baselineSlugs": [
