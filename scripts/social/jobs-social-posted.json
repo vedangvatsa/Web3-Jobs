@@ -137854,7 +137854,8 @@
         "description": "Join Flowdesk as Network & Cloud Infrastructure Sec. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "04910a62-7f10-41c2-afb1-e6619f5ae748",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2d3faegjm2e"
     }
   ]
 }
