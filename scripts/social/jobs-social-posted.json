@@ -139060,7 +139060,8 @@
       },
       "account": "channel:base",
       "attemptId": "daf2b16d-478e-43a4-9c5b-931e27907de0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfef83d5d4f92b5176a8905ef704f90fdb17b30de"
     }
   ]
 }
