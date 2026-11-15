@@ -178460,11 +178460,29 @@
         "The Defiant"
       ],
       "id": "b36f88318d2eaf0c0639",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T02:50:57.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "price-chatter",
+      "note": "Read Bitcoin.com News on XRP's Nov. 14 low of /bin/bash.99, its lowest daily low since November 2024, tied to ETF outflows and a market-wide liquidation flush. Candidate's CoinDesk URL returned 429 and The Defiant body did not load. This is token price movement, excluded as price chatter.",
+      "sourceChecks": [
+        {
+          "url": "https://news.bitcoin.com/price-predictions/xrp-price-below-1-lowest-since-2024-xrp-etfs-turn-one/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/xrp-falls-to-89-cents-on-coinbase-its-lowest-since-november-2024",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T03:35:28.914Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "abd27a2e624f2fc55d53": {
       "source": "The Block",
@@ -179139,11 +179157,29 @@
         "The Defiant"
       ],
       "id": "3e4b28f714a073ed8d30",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T16:33:29.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "price-chatter",
+      "note": "Read the Bloomberg report via Straits Times on the weekend selloff: bitcoin touched US2,112 with about US billion in 24-hour liquidations. The candidate's own CoinDesk URL returned 429 and The Defiant pages serve only headline and dek; the story is a market price move with analyst commentary, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://www.straitstimes.com/business/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/bitcoin-sinks-below-63-000-as-multiweek-slide-deepens",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T03:35:18.630Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "2046504137498498c5b8": {
       "source": "CoinDesk",
@@ -342638,6 +342674,46 @@
             }
           ],
           "reviewedAt": "2026-11-15T03:33:24.585Z"
+        },
+        "3e4b28f714a073ed8d30": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Bloomberg report via Straits Times on the weekend selloff: bitcoin touched US2,112 with about US billion in 24-hour liquidations. The candidate's own CoinDesk URL returned 429 and The Defiant pages serve only headline and dek; the story is a market price move with analyst commentary, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://www.straitstimes.com/business/bitcoin-tumbles-to-three-month-low-as-liquidations-accelerate",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/bitcoin-sinks-below-63-000-as-multiweek-slide-deepens",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T03:35:18.630Z"
+        },
+        "b36f88318d2eaf0c0639": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Bitcoin.com News on XRP's Nov. 14 low of /bin/bash.99, its lowest daily low since November 2024, tied to ETF outflows and a market-wide liquidation flush. Candidate's CoinDesk URL returned 429 and The Defiant body did not load. This is token price movement, excluded as price chatter.",
+          "sourceChecks": [
+            {
+              "url": "https://news.bitcoin.com/price-predictions/xrp-price-below-1-lowest-since-2024-xrp-etfs-turn-one/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/xrp-falls-to-89-cents-on-coinbase-its-lowest-since-november-2024",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T03:35:28.914Z"
         }
       },
       "baselineSlugs": [
