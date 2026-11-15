@@ -138736,7 +138736,8 @@
       },
       "account": "profile",
       "attemptId": "c34f8ba0-9875-4ff0-9619-8df6c1f89b9b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x52b926badd1a9fc53ecb15f0a607c9d818095a2d"
     }
   ]
 }
