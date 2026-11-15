@@ -146,7 +146,7 @@ scripts/social/buffer-*.json
 scripts/social/publish-*.json
 !scripts/social/publish-slot-state.json
 scripts/social/content-schedule.json
-scripts/social/job-video-state.json
+!scripts/social/job-video-state.json
 scripts/social/nomad-thread-receipts.json
 scripts/social/publish-state.json
 
