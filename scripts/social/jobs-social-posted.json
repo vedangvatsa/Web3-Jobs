@@ -139240,7 +139240,8 @@
       },
       "account": "channel:product",
       "attemptId": "c364d48c-066c-432d-9940-49edbdae0a8b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd751a77887239cf7d3c00ed8bf2ff21f288e40ab"
     }
   ]
 }
