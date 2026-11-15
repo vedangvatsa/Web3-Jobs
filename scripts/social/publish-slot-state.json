@@ -1036,10 +1036,12 @@
           "warshforum",
           "kavalendhack"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-15T17:56:08.199Z",
         "buildId": "daily-20261115-43743765039-1",
-        "rolloutId": "daily-20261115-43743765039-1"
+        "rolloutId": "daily-20261115-43743765039-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-15T18:21:24.899Z"
       }
     ]
   }
