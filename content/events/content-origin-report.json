@@ -121,22 +121,6 @@
       ]
     },
     {
-      "id": "luma-crypto-yogNb1gnuUEJWFz",
-      "slug": "efdhay",
-      "name": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/extraordinaryfoundersdinneroct15",
-        "fetchedAt": "2026-09-19T23:54:05.018Z"
-      },
-      "sections": [
-        "About the event",
-        "What to expect",
-        "Details",
-        "About our hosts & sponsors"
-      ]
-    },
-    {
       "id": "luma-crypto-rHjDzQ9Ow33bh2U",
       "slug": "rls",
       "name": "RWA Leaders Summit - Dubai",

@@ -80,14 +80,7 @@
     "enrichedSourceOnlyRecords": 2,
     "runtimeBefore": 207,
     "runtimeAfter": 220,
-    "naturallyEndedSinceBaseline": [
-      {
-        "id": "luma-crypto-yogNb1gnuUEJWFz",
-        "slug": "extraordinary-founders-dinner",
-        "endDate": "2026-10-16T04:00:00.000Z",
-        "ended": true
-      }
-    ]
+    "naturallyEndedSinceBaseline": []
   },
   "pagination": [
     {

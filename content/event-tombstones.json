@@ -9706,7 +9706,8 @@
   "luma-crypto-mtGOY2CrC193nlv": {
     "until": "2027-11-14T00:00:00.000Z",
     "slugs": [
-      "after-hour01k"
+      "after-hour01k",
+      "luma-crypto-mtgoy2crc193nlv"
     ]
   },
   "luma-crypto-o1VjeTTkG1mOb1K": {
@@ -9991,6 +9992,14 @@
       "wrth-mrkt-tribaja-macabre-mint",
       "tribaja-32pw",
       "luma-batch-evtf75df4ppocl4z"
+    ]
+  },
+  "luma-crypto-yogNb1gnuUEJWFz": {
+    "until": "2027-11-15T10:36:30.305Z",
+    "slugs": [
+      "extraordinary-founders-dinner",
+      "efdhay",
+      "luma-crypto-yognb1gnuuejwfz"
     ]
   }
 }

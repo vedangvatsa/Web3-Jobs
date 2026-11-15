@@ -242,44 +242,6 @@
       "method": "luma-page"
     }
   },
-  "luma-crypto-yogNb1gnuUEJWFz": {
-    "name": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",
-    "startDate": "2026-10-16T01:30:00.000Z",
-    "endDate": "2026-10-16T04:00:00.000Z",
-    "timezone": "America/Los_Angeles",
-    "registrationUrl": "https://luma.com/extraordinaryfoundersdinneroct15",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "hosts": [
-      "Andrew Yeung"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Andrew's Yeung's Tech Events",
-      "url": "https://meetfibe.com/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/extraordinaryfoundersdinneroct15",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/extraordinaryfoundersdinneroct15",
-      "eventId": "evt-yogNb1gnuUEJWFz",
-      "fetchedAt": "2026-10-12T11:25:06.066Z",
-      "method": "luma-page"
-    }
-  },
   "luma-crypto-rHjDzQ9Ow33bh2U": {
     "name": "RWA Leaders Summit - Dubai",
     "startDate": "2026-10-16T06:00:00.000Z",

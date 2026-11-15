@@ -45,12 +45,6 @@
       "xppe9krt"
     ]
   },
-  "luma-crypto-yogNb1gnuUEJWFz": {
-    "slug": "extraordinary-founders-dinner",
-    "aliases": [
-      "efdhay"
-    ]
-  },
   "luma-crypto-rHjDzQ9Ow33bh2U": {
     "slug": "rwa-leaders-summit-dubai",
     "aliases": [
@@ -3756,6 +3750,117 @@
   },
   "token2049-evt-gtIzreCiLVQG3Zo": {
     "slug": "sff-founder",
+    "aliases": []
+  },
+  "luma-6nkwpp8h": {
+    "slug": "kol-table-by-lendary-bangkok",
+    "aliases": []
+  },
+  "curated-spin-and-dine-bangkok-2026": {
+    "slug": "spin-and-dine-bangkok-2026",
+    "aliases": []
+  },
+  "curated-moon-voyage-bangkok-2026": {
+    "slug": "moon-voyage-bangkok-2026",
+    "aliases": []
+  },
+  "curated-the-future-is-tokenized-private-lunch": {
+    "slug": "the-future-is-tokenized-private-lunch",
+    "aliases": []
+  },
+  "luma-bohhfhxu": {
+    "slug": "the-long-table-lunch-with-coinmarketcap-bangkok",
+    "aliases": []
+  },
+  "luma-wu3srly4": {
+    "slug": "021lab-uprising-network-bangkok-coffee-meetup",
+    "aliases": []
+  },
+  "curated-gemdefi-rwa-connect-beyond-the-token": {
+    "slug": "gemdefi-rwa-connect-beyond-the-token",
+    "aliases": []
+  },
+  "luma-5topfryz": {
+    "slug": "bnb-demo-night-bangkok-2026",
+    "aliases": []
+  },
+  "luma-3uxp30qw": {
+    "slug": "the-bangkok-banquet-exclusive-dinner",
+    "aliases": []
+  },
+  "luma-n5i9uvfs": {
+    "slug": "walletconnect-pop-up-bbw-bangkok",
+    "aliases": []
+  },
+  "luma-hnip3uc9": {
+    "slug": "born-up-binance-blockchain-week-bangkok-meetup",
+    "aliases": []
+  },
+  "luma-paxmntmc": {
+    "slug": "protocol-camp-mid-demo-bangkok",
+    "aliases": []
+  },
+  "luma-wr25zqb6": {
+    "slug": "next-builders-bangkok-afterparty",
+    "aliases": []
+  },
+  "luma-ynrd2ww2": {
+    "slug": "satoshi-dinner-club-bangkok",
+    "aliases": []
+  },
+  "luma-ohxe4zfs": {
+    "slug": "milady-rave-binance-week-bangkok",
+    "aliases": []
+  },
+  "curated-picnic-in-the-park-bangkok-2026": {
+    "slug": "picnic-in-the-park-bangkok-2026",
+    "aliases": []
+  },
+  "curated-health-is-wealth-padel-networking": {
+    "slug": "health-is-wealth-padel-networking",
+    "aliases": []
+  },
+  "luma-0ig29n0b": {
+    "slug": "traders-night-bangkok-2026",
+    "aliases": []
+  },
+  "luma-1pg6w6u7": {
+    "slug": "the-reserved-table-binance-blockchain-week",
+    "aliases": []
+  },
+  "curated-the-alpha-table-bnb-and-beyond": {
+    "slug": "the-alpha-table-bnb-and-beyond",
+    "aliases": []
+  },
+  "curated-futurezonic-web3-networking-party": {
+    "slug": "futurezonic-web3-networking-party",
+    "aliases": []
+  },
+  "curated-pancake-bbw-private-dinner": {
+    "slug": "pancake-bbw-private-dinner",
+    "aliases": []
+  },
+  "luma-zuy62cty": {
+    "slug": "web3india-coffee-meetup-bangkok-2026",
+    "aliases": []
+  },
+  "curated-bangkok-convergence-fine-dining-brunch": {
+    "slug": "bangkok-convergence-fine-dining-brunch",
+    "aliases": [
+      "web3-fomo-fest-after-party",
+      "curated-web3-fomo-fest-after-party"
+    ]
+  },
+  "luma-4c0cgfep": {
+    "slug": "investor-innovator-networking-bangkok",
+    "aliases": []
+  },
+  "luma-10wk87r5": {
+    "slug": "the-institutional-house-rwas-stablecoins-ai",
+    "aliases": []
+  },
+  "curated-web3-fomo-fest-after-party": {
+    "slug": "web3-fomo-fest-after-party-bangkok",
     "aliases": []
   }
 }

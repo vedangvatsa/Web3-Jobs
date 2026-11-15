@@ -213,23 +213,6 @@
       }
     },
     {
-      "id": "luma-crypto-yogNb1gnuUEJWFz",
-      "oldSlug": "efdhay",
-      "slug": "extraordinary-founders-dinner",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 3418,
-      "characters": 3418,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/extraordinaryfoundersdinneroct15",
-        "fetchedAt": "2026-10-12T11:25:06.066Z",
-        "status": 200,
-        "sha256": "65a05a3b48abe45b95a9f12468619432990b0a4e5e0211b6eca9abf3a78f2d61"
-      }
-    },
-    {
       "id": "luma-crypto-rHjDzQ9Ow33bh2U",
       "oldSlug": "rls",
       "slug": "rwa-leaders-summit-dubai",

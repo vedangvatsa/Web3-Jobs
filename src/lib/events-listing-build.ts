@@ -235,7 +235,7 @@ function normalizeEventDomainUrl(url?: string): string {
     const u = new URL(url);
     const domain = u.hostname.replace(/^www\./, '').toLowerCase();
     if (domain === 'week.token2049.com' && u.pathname === '/') return '';
-    if (domain.includes('lu.ma') || domain.includes('twitter.com') || domain.includes('x.com') || domain.includes('hashtagweb3.com')) {
+    if (domain.includes('lu.ma') || domain.includes('twitter.com') || domain.includes('x.com') || domain.includes('hashtagweb3.com') || domain.includes('docsend.com')) {
       return '';
     }
     return (domain + u.pathname).replace(/\/$/, '');
