@@ -198,7 +198,7 @@
     "sentAt": "2026-11-15T11:33:23.821Z"
   },
   "9e38bae3-e10f-4f7e-b42b-2cfdd39a103f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T19:33:19.874Z",
     "stories": [
       {
@@ -226,6 +226,8 @@
         "originalTitle": "Grayscale pledges $1 million to Zcash ecosystem with first $400,000 in grants"
       }
     ],
-    "slotKey": "2026-11-15:evening"
+    "slotKey": "2026-11-15:evening",
+    "messageId": 65832,
+    "sentAt": "2026-11-15T19:33:22.566Z"
   }
 }

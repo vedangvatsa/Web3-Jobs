@@ -17,6 +17,9 @@
   "https://hashtagweb3.com/acrosshack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/heliusmoney?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/dojseizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/arkansaskalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dtccsolana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcashgrants?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -53,6 +56,12 @@
   "Decrypt Money Account adds confidential transfers through Helius privacy rings",
   "DOJ Authorized to Seize $1.2 Billion Stolen Binance Crypto",
   "DOJ gets court authority to seize $1.2 billion of Binance hack crypto, disrupts FaceStealer",
+  "US Government Sues Arkansas Over Kalshi Event Contracts",
+  "US and CFTC sue Arkansas to stop its case against Kalshi",
+  "DTCC to launch tokenized assets on Solana in 2027",
+  "DTCC plans to bring tokenized DTC assets to Solana in second half of 2027",
+  "Grayscale Commits $1 Million From Fund Fees to Zcash",
+  "Grayscale pledges $1 million to Zcash ecosystem with first $400,000 in grants",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -70,5 +79,8 @@
   "fp:109b|1865m|appreciation|cam|capital|dur|earn|follow|gain|incom",
   "fp:000|401|402|900|attack|bitquery|chain|compromis|domain|engineer",
   "fp:account|add|address|amount|blockchain|conceal|confidential|decrypt|helius|integrat",
-  "fp:12b|400m|also|associat|authority|authoriz|binanc|court|disrupt|doj"
+  "fp:12b|400m|also|associat|authority|authoriz|binanc|court|disrupt|doj",
+  "fp:against|argu|arkansa|barr|cas|cftc|contract|enforcement|event|exclusiv",
+  "fp:asset|blockchain|clearinghous|connect|custodi|dtc|dtcc|eligibl|half|in2027",
+  "fp:000|100|400|advertis|campaign|commit|ecosystem|fee|four|grant"
 ]
