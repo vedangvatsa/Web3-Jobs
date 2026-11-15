@@ -179608,11 +179608,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "5395cdfd1f3a2e4832d4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T06:31:33.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "source-blocked",
+      "note": "Attempted the primary The Defiant difficulty story via WebFetch and curl with the readiness User-Agent; both returned HTTP 403, so the 9.1% adjustment figures could not be read. The candidate's second URL is a different The Defiant price story that loaded but does not mention mining difficulty, leaving no readable or independent source for the adjustment.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-falls-9-1-most-since-june",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:36:12.602Z",
+      "retrySearches": [
+        "Find readable independent reporting on the Nov. 2026 Bitcoin mining difficulty drop of 9.1% with the adjustment date and new difficulty level"
+      ],
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "24dfb07465ed4222234a": {
       "source": "BeInCrypto",
@@ -343237,6 +343255,25 @@
             }
           ],
           "reviewedAt": "2026-11-15T04:36:07.193Z"
+        },
+        "5395cdfd1f3a2e4832d4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Attempted the primary The Defiant difficulty story via WebFetch and curl with the readiness User-Agent; both returned HTTP 403, so the 9.1% adjustment figures could not be read. The candidate's second URL is a different The Defiant price story that loaded but does not mention mining difficulty, leaving no readable or independent source for the adjustment.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-falls-9-1-most-since-june",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:36:12.602Z",
+          "retrySearches": [
+            "Find readable independent reporting on the Nov. 2026 Bitcoin mining difficulty drop of 9.1% with the adjustment date and new difficulty level"
+          ]
         }
       },
       "baselineSlugs": [
