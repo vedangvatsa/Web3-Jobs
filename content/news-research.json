@@ -173405,14 +173405,18 @@
         "id": "801ba3d8b5380a0b22fd",
         "day": "2026-11-15",
         "articleSlug": "efsale",
-        "note": "Round 3 progress: search this round surfaced independent corroboration for the Nov. 10-11 foundation-linked wallet sale of 2,000 ETH - crypto.news Nov. 11 (Lookonchain-identified 0x5CBC address, 1,000 ETH each day via CoW Protocol into USDS, about $4.16 million total, prior 2,785 ETH sale Oct. 26), Lookonchain own Nov. 11 feed item, and Phemex Nov. 10 note on the first 1,000 ETH sale. Crypto Briefing was read in round 1. None of the new independent pages have been opened yet this round, and no draft exists; recheck and read crypto.news plus one more before any ready outcome.",
+        "note": "Round 3 progress: now two readable independent sources on the Nov. 10-11 foundation-linked wallet sale of 2,000 ETH. Crypto Briefing (read round 1): 1,000 ETH each day via CoW Protocol at $2,080-$2,130 averages, proceeds to USDS, wallet still held over 24,000 ETH, prior 2,785 ETH sale Oct. 26, 2.5-year expense buffer policy. crypto.news Nov. 11 (read this round): Lookonchain-identified 0x5CBC address sold 1,000 ETH Nov. 11 for about $2.03 million into about 2.025 million USDS at about $2,025 average, following the Nov. 10 sale at about $2,130, with total two-day proceeds about $4.16 million and 4,785 ETH sold across Oct. 26 and Nov. 10-11. Remaining: on-chain figures still need one more primary check and the draft has not been started.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
             "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/is-ethereum-price-at-risk-as-foundation-linked-wallet-sells-more-eth/",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-15T04:37:22.488Z",
+        "updatedAt": "2026-11-15T04:37:54.510Z",
         "approved": false,
         "mustReview": true
       }
