@@ -138168,7 +138168,8 @@
       },
       "account": "channel:founders",
       "attemptId": "87a856eb-1910-4b60-aee4-ce4738bb8101",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3ee5903902249b10e77593bac15224b3ffe8ae3a"
     }
   ]
 }
