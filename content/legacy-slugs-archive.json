@@ -157381,5 +157381,225 @@
     "link": "https://jobs.ashbyhq.com/sardine/e4e52261-16bf-4285-aced-636fa7f6c28d",
     "company": "Sardine",
     "title": "Senior Application Security Engineer"
+  },
+  "mkt119": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt152"
+  },
+  "sls307": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development",
+    "newSlug": "sls509"
+  },
+  "cmp133": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp177"
+  },
+  "cs16": {
+    "id": "d9a21373-ee50-421d-9682-7dfc700ec64a",
+    "link": "https://jobs.ashbyhq.com/mantle/d9a21373-ee50-421d-9682-7dfc700ec64a",
+    "company": "Mantle Network",
+    "title": "Customer Support Lead"
+  },
+  "sctm": {
+    "id": "JR101171",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Special-Counsel--Transactions--M-A-and-Bank-Partnerships-_JR101171-1",
+    "company": "Circle",
+    "title": "Special Counsel, Transactions (M&A and Bank Partnerships)"
+  },
+  "an97": {
+    "id": "JR101173",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Analyst_JR101173",
+    "company": "Circle",
+    "title": "Senior Data Analyst"
+  },
+  "ds18": {
+    "id": "JR101174",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Data-Scientist_JR101174-1",
+    "company": "Circle",
+    "title": "Senior Data Scientist"
+  },
+  "ae3": {
+    "id": "f849cb62e155",
+    "link": "https://bitdeer.breezy.hr/p/f849cb62e155-admin-executive",
+    "company": "Bitdeer",
+    "title": "Admin Executive"
+  },
+  "an98": {
+    "id": "71b486b64449",
+    "link": "https://bitdeer.breezy.hr/p/71b486b64449-senior-analyst-project-finance",
+    "company": "Bitdeer",
+    "title": "Senior Analyst, Project Finance"
+  },
+  "eng752": {
+    "id": "605aba32504501",
+    "link": "https://busha.breezy.hr/p/605aba32504501-trading-engineer",
+    "company": "Busha",
+    "title": "Trading Engineer"
+  },
+  "sec117": {
+    "id": "5427855008",
+    "link": "http://block.xyz/careers/jobs/5427855008?gh_jid=5427855008",
+    "company": "Block",
+    "title": "Security Engineer - Network Edge Security"
+  },
+  "rec41": {
+    "id": "8893460002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893460002",
+    "company": "BitGo",
+    "title": "Recruiter (Contract)"
+  },
+  "rec40": {
+    "id": "8893459002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8893459002",
+    "company": "BitGo",
+    "title": "Recruiter (Contract)"
+  },
+  "it14": {
+    "id": "fdab8fd4-2d27-4878-990c-c2b940340336",
+    "link": "https://jobs.ashbyhq.com/trm-labs/fdab8fd4-2d27-4878-990c-c2b940340336",
+    "company": "TRM Labs",
+    "title": "Global Investigator (Triage)"
+  },
+  "eng614": {
+    "id": "be3b7975-e7af-4dc7-b982-2c66fbfaccbf",
+    "link": "https://jobs.ashbyhq.com/stellar/be3b7975-e7af-4dc7-b982-2c66fbfaccbf",
+    "company": "Stellar",
+    "title": "Manager, Solutions Engineering"
+  },
+  "eng613": {
+    "id": "cf393aee-7cfd-421d-bc42-903b3f42dd41",
+    "link": "https://jobs.ashbyhq.com/stellar/cf393aee-7cfd-421d-bc42-903b3f42dd41",
+    "company": "Stellar",
+    "title": "Manager, Solutions Engineering"
+  },
+  "mgr188": {
+    "id": "8287392",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8287392?t=gh_src=&gh_jid=8287392",
+    "company": "Robinhood",
+    "title": "Futures Risk Program Manager"
+  },
+  "mkt123": {
+    "id": "97132369",
+    "link": "https://jobs.solana.com/companies/hylo-2/jobs/97132369-marketing-growth-lead",
+    "company": "Hylo",
+    "title": "Marketing & Growth Lead"
+  },
+  "wdc": {
+    "id": "8275261",
+    "link": "https://stripe.com/jobs/search?gh_jid=8275261",
+    "company": "Stripe",
+    "title": "Workplace Design Coordinator"
+  },
+  "do15": {
+    "id": "4744168005",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4744168005",
+    "company": "FalconX",
+    "title": "Senior Trading Systems DevOps Engineer"
+  },
+  "mgr187": {
+    "id": "6224587004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6224587004",
+    "company": "Galaxy Digital",
+    "title": "Senior Manager, Data Center Construction"
+  },
+  "oo2": {
+    "id": "5008058101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5008058101",
+    "company": "Bybit",
+    "title": "[EU]Chief Business Operations Officer, EU"
+  },
+  "infra47": {
+    "id": "8269052",
+    "link": "https://www.coinbase.com/careers/positions/8269052?gh_jid=8269052",
+    "company": "Coinbase",
+    "title": "Senior Product Marketing Manager, Infrastructure"
+  },
+  "infra63": {
+    "id": "1ef252be-b664-42eb-abc5-6b02b54114ff",
+    "link": "https://jobs.ashbyhq.com/kraken.com/1ef252be-b664-42eb-abc5-6b02b54114ff",
+    "company": "Kraken",
+    "title": "Senior Software Engineer – AI Infrastructure"
+  },
+  "va": {
+    "id": "3104d146-60dd-47d7-9726-f008a0f893ec",
+    "link": "https://jobs.ashbyhq.com/kraken.com/3104d146-60dd-47d7-9726-f008a0f893ec",
+    "company": "Kraken",
+    "title": "Head of VIP - Asia"
+  },
+  "eng611": {
+    "id": "b853c28e-15a7-4dac-be01-b0fbc00cd006",
+    "link": "https://jobs.ashbyhq.com/phantom/b853c28e-15a7-4dac-be01-b0fbc00cd006",
+    "company": "Phantom",
+    "title": "Staff Software Engineer (SRE)"
+  },
+  "des9": {
+    "id": "1e7c38ce-3bd3-46a7-878f-f551ccbeebcb",
+    "link": "https://jobs.ashbyhq.com/kraken.com/1e7c38ce-3bd3-46a7-878f-f551ccbeebcb",
+    "company": "Kraken",
+    "title": "Staff Brand Designer - Consumer"
+  },
+  "des8": {
+    "id": "7766a226-be08-4d46-abe9-822449731186",
+    "link": "https://jobs.ashbyhq.com/kraken.com/7766a226-be08-4d46-abe9-822449731186",
+    "company": "Kraken",
+    "title": "Staff Brand Designer - Consumer"
+  },
+  "vpdf": {
+    "id": "6225504004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6225504004",
+    "company": "Galaxy Digital",
+    "title": "Vice President, Decentralized Finance OnChain Counsel - Corporate"
+  },
+  "psc2": {
+    "id": "e3014dea-286f-488b-b662-14454301c489",
+    "link": "https://jobs.ashbyhq.com/sardine/e3014dea-286f-488b-b662-14454301c489",
+    "company": "Sardine",
+    "title": "Payroll Specialist - US/Canada"
+  },
+  "pp3": {
+    "id": "d7c117f8-45e4-4212-8bc5-233ff60c7038",
+    "link": "https://jobs.ashbyhq.com/ramp/d7c117f8-45e4-4212-8bc5-233ff60c7038",
+    "company": "Ramp",
+    "title": "People Programs Lead"
+  },
+  "ops127": {
+    "id": "97109616",
+    "link": "https://jobs.ashbyhq.com/fin/861f0e17-1f0c-4c7f-a212-e6240834b9cd",
+    "company": "Fin",
+    "title": "Operations Lead"
+  },
+  "sec116": {
+    "id": "8034511003",
+    "link": "https://boards.greenhouse.io/drivewealth/jobs/8034511003?gh_jid=8034511003",
+    "company": "DriveWealth",
+    "title": "Security & Threat Operations Manager"
+  },
+  "tr144": {
+    "id": "5007186101",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5007186101",
+    "company": "Flowdesk",
+    "title": "OTC Quantitative Developer"
+  },
+  "mgr185": {
+    "id": "83e5a0bb-c7c4-4118-9526-0215f260bfc2",
+    "link": "https://jobs.ashbyhq.com/ramp/83e5a0bb-c7c4-4118-9526-0215f260bfc2",
+    "company": "Ramp",
+    "title": "Brand Partnerships Manager"
+  },
+  "pm405": {
+    "id": "a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "link": "https://jobs.ashbyhq.com/mantle/a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "company": "Mantle Network",
+    "title": "Product Manager",
+    "newSlug": "pm408"
   }
 }
