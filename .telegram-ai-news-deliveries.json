@@ -234,7 +234,7 @@
     "sentAt": "2026-11-15T11:32:50.167Z"
   },
   "5f72939b-97e0-461c-bb07-ec44718a6fd3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T19:32:17.947Z",
     "stories": [
       {
@@ -268,6 +268,8 @@
         "originalTitle": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls"
       }
     ],
-    "slotKey": "2026-11-15:evening"
+    "slotKey": "2026-11-15:evening",
+    "messageId": 193523,
+    "sentAt": "2026-11-15T19:32:20.166Z"
   }
 }

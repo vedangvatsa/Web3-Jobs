@@ -17,6 +17,9 @@
   "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
   "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
   "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+  "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+  "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+  "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -53,6 +56,12 @@
   "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
   "Australian central bank finds AI reduced youth entry-level hiring",
   "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+  "Nvidia confirms feasibility of tracking AI chips to prevent smuggling",
+  "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+  "Anthropic releases Claude Fable 5.2 with code-based image generation",
+  "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+  "Bland releases Tofu-1 full-duplex speech model for enterprise calls",
+  "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -70,5 +79,8 @@
   "fp:allow|audit|built|check|copilotkit|coworker|custom|deploy|governanc|hostabl",
   "fp:architectur|chip|domestic|foreign|gpu|graphic|hardwar|huawei|meituan|never",
   "fp:business|china|congress|democrat|democratic|distribution|executiv|foreign|huang|inquiry",
-  "fp:adoption|age25|australia|australian|automat|bank|central|customer|declin|entry"
+  "fp:adoption|age25|australia|australian|automat|bank|central|customer|declin|entry",
+  "fp:can|chip|comply|confirm|even|export|feasibility|fight|hardwar|lawmaker",
+  "fp:anthropic|bas|brushstrok|cod|creat|directly|doesn|execut|fable52|generat",
+  "fp:bland|call|conversational|duplex|dur|environment|full|handl|interaction|noisy"
 ]
