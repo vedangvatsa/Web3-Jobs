@@ -711,5 +711,120 @@
     "slotKey": "2026-11-15:afternoon",
     "messageId": 156267,
     "sentAt": "2026-11-15T11:32:55.082Z"
+  },
+  "7b282058-9296-473f-8a76-bfe956694938": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T19:32:48.551Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8325023",
+          "title": "Head of Southern Europe, SMB & Commercial",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8325023",
+          "date": "2026-11-06T11:59:32-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Dublin",
+          "department": "1180 GEO Sales HQ (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sesc"
+        },
+        "key": "8325023",
+        "slug": "sesc",
+        "url": "https://hashtagweb3.com/sesc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Head of Southern Europe"
+      },
+      {
+        "snapshot": {
+          "id": "49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+          "title": "Software Engineer, Marketing",
+          "company": "Kalshi",
+          "link": "https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+          "date": "2026-11-10T14:50:01.447+00:00",
+          "source": "Ashby: Kalshi [kalshi]",
+          "location": "New York Office",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt144"
+        },
+        "key": "49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+        "slug": "mkt144",
+        "url": "https://hashtagweb3.com/mkt144?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kalshi",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "744000159593655",
+          "title": "Backend Developer",
+          "company": "Solflare",
+          "link": "https://jobs.smartrecruiters.com/Solflare/744000159593655-backend-developer",
+          "date": "2026-11-04T10:26:38.408Z",
+          "source": "SmartRecruiters: Solflare [Solflare]",
+          "location": "Novi Sad, Vojvodina, Serbia",
+          "department": "Backend Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be106"
+        },
+        "key": "744000159593655",
+        "slug": "be106",
+        "url": "https://hashtagweb3.com/be106?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Solflare",
+        "title": "Backend Developer"
+      },
+      {
+        "snapshot": {
+          "id": "5462362008",
+          "title": "Senior Backend Engineer",
+          "company": "Mesh",
+          "link": "https://job-boards.greenhouse.io/mesh/jobs/5462362008",
+          "date": "2026-10-23T12:29:25-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Mesh [mesh]",
+          "location": "United States - Remote",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$180k – $200k/yr",
+          "dateVerified": true,
+          "slug": "be88"
+        },
+        "key": "5462362008",
+        "slug": "be88",
+        "url": "https://hashtagweb3.com/be88?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mesh",
+        "title": "Senior Backend Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8359461",
+          "title": "FICC Options Execution - Senior Software Engineer (Crypto)",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8359461",
+          "date": "2026-11-06T12:11:46-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "London",
+          "department": "Trading",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng706"
+        },
+        "key": "8359461",
+        "slug": "eng706",
+        "url": "https://hashtagweb3.com/eng706?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "FICC Options Execution"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sesc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Southern Europe, SMB &amp; Commercial</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/mkt144?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Marketing</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/be106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Developer</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/be88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/eng706?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">FICC Options Execution - Senior Software Engineer (Crypto)</a>",
+    "slotKey": "2026-11-15:evening"
   }
 }
