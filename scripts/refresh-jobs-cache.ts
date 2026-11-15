@@ -607,6 +607,8 @@ async function refreshJobsCache() {
     { board: 'd3', company: 'D3 Global' },
     { board: 'casa', company: 'Casa' },
     { board: 'indexindustries', company: 'Index Industries' },
+    // --- Web3 Expansion (Nov 2026, wave 2) ---
+    { board: 'recall', company: 'Recall Labs' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -725,6 +727,8 @@ async function refreshJobsCache() {
     { board: 'unlimit', company: 'Unlimit' },
     { board: 'coinspaid', company: 'CoinsPaid', apiHost: 'https://api.eu.lever.co' },
     { board: 'BTSE', company: 'BTSE' },
+    // --- Web3 Expansion (Nov 2026, wave 2) ---
+    { board: 'kaiko', company: 'Kaiko', apiHost: 'https://api.eu.lever.co' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -940,6 +944,8 @@ async function refreshJobsCache() {
     { board: 'projecteleven', company: 'Project Eleven' },
     { board: 'batoncorporation', company: 'pump.fun' },
     { board: 'Coinflow', company: 'Coinflow' },
+    // --- Web3 Expansion (Nov 2026, wave 2) ---
+    { board: 'RWA.xyz', company: 'RWA.xyz' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1760,6 +1766,8 @@ async function refreshJobsCache() {
     { board: 'riot-platforms-careers', company: 'Riot Platforms' },
     { board: 'the-block', company: 'The Block' },
     { board: 'plume-network', company: 'Plume Network' },
+    // --- Web3 Expansion (Nov 2026, wave 2) ---
+    { board: 'halborn-inc', company: 'Halborn' },
   ];
 
   for (const rp of RIPPLING_BOARDS) {

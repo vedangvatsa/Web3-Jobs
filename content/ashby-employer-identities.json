@@ -1274,5 +1274,13 @@
     "organizationId": "6f0abf3e-9935-44e4-beee-17cd6de73299",
     "owner": "Coinflow",
     "website": "https://coinflow.cash"
+  },
+  "ashby:rwa.xyz": {
+    "companies": [
+      "RWA.xyz"
+    ],
+    "organizationId": "decd89f8-b20c-459b-908c-f72c8e63ec06",
+    "owner": "RWA.xyz",
+    "website": "https://www.rwa.xyz/"
   }
 }

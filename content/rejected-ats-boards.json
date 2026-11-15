@@ -34,5 +34,6 @@
   "lever:horizon": { "employer": "Horizon Robotics", "website": "https://horizon.ai", "misattributedTo": "Horizon" },
   "lever:mantra": { "employer": "Mantra (manga translation)", "website": "https://mantra.co.jp/ja/", "misattributedTo": "Mantra Chain" },
   "lever:vana": { "employer": "Vana (Guatemalan consumer lending)", "website": "https://www.vana.gt", "misattributedTo": "Vana" },
-  "recruitee:saga": { "employer": "Saga (legal AI)", "website": "https://sagalegal.io", "misattributedTo": "Saga" }
+  "recruitee:saga": { "employer": "Saga (legal AI)", "website": "https://sagalegal.io", "misattributedTo": "Saga" },
+  "greenhouse:osmosis": { "employer": "Osmosis (medical education)", "website": "https://www.osmosis.org", "misattributedTo": "Osmosis Labs" }
 }
