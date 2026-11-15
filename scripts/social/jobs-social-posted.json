@@ -140401,6 +140401,37 @@
       "attemptId": "0c672b7f-9346-4649-b6b6-bc80d06ab76b",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 15-Nov-26 11:37:24 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AciLwS9e44DPRstwe0Klzt8\"}"
+    },
+    {
+      "slug": "sup7",
+      "company": "Riot Platforms",
+      "title": "Mining Operations Supervisor",
+      "platform": "bluesky",
+      "postedAt": "2026-11-15T19:37:11.799Z",
+      "expectedText": "Riot Platforms is hiring Mining Operations Supervisor: https://hashtagweb3.com/sup7/bsky?og=7",
+      "snapshot": {
+        "id": "88abf1d3-7e44-4519-8665-26e0d49939f7",
+        "title": "Mining Operations Supervisor",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/88abf1d3-7e44-4519-8665-26e0d49939f7",
+        "date": "2026-11-11T14:51:11.285000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Rockdale, TX",
+        "department": "Operations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sup7"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Mining Operations Supervisor: https://hashtagweb3.com/sup7/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sup7/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sup7.png?v=7",
+        "company": "Riot Platforms",
+        "title": "Mining Operations Supervisor",
+        "description": "Join Riot Platforms as Mining Operations Supervisor. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "739fc4fb-79c2-4eab-a861-8ed38d9c71d4",
+      "verification": "creating"
     }
   ]
 }
