@@ -177097,11 +177097,29 @@
         "The Defiant"
       ],
       "id": "06e456610bff91e6d877",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T12:14:22.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "source-blocked",
+      "note": "CoinDesk's daybook article returned HTTP 429 on GET. The Defiant's second URL returned HTTP 200 but its body is JS-gated, serving only the headline deck about Bitcoin breaking below 9,000 with Ether, XRP and SOL at four-week lows, which is not the CoinDesk momentum-gauge story. Neither source's full reporting could be read this round.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:11:33.721Z",
+      "retrySearches": [
+        "Retry the CoinDesk momentum-gauge daybook article after its HTTP 429 and confirm whether it is price analysis rather than a concrete event"
+      ],
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "d467844f8e3392600334": {
       "source": "Bitcoin Magazine",
@@ -343032,6 +343050,25 @@
           "reviewedAt": "2026-11-15T04:11:30.213Z",
           "retrySearches": [
             "Find independent reporting corroborating the two 50 BTC transfers from September 2010 dormant wallets on Nov. 13 2026, such as Whale Alert or another outlet"
+          ]
+        },
+        "06e456610bff91e6d877": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CoinDesk's daybook article returned HTTP 429 on GET. The Defiant's second URL returned HTTP 200 but its body is JS-gated, serving only the headline deck about Bitcoin breaking below 9,000 with Ether, XRP and SOL at four-week lows, which is not the CoinDesk momentum-gauge story. Neither source's full reporting could be read this round.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:11:33.721Z",
+          "retrySearches": [
+            "Retry the CoinDesk momentum-gauge daybook article after its HTTP 429 and confirm whether it is price analysis rather than a concrete event"
           ]
         }
       },
