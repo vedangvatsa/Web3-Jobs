@@ -17,6 +17,9 @@
   "https://hashtagweb3.com/arkansaskalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/acrosshack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/heliusmoney?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dojseizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dtccsolana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/zcashgrants?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -53,6 +56,12 @@
   "Across restores website after domain hijack as Bitquery traces $402,000 in losses",
   "Decrypt Money Account Integrates Helius Solana Privacy Rings",
   "Decrypt Money Account adds confidential transfers through Helius privacy rings",
+  "DOJ Authorized to Seize $1.2 Billion Stolen Binance Funds",
+  "DOJ gets court authority to seize $1.2 billion of Binance hack crypto, disrupts FaceStealer",
+  "DTCC to Bring Tokenized Assets to Solana in 2027",
+  "DTCC plans to bring tokenized DTC assets to Solana in second half of 2027",
+  "Grayscale allocates $1 million from fund fees to Zcash",
+  "Grayscale pledges $1 million to Zcash ecosystem with first $400,000 in grants",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -70,5 +79,8 @@
   "fp:109b|1865m|capital|drov|earn|firm|gain|incom|loss|maintain",
   "fp:against|argu|arkansa|authority|cas|cftc|contract|event|exclusiv|federal",
   "fp:000|401|402|900|attack|bitquery|blockchain|domain|drain|engineer",
-  "fp:account|add|address|amount|confidential|decrypt|helius|hid|integrat|leav"
+  "fp:account|add|address|amount|confidential|decrypt|helius|hid|integrat|leav",
+  "fp:12b|400m|also|authority|authoriz|binanc|court|department|disrupt|doj",
+  "fp:asset|blockchain|clearinghous|dtc|dtcc|half|in2027|integrat|network|of2027",
+  "fp:000|100|400|advertis|allocat|award|campaign|ecosystem|fee|firm"
 ]
