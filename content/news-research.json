@@ -173555,11 +173555,11 @@
       "id": "7ff82c504861034008e9",
       "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T05:08:59.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "reason": "source-blocked",
-      "note": "Read Crypto Briefing's Nov. 13 prediction-market analysis of reported SpaceX-Tesla merger talks citing Bloomberg Technology; CoinDesk returned HTTP 429. No official filing or company statement corroborates the talks, and the readable piece is derivative market analysis rather than independent reporting.",
+      "note": "Reopened Crypto Briefing's Nov. 13 piece: it is explicitly prediction-market analysis citing Bloomberg Technology, with no SEC filing, company statement or executive confirmation of advancing merger talks. CoinDesk's article returned HTTP 429 to a direct GET this round. No official source or second independent report corroborates the claimed advance, and the existing spacextesla article already covers the merger exploration itself.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/spacex-tesla-merger-talks-reportedly-advance-potential-announcement-by-year-end/",
@@ -173570,12 +173570,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-14T01:34:18.022Z",
+      "reviewedAt": "2026-11-15T04:23:58.585Z",
       "retrySearches": [
-        "Find independent reporting or official confirmation of advancing SpaceX-Tesla merger talks, ideally the Bloomberg Technology original or SEC/company statements"
+        "Find the Bloomberg Technology original report or official SEC or company confirmation of advancing SpaceX-Tesla merger talks with dates and terms"
       ],
-      "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15"
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "02f772beb76e343a3fc0": {
       "source": "CryptoSlate",
@@ -343118,6 +343118,25 @@
             }
           ],
           "reviewedAt": "2026-11-15T04:17:30.460Z"
+        },
+        "7ff82c504861034008e9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Reopened Crypto Briefing's Nov. 13 piece: it is explicitly prediction-market analysis citing Bloomberg Technology, with no SEC filing, company statement or executive confirmation of advancing merger talks. CoinDesk's article returned HTTP 429 to a direct GET this round. No official source or second independent report corroborates the claimed advance, and the existing spacextesla article already covers the merger exploration itself.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/spacex-tesla-merger-talks-reportedly-advance-potential-announcement-by-year-end/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:23:58.585Z",
+          "retrySearches": [
+            "Find the Bloomberg Technology original report or official SEC or company confirmation of advancing SpaceX-Tesla merger talks with dates and terms"
+          ]
         }
       },
       "baselineSlugs": [
