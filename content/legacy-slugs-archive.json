@@ -157601,5 +157601,29 @@
     "company": "Mantle Network",
     "title": "Product Manager",
     "newSlug": "pm408"
+  },
+  "eng661": {
+    "id": "97159686",
+    "link": "https://jobs.ashbyhq.com/asymmetric.re/9b82e5a8-8922-4661-a92d-6836ad2b966e",
+    "company": "Asymmetric Research",
+    "title": "Associate Site Reliability Engineer"
+  },
+  "infra73": {
+    "id": "5008406101",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008406101",
+    "company": "Flowdesk",
+    "title": "Network & Cloud Infrastructure Security Engineer"
+  },
+  "ops107": {
+    "id": "8247120",
+    "link": "https://stripe.com/jobs/search?gh_jid=8247120",
+    "company": "Stripe",
+    "title": "Monetization Operations Analyst"
+  },
+  "be78": {
+    "id": "8287662",
+    "link": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
+    "company": "Coinbase",
+    "title": "Staff Software Engineer, Backend - FinHub (Transfers)"
   }
 }

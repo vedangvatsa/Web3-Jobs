@@ -282,6 +282,8 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'mclean|US': [38.9339, -77.1773],
   'ikorodu|NG': [6.6194, 3.5105],
   'fribourg|CH': [46.8065, 7.162],
+  'philadelphia|US': [39.9526, -75.1652],
+  'den haag|NL': [52.0705, 4.3007],
 };
 
 export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
@@ -339,6 +341,16 @@ export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
   farmagudi: 'goa',
   'kecamatan setiabudi': 'jakarta',
   'south melbourne': 'melbourne',
+  kadikoy: 'istanbul',
+  'kadıkoy': 'istanbul',
+  'ciudad de mexico': 'mexico city',
+  centre: 'singapore',
+  'kecamatan kebayoran baru': 'jakarta',
+  '千代田区': 'chiyoda',
+  tuzla: 'istanbul',
+  ambler: 'philadelphia',
+  fatih: 'istanbul',
+  barangaroo: 'sydney',
 };
 
 export const EVENT_MAP_CITY_DISPLAY_NAMES: Record<string, string> = {

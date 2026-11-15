@@ -1555,19 +1555,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-u-hackathon-2026",
-    "name": "U-Hackathon 2026",
-    "description": "U-Hackathon 2026: a two-day AI and Web3 hackathon in Bangkok on October 15–16 with a THB 1,000,000 prize pool.",
-    "startDate": "2026-10-15T03:00:00.000Z",
-    "endDate": "2026-10-16T12:00:00.000Z",
-    "city": "Bangkok",
-    "country": "TH",
-    "location": "Bangkok, TH",
-    "url": "https://luma.com/lqrbtu27",
-    "coverImage": null,
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-busselton-bitcoin-bush-bash-26-10-16",
     "name": "Busselton – Bitcoin Bush Bash",
     "description": "Busselton – Bitcoin Bush Bash: Bitcoin-focused gathering October 16–18, 2026, in Busselton, Western Australia.",
@@ -1578,20 +1565,6 @@
     "location": "Busselton, AU",
     "url": "https://bitcoinbushbash.info/busselton/",
     "coverImage": "/events/w3v-busselton-bitcoin-bush-bash-26-10-16-32ebb026.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-rZEzszymi2fQTKi",
-    "name": "Cowork with ETHGlobal in Jaipur with HackTour India",
-    "description": "",
-    "startDate": "2026-10-16T06:30:00.000Z",
-    "endDate": "2026-10-16T11:30:00.000Z",
-    "city": "Jaisinghpura Jirota",
-    "country": "India",
-    "location": "Jaisinghpura Jirota, India",
-    "url": "https://luma.com/ethglobal-cowork-jaipur",
-    "coverImage": "/events/luma-host-evt-evt-rzezszymi2fqtki-998e617f.webp",
-    "source": "luma-trusted",
     "month": "October 2026"
   },
   {

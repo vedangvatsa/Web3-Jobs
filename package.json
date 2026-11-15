@@ -140,6 +140,7 @@
     "jobs:backfill-lever-salaries": "npx tsx scripts/backfill-lever-salaries.ts",
     "check:logos": "node scripts/check-logo-case.js",
     "clean:slop": "node scripts/clean-slop.js --apply",
+    "ingest:bnbchain": "npx tsx scripts/ingest-bnbchain-jobs.ts",
     "ingest:paradigm": "npx tsx scripts/ingest-paradigm.ts",
     "typecheck": "tsc --noEmit",
     "generate:site-favicons": "node scripts/generate-site-favicons.mjs",

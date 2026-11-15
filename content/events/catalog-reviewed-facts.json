@@ -196,52 +196,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-3zOciZsW9mZvoY0": {
-    "name": "U-Hackathon 2026",
-    "startDate": "2026-10-15T03:00:00.000Z",
-    "endDate": "2026-10-16T12:00:00.000Z",
-    "timezone": "Asia/Bangkok",
-    "registrationUrl": "https://luma.com/lqrbtu27",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Krung Thep Maha Nakhon",
-    "country": "Thailand",
-    "location": "Avani Sukhumvit Bangkok, 2089 Sukhumvit Rd, Prakanong Nua, Watthana, Krung Thep Maha Nakhon 10260, Thailand",
-    "venueName": "Avani Sukhumvit Bangkok",
-    "streetAddress": "2089 Sukhumvit Rd, Prakanong Nua, Watthana",
-    "addressLocality": "Krung Thep Maha Nakhon",
-    "addressRegion": "Krung Thep Maha Nakhon",
-    "addressCountry": "TH",
-    "neighborhood": "Prakanong Nua",
-    "coordinates": {
-      "latitude": 13.705554999999999,
-      "longitude": 100.60179099999999
-    },
-    "hosts": [
-      "info@u-topia"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "U-topia"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lqrbtu27",
-        "price": 0
-      }
-    ],
-    "registrationAvailability": "sold-out",
-    "sourceVerification": {
-      "url": "https://luma.com/lqrbtu27",
-      "eventId": "evt-3zOciZsW9mZvoY0",
-      "fetchedAt": "2026-10-12T11:25:04.144Z",
-      "method": "luma-page"
-    }
-  },
   "luma-crypto-rHjDzQ9Ow33bh2U": {
     "name": "RWA Leaders Summit - Dubai",
     "startDate": "2026-10-16T06:00:00.000Z",

@@ -107,20 +107,6 @@
       ]
     },
     {
-      "id": "luma-batch-3zOciZsW9mZvoY0",
-      "slug": "lqrbtu27",
-      "name": "U-Hackathon 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/lqrbtu27",
-        "fetchedAt": "2026-09-22T10:40:02.039Z"
-      },
-      "sections": [
-        "About the event",
-        "Prizes"
-      ]
-    },
-    {
       "id": "luma-crypto-rHjDzQ9Ow33bh2U",
       "slug": "rls",
       "name": "RWA Leaders Summit - Dubai",

@@ -17890,88 +17890,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-16a7325f5533978d"></a>
-
-## U-Hackathon 2026
-
-- Record: `luma-batch-3zOciZsW9mZvoY0`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-15T03:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/lqrbtu27>
-
-### About the event
-
-U-Hackathon
-
-U-Hackathon runs inside Flow Summit, a two-day summit on the future of finance and the future of community. You get a hall of your own, 24 hours on the clock, mentors on the floor. Get the best out of your allocated time. Then you demo on the stage.
-
-The format: Hack → Mentor→ Present → Judge
-
-Hack : 2 days hack, 10:00 Thursday to Friday. No filler panels, no keynote before you're allowed to open your laptop. Sleep is a personal choice.
-
-Mentor : product, engineering and design mentors on the floor the entire time. Make the most out of your allocated slot, plus people walking the room looking mildly concerned about your architecture.
-
-Present : Qualified Project demo on the stage Friday afternoon.
-
-Judge : judges pick six finalists on merit. Then the U-Center DAO Community votes live to choose the grand prize.
-
-Bring your AI squad
-
-Cursor, Claude, ChatGPT, whatever agent stack you've quietly assembled. All fair game, on both tracks. There is no "Did you write this by hand" inquisition. It's 2026. Ship something good. Solving meaningful problem is the way.
-
-Two rules, though:
-
-Your teammates are humans. Up to 3 of them excluding you. Solo builder? You can ask for in event teammate. (Only team leader have to register).
-
-Existing Project is NOT allowed. Pre-research is acceptable.
-
-Time
-
-Thursday, 15 October: 10:00 AM - 6:00 PM
-
-Friday, 16 October: 10:00 AM - 9:00 PM
-
-Registration PeriodDeadline : 1 Oct 2026 23:59 Gmt+7
-
-Track 1 : AI
-
-Build any application using AI tooling, solving real problem delivering value.
-
-No Web3 experience needed for this track.
-
-Track 2 : Web3
-
-Build anything deployable on-chain.
-
-### Prizes
-
-Prize pool worth 1,000,000 THB
-
-Trophy for the top 3 teams on each track
-
-Certificate for all participants
-
-Surprise bounty from partner on the brief
-
-What you get either way
-
-Mentors from product and engineering for the full two days
-
-Exposure to partners, funds and press
-
-Meals throughout ; this is Bangkok, the food is not a formality
-
-Event Souvenirs
-
-The room: builders, chains, funds, and the community
-
-For more information
-
-Facebook: https://www.facebook.com/profile.php?id=61594212903525
-
-X: https://x.com/U_Hackathon
-
 <a id="event-a1813d508e53725e"></a>
 
 ## Co-Working Fridays : London Chapter
@@ -21266,18 +21184,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-688abbf7132097e7"></a>
-
-## U-Hackathon 2026
-
-- Record: `w3v-u-hackathon-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-15T03:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/lqrbtu27>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-ddaccb0beeb439fe"></a>
 
 ## Busselton – Bitcoin Bush Bash
@@ -21287,18 +21193,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-16T01:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://bitcoinbushbash.info/busselton/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8cddf8ea25c457e6"></a>
-
-## Cowork with ETHGlobal in Jaipur with HackTour India
-
-- Record: `luma-host-evt-evt-rZEzszymi2fQTKi`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-16T06:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ethglobal-cowork-jaipur>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

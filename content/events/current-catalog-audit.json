@@ -177,42 +177,6 @@
       }
     },
     {
-      "id": "luma-batch-3zOciZsW9mZvoY0",
-      "oldSlug": "lqrbtu27",
-      "slug": "u-hackathon",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 2190,
-      "characters": 2190,
-      "factChanges": {
-        "city": "Krung Thep Maha Nakhon",
-        "streetAddress": "2089 Sukhumvit Rd, Prakanong Nua, Watthana",
-        "coordinates": {
-          "latitude": 13.705554999999999,
-          "longitude": 100.60179099999999
-        },
-        "organizer": {
-          "type": "Organization",
-          "name": "U-topia"
-        },
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/lqrbtu27",
-            "price": 0
-          }
-        ],
-        "registrationAvailability": "sold-out"
-      },
-      "source": {
-        "url": "https://luma.com/lqrbtu27",
-        "fetchedAt": "2026-10-12T11:25:04.144Z",
-        "status": 200,
-        "sha256": "9704445e2866472031af961ccdbde834819c1da86b66f93a6161c6929a56992f"
-      }
-    },
-    {
       "id": "luma-crypto-rHjDzQ9Ow33bh2U",
       "oldSlug": "rls",
       "slug": "rwa-leaders-summit-dubai",

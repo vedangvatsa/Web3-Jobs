@@ -1,42 +1,42 @@
 [
   {
-    "slug": "bankchecks",
-    "title": "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack",
-    "description": "Federal Reserve and OCC officials contacted banks on Nov. 2 to ask about unusual activity or service disruptions following Binance's $6.34 billion security incident, Reuters reported.",
+    "slug": "binancefull",
+    "title": "Binance Says It Has Finished Covering the $6.34 Billion Hack",
+    "description": "Binance said it replaced all customer tokens drained in the October 29 hack with more than $6.34 billion of company funds, while the DOJ won authority to seize $1.2 billion of the stolen crypto.",
     "category": "News",
-    "publishedDate": "2026-11-08",
-    "image": "/images/news/bankchecks.jpg"
+    "publishedDate": "2026-11-15",
+    "image": "/images/news/binancefull.jpg"
   },
   {
-    "slug": "carf",
-    "title": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection",
-    "description": "Hong Kong's Legislative Council passed a bill on Nov. 4 putting the OECD Crypto-Asset Reporting Framework into local law, with service providers collecting user data from 2027 and exchanges starting in 2028.",
+    "slug": "cnbbond",
+    "title": "Czech National Bank Completes Its First Tokenized Bond Tests",
+    "description": "The Czech National Bank said it issued tokenized koruna bonds and completed transfer, trading and repo tests in October and November, with settlement almost instantaneous.",
     "category": "News",
-    "publishedDate": "2026-11-08",
-    "image": "/images/news/carf.jpg"
+    "publishedDate": "2026-11-15",
+    "image": "/images/news/cnbbond.jpg"
   },
   {
-    "slug": "dcmaccess",
-    "title": "CFTC gives futures exchanges 30 days to drop domestic geographic restrictions",
-    "description": "The Commodity Futures Trading Commission said federally registered futures exchanges must stop restricting traders by their US location within 30 days or explain to the Division of Market Oversight why compliance is not feasible.",
+    "slug": "defiamicus",
+    "title": "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful",
+    "description": "Eighteen crypto groups including a16z, Uniswap Labs and the DeFi Education Fund asked a Sangamon County court on Nov. 11 for leave to file a brief calling Illinois' 0.2% digital asset tax vague, discriminatory and unenforceable.",
     "category": "News",
-    "publishedDate": "2026-11-08",
-    "image": "/images/news/dcmaccess.jpg"
+    "publishedDate": "2026-11-15",
+    "image": "/images/news/defiamicus.jpg"
   },
   {
-    "slug": "frenchhill",
-    "title": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair",
-    "description": "Republican French Hill won reelection in Arkansas' 2nd District and is expected to lose the House Financial Services Committee chairmanship when Democrats take control in January.",
+    "slug": "kavalendhack",
+    "title": "Kava Lend exploit borrows 55.2 million KAVA as Korean exchanges halt deposits",
+    "description": "Attackers borrowed 55.2 million KAVA from Kava Lend through 127 loans on a dormant BUSD market, sold most for $2.09 million, and Upbit, Bithumb and Coinone suspended deposits.",
     "category": "News",
-    "publishedDate": "2026-11-08",
-    "image": "/images/news/frenchhill.jpg"
+    "publishedDate": "2026-11-15",
+    "image": "/images/news/kavalendhack.jpg"
   },
   {
-    "slug": "nbubill",
-    "title": "Ukraine Central Bank Opposes Crypto Bill Cleared for Second Reading",
-    "description": "Ukraine's National Bank said on Nov. 4 it cannot support Draft Law No. 10225-d on virtual assets in its current form, objecting to foreign token access and operator licensing terms after a Rada committee cleared the bill for a final vote.",
+    "slug": "warshforum",
+    "title": "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday",
+    "description": "Federal Reserve Chair Kevin Warsh opens a Nov. 16 San Francisco conference on whether AI raises or lowers inflation, with three panels and a livestreamed fireside chat.",
     "category": "News",
-    "publishedDate": "2026-11-08",
-    "image": "/images/news/nbubill.jpg"
+    "publishedDate": "2026-11-15",
+    "image": "/images/news/warshforum.jpg"
   }
 ]

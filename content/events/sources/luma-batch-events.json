@@ -333,56 +333,6 @@
     }
   },
   {
-    "id": "luma-batch-3zOciZsW9mZvoY0",
-    "slug": "lqrbtu27",
-    "name": "U-Hackathon 2026",
-    "description": "U-Hackathon\n\nU-Hackathon runs inside Flow Summit, a two-day summit on the future of finance and the future of community. You get a hall of your own, 24 hours on the clock, mentors on the floor. Get the best out of your allocated time. Then you demo on the stage.\n\nThe format: Hack → Mentor→ Present → Judge\n\n🛠️ Hack : 2 days hack, 10:00 Thursday to Friday. No filler panels, no keynote before you're allowed to open your laptop. Sleep is a personal choice.\n\n🎓 Mentor : product, engineering and design mentors on the floor the entire time. Make the most out of your allocated slot, plus people walking the room looking mildly concerned about your architecture.\n\n🎤 Present : Qualified Project demo on the stage Friday afternoon.\n\n🗳️ Judge : judges pick six finalists on merit. Then the U-Center DAO Community votes live to choose the grand prize.\n\n🤖 Bring your AI squad\n\nCursor, Claude, ChatGPT, whatever agent stack you've quietly assembled. All fair game, on both tracks. There is no \"Did you write this by hand\" inquisition. It's 2026. Ship something good. Solving meaningful problem is the way.\n\nTwo rules, though:\n\nYour teammates are humans. Up to 3 of them excluding you. Solo builder? You can ask for in event teammate. (Only team leader have to register).\n\nExisting Project is NOT allowed. Pre-research is acceptable.\n\n📋 Time\n\nThursday, 15 October: 10:00 AM – 6:00 PM\n\nFriday, 16 October: 10:00 AM – 9:00 PM\n\nRegistration PeriodDeadline : 1 Oct 2026 23:59 Gmt+7\n\n🤖 Track 1 : AI\n\nBuild any application using AI tooling, solving real problem delivering value.\n\nNo Web3 experience needed for this track.\n\n⛓️ Track 2 : Web3\n\nBuild anything deployable on-chain.\n\n🏆 Prizes\n\nPrize pool worth 1,000,000 THB\n\nTrophy for the top 3 teams on each track\n\nCertificate for all participants\n\nSurprise bounty from partner on the brief\n\n🎁 What you get either way\n\nMentors from product and engineering for the full two days\n\nExposure to partners, funds and press\n\nMeals throughout ; this is Bangkok, the food is not a formality 🍜\n\nEvent Souvenirs\n\nThe room: builders, chains, funds, and the community\n\nFor more information\n\nFacebook: https://www.facebook.com/profile.php?id=61594212903525\n\nX: https://x.com/U_Hackathon",
-    "startDate": "2026-10-15T03:00:00.000Z",
-    "endDate": "2026-10-16T12:00:00.000Z",
-    "city": "Krung Thep Maha Nakhon",
-    "country": "Thailand",
-    "location": "Avani Sukhumvit Bangkok, Avani Sukhumvit Bangkok, 2089 Sukhumvit Rd, Prakanong Nua, Watthana, Krung Thep Maha Nakhon 10260, Thailand",
-    "url": "https://luma.com/lqrbtu27",
-    "registrationUrl": "https://luma.com/lqrbtu27",
-    "coverImage": "/events/luma-batch-3zOciZsW9mZvoY0-7c407085.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "info@u-topia"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Bangkok",
-    "neighborhood": "Prakanong Nua",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Avani Sukhumvit Bangkok",
-    "addressLocality": "Krung Thep Maha Nakhon",
-    "addressRegion": "Krung Thep Maha Nakhon",
-    "addressCountry": "TH",
-    "organizer": {
-      "type": "Organization",
-      "name": "info@u-topia",
-      "url": "https://luma.com/user/Info_Utopia"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lqrbtu27",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/lqrbtu27",
-      "eventId": "evt-3zOciZsW9mZvoY0",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-vcbQKpgSXxARqw7",
     "slug": "okgj41gs",
     "name": "Finnovation Day @ Money20/20 Asia - APAC Money Movement: Cross-Border Payments × Banking × Digital Assets",
