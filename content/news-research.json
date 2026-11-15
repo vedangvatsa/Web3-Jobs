@@ -177647,7 +177647,27 @@
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 0,
       "expiresAt": "2026-11-16T22:01:03.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "articleSlug": "gptwallet",
+      "draftProgress": {
+        "id": "2b37773a4f04b54999c3",
+        "day": "2026-11-15",
+        "articleSlug": "gptwallet",
+        "note": "Round 6 progress: two independent sources fully read for the ChatGPT Wallet launch. Cointelegraph Nov 13 read this round: OpenAI launched AI payments in ChatGPT with Amex/Mastercard/Visa, biometric approval, tokenized card credentials, US ChatGPT Pro rollout, plans for preset spending limits. Decrypt Nov 14 read this round: dots-based agents, fingerprint/Face ID approval, limited to US Pro subscribers 18+, no crypto or cash balance, Sherri Haymond Mastercard quote, comparison to Coinbase Agentic Wallets/x402 and Circle Agent Stack. Existing agentpay.md covers Mastercard Agent Pay from Oct 20, a different event, not a duplicate. Remaining: draft not started; hero image not selected.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-15T04:45:16.364Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "46b5e1017e3ea1a6be5b": {
       "source": "Crypto Briefing",
