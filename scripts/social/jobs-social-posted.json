@@ -140000,7 +140000,8 @@
       },
       "account": "channel:solana",
       "attemptId": "255cad5a-01cd-441d-ac49-90878c8a92a6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8e9582c819c072045afbe5eb91842c62f8e8cf08"
     }
   ]
 }
