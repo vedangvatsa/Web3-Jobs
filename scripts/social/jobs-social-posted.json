@@ -140110,6 +140110,41 @@
       "attemptId": "732aa2a5-53ba-43e4-8c16-1adde82e4271",
       "verification": "verified",
       "postId": "0xe04affd52bd8d2631ded60d2f498f78b6da97253"
+    },
+    {
+      "slug": "cmp154",
+      "company": "TRM Labs",
+      "title": "Solutions Architect, Onchain Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-11-15T19:33:57.004Z",
+      "expectedText": "TRM Labs is hiring Solutions Architect, Onchain Compliance\n\nhttps://hashtagweb3.com/cmp154/fc?og=7",
+      "snapshot": {
+        "id": "801699e2-d9da-4407-ae31-2b88af6eb649",
+        "title": "Solutions Architect, Onchain Compliance",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/801699e2-d9da-4407-ae31-2b88af6eb649",
+        "date": "2026-11-06T20:49:07.340+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Go-To-Market",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp154"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Solutions Architect, Onchain Compliance\n\nhttps://hashtagweb3.com/cmp154/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cmp154/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "561dc1dc-ed8d-4d09-ac92-57843d17e90a",
+      "verification": "creating"
     }
   ]
 }
