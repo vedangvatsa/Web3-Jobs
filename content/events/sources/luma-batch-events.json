@@ -1,55 +1,5 @@
 [
   {
-    "id": "luma-batch-4EDsB2GqW0jHyhh",
-    "slug": "recon",
-    "name": "ReCON - Coinspiracy II",
-    "description": "Calling all Console Cowboys and CypherPunx:\n\nSpaceDAO (Decentralized Space Force) is hosting a special event -> ReCON <-\n\nLet's reCONnect to the origin of these things Private money - untraceable data - unstoppable technology\n\nTopics include:\n\nTor and Dark Nets\n\nHacking and Phreaking\n\nPirate - Monero and Privacy coins\n\nUncensorable POW blockchain data\n\nCryptography\n\nCyber Security\n\nDrone Warfare | Drone Defense\n\nInvisible waves\n\nAether and Free Energy\n\nSatellites and Ground Comms\n\nPineaples and Stingers\n\nRobotics and Cybernetics\n\nPhase Array energy weapons\n\nSound Cannons and Ultrasonic Disrupters\n\nMCP - AGI Command Control\n\nElectronic Warfare\n\nInformation Field Technology\n\n3d Printed Guns, Antennas and other devices\n\nPlasma Sputtering\n\nParticle Acceleration\n\nQuantum Computing\n\nSpecial Musical Guests\"\n\nDJ xxxxxxx - Dark Wave\n\nThe CoinHeads - Cypher Punk Meme Band",
-    "startDate": "2026-10-15T19:30:00.000Z",
-    "endDate": "2026-10-16T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Times Square, Times Square, Manhattan, NY 10036, USA",
-    "url": "https://luma.com/recon",
-    "registrationUrl": "https://luma.com/recon",
-    "coverImage": "/events/luma-batch-4EDsB2GqW0jHyhh-87b47124.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Space DAO"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "America/New_York",
-    "neighborhood": "Theater District",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Times Square",
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Space DAO",
-      "url": "https://luma.com/user/space"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/recon",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/recon",
-      "eventId": "evt-4EDsB2GqW0jHyhh",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-FXp0Cx9ZFgTnmub",
     "slug": "56472dr4",
     "name": "CryptoMondays London October Event",
@@ -1211,36 +1161,6 @@
     }
   },
   {
-    "id": "luma-batch-evthR8OsCOm9iUOU",
-    "slug": "gg8pnw2y",
-    "name": "The Studio Investor Fireside Chat: Strobe Ventures | Winnie Lau",
-    "description": "Welcome to The Studio's Investor Fireside Chat series, where we put founders in the room with investors who've been on the other side of the table. Join us for a conversation about what investors actually look for, how they make decisions, and what founders get wrong.\n\nSchedule:\n🚪 5:00 PM: Doors open\n💬 5:30 PM: Fireside chat\n👥 6:00 PM: Networking\n\nAbout the speaker\n\nWinnie Lau is a Partner at Strobe Ventures. She began her career as a strategy consultant and, prior to co-founding Strobe, was a Principal at BlockTower Capital, a crypto-native asset management firm. At Strobe, she covers everything across DeFi, stablecoin infrastructure, onchain applications, and AI. Growing up in Hong Kong and Guangzhou during the early days of the internet, Winnie saw firsthand the ability of technology and innovation to transform not only the socioeconomic landscape in China but also the consumer behaviors and culture of society. As such, she spent most of her early career exploring new consumer technologies and primitives.\n\nAbout The Studio\n\nThe Studio is Monad Foundation's founder workspace in the heart of Manhattan, where early-stage teams building on Monad work side by side. It is 100% equity-free: zero equity, zero fees. Teams get dedicated desks, hands-on support on pitch, GTM, and fundraising, and direct access to the VCs, angels, and mentors who work from the space alongside them. Interested in building on Monad and want in? Learn more and apply at https://thestudio.monad.xyz/\n\nAbout Monad Foundation\n\nThe Monad Foundation is an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad will offer the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts).\n\nDisclaimer\n\nBy attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.",
-    "startDate": "2026-10-15T21:00:00.000Z",
-    "endDate": "2026-10-15T22:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, New York, United States",
-    "url": "https://luma.com/gg8pnw2y",
-    "registrationUrl": "https://luma.com/gg8pnw2y",
-    "coverImage": "/events/luma-batch-evthR8OsCOm9iUOU-444343b1.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "The Studio by Monad Foundation"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/gg8pnw2y",
-      "eventId": "evt-hR8OsCOm9iUOUY5",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtdYbK287YZ3bbj",
     "slug": "fxu60rnk",
     "name": "AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance",
@@ -1444,36 +1364,6 @@
     "sourceVerification": {
       "url": "https://luma.com/lukka-mugi",
       "eventId": "evt-IbEJtZTwhozeczq",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtv3O7YcVURVv8P",
-    "slug": "qwpyrmvn",
-    "name": "Solana Across Campuses - California State University Long Beach",
-    "description": "Solana Across Campuses is coming to California State University, Long Beach!\n\nJoin us at CSULB for a student-led meetup bringing together builders, creators, developers, and anyone curious about blockchain and the Solana ecosystem.\n\nPowered by College.xyz and the Solana Foundation, Solana Across Campuses is a global initiative designed to bring Web3 education, hands-on experiences, and community directly to university campuses.\n\nNo prior blockchain or crypto experience is required. Whether you're studying computer science, engineering, business, design, or something completely different, you're welcome to join.\n\nDuring the event, you'll get the opportunity to:\n\n🌐 Explore the Solana ecosystem and real-world applications\n\n👛 Learn how to set up and use your first crypto wallet\n\n🛠️ See live demos and discover what can be built on Solana\n\n🤝 Meet fellow CSULB students interested in technology, startups, and Web3\n\n💡 Connect, learn, and potentially walk away with some SOL\n\nOpen to students of all majors and experience levels.\n\nCome curious, meet new people, and discover what’s happening in the Solana ecosystem.\n\n📍 California State University, Long Beach (CSULB)\n\nHosted by CSULB students as part of Solana Across Campuses.",
-    "startDate": "2026-10-15T23:00:00.000Z",
-    "endDate": "2026-10-16T00:00:00.000Z",
-    "city": "Long Beach",
-    "country": "United States",
-    "location": "California State University Long Beach, California State University Long Beach, 1250 Bellflower Blvd, Long Beach, CA 90840, USA",
-    "url": "https://luma.com/qwpyrmvn",
-    "registrationUrl": "https://luma.com/qwpyrmvn",
-    "coverImage": "/events/luma-batch-evtv3O7YcVURVv8P-c006e2c5.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/qwpyrmvn",
-      "eventId": "evt-v3O7YcVURVv8PbW",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -1779,35 +1669,6 @@
     }
   },
   {
-    "id": "luma-batch-evtzs8RDf9CsVEHu",
-    "slug": "p60o9q3i",
-    "name": "DC Privacy Summit",
-    "description": "The Third Annual DC Privacy Summit will take place on October 15, 2026, at the National Union Building in Washington, D.C.\n\nThe DC Privacy Summit is a unique forum for urgent conversations about converging technological trends. Zero-knowledge proofs and other powerful cryptographic tools are raising novel questions about the law, and about the relationship between the US government and its citizens. Policymakers across the country (and around the world) are rushing to introduce digital identification credentials and age verification mandates. Sophisticated cyberattackers are turning consumer data security into a matter of national security. And the rise of AI is supercharging it all.\n\nWe organize this event because the people building these technologies and the people writing the rules governing them too rarely talk directly. If favorable privacy, security, and policy outcomes are to be achieved, this must change. That is our aim.\n\nThis year we have refined the format to help maximize the event's impact. We’ll kick things off on the night of the 14th with the Cypherpunk Policy Dinner (separate admission required). The main event on the 15th is designed as a pop-up think tank, and will feature focused, invite-only roundtables as well as talks, firesides, and panels in front of an audience of up to 200 people. (For a sense of how this will look and feel, please see videos of the 2025 DC Privacy Summit and April’s Stablecoin Privacy Summit.) We’ll close out the day with a reception to give our high-signal audience an opportunity to mingle.\n\nHere are some of the key questions we’ll address throughout the day:\n\nHow can the public and private sectors improve their coordination to achieve better outcomes against cyberattackers like North Korea’s Lazarus Group?\n\nIs there a realistic path to privacy-preserving digital identification?\n\nWhat do privacy-minded policymakers need from technologists working on the frontier of digital privacy and identity? What do technologists need from policymakers?\n\nWhat are the implications of tools like zero-knowledge proofs beyond blockchains and cryptocurrencies?\n\nWhat does AI mean for privacy, security, and freedom?\n\nFor more information, see dcprivacysummit.org.\n\nTerms and Conditions\n\nTerms and Conditions of Attendance\n\nBy registering for and attending this event hosted by Project Glitch (\"Event\"), you agree to the following terms and conditions:\n\nMedia & Recordings: Portions of this Event may be recorded, photographed, or streamed. By attending, you consent to the use of your image or likeness in promotional or informational materials related to Project Glitch events.\n\nLiability Waiver: By attending, you voluntarily assume all risks related to your participation and agree to release and hold harmless Project Glitch, its employees, contractors, and affiliates from any claims, liabilities, or expenses arising out of or in connection with your participation.",
-    "startDate": "2026-10-15T16:00:00.000Z",
-    "endDate": "2026-10-15T22:30:00.000Z",
-    "city": "Washington",
-    "country": "United States",
-    "location": "National Union Building, National Union Building, 918 F St NW, Washington, DC 20004, USA",
-    "url": "https://luma.com/p60o9q3i",
-    "registrationUrl": "https://luma.com/p60o9q3i",
-    "coverImage": "/events/luma-batch-evtzs8RDf9CsVEHu-549c0a65.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/p60o9q3i",
-      "eventId": "evt-zs8RDf9CsVEHuFL",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt4MMdjvkDdqk5f",
     "slug": "mydv5rsq",
     "name": "💻 AI Startup Rodeo @ Austin Tech Week '26 October 30th",
@@ -1950,36 +1811,6 @@
     "sourceVerification": {
       "url": "https://luma.com/the-gcwt",
       "eventId": "evt-pzY4t9z1ap4VH0r",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtf75dF4pPOcL4z",
-    "slug": "tribaja-32pw",
-    "name": "WRTH MRKT X TRIBAJA Macabre and Mint",
-    "description": "🕵️‍♂️ Welcome to WRTH MRKT X TRIBAJA Macabre and Mint\n\nAccess Type: RSVP Only · Thursday, October 15, 2026 · 7:30 PM → 10 PM\n\nAfter Party: 10:00 PM - 2:00 AM · [Diaspora Remix Party / Ticket Required]\n\nLocation: Collectors Club · Wynwood Flagship Floor · Miami, FL\n\nPerks: Immersive Dinner Experience Included with RSVP\n\n💡 The Hook & Vision\n\nMacabre and Mint opens its doors at 7:30 PM for an eerie, high-stakes evening dedicated to the worlds of cybersecurity and blockchain.\n\nCybersecurity. Blockchain. Cryptography. Mystery.\n\nTonight, the blockchain becomes a crime scene. As we delve into secure infrastructure, digital assets, and next-gen privacy, attendees will have to use their wits to solve a digital mystery. Every clue, asset, and key token is minted on-chain in real-time. This is where security meets theater. Founders. Funders. Cyber Experts. The tech community. Under one roof in Wynwood.\n\n🕒 THE NIGHT'S RUN OF PLAY\n\n7:30 PM — Doors Open & Cryptographic Showcase\n\nDark tech displays, blockchain visualizations, and interactive puzzles at check-in.\n\n7:45 PM — Immersive Dinner Commences & The Mystery Begins\n\nDrinks and thematic dinner are served as the framework for the night's mystery is laid out.\n\n8:00 PM — The Main Event: Interactive Murder Mystery Dinner for Founders & Funders\n\nA live, gamified mystery experience where founders and investors must track digital clues, unlock \"minted\" evidence, and uncover the culprit.\n\n8:15 PM — Mid-Mystery Strategic Social Hour\n\nForm alliances, swap clues, and network over themed drinks.\n\n8:30 PM — The Cybersecurity Playbook: Protecting Wealth & Systems\n\nA vital talk on securing digital ecosystems and building a resilient tech career in cybersecurity. Hosted by Tribaja’s Culture Leader, Krishanna Marie Newton.\n\n9:00 PM — The Big Reveal & Entertainment\n\nThe mystery concludes, winners are announced, and live ambient tech-entertainment takes over.\n\n9:30 PM — Table Top Games: Deception & Social Deduction\n\nGames like Werewolf, Secret Hitler, or themed social deduction activities.\n\n10:00 PM → 2:00 AM — Diaspora Remix Party\n\nMoody house beats, hip-hop, and late-night rhythms.",
-    "startDate": "2026-10-15T23:30:00.000Z",
-    "endDate": "2026-10-16T02:30:00.000Z",
-    "city": "Miami",
-    "country": "United States",
-    "location": "Collectors Club, Collectors Club, 2812 NW 2nd Ave, Miami, FL 33127, USA",
-    "url": "https://luma.com/tribaja-32pw",
-    "registrationUrl": "https://luma.com/tribaja-32pw",
-    "coverImage": "/events/luma-batch-evtf75dF4pPOcL4z-38891d07.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Tribaja: Miami"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/tribaja-32pw",
-      "eventId": "evt-f75dF4pPOcL4zI7",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

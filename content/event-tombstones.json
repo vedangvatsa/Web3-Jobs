@@ -9953,5 +9953,44 @@
       "gdr",
       "token2049-evt-yo7gy1owi4l0qr6"
     ]
+  },
+  "luma-batch-4EDsB2GqW0jHyhh": {
+    "until": "2027-11-15T03:31:43.858Z",
+    "slugs": [
+      "recon",
+      "luma-batch-4edsb2gqw0jhyhh"
+    ]
+  },
+  "luma-batch-evthR8OsCOm9iUOU": {
+    "until": "2027-11-15T03:31:43.858Z",
+    "slugs": [
+      "strobe-ventures-winnie-lau-fireside",
+      "gg8pnw2y",
+      "luma-batch-evthr8oscom9iuou"
+    ]
+  },
+  "luma-batch-evtv3O7YcVURVv8P": {
+    "until": "2027-11-15T03:31:43.858Z",
+    "slugs": [
+      "solana-cal-state-long-beach",
+      "qwpyrmvn",
+      "luma-batch-evtv3o7ycvurvv8p"
+    ]
+  },
+  "luma-batch-evtzs8RDf9CsVEHu": {
+    "until": "2027-11-15T03:31:43.858Z",
+    "slugs": [
+      "dc-privacy-summit",
+      "p60o9q3i",
+      "luma-batch-evtzs8rdf9csvehu"
+    ]
+  },
+  "luma-batch-evtf75dF4pPOcL4z": {
+    "until": "2027-11-15T03:31:43.858Z",
+    "slugs": [
+      "wrth-mrkt-tribaja-macabre-mint",
+      "tribaja-32pw",
+      "luma-batch-evtf75df4ppocl4z"
+    ]
   }
 }

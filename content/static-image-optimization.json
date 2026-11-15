@@ -781,10 +781,6 @@
       "sha256": "c8ef1e95b99ad3fdd0d8b2ada614a14ae5eaac9bbee1f3c0251a9c379703488d",
       "status": "optimized"
     },
-    "/events/luma-batch-4EDsB2GqW0jHyhh-87b47124.webp": {
-      "sha256": "2cc3e52c77867c2df4336784fe4883137954c51fc68684066e8e0cb5a723377e",
-      "status": "optimized"
-    },
     "/events/luma-batch-7iIJgmckKWYczPb-53ebcd27.webp": {
       "sha256": "ae04ab0d8cf4efc3619186d97f98a6b49b1ad6e96736b086f378fe5b257d2c2d",
       "status": "retained"
@@ -933,14 +929,6 @@
       "sha256": "28cdfca7c85f42aa1f4a52017d767a01de0af2eaf45ae8eb9c0570a0e571ba12",
       "status": "optimized"
     },
-    "/events/luma-batch-evtf75dF4pPOcL4z-38891d07.webp": {
-      "sha256": "00c7690b2370147c81e34053e30417f115d08d7f466df66302d814632f5c2e5e",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evthR8OsCOm9iUOU-444343b1.webp": {
-      "sha256": "9cc7c337c548095b49036befb940e911f73d481242c21e88085e56edbe1b5ac6",
-      "status": "optimized"
-    },
     "/events/luma-batch-evti0AaTIcicsFFO-235a70ea.webp": {
       "sha256": "0f0f049ed5fae067cec19ac94c054570d394b8aa2dc4fc08b633c1d27b93b3a0",
       "status": "optimized"
@@ -977,10 +965,6 @@
       "sha256": "8fbe14043c9d84ac02eaf32ef8b6d91999f368a1890776a1d446cb00a940f33d",
       "status": "optimized"
     },
-    "/events/luma-batch-evtv3O7YcVURVv8P-c006e2c5.webp": {
-      "sha256": "60987eb6cba7508caebb682f6088ae304b14dc16b51e796dca82ad1a05d15d36",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtwN4QHithlPvTZ-7b1da6f0.webp": {
       "sha256": "6b2b0960d4fcb1e73302b892898e3f0b87cfc42f3869efaeaffaf8017b22612e",
       "status": "optimized"
@@ -999,10 +983,6 @@
     },
     "/events/luma-batch-evtycWrx5n01IFcf-604867a0.webp": {
       "sha256": "5470f66b0259050df52a6d774baf4350128a0ea1a74570dfd333108853b4407a",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evtzs8RDf9CsVEHu-549c0a65.webp": {
-      "sha256": "1bf6045c54e199df52b101aeb3fdc9b30f1f73c2689067a41ab6bce0215c7922",
       "status": "optimized"
     },
     "/events/luma-batch-gu8tBdih1P3Z2rD-0dc91389.webp": {
@@ -1601,10 +1581,6 @@
       "sha256": "14d065b76835556dd0198809a8c00ae7b4704b8a26914295a21f783a7b369f84",
       "status": "optimized"
     },
-    "/events/luma-evt-addbsnvds2srn5q-ccfa0152.webp": {
-      "sha256": "32aa6fedce6ca1a07ef033949827a9dd9ee764c7896a819b55ef569cb7ae5b08",
-      "status": "optimized"
-    },
     "/events/luma-evt-agvhck2qkfz23qe-6a5f429d.webp": {
       "sha256": "7c699c6b138eeb5afc35bc0ba1353e4a77d592252ec4b681b9b2bf818b620008",
       "status": "optimized"
@@ -1709,10 +1685,6 @@
       "sha256": "cb3a0688444c4fc1327ebedae916f42be6594c4aefcf55023385db0cd74ff543",
       "status": "optimized"
     },
-    "/events/luma-evt-cxgiggtf5wxigvm-16493986.webp": {
-      "sha256": "90f0a36855f06b0cd6b42c929a754813e526c58c5ef142ed5a89e54c0f7d5179",
-      "status": "optimized"
-    },
     "/events/luma-evt-cyzriddlecicprs-6942447f.webp": {
       "sha256": "4d085f984ab3b4ee6ebd209bb2130bac98b5ef01ee223e2e1e0d7ff2105eed47",
       "status": "optimized"
@@ -1735,10 +1707,6 @@
     },
     "/events/luma-evt-dqb4chdgcuofzgm-db8a2ba1.webp": {
       "sha256": "84e1e518c4067b0c1312715fdb9a0bad5a59dd033e808923e3cce4c209f8f8d4",
-      "status": "optimized"
-    },
-    "/events/luma-evt-dsbcp1wxq7tt3am-0b140d63.webp": {
-      "sha256": "2988449cdb5f989f5be4d179fcc85bbee1d8ba67a044ba9affbf09105e92f15b",
       "status": "optimized"
     },
     "/events/luma-evt-dtmixkriz3wbrud-60161e47.webp": {
@@ -1771,10 +1739,6 @@
     },
     "/events/luma-evt-ekti6y4fzerddk9-4c2b275e.webp": {
       "sha256": "0b0eb4e3d74e3aacb1c524cfa38cfd7afe8b4896d04f622531b7119cada8ed5b",
-      "status": "optimized"
-    },
-    "/events/luma-evt-enpjjbemdte9tf8-0d608e56.webp": {
-      "sha256": "cafc18e305c448078a403ee33a3891bade6b83600fac83d984355ec661ff8946",
       "status": "optimized"
     },
     "/events/luma-evt-erekzewtrhrwn9p-b3761537.webp": {
@@ -1845,20 +1809,8 @@
       "sha256": "70498bfa12c2ebc90970517aa781520d4e988487b0e2dec6db93b9dffbed1574",
       "status": "optimized"
     },
-    "/events/luma-evt-glzmas0xbyyinu3-db323e18.webp": {
-      "sha256": "1f0e46175e698400ba11f1950738c1c6bc8d5e6558ab0a7725fb8a45d18a1222",
-      "status": "optimized"
-    },
     "/events/luma-evt-gprk68ir2rz4g8l-55268e2e.webp": {
       "sha256": "6bebeb78e278fd62efce07a0743b4b0844681128a8504ccdc87294d721ec9d65",
-      "status": "optimized"
-    },
-    "/events/luma-evt-gqdlgiezobtn2as-fc8cf13e.webp": {
-      "sha256": "7c977aaf2426b42b74d5d6ed90bf6850d8a9058165e6ad907e3ba48f446d8be2",
-      "status": "optimized"
-    },
-    "/events/luma-evt-gvfhfccl5fof4as-71162dfb.webp": {
-      "sha256": "d7c36c490585a996a281f4b10a8a8d9ae7287a51038b0a4eb53ef71a50778c3a",
       "status": "optimized"
     },
     "/events/luma-evt-gyfa3ibvja5lhyv-c80ebdbd.webp": {
@@ -2389,10 +2341,6 @@
       "sha256": "96455983e39a8d37d9ec5747719007cf1a34d6cf45c82410bfc31acbafa820f0",
       "status": "optimized"
     },
-    "/events/luma-evt-v3o7ycvurvv8pbw-d7fd45c8.webp": {
-      "sha256": "0a337a25fe2ead077c32f557ac4732211c33c09b5f7152c36ec2773a7973246a",
-      "status": "optimized"
-    },
     "/events/luma-evt-v53ojwka5tr7gsw-2ac9d2fb.webp": {
       "sha256": "ae2ba4edb8ceaf7073beaca7a329dd4fb4d0ec9989b86f2633dfbfd663b73417",
       "status": "optimized"
@@ -2483,10 +2431,6 @@
     },
     "/events/luma-evt-xkvemq58zkdxg7y-ec29b94f.webp": {
       "sha256": "3734619a019fe7230af183bac1022c14f1595e17664cf26a85bd910b0642f867",
-      "status": "optimized"
-    },
-    "/events/luma-evt-xo2i5igczkjnvvt-6e76f48c.webp": {
-      "sha256": "a55f4e957c796ef2cf16458c51eec39c2e3d32885b502f7d9f013cf1c486af5d",
       "status": "optimized"
     },
     "/events/luma-evt-xrlhwxomddonbwh-6d83ef82.webp": {
@@ -2895,10 +2839,6 @@
     },
     "/events/ma-web-summit-2027-b6238e2b.webp": {
       "sha256": "c30a54237d40084b7352946c64cb8b1793749e697dffdd79165b37c0eb1c6ab1",
-      "status": "optimized"
-    },
-    "/events/ma-webx-2027-86bdb833.webp": {
-      "sha256": "6cce9a61d06363f3482393cf63e893ca86a26723ab4d9e04f31ae33ea057741f",
       "status": "optimized"
     },
     "/events/meridian.webp": {
