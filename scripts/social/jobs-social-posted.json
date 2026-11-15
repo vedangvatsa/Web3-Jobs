@@ -139604,7 +139604,8 @@
       },
       "account": "profile",
       "attemptId": "c8b95fdd-4775-4eec-9ca3-05f88ffaddbc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7e7f7ff4f1274e3fe843e41d631b5b782ae289cc"
     }
   ]
 }
