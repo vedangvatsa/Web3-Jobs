@@ -139024,7 +139024,8 @@
       },
       "account": "channel:founders",
       "attemptId": "1b0c3508-e640-407c-8259-fb73752dbc93",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0ec191d13c88ecd5f2fd5ce80fe6014d6e00594f"
     }
   ]
 }
