@@ -163,5 +163,36 @@
     "slotKey": "2026-11-15:morning",
     "messageId": 65830,
     "sentAt": "2026-11-15T03:33:56.453Z"
+  },
+  "8d7474f7-c8ff-41a9-ba2c-1a43de18bd93": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T11:33:01.431Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Across Protocol Recovers Domain After $402,000 Exploit",
+        "summary": "A Namecheap social engineering attack compromised the across.to domain, resulting in $401,900 stolen from nine wallets across five chains.",
+        "link": "https://hashtagweb3.com/acrosshack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Across restores website after domain hijack as Bitquery traces $402,000 in losses"
+      },
+      {
+        "index": -1,
+        "headline": "Decrypt Money Account Integrates Solana Privacy Rings",
+        "summary": "Launched Nov. 10, the tool conceals transfer amounts while keeping wallet addresses visible on the blockchain.",
+        "link": "https://hashtagweb3.com/heliusmoney?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Decrypt Money Account adds confidential transfers through Helius privacy rings"
+      },
+      {
+        "index": -1,
+        "headline": "DOJ Authorized to Seize $1.2 Billion Stolen Binance Crypto",
+        "summary": "Federal officials also disrupted FaceStealer malware infrastructure associated with over $400 million in stolen funds.",
+        "link": "https://hashtagweb3.com/dojseizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOJ gets court authority to seize $1.2 billion of Binance hack crypto, disrupts FaceStealer"
+      }
+    ],
+    "slotKey": "2026-11-15:afternoon"
   }
 }
