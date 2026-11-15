@@ -962,6 +962,24 @@
         "rolloutId": "daily-20261115-43672632350-1",
         "buildState": "FAILED",
         "observedAt": "2026-11-15T05:38:20.159Z"
+      },
+      {
+        "date": "2026-11-15",
+        "id": "43691217481-1",
+        "sourceCommit": "adf20acfd06c5f86adde9cf79f0dc61f34c465a1",
+        "jobsCheckedAt": "2026-11-15T03:38:32.822Z",
+        "newsCompletedAt": "2026-11-15T05:18:18.182Z",
+        "articleSlugs": [
+          "binancefull",
+          "defiamicus",
+          "cnbbond",
+          "warshforum",
+          "kavalendhack"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-15T08:01:33.122Z",
+        "buildId": "daily-20261115-43691217481-1",
+        "rolloutId": "daily-20261115-43691217481-1"
       }
     ]
   }
