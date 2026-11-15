@@ -229,6 +229,26 @@
       "slot": "morning",
       "date": "2026-11-15",
       "queuedAt": "2026-11-15T03:32:41.635Z"
+    },
+    {
+      "slug": "binancefull",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6afa08c7ee359588b54acb0f",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-15",
+      "queuedAt": "2026-11-15T19:32:23.287Z"
+    },
+    {
+      "slug": "binancefull",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6afa08c7b9a106584cce299d",
+      "status": "queued",
+      "slot": "evening",
+      "date": "2026-11-15",
+      "queuedAt": "2026-11-15T19:32:23.287Z"
     }
   ]
 }
