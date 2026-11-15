@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-15T19:31:21.170Z",
+  "generatedAt": "2026-11-15T23:27:39.755Z",
   "items": [
+    {
+      "title": "US sellers drive Bitcoin crash, Jensen plots comeback: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 15 Nov 2026 22:50:59 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate NVIDIA bo...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+      "link": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+      "pubDate": "Sun, 15 Nov 2026 21:57:53 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+      "source": "The Block"
+    },
+    {
+      "title": "Traders claim $6 million profit by spotting BitGo’s public pull request and frontrunning memecoin listing",
+      "link": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+      "pubDate": "Sun, 15 Nov 2026 20:33:17 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+      "source": "The Block"
+    },
     {
       "title": "Did prediction markets call the U.S. midterm election?: State of Crypto ",
       "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
@@ -50,28 +74,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
-      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 15 Nov 2026 10:23:17 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Coinone warns of phishing, identity theft after customer data breach",
       "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sun, 15 Nov 2026 08:07:58 +0000",
       "creator": "Ezra Reguerra",
       "contentSnippet": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and cr...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin Hits Three-Month Low Below $65,000 As Fourth Capitulation Wave Doubles to $850,000,000 Daily",
-      "link": "https://dailyhodl.com/2026/11/15/bitcoin-hits-three-month-low-below-65000-as-fourth-capitulation-wave-doubles-to-850000000-daily/",
-      "pubDate": "Sun, 15 Nov 2026 08:04:02 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Bitcoin is sliding to a three-month low of $65,000 amid its fourth capitulation wave since the all-time high, with daily selling volume doubling to ov...",
-      "source": "Daily Hodl"
     },
     {
       "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
@@ -466,12 +474,12 @@
       "source": "Coindesk"
     },
     {
-      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
-      "link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
-      "pubDate": "Fri, 13 Nov 2026 05:08:25 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
-      "source": "The Block"
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "pubDate": "Fri, 13 Nov 2026 03:37:00 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in fu...",
+      "source": "Coindesk"
     },
     {
       "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
@@ -490,12 +498,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
-      "link": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 12 Nov 2026 21:52:04 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Strategy shares declined Thursday following MSCI’s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market ...",
-      "source": "Cointelegraph"
+      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+      "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+      "pubDate": "Thu, 12 Nov 2026 21:26:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether th...",
+      "source": "Decrypt"
     },
     {
       "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
