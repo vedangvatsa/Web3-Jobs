@@ -175887,11 +175887,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "0d0a33d6d85074bb4f7d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T23:48:00.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "price-chatter",
+      "note": "Read Crypto Briefing Nov. 13 in full: the piece is Coinbase Institutional analysis of why Bitcoin fell (Nov. 10 CPI, December rate-hike odds above 90%, ETF outflows, liquidations), not a discrete filing, launch, hack or vote. Attribution of price moves to macro expectations is commentary on market direction, which the queue excludes as price chatter.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:43:57.052Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "0071349e5459f4edcd2f": {
       "source": "Unchained",
@@ -175908,11 +175918,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "0071349e5459f4edcd2f",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T12:00:44.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "needs-corroboration",
+      "note": "Read Unchained Nov. 13 in full: Binance's Proof of Reserves page as viewed Nov. 13 showed a 104.34% USDT ratio with onchain balances about 1.06 billion USDT above net customer balances, after Binance said Nov. 12 it finished covering Oct. 29 hack losses and published a new snapshot, while a zero-knowledge proof for independent verification was still pending. A second independent outlet has not been opened yet.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/binances-reserve-page-shows-1-06-billion-more-usdt-than-customer-balances-after-hack-refill/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:43:57.052Z",
+      "retrySearches": [
+        "Find independent reporting corroborating Binance's Nov. 12 proof-of-reserves update showing about 1.06 billion more USDT onchain than customer net balances and the pending zero-knowledge proof"
+      ],
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "da3d161bb30ac0b5fac6": {
       "source": "The Defiant",
@@ -177666,30 +177690,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "f62114ca0add13f59655",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T21:13:45.000Z",
       "lastSeenAt": "2026-11-15T03:31:30.173Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"AMD Sinks 9% as Chip Rally Falters After Huang Exit\": https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "price-chatter",
+      "note": "Read Crypto Briefing Nov. 14 in full: Nvidia shares fell and forward P/E compressed after Jensen Huang's exit, framed entirely as equity valuation commentary. The Defiant primary returned 403 in the availability pass. Chip-stock percentage moves are price chatter outside a Web3 concrete-event story.",
       "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nvidia-valuation-low-jensen-huang-exit/",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit",
           "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-14T00:25:19.678Z"
+          "status": 403
         }
       ],
-      "reviewedAt": "2026-11-14T00:25:25.799Z",
+      "reviewedAt": "2026-11-15T04:43:57.052Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: AMD Sinks 9% as Chip Rally Falters After Huang Exit",
         "Find independent reporting confirming the event in: AMD Sinks 9% as Chip Rally Falters After Huang Exit",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15"
+      "lastReviewedDay": "2026-11-15"
     },
     "ada73927d9185905f57c": {
       "source": "Crypto Briefing",
@@ -178053,30 +178078,31 @@
       ],
       "alsoCoveredBy": [],
       "id": "ad45650f8538c2a989d4",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T15:38:07.000Z",
       "lastSeenAt": "2026-11-15T03:31:30.173Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Microsoft Links Global Outage to Failed Health Checks\": https://thedefiant.io/frontier/infrastructure/microsoft-links-global-outage-to-failed-health-checks -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "out-of-scope",
+      "note": "Read Cointelegraph Nov. 14 in full: Microsoft restored Microsoft 365 services after an outage blamed on a network capacity upgrade, ruling out cyberattack; OpenAI and Anthropic connectors recovered. No Web3, crypto, on-chain or digital-asset angle appears in the report. The Defiant primary returned 403 in the availability pass. A general Microsoft 365 outage is outside this site's Web3 news scope.",
       "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
+          "outcome": "read"
+        },
         {
           "url": "https://thedefiant.io/frontier/infrastructure/microsoft-links-global-outage-to-failed-health-checks",
           "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-14T00:25:20.038Z"
+          "status": 403
         }
       ],
-      "reviewedAt": "2026-11-14T00:25:25.800Z",
+      "reviewedAt": "2026-11-15T04:43:57.052Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Microsoft Links Global Outage to Failed Health Checks",
         "Find independent reporting confirming the event in: Microsoft Links Global Outage to Failed Health Checks",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15"
+      "lastReviewedDay": "2026-11-15"
     },
     "c437c4e47ce151bc90e2": {
       "source": "Bitcoin Magazine",
@@ -178490,11 +178516,25 @@
         "The Defiant"
       ],
       "id": "4a37cde7de061891183e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T13:04:19.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "needs-corroboration",
+      "note": "Read Cointelegraph Nov. 13 in full: Nakamoto shares fell about 6.5% premarket after Q3 results showed operating revenue of negative $1.9 million following a $5.8 million Bitcoin options loss, and the company extended repayment of $60 million in USDT owed to Kraken from Dec. 4, 2026 to Dec. 4, 2027 per an SEC filing. Only one independent site is readable so far; The Defiant second URL was not opened this round.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:43:57.052Z",
+      "retrySearches": [
+        "Find independent reporting or the Nakamoto SEC filing confirming the Q3 operating revenue loss and the $60 million Kraken USDT loan extension to December 2027"
+      ],
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "f7814336fc8294287a9a": {
       "source": "Cointelegraph",
@@ -343354,6 +343394,82 @@
           "reviewedAt": "2026-11-15T04:36:27.249Z",
           "retrySearches": [
             "Find independent reporting confirming Variational launched its Omni single-dealer broker platform from private beta in November 2026"
+          ]
+        },
+        "0d0a33d6d85074bb4f7d": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Crypto Briefing Nov. 13 in full: the piece is Coinbase Institutional analysis of why Bitcoin fell (Nov. 10 CPI, December rate-hike odds above 90%, ETF outflows, liquidations), not a discrete filing, launch, hack or vote. Attribution of price moves to macro expectations is commentary on market direction, which the queue excludes as price chatter.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/coinbase-institutional-fed-rates-bitcoin-decline/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:43:57.052Z"
+        },
+        "f62114ca0add13f59655": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Crypto Briefing Nov. 14 in full: Nvidia shares fell and forward P/E compressed after Jensen Huang's exit, framed entirely as equity valuation commentary. The Defiant primary returned 403 in the availability pass. Chip-stock percentage moves are price chatter outside a Web3 concrete-event story.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nvidia-valuation-low-jensen-huang-exit/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit",
+              "outcome": "blocked",
+              "status": 403
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:43:57.052Z"
+        },
+        "ad45650f8538c2a989d4": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Cointelegraph Nov. 14 in full: Microsoft restored Microsoft 365 services after an outage blamed on a network capacity upgrade, ruling out cyberattack; OpenAI and Anthropic connectors recovered. No Web3, crypto, on-chain or digital-asset angle appears in the report. The Defiant primary returned 403 in the availability pass. A general Microsoft 365 outage is outside this site's Web3 news scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/infrastructure/microsoft-links-global-outage-to-failed-health-checks",
+              "outcome": "blocked",
+              "status": 403
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:43:57.052Z"
+        },
+        "4a37cde7de061891183e": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read Cointelegraph Nov. 13 in full: Nakamoto shares fell about 6.5% premarket after Q3 results showed operating revenue of negative $1.9 million following a $5.8 million Bitcoin options loss, and the company extended repayment of $60 million in USDT owed to Kraken from Dec. 4, 2026 to Dec. 4, 2027 per an SEC filing. Only one independent site is readable so far; The Defiant second URL was not opened this round.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:43:57.052Z",
+          "retrySearches": [
+            "Find independent reporting or the Nakamoto SEC filing confirming the Q3 operating revenue loss and the $60 million Kraken USDT loan extension to December 2027"
+          ]
+        },
+        "0071349e5459f4edcd2f": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read Unchained Nov. 13 in full: Binance's Proof of Reserves page as viewed Nov. 13 showed a 104.34% USDT ratio with onchain balances about 1.06 billion USDT above net customer balances, after Binance said Nov. 12 it finished covering Oct. 29 hack losses and published a new snapshot, while a zero-knowledge proof for independent verification was still pending. A second independent outlet has not been opened yet.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/binances-reserve-page-shows-1-06-billion-more-usdt-than-customer-balances-after-hack-refill/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:43:57.052Z",
+          "retrySearches": [
+            "Find independent reporting corroborating Binance's Nov. 12 proof-of-reserves update showing about 1.06 billion more USDT onchain than customer net balances and the pending zero-knowledge proof"
           ]
         }
       },
