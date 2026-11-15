@@ -139397,7 +139397,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "126a0eca-4312-4628-9e48-ec0cac40e1f1",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6af9298776c23bf1c7576af3"
     }
   ]
 }
