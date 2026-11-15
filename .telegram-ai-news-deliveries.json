@@ -154,5 +154,42 @@
     "slotKey": "2026-11-14:evening",
     "messageId": 193517,
     "sentAt": "2026-11-14T19:32:32.391Z"
+  },
+  "109e818d-a663-4689-a5c8-5021373a7ff7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T03:32:35.912Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "AT&T uses agentic AI to reinvent business processes from the ground up",
+        "headline": "AT&T deploys 500 autonomous AI agents in production",
+        "summary": "The telecom giant plans to triple its autonomous agent workflows next year to streamline internal business operations.",
+        "event_rationale": "Covers AT&T's enterprise-scale deployment of autonomous AI workflows, distinct from model releases and previously posted stories.",
+        "link": "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
+        "source": "SiliconANGLE",
+        "originalTitle": "AT&T uses agentic AI to reinvent business processes from the ground up"
+      },
+      {
+        "index": 16,
+        "original_title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+        "headline": "Perplexity releases open-weight decision models Decider and Flash v1.3",
+        "summary": "The models return action probabilities for text classification and span extraction with 91.6 percent mean accuracy.",
+        "event_rationale": "Covers Perplexity's release of specialized open-weight decision models, distinct from enterprise deployments and agent orchestration tools.",
+        "link": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+        "source": "MarkTechPost",
+        "originalTitle": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate"
+      },
+      {
+        "index": 25,
+        "original_title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+        "headline": "CopilotKit releases open-source AI agent workspace OpenBot 1.0",
+        "summary": "The self-hostable platform allows organizations to deploy custom agents with governance policy checks and audit trails.",
+        "event_rationale": "Covers the open-source release of CopilotKit's self-hostable AI agent workspace, distinct from proprietary model launches and corporate deployments.",
+        "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+        "source": "MarkTechPost",
+        "originalTitle": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance"
+      }
+    ],
+    "slotKey": "2026-11-15:morning"
   }
 }
