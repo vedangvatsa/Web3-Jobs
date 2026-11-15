@@ -178903,9 +178903,9 @@
         "Crypto Briefing"
       ],
       "id": "4519c0868b1010faa321",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T23:07:35.000Z",
       "lastSeenAt": "2026-11-15T03:31:30.173Z",
       "articleSlug": "kavalendhack",
@@ -178931,7 +178931,29 @@
         "updatedAt": "2026-11-15T03:55:46.941Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Crypto Briefing, TokenPost and Bitquery's on-chain investigation on the Nov. 14 Kava Lend exploit: 55.2M KAVA borrowed in 127 loans via a dormant BUSD market with a 243,000x index spike, 49.2M bridged via LayerZero and sold for about .09M, Upbit/Bithumb/Coinone deposit halts, Axelar pause. The Block and The Defiant returned 403; three independent sites were opened and read. Draft, hero image and audits pass (quality, images, duplicates, formatting).",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/kava-token-incident-bridge-shutdown/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/57560",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitquery.io/investigations/kava-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:08:49.366Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "b51344fe22d9fb6b2385": {
       "source": "The Defiant",
@@ -342949,6 +342971,31 @@
           ],
           "reviewedAt": "2026-11-15T03:54:18.122Z",
           "articleSlug": "cftclouisiana"
+        },
+        "4519c0868b1010faa321": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Crypto Briefing, TokenPost and Bitquery's on-chain investigation on the Nov. 14 Kava Lend exploit: 55.2M KAVA borrowed in 127 loans via a dormant BUSD market with a 243,000x index spike, 49.2M bridged via LayerZero and sold for about .09M, Upbit/Bithumb/Coinone deposit halts, Axelar pause. The Block and The Defiant returned 403; three independent sites were opened and read. Draft, hero image and audits pass (quality, images, duplicates, formatting).",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kava-token-incident-bridge-shutdown/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/57560",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitquery.io/investigations/kava-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:08:49.366Z",
+          "articleSlug": "kavalendhack"
         }
       },
       "baselineSlugs": [
