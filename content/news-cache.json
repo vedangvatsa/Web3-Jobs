@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-15T11:31:30.569Z",
+  "generatedAt": "2026-11-15T17:56:09.973Z",
   "items": [
+    {
+      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+      "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "pubDate": "Sun, 15 Nov 2026 16:01:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchai...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "US Moves To Seize Or Restrain Over $1,200,000,000 Stolen in Binance Hack, Shuts Down North Korea-Linked FaceStealer Scam That Took $400,000,000",
+      "link": "https://dailyhodl.com/2026/11/15/us-moves-to-seize-or-restrain-over-1200000000-stolen-in-binance-hack-shuts-down-north-korea-linked-facestealer-scam-that-took-400000000/",
+      "pubDate": "Sun, 15 Nov 2026 15:30:26 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The U.S. government has moved to seize or restrain more than $1.2 billion in cryptocurrency stolen from Binance and has taken down infrastructure behi...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 15 Nov 2026 14:30:00 +0000",
+      "creator": "Paul Brody",
+      "contentSnippet": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "link": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+      "pubDate": "Sun, 15 Nov 2026 14:01:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+      "pubDate": "Sun, 15 Nov 2026 14:00:00 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto su...",
+      "source": "Coindesk"
+    },
     {
       "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
       "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -55,14 +95,6 @@
       "pubDate": "Sat, 14 Nov 2026 19:06:59 +0000",
       "creator": "Zack Abrams",
       "contentSnippet": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
-      "source": "The Block"
-    },
-    {
-      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-      "link": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-      "pubDate": "Sat, 14 Nov 2026 17:50:41 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tr...",
       "source": "The Block"
     },
     {
@@ -128,22 +160,6 @@
       "creator": "Agent",
       "contentSnippet": "Federal prosecutors have filed a civil forfeiture complaint targeting cryptocurrency traced to a fraud that drained nearly $200,000 from an Ohio man’s...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 14 Nov 2026 06:33:13 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding ...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
-      "pubDate": "Sat, 14 Nov 2026 05:40:00 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts Nort...",
-      "source": "The Block"
     },
     {
       "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
@@ -298,6 +314,14 @@
       "source": "Coindesk"
     },
     {
+      "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+      "link": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+      "pubDate": "Fri, 13 Nov 2026 14:50:49 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
+      "source": "The Block"
+    },
+    {
       "title": "Ethereum and Layer 1s Explained",
       "link": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
       "pubDate": "Fri, 13 Nov 2026 14:12:23 +0000",
@@ -450,14 +474,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
-      "link": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
-      "pubDate": "Thu, 12 Nov 2026 22:06:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The FBI says the “FaceStealer” scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on...",
-      "source": "Decrypt"
-    },
-    {
       "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
       "link": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 12 Nov 2026 22:05:01 +0000",
@@ -474,14 +490,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
-      "link": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 12 Nov 2026 20:58:06 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance cost...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
       "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
       "pubDate": "Thu, 12 Nov 2026 20:36:03 +0000",
@@ -490,12 +498,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
-      "link": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
-      "pubDate": "Thu, 12 Nov 2026 16:45:52 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won...",
-      "source": "Coindesk"
+      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+      "link": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+      "pubDate": "Thu, 12 Nov 2026 17:46:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down th...",
+      "source": "Decrypt"
     },
     {
       "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
@@ -554,27 +562,11 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-      "link": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
-      "pubDate": "Thu, 12 Nov 2026 11:24:19 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Spot Bitcoin ETFs have lost almost half their peak assets, but analysts say the outflows don't yet show a collapse in demand.",
-      "source": "Decrypt"
-    },
-    {
       "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
       "link": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
       "pubDate": "Wed, 11 Nov 2026 21:46:03 +0000",
       "creator": "Staff",
       "contentSnippet": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-      "link": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-      "pubDate": "Wed, 11 Nov 2026 21:16:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins.",
       "source": "Decrypt"
     }
   ]
