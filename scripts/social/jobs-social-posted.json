@@ -140433,6 +140433,38 @@
       "attemptId": "739fc4fb-79c2-4eab-a861-8ed38d9c71d4",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2er7gglsn22"
+    },
+    {
+      "slug": "sup7",
+      "company": "Riot Platforms",
+      "title": "Mining Operations Supervisor",
+      "platform": "farcaster",
+      "postedAt": "2026-11-15T19:37:11.799Z",
+      "expectedText": "Riot Platforms is hiring Mining Operations Supervisor\n\nhttps://hashtagweb3.com/sup7/fc?og=7",
+      "snapshot": {
+        "id": "88abf1d3-7e44-4519-8665-26e0d49939f7",
+        "title": "Mining Operations Supervisor",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/88abf1d3-7e44-4519-8665-26e0d49939f7",
+        "date": "2026-11-11T14:51:11.285000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Rockdale, TX",
+        "department": "Operations",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sup7"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Mining Operations Supervisor\n\nhttps://hashtagweb3.com/sup7/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sup7/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "6a476fc9-d1af-4baf-81c0-dbd99988e56f",
+      "verification": "creating"
     }
   ]
 }
