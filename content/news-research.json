@@ -179566,10 +179566,14 @@
         "id": "2046504137498498c5b8",
         "day": "2026-11-15",
         "articleSlug": "megacuts",
-        "note": "Round 1 progress: read Cointelegraph Nov. 14 in full (20% staff cut announced Friday by co-founder Shuyao Kong across blockchain/wallet/ecosystem/comms roles, $30 million treasury commitment to AI products, inference market whitepaper by Yilong Li and Lei Yang, December public launch planned). CoinDesk returned 429 via WebFetch and curl; The Block returned 403. Still need one readable independent source (crypto.news, TokenPost, Yahoo Finance or Crypto Briefing coverage exists) before any ready outcome; no draft started.",
+        "note": "Round 6 progress: second independent source now read. Cointelegraph Nov 14 read round 1: 20 percent staff cut, Kong announcement, 30 million dollar treasury AI commitment, inference whitepaper by Li and Yang, December public launch. crypto.news Nov 13 read this round: Kong Nov 13 X post on 20 percent reduction, departing blockchain/wallet/ecosystem/comms roles, founders and core engineers stay, Nov 10 rebrand to MEGA with 30 million dollar commitment, Kong told The Block marketplace details held until launch. CoinDesk remains 429, The Block 403. Two readable independent sites satisfied. Remaining: draft not started; hero image not selected.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+            "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/mega-cuts-20-percent-staff-ai-restructuring",
             "outcome": "read"
           },
           {
@@ -179581,7 +179585,7 @@
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-15T04:37:17.008Z",
+        "updatedAt": "2026-11-15T04:45:22.682Z",
         "approved": false,
         "mustReview": true
       }
