@@ -163,5 +163,36 @@
     "slotKey": "2026-11-15:morning",
     "messageId": 156254,
     "sentAt": "2026-11-15T03:33:15.967Z"
+  },
+  "7ec1adca-d0fb-42a6-ba9c-defe3dc29c5a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T11:33:07.391Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Authorities Sue Arkansas Over Kalshi Gambling Case",
+        "summary": "Federal lawyers argue the CFTC holds exclusive authority over Kalshi's event contracts, overriding state gambling laws.",
+        "link": "https://hashtagweb3.com/arkansaskalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US and CFTC sue Arkansas to stop its case against Kalshi"
+      },
+      {
+        "index": -1,
+        "headline": "Across Protocol Recovers Website After $402,000 Hijack",
+        "summary": "A social engineering attack on Namecheap drained $401,900 from nine wallets across five blockchain networks.",
+        "link": "https://hashtagweb3.com/acrosshack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Across restores website after domain hijack as Bitquery traces $402,000 in losses"
+      },
+      {
+        "index": -1,
+        "headline": "Decrypt Money Account Integrates Helius Solana Privacy Rings",
+        "summary": "Launched Nov. 10 on Solana mainnet, the feature hides transaction amounts while leaving wallet addresses visible.",
+        "link": "https://hashtagweb3.com/heliusmoney?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Decrypt Money Account adds confidential transfers through Helius privacy rings"
+      }
+    ],
+    "slotKey": "2026-11-15:afternoon"
   }
 }
