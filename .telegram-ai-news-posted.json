@@ -11,6 +11,9 @@
   "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
   "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
   "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+  "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
+  "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
+  "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -35,6 +38,12 @@
   "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
   "Google faces calls for school AI bans after lawsuit",
   "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
+  "AT&T deploys 500 autonomous AI agents in production",
+  "AT&T uses agentic AI to reinvent business processes from the ground up",
+  "Perplexity releases open-weight decision models Decider and Flash v1.3",
+  "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
+  "CopilotKit releases open-source AI agent workspace OpenBot 1.0",
+  "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -46,5 +55,8 @@
   "fp:acceleration|agentic|built|control|environment|factory|hardwar|infrastructur|isolat|manag",
   "fp:collection|compress|context|document|fewer|frozen|into16|latent|llm|long",
   "fp:74m|audio|audio361|central|codec|faster|liquid|liquidcodec|parameter|process",
-  "fp:allegation|backlash|ban|call|classroom|deployment|fac|follow|gemini|googl"
+  "fp:allegation|backlash|ban|call|classroom|deployment|fac|follow|gemini|googl",
+  "fp:agentic|autonomous|business|deploys500|giant|ground|internal|next|operation|process",
+  "fp:accuracy|action|add|classification|decider|decision|extraction|flash|locat|mean",
+  "fp:allow|audit|built|check|copilotkit|coworker|custom|deploy|governanc|hostabl"
 ]

@@ -156,7 +156,7 @@
     "sentAt": "2026-11-14T19:32:32.391Z"
   },
   "109e818d-a663-4689-a5c8-5021373a7ff7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T03:32:35.912Z",
     "stories": [
       {
@@ -190,6 +190,8 @@
         "originalTitle": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance"
       }
     ],
-    "slotKey": "2026-11-15:morning"
+    "slotKey": "2026-11-15:morning",
+    "messageId": 193519,
+    "sentAt": "2026-11-15T03:32:38.481Z"
   }
 }
