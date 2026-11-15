@@ -172837,9 +172837,9 @@
         "The Defiant"
       ],
       "id": "fb88d655f7d0c67b685f",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T19:12:14.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
       "articleSlug": "binancefull",
@@ -172861,7 +172861,21 @@
         "updatedAt": "2026-11-15T03:35:58.234Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Bitcoin Magazine's Nov. 12 completion report and Cointelegraph's DOJ seizure story; verified the .34 billion coverage wording, funding sources, 198-token proof-of-reserves snapshot, phased withdrawals and the .2 billion seizure authorization across both. Drafted binancefull with self-hosted Wikimedia photo of CEO Richard Teng; quality, formatting, duplicate and image audits pass, outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-15T03:43:46.737Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "eea39aae24cdd6ae0bc9": {
       "source": "CoinDesk",
@@ -342807,6 +342821,23 @@
             }
           ],
           "reviewedAt": "2026-11-15T03:39:28.221Z"
+        },
+        "fb88d655f7d0c67b685f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Bitcoin Magazine's Nov. 12 completion report and Cointelegraph's DOJ seizure story; verified the .34 billion coverage wording, funding sources, 198-token proof-of-reserves snapshot, phased withdrawals and the .2 billion seizure authorization across both. Drafted binancefull with self-hosted Wikimedia photo of CEO Richard Teng; quality, formatting, duplicate and image audits pass, outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T03:43:46.737Z",
+          "articleSlug": "binancefull"
         }
       },
       "baselineSlugs": [
