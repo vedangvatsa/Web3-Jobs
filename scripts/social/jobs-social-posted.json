@@ -138343,7 +138343,8 @@
       },
       "account": "channel:ai",
       "attemptId": "347cd7cf-8bf8-441e-b447-f8edf5fb669c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x63b2930cdde2e94ec7748738567600969ab4ef07"
     }
   ]
 }
