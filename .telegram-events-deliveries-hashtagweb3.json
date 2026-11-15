@@ -197,5 +197,54 @@
     "slotKey": "2026-11-15:afternoon",
     "messageId": 156266,
     "sentAt": "2026-11-15T11:32:19.586Z"
+  },
+  "21cbf838-025c-486a-92a6-f02f52fd7ef7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T19:32:10.478Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-batch-evt8JjOeNcaN4TA5",
+        "slug": "quantova-web3-ho-chi-minh-city",
+        "name": "Cộng đồng Web3 Việt Nam | Quantova QVM TP. Hồ Chí Minh 🇻🇳",
+        "startDate": "2026-11-16T06:30:00.000Z",
+        "keys": [
+          "luma-batch-evt8jjoencan4ta5",
+          "xumr6pca",
+          "page:quantova-web3-ho-chi-minh-city:2026-11-16",
+          "luma:evt-8jjoencan4ta5hq",
+          "luma-url:/xumr6pca",
+          "event:cộngđồngweb3việtnamquantovaqvmtphồchíminh:2026-11-16:ho chi minh city"
+        ]
+      },
+      {
+        "id": "luma-crypto-4aQg4F5ApsIZFHS",
+        "slug": "que-aporta-una-blockchain-regulada-encuentro-139-superpioneros",
+        "name": "¿Qué aporta una Blockchain regulada? - Encuentro #139 SuperPioneros",
+        "startDate": "2026-11-16T16:30:00.000Z",
+        "keys": [
+          "luma-crypto-4aqg4f5apsizfhs",
+          "9na7snow",
+          "page:que-aporta-una-blockchain-regulada-encuentro-139-superpioneros:2026-11-16",
+          "luma-url:/9na7snow",
+          "event:quéaportaunablockchainreguladaencuentro139superpioneros:2026-11-16:madrid"
+        ]
+      },
+      {
+        "id": "luma-crypto-mg6jYF5dVcZenvG",
+        "slug": "meet-your",
+        "name": "Meet Your Match w/ CoW Swap @ Solana Breakpoint",
+        "startDate": "2026-11-16T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-mg6jyf5dvczenvg",
+          "page:meet-your:2026-11-16",
+          "luma:evt-mg6jyf5dvczenvg",
+          "luma-url:/mkvzcqey",
+          "event:meetyourmatchwcowswapsolanabreakpoint:2026-11-16:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-15:evening"
   }
 }
