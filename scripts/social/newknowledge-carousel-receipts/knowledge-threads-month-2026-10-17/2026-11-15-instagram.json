@@ -145,7 +145,7 @@
   },
   "claimId": "942601e5-a4c8-42ac-a748-a82519c59b90",
   "startedAt": "2026-11-15T11:32:07.919Z",
-  "status": "accepted",
+  "status": "verified",
   "children": {
     "0": {
       "createClaim": "9a175ce0-dafe-4ef0-8582-35119d17bc15",
@@ -202,8 +202,18 @@
     "claimId": "70ca6251-b23d-4ff2-afd9-0403315e10df",
     "startedAt": "2026-11-15T11:33:19.346Z",
     "creationId": "17922524505461009",
-    "status": "accepted",
+    "status": "verified",
     "postId": "18181043392446774"
   },
-  "postId": "18181043392446774"
+  "postId": "18181043392446774",
+  "publishedChildIds": [
+    "18183658579440912",
+    "18134665720771626",
+    "18115233245147947",
+    "18194228788405143",
+    "17915453925560444",
+    "17978205525158213"
+  ],
+  "permalink": "https://www.instagram.com/p/DfwrsMMF0l4/",
+  "verifiedAt": "2026-11-15T11:33:29.697Z"
 }
