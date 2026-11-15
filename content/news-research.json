@@ -174450,11 +174450,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "89a623ac7f41b6aac269",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T08:26:01.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "out-of-scope",
+      "note": "Read Cointelegraph's Nov. 13 report on the global Microsoft 365 outage (Exchange overload, ChatGPT/Claude connector failures, government email impact). The story has no digital-asset, blockchain or Web3 nexus beyond AI connectors, so it falls outside this publication's coverage; The Defiant's follow-up returned HTTP 403 and would not add a crypto angle anyway.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/frontier/infrastructure/microsoft-blames-365-outage-on-network-upgrade-issue",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:17:30.460Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "4d0edba4fd7253bc2986": {
       "source": "CoinJournal",
@@ -343088,6 +343102,22 @@
           "retrySearches": [
             "Find readable independent reporting on Nakamoto owing Kraken 165 million dollars and the delayed payment terms"
           ]
+        },
+        "89a623ac7f41b6aac269": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Cointelegraph's Nov. 13 report on the global Microsoft 365 outage (Exchange overload, ChatGPT/Claude connector failures, government email impact). The story has no digital-asset, blockchain or Web3 nexus beyond AI connectors, so it falls outside this publication's coverage; The Defiant's follow-up returned HTTP 403 and would not add a crypto angle anyway.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/infrastructure/microsoft-blames-365-outage-on-network-upgrade-issue",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:17:30.460Z"
         }
       },
       "baselineSlugs": [
