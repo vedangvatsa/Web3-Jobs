@@ -477,7 +477,7 @@
     "sentAt": "2026-11-14T19:32:38.158Z"
   },
   "6d9ddda8-0f6b-431c-a44f-98b8ba54e169": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T03:32:36.662Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -589,6 +589,8 @@
       }
     ],
     "message": "- Unlimit is hiring <a href=\"https://hashtagweb3.com/eng785?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Support Engineer (Hong Kong)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/ops178?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Operations Specialist</a>\n- Luno is hiring <a href=\"https://hashtagweb3.com/accs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead: AML, CTF, CPF &amp; Sanctions</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/ddc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director / Senior Director of Communications - APAC</a>\n- Augustus is hiring <a href=\"https://hashtagweb3.com/eng624?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Fellowship</a>",
-    "slotKey": "2026-11-15:morning"
+    "slotKey": "2026-11-15:morning",
+    "messageId": 156253,
+    "sentAt": "2026-11-15T03:32:44.707Z"
   }
 }

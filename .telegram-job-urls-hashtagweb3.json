@@ -47,6 +47,14 @@
     "lastUrl": "https://hashtagweb3.com/pm392",
     "updatedAt": "2026-11-13T19:32:40.534Z"
   },
+  "8378463": {
+    "slugs": [
+      "accs"
+    ],
+    "lastSlug": "accs",
+    "lastUrl": "https://hashtagweb3.com/accs",
+    "updatedAt": "2026-11-15T03:32:44.707Z"
+  },
   "altitude-development-partners-quant-researcher-strategy-developer": {
     "slugs": [
       "tr141"
@@ -158,5 +166,37 @@
     "lastSlug": "eng501",
     "lastUrl": "https://hashtagweb3.com/eng501",
     "updatedAt": "2026-11-14T19:32:38.158Z"
+  },
+  "a98a6cb0-24aa-4299-821d-125547535b69": {
+    "slugs": [
+      "eng785"
+    ],
+    "lastSlug": "eng785",
+    "lastUrl": "https://hashtagweb3.com/eng785",
+    "updatedAt": "2026-11-15T03:32:44.707Z"
+  },
+  "5035788101": {
+    "slugs": [
+      "ops178"
+    ],
+    "lastSlug": "ops178",
+    "lastUrl": "https://hashtagweb3.com/ops178",
+    "updatedAt": "2026-11-15T03:32:44.707Z"
+  },
+  "6a1963fd-7001-4393-ac40-b8a7f468f29e": {
+    "slugs": [
+      "ddc"
+    ],
+    "lastSlug": "ddc",
+    "lastUrl": "https://hashtagweb3.com/ddc",
+    "updatedAt": "2026-11-15T03:32:44.707Z"
+  },
+  "cfdae9c7-93de-482a-9006-68b4c35e0587": {
+    "slugs": [
+      "eng624"
+    ],
+    "lastSlug": "eng624",
+    "lastUrl": "https://hashtagweb3.com/eng624",
+    "updatedAt": "2026-11-15T03:32:44.707Z"
   }
 }
