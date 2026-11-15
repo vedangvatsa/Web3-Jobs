@@ -1204,7 +1204,7 @@
     "sentAt": "2026-11-15T03:32:32.248Z"
   },
   "d8a3935f-7cdd-4ee1-8d5d-29f520586ea8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T11:32:33.126Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -1319,6 +1319,8 @@
       }
     ],
     "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/pm288?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Marketing Manager, Public Sector</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/sls411?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/sec142?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/qa93?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Engineer, Data Quality Platform</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/pm360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations &amp; Strategy Associate</a>",
-    "slotKey": "2026-11-15:afternoon"
+    "slotKey": "2026-11-15:afternoon",
+    "messageId": 16648,
+    "sentAt": "2026-11-15T11:32:38.216Z"
   }
 }
