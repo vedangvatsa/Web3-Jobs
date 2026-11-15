@@ -209,6 +209,26 @@
       "slot": "evening",
       "date": "2026-11-14",
       "queuedAt": "2026-11-14T19:31:55.646Z"
+    },
+    {
+      "slug": "ldkprobe",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6af927d9b9a106584c857459",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-15",
+      "queuedAt": "2026-11-15T03:32:41.635Z"
+    },
+    {
+      "slug": "ldkprobe",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6af927dc918fe79d2ebc6389",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-15",
+      "queuedAt": "2026-11-15T03:32:41.635Z"
     }
   ]
 }
