@@ -132,7 +132,7 @@
     "sentAt": "2026-11-14T19:34:17.984Z"
   },
   "06ff7226-8c00-47f9-a2c0-1ab15ec5e516": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T03:33:12.987Z",
     "stories": [
       {
@@ -160,6 +160,8 @@
         "originalTitle": "Twenty One Capital reports $1.09 billion Q3 net income from bitcoin gains"
       }
     ],
-    "slotKey": "2026-11-15:morning"
+    "slotKey": "2026-11-15:morning",
+    "messageId": 156254,
+    "sentAt": "2026-11-15T03:33:15.967Z"
   }
 }
