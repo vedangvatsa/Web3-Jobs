@@ -713,7 +713,7 @@
     "sentAt": "2026-11-15T11:32:55.082Z"
   },
   "7b282058-9296-473f-8a76-bfe956694938": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T19:32:48.551Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -825,6 +825,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sesc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Southern Europe, SMB &amp; Commercial</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/mkt144?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Marketing</a>\n- Solflare is hiring <a href=\"https://hashtagweb3.com/be106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Developer</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/be88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Backend Engineer</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/eng706?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">FICC Options Execution - Senior Software Engineer (Crypto)</a>",
-    "slotKey": "2026-11-15:evening"
+    "slotKey": "2026-11-15:evening",
+    "messageId": 156275,
+    "sentAt": "2026-11-15T19:32:51.956Z"
   }
 }
