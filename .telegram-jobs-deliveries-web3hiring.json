@@ -1563,7 +1563,7 @@
     "sentAt": "2026-11-15T19:32:41.373Z"
   },
   "748c5c96-75af-4481-8dbe-60015e112be7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T19:32:42.809Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -1677,6 +1677,8 @@
       }
     ],
     "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/rec66?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior HR Technology Analyst</a>\n- Magic Eden is hiring <a href=\"https://hashtagweb3.com/mgr180?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Social Media Manager, Dicey</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ldd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Learning &amp; Development Director</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/aso60?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director and Associate General Counsel, Banking and Credit Cards</a>\n- Trust Wallet is hiring <a href=\"https://hashtagweb3.com/ops103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Operations Associate</a>",
-    "slotKey": "2026-11-15:evening"
+    "slotKey": "2026-11-15:evening",
+    "messageId": 197,
+    "sentAt": "2026-11-15T19:32:44.722Z"
   }
 }
