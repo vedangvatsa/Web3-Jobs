@@ -174379,7 +174379,7 @@
         "id": "0bac5971c634c0b98bfb",
         "day": "2026-11-15",
         "articleSlug": "cnbbond",
-        "note": "Read CNB press release (primary) and CryptoSlate in full; still need a second independent outlet opened (TokenPost found via search) and draft plus image.",
+        "note": "Read CNB press release, CryptoSlate and TokenPost this round; drafting next, image pending.",
         "sourceChecks": [
           {
             "url": "https://www.cnb.cz/en/cnb-news/press-releases/CNB-issues-its-first-DLT-bond/",
@@ -174388,9 +174388,13 @@
           {
             "url": "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins/",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/technology/57639",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-15T03:35:49.303Z",
+        "updatedAt": "2026-11-15T03:36:12.164Z",
         "approved": false,
         "mustReview": true
       }
