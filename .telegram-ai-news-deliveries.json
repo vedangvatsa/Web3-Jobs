@@ -232,5 +232,42 @@
     "slotKey": "2026-11-15:afternoon",
     "messageId": 193521,
     "sentAt": "2026-11-15T11:32:50.167Z"
+  },
+  "5f72939b-97e0-461c-bb07-ec44718a6fd3": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T19:32:17.947Z",
+    "stories": [
+      {
+        "index": 28,
+        "original_title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+        "headline": "Nvidia confirms feasibility of tracking AI chips to prevent smuggling",
+        "summary": "The company told U.S. lawmakers it can technically monitor hardware locations to comply with proposed export security legislation.",
+        "event_rationale": "Covers Nvidia's technical confirmation of chip-tracking capabilities to U.S. lawmakers, distinct from prior China sales investigations and executive resignations.",
+        "link": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility"
+      },
+      {
+        "index": 1,
+        "original_title": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
+        "headline": "Anthropic releases Claude Fable 5.2 with code-based image generation",
+        "summary": "The model creates photorealistic images by executing Python code that simulates brushstrokes rather than directly generating pixels.",
+        "event_rationale": "Covers the technical release of Anthropic's Claude Fable 5.2 visual capabilities, which is distinct from all previously posted story events.",
+        "link": "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
+        "source": "The Decoder",
+        "originalTitle": "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them"
+      },
+      {
+        "index": 5,
+        "original_title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+        "headline": "Bland releases Tofu-1 full-duplex speech model for enterprise calls",
+        "summary": "The speech-to-speech model operates in real time during phone calls to handle conversational interactions in noisy environments.",
+        "event_rationale": "Covers the research preview release of Bland's Tofu-1 voice model, focusing on full-duplex capabilities without overlap with past postings.",
+        "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+        "source": "MarkTechPost",
+        "originalTitle": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls"
+      }
+    ],
+    "slotKey": "2026-11-15:evening"
   }
 }
