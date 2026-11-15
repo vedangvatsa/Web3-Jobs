@@ -1442,5 +1442,122 @@
     "slotKey": "2026-11-15:afternoon",
     "messageId": 196,
     "sentAt": "2026-11-15T11:32:44.001Z"
+  },
+  "15a8216d-d39e-4528-ad2e-bfab2b519d0f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T19:32:39.112Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8367450",
+          "title": "Senior HR Technology Analyst",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8367450",
+          "date": "2026-11-12T10:32:14-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "London",
+          "department": "Human Resources",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec66"
+        },
+        "key": "8367450",
+        "slug": "rec66",
+        "url": "https://hashtagweb3.com/rec66?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Senior HR Technology Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "151936d8-8991-4640-b5c5-8f03777aaa5d",
+          "title": "Social Media Manager, Dicey",
+          "company": "Magic Eden",
+          "link": "https://jobs.ashbyhq.com/magiceden/151936d8-8991-4640-b5c5-8f03777aaa5d",
+          "date": "2026-11-11T00:50:18.803+00:00",
+          "source": "Ashby: Magic Eden [MagicEden]",
+          "location": "Remote (Europe)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Business",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr180"
+        },
+        "key": "151936d8-8991-4640-b5c5-8f03777aaa5d",
+        "slug": "mgr180",
+        "url": "https://hashtagweb3.com/mgr180?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Magic Eden",
+        "title": "Social Media Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5025345101",
+          "title": "Senior Learning & Development Director",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5025345101",
+          "date": "2026-11-05T02:15:00-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; APAC - Remote; Dubai, UAE; Europe - Remote; Kuala Lumpur, Malaysia; UK - Remote",
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ldd"
+        },
+        "key": "5025345101",
+        "slug": "ldd",
+        "url": "https://hashtagweb3.com/ldd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Senior Learning & Development Director"
+      },
+      {
+        "snapshot": {
+          "id": "8379461",
+          "title": "Director and Associate General Counsel, Banking and Credit Cards",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8379461?t=gh_src=&gh_jid=8379461",
+          "date": "2026-11-13T19:08:02-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY; Washington, DC",
+          "department": "Legal",
+          "active": true,
+          "salary": "$278k – $327k/yr",
+          "dateVerified": true,
+          "slug": "aso60"
+        },
+        "key": "8379461",
+        "slug": "aso60",
+        "url": "https://hashtagweb3.com/aso60?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Director and Associate General Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "0402849c-50f8-4fee-a551-1b2dc1d1d011",
+          "title": "Business Operations Associate",
+          "company": "Trust Wallet",
+          "link": "https://jobs.ashbyhq.com/trust-wallet/0402849c-50f8-4fee-a551-1b2dc1d1d011",
+          "date": "2026-11-11T07:49:01.482+00:00",
+          "source": "Ashby: Trust Wallet [trust-wallet]",
+          "location": "Remote - Global",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops103"
+        },
+        "key": "0402849c-50f8-4fee-a551-1b2dc1d1d011",
+        "slug": "ops103",
+        "url": "https://hashtagweb3.com/ops103?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Trust Wallet",
+        "title": "Business Operations Associate"
+      }
+    ],
+    "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/rec66?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior HR Technology Analyst</a>\n- Magic Eden is hiring <a href=\"https://hashtagweb3.com/mgr180?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Social Media Manager, Dicey</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/ldd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Learning &amp; Development Director</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/aso60?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director and Associate General Counsel, Banking and Credit Cards</a>\n- Trust Wallet is hiring <a href=\"https://hashtagweb3.com/ops103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Operations Associate</a>",
+    "slotKey": "2026-11-15:evening"
   }
 }
