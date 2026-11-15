@@ -177030,11 +177030,29 @@
         "Decrypt"
       ],
       "id": "cb01e2a7a5d8dc0333d3",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T13:34:46.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "source-blocked",
+      "note": "Read Decrypt's Nov. 13 report: two 50 BTC transfers on Nov. 13 (first at 4:08 a.m. UTC flagged by Whale Alert) moved mining rewards from Sept. 2010 wallets after 16 years, combined value about .89 million, from blocks mined Sept. 8 and Sept. 19 2010, owner unknown. The Block's article returned HTTP 403 on GET, so only one of the candidate's two outlets is readable and the event lacks independent corroboration.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:11:30.213Z",
+      "retrySearches": [
+        "Find independent reporting corroborating the two 50 BTC transfers from September 2010 dormant wallets on Nov. 13 2026, such as Whale Alert or another outlet"
+      ],
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "587db430e7de6ae8800b": {
       "source": "CryptoSlate",
@@ -342996,6 +343014,25 @@
           ],
           "reviewedAt": "2026-11-15T04:08:49.366Z",
           "articleSlug": "kavalendhack"
+        },
+        "cb01e2a7a5d8dc0333d3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Decrypt's Nov. 13 report: two 50 BTC transfers on Nov. 13 (first at 4:08 a.m. UTC flagged by Whale Alert) moved mining rewards from Sept. 2010 wallets after 16 years, combined value about .89 million, from blocks mined Sept. 8 and Sept. 19 2010, owner unknown. The Block's article returned HTTP 403 on GET, so only one of the candidate's two outlets is readable and the event lacks independent corroboration.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:11:30.213Z",
+          "retrySearches": [
+            "Find independent reporting corroborating the two 50 BTC transfers from September 2010 dormant wallets on Nov. 13 2026, such as Whale Alert or another outlet"
+          ]
         }
       },
       "baselineSlugs": [
