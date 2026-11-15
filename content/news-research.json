@@ -175932,7 +175932,23 @@
         "Find independent reporting confirming Fed Chair Warsh's Nov. 16 2026 San Francisco forum on AI inflation productivity and employment"
       ],
       "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15"
+      "nextReviewDate": "2026-11-15",
+      "articleSlug": "warshforum",
+      "draftProgress": {
+        "id": "507340dbfc30f9b48c5f",
+        "day": "2026-11-15",
+        "articleSlug": "warshforum",
+        "note": "Round 2 progress: search surfaced the primary SF Fed event page for the Nov 16 Productivity and Jobs Task Force Conference (Warsh opening remarks, panels, livestream) at frbsf.org, plus AP's Oct 16 report that Warsh said the AI task force meets Nov. 16. Decrypt marked read from the prior round's review; frbsf.org still needs opening this round before any ready outcome.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-15T03:44:35.499Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "c2eebe9465aba85bbfac": {
       "source": "Crypto Briefing",
