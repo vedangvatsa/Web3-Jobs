@@ -174369,9 +174369,9 @@
         "The Defiant"
       ],
       "id": "0bac5971c634c0b98bfb",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T08:30:07.000Z",
       "lastSeenAt": "2026-11-15T03:31:30.173Z",
       "articleSlug": "cnbbond",
@@ -174397,7 +174397,25 @@
         "updatedAt": "2026-11-15T03:36:12.164Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the CNB Nov. 10 press release, CryptoSlate's report and TokenPost; verified counterparty, CZK 10,000 face value, October-November test window, undisclosed cash leg and Michl quotes across sources. Drafted cnbbond with self-hosted Wikimedia CNB photo; quality, formatting, duplicate and image audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cnb.cz/en/cnb-news/press-releases/CNB-issues-its-first-DLT-bond/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/technology/57639",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-15T03:38:20.697Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "89a623ac7f41b6aac269": {
       "source": "Cointelegraph",
@@ -178416,11 +178434,25 @@
         "Crypto Briefing"
       ],
       "id": "9fe93e6c8abd19fdf14b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T13:00:00.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read Crypto Briefing's full report on the Bitcoin Policy Institute paper 'Britain's Biggest Opportunity': it is an advocacy report proposing that bitcoin miners buy curtailed Scottish wind power, conceding consumer savings, emissions and infrastructure costs still need analysis. No grid rule, installation or government action was announced; CoinDesk's exclusive returned 429.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bitcoin-mining-scottish-wind-power-report/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T03:39:28.221Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "773cc0a55a08ec83efba": {
       "source": "BeInCrypto",
@@ -342738,6 +342770,43 @@
             }
           ],
           "reviewedAt": "2026-11-15T03:35:28.914Z"
+        },
+        "0bac5971c634c0b98bfb": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CNB Nov. 10 press release, CryptoSlate's report and TokenPost; verified counterparty, CZK 10,000 face value, October-November test window, undisclosed cash leg and Michl quotes across sources. Drafted cnbbond with self-hosted Wikimedia CNB photo; quality, formatting, duplicate and image audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cnb.cz/en/cnb-news/press-releases/CNB-issues-its-first-DLT-bond/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/technology/57639",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T03:38:20.697Z",
+          "articleSlug": "cnbbond"
+        },
+        "9fe93e6c8abd19fdf14b": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read Crypto Briefing's full report on the Bitcoin Policy Institute paper 'Britain's Biggest Opportunity': it is an advocacy report proposing that bitcoin miners buy curtailed Scottish wind power, conceding consumer savings, emissions and infrastructure costs still need analysis. No grid rule, installation or government action was announced; CoinDesk's exclusive returned 429.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bitcoin-mining-scottish-wind-power-report/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T03:39:28.221Z"
         }
       },
       "baselineSlugs": [
