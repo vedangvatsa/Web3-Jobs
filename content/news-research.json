@@ -173399,7 +173399,23 @@
         "Find independent reporting or on-chain analysis corroborating the Ethereum Foundation wallet sale of 2,000 ETH on Nov. 10-11 2026 and its USDS conversion"
       ],
       "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15"
+      "nextReviewDate": "2026-11-15",
+      "articleSlug": "efsale",
+      "draftProgress": {
+        "id": "801ba3d8b5380a0b22fd",
+        "day": "2026-11-15",
+        "articleSlug": "efsale",
+        "note": "Round 3 progress: search this round surfaced independent corroboration for the Nov. 10-11 foundation-linked wallet sale of 2,000 ETH - crypto.news Nov. 11 (Lookonchain-identified 0x5CBC address, 1,000 ETH each day via CoW Protocol into USDS, ~.16M total, prior 2,785 ETH sale Oct. 26), Lookonchain's own Nov. 11 feed item, and Phemex's Nov. 10 note on the first 1,000 ETH sale. Crypto Briefing was read in round 1. None of the new independent pages have been opened yet this round, and no draft exists; recheck and read crypto.news plus one more before any ready outcome.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-15T04:36:56.914Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "62d5d5f9b585a43232ba": {
       "source": "CryptoSlate",
