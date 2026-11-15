@@ -178596,7 +178596,31 @@
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
       "attempts": 0,
       "expiresAt": "2026-11-17T19:06:59.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "articleSlug": "cftclouisiana",
+      "draftProgress": {
+        "id": "abd27a2e624f2fc55d53",
+        "day": "2026-11-15",
+        "articleSlug": "cftclouisiana",
+        "note": "Read CFTC Nov. 13 press release, Crypto Briefing Nov. 14, and RG.org Nov. 14 on the CFTC/DOJ suit against Louisiana and Murrill's response; The Block returned 403. Image and draft still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.cftc.gov/PressRoom/PressReleases/9326-26",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/cftc-sues-louisiana-prediction-markets/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://rg.org/news/prediction-markets/cftc-doj-sue-louisiana-murrill-prediction-markets-tro-preemption",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-15T03:47:09.450Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "a8d6dc203d124ff6fadc": {
       "source": "Decrypt",
