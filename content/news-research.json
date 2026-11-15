@@ -173447,11 +173447,11 @@
       "id": "7e234094c6deae67f56a",
       "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T06:03:41.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "reason": "source-blocked",
-      "note": "CoinDesk primary URL returned HTTP 429 on GET today. The Defiant page returned HTTP 200 but only serves its headline deck (60 million USDT payment pushed into 2027, credit for protective derivatives, collateral still allows earlier liquidation) because the article body is JS-gated, which is not enough verified detail to publish. No third outlet is on the candidate.",
+      "note": "Retried both candidate URLs this round: CoinDesk returned HTTP 429 again and The Defiant page still serves only its headline deck without the article body. No third outlet is on the candidate, so the reported Kraken debt terms remain uncorroborated.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
@@ -173462,13 +173462,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-14T01:31:06.914Z",
+      "reviewedAt": "2026-11-15T04:11:37.136Z",
       "retrySearches": [
-        "Find readable independent reporting on Nakamoto owing Kraken 65 million and the delayed 60 million USDT payment terms",
-        "Retry the CoinDesk article after its 429 within the verification window"
+        "Find readable independent reporting on Nakamoto owing Kraken 165 million dollars and the delayed payment terms"
       ],
-      "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15"
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "740d919ee3b210c975b4": {
       "source": "CoinDesk",
@@ -343069,6 +343068,25 @@
           "reviewedAt": "2026-11-15T04:11:33.721Z",
           "retrySearches": [
             "Retry the CoinDesk momentum-gauge daybook article after its HTTP 429 and confirm whether it is price analysis rather than a concrete event"
+          ]
+        },
+        "7e234094c6deae67f56a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried both candidate URLs this round: CoinDesk returned HTTP 429 again and The Defiant page still serves only its headline deck without the article body. No third outlet is on the candidate, so the reported Kraken debt terms remain uncorroborated.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:11:37.136Z",
+          "retrySearches": [
+            "Find readable independent reporting on Nakamoto owing Kraken 165 million dollars and the delayed payment terms"
           ]
         }
       },
