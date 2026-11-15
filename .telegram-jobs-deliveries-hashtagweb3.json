@@ -475,5 +475,120 @@
     "slotKey": "2026-11-14:evening",
     "messageId": 156241,
     "sentAt": "2026-11-14T19:32:38.158Z"
+  },
+  "6d9ddda8-0f6b-431c-a44f-98b8ba54e169": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T03:32:36.662Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "a98a6cb0-24aa-4299-821d-125547535b69",
+          "title": "IT Support Engineer (Hong Kong)",
+          "company": "Unlimit",
+          "link": "https://jobs.lever.co/unlimit/a98a6cb0-24aa-4299-821d-125547535b69",
+          "date": "2026-11-13T09:46:40.295Z",
+          "source": "Lever: Unlimit [unlimit]",
+          "location": "Hong Kong Office",
+          "workplaceType": "onsite",
+          "department": "Information Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng785"
+        },
+        "key": "a98a6cb0-24aa-4299-821d-125547535b69",
+        "slug": "eng785",
+        "url": "https://hashtagweb3.com/eng785?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Unlimit",
+        "title": "IT Support Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5035788101",
+          "title": "Business Operations Specialist",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5035788101",
+          "date": "2026-11-13T12:17:03-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Strategy & Corporate Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops178"
+        },
+        "key": "5035788101",
+        "slug": "ops178",
+        "url": "https://hashtagweb3.com/ops178?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Business Operations Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8378463",
+          "title": "Lead: AML, CTF, CPF & Sanctions",
+          "company": "Luno",
+          "link": "https://job-boards.greenhouse.io/luno/jobs/8378463",
+          "date": "2026-11-11T08:24:06-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Luno [luno]",
+          "location": "South Africa",
+          "department": "Legal Risk & Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "accs"
+        },
+        "key": "8378463",
+        "slug": "accs",
+        "url": "https://hashtagweb3.com/accs?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Luno",
+        "title": "Lead: AML"
+      },
+      {
+        "snapshot": {
+          "id": "6a1963fd-7001-4393-ac40-b8a7f468f29e",
+          "title": "Director / Senior Director of Communications - APAC",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/6a1963fd-7001-4393-ac40-b8a7f468f29e",
+          "date": "2026-11-12T02:19:51.873Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Communications",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ddc"
+        },
+        "key": "6a1963fd-7001-4393-ac40-b8a7f468f29e",
+        "slug": "ddc",
+        "url": "https://hashtagweb3.com/ddc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Director / Senior Director of Communications"
+      },
+      {
+        "snapshot": {
+          "id": "cfdae9c7-93de-482a-9006-68b4c35e0587",
+          "title": "Engineering Fellowship",
+          "company": "Augustus",
+          "link": "https://jobs.ashbyhq.com/Augustus/cfdae9c7-93de-482a-9006-68b4c35e0587",
+          "date": "2026-10-19T20:08:43.343+00:00",
+          "source": "Ashby: Augustus [Augustus]",
+          "location": "Berlin",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng624"
+        },
+        "key": "cfdae9c7-93de-482a-9006-68b4c35e0587",
+        "slug": "eng624",
+        "url": "https://hashtagweb3.com/eng624?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Augustus",
+        "title": "Engineering Fellowship"
+      }
+    ],
+    "message": "- Unlimit is hiring <a href=\"https://hashtagweb3.com/eng785?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Support Engineer (Hong Kong)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/ops178?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Operations Specialist</a>\n- Luno is hiring <a href=\"https://hashtagweb3.com/accs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead: AML, CTF, CPF &amp; Sanctions</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/ddc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director / Senior Director of Communications - APAC</a>\n- Augustus is hiring <a href=\"https://hashtagweb3.com/eng624?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Fellowship</a>",
+    "slotKey": "2026-11-15:morning"
   }
 }
