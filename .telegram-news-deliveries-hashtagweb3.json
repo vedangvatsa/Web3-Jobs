@@ -130,5 +130,36 @@
     "slotKey": "2026-11-14:evening",
     "messageId": 156242,
     "sentAt": "2026-11-14T19:34:17.984Z"
+  },
+  "06ff7226-8c00-47f9-a2c0-1ab15ec5e516": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T03:33:12.987Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC Backs CFTC in Single-Stock Perpetual Futures Lawsuit",
+        "summary": "The SEC filed a brief supporting CFTC approval of the products against a suit by Cboe and Citadel.",
+        "link": "https://hashtagweb3.com/secperp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC backs CFTC in court fight over single-stock perpetual futures"
+      },
+      {
+        "index": -1,
+        "headline": "Trump nominates four people to SEC and CFTC roles",
+        "summary": "Steven Levine is nominated for Hester Peirce's seat among four bipartisan picks for the financial regulatory agencies.",
+        "link": "https://hashtagweb3.com/secnoms?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Trump nominates Peirce successor and three others to SEC, CFTC"
+      },
+      {
+        "index": -1,
+        "headline": "Twenty One Capital reports $1.09 billion Q3 profit from Bitcoin",
+        "summary": "Rising Bitcoin prices drove quarterly earnings, though the firm maintains a $186.5 million loss for the first nine months.",
+        "link": "https://hashtagweb3.com/twentyoneq3?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Twenty One Capital reports $1.09 billion Q3 net income from bitcoin gains"
+      }
+    ],
+    "slotKey": "2026-11-15:morning"
   }
 }
