@@ -172845,9 +172845,9 @@
       "articleSlug": "binancefull",
       "draftProgress": {
         "id": "fb88d655f7d0c67b685f",
-        "day": "2026-11-14",
+        "day": "2026-11-15",
         "articleSlug": "binancefull",
-        "note": "Round 6 checkpoint: sources read earlier today (Bitcoin Magazine full text + Cointelegraph DOJ seizure corroboration) not yet re-fetched this round; draft not started. Resume: recheck both sources, write binancefull, get image.",
+        "note": "Re-read Bitcoin Magazine Nov 12 completion story and Cointelegraph DOJ seizure story this round; Straits Times noted a Bloomberg piece 'Binance finishes covering US.3 billion'. Draft not started; image pending.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack",
@@ -172858,7 +172858,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-14T01:37:46.268Z",
+        "updatedAt": "2026-11-15T03:35:58.234Z",
         "approved": false,
         "mustReview": true
       }
@@ -174373,7 +174373,27 @@
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 0,
       "expiresAt": "2026-11-16T08:30:07.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "articleSlug": "cnbbond",
+      "draftProgress": {
+        "id": "0bac5971c634c0b98bfb",
+        "day": "2026-11-15",
+        "articleSlug": "cnbbond",
+        "note": "Read CNB press release (primary) and CryptoSlate in full; still need a second independent outlet opened (TokenPost found via search) and draft plus image.",
+        "sourceChecks": [
+          {
+            "url": "https://www.cnb.cz/en/cnb-news/press-releases/CNB-issues-its-first-DLT-bond/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptoslate.com/czech-central-bank-tests-dlt-bonds-boxing-out-stablecoins/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-15T03:35:49.303Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "89a623ac7f41b6aac269": {
       "source": "Cointelegraph",
