@@ -14,6 +14,9 @@
   "https://siliconangle.com/2026/11/14/att-uses-agentic-ai-to-reinvent-business-processes-from-the-ground-up/",
   "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
   "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+  "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+  "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+  "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -44,6 +47,12 @@
   "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
   "CopilotKit releases open-source AI agent workspace OpenBot 1.0",
   "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+  "Meituan releases 1.6-trillion parameter model trained on Huawei hardware",
+  "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+  "US lawmakers launch investigation into Nvidia sales in China",
+  "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+  "Australian central bank finds AI reduced youth entry-level hiring",
+  "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -58,5 +67,8 @@
   "fp:allegation|backlash|ban|call|classroom|deployment|fac|follow|gemini|googl",
   "fp:agentic|autonomous|business|deploys500|giant|ground|internal|next|operation|process",
   "fp:accuracy|action|add|classification|decider|decision|extraction|flash|locat|mean",
-  "fp:allow|audit|built|check|copilotkit|coworker|custom|deploy|governanc|hostabl"
+  "fp:allow|audit|built|check|copilotkit|coworker|custom|deploy|governanc|hostabl",
+  "fp:architectur|chip|domestic|foreign|gpu|graphic|hardwar|huawei|meituan|never",
+  "fp:business|china|congress|democrat|democratic|distribution|executiv|foreign|huang|inquiry",
+  "fp:adoption|age25|australia|australian|automat|bank|central|customer|declin|entry"
 ]
