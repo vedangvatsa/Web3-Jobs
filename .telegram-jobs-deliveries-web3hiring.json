@@ -1322,5 +1322,123 @@
     "slotKey": "2026-11-15:afternoon",
     "messageId": 16648,
     "sentAt": "2026-11-15T11:32:38.216Z"
+  },
+  "d8ce4777-b273-4a00-a07d-be2a74d93ed3": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T11:32:41.704Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "3f9cf9cd-5a7d-43e6-acd6-f688775204ea",
+          "title": "Senior Product Marketing Manager, Public Sector",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/3f9cf9cd-5a7d-43e6-acd6-f688775204ea",
+          "date": "2026-11-10T19:10:03.456+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm288"
+        },
+        "key": "3f9cf9cd-5a7d-43e6-acd6-f688775204ea",
+        "slug": "pm288",
+        "url": "https://hashtagweb3.com/pm288?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4725948006",
+          "title": "Sales Director",
+          "company": "Fireblocks",
+          "link": "https://www.fireblocks.com/careers/position?gh_jid=4725948006",
+          "date": "2026-11-04T07:21:39-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Fireblocks [fireblocks]",
+          "location": "Seoul, South Korea",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls411"
+        },
+        "key": "4725948006",
+        "slug": "sls411",
+        "url": "https://hashtagweb3.com/sls411?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fireblocks",
+        "title": "Sales Director"
+      },
+      {
+        "snapshot": {
+          "id": "5256ef0f-55d0-4a1f-9696-edd6fe56bf1e",
+          "title": "Head of Security",
+          "company": "Helius",
+          "link": "https://jobs.ashbyhq.com/helius/5256ef0f-55d0-4a1f-9696-edd6fe56bf1e",
+          "date": "2026-11-02T17:27:09.937+00:00",
+          "source": "Ashby: Helius [Helius]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec142"
+        },
+        "key": "5256ef0f-55d0-4a1f-9696-edd6fe56bf1e",
+        "slug": "sec142",
+        "url": "https://hashtagweb3.com/sec142?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Helius",
+        "title": "Head of Security"
+      },
+      {
+        "snapshot": {
+          "id": "c141dcf5-730d-4bf6-a5c3-2ea2463f2ba0",
+          "title": "Principal Engineer, Data Quality Platform",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/c141dcf5-730d-4bf6-a5c3-2ea2463f2ba0",
+          "date": "2026-10-21T13:21:19.095+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "London",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "qa93"
+        },
+        "key": "c141dcf5-730d-4bf6-a5c3-2ea2463f2ba0",
+        "slug": "qa93",
+        "url": "https://hashtagweb3.com/qa93?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "Principal Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "title": "Product Operations & Strategy Associate",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/Coinflow/d24a6d19-ae39-4625-85e5-f5a704e80883",
+          "date": "2026-11-03T17:24:15.547+00:00",
+          "source": "Ashby: Coinflow [Coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm360"
+        },
+        "key": "d24a6d19-ae39-4625-85e5-f5a704e80883",
+        "slug": "pm360",
+        "url": "https://hashtagweb3.com/pm360?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Product Operations & Strategy Associate"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/pm288?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Marketing Manager, Public Sector</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/sls411?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/sec142?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/qa93?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Engineer, Data Quality Platform</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/pm360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Operations &amp; Strategy Associate</a>",
+    "slotKey": "2026-11-15:afternoon"
   }
 }
