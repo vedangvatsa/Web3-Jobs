@@ -140370,7 +140370,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "dbcce8a0-3f74-4d30-ac6e-2495756f457e",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6afa09eb4f0276ab945ba9e8"
     }
   ]
 }
