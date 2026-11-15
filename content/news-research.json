@@ -175138,11 +175138,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "126a242e684bbf300505",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T21:17:32.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "source-blocked",
+      "note": "Both candidate URLs are Bankless pages for the same Nov. 12 item. Each returned HTTP 200 but the article body is behind the premium paywall; only the teaser line about Omni's private beta ending was readable. No independent outlet was opened this round, so the reported public launch of Variational's Omni broker is unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/variationals-broker-bet-goes-public-newsletter-09b7",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.bankless.com/read/variationals-broker-bet-goes-public",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:36:27.249Z",
+      "retrySearches": [
+        "Find independent reporting confirming Variational launched its Omni single-dealer broker platform from private beta in November 2026"
+      ],
+      "lastReviewedDay": "2026-11-15",
+      "nextReviewDate": "2026-11-16"
     },
     "549f3d77e33c6ffd5976": {
       "source": "CoinDesk",
@@ -343273,6 +343291,25 @@
           "reviewedAt": "2026-11-15T04:36:12.602Z",
           "retrySearches": [
             "Find readable independent reporting on the Nov. 2026 Bitcoin mining difficulty drop of 9.1% with the adjustment date and new difficulty level"
+          ]
+        },
+        "126a242e684bbf300505": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Both candidate URLs are Bankless pages for the same Nov. 12 item. Each returned HTTP 200 but the article body is behind the premium paywall; only the teaser line about Omni's private beta ending was readable. No independent outlet was opened this round, so the reported public launch of Variational's Omni broker is unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/variationals-broker-bet-goes-public-newsletter-09b7",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.bankless.com/read/variationals-broker-bet-goes-public",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:36:27.249Z",
+          "retrySearches": [
+            "Find independent reporting confirming Variational launched its Omni single-dealer broker platform from private beta in November 2026"
           ]
         }
       },
