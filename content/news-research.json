@@ -172899,9 +172899,9 @@
         "Unchained"
       ],
       "id": "eea39aae24cdd6ae0bc9",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-15T16:45:52.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "articleSlug": "defiamicus",
@@ -172924,8 +172924,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: defiamicus.md: template phrasing: paradigm. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Re-read Unchained (Nov 12) and Cointelegraph (Nov 12) in full this round; CoinDesk returned 429 but two independent sites cover the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax. Wrote fresh defiamicus draft (734 words) avoiding the banned word entirely; quality, formatting, image, duplicate audits pass and all cited links return 200.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
@@ -172940,12 +172940,11 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-13T13:15:19.567Z",
-      "lastReviewedDay": "2026-11-13",
+      "reviewedAt": "2026-11-15T04:33:09.402Z",
+      "lastReviewedDay": "2026-11-15",
       "retrySearches": [
         "Repair and revalidate the preserved defiamicus draft against its original sources: defiamicus.md: template phrasing: paradigm"
       ],
-      "nextReviewDate": "2026-11-14",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -343161,6 +343160,27 @@
           ],
           "reviewedAt": "2026-11-15T04:30:12.304Z",
           "articleSlug": "warshforum"
+        },
+        "eea39aae24cdd6ae0bc9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Unchained (Nov 12) and Cointelegraph (Nov 12) in full this round; CoinDesk returned 429 but two independent sites cover the Nov. 6-11 DOJ, Chamber/SIFMA and DeFi amicus filings against Illinois' 0.2% digital asset tax. Wrote fresh defiamicus draft (734 words) avoiding the banned word entirely; quality, formatting, image, duplicate audits pass and all cited links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:33:09.402Z",
+          "articleSlug": "defiamicus"
         }
       },
       "baselineSlugs": [
