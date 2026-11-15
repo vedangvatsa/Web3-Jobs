@@ -138030,6 +138030,40 @@
       "attemptId": "2d29feea-2002-4228-96b5-edd7152c3d6f",
       "verification": "verified",
       "postId": "0x262ba2ee35e4b3d0a002a7922a9d0970b555eb31"
+    },
+    {
+      "slug": "infra73",
+      "company": "Flowdesk",
+      "title": "Network & Cloud Infrastructure Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-15T03:34:01.479Z",
+      "expectedText": "Flowdesk is hiring Network & Cloud Infrastructure Security Engineer\n\nhttps://hashtagweb3.com/infra73/fc?og=7",
+      "snapshot": {
+        "id": "5008406101",
+        "title": "Network & Cloud Infrastructure Security Engineer",
+        "company": "Flowdesk",
+        "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008406101",
+        "date": "2026-10-16T05:10:32-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flowdesk [flowdesk]",
+        "location": "London",
+        "department": "Secure Ecosystem",
+        "active": true,
+        "dateVerified": true,
+        "slug": "infra73"
+      },
+      "payload": {
+        "text": "Flowdesk is hiring Network & Cloud Infrastructure Security Engineer\n\nhttps://hashtagweb3.com/infra73/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/infra73/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "a12cfaea-b8d7-4bba-b833-bda49d808318",
+      "verification": "creating"
     }
   ]
 }
