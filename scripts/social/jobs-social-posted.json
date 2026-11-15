@@ -140906,7 +140906,8 @@
       },
       "account": "channel:ai",
       "attemptId": "6b33742e-3a87-4023-ad9f-54e634e59434",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2ad711fd2e5dc9c9b2a8073e299e591b35d001ce"
     }
   ]
 }
