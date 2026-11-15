@@ -139640,7 +139640,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "50fd09e3-b46d-4de1-af04-840c0987cd8b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7441b0770ac00a531df231ec5d5f5106e75f93a3"
     }
   ]
 }
