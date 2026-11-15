@@ -165,7 +165,7 @@
     "sentAt": "2026-11-15T03:33:56.453Z"
   },
   "8d7474f7-c8ff-41a9-ba2c-1a43de18bd93": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-15T11:33:01.431Z",
     "stories": [
       {
@@ -193,6 +193,8 @@
         "originalTitle": "DOJ gets court authority to seize $1.2 billion of Binance hack crypto, disrupts FaceStealer"
       }
     ],
-    "slotKey": "2026-11-15:afternoon"
+    "slotKey": "2026-11-15:afternoon",
+    "messageId": 65831,
+    "sentAt": "2026-11-15T11:33:23.821Z"
   }
 }
