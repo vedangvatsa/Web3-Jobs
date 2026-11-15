@@ -175923,29 +175923,32 @@
         "Crypto Briefing"
       ],
       "id": "507340dbfc30f9b48c5f",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T18:36:02.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
-      "reason": "source-blocked",
-      "note": "Read Decrypt's Nov. 13 report that Fed Chair Kevin Warsh will convene a Nov. 16 public forum in San Francisco on whether AI lowers or raises inflation. The candidate's second URL is a Crypto Briefing story about Vice Chair Jefferson's separate AI-productivity speech and does not mention the Warsh forum, so the forum has no independent corroboration; the Decrypt piece also frames the event mainly through Bitcoin price effects.",
+      "reason": "verified-event",
+      "note": "Reopened the restored draft and re-read all three cited sources: the SF Fed event page confirms the Nov 16 9:00 a.m.-12:15 p.m. PT agenda, panels, Warsh remarks and livestream; Allwork's Reuters-syndicated Nov 13 report confirms the forum context, task force membership and Barkin/Barr/Cook remarks; Decrypt confirms the inflation framing, Bitcoin move and Hyperscale detail. Facts match the draft; quality, image, formatting, duplicate audits and typecheck pass.",
       "sourceChecks": [
         {
-          "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+          "url": "https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference",
           "outcome": "read"
         },
         {
-          "url": "https://cryptobriefing.com/fed-jefferson-ai-productivity-monetary-policy/",
+          "url": "https://allwork.space/2026/11/fed-chair-kevin-warsh-to-examine-ais-impact-on-jobs-and-inflation-as-concerns-grow",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-14T01:10:58.410Z",
+      "reviewedAt": "2026-11-15T04:30:12.304Z",
       "retrySearches": [
         "Find independent reporting confirming Fed Chair Warsh's Nov. 16 2026 San Francisco forum on AI inflation productivity and employment"
       ],
-      "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15",
+      "lastReviewedDay": "2026-11-15",
       "articleSlug": "warshforum",
       "draftProgress": {
         "id": "507340dbfc30f9b48c5f",
@@ -343137,6 +343140,27 @@
           "retrySearches": [
             "Find the Bloomberg Technology original report or official SEC or company confirmation of advancing SpaceX-Tesla merger talks with dates and terms"
           ]
+        },
+        "507340dbfc30f9b48c5f": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reopened the restored draft and re-read all three cited sources: the SF Fed event page confirms the Nov 16 9:00 a.m.-12:15 p.m. PT agenda, panels, Warsh remarks and livestream; Allwork's Reuters-syndicated Nov 13 report confirms the forum context, task force membership and Barkin/Barr/Cook remarks; Decrypt confirms the inflation framing, Bitcoin move and Hyperscale detail. Facts match the draft; quality, image, formatting, duplicate audits and typecheck pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference",
+              "outcome": "read"
+            },
+            {
+              "url": "https://allwork.space/2026/11/fed-chair-kevin-warsh-to-examine-ais-impact-on-jobs-and-inflation-as-concerns-grow",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:30:12.304Z",
+          "articleSlug": "warshforum"
         }
       },
       "baselineSlugs": [
