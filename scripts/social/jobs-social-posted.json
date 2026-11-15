@@ -140309,7 +140309,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "ae70311e-5be3-46a1-8564-4af78e817030",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Expected a Hashtag Web3 job OG thumbnail"
     }
   ]
 }
