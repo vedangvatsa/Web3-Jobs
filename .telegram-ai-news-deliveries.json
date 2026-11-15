@@ -193,5 +193,42 @@
     "slotKey": "2026-11-15:morning",
     "messageId": 193519,
     "sentAt": "2026-11-15T03:32:38.481Z"
+  },
+  "4c70f941-36b7-4811-bc5b-703991fe884e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T11:32:42.257Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+        "headline": "Meituan releases 1.6-trillion parameter model trained on Huawei hardware",
+        "summary": "The open-weights agent architecture operates on 194 domestic processors without relying on foreign graphics chips.",
+        "event_rationale": "This covers Meituan's open-weights model release, which is distinct from all previously posted model announcements.",
+        "link": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+        "source": "The Decoder",
+        "originalTitle": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU"
+      },
+      {
+        "index": 26,
+        "original_title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+        "headline": "US lawmakers launch investigation into Nvidia sales in China",
+        "summary": "Democratic members of Congress opened an inquiry into foreign distribution practices and executive business dealings.",
+        "event_rationale": "This covers a congressional investigation into sales practices, distinct from previously posted stories on executive resignations.",
+        "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+        "source": "TechCrunch",
+        "originalTitle": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump"
+      },
+      {
+        "index": 2,
+        "original_title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+        "headline": "Australian central bank finds AI reduced youth entry-level hiring",
+        "summary": "Data indicates job postings for workers under age 25 in exposed fields declined faster following automated tool adoption.",
+        "event_rationale": "This covers a central bank labor report, distinct from corporate software releases and hardware announcements.",
+        "link": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+        "source": "The Decoder",
+        "originalTitle": "Australia's central bank finds AI hitting young workers first, especially in software and customer service"
+      }
+    ],
+    "slotKey": "2026-11-15:afternoon"
   }
 }
