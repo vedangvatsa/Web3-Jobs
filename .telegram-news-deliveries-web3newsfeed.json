@@ -196,5 +196,36 @@
     "slotKey": "2026-11-15:afternoon",
     "messageId": 65831,
     "sentAt": "2026-11-15T11:33:23.821Z"
+  },
+  "9e38bae3-e10f-4f7e-b42b-2cfdd39a103f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-15T19:33:19.874Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Government Sues Arkansas Over Kalshi Event Contracts",
+        "summary": "Federal lawyers argue the CFTC holds exclusive jurisdiction over Kalshi's contracts, barring state gambling law enforcement.",
+        "link": "https://hashtagweb3.com/arkansaskalshi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US and CFTC sue Arkansas to stop its case against Kalshi"
+      },
+      {
+        "index": -1,
+        "headline": "DTCC to launch tokenized assets on Solana in 2027",
+        "summary": "The clearinghouse will connect its Tokenization Service to bring eligible DTC-custodied assets onto the blockchain network.",
+        "link": "https://hashtagweb3.com/dtccsolana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DTCC plans to bring tokenized DTC assets to Solana in second half of 2027"
+      },
+      {
+        "index": -1,
+        "headline": "Grayscale Commits $1 Million From Fund Fees to Zcash",
+        "summary": "The company issued four $100,000 grants to Zcash groups and launched a national advertising campaign on November 10.",
+        "link": "https://hashtagweb3.com/zcashgrants?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Grayscale pledges $1 million to Zcash ecosystem with first $400,000 in grants"
+      }
+    ],
+    "slotKey": "2026-11-15:evening"
   }
 }
