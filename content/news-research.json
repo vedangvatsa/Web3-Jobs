@@ -174905,11 +174905,21 @@
         "CryptoSlate"
       ],
       "id": "7cba3cdea84082f9f5de",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T00:52:42.000Z",
-      "lastSeenAt": "2026-11-14T00:24:57.356Z"
+      "lastSeenAt": "2026-11-14T00:24:57.356Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read Cointelegraph's Nov. 13 report in full: it is a quarterly metrics story (Gemini Q3 retail volume fell 14% to 00 million, spot volume rose 18% to .5 billion, exchange revenue up 7% to 3.4 million) with no discrete launch, vote, ruling, filing, hack, raise or upgrade. The candidate's second URL is an unrelated CryptoSlate selloff piece, so there is no second report of any event either.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:36:07.193Z",
+      "lastReviewedDay": "2026-11-15"
     },
     "20492b5ca04bb257ffa5": {
       "source": "BeInCrypto",
@@ -343215,6 +343225,18 @@
           "reviewedAt": "2026-11-15T04:33:19.869Z",
           "duplicateOf": "defiamicus",
           "mergedInto": "eea39aae24cdd6ae0bc9"
+        },
+        "7cba3cdea84082f9f5de": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read Cointelegraph's Nov. 13 report in full: it is a quarterly metrics story (Gemini Q3 retail volume fell 14% to 00 million, spot volume rose 18% to .5 billion, exchange revenue up 7% to 3.4 million) with no discrete launch, vote, ruling, filing, hack, raise or upgrade. The candidate's second URL is an unrelated CryptoSlate selloff piece, so there is no second report of any event either.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:36:07.193Z"
         }
       },
       "baselineSlugs": [
