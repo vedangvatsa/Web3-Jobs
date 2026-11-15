@@ -138916,7 +138916,8 @@
       },
       "account": "channel:dev",
       "attemptId": "1db630ab-b923-49f7-aab9-bcca6aa7bfbc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe6860e56599f0ad902e081a7c3428c6ba428f75e"
     }
   ]
 }
