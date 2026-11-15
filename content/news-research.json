@@ -175264,11 +175264,27 @@
         "Decrypt"
       ],
       "id": "0ced036023dcc0182579",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-15T20:58:06.000Z",
-      "lastSeenAt": "2026-11-13T11:28:25.584Z"
+      "lastSeenAt": "2026-11-13T11:28:25.584Z",
+      "reason": "duplicate",
+      "note": "Same event as the ready defiamicus article: the Nov. 6 DOJ statement of interest, Nov. 6 Chamber/SIFMA amicus and Nov. 11 DeFi coalition brief against Illinois' 0.2% digital asset tax. Read Cointelegraph and Decrypt's Nov. 12 coverage this round; both describe the identical filings already reported in defiamicus.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-15T04:33:19.869Z",
+      "duplicateOf": "defiamicus",
+      "mergedInto": "eea39aae24cdd6ae0bc9",
+      "lastReviewedDay": "2026-11-15"
     },
     "9658f8724d85073a624f": {
       "source": "The Defiant",
@@ -343181,6 +343197,24 @@
           ],
           "reviewedAt": "2026-11-15T04:33:09.402Z",
           "articleSlug": "defiamicus"
+        },
+        "0ced036023dcc0182579": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same event as the ready defiamicus article: the Nov. 6 DOJ statement of interest, Nov. 6 Chamber/SIFMA amicus and Nov. 11 DeFi coalition brief against Illinois' 0.2% digital asset tax. Read Cointelegraph and Decrypt's Nov. 12 coverage this round; both describe the identical filings already reported in defiamicus.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-15T04:33:19.869Z",
+          "duplicateOf": "defiamicus",
+          "mergedInto": "eea39aae24cdd6ae0bc9"
         }
       },
       "baselineSlugs": [
