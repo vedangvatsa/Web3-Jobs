@@ -139443,6 +139443,35 @@
       "attemptId": "b5062eea-7141-41d1-9438-42027e6de351",
       "verification": "creating",
       "error": "Expected a Hashtag Web3 job OG thumbnail"
+    },
+    {
+      "slug": "eng577",
+      "company": "Flow Traders",
+      "title": "Core Data Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-11-15T03:37:33.519Z",
+      "expectedText": "Flow Traders is hiring Core Data Engineer: https://hashtagweb3.com/eng577/fb?og=7",
+      "snapshot": {
+        "id": "8304623",
+        "title": "Core Data Engineer",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8304623",
+        "date": "2026-10-22T14:16:48-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "New York",
+        "department": "Data",
+        "active": true,
+        "salary": "$165k – $210k/yr",
+        "dateVerified": true,
+        "slug": "eng577"
+      },
+      "payload": {
+        "message": "Flow Traders is hiring Core Data Engineer: https://hashtagweb3.com/eng577/fb?og=7",
+        "link": "https://hashtagweb3.com/eng577/fb?og=7"
+      },
+      "attemptId": "d2c24067-2ebd-4233-9271-cf8a9bf66ee6",
+      "verification": "creating"
     }
   ]
 }
