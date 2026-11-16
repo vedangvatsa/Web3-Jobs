@@ -1234,12 +1234,18 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
     posting.assertOpen();
   }
 
-  // Verify OG Image responds with 200
+  // Verify OG Image responds with 200 (hard requirement before broadcasting to social channels)
   try {
-    const ogCheck = await fetch(ogImageUrl, { method: 'HEAD' });
+    const ogCheck = await fetch(ogImageUrl, { method: 'HEAD', signal: AbortSignal.timeout(10000) });
     console.log(`OG Image Health Check: HTTP ${ogCheck.status} (${ogCheck.headers.get('content-type') || 'unknown'})`);
+    if (!ogCheck.ok) {
+      throw new Error(`OG card returned HTTP ${ogCheck.status}: ${ogCheck.statusText}. Waiting for production rollout.`);
+    }
   } catch (err) {
-    console.warn(`Warning: OG Image check encountered error:`, (err as Error).message);
+    if (!isDryRun) {
+      throw new Error(`Blocking social broadcast: OG Image ${ogImageUrl} is not live on production yet: ${(err as Error).message}`);
+    }
+    console.warn(`Warning: OG Image check encountered error (dry-run):`, (err as Error).message);
   }
 
   // Warm the shared link-preview image.

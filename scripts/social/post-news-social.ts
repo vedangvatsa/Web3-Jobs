@@ -468,6 +468,24 @@ async function run() {
   console.log(captions.linkedInFullText);
   console.log(`Length: ${captions.linkedInFullText.length} chars`);
 
+  // Preflight check: Ensure article link and preview shell return HTTP 200 before queuing
+  const articleUrl = `${SITE_URL}/${article.slug}/li`;
+  try {
+    const checkRes = await fetch(articleUrl, {
+      method: 'GET',
+      headers: { 'User-Agent': 'LinkedInBot/1.0' },
+      signal: AbortSignal.timeout(10000),
+    });
+    if (!checkRes.ok) {
+      console.warn(`[PREFLIGHT] Article URL returned HTTP ${checkRes.status}: ${articleUrl}. Skipping queue until deployed.`);
+      return;
+    }
+    console.log(`[PREFLIGHT] Verified article is live (HTTP ${checkRes.status}): ${articleUrl}`);
+  } catch (err) {
+    console.warn(`[PREFLIGHT] Article check failed: ${(err as Error).message}. Skipping queue.`);
+    return;
+  }
+
   if (isDryRun) {
     console.log('\n[DRY RUN] Skipping Buffer GraphQL requests. State remains unchanged.');
     return;
