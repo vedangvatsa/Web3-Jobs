@@ -299,5 +299,54 @@
     "slotKey": "2026-11-16:morning",
     "messageId": 156277,
     "sentAt": "2026-11-16T03:32:25.369Z"
+  },
+  "84c58b2d-f28c-4426-958e-220119f85a0e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T11:32:23.835Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-evt-pJHThGT11BBYohC",
+        "slug": "cryptomondays-blockchain-futurist-kickoff",
+        "name": "CryptoMondays Wall Street, Fort Lauderdale and Miami Chapters come together to bring you the Official Blockchain Futurist Conference Kickoff",
+        "startDate": "2026-11-16T23:00:00.000Z",
+        "keys": [
+          "luma-evt-pjhthgt11bbyohc",
+          "cwsflmcctbyobfck",
+          "page:cryptomondays-blockchain-futurist-kickoff:2026-11-16",
+          "luma:evt-pjhthgt11bbyohc",
+          "luma-url:/btlvlxvx",
+          "event:cryptomondayswallstreetfortlauderdaleandmiamichapterscometogethertobringyoutheofficialblockchainfuturistconferencekickoff:2026-11-16:davie"
+        ]
+      },
+      {
+        "id": "luma-crypto-LG3nKRAZG1cOiNT",
+        "slug": "proof-prin",
+        "name": "Proof of Print Preview Night: 3D Printing and Bitcoin Mining",
+        "startDate": "2026-11-16T23:30:00.000Z",
+        "keys": [
+          "luma-crypto-lg3nkrazg1coint",
+          "page:proof-prin:2026-11-16",
+          "luma:evt-lg3nkrazg1coint",
+          "luma-url:/zq5rgcak",
+          "event:proofofprintpreviewnight3dprintingandbitcoinmining:2026-11-16:new york"
+        ]
+      },
+      {
+        "id": "luma-crypto-lGPL5HySBC1yYnb",
+        "slug": "head-down",
+        "name": "Head Down 5K × Solana | 445 CREW",
+        "startDate": "2026-11-17T04:45:00.000Z",
+        "keys": [
+          "luma-crypto-lgpl5hysbc1yynb",
+          "page:head-down:2026-11-17",
+          "luma:evt-lgpl5hysbc1yynb",
+          "luma-url:/3bwtn4jz",
+          "event:headdown5ksolana445crew:2026-11-17:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-16:afternoon"
   }
 }
