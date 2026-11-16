@@ -310,7 +310,7 @@
     "sentAt": "2026-11-16T03:33:11.881Z"
   },
   "01729a34-9901-4826-8736-76792c6e4d25": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T11:32:13.016Z",
     "stories": [
       {
@@ -344,6 +344,8 @@
         "originalTitle": "Physics-inspired AI detects fake faces by analyzing color and brightness patterns"
       }
     ],
-    "slotKey": "2026-11-16:afternoon"
+    "slotKey": "2026-11-16:afternoon",
+    "messageId": 193528,
+    "sentAt": "2026-11-16T11:32:17.188Z"
   }
 }

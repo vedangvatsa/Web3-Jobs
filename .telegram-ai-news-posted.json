@@ -23,6 +23,9 @@
   "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
   "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
   "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+  "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+  "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+  "https://techxplore.com/news/2026-11-physics-ai-fake-brightness-patterns.html",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -71,6 +74,12 @@
   "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
   "Apple launches research app for AI health queries",
   "Apple launches new app to study how people use AI for health",
+  "Alibaba releases Qwen4-Max model with 2.4 trillion parameters",
+  "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+  "Meta deploys AI system to generate pre-commit code tests",
+  "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+  "Researchers create physics-based AI to detect deepfake images",
+  "Physics-inspired AI detects fake faces by analyzing color and brightness patterns",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -94,5 +103,8 @@
   "fp:bland|call|conversational|duplex|dur|environment|full|handl|interaction|noisy",
   "fp:anthropic|are|default|down|engineer|guidanc|habit|opus55|outdat|paid",
   "fp:app|automat|combin|corporat|dictation|elevenlab|meet|not|organizational|tak",
-  "fp:answer|app|appl|common|health|how|medical|peopl|query|question"
+  "fp:answer|app|appl|common|health|how|medical|peopl|query|question",
+  "fp:71b|activ|alibaba|by62|context|cost|expert|max|mixtur|moe",
+  "fp:automat|cod|commit|deploy|deployment|design|dur|early|fail|flaw",
+  "fp:analyz|bas|brightness|color|creat|deepfak|detect|distinguish|fac|fak"
 ]
