@@ -143040,7 +143040,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "8d440da6-4131-4439-8c8e-6a4037f5da14",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x598a14fa48f37bda80117bae844f5b334d157a15"
     }
   ]
 }
