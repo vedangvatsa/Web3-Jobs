@@ -2160,5 +2160,122 @@
     "slotKey": "2026-11-16:afternoon",
     "messageId": 199,
     "sentAt": "2026-11-16T11:32:51.270Z"
+  },
+  "426b96f9-9264-45d3-82d3-6157aef3906d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T19:32:28.827Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "393db694-2537-4343-b2bb-03cd369f3d94",
+          "title": "Member of Technical Staff - IT & Security Eng.",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/PrimeIntellect/393db694-2537-4343-b2bb-03cd369f3d94",
+          "date": "2026-10-29T12:30:24.937+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec72"
+        },
+        "key": "393db694-2537-4343-b2bb-03cd369f3d94",
+        "slug": "sec72",
+        "url": "https://hashtagweb3.com/sec72?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Member of Technical Staff"
+      },
+      {
+        "snapshot": {
+          "id": "183426cb-4795-432b-bce2-bcf178282aa9",
+          "title": "Banking and Financial Institutions Lead",
+          "company": "Open Standard",
+          "link": "https://jobs.ashbyhq.com/openstandard/183426cb-4795-432b-bce2-bcf178282aa9",
+          "date": "2026-10-29T17:57:35.987+00:00",
+          "source": "Ashby: Open Standard [openstandard]",
+          "location": "San Francisco or New York",
+          "department": "Sales",
+          "applyUrl": "https://jobs.ashbyhq.com/openstandard/183426cb-4795-432b-bce2-bcf178282aa9/application",
+          "active": true,
+          "dateVerified": true,
+          "slug": "bfi"
+        },
+        "key": "183426cb-4795-432b-bce2-bcf178282aa9",
+        "slug": "bfi",
+        "url": "https://hashtagweb3.com/bfi?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Open Standard",
+        "title": "Banking and Financial Institutions Lead"
+      },
+      {
+        "snapshot": {
+          "id": "0b8ed946-7643-4696-ae89-24d2c0affd91",
+          "title": "Accounting Operations",
+          "company": "Kalshi",
+          "link": "https://jobs.ashbyhq.com/kalshi/0b8ed946-7643-4696-ae89-24d2c0affd91",
+          "date": "2026-11-13T14:50:36.165+00:00",
+          "source": "Ashby: Kalshi [kalshi]",
+          "location": "New York Office",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls497"
+        },
+        "key": "0b8ed946-7643-4696-ae89-24d2c0affd91",
+        "slug": "sls497",
+        "url": "https://hashtagweb3.com/sls497?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kalshi",
+        "title": "Accounting Operations"
+      },
+      {
+        "snapshot": {
+          "id": "f367c81e-aa74-4e09-8838-a9816178ae48",
+          "title": "Software Engineer",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/Coinflow/f367c81e-aa74-4e09-8838-a9816178ae48",
+          "date": "2026-10-29T13:04:59.727+00:00",
+          "source": "Ashby: Coinflow [Coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng362"
+        },
+        "key": "f367c81e-aa74-4e09-8838-a9816178ae48",
+        "slug": "eng362",
+        "url": "https://hashtagweb3.com/eng362?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5031808101",
+          "title": "Senior MarTech Engineer",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5031808101",
+          "date": "2026-11-10T02:26:18-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "București, Bucharest, Romania",
+          "department": "Growth, Marketing & Communications",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng744"
+        },
+        "key": "5031808101",
+        "slug": "eng744",
+        "url": "https://hashtagweb3.com/eng744?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Senior MarTech Engineer"
+      }
+    ],
+    "message": "- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/sec72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Technical Staff - IT &amp; Security Eng.</a>\n- Open Standard is hiring <a href=\"https://hashtagweb3.com/bfi?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Banking and Financial Institutions Lead</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/sls497?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accounting Operations</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/eng362?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/eng744?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior MarTech Engineer</a>",
+    "slotKey": "2026-11-16:evening"
   }
 }
