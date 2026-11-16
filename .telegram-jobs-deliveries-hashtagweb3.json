@@ -1064,5 +1064,128 @@
     "slotKey": "2026-11-16:afternoon",
     "messageId": 156283,
     "sentAt": "2026-11-16T11:33:01.689Z"
+  },
+  "6e2ee513-1535-4b1d-ad92-554f8a206a2d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T19:32:52.172Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "94bb817da00f",
+          "title": "Tax Accountant / Senior Tax Accountant",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/94bb817da00f-tax-accountant-senior-tax-accountant",
+          "date": "2026-11-12",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Penang, MY",
+          "isRemote": false,
+          "department": "Finance",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/94bb817da00f-tax-accountant-senior-tax-accountant",
+            "checkedAt": "2026-11-13T11:30:36.717Z",
+            "bodySha256": "54730bca4bf1f5b17354a464b16ea2fa708ceef84cd710f58d8ec9f593d8bee8",
+            "provider": "breezy",
+            "datePosted": "2026-11-12"
+          },
+          "slug": "sls293"
+        },
+        "key": "94bb817da00f",
+        "slug": "sls293",
+        "url": "https://hashtagweb3.com/sls293?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Tax Accountant / Senior Tax Accountant"
+      },
+      {
+        "snapshot": {
+          "id": "8372970",
+          "title": "Product Marketing Manager",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8372970?gh_jid=8372970",
+          "date": "2026-11-11T20:37:34-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Chicago, IL",
+          "department": "Marketing",
+          "active": true,
+          "salary": "$148k – $180k/yr",
+          "dateVerified": true,
+          "slug": "pm391"
+        },
+        "key": "8372970",
+        "slug": "pm391",
+        "url": "https://hashtagweb3.com/pm391?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "97930174",
+          "title": "Head of People",
+          "company": "Kamino",
+          "link": "https://jobs.ashbyhq.com/kamino/ae4fcd28-4bb3-4e63-81d3-80c50196e22d",
+          "date": "2026-10-23T18:34:14.000Z",
+          "dateVerified": true,
+          "dateSource": "Solana.JobPosting.postedAt",
+          "source": "Solana Ecosystem: Kamino [getro-solana]",
+          "location": "New York, NY, USA",
+          "department": "(People & HR)",
+          "salary": "$200k – $250k/yr",
+          "active": true,
+          "slug": "peo2"
+        },
+        "key": "97930174",
+        "slug": "peo2",
+        "url": "https://hashtagweb3.com/peo2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kamino",
+        "title": "Head of People"
+      },
+      {
+        "snapshot": {
+          "id": "8288641",
+          "title": "Core Data Engineer",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8288641",
+          "date": "2026-10-23T03:33:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Data",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng646"
+        },
+        "key": "8288641",
+        "slug": "eng646",
+        "url": "https://hashtagweb3.com/eng646?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "Core Data Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "7859ff0e-8476-4990-ba8b-9d1c0244f10c",
+          "title": "Account Executive",
+          "company": "Altitude",
+          "link": "https://talent.superteam.fun/jobs/account-executive-at-altitude-7859ff0e-8476-4990-ba8b-9d1c0244f10c",
+          "date": "2026-10-24T09:36:35.579172+00:00",
+          "source": "Superteam: Altitude [superteam]",
+          "location": "Remote · United States, Europe",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls394"
+        },
+        "key": "7859ff0e-8476-4990-ba8b-9d1c0244f10c",
+        "slug": "sls394",
+        "url": "https://hashtagweb3.com/sls394?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Altitude",
+        "title": "Account Executive"
+      }
+    ],
+    "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/sls293?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tax Accountant / Senior Tax Accountant</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/pm391?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager</a>\n- Kamino is hiring <a href=\"https://hashtagweb3.com/peo2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of People</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng646?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Core Data Engineer</a>\n- Altitude is hiring <a href=\"https://hashtagweb3.com/sls394?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive</a>",
+    "slotKey": "2026-11-16:evening"
   }
 }
