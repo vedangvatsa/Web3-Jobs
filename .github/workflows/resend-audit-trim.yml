@@ -7,16 +7,18 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: 'audit = read-only counts; probe = endpoint recon; trim = destructive delete'
+        description: 'audit = read-only counts; probe = endpoint recon; rank = engagement ranking (masked artifacts); segment = add top-N to segment; trim = destructive delete'
         required: true
         type: choice
         default: 'audit'
         options:
           - audit
           - probe
+          - rank
+          - segment
           - trim
       keep_count:
-        description: 'trim only: contacts to keep'
+        description: 'rank/segment/trim: contacts to keep'
         required: false
         default: '1000'
       keep_strategy:
@@ -27,6 +29,10 @@ on:
         options:
           - newest
           - segment-first
+      segment_id:
+        description: 'segment mode: target segment (e.g. Daily1000)'
+        required: false
+        default: 'd707e197-265c-4029-9f94-304b6534857b'
       confirm:
         description: 'trim only: must be the literal word DELETE'
         required: false
@@ -48,4 +54,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run
-        run: node scripts/resend-audience-trim.mjs --mode "${{ inputs.mode }}" --keep-count "${{ inputs.keep_count }}" --keep-strategy "${{ inputs.keep_strategy }}" --confirm "${{ inputs.confirm }}"
+        run: node scripts/resend-audience-trim.mjs --mode "${{ inputs.mode }}" --keep-count "${{ inputs.keep_count }}" --keep-strategy "${{ inputs.keep_strategy }}" --segment-id "${{ inputs.segment_id }}" --confirm "${{ inputs.confirm }}" --out-dir resend-rank-out
+      - name: Upload masked artifacts
+        if: always() && hashFiles('resend-rank-out/**') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: resend-out-${{ github.run_id }}
+          path: resend-rank-out/
+          retention-days: 14

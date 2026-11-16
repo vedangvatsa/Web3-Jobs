@@ -1,26 +1,44 @@
 /**
- * Resend audience audit + trim.
+ * Resend audience audit + rank + segment + trim.
  *
  * audit (read-only): lists audiences and segments, counts contacts per audience
  *   (total, unsubscribed), reports oldest/newest created_at so a keep-set can be
- *   chosen before any destructive change.
+ *   chosen before any destructive change. Tolerates stale audiences (404 → skip).
  *
- * trim (destructive): shrinks an audience to `--keep-count` contacts by deleting
- *   the rest. Which contacts survive depends on --keep-strategy:
- *     newest        keep the most recently created contacts
- *     segment-first keep segment members first, then newest
- *   Exports the full unsubscribed list + keep-set summary JSON before deleting
- *   (suppression record), then deletes sequentially with resume support
- *   (.resend-trim-state.json, relative to cwd) so a re-run continues safely.
+ * probe (read-only): endpoint recon — /emails shape + pagination, /broadcasts,
+ *   /segments list, segment-membership reads, contact object keys.
+ *
+ * rank (read-only): dumps the focus audience's contacts, walks GET /emails
+ *   (per-recipient sent/opened/clicked aggregation from last_event), ranks
+ *   contacts by engagement (clicks → opens → open rate → sends → recency),
+ *   and writes masked-email artifacts: contacts.json, ranked.json, top.json.
+ *   Full email addresses never leave the runner (public-repo artifacts).
+ *
+ * segment (write, reversible): re-derives the ranking and adds the top
+ *   --keep-count contacts to --segment-id (e.g. Daily1000), reporting per-add
+ *   status and the resulting membership count.
+ *
+ * trim (destructive): deletes contacts not in the keep-set. Not wired yet —
+ *   runs only after rank/segment results are reviewed and criteria confirmed.
  *
  * Env: RESEND_API_KEY (required), RESEND_AUDIENCE_ID (optional focus).
  * Usage:
  *   node scripts/resend-audience-trim.mjs --mode audit
- *   node scripts/resend-audience-trim.mjs --mode trim --keep-count 1000 \
- *     --keep-strategy newest --confirm DELETE
+ *   node scripts/resend-audience-trim.mjs --mode probe
+ *   node scripts/resend-audience-trim.mjs --mode rank --keep-count 1000 \
+ *     --out-dir resend-rank-out
+ *   node scripts/resend-audience-trim.mjs --mode segment --keep-count 1000 \
+ *     --segment-id <uuid> --out-dir resend-rank-out
  */
 
+import fs from 'node:fs';
+
 const BASE = 'https://api.resend.com';
+
+const maskEmail = email => {
+  const [local = '', domain = ''] = String(email || '').split('@');
+  return `${local.slice(0, 2)}***@${domain}`;
+};
 
 function parseArgs(argv) {
   const out = {};
@@ -103,6 +121,97 @@ async function auditAudience(audience) {
   return stats;
 }
 
+const EMAILS_PAGE_SLEEP_MS = 150;
+const CONTACTS_PAGE_SLEEP_MS = 120;
+
+async function* paginate(path, pageSleepMs = EMAILS_PAGE_SLEEP_MS) {
+  let after;
+  for (;;) {
+    const query = new URLSearchParams({ limit: '100' });
+    if (after) query.set('after', after);
+    const page = await api(`${path}?${query}`);
+    const items = Array.isArray(page?.data) ? page.data : [];
+    if (!items.length) return;
+    yield { items, page };
+    const hasMore = page?.has_more ?? page?.hasMore ?? items.length === 100;
+    if (!hasMore) return;
+    after = items[items.length - 1]?.id;
+    if (!after) return;
+    await new Promise(resolve => setTimeout(resolve, pageSleepMs));
+  }
+}
+
+function recipientOf(value) {
+  const raw = Array.isArray(value) ? value[0] : value;
+  const first = String(raw || '').split(',')[0].trim().toLowerCase();
+  return first.includes('@') ? first : null;
+}
+
+// Aggregates per-recipient engagement from GET /emails (last_event is the
+// terminal state of each individual email, so summing across all of a
+// recipient's emails gives opens/clicks/total-sent). Returns stats + agg map.
+async function buildEmailAgg({ maxPages }) {
+  const agg = new Map();
+  const fromCounts = {};
+  const lastEventCounts = {};
+  const stats = { pages: 0, scanned: 0, unmatched: 0, oldestCreatedAt: null, newestCreatedAt: null, truncated: false };
+  for await (const { items, page } of paginate('/emails')) {
+    stats.pages++;
+    stats.scanned += items.length;
+    for (const item of items) {
+      const ev = item.last_event ?? 'none';
+      lastEventCounts[ev] = (lastEventCounts[ev] || 0) + 1;
+      const from = item.from ?? 'unknown';
+      fromCounts[from] = (fromCounts[from] || 0) + 1;
+      const createdAt = item.created_at || null;
+      if (createdAt && (!stats.newestCreatedAt || createdAt > stats.newestCreatedAt)) stats.newestCreatedAt = createdAt;
+      if (createdAt && (!stats.oldestCreatedAt || createdAt < stats.oldestCreatedAt)) stats.oldestCreatedAt = createdAt;
+      const recipient = recipientOf(item.to);
+      if (recipient) {
+        const rec = agg.get(recipient) || { sent: 0, opened: 0, clicked: 0, lastSeen: null };
+        rec.sent++;
+        if (ev === 'opened' || ev === 'clicked') rec.opened++;
+        if (ev === 'clicked') rec.clicked++;
+        if (createdAt && (!rec.lastSeen || createdAt > rec.lastSeen)) rec.lastSeen = createdAt;
+        agg.set(recipient, rec);
+      } else {
+        stats.unmatched++;
+      }
+    }
+    const hasMore = page?.has_more ?? page?.hasMore ?? items.length === 100;
+    if (!hasMore) return { agg, stats, fromCounts, lastEventCounts };
+    if (stats.pages >= maxPages) { stats.truncated = true; return { agg, stats, fromCounts, lastEventCounts }; }
+  }
+  return { agg, stats, fromCounts, lastEventCounts };
+}
+
+// Full keep-set derivation shared by rank and segment modes: contact dump,
+// engagement join, deterministic ranking (clicks → opens → open rate →
+// sends → newest contact). Returns everything in memory; callers write artifacts.
+async function buildRanking({ maxEmailPages, progressLabel }) {
+  if (!focusId) throw new Error(`${progressLabel} requires RESEND_AUDIENCE_ID (focus audience)`);
+  const contacts = [];
+  for await (const contact of paginateContacts(focusId)) {
+    contacts.push({ id: contact.id, email: String(contact.email || '').toLowerCase(), created_at: contact.created_at ?? null, unsubscribed: Boolean(contact.unsubscribed) });
+    if (contacts.length % 10000 === 0) console.error(`[${progressLabel}] contacts: ${contacts.length}...`);
+  }
+  console.error(`[${progressLabel}] contacts total: ${contacts.length}`);
+
+  const { agg, stats: emailStats, fromCounts, lastEventCounts } = await buildEmailAgg({ maxPages: maxEmailPages });
+  console.error(`[${progressLabel}] emails: pages=${emailStats.pages} scanned=${emailStats.scanned} recipients=${agg.size} truncated=${emailStats.truncated}`);
+
+  const ranked = contacts.map(contact => {
+    const eng = agg.get(contact.email) || { sent: 0, opened: 0, clicked: 0, lastSeen: null };
+    return { ...contact, sent: eng.sent, opened: eng.opened, clicked: eng.clicked, lastSeen: eng.lastSeen, openedRate: eng.sent ? eng.opened / eng.sent : 0 };
+  });
+  ranked.sort((a, b) => b.clicked - a.clicked
+    || b.opened - a.opened
+    || b.openedRate - a.openedRate
+    || b.sent - a.sent
+    || String(b.created_at || '').localeCompare(String(a.created_at || '')));
+  return { contacts, ranked, emailStats, fromCounts, lastEventCounts, aggRecipients: agg.size };
+}
+
 async function main() {
   const audiences = await listAudiences();
   console.log(JSON.stringify({ mode, audiencesKnown: audiences.length, focusId: focusId || null }));
@@ -111,7 +220,14 @@ async function main() {
     const segments = await listSegments();
     const results = [];
     for (const audience of audiences.sort((a, b) => (a.id === focusId ? -1 : b.id === focusId ? 1 : 0))) {
-      const stats = await auditAudience(audience);
+      let stats;
+      try {
+        stats = await auditAudience(audience);
+      } catch (error) {
+        results.push({ id: audience.id, name: audience.name, error: String(error.message) });
+        console.error(`[audit] ${audience.name}: SKIPPED — ${error.message}`);
+        continue;
+      }
       results.push(stats);
       console.error(`[audit] ${stats.name}: total=${stats.total} unsubscribed=${stats.unsubscribed} range=${stats.oldestCreatedAt}..${stats.newestCreatedAt}`);
     }
@@ -183,6 +299,112 @@ async function main() {
       },
       segments: segments === null ? 'endpoint-unavailable' : segmentRecon,
       contactKeys: Array.isArray(contactShape?.data) && contactShape.data[0] ? Object.keys(contactShape.data[0]) : contactShape,
+    }));
+    return;
+  }
+
+  if (mode === 'rank') {
+    const outDir = args['out-dir'] || 'resend-rank-out';
+    fs.mkdirSync(outDir, { recursive: true });
+    const maxEmailPages = Math.max(1, Number(args['max-email-pages']) || 1500);
+    const keepCount = Math.max(1, Number(args['keep-count']) || 1000);
+
+    const { contacts, ranked, emailStats, fromCounts, lastEventCounts, aggRecipients } = await buildRanking({ maxEmailPages, progressLabel: 'rank' });
+    const top = ranked.slice(0, keepCount);
+
+    // Artifacts carry masked emails only — this repo's artifacts are public.
+    fs.writeFileSync(`${outDir}/contacts.json`, JSON.stringify(contacts.map(c => ({ ...c, email: maskEmail(c.email) }))));
+    fs.writeFileSync(`${outDir}/ranked.json`, JSON.stringify(ranked.map(c => ({ ...c, email: maskEmail(c.email) }))));
+    fs.writeFileSync(`${outDir}/top.json`, JSON.stringify(top.map(c => ({ ...c, email: maskEmail(c.email) }))));
+
+    const contacted = ranked.filter(c => c.sent > 0).length;
+    const openedAny = ranked.filter(c => c.opened > 0).length;
+    const clickedAny = ranked.filter(c => c.clicked > 0).length;
+    console.log(JSON.stringify({
+      mode,
+      audience: focusId,
+      contactsTotal: contacts.length,
+      unsubscribed: contacts.filter(c => c.unsubscribed).length,
+      emails: emailStats,
+      senders: fromCounts,
+      lastEventCounts,
+      recipients: { uniqueEmailed: aggRecipients, contacted, openedAny, clickedAny },
+      keep: {
+        count: keepCount,
+        minOpenedInTop: top.length ? Math.min(...top.map(c => c.opened)) : 0,
+        fullyEngagedInTop: top.filter(c => c.clicked > 0).length,
+        preview: top.slice(0, 10).map(c => ({ email: maskEmail(c.email), sent: c.sent, opened: c.opened, clicked: c.clicked, created_at: c.created_at })),
+      },
+      outDir,
+    }));
+    return;
+  }
+
+  if (mode === 'segment') {
+    const segmentId = String(args['segment-id'] || '').trim();
+    if (!/^[0-9a-f-]{20,}$/i.test(segmentId)) throw new Error('segment requires --segment-id <uuid>');
+    const outDir = args['out-dir'] || 'resend-rank-out';
+    fs.mkdirSync(outDir, { recursive: true });
+    const maxEmailPages = Math.max(1, Number(args['max-email-pages']) || 1500);
+    const keepCount = Math.max(1, Number(args['keep-count']) || 1000);
+
+    const { contacts, ranked } = await buildRanking({ maxEmailPages, progressLabel: 'segment' });
+    const top = ranked.slice(0, keepCount);
+    const topIds = new Set(top.map(c => c.id));
+
+    // Already-members (paged from the segment) are skipped without re-adding.
+    const members = [];
+    let membershipUnavailable = false;
+    try {
+      for await (const { items } of paginate(`/segments/${segmentId}/contacts`, CONTACTS_PAGE_SLEEP_MS)) members.push(...items.map(c => c.id));
+    } catch (error) {
+      membershipUnavailable = true;
+      console.error(`[segment] membership list unavailable: ${error.message}`);
+    }
+    const alreadyMembers = new Set(members);
+    const toAdd = top.filter(c => !alreadyMembers.has(c.id));
+
+    const results = [];
+    const queue = [...toAdd];
+    const workers = Array.from({ length: 5 }, async () => {
+      for (;;) {
+        const contact = queue.shift();
+        if (!contact) return;
+        try {
+          await api(`/segments/${segmentId}/contacts`, { method: 'POST', body: JSON.stringify({ contact_id: contact.id }) });
+          results.push({ id: contact.id, email: maskEmail(contact.email), status: 'added' });
+        } catch (error) {
+          results.push({ id: contact.id, email: maskEmail(contact.email), status: 'error', error: String(error.message) });
+        }
+      }
+    });
+    await Promise.all(workers);
+
+    fs.writeFileSync(`${outDir}/top.json`, JSON.stringify(top.map(c => ({ ...c, email: maskEmail(c.email) }))));
+    fs.writeFileSync(`${outDir}/adds.json`, JSON.stringify(results));
+    fs.writeFileSync(`${outDir}/contacts.json`, JSON.stringify(contacts.map(c => ({ id: c.id, email: maskEmail(c.email), created_at: c.created_at, inTop: topIds.has(c.id) }))));
+
+    // Post-write verification.
+    const verify = [];
+    try {
+      for await (const { items } of paginate(`/segments/${segmentId}/contacts`, CONTACTS_PAGE_SLEEP_MS)) verify.push(...items.map(c => c.id));
+    } catch { /* membership list unavailable — reported above */ }
+    const addedCount = results.filter(r => r.status === 'added').length;
+    const errorCount = results.filter(r => r.status === 'error').length;
+    console.log(JSON.stringify({
+      mode,
+      audience: focusId,
+      segmentId,
+      membershipWasReadable: !membershipUnavailable,
+      topCount: top.length,
+      alreadyMembers: alreadyMembers.size,
+      addAttempts: toAdd.length,
+      added: addedCount,
+      errors: errorCount,
+      errorSample: results.filter(r => r.status === 'error').slice(0, 5),
+      memberCountAfter: verify.length || null,
+      keep: { preview: top.slice(0, 10).map(c => ({ email: maskEmail(c.email), sent: c.sent, opened: c.opened, clicked: c.clicked })) },
+      outDir,
     }));
     return;
   }
