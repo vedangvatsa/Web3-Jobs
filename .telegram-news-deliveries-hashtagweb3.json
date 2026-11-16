@@ -297,7 +297,7 @@
     "sentAt": "2026-11-16T11:33:04.864Z"
   },
   "74b497b7-988f-4562-a610-365841254f32": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T19:34:25.014Z",
     "stories": [
       {
@@ -325,6 +325,8 @@
         "originalTitle": "Coinbase wins final OCC approval for national trust bank charter"
       }
     ],
-    "slotKey": "2026-11-16:evening"
+    "slotKey": "2026-11-16:evening",
+    "messageId": 156287,
+    "sentAt": "2026-11-16T19:34:28.849Z"
   }
 }

@@ -26,6 +26,9 @@
   "https://hashtagweb3.com/moodyspilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binancecfo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hsmvault?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coinbasetrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -80,6 +83,12 @@
   "Anza files Solana proposal to remove durable nonces",
   "Binance Replaces CFO Kaiser Ng With Justin Yek",
   "Binance CFO Kaiser Ng steps down as Justin Yek appointed finance chief",
+  "Blockstream Launches Offline Bitcoin Custody With Thales Hardware",
+  "Blockstream Launches Offline Bitcoin Custody System Built With Thales",
+  "US Senate panel demands records from crypto firms",
+  "Blumenthal sets Jan. 4 records deadline for Binance, Tether and Trump-linked crypto firms",
+  "Coinbase Secures US National Trust Bank Charter Approval",
+  "Coinbase wins final OCC approval for national trust bank charter",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -106,5 +115,8 @@
   "fp:25b|add|can|com|functionality|join|monad|month|network|participat",
   "fp:blockchain|ccip|chain|chainlink|credit|deliver|distribut|moody|network|november10",
   "fp:anza|approval|drift|durabl|end|fil|hack|link|may2027|nonc",
-  "fp:appoint|binanc|breach|cfo|chief|cryptocurrency|down|exchang|financ|follow"
+  "fp:appoint|binanc|breach|cfo|chief|cryptocurrency|down|exchang|financ|follow",
+  "fp:blockstream|built|computation|cryptographic|custody|hardwar|institutional|modul|multi|offlin",
+  "fp:binanc|blumenthal|deadlin|demand|document|entity|firm|four|includ|initial",
+  "fp:approval|bank|charter|coinbas|custody|direct|exchang|federal|final|national"
 ]
