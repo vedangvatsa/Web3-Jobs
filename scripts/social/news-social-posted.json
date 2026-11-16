@@ -269,6 +269,26 @@
       "slot": "morning",
       "date": "2026-11-16",
       "queuedAt": "2026-11-16T03:32:35.597Z"
+    },
+    {
+      "slug": "defiamicus",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6afae9c90b49b20d0d0d88f1",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-16",
+      "queuedAt": "2026-11-16T11:32:25.608Z"
+    },
+    {
+      "slug": "defiamicus",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6afae9ca37f9e5273be318ec",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-16",
+      "queuedAt": "2026-11-16T11:32:25.608Z"
     }
   ]
 }
