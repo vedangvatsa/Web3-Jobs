@@ -18,8 +18,11 @@
  *   --keep-count contacts to --segment-id (e.g. Daily1000), reporting per-add
  *   status and the resulting membership count.
  *
- * trim (destructive): deletes contacts not in the keep-set. Not wired yet —
- *   runs only after rank/segment results are reviewed and criteria confirmed.
+ * trim (destructive): shrinks the focus audience to the members of
+ *   --segment-id (the keep-set, e.g. Daily1000). Exports deleted.json (full
+ *   emails, local file) as the suppression record before deleting, then
+ *   deletes at --rps with retries; 404s count as already-gone. --dry true
+ *   plans and exports without deleting. Re-running resumes automatically.
  *
  * Env: RESEND_API_KEY (required), RESEND_AUDIENCE_ID (optional focus).
  * Usage:
@@ -410,7 +413,70 @@ async function main() {
   }
 
   if (mode !== 'trim') throw new Error(`Unknown mode: ${mode}`);
-  throw new Error('trim mode not wired yet — audit first, then enable with confirmed keep criteria');
+
+  // Destructive: shrink the focus audience to the members of --segment-id.
+  // --dry plans and exports without deleting; a real run additionally
+  // requires the literal --confirm DELETE. Re-running after a partial trim
+  // resumes naturally: deleted contacts simply disappear from the audience.
+  const segmentId = String(args['segment-id'] || '').trim();
+  if (!/^[0-9a-f-]{20,}$/i.test(segmentId)) throw new Error('trim requires --segment-id <uuid> of the keep-set segment');
+  if (!focusId) throw new Error('trim requires RESEND_AUDIENCE_ID (audience to shrink)');
+  const dry = args['dry'] === 'true';
+  if (!dry && args['confirm'] !== 'DELETE') throw new Error('destructive trim requires --confirm DELETE (or --dry true to plan only)');
+  const outDir = args['out-dir'] || 'resend-trim-out';
+  fs.mkdirSync(outDir, { recursive: true });
+  const rps = Math.min(30, Math.max(1, Number(args['rps']) || 8));
+  const throttleMs = Math.ceil(1000 / rps);
+
+  const keepIds = new Set();
+  const keepRows = [];
+  for await (const { items } of paginate(`/segments/${segmentId}/contacts`, CONTACTS_PAGE_SLEEP_MS)) {
+    for (const member of items) {
+      if (member?.id) { keepIds.add(member.id); keepRows.push({ id: member.id, email: maskEmail(member.email) }); }
+    }
+  }
+  if (!keepIds.size) throw new Error(`keep segment ${segmentId} has no members — refusing to trim`);
+
+  const deletions = [];
+  for await (const contact of paginateContacts(focusId)) {
+    if (!contact?.id || keepIds.has(contact.id)) continue;
+    deletions.push({ id: contact.id, email: String(contact.email || '').toLowerCase(), created_at: contact.created_at ?? null, unsubscribed: Boolean(contact.unsubscribed) });
+    if (deletions.length % 10000 === 0) console.error(`[trim] deletion plan: ${deletions.length}...`);
+  }
+  console.error(`[trim] plan: keep=${keepIds.size} delete=${deletions.length}`);
+
+  // Suppression record BEFORE deleting anything (full emails, local file only).
+  fs.writeFileSync(`${outDir}/keep.json`, JSON.stringify(keepRows));
+  fs.writeFileSync(`${outDir}/deleted.json`, JSON.stringify(deletions));
+
+  if (dry) {
+    console.log(JSON.stringify({ mode, dry: true, audience: focusId, segmentId, keep: keepIds.size, deletePlanned: deletions.length, unsubscribedInDelete: deletions.filter(c => c.unsubscribed).length, outDir }));
+    return;
+  }
+
+  const started = Date.now();
+  let deleted = 0, alreadyGone = 0, errors = 0;
+  const errorSample = [];
+  for (const contact of deletions) {
+    try {
+      await api(`/audiences/${focusId}/contacts/${contact.id}`, { method: 'DELETE' });
+      deleted++;
+    } catch (error) {
+      const message = String(error.message || '');
+      if (message.includes(' 404 ')) { alreadyGone++; }
+      else { errors++; if (errorSample.length < 5) errorSample.push({ id: contact.id, error: message.slice(0, 200) }); }
+    }
+    if ((deleted + alreadyGone + errors) % 1000 === 0) {
+      const rate = (deleted + alreadyGone) / ((Date.now() - started) / 1000);
+      console.error(`[trim] ${(deleted + alreadyGone + errors)}/${deletions.length} processed (${rate.toFixed(1)}/s, errors=${errors})...`);
+    }
+    await new Promise(resolve => setTimeout(resolve, throttleMs));
+  }
+
+  const remaining = [];
+  for await (const contact of paginateContacts(focusId)) remaining.push(contact.id);
+  fs.writeFileSync(`${outDir}/remaining-ids.json`, JSON.stringify(remaining));
+  console.log(JSON.stringify({ mode, dry: false, audience: focusId, segmentId, keep: keepIds.size, deletePlanned: deletions.length, deleted, alreadyGone, errors, errorSample, remaining: remaining.length, durationSec: Math.round((Date.now() - started) / 1000), outDir }));
 }
 
 main().catch(error => { console.error(error.message || error); process.exitCode = 1; });
