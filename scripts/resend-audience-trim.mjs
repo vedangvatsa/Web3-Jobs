@@ -121,27 +121,67 @@ async function main() {
 
   if (mode === 'probe') {
     // Read-only endpoint reconnaissance for the engagement-ranking design.
-    const emails = await api('/emails?limit=5');
-    const first = emails?.data?.[0] || null;
-    const emailsNext = await api('/emails?limit=100').catch(error => ({ error: String(error.message) }));
+    // 1) /emails: does it cover broadcast recipients, how deep does pagination
+    //    go, and which last_event/status values exist in the reachable window?
+    const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
+    const emailsStats = { pages: 0, scanned: 0, lastEventCounts: {}, statusCounts: {}, oldestCreatedAt: null, newestCreatedAt: null, hasMoreSamples: [] };
+    let emailAfter;
+    for (;;) {
+      const query = new URLSearchParams({ limit: '100' });
+      if (emailAfter) query.set('after', emailAfter);
+      const page = await api(`/emails?${query}`).catch(error => ({ __error: String(error.message) }));
+      if (page.__error) { emailsStats.error = page.__error; break; }
+      const items = Array.isArray(page?.data) ? page.data : [];
+      if (!items.length) break;
+      emailsStats.pages++;
+      emailsStats.scanned += items.length;
+      for (const item of items) {
+        const ev = item.last_event ?? 'none';
+        emailsStats.lastEventCounts[ev] = (emailsStats.lastEventCounts[ev] || 0) + 1;
+        const st = item.status ?? 'unknown';
+        emailsStats.statusCounts[st] = (emailsStats.statusCounts[st] || 0) + 1;
+        const ca = item.created_at || null;
+        if (ca && (!emailsStats.newestCreatedAt || ca > emailsStats.newestCreatedAt)) emailsStats.newestCreatedAt = ca;
+        if (ca && (!emailsStats.oldestCreatedAt || ca < emailsStats.oldestCreatedAt)) emailsStats.oldestCreatedAt = ca;
+      }
+      if (emailsStats.hasMoreSamples.length < 3) emailsStats.hasMoreSamples.push(page?.has_more ?? page?.hasMore ?? 'absent');
+      emailAfter = items[items.length - 1]?.id;
+      if (!emailAfter) break;
+      if (emailsStats.pages >= 12) break;
+      await sleep(150);
+    }
+
+    // 2) /broadcasts availability, /segments list, and segment-membership reads.
     const broadcasts = await api('/broadcasts?limit=5').catch(error => ({ error: String(error.message) }));
     const segments = await listSegments();
+    let segmentRecon = null;
+    if (Array.isArray(segments) && segments.length) {
+      segmentRecon = [];
+      for (const segment of segments.slice(0, 5)) {
+        const members = await api(`/segments/${segment.id}/contacts?limit=3`).catch(error => ({ error: String(error.message) }));
+        segmentRecon.push({
+          id: segment.id,
+          name: segment.name,
+          created_at: segment.created_at ?? null,
+          membershipEndpoint: members?.error ? { error: members.error } : {
+            returned: Array.isArray(members?.data) ? members.data.length : null,
+            keys: members?.data?.[0] ? Object.keys(members.data[0]) : null,
+            hasMore: members && 'has_more' in members ? members.has_more : 'absent',
+          },
+        });
+      }
+    }
+
     const contactShape = focusId ? await api(`/audiences/${focusId}/contacts?limit=2`).catch(error => ({ error: String(error.message) })) : null;
     console.log(JSON.stringify({
       mode,
-      emailsShape: {
-        returned: Array.isArray(emails?.data) ? emails.data.length : null,
-        keys: first ? Object.keys(first) : null,
-        firstRecord: first ? { subject: String(first.subject || '').slice(0, 60), to: `${String(first.to || '?').slice(0, 3)}***`, last_event: first.last_event ?? null, created_at: first.created_at ?? null, status: first.status ?? null } : null,
-        limit100Returned: Array.isArray(emailsNext?.data) ? emailsNext.data.length : null,
-        hasMoreField: emailsNext && 'has_more' in emailsNext ? emailsNext.has_more : 'absent',
-      },
+      emailsShape: emailsStats,
       broadcastsShape: broadcasts?.error ? { error: broadcasts.error } : {
         returned: Array.isArray(broadcasts?.data) ? broadcasts.data.length : null,
         keys: broadcasts?.data?.[0] ? Object.keys(broadcasts.data[0]) : null,
         firstRecord: broadcasts?.data?.[0] ? { name: broadcasts.data[0].name, status: broadcasts.data[0].status, sent_at: broadcasts.data[0].sent_at ?? null } : null,
       },
-      segments: segments === null ? 'endpoint-unavailable' : segments,
+      segments: segments === null ? 'endpoint-unavailable' : segmentRecon,
       contactKeys: Array.isArray(contactShape?.data) && contactShape.data[0] ? Object.keys(contactShape.data[0]) : contactShape,
     }));
     return;
