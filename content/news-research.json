@@ -181839,11 +181839,30 @@
         "The Defiant"
       ],
       "id": "937ae6b27e60e52237b7",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T08:07:58.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "reason": "verified-event",
+      "note": "Reused and repaired the restored draft. Read Cointelegraph Nov. 15, crypto.news Nov. 15 (which cites Yonhap for MetaM's Nov. 14 disclosure), and Coinone's primary Korean notice of Nov. 15. Verified timeline (attacker hit MetaM servers ~4 a.m. Nov. 12, Coinone informed ~9:20 a.m., notice published Nov. 15), the 11 categories of potentially exposed data, separation of Coinone trading/wallet systems, regulator reports (KISA, PIPC, FSS), and South Korea context figures. Added primary-notice link and apology detail to clear the 600-word gate; quality, image, formatting, duplicate and tsc audits now pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/coinone-data-breach-customer-support-hack/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinone.co.kr/info/notice/5950",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-16T04:07:45.711Z",
+      "articleSlug": "coinonehack",
+      "lastReviewedDay": "2026-11-16"
     },
     "afe1d3a0a03aa8840500": {
       "source": "BeInCrypto",
@@ -349136,6 +349155,27 @@
           ],
           "reviewedAt": "2026-11-16T03:58:24.612Z",
           "articleSlug": "comeback"
+        },
+        "937ae6b27e60e52237b7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reused and repaired the restored draft. Read Cointelegraph Nov. 15, crypto.news Nov. 15 (which cites Yonhap for MetaM's Nov. 14 disclosure), and Coinone's primary Korean notice of Nov. 15. Verified timeline (attacker hit MetaM servers ~4 a.m. Nov. 12, Coinone informed ~9:20 a.m., notice published Nov. 15), the 11 categories of potentially exposed data, separation of Coinone trading/wallet systems, regulator reports (KISA, PIPC, FSS), and South Korea context figures. Added primary-notice link and apology detail to clear the 600-word gate; quality, image, formatting, duplicate and tsc audits now pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/coinone-data-breach-customer-support-hack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinone.co.kr/info/notice/5950",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:07:45.711Z",
+          "articleSlug": "coinonehack"
         }
       },
       "baselineSlugs": [
