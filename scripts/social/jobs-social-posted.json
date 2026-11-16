@@ -142646,7 +142646,8 @@
       },
       "account": "channel:product",
       "attemptId": "eb25e43d-1be2-435b-8691-d6f5ed42cda7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd1d6078883e2c0666670381b6601c1e968f57685"
     }
   ]
 }
