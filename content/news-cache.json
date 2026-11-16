@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-16T21:11:38.508Z",
+  "generatedAt": "2026-11-16T21:28:41.585Z",
   "items": [
+    {
+      "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+      "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+      "pubDate": "Mon, 16 Nov 2026 21:16:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabl...",
+      "source": "Decrypt"
+    },
     {
       "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
       "link": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -250,6 +258,14 @@
       "source": "The Block"
     },
     {
+      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
+      "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 14:19:50 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "Lighter restored withdrawals after recovering approximately $5 million in USDC, while blockchain analysts traced $10.4 million in funds moved during t...",
+      "source": "Cointelegraph"
+    },
+    {
       "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
       "link": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Mon, 16 Nov 2026 13:29:11 +0000",
@@ -338,7 +354,7 @@
       "source": "Decrypt"
     },
     {
-      "title": "Live updates: Bitcoin holds near weekend lows as Nasdaq extends decline to more than 2%",
+      "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
       "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
       "pubDate": "Mon, 16 Nov 2026 09:34:18 +0000",
       "creator": "James Van Straten",
@@ -402,14 +418,6 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-      "link": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
-      "pubDate": "Mon, 16 Nov 2026 07:51:15 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
-      "source": "Coindesk"
-    },
-    {
       "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
       "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
       "pubDate": "Mon, 16 Nov 2026 06:27:42 +0000",
@@ -432,14 +440,6 @@
       "creator": "Omkar Godbole",
       "contentSnippet": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
       "source": "Coindesk"
-    },
-    {
-      "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
-      "link": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 16 Nov 2026 02:33:07 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Attackers redirected customers’ Bitcoin mining power through Luxor’s Commander platform over the weekend, prompting its CEO to issue a warning to cryp...",
-      "source": "Cointelegraph"
     },
     {
       "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
@@ -647,14 +647,6 @@
       "pubDate": "Thu, 12 Nov 2026 21:26:03 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether th...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
-      "link": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
-      "pubDate": "Thu, 12 Nov 2026 20:36:03 +0000",
-      "creator": "André Beganski",
-      "contentSnippet": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme.",
       "source": "Decrypt"
     }
   ]
