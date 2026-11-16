@@ -142156,7 +142156,8 @@
       },
       "account": "profile",
       "attemptId": "b52bd318-0a5b-4e6d-af14-dedd8df75b25",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdbb383fe1b9d7dbfa77b0d16b4a9b2d30750f2aa"
     }
   ]
 }
