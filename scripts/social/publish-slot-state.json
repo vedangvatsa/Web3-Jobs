@@ -1099,10 +1099,12 @@
           "coinonehack",
           "comeback"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-16T12:08:48.355Z",
         "buildId": "daily-20261116-43862251072-1",
-        "rolloutId": "daily-20261116-43862251072-1"
+        "rolloutId": "daily-20261116-43862251072-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-16T12:35:08.711Z"
       }
     ]
   }
