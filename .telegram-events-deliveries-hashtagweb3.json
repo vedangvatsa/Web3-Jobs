@@ -350,5 +350,53 @@
     "slotKey": "2026-11-16:afternoon",
     "messageId": 156282,
     "sentAt": "2026-11-16T11:32:32.470Z"
+  },
+  "e892fda7-fae4-414e-8a2c-158d2222ca66": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T19:32:15.328Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-zVGF1SrI2gHsjFf",
+        "slug": "bootcamp-b",
+        "name": "Bootcamp Blockchain.gov2026",
+        "startDate": "2026-11-17T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-zvgf1sri2ghsjff",
+          "page:bootcamp-b:2026-11-17",
+          "luma:evt-zvgf1sri2ghsjff",
+          "luma-url:/k95it7qg",
+          "event:bootcampblockchaingov2026:2026-11-17:rio de janeiro"
+        ]
+      },
+      {
+        "id": "luma-crypto-el3DCxHxNa4OelK",
+        "slug": "metaplex-v",
+        "name": "Metaplex VIP Lunch - Bringing new markets to Solana",
+        "startDate": "2026-11-17T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-el3dcxhxna4oelk",
+          "page:metaplex-v:2026-11-17",
+          "luma:evt-el3dcxhxna4oelk",
+          "luma-url:/5hdnilau",
+          "event:metaplexviplunchbringingnewmarketstosolana:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "premier-ethwomen",
+        "slug": "ethwomen",
+        "name": "ETHWomen Florida",
+        "startDate": "2026-11-17T13:00:00.000Z",
+        "keys": [
+          "premier-ethwomen",
+          "page:ethwomen:2026-11-17",
+          "luma:evt-32pspwnxeclehbg",
+          "luma-url:/ethwomen_fl",
+          "event:ethwomenflorida:2026-11-17:davie"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-16:evening"
   }
 }
