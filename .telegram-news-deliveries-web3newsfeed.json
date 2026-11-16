@@ -231,7 +231,7 @@
     "sentAt": "2026-11-15T19:33:22.566Z"
   },
   "1c343067-62bb-46fd-81b6-93ebd396ba8b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T03:33:05.674Z",
     "stories": [
       {
@@ -259,6 +259,8 @@
         "originalTitle": "Monad joins Visa's stablecoin settlement program as run rate tops $25 billion"
       }
     ],
-    "slotKey": "2026-11-16:morning"
+    "slotKey": "2026-11-16:morning",
+    "messageId": 65833,
+    "sentAt": "2026-11-16T03:33:07.869Z"
   }
 }
