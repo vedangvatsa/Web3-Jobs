@@ -143004,7 +143004,8 @@
       },
       "account": "profile",
       "attemptId": "4dc0f3ac-b478-4325-8029-5c495a3ff217",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb97df36f678971fcd0dc30426236467782e5b88f"
     }
   ]
 }
