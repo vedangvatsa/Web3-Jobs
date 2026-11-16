@@ -3840,10 +3840,7 @@
   },
   "curated-bangkok-convergence-fine-dining-brunch": {
     "slug": "bangkok-convergence-fine-dining-brunch",
-    "aliases": [
-      "web3-fomo-fest-after-party",
-      "curated-web3-fomo-fest-after-party"
-    ]
+    "aliases": []
   },
   "luma-4c0cgfep": {
     "slug": "investor-innovator-networking-bangkok",
@@ -3855,6 +3852,8 @@
   },
   "curated-web3-fomo-fest-after-party": {
     "slug": "web3-fomo-fest-after-party-bangkok",
-    "aliases": []
+    "aliases": [
+      "web3-fomo-fest-after-party"
+    ]
   }
 }
