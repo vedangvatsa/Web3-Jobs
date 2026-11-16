@@ -173456,29 +173456,32 @@
         "The Defiant"
       ],
       "id": "801ba3d8b5380a0b22fd",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T07:10:03.000Z",
       "lastSeenAt": "2026-11-13T11:28:25.584Z",
-      "reason": "source-blocked",
-      "note": "Read Crypto Briefing Nov. 13 full text (foundation-linked wallet sold 1,000 ETH Nov. 10 and 1,000 ETH Nov. 11 through CoW Protocol at $2,080-$2,130 averages, proceeds converted to USDS, wallet still held over 24,000 ETH, prior 2,785 ETH sale Oct. 26, 2.5-year expense buffer policy). The Defiant second URL is a price story whose body did not load and does not mention the sale, so no independent corroboration of the sale exists yet.",
+      "reason": "verified-event",
+      "note": "Cleared the long-standing source-blocked deferral. Read Crypto Briefing Nov. 13, crypto.news Nov. 11, and the Lookonchain X post of Nov. 10 (primary on-chain record) this round. Corroborated the Nov. 10-11 sales of 1,000 ETH each day via CoW Protocol into USDS, averages near ,130 and ,025, combined about .16M, prior 2,785 ETH sale Oct. 26, wallet still holding over 24,000 ETH, and the 2.5-year expense buffer policy. Wrote efsale.md with hero image; quality, image, formatting, duplicate, tsc and link checks pass.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
           "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/markets/ether-nears-2-000-as-weekly-loss-outpaces-bitcoin-s",
-          "outcome": "blocked"
+          "url": "https://crypto.news/is-ethereum-price-at-risk-as-foundation-linked-wallet-sells-more-eth/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://x.com/lookonchain/status/2119974163263947154",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-14T01:30:50.808Z",
+      "reviewedAt": "2026-11-16T04:12:50.053Z",
       "retrySearches": [
         "Find independent reporting or on-chain analysis corroborating the Ethereum Foundation wallet sale of 2,000 ETH on Nov. 10-11 2026 and its USDS conversion"
       ],
-      "lastReviewedDay": "2026-11-14",
-      "nextReviewDate": "2026-11-15",
+      "lastReviewedDay": "2026-11-16",
       "articleSlug": "efsale",
       "draftProgress": {
         "id": "801ba3d8b5380a0b22fd",
@@ -349176,6 +349179,27 @@
           ],
           "reviewedAt": "2026-11-16T04:07:45.711Z",
           "articleSlug": "coinonehack"
+        },
+        "801ba3d8b5380a0b22fd": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Cleared the long-standing source-blocked deferral. Read Crypto Briefing Nov. 13, crypto.news Nov. 11, and the Lookonchain X post of Nov. 10 (primary on-chain record) this round. Corroborated the Nov. 10-11 sales of 1,000 ETH each day via CoW Protocol into USDS, averages near ,130 and ,025, combined about .16M, prior 2,785 ETH sale Oct. 26, wallet still holding over 24,000 ETH, and the 2.5-year expense buffer policy. Wrote efsale.md with hero image; quality, image, formatting, duplicate, tsc and link checks pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/ethereum-foundation-sells-2000-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/is-ethereum-price-at-risk-as-foundation-linked-wallet-sells-more-eth/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://x.com/lookonchain/status/2119974163263947154",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:12:50.053Z",
+          "articleSlug": "efsale"
         }
       },
       "baselineSlugs": [
