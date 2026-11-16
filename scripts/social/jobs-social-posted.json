@@ -141436,7 +141436,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "10814467-9818-4434-b523-d42e8fac31a6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x35607ced528f4cb184d79a0fcd31f3b4a919bbfa"
     }
   ]
 }
