@@ -141294,6 +141294,41 @@
       "attemptId": "0f339e35-3a8f-4491-a1c0-32f2b16f9c27",
       "verification": "verified",
       "postId": "0xa07e5da30987840f1dac23954479f56bf0318dfb"
+    },
+    {
+      "slug": "rec32",
+      "company": "Chainalysis",
+      "title": "Technical Recruiter, EMEA",
+      "platform": "farcaster",
+      "postedAt": "2026-11-16T03:34:23.961Z",
+      "expectedText": "Chainalysis is hiring Technical Recruiter, EMEA\n\nhttps://hashtagweb3.com/rec32/fc?og=7",
+      "snapshot": {
+        "id": "00864875-16af-484f-af43-8eeda1399dba",
+        "title": "Technical Recruiter, EMEA",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/00864875-16af-484f-af43-8eeda1399dba",
+        "date": "2026-11-05T09:52:02.777+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec32"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Technical Recruiter, EMEA\n\nhttps://hashtagweb3.com/rec32/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rec32/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "acb523e6-d915-4efd-b880-fe7941b654f4",
+      "verification": "creating"
     }
   ]
 }
