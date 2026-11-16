@@ -945,5 +945,122 @@
     "slotKey": "2026-11-16:morning",
     "messageId": 156279,
     "sentAt": "2026-11-16T03:32:50.252Z"
+  },
+  "18faf700-13ce-4a9a-a2fa-4ff61f9e00e7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T11:32:56.487Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5428323008",
+          "title": "Chargé de Compte PME",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5428323008?gh_jid=5428323008",
+          "date": "2026-11-13T17:30:12-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "20209 S&M - Sales - Square Inside",
+          "active": true,
+          "salary": "$86k – $129k/yr",
+          "dateVerified": true,
+          "slug": "cdcp"
+        },
+        "key": "5428323008",
+        "slug": "cdcp",
+        "url": "https://hashtagweb3.com/cdcp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Chargé de Compte PME"
+      },
+      {
+        "snapshot": {
+          "id": "6238217004",
+          "title": "VP, Senior Blockchain Security Engineer",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6238217004",
+          "date": "2026-10-29T06:02:51-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "India",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec70"
+        },
+        "key": "6238217004",
+        "slug": "sec70",
+        "url": "https://hashtagweb3.com/sec70?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "VP, Senior Blockchain Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "e45a8b6a-5029-4ca5-ac6f-5af940843c72",
+          "title": "Technical Consultant, Strategic",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/e45a8b6a-5029-4ca5-ac6f-5af940843c72",
+          "date": "2026-11-13T19:29:12.394+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tcs3"
+        },
+        "key": "e45a8b6a-5029-4ca5-ac6f-5af940843c72",
+        "slug": "tcs3",
+        "url": "https://hashtagweb3.com/tcs3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Technical Consultant"
+      },
+      {
+        "snapshot": {
+          "id": "8359837",
+          "title": "Software Engineer - Trading Operations",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8359837",
+          "date": "2026-11-06T13:25:15-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "New York City",
+          "department": "FICC Options Middle Office",
+          "active": true,
+          "salary": "$120k – $175k/yr",
+          "dateVerified": true,
+          "slug": "eng721"
+        },
+        "key": "8359837",
+        "slug": "eng721",
+        "url": "https://hashtagweb3.com/eng721?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8338845",
+          "title": "Solution Architect, Metronome (AI Native)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8338845",
+          "date": "2026-11-13T04:39:34-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "9014 Metronome - R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc23"
+        },
+        "key": "8338845",
+        "slug": "arc23",
+        "url": "https://hashtagweb3.com/arc23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Solution Architect"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/cdcp?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chargé de Compte PME</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/sec70?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Senior Blockchain Security Engineer</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/tcs3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Consultant, Strategic</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/eng721?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer - Trading Operations</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/arc23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solution Architect, Metronome (AI Native)</a>",
+    "slotKey": "2026-11-16:afternoon"
   }
 }
