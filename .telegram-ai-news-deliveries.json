@@ -308,5 +308,42 @@
     "slotKey": "2026-11-16:morning",
     "messageId": 193525,
     "sentAt": "2026-11-16T03:33:11.881Z"
+  },
+  "01729a34-9901-4826-8736-76792c6e4d25": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T11:32:13.016Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+        "headline": "Alibaba releases Qwen4-Max model with 2.4 trillion parameters",
+        "summary": "The mixture-of-experts model features a one-million-token context window and reduces operational task costs by 62 percent.",
+        "event_rationale": "Covers Alibaba's launch of its Qwen4-Max model, which is distinct from all previously posted AI model releases.",
+        "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+        "source": "MarkTechPost",
+        "originalTitle": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context"
+      },
+      {
+        "index": 1,
+        "original_title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+        "headline": "Meta deploys AI system to generate pre-commit code tests",
+        "summary": "The automated software testing tool identified 74 high-severity privacy flaws prior to code deployment during early testing.",
+        "event_rationale": "Covers Meta's production deployment of an LLM testing system, distinct from previously listed software tools and models.",
+        "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+        "source": "MarkTechPost",
+        "originalTitle": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands"
+      },
+      {
+        "index": 21,
+        "original_title": "Physics-inspired AI detects fake faces by analyzing color and brightness patterns",
+        "headline": "Researchers create physics-based AI to detect deepfake images",
+        "summary": "The model analyzes natural light patterns and brightness variations to distinguish synthetic human faces from real photographs.",
+        "event_rationale": "Covers a new academic research breakthrough in synthetic image detection, distinct from enterprise deployments and model releases.",
+        "link": "https://techxplore.com/news/2026-11-physics-ai-fake-brightness-patterns.html",
+        "source": "TechXplore",
+        "originalTitle": "Physics-inspired AI detects fake faces by analyzing color and brightness patterns"
+      }
+    ],
+    "slotKey": "2026-11-16:afternoon"
   }
 }
