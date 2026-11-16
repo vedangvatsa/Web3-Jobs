@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-16T11:31:37.603Z",
+  "generatedAt": "2026-11-16T11:58:35.352Z",
   "items": [
+    {
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "link": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+      "pubDate": "Mon, 16 Nov 2026 11:47:12 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermedi...",
+      "source": "Coindesk"
+    },
     {
       "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
       "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
