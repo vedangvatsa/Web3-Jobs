@@ -183521,7 +183521,27 @@
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 0,
       "expiresAt": "2026-11-18T20:07:48.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "articleSlug": "bessentnvidia",
+      "draftProgress": {
+        "id": "862e2d25d902d40998fb",
+        "day": "2026-11-16",
+        "articleSlug": "bessentnvidia",
+        "note": "Two independent sources read: Crypto Briefing Nov. 15 (Bessent demand for board answers within 10 days on export-control failures via Megaspeed, frustration with Commerce) and TokenPost Nov. 15 (same 10-day deadline, board response due about Nov. 25). CNBC Nov. 15 article downloaded but does not contain the 10-day claim; it covers the outside-CEO demand instead. Concrete event qualifies; draft and hero image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/bessent-nvidia-board-export-controls-deadline/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/regulation/57898",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-16T04:39:43.222Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "2015a9b8d8f950299c3b": {
       "source": "BeInCrypto",
