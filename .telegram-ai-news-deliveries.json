@@ -271,5 +271,40 @@
     "slotKey": "2026-11-15:evening",
     "messageId": 193523,
     "sentAt": "2026-11-15T19:32:20.166Z"
+  },
+  "c53d6294-59ce-47d1-9b49-72639a8dbaf0": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T03:33:09.353Z",
+    "stories": [
+      {
+        "index": 11,
+        "original_title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+        "headline": "Anthropic sets Claude Opus 5.5 as default model",
+        "summary": "The company updated paid subscription tiers to use the model while releasing new guidance for prompt engineering.",
+        "event_rationale": "Covers Anthropic deploying Claude Opus 5.5 as its primary paid model, distinct from previously posted Claude Fable 5.2 stories.",
+        "link": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+        "source": "The Decoder",
+        "originalTitle": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5"
+      },
+      {
+        "index": 24,
+        "original_title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "headline": "ElevenLabs releases meeting transcription app for enterprise teams",
+        "summary": "The corporate software combines automated note-taking and voice dictation tools for organizational workflows.",
+        "event_rationale": "Covers ElevenLabs launching a new enterprise meeting product, distinct from prior audio model announcements.",
+        "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "source": "TechCrunch",
+        "originalTitle": "ElevenLabs’ new app combines meeting note-taking and dictation for teams"
+      },
+      {
+        "index": 1,
+        "headline": "Apple launches research app for AI health queries",
+        "summary": "This tool helps researchers understand how people use artificial intelligence to answer common medical questions.",
+        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+        "source": "TechCrunch",
+        "originalTitle": "Apple launches new app to study how people use AI for health"
+      }
+    ],
+    "slotKey": "2026-11-16:morning"
   }
 }
