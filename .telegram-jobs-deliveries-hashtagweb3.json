@@ -828,5 +828,120 @@
     "slotKey": "2026-11-15:evening",
     "messageId": 156275,
     "sentAt": "2026-11-15T19:32:51.956Z"
+  },
+  "a19401d1-a071-4f68-a328-51c3a59ae2ba": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T03:32:47.733Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "f906798e-b5da-440b-80a0-639356e72e1d",
+          "title": "Senior Machine Learning Engineer, Knowledge Layer",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/f906798e-b5da-440b-80a0-639356e72e1d",
+          "date": "2026-10-27T16:04:17.974+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng666"
+        },
+        "key": "f906798e-b5da-440b-80a0-639356e72e1d",
+        "slug": "eng666",
+        "url": "https://hashtagweb3.com/eng666?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Machine Learning Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8250475",
+          "title": "Account Executive, SMB Grower (French speaking)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8250475",
+          "date": "2026-11-07T12:49:05-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Toronto, Canada",
+          "department": "1175 Enterprise - Account Executives (NA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls253"
+        },
+        "key": "8250475",
+        "slug": "sls253",
+        "url": "https://hashtagweb3.com/sls253?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "6c4cb921-2657-477e-91d3-0e72118d8633",
+          "title": "Senior Software Engineer, Prediction Markets Platform",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/6c4cb921-2657-477e-91d3-0e72118d8633",
+          "date": "2026-10-27T13:22:53.656Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (San Francisco)",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "salary": "USD 200,000 - USD 230,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng663"
+        },
+        "key": "6c4cb921-2657-477e-91d3-0e72118d8633",
+        "slug": "eng663",
+        "url": "https://hashtagweb3.com/eng663?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "a640c7fd-3c66-40fe-b788-1b89c3a470dc",
+          "title": "Senior Engineer, Data Security",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/a640c7fd-3c66-40fe-b788-1b89c3a470dc",
+          "date": "2026-11-05T08:36:48.338000-08:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Austin, TX",
+          "department": "Cybersecurity",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec90"
+        },
+        "key": "a640c7fd-3c66-40fe-b788-1b89c3a470dc",
+        "slug": "sec90",
+        "url": "https://hashtagweb3.com/sec90?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "Senior Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5457270008",
+          "title": "Principal, Strategic Sourcing (Construction)",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5457270008",
+          "date": "2026-11-09T16:06:07-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami, FL",
+          "department": "Supply Chain Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ssc2"
+        },
+        "key": "5457270008",
+        "slug": "ssc2",
+        "url": "https://hashtagweb3.com/ssc2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Principal, Strategic Sourcing"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng666?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Machine Learning Engineer, Knowledge Layer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls253?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SMB Grower (French speaking)</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/eng663?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer, Prediction Markets Platform</a>\n- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/sec90?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Engineer, Data Security</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/ssc2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal, Strategic Sourcing (Construction)</a>",
+    "slotKey": "2026-11-16:morning"
   }
 }
