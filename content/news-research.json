@@ -179797,9 +179797,9 @@
         "Cointelegraph"
       ],
       "id": "2046504137498498c5b8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T16:33:23.000Z",
       "lastSeenAt": "2026-11-15T03:31:30.173Z",
       "articleSlug": "megacuts",
@@ -179829,7 +179829,21 @@
         "updatedAt": "2026-11-15T04:45:22.682Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph Nov 14 and crypto.news Nov 13 full texts on MEGA's 20 percent staff cut, Kong's Nov 13 X post, the Nov 10 rebrand and 30 million dollar treasury commitment to an AI inference market planned for December. Two independent sites verified; audits, image and links pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/mega-cuts-20-percent-staff-ai-restructuring",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-16T03:52:21.118Z",
+      "lastReviewedDay": "2026-11-16"
     },
     "b155edde4e933b3fa265": {
       "source": "CoinDesk",
@@ -349057,6 +349071,23 @@
             "Rebuild the cftclouisiana draft from the CFTC Nov. 13 press release, Crypto Briefing Nov. 14 and rg.org Nov. 14 coverage (rg.org and cft.gov now return HTTP 200), then revalidate outbound links including rg.org",
             "Find an accessible alternative to The Block's Nov. 14 Louisiana AG reaction story for a third independent source"
           ]
+        },
+        "2046504137498498c5b8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph Nov 14 and crypto.news Nov 13 full texts on MEGA's 20 percent staff cut, Kong's Nov 13 X post, the Nov 10 rebrand and 30 million dollar treasury commitment to an AI inference market planned for December. Two independent sites verified; audits, image and links pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/mega-cuts-20-percent-staff-ai-restructuring",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-16T03:52:21.118Z",
+          "articleSlug": "megacuts"
         }
       },
       "baselineSlugs": [
