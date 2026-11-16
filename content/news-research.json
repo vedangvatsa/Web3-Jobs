@@ -177835,9 +177835,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "2b37773a4f04b54999c3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T22:01:03.000Z",
       "lastSeenAt": "2026-11-15T03:31:30.173Z",
       "articleSlug": "gptwallet",
@@ -177859,7 +177859,21 @@
         "updatedAt": "2026-11-16T04:18:06.596Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked and read Cointelegraph Nov 13 and Decrypt Nov 14 this round; drafted ChatGPT Wallet launch with both sources linked, hero image self-hosted from Wikimedia, quality/images/formatting/duplicates audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-16T04:21:11.335Z",
+      "lastReviewedDay": "2026-11-16"
     },
     "46b5e1017e3ea1a6be5b": {
       "source": "Crypto Briefing",
@@ -349200,6 +349214,23 @@
           ],
           "reviewedAt": "2026-11-16T04:12:50.053Z",
           "articleSlug": "efsale"
+        },
+        "2b37773a4f04b54999c3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked and read Cointelegraph Nov 13 and Decrypt Nov 14 this round; drafted ChatGPT Wallet launch with both sources linked, hero image self-hosted from Wikimedia, quality/images/formatting/duplicates audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:21:11.335Z",
+          "articleSlug": "gptwallet"
         }
       },
       "baselineSlugs": [
