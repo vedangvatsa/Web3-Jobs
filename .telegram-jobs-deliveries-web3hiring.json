@@ -1800,7 +1800,7 @@
     "sentAt": "2026-11-16T03:32:30.562Z"
   },
   "9b4477ad-669c-40d9-9023-7d06788f2e08": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T03:32:32.026Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -1913,6 +1913,8 @@
       }
     ],
     "message": "- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng346?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Post-Trade Platform</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/fe27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineer, UI Platform</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/sls429?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive (German Speaking)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/fs31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Full Stack Engineer - Growth &amp; Experimentation - Krak</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/sec123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations &amp; Risk Automation Engineer</a>",
-    "slotKey": "2026-11-16:morning"
+    "slotKey": "2026-11-16:morning",
+    "messageId": 198,
+    "sentAt": "2026-11-16T03:32:34.334Z"
   }
 }
