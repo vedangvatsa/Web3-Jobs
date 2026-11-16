@@ -141760,7 +141760,8 @@
       },
       "account": "channel:ai",
       "attemptId": "490362ad-5480-4516-baa5-7fa22384f23b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x437edb2491d47c3c3ece37f3bd3173683aa77f48"
     }
   ]
 }
