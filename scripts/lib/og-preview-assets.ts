@@ -20,6 +20,40 @@ function imageKey(source: string): string {
   const url = new URL(source, 'https://hashtagweb3.com');
   return ['hashtagweb3.com', 'www.hashtagweb3.com'].includes(url.hostname) ? url.pathname : url.toString();
 }
+// The standalone-public-assets gate requires every site-hosted URL in this
+// catalog to resolve to a committed or build-generated file. public/responsive/
+// variants are never committed, so only hashes that responsive-images.json will
+// regenerate are buildable; every other site-hosted URL must exist on disk.
+// Dropping dangling entries here keeps CI from re-committing references that
+// fail the next deploy build.
+function buildableSocialImageInfo(root: string, merged: Record<string, SocialImageInfo>): Record<string, SocialImageInfo> {
+  const responsiveBlobPath = path.join(root, 'content/responsive-images.json');
+  const responsiveBlob = fs.existsSync(responsiveBlobPath) ? fs.readFileSync(responsiveBlobPath, 'utf8') : '';
+  const publicRoot = path.resolve(root, 'public');
+  const buildable: Record<string, SocialImageInfo> = {};
+  for (const [key, info] of Object.entries(merged)) {
+    let pathname: string;
+    try {
+      const url = new URL(info.url);
+      if (!['hashtagweb3.com', 'www.hashtagweb3.com'].includes(url.hostname)) {
+        buildable[key] = info;
+        continue;
+      }
+      const raw = url.pathname.startsWith('/public/') ? url.pathname.slice('/public'.length) : url.pathname;
+      pathname = decodeURIComponent(raw);
+    } catch {
+      continue;
+    }
+    if (pathname.startsWith('/responsive/')) {
+      const hash = pathname.split('/')[2];
+      if (hash && responsiveBlob.includes(hash)) buildable[key] = info;
+      continue;
+    }
+    const file = path.resolve(publicRoot, `.${pathname}`);
+    if (file.startsWith(`${publicRoot}${path.sep}`) && fs.existsSync(file)) buildable[key] = info;
+  }
+  return buildable;
+}
 export function writeSocialImageInfo(root = process.cwd()) {
   const filePath = path.join(root, 'content/social-image-info.json');
   let existing: Record<string, SocialImageInfo> = {};
@@ -31,7 +65,7 @@ export function writeSocialImageInfo(root = process.cwd()) {
     }
   }
   const merged = { ...existing, ...(preparedImages.get(root) || {}) };
-  fs.writeFileSync(filePath, `${JSON.stringify(merged)}\n`);
+  fs.writeFileSync(filePath, `${JSON.stringify(buildableSocialImageInfo(root, merged))}\n`);
 }
 export async function preparePreviewImage(meta: OgPreviewMeta, root = process.cwd()): Promise<OgPreviewMeta> {
   let url = new URL(meta.ogImageUrl, 'https://hashtagweb3.com');
