@@ -141910,7 +141910,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "8456f360-2483-4a99-a253-6d8e600a7567",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6afa7a38ff465c57dace02e2"
     }
   ]
 }
