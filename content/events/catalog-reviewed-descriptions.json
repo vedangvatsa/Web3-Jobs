@@ -33,23 +33,6 @@
       ]
     }
   },
-  "luma-batch-0boKcuyLBEPRDoT": {
-    "description": "Join SuperteamUK every Friday at our co-working space for builders, leaders and creatives at the frontier of tech in London (Every Friday: 10:00AM\n- )!\n\nAttendance is free but entry via approval only, so make sure to register and be accepted for your name to be on the guestlist.\n\nCome and meet and collaborate with like-minded developers & builders, discover new team members, and gain insights from industry leaders.\n\nOn arrival you will receive your event wristband which must be worn at all times on site! Please keep the safe as you found it to represent the other members and venue staff.\n\nFor more info, reach out to us on the Solana UK Telegram (https://t.me/+LsyQs0RHOX1iYTY0).\n\nAbout Superteam UK\n\nSuperteam is a global co-operative organised into regional non-profit organisations across 20+ countries focused on supporting founders and talent building at the frontier of tech.\n\nLearn more and apply for membership at superteamuk.org (https://superteamuk.org)\n\n* This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.\n\n** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.\n\nBy signing up to this event you agree that Solana, The SRI, & SuperteamUK can capture any footage of you, and contact you directly about future events, major news, and more.",
-    "descriptionSource": {
-      "url": "https://luma.com/london-oct-16",
-      "fetchedAt": "2026-10-12T11:41:06.648Z",
-      "method": "official-section",
-      "pageTitle": "Co-Working Fridays : London Chapter",
-      "sha256": "2c857f87732c73613b754dc1187087d43032807f48faf6ff4cb4693db71c75fb",
-      "evidence": [
-        {
-          "url": "https://luma.com/london-oct-16",
-          "fetchedAt": "2026-10-12T11:41:06.648Z",
-          "sha256": "743ff46d5f6bbba5dc6db2c1239d51c6dcc0582fdccba976e7571e0f2391b8bd"
-        }
-      ]
-    }
-  },
   "luma-batch-evttdoYjLUc0hLUU": {
     "description": "An invite-only series of gatherings across Europe, hosted by Solana and Allfunds, bringing together the people shaping the next chapter of institutional finance onchain. Speakers include:\n\n• Ruben Nieto, Managing Director, Allfunds Blockchain\n• Simon Seiter, Managing Director & CFO/CPO, AllUnity\n• Ben Brophy, Head of Institutional Growth - Europe, Solana Foundation\n\nAs recently announced, Solana and Allfunds Blockchain have reached an agreement under which Allfunds Blockchain will be expanding distribution of its tokenised funds to Solana: establishing a direct commercial bridge between traditional fund distribution networks and public, on-chain markets.\n\n​From London to Frankfurt, Milan, Madrid, Paris and beyond, we’re convening senior leaders across asset management, distribution, capital markets, custody and financial infrastructure.\n\nThrough intimate salons and high-signal gatherings, this event will bring together buy-side, sell-side and market infrastructure partners with Allfunds Blockchain as a guest, to explore how tokenised funds can be deployed, what it unlocks for institutional access and liquidity, and where the near-term opportunities are for firms considering on-chain distribution.\n\nAbout Allfunds \nAllfunds is a global wealthtech platform connecting fund houses and distributors through technology and infrastructure.\n\nAbout Solana Foundation\nThe Solana Foundation is a non-profit organisation based in Zug, Switzerland, dedicated to the decentralisation, growth, and security of the Solana network. Solana is a proof-of-stake blockchain built for mass adoption ◎ Fast, composable, green, and globally distributed.\n\nAbout House of Sol\nHouse of Sol is a sanctuary for institutions and DeFi on Solana. It serves as an exclusive members' club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.\n\nLearn more and apply for membership at houseofsol.org (https://houseofsol.org)\n\nThis is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.\n\nLimited spaces available, even after confirmation. Please arrive early to avoid disappointment.\n\nBy signing up to this event you agree that Solana Foundation and House of Sol can capture any footage of you, and contact you directly about future events, major news, and more.",
     "descriptionSource": {
@@ -903,24 +886,6 @@
       "method": "official-section",
       "pageTitle": "Crypto Fest 2026 | 20 Nov 2026 | 8th Edition | Get Your Tickets",
       "sha256": "c6a7ce497abf3a1c226141b5d349e2f4410bb2a82af506ff2632bc19d13d8917"
-    }
-  },
-  "premier-ibt-bengaluru-2026": {
-    "description": "Bengaluru is a stop on Octaloop's fifth India Blockchain & AI Tour. The tour connects local developers and founders with protocol teams, investors and enterprise participants working on Web3 and AI.\n\nThe organizer's city ticket link currently returns the tour-wide page, which does not provide a Bengaluru-specific session timetable. Check the city registration details for the final venue, hours and ticket conditions before travelling.",
-    "descriptionSource": {
-      "url": "https://indiablockchaintour.com/",
-      "fetchedAt": "2026-10-12T11:25:07.471Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "India Blockchain & AI Tour 2026 - Bengaluru",
-      "sha256": "86732b43ae6d342281504af4bbfe99681fed63b8a15c85db3775f102e51254ac",
-      "evidence": [
-        {
-          "url": "https://indiablockchaintour.com/",
-          "fetchedAt": "2026-10-12T11:25:07.471Z",
-          "sha256": "93ac972b8925ea7b59a0ee13c1d7fc1d6a63bb192b125cc02d72f0b1841bd2c9",
-          "representation": "html"
-        }
-      ]
     }
   },
   "premier-ibt-chennai-2026": {
@@ -2274,23 +2239,6 @@
           "url": "https://luma.com/ETHWomen_FL",
           "fetchedAt": "2026-10-14T11:53:05.396Z",
           "sha256": "6fae0710febe521f277b837701a725a3e37cd028c297294d2041a8ed6cd5498e"
-        }
-      ]
-    }
-  },
-  "luma-crypto-SmEV1KL3URBkN1p": {
-    "description": "Tencent Cloud and AI Singapore co-host AI CAN DO IT Hackathon Singapore 2026. Participants build agentic AI solutions using Tencent Cloud products including CodeBuddy, WorkBuddy and Miora, responding to business challenges supplied by industry organizations\n\nChallenge tracks\n\n- DBS: a Direct Conversational Transaction Agent for banking.\n- Keppel: AI HARVEST, turning expert knowledge into reusable intelligence.\n- Aspire: an internal enterprise knowledge system with role-based access control, security logging and an audit trail.\n- Ryde: a multi-agent autonomous dispute-resolution system.\n- NTU LKCMedicine: intelligent self-triage and care navigation, or support for long-term self-care\n\nTimeline and awards\n\nThe organizer's timeline lists a September 16 kickoff and an October 16 submission deadline, followed by finalist announcements on October 23 and Demo Day on November 3. Industry contributors participate in evaluating and judging solutions.\n\nParticipants receive CodeBuddy and WorkBuddy credits. The announced Demo Day prizes are SGD 10,000 for first place, SGD 5,000 for second and SGD 2,000 for third. Consult the organizer's challenge and submission instructions for eligibility and deliverables.",
-    "descriptionSource": {
-      "url": "https://luma.com/26fqf3hy",
-      "fetchedAt": "2026-10-14T11:49:37.216Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
-      "sha256": "7a80e9c1bf647b8eed06fd936bd337c705902839ef5c316d0048b783aafd5b6e",
-      "evidence": [
-        {
-          "url": "https://luma.com/26fqf3hy",
-          "fetchedAt": "2026-10-14T11:49:37.216Z",
-          "sha256": "cc5d82073b1278e493372392e552c24c1e0965ef97638f4e7608ee4cc7c5a3f4"
         }
       ]
     }

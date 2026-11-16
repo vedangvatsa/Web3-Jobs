@@ -10009,5 +10009,59 @@
       "lqrbtu27",
       "luma-batch-3zocizsw9mzvoy0"
     ]
+  },
+  "premier-ibt-bengaluru-2026": {
+    "until": "2027-11-16T20:01:21.241Z",
+    "slugs": [
+      "ibt-bengaluru",
+      "premier-ibt-bengaluru-2026",
+      "ibt-bengaluru-2026"
+    ]
+  },
+  "india-luma-6sp22vxd": {
+    "until": "2027-11-16T20:01:21.241Z",
+    "slugs": [
+      "road-to-devcon-mumbai-a36",
+      "india-luma-6sp22vxd"
+    ]
+  },
+  "luma-batch-8UXgG0KjJABRwx1": {
+    "until": "2027-11-16T20:01:21.241Z",
+    "slugs": [
+      "orbscafe-26-stablecoins",
+      "v9us2rum",
+      "luma-batch-8uxgg0kjjabrwx1"
+    ]
+  },
+  "luma-batch-0boKcuyLBEPRDoT": {
+    "until": "2027-11-16T20:01:21.241Z",
+    "slugs": [
+      "london-oct-16",
+      "luma-batch-0bokcuylbeprdot"
+    ]
+  },
+  "luma-batch-evtS05EzhQE2Xcgn": {
+    "until": "2027-11-16T20:01:21.241Z",
+    "slugs": [
+      "groundwork-dc",
+      "groundwork_dc",
+      "luma-batch-evts05ezhqe2xcgn"
+    ]
+  },
+  "luma-crypto-SmEV1KL3URBkN1p": {
+    "until": "2027-11-16T20:01:21.241Z",
+    "slugs": [
+      "tencent-cloud-ai-can-do-it-hackathon",
+      "tcacdihkoe",
+      "luma-crypto-smev1kl3urbkn1p"
+    ]
+  },
+  "luma-crypto-rHjDzQ9Ow33bh2U": {
+    "until": "2027-11-16T20:01:21.241Z",
+    "slugs": [
+      "rwa-leaders-summit-dubai",
+      "rls",
+      "luma-crypto-rhjdzq9ow33bh2u"
+    ]
   }
 }

@@ -1,10 +1,4 @@
 {
-  "luma-crypto-SmEV1KL3URBkN1p": {
-    "slug": "tencent-cloud-ai-can-do-it-hackathon",
-    "aliases": [
-      "tcacdihkoe"
-    ]
-  },
   "premier-ibt-tour-2026": {
     "slug": "ibt",
     "aliases": []
@@ -39,22 +33,6 @@
       "xppe9krt"
     ]
   },
-  "luma-crypto-rHjDzQ9Ow33bh2U": {
-    "slug": "rwa-leaders-summit-dubai",
-    "aliases": [
-      "rls"
-    ]
-  },
-  "luma-batch-0boKcuyLBEPRDoT": {
-    "slug": "london-oct-16",
-    "aliases": []
-  },
-  "luma-batch-evtS05EzhQE2Xcgn": {
-    "slug": "groundwork-dc",
-    "aliases": [
-      "groundwork_dc"
-    ]
-  },
   "luma-crypto-T8jvG7h5xieJmQL": {
     "slug": "maritime-dual-use-hackathon",
     "aliases": [
@@ -63,16 +41,6 @@
   },
   "premier-edcon-2026": {
     "slug": "edcon",
-    "aliases": []
-  },
-  "luma-batch-8UXgG0KjJABRwx1": {
-    "slug": "orbscafe-26-stablecoins",
-    "aliases": [
-      "v9us2rum"
-    ]
-  },
-  "premier-ibt-bengaluru-2026": {
-    "slug": "ibt-bengaluru",
     "aliases": []
   },
   "luma-batch-evtMhB5lf6PHMKPk": {
@@ -1245,10 +1213,6 @@
   },
   "curated-edge-city-india-2026": {
     "slug": "edge-city-india-village",
-    "aliases": []
-  },
-  "india-luma-6sp22vxd": {
-    "slug": "road-to-devcon-mumbai-a36",
     "aliases": []
   },
   "india-luma-6tjoddyg": {

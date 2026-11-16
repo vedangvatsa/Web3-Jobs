@@ -136,49 +136,6 @@
   ],
   "rows": [
     {
-      "row": 1,
-      "entryId": "calev-utmRYOaRAovEJ0N",
-      "identity": "luma:evt-8hOqAnqQt2DD4xB",
-      "eventId": "evt-8hOqAnqQt2DD4xB",
-      "platform": "luma",
-      "name": "Road to Devcon India | Mumbai Edition",
-      "url": "https://luma.com/6sp22vxd",
-      "period": "future",
-      "timing": "upcoming",
-      "calendarStart": "2026-10-17T05:00:00.000Z",
-      "calendarEnd": "2026-10-17T07:00:00.000Z",
-      "status": "added",
-      "kind": "new-source-record",
-      "reason": "Verified public primary page; appended one missing identity in india-luma-events.json.",
-      "sourceMatchesBefore": [],
-      "runtimeBefore": [],
-      "runtimeAfter": [
-        {
-          "id": "india-luma-6sp22vxd",
-          "slug": "road-to-devcon-mumbai-a36",
-          "startDate": "2026-10-17T05:00:00.000Z",
-          "endDate": "2026-10-17T07:00:00.000Z"
-        }
-      ],
-      "primary": {
-        "url": "https://luma.com/6sp22vxd",
-        "finalUrl": "https://luma.com/6sp22vxd",
-        "canonicalUrl": "https://luma.com/6sp22vxd",
-        "httpStatus": 200,
-        "fetchedAt": "2026-10-16T08:51:29.956Z",
-        "sha256": "02f4aab77caf3fa12dce19df020411458e595d6930ceee6e6b8d424d20c46419",
-        "title": "Road to Devcon India | Mumbai Edition · Luma",
-        "visibility": "public",
-        "startDate": "2026-10-17T05:00:00.000Z",
-        "endDate": "2026-10-17T07:00:00.000Z",
-        "timezone": "Asia/Kolkata",
-        "locationHidden": false,
-        "approvalRequired": true,
-        "cancelled": false
-      },
-      "identityProof": []
-    },
-    {
       "row": 2,
       "entryId": "calev-JAmhm3q1wFwRRs6",
       "identity": "luma:evt-MEC8N5i9OBrqofT",

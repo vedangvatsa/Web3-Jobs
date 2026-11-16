@@ -14,25 +14,6 @@
   },
   "records": [
     {
-      "id": "luma-crypto-SmEV1KL3URBkN1p",
-      "oldSlug": "tcacdihkoe",
-      "slug": "tencent-cloud-ai-can-do-it-hackathon",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 2333,
-      "characters": 2333,
-      "factChanges": {
-        "location": "Singapore, Singapore"
-      },
-      "source": {
-        "url": "https://luma.com/26fqf3hy",
-        "fetchedAt": "2026-10-12T11:25:01.299Z",
-        "status": 200,
-        "sha256": "d6bd72341a47ab670867be094f5279feb1ef52ff05a0d908a20b32eaccff1dc3"
-      }
-    },
-    {
       "id": "premier-ibt-tour-2026",
       "oldSlug": "ibt",
       "slug": "ibt",
@@ -177,109 +158,6 @@
       }
     },
     {
-      "id": "luma-crypto-rHjDzQ9Ow33bh2U",
-      "oldSlug": "rls",
-      "slug": "rwa-leaders-summit-dubai",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 2030,
-      "characters": 2030,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/hmo88s8e",
-        "fetchedAt": "2026-10-12T11:25:06.159Z",
-        "status": 200,
-        "sha256": "b5fe06dd591753024dcc3f21f2235121467a51d17cfcf6c96b2f7e53332a6899"
-      }
-    },
-    {
-      "id": "luma-batch-0boKcuyLBEPRDoT",
-      "oldSlug": "london-oct-16",
-      "slug": "london-oct-16",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 1392,
-      "characters": 1453,
-      "factChanges": {
-        "locationHidden": true,
-        "location": "London, United Kingdom",
-        "organizer": {
-          "type": "Organization",
-          "name": "Superteam",
-          "url": "https://superteam.fun/"
-        },
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/london-oct-16",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/london-oct-16",
-        "fetchedAt": "2026-10-12T11:41:06.648Z",
-        "status": 200,
-        "sha256": "743ff46d5f6bbba5dc6db2c1239d51c6dcc0582fdccba976e7571e0f2391b8bd"
-      }
-    },
-    {
-      "id": "luma-batch-evtS05EzhQE2Xcgn",
-      "oldSlug": "groundwork_dc",
-      "slug": "groundwork-dc",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 3095,
-      "characters": 3095,
-      "factChanges": {
-        "locationHidden": false,
-        "city": "Washington",
-        "venueName": "National Union Building",
-        "streetAddress": "918 F St NW, Washington",
-        "addressLocality": "Washington",
-        "addressRegion": "District of Columbia",
-        "addressCountry": "US",
-        "neighborhood": "Penn Quarter",
-        "coordinates": {
-          "latitude": 38.897166399999996,
-          "longitude": -77.0248835
-        },
-        "hosts": [
-          "1inch",
-          "Blockchain Association",
-          "DC DAO",
-          "Ekaterina [1inch]",
-          "Jessica Salama"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "1inch''",
-          "url": "https://www.1inch.io/"
-        },
-        "approvalRequired": false,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/groundwork_dc",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/groundwork_dc",
-        "fetchedAt": "2026-10-12T11:25:06.597Z",
-        "status": 200,
-        "sha256": "7dd719d0cfda1b926eed81390702230f43a5b8b477d78af5e00778c05fdc86b6"
-      }
-    },
-    {
       "id": "luma-crypto-T8jvG7h5xieJmQL",
       "oldSlug": "fmduh",
       "slug": "maritime-dual-use-hackathon",
@@ -321,47 +199,6 @@
         "status": 200,
         "sha256": "f256397f2d4d83240db0c9be15dbf2ef2ee56d6aff9d5c1f71e536e3ad8e97fd"
       }
-    },
-    {
-      "id": "luma-batch-8UXgG0KjJABRwx1",
-      "oldSlug": "v9us2rum",
-      "slug": "orbscafe-26-stablecoins",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 2141,
-      "characters": 2141,
-      "factChanges": {
-        "location": "Shibuya, Japan",
-        "organizer": {
-          "type": "Organization",
-          "name": "Orbs Japan",
-          "url": "https://coinpost.jp/?cat=1773"
-        }
-      },
-      "source": {
-        "url": "https://luma.com/v9us2rum",
-        "fetchedAt": "2026-10-12T11:25:07.219Z",
-        "status": 200,
-        "sha256": "f460c49ac53963b74618f0ee6814e34aa4d37a66e7052af9ded3af732cc8f080"
-      }
-    },
-    {
-      "id": "premier-ibt-bengaluru-2026",
-      "oldSlug": "ibt-bengaluru",
-      "slug": "ibt-bengaluru",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 2664,
-      "characters": 437,
-      "source": {
-        "url": "https://indiablockchaintour.com/",
-        "fetchedAt": "2026-10-12T11:25:07.471Z",
-        "status": 200,
-        "sha256": "93ac972b8925ea7b59a0ee13c1d7fc1d6a63bb192b125cc02d72f0b1841bd2c9"
-      },
-      "note": "City ticket URL returned tour-wide content; city-specific agenda and venue remain unverified."
     },
     {
       "id": "luma-batch-evtMhB5lf6PHMKPk",

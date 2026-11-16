@@ -1027,45 +1027,6 @@
       ]
     },
     {
-      "id": "luma-crypto-SmEV1KL3URBkN1p",
-      "slug": "tencent-cloud-ai-can-do-it-hackathon",
-      "olderSlug": "tencent-cloud-ai-can-do-it-hackathon",
-      "decision": "apply-unsuperseded-description",
-      "reason": "Keep five concrete tracks, timeline and awards; remove empty label, sponsor placeholders and promotional repetition.",
-      "baselineHash": "64b469782d284add99fbd93dd1a3fdee39de505eec3abda60f224d88d904731a",
-      "currentHash": "64b469782d284add99fbd93dd1a3fdee39de505eec3abda60f224d88d904731a",
-      "olderHash": "c71862521ec249d920a78a453ec549fec05389d6bb72194c12901b0e77797df2",
-      "proposedHash": "c71862521ec249d920a78a453ec549fec05389d6bb72194c12901b0e77797df2",
-      "currentSource": null,
-      "olderSource": {
-        "url": "https://luma.com/26fqf3hy",
-        "fetchedAt": "2026-10-14T11:49:37.216Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
-        "sha256": "c71862521ec249d920a78a453ec549fec05389d6bb72194c12901b0e77797df2",
-        "evidence": [
-          {
-            "url": "https://luma.com/26fqf3hy",
-            "fetchedAt": "2026-10-14T11:49:37.216Z",
-            "sha256": "cc5d82073b1278e493372392e552c24c1e0965ef97638f4e7608ee4cc7c5a3f4"
-          }
-        ]
-      },
-      "proof": [
-        {
-          "url": "https://luma.com/26fqf3hy",
-          "resolvedUrl": "https://luma.com/26fqf3hy",
-          "checkedAt": "2026-10-14T11:49:37.216Z",
-          "status": 200,
-          "sha256": "cc5d82073b1278e493372392e552c24c1e0965ef97638f4e7608ee4cc7c5a3f4",
-          "title": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026 · Luma",
-          "descriptions": [
-            "## Tencent Cloud AI CAN DO IT Hackathon Singapore 2026\n\nCo-hosted by Tencent Cloud and AI Singapore, the AI CAN DO IT Tencent Cloud Hackathon Singapore 2026 brings together industry expertise, leading AI technologies, and academic talent to empower the next generation of AI innovators.\n\nParticipants will develop practical Agentic AI solutions using Tencent Cloud’s latest AI products, including CodeBuddy, WorkBuddy and Miora, to tackle real world business challenges contributed by leading organizations across industries.\n\nThis year’s Hackathon features five industry tracks.\n\n\n## 🚀 Five Industry Tracks. Real Challenges. Real Impact.\n\n\n🏦 Banking Track - DBS\n\nChallenge: Direct Conversational Transaction Agent (DCTA)\n\n🏢 Real Estate Track - Keppel\n\nChallenge: AI HARVEST – Turning Expert Know-How into Reusable Intelligence\n\n💳 FinTech Track - Aspire\n\nChallenge: The Internal Brain – Building a Context-Aware Enterprise Knowledge System with RBAC, Security Logging & Audit Trail\n\n🚗  Digital Native Track - Ryde\n\nChallenge: Multi-Agent Autonomous Dispute Resolution System\n\n🏥 Healthcare Track - NTU LKCMedicine\n\nChallenge 1: AI Grandma Knows Best: Intelligent Self-Triage and Care Navigation\n\nChallenge 2: AI Healthier Every Day: Intelligent Support for Long-Term Self-Care\n\n\nEach track is supported by industry organizations contributing real-world challenge statements and participating in the evaluation and judging of solutions.\n\nFrom industry challenges to hands-on AI workshops and demos, participants will have the opportunity to build, experiment, and innovate with Tencent Cloud’s AI technologies.\n\n\n## 📅  Hackathon Journey\n\n16 Sep — Kick-off Event\n\n16 Oct — Submission Deadline\n\n23 Oct — Finalists Announcement\n\n3 Nov — Demo Day 🎯\n\n\n## 🏆 Prizes & Participant Benefits\n\nAll participants will receive CodeBuddy and WorkBuddy credits to support their hackathon journey. Top-performing teams at the Demo Day will receive:\n\n🥇 First Prize — SGD 10,000\n\n🥈 Second Prize — SGD 5,000\n\n🥉 Third Prize — SGD 2,000\n\n\n🎥 Watch the Kick-off Livestream:\n\nYouTube: https://youtube.com/live/RFz_N8K2ZHA?feature=share\n\n🚀 Sign Up Your Team for the Hackathon:\n\nhttps://qdrl.qq.com/65xN1yft\n\n🚀 Submit Your Project\n\nhttps://tinyurl.com/TCHackathonSGProjectSubmission\n\n\n\n## The challenge starts here. The ideas start now.\n\n\n## AI CAN DO IT. Are you ready to build what’s next?"
-          ]
-        }
-      ]
-    },
-    {
       "id": "luma-batch-yCu03jZbXJloNc6",
       "slug": "rayls-london-meetup",
       "olderSlug": "rayls-london-meetup",

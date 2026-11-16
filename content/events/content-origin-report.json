@@ -6,22 +6,6 @@
   "templates": 0,
   "events": [
     {
-      "id": "luma-crypto-SmEV1KL3URBkN1p",
-      "slug": "tcacdihkoe",
-      "name": "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/26fqf3hy",
-        "fetchedAt": "2026-09-19T23:45:15.700Z"
-      },
-      "sections": [
-        "Tencent Cloud AI CAN DO IT Hackathon Singapore 2026",
-        "Five Industry Tracks. Real Challenges. Real Impact",
-        "Hackathon Journey",
-        "Prizes & Participant Benefits"
-      ]
-    },
-    {
       "id": "premier-ibt-tour-2026",
       "slug": "ibt",
       "name": "India Blockchain & AI Tour 2026",
@@ -107,49 +91,6 @@
       ]
     },
     {
-      "id": "luma-crypto-rHjDzQ9Ow33bh2U",
-      "slug": "rls",
-      "name": "RWA Leaders Summit - Dubai",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/hmo88s8e",
-        "fetchedAt": "2026-09-19T23:49:08.505Z"
-      },
-      "sections": [
-        "About the event",
-        "About RWALabs.ae",
-        "About NewTribe Capital",
-        "About NeosLegal"
-      ]
-    },
-    {
-      "id": "luma-batch-0boKcuyLBEPRDoT",
-      "slug": "london-oct-16",
-      "name": "Co-Working Fridays : London Chapter",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/london-oct-16",
-        "fetchedAt": "2026-09-22T11:31:03.000Z"
-      },
-      "sections": [
-        "About the event",
-        "About Superteam UK"
-      ]
-    },
-    {
-      "id": "luma-batch-evtS05EzhQE2Xcgn",
-      "slug": "groundwork_dc",
-      "name": "Groundwork",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/groundwork_dc",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "luma-crypto-T8jvG7h5xieJmQL",
       "slug": "fmduh",
       "name": "Maritime Dual-Use Hackathon",
@@ -182,42 +123,6 @@
         "Apply to Speak",
         "Join as Volunteer",
         "Strategic Partner: Geode Labs"
-      ]
-    },
-    {
-      "id": "luma-batch-8UXgG0KjJABRwx1",
-      "slug": "v9us2rum",
-      "name": "ステーブルコインから始まる、新しいデジタル金融体験 | OrbsCafe#26",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/v9us2rum",
-        "fetchedAt": "2026-09-22T10:40:02.039Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "premier-ibt-bengaluru-2026",
-      "slug": "ibt-bengaluru",
-      "name": "India Blockchain & AI Tour 2026 - Bengaluru",
-      "status": "source-backed",
-      "source": {
-        "url": "https://indiablockchaintour.com/",
-        "fetchedAt": "2026-09-20T00:20:52.308Z"
-      },
-      "sections": [
-        "Welcome to India Blockchain & AI Tour 2026",
-        "Architect Networking",
-        "Market Penetration",
-        "Talent Integration",
-        "Elite VIP Access",
-        "IBT26 Sponsors",
-        "Our IBT26 flagship event Metamorphosis Hyderabad",
-        "Founders & CXOs",
-        "Institutional Investors",
-        "Global Ecosystems",
-        "Policy & Enterprise"
       ]
     },
     {

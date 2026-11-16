@@ -1173,10 +1173,6 @@
       "sha256": "92ae082906548cfbff0ff985ce78c8638fe5ad30fbaf8b2a1cfdb917d99d49f2",
       "status": "optimized"
     },
-    "/events/india-luma-6sp22vxd-56fc3a6e.webp": {
-      "sha256": "a81e264f03648015b65cb0d9c582470de6a029edfdfc4d3ca52487081959f81b",
-      "status": "optimized"
-    },
     "/events/india-luma-6tjoddyg-63f6ea92.webp": {
       "sha256": "271f35357db322c2f77fcd72c1e03bd397f22ff46a0498e618f0591118ca9c34",
       "status": "optimized"
@@ -1321,17 +1317,9 @@
       "sha256": "5fe8b1f79690c8c362ad6385fd500dda7369aa0532f7ca216d1aae274f93d172",
       "status": "optimized"
     },
-    "/events/luma-batch-0boKcuyLBEPRDoT-609a935f.webp": {
-      "sha256": "733539a0c25f8e114e931308d3253a32098dbaf5277fd38a6d213f9329c15b6f",
-      "status": "optimized"
-    },
     "/events/luma-batch-7iIJgmckKWYczPb-53ebcd27.webp": {
       "sha256": "ae04ab0d8cf4efc3619186d97f98a6b49b1ad6e96736b086f378fe5b257d2c2d",
       "status": "retained"
-    },
-    "/events/luma-batch-8UXgG0KjJABRwx1-d0a92edc.webp": {
-      "sha256": "fdaf84522cd68afe7181ba1f90d12c0d3cf00abb04947b8d57d1771e04d79dd5",
-      "status": "optimized"
     },
     "/events/luma-batch-9tJirJDFIno1LUr-609a935f.webp": {
       "sha256": "733539a0c25f8e114e931308d3253a32098dbaf5277fd38a6d213f9329c15b6f",
@@ -1447,10 +1435,6 @@
     },
     "/events/luma-batch-evtNyDalsA4KYCEg-6fe40e1d.webp": {
       "sha256": "d88774de0d10d29391ccded58691a519f3faf1befb76775340ddb5a3877daf52",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evtS05EzhQE2Xcgn-a0a9c54b.webp": {
-      "sha256": "1f4f8cbc47774d11fd37d82d28bd0c45c46c8da657d074a9ec0aa84ac0d503f5",
       "status": "optimized"
     },
     "/events/luma-batch-evtSK22Vhvj9z3xv-69098de1.webp": {
@@ -2369,10 +2353,6 @@
       "sha256": "d63af28cf6f801e086b625d823037bd7622a214eb334e79c308c5f59e87741fa",
       "status": "optimized"
     },
-    "/events/luma-crypto-rhjdzq9ow33bh2u-894ff306.webp": {
-      "sha256": "4e4bebcec828516157fb7c0f0f94879ac687ad37c281067159ffc3c0032cbba6",
-      "status": "optimized"
-    },
     "/events/luma-crypto-rvtrhofrzju1t4g-e7b1698a.webp": {
       "sha256": "94d4c5e18743dfe61d107c3dba5c58269e8dec47f4505550ca738e10cccd79e8",
       "status": "optimized"
@@ -2399,10 +2379,6 @@
     },
     "/events/luma-crypto-sgpliocp0wsk3lg-6b189ea7.webp": {
       "sha256": "32e7ce039d07a3fa12288740f5a78e5011b0ffc52f3aa0e909851b61cf46f510",
-      "status": "optimized"
-    },
-    "/events/luma-crypto-smev1kl3urbkn1p-375b7830.webp": {
-      "sha256": "e9bb1a2ad084097603fed2370bf9684dea8fca66fbf1d42aceece5a6fa34e294",
       "status": "optimized"
     },
     "/events/luma-crypto-sqectrgjfjchn87-9f7bbfbc.webp": {
@@ -3097,10 +3073,6 @@
       "sha256": "b658bb31da14215c8c9f07a1c4eba5b32232b87b9a1547503c1569218bae8db7",
       "status": "optimized"
     },
-    "/events/luma-evt-brhuxbjescff5uy-45b6ca79.webp": {
-      "sha256": "6c3b2657139e18d1041e4a6a85056e8e1944aeb96b21ef871d37b0b414dbb8f7",
-      "status": "optimized"
-    },
     "/events/luma-evt-buxm6a5mdixhdfy-d810b2c7.webp": {
       "sha256": "87f4b8b280d1f25348aa7e1e92397c51ee22c3ab6a7b7ab1aa458b08af19d983",
       "status": "optimized"
@@ -3287,10 +3259,6 @@
     },
     "/events/luma-evt-ekm7z2rhvu2rj7b-9b51e4ff.webp": {
       "sha256": "7f9eafca7b38bcb7dcb50360c585565c690c26eb90694b9b0accce3794385b78",
-      "status": "optimized"
-    },
-    "/events/luma-evt-ekti6y4fzerddk9-4c2b275e.webp": {
-      "sha256": "0b0eb4e3d74e3aacb1c524cfa38cfd7afe8b4896d04f622531b7119cada8ed5b",
       "status": "optimized"
     },
     "/events/luma-evt-emtfyc4ro49bafe-bd8620ed.webp": {
@@ -4261,10 +4229,6 @@
       "sha256": "ff6dd9cc64dbccddcfdbb6cc399e8c9c0bab0fb92487cc6b8eade5c48d432059",
       "status": "optimized"
     },
-    "/events/luma-evt-uirbeiwerk8qlsq-fecd9ac5.webp": {
-      "sha256": "184644a3d252eb0134bef499320984ba5664aa8e40e2c6885213f5beb754b569",
-      "status": "optimized"
-    },
     "/events/luma-evt-uiyklw0czbnyk7m-6b909839.webp": {
       "sha256": "075504c53c18192c5802defd5d3126ac92f3fa6c23e9900f4792760c39fa5080",
       "status": "optimized"
@@ -4825,18 +4789,6 @@
       "sha256": "2c377f43e1d249f80540f0c96393754b3327af53467dbff40f5e428ee6083a1f",
       "status": "optimized"
     },
-    "/events/ma-bitcoin-2027-07a22303.webp": {
-      "sha256": "d1639d7479b1bb738dead46d5c1db416eab76487251bdb18e87a1197670970df",
-      "status": "optimized"
-    },
-    "/events/ma-bitcoin-asia-2027-54b71ef7.webp": {
-      "sha256": "96600bcf3db449c6e060f4f5f85f914c0e4c8ff871a7519c88ef0d8daf54d6da",
-      "status": "optimized"
-    },
-    "/events/ma-bitcoin-mena-2027-d3c41f8b.webp": {
-      "sha256": "96600bcf3db449c6e060f4f5f85f914c0e4c8ff871a7519c88ef0d8daf54d6da",
-      "status": "optimized"
-    },
     "/events/ma-bitcoin-mena-bfc9c9d4.webp": {
       "sha256": "4dc303e3134dea3a384663c0e6279a7867ab625499f80f21061ddfe2c1a3ad34",
       "status": "optimized"
@@ -4845,20 +4797,12 @@
       "sha256": "347d6190a03bfb2d038505c857914bdbf02b06aa489d0d58082298e27fea1e9c",
       "status": "optimized"
     },
-    "/events/ma-blockchain-life-2027-e20cf0e9.webp": {
-      "sha256": "9875f4d141db7d98bbb74f3792f6361632942c452cf2a08b642cfd6f25416501",
-      "status": "retained"
-    },
     "/events/ma-blockchain-rio-2027-d028793b.webp": {
       "sha256": "663b60d3c1d19bf278a60b45b72fc2d34bac84212d1a8e88d91020bc976df92a",
       "status": "optimized"
     },
     "/events/ma-blockcon-punta-cana-2026-94943d93.webp": {
       "sha256": "f273e3213f75cbccfcd3d3674a42b344528039aee97d455ee712b19efb3180ec",
-      "status": "optimized"
-    },
-    "/events/ma-btc-prague-2027-3c51e74b.webp": {
-      "sha256": "65dfe879a6a9ff6ba0a8fd37d05906cff8c0e9d8e6095a083e7794a26fc0cd6e",
       "status": "optimized"
     },
     "/events/ma-building-blocks-tlv-2027-78087f2f.webp": {
@@ -4875,10 +4819,6 @@
     },
     "/events/ma-coinfest-asia-2027-28d0e394.webp": {
       "sha256": "022069565f90471f72c55687e153833b033e19a5daf8e2267137b8edb47d9076",
-      "status": "optimized"
-    },
-    "/events/ma-consensus-2027-bbe77bd7.webp": {
-      "sha256": "34f461a66a6a71ec83457f2998690ad8a8105526253f26c4826cf44798eb5949",
       "status": "optimized"
     },
     "/events/ma-crypto-expo-europe-2027-58c75062.webp": {
@@ -4929,10 +4869,6 @@
       "sha256": "2c6cce7ca8b2ca2567cf543d28490304647ed07456b65ed4797a0fc05bb943bd",
       "status": "optimized"
     },
-    "/events/ma-ethdenver-2027-6fb424ff.webp": {
-      "sha256": "bbb5c55d91ced12360151366c55d2095a6d583d731c5273405a6d5a7fc70907f",
-      "status": "optimized"
-    },
     "/events/ma-ethprague-2027-7404011b.webp": {
       "sha256": "b7ef2febf52be9537acfca05a6dc2bb417675f75ab3868993b57ba61b1bf553f",
       "status": "optimized"
@@ -4953,20 +4889,12 @@
       "sha256": "cd630028025417509b00cf09a5f1e2bb89ff5bffd48524063f7041bdea2f28bd",
       "status": "optimized"
     },
-    "/events/ma-nordic-blockchain-conference-2027-c8e1ba16.webp": {
-      "sha256": "dc79028b6e908fc20dd3e93cfaf1688c0863716074b1ccd25ebec1f8a6080655",
-      "status": "retained"
-    },
     "/events/ma-permissionless-2027-d82215d1.webp": {
       "sha256": "11ae35f2069dea33d2ad3a1f1b771c11d3f50b8378bdf844e87d2b721388f34d",
       "status": "optimized"
     },
     "/events/ma-singapore-fintech-festival-2027-01dbc3b1.webp": {
       "sha256": "e48fadf03df93092c6ec6e320ba2cc37fa042f516fea2d83587ad061cae055e2",
-      "status": "optimized"
-    },
-    "/events/ma-taipei-blockchain-week-2027-d8e6fe4d.webp": {
-      "sha256": "e2827312ca38bb4e260de1f85703e8900699e3a1e436fbdb6e86f59610c7a584",
       "status": "optimized"
     },
     "/events/ma-teamz-web3-ai-summit-2027-12d53b84.webp": {
@@ -4976,10 +4904,6 @@
     "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp": {
       "sha256": "a06a57d4a07b57e6fb814ad4fa9688859bfdc1088dde0dc75df55e03b7b30b39",
       "status": "retained"
-    },
-    "/events/ma-token2049-dubai-2027-053271c6.webp": {
-      "sha256": "59e9a93ef57d86b4379d26093b09c3470c0ac43c2d36f669397c48f78ee75021",
-      "status": "optimized"
     },
     "/events/ma-token2049-singapore-2027-d2b3a862.webp": {
       "sha256": "dd2d2b1661ce413b60a02541cb6f10b8a3879d169ff6e5750c09fdaa83d80b8d",
@@ -5215,10 +5139,6 @@
     },
     "/events/mu-316912416-ca1c1669.webp": {
       "sha256": "a8581e24846903361b138b200b29dc1b4b847bb80c467055d092dc743ad6415e",
-      "status": "retained"
-    },
-    "/events/mu-316913789-c59cc85d.webp": {
-      "sha256": "674be8e17d58e80903d20aabe7be90a616b66e972b9ced0f9f8b5381de18e599",
       "status": "retained"
     },
     "/events/mu-316914263-b1dd8c7d.webp": {
