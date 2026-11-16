@@ -264,7 +264,7 @@
     "sentAt": "2026-11-16T03:33:07.869Z"
   },
   "e0df7364-df25-44fe-8de2-ced32c9a2063": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T11:33:39.447Z",
     "stories": [
       {
@@ -292,6 +292,8 @@
         "originalTitle": "Binance CFO Kaiser Ng steps down as Justin Yek appointed finance chief"
       }
     ],
-    "slotKey": "2026-11-16:afternoon"
+    "slotKey": "2026-11-16:afternoon",
+    "messageId": 65834,
+    "sentAt": "2026-11-16T11:34:02.892Z"
   }
 }
