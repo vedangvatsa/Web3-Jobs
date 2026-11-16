@@ -182315,11 +182315,25 @@
         "The Defiant"
       ],
       "id": "7aa7c0932e4da6657a2a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T10:23:17.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "reason": "price-chatter",
+      "note": "Read Cointelegraph's Nov. 15 article in full: it reports BTC's Sunday low near 2,080 per CoinGecko, weekly ETH/SOL losses, the Fear & Greed index at 10, and two weeks of spot ETF outflows as market commentary. The Defiant page served only its headline deck (JS-gated body). The story is price movement and flow analysis without a discrete concrete event, so it falls under the price-chatter exclusion.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-16T04:21:44.948Z",
+      "lastReviewedDay": "2026-11-16"
     },
     "77ff64716f7c1351a15c": {
       "source": "BeInCrypto",
@@ -349231,6 +349245,22 @@
           ],
           "reviewedAt": "2026-11-16T04:21:11.335Z",
           "articleSlug": "gptwallet"
+        },
+        "7aa7c0932e4da6657a2a": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Cointelegraph's Nov. 15 article in full: it reports BTC's Sunday low near 2,080 per CoinGecko, weekly ETH/SOL losses, the Fear & Greed index at 10, and two weeks of spot ETF outflows as market commentary. The Defiant page served only its headline deck (JS-gated body). The story is price movement and flow analysis without a discrete concrete event, so it falls under the price-chatter exclusion.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:21:44.948Z"
         }
       },
       "baselineSlugs": [
