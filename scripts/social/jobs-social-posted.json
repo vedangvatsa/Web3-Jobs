@@ -143258,6 +143258,41 @@
       "attemptId": "255b13d3-5954-43e8-aa58-02e8cb007756",
       "verification": "verified",
       "postId": "0x6df8063ffabf5ab729a343083abe0e8ce69e95d6"
+    },
+    {
+      "slug": "an126",
+      "company": "Unlimit",
+      "title": "Fraud & Dispute Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-16T11:32:38.410Z",
+      "expectedText": "Unlimit is hiring Fraud & Dispute Analyst\n\nhttps://hashtagweb3.com/an126/fc?og=7",
+      "snapshot": {
+        "id": "37c45e51-f51d-4c46-8a3c-8641f635ff09",
+        "title": "Fraud & Dispute Analyst",
+        "company": "Unlimit",
+        "link": "https://jobs.lever.co/unlimit/37c45e51-f51d-4c46-8a3c-8641f635ff09",
+        "date": "2026-10-23T09:13:21.872Z",
+        "source": "Lever: Unlimit [unlimit]",
+        "location": "Belgrade",
+        "workplaceType": "onsite",
+        "department": "Risks",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.api.createdAt",
+        "slug": "an126"
+      },
+      "payload": {
+        "text": "Unlimit is hiring Fraud & Dispute Analyst\n\nhttps://hashtagweb3.com/an126/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an126/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "900af75d-4197-4ed4-81b2-a07ed08717bd",
+      "verification": "creating"
     }
   ]
 }
