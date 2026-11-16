@@ -2040,7 +2040,7 @@
     "sentAt": "2026-11-16T11:32:41.035Z"
   },
   "9b24dd4f-179e-463c-89f3-3f0b23a645a3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T11:32:42.844Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -2157,6 +2157,8 @@
       }
     ],
     "message": "- DFNS is hiring <a href=\"https://hashtagweb3.com/sls480?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Account Director, Latin America</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/pm377?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Design, Product Design</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/aso62?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate/Vice President, Finance (APAC)</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm247?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal/Senior Product Manager, User Center</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls470?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive</a>",
-    "slotKey": "2026-11-16:afternoon"
+    "slotKey": "2026-11-16:afternoon",
+    "messageId": 199,
+    "sentAt": "2026-11-16T11:32:51.270Z"
   }
 }
