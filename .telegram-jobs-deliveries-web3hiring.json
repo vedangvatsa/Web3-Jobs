@@ -2162,7 +2162,7 @@
     "sentAt": "2026-11-16T11:32:51.270Z"
   },
   "426b96f9-9264-45d3-82d3-6157aef3906d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T19:32:28.827Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -2276,6 +2276,8 @@
       }
     ],
     "message": "- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/sec72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Technical Staff - IT &amp; Security Eng.</a>\n- Open Standard is hiring <a href=\"https://hashtagweb3.com/bfi?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Banking and Financial Institutions Lead</a>\n- Kalshi is hiring <a href=\"https://hashtagweb3.com/sls497?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accounting Operations</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/eng362?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/eng744?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior MarTech Engineer</a>",
-    "slotKey": "2026-11-16:evening"
+    "slotKey": "2026-11-16:evening",
+    "messageId": 16654,
+    "sentAt": "2026-11-16T19:32:41.401Z"
   }
 }
