@@ -23,6 +23,9 @@
   "https://hashtagweb3.com/tethergold?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xstockseu?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/monadvisa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/moodyspilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binancecfo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -71,6 +74,12 @@
   "Kraken's xStocks adds more than 200 UK and EU stocks as assets top $1.1 billion",
   "Visa Adds Monad to Stablecoin Settlement Program",
   "Monad joins Visa's stablecoin settlement program as run rate tops $25 billion",
+  "Moody's and Chainlink Test Delivering Credit Ratings Across Blockchains",
+  "Moody's and Chainlink test sending credit ratings to several chains at once",
+  "Anza proposes removing Solana's durable nonce feature",
+  "Anza files Solana proposal to remove durable nonces",
+  "Binance Replaces CFO Kaiser Ng With Justin Yek",
+  "Binance CFO Kaiser Ng steps down as Justin Yek appointed finance chief",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -94,5 +103,8 @@
   "fp:000|100|400|advertis|allocat|award|campaign|ecosystem|fee|firm",
   "fp:089|2246b|22b|allocat|audit|behind|commodity|confirm|gold|held520",
   "fp:11b|500|add|adds200|asset|equity|european|hit|kraken|november11",
-  "fp:25b|add|can|com|functionality|join|monad|month|network|participat"
+  "fp:25b|add|can|com|functionality|join|monad|month|network|participat",
+  "fp:blockchain|ccip|chain|chainlink|credit|deliver|distribut|moody|network|november10",
+  "fp:anza|approval|drift|durabl|end|fil|hack|link|may2027|nonc",
+  "fp:appoint|binanc|breach|cfo|chief|cryptocurrency|down|exchang|financ|follow"
 ]
