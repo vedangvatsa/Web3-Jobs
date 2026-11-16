@@ -143400,7 +143400,8 @@
       },
       "account": "channel:defi",
       "attemptId": "25c328b5-1f38-41d3-96ff-8dab96b72377",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1a54c81062bd21da6b67e5250ce22c54a6d45135"
     }
   ]
 }
