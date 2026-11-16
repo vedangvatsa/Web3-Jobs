@@ -20876,30 +20876,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-9e6841c0a4b0bc8c"></a>
-
-## Intro to Soldering & Electronics: Make A Mini Piano
-
-- Record: `luma-evt-1JE349eq1rNgf3w`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/mfq4ajz9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-16acfdafb030da7f"></a>
-
-## Solo Unicorn Roundtable · Series 04
-
-- Record: `luma-evt-D7XC7EDEpLaQI2A`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/y4uu0xv2>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-32a51948369128e8"></a>
 
 ## 2026 Good Morning Silicon Valley Association \| Youth Innovators: From Design Thinking to Impact Workshop for High School Students
@@ -20909,18 +20885,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-17T19:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/535mxqt7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-845a1b85276db34a"></a>
-
-## Small Business EV Launchpad Informational Session + Ride and Drive
-
-- Record: `luma-evt-aGVhcK2QkFz23Qe`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T19:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/qc1iuo9z>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31682,7 +31646,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-cae5520a0c054cbb"></a>
 
-## Head Down 5K × Solana \| 445 CREW
+## Head Down 5K × Solana \| 445 CREW \| 4:45am! Start
 
 - Record: `luma-evt-lGPL5HySBC1yYnb`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -32282,6 +32246,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-38e4187e99462ed4"></a>
+
+## Bitcoin Actu à Paris
+
+- Record: `luma-evt-qkEwBIIYQ2iA5nM`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4j761747>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-38ef5168481d4057"></a>
 
 ## BitDevs: Bitcoin Socratic Seminar #56
@@ -32726,6 +32702,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-022b250c2cea66c7"></a>
+
+## Live AI Crypto Trading Demo + Founder Q&A
+
+- Record: `mu-317208922`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T11:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/los-angeles-double-your-crypto-club/events/317208922/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d68528e8f298fc4c"></a>
 
 ## Digital Asset Night with BIT and AMINA
@@ -32903,6 +32891,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19T18:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/bitcoin-open-blockchain-community-chicago/events/316858413/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-be3beeb8e8e43266"></a>
+
+## Crypto talk - Money is Freedom; currency is slavery
+
+- Record: `mu-317424887`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T19:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/cashflow-271/events/317424887/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33827,6 +33827,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-25T18:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/encode-r77e>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-47d0860c7b00b2ec"></a>
+
+## Phoenix World Blockchain Group : RWA,Defi,DefAi and More ..
+
+- Record: `mu-317449479`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T19:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/phoenix-wbc-meetup-group/events/317449479/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34851,6 +34863,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-05T08:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/qjs01ta3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-749eaa28580044c3"></a>
+
+## The Basics of Options: From Definitions to Your First Trade
+
+- Record: `mu-317454520`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/phoenix-options-trading-group/events/317454520/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

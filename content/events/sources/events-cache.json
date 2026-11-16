@@ -3654,7 +3654,7 @@
     "country": "UAE",
     "location": "Dubai, UAE",
     "url": "https://blockchain-life.com/",
-    "coverImage": "/events/ma-blockchain-life-c96ab12f.webp",
+    "coverImage": "/events/ma-blockchain-life-2027-e20cf0e9.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -3712,20 +3712,6 @@
     "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-1754ed95.webp",
     "source": "luma-trusted",
     "month": "November 2026"
-  },
-  {
-    "id": "luma-evt-aGVhcK2QkFz23Qe",
-    "name": "Small Business EV Launchpad Informational Session + Ride and Drive",
-    "description": "",
-    "startDate": "2026-10-17T19:30:00.000Z",
-    "endDate": "2026-10-17T21:00:00.000Z",
-    "city": "Tukwila",
-    "country": "United States",
-    "location": "Tukwila, United States",
-    "url": "https://lu.ma/qc1iuo9z",
-    "coverImage": "/events/luma-evt-agvhck2qkfz23qe-6a5f429d.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-host-evt-evt-tdoYjLUc0hLUU1N",
@@ -6240,34 +6226,6 @@
       "pageTitle": "ETHwali",
       "sha256": "3439dea11581132147971682cf1832d94bd4d09ea89168c1cc12029ca7ff0a2b"
     }
-  },
-  {
-    "id": "luma-evt-1JE349eq1rNgf3w",
-    "name": "Intro to Soldering & Electronics: Make A Mini Piano",
-    "description": "",
-    "startDate": "2026-10-17T18:00:00.000Z",
-    "endDate": "2026-10-17T21:00:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, United States",
-    "url": "https://lu.ma/mfq4ajz9",
-    "coverImage": "/events/luma-evt-1je349eq1rngf3w-dee74ab2.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-D7XC7EDEpLaQI2A",
-    "name": "Solo Unicorn Roundtable · Series 04",
-    "description": "",
-    "startDate": "2026-10-17T18:00:00.000Z",
-    "endDate": "2026-10-17T21:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/y4uu0xv2",
-    "coverImage": "/events/luma-evt-d7xc7edeplaqi2a-1262cec7.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-Icr0U7ovq9nQQ2Q",
@@ -13104,7 +13062,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-phoenix/events/317065033/",
-    "coverImage": "/events/mu-317065033-3914150e.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -14262,14 +14220,14 @@
   {
     "id": "mu-317181350",
     "name": "Dinner at Oliver's Modern American",
-    "description": "Let's have happy hour/dinner at [Oliver's](https://www.oliversaz.com/) in Scottsdale! The weather is great now so we'll be on the patio.\n\nAt Oliver’s, they redefine fine dining by seamlessly blending",
+    "description": "Let's have happy hour/dinner at [Oliver's](https://www.oliversaz.com/) in Scottsdale! The weather is great now so we'll be on the patio.\n\nAt Oliver’s, they redefine fine dining by seamlessly blending ",
     "startDate": "2026-11-20T17:30:00-07:00",
     "endDate": "2026-11-20T17:30:00-07:00",
     "city": "Scottsdale",
     "country": "us",
     "location": "Scottsdale, us",
     "url": "https://www.meetup.com/arizona-stock-options-and-futures-investors/events/317181350/",
-    "coverImage": "/events/mu-317181350-e1c4f221.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -17180,7 +17138,7 @@
   },
   {
     "id": "luma-evt-lGPL5HySBC1yYnb",
-    "name": "Head Down 5K × Solana | 445 CREW",
+    "name": "Head Down 5K × Solana | 445 CREW | 4:45am! Start",
     "description": "",
     "startDate": "2026-11-17T04:45:00.000Z",
     "endDate": "2026-11-17T05:45:00.000Z",
@@ -17636,7 +17594,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317385759/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317385759-aae595e1.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20773,7 +20731,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20804,5 +20762,75 @@
     "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
+  },
+  {
+    "id": "luma-evt-qkEwBIIYQ2iA5nM",
+    "name": "Bitcoin Actu à Paris",
+    "description": "",
+    "startDate": "2026-11-18T17:30:00.000Z",
+    "endDate": "2026-11-18T22:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/4j761747",
+    "coverImage": "/events/luma-evt-qkewbiiyq2ia5nm-0faddbb7.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317208922",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-11-19T11:00:00-08:00",
+    "endDate": "2026-11-19T11:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/317208922/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317424887",
+    "name": "Crypto talk - Money is Freedom; currency is slavery ",
+    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
+    "startDate": "2026-11-19T19:00:00-07:00",
+    "endDate": "2026-11-19T19:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cashflow-271/events/317424887/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317449479",
+    "name": "Phoenix World Blockchain Group : RWA,Defi,DefAi and More ..",
+    "description": "🌐 Let's Meetup and Build a Blockchain Community in Phoenix City 🌐\nWho are we : Phoenix World Blockchain Group\n\nnote if rsvp fills up you can still attend venue can hold alot of people!)\n\nJoin the Ph",
+    "startDate": "2026-11-25T19:00:00-07:00",
+    "endDate": "2026-11-25T19:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/phoenix-wbc-meetup-group/events/317449479/",
+    "coverImage": "/events/mu-317449479-918be00f.webp",
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317454520",
+    "name": "The Basics of Options: From Definitions to Your First Trade ",
+    "description": "**Traders of all levels are welcome to join and learn!**\n\n**Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
+    "startDate": "2026-12-05T09:00:00-07:00",
+    "endDate": "2026-12-05T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/phoenix-options-trading-group/events/317454520/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
   }
 ]
