@@ -262,5 +262,36 @@
     "slotKey": "2026-11-16:morning",
     "messageId": 156278,
     "sentAt": "2026-11-16T03:32:38.190Z"
+  },
+  "a3158bc3-2a49-4828-88cf-7cedd6474cac": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T11:33:00.341Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Moody's and Chainlink Test Delivering Credit Ratings Across Blockchains",
+        "summary": "On November 10, the companies distributed test data across private and public networks using Chainlink's CCIP technology.",
+        "link": "https://hashtagweb3.com/moodyspilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Moody's and Chainlink test sending credit ratings to several chains at once"
+      },
+      {
+        "index": -1,
+        "headline": "Anza proposes removing Solana's durable nonce feature",
+        "summary": "Proposal SIMD-0723 would end pre-signed transaction approvals linked to the Drift hack by May 2027.",
+        "link": "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Anza files Solana proposal to remove durable nonces"
+      },
+      {
+        "index": -1,
+        "headline": "Binance Replaces CFO Kaiser Ng With Justin Yek",
+        "summary": "The pre-planned transition occurred following a record security breach at the cryptocurrency exchange.",
+        "link": "https://hashtagweb3.com/binancecfo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance CFO Kaiser Ng steps down as Justin Yek appointed finance chief"
+      }
+    ],
+    "slotKey": "2026-11-16:afternoon"
   }
 }
