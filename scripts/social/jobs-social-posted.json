@@ -144308,6 +144308,46 @@
       "attemptId": "fbd46bdf-4246-4d8b-b7fd-4aae6b4c9078",
       "verification": "verified",
       "postId": "0x0d2b9ad569cd8896c8a0c195871676181fc6f8e2"
+    },
+    {
+      "slug": "pm379",
+      "company": "StraitsX",
+      "title": "Senior Product Manager, Treasury",
+      "platform": "linkedin",
+      "postedAt": "2026-11-16T11:36:42.614Z",
+      "expectedText": "StraitsX is hiring Senior Product Manager, Treasury: https://hashtagweb3.com/pm379/li?og=7",
+      "snapshot": {
+        "id": "5014686101",
+        "title": "Senior Product Manager, Treasury",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5014686101",
+        "date": "2026-11-09T06:15:36-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm379"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Senior Product Manager, Treasury: https://hashtagweb3.com/pm379/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm379/li?og=7",
+          "title": "Senior Product Manager, Treasury at StraitsX",
+          "description": "Join StraitsX as Senior Product Manager, Treasury. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og-image.png"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "b4b63a6c-5964-4840-b7b3-9873291a9db7",
+      "verification": "creating"
     }
   ]
 }
