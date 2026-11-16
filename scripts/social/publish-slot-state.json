@@ -1183,10 +1183,12 @@
           "coinonehack",
           "comeback"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-16T21:37:10.917Z",
         "buildId": "daily-20261116-43960313419-1",
-        "rolloutId": "daily-20261116-43960313419-1"
+        "rolloutId": "daily-20261116-43960313419-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-16T22:08:25.973Z"
       }
     ]
   }
