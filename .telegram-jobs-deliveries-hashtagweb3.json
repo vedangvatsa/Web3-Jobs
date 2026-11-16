@@ -1066,7 +1066,7 @@
     "sentAt": "2026-11-16T11:33:01.689Z"
   },
   "6e2ee513-1535-4b1d-ad92-554f8a206a2d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T19:32:52.172Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1186,6 +1186,8 @@
       }
     ],
     "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/sls293?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tax Accountant / Senior Tax Accountant</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/pm391?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager</a>\n- Kamino is hiring <a href=\"https://hashtagweb3.com/peo2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of People</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng646?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Core Data Engineer</a>\n- Altitude is hiring <a href=\"https://hashtagweb3.com/sls394?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive</a>",
-    "slotKey": "2026-11-16:evening"
+    "slotKey": "2026-11-16:evening",
+    "messageId": 156286,
+    "sentAt": "2026-11-16T19:32:56.218Z"
   }
 }
