@@ -119,6 +119,34 @@ async function main() {
     return;
   }
 
+  if (mode === 'probe') {
+    // Read-only endpoint reconnaissance for the engagement-ranking design.
+    const emails = await api('/emails?limit=5');
+    const first = emails?.data?.[0] || null;
+    const emailsNext = await api('/emails?limit=100').catch(error => ({ error: String(error.message) }));
+    const broadcasts = await api('/broadcasts?limit=5').catch(error => ({ error: String(error.message) }));
+    const segments = await listSegments();
+    const contactShape = focusId ? await api(`/audiences/${focusId}/contacts?limit=2`).catch(error => ({ error: String(error.message) })) : null;
+    console.log(JSON.stringify({
+      mode,
+      emailsShape: {
+        returned: Array.isArray(emails?.data) ? emails.data.length : null,
+        keys: first ? Object.keys(first) : null,
+        firstRecord: first ? { subject: String(first.subject || '').slice(0, 60), to: `${String(first.to || '?').slice(0, 3)}***`, last_event: first.last_event ?? null, created_at: first.created_at ?? null, status: first.status ?? null } : null,
+        limit100Returned: Array.isArray(emailsNext?.data) ? emailsNext.data.length : null,
+        hasMoreField: emailsNext && 'has_more' in emailsNext ? emailsNext.has_more : 'absent',
+      },
+      broadcastsShape: broadcasts?.error ? { error: broadcasts.error } : {
+        returned: Array.isArray(broadcasts?.data) ? broadcasts.data.length : null,
+        keys: broadcasts?.data?.[0] ? Object.keys(broadcasts.data[0]) : null,
+        firstRecord: broadcasts?.data?.[0] ? { name: broadcasts.data[0].name, status: broadcasts.data[0].status, sent_at: broadcasts.data[0].sent_at ?? null } : null,
+      },
+      segments: segments === null ? 'endpoint-unavailable' : segments,
+      contactKeys: Array.isArray(contactShape?.data) && contactShape.data[0] ? Object.keys(contactShape.data[0]) : contactShape,
+    }));
+    return;
+  }
+
   if (mode !== 'trim') throw new Error(`Unknown mode: ${mode}`);
   throw new Error('trim mode not wired yet — audit first, then enable with confirmed keep criteria');
 }
