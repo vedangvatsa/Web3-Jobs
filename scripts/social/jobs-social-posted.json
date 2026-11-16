@@ -142802,6 +142802,47 @@
       "verification": "verified",
       "postId": "6afa7b288e87c256a3ad6c9a",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7527938687364399104"
+    },
+    {
+      "slug": "sec112",
+      "company": "Bybit",
+      "title": "Cloud Security Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-16T03:37:48.234Z",
+      "expectedText": "Bybit is hiring Cloud Security Engineer: https://hashtagweb3.com/sec112/li?og=7",
+      "snapshot": {
+        "id": "5019139101",
+        "title": "Cloud Security Engineer",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5019139101",
+        "date": "2026-11-11T03:55:00-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Kuala Lumpur, Malaysia",
+        "department": "Security",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec112"
+      },
+      "payload": {
+        "text": "Bybit is hiring Cloud Security Engineer: https://hashtagweb3.com/sec112/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec112/li?og=7",
+          "title": "Cloud Security Engineer at Bybit",
+          "description": "Join Bybit as Cloud Security Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og-image.png"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "ac700c4a-c0f0-4800-a5c2-0252fb681bc2",
+      "verification": "creating"
     }
   ]
 }
