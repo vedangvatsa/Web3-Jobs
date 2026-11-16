@@ -62,9 +62,12 @@ jobs:
         env:
           RESEND_BROADCASTS_PAUSED: ${{ vars.RESEND_BROADCASTS_PAUSED }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          # Broadcasts require RESEND_SEGMENT_ID (General = all subscribers). RESEND_AUDIENCE_ID is a legacy alias.
+          # Broadcasts require RESEND_SEGMENT_ID (Daily1000 = capped keep-set).
+          # RESEND_AUDIENCE_ID is a legacy alias. The min-contacts guard default
+          # is 50000, which exceeds the downgraded plan's 1000-contact cap.
           RESEND_SEGMENT_ID: ${{ secrets.RESEND_SEGMENT_ID || secrets.RESEND_AUDIENCE_ID }}
           RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+          RESEND_MIN_SEGMENT_CONTACTS: ${{ vars.RESEND_MIN_SEGMENT_CONTACTS || '500' }}
           EMAIL_FROM: Alex <alex@hi.hashtagweb3.com>
           NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com
 
