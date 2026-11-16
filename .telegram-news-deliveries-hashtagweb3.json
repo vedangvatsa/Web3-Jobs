@@ -229,5 +229,36 @@
     "slotKey": "2026-11-15:evening",
     "messageId": 156276,
     "sentAt": "2026-11-15T19:32:57.813Z"
+  },
+  "21ef3c71-f1cd-4dad-a4dc-6c1c1ac98e72": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T03:32:30.358Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "KPMG Audit Confirms Tether Gold Reserves Worth $2.2 Billion",
+        "summary": "On Nov. 12, KPMG verified TG Commodities held 520,089 troy ounces of allocated gold worth $2.246 billion.",
+        "link": "https://hashtagweb3.com/tethergold?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "KPMG audit confirms $2.2 billion of gold behind Tether Gold"
+      },
+      {
+        "index": -1,
+        "headline": "Kraken's xStocks Adds 200 European Stocks as Assets Hit $1.1B",
+        "summary": "Payward tokenized the new UK and EU equities on November 11, pushing total platform offerings past 1,500 assets.",
+        "link": "https://hashtagweb3.com/xstockseu?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kraken's xStocks adds more than 200 UK and EU stocks as assets top $1.1 billion"
+      },
+      {
+        "index": -1,
+        "headline": "Visa Adds Monad to Stablecoin Settlement Program",
+        "summary": "Participating Visa partners can use the network for settlements, with privacy functionality launching in coming months.",
+        "link": "https://hashtagweb3.com/monadvisa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Monad joins Visa's stablecoin settlement program as run rate tops $25 billion"
+      }
+    ],
+    "slotKey": "2026-11-16:morning"
   }
 }
