@@ -141508,7 +141508,8 @@
       },
       "account": "channel:developers",
       "attemptId": "f4ff49da-3de5-4871-bdad-cf454d33f225",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb36dee059f3e5a89fe8fdc3cdfdf681963751f4f"
     }
   ]
 }
