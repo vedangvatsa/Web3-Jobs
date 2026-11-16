@@ -273,7 +273,7 @@
     "sentAt": "2026-11-15T19:32:20.166Z"
   },
   "c53d6294-59ce-47d1-9b49-72639a8dbaf0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-16T03:33:09.353Z",
     "stories": [
       {
@@ -305,6 +305,8 @@
         "originalTitle": "Apple launches new app to study how people use AI for health"
       }
     ],
-    "slotKey": "2026-11-16:morning"
+    "slotKey": "2026-11-16:morning",
+    "messageId": 193525,
+    "sentAt": "2026-11-16T03:33:11.881Z"
   }
 }

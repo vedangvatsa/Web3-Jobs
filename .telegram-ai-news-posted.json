@@ -20,6 +20,9 @@
   "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
   "https://the-decoder.com/anthropics-claude-fable-5-2-doesnt-generate-images-it-paints-them/",
   "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
+  "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+  "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+  "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -62,6 +65,12 @@
   "Anthropic's Claude Fable 5.2 doesn't generate images, it paints them",
   "Bland releases Tofu-1 full-duplex speech model for enterprise calls",
   "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
+  "Anthropic sets Claude Opus 5.5 as default model",
+  "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+  "ElevenLabs releases meeting transcription app for enterprise teams",
+  "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+  "Apple launches research app for AI health queries",
+  "Apple launches new app to study how people use AI for health",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -82,5 +91,8 @@
   "fp:adoption|age25|australia|australian|automat|bank|central|customer|declin|entry",
   "fp:can|chip|comply|confirm|even|export|feasibility|fight|hardwar|lawmaker",
   "fp:anthropic|bas|brushstrok|cod|creat|directly|doesn|execut|fable52|generat",
-  "fp:bland|call|conversational|duplex|dur|environment|full|handl|interaction|noisy"
+  "fp:bland|call|conversational|duplex|dur|environment|full|handl|interaction|noisy",
+  "fp:anthropic|are|default|down|engineer|guidanc|habit|opus55|outdat|paid",
+  "fp:app|automat|combin|corporat|dictation|elevenlab|meet|not|organizational|tak",
+  "fp:answer|app|appl|common|health|how|medical|peopl|query|question"
 ]
