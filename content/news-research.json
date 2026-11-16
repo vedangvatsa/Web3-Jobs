@@ -173550,14 +173550,26 @@
         "The Defiant"
       ],
       "id": "7e234094c6deae67f56a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-16T06:03:41.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
-      "reason": "source-blocked",
-      "note": "Retried both candidate URLs this round: CoinDesk returned HTTP 429 again and The Defiant page still serves only its headline deck without the article body. No third outlet is on the candidate, so the reported Kraken debt terms remain uncorroborated.",
+      "reason": "verified-event",
+      "note": "Found and read primary SEC 8-K (Nov 11 amendment), Nakamoto's Nov 12 press release, and crypto.news Nov 13 independent report; CoinDesk still 429 and The Defiant body still JS-gated, but three readable sources cover the loan extension, collateral terms and coverage figures. Drafted nakamotoloan with all audits passing.",
       "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051437/form8-k.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.nakamoto.com/updates/nakamoto-extends-maturity-of-kraken-loan",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/nakamoto-165-million-kraken-loan-bitcoin-collateral/",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
           "outcome": "blocked"
@@ -173567,12 +173579,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-15T04:11:37.136Z",
+      "reviewedAt": "2026-11-16T04:27:23.431Z",
       "retrySearches": [
         "Find readable independent reporting on Nakamoto owing Kraken 165 million dollars and the delayed payment terms"
       ],
-      "lastReviewedDay": "2026-11-15",
-      "nextReviewDate": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "articleSlug": "nakamotoloan"
     },
     "740d919ee3b210c975b4": {
       "source": "CoinDesk",
@@ -349291,6 +349303,35 @@
             }
           ],
           "reviewedAt": "2026-11-16T04:22:19.024Z"
+        },
+        "7e234094c6deae67f56a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Found and read primary SEC 8-K (Nov 11 amendment), Nakamoto's Nov 12 press release, and crypto.news Nov 13 independent report; CoinDesk still 429 and The Defiant body still JS-gated, but three readable sources cover the loan extension, collateral terms and coverage figures. Drafted nakamotoloan with all audits passing.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051437/form8-k.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.nakamoto.com/updates/nakamoto-extends-maturity-of-kraken-loan",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/nakamoto-165-million-kraken-loan-bitcoin-collateral/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/nakamoto-delays-kraken-debt-as-bitcoin-collateral-falls",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:27:23.431Z",
+          "articleSlug": "nakamotoloan"
         }
       },
       "baselineSlugs": [
