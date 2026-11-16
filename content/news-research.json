@@ -173687,11 +173687,11 @@
       "id": "7ff82c504861034008e9",
       "status": "deferred",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-16T05:08:59.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "reason": "source-blocked",
-      "note": "Reopened Crypto Briefing's Nov. 13 piece: it is explicitly prediction-market analysis citing Bloomberg Technology, with no SEC filing, company statement or executive confirmation of advancing merger talks. CoinDesk's article returned HTTP 429 to a direct GET this round. No official source or second independent report corroborates the claimed advance, and the existing spacextesla article already covers the merger exploration itself.",
+      "note": "CoinDesk's Nov. 13 article returned a Vercel security checkpoint (HTTP 429/challenge) to a direct GET with the source-readiness User-Agent this round, so it could not be read. The Crypto Briefing piece previously read is prediction-market analysis citing Bloomberg Technology with no SEC filing or company confirmation of advancing merger talks, and the existing spacextesla article already covers the merger exploration itself.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/spacex-tesla-merger-talks-reportedly-advance-potential-announcement-by-year-end/",
@@ -173702,12 +173702,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-15T04:23:58.585Z",
+      "reviewedAt": "2026-11-16T04:38:40.623Z",
       "retrySearches": [
         "Find the Bloomberg Technology original report or official SEC or company confirmation of advancing SpaceX-Tesla merger talks with dates and terms"
       ],
-      "lastReviewedDay": "2026-11-15",
-      "nextReviewDate": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "nextReviewDate": "2026-11-17"
     },
     "02f772beb76e343a3fc0": {
       "source": "CryptoSlate",
@@ -177420,11 +177420,11 @@
       "id": "06e456610bff91e6d877",
       "status": "deferred",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-16T12:14:22.000Z",
       "lastSeenAt": "2026-11-14T00:24:57.356Z",
       "reason": "source-blocked",
-      "note": "CoinDesk's daybook article returned HTTP 429 on GET. The Defiant's second URL returned HTTP 200 but its body is JS-gated, serving only the headline deck about Bitcoin breaking below 9,000 with Ether, XRP and SOL at four-week lows, which is not the CoinDesk momentum-gauge story. Neither source's full reporting could be read this round.",
+      "note": "CoinDesk's Nov. 13 daybook article returned a Vercel security checkpoint (HTTP 429/challenge) to a direct GET with the source-readiness User-Agent this round, so its momentum-gauge reporting could not be read. The alternate The Defiant URL responds HTTP 200 but serves only a JS-gated headline deck about a different story (Bitcoin breaking below 69,000), not the momentum-gauge article.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
@@ -177435,12 +177435,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-15T04:11:33.721Z",
+      "reviewedAt": "2026-11-16T04:38:40.623Z",
       "retrySearches": [
-        "Retry the CoinDesk momentum-gauge daybook article after its HTTP 429 and confirm whether it is price analysis rather than a concrete event"
+        "Retry the CoinDesk momentum-gauge daybook article after its HTTP 429/Vercel challenge and confirm whether it is price analysis rather than a concrete event"
       ],
-      "lastReviewedDay": "2026-11-15",
-      "nextReviewDate": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "nextReviewDate": "2026-11-17"
     },
     "d467844f8e3392600334": {
       "source": "Bitcoin Magazine",
@@ -180652,11 +180652,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "7736e53a9ca0a250c6fa",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T16:04:51.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read Crypto Briefing's Nov. 14 piece in full: it summarizes Goldman Sachs's 'Growing Pains' 2027 asset-allocation report and Hatzius macro outlook (2.8% global GDP forecast, S&P target, Fed path, AI spend projection). This is bank forecast and market analysis, not a launch, vote, ruling, filing, hack, raise or upgrade. BeInCrypto's second URL returned HTTP 403 and could not be opened.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/goldman-sachs-2027-outlook-ai-risk/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/goldman-sachs-2027-economic-outlook/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-16T04:38:40.623Z",
+      "lastReviewedDay": "2026-11-16"
     },
     "6d7b4363a21403edf0c2": {
       "source": "Crypto Briefing",
@@ -182865,11 +182879,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "92e2587ba1cd02902913",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T21:09:47.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "reason": "price-chatter",
+      "note": "Read Crypto Briefing's Nov. 15 piece in full: it relays Morgan Stanley's Nick Savone commentary on hedge fund net leverage at the 0th percentile of the past year, retail Nvidia buying and a marathon metaphor for the AI trade. Positioning and flow commentary with no concrete event. Both candidate URLs are Crypto Briefing, so there is no independent second outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/hedge-funds-fold-retail-buys-nvidia/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-16T04:38:40.623Z",
+      "lastReviewedDay": "2026-11-16"
     },
     "f150cab63587fa45f412": {
       "source": "Crypto Briefing",
@@ -183350,11 +183374,25 @@
         "The Defiant"
       ],
       "id": "0385526d1093de370000",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T08:00:11.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read CryptoSlate's Nov. 15 article in full: it analyzes mechanics of Lido Lend's Nov. 9 consolidated proposal (market freeze vs controller pause, interest accrual during pause, Emergency Brakes Committee). The article itself states the forum thread announced no completed acceptance vote and no first market creation, and labels the design 'Proposed Lido Lend design, not a live pause.' Analysis of a draft proposal, not a completed event. The Defiant second URL returned HTTP 403.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-16T04:38:40.623Z",
+      "lastReviewedDay": "2026-11-16"
     },
     "42372d43109b4c4eac85": {
       "source": "CryptoSlate",
@@ -349369,6 +349407,88 @@
           "reviewedAt": "2026-11-16T04:29:07.212Z",
           "retrySearches": [
             "Find readable independent reporting on the November 2026 Bitcoin mining difficulty drop of 9.1% with the adjustment date and new difficulty level"
+          ]
+        },
+        "7736e53a9ca0a250c6fa": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read Crypto Briefing's Nov. 14 piece in full: it summarizes Goldman Sachs's 'Growing Pains' 2027 asset-allocation report and Hatzius macro outlook (2.8% global GDP forecast, S&P target, Fed path, AI spend projection). This is bank forecast and market analysis, not a launch, vote, ruling, filing, hack, raise or upgrade. BeInCrypto's second URL returned HTTP 403 and could not be opened.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/goldman-sachs-2027-outlook-ai-risk/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/goldman-sachs-2027-economic-outlook/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:38:40.623Z"
+        },
+        "92e2587ba1cd02902913": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Crypto Briefing's Nov. 15 piece in full: it relays Morgan Stanley's Nick Savone commentary on hedge fund net leverage at the 0th percentile of the past year, retail Nvidia buying and a marathon metaphor for the AI trade. Positioning and flow commentary with no concrete event. Both candidate URLs are Crypto Briefing, so there is no independent second outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/hedge-funds-fold-retail-buys-nvidia/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:38:40.623Z"
+        },
+        "0385526d1093de370000": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read CryptoSlate's Nov. 15 article in full: it analyzes mechanics of Lido Lend's Nov. 9 consolidated proposal (market freeze vs controller pause, interest accrual during pause, Emergency Brakes Committee). The article itself states the forum thread announced no completed acceptance vote and no first market creation, and labels the design 'Proposed Lido Lend design, not a live pause.' Analysis of a draft proposal, not a completed event. The Defiant second URL returned HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:38:40.623Z"
+        },
+        "7ff82c504861034008e9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CoinDesk's Nov. 13 article returned a Vercel security checkpoint (HTTP 429/challenge) to a direct GET with the source-readiness User-Agent this round, so it could not be read. The Crypto Briefing piece previously read is prediction-market analysis citing Bloomberg Technology with no SEC filing or company confirmation of advancing merger talks, and the existing spacextesla article already covers the merger exploration itself.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/spacex-tesla-merger-talks-reportedly-advance-potential-announcement-by-year-end/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:38:40.623Z",
+          "retrySearches": [
+            "Find the Bloomberg Technology original report or official SEC or company confirmation of advancing SpaceX-Tesla merger talks with dates and terms"
+          ]
+        },
+        "06e456610bff91e6d877": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CoinDesk's Nov. 13 daybook article returned a Vercel security checkpoint (HTTP 429/challenge) to a direct GET with the source-readiness User-Agent this round, so its momentum-gauge reporting could not be read. The alternate The Defiant URL responds HTTP 200 but serves only a JS-gated headline deck about a different story (Bitcoin breaking below 69,000), not the momentum-gauge article.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/bitcoin-breaks-below-69-000-as-selloff-sets-new-lows",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:38:40.623Z",
+          "retrySearches": [
+            "Retry the CoinDesk momentum-gauge daybook article after its HTTP 429/Vercel challenge and confirm whether it is price analysis rather than a concrete event"
           ]
         }
       },
