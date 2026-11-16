@@ -348,12 +348,41 @@ async function main() {
     if (!/^[0-9a-f-]{20,}$/i.test(segmentId)) throw new Error('segment requires --segment-id <uuid>');
     const outDir = args['out-dir'] || 'resend-rank-out';
     fs.mkdirSync(outDir, { recursive: true });
-    const maxEmailPages = Math.max(1, Number(args['max-email-pages']) || 1500);
     const keepCount = Math.max(1, Number(args['keep-count']) || 1000);
+    const strategy = args['strategy'] || 'engagement';
 
-    const { contacts, ranked } = await buildRanking({ maxEmailPages, progressLabel: 'segment' });
-    const top = ranked.slice(0, keepCount);
-    const topIds = new Set(top.map(c => c.id));
+    let top;
+    if (strategy === 'newest') {
+      // No engagement signal exists for this audience (broadcasts paused before
+      // the /emails API window). Newest contact per unique email wins.
+      let contacts;
+      if (args['contacts-file']) {
+        contacts = JSON.parse(fs.readFileSync(args['contacts-file'], 'utf8'));
+        console.error(`[segment] contacts from file: ${contacts.length}`);
+      } else {
+        if (!focusId) throw new Error('segment requires RESEND_AUDIENCE_ID (focus audience)');
+        contacts = [];
+        for await (const contact of paginateContacts(focusId)) {
+          contacts.push({ id: contact.id, email: String(contact.email || '').toLowerCase(), created_at: contact.created_at ?? null, unsubscribed: Boolean(contact.unsubscribed) });
+          if (contacts.length % 10000 === 0) console.error(`[segment] contacts: ${contacts.length}...`);
+        }
+        console.error(`[segment] contacts total: ${contacts.length}`);
+      }
+      const byEmail = new Map();
+      for (const contact of contacts) {
+        if (!contact.id || !contact.email) continue;
+        const prev = byEmail.get(contact.email);
+        if (!prev || String(contact.created_at || '') > String(prev.created_at || '')) byEmail.set(contact.email, contact);
+      }
+      const newest = [...byEmail.values()].sort((a, b) => String(b.created_at || '').localeCompare(String(a.created_at || '')));
+      top = newest.slice(0, keepCount);
+      fs.writeFileSync(`${outDir}/contacts.json`, JSON.stringify(contacts.map(c => ({ ...c, email: maskEmail(c.email), inTop: top.some(t => t.id === c.id) }))));
+    } else {
+      const maxEmailPages = Math.max(1, Number(args['max-email-pages']) || 1500);
+      const built = await buildRanking({ maxEmailPages, progressLabel: 'segment' });
+      top = built.ranked.slice(0, keepCount);
+      fs.writeFileSync(`${outDir}/contacts.json`, JSON.stringify(built.contacts.map(c => ({ ...c, email: maskEmail(c.email), inTop: top.some(t => t.id === c.id) }))));
+    }
 
     // Already-members (paged from the segment) are skipped without re-adding.
     const members = [];
@@ -385,7 +414,6 @@ async function main() {
 
     fs.writeFileSync(`${outDir}/top.json`, JSON.stringify(top.map(c => ({ ...c, email: maskEmail(c.email) }))));
     fs.writeFileSync(`${outDir}/adds.json`, JSON.stringify(results));
-    fs.writeFileSync(`${outDir}/contacts.json`, JSON.stringify(contacts.map(c => ({ id: c.id, email: maskEmail(c.email), created_at: c.created_at, inTop: topIds.has(c.id) }))));
 
     // Post-write verification.
     const verify = [];

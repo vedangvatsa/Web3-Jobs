@@ -22,13 +22,13 @@ on:
         required: false
         default: '1000'
       keep_strategy:
-        description: 'trim only: which contacts survive'
+        description: 'segment mode: newest or engagement (trim always keeps the segment)'
         required: false
         type: choice
-        default: 'newest'
+        default: 'engagement'
         options:
           - newest
-          - segment-first
+          - engagement
       segment_id:
         description: 'segment mode: target segment (e.g. Daily1000)'
         required: false
@@ -54,7 +54,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Run
-        run: node scripts/resend-audience-trim.mjs --mode "${{ inputs.mode }}" --keep-count "${{ inputs.keep_count }}" --keep-strategy "${{ inputs.keep_strategy }}" --segment-id "${{ inputs.segment_id }}" --confirm "${{ inputs.confirm }}" --out-dir resend-rank-out
+        run: node scripts/resend-audience-trim.mjs --mode "${{ inputs.mode }}" --keep-count "${{ inputs.keep_count }}" --strategy "${{ inputs.keep_strategy }}" --segment-id "${{ inputs.segment_id }}" --confirm "${{ inputs.confirm }}" --out-dir resend-rank-out
       - name: Upload masked artifacts
         if: always() && hashFiles('resend-rank-out/**') != ''
         uses: actions/upload-artifact@v4
