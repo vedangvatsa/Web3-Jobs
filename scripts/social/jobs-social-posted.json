@@ -142228,6 +142228,40 @@
       "attemptId": "d1ea0dc3-c9c6-4650-86fb-561294d69284",
       "verification": "verified",
       "postId": "0x53810657961744e627276f933a6b9e3dea175adb"
+    },
+    {
+      "slug": "sec112",
+      "company": "Bybit",
+      "title": "Cloud Security Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-16T03:37:48.234Z",
+      "expectedText": "Bybit is hiring Cloud Security Engineer\n\nhttps://hashtagweb3.com/sec112/fc?og=7",
+      "snapshot": {
+        "id": "5019139101",
+        "title": "Cloud Security Engineer",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5019139101",
+        "date": "2026-11-11T03:55:00-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Kuala Lumpur, Malaysia",
+        "department": "Security",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec112"
+      },
+      "payload": {
+        "text": "Bybit is hiring Cloud Security Engineer\n\nhttps://hashtagweb3.com/sec112/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sec112/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "32f63dfa-d0ad-4e84-b29e-8206e65c54f2",
+      "verification": "creating"
     }
   ]
 }
