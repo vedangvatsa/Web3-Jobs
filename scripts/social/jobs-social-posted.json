@@ -142844,6 +142844,34 @@
       "attemptId": "ac700c4a-c0f0-4800-a5c2-0252fb681bc2",
       "verification": "creating",
       "error": "Expected a Hashtag Web3 job OG thumbnail"
+    },
+    {
+      "slug": "sec112",
+      "company": "Bybit",
+      "title": "Cloud Security Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-11-16T03:37:48.234Z",
+      "expectedText": "Bybit is hiring Cloud Security Engineer: https://hashtagweb3.com/sec112/fb?og=7",
+      "snapshot": {
+        "id": "5019139101",
+        "title": "Cloud Security Engineer",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5019139101",
+        "date": "2026-11-11T03:55:00-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Kuala Lumpur, Malaysia",
+        "department": "Security",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec112"
+      },
+      "payload": {
+        "message": "Bybit is hiring Cloud Security Engineer: https://hashtagweb3.com/sec112/fb?og=7",
+        "link": "https://hashtagweb3.com/sec112/fb?og=7"
+      },
+      "attemptId": "de4dbad0-aadc-4d50-98c3-6bdab613c16f",
+      "verification": "creating"
     }
   ]
 }
