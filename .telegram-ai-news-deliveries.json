@@ -347,5 +347,42 @@
     "slotKey": "2026-11-16:afternoon",
     "messageId": 193528,
     "sentAt": "2026-11-16T11:32:17.188Z"
+  },
+  "642be41a-feb5-407d-9449-ae2f8497ec2e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T19:32:30.573Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "[The Decoder] OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+        "headline": "OpenAI model solves long-standing particle physics problem",
+        "summary": "A researcher used the artificial intelligence system to create a working mathematical proof for quantum lattice models.",
+        "event_rationale": "This covers a major scientific research breakthrough where an OpenAI model solved a 25-year-old quantum physics problem.",
+        "link": "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+        "source": "The Decoder",
+        "originalTitle": "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice"
+      },
+      {
+        "index": 4,
+        "original_title": "[Ars Technica] US moves to cut China’s remote access to AI chips",
+        "headline": "US acts to restrict China from accessing AI chips remotely",
+        "summary": "The policy targets foreign entities using cloud computing infrastructure to run advanced artificial intelligence models remotely.",
+        "event_rationale": "This covers a new US regulatory move restricting foreign access to domestic AI hardware via cloud services, distinct from past investigations.",
+        "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+        "source": "Ars Technica",
+        "originalTitle": "US moves to cut China’s remote access to AI chips"
+      },
+      {
+        "index": 26,
+        "original_title": "[TechCrunch] Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+        "headline": "Dreamteam raises $53 million for AI customer software",
+        "summary": "The funding round will support software development to compete with legacy customer relationship management platforms.",
+        "event_rationale": "This covers a $53 million Series A funding round for an AI startup, meeting the threshold for major venture deals.",
+        "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+        "source": "TechCrunch",
+        "originalTitle": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM"
+      }
+    ],
+    "slotKey": "2026-11-16:evening"
   }
 }
