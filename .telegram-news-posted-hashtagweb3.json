@@ -20,6 +20,9 @@
   "https://hashtagweb3.com/dojseizure?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/dtccsolana?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zcashgrants?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tethergold?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xstockseu?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/monadvisa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -62,6 +65,12 @@
   "DTCC plans to bring tokenized DTC assets to Solana in second half of 2027",
   "Grayscale allocates $1 million from fund fees to Zcash",
   "Grayscale pledges $1 million to Zcash ecosystem with first $400,000 in grants",
+  "KPMG Audit Confirms Tether Gold Reserves Worth $2.2 Billion",
+  "KPMG audit confirms $2.2 billion of gold behind Tether Gold",
+  "Kraken's xStocks Adds 200 European Stocks as Assets Hit $1.1B",
+  "Kraken's xStocks adds more than 200 UK and EU stocks as assets top $1.1 billion",
+  "Visa Adds Monad to Stablecoin Settlement Program",
+  "Monad joins Visa's stablecoin settlement program as run rate tops $25 billion",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -82,5 +91,8 @@
   "fp:account|add|address|amount|confidential|decrypt|helius|hid|integrat|leav",
   "fp:12b|400m|also|authority|authoriz|binanc|court|department|disrupt|doj",
   "fp:asset|blockchain|clearinghous|dtc|dtcc|half|in2027|integrat|network|of2027",
-  "fp:000|100|400|advertis|allocat|award|campaign|ecosystem|fee|firm"
+  "fp:000|100|400|advertis|allocat|award|campaign|ecosystem|fee|firm",
+  "fp:089|2246b|22b|allocat|audit|behind|commodity|confirm|gold|held520",
+  "fp:11b|500|add|adds200|asset|equity|european|hit|kraken|november11",
+  "fp:25b|add|can|com|functionality|join|monad|month|network|participat"
 ]
