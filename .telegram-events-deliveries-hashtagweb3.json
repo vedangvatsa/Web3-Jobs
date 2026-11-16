@@ -248,5 +248,54 @@
     "slotKey": "2026-11-15:evening",
     "messageId": 156274,
     "sentAt": "2026-11-15T19:32:12.568Z"
+  },
+  "1f5f2b61-6f23-4914-a080-733bc02b20bd": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T03:32:22.662Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-pr1me-london-series-exclusive-dinner-web3-26-11-16",
+        "slug": "pr1me-london-web3-finance-dinner",
+        "name": "Pr1me [London Series] - Exclusive Dinner for Web3 Finance",
+        "startDate": "2026-11-16T19:00:00.000Z",
+        "keys": [
+          "w3v-pr1me-london-series-exclusive-dinner-web3-26-11-16",
+          "psedwf",
+          "page:pr1me-london-web3-finance-dinner:2026-11-16",
+          "luma:evt-cyedaowozhxmn3o",
+          "luma-url:/aqntywn2",
+          "event:pr1melondonseriesexclusivedinnerforweb3finance:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "eb-2003199972041",
+        "slug": "crypto-web3-startups-investors-london-nov-2026",
+        "name": "Crypto, Web3 & Blockchain Startups, Investors & Builders Networking Event",
+        "startDate": "2026-11-16T19:00:00.000Z",
+        "keys": [
+          "eb-2003199972041",
+          "page:crypto-web3-startups-investors-london-nov-2026:2026-11-16",
+          "luma:2003199972041",
+          "url:eventbrite.co.uk/e/crypto-web3-blockchain-startups-investors-builders-networking-event-tickets-2003199972041:2026-11-16",
+          "event:cryptoweb3blockchainstartupsinvestorsbuildersnetworkingevent:2026-11-16:london"
+        ]
+      },
+      {
+        "id": "w3v-beyond-frame-immersive-art-activation-render-26-11-16",
+        "slug": "beyond-frame",
+        "name": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana",
+        "startDate": "2026-11-16T19:30:00.000Z",
+        "keys": [
+          "w3v-beyond-frame-immersive-art-activation-render-26-11-16",
+          "page:beyond-frame:2026-11-16",
+          "luma:evt-bxyxwvhxiia30lj",
+          "luma-url:/frzpha3k",
+          "event:beyondtheframeanimmersiveartactivationbyrendernetworkxsolana:2026-11-16:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-16:morning"
   }
 }
