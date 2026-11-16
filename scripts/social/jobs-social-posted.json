@@ -142091,6 +142091,38 @@
       "attemptId": "c23c5772-c983-4cf3-91e0-045c2f906b33",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 15-Nov-26 19:38:02 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A8piprbmUsXSsr5rNIxAKRl\"}"
+    },
+    {
+      "slug": "sec112",
+      "company": "Bybit",
+      "title": "Cloud Security Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-11-16T03:37:48.234Z",
+      "expectedText": "Bybit is hiring Cloud Security Engineer: https://hashtagweb3.com/sec112/bsky?og=7",
+      "snapshot": {
+        "id": "5019139101",
+        "title": "Cloud Security Engineer",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5019139101",
+        "date": "2026-11-11T03:55:00-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Kuala Lumpur, Malaysia",
+        "department": "Security",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec112"
+      },
+      "payload": {
+        "text": "Bybit is hiring Cloud Security Engineer: https://hashtagweb3.com/sec112/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sec112/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sec112.png?v=7",
+        "company": "Bybit",
+        "title": "Cloud Security Engineer",
+        "description": "Join Bybit as Cloud Security Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "97eff4c8-bf05-4d47-8cd4-7b1576ac0d7d",
+      "verification": "creating"
     }
   ]
 }
