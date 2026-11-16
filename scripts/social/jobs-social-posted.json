@@ -143220,7 +143220,8 @@
       },
       "account": "channel:build",
       "attemptId": "2520f3a7-53ec-4d8d-9f6f-dd1b367056d6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcef502f6b754cb5fec33a834f00ab84a9875c7ac"
     }
   ]
 }
