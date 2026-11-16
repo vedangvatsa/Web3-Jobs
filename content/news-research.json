@@ -182618,11 +182618,34 @@
         "The Defiant"
       ],
       "id": "bf51d5c68c6d33562562",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T23:47:45.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "reason": "verified-event",
+      "note": "Read Cointelegraph Nov 15, Crypto Briefing Nov 15 and Newsweek Nov 15 full texts on the FT-reported comeback discussions, war room campaign, petition counts, Bessent comments and investor letter. New development beyond the existing nvidiasuccession article; three independent sites verified; audits, image and links pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/jensen-huang-in-talks-for-nvidia-ceo-return-with-silicon-valley-support-ft/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-16T03:58:24.612Z",
+      "articleSlug": "comeback",
+      "lastReviewedDay": "2026-11-16"
     },
     "9eb8c21a1b51eed06e7e": {
       "source": "Crypto Briefing",
@@ -349088,6 +349111,31 @@
           ],
           "reviewedAt": "2026-11-16T03:52:21.118Z",
           "articleSlug": "megacuts"
+        },
+        "bf51d5c68c6d33562562": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph Nov 15, Crypto Briefing Nov 15 and Newsweek Nov 15 full texts on the FT-reported comeback discussions, war room campaign, petition counts, Bessent comments and investor letter. New development beyond the existing nvidiasuccession article; three independent sites verified; audits, image and links pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/jensen-huang-in-talks-for-nvidia-ceo-return-with-silicon-valley-support-ft/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T03:58:24.612Z",
+          "articleSlug": "comeback"
         }
       },
       "baselineSlugs": [
