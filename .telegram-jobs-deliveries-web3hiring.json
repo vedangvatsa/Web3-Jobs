@@ -1798,5 +1798,121 @@
     "slotKey": "2026-11-16:morning",
     "messageId": 16651,
     "sentAt": "2026-11-16T03:32:30.562Z"
+  },
+  "9b4477ad-669c-40d9-9023-7d06788f2e08": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T03:32:32.026Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8327098",
+          "title": "Senior Software Engineer - Post-Trade Platform",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8327098",
+          "date": "2026-10-28T04:58:28-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "Product Development",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng346"
+        },
+        "key": "8327098",
+        "slug": "eng346",
+        "url": "https://hashtagweb3.com/eng346?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8212319",
+          "title": "Backend Engineer, UI Platform",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8212319",
+          "date": "2026-10-27T05:36:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Barcelona, Spain",
+          "department": "8574 Globalization Platform",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fe27"
+        },
+        "key": "8212319",
+        "slug": "fe27",
+        "url": "https://hashtagweb3.com/fe27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Backend Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8358426",
+          "title": "Account Executive (German Speaking)",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8358426?gh_jid=8358426",
+          "date": "2026-11-06T04:36:21-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Geneva, Switzerland",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls429"
+        },
+        "key": "8358426",
+        "slug": "sls429",
+        "url": "https://hashtagweb3.com/sls429?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "88890cf1-24c5-40a1-9d5d-b6b99b208c1f",
+          "title": "Full Stack Engineer - Growth & Experimentation - Krak",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/88890cf1-24c5-40a1-9d5d-b6b99b208c1f",
+          "date": "2026-11-06T10:43:11.430+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fs31"
+        },
+        "key": "88890cf1-24c5-40a1-9d5d-b6b99b208c1f",
+        "slug": "fs31",
+        "url": "https://hashtagweb3.com/fs31?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Full Stack Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5010660101",
+          "title": "Security Operations & Risk Automation Engineer",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5010660101",
+          "date": "2026-10-20T04:11:58-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "South Africa, Bulgaria",
+          "department": "Technology",
+          "active": true,
+          "salary": "€55k – €80k/yr",
+          "dateVerified": true,
+          "slug": "sec123"
+        },
+        "key": "5010660101",
+        "slug": "sec123",
+        "url": "https://hashtagweb3.com/sec123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Security Operations & Risk Automation Engineer"
+      }
+    ],
+    "message": "- Flow Traders is hiring <a href=\"https://hashtagweb3.com/eng346?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer - Post-Trade Platform</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/fe27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineer, UI Platform</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/sls429?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive (German Speaking)</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/fs31?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Full Stack Engineer - Growth &amp; Experimentation - Krak</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/sec123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations &amp; Risk Automation Engineer</a>",
+    "slotKey": "2026-11-16:morning"
   }
 }
