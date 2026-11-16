@@ -1916,5 +1916,125 @@
     "slotKey": "2026-11-16:morning",
     "messageId": 198,
     "sentAt": "2026-11-16T03:32:34.334Z"
+  },
+  "8c730a7b-ca88-4201-89ca-890255012be8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T11:32:28.367Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "deel-dfns-c6295b5c-b085-444e-a94c-1afed9857f83",
+          "title": "Strategic Account Director, Latin America",
+          "company": "DFNS",
+          "link": "https://jobs.deel.com/dfns/job-details/c6295b5c-b085-444e-a94c-1afed9857f83/overview",
+          "date": "2026-11-10T20:13:37.290Z",
+          "dateVerified": true,
+          "dateSource": "DFNS Careers on Deel",
+          "source": "Deel: DFNS [dfns]",
+          "location": "Remote",
+          "department": "Sales",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "active": true,
+          "salary": "$80k – $120k/yr",
+          "minSalary": 80000,
+          "maxSalary": 120000,
+          "currency": "USD",
+          "slug": "sls480"
+        },
+        "key": "deel-dfns-c6295b5c-b085-444e-a94c-1afed9857f83",
+        "slug": "sls480",
+        "url": "https://hashtagweb3.com/sls480?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DFNS",
+        "title": "Strategic Account Director"
+      },
+      {
+        "snapshot": {
+          "id": "8934164002",
+          "title": "Head of Design, Product Design",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934164002",
+          "date": "2026-11-06T20:08:47-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm377"
+        },
+        "key": "8934164002",
+        "slug": "pm377",
+        "url": "https://hashtagweb3.com/pm377?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Head of Design"
+      },
+      {
+        "snapshot": {
+          "id": "6252257004",
+          "title": "Associate/Vice President, Finance (APAC)",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6252257004",
+          "date": "2026-11-09T00:07:22-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "Hong Kong",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso62"
+        },
+        "key": "6252257004",
+        "slug": "aso62",
+        "url": "https://hashtagweb3.com/aso62?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "Associate/Vice President"
+      },
+      {
+        "snapshot": {
+          "id": "8071200003",
+          "title": "Principal/Senior Product Manager, User Center",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8071200003",
+          "date": "2026-10-29T06:27:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm247"
+        },
+        "key": "8071200003",
+        "slug": "pm247",
+        "url": "https://hashtagweb3.com/pm247?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Principal/Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5207256008",
+          "title": "Enterprise Account Executive",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5207256008?gh_jid=5207256008",
+          "date": "2026-11-10T16:45:41-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Melbourne, Australia",
+          "department": "20213 S&M - Sales - Square Outside",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls470"
+        },
+        "key": "5207256008",
+        "slug": "sls470",
+        "url": "https://hashtagweb3.com/sls470?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Enterprise Account Executive"
+      }
+    ],
+    "message": "- DFNS is hiring <a href=\"https://hashtagweb3.com/sls480?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategic Account Director, Latin America</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/pm377?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Design, Product Design</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/aso62?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate/Vice President, Finance (APAC)</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm247?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal/Senior Product Manager, User Center</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls470?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Enterprise Account Executive</a>",
+    "slotKey": "2026-11-16:afternoon"
   }
 }
