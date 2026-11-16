@@ -141953,7 +141953,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "b75c5f21-eb18-40de-94c9-138295af4248",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6afa7a5606e1675856c39189"
     }
   ]
 }
