@@ -26,6 +26,9 @@
   "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
   "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
   "https://techxplore.com/news/2026-11-physics-ai-fake-brightness-patterns.html",
+  "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
+  "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+  "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -80,6 +83,12 @@
   "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
   "Researchers create physics-based AI to detect deepfake images",
   "Physics-inspired AI detects fake faces by analyzing color and brightness patterns",
+  "OpenAI model solves long-standing particle physics problem",
+  "OpenAI's GPT-6 Astra tackles the Standard Model's toughest math problem on a lattice",
+  "US acts to restrict China from accessing AI chips remotely",
+  "US moves to cut China’s remote access to AI chips",
+  "Dreamteam raises $53 million for AI customer software",
+  "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -106,5 +115,8 @@
   "fp:answer|app|appl|common|health|how|medical|peopl|query|question",
   "fp:71b|activ|alibaba|by62|context|cost|expert|max|mixtur|moe",
   "fp:automat|cod|commit|deploy|deployment|design|dur|early|fail|flaw",
-  "fp:analyz|bas|brightness|color|creat|deepfak|detect|distinguish|fac|fak"
+  "fp:analyz|bas|brightness|color|creat|deepfak|detect|distinguish|fac|fak",
+  "fp:astra|creat|gpt6|lattic|long|math|mathematical|openai|particl|physic",
+  "fp:access|act|advanc|china|chip|cloud|comput|cut|entity|foreign",
+  "fp:53m|alum|compet|crm|customer|dreamteam|freshwork|hubspot|legacy|management"
 ]
