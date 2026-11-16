@@ -143816,7 +143816,8 @@
       },
       "account": "channel:web3",
       "attemptId": "5a688084-330e-49a8-84b4-53f17cc72af0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3a45de7f839654d537554363962b4fe255118dbd"
     }
   ]
 }
