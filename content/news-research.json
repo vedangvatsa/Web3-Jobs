@@ -183103,7 +183103,27 @@
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 0,
       "expiresAt": "2026-11-18T18:06:36.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "articleSlug": "megaspeed",
+      "draftProgress": {
+        "id": "f8b62b8b6bccbda8ae91",
+        "day": "2026-11-16",
+        "articleSlug": "megaspeed",
+        "note": "Two independent sources read: Crypto Briefing Nov. 15 (statement dated Nov. 15 confirms Huang left effective Aug. 30, 2025; first direct statement; internal probe context) and The Guardian Nov. 15 (same statement, external counsel internal investigation, Singapore/Taiwan entry bans context). AP returned 403/Cloudflare; The Defiant returned 403. Concrete event qualifies; draft and hero image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/megaspeed-confirms-alice-huang-departure/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-16T04:39:39.333Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "b28623fc0412f222b3ba": {
       "source": "Crypto Briefing",
