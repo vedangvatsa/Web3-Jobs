@@ -141580,7 +141580,8 @@
       },
       "account": "channel:founders",
       "attemptId": "b428105c-4c0d-43ff-8ace-3f68be740fde",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8b63ff1d00468ccb571b1cac633bc309b6eb9e13"
     }
   ]
 }
