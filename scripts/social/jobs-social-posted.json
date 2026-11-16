@@ -141956,6 +141956,48 @@
       "verification": "verified",
       "postId": "6afa7a5606e1675856c39189",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7527937805738594304"
+    },
+    {
+      "slug": "rec32",
+      "company": "Chainalysis",
+      "title": "Technical Recruiter, EMEA",
+      "platform": "linkedin",
+      "postedAt": "2026-11-16T03:34:23.961Z",
+      "expectedText": "Chainalysis is hiring Technical Recruiter, EMEA: https://hashtagweb3.com/rec32/li?og=7",
+      "snapshot": {
+        "id": "00864875-16af-484f-af43-8eeda1399dba",
+        "title": "Technical Recruiter, EMEA",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/00864875-16af-484f-af43-8eeda1399dba",
+        "date": "2026-11-05T09:52:02.777+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec32"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Technical Recruiter, EMEA: https://hashtagweb3.com/rec32/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rec32/li?og=7",
+          "title": "Technical Recruiter, EMEA at Chainalysis",
+          "description": "Join Chainalysis as Technical Recruiter, EMEA. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og-image.png"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "383fef56-0883-41d5-87cb-374622bcebcd",
+      "verification": "creating"
     }
   ]
 }
