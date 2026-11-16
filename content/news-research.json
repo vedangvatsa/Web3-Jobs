@@ -174900,11 +174900,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "38ec9f047d18335d4b9a",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-16T05:07:23.000Z",
-      "lastSeenAt": "2026-11-16T03:31:31.782Z"
+      "lastSeenAt": "2026-11-16T03:31:31.782Z",
+      "reason": "out-of-scope",
+      "note": "Read both Crypto Briefing pages this round. The Nov. 13 SMFG piece is prediction-market analysis (with an AI-assisted interpretation disclaimer) about Sumitomo Mitsui tightening data center lending criteria; the Nov. 15 second URL covers TECO's power-equipment orders, a different story. Both are the same outlet, so there is no independent second source, and bank data center financing is not a Web3/crypto development for this site.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/smfg-tightens-data-center-financing-focuses-on-strong-credit-hyperscalers/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/teco-shifts-focus-to-power-equipment-amid-tightened-us-data-center-approvals/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-16T04:22:19.024Z",
+      "lastReviewedDay": "2026-11-16"
     },
     "9ea01c5d2db2d10b2fc7": {
       "source": "Crypto Briefing",
@@ -349261,6 +349275,22 @@
             }
           ],
           "reviewedAt": "2026-11-16T04:21:44.948Z"
+        },
+        "38ec9f047d18335d4b9a": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read both Crypto Briefing pages this round. The Nov. 13 SMFG piece is prediction-market analysis (with an AI-assisted interpretation disclaimer) about Sumitomo Mitsui tightening data center lending criteria; the Nov. 15 second URL covers TECO's power-equipment orders, a different story. Both are the same outlet, so there is no independent second source, and bank data center financing is not a Web3/crypto development for this site.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/smfg-tightens-data-center-financing-focuses-on-strong-credit-hyperscalers/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/teco-shifts-focus-to-power-equipment-amid-tightened-us-data-center-approvals/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-16T04:22:19.024Z"
         }
       },
       "baselineSlugs": [
