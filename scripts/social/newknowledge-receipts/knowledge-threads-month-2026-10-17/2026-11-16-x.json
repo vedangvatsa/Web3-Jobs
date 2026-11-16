@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "spec": {
+    "campaign": "knowledge-threads-month-2026-10-17",
+    "date": "2026-11-16",
+    "threadId": "N10",
+    "sequence": 30,
+    "platform": "x",
+    "assetCommit": "21f7330fd0a2a080cf2c60e51baa03a99d444bd7",
+    "contentDigest": "36e3ac93c75bb47d1f10a2cdc9b322fce773ad98d862fad6358215648c73025c",
+    "posts": [
+      {
+        "number": 1,
+        "text": "Sample invoice: Sample Freelancer bills Sample Client USD 750 for a documentation project.\n\n#SAMPLE-016, issued November 16, 2026, due November 30. Currency: USD.",
+        "alt": "Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable.",
+        "image": "social-assets/knowledge-threads-month/images/N10-01.jpg"
+      },
+      {
+        "number": 2,
+        "text": "Sample line item 1: Documentation draft (hours).\nQuantity 12 x rate USD 50 = USD 600.\n\nPut 'hours' in Description. The generator has Quantity and Rate fields, with no separate hours selector.",
+        "alt": "Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector.",
+        "image": "social-assets/knowledge-threads-month/images/N10-02.jpg"
+      },
+      {
+        "number": 3,
+        "text": "Sample line item 2: Revision and handoff (hours).\nQuantity 4 x rate USD 50 = USD 200. Use Add Item for the second row.\n\nUSD 600 draft + USD 200 handoff = USD 800 subtotal.",
+        "alt": "Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800.",
+        "image": "social-assets/knowledge-threads-month/images/N10-03.jpg"
+      },
+      {
+        "number": 4,
+        "text": "Sample inputs: Tax (%) = 0; Discount (flat) = 50.\nUSD 800 + USD 0 - USD 50 = USD 750.\n\nThe discount is USD 50, not 50%. The zero tax rate applies only to this example.",
+        "alt": "Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row.",
+        "image": "social-assets/knowledge-threads-month/images/N10-04.jpg"
+      },
+      {
+        "number": 5,
+        "text": "Sample payment terms: Currency USD; Payment Method USDC on Ethereum mainnet.\n\nNotes: settle 750 USDC at an agreed 1 USD = 1 USDC. This is an example agreement; the tool does not convert currencies.",
+        "alt": "Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable.",
+        "image": "social-assets/knowledge-threads-month/images/N10-05.jpg"
+      },
+      {
+        "number": 6,
+        "text": "Sample invoice #SAMPLE-016 totals USD 750, due November 30, 2026. Download PDF exports the invoice and payment notes.\n\nThe wallet field is empty; this sample is not payable.\n\nhashtagweb3.com/invoice-generator/x",
+        "alt": "Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable.",
+        "image": "social-assets/knowledge-threads-month/images/N10-06.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "path": "social-assets/knowledge-threads-month/images/N10-01.jpg",
+        "sha256": "5cd05ccf9c50711e0682b7562b154595dfafd737b965b834174ce2d12788fd58",
+        "bytes": 142112,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Invoice Generator sample header: invoice SAMPLE-016 from Sample Freelancer to Sample Client, issued November 16, 2026, due November 30, 2026. The invoice is denominated in USD and marked as a sample, not payable.",
+        "renderedText": "Invoice Generator\n\nSample invoice · USD 750\n\nSample invoice (USD) · Not payable\n\nHashtag Web3 Invoice Generator\n\nN10 · 1/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/21f7330fd0a2a080cf2c60e51baa03a99d444bd7/social-assets/knowledge-threads-month/images/N10-01.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N10-02.jpg",
+        "sha256": "e0889d3c1cf1a62ec7ad9feb12b471b3c0d4e2393fecd0d9c8e41a690291fcc7",
+        "bytes": 122053,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Sample invoice row in the Invoice Generator: Documentation draft (hours), quantity 12, rate USD 50, total USD 600. The unit 'hours' appears in Description; there is no separate hours selector.",
+        "renderedText": "Invoice Generator\n\n12 hours x USD 50 = USD 600\n\nSample invoice (USD) · Not payable\n\nDescription carries the unit\n\n\"Hours\" is typed in Description; there is no separate hours selector.\n\nHashtag Web3 Invoice Generator\n\nN10 · 2/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/21f7330fd0a2a080cf2c60e51baa03a99d444bd7/social-assets/knowledge-threads-month/images/N10-02.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N10-03.jpg",
+        "sha256": "0c5384b073839cb19792ad07be11149dc4fe25d2ef7ebec324c2e61c15ea9312",
+        "bytes": 138991,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Two sample invoice rows: Documentation draft, 12 hours at USD 50, totals USD 600. Revision and handoff, 4 hours at USD 50, totals USD 200. Combined subtotal: USD 800.",
+        "renderedText": "Invoice Generator\n\nUSD 600 + USD 200 = USD 800 subtotal\n\nSample invoice (USD) · Not payable\n\nSample subtotal\n\nUSD 600 + USD 200 = USD 800\n\nHashtag Web3 Invoice Generator\n\nN10 · 3/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/21f7330fd0a2a080cf2c60e51baa03a99d444bd7/social-assets/knowledge-threads-month/images/N10-03.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N10-04.jpg",
+        "sha256": "5e9c632724a41a23846cb2c53c8fc1a296e75da87827adada84ea9b0d05c7b30",
+        "bytes": 113172,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Sample Invoice Generator totals: USD 800 subtotal, minus USD 50 flat discount, equals USD 750. Tax is set to 0% for this example; the preview omits the zero tax row.",
+        "renderedText": "Invoice Generator\n\nUSD 800 less USD 50 = USD 750\n\nSample invoice (USD) · Not payable\n\nTax input: 0% for this sample only. Flat discount: USD 50. The preview omits the zero tax row.\n\nHashtag Web3 Invoice Generator\n\nN10 · 4/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/21f7330fd0a2a080cf2c60e51baa03a99d444bd7/social-assets/knowledge-threads-month/images/N10-04.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N10-05.jpg",
+        "sha256": "b3fff140733e3e55f814d97226a1db3d766781410a2a5a3bf1e5c84567197a57",
+        "bytes": 149912,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Sample invoice payment notes: USD 750 billed, with example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Payment Method and Notes are text fields; the tool does not convert currencies. The wallet field is empty and the sample is not payable.",
+        "renderedText": "Invoice Generator\n\nUSD invoice, sample USDC settlement\n\nSample invoice (USD) · Not payable\n\nTyped payment instructions\n\nPayment Method and Notes are text fields. The sample agreement does not convert currencies.\n\nWallet field is empty; no payment requested.\n\nHashtag Web3 Invoice Generator\n\nN10 · 5/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/21f7330fd0a2a080cf2c60e51baa03a99d444bd7/social-assets/knowledge-threads-month/images/N10-05.jpg"
+      },
+      {
+        "path": "social-assets/knowledge-threads-month/images/N10-06.jpg",
+        "sha256": "3919638f293a3105233421b11c44c8d5b5feb13183d067d2db699a3d80b70a55",
+        "bytes": 120909,
+        "width": 1200,
+        "height": 1500,
+        "alt": "Sample invoice SAMPLE-016: USD 800 subtotal minus USD 50 discount gives USD 750, due November 30, 2026. Payment notes specify example settlement of 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; sample not payable.",
+        "renderedText": "Invoice Generator\n\nSAMPLE-016 · USD 750\n\nSample invoice · Due November 30, 2026\n\nSample settlement: 750 USDC on Ethereum mainnet at an agreed 1 USD = 1 USDC. Wallet field empty; no payment requested.\n\nHashtag Web3 Invoice Generator\n\nN10 · 6/6",
+        "url": "https://raw.githubusercontent.com/vedangvatsa/Web3-Jobs/21f7330fd0a2a080cf2c60e51baa03a99d444bd7/social-assets/knowledge-threads-month/images/N10-06.jpg"
+      }
+    ]
+  },
+  "accountId": "6ab62682ea19ca0bdee284bd",
+  "claimId": "79c750d6-17d2-4d13-8710-77c5bdce05f3",
+  "startedAt": "2026-11-16T11:31:14.935Z",
+  "status": "claimed",
+  "steps": {}
+}
