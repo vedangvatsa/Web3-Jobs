@@ -178786,7 +178786,27 @@
         "Find independent reporting or the Nakamoto SEC filing confirming the Q3 operating revenue loss and the $60 million Kraken USDT loan extension to December 2027"
       ],
       "lastReviewedDay": "2026-11-15",
-      "nextReviewDate": "2026-11-16"
+      "nextReviewDate": "2026-11-16",
+      "articleSlug": "nakamotoq3",
+      "draftProgress": {
+        "id": "4a37cde7de061891183e",
+        "day": "2026-11-16",
+        "articleSlug": "nakamotoq3",
+        "note": "Sources verified for Q3 story: Cointelegraph Nov. 13 read (shares fell 6.5% premarket, operating revenue negative $1.9M after $5.8M options loss) and SEC Exhibit 99.1 earnings release read (same figures, 4,283 BTC at Sept. 30, Kraken extension). The Defiant body is JS-gated (headline deck only). Draft and hero image still need to be written; keep the loan-extension overlap with the existing nakamotoloan article minimal so the story stays on the Q3 earnings event.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/1946573/000149315226051510/ex99-1.htm",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-16T04:39:35.642Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f7814336fc8294287a9a": {
       "source": "Cointelegraph",
