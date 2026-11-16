@@ -1105,6 +1105,25 @@
         "rolloutId": "daily-20261116-43862251072-1",
         "buildState": "FAILED",
         "observedAt": "2026-11-16T12:35:08.711Z"
+      },
+      {
+        "date": "2026-11-16",
+        "id": "43939972748-1",
+        "sourceCommit": "773fa6b0510b11409bd7202f9770609d6a1755c7",
+        "jobsCheckedAt": "2026-11-16T12:07:39.287Z",
+        "newsCompletedAt": "2026-11-16T05:18:22.430Z",
+        "articleSlugs": [
+          "efsale",
+          "nakamotoloan",
+          "gptwallet",
+          "megacuts",
+          "coinonehack",
+          "comeback"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-16T19:31:06.161Z",
+        "buildId": "daily-20261116-43939972748-1",
+        "rolloutId": "daily-20261116-43939972748-1"
       }
     ]
   }
