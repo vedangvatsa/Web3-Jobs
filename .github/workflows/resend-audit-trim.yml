@@ -1,0 +1,50 @@
+name: Resend Audience Audit & Trim
+
+# Audit is read-only (counts + structure). Trim is destructive and additionally
+# requires --keep-count and the literal --confirm DELETE input.
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'audit = read-only counts; trim = destructive delete'
+        required: true
+        type: choice
+        default: 'audit'
+        options:
+          - audit
+          - trim
+      keep_count:
+        description: 'trim only: contacts to keep'
+        required: false
+        default: '1000'
+      keep_strategy:
+        description: 'trim only: which contacts survive'
+        required: false
+        type: choice
+        default: 'newest'
+        options:
+          - newest
+          - segment-first
+      confirm:
+        description: 'trim only: must be the literal word DELETE'
+        required: false
+        default: ''
+
+concurrency:
+  group: resend-audit-trim
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    permissions:
+      contents: read
+    env:
+      RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+      RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run
+        run: node scripts/resend-audience-trim.mjs --mode "${{ inputs.mode }}" --keep-count "${{ inputs.keep_count }}" --keep-strategy "${{ inputs.keep_strategy }}" --confirm "${{ inputs.confirm }}"
