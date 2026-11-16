@@ -141225,6 +141225,39 @@
       "attemptId": "25e8d384-6e0c-4046-b906-68a38ecc3ec2",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 15-Nov-26 19:34:36 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"At4werwMlPs8T3KbK2DKOu0\"}"
+    },
+    {
+      "slug": "rec32",
+      "company": "Chainalysis",
+      "title": "Technical Recruiter, EMEA",
+      "platform": "bluesky",
+      "postedAt": "2026-11-16T03:34:23.961Z",
+      "expectedText": "Chainalysis is hiring Technical Recruiter, EMEA: https://hashtagweb3.com/rec32/bsky?og=7",
+      "snapshot": {
+        "id": "00864875-16af-484f-af43-8eeda1399dba",
+        "title": "Technical Recruiter, EMEA",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/00864875-16af-484f-af43-8eeda1399dba",
+        "date": "2026-11-05T09:52:02.777+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rec32"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Technical Recruiter, EMEA: https://hashtagweb3.com/rec32/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/rec32/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/rec32.png?v=7",
+        "company": "Chainalysis",
+        "title": "Technical Recruiter, EMEA",
+        "description": "Join Chainalysis as Technical Recruiter, EMEA. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6f9e156f-43eb-4d0d-99b8-a9ccf4bcf316",
+      "verification": "creating"
     }
   ]
 }
