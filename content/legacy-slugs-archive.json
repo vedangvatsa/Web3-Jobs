@@ -157625,5 +157625,251 @@
     "link": "https://www.coinbase.com/careers/positions/8287662?gh_jid=8287662",
     "company": "Coinbase",
     "title": "Staff Software Engineer, Backend - FinHub (Transfers)"
+  },
+  "mkt120": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt154"
+  },
+  "cmp118": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp177"
+  },
+  "mgr267": {
+    "id": "bnbchain-99621295",
+    "link": "https://jobs.bnbchain.org/companies/bnb-chain/jobs/99621295-content-creator-partnerships-manager",
+    "company": "BNB Chain",
+    "title": "Content & Creator Partnerships Manager"
+  },
+  "sls511": {
+    "id": "bnbchain-99384686",
+    "link": "https://jobs.bnbchain.org/companies/bnb-chain/jobs/99384686-payments-business-development-lead",
+    "company": "BNB Chain",
+    "title": "Payments Business Development Lead"
+  },
+  "sls510": {
+    "id": "bnbchain-99384685",
+    "link": "https://jobs.bnbchain.org/companies/bnb-chain/jobs/99384685-institutional-business-development-lead",
+    "company": "BNB Chain",
+    "title": "Institutional Business Development Lead"
+  },
+  "mgr266": {
+    "id": "bnbchain-99384653",
+    "link": "https://jobs.bnbchain.org/companies/bnb-chain/jobs/99384653-events-manager",
+    "company": "BNB Chain",
+    "title": "Events Manager"
+  },
+  "mgr265": {
+    "id": "bnbchain-99384652",
+    "link": "https://jobs.bnbchain.org/companies/bnb-chain/jobs/99384652-media-kol-manager",
+    "company": "BNB Chain",
+    "title": "Media & KOL Manager"
+  },
+  "sss9": {
+    "id": "8335618",
+    "link": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
+    "company": "Coinbase",
+    "title": "Social Support Specialist I"
+  },
+  "cssl12": {
+    "id": "8334234",
+    "link": "https://www.coinbase.com/careers/positions/8334234?gh_jid=8334234",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "tir8": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "ops179": {
+    "id": "bnbchain-97826923",
+    "link": "https://jobs.bnbchain.org/companies/bnb-chain/jobs/97826923-tech-ops-intern-web3",
+    "company": "BNB Chain",
+    "title": "Tech Ops Intern (Web3)"
+  },
+  "ops180": {
+    "id": "ad0650e4-153d-47a5-8d61-b102ef580081",
+    "link": "https://jobs.ashbyhq.com/mantle/ad0650e4-153d-47a5-8d61-b102ef580081",
+    "company": "Mantle Network",
+    "title": "Business Operations Manager"
+  },
+  "mgr190": {
+    "id": "8250300",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8250300?t=gh_src=&gh_jid=8250300",
+    "company": "Robinhood",
+    "title": "Senior Manager, Valuation"
+  },
+  "pm312": {
+    "id": "7e1c3eef-5ee0-45d5-8586-eca4c95b195b",
+    "link": "https://jobs.ashbyhq.com/hashgraph/7e1c3eef-5ee0-45d5-8586-eca4c95b195b",
+    "company": "Hedera",
+    "title": "Head of Product"
+  },
+  "rec71": {
+    "id": "9adabc63-1f65-499f-9a3a-d43b9d8233fa",
+    "link": "https://jobs.ashbyhq.com/mantle/9adabc63-1f65-499f-9a3a-d43b9d8233fa",
+    "company": "Mantle Network",
+    "title": "Talent Acquisition Lead"
+  },
+  "fs36": {
+    "id": "8da72cd2-4918-47e1-bc17-4fe86700ca47",
+    "link": "https://jobs.ashbyhq.com/mantle/8da72cd2-4918-47e1-bc17-4fe86700ca47",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Full Stack"
+  },
+  "fs37": {
+    "id": "85a9eddd-1fb9-4040-9151-f89a4e779015",
+    "link": "https://jobs.ashbyhq.com/mantle/85a9eddd-1fb9-4040-9151-f89a4e779015",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Full Stack"
+  },
+  "eng623": {
+    "id": "8292793",
+    "link": "https://www.coinbase.com/careers/positions/8292793?gh_jid=8292793",
+    "company": "Coinbase",
+    "title": "Senior Machine Learning Engineer, CX"
+  },
+  "mgr189": {
+    "id": "4744801005",
+    "link": "https://job-boards.greenhouse.io/groma/jobs/4744801005",
+    "company": "Groma",
+    "title": "Junior Property Manager"
+  },
+  "ec4": {
+    "id": "b4366e7a-d1e7-498b-8630-4dfea67caca0",
+    "link": "https://jobs.ashbyhq.com/ramp/b4366e7a-d1e7-498b-8630-4dfea67caca0",
+    "company": "Ramp",
+    "title": "Lead Counsel, Employment"
+  },
+  "dc": {
+    "id": "cdb80779-5cce-4f4d-a1f8-fc689770c14b",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/cdb80779-5cce-4f4d-a1f8-fc689770c14b",
+    "company": "Riot Platforms",
+    "title": "Director, Compensation"
+  },
+  "eng622": {
+    "id": "5451225008",
+    "link": "http://block.xyz/careers/jobs/5451225008?gh_jid=5451225008",
+    "company": "Block",
+    "title": "Engineering Manager - Finance & Supply Chain Engineering"
+  },
+  "sec119": {
+    "id": "a6df5ed6-8dfc-460f-bc74-06129163e858",
+    "link": "https://jobs.ashbyhq.com/kraken.com/a6df5ed6-8dfc-460f-bc74-06129163e858",
+    "company": "Kraken",
+    "title": "Senior Security Engineer - xStocks"
+  },
+  "itac": {
+    "id": "8282721",
+    "link": "https://stripe.com/jobs/search?gh_jid=8282721",
+    "company": "Stripe",
+    "title": "Indirect Tax (VAT/GST) Advisory Consultant"
+  },
+  "rec42": {
+    "id": "b444d95c-7142-4981-b4dd-b26fc2954309",
+    "link": "https://jobs.ashbyhq.com/helius/b444d95c-7142-4981-b4dd-b26fc2954309",
+    "company": "Helius",
+    "title": "Technical Recruiter"
+  },
+  "det": {
+    "id": "4742079005",
+    "link": "https://job-boards.greenhouse.io/falconx/jobs/4742079005",
+    "company": "FalconX",
+    "title": "Director, Electronic Trading"
+  },
+  "be79": {
+    "id": "2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+    "link": "https://jobs.ashbyhq.com/polymarket/2d76aae2-f388-45cc-8c7b-70da9118c5f6",
+    "company": "Polymarket",
+    "title": "Staff Backend Engineer"
+  },
+  "sec118": {
+    "id": "8289397",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8289397",
+    "company": "DRW",
+    "title": "Cloud Security Engineer"
+  },
+  "eve2": {
+    "id": "46511827-37d8-4b0f-8491-5c808e70e830",
+    "link": "https://jobs.ashbyhq.com/sardine/46511827-37d8-4b0f-8491-5c808e70e830",
+    "company": "Sardine",
+    "title": "Events Lead"
+  },
+  "tr129": {
+    "id": "8289231",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/8289231",
+    "company": "Blockchain.com",
+    "title": "Trader, Market Making"
+  },
+  "tr128": {
+    "id": "8289214",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/8289214",
+    "company": "Blockchain.com",
+    "title": "Quantitative Trader"
+  },
+  "fin4": {
+    "id": "74f21d23-7a78-40af-acf8-663de8d734ab",
+    "link": "https://jobs.ashbyhq.com/ava-labs/74f21d23-7a78-40af-acf8-663de8d734ab",
+    "company": "Ava Labs",
+    "title": "Finance Lead"
+  },
+  "do16": {
+    "id": "8259659",
+    "link": "https://job-boards.greenhouse.io/logos/jobs/8259659",
+    "company": "Logos",
+    "title": "DevOps Engineer (DST)"
+  },
+  "sls509": {
+    "id": "9c249990-643c-4793-9917-cb5ca3be2883",
+    "link": "https://jobs.ripio.com/jobs/8560977-vp-of-global-business-development",
+    "company": "Ripio",
+    "title": "VP of Global Business Development"
+  },
+  "eng758": {
+    "id": "5008837101",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5008837101",
+    "company": "Flowdesk",
+    "title": "Senior IT Engineer - New York"
+  },
+  "tms": {
+    "id": "8288538",
+    "link": "https://stripe.com/jobs/search?gh_jid=8288538",
+    "company": "Stripe",
+    "title": "Team Lead, Managed Support"
+  },
+  "an144": {
+    "id": "9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "link": "https://jobs.ashbyhq.com/story/9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "company": "Story Protocol",
+    "title": "Senior Financial Analyst, FP&A (Story + Wizard)",
+    "newSlug": "an146"
+  },
+  "sls507": {
+    "id": "keka-dcx-146600",
+    "link": "https://dcx.keka.com/careers/jobdetails/146600",
+    "company": "BitOasis",
+    "title": "Institutional Sales",
+    "newSlug": "sls513"
+  },
+  "pm406": {
+    "id": "a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "link": "https://jobs.ashbyhq.com/story/a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "company": "Story Protocol",
+    "title": "Head of Production",
+    "newSlug": "pm409"
+  },
+  "mkt152": {
+    "id": "74b653d6-838e-4b55-a721-0e0f47eb1c43",
+    "link": "https://jobs.ashbyhq.com/mantle/74b653d6-838e-4b55-a721-0e0f47eb1c43",
+    "company": "Mantle Network",
+    "title": "Growth Marketing Manager",
+    "newSlug": "mkt156"
   }
 }
