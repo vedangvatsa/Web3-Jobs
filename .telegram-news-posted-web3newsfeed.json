@@ -26,6 +26,9 @@
   "https://hashtagweb3.com/moodyspilot?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/simdnonces?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binancecfo?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coinbasetrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nearmemecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -80,6 +83,12 @@
   "Anza files Solana proposal to remove durable nonces",
   "Binance Appoints Justin Yek as Chief Financial Officer",
   "Binance CFO Kaiser Ng steps down as Justin Yek appointed finance chief",
+  "Senator sets records deadline for Binance, Tether, and crypto firms",
+  "Blumenthal sets Jan. 4 records deadline for Binance, Tether and Trump-linked crypto firms",
+  "Coinbase receives final approval for national trust bank charter",
+  "Coinbase wins final OCC approval for national trust bank charter",
+  "North Korea Launders Stolen Binance Funds Using Temporary Tokens",
+  "North Korean launderers mint throwaway meme coins to move Binance hack funds",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -106,5 +115,8 @@
   "fp:25b|add|arriv|can|few|financial|institution|join|monad|month",
   "fp:blockchain|chain|chainlink|credit|cross|delivery|distribut|firm|interoperability|moody",
   "fp:anza|april|drift|durabl|effectiv|eliminat|fil|hack|may2027|nonc",
-  "fp:appoint|binanc|breach|cfo|chief|down|exchang|financ|financial|justin"
+  "fp:appoint|binanc|breach|cfo|chief|down|exchang|financ|financial|justin",
+  "fp:binanc|blumenthal|chair|deadlin|document|firm|four|jan4|january2027|link",
+  "fp:approval|bank|charter|coinbas|custody|directly|federal|final|national|now",
+  "fp:000|430|binanc|blockchain|coin|custom|elliptic|hack|korea|korean"
 ]
