@@ -295,5 +295,36 @@
     "slotKey": "2026-11-16:afternoon",
     "messageId": 156284,
     "sentAt": "2026-11-16T11:33:04.864Z"
+  },
+  "74b497b7-988f-4562-a610-365841254f32": {
+    "status": "reserved",
+    "reservedAt": "2026-11-16T19:34:25.014Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Blockstream Launches Offline Bitcoin Custody With Thales Hardware",
+        "summary": "The institutional platform uses hardware modules and secure multi-party computation to store cryptographic keys offline.",
+        "link": "https://hashtagweb3.com/hsmvault?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blockstream Launches Offline Bitcoin Custody System Built With Thales"
+      },
+      {
+        "index": -1,
+        "headline": "US Senate panel demands records from crypto firms",
+        "summary": "Four entities, including Binance and Tether, must submit initial documents to investigators by November 30.",
+        "link": "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blumenthal sets Jan. 4 records deadline for Binance, Tether and Trump-linked crypto firms"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase Secures US National Trust Bank Charter Approval",
+        "summary": "The charter places the crypto exchange's custody and stablecoin operations under direct federal banking supervision.",
+        "link": "https://hashtagweb3.com/coinbasetrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase wins final OCC approval for national trust bank charter"
+      }
+    ],
+    "slotKey": "2026-11-16:evening"
   }
 }
