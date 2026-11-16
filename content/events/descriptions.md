@@ -30775,6 +30775,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f3011c084243bf10"></a>
+
+## Curso online GRATUITO: herramientas en internet - comercio electrónico
+
+- Record: `eb-1998347888328`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.es/e/curso-online-gratuito-herramientas-en-internet-comercio-electronico-tickets-1998347888328>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-852bfa01e5b5d0be"></a>
+
+## Acordes Inesquecíveis - Concerto da Banda do CBMPA
+
+- Record: `eb-2004372562290`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/acordes-inesqueciveis-concerto-da-banda-do-cbmpa-tickets-2004372562290>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-46aeab0ff7505657"></a>
 
 ## Lattice Layer Podcast: Fluctlight Kayaba, about building MetaScript
@@ -30784,6 +30808,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-16
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/lattice-layer-podcast-fluctlight-kayaba-about-building-metascript-tickets-2004712748797>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-df59d8b3d367f95f"></a>
+
+## Pr1me London Series - Exclusive Dinner for Web3 Finance
+
+- Record: `eb-2004776801380`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-16
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/pr1me-london-series-exclusive-dinner-for-web3-finance-tickets-2004776801380>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31488,6 +31524,18 @@ By RSVPing to any of our events, you agree to be added to our future corresponde
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-57a87f377e8bbd72"></a>
+
+## Allgäuer Gründerbühne 2026
+
+- Record: `eb-1986317098913`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.de/e/allgauer-grunderbuhne-2026-tickets-1986317098913>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d428b541ec17ed3f"></a>
 
 ## 2026 Blockchain Futurist Conference - FLORIDA, USA
@@ -31512,6 +31560,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1ec76fb8fde6a8f2"></a>
+
+## Talleres Gastronómicos - Entre Sabores
+
+- Record: `eb-1996610787613`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/talleres-gastronomicos-entre-sabores-tickets-1996610787613>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8ce98e75238dcac7"></a>
+
+## AI & Tech Networking Event in Montreal by Ascent Valley
+
+- Record: `eb-1999423605828`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/ai-tech-networking-event-in-montreal-by-ascent-valley-tickets-1999423605828>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-bc38b087423584d2"></a>
 
 ## Blockchain Marketing Training
@@ -31521,6 +31593,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-17
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.co.uk/e/blockchain-marketing-training-tickets-1999661756142>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4eb418b8ab52acea"></a>
+
+## Bitcoin Privacy Track
+
+- Record: `eb-2001683358810`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/bitcoin-privacy-track-tickets-2001683358810>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31728,6 +31812,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-60f3474e7e0d2856"></a>
+
+## Rockville Stitch and Bitch @ Filicori Zecchini
+
+- Record: `mu-316242413`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T10:00:00-05:00
+- Description: Missing
+- Original page: <https://www.meetup.com/rockville-stitch-and-bitch/events/316242413/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d2e743e8567462d4"></a>
 
 ## Privy Home: IRL London
@@ -31737,6 +31833,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-17T11:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/aecztdcz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f405de8832cb0675"></a>
+
+## AI Meets Trading: From 0 To Trader \| Trading Workshop \| Forex \| Crypto \| Stocks
+
+- Record: `mu-317176676`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T12:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/traderfriends-ca/events/317176676/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31944,6 +32052,42 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5166b2edef15f236"></a>
+
+## Vibe Coding Workshop
+
+- Record: `eb-1507840223699`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/vibe-coding-workshop-tickets-1507840223699>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-bb7f52624a2d0644"></a>
+
+## Vibe Coding and Agentic Engineering Workshop
+
+- Record: `eb-1984455998311`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/vibe-coding-and-agentic-engineering-workshop-tickets-1984455998311>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3e39a12b5764901d"></a>
+
+## Blockchain and Business Networking \| Elevating Your Potential - Dallas
+
+- Record: `eb-1993040524861`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-dallas-tickets-1993040524861>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-08b0c31c9832c4eb"></a>
 
 ## AI & Tech Networking Event in Amsterdam  by Ascent Valley
@@ -31953,6 +32097,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/ai-tech-networking-event-in-amsterdam-by-ascent-valley-tickets-1999417804476>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b1247bf8a6ed6437"></a>
+
+## Startup Tech & AI Networking in Amsterdam
+
+- Record: `eb-1999417816512`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/startup-tech-ai-networking-in-amsterdam-tickets-1999417816512>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32486,6 +32642,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1d08bc0d26e3b07e"></a>
+
+## Bitcoin de 0 a 100 - 2026
+
+- Record: `eb-1980402882332`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com.ar/e/bitcoin-de-0-a-100-2026-tickets-1980402882332>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-21814f03e32e8631"></a>
 
 ## Ethereum Vancouver Meetup
@@ -32519,6 +32687,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.nl/e/saptadhara-zevenstromen-empowering-next-gen-indo-dutch-innovations-registration-2003160879113>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5316ebded2901b05"></a>
+
+## Curso online GRATUITO: desarrollo web para comercio electrónico
+
+- Record: `eb-2004714980472`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.es/e/curso-online-gratuito-desarrollo-web-para-comercio-electronico-tickets-2004714980472>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32954,6 +33134,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2c9e92912a955e9d"></a>
+
+## Bitcoin Self Custody Workshop
+
+- Record: `eb-1992711651191`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/bitcoin-self-custody-workshop-tickets-1992711651191>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5cbbc3eb3dfc3d57"></a>
 
 ## Treqora Intelligence - Best Crypto Recovery Service
@@ -32987,6 +33179,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.ca/e/blockchain-ai-summit-montreal-2026-3rd-edition-tickets-2004009207486>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-898a7460effdea49"></a>
+
+## TEATRO EXPRÉS 2026 - 20 de noviembre - Público adulto
+
+- Record: `eb-2004447468336`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.es/e/teatro-expres-2026-20-de-noviembre-publico-adulto-tickets-2004447468336>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33278,6 +33482,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-643f03273d93d115"></a>
+
+## Headless • Alternative-NuMetal-Core-PopPunk-Emo-Party  • Lido Berlin
+
+- Record: `eb-1997333139186`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.de/e/headless-alternative-numetal-core-poppunk-emo-party-lido-berlin-tickets-1997333139186>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e4cd958e0f45e043"></a>
 
 ## DeFi for Canadians: Liquidity Pools, Fees, and Risk Basics
@@ -33398,6 +33614,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-58909dbc6e5a151a"></a>
+
+## Making it Big in Crypto
+
+- Record: `eb-1978714127220`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-22
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/making-it-big-in-crypto-tickets-1978714127220>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b22c64123dc1d70d"></a>
+
+## Free $100 for 1st $100 investment in Crypto
+
+- Record: `eb-1983153510535`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-22
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/free-100-for-1st-100-investment-in-crypto-tickets-1983153510535>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-89d7c75518a76f61"></a>
 
 ## Coffee & Crypto \| Money Basics, Financial Literacy & the Digital Economy
@@ -33419,6 +33659,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-22T01:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/pmm5s25v>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f4e9b6f7475c2b59"></a>
+
+## Rockville Stitch and Bitch @ Filicori Zecchini
+
+- Record: `mu-315813237`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-22T09:00:00-05:00
+- Description: Missing
+- Original page: <https://www.meetup.com/rockville-stitch-and-bitch/events/315813237/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33455,6 +33707,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.co.uk/e/billets-meetup-hacienda-qui-protege-lia-les-nouveaux-enjeux-de-securite-2003057463795>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0d88119bc363d4b8"></a>
+
+## Decoding Bitcoin study cohort
+
+- Record: `eb-2003273751718`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/decoding-bitcoin-study-cohort-tickets-2003273751718>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33542,6 +33806,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d908ce70aaeb0c87"></a>
+
+## Cañas y Charlas: ¿PODEMOS CONTROLAR NUESTROS SUEÑOS?
+
+- Record: `eb-2004482148064`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.es/e/canas-y-charlas-podemos-controlar-nuestros-suenos-tickets-2004482148064>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-4f1043712c90b71f"></a>
 
 ## Ethereum Meetup Tokyo Vol.27
@@ -33626,6 +33902,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-486a2607aa20d2fe"></a>
+
+## Certified Blockchain Associate \| Seattle
+
+- Record: `eb-1968898226597`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/certified-blockchain-associate-seattle-tickets-1968898226597>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b0d875a798f87439"></a>
+
+## Blockchain and Business Networking\|Elevating Your Potential-Ventura County
+
+- Record: `eb-1981802466526`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networkingelevating-your-potential-ventura-county-tickets-1981802466526>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-4122eaf7a1a814b4"></a>
 
 ## Blockchain and Business Networking \| Elevating Your Potential - London
@@ -33662,6 +33962,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-809edc3c19b46e87"></a>
+
+## Blockchain and Business Networking - Colorado Springs
+
+- Record: `eb-1998644200606`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networking-colorado-springs-tickets-1998644200606>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-797c14963a0e205f"></a>
 
 ## Intelligente Roboter als KI-Systeme: Deutschlands Zukunft!
@@ -33686,6 +33998,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9e48954ae593a0e9"></a>
+
+## Blockchain and Business Networking \| Multi-Industry Event - NYC
+
+- Record: `eb-2002956486770`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networking-multi-industry-event-nyc-tickets-2002956486770>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-86e2861b9fc4dbf1"></a>
 
 ## Bitcoin Basics - Bitcoin for Business
@@ -33695,6 +34019,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-25
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com.au/e/bitcoin-basics-bitcoin-for-business-tickets-2003450515423>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-06964eba4873ee2b"></a>
+
+## IN THE HEAT OF LISBON 2
+
+- Record: `eb-2003697828142`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/in-the-heat-of-lisbon-2-tickets-2003697828142>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33926,6 +34262,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-40a92199789dac48"></a>
+
+## México También es Jazz 2026 \| Kimberly Fergie
+
+- Record: `eb-1999273324332`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/mexico-tambien-es-jazz-2026-kimberly-fergie-tickets-1999273324332>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6c2704931a649d71"></a>
+
+## Enamorando al Consumidor 2026
+
+- Record: `eb-2000143568255`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.es/e/enamorando-al-consumidor-2026-tickets-2000143568255>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0a5523519b29abc2"></a>
 
 ## SIBB X-MAS Reception 2026  ✨ (members & invitation only)
@@ -33935,6 +34295,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-26
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.de/e/sibb-x-mas-reception-2026-members-invitation-only-tickets-2002061757611>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0a88eb1053100d4b"></a>
+
+## Sonic Kitchen Vol. 46: Techno_Niche
+
+- Record: `eb-2003702338633`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.hk/e/sonic-kitchen-vol-46-techno-niche-tickets-2003702338633>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34132,6 +34504,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-53056260103b86a6"></a>
+
+## Bitcoin Indonesia Community Online Meetup
+
+- Record: `eb-863542808787`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/bitcoin-indonesia-community-online-meetup-tickets-863542808787>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-291d2bd6daee3b5d"></a>
 
 ## Bitcoin Japan 2026
@@ -34219,6 +34603,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/AusCryptoCon26>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2ba6ac29caca7eb9"></a>
+
+## Web3 \|  B2B Networking I Founders & Investors
+
+- Record: `eb-1980545431701`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-28
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/web3-b2b-networking-i-founders-investors-tickets-1980545431701>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34368,6 +34764,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7ae79886d3f17e4a"></a>
+
+## REAL TRADER IN 3 HOURS \| Full Trading Workshop \| Forex \| Crypto \| Stocks
+
+- Record: `mu-316828259`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-29T08:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/traderfriends-ca/events/316828259/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-01dcc3fbe7350d58"></a>
 
 ## AURA: An Immersive Odyssey of Breathtaking Proportions
@@ -34401,6 +34809,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-30
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ad91220b44fd279e"></a>
+
+## Bitcoin Beginner Workshops - Entdecke Bitcoin
+
+- Record: `eb-1996438308724`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-30
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.de/e/bitcoin-beginner-workshops-entdecke-bitcoin-tickets-1996438308724>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34572,6 +34992,42 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-41ceb8f22e356590"></a>
+
+## Metaverse 101 \| Washington DC
+
+- Record: `eb-1956765130179`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/metaverse-101-washington-dc-tickets-1956765130179>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-aa21834ca6024569"></a>
+
+## Real-World Asset Tokenization \| 2-Hour Online Workshop
+
+- Record: `eb-1962741463553`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/real-world-asset-tokenization-2-hour-online-workshop-tickets-1962741463553>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8c26b55113e200e0"></a>
+
+## Tokenization of Real World Assets using Blockchain \| Chicago
+
+- Record: `eb-1964579748914`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/tokenization-of-real-world-assets-using-blockchain-chicago-tickets-1964579748914>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-037d2ce600470aac"></a>
 
 ## Blockchain and Business Networking \| Elevating Your Potential - Berlin
@@ -34725,6 +35181,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-03
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com.au/e/metaverse-101-zurich-tickets-1918826775539>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1a9f98386a2ca271"></a>
+
+## Bitcoin Basics
+
+- Record: `eb-1986113387607`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/bitcoin-basics-tickets-1986113387607>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34890,6 +35358,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-02049f78ac4d0939"></a>
+
+## The Basics of Options: From Definitions to Your First Trade
+
+- Record: `mu-317454509`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T11:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/washington-dc-options-trading-group/events/317454509/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8dd7e0775e1c47bc"></a>
 
 ## Maryland Blockchain Association Monthly Virtual Meet-Ups
@@ -34988,6 +35468,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1ef2a70fb006f247"></a>
+
+## AI & Tech Networking Event in Zurich by Ascent Valley
+
+- Record: `eb-2000047357486`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/ai-tech-networking-event-in-zurich-by-ascent-valley-tickets-2000047357486>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e439c97f7b44ba8e"></a>
+
+## Startup Tech & AI Networking in Zurich
+
+- Record: `eb-2000047363504`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/startup-tech-ai-networking-in-zurich-tickets-2000047363504>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-473a4de4c04c030a"></a>
 
 ## AI VIDEO ‘SUMMIT’
@@ -35072,6 +35576,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a045a0cbf8da9ff9"></a>
+
+## Integrating Blockchain and AI (Artificial Intelligence) \| Seattle
+
+- Record: `eb-1968901697980`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/integrating-blockchain-and-ai-artificial-intelligence-seattle-tickets-1968901697980>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2c7e915c2d37820a"></a>
+
+## Sovereign Bitcoiner Workshop
+
+- Record: `eb-1985627370918`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/sovereign-bitcoiner-workshop-tickets-1985627370918>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-3c77ecc833e53601"></a>
 
 ## CHIPNATION - IV Congreso Nacional de la Industria de los Semiconductores
@@ -35081,6 +35609,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-09
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.es/e/chipnation-iv-congreso-nacional-de-la-industria-de-los-semiconductores-tickets-1993658254507>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-12cef5fcba489d20"></a>
+
+## Blockchain and Business Networking\|Elevating Your Potential- Virginia Beach
+
+- Record: `eb-1995470415730`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networkingelevating-your-potential-virginia-beach-tickets-1995470415730>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35237,6 +35777,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/global-trading-show-tickets-1998954862805>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-aa18f8b59a3bf6a2"></a>
+
+## Code Review Club
+
+- Record: `eb-2000250266392`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/code-review-club-tickets-2000250266392>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35507,6 +36059,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5b0fd9889e09c0ac"></a>
+
+## Talk-a-Bit online bitcoin meetup
+
+- Record: `eb-1989075532462`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-15
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/talk-a-bit-online-bitcoin-meetup-tickets-1989075532462>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0b633024afc18da1"></a>
 
 ## Crypto, Web3, Blockchain Startups, Investors & Builders Networking Event
@@ -35565,6 +36129,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-16
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/blockchain-and-business-networkingelevating-your-potential-birmingham-uk-tickets-1992261719433>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5a9ef4560c6c2ee8"></a>
+
+## Blockchain and Business Networking \| Elevating Your Potential -Lincoln Park
+
+- Record: `eb-2001890453235`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-16
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-lincoln-park-tickets-2001890453235>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35676,6 +36252,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1b55cd00566984f2"></a>
+
+## Blockchain and Business Networking \| Elevate Your Potential - Orange County
+
+- Record: `eb-1998252223191`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-30
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networking-elevate-your-potential-orange-county-tickets-1998252223191>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cc01239ad5c47ae9"></a>
 
 ## Blockchain and Business Networking \| Elevating Your Potential - Paris
@@ -35750,6 +36338,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2d3bddf071470f7e"></a>
+
+## Blockchain Legal Institute Member Byte Talk Show
+
+- Record: `eb-2004848071551`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-12
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-legal-institute-member-byte-talk-show-tickets-2004848071551>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-31f3b9d29d5286e9"></a>
 
 ## CfC St. Moritz 2027
@@ -35786,6 +36386,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-96f134afb098c54a"></a>
+
+## 17th Intl. Conf. on Bioscience, Biochemistry and Bioinformatics -ICBBB 2027
+
+- Record: `eb-1988157125482`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-15
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/17th-intl-conf-on-bioscience-biochemistry-and-bioinformatics-icbbb-2027-tickets-1988157125482>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1209b343f959e504"></a>
 
 ## The Hub Davos 2027
@@ -35807,6 +36419,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-01-19
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.co.uk/e/london-crypto-hnwi-sector-january-city-networking-at-the-gherkin-tickets-1999770337913>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d84032905feaba70"></a>
+
+## AI Agents Hackathon 2027
+
+- Record: `eb-1987490057263`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-20
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.de/e/ai-agents-hackathon-2027-tickets-1987490057263>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35843,6 +36467,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-01-22
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/chicago-blockchain-web3-conference-tickets-1989982925499>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9876f4f1597f297b"></a>
+
+## ZIBR Annual Symposium 2027
+
+- Record: `eb-2004415945049`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-22
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.ch/e/zibr-annual-symposium-2027-tickets-2004415945049>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36050,6 +36686,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-02-12T16:15:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/b8dxam0v>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-700424fca32c4455"></a>
+
+## Barcelona Tech Job Fair 2027
+
+- Record: `eb-1985708571792`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-02-18
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/barcelona-tech-job-fair-2027-tickets-1985708571792>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36564,6 +37212,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-0da4eefc303181ab"></a>
+
+## Future Fintech Awards & Conference Dubai 2027
+
+- Record: `eb-2004646944976`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-04-27
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.ca/e/future-fintech-awards-conference-dubai-2027-tickets-2004646944976>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-b1ec2f13bc02ccfc"></a>
 
 ## Blockchain Forum 2027
@@ -36745,6 +37405,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-05-27
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.pt/e/nfc-summit-2027-tickets-2001761025112>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c461709b3a97861f"></a>
+
+## HackerX - São Paulo (AI) - Employer Ticket - 5/27
+
+- Record: `eb-527`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-05-27
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/hackerx-sao-paulo-ai-employer-ticket-527-tickets-2004507915134>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -37099,6 +37771,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-09-23T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://eblockchainconvention.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d75c3efcc5665580"></a>
+
+## Blockchain Tech Summit (4th Annual)
+
+- Record: `eb-1990305841349`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-09-28
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
