@@ -173456,7 +173456,7 @@
         "The Defiant"
       ],
       "id": "801ba3d8b5380a0b22fd",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 2,
       "expiresAt": "2026-11-16T07:10:03.000Z",
@@ -173505,7 +173505,8 @@
         "updatedAt": "2026-11-15T04:45:27.263Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-16T05:18:22.430Z"
     },
     "62d5d5f9b585a43232ba": {
       "source": "CryptoSlate",
@@ -173550,7 +173551,7 @@
         "The Defiant"
       ],
       "id": "7e234094c6deae67f56a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-13T11:28:25.584Z",
       "attempts": 3,
       "expiresAt": "2026-11-16T06:03:41.000Z",
@@ -173584,7 +173585,8 @@
         "Find readable independent reporting on Nakamoto owing Kraken 165 million dollars and the delayed payment terms"
       ],
       "lastReviewedDay": "2026-11-16",
-      "articleSlug": "nakamotoloan"
+      "articleSlug": "nakamotoloan",
+      "publishedAt": "2026-11-16T05:18:22.430Z"
     },
     "740d919ee3b210c975b4": {
       "source": "CoinDesk",
@@ -176267,13 +176269,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "c2eebe9465aba85bbfac",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 1,
       "expiresAt": "2026-11-16T22:23:58.000Z",
       "lastSeenAt": "2026-11-16T03:31:31.782Z",
-      "reason": "verified-event",
-      "note": "Read the Fed Nov. 13 financial stability report PDF and verified the 87% vs 50% survey figures, the $680 billion advanced-computing debt issuance and the 31% investment-grade share directly in the primary document; Crypto Briefing's Nov. 13 report corroborated the figures. The Defiant URL returned HTTP 403.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: fedsurvey.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
@@ -176288,9 +176290,40 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-16T03:47:09.633Z",
+      "reviewedAt": "2026-11-16T05:18:03.554Z",
       "articleSlug": "fedsurvey",
-      "lastReviewedDay": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "retrySearches": [
+        "Repair and revalidate the preserved fedsurvey draft against its original sources: fedsurvey.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-17",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Fed Nov. 13 financial stability report PDF and verified the 87% vs 50% survey figures, the $680 billion advanced-computing debt issuance and the 31% investment-grade share directly in the primary document; Crypto Briefing's Nov. 13 report corroborated the figures. The Defiant URL returned HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/fed-survey-ai-top-financial-stability-risk/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/ai-tops-financial-stability-risks-cited-in-fed-survey",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T03:47:09.633Z",
+          "articleSlug": "fedsurvey"
+        },
+        "validationErrors": [
+          "fedsurvey.md: under 600 words"
+        ],
+        "isolatedAt": "2026-11-16T05:18:03.554Z"
+      }
     },
     "f64be513298007647fa5": {
       "source": "Crypto Briefing",
@@ -177861,7 +177894,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "2b37773a4f04b54999c3",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-14T00:24:57.356Z",
       "attempts": 1,
       "expiresAt": "2026-11-16T22:01:03.000Z",
@@ -177899,7 +177932,8 @@
         }
       ],
       "reviewedAt": "2026-11-16T04:21:11.335Z",
-      "lastReviewedDay": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "publishedAt": "2026-11-16T05:18:22.430Z"
     },
     "46b5e1017e3ea1a6be5b": {
       "source": "Crypto Briefing",
@@ -179860,7 +179894,7 @@
         "Cointelegraph"
       ],
       "id": "2046504137498498c5b8",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
       "attempts": 1,
       "expiresAt": "2026-11-17T16:33:23.000Z",
@@ -179906,7 +179940,8 @@
         }
       ],
       "reviewedAt": "2026-11-16T03:52:21.118Z",
-      "lastReviewedDay": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "publishedAt": "2026-11-16T05:18:22.430Z"
     },
     "b155edde4e933b3fa265": {
       "source": "CoinDesk",
@@ -181648,13 +181683,13 @@
         "The Defiant"
       ],
       "id": "3967a68c66a363d144df",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T02:33:07.000Z",
       "lastSeenAt": "2026-11-16T03:31:31.782Z",
-      "reason": "verified-event",
-      "note": "Read Cointelegraph's Nov. 16 report and Crypto Briefing's Nov. 15 report on the Commander breach, Hansen's X-post quotes, the two-hour patch, compensation pledge and the 0.162 BTC OCEAN payouts; The Defiant and a related Defiant piece returned HTTP 403.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: luxorhack.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
@@ -181669,9 +181704,40 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-16T03:47:09.634Z",
+      "reviewedAt": "2026-11-16T05:18:03.554Z",
       "articleSlug": "luxorhack",
-      "lastReviewedDay": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "retrySearches": [
+        "Repair and revalidate the preserved luxorhack draft against its original sources: luxorhack.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-17",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph's Nov. 16 report and Crypto Briefing's Nov. 15 report on the Commander breach, Hansen's X-post quotes, the two-hour patch, compensation pledge and the 0.162 BTC OCEAN payouts; The Defiant and a related Defiant piece returned HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-16T03:47:09.634Z",
+          "articleSlug": "luxorhack"
+        },
+        "validationErrors": [
+          "luxorhack.md: under 600 words"
+        ],
+        "isolatedAt": "2026-11-16T05:18:03.554Z"
+      }
     },
     "455d609ac8c70330e8e1": {
       "source": "BeInCrypto",
@@ -181916,7 +181982,7 @@
         "The Defiant"
       ],
       "id": "937ae6b27e60e52237b7",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 1,
       "expiresAt": "2026-11-18T08:07:58.000Z",
@@ -181939,7 +182005,8 @@
       ],
       "reviewedAt": "2026-11-16T04:07:45.711Z",
       "articleSlug": "coinonehack",
-      "lastReviewedDay": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "publishedAt": "2026-11-16T05:18:22.430Z"
     },
     "afe1d3a0a03aa8840500": {
       "source": "BeInCrypto",
@@ -182728,7 +182795,7 @@
         "The Defiant"
       ],
       "id": "bf51d5c68c6d33562562",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 1,
       "expiresAt": "2026-11-18T23:47:45.000Z",
@@ -182755,7 +182822,8 @@
       ],
       "reviewedAt": "2026-11-16T03:58:24.612Z",
       "articleSlug": "comeback",
-      "lastReviewedDay": "2026-11-16"
+      "lastReviewedDay": "2026-11-16",
+      "publishedAt": "2026-11-16T05:18:22.430Z"
     },
     "9eb8c21a1b51eed06e7e": {
       "source": "Crypto Briefing",
@@ -346665,7 +346733,7 @@
     "2026-11-16": {
       "day": "2026-11-16",
       "startedAt": "2026-11-16T03:31:31.782Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "855641ab1fc70ba0bcef",
         "cbc5a3255e9b174694bb",
@@ -349176,9 +349244,9 @@
           ]
         },
         "c2eebe9465aba85bbfac": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read the Fed Nov. 13 financial stability report PDF and verified the 87% vs 50% survey figures, the $680 billion advanced-computing debt issuance and the 31% investment-grade share directly in the primary document; Crypto Briefing's Nov. 13 report corroborated the figures. The Defiant URL returned HTTP 403.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: fedsurvey.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
@@ -349193,13 +349261,43 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-16T03:47:09.633Z",
-          "articleSlug": "fedsurvey"
+          "reviewedAt": "2026-11-16T05:18:03.554Z",
+          "articleSlug": "fedsurvey",
+          "retrySearches": [
+            "Repair and revalidate the preserved fedsurvey draft against its original sources: fedsurvey.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read the Fed Nov. 13 financial stability report PDF and verified the 87% vs 50% survey figures, the $680 billion advanced-computing debt issuance and the 31% investment-grade share directly in the primary document; Crypto Briefing's Nov. 13 report corroborated the figures. The Defiant URL returned HTTP 403.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://cryptobriefing.com/fed-survey-ai-top-financial-stability-risk/",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://thedefiant.io/frontier/ai/ai-tops-financial-stability-risks-cited-in-fed-survey",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-16T03:47:09.633Z",
+              "articleSlug": "fedsurvey"
+            },
+            "validationErrors": [
+              "fedsurvey.md: under 600 words"
+            ],
+            "isolatedAt": "2026-11-16T05:18:03.554Z"
+          }
         },
         "3967a68c66a363d144df": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Cointelegraph's Nov. 16 report and Crypto Briefing's Nov. 15 report on the Commander breach, Hansen's X-post quotes, the two-hour patch, compensation pledge and the 0.162 BTC OCEAN payouts; The Defiant and a related Defiant piece returned HTTP 403.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: luxorhack.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
@@ -349214,8 +349312,38 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-16T03:47:09.634Z",
-          "articleSlug": "luxorhack"
+          "reviewedAt": "2026-11-16T05:18:03.554Z",
+          "articleSlug": "luxorhack",
+          "retrySearches": [
+            "Repair and revalidate the preserved luxorhack draft against its original sources: luxorhack.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Cointelegraph's Nov. 16 report and Crypto Briefing's Nov. 15 report on the Commander breach, Hansen's X-post quotes, the two-hour patch, compensation pledge and the 0.162 BTC OCEAN payouts; The Defiant and a related Defiant piece returned HTTP 403.",
+              "sourceChecks": [
+                {
+                  "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-16T03:47:09.634Z",
+              "articleSlug": "luxorhack"
+            },
+            "validationErrors": [
+              "luxorhack.md: under 600 words"
+            ],
+            "isolatedAt": "2026-11-16T05:18:03.554Z"
+          }
         },
         "024729e75ad22520b10a": {
           "status": "rejected",
@@ -349270,7 +349398,7 @@
           ]
         },
         "2046504137498498c5b8": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Cointelegraph Nov 14 and crypto.news Nov 13 full texts on MEGA's 20 percent staff cut, Kong's Nov 13 X post, the Nov 10 rebrand and 30 million dollar treasury commitment to an AI inference market planned for December. Two independent sites verified; audits, image and links pass.",
           "sourceChecks": [
@@ -349284,10 +349412,11 @@
             }
           ],
           "reviewedAt": "2026-11-16T03:52:21.118Z",
-          "articleSlug": "megacuts"
+          "articleSlug": "megacuts",
+          "publishedAt": "2026-11-16T05:18:22.430Z"
         },
         "bf51d5c68c6d33562562": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Cointelegraph Nov 15, Crypto Briefing Nov 15 and Newsweek Nov 15 full texts on the FT-reported comeback discussions, war room campaign, petition counts, Bessent comments and investor letter. New development beyond the existing nvidiasuccession article; three independent sites verified; audits, image and links pass.",
           "sourceChecks": [
@@ -349309,10 +349438,11 @@
             }
           ],
           "reviewedAt": "2026-11-16T03:58:24.612Z",
-          "articleSlug": "comeback"
+          "articleSlug": "comeback",
+          "publishedAt": "2026-11-16T05:18:22.430Z"
         },
         "937ae6b27e60e52237b7": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Reused and repaired the restored draft. Read Cointelegraph Nov. 15, crypto.news Nov. 15 (which cites Yonhap for MetaM's Nov. 14 disclosure), and Coinone's primary Korean notice of Nov. 15. Verified timeline (attacker hit MetaM servers ~4 a.m. Nov. 12, Coinone informed ~9:20 a.m., notice published Nov. 15), the 11 categories of potentially exposed data, separation of Coinone trading/wallet systems, regulator reports (KISA, PIPC, FSS), and South Korea context figures. Added primary-notice link and apology detail to clear the 600-word gate; quality, image, formatting, duplicate and tsc audits now pass.",
           "sourceChecks": [
@@ -349330,10 +349460,11 @@
             }
           ],
           "reviewedAt": "2026-11-16T04:07:45.711Z",
-          "articleSlug": "coinonehack"
+          "articleSlug": "coinonehack",
+          "publishedAt": "2026-11-16T05:18:22.430Z"
         },
         "801ba3d8b5380a0b22fd": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Cleared the long-standing source-blocked deferral. Read Crypto Briefing Nov. 13, crypto.news Nov. 11, and the Lookonchain X post of Nov. 10 (primary on-chain record) this round. Corroborated the Nov. 10-11 sales of 1,000 ETH each day via CoW Protocol into USDS, averages near ,130 and ,025, combined about .16M, prior 2,785 ETH sale Oct. 26, wallet still holding over 24,000 ETH, and the 2.5-year expense buffer policy. Wrote efsale.md with hero image; quality, image, formatting, duplicate, tsc and link checks pass.",
           "sourceChecks": [
@@ -349351,10 +349482,11 @@
             }
           ],
           "reviewedAt": "2026-11-16T04:12:50.053Z",
-          "articleSlug": "efsale"
+          "articleSlug": "efsale",
+          "publishedAt": "2026-11-16T05:18:22.430Z"
         },
         "2b37773a4f04b54999c3": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Rechecked and read Cointelegraph Nov 13 and Decrypt Nov 14 this round; drafted ChatGPT Wallet launch with both sources linked, hero image self-hosted from Wikimedia, quality/images/formatting/duplicates audits pass.",
           "sourceChecks": [
@@ -349368,7 +349500,8 @@
             }
           ],
           "reviewedAt": "2026-11-16T04:21:11.335Z",
-          "articleSlug": "gptwallet"
+          "articleSlug": "gptwallet",
+          "publishedAt": "2026-11-16T05:18:22.430Z"
         },
         "7aa7c0932e4da6657a2a": {
           "status": "rejected",
@@ -349403,7 +349536,7 @@
           "reviewedAt": "2026-11-16T04:22:19.024Z"
         },
         "7e234094c6deae67f56a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Found and read primary SEC 8-K (Nov 11 amendment), Nakamoto's Nov 12 press release, and crypto.news Nov 13 independent report; CoinDesk still 429 and The Defiant body still JS-gated, but three readable sources cover the loan extension, collateral terms and coverage figures. Drafted nakamotoloan with all audits passing.",
           "sourceChecks": [
@@ -349429,7 +349562,8 @@
             }
           ],
           "reviewedAt": "2026-11-16T04:27:23.431Z",
-          "articleSlug": "nakamotoloan"
+          "articleSlug": "nakamotoloan",
+          "publishedAt": "2026-11-16T05:18:22.430Z"
         },
         "cb01e2a7a5d8dc0333d3": {
           "status": "deferred",
@@ -350052,6 +350186,268 @@
         ],
         "total": 76,
         "checkedAt": "2026-11-16T03:31:31.782Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-16T05:18:22.430Z",
+        "publishedIds": [
+          "801ba3d8b5380a0b22fd",
+          "7e234094c6deae67f56a",
+          "2b37773a4f04b54999c3",
+          "2046504137498498c5b8",
+          "937ae6b27e60e52237b7",
+          "bf51d5c68c6d33562562"
+        ],
+        "articleSlugs": [
+          "efsale",
+          "nakamotoloan",
+          "gptwallet",
+          "megacuts",
+          "coinonehack",
+          "comeback"
+        ],
+        "pendingIds": [
+          "cbc5a3255e9b174694bb",
+          "1a9c8f6b109964c82cc9",
+          "c04e4e1a539fbb2b0c62",
+          "2f8392912411f9479c84",
+          "f3b6f3548e56982b9589",
+          "b4edddf8f1b4a72a3552",
+          "96ff8eeb424d0b06809b",
+          "f41cc843ef5b0f14aef9",
+          "d7a6c13e8c4453011f80",
+          "b450786b7bbd404298b2",
+          "1fc9f9856c0f833928cb",
+          "5a65616e59d3a82b73ef",
+          "62d5d5f9b585a43232ba",
+          "7ff82c504861034008e9",
+          "43b42749d2ad10d68acf",
+          "b76ec62a9a902811f174",
+          "18f98b841e265d44d4ec",
+          "d1ba4bae76de91d9f930",
+          "b48c658d6a3e82338c3b",
+          "edd0baedb182e08e31e7",
+          "0101660c54c97ace546e",
+          "4b0fb48dc48392dee027",
+          "1fa4bedda156ab4de60c",
+          "4e18527823af4fd1ce88",
+          "b98fef40b6212dd08909",
+          "4d0edba4fd7253bc2986",
+          "9d4eb9be1d203c94f1cb",
+          "543957b03bfed18f3a47",
+          "f7660b8d779a68433ec9",
+          "8170de0b7a5216ce4516",
+          "ef785cc5c5a4b93a261f",
+          "f854dda5d0598ed15bcb",
+          "dc23808f072b52708f41",
+          "9ea01c5d2db2d10b2fc7",
+          "389fcb6330bab1d76dab",
+          "0071349e5459f4edcd2f",
+          "970779d3979b4b2f0a60",
+          "c2eebe9465aba85bbfac",
+          "f64be513298007647fa5",
+          "e4b1d0158acf2e2b242a",
+          "2eb2c26ad5a5ff903643",
+          "cb63f7a1a63edc252c3b",
+          "210cd9037cdbb5378289",
+          "667349902d7e788c082f",
+          "e4ce08a423ac4f674a8a",
+          "4c9c5ab7f8768208d63b",
+          "74cd88193da8d2a7a16e",
+          "aff54ac90f034a13b3e8",
+          "f5e79a37a57836d0f3a0",
+          "28e2b00b7767c5d1de47",
+          "97ea813e1bc8c7258293",
+          "4d359dd47171cb6b4311",
+          "d8be7c6e652873873ef0",
+          "fd33cee77438aac031f5",
+          "bd9ce1283abb7fb963cf",
+          "ac763fdfee538cf2b660",
+          "a4acab678e0ba49cedc9",
+          "b36567f27527c5fb1bb5",
+          "2e084d81f014b0cd89b1",
+          "2f15f033baf23202e520",
+          "32a5e823a3e55a990353",
+          "c6006848e47ec8fecb57",
+          "b6fab03e33736b8cd32f",
+          "f330779ede93ad3b3149",
+          "72b5437e4b6b6c7ffb07",
+          "51d820bab347149be399",
+          "cb01e2a7a5d8dc0333d3",
+          "587db430e7de6ae8800b",
+          "06e456610bff91e6d877",
+          "d467844f8e3392600334",
+          "173a2d7614bc21a5ad90",
+          "38cb45be8294024ff33e",
+          "17c2fd7218e58dfaa203",
+          "34f0ab307ddb00a9faaa",
+          "1d84eb2245a90adb0d55",
+          "70d6686a420514945741",
+          "af7d7fed474007733261",
+          "21f0bbbf9a491f65db13",
+          "6df043c8238c906b2465",
+          "564650099a2918330df3",
+          "46b5e1017e3ea1a6be5b",
+          "ada73927d9185905f57c",
+          "225bab1b999dc90a50d7",
+          "eff61bd0e573058a4359",
+          "a5efbf739567ec2744e3",
+          "3939f15cc1a874ea0aed",
+          "42c07f52fcdec76faf24",
+          "0e40fa15ba21fbe68077",
+          "67cbf4c2b8d90ab6aec8",
+          "446b35bc254eb7934b20",
+          "fa833199294a0839ce5d",
+          "37758d7e3f6db0297d1b",
+          "84cbc62f41c22f0cafc6",
+          "c437c4e47ce151bc90e2",
+          "91907fb83c46b2b873c8",
+          "5999005ec7c06c4ea92d",
+          "ab4c2ca4a6b3699d1acc",
+          "77fcb5d86e9d52b15e9d",
+          "31e1117c9b5fcfedd45c",
+          "f28a6b7c22c21b3e80ab",
+          "2db9ad7a10a35390c6b8",
+          "0f545be092ac64cdc373",
+          "fd9238049980fd4f5a20",
+          "4a37cde7de061891183e",
+          "f7814336fc8294287a9a",
+          "1d61f046abf17d9b7e24",
+          "773cc0a55a08ec83efba",
+          "abd27a2e624f2fc55d53",
+          "a8d6dc203d124ff6fadc",
+          "70132a475baa1073b586",
+          "8c9abddcd12fe57ffa13",
+          "1fe5c9206e23631f8d47",
+          "75288c777b653a1e1f17",
+          "80610885fc28c3b59a90",
+          "7b056d37eadbd0f8c635",
+          "a124fc0aed66b1c8c620",
+          "b51344fe22d9fb6b2385",
+          "a9eb70c7e90583b13fc6",
+          "3628172978bb86c5e49b",
+          "5015ff8460f72b2c8d75",
+          "5678be16b02fd14769c4",
+          "9cb54dc0f484d0239546",
+          "cf302dfd261ec442ee8b",
+          "fd3e41558325244e5777",
+          "336f9c5767a492437274",
+          "701ebffb80de26ce35ef",
+          "775dc00237021b609e1d",
+          "53ffc1347094fdf22857",
+          "81a778edfde34fcac431",
+          "b155edde4e933b3fa265",
+          "f012e39557c7f4085c4b",
+          "bf05ff676a04618cc279",
+          "ecdd9a4e6d7bcb0b1ccd",
+          "4313d26d11cb6c2e1dae",
+          "5395cdfd1f3a2e4832d4",
+          "24dfb07465ed4222234a",
+          "2ae5abe8ac9044a76329",
+          "797eea80ab68597581e9",
+          "cab70cad9bf971516412",
+          "3e674039df5b7002a6b1",
+          "a445205b2b371e426864",
+          "8310169e8b2ee611c2d3",
+          "f67b1c0010be0ef01110",
+          "efd37211386ff768b751",
+          "eb35db27c520b9cfab97",
+          "8164e841b4cc9f140a07",
+          "6e1e4a31dde01653c13c",
+          "5b2d1a107ea623213b5f",
+          "410996b2162fb33f6a29",
+          "ae7aa94b330efcc6558f",
+          "aa57f2390ef4d006c851",
+          "78cdb9b2625f9ae1fe71",
+          "f65ab315d52b0292f5aa",
+          "ac6ea7b6b39870614bc0",
+          "2fc0f06e019fcb28210e",
+          "da8b417f795804bc7213",
+          "f6646c9bd0ff351634a4",
+          "6d7b4363a21403edf0c2",
+          "bebbb5f004a1bc8cd21c",
+          "8371aabd75ffc80adc12",
+          "b876e0ecce19c32ee602",
+          "d9b9f9925d593b83ccc2",
+          "61242a7f7fdc4c793114",
+          "d2ab39dcc9027c81bfff",
+          "4fce2b055dfb8f5aaa56",
+          "599dafdd4e6328b1c3e0",
+          "ea13a067f2dcf6d1ef2e",
+          "3a5acf7b9706ab3c0121",
+          "12ede1b1b301f78a5307",
+          "74c046c36bf6ea2cf34d",
+          "5ff7b8de727709c1daad",
+          "bdc1ea122924b11cb8b7",
+          "eb843bd159438dd5c4b7",
+          "f872870a4929705e7146",
+          "35f99696e38ebb54d809",
+          "42df984af4fc9660b278",
+          "60dab57249608727b207",
+          "617c291548dd724e795c",
+          "ba58b8dc47854c532fda",
+          "554c52a17d303e7b43d2",
+          "911f4272ae9481ecb75c",
+          "1d45cb40d928aa4c2a6a",
+          "3b839c6ea52e4edba73f",
+          "32574620c3ac2fef66f3",
+          "3967a68c66a363d144df",
+          "455d609ac8c70330e8e1",
+          "978dff659637b4386a1c",
+          "8ac8d6a6804fab6edac3",
+          "2443ce07d93fd09a68f2",
+          "3c51b73bc482a57fc190",
+          "f8e0fd0a709320786dc0",
+          "afe1d3a0a03aa8840500",
+          "315c080f856531e8c0f4",
+          "8bf7f9c8bec8f47b0ac6",
+          "c298a50378b9dfba8c3f",
+          "94cdc29b1836acb17fe9",
+          "289ed106d9134628292a",
+          "910b5789bccc73073ba0",
+          "4db61ebb4ee5c464dceb",
+          "b952d41854a0c5df77ca",
+          "13558c2712e63da50fd0",
+          "8fadd9e926bf1c4ca814",
+          "fd66a0f41057c682e764",
+          "e00f6ee2d56dbd0dfd13",
+          "77ff64716f7c1351a15c",
+          "b842d2e16c24d2770c0c",
+          "94057340e02c92fb7e85",
+          "05bf27591538f7f1ba41",
+          "d71dd740e4cfd53f296d",
+          "a73630f5a00aa730ec79",
+          "1a5fa2445950b8ad9a5b",
+          "3e118abe066cebac4c73",
+          "fa78d52fa0b684a4be83",
+          "5d02200fc6299b1f0154",
+          "9eb8c21a1b51eed06e7e",
+          "3a028116c3007ebbcff7",
+          "66811ad87dc8b09cca8b",
+          "1af56ff4178a4a02d3be",
+          "f150cab63587fa45f412",
+          "1ca2bedc743c4e226598",
+          "8e8f98fb664b087d5d03",
+          "26eda65eb4822da0ad32",
+          "f0bcbeb70552324a6262",
+          "f8b62b8b6bccbda8ae91",
+          "b28623fc0412f222b3ba",
+          "93db9b2a1a6117219839",
+          "10714223d9cc1bd13cd2",
+          "4e3d7797fc3ca741f52c",
+          "bfcf284f36ac7f2bd9b2",
+          "023f08e23a5cb8edbb71",
+          "7eeea58468d12f50bca7",
+          "1503d8f7cb87da873aab",
+          "29057d9b7aeb08214c50",
+          "e8a184883f9dcb33add7",
+          "42372d43109b4c4eac85",
+          "c356bb399040b720bfe9",
+          "569b15b26167d28cee70",
+          "862e2d25d902d40998fb",
+          "2015a9b8d8f950299c3b"
+        ]
       }
     }
   }

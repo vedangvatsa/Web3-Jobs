@@ -1,0 +1,28 @@
+---
+title: Jensen Huang weighs Nvidia comeback as allies organize campaign
+ogTitle: "JENSEN HUANG WEIGHS NVIDIA COMEBACK AS ALLIES ORGANIZE CAMPAIGN"
+description: The Financial Times reported that the former Nvidia chief is discussing a return and that Silicon Valley executives are assembling a lobbying effort with White House outreach.
+image: /images/news/comeback.jpg
+imageCaption: "Jensen Huang at Stanford University in April 2026. Photo: Anders Eidesvik via Wikimedia Commons (CC BY 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Jensen%20huang%20stanford%202026-04-30%20025.jpg
+category: News
+data-ai-hint: tech executive portrait
+publishedDate: '2026-11-16'
+lastUpdated: '2026-11-16'
+---
+
+Jensen Huang is discussing a return to Nvidia as chief executive, days after he resigned from the company, the Financial Times reported on Nov. 15, citing multiple people familiar with the matter. Huang has raised the possibility of coming back with confidants, and one ally told the newspaper that supporters are putting together a "war room" of Silicon Valley executives to lobby for his reinstatement and seek support from the White House. "Everyone that matters in tech outside the frontier labs loves Jensen," the ally said, [according to](https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit) Cointelegraph's account of the report.
+
+The reported effort has Huang's backing even as Nvidia's board runs an independent investigation into the conduct that led to his exit on Thursday, Nov. 12, [Newsweek reported](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954). Some of Huang's allies are uncertain how to rebuild his standing, and one person involved in the effort acknowledged that having an affair with a subordinate is a fireable offense, the [report said](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954). Huang stepped down as president, chief executive and director after 33 years at the chipmaker he co-founded, following reports of extramarital relationships, including one with an executive whom U.S. intelligence officials reportedly suspected of ties to Chinese intelligence. China has denied the espionage allegations. Colette Kress, the chief financial officer, is serving as interim chief executive while the board searches for a permanent successor.
+
+A public petition called "Bring Jensen Back" has gathered more than 161,000 signatures, its organizers [said](https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit), listing Tesla and SpaceX chief executive Elon Musk and Epic Games chief Tim Sweeney among supporters. The campaign website claims more than 9,000 signatures from current and former Nvidia employees. A separate [count](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954) put the petition at about 156,000 signatures as of Sunday, including more than 7,500 people identifying themselves as employees and more than 82,700 as shareholders, with those affiliations not independently verified.
+
+[The same report](https://cryptobriefing.com/jensen-huang-in-talks-for-nvidia-ceo-return-with-silicon-valley-support-ft/) said no official Nvidia statement confirms any return, and that Colette Kress currently leads the company as the search continues. The board said on Nov. 13 that it is selecting a search firm and has not formally engaged any candidate. "Any speculation regarding individual candidates, whether internal or external, is premature," the board said in a [Nov. 13 statement](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954).
+
+Political pressure is running the other way. U.S. Treasury Secretary Scott Bessent called Sunday for a "dramatic shake-up" of Nvidia's leadership and urged the company to hire its next chief from outside, while President Donald Trump suggested on Thursday that former Apple chief Tim Cook could take the job, [Cointelegraph reported](https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit). Nvidia shares fell as much as 14% on Thursday before recovering to close 4.3% lower, the report said.
+
+Investors are pressing the board to keep the door open. Brad Gerstner of Altimeter Capital and Gavin Baker of Atreides Management published a letter on Friday asking directors to leave "all options on the table, including the potential return of Jensen Huang," [according to](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954) the report. Their firms held about 10.6 million Nvidia shares combined as of June 30, according to regulatory filings cited in the report.
+
+Skeptics are vocal. Dan Ives, a senior managing director at Yorkville Ives & Co., told Newsweek he sees no chance of a return. "Despite pressure from major shareholders we see no chance Jensen comes back to Nvidia as CEO," Ives said by email, adding that the reputational damage is not recoverable. Charles Elson, a corporate governance expert at the University of Delaware's Weinberg Center, said reinstating Huang would not answer the questions facing the board. "Bringing him back doesn't solve any problems at all," [he said](https://www.newsweek.com/dan-ives-jensen-huang-nvidia-ceo-comeback-12717954).
+
+Nvidia researcher Bryan Catanzaro said on Friday that a letter claiming his involvement in the reinstatement push was fabricated. Nvidia and a spokesperson for Huang declined to comment to the Financial Times, Newsweek and Cointelegraph each reported. The company is scheduled to report earnings on Nov. 17 with Kress at the helm and no permanent successor named.
