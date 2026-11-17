@@ -62,10 +62,21 @@ if (mode === 'trim') {
 }
 
 async function api(path, init = {}, attempt = 0) {
-  const response = await fetch(`${BASE}${path}`, {
-    ...init,
-    headers: { Authorization: `Bearer ${key}`, 'content-type': 'application/json', ...(init.headers || {}) },
-  });
+  let response;
+  try {
+    response = await fetch(`${BASE}${path}`, {
+      ...init,
+      headers: { Authorization: `Bearer ${key}`, 'content-type': 'application/json', ...(init.headers || {}) },
+    });
+  } catch (error) {
+    // Transport-level failure (reset/timeout) — this machine's link drops
+    // during long walks; retry with backoff before giving up.
+    if (attempt < 8) {
+      await new Promise(resolve => setTimeout(resolve, Math.min(30, 2 ** attempt) * 1000));
+      return api(path, init, attempt + 1);
+    }
+    throw new Error(`network error after retries: ${path}: ${error.message}`);
+  }
   if (response.status === 429 || response.status >= 500) {
     const retryAfter = Number(response.headers.get('retry-after')) || Math.min(60, 2 ** attempt);
     if (attempt < 8) {
