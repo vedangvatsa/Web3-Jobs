@@ -148027,7 +148027,8 @@
       "account": "6a134180c687a22dd420e089",
       "provider": "buffer",
       "attemptId": "4bdf299c-5da1-442c-a016-ff036160e575",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6afc3d2c9d7d4c6b78582356"
     }
   ]
 }
