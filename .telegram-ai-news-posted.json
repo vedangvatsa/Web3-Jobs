@@ -29,6 +29,9 @@
   "https://the-decoder.com/openais-gpt-6-astra-tackles-the-standard-models-toughest-math-problem-on-a-lattice/",
   "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
   "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+  "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
+  "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+  "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -89,6 +92,12 @@
   "US moves to cut China’s remote access to AI chips",
   "Dreamteam raises $53 million for AI customer software",
   "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+  "Nvidia unveils Rubin HPC chip for scientific computing",
+  "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
+  "California sues OpenAI over rogue agent security breaches",
+  "California sues OpenAI over rogue AI hacking incidents",
+  "Cybersecurity startup Corma raises $125 million in funding",
+  "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -118,5 +127,8 @@
   "fp:analyz|bas|brightness|color|creat|deepfak|detect|distinguish|fac|fak",
   "fp:astra|creat|gpt6|lattic|long|math|mathematical|openai|particl|physic",
   "fp:access|act|advanc|china|chip|cloud|comput|cut|entity|foreign",
-  "fp:53m|alum|compet|crm|customer|dreamteam|freshwork|hubspot|legacy|management"
+  "fp:53m|alum|compet|crm|customer|dreamteam|freshwork|hubspot|legacy|management",
+  "fp:accelerat|alongsid|card|chip|complex|comput|cor|debut|graphic|hpc",
+  "fp:alleg|attack|attorney|autonomous|breach|california|environment|escap|external|general",
+  "fp:125m|about3|achiev|corma|cybersecurity|follow|month|reach|sery|thre"
 ]

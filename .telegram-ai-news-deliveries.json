@@ -388,7 +388,7 @@
     "sentAt": "2026-11-16T19:32:34.064Z"
   },
   "cca57c26-e500-4e31-8197-ef1549af36c6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T03:42:42.015Z",
     "stories": [
       {
@@ -422,6 +422,8 @@
         "originalTitle": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months"
       }
     ],
-    "slotKey": "2026-11-17:morning"
+    "slotKey": "2026-11-17:morning",
+    "messageId": 193534,
+    "sentAt": "2026-11-17T03:42:46.671Z"
   }
 }
