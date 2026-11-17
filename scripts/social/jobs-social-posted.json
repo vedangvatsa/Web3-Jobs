@@ -148167,6 +148167,39 @@
       "attemptId": "ec33c921-7285-4205-ad62-c16b235960e1",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 17-Nov-26 11:33:46 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A-3a9A2Aaa-LiNQihFKLbh6\"}"
+    },
+    {
+      "slug": "ops166",
+      "company": "BVNK",
+      "title": "Payment Operations Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-11-17T19:33:31.766Z",
+      "expectedText": "BVNK is hiring Payment Operations Analyst: https://hashtagweb3.com/ops166/bsky?og=7",
+      "snapshot": {
+        "id": "5026014101",
+        "title": "Payment Operations Analyst",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5026014101",
+        "date": "2026-11-06T01:23:46-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "Malta",
+        "department": "Operations",
+        "active": true,
+        "salary": "€40k – €55k/yr",
+        "dateVerified": true,
+        "slug": "ops166"
+      },
+      "payload": {
+        "text": "BVNK is hiring Payment Operations Analyst: https://hashtagweb3.com/ops166/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops166/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops166.png?v=7",
+        "company": "BVNK",
+        "title": "Payment Operations Analyst",
+        "description": "Join BVNK as Payment Operations Analyst. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "738a8e2a-88c6-46a7-9486-33725440cb21",
+      "verification": "creating"
     }
   ]
 }
