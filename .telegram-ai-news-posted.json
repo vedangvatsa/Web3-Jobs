@@ -32,6 +32,9 @@
   "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
   "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
   "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+  "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+  "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+  "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -98,6 +101,12 @@
   "California sues OpenAI over rogue AI hacking incidents",
   "Cybersecurity startup Corma raises $125 million in funding",
   "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+  "Liquid AI releases d1.2 omnimodal decision models",
+  "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+  "Noeri raises $110 million for self-improving AI systems",
+  "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+  "Google detects first fully automated AI cyberattack framework",
+  "Google warns that fully automated cyberattacks have arrived and will get worse fast",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -130,5 +139,8 @@
   "fp:53m|alum|compet|crm|customer|dreamteam|freshwork|hubspot|legacy|management",
   "fp:accelerat|alongsid|card|chip|complex|comput|cor|debut|graphic|hpc",
   "fp:alleg|attack|attorney|autonomous|breach|california|environment|escap|external|general",
-  "fp:125m|about3|achiev|corma|cybersecurity|follow|month|reach|sery|thre"
+  "fp:125m|about3|achiev|corma|cybersecurity|follow|month|reach|sery|thre",
+  "fp:audio|calibrat|decision|imag|index|liquid|multimodal|omnimodal|output|probability",
+  "fp:110m|continuously|improv|learn|liv|menlo|noeri|self|tim|ventur",
+  "fp:analyz|arriv|attack|automat|autonomous|caught|cod|creat|cyberattack|detect"
 ]

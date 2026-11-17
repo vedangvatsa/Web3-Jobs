@@ -427,7 +427,7 @@
     "sentAt": "2026-11-17T03:42:46.671Z"
   },
   "76c73b55-f205-439b-8ecc-751d210ca3a2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T11:33:01.745Z",
     "stories": [
       {
@@ -461,6 +461,8 @@
         "originalTitle": "Google warns that fully automated cyberattacks have arrived and will get worse fast"
       }
     ],
-    "slotKey": "2026-11-17:afternoon"
+    "slotKey": "2026-11-17:afternoon",
+    "messageId": 193536,
+    "sentAt": "2026-11-17T11:33:10.751Z"
   }
 }
