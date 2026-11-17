@@ -147119,6 +147119,47 @@
       "verification": "verified",
       "postId": "6afc3c09d4d832ae4bc564d2",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7528420670263808001"
+    },
+    {
+      "slug": "sls458",
+      "company": "Ripple",
+      "title": "Accounting Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-17T11:32:23.578Z",
+      "expectedText": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/li?og=7",
+      "snapshot": {
+        "id": "8366302",
+        "title": "Accounting Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8366302?gh_jid=8366302",
+        "date": "2026-11-09T18:22:50-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "New York, NY, United States",
+        "department": "Finance",
+        "active": true,
+        "salary": "$132k – $160k/yr",
+        "dateVerified": true,
+        "slug": "sls458"
+      },
+      "payload": {
+        "text": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls458/li?og=7",
+          "title": "Accounting Manager at Ripple",
+          "description": "Join Ripple as Accounting Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls458.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "e2a537f0-8c90-4055-b7ce-d32d83055c8b",
+      "verification": "creating"
     }
   ]
 }
