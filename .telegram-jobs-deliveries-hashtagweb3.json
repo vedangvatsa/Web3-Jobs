@@ -1428,7 +1428,7 @@
     "sentAt": "2026-11-17T11:32:37.292Z"
   },
   "85de4c62-69b3-4b71-8267-862e4f272c77": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T19:32:44.907Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1550,6 +1550,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sec95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Security Engineer, Abuse Control</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/pm394?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager | Bill Pay</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/dina?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Director, Interconnection &amp; Network (AI Datacenter)</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/mgr208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KOL and Social Manager</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/sec146?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate Director, Security IT Administration</a>",
-    "slotKey": "2026-11-17:evening"
+    "slotKey": "2026-11-17:evening",
+    "messageId": 156320,
+    "sentAt": "2026-11-17T19:32:47.762Z"
   }
 }
