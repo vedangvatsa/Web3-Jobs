@@ -3,7 +3,7 @@
 import type { Job, Article, NewsItem } from '@/types';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { ArrowRight, Briefcase, BookOpen, Newspaper, Send, Smartphone } from 'lucide-react';
+import { ArrowRight, Briefcase, BookOpen, Newspaper, Send } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import Image from 'next/image';
 import { ResponsiveImage } from './responsive-image';
@@ -27,7 +27,7 @@ import Autoplay from 'embla-carousel-autoplay';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import {
   stats, companies, partnersLogos, mediaLogos, hiredCompanies,
-  channels, caseStudies, communityPhotos, whatsappGroups,
+  channels, caseStudies, communityPhotos,
   testimonials, resources,
 } from '@/lib/community-data';
 
@@ -141,30 +141,6 @@ export function CommunityPageContent({
             </Card>
           ))}
         </div>
-      </section>
-
-      {/* Regional WhatsApp Groups */}
-      <section className="w-full">
-        <Card className="w-full shadow-sm">
-          <CardContent className="p-4 sm:p-6 md:p-8">
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-center">
-              <div className="lg:col-span-1 text-center md:text-left">
-                <h3 className="text-lg sm:text-xl font-bold text-foreground mb-2">Join Our Regional WhatsApp Groups</h3>
-                <p className="text-muted-foreground text-xs sm:text-sm leading-relaxed">Connect with Web3 professionals in your region. Approval is based on your WhatsApp number country code.</p>
-              </div>
-              <div className="lg:col-span-2 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
-                {whatsappGroups.map((group) => (
-                  <a href={group.link} key={group.region} target="_blank" rel="noopener noreferrer" className="w-full">
-                    <Button variant="outline" className="w-full text-xs sm:text-sm h-10 truncate justify-center">
-                      <Smartphone className="mr-2 h-4 w-4 shrink-0" />
-                      <span className="truncate">{group.region}</span>
-                    </Button>
-                  </a>
-                ))}
-              </div>
-            </div>
-          </CardContent>
-        </Card>
       </section>
 
       {/* Community Moments */}

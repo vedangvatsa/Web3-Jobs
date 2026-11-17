@@ -192,15 +192,6 @@ export const communityPhotos = [
   { src: '/logo/gallery/2025-08-14-22.38.17.jpg', alt: 'Hashtag Web3 community members celebrating at blockchain event' }
 ];
 
-export const whatsappGroups = [
-  { region: 'Europe', link: 'https://chat.whatsapp.com/JrUfhcam2piAb1MHtfBNKB' },
-  { region: 'North America', link: 'https://chat.whatsapp.com/HT7gVlIjNDEFyT7QX3opiM' },
-  { region: 'Africa', link: 'https://chat.whatsapp.com/Hb4kyFWPkxgGxwSTUSWAqM' },
-  { region: 'Asia', link: 'https://chat.whatsapp.com/HHL6j40XlF6GefkOimSltG' },
-  { region: 'South America', link: 'https://chat.whatsapp.com/CLIkN0RbHoxLBtJo9DIpBD' },
-  { region: 'India', link: 'https://chat.whatsapp.com/JrUfhcam2piAb1MHtfBNKB' },
-];
-
 export const testimonials = [
  {
   quote:"Their jobs channel is the most effective Web3 job board I've come across. Its real-time updates allow me to apply to new roles the moment they are available on the market, significantly improving the visibility of my applications.",
