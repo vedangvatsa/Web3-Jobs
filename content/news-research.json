@@ -179374,11 +179374,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "8c9abddcd12fe57ffa13",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-17T04:30:00.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "source-blocked",
+      "note": "Attempted both known sources: CoinDesk returned HTTP 429 rate-limit on WebFetch and direct GET with readiness UA, The Defiant returned HTTP 403. No alternative outlet opened yet; story cannot be verified from headlines.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/bitcoin-held-since-2011-moves-alongside-legal-notice",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T02:44:16.443Z",
+      "retrySearches": [
+        "Find accessible independent reporting on the Satoshi-era wallet that moved 75 BTC after being served in the 60 billion lawsuit, including court filing details"
+      ],
+      "lastReviewedDay": "2026-11-17",
+      "nextReviewDate": "2026-11-18"
     },
     "1fe5c9206e23631f8d47": {
       "source": "The Defiant",
@@ -359172,6 +359190,25 @@
           "reviewedAt": "2026-11-17T02:40:10.370Z",
           "retrySearches": [
             "Find an accessible second report on the Lighter exchange 0.4 million exploit and withdrawal halt, including Lighter's own announcement or post-mortem"
+          ]
+        },
+        "8c9abddcd12fe57ffa13": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Attempted both known sources: CoinDesk returned HTTP 429 rate-limit on WebFetch and direct GET with readiness UA, The Defiant returned HTTP 403. No alternative outlet opened yet; story cannot be verified from headlines.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/bitcoin-held-since-2011-moves-alongside-legal-notice",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T02:44:16.443Z",
+          "retrySearches": [
+            "Find accessible independent reporting on the Satoshi-era wallet that moved 75 BTC after being served in the 60 billion lawsuit, including court filing details"
           ]
         }
       },
