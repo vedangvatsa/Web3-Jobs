@@ -185931,7 +185931,31 @@
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 0,
       "expiresAt": "2026-11-19T13:13:14.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "articleSlug": "strategy485",
+      "draftProgress": {
+        "id": "ab687f83adb0f54920b5",
+        "day": "2026-11-17",
+        "articleSlug": "strategy485",
+        "note": "Read Unchained Nov. 16 report (with SEC 8-K link) and Crypto Briefing Nov. 16 report on the 485 BTC purchase and STRC buyback week; The Block returns 403. Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/strategy-buys-485-bitcoin-for-33-4-million-lifting-holdings-to-850849-btc/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-17T03:18:03.900Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "b77a2ed64112c741d5ec": {
       "source": "Decrypt",
