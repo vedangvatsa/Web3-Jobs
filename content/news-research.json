@@ -184532,11 +184532,29 @@
         "The Defiant"
       ],
       "id": "90be9c6de61e00826514",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T18:54:19.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "source-blocked",
+      "note": "CoinDesk's Nov. 16 story returned HTTP 429 on two bounded GET attempts (WebFetch and curl with the readiness User-Agent); The Defiant's related piece returned HTTP 403. No readable source yet for the Senate Democrats' letter to the CFTC.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:12:17.247Z",
+      "retrySearches": [
+        "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands"
+      ],
+      "lastReviewedDay": "2026-11-17",
+      "nextReviewDate": "2026-11-18"
     },
     "dc33de1dc4b66ec587bb": {
       "source": "Decrypt",
@@ -359532,6 +359550,25 @@
             }
           ],
           "reviewedAt": "2026-11-17T03:10:34.196Z"
+        },
+        "90be9c6de61e00826514": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "CoinDesk's Nov. 16 story returned HTTP 429 on two bounded GET attempts (WebFetch and curl with the readiness User-Agent); The Defiant's related piece returned HTTP 403. No readable source yet for the Senate Democrats' letter to the CFTC.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:12:17.247Z",
+          "retrySearches": [
+            "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands"
+          ]
         }
       },
       "baselineSlugs": [
