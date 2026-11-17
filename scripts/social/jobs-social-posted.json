@@ -149764,7 +149764,8 @@
       "provider": "buffer",
       "attemptId": "38831464-51da-4d71-9451-8cbb5e006ffd",
       "verification": "pending",
-      "postId": "6afcade4b0028e70d9d1351d"
+      "postId": "6afcade4b0028e70d9d1351d",
+      "error": "LinkedIn CVin.Bio receipt 6afcade4b0028e70d9d1351d remains pending: Buffer LinkedIn readback failed: HTTP 429; read-only reconciliation required"
     }
   ]
 }
