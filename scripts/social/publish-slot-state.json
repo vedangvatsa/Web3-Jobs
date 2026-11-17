@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-16",
+  "deployed": "2026-11-17",
   "ingested": "2026-11-16",
   "dailyDeployments": {
     "2026-10-23": [
@@ -1207,12 +1207,14 @@
           "vitalikquantum",
           "hyperliquidplea"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-17T04:21:13.870Z",
         "buildId": "daily-20261117-44003684855-1",
         "rolloutId": "daily-20261117-44003684855-1",
         "buildState": "READY",
-        "observedAt": "2026-11-17T04:52:03.088Z"
+        "observedAt": "2026-11-17T04:52:35.722Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-17T04:52:35.722Z"
       }
     ]
   }
