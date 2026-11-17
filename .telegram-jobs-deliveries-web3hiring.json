@@ -2518,7 +2518,7 @@
     "sentAt": "2026-11-17T03:42:53.831Z"
   },
   "71cdc04b-a8d5-419a-8431-db0cd0f423d6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T03:42:55.671Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -2631,6 +2631,8 @@
       }
     ],
     "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/dev42?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applications Developer, Workday</a>\n- Ripio is hiring <a href=\"https://hashtagweb3.com/mkt157?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Operations &amp; CRM Senior</a>\n- Walrus Foundation is hiring <a href=\"https://hashtagweb3.com/mkt135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integrated Marketing Lead</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Research Intern - NYC</a>\n- Immutable is hiring <a href=\"https://hashtagweb3.com/sec43?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer (Product Security)</a>",
-    "slotKey": "2026-11-17:morning"
+    "slotKey": "2026-11-17:morning",
+    "messageId": 201,
+    "sentAt": "2026-11-17T03:42:58.072Z"
   }
 }
