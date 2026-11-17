@@ -184092,11 +184092,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "641ef989f49f398fedcd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T00:46:00.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "out-of-scope",
+      "note": "Read Crypto Briefing's Nov. 16 report: California Business and Consumer Services Agency secretary Rohit Chopra said in a Reuters NEXT interview his agency may sue AI companies over state licensing rules. The story concerns AI licensing enforcement with no Web3 or crypto event, and both queue links are Crypto Briefing pieces on the same interview, so it is outside the site's scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/california-regulator-court-action-ai-companies/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:10:34.196Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "0b212741b99845e2397a": {
       "source": "The Block",
@@ -359510,6 +359520,18 @@
           "note": "OpenAI CFO remarks on a possible Anthropic IPO valuation are AI-industry opinion commentary, not a Web3 concrete event; both linked pieces are Crypto Briefing commentary and the Anthropic IPO roadshow itself is already covered by content/articles/anthropicipo.md.",
           "sourceChecks": [],
           "reviewedAt": "2026-11-17T03:10:13.618Z"
+        },
+        "641ef989f49f398fedcd": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Crypto Briefing's Nov. 16 report: California Business and Consumer Services Agency secretary Rohit Chopra said in a Reuters NEXT interview his agency may sue AI companies over state licensing rules. The story concerns AI licensing enforcement with no Web3 or crypto event, and both queue links are Crypto Briefing pieces on the same interview, so it is outside the site's scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/california-regulator-court-action-ai-companies/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:10:34.196Z"
         }
       },
       "baselineSlugs": [
