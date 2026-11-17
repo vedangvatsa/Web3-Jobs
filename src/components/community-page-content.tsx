@@ -3,7 +3,7 @@
 import type { Job, Article, NewsItem } from '@/types';
 import Link from 'next/link';
 import { Button } from '@/components/ui/button';
-import { ArrowRight, Briefcase, BookOpen, Newspaper, Send } from 'lucide-react';
+import { ArrowRight, Briefcase, BookOpen, Newspaper, Send, ShieldCheck } from 'lucide-react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import Image from 'next/image';
 import { ResponsiveImage } from './responsive-image';
@@ -350,6 +350,22 @@ export function CommunityPageContent({
             </Button>
           </TabsContent>
         </Tabs>
+      </section>
+
+      {/* Explicit Anti-Phishing and Trademark Disclaimers */}
+      <section className="w-full pt-4 border-t border-border/60">
+        <div className="rounded-lg border border-border/50 bg-muted/20 p-4 text-xs text-muted-foreground leading-relaxed space-y-2">
+          <div className="flex items-center gap-1.5 font-medium text-foreground">
+            <ShieldCheck className="h-4 w-4 text-primary shrink-0" />
+            <span>Security &amp; Trademark Notice</span>
+          </div>
+          <p>
+            Hashtag Web3 will never ask for private keys, seed phrases, passwords, or direct transfers of funds. Official communications occur only through verified channels. Please stay vigilant against impersonation attempts on third-party messaging services.
+          </p>
+          <p>
+            All third-party trademarks, company names, product names, and logos displayed on this site are the property of their respective owners. Their use does not imply any affiliation, sponsorship, or endorsement by or of Hashtag Web3.
+          </p>
+        </div>
       </section>
 
     </div>
