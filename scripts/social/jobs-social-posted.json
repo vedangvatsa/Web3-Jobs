@@ -146463,7 +146463,8 @@
         "description": "Join Ripple as Accounting Manager. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "0f7fbc97-111e-4b11-8071-9030b9e4c4eb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2ix35r2vx2h"
     }
   ]
 }
