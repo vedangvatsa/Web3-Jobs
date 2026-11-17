@@ -328,5 +328,36 @@
     "slotKey": "2026-11-16:evening",
     "messageId": 65835,
     "sentAt": "2026-11-16T19:35:23.240Z"
+  },
+  "ad93efe8-084e-4693-8855-1d199216f5f9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T03:44:09.301Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Coinone warns of data breach via support contractor",
+        "summary": "Hackers breached outsourced provider MetaM, accessing user passwords, national identification numbers, and cryptocurrency wallet addresses.",
+        "link": "https://hashtagweb3.com/coinonehack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinone warns customers after support contractor breach exposes IDs, passwords"
+      },
+      {
+        "index": -1,
+        "headline": "Czech Central Bank Completes First Tokenized Bond Trial",
+        "summary": "The institution evaluated whether blockchain-based assets improve the speed and efficiency of trading and settlement.",
+        "link": "https://hashtagweb3.com/cnbbond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Czech National Bank Completes Its First Tokenized Bond Tests"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Foundation Wallet Sells 2,000 ETH",
+        "summary": "Lookonchain reported the address converted 1,000 ETH daily into USDS via CoW Protocol on November 10–11.",
+        "link": "https://hashtagweb3.com/efsale?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Foundation-linked wallet sells 2,000 ETH over two days"
+      }
+    ],
+    "slotKey": "2026-11-17:morning"
   }
 }
