@@ -147692,6 +147692,41 @@
       "attemptId": "6c1345e1-893f-4ca7-a6af-8dd526c6ebd7",
       "verification": "verified",
       "postId": "0x633ccf5b6982a26eae4698f6eafe9c19e09ed837"
+    },
+    {
+      "slug": "eng638",
+      "company": "DriveWealth",
+      "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+      "platform": "farcaster",
+      "postedAt": "2026-11-17T11:37:16.030Z",
+      "expectedText": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027\n\nhttps://hashtagweb3.com/eng638/fc?og=7",
+      "snapshot": {
+        "id": "8039350003",
+        "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+        "company": "DriveWealth",
+        "link": "https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003",
+        "date": "2026-10-20T14:42:23-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DriveWealth [drivewealth]",
+        "location": "Chicago, IL; New York, NY",
+        "department": "Internships & Early Careers",
+        "active": true,
+        "salary": "$35 – $40/hr",
+        "dateVerified": true,
+        "slug": "eng638"
+      },
+      "payload": {
+        "text": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027\n\nhttps://hashtagweb3.com/eng638/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng638/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "a961e7f4-1b1f-4c42-84c2-cf1fa6e4498b",
+      "verification": "creating"
     }
   ]
 }
