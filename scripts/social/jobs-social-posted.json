@@ -147366,7 +147366,8 @@
       },
       "account": "profile",
       "attemptId": "b1756486-2726-494c-b94b-0770f4ce9c80",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x57a122c52ba87d06969c5969b5833090d758785a"
     }
   ]
 }
