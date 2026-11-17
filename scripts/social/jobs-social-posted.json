@@ -149680,6 +149680,47 @@
       "attemptId": "5b45bc84-c542-4b8d-b327-0153fca50983",
       "verification": "verified",
       "postId": "0x99583bf8a0c24aef83da9a6926b013383d02bd25"
+    },
+    {
+      "slug": "sls452",
+      "company": "CoinsPaid",
+      "title": "Head of Accounting",
+      "platform": "linkedin",
+      "postedAt": "2026-11-17T19:38:12.452Z",
+      "expectedText": "CoinsPaid is hiring Head of Accounting: https://hashtagweb3.com/sls452/li?og=7",
+      "snapshot": {
+        "id": "5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "title": "Head of Accounting",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "date": "2026-10-29T09:55:46.433Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Finance and Accounting",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "sls452"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Head of Accounting: https://hashtagweb3.com/sls452/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls452/li?og=7",
+          "title": "Head of Accounting at CoinsPaid",
+          "description": "Join CoinsPaid as Head of Accounting. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls452.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "4f4597d1-d9dd-419b-b6aa-1550c982d304",
+      "verification": "creating"
     }
   ]
 }
