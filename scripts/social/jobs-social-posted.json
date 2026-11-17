@@ -149766,6 +149766,48 @@
       "verification": "pending",
       "postId": "6afcade4b0028e70d9d1351d",
       "error": "LinkedIn CVin.Bio receipt 6afcade4b0028e70d9d1351d remains pending: Buffer LinkedIn readback failed: HTTP 429; read-only reconciliation required"
+    },
+    {
+      "slug": "sls452",
+      "company": "CoinsPaid",
+      "title": "Head of Accounting",
+      "platform": "linkedin",
+      "postedAt": "2026-11-17T19:38:12.452Z",
+      "expectedText": "CoinsPaid is hiring Head of Accounting: https://hashtagweb3.com/sls452/li?og=7",
+      "snapshot": {
+        "id": "5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "title": "Head of Accounting",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "date": "2026-10-29T09:55:46.433Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Finance and Accounting",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "sls452"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Head of Accounting: https://hashtagweb3.com/sls452/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls452/li?og=7",
+          "title": "Head of Accounting at CoinsPaid",
+          "description": "Join CoinsPaid as Head of Accounting. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls452.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "92c436bb-6889-4771-ba65-e5baa258018e",
+      "verification": "creating"
     }
   ]
 }
