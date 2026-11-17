@@ -148774,7 +148774,8 @@
       },
       "account": "channel:design",
       "attemptId": "1799a9b1-7ad2-49f1-813d-e7f38114b9a6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2dd7d59f3298f03d9151f2ef7e5b7e4d7d84a23f"
     }
   ]
 }
