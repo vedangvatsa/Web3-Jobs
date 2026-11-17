@@ -145462,6 +145462,42 @@
       "attemptId": "ad5e5ef3-7c9e-4973-b3c1-d6039be3cf0c",
       "verification": "verified",
       "postId": "urn:li:share:7528302747444531200"
+    },
+    {
+      "slug": "dadc",
+      "company": "Bitdeer",
+      "title": "Director, AI Datacenter Construction",
+      "platform": "facebook",
+      "postedAt": "2026-11-17T03:43:33.128Z",
+      "expectedText": "Bitdeer is hiring Director, AI Datacenter Construction: https://hashtagweb3.com/dadc/fb?og=7",
+      "snapshot": {
+        "id": "ae5736e5a901",
+        "title": "Director, AI Datacenter Construction",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
+        "date": "2026-11-03",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Remote (Austin, TX)",
+        "isRemote": true,
+        "department": "",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
+          "checkedAt": "2026-11-05T00:30:52.113Z",
+          "bodySha256": "f3a0bb1aacd1f2e7c359dd3227945d70d156b12db85dcfa0195b6d5d9a366841",
+          "provider": "breezy",
+          "datePosted": "2026-11-03"
+        },
+        "slug": "dadc"
+      },
+      "payload": {
+        "message": "Bitdeer is hiring Director, AI Datacenter Construction: https://hashtagweb3.com/dadc/fb?og=7",
+        "link": "https://hashtagweb3.com/dadc/fb?og=7"
+      },
+      "attemptId": "31cae8d6-76d8-4609-a136-4417fb140f5c",
+      "verification": "creating"
     }
   ]
 }
