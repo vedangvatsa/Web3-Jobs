@@ -1310,7 +1310,7 @@
     "sentAt": "2026-11-17T03:43:05.005Z"
   },
   "dd4cfa3c-6c74-4f0d-8e87-0e3cb7e551b7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T11:32:34.561Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1423,6 +1423,8 @@
       }
     ],
     "message": "- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/mkt148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Data Center Growth &amp; Development Intern - NYC</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ops168?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Operations Associate SDC</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sls140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Director, Central Banks &amp; Regulators (EMEA)</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/mgr192?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/an23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Treasury and FinOps Analyst</a>",
-    "slotKey": "2026-11-17:afternoon"
+    "slotKey": "2026-11-17:afternoon",
+    "messageId": 156311,
+    "sentAt": "2026-11-17T11:32:37.292Z"
   }
 }
