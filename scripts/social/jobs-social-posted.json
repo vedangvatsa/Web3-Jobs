@@ -145460,7 +145460,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "ad5e5ef3-7c9e-4973-b3c1-d6039be3cf0c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7528302747444531200"
     }
   ]
 }
