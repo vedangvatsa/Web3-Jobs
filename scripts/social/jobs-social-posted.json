@@ -146401,6 +146401,35 @@
       "verification": "pending",
       "postId": "6afc3b60b9fb95e12d013dd2",
       "error": "Buffer X publish failed for 6afc3b60b9fb95e12d013dd2: An unknown error has occurred. Please retry the post again, and get in touch if this persists."
+    },
+    {
+      "slug": "sls458",
+      "company": "Ripple",
+      "title": "Accounting Manager",
+      "platform": "threads",
+      "postedAt": "2026-11-17T11:32:23.578Z",
+      "expectedText": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/th?og=7",
+      "snapshot": {
+        "id": "8366302",
+        "title": "Accounting Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8366302?gh_jid=8366302",
+        "date": "2026-11-09T18:22:50-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "New York, NY, United States",
+        "department": "Finance",
+        "active": true,
+        "salary": "$132k – $160k/yr",
+        "dateVerified": true,
+        "slug": "sls458"
+      },
+      "payload": {
+        "text": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sls458/th?og=7"
+      },
+      "attemptId": "c1bba935-ab44-4917-b705-4026acc49ad5",
+      "verification": "creating"
     }
   ]
 }
