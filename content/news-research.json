@@ -184120,9 +184120,9 @@
         "The Defiant"
       ],
       "id": "b6cbd8e681e8963d3e3d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T22:54:57.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "custodia",
@@ -184152,7 +184152,29 @@
         "updatedAt": "2026-11-17T02:35:43.404Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the Supreme Court docket for No. 26-62 showing the Nov. 16 denial, Cointelegraph's Nov. 16 report and Bitcoin Magazine's Nov. 16 report; verified the cert denial, the Oct. 31, 2025 Tenth Circuit ruling, the Jan. 27, 2023 denial and the amici across sources. The Defiant returned 403. Draft, hero image and audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T02:38:32.053Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "367425fe08d383912a39": {
       "source": "BeInCrypto",
@@ -359015,6 +359037,31 @@
             "Find independent reporting confirming the event in: Layer 2 Scaling Explained",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "b6cbd8e681e8963d3e3d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Supreme Court docket for No. 26-62 showing the Nov. 16 denial, Cointelegraph's Nov. 16 report and Bitcoin Magazine's Nov. 16 report; verified the cert denial, the Oct. 31, 2025 Tenth Circuit ruling, the Jan. 27, 2023 denial and the amici across sources. The Defiant returned 403. Draft, hero image and audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-62.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/supreme-court-rejects-custodia-s-fed-account-appeal",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T02:38:32.053Z",
+          "articleSlug": "custodia"
         }
       },
       "baselineSlugs": [
