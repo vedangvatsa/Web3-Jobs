@@ -2872,5 +2872,122 @@
     "slotKey": "2026-11-17:afternoon",
     "messageId": 202,
     "sentAt": "2026-11-17T11:32:28.883Z"
+  },
+  "cad40958-63a1-45c1-8063-7bcec30efdb4": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T19:32:33.526Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8328365",
+          "title": "Software Engineer - Trading Operations",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8328365",
+          "date": "2026-11-02T14:35:30-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Chicago",
+          "department": "FICC Options Middle Office",
+          "active": true,
+          "salary": "$120k – $175k/yr",
+          "dateVerified": true,
+          "slug": "eng700"
+        },
+        "key": "8328365",
+        "slug": "eng700",
+        "url": "https://hashtagweb3.com/eng700?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "b82ca781-0f57-4598-990e-b722f331a7c6",
+          "title": "Engineering Manager, Growth",
+          "company": "Chainlink Labs",
+          "link": "https://jobs.ashbyhq.com/chainlink-labs/b82ca781-0f57-4598-990e-b722f331a7c6",
+          "date": "2026-11-16",
+          "dateVerified": true,
+          "source": "Ashby: Chainlink Labs [chainlink-labs]",
+          "location": "Remote (Charlotte)",
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "slug": "mkt113"
+        },
+        "key": "b82ca781-0f57-4598-990e-b722f331a7c6",
+        "slug": "mkt113",
+        "url": "https://hashtagweb3.com/mkt113?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainlink Labs",
+        "title": "Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6e717b06-6613-42ad-a1ee-f852a305fa37",
+          "title": "Software Engineer, Fullstack, Spend Controls",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/6e717b06-6613-42ad-a1ee-f852a305fa37",
+          "date": "2026-11-13T21:52:14.463+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fs26"
+        },
+        "key": "6e717b06-6613-42ad-a1ee-f852a305fa37",
+        "slug": "fs26",
+        "url": "https://hashtagweb3.com/fs26?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8357043",
+          "title": "Head of Renewals, EMEA & APAC",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8357043",
+          "date": "2026-11-06T04:29:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Dublin",
+          "department": "1341 Renewals",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ren"
+        },
+        "key": "8357043",
+        "slug": "ren",
+        "url": "https://hashtagweb3.com/ren?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Head of Renewals"
+      },
+      {
+        "snapshot": {
+          "id": "7c50272b-c559-41ad-b563-eb53a634b04f",
+          "title": "Senior Campaigns Manager",
+          "company": "Elliptic",
+          "link": "https://jobs.ashbyhq.com/elliptic/7c50272b-c559-41ad-b563-eb53a634b04f",
+          "date": "2026-11-16T13:34:32.794+00:00",
+          "source": "Ashby: Elliptic [Elliptic]",
+          "location": "Hybrid (New York, NY)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr268"
+        },
+        "key": "7c50272b-c559-41ad-b563-eb53a634b04f",
+        "slug": "mgr268",
+        "url": "https://hashtagweb3.com/mgr268?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Elliptic",
+        "title": "Senior Campaigns Manager"
+      }
+    ],
+    "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/eng700?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer - Trading Operations</a>\n- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/mkt113?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Growth</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/fs26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Fullstack, Spend Controls</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ren?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Renewals, EMEA &amp; APAC</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/mgr268?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Campaigns Manager</a>",
+    "slotKey": "2026-11-17:evening"
   }
 }
