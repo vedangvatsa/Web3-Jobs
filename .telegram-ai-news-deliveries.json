@@ -466,7 +466,7 @@
     "sentAt": "2026-11-17T11:33:10.751Z"
   },
   "c3c823de-6634-4988-8114-d2b16aaadee9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T19:34:34.197Z",
     "stories": [
       {
@@ -498,6 +498,8 @@
         "originalTitle": "Model ML raises $250M to automate investment banking grunt work"
       }
     ],
-    "slotKey": "2026-11-17:evening"
+    "slotKey": "2026-11-17:evening",
+    "messageId": 193538,
+    "sentAt": "2026-11-17T19:34:51.484Z"
   }
 }
