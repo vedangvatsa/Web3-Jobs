@@ -148380,6 +148380,41 @@
       "attemptId": "47595559-ec6d-4011-981c-fa23d293cd5c",
       "verification": "verified",
       "postId": "0x5d1c0f4091c040b244747dc3ef94c27f538889d8"
+    },
+    {
+      "slug": "ops166",
+      "company": "BVNK",
+      "title": "Payment Operations Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-17T19:33:31.766Z",
+      "expectedText": "BVNK is hiring Payment Operations Analyst\n\nhttps://hashtagweb3.com/ops166/fc?og=7",
+      "snapshot": {
+        "id": "5026014101",
+        "title": "Payment Operations Analyst",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5026014101",
+        "date": "2026-11-06T01:23:46-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "Malta",
+        "department": "Operations",
+        "active": true,
+        "salary": "€40k – €55k/yr",
+        "dateVerified": true,
+        "slug": "ops166"
+      },
+      "payload": {
+        "text": "BVNK is hiring Payment Operations Analyst\n\nhttps://hashtagweb3.com/ops166/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops166/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "e39d32ed-bed8-4e0a-8085-fd4ab6f90976",
+      "verification": "creating"
     }
   ]
 }
