@@ -400,5 +400,51 @@
     "slotKey": "2026-11-16:evening",
     "messageId": 156285,
     "sentAt": "2026-11-16T19:32:18.639Z"
+  },
+  "da652558-b663-4e5d-9086-04ca5610ef66": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T03:42:30.842Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-hlKrPIIiRiniy1E",
+        "slug": "blockchain-london",
+        "name": "Blockchain.com: TYB Party",
+        "startDate": "2026-11-17T20:00:00.000Z",
+        "keys": [
+          "luma-crypto-hlkrpiiiriniy1e",
+          "page:blockchain-london:2026-11-17",
+          "luma-url:/blockc-eg04",
+          "event:blockchaincomtybparty:2026-11-17:london"
+        ]
+      },
+      {
+        "id": "luma-crypto-Z4Cw9D6ZEgR2lld",
+        "slug": "token-talk",
+        "name": "Token Talk: Houston OPEN MIC NIGHT Ft. Tangem",
+        "startDate": "2026-11-17T23:30:00.000Z",
+        "keys": [
+          "luma-crypto-z4cw9d6zegr2lld",
+          "page:token-talk:2026-11-17",
+          "luma:evt-z4cw9d6zegr2lld",
+          "luma-url:/f9us9dxu",
+          "event:tokentalkhoustonopenmicnightfttangem:2026-11-17:houston"
+        ]
+      },
+      {
+        "id": "premier-nabsummit",
+        "slug": "north-american-blockchain-summit",
+        "name": "North American Blockchain Summit 2026",
+        "startDate": "2026-11-18",
+        "keys": [
+          "premier-nabsummit",
+          "north",
+          "page:north-american-blockchain-summit:2026-11-18",
+          "event:northamericanblockchainsummit2026:2026-11-18:arlington"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-17:morning"
   }
 }
