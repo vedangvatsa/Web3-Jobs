@@ -147944,6 +147944,47 @@
       "attemptId": "bb6141a5-97c6-4e8d-8655-1bdb0c74bfa1",
       "verification": "verified",
       "postId": "0x68d1f104e39c5fb949c1834a05b795a7053b9d7d"
+    },
+    {
+      "slug": "eng638",
+      "company": "DriveWealth",
+      "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+      "platform": "linkedin",
+      "postedAt": "2026-11-17T11:37:16.030Z",
+      "expectedText": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027: https://hashtagweb3.com/eng638/li?og=7",
+      "snapshot": {
+        "id": "8039350003",
+        "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+        "company": "DriveWealth",
+        "link": "https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003",
+        "date": "2026-10-20T14:42:23-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DriveWealth [drivewealth]",
+        "location": "Chicago, IL; New York, NY",
+        "department": "Internships & Early Careers",
+        "active": true,
+        "salary": "$35 – $40/hr",
+        "dateVerified": true,
+        "slug": "eng638"
+      },
+      "payload": {
+        "text": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027: https://hashtagweb3.com/eng638/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng638/li?og=7",
+          "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027 at DriveWealth",
+          "description": "Join DriveWealth as AI Consulting Associate Program En. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng638.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "01aa34ff-9823-4e06-882c-320a5a90de4e",
+      "verification": "creating"
     }
   ]
 }
