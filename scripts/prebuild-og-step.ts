@@ -13,7 +13,9 @@ function main(): void {
 
   if (process.env.OG_FILL_MISSING === '1') {
     run('npx tsx scripts/precompute-og-images.ts --if-missing');
-    if (process.env.FAH_FAST_PREBUILD === '1') {
+    const skipPreviewRegen =
+      process.env.FAH_FAST_PREBUILD === '1' && process.env.VERCEL !== '1';
+    if (skipPreviewRegen) {
       console.log('[prebuild-og] FAH_FAST_PREBUILD — skip preview regen (previews in git)');
       return;
     }

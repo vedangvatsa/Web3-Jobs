@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "nextjs",
+  "installCommand": "npm ci --prefer-offline --no-audit --no-fund",
+  "buildCommand": "npm run build",
+  "build": {
+    "env": {
+      "FAH_FAST_PREBUILD": "1",
+      "OG_PRECOMPUTE": "0",
+      "OG_FILL_MISSING": "1",
+      "NODE_OPTIONS": "--max-old-space-size=6144"
+    }
+  }
+}
