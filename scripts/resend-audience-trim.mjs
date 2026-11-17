@@ -57,8 +57,9 @@ const key = process.env.RESEND_API_KEY;
 const focusId = process.env.RESEND_AUDIENCE_ID?.trim();
 if (!key) throw new Error('RESEND_API_KEY missing');
 if (mode === 'trim') {
-  if (args['confirm'] !== 'DELETE') throw new Error('trim requires --confirm DELETE');
-  if (!/^\d+$/.test(args['keep-count'] || '')) throw new Error('trim requires a numeric --keep-count');
+  // Dry runs plan and export without deleting; real runs gate on
+  // --confirm DELETE inside the trim block (where --dry is parsed).
+  if (args['dry'] !== 'true' && args['confirm'] !== 'DELETE') throw new Error('trim requires --confirm DELETE (or --dry true to plan only)');
 }
 
 async function api(path, init = {}, attempt = 0) {
