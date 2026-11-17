@@ -71,8 +71,8 @@ async function api(path, init = {}, attempt = 0) {
   } catch (error) {
     // Transport-level failure (reset/timeout) — this machine's link drops
     // during long walks; retry with backoff before giving up.
-    if (attempt < 8) {
-      await new Promise(resolve => setTimeout(resolve, Math.min(30, 2 ** attempt) * 1000));
+    if (attempt < 12) {
+      await new Promise(resolve => setTimeout(resolve, Math.min(60, 2 ** attempt) * 1000));
       return api(path, init, attempt + 1);
     }
     throw new Error(`network error after retries: ${path}: ${error.message}`);
@@ -372,11 +372,46 @@ async function main() {
         console.error(`[segment] contacts from file: ${contacts.length}`);
       } else {
         if (!focusId) throw new Error('segment requires RESEND_AUDIENCE_ID (focus audience)');
+        const stateFile = args['state-file'] || null;
+        const jsonlFile = stateFile ? `${stateFile}.jsonl` : null;
         contacts = [];
-        for await (const contact of paginateContacts(focusId)) {
-          contacts.push({ id: contact.id, email: String(contact.email || '').toLowerCase(), created_at: contact.created_at ?? null, unsubscribed: Boolean(contact.unsubscribed) });
-          if (contacts.length % 10000 === 0) console.error(`[segment] contacts: ${contacts.length}...`);
+        let after;
+        if (stateFile && fs.existsSync(stateFile)) {
+          const saved = JSON.parse(fs.readFileSync(stateFile, 'utf8'));
+          after = saved.after || undefined;
+          if (jsonlFile && fs.existsSync(jsonlFile)) {
+            const seen = new Set();
+            for (const line of fs.readFileSync(jsonlFile, 'utf8').split('\n')) {
+              if (!line.trim()) continue;
+              for (const contact of JSON.parse(line)) {
+                if (!seen.has(contact.id)) { seen.add(contact.id); contacts.push(contact); }
+              }
+            }
+          }
+          console.error(`[segment] resuming walk: ${contacts.length} loaded, after=${after || 'start'}`);
         }
+        let pages = 0;
+        for (;;) {
+          const query = new URLSearchParams({ limit: '100' });
+          if (after) query.set('after', after);
+          const page = await api(`/audiences/${focusId}/contacts?${query}`);
+          const items = Array.isArray(page?.data) ? page.data : [];
+          if (!items.length) break;
+          pages++;
+          const rows = items.map(c => ({ id: c.id, email: String(c.email || '').toLowerCase(), created_at: c.created_at ?? null, unsubscribed: Boolean(c.unsubscribed) }));
+          contacts.push(...rows);
+          if (jsonlFile) fs.appendFileSync(jsonlFile, JSON.stringify(rows) + '\n');
+          if (contacts.length % 10000 < 100) console.error(`[segment] contacts: ${contacts.length}...`);
+          const hasMore = page?.has_more ?? page?.hasMore ?? items.length === 100;
+          if (!hasMore) { after = undefined; break; }
+          after = items[items.length - 1]?.id;
+          if (!after) break;
+          if (stateFile) fs.writeFileSync(stateFile, JSON.stringify({ after, count: contacts.length }));
+          await new Promise(resolve => setTimeout(resolve, CONTACTS_PAGE_SLEEP_MS));
+        }
+        if (stateFile) fs.writeFileSync(stateFile, JSON.stringify({ after: null, count: contacts.length, done: true }));
+        const unique = new Map(contacts.map(c => [c.id, c]));
+        contacts = [...unique.values()];
         console.error(`[segment] contacts total: ${contacts.length}`);
       }
       const byEmail = new Map();
