@@ -396,7 +396,7 @@
     "sentAt": "2026-11-17T11:33:44.244Z"
   },
   "593abbfd-b7bf-4bac-9a7b-cecc28043397": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T19:34:44.986Z",
     "stories": [
       {
@@ -424,6 +424,8 @@
         "originalTitle": "MEGA cuts 20% of staff as MegaETH group shifts toward AI products"
       }
     ],
-    "slotKey": "2026-11-17:evening"
+    "slotKey": "2026-11-17:evening",
+    "messageId": 65838,
+    "sentAt": "2026-11-17T19:34:53.876Z"
   }
 }
