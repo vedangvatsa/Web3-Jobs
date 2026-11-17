@@ -2874,7 +2874,7 @@
     "sentAt": "2026-11-17T11:32:28.883Z"
   },
   "cad40958-63a1-45c1-8063-7bcec30efdb4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T19:32:33.526Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -2988,6 +2988,8 @@
       }
     ],
     "message": "- DRW is hiring <a href=\"https://hashtagweb3.com/eng700?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer - Trading Operations</a>\n- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/mkt113?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Growth</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/fs26?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Fullstack, Spend Controls</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ren?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Renewals, EMEA &amp; APAC</a>\n- Elliptic is hiring <a href=\"https://hashtagweb3.com/mgr268?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Campaigns Manager</a>",
-    "slotKey": "2026-11-17:evening"
+    "slotKey": "2026-11-17:evening",
+    "messageId": 16657,
+    "sentAt": "2026-11-17T19:32:35.990Z"
   }
 }
