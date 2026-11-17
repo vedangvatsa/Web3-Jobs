@@ -35,6 +35,9 @@
   "https://hashtagweb3.com/onchainrights?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/hyperliquidplea?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/simbolon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/custodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/vitalikquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/megacuts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -107,6 +110,12 @@
   "Ex-Robinhood engineer pleads guilty to wire fraud over Hyperliquid trades",
   "Singapore and German central banks test cross-border CBDC settlements",
   "Singapore and Germany test cross-border CBDC settlement with Project Simbolon",
+  "Supreme Court rejects Custodia Bank's bid for Federal Reserve access",
+  "Supreme Court turns down Custodia Bank's bid for Federal Reserve payment access",
+  "Vitalik Buterin supports leanPCS for Ethereum quantum security",
+  "Vitalik Buterin backs leanPCS as the fast route to quantum-safe Ethereum",
+  "MEGA cuts 20% of staff to develop AI products",
+  "MEGA cuts 20% of staff as MegaETH group shifts toward AI products",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -142,5 +151,8 @@
   "fp:000|and11|chain|cow|daily|day|eth|foundation|link|november10",
   "fp:broadridg|coinbas|corporat|how|improvement|notic|official|propos|proposal|publish",
   "fp:125|523|admitt|confidential|engineer|forfeit|former|fraud|futur|guilty",
-  "fp:bank|border|cbdc|central|clear|cross|dollar|euro|german|germany"
+  "fp:bank|border|cbdc|central|clear|cross|dollar|euro|german|germany",
+  "fp:access|account|application|authority|bank|bid|court|custodia|deny|down",
+  "fp:back|blockchain|buterin|chang|cryptographic|eip8288|fast|his|keep|larg",
+  "fp:30m|allocat|cuts20|develop|firm|group|inferenc|layer2|mega|megaeth"
 ]
