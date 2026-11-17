@@ -1308,5 +1308,121 @@
     "slotKey": "2026-11-17:morning",
     "messageId": 156300,
     "sentAt": "2026-11-17T03:43:05.005Z"
+  },
+  "dd4cfa3c-6c74-4f0d-8e87-0e3cb7e551b7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T11:32:34.561Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6256234004",
+          "title": "2027 Data Center Growth & Development Intern - NYC",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256234004",
+          "date": "2026-11-12T12:31:48-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "New York",
+          "department": "Early Careers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt148"
+        },
+        "key": "6256234004",
+        "slug": "mkt148",
+        "url": "https://hashtagweb3.com/mkt148?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "2027 Data Center Growth & Development Intern"
+      },
+      {
+        "snapshot": {
+          "id": "8158943",
+          "title": "Fraud Operations Associate SDC",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8158943",
+          "date": "2026-11-10T03:24:51-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Bengaluru",
+          "department": "4378 SDC - Fraud Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops168"
+        },
+        "key": "8158943",
+        "slug": "ops168",
+        "url": "https://hashtagweb3.com/ops168?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Fraud Operations Associate SDC"
+      },
+      {
+        "snapshot": {
+          "id": "32fa63e4-56ee-4d76-a24e-c91dcee2bad0",
+          "title": "Account Director, Central Banks & Regulators (EMEA)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/32fa63e4-56ee-4d76-a24e-c91dcee2bad0",
+          "date": "2026-10-23T05:16:57.914+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (EMEA)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls140"
+        },
+        "key": "32fa63e4-56ee-4d76-a24e-c91dcee2bad0",
+        "slug": "sls140",
+        "url": "https://hashtagweb3.com/sls140?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Account Director"
+      },
+      {
+        "snapshot": {
+          "id": "5010453101",
+          "title": "Customer Success Manager",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5010453101",
+          "date": "2026-10-19T20:56:32-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Commercial",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr192"
+        },
+        "key": "5010453101",
+        "slug": "mgr192",
+        "url": "https://hashtagweb3.com/mgr192?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Customer Success Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8886061002",
+          "title": "Senior Treasury and FinOps Analyst",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8886061002",
+          "date": "2026-10-19T22:08:19-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Finance",
+          "active": true,
+          "salary": "$97.8k – $132.3k/yr",
+          "dateVerified": true,
+          "slug": "an23"
+        },
+        "key": "8886061002",
+        "slug": "an23",
+        "url": "https://hashtagweb3.com/an23?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Treasury and FinOps Analyst"
+      }
+    ],
+    "message": "- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/mkt148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Data Center Growth &amp; Development Intern - NYC</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ops168?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Operations Associate SDC</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/sls140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Director, Central Banks &amp; Regulators (EMEA)</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/mgr192?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/an23?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Treasury and FinOps Analyst</a>",
+    "slotKey": "2026-11-17:afternoon"
   }
 }
