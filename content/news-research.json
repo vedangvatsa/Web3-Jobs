@@ -184354,11 +184354,21 @@
         "The Defiant"
       ],
       "id": "4b1248cbfa3cab458152",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T20:37:00.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "stale",
+      "note": "Read Crypto Briefing Nov 16 in full; the article states the BlackRock ICS US Dollar Liquidity Fund and Brevan Howard Master Fund debut on Sei via KAIO took place on October 8, 2025 and returned to view only because of renewed social-media attention, so there is no fresh event inside the lookback window. The Defiant link in the queue covers a different Invesco fund story.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/blackrock-brevan-howard-tokenized-funds-sei/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:03:00.720Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "77e921a95248b2989c81": {
       "source": "Crypto Briefing",
@@ -359427,6 +359437,18 @@
           ],
           "reviewedAt": "2026-11-17T03:00:05.757Z",
           "articleSlug": "backpackcftc"
+        },
+        "4b1248cbfa3cab458152": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Read Crypto Briefing Nov 16 in full; the article states the BlackRock ICS US Dollar Liquidity Fund and Brevan Howard Master Fund debut on Sei via KAIO took place on October 8, 2025 and returned to view only because of renewed social-media attention, so there is no fresh event inside the lookback window. The Defiant link in the queue covers a different Invesco fund story.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/blackrock-brevan-howard-tokenized-funds-sei/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:03:00.720Z"
         }
       },
       "baselineSlugs": [
