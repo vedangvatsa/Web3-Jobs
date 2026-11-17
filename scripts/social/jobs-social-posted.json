@@ -145500,6 +145500,37 @@
       "attemptId": "31cae8d6-76d8-4609-a136-4417fb140f5c",
       "verification": "verified",
       "postId": "691827047618629_1148373931103174"
+    },
+    {
+      "slug": "eng670",
+      "company": "Phantom",
+      "title": "AI Engineer",
+      "platform": "x",
+      "postedAt": "2026-11-17T03:47:53.446Z",
+      "expectedText": "Phantom is hiring AI Engineer\n\nhttps://hashtagweb3.com/eng670/x?og=7",
+      "snapshot": {
+        "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "title": "AI Engineer",
+        "company": "Phantom",
+        "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "date": "2026-10-27T20:00:50.661+00:00",
+        "source": "Ashby: Phantom [Phantom]",
+        "location": "Remote-US",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng670"
+      },
+      "payload": {
+        "text": "Phantom is hiring AI Engineer\n\nhttps://hashtagweb3.com/eng670/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "501c3a58-94f2-4f21-a597-a104fa45d449",
+      "verification": "creating"
     }
   ]
 }
