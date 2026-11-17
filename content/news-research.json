@@ -186085,9 +186085,9 @@
         "Bankless"
       ],
       "id": "53ee2230b10048d4700d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T08:18:03.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "vitalikquantum",
@@ -186113,7 +186113,29 @@
         "updatedAt": "2026-11-17T02:51:36.100Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read EIP-8288 in full, Decrypt Nov 16 and Unchained Nov 16 on Buterin's X thread endorsing leanPCS for the draft; verified the Nov 16 date, the quote, the three design options, size figures and gas estimates across sources; hero downloaded from Wikimedia and compressed.",
+      "sourceChecks": [
+        {
+          "url": "https://eips.ethereum.org/EIPS/eip-8288",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/vitalik-buterin-says-ethereums-quantum-safe-plan-can-ship-sooner-with-this-design/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ethresear.ch/t/sphincs-minus-efficient-stateless-post-quantum-signature-verification-on-the-evm/25165",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-17T02:59:48.201Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "43393aef7f3651a8e651": {
       "source": "CoinDesk",
@@ -359325,6 +359347,31 @@
           ],
           "reviewedAt": "2026-11-17T02:51:18.067Z",
           "articleSlug": "simbolon"
+        },
+        "53ee2230b10048d4700d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read EIP-8288 in full, Decrypt Nov 16 and Unchained Nov 16 on Buterin's X thread endorsing leanPCS for the draft; verified the Nov 16 date, the quote, the three design options, size figures and gas estimates across sources; hero downloaded from Wikimedia and compressed.",
+          "sourceChecks": [
+            {
+              "url": "https://eips.ethereum.org/EIPS/eip-8288",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/vitalik-buterin-says-ethereums-quantum-safe-plan-can-ship-sooner-with-this-design/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ethresear.ch/t/sphincs-minus-efficient-stateless-post-quantum-signature-verification-on-the-evm/25165",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-17T02:59:48.201Z",
+          "articleSlug": "vitalikquantum"
         }
       },
       "baselineSlugs": [
