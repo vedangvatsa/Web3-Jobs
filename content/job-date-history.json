@@ -45855,5 +45855,24 @@
   "ashby:c51ff8e5-914c-4bf4-a33f-351e119c2e06": {
     "date": "2026-11-16T23:03:38.655+00:00",
     "dateVerified": true
+  },
+  "greenhouse:5039571101": {
+    "date": "2026-11-16T21:52:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5026150101": {
+    "date": "2026-11-16T22:32:46-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6263746004": {
+    "date": "2026-11-16T21:53:46-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:aa39ee38-a16f-4538-9137-fa517c66fd6b": {
+    "date": "2026-11-17T02:37:16.746+00:00",
+    "dateVerified": true
   }
 }

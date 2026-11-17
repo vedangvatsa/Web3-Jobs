@@ -158075,5 +158075,49 @@
     "company": "Galaxy Digital",
     "title": "Analyst, Client Services & Operations",
     "newSlug": "ops185"
+  },
+  "mkt126": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt156"
+  },
+  "cmp135": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp182"
+  },
+  "dev51": {
+    "id": "infosys-infsys-external-255106",
+    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1",
+    "company": "Infosys",
+    "title": "Blockchain Developer"
+  },
+  "dev52": {
+    "id": "infosys-infsys-external-255107",
+    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1",
+    "company": "Infosys",
+    "title": "Blockchain Developer"
+  },
+  "sss10": {
+    "id": "8335618",
+    "link": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
+    "company": "Coinbase",
+    "title": "Social Support Specialist I"
+  },
+  "cssl13": {
+    "id": "8337049",
+    "link": "https://www.coinbase.com/careers/positions/8337049?gh_jid=8337049",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "do21": {
+    "id": "5015356101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5015356101",
+    "company": "Bybit",
+    "title": "Principal DevOps Engineer"
   }
 }
