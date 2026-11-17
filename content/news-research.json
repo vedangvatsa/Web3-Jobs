@@ -179867,11 +179867,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "9cb54dc0f484d0239546",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T01:24:59.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "price-chatter",
+      "note": "Opened the Nov. 15 Defiant page: it reports CoinGlass liquidation totals and price moves (dek: $2.05B in liquidations as bitcoin sinks). Market-price data only, no concrete event; the second candidate URL is the same outlet's price coverage.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:20:59.037Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "cf302dfd261ec442ee8b": {
       "source": "The Defiant",
@@ -359672,6 +359682,18 @@
           ],
           "reviewedAt": "2026-11-17T03:17:58.977Z",
           "articleSlug": "onchainrights"
+        },
+        "9cb54dc0f484d0239546": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Opened the Nov. 15 Defiant page: it reports CoinGlass liquidation totals and price moves (dek: $2.05B in liquidations as bitcoin sinks). Market-price data only, no concrete event; the second candidate URL is the same outlet's price coverage.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:20:59.037Z"
         }
       },
       "baselineSlugs": [
