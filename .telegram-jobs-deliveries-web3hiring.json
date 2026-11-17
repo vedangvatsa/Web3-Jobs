@@ -2398,5 +2398,121 @@
     "slotKey": "2026-11-16:evening",
     "messageId": 200,
     "sentAt": "2026-11-16T19:32:46.593Z"
+  },
+  "63f63631-5e63-4d7d-94c7-2b75959c4903": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T03:42:45.731Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8348035",
+          "title": "Applications Developer, Workday",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8348035?t=gh_src=&gh_jid=8348035",
+          "date": "2026-11-02T17:11:27-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Toronto, Canada",
+          "department": "Enterprise Technology Division",
+          "active": true,
+          "salary": "$93.5k – $110k/yr",
+          "dateVerified": true,
+          "slug": "dev42"
+        },
+        "key": "8348035",
+        "slug": "dev42",
+        "url": "https://hashtagweb3.com/dev42?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Applications Developer"
+      },
+      {
+        "snapshot": {
+          "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+          "title": "Marketing Operations & CRM Senior",
+          "company": "Ripio",
+          "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+          "date": "2026-10-27T16:15:10.000Z",
+          "dateVerified": true,
+          "dateSource": "Teamtailor.jobs.rss",
+          "source": "Teamtailor: Ripio [ripio]",
+          "location": "Buenos Aires, Argentina (Remote)",
+          "department": "Branding & Marketing",
+          "active": true,
+          "slug": "mkt157"
+        },
+        "key": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+        "slug": "mkt157",
+        "url": "https://hashtagweb3.com/mkt157?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripio",
+        "title": "Marketing Operations & CRM Senior"
+      },
+      {
+        "snapshot": {
+          "id": "260f0e0c-a600-4108-9293-cc6e574847ee",
+          "title": "Integrated Marketing Lead",
+          "company": "Walrus Foundation",
+          "link": "https://jobs.ashbyhq.com/walrus/260f0e0c-a600-4108-9293-cc6e574847ee",
+          "date": "2026-10-30T18:04:51.065+00:00",
+          "source": "Ashby: Walrus Foundation [walrus]",
+          "location": "North America (Remote)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt135"
+        },
+        "key": "260f0e0c-a600-4108-9293-cc6e574847ee",
+        "slug": "mkt135",
+        "url": "https://hashtagweb3.com/mkt135?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Walrus Foundation",
+        "title": "Integrated Marketing Lead"
+      },
+      {
+        "snapshot": {
+          "id": "6250004004",
+          "title": "2027 Research Intern - NYC",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250004004",
+          "date": "2026-11-06T13:20:53-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "New York",
+          "department": "Early Careers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "int53"
+        },
+        "key": "6250004004",
+        "slug": "int53",
+        "url": "https://hashtagweb3.com/int53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "2027 Research Intern"
+      },
+      {
+        "snapshot": {
+          "id": "80353766-d815-497e-bf5f-17594677fcd9",
+          "title": "Senior Security Engineer (Product Security)",
+          "company": "Immutable",
+          "link": "https://jobs.lever.co/immutable/80353766-d815-497e-bf5f-17594677fcd9",
+          "date": "2026-10-22T06:53:45.284Z",
+          "source": "Lever: Immutable [immutable]",
+          "location": "Hybrid (Sydney)",
+          "workplaceType": "hybrid",
+          "department": "Platform Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec43"
+        },
+        "key": "80353766-d815-497e-bf5f-17594677fcd9",
+        "slug": "sec43",
+        "url": "https://hashtagweb3.com/sec43?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Immutable",
+        "title": "Senior Security Engineer"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/dev42?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applications Developer, Workday</a>\n- Ripio is hiring <a href=\"https://hashtagweb3.com/mkt157?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Operations &amp; CRM Senior</a>\n- Walrus Foundation is hiring <a href=\"https://hashtagweb3.com/mkt135?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integrated Marketing Lead</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Research Intern - NYC</a>\n- Immutable is hiring <a href=\"https://hashtagweb3.com/sec43?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Engineer (Product Security)</a>",
+    "slotKey": "2026-11-17:morning"
   }
 }
