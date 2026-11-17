@@ -147834,7 +147834,8 @@
       },
       "account": "channel:ai",
       "attemptId": "168948e8-9a7c-4ab2-8757-e3ab234ee175",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
     }
   ]
 }
