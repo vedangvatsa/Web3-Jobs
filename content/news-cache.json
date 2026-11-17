@@ -1,6 +1,62 @@
 {
-  "generatedAt": "2026-11-16T21:28:41.585Z",
+  "generatedAt": "2026-11-17T02:33:05.308Z",
   "items": [
+    {
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 01:02:05 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to s...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
+      "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+      "pubDate": "Mon, 16 Nov 2026 23:27:15 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
+      "source": "The Block"
+    },
+    {
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "link": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 22:46:44 +0000",
+      "creator": "Bryan O'Shea",
+      "contentSnippet": "Customs authorities could hold “suspicious” assets for 30 days under the bill, with court oversight for extensions and disputed confiscation.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "link": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 22:19:41 +0000",
+      "creator": "Jona Jaupi",
+      "contentSnippet": "FalconX’s Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "link": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+      "pubDate": "Mon, 16 Nov 2026 22:18:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "pubDate": "Mon, 16 Nov 2026 21:51:04 +0000",
+      "creator": "Helene Braun",
+      "contentSnippet": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+      "link": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+      "pubDate": "Mon, 16 Nov 2026 21:46:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage l...",
+      "source": "Decrypt"
+    },
     {
       "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
       "link": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
@@ -154,14 +210,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "HKMA and Swift Advance Cross-Border Payment Interoperability",
-      "link": "https://blockchain.news/news/hkma-swift-cross-border-payment-interoperability",
-      "pubDate": "Mon, 16 Nov 2026 16:52:23 GMT",
-      "creator": "Blockchain.News",
-      "contentSnippet": "The HKMA and Swift are collaborating to explore tokenized deposits for efficient cross-border payments via Project Ensemble and Swift ledger. (Read Mo...",
-      "source": "Blockchain.News"
-    },
-    {
       "title": "Boris Johnson backs tokenization months after likening bitcoin to a ‘Ponzi scheme’",
       "link": "https://www.theblock.co/news/regulation/2026-11-16-boris-johnson-backs-tokenization-months-after-bitcoin-to-ponzi-scheme-441368",
       "pubDate": "Mon, 16 Nov 2026 16:49:23 +0000",
@@ -306,6 +354,14 @@
       "source": "Coindesk"
     },
     {
+      "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+      "link": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 12:54:51 +0000",
+      "creator": "Zoltan Vardai",
+      "contentSnippet": "HKMA and Swift will explore linking Project Ensemble with Swift’s ledger for cross-border payments using tokenized deposits in multiple currencies.",
+      "source": "Cointelegraph"
+    },
+    {
       "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
       "link": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
       "pubDate": "Mon, 16 Nov 2026 12:09:00 +0000",
@@ -338,14 +394,6 @@
       "source": "The Block"
     },
     {
-      "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
-      "link": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
-      "pubDate": "Mon, 16 Nov 2026 10:25:15 +0000",
-      "creator": "Agent",
-      "contentSnippet": "A new law lets Germany's customs agency freeze assets worth more than €100,000 without a criminal case if their origin is in doubt.",
-      "source": "Decrypt"
-    },
-    {
       "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
       "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
       "pubDate": "Mon, 16 Nov 2026 09:54:55 +0000",
@@ -367,22 +415,6 @@
       "pubDate": "Mon, 16 Nov 2026 09:26:39 +0000",
       "creator": "Timmy Shen",
       "contentSnippet": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
-      "source": "The Block"
-    },
-    {
-      "title": "CoW Swap goes live on Solana with intent-based trading",
-      "link": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
-      "pubDate": "Mon, 16 Nov 2026 09:05:02 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network.",
-      "source": "The Block"
-    },
-    {
-      "title": "South Korean fintech giant Toss to launch in-app non-custodial crypto wallet: report",
-      "link": "https://www.theblock.co/news/business/2026-11-16-toss-non-custodial-crypto-wallet-440847",
-      "pubDate": "Mon, 16 Nov 2026 08:52:33 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "The firm is also said to be preparing for a VASP license for a business expansion to support stablecoin payments.",
       "source": "The Block"
     },
     {
@@ -522,14 +554,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "RWA protocol stUSDT winds down 3 years after $2.3B TVL peak",
-      "link": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 15 Nov 2026 06:27:26 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
       "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
       "pubDate": "Sun, 15 Nov 2026 02:50:57 +0000",
@@ -554,28 +578,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
-      "link": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
-      "pubDate": "Sat, 14 Nov 2026 15:38:27 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
-      "source": "Coindesk"
-    },
-    {
       "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
       "link": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
       "pubDate": "Sat, 14 Nov 2026 14:01:02 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete t...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock’s losing streak hits 11",
-      "link": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 14 Nov 2026 06:33:13 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock’s IBIT accounting for $143.5 million and Fidelity’s FBTC shedding ...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
@@ -639,14 +647,6 @@
       "pubDate": "Fri, 13 Nov 2026 11:20:44 +0000",
       "creator": "Ryan Gladwin",
       "contentSnippet": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
-      "link": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
-      "pubDate": "Thu, 12 Nov 2026 21:26:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether th...",
       "source": "Decrypt"
     }
   ]
