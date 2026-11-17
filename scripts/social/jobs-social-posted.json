@@ -147205,6 +147205,35 @@
       "attemptId": "49728e1d-67a6-4450-a17c-0e580be21998",
       "verification": "verified",
       "postId": "urn:li:share:7528420872718716928"
+    },
+    {
+      "slug": "sls458",
+      "company": "Ripple",
+      "title": "Accounting Manager",
+      "platform": "facebook",
+      "postedAt": "2026-11-17T11:32:23.578Z",
+      "expectedText": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/fb?og=7",
+      "snapshot": {
+        "id": "8366302",
+        "title": "Accounting Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8366302?gh_jid=8366302",
+        "date": "2026-11-09T18:22:50-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "New York, NY, United States",
+        "department": "Finance",
+        "active": true,
+        "salary": "$132k – $160k/yr",
+        "dateVerified": true,
+        "slug": "sls458"
+      },
+      "payload": {
+        "message": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/fb?og=7",
+        "link": "https://hashtagweb3.com/sls458/fb?og=7"
+      },
+      "attemptId": "b39328e7-834f-46f3-b6ee-ccbb6ae9f672",
+      "verification": "creating"
     }
   ]
 }
