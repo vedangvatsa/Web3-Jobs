@@ -146208,6 +146208,47 @@
       "attemptId": "445b1622-df67-4e1d-96c7-ebd8634214ef",
       "verification": "verified",
       "postId": "0x7f113f13c1a6ed53028e8e9922a75f5a3db94a41"
+    },
+    {
+      "slug": "eng670",
+      "company": "Phantom",
+      "title": "AI Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-17T03:47:53.446Z",
+      "expectedText": "Phantom is hiring AI Engineer: https://hashtagweb3.com/eng670/li?og=7",
+      "snapshot": {
+        "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "title": "AI Engineer",
+        "company": "Phantom",
+        "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "date": "2026-10-27T20:00:50.661+00:00",
+        "source": "Ashby: Phantom [Phantom]",
+        "location": "Remote-US",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng670"
+      },
+      "payload": {
+        "text": "Phantom is hiring AI Engineer: https://hashtagweb3.com/eng670/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng670/li?og=7",
+          "title": "AI Engineer at Phantom",
+          "description": "Join Phantom as AI Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng670.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "8965d47b-3326-42c0-b35e-f6a10888c815",
+      "verification": "creating"
     }
   ]
 }
