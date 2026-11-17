@@ -79,6 +79,14 @@
     "lastUrl": "https://hashtagweb3.com/mgr245",
     "updatedAt": "2026-11-13T19:32:40.534Z"
   },
+  "8356065": {
+    "slugs": [
+      "dse"
+    ],
+    "lastSlug": "dse",
+    "lastUrl": "https://hashtagweb3.com/dse",
+    "updatedAt": "2026-11-17T03:43:05.005Z"
+  },
   "8359461": {
     "slugs": [
       "eng706"
@@ -398,5 +406,37 @@
     "lastSlug": "sls394",
     "lastUrl": "https://hashtagweb3.com/sls394",
     "updatedAt": "2026-11-16T19:32:56.218Z"
+  },
+  "21acac5a-dbfc-4cdf-b6be-35783bd3ce73": {
+    "slugs": [
+      "eng767"
+    ],
+    "lastSlug": "eng767",
+    "lastUrl": "https://hashtagweb3.com/eng767",
+    "updatedAt": "2026-11-17T03:43:05.005Z"
+  },
+  "8203042003": {
+    "slugs": [
+      "qa106"
+    ],
+    "lastSlug": "qa106",
+    "lastUrl": "https://hashtagweb3.com/qa106",
+    "updatedAt": "2026-11-17T03:43:05.005Z"
+  },
+  "8932884002": {
+    "slugs": [
+      "ops164"
+    ],
+    "lastSlug": "ops164",
+    "lastUrl": "https://hashtagweb3.com/ops164",
+    "updatedAt": "2026-11-17T03:43:05.005Z"
+  },
+  "47032a24-3cd9-4418-834e-199924bc928a": {
+    "slugs": [
+      "aso65"
+    ],
+    "lastSlug": "aso65",
+    "lastUrl": "https://hashtagweb3.com/aso65",
+    "updatedAt": "2026-11-17T03:43:05.005Z"
   }
 }

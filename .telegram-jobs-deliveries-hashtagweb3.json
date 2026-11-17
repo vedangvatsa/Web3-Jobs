@@ -1191,7 +1191,7 @@
     "sentAt": "2026-11-16T19:32:56.218Z"
   },
   "21bc817d-b65b-4e67-a570-8f785f1300fd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T03:43:02.320Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1305,6 +1305,8 @@
       }
     ],
     "message": "- Rain is hiring <a href=\"https://hashtagweb3.com/eng767?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Analytics Engineer, Finance</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/qa106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Analyst, Financial Crime Compliance QA</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/dse?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Scientist, Experimentation</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/ops164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Training Specialist I</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/aso65?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">(Senior) Strategy Associate</a>",
-    "slotKey": "2026-11-17:morning"
+    "slotKey": "2026-11-17:morning",
+    "messageId": 156300,
+    "sentAt": "2026-11-17T03:43:05.005Z"
   }
 }
