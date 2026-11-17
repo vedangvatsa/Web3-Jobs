@@ -84,9 +84,7 @@ export const metadata: Metadata = {
   shortcut: '/favicon.ico',
   apple: [{ url: '/apple-icon.png', sizes: '180x180', type: 'image/png' }],
  },
- other: {
-  'gridinsoft-key': '33c6xtc5w635vnp05x3mmadmafyhezg8fhykvinealm6z9w3gqkqwom1809os0r0',
- },
+
 };
 
 export default async function RootLayout({
