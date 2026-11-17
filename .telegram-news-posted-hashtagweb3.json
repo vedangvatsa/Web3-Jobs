@@ -32,6 +32,9 @@
   "https://hashtagweb3.com/coinonehack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cnbbond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/efsale?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/onchainrights?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hyperliquidplea?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/simbolon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -98,6 +101,12 @@
   "Czech National Bank Completes Its First Tokenized Bond Tests",
   "Ethereum Foundation-linked wallet sells 2,000 ETH",
   "Ethereum Foundation-linked wallet sells 2,000 ETH over two days",
+  "Coinbase and Broadridge Propose Tokenized Share Notice Standard",
+  "Coinbase and Broadridge publish standard for tokenized stock shareholder notices",
+  "Former Robinhood Engineer Pleads Guilty to Wire Fraud",
+  "Ex-Robinhood engineer pleads guilty to wire fraud over Hyperliquid trades",
+  "Singapore and German central banks test cross-border CBDC settlements",
+  "Singapore and Germany test cross-border CBDC settlement with Project Simbolon",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -130,5 +139,8 @@
   "fp:approval|bank|charter|coinbas|custody|direct|exchang|federal|final|national",
   "fp:access|address|breach|coinon|compromis|contractor|customer|expos|follow|hacker",
   "fp:asset|bank|bond|complet|czech|digital|efficiency|improv|initial|national",
-  "fp:000|and11|chain|cow|daily|day|eth|foundation|link|november10"
+  "fp:000|and11|chain|cow|daily|day|eth|foundation|link|november10",
+  "fp:broadridg|coinbas|corporat|how|improvement|notic|official|propos|proposal|publish",
+  "fp:125|523|admitt|confidential|engineer|forfeit|former|fraud|futur|guilty",
+  "fp:bank|border|cbdc|central|clear|cross|dollar|euro|german|germany"
 ]
