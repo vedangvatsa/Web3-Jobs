@@ -148270,7 +148270,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "6bb80eb4-dd56-4031-bb6b-823361dbe7fd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1008499fd38c80fba404d110ce344a8cc441f0ee"
     }
   ]
 }
