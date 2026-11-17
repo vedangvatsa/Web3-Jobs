@@ -1426,5 +1426,130 @@
     "slotKey": "2026-11-17:afternoon",
     "messageId": 156311,
     "sentAt": "2026-11-17T11:32:37.292Z"
+  },
+  "85de4c62-69b3-4b71-8267-862e4f272c77": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T19:32:44.907Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8356917",
+          "title": "Staff Security Engineer, Abuse Control",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8356917",
+          "date": "2026-11-05T15:47:17-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Barcelona",
+          "department": "8611 Security Analytics",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec95"
+        },
+        "key": "8356917",
+        "slug": "sec95",
+        "url": "https://hashtagweb3.com/sec95?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Staff Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+          "title": "Product Manager | Bill Pay",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+          "date": "2026-11-12T17:25:55.452+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm394"
+        },
+        "key": "a84ae1e2-8c88-4e05-9cb6-fa3e11b55aeb",
+        "slug": "pm394",
+        "url": "https://hashtagweb3.com/pm394?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Product Manager | Bill Pay"
+      },
+      {
+        "snapshot": {
+          "id": "33b2a528a187",
+          "title": "Senior Director, Interconnection & Network (AI Datacenter)",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter",
+          "date": "2026-11-14",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Remote (Austin, TX)",
+          "isRemote": true,
+          "department": "",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/33b2a528a187-senior-director-interconnection-network-ai-datacenter",
+            "checkedAt": "2026-11-14T10:53:04.063Z",
+            "bodySha256": "236bd0a9ba17f7fda82e18c0eafa27e128a5db8a64f67653ef180c8711503d03",
+            "provider": "breezy",
+            "datePosted": "2026-11-14"
+          },
+          "slug": "dina"
+        },
+        "key": "33b2a528a187",
+        "slug": "dina",
+        "url": "https://hashtagweb3.com/dina?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Senior Director"
+      },
+      {
+        "snapshot": {
+          "id": "8a75bcc4-510e-4815-ac28-4dec643db866",
+          "title": "KOL and Social Manager",
+          "company": "ether.fi",
+          "link": "https://jobs.ashbyhq.com/ether.fi/8a75bcc4-510e-4815-ac28-4dec643db866",
+          "date": "2026-10-27T13:29:48.938+00:00",
+          "source": "Ashby: ether.fi [ether.fi]",
+          "location": "Cayman",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr208"
+        },
+        "key": "8a75bcc4-510e-4815-ac28-4dec643db866",
+        "slug": "mgr208",
+        "url": "https://hashtagweb3.com/mgr208?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "ether.fi",
+        "title": "KOL and Social Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4434891009",
+          "title": "Associate Director, Security IT Administration",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4434891009",
+          "date": "2026-11-03T15:39:36-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City",
+          "department": "Security / IT",
+          "active": true,
+          "salary": "$180k – $210k/yr",
+          "dateVerified": true,
+          "slug": "sec146"
+        },
+        "key": "4434891009",
+        "slug": "sec146",
+        "url": "https://hashtagweb3.com/sec146?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Associate Director"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sec95?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Security Engineer, Abuse Control</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/pm394?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager | Bill Pay</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/dina?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Director, Interconnection &amp; Network (AI Datacenter)</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/mgr208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KOL and Social Manager</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/sec146?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate Director, Security IT Administration</a>",
+    "slotKey": "2026-11-17:evening"
   }
 }
