@@ -145956,6 +145956,41 @@
       "attemptId": "5298681f-88a3-4512-8d1f-097e10e2df51",
       "verification": "verified",
       "postId": "0xb4dff4dd07a6d654a22e15269c2fffb3d22e5a64"
+    },
+    {
+      "slug": "eng670",
+      "company": "Phantom",
+      "title": "AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-17T03:47:53.446Z",
+      "expectedText": "Phantom is hiring AI Engineer\n\nhttps://hashtagweb3.com/eng670/fc?og=7",
+      "snapshot": {
+        "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "title": "AI Engineer",
+        "company": "Phantom",
+        "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "date": "2026-10-27T20:00:50.661+00:00",
+        "source": "Ashby: Phantom [Phantom]",
+        "location": "Remote-US",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng670"
+      },
+      "payload": {
+        "text": "Phantom is hiring AI Engineer\n\nhttps://hashtagweb3.com/eng670/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng670/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "df75de1b-ae70-4eba-860d-060139782762",
+      "verification": "creating"
     }
   ]
 }
