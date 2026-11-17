@@ -145312,6 +145312,54 @@
       "attemptId": "521c9aa4-50ca-46fc-b1b7-20ad37f1eccd",
       "verification": "verified",
       "postId": "0x60af9f3e4f6bc4ad62dfcbf2893ddb2c3925ca77"
+    },
+    {
+      "slug": "dadc",
+      "company": "Bitdeer",
+      "title": "Director, AI Datacenter Construction",
+      "platform": "linkedin",
+      "postedAt": "2026-11-17T03:43:33.128Z",
+      "expectedText": "Bitdeer is hiring Director, AI Datacenter Construction: https://hashtagweb3.com/dadc/li?og=7",
+      "snapshot": {
+        "id": "ae5736e5a901",
+        "title": "Director, AI Datacenter Construction",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
+        "date": "2026-11-03",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Remote (Austin, TX)",
+        "isRemote": true,
+        "department": "",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
+          "checkedAt": "2026-11-05T00:30:52.113Z",
+          "bodySha256": "f3a0bb1aacd1f2e7c359dd3227945d70d156b12db85dcfa0195b6d5d9a366841",
+          "provider": "breezy",
+          "datePosted": "2026-11-03"
+        },
+        "slug": "dadc"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Director, AI Datacenter Construction: https://hashtagweb3.com/dadc/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dadc/li?og=7",
+          "title": "Director, AI Datacenter Construction at Bitdeer",
+          "description": "Join Bitdeer as Director, AI Datacenter Construction. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dadc.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "a02cced7-e43e-4b17-9004-f83c21f4557c",
+      "verification": "creating"
     }
   ]
 }
