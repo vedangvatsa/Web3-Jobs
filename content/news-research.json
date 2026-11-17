@@ -184843,11 +184843,33 @@
         "The Defiant"
       ],
       "id": "193b8cbf43d59809d916",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T16:41:42.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "source-blocked",
+      "note": "Attempted all three sources: CoinDesk returned HTTP 429, BeInCrypto returned 403, The Defiant returned 403. No source text opened yet, so the reported 0.4 million exploit figure and withdrawal halt remain unverified.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://beincrypto.com/lighter-api-key-exploit-abraxas-withdrawals/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/lighter-halts-all-withdrawals-over-security-incident",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T02:40:10.370Z",
+      "retrySearches": [
+        "Find an accessible second report on the Lighter exchange 0.4 million exploit and withdrawal halt, including Lighter's own announcement or post-mortem"
+      ],
+      "lastReviewedDay": "2026-11-17",
+      "nextReviewDate": "2026-11-18"
     },
     "d9514a43e158453476c1": {
       "source": "Cointelegraph",
@@ -359084,6 +359106,29 @@
             }
           ],
           "reviewedAt": "2026-11-17T02:39:31.568Z"
+        },
+        "193b8cbf43d59809d916": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Attempted all three sources: CoinDesk returned HTTP 429, BeInCrypto returned 403, The Defiant returned 403. No source text opened yet, so the reported 0.4 million exploit figure and withdrawal halt remain unverified.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://beincrypto.com/lighter-api-key-exploit-abraxas-withdrawals/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/lighter-halts-all-withdrawals-over-security-incident",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T02:40:10.370Z",
+          "retrySearches": [
+            "Find an accessible second report on the Lighter exchange 0.4 million exploit and withdrawal halt, including Lighter's own announcement or post-mortem"
+          ]
         }
       },
       "baselineSlugs": [
