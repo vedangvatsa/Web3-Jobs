@@ -182370,11 +182370,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "94cdc29b1836acb17fe9",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T01:28:27.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "price-chatter",
+      "note": "Read Crypto Briefing's Nov. 15 report: the story tracks Bitcoin's slide below 2,000 and recovery to about 5,000, ETF outflows, liquidations and stablecoin supply. It is price movement and market commentary with no launch, vote, ruling, filing, hack, raise or upgrade.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bitcoin-price-volatility-below-62000-recovery/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-17T02:39:31.568Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "289ed106d9134628292a": {
       "source": "Cointelegraph",
@@ -359062,6 +359072,18 @@
           ],
           "reviewedAt": "2026-11-17T02:38:32.053Z",
           "articleSlug": "custodia"
+        },
+        "94cdc29b1836acb17fe9": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Crypto Briefing's Nov. 15 report: the story tracks Bitcoin's slide below 2,000 and recovery to about 5,000, ETF outflows, liquidations and stablecoin supply. It is price movement and market commentary with no launch, vote, ruling, filing, hack, raise or upgrade.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bitcoin-price-volatility-below-62000-recovery/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-17T02:39:31.568Z"
         }
       },
       "baselineSlugs": [
