@@ -1192,6 +1192,26 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-16T22:09:08.859Z"
       }
+    ],
+    "2026-11-17": [
+      {
+        "date": "2026-11-17",
+        "id": "44003684855-1",
+        "sourceCommit": "95d1af0f7604c98c32122881e6138ef1740e54bb",
+        "jobsCheckedAt": "2026-11-17T03:48:59.197Z",
+        "newsCompletedAt": "2026-11-17T04:20:15.502Z",
+        "articleSlugs": [
+          "custodia",
+          "onchainrights",
+          "simbolon",
+          "vitalikquantum",
+          "hyperliquidplea"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-17T04:21:13.870Z",
+        "buildId": "daily-20261117-44003684855-1",
+        "rolloutId": "daily-20261117-44003684855-1"
+      }
     ]
   }
 }
