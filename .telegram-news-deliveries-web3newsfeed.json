@@ -361,5 +361,36 @@
     "slotKey": "2026-11-17:morning",
     "messageId": 65836,
     "sentAt": "2026-11-17T03:44:13.776Z"
+  },
+  "22b853da-1909-419b-b0f9-520550e2b9a8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T11:33:40.641Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Coinbase and Broadridge Propose Tokenized Shareholder Notice Standard",
+        "summary": "The companies submitted an Ethereum Improvement Proposal giving crypto wallets a shared format for corporate investor updates.",
+        "link": "https://hashtagweb3.com/onchainrights?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase and Broadridge publish standard for tokenized stock shareholder notices"
+      },
+      {
+        "index": -1,
+        "headline": "Former Robinhood engineer pleads guilty to crypto insider trading",
+        "summary": "Huaisong Xiang traded Hyperliquid futures using confidential Robinhood listing data and agreed to forfeit $125,523.",
+        "link": "https://hashtagweb3.com/hyperliquidplea?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ex-Robinhood engineer pleads guilty to wire fraud over Hyperliquid trades"
+      },
+      {
+        "index": -1,
+        "headline": "Singapore and Germany test cross-border CBDC settlements",
+        "summary": "German and Singaporean central banks settled simulated currency trades using wholesale digital currencies and zero-knowledge proofs.",
+        "link": "https://hashtagweb3.com/simbolon?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Singapore and Germany test cross-border CBDC settlement with Project Simbolon"
+      }
+    ],
+    "slotKey": "2026-11-17:afternoon"
   }
 }
