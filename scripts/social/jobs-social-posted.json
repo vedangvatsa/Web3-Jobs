@@ -149723,6 +149723,47 @@
       "verification": "verified",
       "postId": "6afcadc2ad43efddcc54b7aa",
       "permalink": "https://www.linkedin.com/feed/update/urn:li:share:7528542780655095808"
+    },
+    {
+      "slug": "sls452",
+      "company": "CoinsPaid",
+      "title": "Head of Accounting",
+      "platform": "linkedin",
+      "postedAt": "2026-11-17T19:38:12.452Z",
+      "expectedText": "CoinsPaid is hiring Head of Accounting: https://hashtagweb3.com/sls452/li?og=7",
+      "snapshot": {
+        "id": "5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "title": "Head of Accounting",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "date": "2026-10-29T09:55:46.433Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Finance and Accounting",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "sls452"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Head of Accounting: https://hashtagweb3.com/sls452/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls452/li?og=7",
+          "title": "Head of Accounting at CoinsPaid",
+          "description": "Join CoinsPaid as Head of Accounting. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls452.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "38831464-51da-4d71-9451-8cbb5e006ffd",
+      "verification": "creating"
     }
   ]
 }
