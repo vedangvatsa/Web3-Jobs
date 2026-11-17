@@ -186854,9 +186854,9 @@
         "BeInCrypto"
       ],
       "id": "57b5941b44a783d99309",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T21:51:04.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "hyperliquidplea",
@@ -186878,7 +186878,33 @@
         "updatedAt": "2026-11-17T02:44:35.574Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Crypto Briefing Nov 16 and TokenPost Nov 16 on Xiang's Nov 16 guilty plea before Judge McMahon; verified the 25,523 forfeiture, the wire fraud count, the at-least-11 announcements, the Coin Aware Individual Slack access, the pending Chai case and the Feb 25 2027 sentencing date across both sources. CoinDesk returned 429 and BeInCrypto 403; justice.gov served a bot-verification challenge.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/robinhood-engineer-guilty-hyperliquid-insider-trades/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/58827",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://beincrypto.com/us-doj-robinhood-insider-guilty-plea/",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.justice.gov/usao-sdny/pr/former-robinhood-employee-pleads-guilty-fraud",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T02:47:42.896Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "fedd3d7dd3dd121434a6": {
       "source": "The Block",
@@ -359230,6 +359256,35 @@
           "retrySearches": [
             "Find accessible independent reporting on the Satoshi-era wallet that moved 75 BTC after being served in the 60 billion lawsuit, including court filing details"
           ]
+        },
+        "57b5941b44a783d99309": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Crypto Briefing Nov 16 and TokenPost Nov 16 on Xiang's Nov 16 guilty plea before Judge McMahon; verified the 25,523 forfeiture, the wire fraud count, the at-least-11 announcements, the Coin Aware Individual Slack access, the pending Chai case and the Feb 25 2027 sentencing date across both sources. CoinDesk returned 429 and BeInCrypto 403; justice.gov served a bot-verification challenge.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/robinhood-engineer-guilty-hyperliquid-insider-trades/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/58827",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://beincrypto.com/us-doj-robinhood-insider-guilty-plea/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.justice.gov/usao-sdny/pr/former-robinhood-employee-pleads-guilty-fraud",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T02:47:42.896Z",
+          "articleSlug": "hyperliquidplea"
         }
       },
       "baselineSlugs": [
