@@ -146398,7 +146398,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "ab5c5517-af85-4ce3-afb6-cc8ce7d5e0b4",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6afc3b60b9fb95e12d013dd2"
     }
   ]
 }
