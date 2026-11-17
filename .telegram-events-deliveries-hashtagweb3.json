@@ -497,5 +497,54 @@
     "slotKey": "2026-11-17:afternoon",
     "messageId": 156310,
     "sentAt": "2026-11-17T11:32:13.030Z"
+  },
+  "425eb2a4-61cb-42c4-a82e-cf999d86490f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T19:32:49.445Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-CRKd13ywnfX44wC",
+        "slug": "meetup-crypto-fribourg-novembre",
+        "name": "Meetup Crypto Fribourg Novembre 2026",
+        "startDate": "2026-11-18T17:30:00.000Z",
+        "keys": [
+          "luma-crypto-crkd13ywnfx44wc",
+          "wynsjfk7",
+          "page:meetup-crypto-fribourg-novembre:2026-11-18",
+          "luma-url:/wynsjfk7",
+          "event:meetupcryptofribourgnovembre2026:2026-11-18:fribourg"
+        ]
+      },
+      {
+        "id": "luma-crypto-BLUJBmNvgVrZUSz",
+        "slug": "blockchain59u",
+        "name": "Blockchain Ireland | Group Networking",
+        "startDate": "2026-11-18T19:00:00.000Z",
+        "keys": [
+          "luma-crypto-blujbmnvgvrzusz",
+          "page:blockchain59u:2026-11-18",
+          "luma:evt-blujbmnvgvrzusz",
+          "luma-url:/59uk2nbr",
+          "event:blockchainirelandgroupnetworking:2026-11-18:dublin"
+        ]
+      },
+      {
+        "id": "luma-crypto-s1fz5X7DTOXKuj8",
+        "slug": "ia-e-blockchain-como-essas-tecnologias-estao-criando-novos-negocios",
+        "name": "IA e blockchain: como essas tecnologias estão criando novos negócios",
+        "startDate": "2026-11-18T21:00:00.000Z",
+        "keys": [
+          "luma-crypto-s1fz5x7dtoxkuj8",
+          "ia-e-blockdhx",
+          "page:ia-e-blockchain-como-essas-tecnologias-estao-criando-novos-negocios:2026-11-18",
+          "luma:evt-s1fz5x7dtoxkuj8",
+          "luma-url:/dhx77plz",
+          "event:iaeblockchaincomoessastecnologiasestãocriandonovosnegócios:2026-11-18:sao paulo"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-17:evening"
   }
 }
