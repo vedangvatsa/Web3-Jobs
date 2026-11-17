@@ -148306,7 +148306,8 @@
       },
       "account": "channel:web3",
       "attemptId": "8dbd1e67-c2ca-4223-a7e2-db0ce07c284b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf592ac250a31b7346969bcae1f27de5130cade41"
     }
   ]
 }
