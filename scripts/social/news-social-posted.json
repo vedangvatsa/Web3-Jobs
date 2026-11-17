@@ -309,6 +309,26 @@
       "slot": "morning",
       "date": "2026-11-17",
       "queuedAt": "2026-11-17T03:42:28.805Z"
+    },
+    {
+      "slug": "efsale",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6afc3b53d4d832ae4bc5286d",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-17",
+      "queuedAt": "2026-11-17T11:32:35.013Z"
+    },
+    {
+      "slug": "efsale",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6afc3b539d7d4c6b78578fc3",
+      "status": "queued",
+      "slot": "afternoon",
+      "date": "2026-11-17",
+      "queuedAt": "2026-11-17T11:32:35.013Z"
     }
   ]
 }
