@@ -66,31 +66,6 @@
       ]
     },
     {
-      "id": "premier-africabcfest",
-      "slug": "africa",
-      "name": "Africa Blockchain Festival 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://africablockchainfestival.com/",
-        "fetchedAt": "2026-09-20T00:20:18.867Z"
-      },
-      "sections": [
-        "Africa's Largest Blockchain Festival & Tokenization Summit",
-        "Dr. Emomotimi Agama",
-        "Amb. Prof. Bitange Ndemo",
-        "Daniel Mainda",
-        "Kosen Kenta",
-        "Policy & Governance",
-        "Innovation & Ecosystem",
-        "Capital & Private Sector",
-        "Block & Chill Nairobi",
-        "The mixer was the warm-up",
-        "LOOKING FOR YOUR NEXT BIG HEADLINE?",
-        "Reserve your spot",
-        "Complete your purchase"
-      ]
-    },
-    {
       "id": "luma-crypto-T8jvG7h5xieJmQL",
       "slug": "fmduh",
       "name": "Maritime Dual-Use Hackathon",
@@ -137,19 +112,6 @@
       "sections": [
         "About the event",
         "Event details"
-      ]
-    },
-    {
-      "id": "luma-evt-XVgMezNYKSfYZHA",
-      "slug": "mlp",
-      "name": "MyWeb3 - Launch Party",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/bgfwfzzc",
-        "fetchedAt": "2026-09-19T23:49:45.191Z"
-      },
-      "sections": [
-        "About the event"
       ]
     },
     {

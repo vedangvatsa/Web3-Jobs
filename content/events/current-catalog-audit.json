@@ -142,22 +142,6 @@
       }
     },
     {
-      "id": "premier-africabcfest",
-      "oldSlug": "africa",
-      "slug": "africa-blockchain-festival",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 3158,
-      "characters": 553,
-      "source": {
-        "url": "https://africablockchainfestival.com/",
-        "fetchedAt": "2026-10-12T11:25:04.095Z",
-        "status": 200,
-        "sha256": "c25d61a65a28a439e98acea37ef257f77c35897a2bbabbb5b0f079dcabd170b2"
-      }
-    },
-    {
       "id": "luma-crypto-T8jvG7h5xieJmQL",
       "oldSlug": "fmduh",
       "slug": "maritime-dual-use-hackathon",
@@ -247,23 +231,6 @@
         "fetchedAt": "2026-10-12T11:25:08.167Z",
         "status": 200,
         "sha256": "d23b9ea1b005513ff0f8f7f8d54601055c89fb8381fe8482d43cc96a9e930800"
-      }
-    },
-    {
-      "id": "luma-evt-XVgMezNYKSfYZHA",
-      "oldSlug": "mlp",
-      "slug": "myweb3-launch-party",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 812,
-      "characters": 812,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/bgfwfzzc",
-        "fetchedAt": "2026-10-12T11:25:08.248Z",
-        "status": 200,
-        "sha256": "9042f34f7d96b705f0cb2c0afb1c92a8ab0bef189c4a3898f8de53df6a128e1b"
       }
     },
     {

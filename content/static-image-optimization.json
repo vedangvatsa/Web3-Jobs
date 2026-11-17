@@ -3477,10 +3477,6 @@
       "sha256": "3d834f76056c506758558963e9d078e6835f0ff43b31a42e8b87d1d8929b521e",
       "status": "optimized"
     },
-    "/events/luma-evt-icr0u7ovq9nqq2q-8aad8584.webp": {
-      "sha256": "629aa5d568507b64aaa390e4612e52c4d57ca5dc831b76369156da6b2e9742d6",
-      "status": "optimized"
-    },
     "/events/luma-evt-iddzkye3ehs0bkd-dacca148.webp": {
       "sha256": "69ac3383931beb88e18da6f0c612e15a586e148ce5f5a45dfb97a25d569219a1",
       "status": "optimized"
@@ -4029,10 +4025,6 @@
       "sha256": "c4a466cbd750b448270551340747a2a3c5ce6d57a894272655bbf70450d44e14",
       "status": "optimized"
     },
-    "/events/luma-evt-rhh3nk93nvmf7s1-e65d96a6.webp": {
-      "sha256": "bcc967ea6a7fa73f3ffd66b9a35859b983f4494c2898ec7f08da9c3db47492a9",
-      "status": "optimized"
-    },
     "/events/luma-evt-rlbybxqdjgyf9wr-285484ea.webp": {
       "sha256": "7602cf65477af0746527e93d9e3cee58cf378a321c83d7ab701f40812b40d728",
       "status": "optimized"
@@ -4424,10 +4416,6 @@
     "/events/luma-evt-xvge9tpsfujaztu-de8bddef.webp": {
       "sha256": "fc1019c5327679452e64ebdbf1cefbf147c96b6c5581cead2764df5f973f8813",
       "status": "optimized"
-    },
-    "/events/luma-evt-xvgmeznyksfyzha-1d073160.webp": {
-      "sha256": "c7b18be0a663c9e40d3f44c27c4c452a44ffc2c0e4d4a4588c86a5dad86b9a43",
-      "status": "retained"
     },
     "/events/luma-evt-xvsefmlmagxq9jl-9c08122d.webp": {
       "sha256": "fd4852ad7d6ad6300f5f2b9e9f4fd7cf1071066605f3cddc8ffe65f053d99ca7",
@@ -5197,10 +5185,6 @@
       "sha256": "3753f52f2a0adf26c9569a49650f1a298e64b58bf55626d75a8ba32a179fb896",
       "status": "retained"
     },
-    "/events/mu-317065012-62d567f1.webp": {
-      "sha256": "3753f52f2a0adf26c9569a49650f1a298e64b58bf55626d75a8ba32a179fb896",
-      "status": "retained"
-    },
     "/events/mu-317068147-b1b69d07.webp": {
       "sha256": "06c74ae247b6ca179a23a6bca53f39d15fcdcd6ed116b2998c88b645c6070795",
       "status": "retained"
@@ -5327,10 +5311,6 @@
     },
     "/events/premier-abw-2027-523586b5.webp": {
       "sha256": "e12229997c20bc5c829cffb0c0f4dd608c2869b73cac471fbddfad919f457ce8",
-      "status": "optimized"
-    },
-    "/events/premier-africabcfest-98738960.webp": {
-      "sha256": "9d8b12f477bbcf35feed5011b04daaecc3b3645b29a6b6dbdb8c888c8faad37d",
       "status": "optimized"
     },
     "/events/premier-auscryptocon-2026-256f4e02.webp": {

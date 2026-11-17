@@ -134,47 +134,6 @@
     }
   },
   {
-    "id": "luma-evt-XVgMezNYKSfYZHA",
-    "name": "MyWeb3 - Launch Party",
-    "description": "Join us for MyWeb3’s Official Launch Party! Come set up your profile during our hands-on platform training session, enjoy free food & drinks, and network with local Orange County business owners.\n\nMyWeb3 gives creators, SMBs, artists, musicians, and more a free, personalized page to grow their following and customer base. Easily gain new followers across your platforms and let customers pay or donate however they want: PayPal, Venmo, Zelle, CashApp, Crypto, and more.\n\nTip: Bring your laptop and brand logo so we can help you set up your profile!\n\nIn addition, you can download and customize the following Profile Picture and Banner templates\n\nTemplates: https://drive.google.com/drive/folders/16TJ3nQ-peuicObRWBE0NiYhj16xpd4-O?usp=sharing\n\nLive Version launching soon with new features.\n\nPowered by Lost Art",
-    "startDate": "2026-10-17T20:00:00.000Z",
-    "endDate": "2026-10-17T23:00:00.000Z",
-    "city": "Fullerton",
-    "country": "United States",
-    "location": "Fullerton, United States",
-    "url": "https://lu.ma/bgfwfzzc",
-    "coverImage": "/events/luma-evt-xvgmeznyksfyzha-1d073160.webp",
-    "source": "luma",
-    "month": "September 2026",
-    "slug": "mlp",
-    "timezone": "America/Los_Angeles",
-    "registrationUrl": "https://luma.com/bgfwfzzc",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "hosts": [
-      "Lost Art"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/bgfwfzzc",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/bgfwfzzc",
-      "eventId": "evt-XVgMezNYKSfYZHA",
-      "fetchedAt": "2026-09-19T23:49:45.191Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
     "name": "The Solana Ecosystem Call | October",
     "description": "SOL BROTHERS hosts the October Solana Ecosystem Call with interviews, data segments and commentary on developments across Solana. The live show is listed on X, with updates also available through its YouTube channel.",
@@ -1542,32 +1501,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-busselton-bitcoin-bush-bash-26-10-16",
-    "name": "Busselton – Bitcoin Bush Bash",
-    "description": "Busselton – Bitcoin Bush Bash: Bitcoin-focused gathering October 16–18, 2026, in Busselton, Western Australia.",
-    "startDate": "2026-10-16T01:00:00.000Z",
-    "endDate": "2026-10-18T01:00:00.000Z",
-    "city": "Busselton",
-    "country": "AU",
-    "location": "Busselton, AU",
-    "url": "https://bitcoinbushbash.info/busselton/",
-    "coverImage": "/events/w3v-busselton-bitcoin-bush-bash-26-10-16-32ebb026.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-edcon-kuala-lumpur-26-10-17",
-    "name": "EDCON 2026 Kuala Lumpur",
-    "description": "EDCON 2026 Kuala Lumpur: Ethereum community conference on 17–18 October 2026.",
-    "startDate": "2026-10-17T01:00:00.000Z",
-    "endDate": "2026-10-18T01:00:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "MY",
-    "location": "Kuala Lumpur, MY",
-    "url": "https://www.edcon.io/en/",
-    "coverImage": "/events/w3v-edcon-kuala-lumpur-26-10-17-488fc3fa.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-agentic-dollars-on-bitcoin",
     "name": "Agentic Dollars on Bitcoin",
     "description": "Agentic Dollars on Bitcoin: a Turin hackathon on October 17–18 for local AI and self-custodial Bitcoin apps, with €6,000 in prizes.",
@@ -2759,7 +2692,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3117,7 +3050,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://dutchblockchainweek.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
     "source": "marketacross",
     "month": "May 2027",
     "descriptionSource": {
@@ -3451,7 +3384,7 @@
     "country": "Japan",
     "location": "Tokyo Big Sight, Tokyo, Japan",
     "url": "https://2027.webx-asia.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-webx-2027-53a0cfdb.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -3535,7 +3468,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -5302,20 +5235,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-rHh3nK93nvmF7S1",
-    "name": "2026 Good Morning Silicon Valley Association | Youth Innovators: From Design Thinking to Impact Workshop for High School Students",
-    "description": "",
-    "startDate": "2026-10-17T19:00:00.000Z",
-    "endDate": "2026-10-18T00:00:00.000Z",
-    "city": "San Jose",
-    "country": "United States",
-    "location": "San Jose, United States",
-    "url": "https://lu.ma/535mxqt7",
-    "coverImage": "/events/luma-evt-rhh3nk93nvmf7s1-e65d96a6.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-ZzWXRF39aQGyeCG",
     "name": "CoinFund Miami: Crypto Snowbirds Return",
     "description": "",
@@ -6226,20 +6145,6 @@
       "pageTitle": "ETHwali",
       "sha256": "3439dea11581132147971682cf1832d94bd4d09ea89168c1cc12029ca7ff0a2b"
     }
-  },
-  {
-    "id": "luma-evt-Icr0U7ovq9nQQ2Q",
-    "name": "places i saw you last: Live Ambient Electronic Set",
-    "description": "",
-    "startDate": "2026-10-18T00:30:00.000Z",
-    "endDate": "2026-10-18T02:00:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, United States",
-    "url": "https://lu.ma/nmh0sozp",
-    "coverImage": "/events/luma-evt-icr0u7ovq9nqq2q-8aad8584.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-UemBh6MGbhbQgud",
@@ -13202,7 +13107,10 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-K5mpQKsNcBa8gWI",
@@ -13947,7 +13855,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/317065012/",
-    "coverImage": "/events/mu-317065012-62d567f1.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20241,7 +20149,7 @@
     "country": "US",
     "location": "San Antonio, US",
     "url": "https://www.meetup.com/good-vibe-tribe-20s-40s/events/317194270/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317194270-da5363f4.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20731,7 +20639,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20759,7 +20667,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -21642,5 +21550,47 @@
     "coverImage": "/events/eb-1990305841349-e6b14a07.webp",
     "source": "eventbrite",
     "month": "September 2027"
+  },
+  {
+    "id": "luma-evt-el3DCxHxNa4OelK",
+    "name": "Metaplex VIP Lunch - Bringing new markets to Solana",
+    "description": "",
+    "startDate": "2026-11-17T12:00:00.000Z",
+    "endDate": "2026-11-17T15:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/5hdnilau",
+    "coverImage": "/events/luma-evt-el3dcxhxna4oelk-787782ff.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-i2QAwmfwCOAMdmj",
+    "name": "After Hours with Clocked, MoonPay & Solana",
+    "description": "",
+    "startDate": "2026-11-17T17:30:00.000Z",
+    "endDate": "2026-11-17T19:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/6d7cm21j",
+    "coverImage": "/events/luma-evt-i2qawmfwcoamdmj-6e06d5eb.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-Fb8eAGhnkXG7xeN",
+    "name": "Forward Deployed: A curated night for FDE's",
+    "description": "",
+    "startDate": "2026-11-18T23:30:00.000Z",
+    "endDate": "2026-11-19T02:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/z7uj8rje",
+    "coverImage": "/events/luma-evt-fb8eaghnkxg7xen-920dee61.webp",
+    "source": "luma",
+    "month": "November 2026"
   }
 ]

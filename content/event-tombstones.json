@@ -10063,5 +10063,22 @@
       "rls",
       "luma-crypto-rhjdzq9ow33bh2u"
     ]
+  },
+  "premier-africabcfest": {
+    "until": "2027-11-17T02:33:49.203Z",
+    "slugs": [
+      "africa-blockchain-festival",
+      "africa",
+      "premier-africabcfest",
+      "africabcfest"
+    ]
+  },
+  "luma-evt-XVgMezNYKSfYZHA": {
+    "until": "2027-11-17T02:33:49.203Z",
+    "slugs": [
+      "myweb3-launch-party",
+      "mlp",
+      "luma-evt-xvgmeznyksfyzha"
+    ]
   }
 }

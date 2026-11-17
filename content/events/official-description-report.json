@@ -307,29 +307,6 @@
       ]
     },
     {
-      "id": "premier-africabcfest",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://africablockchainfestival.com/",
-        "fetchedAt": "2026-09-20T00:20:18.867Z",
-        "method": "official-section",
-        "pageTitle": "Africa Blockchain Festival – Shaping Africa's Decentralized Future",
-        "sha256": "4cd300313908360e475aa8933b7e03690194598b728f93d5bbc8f81731886927"
-      },
-      "eventFacts": {
-        "startDate": "2026-10-15",
-        "endDate": "2026-10-17",
-        "venueName": "Sarit Expo Centre",
-        "location": "Sarit Expo Centre, Nairobi, Kenya",
-        "city": "Nairobi",
-        "country": "Kenya"
-      },
-      "previousStartDate": "2026-11-07T09:00:00.000Z",
-      "characters": 3158,
-      "preview": "## Africa’s Largest Blockchain Festival & Tokenization Summit\n\nThe continent’s most significant convergence of policymakers, investors, builders, and global Web3 leaders.\n\n## ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya ● AFRICA BLOCKCHAIN FESTIVAL 2026 ● October 15-17, 2026 ● WORLD TOKEN SUMMIT 2026 ● Sarit Expo Centre, Nairobi, Kenya\n\n## Africa Blockchain Festival™ (ABF) X WORLD TOKEN SUMMIT (WTS) is the continent’s most high-conviction gathering dedicated to the intersection of block"
-    },
-    {
       "id": "premier-unbanked",
       "file": "curated-events.json",
       "name": "The (un)Banked Conference 2026",

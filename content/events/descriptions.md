@@ -47,22 +47,6 @@ The announced Web3-related programs include Cross Margin Labs' Aqua0 DeFi reside
 
 Applications are reviewed on a rolling basis. Accepted applicants receive a ticket-purchase link, and payment confirms their place. Tickets include village programming, coworking and community activities, but not accommodation or most meals. Joining a residency is optional. Tickets are non-refundable; the organizer allows date changes or transfers to another attendee. Daily clock times are not confirmed for the village as a whole.
 
-<a id="event-2d5d212da48b72b3"></a>
-
-## Africa Blockchain Festival 2026
-
-- Record: `premier-africabcfest`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-15
-- Description: Source-backed
-- Original page: <https://africablockchainfestival.com>
-
-### About the event
-
-Africa Blockchain Festival and World Token Summit take place at Sarit Expo Centre in Nairobi, Kenya, from October 15 to 17, 2026. The program brings together policymakers, investors, builders and companies working on blockchain, AI and tokenization in Africa.
-
-The organizer groups the program around policy and governance, innovation and ecosystem development, and capital and the private sector. Announced speakers include Emomotimi Agama, Bitange Ndemo, Sitah Lang'o and Daniel Mainda. Check the official program for session times and ticket options.
-
 <a id="event-73a127e5fe65ae21"></a>
 
 ## EDCON 2026
@@ -20840,30 +20824,6 @@ You may leave with a partnership, a prototype, a new collaborator, or an entirel
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-ddaccb0beeb439fe"></a>
-
-## Busselton – Bitcoin Bush Bash
-
-- Record: `w3v-busselton-bitcoin-bush-bash-26-10-16`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-16T01:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://bitcoinbushbash.info/busselton/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-52a44d5fde8e47b1"></a>
-
-## EDCON 2026 Kuala Lumpur
-
-- Record: `w3v-edcon-kuala-lumpur-26-10-17`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T01:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.edcon.io/en/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-a1e90c32cc98a22c"></a>
 
 ## Agentic Dollars on Bitcoin
@@ -20875,45 +20835,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://rgbprotocol.org/agentic-dollars-hackathon/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-32a51948369128e8"></a>
-
-## 2026 Good Morning Silicon Valley Association \| Youth Innovators: From Design Thinking to Impact Workshop for High School Students
-
-- Record: `luma-evt-rHh3nK93nvmF7S1`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T19:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/535mxqt7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ec402388f9f0def3"></a>
-
-## MyWeb3 - Launch Party
-
-- Record: `luma-evt-XVgMezNYKSfYZHA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T20:00:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/bgfwfzzc>
-- Original page: <https://luma.com/bgfwfzzc>
-
-### About the event
-
-Join us for MyWeb3's Official Launch Party! Come set up your profile during our hands-on platform training session, enjoy free food & drinks, and network with local Orange County business owners.
-
-MyWeb3 gives creators, SMBs, artists, musicians, and more a free, personalized page to grow their following and customer base. Easily gain new followers across your platforms and let customers pay or donate however they want: PayPal, Venmo, Zelle, CashApp, Crypto, and more.
-
-Tip: Bring your laptop and brand logo so we can help you set up your profile!
-
-In addition, you can download and customize the following Profile Picture and Banner templates
-
-Templates: https://drive.google.com/drive/folders/16TJ3nQ-peuicObRWBE0NiYhj16xpd4-O?usp=sharing
-
-Live Version launching soon with new features.
-
-Powered by Lost Art
 
 <a id="event-f17c7abc355487c9"></a>
 
@@ -20930,18 +20851,6 @@ Powered by Lost Art
 Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together banking, payments, technology, retail and fintech participants. The current agenda highlights agentic AI, fraud, finance as a service, payments and regulation. Announced speakers include PNC chairman and CEO William Demchak, Early Warning CEO Cameron Fowler and Adyen chief risk and compliance officer Mariëtte Swart.
 
 Attendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.
-
-<a id="event-fb3e53ae5e8ad695"></a>
-
-## places i saw you last: Live Ambient Electronic Set
-
-- Record: `luma-evt-Icr0U7ovq9nQQ2Q`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-18T00:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/nmh0sozp>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-8dae74092e03a2d9"></a>
 
@@ -31848,6 +31757,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6e3d0042afa696cf"></a>
+
+## Metaplex VIP Lunch - Bringing new markets to Solana
+
+- Record: `luma-evt-el3DCxHxNa4OelK`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T12:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5hdnilau>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-091323241208d18d"></a>
 
 ## El capital de lo aprendido:nuevas apuestas en pago por resultados
@@ -31881,6 +31802,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-17T17:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/LondonHappyHour>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3d449cbdac3194bb"></a>
+
+## After Hours with Clocked, MoonPay & Solana
+
+- Record: `luma-evt-i2QAwmfwCOAMdmj`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6d7cm21j>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32555,6 +32488,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T23:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/id80owbl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-044a16cdbd36da21"></a>
+
+## Forward Deployed: A curated night for FDE's
+
+- Record: `luma-evt-Fb8eAGhnkXG7xeN`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/z7uj8rje>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

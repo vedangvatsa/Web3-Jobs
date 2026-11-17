@@ -718,24 +718,6 @@
       "sha256": "3929ab0e886831126d8c37e39776e768962bda3f93c80991bc76557f8074864d"
     }
   },
-  "premier-africabcfest": {
-    "description": "Africa Blockchain Festival and World Token Summit take place at Sarit Expo Centre in Nairobi, Kenya, from October 15 to 17, 2026. The program brings together policymakers, investors, builders and companies working on blockchain, AI and tokenization in Africa.\n\nThe organizer groups the program around policy and governance, innovation and ecosystem development, and capital and the private sector. Announced speakers include Emomotimi Agama, Bitange Ndemo, Sitah Lang'o and Daniel Mainda. Check the official program for session times and ticket options.",
-    "descriptionSource": {
-      "url": "https://africablockchainfestival.com/",
-      "fetchedAt": "2026-10-12T11:25:04.095Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Africa Blockchain Festival 2026",
-      "sha256": "740406120cd35884b643e61014bdd4b7af9d9331de119a33ca552b6de0e98d69",
-      "evidence": [
-        {
-          "url": "https://africablockchainfestival.com/",
-          "fetchedAt": "2026-10-12T11:25:04.095Z",
-          "sha256": "c25d61a65a28a439e98acea37ef257f77c35897a2bbabbb5b0f079dcabd170b2",
-          "representation": "html"
-        }
-      ]
-    }
-  },
   "ma-money-20-20-usa": {
     "description": "Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together banking, payments, technology, retail and fintech participants. The current agenda highlights agentic AI, fraud, finance as a service, payments and regulation. Announced speakers include PNC chairman and CEO William Demchak, Early Warning CEO Cameron Fowler and Adyen chief risk and compliance officer Mariëtte Swart.\n\nAttendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.",
     "descriptionSource": {

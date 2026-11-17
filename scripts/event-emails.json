@@ -355,31 +355,6 @@
     }
   },
   {
-    "name": "Africa Blockchain Festival 2026",
-    "url": "https://africablockchainfestival.com",
-    "emails": [
-      "you@company.com",
-      "collaboration@africablockchainfestival.com",
-      "hello@dsrptd.net"
-    ],
-    "event": {
-      "id": "premier-africabcfest",
-      "slug": "africa",
-      "name": "Africa Blockchain Festival 2026",
-      "description": "Rwanda's continental blockchain festival covering policy, enterprise adoption, and Africa's on-chain economy.",
-      "startDate": "2026-11-07T09:00:00.000Z",
-      "endDate": "2026-11-08T18:00:00.000Z",
-      "city": "Kigali",
-      "country": "Rwanda",
-      "location": "Kigali, Rwanda",
-      "url": "https://africablockchainfestival.com",
-      "website": "https://africablockchainfestival.com",
-      "coverImage": "https://i0.wp.com/africablockchainfestival.com/wp-content/uploads/2026/08/block-chill-nairobi-abf-wts-banner.jpg?fit=1400%2C961&ssl=1",
-      "twitter": null,
-      "source": "curated-premier"
-    }
-  },
-  {
     "name": "Africa Stablecoin Summit 2026",
     "url": "https://africastablecoinsummit.io",
     "emails": [
