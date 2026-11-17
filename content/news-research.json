@@ -184487,7 +184487,31 @@
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 0,
       "expiresAt": "2026-11-19T19:56:18.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "articleSlug": "onchainrights",
+      "draftProgress": {
+        "id": "bfce5e41c58767c0e9e1",
+        "day": "2026-11-17",
+        "articleSlug": "onchainrights",
+        "note": "Read Cointelegraph Nov. 16 report and the Broadridge/PRNewswire Nov. 16 primary release on the Onchain Rights Standard; The Defiant returned 403. Drafting now.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.prnewswire.com/news-releases/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-broadridge-launches-data-oracle-302939893.html",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-broadridge-propose-onchain-rights-standard",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-17T03:12:45.513Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "7e15822def390cceda2e": {
       "source": "Decrypt",
