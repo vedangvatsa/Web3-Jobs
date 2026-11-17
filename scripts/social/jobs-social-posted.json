@@ -144665,7 +144665,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "b5a9d059-4732-40b6-802b-b036bb42e77e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xae11938fb5e0db1496fcc05edcdc6a5b3288f718"
     }
   ]
 }
