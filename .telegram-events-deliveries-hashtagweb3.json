@@ -448,5 +448,52 @@
     "slotKey": "2026-11-17:morning",
     "messageId": 156299,
     "sentAt": "2026-11-17T03:42:36.250Z"
+  },
+  "68b57c79-4fe0-47e5-828b-9d751bb4874d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T11:32:10.351Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "w3v-borneo-blockchain-conference-26-11-18",
+        "slug": "borneo-blockchain-conference",
+        "name": "Borneo Blockchain Conference 2026",
+        "startDate": "2026-11-18",
+        "keys": [
+          "w3v-borneo-blockchain-conference-26-11-18",
+          "page:borneo-blockchain-conference:2026-11-18",
+          "event:borneoblockchainconference2026:2026-11-18:kuching"
+        ]
+      },
+      {
+        "id": "luma-crypto-t1gF4AR3gRAvYZ9",
+        "slug": "exclusive",
+        "name": "Exclusive Web3 Get-Together",
+        "startDate": "2026-11-18T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-t1gf4ar3gravyz9",
+          "page:exclusive:2026-11-18",
+          "luma:evt-t1gf4ar3gravyz9",
+          "luma-url:/kz1noem1",
+          "event:exclusiveweb3gettogether:2026-11-18:helsinki"
+        ]
+      },
+      {
+        "id": "luma-batch-evt5ynGGxaokhFV8",
+        "slug": "blockchain-meets-ai",
+        "name": "Blockchain Meets AI",
+        "startDate": "2026-11-18T16:30:00.000Z",
+        "keys": [
+          "luma-batch-evt5ynggxaokhfv8",
+          "hovkpcus",
+          "page:blockchain-meets-ai:2026-11-18",
+          "luma:evt-5ynggxaokhfv8da",
+          "luma-url:/hovkpcus",
+          "event:blockchainmeetsai:2026-11-18:amsterdam"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-17:afternoon"
   }
 }
