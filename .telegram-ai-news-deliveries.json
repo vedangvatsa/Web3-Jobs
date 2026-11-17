@@ -464,5 +464,40 @@
     "slotKey": "2026-11-17:afternoon",
     "messageId": 193536,
     "sentAt": "2026-11-17T11:33:10.751Z"
+  },
+  "c3c823de-6634-4988-8114-d2b16aaadee9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T19:34:34.197Z",
+    "stories": [
+      {
+        "index": 21,
+        "original_title": "[The Decoder] Isomorphic Labs raises $5 billion in its second mega-round within six months",
+        "headline": "Alphabet's Isomorphic Labs raises five billion dollars for drug discovery",
+        "summary": "The funding follows a previous two billion dollar round to accelerate AI-driven drug development toward clinical trials.",
+        "event_rationale": "This covers a $5 billion capital injection for AI drug discovery, distinct from general-purpose model funding or previously posted rounds.",
+        "link": "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
+        "source": "The Decoder",
+        "originalTitle": "Isomorphic Labs raises $5 billion in its second mega-round within six months"
+      },
+      {
+        "index": 18,
+        "original_title": "[The Decoder] OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
+        "headline": "OpenAI provides cybersecurity tool to NATO and European governments",
+        "summary": "International agencies are using the Daybreak tool to identify and fix vulnerabilities in critical software systems.",
+        "event_rationale": "This is a major deployment of AI security tools at the intergovernmental level, distinct from consumer or corporate releases.",
+        "link": "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
+        "source": "The Decoder",
+        "originalTitle": "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments"
+      },
+      {
+        "index": 1,
+        "headline": "Model ML raises $250 million for investment banking automation",
+        "summary": "General Atlantic and QED Investors led the round, valuing the three-year-old startup at $1.5 billion.",
+        "link": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+        "source": "TechCrunch",
+        "originalTitle": "Model ML raises $250M to automate investment banking grunt work"
+      }
+    ],
+    "slotKey": "2026-11-17:evening"
   }
 }
