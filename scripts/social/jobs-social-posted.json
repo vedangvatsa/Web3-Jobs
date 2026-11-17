@@ -147299,6 +147299,39 @@
       "attemptId": "30dafa77-3a19-4a4f-8af7-67141af61b96",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 17-Nov-26 03:37:32 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ARUQuAwLo4ifCCDuufWjlVV\"}"
+    },
+    {
+      "slug": "eng638",
+      "company": "DriveWealth",
+      "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+      "platform": "bluesky",
+      "postedAt": "2026-11-17T11:37:16.030Z",
+      "expectedText": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027: https://hashtagweb3.com/eng638/bsky?og=7",
+      "snapshot": {
+        "id": "8039350003",
+        "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+        "company": "DriveWealth",
+        "link": "https://boards.greenhouse.io/drivewealth/jobs/8039350003?gh_jid=8039350003",
+        "date": "2026-10-20T14:42:23-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DriveWealth [drivewealth]",
+        "location": "Chicago, IL; New York, NY",
+        "department": "Internships & Early Careers",
+        "active": true,
+        "salary": "$35 – $40/hr",
+        "dateVerified": true,
+        "slug": "eng638"
+      },
+      "payload": {
+        "text": "DriveWealth is hiring AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027: https://hashtagweb3.com/eng638/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng638/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng638.png?v=7",
+        "company": "DriveWealth",
+        "title": "AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027",
+        "description": "Join DriveWealth as AI Consulting Associate Program En. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "0336df2e-db29-43bf-a6ad-8beea51942b6",
+      "verification": "creating"
     }
   ]
 }
