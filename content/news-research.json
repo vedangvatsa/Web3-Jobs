@@ -186032,7 +186032,27 @@
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 0,
       "expiresAt": "2026-11-19T08:18:03.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "articleSlug": "vitalikquantum",
+      "draftProgress": {
+        "id": "53ee2230b10048d4700d",
+        "day": "2026-11-17",
+        "articleSlug": "vitalikquantum",
+        "note": "Read Decrypt Nov 16 and Unchained Nov 16 on Buterin's X thread backing leanPCS for draft EIP-8288; primary EIP page and CoinDesk still need opening, and whether the design stance clears the concrete-event bar needs a final call before drafting.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/vitalik-buterin-says-ethereums-quantum-safe-plan-can-ship-sooner-with-this-design",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-17T02:40:36.270Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "43393aef7f3651a8e651": {
       "source": "CoinDesk",
