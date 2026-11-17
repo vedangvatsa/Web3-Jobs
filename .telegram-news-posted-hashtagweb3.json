@@ -29,6 +29,9 @@
   "https://hashtagweb3.com/hsmvault?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/coinbasetrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coinonehack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cnbbond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/efsale?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -89,6 +92,12 @@
   "Blumenthal sets Jan. 4 records deadline for Binance, Tether and Trump-linked crypto firms",
   "Coinbase Secures US National Trust Bank Charter Approval",
   "Coinbase wins final OCC approval for national trust bank charter",
+  "Coinone warns users following contractor data breach",
+  "Coinone warns customers after support contractor breach exposes IDs, passwords",
+  "Czech National Bank Completes Initial Tokenized Bond Testing",
+  "Czech National Bank Completes Its First Tokenized Bond Tests",
+  "Ethereum Foundation-linked wallet sells 2,000 ETH",
+  "Ethereum Foundation-linked wallet sells 2,000 ETH over two days",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -118,5 +127,8 @@
   "fp:appoint|binanc|breach|cfo|chief|cryptocurrency|down|exchang|financ|follow",
   "fp:blockstream|built|computation|cryptographic|custody|hardwar|institutional|modul|multi|offlin",
   "fp:binanc|blumenthal|deadlin|demand|document|entity|firm|four|includ|initial",
-  "fp:approval|bank|charter|coinbas|custody|direct|exchang|federal|final|national"
+  "fp:approval|bank|charter|coinbas|custody|direct|exchang|federal|final|national",
+  "fp:access|address|breach|coinon|compromis|contractor|customer|expos|follow|hacker",
+  "fp:asset|bank|bond|complet|czech|digital|efficiency|improv|initial|national",
+  "fp:000|and11|chain|cow|daily|day|eth|foundation|link|november10"
 ]
