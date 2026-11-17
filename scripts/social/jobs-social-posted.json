@@ -149807,7 +149807,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "92c436bb-6889-4771-ba65-e5baa258018e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7528542971248435200"
     }
   ]
 }
