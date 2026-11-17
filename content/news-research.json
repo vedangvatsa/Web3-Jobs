@@ -185030,11 +185030,30 @@
         "The Defiant"
       ],
       "id": "3db68d6f6743efa9bd7d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T11:47:12.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "verified-event",
+      "note": "Read the MAS Nov 16 press release and Cointelegraph's Nov 16 report; verified Project Simbolon's PvP euro-SGD test, the DBS/Deutsche Bank/Partior roles, the zero-knowledge proof design, the Nov 13 2025 MoU, both officials' quotes and the Insights Note across the two sources. CoinDesk returned a rate limit and The Defiant was not needed.",
+      "sourceChecks": [
+        {
+          "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-deutsche-bundesbank-advance-cross-border-digital-asset-settlement-connectivity",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T02:51:18.067Z",
+      "articleSlug": "simbolon",
+      "lastReviewedDay": "2026-11-17"
     },
     "535d91a79ddf92303889": {
       "source": "Cointelegraph",
@@ -359285,6 +359304,27 @@
           ],
           "reviewedAt": "2026-11-17T02:47:42.896Z",
           "articleSlug": "hyperliquidplea"
+        },
+        "3db68d6f6743efa9bd7d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the MAS Nov 16 press release and Cointelegraph's Nov 16 report; verified Project Simbolon's PvP euro-SGD test, the DBS/Deutsche Bank/Partior roles, the zero-knowledge proof design, the Nov 13 2025 MoU, both officials' quotes and the Insights Note across the two sources. CoinDesk returned a rate limit and The Defiant was not needed.",
+          "sourceChecks": [
+            {
+              "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-and-deutsche-bundesbank-advance-cross-border-digital-asset-settlement-connectivity",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T02:51:18.067Z",
+          "articleSlug": "simbolon"
         }
       },
       "baselineSlugs": [
