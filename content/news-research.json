@@ -179964,11 +179964,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "336f9c5767a492437274",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T00:22:20.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "price-chatter",
+      "note": "Opened the Nov. 15 Defiant page: pure price analysis (bitcoin near $64,000, 24% drawdown from the October high, Nov. 12 break below $72,000). No concrete event; the second candidate URL is Unchained price coverage of the same slide.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/bitcoin-near-64-000-as-drawdown-from-october-high-tops-24",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:21:00.021Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "701ebffb80de26ce35ef": {
       "source": "Crypto Briefing",
@@ -185947,7 +185957,7 @@
         "id": "ab687f83adb0f54920b5",
         "day": "2026-11-17",
         "articleSlug": "strategy485",
-        "note": "Read Unchained Nov. 16 report (with SEC 8-K link) and Crypto Briefing Nov. 16 report on the 485 BTC purchase and STRC buyback week; The Block returns 403. Draft and image still needed.",
+        "note": "Re-read Unchained and Crypto Briefing Nov. 16 and read the SEC 8-K (mstr-20261116.htm) confirming 485 BTC/3.4M/$68,887 avg, holdings 850,849 BTC, STRC $228.1M buyback, $244.7M MSTR sales split. Image and draft still needed.",
         "sourceChecks": [
           {
             "url": "https://unchainedcrypto.com/strategy-buys-485-bitcoin-for-33-4-million-lifting-holdings-to-850849-btc/",
@@ -185958,11 +185968,15 @@
             "outcome": "read"
           },
           {
+            "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm",
+            "outcome": "read"
+          },
+          {
             "url": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-17T03:18:03.900Z",
+        "updatedAt": "2026-11-17T03:21:58.761Z",
         "approved": false,
         "mustReview": true
       }
@@ -359694,6 +359708,18 @@
             }
           ],
           "reviewedAt": "2026-11-17T03:20:59.037Z"
+        },
+        "336f9c5767a492437274": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Opened the Nov. 15 Defiant page: pure price analysis (bitcoin near $64,000, 24% drawdown from the October high, Nov. 12 break below $72,000). No concrete event; the second candidate URL is Unchained price coverage of the same slide.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/bitcoin-near-64-000-as-drawdown-from-october-high-tops-24",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:21:00.021Z"
         }
       },
       "baselineSlugs": [
