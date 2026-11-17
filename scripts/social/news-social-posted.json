@@ -289,6 +289,26 @@
       "slot": "afternoon",
       "date": "2026-11-16",
       "queuedAt": "2026-11-16T11:32:25.608Z"
+    },
+    {
+      "slug": "coinonehack",
+      "platform": "x",
+      "channelId": "6ab62682ea19ca0bdee284bd",
+      "postId": "6afbcd24df36f4d8256737df",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-17",
+      "queuedAt": "2026-11-17T03:42:28.805Z"
+    },
+    {
+      "slug": "coinonehack",
+      "platform": "linkedin",
+      "channelId": "69c5b139af47dacb695b5feb",
+      "postId": "6afbcd25797935b975dc6113",
+      "status": "queued",
+      "slot": "morning",
+      "date": "2026-11-17",
+      "queuedAt": "2026-11-17T03:42:28.805Z"
     }
   ]
 }
