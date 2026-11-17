@@ -425,5 +425,42 @@
     "slotKey": "2026-11-17:morning",
     "messageId": 193534,
     "sentAt": "2026-11-17T03:42:46.671Z"
+  },
+  "76c73b55-f205-439b-8ecc-751d210ca3a2": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T11:33:01.745Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index",
+        "headline": "Liquid AI releases d1.2 omnimodal decision models",
+        "summary": "The company launched d1.2 and d1.2-ultra, multimodal decision models that output calibrated probabilities across text, images, and audio.",
+        "event_rationale": "This covers Liquid AI's launch of its d1.2 decision models, which is distinct from its previously posted audio codec model.",
+        "link": "https://www.marktechpost.com/2026/11/17/liquid-ai-d1-2-omnimodal-decision-models/",
+        "source": "MarkTechPost",
+        "originalTitle": "Liquid AI Releases d1.2 and d1.2-ultra: Omnimodal Decision Models That Top the AA Decision Index"
+      },
+      {
+        "index": 9,
+        "original_title": "Noeri raises $110M to help companies build living AI systems that self-improve over time",
+        "headline": "Noeri raises $110 million for self-improving AI systems",
+        "summary": "The startup launched with $110 million in funding led by Menlo Ventures to build enterprise AI that learns continuously.",
+        "event_rationale": "This covers Noeri's $110 million launch funding round, which is distinct from other recently posted venture capital investments.",
+        "link": "https://siliconangle.com/2026/11/16/noeri-raises-110m-to-help-companies-build-living-ai-systems-that-self-improve-over-time/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Noeri raises $110M to help companies build living AI systems that self-improve over time"
+      },
+      {
+        "index": 12,
+        "original_title": "Google warns that fully automated cyberattacks have arrived and will get worse fast",
+        "headline": "Google detects first fully automated AI cyberattack framework",
+        "summary": "Security researchers caught an autonomous AI system analyzing code patches, creating exploits, and executing attacks without human involvement.",
+        "event_rationale": "This covers Google's discovery of the first fully autonomous AI cyberattack tool, distinct from standard security research or agent news.",
+        "link": "https://the-decoder.com/google-warns-that-fully-automated-cyberattacks-have-arrived-and-will-get-worse-fast/",
+        "source": "The Decoder",
+        "originalTitle": "Google warns that fully automated cyberattacks have arrived and will get worse fast"
+      }
+    ],
+    "slotKey": "2026-11-17:afternoon"
   }
 }
