@@ -146431,6 +146431,39 @@
       "attemptId": "c1bba935-ab44-4917-b705-4026acc49ad5",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 17-Nov-26 03:32:59 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AgztJ1EUui0eU8jS7OyFXwt\"}"
+    },
+    {
+      "slug": "sls458",
+      "company": "Ripple",
+      "title": "Accounting Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-17T11:32:23.578Z",
+      "expectedText": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/bsky?og=7",
+      "snapshot": {
+        "id": "8366302",
+        "title": "Accounting Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8366302?gh_jid=8366302",
+        "date": "2026-11-09T18:22:50-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "New York, NY, United States",
+        "department": "Finance",
+        "active": true,
+        "salary": "$132k – $160k/yr",
+        "dateVerified": true,
+        "slug": "sls458"
+      },
+      "payload": {
+        "text": "Ripple is hiring Accounting Manager: https://hashtagweb3.com/sls458/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls458/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls458.png?v=7",
+        "company": "Ripple",
+        "title": "Accounting Manager",
+        "description": "Join Ripple as Accounting Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "0f7fbc97-111e-4b11-8071-9030b9e4c4eb",
+      "verification": "creating"
     }
   ]
 }
