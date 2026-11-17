@@ -363,7 +363,7 @@
     "sentAt": "2026-11-17T03:44:13.776Z"
   },
   "22b853da-1909-419b-b0f9-520550e2b9a8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-17T11:33:40.641Z",
     "stories": [
       {
@@ -391,6 +391,8 @@
         "originalTitle": "Singapore and Germany test cross-border CBDC settlement with Project Simbolon"
       }
     ],
-    "slotKey": "2026-11-17:afternoon"
+    "slotKey": "2026-11-17:afternoon",
+    "messageId": 65837,
+    "sentAt": "2026-11-17T11:33:44.244Z"
   }
 }
