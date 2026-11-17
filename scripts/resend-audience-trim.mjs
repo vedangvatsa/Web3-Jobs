@@ -376,9 +376,11 @@ async function main() {
         const jsonlFile = stateFile ? `${stateFile}.jsonl` : null;
         contacts = [];
         let after;
+        let walkDone = false;
         if (stateFile && fs.existsSync(stateFile)) {
           const saved = JSON.parse(fs.readFileSync(stateFile, 'utf8'));
           after = saved.after || undefined;
+          walkDone = saved.done === true;
           if (jsonlFile && fs.existsSync(jsonlFile)) {
             const seen = new Set();
             for (const line of fs.readFileSync(jsonlFile, 'utf8').split('\n')) {
@@ -391,7 +393,7 @@ async function main() {
           console.error(`[segment] resuming walk: ${contacts.length} loaded, after=${after || 'start'}`);
         }
         let pages = 0;
-        for (;;) {
+        if (!walkDone) for (;;) {
           const query = new URLSearchParams({ limit: '100' });
           if (after) query.set('after', after);
           const page = await api(`/audiences/${focusId}/contacts?${query}`);
@@ -409,7 +411,7 @@ async function main() {
           if (stateFile) fs.writeFileSync(stateFile, JSON.stringify({ after, count: contacts.length }));
           await new Promise(resolve => setTimeout(resolve, CONTACTS_PAGE_SLEEP_MS));
         }
-        if (stateFile) fs.writeFileSync(stateFile, JSON.stringify({ after: null, count: contacts.length, done: true }));
+        if (stateFile && !walkDone) fs.writeFileSync(stateFile, JSON.stringify({ after: null, count: contacts.length, done: true }));
         const unique = new Map(contacts.map(c => [c.id, c]));
         contacts = [...unique.values()];
         console.error(`[segment] contacts total: ${contacts.length}`);
@@ -449,7 +451,7 @@ async function main() {
         const contact = queue.shift();
         if (!contact) return;
         try {
-          await api(`/segments/${segmentId}/contacts`, { method: 'POST', body: JSON.stringify({ contact_id: contact.id }) });
+          await api(`/segments/${segmentId}/contacts`, { method: 'POST', body: JSON.stringify({ email: contact.email }) });
           results.push({ id: contact.id, email: maskEmail(contact.email), status: 'added' });
         } catch (error) {
           results.push({ id: contact.id, email: maskEmail(contact.email), status: 'error', error: String(error.message) });
