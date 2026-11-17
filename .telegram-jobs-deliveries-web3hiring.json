@@ -2634,5 +2634,122 @@
     "slotKey": "2026-11-17:morning",
     "messageId": 201,
     "sentAt": "2026-11-17T03:42:58.072Z"
+  },
+  "5adc648b-b7fd-4d50-9542-afa77b72d57a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T11:32:19.593Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8872849002",
+          "title": "Senior Financial Portfolio Analyst, Servicing",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8872849002",
+          "date": "2026-10-19T16:33:43-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Servicing",
+          "active": true,
+          "salary": "$85.4k – $128.0k/yr",
+          "dateVerified": true,
+          "slug": "an99"
+        },
+        "key": "8872849002",
+        "slug": "an99",
+        "url": "https://hashtagweb3.com/an99?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Financial Portfolio Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8354333",
+          "title": "Senior Client Platform Engineer",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8354333?t=gh_src=&gh_jid=8354333",
+          "date": "2026-11-16T10:50:13-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA",
+          "department": "Enterprise Technology Division",
+          "active": true,
+          "salary": "$161.5k – $190k/yr",
+          "dateVerified": true,
+          "slug": "eng793"
+        },
+        "key": "8354333",
+        "slug": "eng793",
+        "url": "https://hashtagweb3.com/eng793?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Client Platform Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6b32c57b-0476-41ad-8ef2-66887704cacd",
+          "title": "Head of Business Development",
+          "company": "Very",
+          "link": "https://talent.superteam.fun/jobs/head-of-business-development-at-very-6b32c57b-0476-41ad-8ef2-66887704cacd",
+          "date": "2026-10-21T07:06:03.864657+00:00",
+          "source": "Superteam: Very [superteam]",
+          "location": "Onsite · San Francisco, NY",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls316"
+        },
+        "key": "6b32c57b-0476-41ad-8ef2-66887704cacd",
+        "slug": "sls316",
+        "url": "https://hashtagweb3.com/sls316?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Very",
+        "title": "Head of Business Development"
+      },
+      {
+        "snapshot": {
+          "id": "7f63abac-d3a9-4c78-9e1f-cf4ccec8f25d",
+          "title": "Strategy Manager",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/Coinflow/7f63abac-d3a9-4c78-9e1f-cf4ccec8f25d",
+          "date": "2026-11-12T17:26:01.551+00:00",
+          "source": "Ashby: Coinflow [Coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Strategy",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr255"
+        },
+        "key": "7f63abac-d3a9-4c78-9e1f-cf4ccec8f25d",
+        "slug": "mgr255",
+        "url": "https://hashtagweb3.com/mgr255?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Strategy Manager"
+      },
+      {
+        "snapshot": {
+          "id": "144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+          "title": "Security Operations Engineer",
+          "company": "Alchemy",
+          "link": "https://jobs.ashbyhq.com/alchemy/144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+          "date": "2026-11-05T19:44:48.665+00:00",
+          "source": "Ashby: Alchemy [alchemy]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec92"
+        },
+        "key": "144d4418-ea30-48d1-9ff1-3f8e6e4c6a86",
+        "slug": "sec92",
+        "url": "https://hashtagweb3.com/sec92?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alchemy",
+        "title": "Security Operations Engineer"
+      }
+    ],
+    "message": "- Figure is hiring <a href=\"https://hashtagweb3.com/an99?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Financial Portfolio Analyst, Servicing</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng793?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Client Platform Engineer</a>\n- Very is hiring <a href=\"https://hashtagweb3.com/sls316?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Business Development</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/mgr255?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Strategy Manager</a>\n- Alchemy is hiring <a href=\"https://hashtagweb3.com/sec92?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations Engineer</a>",
+    "slotKey": "2026-11-17:afternoon"
   }
 }
