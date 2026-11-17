@@ -144837,7 +144837,8 @@
       },
       "account": "channel:dev",
       "attemptId": "1e4c983f-b4e4-443a-8474-cd844e0ec1a5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf319d96df154e64765feb2ea2f446f50696abc5c"
     }
   ]
 }
