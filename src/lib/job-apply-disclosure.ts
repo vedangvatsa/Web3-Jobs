@@ -26,7 +26,7 @@ export type ThirdPartyHostDisclosure = {
 /** Host and platform label for outbound job/event links (Google third-party transparency). */
 export function getThirdPartyHostDisclosure(outboundUrl: string): ThirdPartyHostDisclosure | null {
   try {
-    const url = new URL(applyUrl);
+    const url = new URL(outboundUrl);
     const hostname = url.hostname.replace(/^www\./, '');
     const platformLabel = THIRD_PARTY_HOST_LABELS.find(({ test }) => test(hostname))?.label ?? null;
     return { hostname, platformLabel };

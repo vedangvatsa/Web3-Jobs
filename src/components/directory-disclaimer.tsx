@@ -34,7 +34,7 @@ export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
 
   let outboundParagraph: string | null = null;
 
-  if (variant === 'job' && props.showOutboundNote !== false && props.outboundUrl) {
+  if (props.variant === 'job' && props.showOutboundNote !== false && props.outboundUrl) {
     const disclosure = getThirdPartyHostDisclosure(props.outboundUrl);
     if (disclosure) {
       const hostPhrase = formatHostPhrase(disclosure.hostname, disclosure.platformLabel);
@@ -42,7 +42,7 @@ export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
     }
   }
 
-  if (variant === 'event' && props.outboundUrl) {
+  if (props.variant === 'event' && props.outboundUrl) {
     const disclosure = getThirdPartyHostDisclosure(props.outboundUrl);
     if (disclosure) {
       const hostPhrase = formatHostPhrase(disclosure.hostname, disclosure.platformLabel);
