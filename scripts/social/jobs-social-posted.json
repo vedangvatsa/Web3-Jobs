@@ -146028,6 +146028,41 @@
       "attemptId": "718ce70e-0dc7-40c2-bb8a-a6b74c672389",
       "verification": "verified",
       "postId": "0x7e26fc412540b01e4324c14da8f9c217e17da0a1"
+    },
+    {
+      "slug": "eng670",
+      "company": "Phantom",
+      "title": "AI Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-17T03:47:53.446Z",
+      "expectedText": "Phantom is hiring AI Engineer\n\nhttps://hashtagweb3.com/eng670/fc?og=7",
+      "snapshot": {
+        "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "title": "AI Engineer",
+        "company": "Phantom",
+        "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "date": "2026-10-27T20:00:50.661+00:00",
+        "source": "Ashby: Phantom [Phantom]",
+        "location": "Remote-US",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng670"
+      },
+      "payload": {
+        "text": "Phantom is hiring AI Engineer\n\nhttps://hashtagweb3.com/eng670/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng670/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "ce2a4173-e035-40ae-b5fa-f922e14ec0bb",
+      "verification": "creating"
     }
   ]
 }
