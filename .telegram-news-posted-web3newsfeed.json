@@ -29,6 +29,9 @@
   "https://hashtagweb3.com/blumenthaldeadline?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/coinbasetrust?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nearmemecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/coinonehack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cnbbond?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/efsale?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -89,6 +92,12 @@
   "Coinbase wins final OCC approval for national trust bank charter",
   "North Korea Launders Stolen Binance Funds Using Temporary Tokens",
   "North Korean launderers mint throwaway meme coins to move Binance hack funds",
+  "Coinone warns of data breach via support contractor",
+  "Coinone warns customers after support contractor breach exposes IDs, passwords",
+  "Czech Central Bank Completes First Tokenized Bond Trial",
+  "Czech National Bank Completes Its First Tokenized Bond Tests",
+  "Ethereum Foundation Wallet Sells 2,000 ETH",
+  "Ethereum Foundation-linked wallet sells 2,000 ETH over two days",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -118,5 +127,8 @@
   "fp:appoint|binanc|breach|cfo|chief|down|exchang|financ|financial|justin",
   "fp:binanc|blumenthal|chair|deadlin|document|firm|four|jan4|january2027|link",
   "fp:approval|bank|charter|coinbas|custody|directly|federal|final|national|now",
-  "fp:000|430|binanc|blockchain|coin|custom|elliptic|hack|korea|korean"
+  "fp:000|430|binanc|blockchain|coin|custom|elliptic|hack|korea|korean",
+  "fp:access|address|breach|coinon|contractor|cryptocurrency|customer|expos|hacker|identification",
+  "fp:asset|bank|bas|blockchain|bond|central|complet|czech|efficiency|evaluat",
+  "fp:000|address|converted1|cow|daily|day|eth|foundation|link|lookonchain"
 ]
