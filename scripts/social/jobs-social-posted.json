@@ -146170,7 +146170,8 @@
       },
       "account": "channel:design",
       "attemptId": "61f3e0db-6b0f-4377-af10-0eb818e5a9f4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x98d8703ea67401ea734c20cc1a738f9d6c17c8f4"
     }
   ]
 }
