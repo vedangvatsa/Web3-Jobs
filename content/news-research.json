@@ -186858,7 +186858,27 @@
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 0,
       "expiresAt": "2026-11-19T21:51:04.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "articleSlug": "hyperliquidplea",
+      "draftProgress": {
+        "id": "57b5941b44a783d99309",
+        "day": "2026-11-17",
+        "articleSlug": "hyperliquidplea",
+        "note": "Read Crypto Briefing Nov 16 and TokenPost Nov 16 on Xiang's guilty plea; CoinDesk 429 and BeInCrypto 403. SDNY complaint still to open, then draft and image.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/robinhood-engineer-guilty-hyperliquid-insider-trades/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/regulation/58827",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-17T02:44:35.574Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "fedd3d7dd3dd121434a6": {
       "source": "The Block",
