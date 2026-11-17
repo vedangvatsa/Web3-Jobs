@@ -145530,7 +145530,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "501c3a58-94f2-4f21-a597-a104fa45d449",
-      "verification": "creating"
+      "verification": "pending",
+      "postId": "6afbce6cdf36f4d82567a0e3"
     }
   ]
 }
