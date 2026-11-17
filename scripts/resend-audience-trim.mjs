@@ -508,13 +508,38 @@ async function main() {
   const keepRows = [];
   for await (const { items } of paginate(`/segments/${segmentId}/contacts`, CONTACTS_PAGE_SLEEP_MS)) {
     for (const member of items) {
-      if (member?.id) { keepIds.add(member.id); keepRows.push({ id: member.id, email: maskEmail(member.email) }); }
+      if (member?.id) { keepIds.add(member.id); keepRows.push({ id: member.id, email: String(member.email || '').toLowerCase(), created_at: member.created_at ?? null }); }
     }
   }
   if (!keepIds.size) throw new Error(`keep segment ${segmentId} has no members — refusing to trim`);
 
+  // Audience snapshot: --contacts-file (json array or jsonl of page arrays,
+  // e.g. the checkpointed walk state) avoids re-walking 148k contacts over a
+  // flaky link. Falls back to a live walk when not provided.
+  let audience;
+  const contactsFile = args['contacts-file'] || null;
+  if (contactsFile) {
+    const rawText = fs.readFileSync(contactsFile, 'utf8').trim();
+    if (contactsFile.endsWith('.jsonl')) {
+      audience = [];
+      for (const line of rawText.split('\n')) {
+        if (!line.trim()) continue;
+        for (const contact of JSON.parse(line)) audience.push(contact);
+      }
+    } else {
+      audience = JSON.parse(rawText);
+    }
+    const unique = new Map(audience.filter(c => c?.id).map(c => [c.id, c]));
+    audience = [...unique.values()];
+    console.error(`[trim] audience from file: ${audience.length}`);
+  } else {
+    audience = [];
+    for await (const contact of paginateContacts(focusId)) audience.push(contact);
+    console.error(`[trim] audience walked live: ${audience.length}`);
+  }
+
   const deletions = [];
-  for await (const contact of paginateContacts(focusId)) {
+  for (const contact of audience) {
     if (!contact?.id || keepIds.has(contact.id)) continue;
     deletions.push({ id: contact.id, email: String(contact.email || '').toLowerCase(), created_at: contact.created_at ?? null, unsubscribed: Boolean(contact.unsubscribed) });
     if (deletions.length % 10000 === 0) console.error(`[trim] deletion plan: ${deletions.length}...`);
