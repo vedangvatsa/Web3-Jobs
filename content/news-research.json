@@ -184108,9 +184108,9 @@
         "The Defiant"
       ],
       "id": "0b212741b99845e2397a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T23:27:15.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "backpackcftc",
@@ -184132,7 +184132,33 @@
         "updatedAt": "2026-11-17T02:52:53.732Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing DCO registration order and Crypto Briefing's Nov 16 report; verified the approval scope, the margined-futures permission, the no-launch-date detail and all quotes across sources; The Block, The Defiant and the GlobeNewswire release stayed blocked, and the tZERO half is excluded for lack of a readable source.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:00:05.757Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "b6cbd8e681e8963d3e3d": {
       "source": "Cointelegraph",
@@ -359372,6 +359398,35 @@
           ],
           "reviewedAt": "2026-11-17T02:59:48.201Z",
           "articleSlug": "vitalikquantum"
+        },
+        "0b212741b99845e2397a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing DCO registration order and Crypto Briefing's Nov 16 report; verified the approval scope, the margined-futures permission, the no-launch-date detail and all quotes across sources; The Block, The Defiant and the GlobeNewswire release stayed blocked, and the tZERO half is excluded for lack of a readable source.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:00:05.757Z",
+          "articleSlug": "backpackcftc"
         }
       },
       "baselineSlugs": [
