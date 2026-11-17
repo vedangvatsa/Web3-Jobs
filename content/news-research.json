@@ -184732,11 +184732,16 @@
       ],
       "alsoCoveredBy": [],
       "id": "b96ce164a5af535ce69b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T02:02:14.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "out-of-scope",
+      "note": "OpenAI CFO remarks on a possible Anthropic IPO valuation are AI-industry opinion commentary, not a Web3 concrete event; both linked pieces are Crypto Briefing commentary and the Anthropic IPO roadshow itself is already covered by content/articles/anthropicipo.md.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-17T03:10:13.618Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "06abdbc6892bff1791ad": {
       "source": "BeInCrypto",
@@ -359498,6 +359503,13 @@
           "note": "Live-updates story built around bitcoin near $65,000 and a Nasdaq close; it is ongoing price/market chatter with no concrete discrete event.",
           "sourceChecks": [],
           "reviewedAt": "2026-11-17T03:10:08.795Z"
+        },
+        "b96ce164a5af535ce69b": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "OpenAI CFO remarks on a possible Anthropic IPO valuation are AI-industry opinion commentary, not a Web3 concrete event; both linked pieces are Crypto Briefing commentary and the Anthropic IPO roadshow itself is already covered by content/articles/anthropicipo.md.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-17T03:10:13.618Z"
         }
       },
       "baselineSlugs": [
