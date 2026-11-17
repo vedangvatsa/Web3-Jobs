@@ -1189,5 +1189,122 @@
     "slotKey": "2026-11-16:evening",
     "messageId": 156286,
     "sentAt": "2026-11-16T19:32:56.218Z"
+  },
+  "21bc817d-b65b-4e67-a570-8f785f1300fd": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T03:43:02.320Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "21acac5a-dbfc-4cdf-b6be-35783bd3ce73",
+          "title": "Analytics Engineer, Finance",
+          "company": "Rain",
+          "link": "https://jobs.ashbyhq.com/rain/21acac5a-dbfc-4cdf-b6be-35783bd3ce73",
+          "date": "2026-11-12T15:07:32.597+00:00",
+          "source": "Ashby: Rain [rain]",
+          "location": "San Juan, Puerto Rico",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Technology and Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng767"
+        },
+        "key": "21acac5a-dbfc-4cdf-b6be-35783bd3ce73",
+        "slug": "eng767",
+        "url": "https://hashtagweb3.com/eng767?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Analytics Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8203042003",
+          "title": "Compliance Analyst, Financial Crime Compliance QA",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8203042003",
+          "date": "2026-11-13T00:54:06-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "qa106"
+        },
+        "key": "8203042003",
+        "slug": "qa106",
+        "url": "https://hashtagweb3.com/qa106?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Compliance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8356065",
+          "title": "Senior Data Scientist, Experimentation",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8356065?t=gh_src=&gh_jid=8356065",
+          "date": "2026-11-13T17:25:02-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA",
+          "department": "ENG Data and AI Platform Division",
+          "active": true,
+          "salary": "$187k – $220k/yr",
+          "dateVerified": true,
+          "slug": "dse"
+        },
+        "key": "8356065",
+        "slug": "dse",
+        "url": "https://hashtagweb3.com/dse?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Senior Data Scientist"
+      },
+      {
+        "snapshot": {
+          "id": "8932884002",
+          "title": "Operations Training Specialist I",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8932884002",
+          "date": "2026-11-09T19:12:10-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Reno, NV; Charlotte, NC",
+          "department": "Training",
+          "active": true,
+          "salary": "$26 – $32/hr",
+          "dateVerified": true,
+          "slug": "ops164"
+        },
+        "key": "8932884002",
+        "slug": "ops164",
+        "url": "https://hashtagweb3.com/ops164?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Operations Training Specialist I"
+      },
+      {
+        "snapshot": {
+          "id": "47032a24-3cd9-4418-834e-199924bc928a",
+          "title": "(Senior) Strategy Associate",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/47032a24-3cd9-4418-834e-199924bc928a",
+          "date": "2026-10-21T09:13:10.048Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso65"
+        },
+        "key": "47032a24-3cd9-4418-834e-199924bc928a",
+        "slug": "aso65",
+        "url": "https://hashtagweb3.com/aso65?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "(Senior) Strategy Associate"
+      }
+    ],
+    "message": "- Rain is hiring <a href=\"https://hashtagweb3.com/eng767?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Analytics Engineer, Finance</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/qa106?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Analyst, Financial Crime Compliance QA</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/dse?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Scientist, Experimentation</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/ops164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Training Specialist I</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/aso65?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">(Senior) Strategy Associate</a>",
+    "slotKey": "2026-11-17:morning"
   }
 }
