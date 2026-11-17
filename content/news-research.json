@@ -184483,9 +184483,9 @@
         "The Defiant"
       ],
       "id": "bfce5e41c58767c0e9e1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T19:56:18.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "onchainrights",
@@ -184511,7 +184511,33 @@
         "updatedAt": "2026-11-17T03:12:45.513Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph's Nov. 16 report and the Broadridge/PRNewswire Nov. 16 primary release on the Onchain Rights Standard and oracle, plus Broadridge's April 6 platform release for the Galaxy/Avalanche context; verified the EIP submission, the Nichols no-shareholder-rights quote, the Abraham and DeSchutter quotes and the no-timetable detail across sources. The Defiant returned 403. Drafted onchainrights.md (645 audited words, 3 external hosts) with a self-hosted Wikimedia hero; quality, formatting, duplicate and image audits report no issues for the file.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-broadridge-launches-data-oracle-302939893.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.broadridge.com/press-release/2026/broadridge-live-with-on-chain-governance",
+          "outcome": "read"
+        },
+        {
+          "url": "https://onchainrights.org",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-broadridge-propose-onchain-rights-standard",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:17:58.977Z",
+      "lastReviewedDay": "2026-11-17"
     },
     "7e15822def390cceda2e": {
       "source": "Decrypt",
@@ -359593,6 +359619,35 @@
           "retrySearches": [
             "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands"
           ]
+        },
+        "bfce5e41c58767c0e9e1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph's Nov. 16 report and the Broadridge/PRNewswire Nov. 16 primary release on the Onchain Rights Standard and oracle, plus Broadridge's April 6 platform release for the Galaxy/Avalanche context; verified the EIP submission, the Nichols no-shareholder-rights quote, the Abraham and DeSchutter quotes and the no-timetable detail across sources. The Defiant returned 403. Drafted onchainrights.md (645 audited words, 3 external hosts) with a self-hosted Wikimedia hero; quality, formatting, duplicate and image audits report no issues for the file.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.prnewswire.com/news-releases/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-broadridge-launches-data-oracle-302939893.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.broadridge.com/press-release/2026/broadridge-live-with-on-chain-governance",
+              "outcome": "read"
+            },
+            {
+              "url": "https://onchainrights.org",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-broadridge-propose-onchain-rights-standard",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:17:58.977Z",
+          "articleSlug": "onchainrights"
         }
       },
       "baselineSlugs": [
