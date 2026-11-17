@@ -394,5 +394,36 @@
     "slotKey": "2026-11-17:afternoon",
     "messageId": 156312,
     "sentAt": "2026-11-17T11:33:16.094Z"
+  },
+  "24d86c83-5e26-4a99-82b6-2b2a668b5597": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T19:34:44.329Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Supreme Court rejects Custodia Bank's bid for Federal Reserve access",
+        "summary": "Regional Federal Reserve Banks retain the authority to deny master account applications from eligible financial institutions.",
+        "link": "https://hashtagweb3.com/custodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Supreme Court turns down Custodia Bank's bid for Federal Reserve payment access"
+      },
+      {
+        "index": -1,
+        "headline": "Vitalik Buterin supports leanPCS for Ethereum quantum security",
+        "summary": "He changed his position on EIP-8288 to keep large cryptographic proofs off the main blockchain.",
+        "link": "https://hashtagweb3.com/vitalikquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Vitalik Buterin backs leanPCS as the fast route to quantum-safe Ethereum"
+      },
+      {
+        "index": -1,
+        "headline": "MEGA cuts 20% of staff to develop AI products",
+        "summary": "The firm allocated $30 million for an AI inference market after rebranding from the MegaETH layer-2 project.",
+        "link": "https://hashtagweb3.com/megacuts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MEGA cuts 20% of staff as MegaETH group shifts toward AI products"
+      }
+    ],
+    "slotKey": "2026-11-17:evening"
   }
 }
