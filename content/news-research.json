@@ -184118,22 +184118,18 @@
         "id": "0b212741b99845e2397a",
         "day": "2026-11-17",
         "articleSlug": "backpackcftc",
-        "note": "Read Crypto Briefing Nov 16 on the DCM and DCO approvals and Selig and Wetjen quotes; The Block and The Defiant returned 403. The tZERO half of the headline and the CFTC primary orders still need reading before a decision.",
+        "note": "Progress this round: downloaded and read the CFTC's Nov 13 DCO registration order for TLD Clearing (d/b/a Backpack Clearing), including the margined-futures clearing permission. Backpack's GlobeNewswire release returned 403 and The Block/Defiant remain 403. Still need to read the Nov 16 DCM designation for TLD Markets, recheck the Crypto Briefing report from round 1, and decide whether the tZERO half has enough coverage for a draft.",
         "sourceChecks": [
           {
-            "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
+            "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
             "outcome": "read"
           },
           {
-            "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
-            "outcome": "blocked"
-          },
-          {
-            "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+            "url": "https://www.globenewswire.com/news-release/2026/11/16/3404185/0/en/backpack-receives-landmark-cftc-approval-to-establish-first-ever-blockchain-based-derivatives-exchange-in-the-united-states-with-global-unified-liquidity.html",
             "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-17T02:40:39.804Z",
+        "updatedAt": "2026-11-17T02:52:53.732Z",
         "approved": false,
         "mustReview": true
       }
