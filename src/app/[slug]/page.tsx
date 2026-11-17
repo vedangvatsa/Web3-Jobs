@@ -609,7 +609,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               />
 
               {sideEvents.length > 0 && <EventSideEvents eventName={event.name} events={sideEvents} timeZone={eventTimeZone} />}
-              <DirectoryDisclaimer />
+              <DirectoryDisclaimer
+                variant="event"
+                entityName={event.name}
+                outboundUrl={eventExternalUrl}
+              />
 
               {/* Related Events Section */}
               {relatedEvents.length > 0 && (

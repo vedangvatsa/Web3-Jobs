@@ -182,7 +182,12 @@ export function JobDetailView({
           </div>
         </section>
       )}
-      <DirectoryDisclaimer />
+      <DirectoryDisclaimer
+        variant="job"
+        entityName={job.company}
+        outboundUrl={job.link}
+        showOutboundNote={isJobAgeEligible(job)}
+      />
     </article>
   );
 }

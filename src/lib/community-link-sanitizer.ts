@@ -23,6 +23,9 @@ const PLATFORM = /\b(?:telegram|whatsapp|discord)\b/i;
 const JOIN_VERB =
  /\b(?:join|connect|follow|chat|sign\s?up|subscribe|dm\b|message\s+us|contact\s+us|reach\s+us|find\s+us)\b/i;
 const GROUP_WORD = /\b(?:group|channel|community|chat)\b/i;
+/** Organizer copy promoting a third-party messaging community without an invite URL. */
+const THIRD_PARTY_COMMUNITY_PROMO =
+ /\b(?:telegram|whatsapp|discord)\b[^.]{0,120}\b(?:community|group|channel)\b[^.]{0,80}\b\d[\d,]*\s*(?:\+)?\s*members?\b/i;
 
 export function isOwnCommunityHandle(handle: string | undefined | null): boolean {
  return !!handle && OWN_HANDLES.has(handle.toLowerCase());
@@ -80,6 +83,7 @@ export function stripThirdPartyCommunityPromo(text: string): string {
    if (OWN_TOKEN.test(sentence)) return true; // our own channels stay
    if (JOIN_VERB.test(sentence)) return false;
    if (GROUP_WORD.test(sentence)) return false;
+   if (THIRD_PARTY_COMMUNITY_PROMO.test(sentence)) return false;
    if (/@[A-Za-z0-9_]{3,}/.test(sentence) && stripThirdPartyCommunityUrls(sentence) !== sentence) return false;
    if (stripThirdPartyCommunityUrls(sentence) !== sentence) return false;
    return true;

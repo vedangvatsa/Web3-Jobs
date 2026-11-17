@@ -1805,10 +1805,6 @@
       "sha256": "d236465514b7f64c4e8ffcb1aa11ead1debad92b9a0cf737bd86bc06eded8aaf",
       "status": "optimized"
     },
-    "/events/luma-crypto-cnwhgaalihimykq-0a0ce444.webp": {
-      "sha256": "c596f71852831e4621da584a44ca78fe79657a82478f5360fa10545eaeb32ff1",
-      "status": "retained"
-    },
     "/events/luma-crypto-cnzg5fqdlowqagl-0a8c2094.webp": {
       "sha256": "2d549296b497ea387758247a68de4f6a6726dfec9ea0dde6bfb33ff833e6536d",
       "status": "optimized"
