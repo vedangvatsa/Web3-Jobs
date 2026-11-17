@@ -1,13 +1,173 @@
 {
-  "generatedAt": "2026-11-17T03:41:28.939Z",
+  "generatedAt": "2026-11-17T11:31:21.012Z",
   "items": [
     {
-      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-      "link": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 01:02:05 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors’ crypto and credit card details, according to s...",
+      "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+      "link": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+      "pubDate": "Tue, 17 Nov 2026 11:29:51 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
+      "link": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+      "pubDate": "Tue, 17 Nov 2026 11:25:58 +0000",
+      "creator": "Ian Allison",
+      "contentSnippet": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”",
+      "source": "Coindesk"
+    },
+    {
+      "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+      "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 11:18:18 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a reco...",
       "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+      "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 11:14:05 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+      "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+      "pubDate": "Tue, 17 Nov 2026 11:05:25 +0000",
+      "creator": "Agent",
+      "contentSnippet": "Malicious code served through the website testing platform replaced visitors' wallet addresses with the attacker's and skimmed cards.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+      "link": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+      "pubDate": "Tue, 17 Nov 2026 10:49:40 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements.",
+      "source": "The Block"
+    },
+    {
+      "title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
+      "link": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+      "pubDate": "Tue, 17 Nov 2026 10:33:26 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "ZEC and HYPE led a quiet bounce in altcoins, while Nasdaq futures extended a two-day rout and traders waited on U.S. retail sales.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+      "link": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+      "pubDate": "Tue, 17 Nov 2026 10:22:18 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "An Optimizely signup flaw let an attacker plant address-swapping code on websites including HSBC, the BBC and Ledger. The total stolen remains unknown...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
+      "link": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
+      "pubDate": "Tue, 17 Nov 2026 10:20:37 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Tether said the deal could ease international payments in Brazil and open the door to USDT and Tether Gold integrations.",
+      "source": "The Block"
+    },
+    {
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 09:30:05 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
+      "link": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
+      "pubDate": "Tue, 17 Nov 2026 09:21:19 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "North Korea's TraderTraitor group transferred 34,279 ETH to three new wallets. The funds have not moved again, blockchain investigators say.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+      "link": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 09:08:32 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Grayscale says crypto pullback offers ‘compelling entry points’ as bitcoin falls to $64,000",
+      "link": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+      "pubDate": "Tue, 17 Nov 2026 07:39:17 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Grayscale Head of Research Zach Pandl said crypto still has strong fundamental demand, such as institutional adoption of stablecoins.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
+      "link": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+      "pubDate": "Tue, 17 Nov 2026 07:38:07 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Bitcoin may slide into the $50,000s after losing its 200-week average, with ETF outflows, weak demand and rate-hike risks weighing on BTC, leading mar...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
+      "link": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
+      "pubDate": "Tue, 17 Nov 2026 06:54:49 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The Foundation wants 25 million ADA for 12 global events, even as the token trades well below the 20 cent price used to size the request.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Cathie Wood’s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+      "link": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+      "pubDate": "Tue, 17 Nov 2026 06:35:02 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.",
+      "source": "The Block"
+    },
+    {
+      "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
+      "pubDate": "Tue, 17 Nov 2026 05:45:00 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case...",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin Drops 12.7% as Fed Hike Expectations Rise to 92%",
+      "link": "https://blockchain.news/news/bitcoin-falls-fed-hike-expectations",
+      "pubDate": "Tue, 17 Nov 2026 05:20:23 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Bitcoin fell 12.7% to $65.4k, closing below the 200-week average, as a December Fed hike is priced at 92%. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
+      "link": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
+      "pubDate": "Tue, 17 Nov 2026 05:02:05 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Stellar (XLM) Network Sees $33.2B in Q3 Volume Amid Stablecoin and RWA Growth",
+      "link": "https://blockchain.news/news/stellar-q3-2026-growth-report",
+      "pubDate": "Tue, 17 Nov 2026 04:43:23 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Stellar (XLM)'s Q3 2026 report highlights $33.2B in volume, 71% growth, and $5B in tokenized real-world assets, driven by stablecoins and developer ac...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Ripple (XRP) Swell 2026 Highlights Blockchain's Integration into Global Finance",
+      "link": "https://blockchain.news/news/ripple-swell-2026-blockchain-global-finance",
+      "pubDate": "Tue, 17 Nov 2026 04:35:23 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Ripple (XRP)'s 10th Swell conference showcased blockchain's real-world utility, with over 1,500 attendees and $900M projected annualized revenue by ye...",
+      "source": "Blockchain.News"
     },
     {
       "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
@@ -40,14 +200,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
-      "link": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
-      "pubDate": "Mon, 16 Nov 2026 21:51:04 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid.",
-      "source": "Coindesk"
     },
     {
       "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
@@ -88,30 +240,6 @@
       "creator": "Staff",
       "contentSnippet": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on N...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
-      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
-      "pubDate": "Mon, 16 Nov 2026 20:35:21 +0000",
-      "creator": "Helene Braun",
-      "contentSnippet": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
-      "link": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
-      "pubDate": "Mon, 16 Nov 2026 20:30:37 +0000",
-      "creator": "Jason Shubnell",
-      "contentSnippet": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation.",
-      "source": "The Block"
-    },
-    {
-      "title": "Bitwise sees Solana reaching $1,100 by 2031 in bull case as onchain trading grows",
-      "link": "https://www.theblock.co/news/markets/2026-11-16-bitwise-solana-price-prediction-1100-2031-441407",
-      "pubDate": "Mon, 16 Nov 2026 20:27:32 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Bitwise predicts the SOL token will be valued at $1,100 by 2031, versus $385 in the base case and $80 in the bear case.",
-      "source": "The Block"
     },
     {
       "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
@@ -386,36 +514,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
-      "pubDate": "Mon, 16 Nov 2026 10:29:30 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization.",
-      "source": "The Block"
-    },
-    {
       "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
       "link": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
       "pubDate": "Mon, 16 Nov 2026 09:54:55 +0000",
       "creator": "Agent",
       "contentSnippet": "The Ethereum co-founder says proof aggregation could deliver a \"cryptographic proof singularity\" much sooner than developers expected.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Live updates: Bitcoin trades near $65,000 as Nasdaq closes with 2.5% loss",
-      "link": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
-      "pubDate": "Mon, 16 Nov 2026 09:34:18 +0000",
-      "creator": "James Van Straten",
-      "contentSnippet": "Strategy and Strive might be the only buyers left in BTC, and each — constrained by weak stock prices — made only modest purchases last week.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
-      "link": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-      "pubDate": "Mon, 16 Nov 2026 09:26:39 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets.",
-      "source": "The Block"
     },
     {
       "title": "JPMorgan and DBS let clients move dollars across borders on weekends",
@@ -450,44 +554,12 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
-      "link": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
-      "pubDate": "Mon, 16 Nov 2026 06:27:42 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "Toto Finance’s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano’s seven constitutional committee...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
       "link": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Mon, 16 Nov 2026 05:28:40 +0000",
       "creator": "Felix Ng",
       "contentSnippet": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
-      "link": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
-      "pubDate": "Mon, 16 Nov 2026 05:01:17 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler’s Digest",
-      "link": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 15 Nov 2026 22:50:59 +0000",
-      "creator": "Andrew Fenton",
-      "contentSnippet": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia bo...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Did prediction markets call the U.S. midterm election?: State of Crypto ",
-      "link": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
-      "pubDate": "Sun, 15 Nov 2026 19:30:00 +0000",
-      "creator": "Nikhilesh De",
-      "contentSnippet": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
-      "source": "Coindesk"
     },
     {
       "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
@@ -498,76 +570,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "US Moves To Seize Or Restrain Over $1,200,000,000 Stolen in Binance Hack, Shuts Down North Korea-Linked FaceStealer Scam That Took $400,000,000",
-      "link": "https://dailyhodl.com/2026/11/15/us-moves-to-seize-or-restrain-over-1200000000-stolen-in-binance-hack-shuts-down-north-korea-linked-facestealer-scam-that-took-400000000/",
-      "pubDate": "Sun, 15 Nov 2026 15:30:26 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The U.S. government has moved to seize or restrain more than $1.2 billion in cryptocurrency stolen from Binance and has taken down infrastructure behi...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "Enterprise blockchain is going to come back from the dead",
-      "link": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 15 Nov 2026 14:30:00 +0000",
-      "creator": "Paul Brody",
-      "contentSnippet": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
-      "link": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
-      "pubDate": "Sun, 15 Nov 2026 14:00:00 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto su...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Bitcoin falls to 4-month low near $62K as crypto selloff deepens",
-      "link": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 15 Nov 2026 10:23:17 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Coinone warns of phishing, identity theft after customer data breach",
-      "link": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 15 Nov 2026 08:07:58 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and cr...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bitcoin Hits Three-Month Low Below $65,000 As Fourth Capitulation Wave Doubles to $850,000,000 Daily",
       "link": "https://dailyhodl.com/2026/11/15/bitcoin-hits-three-month-low-below-65000-as-fourth-capitulation-wave-doubles-to-850000000-daily/",
       "pubDate": "Sun, 15 Nov 2026 08:04:02 +0000",
       "creator": "Agent",
       "contentSnippet": "Bitcoin is sliding to a three-month low of $65,000 amid its fourth capitulation wave since the all-time high, with daily selling volume doubling to ov...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
-      "link": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
-      "pubDate": "Sun, 15 Nov 2026 07:00:00 +0000",
-      "creator": "Jamie Crawley",
-      "contentSnippet": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of cry...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
-      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
-      "pubDate": "Sun, 15 Nov 2026 02:50:57 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets.",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-      "link": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-      "pubDate": "Sat, 14 Nov 2026 16:33:23 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
-      "source": "Coindesk"
     },
     {
       "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
@@ -631,22 +639,6 @@
       "pubDate": "Fri, 13 Nov 2026 13:36:29 +0000",
       "creator": "Ryan Gladwin",
       "contentSnippet": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
-      "link": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
-      "pubDate": "Fri, 13 Nov 2026 13:03:40 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
-      "link": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
-      "pubDate": "Fri, 13 Nov 2026 11:20:44 +0000",
-      "creator": "Ryan Gladwin",
-      "contentSnippet": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
       "source": "Decrypt"
     }
   ]
