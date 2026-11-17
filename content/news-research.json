@@ -184156,7 +184156,7 @@
         "The Defiant"
       ],
       "id": "0b212741b99845e2397a",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T23:27:15.000Z",
@@ -184181,8 +184181,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing DCO registration order and Crypto Briefing's Nov 16 report; verified the approval scope, the margined-futures permission, the no-launch-date detail and all quotes across sources; The Block, The Defiant and the GlobeNewswire release stayed blocked, and the tZERO half is excluded for lack of a readable source.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing). Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
@@ -184205,8 +184205,47 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T03:00:05.757Z",
-      "lastReviewedDay": "2026-11-17"
+      "reviewedAt": "2026-11-17T04:19:57.931Z",
+      "lastReviewedDay": "2026-11-17",
+      "retrySearches": [
+        "Repair and revalidate the preserved backpackcftc draft against its original sources: backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing)"
+      ],
+      "nextReviewDate": "2026-11-18",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing DCO registration order and Crypto Briefing's Nov 16 report; verified the approval scope, the margined-futures permission, the no-launch-date detail and all quotes across sources; The Block, The Defiant and the GlobeNewswire release stayed blocked, and the tZERO half is excluded for lack of a readable source.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:00:05.757Z",
+          "articleSlug": "backpackcftc"
+        },
+        "validationErrors": [
+          "backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing)"
+        ],
+        "isolatedAt": "2026-11-17T04:19:57.931Z"
+      }
     },
     "b6cbd8e681e8963d3e3d": {
       "source": "Cointelegraph",
@@ -184242,7 +184281,7 @@
         "The Defiant"
       ],
       "id": "b6cbd8e681e8963d3e3d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T22:54:57.000Z",
@@ -184296,7 +184335,8 @@
         }
       ],
       "reviewedAt": "2026-11-17T02:38:32.053Z",
-      "lastReviewedDay": "2026-11-17"
+      "lastReviewedDay": "2026-11-17",
+      "publishedAt": "2026-11-17T04:20:15.502Z"
     },
     "367425fe08d383912a39": {
       "source": "BeInCrypto",
@@ -184503,7 +184543,7 @@
         "The Defiant"
       ],
       "id": "bfce5e41c58767c0e9e1",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T19:56:18.000Z",
@@ -184557,7 +184597,8 @@
         }
       ],
       "reviewedAt": "2026-11-17T03:17:58.977Z",
-      "lastReviewedDay": "2026-11-17"
+      "lastReviewedDay": "2026-11-17",
+      "publishedAt": "2026-11-17T04:20:15.502Z"
     },
     "7e15822def390cceda2e": {
       "source": "Decrypt",
@@ -185188,7 +185229,7 @@
         "The Defiant"
       ],
       "id": "3db68d6f6743efa9bd7d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T11:47:12.000Z",
@@ -185211,7 +185252,8 @@
       ],
       "reviewedAt": "2026-11-17T02:51:18.067Z",
       "articleSlug": "simbolon",
-      "lastReviewedDay": "2026-11-17"
+      "lastReviewedDay": "2026-11-17",
+      "publishedAt": "2026-11-17T04:20:15.502Z"
     },
     "535d91a79ddf92303889": {
       "source": "Cointelegraph",
@@ -186275,7 +186317,7 @@
         "Bankless"
       ],
       "id": "53ee2230b10048d4700d",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T08:18:03.000Z",
@@ -186325,7 +186367,8 @@
         }
       ],
       "reviewedAt": "2026-11-17T02:59:48.201Z",
-      "lastReviewedDay": "2026-11-17"
+      "lastReviewedDay": "2026-11-17",
+      "publishedAt": "2026-11-17T04:20:15.502Z"
     },
     "43393aef7f3651a8e651": {
       "source": "CoinDesk",
@@ -187085,7 +187128,7 @@
         "BeInCrypto"
       ],
       "id": "57b5941b44a783d99309",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T21:51:04.000Z",
@@ -187135,7 +187178,8 @@
         }
       ],
       "reviewedAt": "2026-11-17T02:47:42.896Z",
-      "lastReviewedDay": "2026-11-17"
+      "lastReviewedDay": "2026-11-17",
+      "publishedAt": "2026-11-17T04:20:15.502Z"
     },
     "fedd3d7dd3dd121434a6": {
       "source": "The Block",
@@ -355826,7 +355870,7 @@
     "2026-11-17": {
       "day": "2026-11-17",
       "startedAt": "2026-11-17T02:33:11.347Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "cbc5a3255e9b174694bb",
         "1a9c8f6b109964c82cc9",
@@ -359410,7 +359454,7 @@
           ]
         },
         "b6cbd8e681e8963d3e3d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read the Supreme Court docket for No. 26-62 showing the Nov. 16 denial, Cointelegraph's Nov. 16 report and Bitcoin Magazine's Nov. 16 report; verified the cert denial, the Oct. 31, 2025 Tenth Circuit ruling, the Jan. 27, 2023 denial and the amici across sources. The Defiant returned 403. Draft, hero image and audits pass.",
           "sourceChecks": [
@@ -359432,7 +359476,8 @@
             }
           ],
           "reviewedAt": "2026-11-17T02:38:32.053Z",
-          "articleSlug": "custodia"
+          "articleSlug": "custodia",
+          "publishedAt": "2026-11-17T04:20:15.502Z"
         },
         "94cdc29b1836acb17fe9": {
           "status": "rejected",
@@ -359489,7 +359534,7 @@
           ]
         },
         "57b5941b44a783d99309": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Crypto Briefing Nov 16 and TokenPost Nov 16 on Xiang's Nov 16 guilty plea before Judge McMahon; verified the 25,523 forfeiture, the wire fraud count, the at-least-11 announcements, the Coin Aware Individual Slack access, the pending Chai case and the Feb 25 2027 sentencing date across both sources. CoinDesk returned 429 and BeInCrypto 403; justice.gov served a bot-verification challenge.",
           "sourceChecks": [
@@ -359515,10 +359560,11 @@
             }
           ],
           "reviewedAt": "2026-11-17T02:47:42.896Z",
-          "articleSlug": "hyperliquidplea"
+          "articleSlug": "hyperliquidplea",
+          "publishedAt": "2026-11-17T04:20:15.502Z"
         },
         "3db68d6f6743efa9bd7d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read the MAS Nov 16 press release and Cointelegraph's Nov 16 report; verified Project Simbolon's PvP euro-SGD test, the DBS/Deutsche Bank/Partior roles, the zero-knowledge proof design, the Nov 13 2025 MoU, both officials' quotes and the Insights Note across the two sources. CoinDesk returned a rate limit and The Defiant was not needed.",
           "sourceChecks": [
@@ -359536,10 +359582,11 @@
             }
           ],
           "reviewedAt": "2026-11-17T02:51:18.067Z",
-          "articleSlug": "simbolon"
+          "articleSlug": "simbolon",
+          "publishedAt": "2026-11-17T04:20:15.502Z"
         },
         "53ee2230b10048d4700d": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read EIP-8288 in full, Decrypt Nov 16 and Unchained Nov 16 on Buterin's X thread endorsing leanPCS for the draft; verified the Nov 16 date, the quote, the three design options, size figures and gas estimates across sources; hero downloaded from Wikimedia and compressed.",
           "sourceChecks": [
@@ -359561,12 +359608,13 @@
             }
           ],
           "reviewedAt": "2026-11-17T02:59:48.201Z",
-          "articleSlug": "vitalikquantum"
+          "articleSlug": "vitalikquantum",
+          "publishedAt": "2026-11-17T04:20:15.502Z"
         },
         "0b212741b99845e2397a": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing DCO registration order and Crypto Briefing's Nov 16 report; verified the approval scope, the margined-futures permission, the no-launch-date detail and all quotes across sources; The Block, The Defiant and the GlobeNewswire release stayed blocked, and the tZERO half is excluded for lack of a readable source.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing). Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
@@ -359589,8 +359637,46 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-17T03:00:05.757Z",
-          "articleSlug": "backpackcftc"
+          "reviewedAt": "2026-11-17T04:19:57.931Z",
+          "articleSlug": "backpackcftc",
+          "retrySearches": [
+            "Repair and revalidate the preserved backpackcftc draft against its original sources: backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing)"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing DCO registration order and Crypto Briefing's Nov 16 report; verified the approval scope, the margined-futures permission, the no-launch-date detail and all quotes across sources; The Block, The Defiant and the GlobeNewswire release stayed blocked, and the tZERO half is excluded for lack of a readable source.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
+                  "outcome": "blocked"
+                },
+                {
+                  "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-17T03:00:05.757Z",
+              "articleSlug": "backpackcftc"
+            },
+            "validationErrors": [
+              "backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing)"
+            ],
+            "isolatedAt": "2026-11-17T04:19:57.931Z"
+          }
         },
         "4b1248cbfa3cab458152": {
           "status": "rejected",
@@ -359669,7 +359755,7 @@
           ]
         },
         "bfce5e41c58767c0e9e1": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Cointelegraph's Nov. 16 report and the Broadridge/PRNewswire Nov. 16 primary release on the Onchain Rights Standard and oracle, plus Broadridge's April 6 platform release for the Galaxy/Avalanche context; verified the EIP submission, the Nichols no-shareholder-rights quote, the Abraham and DeSchutter quotes and the no-timetable detail across sources. The Defiant returned 403. Drafted onchainrights.md (645 audited words, 3 external hosts) with a self-hosted Wikimedia hero; quality, formatting, duplicate and image audits report no issues for the file.",
           "sourceChecks": [
@@ -359695,7 +359781,8 @@
             }
           ],
           "reviewedAt": "2026-11-17T03:17:58.977Z",
-          "articleSlug": "onchainrights"
+          "articleSlug": "onchainrights",
+          "publishedAt": "2026-11-17T04:20:15.502Z"
         },
         "9cb54dc0f484d0239546": {
           "status": "rejected",
@@ -360228,6 +360315,298 @@
         ],
         "total": 172,
         "checkedAt": "2026-11-17T02:33:11.347Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-17T04:20:15.502Z",
+        "publishedIds": [
+          "b6cbd8e681e8963d3e3d",
+          "bfce5e41c58767c0e9e1",
+          "3db68d6f6743efa9bd7d",
+          "53ee2230b10048d4700d",
+          "57b5941b44a783d99309"
+        ],
+        "articleSlugs": [
+          "custodia",
+          "onchainrights",
+          "simbolon",
+          "vitalikquantum",
+          "hyperliquidplea"
+        ],
+        "pendingIds": [
+          "773cc0a55a08ec83efba",
+          "abd27a2e624f2fc55d53",
+          "a8d6dc203d124ff6fadc",
+          "70132a475baa1073b586",
+          "8c9abddcd12fe57ffa13",
+          "1fe5c9206e23631f8d47",
+          "75288c777b653a1e1f17",
+          "80610885fc28c3b59a90",
+          "7b056d37eadbd0f8c635",
+          "a124fc0aed66b1c8c620",
+          "b51344fe22d9fb6b2385",
+          "a9eb70c7e90583b13fc6",
+          "3628172978bb86c5e49b",
+          "5015ff8460f72b2c8d75",
+          "5678be16b02fd14769c4",
+          "cf302dfd261ec442ee8b",
+          "fd3e41558325244e5777",
+          "701ebffb80de26ce35ef",
+          "775dc00237021b609e1d",
+          "53ffc1347094fdf22857",
+          "81a778edfde34fcac431",
+          "b155edde4e933b3fa265",
+          "f012e39557c7f4085c4b",
+          "bf05ff676a04618cc279",
+          "ecdd9a4e6d7bcb0b1ccd",
+          "4313d26d11cb6c2e1dae",
+          "5395cdfd1f3a2e4832d4",
+          "24dfb07465ed4222234a",
+          "2ae5abe8ac9044a76329",
+          "797eea80ab68597581e9",
+          "cab70cad9bf971516412",
+          "3e674039df5b7002a6b1",
+          "a445205b2b371e426864",
+          "8310169e8b2ee611c2d3",
+          "f67b1c0010be0ef01110",
+          "efd37211386ff768b751",
+          "eb35db27c520b9cfab97",
+          "8164e841b4cc9f140a07",
+          "6e1e4a31dde01653c13c",
+          "5b2d1a107ea623213b5f",
+          "410996b2162fb33f6a29",
+          "ae7aa94b330efcc6558f",
+          "aa57f2390ef4d006c851",
+          "78cdb9b2625f9ae1fe71",
+          "f65ab315d52b0292f5aa",
+          "ac6ea7b6b39870614bc0",
+          "2fc0f06e019fcb28210e",
+          "da8b417f795804bc7213",
+          "f6646c9bd0ff351634a4",
+          "6d7b4363a21403edf0c2",
+          "bebbb5f004a1bc8cd21c",
+          "8371aabd75ffc80adc12",
+          "b876e0ecce19c32ee602",
+          "d9b9f9925d593b83ccc2",
+          "61242a7f7fdc4c793114",
+          "d2ab39dcc9027c81bfff",
+          "4fce2b055dfb8f5aaa56",
+          "599dafdd4e6328b1c3e0",
+          "ea13a067f2dcf6d1ef2e",
+          "3a5acf7b9706ab3c0121",
+          "12ede1b1b301f78a5307",
+          "74c046c36bf6ea2cf34d",
+          "5ff7b8de727709c1daad",
+          "bdc1ea122924b11cb8b7",
+          "eb843bd159438dd5c4b7",
+          "f872870a4929705e7146",
+          "35f99696e38ebb54d809",
+          "42df984af4fc9660b278",
+          "60dab57249608727b207",
+          "617c291548dd724e795c",
+          "ba58b8dc47854c532fda",
+          "554c52a17d303e7b43d2",
+          "911f4272ae9481ecb75c",
+          "1d45cb40d928aa4c2a6a",
+          "3b839c6ea52e4edba73f",
+          "32574620c3ac2fef66f3",
+          "3967a68c66a363d144df",
+          "455d609ac8c70330e8e1",
+          "978dff659637b4386a1c",
+          "8ac8d6a6804fab6edac3",
+          "2443ce07d93fd09a68f2",
+          "3c51b73bc482a57fc190",
+          "f8e0fd0a709320786dc0",
+          "afe1d3a0a03aa8840500",
+          "315c080f856531e8c0f4",
+          "8bf7f9c8bec8f47b0ac6",
+          "c298a50378b9dfba8c3f",
+          "910b5789bccc73073ba0",
+          "4db61ebb4ee5c464dceb",
+          "b952d41854a0c5df77ca",
+          "13558c2712e63da50fd0",
+          "8fadd9e926bf1c4ca814",
+          "fd66a0f41057c682e764",
+          "e00f6ee2d56dbd0dfd13",
+          "77ff64716f7c1351a15c",
+          "b842d2e16c24d2770c0c",
+          "94057340e02c92fb7e85",
+          "05bf27591538f7f1ba41",
+          "d71dd740e4cfd53f296d",
+          "a73630f5a00aa730ec79",
+          "1a5fa2445950b8ad9a5b",
+          "3e118abe066cebac4c73",
+          "fa78d52fa0b684a4be83",
+          "5d02200fc6299b1f0154",
+          "9eb8c21a1b51eed06e7e",
+          "3a028116c3007ebbcff7",
+          "66811ad87dc8b09cca8b",
+          "1af56ff4178a4a02d3be",
+          "f150cab63587fa45f412",
+          "1ca2bedc743c4e226598",
+          "8e8f98fb664b087d5d03",
+          "26eda65eb4822da0ad32",
+          "f0bcbeb70552324a6262",
+          "f8b62b8b6bccbda8ae91",
+          "b28623fc0412f222b3ba",
+          "93db9b2a1a6117219839",
+          "10714223d9cc1bd13cd2",
+          "4e3d7797fc3ca741f52c",
+          "bfcf284f36ac7f2bd9b2",
+          "023f08e23a5cb8edbb71",
+          "7eeea58468d12f50bca7",
+          "1503d8f7cb87da873aab",
+          "29057d9b7aeb08214c50",
+          "e8a184883f9dcb33add7",
+          "42372d43109b4c4eac85",
+          "c356bb399040b720bfe9",
+          "569b15b26167d28cee70",
+          "862e2d25d902d40998fb",
+          "2015a9b8d8f950299c3b",
+          "37070f03b6a63374a463",
+          "e2f820d45dbf898f2aee",
+          "f47788c0cc95e6f2a767",
+          "9067f5d0ed9a18f09982",
+          "45920990233eb5aa40f0",
+          "0b212741b99845e2397a",
+          "367425fe08d383912a39",
+          "4751e326977e429270a3",
+          "ca5f6adbd0edc0aaafc4",
+          "77e921a95248b2989c81",
+          "b3e3999a803a5eb87b42",
+          "0a0e3e272fe897edf7e8",
+          "7e15822def390cceda2e",
+          "90be9c6de61e00826514",
+          "dc33de1dc4b66ec587bb",
+          "1aeedad971c94384de41",
+          "1b1b88b68aa282918257",
+          "be4a95b3e498cf689ddc",
+          "06abdbc6892bff1791ad",
+          "a72373e39d8fcce4f1f8",
+          "cb4fcf16a4e36c7bf7a5",
+          "97ce93bc5b09beac6ed3",
+          "0a7dfeb53a8a798db358",
+          "193b8cbf43d59809d916",
+          "d9514a43e158453476c1",
+          "5956079eb5342ec558e5",
+          "08f0bbfc495ba3281aac",
+          "535d91a79ddf92303889",
+          "80d078750ba4001355eb",
+          "4dafd8ad246e1a7549d8",
+          "b69b5b2963dfcbd988e6",
+          "17a7b3bc7c629c99a793",
+          "46a2dca021bd3e62ba6d",
+          "fd4f39dd45f6f0795fbc",
+          "09abdceef993e76f1309",
+          "ad91c205730730c97298",
+          "04b753b99fa1521ae2b8",
+          "62a1735b7f4d0157cccf",
+          "5d2ff2ec1e7629124e1f",
+          "3b166f334b235bc56f92",
+          "b3e8752a8bb6b8444166",
+          "2a36a6692f62db281fab",
+          "c16e96192b0f504da08b",
+          "a69306410c1c61012900",
+          "44571d4c7aa8e0487c02",
+          "61f65be8deca62703c62",
+          "751cddc5ddcd8940df2d",
+          "47119aef8be852650962",
+          "99117e98abb989b5f250",
+          "81300a6c551444933989",
+          "d3f4dbe2daf403caf640",
+          "ab687f83adb0f54920b5",
+          "b77a2ed64112c741d5ec",
+          "8fd80919bfc818765d11",
+          "e3db2e7d481503cb1033",
+          "19778038d5538fec7222",
+          "80507dba1ede954a96e7",
+          "df93e0004ce41771db62",
+          "2c4181deee1dabdb2407",
+          "02d68a9f3b76d693b519",
+          "0479ed21704a3a4b6991",
+          "43393aef7f3651a8e651",
+          "99fc74a31655b73b94c0",
+          "cd9a2abeff90dfa72eec",
+          "8df3be1d6e7f2510eb31",
+          "0295953b5334d63967e6",
+          "a4f8882fbd43b5439da7",
+          "e34f17edf10a89fb4c80",
+          "8a1baf03774e1e8b0a33",
+          "9b5f04d756b141ad17e3",
+          "b303276558c80761e108",
+          "22f17e2cdef6b5c3986f",
+          "fef13bd4872759cc346f",
+          "3eb868b8faa86a07dd6d",
+          "dacaff0375cfcda76117",
+          "901e4f00fff0c699a425",
+          "03cbd990ef566130f08f",
+          "eddb552fe117448ac396",
+          "891056f5780777451ce5",
+          "4f8ebf0db3aade9aafa5",
+          "eb0e8c7e23624a1d039f",
+          "777d0c218c04b0c574cc",
+          "bfd5c5b74f7cef9fac6b",
+          "fedd3d7dd3dd121434a6",
+          "4aef0ddb994863b7da29",
+          "93272794814650c76006",
+          "a48df88251a4192178d5",
+          "83c2183cde77122a44da",
+          "643e139c1f738662a71b",
+          "28c5642f70e3a503a381",
+          "98af3dcf911db7a81e91",
+          "d5dc5be3d5f0098f891d",
+          "ca322cfea6b4b5f50549",
+          "883a0d0be6629c5c5ca6",
+          "b19855f9f146639aa29b",
+          "de48984f657e5e988d43",
+          "045f563181b33b3276e2",
+          "bb8a198e453113de89c3",
+          "771874bc52128da7fc2e",
+          "4c5c14b365cb257f2fb4",
+          "9ab3c6fd9ed428a4955c",
+          "b9906500b0ed66fc46f0",
+          "ebfd31ae19ab696e10ec",
+          "c35de915b95776412101",
+          "723f9a80d8bf4d19b4a0",
+          "d1a2adfdcb976f697033",
+          "9ed3511e119a33eb55d0",
+          "314251aa78521cef819f",
+          "37cd22b5cd03c3faf841",
+          "375d7410700f2265c6b1",
+          "0178b6e86f16c04d643e",
+          "60128e1e3022489a2b41",
+          "53239a9a428ae9301a57",
+          "c70c9b592bb390d5a129",
+          "e5473da48c3afe1dd890",
+          "a284241673d042fad9a3",
+          "f0b83b87fa8197dad20b",
+          "41dfd1f5421666248795",
+          "e6b1b67a9c817a48ae19",
+          "36294d54bec86482952d",
+          "4ab127c8c88f05133211",
+          "5c2e24868eac78977a90",
+          "e3ac765920ea44fecf65",
+          "ab9fd4fc3073e3f4a190",
+          "16430ede16e51935d612",
+          "118358451e745411fb9f",
+          "33701d4026571560d07a",
+          "e0f61ab294679247179d",
+          "acace98373044723999f",
+          "06a43422e68f5cf21df9",
+          "1cf371c3ea4aff85f4bf",
+          "24344f05d4e6cce91464",
+          "53b89871298f803da893",
+          "61035d56035f715afef3",
+          "4138b617e81ca1da3578",
+          "403829ca708559e7c384",
+          "770e548dd8f6bad8da66",
+          "1cc692c9a2ee9ba2d718",
+          "b9b5b53f9e10f9b3eef3",
+          "45b5acc717a8fd3d3f56",
+          "28afccbe3ead57da3872",
+          "7ed0a220a67fe9693bae"
+        ]
       }
     }
   }
