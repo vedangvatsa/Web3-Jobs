@@ -145595,7 +145595,8 @@
         "description": "Join Phantom as AI Engineer. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "732093a5-feb1-462e-94d2-10f8e163ae47",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2i53s7dpt2l"
     }
   ]
 }
