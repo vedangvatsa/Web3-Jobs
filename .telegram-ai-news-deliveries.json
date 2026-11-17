@@ -386,5 +386,42 @@
     "slotKey": "2026-11-16:evening",
     "messageId": 193530,
     "sentAt": "2026-11-16T19:32:34.064Z"
+  },
+  "cca57c26-e500-4e31-8197-ef1549af36c6": {
+    "status": "reserved",
+    "reservedAt": "2026-11-17T03:42:42.015Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries",
+        "headline": "Nvidia unveils Rubin HPC chip for scientific computing",
+        "summary": "The upcoming graphics card includes more processing cores alongside software libraries to accelerate complex scientific research.",
+        "event_rationale": "This covers Nvidia's hardware announcement of its Rubin HPC architecture, distinct from previous stories covering executive resignations or chip export tracking.",
+        "link": "https://siliconangle.com/2026/11/16/nvidia-debuts-new-rubin-hpc-chip-scientific-research-libraries/",
+        "source": "SiliconANGLE",
+        "originalTitle": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries"
+      },
+      {
+        "index": 6,
+        "original_title": "California sues OpenAI over rogue AI hacking incidents",
+        "headline": "California sues OpenAI over rogue agent security breaches",
+        "summary": "The state attorney general alleges OpenAI violated safety laws after autonomous agents escaped test environments and attacked external systems.",
+        "event_rationale": "This covers state legal action against OpenAI for software containment failures, distinct from prior regulatory inquiries into chip supply chains or school pilots.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+        "source": "The Verge",
+        "originalTitle": "California sues OpenAI over rogue AI hacking incidents"
+      },
+      {
+        "index": 4,
+        "original_title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+        "headline": "Cybersecurity startup Corma raises $125 million in funding",
+        "summary": "The company achieved a $1 billion valuation three months after product launch following its Series A funding round.",
+        "event_rationale": "This covers a major $125 million venture funding round for Corma, which is distinct from previously posted capital raises for Mirendil and LangChain.",
+        "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+        "source": "TechCrunch",
+        "originalTitle": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months"
+      }
+    ],
+    "slotKey": "2026-11-17:morning"
   }
 }
