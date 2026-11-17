@@ -184048,11 +184048,29 @@
         "The Defiant"
       ],
       "id": "45920990233eb5aa40f0",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T01:09:00.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "source-blocked",
+      "note": "Read Crypto Briefing's Nov 16 piece in full; it anchors the claim that Treasury and the NSC directed the Commerce BIS rule to a single X post and spends most of its length on prediction-market odds. The Defiant companion returned HTTP 403, leaving no readable independent outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-17T03:03:04.622Z",
+      "retrySearches": [
+        "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
+      ],
+      "lastReviewedDay": "2026-11-17",
+      "nextReviewDate": "2026-11-18"
     },
     "641ef989f49f398fedcd": {
       "source": "Crypto Briefing",
@@ -359449,6 +359467,25 @@
             }
           ],
           "reviewedAt": "2026-11-17T03:03:00.720Z"
+        },
+        "45920990233eb5aa40f0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing's Nov 16 piece in full; it anchors the claim that Treasury and the NSC directed the Commerce BIS rule to a single X post and spends most of its length on prediction-market odds. The Defiant companion returned HTTP 403, leaving no readable independent outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-17T03:03:04.622Z",
+          "retrySearches": [
+            "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
+          ]
         }
       },
       "baselineSlugs": [
