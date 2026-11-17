@@ -149428,6 +149428,41 @@
       "attemptId": "30766ddd-89a2-40b5-b5b5-7f6048fde6eb",
       "verification": "verified",
       "postId": "0x62e623794ad5fdd3977bd9b45bd84bc5a9592da0"
+    },
+    {
+      "slug": "sls452",
+      "company": "CoinsPaid",
+      "title": "Head of Accounting",
+      "platform": "farcaster",
+      "postedAt": "2026-11-17T19:38:12.452Z",
+      "expectedText": "CoinsPaid is hiring Head of Accounting\n\nhttps://hashtagweb3.com/sls452/fc?og=7",
+      "snapshot": {
+        "id": "5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "title": "Head of Accounting",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/5c374137-ac44-47e8-8f21-21ec08c057b9",
+        "date": "2026-10-29T09:55:46.433Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Finance and Accounting",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "sls452"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Head of Accounting\n\nhttps://hashtagweb3.com/sls452/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls452/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "ac7c40f9-14a0-4fea-a25b-92f05f123edc",
+      "verification": "creating"
     }
   ]
 }
