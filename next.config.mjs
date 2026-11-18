@@ -1,6 +1,7 @@
 import path from 'node:path';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
+import { initOpenNextCloudflareForDev } from '@opennextjs/cloudflare';
 import { JOB_LISTING_CACHE_HEADER } from './src/lib/job-age-cache.mjs';
 import { PUBLIC_PAGE_ALIASES, SOCIAL_UTM_MAP } from './src/lib/social-share-constants.mjs';
 
@@ -38,7 +39,7 @@ const learnRedirects = [
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'standalone',
+  ...(process.env.OPENNEXT_CLOUDFLARE === '1' ? {} : { output: 'standalone' }),
   compress: true,
   serverExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk'],
   // Keep job/event catalogs inside the standalone server image. Without this,
@@ -461,5 +462,7 @@ const nextConfig = {
     formats: ['image/webp', 'image/avif'],
   },
 };
+
+initOpenNextCloudflareForDev();
 
 export default nextConfig;
