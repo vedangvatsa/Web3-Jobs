@@ -185504,7 +185504,31 @@
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 0,
       "expiresAt": "2026-11-19T12:54:51.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "articleSlug": "ensemble",
+      "draftProgress": {
+        "id": "08f0bbfc495ba3281aac",
+        "day": "2026-11-18",
+        "articleSlug": "ensemble",
+        "note": "Read the HKMA primary press release and Cointelegraph; CoinDesk returned 429. Draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-18T02:23:28.740Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "3db68d6f6743efa9bd7d": {
       "source": "CoinDesk",
