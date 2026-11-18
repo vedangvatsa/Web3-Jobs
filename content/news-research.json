@@ -191164,7 +191164,7 @@
       "expiresAt": "2026-11-20T20:56:03.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "reason": "verified-event",
-      "note": "Reused the unpublished worldbankusdc.md draft and re-verified it against the World Bank Group's Nov. 17 press release (commitment to explore regulated stablecoins with Citi and Circle, FundsChain 350-plus projects in 96 countries, Banga/Khaliq/Allaire quotes, intermediated interoperable model limited to borrower countries where digital assets are permitted) and Decrypt's Nov. 17 report (Citi rails plus Circle minting, $270 million bank stablecoin venture, Deutsche Bank custody context). Draft claims match both sources; hero image exists at /images/news/worldbankusdc.jpg and quality, image, formatting and duplicate audits show no issues for this file.",
+      "note": "Reused the unpublished worldbankusdc.md draft, re-read all four cited sources this round (World Bank Group Nov. 17 press release, Decrypt Nov. 17, CoinMarketCap Nov. 18, Digital Today Nov. 18) and repaired the draft: expanded the counted body from 553 to 697 words with source-backed detail on cost pressure, Citi's 180-plus jurisdictions, the Allaire follow-up quote and FundsChain traceability, and removed one flagged template phrase. Verified the quotes, FundsChain 350-plus projects in 96 countries, the intermediated interoperable model and the undisclosed countries, recipients, amounts and timelines. All four outbound links return HTTP 200; quality, formatting, image and duplicate audits show no issues for this file; the hero exists at /images/news/worldbankusdc.jpg with a photo credit.",
       "sourceChecks": [
         {
           "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res",
@@ -191173,9 +191173,17 @@
         {
           "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
           "outcome": "read"
+        },
+        {
+          "url": "https://coinmarketcap.com/academy/article/world-bank-circle-usdc-stablecoin-payments",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.digitaltoday.co.kr/en/view/127233/world-bank-group-considers-using-usdc-for-development-fund-disbursements-in-partnership-with-citi-and-circle",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T04:17:58.807Z",
+      "reviewedAt": "2026-11-18T04:20:56.948Z",
       "articleSlug": "worldbankusdc",
       "lastReviewedDay": "2026-11-18"
     },
@@ -370063,7 +370071,7 @@
         "92a2de20a1d9cda205c4": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Reused the unpublished worldbankusdc.md draft and re-verified it against the World Bank Group's Nov. 17 press release (commitment to explore regulated stablecoins with Citi and Circle, FundsChain 350-plus projects in 96 countries, Banga/Khaliq/Allaire quotes, intermediated interoperable model limited to borrower countries where digital assets are permitted) and Decrypt's Nov. 17 report (Citi rails plus Circle minting, $270 million bank stablecoin venture, Deutsche Bank custody context). Draft claims match both sources; hero image exists at /images/news/worldbankusdc.jpg and quality, image, formatting and duplicate audits show no issues for this file.",
+          "note": "Reused the unpublished worldbankusdc.md draft, re-read all four cited sources this round (World Bank Group Nov. 17 press release, Decrypt Nov. 17, CoinMarketCap Nov. 18, Digital Today Nov. 18) and repaired the draft: expanded the counted body from 553 to 697 words with source-backed detail on cost pressure, Citi's 180-plus jurisdictions, the Allaire follow-up quote and FundsChain traceability, and removed one flagged template phrase. Verified the quotes, FundsChain 350-plus projects in 96 countries, the intermediated interoperable model and the undisclosed countries, recipients, amounts and timelines. All four outbound links return HTTP 200; quality, formatting, image and duplicate audits show no issues for this file; the hero exists at /images/news/worldbankusdc.jpg with a photo credit.",
           "sourceChecks": [
             {
               "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res",
@@ -370072,9 +370080,17 @@
             {
               "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
               "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/world-bank-circle-usdc-stablecoin-payments",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.digitaltoday.co.kr/en/view/127233/world-bank-group-considers-using-usdc-for-development-fund-disbursements-in-partnership-with-citi-and-circle",
+              "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-18T04:17:58.807Z",
+          "reviewedAt": "2026-11-18T04:20:56.948Z",
           "articleSlug": "worldbankusdc"
         },
         "211743ef176dffa21957": {
