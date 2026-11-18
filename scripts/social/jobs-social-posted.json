@@ -151098,7 +151098,8 @@
       },
       "account": "channel:founders",
       "attemptId": "08bc1a45-747b-4764-8f1b-3fc0ba72166a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcea14dbbe32902130a98bdea460279920fa82861"
     }
   ]
 }
