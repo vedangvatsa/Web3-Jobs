@@ -188199,14 +188199,14 @@
       "expiresAt": "2026-11-19T21:26:19.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "duplicate",
-      "note": "The reported event (withdrawals resuming after the API-key theft) is already covered by the existing Lighter article, whose headline and body report the restored withdrawals, the 10.39 million USDC drained from the contract, the leaked trader API key and the roughly $5 million recovered.",
+      "note": "Same event as the existing Lighter article, whose headline and body already report restored withdrawals after the leaked trader API key, the 10.39 million USDC drained from the contract and the roughly $5 million recovered. Reopened the existing article to confirm the overlap; The Defiant URL returned HTTP 403 on WebFetch and again with the readiness User-Agent, so it was not read.",
       "sourceChecks": [
         {
           "url": "https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T04:36:35.277Z",
+      "reviewedAt": "2026-11-18T04:37:04.834Z",
       "duplicateOf": "lighterhalt",
       "mergedInto": "193b8cbf43d59809d916",
       "lastReviewedDay": "2026-11-18"
@@ -370504,14 +370504,14 @@
         "83c2183cde77122a44da": {
           "status": "rejected",
           "reason": "duplicate",
-          "note": "The reported event (withdrawals resuming after the API-key theft) is already covered by the existing Lighter article, whose headline and body report the restored withdrawals, the 10.39 million USDC drained from the contract, the leaked trader API key and the roughly $5 million recovered.",
+          "note": "Same event as the existing Lighter article, whose headline and body already report restored withdrawals after the leaked trader API key, the 10.39 million USDC drained from the contract and the roughly $5 million recovered. Reopened the existing article to confirm the overlap; The Defiant URL returned HTTP 403 on WebFetch and again with the readiness User-Agent, so it was not read.",
           "sourceChecks": [
             {
               "url": "https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft",
-              "outcome": "read"
+              "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-18T04:36:35.277Z",
+          "reviewedAt": "2026-11-18T04:37:04.834Z",
           "duplicateOf": "lighterhalt",
           "mergedInto": "193b8cbf43d59809d916"
         },
