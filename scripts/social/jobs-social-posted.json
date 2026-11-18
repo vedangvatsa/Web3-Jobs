@@ -151472,6 +151472,48 @@
       "attemptId": "9fc20fe0-4c5e-4036-9912-aacbb5c3d0bf",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "sec167",
+      "company": "Kraken",
+      "title": "Security GRC Analyst, Mergers & Acquisitions",
+      "platform": "linkedin",
+      "postedAt": "2026-11-18T03:36:28.475Z",
+      "expectedText": "Kraken is hiring Security GRC Analyst, Mergers & Acquisitions: https://hashtagweb3.com/sec167/li?og=7",
+      "snapshot": {
+        "id": "541054d4-67d7-459d-8818-987154af85cd",
+        "title": "Security GRC Analyst, Mergers & Acquisitions",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/541054d4-67d7-459d-8818-987154af85cd",
+        "date": "2026-11-12T14:46:35.705+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Security & IT",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec167"
+      },
+      "payload": {
+        "text": "Kraken is hiring Security GRC Analyst, Mergers & Acquisitions: https://hashtagweb3.com/sec167/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec167/li?og=7",
+          "title": "Security GRC Analyst, Mergers & Acquisitions at Kraken",
+          "description": "Join Kraken as Security GRC Analyst, Mergers & Ac. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec167.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "d9babbb4-22e1-4be1-b9b5-059217a2a89a",
+      "verification": "creating"
     }
   ]
 }
