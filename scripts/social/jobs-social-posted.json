@@ -150000,7 +150000,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "2416e6e7-860d-45d6-ad4c-bb2206c4da70",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0ae9926214e48a21bf165140c186ed5240637870"
     }
   ]
 }
