@@ -152380,6 +152380,35 @@
       "attemptId": "50288292-2eec-47cc-9615-2b911c085732",
       "verification": "verified",
       "postId": "urn:li:share:7528783008351277056"
+    },
+    {
+      "slug": "sec169",
+      "company": "Kraken",
+      "title": "Sr. Security Risk Management Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-11-18T11:33:12.766Z",
+      "expectedText": "Kraken is hiring Sr. Security Risk Management Analyst: https://hashtagweb3.com/sec169/fb?og=7",
+      "snapshot": {
+        "id": "026f97dc-e750-4dd8-9e40-f1a99614fae9",
+        "title": "Sr. Security Risk Management Analyst",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/026f97dc-e750-4dd8-9e40-f1a99614fae9",
+        "date": "2026-11-12T14:47:01.066+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Security & IT",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec169"
+      },
+      "payload": {
+        "message": "Kraken is hiring Sr. Security Risk Management Analyst: https://hashtagweb3.com/sec169/fb?og=7",
+        "link": "https://hashtagweb3.com/sec169/fb?og=7"
+      },
+      "attemptId": "a5d65984-4191-493c-a4a3-66b1a2f231c8",
+      "verification": "creating"
     }
   ]
 }
