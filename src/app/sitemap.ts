@@ -9,7 +9,7 @@ type CachedSitemapRoute = {
   priority?: number;
 };
 
-export const dynamic = 'force-dynamic';
+export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return (cachedRoutes as CachedSitemapRoute[]).filter(route => !isExpiredJobPath(new URL(route.url).pathname)).map((route) => ({

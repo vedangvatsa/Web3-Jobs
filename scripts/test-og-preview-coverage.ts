@@ -55,8 +55,6 @@ test('every public Next page has preview coverage or an explicit dynamic owner',
     '/[slug]',
     '/glossary/[category]',
     '/job-listing-cache/[epoch]/[[...path]]', // Internal rewrite target for job expiry cache boundaries.
-    '/learn/[category]', // Redirects to the learning registry's canonical root paths.
-    '/learn/[category]/[slug]',
   ].sort(), 'A new dynamic page must add its canonical registry to this coverage test');
   const staticPaths = routes.filter(route => !route.includes('['));
   const collected = await previewPaths;
