@@ -181948,7 +181948,7 @@
         "The Defiant"
       ],
       "id": "3967a68c66a363d144df",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 3,
       "expiresAt": "2026-11-19T02:33:07.000Z",
@@ -182016,7 +182016,8 @@
         "updatedAt": "2026-11-18T02:08:06.141Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "455d609ac8c70330e8e1": {
       "source": "BeInCrypto",
@@ -183552,7 +183553,7 @@
         "The Defiant"
       ],
       "id": "f8b62b8b6bccbda8ae91",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 1,
       "expiresAt": "2026-11-18T18:06:36.000Z",
@@ -183590,7 +183591,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T04:36:35.276Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "b28623fc0412f222b3ba": {
       "source": "Crypto Briefing",
@@ -184035,7 +184037,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "862e2d25d902d40998fb",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 2,
       "expiresAt": "2026-11-18T20:07:48.000Z",
@@ -184077,7 +184079,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T03:55:27.074Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "2015a9b8d8f950299c3b": {
       "source": "BeInCrypto",
@@ -184154,7 +184157,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "37070f03b6a63374a463",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 3,
       "expiresAt": "2026-11-19T20:44:01.000Z",
@@ -184205,7 +184208,8 @@
         "updatedAt": "2026-11-18T01:48:49.713Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "e2f820d45dbf898f2aee": {
       "source": "Crypto Briefing",
@@ -184385,7 +184389,7 @@
         "The Defiant"
       ],
       "id": "0b212741b99845e2397a",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 3,
       "expiresAt": "2026-11-19T23:27:15.000Z",
@@ -184461,7 +184465,8 @@
           "backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing)"
         ],
         "isolatedAt": "2026-11-17T04:19:57.931Z"
-      }
+      },
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "b6cbd8e681e8963d3e3d": {
       "source": "Cointelegraph",
@@ -185389,7 +185394,7 @@
         "The Defiant"
       ],
       "id": "193b8cbf43d59809d916",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 3,
       "expiresAt": "2026-11-19T16:41:42.000Z",
@@ -185442,7 +185447,8 @@
         "updatedAt": "2026-11-18T01:48:53.510Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "d9514a43e158453476c1": {
       "source": "Cointelegraph",
@@ -185549,7 +185555,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "08f0bbfc495ba3281aac",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T12:54:51.000Z",
@@ -185591,7 +185597,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T03:42:23.064Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "3db68d6f6743efa9bd7d": {
       "source": "CoinDesk",
@@ -185674,7 +185681,7 @@
         "The Block"
       ],
       "id": "535d91a79ddf92303889",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T08:50:50.000Z",
@@ -185712,7 +185719,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T03:42:23.064Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "80d078750ba4001355eb": {
       "source": "CryptoSlate",
@@ -185968,7 +185976,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ad91c205730730c97298",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 3,
       "expiresAt": "2026-11-19T20:30:37.000Z",
@@ -186031,7 +186039,8 @@
         "updatedAt": "2026-11-18T02:22:41.674Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "04b753b99fa1521ae2b8": {
       "source": "The Block",
@@ -186389,7 +186398,7 @@
         "Decrypt"
       ],
       "id": "47119aef8be852650962",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T15:00:18.000Z",
@@ -186427,7 +186436,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T04:36:35.276Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "99117e98abb989b5f250": {
       "source": "Cointelegraph",
@@ -186566,7 +186576,7 @@
         "Unchained"
       ],
       "id": "ab687f83adb0f54920b5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T13:13:14.000Z",
@@ -186616,7 +186626,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T03:55:23.340Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "b77a2ed64112c741d5ec": {
       "source": "Decrypt",
@@ -186640,13 +186651,13 @@
         "The Defiant"
       ],
       "id": "b77a2ed64112c741d5ec",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T13:12:08.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
-      "reason": "verified-event",
-      "note": "Read Decrypt Nov 16, CoinMarketCap Nov 16, Ledger's own Nov 16 technical post and Crypto Briefing Nov 16 in full; verified the nine-app and 18-of-22 coverage, the 13-to-3 screen reduction, the sRFC 39/41 standards, the 57,000-transaction test corpus, the Rogers Breakpoint quotes and the Anza comments across sources. Hero is the Wikimedia Ledger Nano S photo CC BY-SA 4.0, self-hosted and compressed to 170KB. Quality, image, formatting and duplicate audits pass; all cited links return HTTP 200.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://cryptobriefing.com/ledger-clear-signing-solana-jupiter. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
@@ -186673,9 +186684,52 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T04:11:55.458Z",
+      "reviewedAt": "2026-11-18T05:19:02.655Z",
       "articleSlug": "ledgerclear",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "retrySearches": [
+        "Repair and revalidate the preserved ledgerclear draft against its original sources: Source link HTTP 403: https://cryptobriefing.com/ledger-clear-signing-solana-jupiter"
+      ],
+      "nextReviewDate": "2026-11-19",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Decrypt Nov 16, CoinMarketCap Nov 16, Ledger's own Nov 16 technical post and Crypto Briefing Nov 16 in full; verified the nine-app and 18-of-22 coverage, the 13-to-3 screen reduction, the sRFC 39/41 standards, the 57,000-transaction test corpus, the Rogers Breakpoint quotes and the Anza comments across sources. Hero is the Wikimedia Ledger Nano S photo CC BY-SA 4.0, self-hosted and compressed to 170KB. Quality, image, formatting and duplicate audits pass; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/ledger-clear-signing-solana-jupiter-kamino",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ledger.com/blog-solana-clear-signing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/ledger-clear-signing-solana-jupiter",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Ledger_Nano_S_-_Hard_Wallet_-_Cold_Storage_for_Cryptocurrency_04.jpg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/ledger-brings-clear-signing-to-solana-defi-transactions",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:11:55.458Z",
+          "articleSlug": "ledgerclear"
+        },
+        "validationErrors": [
+          "Source link HTTP 403: https://cryptobriefing.com/ledger-clear-signing-solana-jupiter"
+        ],
+        "isolatedAt": "2026-11-18T05:19:02.655Z"
+      }
     },
     "8fd80919bfc818765d11": {
       "source": "Cointelegraph",
@@ -187387,7 +187441,7 @@
         "The Defiant"
       ],
       "id": "b303276558c80761e108",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T23:50:41.000Z",
@@ -187429,7 +187483,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T04:31:32.738Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "22f17e2cdef6b5c3986f": {
       "source": "CryptoSlate",
@@ -187594,7 +187649,7 @@
         "Decrypt"
       ],
       "id": "901e4f00fff0c699a425",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T22:46:44.000Z",
@@ -187617,7 +187672,8 @@
       ],
       "reviewedAt": "2026-11-18T04:25:34.228Z",
       "articleSlug": "customsfreeze",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "03cbd990ef566130f08f": {
       "source": "Decrypt",
@@ -191015,7 +191071,7 @@
         "The Defiant"
       ],
       "id": "11b88965a062d99370fb",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 2,
       "expiresAt": "2026-11-20T13:00:00.000Z",
@@ -191061,7 +191117,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T03:42:23.064Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "f8f6674f99a6c498766d": {
       "source": "The Block",
@@ -191392,7 +191449,7 @@
         "The Defiant"
       ],
       "id": "92a2de20a1d9cda205c4",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 1,
       "expiresAt": "2026-11-20T20:56:03.000Z",
@@ -191419,7 +191476,8 @@
       ],
       "reviewedAt": "2026-11-18T04:20:56.948Z",
       "articleSlug": "worldbankusdc",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "2cc534be2527f7116b93": {
       "source": "Decrypt",
@@ -191610,7 +191668,7 @@
         "Bankless"
       ],
       "id": "0b8b197917185529f4c2",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 1,
       "expiresAt": "2026-11-20T16:45:00.000Z",
@@ -191652,7 +191710,8 @@
         }
       ],
       "reviewedAt": "2026-11-18T04:07:21.999Z",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "publishedAt": "2026-11-18T05:19:38.603Z"
     },
     "bc2940443d1ead12e12f": {
       "source": "The Block",
@@ -191965,7 +192024,7 @@
         "Unchained"
       ],
       "id": "b72b524a864abd786a29",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 2,
       "expiresAt": "2026-11-20T11:29:51.000Z",
@@ -191998,8 +192057,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Re-read CoinGecko's Nov 17 announcement (primary) and Decrypt's Nov 17 report; verified the Solana Foundation majority-stake statements, undisclosed terms, the three focus areas, the Ong and TM Lee quotes and the continued website/app/API operation. Draft and official CoinGecko founders photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
@@ -192010,8 +192069,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T03:42:23.063Z",
-      "lastReviewedDay": "2026-11-18"
+      "reviewedAt": "2026-11-18T05:19:02.655Z",
+      "lastReviewedDay": "2026-11-18",
+      "retrySearches": [
+        "Repair and revalidate the preserved coingeckostake draft against its original sources: Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation"
+      ],
+      "nextReviewDate": "2026-11-19",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read CoinGecko's Nov 17 announcement (primary) and Decrypt's Nov 17 report; verified the Solana Foundation majority-stake statements, undisclosed terms, the three focus areas, the Ong and TM Lee quotes and the continued website/app/API operation. Draft and official CoinGecko founders photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.063Z",
+          "articleSlug": "coingeckostake"
+        },
+        "validationErrors": [
+          "Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation"
+        ],
+        "isolatedAt": "2026-11-18T05:19:02.655Z"
+      }
     },
     "f7e068d874012422856d": {
       "source": "Cointelegraph",
@@ -366032,7 +366118,7 @@
     "2026-11-18": {
       "day": "2026-11-18",
       "startedAt": "2026-11-18T01:44:22.148Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "773cc0a55a08ec83efba",
         "abd27a2e624f2fc55d53",
@@ -369982,7 +370068,7 @@
           ]
         },
         "37070f03b6a63374a463": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read the Nov 16 Alsobrooks press release with the full 13-question letter (primary) and Cointelegraph's Nov 17 report; verified the four senators, the Sept. 17 Innovation Exemption, the AML/KYC and token-level transfer gaps, the over-sixty-issuer objection figure and the 30-day answer deadline. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -369996,12 +370082,13 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:42:23.063Z",
-          "articleSlug": "tokenizedaml"
+          "articleSlug": "tokenizedaml",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "b72b524a864abd786a29": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read CoinGecko's Nov 17 announcement (primary) and Decrypt's Nov 17 report; verified the Solana Foundation majority-stake statements, undisclosed terms, the three focus areas, the Ong and TM Lee quotes and the continued website/app/API operation. Draft and official CoinGecko founders photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
@@ -370012,11 +370099,37 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-18T03:42:23.063Z",
-          "articleSlug": "coingeckostake"
+          "reviewedAt": "2026-11-18T05:19:02.655Z",
+          "articleSlug": "coingeckostake",
+          "retrySearches": [
+            "Repair and revalidate the preserved coingeckostake draft against its original sources: Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Re-read CoinGecko's Nov 17 announcement (primary) and Decrypt's Nov 17 report; verified the Solana Foundation majority-stake statements, undisclosed terms, the three focus areas, the Ong and TM Lee quotes and the continued website/app/API operation. Draft and official CoinGecko founders photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-11-18T03:42:23.063Z",
+              "articleSlug": "coingeckostake"
+            },
+            "validationErrors": [
+              "Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation"
+            ],
+            "isolatedAt": "2026-11-18T05:19:02.655Z"
+          }
         },
         "0b212741b99845e2397a": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Chairman Selig's Nov 16 CFTC statement (primary) and Crypto Briefing's Nov 16 report; verified the DCM and DCO approvals, the Nov. 13 TLD Clearing (d/b/a Backpack Clearing) registration order, the margined-futures permission, member-fund segregation, the planned around-the-clock perps and the absence of a launch date. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370030,10 +370143,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:42:23.064Z",
-          "articleSlug": "backpackcftc"
+          "articleSlug": "backpackcftc",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "3967a68c66a363d144df": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph's Nov 16 report and Crypto Briefing's Nov 15 report; verified the Nov. 14 6 PM PDT Commander breach, the redirect of just over a dozen customer accounts to OCEAN, the two-hour patch, full compensation, the unconfirmed 64,000-machine and 13 EH/s figures, the 0.162 BTC payout and Hansen's AI-enabled attack quotes. Distinct from the earlier luxorai funding story. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370047,10 +370161,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:42:23.064Z",
-          "articleSlug": "luxorhack"
+          "articleSlug": "luxorhack",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "193b8cbf43d59809d916": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph's updated Nov 16 report (postmortem, $5M recovery, Guardian mode, nonce-reuse cause) and Bitquery's on-chain investigation (10,393,057 USDC at 10:11 UTC, CoW Swap conversion to 5,752 ETH in four minutes, 1,920 ETH via 12 wallets to Hyperliquid XMR1, 3,845 ETH remaining at 11:55 UTC); verified figures across both. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370064,10 +370179,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:42:23.064Z",
-          "articleSlug": "lighterhalt"
+          "articleSlug": "lighterhalt",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "535d91a79ddf92303889": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report; verified the Nov. 16 launch, the DBS Token Services to Kinexys link, Ant International as first client, Partior settlement coordination, the Saturday 3-6 p.m. ET maintenance pause, Project BLOOM context and the undisclosed fees and prefunded balances. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370081,10 +370197,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:42:23.064Z",
-          "articleSlug": "dbskinexys"
+          "articleSlug": "dbskinexys",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "08f0bbfc495ba3281aac": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read the HKMA Nov 16 press release (primary) and Cointelegraph's Nov 16 report; verified the strengthened Swift collaboration, the participating banks (BOCHK, Standard Chartered, HSBC), the Swift ledger to Ensemble settlement-layer link, the Howard Lee quote and the Nov. 2 EnsembleTX upgrade context. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370098,10 +370215,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:42:23.064Z",
-          "articleSlug": "ensemble"
+          "articleSlug": "ensemble",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "11b88965a062d99370fb": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Finbold's Nov 17 report and Crypto Briefing's Nov 17 report; verified the Nov. 17 Stable Funding Perps launch, the seven commodity markets, weekday USDC funding settlement with weekend triple charge, RFQ execution, 0% trading fee, 20x leverage with silver at 10x, the 4% to high-single-digit funding range and the Hong Yea quotes. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370115,10 +370233,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:42:23.064Z",
-          "articleSlug": "stablesfp"
+          "articleSlug": "stablesfp",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "ad91c205730730c97298": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read the 46-page Nov. 16 opinion PDF (Rule 29 acquittal on material-misrepresentation grounds, due-process footnote, docket 24-CR-293), Unchained's Nov. 17 report and Decrypt's Nov. 17 report; verified Judge Jessica G. L. Clarke, the three counts, the 2025 mistrial, counsel quotes and the 5 million exploit details. Draft passes quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370144,10 +370263,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:55:08.128Z",
-          "articleSlug": "mevacquittal"
+          "articleSlug": "mevacquittal",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "ab687f83adb0f54920b5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read the SEC 8-K downloaded directly (485 BTC / $33.4M / $68,887 average, 850,849 holdings, $64.20B aggregate, 2,282,510 STRC shares for $228.1M, $244.7M MSTR sale, 12.00% December rate, $332.2M remaining buyback room), Unchained's Nov. 16 report and Crypto Briefing's Nov. 16 report for the three-week tally, STRC rate rationale and dividend-cost context. Draft passes quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370165,10 +370285,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:55:23.340Z",
-          "articleSlug": "strategy485"
+          "articleSlug": "strategy485",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "862e2d25d902d40998fb": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Crypto Briefing's Nov. 15 report (10-day demand, H200/H100 tier limits, Commerce and Lutnick criticism, Tim Scott summons, earnings timing) and TokenPost's Nov. 15 report (same deadline, Megaspeed allegations, national security framing); image source page verified (Senator Tim Scott photo, public domain). Draft passes quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370186,7 +370307,8 @@
             }
           ],
           "reviewedAt": "2026-11-18T03:55:27.074Z",
-          "articleSlug": "bessentnvidia"
+          "articleSlug": "bessentnvidia",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "d9514a43e158453476c1": {
           "status": "rejected",
@@ -370259,7 +370381,7 @@
           "reviewedAt": "2026-11-18T04:04:12.671Z"
         },
         "0b8b197917185529f4c2": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Bitcoin Magazine's Nov 17 report and Bankless's Nov 17 report in full; verified the official plugin launch, confirmation-card flow, U.S.-only availability, Agent Controls, the OpenAI policy wrinkle and Armstrong quotes across both. Hero is the Wikimedia Armstrong panel photo CC BY 2.0, self-hosted and compressed to 173KB. Quality, image, formatting and duplicate audits pass for the article; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -370277,12 +370399,13 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:07:21.999Z",
-          "articleSlug": "chatgptplug"
+          "articleSlug": "chatgptplug",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "b77a2ed64112c741d5ec": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Decrypt Nov 16, CoinMarketCap Nov 16, Ledger's own Nov 16 technical post and Crypto Briefing Nov 16 in full; verified the nine-app and 18-of-22 coverage, the 13-to-3 screen reduction, the sRFC 39/41 standards, the 57,000-transaction test corpus, the Rogers Breakpoint quotes and the Anza comments across sources. Hero is the Wikimedia Ledger Nano S photo CC BY-SA 4.0, self-hosted and compressed to 170KB. Quality, image, formatting and duplicate audits pass; all cited links return HTTP 200.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://cryptobriefing.com/ledger-clear-signing-solana-jupiter. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
@@ -370309,11 +370432,53 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-18T04:11:55.458Z",
-          "articleSlug": "ledgerclear"
+          "reviewedAt": "2026-11-18T05:19:02.655Z",
+          "articleSlug": "ledgerclear",
+          "retrySearches": [
+            "Repair and revalidate the preserved ledgerclear draft against its original sources: Source link HTTP 403: https://cryptobriefing.com/ledger-clear-signing-solana-jupiter"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Decrypt Nov 16, CoinMarketCap Nov 16, Ledger's own Nov 16 technical post and Crypto Briefing Nov 16 in full; verified the nine-app and 18-of-22 coverage, the 13-to-3 screen reduction, the sRFC 39/41 standards, the 57,000-transaction test corpus, the Rogers Breakpoint quotes and the Anza comments across sources. Hero is the Wikimedia Ledger Nano S photo CC BY-SA 4.0, self-hosted and compressed to 170KB. Quality, image, formatting and duplicate audits pass; all cited links return HTTP 200.",
+              "sourceChecks": [
+                {
+                  "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://coinmarketcap.com/academy/article/ledger-clear-signing-solana-jupiter-kamino",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.ledger.com/blog-solana-clear-signing",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://cryptobriefing.com/ledger-clear-signing-solana-jupiter",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://commons.wikimedia.org/wiki/File:Ledger_Nano_S_-_Hard_Wallet_-_Cold_Storage_for_Cryptocurrency_04.jpg",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://thedefiant.io/news/security/ledger-brings-clear-signing-to-solana-defi-transactions",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-18T04:11:55.458Z",
+              "articleSlug": "ledgerclear"
+            },
+            "validationErrors": [
+              "Source link HTTP 403: https://cryptobriefing.com/ledger-clear-signing-solana-jupiter"
+            ],
+            "isolatedAt": "2026-11-18T05:19:02.655Z"
+          }
         },
         "92a2de20a1d9cda205c4": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Reused the unpublished worldbankusdc.md draft, re-read all four cited sources this round (World Bank Group Nov. 17 press release, Decrypt Nov. 17, CoinMarketCap Nov. 18, Digital Today Nov. 18) and repaired the draft: expanded the counted body from 553 to 697 words with source-backed detail on cost pressure, Citi's 180-plus jurisdictions, the Allaire follow-up quote and FundsChain traceability, and removed one flagged template phrase. Verified the quotes, FundsChain 350-plus projects in 96 countries, the intermediated interoperable model and the undisclosed countries, recipients, amounts and timelines. All four outbound links return HTTP 200; quality, formatting, image and duplicate audits show no issues for this file; the hero exists at /images/news/worldbankusdc.jpg with a photo credit.",
           "sourceChecks": [
@@ -370335,7 +370500,8 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:20:56.948Z",
-          "articleSlug": "worldbankusdc"
+          "articleSlug": "worldbankusdc",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "211743ef176dffa21957": {
           "status": "rejected",
@@ -370462,7 +370628,7 @@
           "reviewedAt": "2026-11-18T04:22:10.011Z"
         },
         "901e4f00fff0c699a425": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read both outlets in full. The Bundestag passed the Customs Financial Justice Act on Nov. 12 per the German government as Decrypt reported; bill lets customs hold assets over 100,000 euros for 30 days without a criminal case, explicitly covers crypto, still needs Bundesrat consent for a Jan. 1, 2027 start. Drafted content/articles/customsfreeze.md (682 counted words), hero downloaded from Wikimedia (Juergen Matern, CC BY-SA 3.0) and compressed to 180KB; quality, formatting, image and duplicate audits report no issues for this file and all outbound links return HTTP 200.",
           "sourceChecks": [
@@ -370480,7 +370646,8 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:25:34.228Z",
-          "articleSlug": "customsfreeze"
+          "articleSlug": "customsfreeze",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "eb0e8c7e23624a1d039f": {
           "status": "deferred",
@@ -370531,7 +370698,7 @@
           ]
         },
         "b303276558c80761e108": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Cointelegraph's Nov. 16 report and CNBC's Nov. 16 primary report in full (person familiar on the no-return position, Wachtell Lipton probe, Kress interim CEO, 4.1% Monday decline, petition 187,000 vs CNBC's 180,000, Trump quotes, Friday search-firm step). Drafted content/articles/huangreturn.md (615 counted words), hero from Wikimedia (Anders Eidesvik, CC BY 4.0) compressed to 213KB; quality, formatting, duplicate and image audits show no issues for this file, tsc clean, all outbound links HTTP 200.",
           "sourceChecks": [
@@ -370549,10 +370716,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:31:32.738Z",
-          "articleSlug": "huangreturn"
+          "articleSlug": "huangreturn",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "47119aef8be852650962": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Reopened the Bitmine PR Newswire release of Nov. 16 (6,077,745 ETH at $1,823, 4.97% of 122.2M supply, 7,653 ETH bought in the week, $11.8B total, 5,227,037 ETH staked, Lee's waterfall-decline and Nvidia/Anthropic IPO reasoning, SpaceX IPO comparison, 216 BTC, $448M cash, $180M Beast and $67M Eightco stakes) and Decrypt's Nov. 16 report (total down from $14.3B a week earlier, purchase worth about $14 million, staking revenue projection). Wrote bitmineeth.md with a self-hosted Consensus 2026 Tom Lee photo; quality, image, formatting and duplicate audits show no issues for this file and both cited links return HTTP 200.",
           "sourceChecks": [
@@ -370566,10 +370734,11 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:36:35.276Z",
-          "articleSlug": "bitmineeth"
+          "articleSlug": "bitmineeth",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "f8b62b8b6bccbda8ae91": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Reopened Crypto Briefing's Nov. 15 report (statement dated Nov. 15 confirming departure effective Aug. 30, 2025, corporate paper trail, US intelligence assessment, Singapore espionage exclusion, Jensen Huang Nov. 8 letter and Nov. 12 resignation, export probe) and the Guardian's Nov. 15-16 report (full statement quotes, external counsel, Singapore passport hold and re-entry ban, Taiwan ban, US$5B chip purchases, senator request, Malaysia subsidiary probe, DOJ and Trump comments, Beijing rejection). Wrote megaspeed.md with a self-hosted Stanford photo of Jensen Huang; quality, image, formatting and duplicate audits show no issues for this file and both cited links return HTTP 200.",
           "sourceChecks": [
@@ -370583,7 +370752,8 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:36:35.276Z",
-          "articleSlug": "megaspeed"
+          "articleSlug": "megaspeed",
+          "publishedAt": "2026-11-18T05:19:38.603Z"
         },
         "83c2183cde77122a44da": {
           "status": "rejected",
@@ -371249,6 +371419,341 @@
         ],
         "total": 180,
         "checkedAt": "2026-11-18T01:44:22.148Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-18T05:19:38.603Z",
+        "publishedIds": [
+          "3967a68c66a363d144df",
+          "f8b62b8b6bccbda8ae91",
+          "862e2d25d902d40998fb",
+          "37070f03b6a63374a463",
+          "0b212741b99845e2397a",
+          "193b8cbf43d59809d916",
+          "08f0bbfc495ba3281aac",
+          "535d91a79ddf92303889",
+          "ad91c205730730c97298",
+          "47119aef8be852650962",
+          "ab687f83adb0f54920b5",
+          "b303276558c80761e108",
+          "901e4f00fff0c699a425",
+          "11b88965a062d99370fb",
+          "92a2de20a1d9cda205c4",
+          "0b8b197917185529f4c2"
+        ],
+        "articleSlugs": [
+          "luxorhack",
+          "megaspeed",
+          "bessentnvidia",
+          "tokenizedaml",
+          "backpackcftc",
+          "lighterhalt",
+          "ensemble",
+          "dbskinexys",
+          "mevacquittal",
+          "bitmineeth",
+          "strategy485",
+          "huangreturn",
+          "customsfreeze",
+          "stablesfp",
+          "worldbankusdc",
+          "chatgptplug"
+        ],
+        "pendingIds": [
+          "797eea80ab68597581e9",
+          "1d45cb40d928aa4c2a6a",
+          "3b839c6ea52e4edba73f",
+          "32574620c3ac2fef66f3",
+          "455d609ac8c70330e8e1",
+          "978dff659637b4386a1c",
+          "8ac8d6a6804fab6edac3",
+          "2443ce07d93fd09a68f2",
+          "3c51b73bc482a57fc190",
+          "f8e0fd0a709320786dc0",
+          "afe1d3a0a03aa8840500",
+          "315c080f856531e8c0f4",
+          "8bf7f9c8bec8f47b0ac6",
+          "c298a50378b9dfba8c3f",
+          "910b5789bccc73073ba0",
+          "4db61ebb4ee5c464dceb",
+          "b952d41854a0c5df77ca",
+          "13558c2712e63da50fd0",
+          "8fadd9e926bf1c4ca814",
+          "fd66a0f41057c682e764",
+          "e00f6ee2d56dbd0dfd13",
+          "77ff64716f7c1351a15c",
+          "b842d2e16c24d2770c0c",
+          "94057340e02c92fb7e85",
+          "05bf27591538f7f1ba41",
+          "d71dd740e4cfd53f296d",
+          "a73630f5a00aa730ec79",
+          "1a5fa2445950b8ad9a5b",
+          "3e118abe066cebac4c73",
+          "fa78d52fa0b684a4be83",
+          "9eb8c21a1b51eed06e7e",
+          "3a028116c3007ebbcff7",
+          "66811ad87dc8b09cca8b",
+          "1af56ff4178a4a02d3be",
+          "f150cab63587fa45f412",
+          "1ca2bedc743c4e226598",
+          "8e8f98fb664b087d5d03",
+          "26eda65eb4822da0ad32",
+          "f0bcbeb70552324a6262",
+          "b28623fc0412f222b3ba",
+          "93db9b2a1a6117219839",
+          "10714223d9cc1bd13cd2",
+          "4e3d7797fc3ca741f52c",
+          "bfcf284f36ac7f2bd9b2",
+          "023f08e23a5cb8edbb71",
+          "7eeea58468d12f50bca7",
+          "1503d8f7cb87da873aab",
+          "29057d9b7aeb08214c50",
+          "e8a184883f9dcb33add7",
+          "c356bb399040b720bfe9",
+          "569b15b26167d28cee70",
+          "2015a9b8d8f950299c3b",
+          "e2f820d45dbf898f2aee",
+          "f47788c0cc95e6f2a767",
+          "9067f5d0ed9a18f09982",
+          "45920990233eb5aa40f0",
+          "367425fe08d383912a39",
+          "4751e326977e429270a3",
+          "ca5f6adbd0edc0aaafc4",
+          "77e921a95248b2989c81",
+          "b3e3999a803a5eb87b42",
+          "0a0e3e272fe897edf7e8",
+          "7e15822def390cceda2e",
+          "90be9c6de61e00826514",
+          "dc33de1dc4b66ec587bb",
+          "1aeedad971c94384de41",
+          "1b1b88b68aa282918257",
+          "be4a95b3e498cf689ddc",
+          "06abdbc6892bff1791ad",
+          "a72373e39d8fcce4f1f8",
+          "cb4fcf16a4e36c7bf7a5",
+          "97ce93bc5b09beac6ed3",
+          "0a7dfeb53a8a798db358",
+          "80d078750ba4001355eb",
+          "4dafd8ad246e1a7549d8",
+          "b69b5b2963dfcbd988e6",
+          "46a2dca021bd3e62ba6d",
+          "fd4f39dd45f6f0795fbc",
+          "09abdceef993e76f1309",
+          "04b753b99fa1521ae2b8",
+          "62a1735b7f4d0157cccf",
+          "5d2ff2ec1e7629124e1f",
+          "3b166f334b235bc56f92",
+          "b3e8752a8bb6b8444166",
+          "c16e96192b0f504da08b",
+          "a69306410c1c61012900",
+          "44571d4c7aa8e0487c02",
+          "61f65be8deca62703c62",
+          "751cddc5ddcd8940df2d",
+          "99117e98abb989b5f250",
+          "81300a6c551444933989",
+          "b77a2ed64112c741d5ec",
+          "8fd80919bfc818765d11",
+          "e3db2e7d481503cb1033",
+          "19778038d5538fec7222",
+          "df93e0004ce41771db62",
+          "2c4181deee1dabdb2407",
+          "02d68a9f3b76d693b519",
+          "0479ed21704a3a4b6991",
+          "99fc74a31655b73b94c0",
+          "cd9a2abeff90dfa72eec",
+          "0295953b5334d63967e6",
+          "a4f8882fbd43b5439da7",
+          "e34f17edf10a89fb4c80",
+          "8a1baf03774e1e8b0a33",
+          "9b5f04d756b141ad17e3",
+          "22f17e2cdef6b5c3986f",
+          "fef13bd4872759cc346f",
+          "3eb868b8faa86a07dd6d",
+          "dacaff0375cfcda76117",
+          "03cbd990ef566130f08f",
+          "eddb552fe117448ac396",
+          "891056f5780777451ce5",
+          "4f8ebf0db3aade9aafa5",
+          "eb0e8c7e23624a1d039f",
+          "bfd5c5b74f7cef9fac6b",
+          "fedd3d7dd3dd121434a6",
+          "4aef0ddb994863b7da29",
+          "93272794814650c76006",
+          "a48df88251a4192178d5",
+          "643e139c1f738662a71b",
+          "98af3dcf911db7a81e91",
+          "d5dc5be3d5f0098f891d",
+          "ca322cfea6b4b5f50549",
+          "883a0d0be6629c5c5ca6",
+          "de48984f657e5e988d43",
+          "045f563181b33b3276e2",
+          "bb8a198e453113de89c3",
+          "4c5c14b365cb257f2fb4",
+          "9ab3c6fd9ed428a4955c",
+          "b9906500b0ed66fc46f0",
+          "ebfd31ae19ab696e10ec",
+          "c35de915b95776412101",
+          "723f9a80d8bf4d19b4a0",
+          "d1a2adfdcb976f697033",
+          "9ed3511e119a33eb55d0",
+          "314251aa78521cef819f",
+          "37cd22b5cd03c3faf841",
+          "375d7410700f2265c6b1",
+          "0178b6e86f16c04d643e",
+          "60128e1e3022489a2b41",
+          "53239a9a428ae9301a57",
+          "c70c9b592bb390d5a129",
+          "e5473da48c3afe1dd890",
+          "a284241673d042fad9a3",
+          "f0b83b87fa8197dad20b",
+          "41dfd1f5421666248795",
+          "e6b1b67a9c817a48ae19",
+          "36294d54bec86482952d",
+          "4ab127c8c88f05133211",
+          "5c2e24868eac78977a90",
+          "e3ac765920ea44fecf65",
+          "ab9fd4fc3073e3f4a190",
+          "16430ede16e51935d612",
+          "118358451e745411fb9f",
+          "33701d4026571560d07a",
+          "acace98373044723999f",
+          "06a43422e68f5cf21df9",
+          "1cf371c3ea4aff85f4bf",
+          "24344f05d4e6cce91464",
+          "53b89871298f803da893",
+          "61035d56035f715afef3",
+          "4138b617e81ca1da3578",
+          "403829ca708559e7c384",
+          "1cc692c9a2ee9ba2d718",
+          "b9b5b53f9e10f9b3eef3",
+          "28afccbe3ead57da3872",
+          "7ed0a220a67fe9693bae",
+          "e77c75668ac948caa143",
+          "8281b27a8e39b4c91039",
+          "be931eefd9da4f13d29b",
+          "ab2d14882d6fb1cec78d",
+          "c2245cbc2b5980bf6398",
+          "cf56b23c04a99a422dd9",
+          "75c2710bcae542633de8",
+          "4d9d2162ca032e2e17f4",
+          "0d83cc1568361e681867",
+          "66b28d3ef8f887c1ebaa",
+          "938efa88ec99a1bd3368",
+          "e65afd178b48cac8adb3",
+          "9e70b18433575cd7ac54",
+          "f59537bb8e690da706b7",
+          "18b28d3cdc648081d1fb",
+          "19f0409feb9601056259",
+          "91ff685f398bfc23d7a2",
+          "ef56ca63d4ba7f4e73ca",
+          "cd1fe8db7df22858834a",
+          "a9a85cfc06c5f7b72d0b",
+          "18173924ed81afa20b60",
+          "814968a9620c3fb7a8fb",
+          "e78b366a10a9c4936711",
+          "162cbee3d223ec691026",
+          "33c0f7260d71f6e2b67b",
+          "8f45d05e175a6d0e3d63",
+          "fb2b8fe96fa08741dfe6",
+          "9d537bdb5642435a1da3",
+          "f8f6674f99a6c498766d",
+          "a80d7949acc28d0d6684",
+          "a75edbfd0c978c992281",
+          "456e5c8403ca7d2a207c",
+          "a3bb1edfc329076527ee",
+          "6f15c6342adfc289dc6b",
+          "4fa95bc4439759999b99",
+          "2afc43d23f459ae7c135",
+          "3ca796bd5c9739f92496",
+          "68dd69f717c08ba73de3",
+          "2cc534be2527f7116b93",
+          "687a3c3b0060bacb40fb",
+          "449a6f057e6fbcd0dab8",
+          "a2fe0d2ff736fe1b18e5",
+          "bbdbc3bac6a91af273fa",
+          "bc2940443d1ead12e12f",
+          "45d3ae4c864cc09ee22d",
+          "5bc322bf9f9989763250",
+          "1589eb9e3e38f3e824ab",
+          "ae1e7a0cd8e461201a45",
+          "8549586e14c947b6eeac",
+          "3316aa2d228d3d5955a2",
+          "780b598de157db60dc94",
+          "b72b524a864abd786a29",
+          "f7e068d874012422856d",
+          "266c19438135a2cc6778",
+          "1dc3d783d4d2cd2dfa6d",
+          "63277e44c6412f12bae4",
+          "7d1c2b5ccac2766c5872",
+          "10216c4109c1760b0277",
+          "fa9ec20947f7d8b1269d",
+          "c4c8f95a242ce9678c0f",
+          "20d05b4675004d8d7941",
+          "2c4a6d2a77a05ca368d7",
+          "82f85fa914605a6e99c3",
+          "b8641e62b9656d689298",
+          "411233fcc7bdbf86baf0",
+          "3b9048a66f9dfd62c26f",
+          "87b4f1da86df3416aaab",
+          "235499951e7b983ee0e8",
+          "267c6830894270bd0a2f",
+          "20ece1a3188e02a4b1e7",
+          "45a2b4f19ebfc5df24b1",
+          "df0c102d1b18eb9ff5d0",
+          "02b71eb169bc4bb443f1",
+          "5151a464d4d1b920ed62",
+          "55f19920783be3f188ed",
+          "be4c4eee508c9149958f",
+          "80d8b3469334dc4df906",
+          "fbbbd6f3ea1050ca9078",
+          "1e295bb1e6b0443ef9b6",
+          "3e557574020c857bb609",
+          "eacfcc570c88b53040a8",
+          "e6ad58fe5e6920cd0f69",
+          "25bc80010bf135eef7a5",
+          "4c606b36ebef94b7cd6a",
+          "e248b129ece77ee4d4e7",
+          "7439f2e52b8288755f1e",
+          "c51400a1471bb6767901",
+          "2d7a395f77943c86f534",
+          "e6b0953772e3b100b6ec",
+          "25326bca12a972459676",
+          "d0b9d29ac337b6a28625",
+          "81f2173a5192b1fd1f15",
+          "6a8d0cced4187e01f39e",
+          "640352cc416d2da8cf3b",
+          "cd96e82a1b8ab624c34d",
+          "1d177fc62d7b661f9c75",
+          "467528fbab4f5d05f2cc",
+          "a3e23bcfd08168c9998c",
+          "2265a64e9737973d1d68",
+          "a64a08e832ea4dca9ad8",
+          "dac63c39ba382e259bcf",
+          "7c1e057b5576d9c44541",
+          "e1b0f08ec7ae9547a1db",
+          "0ed7887aa885b0343524",
+          "cb43249d71baf9e449c2",
+          "aa9f1ee722faeb29b47d",
+          "ebd972fb1c89fc5e285a",
+          "ff4d0554401199e48691",
+          "140884ff25230e000087",
+          "f86d77d2d8f2c3907472",
+          "080d95e3df047bf734e0",
+          "c3e45200ae190621865b",
+          "c1ec474ef7bcaf2b7822",
+          "8689ebc38d66245065df",
+          "28686bd00ebc68c90b98",
+          "8ec8688cc94b2d485604",
+          "971891b3ffdde6f542f5",
+          "e2b7b288e1d44047b31f",
+          "8463e14faa70b65191c6",
+          "47fbcf684a7e2d30ad75",
+          "fb2f0ca63bcac013e3d8",
+          "efb1d3e9fb2528716ce5",
+          "262a0bf3411cb0a47be5",
+          "b4feefcedfa5f6fe4ccd"
+        ]
       }
     }
   }

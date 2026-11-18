@@ -1,0 +1,28 @@
+---
+title: Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives
+ogTitle: "COINBASE LAUNCHES CHATGPT PLUGIN FOR TRADING BITCOIN, STOCKS, AND DERIVATIVES"
+description: An official ChatGPT plugin lets U.S. Coinbase users link accounts and place crypto, stock and futures orders from the chat, with a confirmation card on every trade.
+image: /images/news/chatgptplug.jpg
+imageCaption: "Coinbase CEO Brian Armstrong at a 2017 panel in San Francisco. Photo: Steve Jurvetson via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(38552330941).jpg
+category: News
+data-ai-hint: Brian Armstrong Coinbase CEO
+publishedDate: '2026-11-18'
+lastUpdated: '2026-11-18'
+---
+
+Coinbase launched an official plugin for ChatGPT on Tuesday that lets users connect a Coinbase account and trade bitcoin, other cryptocurrencies, stocks and derivatives without leaving the conversation, provided they approve every order. The company said the tool puts trading "in the same chat you use for everything else." Users can connect an account, review a portfolio and place orders from ChatGPT on the web, on mobile or on desktop. Chief executive Brian Armstrong wrote that "starting today anyone with ChatGPT can connect their Coinbase account" and can "trade right inside your Coinbase account." [Coinbase posted a link to the official plugin](https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading) in ChatGPT's directory.
+
+Users search for Coinbase in the plugin directory, sign in and choose which portfolios the plugin can see, according to [Bankless](https://www.bankless.com/read/news/coinbase-launches-a-trading-plugin-for-chatgpt). New orders, edits, cancellations and conversions between dollars and USDC each pull up a confirmation card in the chat. Read-only requests, such as checking a balance, do not use them. The setup described in Coinbase's developer documentation is short: sign in, review the access being requested and select the portfolios the plugin may reach.
+
+The plugin sits on the same rails as Coinbase for Agents, the company's toolkit for connecting AI apps to a trading account. That documentation lists spot trading in more than 900 pairs, including bitcoin, along with eligible U.S. stocks and dated futures from Coinbase Financial Markets. Orders go through Advanced Trade, so its fees and eligibility rules apply, and fees are shown on the order preview. The official plugin is narrower than the full agent toolkit: a separate custom connection is required for the company's Global Derivatives products and for x402 payments, which agents can use to buy market data.
+
+Access is limited. The official plugin is currently available to U.S. Coinbase users, and availability also depends on a user's ChatGPT account and workspace, [Bitcoin Magazine reported](https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading). If the plugin does not appear, the company tells users to check their workspace's plugin policy. A disclaimer attached to Tuesday's announcement said product availability, eligibility and Coinbase entities "vary by jurisdiction," that trading can result in a total loss, and that "AI agents may fail." The same post said users direct all AI activity and assume full responsibility. The developer documentation adds that agents can misinterpret instructions or produce inaccurate output, and that the user is responsible for reviewing and authorizing trades. Access can be revoked later in an account's security settings, under connections.
+
+Coinbase already offers U.S. customers stock and ETF trading on its own platform, but the agent documentation says equity orders trade during regular market hours by default. The plugin should not be read as a new around-the-clock stock venue, and what a user can buy still depends on the products already attached to that account.
+
+Users can pair the plugin with Agent Controls that Coinbase added the week before. Those server-side caps limit trade size and 24-hour volume and can auto-stop an agent after a set portfolio loss, enforced on Coinbase's servers so an agent cannot switch them off, according to Bankless. An option to switch off derivatives for agents is still marked "coming soon." The company documents a separate custom ChatGPT connection for automated workflows that does not add a confirmation card before each trade, though sign-in, consent and authorization for financial actions still apply. For the official plugin, every bitcoin, stock or derivatives order still needs a human yes.
+
+Base lead Jesse Pollak said Coinbase is the only trading plugin in ChatGPT with read and write access. Trading through ChatGPT is not new: Robinhood and Public already show users how to hook their trading servers into ChatGPT through Developer Mode, and Coinbase's own custom connection already worked there. OpenAI's plugin guidelines still list "execution of money transfers, crypto transfers, or investment trades" among prohibited services, and neither company has said how Coinbase's listing fits those rules, though Coinbase's Alec Lovett thanked the OpenAI team for its work on the launch.
+
+The Tuesday plugin is the most visible version of work Coinbase has shipped for months. In June it introduced Coinbase for Agents, a login and command-line tool that let an AI app trade inside limits set by the user. On Nov. 11 it added Agent Controls, and those controls live on the company's servers. The official plugin is meant for people who want to stay in the loop, and every order still needs a human approval.
