@@ -190609,7 +190609,35 @@
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 0,
       "expiresAt": "2026-11-20T13:00:00.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "articleSlug": "stablesfp",
+      "draftProgress": {
+        "id": "11b88965a062d99370fb",
+        "day": "2026-11-18",
+        "articleSlug": "stablesfp",
+        "note": "Read Finbold and Crypto Briefing on the Stable Funding Perps launch; CoinDesk and The Defiant blocked with 429/403; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://finbold.com/grvt-launches-commodity-perpetuals-with-funding-tied-to-traditional-market-financing/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+            "outcome": "blocked"
+          },
+          {
+            "url": "https://thedefiant.io/news/defi/grvt-launches-commodity-perps-with-weekday-funding",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-18T02:22:45.753Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f8f6674f99a6c498766d": {
       "source": "The Block",
