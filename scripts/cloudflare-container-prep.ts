@@ -9,6 +9,8 @@ function run(cmd: string): void {
 function main(): void {
   run('npx tsx scripts/sync-public-catalog-assets.ts');
   run('npx tsx scripts/materialize-job-shards-from-runtime.ts');
+  run('npx tsx scripts/precompute-nomads.ts');
+  run('npx tsx scripts/precompute-nomad-images.ts');
   run('npx tsx scripts/precompute-og-previews.ts');
   console.log('[cloudflare-container-prep] done');
 }
