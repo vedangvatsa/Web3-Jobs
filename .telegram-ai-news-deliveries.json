@@ -503,7 +503,7 @@
     "sentAt": "2026-11-17T19:34:51.484Z"
   },
   "6fa34885-16b2-4092-b621-93c85e4a457b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-18T03:34:26.998Z",
     "stories": [
       {
@@ -537,6 +537,8 @@
         "originalTitle": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years"
       }
     ],
-    "slotKey": "2026-11-18:morning"
+    "slotKey": "2026-11-18:morning",
+    "messageId": 193540,
+    "sentAt": "2026-11-18T03:34:42.335Z"
   }
 }

@@ -38,6 +38,9 @@
   "https://the-decoder.com/isomorphic-labs-raises-5-billion-in-its-second-mega-round-within-six-months/",
   "https://the-decoder.com/openai-opens-its-cybersecurity-tool-daybreak-to-nato-and-european-governments/",
   "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+  "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+  "https://techxplore.com/news/2026-11-global-ai-chain-invisible.html",
+  "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -116,6 +119,12 @@
   "OpenAI opens its cybersecurity tool Daybreak to NATO and European governments",
   "Model ML raises $250 million for investment banking automation",
   "Model ML raises $250M to automate investment banking grunt work",
+  "OpenAI releases GPT-6.2 Astra and Sol models",
+  "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+  "Cambridge report identifies invisible global AI supply chain",
+  "A third of the global AI supply chain is 'invisible' to governments, study finds",
+  "AI-generated abuse material reports increase 8,400 percent",
+  "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -154,5 +163,8 @@
   "fp:analyz|arriv|attack|automat|autonomous|caught|cod|creat|cyberattack|detect",
   "fp:accelerat|alphabet|clinical|discovery|dollar|driven|drug|fiv|follow|isomorphic",
   "fp:agency|are|critical|cybersecurity|daybreak|european|fix|government|identify|international",
-  "fp:15b|250m|atlantic|automat|automation|bank|general|grunt|investment|investor"
+  "fp:15b|250m|atlantic|automat|automation|bank|general|grunt|investment|investor",
+  "fp:astra|complex|cost|everyday|gpt62|improv|lower|offer|openai|out",
+  "fp:cambridg|chain|component|currently|find|global|government|identify|international|invisibl",
+  "fp:000|400|700|abus|child|childlight|content|from4|generat|in2023"
 ]
