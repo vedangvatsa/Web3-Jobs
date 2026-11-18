@@ -540,5 +540,42 @@
     "slotKey": "2026-11-18:morning",
     "messageId": 193540,
     "sentAt": "2026-11-18T03:34:42.335Z"
+  },
+  "c82a0fe3-6fed-4f17-9d0a-25cf660ca1ac": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T11:32:58.155Z",
+    "stories": [
+      {
+        "index": 8,
+        "original_title": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+        "headline": "Microsoft embeds Office inside Copilot as autonomous enterprise engine",
+        "summary": "Microsoft announced at Ignite that core productivity applications will run directly inside Copilot to execute automated workflows.",
+        "event_rationale": "This covers Microsoft's platform update integrating Office directly into autonomous agents, distinct from all previously posted event announcements.",
+        "link": "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+        "source": "SiliconANGLE",
+        "originalTitle": "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work"
+      },
+      {
+        "index": 7,
+        "original_title": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+        "headline": "SID AI releases SID-2 agentic search model",
+        "summary": "The model uses reinforcement learning and a multi-agent swarm architecture to achieve high benchmark search retrieval scores.",
+        "event_rationale": "This covers the release of the SID-2 search model, representing a distinct new model launch not previously posted.",
+        "link": "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+        "source": "MarkTechPost",
+        "originalTitle": "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode"
+      },
+      {
+        "index": 13,
+        "original_title": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+        "headline": "Perplexity adds multiagent system to Perplexity Computer workspace",
+        "summary": "The upgrade allows up to 16 concurrent agents across multiple underlying models to divide and cross-check tasks.",
+        "event_rationale": "This covers Perplexity's multiagent system update, which is distinct from past decision model releases and other agentic tools.",
+        "link": "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+        "source": "MarkTechPost",
+        "originalTitle": "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work"
+      }
+    ],
+    "slotKey": "2026-11-18:afternoon"
   }
 }
