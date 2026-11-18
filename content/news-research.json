@@ -187697,28 +187697,32 @@
       "id": "eb0e8c7e23624a1d039f",
       "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T22:29:07.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Wells Fargo’s Reported IBIT Position More Than Doubles\": https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-s-reported-ibit-position-more-than-doubles -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "note": "Read Crypto Briefing's Nov. 17 report (49,577,094 IBIT shares worth about .35 billion at Sept. 30 vs 24,396,222 shares and 12 million at June 30; 85% booked in client brokerage units; Galaxy's Alex Thorn cited). Independent corroboration still missing: The Defiant primary returned HTTP 403 and CoinDesk returned HTTP 429 on GET. Filing facts are verified from one readable outlet; a second readable site is required before drafting.",
       "sourceChecks": [
         {
+          "url": "https://cryptobriefing.com/wells-fargo-doubles-blackrock-bitcoin-etf-stake/",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-s-reported-ibit-position-more-than-doubles",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-17T02:33:38.590Z"
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T02:33:46.082Z",
+      "reviewedAt": "2026-11-18T04:25:54.011Z",
       "retrySearches": [
-        "Find a readable primary announcement or filing for: Wells Fargo’s Reported IBIT Position More Than Doubles",
-        "Find independent reporting confirming the event in: Wells Fargo’s Reported IBIT Position More Than Doubles",
-        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+        "Find a second readable independent report of Wells Fargo's Q3 Form 13F disclosing 49.58 million IBIT shares worth .35 billion (crypto.news, BeInCrypto, Decrypt or an SEC EDGAR filing view)",
+        "Retry CoinDesk after its HTTP 429 rate limit clears"
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "777d0c218c04b0c574cc": {
       "source": "The Defiant",
@@ -370276,6 +370280,30 @@
           ],
           "reviewedAt": "2026-11-18T04:25:34.228Z",
           "articleSlug": "customsfreeze"
+        },
+        "eb0e8c7e23624a1d039f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing's Nov. 17 report (49,577,094 IBIT shares worth about .35 billion at Sept. 30 vs 24,396,222 shares and 12 million at June 30; 85% booked in client brokerage units; Galaxy's Alex Thorn cited). Independent corroboration still missing: The Defiant primary returned HTTP 403 and CoinDesk returned HTTP 429 on GET. Filing facts are verified from one readable outlet; a second readable site is required before drafting.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/wells-fargo-doubles-blackrock-bitcoin-etf-stake/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/wells-fargo-s-reported-ibit-position-more-than-doubles",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:25:54.011Z",
+          "retrySearches": [
+            "Find a second readable independent report of Wells Fargo's Q3 Form 13F disclosing 49.58 million IBIT shares worth .35 billion (crypto.news, BeInCrypto, Decrypt or an SEC EDGAR filing view)",
+            "Retry CoinDesk after its HTTP 429 rate limit clears"
+          ]
         }
       },
       "baselineSlugs": [
