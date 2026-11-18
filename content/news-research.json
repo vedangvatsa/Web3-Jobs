@@ -186682,11 +186682,21 @@
         "Decrypt"
       ],
       "id": "80507dba1ede954a96e7",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T11:03:14.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "price-chatter",
+      "note": "Read CoinDesk's Nov 16 markets report: the story covers bitcoin slipping toward 4,000 after a weekend flush and  billion in liquidations, with trader price expectations. Price moves and liquidation totals without a separate concrete event fall under price chatter.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:03:29.910Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "df93e0004ce41771db62": {
       "source": "The Defiant",
@@ -369776,6 +369786,18 @@
           "reviewedAt": "2026-11-18T04:03:25.607Z",
           "duplicateOf": "luxorhack",
           "mergedInto": "3967a68c66a363d144df"
+        },
+        "80507dba1ede954a96e7": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read CoinDesk's Nov 16 markets report: the story covers bitcoin slipping toward 4,000 after a weekend flush and  billion in liquidations, with trader price expectations. Price moves and liquidation totals without a separate concrete event fall under price chatter.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:03:29.910Z"
         }
       },
       "baselineSlugs": [
