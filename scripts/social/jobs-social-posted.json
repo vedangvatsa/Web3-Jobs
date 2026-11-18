@@ -154246,7 +154246,8 @@
       },
       "account": "profile",
       "attemptId": "b24414f4-5e4c-4f73-9262-d84526f25bd6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd280e1465410e01ee02e9c1f893b9293700dd49f"
     }
   ]
 }
