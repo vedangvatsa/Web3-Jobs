@@ -460,5 +460,36 @@
     "slotKey": "2026-11-18:morning",
     "messageId": 65839,
     "sentAt": "2026-11-18T03:35:01.550Z"
+  },
+  "d02e6e50-8966-458a-99af-fd90f3f0069d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T11:32:58.407Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Treasury Secretary Questions Nvidia Board Over China Export Controls",
+        "summary": "Scott Bessent gave Nvidia ten days to detail alleged chip diversions to China via Singapore firm Megaspeed.",
+        "link": "https://hashtagweb3.com/bessentnvidia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bessent Gives Nvidia's Board 10 Days to Explain Export-Control Failures"
+      },
+      {
+        "index": -1,
+        "headline": "Bitmine Adds 7,653 Ether as Tom Lee Explains Decline",
+        "summary": "The company now holds $11.8 billion in ether, while its chairman attributes price drops to margin selling.",
+        "link": "https://hashtagweb3.com/bitmineeth?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitmine adds 7,653 ETH as Tom Lee ties ether's slide to Nvidia and the Anthropic IPO"
+      },
+      {
+        "index": -1,
+        "headline": "Germany Grants Customs Power to Hold Unexplained Crypto",
+        "summary": "Officials can detain crypto valued over 100,000 euros for 30 days without opening a criminal case.",
+        "link": "https://hashtagweb3.com/customsfreeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bundestag approves customs powers to freeze crypto of unclear origin"
+      }
+    ],
+    "slotKey": "2026-11-18:afternoon"
   }
 }
