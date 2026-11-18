@@ -186496,9 +186496,9 @@
         "Unchained"
       ],
       "id": "ab687f83adb0f54920b5",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T13:13:14.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "strategy485",
@@ -186530,7 +186530,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Opened the SEC 8-K directly and confirmed 485 BTC / $33.4M / $68,887 average, 850,849 holdings, $64.20B aggregate, 2,282,510 STRC shares for $228.1M, $244.7M MSTR sale, 12.00% December rate and $332.2M remaining buyback room; re-read Unchained's Nov 16 report and Crypto Briefing's Nov 16 report for the three-week tally, the STRC rate rationale and the dividend-cost context. The Block URL was not needed (403 previously). Draft, photo and audits pass quality, image, formatting and duplicate checks.",
+      "note": "Re-read the SEC 8-K downloaded directly (485 BTC / $33.4M / $68,887 average, 850,849 holdings, $64.20B aggregate, 2,282,510 STRC shares for $228.1M, $244.7M MSTR sale, 12.00% December rate, $332.2M remaining buyback room), Unchained's Nov. 16 report and Crypto Briefing's Nov. 16 report for the three-week tally, STRC rate rationale and dividend-cost context. Draft passes quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm",
@@ -186543,13 +186543,9 @@
         {
           "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T02:04:27.650Z",
+      "reviewedAt": "2026-11-18T03:55:23.340Z",
       "lastReviewedDay": "2026-11-18"
     },
     "b77a2ed64112c741d5ec": {
@@ -369681,6 +369677,27 @@
           ],
           "reviewedAt": "2026-11-18T03:55:08.128Z",
           "articleSlug": "mevacquittal"
+        },
+        "ab687f83adb0f54920b5": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the SEC 8-K downloaded directly (485 BTC / $33.4M / $68,887 average, 850,849 holdings, $64.20B aggregate, 2,282,510 STRC shares for $228.1M, $244.7M MSTR sale, 12.00% December rate, $332.2M remaining buyback room), Unchained's Nov. 16 report and Crypto Briefing's Nov. 16 report for the three-week tally, STRC rate rationale and dividend-cost context. Draft passes quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strategy-buys-485-bitcoin-for-33-4-million-lifting-holdings-to-850849-btc/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:55:23.340Z",
+          "articleSlug": "strategy485"
         }
       },
       "baselineSlugs": [
