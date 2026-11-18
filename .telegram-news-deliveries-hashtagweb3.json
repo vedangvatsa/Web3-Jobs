@@ -493,5 +493,36 @@
     "slotKey": "2026-11-18:afternoon",
     "messageId": 156329,
     "sentAt": "2026-11-18T11:33:47.164Z"
+  },
+  "72fed057-63b7-40b6-9f85-bb6860fe4d69": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T19:33:54.474Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Authorizes Backpack to Launch US Derivatives Exchange",
+        "summary": "The firm plans to offer 24/7 margined futures to US customers following its November 16 registration approval.",
+        "link": "https://hashtagweb3.com/backpackcftc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Approves Backpack's Blockchain-Based Derivatives Exchange and Clearinghouse"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase launches ChatGPT plugin for trading crypto and stocks",
+        "summary": "U.S. users can link accounts to place crypto and stock orders directly through the chat interface.",
+        "link": "https://hashtagweb3.com/chatgptplug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives"
+      },
+      {
+        "index": -1,
+        "headline": "Democratic senators query SEC chair on tokenized stock exemptions",
+        "summary": "The lawmakers requested details on anti-money laundering rules and transfer limits following a September exemption for digital securities.",
+        "link": "https://hashtagweb3.com/tokenizedaml?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Four Democratic senators press SEC on illicit finance gaps in its tokenized stock exemption"
+      }
+    ],
+    "slotKey": "2026-11-18:evening"
   }
 }
