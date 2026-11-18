@@ -3110,5 +3110,120 @@
     "slotKey": "2026-11-17:evening",
     "messageId": 203,
     "sentAt": "2026-11-17T19:32:40.133Z"
+  },
+  "44c7a126-c8da-46a1-b13a-0d917ceb9e5f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T03:32:36.104Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8038787003",
+          "title": "Senior Support Operations Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8038787003",
+          "date": "2026-10-20T06:17:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Strategic Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops117"
+        },
+        "key": "8038787003",
+        "slug": "ops117",
+        "url": "https://hashtagweb3.com/ops117?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Support Operations Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5477107008",
+          "title": "Senior Analyst, Pricing and Monetization",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5477107008?gh_jid=5477107008",
+          "date": "2026-11-11T15:47:45-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Melbourne, Australia",
+          "department": "30421 Foundational - Guidance - Strategic Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an140"
+        },
+        "key": "5477107008",
+        "slug": "an140",
+        "url": "https://hashtagweb3.com/an140?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Senior Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "5457208008",
+          "title": "Associate General Counsel, Partner - Joint Ventures: Strategic Transactions & M&A",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5457208008",
+          "date": "2026-11-16T15:01:57-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami, FL",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso97"
+        },
+        "key": "5457208008",
+        "slug": "aso97",
+        "url": "https://hashtagweb3.com/aso97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Associate General Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "e6c69570-4900-473e-a2b5-13f925d22e1b",
+          "title": "Executive Assistant",
+          "company": "Chainlink Labs",
+          "link": "https://jobs.ashbyhq.com/chainlink-labs/e6c69570-4900-473e-a2b5-13f925d22e1b",
+          "date": "2026-11-13",
+          "dateVerified": true,
+          "source": "Ashby: Chainlink Labs [chainlink-labs]",
+          "location": "New York - NY",
+          "workplaceType": "OnSite",
+          "department": "Executive Office",
+          "active": true,
+          "slug": "aso96"
+        },
+        "key": "e6c69570-4900-473e-a2b5-13f925d22e1b",
+        "slug": "aso96",
+        "url": "https://hashtagweb3.com/aso96?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainlink Labs",
+        "title": "Executive Assistant"
+      },
+      {
+        "snapshot": {
+          "id": "48fdd46b-c061-4b27-925a-fd54616f75c9",
+          "title": "Senior Product Manager (Prediction Markets)",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/48fdd46b-c061-4b27-925a-fd54616f75c9",
+          "date": "2026-11-13T23:24:04.465+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote-US",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product & Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm309"
+        },
+        "key": "48fdd46b-c061-4b27-925a-fd54616f75c9",
+        "slug": "pm309",
+        "url": "https://hashtagweb3.com/pm309?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "Senior Product Manager"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/ops117?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Support Operations Manager</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/an140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Analyst, Pricing and Monetization</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/aso97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate General Counsel, Partner - Joint Ventures: Strategic Transactions &amp; M&amp;A</a>\n- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/aso96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/pm309?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager (Prediction Markets)</a>",
+    "slotKey": "2026-11-18:morning"
   }
 }
