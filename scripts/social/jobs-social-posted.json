@@ -154752,6 +154752,41 @@
       "attemptId": "23e9142b-37ed-46ea-9e35-685927756bfb",
       "verification": "verified",
       "postId": "0x2023dbcf11bf016d967ee33525883590a5b08098"
+    },
+    {
+      "slug": "an121",
+      "company": "Chainalysis",
+      "title": "Senior Deal Desk Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-18T19:37:16.656Z",
+      "expectedText": "Chainalysis is hiring Senior Deal Desk Analyst\n\nhttps://hashtagweb3.com/an121/fc?og=7",
+      "snapshot": {
+        "id": "f0dc5b8d-1353-46a7-a519-80d7df3bcfe1",
+        "title": "Senior Deal Desk Analyst",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/f0dc5b8d-1353-46a7-a519-80d7df3bcfe1",
+        "date": "2026-11-06T15:13:49.025+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote (Florida)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an121"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Senior Deal Desk Analyst\n\nhttps://hashtagweb3.com/an121/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an121/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "914bcfd7-9482-4e00-9bbf-3516811d6614",
+      "verification": "creating"
     }
   ]
 }
