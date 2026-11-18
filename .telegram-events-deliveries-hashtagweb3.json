@@ -646,5 +646,51 @@
     "slotKey": "2026-11-18:afternoon",
     "messageId": 156328,
     "sentAt": "2026-11-18T11:32:35.760Z"
+  },
+  "f1c6db8f-469f-47a2-91a8-cc953fdeb112": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T19:32:31.375Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-ibt-lucknow-2026",
+        "slug": "ibt-lucknow",
+        "name": "India Blockchain & AI Tour 2026 - Lucknow",
+        "startDate": "2026-11-21T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-lucknow-2026",
+          "page:ibt-lucknow:2026-11-21",
+          "url:indiablockchaintour.com/2026-nodes/lucknow/ticket:2026-11-21",
+          "event:indiablockchainaitour2026lucknow:2026-11-21:lucknow"
+        ]
+      },
+      {
+        "id": "luma-crypto-pcC7PxE07FyePZ8",
+        "slug": "who-owns-f",
+        "name": "Who Owns the Future? AI, Money & the New Rules with Reggie Middleton aka The Father of DeFi",
+        "startDate": "2026-11-21T19:00:00.000Z",
+        "keys": [
+          "luma-crypto-pcc7pxe07fyepz8",
+          "page:who-owns-f:2026-11-21",
+          "luma:evt-pcc7pxe07fyepz8",
+          "luma-url:/nbnsla68",
+          "event:whoownsthefutureaimoneythenewruleswithreggiemiddletonakathefatherofdefi:2026-11-21:brooklyn"
+        ]
+      },
+      {
+        "id": "premier-ibt-chandigarh-2026",
+        "slug": "ibt-chandigarh",
+        "name": "India Blockchain & AI Tour 2026 - Chandigarh",
+        "startDate": "2026-11-22T10:00:00+05:30",
+        "keys": [
+          "premier-ibt-chandigarh-2026",
+          "page:ibt-chandigarh:2026-11-22",
+          "url:indiablockchaintour.com/2026-nodes/chandigarh/ticket:2026-11-22",
+          "event:indiablockchainaitour2026chandigarh:2026-11-22:chandigarh"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-18:evening"
   }
 }
