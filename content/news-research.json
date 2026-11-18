@@ -191179,9 +191179,9 @@
         "Unchained"
       ],
       "id": "b72b524a864abd786a29",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T11:29:51.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "coingeckostake",
@@ -191211,7 +191211,37 @@
         "updatedAt": "2026-11-18T01:48:45.893Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read CoinGecko's Nov 17 announcement (primary), Decrypt, Cointelegraph and Unchained coverage; verified the majority-stake statements, undisclosed terms, the three focus areas, the Ong, Norby and TM Lee quotes and the user/API figures across sources. Wrote coingeckostake.md (about 708 words) with the official CoinGecko founders press image self-hosted at /images/news/coingeckostake.jpg (37KB); quality, images, formatting and duplicate audits show no issues for this file and all four cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://solana.com/news/coingecko-backed-by-solana-foundation",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T01:54:13.099Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "f7e068d874012422856d": {
       "source": "Cointelegraph",
@@ -368881,6 +368911,39 @@
             "Find a readable independent report quoting Wintermute on Fed rate-hike bets and the Bitcoin $50,000s scenario",
             "Find any readable primary Wintermute post or market note behind the Fed rate-hike bet commentary"
           ]
+        },
+        "b72b524a864abd786a29": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read CoinGecko's Nov 17 announcement (primary), Decrypt, Cointelegraph and Unchained coverage; verified the majority-stake statements, undisclosed terms, the three focus areas, the Ong, Norby and TM Lee quotes and the user/API figures across sources. Wrote coingeckostake.md (about 708 words) with the official CoinGecko founders press image self-hosted at /images/news/coingeckostake.jpg (37KB); quality, images, formatting and duplicate audits show no issues for this file and all four cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://solana.com/news/coingecko-backed-by-solana-foundation",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T01:54:13.099Z",
+          "articleSlug": "coingeckostake"
         }
       },
       "baselineSlugs": [
