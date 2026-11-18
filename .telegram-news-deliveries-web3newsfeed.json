@@ -427,5 +427,36 @@
     "slotKey": "2026-11-17:evening",
     "messageId": 65838,
     "sentAt": "2026-11-17T19:34:53.876Z"
+  },
+  "00612eb7-5ee8-4732-b9c2-e3dc38e69dad": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T03:34:45.639Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Jensen Huang considers Nvidia return as allies organize campaign",
+        "summary": "Silicon Valley executives are contacting the White House to support the former leader's potential return to the company.",
+        "link": "https://hashtagweb3.com/comeback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Jensen Huang weighs Nvidia comeback as allies organize campaign"
+      },
+      {
+        "index": -1,
+        "headline": "Nakamoto Inc. extends $165 million Kraken loan to 2027",
+        "summary": "The updated terms delay 60 million USDT in principal and allow Bitcoin derivatives to count as collateral.",
+        "link": "https://hashtagweb3.com/nakamotoloan?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nakamoto extends $165 million Kraken loan with no principal due in 2026"
+      },
+      {
+        "index": -1,
+        "headline": "OpenAI launches ChatGPT Wallet for AI agent credit card payments",
+        "summary": "The tool allows users to approve automated transactions through major card networks within the platform.",
+        "link": "https://hashtagweb3.com/gptwallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OpenAI launches ChatGPT Wallet for agent purchases with Visa, Mastercard and Amex"
+      }
+    ],
+    "slotKey": "2026-11-18:morning"
   }
 }
