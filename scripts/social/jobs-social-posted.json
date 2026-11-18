@@ -152540,7 +152540,8 @@
       },
       "account": "profile",
       "attemptId": "15be3e48-0a64-415a-bc9e-4d57943191b1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe34a34f501d3199e2761a02f7253ff2c44ec2cc2"
     }
   ]
 }
