@@ -189911,11 +189911,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "45b5acc717a8fd3d3f56",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T04:42:07.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "price-chatter",
+      "note": "Read Cointelegraph's Nov 16 markets report: Asian chip stock declines ahead of Nvidia earnings, with Nikkei and Kospi moves. Pre-earnings equity price movement with no concrete Web3 event; both listed sources are Cointelegraph markets pieces.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:43:45.779Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "28afccbe3ead57da3872": {
       "source": "BeInCrypto",
@@ -370621,6 +370631,18 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:43:41.892Z"
+        },
+        "45b5acc717a8fd3d3f56": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Cointelegraph's Nov 16 markets report: Asian chip stock declines ahead of Nvidia earnings, with Nikkei and Kospi moves. Pre-earnings equity price movement with no concrete Web3 event; both listed sources are Cointelegraph markets pieces.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:43:45.779Z"
         }
       },
       "baselineSlugs": [
