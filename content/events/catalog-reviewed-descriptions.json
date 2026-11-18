@@ -870,24 +870,6 @@
       "sha256": "c6a7ce497abf3a1c226141b5d349e2f4410bb2a82af506ff2632bc19d13d8917"
     }
   },
-  "premier-ibt-chennai-2026": {
-    "description": "The Chennai stop of India Blockchain & AI Tour is part of Octaloop's fifth national tour. It brings the tour's focus on Web3 and AI to the local community of builders, founders and industry participants.\n\nThe linked organizer page currently shows tour-wide information rather than a Chennai session program. Confirm the city venue, hours and ticket conditions through the organizer before making travel plans.",
-    "descriptionSource": {
-      "url": "https://indiablockchaintour.com/",
-      "fetchedAt": "2026-10-12T11:25:08.851Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "India Blockchain & AI Tour 2026 - Chennai",
-      "sha256": "85a2a727c143413bfad7a761deeb190a3e625015546f5171cbaa9dd203c48773",
-      "evidence": [
-        {
-          "url": "https://indiablockchaintour.com/",
-          "fetchedAt": "2026-10-12T11:25:08.851Z",
-          "sha256": "93ac972b8925ea7b59a0ee13c1d7fc1d6a63bb192b125cc02d72f0b1841bd2c9",
-          "representation": "html"
-        }
-      ]
-    }
-  },
   "premier-ibt-pune-2026": {
     "description": "Pune is included in Octaloop's India Blockchain & AI Tour 2026, which connects local developer and founder communities with blockchain protocols, investors and enterprise teams.\n\nThe city ticket link currently leads to the general tour page. A Pune-specific agenda and venue have not been verified from that page; use the organizer's current registration information before attending.",
     "descriptionSource": {
@@ -2149,28 +2131,6 @@
           "url": "https://luma.com/openhouse-singapore",
           "fetchedAt": "2026-10-14T11:55:49.189Z",
           "sha256": "d693e855bd1e7a72d6d47c5d781e4906bf07ac7de81c578a620d22c4f4d7674b"
-        }
-      ]
-    }
-  },
-  "premier-edcon-2026": {
-    "description": "EDCON 2026 takes place on October 17 and 18 at Menara KEN TTDI, Level 2, in Kuala Lumpur. The published program includes Ethereum talks, lightning sessions, panels and hands-on workshops. Doors open at 09:30 each day and sessions begin at 10:00. All times are local to Kuala Lumpur.\n\nSaturday covers practical read privacy with Steffen Kux, AI's social impacts with Bing of Lodestar, parallel execution, shared liquidity and the intersection of traditional finance and DeFi. Afternoon sessions include verified wallet simulation, AI-assisted security triage and an Etherscan Flow workshop with Harith, followed by a student blockchain-club panel.\n\nSunday includes Arbitrum builder support, decentralized social networks, sovereign AI and a Partitioned Binary Tree talk by Ashraf of Nethermind. Suji Yan discusses social protocols, WenKang covers offchain components for dApps, and Nic leads a build-with-AI tools workshop. The day closes with a White Paper Reading Club from 16:00 to 18:00.\n\nTickets are linked from the organizer's website to its Luma registration page. Check the published agenda for the final order of sessions.",
-    "descriptionSource": {
-      "url": "https://www.edcon.io/en/",
-      "fetchedAt": "2026-10-14T11:53:03.586Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "EDCON 2026",
-      "sha256": "8364d939b40a7c4c26ea66c9e4114f72662af247ae83522da51d9faa20705f37",
-      "evidence": [
-        {
-          "url": "https://www.edcon.io/en/",
-          "fetchedAt": "2026-10-14T11:53:03.586Z",
-          "sha256": "08c2be421e8da6d95a7e7b2866e27c084ede0e41015ac5fc23dae0a43b177243"
-        },
-        {
-          "url": "https://luma.com/x54fvix6",
-          "fetchedAt": "2026-10-14T11:55:49.066Z",
-          "sha256": "d65aa62146d937892935784530ab46355556bd3bb4c25827d3b18161ae523af2"
         }
       ]
     }

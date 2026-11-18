@@ -1501,19 +1501,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-agentic-dollars-on-bitcoin",
-    "name": "Agentic Dollars on Bitcoin",
-    "description": "Agentic Dollars on Bitcoin: a Turin hackathon on October 17–18 for local AI and self-custodial Bitcoin apps, with €6,000 in prizes.",
-    "startDate": "2026-10-17T07:00:00.000Z",
-    "endDate": "2026-10-18T19:00:00.000Z",
-    "city": "Metropolitan City of Turin",
-    "country": "IT",
-    "location": "Metropolitan City of Turin, IT",
-    "url": "https://rgbprotocol.org/agentic-dollars-hackathon/",
-    "coverImage": "/events/w3v-agentic-dollars-on-bitcoin-3c74d9be.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-hack-genesis-2026",
     "name": "HACK GENESIS 2026",
     "description": "HACK GENESIS 2026: a hybrid AI and Web3 hackathon in Ghaziabad, with free entry and ₹16,000 plus 40K Sharp Rewards.",
@@ -2692,7 +2679,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3050,7 +3037,7 @@
     "country": "Netherlands",
     "location": "Amsterdam, Netherlands",
     "url": "https://dutchblockchainweek.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-dutch-blockchain-week-2027-1ab72e9e.webp",
     "source": "marketacross",
     "month": "May 2027",
     "descriptionSource": {
@@ -3384,7 +3371,7 @@
     "country": "Japan",
     "location": "Tokyo Big Sight, Tokyo, Japan",
     "url": "https://2027.webx-asia.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-webx-2027-53a0cfdb.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -3468,7 +3455,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -4497,20 +4484,6 @@
     "url": "https://ai-future.com/?utm_source=web3voyager.com&utm_medium=referral&utm_campaign=voyager#tickets",
     "coverImage": "/events/w3v-ai-future-forum-dubai-2026-340d6dcc.webp",
     "month": "December 2026"
-  },
-  {
-    "id": "mu-316893127",
-    "name": "Corte Madera - Bitcoin Meetup",
-    "description": "If this is your first time at one of our meetups, we have a simple guideline to enhance everyone’s experience:\n\n* Our meetups and events have a singular focus: Bitcoin. All of our topics and discussio",
-    "startDate": "2026-10-18T16:00:00-07:00",
-    "endDate": "2026-10-18T16:00:00-07:00",
-    "city": "Corte Madera",
-    "country": "us",
-    "location": "Corte Madera, us",
-    "url": "https://www.meetup.com/bay-area-bitcoiners/events/316893127/",
-    "coverImage": "/events/mu-316893127-54f7516b.webp",
-    "source": "meetup",
-    "month": "October 2026"
   },
   {
     "id": "luma-host-evt-evt-rCOXkFRTs9cgPc2",
@@ -5646,19 +5619,6 @@
     "month": "December 2026"
   },
   {
-    "id": "w3v-twif-stablecoin-day-powered-alcove-wallet-26-10-18",
-    "name": "TWIF Stablecoin Day ",
-    "description": "TWIF Stablecoin Day powered by Alcove Wallet, Chainalysis, Meld & Persona: Stablecoin side event in Las Vegas covering payments and compliance.",
-    "startDate": "2026-10-18T19:00:00.000Z",
-    "endDate": "2026-10-19T00:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/1yhb99bu",
-    "coverImage": "/events/w3v-twif-stablecoin-day-powered-alcove-wallet-26-1-6f03d7c5.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-uncharted-waters-trusted-transfers-persona-crossmint-26-10-18",
     "name": "Uncharted waters, trusted transfers with Persona, Crossmint, Mastercard, OpenFX, and Circle",
     "description": "Uncharted waters, trusted transfers with Persona, Crossmint, Mastercard, OpenFX, and Circle: Free networking on crypto payments in Las Vegas.",
@@ -6147,20 +6107,6 @@
     }
   },
   {
-    "id": "luma-evt-UemBh6MGbhbQgud",
-    "name": "[Free women only hike]: Siete Picos (moderate-hard)",
-    "description": "",
-    "startDate": "2026-10-18T07:00:00.000Z",
-    "endDate": "2026-10-18T15:30:00.000Z",
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "Madrid, Spain",
-    "url": "https://lu.ma/il2yq5cy",
-    "coverImage": "/events/luma-evt-uembh6mgbhbqgud-b2546067.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-43nq7ewgXJQdbAr",
     "name": "⚡ ENERGY TRANSITION VALLEY GOES TO SILICON VALLEY!",
     "description": "",
@@ -6607,20 +6553,6 @@
     "month": "August 2026"
   },
   {
-    "id": "mu-316759259",
-    "name": "Good Stocks.  Current Crypto strategy. Beginners welcome - ",
-    "description": "",
-    "startDate": "2026-10-18T21:00:00-04:00",
-    "endDate": "2026-10-18T21:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/boston_crypto-traders_and_investors/events/316759259/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-316843990",
     "name": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
     "description": "Join us for a webinar with Zeeve, an LFDT general member, on building Bank-Grade Privacy for Enterprise Blockchain Networks. As regulated institutions move blockchain initiatives from pilots to produc",
@@ -6787,20 +6719,6 @@
     "coverImage": "/events/mu-316423209-89018cfb.webp",
     "source": "meetup",
     "month": "November 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-8K1elqZrQ0GrkBa",
-    "name": "SuperteamTR | Malatya Touch Grass 🌿",
-    "description": "",
-    "startDate": "2026-10-18T10:30:00.000Z",
-    "endDate": "2026-10-18T12:00:00.000Z",
-    "city": "Malatya Merkez",
-    "country": "Türkiye",
-    "location": "Malatya Merkez, Türkiye",
-    "url": "https://luma.com/vbywm11f",
-    "coverImage": "/events/luma-host-evt-evt-8k1elqzrq0grkba-5f0137ad.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-HxZ8vjpKas7fc0D",
@@ -12549,7 +12467,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
-    "coverImage": "/events/mu-317064975-0dc78544.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13223,7 +13141,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317065000/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065000-b21a1b3a.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -21843,6 +21761,76 @@
     "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-multi-industry-event-denver-tickets-1997479479895",
     "coverImage": "/events/eb-1997479479895-e38ab851.webp",
     "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-hlKrPIIiRiniy1E",
+    "name": "Blockchain.com: TYB Party",
+    "description": "",
+    "startDate": "2026-11-17T20:00:00.000Z",
+    "endDate": "2026-11-18T02:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/blockc-eg04",
+    "coverImage": "/events/luma-evt-hlkrpiiiriniy1e-5d4136a1.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-PmJe4ETjKx1suG7",
+    "name": "Tech Weekend November 19-20, 2026 | Menlo Park | Silicon Valley",
+    "description": "",
+    "startDate": "2026-11-19T17:00:00.000Z",
+    "endDate": "2026-11-21T04:00:00.000Z",
+    "city": "Menlo Park",
+    "country": "United States",
+    "location": "Menlo Park, United States",
+    "url": "https://lu.ma/ycgqy17s",
+    "coverImage": "/events/luma-evt-pmje4etjkx1sug7-481d1b46.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-DkUQgSCZ9L6oy42",
+    "name": "Real Wealth, Real Impact: Web3, Crypto & AI CryptoMondays Austin × Media of Society",
+    "description": "",
+    "startDate": "2026-11-24T00:00:00.000Z",
+    "endDate": "2026-11-24T03:00:00.000Z",
+    "city": "Austin",
+    "country": "United States",
+    "location": "Austin, United States",
+    "url": "https://lu.ma/82cya82n",
+    "coverImage": "/events/luma-evt-dkuqgscz9l6oy42-168fffcf.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-HTsLDg5t7F8BEHw",
+    "name": "CHROMATIC DIALOGUES",
+    "description": "",
+    "startDate": "2026-11-30T17:00:00.000Z",
+    "endDate": "2026-12-01T00:00:00.000Z",
+    "city": "Miami Beach",
+    "country": "United States",
+    "location": "Miami Beach, United States",
+    "url": "https://lu.ma/58ujn1wc",
+    "coverImage": "/events/luma-evt-htsldg5t7f8behw-4f1f7e8c.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317475406",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Network virtually with those located in the DMV (District of Columbia, Virginia & Maryland) and internationally!\n\nThis monthly Monday meeting is hosted by Maryland Blockchain Association, Blockchain L",
+    "startDate": "2026-12-07T19:00:00-05:00",
+    "endDate": "2026-12-07T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/317475406/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "December 2026"
   }
 ]

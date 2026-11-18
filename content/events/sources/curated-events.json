@@ -2063,30 +2063,6 @@
   {
     "twitter": null,
     "source": "curated-premier",
-    "coverImage": "/events/premier-edcon-2026-594160dc.webp",
-    "id": "premier-edcon-2026",
-    "slug": "edcon",
-    "name": "EDCON 2026",
-    "description": "## Get involve\n\nSponsorship Application\n\nPartner with EDCON 2026 and put your brand in front of the global Ethereum community\n\nCommunity Events Application\n\nHost your own EDCON side event, from networking and talks to workshops, exhibitions, meals, or any format you choose\n\nApply to Speak\n\nSpeaker applications are open. Submit your talk, workshop or panel proposal for EDCON 2026\n\nJoin as Volunteer\n\nVolunteer applications are open. Join the EDCON crew and help make EDCON 2026 happen\n\nStrategic Partner: Geode Labs\n\nGeode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most.",
-    "startDate": "2026-10-17T09:00:00+08:00",
-    "endDate": "2026-10-18T18:00:00+08:00",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "location": "Kuala Lumpur, Malaysia",
-    "url": "https://www.edcon.io/",
-    "website": "https://www.edcon.io/",
-    "registrationUrl": "https://www.edcon.io/",
-    "descriptionSource": {
-      "url": "https://www.edcon.io/en/",
-      "fetchedAt": "2026-09-20T00:20:49.682Z",
-      "method": "official-section",
-      "pageTitle": "EDCON Kuala Lumpur",
-      "sha256": "16efc2d8bf5affe6f418d27c0fede7785a63b7c6e9002fb18cc7e35fd3d2b5dd"
-    }
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
     "coverImage": "/events/premier-gts-2026-14026f76.webp",
     "id": "premier-gts-2026",
     "slug": "gts",
@@ -2132,33 +2108,6 @@
       "method": "official-section",
       "pageTitle": "India Blockchain & AI Tour 2026",
       "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
-    }
-  },
-  {
-    "twitter": null,
-    "source": "curated-premier",
-    "coverImage": "/events/premier-ibt-tour-2026-4190c881.webp",
-    "id": "premier-ibt-chennai-2026",
-    "slug": "ibt-chennai",
-    "name": "India Blockchain & AI Tour 2026 — Chennai",
-    "description": "## India Blockchain & AI Tour 202\n\nThe Heartbeat of India’s Web3 Revolution - Edition \n\n\n\nMM Hyderaba\n\n\n\nIBT Chenna\n\n\n\nIBT Bengalur\n\n\n\nIBT Mumba\n\n\n\nIBT Pun\n\n\n\nIBT Go\n\n\n\nIBT Delh\n\n\n\nIBT Jaipu\n\n\n\nIBT Luckno\n\n1\n\nIBT Chandigar\n\nWelcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just hosting events; we are building the definitive highway for the Indian ecosystem. Welcome to the distribution layer of the future. The road starts here\n\nWhy Attend IBT2\n\nArchitect Networking\n\nWith >65% decision-maker attendance, IBT is where global protocol founders meet India’s institutional capital\n\nMarket Penetration\n\nBridge the gap between global tech and India’s 500M+ digital natives across 10 strategic citie\n\nTalent Integration\n\nEngage with the world’s densest pool of Ethereum, Solana, and Polygon developers via curated talent showcases\n\nElite VIP Access\n\nFrom private HNI dinners to exclusive 'Whale Lounges,' experience the highest tier of Indian business hospitality\n\n1200\n\n65\n\n250\n\n100\n\n10\n\n50\n\nIBT26 Sponsors\n\nMeet the Sponsors making an impact for Web3 and AI around the globe\n\nPOWERED B\n\nGOL\n\nCO SPONSOR\n\nPARTNER\n\nCOMMUNIT\n\nMEDI\n\nPast Sponso\n\nOur IBT26 flagship event Metamorphosis Hyderabad\n\nMetamorphosis is the crown jewel of the India Blockchain Tour; a high-impact convergence of global protocols and Indias leading AI x Web3 innovators.\n\nOver two days in Hyderabad, we move beyond panels to outcomes. From curated investor roundtables to the Founder Demo Day, this is where the industrys next $100M is mapped out\n\nWho should attend\n\nFounders & CXOs\n\nConnect with global protocols and local venture capital to turn your MVP into a market leader\n\nInstitutional Investors\n\nAccess a high-density pool of vetted Web3 startups and the developers behind India’s most successful dApps\n\nGlobal Ecosystems\n\nDeploy your GTM strategy across 10 strategic nodes and integrate with the world’s largest Web3 workforce\n\nPolicy & Enterprise\n\nEngage with regulators and industry titans to lead the institutional adoption of blockchain in Bharat\n\nAs Seen On",
-    "startDate": "2026-10-18T10:00:00+05:30",
-    "endDate": "2026-10-18T17:00:00+05:30",
-    "city": "Chennai",
-    "country": "India",
-    "location": "Chennai, India",
-    "url": "https://indiablockchaintour.com/2026-nodes/chennai",
-    "website": "https://indiablockchaintour.com/",
-    "registrationUrl": "https://indiablockchaintour.com/2026-nodes/chennai/ticket",
-    "sideEventFor": [
-      "ibt"
-    ],
-    "descriptionSource": {
-      "url": "https://indiablockchaintour.com/",
-      "fetchedAt": "2026-09-20T00:20:52.308Z",
-      "method": "official-section",
-      "pageTitle": "India Blockchain & AI Tour 2026",
-      "sha256": "9040d8534d3122e1a9a795a93827a7d9ec4759204291c987fd897131d9ec8fb7"
     }
   },
   {

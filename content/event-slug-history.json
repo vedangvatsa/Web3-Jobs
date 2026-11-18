@@ -27,22 +27,6 @@
       "xppe9krt"
     ]
   },
-  "luma-crypto-T8jvG7h5xieJmQL": {
-    "slug": "maritime-dual-use-hackathon",
-    "aliases": [
-      "fmduh"
-    ]
-  },
-  "premier-edcon-2026": {
-    "slug": "edcon",
-    "aliases": []
-  },
-  "luma-batch-evtMhB5lf6PHMKPk": {
-    "slug": "monad-blitz-medellin",
-    "aliases": [
-      "f6xhhyld"
-    ]
-  },
   "luma-crypto-uY7AwaQhqCO2Ejy": {
     "slug": "executorch",
     "aliases": []
@@ -53,10 +37,6 @@
       "m22u",
       "ma-money-20-20-usa"
     ]
-  },
-  "premier-ibt-chennai-2026": {
-    "slug": "ibt-chennai",
-    "aliases": []
   },
   "luma-batch-DDSCOZ2CsESUtZA": {
     "slug": "whats-next-after-colosseum",
@@ -1201,10 +1181,6 @@
   },
   "curated-edge-city-india-2026": {
     "slug": "edge-city-india-village",
-    "aliases": []
-  },
-  "india-luma-6tjoddyg": {
-    "slug": "road-to-devcon-bhopal-a36",
     "aliases": []
   },
   "curated-field-station-rajasthan-2026": {

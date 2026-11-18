@@ -729,21 +729,6 @@
       "preview": "Two focused days connecting banks, asset managers, regulators, investors, exchanges, infrastructure providers and technology leaders from across Europe. VBW27: June 2–3, 2027, Vienna."
     },
     {
-      "id": "premier-edcon-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.edcon.io/en/",
-        "fetchedAt": "2026-09-20T00:20:49.682Z",
-        "method": "official-section",
-        "pageTitle": "EDCON Kuala Lumpur",
-        "sha256": "057de2665f3981dacb3d16f37f417cdc03d980695d4a4b29846449a8aa5a6f11"
-      },
-      "previousStartDate": "2026-10-17T09:00:00+08:00",
-      "characters": 742,
-      "preview": "## Get involved\n\n## Sponsorship Application\n\nPartner with EDCON 2026 and put your brand in front of the global Ethereum community.\n\n## Community Events Application\n\nHost your own EDCON side event, from networking and talks to workshops, exhibitions, meals, or any format you choose.\n\n## Apply to Speak\n\nSpeaker applications are open. Submit your talk, workshop or panel proposal for EDCON 2026.\n\n## Join as Volunteer\n\nVolunteer applications are open. Join the EDCON crew and help make EDCON 2026 happen.\n\n## Strategic Partner: Geode Labs\n\nGeode Labs is an Ethereum ecosystem development organisation and product studio, spun out of Ethereum Foundation to make Ethereum more accessible, resilient, and available to the people who need it most."
-    },
-    {
       "id": "premier-gts-2026",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -780,21 +765,6 @@
         "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
       },
       "previousStartDate": "2026-09-26T10:00:00+05:30",
-      "characters": 2664,
-      "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
-    },
-    {
-      "id": "premier-ibt-chennai-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://indiablockchaintour.com/",
-        "fetchedAt": "2026-09-20T00:20:52.308Z",
-        "method": "official-section",
-        "pageTitle": "India Blockchain & AI Tour 2026",
-        "sha256": "ccce6e43a6fe12a78cd1fe368f620279ded4b71c318fb3d886b105abc05e2b77"
-      },
-      "previousStartDate": "2026-10-10T10:00:00+05:30",
       "characters": 2664,
       "preview": "## India Blockchain & AI Tour 2026\n\n## The Heartbeat of India’s Web3 Revolution - Edition 5\n\n## 1\n\n## MM Hyderabad\n\n## 2\n\n## IBT Chennai\n\n## 3\n\n## IBT Bengaluru\n\n## 4\n\n## IBT Mumbai\n\n## 5\n\n## IBT Pune\n\n## 6\n\n## IBT Goa\n\n## 7\n\n## IBT Delhi\n\n## 8\n\n## IBT Jaipur\n\n## 9\n\n## IBT Lucknow\n\n## 10\n\n## IBT Chandigarh\n\n## Welcome to India Blockchain & AI Tour 2026\n\nWelcome to the 5th Edition of the India Blockchain & AI Tour; our most ambitious journey through the heart of the world’s fastest-growing Web3 economy. As the global spotlight turns to India for Devcon 2026, IBT returns to 10 cities to bridge the gap between global innovation and local grassroots talent.\n\nThis is our biggest year yet, designed to connect 15,000+ builders, founders, and leaders across Tier 1 and Tier 2 hubs. We aren’t just h"
     },

@@ -1169,10 +1169,6 @@
       "sha256": "92ae082906548cfbff0ff985ce78c8638fe5ad30fbaf8b2a1cfdb917d99d49f2",
       "status": "optimized"
     },
-    "/events/india-luma-6tjoddyg-63f6ea92.webp": {
-      "sha256": "271f35357db322c2f77fcd72c1e03bd397f22ff46a0498e618f0591118ca9c34",
-      "status": "optimized"
-    },
     "/events/india-luma-83ujl6ms-b6bac7c0.webp": {
       "sha256": "44e4d2328639cf8eabb226080d69be0f132a9eec7ee2ee823190c3a620854d68",
       "status": "optimized"
@@ -1424,10 +1420,6 @@
     "/events/luma-batch-evtMJacaICJiBqTU-8af5d337.webp": {
       "sha256": "f1601fafde80f6adbf5b1f971be27adcdf417661aa6d7a534d520ebf25ec962d",
       "status": "retained"
-    },
-    "/events/luma-batch-evtMhB5lf6PHMKPk-2348fc5a.webp": {
-      "sha256": "0e0e635762154755256a72ed4713ae2c502bbd2817c740e3c4d292a7c1eabf3b",
-      "status": "optimized"
     },
     "/events/luma-batch-evtNyDalsA4KYCEg-6fe40e1d.webp": {
       "sha256": "d88774de0d10d29391ccded58691a519f3faf1befb76775340ddb5a3877daf52",
@@ -2388,10 +2380,6 @@
     "/events/luma-crypto-t2tqkknzeqxwxyo-ea890114.webp": {
       "sha256": "b5b5c2c26a23860b9724c24e072bcaac54715e0cd278a3eed827d6bd7073feb0",
       "status": "retained"
-    },
-    "/events/luma-crypto-t8jvg7h5xiejmql-e963d79a.webp": {
-      "sha256": "7ffc536c862c39817911ea0c7c575fe1b79a866aab635aaf4860bf6de4850496",
-      "status": "optimized"
     },
     "/events/luma-crypto-tacyvb4jywktqlg-36be6efc.webp": {
       "sha256": "abaa7a30116b4842fe5f23b24a2d6c1816299ca7859bdc6dddfcf4777a55c48b",
@@ -4185,10 +4173,6 @@
       "sha256": "e80b0d21291a0d05c3e56c749a9f388b9f2b2a2010665befe5dc2340f40ee28b",
       "status": "optimized"
     },
-    "/events/luma-evt-uembh6mgbhbqgud-b2546067.webp": {
-      "sha256": "5b76c80d2e8dd83ec58328bbd29c5275d4b7ca8d772441c7bacda6c1a844e5c8",
-      "status": "optimized"
-    },
     "/events/luma-evt-uh1ilb1yotddigs-a8ce57d7.webp": {
       "sha256": "796571b83af194973b1de462dbd61347b92b6621f297057d4c31a45c8c8b9d8d",
       "status": "optimized"
@@ -4543,10 +4527,6 @@
     },
     "/events/luma-host-evt-evt-8dntupeo60aiwt5-5e3033a1.webp": {
       "sha256": "602647d5a41b1cc7f6f181e38dc6f9aabd445f3ee55e8446b0d8e5deb83b455f",
-      "status": "optimized"
-    },
-    "/events/luma-host-evt-evt-8k1elqzrq0grkba-5f0137ad.webp": {
-      "sha256": "2e476127e8b3314465b343ca3909028dbed675b9c12089247b78b7381873aef3",
       "status": "optimized"
     },
     "/events/luma-host-evt-evt-9qbxxi87fmfkdff-6a8d0f98.webp": {
@@ -5081,10 +5061,6 @@
       "sha256": "431c93be46fd099cb1ea6b84ed3c55c36ce56b6c2e5e8c64b5d7fa200d5c9f0c",
       "status": "optimized"
     },
-    "/events/mu-316893127-54f7516b.webp": {
-      "sha256": "9bca9a2b221dbe410c30c969c988b1523b1b32fcade72552d0b41be332bca9ca",
-      "status": "optimized"
-    },
     "/events/mu-316893847-9a79496b.webp": {
       "sha256": "d629044bbd813e5e6f928e69b7583c3d12f2911e9f5903aa3ad7905bc4b7ba28",
       "status": "optimized"
@@ -5166,10 +5142,6 @@
       "status": "retained"
     },
     "/events/mu-317064964-3d7fd815.webp": {
-      "sha256": "3753f52f2a0adf26c9569a49650f1a298e64b58bf55626d75a8ba32a179fb896",
-      "status": "retained"
-    },
-    "/events/mu-317064975-0dc78544.webp": {
       "sha256": "3753f52f2a0adf26c9569a49650f1a298e64b58bf55626d75a8ba32a179fb896",
       "status": "retained"
     },
@@ -5365,10 +5337,6 @@
       "sha256": "90366ce62e7f92c8a4f912026b7759b7027ac8f55ce8656b5793c6777dca2552",
       "status": "optimized"
     },
-    "/events/premier-edcon-2026-594160dc.webp": {
-      "sha256": "b748b75ccc99dfb5b71c7131f60fd7beed82e1a1e6486c99509ef276a1277d64",
-      "status": "retained"
-    },
     "/events/premier-ethindia-2026-fe40d144.webp": {
       "sha256": "d81087f6f135c3029f9aac9d33324337b1e6f24bbbbe4e83e482dedebe1d37ed",
       "status": "optimized"
@@ -5520,10 +5488,6 @@
     "/events/w3v-africa-builders-day-open-call-zuzone-26-11-05-fdf53da1.webp": {
       "sha256": "e67971c2464cb55821fcb802a3d4574e1f5b2460c1441188ea4be52fd7dabadb",
       "status": "retained"
-    },
-    "/events/w3v-agentic-dollars-on-bitcoin-3c74d9be.webp": {
-      "sha256": "df669011b53d9398ac528da3efe3c9c544a019dcd69291c3036fa105479a4e83",
-      "status": "optimized"
     },
     "/events/w3v-ai-future-forum-dubai-2026-340d6dcc.webp": {
       "sha256": "f4d4ffc18bbcffbdb3512c1f9d6f0141511281dbfe2d2319e941d136553a0377",
@@ -6111,10 +6075,6 @@
     },
     "/events/w3v-twif-checker-money20-20-happy-hour-26-10-19-37b6b1f6.webp": {
       "sha256": "0bc30ba0006731ab6e5458a7d8dd994f639f2f8e9e7fe58a72252721834e42ec",
-      "status": "optimized"
-    },
-    "/events/w3v-twif-stablecoin-day-powered-alcove-wallet-26-1-6f03d7c5.webp": {
-      "sha256": "7f96f5d055762511f10827b744a33a1f819a498b38076e831b785c43f08d6e56",
       "status": "optimized"
     },
     "/events/w3v-ubc-2026-hackathon-677972d5.webp": {

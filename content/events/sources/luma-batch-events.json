@@ -1786,36 +1786,6 @@
     }
   },
   {
-    "id": "luma-batch-evtMhB5lf6PHMKPk",
-    "slug": "f6xhhyld",
-    "name": "Monad Blitz Medellin V2",
-    "description": "Un día para hackear, construir y demostrar de qué estás hecho.\n\nMonad Blitz es una hackathon de alto impacto donde los mejores desarrolladores y builders se reúnen para construir proyectos reales sobre Monad, una de las blockchains más rápidas del ecosistema Web3.\n\nUn día completo de desarrollo intenso: forma tu equipo, define tu idea y construye desde cero. Al final del día, presentas ante un jurado y los mejores proyectos se llevan el reconocimiento.\n\n## Event details\n\nOrganized by Medellin Blockchain Community Events. Venue: Indie Universe - Hotel for creators in laureles, Indie Universe - Hotel for creators in laureles, Av. Nutibara #71-25, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia, Colombia. Tickets: Free.",
-    "startDate": "2026-10-17T14:00:00.000Z",
-    "endDate": "2026-10-18T04:00:00.000Z",
-    "city": "Medellín",
-    "country": "Colombia",
-    "location": "Indie Universe - Hotel for creators in laureles, Indie Universe - Hotel for creators in laureles, Av. Nutibara #71-25, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia, Colombia",
-    "url": "https://luma.com/f6xhhyld",
-    "registrationUrl": "https://luma.com/f6xhhyld",
-    "coverImage": "/events/luma-batch-evtMhB5lf6PHMKPk-2348fc5a.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Medellin Blockchain Community Events"
-    ],
-    "price": "Free",
-    "timezone": "America/Bogota",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "hackathon",
-    "sourceVerification": {
-      "url": "https://luma.com/f6xhhyld",
-      "eventId": "evt-MhB5lf6PHMKPkHC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt9rZ1FUZA2dW4u",
     "slug": "2n764jm8",
     "name": "Aprende a usar Bitcoin desde cero",

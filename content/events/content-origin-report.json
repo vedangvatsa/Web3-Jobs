@@ -66,55 +66,6 @@
       ]
     },
     {
-      "id": "luma-crypto-T8jvG7h5xieJmQL",
-      "slug": "fmduh",
-      "name": "Maritime Dual-Use Hackathon",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/mvcg9eyw",
-        "fetchedAt": "2026-09-19T23:49:09.795Z"
-      },
-      "sections": [
-        "About the event",
-        "Challenge Tracks",
-        "Build with Real Hardware",
-        "More Than a 48-Hour Hackathon",
-        "Partners & Ecosystem",
-        "What to Expect"
-      ]
-    },
-    {
-      "id": "premier-edcon-2026",
-      "slug": "edcon",
-      "name": "EDCON 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.edcon.io/en/",
-        "fetchedAt": "2026-09-20T00:20:49.682Z"
-      },
-      "sections": [
-        "Sponsorship Application",
-        "Community Events Application",
-        "Apply to Speak",
-        "Join as Volunteer",
-        "Strategic Partner: Geode Labs"
-      ]
-    },
-    {
-      "id": "luma-batch-evtMhB5lf6PHMKPk",
-      "slug": "f6xhhyld",
-      "name": "Monad Blitz Medellin V2",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/f6xhhyld",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Event details"
-      ]
-    },
-    {
       "id": "ma-money-20-20-usa",
       "slug": "m22u",
       "name": "Money20/20 USA",
@@ -131,29 +82,6 @@
         "Meet Payment Pros, These Attendees Did",
         "Get Your Pass Now",
         "Explore Sponsorship"
-      ]
-    },
-    {
-      "id": "premier-ibt-chennai-2026",
-      "slug": "ibt-chennai",
-      "name": "India Blockchain & AI Tour 2026 - Chennai",
-      "status": "source-backed",
-      "source": {
-        "url": "https://indiablockchaintour.com/",
-        "fetchedAt": "2026-09-20T00:20:52.308Z"
-      },
-      "sections": [
-        "Welcome to India Blockchain & AI Tour 2026",
-        "Architect Networking",
-        "Market Penetration",
-        "Talent Integration",
-        "Elite VIP Access",
-        "IBT26 Sponsors",
-        "Our IBT26 flagship event Metamorphosis Hyderabad",
-        "Founders & CXOs",
-        "Institutional Investors",
-        "Global Ecosystems",
-        "Policy & Enterprise"
       ]
     },
     {

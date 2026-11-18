@@ -10087,5 +10087,44 @@
       "hong-kong-",
       "luma-crypto-cnwhgaalihimykq"
     ]
+  },
+  "premier-edcon-2026": {
+    "until": "2027-11-18T01:45:12.765Z",
+    "slugs": [
+      "edcon",
+      "premier-edcon-2026",
+      "edcon-2026"
+    ]
+  },
+  "premier-ibt-chennai-2026": {
+    "until": "2027-11-18T01:45:12.765Z",
+    "slugs": [
+      "ibt-chennai",
+      "premier-ibt-chennai-2026",
+      "ibt-chennai-2026"
+    ]
+  },
+  "india-luma-6tjoddyg": {
+    "until": "2027-11-18T01:45:12.765Z",
+    "slugs": [
+      "road-to-devcon-bhopal-a36",
+      "india-luma-6tjoddyg"
+    ]
+  },
+  "luma-batch-evtMhB5lf6PHMKPk": {
+    "until": "2027-11-18T01:45:12.765Z",
+    "slugs": [
+      "monad-blitz-medellin",
+      "f6xhhyld",
+      "luma-batch-evtmhb5lf6phmkpk"
+    ]
+  },
+  "luma-crypto-T8jvG7h5xieJmQL": {
+    "until": "2027-11-18T01:45:12.765Z",
+    "slugs": [
+      "maritime-dual-use-hackathon",
+      "fmduh",
+      "luma-crypto-t8jvg7h5xiejmql"
+    ]
   }
 }

@@ -844,40 +844,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       },
     ],
   },
-  edcon: {
-    summaryLead:
-      "EDCON runs October 17 to 18, 2026 in Kuala Lumpur. The Community Ethereum Development Conference describes itself as a nonprofit annual gathering for Ethereum builders, researchers and community members. The site lists open applications for sponsors, community side events, speakers and volunteers, with tickets linked through Luma. Geode Labs is named as strategic partner. Past editions listed run from Paris in 2017 through Tokyo in 2024 and Osaka in 2025. Pricing, venue details and attendance figures are not published on the official site at this time for the 2026 edition.",
-    sections: [
-      {
-        heading: "Dates and format",
-        content: [
-          "The site gives October 17 to 18, 2026 and names Kuala Lumpur as host city. EDCON is described as a nonprofit annual conference for the Ethereum ecosystem. It says the event gathers speakers, mentors and projects to share ideas and link communities.",
-          "Four application paths are listed as open. They cover sponsorship, community side events, speaking and volunteering. Tickets are linked through Luma.",
-        ],
-      },
-      {
-        heading: "Partners and history",
-        content: [
-          "Geode Labs is named as strategic partner and described as an Ethereum ecosystem development group. No other 2026 sponsors are named on the fetched page. The history line lists Paris 2017, Toronto 2018, Sydney 2019, online editions in 2020 and 2021, San Francisco 2022, Montenegro 2023, Tokyo 2024 and Osaka 2025.",
-          "The site gives no speaker names for 2026 on the fetched page. It also gives no ticket prices and no attendance figure. Readers should use the official forms for current status.",
-        ],
-      },
-      {
-        heading: "Planning note",
-        content: [
-          "With venue and schedule details still thin, the practical step is to apply early if you want to speak, volunteer or host a side event. The forms are linked directly from the homepage.",
-          "For travel, confirm venue and hotel advice on edcon.io before booking. Pricing is listed on the official site when released.",
-        ],
-      },
-      {
-        heading: "Southeast Asian Ethereum community",
-        content: [
-          "Kuala Lumpur represents one of Southeast Asia's fastest-growing developer communities, bridging Malaysian universities and international open-source contributors.",
-          "Attendees traveling into Kuala Lumpur International Airport (KLIA) can access downtown conference hubs via the KLIA Ekspres rail link.",
-        ],
-      },
-    ],
-  },
   "vienna-blockchain-week": {
     summaryLead:
       "Vienna Blockchain Week runs June 2 to 3, 2027 in Vienna, framed as an institutional digital asset and AI gathering. The site reports more than 500 attendees at the 2026 edition, with 80 percent international visitors from over 40 countries and more than 100 speakers. Six themes are listed for 2027, covering institutional assets, stablecoins, tokenization, MiCA regulation, infrastructure and AI in finance. A Super Early Bird ticket window ending August 31 is noted, with sales through events.neob.ai. Pricing is listed on the official site. Banks, asset managers, regulators and infrastructure firms form the stated audience.",

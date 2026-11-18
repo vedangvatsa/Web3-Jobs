@@ -136,49 +136,6 @@
   ],
   "rows": [
     {
-      "row": 2,
-      "entryId": "calev-JAmhm3q1wFwRRs6",
-      "identity": "luma:evt-MEC8N5i9OBrqofT",
-      "eventId": "evt-MEC8N5i9OBrqofT",
-      "platform": "luma",
-      "name": "Road to Devcon India | Bhopal Edition",
-      "url": "https://luma.com/6tjoddyg",
-      "period": "future",
-      "timing": "upcoming",
-      "calendarStart": "2026-10-18T09:30:00.000Z",
-      "calendarEnd": "2026-10-18T12:30:00.000Z",
-      "status": "added",
-      "kind": "new-source-record",
-      "reason": "Verified public primary page; appended one missing identity in india-luma-events.json. The description's opening reuses Mumbai template text. The event title and public Sheryians Coding School location identify this as the Bhopal edition; no Mumbai location was imported.",
-      "sourceMatchesBefore": [],
-      "runtimeBefore": [],
-      "runtimeAfter": [
-        {
-          "id": "india-luma-6tjoddyg",
-          "slug": "road-to-devcon-bhopal-a36",
-          "startDate": "2026-10-18T09:30:00.000Z",
-          "endDate": "2026-10-18T12:30:00.000Z"
-        }
-      ],
-      "primary": {
-        "url": "https://luma.com/6tjoddyg",
-        "finalUrl": "https://luma.com/6tjoddyg",
-        "canonicalUrl": "https://luma.com/6tjoddyg",
-        "httpStatus": 200,
-        "fetchedAt": "2026-10-16T08:51:30.624Z",
-        "sha256": "eeecd76db686a81c5202869ce977adbd53c2558eb14f16021eca2e28bef64b0e",
-        "title": "Road to Devcon India | Bhopal Edition · Luma",
-        "visibility": "public",
-        "startDate": "2026-10-18T09:30:00.000Z",
-        "endDate": "2026-10-18T12:30:00.000Z",
-        "timezone": "Asia/Kolkata",
-        "locationHidden": false,
-        "approvalRequired": true,
-        "cancelled": false
-      },
-      "identityProof": []
-    },
-    {
       "row": 3,
       "entryId": "calev-s1ATQmXBQoaQsRD",
       "identity": "logos.co/field-station|field station / rajasthan",

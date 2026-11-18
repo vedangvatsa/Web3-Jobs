@@ -1,58 +1,5 @@
 [
   {
-    "id": "luma-crypto-T8jvG7h5xieJmQL",
-    "slug": "fmduh",
-    "name": "Maritime Dual-Use Hackathon",
-    "description": "The Fincantieri Maritime Dual-Use Hackathon comes to San Francisco, October 16–18.\n\nFollowing the first edition in Rome, which brought together 70+ participants, including Italian Navy engineers, and produced five working prototypes, the challenge now crosses the Atlantic to the Bay Area’s deep-tech ecosystem.\n\nOver 48 hours, engineers, developers, founders, researchers and designers will form teams to build working solutions around real maritime and defense engineering challenges, with access to technical mentors, development hardware and potential opportunities to continue developing the strongest concepts beyond the event\n\nChallenge Tracks\n\n1. OT Cybersecurity & Blast Radius Analysis\n2. Piping Layout Optimization\n3. Software-Defined Vesse\n\nBuild with Real Hardware\n\nParticipants will have access to a selection of Qualcomm and Arduino technologies during the hackathon, including Snapdragon-powered laptops, edge AI and robotics development platforms, Arduino prototyping hardware and supporting developer tools.\n\nThese tools are intended for hands-on technical development. Participants with experience in areas such as software development, embedded systems, electronics, robotics, edge AI, computer vision or hardware prototyping will be best positioned to take full advantage of them.\n\nQualcomm and Arduino technologies will be introduced during the opening session so teams can quickly understand the available resources and integrate hardware, edge AI, computer vision, sensors or robotics into their prototypes.\n\nExact hardware configurations will be shared with participants ahead of the event\n\nMore Than a 48-Hour Hackathon\n\nThe goal is not only to build a prototype, but to identify ideas with the potential to continue developing after the event.\n\n• Work on real Fincantieri challenges with potential relevance to future maritime and defense applications.\n• Compete for a Qualcomm-powered laptop awarded to the winning team.\n• Develop your concept beyond the hackathon: selected promising prototypes may have the opportunity to continue evolving.\n• Access Fincantieri expertise: winning and particularly promising concepts may receive mentoring from Fincantieri’s network of experts to help further mature the solution and explore its potential application within Fincantieri.\n• Connect with leading technical talent from industry, academia, venture capital and the defense innovation ecosystem\n\nPartners & Ecosystem\n\n[The hackathon is powered by Fincantieri](https://www.fincantieri.com/en), [Mind The Bridge](https://mindthebridge.com/)[and Silicon Mountain](https://www.linkedin.com/company/silicon-mtn/posts/?feedView=all).\n\nQualcomm is the main technology sponsor, supporting participants with hardware, development resources and technology expertise throughout the event.\n\nAdditional experts from Fincantieri, academia, industry, venture capital and the defense innovation ecosystem will support teams through mentoring and judgin\n\n:\n- • 48 hours of hands-on building and prototyping\n• Real technical challenges provided by Fincantieri\n• Access to Qualcomm and Arduino hardware and development resources\n• Mentors and domain experts supporting teams throughout the event\n• Collaboration with engineers, founders, and researchers\n• A Qualcomm-powered laptop prize for the winning team\n• Potential follow-on development opportunities for the most promising concepts\n\nNo maritime background is required. However, this is a hands-on technical hackathon, and participants should be ready to contribute directly through software development, AI/ML, embedded systems, cybersecurity, robotics, engineering, CAD/optimization, product design or prototyping.\n\nCome with a team or find one at the event.\n\nTo help us maintain an accurate headcount, a $20 refundable deposit is required to reserve your spot. The deposit will be fully refunded when you attend the event.\n\nSpots are limited — register early to secure your place.",
-    "startDate": "2026-10-16T23:30:00.000Z",
-    "endDate": "2026-10-18T23:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "Mind the Bridge, 450 Townsend St, San Francisco, CA 94107, USA",
-    "url": "https://luma.com/mvcg9eyw",
-    "registrationUrl": "https://luma.com/mvcg9eyw",
-    "coverImage": "/events/luma-crypto-t8jvg7h5xiejmql-e963d79a.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Mind the Bridge",
-      "Luisa Caluri",
-      "Silicon Mountain"
-    ],
-    "price": "USD 20",
-    "approvalRequired": true,
-    "timezone": "America/Los_Angeles",
-    "neighborhood": "SoMa",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Mind the Bridge",
-    "streetAddress": "450 Townsend St, San Francisco",
-    "addressLocality": "San Francisco",
-    "addressRegion": "California",
-    "addressCountry": "US",
-    "coordinates": {
-      "latitude": 37.7745604,
-      "longitude": -122.39847379999999
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/mvcg9eyw",
-        "price": 20,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/mvcg9eyw",
-      "eventId": "evt-T8jvG7h5xieJmQL",
-      "fetchedAt": "2026-09-19T23:49:09.795Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-KdgiJ5gO82TXRB9",
     "slug": "la3agghs",
     "name": "Local Align #3 — AI × GTM Growth Hackathon & Social",

@@ -142,98 +142,6 @@
       }
     },
     {
-      "id": "luma-crypto-T8jvG7h5xieJmQL",
-      "oldSlug": "fmduh",
-      "slug": "maritime-dual-use-hackathon",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 3977,
-      "characters": 3977,
-      "factChanges": {
-        "ticketOffers": [
-          {
-            "name": "No-Show Fee",
-            "url": "https://luma.com/mvcg9eyw",
-            "price": 20,
-            "priceCurrency": "USD",
-            "availability": "InStock"
-          }
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/mvcg9eyw",
-        "fetchedAt": "2026-10-12T11:25:06.813Z",
-        "status": 200,
-        "sha256": "11f44aff8a5d2ce434c271f9f93de3556386bb4e5344d954c4f95939bc4eeb0b"
-      }
-    },
-    {
-      "id": "premier-edcon-2026",
-      "oldSlug": "edcon",
-      "slug": "edcon",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 742,
-      "characters": 742,
-      "source": {
-        "url": "https://www.edcon.io/en/",
-        "fetchedAt": "2026-10-12T11:25:06.826Z",
-        "status": 200,
-        "sha256": "f256397f2d4d83240db0c9be15dbf2ef2ee56d6aff9d5c1f71e536e3ad8e97fd"
-      }
-    },
-    {
-      "id": "luma-batch-evtMhB5lf6PHMKPk",
-      "oldSlug": "f6xhhyld",
-      "slug": "monad-blitz-medellin",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 738,
-      "characters": 738,
-      "factChanges": {
-        "locationHidden": false,
-        "city": "Medellín",
-        "venueName": "Indie Universe - Hotel for creators in laureles",
-        "streetAddress": "Av. Nutibara #71-25, Laureles - Estadio, Medellín",
-        "addressLocality": "Medellín",
-        "addressRegion": "Antioquia",
-        "addressCountry": "CO",
-        "neighborhood": "Laureles",
-        "coordinates": {
-          "latitude": 6.241141,
-          "longitude": -75.59197619999999
-        },
-        "hosts": [
-          "Medellin Blockchain Community",
-          "Monad Foundation"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "Medellin Blockchain Community Events",
-          "url": "https://luma.com/medellinblockchain"
-        },
-        "approvalRequired": false,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/f6xhhyld",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/f6xhhyld",
-        "fetchedAt": "2026-10-12T11:25:08.167Z",
-        "status": 200,
-        "sha256": "d23b9ea1b005513ff0f8f7f8d54601055c89fb8381fe8482d43cc96a9e930800"
-      }
-    },
-    {
       "id": "ma-money-20-20-usa",
       "oldSlug": "m22u",
       "slug": "money2020-usa",
@@ -248,23 +156,6 @@
         "status": 200,
         "sha256": "32f99a73b0b50c432cb714eeb338cbf7b93a4f61c340c0cb96157298810f1488"
       }
-    },
-    {
-      "id": "premier-ibt-chennai-2026",
-      "oldSlug": "ibt-chennai",
-      "slug": "ibt-chennai",
-      "candidate": true,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 2664,
-      "characters": 409,
-      "source": {
-        "url": "https://indiablockchaintour.com/",
-        "fetchedAt": "2026-10-12T11:25:08.851Z",
-        "status": 200,
-        "sha256": "93ac972b8925ea7b59a0ee13c1d7fc1d6a63bb192b125cc02d72f0b1841bd2c9"
-      },
-      "note": "City ticket URL returned tour-wide content; city-specific agenda and venue remain unverified."
     },
     {
       "id": "luma-batch-DDSCOZ2CsESUtZA",

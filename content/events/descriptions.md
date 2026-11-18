@@ -47,26 +47,6 @@ The announced Web3-related programs include Cross Margin Labs' Aqua0 DeFi reside
 
 Applications are reviewed on a rolling basis. Accepted applicants receive a ticket-purchase link, and payment confirms their place. Tickets include village programming, coworking and community activities, but not accommodation or most meals. Joining a residency is optional. Tickets are non-refundable; the organizer allows date changes or transfers to another attendee. Daily clock times are not confirmed for the village as a whole.
 
-<a id="event-73a127e5fe65ae21"></a>
-
-## EDCON 2026
-
-- Record: `premier-edcon-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-17T09:00:00+08:00
-- Description: Source-backed
-- Original page: <https://www.edcon.io/>
-
-### About the event
-
-EDCON 2026 takes place on October 17 and 18 at Menara KEN TTDI, Level 2, in Kuala Lumpur. The published program includes Ethereum talks, lightning sessions, panels and hands-on workshops. Doors open at 09:30 each day and sessions begin at 10:00. All times are local to Kuala Lumpur.
-
-Saturday covers practical read privacy with Steffen Kux, AI's social impacts with Bing of Lodestar, parallel execution, shared liquidity and the intersection of traditional finance and DeFi. Afternoon sessions include verified wallet simulation, AI-assisted security triage and an Etherscan Flow workshop with Harith, followed by a student blockchain-club panel.
-
-Sunday includes Arbitrum builder support, decentralized social networks, sovereign AI and a Partitioned Binary Tree talk by Ashraf of Nethermind. Suji Yan discusses social protocols, WenKang covers offchain components for dApps, and Nic leads a build-with-AI tools workshop. The day closes with a White Paper Reading Club from 16:00 to 18:00.
-
-Tickets are linked from the organizer's website to its Luma registration page. Check the published agenda for the final order of sessions.
-
 <a id="event-ee48506916430ec6"></a>
 
 ## Money20/20 USA
@@ -82,24 +62,6 @@ Tickets are linked from the organizer's website to its Luma registration page. C
 Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together banking, payments, technology, retail and fintech participants. The current agenda highlights agentic AI, fraud, finance as a service, payments and regulation. Announced speakers include PNC chairman and CEO William Demchak, Early Warning CEO Cameron Fowler and Adyen chief risk and compliance officer Mariëtte Swart.
 
 Attendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.
-
-<a id="event-5ecdadb4607140a3"></a>
-
-## India Blockchain & AI Tour 2026 — Chennai
-
-- Record: `premier-ibt-chennai-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-18T10:00:00+05:30
-- Description: Source-backed
-- Original page: <https://indiablockchaintour.com/2026-nodes/chennai>
-- Original page: <https://indiablockchaintour.com/2026-nodes/chennai/ticket>
-- Original page: <https://indiablockchaintour.com/>
-
-### About the event
-
-The Chennai stop of India Blockchain & AI Tour is part of Octaloop's fifth national tour. It brings the tour's focus on Web3 and AI to the local community of builders, founders and industry participants.
-
-The linked organizer page currently shows tour-wide information rather than a Chennai session program. Confirm the city venue, hours and ticket conditions through the organizer before making travel plans.
 
 <a id="event-8b88820248c00987"></a>
 
@@ -9119,24 +9081,6 @@ Registration and admission
 
 Tickets are free via Luma and subject to venue capacity limits. Registration is free and requires host approval. Guests receive the full venue coordinates and dress code details upon confirmation.
 
-<a id="event-0ebd2c3fcef9d46c"></a>
-
-## Road to Devcon India \| Bhopal Edition
-
-- Record: `india-luma-6tjoddyg`
-- Source: [india-luma-events.json](sources/india-luma-events.json)
-- Starts: 2026-10-18T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/6tjoddyg>
-
-### About the event
-
-A36 Labs hosts the Bhopal edition of Road to Devcon India at Sheryians Coding School on October 18, 2026, from 15:00 to 18:00 IST. The event is free, with host approval required. Developers, students, founders, designers, researchers and open-source contributors are invited.
-
-The published program covers Ethereum and CROPS values, developer tools, grants, jobs and builder opportunities. Sessions include getting started with open-source contributions, lightning demos from local builders and guidance on preparing for Devcon 8.
-
-Up to 15 builders can present a short product demo. The organizer advertises Devcon 8 tickets worth $350 each for the top three demos. Event photography and filming are planned; attendees may tell the team if they prefer not to be recorded.
-
 <a id="event-ce7b539118446278"></a>
 
 ## Road to Devcon India \| Pune Edition
@@ -9503,76 +9447,6 @@ The dinner takes place at a private dining room in central Mumbai on Thursday ev
 ### Registration and admission
 
 Registration is strictly approval-based with a hard ceiling on attendance. Inquiries and RSVPs are verified privately to maintain confidentiality. Approved guests receive private venue details.
-
-<a id="event-940827b168b36c9a"></a>
-
-## Maritime Dual-Use Hackathon
-
-- Record: `luma-crypto-T8jvG7h5xieJmQL`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-16T23:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/mvcg9eyw>
-
-### About the event
-
-The Fincantieri Maritime Dual-Use Hackathon comes to San Francisco, October 16-18.
-
-Following the first edition in Rome, which brought together 70+ participants, including Italian Navy engineers, and produced five working prototypes, the challenge now crosses the Atlantic to the Bay Area's deep-tech ecosystem.
-
-Over 48 hours, engineers, developers, founders, researchers and designers will form teams to build working solutions around real maritime and defense engineering challenges, with access to technical mentors, development hardware and potential opportunities to continue developing the strongest concepts beyond the event
-
-Challenge Tracks
-
-1. OT Cybersecurity & Blast Radius Analysis
-2. Piping Layout Optimization
-3. Software-Defined Vesse
-
-Build with Real Hardware
-
-Participants will have access to a selection of Qualcomm and Arduino technologies during the hackathon, including Snapdragon-powered laptops, edge AI and robotics development platforms, Arduino prototyping hardware and supporting developer tools.
-
-These tools are intended for hands-on technical development. Participants with experience in areas such as software development, embedded systems, electronics, robotics, edge AI, computer vision or hardware prototyping will be best positioned to take full advantage of them.
-
-Qualcomm and Arduino technologies will be introduced during the opening session so teams can quickly understand the available resources and integrate hardware, edge AI, computer vision, sensors or robotics into their prototypes.
-
-Exact hardware configurations will be shared with participants ahead of the event
-
-More Than a 48-Hour Hackathon
-
-The goal is not only to build a prototype, but to identify ideas with the potential to continue developing after the event.
-
-- Work on real Fincantieri challenges with potential relevance to future maritime and defense applications.
-- Compete for a Qualcomm-powered laptop awarded to the winning team.
-- Develop your concept beyond the hackathon: selected promising prototypes may have the opportunity to continue evolving.
-- Access Fincantieri expertise: winning and particularly promising concepts may receive mentoring from Fincantieri's network of experts to help further mature the solution and explore its potential application within Fincantieri.
-- Connect with leading technical talent from industry, academia, venture capital and the defense innovation ecosystem
-
-Partners & Ecosystem
-
-[The hackathon is powered by Fincantieri](https://www.fincantieri.com/en), [Mind The Bridge](https://mindthebridge.com/)[and Silicon Mountain](https://www.linkedin.com/company/silicon-mtn/posts/?feedView=all).
-
-Qualcomm is the main technology sponsor, supporting participants with hardware, development resources and technology expertise throughout the event.
-
-Additional experts from Fincantieri, academia, industry, venture capital and the defense innovation ecosystem will support teams through mentoring and judgin
-
-:
-
-- - 48 hours of hands-on building and prototyping
-- Real technical challenges provided by Fincantieri
-- Access to Qualcomm and Arduino hardware and development resources
-- Mentors and domain experts supporting teams throughout the event
-- Collaboration with engineers, founders, and researchers
-- A Qualcomm-powered laptop prize for the winning team
-- Potential follow-on development opportunities for the most promising concepts
-
-No maritime background is required. However, this is a hands-on technical hackathon, and participants should be ready to contribute directly through software development, AI/ML, embedded systems, cybersecurity, robotics, engineering, CAD/optimization, product design or prototyping.
-
-Come with a team or find one at the event.
-
-To help us maintain an accurate headcount, a $20 refundable deposit is required to reserve your spot. The deposit will be fully refunded when you attend the event.
-
-Spots are limited - register early to secure your place.
 
 <a id="event-6f01feb5412bd4d8"></a>
 
@@ -17208,45 +17082,6 @@ Web3 Devs Underground Monthly Meetup, at our home, Startup Nation Central. About
 
 - Location: Startup Nation Central, Lilienblum 28, Tel Aviv ABOUT WEB3 DEVS UNDERGROUND Israel's largest technical community for Web3 developers. By builders, for builders: talks from the people building the tech. 50+ events since 2022, free and open to everyone. Founded by Shauli Rejwan and Roy Osherove. Powered by Masterkey VC
 
-<a id="event-3aa70aa8a9704ea9"></a>
-
-## Hong Kong Crypto Compliance & Legal Community Drinks 🍷
-
-- Record: `luma-crypto-cnwHGaAliHIMYkq`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-12-10T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/99oa9hwk>
-
-### About the event
-
-Join us on Thursday, December 10 from 6pm onwards for a relaxed evening of drinks and conversation with the Hong Kong Crypto Compliance & Legal Community.
-
-This informal meetup is all about bringing together compliance, legal, policy, financial crime and regulatory professionals working across the digital asset ecosystem. It's a chance to connect with peers, exchange ideas, share experiences and build meaningful relationships; and this time you want to add some pre Halloween vibes lol
-
-There's n
-
-:
-
--, no panels - just good conversations and a welcoming crowd.
-
-Expect:
-
-- A friendly and relaxed atmosphere
-- Conversations on crypto compliance, legal and regulatory developments
-- Opportunities to connect with professionals from across the digital asset ecosystem
-- A chance to unwind after work over a glass of wine or a beer
-
-Whether you're working at a crypto company, bank, law firm, regulator or advisory firm, we'd love to have you join us.
-
-Drinks are pay-as-you-go. Come by, bring a colleague, and let's continue growing the Hong Kong Crypto Compliance & Legal Community together.
-
-### About the Crypto Compliance & Legal Community
-
-The Crypto Compliance & Legal Community brings together compliance, legal, policy and regulatory professionals from across the digital asset industry.
-
-Our ambition is simple: bring together the right people in the room to have honest conversations, share experiences and build meaningful relationships. Through regular meetups and our global Telegram community of more than 3,300 members, we're building a trusted network for professionals shaping the future of digital assets.
-
 <a id="event-ea63687b38251128"></a>
 
 ## Solana Social Mixer
@@ -17771,28 +17606,6 @@ Herramientas para usar Bitcoins
 Consejos de prevención de estafas
 
 AMA Final
-
-<a id="event-261f6bea2a533f70"></a>
-
-## Monad Blitz Medellin V2
-
-- Record: `luma-batch-evtMhB5lf6PHMKPk`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-17T14:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/f6xhhyld>
-
-### About the event
-
-Un día para hackear, construir y demostrar de qué estás hecho.
-
-Monad Blitz es una hackathon de alto impacto donde los mejores desarrolladores y builders se reúnen para construir proyectos reales sobre Monad, una de las blockchains más rápidas del ecosistema Web3.
-
-Un día completo de desarrollo intenso: forma tu equipo, define tu idea y construye desde cero. Al final del día, presentas ante un jurado y los mejores proyectos se llevan el reconocimiento.
-
-### Event details
-
-Organized by Medellin Blockchain Community Events. Venue: Indie Universe - Hotel for creators in laureles, Indie Universe - Hotel for creators in laureles, Av. Nutibara #71-25, Laureles - Estadio, Medellín, Laureles, Medellín, Antioquia, Colombia. Tickets: Free.
 
 <a id="event-381adee8c46f5df8"></a>
 
@@ -20824,18 +20637,6 @@ You may leave with a partnership, a prototype, a new collaborator, or an entirel
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-a1e90c32cc98a22c"></a>
-
-## Agentic Dollars on Bitcoin
-
-- Record: `w3v-agentic-dollars-on-bitcoin`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-17T07:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://rgbprotocol.org/agentic-dollars-hackathon/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-f17c7abc355487c9"></a>
 
 ## Money 20/20 USA
@@ -20861,66 +20662,6 @@ Attendees can use Money20/20 Connect in the app or browser to book one-to-one me
 - Starts: 2026-10-18T03:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://hackindia.org/2026/hack-genesis-2026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-9b540c5590ec7351"></a>
-
-## Free women only hike: Siete Picos (moderate-hard)
-
-- Record: `luma-evt-UemBh6MGbhbQgud`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-18T07:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/il2yq5cy>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-3f5e808a962cc698"></a>
-
-## SuperteamTR \| Malatya Touch Grass 🌿
-
-- Record: `luma-host-evt-evt-8K1elqZrQ0GrkBa`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-18T10:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/vbywm11f>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5482d940eebd2262"></a>
-
-## Corte Madera - Bitcoin Meetup
-
-- Record: `mu-316893127`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-18T16:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/bay-area-bitcoiners/events/316893127/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-66f8c0f37ee628d3"></a>
-
-## TWIF Stablecoin Day
-
-- Record: `w3v-twif-stablecoin-day-powered-alcove-wallet-26-10-18`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-18T19:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/1yhb99bu>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5412e3152b686a40"></a>
-
-## Good Stocks.  Current Crypto strategy. Beginners welcome -
-
-- Record: `mu-316759259`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-18T21:00:00-04:00
-- Description: Missing
-- Original page: <https://www.meetup.com/boston_crypto-traders_and_investors/events/316759259/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31949,6 +31690,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ae121870d7610a0c"></a>
+
+## Blockchain.com: TYB Party
+
+- Record: `luma-evt-hlKrPIIiRiniy1E`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-17T20:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/blockc-eg04>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-01675da02c9dd8a2"></a>
 
 ## Blockchain.com: TYB Party
@@ -33079,6 +32832,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-0014fca8f2558577"></a>
+
+## Tech Weekend November 19-20, 2026 \| Menlo Park \| Silicon Valley
+
+- Record: `luma-evt-PmJe4ETjKx1suG7`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ycgqy17s>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d44aa25ddd722fa4"></a>
 
 ## B.O.B. Social with Ryan Kuester (Mujina)
@@ -33892,6 +33657,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-24
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.es/e/canas-y-charlas-podemos-controlar-nuestros-suenos-tickets-2004482148064>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-81249352f6fb13cc"></a>
+
+## Real Wealth, Real Impact: Web3, Crypto & AI CryptoMondays Austin × Media of Society
+
+- Record: `luma-evt-DkUQgSCZ9L6oy42`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/82cya82n>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34937,6 +34714,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5681ea77846a9d9a"></a>
+
+## CHROMATIC DIALOGUES
+
+- Record: `luma-evt-HTsLDg5t7F8BEHw`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-30T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/58ujn1wc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7079ab6e2bc52774"></a>
 
 ## Decrypting DeSci (Decentralized Science) \| Live Online Training
@@ -35578,6 +35367,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-07T15:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaArcadeSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e47f899d1ca1e47c"></a>
+
+## Maryland Blockchain Association & CryptoMondays Virtual Meetup
+
+- Record: `mu-317475406`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-07T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/www-marylandblockchainassociation-org/events/317475406/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

@@ -1,21 +1,5 @@
 [
   {
-    "url": "https://luma.com/6tjoddyg",
-    "file": "india-luma-events.json",
-    "id": "india-luma-6tjoddyg",
-    "slug": "road-to-devcon-bhopal-a36",
-    "description": "A36 Labs hosts the Bhopal edition of Road to Devcon India at Sheryians Coding School on October 18, 2026, from 15:00 to 18:00 IST. The event is free, with host approval required. Developers, students, founders, designers, researchers and open-source contributors are invited.\n\nThe published program covers Ethereum and CROPS values, developer tools, grants, jobs and builder opportunities. Sessions include getting started with open-source contributions, lightning demos from local builders and guidance on preparing for Devcon 8.\n\nUp to 15 builders can present a short product demo. The organizer advertises Devcon 8 tickets worth $350 each for the top three demos. Event photography and filming are planned; attendees may tell the team if they prefer not to be recorded.",
-    "contains": [
-      "Up to 15 builders",
-      "CROPS",
-      "top 3"
-    ],
-    "note": "The description's opening reuses Mumbai template text. The event title and public Sheryians Coding School location identify this as the Bhopal edition; no Mumbai location was imported.",
-    "sideEventFor": [
-      "devcon"
-    ]
-  },
-  {
     "url": "https://logos.co/field-station",
     "file": "curated-events.json",
     "id": "curated-field-station-rajasthan-2026",
