@@ -41,6 +41,9 @@
   "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
   "https://techxplore.com/news/2026-11-global-ai-chain-invisible.html",
   "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+  "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
+  "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
+  "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -125,6 +128,12 @@
   "A third of the global AI supply chain is 'invisible' to governments, study finds",
   "AI-generated abuse material reports increase 8,400 percent",
   "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+  "Microsoft embeds Office inside Copilot as autonomous enterprise engine",
+  "At Ignite 2026, Microsoft reinvents Copilot as the autonomous engine of enterprise work",
+  "SID AI releases SID-2 agentic search model",
+  "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
+  "Perplexity adds multiagent system to Perplexity Computer workspace",
+  "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -166,5 +175,8 @@
   "fp:15b|250m|atlantic|automat|automation|bank|general|grunt|investment|investor",
   "fp:astra|complex|cost|everyday|gpt62|improv|lower|offer|openai|out",
   "fp:cambridg|chain|component|currently|find|global|government|identify|international|invisibl",
-  "fp:000|400|700|abus|child|childlight|content|from4|generat|in2023"
+  "fp:000|400|700|abus|child|childlight|content|from4|generat|in2023",
+  "fp:announc|application|automat|autonomous|copilot|cor|directly|emb|engin|execut",
+  "fp:achiev|agentic|architectur|benchmark|high|learn|mod|multi|ndcg|reinforcement",
+  "fp:add|allow|check|computer|concurrent|cross|divid|multiagent|multipl|perplexity"
 ]
