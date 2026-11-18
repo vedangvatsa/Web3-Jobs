@@ -153008,7 +153008,8 @@
       },
       "account": "channel:ai",
       "attemptId": "e15f3e06-cac2-44cc-9991-4bc6d8d696c9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5f7b28c213ab96b40ad5cb09735e71102e678931"
     }
   ]
 }
