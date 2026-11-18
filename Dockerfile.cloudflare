@@ -21,8 +21,10 @@ ENV FAH_FAST_PREBUILD=1 \
     NODE_ENV=production
 
 # Do not use `npm run build` — npm runs the `prebuild` lifecycle first, which rewrites
-# job-description-shards (EXDEV on Docker overlay FS). Match FAH's fast production path.
-RUN npx tsx scripts/run-production-build.ts
+# job-description-shards (EXDEV on Docker overlay FS). public/data/ is gitignored;
+# sync from content/ before the fast production path (same catalogs as FAH ingest).
+RUN npx tsx scripts/sync-public-catalog-assets.ts \
+  && npx tsx scripts/run-production-build.ts
 
 EXPOSE 8080
 CMD ["node", ".next/standalone/server.js"]
