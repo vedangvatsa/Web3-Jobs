@@ -184087,7 +184087,35 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18"
+      "nextReviewDate": "2026-11-18",
+      "articleSlug": "tokenizedaml",
+      "draftProgress": {
+        "id": "37070f03b6a63374a463",
+        "day": "2026-11-18",
+        "articleSlug": "tokenizedaml",
+        "note": "Read the full Nov 16 Alsobrooks press release including the letter text (primary), Cointelegraph's Nov 17 report and TokenPost's Nov 16 report; verified the four senators, the 13 questions in 30 days, the AML/KYC and token-level transfer gaps and the over-sixty-issuer objection figure. The Block URL stays 403. Draft and image still to be produced.",
+        "sourceChecks": [
+          {
+            "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.tokenpost.com/news/regulation/58817",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-18T01:48:49.713Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e2f820d45dbf898f2aee": {
       "source": "Crypto Briefing",
