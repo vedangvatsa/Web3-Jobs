@@ -181924,13 +181924,13 @@
         "The Defiant"
       ],
       "id": "3967a68c66a363d144df",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T02:33:07.000Z",
       "lastSeenAt": "2026-11-16T03:31:31.782Z",
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: luxorhack.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Rewrote the draft to pass quality gates (650+ words) after the previous under-600-word isolation. Rechecked this round: Cointelegraph's Nov 16 report (Commander breach scope, unconfirmed 64,000-machine figure, Hansen X quotes, Chainalysis/Anthropic context) and Crypto Briefing's Nov 15 report (6 PM PDT Nov 14 start, two-hour patch, 0.162 BTC payout, 13 EH/s estimate, no data exfiltrated); all outbound links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
@@ -181941,17 +181941,16 @@
           "outcome": "read"
         },
         {
-          "url": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
-          "outcome": "blocked"
+          "url": "https://commons.wikimedia.org/wiki/File:Hut_8_Medicine_Hat_box_1.jpg",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-16T05:18:03.554Z",
+      "reviewedAt": "2026-11-18T02:12:06.987Z",
       "articleSlug": "luxorhack",
-      "lastReviewedDay": "2026-11-16",
+      "lastReviewedDay": "2026-11-18",
       "retrySearches": [
         "Repair and revalidate the preserved luxorhack draft against its original sources: luxorhack.md: under 600 words"
       ],
-      "nextReviewDate": "2026-11-17",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -181978,6 +181977,25 @@
           "luxorhack.md: under 600 words"
         ],
         "isolatedAt": "2026-11-16T05:18:03.554Z"
+      },
+      "draftProgress": {
+        "id": "3967a68c66a363d144df",
+        "day": "2026-11-18",
+        "articleSlug": "luxorhack",
+        "note": "Rechecked Cointelegraph Nov 16 and Crypto Briefing Nov 15 reports in full; draft rewrite in progress.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-18T02:08:06.141Z",
+        "approved": false,
+        "mustReview": true
       }
     },
     "455d609ac8c70330e8e1": {
@@ -184299,9 +184317,9 @@
         "The Defiant"
       ],
       "id": "0b212741b99845e2397a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T23:27:15.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "backpackcftc",
@@ -184324,8 +184342,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing). Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Rewrote the draft to pass quality gates (700+ words, no banned phrasing) after the previous under-600-word isolation. Rechecked this round: the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing (d/b/a Backpack Clearing) DCO registration order (margined futures permission and member-fund segregation read from the PDF text), and Crypto Briefing's Nov 16 report with all quotes and plans; all outbound links return HTTP 200. The tZERO half stays excluded for lack of a readable source.",
       "sourceChecks": [
         {
           "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
@@ -184340,20 +184358,15 @@
           "outcome": "read"
         },
         {
-          "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://thedefiant.io/news/regulation/cftc-approves-backpack-s-blockchain-derivatives-venue",
-          "outcome": "blocked"
+          "url": "https://commons.wikimedia.org/wiki/File:Washington_DC_ESA385709.jpg",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-17T04:19:57.931Z",
-      "lastReviewedDay": "2026-11-17",
+      "reviewedAt": "2026-11-18T02:12:06.987Z",
+      "lastReviewedDay": "2026-11-18",
       "retrySearches": [
         "Repair and revalidate the preserved backpackcftc draft against its original sources: backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing)"
       ],
-      "nextReviewDate": "2026-11-18",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -369155,6 +369168,52 @@
           ],
           "reviewedAt": "2026-11-18T02:06:27.662Z",
           "articleSlug": "dbskinexys"
+        },
+        "0b212741b99845e2397a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rewrote the draft to pass quality gates (700+ words, no banned phrasing) after the previous under-600-word isolation. Rechecked this round: the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing (d/b/a Backpack Clearing) DCO registration order (margined futures permission and member-fund segregation read from the PDF text), and Crypto Briefing's Nov 16 report with all quotes and plans; all outbound links return HTTP 200. The tZERO half stays excluded for lack of a readable source.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Washington_DC_ESA385709.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:12:06.987Z",
+          "articleSlug": "backpackcftc"
+        },
+        "3967a68c66a363d144df": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rewrote the draft to pass quality gates (650+ words) after the previous under-600-word isolation. Rechecked this round: Cointelegraph's Nov 16 report (Commander breach scope, unconfirmed 64,000-machine figure, Hansen X quotes, Chainalysis/Anthropic context) and Crypto Briefing's Nov 15 report (6 PM PDT Nov 14 start, two-hour patch, 0.162 BTC payout, 13 EH/s estimate, no data exfiltrated); all outbound links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Hut_8_Medicine_Hat_box_1.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:12:06.987Z",
+          "articleSlug": "luxorhack"
         }
       },
       "baselineSlugs": [
