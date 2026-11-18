@@ -183560,9 +183560,9 @@
       "articleSlug": "megaspeed",
       "draftProgress": {
         "id": "f8b62b8b6bccbda8ae91",
-        "day": "2026-11-16",
+        "day": "2026-11-18",
         "articleSlug": "megaspeed",
-        "note": "Two independent sources read: Crypto Briefing Nov. 15 (statement dated Nov. 15 confirms Huang left effective Aug. 30, 2025; first direct statement; internal probe context) and The Guardian Nov. 15 (same statement, external counsel internal investigation, Singapore/Taiwan entry bans context). AP returned 403/Cloudflare; The Defiant returned 403. Concrete event qualifies; draft and hero image still pending.",
+        "note": "Re-read both sources in full this session: Crypto Briefing Nov. 15 (statement dated Nov. 15 confirms Alice Huang left effective Aug. 30, 2025; first direct statement; MHA espionage exclusion; Jensen Huang Nov. 8 letter) and The Guardian Nov. 15 (same statement, external counsel internal investigation, USbn chip purchases, senator request). Both HTTP 200. Draft, hero image and audits still needed; outcome remains pending.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/megaspeed-confirms-alice-huang-departure/",
@@ -183573,7 +183573,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-16T04:39:39.333Z",
+        "updatedAt": "2026-11-18T04:32:05.056Z",
         "approved": false,
         "mustReview": true
       }
@@ -186385,7 +186385,7 @@
         "id": "47119aef8be852650962",
         "day": "2026-11-18",
         "articleSlug": "bitmineeth",
-        "note": "Re-read both sources in full this session: Bitmine PR Newswire release of Nov. 16 (6,077,745 ETH at ,823, 4.97% of supply, 1.8B total holdings, Lee 'waterfall decline' quotes, Nvidia margin-selling and Anthropic IPO reasoning) and Decrypt Nov. 16 (7,653 ETH bought this week, holdings down from 4.3B a week earlier, 5,227,037 ETH staked via MAVAN). Both HTTP 200. Draft, hero image and audits still needed; outcome remains pending.",
+        "note": "Re-read both sources in full this session: Bitmine PR Newswire release of Nov. 16 (6,077,745 ETH at 1,823 USD, 4.97% of supply, 11.8 billion USD total holdings, Lee \"waterfall decline\" quotes, Nvidia margin-selling and Anthropic IPO reasoning) and Decrypt Nov. 16 (7,653 ETH bought this week, holdings down from 14.3 billion USD a week earlier, 5,227,037 ETH staked via MAVAN). Both HTTP 200. Draft, hero image and audits still needed; outcome remains pending.",
         "sourceChecks": [
           {
             "url": "https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-08-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-11-8-billion-302940161.html",
@@ -186396,7 +186396,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-18T04:32:03.600Z",
+        "updatedAt": "2026-11-18T04:32:14.771Z",
         "approved": false,
         "mustReview": true
       }
