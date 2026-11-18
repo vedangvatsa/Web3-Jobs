@@ -493,5 +493,36 @@
     "slotKey": "2026-11-18:afternoon",
     "messageId": 65840,
     "sentAt": "2026-11-18T11:33:00.427Z"
+  },
+  "474991c1-f1c7-46b4-9e39-c1764c04c0df": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T19:33:30.740Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Approves Backpack for US Crypto Derivatives Exchange",
+        "summary": "The company plans to offer 24/7 margined futures to US customers but has not set a launch date.",
+        "link": "https://hashtagweb3.com/backpackcftc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Approves Backpack's Blockchain-Based Derivatives Exchange and Clearinghouse"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase Launches ChatGPT Plugin for Trading",
+        "summary": "U.S. users can link accounts to buy crypto and stocks using the chat interface with trade confirmations.",
+        "link": "https://hashtagweb3.com/chatgptplug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives"
+      },
+      {
+        "index": -1,
+        "headline": "DBS and JPMorgan launch 24/7 tokenized dollar transfers",
+        "summary": "Ant International is the first client moving dollar deposits between Singapore and the US using the linked networks.",
+        "link": "https://hashtagweb3.com/dbskinexys?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DBS and JPMorgan launch 24/7 tokenized deposit transfers between Singapore and the US"
+      }
+    ],
+    "slotKey": "2026-11-18:evening"
   }
 }
