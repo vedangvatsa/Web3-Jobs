@@ -152337,6 +152337,48 @@
       "attemptId": "95db23c7-f42b-4fe6-823c-167ef9c3881a",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "sec169",
+      "company": "Kraken",
+      "title": "Sr. Security Risk Management Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-18T11:33:12.766Z",
+      "expectedText": "Kraken is hiring Sr. Security Risk Management Analyst: https://hashtagweb3.com/sec169/li?og=7",
+      "snapshot": {
+        "id": "026f97dc-e750-4dd8-9e40-f1a99614fae9",
+        "title": "Sr. Security Risk Management Analyst",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/026f97dc-e750-4dd8-9e40-f1a99614fae9",
+        "date": "2026-11-12T14:47:01.066+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Security & IT",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec169"
+      },
+      "payload": {
+        "text": "Kraken is hiring Sr. Security Risk Management Analyst: https://hashtagweb3.com/sec169/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec169/li?og=7",
+          "title": "Sr. Security Risk Management Analyst at Kraken",
+          "description": "Join Kraken as Sr. Security Risk Management Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec169.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "50288292-2eec-47cc-9615-2b911c085732",
+      "verification": "creating"
     }
   ]
 }
