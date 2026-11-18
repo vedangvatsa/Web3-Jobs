@@ -777,34 +777,6 @@
     }
   },
   {
-    "id": "luma-batch-DDSCOZ2CsESUtZA",
-    "slug": "superteam-0tbb",
-    "name": "What's Next After Colosseum?",
-    "description": "The submission is in. Now what?\n\nMost hackathon projects die in the fortnight after the deadline. This session is about the ones that don't.\n\nWe'll cover what's available once you have a working submission: Solana Foundation programs, grants, accelerators, and the introductions Superteam Australia can make. We'll also talk plainly about the harder question — whether the thing you built is worth continuing, and what it would take.\n\nOpen to everyone who entered, whether or not you placed. Bring the question you've been avoiding.\n\nWho it's for: Anyone who submitted to Colosseum.\n\nYou'll leave with: A realistic set of next steps, and the introductions to start them.\n\nFree and open.\n\nhttps://au.superteam.fun/colosseum for more information",
-    "startDate": "2026-10-19T07:00:00.000Z",
-    "endDate": "2026-10-19T08:00:00.000Z",
-    "url": "https://luma.com/superteam-0tbb",
-    "registrationUrl": "https://luma.com/superteam-0tbb",
-    "coverImage": "/events/luma-batch-DDSCOZ2CsESUtZA-2c0ff5dd.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Darren R",
-      "Superteam Australia"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Australia/Sydney",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-0tbb",
-      "eventId": "calev-DDSCOZ2CsESUtZA",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-OZx1friXAoHVZKN",
     "slug": "fdvdqkq9",
     "name": "Rust Melbourne Meetup",

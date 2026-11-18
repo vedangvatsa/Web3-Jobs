@@ -163,42 +163,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-DDSCOZ2CsESUtZA": {
-    "name": "What's Next After Colosseum?",
-    "startDate": "2026-10-19T07:00:00.000Z",
-    "endDate": "2026-10-19T08:00:00.000Z",
-    "timezone": "Australia/Sydney",
-    "registrationUrl": "https://luma.com/superteam-0tbb",
-    "visibility": "public",
-    "locationHidden": false,
-    "location": "Location to be announced",
-    "hosts": [
-      "Darren R",
-      "Superteam Australia"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Australia",
-      "url": "https://superteam.fun/"
-    },
-    "price": "Free",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/superteam-0tbb",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/superteam-0tbb",
-      "eventId": "evt-j7UrTorbIuh8inW",
-      "fetchedAt": "2026-10-12T11:41:08.854Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-evtFpoA3O65CsEdJ": {
     "name": "Blockstories Horizon 2026: Frankfurt Summit 🇩🇪",
     "startDate": "2026-10-19T15:00:00.000Z",

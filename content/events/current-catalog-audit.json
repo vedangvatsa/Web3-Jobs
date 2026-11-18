@@ -158,40 +158,6 @@
       }
     },
     {
-      "id": "luma-batch-DDSCOZ2CsESUtZA",
-      "oldSlug": "superteam-0tbb",
-      "slug": "whats-next-after-colosseum",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 743,
-      "characters": 743,
-      "factChanges": {
-        "locationHidden": false,
-        "location": "Location to be announced",
-        "organizer": {
-          "type": "Organization",
-          "name": "Superteam Australia",
-          "url": "https://superteam.fun/"
-        },
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/superteam-0tbb",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/superteam-0tbb",
-        "fetchedAt": "2026-10-12T11:41:08.854Z",
-        "status": 200,
-        "sha256": "caeee24e85b5e338eed6353bdf3e4bb49c64553dfc4d264d4e49de74f68770fc"
-      }
-    },
-    {
       "id": "luma-batch-evtFpoA3O65CsEdJ",
       "oldSlug": "horizonfrankfurtsummit",
       "slug": "horizonfrankfurtsummit",

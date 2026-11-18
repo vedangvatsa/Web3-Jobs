@@ -85,19 +85,6 @@
       ]
     },
     {
-      "id": "luma-batch-DDSCOZ2CsESUtZA",
-      "slug": "superteam-0tbb",
-      "name": "What's Next After Colosseum?",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/superteam-0tbb",
-        "fetchedAt": "2026-09-22T11:31:03.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "luma-batch-evtFpoA3O65CsEdJ",
       "slug": "horizonfrankfurtsummit",
       "name": "Blockstories Horizon 2026: Frankfurt Summit 🇩🇪",
