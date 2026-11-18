@@ -186765,11 +186765,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "8df3be1d6e7f2510eb31",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T01:16:54.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "out-of-scope",
+      "note": "Read Crypto Briefing's Nov 16 report: Vera Rubin NVL72 debuted in MLPerf Training v6.1, leading all seven tests with up to 2x per-GPU gains over GB300 and a 4.14-minute DeepSeek-V3 run on 1,024 GPUs. This is an AI hardware benchmark story with no concrete crypto or Web3 event, and all three listed sources are Crypto Briefing, so there is no independent second outlet either.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nvidia-vera-rubin-mlperf-training-benchmarks/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:00:20.152Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "0295953b5334d63967e6": {
       "source": "Cointelegraph",
@@ -188947,11 +188957,21 @@
         "The Defiant"
       ],
       "id": "e0f61ab294679247179d",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T13:30:00.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "opinion",
+      "note": "Read Cointelegraph Magazine's Nov 16 feature: it is an analysis piece assembling executive quotes, Apollo's Torsten Slok September warning and an OCC Nov 4 supervisory framework into commentary on agentic banking. It reports no discrete new event of its own (no vote, ruling, launch or filing), so it fails the concrete-event test; the Fed Barr speech cited by sibling sources is commentary as well.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:00:20.153Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "acace98373044723999f": {
       "source": "The Defiant",
@@ -369005,6 +369025,30 @@
           ],
           "reviewedAt": "2026-11-18T01:59:48.688Z",
           "articleSlug": "lighterhalt"
+        },
+        "8df3be1d6e7f2510eb31": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Crypto Briefing's Nov 16 report: Vera Rubin NVL72 debuted in MLPerf Training v6.1, leading all seven tests with up to 2x per-GPU gains over GB300 and a 4.14-minute DeepSeek-V3 run on 1,024 GPUs. This is an AI hardware benchmark story with no concrete crypto or Web3 event, and all three listed sources are Crypto Briefing, so there is no independent second outlet either.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nvidia-vera-rubin-mlperf-training-benchmarks/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:00:20.152Z"
+        },
+        "e0f61ab294679247179d": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read Cointelegraph Magazine's Nov 16 feature: it is an analysis piece assembling executive quotes, Apollo's Torsten Slok September warning and an OCC Nov 4 supervisory framework into commentary on agentic banking. It reports no discrete new event of its own (no vote, ruling, launch or filing), so it fails the concrete-event test; the Fed Barr speech cited by sibling sources is commentary as well.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:00:20.153Z"
         }
       },
       "baselineSlugs": [
