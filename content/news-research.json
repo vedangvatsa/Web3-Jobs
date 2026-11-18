@@ -183552,9 +183552,9 @@
         "The Defiant"
       ],
       "id": "f8b62b8b6bccbda8ae91",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T18:06:36.000Z",
       "lastSeenAt": "2026-11-16T03:31:31.782Z",
       "articleSlug": "megaspeed",
@@ -183576,7 +183576,21 @@
         "updatedAt": "2026-11-18T04:32:05.056Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Reopened Crypto Briefing's Nov. 15 report (statement dated Nov. 15 confirming departure effective Aug. 30, 2025, corporate paper trail, US intelligence assessment, Singapore espionage exclusion, Jensen Huang Nov. 8 letter and Nov. 12 resignation, export probe) and the Guardian's Nov. 15-16 report (full statement quotes, external counsel, Singapore passport hold and re-entry ban, Taiwan ban, US$5B chip purchases, senator request, Malaysia subsidiary probe, DOJ and Trump comments, Beijing rejection). Wrote megaspeed.md with a self-hosted Stanford photo of Jensen Huang; quality, image, formatting and duplicate audits show no issues for this file and both cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/megaspeed-confirms-alice-huang-departure/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:36:35.276Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "b28623fc0412f222b3ba": {
       "source": "Crypto Briefing",
@@ -186375,9 +186389,9 @@
         "Decrypt"
       ],
       "id": "47119aef8be852650962",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T15:00:18.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "bitmineeth",
@@ -186399,7 +186413,21 @@
         "updatedAt": "2026-11-18T04:32:14.771Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Reopened the Bitmine PR Newswire release of Nov. 16 (6,077,745 ETH at $1,823, 4.97% of 122.2M supply, 7,653 ETH bought in the week, $11.8B total, 5,227,037 ETH staked, Lee's waterfall-decline and Nvidia/Anthropic IPO reasoning, SpaceX IPO comparison, 216 BTC, $448M cash, $180M Beast and $67M Eightco stakes) and Decrypt's Nov. 16 report (total down from $14.3B a week earlier, purchase worth about $14 million, staking revenue projection). Wrote bitmineeth.md with a self-hosted Consensus 2026 Tom Lee photo; quality, image, formatting and duplicate audits show no issues for this file and both cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-08-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-11-8-billion-302940161.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:36:35.276Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "99117e98abb989b5f250": {
       "source": "Cointelegraph",
@@ -188165,11 +188193,23 @@
         "Unchained"
       ],
       "id": "83c2183cde77122a44da",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T21:26:19.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "duplicate",
+      "note": "The reported event (withdrawals resuming after the API-key theft) is already covered by the existing Lighter article, whose headline and body report the restored withdrawals, the 10.39 million USDC drained from the contract, the leaked trader API key and the roughly $5 million recovered.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:36:35.277Z",
+      "duplicateOf": "lighterhalt",
+      "mergedInto": "193b8cbf43d59809d916",
+      "lastReviewedDay": "2026-11-18"
     },
     "643e139c1f738662a71b": {
       "source": "The Defiant",
@@ -188370,11 +188410,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "b19855f9f146639aa29b",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T20:58:05.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "price-chatter",
+      "note": "Both linked items are the same Bankless weekly newsletter about a broad market downturn; it is a price roundup and commentary, not a concrete event such as a launch, vote, ruling, filing, hack or raise.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/cryptos-worst-week-since-june-newsletter",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:36:35.277Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "de48984f657e5e988d43": {
       "source": "Crypto Briefing",
@@ -188459,11 +188509,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "771874bc52128da7fc2e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T20:42:37.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "not-a-concrete-event",
+      "note": "The Crypto Briefing item is a preview of Nvidia's upcoming quarterly results and market expectations; the second listed source is unrelated ARK portfolio reporting. A scheduled earnings preview is a prediction piece, not a completed event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/nvidia-q3-earnings-sp-500-preview/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:36:35.277Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "4c5c14b365cb257f2fb4": {
       "source": "Cointelegraph",
@@ -370406,6 +370466,78 @@
           ],
           "reviewedAt": "2026-11-18T04:31:32.738Z",
           "articleSlug": "huangreturn"
+        },
+        "47119aef8be852650962": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reopened the Bitmine PR Newswire release of Nov. 16 (6,077,745 ETH at $1,823, 4.97% of 122.2M supply, 7,653 ETH bought in the week, $11.8B total, 5,227,037 ETH staked, Lee's waterfall-decline and Nvidia/Anthropic IPO reasoning, SpaceX IPO comparison, 216 BTC, $448M cash, $180M Beast and $67M Eightco stakes) and Decrypt's Nov. 16 report (total down from $14.3B a week earlier, purchase worth about $14 million, staking revenue projection). Wrote bitmineeth.md with a self-hosted Consensus 2026 Tom Lee photo; quality, image, formatting and duplicate audits show no issues for this file and both cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-08-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-11-8-billion-302940161.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:36:35.276Z",
+          "articleSlug": "bitmineeth"
+        },
+        "f8b62b8b6bccbda8ae91": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reopened Crypto Briefing's Nov. 15 report (statement dated Nov. 15 confirming departure effective Aug. 30, 2025, corporate paper trail, US intelligence assessment, Singapore espionage exclusion, Jensen Huang Nov. 8 letter and Nov. 12 resignation, export probe) and the Guardian's Nov. 15-16 report (full statement quotes, external counsel, Singapore passport hold and re-entry ban, Taiwan ban, US$5B chip purchases, senator request, Malaysia subsidiary probe, DOJ and Trump comments, Beijing rejection). Wrote megaspeed.md with a self-hosted Stanford photo of Jensen Huang; quality, image, formatting and duplicate audits show no issues for this file and both cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/megaspeed-confirms-alice-huang-departure/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:36:35.276Z",
+          "articleSlug": "megaspeed"
+        },
+        "83c2183cde77122a44da": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "The reported event (withdrawals resuming after the API-key theft) is already covered by the existing Lighter article, whose headline and body report the restored withdrawals, the 10.39 million USDC drained from the contract, the leaked trader API key and the roughly $5 million recovered.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/lighter-says-withdrawals-resume-after-api-key-theft",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:36:35.277Z",
+          "duplicateOf": "lighterhalt",
+          "mergedInto": "193b8cbf43d59809d916"
+        },
+        "b19855f9f146639aa29b": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Both linked items are the same Bankless weekly newsletter about a broad market downturn; it is a price roundup and commentary, not a concrete event such as a launch, vote, ruling, filing, hack or raise.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/cryptos-worst-week-since-june-newsletter",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:36:35.277Z"
+        },
+        "771874bc52128da7fc2e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "The Crypto Briefing item is a preview of Nvidia's upcoming quarterly results and market expectations; the second listed source is unrelated ARK portfolio reporting. A scheduled earnings preview is a prediction piece, not a completed event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/nvidia-q3-earnings-sp-500-preview/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:36:35.277Z"
         }
       },
       "baselineSlugs": [
