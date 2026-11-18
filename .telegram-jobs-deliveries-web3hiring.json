@@ -3112,7 +3112,7 @@
     "sentAt": "2026-11-17T19:32:40.133Z"
   },
   "44c7a126-c8da-46a1-b13a-0d917ceb9e5f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-18T03:32:36.104Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -3224,6 +3224,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/ops117?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Support Operations Manager</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/an140?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Analyst, Pricing and Monetization</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/aso97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate General Counsel, Partner - Joint Ventures: Strategic Transactions &amp; M&amp;A</a>\n- Chainlink Labs is hiring <a href=\"https://hashtagweb3.com/aso96?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Executive Assistant</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/pm309?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager (Prediction Markets)</a>",
-    "slotKey": "2026-11-18:morning"
+    "slotKey": "2026-11-18:morning",
+    "messageId": 16658,
+    "sentAt": "2026-11-18T03:32:43.369Z"
   }
 }
