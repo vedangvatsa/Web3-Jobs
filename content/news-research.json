@@ -191123,7 +191123,35 @@
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 0,
       "expiresAt": "2026-11-20T11:29:51.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "articleSlug": "coingeckostake",
+      "draftProgress": {
+        "id": "b72b524a864abd786a29",
+        "day": "2026-11-18",
+        "articleSlug": "coingeckostake",
+        "note": "Read Decrypt, Cointelegraph and Unchained coverage plus CoinGecko's own Nov 17 announcement; verified majority-stake statements, the three planned focus areas, the Bobby Ong and Vibhu Norby quotes and the user/API figures. CoinDesk returned 429 and solana.com is behind a challenge page. Draft and image still to be produced.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-18T01:48:45.893Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "f7e068d874012422856d": {
       "source": "Cointelegraph",
