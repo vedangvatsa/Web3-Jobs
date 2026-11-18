@@ -186085,11 +186085,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "2a36a6692f62db281fab",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T17:15:17.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "opinion",
+      "note": "Interview video with George Mekhail arguing Bitcoin price is a distraction while Wall Street accumulates; opinion/commentary, not a concrete event. Both listed URLs are Bitcoin Magazine videos from the same outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/videos/george-mekhail-bitcoins-price-is-a-distraction-as-wall-street-quietly-accumulates",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:21:51.576Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "c16e96192b0f504da08b": {
       "source": "The Block",
@@ -369458,6 +369468,18 @@
             }
           ],
           "reviewedAt": "2026-11-18T02:21:47.509Z"
+        },
+        "2a36a6692f62db281fab": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Interview video with George Mekhail arguing Bitcoin price is a distraction while Wall Street accumulates; opinion/commentary, not a concrete event. Both listed URLs are Bitcoin Magazine videos from the same outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/videos/george-mekhail-bitcoins-price-is-a-distraction-as-wall-street-quietly-accumulates",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:21:51.576Z"
         }
       },
       "baselineSlugs": [
