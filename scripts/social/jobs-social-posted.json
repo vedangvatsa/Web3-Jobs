@@ -153044,7 +153044,8 @@
       },
       "account": "channel:product",
       "attemptId": "20bdb103-dced-4e4c-b1d9-c7e494530670",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x227ecd42ead07392eae7a6693ce0c4ac9f836991"
     }
   ]
 }
