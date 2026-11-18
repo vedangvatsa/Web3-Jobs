@@ -501,5 +501,42 @@
     "slotKey": "2026-11-17:evening",
     "messageId": 193538,
     "sentAt": "2026-11-17T19:34:51.484Z"
+  },
+  "6fa34885-16b2-4092-b621-93c85e4a457b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T03:34:26.998Z",
+    "stories": [
+      {
+        "index": 7,
+        "original_title": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work",
+        "headline": "OpenAI releases GPT-6.2 Astra and Sol models",
+        "summary": "The new professional model offers improved performance for complex tasks at a significantly lower cost than previous versions.",
+        "event_rationale": "This covers a major frontier model release from a primary industry player, distinct from all other model announcements in the list.",
+        "link": "https://siliconangle.com/2026/11/17/openai-rolls-out-gpt-6-2-astra-for-professional-work-and-gpt-6-2-sol-for-everyday-work/",
+        "source": "SiliconANGLE",
+        "originalTitle": "OpenAI rolls out GPT-6.2 Astra for professional work and GPT-6.2 Sol for everyday work"
+      },
+      {
+        "index": 3,
+        "original_title": "A third of the global AI supply chain is 'invisible' to governments, study finds",
+        "headline": "Cambridge report identifies invisible global AI supply chain",
+        "summary": "Research reveals one-third of AI production components currently operate outside the scope of international regulatory oversight and policy.",
+        "event_rationale": "This highlights a significant regulatory and geopolitical shift regarding AI infrastructure transparency, distinct from corporate funding or product news.",
+        "link": "https://techxplore.com/news/2026-11-global-ai-chain-invisible.html",
+        "source": "TechXplore",
+        "originalTitle": "A third of the global AI supply chain is 'invisible' to governments, study finds"
+      },
+      {
+        "index": 29,
+        "original_title": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years",
+        "headline": "AI-generated abuse material reports increase 8,400 percent",
+        "summary": "Data from the Childlight Institute shows reports of synthetic abuse content rose from 4,700 in 2023 to 400,000.",
+        "event_rationale": "This covers a critical societal and safety impact event related to AI misuse, distinct from technical releases or business funding.",
+        "link": "https://the-decoder.com/reports-of-ai-generated-child-sexual-abuse-material-have-surged-more-than-8400-percent-in-two-years/",
+        "source": "The Decoder",
+        "originalTitle": "Reports of AI-generated child sexual abuse material have surged more than 8,400 percent in two years"
+      }
+    ],
+    "slotKey": "2026-11-18:morning"
   }
 }
