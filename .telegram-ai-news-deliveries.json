@@ -579,5 +579,42 @@
     "slotKey": "2026-11-18:afternoon",
     "messageId": 193542,
     "sentAt": "2026-11-18T11:33:06.693Z"
+  },
+  "3ca6b62b-de19-4e73-869d-208f8eaef00c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T19:34:28.035Z",
+    "stories": [
+      {
+        "index": 2,
+        "original_title": "The Decoder: Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+        "headline": "Google DeepMind releases Genie 4 world model",
+        "summary": "The new model generates interactive 3D environments from text and includes native sound for immersive simulation.",
+        "event_rationale": "This covers the release of a major new generative world model, distinct from agentic or language-focused model releases.",
+        "link": "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+        "source": "The Decoder",
+        "originalTitle": "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing"
+      },
+      {
+        "index": 5,
+        "original_title": "The Decoder: Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+        "headline": "Microsoft launches in-house AI models for enterprise agents",
+        "summary": "Microsoft introduced seven specialized models designed to reduce costs and improve performance for continuous enterprise automation tasks.",
+        "event_rationale": "This represents a significant industry shift where a major platform provider moves to replace third-party models with proprietary, cost-optimized alternatives.",
+        "link": "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+        "source": "The Decoder",
+        "originalTitle": "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives"
+      },
+      {
+        "index": 11,
+        "original_title": "The Decoder: OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+        "headline": "OpenAI uses AI to accelerate semiconductor chip design",
+        "summary": "OpenAI and AMD achieved a 14 percent improvement in chip performance metrics by using AI to optimize hardware architecture.",
+        "event_rationale": "This highlights a major research and engineering breakthrough in using AI to design better AI hardware, distinct from model training or software deployment.",
+        "link": "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+        "source": "The Decoder",
+        "originalTitle": "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering"
+      }
+    ],
+    "slotKey": "2026-11-18:evening"
   }
 }
