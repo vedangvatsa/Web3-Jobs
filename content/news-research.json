@@ -187152,11 +187152,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "0295953b5334d63967e6",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T01:02:05.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph's Nov. 17 report in full (Optimjack campaign via Optimizely signup-flow flaw; 178 organizations incl. Ledger, BBC, Salesforce; about ,100 captured per blockchain records; Optimizely, OANDA and Salesforce statements; Scott Helme and Galaxy's Alex Thorn quotes). Second independent source unavailable: CoinDesk returned HTTP 429 twice and Report URI's investigation page returned HTTP 403, so corroboration and a draft are still pending.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://reporturi.com/blog/optimizely-incident",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:25:55.938Z",
+      "retrySearches": [
+        "Find independent readable coverage of the Optimjack Optimizely injection (Decrypt, The Hacker News, BleepingComputer or The Register) confirming the 178-organization scope and stolen-fund figures",
+        "Retry CoinDesk's Nov. 17 report after its HTTP 429 rate limit clears"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "a4f8882fbd43b5439da7": {
       "source": "The Defiant",
@@ -187344,7 +187367,27 @@
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 0,
       "expiresAt": "2026-11-19T23:50:41.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "articleSlug": "huangreturn",
+      "draftProgress": {
+        "id": "b303276558c80761e108",
+        "day": "2026-11-18",
+        "articleSlug": "huangreturn",
+        "note": "Read Cointelegraph Nov 16 (board not considering return, 4.1% share decline, petition 187,000, Trump quotes) and CNBC Nov 16 primary report (person familiar, Wachtell probe, 180,000 signatures, Gerstner) in full; draft and image in progress.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-18T04:26:21.386Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "22f17e2cdef6b5c3986f": {
       "source": "CryptoSlate",
@@ -370303,6 +370346,30 @@
           "retrySearches": [
             "Find a second readable independent report of Wells Fargo's Q3 Form 13F disclosing 49.58 million IBIT shares worth .35 billion (crypto.news, BeInCrypto, Decrypt or an SEC EDGAR filing view)",
             "Retry CoinDesk after its HTTP 429 rate limit clears"
+          ]
+        },
+        "0295953b5334d63967e6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph's Nov. 17 report in full (Optimjack campaign via Optimizely signup-flow flaw; 178 organizations incl. Ledger, BBC, Salesforce; about ,100 captured per blockchain records; Optimizely, OANDA and Salesforce statements; Scott Helme and Galaxy's Alex Thorn quotes). Second independent source unavailable: CoinDesk returned HTTP 429 twice and Report URI's investigation page returned HTTP 403, so corroboration and a draft are still pending.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://reporturi.com/blog/optimizely-incident",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:25:55.938Z",
+          "retrySearches": [
+            "Find independent readable coverage of the Optimjack Optimizely injection (Decrypt, The Hacker News, BleepingComputer or The Register) confirming the 178-organization scope and stolen-fund figures",
+            "Retry CoinDesk's Nov. 17 report after its HTTP 429 rate limit clears"
           ]
         }
       },
