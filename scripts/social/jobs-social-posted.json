@@ -153471,7 +153471,8 @@
       },
       "account": "channel:web3",
       "attemptId": "bc036dc1-5aab-4db4-9777-8cafc44ab05a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5fc98ad6e9eb86520b824deb7bacbf0eadb5f163"
     }
   ]
 }
