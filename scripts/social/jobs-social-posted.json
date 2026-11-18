@@ -150420,7 +150420,8 @@
       },
       "account": "channel:ai",
       "attemptId": "f0c9797e-3572-4e51-8bd1-43b89b50d209",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdda361c28fd575e1b69a789f7bbb65318857cbd7"
     }
   ]
 }
