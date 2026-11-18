@@ -187363,9 +187363,9 @@
         "The Defiant"
       ],
       "id": "b303276558c80761e108",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T23:50:41.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "articleSlug": "huangreturn",
@@ -187387,7 +187387,25 @@
         "updatedAt": "2026-11-18T04:26:21.386Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph's Nov. 16 report and CNBC's Nov. 16 primary report in full (person familiar on the no-return position, Wachtell Lipton probe, Kress interim CEO, 4.1% Monday decline, petition 187,000 vs CNBC's 180,000, Trump quotes, Friday search-firm step). Drafted content/articles/huangreturn.md (615 counted words), hero from Wikimedia (Anders Eidesvik, CC BY 4.0) compressed to 213KB; quality, formatting, duplicate and image audits show no issues for this file, tsc clean, all outbound links HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Jensen%20huang%20stanford%202026-04-30%20025.jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:31:32.738Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "22f17e2cdef6b5c3986f": {
       "source": "CryptoSlate",
@@ -370371,6 +370389,27 @@
             "Find independent readable coverage of the Optimjack Optimizely injection (Decrypt, The Hacker News, BleepingComputer or The Register) confirming the 178-organization scope and stolen-fund figures",
             "Retry CoinDesk's Nov. 17 report after its HTTP 429 rate limit clears"
           ]
+        },
+        "b303276558c80761e108": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph's Nov. 16 report and CNBC's Nov. 16 primary report in full (person familiar on the no-return position, Wachtell Lipton probe, Kress interim CEO, 4.1% Monday decline, petition 187,000 vs CNBC's 180,000, Trump quotes, Friday search-firm step). Drafted content/articles/huangreturn.md (615 counted words), hero from Wikimedia (Anders Eidesvik, CC BY 4.0) compressed to 213KB; quality, formatting, duplicate and image audits show no issues for this file, tsc clean, all outbound links HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Jensen%20huang%20stanford%202026-04-30%20025.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:31:32.738Z",
+          "articleSlug": "huangreturn"
         }
       },
       "baselineSlugs": [
