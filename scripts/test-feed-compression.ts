@@ -112,6 +112,10 @@ function testResponseTiming() {
 async function main() {
   testResponseTiming();
   if (process.argv.includes('--self-test')) return;
+  if (process.env.VERCEL === '1') {
+    console.log('[test-feed-compression] skip live server checks on Vercel (Next disables compress; the platform gzips)');
+    return;
+  }
   const standalone = path.resolve('.next/standalone');
   const manifest = JSON.parse(fs.readFileSync('.next/prerender-manifest.json', 'utf8'));
   const server = spawn(process.execPath, [path.join(standalone, 'server.js')], {
