@@ -150920,6 +150920,41 @@
       "attemptId": "3d8fc465-7aa0-4ec2-ae75-28e5eef8820e",
       "verification": "verified",
       "postId": "0x491be8bf3c6e63445c6374b7553f67ef1476aaff"
+    },
+    {
+      "slug": "sec167",
+      "company": "Kraken",
+      "title": "Security GRC Analyst, Mergers & Acquisitions",
+      "platform": "farcaster",
+      "postedAt": "2026-11-18T03:36:28.475Z",
+      "expectedText": "Kraken is hiring Security GRC Analyst, Mergers & Acquisitions\n\nhttps://hashtagweb3.com/sec167/fc?og=7",
+      "snapshot": {
+        "id": "541054d4-67d7-459d-8818-987154af85cd",
+        "title": "Security GRC Analyst, Mergers & Acquisitions",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/541054d4-67d7-459d-8818-987154af85cd",
+        "date": "2026-11-12T14:46:35.705+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Security & IT",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec167"
+      },
+      "payload": {
+        "text": "Kraken is hiring Security GRC Analyst, Mergers & Acquisitions\n\nhttps://hashtagweb3.com/sec167/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sec167/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "37e00942-249c-4a85-ac0d-4e580ad059a7",
+      "verification": "creating"
     }
   ]
 }
