@@ -1,21 +1,38 @@
-# Cloudflare parallel deploy (Hashtag Web3)
+# Cloudflare parallel deploy (Workers Free)
 
-## Workers URL
+Production stays on Firebase App Hosting. **Cloudflare Workers Free** provides a parallel URL that proxies to `https://hashtagweb3.com`.
 
-After a successful GitHub Actions run:
+## Live URL
 
-- **Mirror (Workers Free):** `https://hashtagweb3.vatsvedang.workers.dev` proxies to `https://hashtagweb3.com` (use when the account is not on Workers Paid).
-- **Full container (Workers Paid):** same URL, but the Next.js standalone app runs inside a Cloudflare Container (independent of Firebase).
+**https://hashtagweb3.vatsvedang.workers.dev**
 
-## Enable the full container
+| Path | Behavior |
+|------|----------|
+| `/` | Redirect to `/jobs` on the same workers.dev host |
+| Other paths | Proxied to the same path on `hashtagweb3.com` |
 
-1. Upgrade the Cloudflare account to [**Workers Paid**](https://dash.cloudflare.com/?to=/:account/workers/plans) (`eaff49c009e2f11471aa2dca4fe49abd`).
-2. Create an API token with **Workers Scripts (Edit)** and **Containers (Edit)**.
-3. Set GitHub secrets `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID`.
-4. Run **Actions → Cloudflare container deploy**. The workflow detects container access and runs `wrangler deploy` (Docker image) instead of the mirror Worker.
+Responses include `x-hashtagweb3-mirror: cloudflare-workers`.
 
-## Manual trigger
+This is a **mirror**, not a second independent origin. If production is down, the mirror cannot serve a fresh build.
+
+## GitHub Actions
+
+Secrets: `CLOUDFLARE_API_TOKEN`, `CLOUDFLARE_ACCOUNT_ID` (account `eaff49c009e2f11471aa2dca4fe49abd`).
+
+Token needs **Workers Scripts (Edit)** on that account.
 
 ```bash
-gh workflow run "Cloudflare container deploy" -R vedangvatsa/Web3-Jobs
+gh workflow run "Cloudflare Worker deploy" -R vedangvatsa/Web3-Jobs
 ```
+
+Pushes to `main` that touch `cloudflare/` or `wrangler.jsonc` also deploy automatically.
+
+## Local deploy
+
+```bash
+export CLOUDFLARE_API_TOKEN=…
+export CLOUDFLARE_ACCOUNT_ID=eaff49c009e2f11471aa2dca4fe49abd
+npx wrangler@4 deploy
+```
+
+Use only the API token env vars (not an old global key from another Cloudflare account).

@@ -1,33 +1,8 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "hashtagweb3",
-  "main": "cloudflare/worker.js",
+  "main": "cloudflare/worker-proxy.js",
   "compatibility_date": "2026-11-18",
   "workers_dev": true,
-  "observability": { "enabled": true },
-  "containers": [
-    {
-      "class_name": "HashtagWeb3",
-      "scheduling_policy": "durable_object",
-      "images": {
-        "base": {
-          "dockerfile": "./Dockerfile.cloudflare"
-        }
-      }
-    }
-  ],
-  "durable_objects": {
-    "bindings": [
-      {
-        "name": "HASHTAGWEB3",
-        "class_name": "HashtagWeb3"
-      }
-    ]
-  },
-  "exports": {
-    "HashtagWeb3": {
-      "type": "durable-object",
-      "storage": "sqlite"
-    }
-  }
+  "observability": { "enabled": true }
 }

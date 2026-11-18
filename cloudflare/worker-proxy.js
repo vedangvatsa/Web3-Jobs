@@ -1,7 +1,4 @@
-/**
- * Free-plan fallback: mirror traffic to production while the account lacks Containers.
- * Replace with cloudflare/worker.js + container once Workers Paid is enabled.
- */
+/** Workers Free: reverse-proxy mirror to hashtagweb3.com on workers.dev. */
 const ORIGIN = "https://hashtagweb3.com";
 
 export default {
