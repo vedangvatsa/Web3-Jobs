@@ -184226,11 +184226,11 @@
       "id": "45920990233eb5aa40f0",
       "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-20T01:09:00.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "source-blocked",
-      "note": "Read Crypto Briefing's Nov 16 piece in full; it anchors the claim that Treasury and the NSC directed the Commerce BIS rule to a single X post and spends most of its length on prediction-market odds. The Defiant companion returned HTTP 403, leaving no readable independent outlet.",
+      "note": "Retry round: Crypto Briefing's Nov 16 piece was read previously, but The Defiant companion returned HTTP 403 again on an actual GET this round; still no readable independent outlet confirming that Treasury and the NSC directed the Commerce BIS rule.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/",
@@ -184241,12 +184241,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T03:03:04.622Z",
+      "reviewedAt": "2026-11-18T02:13:20.313Z",
       "retrySearches": [
         "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "641ef989f49f398fedcd": {
       "source": "Crypto Briefing",
@@ -184590,11 +184590,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca5f6adbd0edc0aaafc4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T20:44:23.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "source-blocked",
+      "note": "Read Bitcoin Magazine's Nov 16 report in full (Tuesday Nov 18, 3 p.m. ET hearing in Dirksen 106, nominations sent Nov 12, nominees Nathan Anonick and Matthew Rowland, Selig's 'two strong bipartisan picks' quote, one-commissioner CFTC, lame-duck confirmation risk). The Block's Nov 17 companion returned HTTP 403 on an actual GET this round; no second readable source yet.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:13:20.312Z",
+      "retrySearches": [
+        "Find a second readable source (Senate Agriculture Committee notice, Reuters, The Block or Cointelegraph) confirming the Nov 18 Senate Agriculture hearing on CFTC nominees Nathan Anonick and Matthew Rowland"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "4b1248cbfa3cab458152": {
       "source": "Crypto Briefing",
@@ -184821,11 +184839,11 @@
       "id": "90be9c6de61e00826514",
       "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T18:54:19.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "source-blocked",
-      "note": "CoinDesk's Nov. 16 story returned HTTP 429 on two bounded GET attempts (WebFetch and curl with the readiness User-Agent); The Defiant's related piece returned HTTP 403. No readable source yet for the Senate Democrats' letter to the CFTC.",
+      "note": "Retry round: CoinDesk's Nov 16 story again returned HTTP 429 on an actual GET and The Defiant's related piece returned HTTP 403; still no readable source for the Senate Democrats' letter urging the CFTC not to require prediction markets to defy state bans.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
@@ -184836,12 +184854,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T03:12:17.247Z",
+      "reviewedAt": "2026-11-18T02:13:20.312Z",
       "retrySearches": [
         "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands"
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "dc33de1dc4b66ec587bb": {
       "source": "Decrypt",
@@ -189949,11 +189967,29 @@
         "Decrypt"
       ],
       "id": "9e70b18433575cd7ac54",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T13:02:56.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "source-blocked",
+      "note": "Read Decrypt's Nov 17 report in full (Nov 16 core dev call, EIP-8037 and EIP-8038 gas scaling from 60M to 200M, 10,000-15,000 affected contracts per Marius van der Wijden, ~200 affected classes from ChainSecurity and Dedaub audits, no decision until Thursday's call, 4-6 month delay risk). CoinDesk's Nov 17 story returned HTTP 429 on an actual GET this round; no second readable outlet yet.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:13:20.312Z",
+      "retrySearches": [
+        "Find a second readable independent source (Reuters, The Block, Cointelegraph or Blockworks) on the Nov 16 Ethereum core developer call warning that EIP-8037 and EIP-8038 could break up to 15,000 contracts, including the four-to-six-month delay risk"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "f59537bb8e690da706b7": {
       "source": "Decrypt",
@@ -192463,11 +192499,33 @@
         "The Defiant"
       ],
       "id": "e248b129ece77ee4d4e7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T19:16:00.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "source-blocked",
+      "note": "Read Cointelegraph's Nov 17 report in full (Nov 13 CFTC order staying the 'What nicknames will Trump say before 2027?' market and TRUMPSAY series, Dec 11 response deadline, Mansour Axios quote, Perez teleprompter case). CoinDesk's Nov 17 story returned HTTP 429 on an actual GET this round and The Defiant companion returned HTTP 403; only one readable outlet so far.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/cftc-halts-kalshi-trump-word-bets-for-manipulation-review",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:13:20.312Z",
+      "retrySearches": [
+        "Find a second readable independent source (Axios, Reuters, WSJ or Bloomberg) confirming the CFTC's Nov 13 order staying Kalshi's Trump-mention markets and the Dec 11 response deadline"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "7439f2e52b8288755f1e": {
       "source": "The Defiant",
@@ -369214,6 +369272,105 @@
           ],
           "reviewedAt": "2026-11-18T02:12:06.987Z",
           "articleSlug": "luxorhack"
+        },
+        "e248b129ece77ee4d4e7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Cointelegraph's Nov 17 report in full (Nov 13 CFTC order staying the 'What nicknames will Trump say before 2027?' market and TRUMPSAY series, Dec 11 response deadline, Mansour Axios quote, Perez teleprompter case). CoinDesk's Nov 17 story returned HTTP 429 on an actual GET this round and The Defiant companion returned HTTP 403; only one readable outlet so far.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/cftc-halts-kalshi-trump-word-bets-for-manipulation-review",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:13:20.312Z",
+          "retrySearches": [
+            "Find a second readable independent source (Axios, Reuters, WSJ or Bloomberg) confirming the CFTC's Nov 13 order staying Kalshi's Trump-mention markets and the Dec 11 response deadline"
+          ]
+        },
+        "9e70b18433575cd7ac54": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Decrypt's Nov 17 report in full (Nov 16 core dev call, EIP-8037 and EIP-8038 gas scaling from 60M to 200M, 10,000-15,000 affected contracts per Marius van der Wijden, ~200 affected classes from ChainSecurity and Dedaub audits, no decision until Thursday's call, 4-6 month delay risk). CoinDesk's Nov 17 story returned HTTP 429 on an actual GET this round; no second readable outlet yet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:13:20.312Z",
+          "retrySearches": [
+            "Find a second readable independent source (Reuters, The Block, Cointelegraph or Blockworks) on the Nov 16 Ethereum core developer call warning that EIP-8037 and EIP-8038 could break up to 15,000 contracts, including the four-to-six-month delay risk"
+          ]
+        },
+        "ca5f6adbd0edc0aaafc4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Bitcoin Magazine's Nov 16 report in full (Tuesday Nov 18, 3 p.m. ET hearing in Dirksen 106, nominations sent Nov 12, nominees Nathan Anonick and Matthew Rowland, Selig's 'two strong bipartisan picks' quote, one-commissioner CFTC, lame-duck confirmation risk). The Block's Nov 17 companion returned HTTP 403 on an actual GET this round; no second readable source yet.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:13:20.312Z",
+          "retrySearches": [
+            "Find a second readable source (Senate Agriculture Committee notice, Reuters, The Block or Cointelegraph) confirming the Nov 18 Senate Agriculture hearing on CFTC nominees Nathan Anonick and Matthew Rowland"
+          ]
+        },
+        "90be9c6de61e00826514": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retry round: CoinDesk's Nov 16 story again returned HTTP 429 on an actual GET and The Defiant's related piece returned HTTP 403; still no readable source for the Senate Democrats' letter urging the CFTC not to require prediction markets to defy state bans.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:13:20.312Z",
+          "retrySearches": [
+            "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands"
+          ]
+        },
+        "45920990233eb5aa40f0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retry round: Crypto Briefing's Nov 16 piece was read previously, but The Defiant companion returned HTTP 403 again on an actual GET this round; still no readable independent outlet confirming that Treasury and the NSC directed the Commerce BIS rule.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:13:20.313Z",
+          "retrySearches": [
+            "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
+          ]
         }
       },
       "baselineSlugs": [
