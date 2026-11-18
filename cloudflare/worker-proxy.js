@@ -8,7 +8,7 @@ export default {
   async fetch(request) {
     const incoming = new URL(request.url);
     if (incoming.pathname === "/") {
-      return Response.redirect(`${ORIGIN}/jobs`, 302);
+      return Response.redirect(new URL("/jobs", incoming), 302);
     }
     const target = new URL(incoming.pathname + incoming.search, ORIGIN);
     const headers = new Headers(request.headers);
