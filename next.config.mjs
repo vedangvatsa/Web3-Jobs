@@ -192,6 +192,8 @@ const nextConfig = {
           destination: '/agent-view.json',
         })),
         { source: '/sitemap.xml', destination: '/job-catalog/sitemap.xml' },
+        { source: '/myjobhelper.xml', destination: '/jobs/feed-aggregator-us.xml' },
+        { source: '/adzuna.xml', destination: '/jobs/adzuna.xml' },
         { source: '/sitemap.json', destination: '/job-catalog/sitemap.json' },
         { source: '/.well-known/sitemap.json', destination: '/job-catalog/sitemap.json' },
       ],
