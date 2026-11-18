@@ -151513,7 +151513,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "d9babbb4-22e1-4be1-b9b5-059217a2a89a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7528662915051081729"
     }
   ]
 }
