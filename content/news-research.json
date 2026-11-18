@@ -185767,11 +185767,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "17a7b3bc7c629c99a793",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T21:43:56.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "price-chatter",
+      "note": "Bitcoin Magazine video predicting whether Bitcoin's low holds and framing 8K as a key level; price opinion, not a concrete event. Both listed URLs are Bitcoin Magazine videos from the same outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:21:47.509Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "46a2dca021bd3e62ba6d": {
       "source": "CryptoSlate",
@@ -369436,6 +369446,18 @@
           "reviewedAt": "2026-11-18T02:21:38.409Z",
           "duplicateOf": "lighterhalt",
           "mergedInto": "193b8cbf43d59809d916"
+        },
+        "17a7b3bc7c629c99a793": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Bitcoin Magazine video predicting whether Bitcoin's low holds and framing 8K as a key level; price opinion, not a concrete event. Both listed URLs are Bitcoin Magazine videos from the same outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:21:47.509Z"
         }
       },
       "baselineSlugs": [
