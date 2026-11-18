@@ -186437,11 +186437,31 @@
         "Decrypt"
       ],
       "id": "d3f4dbe2daf403caf640",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T13:29:11.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "duplicate",
+      "note": "Same Strategy weekly 8-K purchase (485 BTC, 28.1M STRC buyback) already covered by the ready strategy485 article owned by candidate ab687f83adb0f54920b5; read the SEC filing and both outlets this round, no new development.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/strategy-buys-485-bitcoin-for-33-4-million-lifting-holdings-to-850849-btc/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:44:49.667Z",
+      "duplicateOf": "strategy485",
+      "mergedInto": "ab687f83adb0f54920b5",
+      "lastReviewedDay": "2026-11-18"
     },
     "ab687f83adb0f54920b5": {
       "source": "The Block",
@@ -369751,6 +369771,28 @@
           "reviewedAt": "2026-11-18T02:44:45.795Z",
           "duplicateOf": "luxorhack",
           "mergedInto": "3967a68c66a363d144df"
+        },
+        "d3f4dbe2daf403caf640": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Strategy weekly 8-K purchase (485 BTC, 28.1M STRC buyback) already covered by the ready strategy485 article owned by candidate ab687f83adb0f54920b5; read the SEC filing and both outlets this round, no new development.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/strategy-buys-485-bitcoin-for-33-4-million-lifting-holdings-to-850849-btc/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:44:49.667Z",
+          "duplicateOf": "strategy485",
+          "mergedInto": "ab687f83adb0f54920b5"
         }
       },
       "baselineSlugs": [
