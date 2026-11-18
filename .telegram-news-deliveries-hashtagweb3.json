@@ -427,5 +427,36 @@
     "slotKey": "2026-11-17:evening",
     "messageId": 156322,
     "sentAt": "2026-11-17T19:34:56.660Z"
+  },
+  "05c21a46-39a0-471f-8b05-f1e1bdb08b6b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T03:35:34.615Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Nakamoto delays $60 million Kraken loan principal to 2027",
+        "summary": "The updated agreement adds Bitcoin derivatives as collateral and moves the USDT repayment deadline to late 2027.",
+        "link": "https://hashtagweb3.com/nakamotoloan?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nakamoto extends $165 million Kraken loan with no principal due in 2026"
+      },
+      {
+        "index": -1,
+        "headline": "OpenAI launches ChatGPT Wallet for AI agent credit card payments",
+        "summary": "This feature enables AI agents to execute card payments after receiving specific approval from the user.",
+        "link": "https://hashtagweb3.com/gptwallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OpenAI launches ChatGPT Wallet for agent purchases with Visa, Mastercard and Amex"
+      },
+      {
+        "index": -1,
+        "headline": "Crypto groups challenge Illinois 0.2% digital asset tax",
+        "summary": "Eighteen organizations asked a state court to declare the tax unlawful, calling it vague and discriminatory.",
+        "link": "https://hashtagweb3.com/defiamicus?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful"
+      }
+    ],
+    "slotKey": "2026-11-18:morning"
   }
 }
