@@ -186919,9 +186919,9 @@
         "Decrypt"
       ],
       "id": "43393aef7f3651a8e651",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T07:51:15.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "duplicate",
@@ -186936,9 +186936,10 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:44:45.795Z",
+      "reviewedAt": "2026-11-18T04:03:25.607Z",
       "duplicateOf": "luxorhack",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "mergedInto": "3967a68c66a363d144df"
     },
     "99fc74a31655b73b94c0": {
       "source": "Crypto Briefing",
@@ -369757,6 +369758,24 @@
           "reviewedAt": "2026-11-18T03:55:46.898Z",
           "duplicateOf": "strategy485",
           "mergedInto": "ab687f83adb0f54920b5"
+        },
+        "43393aef7f3651a8e651": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Luxor Commander hashrate-hijack event already covered by the ready luxorhack article owned by candidate 3967a68c66a363d144df; rechecked Crypto Briefing and Cointelegraph this round, no new development.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:03:25.607Z",
+          "duplicateOf": "luxorhack",
+          "mergedInto": "3967a68c66a363d144df"
         }
       },
       "baselineSlugs": [
