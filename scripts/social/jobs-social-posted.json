@@ -152720,7 +152720,8 @@
       },
       "account": "channel:dev",
       "attemptId": "41657cc7-5931-477f-9daf-f722931533c5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf8d13d249561a65cb1e60cdce6b97dd0156bcb6c"
     }
   ]
 }
