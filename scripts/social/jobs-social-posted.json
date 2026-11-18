@@ -153080,7 +153080,8 @@
       },
       "account": "channel:design",
       "attemptId": "4eae1d89-60a3-4c5e-a405-1fecf621d21b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbb354a4da6935eebc05abf81138f17f00bc99a46"
     }
   ]
 }
