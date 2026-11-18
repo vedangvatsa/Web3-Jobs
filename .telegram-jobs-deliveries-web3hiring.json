@@ -3596,5 +3596,121 @@
     "slotKey": "2026-11-18:afternoon",
     "messageId": 205,
     "sentAt": "2026-11-18T11:32:15.054Z"
+  },
+  "5b0ec5d7-a495-44f0-adba-0fb0d28707dd": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T19:32:30.741Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4748554005",
+          "title": "Senior Finance Associate",
+          "company": "FalconX",
+          "link": "https://job-boards.greenhouse.io/falconx/jobs/4748554005",
+          "date": "2026-11-11T01:47:24-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: FalconX [falconx]",
+          "location": "Bangalore, Karnataka, India",
+          "department": "Accounting and Tax",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso86"
+        },
+        "key": "4748554005",
+        "slug": "aso86",
+        "url": "https://hashtagweb3.com/aso86?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "FalconX",
+        "title": "Senior Finance Associate"
+      },
+      {
+        "snapshot": {
+          "id": "ed2da226-a787-493e-ace0-9890ca3d2f8a",
+          "title": "Senior QA Automation Engineer",
+          "company": "BTSE",
+          "link": "https://jobs.lever.co/BTSE/ed2da226-a787-493e-ace0-9890ca3d2f8a",
+          "date": "2026-11-04T09:04:11.703Z",
+          "source": "Lever: BTSE [BTSE]",
+          "location": "Remote (Southeast Asia)",
+          "workplaceType": "remote",
+          "department": "BTSE",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "qa104"
+        },
+        "key": "ed2da226-a787-493e-ace0-9890ca3d2f8a",
+        "slug": "qa104",
+        "url": "https://hashtagweb3.com/qa104?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BTSE",
+        "title": "Senior QA Automation Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "c463c363-b2e2-425f-bc7f-332a53955ded",
+          "title": "Fraud Data Scientist",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/Coinflow/c463c363-b2e2-425f-bc7f-332a53955ded",
+          "date": "2026-10-29T14:03:57.836+00:00",
+          "source": "Ashby: Coinflow [Coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fds2"
+        },
+        "key": "c463c363-b2e2-425f-bc7f-332a53955ded",
+        "slug": "fds2",
+        "url": "https://hashtagweb3.com/fds2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "Fraud Data Scientist"
+      },
+      {
+        "snapshot": {
+          "id": "5012481101",
+          "title": "Site Reliability Engineer",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5012481101",
+          "date": "2026-10-23T04:33:11-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "Singapore",
+          "department": "Secure Ecosystem",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng759"
+        },
+        "key": "5012481101",
+        "slug": "eng759",
+        "url": "https://hashtagweb3.com/eng759?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Site Reliability Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5012819101",
+          "title": "Account Manager",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5012819101",
+          "date": "2026-10-21T15:03:51-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "NYC / San Francisco",
+          "department": "Commercial",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls327"
+        },
+        "key": "5012819101",
+        "slug": "sls327",
+        "url": "https://hashtagweb3.com/sls327?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Account Manager"
+      }
+    ],
+    "message": "- FalconX is hiring <a href=\"https://hashtagweb3.com/aso86?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Finance Associate</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/qa104?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior QA Automation Engineer</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/fds2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Data Scientist</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/eng759?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Site Reliability Engineer</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/sls327?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Manager</a>",
+    "slotKey": "2026-11-18:evening"
   }
 }
