@@ -151999,7 +151999,8 @@
       },
       "account": "channel:base",
       "attemptId": "f5cbcb8c-f072-4473-ace1-a291251e9669",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1441f1c1d68a7094c720fd78ac9671548c014aec"
     }
   ]
 }
