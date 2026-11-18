@@ -153576,7 +153576,8 @@
       },
       "account": "channel:dev",
       "attemptId": "b8a3e64a-7006-435c-aa8b-39f1ff6aa777",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x67ef6e95c10073c89a41c2035c3a4a527c1df370"
     }
   ]
 }
