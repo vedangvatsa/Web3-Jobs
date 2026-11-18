@@ -183981,9 +183981,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "862e2d25d902d40998fb",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T20:07:48.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "bessentnvidia",
@@ -184005,7 +184005,25 @@
         "updatedAt": "2026-11-16T04:39:43.222Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked both independent sources this round: Crypto Briefing's Nov 15 report (10-day demand, H200/H100 tier limits, Commerce and Lutnick criticism, Tim Scott summons, earnings timing) and TokenPost's Nov 15 report (same deadline, Megaspeed allegations, national security framing); image source page read and confirmed (Senator Tim Scott photo, public domain); all outbound links return HTTP 200; quality, formatting, images and duplicates audits pass for the article.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bessent-nvidia-board-export-controls-deadline/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.tokenpost.com/news/regulation/57898",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tim_Scott_and_Scott_Bessent.jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:16:34.290Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "2015a9b8d8f950299c3b": {
       "source": "BeInCrypto",
@@ -369371,6 +369389,27 @@
           "retrySearches": [
             "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
           ]
+        },
+        "862e2d25d902d40998fb": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked both independent sources this round: Crypto Briefing's Nov 15 report (10-day demand, H200/H100 tier limits, Commerce and Lutnick criticism, Tim Scott summons, earnings timing) and TokenPost's Nov 15 report (same deadline, Megaspeed allegations, national security framing); image source page read and confirmed (Senator Tim Scott photo, public domain); all outbound links return HTTP 200; quality, formatting, images and duplicates audits pass for the article.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bessent-nvidia-board-export-controls-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/57898",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Tim_Scott_and_Scott_Bessent.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:16:34.290Z",
+          "articleSlug": "bessentnvidia"
         }
       },
       "baselineSlugs": [
