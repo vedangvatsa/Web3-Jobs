@@ -2,6 +2,15 @@ name: Cloudflare container deploy
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'Dockerfile.cloudflare'
+      - 'wrangler.jsonc'
+      - 'wrangler.proxy.jsonc'
+      - 'cloudflare/**'
+      - 'scripts/cloudflare-container-prep.ts'
+      - '.github/workflows/cloudflare-container.yml'
 
 jobs:
   deploy:
@@ -11,9 +20,34 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 1
+      - name: Check Containers API access
+        id: containers
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          set -euo pipefail
+          body=$(curl -sS "https://api.cloudflare.com/client/v4/accounts/${CLOUDFLARE_ACCOUNT_ID}/containers/me" \
+            -H "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}")
+          if echo "$body" | python3 -c 'import json,sys; sys.exit(0 if json.load(sys.stdin).get("success") else 1)'; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "$body" | python3 -c 'import json,sys; d=json.load(sys.stdin); print(d.get("errors") or d)'
+            echo "available=false" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Deploy mirror Worker (Workers Free)
+        if: steps.containers.outputs.available != 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          echo "::warning::Containers unavailable (Workers Paid required). Deploying origin mirror via wrangler.proxy.jsonc."
+          npx --yes wrangler@4 deploy -c wrangler.proxy.jsonc
       - name: Free git objects before the image build
+        if: steps.containers.outputs.available == 'true'
         run: rm -rf .git && df -h
       - name: Deploy Worker and container
+        if: steps.containers.outputs.available == 'true'
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
