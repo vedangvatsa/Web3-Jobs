@@ -154426,7 +154426,8 @@
       },
       "account": "channel:dev",
       "attemptId": "4be9f007-880f-4fa0-b7e1-0dd273135081",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0edbac3a40e8eaa634269adda14a62ba0737bec7"
     }
   ]
 }
