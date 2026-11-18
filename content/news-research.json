@@ -184001,9 +184001,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "862e2d25d902d40998fb",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-18T20:07:48.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "bessentnvidia",
@@ -184027,7 +184027,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Rechecked both independent sources this round: Crypto Briefing's Nov 15 report (10-day demand, H200/H100 tier limits, Commerce and Lutnick criticism, Tim Scott summons, earnings timing) and TokenPost's Nov 15 report (same deadline, Megaspeed allegations, national security framing); image source page read and confirmed (Senator Tim Scott photo, public domain); all outbound links return HTTP 200; quality, formatting, images and duplicates audits pass for the article.",
+      "note": "Re-read Crypto Briefing's Nov. 15 report (10-day demand, H200/H100 tier limits, Commerce and Lutnick criticism, Tim Scott summons, earnings timing) and TokenPost's Nov. 15 report (same deadline, Megaspeed allegations, national security framing); image source page verified (Senator Tim Scott photo, public domain). Draft passes quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/bessent-nvidia-board-export-controls-deadline/",
@@ -184042,7 +184042,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:16:34.290Z",
+      "reviewedAt": "2026-11-18T03:55:27.074Z",
       "lastReviewedDay": "2026-11-18"
     },
     "2015a9b8d8f950299c3b": {
@@ -185432,22 +185432,23 @@
         "Bankless"
       ],
       "id": "d9514a43e158453476c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T14:19:50.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "duplicate",
-      "note": "Covers the same Nov. 16 Lighter exploit,  million recovery and withdrawal restore already reported in content/articles/lighterhalt.md.",
+      "note": "Covers the same Nov. 16 Lighter exploit, $5 million recovery and withdrawal restore already reported in content/articles/lighterhalt.md; re-read Cointelegraph's updated Nov. 16 report this round, no new development.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:21:38.409Z",
+      "reviewedAt": "2026-11-18T03:55:41.822Z",
       "duplicateOf": "lighterhalt",
-      "lastReviewedDay": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "mergedInto": "193b8cbf43d59809d916"
     },
     "5956079eb5342ec558e5": {
       "source": "The Defiant",
@@ -369698,6 +369699,41 @@
           ],
           "reviewedAt": "2026-11-18T03:55:23.340Z",
           "articleSlug": "strategy485"
+        },
+        "862e2d25d902d40998fb": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing's Nov. 15 report (10-day demand, H200/H100 tier limits, Commerce and Lutnick criticism, Tim Scott summons, earnings timing) and TokenPost's Nov. 15 report (same deadline, Megaspeed allegations, national security framing); image source page verified (Senator Tim Scott photo, public domain). Draft passes quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bessent-nvidia-board-export-controls-deadline/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.tokenpost.com/news/regulation/57898",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Tim_Scott_and_Scott_Bessent.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:55:27.074Z",
+          "articleSlug": "bessentnvidia"
+        },
+        "d9514a43e158453476c1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Covers the same Nov. 16 Lighter exploit, $5 million recovery and withdrawal restore already reported in content/articles/lighterhalt.md; re-read Cointelegraph's updated Nov. 16 report this round, no new development.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:55:41.822Z",
+          "duplicateOf": "lighterhalt",
+          "mergedInto": "193b8cbf43d59809d916"
         }
       },
       "baselineSlugs": [
