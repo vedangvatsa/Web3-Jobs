@@ -208,42 +208,6 @@
       }
     },
     {
-      "id": "luma-batch-evttdoYjLUc0hLUU",
-      "oldSlug": "harmonia-frankfurt",
-      "slug": "harmonia-frankfurt",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 2286,
-      "characters": 2512,
-      "factChanges": {
-        "locationHidden": true,
-        "city": "Frankfurt am Main",
-        "location": "Frankfurt am Main, Germany",
-        "organizer": {
-          "type": "Organization",
-          "name": "House of Sol",
-          "url": "https://luma.com/house-of-sol"
-        },
-        "approvalRequired": true,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/harmonia-frankfurt",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/harmonia-frankfurt",
-        "fetchedAt": "2026-10-12T11:25:09.238Z",
-        "status": 200,
-        "sha256": "9e5d01f3560248f66df84903cc270cf9824443a1c757c64ef9187404562a5db0"
-      }
-    },
-    {
       "id": "luma-batch-evtXDBDR2PiIUiK3",
       "oldSlug": "ortl78pl",
       "slug": "cardano-real-world",

@@ -3058,7 +3058,7 @@
     "country": "Switzerland",
     "location": "Zug, Switzerland",
     "url": "https://cryptovalleyconference.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-crypto-valley-conference-2027-ee2af471.webp",
     "source": "marketacross",
     "month": "May 2027"
   },
@@ -3632,20 +3632,6 @@
     "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-1754ed95.webp",
     "source": "luma-trusted",
     "month": "November 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-tdoYjLUc0hLUU1N",
-    "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",
-    "description": "",
-    "startDate": "2026-10-19T16:00:00.000Z",
-    "endDate": "2026-10-19T19:30:00.000Z",
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "location": "Frankfurt am Main, Germany",
-    "url": "https://luma.com/Harmonia-Frankfurt",
-    "coverImage": "/events/luma-host-evt-evt-tdoyjluc0hluu1n-59812e60.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-XDBDR2PiIUiK3aK",
@@ -6443,20 +6429,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-3mmc2cCRwR8KMAA",
-    "name": "Octant’s Model for Sustainable Ethereum Growth",
-    "description": "",
-    "startDate": "2026-10-19T18:00:00.000Z",
-    "endDate": "2026-10-19T19:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/lvguduh1",
-    "coverImage": "/events/luma-evt-3mmc2ccrwr8kmaa-ae7398ce.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-vVTTImXJFXhadYX",
     "name": "BitcoinMondays: Multisig Workshop - Basics, Options, & Tradeoffs",
     "description": "",
@@ -6958,34 +6930,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "id": "luma-evt-lyaCf11ZxACdSX2",
-    "name": "Ecox Mondays Wired to Thrive - Dubai Neurodivergence Community in Cooperation with Ecox Blockchain and Tech Network Community",
-    "description": "",
-    "startDate": "2026-10-19T14:30:00.000Z",
-    "endDate": "2026-10-19T19:00:00.000Z",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://lu.ma/ifewtymy",
-    "coverImage": "/events/luma-evt-lyacf11zxacdsx2-8aacdff1.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-tdoYjLUc0hLUU1N",
-    "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",
-    "description": "",
-    "startDate": "2026-10-19T16:00:00.000Z",
-    "endDate": "2026-10-19T19:30:00.000Z",
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "location": "Frankfurt am Main, Germany",
-    "url": "https://lu.ma/Harmonia-Frankfurt",
-    "coverImage": "/events/luma-evt-tdoyjluc0hluu1n-ddd9ada4.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-xaAnDNFZOD62Bek",
@@ -12456,7 +12400,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -13911,7 +13858,7 @@
     "country": "us",
     "location": "Atlanta, us",
     "url": "https://www.meetup.com/atlantabitdevs/events/317195141/",
-    "coverImage": "/events/mu-317195141-4d8c8491.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13925,7 +13872,7 @@
     "country": "us",
     "location": "Atlanta, us",
     "url": "https://www.meetup.com/atlbitlab/events/317194305/",
-    "coverImage": "/events/mu-317194305-710aa2ba.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13939,7 +13886,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-atlanta/events/317064964/",
-    "coverImage": "/events/mu-317064964-3d7fd815.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13953,7 +13900,7 @@
     "country": "us",
     "location": "Atlanta, us",
     "url": "https://www.meetup.com/atlantabitdevs/events/315045051/",
-    "coverImage": "/events/mu-315045051-4482839e.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -13967,7 +13914,7 @@
     "country": "us",
     "location": "Atlanta, us",
     "url": "https://www.meetup.com/atlbitlab/events/317194380/",
-    "coverImage": "/events/mu-317194380-cb86f171.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -16044,15 +15991,15 @@
     "id": "luma-evt-kCAO6ghhL7NZanz",
     "name": "AI·DAO University Tour @ Boston",
     "description": "",
-    "startDate": "2026-11-18T23:00:00.000Z",
-    "endDate": "2026-11-19T02:00:00.000Z",
+    "startDate": "2027-03-05T23:00:00.000Z",
+    "endDate": "2027-03-06T02:00:00.000Z",
     "city": "Cambridge",
     "country": "United States",
     "location": "Cambridge, United States",
     "url": "https://lu.ma/fmut-lh",
-    "coverImage": "/events/luma-evt-kcao6ghhl7nzanz-4de0d8f8.webp",
+    "coverImage": "/events/luma-evt-kcao6ghhl7nzanz-fd0a94e1.webp",
     "source": "luma",
-    "month": "November 2026"
+    "month": "March 2027"
   },
   {
     "id": "w3v-buzoku-ai-bitcoin-crypto-meetup-19-1794071305412",
@@ -20569,7 +20516,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -22264,5 +22211,130 @@
     "coverImage": "/events/luma-evt-vcbqkpgsxxarqw7-bfac8c2f.webp",
     "source": "luma",
     "month": "April 2027"
+  },
+  {
+    "id": "mu-317485952",
+    "name": "Ownership is Everything",
+    "description": "**RSVP Here:** tinyurl.com/4pjwxxrt\n\nIt's time to build\n\n**Ownership is Everything**\n\nIn a world increasingly shaped by blockchain, decentralization, and digital innovation, the question of ownership ",
+    "startDate": "2026-11-19T18:00:00-05:00",
+    "endDate": "2026-11-19T18:00:00-05:00",
+    "city": "Atlanta",
+    "country": "US",
+    "location": "Atlanta, US",
+    "url": "https://www.meetup.com/atlanta-blockchain-center/events/317485952/",
+    "coverImage": "/events/mu-317485952-66fbb134.webp",
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317198806",
+    "name": "Crypto Make Up Meeting",
+    "description": "Thank you for joining Wolf Pack. I cannot wait to see you on Wednesday’s class.\nThis meeting will delve into setting up an encrypted email account. Next we will secure crypto hot or cold wallet/broker",
+    "startDate": "2026-11-18T19:15:00-05:00",
+    "endDate": "2026-11-18T19:15:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/atlanta-meetup-and-trade-community/events/317198806/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-cZ0IozbqN6EDSMB",
+    "name": "Blockchain & AI Summit Montreal 2026 – 3rd Edition",
+    "description": "",
+    "startDate": "2026-11-20T22:30:00.000Z",
+    "endDate": "2026-11-21T02:30:00.000Z",
+    "city": "Montréal",
+    "country": "Canada",
+    "location": "Montréal, Canada",
+    "url": "https://luma.com/zollibcb",
+    "coverImage": "/events/luma-host-evt-evt-cz0iozbqn6edsmb-ff3f9fb8.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317470214",
+    "name": "One Trillion Parameters, One Token at a Time",
+    "description": "Friday, November 20 · 5:30–6:30 a.m. Pacific / 13:30–14:30 UTC · Live Zoom session hosted by Rajat Dandekar on Maven. A recording will be available afterward.\nYou click Send. A cluster of GPUs has to ",
+    "startDate": "2026-11-20T08:30:00-05:00",
+    "endDate": "2026-11-20T08:30:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ai-performance-engineering-atlanta/events/317470214/",
+    "coverImage": "/events/mu-317470214-e02d292e.webp",
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317228407",
+    "name": "Beginning Concepts to Foreign and Crypto Trading ",
+    "description": "1. Learn how to trade\n2. Choose your hot/cold wallet\n3. Install the apps and\n4. Choose your own broker\n5. Add 0-5000 in cash to add to your account\n\nAsk me how to get guaranteed crypto and forex trade",
+    "startDate": "2026-11-20T19:15:00-05:00",
+    "endDate": "2026-11-20T19:15:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/atlanta-meetup-and-trade-community/events/317228407/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-315044573",
+    "name": "BitPlebs: Bitcoin Pub Night @ Manuel's Tavern",
+    "description": "Join us at Manuel's Tavern for another fun BitPlebs meetup. Atlanta BitPlebs meetups are casual events geared towards helping you learn about how to get bitcoin, use bitcoin, and understand where it f",
+    "startDate": "2026-11-25T18:00:00-05:00",
+    "endDate": "2026-11-25T18:00:00-05:00",
+    "city": "Atlanta",
+    "country": "us",
+    "location": "Atlanta, us",
+    "url": "https://www.meetup.com/atlbitlab/events/315044573/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-privacy--web3-networking-night",
+    "name": "Privacy & Web3 Networking Night",
+    "description": "Privacy & Web3 Networking Night: a Barcelona meetup by Club Zcash Barcelona, ETH Spain and Axol focused on privacy, Zero-Knowledge technology and Web3 collaboration.",
+    "startDate": "2026-11-27T15:30:00.000Z",
+    "endDate": "2026-11-27T19:30:00.000Z",
+    "city": "Barcelona",
+    "country": "ES",
+    "location": "Barcelona, ES",
+    "url": "https://luma.com/p81e75w9",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317454524",
+    "name": "The Basics of Options: From Definitions to Your First Trade ",
+    "description": "**Traders of all levels are welcome to join and learn!**\n\n**Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
+    "startDate": "2026-12-05T11:00:00-05:00",
+    "endDate": "2026-12-05T11:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/atlanta-options-trading-group/events/317454524/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-314396581",
+    "name": "Capitol City Bitcoin meetup - virtual",
+    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
+    "startDate": "2026-12-15T19:00:00-05:00",
+    "endDate": "2026-12-15T19:00:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396581/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
   }
 ]

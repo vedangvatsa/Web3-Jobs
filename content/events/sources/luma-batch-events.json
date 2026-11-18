@@ -2148,36 +2148,6 @@
     }
   },
   {
-    "id": "luma-batch-evttdoYjLUc0hLUU",
-    "slug": "harmonia-frankfurt",
-    "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",
-    "description": "An invite-only series of gatherings across Europe, hosted by Solana and Allfunds, bringing together the people shaping the next chapter of institutional finance onchain.\n\nAs recently announced, Solana and Allfunds Blockchain have reached an agreement under which Allfunds Blockchain will be expanding distribution of its tokenised funds to Solana: establishing a direct commercial bridge between traditional fund distribution networks and public, on-chain markets.\n\nFrom London to Frankfurt, Milan, Madrid, Paris and beyond, we’re convening senior leaders across asset management, distribution, capital markets, custody and financial infrastructure.\n\nThrough intimate salons and high-signal gatherings, this event will bring together buy-side, sell-side and market infrastructure partners with Allfunds Blockchain as a guest, to explore how tokenised funds can be deployed, what it unlocks for institutional access and liquidity, and where the near-term opportunities are for firms considering on-chain distribution.\n\nAbout Allfunds\nAllfunds is a global wealthtech platform connecting fund houses and distributors through technology and infrastructure.\n\nAbout Solana Foundation\nThe Solana Foundation is a non-profit organisation based in Zug, Switzerland, dedicated to the decentralisation, growth, and security of the Solana network. Solana is a proof-of-stake blockchain built for mass adoption ◎ Fast, composable, green, and globally distributed.\n\nAbout House of Sol\nHouse of Sol is a sanctuary for institutions and DeFi on Solana. It serves as an exclusive members' club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.\n\nLearn more and apply for membership at houseofsol.org\n\nThis is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.\n\nLimited spaces available, even after confirmation. Please arrive early to avoid disappointment.\n\nBy signing up to this event you agree that Solana Foundation and House of Sol can capture any footage of you, and contact you directly about future events, major news, and more.",
-    "startDate": "2026-10-19T16:00:00.000Z",
-    "endDate": "2026-10-19T19:30:00.000Z",
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "location": "Frankfurt am Main, Hessen, Germany",
-    "url": "https://luma.com/harmonia-frankfurt",
-    "registrationUrl": "https://luma.com/harmonia-frankfurt",
-    "coverImage": "/events/luma-batch-evttdoYjLUc0hLUU-b58a30c8.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "House of Sol"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Berlin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/harmonia-frankfurt",
-      "eventId": "evt-tdoYjLUc0hLUU1N",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtNyDalsA4KYCEg",
     "slug": "43nowtci",
     "name": "Women in Tech Global Summit 2027",

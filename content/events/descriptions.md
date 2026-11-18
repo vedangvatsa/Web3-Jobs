@@ -17683,50 +17683,6 @@ All applications are reviewed.
 
 For questions, please contact: mail@blockstories.io
 
-<a id="event-b61619cf68ea9882"></a>
-
-## Project Harmonia Frankfurt: Allfunds x Solana Salon
-
-- Record: `luma-batch-evttdoYjLUc0hLUU`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-19T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/harmonia-frankfurt>
-
-### About the event
-
-An invite-only series of gatherings across Europe, hosted by Solana and Allfunds, bringing together the people shaping the next chapter of institutional finance onchain. Speakers include:
-
-- Ruben Nieto, Managing Director, Allfunds Blockchain
-- Simon Seiter, Managing Director & CFO/CPO, AllUnity
-- Ben Brophy, Head of Institutional Growth - Europe, Solana Foundation
-
-As recently announced, Solana and Allfunds Blockchain have reached an agreement under which Allfunds Blockchain will be expanding distribution of its tokenised funds to Solana: establishing a direct commercial bridge between traditional fund distribution networks and public, on-chain markets.
-
-From London to Frankfurt, Milan, Madrid, Paris and beyond, we're convening senior leaders across asset management, distribution, capital markets, custody and financial infrastructure.
-
-Through intimate salons and high-signal gatherings, this event will bring together buy-side, sell-side and market infrastructure partners with Allfunds Blockchain as a guest, to explore how tokenised funds can be deployed, what it unlocks for institutional access and liquidity, and where the near-term opportunities are for firms considering on-chain distribution.
-
-### About Allfunds
-
-Allfunds is a global wealthtech platform connecting fund houses and distributors through technology and infrastructure.
-
-### About Solana Foundation
-
-The Solana Foundation is a non-profit organisation based in Zug, Switzerland, dedicated to the decentralisation, growth, and security of the Solana network. Solana is a proof-of-stake blockchain built for mass adoption ◎ Fast, composable, green, and globally distributed.
-
-### About House of Sol
-
-House of Sol is a sanctuary for institutions and DeFi on Solana. It serves as an exclusive members' club and event space where founders, institutions and ecosystem teams come together for intimate gatherings, weekly co-working and closed-door discussions to accelerate Solana's growth.
-
-Learn more and apply for membership at houseofsol.org (https://houseofsol.org)
-
-This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
-
-Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
-
-By signing up to this event you agree that Solana Foundation and House of Sol can capture any footage of you, and contact you directly about future events, major news, and more.
-
 <a id="event-adff9b2e7d307b4a"></a>
 
 ## CryptoMondays London October Event
@@ -20673,42 +20629,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-90705615c140ca4a"></a>
-
-## Ecox Mondays Wired to Thrive - Dubai Neurodivergence Community in Cooperation with Ecox Blockchain and Tech Network Community
-
-- Record: `luma-evt-lyaCf11ZxACdSX2`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T14:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/ifewtymy>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8b1328f3a585ce84"></a>
-
-## Project Harmonia Frankfurt: Allfunds x Solana Salon
-
-- Record: `luma-evt-tdoYjLUc0hLUU1N`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T16:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/Harmonia-Frankfurt>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4b075b84f16c802b"></a>
-
-## Project Harmonia Frankfurt: Allfunds x Solana Salon
-
-- Record: `luma-host-evt-evt-tdoYjLUc0hLUU1N`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T16:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/Harmonia-Frankfurt>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-bf5f0f20719de9a7"></a>
 
 ## Stablecoins Grow Up: From Crypto Rails to Real-World Money
@@ -20718,18 +20638,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-19T17:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/56472dr4>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-9baf305317776d7f"></a>
-
-## Octant’s Model for Sustainable Ethereum Growth
-
-- Record: `luma-evt-3mmc2cCRwR8KMAA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/lvguduh1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32216,6 +32124,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7ae357132a47de3f"></a>
+
+## Crypto Make Up Meeting
+
+- Record: `mu-317198806`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T19:15:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlanta-meetup-and-trade-community/events/317198806/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a13a5c3083841567"></a>
 
 ## Open Bitcoin Q&A chat!
@@ -32273,18 +32193,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/a65ocevh>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8301c416dcf94c38"></a>
-
-## AI·DAO University Tour @ Boston
-
-- Record: `luma-evt-kCAO6ghhL7NZanz`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-18T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/fmut-lh>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32852,6 +32760,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c646796109a97a93"></a>
+
+## Ownership is Everything
+
+- Record: `mu-317485952`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlanta-blockchain-center/events/317485952/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d44aa25ddd722fa4"></a>
 
 ## B.O.B. Social with Ryan Kuester (Mujina)
@@ -33129,6 +33049,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c0521b992cc7ef71"></a>
+
+## One Trillion Parameters, One Token at a Time
+
+- Record: `mu-317470214`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T08:30:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/ai-performance-engineering-atlanta/events/317470214/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-04d42c215e0a2ed8"></a>
 
 ## IXH26 Italian XRPL Hackathon
@@ -33332,6 +33264,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-371b19bfecb39e7f"></a>
+
+## Beginning Concepts to Foreign and Crypto Trading
+
+- Record: `mu-317228407`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T19:15:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlanta-meetup-and-trade-community/events/317228407/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-10c5745902d6183f"></a>
 
 ## Blockchain & AI Summit Montreal 2026 – 3rd Edition
@@ -33353,6 +33297,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20T22:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/re-p2sb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6d8e5eeb51b84472"></a>
+
+## Blockchain & AI Summit Montreal 2026 – 3rd Edition
+
+- Record: `luma-host-evt-evt-cZ0IozbqN6EDSMB`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T22:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/zollibcb>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34172,6 +34128,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-890251295ab9b613"></a>
+
+## BitPlebs: Bitcoin Pub Night @ Manuel's Tavern
+
+- Record: `mu-315044573`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T18:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlbitlab/events/315044573/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-3b26d03edfb57fdb"></a>
 
 ## BitPlebs: Bitcoin Pub Night @ Manuel's Tavern
@@ -34657,6 +34625,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T11:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/kbz0zy6x>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8b82e3207cddbb7a"></a>
+
+## Privacy & Web3 Networking Night
+
+- Record: `w3v-privacy--web3-networking-night`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T15:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/p81e75w9>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35544,6 +35524,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-13bb1970aa8efd92"></a>
+
+## The Basics of Options: From Definitions to Your First Trade
+
+- Record: `mu-317454524`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T11:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/atlanta-options-trading-group/events/317454524/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8dd7e0775e1c47bc"></a>
 
 ## Maryland Blockchain Association Monthly Virtual Meet-Ups
@@ -36354,6 +36346,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f821e34fbbb284a7"></a>
+
+## Capitol City Bitcoin meetup - virtual
+
+- Record: `mu-314396581`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-15T19:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396581/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-bc0f8af675644f93"></a>
 
 ## Blockchain and Business Networking \| Elevating Your Potential - Lisbon
@@ -36980,6 +36984,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-03-03
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.sg/e/ew-on-integrating-port-info-for-visibility-ctrl-3-5-mar-27-singapore-tickets-1681579723219>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8301c416dcf94c38"></a>
+
+## AI·DAO University Tour @ Boston
+
+- Record: `luma-evt-kCAO6ghhL7NZanz`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-03-05T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fmut-lh>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

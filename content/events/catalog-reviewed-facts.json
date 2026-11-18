@@ -213,44 +213,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-evttdoYjLUc0hLUU": {
-    "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",
-    "startDate": "2026-10-19T16:00:00.000Z",
-    "endDate": "2026-10-19T19:30:00.000Z",
-    "timezone": "Europe/Berlin",
-    "registrationUrl": "https://luma.com/harmonia-frankfurt",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "location": "Frankfurt am Main, Germany",
-    "hosts": [
-      "House of Sol"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "House of Sol",
-      "url": "https://luma.com/house-of-sol"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/harmonia-frankfurt",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/harmonia-frankfurt",
-      "eventId": "evt-tdoYjLUc0hLUU1N",
-      "fetchedAt": "2026-10-12T11:25:09.238Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-evtXDBDR2PiIUiK3": {
     "name": "Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing",
     "startDate": "2026-10-19T19:45:00.000Z",

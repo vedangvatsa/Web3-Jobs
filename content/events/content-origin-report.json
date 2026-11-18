@@ -98,22 +98,6 @@
       ]
     },
     {
-      "id": "luma-batch-evttdoYjLUc0hLUU",
-      "slug": "harmonia-frankfurt",
-      "name": "Project Harmonia Frankfurt: Allfunds x Solana Salon",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/harmonia-frankfurt",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "About Allfunds",
-        "About Solana Foundation",
-        "About House of Sol"
-      ]
-    },
-    {
       "id": "luma-batch-evtXDBDR2PiIUiK3",
       "slug": "ortl78pl",
       "name": "Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing",
