@@ -154002,7 +154002,8 @@
       "account": "69c5b139af47dacb695b5feb",
       "provider": "buffer",
       "attemptId": "d84c6605-3899-41a2-b64f-c549b7dfd477",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Buffer channel check failed: HTTP 429"
     }
   ]
 }
