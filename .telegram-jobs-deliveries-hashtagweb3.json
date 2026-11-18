@@ -1555,7 +1555,7 @@
     "sentAt": "2026-11-17T19:32:47.762Z"
   },
   "ff39201d-8de5-4a50-835d-5dac09771506": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-18T03:32:51.177Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1668,6 +1668,8 @@
       }
     ],
     "message": "- Sardine is hiring <a href=\"https://hashtagweb3.com/arc27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations (US/CA)</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/eng719?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Enablement Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/cmp88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Technology Program Lead</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls290?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Commercial Hunter</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/eng355?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer (.NET/C#)</a>",
-    "slotKey": "2026-11-18:morning"
+    "slotKey": "2026-11-18:morning",
+    "messageId": 156325,
+    "sentAt": "2026-11-18T03:32:56.329Z"
   }
 }
