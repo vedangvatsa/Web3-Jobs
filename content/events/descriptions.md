@@ -32232,6 +32232,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ce865a168f33b762"></a>
+
+## 210 Crypto
+
+- Record: `mu-317472925`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T19:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/sanantoniocrypto/events/317472925/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a13a5c3083841567"></a>
 
 ## Open Bitcoin Q&A chat!
@@ -32265,6 +32277,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-18T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/rpf9vl03>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-89519d1413bc3ebd"></a>
+
+## AICP Early Arrival Happy Hour
+
+- Record: `luma-evt-QBPq0UQt63XqFK2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-18T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/rdduo1i1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32880,6 +32904,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-675bcbb887534522"></a>
+
+## NYC Blockchain Network Meetup
+
+- Record: `luma-evt-X9KcoJh6DFAwkqg`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/uz32yibo>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-350ae4a046ad4939"></a>
 
 ## #3 Bitcoin Meetup
@@ -32889,6 +32925,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/msnp71qj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c55e95dacee40617"></a>
+
+## Solo Unicorn: AI-Native Demo Night
+
+- Record: `luma-evt-BGS0lr9oKPrOdEv`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/oy4ad0qp>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5e617c7ab386dda1"></a>
+
+## Finance & Operations Dinner @ Delmonico's
+
+- Record: `luma-evt-IVXVDRisY6Wpwdh`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/y4njfxvc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33633,6 +33693,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23T20:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/zcaxtqsh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0cd04509a8bf1d75"></a>
+
+## MVC Unicorn Hours Session: ChatGPT Edition - Build your initial MVP with Codex
+
+- Record: `luma-evt-lzW5TzmP8pAMEw5`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/e63ejpmi>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34399,6 +34471,18 @@ Bitcoin Japan 2026 takes place on 27-28 November 2026 in Akihabara, Tokyo, under
 Summit, festival and expo The Summit on 27 November is a conference for business leaders, decision-makers and business development professionals, where industry experts share real-world use cases and explore Bitcoin's potential in business. The Festival on 28 November is an interactive area where visitors can try Bitcoin through games, entertainment and activities for all ages. The Bitcoiner Expo, also on 28 November, is a conference track with expert insights, discussions and hands-on activities for people deepening their understanding of Bitcoin
 
 Venue and tickets The venue is Bellesalle Akihabara, in the Sumitomo Fudosan Akihabara Building at 3-12-8 Sotokanda, Chiyoda-ku, Tokyo, a three-minute walk from JR Akihabara Station (Electric Town Exit) and two minutes from the Tsukuba Express Exit A3. The general pass is free admission, although some activities inside the venue require a ticket. The Bitcoiner Pass is listed at 19,800 yen including tax, with final block pricing of 27,500 yen until 22 November. Paying with Lightning gives a 10% discount on the tax-inclusive prices. The Bitcoiner Pass covers the Lounge, Entertainment Area, Bitcoin Marche, Sats giveaway entry, networking reception and exclusive merchandise.
+
+<a id="event-0725b4b6a54dc7fe"></a>
+
+## Bitcoin Sauga
+
+- Record: `luma-evt-APc7728MmqkkBB4`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/74s656li>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-6b92ac9dea63b284"></a>
 

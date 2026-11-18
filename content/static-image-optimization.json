@@ -4849,10 +4849,6 @@
       "sha256": "a06a57d4a07b57e6fb814ad4fa9688859bfdc1088dde0dc75df55e03b7b30b39",
       "status": "retained"
     },
-    "/events/ma-token2049-singapore-2027-d2b3a862.webp": {
-      "sha256": "dd2d2b1661ce413b60a02541cb6f10b8a3879d169ff6e5750c09fdaa83d80b8d",
-      "status": "optimized"
-    },
     "/events/ma-web-summit-2027-b6238e2b.webp": {
       "sha256": "c30a54237d40084b7352946c64cb8b1793749e697dffdd79165b37c0eb1c6ab1",
       "status": "optimized"
