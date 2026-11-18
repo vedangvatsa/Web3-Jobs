@@ -429,7 +429,7 @@
     "sentAt": "2026-11-17T19:34:53.876Z"
   },
   "00612eb7-5ee8-4732-b9c2-e3dc38e69dad": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-18T03:34:45.639Z",
     "stories": [
       {
@@ -457,6 +457,8 @@
         "originalTitle": "OpenAI launches ChatGPT Wallet for agent purchases with Visa, Mastercard and Amex"
       }
     ],
-    "slotKey": "2026-11-18:morning"
+    "slotKey": "2026-11-18:morning",
+    "messageId": 65839,
+    "sentAt": "2026-11-18T03:35:01.550Z"
   }
 }
