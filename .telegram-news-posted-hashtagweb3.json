@@ -38,6 +38,9 @@
   "https://hashtagweb3.com/custodia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/vitalikquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/megacuts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nakamotoloan?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/gptwallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/defiamicus?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -116,6 +119,12 @@
   "Vitalik Buterin backs leanPCS as the fast route to quantum-safe Ethereum",
   "MEGA cuts 20% of staff to develop AI products",
   "MEGA cuts 20% of staff as MegaETH group shifts toward AI products",
+  "Nakamoto delays $60 million Kraken loan principal to 2027",
+  "Nakamoto extends $165 million Kraken loan with no principal due in 2026",
+  "OpenAI launches ChatGPT Wallet for AI agent credit card payments",
+  "OpenAI launches ChatGPT Wallet for agent purchases with Visa, Mastercard and Amex",
+  "Crypto groups challenge Illinois 0.2% digital asset tax",
+  "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -154,5 +163,8 @@
   "fp:bank|border|cbdc|central|clear|cross|dollar|euro|german|germany",
   "fp:access|account|application|authority|bank|bid|court|custodia|deny|down",
   "fp:back|blockchain|buterin|chang|cryptographic|eip8288|fast|his|keep|larg",
-  "fp:30m|allocat|cuts20|develop|firm|group|inferenc|layer2|mega|megaeth"
+  "fp:30m|allocat|cuts20|develop|firm|group|inferenc|layer2|mega|megaeth",
+  "fp:165m|60m|add|agreement|collateral|deadlin|delay|derivativ|due|extend",
+  "fp:amex|approval|card|credit|enabl|execut|mastercard|openai|payment|purchas",
+  "fp:ask|asset|call|challeng|coalition|court|declar|defi|digital|discriminatory"
 ]

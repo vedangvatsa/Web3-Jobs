@@ -429,7 +429,7 @@
     "sentAt": "2026-11-17T19:34:56.660Z"
   },
   "05c21a46-39a0-471f-8b05-f1e1bdb08b6b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-18T03:35:34.615Z",
     "stories": [
       {
@@ -457,6 +457,8 @@
         "originalTitle": "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful"
       }
     ],
-    "slotKey": "2026-11-18:morning"
+    "slotKey": "2026-11-18:morning",
+    "messageId": 156326,
+    "sentAt": "2026-11-18T03:35:44.075Z"
   }
 }
