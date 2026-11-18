@@ -154087,6 +154087,34 @@
       "attemptId": "aed4494c-827c-4e2a-9ca6-dec2fc2d72b6",
       "verification": "verified",
       "postId": "urn:li:share:7528904069357322241"
+    },
+    {
+      "slug": "int53",
+      "company": "Galaxy Digital",
+      "title": "2027 Research Intern - NYC",
+      "platform": "facebook",
+      "postedAt": "2026-11-18T19:33:29.248Z",
+      "expectedText": "Galaxy Digital is hiring 2027 Research Intern - NYC: https://hashtagweb3.com/int53/fb?og=7",
+      "snapshot": {
+        "id": "6250004004",
+        "title": "2027 Research Intern - NYC",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250004004",
+        "date": "2026-11-06T13:20:53-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Early Careers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "int53"
+      },
+      "payload": {
+        "message": "Galaxy Digital is hiring 2027 Research Intern - NYC: https://hashtagweb3.com/int53/fb?og=7",
+        "link": "https://hashtagweb3.com/int53/fb?og=7"
+      },
+      "attemptId": "4943c5d0-a370-4680-9afb-400a2c8b0c10",
+      "verification": "creating"
     }
   ]
 }
