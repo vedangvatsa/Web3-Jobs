@@ -10,7 +10,8 @@ let jobsLoad: Promise<Job[]> | null = null;
 export async function getJobs(): Promise<Job[]> {
   if (jobsCache) return jobsCache.filter(job => isJobAgeEligible(job));
   if (!jobsLoad) {
-    jobsLoad = loadStaticJson<Job[]>('jobs-runtime.json', Array.isArray, { localOnly: true })
+    const localOnly = process.env.HASHTAGWEB3_CLOUDFLARE !== '1';
+    jobsLoad = loadStaticJson<Job[]>('jobs-runtime.json', Array.isArray, { localOnly })
       .then((runtime) => {
         if (!Array.isArray(runtime)) {
           throw new Error('Invalid jobs runtime catalog');
