@@ -184064,30 +184064,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "37070f03b6a63374a463",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T20:44:01.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps\": https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Re-read the Nov 16 Alsobrooks press release including the full 13-question letter (primary) and Cointelegraph's Nov 17 report; verified the four senators, the Sept. 17 exemption, the AML/KYC and token-level transfer gaps, the over-sixty-issuer objection figure and the OKXICE 67-company notice. The Block URL stays 403. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
       "sourceChecks": [
         {
+          "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+          "outcome": "read"
+        },
+        {
           "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-17T02:33:25.113Z"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T02:33:46.082Z",
+      "reviewedAt": "2026-11-18T01:59:48.687Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
         "Find independent reporting confirming the event in: Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18",
+      "lastReviewedDay": "2026-11-18",
       "articleSlug": "tokenizedaml",
       "draftProgress": {
         "id": "37070f03b6a63374a463",
@@ -185275,14 +185279,22 @@
         "The Defiant"
       ],
       "id": "193b8cbf43d59809d916",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T16:41:42.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
-      "reason": "source-blocked",
-      "note": "Attempted all three sources: CoinDesk returned HTTP 429, BeInCrypto returned 403, The Defiant returned 403. No source text opened yet, so the reported 0.4 million exploit figure and withdrawal halt remain unverified.",
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph's updated Nov 16 report (postmortem, $5M recovery, Guardian mode, nonce-reuse cause) and Bitquery's on-chain investigation (10,393,057 USDC at 10:11 UTC, CoW Swap conversion, 1,920 ETH via 12 wallets to Hyperliquid XMR1); verified figures across both. CoinDesk 429, BeInCrypto 403 and The Defiant 403 remain blocked. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
       "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitquery.io/investigations/lighter-hack",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
           "outcome": "blocked"
@@ -185296,12 +185308,11 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T02:40:10.370Z",
+      "reviewedAt": "2026-11-18T01:59:48.688Z",
       "retrySearches": [
         "Find an accessible second report on the Lighter exchange 0.4 million exploit and withdrawal halt, including Lighter's own announcement or post-mortem"
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18",
+      "lastReviewedDay": "2026-11-18",
       "articleSlug": "lighterhalt",
       "draftProgress": {
         "id": "193b8cbf43d59809d916",
@@ -368944,6 +368955,56 @@
           ],
           "reviewedAt": "2026-11-18T01:54:13.099Z",
           "articleSlug": "coingeckostake"
+        },
+        "37070f03b6a63374a463": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Nov 16 Alsobrooks press release including the full 13-question letter (primary) and Cointelegraph's Nov 17 report; verified the four senators, the Sept. 17 exemption, the AML/KYC and token-level transfer gaps, the over-sixty-issuer objection figure and the OKXICE 67-company notice. The Block URL stays 403. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
+          "sourceChecks": [
+            {
+              "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T01:59:48.687Z",
+          "articleSlug": "tokenizedaml"
+        },
+        "193b8cbf43d59809d916": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph's updated Nov 16 report (postmortem, $5M recovery, Guardian mode, nonce-reuse cause) and Bitquery's on-chain investigation (10,393,057 USDC at 10:11 UTC, CoW Swap conversion, 1,920 ETH via 12 wallets to Hyperliquid XMR1); verified figures across both. CoinDesk 429, BeInCrypto 403 and The Defiant 403 remain blocked. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitquery.io/investigations/lighter-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://beincrypto.com/lighter-api-key-exploit-abraxas-withdrawals/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/lighter-halts-all-withdrawals-over-security-incident",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T01:59:48.688Z",
+          "articleSlug": "lighterhalt"
         }
       },
       "baselineSlugs": [
