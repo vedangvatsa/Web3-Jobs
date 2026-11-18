@@ -154866,6 +154866,47 @@
       "attemptId": "8d6ea68d-77eb-4fdd-b039-be52cb58b0be",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "an121",
+      "company": "Chainalysis",
+      "title": "Senior Deal Desk Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-18T19:37:16.656Z",
+      "expectedText": "Chainalysis is hiring Senior Deal Desk Analyst: https://hashtagweb3.com/an121/li?og=7",
+      "snapshot": {
+        "id": "f0dc5b8d-1353-46a7-a519-80d7df3bcfe1",
+        "title": "Senior Deal Desk Analyst",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/f0dc5b8d-1353-46a7-a519-80d7df3bcfe1",
+        "date": "2026-11-06T15:13:49.025+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote (Florida)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an121"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Senior Deal Desk Analyst: https://hashtagweb3.com/an121/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an121/li?og=7",
+          "title": "Senior Deal Desk Analyst at Chainalysis",
+          "description": "Join Chainalysis as Senior Deal Desk Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an121.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "05ad4287-9553-4c4f-a871-f9f5ddcc19bc",
+      "verification": "creating"
     }
   ]
 }
