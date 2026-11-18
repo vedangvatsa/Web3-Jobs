@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-11-18T01:44:01.183Z",
+  "generatedAt": "2026-11-18T03:31:24.635Z",
   "items": [
+    {
+      "title": "AG-UI Protocol Surges on GitHub with 1,444 Stars in 24 Hours",
+      "link": "https://blockchain.news/news/ag-ui-protocol-github-trending",
+      "pubDate": "Wed, 18 Nov 2026 03:19:20 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "AG-UI, an open-source protocol for integrating AI agents into frontend apps, gains 1,444 stars in a day, reaching 19,891 stars on GitHub. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Binance Blockchain Week 2026 Agenda Unveiled for Bangkok Event",
+      "link": "https://blockchain.news/news/binance-blockchain-week-2026-bangkok",
+      "pubDate": "Wed, 18 Nov 2026 02:58:20 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance Blockchain Week 2026, set for Nov 28–29 in Bangkok, will explore AI finance, digital assets, and professional adoption with global leaders. (R...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Binance Expands to TradFi: Stocks, ETFs, and Tokenized Securities",
+      "link": "https://blockchain.news/news/binance-tradfi-stocks-etfs-tokenized-securities",
+      "pubDate": "Wed, 18 Nov 2026 02:50:20 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance now offers 7,000+ U.S. stocks, ETFs, and tokenized securities, enabling multi-asset trading via stablecoins in a unified app. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+      "link": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+      "pubDate": "Wed, 18 Nov 2026 02:47:51 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
+      "source": "The Block"
+    },
+    {
+      "title": "What’s happening to crypto startup valuations?",
+      "link": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+      "pubDate": "Wed, 18 Nov 2026 02:40:00 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
+      "source": "The Block"
+    },
+    {
+      "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
+      "link": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 02:39:52 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Injective  (INJ)Partners with University of Tokyo to Advance Blockchain Innovation",
+      "link": "https://blockchain.news/news/injective-university-of-tokyo-blockchain-partnership",
+      "pubDate": "Wed, 18 Nov 2026 02:34:20 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Injective  (INJ)collaborates with the University of Tokyo’s Endowed Chair for Blockchain Innovation to explore blockchain applications in financial sy...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Eastern Europe Crypto Economy Shrinks 7.9% to $642.1B in 2026",
+      "link": "https://blockchain.news/news/eastern-europe-crypto-economy-2026",
+      "pubDate": "Wed, 18 Nov 2026 02:19:20 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Eastern Europe’s crypto economy fell 7.9% to $642.1B in 2026, driven by regulatory uncertainty, tax changes, and refugee-driven stablecoin flows. (Rea...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Tether Capital Invests in Stables to Boost USD₮ Payments in Asia and MENA",
+      "link": "https://blockchain.news/news/tether-capital-invests-in-stables-usdt-asia-mena",
+      "pubDate": "Wed, 18 Nov 2026 02:12:20 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Tether Capital's investment in Stables aims to enhance USD₮ payment infrastructure, enabling faster and more affordable cross-border transactions in A...",
+      "source": "Blockchain.News"
+    },
     {
       "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
       "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
@@ -56,14 +128,6 @@
       "creator": "Staff",
       "contentSnippet": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to ...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
-      "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 20:05:04 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukrai...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
@@ -370,14 +434,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
-      "link": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
-      "pubDate": "Tue, 17 Nov 2026 10:20:37 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "Tether said the deal could ease international payments in Brazil and open the door to USDT and Tether Gold integrations.",
-      "source": "The Block"
-    },
-    {
       "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
       "link": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 17 Nov 2026 09:30:05 +0000",
@@ -418,14 +474,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "CZ denies Binance sold crypto, Bitwise sees Solana at $1,100 by 2031, and more",
-      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-17-cz-binance-bitwise-solana-more-crypto-news-441584",
-      "pubDate": "Tue, 17 Nov 2026 05:45:00 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "In today's newsletter, CZ denies Binance sold crypto as bitcoin rebounds from four-month low; Bitwise sees Solana reaching $1,100 by 2031 in bull case...",
-      "source": "The Block"
-    },
-    {
       "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
       "link": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
       "pubDate": "Tue, 17 Nov 2026 05:37:23 +0000",
@@ -440,14 +488,6 @@
       "creator": "Shaurya Malwa",
       "contentSnippet": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers.",
       "source": "Coindesk"
-    },
-    {
-      "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-      "link": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
-      "pubDate": "Mon, 16 Nov 2026 23:27:15 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
-      "source": "The Block"
     },
     {
       "title": "German lawmakers back crypto freezes outside criminal cases",
@@ -535,14 +575,6 @@
       "pubDate": "Mon, 16 Nov 2026 18:07:49 +0000",
       "creator": "Adrian Zmudzinski",
       "contentSnippet": "Nvidia’s leadership upheaval and Texas permit restrictions sharpen the divide between miners with funded projects and those still seeking capital and ...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
-      "link": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 16 Nov 2026 17:49:13 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts.",
       "source": "Cointelegraph"
     },
     {
