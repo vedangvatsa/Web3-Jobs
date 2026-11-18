@@ -183109,11 +183109,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "5d02200fc6299b1f0154",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T00:18:19.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece in full: it is an AI-assisted analysis of oil prices citing the Wall Street Journal and the IEA, with no Web3 entity, no protocol or filing, and no concrete event. Price-direction commentary on crude oil is outside this site's scope.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/oil-prices-fall-as-supply-surplus-concerns-outweigh-middle-east-tensions/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:22:09.105Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "bf51d5c68c6d33562562": {
       "source": "Cointelegraph",
@@ -370192,6 +370202,18 @@
             "Find independent outlet coverage of the Bitcoin Policy Institute rebrand to the Finney Foundation and the Open Technology Declaration",
             "Check finneyfoundation.org for the declaration and fellows announcement"
           ]
+        },
+        "5d02200fc6299b1f0154": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece in full: it is an AI-assisted analysis of oil prices citing the Wall Street Journal and the IEA, with no Web3 entity, no protocol or filing, and no concrete event. Price-direction commentary on crude oil is outside this site's scope.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/oil-prices-fall-as-supply-surplus-concerns-outweigh-middle-east-tensions/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:22:09.105Z"
         }
       },
       "baselineSlugs": [
