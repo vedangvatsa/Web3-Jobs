@@ -183938,11 +183938,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "42372d43109b4c4eac85",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-18T06:40:07.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "out-of-scope",
+      "note": "Read the CryptoSlate article in full: it covers the Science Prediction Universe arXiv benchmark study of 13 AI agent configurations ranking lab experiments. No blockchain, protocol, company filing or Web3 event appears anywhere in the reporting; it is AI research coverage, not a concrete Web3 news event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/ai-models-agreed-with-each-other-more-than-with-reality-in-a-new-test/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:22:10.011Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "c356bb399040b720bfe9": {
       "source": "Cointelegraph",
@@ -187499,11 +187509,30 @@
         "Decrypt"
       ],
       "id": "901e4f00fff0c699a425",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T22:46:44.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "verified-event",
+      "note": "Read both outlets in full. The Bundestag passed the Customs Financial Justice Act on Nov. 12 per the German government as Decrypt reported; bill lets customs hold assets over 100,000 euros for 30 days without a criminal case, explicitly covers crypto, still needs Bundesrat consent for a Jan. 1, 2027 start. Drafted content/articles/customsfreeze.md (682 counted words), hero downloaded from Wikimedia (Juergen Matern, CC BY-SA 3.0) and compressed to 180KB; quality, formatting, image and duplicate audits report no issues for this file and all outbound links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Reichstag%20building%20Berlin%20view%20from%20west%20before%20sunset.jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:25:34.228Z",
+      "articleSlug": "customsfreeze",
+      "lastReviewedDay": "2026-11-18"
     },
     "03cbd990ef566130f08f": {
       "source": "Decrypt",
@@ -370214,6 +370243,39 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:22:09.105Z"
+        },
+        "42372d43109b4c4eac85": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the CryptoSlate article in full: it covers the Science Prediction Universe arXiv benchmark study of 13 AI agent configurations ranking lab experiments. No blockchain, protocol, company filing or Web3 event appears anywhere in the reporting; it is AI research coverage, not a concrete Web3 news event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/ai-models-agreed-with-each-other-more-than-with-reality-in-a-new-test/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:22:10.011Z"
+        },
+        "901e4f00fff0c699a425": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read both outlets in full. The Bundestag passed the Customs Financial Justice Act on Nov. 12 per the German government as Decrypt reported; bill lets customs hold assets over 100,000 euros for 30 days without a criminal case, explicitly covers crypto, still needs Bundesrat consent for a Jan. 1, 2027 start. Drafted content/articles/customsfreeze.md (682 counted words), hero downloaded from Wikimedia (Juergen Matern, CC BY-SA 3.0) and compressed to 180KB; quality, formatting, image and duplicate audits report no issues for this file and all outbound links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Reichstag%20building%20Berlin%20view%20from%20west%20before%20sunset.jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:25:34.228Z",
+          "articleSlug": "customsfreeze"
         }
       },
       "baselineSlugs": [
