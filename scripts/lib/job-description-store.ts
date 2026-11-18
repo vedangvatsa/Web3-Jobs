@@ -98,12 +98,25 @@ function writeShardsAtomically(shards: JobDescriptionShard[], root: string): voi
     }
 
     validateWrittenShards(temporaryPath, shards);
-    if (fs.existsSync(shardsPath)) fs.renameSync(shardsPath, backupPath);
+
+    const moveDir = (from: string, to: string): void => {
+      fs.rmSync(to, { recursive: true, force: true });
+      try {
+        fs.renameSync(from, to);
+      } catch (error) {
+        const code = (error as NodeJS.ErrnoException).code;
+        if (code !== 'EXDEV') throw error;
+        fs.cpSync(from, to, { recursive: true });
+        fs.rmSync(from, { recursive: true, force: true });
+      }
+    };
+
+    if (fs.existsSync(shardsPath)) moveDir(shardsPath, backupPath);
 
     try {
-      fs.renameSync(temporaryPath, shardsPath);
+      moveDir(temporaryPath, shardsPath);
     } catch (error) {
-      if (fs.existsSync(backupPath)) fs.renameSync(backupPath, shardsPath);
+      if (fs.existsSync(backupPath)) moveDir(backupPath, shardsPath);
       throw error;
     }
 

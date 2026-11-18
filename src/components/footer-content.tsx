@@ -1,4 +1,4 @@
-import { Instagram, Linkedin, Mail, Send, ShieldCheck, Youtube } from 'lucide-react';
+import { Instagram, Linkedin, Mail, Send, Youtube } from 'lucide-react';
 import { XBrandIcon } from '@/components/x-brand-icon';
 import Link from 'next/link';
 
@@ -92,19 +92,12 @@ export function FooterContent() {
       </div>
 
       <div
-        className="mt-10 rounded-lg border border-border/50 bg-muted/20 p-4 text-xs text-muted-foreground leading-relaxed space-y-2"
+        className="mt-6 rounded-md border border-border/50 bg-muted/20 px-3 py-2 text-[11px] text-muted-foreground leading-snug"
         role="note"
         aria-label="Security and trademark notice"
       >
-        <div className="flex items-center gap-1.5 font-medium text-foreground">
-          <ShieldCheck className="h-4 w-4 text-primary shrink-0" aria-hidden />
-          <span>Security &amp; Trademark Notice</span>
-        </div>
-        <p>
-          Hashtag Web3 will never ask for private keys, seed phrases, passwords, or direct transfers of funds. Official communications occur only through verified channels. Please stay vigilant against impersonation attempts on third-party messaging services.
-        </p>
-        <p>
-          All third-party trademarks, company names, product names, and logos displayed on this site are the property of their respective owners. Their use does not imply any affiliation, sponsorship, or endorsement by or of Hashtag Web3.
+        <p className="m-0">
+          Hashtag Web3 will never ask for private keys, seed phrases, passwords, or direct transfers of funds. Official communications occur only through verified channels. Please stay vigilant against impersonation attempts on third-party messaging services. All third-party trademarks, company names, product names, and logos displayed on this site are the property of their respective owners. Their use does not imply any affiliation, sponsorship, or endorsement by or of Hashtag Web3.
         </p>
       </div>
    </div>
