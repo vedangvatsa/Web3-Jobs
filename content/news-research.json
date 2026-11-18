@@ -185530,7 +185530,27 @@
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 0,
       "expiresAt": "2026-11-19T08:50:50.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "articleSlug": "dbskinexys",
+      "draftProgress": {
+        "id": "535d91a79ddf92303889",
+        "day": "2026-11-18",
+        "articleSlug": "dbskinexys",
+        "note": "Read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report on the DBS-Kinexys 24/7 tokenized deposit service; verified launch date, Ant International first client, Partior, Saturday pause and Project BLOOM. Draft and image still to be produced.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptoslate.com/jpmorgan-and-dbs-offer-24-7-dollar-transfers-without-stablecoins/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-18T02:04:56.113Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "80d078750ba4001355eb": {
       "source": "CryptoSlate",
