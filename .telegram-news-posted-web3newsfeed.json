@@ -41,6 +41,9 @@
   "https://hashtagweb3.com/comeback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nakamotoloan?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/gptwallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bessentnvidia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitmineeth?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/customsfreeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -125,6 +128,12 @@
   "Nakamoto extends $165 million Kraken loan with no principal due in 2026",
   "OpenAI launches ChatGPT Wallet for AI agent credit card payments",
   "OpenAI launches ChatGPT Wallet for agent purchases with Visa, Mastercard and Amex",
+  "Treasury Secretary Questions Nvidia Board Over China Export Controls",
+  "Bessent Gives Nvidia's Board 10 Days to Explain Export-Control Failures",
+  "Bitmine Adds 7,653 Ether as Tom Lee Explains Decline",
+  "Bitmine adds 7,653 ETH as Tom Lee ties ether's slide to Nvidia and the Anthropic IPO",
+  "Germany Grants Customs Power to Hold Unexplained Crypto",
+  "Bundestag approves customs powers to freeze crypto of unclear origin",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -166,5 +175,8 @@
   "fp:30m|asid|cuts20|expansion|group|inferenc|mega|megaeth|rebrand|reduc",
   "fp:ally|are|campaign|comeback|consider|contact|executiv|former|hous|huang",
   "fp:165m|60m|allow|collateral|count|delay|derivativ|due|extend|in2026",
-  "fp:allow|amex|approv|automat|card|credit|major|mastercard|network|openai"
+  "fp:allow|amex|approv|automat|card|credit|major|mastercard|network|openai",
+  "fp:alleg|bessent|board|board10|china|chip|control|day|detail|diversion",
+  "fp:118b|653|adds7|anthropic|attribut|bitmin|chairman|declin|drop|eth",
+  "fp:000|approv|bundestag|can|cas|criminal|custom|day|detain|euro"
 ]
