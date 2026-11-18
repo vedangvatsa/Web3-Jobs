@@ -41,6 +41,9 @@
   "https://hashtagweb3.com/nakamotoloan?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/gptwallet?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/defiamicus?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bessentnvidia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bitmineeth?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/customsfreeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -125,6 +128,12 @@
   "OpenAI launches ChatGPT Wallet for agent purchases with Visa, Mastercard and Amex",
   "Crypto groups challenge Illinois 0.2% digital asset tax",
   "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful",
+  "Treasury Demands Nvidia Board Explain Alleged Chinese Chip Diversions",
+  "Bessent Gives Nvidia's Board 10 Days to Explain Export-Control Failures",
+  "Bitmine buys 7,653 Ether as chairman addresses price drop",
+  "Bitmine adds 7,653 ETH as Tom Lee ties ether's slide to Nvidia and the Anthropic IPO",
+  "German parliament grants customs power to freeze crypto assets",
+  "Bundestag approves customs powers to freeze crypto of unclear origin",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -166,5 +175,8 @@
   "fp:30m|allocat|cuts20|develop|firm|group|inferenc|layer2|mega|megaeth",
   "fp:165m|60m|add|agreement|collateral|deadlin|delay|derivativ|due|extend",
   "fp:amex|approval|card|credit|enabl|execut|mastercard|openai|payment|purchas",
-  "fp:ask|asset|call|challeng|coalition|court|declar|defi|digital|discriminatory"
+  "fp:ask|asset|call|challeng|coalition|court|declar|defi|digital|discriminatory",
+  "fp:alleg|bessent|board|board10|china|chines|chip|control|day|demand",
+  "fp:118b|607m|653|address|adds7|anthropic|attribut|bitmin|buys7|chairman",
+  "fp:000|approv|asset|bundestag|can|charg|criminal|currency|custom|day"
 ]
