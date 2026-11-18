@@ -185417,11 +185417,23 @@
         "Bankless"
       ],
       "id": "d9514a43e158453476c1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T14:19:50.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "duplicate",
+      "note": "Covers the same Nov. 16 Lighter exploit,  million recovery and withdrawal restore already reported in content/articles/lighterhalt.md.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:21:38.409Z",
+      "duplicateOf": "lighterhalt",
+      "mergedInto": "193b8cbf43d59809d916",
+      "lastReviewedDay": "2026-11-18"
     },
     "5956079eb5342ec558e5": {
       "source": "The Defiant",
@@ -369410,6 +369422,20 @@
           ],
           "reviewedAt": "2026-11-18T02:16:34.290Z",
           "articleSlug": "bessentnvidia"
+        },
+        "d9514a43e158453476c1": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Covers the same Nov. 16 Lighter exploit,  million recovery and withdrawal restore already reported in content/articles/lighterhalt.md.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:21:38.409Z",
+          "duplicateOf": "lighterhalt",
+          "mergedInto": "193b8cbf43d59809d916"
         }
       },
       "baselineSlugs": [
