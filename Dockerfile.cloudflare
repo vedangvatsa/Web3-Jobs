@@ -20,9 +20,9 @@ ENV FAH_FAST_PREBUILD=1 \
     HOSTNAME=0.0.0.0 \
     NODE_ENV=production
 
-# Match Firebase App Hosting: committed catalogs only — no prebuild (prebuild rewrites
-# job-description-shards via rename, which fails with EXDEV on Docker overlay FS).
-RUN npm run build
+# Do not use `npm run build` — npm runs the `prebuild` lifecycle first, which rewrites
+# job-description-shards (EXDEV on Docker overlay FS). Match FAH's fast production path.
+RUN npx tsx scripts/run-production-build.ts
 
 EXPOSE 8080
 CMD ["node", ".next/standalone/server.js"]
