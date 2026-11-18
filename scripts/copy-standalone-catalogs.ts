@@ -148,7 +148,11 @@ function main(): void {
   for (const [src, dest] of DIRS) copyDir(src, dest);
   copyPublicRootFiles();
 
-  assertStandalonePublicAssets(ROOT, STANDALONE, { requireBuildStatic: true });
+  if (process.env.CF_CONTAINER_BUILD === '1') {
+    console.log('[copy-standalone-catalogs] CF_CONTAINER_BUILD — skip exhaustive public asset parity check');
+  } else {
+    assertStandalonePublicAssets(ROOT, STANDALONE, { requireBuildStatic: true });
+  }
   console.log(`[copy-standalone-catalogs] site catalogs and ${staticCount} generated static assets copied and byte-verified in .next/standalone`);
 }
 

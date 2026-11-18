@@ -11,7 +11,8 @@ RUN npm ci --no-audit --no-fund
 
 COPY . .
 
-ENV FAH_FAST_PREBUILD=1 \
+ENV CF_CONTAINER_BUILD=1 \
+    FAH_FAST_PREBUILD=1 \
     OG_PRECOMPUTE=0 \
     OG_FILL_MISSING=1 \
     NODE_OPTIONS=--max-old-space-size=3072 \

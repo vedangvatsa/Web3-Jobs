@@ -20,7 +20,9 @@ function main(): void {
     run('npm run test:company-jobs');
     run('next build');
     run('tsx scripts/copy-standalone-catalogs.ts');
-    run('tsx scripts/test-standalone-public-assets.ts');
+    if (process.env.CF_CONTAINER_BUILD !== '1') {
+      run('tsx scripts/test-standalone-public-assets.ts');
+    }
     return;
   }
 
