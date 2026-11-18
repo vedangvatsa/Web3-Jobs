@@ -548,5 +548,52 @@
     "slotKey": "2026-11-17:evening",
     "messageId": 156321,
     "sentAt": "2026-11-17T19:32:53.153Z"
+  },
+  "76e4bbea-4773-434c-85d5-b4c38f52e06f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T03:32:35.492Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-O4eHyJeGwaCggZs",
+        "slug": "tangem-pen",
+        "name": "Tangem × Penn Blockchain: The Rise of Crypto in the AI Era",
+        "startDate": "2026-11-18T23:00:00.000Z",
+        "keys": [
+          "luma-crypto-o4ehyjegwacggzs",
+          "page:tangem-pen:2026-11-18",
+          "luma:evt-o4ehyjegwacggzs",
+          "luma-url:/synjdki8",
+          "event:tangempennblockchaintheriseofcryptointheaiera:2026-11-18:philadelphia"
+        ]
+      },
+      {
+        "id": "curated-global-bitcoin-circular-economies-summit-2026-11-19",
+        "slug": "global-bitcoin-circular-economies-summit",
+        "name": "Global Bitcoin Circular Economies Summit 2026",
+        "startDate": "2026-11-19",
+        "keys": [
+          "curated-global-bitcoin-circular-economies-summit-2026-11-19",
+          "page:global-bitcoin-circular-economies-summit:2026-11-19",
+          "url:bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026:2026-11-19",
+          "event:globalbitcoincirculareconomiessummit2026:2026-11-19:el zonte"
+        ]
+      },
+      {
+        "id": "luma-crypto-u6pVAEl2xw4XEpN",
+        "slug": "blockchain7q5",
+        "name": "Blockchain Banter Presents: Web3 Poker Club x Wifey - Wolfpack Poker Night",
+        "startDate": "2026-11-19T18:00:00.000Z",
+        "keys": [
+          "luma-crypto-u6pvael2xw4xepn",
+          "page:blockchain7q5:2026-11-19",
+          "luma:evt-u6pvael2xw4xepn",
+          "luma-url:/7q5g8hwc",
+          "event:blockchainbanterpresentsweb3pokerclubxwifeywolfpackpokernight:2026-11-19:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-18:morning"
   }
 }
