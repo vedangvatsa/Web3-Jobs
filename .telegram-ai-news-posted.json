@@ -44,6 +44,9 @@
   "https://siliconangle.com/2026/11/18/at-ignite-2026-microsoft-reinvents-copilot-as-the-autonomous-engine-of-enterprise-work/",
   "https://www.marktechpost.com/2026/11/17/sid-ai-sid-2-agentic-search-swarm/",
   "https://www.marktechpost.com/2026/11/17/perplexity-computer-multiagent-effort-level/",
+  "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
+  "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
+  "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -134,6 +137,12 @@
   "SID AI Releases SID-2 Agentic Search Model With 0.720 NDCG Swarm Mode",
   "Perplexity adds multiagent system to Perplexity Computer workspace",
   "Perplexity Computer Adds Multiagent: Up to 16 AI Agents That Cross-Check Work",
+  "Google DeepMind releases Genie 4 world model",
+  "Google Deepmind's Project Genie update brings Genie 4, chainable worlds, and a community gallery for remixing",
+  "Microsoft launches in-house AI models for enterprise agents",
+  "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
+  "OpenAI uses AI to accelerate semiconductor chip design",
+  "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -178,5 +187,8 @@
   "fp:000|400|700|abus|child|childlight|content|from4|generat|in2023",
   "fp:announc|application|automat|autonomous|copilot|cor|directly|emb|engin|execut",
   "fp:achiev|agentic|architectur|benchmark|high|learn|mod|multi|ndcg|reinforcement",
-  "fp:add|allow|check|computer|concurrent|cross|divid|multiagent|multipl|perplexity"
+  "fp:add|allow|check|computer|concurrent|cross|divid|multiagent|multipl|perplexity",
+  "fp:chainabl|community|environment|gallery|generat|geni|genie4|googl|google|immersiv",
+  "fp:alternativ|automation|cheaper|continuous|cost|design|hous|improv|introduc|microsoft",
+  "fp:accelerat|achiev|amd|architectur|chip|deliver|design|engineer|hardwar|improvement"
 ]
