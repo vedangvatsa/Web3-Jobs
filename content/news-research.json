@@ -188301,11 +188301,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "28c5642f70e3a503a381",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T21:18:13.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "out-of-scope",
+      "note": "Read Crypto Briefing's Nov 16 report on Altimeter's Q3 13F: a .29 billion Nvidia equity stake with no crypto or Web3 angle. The second listed URL is a separate Crypto Briefing piece on Tiger Global, not independent coverage of this filing. Equity portfolio disclosure outside the Web3 beat.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/altimeter-capital-nvidia-stake-q3-portfolio/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:43:41.892Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "98af3dcf911db7a81e91": {
       "source": "Crypto Briefing",
@@ -370599,6 +370609,18 @@
             "Open and read independent coverage of Boris Johnson's Nov. 16 Breakpoint London panel remarks, such as cryptobriefing.com/boris-johnson-bitcoin-skepticism-solana-breakpoint/ or the The Block report dated Nov. 16",
             "Retry the BeInCrypto URL after any Retry-After time, within the existing verification window."
           ]
+        },
+        "28c5642f70e3a503a381": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Crypto Briefing's Nov 16 report on Altimeter's Q3 13F: a .29 billion Nvidia equity stake with no crypto or Web3 angle. The second listed URL is a separate Crypto Briefing piece on Tiger Global, not independent coverage of this filing. Equity portfolio disclosure outside the Web3 beat.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/altimeter-capital-nvidia-stake-q3-portfolio/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:43:41.892Z"
         }
       },
       "baselineSlugs": [
