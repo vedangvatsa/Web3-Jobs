@@ -150140,7 +150140,8 @@
       },
       "account": "channel:dev",
       "attemptId": "2018bf56-6442-48a1-b865-6543c288775f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x70cb09144d8c29a2b7a5a448f000b782899375ef"
     }
   ]
 }
