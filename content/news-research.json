@@ -186688,14 +186688,18 @@
       "expiresAt": "2026-11-19T11:03:14.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "price-chatter",
-      "note": "Read CoinDesk's Nov 16 markets report: the story covers bitcoin slipping toward 4,000 after a weekend flush and  billion in liquidations, with trader price expectations. Price moves and liquidation totals without a separate concrete event fall under price chatter.",
+      "note": "Read Decrypt's Nov 16 report: bitcoin fell to about $62,100 Sunday with roughly $2 billion in liquidations, seven straight ETF outflow days and trader option positioning. Pure price/liquidation coverage with no separate concrete event, so it falls under price chatter. CoinDesk returned HTTP 429 on WebFetch and direct GET with the readiness UA.",
       "sourceChecks": [
         {
-          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+          "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
           "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T04:03:29.910Z",
+      "reviewedAt": "2026-11-18T04:04:12.671Z",
       "lastReviewedDay": "2026-11-18"
     },
     "df93e0004ce41771db62": {
@@ -369790,14 +369794,18 @@
         "80507dba1ede954a96e7": {
           "status": "rejected",
           "reason": "price-chatter",
-          "note": "Read CoinDesk's Nov 16 markets report: the story covers bitcoin slipping toward 4,000 after a weekend flush and  billion in liquidations, with trader price expectations. Price moves and liquidation totals without a separate concrete event fall under price chatter.",
+          "note": "Read Decrypt's Nov 16 report: bitcoin fell to about $62,100 Sunday with roughly $2 billion in liquidations, seven straight ETF outflow days and trader option positioning. Pure price/liquidation coverage with no separate concrete event, so it falls under price chatter. CoinDesk returned HTTP 429 on WebFetch and direct GET with the readiness UA.",
           "sourceChecks": [
             {
-              "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+              "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
               "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+              "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-18T04:03:29.910Z"
+          "reviewedAt": "2026-11-18T04:04:12.671Z"
         }
       },
       "baselineSlugs": [
