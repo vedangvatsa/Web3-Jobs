@@ -189865,11 +189865,29 @@
         "The Defiant"
       ],
       "id": "1cc692c9a2ee9ba2d718",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T06:01:41.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "source-blocked",
+      "note": "Attempted both known sources: CoinDesk returned HTTP 429 and The Defiant returned HTTP 403 with the readiness User-Agent. The story is sourced to a WSJ report of a pending administration designation, so no outlet content could be opened or verified this pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/frontier/ai/nvidia-set-for-ai-national-champion-label-wsj-says",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:44:01.925Z",
+      "retrySearches": [
+        "Find readable independent reporting on the Trump administration AI national champions designation, ideally the primary government announcement or the WSJ report it cites"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "b9b5b53f9e10f9b3eef3": {
       "source": "The Defiant",
@@ -370707,6 +370725,25 @@
           "reviewedAt": "2026-11-18T04:43:56.237Z",
           "duplicateOf": "dbskinexys",
           "mergedInto": "535d91a79ddf92303889"
+        },
+        "1cc692c9a2ee9ba2d718": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Attempted both known sources: CoinDesk returned HTTP 429 and The Defiant returned HTTP 403 with the readiness User-Agent. The story is sourced to a WSJ report of a pending administration designation, so no outlet content could be opened or verified this pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/nvidia-set-for-ai-national-champion-label-wsj-says",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:44:01.925Z",
+          "retrySearches": [
+            "Find readable independent reporting on the Trump administration AI national champions designation, ideally the primary government announcement or the WSJ report it cites"
+          ]
         }
       },
       "baselineSlugs": [
