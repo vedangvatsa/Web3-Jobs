@@ -1553,5 +1553,121 @@
     "slotKey": "2026-11-17:evening",
     "messageId": 156320,
     "sentAt": "2026-11-17T19:32:47.762Z"
+  },
+  "ff39201d-8de5-4a50-835d-5dac09771506": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T03:32:51.177Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "aabf9a4b-18ef-4932-ac20-4ed07eacd6ca",
+          "title": "Solutions Architect, Integrations (US/CA)",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/aabf9a4b-18ef-4932-ac20-4ed07eacd6ca",
+          "date": "2026-10-23T19:24:52.051+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Integrations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc27"
+        },
+        "key": "aabf9a4b-18ef-4932-ac20-4ed07eacd6ca",
+        "slug": "arc27",
+        "url": "https://hashtagweb3.com/arc27?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Solutions Architect"
+      },
+      {
+        "snapshot": {
+          "id": "8350492",
+          "title": "AI Enablement Engineer",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8350492",
+          "date": "2026-11-03T16:13:56-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Montreal",
+          "department": "IO - Development & Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng719"
+        },
+        "key": "8350492",
+        "slug": "eng719",
+        "url": "https://hashtagweb3.com/eng719?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "AI Enablement Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5440263008",
+          "title": "Compliance Technology Program Lead",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5440263008?gh_jid=5440263008",
+          "date": "2026-10-20T09:24:06-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "30305 Risk - Compliance - Cash App",
+          "active": true,
+          "salary": "$171.8k – $257.6k/yr",
+          "dateVerified": true,
+          "slug": "cmp88"
+        },
+        "key": "5440263008",
+        "slug": "cmp88",
+        "url": "https://hashtagweb3.com/cmp88?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Compliance Technology Program Lead"
+      },
+      {
+        "snapshot": {
+          "id": "8379538",
+          "title": "Account Executive, Commercial Hunter",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8379538",
+          "date": "2026-11-11T12:03:29-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Chicago",
+          "department": "1651 Velocity - Account Executives (NA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls290"
+        },
+        "key": "8379538",
+        "slug": "sls290",
+        "url": "https://hashtagweb3.com/sls290?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8325881",
+          "title": "Senior Software Engineer (.NET/C#)",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8325881?gh_jid=8325881",
+          "date": "2026-10-28T05:06:42-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "London, UK",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng355"
+        },
+        "key": "8325881",
+        "slug": "eng355",
+        "url": "https://hashtagweb3.com/eng355?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "- Sardine is hiring <a href=\"https://hashtagweb3.com/arc27?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations (US/CA)</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/eng719?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Enablement Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/cmp88?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Technology Program Lead</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls290?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Commercial Hunter</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/eng355?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer (.NET/C#)</a>",
+    "slotKey": "2026-11-18:morning"
   }
 }
