@@ -185500,9 +185500,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "08f0bbfc495ba3281aac",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T12:54:51.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "ensemble",
@@ -185528,7 +185528,21 @@
         "updatedAt": "2026-11-18T02:23:28.740Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked the HKMA press release (quotes, participating banks, Nov. 16 date) and Cointelegraph (Nov. 2 EnsembleTX upgrade, July Swift ledger readiness with 17 banks). Draft passes quality, formatting, image and duplicate audits; all outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:44:05.590Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "3db68d6f6743efa9bd7d": {
       "source": "CoinDesk",
@@ -185909,30 +185923,46 @@
       ],
       "alsoCoveredBy": [],
       "id": "ad91c205730730c97298",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T20:30:37.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case\": https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Rechecked Unchained (acquittal, quotes, mistrial history), Decrypt (Rule 29 reasoning, due-process footnote, 12-second exploit), the Williams & Connolly announcement (Nov. 16 judgment, counsel names) and Cointelegraph (Van Valkenburgh comment). Removed a Reuters link that returns HTTP 401; Unchained's citation of Reuters remains attributed. Draft passes all individual audits.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-17T02:33:25.337Z"
+          "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/akvewgjxkvr/11162026peraire.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/judge-acquits-mev-brothers-in-25-million-ethereum-case-finding-no-misrepresentation/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.wc.com/news/williams-connolly-secures-victory-on-behalf-of-client-james-peraire-bueno/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/",
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T02:33:46.082Z",
+      "reviewedAt": "2026-11-18T02:44:05.591Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
         "Find independent reporting confirming the event in: Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18",
+      "lastReviewedDay": "2026-11-18",
       "articleSlug": "mevacquittal",
       "draftProgress": {
         "id": "ad91c205730730c97298",
@@ -190643,9 +190673,9 @@
         "The Defiant"
       ],
       "id": "11b88965a062d99370fb",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T13:00:00.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "stablesfp",
@@ -190675,7 +190705,21 @@
         "updatedAt": "2026-11-18T02:22:45.753Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked Finbold (funding mechanics, trading hours, leverage, CEO quotes, survey) and Crypto Briefing (seven markets, USDC settlement, RFQ, 4% to high-single-digit funding, 20x leverage, $18.46B RWA perp open interest). Draft passes all individual audits; outbound links return 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://finbold.com/grvt-launches-commodity-perpetuals-with-funding-tied-to-traditional-market-financing/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:44:05.591Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "f8f6674f99a6c498766d": {
       "source": "The Block",
@@ -369606,6 +369650,73 @@
             }
           ],
           "reviewedAt": "2026-11-18T02:23:25.080Z"
+        },
+        "08f0bbfc495ba3281aac": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked the HKMA press release (quotes, participating banks, Nov. 16 date) and Cointelegraph (Nov. 2 EnsembleTX upgrade, July Swift ledger readiness with 17 banks). Draft passes quality, formatting, image and duplicate audits; all outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:44:05.590Z",
+          "articleSlug": "ensemble"
+        },
+        "11b88965a062d99370fb": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked Finbold (funding mechanics, trading hours, leverage, CEO quotes, survey) and Crypto Briefing (seven markets, USDC settlement, RFQ, 4% to high-single-digit funding, 20x leverage, $18.46B RWA perp open interest). Draft passes all individual audits; outbound links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://finbold.com/grvt-launches-commodity-perpetuals-with-funding-tied-to-traditional-market-financing/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:44:05.591Z",
+          "articleSlug": "stablesfp"
+        },
+        "ad91c205730730c97298": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked Unchained (acquittal, quotes, mistrial history), Decrypt (Rule 29 reasoning, due-process footnote, 12-second exploit), the Williams & Connolly announcement (Nov. 16 judgment, counsel names) and Cointelegraph (Van Valkenburgh comment). Removed a Reuters link that returns HTTP 401; Unchained's citation of Reuters remains attributed. Draft passes all individual audits.",
+          "sourceChecks": [
+            {
+              "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/akvewgjxkvr/11162026peraire.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/judge-acquits-mev-brothers-in-25-million-ethereum-case-finding-no-misrepresentation/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.wc.com/news/williams-connolly-secures-victory-on-behalf-of-client-james-peraire-bueno/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:44:05.591Z",
+          "articleSlug": "mevacquittal"
         }
       },
       "baselineSlugs": [
