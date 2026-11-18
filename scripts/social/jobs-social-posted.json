@@ -151430,6 +151430,47 @@
       "attemptId": "fae259d4-0c86-4bd3-876a-33ac57b6ca9a",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "sec167",
+      "company": "Kraken",
+      "title": "Security GRC Analyst, Mergers & Acquisitions",
+      "platform": "linkedin",
+      "postedAt": "2026-11-18T03:36:28.475Z",
+      "expectedText": "Kraken is hiring Security GRC Analyst, Mergers & Acquisitions: https://hashtagweb3.com/sec167/li?og=7",
+      "snapshot": {
+        "id": "541054d4-67d7-459d-8818-987154af85cd",
+        "title": "Security GRC Analyst, Mergers & Acquisitions",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/541054d4-67d7-459d-8818-987154af85cd",
+        "date": "2026-11-12T14:46:35.705+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Security & IT",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec167"
+      },
+      "payload": {
+        "text": "Kraken is hiring Security GRC Analyst, Mergers & Acquisitions: https://hashtagweb3.com/sec167/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec167/li?og=7",
+          "title": "Security GRC Analyst, Mergers & Acquisitions at Kraken",
+          "description": "Join Kraken as Security GRC Analyst, Mergers & Ac. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec167.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "9fc20fe0-4c5e-4036-9912-aacbb5c3d0bf",
+      "verification": "creating"
     }
   ]
 }
