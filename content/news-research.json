@@ -186896,11 +186896,27 @@
         "Decrypt"
       ],
       "id": "43393aef7f3651a8e651",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T07:51:15.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "duplicate",
+      "note": "Same Luxor Commander hashrate-hijack event already covered by the ready luxorhack article owned by candidate 3967a68c66a363d144df; rechecked Crypto Briefing and Cointelegraph this round, no new development.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:44:45.795Z",
+      "duplicateOf": "luxorhack",
+      "mergedInto": "3967a68c66a363d144df",
+      "lastReviewedDay": "2026-11-18"
     },
     "99fc74a31655b73b94c0": {
       "source": "Crypto Briefing",
@@ -369717,6 +369733,24 @@
           ],
           "reviewedAt": "2026-11-18T02:44:05.591Z",
           "articleSlug": "mevacquittal"
+        },
+        "43393aef7f3651a8e651": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Luxor Commander hashrate-hijack event already covered by the ready luxorhack article owned by candidate 3967a68c66a363d144df; rechecked Crypto Briefing and Cointelegraph this round, no new development.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:44:45.795Z",
+          "duplicateOf": "luxorhack",
+          "mergedInto": "3967a68c66a363d144df"
         }
       },
       "baselineSlugs": [
