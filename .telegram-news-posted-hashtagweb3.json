@@ -44,6 +44,9 @@
   "https://hashtagweb3.com/bessentnvidia?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bitmineeth?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/customsfreeze?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/backpackcftc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/chatgptplug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tokenizedaml?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -134,6 +137,12 @@
   "Bitmine adds 7,653 ETH as Tom Lee ties ether's slide to Nvidia and the Anthropic IPO",
   "German parliament grants customs power to freeze crypto assets",
   "Bundestag approves customs powers to freeze crypto of unclear origin",
+  "CFTC Authorizes Backpack to Launch US Derivatives Exchange",
+  "CFTC Approves Backpack's Blockchain-Based Derivatives Exchange and Clearinghouse",
+  "Coinbase launches ChatGPT plugin for trading crypto and stocks",
+  "Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives",
+  "Democratic senators query SEC chair on tokenized stock exemptions",
+  "Four Democratic senators press SEC on illicit finance gaps in its tokenized stock exemption",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -178,5 +187,8 @@
   "fp:ask|asset|call|challeng|coalition|court|declar|defi|digital|discriminatory",
   "fp:alleg|bessent|board|board10|china|chines|chip|control|day|demand",
   "fp:118b|607m|653|address|adds7|anthropic|attribut|bitmin|buys7|chairman",
-  "fp:000|approv|asset|bundestag|can|charg|criminal|currency|custom|day"
+  "fp:000|approv|asset|bundestag|can|charg|criminal|currency|custom|day",
+  "fp:approv|approval|authoriz|backpack|bas|blockchain|cftc|clearinghous|customer|derivativ",
+  "fp:account|can|chat|coinbas|derivativ|directly|interfac|link|openai|order",
+  "fp:anti|chair|democratic|detail|digital|exemption|financ|follow|four|gap"
 ]
