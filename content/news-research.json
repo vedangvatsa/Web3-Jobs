@@ -189823,12 +189823,8 @@
       "expiresAt": "2026-11-19T08:46:00.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "duplicate",
-      "note": "Same Nov 16 DBS-Kinexys 24/7 tokenized deposit launch already covered by the ready dbskinexys article (Cointelegraph and CryptoSlate). CoinDesk and The Defiant report the same weekend dollar transfers event.",
+      "note": "Same Nov 16 DBS-Kinexys 24/7 tokenized deposit launch already covered by the dbskinexys draft article (Cointelegraph and CryptoSlate were previously read for it). Both known URLs for this candidate were inaccessible: CoinDesk HTTP 429, The Defiant HTTP 403.",
       "sourceChecks": [
-        {
-          "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-          "outcome": "read"
-        },
         {
           "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
           "outcome": "blocked"
@@ -189838,7 +189834,7 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T04:43:56.237Z",
+      "reviewedAt": "2026-11-18T04:44:22.858Z",
       "duplicateOf": "dbskinexys",
       "mergedInto": "535d91a79ddf92303889",
       "lastReviewedDay": "2026-11-18"
@@ -370707,12 +370703,8 @@
         "770e548dd8f6bad8da66": {
           "status": "rejected",
           "reason": "duplicate",
-          "note": "Same Nov 16 DBS-Kinexys 24/7 tokenized deposit launch already covered by the ready dbskinexys article (Cointelegraph and CryptoSlate). CoinDesk and The Defiant report the same weekend dollar transfers event.",
+          "note": "Same Nov 16 DBS-Kinexys 24/7 tokenized deposit launch already covered by the dbskinexys draft article (Cointelegraph and CryptoSlate were previously read for it). Both known URLs for this candidate were inaccessible: CoinDesk HTTP 429, The Defiant HTTP 403.",
           "sourceChecks": [
-            {
-              "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
-              "outcome": "read"
-            },
             {
               "url": "https://www.coindesk.com/business/2026/11/16/j-p-morgan-and-dbs-let-clients-move-dollars-across-borders-on-weekends",
               "outcome": "blocked"
@@ -370722,7 +370714,7 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-18T04:43:56.237Z",
+          "reviewedAt": "2026-11-18T04:44:22.858Z",
           "duplicateOf": "dbskinexys",
           "mergedInto": "535d91a79ddf92303889"
         },
