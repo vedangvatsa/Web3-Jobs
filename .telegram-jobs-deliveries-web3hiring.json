@@ -3716,7 +3716,7 @@
     "sentAt": "2026-11-18T19:32:32.880Z"
   },
   "2204dd95-c941-4035-9859-6e26bd5a1ae6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-18T19:32:34.572Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -3829,6 +3829,8 @@
       }
     ],
     "message": "- FalconX is hiring <a href=\"https://hashtagweb3.com/aso86?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Finance Associate</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/qa104?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior QA Automation Engineer</a>\n- Coinflow is hiring <a href=\"https://hashtagweb3.com/fds2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Fraud Data Scientist</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/eng759?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Site Reliability Engineer</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/sls327?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Manager</a>",
-    "slotKey": "2026-11-18:evening"
+    "slotKey": "2026-11-18:evening",
+    "messageId": 206,
+    "sentAt": "2026-11-18T19:32:37.279Z"
   }
 }
