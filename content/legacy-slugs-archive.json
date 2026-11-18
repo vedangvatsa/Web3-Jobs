@@ -158119,5 +158119,248 @@
     "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5015356101",
     "company": "Bybit",
     "title": "Principal DevOps Engineer"
+  },
+  "mkt127": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt162"
+  },
+  "cmp136": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp182"
+  },
+  "eng800": {
+    "id": "8394402",
+    "link": "https://www.coinbase.com/careers/positions/8394402?gh_jid=8394402",
+    "company": "Coinbase",
+    "title": "Senior Analytics Engineer"
+  },
+  "eng802": {
+    "id": "5016935101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5016935101",
+    "company": "Bybit",
+    "title": "Mobile Development Engineer Intern"
+  },
+  "cmp160": {
+    "id": "2822660",
+    "link": "https://tether.recruitee.com/o/junior-legal-compliance-analyst-asset-recovery-9",
+    "company": "Tether",
+    "title": "Junior Legal & Compliance Analyst - Asset Recovery"
+  },
+  "arc40": {
+    "id": "8368260",
+    "link": "https://stripe.com/jobs/search?gh_jid=8368260",
+    "company": "Stripe",
+    "title": "Solutions Architect, Metronome (AI Native)"
+  },
+  "mgr237": {
+    "id": "6251752004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6251752004",
+    "company": "Alpaca",
+    "title": "Customer Success Manager - Americas"
+  },
+  "int54": {
+    "id": "8357739",
+    "link": "https://stripe.com/jobs/search?gh_jid=8357739",
+    "company": "Stripe",
+    "title": "Controllership Intern"
+  },
+  "infra89": {
+    "id": "8197695003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8197695003",
+    "company": "OKX",
+    "title": "Senior Management, Platform & Infrastructure Audit"
+  },
+  "infra69": {
+    "id": "6250002004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
+    "company": "Galaxy Digital",
+    "title": "2027 Digital Infrastructure Intern - NYC"
+  },
+  "sls415": {
+    "id": "5473182008",
+    "link": "http://block.xyz/careers/jobs/5473182008?gh_jid=5473182008",
+    "company": "Block",
+    "title": "Territory Account Executive, Princeton, NJ"
+  },
+  "cps": {
+    "id": "keka-dcx-145831",
+    "link": "https://dcx.keka.com/careers/jobdetails/145831",
+    "company": "BitOasis",
+    "title": "Client Payment Specialist"
+  },
+  "chi7": {
+    "id": "8139942003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8139942003",
+    "company": "OKX",
+    "title": "Chief of Staff"
+  },
+  "chi6": {
+    "id": "8139839003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8139839003",
+    "company": "OKX",
+    "title": "Chief of Staff"
+  },
+  "sls520": {
+    "id": "4725490006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4725490006",
+    "company": "Fireblocks",
+    "title": "Sales Director, Payments"
+  },
+  "tir9": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "sp2": {
+    "id": "5011135101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5011135101",
+    "company": "Bitpanda",
+    "title": "Specialist, Procurement"
+  },
+  "rs14": {
+    "id": "JR101178",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Chief-Operating-and-Trust-Officer--Circle-National-Trust_JR101178",
+    "company": "Circle",
+    "title": "Chief Operating and Trust Officer, Circle National Trust"
+  },
+  "pm412": {
+    "id": "c51ff8e5-914c-4bf4-a33f-351e119c2e06",
+    "link": "https://jobs.ashbyhq.com/hifi/c51ff8e5-914c-4bf4-a33f-351e119c2e06",
+    "company": "HIFI",
+    "title": "Product Manager, Cards",
+    "newSlug": "pm429"
+  },
+  "an146": {
+    "id": "9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "link": "https://jobs.ashbyhq.com/story/9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "company": "Story Protocol",
+    "title": "Senior Financial Analyst, FP&A (Story + Wizard)",
+    "newSlug": "an148"
+  },
+  "sls523": {
+    "id": "06fba783-5f5a-474c-8efc-8662a7a7ea84",
+    "link": "https://jobs.ashbyhq.com/story/06fba783-5f5a-474c-8efc-8662a7a7ea84",
+    "company": "Story Protocol",
+    "title": "Senior Accountant (Story + Wizard)",
+    "newSlug": "sls540"
+  },
+  "sls522": {
+    "id": "keka-dcx-146600",
+    "link": "https://dcx.keka.com/careers/jobdetails/146600",
+    "company": "BitOasis",
+    "title": "Institutional Sales",
+    "newSlug": "sls539"
+  },
+  "rec74": {
+    "id": "38703001-b1cd-4a9b-9abc-be128600b91b",
+    "link": "https://jobs.ashbyhq.com/hifi/38703001-b1cd-4a9b-9abc-be128600b91b",
+    "company": "HIFI",
+    "title": "Recruiter",
+    "newSlug": "rec80"
+  },
+  "eng811": {
+    "id": "202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "link": "https://jobs.ashbyhq.com/hifi/202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "company": "HIFI",
+    "title": "Software Engineer, Blockchain",
+    "newSlug": "eng831"
+  },
+  "sec179": {
+    "id": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "link": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "company": "HIFI",
+    "title": "Security Software Engineer",
+    "newSlug": "sec182"
+  },
+  "eng810": {
+    "id": "keka-dcx-145832",
+    "link": "https://dcx.keka.com/careers/jobdetails/145832",
+    "company": "BitOasis",
+    "title": "Senior Software Engineer - Android",
+    "newSlug": "eng830"
+  },
+  "aso98": {
+    "id": "14f7af97-540a-4457-9537-d001a645fd9b",
+    "link": "https://jobs.ashbyhq.com/story/14f7af97-540a-4457-9537-d001a645fd9b",
+    "company": "Story Protocol",
+    "title": "Creative Associate, Story + Wizard",
+    "newSlug": "aso101"
+  },
+  "pm416": {
+    "id": "a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "link": "https://jobs.ashbyhq.com/story/a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "company": "Story Protocol",
+    "title": "Head of Production",
+    "newSlug": "pm428"
+  },
+  "mkt157": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt168"
+  },
+  "rec73": {
+    "id": "aa5c250b-a12c-43ad-89a2-38177a64bfba",
+    "link": "https://jobs.ashbyhq.com/story/aa5c250b-a12c-43ad-89a2-38177a64bfba",
+    "company": "Story Protocol",
+    "title": "Head of Talent",
+    "newSlug": "rec79"
+  },
+  "eng809": {
+    "id": "f86d93b4-26df-4b1e-9840-da69b44fe487",
+    "link": "https://jobs.ashbyhq.com/mantle/f86d93b4-26df-4b1e-9840-da69b44fe487",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Mobile",
+    "newSlug": "eng829"
+  },
+  "eng808": {
+    "id": "bdbdcb02-e246-4a7b-9aec-9ab2405478f1",
+    "link": "https://jobs.ashbyhq.com/mantle/bdbdcb02-e246-4a7b-9aec-9ab2405478f1",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Applied AI",
+    "newSlug": "eng828"
+  },
+  "mkt155": {
+    "id": "3c98e1d4-be2e-4184-b622-3fa84f7a6a7d",
+    "link": "https://jobs.ashbyhq.com/mantle/3c98e1d4-be2e-4184-b622-3fa84f7a6a7d",
+    "company": "Mantle Network",
+    "title": "Social & Content Marketing Manager",
+    "newSlug": "mkt167"
+  },
+  "pm415": {
+    "id": "a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "link": "https://jobs.ashbyhq.com/mantle/a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "company": "Mantle Network",
+    "title": "Product Manager",
+    "newSlug": "pm427"
+  },
+  "eng807": {
+    "id": "1a79a170-0220-4bf9-a11d-c4213ea81448",
+    "link": "https://jobs.ashbyhq.com/mantle/1a79a170-0220-4bf9-a11d-c4213ea81448",
+    "company": "Mantle Network",
+    "title": "Head of Engineering",
+    "newSlug": "eng827"
+  },
+  "mkt156": {
+    "id": "74b653d6-838e-4b55-a721-0e0f47eb1c43",
+    "link": "https://jobs.ashbyhq.com/mantle/74b653d6-838e-4b55-a721-0e0f47eb1c43",
+    "company": "Mantle Network",
+    "title": "Growth Marketing Manager",
+    "newSlug": "mkt166"
+  },
+  "cmp183": {
+    "id": "170538",
+    "link": "https://empleo.bit2me.com/jobs/legal-engineer-ia-y-automatizacion-legal",
+    "company": "Bit2Me",
+    "title": "Legal Engineer - IA y automatización legal",
+    "newSlug": "cmp181"
   }
 }
