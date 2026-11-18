@@ -1788,5 +1788,122 @@
     "slotKey": "2026-11-18:afternoon",
     "messageId": 156327,
     "sentAt": "2026-11-18T11:32:28.638Z"
+  },
+  "ae5ac55f-ce11-4227-8d14-137e3177de08": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T19:32:42.788Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8355353",
+          "title": "Account Executive Product - Radar (AUNZ)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8355353",
+          "date": "2026-11-17T19:28:35-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Australia",
+          "department": "1640 Product Sales - Payments",
+          "active": true,
+          "slug": "pm420",
+          "dateVerified": true
+        },
+        "key": "8355353",
+        "slug": "pm420",
+        "url": "https://hashtagweb3.com/pm420?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive Product"
+      },
+      {
+        "snapshot": {
+          "id": "c9da2203-3d56-40a5-9d88-ec020846058b",
+          "title": "US Filings Lead",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/polymarket/c9da2203-3d56-40a5-9d88-ec020846058b",
+          "date": "2026-11-13T15:38:01.413+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Exchange",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fil"
+        },
+        "key": "c9da2203-3d56-40a5-9d88-ec020846058b",
+        "slug": "fil",
+        "url": "https://hashtagweb3.com/fil?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "US Filings Lead"
+      },
+      {
+        "snapshot": {
+          "id": "08c1f591-5bcc-4f1e-b2b6-dddf40a8bdf9",
+          "title": "AI Business Operations Intern",
+          "company": "Kaiko",
+          "link": "https://jobs.eu.lever.co/kaiko/08c1f591-5bcc-4f1e-b2b6-dddf40a8bdf9",
+          "date": "2026-11-10T09:43:03.661Z",
+          "source": "Lever: Kaiko [kaiko]",
+          "location": "Paris",
+          "workplaceType": "onsite",
+          "department": "Operations & Corporate Strategy",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops179"
+        },
+        "key": "08c1f591-5bcc-4f1e-b2b6-dddf40a8bdf9",
+        "slug": "ops179",
+        "url": "https://hashtagweb3.com/ops179?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kaiko",
+        "title": "AI Business Operations Intern"
+      },
+      {
+        "snapshot": {
+          "id": "9f298621-235d-4677-b510-84237c835ec3",
+          "title": "Global Investigator, Asset Recovery",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/9f298621-235d-4677-b510-84237c835ec3",
+          "date": "2026-11-18T01:13:15.314+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "slug": "iar",
+          "dateVerified": true
+        },
+        "key": "9f298621-235d-4677-b510-84237c835ec3",
+        "slug": "iar",
+        "url": "https://hashtagweb3.com/iar?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Global Investigator"
+      },
+      {
+        "snapshot": {
+          "id": "bca280c9-b272-49f6-aa14-67f29bf5a6aa",
+          "title": "GM, Head of Data",
+          "company": "Talos",
+          "link": "https://jobs.ashbyhq.com/Talos-Trading/bca280c9-b272-49f6-aa14-67f29bf5a6aa",
+          "date": "2026-10-30T16:10:02.835+00:00",
+          "source": "Ashby: Talos [Talos-Trading]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Data",
+          "active": true,
+          "dateVerified": true,
+          "slug": "gd"
+        },
+        "key": "bca280c9-b272-49f6-aa14-67f29bf5a6aa",
+        "slug": "gd",
+        "url": "https://hashtagweb3.com/gd?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Talos",
+        "title": "GM, Head of Data"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm420?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive Product - Radar (AUNZ)</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/fil?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">US Filings Lead</a>\n- Kaiko is hiring <a href=\"https://hashtagweb3.com/ops179?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Business Operations Intern</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/iar?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Investigator, Asset Recovery</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/gd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">GM, Head of Data</a>",
+    "slotKey": "2026-11-18:evening"
   }
 }
