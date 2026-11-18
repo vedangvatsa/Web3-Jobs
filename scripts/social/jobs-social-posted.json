@@ -149900,6 +149900,38 @@
       "attemptId": "59d9ddf8-0484-44c9-8552-687cafc86e0d",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 17-Nov-26 19:33:36 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AJpBIXVIUv3ZR7HSFG8EHUU\"}"
+    },
+    {
+      "slug": "des10",
+      "company": "Blockchain.com",
+      "title": "Senior Brand Designer (Maternity Cover)",
+      "platform": "bluesky",
+      "postedAt": "2026-11-18T03:33:28.119Z",
+      "expectedText": "Blockchain​.com is hiring Senior Brand Designer (Maternity Cover): https://hashtagweb3.com/des10/bsky?og=7",
+      "snapshot": {
+        "id": "8318060",
+        "title": "Senior Brand Designer (Maternity Cover)",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8318060",
+        "date": "2026-10-23T10:10:43-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "Paris",
+        "department": "Marketing & Communications",
+        "active": true,
+        "dateVerified": true,
+        "slug": "des10"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring Senior Brand Designer (Maternity Cover): https://hashtagweb3.com/des10/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/des10/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/des10.png?v=7",
+        "company": "Blockchain.com",
+        "title": "Senior Brand Designer (Maternity Cover)",
+        "description": "Join Blockchain.com as Senior Brand Designer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "c8d2f5b8-6ec1-47fe-aae8-d37a02d97546",
+      "verification": "creating"
     }
   ]
 }
