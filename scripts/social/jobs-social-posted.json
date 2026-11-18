@@ -149933,6 +149933,39 @@
       "attemptId": "c8d2f5b8-6ec1-47fe-aae8-d37a02d97546",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2kmqt3u2g2p"
+    },
+    {
+      "slug": "des10",
+      "company": "Blockchain.com",
+      "title": "Senior Brand Designer (Maternity Cover)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-18T03:33:28.119Z",
+      "expectedText": "Blockchain​.com is hiring Senior Brand Designer (Maternity Cover)\n\nhttps://hashtagweb3.com/des10/fc?og=7",
+      "snapshot": {
+        "id": "8318060",
+        "title": "Senior Brand Designer (Maternity Cover)",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8318060",
+        "date": "2026-10-23T10:10:43-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "Paris",
+        "department": "Marketing & Communications",
+        "active": true,
+        "dateVerified": true,
+        "slug": "des10"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring Senior Brand Designer (Maternity Cover)\n\nhttps://hashtagweb3.com/des10/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/des10/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "f63792a4-2076-4c7d-a19b-5a4b891141fd",
+      "verification": "creating"
     }
   ]
 }
