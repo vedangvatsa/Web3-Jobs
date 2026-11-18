@@ -186572,11 +186572,42 @@
         "The Defiant"
       ],
       "id": "b77a2ed64112c741d5ec",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T13:12:08.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "verified-event",
+      "note": "Read Decrypt Nov 16, CoinMarketCap Nov 16, Ledger's own Nov 16 technical post and Crypto Briefing Nov 16 in full; verified the nine-app and 18-of-22 coverage, the 13-to-3 screen reduction, the sRFC 39/41 standards, the 57,000-transaction test corpus, the Rogers Breakpoint quotes and the Anza comments across sources. Hero is the Wikimedia Ledger Nano S photo CC BY-SA 4.0, self-hosted and compressed to 170KB. Quality, image, formatting and duplicate audits pass; all cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+          "outcome": "read"
+        },
+        {
+          "url": "https://coinmarketcap.com/academy/article/ledger-clear-signing-solana-jupiter-kamino",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.ledger.com/blog-solana-clear-signing",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/ledger-clear-signing-solana-jupiter",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Ledger_Nano_S_-_Hard_Wallet_-_Cold_Storage_for_Cryptocurrency_04.jpg",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/security/ledger-brings-clear-signing-to-solana-defi-transactions",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:11:55.458Z",
+      "articleSlug": "ledgerclear",
+      "lastReviewedDay": "2026-11-18"
     },
     "8fd80919bfc818765d11": {
       "source": "Cointelegraph",
@@ -369865,6 +369896,39 @@
           ],
           "reviewedAt": "2026-11-18T04:07:21.999Z",
           "articleSlug": "chatgptplug"
+        },
+        "b77a2ed64112c741d5ec": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Decrypt Nov 16, CoinMarketCap Nov 16, Ledger's own Nov 16 technical post and Crypto Briefing Nov 16 in full; verified the nine-app and 18-of-22 coverage, the 13-to-3 screen reduction, the sRFC 39/41 standards, the 57,000-transaction test corpus, the Rogers Breakpoint quotes and the Anza comments across sources. Hero is the Wikimedia Ledger Nano S photo CC BY-SA 4.0, self-hosted and compressed to 170KB. Quality, image, formatting and duplicate audits pass; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+              "outcome": "read"
+            },
+            {
+              "url": "https://coinmarketcap.com/academy/article/ledger-clear-signing-solana-jupiter-kamino",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.ledger.com/blog-solana-clear-signing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/ledger-clear-signing-solana-jupiter",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Ledger_Nano_S_-_Hard_Wallet_-_Cold_Storage_for_Cryptocurrency_04.jpg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/security/ledger-brings-clear-signing-to-solana-defi-transactions",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:11:55.458Z",
+          "articleSlug": "ledgerclear"
         }
       },
       "baselineSlugs": [
