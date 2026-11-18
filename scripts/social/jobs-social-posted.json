@@ -153116,7 +153116,8 @@
       },
       "account": "channel:growth",
       "attemptId": "cf15b858-9c9e-4fa1-99d2-d7cd1dac36f9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa97b15b9d36dc2add855d4aab419571c726c98ef"
     }
   ]
 }
