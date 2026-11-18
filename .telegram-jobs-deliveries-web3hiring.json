@@ -3470,5 +3470,129 @@
     "slotKey": "2026-11-18:afternoon",
     "messageId": 16659,
     "sentAt": "2026-11-18T11:32:11.633Z"
+  },
+  "8ba55956-6752-40be-b9fa-ef7135054a0c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T11:32:13.184Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "939892e5-5273-4bfc-8c41-a6c51cabb228",
+          "title": "Software Engineer, Backend, Comms Platform",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228",
+          "date": "2026-11-09T18:22:09.221+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Remote (US)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be118"
+        },
+        "key": "939892e5-5273-4bfc-8c41-a6c51cabb228",
+        "slug": "be118",
+        "url": "https://hashtagweb3.com/be118?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "b56195c3-2826-4371-a961-3edb1f4db93b",
+          "title": "Senior Manager, Growth",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/b56195c3-2826-4371-a961-3edb1f4db93b",
+          "date": "2026-11-13T01:16:19.273Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Singapore)",
+          "workplaceType": "hybrid",
+          "department": "Growth & Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt150"
+        },
+        "key": "b56195c3-2826-4371-a961-3edb1f4db93b",
+        "slug": "mkt150",
+        "url": "https://hashtagweb3.com/mkt150?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "89b330514d3e01",
+          "title": "Senior Legal Counsel",
+          "company": "Nexo",
+          "link": "https://nexo.breezy.hr/p/89b330514d3e01-senior-legal-counsel",
+          "date": "2026-11-04",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Nexo [nexo]",
+          "location": "Sofia, BG",
+          "isRemote": false,
+          "department": "Legal & Regulatory Compliance",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://nexo.breezy.hr/p/89b330514d3e01-senior-legal-counsel",
+            "checkedAt": "2026-11-05T00:30:59.076Z",
+            "bodySha256": "433edc062ec0f7ed2eb5561b823a00ae6f78410fc3b894df0ce9d5c1d558c737",
+            "provider": "breezy",
+            "datePosted": "2026-11-04"
+          },
+          "slug": "cmp84"
+        },
+        "key": "89b330514d3e01",
+        "slug": "cmp84",
+        "url": "https://hashtagweb3.com/cmp84?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Nexo",
+        "title": "Senior Legal Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "4e6939de-53c0-4faf-93f9-b6c4c047b7d2",
+          "title": "Staff Software Engineer, Identity Platform",
+          "company": "MoonPay",
+          "link": "https://jobs.lever.co/moonpay/4e6939de-53c0-4faf-93f9-b6c4c047b7d2",
+          "date": "2026-10-20T13:00:28.291Z",
+          "source": "Lever: MoonPay [moonpay]",
+          "location": "United States - Hybrid",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng586"
+        },
+        "key": "4e6939de-53c0-4faf-93f9-b6c4c047b7d2",
+        "slug": "eng586",
+        "url": "https://hashtagweb3.com/eng586?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "MoonPay",
+        "title": "Staff Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4750517005",
+          "title": "Senior Talent Partner",
+          "company": "Shakepay",
+          "link": "https://job-boards.greenhouse.io/shakepay/jobs/4750517005",
+          "date": "2026-11-03T10:39:45-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Shakepay [shakepay]",
+          "location": "Remote, Canada",
+          "department": "People and Culture",
+          "active": true,
+          "salary": "$120k – $155k/yr",
+          "dateVerified": true,
+          "slug": "rec53"
+        },
+        "key": "4750517005",
+        "slug": "rec53",
+        "url": "https://hashtagweb3.com/rec53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Shakepay",
+        "title": "Senior Talent Partner"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/be118?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Backend, Comms Platform</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/mkt150?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Growth</a>\n- Nexo is hiring <a href=\"https://hashtagweb3.com/cmp84?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Legal Counsel</a>\n- MoonPay is hiring <a href=\"https://hashtagweb3.com/eng586?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Software Engineer, Identity Platform</a>\n- Shakepay is hiring <a href=\"https://hashtagweb3.com/rec53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Talent Partner</a>",
+    "slotKey": "2026-11-18:afternoon"
   }
 }
