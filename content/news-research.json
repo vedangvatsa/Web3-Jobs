@@ -192408,11 +192408,21 @@
         "BeInCrypto"
       ],
       "id": "e0a65b8da8c4605eb560",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T23:16:03.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read Decrypt's Nov 17 piece: an analysis/explainer on Microsoft's small-model AI strategy versus Claude and GPT, not a launch, vote, ruling or filing. The listed BeInCrypto URL is a separate AI-trading-bots bear-market opinion piece and does not cover the Microsoft story.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:43:49.919Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "2c4a6d2a77a05ca368d7": {
       "source": "BeInCrypto",
@@ -370643,6 +370653,18 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:43:45.779Z"
+        },
+        "e0a65b8da8c4605eb560": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read Decrypt's Nov 17 piece: an analysis/explainer on Microsoft's small-model AI strategy versus Claude and GPT, not a launch, vote, ruling or filing. The listed BeInCrypto URL is a separate AI-trading-bots bear-market opinion piece and does not cover the Microsoft story.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:43:49.919Z"
         }
       },
       "baselineSlugs": [
