@@ -152830,6 +152830,41 @@
       "attemptId": "3944f02e-07fc-4378-a150-7aabaa2d9e63",
       "verification": "verified",
       "postId": "0xb0835cbfb46d7aec728b9e6e95fc40f24eaf65d0"
+    },
+    {
+      "slug": "be119",
+      "company": "BVNK",
+      "title": "Senior Software Engineer (Backend): Ledger - Wallets",
+      "platform": "farcaster",
+      "postedAt": "2026-11-18T11:36:12.098Z",
+      "expectedText": "BVNK is hiring Senior Software Engineer (Backend): Ledger - Wallets\n\nhttps://hashtagweb3.com/be119/fc?og=7",
+      "snapshot": {
+        "id": "5026004101",
+        "title": "Senior Software Engineer (Backend): Ledger - Wallets",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5026004101",
+        "date": "2026-11-10T10:52:42-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "Europe",
+        "department": "Technology",
+        "active": true,
+        "salary": "€85k – €95k/yr",
+        "dateVerified": true,
+        "slug": "be119"
+      },
+      "payload": {
+        "text": "BVNK is hiring Senior Software Engineer (Backend): Ledger - Wallets\n\nhttps://hashtagweb3.com/be119/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/be119/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "e7d93b28-dca2-4a4a-b78e-facaeaaa02ad",
+      "verification": "creating"
     }
   ]
 }
