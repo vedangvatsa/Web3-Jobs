@@ -150210,7 +150210,8 @@
       },
       "account": "channel:build",
       "attemptId": "b4bbf1fb-bd1d-455b-b6c9-fc9c895edf3d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfb5e2859430b1bc867b425ea841ce88de38361be"
     }
   ]
 }
