@@ -1671,5 +1671,120 @@
     "slotKey": "2026-11-18:morning",
     "messageId": 156325,
     "sentAt": "2026-11-18T03:32:56.329Z"
+  },
+  "a7a553ce-5b66-44b6-8d54-d52ee87ad84f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-18T11:32:26.281Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5473172008",
+          "title": "Territory Account Executive, East Bronx",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5473172008?gh_jid=5473172008",
+          "date": "2026-11-04T12:50:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "New York, NY, United States of America",
+          "department": "20249 S&M - Sales - Square Field Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls414"
+        },
+        "key": "5473172008",
+        "slug": "sls414",
+        "url": "https://hashtagweb3.com/sls414?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8042769003",
+          "title": "Associate General Counsel",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8042769003",
+          "date": "2026-10-23T09:52:41-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "EMEA (Remote)",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso40"
+        },
+        "key": "8042769003",
+        "slug": "aso40",
+        "url": "https://hashtagweb3.com/aso40?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Associate General Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "c99ebe3e-5590-4745-9b25-fe8507df9413",
+          "title": "Senior Golang Engineer",
+          "company": "CoinsPaid",
+          "link": "https://jobs.eu.lever.co/coinspaid/c99ebe3e-5590-4745-9b25-fe8507df9413",
+          "date": "2026-10-22T12:39:23.267Z",
+          "source": "Lever: CoinsPaid [coinspaid]",
+          "location": "Hybrid (Remote - European Region)",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "eng736"
+        },
+        "key": "c99ebe3e-5590-4745-9b25-fe8507df9413",
+        "slug": "eng736",
+        "url": "https://hashtagweb3.com/eng736?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinsPaid",
+        "title": "Senior Golang Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "9da3433c-b1af-468d-ab1a-e6b044414749",
+          "title": "Member of Technical Staff, Protocols",
+          "company": "Anchorage Digital",
+          "link": "https://jobs.lever.co/anchorage/9da3433c-b1af-468d-ab1a-e6b044414749",
+          "date": "2026-10-26T15:23:53.574Z",
+          "source": "Lever: Anchorage Digital [anchorage]",
+          "location": "Remote (United States)",
+          "workplaceType": "remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mtp2"
+        },
+        "key": "9da3433c-b1af-468d-ab1a-e6b044414749",
+        "slug": "mtp2",
+        "url": "https://hashtagweb3.com/mtp2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Anchorage Digital",
+        "title": "Member of Technical Staff"
+      },
+      {
+        "snapshot": {
+          "id": "8330795",
+          "title": "Account Executive, Platforms Large Users (Grower)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8330795",
+          "date": "2026-10-29T01:12:26-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Sydney or Melbourne",
+          "department": "1195 Account Executives (APAC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls282"
+        },
+        "key": "8330795",
+        "slug": "sls282",
+        "url": "https://hashtagweb3.com/sls282?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls414?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, East Bronx</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/aso40?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate General Counsel</a>\n- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/eng736?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Golang Engineer</a>\n- Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/mtp2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Technical Staff, Protocols</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls282?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Platforms Large Users (Grower)</a>",
+    "slotKey": "2026-11-18:afternoon"
   }
 }
