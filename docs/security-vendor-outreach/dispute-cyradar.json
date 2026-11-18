@@ -1,0 +1,9 @@
+{
+  "vendor": "CyRadar",
+  "to": "virustotal@cyradar.com",
+  "status": "sent",
+  "deliveryId": "01a1ee09-acee-7976-afca-1ebf0c14d87a",
+  "sentAt": "2026-11-18T09:42:54.064Z",
+  "subject": "False Positive Report — hashtagweb3.com (Legitimate Web3 Career Platform)",
+  "bodyPreview": "Hello CyRadar Security Team,\n\nI am writing to report a false positive classification for our website: https://hashtagweb3.com\n\nYour system has flagged hashtagweb3.com as phishing or malicious. This is incorrect. We are a legitimate Web3 job board and career resource platform that has been operating "
+}
