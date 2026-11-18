@@ -55,7 +55,7 @@ Built-in protections:
      EMAIL_FROM="HashTag Web3 Jobs <jobs@hashtagweb3.com>"
      ```
 
-3. **Deployment Secrets** (GitHub/Vercel)
+3. **Deployment Secrets** (GitHub Actions / Firebase App Hosting)
    
    **GitHub Secrets** (for GitHub Actions):
    ```
@@ -66,11 +66,7 @@ Built-in protections:
    - `CRON_SECRET`
    - All Firebase config vars
 
-   **Vercel Environment Variables**:
-   ```
-   Project Settings → Environment Variables
-   ```
-   Add same secrets as above.
+   Configure matching values in **Firebase App Hosting** (backend `studio`) for runtime secrets the app needs in production.
 
 4. **Firestore Security Rules**
    Ensure subscribers collection has proper read/write rules:
@@ -141,7 +137,7 @@ Rotate API keys every 90 days:
 
 1. Generate new key in Resend
 2. Update `.env.local`
-3. Update deployment secrets (GitHub/Vercel)
+3. Update deployment secrets (GitHub Actions and Firebase App Hosting)
 4. Test with dry-run
 5. Delete old key from Resend
 

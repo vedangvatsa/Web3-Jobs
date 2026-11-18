@@ -1,6 +1,6 @@
 # Cloudflare deploy (OpenNext / real Next.js)
 
-Production primary host remains Firebase App Hosting. Cloudflare runs the **same Next.js app** via [`@opennextjs/cloudflare`](https://opennext.js.org/cloudflare) (not a reverse proxy).
+Production primary host is **Firebase App Hosting** (`hashtagweb3.com`). **Vercel is not used** (Git auto-deploy is off in `vercel.json`). Cloudflare runs the **same Next.js app** via [`@opennextjs/cloudflare`](https://opennext.js.org/cloudflare) (not a reverse proxy).
 
 ## URL
 
