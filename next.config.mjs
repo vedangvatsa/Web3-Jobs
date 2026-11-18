@@ -127,6 +127,8 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // Temporary while App Hosting does not route bare `/` to the Next server (edge bundle redirect).
+      { source: '/', destination: '/jobs', permanent: false },
       ...Object.entries(imageRedirects).map(([source, destination]) => ({ source, destination, permanent: true })),
       ...learnRedirects,
       ...nomadRedirects,
