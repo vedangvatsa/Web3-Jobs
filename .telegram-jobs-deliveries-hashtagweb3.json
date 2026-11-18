@@ -1790,7 +1790,7 @@
     "sentAt": "2026-11-18T11:32:28.638Z"
   },
   "ae5ac55f-ce11-4227-8d14-137e3177de08": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-18T19:32:42.788Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -1904,6 +1904,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm420?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive Product - Radar (AUNZ)</a>\n- Polymarket is hiring <a href=\"https://hashtagweb3.com/fil?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">US Filings Lead</a>\n- Kaiko is hiring <a href=\"https://hashtagweb3.com/ops179?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Business Operations Intern</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/iar?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Global Investigator, Asset Recovery</a>\n- Talos is hiring <a href=\"https://hashtagweb3.com/gd?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">GM, Head of Data</a>",
-    "slotKey": "2026-11-18:evening"
+    "slotKey": "2026-11-18:evening",
+    "messageId": 156338,
+    "sentAt": "2026-11-18T19:32:45.352Z"
   }
 }

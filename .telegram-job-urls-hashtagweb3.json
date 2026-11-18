@@ -111,6 +111,14 @@
     "lastUrl": "https://hashtagweb3.com/mgr245",
     "updatedAt": "2026-11-13T19:32:40.534Z"
   },
+  "8355353": {
+    "slugs": [
+      "pm420"
+    ],
+    "lastSlug": "pm420",
+    "lastUrl": "https://hashtagweb3.com/pm420",
+    "updatedAt": "2026-11-18T19:32:45.352Z"
+  },
   "8356065": {
     "slugs": [
       "dse"
@@ -598,5 +606,37 @@
     "lastSlug": "mtp2",
     "lastUrl": "https://hashtagweb3.com/mtp2",
     "updatedAt": "2026-11-18T11:32:28.638Z"
+  },
+  "c9da2203-3d56-40a5-9d88-ec020846058b": {
+    "slugs": [
+      "fil"
+    ],
+    "lastSlug": "fil",
+    "lastUrl": "https://hashtagweb3.com/fil",
+    "updatedAt": "2026-11-18T19:32:45.352Z"
+  },
+  "08c1f591-5bcc-4f1e-b2b6-dddf40a8bdf9": {
+    "slugs": [
+      "ops179"
+    ],
+    "lastSlug": "ops179",
+    "lastUrl": "https://hashtagweb3.com/ops179",
+    "updatedAt": "2026-11-18T19:32:45.352Z"
+  },
+  "9f298621-235d-4677-b510-84237c835ec3": {
+    "slugs": [
+      "iar"
+    ],
+    "lastSlug": "iar",
+    "lastUrl": "https://hashtagweb3.com/iar",
+    "updatedAt": "2026-11-18T19:32:45.352Z"
+  },
+  "bca280c9-b272-49f6-aa14-67f29bf5a6aa": {
+    "slugs": [
+      "gd"
+    ],
+    "lastSlug": "gd",
+    "lastUrl": "https://hashtagweb3.com/gd",
+    "updatedAt": "2026-11-18T19:32:45.352Z"
   }
 }
