@@ -39,7 +39,7 @@ const learnRedirects = [
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  ...(process.env.OPENNEXT_CLOUDFLARE === '1' ? {} : { output: 'standalone' }),
+  output: 'standalone',
   compress: true,
   serverExternalPackages: ['firebase-admin', '@neynar/nodejs-sdk'],
   // Keep job/event catalogs inside the standalone server image. Without this,
