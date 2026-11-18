@@ -152143,7 +152143,8 @@
       },
       "account": "channel:ai",
       "attemptId": "f602728b-3feb-4649-ba93-512736f969ff",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xad820adfb8e15f034048fb18f462ee34efbc3f77"
     }
   ]
 }
