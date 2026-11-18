@@ -185455,30 +185455,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "5956079eb5342ec558e5",
-      "status": "deferred",
+      "status": "rejected",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T14:08:41.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Google Says AI Automated the Jump From Patch to Exploit\": https://thedefiant.io/frontier/ai/google-says-ai-automated-the-jump-from-patch-to-exploit -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "out-of-scope",
+      "note": "Read Cointelegraph and the primary Google Cloud GTIG report. The event is Google's threat-intelligence publication on AI agents automating exploit development; general cybersecurity research with no Web3, DeFi or crypto-market event. Not suitable as native news for this Web3 publication.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/frontier/ai/google-says-ai-automated-the-jump-from-patch-to-exploit",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-17T02:33:37.214Z"
+          "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-17T02:33:46.082Z",
+      "reviewedAt": "2026-11-18T02:23:25.080Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Google Says AI Automated the Jump From Patch to Exploit",
         "Find independent reporting confirming the event in: Google Says AI Automated the Jump From Patch to Exploit",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18"
+      "lastReviewedDay": "2026-11-18"
     },
     "08f0bbfc495ba3281aac": {
       "source": "Cointelegraph",
@@ -190295,11 +190295,25 @@
         "Crypto Briefing"
       ],
       "id": "b393cef29c1b62f4723e",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T21:56:35.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read Cointelegraph and Crypto Briefing. The story is CEO Sidney Powell's forward-looking AUM and loan-book targets for end-2027 from an interview and management update, plus strategy commentary; a growth projection is not a discrete event (launch, vote, ruling, filing, hack, raise, upgrade).",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/maple-finance-15b-assets-target-2027/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:22:46.439Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "18173924ed81afa20b60": {
       "source": "The Defiant",
@@ -369536,6 +369550,38 @@
             }
           ],
           "reviewedAt": "2026-11-18T02:21:51.576Z"
+        },
+        "b393cef29c1b62f4723e": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read Cointelegraph and Crypto Briefing. The story is CEO Sidney Powell's forward-looking AUM and loan-book targets for end-2027 from an interview and management update, plus strategy commentary; a growth projection is not a discrete event (launch, vote, ruling, filing, hack, raise, upgrade).",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/maple-finance-15b-assets-target-2027/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:22:46.439Z"
+        },
+        "5956079eb5342ec558e5": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Cointelegraph and the primary Google Cloud GTIG report. The event is Google's threat-intelligence publication on AI agents automating exploit development; general cybersecurity research with no Web3, DeFi or crypto-market event. Not suitable as native news for this Web3 publication.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:23:25.080Z"
         }
       },
       "baselineSlugs": [
