@@ -1,6 +1,86 @@
 {
-  "generatedAt": "2026-11-17T19:31:34.130Z",
+  "generatedAt": "2026-11-18T01:44:01.183Z",
   "items": [
+    {
+      "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+      "link": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+      "pubDate": "Wed, 18 Nov 2026 00:46:25 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaki...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Trump’s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+      "link": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+      "pubDate": "Tue, 17 Nov 2026 23:32:46 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "President Donald Trump’s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
+      "source": "The Block"
+    },
+    {
+      "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+      "link": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+      "pubDate": "Tue, 17 Nov 2026 22:23:29 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "Robinhood brushes off Kalshi’s potential equities push as Mizuho maintains its bullish outlook on HOOD.",
+      "source": "The Block"
+    },
+    {
+      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 22:20:04 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend it...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Hacker Exploits Trader on Ethereum DEX Lighter, Looting $10,000,000 Worth of Crypto",
+      "link": "https://dailyhodl.com/2026/11/17/hacker-exploits-trader-on-ethereum-dex-lighter-looting-10000000-worth-of-crypto/",
+      "pubDate": "Tue, 17 Nov 2026 21:54:10 +0000",
+      "creator": "Conor Devitt",
+      "contentSnippet": "A hacker looted $10 million worth of crypto from a trader operating on the Ethereum (ETH) decentralized exchange Lighter. The blockchain security firm...",
+      "source": "Daily Hodl"
+    },
+    {
+      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "link": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+      "pubDate": "Tue, 17 Nov 2026 20:56:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
+      "link": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+      "pubDate": "Tue, 17 Nov 2026 20:36:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "link": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 20:05:04 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukrai...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+      "link": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+      "pubDate": "Tue, 17 Nov 2026 19:46:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Cathie Wood's funds trimmed Nvidia ahead of earnings while buying Block, Circle and Coinbase during Monday's selloff.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+      "link": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+      "pubDate": "Tue, 17 Nov 2026 19:45:57 +0000",
+      "creator": "Helene Braun",
+      "contentSnippet": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
+      "source": "Coindesk"
+    },
     {
       "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
       "link": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
@@ -16,14 +96,6 @@
       "creator": "Staff",
       "contentSnippet": "Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capac...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
-      "link": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-      "pubDate": "Tue, 17 Nov 2026 19:16:00 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president.",
-      "source": "Coindesk"
     },
     {
       "title": "Coinbase expands onchain crypto loans to New York via Morpho",
@@ -106,14 +178,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-      "link": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-      "pubDate": "Tue, 17 Nov 2026 15:11:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central ba...",
-      "source": "Coindesk"
-    },
-    {
       "title": "PrimeXBT Launches Anthropic Pre-IPO Crypto Futures, Bringing New Trading Opportunities in AI",
       "link": "https://dailyhodl.com/2026/11/17/primexbt-launches-anthropic-pre-ipo-crypto-futures-bringing-new-trading-opportunities-in-ai/",
       "pubDate": "Tue, 17 Nov 2026 14:49:19 +0000",
@@ -167,14 +231,6 @@
       "pubDate": "Tue, 17 Nov 2026 13:30:00 +0000",
       "creator": "Yohan Yun",
       "contentSnippet": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weig...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
-      "link": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 13:12:10 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs.",
       "source": "Cointelegraph"
     },
     {
@@ -474,14 +530,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
-      "link": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
-      "pubDate": "Mon, 16 Nov 2026 18:54:19 +0000",
-      "creator": "Jesse Hamilton",
-      "contentSnippet": "The Commodity Futures Trading Commission directed platforms such as Kalshi to defy state bans, but the Democrats want it to reverse course, citing cou...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
       "link": "https://cointelegraph.com/news/nvidia-turmoil-tests-bitcoin-miners-ai-funding-plans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Mon, 16 Nov 2026 18:07:49 +0000",
@@ -514,14 +562,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 16 Nov 2026 16:26:52 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcemen...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
       "link": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
       "pubDate": "Mon, 16 Nov 2026 16:14:22 +0000",
@@ -538,36 +578,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
-      "link": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
-      "pubDate": "Mon, 16 Nov 2026 15:54:11 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\"...",
-      "source": "Coindesk"
-    },
-    {
       "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
       "link": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
       "pubDate": "Mon, 16 Nov 2026 15:04:56 +0000",
       "creator": "Agent",
       "contentSnippet": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-      "link": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 16 Nov 2026 14:55:46 +0000",
-      "creator": "Isabelle Castro",
-      "contentSnippet": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Lighter recovers $5M after $10M exploit linked to compromised API keys",
-      "link": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 16 Nov 2026 14:19:50 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Lighter restored withdrawals after recovering approximately $5 million in USDC, while blockchain analysts traced $10.4 million in funds moved during t...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
@@ -600,38 +616,6 @@
       "creator": "Agent",
       "contentSnippet": "JPMorgan Chase has accumulated close to $1 billion in Bitcoin and crypto-linked stocks and funds, according to a recent regulatory filing. The bank in...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Central Banks Test Synchronized FX Settlements Using Blockchain Tech",
-      "link": "https://dailyhodl.com/2026/11/16/central-banks-test-synchronized-fx-settlements-using-blockchain-tech/",
-      "pubDate": "Mon, 16 Nov 2026 08:01:51 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The Bank of England, Monetary Authority of Singapore, and Bank of Thailand released findings from Project Meridian FX APAC showing synchronized settle...",
-      "source": "Daily Hodl"
-    },
-    {
-      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
-      "link": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
-      "pubDate": "Sun, 15 Nov 2026 16:01:02 +0000",
-      "creator": "Staff",
-      "contentSnippet": "From Goldman and Citi’s $270 million “Project Faro” to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchai...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
-      "link": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
-      "pubDate": "Sat, 14 Nov 2026 16:01:02 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
-      "link": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
-      "pubDate": "Sat, 14 Nov 2026 14:01:02 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "OpenAI’s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete t...",
-      "source": "Decrypt"
     }
   ]
 }
