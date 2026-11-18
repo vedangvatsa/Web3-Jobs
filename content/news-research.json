@@ -179800,11 +179800,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "5015ff8460f72b2c8d75",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
       "attempts": 0,
       "expiresAt": "2026-11-18T02:40:32.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-18T03:31:36.511Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-11-18"
     },
     "5678be16b02fd14769c4": {
       "source": "CryptoSlate",
@@ -180528,11 +180534,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "cab70cad9bf971516412",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
       "attempts": 0,
       "expiresAt": "2026-11-18T02:45:46.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-18T03:31:36.511Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-11-18"
     },
     "3e674039df5b7002a6b1": {
       "source": "The Defiant",
@@ -180549,11 +180561,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "3e674039df5b7002a6b1",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
       "attempts": 0,
       "expiresAt": "2026-11-18T02:21:35.000Z",
-      "lastSeenAt": "2026-11-15T03:31:30.173Z"
+      "lastSeenAt": "2026-11-15T03:31:30.173Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-18T03:31:36.511Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-11-18"
     },
     "a445205b2b371e426864": {
       "source": "Crypto Briefing",
@@ -180575,11 +180593,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "a445205b2b371e426864",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-15T03:31:30.173Z",
       "attempts": 0,
       "expiresAt": "2026-11-18T02:12:32.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "stale",
+      "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-18T03:31:36.511Z",
+      "automatic": true,
+      "lastReviewedDay": "2026-11-18"
     },
     "8310169e8b2ee611c2d3": {
       "source": "Crypto Briefing",
@@ -181924,7 +181948,7 @@
         "The Defiant"
       ],
       "id": "3967a68c66a363d144df",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T02:33:07.000Z",
@@ -183981,7 +184005,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "862e2d25d902d40998fb",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
       "attempts": 1,
       "expiresAt": "2026-11-18T20:07:48.000Z",
@@ -184100,7 +184124,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "37070f03b6a63374a463",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T20:44:01.000Z",
@@ -184335,7 +184359,7 @@
         "The Defiant"
       ],
       "id": "0b212741b99845e2397a",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T23:27:15.000Z",
@@ -185328,7 +185352,7 @@
         "The Defiant"
       ],
       "id": "193b8cbf43d59809d916",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T16:41:42.000Z",
@@ -185417,7 +185441,7 @@
         "Bankless"
       ],
       "id": "d9514a43e158453476c1",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T14:19:50.000Z",
@@ -185432,7 +185456,6 @@
       ],
       "reviewedAt": "2026-11-18T02:21:38.409Z",
       "duplicateOf": "lighterhalt",
-      "mergedInto": "193b8cbf43d59809d916",
       "lastReviewedDay": "2026-11-18"
     },
     "5956079eb5342ec558e5": {
@@ -185500,7 +185523,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "08f0bbfc495ba3281aac",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T12:54:51.000Z",
@@ -185625,7 +185648,7 @@
         "The Block"
       ],
       "id": "535d91a79ddf92303889",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T08:50:50.000Z",
@@ -185923,7 +185946,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ad91c205730730c97298",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T20:30:37.000Z",
@@ -186437,7 +186460,7 @@
         "Decrypt"
       ],
       "id": "d3f4dbe2daf403caf640",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T13:29:11.000Z",
@@ -186460,7 +186483,6 @@
       ],
       "reviewedAt": "2026-11-18T02:44:49.667Z",
       "duplicateOf": "strategy485",
-      "mergedInto": "ab687f83adb0f54920b5",
       "lastReviewedDay": "2026-11-18"
     },
     "ab687f83adb0f54920b5": {
@@ -186491,7 +186513,7 @@
         "Unchained"
       ],
       "id": "ab687f83adb0f54920b5",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T13:13:14.000Z",
@@ -186916,7 +186938,7 @@
         "Decrypt"
       ],
       "id": "43393aef7f3651a8e651",
-      "status": "rejected",
+      "status": "pending",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 1,
       "expiresAt": "2026-11-19T07:51:15.000Z",
@@ -186935,7 +186957,6 @@
       ],
       "reviewedAt": "2026-11-18T02:44:45.795Z",
       "duplicateOf": "luxorhack",
-      "mergedInto": "3967a68c66a363d144df",
       "lastReviewedDay": "2026-11-18"
     },
     "99fc74a31655b73b94c0": {
@@ -190709,7 +190730,7 @@
         "The Defiant"
       ],
       "id": "11b88965a062d99370fb",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 1,
       "expiresAt": "2026-11-20T13:00:00.000Z",
@@ -191543,7 +191564,7 @@
         "Unchained"
       ],
       "id": "b72b524a864abd786a29",
-      "status": "ready",
+      "status": "pending",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 1,
       "expiresAt": "2026-11-20T11:29:51.000Z",
@@ -369298,89 +369319,6 @@
             "Find any readable primary Wintermute post or market note behind the Fed rate-hike bet commentary"
           ]
         },
-        "b72b524a864abd786a29": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read CoinGecko's Nov 17 announcement (primary), Decrypt, Cointelegraph and Unchained coverage; verified the majority-stake statements, undisclosed terms, the three focus areas, the Ong, Norby and TM Lee quotes and the user/API figures across sources. Wrote coingeckostake.md (about 708 words) with the official CoinGecko founders press image self-hosted at /images/news/coingeckostake.jpg (37KB); quality, images, formatting and duplicate audits show no issues for this file and all four cited links return HTTP 200.",
-          "sourceChecks": [
-            {
-              "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake",
-              "outcome": "read"
-            },
-            {
-              "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-              "outcome": "blocked"
-            },
-            {
-              "url": "https://solana.com/news/coingecko-backed-by-solana-foundation",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-11-18T01:54:13.099Z",
-          "articleSlug": "coingeckostake"
-        },
-        "37070f03b6a63374a463": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read the Nov 16 Alsobrooks press release including the full 13-question letter (primary) and Cointelegraph's Nov 17 report; verified the four senators, the Sept. 17 exemption, the AML/KYC and token-level transfer gaps, the over-sixty-issuer objection figure and the OKXICE 67-company notice. The Block URL stays 403. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
-          "sourceChecks": [
-            {
-              "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-11-18T01:59:48.687Z",
-          "articleSlug": "tokenizedaml"
-        },
-        "193b8cbf43d59809d916": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Re-read Cointelegraph's updated Nov 16 report (postmortem, $5M recovery, Guardian mode, nonce-reuse cause) and Bitquery's on-chain investigation (10,393,057 USDC at 10:11 UTC, CoW Swap conversion, 1,920 ETH via 12 wallets to Hyperliquid XMR1); verified figures across both. CoinDesk 429, BeInCrypto 403 and The Defiant 403 remain blocked. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
-              "outcome": "read"
-            },
-            {
-              "url": "https://bitquery.io/investigations/lighter-hack",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-              "outcome": "blocked"
-            },
-            {
-              "url": "https://beincrypto.com/lighter-api-key-exploit-abraxas-withdrawals/",
-              "outcome": "blocked"
-            },
-            {
-              "url": "https://thedefiant.io/news/security/lighter-halts-all-withdrawals-over-security-incident",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-11-18T01:59:48.688Z",
-          "articleSlug": "lighterhalt"
-        },
         "8df3be1d6e7f2510eb31": {
           "status": "rejected",
           "reason": "out-of-scope",
@@ -369404,98 +369342,6 @@
             }
           ],
           "reviewedAt": "2026-11-18T02:00:20.153Z"
-        },
-        "ab687f83adb0f54920b5": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Opened the SEC 8-K directly and confirmed 485 BTC / $33.4M / $68,887 average, 850,849 holdings, $64.20B aggregate, 2,282,510 STRC shares for $228.1M, $244.7M MSTR sale, 12.00% December rate and $332.2M remaining buyback room; re-read Unchained's Nov 16 report and Crypto Briefing's Nov 16 report for the three-week tally, the STRC rate rationale and the dividend-cost context. The Block URL was not needed (403 previously). Draft, photo and audits pass quality, image, formatting and duplicate checks.",
-          "sourceChecks": [
-            {
-              "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm",
-              "outcome": "read"
-            },
-            {
-              "url": "https://unchainedcrypto.com/strategy-buys-485-bitcoin-for-33-4-million-lifting-holdings-to-850849-btc/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:04:27.650Z",
-          "articleSlug": "strategy485"
-        },
-        "535d91a79ddf92303889": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report in full; verified the Nov. 16 launch, DBS Token Services to Kinexys link, Ant International as first client, Partior coordination, the Saturday 3-6 p.m. ET pause, Project BLOOM context, the DBS survey figures and the BIS deposit-rate paper. The Block's sibling URL was not opened (403 pattern). Draft, Wikimedia photo and all four audits pass.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptoslate.com/jpmorgan-and-dbs-offer-24-7-dollar-transfers-without-stablecoins/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:06:27.662Z",
-          "articleSlug": "dbskinexys"
-        },
-        "0b212741b99845e2397a": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Rewrote the draft to pass quality gates (700+ words, no banned phrasing) after the previous under-600-word isolation. Rechecked this round: the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing (d/b/a Backpack Clearing) DCO registration order (margined futures permission and member-fund segregation read from the PDF text), and Crypto Briefing's Nov 16 report with all quotes and plans; all outbound links return HTTP 200. The tZERO half stays excluded for lack of a readable source.",
-          "sourceChecks": [
-            {
-              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://commons.wikimedia.org/wiki/File:Washington_DC_ESA385709.jpg",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:12:06.987Z",
-          "articleSlug": "backpackcftc"
-        },
-        "3967a68c66a363d144df": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Rewrote the draft to pass quality gates (650+ words) after the previous under-600-word isolation. Rechecked this round: Cointelegraph's Nov 16 report (Commander breach scope, unconfirmed 64,000-machine figure, Hansen X quotes, Chainalysis/Anthropic context) and Crypto Briefing's Nov 15 report (6 PM PDT Nov 14 start, two-hour patch, 0.162 BTC payout, 13 EH/s estimate, no data exfiltrated); all outbound links return HTTP 200.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://commons.wikimedia.org/wiki/File:Hut_8_Medicine_Hat_box_1.jpg",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:12:06.987Z",
-          "articleSlug": "luxorhack"
         },
         "e248b129ece77ee4d4e7": {
           "status": "deferred",
@@ -369596,41 +369442,6 @@
             "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
           ]
         },
-        "862e2d25d902d40998fb": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Rechecked both independent sources this round: Crypto Briefing's Nov 15 report (10-day demand, H200/H100 tier limits, Commerce and Lutnick criticism, Tim Scott summons, earnings timing) and TokenPost's Nov 15 report (same deadline, Megaspeed allegations, national security framing); image source page read and confirmed (Senator Tim Scott photo, public domain); all outbound links return HTTP 200; quality, formatting, images and duplicates audits pass for the article.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/bessent-nvidia-board-export-controls-deadline/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.tokenpost.com/news/regulation/57898",
-              "outcome": "read"
-            },
-            {
-              "url": "https://commons.wikimedia.org/wiki/File:Tim_Scott_and_Scott_Bessent.jpg",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:16:34.290Z",
-          "articleSlug": "bessentnvidia"
-        },
-        "d9514a43e158453476c1": {
-          "status": "rejected",
-          "reason": "duplicate",
-          "note": "Covers the same Nov. 16 Lighter exploit,  million recovery and withdrawal restore already reported in content/articles/lighterhalt.md.",
-          "sourceChecks": [
-            {
-              "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:21:38.409Z",
-          "duplicateOf": "lighterhalt",
-          "mergedInto": "193b8cbf43d59809d916"
-        },
         "17a7b3bc7c629c99a793": {
           "status": "rejected",
           "reason": "price-chatter",
@@ -369687,112 +369498,37 @@
           ],
           "reviewedAt": "2026-11-18T02:23:25.080Z"
         },
-        "08f0bbfc495ba3281aac": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Rechecked the HKMA press release (quotes, participating banks, Nov. 16 date) and Cointelegraph (Nov. 2 EnsembleTX upgrade, July Swift ledger readiness with 17 banks). Draft passes quality, formatting, image and duplicate audits; all outbound links return 200.",
-          "sourceChecks": [
-            {
-              "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:44:05.590Z",
-          "articleSlug": "ensemble"
-        },
-        "11b88965a062d99370fb": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Rechecked Finbold (funding mechanics, trading hours, leverage, CEO quotes, survey) and Crypto Briefing (seven markets, USDC settlement, RFQ, 4% to high-single-digit funding, 20x leverage, $18.46B RWA perp open interest). Draft passes all individual audits; outbound links return 200.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://finbold.com/grvt-launches-commodity-perpetuals-with-funding-tied-to-traditional-market-financing/",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:44:05.591Z",
-          "articleSlug": "stablesfp"
-        },
-        "ad91c205730730c97298": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Rechecked Unchained (acquittal, quotes, mistrial history), Decrypt (Rule 29 reasoning, due-process footnote, 12-second exploit), the Williams & Connolly announcement (Nov. 16 judgment, counsel names) and Cointelegraph (Van Valkenburgh comment). Removed a Reuters link that returns HTTP 401; Unchained's citation of Reuters remains attributed. Draft passes all individual audits.",
-          "sourceChecks": [
-            {
-              "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/akvewgjxkvr/11162026peraire.pdf",
-              "outcome": "read"
-            },
-            {
-              "url": "https://unchainedcrypto.com/judge-acquits-mev-brothers-in-25-million-ethereum-case-finding-no-misrepresentation/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.wc.com/news/williams-connolly-secures-victory-on-behalf-of-client-james-peraire-bueno/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
-              "outcome": "read"
-            },
-            {
-              "url": "https://www.reuters.com/legal/government/us-judge-clears-mit-educated-brothers-25-million-cryptocurrency-heist-charges-2026-11-16/",
-              "outcome": "blocked"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:44:05.591Z",
-          "articleSlug": "mevacquittal"
-        },
-        "43393aef7f3651a8e651": {
+        "5015ff8460f72b2c8d75": {
           "status": "rejected",
-          "reason": "duplicate",
-          "note": "Same Luxor Commander hashrate-hijack event already covered by the ready luxorhack article owned by candidate 3967a68c66a363d144df; rechecked Crypto Briefing and Cointelegraph this round, no new development.",
-          "sourceChecks": [
-            {
-              "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:44:45.795Z",
-          "duplicateOf": "luxorhack",
-          "mergedInto": "3967a68c66a363d144df"
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-18T03:31:36.511Z",
+          "automatic": true
         },
-        "d3f4dbe2daf403caf640": {
+        "cab70cad9bf971516412": {
           "status": "rejected",
-          "reason": "duplicate",
-          "note": "Same Strategy weekly 8-K purchase (485 BTC, 28.1M STRC buyback) already covered by the ready strategy485 article owned by candidate ab687f83adb0f54920b5; read the SEC filing and both outlets this round, no new development.",
-          "sourceChecks": [
-            {
-              "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm",
-              "outcome": "read"
-            },
-            {
-              "url": "https://unchainedcrypto.com/strategy-buys-485-bitcoin-for-33-4-million-lifting-holdings-to-850849-btc/",
-              "outcome": "read"
-            },
-            {
-              "url": "https://cryptobriefing.com/saylor-strategy-largest-company-bitcoin/",
-              "outcome": "read"
-            }
-          ],
-          "reviewedAt": "2026-11-18T02:44:49.667Z",
-          "duplicateOf": "strategy485",
-          "mergedInto": "ab687f83adb0f54920b5"
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-18T03:31:36.511Z",
+          "automatic": true
+        },
+        "3e674039df5b7002a6b1": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-18T03:31:36.511Z",
+          "automatic": true
+        },
+        "a445205b2b371e426864": {
+          "status": "rejected",
+          "reason": "stale",
+          "note": "Verification window ended after 72 hours. Previous blocker: No completed review",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-18T03:31:36.511Z",
+          "automatic": true
         }
       },
       "baselineSlugs": [
