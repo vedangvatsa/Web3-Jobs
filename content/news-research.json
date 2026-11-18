@@ -191263,9 +191263,9 @@
         "Bankless"
       ],
       "id": "0b8b197917185529f4c2",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T16:45:00.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "chatgptplug",
@@ -191287,7 +191287,25 @@
         "updatedAt": "2026-11-18T04:04:34.680Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Bitcoin Magazine's Nov 17 report and Bankless's Nov 17 report in full; verified the official plugin launch, confirmation-card flow, U.S.-only availability, Agent Controls, the OpenAI policy wrinkle and Armstrong quotes across both. Hero is the Wikimedia Armstrong panel photo CC BY 2.0, self-hosted and compressed to 173KB. Quality, image, formatting and duplicate audits pass for the article; tsc clean; all cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/coinbase-launches-a-trading-plugin-for-chatgpt",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(38552330941).jpg",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:07:21.999Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "bc2940443d1ead12e12f": {
       "source": "The Block",
@@ -369826,6 +369844,27 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:04:12.671Z"
+        },
+        "0b8b197917185529f4c2": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Bitcoin Magazine's Nov 17 report and Bankless's Nov 17 report in full; verified the official plugin launch, confirmation-card flow, U.S.-only availability, Agent Controls, the OpenAI policy wrinkle and Armstrong quotes across both. Hero is the Wikimedia Armstrong panel photo CC BY 2.0, self-hosted and compressed to 173KB. Quality, image, formatting and duplicate audits pass for the article; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/coinbase-launches-a-trading-plugin-for-chatgpt",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(38552330941).jpg",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:07:21.999Z",
+          "articleSlug": "chatgptplug"
         }
       },
       "baselineSlugs": [
