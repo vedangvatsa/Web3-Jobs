@@ -150810,7 +150810,8 @@
       },
       "account": "profile",
       "attemptId": "0866c042-f59a-47be-bf19-3502bb840c18",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x83caa06c993112059df68790288bc5b2a8820242"
     }
   ]
 }
