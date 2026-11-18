@@ -1242,10 +1242,12 @@
           "worldbankusdc",
           "chatgptplug"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-18T05:20:31.113Z",
         "buildId": "daily-20261118-44230850450-1",
-        "rolloutId": "daily-20261118-44230850450-1"
+        "rolloutId": "daily-20261118-44230850450-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-18T05:53:46.545Z"
       }
     ]
   }
