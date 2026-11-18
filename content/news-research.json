@@ -181948,13 +181948,13 @@
         "The Defiant"
       ],
       "id": "3967a68c66a363d144df",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-16T03:31:31.782Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-19T02:33:07.000Z",
       "lastSeenAt": "2026-11-16T03:31:31.782Z",
       "reason": "verified-event",
-      "note": "Rewrote the draft to pass quality gates (650+ words) after the previous under-600-word isolation. Rechecked this round: Cointelegraph's Nov 16 report (Commander breach scope, unconfirmed 64,000-machine figure, Hansen X quotes, Chainalysis/Anthropic context) and Crypto Briefing's Nov 15 report (6 PM PDT Nov 14 start, two-hour patch, 0.162 BTC payout, 13 EH/s estimate, no data exfiltrated); all outbound links return HTTP 200.",
+      "note": "Re-read Cointelegraph's Nov 16 report and Crypto Briefing's Nov 15 report; verified the Nov. 14 6 PM PDT Commander breach, the redirect of just over a dozen customer accounts to OCEAN, the two-hour patch, full compensation, the unconfirmed 64,000-machine and 13 EH/s figures, the 0.162 BTC payout and Hansen's AI-enabled attack quotes. Distinct from the earlier luxorai funding story. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
@@ -181963,13 +181963,9 @@
         {
           "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
           "outcome": "read"
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Hut_8_Medicine_Hat_box_1.jpg",
-          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:12:06.987Z",
+      "reviewedAt": "2026-11-18T03:42:23.064Z",
       "articleSlug": "luxorhack",
       "lastReviewedDay": "2026-11-18",
       "retrySearches": [
@@ -184124,13 +184120,13 @@
       ],
       "alsoCoveredBy": [],
       "id": "37070f03b6a63374a463",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-19T20:44:01.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "reason": "verified-event",
-      "note": "Re-read the Nov 16 Alsobrooks press release including the full 13-question letter (primary) and Cointelegraph's Nov 17 report; verified the four senators, the Sept. 17 exemption, the AML/KYC and token-level transfer gaps, the over-sixty-issuer objection figure and the OKXICE 67-company notice. The Block URL stays 403. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
+      "note": "Re-read the Nov 16 Alsobrooks press release with the full 13-question letter (primary) and Cointelegraph's Nov 17 report; verified the four senators, the Sept. 17 Innovation Exemption, the AML/KYC and token-level transfer gaps, the over-sixty-issuer objection figure and the 30-day answer deadline. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/",
@@ -184139,13 +184135,9 @@
         {
           "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T01:59:48.687Z",
+      "reviewedAt": "2026-11-18T03:42:23.063Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
         "Find independent reporting confirming the event in: Democratic senators warn SEC’s tokenized stock exemption has illicit finance gaps",
@@ -184359,9 +184351,9 @@
         "The Defiant"
       ],
       "id": "0b212741b99845e2397a",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-19T23:27:15.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "backpackcftc",
@@ -184385,26 +184377,18 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Rewrote the draft to pass quality gates (700+ words, no banned phrasing) after the previous under-600-word isolation. Rechecked this round: the CFTC Nov 16 Selig statement, the CFTC Nov 13 TLD Clearing (d/b/a Backpack Clearing) DCO registration order (margined futures permission and member-fund segregation read from the PDF text), and Crypto Briefing's Nov 16 report with all quotes and plans; all outbound links return HTTP 200. The tZERO half stays excluded for lack of a readable source.",
+      "note": "Re-read Chairman Selig's Nov 16 CFTC statement (primary) and Crypto Briefing's Nov 16 report; verified the DCM and DCO approvals, the Nov. 13 TLD Clearing (d/b/a Backpack Clearing) registration order, the margined-futures permission, member-fund segregation, the planned around-the-clock perps and the absence of a launch date. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
           "outcome": "read"
         },
         {
-          "url": "https://www.cftc.gov/media/14926/TLD%20Clearing%2C%20Inc.%20-%20DCO%20Registration%20Order%20%2811-13-2026%29/download",
-          "outcome": "read"
-        },
-        {
           "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://commons.wikimedia.org/wiki/File:Washington_DC_ESA385709.jpg",
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:12:06.987Z",
+      "reviewedAt": "2026-11-18T03:42:23.064Z",
       "lastReviewedDay": "2026-11-18",
       "retrySearches": [
         "Repair and revalidate the preserved backpackcftc draft against its original sources: backpackcftc.md: under 600 words, news template phrasing: utiliz(?:e|es|ed|ing)"
@@ -185064,11 +185048,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "be4a95b3e498cf689ddc",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T06:27:42.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Cardano holders vote down $5 million bid to buy warehouse copper\": https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper -> HTTP 429. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+          "outcome": "blocked",
+          "status": 429,
+          "method": "GET",
+          "checkedAt": "2026-11-18T03:31:59.605Z"
+        }
+      ],
+      "reviewedAt": "2026-11-18T03:32:03.952Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Cardano holders vote down $5 million bid to buy warehouse copper",
+        "Find independent reporting confirming the event in: Cardano holders vote down $5 million bid to buy warehouse copper",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "2239c026af0987f48c90": {
       "source": "Crypto Briefing",
@@ -185352,13 +185355,13 @@
         "The Defiant"
       ],
       "id": "193b8cbf43d59809d916",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-19T16:41:42.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "verified-event",
-      "note": "Re-read Cointelegraph's updated Nov 16 report (postmortem, $5M recovery, Guardian mode, nonce-reuse cause) and Bitquery's on-chain investigation (10,393,057 USDC at 10:11 UTC, CoW Swap conversion, 1,920 ETH via 12 wallets to Hyperliquid XMR1); verified figures across both. CoinDesk 429, BeInCrypto 403 and The Defiant 403 remain blocked. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits.",
+      "note": "Re-read Cointelegraph's updated Nov 16 report (postmortem, $5M recovery, Guardian mode, nonce-reuse cause) and Bitquery's on-chain investigation (10,393,057 USDC at 10:11 UTC, CoW Swap conversion to 5,752 ETH in four minutes, 1,920 ETH via 12 wallets to Hyperliquid XMR1, 3,845 ETH remaining at 11:55 UTC); verified figures across both. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
@@ -185367,21 +185370,9 @@
         {
           "url": "https://bitquery.io/investigations/lighter-hack",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://beincrypto.com/lighter-api-key-exploit-abraxas-withdrawals/",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://thedefiant.io/news/security/lighter-halts-all-withdrawals-over-security-incident",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T01:59:48.688Z",
+      "reviewedAt": "2026-11-18T03:42:23.064Z",
       "retrySearches": [
         "Find an accessible second report on the Lighter exchange 0.4 million exploit and withdrawal halt, including Lighter's own announcement or post-mortem"
       ],
@@ -185523,9 +185514,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "08f0bbfc495ba3281aac",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T12:54:51.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "ensemble",
@@ -185553,7 +185544,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Rechecked the HKMA press release (quotes, participating banks, Nov. 16 date) and Cointelegraph (Nov. 2 EnsembleTX upgrade, July Swift ledger readiness with 17 banks). Draft passes quality, formatting, image and duplicate audits; all outbound links return 200.",
+      "note": "Re-read the HKMA Nov 16 press release (primary) and Cointelegraph's Nov 16 report; verified the strengthened Swift collaboration, the participating banks (BOCHK, Standard Chartered, HSBC), the Swift ledger to Ensemble settlement-layer link, the Howard Lee quote and the Nov. 2 EnsembleTX upgrade context. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
@@ -185564,7 +185555,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:44:05.590Z",
+      "reviewedAt": "2026-11-18T03:42:23.064Z",
       "lastReviewedDay": "2026-11-18"
     },
     "3db68d6f6743efa9bd7d": {
@@ -185648,9 +185639,9 @@
         "The Block"
       ],
       "id": "535d91a79ddf92303889",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T08:50:50.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "dbskinexys",
@@ -185674,7 +185665,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report in full; verified the Nov. 16 launch, DBS Token Services to Kinexys link, Ant International as first client, Partior coordination, the Saturday 3-6 p.m. ET pause, Project BLOOM context, the DBS survey figures and the BIS deposit-rate paper. The Block's sibling URL was not opened (403 pattern). Draft, Wikimedia photo and all four audits pass.",
+      "note": "Re-read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report; verified the Nov. 16 launch, the DBS Token Services to Kinexys link, Ant International as first client, Partior settlement coordination, the Saturday 3-6 p.m. ET maintenance pause, Project BLOOM context and the undisclosed fees and prefunded balances. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
@@ -185683,13 +185674,9 @@
         {
           "url": "https://cryptoslate.com/jpmorgan-and-dbs-offer-24-7-dollar-transfers-without-stablecoins/",
           "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T02:06:27.662Z",
+      "reviewedAt": "2026-11-18T03:42:23.064Z",
       "lastReviewedDay": "2026-11-18"
     },
     "80d078750ba4001355eb": {
@@ -190730,9 +190717,9 @@
         "The Defiant"
       ],
       "id": "11b88965a062d99370fb",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-20T13:00:00.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "stablesfp",
@@ -190764,18 +190751,18 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Rechecked Finbold (funding mechanics, trading hours, leverage, CEO quotes, survey) and Crypto Briefing (seven markets, USDC settlement, RFQ, 4% to high-single-digit funding, 20x leverage, $18.46B RWA perp open interest). Draft passes all individual audits; outbound links return 200.",
+      "note": "Re-read Finbold's Nov 17 report and Crypto Briefing's Nov 17 report; verified the Nov. 17 Stable Funding Perps launch, the seven commodity markets, weekday USDC funding settlement with weekend triple charge, RFQ execution, 0% trading fee, 20x leverage with silver at 10x, the 4% to high-single-digit funding range and the Hong Yea quotes. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
-        {
-          "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
-          "outcome": "read"
-        },
         {
           "url": "https://finbold.com/grvt-launches-commodity-perpetuals-with-funding-tied-to-traditional-market-financing/",
           "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:44:05.591Z",
+      "reviewedAt": "2026-11-18T03:42:23.064Z",
       "lastReviewedDay": "2026-11-18"
     },
     "f8f6674f99a6c498766d": {
@@ -191564,9 +191551,9 @@
         "Unchained"
       ],
       "id": "b72b524a864abd786a29",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-20T11:29:51.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "coingeckostake",
@@ -191598,7 +191585,7 @@
         "mustReview": true
       },
       "reason": "verified-event",
-      "note": "Read CoinGecko's Nov 17 announcement (primary), Decrypt, Cointelegraph and Unchained coverage; verified the majority-stake statements, undisclosed terms, the three focus areas, the Ong, Norby and TM Lee quotes and the user/API figures across sources. Wrote coingeckostake.md (about 708 words) with the official CoinGecko founders press image self-hosted at /images/news/coingeckostake.jpg (37KB); quality, images, formatting and duplicate audits show no issues for this file and all four cited links return HTTP 200.",
+      "note": "Re-read CoinGecko's Nov 17 announcement (primary) and Decrypt's Nov 17 report; verified the Solana Foundation majority-stake statements, undisclosed terms, the three focus areas, the Ong and TM Lee quotes and the continued website/app/API operation. Draft and official CoinGecko founders photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
@@ -191607,25 +191594,9 @@
         {
           "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
           "outcome": "read"
-        },
-        {
-          "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake",
-          "outcome": "read"
-        },
-        {
-          "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://solana.com/news/coingecko-backed-by-solana-foundation",
-          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T01:54:13.099Z",
+      "reviewedAt": "2026-11-18T03:42:23.063Z",
       "lastReviewedDay": "2026-11-18"
     },
     "f7e068d874012422856d": {
@@ -369529,6 +369500,162 @@
           "sourceChecks": [],
           "reviewedAt": "2026-11-18T03:31:36.511Z",
           "automatic": true
+        },
+        "be4a95b3e498cf689ddc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Cardano holders vote down $5 million bid to buy warehouse copper\": https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper -> HTTP 429. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+              "outcome": "blocked",
+              "status": 429,
+              "method": "GET",
+              "checkedAt": "2026-11-18T03:31:59.605Z"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:32:03.952Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Cardano holders vote down $5 million bid to buy warehouse copper",
+            "Find independent reporting confirming the event in: Cardano holders vote down $5 million bid to buy warehouse copper",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "37070f03b6a63374a463": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Nov 16 Alsobrooks press release with the full 13-question letter (primary) and Cointelegraph's Nov 17 report; verified the four senators, the Sept. 17 Innovation Exemption, the AML/KYC and token-level transfer gaps, the over-sixty-issuer objection figure and the 30-day answer deadline. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.063Z",
+          "articleSlug": "tokenizedaml"
+        },
+        "b72b524a864abd786a29": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read CoinGecko's Nov 17 announcement (primary) and Decrypt's Nov 17 report; verified the Solana Foundation majority-stake statements, undisclosed terms, the three focus areas, the Ong and TM Lee quotes and the continued website/app/API operation. Draft and official CoinGecko founders photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.063Z",
+          "articleSlug": "coingeckostake"
+        },
+        "0b212741b99845e2397a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Chairman Selig's Nov 16 CFTC statement (primary) and Crypto Briefing's Nov 16 report; verified the DCM and DCO approvals, the Nov. 13 TLD Clearing (d/b/a Backpack Clearing) registration order, the margined-futures permission, member-fund segregation, the planned around-the-clock perps and the absence of a launch date. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/cftc-approves-blockchain-derivatives-exchange-clearinghouse/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.064Z",
+          "articleSlug": "backpackcftc"
+        },
+        "3967a68c66a363d144df": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph's Nov 16 report and Crypto Briefing's Nov 15 report; verified the Nov. 14 6 PM PDT Commander breach, the redirect of just over a dozen customer accounts to OCEAN, the two-hour patch, full compensation, the unconfirmed 64,000-machine and 13 EH/s figures, the 0.162 BTC payout and Hansen's AI-enabled attack quotes. Distinct from the earlier luxorai funding story. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.064Z",
+          "articleSlug": "luxorhack"
+        },
+        "193b8cbf43d59809d916": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph's updated Nov 16 report (postmortem, $5M recovery, Guardian mode, nonce-reuse cause) and Bitquery's on-chain investigation (10,393,057 USDC at 10:11 UTC, CoW Swap conversion to 5,752 ETH in four minutes, 1,920 ETH via 12 wallets to Hyperliquid XMR1, 3,845 ETH remaining at 11:55 UTC); verified figures across both. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitquery.io/investigations/lighter-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.064Z",
+          "articleSlug": "lighterhalt"
+        },
+        "535d91a79ddf92303889": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report; verified the Nov. 16 launch, the DBS Token Services to Kinexys link, Ant International as first client, Partior settlement coordination, the Saturday 3-6 p.m. ET maintenance pause, Project BLOOM context and the undisclosed fees and prefunded balances. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/jpmorgan-and-dbs-offer-24-7-dollar-transfers-without-stablecoins/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.064Z",
+          "articleSlug": "dbskinexys"
+        },
+        "08f0bbfc495ba3281aac": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the HKMA Nov 16 press release (primary) and Cointelegraph's Nov 16 report; verified the strengthened Swift collaboration, the participating banks (BOCHK, Standard Chartered, HSBC), the Swift ledger to Ensemble settlement-layer link, the Howard Lee quote and the Nov. 2 EnsembleTX upgrade context. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261116-4/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.064Z",
+          "articleSlug": "ensemble"
+        },
+        "11b88965a062d99370fb": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Finbold's Nov 17 report and Crypto Briefing's Nov 17 report; verified the Nov. 17 Stable Funding Perps launch, the seven commodity markets, weekday USDC funding settlement with weekend triple charge, RFQ execution, 0% trading fee, 20x leverage with silver at 10x, the 4% to high-single-digit funding range and the Hong Yea quotes. Draft and Wikimedia photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://finbold.com/grvt-launches-commodity-perpetuals-with-funding-tied-to-traditional-market-financing/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/grvt-launches-stable-funding-perps-rwa/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T03:42:23.064Z",
+          "articleSlug": "stablesfp"
         }
       },
       "baselineSlugs": [
