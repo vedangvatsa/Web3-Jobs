@@ -188004,28 +188004,29 @@
       "id": "fedd3d7dd3dd121434a6",
       "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T21:44:25.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders\": https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "note": "Opened and read Bitcoin Magazine's Nov. 17 report (Skladon notified Trezor on Nov. 15, breach on Nov. 7, roughly 27,000 orders from Aug. 9 to Nov. 7, exposed fields, US customers unaffected, prior ShipMonk and Brevo incidents, retention cut to 45 days). The Block URL returned HTTP 403 again on an actual GET with the readiness User-Agent, and no second independent outlet has been read yet, so corroboration is still missing.",
       "sourceChecks": [
         {
+          "url": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders",
+          "outcome": "read"
+        },
+        {
           "url": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-17T02:33:25.703Z"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-17T02:33:46.082Z",
+      "reviewedAt": "2026-11-18T04:37:52.382Z",
       "retrySearches": [
-        "Find a readable primary announcement or filing for: Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
-        "Find independent reporting confirming the event in: Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
-        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+        "Open the Trezor primary notice at https://trezor.io/blog/news/data-breach-at-trezor-shipping-partner-skladon and read it in full for the confirmed figures",
+        "Open and read an independent second report such as https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data to corroborate the 27,000-order breach",
+        "Retry the The Block URL after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18"
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "4aef0ddb994863b7da29": {
       "source": "The Defiant",
@@ -188547,11 +188548,30 @@
         "BeInCrypto"
       ],
       "id": "4c5c14b365cb257f2fb4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T20:18:02.000Z",
-      "lastSeenAt": "2026-11-17T02:33:11.347Z"
+      "lastSeenAt": "2026-11-17T02:33:11.347Z",
+      "reason": "source-blocked",
+      "note": "Opened and read Cointelegraph's Nov. 16 report of Boris Johnson's Nov. 16 remarks on the Solana Breakpoint panel in London (Ponzi comparison reaffirmed, backing for blockchain and tokenization, Lord Ross Kempsell's regulated-perimeter comments, FCA ownership figure). The BeInCrypto URL returned HTTP 403 on an actual GET, so the assigned second source could not be read and independent corroboration is still missing.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/boris-johnson-bitcoin-drug-dealers-blockchain/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:37:52.383Z",
+      "retrySearches": [
+        "Open and read independent coverage of Boris Johnson's Nov. 16 Breakpoint London panel remarks, such as cryptobriefing.com/boris-johnson-bitcoin-skepticism-solana-breakpoint/ or the The Block report dated Nov. 16",
+        "Retry the BeInCrypto URL after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "9ab3c6fd9ed428a4955c": {
       "source": "Crypto Briefing",
@@ -370538,6 +370558,47 @@
             }
           ],
           "reviewedAt": "2026-11-18T04:36:35.277Z"
+        },
+        "fedd3d7dd3dd121434a6": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Opened and read Bitcoin Magazine's Nov. 17 report (Skladon notified Trezor on Nov. 15, breach on Nov. 7, roughly 27,000 orders from Aug. 9 to Nov. 7, exposed fields, US customers unaffected, prior ShipMonk and Brevo incidents, retention cut to 45 days). The Block URL returned HTTP 403 again on an actual GET with the readiness User-Agent, and no second independent outlet has been read yet, so corroboration is still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:37:52.382Z",
+          "retrySearches": [
+            "Open the Trezor primary notice at https://trezor.io/blog/news/data-breach-at-trezor-shipping-partner-skladon and read it in full for the confirmed figures",
+            "Open and read an independent second report such as https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data to corroborate the 27,000-order breach",
+            "Retry the The Block URL after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "4c5c14b365cb257f2fb4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Opened and read Cointelegraph's Nov. 16 report of Boris Johnson's Nov. 16 remarks on the Solana Breakpoint panel in London (Ponzi comparison reaffirmed, backing for blockchain and tokenization, Lord Ross Kempsell's regulated-perimeter comments, FCA ownership figure). The BeInCrypto URL returned HTTP 403 on an actual GET, so the assigned second source could not be read and independent corroboration is still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/boris-johnson-bitcoin-drug-dealers-blockchain/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:37:52.383Z",
+          "retrySearches": [
+            "Open and read independent coverage of Boris Johnson's Nov. 16 Breakpoint London panel remarks, such as cryptobriefing.com/boris-johnson-bitcoin-skepticism-solana-breakpoint/ or the The Block report dated Nov. 16",
+            "Retry the BeInCrypto URL after any Retry-After time, within the existing verification window."
+          ]
         }
       },
       "baselineSlugs": [
