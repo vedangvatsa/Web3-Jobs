@@ -154570,7 +154570,8 @@
       },
       "account": "channel:base",
       "attemptId": "a9444c71-1f4c-4a54-a1b1-a05e722a67c6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6268da7b5cbdd56e5f135c745882195672d27ad3"
     }
   ]
 }
