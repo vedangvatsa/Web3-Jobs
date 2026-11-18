@@ -152253,6 +152253,47 @@
       "attemptId": "5b8d991f-1e5f-4c1d-869c-3fdf353d663c",
       "verification": "verified",
       "postId": "0x49629e79ff658926f78fc10e60c7521a803aefc2"
+    },
+    {
+      "slug": "sec169",
+      "company": "Kraken",
+      "title": "Sr. Security Risk Management Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-18T11:33:12.766Z",
+      "expectedText": "Kraken is hiring Sr. Security Risk Management Analyst: https://hashtagweb3.com/sec169/li?og=7",
+      "snapshot": {
+        "id": "026f97dc-e750-4dd8-9e40-f1a99614fae9",
+        "title": "Sr. Security Risk Management Analyst",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/026f97dc-e750-4dd8-9e40-f1a99614fae9",
+        "date": "2026-11-12T14:47:01.066+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Security & IT",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec169"
+      },
+      "payload": {
+        "text": "Kraken is hiring Sr. Security Risk Management Analyst: https://hashtagweb3.com/sec169/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec169/li?og=7",
+          "title": "Sr. Security Risk Management Analyst at Kraken",
+          "description": "Join Kraken as Sr. Security Risk Management Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec169.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "ba39bbb8-e979-446f-910b-a98f0ee4ef15",
+      "verification": "creating"
     }
   ]
 }
