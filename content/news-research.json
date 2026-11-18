@@ -186385,7 +186385,7 @@
         "id": "47119aef8be852650962",
         "day": "2026-11-18",
         "articleSlug": "bitmineeth",
-        "note": "Read the Bitmine PR Newswire release of Nov 16 (6,077,745 ETH, 7,653 ETH bought that week, Lee quotes) and Decrypt's Nov 16 report; The Block URL returns 403. Draft, image and audits still needed.",
+        "note": "Re-read both sources in full this session: Bitmine PR Newswire release of Nov. 16 (6,077,745 ETH at ,823, 4.97% of supply, 1.8B total holdings, Lee 'waterfall decline' quotes, Nvidia margin-selling and Anthropic IPO reasoning) and Decrypt Nov. 16 (7,653 ETH bought this week, holdings down from 4.3B a week earlier, 5,227,037 ETH staked via MAVAN). Both HTTP 200. Draft, hero image and audits still needed; outcome remains pending.",
         "sourceChecks": [
           {
             "url": "https://www.prnewswire.com/apac/news-releases/bitmine-immersion-technologies-bmnr-announces-eth-holdings-reach-6-08-million-tokens-and-total-crypto-and-total-cash--marketable-securities-holdings-of-11-8-billion-302940161.html",
@@ -186394,13 +186394,9 @@
           {
             "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
             "outcome": "read"
-          },
-          {
-            "url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
-            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-18T04:17:15.125Z",
+        "updatedAt": "2026-11-18T04:32:03.600Z",
         "approved": false,
         "mustReview": true
       }
