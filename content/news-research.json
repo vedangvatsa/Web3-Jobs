@@ -185908,7 +185908,35 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-17",
-      "nextReviewDate": "2026-11-18"
+      "nextReviewDate": "2026-11-18",
+      "articleSlug": "mevacquittal",
+      "draftProgress": {
+        "id": "ad91c205730730c97298",
+        "day": "2026-11-18",
+        "articleSlug": "mevacquittal",
+        "note": "Read the court opinion PDF, Unchained, Decrypt and Cointelegraph coverage; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/akvewgjxkvr/11162026peraire.pdf",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/judge-acquits-mev-brothers-in-25-million-ethereum-case-finding-no-misrepresentation/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-18T02:22:41.674Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "04b753b99fa1521ae2b8": {
       "source": "The Block",
