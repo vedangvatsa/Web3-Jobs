@@ -191011,11 +191011,27 @@
       ],
       "alsoCoveredBy": [],
       "id": "6f15c6342adfc289dc6b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T22:45:03.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "needs-corroboration",
+      "note": "Read Bitcoin Magazine's Nov. 17 report: the Bitcoin Policy Institute renamed itself the Finney Foundation for Open Technology, published the 'For Us, Not Over Us' declaration, launches Finney Fellows, and keeps bitcoin work with David Zell as president and Conner Brown as executive director. Both sources in the lead are the same outlet (Bitcoin Magazine), so an independent second site and the PR Newswire primary announcement still need to be opened.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/bpi-becomes-finney-foundation-open-tech",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:17:58.808Z",
+      "retrySearches": [
+        "Open the PR Newswire release 'Bitcoin Policy Institute Expands into Finney Foundation to Lead Open Tech Policy' linked by Bitcoin Magazine",
+        "Find independent outlet coverage of the Bitcoin Policy Institute rebrand to the Finney Foundation and the Open Technology Declaration",
+        "Check finneyfoundation.org for the declaration and fellows announcement"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "4fa95bc4439759999b99": {
       "source": "CryptoSlate",
@@ -191142,11 +191158,26 @@
         "The Defiant"
       ],
       "id": "92a2de20a1d9cda205c4",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T20:56:03.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "verified-event",
+      "note": "Reused the unpublished worldbankusdc.md draft and re-verified it against the World Bank Group's Nov. 17 press release (commitment to explore regulated stablecoins with Citi and Circle, FundsChain 350-plus projects in 96 countries, Banga/Khaliq/Allaire quotes, intermediated interoperable model limited to borrower countries where digital assets are permitted) and Decrypt's Nov. 17 report (Citi rails plus Circle minting, $270 million bank stablecoin venture, Deutsche Bank custody context). Draft claims match both sources; hero image exists at /images/news/worldbankusdc.jpg and quality, image, formatting and duplicate audits show no issues for this file.",
+      "sourceChecks": [
+        {
+          "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:17:58.807Z",
+      "articleSlug": "worldbankusdc",
+      "lastReviewedDay": "2026-11-18"
     },
     "2cc534be2527f7116b93": {
       "source": "Decrypt",
@@ -191189,11 +191220,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "687a3c3b0060bacb40fb",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T20:14:23.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "source-blocked",
+      "note": "The lead source, The Defiant's piece on the eight-hour Binance Wallet Anthropic IPO token window, returns HTTP 403. The second Defiant URL returned 200 but its article body never rendered beyond the deck, so no reporting text could be read, and both sources are the same outlet anyway. Independent readable coverage is needed before this can be judged or drafted.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-wallet-sets-eight-hour-anthropic-ipo-token-window",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/markets/binance-rescales-anthropic-perp-to-reflect-ipo-shares",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:17:58.808Z",
+      "retrySearches": [
+        "Find independent coverage of Binance Wallet's eight-hour subscription window for Anthropic IPO tokens with the window hours, eligibility and settlement details",
+        "Retry the The Defiant URLs after any Retry-After or cool-down, within the existing verification window"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "449a6f057e6fbcd0dab8": {
       "source": "CryptoSlate",
@@ -191607,11 +191657,31 @@
         "Bitcoin Magazine"
       ],
       "id": "780b598de157db60dc94",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T12:00:55.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "source-blocked",
+      "note": "Read Bitcoin Magazine's Nov. 17 report on the Situational Awareness Q3 13F (IREN cut 94 percent, exits of Core Scientific, Riot and Hive, $80.8 million left across CleanSpark, Bitdeer and IREN, with the SEC filing link). CoinDesk's companion report returned HTTP 429 on two attempts, so only one independent outlet has been read so far.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/aschenbrenner-fund-dumps-bitcoin-miners",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:17:58.808Z",
+      "retrySearches": [
+        "Find independent second-outlet reporting on Situational Awareness' Q3 2026 13F bitcoin miner cuts (IREN 94 percent, exits of Core Scientific, Riot and Hive)",
+        "Open the SEC 13F filing linked by Bitcoin Magazine at sec.gov/Archives/edgar/data/2045724/000093583626000610/ and confirm the share counts",
+        "Retry the CoinDesk URL after its rate-limit cool down within the verification window"
+      ],
+      "lastReviewedDay": "2026-11-18",
+      "nextReviewDate": "2026-11-19"
     },
     "b72b524a864abd786a29": {
       "source": "CoinDesk",
@@ -191744,11 +191814,21 @@
         "Decrypt"
       ],
       "id": "9c1860ba74e6c9120fcd",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T10:33:26.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "price-chatter",
+      "note": "A rolling market liveblog tracking bitcoin and stock price moves ahead of Nvidia earnings. The crypto content is price movement only; the Huang return item is an equity-management report with no concrete Web3 event. Attempted the CoinDesk liveblog URL directly, which returned HTTP 429 twice.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:17:58.808Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "211743ef176dffa21957": {
       "source": "Cointelegraph",
@@ -191772,11 +191852,27 @@
         "Decrypt"
       ],
       "id": "211743ef176dffa21957",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T09:30:05.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "duplicate",
+      "note": "Same Nov. 16 acquittal of Anton and James Peraire-Bueno already covered by content/articles/mevacquittal.md, which cites the court opinion, Unchained, Decrypt, the Williams & Connolly announcement and Cointelegraph on the identical ruling. Cointelegraph and Decrypt describe the same judgment, so a second article would rewrite the covered report.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:17:58.808Z",
+      "duplicateOf": "mevacquittal",
+      "mergedInto": "ad91c205730730c97298",
+      "lastReviewedDay": "2026-11-18"
     },
     "266c19438135a2cc6778": {
       "source": "CoinDesk",
@@ -191871,11 +191967,21 @@
         "Bitcoin Magazine"
       ],
       "id": "ae93e352fd0e5ad4c675",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T07:39:17.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "reason": "price-chatter",
+      "note": "Grayscale commentary that the pullback offers compelling entry points, pegged to bitcoin trading near $64,000. Investment-markets opinion on price levels rather than a concrete event. Attempted the article URL directly; The Block returned HTTP 403.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T04:17:58.808Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "63277e44c6412f12bae4": {
       "source": "CoinDesk",
@@ -369953,6 +370059,123 @@
           ],
           "reviewedAt": "2026-11-18T04:11:55.458Z",
           "articleSlug": "ledgerclear"
+        },
+        "92a2de20a1d9cda205c4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reused the unpublished worldbankusdc.md draft and re-verified it against the World Bank Group's Nov. 17 press release (commitment to explore regulated stablecoins with Citi and Circle, FundsChain 350-plus projects in 96 countries, Banga/Khaliq/Allaire quotes, intermediated interoperable model limited to borrower countries where digital assets are permitted) and Decrypt's Nov. 17 report (Citi rails plus Circle minting, $270 million bank stablecoin venture, Deutsche Bank custody context). Draft claims match both sources; hero image exists at /images/news/worldbankusdc.jpg and quality, image, formatting and duplicate audits show no issues for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:17:58.807Z",
+          "articleSlug": "worldbankusdc"
+        },
+        "211743ef176dffa21957": {
+          "status": "rejected",
+          "reason": "duplicate",
+          "note": "Same Nov. 16 acquittal of Anton and James Peraire-Bueno already covered by content/articles/mevacquittal.md, which cites the court opinion, Unchained, Decrypt, the Williams & Connolly announcement and Cointelegraph on the identical ruling. Cointelegraph and Decrypt describe the same judgment, so a second article would rewrite the covered report.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:17:58.808Z",
+          "duplicateOf": "mevacquittal",
+          "mergedInto": "ad91c205730730c97298"
+        },
+        "9c1860ba74e6c9120fcd": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "A rolling market liveblog tracking bitcoin and stock price moves ahead of Nvidia earnings. The crypto content is price movement only; the Huang return item is an equity-management report with no concrete Web3 event. Attempted the CoinDesk liveblog URL directly, which returned HTTP 429 twice.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:17:58.808Z"
+        },
+        "ae93e352fd0e5ad4c675": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Grayscale commentary that the pullback offers compelling entry points, pegged to bitcoin trading near $64,000. Investment-markets opinion on price levels rather than a concrete event. Attempted the article URL directly; The Block returned HTTP 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:17:58.808Z"
+        },
+        "780b598de157db60dc94": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Bitcoin Magazine's Nov. 17 report on the Situational Awareness Q3 13F (IREN cut 94 percent, exits of Core Scientific, Riot and Hive, $80.8 million left across CleanSpark, Bitdeer and IREN, with the SEC filing link). CoinDesk's companion report returned HTTP 429 on two attempts, so only one independent outlet has been read so far.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/aschenbrenner-fund-dumps-bitcoin-miners",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:17:58.808Z",
+          "retrySearches": [
+            "Find independent second-outlet reporting on Situational Awareness' Q3 2026 13F bitcoin miner cuts (IREN 94 percent, exits of Core Scientific, Riot and Hive)",
+            "Open the SEC 13F filing linked by Bitcoin Magazine at sec.gov/Archives/edgar/data/2045724/000093583626000610/ and confirm the share counts",
+            "Retry the CoinDesk URL after its rate-limit cool down within the verification window"
+          ]
+        },
+        "687a3c3b0060bacb40fb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "The lead source, The Defiant's piece on the eight-hour Binance Wallet Anthropic IPO token window, returns HTTP 403. The second Defiant URL returned 200 but its article body never rendered beyond the deck, so no reporting text could be read, and both sources are the same outlet anyway. Independent readable coverage is needed before this can be judged or drafted.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-wallet-sets-eight-hour-anthropic-ipo-token-window",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/markets/binance-rescales-anthropic-perp-to-reflect-ipo-shares",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:17:58.808Z",
+          "retrySearches": [
+            "Find independent coverage of Binance Wallet's eight-hour subscription window for Anthropic IPO tokens with the window hours, eligibility and settlement details",
+            "Retry the The Defiant URLs after any Retry-After or cool-down, within the existing verification window"
+          ]
+        },
+        "6f15c6342adfc289dc6b": {
+          "status": "deferred",
+          "reason": "needs-corroboration",
+          "note": "Read Bitcoin Magazine's Nov. 17 report: the Bitcoin Policy Institute renamed itself the Finney Foundation for Open Technology, published the 'For Us, Not Over Us' declaration, launches Finney Fellows, and keeps bitcoin work with David Zell as president and Conner Brown as executive director. Both sources in the lead are the same outlet (Bitcoin Magazine), so an independent second site and the PR Newswire primary announcement still need to be opened.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/bpi-becomes-finney-foundation-open-tech",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-18T04:17:58.808Z",
+          "retrySearches": [
+            "Open the PR Newswire release 'Bitcoin Policy Institute Expands into Finney Foundation to Lead Open Tech Policy' linked by Bitcoin Magazine",
+            "Find independent outlet coverage of the Bitcoin Policy Institute rebrand to the Finney Foundation and the Open Technology Declaration",
+            "Check finneyfoundation.org for the declaration and fellows announcement"
+          ]
         }
       },
       "baselineSlugs": [
