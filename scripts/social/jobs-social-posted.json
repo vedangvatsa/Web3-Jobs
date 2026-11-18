@@ -153611,7 +153611,8 @@
       },
       "account": "channel:developers",
       "attemptId": "82a5d41a-9466-4bae-9ecc-0140c0d30ae9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x20d87a501a001007d5b73320b54607861d0a9033"
     }
   ]
 }
