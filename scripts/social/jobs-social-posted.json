@@ -154750,7 +154750,8 @@
       },
       "account": "channel:product",
       "attemptId": "23e9142b-37ed-46ea-9e35-685927756bfb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2023dbcf11bf016d967ee33525883590a5b08098"
     }
   ]
 }
