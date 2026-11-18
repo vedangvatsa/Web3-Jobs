@@ -185526,9 +185526,9 @@
         "The Block"
       ],
       "id": "535d91a79ddf92303889",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-19T08:50:50.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "dbskinexys",
@@ -185550,7 +185550,25 @@
         "updatedAt": "2026-11-18T02:04:56.113Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report in full; verified the Nov. 16 launch, DBS Token Services to Kinexys link, Ant International as first client, Partior coordination, the Saturday 3-6 p.m. ET pause, Project BLOOM context, the DBS survey figures and the BIS deposit-rate paper. The Block's sibling URL was not opened (403 pattern). Draft, Wikimedia photo and all four audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/jpmorgan-and-dbs-offer-24-7-dollar-transfers-without-stablecoins/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-18T02:06:27.662Z",
+      "lastReviewedDay": "2026-11-18"
     },
     "80d078750ba4001355eb": {
       "source": "CryptoSlate",
@@ -369116,6 +369134,27 @@
           ],
           "reviewedAt": "2026-11-18T02:04:27.650Z",
           "articleSlug": "strategy485"
+        },
+        "535d91a79ddf92303889": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph's Nov 16 report and CryptoSlate's Nov 17 report in full; verified the Nov. 16 launch, DBS Token Services to Kinexys link, Ant International as first client, Partior coordination, the Saturday 3-6 p.m. ET pause, Project BLOOM context, the DBS survey figures and the BIS deposit-rate paper. The Block's sibling URL was not opened (403 pattern). Draft, Wikimedia photo and all four audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/jpmorgan-and-dbs-offer-24-7-dollar-transfers-without-stablecoins/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-18T02:06:27.662Z",
+          "articleSlug": "dbskinexys"
         }
       },
       "baselineSlugs": [
