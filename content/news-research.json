@@ -191267,7 +191267,27 @@
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 0,
       "expiresAt": "2026-11-20T16:45:00.000Z",
-      "lastSeenAt": "2026-11-18T01:44:22.148Z"
+      "lastSeenAt": "2026-11-18T01:44:22.148Z",
+      "articleSlug": "chatgptplug",
+      "draftProgress": {
+        "id": "0b8b197917185529f4c2",
+        "day": "2026-11-18",
+        "articleSlug": "chatgptplug",
+        "note": "Read Bitcoin Magazine Nov 17 and Bankless Nov 17 in full; both confirm the official ChatGPT plugin, U.S. availability, confirmation cards and Agent Controls. Draft and hero image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.bankless.com/read/news/coinbase-launches-a-trading-plugin-for-chatgpt",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-18T04:04:34.680Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "bc2940443d1ead12e12f": {
       "source": "The Block",
