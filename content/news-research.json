@@ -184357,11 +184357,11 @@
       "id": "45920990233eb5aa40f0",
       "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-20T01:09:00.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "source-blocked",
-      "note": "Retry round: Crypto Briefing's Nov 16 piece was read previously, but The Defiant companion returned HTTP 403 again on an actual GET this round; still no readable independent outlet confirming that Treasury and the NSC directed the Commerce BIS rule.",
+      "note": "Actual GET this round: The Defiant companion returned HTTP 403 again; Crypto Briefing was read previously. Still no readable independent outlet confirming Treasury and the NSC directed the Commerce BIS rule on Chinese AI-chip access via overseas data centers.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/",
@@ -184372,12 +184372,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T02:13:20.313Z",
+      "reviewedAt": "2026-11-19T02:30:15.248Z",
       "retrySearches": [
         "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
       ],
-      "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "nextReviewDate": "2026-11-20"
     },
     "641ef989f49f398fedcd": {
       "source": "Crypto Briefing",
@@ -185003,11 +185003,11 @@
       "id": "90be9c6de61e00826514",
       "status": "deferred",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-19T18:54:19.000Z",
       "lastSeenAt": "2026-11-17T02:33:11.347Z",
       "reason": "source-blocked",
-      "note": "Retry round: CoinDesk's Nov 16 story again returned HTTP 429 on an actual GET and The Defiant's related piece returned HTTP 403; still no readable source for the Senate Democrats' letter urging the CFTC not to require prediction markets to defy state bans.",
+      "note": "Actual GETs this round: CoinDesk returned HTTP 429 and The Defiant HTTP 403. No readable source yet for the Senate Democrats' letter urging the CFTC not to require prediction markets to defy state bans.",
       "sourceChecks": [
         {
           "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
@@ -185018,12 +185018,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T02:13:20.312Z",
+      "reviewedAt": "2026-11-19T02:30:15.248Z",
       "retrySearches": [
-        "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands"
+        "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands, from Reuters, Cointelegraph, Decrypt or a Senate press release"
       ],
-      "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "nextReviewDate": "2026-11-20"
     },
     "dc33de1dc4b66ec587bb": {
       "source": "Decrypt",
@@ -190682,11 +190682,11 @@
       "id": "9e70b18433575cd7ac54",
       "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-20T13:02:56.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "reason": "source-blocked",
-      "note": "Read Decrypt's Nov 17 report in full (Nov 16 core dev call, EIP-8037 and EIP-8038 gas scaling from 60M to 200M, 10,000-15,000 affected contracts per Marius van der Wijden, ~200 affected classes from ChainSecurity and Dedaub audits, no decision until Thursday's call, 4-6 month delay risk). CoinDesk's Nov 17 story returned HTTP 429 on an actual GET this round; no second readable outlet yet.",
+      "note": "Decrypt's Nov 17 report was read in the prior checkpoint (Nov 16 core dev call, EIP-8037 and EIP-8038 gas scaling, 10,000-15,000 affected contracts per Marius van der Wijden, four-to-six-month delay risk). Actual GET this round: CoinDesk returned HTTP 429 again; no second readable outlet.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
@@ -190697,12 +190697,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T02:13:20.312Z",
+      "reviewedAt": "2026-11-19T02:30:15.248Z",
       "retrySearches": [
-        "Find a second readable independent source (Reuters, The Block, Cointelegraph or Blockworks) on the Nov 16 Ethereum core developer call warning that EIP-8037 and EIP-8038 could break up to 15,000 contracts, including the four-to-six-month delay risk"
+        "Find a second readable independent source (The Block, Cointelegraph, Blockworks or an ethereum.org call note) on the Nov 16 Ethereum core developer call warning that EIP-8037 and EIP-8038 could break up to 15,000 contracts, including the four-to-six-month delay risk"
       ],
-      "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "nextReviewDate": "2026-11-20"
     },
     "f59537bb8e690da706b7": {
       "source": "Decrypt",
@@ -192291,7 +192291,7 @@
       "id": "b72b524a864abd786a29",
       "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-20T11:29:51.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "coingeckostake",
@@ -192310,24 +192310,20 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "source-blocked",
+      "note": "Retried the CoinGecko primary announcement URL with a default link-check User-Agent: HTTP 403 again, while a readiness User-Agent gets HTTP 200, so citing it would fail the source-link gate as in the prior quality-gate isolation. Decrypt, Cointelegraph and Unchained companions are reachable but were not re-read to completion this round, and no draft exists.",
       "sourceChecks": [
         {
           "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
-          "outcome": "read"
-        },
-        {
-          "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-          "outcome": "read"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T05:19:02.655Z",
-      "lastReviewedDay": "2026-11-18",
+      "reviewedAt": "2026-11-19T02:30:15.248Z",
+      "lastReviewedDay": "2026-11-19",
       "retrySearches": [
-        "Repair and revalidate the preserved coingeckostake draft against its original sources: Source link HTTP 403: https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation"
+        "Re-read the Decrypt, Cointelegraph and Unchained Nov 17 reports on the Solana Foundation majority stake in CoinGecko in full and find a CoinGecko or Solana Foundation primary announcement URL that returns HTTP 200 with a plain curl User-Agent so the source-link gate passes"
       ],
-      "nextReviewDate": "2026-11-19",
+      "nextReviewDate": "2026-11-20",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -198650,9 +198646,9 @@
         "Unchained"
       ],
       "id": "ba935478b058548ae7b7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T15:23:18.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
       "articleSlug": "hkagent",
@@ -198670,7 +198666,29 @@
         "updatedAt": "2026-11-19T01:58:25.371Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "source-blocked",
+      "note": "Unchained's Nov 18 report was read in a prior checkpoint, but no second independent outlet is readable: CoinDesk returned HTTP 429 and The Block HTTP 403 on actual GETs this round, and the primary HKMA speech page has not been opened. Draft pending.",
+      "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/hong-kongs-bank-regulator-floats-an-onchain-ai-agent-to-fight-crypto-crime/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-19T02:30:15.248Z",
+      "retrySearches": [
+        "Find a second readable independent outlet (Cointelegraph, Decrypt, Reuters or Blockworks) covering the HKMA Nov 17 regtech-workshop speech on an onchain AI agent for crypto crime, and open the primary HKMA speech transcript"
+      ],
+      "lastReviewedDay": "2026-11-19",
+      "nextReviewDate": "2026-11-20"
     },
     "a4bef1afce25bd6f35aa": {
       "source": "The Block",
@@ -381480,6 +381498,101 @@
           ],
           "reviewedAt": "2026-11-19T02:26:45.301Z",
           "articleSlug": "binanceorder"
+        },
+        "b72b524a864abd786a29": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried the CoinGecko primary announcement URL with a default link-check User-Agent: HTTP 403 again, while a readiness User-Agent gets HTTP 200, so citing it would fail the source-link gate as in the prior quality-gate isolation. Decrypt, Cointelegraph and Unchained companions are reachable but were not re-read to completion this round, and no draft exists.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:30:15.248Z",
+          "retrySearches": [
+            "Re-read the Decrypt, Cointelegraph and Unchained Nov 17 reports on the Solana Foundation majority stake in CoinGecko in full and find a CoinGecko or Solana Foundation primary announcement URL that returns HTTP 200 with a plain curl User-Agent so the source-link gate passes"
+          ]
+        },
+        "ba935478b058548ae7b7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Unchained's Nov 18 report was read in a prior checkpoint, but no second independent outlet is readable: CoinDesk returned HTTP 429 and The Block HTTP 403 on actual GETs this round, and the primary HKMA speech page has not been opened. Draft pending.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/hong-kongs-bank-regulator-floats-an-onchain-ai-agent-to-fight-crypto-crime/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:30:15.248Z",
+          "retrySearches": [
+            "Find a second readable independent outlet (Cointelegraph, Decrypt, Reuters or Blockworks) covering the HKMA Nov 17 regtech-workshop speech on an onchain AI agent for crypto crime, and open the primary HKMA speech transcript"
+          ]
+        },
+        "45920990233eb5aa40f0": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Actual GET this round: The Defiant companion returned HTTP 403 again; Crypto Briefing was read previously. Still no readable independent outlet confirming Treasury and the NSC directed the Commerce BIS rule on Chinese AI-chip access via overseas data centers.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/treasury-nsc-bypass-commerce-to-restrict-chinese-ai-chip-access/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/us-targets-china-s-remote-access-to-advanced-ai-chips",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:30:15.248Z",
+          "retrySearches": [
+            "Find independent reporting from Reuters, Bloomberg or AP confirming that Treasury and the National Security Council directed the Commerce BIS rule restricting Chinese access to US AI chips via overseas data centers, with any Commerce or BIS comment"
+          ]
+        },
+        "90be9c6de61e00826514": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Actual GETs this round: CoinDesk returned HTTP 429 and The Defiant HTTP 403. No readable source yet for the Senate Democrats' letter urging the CFTC not to require prediction markets to defy state bans.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/democrats-challenge-cftc-prediction-market-push-wsj",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:30:15.248Z",
+          "retrySearches": [
+            "Find readable coverage of the Senate Democrats' Nov. 16 letter urging the CFTC not to require prediction markets to defy state bans, with the letter's specific demands, from Reuters, Cointelegraph, Decrypt or a Senate press release"
+          ]
+        },
+        "9e70b18433575cd7ac54": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Decrypt's Nov 17 report was read in the prior checkpoint (Nov 16 core dev call, EIP-8037 and EIP-8038 gas scaling, 10,000-15,000 affected contracts per Marius van der Wijden, four-to-six-month delay risk). Actual GET this round: CoinDesk returned HTTP 429 again; no second readable outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:30:15.248Z",
+          "retrySearches": [
+            "Find a second readable independent source (The Block, Cointelegraph, Blockworks or an ethereum.org call note) on the Nov 16 Ethereum core developer call warning that EIP-8037 and EIP-8038 could break up to 15,000 contracts, including the four-to-six-month delay risk"
+          ]
         }
       },
       "baselineSlugs": [
