@@ -158401,6 +158401,46 @@
       "attemptId": "232ec2da-1ab5-4cac-95f8-2255dc820e80",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "mgr194",
+      "company": "Flow Traders",
+      "title": "Property & Facilities Manager (Part-Time)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-19T04:26:10.329Z",
+      "expectedText": "Flow Traders is hiring Property & Facilities Manager (Part-Time): https://hashtagweb3.com/mgr194/li?og=7",
+      "snapshot": {
+        "id": "8302928",
+        "title": "Property & Facilities Manager (Part-Time)",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8302928",
+        "date": "2026-10-20T05:43:49-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Operations and Middle Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr194"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Property & Facilities Manager (Part-Time): https://hashtagweb3.com/mgr194/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr194/li?og=7",
+          "title": "Property & Facilities Manager (Part-Time) at Flow Traders",
+          "description": "Join Flow Traders as Property & Facilities Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr194.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "8f7716a6-8dcd-4e3f-b1e3-d87a5161cc12",
+      "verification": "creating"
     }
   ]
 }
