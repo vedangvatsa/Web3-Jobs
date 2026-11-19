@@ -158895,7 +158895,8 @@
       },
       "account": "channel:build",
       "attemptId": "6b3cb315-a74e-440b-a8f2-0503aad1254b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xaecfa34653f62a38b7151b3169a8c070ec4830ab"
     }
   ]
 }
