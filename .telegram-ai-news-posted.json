@@ -50,6 +50,9 @@
   "https://www.wired.com/story/artex-ai-hacking-tools/",
   "https://siliconangle.com/2026/11/18/semantic-caching-helps-enforce-ai-agent-governance-inline-sc26/",
   "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+  "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
+  "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+  "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -152,6 +155,12 @@
   "Agents want the crown jewels: HPE and Daxa push governance down to the data layer",
   "API Converts Documents to JSON With Citations and Confidence",
   "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
+  "Hugging Face releases open adapter for Qwen coding model",
+  "New LoRA Adapter Lifts Qwen3.8 Coding Success From 39% to 65%",
+  "Sila to Supply Panasonic With Silicon-Carbon Battery Materials",
+  "What a billion-dollar deal says about the US battery market",
+  "New Guide Outlines Incident Response for AI Infrastructure Attacks",
+  "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -202,5 +211,8 @@
   "fp:accelerat|achiev|amd|architectur|chip|deliver|design|engineer|hardwar|improvement",
   "fp:among|artex|attack|criminal|cybercriminal|enabl|execut|favorit|gain|hack",
   "fp:access|autonomous|control|corporat|crown|daxa|directly|down|enforc|governanc",
-  "fp:api|citation|confidenc|convert|defin|document|extract|extraction|field|fil"
+  "fp:api|citation|confidenc|convert|defin|document|extract|extraction|field|fil",
+  "fp:accuracy|adapter|benchmark|cod|fac|from39|hugg|increas|learn|lift",
+  "fp:agreement|battery|carbon|component|design|dollar|generation|lighter|material|next",
+  "fp:age|analyz|attack|attacker|but|cas|detail|four|framework|guid"
 ]

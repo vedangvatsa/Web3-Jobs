@@ -657,7 +657,7 @@
     "sentAt": "2026-11-19T03:39:27.196Z"
   },
   "20971f76-d464-405b-b358-2f34bda54ede": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T11:36:11.111Z",
     "stories": [
       {
@@ -687,6 +687,8 @@
         "originalTitle": "Not If, But How: Responding to Security Incidents in the Age of AI Attackers"
       }
     ],
-    "slotKey": "2026-11-19:afternoon"
+    "slotKey": "2026-11-19:afternoon",
+    "messageId": 193549,
+    "sentAt": "2026-11-19T11:36:28.209Z"
   }
 }
