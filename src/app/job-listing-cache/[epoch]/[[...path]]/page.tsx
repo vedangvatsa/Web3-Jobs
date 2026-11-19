@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import { jobAgePageCache } from '@/lib/job-age-page-cache';
-import Home, { metadata as homeMetadata } from '@/app/page';
+import { metadata as homeMetadata } from '@/app/page';
 import Jobs, { metadata as jobsMetadata } from '@/app/jobs/page';
 import Companies, { metadata as companiesMetadata } from '@/app/companies/page';
 import Community, { metadata as communityMetadata } from '@/app/community/page';
@@ -37,7 +37,7 @@ export async function generateMetadata(props: Props): Promise<Metadata> {
 
 export default async function JobListingCachePage(props: Props) {
   const { scope, slug } = await scopeFor(props);
-  if (scope === '/') return Home();
+  if (scope === '/') redirect('/jobs');
   if (scope === '/jobs') return Jobs();
   if (scope === '/companies') return Companies();
   if (scope === '/community') return Community();
