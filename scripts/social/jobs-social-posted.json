@@ -159654,6 +159654,41 @@
       "attemptId": "728c821e-3a3c-4922-9fc6-69dfd52616ae",
       "verification": "verified",
       "postId": "0xcd9a44ca7502b4c5f0ef79b1214bef2de7363e44"
+    },
+    {
+      "slug": "an132",
+      "company": "TRM Labs",
+      "title": "Blockchain Intelligence Analyst, Transnational Crime Organizations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T11:37:30.238Z",
+      "expectedText": "TRM Labs is hiring Blockchain Intelligence Analyst, Transnational Crime Organizations\n\nhttps://hashtagweb3.com/an132/fc?og=7",
+      "snapshot": {
+        "id": "45d1bb73-86bf-4018-9f55-fd6752f47625",
+        "title": "Blockchain Intelligence Analyst, Transnational Crime Organizations",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/45d1bb73-86bf-4018-9f55-fd6752f47625",
+        "date": "2026-11-10T16:13:42.725+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "R&D",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an132"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Blockchain Intelligence Analyst, Transnational Crime Organizations\n\nhttps://hashtagweb3.com/an132/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an132/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "f67d274b-b1a2-4a99-ae83-37a89644154f",
+      "verification": "creating"
     }
   ]
 }
