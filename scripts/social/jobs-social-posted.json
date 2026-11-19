@@ -158933,6 +158933,41 @@
       "attemptId": "533598b7-39da-4ae4-abde-db5f4e7c92e1",
       "verification": "verified",
       "postId": "0xd76c8f5b40eef592cade3e7f09b59ce5d8d9f4b7"
+    },
+    {
+      "slug": "cdcp",
+      "company": "Block",
+      "title": "Chargé de Compte PME",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T11:34:04.696Z",
+      "expectedText": "Block is hiring Chargé de Compte PME\n\nhttps://hashtagweb3.com/cdcp/fc?og=7",
+      "snapshot": {
+        "id": "5428323008",
+        "title": "Chargé de Compte PME",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5428323008?gh_jid=5428323008",
+        "date": "2026-11-13T17:30:12-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "20209 S&M - Sales - Square Inside",
+        "active": true,
+        "salary": "$86k – $129k/yr",
+        "dateVerified": true,
+        "slug": "cdcp"
+      },
+      "payload": {
+        "text": "Block is hiring Chargé de Compte PME\n\nhttps://hashtagweb3.com/cdcp/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cdcp/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "0fc6e6f1-b6d0-4648-a533-e594d70b6d7c",
+      "verification": "creating"
     }
   ]
 }
