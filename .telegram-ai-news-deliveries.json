@@ -620,7 +620,7 @@
     "sentAt": "2026-11-18T19:34:33.653Z"
   },
   "da3553db-c40a-4a05-ab8e-ee383709ee40": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T03:39:19.919Z",
     "stories": [
       {
@@ -652,6 +652,8 @@
         "originalTitle": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence"
       }
     ],
-    "slotKey": "2026-11-19:morning"
+    "slotKey": "2026-11-19:morning",
+    "messageId": 193547,
+    "sentAt": "2026-11-19T03:39:27.196Z"
   }
 }

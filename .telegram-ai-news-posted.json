@@ -47,6 +47,9 @@
   "https://the-decoder.com/google-deepminds-project-genie-update-brings-genie-4-chainable-worlds-and-a-community-gallery-for-remixing/",
   "https://the-decoder.com/microsoft-is-replacing-outside-ai-models-in-its-own-products-with-cheaper-in-house-alternatives/",
   "https://the-decoder.com/openai-says-its-models-delivered-a-years-worth-of-chip-optimization-on-top-of-amds-own-engineering/",
+  "https://www.wired.com/story/artex-ai-hacking-tools/",
+  "https://siliconangle.com/2026/11/18/semantic-caching-helps-enforce-ai-agent-governance-inline-sc26/",
+  "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -143,6 +146,12 @@
   "Microsoft is replacing outside AI models in its own products with cheaper in-house alternatives",
   "OpenAI uses AI to accelerate semiconductor chip design",
   "OpenAI says its models delivered a year's worth of chip optimization on top of AMD's own engineering",
+  "Artex AI hacking tool gains popularity among cybercriminals",
+  "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+  "HPE and Daxa implement data-layer AI agent governance",
+  "Agents want the crown jewels: HPE and Daxa push governance down to the data layer",
+  "API Converts Documents to JSON With Citations and Confidence",
+  "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -190,5 +199,8 @@
   "fp:add|allow|check|computer|concurrent|cross|divid|multiagent|multipl|perplexity",
   "fp:chainabl|community|environment|gallery|generat|geni|genie4|googl|google|immersiv",
   "fp:alternativ|automation|cheaper|continuous|cost|design|hous|improv|introduc|microsoft",
-  "fp:accelerat|achiev|amd|architectur|chip|deliver|design|engineer|hardwar|improvement"
+  "fp:accelerat|achiev|amd|architectur|chip|deliver|design|engineer|hardwar|improvement",
+  "fp:among|artex|attack|criminal|cybercriminal|enabl|execut|favorit|gain|hack",
+  "fp:access|autonomous|control|corporat|crown|daxa|directly|down|enforc|governanc",
+  "fp:api|citation|confidenc|convert|defin|document|extract|extraction|field|fil"
 ]
