@@ -156994,6 +156994,40 @@
       "attemptId": "e5106d7b-682b-49f9-8dc4-a4f8843974de",
       "verification": "verified",
       "postId": "0x0c765634cd041cb2d99252a7224eceafb3978984"
+    },
+    {
+      "slug": "cmp33",
+      "company": "Jane Street",
+      "title": "Compliance Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T04:22:52.365Z",
+      "expectedText": "Jane Street is hiring Compliance Analyst\n\nhttps://hashtagweb3.com/cmp33/fc?og=7",
+      "snapshot": {
+        "id": "8894046002",
+        "title": "Compliance Analyst",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8894046002?gh_jid=8894046002",
+        "date": "2026-10-21T04:25:58-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "London, England, United Kingdom",
+        "department": "Legal and Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp33"
+      },
+      "payload": {
+        "text": "Jane Street is hiring Compliance Analyst\n\nhttps://hashtagweb3.com/cmp33/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cmp33/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "5983b71b-be58-4d10-8ec0-4dfb9dabab33",
+      "verification": "creating"
     }
   ]
 }
