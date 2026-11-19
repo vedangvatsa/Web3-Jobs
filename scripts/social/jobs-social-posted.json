@@ -159760,7 +159760,8 @@
       },
       "account": "channel:build",
       "attemptId": "a463f34d-eecb-4d2f-a78c-e0a377dc92a8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x158fa3cffd9100048e64ae36d8265b78ab5011b6"
     }
   ]
 }
