@@ -1738,66 +1738,6 @@
     }
   },
   {
-    "id": "luma-batch-evtthEKKGG0CkEEX",
-    "slug": "openfxm202026",
-    "name": "OpenFX & Stablecon: Money20/20 Stable Salon",
-    "description": "Join Stablecon and OpenFX for an exclusive Stable Salon event, this gathering is designed to foster meaningful discussions around the future of payments, digital assets, treasury infrastructure, and global financial innovation.\n\nWe are bringing together a select group of guests for cocktails, elevated bites, and engaging conversation in a relaxed setting. It’s an opportunity to step away from the pace of the conference, connect with fellow attendees, and enjoy thoughtful conversations over delicious food and drinks.\n\nAttendance is by invitation only, with limited availability. Please submit your RSVP at your earliest convenience. Each request will be reviewed individually, and we’ll confirm your attendance once your place has been secured.\n\nWe’re looking forward to spending the evening with you in Las Vegas!\n\nThis event will be held on Monday, October 19th from 7:00pm-10:00pm at Bazaar Meat, Lower level near Palazzo Lobby",
-    "startDate": "2026-10-20T02:00:00.000Z",
-    "endDate": "2026-10-20T05:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "Bazaar Meat by José Andrés, Bazaar Meat by José Andrés, 3325 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
-    "url": "https://luma.com/openfxm202026",
-    "registrationUrl": "https://luma.com/openfxm202026",
-    "coverImage": "/events/luma-batch-evtthEKKGG0CkEEX-c7c36e87.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/openfxm202026",
-      "eventId": "evt-thEKKGG0CkEEXIF",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtxQkWRblNEmJ3b",
-    "slug": "nj4h7cb6",
-    "name": "Crypto Ignite: Vegas Executive Night",
-    "description": "Bridging Traditional Finance and Digital Assets After Hours at Money20/20 USA\n\nAs the Money20/20 energy shifts off the strip, join ChainUp for an exclusive evening mixer bridging traditional fintech, banking, and borderless financial architecture. Connect with industry architects for high-level strategic dialogue away from the main convention floors.\n\nAn Invite-Only Room Built for Decision-Makers\n\nCurated strictly for CEOs, TradFi leaders, tier-1 banking executives, and institutional pioneers who are actively driving global digital asset adoption.\n\nWhere High-Stakes Deals Move Faster\n\nHigh-Impact Networking: Connect with key decision-makers and secure strategic partnerships after the Money20/20 show floor closes.\n\nStrategic Dialogue & Intelligence: Exchange actionable, off-the-record insights on institutional custody, RWA tokenization, real-time payment rails, and global crypto compliance.\n\nAccelerated Deal Flow: Fast-track integration discussions, partnership roadmaps, and tech deployment with direct executive access.\n\nCurated Atmosphere: Enjoy premium cocktails and elevated hospitality against the Las Vegas skyline in an environment designed for high-level conversations.\n\nAttendance is strictly capped to protect the quality of the room. Secure your spot among the executives actually shaping the future of finance.\n\nCo-Host the Conversation\n\nPosition your organization in front of an elite audience of financial pioneers and enterprise decision-makers. A strictly limited number of co-hosting and strategic partnership packages are available. Inquire: marketing@chainup.com.\n\nCan’t Join Us for Cocktails?\n\nCatch our team at Booth #13133 during Money20/20 USA or book a private 1-on-1 strategy briefing to see how our infrastructure scales your operations.\n\n*Registration opens at 7:30 PM. Program commences at 8:00 PM followed by networking, cocktails, and canapés (subject to schedule adjustments). Dress code: Smart Casual.\n\nNote\nAs this is an invite-only event, please be aware that registering does not guarantee access due to limited availability. There will be a secondary screening and approval process for all registrants. You will initially receive an email stating that your registration is pending. We will then review your registration details during the secondary screening and approval process, and only those who pass this process will receive an approval email along with the ticket. Please note that entry will be granted only to ticketed guests, and tickets are not transferable.\n\nAbout ChainUp\n\nChainUp, a leading global provider of digital asset solutions, empowers businesses to navigate the complexities of this evolving ecosystem. Founded in 2017 and headquartered in Singapore, ChainUp serves a diverse clientele, from Web3 companies to established financial institutions.\n\nChainUp's comprehensive suite of solutions includes crypto exchange solutions, liquidity technology, white label MPC wallet, KYT crypto tracing analytics tool, asset tokenization, crypto asset management, and Web3 infrastructure such as mining, staking, and blockchain APIs. For more information, visit: https://www.chainup.com/.\n\nFollow us:\nTwitter | LinkedIn | Website",
-    "startDate": "2026-10-20T02:30:00.000Z",
-    "endDate": "2026-10-20T05:30:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "Bottled Blonde Las Vegas, Bottled Blonde Las Vegas, 3639 Las Vegas Blvd S, Las Vegas, NV 89109, USA",
-    "url": "https://luma.com/nj4h7cb6",
-    "registrationUrl": "https://luma.com/nj4h7cb6",
-    "coverImage": "/events/luma-batch-evtxQkWRblNEmJ3b-9cb89085.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "ChainUp Events"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/nj4h7cb6",
-      "eventId": "evt-xQkWRblNEmJ3bRC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtaVuHzMqExnGSR",
     "slug": "dt73awy1",
     "name": "Money20/20 Happy Hour",

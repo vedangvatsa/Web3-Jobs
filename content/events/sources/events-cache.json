@@ -1514,19 +1514,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-digital-asset-conference-iv-26-10-19",
-    "name": "The Digital Asset Conference IV",
-    "description": "The Digital Asset Conference IV: institutional digital asset summit in London, October 19–20, 2026.",
-    "startDate": "2026-10-19T08:00:00.000Z",
-    "endDate": "2026-10-20T08:00:00.000Z",
-    "city": "London",
-    "country": "GB",
-    "location": "London, GB",
-    "url": "https://www.thedigitalassetconference.com/",
-    "coverImage": "/events/w3v-digital-asset-conference-iv-26-10-19-9e2b0cc5.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-islanddao-brazil-26-10-19",
     "name": "IslandDAO Brazil",
     "description": "IslandDAO Brazil: month-long coworking, hackathons, and demo days for Solana builders, October–November 2026 in Florianópolis.",
@@ -5561,45 +5548,6 @@
     "coverImage": "/events/luma-host-evt-evt-dz0mxgbpcszczxs-82a51727.webp",
     "source": "luma-trusted",
     "month": "December 2026"
-  },
-  {
-    "id": "w3v-stablecoin-leaders-dinner-money-20-20-26-10-19",
-    "name": "Stablecoin Leaders Dinner at Money 20/20 with Cybrid (Invite Only)",
-    "description": "Stablecoin Leaders Dinner at Money 20/20 with Cybrid (Invite Only): an invite-only stablecoin leaders dinner in Las Vegas on October 19, 2026.",
-    "startDate": "2026-10-20T01:30:00.000Z",
-    "endDate": "2026-10-20T04:30:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/cybrid-money-20-20",
-    "coverImage": "/events/w3v-stablecoin-leaders-dinner-money-20-20-26-10-19-e8a2b6ee.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-openfx-stablecon-money20-20-stable-salon-26-10-19",
-    "name": "OpenFX & Stablecon: Money20/20 Stable Salon",
-    "description": "OpenFX & Stablecon: Money20/20 Stable Salon: A Las Vegas side event on payments, digital assets and treasury infrastructure, October 19, 2026.",
-    "startDate": "2026-10-20T02:00:00.000Z",
-    "endDate": "2026-10-20T05:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/OpenFXM202026",
-    "coverImage": "/events/w3v-openfx-stablecon-money20-20-stable-salon-26-10-48e43949.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-crypto-ignite-vegas-executive-night-26-10-19",
-    "name": "Crypto Ignite: Vegas Executive Night",
-    "description": "Crypto Ignite: Vegas Executive Night: Las Vegas evening mixer for finance and banking executives on custody, RWA tokenization and payments.",
-    "startDate": "2026-10-20T02:30:00.000Z",
-    "endDate": "2026-10-20T05:30:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/nj4h7cb6",
-    "coverImage": "/events/w3v-crypto-ignite-vegas-executive-night-26-10-19-08659fdb.webp",
-    "month": "October 2026"
   },
   {
     "id": "w3v-wake-up-series-stablecoins-future-payments-26-10-20",
@@ -16993,7 +16941,7 @@
     "country": "US",
     "location": "San Francisco, US",
     "url": "https://www.meetup.com/bay-area-millennials-and-gen-z-meetup-group/events/317016304/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317016304-a6e48497.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -22215,6 +22163,75 @@
     "url": "https://lu.ma/cl7csjay",
     "coverImage": "/events/luma-evt-2qbycutunvufe83-0b44b171.webp",
     "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317470202",
+    "name": "One Trillion Parameters, One Token at a Time",
+    "description": "Friday, November 20 · 5:30–6:30 a.m. Pacific / 13:30–14:30 UTC · Live Zoom session hosted by Rajat Dandekar on Maven. A recording will be available afterward.\nYou click Send. A cluster of GPUs has to ",
+    "startDate": "2026-11-20T05:30:00-08:00",
+    "endDate": "2026-11-20T05:30:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ai-performance-engineering-meetup-seattle/events/317470202/",
+    "coverImage": "/events/mu-317470202-9b9d4e07.webp",
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-cardano-community-meetup-zrich",
+    "name": "Cardano Community Meetup Zürich ",
+    "description": "Cardano Community Meetup Zürich: a Cardano Foundation meetup with ecosystem talks, open Q&A, networking and Glühwein for the Swiss blockchain community.",
+    "startDate": "2026-11-26T16:30:00.000Z",
+    "endDate": "2026-11-26T20:00:00.000Z",
+    "city": "Zürich",
+    "country": "CH",
+    "location": "Zürich, CH",
+    "url": "https://luma.com/wt238fxd",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317065466",
+    "name": ".NET Conf 2026 Spokane",
+    "description": "The Spokane .NET User Group is hosting a local .NET Conf again to review the new features of C# and what you can look forward to!\n\nC# 15 is here, bringing new type‑system capabilities, safer patterns,",
+    "startDate": "2026-12-01T17:00:00-08:00",
+    "endDate": "2026-12-01T17:00:00-08:00",
+    "city": "Spokane",
+    "country": "us",
+    "location": "Spokane, us",
+    "url": "https://www.meetup.com/spokane-net-user-group/events/317065466/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317454504",
+    "name": "The Basics of Options: From Definitions to Your First Trade ",
+    "description": "**Traders of all levels are welcome to join and learn!**\n\n**Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
+    "startDate": "2026-12-05T08:00:00-08:00",
+    "endDate": "2026-12-05T08:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/seattle-options-trading-group/events/317454504/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272362",
+    "name": "Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines",
+    "description": "ThunderID ([https://github.com/thunder-id](https://github.com/thunder-id)) is an open source identity and access management project, hosted by LF Decentralized Trust as an incubation project. It is bu",
+    "startDate": "2026-12-10T08:00:00-08:00",
+    "endDate": "2026-12-10T08:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317272362/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "December 2026"
   }
 ]

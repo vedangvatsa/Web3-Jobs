@@ -17607,84 +17607,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-e72ed5ab04a5109a"></a>
-
-## OpenFX & Stablecon: Money20/20 Stable Salon
-
-- Record: `luma-batch-evtthEKKGG0CkEEX`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-20T02:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/openfxm202026>
-
-### About the event
-
-Join Stablecon and OpenFX for an exclusive Stable Salon event, this gathering is designed to foster meaningful discussions around the future of payments, digital assets, treasury infrastructure, and global financial innovation.
-
-We are bringing together a select group of guests for cocktails, elevated bites, and engaging conversation in a relaxed setting. It's an opportunity to step away from the pace of the conference, connect with fellow attendees, and enjoy thoughtful conversations over delicious food and drinks.
-
-Attendance is by invitation only, with limited availability. Please submit your RSVP at your earliest convenience. Each request will be reviewed individually, and we'll confirm your attendance once your place has been secured.
-
-We're looking forward to spending the evening with you in Las Vegas!
-
-This event will be held on Monday, October 19th from 7:00pm-10:00pm at Bazaar Meat, Lower level near Palazzo Lobby
-
-<a id="event-21cbc3906d3aaa84"></a>
-
-## Crypto Ignite: Vegas Executive Night
-
-- Record: `luma-batch-evtxQkWRblNEmJ3b`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-20T02:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/nj4h7cb6>
-
-### About the event
-
-Bridging Traditional Finance and Digital Assets After Hours at Money20/20 USA
-
-As the Money20/20 energy shifts off the strip, join ChainUp for an exclusive evening mixer bridging traditional fintech, banking, and borderless financial architecture. Connect with industry architects for high-level strategic dialogue away from the main convention floors.
-
-An Invite-Only Room Built for Decision-Makers
-
-Curated strictly for CEOs, TradFi leaders, tier-1 banking executives, and institutional pioneers who are actively driving global digital asset adoption.
-
-Where High-Stakes Deals Move Faster
-
-High-Impact Networking: Connect with key decision-makers and secure strategic partnerships after the Money20/20 show floor closes.
-
-Strategic Dialogue & Intelligence: Exchange actionable, off-the-record insights on institutional custody, RWA tokenization, real-time payment rails, and global crypto compliance.
-
-Accelerated Deal Flow: Fast-track integration discussions, partnership roadmaps, and tech deployment with direct executive access.
-
-Curated Atmosphere: Enjoy premium cocktails and elevated hospitality against the Las Vegas skyline in an environment designed for high-level conversations.
-
-Attendance is strictly capped to protect the quality of the room. Secure your spot among the executives actually shaping the future of finance.
-
-Co-Host the Conversation
-
-Position your organization in front of an elite audience of financial pioneers and enterprise decision-makers. A strictly limited number of co-hosting and strategic partnership packages are available. Inquire: marketing@chainup.com.
-
-Can't Join Us for Cocktails?
-
-Catch our team at Booth #13133 during Money20/20 USA or book a private 1-on-1 strategy briefing to see how our infrastructure scales your operations.
-
-*Registration opens at 7:30 PM. Program commences at 8:00 PM followed by networking, cocktails, and canapés (subject to schedule adjustments). Dress code: Smart Casual.
-
-Note
-
-As this is an invite-only event, please be aware that registering does not guarantee access due to limited availability. There will be a secondary screening and approval process for all registrants. You will initially receive an email stating that your registration is pending. We will then review your registration details during the secondary screening and approval process, and only those who pass this process will receive an approval email along with the ticket. Please note that entry will be granted only to ticketed guests, and tickets are not transferable.
-
-### About ChainUp
-
-ChainUp, a leading global provider of digital asset solutions, empowers businesses to navigate the complexities of this evolving ecosystem. Founded in 2017 and headquartered in Singapore, ChainUp serves a diverse clientele, from Web3 companies to established financial institutions.
-
-ChainUp's comprehensive suite of solutions includes crypto exchange solutions, liquidity technology, white label MPC wallet, KYT crypto tracing analytics tool, asset tokenization, crypto asset management, and Web3 infrastructure such as mining, staking, and blockchain APIs. For more information, visit: https://www.chainup.com/.
-
-Follow us:
-
-Twitter | LinkedIn | Website
-
 <a id="event-1ce8bbfb068c1c04"></a>
 
 ## Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin
@@ -20340,18 +20262,6 @@ Attendees can use Money20/20 Connect in the app or browser to book one-to-one me
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-9472d1a65aa6afdf"></a>
-
-## The Digital Asset Conference IV
-
-- Record: `w3v-digital-asset-conference-iv-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.thedigitalassetconference.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-e767e9861f0dde30"></a>
 
 ## IslandDAO Brazil
@@ -20385,42 +20295,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T01:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/ethereum-stablecoin-happyhour>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-23b64f174a77940b"></a>
-
-## Stablecoin Leaders Dinner at Money 20/20 with Cybrid (Invite Only)
-
-- Record: `w3v-stablecoin-leaders-dinner-money-20-20-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T01:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/cybrid-money-20-20>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ec801cf6b57b6912"></a>
-
-## OpenFX & Stablecon: Money20/20 Stable Salon
-
-- Record: `w3v-openfx-stablecon-money20-20-stable-salon-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T02:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/OpenFXM202026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4f66615994893985"></a>
-
-## Crypto Ignite: Vegas Executive Night
-
-- Record: `w3v-crypto-ignite-vegas-executive-night-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T02:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/nj4h7cb6>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32616,6 +32490,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-926897ec2587830f"></a>
+
+## One Trillion Parameters, One Token at a Time
+
+- Record: `mu-317470202`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T05:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/ai-performance-engineering-meetup-seattle/events/317470202/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c0521b992cc7ef71"></a>
 
 ## One Trillion Parameters, One Token at a Time
@@ -34009,6 +33895,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5ea9f47d9fd405c4"></a>
+
+## Cardano Community Meetup Zürich
+
+- Record: `w3v-cardano-community-meetup-zrich`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T16:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/wt238fxd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-085dfb431b1f6e67"></a>
 
 ## Atlar and Airwallex Present: Finance Leaders' AI Dinner
@@ -34677,6 +34575,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-4aead9e6aa8c8495"></a>
+
+## .NET Conf 2026 Spokane
+
+- Record: `mu-317065466`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T17:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/spokane-net-user-group/events/317065466/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ce01a2ae4b3ef87f"></a>
 
 ## Bitcoin for Beginners (1st Tuesdays) - Portland, Oregon Meetup
@@ -35088,6 +34998,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-05T06:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/e8nn7g59>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a94b6b81f48e9908"></a>
+
+## The Basics of Options: From Definitions to Your First Trade
+
+- Record: `mu-317454504`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T08:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/seattle-options-trading-group/events/317454504/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35668,6 +35590,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10T06:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaMuayThaiSupeweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-33a541e860cee8d8"></a>
+
+## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
+
+- Record: `mu-317272362`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T08:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/317272362/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

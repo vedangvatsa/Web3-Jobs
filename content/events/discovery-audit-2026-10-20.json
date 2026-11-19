@@ -50,26 +50,6 @@
       "descriptionSha256": "1c12dbb0225562c76a9f4d2e92530cc747b7417ed68acea5c4ee34bb92df5921"
     },
     {
-      "id": "luma-batch-evtthEKKGG0CkEEX",
-      "slug": "openfxm202026",
-      "aliases": [],
-      "startDate": "2026-10-20T02:00:00.000Z",
-      "endDate": "2026-10-20T05:00:00.000Z",
-      "timezone": "America/Los_Angeles",
-      "descriptionSha256": "e4177f19eba4fd6605e1dc543cfd5a3a55481d6662b0475c02cdc015329e5363"
-    },
-    {
-      "id": "luma-batch-evtxQkWRblNEmJ3b",
-      "slug": "crypto-ignite-vegas",
-      "aliases": [
-        "nj4h7cb6"
-      ],
-      "startDate": "2026-10-20T02:30:00.000Z",
-      "endDate": "2026-10-20T05:30:00.000Z",
-      "timezone": "America/Los_Angeles",
-      "descriptionSha256": "ffd63d8152b3bd245bc352265cb4fd49190cbcc1aba81d7614b106680aca558d"
-    },
-    {
       "id": "luma-batch-evt9nYvpCnI7IZyX",
       "slug": "merkle-science-las-vegas",
       "aliases": [

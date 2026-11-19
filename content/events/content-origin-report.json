@@ -85,33 +85,6 @@
       ]
     },
     {
-      "id": "luma-batch-evtthEKKGG0CkEEX",
-      "slug": "openfxm202026",
-      "name": "OpenFX & Stablecon: Money20/20 Stable Salon",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/openfxm202026",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-evtxQkWRblNEmJ3b",
-      "slug": "nj4h7cb6",
-      "name": "Crypto Ignite: Vegas Executive Night",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/nj4h7cb6",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "About ChainUp"
-      ]
-    },
-    {
       "id": "luma-batch-evt9nYvpCnI7IZyX",
       "slug": "yqb3o4cs",
       "name": "Merkle Science Meet Las Vegas: Enterprise Compliance for Digital Assets",
