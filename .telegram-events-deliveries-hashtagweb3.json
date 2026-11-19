@@ -694,5 +694,49 @@
     "slotKey": "2026-11-18:evening",
     "messageId": 156337,
     "sentAt": "2026-11-18T19:32:43.930Z"
+  },
+  "3e2fc9ff-b629-4a71-83e7-1ab81987cf41": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T03:36:25.125Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-13WH0lUCgcznSeW",
+        "slug": "toronto-bl",
+        "name": "Toronto Blockchain Week 2026",
+        "startDate": "2026-11-24T14:00:00.000Z",
+        "keys": [
+          "luma-crypto-13wh0lucgcznsew",
+          "page:toronto-bl:2026-11-24",
+          "luma:evt-13wh0lucgcznsew",
+          "luma-url:/blockchainweekto",
+          "event:torontoblockchainweek2026:2026-11-24:toronto"
+        ]
+      },
+      {
+        "id": "premier-planx",
+        "slug": "planx",
+        "name": "PlanX Conference 2026",
+        "startDate": "2026-11-25",
+        "keys": [
+          "premier-planx",
+          "page:planx:2026-11-25",
+          "event:planxconference2026:2026-11-25:dubai"
+        ]
+      },
+      {
+        "id": "premier-world-token-congress-2026",
+        "slug": "world-token-congress",
+        "name": "World Token Congress 2026",
+        "startDate": "2026-11-25T09:00:00+01:00",
+        "keys": [
+          "premier-world-token-congress-2026",
+          "page:world-token-congress:2026-11-25",
+          "event:worldtokencongress2026:2026-11-25:barcelona"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-19:morning"
   }
 }
