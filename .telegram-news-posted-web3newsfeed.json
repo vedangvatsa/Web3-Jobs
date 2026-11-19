@@ -47,6 +47,9 @@
   "https://hashtagweb3.com/backpackcftc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/chatgptplug?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/dbskinexys?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/tokenizedaml?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/stablesfp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mevacquittal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -143,6 +146,12 @@
   "Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives",
   "DBS and JPMorgan launch 24/7 tokenized dollar transfers",
   "DBS and JPMorgan launch 24/7 tokenized deposit transfers between Singapore and the US",
+  "Four Senators Query SEC on Tokenized Stock Exemption Risks",
+  "Four Democratic senators press SEC on illicit finance gaps in its tokenized stock exemption",
+  "Grvt launches commodity perpetuals using traditional financing rates",
+  "Grvt launches Stable Funding Perps tied to traditional financing costs",
+  "Brothers acquitted of fraud in $25 million Ethereum exploit",
+  "Judge acquits Peraire-Bueno brothers in $25 million Ethereum MEV case",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -190,5 +199,8 @@
   "fp:000|approv|bundestag|can|cas|criminal|custom|day|detain|euro",
   "fp:approv|backpack|bas|blockchain|but|cftc|clearinghous|customer|dat|derivativ",
   "fp:account|buy|can|chat|coinbas|confirmation|derivativ|interfac|link|openai",
-  "fp:ant|between|client|deposit|dollar|international|jpmorgan|launch24|link|mov"
+  "fp:ant|between|client|deposit|dollar|international|jpmorgan|launch24|link|mov",
+  "fp:anti|atkin|chairman|democratic|digital|exemption|financ|four|gap|illicit",
+  "fp:commodity|cost|financ|grvt|instead|now|perp|perpetual|position|rat",
+  "fp:25m|acquit|acquitt|bot|brother|bueno|cas|dur|exploit|fail"
 ]

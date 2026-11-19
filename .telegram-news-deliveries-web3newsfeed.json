@@ -528,7 +528,7 @@
     "sentAt": "2026-11-18T19:33:37.241Z"
   },
   "eee0655a-b7ac-40f3-9e3f-e2b8ec528ca8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T03:37:46.097Z",
     "stories": [
       {
@@ -556,6 +556,8 @@
         "originalTitle": "Judge acquits Peraire-Bueno brothers in $25 million Ethereum MEV case"
       }
     ],
-    "slotKey": "2026-11-19:morning"
+    "slotKey": "2026-11-19:morning",
+    "messageId": 65842,
+    "sentAt": "2026-11-19T03:37:48.622Z"
   }
 }
