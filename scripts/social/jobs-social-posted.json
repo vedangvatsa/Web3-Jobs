@@ -157973,7 +157973,8 @@
       },
       "account": "channel:dev",
       "attemptId": "8a0f8849-753d-46dc-bd3b-de5d658c6e25",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9d0ba7fd707dd7d8de0d6c2eb7de374090ffd567"
     }
   ]
 }
