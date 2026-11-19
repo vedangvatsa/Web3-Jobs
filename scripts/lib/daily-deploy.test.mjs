@@ -4,7 +4,7 @@ import { spawnSync } from 'node:child_process';
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
-import { BACKEND, assertDailyContent, claimDailyDeployment, createDeployStateStore, dailyDeploymentDue, hasDailyDeployment, recordDeploymentResult, runDailyDeployment } from './daily-deploy.mjs';
+import { BACKEND, STALE_CLAIM_MS, assertDailyContent, claimDailyDeployment, createDeployStateStore, dailyDeploymentDue, hasDailyDeployment, reconcileStaleDeployments, recordDeploymentResult, runDailyDeployment } from './daily-deploy.mjs';
 
 const date = '2026-10-22';
 const now = Date.parse(`${date}T04:00:00Z`);
@@ -349,4 +349,63 @@ test('automatic empty-date calls cannot fall through to the explicit operator en
     assert.equal(result.status, success ? 0 : 1, result.stderr);
     if (!success) assert.match(result.stderr, /explicit date/);
   }
+});
+
+async function strandedClaim(phase) {
+  const h = harness();
+  if (phase === 'building') h.provider.build = 'BUILDING';
+  else h.provider.rollout = 'PROGRESSING';
+  await assert.rejects(h.run(), /result unknown/);
+  assert.equal(h.server.state.dailyDeployments[date][0].phase, phase);
+  const later = now + STALE_CLAIM_MS;
+  const reconcile = extra => reconcileStaleDeployments({ store: h.store, getAccessToken: () => 'offline', request: h.options.request, now: () => later, ...extra });
+  return { h, later, reconcile };
+}
+
+test('a stranded build claim missing from the backend becomes retryable and the next run deploys once', async () => {
+  const { h, later, reconcile } = await strandedClaim('building');
+  h.provider.onRequest = (_url, init) => (init.method === 'GET' ? Response.json({ error: { code: 404 } }, { status: 404 }) : undefined);
+  assert.deepEqual((await reconcile()).map(item => [item.phase, item.providerState]), [['build-failed', 'NOT_FOUND']]);
+  assert.equal(h.server.state.dailyDeployments[date][0].buildState, 'NOT_FOUND');
+  h.provider.onRequest = undefined; h.provider.build = 'READY';
+  assert.equal((await h.run({ id: '124-1', now: () => later })).deployed, true);
+  assert.equal(h.provider.writes.length, 3);
+});
+
+test('claims younger than the job lifetime, and builds still running, stay blocking', async () => {
+  const { h, reconcile } = await strandedClaim('building');
+  assert.deepEqual(await reconcile({ now: () => now + STALE_CLAIM_MS - 1 }), []);
+  assert.deepEqual(await reconcile(), []);
+  assert.equal(h.server.state.dailyDeployments[date][0].phase, 'building');
+  await assert.rejects(h.run({ id: '124-1' }), /Unconfirmed deployment/);
+  assert.equal(h.provider.writes.length, 1);
+});
+
+test('a ready build whose run died before the rollout is abandoned without creating a rollout', async () => {
+  const { h, reconcile } = await strandedClaim('building');
+  h.provider.build = 'READY';
+  const writes = h.provider.writes.length;
+  assert.deepEqual((await reconcile()).map(item => item.phase), ['abandoned']);
+  assert.equal(h.provider.writes.length, writes);
+  assert.equal(hasDailyDeployment(h.server.state, date), false);
+});
+
+test('a stranded rollout is recorded from the provider: success blocks a repeat, failure allows a retry', async () => {
+  const succeeded = await strandedClaim('rolling-out');
+  succeeded.h.provider.rollout = 'SUCCEEDED';
+  assert.deepEqual((await succeeded.reconcile()).map(item => item.phase), ['succeeded']);
+  assert.equal(hasDailyDeployment(succeeded.h.server.state, date), true);
+  assert.equal((await succeeded.h.run({ id: '124-1', now: () => succeeded.later })).deployed, false);
+  const failed = await strandedClaim('rolling-out');
+  failed.h.provider.rollout = 'FAILED';
+  assert.deepEqual((await failed.reconcile()).map(item => item.phase), ['rollout-failed']);
+  assert.equal(dailyDeploymentDue(failed.h.server.state, date, failed.later), true);
+});
+
+test('provider errors during reconciliation change nothing', async () => {
+  const { h, reconcile } = await strandedClaim('building');
+  const before = structuredClone(h.server.state);
+  h.provider.onRequest = () => Response.json({}, { status: 500 });
+  await assert.rejects(reconcile(), /HTTP 500/);
+  assert.deepEqual(h.server.state, before);
 });

@@ -5,8 +5,10 @@ export const DEPLOY_STATE_PATH = 'scripts/social/publish-slot-state.json';
 export const BACKEND = 'projects/hashtagweb3-97583/locations/us-central1/backends/studio';
 const object = value => value && typeof value === 'object' && !Array.isArray(value);
 const timestamp = value => typeof value === 'string' && Number.isFinite(Date.parse(value));
-const phases = new Set(['building', 'rolling-out', 'build-failed', 'rollout-failed', 'succeeded']);
+const phases = new Set(['building', 'rolling-out', 'build-failed', 'rollout-failed', 'abandoned', 'succeeded']);
 const active = attempt => ['building', 'rolling-out'].includes(attempt.phase);
+// Must exceed the deploy job's timeout-minutes so no live run can still own a claim being reconciled.
+export const STALE_CLAIM_MS = 3 * 60 * 60 * 1000;
 const normalizeResource = name => String(name).replace(/^projects\/416755535358\//, 'projects/hashtagweb3-97583/');
 
 export function assertDeployDate(date, now) {
@@ -161,6 +163,40 @@ export async function recordDeploymentResult({ store, claim, resource, kind, now
     }
     return state;
   });
+}
+
+export async function reconcileStaleDeployments({ store, getAccessToken, request = fetch, now = Date.now, staleAfterMs = STALE_CLAIM_MS }) {
+  const { state } = await store.read();
+  const stale = Object.values(state.dailyDeployments || {}).flat()
+    .filter(attempt => active(attempt) && now() - Date.parse(attempt.startedAt) >= staleAfterMs);
+  const resolved = [];
+  for (const attempt of stale) {
+    const kind = attempt.phase === 'building' ? 'build' : 'rollout';
+    const name = `${BACKEND}/${kind}s/${kind === 'build' ? attempt.buildId : attempt.rolloutId}`;
+    const response = await request(`https://firebaseapphosting.googleapis.com/v1beta/${name}`, {
+      method: 'GET', redirect: 'error', signal: AbortSignal.timeout(30000), headers: { Authorization: `Bearer ${getAccessToken()}` },
+    });
+    if (!response.ok && response.status !== 404) throw new Error(`Cannot reconcile deployment ${attempt.date}/${attempt.id}: HTTP ${response.status}`);
+    const resource = response.status === 404 ? { name, state: 'NOT_FOUND' } : await response.json();
+    if (normalizeResource(resource.name) !== name) throw new Error('Deployment resource identity mismatch');
+    if (kind === 'rollout' && resource.state === 'SUCCEEDED') {
+      await recordDeploymentResult({ store, claim: attempt, resource, kind, now });
+      resolved.push({ date: attempt.date, id: attempt.id, from: attempt.phase, phase: 'succeeded', providerState: resource.state });
+      continue;
+    }
+    // A READY build left in `building` never had a rollout requested, because the phase is saved before the rollout create.
+    const phase = ['FAILED', 'CANCELLED', 'NOT_FOUND'].includes(resource.state) ? `${kind}-failed`
+      : kind === 'build' && resource.state === 'READY' ? 'abandoned' : undefined;
+    if (!phase) continue;
+    await store.update(next => {
+      const receipt = next.dailyDeployments?.[attempt.date]?.find(candidate => candidate.id === attempt.id);
+      if (!receipt || receipt.phase !== attempt.phase) return null;
+      Object.assign(receipt, { phase, [`${kind}State`]: resource.state, observedAt: new Date(now()).toISOString() });
+      return next;
+    });
+    resolved.push({ date: attempt.date, id: attempt.id, from: attempt.phase, phase, providerState: resource.state });
+  }
+  return resolved;
 }
 
 export async function runDailyDeployment({ store, date, id, sourceCommit, content, token, getAccessToken, request = fetch, sleep = delay, now = Date.now, evidence = async () => {}, buildPolls = 160, rolloutPolls = 40 }) {

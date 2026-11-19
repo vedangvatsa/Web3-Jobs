@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execFileSync } from 'node:child_process';
 import { pathToFileURL } from 'node:url';
-import { assertDailyContent, createDeployStateStore, dailyDeploymentDue, runDailyDeployment } from './lib/daily-deploy.mjs';
+import { assertDailyContent, createDeployStateStore, dailyDeploymentDue, reconcileStaleDeployments, runDailyDeployment } from './lib/daily-deploy.mjs';
 
 export function loadDailyContent(cwd = process.cwd()) {
   const json = file => JSON.parse(fs.readFileSync(path.join(cwd, file), 'utf8'));
@@ -21,6 +21,10 @@ async function main() {
   }
   if (!date) throw new Error('Automatic deployment requires an explicit date');
   const store = createDeployStateStore({ token: process.env.GITHUB_TOKEN, repository: process.env.GITHUB_REPOSITORY });
+  const gcloudToken = () => execFileSync('gcloud', ['auth', 'print-access-token'], { encoding: 'utf8' }).trim();
+  for (const item of await reconcileStaleDeployments({ store, getAccessToken: gcloudToken })) {
+    console.log(`Reconciled stale deployment ${item.date}/${item.id}: ${item.from} -> ${item.phase} (provider state ${item.providerState})`);
+  }
   const { state } = await store.read();
   if (!dailyDeploymentDue(state, date)) { output('run', false); output('deployed', false); console.log(`The daily rollout for ${date} already succeeded.`); return; }
   const content = loadDailyContent();
@@ -29,7 +33,6 @@ async function main() {
   if (action !== 'deploy') throw new Error('Unknown deployment command');
   const directory = '.cache/daily-deploy';
   fs.mkdirSync(directory, { recursive: true });
-  const gcloudToken = () => execFileSync('gcloud', ['auth', 'print-access-token'], { encoding: 'utf8' }).trim();
   const result = await runDailyDeployment({
     store, date, id: `${process.env.GITHUB_RUN_ID}-${process.env.GITHUB_RUN_ATTEMPT}`,
     sourceCommit: execFileSync('git', ['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim(), content,

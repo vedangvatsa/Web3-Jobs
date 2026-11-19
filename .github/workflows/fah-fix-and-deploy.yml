@@ -22,11 +22,13 @@ on:
 
 concurrency:
   group: fah-deploy
-  cancel-in-progress: true
+  # Cancelling a run mid-poll strands its durable claim, so later runs queue instead.
+  cancel-in-progress: false
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 100
+    # Must stay below STALE_CLAIM_MS in scripts/lib/daily-deploy.mjs (3 hours).
+    timeout-minutes: 120
     permissions:
       contents: write
       id-token: write
@@ -39,19 +41,17 @@ jobs:
           node-version: '24'
       - name: Test daily deployment policy
         run: node --test scripts/lib/daily-deploy.test.mjs
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: 'projects/416755535358/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
+          service_account: 'github-deployer@hashtagweb3-97583.iam.gserviceaccount.com'
+      - uses: google-github-actions/setup-gcloud@v2
       - name: Recheck daily content and deployment state under the deployment lock
         id: plan
         env:
           DAILY_DEPLOY_DATE: ${{ inputs.date }}
           GITHUB_TOKEN: ${{ github.token }}
         run: node scripts/daily-deploy.mjs plan
-      - uses: google-github-actions/auth@v2
-        if: ${{ steps.plan.outputs.run == 'true' }}
-        with:
-          workload_identity_provider: 'projects/416755535358/locations/global/workloadIdentityPools/github-pool/providers/github-provider'
-          service_account: 'github-deployer@hashtagweb3-97583.iam.gserviceaccount.com'
-      - uses: google-github-actions/setup-gcloud@v2
-        if: ${{ steps.plan.outputs.run == 'true' }}
       - name: Grant deploy role + actAs on the App Hosting compute SA
         if: ${{ steps.plan.outputs.run == 'true' && inputs.grant_only == true }}
         id: grant
