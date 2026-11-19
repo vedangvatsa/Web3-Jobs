@@ -156447,7 +156447,8 @@
       },
       "account": "channel:solana",
       "attemptId": "dc24e9fe-fbba-4a8e-899a-494026ad458b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x684371136932b14aa3c34f7e75e70ec357ccf1a9"
     }
   ]
 }
