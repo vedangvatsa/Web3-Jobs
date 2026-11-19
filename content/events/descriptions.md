@@ -17607,103 +17607,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-210ebb1d6e45c40e"></a>
-
-## TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting
-
-- Record: `luma-batch-evtaLEbGCs8Z0JVJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-20T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/7w12th4d>
-
-### About the event
-
-Join This Week in Fintech and Checker for an exclusive Stablecoin focused finance event, gathering top leaders and operators from payment processors and fintechs. Join us for a complimentary whiskey tasting, refreshments, bites, and a curated crowd, shaping the future of financial services.
-
-Who: Operators and leaders in fintech interested in stable coin payments, FX, and cross-border payments.
-
-What: A private event kicking off Money20/20 in Las Vegas, featuring a guided whiskey tasting, drinks and bites
-
-When: Monday, October 19th from 5:30pm to 8:30pm
-
-Where: The Oak Room Whiskey and Tequila Bar at The Rockhouse, Grand Canal Shoppes at The Venetian & The Palazzo 3377 South Las Vegas Blvd, Las Vegas, NV 89109
-
-How: Hosted by This Week in Fintech & Checker Finance
-
-*All Guests subject to sponsor approval and accommodated on a first come, first serve basis (capacity limited).
-
-By registering [for this event, you will be added to This Week in Fintech](https://www.thisweekinfintech.com/)'s email newsletter, which may include updates about future events, products, and services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com.
-
-For California residents, under the CCPA, you have the right to know what personal information we collect, request its deletion, and opt out of its sale (we do not sell personal information). To exercise these rights, contact us at support@thisweekinfintech.com or visit our Privacy Policy.
-
-<a id="event-f238400c9dcdb5f1"></a>
-
-## CryptoMondays Vegas - M2020
-
-- Record: `luma-batch-evtwN4QHithlPvTZ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-20T00:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/yj9xk3yr>
-
-### About the event
-
-Money 20/20 Edition: Stablecoins & Payments
-
-This Money 20/20, we're going deep on stablecoins, payments, and the future of onchain money movement.
-
-Join stablecoin issuers, payment rails innovators, fintech leaders, and institutional players for high-signal conversations and rooftop networking at Legacy Club.
-
-### What to Expect
-
-A focused night on the intersection of traditional finance and crypto payments:
-
-Stablecoin adoption and real-world use cases
-
-Payment infrastructure and rails
-
-Institutional flows and treasury management
-
-Onchain payments innovation
-
-Regulatory landscape and global expansion
-
-Bring your ideas, cards, and connections - this is prime time for deal-making during the biggest payments conference in the U.S.
-
-### Who Should Attend?
-
-Stablecoin & Payments Founders
-
-Fintech & Crypto Payment Executives
-
-Institutional Investors & Treasury Teams
-
-Money 20/20 Attendees looking for a high-signal nightcap
-
-Anyone building or investing in the future of money movement
-
-### Event Details
-
-Location: Legacy Bar, Circa Resort & Casino, Downtown Las Vegas
-
-When: Every Monday
-
-Time: 5:30 PM - 8:00 PM
-
-Vibe: Casual, high-energy, and open. Grab a drink and start a conversation.
-
-Interested in speaking or sponsorship opportunties?
-
-- Fill out this form
-- Contact CryptoMondays Organizer on TG or X - @powerfullape
-
-Disclaimer & Disclosure
-
-Not Financial Advice (NFA): The conversations, presentations, and opinions shared at CryptoMondays Vegas are for educational and networking purposes only. Nothing discussed at these events should be construed as financial, investment, or legal advice. Always do your own research (DYOR).
-
-Independent Event: This meetup is independently organized. We are not affiliated with, sponsored by, or officially endorsed by Circa Resort & Casino, its parent companies, or any other casino or venue in Las Vegas.
-
 <a id="event-e72ed5ab04a5109a"></a>
 
 ## OpenFX & Stablecon: Money20/20 Stable Salon
@@ -20470,90 +20373,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-19T13:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/6laijuyn>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c42aa5dd731b1100"></a>
-
-## Web3 and AI networking at The Rose & Crown
-
-- Record: `mu-316774072`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T18:30:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316774072/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c1fa8cc4304c704e"></a>
-
-## Ethereum Stablecoin Summit @ Money20/20 Las Vegas
-
-- Record: `luma-host-evt-evt-mLx787sKR84URxA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T20:30:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/ethereum-stablecoin-summit>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-3aeb4c1bcab25e8e"></a>
-
-## Ethereum Stablecoin Summit @ Money20/20 Las Vegas
-
-- Record: `w3v-ethereum-stablecoin-summit-money20-20-las-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T20:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/ethereum-stablecoin-summit>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-3b9973df00cf80cc"></a>
-
-## Mexico City \| Claude for AI Engineering
-
-- Record: `luma-evt-XH4PQqyEuYJL6Ik`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T22:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/claudeforaiengineering>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-eff4cebd47e9a54b"></a>
-
-## ⚡ ENERGY TRANSITION VALLEY GOES TO SILICON VALLEY!
-
-- Record: `luma-evt-43nq7ewgXJQdbAr`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T00:05:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/b2xxmxxr>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d18abd036744b7db"></a>
-
-## CryptoMondays Vegas - M2020
-
-- Record: `w3v-cryptomondays-vegas-m2020-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T00:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/yj9xk3yr>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-3ef97625fcacf948"></a>
-
-## TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting
-
-- Record: `w3v-twif-checker-money20-20-happy-hour-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T00:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/7w12th4d>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31366,18 +31185,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-f57791f7e932dfe8"></a>
-
-## 30×30 Real Business AI Buildathon @Stanford
-
-- Record: `luma-evt-eMtFyc4Ro49baFE`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-17T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/7yx7xeqx>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-4792ddd146f0dcbb"></a>
 
 ## 30×30 Real Business AI Buildathon @Stanford
@@ -33105,6 +32912,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20T22:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/zollibcb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f57791f7e932dfe8"></a>
+
+## 30×30 Real Business AI Buildathon @Stanford
+
+- Record: `luma-evt-eMtFyc4Ro49baFE`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/7yx7xeqx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

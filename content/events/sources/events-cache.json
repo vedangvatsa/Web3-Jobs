@@ -1554,20 +1554,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-host-evt-evt-mLx787sKR84URxA",
-    "name": "Ethereum Stablecoin Summit @ Money20/20 Las Vegas",
-    "description": "",
-    "startDate": "2026-10-19T20:30:00.000Z",
-    "endDate": "2026-10-20T03:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "Las Vegas, United States",
-    "url": "https://luma.com/ethereum-stablecoin-summit",
-    "coverImage": "/events/luma-host-evt-evt-mlx787skr84urxa-b9953ca1.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-bitcoin-financial-services-summit-26-10-20",
     "name": "Bitcoin for Financial Services Summit 2026",
     "description": "Bitcoin for Financial Services Summit 2026: October 20–22 in Denver for financial advisors, tax professionals, and asset managers.",
@@ -2679,7 +2665,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3455,7 +3441,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -5208,20 +5194,6 @@
     "month": "October 2026"
   },
   {
-    "id": "mu-316774072",
-    "name": "Web3 and AI networking at The Rose & Crown",
-    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
-    "startDate": "2026-10-19T18:30:00-07:00",
-    "endDate": "2026-10-19T18:30:00-07:00",
-    "city": "Palo Alto",
-    "country": "us",
-    "location": "Palo Alto, us",
-    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316774072/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-CgjAsxd2TK5PXtq",
     "name": "Superteam Poland Co-work: Kraków",
     "description": "Superteam Poland hosts a coworking day for local developers, designers and Solana builders. Bring a laptop to work on a project, share ideas and discuss grants, jobs or hackathons. Attendance requires approval.",
@@ -5589,45 +5561,6 @@
     "coverImage": "/events/luma-host-evt-evt-dz0mxgbpcszczxs-82a51727.webp",
     "source": "luma-trusted",
     "month": "December 2026"
-  },
-  {
-    "id": "w3v-ethereum-stablecoin-summit-money20-20-las-26-10-19",
-    "name": "Ethereum Stablecoin Summit @ Money20/20 Las Vegas",
-    "description": "Ethereum Stablecoin Summit @ Money20/20 Las Vegas: A half-day invite-only summit on Ethereum, stablecoins, RWAs and onchain finance.",
-    "startDate": "2026-10-19T20:30:00.000Z",
-    "endDate": "2026-10-20T03:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/ethereum-stablecoin-summit",
-    "coverImage": "/events/w3v-ethereum-stablecoin-summit-money20-20-las-26-1-7ce35a8a.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-cryptomondays-vegas-m2020-26-10-19",
-    "name": "CryptoMondays Vegas - M2020",
-    "description": "CryptoMondays Vegas - M2020: A Las Vegas meetup on stablecoins, payments, and onchain money movement with rooftop networking at Legacy Club.",
-    "startDate": "2026-10-20T00:30:00.000Z",
-    "endDate": "2026-10-20T03:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/yj9xk3yr",
-    "coverImage": "/events/w3v-cryptomondays-vegas-m2020-26-10-19-7e412756.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-twif-checker-money20-20-happy-hour-26-10-19",
-    "name": "TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting",
-    "description": "TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting: Free stablecoin happy hour with whiskey tasting in Las Vegas, October 19, 2026.",
-    "startDate": "2026-10-20T00:30:00.000Z",
-    "endDate": "2026-10-20T03:30:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/7w12th4d",
-    "coverImage": "/events/w3v-twif-checker-money20-20-happy-hour-26-10-19-37b6b1f6.webp",
-    "month": "October 2026"
   },
   {
     "id": "w3v-lavo-lounge-fireblocks-yellow-card-cyclops-26-10-19",
@@ -6025,20 +5958,6 @@
       "pageTitle": "ETHwali",
       "sha256": "3439dea11581132147971682cf1832d94bd4d09ea89168c1cc12029ca7ff0a2b"
     }
-  },
-  {
-    "id": "luma-evt-43nq7ewgXJQdbAr",
-    "name": "⚡ ENERGY TRANSITION VALLEY GOES TO SILICON VALLEY!",
-    "description": "",
-    "startDate": "2026-10-20T00:05:00.000Z",
-    "endDate": "2026-10-20T02:07:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/b2xxmxxr",
-    "coverImage": "/events/luma-evt-43nq7ewgxjqdbar-fee6c649.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "name": "Building Apps and Communities on Solana",
@@ -6835,20 +6754,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "id": "luma-evt-XH4PQqyEuYJL6Ik",
-    "name": "Mexico City | Claude for AI Engineering",
-    "description": "",
-    "startDate": "2026-10-19T22:30:00.000Z",
-    "endDate": "2026-10-20T03:30:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/claudeforaiengineering",
-    "coverImage": "/events/luma-evt-xh4pqqyeuyjl6ik-72784fc3.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-Nf6MSUTdk70gyfp",
@@ -16270,13 +16175,13 @@
     "id": "luma-evt-eMtFyc4Ro49baFE",
     "name": "30×30 Real Business AI Buildathon @Stanford",
     "description": "",
-    "startDate": "2026-11-17T23:00:00.000Z",
-    "endDate": "2026-11-18T03:30:00.000Z",
+    "startDate": "2026-11-20T23:00:00.000Z",
+    "endDate": "2026-11-21T03:30:00.000Z",
     "city": "Stanford",
     "country": "United States",
     "location": "Stanford, United States",
     "url": "https://lu.ma/7yx7xeqx",
-    "coverImage": "/events/luma-evt-emtfyc4ro49bafe-bd8620ed.webp",
+    "coverImage": "/events/luma-evt-emtfyc4ro49bafe-6c4139a2.webp",
     "source": "luma",
     "month": "November 2026"
   },
@@ -20379,7 +20284,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20407,7 +20312,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
   },

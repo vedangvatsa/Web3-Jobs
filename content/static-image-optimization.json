@@ -1421,10 +1421,6 @@
       "sha256": "e3c18cfaa8b11e318e0f6f26980dcb7b9a3f30ca8f233bad41ba319a2482a99c",
       "status": "optimized"
     },
-    "/events/luma-batch-evtaLEbGCs8Z0JVJ-34408965.webp": {
-      "sha256": "8f002664f635ce31da2fd71f479c9c1bb8c4695ad6d498b49b057c2aaee8076d",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtaVuHzMqExnGSR-d52994d6.webp": {
       "sha256": "4c124145ba6213dd95d55f8d1334a44c9b7a89acc922ec30dd2e59d09130867f",
       "status": "optimized"
@@ -1459,10 +1455,6 @@
     },
     "/events/luma-batch-evtthEKKGG0CkEEX-c7c36e87.webp": {
       "sha256": "8fbe14043c9d84ac02eaf32ef8b6d91999f368a1890776a1d446cb00a940f33d",
-      "status": "optimized"
-    },
-    "/events/luma-batch-evtwN4QHithlPvTZ-7b1da6f0.webp": {
-      "sha256": "6b2b0960d4fcb1e73302b892898e3f0b87cfc42f3869efaeaffaf8017b22612e",
       "status": "optimized"
     },
     "/events/luma-batch-evtxQkWRblNEmJ3b-9cb89085.webp": {
@@ -2669,10 +2661,6 @@
       "sha256": "17e916b3ed9655b9aa370ca165b1a9f317fc3ba0a2b4e3f0ce7fea8ae179e3ba",
       "status": "optimized"
     },
-    "/events/luma-evt-43nq7ewgxjqdbar-fee6c649.webp": {
-      "sha256": "a0463b7ec0b246ab6f6d28c57bc8b77e1ca925c83a5afd2e746babfe968fb2bc",
-      "status": "optimized"
-    },
     "/events/luma-evt-45m0t6qdtxpbx8l-ea089c89.webp": {
       "sha256": "b7a64c6a7d709091d36c472fd38a9097cdd751825568db539d2d0b7208b0d7c0",
       "status": "optimized"
@@ -3199,10 +3187,6 @@
     },
     "/events/luma-evt-ekm7z2rhvu2rj7b-9b51e4ff.webp": {
       "sha256": "7f9eafca7b38bcb7dcb50360c585565c690c26eb90694b9b0accce3794385b78",
-      "status": "optimized"
-    },
-    "/events/luma-evt-emtfyc4ro49bafe-bd8620ed.webp": {
-      "sha256": "cac99e8fc3115d254590e48a0d9671a1df739fe6997fbc887a189d52aace6be7",
       "status": "optimized"
     },
     "/events/luma-evt-eoucyzato98p4kc-7e7ecd55.webp": {
@@ -4305,10 +4289,6 @@
       "sha256": "bfadf9978ee646241b4cfdf1e7baae8392dec782c4d9efa9548a4e9edb1d68e7",
       "status": "optimized"
     },
-    "/events/luma-evt-xh4pqqyeuyjl6ik-72784fc3.webp": {
-      "sha256": "f9919acb2747e2af23635ee10f850854b5dc9d1a4afbda51a1738e7bbb76f3c6",
-      "status": "optimized"
-    },
     "/events/luma-evt-xjlqoko4nyaadfb-3e93d766.webp": {
       "sha256": "0f1334a9b49a44012bcf9d2956dddcf881826f407dab7c20b7cbf3b1e38e06c8",
       "status": "retained"
@@ -4579,10 +4559,6 @@
     },
     "/events/luma-host-evt-evt-mac07jtirccfafp-f17aa568.webp": {
       "sha256": "6d5af830994b446533b134420d8730ce4940e6dec0d83fad598278dbff0b1170",
-      "status": "optimized"
-    },
-    "/events/luma-host-evt-evt-mlx787skr84urxa-b9953ca1.webp": {
-      "sha256": "b60628cf3676b18cd70495be1a7145488244dd101783903bdf5077125b31d6f0",
       "status": "optimized"
     },
     "/events/luma-host-evt-evt-odgqwd66nt3btrz-eb81cf6e.webp": {
@@ -5557,10 +5533,6 @@
       "sha256": "35ae3c5f79ba072bea15de651fba35819697a7a54d6bf770084746575cb46fd8",
       "status": "retained"
     },
-    "/events/w3v-cryptomondays-vegas-m2020-26-10-19-7e412756.webp": {
-      "sha256": "d62f1ffe9021644826d9b9ea18534449614ee1b3e66c3ea19dacb238db31940c",
-      "status": "optimized"
-    },
     "/events/w3v-cypher-tank-82807598.webp": {
       "sha256": "27c5f2a077e7d44dc1ec7a7ef217ba924450abb8e7a92f6fcae719d248dfb348",
       "status": "optimized"
@@ -5624,10 +5596,6 @@
     "/events/w3v-ethereum-institutional-forum-2026-570afa98.webp": {
       "sha256": "32cbb12a94fafcbadc05a1d640bb860d3d55c8e3384ac4a37fe7e4f95efb29f6",
       "status": "optimized"
-    },
-    "/events/w3v-ethereum-stablecoin-summit-money20-20-las-26-1-7ce35a8a.webp": {
-      "sha256": "3cb67ea0a7efc214d59406d09bfeb77b3e75299e6dd9cf9f60bc9607e9591d11",
-      "status": "retained"
     },
     "/events/w3v-ethindia-26-11-04-430d9360.webp": {
       "sha256": "42a8850c80b841c886746b742c3d4d807e095b27a3dd9db8f09f358974a75cba",
@@ -5975,10 +5943,6 @@
     },
     "/events/w3v-tum-blockchain-ai-hackathon-1b4076a4.webp": {
       "sha256": "b6430e621a3db502b3850bc5343ff06e5b2cc393898c2960646dff41947882f3",
-      "status": "optimized"
-    },
-    "/events/w3v-twif-checker-money20-20-happy-hour-26-10-19-37b6b1f6.webp": {
-      "sha256": "0bc30ba0006731ab6e5458a7d8dd994f639f2f8e9e7fe58a72252721834e42ec",
       "status": "optimized"
     },
     "/events/w3v-ubc-2026-hackathon-677972d5.webp": {

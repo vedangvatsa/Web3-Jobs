@@ -85,35 +85,6 @@
       ]
     },
     {
-      "id": "luma-batch-evtaLEbGCs8Z0JVJ",
-      "slug": "7w12th4d",
-      "name": "TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/7w12th4d",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-evtwN4QHithlPvTZ",
-      "slug": "yj9xk3yr",
-      "name": "CryptoMondays Vegas - M2020",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/yj9xk3yr",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "What to Expect",
-        "Who Should Attend?",
-        "Event Details"
-      ]
-    },
-    {
       "id": "luma-batch-evtthEKKGG0CkEEX",
       "slug": "openfxm202026",
       "name": "OpenFX & Stablecon: Money20/20 Stable Salon",

@@ -1768,36 +1768,6 @@
     }
   },
   {
-    "id": "luma-batch-evtaLEbGCs8Z0JVJ",
-    "slug": "7w12th4d",
-    "name": "TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting",
-    "description": "Join This Week in Fintech and Checker for an exclusive Stablecoin focused finance event, gathering top leaders and operators from payment processors and fintechs. Join us for a complimentary whiskey tasting, refreshments, bites, and a curated crowd, shaping the future of financial services.\n\n👥 Who: Operators and leaders in fintech interested in stable coin payments, FX, and cross-border payments.\n\n📌 What: A private event kicking off Money20/20 in Las Vegas, featuring a guided whiskey tasting, drinks and bites\n\n🕔 When: Monday, October 19th from 5:30pm to 8:30pm\n\n📍 Where: The Oak Room Whiskey and Tequila Bar at The Rockhouse, Grand Canal Shoppes at The Venetian & The Palazzo 3377 South Las Vegas Blvd, Las Vegas, NV 89109\n\nHow: Hosted by This Week in Fintech & Checker Finance\n\n*All Guests subject to sponsor approval and accommodated on a first come, first serve basis (capacity limited).\n\nBy registering [for this event, you will be added to This Week in Fintech](https://www.thisweekinfintech.com/)'s email newsletter, which may include updates about future events, products, and services. You can unsubscribe at any time using the link in any email we send, or by contacting us at support@thisweekinfintech.com.\n\nFor California residents, under the CCPA, you have the right to know what personal information we collect, request its deletion, and opt out of its sale (we do not sell personal information). To exercise these rights, contact us at support@thisweekinfintech.com or visit our Privacy Policy.",
-    "startDate": "2026-10-20T00:30:00.000Z",
-    "endDate": "2026-10-20T03:30:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "The Oak Room - Whiskey and Tequila Bar, The Oak Room - Whiskey and Tequila Bar, 3377 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
-    "url": "https://luma.com/7w12th4d",
-    "registrationUrl": "https://luma.com/7w12th4d",
-    "coverImage": "/events/luma-batch-evtaLEbGCs8Z0JVJ-34408965.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/7w12th4d",
-      "eventId": "evt-aLEbGCs8Z0JVJ4q",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtxQkWRblNEmJ3b",
     "slug": "nj4h7cb6",
     "name": "Crypto Ignite: Vegas Executive Night",
@@ -1822,36 +1792,6 @@
     "sourceVerification": {
       "url": "https://luma.com/nj4h7cb6",
       "eventId": "evt-xQkWRblNEmJ3bRC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtwN4QHithlPvTZ",
-    "slug": "yj9xk3yr",
-    "name": "CryptoMondays Vegas - M2020",
-    "description": "Money 20/20 Edition: Stablecoins & Payments\n\nThis Money 20/20, we’re going deep on stablecoins, payments, and the future of onchain money movement.\n\nJoin stablecoin issuers, payment rails innovators, fintech leaders, and institutional players for high-signal conversations and rooftop networking at Legacy Club.\n\nWhat to Expect\n\nA focused night on the intersection of traditional finance and crypto payments:\n\nStablecoin adoption and real-world use cases\n\nPayment infrastructure and rails\n\nInstitutional flows and treasury management\n\nOnchain payments innovation\n\nRegulatory landscape and global expansion\n\nBring your ideas, cards, and connections — this is prime time for deal-making during the biggest payments conference in the U.S.\n\nWho Should Attend?\n\nStablecoin & Payments Founders\n\nFintech & Crypto Payment Executives\n\nInstitutional Investors & Treasury Teams\n\nMoney 20/20 Attendees looking for a high-signal nightcap\n\nAnyone building or investing in the future of money movement\n\nEvent Details\n\n📍 Location: Legacy Bar, Circa Resort & Casino, Downtown Las Vegas\n\n📅 When: Every Monday\n\n⏰ Time: 5:30 PM - 8:00 PM\n\n🍹 Vibe: Casual, high-energy, and open. Grab a drink and start a conversation.\n\nInterested in speaking or sponsorship opportunties?\n\n- Fill out this form\n\n- Contact CryptoMondays Organizer on TG or X - @powerfullape\n\nDisclaimer & Disclosure\n\nNot Financial Advice (NFA): The conversations, presentations, and opinions shared at CryptoMondays Vegas are for educational and networking purposes only. Nothing discussed at these events should be construed as financial, investment, or legal advice. Always do your own research (DYOR).\n\nIndependent Event: This meetup is independently organized. We are not affiliated with, sponsored by, or officially endorsed by Circa Resort & Casino, its parent companies, or any other casino or venue in Las Vegas.",
-    "startDate": "2026-10-20T00:30:00.000Z",
-    "endDate": "2026-10-20T03:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "Legacy Club, Legacy Club, 8 Fremont St, Las Vegas, NV 89101, USA",
-    "url": "https://luma.com/yj9xk3yr",
-    "registrationUrl": "https://luma.com/yj9xk3yr",
-    "coverImage": "/events/luma-batch-evtwN4QHithlPvTZ-7b1da6f0.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "CryptoMondays Vegas"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/yj9xk3yr",
-      "eventId": "evt-wN4QHithlPvTZ3u",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
