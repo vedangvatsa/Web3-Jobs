@@ -157704,6 +157704,34 @@
       "attemptId": "ab52926e-b8c4-4008-9242-71119db09fd6",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "mgr194",
+      "company": "Flow Traders",
+      "title": "Property & Facilities Manager (Part-Time)",
+      "platform": "threads",
+      "postedAt": "2026-11-19T04:26:10.329Z",
+      "expectedText": "Flow Traders is hiring Property & Facilities Manager (Part-Time): https://hashtagweb3.com/mgr194/th?og=7",
+      "snapshot": {
+        "id": "8302928",
+        "title": "Property & Facilities Manager (Part-Time)",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8302928",
+        "date": "2026-10-20T05:43:49-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Operations and Middle Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr194"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Property & Facilities Manager (Part-Time): https://hashtagweb3.com/mgr194/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/mgr194/th?og=7"
+      },
+      "attemptId": "4e93843e-0eae-4035-a899-6baa82974e37",
+      "verification": "creating"
     }
   ]
 }
