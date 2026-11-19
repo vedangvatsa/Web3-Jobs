@@ -4088,7 +4088,7 @@
     "sentAt": "2026-11-19T03:37:07.425Z"
   },
   "42b8b9f5-364f-40b5-9fdf-99a99a7f7c4f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T11:32:20.929Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -4201,6 +4201,8 @@
       }
     ],
     "message": "- CoinGecko is hiring <a href=\"https://hashtagweb3.com/sls485?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Sales Associate, API (L3)</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/sls421?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director, DACH</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/cmp148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Associate, Personal Account Dealing</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng594?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integration Engineer - Card Issuing</a>\n- SwissBorg is hiring <a href=\"https://hashtagweb3.com/sec119?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cybersecurity Intern</a>",
-    "slotKey": "2026-11-19:afternoon"
+    "slotKey": "2026-11-19:afternoon",
+    "messageId": 16663,
+    "sentAt": "2026-11-19T11:32:23.399Z"
   }
 }
