@@ -127,7 +127,8 @@ const nextConfig = {
   },
   async redirects() {
     return [
-      // Temporary while App Hosting does not route bare `/` to the Next server (edge bundle redirect).
+      // Root must stay a redirect only. A static app/page.tsx at `/` is registered
+      // as a CDN file on App Hosting and the edge 404s before this redirect runs.
       { source: '/', destination: '/jobs', permanent: false },
       ...Object.entries(imageRedirects).map(([source, destination]) => ({ source, destination, permanent: true })),
       ...learnRedirects,
