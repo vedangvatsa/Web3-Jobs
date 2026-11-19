@@ -1393,10 +1393,6 @@
       "sha256": "b8fed075d05209e8dbb14fd48d112658c9450bc091674c4d4df4ee731b2e07bf",
       "status": "retained"
     },
-    "/events/luma-batch-evtFpoA3O65CsEdJ-c7308e96.webp": {
-      "sha256": "e1f2a04dedf886431b2a3d4156afef45746c46f9bf83b098b1a42b3c943a2630",
-      "status": "optimized"
-    },
     "/events/luma-batch-evtGMos7F0qQNyQF-5f924db2.webp": {
       "sha256": "606bbc16a6802367a444aec3a07bcb8d06e820cb159f57b8a24e91ad02811c82",
       "status": "optimized"
@@ -1424,10 +1420,6 @@
     "/events/luma-batch-evtSK22Vhvj9z3xv-69098de1.webp": {
       "sha256": "e3c18cfaa8b11e318e0f6f26980dcb7b9a3f30ca8f233bad41ba319a2482a99c",
       "status": "optimized"
-    },
-    "/events/luma-batch-evtXDBDR2PiIUiK3-a39cbde3.webp": {
-      "sha256": "6799c69349fbb65f8114a31530d9b3afb2120fbc86f3b50a355fd2decb7e8130",
-      "status": "retained"
     },
     "/events/luma-batch-evtaLEbGCs8Z0JVJ-34408965.webp": {
       "sha256": "8f002664f635ce31da2fd71f479c9c1bb8c4695ad6d498b49b057c2aaee8076d",
@@ -2629,10 +2621,6 @@
       "sha256": "d72e8dd5d93b6893103a91ddd629668cd903a9f68187b2a815442ef1933cf6ba",
       "status": "optimized"
     },
-    "/events/luma-evt-1s16v1l7hqbohqi-e04b137d.webp": {
-      "sha256": "4d372dd11d5df3c6ee5f128859e05b079dec3f597724a82d6a28c966fc31ada1",
-      "status": "optimized"
-    },
     "/events/luma-evt-1xoy0rbn8easr8l-7d70a376.webp": {
       "sha256": "41327262b113c981f4d7655827a6faa6be847a46bc6c8de99733a9caf16edcb3",
       "status": "optimized"
@@ -3299,10 +3287,6 @@
     },
     "/events/luma-evt-fxiuzlpawc1vqon-04b5772d.webp": {
       "sha256": "7eafa663488aec350bba2ed17a702c73d41c5d56a17cf4eca47f009aaa407a2f",
-      "status": "optimized"
-    },
-    "/events/luma-evt-fxp0cx9zfgtnmub-497af361.webp": {
-      "sha256": "99d7dee0b854edcf7003ec9d3211b469ea9c59fb47052adff6d5ea4edd8391b8",
       "status": "optimized"
     },
     "/events/luma-evt-fyfpo80pscs5gfs-4a476837.webp": {
@@ -4233,10 +4217,6 @@
       "sha256": "c4a8c539d70f42c5c3dea789c680ebdc694b4423935803d60a06356af21ba3d6",
       "status": "optimized"
     },
-    "/events/luma-evt-vvttimxjfxhadyx-b5b0090e.webp": {
-      "sha256": "8052457129fd07836d5a9feeb858cce32fb044967bb5673faf3b1e4147003f67",
-      "status": "optimized"
-    },
     "/events/luma-evt-w1tqutnmve1wrxq-186914e0.webp": {
       "sha256": "32fca69f903502bb3f69c4e988e8fac34380d328de3d369d6eb38a78c22bbf11",
       "status": "optimized"
@@ -4309,20 +4289,12 @@
       "sha256": "d0ca3b1cf9c638b96f5b12d9732f476f717a205297050cf423750a2f211a0287",
       "status": "optimized"
     },
-    "/events/luma-evt-xaandnfzod62bek-9a1f9bd1.webp": {
-      "sha256": "9c625f49c93c1322af63e95bfee3828978f471fbc2f20098d1ff6e0be53315ba",
-      "status": "optimized"
-    },
     "/events/luma-evt-xab4ksdhnawjbfa-7124730e.webp": {
       "sha256": "149328fbbd34c26c12cfb3749724d5cd9a41916c110cb799bfd2e4a1078a2e0e",
       "status": "optimized"
     },
     "/events/luma-evt-xaycogod6ft9con-5b0961e1.webp": {
       "sha256": "540470d0ca5bff19890ecb8fe938f52da5747ac5f47973bda37ff6f5f01ac2e2",
-      "status": "optimized"
-    },
-    "/events/luma-evt-xdbdr2piiuik3ak-cfdb71fa.webp": {
-      "sha256": "200648fe50925660976c7869d26962e909be6504d84c89b54698f81b082e6204",
       "status": "optimized"
     },
     "/events/luma-evt-xehe9rebbsauvfm-c4b95104.webp": {
@@ -5821,10 +5793,6 @@
       "sha256": "a65dadc73c8cec339e985d05a20ceb9a4bc899e1122258a31872f39a22046c15",
       "status": "optimized"
     },
-    "/events/w3v-onchain-hour-26-10-19-af524030.webp": {
-      "sha256": "4e2ae3decd771ef0eb0afc8bb67ed3e2489979c8b257667e6b3338acf31c8fc3",
-      "status": "optimized"
-    },
     "/events/w3v-onchain-legal-summit-devcon-india-26-11-04-37f6d87d.webp": {
       "sha256": "d47c2ce701d5dbf28351cf300e7b272fb991ad2b0e4a1de306ff48213cb253a2",
       "status": "optimized"
@@ -5901,10 +5869,6 @@
       "sha256": "f3951092dbfb20759a8c99335bd34b470d33fb009cea3d9cadd109ac6af866b7",
       "status": "optimized"
     },
-    "/events/w3v-rollups-rounds-hosted-succinct-optimism-26-10--6f51199e.webp": {
-      "sha256": "3c31670141267e69834cb2ab69852ab53748fe4e9f1b23a14a2401d5336959f1",
-      "status": "optimized"
-    },
     "/events/w3v-run-rave-26-11-01-05ccc2a0.webp": {
       "sha256": "51d0098655a9f2d5dd91b79b8ffbfd21d51729a22c189cf236e2ae8fd30b8416",
       "status": "optimized"
@@ -5972,10 +5936,6 @@
     "/events/w3v-stablecoin-leaders-dinner-money-20-20-26-10-19-e8a2b6ee.webp": {
       "sha256": "8a510a3748ad16b1a152bc8c16a7c698545293482e538eab5e50ef9467596e02",
       "status": "optimized"
-    },
-    "/events/w3v-stablecoin-speakeasy-money20-20-26-10-19-a8c18a4d.webp": {
-      "sha256": "854927c230eac71d2dfbd482e471b5436e5706258a9f87536cb652f7d4dba126",
-      "status": "retained"
     },
     "/events/w3v-stark-dark-starknet-party-26-11-03-9b183734.webp": {
       "sha256": "7376e073c0b2d2b10733c7c0b22901a6aa079274af7985d924c3e8ba1cd1fa7f",

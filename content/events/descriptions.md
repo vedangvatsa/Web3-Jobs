@@ -17607,162 +17607,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-b6db4ffa41c0ef32"></a>
-
-## Blockstories Horizon 2026: Frankfurt Summit 🇩🇪
-
-- Record: `luma-batch-evtFpoA3O65CsEdJ`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-19T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/horizonfrankfurtsummit>
-
-### About the event
-
-Blockstories Horizon: Frankfurt Summit - 19 October 2026
-
-100 seats. Invitation-only. Co-hosted with Jones Day.
-
-Horizon Summits are unlike most other conferences:
-
-Every guest is vetted.
-
-We only feature keynotes. Each capped at 7 minutes.
-
-No panels. No sales booths.
-
-After the event, each guest leaves with a personalized strategy debrief.
-
-You can think of Horizon as a strategy offsite for the industry. Our mission is to help digital asset teams see what is coming, make better strategic decisions and build the network to execute.
-
-Frankfurt Summit
-
-The Frankfurt Summit will bring together 100 senior leaders responsible for digital asset strategies and products.
-
-Across a series of seven-minute keynotes, the companies closest to the industry's most important shifts will explain what they see on the ground, what they are building and how institutions should prepare for the next 12 to 18 months.
-
-A preview into the program:
-
-Banking Circle: Where stablecoin settlement is already transforming cross-border payments today
-
-Utila: What it takes for a bank to become stablecoin ready
-
-Talos: Tokenized Equities, perpetuals, prediction markets. Crypto is becoming more like TradFi and vice versa.
-
-Digital Asset: Real-time treasury management and the advent of tokenized MMFs.
-
-Jones Day: Regulatory outlook on the path toward onchain capital markets.
-
-Steakhouse Financial: Vaults already power fintechs. Traditional asset management is next.
-
-Zama: Onchain privacy has arrived on public blockchains. What comes next?
-
-The Evening
-
-17:00-18:00
-
-Welcome reception
-
-18:00-20:00
-
-Seven-minute keynote presentations
-
-20:00-22:30
-
-Networking over food and drinks
-
-Attendance
-
-Attendance is complimentary and limited to 100 approved guests.
-
-If you received a personal invitation from Blockstorie or one of our speakers, please select Invited Guest.
-
-If you have not received a personal invitation but are responsible for digital asset strategy, products or infrastructure at a financial institution, you may Apply to Attend.
-
-All applications are reviewed.
-
-For questions, please contact: mail@blockstories.io
-
-<a id="event-adff9b2e7d307b4a"></a>
-
-## CryptoMondays London October Event
-
-- Record: `luma-batch-FXp0Cx9ZFgTnmub`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-19T17:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/56472dr4>
-
-### About the event
-
-Stablecoins Grow Up: From Crypto Rails to Real-World Money
-
-Stablecoins have been part of crypto for years.
-
-But increasingly, the interesting question isn't what they are - it's what happens next.
-
-Once primarily used to move money around crypto markets, stablecoins are increasingly becoming infrastructure for payments, cross-border transfers and the growing intersection between traditional finance and digital assets.
-
-So are stablecoins finally moving beyond crypto? Could they become part of how we pay and move money every day? And as fintechs, payment companies and governments take them more seriously, what still stands in the way?
-
-We'll explore real-world adoption, payments and cross-border use cases, the evolving UK regulatory landscape, and what comes next - including whether stablecoins could provide the payment rails for an increasingly AI-driven economy.
-
-Speakers coming soon.
-
-### Agenda
-
-6:30pm - Doors open, drinks, networking
-
-7:15pm - Panel discussion + audience Q&A
-
-8:15pm - Drinks, pizza, & networking
-
-9:30pm - Close
-
-Powered by our sponsors
-
-Vault12 - Vault12 is the pioneer in crypto inheritance management, helping everyday people set up legacy contacts for their bitcoin and ethereum crypto wallets.
-
-CoinDepo is a crypto investment platform designed to help users put their digital assets to work. With flexible earning and borrowing solutions, community-driven governance, and institutional-grade security infrastructure, CoinDepo makes it easier to generate passive income from crypto while maintaining greater flexibility and control over digital assets.
-
-Huge shoutout to our venue partner ReedSmith for hosting us! Reed Smith is a global law firm with deep expertise in emerging tech, digital assets, and fintech regulation. We're grateful for their support in helping us bring the crypto community together IRL.
-
-Expect: The usual CML energy
-
-Food, drinks, sharp conversation & Proof-of-Community™
-
-Monday 19th October Location revealed upon registration 6:30-9:30pm
-
-Photography and videography will take place at this event. By attending, you consent to being filmed and photographed for promotional purposes. If you have any concerns, please inform the photographer or a member of the CML team.
-
-By registering for this event, you agree to receive occasional updates from CryptoMondays London, including event announcements and community opportunities. You can unsubscribe at any time.
-
-<a id="event-8dc568fe8782232a"></a>
-
-## Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing
-
-- Record: `luma-batch-evtXDBDR2PiIUiK3`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-19T19:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ortl78pl>
-
-### About the event
-
-Join the Venture Accelerator at UCLA Anderson and the Cardano Foundation for an interactive masterclass exploring how blockchain and AI are being applied to real-world business challenges.
-
-Led by Alex Nascimento, the session will take students inside enterprise Web3, decentralized AI agent infrastructure, and real-world blockchain applications across supply chain tracking, digital identity, and asset tokenization.
-
-What you'll do
-
-This is a hands-on session. Students will work in small teams to develop their own Web3 business architectures and deliver rapid pitches, receiving direct feedback from Alex and their peers.
-
-You'll also explore AI-assisted smart contract development and learn about opportunities to continue developing your venture, including potential Cardano funding and the chance to apply for one of five Cardano-sponsored fellowships within the UCLA Accelerate program at the Venture Accelerator.
-
-Earn a Cardano Certification
-
-Students who complete the session will receive a LinkedIn-ready Cardano certification badge, providing a tangible credential recognizing their participation in the blockchain and AI program.
-
 <a id="event-210ebb1d6e45c40e"></a>
 
 ## TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting
@@ -20629,18 +20473,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-bf5f0f20719de9a7"></a>
-
-## Stablecoins Grow Up: From Crypto Rails to Real-World Money
-
-- Record: `luma-evt-FXp0Cx9ZFgTnmub`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T17:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/56472dr4>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-c42aa5dd731b1100"></a>
 
 ## Web3 and AI networking at The Rose & Crown
@@ -20650,18 +20482,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-19T18:30:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316774072/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-9cfd413bc0b2245a"></a>
-
-## Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing
-
-- Record: `luma-evt-XDBDR2PiIUiK3aK`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T19:45:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/ortl78pl>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -20689,42 +20509,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-514bff4d194351ad"></a>
-
-## Tokenización, stablecoins regionales y sus usos en DeFi
-
-- Record: `luma-evt-xaAnDNFZOD62Bek`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T21:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/4l1ddfly>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8cc08d172546bba5"></a>
-
-## BitcoinMondays: Multisig Workshop - Basics, Options, & Tradeoffs
-
-- Record: `luma-evt-vVTTImXJFXhadYX`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/gpf2lii9>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-388d88d5f0d6e926"></a>
-
-## Intro to Electronics, Part 4!
-
-- Record: `luma-evt-1S16V1L7HQBOhQi`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T22:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/j53ket8g>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-3b9973df00cf80cc"></a>
 
 ## Mexico City \| Claude for AI Engineering
@@ -20734,42 +20518,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-19T22:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/claudeforaiengineering>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e627e600eaa97dfa"></a>
-
-## The Onchain Hour
-
-- Record: `w3v-onchain-hour-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T23:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/n9q07ojo>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c69f2aefe2d2591d"></a>
-
-## Rollups and Rounds \| Hosted by Succinct & Optimism
-
-- Record: `w3v-rollups-rounds-hosted-succinct-optimism-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T23:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/w7zwmx95>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-1d122ac018585fcf"></a>
-
-## The Stablecoin Speakeasy at Money20/20
-
-- Record: `w3v-stablecoin-speakeasy-money20-20-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-19T23:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/hjry17hl>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32760,6 +32508,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f3a47d4fd3a65eea"></a>
+
+## Spin x GAIL's present: The Art of Cinematic Social
+
+- Record: `luma-evt-p5BKdQtoI4C0HJL`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ziyl2lvp>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-07660059a2da33f9"></a>
+
+## Forward 03 \| An Asset is not a Brand
+
+- Record: `luma-evt-yaEGqdLpJF6yma8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/bdoc6syl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c646796109a97a93"></a>
 
 ## Ownership is Everything
@@ -32853,6 +32625,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-19T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/y4njfxvc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c36f4287e3c99b6f"></a>
+
+## COIN BASED: Hacks and Outages \| PubKey NYC (Brought To You By AnchorWatch)
+
+- Record: `luma-evt-xeE7UWvBqbJfi8B`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-19T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pubkey-xqn0>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32974,6 +32758,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Unverified stored copy
 - Original page: <https://conferenceindex.org/event/international-artificial-intelligence-and-blockchain-conference-aibc-2026-november-osaka-jp-1>
 - Original page: <http://www.aibc.org/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ce4e982de1955e04"></a>
+
+## Jersey City Bitcoin: Monthly Socratic Seminar
+
+- Record: `luma-evt-Cj1HnUfbHHQnNbA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/m4nshoxe>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33849,6 +33645,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-24T18:30:00-08:00
 - Description: Missing
 - Original page: <https://www.meetup.com/portland-bitcoin-group/events/317294313/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-08df9d9a6a83fa39"></a>
+
+## Let's discuss Bitcoin and the Crypto Sector
+
+- Record: `mu-317293387`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24T19:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/317293387/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

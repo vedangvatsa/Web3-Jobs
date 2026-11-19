@@ -10141,5 +10141,27 @@
       "harmonia-frankfurt",
       "luma-batch-evttdoyjluc0hluu"
     ]
+  },
+  "luma-batch-FXp0Cx9ZFgTnmub": {
+    "until": "2027-11-19T01:19:59.873Z",
+    "slugs": [
+      "luma-batch-fxp0cx9zfgtnmub",
+      "56472dr4"
+    ]
+  },
+  "luma-batch-evtXDBDR2PiIUiK3": {
+    "until": "2027-11-19T01:19:59.873Z",
+    "slugs": [
+      "cardano-real-world",
+      "ortl78pl",
+      "luma-batch-evtxdbdr2piiuik3"
+    ]
+  },
+  "luma-batch-evtFpoA3O65CsEdJ": {
+    "until": "2027-11-19T01:19:59.873Z",
+    "slugs": [
+      "horizonfrankfurtsummit",
+      "luma-batch-evtfpoa3o65csedj"
+    ]
   }
 }

@@ -1,55 +1,5 @@
 [
   {
-    "id": "luma-batch-FXp0Cx9ZFgTnmub",
-    "slug": "56472dr4",
-    "name": "CryptoMondays London October Event",
-    "description": "Stablecoins Grow Up: From Crypto Rails to Real-World Money\n\nStablecoins have been part of crypto for years.\n\nBut increasingly, the interesting question isn’t what they are — it’s what happens next.\n\nOnce primarily used to move money around crypto markets, stablecoins are increasingly becoming infrastructure for payments, cross-border transfers and the growing intersection between traditional finance and digital assets.\n\nSo are stablecoins finally moving beyond crypto? Could they become part of how we pay and move money every day? And as fintechs, payment companies and governments take them more seriously, what still stands in the way?\n\nWe’ll explore real-world adoption, payments and cross-border use cases, the evolving UK regulatory landscape, and what comes next — including whether stablecoins could provide the payment rails for an increasingly AI-driven economy.\n\nSpeakers coming soon.\n\nAgenda\n\n6:30pm — Doors open, drinks, networking\n\n7:15pm — Panel discussion + audience Q&A\n\n8:15pm — Drinks, pizza, & networking\n\n9:30pm — Close\n\n🧡 Powered by our sponsors\n\nVault12 - Vault12 is the pioneer in crypto inheritance management, helping everyday people set up legacy contacts for their bitcoin and ethereum crypto wallets.\n\nCoinDepo is a crypto investment platform designed to help users put their digital assets to work. With flexible earning and borrowing solutions, community-driven governance, and institutional-grade security infrastructure, CoinDepo makes it easier to generate passive income from crypto while maintaining greater flexibility and control over digital assets.\n\nHuge shoutout to our venue partner ReedSmith for hosting us! Reed Smith is a global law firm with deep expertise in emerging tech, digital assets, and fintech regulation. We're grateful for their support in helping us bring the crypto community together IRL.\n\nExpect: The usual CML energy\n\nFood, drinks, sharp conversation & Proof-of-Community™\n\n📅 Monday 19th October📍 Location revealed upon registration⏰ 6:30–9:30pm\n\nPhotography and videography will take place at this event. By attending, you consent to being filmed and photographed for promotional purposes. If you have any concerns, please inform the photographer or a member of the CML team.\n\nBy registering for this event, you agree to receive occasional updates from CryptoMondays London, including event announcements and community opportunities. You can unsubscribe at any time.",
-    "startDate": "2026-10-19T17:30:00.000Z",
-    "endDate": "2026-10-19T20:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, England, United Kingdom",
-    "url": "https://luma.com/56472dr4",
-    "registrationUrl": "https://luma.com/56472dr4",
-    "coverImage": "/events/luma-recover-lumabatchFXp0Cx9-1ec6bf14.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Admin",
-      "Larry Trachtenberg",
-      "Kaitlin Argeaux",
-      "Rohit"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "organizer": {
-      "type": "Organization",
-      "name": "Admin"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/56472dr4",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/56472dr4",
-      "eventId": "evt-FXp0Cx9ZFgTnmub",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-7iIJgmckKWYczPb",
     "slug": "encode-london-2026",
     "name": "Encode London Hackathon and Conference",
@@ -1205,36 +1155,6 @@
     }
   },
   {
-    "id": "luma-batch-evtXDBDR2PiIUiK3",
-    "slug": "ortl78pl",
-    "name": "Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing",
-    "description": "Join the Venture Accelerator at UCLA Anderson and the Cardano Foundation for an interactive masterclass exploring how blockchain and AI are being applied to real-world business challenges.\n\nLed by Alex Nascimento, the session will take students inside enterprise Web3, decentralized AI agent infrastructure, and real-world blockchain applications across supply chain tracking, digital identity, and asset tokenization.\n\nWhat you'll do\n\nThis is a hands-on session. Students will work in small teams to develop their own Web3 business architectures and deliver rapid pitches, receiving direct feedback from Alex and their peers.\n\nYou’ll also explore AI-assisted smart contract development and learn about opportunities to continue developing your venture, including potential Cardano funding and the chance to apply for one of five Cardano-sponsored fellowships within the UCLA Accelerate program at the Venture Accelerator.\n\nEarn a Cardano Certification\n\nStudents who complete the session will receive a LinkedIn-ready Cardano certification badge, providing a tangible credential recognizing their participation in the blockchain and AI program.",
-    "startDate": "2026-10-19T19:45:00.000Z",
-    "endDate": "2026-10-19T23:00:00.000Z",
-    "city": "Los Angeles",
-    "country": "United States",
-    "location": "UCLA Anderson School of Management, UCLA Anderson School of Management, 110 Westwood Plaza, Los Angeles, CA 90095, USA",
-    "url": "https://luma.com/ortl78pl",
-    "registrationUrl": "https://luma.com/ortl78pl",
-    "coverImage": "/events/luma-batch-evtXDBDR2PiIUiK3-a39cbde3.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/ortl78pl",
-      "eventId": "evt-XDBDR2PiIUiK3aK",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtMJacaICJiBqTU",
     "slug": "oz4zmqjc",
     "name": "BCNL x VBNL x PwC - CARF & DAC8 Roundtable",
@@ -2112,36 +2032,6 @@
     "sourceVerification": {
       "url": "https://luma.com/lpe4mdxt",
       "eventId": "evt-t671wDnUAzkDrvu",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtFpoA3O65CsEdJ",
-    "slug": "horizonfrankfurtsummit",
-    "name": "Blockstories Horizon 2026: Frankfurt Summit 🇩🇪",
-    "description": "Blockstories Horizon: Frankfurt Summit – 19 October 2026\n\n100 seats. Invitation-only. Co-hosted with Jones Day.\n\nHorizon Summits are unlike most other conferences:\n\nEvery guest is vetted.\n\nWe only feature keynotes. Each capped at 7 minutes.\n\nNo panels. No sales booths.\n\nAfter the event, each guest leaves with a personalized strategy debrief.\n\nYou can think of Horizon as a strategy offsite for the industry. Our mission is to help digital asset teams see what is coming, make better strategic decisions and build the network to execute.\n\nFrankfurt Summit\n\nThe Frankfurt Summit will bring together 100 senior leaders responsible for digital asset strategies and products.\n\nAcross a series of seven-minute keynotes, the companies closest to the industry’s most important shifts will explain what they see on the ground, what they are building and how institutions should prepare for the next 12 to 18 months.\n\nA preview into the program:\n\nBanking Circle: Where stablecoin settlement is already transforming cross-border payments today\n\nUtila: What it takes for a bank to become stablecoin ready\n\nTalos: Tokenized Equities, perpetuals, prediction markets. Crypto is becoming more like TradFi and vice versa.\n\nDigital Asset: Real-time treasury management and the advent of tokenized MMFs.\n\nJones Day: Regulatory outlook on the path toward onchain capital markets.\n\nSteakhouse Financial: Vaults already power fintechs. Traditional asset management is next.\n\nZama: Onchain privacy has arrived on public blockchains. What comes next?\n\nThe Evening\n\n17:00–18:00\nWelcome reception\n\n18:00–20:00\nSeven-minute keynote presentations\n\n20:00–22:30\nNetworking over food and drinks\n\nAttendance\n\nAttendance is complimentary and limited to 100 approved guests.\n\nIf you received a personal invitation from Blockstorie or one of our speakers, please select Invited Guest.\n\nIf you have not received a personal invitation but are responsible for digital asset strategy, products or infrastructure at a financial institution, you may Apply to Attend.\n\nAll applications are reviewed.\n\nFor questions, please contact: mail@blockstories.io",
-    "startDate": "2026-10-19T15:00:00.000Z",
-    "endDate": "2026-10-19T20:30:00.000Z",
-    "city": "Frankfurt am Main",
-    "country": "Germany",
-    "location": "Nextower, Nextower, Thurn-und-Taxis-Platz 6, 60313 Frankfurt am Main-Innenstadt I, Germany",
-    "url": "https://luma.com/horizonfrankfurtsummit",
-    "registrationUrl": "https://luma.com/horizonfrankfurtsummit",
-    "coverImage": "/events/luma-batch-evtFpoA3O65CsEdJ-c7308e96.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Blockstories Horizon 2026"
-    ],
-    "price": "Free",
-    "timezone": "Europe/Berlin",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "summit",
-    "sourceVerification": {
-      "url": "https://luma.com/horizonfrankfurtsummit",
-      "eventId": "evt-FpoA3O65CsEdJg8",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

@@ -85,32 +85,6 @@
       ]
     },
     {
-      "id": "luma-batch-evtFpoA3O65CsEdJ",
-      "slug": "horizonfrankfurtsummit",
-      "name": "Blockstories Horizon 2026: Frankfurt Summit 🇩🇪",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/horizonfrankfurtsummit",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-evtXDBDR2PiIUiK3",
-      "slug": "ortl78pl",
-      "name": "Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/ortl78pl",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "luma-batch-evtaLEbGCs8Z0JVJ",
       "slug": "7w12th4d",
       "name": "TWIF & Checker: Money20/20 Happy Hour and Whiskey Tasting",

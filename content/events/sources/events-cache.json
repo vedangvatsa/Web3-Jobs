@@ -2679,7 +2679,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3455,7 +3455,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -3632,20 +3632,6 @@
     "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-1754ed95.webp",
     "source": "luma-trusted",
     "month": "November 2026"
-  },
-  {
-    "id": "luma-evt-XDBDR2PiIUiK3aK",
-    "name": "Cardano for the Real World: Blockchain, AI, and Building the Next Big Thing",
-    "description": "",
-    "startDate": "2026-10-19T19:45:00.000Z",
-    "endDate": "2026-10-19T23:00:00.000Z",
-    "city": "Los Angeles",
-    "country": "United States",
-    "location": "Los Angeles, United States",
-    "url": "https://lu.ma/ortl78pl",
-    "coverImage": "/events/luma-evt-xdbdr2piiuik3ak-cfdb71fa.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-kYdK1SuCI9AF6MK",
@@ -5618,45 +5604,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-stablecoin-speakeasy-money20-20-26-10-19",
-    "name": "The Stablecoin Speakeasy at Money20/20",
-    "description": "The Stablecoin Speakeasy at Money20/20: Private networking for fintech, payments and stablecoin leaders, hosted by Bitwave, BVNK and Lorum.",
-    "startDate": "2026-10-19T23:00:00.000Z",
-    "endDate": "2026-10-20T01:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/hjry17hl",
-    "coverImage": "/events/w3v-stablecoin-speakeasy-money20-20-26-10-19-a8c18a4d.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-rollups-rounds-hosted-succinct-optimism-26-10-19",
-    "name": "Rollups and Rounds | Hosted by Succinct & Optimism",
-    "description": "Rollups and Rounds | Hosted by Succinct & Optimism: A free happy hour on onchain payments, assets and settlement in Las Vegas on October 19.",
-    "startDate": "2026-10-19T23:00:00.000Z",
-    "endDate": "2026-10-20T01:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/w7zwmx95",
-    "coverImage": "/events/w3v-rollups-rounds-hosted-succinct-optimism-26-10--6f51199e.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-onchain-hour-26-10-19",
-    "name": "The Onchain Hour",
-    "description": "The Onchain Hour: A free two-hour Blockdaemon and Canton reception for institutional onchain finance leaders in Las Vegas.",
-    "startDate": "2026-10-19T23:00:00.000Z",
-    "endDate": "2026-10-20T01:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/n9q07ojo",
-    "coverImage": "/events/w3v-onchain-hour-26-10-19-af524030.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-cryptomondays-vegas-m2020-26-10-19",
     "name": "CryptoMondays Vegas - M2020",
     "description": "CryptoMondays Vegas - M2020: A Las Vegas meetup on stablecoins, payments, and onchain money movement with rooftop networking at Legacy Club.",
@@ -6429,20 +6376,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-vVTTImXJFXhadYX",
-    "name": "BitcoinMondays: Multisig Workshop - Basics, Options, & Tradeoffs",
-    "description": "",
-    "startDate": "2026-10-19T22:00:00.000Z",
-    "endDate": "2026-10-20T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/gpf2lii9",
-    "coverImage": "/events/luma-evt-vvttimxjfxhadyx-b5b0090e.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-316879993",
     "name": "Change Data Capture: The Shouldas, Couldas, and Wouldas",
     "description": "Change Data Capture (CDC) looks straightforward on paper: enable it on the database, enable it on a table, and you're off. But what happens when your log fills up? What if you have to set it up in an",
@@ -6593,34 +6526,6 @@
     "url": "https://www.meetup.com/lfdt-montreal/events/316802708/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-FXp0Cx9ZFgTnmub",
-    "name": "Stablecoins Grow Up: From Crypto Rails to Real-World Money",
-    "description": "",
-    "startDate": "2026-10-19T17:30:00.000Z",
-    "endDate": "2026-10-19T20:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/56472dr4",
-    "coverImage": "/events/luma-evt-fxp0cx9zfgtnmub-497af361.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-1S16V1L7HQBOhQi",
-    "name": "Intro to Electronics, Part 4!",
-    "description": "",
-    "startDate": "2026-10-19T22:30:00.000Z",
-    "endDate": "2026-10-20T00:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/j53ket8g",
-    "coverImage": "/events/luma-evt-1s16v1l7hqbohqi-e04b137d.webp",
-    "source": "luma",
     "month": "October 2026"
   },
   {
@@ -6930,20 +6835,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "id": "luma-evt-xaAnDNFZOD62Bek",
-    "name": "Tokenización, stablecoins regionales y sus usos en DeFi",
-    "description": "",
-    "startDate": "2026-10-19T21:00:00.000Z",
-    "endDate": "2026-10-19T23:00:00.000Z",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "location": "Buenos Aires, Argentina",
-    "url": "https://lu.ma/4l1ddfly",
-    "coverImage": "/events/luma-evt-xaandnfzod62bek-9a1f9bd1.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-XH4PQqyEuYJL6Ik",
@@ -12398,7 +12289,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
     "month": "November 2026",
     "speakers": [
@@ -13704,7 +13595,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-austin/events/317065012/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065012-62d567f1.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20516,7 +20407,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -22138,7 +22029,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317272394/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272394-1a4e4637.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22336,5 +22227,75 @@
     "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-yaEGqdLpJF6yma8",
+    "name": "Forward 03 | An Asset is not a Brand",
+    "description": "",
+    "startDate": "2026-11-19T17:30:00.000Z",
+    "endDate": "2026-11-19T21:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/bdoc6syl",
+    "coverImage": "/events/luma-evt-yaegqdlpjf6yma8-ee2cb907.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-p5BKdQtoI4C0HJL",
+    "name": "Spin x GAIL's present: The Art of Cinematic Social",
+    "description": "",
+    "startDate": "2026-11-19T17:30:00.000Z",
+    "endDate": "2026-11-19T19:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/ziyl2lvp",
+    "coverImage": "/events/luma-evt-p5bkdqtoi4c0hjl-4cf40528.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-xeE7UWvBqbJfi8B",
+    "name": "COIN BASED: Hacks and Outages | PubKey NYC (Brought To You By AnchorWatch)",
+    "description": "",
+    "startDate": "2026-11-19T23:00:00.000Z",
+    "endDate": "2026-11-20T01:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/pubkey-xqn0",
+    "coverImage": "/events/luma-evt-xee7uwvbqbjfi8b-ac625416.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-Cj1HnUfbHHQnNbA",
+    "name": "Jersey City Bitcoin: Monthly Socratic Seminar",
+    "description": "",
+    "startDate": "2026-11-20T00:00:00.000Z",
+    "endDate": "2026-11-20T01:30:00.000Z",
+    "city": "Jersey City",
+    "country": "United States",
+    "location": "Jersey City, United States",
+    "url": "https://lu.ma/m4nshoxe",
+    "coverImage": "/events/luma-evt-cj1hnufbhhqnnba-5720029b.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317293387",
+    "name": "Let's discuss Bitcoin and the Crypto Sector",
+    "description": "Join us at Austin Bitcoin Meetup for an insightful discussion on Bitcoin, the market, crypto projects and protocols... as well as other topics that may or may not impact crypto. Take your chance to be",
+    "startDate": "2026-11-24T19:00:00-06:00",
+    "endDate": "2026-11-24T19:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/austin-bitcoin-meetup/events/317293387/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "November 2026"
   }
 ]
