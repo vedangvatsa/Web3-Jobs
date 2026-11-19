@@ -4322,5 +4322,123 @@
     "slotKey": "2026-11-19:afternoon",
     "messageId": 208,
     "sentAt": "2026-11-19T11:32:27.405Z"
+  },
+  "82ed81a1-e2fc-4fc5-bb74-2d2d43f69602": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T19:33:07.660Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "2aafaa5c-11db-4dde-b567-39709479e0cc",
+          "title": "ML Ops Engineer",
+          "company": "Coinflow",
+          "link": "https://jobs.ashbyhq.com/Coinflow/2aafaa5c-11db-4dde-b567-39709479e0cc",
+          "date": "2026-10-29T13:57:46.992+00:00",
+          "source": "Ashby: Coinflow [Coinflow]",
+          "location": "Chicago",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng365"
+        },
+        "key": "2aafaa5c-11db-4dde-b567-39709479e0cc",
+        "slug": "eng365",
+        "url": "https://hashtagweb3.com/eng365?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinflow",
+        "title": "ML Ops Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6251713004",
+          "title": "Due Diligence Analyst - Americas",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6251713004",
+          "date": "2026-11-06T17:08:11-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote",
+          "department": "Risk",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an123"
+        },
+        "key": "6251713004",
+        "slug": "an123",
+        "url": "https://hashtagweb3.com/an123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "Due Diligence Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "26855617-1697-4fd2-8c33-a5fb11fc4c77",
+          "title": "Senior Engineer, Backend, Bill Pay",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/26855617-1697-4fd2-8c33-a5fb11fc4c77",
+          "date": "2026-11-10T20:13:53.266+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be120"
+        },
+        "key": "26855617-1697-4fd2-8c33-a5fb11fc4c77",
+        "slug": "be120",
+        "url": "https://hashtagweb3.com/be120?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Senior Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "20c96151-c716-4498-88f5-7567d50ab97e",
+          "title": "Sr Staff Product Designer - Krak",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/20c96151-c716-4498-88f5-7567d50ab97e",
+          "date": "2026-11-18T20:46:01.170+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm425"
+        },
+        "key": "20c96151-c716-4498-88f5-7567d50ab97e",
+        "slug": "pm425",
+        "url": "https://hashtagweb3.com/pm425?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Sr Staff Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "d8498fe0-1f86-46e6-805a-626489ddd0cb",
+          "title": "Senior AI Engineer (AI Automation)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/d8498fe0-1f86-46e6-805a-626489ddd0cb",
+          "date": "2026-11-05T01:45:58.568+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng417"
+        },
+        "key": "d8498fe0-1f86-46e6-805a-626489ddd0cb",
+        "slug": "eng417",
+        "url": "https://hashtagweb3.com/eng417?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior AI Engineer"
+      }
+    ],
+    "message": "- Coinflow is hiring <a href=\"https://hashtagweb3.com/eng365?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">ML Ops Engineer</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/an123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Due Diligence Analyst - Americas</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Engineer, Backend, Bill Pay</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm425?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr Staff Product Designer - Krak</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng417?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior AI Engineer (AI Automation)</a>",
+    "slotKey": "2026-11-19:evening"
   }
 }
