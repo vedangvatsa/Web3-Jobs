@@ -199050,7 +199050,7 @@
       "expiresAt": "2026-11-21T10:17:17.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
       "reason": "verified-event",
-      "note": "Reused the preserved draft, rewrote it against sources read this round, and dropped citations to an outlet I could not open. Read Decrypt's Nov 18 report and Bitcoin Magazine's Nov 18 report in full; verified the 72-month sentence, Judge Holcomb, the Dec 11 restitution hearing, the 1.6M figure, the 2021-2023 phishing and SIM-swap scheme, co-defendant sentences, the USAO announcement wording, arrest and extradition details. Quality, image, formatting and duplicate audits pass for this file; tsc clean; cited links return HTTP 200; hero photo (Wikimedia, Spekning SIM card) verified on disk and captioned.",
+      "note": "Reused the preserved draft, rewrote it against sources read this round, and dropped citations to an outlet I could not open. Read Decrypt's Nov 18 report and Bitcoin Magazine's Nov 18 report in full; verified the 72-month sentence, Judge Holcomb, the Dec 11 restitution hearing, the $11.6M figure, the 2021-2023 phishing and SIM-swap scheme, co-defendant sentences, the USAO announcement wording, arrest and extradition details. Quality, image, formatting and duplicate audits pass for this file; tsc clean; cited links return HTTP 200; hero photo (Wikimedia, Raimond Spekking SIM card) verified on disk and captioned.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
@@ -199061,7 +199061,7 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-19T01:57:26.641Z",
+      "reviewedAt": "2026-11-19T01:59:28.022Z",
       "articleSlug": "buchanansentence",
       "lastReviewedDay": "2026-11-19"
     },
@@ -381314,7 +381314,7 @@
         "b828c2b897121f2b2033": {
           "status": "ready",
           "reason": "verified-event",
-          "note": "Reused the preserved draft, rewrote it against sources read this round, and dropped citations to an outlet I could not open. Read Decrypt's Nov 18 report and Bitcoin Magazine's Nov 18 report in full; verified the 72-month sentence, Judge Holcomb, the Dec 11 restitution hearing, the 1.6M figure, the 2021-2023 phishing and SIM-swap scheme, co-defendant sentences, the USAO announcement wording, arrest and extradition details. Quality, image, formatting and duplicate audits pass for this file; tsc clean; cited links return HTTP 200; hero photo (Wikimedia, Spekning SIM card) verified on disk and captioned.",
+          "note": "Reused the preserved draft, rewrote it against sources read this round, and dropped citations to an outlet I could not open. Read Decrypt's Nov 18 report and Bitcoin Magazine's Nov 18 report in full; verified the 72-month sentence, Judge Holcomb, the Dec 11 restitution hearing, the $11.6M figure, the 2021-2023 phishing and SIM-swap scheme, co-defendant sentences, the USAO announcement wording, arrest and extradition details. Quality, image, formatting and duplicate audits pass for this file; tsc clean; cited links return HTTP 200; hero photo (Wikimedia, Raimond Spekking SIM card) verified on disk and captioned.",
           "sourceChecks": [
             {
               "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
@@ -381325,7 +381325,7 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-19T01:57:26.641Z",
+          "reviewedAt": "2026-11-19T01:59:28.022Z",
           "articleSlug": "buchanansentence"
         }
       },
