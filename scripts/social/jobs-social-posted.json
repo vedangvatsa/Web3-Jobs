@@ -159580,7 +159580,8 @@
       },
       "account": "channel:web3",
       "attemptId": "a6a9f4ac-73d9-4116-89a6-4c91467e800c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9745209ddb2dcba77885fc64fdff71e154397fd0"
     }
   ]
 }
