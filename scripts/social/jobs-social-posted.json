@@ -157733,6 +157733,38 @@
       "attemptId": "4e93843e-0eae-4035-a899-6baa82974e37",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 18-Nov-26 20:26:20 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AA4zcomsMZtaftJANrpbkk_\"}"
+    },
+    {
+      "slug": "mgr194",
+      "company": "Flow Traders",
+      "title": "Property & Facilities Manager (Part-Time)",
+      "platform": "bluesky",
+      "postedAt": "2026-11-19T04:26:10.329Z",
+      "expectedText": "Flow Traders is hiring Property & Facilities Manager (Part-Time): https://hashtagweb3.com/mgr194/bsky?og=7",
+      "snapshot": {
+        "id": "8302928",
+        "title": "Property & Facilities Manager (Part-Time)",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8302928",
+        "date": "2026-10-20T05:43:49-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Operations and Middle Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr194"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Property & Facilities Manager (Part-Time): https://hashtagweb3.com/mgr194/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/mgr194/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/mgr194.png?v=7",
+        "company": "Flow Traders",
+        "title": "Property & Facilities Manager (Part-Time)",
+        "description": "Join Flow Traders as Property & Facilities Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "6d87bebc-c314-4945-aa8f-68d9b381858f",
+      "verification": "creating"
     }
   ]
 }
