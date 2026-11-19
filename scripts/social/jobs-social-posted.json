@@ -161093,6 +161093,35 @@
       "attemptId": "4bc9e0db-63fc-4452-9c54-aa10807fbd32",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "sls421",
+      "company": "Fireblocks",
+      "title": "Sales Director, DACH",
+      "platform": "threads",
+      "postedAt": "2026-11-19T19:39:15.709Z",
+      "expectedText": "Fireblocks is hiring Sales Director, DACH: https://hashtagweb3.com/sls421/th?og=7",
+      "snapshot": {
+        "id": "4725951006",
+        "title": "Sales Director, DACH",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4725951006",
+        "date": "2026-11-05T09:00:38-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Berlin, Germany",
+        "department": "Sales",
+        "active": true,
+        "salary": "€80.4k – €110.5k/yr",
+        "dateVerified": true,
+        "slug": "sls421"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director, DACH: https://hashtagweb3.com/sls421/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sls421/th?og=7"
+      },
+      "attemptId": "a4368e11-dcc4-4140-8236-f0e2c6f0588d",
+      "verification": "creating"
     }
   ]
 }
