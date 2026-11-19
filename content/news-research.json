@@ -184753,7 +184753,27 @@
         "Find a second readable source (Senate Agriculture Committee notice, Reuters, The Block or Cointelegraph) confirming the Nov 18 Senate Agriculture hearing on CFTC nominees Nathan Anonick and Matthew Rowland"
       ],
       "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19"
+      "nextReviewDate": "2026-11-19",
+      "articleSlug": "cftchearing",
+      "draftProgress": {
+        "id": "ca5f6adbd0edc0aaafc4",
+        "day": "2026-11-19",
+        "articleSlug": "cftchearing",
+        "note": "Read Bitcoin Magazine's Nov 16 preview and Unchained's Nov 18 report of the Tuesday Senate Agriculture confirmation hearing in full this round; the second-source gap is closed. Verified the 3 p.m. ET Dirksen 106 setting, Nov 12 nominations of Nathan Anonick and Matthew Rowland, Selig's 'two strong bipartisan picks' quote, one-commissioner CFTC, the Rowland and Anonick prediction-market answers, Sen. Tina Smith's exchange, the staffing and Trump-family-ties questioning, and the committee-then-full-Senate vote path with lame-duck expiry. Draft and image still to be produced.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/senators-press-trumps-cftc-nominees-on-prediction-markets-as-states-and-tribes-push-back/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:57:46.417Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "4b1248cbfa3cab458152": {
       "source": "Crypto Briefing",
