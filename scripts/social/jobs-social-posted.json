@@ -161030,7 +161030,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "3fbd919f-0ef0-489d-9f82-e715f709c022",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7529266948250079233"
     }
   ]
 }
