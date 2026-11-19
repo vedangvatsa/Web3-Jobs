@@ -3,4 +3,4 @@
 # Production HTML is Firebase App Hosting only (backend `studio`, project web3-jobs-aggregator).
 # This path deployed Cloud Run `web3-jobs` in asia-south1 (E2_HIGHCPU_8) and duplicated FAH work.
 #
-# To re-enable would require explicit review + a new trigger. See docs/GCP_RETIRE_LEGACY_PROJECT.md.
+# To re-enable would require explicit review + a new trigger.

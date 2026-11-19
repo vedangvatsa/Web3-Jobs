@@ -161,9 +161,9 @@ build behavior applies only when automatic rollouts are enabled.
 ## Avoidable mistakes
 
 1. **Two deploy pipelines for the same app** — Confirm in [Cloud Build → Triggers](https://console.cloud.google.com/cloud-build/triggers?project=web3-jobs-aggregator) whether **`cloudbuild.yaml` / Cloud Run `web3-jobs`** is still enabled. Disable if App Hosting is the only target.
-2. **Stale GCP project `web3-job-board-aggregator`** — See [`GCP_RETIRE_LEGACY_PROJECT.md`](GCP_RETIRE_LEGACY_PROJECT.md). **Do not re-enable billing** there unless you need that project.
+2. **Stale GCP project `web3-job-board-aggregator`** — Do **not re-enable billing** there unless you need that project.
 3. **Keep one hosting toolchain** — the retired OpenNext/Cloudflare build dependencies and deploy commands have been removed; production uses Firebase App Hosting.
-4. **Letting build queues stack** — Cancel superseded builds (see [`scripts/cancel-old-builds.py`](../scripts/cancel-old-builds.py) pattern for `web3-jobs-aggregator`).
+4. **Letting build queues stack** — Cancel superseded builds.
 
 ## Reduce cost without leaving Firebase
 
@@ -206,12 +206,6 @@ In [Billing → Reports](https://console.cloud.google.com/billing), filter by:
 - Secret Manager (small unless many versions)
 
 Project: **`web3-jobs-aggregator`** (active). Also check **`web3-job-board-aggregator`** for stray charges.
-
-## Shut down old project only (`web3-job-board-aggregator`)
-
-Full checklist: [`GCP_RETIRE_LEGACY_PROJECT.md`](GCP_RETIRE_LEGACY_PROJECT.md) (Console steps + `scripts/retire-stray-gcp.py`).
-
-Do **not** use this checklist on **`web3-jobs-aggregator`** if that is your live production project.
 
 ## Repo guardrails
 
