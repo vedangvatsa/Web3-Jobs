@@ -160877,6 +160877,39 @@
       "attemptId": "5c24e141-d957-41d3-946d-9cd7bd07ba2a",
       "verification": "verified",
       "postId": "0x72fe16505ec219d8efdf2dce7b0adba8e2d0ef7a"
+    },
+    {
+      "slug": "pm357",
+      "company": "Kamino",
+      "title": "Staff Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T19:34:53.102Z",
+      "expectedText": "Kamino is hiring Staff Product Manager\n\nhttps://hashtagweb3.com/pm357/fc?og=7",
+      "snapshot": {
+        "id": "98c10c96-67b8-465b-966e-a5a76648b7c1",
+        "title": "Staff Product Manager",
+        "company": "Kamino",
+        "link": "https://talent.superteam.fun/jobs/staff-product-manager-at-kamino-98c10c96-67b8-465b-966e-a5a76648b7c1",
+        "date": "2026-10-23T17:11:58.597664+00:00",
+        "source": "Superteam: Kamino [superteam]",
+        "location": "Remote",
+        "department": "Full-Time",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm357"
+      },
+      "payload": {
+        "text": "Kamino is hiring Staff Product Manager\n\nhttps://hashtagweb3.com/pm357/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm357/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "e9ad8903-7c78-4cbb-ac21-cba5555671da",
+      "verification": "creating"
     }
   ]
 }
