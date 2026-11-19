@@ -198561,7 +198561,23 @@
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 0,
       "expiresAt": "2026-11-21T15:23:18.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "articleSlug": "hkagent",
+      "draftProgress": {
+        "id": "ba935478b058548ae7b7",
+        "day": "2026-11-19",
+        "articleSlug": "hkagent",
+        "note": "Read Unchained's Nov 18 report in full: Raymond Chan's Nov 17 HKMA regtech-workshop speech floated an onchain AI agent folding blockchain analytics, due diligence, scam intelligence and rapid freezes, quoted his 'linking wallet activities to real-world identities' line, the agentic-AI exploring remark, the cautious stablecoin start, the Chainalysis figure of $150 billion illicit flows with 84% in stablecoins, and the VAIT taskforce. Second independent outlet still missing: CoinDesk returned retry-after and The Block HTTP 403 in the availability pass; the primary HKMA speech page has not been opened yet. Draft pending.",
+        "sourceChecks": [
+          {
+            "url": "https://unchainedcrypto.com/hong-kongs-bank-regulator-floats-an-onchain-ai-agent-to-fight-crypto-crime/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:58:25.371Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "a4bef1afce25bd6f35aa": {
       "source": "The Block",
