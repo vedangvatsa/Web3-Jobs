@@ -160433,7 +160433,8 @@
       },
       "account": "channel:web3",
       "attemptId": "39ed4e0d-9811-4711-88c3-a3cd074f5951",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x11cc25692969e308b014d89d5335a27b7fa740f9"
     }
   ]
 }
