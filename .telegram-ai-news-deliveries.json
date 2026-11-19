@@ -692,7 +692,7 @@
     "sentAt": "2026-11-19T11:36:28.209Z"
   },
   "04e06e99-5ed6-4fe2-a656-b2c07ac39222": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T19:36:43.023Z",
     "stories": [
       {
@@ -722,6 +722,8 @@
         "originalTitle": "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem"
       }
     ],
-    "slotKey": "2026-11-19:evening"
+    "slotKey": "2026-11-19:evening",
+    "messageId": 193551,
+    "sentAt": "2026-11-19T19:36:53.959Z"
   }
 }

@@ -53,6 +53,9 @@
   "https://www.marktechpost.com/2026/11/18/hugging-face-qwen3-8-27b-pi-adapted-lora/",
   "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
   "https://www.marktechpost.com/2026/11/19/ai-security-incident-response-playbook-2026/",
+  "https://techxplore.com/news/2026-11-cyberattack-artificial-intelligence-eu-october.html",
+  "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+  "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -161,6 +164,12 @@
   "What a billion-dollar deal says about the US battery market",
   "New Guide Outlines Incident Response for AI Infrastructure Attacks",
   "Not If, But How: Responding to Security Incidents in the Age of AI Attackers",
+  "AI-generated cyberattack targets European Union institutions",
+  "A cyberattack using artificial intelligence targeted the EU in October, official says",
+  "AI token prices drop 21 percent amid record usage",
+  "AI industry growth remains strong, but the pace is slowing",
+  "D-Matrix Raptor chip stacks memory to increase inference bandwidth",
+  "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -214,5 +223,8 @@
   "fp:api|citation|confidenc|convert|defin|document|extract|extraction|field|fil",
   "fp:accuracy|adapter|benchmark|cod|fac|from39|hugg|increas|learn|lift",
   "fp:agreement|battery|carbon|component|design|dollar|generation|lighter|material|next",
-  "fp:age|analyz|attack|attacker|but|cas|detail|four|framework|guid"
+  "fp:age|analyz|attack|attacker|but|cas|detail|four|framework|guid",
+  "fp:attack|automat|body|confirm|cyberattack|digital|european|generat|govern|institution",
+  "fp:anthropic|but|captur|drop21|growth|nearly59|overall|pac|percent|record",
+  "fp:bandwidth|beneath|bet|can|chip|comput|dram|generation|hardwar|increas"
 ]
