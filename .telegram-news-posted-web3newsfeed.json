@@ -53,6 +53,9 @@
   "https://hashtagweb3.com/lighterhalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/megaspeed?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strategy485?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ledgerberlin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/maradebt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/buchanansentence?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -161,6 +164,12 @@
   "Megaspeed confirms Alice Huang left in August 2025 as espionage claims swirl",
   "Strategy buys 485 bitcoin and $228 million in shares",
   "Strategy buys 485 bitcoin for $33.4 million as preferred buybacks reach $228 million",
+  "Ledger identifies tampered hardware wallets in Berlin and Dubai",
+  "Ledger warns Berlin buyers as tampering probe reaches Germany and Dubai",
+  "MARA issues $185 million in debt for power plant purchase",
+  "MARA prices $185 million secured notes to fund its Long Ridge power plant acquisition",
+  "Hacker Sentenced to Six Years for $11.6M Crypto Theft",
+  "Scattered Spider Hacker Buchanan Sentenced to 6 Years Over $11.6M Crypto Theft",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -214,5 +223,8 @@
   "fp:25m|acquit|acquitt|bot|brother|bueno|cas|dur|exploit|fail",
   "fp:1039m|104m|allow|api|attacker|compromis|contract|drain|exploit|lighter",
   "fp:alic|allegation|august|august2025|claim|conduct|confirm|counsel|deni|departur",
-  "fp:228m|334m|849|additional|buyback|buys485|firm|holds850|last|now"
+  "fp:228m|334m|849|additional|buyback|buys485|firm|holds850|last|now",
+  "fp:asia|berlin|buyer|campaign|compromis|connect|dubai|fraudulent|germany|hardwar",
+  "fp:15b|185m|acquisition|debt|due2032|issu|long|mara|not|ohio",
+  "fp:116m|asset|attack|buchanan|digital|hacker|phish|scatter|sentenc|sim"
 ]

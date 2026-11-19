@@ -594,7 +594,7 @@
     "sentAt": "2026-11-19T11:38:28.725Z"
   },
   "ee17629a-6689-48c7-b4d2-2576e386b4ae": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T19:38:04.167Z",
     "stories": [
       {
@@ -622,6 +622,8 @@
         "originalTitle": "Scattered Spider Hacker Buchanan Sentenced to 6 Years Over $11.6M Crypto Theft"
       }
     ],
-    "slotKey": "2026-11-19:evening"
+    "slotKey": "2026-11-19:evening",
+    "messageId": 65844,
+    "sentAt": "2026-11-19T19:38:09.108Z"
   }
 }
