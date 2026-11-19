@@ -184731,29 +184731,32 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca5f6adbd0edc0aaafc4",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-19T20:44:23.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
-      "reason": "source-blocked",
-      "note": "Read Bitcoin Magazine's Nov 16 report in full (Tuesday Nov 18, 3 p.m. ET hearing in Dirksen 106, nominations sent Nov 12, nominees Nathan Anonick and Matthew Rowland, Selig's 'two strong bipartisan picks' quote, one-commissioner CFTC, lame-duck confirmation risk). The Block's Nov 17 companion returned HTTP 403 on an actual GET this round; no second readable source yet.",
+      "reason": "verified-event",
+      "note": "Re-read Bitcoin Magazine's Nov 16 preview and Unchained's Nov 18 hearing report in full; verified the 3 p.m. ET Dirksen 106 hearing, Nov 12 nominations of Nathan Anonick and Matthew Rowland, Selig's two strong bipartisan picks quote, one-commissioner CFTC, Rowland's public interest and Regulation 40.11 answers, Anonick's Supreme Court deference, Sen. Tina Smith's legal issue exchange, Warnock's Trump-family-ties questions, five-seat endorsement, committee-then-full-Senate path, lame-duck resubmission and the Clarity Act cloture failure. Draft and Dirksen building photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
           "outcome": "read"
         },
         {
-          "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
-          "outcome": "blocked"
+          "url": "https://unchainedcrypto.com/senators-press-trumps-cftc-nominees-on-prediction-markets-as-states-and-tribes-push-back/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.agriculture.senate.gov/hearings/nomination-hearing-11-17-2026",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:13:20.312Z",
+      "reviewedAt": "2026-11-19T02:12:43.782Z",
       "retrySearches": [
         "Find a second readable source (Senate Agriculture Committee notice, Reuters, The Block or Cointelegraph) confirming the Nov 18 Senate Agriculture hearing on CFTC nominees Nathan Anonick and Matthew Rowland"
       ],
-      "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19",
+      "lastReviewedDay": "2026-11-19",
       "articleSlug": "cftchearing",
       "draftProgress": {
         "id": "ca5f6adbd0edc0aaafc4",
@@ -381327,6 +381330,27 @@
           ],
           "reviewedAt": "2026-11-19T01:59:28.022Z",
           "articleSlug": "buchanansentence"
+        },
+        "ca5f6adbd0edc0aaafc4": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Bitcoin Magazine's Nov 16 preview and Unchained's Nov 18 hearing report in full; verified the 3 p.m. ET Dirksen 106 hearing, Nov 12 nominations of Nathan Anonick and Matthew Rowland, Selig's two strong bipartisan picks quote, one-commissioner CFTC, Rowland's public interest and Regulation 40.11 answers, Anonick's Supreme Court deference, Sen. Tina Smith's legal issue exchange, Warnock's Trump-family-ties questions, five-seat endorsement, committee-then-full-Senate path, lame-duck resubmission and the Clarity Act cloture failure. Draft and Dirksen building photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/senators-press-trumps-cftc-nominees-on-prediction-markets-as-states-and-tribes-push-back/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.agriculture.senate.gov/hearings/nomination-hearing-11-17-2026",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:12:43.782Z",
+          "articleSlug": "cftchearing"
         }
       },
       "baselineSlugs": [
