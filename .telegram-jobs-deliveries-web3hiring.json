@@ -4444,7 +4444,7 @@
     "sentAt": "2026-11-19T19:33:11.415Z"
   },
   "9f0ee89a-04c8-437d-9898-fb1696419c4f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T19:33:16.530Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -4559,6 +4559,8 @@
       }
     ],
     "message": "- Coinflow is hiring <a href=\"https://hashtagweb3.com/eng365?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">ML Ops Engineer</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/an123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Due Diligence Analyst - Americas</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Engineer, Backend, Bill Pay</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm425?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr Staff Product Designer - Krak</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/eng417?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior AI Engineer (AI Automation)</a>",
-    "slotKey": "2026-11-19:evening"
+    "slotKey": "2026-11-19:evening",
+    "messageId": 209,
+    "sentAt": "2026-11-19T19:33:19.038Z"
   }
 }
