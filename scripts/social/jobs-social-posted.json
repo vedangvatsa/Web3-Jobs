@@ -157519,6 +157519,46 @@
       "attemptId": "a7b335ae-d2f8-4753-bfbd-56c27428f29a",
       "verification": "verified",
       "postId": "0xc25ba779ebab25cfeadfe4f923812be17a210046"
+    },
+    {
+      "slug": "cmp33",
+      "company": "Jane Street",
+      "title": "Compliance Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-19T04:22:52.365Z",
+      "expectedText": "Jane Street is hiring Compliance Analyst: https://hashtagweb3.com/cmp33/li?og=7",
+      "snapshot": {
+        "id": "8894046002",
+        "title": "Compliance Analyst",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8894046002?gh_jid=8894046002",
+        "date": "2026-10-21T04:25:58-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "London, England, United Kingdom",
+        "department": "Legal and Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp33"
+      },
+      "payload": {
+        "text": "Jane Street is hiring Compliance Analyst: https://hashtagweb3.com/cmp33/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cmp33/li?og=7",
+          "title": "Compliance Analyst at Jane Street",
+          "description": "Join Jane Street as Compliance Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cmp33.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "da8ac5f8-7e43-4eed-ac0a-b386d341480c",
+      "verification": "creating"
     }
   ]
 }
