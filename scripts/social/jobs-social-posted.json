@@ -160469,6 +160469,39 @@
       "attemptId": "57cbbff6-cad1-40a9-a8a5-a4cbb5fda120",
       "verification": "verified",
       "postId": "0x0da0af969efce3e4288f615f504a505599285c31"
+    },
+    {
+      "slug": "pm357",
+      "company": "Kamino",
+      "title": "Staff Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T19:34:53.102Z",
+      "expectedText": "Kamino is hiring Staff Product Manager\n\nhttps://hashtagweb3.com/pm357/fc?og=7",
+      "snapshot": {
+        "id": "98c10c96-67b8-465b-966e-a5a76648b7c1",
+        "title": "Staff Product Manager",
+        "company": "Kamino",
+        "link": "https://talent.superteam.fun/jobs/staff-product-manager-at-kamino-98c10c96-67b8-465b-966e-a5a76648b7c1",
+        "date": "2026-10-23T17:11:58.597664+00:00",
+        "source": "Superteam: Kamino [superteam]",
+        "location": "Remote",
+        "department": "Full-Time",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm357"
+      },
+      "payload": {
+        "text": "Kamino is hiring Staff Product Manager\n\nhttps://hashtagweb3.com/pm357/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm357/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "ce6fcd64-5586-4689-87ff-c527fcfcfcdd",
+      "verification": "creating"
     }
   ]
 }
