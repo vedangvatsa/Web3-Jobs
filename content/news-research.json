@@ -195102,7 +195102,23 @@
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 0,
       "expiresAt": "2026-11-21T19:40:25.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "articleSlug": "binanceorder",
+      "draftProgress": {
+        "id": "c440bfee64f9e0c5f08c",
+        "day": "2026-11-19",
+        "articleSlug": "binanceorder",
+        "note": "Read Bitcoin Magazine's Nov 18 report in full: the ADGM freezing order confirmed by deputy general counsel Dugan Bliss with terms undisclosed, Reuters as the origin, $2.85 billion frozen or intercepted of the $6.34 billion affected, Tether and Circle freezes, DOJ seizure authority over $1.2 billion, and the Oct 29 intrusion path. The Block returned HTTP 403 in the availability pass; still need a second readable independent source such as Cointelegraph's freezing-order story or the Reuters wire. Draft pending.",
+        "sourceChecks": [
+          {
+            "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:58:35.601Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "38f18f4a0f6dca531bf1": {
       "source": "CryptoSlate",
