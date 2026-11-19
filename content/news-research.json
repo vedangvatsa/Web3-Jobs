@@ -195995,11 +195995,46 @@
         "Unchained"
       ],
       "id": "4fbc1a3198b80a2180de",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T14:49:00.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "reason": "verified-event",
+      "note": "Read Backpack's own Nov 18 announcement (primary), Unchained's Nov 18 report and Bitcoin.com News Nov 18 report; the NFA FCM approval, the Nov 13 clearinghouse registration and Nov 16 exchange designation, the Wetjen and Ferrante quotes, the 150-country/$450B figures and the absence of a launch date all cross-check. New event (NFA/FCM approval) distinct from the existing backpackcftc article on the Nov 16 CFTC exchange and clearinghouse approvals. Draft backpackfcm.md (675 words) passes quality, formatting, duplicate and image audits; cited links return HTTP 200; hero is a self-hosted CC BY-SA trading floor photo. The Block and The Defiant companions returned HTTP 403 and the GlobeNewswire release returned HTTP 403 on GET.",
+      "sourceChecks": [
+        {
+          "url": "https://learn.backpack.exchange/blog/backpack-secures-futures-commission-merchant-license-and-nfa-membership-completing-us-cftc-regulatory-framework",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/crypto-exchange-backpack-says-nfa-approval-completes-stack-to-bring-leveraged-perps-to-u-s/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/regulation-and-legal/backpack-securies-final-us-regulatory-approval-leveraged-crypto-futures/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Commodities_futures_trading_(2535018248).jpg",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/backpack-secures-nfa-approval-ahead-of-us-perps-launch",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.globenewswire.com/news-release/2026/11/18/3405812/0/en/backpack-secures-futures-commission-merchant-license-and-nfa-membership-completing-u-s-cftc-regulatory-framework.html",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-19T01:28:06.175Z",
+      "articleSlug": "backpackfcm",
+      "lastReviewedDay": "2026-11-19"
     },
     "efe0689d587eae72b10f": {
       "source": "Cointelegraph",
@@ -380963,6 +380998,43 @@
           ],
           "reviewedAt": "2026-11-19T01:24:22.169Z",
           "articleSlug": "coinbaseagent"
+        },
+        "4fbc1a3198b80a2180de": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Backpack's own Nov 18 announcement (primary), Unchained's Nov 18 report and Bitcoin.com News Nov 18 report; the NFA FCM approval, the Nov 13 clearinghouse registration and Nov 16 exchange designation, the Wetjen and Ferrante quotes, the 150-country/$450B figures and the absence of a launch date all cross-check. New event (NFA/FCM approval) distinct from the existing backpackcftc article on the Nov 16 CFTC exchange and clearinghouse approvals. Draft backpackfcm.md (675 words) passes quality, formatting, duplicate and image audits; cited links return HTTP 200; hero is a self-hosted CC BY-SA trading floor photo. The Block and The Defiant companions returned HTTP 403 and the GlobeNewswire release returned HTTP 403 on GET.",
+          "sourceChecks": [
+            {
+              "url": "https://learn.backpack.exchange/blog/backpack-secures-futures-commission-merchant-license-and-nfa-membership-completing-us-cftc-regulatory-framework",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/crypto-exchange-backpack-says-nfa-approval-completes-stack-to-bring-leveraged-perps-to-u-s/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/regulation-and-legal/backpack-securies-final-us-regulatory-approval-leveraged-crypto-futures/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Commodities_futures_trading_(2535018248).jpg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/backpack-secures-nfa-approval-ahead-of-us-perps-launch",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.globenewswire.com/news-release/2026/11/18/3405812/0/en/backpack-secures-futures-commission-merchant-license-and-nfa-membership-completing-u-s-cftc-regulatory-framework.html",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:28:06.175Z",
+          "articleSlug": "backpackfcm"
         }
       },
       "baselineSlugs": [
