@@ -195638,7 +195638,27 @@
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 0,
       "expiresAt": "2026-11-21T10:33:07.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "articleSlug": "zecetf",
+      "draftProgress": {
+        "id": "db9468ccef00c39a7445",
+        "day": "2026-11-19",
+        "articleSlug": "zecetf",
+        "note": "Read Cointelegraph and Bankless Nov 18 reports in full; SEC S-1 links cited by both; drafting now.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.bankless.com/read/news/bitwise-files-for-a-zcash-etf-on-the-texas-stock-exchange",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-19T02:18:24.968Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "52358ca3850014a29f4e": {
       "source": "The Defiant",
