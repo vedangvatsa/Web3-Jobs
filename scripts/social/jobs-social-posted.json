@@ -159305,6 +159305,48 @@
       "attemptId": "dbfa69dd-dae2-4848-bb5e-220822443844",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "cdcp",
+      "company": "Block",
+      "title": "Chargé de Compte PME",
+      "platform": "linkedin",
+      "postedAt": "2026-11-19T11:34:04.696Z",
+      "expectedText": "Block is hiring Chargé de Compte PME: https://hashtagweb3.com/cdcp/li?og=7",
+      "snapshot": {
+        "id": "5428323008",
+        "title": "Chargé de Compte PME",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5428323008?gh_jid=5428323008",
+        "date": "2026-11-13T17:30:12-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "20209 S&M - Sales - Square Inside",
+        "active": true,
+        "salary": "$86k – $129k/yr",
+        "dateVerified": true,
+        "slug": "cdcp"
+      },
+      "payload": {
+        "text": "Block is hiring Chargé de Compte PME: https://hashtagweb3.com/cdcp/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cdcp/li?og=7",
+          "title": "Chargé de Compte PME at Block",
+          "description": "Join Block as Chargé de Compte PME. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cdcp.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "507f7013-4820-4874-bc80-c39d3995ed04",
+      "verification": "creating"
     }
   ]
 }
