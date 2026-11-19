@@ -5669,10 +5669,6 @@
       "sha256": "812374dc5e049c5c72cab90493a4adc09100f72e11780522266ac35c0af0d13c",
       "status": "retained"
     },
-    "/events/w3v-lavo-lounge-fireblocks-yellow-card-cyclops-26--f031ade5.webp": {
-      "sha256": "82113dd5fc8384935c22b6f8071915ffec80d76756dabcbc4045a907efd5e21f",
-      "status": "optimized"
-    },
     "/events/w3v-licence-to-spend-an-evening-with-altitude-and--f8a20027.webp": {
       "sha256": "1ffaaf9185d201457f79bcaa341abf131fdc0e7919bc0d402d1a9b4b4a1197d7",
       "status": "optimized"
@@ -5780,10 +5776,6 @@
     "/events/w3v-opentechsummit-india-26-11-05-4a6ba792.webp": {
       "sha256": "d477c989f106bd4cebc17d9d1124f7e41bf6fc6e9a0d6b1088b77aa6cda78c6a",
       "status": "retained"
-    },
-    "/events/w3v-pacific-table-what-you-seeing-that-26-10-19-3281bfad.webp": {
-      "sha256": "49805dd1aa2e77e2c131a44e5c6fd0d4c4c5531f2d942d324484db253c189918",
-      "status": "optimized"
     },
     "/events/w3v-paytech-global-conference-2027-13-179313101922-38aa0d5f.webp": {
       "sha256": "4b5a2707515c7573d413bd7b83d929aba442e3a6b2a477b18711f9f1717788f2",
@@ -5920,10 +5912,6 @@
     "/events/w3v-swell-26-10-27-a26fc268.webp": {
       "sha256": "83e771cc960db26946549937b75d853dff14b8b7b28ba43ee36daf4cdcabbeab",
       "status": "retained"
-    },
-    "/events/w3v-t-0-dinner-26-10-19-557ecfa4.webp": {
-      "sha256": "dec2ff48687a21fa32049b414358c3094275bd6e44f3b6f8f5fad7179f10419d",
-      "status": "optimized"
     },
     "/events/w3v-team1-india-networking-gala-mumbai-26-11-02-cdcf1d30.webp": {
       "sha256": "831b374852c77cc5b396050690e59e7e70fe1b292aeff33789eea3c258d88fb1",

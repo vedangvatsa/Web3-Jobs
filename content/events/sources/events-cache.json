@@ -5563,19 +5563,6 @@
     "month": "December 2026"
   },
   {
-    "id": "w3v-lavo-lounge-fireblocks-yellow-card-cyclops-26-10-19",
-    "name": "The Lavo Lounge with Fireblocks, Yellow Card and Cyclops",
-    "description": "The Lavo Lounge with Fireblocks, Yellow Card and Cyclops: a payments and stablecoins evening at LAVO in Las Vegas with open bar and a live DJ.",
-    "startDate": "2026-10-20T01:00:00.000Z",
-    "endDate": "2026-10-20T04:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/wx3qkng0",
-    "coverImage": "/events/w3v-lavo-lounge-fireblocks-yellow-card-cyclops-26--f031ade5.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-stablecoin-leaders-dinner-money-20-20-26-10-19",
     "name": "Stablecoin Leaders Dinner at Money 20/20 with Cybrid (Invite Only)",
     "description": "Stablecoin Leaders Dinner at Money 20/20 with Cybrid (Invite Only): an invite-only stablecoin leaders dinner in Las Vegas on October 19, 2026.",
@@ -5589,19 +5576,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-pacific-table-what-you-seeing-that-26-10-19",
-    "name": "The Pacific Table: What Are You Seeing That We’re Not?",
-    "description": "The Pacific Table: What Are You Seeing That We’re Not?: Side event in Las Vegas covering stablecoin payments, agentic AI and onchain finance.",
-    "startDate": "2026-10-20T02:00:00.000Z",
-    "endDate": "2026-10-20T04:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/pqvvm54y",
-    "coverImage": "/events/w3v-pacific-table-what-you-seeing-that-26-10-19-3281bfad.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-openfx-stablecon-money20-20-stable-salon-26-10-19",
     "name": "OpenFX & Stablecon: Money20/20 Stable Salon",
     "description": "OpenFX & Stablecon: Money20/20 Stable Salon: A Las Vegas side event on payments, digital assets and treasury infrastructure, October 19, 2026.",
@@ -5612,19 +5586,6 @@
     "location": "Las Vegas, US",
     "url": "https://luma.com/OpenFXM202026",
     "coverImage": "/events/w3v-openfx-stablecon-money20-20-stable-salon-26-10-48e43949.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-t-0-dinner-26-10-19",
-    "name": "The T+0 Dinner",
-    "description": "The T+0 Dinner: Invite-only fintech dinner in Las Vegas on October 19, 2026, covering stablecoins, T+0 settlement and capital efficiency.",
-    "startDate": "2026-10-20T02:00:00.000Z",
-    "endDate": "2026-10-20T04:00:00.000Z",
-    "city": "Las Vegas",
-    "country": "US",
-    "location": "Las Vegas, US",
-    "url": "https://luma.com/0ddmn81e",
-    "coverImage": "/events/w3v-t-0-dinner-26-10-19-557ecfa4.webp",
     "month": "October 2026"
   },
   {
@@ -12196,10 +12157,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -13780,7 +13738,7 @@
     "country": "us",
     "location": "Scottsdale, us",
     "url": "https://www.meetup.com/arizona-stock-options-and-futures-investors/events/317181350/",
-    "coverImage": "/events/mu-317181350-e1c4f221.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20284,7 +20242,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20368,7 +20326,7 @@
     "country": "us",
     "location": "Phoenix, us",
     "url": "https://www.meetup.com/phoenix-wbc-meetup-group/events/317449479/",
-    "coverImage": "/events/mu-317449479-918be00f.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -22202,5 +22160,61 @@
     "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-WVA4b9jrqn58aLb",
+    "name": "Unboxed @ Silicon Valley | Vol. 01: Robots Up Close",
+    "description": "",
+    "startDate": "2026-11-21T01:00:00.000Z",
+    "endDate": "2026-11-21T04:00:00.000Z",
+    "city": "Mountain View",
+    "country": "United States",
+    "location": "Mountain View, United States",
+    "url": "https://lu.ma/19it1m8b",
+    "coverImage": "/events/luma-evt-wva4b9jrqn58alb-d7b9bde1.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-1ksbCFHXZS2gMPr",
+    "name": "TLI CONNECT × LIGHT DAO SALON · 人本智能經濟 Intelligent Economy for Humanity (Taipei)",
+    "description": "",
+    "startDate": "2026-11-23T10:30:00.000Z",
+    "endDate": "2026-11-23T13:30:00.000Z",
+    "city": "Guzhuang Village",
+    "country": "Taiwan",
+    "location": "Guzhuang Village, Taiwan",
+    "url": "https://luma.com/jv9n40a3",
+    "coverImage": "/events/luma-host-evt-evt-1ksbcfhxzs2gmpr-36000b90.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317489241",
+    "name": "Bitcoin 101",
+    "description": "AGENDA\n\n* What is bitcoin to you? Let's discuss!\n* Q&A\n\nWhile the meeting is free to all, we ask that you plan on purchasing at least something to drink as a \"thank you\" to the venue for allowing us t",
+    "startDate": "2026-12-02T18:00:00-07:00",
+    "endDate": "2026-12-02T18:00:00-07:00",
+    "city": "Phoenix",
+    "country": "us",
+    "location": "Phoenix, us",
+    "url": "https://www.meetup.com/arizona-bitcoin-meetup/events/317489241/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-2QbycutunvufE83",
+    "name": "Jagaave Saari Raina Session",
+    "description": "",
+    "startDate": "2026-12-08T00:30:00.000Z",
+    "endDate": "2026-12-08T02:00:00.000Z",
+    "city": "Chicago",
+    "country": "United States",
+    "location": "Chicago, United States",
+    "url": "https://lu.ma/cl7csjay",
+    "coverImage": "/events/luma-evt-2qbycutunvufe83-0b44b171.webp",
+    "source": "luma",
+    "month": "December 2026"
   }
 ]

@@ -20388,18 +20388,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-47c3a4a5d63e13ad"></a>
-
-## The Lavo Lounge with Fireblocks, Yellow Card and Cyclops
-
-- Record: `w3v-lavo-lounge-fireblocks-yellow-card-cyclops-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T01:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/wx3qkng0>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-23b64f174a77940b"></a>
 
 ## Stablecoin Leaders Dinner at Money 20/20 with Cybrid (Invite Only)
@@ -20421,30 +20409,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T02:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/OpenFXM202026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d19f713e10563e10"></a>
-
-## The Pacific Table: What Are You Seeing That We’re Not?
-
-- Record: `w3v-pacific-table-what-you-seeing-that-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T02:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/pqvvm54y>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-59c714296f39e197"></a>
-
-## The T+0 Dinner
-
-- Record: `w3v-t-0-dinner-26-10-19`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T02:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/0ddmn81e>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -32999,6 +32963,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8fdc24b86289646d"></a>
+
+## Unboxed @ Silicon Valley \| Vol. 01: Robots Up Close
+
+- Record: `luma-evt-WVA4b9jrqn58aLb`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T01:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/19it1m8b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-17999a20d13df500"></a>
 
 ## HERHACK 2026
@@ -33308,6 +33284,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23T07:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/x8ilsq7o>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2735863c2dc8f9c2"></a>
+
+## TLI CONNECT × LIGHT DAO SALON · 人本智能經濟 Intelligent Economy for Humanity (Taipei)
+
+- Record: `luma-host-evt-evt-1ksbCFHXZS2gMPr`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23T10:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/jv9n40a3>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34881,6 +34869,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-57f0badc42e68c76"></a>
+
+## Bitcoin 101
+
+- Record: `mu-317489241`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T18:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/arizona-bitcoin-meetup/events/317489241/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1926db3d87822c18"></a>
 
 ## The Art Angle – Artnet Airwaves Podcast Festival
@@ -35318,6 +35318,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-08
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/podcast-tickets-2004856502769>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6ae927b8a62edb70"></a>
+
+## Jagaave Saari Raina Session
+
+- Record: `luma-evt-2QbycutunvufE83`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T00:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/cl7csjay>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
