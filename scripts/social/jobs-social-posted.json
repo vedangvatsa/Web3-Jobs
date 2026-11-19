@@ -155996,7 +155996,8 @@
       },
       "account": "profile",
       "attemptId": "3858b038-74d8-433f-92bd-6dd6a2faa061",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x228f7e46623bf3041bcf7440d18447054ff35063"
     }
   ]
 }
