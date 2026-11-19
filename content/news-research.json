@@ -192294,9 +192294,9 @@
       "articleSlug": "coingeckostake",
       "draftProgress": {
         "id": "b72b524a864abd786a29",
-        "day": "2026-11-18",
+        "day": "2026-11-19",
         "articleSlug": "coingeckostake",
-        "note": "Read Decrypt, Cointelegraph and Unchained coverage plus CoinGecko's own Nov 17 announcement; verified majority-stake statements, the three planned focus areas, the Bobby Ong and Vibhu Norby quotes and the user/API figures. CoinDesk returned 429 and solana.com is behind a challenge page. Draft and image still to be produced.",
+        "note": "Rechecked the primary announcement URL with curl this round: HTTP 200 with a browser User-Agent but 403 with the default curl User-Agent, which is what failed yesterday's link gate. No source re-reads completed and no draft produced this round. Next attempt must open the CoinGecko announcement content again and cite only links that pass the default-UA check, or substitute another verified primary before drafting.",
         "sourceChecks": [
           {
             "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
@@ -192309,13 +192309,9 @@
           {
             "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
             "outcome": "read"
-          },
-          {
-            "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
-            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-18T01:48:45.893Z",
+        "updatedAt": "2026-11-19T01:58:49.416Z",
         "approved": false,
         "mustReview": true
       },
