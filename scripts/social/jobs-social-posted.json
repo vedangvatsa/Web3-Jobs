@@ -160365,7 +160365,8 @@
       },
       "account": "profile",
       "attemptId": "f31f6cb5-a79a-4f00-b19a-ba560ff815a1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x53d63a1a8b9b3cf7e5aa6ac212a8b454bfea776d"
     }
   ]
 }
