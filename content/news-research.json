@@ -195628,7 +195628,27 @@
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 0,
       "expiresAt": "2026-11-21T12:53:34.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "articleSlug": "maradebt",
+      "draftProgress": {
+        "id": "38cbf360de60fdd665ce",
+        "day": "2026-11-19",
+        "articleSlug": "maradebt",
+        "note": "Read Cointelegraph Nov 18 report in full and MARA's Nov 17 Form 8-K primary filing (priced 85M of 8.750% senior secured notes of Long Ridge Energy LLC at 99.000, closing Nov 27 alongside the .5B Long Ridge acquisition). CoinDesk returned 429/timeout this round; Blockspace 403. Two sources already readable (cointelegraph.com + ir.mara.com); draft not yet started.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales",
+            "outcome": "read"
+          },
+          {
+            "url": "https://ir.mara.com/sec-filings/all-sec-filings/content/0000950142-26-003100/eh260856708_8k.htm",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-19T02:28:17.067Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "db9468ccef00c39a7445": {
       "source": "Cointelegraph",
