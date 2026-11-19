@@ -161514,7 +161514,8 @@
       },
       "account": "channel:base",
       "attemptId": "5932e856-e051-4abd-98cb-a257cde677a8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7850f62073aad914a594fa4c3b910e4078818578"
     }
   ]
 }
