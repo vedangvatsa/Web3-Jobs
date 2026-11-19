@@ -156490,6 +156490,46 @@
       "attemptId": "50a3950a-e44d-40c1-bbc7-b636b94e2e90",
       "verification": "verified",
       "postId": "0x60d562ccf24e50c9f84cd297a9ee14bc5dacbd81"
+    },
+    {
+      "slug": "ops175",
+      "company": "DFNS",
+      "title": "Revenue Operations Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T03:41:59.817Z",
+      "expectedText": "DFNS is hiring Revenue Operations Lead\n\nhttps://hashtagweb3.com/ops175/fc?og=7",
+      "snapshot": {
+        "id": "deel-dfns-bd6669ca-cbbd-4280-8b00-dbb215226699",
+        "title": "Revenue Operations Lead",
+        "company": "DFNS",
+        "link": "https://jobs.deel.com/dfns/job-details/bd6669ca-cbbd-4280-8b00-dbb215226699/overview",
+        "date": "2026-11-10T19:53:22.922Z",
+        "dateVerified": true,
+        "dateSource": "DFNS Careers on Deel",
+        "source": "Deel: DFNS [dfns]",
+        "location": "Remote",
+        "department": "Sales",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "active": true,
+        "salary": "$150k – $200k/yr",
+        "minSalary": 150000,
+        "maxSalary": 200000,
+        "currency": "USD",
+        "slug": "ops175"
+      },
+      "payload": {
+        "text": "DFNS is hiring Revenue Operations Lead\n\nhttps://hashtagweb3.com/ops175/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops175/fc?og=7"
+          }
+        ],
+        "channel_id": "ai"
+      },
+      "account": "channel:ai",
+      "attemptId": "d6d825dc-f48d-4a3d-a805-a5e3928dbc75",
+      "verification": "creating"
     }
   ]
 }
