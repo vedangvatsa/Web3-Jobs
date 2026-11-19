@@ -1,6 +1,70 @@
 {
-  "generatedAt": "2026-11-18T19:31:20.580Z",
+  "generatedAt": "2026-11-19T01:19:31.565Z",
   "items": [
+    {
+      "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
+      "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
+      "pubDate": "Thu, 19 Nov 2026 00:33:46 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+      "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+      "pubDate": "Wed, 18 Nov 2026 22:30:00 +0000",
+      "creator": "Ian Allison",
+      "contentSnippet": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+      "link": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+      "pubDate": "Wed, 18 Nov 2026 22:16:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
+      "link": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+      "pubDate": "Wed, 18 Nov 2026 22:09:17 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Senators are pressing Treasury Secretary Bessent to grant a safe harbor for stablecoin issuers operating under state regulatory frameworks.",
+      "source": "The Block"
+    },
+    {
+      "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+      "link": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 21:57:35 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bain Capital Crypto leads $110M Variational round at $1.5B valuation",
+      "link": "https://cointelegraph.com/news/variational-series-b-bain-capital-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 20:32:06 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Variational raised $110 million at a $1.5 billion valuation to expand Omni’s derivatives markets and increase trading limits.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance says it obtained $6.5B worldwide freezing order after hack",
+      "link": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 20:20:37 +0000",
+      "creator": "Bryan O'Shea",
+      "contentSnippet": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stol...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+      "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
+      "pubDate": "Wed, 18 Nov 2026 19:46:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why.",
+      "source": "Decrypt"
+    },
     {
       "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
       "link": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
@@ -282,7 +346,7 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Bitcoin falls below $63,000, with Strategy’s STRC hitting lowest since August",
+      "title": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
       "link": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
       "pubDate": "Wed, 18 Nov 2026 07:27:48 +0000",
       "creator": "Shaurya Malwa",
@@ -506,38 +570,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Revolut plans four blockchain-based funds for private markets, chair says",
-      "link": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 12:24:20 +0000",
-      "creator": "Isabelle Castro",
-      "contentSnippet": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "US senators seek SEC answers on tokenized stock money laundering risks",
-      "link": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 11:36:26 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze ...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-      "link": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 11:18:18 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a reco...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-      "link": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 11:14:05 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
       "link": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
       "pubDate": "Tue, 17 Nov 2026 11:05:25 +0000",
@@ -567,14 +599,6 @@
       "pubDate": "Mon, 16 Nov 2026 21:16:03 +0000",
       "creator": "Staff",
       "contentSnippet": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a “sophisticated AI-enabl...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
-      "link": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
-      "pubDate": "Mon, 16 Nov 2026 19:36:03 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Former White House crypto chief Patrick Witt said the Clarity Act \"lost against the clock,\" and regulators will now set the rules.",
       "source": "Decrypt"
     }
   ]
