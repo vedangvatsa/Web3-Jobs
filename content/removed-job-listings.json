@@ -33736,5 +33736,15 @@
     "blockedSlugs": [
       "mgr232"
     ]
+  },
+  "greenhouse:6256113004": {
+    "slug": "int44",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6256113004",
+    "reason": "removed-by-owner",
+    "evidence": "Owner requested removal of /int44; non-web3 role (2027 Construction Intern, Galaxy Digital, Afton, TX).",
+    "checkedAt": "2026-11-19",
+    "blockedSlugs": [
+      "int44"
+    ]
   }
 }
