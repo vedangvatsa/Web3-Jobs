@@ -158643,7 +158643,8 @@
       },
       "account": "profile",
       "attemptId": "351b8eca-09bb-4037-ab34-c185447808c7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xadcb6a51292a58072637b01a8be23c3ed099d0f7"
     }
   ]
 }
