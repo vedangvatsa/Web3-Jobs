@@ -526,5 +526,36 @@
     "slotKey": "2026-11-18:evening",
     "messageId": 156339,
     "sentAt": "2026-11-18T19:34:01.263Z"
+  },
+  "10d5d89c-738e-4393-8859-e54e4bcbcf91": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T03:38:53.933Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "DBS and JPMorgan launch 24/7 tokenized dollar transfers",
+        "summary": "Ant International is the first user moving dollar deposits between Singapore and the US via the connected bank networks.",
+        "link": "https://hashtagweb3.com/dbskinexys?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DBS and JPMorgan launch 24/7 tokenized deposit transfers between Singapore and the US"
+      },
+      {
+        "index": -1,
+        "headline": "Grvt launches commodity perpetuals tied to traditional financing costs",
+        "summary": "Seven new markets use funding rates based on market maker costs instead of crypto positioning.",
+        "link": "https://hashtagweb3.com/stablesfp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Grvt launches Stable Funding Perps tied to traditional financing costs"
+      },
+      {
+        "index": -1,
+        "headline": "Brothers acquitted of fraud in $25 million Ethereum exploit",
+        "summary": "A federal judge found no evidence of material misrepresentation in the 2023 exploit of Ethereum sandwich-trading bots.",
+        "link": "https://hashtagweb3.com/mevacquittal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Judge acquits Peraire-Bueno brothers in $25 million Ethereum MEV case"
+      }
+    ],
+    "slotKey": "2026-11-19:morning"
   }
 }
