@@ -195616,12 +195616,12 @@
         "Unchained"
       ],
       "id": "41b467b8701d6ec174a3",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T02:47:51.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
-      "articleSlug": "coinbaseaidf",
+      "articleSlug": "coinbaseagent",
       "draftProgress": {
         "id": "41b467b8701d6ec174a3",
         "day": "2026-11-19",
@@ -195644,7 +195644,33 @@
         "updatedAt": "2026-11-19T01:21:22.790Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the Coinbase Nov 17 blog post (primary), Unchained Nov 18 and Bitcoin Magazine Nov 18; the $4.7M stopped, ~91% block rate, 500,000+ viewers and two-hour window match across all three, and Unchained's ~$5.2M/$460,000 math is labeled as its own calculation. Draft coinbaseagent.md (667 words) passes quality, formatting, duplicate and image audits; all cited links return HTTP 200; hero self-hosted from a CC BY Wikimedia photo of Elon Musk. The Block companion returned HTTP 403 and was not cited.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/coinbase-says-its-ai-agent-stopped-4-7-million-from-reaching-deepfake-musk-scammers/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(12271217906).jpg",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-19T01:24:22.169Z",
+      "lastReviewedDay": "2026-11-19"
     },
     "a9f50a0b1b511a28852e": {
       "source": "Crypto Briefing",
@@ -380908,6 +380934,35 @@
           "note": "Article reports only that CRV fell 48% over four weeks versus BTC and ETH; no concrete event (no hack, vote, launch, filing or upgrade). Token price performance items are excluded.",
           "sourceChecks": [],
           "reviewedAt": "2026-11-19T01:21:03.011Z"
+        },
+        "41b467b8701d6ec174a3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Coinbase Nov 17 blog post (primary), Unchained Nov 18 and Bitcoin Magazine Nov 18; the $4.7M stopped, ~91% block rate, 500,000+ viewers and two-hour window match across all three, and Unchained's ~$5.2M/$460,000 math is labeled as its own calculation. Draft coinbaseagent.md (667 words) passes quality, formatting, duplicate and image audits; all cited links return HTTP 200; hero self-hosted from a CC BY Wikimedia photo of Elon Musk. The Block companion returned HTTP 403 and was not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/coinbase-says-its-ai-agent-stopped-4-7-million-from-reaching-deepfake-musk-scammers/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(12271217906).jpg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:24:22.169Z",
+          "articleSlug": "coinbaseagent"
         }
       },
       "baselineSlugs": [
