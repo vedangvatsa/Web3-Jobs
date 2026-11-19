@@ -1270,10 +1270,12 @@
           "ledgerberlin",
           "buchanansentence"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-19T03:07:55.295Z",
         "buildId": "daily-20261119-44435880972-1",
-        "rolloutId": "daily-20261119-44435880972-1"
+        "rolloutId": "daily-20261119-44435880972-1",
+        "buildState": "NOT_FOUND",
+        "observedAt": "2026-11-19T19:31:50.048Z"
       }
     ]
   }
