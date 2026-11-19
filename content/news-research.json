@@ -191154,30 +191154,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "fb2b8fe96fa08741dfe6",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-20T14:20:16.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Waller Backs Traditional Rails for Tokenized Markets\": https://thedefiant.io/converge/tradfi-and-fintech/waller-backs-traditional-rails-for-tokenized-markets -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Read the Federal Reserve Nov 17 speech text in full (primary; traditional rails and central bank money quote, tokenized deposits, atomic vs net settlement, early-convergence framing) and Decrypt's Nov 18 report in full (CNBC interview 50bp call, CPI streak, Nov 10 threshold, rate range, futures odds). Verified quotes against the opened speech text. Draft and Waller FOMC photo pass quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
       "sourceChecks": [
         {
-          "url": "https://thedefiant.io/converge/tradfi-and-fintech/waller-backs-traditional-rails-for-tokenized-markets",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-18T01:44:43.935Z"
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T01:44:53.940Z",
+      "reviewedAt": "2026-11-19T01:44:34.007Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Waller Backs Traditional Rails for Tokenized Markets",
         "Find independent reporting confirming the event in: Waller Backs Traditional Rails for Tokenized Markets",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19",
+      "lastReviewedDay": "2026-11-19",
       "articleSlug": "wallerrate",
       "draftProgress": {
         "id": "fb2b8fe96fa08741dfe6",
@@ -381158,6 +381158,23 @@
           ],
           "reviewedAt": "2026-11-19T01:40:03.924Z",
           "articleSlug": "kalshihalt"
+        },
+        "fb2b8fe96fa08741dfe6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Federal Reserve Nov 17 speech text in full (primary; traditional rails and central bank money quote, tokenized deposits, atomic vs net settlement, early-convergence framing) and Decrypt's Nov 18 report in full (CNBC interview 50bp call, CPI streak, Nov 10 threshold, rate range, futures odds). Verified quotes against the opened speech text. Draft and Waller FOMC photo pass quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:44:34.007Z",
+          "articleSlug": "wallerrate"
         }
       },
       "baselineSlugs": [
