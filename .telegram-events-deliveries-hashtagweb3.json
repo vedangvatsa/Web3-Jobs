@@ -789,5 +789,48 @@
     "slotKey": "2026-11-19:afternoon",
     "messageId": 156348,
     "sentAt": "2026-11-19T11:32:41.257Z"
+  },
+  "76b91fe2-4fde-422e-9fd6-f4c5982d640a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T19:33:04.520Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "curated-gemdefi-rwa-connect-beyond-the-token",
+        "slug": "gemdefi-rwa-connect-beyond-the-token",
+        "name": "GemDeFi RWA Connect - Beyond the Token",
+        "startDate": "2026-11-27T06:00:00.000Z",
+        "keys": [
+          "curated-gemdefi-rwa-connect-beyond-the-token",
+          "page:gemdefi-rwa-connect-beyond-the-token:2026-11-27",
+          "event:gemdefirwaconnectbeyondthetoken:2026-11-27:bangkok"
+        ]
+      },
+      {
+        "id": "premier-auscryptocon-2026",
+        "slug": "auscryptocon",
+        "name": "CryptoCon Sydney 2026",
+        "startDate": "2026-11-28T09:00:00+11:00",
+        "keys": [
+          "premier-auscryptocon-2026",
+          "page:auscryptocon:2026-11-27",
+          "event:cryptoconsydney2026:2026-11-27:sydney"
+        ]
+      },
+      {
+        "id": "ma-blockchain-conference-brasil",
+        "slug": "blockchain-conference-brasil",
+        "name": "Blockchain Conference Brasil",
+        "startDate": "2026-11-28T00:00:00.000Z",
+        "keys": [
+          "ma-blockchain-conference-brasil",
+          "bcb",
+          "page:blockchain-conference-brasil:2026-11-28",
+          "event:blockchainconferencebrasil:2026-11-28:sao paulo"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-19:evening"
   }
 }
