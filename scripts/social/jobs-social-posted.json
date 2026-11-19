@@ -161334,7 +161334,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "e2333964-615a-4939-88f2-dd559e1a5ef3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x54f8e9f86708f8d6171321cc4d8f1234f5b403c5"
     }
   ]
 }
