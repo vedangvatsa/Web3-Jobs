@@ -195167,11 +195167,21 @@
         "Cointelegraph"
       ],
       "id": "2e3e37d0a18c86d734ba",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T10:58:36.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "reason": "price-chatter",
+      "note": "Read Cointelegraph's Nov 18 markets piece in full. It is price commentary on bitcoin versus gold and equities around Fed official Christopher Waller's CNBC remarks, with analyst takes on outflows; it reports no concrete Web3 event such as a launch, vote, ruling or filing.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-19T01:53:21.305Z",
+      "lastReviewedDay": "2026-11-19"
     },
     "57ff5702adc65a0adafc": {
       "source": "The Defiant",
@@ -197826,11 +197836,25 @@
         "The Defiant"
       ],
       "id": "ac3a00cbe99351094fe3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T21:49:22.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "reason": "out-of-scope",
+      "note": "Read Crypto Briefing's Nov 18 launch report in full. Gemini 4 Neon is a Google DeepMind model release with pricing and benchmark details and no Web3 or crypto connection; the only other outlet listed, The Defiant, returned HTTP 403, so the story would also lack a second readable independent source.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/google-deepmind-gemini-4-neon-launch/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/frontier/ai/google-rolls-out-gemini-4-neon-for-complex-ai-work",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-19T01:53:21.305Z",
+      "lastReviewedDay": "2026-11-19"
     },
     "76986625a5272e08ac2f": {
       "source": "Decrypt",
@@ -381175,6 +381199,34 @@
           ],
           "reviewedAt": "2026-11-19T01:44:34.007Z",
           "articleSlug": "wallerrate"
+        },
+        "ac3a00cbe99351094fe3": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read Crypto Briefing's Nov 18 launch report in full. Gemini 4 Neon is a Google DeepMind model release with pricing and benchmark details and no Web3 or crypto connection; the only other outlet listed, The Defiant, returned HTTP 403, so the story would also lack a second readable independent source.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/google-deepmind-gemini-4-neon-launch/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/google-rolls-out-gemini-4-neon-for-complex-ai-work",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:53:21.305Z"
+        },
+        "2e3e37d0a18c86d734ba": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Cointelegraph's Nov 18 markets piece in full. It is price commentary on bitcoin versus gold and equities around Fed official Christopher Waller's CNBC remarks, with analyst takes on outflows; it reports no concrete Web3 event such as a launch, vote, ruling or filing.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:53:21.305Z"
         }
       },
       "baselineSlugs": [
