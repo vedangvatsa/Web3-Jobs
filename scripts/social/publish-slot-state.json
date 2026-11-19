@@ -1276,6 +1276,28 @@
         "rolloutId": "daily-20261119-44435880972-1",
         "buildState": "NOT_FOUND",
         "observedAt": "2026-11-19T19:31:50.048Z"
+      },
+      {
+        "date": "2026-11-19",
+        "id": "44599080535-1",
+        "sourceCommit": "e18f4d5a1456fb5778e043f36ed52616eaaa5c9c",
+        "jobsCheckedAt": "2026-11-19T03:43:29.509Z",
+        "newsCompletedAt": "2026-11-19T03:06:57.865Z",
+        "articleSlugs": [
+          "cftchearing",
+          "anton",
+          "wallerrate",
+          "kalshihalt",
+          "binanceorder",
+          "maradebt",
+          "backpackfcm",
+          "ledgerberlin",
+          "buchanansentence"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-19T19:31:55.223Z",
+        "buildId": "daily-20261119-44599080535-1",
+        "rolloutId": "daily-20261119-44599080535-1"
       }
     ]
   }
