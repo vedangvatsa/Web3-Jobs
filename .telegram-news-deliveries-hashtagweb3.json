@@ -559,5 +559,36 @@
     "slotKey": "2026-11-19:morning",
     "messageId": 156345,
     "sentAt": "2026-11-19T03:39:17.769Z"
+  },
+  "76bd38f1-7cd5-4340-8db2-b64edf442ebb": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T11:37:21.806Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Lighter Reopens Withdrawals After Recovering $5 Million",
+        "summary": "A compromised trader API key enabled a $10.39 million USDC theft, of which the DEX recovered about half.",
+        "link": "https://hashtagweb3.com/lighterhalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Lighter restores withdrawals and recovers $5 million after $10.4 million exploit"
+      },
+      {
+        "index": -1,
+        "headline": "Megaspeed confirms Alice Huang left as firm investigates espionage claims",
+        "summary": "The firm denied claims about its operations and appointed external counsel to investigate following Huang's August 30 departure.",
+        "link": "https://hashtagweb3.com/megaspeed?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Megaspeed confirms Alice Huang left in August 2025 as espionage claims swirl"
+      },
+      {
+        "index": -1,
+        "headline": "Strategy buys 485 bitcoin and $228 million in shares",
+        "summary": "Total holdings reached 850,849 bitcoin following the firm's latest transactions during the week of November 15.",
+        "link": "https://hashtagweb3.com/strategy485?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Strategy buys 485 bitcoin for $33.4 million as preferred buybacks reach $228 million"
+      }
+    ],
+    "slotKey": "2026-11-19:afternoon"
   }
 }
