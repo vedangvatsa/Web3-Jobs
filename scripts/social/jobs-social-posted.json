@@ -159183,7 +159183,8 @@
       },
       "account": "channel:design",
       "attemptId": "4654c031-3d5d-4000-9455-37841cb23bc9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2acd3d3e5408a7948bae8252b0d1fc9a21359532"
     }
   ]
 }
