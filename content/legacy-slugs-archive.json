@@ -158790,5 +158790,51 @@
     "company": "BitOasis",
     "title": "Senior Software Engineer - Android",
     "newSlug": "eng833"
+  },
+  "mkt129": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt168"
+  },
+  "cmp141": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp188"
+  },
+  "pm401": {
+    "id": "8382331",
+    "link": "https://www.coinbase.com/careers/positions/8382331?gh_jid=8382331",
+    "company": "Coinbase",
+    "title": "Product Manager I - International"
+  },
+  "tir10": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "pm380": {
+    "id": "66801d1e-351f-4e90-81e2-82b0695a040d",
+    "link": "https://jobs.lever.co/BTSE/66801d1e-351f-4e90-81e2-82b0695a040d",
+    "company": "BTSE",
+    "title": "Senior Product Manager (B2B Product)"
+  },
+  "eng831": {
+    "id": "202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "link": "https://jobs.ashbyhq.com/hifi/202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "company": "HIFI",
+    "title": "Software Engineer, Blockchain",
+    "newSlug": "eng834"
+  },
+  "sls540": {
+    "id": "4725490006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4725490006",
+    "company": "Fireblocks",
+    "title": "Sales Director, Payments",
+    "newSlug": "sls541"
   }
 }

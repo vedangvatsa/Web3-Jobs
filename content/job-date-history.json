@@ -46907,5 +46907,14 @@
     "date": "2026-11-18T12:34:52+01:00",
     "dateVerified": true,
     "dateSource": "Bizneo.JobPosting.datePosted"
+  },
+  "greenhouse:4728626006": {
+    "date": "2026-11-18T21:32:32-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:ba7c8355-8d3b-4c4b-bd8d-c1a5db5c89e0": {
+    "date": "2026-11-19T02:08:17.612Z",
+    "dateVerified": true
   }
 }

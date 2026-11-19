@@ -1,5 +1,33 @@
 [
   {
+    "id": "4728626006",
+    "title": "Senior Marketing Manager, APAC",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4728626006",
+    "date": "2026-11-18T21:32:32-05:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Fireblocks [fireblocks]",
+    "location": "Singapore",
+    "department": "Marketing",
+    "active": true,
+    "slug": "mkt164",
+    "dateVerified": true
+  },
+  {
+    "id": "ba7c8355-8d3b-4c4b-bd8d-c1a5db5c89e0",
+    "title": "Director, Digital Trust and Resilience",
+    "company": "Crypto.com",
+    "link": "https://jobs.lever.co/crypto/ba7c8355-8d3b-4c4b-bd8d-c1a5db5c89e0",
+    "date": "2026-11-19T02:08:17.612Z",
+    "source": "Lever: Crypto.com [crypto]",
+    "location": "Hybrid (Seoul)",
+    "workplaceType": "hybrid",
+    "department": "Security",
+    "active": true,
+    "slug": "rs29",
+    "dateVerified": true
+  },
+  {
     "id": "8207800003",
     "title": "Partner 6, Executive Assistant, Frontier",
     "company": "a16z crypto",
@@ -11,8 +39,8 @@
     "department": "Crypto",
     "active": true,
     "salary": "$149k – $165k/yr",
-    "slug": "aso100",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aso100"
   },
   {
     "id": "88441980-1cb0-46a2-ae01-ee358650fd6c",
@@ -26,8 +54,8 @@
     "workplaceType": "Remote",
     "department": "Compliance",
     "active": true,
-    "slug": "bao",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "bao"
   },
   {
     "id": "b113cd97-5c66-48a1-8949-8a748becad47",
@@ -41,8 +69,8 @@
     "workplaceType": "Remote",
     "department": "Technology",
     "active": true,
-    "slug": "eng830",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng830"
   },
   {
     "id": "8400323",
@@ -56,8 +84,8 @@
     "department": "Engineering - Backend",
     "active": true,
     "salary": "$152.4k – $179.3k/yr",
-    "slug": "eng829",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng829"
   },
   {
     "id": "df3b7383-2900-4e72-acb0-eb3c1667573c",
@@ -71,8 +99,8 @@
     "workplaceType": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "sec182",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec182"
   },
   {
     "id": "13ab13db-df13-4093-847a-acc31f88f46e",
@@ -86,8 +114,8 @@
     "workplaceType": "Hybrid",
     "department": "Finance & Accounting",
     "active": true,
-    "slug": "dt",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "dt"
   },
   {
     "id": "4f9a0c1c-e29f-4fe1-8117-191ce1bd04d4",
@@ -101,8 +129,8 @@
     "workplaceType": "Remote",
     "department": "Legal",
     "active": true,
-    "slug": "pm426",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm426"
   },
   {
     "id": "f90d32c1-7c10-4161-8913-075e1b423697",
@@ -116,8 +144,8 @@
     "workplaceType": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "eng828",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng828"
   },
   {
     "id": "8112754003",
@@ -131,8 +159,8 @@
     "department": "Strategic Markets",
     "active": true,
     "salary": "$107.0k – $160.5k/yr",
-    "slug": "an147",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "an147"
   },
   {
     "id": "8374754",
@@ -145,8 +173,8 @@
     "location": "San Francisco, CA",
     "department": "1342 Payment Performance",
     "active": true,
-    "slug": "ppsf",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ppsf"
   },
   {
     "id": "5487073008",
@@ -160,8 +188,8 @@
     "department": "Commercial",
     "active": true,
     "salary": "$40k – $75k/yr",
-    "slug": "sls539",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls539"
   },
   {
     "id": "6dceb82a-2dd4-4224-a583-12f373f17d11",
@@ -175,8 +203,8 @@
     "workplaceType": "Remote",
     "department": "Corporate Functions",
     "active": true,
-    "slug": "ops114",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops114"
   },
   {
     "id": "6186844004",
@@ -189,8 +217,8 @@
     "location": "Remote - EMEA",
     "department": "Engineering",
     "active": true,
-    "slug": "ops113",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops113"
   },
   {
     "id": "fb3b060e-83d9-497f-8c7b-98e942c2fdd2",
@@ -204,8 +232,8 @@
     "workplaceType": "Hybrid",
     "department": "Marketing",
     "active": true,
-    "slug": "mkt162",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt162"
   },
   {
     "id": "b79b9692-f1a0-459d-854c-50518a827918",
@@ -219,8 +247,8 @@
     "workplaceType": "Hybrid",
     "department": "Marketing",
     "active": true,
-    "slug": "mkt160",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mkt160"
   },
   {
     "id": "20c96151-c716-4498-88f5-7567d50ab97e",
@@ -234,8 +262,8 @@
     "workplaceType": "Remote",
     "department": "Design",
     "active": true,
-    "slug": "pm425",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm425"
   },
   {
     "id": "1de8e4bb-224d-43f3-b826-be513d13243c",
@@ -249,8 +277,8 @@
     "workplaceType": "Remote",
     "department": "Design",
     "active": true,
-    "slug": "pm424",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm424"
   },
   {
     "id": "69295",
@@ -277,8 +305,8 @@
     "location": "SEA, NYC",
     "department": "6426 Monetization Operations",
     "active": true,
-    "slug": "sls538",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls538"
   },
   {
     "id": "69294",
@@ -320,8 +348,8 @@
     "workplaceType": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "des16",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "des16"
   },
   {
     "id": "8311332",
@@ -335,8 +363,8 @@
     "department": "Institutional Sales, Trading, and Prime Services",
     "active": true,
     "salary": "$253.9k – $298.7k/yr",
-    "slug": "sls537",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls537"
   },
   {
     "id": "4237a126-68f1-495a-b8fc-39f9f59054f1",
@@ -350,8 +378,8 @@
     "workplaceType": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "qa108",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "qa108"
   },
   {
     "id": "8397873",
@@ -365,8 +393,8 @@
     "department": "Design",
     "active": true,
     "salary": "$207.5k – $244.1k/yr",
-    "slug": "pm318",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm318"
   },
   {
     "id": "4f05bef8-d46c-4d93-8d8d-f03030bc9065",
@@ -380,8 +408,8 @@
     "workplaceType": "Remote",
     "department": "GTM",
     "active": true,
-    "slug": "aso74",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "aso74"
   },
   {
     "id": "2635563",
@@ -393,8 +421,8 @@
     "location": "Remote (Worldwide)",
     "department": "Engineering",
     "active": true,
-    "slug": "dev53",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "dev53"
   },
   {
     "id": "5040707101",
@@ -407,8 +435,8 @@
     "location": "NYC",
     "department": "Banking",
     "active": true,
-    "slug": "mgr276",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr276"
   },
   {
     "id": "8387804",
@@ -421,8 +449,8 @@
     "location": "SF, NYC",
     "department": "6480 Internal Audit",
     "active": true,
-    "slug": "sec181",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec181"
   },
   {
     "id": "8399778",
@@ -432,12 +460,12 @@
     "date": "2026-11-18T12:35:50-05:00",
     "dateSource": "Greenhouse.first_published",
     "source": "Greenhouse: Robinhood [robinhood]",
-    "location": "Menlo Park, CA",
+    "location": "Denver, CO; Menlo Park, CA; New York, NY; Westlake, TX",
     "department": "[INACTIVE] Crypto Compliance",
     "active": true,
     "salary": "$140k – $165k/yr",
-    "slug": "cmp186",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp186"
   },
   {
     "id": "5017672101",
@@ -450,8 +478,8 @@
     "location": "London",
     "department": "Engineering",
     "active": true,
-    "slug": "sec122",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec122"
   },
   {
     "id": "6265138004",
@@ -464,8 +492,8 @@
     "location": "Afton, TX",
     "department": "Early Careers",
     "active": true,
-    "slug": "eng825",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng825"
   },
   {
     "id": "6265126004",
@@ -478,8 +506,8 @@
     "location": "London, UK",
     "department": "Engineering",
     "active": true,
-    "slug": "eng824",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng824"
   },
   {
     "id": "5485941008",
@@ -493,8 +521,8 @@
     "department": "10301 Hardware - Square",
     "active": true,
     "salary": "$189k – $283.6k/yr",
-    "slug": "qa107",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "qa107"
   },
   {
     "id": "cfc31baf-4d1a-40d6-892e-a2e8b6f6d723",
@@ -508,8 +536,8 @@
     "workplaceType": "OnSite",
     "department": "Engineering",
     "active": true,
-    "slug": "ops112",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ops112"
   },
   {
     "id": "4512315009",
@@ -522,8 +550,8 @@
     "location": "Remote, United States",
     "department": "Engineering ",
     "active": true,
-    "slug": "eng823",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng823"
   },
   {
     "id": "8383464",
@@ -536,8 +564,8 @@
     "location": "New York, NY; Seattle; San Francisco",
     "department": "8610 Security Engineers",
     "active": true,
-    "slug": "sec121",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sec121"
   },
   {
     "id": "8200548003",
@@ -551,8 +579,8 @@
     "department": "Internships & Early Careers",
     "active": true,
     "salary": "$35 – $40/hr",
-    "slug": "int61",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "int61"
   },
   {
     "id": "5041477101",
@@ -566,8 +594,8 @@
     "department": "Compliance",
     "active": true,
     "salary": "€25k – €35k/yr",
-    "slug": "ob18",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "ob18"
   },
   {
     "id": "8397260",
@@ -580,8 +608,8 @@
     "location": "South San Francisco",
     "department": "6220 Executive Operations",
     "active": true,
-    "slug": "abpo2",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "abpo2"
   },
   {
     "id": "8398941",
@@ -608,8 +636,8 @@
     "location": "Remote - US",
     "department": "4150 Technical Support",
     "active": true,
-    "slug": "eng822",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng822"
   },
   {
     "id": "81a13891-b019-4369-89e1-52ec801a1dcc",
@@ -623,8 +651,8 @@
     "workplaceType": "Hybrid",
     "department": "Solutions Consulting",
     "active": true,
-    "slug": "mgr275",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr275"
   },
   {
     "id": "cf9d2789-c9e6-4c23-9e2a-e7ed8795e8ad",
@@ -637,8 +665,8 @@
     "workplaceType": "onsite",
     "department": "Compliance",
     "active": true,
-    "slug": "cmp185",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp185"
   },
   {
     "id": "2d6568d4-98bd-4852-9551-698851e1b608",
@@ -652,8 +680,8 @@
     "workplaceType": "Remote",
     "department": "Finance & Accounting",
     "active": true,
-    "slug": "sdi",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sdi"
   },
   {
     "id": "8275259",
@@ -666,8 +694,8 @@
     "location": "Seattle, WA, Chicago, IL",
     "department": "1141 AMER Delivery",
     "active": true,
-    "slug": "eng819",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng819"
   },
   {
     "id": "8393436",
@@ -680,8 +708,8 @@
     "location": "Malaysia",
     "department": "1512 Global Sales Enablement",
     "active": true,
-    "slug": "sls342",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls342"
   },
   {
     "id": "8392755",
@@ -694,8 +722,8 @@
     "location": "Dublin",
     "department": "1185 Account Executives (EMEA)",
     "active": true,
-    "slug": "sls324",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls324"
   },
   {
     "id": "89351eb5-2d24-4c64-aef9-abc48fcfa7a8",
@@ -709,8 +737,8 @@
     "workplaceType": "Remote",
     "department": "Sales",
     "active": true,
-    "slug": "sls311",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls311"
   },
   {
     "id": "673c3adf-dc19-4a06-9b68-083f1e8a731d",
@@ -724,8 +752,8 @@
     "workplaceType": "OnSite",
     "department": "FLOP",
     "active": true,
-    "slug": "cmp184",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "cmp184"
   },
   {
     "id": "6264915004",
@@ -738,8 +766,8 @@
     "location": "London, UK",
     "department": "Engineering",
     "active": true,
-    "slug": "rs15",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "rs15"
   },
   {
     "id": "2f728145-d821-4e28-9359-22f59632f049",
@@ -753,8 +781,8 @@
     "department": "Predictions",
     "salary": "USD 150,000 - USD 200,000 per year",
     "active": true,
-    "slug": "mgr274",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr274"
   },
   {
     "id": "170538",
@@ -779,8 +807,8 @@
     "location": "London",
     "department": "Trading",
     "active": true,
-    "slug": "tr131",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "tr131"
   },
   {
     "id": "0bf068a3-4290-402d-a1fe-8413bd5b8cd1",
@@ -794,8 +822,8 @@
     "workplaceType": null,
     "department": "Cyprus",
     "active": true,
-    "slug": "mgr192",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "mgr192"
   },
   {
     "id": "0000326",
@@ -820,8 +848,8 @@
     "location": "LOCATION",
     "department": "1154 Specialized Solutions Architecture",
     "active": true,
-    "slug": "arc25",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "arc25"
   },
   {
     "id": "8358823",
@@ -834,8 +862,8 @@
     "location": "Bengaluru",
     "department": "1195 Account Executives (APAC)",
     "active": true,
-    "slug": "sls310",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls310"
   },
   {
     "id": "8352487",
@@ -848,8 +876,8 @@
     "location": "Bangalore",
     "department": "1195 Account Executives (APAC)",
     "active": true,
-    "slug": "sls309",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "sls309"
   },
   {
     "id": "8949497002",
@@ -862,8 +890,8 @@
     "location": "Toronto, Ontario, Canada",
     "department": "Product",
     "active": true,
-    "slug": "pm316",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm316"
   },
   {
     "id": "8949492002",
@@ -876,8 +904,8 @@
     "location": "New York, NY",
     "department": "Product",
     "active": true,
-    "slug": "pm315",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm315"
   },
   {
     "id": "8241579",
@@ -891,8 +919,8 @@
     "department": "ENG Data and AI Platform Division",
     "active": true,
     "salary": "$191k – $225k/yr",
-    "slug": "pm314",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "pm314"
   },
   {
     "id": "JR2001301",
@@ -991,6 +1019,20 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls535"
+  },
+  {
+    "id": "4727541006",
+    "title": "Sales Engineer",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4727541006",
+    "date": "2026-11-17T20:57:39-05:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Fireblocks [fireblocks]",
+    "location": "Singapore",
+    "department": "Sales",
+    "active": true,
+    "dateVerified": true,
+    "slug": "eng831"
   },
   {
     "id": "4725485006",
@@ -2192,22 +2234,6 @@
     "slug": "sls522"
   },
   {
-    "id": "3BE6A808BB",
-    "title": "Hyperscaler Partnerships Manager",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/3BE6A808BB",
-    "date": "2026-11-17T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Remote (Cyprus / United Arab Emirates / United States / London, United Kingdom / Singapore)",
-    "isRemote": true,
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr270"
-  },
-  {
     "id": "B8AEA254E2",
     "title": "Head of Site Acquisition & Power",
     "company": "GoMining",
@@ -2224,6 +2250,22 @@
     "slug": "sap"
   },
   {
+    "id": "3BE6A808BB",
+    "title": "Hyperscaler Partnerships Manager",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/3BE6A808BB",
+    "date": "2026-11-17T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Remote (Cyprus / United Arab Emirates / United States / London, United Kingdom / Singapore)",
+    "isRemote": true,
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "dateVerified": true,
+    "slug": "mgr270"
+  },
+  {
     "id": "19D8AD74B2",
     "title": "Business Growth Intern",
     "company": "Ajaib Crypto",
@@ -2231,7 +2273,10 @@
     "date": "2026-11-17",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Strategy",
+    "isRemote": false,
+    "department": [
+      "Strategy"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "mkt155"
@@ -2244,7 +2289,8 @@
     "date": "2026-11-17",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": null,
+    "isRemote": false,
+    "department": [],
     "active": true,
     "dateVerified": true,
     "slug": "sls523"
@@ -3389,8 +3435,11 @@
     "link": "https://apply.workable.com/j/FA3B1DDBCB",
     "date": "2026-11-16T00:00:00.000Z",
     "source": "Workable: GoMining [gomining]",
-    "location": "Georgia",
-    "department": "Marketing",
+    "location": "Remote (Serbia / Spain / Cyprus / Georgia / Armenia / Poland)",
+    "isRemote": true,
+    "department": [
+      "Marketing"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "des20"
@@ -3403,7 +3452,8 @@
     "date": "2026-11-16",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Central Jakarta, Indonesia",
-    "department": null,
+    "isRemote": false,
+    "department": [],
     "active": true,
     "dateVerified": true,
     "slug": "wm"
@@ -4170,21 +4220,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng784"
-  },
-  {
-    "id": "8382331",
-    "title": "Product Manager I - International",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8382331?gh_jid=8382331",
-    "date": "2026-11-13T01:47:58-05:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Remote - Singapore",
-    "department": "Product",
-    "active": true,
-    "salary": "$143.7k/yr",
-    "dateVerified": true,
-    "slug": "pm401"
   },
   {
     "id": "5026840101",
@@ -5522,7 +5557,7 @@
   },
   {
     "id": "8355374",
-    "title": "Customer Success Manager (Korea)",
+    "title": "Customer Success Manager (Korea Market)",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8355374",
     "date": "2026-11-12T01:27:12-05:00",
@@ -5564,7 +5599,7 @@
   },
   {
     "id": "8355371",
-    "title": "Customer Success Manager (Cross Border China)",
+    "title": "Customer Success Manager (China Market)",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8355371",
     "date": "2026-11-12T00:38:29-05:00",
@@ -5902,28 +5937,6 @@
     "slug": "eng589"
   },
   {
-    "id": "f24a40b607ce",
-    "title": "Financial Accountant / Senior Financial Accountant",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/f24a40b607ce-financial-accountant-senior-financial-accountant",
-    "date": "2026-11-12",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Penang, MY",
-    "isRemote": false,
-    "department": "Finance",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/f24a40b607ce-financial-accountant-senior-financial-accountant",
-      "checkedAt": "2026-11-18T03:33:29.363Z",
-      "bodySha256": "0dd939916232166f24790420d67f4644e5463bb6e075ad96b99be57dd041c257",
-      "provider": "breezy",
-      "datePosted": "2026-11-12"
-    },
-    "slug": "sls521"
-  },
-  {
     "id": "71ce1900dee7",
     "title": "Finance Business Partner",
     "company": "Bitdeer",
@@ -5944,6 +5957,28 @@
       "datePosted": "2026-11-12"
     },
     "slug": "fbp2"
+  },
+  {
+    "id": "f24a40b607ce",
+    "title": "Financial Accountant / Senior Financial Accountant",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/f24a40b607ce-financial-accountant-senior-financial-accountant",
+    "date": "2026-11-12",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Penang, MY",
+    "isRemote": false,
+    "department": "Finance",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/f24a40b607ce-financial-accountant-senior-financial-accountant",
+      "checkedAt": "2026-11-18T03:33:29.363Z",
+      "bodySha256": "0dd939916232166f24790420d67f4644e5463bb6e075ad96b99be57dd041c257",
+      "provider": "breezy",
+      "datePosted": "2026-11-12"
+    },
+    "slug": "sls521"
   },
   {
     "id": "94bb817da00f",
@@ -9585,23 +9620,13 @@
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Design",
+    "isRemote": false,
+    "department": [
+      "Design"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "des19"
-  },
-  {
-    "id": "8BC3363A24",
-    "title": "Senior Backend Engineer II (Team Lead) - US Stocks",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/8BC3363A24",
-    "date": "2026-11-09",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "be113"
   },
   {
     "id": "B3897A6BAC",
@@ -9610,11 +9635,30 @@
     "link": "https://apply.workable.com/j/B3897A6BAC",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "eng726"
+  },
+  {
+    "id": "8BC3363A24",
+    "title": "Senior Backend Engineer II (Team Lead) - US Stocks",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/8BC3363A24",
+    "date": "2026-11-09",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand / Poland)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
+    "active": true,
+    "dateVerified": true,
+    "slug": "be113"
   },
   {
     "id": "2D24C9E644",
@@ -9623,8 +9667,11 @@
     "link": "https://apply.workable.com/j/2D24C9E644",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be101"
@@ -9636,8 +9683,11 @@
     "link": "https://apply.workable.com/j/BEBE6194ED",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand / Poland)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be114"
@@ -9708,8 +9758,11 @@
     "link": "https://apply.workable.com/j/F777EB0517",
     "date": "2026-11-08",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "eng462"
@@ -9721,8 +9774,11 @@
     "link": "https://apply.workable.com/j/2C5DC33098",
     "date": "2026-11-08",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand / Poland)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be67"
@@ -12396,28 +12452,6 @@
     "slug": "eng413"
   },
   {
-    "id": "334e4c8e49f601",
-    "title": "Regulatory Compliance Specialist",
-    "company": "Nexo",
-    "link": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
-    "date": "2026-11-05",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Nexo [nexo]",
-    "location": "Sofia, BG",
-    "isRemote": false,
-    "department": "Legal & Regulatory Compliance",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
-      "checkedAt": "2026-11-06T00:30:54.152Z",
-      "bodySha256": "f552f38dee6894e2963503fae535b75023878a0c460bcf76e0ac77ea0ea0ea67",
-      "provider": "breezy",
-      "datePosted": "2026-11-05"
-    },
-    "slug": "cmp92"
-  },
-  {
     "id": "72b1be57698101",
     "title": "Senior Regulatory Compliance Specialist",
     "company": "Nexo",
@@ -12438,6 +12472,28 @@
       "datePosted": "2026-11-05"
     },
     "slug": "cmp93"
+  },
+  {
+    "id": "334e4c8e49f601",
+    "title": "Regulatory Compliance Specialist",
+    "company": "Nexo",
+    "link": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
+    "date": "2026-11-05",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Nexo [nexo]",
+    "location": "Sofia, BG",
+    "isRemote": false,
+    "department": "Legal & Regulatory Compliance",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://nexo.breezy.hr/p/334e4c8e49f601-regulatory-compliance-specialist",
+      "checkedAt": "2026-11-06T00:30:54.152Z",
+      "bodySha256": "f552f38dee6894e2963503fae535b75023878a0c460bcf76e0ac77ea0ea0ea67",
+      "provider": "breezy",
+      "datePosted": "2026-11-05"
+    },
+    "slug": "cmp92"
   },
   {
     "id": "a8c2bfcd-640f-4af1-90b4-8540a01f615a",
@@ -12965,7 +13021,7 @@
     "applyUrl": "https://jobs.ashbyhq.com/hifi/202b2b8b-afe5-40b1-9c4b-2817d01419ca/application",
     "active": true,
     "dateVerified": true,
-    "slug": "eng831"
+    "slug": "eng834"
   },
   {
     "id": "3d52bffc-749a-4130-b3c8-476c3215743e",
@@ -13800,8 +13856,11 @@
     "link": "https://apply.workable.com/j/9D04545263",
     "date": "2026-11-04",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be103"
@@ -13813,8 +13872,11 @@
     "link": "https://apply.workable.com/j/57E66C06BE",
     "date": "2026-11-04",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand / Poland)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be102"
@@ -13827,7 +13889,10 @@
     "date": "2026-11-04",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": "Operations",
+    "isRemote": false,
+    "department": [
+      "Operations"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "ops91"
@@ -14914,8 +14979,11 @@
     "link": "https://apply.workable.com/j/82D0418695",
     "date": "2026-11-03",
     "source": "Workable: GoMining [gomining]",
-    "location": "Poland",
-    "department": "Support",
+    "location": "Remote (Cyprus / Serbia / Georgia / Armenia / Malta / Poland)",
+    "isRemote": true,
+    "department": [
+      "Support"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "mgr226"
@@ -15544,6 +15612,20 @@
     "slug": "sec141"
   },
   {
+    "id": "8334387",
+    "title": "Customer Support Specialist ll",
+    "company": "Coinbase",
+    "link": "https://www.coinbase.com/careers/positions/8334387?gh_jid=8334387",
+    "date": "2026-11-02T09:12:41-05:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Coinbase [coinbase]",
+    "location": "Manila, Philippines",
+    "department": "Customer Experience",
+    "active": true,
+    "dateVerified": true,
+    "slug": "cssl15"
+  },
+  {
     "id": "af030479-f72e-489f-9a76-794cc1d35fac",
     "title": "Staff Data Scientist, Marketing Science ($300k - $400k salary + bonus)",
     "company": "pump.fun",
@@ -15629,20 +15711,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng696"
-  },
-  {
-    "id": "8337049",
-    "title": "Customer Support Specialist ll",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8337049?gh_jid=8337049",
-    "date": "2026-11-02T05:20:58-05:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Manila, Philippines",
-    "department": "Customer Experience",
-    "active": true,
-    "dateVerified": true,
-    "slug": "cssl14"
   },
   {
     "id": "8335426",
@@ -15908,19 +15976,6 @@
     "slug": "sls214"
   },
   {
-    "id": "5E5FADBEA0",
-    "title": "Backend Engineer - Money",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/5E5FADBEA0",
-    "date": "2026-11-02",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "be99"
-  },
-  {
     "id": "65B230465C",
     "title": "Collection Manager / Senior Manager",
     "company": "Ajaib Crypto",
@@ -15928,10 +15983,27 @@
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Central Jakarta, Indonesia",
-    "department": null,
+    "isRemote": false,
+    "department": [],
     "active": true,
     "dateVerified": true,
     "slug": "mgr126"
+  },
+  {
+    "id": "5E5FADBEA0",
+    "title": "Backend Engineer - Money",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/5E5FADBEA0",
+    "date": "2026-11-02",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Remote (Jakarta, Indonesia)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
+    "active": true,
+    "dateVerified": true,
+    "slug": "be99"
   },
   {
     "id": "23E677EEE1",
@@ -15940,8 +16012,11 @@
     "link": "https://apply.workable.com/j/23E677EEE1",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be97"
@@ -15953,8 +16028,11 @@
     "link": "https://apply.workable.com/j/57DA69985E",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be98"
@@ -15966,8 +16044,11 @@
     "link": "https://apply.workable.com/j/EE299BDA8C",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be49"
@@ -15979,11 +16060,36 @@
     "link": "https://apply.workable.com/j/B4AD47F599",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be100"
+  },
+  {
+    "id": "dab20211c983",
+    "title": "AI Datacenter Construction Cost Lead",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Columbus, OH",
+    "isRemote": false,
+    "department": "",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
+      "checkedAt": "2026-11-05T00:30:49.947Z",
+      "bodySha256": "0f2b8f1be757e7a977140a0d2825e1e6ba53173f24595e369f7b09b004260b50",
+      "provider": "breezy",
+      "datePosted": "2026-11-02"
+    },
+    "slug": "adcc"
   },
   {
     "id": "68ff9c2948ca",
@@ -16028,28 +16134,6 @@
       "datePosted": "2026-11-02"
     },
     "slug": "mgr225"
-  },
-  {
-    "id": "dab20211c983",
-    "title": "AI Datacenter Construction Cost Lead",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
-    "date": "2026-11-02",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Columbus, OH",
-    "isRemote": false,
-    "department": "",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
-      "checkedAt": "2026-11-05T00:30:49.947Z",
-      "bodySha256": "0f2b8f1be757e7a977140a0d2825e1e6ba53173f24595e369f7b09b004260b50",
-      "provider": "breezy",
-      "datePosted": "2026-11-02"
-    },
-    "slug": "adcc"
   },
   {
     "id": "e89b32dd03f5",
@@ -16783,6 +16867,21 @@
     "slug": "sls376"
   },
   {
+    "id": "4725490006",
+    "title": "Sales Director, Payments",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4725490006",
+    "date": "2026-10-30T10:31:40-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Fireblocks [fireblocks]",
+    "location": "New York",
+    "department": "Sales",
+    "active": true,
+    "salary": "$280k – $390k/yr",
+    "dateVerified": true,
+    "slug": "sls541"
+  },
+  {
     "id": "8336819",
     "title": "Blockchain Security Engineer, Bridge",
     "company": "Stripe",
@@ -17188,7 +17287,8 @@
     "date": "2026-10-30",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Central Jakarta, Indonesia",
-    "department": null,
+    "isRemote": false,
+    "department": [],
     "active": true,
     "dateVerified": true,
     "slug": "pm348"
@@ -18136,6 +18236,20 @@
     "dateVerified": true,
     "dateSource": "Lever.createdAt",
     "slug": "aso85"
+  },
+  {
+    "id": "8066179003",
+    "title": "Head of Tax Information Reporting",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8066179003",
+    "date": "2026-10-29T03:19:19-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "EMEA (Remote)",
+    "department": "Compliance",
+    "active": true,
+    "dateVerified": true,
+    "slug": "tir10"
   },
   {
     "id": "8333165",
@@ -19838,20 +19952,6 @@
     "slug": "sec97"
   },
   {
-    "id": "8046685003",
-    "title": "Head of Tax Information Reporting",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
-    "date": "2026-10-27T16:32:34-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "EMEA (Remote)",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "tir10"
-  },
-  {
     "id": "e8815463-ee2b-4fb8-bb18-4890866dc61a",
     "title": "Accounts Payable Accountant (Remote)",
     "company": "Alchemy",
@@ -20682,7 +20782,10 @@
     "date": "2026-10-27",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": "People",
+    "isRemote": false,
+    "department": [
+      "People"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "ops68"
@@ -21699,8 +21802,11 @@
     "link": "https://apply.workable.com/j/CD94A01357",
     "date": "2026-10-26",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be91"
@@ -21712,8 +21818,11 @@
     "link": "https://apply.workable.com/j/2E1DBD4A14",
     "date": "2026-10-26",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Cairo, Egypt",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand / Cairo, Egypt)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be90"
@@ -21816,8 +21925,11 @@
     "link": "https://apply.workable.com/j/17D23FFBAC",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
-    "department": "Engineering",
+    "location": "Jakarta, Indonesia / Bangkok, Thailand",
+    "isRemote": false,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be40"
@@ -21829,8 +21941,11 @@
     "link": "https://apply.workable.com/j/FF2A9A5460",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "be89"
@@ -21842,8 +21957,11 @@
     "link": "https://apply.workable.com/j/1F4419D80D",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "mass"
@@ -21855,8 +21973,11 @@
     "link": "https://apply.workable.com/j/3DAF98D87C",
     "date": "2026-10-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
-    "department": "Engineering",
+    "location": "Remote (Jakarta, Indonesia / Bangkok, Thailand)",
+    "isRemote": true,
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "miss"
@@ -23781,7 +23902,10 @@
     "date": "2026-10-22",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Strategy",
+    "isRemote": false,
+    "department": [
+      "Strategy"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "cm12"
@@ -23924,21 +24048,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "cmp"
-  },
-  {
-    "id": "5460545008",
-    "title": "Senior Accountant, AP/AR & Cash",
-    "company": "Mesh",
-    "link": "https://job-boards.greenhouse.io/mesh/jobs/5460545008",
-    "date": "2026-10-21T17:23:04-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Mesh [mesh]",
-    "location": "United States - Remote",
-    "department": "Finance",
-    "active": true,
-    "salary": "$110k – $150k/yr",
-    "dateVerified": true,
-    "slug": "sls118"
   },
   {
     "id": "5460501008",
@@ -24554,18 +24663,18 @@
     "slug": "dpma"
   },
   {
-    "id": "1c718a25-79c6-4dce-8f71-350eda862cef",
-    "title": "Sales Executive, APAC - Banking & Capital Markets",
+    "id": "f192a8ac-f788-4e9e-88d2-3ad906c5e734",
+    "title": "Security Engineer, Product Security",
     "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/1c718a25-79c6-4dce-8f71-350eda862cef",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/f192a8ac-f788-4e9e-88d2-3ad906c5e734",
     "date": "2026-10-21",
     "dateVerified": true,
     "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "Remote (Hong Kong)",
+    "location": "Remote (United States)",
     "workplaceType": "Remote",
-    "department": "Capital Markets",
+    "department": "Security",
     "active": true,
-    "slug": "sls248"
+    "slug": "sec40"
   },
   {
     "id": "1bb1cef4-a656-49ea-8d08-55443aa41617",
@@ -24582,18 +24691,18 @@
     "slug": "er"
   },
   {
-    "id": "f192a8ac-f788-4e9e-88d2-3ad906c5e734",
-    "title": "Security Engineer, Product Security",
+    "id": "1c718a25-79c6-4dce-8f71-350eda862cef",
+    "title": "Sales Executive, APAC - Banking & Capital Markets",
     "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/f192a8ac-f788-4e9e-88d2-3ad906c5e734",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/1c718a25-79c6-4dce-8f71-350eda862cef",
     "date": "2026-10-21",
     "dateVerified": true,
     "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "Remote (United States)",
+    "location": "Remote (Hong Kong)",
     "workplaceType": "Remote",
-    "department": "Security",
+    "department": "Capital Markets",
     "active": true,
-    "slug": "sec40"
+    "slug": "sls248"
   },
   {
     "id": "3F4E74A732",
@@ -24603,7 +24712,10 @@
     "date": "2026-10-21",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Strategy",
+    "isRemote": false,
+    "department": [
+      "Strategy"
+    ],
     "active": true,
     "dateVerified": true,
     "slug": "mgr53"
@@ -25078,21 +25190,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng635"
-  },
-  {
-    "id": "4717630006",
-    "title": "Sales Director, Payments",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position?gh_jid=4717630006",
-    "date": "2026-10-20T11:25:36-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "New York",
-    "department": "Sales",
-    "active": true,
-    "salary": "$280k – $390k/yr",
-    "dateVerified": true,
-    "slug": "sls415"
   },
   {
     "id": "5457200008",
@@ -25581,35 +25678,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr193"
-  },
-  {
-    "id": "66801d1e-351f-4e90-81e2-82b0695a040d",
-    "title": "Senior Product Manager (B2B Product)",
-    "company": "BTSE",
-    "link": "https://jobs.lever.co/BTSE/66801d1e-351f-4e90-81e2-82b0695a040d",
-    "date": "2026-10-20T03:12:00.648Z",
-    "source": "Lever: BTSE [BTSE]",
-    "location": "Remote (Hong Kong)",
-    "workplaceType": "remote",
-    "department": "BTSE",
-    "active": true,
-    "dateVerified": true,
-    "dateSource": "Lever.createdAt",
-    "slug": "pm380"
-  },
-  {
-    "id": "8886061002",
-    "title": "Senior Treasury and FinOps Analyst",
-    "company": "Figure",
-    "link": "https://job-boards.greenhouse.io/figure/jobs/8886061002",
-    "date": "2026-10-19T22:08:19-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Figure [figure]",
-    "location": "Remote",
-    "department": "Finance",
-    "active": true,
-    "salary": "$97.8k – $132.3k/yr",
-    "dateVerified": true,
-    "slug": "an23"
   }
 ]
