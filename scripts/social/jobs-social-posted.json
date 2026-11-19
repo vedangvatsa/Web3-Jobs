@@ -161123,6 +161123,39 @@
       "attemptId": "a4368e11-dcc4-4140-8236-f0e2c6f0588d",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 19-Nov-26 11:39:31 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A3usmsDyvcL3_6iDNwHhYeH\"}"
+    },
+    {
+      "slug": "sls421",
+      "company": "Fireblocks",
+      "title": "Sales Director, DACH",
+      "platform": "bluesky",
+      "postedAt": "2026-11-19T19:39:15.709Z",
+      "expectedText": "Fireblocks is hiring Sales Director, DACH: https://hashtagweb3.com/sls421/bsky?og=7",
+      "snapshot": {
+        "id": "4725951006",
+        "title": "Sales Director, DACH",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4725951006",
+        "date": "2026-11-05T09:00:38-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Berlin, Germany",
+        "department": "Sales",
+        "active": true,
+        "salary": "€80.4k – €110.5k/yr",
+        "dateVerified": true,
+        "slug": "sls421"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director, DACH: https://hashtagweb3.com/sls421/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls421/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls421.png?v=7",
+        "company": "Fireblocks",
+        "title": "Sales Director, DACH",
+        "description": "Join Fireblocks as Sales Director, DACH. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "d2315fe4-a915-416f-bd66-c8f295a33634",
+      "verification": "creating"
     }
   ]
 }
