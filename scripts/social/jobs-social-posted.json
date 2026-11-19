@@ -161696,6 +161696,41 @@
       "attemptId": "cd5ddedb-b6f7-47c5-ab34-1c86813c9845",
       "verification": "verified",
       "postId": "0x14856c317fef1f9be75b74841b123442b4b87b15"
+    },
+    {
+      "slug": "sls421",
+      "company": "Fireblocks",
+      "title": "Sales Director, DACH",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T19:39:15.709Z",
+      "expectedText": "Fireblocks is hiring Sales Director, DACH\n\nhttps://hashtagweb3.com/sls421/fc?og=7",
+      "snapshot": {
+        "id": "4725951006",
+        "title": "Sales Director, DACH",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4725951006",
+        "date": "2026-11-05T09:00:38-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Berlin, Germany",
+        "department": "Sales",
+        "active": true,
+        "salary": "€80.4k – €110.5k/yr",
+        "dateVerified": true,
+        "slug": "sls421"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director, DACH\n\nhttps://hashtagweb3.com/sls421/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls421/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "a7b72022-2677-450e-bbec-297c2475f993",
+      "verification": "creating"
     }
   ]
 }
