@@ -43,6 +43,10 @@ function fastGates(): void {
 }
 
 function main(): void {
+  if (fast) {
+    fastGates();
+    return;
+  }
   run('npx tsx --test scripts/test-job-age-build-snapshot.ts');
   withJobAgeBuildSnapshot(authorization => run('npm run test:job-age', { ...process.env, [JOB_AGE_BUILD_SNAPSHOT_ENV]: authorization }));
   run('npm run test:job-schema');
@@ -59,8 +63,7 @@ function main(): void {
   run('npx tsx scripts/test-responsive-images.ts');
   run('npm run test:social-previews');
   run('npx tsx scripts/test-published-event-slugs.ts');
-  if (fast) fastGates();
-  else fullGates();
+  fullGates();
 }
 
 main();
