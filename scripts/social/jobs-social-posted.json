@@ -155014,6 +155014,35 @@
       "attemptId": "cf4405f5-3ca4-417b-85a1-896f88b1c5b6",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "mkt144",
+      "company": "Kalshi",
+      "title": "Software Engineer, Marketing",
+      "platform": "threads",
+      "postedAt": "2026-11-19T03:37:54.925Z",
+      "expectedText": "Kalshi is hiring Software Engineer, Marketing: https://hashtagweb3.com/mkt144/th?og=7",
+      "snapshot": {
+        "id": "49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+        "title": "Software Engineer, Marketing",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+        "date": "2026-11-10T14:50:01.447+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Growth",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mkt144"
+      },
+      "payload": {
+        "text": "Kalshi is hiring Software Engineer, Marketing: https://hashtagweb3.com/mkt144/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/mkt144/th?og=7"
+      },
+      "attemptId": "8becb51a-b5d2-4e54-8da9-304b70aa550b",
+      "verification": "creating"
     }
   ]
 }
