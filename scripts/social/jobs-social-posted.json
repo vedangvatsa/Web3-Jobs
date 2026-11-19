@@ -157377,7 +157377,8 @@
       },
       "account": "channel:defi",
       "attemptId": "5b083204-49e8-419d-829b-611433f755b4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x16d660729ea484b5836f1420f6dba984ad60ab86"
     }
   ]
 }
