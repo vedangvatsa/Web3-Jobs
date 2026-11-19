@@ -160911,6 +160911,45 @@
       "attemptId": "e9ad8903-7c78-4cbb-ac21-cba5555671da",
       "verification": "verified",
       "postId": "0x8d60a5f0572be1cc90f5dd6d389c40668e500b14"
+    },
+    {
+      "slug": "pm357",
+      "company": "Kamino",
+      "title": "Staff Product Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-19T19:34:53.102Z",
+      "expectedText": "Kamino is hiring Staff Product Manager: https://hashtagweb3.com/pm357/li?og=7",
+      "snapshot": {
+        "id": "98c10c96-67b8-465b-966e-a5a76648b7c1",
+        "title": "Staff Product Manager",
+        "company": "Kamino",
+        "link": "https://talent.superteam.fun/jobs/staff-product-manager-at-kamino-98c10c96-67b8-465b-966e-a5a76648b7c1",
+        "date": "2026-10-23T17:11:58.597664+00:00",
+        "source": "Superteam: Kamino [superteam]",
+        "location": "Remote",
+        "department": "Full-Time",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm357"
+      },
+      "payload": {
+        "text": "Kamino is hiring Staff Product Manager: https://hashtagweb3.com/pm357/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm357/li?og=7",
+          "title": "Staff Product Manager at Kamino",
+          "description": "Join Kamino as Staff Product Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm357.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "9ab0c5b1-2d25-40c9-b562-4091e1fdda67",
+      "verification": "creating"
     }
   ]
 }
