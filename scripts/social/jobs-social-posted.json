@@ -161370,7 +161370,8 @@
       },
       "account": "channel:dev",
       "attemptId": "f1ed6b04-6864-419f-b61e-b855c18b42cd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7dc7e7030ca54a1b200d7a5f561d7efeead17b05"
     }
   ]
 }
