@@ -618,5 +618,40 @@
     "slotKey": "2026-11-18:evening",
     "messageId": 193544,
     "sentAt": "2026-11-18T19:34:33.653Z"
+  },
+  "da3553db-c40a-4a05-ab8e-ee383709ee40": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T03:39:19.919Z",
+    "stories": [
+      {
+        "index": 28,
+        "original_title": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool",
+        "headline": "Artex AI hacking tool gains popularity among cybercriminals",
+        "summary": "The software enables inexperienced users to identify system vulnerabilities and execute attacks using simple natural language prompts.",
+        "event_rationale": "This reports on a specific, newly identified malicious AI tool, distinct from general cybersecurity policy or corporate tool releases.",
+        "link": "https://www.wired.com/story/artex-ai-hacking-tools/",
+        "source": "Wired",
+        "originalTitle": "Artex Is Criminals’ New Favorite ‘Point-and-Shoot’ AI Hacking Tool"
+      },
+      {
+        "index": 26,
+        "original_title": "Agents want the crown jewels: HPE and Daxa push governance down to the data layer",
+        "headline": "HPE and Daxa implement data-layer AI agent governance",
+        "summary": "New security techniques enforce access controls directly on data to prevent autonomous agents from accessing sensitive corporate information.",
+        "event_rationale": "This covers a specific infrastructure-level shift in AI security and governance, distinct from the previously listed Nvidia security updates.",
+        "link": "https://siliconangle.com/2026/11/18/semantic-caching-helps-enforce-ai-agent-governance-inline-sc26/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Agents want the crown jewels: HPE and Daxa push governance down to the data layer"
+      },
+      {
+        "index": 1,
+        "headline": "API Converts Documents to JSON With Citations and Confidence",
+        "summary": "This service extracts information from various file formats into user-defined schemas with specific page and region references.",
+        "link": "https://www.marktechpost.com/2026/11/18/nutrient-data-extraction-api-citations-confidence/",
+        "source": "MarkTechPost",
+        "originalTitle": "Nutrient Data Extraction API: JSON Matching Your Schema With Per-Field Citations and Confidence"
+      }
+    ],
+    "slotKey": "2026-11-19:morning"
   }
 }
