@@ -113,6 +113,15 @@ function splitClauses(text: string): string[] {
   return parts.map(part => part.trim()).filter(Boolean);
 }
 
+/** "Finance Engineering - Mumbai" -> "Finance Engineering": a single trailing word after a dash is a place. */
+function dropTrailingPlace(text: string): string {
+  const match = text.match(/^(.+?)\s[-–—]\s([A-Za-z]+)$/);
+  if (!match) return text;
+  const [, left, right] = match;
+  if (isCraftWord(right) || ROLE_NOUN.test(right) || RANK_PHRASE.test(right)) return text;
+  return left;
+}
+
 function isSeason(text: string): boolean {
   return /^(?:spring|summer|fall|winter|autumn|off[- ]cycle|cohort)\b/i.test(text)
     || (/\b20\d{2}\b/.test(text) && words(text).length <= 4);
@@ -176,7 +185,7 @@ export function displayJobTitle(title: string): string {
   // A bare rank head ("Director", "VP") or a head without a role ("Revenue Operations", "Contractor")
   // needs its first tail to say what the job is, so only later clauses are dropped.
   if (BARE_RANK.test(head) || !ROLE_NOUN.test(head)) {
-    const tail = stripParen(rest[0]);
+    const tail = dropTrailingPlace(stripParen(rest[0]));
     return tail ? `${head}, ${tail}` : head;
   }
 

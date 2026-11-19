@@ -19,6 +19,9 @@ test('keeps a specialty that sits after the comma', () => {
   assert.equal(displayJobTitle('Director, OT Security'), 'Director, OT Security');
   assert.equal(displayJobTitle('Director, Digital Trust and Resilience'), 'Director, Digital Trust and Resilience');
   assert.equal(displayJobTitle('VP, Finance'), 'VP, Finance');
+  assert.equal(displayJobTitle('VP, Finance Engineering - Mumbai'), 'VP, Finance Engineering');
+  assert.equal(displayJobTitle('Manager, Enterprise Sales - UK'), 'Manager, Enterprise Sales');
+  assert.equal(displayJobTitle('Director, Customer Partner Success - Remote'), 'Director, Customer Partner Success');
   assert.equal(displayJobTitle('Staff Engineer, Machine Learning & Data Infrastructure'), 'Staff Engineer, Machine Learning & Data Infrastructure');
   assert.equal(displayJobTitle('Quality Engineering Manager, Hardware'), 'Quality Engineering Manager, Hardware');
   assert.equal(displayJobTitle('Research Engineer, Agentic Systems'), 'Research Engineer, Agentic Systems');
@@ -46,7 +49,6 @@ test('never drops the rank, the employment type, or a second title', () => {
 });
 
 test('does not reorder words or split a comma list', () => {
-  assert.equal(displayJobTitle('VP, Finance Engineering - Mumbai'), 'VP, Finance Engineering - Mumbai');
   assert.equal(displayJobTitle('Lead: AML, CTF, CPF & Sanctions'), 'Lead: AML, CTF, CPF & Sanctions');
   assert.equal(displayJobTitle('Associate General Counsel, Regulatory, Product & Litigation'), 'Associate General Counsel, Regulatory, Product & Litigation');
   assert.equal(displayJobTitle('Software Engineer, Wallets, Liquidity and Bridging Team'), 'Software Engineer, Wallets, Liquidity and Bridging Team');
