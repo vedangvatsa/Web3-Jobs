@@ -4204,5 +4204,121 @@
     "slotKey": "2026-11-19:afternoon",
     "messageId": 16663,
     "sentAt": "2026-11-19T11:32:23.399Z"
+  },
+  "4c1dc9db-b1d8-494f-b2f4-2e3f7aefe92c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T11:32:25.152Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "0377eb17-81a9-426d-b2d9-eec27809935a",
+          "title": "Senior Sales Associate, API (L3)",
+          "company": "CoinGecko",
+          "link": "https://jobs.lever.co/coingecko/0377eb17-81a9-426d-b2d9-eec27809935a",
+          "date": "2026-11-13T08:53:39.115Z",
+          "source": "Lever: CoinGecko [coingecko]",
+          "location": "Remote (Singapore)",
+          "workplaceType": "remote",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls485"
+        },
+        "key": "0377eb17-81a9-426d-b2d9-eec27809935a",
+        "slug": "sls485",
+        "url": "https://hashtagweb3.com/sls485?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinGecko",
+        "title": "Senior Sales Associate"
+      },
+      {
+        "snapshot": {
+          "id": "4725951006",
+          "title": "Sales Director, DACH",
+          "company": "Fireblocks",
+          "link": "https://www.fireblocks.com/careers/position?gh_jid=4725951006",
+          "date": "2026-11-05T09:00:38-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Fireblocks [fireblocks]",
+          "location": "Berlin, Germany",
+          "department": "Sales",
+          "active": true,
+          "salary": "€80.4k – €110.5k/yr",
+          "dateVerified": true,
+          "slug": "sls421"
+        },
+        "key": "4725951006",
+        "slug": "sls421",
+        "url": "https://hashtagweb3.com/sls421?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fireblocks",
+        "title": "Sales Director"
+      },
+      {
+        "snapshot": {
+          "id": "4749903005",
+          "title": "Senior Compliance Associate, Personal Account Dealing",
+          "company": "FalconX",
+          "link": "https://job-boards.greenhouse.io/falconx/jobs/4749903005",
+          "date": "2026-11-02T17:13:49-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: FalconX [falconx]",
+          "location": "New York City, NY",
+          "department": "Compliance",
+          "active": true,
+          "salary": "$132k – $167k/yr",
+          "dateVerified": true,
+          "slug": "cmp148"
+        },
+        "key": "4749903005",
+        "slug": "cmp148",
+        "url": "https://hashtagweb3.com/cmp148?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "FalconX",
+        "title": "Senior Compliance Associate"
+      },
+      {
+        "snapshot": {
+          "id": "5034320101",
+          "title": "Integration Engineer - Card Issuing",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5034320101",
+          "date": "2026-11-11T22:19:27-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Kuala Lumpur, Malaysia; Taichung, Taiwan; Taipei, Taiwan",
+          "department": "STX - Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng594"
+        },
+        "key": "5034320101",
+        "slug": "eng594",
+        "url": "https://hashtagweb3.com/eng594?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Integration Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "00a8d5ba-8822-46d9-9581-c7a387c925bb",
+          "title": "Cybersecurity Intern",
+          "company": "SwissBorg",
+          "link": "https://jobs.lever.co/swissborg/00a8d5ba-8822-46d9-9581-c7a387c925bb",
+          "date": "2026-11-16T08:56:22.326Z",
+          "source": "Lever: SwissBorg [swissborg]",
+          "location": "Lausanne",
+          "workplaceType": "onsite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec119"
+        },
+        "key": "00a8d5ba-8822-46d9-9581-c7a387c925bb",
+        "slug": "sec119",
+        "url": "https://hashtagweb3.com/sec119?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "SwissBorg",
+        "title": "Cybersecurity Intern"
+      }
+    ],
+    "message": "- CoinGecko is hiring <a href=\"https://hashtagweb3.com/sls485?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Sales Associate, API (L3)</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/sls421?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Director, DACH</a>\n- FalconX is hiring <a href=\"https://hashtagweb3.com/cmp148?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Associate, Personal Account Dealing</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng594?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integration Engineer - Card Issuing</a>\n- SwissBorg is hiring <a href=\"https://hashtagweb3.com/sec119?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cybersecurity Intern</a>",
+    "slotKey": "2026-11-19:afternoon"
   }
 }
