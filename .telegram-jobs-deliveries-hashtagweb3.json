@@ -2023,5 +2023,121 @@
     "slotKey": "2026-11-19:morning",
     "messageId": 156344,
     "sentAt": "2026-11-19T03:37:14.360Z"
+  },
+  "479f2aeb-fc60-4aff-bbf9-cefb81adaf9f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T11:32:32.002Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6254630004",
+          "title": "Procurement Manager",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6254630004",
+          "date": "2026-11-10T16:22:45-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "Dallas, TX",
+          "department": "Data Centers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops171"
+        },
+        "key": "6254630004",
+        "slug": "ops171",
+        "url": "https://hashtagweb3.com/ops171?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "Procurement Manager"
+      },
+      {
+        "snapshot": {
+          "id": "223d83e0-50d4-4d96-b9d9-dd0dbf4cc3b0",
+          "title": "Senior Infrastructure Engineer",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/223d83e0-50d4-4d96-b9d9-dd0dbf4cc3b0",
+          "date": "2026-11-13T17:22:56.661+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "San Francisco, CA",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra81"
+        },
+        "key": "223d83e0-50d4-4d96-b9d9-dd0dbf4cc3b0",
+        "slug": "infra81",
+        "url": "https://hashtagweb3.com/infra81?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Senior Infrastructure Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8383460",
+          "title": "Engineering Manager, Tax Filing and Remittance",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8383460",
+          "date": "2026-11-16T15:23:24-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "N/A",
+          "department": "8596 Tax Products",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng798"
+        },
+        "key": "8383460",
+        "slug": "eng798",
+        "url": "https://hashtagweb3.com/eng798?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "0f8956d5-9da4-4db2-9d92-891e90654e01",
+          "title": "AML Analyst - Canada Wide - Remote",
+          "company": "Newton",
+          "link": "https://jobs.lever.co/newton/0f8956d5-9da4-4db2-9d92-891e90654e01",
+          "date": "2026-11-06T17:01:02.831Z",
+          "source": "Lever: Newton [newton]",
+          "location": "Remote (Toronto, Ontario)",
+          "workplaceType": "remote",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an122"
+        },
+        "key": "0f8956d5-9da4-4db2-9d92-891e90654e01",
+        "slug": "an122",
+        "url": "https://hashtagweb3.com/an122?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Newton",
+        "title": "AML Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "a3a86e42-88aa-49b7-9ce7-dac880f67d18",
+          "title": "Commercial & Product Counsel",
+          "company": "Augustus",
+          "link": "https://jobs.ashbyhq.com/Augustus/a3a86e42-88aa-49b7-9ce7-dac880f67d18",
+          "date": "2026-10-27T13:55:57.716+00:00",
+          "source": "Ashby: Augustus [Augustus]",
+          "location": "New York City",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm313"
+        },
+        "key": "a3a86e42-88aa-49b7-9ce7-dac880f67d18",
+        "slug": "pm313",
+        "url": "https://hashtagweb3.com/pm313?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Augustus",
+        "title": "Commercial & Product Counsel"
+      }
+    ],
+    "message": "- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/ops171?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Procurement Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/infra81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Infrastructure Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng798?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Tax Filing and Remittance</a>\n- Newton is hiring <a href=\"https://hashtagweb3.com/an122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AML Analyst - Canada Wide - Remote</a>\n- Augustus is hiring <a href=\"https://hashtagweb3.com/pm313?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Commercial &amp; Product Counsel</a>",
+    "slotKey": "2026-11-19:afternoon"
   }
 }
