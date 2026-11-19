@@ -1907,5 +1907,119 @@
     "slotKey": "2026-11-18:evening",
     "messageId": 156338,
     "sentAt": "2026-11-18T19:32:45.352Z"
+  },
+  "1d097ad1-0539-48be-8c6c-fa4515764104": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T03:37:11.986Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8196098003",
+          "title": "Senior Compliance Analyst, KYC",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8196098003",
+          "date": "2026-11-04T17:02:18-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "San Jose, CA",
+          "department": "Compliance",
+          "active": true,
+          "salary": "$143k – $214k/yr",
+          "dateVerified": true,
+          "slug": "cmp151"
+        },
+        "key": "8196098003",
+        "slug": "cmp151",
+        "url": "https://hashtagweb3.com/cmp151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Compliance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "98c10c96-67b8-465b-966e-a5a76648b7c1",
+          "title": "Staff Product Manager",
+          "company": "Kamino",
+          "link": "https://talent.superteam.fun/jobs/staff-product-manager-at-kamino-98c10c96-67b8-465b-966e-a5a76648b7c1",
+          "date": "2026-10-23T17:11:58.597664+00:00",
+          "source": "Superteam: Kamino [superteam]",
+          "location": "Remote",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm357"
+        },
+        "key": "98c10c96-67b8-465b-966e-a5a76648b7c1",
+        "slug": "pm357",
+        "url": "https://hashtagweb3.com/pm357?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kamino",
+        "title": "Staff Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5021450101",
+          "title": "Cards Operations Manager",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5021450101",
+          "date": "2026-11-16T22:55:30-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Operations",
+          "active": true,
+          "slug": "ops187",
+          "dateVerified": true
+        },
+        "key": "5021450101",
+        "slug": "ops187",
+        "url": "https://hashtagweb3.com/ops187?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Cards Operations Manager"
+      },
+      {
+        "snapshot": {
+          "id": "00c6f6f6-1c20-4540-a405-5c9ecc22f552",
+          "title": "Assistant(e) Juridique",
+          "company": "SwissBorg",
+          "link": "https://jobs.lever.co/swissborg/00c6f6f6-1c20-4540-a405-5c9ecc22f552",
+          "date": "2026-11-06T17:15:43.335Z",
+          "source": "Lever: SwissBorg [swissborg]",
+          "location": "Hybrid (Lausanne)",
+          "workplaceType": "hybrid",
+          "department": "Corporate Governance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso82"
+        },
+        "key": "00c6f6f6-1c20-4540-a405-5c9ecc22f552",
+        "slug": "aso82",
+        "url": "https://hashtagweb3.com/aso82?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "SwissBorg",
+        "title": "Assistant(e) Juridique"
+      },
+      {
+        "snapshot": {
+          "id": "32531d75-7491-47db-a877-469b63f6b632",
+          "title": "Senior Growth Marketing Manager, Aave App",
+          "company": "Aave Labs",
+          "link": "https://jobs.eu.lever.co/aavelabs/32531d75-7491-47db-a877-469b63f6b632",
+          "date": "2026-11-16T21:03:20.485Z",
+          "source": "Lever: Aave Labs [aavelabs]",
+          "location": "Hybrid (London, England)",
+          "workplaceType": "hybrid",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt154"
+        },
+        "key": "32531d75-7491-47db-a877-469b63f6b632",
+        "slug": "mkt154",
+        "url": "https://hashtagweb3.com/mkt154?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Aave Labs",
+        "title": "Senior Growth Marketing Manager"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/cmp151?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Compliance Analyst, KYC</a>\n- Kamino is hiring <a href=\"https://hashtagweb3.com/pm357?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Manager</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/ops187?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Cards Operations Manager</a>\n- SwissBorg is hiring <a href=\"https://hashtagweb3.com/aso82?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant(e) Juridique</a>\n- Aave Labs is hiring <a href=\"https://hashtagweb3.com/mkt154?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Growth Marketing Manager, Aave App</a>",
+    "slotKey": "2026-11-19:morning"
   }
 }
