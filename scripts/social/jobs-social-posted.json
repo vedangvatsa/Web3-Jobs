@@ -160807,7 +160807,8 @@
       },
       "account": "channel:ai",
       "attemptId": "430a43a2-0788-41af-9e3b-a76e4ff84ee6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcaf87b9cfaa8d71508f7d25321bee3e615f12764"
     }
   ]
 }
