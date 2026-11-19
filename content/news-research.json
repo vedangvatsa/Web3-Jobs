@@ -193533,33 +193533,28 @@
         "The Defiant"
       ],
       "id": "e248b129ece77ee4d4e7",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-20T19:16:00.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
-      "reason": "source-blocked",
-      "note": "Read Cointelegraph's Nov 17 report in full (Nov 13 CFTC order staying the 'What nicknames will Trump say before 2027?' market and TRUMPSAY series, Dec 11 response deadline, Mansour Axios quote, Perez teleprompter case). CoinDesk's Nov 17 story returned HTTP 429 on an actual GET this round and The Defiant companion returned HTTP 403; only one readable outlet so far.",
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph Nov 17 and Bitcoin.com News Nov 17 in full this round; verified the Nov 13 CFTC order staying the nickname market and TRUMPSAY series, the Dec 11 response deadline, the Nethercott and Lever statements, the Mansour Axios quote, the Perez enforcement figures and the three-year trading ban. Draft and CFTC office photo pass quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review",
           "outcome": "read"
         },
         {
-          "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://thedefiant.io/news/regulation/cftc-halts-kalshi-trump-word-bets-for-manipulation-review",
-          "outcome": "blocked"
+          "url": "https://news.bitcoin.com/regulation-and-legal/kalshi-axes-trump-mention-markets-cftc-raises-concerns/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-18T02:13:20.312Z",
+      "reviewedAt": "2026-11-19T01:40:03.924Z",
       "retrySearches": [
         "Find a second readable independent source (Axios, Reuters, WSJ or Bloomberg) confirming the CFTC's Nov 13 order staying Kalshi's Trump-mention markets and the Dec 11 response deadline"
       ],
-      "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19",
+      "lastReviewedDay": "2026-11-19",
       "articleSlug": "kalshihalt",
       "draftProgress": {
         "id": "e248b129ece77ee4d4e7",
@@ -381146,6 +381141,23 @@
           ],
           "reviewedAt": "2026-11-19T01:31:51.690Z",
           "articleSlug": "anton"
+        },
+        "e248b129ece77ee4d4e7": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph Nov 17 and Bitcoin.com News Nov 17 in full this round; verified the Nov 13 CFTC order staying the nickname market and TRUMPSAY series, the Dec 11 response deadline, the Nethercott and Lever statements, the Mansour Axios quote, the Perez enforcement figures and the three-year trading ban. Draft and CFTC office photo pass quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/regulation-and-legal/kalshi-axes-trump-mention-markets-cftc-raises-concerns/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:40:03.924Z",
+          "articleSlug": "kalshihalt"
         }
       },
       "baselineSlugs": [
