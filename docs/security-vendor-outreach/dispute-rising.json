@@ -1,8 +1,9 @@
 {
   "vendor": "Rising Antivirus",
   "email": "cics@rising.com.cn",
-  "deliveryId": "01a1f4ee-c85f-73a5-bc06-8c789e1514b9",
-  "dispatchedAt": "2026-11-19T17:50:52Z",
+  "deliveryId": "01a1f4f1-3a8f-7d01-b251-7ed6e1c1a407",
+  "dispatchedAt": "2026-11-19T17:53:30Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

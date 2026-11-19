@@ -4,8 +4,9 @@
     "virustotal@cyradar.com",
     "contact@cyradar.com"
   ],
-  "deliveryId": "01a1f4ee-b6d6-7cb7-8e72-3b8ace4507ac",
-  "dispatchedAt": "2026-11-19T17:50:48Z",
+  "deliveryId": "01a1f4f1-28ce-753f-9863-990f00864275",
+  "dispatchedAt": "2026-11-19T17:53:27Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

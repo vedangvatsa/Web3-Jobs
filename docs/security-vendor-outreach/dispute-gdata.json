@@ -1,8 +1,9 @@
 {
   "vendor": "G-Data Software",
   "email": "vaas@gdata.de",
-  "deliveryId": "01a1f4ee-bdcd-784f-ab37-61d53a8e3d36",
-  "dispatchedAt": "2026-11-19T17:50:50Z",
+  "deliveryId": "01a1f4f1-2fdf-77a1-a124-b8c3f2cff7f4",
+  "dispatchedAt": "2026-11-19T17:53:28Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

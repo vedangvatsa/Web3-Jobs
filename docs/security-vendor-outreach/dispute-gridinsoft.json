@@ -1,8 +1,9 @@
 {
   "vendor": "Gridinsoft",
   "email": "support@gridinsoft.com",
-  "deliveryId": "01a1f4ee-c15d-71e3-8a89-9813fe801791",
-  "dispatchedAt": "2026-11-19T17:50:51Z",
+  "deliveryId": "01a1f4f1-336e-7ef5-88d7-dc51851927bd",
+  "dispatchedAt": "2026-11-19T17:53:29Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

@@ -1,8 +1,9 @@
 {
   "vendor": "ESET Research Lab",
   "email": "samples@eset.com",
-  "deliveryId": "01a1f4ee-cf5e-7358-a15c-8af4d8401caa",
-  "dispatchedAt": "2026-11-19T17:50:54Z",
+  "deliveryId": "01a1f4f1-41cc-7a31-9ec0-5e68194991d6",
+  "dispatchedAt": "2026-11-19T17:53:32Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

@@ -1,8 +1,9 @@
 {
   "vendor": "Webroot",
   "email": "support@webroot.com",
-  "deliveryId": "01a1f4ee-cbcf-79fa-9977-7db885fc4538",
-  "dispatchedAt": "2026-11-19T17:50:53Z",
+  "deliveryId": "01a1f4f1-3e18-7cc0-a493-711d9d44e359",
+  "dispatchedAt": "2026-11-19T17:53:31Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

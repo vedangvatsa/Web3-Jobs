@@ -1,8 +1,9 @@
 {
   "vendor": "BitDefender",
   "email": "virus_submission@bitdefender.com",
-  "deliveryId": "01a1f4ee-b000-7c94-917a-f21a05ad1f6e",
-  "dispatchedAt": "2026-11-19T17:50:47Z",
+  "deliveryId": "01a1f4f1-1f22-76e3-8a82-382da775b260",
+  "dispatchedAt": "2026-11-19T17:53:25Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

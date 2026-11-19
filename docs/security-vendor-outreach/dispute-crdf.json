@@ -4,8 +4,9 @@
     "contact@crdf.fr",
     "info@crdf.fr"
   ],
-  "deliveryId": "01a1f4ee-b362-7729-a45a-fe18478e2f64",
-  "dispatchedAt": "2026-11-19T17:50:48Z",
+  "deliveryId": "01a1f4f1-2304-7ad0-b94b-de73b9d196b4",
+  "dispatchedAt": "2026-11-19T17:53:26Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

@@ -1,8 +1,9 @@
 {
   "vendor": "Fortinet",
   "email": "cs@fortinet.com",
-  "deliveryId": "01a1f4ee-ba68-7511-9a99-d349a5542bfd",
-  "dispatchedAt": "2026-11-19T17:50:49Z",
+  "deliveryId": "01a1f4f1-2c51-75e2-873a-abc849201d0e",
+  "dispatchedAt": "2026-11-19T17:53:27Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }

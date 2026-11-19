@@ -1,8 +1,9 @@
 {
   "vendor": "Lionic",
   "email": "support@lionic.com",
-  "deliveryId": "01a1f4ee-c4c6-7507-8ac2-b92ab3ecacaf",
-  "dispatchedAt": "2026-11-19T17:50:52Z",
+  "deliveryId": "01a1f4f1-3701-75f9-a9b8-3c809b02f85e",
+  "dispatchedAt": "2026-11-19T17:53:30Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "version": "detailed"
 }
