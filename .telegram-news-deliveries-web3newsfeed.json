@@ -526,5 +526,36 @@
     "slotKey": "2026-11-18:evening",
     "messageId": 65841,
     "sentAt": "2026-11-18T19:33:37.241Z"
+  },
+  "eee0655a-b7ac-40f3-9e3f-e2b8ec528ca8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T03:37:46.097Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Four Senators Query SEC on Tokenized Stock Exemption Risks",
+        "summary": "Lawmakers sent thirteen questions to Chairman Paul Atkins regarding anti-money laundering rules and transfer limits for digital securities.",
+        "link": "https://hashtagweb3.com/tokenizedaml?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Four Democratic senators press SEC on illicit finance gaps in its tokenized stock exemption"
+      },
+      {
+        "index": -1,
+        "headline": "Grvt launches commodity perpetuals using traditional financing rates",
+        "summary": "Seven commodity markets now use market maker financing costs to set funding rates instead of crypto positioning.",
+        "link": "https://hashtagweb3.com/stablesfp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Grvt launches Stable Funding Perps tied to traditional financing costs"
+      },
+      {
+        "index": -1,
+        "headline": "Brothers acquitted of fraud in $25 million Ethereum exploit",
+        "summary": "A federal judge ruled that prosecutors failed to prove misrepresentation during the 2023 exploit of Ethereum trading bots.",
+        "link": "https://hashtagweb3.com/mevacquittal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Judge acquits Peraire-Bueno brothers in $25 million Ethereum MEV case"
+      }
+    ],
+    "slotKey": "2026-11-19:morning"
   }
 }
