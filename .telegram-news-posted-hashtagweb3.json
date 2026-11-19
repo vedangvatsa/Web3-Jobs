@@ -50,6 +50,9 @@
   "https://hashtagweb3.com/dbskinexys?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/stablesfp?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/mevacquittal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/lighterhalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/megaspeed?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/strategy485?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -152,6 +155,12 @@
   "Grvt launches Stable Funding Perps tied to traditional financing costs",
   "Brothers acquitted of fraud in $25 million Ethereum exploit",
   "Judge acquits Peraire-Bueno brothers in $25 million Ethereum MEV case",
+  "Lighter Reopens Withdrawals After Recovering $5 Million",
+  "Lighter restores withdrawals and recovers $5 million after $10.4 million exploit",
+  "Megaspeed confirms Alice Huang left as firm investigates espionage claims",
+  "Megaspeed confirms Alice Huang left in August 2025 as espionage claims swirl",
+  "Strategy buys 485 bitcoin and $228 million in shares",
+  "Strategy buys 485 bitcoin for $33.4 million as preferred buybacks reach $228 million",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -202,5 +211,8 @@
   "fp:anti|chair|democratic|detail|digital|exemption|financ|follow|four|gap",
   "fp:ant|bank|between|connect|deposit|dollar|international|jpmorgan|launch24|mov",
   "fp:bas|commodity|cost|financ|grvt|instead|perp|perpetual|position|rat",
-  "fp:25m|acquit|acquitt|bot|brother|bueno|cas|evidenc|exploit|federal"
+  "fp:25m|acquit|acquitt|bot|brother|bueno|cas|evidenc|exploit|federal",
+  "fp:1039m|104m|api|compromis|dex|enabl|exploit|half|lighter|recover",
+  "fp:alic|appoint|august2025|august30|claim|confirm|counsel|deni|departur|espionag",
+  "fp:228m|334m|849|buyback|buys485|dur|firm|follow|november15|preferr"
 ]
