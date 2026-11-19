@@ -1127,54 +1127,6 @@
     "slug": "bitcoin-builder-miami"
   },
   {
-    "name": "Timechain Tuesdays - Coffee & Bitcoin",
-    "description": "A morning Bitcoin meetup at the Dock's coffee shop in Wynwood, hosted by Miami Bitcoin Events.",
-    "startDate": "2026-10-20T08:00:00-04:00",
-    "endDate": "2026-10-20T10:00:00-04:00",
-    "city": "Miami",
-    "country": "United States",
-    "location": "The Dock's coffee shop, 400 NW 26th St, Miami, FL 33127, USA",
-    "streetAddress": "400 NW 26th St",
-    "addressLocality": "Miami",
-    "addressRegion": "FL",
-    "postalCode": "33127",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Miami Bitcoin Events"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/mu-317025728-6f679364.webp",
-    "descriptionSource": {
-      "url": "https://www.meetup.com/miamibitcoinevents/events/317025728/",
-      "fetchedAt": "2026-10-20T09:30:03.167Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Timechain Tuesdays - Coffee & Bitcoin, Tue, Oct 20, 2026, 8:00 AM   | Meetup",
-      "sha256": "0300a9b37a16847e42a29444bbfa5852ab56c862a5f4841b78939d5a74330c76",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/miamibitcoinevents/events/317025728/",
-          "fetchedAt": "2026-10-20T08:11:04.231Z",
-          "sha256": "a4af441511476682f945399260e98eaa42605f74402ca79518b5fe2c79199c68",
-          "retrievedVia": "html; JSON-LD and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/miamibitcoinevents/events/317025728/",
-          "fetchedAt": "2026-10-20T09:30:03.167Z",
-          "sha256": "c342bdaf63839f0b7d0f7929e1b3dd70602d58bf41e0f5ed8533aa4b0868699c",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "mu-317025728",
-    "url": "https://www.meetup.com/miamibitcoinevents/events/317025728/",
-    "registrationUrl": "https://www.meetup.com/miamibitcoinevents/events/317025728/",
-    "source": "curated-reviewed"
-  },
-  {
     "name": "Austin Bitcoin Club Presents: Gamenight!",
     "description": "Bitcoin Park Austin hosts a Bitcoin board-game night with pizza. Listed games include Hodl Up, Channel Up and BIP-39 Seed Phrase. RSVP is requested because space is limited.",
     "startDate": "2026-10-22T18:00:00-05:00",

@@ -3278,43 +3278,6 @@
       }
     },
     {
-      "id": "mu-317025728",
-      "name": "Timechain Tuesdays - Coffee & Bitcoin",
-      "startDate": "2026-10-20T08:00:00-04:00",
-      "endDate": "2026-10-20T10:00:00-04:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/miamibitcoinevents/events/317025728/",
-      "lane": "americas",
-      "reason": "No inventory identity match. Only the explicitly published October 20 occurrence is proposed.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/miamibitcoinevents/events/317025728/",
-          "fetchedAt": "2026-10-20T08:11:04.231Z",
-          "excerpt": "Timechain Tuesdays - Coffee & Bitcoin; 2026-10-20T08:00:00-04:00 to 10:00:00-04:00; 400 NW 26th St, Miami, FL 33127. Weekly AM meetup at the Dock's coffee shop in Wynwood.",
-          "sha256": "a4af441511476682f945399260e98eaa42605f74402ca79518b5fe2c79199c68",
-          "representation": "html; JSON-LD and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:03.167Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/2/2/d/7/600_536648919.jpeg",
-        "fetchedAt": "2026-10-20T09:49:16.735Z",
-        "status": 200,
-        "local": "/events/mu-317025728-6f679364.webp",
-        "sourceSha256": "c48ae5b5e6f97030236640e24cce01fe863bba3133fae490cf7529caed3d2c0f",
-        "sha256": "8e8ebe0122e62d6ed6e316767857e3147241a36554c507165785b4707bec4a4a",
-        "originalWidth": 600,
-        "originalHeight": 337,
-        "width": 600,
-        "height": 337,
-        "bytes": 14324
-      }
-    },
-    {
       "id": "mu-313235525",
       "name": "Austin Bitcoin Club Presents: Gamenight!",
       "startDate": "2026-10-22T18:00:00-05:00",
@@ -3967,45 +3930,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 54180
-      }
-    },
-    {
-      "id": "luma-host-evt-evt-H1GEOEuxvdcGh7m",
-      "name": "Building Apps and Communities on Solana",
-      "startDate": "2026-10-20T17:00:00.000Z",
-      "endDate": "2026-10-20T19:00:00.000Z",
-      "timezone": "America/New_York",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-H1GEOEuxvdcGh7m",
-      "url": "https://luma.com/vgqemfnq",
-      "lane": "americas",
-      "reason": "Exact event and URL are already in events-cache.json as luma-host-evt-evt-H1GEOEuxvdcGh7m; absent from runtime. Reuse the existing identity.",
-      "evidence": [
-        {
-          "url": "https://luma.com/vgqemfnq",
-          "fetchedAt": "2026-10-20T08:05:07.057Z",
-          "excerpt": "evt-H1GEOEuxvdcGh7m; 2026-10-20T17:00:00.000Z to 19:00:00.000Z; America/New_York; Solana Skyline, 141 E Houston St, New York, NY 10002; public, open, approval true. Flipcash team lunch and fireside chat about building consumer products on Solana, followed by hands-on experience. 1 PM doors and lunch; 1:30 PM fireside; 2:15 PM demos.",
-          "sha256": "58be9fbd161536cb20a82d5b06765f89bbd090af9c0efdc332602b16a88d3c15",
-          "representation": "html; __NEXT_DATA__ and event agenda"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:13.501Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/kl/ef757d79-81b1-48f8-9d09-2c61fb3994f6.png",
-        "fetchedAt": "2026-10-20T09:49:25.784Z",
-        "status": 200,
-        "local": "/events/luma-host-evt-evt-h1geoeuxvdcgh7m-17c29a20.webp",
-        "sourceSha256": "3677540c155bea554eddb498ac8e3510e0add0b48d1f932416f2b2c9256ce36f",
-        "sha256": "f769e031bf2f7b7d376058f727ec915d4898a6d1c9c83766cb0443d6ffe879a1",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 141884
       }
     },
     {
