@@ -690,5 +690,38 @@
     "slotKey": "2026-11-19:afternoon",
     "messageId": 193549,
     "sentAt": "2026-11-19T11:36:28.209Z"
+  },
+  "04e06e99-5ed6-4fe2-a656-b2c07ac39222": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T19:36:43.023Z",
+    "stories": [
+      {
+        "index": 16,
+        "original_title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
+        "headline": "AI-generated cyberattack targets European Union institutions",
+        "summary": "Officials confirmed a month-long automated attack that has kept several digital tools offline across the governing body.",
+        "event_rationale": "This represents a significant escalation in AI-driven security threats against major geopolitical infrastructure.",
+        "link": "https://techxplore.com/news/2026-11-cyberattack-artificial-intelligence-eu-october.html",
+        "source": "TechXplore",
+        "originalTitle": "A cyberattack using artificial intelligence targeted the EU in October, official says"
+      },
+      {
+        "index": 1,
+        "headline": "AI token prices drop 21 percent amid record usage",
+        "summary": "Anthropic captures nearly 59 percent of market spending as overall industry growth slows.",
+        "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
+        "source": "The Decoder",
+        "originalTitle": "AI industry growth remains strong, but the pace is slowing"
+      },
+      {
+        "index": 2,
+        "headline": "D-Matrix Raptor chip stacks memory to increase inference bandwidth",
+        "summary": "This second-generation hardware places 3D memory beneath compute logic to speed up AI token generation.",
+        "link": "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/",
+        "source": "SiliconANGLE",
+        "originalTitle": "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem"
+      }
+    ],
+    "slotKey": "2026-11-19:evening"
   }
 }
