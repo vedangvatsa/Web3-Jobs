@@ -59,6 +59,9 @@ test('does not reorder words or split a comma list', () => {
 
 test('leaves titles without a comma clause unchanged', () => {
   assert.equal(displayJobTitle('Software Engineer'), 'Software Engineer');
+  assert.equal(displayJobTitle('2027 Site Reliability Engineer Intern-Afton, Texas'), 'Site Reliability Engineer Intern');
+  assert.equal(displayJobTitle('2027 Construction Intern-Afton, Texas'), 'Construction Intern');
+  assert.equal(displayJobTitle('2027 Research Intern - NYC'), 'Research Intern - NYC');
   assert.equal(displayJobTitle('Account Executive - Startups & AI (Korean Speaking, Singapore based)'), 'Account Executive - Startups & AI (Korean Speaking, Singapore based)');
   assert.equal(displayJobTitle(''), '');
 });

@@ -91,7 +91,18 @@ function stripNoise(title: string): string {
     if (stripped === t || !stripped) break;
     t = stripped;
   }
-  return t;
+  // A leading intake year ("2027 Research Intern") is not part of the role.
+  const withoutYear = t.replace(/^20\d{2}\s+(?=\S+\s+\S)/, '');
+  return withoutYear;
+}
+
+/** "Intern-Afton" -> "Intern": a capitalized place glued to the last word with a hyphen. */
+function dropGluedPlace(head: string): string {
+  const match = head.match(/^(.*\S)-([A-Z][A-Za-z]+)$/);
+  if (!match) return head;
+  const [, left, place] = match;
+  if (isCraftWord(place) || ROLE_NOUN.test(place) || RANK_PHRASE.test(place) || isFillerWord(place)) return head;
+  return left;
 }
 
 /** Splits on commas outside brackets, so "(Korean Speaking, Singapore based)" stays whole. */
@@ -179,7 +190,10 @@ export function displayJobTitle(title: string): string {
   const segments = splitClauses(original);
   if (segments.length < 2) return original;
 
-  const [head, ...rest] = segments;
+  const [rawHead, ...rest] = segments;
+  const head = dropGluedPlace(rawHead);
+  // "Intern-Afton, Texas": once the place is on the head, the comma tail is the same location.
+  if (head !== rawHead) return head;
   if (isList(head, rest)) return segments.join(', ');
 
   // A bare rank head ("Director", "VP") or a head without a role ("Revenue Operations", "Contractor")
