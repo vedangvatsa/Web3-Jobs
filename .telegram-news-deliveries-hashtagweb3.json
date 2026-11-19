@@ -592,5 +592,36 @@
     "slotKey": "2026-11-19:afternoon",
     "messageId": 156349,
     "sentAt": "2026-11-19T11:37:41.045Z"
+  },
+  "27f20d38-30d8-4684-bbcf-c4685647eb92": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T19:35:40.476Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Backpack completes US licensing for leveraged perpetual futures",
+        "summary": "The firm received its third US regulatory approval this week to operate as a futures commission merchant.",
+        "link": "https://hashtagweb3.com/backpackfcm?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Backpack gets NFA approval, completing its US licensing stack for leveraged perps"
+      },
+      {
+        "index": -1,
+        "headline": "CFTC suspends Kalshi markets tied to Trump mentions",
+        "summary": "The agency paused the contracts over manipulation concerns, setting a December 11 deadline for the exchange to respond.",
+        "link": "https://hashtagweb3.com/kalshihalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Halts Kalshi's Trump Mention Markets, Sets Dec. 11 Response Deadline"
+      },
+      {
+        "index": -1,
+        "headline": "Ledger identifies tampered devices in Berlin and Dubai",
+        "summary": "Investigations connect the hardware to a Southeast Asian reseller campaign disclosed by the company in October.",
+        "link": "https://hashtagweb3.com/ledgerberlin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ledger warns Berlin buyers as tampering probe reaches Germany and Dubai"
+      }
+    ],
+    "slotKey": "2026-11-19:evening"
   }
 }
