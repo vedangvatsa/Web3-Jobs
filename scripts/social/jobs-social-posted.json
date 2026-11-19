@@ -156365,7 +156365,8 @@
       },
       "account": "channel:base",
       "attemptId": "ab019cd8-763e-4e28-8d0e-317b43471a6b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeeeedeedfd10aa74a206944586888e3031ae7da8"
     }
   ]
 }
