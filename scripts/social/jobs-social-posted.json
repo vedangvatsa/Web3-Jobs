@@ -161190,7 +161190,8 @@
       },
       "account": "profile",
       "attemptId": "d78deee0-da8c-46a4-bb3d-f07a4594f46b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb29ae9ef023e69bbab684f8ba4a5e751cc907256"
     }
   ]
 }
