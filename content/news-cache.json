@@ -1,20 +1,44 @@
 {
-  "generatedAt": "2026-11-19T01:19:31.565Z",
+  "generatedAt": "2026-11-19T03:36:03.763Z",
   "items": [
+    {
+      "title": "Kraken parent Payward to acquire Tribe Capital to expand private-market offerings",
+      "link": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522",
+      "pubDate": "Thu, 19 Nov 2026 03:18:53 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "The deal will add private-market sourcing, underwriting, and fund management capabilities to Payward's platform.",
+      "source": "The Block"
+    },
+    {
+      "title": "Glassnode Launches 'Book Churn' Metric to Track Order Book Revisions",
+      "link": "https://blockchain.news/news/glassnode-book-churn-metric",
+      "pubDate": "Thu, 19 Nov 2026 03:05:12 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Glassnode introduces 'Book Churn,' a metric measuring order book revision speed, tested as a volatility indicator on Binance BTCUSDT and ETHUSDT perpe...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Harvey Enhances Review Tables with New Sync and Testing Features",
+      "link": "https://blockchain.news/news/harvey-enhances-review-tables-sync-testing",
+      "pubDate": "Thu, 19 Nov 2026 02:12:12 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Harvey's updated Review Tables streamline legal document analysis with firm templates, multi-vault integration, and real-time syncing. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Uniswap (UNI) Launches Elysium Integration for High-Speed Trading",
+      "link": "https://blockchain.news/news/uniswap-elysium-integration",
+      "pubDate": "Thu, 19 Nov 2026 02:05:12 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Uniswap (UNI) integrates Elysium, a Layer 2 network with 100ms block times, enabling $300M+ in trading volume and near-instant swaps. (Read More)",
+      "source": "Blockchain.News"
+    },
     {
       "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
       "link": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
       "pubDate": "Thu, 19 Nov 2026 00:33:46 +0000",
       "creator": "Jesse Hamilton",
       "contentSnippet": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
-      "link": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
-      "pubDate": "Wed, 18 Nov 2026 22:30:00 +0000",
-      "creator": "Ian Allison",
-      "contentSnippet": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital.",
       "source": "Coindesk"
     },
     {
@@ -434,14 +458,6 @@
       "source": "The Block"
     },
     {
-      "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
-      "link": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
-      "pubDate": "Tue, 17 Nov 2026 22:23:29 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Robinhood brushes off Kalshi’s potential equities push as Mizuho maintains its bullish outlook on HOOD.",
-      "source": "The Block"
-    },
-    {
       "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
       "link": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 17 Nov 2026 22:20:04 +0000",
@@ -480,14 +496,6 @@
       "creator": "Helene Braun",
       "contentSnippet": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff.",
       "source": "Coindesk"
-    },
-    {
-      "title": "Jito’s Lucas Bruder says crypto builders need to ‘slow down’ and fix security weaknesses",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
-      "pubDate": "Tue, 17 Nov 2026 19:29:15 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Jito’s Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt.",
-      "source": "The Block"
     },
     {
       "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
@@ -543,14 +551,6 @@
       "pubDate": "Tue, 17 Nov 2026 14:45:49 +0000",
       "creator": "Zoltan Vardai",
       "contentSnippet": "Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
-      "link": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 13:30:00 +0000",
-      "creator": "Yohan Yun",
-      "contentSnippet": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weig...",
       "source": "Cointelegraph"
     },
     {
