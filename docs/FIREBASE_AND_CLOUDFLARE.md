@@ -42,6 +42,30 @@ firebase apphosting:secrets:grantaccess SECRET_NAME --backend studio --project w
 
 Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase-apphosting-secrets.sh).
 
+## Homepage (`/`) 404 on App Hosting
+
+Symptom: `GET /` returns Google’s generic **404** HTML (~272 bytes, **no**
+`x-fah-adapter` header). `GET /jobs` and static paths (`/robots.txt`,
+`/favicon.ico`) are fine.
+
+Cause: Firebase’s CDN edge has **no route for the bare root path** on the
+currently rolled-out revision. The app never runs, so middleware and
+`page.tsx` cannot respond.
+
+Fix (code is already on `main`):
+
+1. `next.config.mjs` — `{ source: '/', destination: '/jobs', permanent: false }`
+   (emitted into the FAH edge redirect bundle).
+2. `src/app/page.tsx` — `redirect('/jobs')`.
+3. `src/middleware.ts` — 307 to `/jobs` when a request does reach the server.
+
+You must **roll out a successful App Hosting build** that includes those
+commits (workflow **FAH fix secrets and deploy**). Until then, production
+stays broken at `/`.
+
+Interim options: send users to `https://hashtagweb3.com/jobs`, or put the
+domain behind Cloudflare with a single **Redirect Rule** for `/` → `/jobs`.
+
 ## Deploy flow
 
 1. Push to **`main`**. The normal daily workflow creates the build and rollout;
