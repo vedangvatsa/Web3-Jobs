@@ -5,25 +5,28 @@
  * Run with: npm run export:emails
  */
 
-import { collection, getDocs } from 'firebase/firestore';
-import { serverFirestore } from '../src/firebase/server-init';
+import { getAdminFirestore, isFirebaseAdminConfigured } from '../src/lib/firebase-admin-server';
 import fs from 'fs/promises';
 import path from 'path';
 
 async function exportEmails() {
   console.log('🔄 Initializing Firebase and connecting to Firestore...');
-  
-  if (!serverFirestore) {
-    console.error('❌ Firebase is not initialized. Please ensure your .env file is set up correctly.');
+
+  // Firestore rules deny public reads, so the export must use the Admin SDK service account.
+  if (!isFirebaseAdminConfigured()) {
+    console.error('❌ FIREBASE_SERVICE_ACCOUNT_KEY is not set. Please ensure your .env.local file is set up correctly.');
+    process.exit(1);
+  }
+
+  const db = getAdminFirestore();
+  if (!db) {
+    console.error('❌ Firebase Admin is not initialized. Check FIREBASE_SERVICE_ACCOUNT_KEY.');
     process.exit(1);
   }
 
   try {
-    const db = serverFirestore;
-    const subscribersCol = collection(db, 'subscribers');
-
     console.log("📥 Fetching documents from 'subscribers' collection...");
-    const snapshot = await getDocs(subscribersCol);
+    const snapshot = await db.collection('subscribers').get();
 
     if (snapshot.empty) {
       console.log('No subscribers found.');
