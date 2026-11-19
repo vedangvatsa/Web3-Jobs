@@ -3959,5 +3959,130 @@
     "slotKey": "2026-11-19:morning",
     "messageId": 16662,
     "sentAt": "2026-11-19T03:37:03.545Z"
+  },
+  "d2305298-3b1d-42c5-aa34-3da55f6bb0e7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T03:37:05.286Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "10a27a51-bfd6-406a-b0ab-102f2a1d8573",
+          "title": "Senior Counsel - Product (UK & EU)",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/10a27a51-bfd6-406a-b0ab-102f2a1d8573",
+          "date": "2026-11-06T13:49:53.961+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm373"
+        },
+        "key": "10a27a51-bfd6-406a-b0ab-102f2a1d8573",
+        "slug": "pm373",
+        "url": "https://hashtagweb3.com/pm373?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Senior Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "49d2ec6fa7a401",
+          "title": "Senior Legal Counsel - Commercial & Regulatory, US",
+          "company": "Nexo",
+          "link": "https://nexo.breezy.hr/p/49d2ec6fa7a401-senior-legal-counsel-commercial-regulatory-us",
+          "date": "2026-11-13",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Nexo [nexo]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "department": "Legal & Regulatory Compliance",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://nexo.breezy.hr/p/49d2ec6fa7a401-senior-legal-counsel-commercial-regulatory-us",
+            "checkedAt": "2026-11-13T18:42:36.921Z",
+            "bodySha256": "2a57b37bacba7d0c1d40293c121c62ac2472f346943a7bffedf4c8722427f43f",
+            "provider": "breezy",
+            "datePosted": "2026-11-13"
+          },
+          "slug": "cmp171"
+        },
+        "key": "49d2ec6fa7a401",
+        "slug": "cmp171",
+        "url": "https://hashtagweb3.com/cmp171?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Nexo",
+        "title": "Senior Legal Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "4727541006",
+          "title": "Sales Engineer",
+          "company": "Fireblocks",
+          "link": "https://www.fireblocks.com/careers/position?gh_jid=4727541006",
+          "date": "2026-11-17T20:57:39-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Fireblocks [fireblocks]",
+          "location": "Tokyo Prefecture, Japan",
+          "department": "Sales",
+          "active": true,
+          "slug": "eng819",
+          "dateVerified": true
+        },
+        "key": "4727541006",
+        "slug": "eng819",
+        "url": "https://hashtagweb3.com/eng819?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fireblocks",
+        "title": "Sales Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "ad373640-b44e-4a28-8886-013431e9cdec",
+          "title": "Senior IT Engineer",
+          "company": "Morpho",
+          "link": "https://jobs.ashbyhq.com/morpho/ad373640-b44e-4a28-8886-013431e9cdec",
+          "date": "2026-10-28T16:46:35.371+00:00",
+          "source": "Ashby: Morpho [Morpho]",
+          "location": "France | Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng675"
+        },
+        "key": "ad373640-b44e-4a28-8886-013431e9cdec",
+        "slug": "eng675",
+        "url": "https://hashtagweb3.com/eng675?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Morpho",
+        "title": "Senior IT Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4488255009",
+          "title": "Senior Talent Acquisition Partner - GTM",
+          "company": "Digital Asset",
+          "link": "https://job-boards.greenhouse.io/digitalassetcorp/jobs/4488255009",
+          "date": "2026-11-10T09:41:03-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Digital Asset [digitalassetcorp]",
+          "location": "New York City",
+          "department": "People & Workplaces",
+          "active": true,
+          "salary": "$170k – $190k/yr",
+          "dateVerified": true,
+          "slug": "rec58"
+        },
+        "key": "4488255009",
+        "slug": "rec58",
+        "url": "https://hashtagweb3.com/rec58?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Digital Asset",
+        "title": "Senior Talent Acquisition Partner"
+      }
+    ],
+    "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/pm373?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Counsel - Product (UK &amp; EU)</a>\n- Nexo is hiring <a href=\"https://hashtagweb3.com/cmp171?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Legal Counsel - Commercial &amp; Regulatory, US</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/eng819?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Engineer</a>\n- Morpho is hiring <a href=\"https://hashtagweb3.com/eng675?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior IT Engineer</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/rec58?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Talent Acquisition Partner - GTM</a>",
+    "slotKey": "2026-11-19:morning"
   }
 }
