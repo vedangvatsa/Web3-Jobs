@@ -156957,7 +156957,8 @@
       },
       "account": "profile",
       "attemptId": "65e93836-0479-47e2-84b8-c608e1e998c5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x81f2c83237975f821c3aaaa4b7632db2ffae4221"
     }
   ]
 }
