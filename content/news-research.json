@@ -193559,7 +193559,31 @@
         "Find a second readable independent source (Axios, Reuters, WSJ or Bloomberg) confirming the CFTC's Nov 13 order staying Kalshi's Trump-mention markets and the Dec 11 response deadline"
       ],
       "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19"
+      "nextReviewDate": "2026-11-19",
+      "articleSlug": "kalshihalt",
+      "draftProgress": {
+        "id": "e248b129ece77ee4d4e7",
+        "day": "2026-11-19",
+        "articleSlug": "kalshihalt",
+        "note": "Second readable source now on hand: Bitcoin.com News Nov 17 (read in full: CFTC directive halting Trump-mention contracts, CNBC report, Nethercott and Lever quotes, Perez case). Cointelegraph Nov 18 also read earlier; CoinDesk 429 and The Defiant 403 persist. Draft and image still needed before an outcome.",
+        "sourceChecks": [
+          {
+            "url": "https://news.bitcoin.com/regulation-and-legal/kalshi-axes-trump-mention-markets-cftc-raises-concerns/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:34:12.691Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "7439f2e52b8288755f1e": {
       "source": "The Defiant",
