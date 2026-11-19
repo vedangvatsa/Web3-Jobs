@@ -2143,7 +2143,7 @@
     "sentAt": "2026-11-19T11:32:34.885Z"
   },
   "5a1d51da-aff7-4740-a188-ab1e917a29bb": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T19:33:24.588Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2257,6 +2257,8 @@
       }
     ],
     "message": "- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/an143?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business System Analyst (MEX Team)</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/cmp54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Analyst - AML Investigations</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng677?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Site Reliability Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/rs20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiting Scheduler</a>\n- HIFI is hiring <a href=\"https://hashtagweb3.com/mkt165?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Lead</a>",
-    "slotKey": "2026-11-19:evening"
+    "slotKey": "2026-11-19:evening",
+    "messageId": 156356,
+    "sentAt": "2026-11-19T19:33:27.538Z"
   }
 }
