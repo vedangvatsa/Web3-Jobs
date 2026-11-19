@@ -195620,9 +195620,9 @@
         "Cointelegraph"
       ],
       "id": "38cbf360de60fdd665ce",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T12:53:34.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
       "articleSlug": "maradebt",
@@ -195644,7 +195644,25 @@
         "updatedAt": "2026-11-19T02:31:00.232Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph Nov 18 report and MARA's Nov 17 Form 8-K primary filing in full today; verified the $185M of 8.750% notes at 99.000, the $600M stack to $785M, the Nov 27 concurrent closing, the April 29 equity purchase agreement and the $1.1B post-quarter bitcoin sale with $750M loan repayment across both sources. CoinDesk still returned 429, so the two readable sources are cointelegraph.com plus the primary filing at ir.mara.com. Hero is the verified Wikimedia gas-fired power plant photo, self-hosted and compressed to 57KB; quality, image, formatting and duplicate audits pass for this file.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales",
+          "outcome": "read"
+        },
+        {
+          "url": "https://ir.mara.com/sec-filings/all-sec-filings/content/0000950142-26-003100/eh260856708_8k.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-19T02:33:31.889Z",
+      "lastReviewedDay": "2026-11-19"
     },
     "db9468ccef00c39a7445": {
       "source": "Cointelegraph",
@@ -381593,6 +381611,27 @@
           "retrySearches": [
             "Find a second readable independent source (The Block, Cointelegraph, Blockworks or an ethereum.org call note) on the Nov 16 Ethereum core developer call warning that EIP-8037 and EIP-8038 could break up to 15,000 contracts, including the four-to-six-month delay risk"
           ]
+        },
+        "38cbf360de60fdd665ce": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph Nov 18 report and MARA's Nov 17 Form 8-K primary filing in full today; verified the $185M of 8.750% notes at 99.000, the $600M stack to $785M, the Nov 27 concurrent closing, the April 29 equity purchase agreement and the $1.1B post-quarter bitcoin sale with $750M loan repayment across both sources. CoinDesk still returned 429, so the two readable sources are cointelegraph.com plus the primary filing at ir.mara.com. Hero is the verified Wikimedia gas-fired power plant photo, self-hosted and compressed to 57KB; quality, image, formatting and duplicate audits pass for this file.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales",
+              "outcome": "read"
+            },
+            {
+              "url": "https://ir.mara.com/sec-filings/all-sec-filings/content/0000950142-26-003100/eh260856708_8k.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:33:31.889Z",
+          "articleSlug": "maradebt"
         }
       },
       "baselineSlugs": [
