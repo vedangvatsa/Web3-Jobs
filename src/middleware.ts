@@ -137,11 +137,6 @@ export function missingPageResponse(request: NextRequest, status: 404 | 410 = 40
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
-  if (pathname === '/' && request.nextUrl.searchParams.get('mode') !== 'agent') {
-    const dest = request.nextUrl.clone();
-    dest.pathname = '/jobs';
-    return NextResponse.redirect(dest, 307);
-  }
   const agePathname = normalizeJobAgePath(pathname);
   const socialBasePath = stripSocialPathSuffix(agePathname);
   const socialPagePath = canonicalSocialPagePath(socialBasePath);

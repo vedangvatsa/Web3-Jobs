@@ -43,8 +43,8 @@ async function run() {
     assert(mcp.mcpServers && typeof mcp.mcpServers === 'object', `${mcpPath} declares mcpServers`);
   }
 
-  const jobsPage = fs.readFileSync(path.join(root, 'src/app/jobs/page.tsx'), 'utf8');
-  assert(/openGraph:\s*{\s*type:\s*'website'/.test(jobsPage), 'Jobs page metadata declares og:type=website');
+  const homepage = fs.readFileSync(path.join(root, 'src/app/page.tsx'), 'utf8');
+  assert(/openGraph:\s*{\s*type:\s*'website'/.test(homepage), 'Homepage metadata declares og:type=website');
 
   const developerPortal = fs.readFileSync(path.join(root, 'src/app/developers/page.tsx'), 'utf8');
   assert(developerPortal.includes("title: 'Hashtag Web3 API Docs & Developer Portal'"), 'Developer portal title includes the product name');

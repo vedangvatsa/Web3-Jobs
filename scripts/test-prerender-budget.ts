@@ -18,14 +18,7 @@ assert.notEqual(manifest.dynamicRoutes['/[slug]'].fallback, false);
 const windows = routes.filter(([, route]) => route.srcRoute?.startsWith('/job-listing-cache/')).map(([pathname]) => pathname);
 assert.equal(windows.length, 4, 'Only the four initial directory windows may be prebuilt; later expiries and company scopes stay on demand');
 assert.deepEqual(new Set(windows.map(pathname => pathname.replace(/^\/job-listing-cache\/\d+/, '') || '/')), new Set(['/', '/jobs', '/companies', '/community']));
-for (const route of ['/jobs', '/companies', '/community', '/events', '/news']) {
+for (const route of ['/', '/jobs', '/companies', '/community', '/events', '/news']) {
   assert.ok(manifest.routes[route], `${route} must remain prebuilt`);
 }
-assert.equal(manifest.routes['/'], undefined, '/ must stay a redirect, not a static page');
-const routeManifest = JSON.parse(fs.readFileSync('.next/routes-manifest.json', 'utf8')) as {
-  redirects?: Array<{ source?: string; destination?: string; statusCode?: number; has?: unknown }>;
-};
-const rootRedirect = routeManifest.redirects?.find(route => route.source === '/' && !route.has);
-assert.equal(rootRedirect?.destination, '/jobs', '/ must redirect to /jobs');
-assert.equal(rootRedirect?.statusCode, 307, '/ redirect must stay temporary');
 console.log(`Prerender budget passed: ${routes.length} static routes; details retain ISR and job listing cache windows are built on demand.`);

@@ -45,17 +45,18 @@ Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase
 ## Homepage (`/`) 404 on App Hosting
 
 Symptom: `GET /` returns Google’s generic **404** HTML (~272 bytes, **no**
-`x-fah-adapter` header). `GET /jobs` reaches Next. `GET /feed.xml` is a 308
-from the edge, also with no adapter header.
+`x-fah-adapter` header) while `GET /jobs` reaches Next.
 
-Cause: a static `src/app/page.tsx` makes App Hosting register `/` as a CDN
-file. `redirect()` does not write that file, so the edge 404s and never
-applies the `next.config.mjs` redirect. Redirect-only paths such as
-`/feed.xml` work.
+Observed on the `studio` backend of `web3-jobs-aggregator`: its edge never
+routed `/` to the app, on the default `hosted.app` URL as well as the custom
+domain, and no rollout (including redirect-only and static-page builds) changed
+that. Other backends on the same code route `/` correctly, so the code is not
+the cause.
 
-Fix: do not add `src/app/page.tsx`. Keep `/` as a `next.config.mjs` redirect
-to `/jobs`, plus the middleware fallback for requests that do reach Next.
-Roll the build out on the `web3-jobs-aggregator` backend `studio`.
+Fix that worked: serve `hashtagweb3.com` from a backend where `/` reaches Next
+(a new backend, or the `hashtagweb3-97583` project), then `src/app/page.tsx`
+serves the job board directly. If `/` returns the 272-byte 404 again, test the
+`hosted.app` URL of the backend before changing code.
 
 ## Deploy flow
 

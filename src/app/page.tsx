@@ -1,0 +1,116 @@
+import { JobBoard } from '@/components/job-board';
+import { getJobSlug } from '@/lib/job-slugs';
+import { getJobs } from '@/lib/jobs';
+import { buildCompanyLogoMapSync } from '@/lib/job-logo-map';
+import { TrustedBy } from '@/components/trusted-by';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
+import { PageHeader } from "@/components/page-header";
+import { PageShell } from '@/components/page-shell';
+import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
+import type { Metadata } from 'next';
+import { withLogoImageVariants } from '@/lib/responsive-images-server';
+import { getFreshJobCountLabel } from '@/lib/seo-freshness';
+
+export const dynamic = 'force-static';
+export const revalidate = 3600;
+
+const pageTitle = `Remote Web3 Jobs (${getFreshJobCountLabel()})`;
+const pageDesc = `Find verified remote Web3 jobs, crypto careers, salary data, and blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`;
+
+export const metadata: Metadata = {
+  title: pageTitle,
+  description: pageDesc,
+  alternates: {
+    canonical: 'https://hashtagweb3.com',
+  },
+  openGraph: {
+    type: 'website',
+    title: pageTitle,
+    description: pageDesc,
+    url: 'https://hashtagweb3.com',
+    images: [{ url: 'https://hashtagweb3.com/og-image.png', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: pageTitle,
+    description: pageDesc,
+    images: ['https://hashtagweb3.com/og-image.png'],
+  },
+};
+
+export default async function JobsPage() {
+  const jobs = await getJobs();
+  const totalJobs = jobs.length;
+  const initialJobs = jobs.slice(0, 50);
+  const companyLogos = buildCompanyLogoMapSync(initialJobs);
+
+  const siteUrl = 'https://hashtagweb3.com';
+  const pageSchema = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebPage',
+        url: siteUrl,
+        name: 'Web3 Jobs & Crypto Careers | Hashtag Web3',
+        description: `Browse ${totalJobs} verified Web3, smart contract, DeFi, and crypto job openings.`,
+      },
+      {
+        '@type': 'ItemList',
+        numberOfItems: totalJobs,
+        itemListElement: initialJobs.map((job, index) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          url: `${siteUrl}/${getJobSlug(job)}`,
+          name: `${job.title} at ${job.company}`,
+        })),
+      },
+    ],
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      <div className="flex flex-col min-h-screen">
+        <main className="flex-1" data-job-page>
+          <PageShell>
+            <PageHeader title="Web3 Jobs" />
+
+            <section className="sr-only">
+              <h2>Verified Web3 jobs and crypto careers</h2>
+              <p>
+                Hashtag Web3 indexes {totalJobs.toLocaleString()} verified Web3 jobs from official employer career pages.
+                See <a href="/index.md">index.md</a> and <a href="/llms.txt">llms.txt</a> for agents.
+              </p>
+            </section>
+
+            <article>
+              <TrustedBy />
+              <CommunityFeedBanner />
+              <JobBoard
+                initialJobs={initialJobs}
+                initialTotal={totalJobs}
+                companyLogos={withLogoImageVariants(companyLogos)}
+                showResultCount={false}
+              />
+            </article>
+          </PageShell>
+        </main>
+      </div>
+    </>
+  );
+}

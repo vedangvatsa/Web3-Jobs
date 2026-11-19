@@ -127,9 +127,6 @@ const nextConfig = {
   },
   async redirects() {
     return [
-      // Root must stay a redirect only. A static app/page.tsx at `/` is registered
-      // as a CDN file on App Hosting and the edge 404s before this redirect runs.
-      { source: '/', destination: '/jobs', permanent: false },
       ...Object.entries(imageRedirects).map(([source, destination]) => ({ source, destination, permanent: true })),
       ...learnRedirects,
       ...nomadRedirects,

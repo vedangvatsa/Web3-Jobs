@@ -4,7 +4,7 @@ The September 20 build generated 37,174 routes: approximately 8,265 root detail 
 
 The root `[slug]` detail route prebuilds only the finite learning routes. Other details use `dynamic = 'force-static'`, `dynamicParams = true`, and a one-hour revalidation interval. A detail page is server-rendered on its first request and cached; it remains available without having been built in advance. The first visitor to an uncached URL pays the rendering cost.
 
-`/` is a temporary redirect to `/jobs`, not a static page. Job, event, news, and company directories, tools, glossary categories, and the finite course pages remain prebuilt. Data preparation still generates all runtime catalogs and job shards. The sitemap still advertises all canonical URLs; it no longer drives HTML generation.
+The homepage, job/event/news/company directories, tools, glossary categories, and the finite course pages remain prebuilt. Data preparation still generates all runtime catalogs and job shards. The sitemap still advertises all canonical URLs; it no longer drives HTML generation.
 
 ## Job expiry and cache boundaries
 
