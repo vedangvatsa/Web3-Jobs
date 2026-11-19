@@ -158253,7 +158253,8 @@
       },
       "account": "channel:ai",
       "attemptId": "937fee35-797d-4232-a369-af6fb54f4ef7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x086859a039a4e2d2959b73322793d4f4261926fa"
     }
   ]
 }
