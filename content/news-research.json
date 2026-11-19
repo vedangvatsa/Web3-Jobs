@@ -195620,7 +195620,31 @@
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 0,
       "expiresAt": "2026-11-21T02:47:51.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "articleSlug": "coinbaseaidf",
+      "draftProgress": {
+        "id": "41b467b8701d6ec174a3",
+        "day": "2026-11-19",
+        "articleSlug": "coinbaseaidf",
+        "note": "Read Coinbase Nov 17 blog post (primary), Unchained Nov 18 and Bitcoin Magazine Nov 18; figures cross-check (.7M stopped, ~91%, 500k+ viewers). Image and draft still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/coinbase-says-its-ai-agent-stopped-4-7-million-from-reaching-deepfake-musk-scammers/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:21:22.790Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "a9f50a0b1b511a28852e": {
       "source": "Crypto Briefing",
