@@ -160086,6 +160086,47 @@
       "attemptId": "60e97c74-1a3e-47e3-9e85-e9ccd55f7cbd",
       "verification": "verified",
       "postId": "0xd1107e82bb927abbc50889d3dde52751ae1bd879"
+    },
+    {
+      "slug": "an132",
+      "company": "TRM Labs",
+      "title": "Blockchain Intelligence Analyst, Transnational Crime Organizations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-19T11:37:30.238Z",
+      "expectedText": "TRM Labs is hiring Blockchain Intelligence Analyst, Transnational Crime Organizations: https://hashtagweb3.com/an132/li?og=7",
+      "snapshot": {
+        "id": "45d1bb73-86bf-4018-9f55-fd6752f47625",
+        "title": "Blockchain Intelligence Analyst, Transnational Crime Organizations",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/45d1bb73-86bf-4018-9f55-fd6752f47625",
+        "date": "2026-11-10T16:13:42.725+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "R&D",
+        "active": true,
+        "dateVerified": true,
+        "slug": "an132"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Blockchain Intelligence Analyst, Transnational Crime Organizations: https://hashtagweb3.com/an132/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an132/li?og=7",
+          "title": "Blockchain Intelligence Analyst, Transnational Crime Organizations at TRM Labs",
+          "description": "Join TRM Labs as Blockchain Intelligence Analyst, T. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an132.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "464637c8-4f11-4bed-b913-d4edc36a2883",
+      "verification": "creating"
     }
   ]
 }
