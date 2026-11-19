@@ -158362,5 +158362,433 @@
     "company": "Bit2Me",
     "title": "Legal Engineer - IA y automatización legal",
     "newSlug": "cmp181"
+  },
+  "mkt128": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt164"
+  },
+  "cmp140": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp188"
+  },
+  "eng819": {
+    "id": "4727541006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4727541006",
+    "company": "Fireblocks",
+    "title": "Sales Engineer"
+  },
+  "epc2": {
+    "id": "8376777",
+    "link": "https://stripe.com/jobs/search?gh_jid=8376777",
+    "company": "Stripe",
+    "title": "Executive Programs Coordinator"
+  },
+  "ops168": {
+    "id": "8158943",
+    "link": "https://stripe.com/jobs/search?gh_jid=8158943",
+    "company": "Stripe",
+    "title": "Fraud Operations Associate SDC"
+  },
+  "ops154": {
+    "id": "b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+    "link": "https://jobs.ashbyhq.com/kraken.com/b8843e87-11c2-4105-af24-a7a0d52e3d9b",
+    "company": "Kraken",
+    "title": "Talent Acquisition Operations Associate"
+  },
+  "ops152": {
+    "id": "199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+    "link": "https://jobs.ashbyhq.com/kraken.com/199de08b-fc19-40b4-aac0-6a1dd5a5942e",
+    "company": "Kraken",
+    "title": "Talent Acquisition Operations Associate"
+  },
+  "ips": {
+    "id": "3D9A9B86EF",
+    "link": "https://apply.workable.com/j/3D9A9B86EF",
+    "company": "Ajaib Crypto",
+    "title": "Influencer & Partnership Specialist"
+  },
+  "cssl14": {
+    "id": "8337029",
+    "link": "https://www.coinbase.com/careers/positions/8337029?gh_jid=8337029",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "des16": {
+    "id": "8212672",
+    "link": "https://stripe.com/jobs/search?gh_jid=8212672",
+    "company": "Stripe",
+    "title": "Instructional Designer, Global Sales Enablement"
+  },
+  "aso74": {
+    "id": "f1ceb46a-3329-4774-851d-baaa32035588",
+    "link": "https://jobs.ashbyhq.com/alchemy/f1ceb46a-3329-4774-851d-baaa32035588",
+    "company": "Alchemy",
+    "title": "Executive Assistant (Bucharest)"
+  },
+  "rcp": {
+    "id": "8045786003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8045786003",
+    "company": "OKX",
+    "title": "Head of Regulatory Change & Policy"
+  },
+  "sls342": {
+    "id": "8257494",
+    "link": "https://stripe.com/jobs/search?gh_jid=8257494",
+    "company": "Stripe",
+    "title": "Sales Manager - Brazil"
+  },
+  "sls324": {
+    "id": "8300616",
+    "link": "https://stripe.com/jobs/search?gh_jid=8300616",
+    "company": "Stripe",
+    "title": "Head of Key Accounts, Customer Success"
+  },
+  "mgr192": {
+    "id": "5010453101",
+    "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5010453101",
+    "company": "StraitsX",
+    "title": "Customer Success Manager"
+  },
+  "sls310": {
+    "id": "5428171008",
+    "link": "http://block.xyz/careers/jobs/5428171008?gh_jid=5428171008",
+    "company": "Block",
+    "title": "SMB Account Executive"
+  },
+  "dr4": {
+    "id": "JR101180",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Developer-Relations-Manager_JR101180",
+    "company": "Circle",
+    "title": "Developer Relations Manager"
+  },
+  "sec122": {
+    "id": "b0771bc3-19f0-4ac6-a70d-afb20bead255",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/b0771bc3-19f0-4ac6-a70d-afb20bead255",
+    "company": "Chainlink Labs",
+    "title": "Security Assurance Engineer"
+  },
+  "sls311": {
+    "id": "EE0FFEC988",
+    "link": "https://apply.workable.com/j/EE0FFEC988",
+    "company": "GoMining",
+    "title": "Junior/Middle Bookkeeper (US Operations)"
+  },
+  "ops115": {
+    "id": "8267621",
+    "link": "https://ripple.com/careers/all-jobs/job/8267621?gh_jid=8267621",
+    "company": "Ripple",
+    "title": "Treasury Manager, Global Treasury Operations"
+  },
+  "ops114": {
+    "id": "8267610",
+    "link": "https://ripple.com/careers/all-jobs/job/8267610?gh_jid=8267610",
+    "company": "Ripple",
+    "title": "Treasury Manager, Global Treasury Operations"
+  },
+  "ops113": {
+    "id": "8267600",
+    "link": "https://ripple.com/careers/all-jobs/job/8267600?gh_jid=8267600",
+    "company": "Ripple",
+    "title": "Treasury Manager, Global Treasury Operations"
+  },
+  "ops112": {
+    "id": "8267588",
+    "link": "https://ripple.com/careers/all-jobs/job/8267588?gh_jid=8267588",
+    "company": "Ripple",
+    "title": "Treasury Manager, Global Treasury Operations"
+  },
+  "be82": {
+    "id": "8302189",
+    "link": "https://www.coinbase.com/careers/positions/8302189?gh_jid=8302189",
+    "company": "Coinbase",
+    "title": "Staff Software Enginer, Backend - Payments Platform"
+  },
+  "sls309": {
+    "id": "8267829",
+    "link": "https://stripe.com/jobs/search?gh_jid=8267829",
+    "company": "Stripe",
+    "title": "Sales Manager, Startups - Hunter"
+  },
+  "sls308": {
+    "id": "8267839",
+    "link": "https://stripe.com/jobs/search?gh_jid=8267839",
+    "company": "Stripe",
+    "title": "Account Executive, Velocity Platforms (Hunter)"
+  },
+  "an99": {
+    "id": "8872849002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8872849002",
+    "company": "Figure",
+    "title": "Senior Financial Portfolio Analyst, Servicing"
+  },
+  "eng624": {
+    "id": "cfdae9c7-93de-482a-9006-68b4c35e0587",
+    "link": "https://jobs.ashbyhq.com/Augustus/cfdae9c7-93de-482a-9006-68b4c35e0587",
+    "company": "Augustus",
+    "title": "Engineering Fellowship"
+  },
+  "be94": {
+    "id": "8301253",
+    "link": "https://stripe.com/jobs/search?gh_jid=8301253",
+    "company": "Stripe",
+    "title": "Backend / API Engineer, Radar"
+  },
+  "sc": {
+    "id": "ce627938-6cc3-4395-9e1d-7f314ba07990",
+    "link": "https://jobs.ashbyhq.com/elliptic/ce627938-6cc3-4395-9e1d-7f314ba07990",
+    "company": "Elliptic",
+    "title": "Principal Solutions Consultant"
+  },
+  "ua": {
+    "id": "b22c4407-cf20-46a4-a3e7-dc370023f7e9",
+    "link": "https://jobs.ashbyhq.com/polymarket/b22c4407-cf20-46a4-a3e7-dc370023f7e9",
+    "company": "Polymarket",
+    "title": "Head of User Acquisition"
+  },
+  "rs15": {
+    "id": "888cc86a-755a-4f0c-9578-4a432e007d5c",
+    "link": "https://jobs.ashbyhq.com/polymarket/888cc86a-755a-4f0c-9578-4a432e007d5c",
+    "company": "Polymarket",
+    "title": "Senior Engineering Manager, Trust & Safety, Surveillance & Compliance"
+  },
+  "dfcw": {
+    "id": "95af2a56-949e-4c33-b5eb-205726328d4c",
+    "link": "https://jobs.lever.co/newton/95af2a56-949e-4c33-b5eb-205726328d4c",
+    "company": "Newton",
+    "title": "Director of Finance - Canada Wide - Remote"
+  },
+  "pm318": {
+    "id": "8301285",
+    "link": "https://www.coinbase.com/careers/positions/8301285?gh_jid=8301285",
+    "company": "Coinbase",
+    "title": "Senior Product Designer, Developer Foundations"
+  },
+  "ops111": {
+    "id": "78975a32-c00f-4b1b-bc4e-2462857d0a5a",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/78975a32-c00f-4b1b-bc4e-2462857d0a5a",
+    "company": "Chainalysis",
+    "title": "Senior Business Operations Analyst"
+  },
+  "eng829": {
+    "id": "f86d93b4-26df-4b1e-9840-da69b44fe487",
+    "link": "https://jobs.ashbyhq.com/mantle/f86d93b4-26df-4b1e-9840-da69b44fe487",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Mobile"
+  },
+  "eng828": {
+    "id": "bdbdcb02-e246-4a7b-9aec-9ab2405478f1",
+    "link": "https://jobs.ashbyhq.com/mantle/bdbdcb02-e246-4a7b-9aec-9ab2405478f1",
+    "company": "Mantle Network",
+    "title": "Software Engineer, Applied AI"
+  },
+  "mkt167": {
+    "id": "3c98e1d4-be2e-4184-b622-3fa84f7a6a7d",
+    "link": "https://jobs.ashbyhq.com/mantle/3c98e1d4-be2e-4184-b622-3fa84f7a6a7d",
+    "company": "Mantle Network",
+    "title": "Social & Content Marketing Manager"
+  },
+  "pm427": {
+    "id": "a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "link": "https://jobs.ashbyhq.com/mantle/a82a9801-10d7-406d-8201-7f6f36fcdc5a",
+    "company": "Mantle Network",
+    "title": "Product Manager"
+  },
+  "mkt163": {
+    "id": "3b6f3f75-5853-429a-a2d8-6e24c1039bfc",
+    "link": "https://jobs.ashbyhq.com/mantle/3b6f3f75-5853-429a-a2d8-6e24c1039bfc",
+    "company": "Mantle Network",
+    "title": "Performance Marketing Manager"
+  },
+  "eng827": {
+    "id": "1a79a170-0220-4bf9-a11d-c4213ea81448",
+    "link": "https://jobs.ashbyhq.com/mantle/1a79a170-0220-4bf9-a11d-c4213ea81448",
+    "company": "Mantle Network",
+    "title": "Head of Engineering"
+  },
+  "mkt166": {
+    "id": "74b653d6-838e-4b55-a721-0e0f47eb1c43",
+    "link": "https://jobs.ashbyhq.com/mantle/74b653d6-838e-4b55-a721-0e0f47eb1c43",
+    "company": "Mantle Network",
+    "title": "Growth Marketing Manager"
+  },
+  "arsa2": {
+    "id": "7f41cc90-9bf1-49a8-9285-3838033e627d",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/7f41cc90-9bf1-49a8-9285-3838033e627d",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Scientific AI"
+  },
+  "sec121": {
+    "id": "6332c3ca-ad83-421c-85df-c245861bdafd",
+    "link": "https://jobs.ashbyhq.com/chainalysis-government-solutions/6332c3ca-ad83-421c-85df-c245861bdafd",
+    "company": "Chainalysis",
+    "title": "Strategic Account Manager, National Security"
+  },
+  "pm317": {
+    "id": "6bb9ae67-797d-4ac7-9572-3c2d437adc61",
+    "link": "https://jobs.ashbyhq.com/trm-labs/6bb9ae67-797d-4ac7-9572-3c2d437adc61",
+    "company": "TRM Labs",
+    "title": "Group Product Manager, Onchain Compliance"
+  },
+  "sec120": {
+    "id": "8209307",
+    "link": "https://stripe.com/jobs/search?gh_jid=8209307",
+    "company": "Stripe",
+    "title": "Security Engineer, Bridge"
+  },
+  "arsa": {
+    "id": "1aec9bbb-74d2-4353-9be3-207f15ec6a4b",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/1aec9bbb-74d2-4353-9be3-207f15ec6a4b",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Sovereign AI"
+  },
+  "arr": {
+    "id": "93783399-a5cc-4037-853e-824cf0ad1aeb",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/93783399-a5cc-4037-853e-824cf0ad1aeb",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Robotics"
+  },
+  "tr131": {
+    "id": "e6430d82-f266-475e-a273-255c5b2bd521",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/e6430d82-f266-475e-a273-255c5b2bd521",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Quantitative Finance"
+  },
+  "arny": {
+    "id": "d63b3277-651e-4a81-85d8-888f0aef14f5",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/d63b3277-651e-4a81-85d8-888f0aef14f5",
+    "company": "Prime Intellect",
+    "title": "Lead Applied Researcher"
+  },
+  "arfd": {
+    "id": "af2f419f-6596-4805-8e83-9cee5016aa1a",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/af2f419f-6596-4805-8e83-9cee5016aa1a",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Forward-Deployed RL"
+  },
+  "pm316": {
+    "id": "d45f07a8-a506-4e54-8640-23ad76cc9a2e",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/d45f07a8-a506-4e54-8640-23ad76cc9a2e",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Ecosystem & Product"
+  },
+  "arcl": {
+    "id": "8a447701-448a-4ddd-8607-bee8ac836d88",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/8a447701-448a-4ddd-8607-bee8ac836d88",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Continual Learning"
+  },
+  "arcu": {
+    "id": "a6448ceb-aa39-4661-a2c0-350ef365c913",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/a6448ceb-aa39-4661-a2c0-350ef365c913",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Computer Use"
+  },
+  "arcd": {
+    "id": "9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/9ed2340b-029e-4f58-82f5-0d55f09aad5b",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Chip Design"
+  },
+  "arar": {
+    "id": "cbaa59ec-c133-400a-a0ae-ae95857f0690",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/cbaa59ec-c133-400a-a0ae-ae95857f0690",
+    "company": "Prime Intellect",
+    "title": "Applied Researcher - Agentic RL"
+  },
+  "ops185": {
+    "id": "6223511004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6223511004",
+    "company": "Galaxy Digital",
+    "title": "Analyst, Client Services & Operations"
+  },
+  "infra72": {
+    "id": "5586de7e-3746-4d73-94f8-a385c74467c1",
+    "link": "https://jobs.lever.co/unlimit/5586de7e-3746-4d73-94f8-a385c74467c1",
+    "company": "Unlimit",
+    "title": "Senior Infrastructure Security & Operations Engineer"
+  },
+  "pm315": {
+    "id": "6221638004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6221638004",
+    "company": "Alpaca",
+    "title": "Product Manager, Corporate Actions"
+  },
+  "pm314": {
+    "id": "b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+    "link": "https://jobs.ashbyhq.com/dune/b3fa8dd4-295d-4ddb-ae78-0936c48f3412",
+    "company": "Dune",
+    "title": "Head of Product"
+  },
+  "infra49": {
+    "id": "07f6f7bc-5f5b-4565-8897-9876763198dd",
+    "link": "https://jobs.ashbyhq.com/PrimeIntellect/07f6f7bc-5f5b-4565-8897-9876763198dd",
+    "company": "Prime Intellect",
+    "title": "Research Engineer - RL Infrastructure"
+  },
+  "be80": {
+    "id": "4996982101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4996982101",
+    "company": "Bybit",
+    "title": "Lead Backend Engineer, Trading Risk"
+  },
+  "arc25": {
+    "id": "8064171",
+    "link": "https://stripe.com/jobs/search?gh_jid=8064171",
+    "company": "Stripe",
+    "title": "Solutions Architect Manager, Platforms (Asia-Pacific)"
+  },
+  "be110": {
+    "id": "keka-liminal-167120",
+    "link": "https://liminal.keka.com/careers/jobdetails/167120",
+    "company": "Liminal",
+    "title": "Software Engineer - Backend"
+  },
+  "sls539": {
+    "id": "keka-dcx-146600",
+    "link": "https://dcx.keka.com/careers/jobdetails/146600",
+    "company": "BitOasis",
+    "title": "Institutional Sales",
+    "newSlug": "sls542"
+  },
+  "dev53": {
+    "id": "infosys-infsys-external-255106",
+    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1",
+    "company": "Infosys",
+    "title": "Blockchain Developer",
+    "newSlug": "dev56"
+  },
+  "cmp182": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp188"
+  },
+  "mkt160": {
+    "id": "3d52bffc-749a-4130-b3c8-476c3215743e",
+    "link": "https://jobs.ashbyhq.com/hifi/3d52bffc-749a-4130-b3c8-476c3215743e",
+    "company": "HIFI",
+    "title": "Marketing Lead",
+    "newSlug": "mkt165"
+  },
+  "sec182": {
+    "id": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "link": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "company": "HIFI",
+    "title": "Security Software Engineer",
+    "newSlug": "sec184"
+  },
+  "eng830": {
+    "id": "keka-dcx-145832",
+    "link": "https://dcx.keka.com/careers/jobdetails/145832",
+    "company": "BitOasis",
+    "title": "Senior Software Engineer - Android",
+    "newSlug": "eng833"
   }
 }

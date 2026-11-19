@@ -46505,5 +46505,407 @@
     "date": "2026-11-17T16:38:25+01:00",
     "dateVerified": true,
     "dateSource": "Bizneo.JobPosting.datePosted"
+  },
+  "ashby:1c6ebf8b-03b9-46a5-b617-ffadaa77e1a1": {
+    "date": "2026-11-18T12:56:31.000Z",
+    "dateVerified": true
+  },
+  "ashby:87cd399c-ad52-4dfd-b596-0180cc5cff39": {
+    "date": "2026-11-18T12:56:31.000Z",
+    "dateVerified": true
+  },
+  "ashby:5180783d-08fa-4da5-a967-baae5c26aada": {
+    "date": "2026-11-18T12:56:31.000Z",
+    "dateVerified": true
+  },
+  "ashby:e0165fad-5bc6-4453-bf9e-50497f15cb9b": {
+    "date": "2026-11-18T12:56:31.000Z",
+    "dateVerified": true
+  },
+  "ashby:c73e5d49-fcc0-4a27-97aa-020183b9002c": {
+    "date": "2026-11-18T12:56:30.000Z",
+    "dateVerified": true
+  },
+  "ashby:5855c2d8-492e-44a0-88ba-6b67c08194ef": {
+    "date": "2026-11-18T12:56:30.000Z",
+    "dateVerified": true
+  },
+  "ashby:05f647d9-08c9-4a2c-b61e-16cd54724a2a": {
+    "date": "2026-11-18T12:56:30.000Z",
+    "dateVerified": true
+  },
+  "ashby:adbb27a2-554e-47a6-a330-d0ac534adc62": {
+    "date": "2026-11-18T12:22:45.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8949497002": {
+    "date": "2026-11-18T00:22:14-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8949492002": {
+    "date": "2026-11-18T00:22:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:0cdfdcb9-6387-4e5c-90b4-480fa94562c3": {
+    "date": "2026-11-18T11:47:10.000Z",
+    "dateVerified": true
+  },
+  "ashby:ba77ecfb-9f10-4fe9-8a62-5687aa8de996": {
+    "date": "2026-11-18T11:47:10.000Z",
+    "dateVerified": true
+  },
+  "ashby:d12268a2-7e2b-4ef3-b53b-0808c648c427": {
+    "date": "2026-11-18T11:47:10.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/rain/jobs/100025806-senior-blockchain-security-engineer": {
+    "date": "2026-11-18T10:34:22.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/crossmint-2/jobs/100038107-financial-crimes-systems-controls-specialist-nyc-mia": {
+    "date": "2026-11-18T10:34:22.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/crossmint-2/jobs/100038104-engineering-manager-agents-nyc-mia": {
+    "date": "2026-11-18T10:34:22.000Z",
+    "dateVerified": true
+  },
+  "https://jobs.gem.com/usdai/am9icG9zdDqTx-IgGQM7fWUhyHquIyk1": {
+    "date": "2026-11-18T02:07:06.000Z",
+    "dateVerified": true
+  },
+  "ashby:330eb697-6e76-4033-9e73-7bd6c841a27a": {
+    "date": "2026-11-18T12:48:08.000Z",
+    "dateVerified": true
+  },
+  "https://blue.olympix.ai/careers/enterprise-account-executive": {
+    "date": "2026-11-18T17:43:19.000Z",
+    "dateVerified": true
+  },
+  "https://blue.olympix.ai/careers/chief-of-staff-strategic-partnerships": {
+    "date": "2026-11-18T17:43:19.000Z",
+    "dateVerified": true
+  },
+  "https://www.etoro.com/about/careers/position/5039998101": {
+    "date": "2026-11-18T12:48:05.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8200548003": {
+    "date": "2026-11-18T10:24:53-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8392755": {
+    "date": "2026-11-18T07:46:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8358823": {
+    "date": "2026-11-18T04:13:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8352487": {
+    "date": "2026-11-18T00:55:16-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8375966": {
+    "date": "2026-11-18T14:01:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8397260": {
+    "date": "2026-11-18T10:02:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8383464": {
+    "date": "2026-11-18T10:31:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8393436": {
+    "date": "2026-11-18T07:55:00-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8387804": {
+    "date": "2026-11-18T12:46:01-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8275259": {
+    "date": "2026-11-18T08:21:16-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8374754": {
+    "date": "2026-11-18T16:12:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8393544": {
+    "date": "2026-11-18T04:42:28-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7919030": {
+    "date": "2026-05-14T21:34:53-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7917880": {
+    "date": "2026-11-18T09:31:48-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8311332": {
+    "date": "2026-11-18T13:24:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8400323": {
+    "date": "2026-11-18T19:09:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8397873": {
+    "date": "2026-11-18T13:07:40-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8399778": {
+    "date": "2026-11-18T12:35:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8241579": {
+    "date": "2026-11-17T23:23:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5040707101": {
+    "date": "2026-11-18T12:50:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5041477101": {
+    "date": "2026-11-18T10:19:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4979569101": {
+    "date": "2026-09-17T14:58:45-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4512315009": {
+    "date": "2026-11-18T10:32:57-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5485941008": {
+    "date": "2026-11-18T11:05:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6265138004": {
+    "date": "2026-11-18T11:33:54-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8398941": {
+    "date": "2026-11-18T09:59:23-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8112754003": {
+    "date": "2026-11-18T16:27:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7860424003": {
+    "date": "2026-08-12T15:33:59-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8207800003": {
+    "date": "2026-11-18T19:35:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5017672101": {
+    "date": "2026-11-18T12:12:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6186844004": {
+    "date": "2026-11-18T15:57:34-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8392316": {
+    "date": "2026-11-18T06:11:09-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6265126004": {
+    "date": "2026-11-18T11:21:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6264915004": {
+    "date": "2026-11-18T07:28:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5487073008": {
+    "date": "2026-11-18T16:10:15-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:2f728145-d821-4e28-9359-22f59632f049": {
+    "date": "2026-11-18T12:25:27.760Z",
+    "dateVerified": true
+  },
+  "lever:cf9d2789-c9e6-4c23-9e2a-e7ed8795e8ad": {
+    "date": "2026-11-18T14:19:19.768Z",
+    "dateVerified": true
+  },
+  "lever:fc827027-91fd-4007-997b-ce842fce3ca2": {
+    "date": "2026-07-28T13:48:25.257Z",
+    "dateVerified": true
+  },
+  "ashby:673c3adf-dc19-4a06-9b68-083f1e8a731d": {
+    "date": "2026-11-18T12:32:37.167+00:00",
+    "dateVerified": true
+  },
+  "ashby:f90d32c1-7c10-4161-8913-075e1b423697": {
+    "date": "2026-11-18T21:30:13.928+00:00",
+    "dateVerified": true
+  },
+  "ashby:89351eb5-2d24-4c64-aef9-abc48fcfa7a8": {
+    "date": "2026-11-18T12:42:37.882+00:00",
+    "dateVerified": true
+  },
+  "ashby:6dceb82a-2dd4-4224-a583-12f373f17d11": {
+    "date": "2026-11-18T21:09:58.941+00:00",
+    "dateVerified": true
+  },
+  "ashby:cfc31baf-4d1a-40d6-892e-a2e8b6f6d723": {
+    "date": "2026-11-18T15:35:14.644+00:00",
+    "dateVerified": true
+  },
+  "ashby:4f05bef8-d46c-4d93-8d8d-f03030bc9065": {
+    "date": "2026-11-18T18:04:41.006+00:00",
+    "dateVerified": true
+  },
+  "ashby:2d6568d4-98bd-4852-9551-698851e1b608": {
+    "date": "2026-11-18T13:44:38.038+00:00",
+    "dateVerified": true
+  },
+  "ashby:20c96151-c716-4498-88f5-7567d50ab97e": {
+    "date": "2026-11-18T20:46:01.170+00:00",
+    "dateVerified": true
+  },
+  "ashby:1de8e4bb-224d-43f3-b826-be513d13243c": {
+    "date": "2026-11-18T20:45:58.839+00:00",
+    "dateVerified": true
+  },
+  "ashby:88441980-1cb0-46a2-ae01-ee358650fd6c": {
+    "date": "2026-11-19T00:15:46.501+00:00",
+    "dateVerified": true
+  },
+  "ashby:b113cd97-5c66-48a1-8949-8a748becad47": {
+    "date": "2026-11-19T00:15:31.842+00:00",
+    "dateVerified": true
+  },
+  "ashby:81a13891-b019-4369-89e1-52ec801a1dcc": {
+    "date": "2026-11-18T14:26:34.436+00:00",
+    "dateVerified": true
+  },
+  "ashby:b79b9692-f1a0-459d-854c-50518a827918": {
+    "date": "2026-11-18T20:46:10.801+00:00",
+    "dateVerified": true
+  },
+  "ashby:fb3b060e-83d9-497f-8c7b-98e942c2fdd2": {
+    "date": "2026-11-18T20:46:12.437+00:00",
+    "dateVerified": true
+  },
+  "ashby:df3b7383-2900-4e72-acb0-eb3c1667573c": {
+    "date": "2026-11-18T22:57:29.458+00:00",
+    "dateVerified": true
+  },
+  "ashby:4f9a0c1c-e29f-4fe1-8117-191ce1bd04d4": {
+    "date": "2026-11-18T22:33:50.471+00:00",
+    "dateVerified": true
+  },
+  "ashby:4237a126-68f1-495a-b8fc-39f9f59054f1": {
+    "date": "2026-11-18T18:11:29.936+00:00",
+    "dateVerified": true
+  },
+  "ashby:0bf068a3-4290-402d-a1fe-8413bd5b8cd1": {
+    "date": "2026-11-18T10:31:49.761+00:00",
+    "dateVerified": true
+  },
+  "ashby:13ab13db-df13-4093-847a-acc31f88f46e": {
+    "date": "2026-11-18T22:35:50.887+00:00",
+    "dateVerified": true
+  },
+  "ashby:ef14e188-a626-42cd-a72a-6b11139a2bcd": {
+    "date": "2026-11-18T18:40:08.892+00:00",
+    "dateVerified": true
+  },
+  "workable:7187e901a3": {
+    "date": "2026-11-18T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/bare-developer-100-remote-worldwide-c-javascript-1": {
+    "date": "2026-11-18T17:57:11Z",
+    "dateVerified": true
+  },
+  "breezy:bitdeer.breezy.hr:a6dc4c1ae1fa": {
+    "date": "2026-11-18",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/a6dc4c1ae1fa-senior-legal-counsel-power-and-land",
+      "checkedAt": "2026-11-19T01:22:19.886Z",
+      "bodySha256": "05533c53c449f374a39dcc2422af4ce7549efc27bc1fbdc62f8d57db37a458dc",
+      "provider": "breezy",
+      "datePosted": "2026-11-18"
+    }
+  },
+  "https://hrmos.co/pages/bitbank/jobs/0000326": {
+    "date": "2026-11-18T09:56:29.000Z",
+    "dateVerified": true
+  },
+  "https://careers.kula.ai/relay/53258": {
+    "date": "2026-08-19T16:25:14.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
+  },
+  "https://careers.kula.ai/relay/69293": {
+    "date": "2026-11-18T18:48:16.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
+  },
+  "https://careers.kula.ai/relay/69294": {
+    "date": "2026-11-18T18:58:10.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
+  },
+  "https://careers.kula.ai/relay/69295": {
+    "date": "2026-11-18T19:03:11.000Z",
+    "dateVerified": true,
+    "dateSource": "Kula.Job.launch_at"
+  },
+  "https://empleo.bit2me.com/jobs/sales-development-representative-sdr-a29a9a44-b814-4335-ac43-5410e07d1ec0": {
+    "date": "2026-11-18T12:34:52+01:00",
+    "dateVerified": true,
+    "dateSource": "Bizneo.JobPosting.datePosted"
   }
 }
