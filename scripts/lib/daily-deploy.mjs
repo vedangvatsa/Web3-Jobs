@@ -163,15 +163,17 @@ export async function recordDeploymentResult({ store, claim, resource, kind, now
   });
 }
 
-export async function runDailyDeployment({ store, date, id, sourceCommit, content, token, request = fetch, sleep = delay, now = Date.now, evidence = async () => {}, buildPolls = 80, rolloutPolls = 40 }) {
-  if (!token) throw new Error('Firebase deployment authorization is required');
+export async function runDailyDeployment({ store, date, id, sourceCommit, content, token, getAccessToken, request = fetch, sleep = delay, now = Date.now, evidence = async () => {}, buildPolls = 160, rolloutPolls = 40 }) {
+  if (!token && !getAccessToken) throw new Error('Firebase deployment authorization is required');
+  const readAccessToken = () => (typeof getAccessToken === 'function' ? getAccessToken() : token);
   const claim = await claimDailyDeployment({ store, date, id, sourceCommit, content, now });
   if (!claim) return { deployed: false };
   await evidence('claim', claim);
   const api = async (resource, body) => {
+    const accessToken = readAccessToken();
     const response = await request(`https://firebaseapphosting.googleapis.com/v1beta/${resource}`, {
       method: body ? 'POST' : 'GET', redirect: 'error', signal: AbortSignal.timeout(30000),
-      headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json' }, ...(body ? { body: JSON.stringify(body) } : {}),
+      headers: { Authorization: `Bearer ${accessToken}`, 'Content-Type': 'application/json' }, ...(body ? { body: JSON.stringify(body) } : {}),
     });
     if (!response.ok) throw new Error(`Firebase deployment HTTP ${response.status}; durable claim retained`);
     const result = await response.json();

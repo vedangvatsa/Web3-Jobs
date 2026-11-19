@@ -29,10 +29,12 @@ async function main() {
   if (action !== 'deploy') throw new Error('Unknown deployment command');
   const directory = '.cache/daily-deploy';
   fs.mkdirSync(directory, { recursive: true });
+  const gcloudToken = () => execFileSync('gcloud', ['auth', 'print-access-token'], { encoding: 'utf8' }).trim();
   const result = await runDailyDeployment({
     store, date, id: `${process.env.GITHUB_RUN_ID}-${process.env.GITHUB_RUN_ATTEMPT}`,
     sourceCommit: execFileSync('git', ['rev-parse', 'HEAD'], { encoding: 'utf8' }).trim(), content,
-    token: process.env.FIREBASE_ACCESS_TOKEN,
+    token: process.env.FIREBASE_ACCESS_TOKEN || gcloudToken(),
+    getAccessToken: gcloudToken,
     evidence: async (name, value) => { fs.writeFileSync(path.join(directory, `${name}.json`), JSON.stringify(value, null, 2) + '\n'); },
   });
   output('deployed', result.deployed);
