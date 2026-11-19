@@ -561,7 +561,7 @@
     "sentAt": "2026-11-19T03:37:48.622Z"
   },
   "c7e6e809-6981-4486-ad67-a4a5eea7b1c8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T11:38:10.037Z",
     "stories": [
       {
@@ -589,6 +589,8 @@
         "originalTitle": "Strategy buys 485 bitcoin for $33.4 million as preferred buybacks reach $228 million"
       }
     ],
-    "slotKey": "2026-11-19:afternoon"
+    "slotKey": "2026-11-19:afternoon",
+    "messageId": 65843,
+    "sentAt": "2026-11-19T11:38:28.725Z"
   }
 }
