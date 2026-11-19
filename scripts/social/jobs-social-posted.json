@@ -156892,6 +156892,38 @@
       "attemptId": "9d5e7540-f9d8-42ea-bde7-d95e12627350",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 18-Nov-26 20:23:02 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AHbl-X8migL1ROOlbRFFklI\"}"
+    },
+    {
+      "slug": "cmp33",
+      "company": "Jane Street",
+      "title": "Compliance Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-11-19T04:22:52.365Z",
+      "expectedText": "Jane Street is hiring Compliance Analyst: https://hashtagweb3.com/cmp33/bsky?og=7",
+      "snapshot": {
+        "id": "8894046002",
+        "title": "Compliance Analyst",
+        "company": "Jane Street",
+        "link": "https://www.janestreet.com/join-jane-street/apply/8894046002?gh_jid=8894046002",
+        "date": "2026-10-21T04:25:58-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Jane Street [janestreet]",
+        "location": "London, England, United Kingdom",
+        "department": "Legal and Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp33"
+      },
+      "payload": {
+        "text": "Jane Street is hiring Compliance Analyst: https://hashtagweb3.com/cmp33/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/cmp33/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/cmp33.png?v=7",
+        "company": "Jane Street",
+        "title": "Compliance Analyst",
+        "description": "Join Jane Street as Compliance Analyst. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "a543ad76-611f-4549-8836-dd46686914ea",
+      "verification": "creating"
     }
   ]
 }
