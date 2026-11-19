@@ -5097,10 +5097,6 @@
       "sha256": "b39ff70c5a1527792bac1fabbf09a9c3ed7e8e6a9bfe15f539451e5ba1694323",
       "status": "retained"
     },
-    "/events/mu-317272375-d908933c.webp": {
-      "sha256": "40c2fb591cb37373d85bb5751c7cd96a03bf1fb4d23cc4510f007a94b25c698b",
-      "status": "optimized"
-    },
     "/events/near-builders-cafe-2-e87a9de0.webp": {
       "sha256": "dc089470e699d6ae9722ca061942880529d1fed199e09a5c330669070d703903",
       "status": "optimized"

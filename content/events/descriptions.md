@@ -32490,6 +32490,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1a861c250cbeef1a"></a>
+
+## One Trillion Parameters, One Token at a Time
+
+- Record: `mu-317470137`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T05:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/ai-performance-engineering/events/317470137/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-926897ec2587830f"></a>
 
 ## One Trillion Parameters, One Token at a Time
@@ -32909,6 +32921,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c8d9e95e9c5a27e7"></a>
+
+## Winter Solstice Wind-Up Week #6
+
+- Record: `mu-317448645`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T09:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/velogirls/events/317448645/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-926d4f4621e77283"></a>
 
 ## field:work \| Poetry in Computation (Stanza Schematics)
@@ -33206,6 +33230,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23T17:45:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/4md8swos>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9786da38b3e42ec6"></a>
+
+## Web3 and AI networking at The Rose & Crown
+
+- Record: `mu-317280212`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23T18:30:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/palo-alto-cryptomondays-meetup/events/317280212/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35025,6 +35061,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-54e242a7917cf19b"></a>
+
+## The Basics of Options: From Definitions to Your First Trade
+
+- Record: `mu-317454514`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T08:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/san-francisco-options-trading-group/events/317454514/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-48b16085fafa162a"></a>
 
 ## Semiconductor Deep Dive: Lecture by HackerFab
@@ -35759,6 +35807,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-12T04:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/t3fnivle>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ec4c447174fb2330"></a>
+
+## Holiday Party & Socratic Seminar
+
+- Record: `mu-317385528`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-12T12:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/sf-bitcoin-devs/events/317385528/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
