@@ -192299,22 +192299,14 @@
         "id": "b72b524a864abd786a29",
         "day": "2026-11-19",
         "articleSlug": "coingeckostake",
-        "note": "Rechecked the primary announcement URL with curl this round: HTTP 200 with a browser User-Agent but 403 with the default curl User-Agent, which is what failed yesterday's link gate. No source re-reads completed and no draft produced this round. Next attempt must open the CoinGecko announcement content again and cite only links that pass the default-UA check, or substitute another verified primary before drafting.",
+        "note": "Re-verified the CoinGecko primary announcement URL with curl today: HTTP 200 with a browser User-Agent but HTTP 403 with the default User-Agent, which fails the link gate; no draft produced. Decrypt, Cointelegraph and Unchained companions pass the default-UA check (HTTP 200) but were not re-read this round. Next attempt must either find a primary URL that passes the default UA or draft from re-read outlet reports without citing the 403 primary.",
         "sourceChecks": [
           {
-            "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-            "outcome": "read"
-          },
-          {
-            "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake",
-            "outcome": "read"
-          },
-          {
-            "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
-            "outcome": "read"
+            "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-19T01:58:49.416Z",
+        "updatedAt": "2026-11-19T02:15:04.306Z",
         "approved": false,
         "mustReview": true
       },
