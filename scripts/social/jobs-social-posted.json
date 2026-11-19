@@ -155437,6 +155437,41 @@
       "attemptId": "7c6ea47e-22d4-4864-845d-354482fea3b3",
       "verification": "verified",
       "postId": "0x2303da2876615759fdd2df26984f360416138965"
+    },
+    {
+      "slug": "mkt144",
+      "company": "Kalshi",
+      "title": "Software Engineer, Marketing",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T03:37:54.925Z",
+      "expectedText": "Kalshi is hiring Software Engineer, Marketing\n\nhttps://hashtagweb3.com/mkt144/fc?og=7",
+      "snapshot": {
+        "id": "49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+        "title": "Software Engineer, Marketing",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/49734bb7-ca1f-40fe-a5cf-27ccb8f70c6e",
+        "date": "2026-11-10T14:50:01.447+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Growth",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mkt144"
+      },
+      "payload": {
+        "text": "Kalshi is hiring Software Engineer, Marketing\n\nhttps://hashtagweb3.com/mkt144/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mkt144/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "9d678230-6ace-4963-977e-73f9f4ed5939",
+      "verification": "creating"
     }
   ]
 }
