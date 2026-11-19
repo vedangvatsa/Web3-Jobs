@@ -6,6 +6,7 @@ import { setTimeout as delay } from 'node:timers/promises';
 import { chromium } from 'playwright';
 import puppeteer from 'puppeteer';
 import jobs from '../content/jobs-runtime.json';
+import { displayJobTitle } from '../src/lib/display-job-title';
 
 const origin = 'http://127.0.0.1:3167';
 async function main() {
@@ -69,8 +70,8 @@ async function main() {
     for (const job of companyJobs) {
       const response = await page.goto(`${origin}/${job.slug}`, { waitUntil: 'load' });
       assert.equal(response?.status(), 200, `${job.slug}: ${logs}`);
-      const heading = await page.getByRole('heading', { level: 1, name: job.title, exact: true }).textContent({ timeout: 10000 });
-      assert.equal(heading, job.title);
+      const heading = await page.getByRole('heading', { level: 1, name: displayJobTitle(job.title), exact: true }).textContent({ timeout: 10000 });
+      assert.equal(heading, displayJobTitle(job.title));
       assert.ok(await page.locator('a[href^="https://jobs.ashbyhq.com/openstandard/"]').count());
     }
     console.log(JSON.stringify({ responsiveChecks: results, variantFailureFallsBackToOriginal: true, openStandardSpecificRoles: companyJobs.length, generalInterestExcluded: true }, null, 2));

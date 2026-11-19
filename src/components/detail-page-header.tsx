@@ -11,6 +11,7 @@ export function DetailPageHeader({
   currentPageLabel,
   icon,
   title,
+  titleDetail,
   subtitle,
   metadata,
   actions,
@@ -21,6 +22,8 @@ export function DetailPageHeader({
   currentPageLabel?: string;
   icon: ReactNode;
   title: string;
+  /** Official title when the visible heading is shortened. */
+  titleDetail?: string;
   subtitle?: ReactNode;
   metadata?: ReactNode;
   actions?: ReactNode;
@@ -51,7 +54,7 @@ export function DetailPageHeader({
           <div className="flex min-w-0 flex-row items-start gap-3 lg:contents">
             <div className="flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden">{icon}</div>
             <div className="min-w-0 flex-1">
-              <h1 className="break-words text-2xl font-bold tracking-tight lg:text-4xl">{title}</h1>
+              <h1 className="break-words text-2xl font-bold tracking-tight lg:text-4xl" title={titleDetail && titleDetail !== title ? titleDetail : undefined}>{title}</h1>
               {subtitle && <div className="mt-1 min-w-0">{subtitle}</div>}
               {metadata && (
                 <div className="mt-2 flex min-w-0 flex-wrap gap-x-4 gap-y-1.5 text-sm text-muted-foreground">

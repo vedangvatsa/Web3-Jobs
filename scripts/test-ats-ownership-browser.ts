@@ -8,6 +8,7 @@ import puppeteer from 'puppeteer';
 import { load } from 'cheerio';
 import type { Job } from '../src/types';
 import type { LegacySlugRecord } from '../src/lib/job-slugs';
+import { displayJobTitle } from '../src/lib/display-job-title';
 
 async function main() {
   const jobs = JSON.parse(fs.readFileSync('content/jobs-runtime.json', 'utf8')) as Job[];
@@ -52,7 +53,7 @@ async function main() {
 
     for (const job of replacements) {
       assert.equal((await page.goto(`${origin}/${job.slug}`, { waitUntil: 'load' }))?.status(), 200, job.slug);
-      assert.equal(await page.getByRole('heading', { level: 1, name: job.title, exact: true }).textContent(), job.title);
+      assert.equal(await page.getByRole('heading', { level: 1, name: displayJobTitle(job.title), exact: true }).textContent(), displayJobTitle(job.title));
       assert.ok(await page.locator(`a[href="${job.link}"]`).count(), `Wrong application link: ${job.slug}`);
     }
     for (const [slug, website] of [['rain', 'https://www.rain.xyz'], ['ramp', 'https://ramp.com'], ['sui-foundation', 'https://sui.io'], ['plume-network', 'https://www.plumenetwork.xyz']]) {

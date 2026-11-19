@@ -3,6 +3,7 @@
 import type { Job } from '@/types';
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
+import { displayJobTitle } from '@/lib/display-job-title';
 import { getJobSlug } from '@/lib/job-slugs';
 import { CompanyLogo } from '@/components/company-logo';
 import type { ResponsiveImagePlan } from '@/lib/responsive-images';
@@ -23,7 +24,7 @@ export function JobCard({ job, logoUrl, faviconUrl, imageVariants, showLocation 
             </div>
             <div className="min-w-0">
               <CardTitle className="text-base leading-snug font-semibold line-clamp-2" title={job.title}>
-                {job.title}
+                {displayJobTitle(job.title)}
               </CardTitle>
               <p className="text-xs text-muted-foreground truncate mt-0.5">{job.company}</p>
               {showLocation && job.location && <p className="mt-1 truncate text-xs text-muted-foreground" title={job.location}>{job.location}</p>}

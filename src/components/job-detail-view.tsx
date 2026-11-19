@@ -5,6 +5,7 @@ import { CompanyLogo } from '@/components/company-logo';
 import { JobApplicationButton } from '@/components/tracking/job-application-button';
 import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { DetailPageHeader } from '@/components/detail-page-header';
+import { displayJobTitle } from '@/lib/display-job-title';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
 import { resolveJobLocation } from '@/lib/job-location';
@@ -120,7 +121,8 @@ export function JobDetailView({
               size="h-full w-full"
             />
         }
-        title={job.title}
+        title={displayJobTitle(job.title)}
+        titleDetail={job.title}
         subtitle={<Link href={`/${companySlug}`} className="inline-block font-medium hover:text-primary">{job.company}</Link>}
         metadata={
           <>
