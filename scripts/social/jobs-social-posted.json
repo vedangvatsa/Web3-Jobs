@@ -158715,7 +158715,8 @@
       },
       "account": "channel:web3",
       "attemptId": "17267a0c-8646-472f-803e-9da6facffc0b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3567c0ebeb218e0675ce3324c6a7b44a0485aa0b"
     }
   ]
 }
