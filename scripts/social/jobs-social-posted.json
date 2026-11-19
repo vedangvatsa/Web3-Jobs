@@ -158323,7 +158323,8 @@
       },
       "account": "channel:design",
       "attemptId": "a95dd263-4830-4203-a0ef-e66c2dce66c6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3134c56be5da091d4ad9dc30fd9fb82a10341306"
     }
   ]
 }
