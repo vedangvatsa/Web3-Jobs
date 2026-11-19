@@ -155651,7 +155651,8 @@
       },
       "account": "channel:design",
       "attemptId": "e2c2f22d-1408-418a-b7f2-e1e719c3d072",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x16a2a243bbc94232adb2162f6e4a6098dae7f2c7"
     }
   ]
 }
