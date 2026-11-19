@@ -197999,7 +197999,27 @@
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 0,
       "expiresAt": "2026-11-21T21:13:58.000Z",
-      "lastSeenAt": "2026-11-19T01:19:46.202Z"
+      "lastSeenAt": "2026-11-19T01:19:46.202Z",
+      "articleSlug": "ledgerberlin",
+      "draftProgress": {
+        "id": "5590d4e42e9825f142f5",
+        "day": "2026-11-19",
+        "articleSlug": "ledgerberlin",
+        "note": "Read Cointelegraph's and Decrypt's Nov 18 reports in full this round. Verified the Berlin warning for customers who bought since January 2026, two suspected Dubai units with 04,000 combined losses, the same-incident link to the Southeast Asia CryptoBilis campaign, one affected Nano Gen5, identical recovery-phrase capture modifications, no secure-chip or OS flaw, no confirmed ledger.com cases, and the Vierzon X-ray inspection offer. Draft and image still to be produced.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:58:05.823Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "a0c7385fb89e2ce5843c": {
       "source": "Crypto Briefing",
