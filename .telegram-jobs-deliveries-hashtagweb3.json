@@ -2141,5 +2141,122 @@
     "slotKey": "2026-11-19:afternoon",
     "messageId": 156347,
     "sentAt": "2026-11-19T11:32:34.885Z"
+  },
+  "5a1d51da-aff7-4740-a188-ab1e917a29bb": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T19:33:24.588Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "bdd4e03d-f166-46bc-b177-ab1f59b4efb4",
+          "title": "Business System Analyst (MEX Team)",
+          "company": "CoinsPaid",
+          "link": "https://jobs.eu.lever.co/coinspaid/bdd4e03d-f166-46bc-b177-ab1f59b4efb4",
+          "date": "2026-11-16T11:34:33.430Z",
+          "source": "Lever: CoinsPaid [coinspaid]",
+          "location": "Hybrid (Remote - European Region)",
+          "workplaceType": "hybrid",
+          "department": "Products Division",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an143"
+        },
+        "key": "bdd4e03d-f166-46bc-b177-ab1f59b4efb4",
+        "slug": "an143",
+        "url": "https://hashtagweb3.com/an143?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinsPaid",
+        "title": "Business System Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8042742003",
+          "title": "Compliance Analyst - AML Investigations",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8042742003",
+          "date": "2026-10-23T09:47:35-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Sliema, Malta",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp54"
+        },
+        "key": "8042742003",
+        "slug": "cmp54",
+        "url": "https://hashtagweb3.com/cmp54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Compliance Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "6237795004",
+          "title": "Site Reliability Engineer",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6237795004",
+          "date": "2026-10-28T13:29:47-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "Afton, TX",
+          "department": "Data Centers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng677"
+        },
+        "key": "6237795004",
+        "slug": "eng677",
+        "url": "https://hashtagweb3.com/eng677?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "Site Reliability Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8351504",
+          "title": "Recruiting Scheduler",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8351504",
+          "date": "2026-11-04T08:57:16-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Chicago",
+          "department": "6523 Recruiting Enablement",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rs20"
+        },
+        "key": "8351504",
+        "slug": "rs20",
+        "url": "https://hashtagweb3.com/rs20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Recruiting Scheduler"
+      },
+      {
+        "snapshot": {
+          "id": "3d52bffc-749a-4130-b3c8-476c3215743e",
+          "title": "Marketing Lead",
+          "company": "HIFI",
+          "link": "https://jobs.ashbyhq.com/hifi/3d52bffc-749a-4130-b3c8-476c3215743e",
+          "date": "2026-11-04T14:57:35.461+00:00",
+          "source": "Ashby: HIFI [hifi]",
+          "location": "New York City",
+          "department": "Marketing",
+          "salary": "$115,000–$210,000 per year (USD)",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "applyUrl": "https://jobs.ashbyhq.com/hifi/3d52bffc-749a-4130-b3c8-476c3215743e/application",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt165"
+        },
+        "key": "3d52bffc-749a-4130-b3c8-476c3215743e",
+        "slug": "mkt165",
+        "url": "https://hashtagweb3.com/mkt165?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "HIFI",
+        "title": "Marketing Lead"
+      }
+    ],
+    "message": "- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/an143?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business System Analyst (MEX Team)</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/cmp54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Analyst - AML Investigations</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/eng677?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Site Reliability Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/rs20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruiting Scheduler</a>\n- HIFI is hiring <a href=\"https://hashtagweb3.com/mkt165?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Lead</a>",
+    "slotKey": "2026-11-19:evening"
   }
 }
