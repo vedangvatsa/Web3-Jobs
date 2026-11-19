@@ -190163,37 +190163,59 @@
       ],
       "alsoCoveredBy": [],
       "id": "28afccbe3ead57da3872",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-19T23:00:00.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"How to Buy the Anthropic IPO Stock? Crypto Traders Already Price It 26% Higher\": https://beincrypto.com/how-to-buy-anthropic-ipo-ant-shares/ -> HTTP 403; https://thedefiant.io/frontier/ai/anthropic-pairs-ipo-with-26-billion-tech-backer-deal -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Read Ondo's Nov 18 announcement via Chainwire (primary), Bitcoin.com News Nov 18, Bankless Nov 18, CNBC's pricing story and Anthropic's own Nov 18 pricing release; verified the ANTon launch terms, the De Bode quote, the Binance Wallet 500M USDC cap and 5% fee, ANTx/rANT mechanics, the June SpaceX refunds, the $83 pricing, 980M shares (956,351,354 company shares), Nov 19 ANT trading start, 147M greenshoe and CNBC's $81.3B and $1.5T figures. New event (tokenized IPO sales) distinct from the existing anthropicipo roadshow article. Draft anton.md (708 words) passes quality, formatting, duplicate and image audits; cited links return HTTP 200; hero self-hosted CC BY Wikimedia photo of an Anthropic office visit. BeInCrypto, The Block and The Defiant companions returned HTTP 403 and were not cited.",
       "sourceChecks": [
         {
+          "url": "https://chainwire.org/2026/11/18/ondo-stocks-to-launch-anton-with-24-7-mint-and-redeem-live-on-ipo-day/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://news.bitcoin.com/finance/ondo-launch-tokenized-anthropic-stock-ipo-demand-nears-500m/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/crypto-lines-up-for-tokenized-anthropic-before-its-ipo",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+          "outcome": "read"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg",
+          "outcome": "read"
+        },
+        {
           "url": "https://beincrypto.com/how-to-buy-anthropic-ipo-ant-shares/",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-18T01:44:46.634Z"
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+          "outcome": "blocked"
         },
         {
           "url": "https://thedefiant.io/frontier/ai/anthropic-pairs-ipo-with-26-billion-tech-backer-deal",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-18T01:44:43.615Z"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-18T01:44:53.940Z",
+      "reviewedAt": "2026-11-19T01:31:51.690Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: How to Buy the Anthropic IPO Stock? Crypto Traders Already Price It 26% Higher",
         "Find independent reporting confirming the event in: How to Buy the Anthropic IPO Stock? Crypto Traders Already Price It 26% Higher",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "articleSlug": "anton"
     },
     "7ed0a220a67fe9693bae": {
       "source": "The Block",
@@ -381035,6 +381057,51 @@
           ],
           "reviewedAt": "2026-11-19T01:28:06.175Z",
           "articleSlug": "backpackfcm"
+        },
+        "28afccbe3ead57da3872": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Ondo's Nov 18 announcement via Chainwire (primary), Bitcoin.com News Nov 18, Bankless Nov 18, CNBC's pricing story and Anthropic's own Nov 18 pricing release; verified the ANTon launch terms, the De Bode quote, the Binance Wallet 500M USDC cap and 5% fee, ANTx/rANT mechanics, the June SpaceX refunds, the $83 pricing, 980M shares (956,351,354 company shares), Nov 19 ANT trading start, 147M greenshoe and CNBC's $81.3B and $1.5T figures. New event (tokenized IPO sales) distinct from the existing anthropicipo roadshow article. Draft anton.md (708 words) passes quality, formatting, duplicate and image audits; cited links return HTTP 200; hero self-hosted CC BY Wikimedia photo of an Anthropic office visit. BeInCrypto, The Block and The Defiant companions returned HTTP 403 and were not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://chainwire.org/2026/11/18/ondo-stocks-to-launch-anton-with-24-7-mint-and-redeem-live-on-ipo-day/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://news.bitcoin.com/finance/ondo-launch-tokenized-anthropic-stock-ipo-demand-nears-500m/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/crypto-lines-up-for-tokenized-anthropic-before-its-ipo",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter_Kyle_visits_Anthropic_in_San_Francisco._%2854098999333%29.jpg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/how-to-buy-anthropic-ipo-ant-shares/",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-18-ondo-to-launch-tokenized-anthropic-stock-on-ipo-day-443482",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/ai/anthropic-pairs-ipo-with-26-billion-tech-backer-deal",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:31:51.690Z",
+          "articleSlug": "anton"
         }
       },
       "baselineSlugs": [
