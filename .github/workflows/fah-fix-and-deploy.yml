@@ -22,7 +22,7 @@ on:
 
 concurrency:
   group: fah-deploy
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -145,7 +145,12 @@ jobs:
             -d '{"source":{"codebase":{"branch":"main"}}}')
           echo "$RESP"
           if ! echo "$RESP" | python3 -c 'import sys,json; d=json.load(sys.stdin); sys.exit(0 if d.get("name") and not d.get("error") else 1)'; then
-            echo "Build was not created. The deploy service account needs roles/firebaseapphosting.admin on web3-jobs-aggregator."
+            if echo "$RESP" | grep -q 'unable to queue the operation'; then
+              echo "Build not queued (409): another App Hosting build is already in flight for backend studio."
+              echo "Wait for it in Firebase Console (App Hosting → studio → Activity) or cancel the other Actions run, then retry once."
+              exit 1
+            fi
+            echo "Build was not created. Grant roles/firebaseapphosting.admin to the deploy service account on web3-jobs-aggregator."
             exit 1
           fi
           # Poll build until READY or FAILED (refresh token each round; OAuth expires ~60m)
@@ -155,7 +160,12 @@ jobs:
               "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds/${BUILD_ID}")
             STATE=$(echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or "")')
             if [ -z "$STATE" ]; then
-              echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); e=d.get("error",{}); print((e.get("message") or e.get("status") or "unknown")[:240])' | sed 's/^/build poll: /'
+              MSG=$(echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); e=d.get("error",{}); print((e.get("message") or e.get("status") or "unknown")[:240])')
+              echo "build poll: $MSG"
+              if echo "$MSG" | grep -qi 'invalid authentication credentials'; then
+                echo "::error::Poll used rejected OAuth credentials. This run is obsolete; cancel it and re-run FAH deploy on main (token refresh each poll)."
+                exit 1
+              fi
             else
               echo "build state: $STATE"
             fi
