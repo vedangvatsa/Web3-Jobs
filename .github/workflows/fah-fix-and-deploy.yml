@@ -26,7 +26,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 100
     permissions:
       contents: write
       id-token: write
@@ -149,7 +149,7 @@ jobs:
             exit 1
           fi
           # Poll build until READY or FAILED
-          for i in $(seq 1 80); do
+          for i in $(seq 1 160); do
             B=$(curl -s -H "Authorization: Bearer $TOKEN" \
               "https://firebaseapphosting.googleapis.com/v1beta/projects/web3-jobs-aggregator/locations/us-central1/backends/studio/builds/${BUILD_ID}")
             STATE=$(echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or d.get("error",{}).get("message","unknown"))')
