@@ -191177,7 +191177,27 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-18",
-      "nextReviewDate": "2026-11-19"
+      "nextReviewDate": "2026-11-19",
+      "articleSlug": "wallerrate",
+      "draftProgress": {
+        "id": "fb2b8fe96fa08741dfe6",
+        "day": "2026-11-19",
+        "articleSlug": "wallerrate",
+        "note": "Read Decrypt Nov 18 in full (50bp December hike call, 0.3% core CPI streak, Nov 10 and Nov 17 Fed speeches, tokenized-finance quote). The Defiant primary URL remains HTTP 403. Second independent source (federalreserve.gov Nov 17 speech or Reuters CNBC interview) and draft still needed before an outcome.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/converge/tradfi-and-fintech/waller-backs-traditional-rails-for-tokenized-markets",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-19T01:34:00.446Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "9d537bdb5642435a1da3": {
       "source": "The Block",
