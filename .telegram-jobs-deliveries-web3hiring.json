@@ -3961,7 +3961,7 @@
     "sentAt": "2026-11-19T03:37:03.545Z"
   },
   "d2305298-3b1d-42c5-aa34-3da55f6bb0e7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T03:37:05.286Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -4083,6 +4083,8 @@
       }
     ],
     "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/pm373?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Counsel - Product (UK &amp; EU)</a>\n- Nexo is hiring <a href=\"https://hashtagweb3.com/cmp171?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Legal Counsel - Commercial &amp; Regulatory, US</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/eng819?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Engineer</a>\n- Morpho is hiring <a href=\"https://hashtagweb3.com/eng675?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior IT Engineer</a>\n- Digital Asset is hiring <a href=\"https://hashtagweb3.com/rec58?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Talent Acquisition Partner - GTM</a>",
-    "slotKey": "2026-11-19:morning"
+    "slotKey": "2026-11-19:morning",
+    "messageId": 207,
+    "sentAt": "2026-11-19T03:37:07.425Z"
   }
 }
