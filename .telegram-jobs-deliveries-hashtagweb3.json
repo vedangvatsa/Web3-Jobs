@@ -2025,7 +2025,7 @@
     "sentAt": "2026-11-19T03:37:14.360Z"
   },
   "479f2aeb-fc60-4aff-bbf9-cefb81adaf9f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T11:32:32.002Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2138,6 +2138,8 @@
       }
     ],
     "message": "- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/ops171?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Procurement Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/infra81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Infrastructure Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng798?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Tax Filing and Remittance</a>\n- Newton is hiring <a href=\"https://hashtagweb3.com/an122?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AML Analyst - Canada Wide - Remote</a>\n- Augustus is hiring <a href=\"https://hashtagweb3.com/pm313?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Commercial &amp; Product Counsel</a>",
-    "slotKey": "2026-11-19:afternoon"
+    "slotKey": "2026-11-19:afternoon",
+    "messageId": 156347,
+    "sentAt": "2026-11-19T11:32:34.885Z"
   }
 }
