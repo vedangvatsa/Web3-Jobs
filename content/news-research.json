@@ -195089,9 +195089,9 @@
         "Bitcoin Magazine"
       ],
       "id": "c440bfee64f9e0c5f08c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T19:40:25.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
       "articleSlug": "binanceorder",
@@ -195113,7 +195113,21 @@
         "updatedAt": "2026-11-19T02:18:27.535Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Bitcoin Magazine and Cointelegraph Nov 18 reports in full; verified the .5 billion ADGM worldwide freezing injunction, the 26,000-wallet living list via Gibson Dunn, the Dugan Bliss statement, the .85 billion of .34 billion frozen/intercepted, Tether and Circle freeze figures, and DOJ's .2 billion seizure authority. Draft binanceorder.md passes quality, image, formatting and duplicate audits; cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-19T02:26:45.301Z",
+      "lastReviewedDay": "2026-11-19"
     },
     "38f18f4a0f6dca531bf1": {
       "source": "CryptoSlate",
@@ -381429,6 +381443,23 @@
           ],
           "reviewedAt": "2026-11-19T02:26:40.578Z",
           "articleSlug": "zecetf"
+        },
+        "c440bfee64f9e0c5f08c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Bitcoin Magazine and Cointelegraph Nov 18 reports in full; verified the .5 billion ADGM worldwide freezing injunction, the 26,000-wallet living list via Gibson Dunn, the Dugan Bliss statement, the .85 billion of .34 billion frozen/intercepted, Tether and Circle freeze figures, and DOJ's .2 billion seizure authority. Draft binanceorder.md passes quality, image, formatting and duplicate audits; cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:26:45.301Z",
+          "articleSlug": "binanceorder"
         }
       },
       "baselineSlugs": [
