@@ -158608,7 +158608,8 @@
         "description": "Join Block as Chargé de Compte PME. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "1a2dbc26-5632-4a00-b0a5-f44433400057",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2ny3bnqjo2t"
     }
   ]
 }
