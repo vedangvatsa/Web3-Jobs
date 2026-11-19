@@ -592,5 +592,36 @@
     "slotKey": "2026-11-19:afternoon",
     "messageId": 65843,
     "sentAt": "2026-11-19T11:38:28.725Z"
+  },
+  "ee17629a-6689-48c7-b4d2-2576e386b4ae": {
+    "status": "reserved",
+    "reservedAt": "2026-11-19T19:38:04.167Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ledger identifies tampered hardware wallets in Berlin and Dubai",
+        "summary": "Investigations connect the compromised hardware to a fraudulent reseller campaign previously identified in Southeast Asia.",
+        "link": "https://hashtagweb3.com/ledgerberlin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ledger warns Berlin buyers as tampering probe reaches Germany and Dubai"
+      },
+      {
+        "index": -1,
+        "headline": "MARA issues $185 million in debt for power plant purchase",
+        "summary": "The 8.750% senior secured notes due 2032 will fund a $1.5 billion acquisition of an Ohio gas plant.",
+        "link": "https://hashtagweb3.com/maradebt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MARA prices $185 million secured notes to fund its Long Ridge power plant acquisition"
+      },
+      {
+        "index": -1,
+        "headline": "Hacker Sentenced to Six Years for $11.6M Crypto Theft",
+        "summary": "Tyler Buchanan targeted victims through phishing and SIM-swapping attacks to steal digital assets.",
+        "link": "https://hashtagweb3.com/buchanansentence?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Scattered Spider Hacker Buchanan Sentenced to 6 Years Over $11.6M Crypto Theft"
+      }
+    ],
+    "slotKey": "2026-11-19:evening"
   }
 }
