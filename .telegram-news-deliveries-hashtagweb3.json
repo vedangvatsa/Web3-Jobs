@@ -594,7 +594,7 @@
     "sentAt": "2026-11-19T11:37:41.045Z"
   },
   "27f20d38-30d8-4684-bbcf-c4685647eb92": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-19T19:35:40.476Z",
     "stories": [
       {
@@ -622,6 +622,8 @@
         "originalTitle": "Ledger warns Berlin buyers as tampering probe reaches Germany and Dubai"
       }
     ],
-    "slotKey": "2026-11-19:evening"
+    "slotKey": "2026-11-19:evening",
+    "messageId": 156357,
+    "sentAt": "2026-11-19T19:35:44.948Z"
   }
 }

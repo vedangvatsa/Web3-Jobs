@@ -53,6 +53,9 @@
   "https://hashtagweb3.com/lighterhalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/megaspeed?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/strategy485?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/backpackfcm?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kalshihalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ledgerberlin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -161,6 +164,12 @@
   "Megaspeed confirms Alice Huang left in August 2025 as espionage claims swirl",
   "Strategy buys 485 bitcoin and $228 million in shares",
   "Strategy buys 485 bitcoin for $33.4 million as preferred buybacks reach $228 million",
+  "Backpack completes US licensing for leveraged perpetual futures",
+  "Backpack gets NFA approval, completing its US licensing stack for leveraged perps",
+  "CFTC suspends Kalshi markets tied to Trump mentions",
+  "CFTC Halts Kalshi's Trump Mention Markets, Sets Dec. 11 Response Deadline",
+  "Ledger identifies tampered devices in Berlin and Dubai",
+  "Ledger warns Berlin buyers as tampering probe reaches Germany and Dubai",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -214,5 +223,8 @@
   "fp:25m|acquit|acquitt|bot|brother|bueno|cas|evidenc|exploit|federal",
   "fp:1039m|104m|api|compromis|dex|enabl|exploit|half|lighter|recover",
   "fp:alic|appoint|august2025|august30|claim|confirm|counsel|deni|departur|espionag",
-  "fp:228m|334m|849|buyback|buys485|dur|firm|follow|november15|preferr"
+  "fp:228m|334m|849|buyback|buys485|dur|firm|follow|november15|preferr",
+  "fp:approval|backpack|commission|complet|firm|futur|get|leverag|licens|merchant",
+  "fp:agency|cftc|concern|contract|deadlin|dec11|december11|exchang|halt|kalshi",
+  "fp:asian|berlin|buyer|campaign|connect|devic|disclos|dubai|germany|hardwar"
 ]
