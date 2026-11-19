@@ -159940,7 +159940,8 @@
       },
       "account": "channel:defi",
       "attemptId": "de84a463-dd39-4132-b0f3-05f54cfe9e7c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8384204fe29f1349fca16cc4355eda93a7072698"
     }
   ]
 }
