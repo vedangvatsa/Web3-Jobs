@@ -161893,7 +161893,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "4d7fa8f9-4d42-4709-8ba6-c22fe87f9b29",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7529268240397647873"
     }
   ]
 }
