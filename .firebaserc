@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "web3-jobs-aggregator",
-    "production": "web3-jobs-aggregator",
-    "legacy": "web3-job-board-aggregator"
+    "default": "hashtagweb3-97583",
+    "production": "hashtagweb3-97583",
+    "legacy": "web3-jobs-aggregator"
   }
 }

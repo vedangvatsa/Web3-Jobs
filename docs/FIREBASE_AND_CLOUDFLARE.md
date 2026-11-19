@@ -1,6 +1,6 @@
 # Firebase App Hosting (production)
 
-**Hashtagweb3.com** is served on **Firebase App Hosting** (GCP project **`web3-jobs-aggregator`**, backend in [`firebase.json`](../firebase.json)). Builds use [`apphosting.yaml`](../apphosting.yaml) (`npm run build`; **`OG_PRECOMPUTE=0`**, **`OG_FILL_MISSING=0`** — OG PNGs come from git via daily ingest).
+**Hashtagweb3.com** is served on **Firebase App Hosting** (GCP project **`hashtagweb3-97583`**, backend in [`firebase.json`](../firebase.json)). Builds use [`apphosting.yaml`](../apphosting.yaml) (`npm run build`; **`OG_PRECOMPUTE=0`**, **`OG_FILL_MISSING=0`** — OG PNGs come from git via daily ingest).
 
 The OpenNext/Cloudflare Workers build toolchain has been removed. This document's
 filename is retained for existing links. The supported deployment path is Firebase
@@ -21,7 +21,7 @@ LinkedIn/Threads posting uses **GitHub/Action secrets** (`LINKEDIN_ACCESS_TOKEN`
 
 ## Connect / verify Firebase
 
-1. [Firebase Console](https://console.firebase.google.com/) → project **`web3-jobs-aggregator`**.
+1. [Firebase Console](https://console.firebase.google.com/) → project **`hashtagweb3-97583`**.
 2. **App Hosting** → confirm backend **`studio`** is connected to this repo and **`main`** (or your deploy branch).
 3. **Build → Firestore** (if used) → deploy rules: `firebase deploy --only firestore:rules`.
 4. GitHub secrets: `NEXT_PUBLIC_FIREBASE_*`, `FIREBASE_SERVICE_ACCOUNT_KEY`, `RESEND_API_KEY`, `CRON_SECRET`, etc. (see `.env.example`).
@@ -34,10 +34,10 @@ deployment workflow runs the synchronization script below. For manual setup:
 
 ```bash
 firebase login
-firebase use web3-jobs-aggregator
+firebase use hashtagweb3-97583
 firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_API_KEY
 # … repeat for each secret in apphosting.yaml / sync script
-firebase apphosting:secrets:grantaccess SECRET_NAME --backend studio --project web3-jobs-aggregator
+firebase apphosting:secrets:grantaccess SECRET_NAME --backend studio --project hashtagweb3-97583
 ```
 
 Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase-apphosting-secrets.sh).
@@ -47,7 +47,7 @@ Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase
 Symptom: `GET /` returns Google’s generic **404** HTML (~272 bytes, **no**
 `x-fah-adapter` header) while `GET /jobs` reaches Next.
 
-Observed on the `studio` backend of `web3-jobs-aggregator`: its edge never
+Observed on the old `studio` backend of `web3-jobs-aggregator`: its edge never
 routed `/` to the app, on the default `hosted.app` URL as well as the custom
 domain, and no rollout (including redirect-only and static-page builds) changed
 that. Other backends on the same code route `/` correctly, so the code is not

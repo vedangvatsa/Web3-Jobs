@@ -2,12 +2,12 @@ import { setTimeout as delay } from 'node:timers/promises';
 import { validateResearchPublication } from './news-publication-state.mjs';
 
 export const DEPLOY_STATE_PATH = 'scripts/social/publish-slot-state.json';
-export const BACKEND = 'projects/web3-jobs-aggregator/locations/us-central1/backends/studio';
+export const BACKEND = 'projects/hashtagweb3-97583/locations/us-central1/backends/studio';
 const object = value => value && typeof value === 'object' && !Array.isArray(value);
 const timestamp = value => typeof value === 'string' && Number.isFinite(Date.parse(value));
 const phases = new Set(['building', 'rolling-out', 'build-failed', 'rollout-failed', 'succeeded']);
 const active = attempt => ['building', 'rolling-out'].includes(attempt.phase);
-const normalizeResource = name => String(name).replace(/^projects\/227783834156\//, 'projects/web3-jobs-aggregator/');
+const normalizeResource = name => String(name).replace(/^projects\/416755535358\//, 'projects/hashtagweb3-97583/');
 
 export function assertDeployDate(date, now) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(date || '') || !Number.isFinite(Date.parse(`${date}T00:00:00Z`))

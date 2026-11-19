@@ -9,7 +9,7 @@
 - **Framework**: Next.js 14 App Router (TypeScript)
 - **Styling**: Tailwind CSS
 - **Data**: Static runtime JSON under `content/` and `public/data/` (jobs, events, glossary, news)
-- **Deployment**: Firebase App Hosting on GCP (`web3-jobs-aggregator`)
+- **Deployment**: Firebase App Hosting on GCP (`hashtagweb3-97583`, backend `studio`)
 
 ## Repository Structure
 
