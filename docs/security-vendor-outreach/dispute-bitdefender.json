@@ -1,9 +1,8 @@
 {
   "vendor": "BitDefender",
-  "to": "virus_submission@bitdefender.com",
-  "status": "sent",
-  "deliveryId": "01a1ee09-aa02-7026-814e-e16ecaf4d53b",
-  "sentAt": "2026-11-18T09:42:53.323Z",
-  "subject": "False Positive Report — hashtagweb3.com (Legitimate Web3 Career Platform)",
-  "bodyPreview": "Hello BitDefender Security Team,\n\nI am writing to report a false positive classification for our website: https://hashtagweb3.com\n\nYour system has flagged hashtagweb3.com as phishing or malicious. This is incorrect. We are a legitimate Web3 job board and career resource platform that has been operat"
+  "email": "virus_submission@bitdefender.com",
+  "deliveryId": "01a1f4ee-b000-7c94-917a-f21a05ad1f6e",
+  "dispatchedAt": "2026-11-19T17:50:47Z",
+  "status": "delivered",
+  "type": "email"
 }
