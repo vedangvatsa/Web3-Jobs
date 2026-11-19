@@ -157905,6 +157905,40 @@
       "attemptId": "c79102d7-e4be-42c2-bf8e-81a00089ba4b",
       "verification": "verified",
       "postId": "0xd7cdd4f87eb3396ea4f501802bd4704413d5f564"
+    },
+    {
+      "slug": "mgr194",
+      "company": "Flow Traders",
+      "title": "Property & Facilities Manager (Part-Time)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-19T04:26:10.329Z",
+      "expectedText": "Flow Traders is hiring Property & Facilities Manager (Part-Time)\n\nhttps://hashtagweb3.com/mgr194/fc?og=7",
+      "snapshot": {
+        "id": "8302928",
+        "title": "Property & Facilities Manager (Part-Time)",
+        "company": "Flow Traders",
+        "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8302928",
+        "date": "2026-10-20T05:43:49-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Flow Traders [flowtraders]",
+        "location": "Amsterdam",
+        "department": "Operations and Middle Office",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr194"
+      },
+      "payload": {
+        "text": "Flow Traders is hiring Property & Facilities Manager (Part-Time)\n\nhttps://hashtagweb3.com/mgr194/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mgr194/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "db09ef2f-644e-44f2-bfc8-25ff3e2db21e",
+      "verification": "creating"
     }
   ]
 }
