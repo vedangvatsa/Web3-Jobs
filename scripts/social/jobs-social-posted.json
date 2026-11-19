@@ -156748,6 +156748,53 @@
       "attemptId": "48c7396b-693a-48de-91f3-fd3e51c8ccfe",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "ops175",
+      "company": "DFNS",
+      "title": "Revenue Operations Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-11-19T03:41:59.817Z",
+      "expectedText": "DFNS is hiring Revenue Operations Lead: https://hashtagweb3.com/ops175/li?og=7",
+      "snapshot": {
+        "id": "deel-dfns-bd6669ca-cbbd-4280-8b00-dbb215226699",
+        "title": "Revenue Operations Lead",
+        "company": "DFNS",
+        "link": "https://jobs.deel.com/dfns/job-details/bd6669ca-cbbd-4280-8b00-dbb215226699/overview",
+        "date": "2026-11-10T19:53:22.922Z",
+        "dateVerified": true,
+        "dateSource": "DFNS Careers on Deel",
+        "source": "Deel: DFNS [dfns]",
+        "location": "Remote",
+        "department": "Sales",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "active": true,
+        "salary": "$150k – $200k/yr",
+        "minSalary": 150000,
+        "maxSalary": 200000,
+        "currency": "USD",
+        "slug": "ops175"
+      },
+      "payload": {
+        "text": "DFNS is hiring Revenue Operations Lead: https://hashtagweb3.com/ops175/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops175/li?og=7",
+          "title": "Revenue Operations Lead at DFNS",
+          "description": "Join DFNS as Revenue Operations Lead. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops175.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "9ff66268-cd59-43cf-a7e3-151c6509e849",
+      "verification": "creating"
     }
   ]
 }
