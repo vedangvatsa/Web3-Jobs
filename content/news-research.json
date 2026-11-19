@@ -195099,14 +195099,18 @@
         "id": "c440bfee64f9e0c5f08c",
         "day": "2026-11-19",
         "articleSlug": "binanceorder",
-        "note": "Read Bitcoin Magazine's Nov 18 report in full: the ADGM freezing order confirmed by deputy general counsel Dugan Bliss with terms undisclosed, Reuters as the origin, $2.85 billion frozen or intercepted of the $6.34 billion affected, Tether and Circle freezes, DOJ seizure authority over $1.2 billion, and the Oct 29 intrusion path. The Block returned HTTP 403 in the availability pass; still need a second readable independent source such as Cointelegraph's freezing-order story or the Reuters wire. Draft pending.",
+        "note": "Re-read Bitcoin Magazine and read Cointelegraph Nov 18 freezing-order reports; drafting now.",
         "sourceChecks": [
           {
             "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
             "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/binance-says-won-65b-worldwide-freezing-order-after-hack",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-19T01:58:35.601Z",
+        "updatedAt": "2026-11-19T02:18:27.535Z",
         "approved": false,
         "mustReview": true
       }
@@ -195634,9 +195638,9 @@
         "Bankless"
       ],
       "id": "db9468ccef00c39a7445",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T10:33:07.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
       "articleSlug": "zecetf",
@@ -195658,7 +195662,21 @@
         "updatedAt": "2026-11-19T02:18:24.968Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph and Bankless Nov 18 reports in full; verified the TXSE venue, ticker ZEC, Coinbase Custody, CF Benchmarks pricing, the NYSE Arca switch in confidential drafts, the no-shielded-transactions clause with 29% shielded supply, and the Grayscale/Winklevoss comparison. Draft zecetf.md passes quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/bitwise-files-for-a-zcash-etf-on-the-texas-stock-exchange",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-19T02:26:40.578Z",
+      "lastReviewedDay": "2026-11-19"
     },
     "52358ca3850014a29f4e": {
       "source": "The Defiant",
@@ -381394,6 +381412,23 @@
           ],
           "reviewedAt": "2026-11-19T02:12:49.068Z",
           "articleSlug": "ledgerberlin"
+        },
+        "db9468ccef00c39a7445": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Bankless Nov 18 reports in full; verified the TXSE venue, ticker ZEC, Coinbase Custody, CF Benchmarks pricing, the NYSE Arca switch in confidential drafts, the no-shielded-transactions clause with 29% shielded supply, and the Grayscale/Winklevoss comparison. Draft zecetf.md passes quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/bitwise-files-for-a-zcash-etf-on-the-texas-stock-exchange",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:26:40.578Z",
+          "articleSlug": "zecetf"
         }
       },
       "baselineSlugs": [
