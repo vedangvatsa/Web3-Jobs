@@ -158043,7 +158043,8 @@
       },
       "account": "channel:build",
       "attemptId": "7028b532-f3d3-423f-84e6-33d881df0b5c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5f8493ecac2e2d852eb7e8a603322cd56fc65068"
     }
   ]
 }
