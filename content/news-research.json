@@ -184731,7 +184731,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "ca5f6adbd0edc0aaafc4",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 2,
       "expiresAt": "2026-11-19T20:44:23.000Z",
@@ -184776,7 +184776,8 @@
         "updatedAt": "2026-11-19T01:57:46.417Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "4b1248cbfa3cab458152": {
       "source": "Crypto Briefing",
@@ -190186,7 +190187,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "28afccbe3ead57da3872",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-17T02:33:11.347Z",
       "attempts": 3,
       "expiresAt": "2026-11-19T23:00:00.000Z",
@@ -190238,7 +190239,8 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-19",
-      "articleSlug": "anton"
+      "articleSlug": "anton",
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "7ed0a220a67fe9693bae": {
       "source": "The Block",
@@ -191177,7 +191179,7 @@
       ],
       "alsoCoveredBy": [],
       "id": "fb2b8fe96fa08741dfe6",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 2,
       "expiresAt": "2026-11-20T14:20:16.000Z",
@@ -191220,7 +191222,8 @@
         "updatedAt": "2026-11-19T01:34:00.446Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "9d537bdb5642435a1da3": {
       "source": "The Block",
@@ -193540,7 +193543,7 @@
         "The Defiant"
       ],
       "id": "e248b129ece77ee4d4e7",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
       "attempts": 2,
       "expiresAt": "2026-11-20T19:16:00.000Z",
@@ -193585,7 +193588,8 @@
         "updatedAt": "2026-11-19T01:34:12.691Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "7439f2e52b8288755f1e": {
       "source": "The Defiant",
@@ -195085,7 +195089,7 @@
         "Bitcoin Magazine"
       ],
       "id": "c440bfee64f9e0c5f08c",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 1,
       "expiresAt": "2026-11-21T19:40:25.000Z",
@@ -195123,7 +195127,8 @@
         }
       ],
       "reviewedAt": "2026-11-19T02:26:45.301Z",
-      "lastReviewedDay": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "38f18f4a0f6dca531bf1": {
       "source": "CryptoSlate",
@@ -195620,7 +195625,7 @@
         "Cointelegraph"
       ],
       "id": "38cbf360de60fdd665ce",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 1,
       "expiresAt": "2026-11-21T12:53:34.000Z",
@@ -195662,7 +195667,8 @@
         }
       ],
       "reviewedAt": "2026-11-19T02:33:31.889Z",
-      "lastReviewedDay": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "db9468ccef00c39a7445": {
       "source": "Cointelegraph",
@@ -195686,7 +195692,7 @@
         "Bankless"
       ],
       "id": "db9468ccef00c39a7445",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 1,
       "expiresAt": "2026-11-21T10:33:07.000Z",
@@ -195711,8 +195717,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read Cointelegraph and Bankless Nov 18 reports in full; verified the TXSE venue, ticker ZEC, Coinbase Custody, CF Benchmarks pricing, the NYSE Arca switch in confidential drafts, the no-shielded-transactions clause with 29% shielded supply, and the Grayscale/Winklevoss comparison. Draft zecetf.md passes quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: zecetf.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
@@ -195723,8 +195729,35 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-19T02:26:40.578Z",
-      "lastReviewedDay": "2026-11-19"
+      "reviewedAt": "2026-11-19T03:06:36.123Z",
+      "lastReviewedDay": "2026-11-19",
+      "retrySearches": [
+        "Repair and revalidate the preserved zecetf draft against its original sources: zecetf.md: under 600 words"
+      ],
+      "nextReviewDate": "2026-11-20",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Bankless Nov 18 reports in full; verified the TXSE venue, ticker ZEC, Coinbase Custody, CF Benchmarks pricing, the NYSE Arca switch in confidential drafts, the no-shielded-transactions clause with 29% shielded supply, and the Grayscale/Winklevoss comparison. Draft zecetf.md passes quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/bitwise-files-for-a-zcash-etf-on-the-texas-stock-exchange",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-19T02:26:40.578Z",
+          "articleSlug": "zecetf"
+        },
+        "validationErrors": [
+          "zecetf.md: under 600 words"
+        ],
+        "isolatedAt": "2026-11-19T03:06:36.123Z"
+      }
     },
     "52358ca3850014a29f4e": {
       "source": "The Defiant",
@@ -195800,7 +195833,7 @@
         "Unchained"
       ],
       "id": "41b467b8701d6ec174a3",
-      "status": "ready",
+      "status": "deferred",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 1,
       "expiresAt": "2026-11-21T02:47:51.000Z",
@@ -195829,8 +195862,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "verified-event",
-      "note": "Read the Coinbase Nov 17 blog post (primary), Unchained Nov 18 and Bitcoin Magazine Nov 18; the $4.7M stopped, ~91% block rate, 500,000+ viewers and two-hour window match across all three, and Unchained's ~$5.2M/$460,000 math is labeled as its own calculation. Draft coinbaseagent.md (667 words) passes quality, formatting, duplicate and image audits; all cited links return HTTP 200; hero self-hosted from a CC BY Wikimedia photo of Elon Musk. The Block companion returned HTTP 403 and was not cited.",
+      "reason": "quality-gate",
+      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam. Draft and original source checks are retained for repair; this article was not published.",
       "sourceChecks": [
         {
           "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
@@ -195853,8 +195886,47 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-19T01:24:22.169Z",
-      "lastReviewedDay": "2026-11-19"
+      "reviewedAt": "2026-11-19T03:06:36.123Z",
+      "lastReviewedDay": "2026-11-19",
+      "retrySearches": [
+        "Repair and revalidate the preserved coinbaseagent draft against its original sources: Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam"
+      ],
+      "nextReviewDate": "2026-11-20",
+      "qualityIsolation": {
+        "previousReview": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Coinbase Nov 17 blog post (primary), Unchained Nov 18 and Bitcoin Magazine Nov 18; the $4.7M stopped, ~91% block rate, 500,000+ viewers and two-hour window match across all three, and Unchained's ~$5.2M/$460,000 math is labeled as its own calculation. Draft coinbaseagent.md (667 words) passes quality, formatting, duplicate and image audits; all cited links return HTTP 200; hero self-hosted from a CC BY Wikimedia photo of Elon Musk. The Block companion returned HTTP 403 and was not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/coinbase-says-its-ai-agent-stopped-4-7-million-from-reaching-deepfake-musk-scammers/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
+              "outcome": "read"
+            },
+            {
+              "url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(12271217906).jpg",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-19T01:24:22.169Z",
+          "articleSlug": "coinbaseagent"
+        },
+        "validationErrors": [
+          "Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam"
+        ],
+        "isolatedAt": "2026-11-19T03:06:36.123Z"
+      }
     },
     "a9f50a0b1b511a28852e": {
       "source": "Crypto Briefing",
@@ -196179,7 +196251,7 @@
         "Unchained"
       ],
       "id": "4fbc1a3198b80a2180de",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 1,
       "expiresAt": "2026-11-21T14:49:00.000Z",
@@ -196218,7 +196290,8 @@
       ],
       "reviewedAt": "2026-11-19T01:28:06.175Z",
       "articleSlug": "backpackfcm",
-      "lastReviewedDay": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "efe0689d587eae72b10f": {
       "source": "Cointelegraph",
@@ -198088,7 +198161,7 @@
         "The Defiant"
       ],
       "id": "5590d4e42e9825f142f5",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 1,
       "expiresAt": "2026-11-21T21:13:58.000Z",
@@ -198126,7 +198199,8 @@
         }
       ],
       "reviewedAt": "2026-11-19T02:12:49.068Z",
-      "lastReviewedDay": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "a0c7385fb89e2ce5843c": {
       "source": "Crypto Briefing",
@@ -199161,7 +199235,7 @@
         "The Defiant"
       ],
       "id": "b828c2b897121f2b2033",
-      "status": "ready",
+      "status": "published",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
       "attempts": 1,
       "expiresAt": "2026-11-21T10:17:17.000Z",
@@ -199180,7 +199254,8 @@
       ],
       "reviewedAt": "2026-11-19T01:59:28.022Z",
       "articleSlug": "buchanansentence",
-      "lastReviewedDay": "2026-11-19"
+      "lastReviewedDay": "2026-11-19",
+      "publishedAt": "2026-11-19T03:06:57.865Z"
     },
     "20233fed35a3029166f0": {
       "source": "The Defiant",
@@ -376959,7 +377034,7 @@
     "2026-11-19": {
       "day": "2026-11-19",
       "startedAt": "2026-11-19T01:19:46.202Z",
-      "status": "prepared",
+      "status": "incomplete",
       "candidateIds": [
         "797eea80ab68597581e9",
         "1d45cb40d928aa4c2a6a",
@@ -381256,9 +381331,9 @@
           "reviewedAt": "2026-11-19T01:21:03.011Z"
         },
         "41b467b8701d6ec174a3": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read the Coinbase Nov 17 blog post (primary), Unchained Nov 18 and Bitcoin Magazine Nov 18; the $4.7M stopped, ~91% block rate, 500,000+ viewers and two-hour window match across all three, and Unchained's ~$5.2M/$460,000 math is labeled as its own calculation. Draft coinbaseagent.md (667 words) passes quality, formatting, duplicate and image audits; all cited links return HTTP 200; hero self-hosted from a CC BY Wikimedia photo of Elon Musk. The Block companion returned HTTP 403 and was not cited.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
@@ -381281,11 +381356,49 @@
               "outcome": "blocked"
             }
           ],
-          "reviewedAt": "2026-11-19T01:24:22.169Z",
-          "articleSlug": "coinbaseagent"
+          "reviewedAt": "2026-11-19T03:06:36.123Z",
+          "articleSlug": "coinbaseagent",
+          "retrySearches": [
+            "Repair and revalidate the preserved coinbaseagent draft against its original sources: Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read the Coinbase Nov 17 blog post (primary), Unchained Nov 18 and Bitcoin Magazine Nov 18; the $4.7M stopped, ~91% block rate, 500,000+ viewers and two-hour window match across all three, and Unchained's ~$5.2M/$460,000 math is labeled as its own calculation. Draft coinbaseagent.md (667 words) passes quality, formatting, duplicate and image audits; all cited links return HTTP 200; hero self-hosted from a CC BY Wikimedia photo of Elon Musk. The Block companion returned HTTP 403 and was not cited.",
+              "sourceChecks": [
+                {
+                  "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://unchainedcrypto.com/coinbase-says-its-ai-agent-stopped-4-7-million-from-reaching-deepfake-musk-scammers/",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(12271217906).jpg",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+                  "outcome": "blocked"
+                }
+              ],
+              "reviewedAt": "2026-11-19T01:24:22.169Z",
+              "articleSlug": "coinbaseagent"
+            },
+            "validationErrors": [
+              "Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam"
+            ],
+            "isolatedAt": "2026-11-19T03:06:36.123Z"
+          }
         },
         "4fbc1a3198b80a2180de": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Backpack's own Nov 18 announcement (primary), Unchained's Nov 18 report and Bitcoin.com News Nov 18 report; the NFA FCM approval, the Nov 13 clearinghouse registration and Nov 16 exchange designation, the Wetjen and Ferrante quotes, the 150-country/$450B figures and the absence of a launch date all cross-check. New event (NFA/FCM approval) distinct from the existing backpackcftc article on the Nov 16 CFTC exchange and clearinghouse approvals. Draft backpackfcm.md (675 words) passes quality, formatting, duplicate and image audits; cited links return HTTP 200; hero is a self-hosted CC BY-SA trading floor photo. The Block and The Defiant companions returned HTTP 403 and the GlobeNewswire release returned HTTP 403 on GET.",
           "sourceChecks": [
@@ -381319,10 +381432,11 @@
             }
           ],
           "reviewedAt": "2026-11-19T01:28:06.175Z",
-          "articleSlug": "backpackfcm"
+          "articleSlug": "backpackfcm",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "28afccbe3ead57da3872": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Ondo's Nov 18 announcement via Chainwire (primary), Bitcoin.com News Nov 18, Bankless Nov 18, CNBC's pricing story and Anthropic's own Nov 18 pricing release; verified the ANTon launch terms, the De Bode quote, the Binance Wallet 500M USDC cap and 5% fee, ANTx/rANT mechanics, the June SpaceX refunds, the $83 pricing, 980M shares (956,351,354 company shares), Nov 19 ANT trading start, 147M greenshoe and CNBC's $81.3B and $1.5T figures. New event (tokenized IPO sales) distinct from the existing anthropicipo roadshow article. Draft anton.md (708 words) passes quality, formatting, duplicate and image audits; cited links return HTTP 200; hero self-hosted CC BY Wikimedia photo of an Anthropic office visit. BeInCrypto, The Block and The Defiant companions returned HTTP 403 and were not cited.",
           "sourceChecks": [
@@ -381364,10 +381478,11 @@
             }
           ],
           "reviewedAt": "2026-11-19T01:31:51.690Z",
-          "articleSlug": "anton"
+          "articleSlug": "anton",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "e248b129ece77ee4d4e7": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph Nov 17 and Bitcoin.com News Nov 17 in full this round; verified the Nov 13 CFTC order staying the nickname market and TRUMPSAY series, the Dec 11 response deadline, the Nethercott and Lever statements, the Mansour Axios quote, the Perez enforcement figures and the three-year trading ban. Draft and CFTC office photo pass quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -381381,10 +381496,11 @@
             }
           ],
           "reviewedAt": "2026-11-19T01:40:03.924Z",
-          "articleSlug": "kalshihalt"
+          "articleSlug": "kalshihalt",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "fb2b8fe96fa08741dfe6": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read the Federal Reserve Nov 17 speech text in full (primary; traditional rails and central bank money quote, tokenized deposits, atomic vs net settlement, early-convergence framing) and Decrypt's Nov 18 report in full (CNBC interview 50bp call, CPI streak, Nov 10 threshold, rate range, futures odds). Verified quotes against the opened speech text. Draft and Waller FOMC photo pass quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -381398,7 +381514,8 @@
             }
           ],
           "reviewedAt": "2026-11-19T01:44:34.007Z",
-          "articleSlug": "wallerrate"
+          "articleSlug": "wallerrate",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "ac3a00cbe99351094fe3": {
           "status": "rejected",
@@ -381429,7 +381546,7 @@
           "reviewedAt": "2026-11-19T01:53:21.305Z"
         },
         "b828c2b897121f2b2033": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Reused the preserved draft, rewrote it against sources read this round, and dropped citations to an outlet I could not open. Read Decrypt's Nov 18 report and Bitcoin Magazine's Nov 18 report in full; verified the 72-month sentence, Judge Holcomb, the Dec 11 restitution hearing, the $11.6M figure, the 2021-2023 phishing and SIM-swap scheme, co-defendant sentences, the USAO announcement wording, arrest and extradition details. Quality, image, formatting and duplicate audits pass for this file; tsc clean; cited links return HTTP 200; hero photo (Wikimedia, Raimond Spekking SIM card) verified on disk and captioned.",
           "sourceChecks": [
@@ -381443,10 +381560,11 @@
             }
           ],
           "reviewedAt": "2026-11-19T01:59:28.022Z",
-          "articleSlug": "buchanansentence"
+          "articleSlug": "buchanansentence",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "ca5f6adbd0edc0aaafc4": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Bitcoin Magazine's Nov 16 preview and Unchained's Nov 18 hearing report in full; verified the 3 p.m. ET Dirksen 106 hearing, Nov 12 nominations of Nathan Anonick and Matthew Rowland, Selig's two strong bipartisan picks quote, one-commissioner CFTC, Rowland's public interest and Regulation 40.11 answers, Anonick's Supreme Court deference, Sen. Tina Smith's legal issue exchange, Warnock's Trump-family-ties questions, five-seat endorsement, committee-then-full-Senate path, lame-duck resubmission and the Clarity Act cloture failure. Draft and Dirksen building photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -381464,10 +381582,11 @@
             }
           ],
           "reviewedAt": "2026-11-19T02:12:43.782Z",
-          "articleSlug": "cftchearing"
+          "articleSlug": "cftchearing",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "5590d4e42e9825f142f5": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph's and Decrypt's Nov 18 reports in full; verified the Berlin support warning for buyers since January 2026, two suspected Dubai units with 04,000 in combined losses, the same-incident link to the Southeast Asia CryptoBilis campaign, one affected Nano Gen5, identical recovery-phrase capture modifications, no secure-chip or OS flaw, no confirmed ledger.com cases, the Donjon review, reseller pauses and the Vierzon X-ray inspection offer. Draft and Ledger HW.1 photo pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
           "sourceChecks": [
@@ -381481,12 +381600,13 @@
             }
           ],
           "reviewedAt": "2026-11-19T02:12:49.068Z",
-          "articleSlug": "ledgerberlin"
+          "articleSlug": "ledgerberlin",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "db9468ccef00c39a7445": {
-          "status": "ready",
-          "reason": "verified-event",
-          "note": "Read Cointelegraph and Bankless Nov 18 reports in full; verified the TXSE venue, ticker ZEC, Coinbase Custody, CF Benchmarks pricing, the NYSE Arca switch in confidential drafts, the no-shielded-transactions clause with 29% shielded supply, and the Grayscale/Winklevoss comparison. Draft zecetf.md passes quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+          "status": "deferred",
+          "reason": "quality-gate",
+          "note": "Actual article audits still failed after bounded repair attempts: zecetf.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
           "sourceChecks": [
             {
               "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
@@ -381497,11 +381617,37 @@
               "outcome": "read"
             }
           ],
-          "reviewedAt": "2026-11-19T02:26:40.578Z",
-          "articleSlug": "zecetf"
+          "reviewedAt": "2026-11-19T03:06:36.123Z",
+          "articleSlug": "zecetf",
+          "retrySearches": [
+            "Repair and revalidate the preserved zecetf draft against its original sources: zecetf.md: under 600 words"
+          ],
+          "qualityIsolation": {
+            "previousReview": {
+              "status": "ready",
+              "reason": "verified-event",
+              "note": "Read Cointelegraph and Bankless Nov 18 reports in full; verified the TXSE venue, ticker ZEC, Coinbase Custody, CF Benchmarks pricing, the NYSE Arca switch in confidential drafts, the no-shielded-transactions clause with 29% shielded supply, and the Grayscale/Winklevoss comparison. Draft zecetf.md passes quality, image, formatting and duplicate audits; all cited links return HTTP 200.",
+              "sourceChecks": [
+                {
+                  "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+                  "outcome": "read"
+                },
+                {
+                  "url": "https://www.bankless.com/read/news/bitwise-files-for-a-zcash-etf-on-the-texas-stock-exchange",
+                  "outcome": "read"
+                }
+              ],
+              "reviewedAt": "2026-11-19T02:26:40.578Z",
+              "articleSlug": "zecetf"
+            },
+            "validationErrors": [
+              "zecetf.md: under 600 words"
+            ],
+            "isolatedAt": "2026-11-19T03:06:36.123Z"
+          }
         },
         "c440bfee64f9e0c5f08c": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Read Bitcoin Magazine and Cointelegraph Nov 18 reports in full; verified the .5 billion ADGM worldwide freezing injunction, the 26,000-wallet living list via Gibson Dunn, the Dugan Bliss statement, the .85 billion of .34 billion frozen/intercepted, Tether and Circle freeze figures, and DOJ's .2 billion seizure authority. Draft binanceorder.md passes quality, image, formatting and duplicate audits; cited links return HTTP 200.",
           "sourceChecks": [
@@ -381515,7 +381661,8 @@
             }
           ],
           "reviewedAt": "2026-11-19T02:26:45.301Z",
-          "articleSlug": "binanceorder"
+          "articleSlug": "binanceorder",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         },
         "b72b524a864abd786a29": {
           "status": "deferred",
@@ -381613,7 +381760,7 @@
           ]
         },
         "38cbf360de60fdd665ce": {
-          "status": "ready",
+          "status": "published",
           "reason": "verified-event",
           "note": "Re-read Cointelegraph Nov 18 report and MARA's Nov 17 Form 8-K primary filing in full today; verified the $185M of 8.750% notes at 99.000, the $600M stack to $785M, the Nov 27 concurrent closing, the April 29 equity purchase agreement and the $1.1B post-quarter bitcoin sale with $750M loan repayment across both sources. CoinDesk still returned 429, so the two readable sources are cointelegraph.com plus the primary filing at ir.mara.com. Hero is the verified Wikimedia gas-fired power plant photo, self-hosted and compressed to 57KB; quality, image, formatting and duplicate audits pass for this file.",
           "sourceChecks": [
@@ -381631,7 +381778,8 @@
             }
           ],
           "reviewedAt": "2026-11-19T02:33:31.889Z",
-          "articleSlug": "maradebt"
+          "articleSlug": "maradebt",
+          "publishedAt": "2026-11-19T03:06:57.865Z"
         }
       },
       "baselineSlugs": [
@@ -382161,6 +382309,428 @@
         ],
         "total": 178,
         "checkedAt": "2026-11-19T01:19:46.202Z"
+      },
+      "validationErrors": [],
+      "publication": {
+        "status": "completed",
+        "completedAt": "2026-11-19T03:06:57.865Z",
+        "publishedIds": [
+          "ca5f6adbd0edc0aaafc4",
+          "28afccbe3ead57da3872",
+          "fb2b8fe96fa08741dfe6",
+          "e248b129ece77ee4d4e7",
+          "c440bfee64f9e0c5f08c",
+          "38cbf360de60fdd665ce",
+          "4fbc1a3198b80a2180de",
+          "5590d4e42e9825f142f5",
+          "b828c2b897121f2b2033"
+        ],
+        "articleSlugs": [
+          "cftchearing",
+          "anton",
+          "wallerrate",
+          "kalshihalt",
+          "binanceorder",
+          "maradebt",
+          "backpackfcm",
+          "ledgerberlin",
+          "buchanansentence"
+        ],
+        "pendingIds": [
+          "32574620c3ac2fef66f3",
+          "455d609ac8c70330e8e1",
+          "978dff659637b4386a1c",
+          "afe1d3a0a03aa8840500",
+          "315c080f856531e8c0f4",
+          "8bf7f9c8bec8f47b0ac6",
+          "c298a50378b9dfba8c3f",
+          "77ff64716f7c1351a15c",
+          "b842d2e16c24d2770c0c",
+          "94057340e02c92fb7e85",
+          "05bf27591538f7f1ba41",
+          "d71dd740e4cfd53f296d",
+          "a73630f5a00aa730ec79",
+          "1a5fa2445950b8ad9a5b",
+          "e2f820d45dbf898f2aee",
+          "f47788c0cc95e6f2a767",
+          "9067f5d0ed9a18f09982",
+          "45920990233eb5aa40f0",
+          "367425fe08d383912a39",
+          "4751e326977e429270a3",
+          "77e921a95248b2989c81",
+          "b3e3999a803a5eb87b42",
+          "0a0e3e272fe897edf7e8",
+          "7e15822def390cceda2e",
+          "90be9c6de61e00826514",
+          "dc33de1dc4b66ec587bb",
+          "1aeedad971c94384de41",
+          "1b1b88b68aa282918257",
+          "be4a95b3e498cf689ddc",
+          "06abdbc6892bff1791ad",
+          "a72373e39d8fcce4f1f8",
+          "cb4fcf16a4e36c7bf7a5",
+          "97ce93bc5b09beac6ed3",
+          "0a7dfeb53a8a798db358",
+          "80d078750ba4001355eb",
+          "4dafd8ad246e1a7549d8",
+          "b69b5b2963dfcbd988e6",
+          "46a2dca021bd3e62ba6d",
+          "fd4f39dd45f6f0795fbc",
+          "09abdceef993e76f1309",
+          "04b753b99fa1521ae2b8",
+          "62a1735b7f4d0157cccf",
+          "5d2ff2ec1e7629124e1f",
+          "3b166f334b235bc56f92",
+          "b3e8752a8bb6b8444166",
+          "c16e96192b0f504da08b",
+          "a69306410c1c61012900",
+          "44571d4c7aa8e0487c02",
+          "61f65be8deca62703c62",
+          "751cddc5ddcd8940df2d",
+          "99117e98abb989b5f250",
+          "81300a6c551444933989",
+          "b77a2ed64112c741d5ec",
+          "8fd80919bfc818765d11",
+          "e3db2e7d481503cb1033",
+          "19778038d5538fec7222",
+          "df93e0004ce41771db62",
+          "2c4181deee1dabdb2407",
+          "02d68a9f3b76d693b519",
+          "0479ed21704a3a4b6991",
+          "99fc74a31655b73b94c0",
+          "cd9a2abeff90dfa72eec",
+          "0295953b5334d63967e6",
+          "a4f8882fbd43b5439da7",
+          "e34f17edf10a89fb4c80",
+          "8a1baf03774e1e8b0a33",
+          "9b5f04d756b141ad17e3",
+          "22f17e2cdef6b5c3986f",
+          "fef13bd4872759cc346f",
+          "3eb868b8faa86a07dd6d",
+          "dacaff0375cfcda76117",
+          "03cbd990ef566130f08f",
+          "eddb552fe117448ac396",
+          "891056f5780777451ce5",
+          "4f8ebf0db3aade9aafa5",
+          "eb0e8c7e23624a1d039f",
+          "bfd5c5b74f7cef9fac6b",
+          "fedd3d7dd3dd121434a6",
+          "4aef0ddb994863b7da29",
+          "93272794814650c76006",
+          "a48df88251a4192178d5",
+          "643e139c1f738662a71b",
+          "98af3dcf911db7a81e91",
+          "d5dc5be3d5f0098f891d",
+          "ca322cfea6b4b5f50549",
+          "883a0d0be6629c5c5ca6",
+          "de48984f657e5e988d43",
+          "045f563181b33b3276e2",
+          "bb8a198e453113de89c3",
+          "4c5c14b365cb257f2fb4",
+          "9ab3c6fd9ed428a4955c",
+          "b9906500b0ed66fc46f0",
+          "ebfd31ae19ab696e10ec",
+          "c35de915b95776412101",
+          "723f9a80d8bf4d19b4a0",
+          "d1a2adfdcb976f697033",
+          "9ed3511e119a33eb55d0",
+          "314251aa78521cef819f",
+          "37cd22b5cd03c3faf841",
+          "375d7410700f2265c6b1",
+          "0178b6e86f16c04d643e",
+          "60128e1e3022489a2b41",
+          "53239a9a428ae9301a57",
+          "c70c9b592bb390d5a129",
+          "e5473da48c3afe1dd890",
+          "a284241673d042fad9a3",
+          "f0b83b87fa8197dad20b",
+          "41dfd1f5421666248795",
+          "e6b1b67a9c817a48ae19",
+          "36294d54bec86482952d",
+          "4ab127c8c88f05133211",
+          "5c2e24868eac78977a90",
+          "e3ac765920ea44fecf65",
+          "ab9fd4fc3073e3f4a190",
+          "16430ede16e51935d612",
+          "118358451e745411fb9f",
+          "33701d4026571560d07a",
+          "acace98373044723999f",
+          "06a43422e68f5cf21df9",
+          "1cf371c3ea4aff85f4bf",
+          "24344f05d4e6cce91464",
+          "53b89871298f803da893",
+          "61035d56035f715afef3",
+          "4138b617e81ca1da3578",
+          "403829ca708559e7c384",
+          "1cc692c9a2ee9ba2d718",
+          "b9b5b53f9e10f9b3eef3",
+          "7ed0a220a67fe9693bae",
+          "e77c75668ac948caa143",
+          "8281b27a8e39b4c91039",
+          "be931eefd9da4f13d29b",
+          "ab2d14882d6fb1cec78d",
+          "c2245cbc2b5980bf6398",
+          "cf56b23c04a99a422dd9",
+          "75c2710bcae542633de8",
+          "4d9d2162ca032e2e17f4",
+          "0d83cc1568361e681867",
+          "66b28d3ef8f887c1ebaa",
+          "938efa88ec99a1bd3368",
+          "e65afd178b48cac8adb3",
+          "9e70b18433575cd7ac54",
+          "f59537bb8e690da706b7",
+          "18b28d3cdc648081d1fb",
+          "19f0409feb9601056259",
+          "91ff685f398bfc23d7a2",
+          "ef56ca63d4ba7f4e73ca",
+          "cd1fe8db7df22858834a",
+          "a9a85cfc06c5f7b72d0b",
+          "18173924ed81afa20b60",
+          "814968a9620c3fb7a8fb",
+          "e78b366a10a9c4936711",
+          "162cbee3d223ec691026",
+          "33c0f7260d71f6e2b67b",
+          "8f45d05e175a6d0e3d63",
+          "9d537bdb5642435a1da3",
+          "a80d7949acc28d0d6684",
+          "a75edbfd0c978c992281",
+          "456e5c8403ca7d2a207c",
+          "a3bb1edfc329076527ee",
+          "6f15c6342adfc289dc6b",
+          "4fa95bc4439759999b99",
+          "2afc43d23f459ae7c135",
+          "3ca796bd5c9739f92496",
+          "68dd69f717c08ba73de3",
+          "2cc534be2527f7116b93",
+          "687a3c3b0060bacb40fb",
+          "449a6f057e6fbcd0dab8",
+          "a2fe0d2ff736fe1b18e5",
+          "bbdbc3bac6a91af273fa",
+          "bc2940443d1ead12e12f",
+          "45d3ae4c864cc09ee22d",
+          "5bc322bf9f9989763250",
+          "1589eb9e3e38f3e824ab",
+          "ae1e7a0cd8e461201a45",
+          "8549586e14c947b6eeac",
+          "3316aa2d228d3d5955a2",
+          "780b598de157db60dc94",
+          "b72b524a864abd786a29",
+          "f7e068d874012422856d",
+          "266c19438135a2cc6778",
+          "1dc3d783d4d2cd2dfa6d",
+          "63277e44c6412f12bae4",
+          "7d1c2b5ccac2766c5872",
+          "10216c4109c1760b0277",
+          "fa9ec20947f7d8b1269d",
+          "c4c8f95a242ce9678c0f",
+          "20d05b4675004d8d7941",
+          "2c4a6d2a77a05ca368d7",
+          "82f85fa914605a6e99c3",
+          "b8641e62b9656d689298",
+          "411233fcc7bdbf86baf0",
+          "3b9048a66f9dfd62c26f",
+          "87b4f1da86df3416aaab",
+          "235499951e7b983ee0e8",
+          "267c6830894270bd0a2f",
+          "20ece1a3188e02a4b1e7",
+          "45a2b4f19ebfc5df24b1",
+          "df0c102d1b18eb9ff5d0",
+          "02b71eb169bc4bb443f1",
+          "5151a464d4d1b920ed62",
+          "55f19920783be3f188ed",
+          "be4c4eee508c9149958f",
+          "80d8b3469334dc4df906",
+          "fbbbd6f3ea1050ca9078",
+          "1e295bb1e6b0443ef9b6",
+          "3e557574020c857bb609",
+          "eacfcc570c88b53040a8",
+          "e6ad58fe5e6920cd0f69",
+          "25bc80010bf135eef7a5",
+          "4c606b36ebef94b7cd6a",
+          "7439f2e52b8288755f1e",
+          "c51400a1471bb6767901",
+          "2d7a395f77943c86f534",
+          "e6b0953772e3b100b6ec",
+          "25326bca12a972459676",
+          "d0b9d29ac337b6a28625",
+          "81f2173a5192b1fd1f15",
+          "6a8d0cced4187e01f39e",
+          "640352cc416d2da8cf3b",
+          "cd96e82a1b8ab624c34d",
+          "1d177fc62d7b661f9c75",
+          "467528fbab4f5d05f2cc",
+          "a3e23bcfd08168c9998c",
+          "2265a64e9737973d1d68",
+          "a64a08e832ea4dca9ad8",
+          "dac63c39ba382e259bcf",
+          "7c1e057b5576d9c44541",
+          "e1b0f08ec7ae9547a1db",
+          "0ed7887aa885b0343524",
+          "cb43249d71baf9e449c2",
+          "aa9f1ee722faeb29b47d",
+          "ebd972fb1c89fc5e285a",
+          "ff4d0554401199e48691",
+          "140884ff25230e000087",
+          "f86d77d2d8f2c3907472",
+          "080d95e3df047bf734e0",
+          "c3e45200ae190621865b",
+          "c1ec474ef7bcaf2b7822",
+          "8689ebc38d66245065df",
+          "28686bd00ebc68c90b98",
+          "8ec8688cc94b2d485604",
+          "971891b3ffdde6f542f5",
+          "e2b7b288e1d44047b31f",
+          "8463e14faa70b65191c6",
+          "47fbcf684a7e2d30ad75",
+          "fb2f0ca63bcac013e3d8",
+          "efb1d3e9fb2528716ce5",
+          "262a0bf3411cb0a47be5",
+          "b4feefcedfa5f6fe4ccd",
+          "3bd146bb79b24610ff2a",
+          "ed82d0733eabb4b1eee5",
+          "ee655fd383d4a5ef7fbd",
+          "c81e8df42277c0ec6760",
+          "d6cfabab1a57fafa4000",
+          "38f18f4a0f6dca531bf1",
+          "4eeb74946de57fb143e5",
+          "57ff5702adc65a0adafc",
+          "2e8473b6db088ec5567b",
+          "bc34bed9daf918631fd2",
+          "cbf0824da7c986c2211e",
+          "47e7ead496fa10da815b",
+          "c6f7966314bc9e80bee9",
+          "a3859ef471a09f5f12fd",
+          "932e4cf6b83ede47c3c5",
+          "3fe932e6a95425fef77c",
+          "0ff81c2b99717b40dc5b",
+          "eea0bb68a10d7837effe",
+          "db9468ccef00c39a7445",
+          "52358ca3850014a29f4e",
+          "41b467b8701d6ec174a3",
+          "a9f50a0b1b511a28852e",
+          "488e7b20e774d8921528",
+          "c139226880623c0e9aa8",
+          "c227560bc12b7d6063b0",
+          "fb1bf5cf3e70335064f5",
+          "21d84f1b28c85d326056",
+          "820ed3271d4885c4e880",
+          "527f1c1d6e1785ce0b5f",
+          "a68569655831b59d668f",
+          "64e6e8b5e796ad80412e",
+          "efe0689d587eae72b10f",
+          "4b6c06c1df10abf4d20e",
+          "359435046defb82c4345",
+          "ed488d63a1ecd220bd57",
+          "aceb16901dd1d74d1024",
+          "d0a61bb443b022e85041",
+          "32c993cf9f440cfc65f3",
+          "e7a618c2525bfd013dce",
+          "8e0d54aa915f4ae036e7",
+          "128e4b44626a482305c5",
+          "35e8393a5d2324365ef2",
+          "c9d89d881581c2a378b4",
+          "2a5ff14a9c6ff9d5bced",
+          "ff6e058b7ad136f388a0",
+          "205061137c71effc08d4",
+          "fb540867889a606c390e",
+          "99f5c3ac8d8e2ee5d69e",
+          "70c80a191da17aaaef10",
+          "255547ba9e2c7f60c321",
+          "f64f53a1c8f62ae8bc45",
+          "ec6ee98f501b1ec1c3b1",
+          "10596ccd5db2dc13ccdd",
+          "9b3346a5614b6bf8e6bf",
+          "bbef473ff015075c9798",
+          "8b9d1cb76b39989dc65f",
+          "614e24d7d45814f3999f",
+          "e4875c52c5b3fe4b9023",
+          "9ede6ba7c23851dc2264",
+          "03ceea7fe11984b18d76",
+          "cc17fbe86e613d7d82b3",
+          "9b0a31ca4327e7e39ecb",
+          "185b25ba74ec3a4fd256",
+          "61bd6f5d9d2d3acb052e",
+          "ce8da9d2850ebb5e8c93",
+          "c6537ea81ae376d02c25",
+          "a1dddb0422365ab69e98",
+          "ab2480eb28c1d958ecc3",
+          "1d0b9b28c623d8bdca2f",
+          "61abc5b590880ba1f439",
+          "55eb596daa34db024817",
+          "bc836a68a37ab60dd0ed",
+          "44b4a8cebc2db3edf267",
+          "e83d34616ee57cb20898",
+          "9b752e04851b280dbd2d",
+          "b74e5f21a3a2a14a66f4",
+          "8bdf5d973f8404c62f01",
+          "0b2bc26eae58556aa9e7",
+          "53c8e8ebb140c7a0f6e5",
+          "d4040f035c00b09e5641",
+          "83c61fda7170103f17f8",
+          "8b132e0da6c8e49bf448",
+          "4c520009f1be9859cc2a",
+          "e35d12917990532e782f",
+          "6374df26d3e533a4c35b",
+          "23b9499b9470d184c56f",
+          "2e95e493b89d7c8b1ffa",
+          "2e19d82562f6e8a9d76e",
+          "2c7608a8807c5cf6dab6",
+          "76986625a5272e08ac2f",
+          "af4c932e0bdc2dd175a5",
+          "dc13f7968874d1691bd4",
+          "7e03a1e03335748f91a5",
+          "a0c7385fb89e2ce5843c",
+          "365b8f38c339c8392825",
+          "33b7fe130688e31f2ff8",
+          "0d7b27f263487bd214db",
+          "be581e76452db8318e47",
+          "32d91a85c7fa15dca803",
+          "9398a1f7d5ec3a3ca8c6",
+          "3644c818e4d877b1b892",
+          "a8a5665cd2bad99354bd",
+          "dc9dd78f44bbe74a1a54",
+          "8cd489296760277fbdcc",
+          "d15c8677f1bbbf0698a0",
+          "573fb67b26ee9044a355",
+          "76799848eb7049160719",
+          "14d8c7009abc29df8e1c",
+          "5d26225f7f0fc0c17b4e",
+          "998e39afbed164ba4d20",
+          "6a3e85e052d8965ecd17",
+          "26881fcf671d97335b38",
+          "ba935478b058548ae7b7",
+          "a4bef1afce25bd6f35aa",
+          "dd6fde50855f37702c12",
+          "4d19a3e1fde05c54e94b",
+          "53590956b75c6bbd3f38",
+          "4ebf0472afd41fb8f6db",
+          "c392eb89edd545a9727a",
+          "19d34784d027717d8694",
+          "269893e74a8dff9b9c03",
+          "decb81b506608115f270",
+          "32c396c92a927051b14d",
+          "619c5ee8e788479d0024",
+          "0618085dfa67cab195b3",
+          "b3d7a14a18b91c95c9cd",
+          "770ae195992b683b16c8",
+          "20233fed35a3029166f0",
+          "de589823056e8ff6a951",
+          "2d16cb36e970210a7d2c",
+          "1eb6849edcd58e4438d7",
+          "28e8a732784609365185",
+          "5a0de33f0fcafb538fc1",
+          "3a850218cfaed75d5297",
+          "933f3fe88a066a54ea4b",
+          "243735626356cf1bd7ec",
+          "5d2d77c20be6208f3283",
+          "997f86b8069e5b552e85",
+          "db19059dcb2683f44388",
+          "c123270c56203fd865b0",
+          "9fb54ef4aa5c5dfe4134",
+          "af243bed8713319700c5",
+          "f994f49cc69e004187e5",
+          "3372ec95202c970cace6"
+        ]
       }
     }
   }
