@@ -192656,11 +192656,25 @@
       ],
       "alsoCoveredBy": [],
       "id": "20d05b4675004d8d7941",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T23:38:26.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read Crypto Briefing's Nov 17 piece in full. It is a feature aggregating older disclosures: the June 2026 JPMorgan whitepaper example, Jamie Dimon's Oct 13 earnings-call remarks on blocking outside agents, and the October Mirakl partnership. No new event dated inside the lookback window; the CoinDesk Hyundai/Kinexys link is a separate story and returned HTTP 429.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/jpmorgan-ai-agents-autonomous-transactions/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-20T02:10:37.977Z",
+      "lastReviewedDay": "2026-11-20"
     },
     "e0a65b8da8c4605eb560": {
       "source": "Decrypt",
@@ -193199,11 +193213,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "80d8b3469334dc4df906",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-20T20:46:07.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "opinion",
+      "note": "Read Crypto Briefing's Nov 17 article in full. The story is Kevin O'Leary's Yahoo Finance interview calling the listing 'the most hyped IPO in history' plus his Amazon comparison and diversification advice. Commentary and price opinion, not a concrete event; the underlying IPO facts are already covered by content/articles/anthropicipo.md.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/kevin-oleary-anthropic-ipo-most-hyped/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-20T02:10:37.977Z",
+      "lastReviewedDay": "2026-11-20"
     },
     "fbbbd6f3ea1050ca9078": {
       "source": "Crypto Briefing",
@@ -197454,11 +197478,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "a1dddb0422365ab69e98",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T00:53:42.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "opinion",
+      "note": "Read Crypto Briefing's Nov 18/19 article in full. The story is IDX Advisors CIO Ben McMillan's warning that IPO wealth signals a speculative frenzy, wrapped around restated pricing facts ($83 on Nov 18, raised over $81 billion). An analyst opinion piece, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/idx-advisors-cio-anthropic-ipo-speculative-frenzy/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-20T02:10:37.977Z",
+      "lastReviewedDay": "2026-11-20"
     },
     "ab2480eb28c1d958ecc3": {
       "source": "Bitcoin Magazine",
@@ -201376,11 +201410,33 @@
         "The Defiant"
       ],
       "id": "5d1e87b60eaf19be9bad",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T11:06:13.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "source-blocked",
+      "note": "Every listed source for this angle failed on actual GETs: both CoinDesk URLs returned HTTP 429 (retry-after) with the readiness User-Agent, and The Defiant returned HTTP 403. The pricing facts themselves are readable elsewhere, but this candidate's tokenized-trading angle (Uniswap/CZ BNB Chain listings) could not be opened on any listed outlet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/uniswap-adds-tokenized-anthropic-trading-on-ipo-day",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-20T02:10:37.977Z",
+      "retrySearches": [
+        "Find a readable independent outlet (Cointelegraph, Decrypt, Blockworks, Bankless) covering Uniswap and BNB Chain tokenized Anthropic (ANT) trading listings on IPO day Nov 19, 2026, with confirmed listing details"
+      ],
+      "lastReviewedDay": "2026-11-20",
+      "nextReviewDate": "2026-11-21"
     },
     "17170d7d8a1b1fe539d9": {
       "source": "The Block",
@@ -392891,6 +392947,69 @@
             "Find a full second report of Selig's Nov 19 Capitol Crypto Forum remarks on Hyperliquid entry routes beyond Crypto Briefing",
             "Retry The Block and The Defiant URLs after any Retry-After within the verification window"
           ]
+        },
+        "20d05b4675004d8d7941": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read Crypto Briefing's Nov 17 piece in full. It is a feature aggregating older disclosures: the June 2026 JPMorgan whitepaper example, Jamie Dimon's Oct 13 earnings-call remarks on blocking outside agents, and the October Mirakl partnership. No new event dated inside the lookback window; the CoinDesk Hyundai/Kinexys link is a separate story and returned HTTP 429.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/jpmorgan-ai-agents-autonomous-transactions/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T02:10:37.977Z"
+        },
+        "5d1e87b60eaf19be9bad": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Every listed source for this angle failed on actual GETs: both CoinDesk URLs returned HTTP 429 (retry-after) with the readiness User-Agent, and The Defiant returned HTTP 403. The pricing facts themselves are readable elsewhere, but this candidate's tokenized-trading angle (Uniswap/CZ BNB Chain listings) could not be opened on any listed outlet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/uniswap-adds-tokenized-anthropic-trading-on-ipo-day",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T02:10:37.977Z",
+          "retrySearches": [
+            "Find a readable independent outlet (Cointelegraph, Decrypt, Blockworks, Bankless) covering Uniswap and BNB Chain tokenized Anthropic (ANT) trading listings on IPO day Nov 19, 2026, with confirmed listing details"
+          ]
+        },
+        "80d8b3469334dc4df906": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read Crypto Briefing's Nov 17 article in full. The story is Kevin O'Leary's Yahoo Finance interview calling the listing 'the most hyped IPO in history' plus his Amazon comparison and diversification advice. Commentary and price opinion, not a concrete event; the underlying IPO facts are already covered by content/articles/anthropicipo.md.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/kevin-oleary-anthropic-ipo-most-hyped/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-20T02:10:37.977Z"
+        },
+        "a1dddb0422365ab69e98": {
+          "status": "rejected",
+          "reason": "opinion",
+          "note": "Read Crypto Briefing's Nov 18/19 article in full. The story is IDX Advisors CIO Ben McMillan's warning that IPO wealth signals a speculative frenzy, wrapped around restated pricing facts ($83 on Nov 18, raised over $81 billion). An analyst opinion piece, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/idx-advisors-cio-anthropic-ipo-speculative-frenzy/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-20T02:10:37.977Z"
         }
       },
       "baselineSlugs": [
