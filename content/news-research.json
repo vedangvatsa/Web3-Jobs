@@ -195347,30 +195347,39 @@
       ],
       "alsoCoveredBy": [],
       "id": "c6f7966314bc9e80bee9",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-21T22:09:17.000Z",
       "lastSeenAt": "2026-11-20T01:22:56.282Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation\": https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Read Lummis office Nov 18 press release, Unchained Nov 19 report and Cointelegraph Nov 19 report in full. Verified the Nov 17 letter to Bessent, six signers, section 3 safe-harbor request for state issuers, OCC waiver parity, Jan 18 2028 framework cutoff, 4(c)(7) expedited states, 0B threshold, Federal Register Aug 18/Oct 19 comment close and Jan 18 2027 effective date. The Block URL remains HTTP 403 and was not cited. Draft geniusletter.md and self-hosted Capitol hero pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
       "sourceChecks": [
         {
+          "url": "https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/senators-say-treasurys-genius-act-rule-leaves-state-stablecoin-issuers-without-cover/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers",
+          "outcome": "read"
+        },
+        {
           "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-19T01:20:08.053Z"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-19T01:20:20.352Z",
+      "reviewedAt": "2026-11-20T01:57:08.468Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
         "Find independent reporting confirming the event in: Senators: Treasury must ensure ‘equal footing’ for stablecoin issuers in GENIUS Act implementation",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-19",
-      "nextReviewDate": "2026-11-20"
+      "lastReviewedDay": "2026-11-20",
+      "articleSlug": "geniusletter"
     },
     "67a35c9ba8701ede7992": {
       "source": "Cointelegraph",
@@ -392721,6 +392730,31 @@
           ],
           "reviewedAt": "2026-11-20T01:57:00.464Z",
           "articleSlug": "hashi"
+        },
+        "c6f7966314bc9e80bee9": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Lummis office Nov 18 press release, Unchained Nov 19 report and Cointelegraph Nov 19 report in full. Verified the Nov 17 letter to Bessent, six signers, section 3 safe-harbor request for state issuers, OCC waiver parity, Jan 18 2028 framework cutoff, 4(c)(7) expedited states, 0B threshold, Federal Register Aug 18/Oct 19 comment close and Jan 18 2027 effective date. The Block URL remains HTTP 403 and was not cited. Draft geniusletter.md and self-hosted Capitol hero pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/senators-say-treasurys-genius-act-rule-leaves-state-stablecoin-issuers-without-cover/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-18-senators-treasury-must-ensure-equal-footing-for-stablecoin-issuers-in-genius-act-implementation-443501",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T01:57:08.468Z",
+          "articleSlug": "geniusletter"
         }
       },
       "baselineSlugs": [
