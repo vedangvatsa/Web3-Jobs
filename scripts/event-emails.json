@@ -583,28 +583,6 @@
     }
   },
   {
-    "name": "Money 20/20 USA",
-    "url": "https://us.money2020.com/",
-    "emails": [
-      "usa@money2020.com",
-      "press@money2020.com"
-    ],
-    "event": {
-      "id": "ma-money-20-20-usa",
-      "name": "Money 20/20 USA",
-      "description": "Money 20/20 is the collective designation for a series of blockchain events spanning three continents, with the next edition of Money 20/20 USA scheduled for October 2026 in Las Vegas. This event will",
-      "startDate": "2026-10-18T00:00:00.000Z",
-      "endDate": "2026-10-21T00:00:00.000Z",
-      "city": "Las Vegas, USA",
-      "country": "USA",
-      "location": "Las Vegas, USA, USA",
-      "url": "https://us.money2020.com/",
-      "coverImage": "https://us.money2020.com//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png",
-      "source": "marketacross",
-      "month": "October 2026"
-    }
-  },
-  {
     "name": "Link:NYC",
     "url": "https://chain.link/events/linknyc",
     "emails": [

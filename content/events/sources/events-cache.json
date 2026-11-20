@@ -76,64 +76,6 @@
     "addressLocality": "Beograd"
   },
   {
-    "id": "luma-host-evt-evt-pFcQwUTOA8oLMMD",
-    "name": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
-    "description": "## AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy\n\nArtificial intelligence is rapidly reshaping the crypto and blockchain landscape, moving beyond basic automation into smart research, dynamic risk management, and adaptive trading tools that can help users process information and navigate increasingly complex digital markets.\n\nHowever, operating at the speed of AI presents a fresh set of challenges. Fast execution, complex automated tools, and shifting market environments mean users need to understand not just the opportunities, but how to navigate potential technical limits and emerging risks safely.\n\nJoin this educational discussion to explore the opportunities and challenges at the intersection of AI and crypto. We will look at how AI is transforming the sector, what users should be aware of, and the practical steps everyone can take to use emerging tools more safely and responsibly\n\nDiscussion Topics\n\n• How AI is transforming crypto: The role of AI in blockchain products, user experiences, data analysis, customer support, security monitoring and operational efficiency.\n• New products and opportunities: How AI-enabled tools are changing the way people interact with wallets, decentralised applications, market information and digital-asset platforms.\n• Efficiency and automation: Where AI can help simplify complex processes, improve access to information and support better decision-making.\n• Understanding Tool Capabilities & Limits: Knowing what AI can and cannot do\n• Responsible Adoption & Oversight: Building the core financial knowledge and critical-thinking habits needed to guide AI tools safely, rather than relying on them blindly\n\nSchedule:\n\n• 6.30pm - Welcome, registration and check in\n• 7.15pm - Fireside chat\n• 7.45pm - Networking drinks and pizzas\n• 9:30pm - Doors clos\n\nSpeakers:\n\nSimon Babakhani - CEO, Zebec\n\nAs Zebec’s co-founder, Simon brings 10+ years of leadership experience from senior roles in private equity and advisory at Breyer Capital, Parthenon, and Oliver Wyman\n\nLucia Camarillo- Marketing Manager UK, Bitget (moderator)\nA seasoned marketing professional with nine years of global, in-house experience - including over three years specialising in the Web3 sector - driving growth across startups, scale-ups, and established enterprises. She is currently Marketing Manager at Bitget, a leading crypto exchange serving over 125 million users worldwide. Passionate about making Web3 accessible, Lucia frequently shares her expertise through industry conferences and webinars. Specialising in integrated field marketing, she designs high-impact experiences that accelerate demand, build robust pipelines, and deepen customer engagement across the Fintech landscape\n\n[About Zebec](https://zebec.io/)\n\nZebec is a leader in global stablecoin payroll, processing $500M+ in volume across 280+ enterprise clients. Since 2021, we've built an ecosystem spanning payroll, payments, banking infrastructure, and multi-chain Mastercard-backed cards, enabling enterprises to pay employees globally in real time and give them instant access to their funds\n\n[About Bitget](https://www.bitget.com/en-GB)\n\nBitget is a leading global cryptocurrency exchange serving over 125 million users worldwide. In the UK market, the platform delivers an innovation-driven spot trading experience featuring access to over 200 digital assets. Backed by a 300 million dollar protection fund and advanced security infrastructure, Bitget actively drives mainstream crypto adoption through structured educational initiatives, including its Blockchain4Youth and Blockchain4Her programs. Furthermore, as part of its global impact strategy, Bitget has partnered with UNICEF to provide essential blockchain education to 1.1 million people by 2027\n\n[About Encode](https://www.encodeclub.com/)\n\nA global developer community empowering builders through hackathons, accelerators, and educational [programmes. They also offer a vibrant coworking space](https://hub.encodeclub.com/) in the heart of Shoreditch, London!",
-    "startDate": "2026-10-20T17:30:00.000Z",
-    "endDate": "2026-10-20T20:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "url": "https://lu.ma/encode-mmls",
-    "coverImage": "/events/axc-d7590db4.webp",
-    "source": "luma-trusted",
-    "month": "September 2026",
-    "slug": "axc",
-    "timezone": "Europe/London",
-    "registrationUrl": "https://luma.com/encode-mmls",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Encode Hub",
-    "streetAddress": "41 Pitfield St, London",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.5275865,
-      "longitude": -0.08377020000000002
-    },
-    "hosts": [
-      "Encode Club",
-      "Yab",
-      "Simon Babakhani",
-      "JJ Ortiz",
-      "Lucia"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Encode Club",
-      "url": "https://www.encode.club/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/encode-mmls",
-        "price": 0
-      }
-    ],
-    "registrationAvailability": "sold-out",
-    "sourceVerification": {
-      "url": "https://luma.com/encode-mmls",
-      "eventId": "evt-pFcQwUTOA8oLMMD",
-      "fetchedAt": "2026-09-19T23:49:32.093Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
     "name": "The Solana Ecosystem Call | October",
     "description": "SOL BROTHERS hosts the October Solana Ecosystem Call with interviews, data segments and commentary on developments across Solana. The live show is listed on X, with updates also available through its YouTube channel.",
@@ -254,27 +196,6 @@
       "fetchedAt": "2026-09-19T23:54:54.928Z",
       "method": "luma-api",
       "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
-    "id": "ma-money-20-20-usa",
-    "name": "Money 20/20 USA",
-    "description": "## USA's #1 Fintech Even\n\nOur Latest Show Update\n\nTHE STRATEGIC INSIGHTS YOU'LL LEARN\n\nTHE LEADERS YOU'LL DO BUSINESS WITH\n\nALL THE WAYS YOU WILL NETWORK HERE\n\nMEET WITH FINTECH'S BIGGEST BRAND\n\nWhy Join Money20/20 USA?\n\nMoney20/20 USA is where senior leaders from banks, payments, tech, retail, startups, and more gather to move fintech forward. Join to:\n\n• Accelerate Deals: Leverage our global network to supercharge your deal flow. See who attends.\n\n• Build Partnerships: Experience high-impact opportunities to meet new partners and grow existing relationships.\n\n• Raise Your Profile: Embrace the visibility and show your solutions to a global senior audience.\n\n• Make Breakthroughs: Stay current (and ahead!) of shifts and trends that address your challenges from top industry speakers\n\nGet 1:1 Access to Fintech's Most Influential Leader\n\nDownload Our Attendee Brochure\n\nThis just in! Everything you need to know about why Money20/20 USA is where you come to grow your business\n\nGet The Latest Insights From Top Industry Experts\n\nGet real, actionable insights and takeaways from cross-sector industry experts\n\nHear What Your Fintech Community Is Sayin\n\nMeet Leading Banks, These Attendees Did.\n\n\"I met the head of Discover's Network\", \" I met the engineering director at EQ bank\", \"I met one of the large U.S. banks.\n\nMeet Payment Pros, These Attendees Did.\n\nPlus, how many meetings are attendees having? This is what they they had to say\n\nQuick! One Sentence To Describe Money20/20\n\nHow Money20/20 USA Delivers Value for Yo\n\nTop-Tier Conten\n\nStrategic Networkin\n\nThe Latest Innovation\n\nQuality Attendee\n\nThe Speaker\n\nIndustry Recognitio\n\nReady To Join Money20/20 USA? Of Course You Are\n\nGet Your Pass Now\n\nJoin 1 in 3 C-Suite leaders at fintech's #1 event in Las Vegas October 18-21, 2026. Get ready to accelerate deals and build game-changing partnerships\n\nExplore Sponsorship\n\nAmplify your brand presence and maximize ROI with curated sponsorship packages based on your business goals. Explore your options today\n\nWhat could take a month or two over Zoom - to really connect with people - at Money20/20 you’re able to do it in person, quickly, in a very efficient way. It’s that awesome in person energy that drives our deal flow\n\nAlexandra Genoves\n\nJoin Where Money Does Business Now",
-    "startDate": "2026-10-18T00:00:00.000Z",
-    "endDate": "2026-10-21T00:00:00.000Z",
-    "city": "Las Vegas, USA",
-    "country": "USA",
-    "location": "Las Vegas, USA",
-    "url": "https://us.money2020.com/",
-    "coverImage": "https://us.money2020.com//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png",
-    "source": "marketacross",
-    "month": "October 2026",
-    "descriptionSource": {
-      "url": "https://us.money2020.com/",
-      "fetchedAt": "2026-09-20T00:20:48.463Z",
-      "method": "official-section",
-      "pageTitle": "Money20/20 USA in Las Vegas | October 18-21, 2026",
-      "sha256": "1b1916c409e0c265d0b2958adf4e2a60974ae784ea3a7aba62fa065e43f3a73f"
     }
   },
   {
@@ -3607,34 +3528,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-kYdK1SuCI9AF6MK",
-    "name": "South Beach Miami Bitcoin Happy Hour at Monty's 300 Alton",
-    "description": "",
-    "startDate": "2026-10-20T21:00:00.000Z",
-    "endDate": "2026-10-21T00:00:00.000Z",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "Miami Beach, United States",
-    "url": "https://lu.ma/3c7s1enn",
-    "coverImage": "/events/luma-evt-kydk1suci9af6mk-f02e48bf.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "mu-314396578",
-    "name": "Capitol City Bitcoin meetup - virtual",
-    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
-    "startDate": "2026-10-20T19:00:00-04:00",
-    "endDate": "2026-10-20T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396578/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-j1XNCS3P7SxyGjv",
     "name": "AI for Sales: Turn Leads into Booked Meetings—Automatically (a Lunch&Learn)",
     "description": "",
@@ -5070,20 +4963,6 @@
     "month": "November 2026"
   },
   {
-    "id": "mu-316665472",
-    "name": "Reimagining Analytics Delivery for the AI Era",
-    "description": "As AI and advanced analytics capabilities continue to expand, many organizations are looking for ways to deliver greater business impact while helping their teams develop broader skills and stronger c",
-    "startDate": "2026-10-20T16:00:00-05:00",
-    "endDate": "2026-10-20T16:00:00-05:00",
-    "city": "Des Moines",
-    "country": "us",
-    "location": "Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "coverImage": "/events/mu-316665472-cd887090.webp",
-    "source": "meetup",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-316844001",
     "name": "Beyond Permissioning: Bank-Grade Enterprise Blockchain Privacy",
     "description": "Join us for a webinar with Zeeve, an LFDT general member, on building Bank-Grade Privacy for Enterprise Blockchain Networks. As regulated institutions move blockchain initiatives from pilots to produc",
@@ -5137,20 +5016,6 @@
     "url": "https://luma.com/IRL-coworking",
     "coverImage": "/events/luma-host-evt-evt-xdzrcpdha2tj2qu-5304594f.webp",
     "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-ZzWXRF39aQGyeCG",
-    "name": "CoinFund Miami: Crypto Snowbirds Return",
-    "description": "",
-    "startDate": "2026-10-20T22:00:00.000Z",
-    "endDate": "2026-10-21T01:00:00.000Z",
-    "city": "Miami",
-    "country": "United States",
-    "location": "Miami, United States",
-    "url": "https://lu.ma/wbyp6f8d",
-    "coverImage": "/events/luma-evt-zzwxrf39aqgyecg-f83039b6.webp",
-    "source": "luma",
     "month": "October 2026"
   },
   {
@@ -5535,33 +5400,6 @@
     "coverImage": "/events/luma-host-evt-evt-dz0mxgbpcszczxs-82a51727.webp",
     "source": "luma-trusted",
     "month": "December 2026"
-  },
-  {
-    "id": "w3v-merkle-science-meet-las-vegas-enterprise-26-10-20",
-    "name": "Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin",
-    "description": "Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin: Panels on compliance, stablecoins, and programmable money in Las Vegas.",
-    "startDate": "2026-10-20T20:30:00.000Z",
-    "endDate": "2026-10-21T01:30:00.000Z",
-    "city": "Paradise",
-    "country": "US",
-    "location": "Paradise, US",
-    "url": "https://luma.com/yqb3o4cs",
-    "coverImage": "/events/w3v-merkle-science-meet-las-vegas-enterprise-26-10-7b8ec9b0.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "mu-316788764",
-    "name": "Bienvenidos a charla en Español.",
-    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
-    "startDate": "2026-10-20T18:30:00-05:00",
-    "endDate": "2026-10-20T18:30:00-05:00",
-    "city": "West Des Moines",
-    "country": "us",
-    "location": "West Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316788764/",
-    "coverImage": "/events/mu-316788764-23ca9f72.webp",
-    "source": "meetup",
-    "month": "October 2026"
   },
   {
     "id": "w3v-money20-20-happy-hour-26-10-20",
@@ -6095,20 +5933,6 @@
     "month": "October 2026"
   },
   {
-    "id": "mu-316879993",
-    "name": "Change Data Capture: The Shouldas, Couldas, and Wouldas",
-    "description": "Change Data Capture (CDC) looks straightforward on paper: enable it on the database, enable it on a table, and you're off. But what happens when your log fills up? What if you have to set it up in an",
-    "startDate": "2026-10-20T18:00:00-04:00",
-    "endDate": "2026-10-20T18:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/tripass/events/316879993/",
-    "coverImage": "/events/mu-316879993-ebac7e3a.webp",
-    "source": "meetup",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-ycWrx5n01IFcfSP",
     "name": "Bitcoin & Brews Port Moody",
     "description": "",
@@ -6248,20 +6072,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-RyAmJgxofwkyvM5",
-    "name": "Deadly Good Growth Session by Superwall",
-    "description": "",
-    "startDate": "2026-10-20T13:00:00.000Z",
-    "endDate": "2026-10-21T00:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/sw-growth-session",
-    "coverImage": "/events/luma-evt-ryamjgxofwkyvm5-93da3bae.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-316423209",
     "name": "Model Mondays - Spotlight on NVIDIA models",
     "description": "NVIDIA models give developers options for building and deploying AI workloads that require strong reasoning, generation, and accelerated inference across a range of application scenarios.\n\nJoin us as",
@@ -6300,20 +6110,6 @@
     "location": "Madrid, Spain",
     "url": "https://lu.ma/15rjlr8p",
     "coverImage": "/events/luma-evt-jzeqt9y6kaspjzo-a65011e9.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-rWiaMcqH0pOEnEQ",
-    "name": "Start Your Engine: NRTHRN Strong x Hyrox Launch",
-    "description": "",
-    "startDate": "2026-10-20T22:30:00.000Z",
-    "endDate": "2026-10-21T00:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/3c0mlbpz",
-    "coverImage": "/events/luma-evt-rwiamcqh0poeneq-2aced4be.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -6526,20 +6322,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "id": "luma-evt-nRMlFpvwxn9uzmG",
-    "name": "Mexico City | Claude en el Senado de la República 🏛️",
-    "description": "",
-    "startDate": "2026-10-20T21:30:00.000Z",
-    "endDate": "2026-10-21T00:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/claudemexicocitysenado",
-    "coverImage": "/events/luma-evt-nrmlfpvwxn9uzmg-44273267.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-p5ztnSUQ0KMPTGK",
@@ -8655,20 +8437,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-l5sGtz6TMmoPlOx",
-    "name": "Studio Night: Dramatic",
-    "description": "",
-    "startDate": "2026-10-20T22:00:00.000Z",
-    "endDate": "2026-10-21T01:00:00.000Z",
-    "city": "Fort Lauderdale",
-    "country": "United States",
-    "location": "Fort Lauderdale, United States",
-    "url": "https://lu.ma/nkob11aw",
-    "coverImage": "/events/luma-evt-l5sgtz6tmmoplox-a236655e.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-3vTAJvXoBBaY3HB",
     "name": "Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol",
     "description": "ETHGlobal and PU DAO host a community coworking event with an introduction to NEAR Protocol by NEAR Legion member Swayam. The presentation covers the ecosystem, technology and developer opportunities.",
@@ -8881,20 +8649,6 @@
     }
   },
   {
-    "id": "luma-evt-pFcQwUTOA8oLMMD",
-    "name": "AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy",
-    "description": "",
-    "startDate": "2026-10-20T17:30:00.000Z",
-    "endDate": "2026-10-20T20:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/encode-mmls",
-    "coverImage": "/events/luma-evt-pfcqwutoa8olmmd-30a706ed.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-8U0cUpXLZqLIgxB",
     "name": "GIBLDN26 Rockchain - food drinks and crypto",
     "description": "",
@@ -8906,20 +8660,6 @@
     "url": "https://lu.ma/vv3fj69q",
     "coverImage": "/events/luma-evt-8u0cupxlzqligxb-461f7e95.webp",
     "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "mu-316789341",
-    "name": "Let's discuss Bitcoin and the Crypto Sector",
-    "description": "Join us at Austin Bitcoin Meetup for an insightful discussion on Bitcoin, the market, crypto projects and protocols... as well as other topics that may or may not impact crypto. Take your chance to be",
-    "startDate": "2026-10-20T19:00:00-05:00",
-    "endDate": "2026-10-20T19:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/austin-bitcoin-meetup/events/316789341/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "October 2026"
   },
   {
@@ -10432,7 +10172,7 @@
     "country": "US",
     "location": "Oakland, US",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317049329/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317049329-37faed72.webp",
     "source": "meetup",
     "month": "January 2027"
   },
@@ -15617,7 +15357,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/northwest-artificial-general-intelligence-meetup-group/events/317138651/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317138651-2e7ab276.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15930,13 +15670,13 @@
     "id": "luma-evt-ttAIX9coGPDKyR3",
     "name": "30×30 Real Business AI Buildathon @Stanford",
     "description": "",
-    "startDate": "2026-11-17T23:00:00.000Z",
+    "startDate": "2026-11-20T23:00:00.000Z",
     "endDate": "2026-11-21T02:30:00.000Z",
     "city": "Stanford",
     "country": "United States",
     "location": "Stanford, United States",
     "url": "https://lu.ma/fzo1dcu3",
-    "coverImage": "/events/luma-evt-ttaix9cogpdkyr3-704e528d.webp",
+    "coverImage": "/events/luma-evt-ttaix9cogpdkyr3-ad7b06af.webp",
     "source": "luma",
     "month": "November 2026"
   },
@@ -16888,7 +16628,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317385759/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317385759-aae595e1.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20025,7 +19765,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20053,7 +19793,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -20695,7 +20435,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/washington-dc-options-trading-group/events/317454509/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454509-84a3b13a.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22850,5 +22590,117 @@
     "coverImage": "/events/eb-1996079909743-de891921.webp",
     "source": "eventbrite",
     "month": "April 2027"
+  },
+  {
+    "id": "luma-evt-yAJPrnU6qezoXjC",
+    "name": "MACUL Invites Dominque Fricot - Single Release Concert",
+    "description": "",
+    "startDate": "2026-11-20T19:00:00.000Z",
+    "endDate": "2026-11-20T23:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/iw0p1ngy",
+    "coverImage": "/events/luma-evt-yajprnu6qezoxjc-c6274a5b.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-nnWVdFPYAspWioI",
+    "name": "30×30 Real Business AI Buildathon @Stanford",
+    "description": "",
+    "startDate": "2026-11-20T23:30:00.000Z",
+    "endDate": "2026-11-21T03:00:00.000Z",
+    "city": "Stanford",
+    "country": "United States",
+    "location": "Stanford, United States",
+    "url": "https://lu.ma/nesjfisa",
+    "coverImage": "/events/luma-evt-nnwvdfpyaspwioi-75c0aac4.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-IIHmdPLMP1fFjgL",
+    "name": "Civic Coffee Hour: Norwalk Tree Alliance & Waste Management",
+    "description": "",
+    "startDate": "2026-11-21T16:00:00.000Z",
+    "endDate": "2026-11-21T18:00:00.000Z",
+    "city": "Norwalk",
+    "country": "United States",
+    "location": "Norwalk, United States",
+    "url": "https://lu.ma/ejib2ckn",
+    "coverImage": "/events/luma-evt-iihmdplmp1ffjgl-ee365f54.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-D7ywsGzDlgbkjfk",
+    "name": "Intro to Soldering & Electronics: Make a Mini Piano",
+    "description": "",
+    "startDate": "2026-11-21T19:00:00.000Z",
+    "endDate": "2026-11-21T22:00:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/n0m3kwmi",
+    "coverImage": "/events/luma-evt-d7ywsgzdlgbkjfk-6ab2e094.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-pcC7PxE07FyePZ8",
+    "name": "Who Owns the Future? AI, Money & the New Rules with Reggie Middleton aka The Father of DeFi",
+    "description": "",
+    "startDate": "2026-11-21T19:00:00.000Z",
+    "endDate": "2026-11-21T21:00:00.000Z",
+    "city": "Brooklyn",
+    "country": "United States",
+    "location": "Brooklyn, United States",
+    "url": "https://lu.ma/nbnsla68",
+    "coverImage": "/events/luma-evt-pcc7pxe07fyepz8-b720b2f3.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-FTQ3BYRECGvF60J",
+    "name": "ISC Community Circle | Future Forward: Technology, Al & Entrepreneurship",
+    "description": "",
+    "startDate": "2026-11-22T22:00:00.000Z",
+    "endDate": "2026-11-23T02:00:00.000Z",
+    "city": "San Jose",
+    "country": "United States",
+    "location": "San Jose, United States",
+    "url": "https://lu.ma/6c9lqh8e",
+    "coverImage": "/events/luma-evt-ftq3byrecgvf60j-045fc894.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317292735",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-11-24T18:30:00-06:00",
+    "endDate": "2026-11-24T18:30:00-06:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/317292735/",
+    "coverImage": "/events/mu-317292735-a00a3a6b.webp",
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317271205",
+    "name": "NixOS: Functional Programming for Your Operating System",
+    "description": "NixOS: Functional Programming for Your Operating System\n\nWhat if your entire operating system, including every package, configuration file, and service, could be defined as the output of a pure functi",
+    "startDate": "2026-12-02T18:00:00-06:00",
+    "endDate": "2026-12-02T18:00:00-06:00",
+    "city": "Urbandale",
+    "country": "us",
+    "location": "Urbandale, us",
+    "url": "https://www.meetup.com/devopsdsm/events/317271205/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
   }
 ]

@@ -1331,48 +1331,6 @@
       "applied": true
     },
     {
-      "id": "ma-money-20-20-usa",
-      "status": "verified",
-      "patch": {
-        "venueName": "The Venetian Resort Las Vegas",
-        "streetAddress": "3355 Las Vegas Blvd. South",
-        "addressLocality": "Las Vegas",
-        "addressRegion": "NV",
-        "postalCode": "89109",
-        "addressCountry": "US",
-        "location": "The Venetian Resort Las Vegas, 3355 Las Vegas Blvd. South, Las Vegas, NV 89109, United States",
-        "venueAddressSource": {
-          "checkedAt": "2026-10-19T20:00:39.577Z",
-          "urls": [
-            "https://us.money2020.com/attend/plan-your-trip",
-            "https://www.venetianlasvegas.com/resort/contact.html"
-          ],
-          "venueName": "The Venetian Resort Las Vegas",
-          "streetAddress": "3355 Las Vegas Blvd. South",
-          "addressLocality": "Las Vegas",
-          "addressCountry": "US",
-          "location": "The Venetian Resort Las Vegas, 3355 Las Vegas Blvd. South, Las Vegas, NV 89109, United States"
-        }
-      },
-      "evidence": [
-        {
-          "url": "https://us.money2020.com/attend/plan-your-trip",
-          "fetchedAt": "2026-10-19T20:00:39.577Z",
-          "claim": "The current organizer travel guide identifies the 2026 event and its main venue.",
-          "excerpt": "Your guide to Money20/20 USA 2026 ... Money20/20 USA takes place at The Venetian Hotel in Las Vegas."
-        },
-        {
-          "url": "https://www.venetianlasvegas.com/resort/contact.html",
-          "fetchedAt": "2026-10-19T20:00:30.433Z",
-          "claim": "The venue's official contact page supplies the street, city, state abbreviation and postcode.",
-          "excerpt": "The Venetian Resort Hotel Casino 3355 Las Vegas Blvd. South, Las Vegas, NV 89109"
-        }
-      ],
-      "note": "Main conference/resort address. The organizer separately advertises evening activities elsewhere; their addresses are not substituted for the main venue. The Venetian address is distinct from the Palazzo address also listed on the hotel contact page.",
-      "name": "Money20/20 USA",
-      "applied": true
-    },
-    {
       "id": "premier-blockfest-africa-2026",
       "status": "verified",
       "patch": {

@@ -472,31 +472,6 @@
       }
     }
   },
-  "ma-money-20-20-usa": {
-    "expectedStartDate": "2026-10-18T00:00:00.000Z",
-    "checkedAt": "2026-10-19T20:00:39.577Z",
-    "patch": {
-      "venueName": "The Venetian Resort Las Vegas",
-      "streetAddress": "3355 Las Vegas Blvd. South",
-      "addressLocality": "Las Vegas",
-      "addressRegion": "NV",
-      "postalCode": "89109",
-      "addressCountry": "US",
-      "location": "The Venetian Resort Las Vegas, 3355 Las Vegas Blvd. South, Las Vegas, NV 89109, United States",
-      "venueAddressSource": {
-        "checkedAt": "2026-10-19T20:00:39.577Z",
-        "urls": [
-          "https://us.money2020.com/attend/plan-your-trip",
-          "https://www.venetianlasvegas.com/resort/contact.html"
-        ],
-        "venueName": "The Venetian Resort Las Vegas",
-        "streetAddress": "3355 Las Vegas Blvd. South",
-        "addressLocality": "Las Vegas",
-        "addressCountry": "US",
-        "location": "The Venetian Resort Las Vegas, 3355 Las Vegas Blvd. South, Las Vegas, NV 89109, United States"
-      }
-    }
-  },
   "premier-blockfest-africa-2026": {
     "expectedStartDate": "2026-10-22T08:00:00+01:00",
     "checkedAt": "2026-10-19T20:00:30.437Z",

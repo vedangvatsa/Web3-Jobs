@@ -1007,65 +1007,6 @@
     "slug": "bitcoin-beginners-2026-10-25"
   },
   {
-    "name": "South Beach Miami Bitcoin Happy Hour",
-    "description": "Miami Bitcoin Events hosts a casual happy hour for local Bitcoiners at Monty's. There is no formal agenda, and all experience levels are welcome.",
-    "startDate": "2026-10-20T17:00:00-04:00",
-    "endDate": "2026-10-20T20:00:00-04:00",
-    "city": "Miami Beach",
-    "country": "United States",
-    "location": "Monty's, 300 Alton Rd Ste 102, Miami Beach, FL",
-    "venueName": "Monty's",
-    "streetAddress": "300 Alton Rd Ste 102",
-    "addressLocality": "Miami Beach",
-    "addressRegion": "FL",
-    "addressCountry": "US",
-    "organizer": {
-      "type": "Organization",
-      "name": "Miami Bitcoin Events"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/mu-316316148-9ea1b946.webp",
-    "descriptionSource": {
-      "url": "https://www.meetup.com/miamibitcoinevents/events/316316148/",
-      "fetchedAt": "2026-10-20T09:30:01.050Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "South Beach Miami Bitcoin Happy Hour, Tue, Oct 20, 2026, 5:00 PM   | Meetup",
-      "sha256": "5d570ac98c5306d92ee30dc8d10181e8e6a6a8e6b6aad9a74ade3f771a658c2b",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/miamibitcoinevents/events/316316148/",
-          "fetchedAt": "2026-10-20T08:11:03.102Z",
-          "sha256": "66c55514efab67d7c264f65adb8867a2494dda8a4721723faea20f89e6cdad53",
-          "retrievedVia": "html; JSON-LD and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/miamibitcoinevents/events/316316148/",
-          "fetchedAt": "2026-10-20T09:30:01.050Z",
-          "sha256": "ce69ef4a285f7cdf73232981912de3ad6ada9bcdac855a3cc57a30e328cdad81",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "mu-316316148",
-    "url": "https://www.meetup.com/miamibitcoinevents/events/316316148/",
-    "registrationUrl": "https://www.meetup.com/miamibitcoinevents/events/316316148/",
-    "source": "curated-reviewed",
-    "venueAddressSource": {
-      "checkedAt": "2026-10-20T09:30:01.050Z",
-      "urls": [
-        "https://www.meetup.com/miamibitcoinevents/events/316316148/"
-      ],
-      "venueName": "Monty's",
-      "streetAddress": "300 Alton Rd Ste 102",
-      "addressLocality": "Miami Beach",
-      "addressCountry": "US",
-      "location": "Monty's, 300 Alton Rd Ste 102, Miami Beach, FL"
-    }
-  },
-  {
     "name": "₿uilder Miami",
     "description": "Bitcoin Grove's meetup focuses on building Bitcoin products, design and AI tools. The agenda includes a Socratic seminar from 7 to 8 PM, followed by demos and a startup showcase. People at all experience levels can participate.",
     "startDate": "2026-10-29T18:30:00-04:00",

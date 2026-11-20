@@ -1334,36 +1334,6 @@
     }
   },
   {
-    "id": "luma-batch-evt7gjnLEpvcig2Z",
-    "slug": "g1agc1dv",
-    "name": "Solana Across Campuses - San Diego State University",
-    "description": "Solana Across Campuses is a nationwide initiative powered by College.xyz and Solana Foundation, bringing the Solana ecosystem directly to university campuses across the globe. We're inviting students to host their own campus meetup, a chance to bring builders, creators, and curious minds together to explore what's happening on Solana.\n\nThese events are open to all students, not just blockchain club members. Anyone curious about crypto, from any major, is welcome to attend. Each event is designed to be simple to run and useful for students at every level: attendees will learn how to set up their first wallet, potentially walk away with some SOL, and see live examples of what is available within the Solana ecosystem.",
-    "startDate": "2026-10-14T00:00:00.000Z",
-    "endDate": "2026-10-14T01:00:00.000Z",
-    "city": "San Diego",
-    "country": "United States",
-    "location": "Conrad Prebys Aztec Student Union, Conrad Prebys Aztec Student Union, 6075 Aztec Circle Dr, San Diego, CA 92182, USA",
-    "url": "https://luma.com/g1agc1dv",
-    "registrationUrl": "https://luma.com/g1agc1dv",
-    "coverImage": "/events/luma-batch-evt7gjnLEpvcig2Z-b3434253.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/g1agc1dv",
-      "eventId": "evt-7gjnLEpvcig2ZhE",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtEMssqLAKyB5Cb",
     "slug": "4w2zk12q",
     "name": "Bit2Me Side Event en MERGE Madrid 2026",
@@ -1768,36 +1738,6 @@
     }
   },
   {
-    "id": "luma-batch-evt9nYvpCnI7IZyX",
-    "slug": "yqb3o4cs",
-    "name": "Merkle Science Meet Las Vegas: Enterprise Compliance for Digital Assets",
-    "description": "Join Merkle Science at Caeser Palace in Las Vegas during Money20/20 for an afternoon of focused discussion on enterprise compliance for digital assets.\n\nHosted and sponsored by global law firm Duane Morris, the event is supported by Aleo, a privacy-first blockchain; Stablecon, a conference for the stablecoin ecosystem; nSure.ai, an AI-powered payment fraud prevention platform; Movantis, a cross-border payments infrastructure provider; and Range, a treasury, risk, and compliance platform for programmable money.\n\nThis edition of Merkle Science Meet brings together leaders from financial institutions, fintechs, payment providers, and digital asset companies to examine the practical realities behind programmable money.\n\nThe program will explore evolving compliance requirements, AI-driven risk management, bank-crypto convergence, and the growing use of stablecoins for cross-border payments. Expect candid conversations grounded in what companies are building today, where regulatory and operational challenges remain, and what the next phase of institutional adoption may look like.\n\nWhat to expect\n\nShort, substantive sessions led by industry practitioners\n\nPerspectives from payments, banking, fintech, compliance, and digital assets\n\nPractical discussions covering regulation, infrastructure, risk, and real-world implementation\n\nProduct demonstrations and opportunities to connect with speakers and attendees\n\nDrinks and networking following the program\n\nAgenda\n\n1:30 PM–1:50 PM | Arrival and networking\n\nLight refreshments and informal networking.\n\n1:50 PM–2:00 PM | Welcome remarks\n\nOpening remarks from Merkle Science leadership.\n\n2:00 PM–2:40 PM | Crypto Payments in the Age of Programmable Money\n\nStablecoins and tokenized deposits are entering the payments stack alongside card rails, ACH, and wire networks. This panel will examine how payment compliance programs must adapt when settlement becomes near-instant and programmable, how transaction-monitoring tools are evolving to handle blockchain-native flows and on- and off-ramp activity, and how payment companies are navigating the overlap between traditional money-transmission obligations and emerging digital asset requirements.\n\nPanelists:\n\nAdam Leaman, Chief Compliance Officer, zerohash\nJoão Reginatto, Chief Product Officer, M0\nConnor Fitzgerald, General Manager, US, KAST\nEzra Kebrab, CEO, Caliza\nGeorgi Koreli, CEO, Hinkal\nChris Grieco, Chief Legal Officer, Rain\nLiz Bazurto, Senior Director, Business Development and Partnerships, Consensys\n\nModerator:\n\nVerina Youssef, VP, Crypto Relationship Management, First Citizens Innovation Bank\n\n2:40 PM–2:55 PM | Range demo\n\n2:55 PM–3:35 PM | AI, Risk and the Future of Stablecoin Infrastructure\n\nAs stablecoins and digital assets become increasingly integrated into mainstream financial infrastructure, AI is playing a growing role in how institutions manage risk, compliance, and operational complexity.\n\nThis session will explore how financial institutions, fintechs, payment providers, and digital asset companies are using AI to strengthen risk management, improve transaction monitoring, and scale compliance across increasingly complex financial flows. Speakers will also discuss the limitations of AI-driven compliance, the continued importance of human oversight, and how institutions are approaching the risks created by AI’s growing role in financial infrastructure.\n\nPanelists:\n\nKunal Datta, Chief Product Officer, Unit21\nAlex Zeltcer, CEO, nSure.ai\nToby Oyetoke, Co-Founder and CEO, Bitpowr\nEvan F. Kohlmann, CEO, Cloudburst Technologies\n\n3:35 PM–3:55 PM | Break\n\n3:55 PM–4:35 PM | Bank-Crypto Convergence: How Traditional Finance Is Engaging with Digital Assets\n\nBanks are revisiting their approach to crypto custody, stablecoin issuance, digital asset payments, and lending. This panel brings together perspectives from banking, compliance, and fintech to examine how that convergence is taking shape: what institutions are building or acquiring, how risk frameworks are adapting, and what the shift means for crypto-native companies competing for the same institutional customers.\n\nPanelists:\n\nHarry Bridge, Head of Stablecoin, Aztec\nBernardo Simonassi, CEO, BlindPay\nBen Milne, Co-Founder and CEO, Brale\nSerena Sebastiani, Chief Strategy Officer, Fuze\nRepresentative, Range\nBeth, General Counsel, Bastion\n\nModerator:\n\nSanjib Kalita, President, Stablecon\n\n4:35 PM–4:50 PM | Product demonstration\n\n4:50 PM–5:30 PM | Cross-Border Payments, Remittances and the Stablecoin Opportunity\n\nStablecoins are increasingly being used to address the cost and speed limitations of cross-border payments and remittances, particularly in corridors underserved by correspondent banking.\n\nThis panel will take a practical look at where the opportunity is already becoming real and where adoption remains constrained by licensing requirements, foreign-exchange conversion, liquidity, and last-mile infrastructure. Speakers will discuss active payment corridors, the compliance requirements involved in operating across them, and how competition is evolving as banks, fintechs, trading firms, and crypto-native companies pursue the same market.\n\nPanelists:\n\nSophia Roman, Director of Partnerships, Aleo\nSandeep Pyapali, Founder and CEO, Mesta\nJoão Borges, Chief Revenue Officer, BlindPay\nWei Zhou, CEO and President, Coins.ph\nDaniel Lev, Co-Founder and CEO, Coinflow\nNoah Levine, Partner, a16z\nPrashant Upadhyay, Co-Founder and CEO, PrimeVault\nSalvador Yañez, Chief Product Officer, Movantis\n\nFrom 5:30 PM | Closing remarks, drinks and networking\n\nContinue the conversation with speakers and fellow attendees over drinks.\n\nLimited seats are available. Registration is required to attend.\n\nSpeaker lineup and program are subject to change.",
-    "startDate": "2026-10-20T19:00:00.000Z",
-    "endDate": "2026-10-21T01:00:00.000Z",
-    "city": "Paradise",
-    "country": "United States",
-    "location": "Caesars Palace, Caesars Palace, 3570 S Las Vegas Blvd, Paradise, NV 89109, USA",
-    "url": "https://luma.com/yqb3o4cs",
-    "registrationUrl": "https://luma.com/yqb3o4cs",
-    "coverImage": "/events/luma-batch-evt9nYvpCnI7IZyX-83fa3a39.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/yqb3o4cs",
-      "eventId": "evt-9nYvpCnI7IZyXcB",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtGnX3Bt3QfsZya",
     "slug": "qg80sbib",
     "name": "On the House with Privy & Bridge",
@@ -1822,36 +1762,6 @@
     "sourceVerification": {
       "url": "https://luma.com/qg80sbib",
       "eventId": "evt-GnX3Bt3QfsZyawD",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evt8IJVONJcTwMP6",
-    "slug": "fpqr7v6a",
-    "name": "Cryptolina 2026",
-    "description": "Join us for an evening at the convergence of blockchain and AI, bringing together the builders, innovators, and policymakers shaping where these technologies are headed next.\n\nFounded in 2013, Cryptolina has spent over a decade building one of the most established blockchain communities in the Carolinas — rooted in innovation and education. This year, we're expanding the conversation to where blockchain and AI intersect, reflecting how these two emerging technologies are increasingly shaping each other, and the future of North Carolina's economy.\n\nWho should attend:\n\nFounders and builders in blockchain and AI, investors and VCs, policymakers and advocates for emerging tech policy, and anyone plugged into the Carolinas' tech and innovation community.\n\nWhat to expect:\nInformative and engaging keynotes, panels, and curated programming exploring blockchain and AI, a candidate forum spotlighting pro-innovation leaders running for office, a showcase of leading projects and sponsors at this technological intersection, and networking with the Carolinas' leaders in blockchain and emerging tech ecosystem. Visit Cryptolina.io for the latest agenda.\n\nPartner Organizations and Initiatives\n\nThank you to our partners and sponsors for making Cryptolina possible.\n\nNC Blockchain + AI Initiative — A statewide effort co-founded by Dan Spuller, Cryptolina 2026 Co-Chair, and North Carolina's former Lieutenant Governor Dan Forest , advancing North Carolina's leadership in blockchain innovation and AI-powered economic development.\n\nStand With Crypto — A national grassroots advocacy organization mobilizing the crypto community to support pro-innovation policy and candidates. Stand With Crypto brings its network and advocacy expertise to Cryptolina 2026's candidate forum and policy programming.\n\nNFTCLT — A digital innovation agency rooted in culture, delivering strategy, experiences, and education that move celebrities, brands, creators, and communities into the digital era with intention. Founded in Charlotte, NC, NFTCLT serves as Cryptolina 2026's conference producer.\n\nWant to become a partner? Apply Here.\n\nSponsorship packages are available now.\n\nInterested in Speaking? Apply Here\n\nLooking for ways to get involved? Volunteer at Cryptolina 2026",
-    "startDate": "2026-10-20T22:00:00.000Z",
-    "endDate": "2026-10-21T01:00:00.000Z",
-    "city": "Durham",
-    "country": "United States",
-    "location": "Durham Bottling Company, Durham Bottling Company, 506 Ramseur St, Durham, NC 27701, USA",
-    "url": "https://luma.com/fpqr7v6a",
-    "registrationUrl": "https://luma.com/fpqr7v6a",
-    "coverImage": "/events/luma-batch-evt8IJVONJcTwMP6-cfba3356.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Cryptolina"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "conference",
-    "sourceVerification": {
-      "url": "https://luma.com/fpqr7v6a",
-      "eventId": "evt-8IJVONJcTwMP6RD",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

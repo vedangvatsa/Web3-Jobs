@@ -10208,5 +10208,51 @@
       "timechain-tuesdays-coffee-bitcoin",
       "mu-317025728"
     ]
+  },
+  "ma-money-20-20-usa": {
+    "until": "2027-11-20T01:23:41.775Z",
+    "slugs": [
+      "money2020-usa",
+      "m22u",
+      "ma-money-20-20-usa"
+    ]
+  },
+  "luma-host-evt-evt-pFcQwUTOA8oLMMD": {
+    "until": "2027-11-20T01:23:41.775Z",
+    "slugs": [
+      "luma-host-evt-evt-pfcqwutoa8olmmd",
+      "axc"
+    ]
+  },
+  "luma-batch-evt7gjnLEpvcig2Z": {
+    "until": "2027-11-20T01:23:41.775Z",
+    "slugs": [
+      "solana-san-diego-state-university",
+      "g1agc1dv",
+      "luma-batch-evt7gjnlepvcig2z"
+    ]
+  },
+  "luma-batch-evt8IJVONJcTwMP6": {
+    "until": "2027-11-20T01:23:41.775Z",
+    "slugs": [
+      "cryptolina",
+      "fpqr7v6a",
+      "luma-batch-evt8ijvonjctwmp6"
+    ]
+  },
+  "mu-316316148": {
+    "until": "2027-11-20T01:23:41.775Z",
+    "slugs": [
+      "south-beach-miami-bitcoin-happy-hour",
+      "mu-316316148"
+    ]
+  },
+  "luma-batch-evt9nYvpCnI7IZyX": {
+    "until": "2027-11-20T01:30:32.837Z",
+    "slugs": [
+      "merkle-science-las-vegas",
+      "yqb3o4cs",
+      "luma-batch-evt9nyvpcni7izyx"
+    ]
   }
 }

@@ -47,22 +47,6 @@ The announced Web3-related programs include Cross Margin Labs' Aqua0 DeFi reside
 
 Applications are reviewed on a rolling basis. Accepted applicants receive a ticket-purchase link, and payment confirms their place. Tickets include village programming, coworking and community activities, but not accommodation or most meals. Joining a residency is optional. Tickets are non-refundable; the organizer allows date changes or transfers to another attendee. Daily clock times are not confirmed for the village as a whole.
 
-<a id="event-ee48506916430ec6"></a>
-
-## Money20/20 USA
-
-- Record: `ma-money-20-20-usa`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-18T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://us.money2020.com/>
-
-### About the event
-
-Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together banking, payments, technology, retail and fintech participants. The current agenda highlights agentic AI, fraud, finance as a service, payments and regulation. Announced speakers include PNC chairman and CEO William Demchak, Early Warning CEO Cameron Fowler and Adyen chief risk and compliance officer Mariëtte Swart.
-
-Attendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.
-
 <a id="event-8b88820248c00987"></a>
 
 ## Blockf3st Africa 2026
@@ -2667,20 +2651,6 @@ Passes The 2027 General Admission pass is listed at $69 and covers two-day acces
 The Whale Pass is $1,499 and includes backstage deep sessions with speakers, all-inclusive food and drinks, access to Whale Night side events and the after-party, The Deep private lounge, priority seating and a VIP gift bag.  Groups and companies can request a tailored package
 
 Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder, Network School), Dr Hon Johnny Ng and Kit Chong MH (Hong Kong Legislative Council), David Bailey (CEO and chairman, Nakamoto Inc.), Simon Gerovich (CEO, Metaplanet), Justin Sun (advisor, WBTC), Aj Scaramucci (founder and CEO, Treasure Trove), Jack Kong (founder and board member, Nano Labs and Hong Kong Cyberport), Bonnie Chang (founder and host, Bonnie Blockchain) and Bilal Bin Saqib (chairman, Pakistan Virtual Assets Regulatory Authority). Bitcoin Asia is published by BTC Inc., a subsidiary of Nakamoto Inc. (NASDAQ: NAKA).
-
-<a id="event-772191189e668953"></a>
-
-## South Beach Miami Bitcoin Happy Hour
-
-- Record: `mu-316316148`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-20T17:00:00-04:00
-- Description: Source-backed
-- Original page: <https://www.meetup.com/miamibitcoinevents/events/316316148/>
-
-### About the event
-
-Miami Bitcoin Events hosts a casual happy hour for local Bitcoiners at Monty's. There is no formal agenda, and all experience levels are welcome.
 
 <a id="event-aa2c9cc7df7265ad"></a>
 
@@ -17593,240 +17563,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-1ce8bbfb068c1c04"></a>
-
-## Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin
-
-- Record: `luma-batch-evt9nYvpCnI7IZyX`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-20T20:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/yqb3o4cs>
-
-### Merkle Science Meet Las Vegas 2026 🇺🇸
-
-October 20, 2026 | Caesars Palace, Las Vegas | During Money20/20 USA (Room Augustus III)
-
-Join us at Caesars Palace during Money20/20 USA for the Merkle Science Meet Las Vegas 2026, brought to you by Merkle Science in collaboration with Duane Morris LLP.
-
-This exclusive gathering will bring together leaders from financial institutions, fintechs, payment providers, and digital asset companies for an afternoon of focused discussions on enterprise compliance, stablecoins, programmable money, and the future of financial infrastructure.
-
-Hosted with Merkle Science & Duane Morris LLP, the event will feature expert-led panels, product demonstrations, and networking opportunities with industry leaders shaping the next generation of financial services
-
-Our Sponsors & Partners
-
-Merkle Science - Blockchain Intelligence & Compliance
-
-Helping businesses investigate digital assets, monitor transactions, and manage financial crime risk.
-
-Duane Morris LLP - Host & Lead Sponsor
-
-An international law firm advising on legal, regulatory, and commercial matters, including financial services, fintech, and digital assets.
-
-Aleo - Privacy-First Blockchain
-
-A blockchain platform using zero-knowledge cryptography to enable programmable applications while protecting sensitive information.
-
-Stablecon - Stablecoin Ecosystem Partner
-
-An industry event and community platform connecting leaders across stablecoins, payments, banking, and digital assets.
-
-nSure.ai (https://nSure.ai) - AI-Powered Fraud Prevention
-
-An AI-powered platform helping businesses detect payment fraud and strengthen transaction risk management.
-
-Movantis - Cross-Border Payments Infrastructure
-
-Helping businesses streamline international payments, currency conversion, and settlement.
-
-Fiat Republic - Banking Infrastructure for Digital Assets
-
-Connecting crypto and Web3 businesses with fiat banking and payment services.
-
-BlindPay - Global Stablecoin Payments
-
-API-based infrastructure enabling businesses to integrate stablecoin payments and cross-border transfers.
-
-Range - Treasury, Risk & Compliance
-
-Digital asset infrastructure supporting transaction monitoring, risk assessment, and compliance operations
-
-### What to Expect
-
-- Expert-led panels featuring leaders across banking, payments, fintech, compliance, and digital assets
-- Practical discussions on regulation, fraud prevention, transaction monitoring, and risk management
-- Insights into stablecoins, programmable money, and cross-border payments
-- Product demonstrations from Merkle Science, Range, and BlindPay
-- Networking with speakers, sponsors, and fellow industry professional
-
-:
-
-- 1:30 PM
-- | Arrival & Networking
-
-Arrive, meet fellow attendees, and enjoy informal networking before the programme begins.
-
-1:50 PM
-
-- | Welcome Remarks
-
-Opening remarks from Merkle Science leadership to introduce the event and the key themes shaping the digital asset compliance landscape.
-
-2:00 PM
-
-- | Merkle Science Product Demo
-
-Discover how Merkle Science supports blockchain intelligence, transaction monitoring, digital asset investigations, and compliance programmes.
-
-2:20 PM
-
-- | Panel 1: Crypto Payments in the Age of Programmable Money
-
-Stablecoins and tokenized deposits are increasingly entering the payments stack alongside card networks, ACH, and wire transfers. This panel explores how compliance programmes must adapt to programmable settlement, blockchain-native transactions, on/off-ramp activity, and evolving money-transmission requirements.
-
-Panelists
-
-- João Reginatto - Chief Product Officer, M0
-- Connor Fitzgerald - General Manager, US, KAST
-- Tom Borgers - CEO, Walapay
-- Georgi Korelli - CEO, Hinkal
-- Chris Grieco - Chief Legal Officer, Rain
-- Liz Bazurto - Senior Director, Business Development & Partnerships, Consensys
-
-Moderator
-
-- Verina Youssef - VP, Crypto Relationship Management, First Citizens Innovation Bank
-
-3:00 PM
-
-- | Range & BlindPay Product Demos
-
-Explore solutions for digital asset risk management, compliance, and stablecoin payment infrastructure, with demonstrations from Range and BlindPay.
-
-3:20 PM
-
-- | Panel 2: AI, Risk & the Future of Stablecoin Infrastructure
-
-As stablecoins become more integrated into mainstream financial infrastructure, institutions face growing challenges around fraud, financial crime, and transaction risk. This panel explores how blockchain analytics, transaction monitoring, and AI-driven tools can strengthen risk management and support scalable compliance.
-
-Panelists
-
-- Kunal Datta - Chief Product Officer, Unit21
-- Alex Zeltcer - CEO, nSure.ai (https://nSure.ai)
-- Evan F. Kohlmann - CEO, Cloudburst Technologies
-- Ryan Dusseault - Managing Director, FTI Consulting (Former OCC)
-- Thomas Hyun - Director, Cryptocurrency Compliance, Forensic Risk
-
-Moderator: To be confirmed
-
-4:00 PM
-
-- | Networking Break
-
-Take a short break, connect with fellow attendees, and continue conversations with speakers and partners.
-
-4:20 PM
-
-- | Panel 3: Bank-Crypto Convergence: How Traditional Finance Is Engaging with Digital Assets
-
-Banks are reassessing their approach to crypto custody, stablecoin issuance, and digital asset lending. This panel examines how traditional financial institutions are engaging with digital assets, adapting risk frameworks, and competing for institutional customers.
-
-Panelists
-
-- Harry Bridge - Head of Stablecoin, Aztec
-- Ben Milne - CEO & Co-Founder, Brale
-- Serena Sebastiani - Chief Strategy Officer, Fuze
-- Jeremy Vaughn - Founder & CEO, Rimark
-- Beth - General Counsel, Bastion
-- Sinclair Toffa - CEO & Co-Founder, Mural
-
-Moderator
-
-- Sanjib Kalita - President, Stablecon
-
-5:00 PM
-
-- | Panel 4: Cross-Border Payments, Remittances & the Stablecoin Opportunity
-
-Stablecoins offer new ways to improve the speed and cost of international payments, particularly in underserved corridors. This panel examines real-world adoption, licensing requirements, foreign-exchange conversion, liquidity, and last-mile infrastructure, alongside the evolving competition between banks, fintechs, and crypto-native businesses.
-
-Panelists
-
-- Sandeep Pyapi - Founder & CEO, Mesta
-- João Borges - Chief Revenue Officer, BlindPay
-- Noah Levine - Partner, a16z
-- Prashant Upadhyay - CEO & Co-Founder, PrimeVault
-- Salvador Yañez - Chief Product Officer, Movantis
-- Logan Xu - Head of LATAM, Cregis
-
-Moderator: To be confirmed
-
-5:30 PM
-
-- | Reception & Networking
-
-Continue the conversation with speakers, sponsors, partners, and fellow attendees over drinks in a relaxed networking setting.
-
-Speaker lineup and program are subject to change.
-
-<a id="event-e84ce3093d11b782"></a>
-
-## Cryptolina 2026
-
-- Record: `luma-batch-evt8IJVONJcTwMP6`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-20T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fpqr7v6a>
-
-### About the event
-
-Join us for an evening at the convergence of blockchain and AI, bringing together the builders, innovators, and policymakers shaping where these technologies are headed next.
-
-Founded in 2013, Cryptolina has spent over a decade building one of the most established blockchain communities in the Carolinas - rooted in innovation and education. This year, we're expanding the conversation to where blockchain and AI intersect, reflecting how these two emerging technologies are increasingly shaping each other and the future of North Carolina's economy.
-
-### Who should attend
-
-Founders and builders in blockchain and AI, investors and VCs, policymakers and advocates for emerging tech policy, and anyone plugged into the Carolinas' tech and innovation community.
-
-### What to expect
-
-Informative and engaging keynotes, panels, and curated programming exploring blockchain and AI, a candidate forum spotlighting pro-innovation leaders running for office, a showcase of leading projects and sponsors at this technological intersection, and networking with the Carolinas' leaders in the blockchain and emerging tech ecosystem. Visit Cryptolina.io for the latest agenda.
-
-Partner Organizations and Initiatives
-
-Thank you to our partners and sponsors for making Cryptolina possible.
-
-NC Blockchain + AI Initiative - A statewide effort co-founded by Dan Spuller, Cryptolina 2026 Co-Chair, and North Carolina's former Lieutenant Governor Dan Forest, advancing North Carolina's leadership in blockchain innovation and AI-powered economic development.
-
-Stand With Crypto - A national grassroots advocacy organization mobilizing the crypto community to support pro-innovation policy and candidates. Stand With Crypto brings its network and advocacy expertise to Cryptolina 2026's candidate forum and policy programming.
-
-NFTCLT - A digital innovation agency rooted in culture, delivering strategy, experiences, and education that move celebrities, brands, creators, and communities into the digital era with intention. Founded in Charlotte, NC, NFTCLT serves as Cryptolina 2026's conference producer.
-
-Want to become a partner? Apply Here.
-
-Sponsorship packages are available now.
-
-Interested in Speaking? Apply Here
-
-Looking for ways to get involved? Volunteer at Cryptolina 2026
-
-<a id="event-6175066badd05668"></a>
-
-## Solana Across Campuses - San Diego State University
-
-- Record: `luma-batch-evt7gjnLEpvcig2Z`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-21T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/g1agc1dv>
-
-### About the event
-
-Solana Across Campuses is a nationwide initiative powered by (http://college.xyz/?utm_source=luma) College.xyz (https://College.xyz) and Solana Foundation, bringing the Solana ecosystem directly to university campuses across the globe. We're inviting students to host their own campus meetup, a chance to bring builders, creators, and curious minds together to explore what's happening on Solana.
-
-These events are open to all students, not just blockchain club members. Anyone curious about crypto, from any major, is welcome to attend. Each event is designed to be simple to run and useful for students at every level: attendees will learn how to set up their first wallet, potentially walk away with some SOL, and see live examples of what is available within the Solana ecosystem.
-
 <a id="event-f649e05c77eb82ce"></a>
 
 ## Money20/20 Happy Hour
@@ -20220,22 +19956,6 @@ You may leave with a partnership, a prototype, a new collaborator, or an entirel
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-f17c7abc355487c9"></a>
-
-## Money 20/20 USA
-
-- Record: `ma-money-20-20-usa`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-18T00:00:00.000Z
-- Description: Source-backed
-- Original page: <https://us.money2020.com/>
-
-### About the event
-
-Money20/20 USA runs in Las Vegas from October 18 to 21, 2026, bringing together banking, payments, technology, retail and fintech participants. The current agenda highlights agentic AI, fraud, finance as a service, payments and regulation. Announced speakers include PNC chairman and CEO William Demchak, Early Warning CEO Cameron Fowler and Adyen chief risk and compliance officer Mariëtte Swart.
-
-Attendees can use Money20/20 Connect in the app or browser to book one-to-one meetings. The event also includes an exhibition and evening gatherings; the organizer advertises a Timbaland DJ set at OMNIA as part of Money By Night. Check your pass conditions for access to individual activities.
-
 <a id="event-8dae74092e03a2d9"></a>
 
 ## HACK GENESIS 2026
@@ -20284,18 +20004,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-8b0c6df59d44ac31"></a>
-
-## Deadly Good Growth Session by Superwall
-
-- Record: `luma-evt-RyAmJgxofwkyvM5`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T13:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/sw-growth-session>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-0b0e361918aec5f2"></a>
 
 ## Bitcoin for Financial Services Summit 2026
@@ -20305,206 +20013,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-20T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.bffs.media/summit>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-6f17ab42f68b91bc"></a>
-
-## Reimagining Analytics Delivery for the AI Era
-
-- Record: `mu-316665472`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T16:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/des-moines-data-analytics/events/316665472/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-61c6c2285c14c9aa"></a>
-
-## AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy
-
-- Record: `luma-evt-pFcQwUTOA8oLMMD`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T17:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/encode-mmls>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-13b24fc96fc94770"></a>
-
-## AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy
-
-- Record: `luma-host-evt-evt-pFcQwUTOA8oLMMD`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T17:30:00.000Z
-- Description: Source-backed
-- Original page: <https://lu.ma/encode-mmls>
-- Original page: <https://luma.com/encode-mmls>
-
-### AI x Crypto: Innovation, Efficiency and Staying Safe in a New Digital Economy
-
-Artificial intelligence is rapidly reshaping the crypto and blockchain landscape, moving beyond basic automation into smart research, dynamic risk management, and adaptive trading tools that can help users process information and navigate increasingly complex digital markets.
-
-However, operating at the speed of AI presents a fresh set of challenges. Fast execution, complex automated tools, and shifting market environments mean users need to understand not just the opportunities, but how to navigate potential technical limits and emerging risks safely.
-
-Join this educational discussion to explore the opportunities and challenges at the intersection of AI and crypto. We will look at how AI is transforming the sector, what users should be aware of, and the practical steps everyone can take to use emerging tools more safely and responsibly
-
-Discussion Topics
-
-- How AI is transforming crypto: The role of AI in blockchain products, user experiences, data analysis, customer support, security monitoring and operational efficiency.
-- New products and opportunities: How AI-enabled tools are changing the way people interact with wallets, decentralised applications, market information and digital-asset platforms.
-- Efficiency and automation: Where AI can help simplify complex processes, improve access to information and support better decision-making.
-- Understanding Tool Capabilities & Limits: Knowing what AI can and cannot do
-- Responsible Adoption & Oversight: Building the core financial knowledge and critical-thinking habits needed to guide AI tools safely, rather than relying on them blindly
-
-### Schedule
-
-- 6.30pm - Welcome, registration and check in
-- 7.15pm - Fireside chat
-- 7.45pm - Networking drinks and pizzas
-- 9:30pm - Doors clos
-
-### Speakers
-
-Simon Babakhani - CEO, Zebec
-
-As Zebec's co-founder, Simon brings 10+ years of leadership experience from senior roles in private equity and advisory at Breyer Capital, Parthenon, and Oliver Wyman
-
-Lucia Camarillo- Marketing Manager UK, Bitget (moderator)
-
-A seasoned marketing professional with nine years of global, in-house experience - including over three years specialising in the Web3 sector - driving growth across startups, scale-ups, and established enterprises. She is currently Marketing Manager at Bitget, a leading crypto exchange serving over 125 million users worldwide. Passionate about making Web3 accessible, Lucia frequently shares her expertise through industry conferences and webinars. Specialising in integrated field marketing, she designs high-impact experiences that accelerate demand, build robust pipelines, and deepen customer engagement across the Fintech landscape
-
-[About Zebec](https://zebec.io/)
-
-Zebec is a leader in global stablecoin payroll, processing $500M+ in volume across 280+ enterprise clients. Since 2021, we've built an ecosystem spanning payroll, payments, banking infrastructure, and multi-chain Mastercard-backed cards, enabling enterprises to pay employees globally in real time and give them instant access to their funds
-
-[About Bitget](https://www.bitget.com/en-GB)
-
-Bitget is a leading global cryptocurrency exchange serving over 125 million users worldwide. In the UK market, the platform delivers an innovation-driven spot trading experience featuring access to over 200 digital assets. Backed by a 300 million dollar protection fund and advanced security infrastructure, Bitget actively drives mainstream crypto adoption through structured educational initiatives, including its Blockchain4Youth and Blockchain4Her programs. Furthermore, as part of its global impact strategy, Bitget has partnered with UNICEF to provide essential blockchain education to 1.1 million people by 2027
-
-[About Encode](https://www.encodeclub.com/)
-
-A global developer community empowering builders through hackathons, accelerators, and educational [programmes. They also offer a vibrant coworking space](https://hub.encodeclub.com/) in the heart of Shoreditch, London!
-
-<a id="event-77e3930708d2abed"></a>
-
-## Change Data Capture: The Shouldas, Couldas, and Wouldas
-
-- Record: `mu-316879993`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T18:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/tripass/events/316879993/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-58763f6fea7db2dc"></a>
-
-## Bienvenidos a charla en Español.
-
-- Record: `mu-316788764`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T18:30:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316788764/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-98e61dba18043a58"></a>
-
-## Capitol City Bitcoin meetup - virtual
-
-- Record: `mu-314396578`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T19:00:00-04:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396578/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-441431ebc94bd5a5"></a>
-
-## Let's discuss Bitcoin and the Crypto Sector
-
-- Record: `mu-316789341`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T19:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/316789341/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8d659ca2ed669e08"></a>
-
-## Merkle Science Meet Las Vegas: Enterprise Compliance for Stablecoin
-
-- Record: `w3v-merkle-science-meet-las-vegas-enterprise-26-10-20`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T20:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/yqb3o4cs>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-50eddf199526be4b"></a>
-
-## South Beach Miami Bitcoin Happy Hour at Monty's 300 Alton
-
-- Record: `luma-evt-kYdK1SuCI9AF6MK`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T21:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/3c7s1enn>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-a5fc608451be3c81"></a>
-
-## Mexico City \| Claude en el Senado de la República 🏛️
-
-- Record: `luma-evt-nRMlFpvwxn9uzmG`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T21:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/claudemexicocitysenado>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-2054535ccc50a9f7"></a>
-
-## Studio Night: Dramatic
-
-- Record: `luma-evt-l5sGtz6TMmoPlOx`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/nkob11aw>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-60ab3de2c654f612"></a>
-
-## CoinFund Miami: Crypto Snowbirds Return
-
-- Record: `luma-evt-ZzWXRF39aQGyeCG`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/wbyp6f8d>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-37fcab1d7fbef94a"></a>
-
-## Start Your Engine: NRTHRN Strong x Hyrox Launch
-
-- Record: `luma-evt-rWiaMcqH0pOEnEQ`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T22:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/3c0mlbpz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -30923,18 +30431,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-4792ddd146f0dcbb"></a>
-
-## 30×30 Real Business AI Buildathon @Stanford
-
-- Record: `luma-evt-ttAIX9coGPDKyR3`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-17T23:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/fzo1dcu3>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-3acbf0f5cebc2232"></a>
 
 ## Silicon Data @ TomorrowX Rainey Street Block Party
@@ -32725,6 +32221,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e95525028083c145"></a>
+
+## MACUL Invites Dominque Fricot - Single Release Concert
+
+- Record: `luma-evt-yAJPrnU6qezoXjC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/iw0p1ngy>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-371b19bfecb39e7f"></a>
 
 ## Beginning Concepts to Foreign and Crypto Trading
@@ -32782,6 +32290,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-20T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/7yx7xeqx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4792ddd146f0dcbb"></a>
+
+## 30×30 Real Business AI Buildathon @Stanford
+
+- Record: `luma-evt-ttAIX9coGPDKyR3`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fzo1dcu3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-894419b7e8a5e689"></a>
+
+## 30×30 Real Business AI Buildathon @Stanford
+
+- Record: `luma-evt-nnWVdFPYAspWioI`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-20T23:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nesjfisa>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33025,6 +32557,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c1096fa1b7d06fdb"></a>
+
+## Civic Coffee Hour: Norwalk Tree Alliance & Waste Management
+
+- Record: `luma-evt-IIHmdPLMP1fFjgL`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ejib2ckn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-8325f3e7746a681c"></a>
 
 ## 🐾 🎅 🍹 Elsewhere-Riverwalk & Hops & Hounds
@@ -33034,6 +32578,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-21T17:30:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/good-vibe-tribe-20s-40s/events/317194270/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a6ccc8051506c9ac"></a>
+
+## Intro to Soldering & Electronics: Make a Mini Piano
+
+- Record: `luma-evt-D7ywsGzDlgbkjfk`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/n0m3kwmi>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2b3b9c94afc9dff0"></a>
+
+## Who Owns the Future? AI, Money & the New Rules with Reggie Middleton aka The Father of DeFi
+
+- Record: `luma-evt-pcC7PxE07FyePZ8`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-21T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nbnsla68>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33154,6 +32722,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-22T21:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/brgiltaz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-90a664524a7639d1"></a>
+
+## ISC Community Circle \| Future Forward: Technology, Al & Entrepreneurship
+
+- Record: `luma-evt-FTQ3BYRECGvF60J`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-22T22:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6c9lqh8e>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33406,6 +32986,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-24T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/h3kccyyl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6ae1fdb093126c73"></a>
+
+## Bienvenidos a charla en Español.
+
+- Record: `mu-317292735`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24T18:30:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/317292735/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34988,6 +34580,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-02T18:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/atlbitlab/events/317194380/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a71b48773a4e4339"></a>
+
+## NixOS: Functional Programming for Your Operating System
+
+- Record: `mu-317271205`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T18:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/devopsdsm/events/317271205/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

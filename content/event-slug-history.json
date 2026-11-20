@@ -9,12 +9,6 @@
       "gll"
     ]
   },
-  "luma-batch-evt7gjnLEpvcig2Z": {
-    "slug": "solana-san-diego-state-university",
-    "aliases": [
-      "g1agc1dv"
-    ]
-  },
   "luma-batch-evtycWrx5n01IFcf": {
     "slug": "bitcoin-brews-port-moody",
     "aliases": [
@@ -31,29 +25,10 @@
     "slug": "executorch",
     "aliases": []
   },
-  "ma-money-20-20-usa": {
-    "slug": "money2020-usa",
-    "aliases": [
-      "m22u",
-      "ma-money-20-20-usa"
-    ]
-  },
   "luma-batch-jR6a4UNcsq5XvJN": {
     "slug": "islanddao-v5",
     "aliases": [
       "6laijuyn"
-    ]
-  },
-  "luma-batch-evt9nYvpCnI7IZyX": {
-    "slug": "merkle-science-las-vegas",
-    "aliases": [
-      "yqb3o4cs"
-    ]
-  },
-  "luma-batch-evt8IJVONJcTwMP6": {
-    "slug": "cryptolina",
-    "aliases": [
-      "fpqr7v6a"
     ]
   },
   "luma-batch-evtaVuHzMqExnGSR": {
@@ -1198,10 +1173,6 @@
     "aliases": [
       "perps-and-chai-hyprearn-mumbai"
     ]
-  },
-  "mu-316316148": {
-    "slug": "south-beach-miami-bitcoin-happy-hour",
-    "aliases": []
   },
   "discovery-evt-XzdNZYQvs1Okah0": {
     "slug": "20-20-vision-solana-x-huma-happy-hour",

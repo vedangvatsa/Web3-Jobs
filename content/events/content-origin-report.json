@@ -40,19 +40,6 @@
       ]
     },
     {
-      "id": "luma-batch-evt7gjnLEpvcig2Z",
-      "slug": "g1agc1dv",
-      "name": "Solana Across Campuses - San Diego State University",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/g1agc1dv",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "luma-batch-evtycWrx5n01IFcf",
       "slug": "2nrn1c75",
       "name": "Bitcoin & Brews Port Moody",
@@ -63,55 +50,6 @@
       },
       "sections": [
         "About the event"
-      ]
-    },
-    {
-      "id": "ma-money-20-20-usa",
-      "slug": "m22u",
-      "name": "Money20/20 USA",
-      "status": "source-backed",
-      "source": {
-        "url": "https://us.money2020.com/",
-        "fetchedAt": "2026-09-20T00:20:48.463Z"
-      },
-      "sections": [
-        "Why Join Money20/20 USA?",
-        "Download Our Attendee Brochure",
-        "Get The Latest Insights From Top Industry Experts",
-        "Meet Leading Banks, These Attendees Did",
-        "Meet Payment Pros, These Attendees Did",
-        "Get Your Pass Now",
-        "Explore Sponsorship"
-      ]
-    },
-    {
-      "id": "luma-batch-evt9nYvpCnI7IZyX",
-      "slug": "yqb3o4cs",
-      "name": "Merkle Science Meet Las Vegas: Enterprise Compliance for Digital Assets",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/yqb3o4cs",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "What to expect",
-        "Agenda"
-      ]
-    },
-    {
-      "id": "luma-batch-evt8IJVONJcTwMP6",
-      "slug": "fpqr7v6a",
-      "name": "Cryptolina 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/fpqr7v6a",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Who should attend",
-        "What to expect"
       ]
     },
     {
