@@ -1303,6 +1303,27 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-19T19:58:31.667Z"
       }
+    ],
+    "2026-11-20": [
+      {
+        "date": "2026-11-20",
+        "id": "44653037827-1",
+        "sourceCommit": "27b2ff6b34683d2a2c02b581b047a1534b6db656",
+        "jobsCheckedAt": "2026-11-20T01:29:58.709Z",
+        "newsCompletedAt": "2026-11-20T02:39:05.275Z",
+        "articleSlugs": [
+          "geniusletter",
+          "zecetf",
+          "coinbaseagent",
+          "krakentribe",
+          "masbills",
+          "hashi"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-20T02:39:59.247Z",
+        "buildId": "daily-20261120-44653037827-1",
+        "rolloutId": "daily-20261120-44653037827-1"
+      }
     ]
   }
 }
