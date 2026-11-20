@@ -192145,7 +192145,7 @@
       "id": "b72b524a864abd786a29",
       "status": "deferred",
       "firstSeenAt": "2026-11-18T01:44:22.148Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-11-20T11:29:51.000Z",
       "lastSeenAt": "2026-11-18T01:44:22.148Z",
       "articleSlug": "coingeckostake",
@@ -192165,19 +192165,23 @@
         "mustReview": true
       },
       "reason": "source-blocked",
-      "note": "Retried the CoinGecko primary announcement URL with a default link-check User-Agent: HTTP 403 again, while a readiness User-Agent gets HTTP 200, so citing it would fail the source-link gate as in the prior quality-gate isolation. Decrypt, Cointelegraph and Unchained companions are reachable but were not re-read to completion this round, and no draft exists.",
+      "note": "Re-read Unchained Nov 17 report in full (majority interest per Vibhu Norby X post, Breakpoint 2026 announcement, no price, three focus areas including Solana-powered trading). CoinGecko primary still returns HTTP 403 with the default link-check User-Agent, which failed the source-link gate previously; Decrypt body did not fully extract this pass. No draft produced. Next attempt should draft from re-read Unchained/Decrypt/Cointelegraph reports without citing the 403 primary, or find a Solana Foundation primary URL that returns 200 with a plain curl User-Agent.",
       "sourceChecks": [
+        {
+          "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
+          "outcome": "read"
+        },
         {
           "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-19T02:30:15.248Z",
-      "lastReviewedDay": "2026-11-19",
+      "reviewedAt": "2026-11-20T02:00:11.037Z",
+      "lastReviewedDay": "2026-11-20",
       "retrySearches": [
-        "Re-read the Decrypt, Cointelegraph and Unchained Nov 17 reports on the Solana Foundation majority stake in CoinGecko in full and find a CoinGecko or Solana Foundation primary announcement URL that returns HTTP 200 with a plain curl User-Agent so the source-link gate passes"
+        "Draft the CoinGecko majority-stake story from Unchained, Decrypt and Cointelegraph only, or find a Solana Foundation announcement URL that returns HTTP 200 with a plain curl User-Agent"
       ],
-      "nextReviewDate": "2026-11-20",
+      "nextReviewDate": "2026-11-21",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -392812,6 +392816,25 @@
           "retrySearches": [
             "Find a readable Sunrise or Backpack primary announcement for the IPO-day  Solana listing with distribution terms",
             "Retry the Defiant URL after any Retry-After within the verification window"
+          ]
+        },
+        "b72b524a864abd786a29": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Re-read Unchained Nov 17 report in full (majority interest per Vibhu Norby X post, Breakpoint 2026 announcement, no price, three focus areas including Solana-powered trading). CoinGecko primary still returns HTTP 403 with the default link-check User-Agent, which failed the source-link gate previously; Decrypt body did not fully extract this pass. No draft produced. Next attempt should draft from re-read Unchained/Decrypt/Cointelegraph reports without citing the 403 primary, or find a Solana Foundation primary URL that returns 200 with a plain curl User-Agent.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/coingecko-gets-solana-foundation-backing-and-plans-solana-powered-trading/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coingecko.com/learn/next-chapter-of-growth-solana-foundation",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T02:00:11.037Z",
+          "retrySearches": [
+            "Draft the CoinGecko majority-stake story from Unchained, Decrypt and Cointelegraph only, or find a Solana Foundation announcement URL that returns HTTP 200 with a plain curl User-Agent"
           ]
         }
       },
