@@ -1319,10 +1319,12 @@
           "masbills",
           "hashi"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-20T02:39:59.247Z",
         "buildId": "daily-20261120-44653037827-1",
-        "rolloutId": "daily-20261120-44653037827-1"
+        "rolloutId": "daily-20261120-44653037827-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-20T02:58:54.975Z"
       }
     ]
   }
