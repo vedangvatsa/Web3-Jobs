@@ -195686,9 +195686,9 @@
         "Bankless"
       ],
       "id": "db9468ccef00c39a7445",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-21T10:33:07.000Z",
       "lastSeenAt": "2026-11-20T01:22:56.282Z",
       "articleSlug": "zecetf",
@@ -195711,8 +195711,8 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: zecetf.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Re-read the Cointelegraph and Bankless Nov 18 reports in full; rebuilt the draft from scratch to clear the prior under-600-word gate (now ~700 words). Verified the TXSE venue, ZEC ticker, Coinbase Custody, Bitwise Investment Advisers, unspecified fee, the NYSE Arca-to-TXSE switch from the Sept/Oct confidential drafts, TXSE's July 31 open and Oct 29 SEC listing-standard approval, CF Benchmarks pricing from Coinbase and Kraken, the no-shielded-transactions clause with 29 percent shielded supply as of Oct 5, and the Grayscale ZCSH / Winklevoss WINK comparisons. Image self-hosted from a CC BY-SA Dallas skyline photo; all cited links return HTTP 200 with the default UA; quality, image, formatting and duplicate audits clean; tsc clean.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
@@ -195723,12 +195723,11 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-19T03:06:36.123Z",
-      "lastReviewedDay": "2026-11-19",
+      "reviewedAt": "2026-11-20T01:43:39.505Z",
+      "lastReviewedDay": "2026-11-20",
       "retrySearches": [
         "Repair and revalidate the preserved zecetf draft against its original sources: zecetf.md: under 600 words"
       ],
-      "nextReviewDate": "2026-11-20",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -195827,9 +195826,9 @@
         "Unchained"
       ],
       "id": "41b467b8701d6ec174a3",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-21T02:47:51.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
       "articleSlug": "coinbaseagent",
@@ -195856,13 +195855,9 @@
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Re-read the Unchained and Bitcoin Magazine Nov 18 reports in full; rebuilt the draft without citing the Coinbase blog URL that still returns HTTP 403 to the default link-check UA (the prior gate failure). Verified the $4.7M stopped, ~91 percent block rate, 500,000-plus viewers, roughly two-hour window, Unchained's ~$5.2M/$460,000 derived math labeled as its own calculation, the three-part agent mechanics, the untrained-on-this-con detail, and the closing 'Nobody legitimate will double your crypto' line. Image self-hosted from a CC BY Wikimedia photo of Elon Musk; all cited links return HTTP 200; quality, image, formatting and duplicate audits clean; tsc clean.",
       "sourceChecks": [
-        {
-          "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
-          "outcome": "read"
-        },
         {
           "url": "https://unchainedcrypto.com/coinbase-says-its-ai-agent-stopped-4-7-million-from-reaching-deepfake-musk-scammers/",
           "outcome": "read"
@@ -195872,20 +195867,15 @@
           "outcome": "read"
         },
         {
-          "url": "https://commons.wikimedia.org/wiki/File:Elon_Musk_(12271217906).jpg",
-          "outcome": "read"
-        },
-        {
-          "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+          "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-19T03:06:36.123Z",
-      "lastReviewedDay": "2026-11-19",
+      "reviewedAt": "2026-11-20T01:43:39.505Z",
+      "lastReviewedDay": "2026-11-20",
       "retrySearches": [
         "Repair and revalidate the preserved coinbaseagent draft against its original sources: Source link HTTP 403: https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam"
       ],
-      "nextReviewDate": "2026-11-20",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -392631,6 +392621,44 @@
           ],
           "reviewedAt": "2026-11-20T01:34:13.591Z",
           "articleSlug": "krakentribe"
+        },
+        "db9468ccef00c39a7445": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Cointelegraph and Bankless Nov 18 reports in full; rebuilt the draft from scratch to clear the prior under-600-word gate (now ~700 words). Verified the TXSE venue, ZEC ticker, Coinbase Custody, Bitwise Investment Advisers, unspecified fee, the NYSE Arca-to-TXSE switch from the Sept/Oct confidential drafts, TXSE's July 31 open and Oct 29 SEC listing-standard approval, CF Benchmarks pricing from Coinbase and Kraken, the no-shielded-transactions clause with 29 percent shielded supply as of Oct 5, and the Grayscale ZCSH / Winklevoss WINK comparisons. Image self-hosted from a CC BY-SA Dallas skyline photo; all cited links return HTTP 200 with the default UA; quality, image, formatting and duplicate audits clean; tsc clean.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/bitwise-files-for-a-zcash-etf-on-the-texas-stock-exchange",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-20T01:43:39.505Z",
+          "articleSlug": "zecetf"
+        },
+        "41b467b8701d6ec174a3": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the Unchained and Bitcoin Magazine Nov 18 reports in full; rebuilt the draft without citing the Coinbase blog URL that still returns HTTP 403 to the default link-check UA (the prior gate failure). Verified the $4.7M stopped, ~91 percent block rate, 500,000-plus viewers, roughly two-hour window, Unchained's ~$5.2M/$460,000 derived math labeled as its own calculation, the three-part agent mechanics, the untrained-on-this-con detail, and the closing 'Nobody legitimate will double your crypto' line. Image self-hosted from a CC BY Wikimedia photo of Elon Musk; all cited links return HTTP 200; quality, image, formatting and duplicate audits clean; tsc clean.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/coinbase-says-its-ai-agent-stopped-4-7-million-from-reaching-deepfake-musk-scammers/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coinbase.com/en-gb/blog/consumer-protection-tuesday-how-we-leveraged-ai-to-stop-a-popular-tesla-scam",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T01:43:39.505Z",
+          "articleSlug": "coinbaseagent"
         }
       },
       "baselineSlugs": [
