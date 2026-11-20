@@ -204306,7 +204306,27 @@
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
       "attempts": 0,
       "expiresAt": "2026-11-22T10:32:05.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "articleSlug": "ioscoquantum",
+      "draftProgress": {
+        "id": "3c2fb53c53c27955f6b8",
+        "day": "2026-11-20",
+        "articleSlug": "ioscoquantum",
+        "note": "Read Cointelegraph and Decrypt Nov 19 IOSCO reports in full; CryptoSlate is a third option. Draft and image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-20T02:11:53.123Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "27cfc376de31ff5977b5": {
       "source": "The Defiant",
