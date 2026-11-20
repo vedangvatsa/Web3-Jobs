@@ -200652,11 +200652,30 @@
         "Chainwire"
       ],
       "id": "5b4375150f248ac0ddd1",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T14:00:00.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "verified-event",
+      "note": "Read the Sui Foundation Nov 19 announcement, the Chainwire release and Crypto Briefing's Nov 19 report in full. Verified the mainnet date, hBTC 1:1 minting with BTC on Bitcoin, 20-plus partners, Fluid USDC lending, Upshift/HoneyB vaults, Anchorage institutional access, 6-confirmation minting, no HASHI token, Nov 13 reserve of 14.43 hBTC and the 00M commitments-vs-deposits gap. Draft hashi.md and self-hosted Wikimedia hero pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sui.io/blog/hashi-mainnet-is-live",
+          "outcome": "read"
+        },
+        {
+          "url": "https://chainwire.org/2026/11/19/hashi-mainnet-is-live-with-20-plus-partners-bringing-bitcoin-finance-to-sui-at-scale/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/hashi-live-sui-bitcoin-backed-lending/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-20T01:57:00.464Z",
+      "articleSlug": "hashi",
+      "lastReviewedDay": "2026-11-20"
     },
     "ef61e5f1a799c1c4fd09": {
       "source": "Cointelegraph",
@@ -392681,6 +392700,27 @@
             }
           ],
           "reviewedAt": "2026-11-20T01:47:01.696Z"
+        },
+        "5b4375150f248ac0ddd1": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Sui Foundation Nov 19 announcement, the Chainwire release and Crypto Briefing's Nov 19 report in full. Verified the mainnet date, hBTC 1:1 minting with BTC on Bitcoin, 20-plus partners, Fluid USDC lending, Upshift/HoneyB vaults, Anchorage institutional access, 6-confirmation minting, no HASHI token, Nov 13 reserve of 14.43 hBTC and the 00M commitments-vs-deposits gap. Draft hashi.md and self-hosted Wikimedia hero pass quality, image, formatting and duplicate audits; tsc clean; all cited links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sui.io/blog/hashi-mainnet-is-live",
+              "outcome": "read"
+            },
+            {
+              "url": "https://chainwire.org/2026/11/19/hashi-mainnet-is-live-with-20-plus-partners-bringing-bitcoin-finance-to-sui-at-scale/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/hashi-live-sui-bitcoin-backed-lending/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-20T01:57:00.464Z",
+          "articleSlug": "hashi"
         }
       },
       "baselineSlugs": [
