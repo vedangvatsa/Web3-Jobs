@@ -39928,8 +39928,9 @@
     "dateVerified": true
   },
   "greenhouse:8931756002": {
-    "date": "2026-11-06T12:55:49.000Z",
-    "dateVerified": true
+    "date": "2026-11-05T23:22:48-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
   },
   "greenhouse:8931758002": {
     "date": "2026-11-05T23:07:42-05:00",
@@ -46915,6 +46916,395 @@
   },
   "lever:ba7c8355-8d3b-4c4b-bd8d-c1a5db5c89e0": {
     "date": "2026-11-19T02:08:17.612Z",
+    "dateVerified": true
+  },
+  "https://careers.certora.com/jobs/8753791-ceo-executive-assistant": {
+    "date": "2026-11-19T12:27:12.000Z",
+    "dateVerified": true
+  },
+  "ashby:685cbfbd-2fa7-49c0-83d5-2f555c9e774b": {
+    "date": "2026-11-19T09:41:45.910+00:00",
+    "dateVerified": true
+  },
+  "https://jobs.solana.com/companies/baton-corporation/jobs/100162195-talent-sourcing-lead-120k-180k-salary": {
+    "date": "2026-11-19T10:58:00.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8349028": {
+    "date": "2026-11-19T02:45:42-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "https://ats.rippling.com/perle/jobs/5ff0d2cd-1ba5-4453-968b-92cd83c0c27c": {
+    "date": "2026-11-19T12:03:39.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/perle/jobs/45779849-756a-4e03-8737-dfc55b04373d": {
+    "date": "2026-11-19T12:03:38.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/perle/jobs/13463b72-c75e-43fb-a217-3ab2159a7ce7": {
+    "date": "2026-11-19T12:03:38.000Z",
+    "dateVerified": true
+  },
+  "https://ats.rippling.com/perle/jobs/767170ea-97a2-4814-9c87-993960c790c2": {
+    "date": "2026-11-19T12:03:38.000Z",
+    "dateVerified": true
+  },
+  "ashby:f36fb6f7-a960-48d0-974b-9f5a71ea53b7": {
+    "date": "2026-11-19T12:56:47.000Z",
+    "dateVerified": true
+  },
+  "ashby:c372f239-6d41-4027-a216-24ea43def55f": {
+    "date": "2026-11-19T12:56:47.000Z",
+    "dateVerified": true
+  },
+  "ashby:8d1d162e-7bed-44fb-aff8-6af75b62937b": {
+    "date": "2026-11-19T10:15:14.000Z",
+    "dateVerified": true
+  },
+  "ashby:08d46c47-9fa4-46b5-af0b-89aa8dc289eb": {
+    "date": "2026-11-19T10:15:13.000Z",
+    "dateVerified": true
+  },
+  "ashby:ffe60cf3-0ddc-4227-9f51-72794e36f4e6": {
+    "date": "2026-11-19T10:15:13.000Z",
+    "dateVerified": true
+  },
+  "ashby:eb8c16c7-b21a-4c59-a24a-78e93788ca88": {
+    "date": "2026-11-19T10:15:12.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:5042108101": {
+    "date": "2026-11-19T03:27:55-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5021310101": {
+    "date": "2026-11-19T01:16:31-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "workable:068629a2cf": {
+    "date": "2026-11-19T10:53:15.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8274927": {
+    "date": "2026-11-19T13:15:43-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8350917": {
+    "date": "2026-11-19T12:50:34-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8396168": {
+    "date": "2026-11-19T19:09:17-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8317310": {
+    "date": "2026-11-19T09:23:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8108391": {
+    "date": "2026-08-10T06:49:20-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8384782": {
+    "date": "2026-11-19T12:27:28-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:7901987": {
+    "date": "2026-05-07T17:37:16-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8403659": {
+    "date": "2026-11-19T16:02:21-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8165265": {
+    "date": "2026-11-19T15:03:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8404115": {
+    "date": "2026-11-19T19:45:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8402367": {
+    "date": "2026-11-19T11:21:12-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8402798": {
+    "date": "2026-11-19T12:14:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8394397": {
+    "date": "2026-11-19T18:04:10-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8402939": {
+    "date": "2026-11-19T14:58:14-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8383140": {
+    "date": "2026-11-19T07:21:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8395496": {
+    "date": "2026-11-19T13:24:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8934107002": {
+    "date": "2026-11-19T16:16:02-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5042075101": {
+    "date": "2026-11-19T09:52:43-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5033640101": {
+    "date": "2026-11-18T02:27:35-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5490210008": {
+    "date": "2026-11-19T19:32:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4514629009": {
+    "date": "2026-11-19T11:00:36-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6266826004": {
+    "date": "2026-11-19T16:34:38-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6266835004": {
+    "date": "2026-11-19T16:45:34-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6266798004": {
+    "date": "2026-11-19T16:22:20-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5041007101": {
+    "date": "2026-11-19T07:55:58-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8209040003": {
+    "date": "2026-11-19T02:11:29-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8209722003": {
+    "date": "2026-11-19T17:00:52-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8209786003": {
+    "date": "2026-11-19T18:38:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5042161101": {
+    "date": "2026-11-19T05:22:50-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5042162101": {
+    "date": "2026-11-19T05:06:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5042463101": {
+    "date": "2026-11-19T07:10:13-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4755661005": {
+    "date": "2026-11-18T23:47:55-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4756957005": {
+    "date": "2026-11-19T15:16:51-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:6265262004": {
+    "date": "2026-11-19T14:13:14-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8370731": {
+    "date": "2026-11-19T05:31:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8401702": {
+    "date": "2026-11-19T05:16:05-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8396110": {
+    "date": "2026-11-19T11:55:29-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5040246101": {
+    "date": "2026-11-19T08:44:06-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:80c45ae6-12a4-4761-a298-f8bfa14fc679": {
+    "date": "2026-11-19T22:58:51.621Z",
+    "dateVerified": true
+  },
+  "lever:fefd423f-f72e-47ff-907e-a28228e3f38e": {
+    "date": "2026-11-19T09:12:25.433Z",
+    "dateVerified": true
+  },
+  "lever:306d5afc-5dfc-47bb-8f53-f0817e32bb44": {
+    "date": "2026-11-19T09:38:47.718Z",
+    "dateVerified": true
+  },
+  "lever:05fd876e-17f0-40f5-b338-2e73e039b41e": {
+    "date": "2026-11-19T07:25:36.461Z",
+    "dateVerified": true
+  },
+  "lever:f1bdaa60-2368-4d5d-a5d3-412b038be6d3": {
+    "date": "2026-11-19T14:45:50.535Z",
+    "dateVerified": true
+  },
+  "lever:0c30e33f-1ee4-4661-b538-8630ad8e0caa": {
+    "date": "2026-04-09T06:35:28.100Z",
+    "dateVerified": true
+  },
+  "ashby:96fb14e0-c44f-409d-aeb4-b2e864bfa36f": {
+    "date": "2026-11-19T16:43:34.003+00:00",
+    "dateVerified": true
+  },
+  "ashby:be7b0a9e-44b0-4c0f-b947-563c83f5ca10": {
+    "date": "2026-11-19T19:09:55.904+00:00",
+    "dateVerified": true
+  },
+  "ashby:4f76ae92-2fe6-41ed-bc4e-0efae2733b57": {
+    "date": "2026-11-20T01:04:32.067+00:00",
+    "dateVerified": true
+  },
+  "ashby:da40ed6e-1c32-4284-89f5-2ad0813b8d49": {
+    "date": "2026-11-19T18:02:36.287+00:00",
+    "dateVerified": true
+  },
+  "ashby:df5e48f0-f7a0-4cf3-a85b-9d4bb070b0d7": {
+    "date": "2026-11-19T20:35:41.185+00:00",
+    "dateVerified": true
+  },
+  "ashby:42fcee41-692f-4d0a-b04d-d7368357332a": {
+    "date": "2026-11-19T20:13:49.372+00:00",
+    "dateVerified": true
+  },
+  "ashby:24a142de-4b42-43fb-8372-c8d2a22e5d7b": {
+    "date": "2026-11-19T13:57:12.403+00:00",
+    "dateVerified": true
+  },
+  "ashby:fba29854-3f01-43de-8f50-441d213acf54": {
+    "date": "2026-11-19T15:24:26.780+00:00",
+    "dateVerified": true
+  },
+  "ashby:df8cc1ce-6850-4231-a5d0-97f55d9248a8": {
+    "date": "2026-11-19T16:20:00.165+00:00",
+    "dateVerified": true
+  },
+  "ashby:9df4a53e-b30f-4811-a03e-da5abb52f110": {
+    "date": "2026-11-19T20:54:06.648+00:00",
+    "dateVerified": true
+  },
+  "ashby:1e4c875f-a783-4b73-9cb1-c70c129b1fd3": {
+    "date": "2026-11-19T18:25:53.932+00:00",
+    "dateVerified": true
+  },
+  "ashby:501fcbfb-471f-4d03-ad95-0d66349ed750": {
+    "date": "2026-11-19T21:40:24.840+00:00",
+    "dateVerified": true
+  },
+  "workable:466b3dedeb": {
+    "date": "2026-11-19T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "workable:079a6fccd7": {
+    "date": "2026-11-19",
+    "dateVerified": true
+  },
+  "workable:9a62718321": {
+    "date": "2026-11-19",
+    "dateVerified": true
+  },
+  "workable:62035f8924": {
+    "date": "2026-11-19",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/hris-people-technology-operations-specialist-3": {
+    "date": "2026-11-19T13:51:24Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/hris-people-technology-operations-specialist-hungray": {
+    "date": "2026-11-19T13:24:29Z",
+    "dateVerified": true
+  },
+  "https://tether.recruitee.com/o/hris-people-technology-operations-specialistestonia": {
+    "date": "2026-11-19T12:28:48Z",
+    "dateVerified": true
+  },
+  "breezy:bitdeer.breezy.hr:3a9e35a07229": {
+    "date": "2026-11-19",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/3a9e35a07229-legal-counsel-commercial-transactions",
+      "checkedAt": "2026-11-20T01:24:46.071Z",
+      "bodySha256": "9967948bf1f5478a88c0e8b9bca3ad6d1a7b010093958ffc5f1c5032a0761b0c",
+      "provider": "breezy",
+      "datePosted": "2026-11-19"
+    }
+  },
+  "breezy:zero-hash.breezy.hr:361dde8c12df": {
+    "date": "2026-11-19",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "dateEvidence": {
+      "url": "https://zero-hash.breezy.hr/p/361dde8c12df-senior-solutions-engineer",
+      "checkedAt": "2026-11-20T01:24:51.948Z",
+      "bodySha256": "73dc911435baf72dfd578ccca4a2b7404f68f46d903da2676381fe2e730ea6b8",
+      "provider": "breezy",
+      "datePosted": "2026-11-19"
+    }
+  },
+  "https://talent.superteam.fun/jobs/director-of-product-growth-marketing-at-r3-fe181111-3b38-479b-bc3f-c1dd181b7639": {
+    "date": "2026-11-19T10:40:02.732020+00:00",
     "dateVerified": true
   }
 }
