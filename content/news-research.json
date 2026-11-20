@@ -203623,7 +203623,27 @@
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
       "attempts": 0,
       "expiresAt": "2026-11-22T16:07:51.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "articleSlug": "antopen",
+      "draftProgress": {
+        "id": "5f02c12ece62deec96b6",
+        "day": "2026-11-20",
+        "articleSlug": "antopen",
+        "note": "Read Cointelegraph and Unchained Nov 19 reports on the 11.50 Nasdaq open in full; BeInCrypto 403. Draft and image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/crypto-traders-had-anthropic-within-50-cents-of-its-111-50-nasdaq-open",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-20T02:11:56.740Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e84fe4212fee2b8b7452": {
       "source": "The Defiant",
