@@ -200588,11 +200588,38 @@
         "The Defiant"
       ],
       "id": "efa264562593cc656c47",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T18:04:15.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "source-blocked",
+      "note": "Read Crypto Briefing Nov 19 report in full (two US entry routes: DCM+DCO registration or partnership; FCM customer flows; Backpack Nov 13/16 approvals; Selig Nov 19 Capitol Crypto Forum interview) and Cointellar's short Nov 19 note. The Block primary and The Defiant companion both return HTTP 403; Cointellar is too thin to stand as the second full report. No draft yet.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/cftc-selig-hyperliquid-compliant-pathways/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointellar.com/en/news/evt_d8de1798fcef477f8a5d",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/regulation/selig-says-us-retail-onchain-perps-need-regulated-exchanges",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-20T02:00:19.211Z",
+      "retrySearches": [
+        "Find a full second report of Selig's Nov 19 Capitol Crypto Forum remarks on Hyperliquid entry routes beyond Crypto Briefing",
+        "Retry The Block and The Defiant URLs after any Retry-After within the verification window"
+      ],
+      "lastReviewedDay": "2026-11-20",
+      "nextReviewDate": "2026-11-21"
     },
     "b578e094b721294aa800": {
       "source": "Bitcoin Magazine",
@@ -392835,6 +392862,34 @@
           "reviewedAt": "2026-11-20T02:00:11.037Z",
           "retrySearches": [
             "Draft the CoinGecko majority-stake story from Unchained, Decrypt and Cointelegraph only, or find a Solana Foundation announcement URL that returns HTTP 200 with a plain curl User-Agent"
+          ]
+        },
+        "efa264562593cc656c47": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing Nov 19 report in full (two US entry routes: DCM+DCO registration or partnership; FCM customer flows; Backpack Nov 13/16 approvals; Selig Nov 19 Capitol Crypto Forum interview) and Cointellar's short Nov 19 note. The Block primary and The Defiant companion both return HTTP 403; Cointellar is too thin to stand as the second full report. No draft yet.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/cftc-selig-hyperliquid-compliant-pathways/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointellar.com/en/news/evt_d8de1798fcef477f8a5d",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/regulation/selig-says-us-retail-onchain-perps-need-regulated-exchanges",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T02:00:19.211Z",
+          "retrySearches": [
+            "Find a full second report of Selig's Nov 19 Capitol Crypto Forum remarks on Hyperliquid entry routes beyond Crypto Briefing",
+            "Retry The Block and The Defiant URLs after any Retry-After within the verification window"
           ]
         }
       },
