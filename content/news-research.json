@@ -196556,28 +196556,32 @@
       "id": "32c993cf9f440cfc65f3",
       "status": "deferred",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-21T23:17:09.000Z",
       "lastSeenAt": "2026-11-20T01:22:56.282Z",
       "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Sunrise Plans Anthropic Stock Token for Solana Debut\": https://thedefiant.io/news/defi/sunrise-plans-anthropic-stock-token-for-solana-debut -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "note": "Retried The Defiant primary (HTTP 403 again). Read crypto.news Nov 19 report and Crypto Briefing Nov 19 multi-chain report in full: Backpack Securities issued redeemable  on Solana via Sunrise on IPO day, Solana confirmed the listing, Anthropic priced 980M shares at 3 for 1.34B. The Defiant-specific distribution details still need a readable Defiant URL or Sunrise primary announcement; no draft yet.",
       "sourceChecks": [
         {
+          "url": "https://crypto.news/tokenized-anthropic-stock-solana-backpack-securities/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/anthropic-ipo-tokenized-shares-multiple-chains/",
+          "outcome": "read"
+        },
+        {
           "url": "https://thedefiant.io/news/defi/sunrise-plans-anthropic-stock-token-for-solana-debut",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-19T01:20:08.880Z"
+          "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-19T01:20:20.352Z",
+      "reviewedAt": "2026-11-20T02:00:04.084Z",
       "retrySearches": [
-        "Find a readable primary announcement or filing for: Sunrise Plans Anthropic Stock Token for Solana Debut",
-        "Find independent reporting confirming the event in: Sunrise Plans Anthropic Stock Token for Solana Debut",
-        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+        "Find a readable Sunrise or Backpack primary announcement for the IPO-day  Solana listing with distribution terms",
+        "Retry the Defiant URL after any Retry-After within the verification window"
       ],
-      "lastReviewedDay": "2026-11-19",
-      "nextReviewDate": "2026-11-20"
+      "lastReviewedDay": "2026-11-20",
+      "nextReviewDate": "2026-11-21"
     },
     "e7a618c2525bfd013dce": {
       "source": "Crypto Briefing",
@@ -392785,6 +392789,30 @@
             }
           ],
           "reviewedAt": "2026-11-20T01:57:53.775Z"
+        },
+        "32c993cf9f440cfc65f3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Retried The Defiant primary (HTTP 403 again). Read crypto.news Nov 19 report and Crypto Briefing Nov 19 multi-chain report in full: Backpack Securities issued redeemable  on Solana via Sunrise on IPO day, Solana confirmed the listing, Anthropic priced 980M shares at 3 for 1.34B. The Defiant-specific distribution details still need a readable Defiant URL or Sunrise primary announcement; no draft yet.",
+          "sourceChecks": [
+            {
+              "url": "https://crypto.news/tokenized-anthropic-stock-solana-backpack-securities/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/anthropic-ipo-tokenized-shares-multiple-chains/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/sunrise-plans-anthropic-stock-token-for-solana-debut",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T02:00:04.084Z",
+          "retrySearches": [
+            "Find a readable Sunrise or Backpack primary announcement for the IPO-day  Solana listing with distribution terms",
+            "Retry the Defiant URL after any Retry-After within the verification window"
+          ]
         }
       },
       "baselineSlugs": [
