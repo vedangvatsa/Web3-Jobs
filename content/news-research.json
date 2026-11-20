@@ -200357,11 +200357,25 @@
         "CryptoSlate"
       ],
       "id": "69c5e90a9675fa359dc5",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T06:00:00.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "not-a-concrete-event",
+      "note": "Read CryptoSlate's Nov 19 report of Sygnum's annual Sygnal outlook in full. The item is a bank forecast that Bitcoin carry trades could outperform Treasury bills on average in 2027, plus a hypothetical 60B rotation scenario and a 28,000 Bitcoin price target. No launch, vote, filing, hack or other discrete event occurred; the piece is projection/price commentary excluded from the news gate.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptoslate.com/a-bitcoin-trade-that-doesnt-need-prices-to-rise-could-beat-treasury-bills-in-2027/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-20T01:57:53.775Z",
+      "lastReviewedDay": "2026-11-20"
     },
     "3629fa6418d045018733": {
       "source": "Cointelegraph",
@@ -392755,6 +392769,22 @@
           ],
           "reviewedAt": "2026-11-20T01:57:08.468Z",
           "articleSlug": "geniusletter"
+        },
+        "69c5e90a9675fa359dc5": {
+          "status": "rejected",
+          "reason": "not-a-concrete-event",
+          "note": "Read CryptoSlate's Nov 19 report of Sygnum's annual Sygnal outlook in full. The item is a bank forecast that Bitcoin carry trades could outperform Treasury bills on average in 2027, plus a hypothetical 60B rotation scenario and a 28,000 Bitcoin price target. No launch, vote, filing, hack or other discrete event occurred; the piece is projection/price commentary excluded from the news gate.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptoslate.com/a-bitcoin-trade-that-doesnt-need-prices-to-rise-could-beat-treasury-bills-in-2027/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T01:57:53.775Z"
         }
       },
       "baselineSlugs": [
