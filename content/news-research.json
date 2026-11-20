@@ -195982,11 +195982,38 @@
         "The Defiant"
       ],
       "id": "488e7b20e774d8921528",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T22:30:00.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "verified-event",
+      "note": "Read Payward's 18 Nov press release (primary), Unchained's 19 Nov report and The Block's 18 Nov report. Verified the definitive agreement, undisclosed terms, .7B Tribe AUM, Q1 2027 close target, Asset Management pillar placement, Hsu quotes, founding trio, advisor roster and the Unchained xStocks context. Draft krakentribe.md passes quality (600+ words), formatting, duplicate and image audits; hero self-hosted from Wikimedia CC0 Menlo Park photo; all cited links HTTP 200. CoinDesk returned HTTP 429 and The Defiant HTTP 403; not cited.",
+      "sourceChecks": [
+        {
+          "url": "https://www.payward.com/press-release/payward-to-acquire-tribe-capital",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/krakens-owner-payward-strikes-deal-for-tribe-capital-a-2-7-billion-venture-investor/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/cefi/kraken-parent-payward-agrees-to-acquire-tribe-capital",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-20T01:34:13.591Z",
+      "articleSlug": "krakentribe",
+      "lastReviewedDay": "2026-11-20"
     },
     "c139226880623c0e9aa8": {
       "source": "The Defiant",
@@ -392575,6 +392602,35 @@
           ],
           "reviewedAt": "2026-11-20T01:29:25.407Z",
           "articleSlug": "masbills"
+        },
+        "488e7b20e774d8921528": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Payward's 18 Nov press release (primary), Unchained's 19 Nov report and The Block's 18 Nov report. Verified the definitive agreement, undisclosed terms, .7B Tribe AUM, Q1 2027 close target, Asset Management pillar placement, Hsu quotes, founding trio, advisor roster and the Unchained xStocks context. Draft krakentribe.md passes quality (600+ words), formatting, duplicate and image audits; hero self-hosted from Wikimedia CC0 Menlo Park photo; all cited links HTTP 200. CoinDesk returned HTTP 429 and The Defiant HTTP 403; not cited.",
+          "sourceChecks": [
+            {
+              "url": "https://www.payward.com/press-release/payward-to-acquire-tribe-capital",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/krakens-owner-payward-strikes-deal-for-tribe-capital-a-2-7-billion-venture-investor/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/cefi/kraken-parent-payward-agrees-to-acquire-tribe-capital",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-20T01:34:13.591Z",
+          "articleSlug": "krakentribe"
         }
       },
       "baselineSlugs": [
