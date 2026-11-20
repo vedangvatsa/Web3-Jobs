@@ -195184,11 +195184,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "57ff5702adc65a0adafc",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-21T10:13:43.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "price-chatter",
+      "note": "Read Decrypt's Nov 19 report in full: the piece is price analysis (BTC levels, analyst commentary on selling pressure, Fed rate odds, predict-market chances) with no discrete corporate, protocol or regulatory event. ETF net-outflow totals are market data supporting the price narrative, not a concrete event under the editorial rules.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-20T01:47:01.696Z",
+      "lastReviewedDay": "2026-11-20"
     },
     "2e8473b6db088ec5567b": {
       "source": "Cointelegraph",
@@ -392659,6 +392669,18 @@
           ],
           "reviewedAt": "2026-11-20T01:43:39.505Z",
           "articleSlug": "coinbaseagent"
+        },
+        "57ff5702adc65a0adafc": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Decrypt's Nov 19 report in full: the piece is price analysis (BTC levels, analyst commentary on selling pressure, Fed rate odds, predict-market chances) with no discrete corporate, protocol or regulatory event. ETF net-outflow totals are market data supporting the price narrative, not a concrete event under the editorial rules.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-20T01:47:01.696Z"
         }
       },
       "baselineSlugs": [
