@@ -4923,5 +4923,122 @@
     "slotKey": "2026-11-21:evening",
     "messageId": 16667,
     "sentAt": "2026-11-21T23:53:44.279Z"
+  },
+  "695194ea-5fb7-4fd5-b8c9-ac99cb50f24b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T23:53:46.005Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5471298008",
+          "title": "Head of Enterprise Accounts, Australia",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5471298008?gh_jid=5471298008",
+          "date": "2026-11-03T12:55:17-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Sydney, Australia",
+          "department": "20405 S&M - Sales - Square Account Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls399"
+        },
+        "key": "5471298008",
+        "slug": "sls399",
+        "url": "https://hashtagweb3.com/sls399?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Head of Enterprise Accounts"
+      },
+      {
+        "snapshot": {
+          "id": "8176146003",
+          "title": "Head of Intergovernmental & Regulatory Affairs - EU & UK",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8176146003",
+          "date": "2026-11-03T07:24:07-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "EMEA",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ira"
+        },
+        "key": "8176146003",
+        "slug": "ira",
+        "url": "https://hashtagweb3.com/ira?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Head of Intergovernmental & Regulatory Affairs"
+      },
+      {
+        "snapshot": {
+          "id": "8328928",
+          "title": "Professional Services Consultant",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8328928?gh_jid=8328928",
+          "date": "2026-11-09T14:50:42-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "New York, NY, United States",
+          "department": "Service & Delivery",
+          "active": true,
+          "salary": "$116k – $140k/yr",
+          "dateVerified": true,
+          "slug": "psc6"
+        },
+        "key": "8328928",
+        "slug": "psc6",
+        "url": "https://hashtagweb3.com/psc6?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Professional Services Consultant"
+      },
+      {
+        "snapshot": {
+          "id": "8356970",
+          "title": "Registration and Onboarding Specialist",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8356970?t=gh_src=&gh_jid=8356970",
+          "date": "2026-11-05T17:40:02-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Chicago, IL; Denver, CO; Lake Mary, FL; New York, NY",
+          "department": "Brokerage Compliance",
+          "active": true,
+          "salary": "$94k – $110k/yr",
+          "dateVerified": true,
+          "slug": "ob16"
+        },
+        "key": "8356970",
+        "slug": "ob16",
+        "url": "https://hashtagweb3.com/ob16?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Registration and Onboarding Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8919490002",
+          "title": "Senior Solutions Engineer",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8919490002",
+          "date": "2026-10-30T20:15:57-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Product",
+          "active": true,
+          "salary": "$131.4k – $197.1k/yr",
+          "dateVerified": true,
+          "slug": "eng688"
+        },
+        "key": "8919490002",
+        "slug": "eng688",
+        "url": "https://hashtagweb3.com/eng688?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Solutions Engineer"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls399?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Enterprise Accounts, Australia</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ira?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Intergovernmental &amp; Regulatory Affairs - EU &amp; UK</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/psc6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Professional Services Consultant</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/ob16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Registration and Onboarding Specialist</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/eng688?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Solutions Engineer</a>",
+    "slotKey": "2026-11-21:evening"
   }
 }
