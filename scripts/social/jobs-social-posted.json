@@ -162088,6 +162088,40 @@
       "attemptId": "5e93c627-f381-4e43-96a4-1f6c64198a45",
       "verification": "verified",
       "postId": "0xfbd011355c43fbc3dbdbc181adc9d224494f1798"
+    },
+    {
+      "slug": "ops158",
+      "company": "Bitpanda",
+      "title": "CRM Automation Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-11-21T14:06:17.664Z",
+      "expectedText": "Bitpanda is hiring CRM Automation Specialist\n\nhttps://hashtagweb3.com/ops158/fc?og=7",
+      "snapshot": {
+        "id": "5030877101",
+        "title": "CRM Automation Specialist",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5030877101",
+        "date": "2026-11-09T09:16:41-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Kraków, Lesser Poland Voivodeship, Poland",
+        "department": "Growth, Marketing & Communications",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops158"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring CRM Automation Specialist\n\nhttps://hashtagweb3.com/ops158/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops158/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "32b77d1c-7989-4e9f-a04f-2fab1c8dc146",
+      "verification": "creating"
     }
   ]
 }
