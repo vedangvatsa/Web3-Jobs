@@ -163833,7 +163833,8 @@
       },
       "account": "channel:web3",
       "attemptId": "7317541e-cc95-4477-a69d-9b07f730ca92",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2c081b204541c52a63482e6a5df416391ba8ea88"
     }
   ]
 }
