@@ -206591,11 +206591,21 @@
         "The Defiant"
       ],
       "id": "22a5703e96459f9f7d70",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-21T00:54:20.657Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-23T14:00:15.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "reason": "price-chatter",
+      "note": "Headline and linked sources are Bitcoin spot-price movement reporting (near $61,500, quarterly drawdown figures) with no concrete non-price event such as an institutional action, protocol change or ruling. Price chatter is an exclusion for this desk.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:27:27.751Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "ffb7489235e765d50767": {
       "source": "CoinDesk",
@@ -403289,6 +403299,18 @@
           ],
           "reviewedAt": "2026-11-21T01:22:29.562Z",
           "articleSlug": "xmr1collapse"
+        },
+        "22a5703e96459f9f7d70": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Headline and linked sources are Bitcoin spot-price movement reporting (near $61,500, quarterly drawdown figures) with no concrete non-price event such as an institutional action, protocol change or ruling. Price chatter is an exclusion for this desk.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:27:27.751Z"
         }
       },
       "baselineSlugs": [
