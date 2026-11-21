@@ -163220,7 +163220,8 @@
       },
       "account": "channel:base",
       "attemptId": "00b22bbc-079b-4f6e-9ab5-fd652c044801",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x698e1facf53feec4c0177cc30d163b40610abd0c"
     }
   ]
 }
