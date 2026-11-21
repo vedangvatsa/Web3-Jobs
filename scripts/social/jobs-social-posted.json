@@ -163042,6 +163042,41 @@
       "attemptId": "431c41d7-a41d-49b3-a662-e460e5d92944",
       "verification": "verified",
       "postId": "0x33064838e473087cf749069c8d90282741f5d221"
+    },
+    {
+      "slug": "pm396",
+      "company": "Kraken",
+      "title": "Sr Product Manager - Virality, Referrals & KOL",
+      "platform": "farcaster",
+      "postedAt": "2026-11-21T14:09:52.628Z",
+      "expectedText": "Kraken is hiring Sr Product Manager - Virality, Referrals & KOL\n\nhttps://hashtagweb3.com/pm396/fc?og=7",
+      "snapshot": {
+        "id": "f1887fed-06e8-404c-815f-8a7918da3c18",
+        "title": "Sr Product Manager - Virality, Referrals & KOL",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/f1887fed-06e8-404c-815f-8a7918da3c18",
+        "date": "2026-11-12T18:30:48.257+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm396"
+      },
+      "payload": {
+        "text": "Kraken is hiring Sr Product Manager - Virality, Referrals & KOL\n\nhttps://hashtagweb3.com/pm396/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm396/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "351e0c50-e71d-4298-97df-c9c840bba3f5",
+      "verification": "creating"
     }
   ]
 }
