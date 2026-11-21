@@ -200271,9 +200271,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "05711df7dfd5676fc154",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T22:29:45.000Z",
       "lastSeenAt": "2026-11-21T00:54:20.657Z",
       "articleSlug": "vaneckgemini",
@@ -200295,7 +200295,21 @@
         "updatedAt": "2026-11-21T01:15:29.660Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified against SEC-filing reports on two independent sites: Crypto Briefing Nov 19 and Cointelegraph Nov 20 agree on the Nov 16 notice, Feb 16 2027 effective date, HODL/ETHV/VSOL scope, Coinbase Custody staying on, and the undisclosed reason. Draft written and audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/solana-contract-vaneck-etf-gemini-termination-2026-11/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:22:21.247Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "d52cb05e132a74966278": {
       "source": "BeInCrypto",
@@ -403196,6 +403210,23 @@
             "Find a second full independent report of Coinbase targeting first-half 2027 for in-house prediction market contracts beyond Decrypt",
             "Retry CoinDesk and Unchained URLs after any Retry-After within the verification window"
           ]
+        },
+        "05711df7dfd5676fc154": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified against SEC-filing reports on two independent sites: Crypto Briefing Nov 19 and Cointelegraph Nov 20 agree on the Nov 16 notice, Feb 16 2027 effective date, HODL/ETHV/VSOL scope, Coinbase Custody staying on, and the undisclosed reason. Draft written and audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/solana-contract-vaneck-etf-gemini-termination-2026-11/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:22:21.247Z",
+          "articleSlug": "vaneckgemini"
         }
       },
       "baselineSlugs": [
