@@ -166179,6 +166179,35 @@
       "attemptId": "4a99c656-1903-4ab2-8920-942e5438a2f7",
       "verification": "verified",
       "postId": "691827047618629_1153213340619233"
+    },
+    {
+      "slug": "pm356",
+      "company": "Kamino",
+      "title": "Head of Product Marketing",
+      "platform": "x",
+      "postedAt": "2026-11-21T23:59:01.426Z",
+      "expectedText": "Kamino is hiring Head of Product Marketing\n\nhttps://hashtagweb3.com/pm356/x?og=7",
+      "snapshot": {
+        "id": "46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "title": "Head of Product Marketing",
+        "company": "Kamino",
+        "link": "https://talent.superteam.fun/jobs/head-of-product-marketing-at-kamino-46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "date": "2026-10-23T17:10:17.567786+00:00",
+        "source": "Superteam: Kamino [superteam]",
+        "location": "Hybrid · New York, United States",
+        "department": "Full-Time",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm356"
+      },
+      "payload": {
+        "text": "Kamino is hiring Head of Product Marketing\n\nhttps://hashtagweb3.com/pm356/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "d980b205-4b03-428c-875c-8e47f4a1e137",
+      "verification": "creating"
     }
   ]
 }
