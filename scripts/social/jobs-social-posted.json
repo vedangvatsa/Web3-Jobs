@@ -165587,7 +165587,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "f83db001-988d-4cea-9885-25ec381959d4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x73a3b59928be60edb906cdc87392810aad68afd8"
     }
   ]
 }
