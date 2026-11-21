@@ -163871,6 +163871,41 @@
       "attemptId": "a9350604-bcd8-4b43-a528-57d6b3464d9e",
       "verification": "verified",
       "postId": "0xc9a71e7e89212d41449bc8eb3999a5bfdc296778"
+    },
+    {
+      "slug": "sls449",
+      "company": "CoinsPaid",
+      "title": "Sales and GTM Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-21T18:11:49.623Z",
+      "expectedText": "CoinsPaid is hiring Sales and GTM Operations Manager\n\nhttps://hashtagweb3.com/sls449/fc?og=7",
+      "snapshot": {
+        "id": "1fa53869-f9bc-42c5-926e-1a1ebcfc5da0",
+        "title": "Sales and GTM Operations Manager",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/1fa53869-f9bc-42c5-926e-1a1ebcfc5da0",
+        "date": "2026-10-26T16:52:17.758Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Operational Division",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "sls449"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Sales and GTM Operations Manager\n\nhttps://hashtagweb3.com/sls449/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls449/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "eacfed76-6e55-499a-827b-d063c3145466",
+      "verification": "creating"
     }
   ]
 }
