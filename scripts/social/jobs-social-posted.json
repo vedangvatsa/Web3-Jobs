@@ -163436,7 +163436,8 @@
       },
       "account": "channel:design",
       "attemptId": "9d653f2d-5114-410c-8753-47197f7d63ef",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe81cf821510fd26a48d9a44fad54f447adb1af13"
     }
   ]
 }
