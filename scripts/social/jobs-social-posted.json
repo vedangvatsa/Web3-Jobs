@@ -162896,7 +162896,8 @@
       },
       "account": "profile",
       "attemptId": "78980343-d09b-46fe-9e32-7c6e60f5b46f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc56d77d8deddd212f84d0eb9eb13bef8dc2a2d1e"
     }
   ]
 }
