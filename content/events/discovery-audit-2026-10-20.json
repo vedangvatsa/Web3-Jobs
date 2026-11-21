@@ -47,26 +47,6 @@
       "descriptionSha256": "6c73e9d1a5ca1b76ccf8fde10a70fb979ce4d760aab906cb341520696b1b4a24"
     },
     {
-      "id": "luma-batch-evtpzY4t9z1ap4VH",
-      "slug": "unbundled-autumn",
-      "aliases": [
-        "the-gcwt"
-      ],
-      "startDate": "2026-10-22T07:00:00.000Z",
-      "endDate": "2026-10-22T16:00:00.000Z",
-      "timezone": "Europe/Prague",
-      "descriptionSha256": "6392f3a18e6e848f0c3cf62a0273e2b332ca18e9acee53c08f98536027a87eb1"
-    },
-    {
-      "id": "token2049-evt-t9Ts4NTXVMW7o9r",
-      "slug": "get-down-real",
-      "aliases": [],
-      "startDate": "2026-10-22T14:30:00.000Z",
-      "endDate": "2026-10-22T17:00:00.000Z",
-      "timezone": "Asia/Singapore",
-      "descriptionSha256": "e095a0d18c3ba39287222c00dd52d6c797e99e2dee230cd44b0bb3b2917e9e12"
-    },
-    {
       "id": "luma-batch-hPFyfHyof2hYVIp",
       "slug": "soiree-xd-20",
       "aliases": [
@@ -5720,43 +5700,6 @@
       }
     },
     {
-      "id": "mu-316952339",
-      "name": "Blockchain In the Age of Quantum",
-      "startDate": "2026-10-22T17:00:00+03:00",
-      "endDate": "2026-10-22T20:30:00+03:00",
-      "timezone": "Africa/Nairobi",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/quantumke/events/316952339/",
-      "lane": "asia-africa",
-      "reason": "No inventory identity match. Primary verifies a physical educational event, not a generic quantum-computing listing. Discovery card showed a waitlist; availability should be checked before attendance.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/quantumke/events/316952339/",
-          "fetchedAt": "2026-10-20T08:07:38.376Z",
-          "excerpt": "When: Thursday, October 22, 2026 | 5:00 PM - 8:30 PM EAT. Where: Blockchain Centre, Room 401, Kilimani, Nairobi. Hosted by: QuantumKE & Blockchain Centre NBO. Partners: Web3 Clubs. Topics include Post-Quantum Cryptography (PQC) and a live problem-solving clinic. JSON-LD startDate=2026-10-22T17:00:00+03:00; endDate=2026-10-22T20:30:00+03:00; OfflineEventAttendanceMode.",
-          "representation": "Public primary-page copy and JSON-LD; selected excerpts, punctuation normalized"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:49.316Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure-content.meetupstatic.com/images/classic-events/536575942/676x380.jpg",
-        "fetchedAt": "2026-10-20T09:49:51.383Z",
-        "status": 200,
-        "local": "/events/mu-316952339-cae6253e.webp",
-        "sourceSha256": "7403da8363a5751efb9616d132960bb79196d2e3f2644d7cd7b9ec0039553990",
-        "sha256": "274c116f8282ae6e14f2014d5eb2159533149babb84b44b36cf712152d2e24e6",
-        "originalWidth": 676,
-        "originalHeight": 380,
-        "width": 676,
-        "height": 380,
-        "bytes": 20792
-      }
-    },
-    {
       "id": "discovery-evt-C3uwilHHM2nQueB",
       "name": "Base Builder Meetup",
       "startDate": "2026-10-31T12:00:00+01:00",
@@ -6743,45 +6686,6 @@
       }
     },
     {
-      "id": "luma-host-evt-evt-9qbXxI87FMFkdFf",
-      "name": "ETHGlobal Happy Hour New Delhi",
-      "startDate": "2026-10-22T12:30:00.000Z",
-      "endDate": "2026-10-22T15:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-9qbXxI87FMFkdFf",
-      "url": "https://luma.com/ethglobal-hh-newdelhi",
-      "lane": "india",
-      "reason": "Exact normalized URL and event ID already exist in events-cache.json; not in runtime, holds or tombstones. Recover existing identity rather than creating a new one.",
-      "evidence": [
-        {
-          "url": "https://luma.com/ethglobal-hh-newdelhi",
-          "fetchedAt": "2026-10-20T08:51:13.298Z",
-          "excerpt": "ETHGlobal Happy Hour New Delhi with GrowthFi Studio & 0xSpace. Founders, builders, developers and crypto enthusiasts; food and mocktails provided. start_at 2026-10-22T12:30:00.000Z; end_at 2026-10-22T15:30:00.000Z; Asia/Kolkata; public; guests-only address; require_approval true.",
-          "sha256": "0bd7ea606eace584997787af5359455af72a2649059dfaf11abd859700ee8f2b",
-          "representation": "HTTP response HTML and public embedded event data; hidden address omitted"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:10.340Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/8m/b6075fd2-ef4e-4cfc-b946-5e9052f5303f.png",
-        "fetchedAt": "2026-10-20T09:50:07.230Z",
-        "status": 200,
-        "local": "/events/luma-host-evt-evt-9qbxxi87fmfkdff-6a8d0f98.webp",
-        "sourceSha256": "6c6b8f7f921d2f7e83ba76cf260836bee37a18116a77673eb1e3b7d313c145be",
-        "sha256": "e341fcc8e42ad1cd3c6b9b88b13cfdd0ac8d3d20db2778256fa274023a4ab40b",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 87238
-      }
-    },
-    {
       "id": "luma-evt-sAAM7t4xPhiGJtV",
       "name": "BitGo x Giottus: Crypto Custody in Action",
       "startDate": "2026-10-24T10:00:00.000Z",
@@ -6974,84 +6878,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 86438
-      }
-    },
-    {
-      "id": "discovery-evt-q3nE7Ggih7EifUJ",
-      "name": "LinkLab | CCIP 2.0",
-      "startDate": "2026-10-22T16:00:00.000Z",
-      "endDate": "2026-10-22T17:30:00.000Z",
-      "timezone": "America/New_York",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-q3nE7Ggih7EifUJ",
-      "url": "https://luma.com/LinkLabCCIP",
-      "lane": "breakpoint",
-      "reason": "No matching normalized URL, source ID, name/date, held row or tombstone in the complete identity index. Global online workshop was excluded only by regional scope in the earlier Europe lane.",
-      "evidence": [
-        {
-          "url": "https://luma.com/LinkLabCCIP",
-          "fetchedAt": "2026-10-20T08:51:37.933Z",
-          "excerpt": "LinkLab | CCIP 2.0; evt-q3nE7Ggih7EifUJ; start_at 2026-10-22T16:00:00.000Z; end_at 2026-10-22T17:30:00.000Z; timezone America/New_York; visibility public; location_type youtube; require_approval false. Programme: redesigned SDK, CLI and APIs; traditional and AI-native workflows; Fast Transfers and configurable finality; Cross-Chain Verifiers; Chainlink ACE. Speakers: Dave Isbistki, Solange Gueiros, Julian Ma.",
-          "sha256": "896e66eed64f4f99ac30bd5be4724acd04bbb253324003baa044113f9e0caba0",
-          "representation": "Public primary HTML and __NEXT_DATA__ field excerpts; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:13.584Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/5i/ed69c894-b110-43e3-a09e-810470d71501.jpg",
-        "fetchedAt": "2026-10-20T09:50:09.314Z",
-        "status": 200,
-        "local": "/events/discovery-evt-q3ne7ggih7eifuj-d6b3dfe6.webp",
-        "sourceSha256": "7368a282517d62d77df90c4fa941542b4c48029918cb956f8579197541f689ff",
-        "sha256": "67dc71b13a755a0e85e7582c543b6b2de2cf370712a0d1d5e40146c0a8264342",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 55570
-      }
-    },
-    {
-      "id": "discovery-evt-GBKABMGTvkCfyPg",
-      "name": "Build For Breakpoint: How We Exited KnownOrigin to eBay",
-      "startDate": "2026-10-22T15:00:00.000Z",
-      "endDate": "2026-10-22T16:00:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-GBKABMGTvkCfyPg",
-      "url": "https://luma.com/build-for-breakpoint-how-we-sold-knownorigin-to",
-      "lane": "breakpoint",
-      "reason": "No matching identity across runtime, sources, held rows or tombstones. Public calendar and event visibility are public; invite-only attendance is handled through the open approval-required application route.",
-      "evidence": [
-        {
-          "url": "https://luma.com/build-for-breakpoint-how-we-sold-knownorigin-to",
-          "fetchedAt": "2026-10-20T08:52:30.062Z",
-          "excerpt": "evt-GBKABMGTvkCfyPg; 2026-10-22T15:00:00.000Z to 2026-10-22T16:00:00.000Z; Europe/London; visibility public; geo_address_visibility public; approval required; registration open. Office hours led by Andy Gray: KnownOrigin acquisition by eBay, due diligence, crypto-native valuation and post-acquisition decisions. Location: Somerset House, Strand, London WC2R 1LA, UK. Strictly invite-only; approved confirmation required for entry.",
-          "sha256": "775a564ca00ea9cb6fd006c17e3bed674148b04eb185ae249460370233e5ec2a",
-          "representation": "Public primary HTML and __NEXT_DATA__ field excerpts; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:13.907Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/4t/18fd0dcf-82ae-4c8a-952a-40590a78c4ca.jpg",
-        "fetchedAt": "2026-10-20T09:50:09.865Z",
-        "status": 200,
-        "local": "/events/discovery-evt-gbkabmgtvkcfypg-31b2ae4c.webp",
-        "sourceSha256": "f49d7e7187022c06e078b1f1ab8f895d99bf3fe795c0bc488a037294640976d6",
-        "sha256": "1531bade9f41a0329221a583e247b18c9a20174236758827241b2a0e30781eba",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 124980
       }
     },
     {
@@ -8029,20 +7855,6 @@
           "fetchedAt": "2026-10-20T08:08:52.105Z",
           "excerpt": "Friday May 22. Bitcoin Walk with Gingers for Bitcoin 2026. Saturday May 23. BITCOIN TAXATION in Ireland 2026. Sunday May 24.",
           "representation": "Public organizer agenda text excerpts; old programme not adopted"
-        }
-      ]
-    },
-    {
-      "url": "https://luma.com/SolanaGrandPrix",
-      "id": "luma-host-evt-evt-awaxXYsCGl4AMXv",
-      "reason": "Existing-unpublished aliases luma-host-evt-evt-awaxXYsCGl4AMXv and luma-evt-awaxXYsCGl4AMXv have empty descriptions. Although Luma visibility is public and an approval form is available, the organizer explicitly says invite-only with no walk-ins. Held for access clarification under the user's exclusion of private events; not a publication recommendation.",
-      "lane": "asia-africa",
-      "evidence": [
-        {
-          "url": "https://luma.com/SolanaGrandPrix",
-          "fetchedAt": "2026-10-20T08:03:58.807Z",
-          "excerpt": "Solana Grand Prix. Date: 22 October, Thursday. Time: 7:00 PM - 10:00 PM. Venue: Details will be shared upon approval. This is an invite-only event. RSVP required; no +1s, no walk-ins. start_at=2026-10-22T15:00:00.000Z; end_at=2026-10-22T18:00:00.000Z; visibility=public; geo_address_visibility=guests-only.",
-          "representation": "Public primary-page copy and embedded event fields; selected excerpts, punctuation normalized"
         }
       ]
     },
@@ -9390,12 +9202,6 @@
       "lane": "americas"
     },
     {
-      "url": "https://luma.com/LinkLabCCIP",
-      "result": "excluded-global-online",
-      "note": "Verified October 22, 16:00–17:30 UTC, public YouTube workshop covering CCIP SDK, CLI, cross-chain verification and compliance. No Americas-specific audience or location; omitted from regional candidates.",
-      "lane": "americas"
-    },
-    {
       "url": "https://luma.com/superteam",
       "result": "discovery",
       "note": "Found Canadian VibeStation sessions. IslandDAO in Brazil starts October 19 and is already active; no separate future edition inferred.",
@@ -10572,12 +10378,6 @@
       "lane": "asia-africa"
     },
     {
-      "url": "https://luma.com/LinkLabCCIP",
-      "result": "outside-regional-shortlist",
-      "note": "Official public YouTube developer training, 22 October 2026 16:00-17:30 UTC, evt-q3nE7Ggih7EifUJ. No regional host or venue. If another lane uses it, classify online and suppress Google Event markup.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://offchain.social/events/",
       "result": "no-upcoming-dates",
       "note": "Organizer site says no events scheduled; visible entries end in 2025.",
@@ -10698,12 +10498,6 @@
       "lane": "asia-africa"
     },
     {
-      "url": "https://www.meetup.com/quantumke/events/316952339/",
-      "result": "verified-new",
-      "note": "22 October 2026, 17:00-20:30 EAT, Blockchain Centre NBO. Discovery card showed waitlist.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
       "result": "verified-new",
       "note": "24 October 2026, 19:00-22:00 GST. Only Dubai is public; venue details require organizer registration. No later recurrences generated.",
@@ -10791,12 +10585,6 @@
       "url": "https://luma.com/bw8qwsyb",
       "result": "not-shortlisted-registration-closed",
       "note": "3 November reception, public page but registration closed. Exact venue withheld; not counted as a verified missing recommendation.",
-      "lane": "asia-africa"
-    },
-    {
-      "url": "https://luma.com/SolanaGrandPrix",
-      "result": "held-invitation-only",
-      "note": "Existing empty-description source aliases. Public page explicitly says invite-only and no walk-ins; no venue inferred.",
       "lane": "asia-africa"
     },
     {
@@ -11532,12 +11320,6 @@
       "lane": "india"
     },
     {
-      "url": "https://luma.com/ethglobal-hh-newdelhi",
-      "result": "verified-existing-unpublished",
-      "note": "October 22, public approval-required event; exact venue remains guests-only.",
-      "lane": "india"
-    },
-    {
       "url": "https://luma.com/qzlsn6lt",
       "result": "held-conflicting-hours",
       "note": "Privacy Hub: November 6 structured end is 15:00 IST, but body says 10:00-17:00 across November 3-6. No closing-time guess.",
@@ -11751,18 +11533,6 @@
       "url": "https://luma.com/lo-tech",
       "result": "complete-embedded-calendar",
       "note": "Public cal-pI0TeC2lUbzZFOW has one upcoming entry and has_more:false, matching The LOCAL primary page.",
-      "lane": "breakpoint"
-    },
-    {
-      "url": "https://luma.com/LinkLabCCIP",
-      "result": "verified-new",
-      "note": "October 22, 16:00-17:30Z; America/New_York; public YouTube session; no approval required. Concrete CCIP developer programme and real cover verified.",
-      "lane": "breakpoint"
-    },
-    {
-      "url": "https://luma.com/build-for-breakpoint-how-we-sold-knownorigin-to",
-      "result": "verified-new",
-      "note": "October 22, 16:00-17:00 local BST. Andy Gray office hours on the KnownOrigin acquisition. Public listing with an open request-to-join route; organizer calls attendance invite-only and requires approval.",
       "lane": "breakpoint"
     },
     {

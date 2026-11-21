@@ -1462,33 +1462,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-bitcoin-financial-services-summit-26-10-20",
-    "name": "Bitcoin for Financial Services Summit 2026",
-    "description": "Bitcoin for Financial Services Summit 2026: October 20–22 in Denver for financial advisors, tax professionals, and asset managers.",
-    "startDate": "2026-10-20T15:00:00.000Z",
-    "endDate": "2026-10-22T15:00:00.000Z",
-    "city": "Denver",
-    "country": "US",
-    "location": "Denver, US",
-    "url": "https://www.bffs.media/summit",
-    "coverImage": "/events/w3v-bitcoin-financial-services-summit-26-10-20-bd437590.webp",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-awaxXYsCGl4AMXv",
-    "name": "Solana Grand Prix",
-    "description": "",
-    "startDate": "2026-10-22T15:00:00.000Z",
-    "endDate": "2026-10-22T18:00:00.000Z",
-    "city": "دبي",
-    "country": "United Arab Emirates",
-    "location": "دبي, United Arab Emirates",
-    "url": "https://luma.com/SolanaGrandPrix",
-    "coverImage": "/events/luma-host-evt-evt-awaxxyscgl4amxv-9311fb9e.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "ethorg-meetupmip-20--road-to-devconoct-24mumbai--india--o",
     "name": "MIP-20: Road to Devcon",
     "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions\n\nWhat to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking\n\nWho should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins\n\nVenue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC)\n\nRegistration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
@@ -2573,7 +2546,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3349,7 +3322,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -3594,71 +3567,6 @@
     "url": "https://lu.ma/u4qslsb1",
     "coverImage": "/events/luma-evt-bislbrgguim3lf7-e0586df1.webp",
     "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-the-future-of-capital-markets",
-    "name": "The Future Of Capital Markets",
-    "description": "The Future of Capital Markets: a private Lugano summit on Bitcoin, tokenised securities, treasury strategies, and lending.",
-    "startDate": "2026-10-22T07:00:00.000Z",
-    "endDate": "2026-10-22T17:30:00.000Z",
-    "city": "Lugano",
-    "country": "CH",
-    "location": "Lugano, CH",
-    "url": "https://luma.com/the-future-of-capital-markets-2026",
-    "coverImage": null,
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-securing-bitcoin---by-bitvault",
-    "name": "Securing Bitcoin - by BitVault",
-    "description": "Securing Bitcoin by BitVault: a Lugano event on Bitcoin self-custody risks, hardware, network security, recovery, and physical threats.",
-    "startDate": "2026-10-22T11:30:00.000Z",
-    "endDate": "2026-10-22T17:00:00.000Z",
-    "city": "Lugano",
-    "country": "CH",
-    "location": "Lugano, CH",
-    "url": "https://luma.com/yawcgo0t",
-    "coverImage": null,
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-bitcoin-red-team",
-    "name": "Bitcoin Red Team",
-    "description": "Bitcoin Red Team: a Plan ₿ Week event on Bitcoin security, AI-assisted defense, vulnerability research and open-source infrastructure.",
-    "startDate": "2026-10-22T13:30:00.000Z",
-    "endDate": "2026-10-22T16:30:00.000Z",
-    "city": "Lugano",
-    "country": "CH",
-    "location": "Lugano, CH",
-    "url": "https://luma.com/x4j5dthl",
-    "coverImage": null,
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-one-year-of-the-starboard-sygnum-bitcoin-alpha-fund",
-    "name": "One Year of the Starboard Sygnum Bitcoin Alpha Fund",
-    "description": "One Year of the Starboard Sygnum Bitcoin Alpha Fund: a private reception covering the fund’s first year and market outlook.",
-    "startDate": "2026-10-22T14:00:00.000Z",
-    "endDate": "2026-10-22T16:30:00.000Z",
-    "city": "Lugano",
-    "country": "CH",
-    "location": "Lugano, CH",
-    "url": "https://luma.com/glo37kdr",
-    "coverImage": null,
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-when-a-bank-goes-down-the-rabbit-hole",
-    "name": "When a bank goes down the rabbit hole",
-    "description": "When a Bank goes Down the Rabbit Hole: a Plan ₿ Week session on Bitcoin private banking, institutional adoption and regulated finance.",
-    "startDate": "2026-10-22T15:30:00.000Z",
-    "endDate": "2026-10-22T16:30:00.000Z",
-    "city": "Lugano",
-    "country": "CH",
-    "location": "Lugano, CH",
-    "url": "https://luma.com/8ledskyk",
-    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -4200,20 +4108,6 @@
     "url": "https://ai-future.com/?utm_source=web3voyager.com&utm_medium=referral&utm_campaign=voyager#tickets",
     "coverImage": "/events/w3v-ai-future-forum-dubai-2026-340d6dcc.webp",
     "month": "December 2026"
-  },
-  {
-    "id": "mu-316816714",
-    "name": "Live AI Crypto Trading Demo + Founder Q&A",
-    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
-    "startDate": "2026-10-22T11:00:00-07:00",
-    "endDate": "2026-10-22T11:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/carpoolcrypto/events/316816714/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
   },
   {
     "id": "mu-316898768",
@@ -5107,75 +5001,6 @@
     "month": "December 2026"
   },
   {
-    "id": "luma-host-evt-evt-9qbXxI87FMFkdFf",
-    "name": "ETHGlobal Happy Hour New Delhi",
-    "description": "ETHGlobal, GrowthFi Studio and 0xSpace host a gathering for Web3 founders, developers and crypto community members. Food and mocktails are provided. Registration requires approval, and the venue address is shared with accepted guests.",
-    "startDate": "2026-10-22T12:30:00.000Z",
-    "endDate": "2026-10-22T15:30:00.000Z",
-    "city": "Delhi",
-    "country": "India",
-    "location": "Delhi, India",
-    "url": "https://luma.com/ethglobal-hh-newdelhi",
-    "coverImage": "/events/luma-host-evt-evt-9qbxxi87fmfkdff-6a8d0f98.webp",
-    "source": "curated-reviewed",
-    "month": "October 2026",
-    "timezone": "Asia/Kolkata",
-    "organizer": {
-      "type": "Organization",
-      "name": "ETHGlobal, GrowthFi Studio and 0xSpace",
-      "url": "https://ethglobal.com/"
-    },
-    "approvalRequired": true,
-    "locationHidden": true,
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "sourceVerification": {
-      "url": "https://luma.com/ethglobal-hh-newdelhi",
-      "eventId": "evt-9qbXxI87FMFkdFf",
-      "fetchedAt": "2026-10-20T09:31:10.340Z",
-      "method": "luma-page"
-    },
-    "registrationAvailability": "open",
-    "price": "Free",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/ethglobal-hh-newdelhi",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "hosts": [
-      "ETHGlobal",
-      "GrowthFi Studio",
-      "0xSpace"
-    ],
-    "descriptionSource": {
-      "url": "https://luma.com/ethglobal-hh-newdelhi",
-      "fetchedAt": "2026-10-20T09:31:10.340Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "ETHGlobal Happy Hour New Delhi · Luma",
-      "sha256": "44a1327662235632ed14408f5f7dd1a2fe0f1e4c157d394f7936c11fa371b006",
-      "evidence": [
-        {
-          "url": "https://luma.com/ethglobal-hh-newdelhi",
-          "fetchedAt": "2026-10-20T08:51:13.298Z",
-          "sha256": "0bd7ea606eace584997787af5359455af72a2649059dfaf11abd859700ee8f2b",
-          "retrievedVia": "HTTP response HTML and public embedded event data; hidden address omitted",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/ethglobal-hh-newdelhi",
-          "fetchedAt": "2026-10-20T09:31:10.340Z",
-          "sha256": "851ca93d8f27e0a1e95f444f0835f1f865d81f1a9bd83f2d9928dc73a7108ddc",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "registrationUrl": "https://luma.com/ethglobal-hh-newdelhi"
-  },
-  {
     "id": "w3v-mip-20-road-devcon-26-10-30",
     "name": "MIP-20: Road to Devcon",
     "description": "ETHMumbai hosts MIP-20: Road to Devcon on Friday, October 30, 2026, from 15:00 to 18:00 IST. The pre-conference developer meetup introduces the Mumbai Improvement Proposal 20 and highlights local Ethereum contributions\n\nWhat to expect\n\nThe session features technical presentations and community discussions:\n- An introduction to the MIP-20 specification and its role in developer tooling, node operations, and ecosystem standards for Mumbai's developer community.\n- Workshops on building decentralized applications with modern Ethereum stacks, account abstraction (ERC-4337), and zero-knowledge toolkits.\n- Hackathon readiness briefings, offering advice on forming teams, identifying bounties, and preparing for ETHIndia and Devcon hackathons.\n- Q&A with experienced hackathon winners and local community mentors, followed by high-chai refreshments and networking\n\nWho should attend\n\nThe meetup is tailored for software engineers, blockchain developers, university students, and hackathon participants looking to level up their technical skills before Devcon 8 begins\n\nVenue and schedule\n\nThe meetup takes place in Mumbai on Friday, October 30, running from 15:00 to 18:00 IST (09:30-12:30 UTC)\n\nRegistration and admission\n\nRegistration is completely free and requires approval on Luma. Laptops are encouraged for developers wishing to participate in interactive code walkthroughs.",
@@ -5321,20 +5146,6 @@
     "coverImage": "/events/mu-315688633-c0575cb1.webp",
     "source": "meetup",
     "month": "November 2026"
-  },
-  {
-    "id": "mu-316816718",
-    "name": "Live AI Crypto Trading Demo + Founder Q&A",
-    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
-    "startDate": "2026-10-22T11:00:00-07:00",
-    "endDate": "2026-10-22T11:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/316816718/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
   },
   {
     "id": "mu-316823041",
@@ -5488,20 +5299,6 @@
     "url": "https://hackathon.qie.digital",
     "coverImage": null,
     "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-tqQWKI8FKhhBJLd",
-    "name": "Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung",
-    "description": "",
-    "startDate": "2026-10-22T07:15:00.000Z",
-    "endDate": "2026-10-22T15:00:00.000Z",
-    "city": "Luzern",
-    "country": "Switzerland",
-    "location": "Luzern, Switzerland",
-    "url": "https://lu.ma/d5xp3mvp",
-    "coverImage": "/events/luma-evt-tqqwki8fkhhbjld-351a9272.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-f4kr9gtDbAniGt2",
@@ -5740,34 +5537,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "id": "luma-evt-gPrK68iR2rZ4g8L",
-    "name": "Next Level Health 1er Foro de Liderazgo en Salud Corporativa | México 2026",
-    "description": "",
-    "startDate": "2026-10-22T14:00:00.000Z",
-    "endDate": "2026-10-22T18:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/fpxm4up2",
-    "coverImage": "/events/luma-evt-gprk68ir2rz4g8l-55268e2e.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-awaxXYsCGl4AMXv",
-    "name": "Solana Grand Prix",
-    "description": "",
-    "startDate": "2026-10-22T15:00:00.000Z",
-    "endDate": "2026-10-22T18:00:00.000Z",
-    "city": "دبي",
-    "country": "United Arab Emirates",
-    "location": "دبي, United Arab Emirates",
-    "url": "https://lu.ma/SolanaGrandPrix",
-    "coverImage": "/events/luma-evt-awaxxyscgl4amxv-83cf38b8.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-lNXj8JwLLjYEOZF",
@@ -12206,7 +11975,7 @@
     "country": "us",
     "location": "Atlanta, us",
     "url": "https://www.meetup.com/atlbitlab/events/317194380/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317194380-cb86f171.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22806,7 +22575,7 @@
     "country": "TH",
     "location": "Bangkok, TH",
     "url": "https://luma.com/r13r2x1w",
-    "coverImage": "/events/w3v-private-dinner-with-moss-c8e2da2f.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -22819,7 +22588,7 @@
     "country": "TH",
     "location": "Bangkok, TH",
     "url": "https://luma.com/862k3vql",
-    "coverImage": "/events/w3v-masterchef-kitchen-bangkok-private-dinner-0ae9563f.webp",
+    "coverImage": null,
     "month": "November 2026"
   },
   {
@@ -23439,5 +23208,59 @@
     "coverImage": "/events/eb-1997169893915-5069c347.webp",
     "source": "eventbrite",
     "month": "July 2027"
+  },
+  {
+    "id": "luma-evt-ufzzzFPbKBwmSC7",
+    "name": "CONVOCATORIA PARA PROFESIONALES ECUATORIANOS EN EL REINO UNIDO",
+    "description": "",
+    "startDate": "2026-11-22T16:00:00.000Z",
+    "endDate": "2026-11-22T17:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/4huops0s",
+    "coverImage": "/events/luma-evt-ufzzzfpbkbwmsc7-fa9b037f.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-fourtakesbkk-yacht-night",
+    "name": "#FourTakesBKK Yacht Night",
+    "description": "#FourTakesBKK Yacht Night: a private Binance Blockchain Week dinner cruise by Four.Meme, Renaiss Protocol and DID for Web3 founders, builders and KOLs.",
+    "startDate": "2026-11-27T12:00:00.000Z",
+    "endDate": "2026-11-27T14:00:00.000Z",
+    "city": "Bangkok",
+    "country": "TH",
+    "location": "Bangkok, TH",
+    "url": "https://luma.com/FourTakesBKK",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-ignite-the-night",
+    "name": "Ignite the Night",
+    "description": "Ignite the Night: UXUY’s Binance Blockchain Week pre-party in Bangkok with house music, drinks and sponsors Four.Meme and Ave.ai.",
+    "startDate": "2026-11-27T14:00:00.000Z",
+    "endDate": "2026-11-27T19:00:00.000Z",
+    "city": "Bangkok",
+    "country": "TH",
+    "location": "Bangkok, TH",
+    "url": "https://luma.com/2x32a9cr",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-cIwbzulq77NuGT9",
+    "name": "Bridging the Rails: A 360° View on Cross-Border Fiat and Stablecoin Payments",
+    "description": "",
+    "startDate": "2026-12-08T14:00:00.000Z",
+    "endDate": "2026-12-08T16:00:00.000Z",
+    "city": "Miami",
+    "country": "United States",
+    "location": "Miami, United States",
+    "url": "https://lu.ma/adk5zfw9",
+    "coverImage": "/events/luma-evt-ciwbzulq77nugt9-93ca658d.webp",
+    "source": "luma",
+    "month": "December 2026"
   }
 ]

@@ -29,12 +29,6 @@
     "slug": "blockfest-africa",
     "aliases": []
   },
-  "luma-batch-evtpzY4t9z1ap4VH": {
-    "slug": "unbundled-autumn",
-    "aliases": [
-      "the-gcwt"
-    ]
-  },
   "luma-batch-hPFyfHyof2hYVIp": {
     "slug": "soiree-xd-20",
     "aliases": [
@@ -1068,10 +1062,6 @@
     "slug": "alchemy-devcon-meetings",
     "aliases": []
   },
-  "token2049-evt-t9Ts4NTXVMW7o9r": {
-    "slug": "get-down-real",
-    "aliases": []
-  },
   "token2049-evt-k5CCYE5vIpcBRt6": {
     "slug": "get-down-for",
     "aliases": []
@@ -1137,22 +1127,6 @@
     "aliases": [
       "perps-and-chai-hyprearn-mumbai"
     ]
-  },
-  "luma-host-evt-evt-9qbXxI87FMFkdFf": {
-    "slug": "ethglobal-happy-hour-new-delhi",
-    "aliases": []
-  },
-  "mu-316952339": {
-    "slug": "blockchain-age-quantum",
-    "aliases": []
-  },
-  "discovery-evt-GBKABMGTvkCfyPg": {
-    "slug": "build-breakpoint-how-we-exited-knownorigin-ebay",
-    "aliases": []
-  },
-  "discovery-evt-q3nE7Ggih7EifUJ": {
-    "slug": "linklab-ccip-2-0",
-    "aliases": []
   },
   "mu-316850208": {
     "slug": "coldcard-post-mortem-que-paso-debate-abierto",

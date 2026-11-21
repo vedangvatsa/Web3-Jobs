@@ -10400,5 +10400,48 @@
       "team1-india-university-workshop-mit-wpu-pune",
       "discovery-evt-hlx4ktqytad4dh7"
     ]
+  },
+  "luma-host-evt-evt-9qbXxI87FMFkdFf": {
+    "until": "2027-11-21T18:10:11.524Z",
+    "slugs": [
+      "ethglobal-happy-hour-new-delhi",
+      "luma-host-evt-evt-9qbxxi87fmfkdff"
+    ]
+  },
+  "luma-batch-evtpzY4t9z1ap4VH": {
+    "until": "2027-11-21T18:10:11.524Z",
+    "slugs": [
+      "unbundled-autumn",
+      "the-gcwt",
+      "luma-batch-evtpzy4t9z1ap4vh"
+    ]
+  },
+  "token2049-evt-t9Ts4NTXVMW7o9r": {
+    "until": "2027-11-21T18:10:11.524Z",
+    "slugs": [
+      "get-down-real",
+      "token2049-evt-t9ts4ntxvmw7o9r"
+    ]
+  },
+  "mu-316952339": {
+    "until": "2027-11-21T18:10:11.524Z",
+    "slugs": [
+      "blockchain-age-quantum",
+      "mu-316952339"
+    ]
+  },
+  "discovery-evt-q3nE7Ggih7EifUJ": {
+    "until": "2027-11-21T18:10:11.524Z",
+    "slugs": [
+      "linklab-ccip-2-0",
+      "discovery-evt-q3ne7ggih7eifuj"
+    ]
+  },
+  "discovery-evt-GBKABMGTvkCfyPg": {
+    "until": "2027-11-21T18:10:11.524Z",
+    "slugs": [
+      "build-breakpoint-how-we-exited-knownorigin-ebay",
+      "discovery-evt-gbkabmgtvkcfypg"
+    ]
   }
 }

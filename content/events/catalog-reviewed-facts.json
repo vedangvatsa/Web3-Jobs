@@ -70,46 +70,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-evtpzY4t9z1ap4VH": {
-    "name": "UnBundled - Autumn edition",
-    "startDate": "2026-10-22T07:00:00.000Z",
-    "endDate": "2026-10-22T16:00:00.000Z",
-    "timezone": "Europe/Prague",
-    "registrationUrl": "https://luma.com/the-gcwt",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Hlavní město Praha",
-    "country": "Czech Republic",
-    "location": "National house of Vinohrady, Náměstí Míru 820/9, 120 00 Praha 2-Vinohrady, Czechia",
-    "venueName": "National house of Vinohrady",
-    "streetAddress": "Náměstí Míru 820/9, Vinohrady",
-    "addressLocality": "Hlavní město Praha",
-    "addressRegion": "Hlavní město Praha",
-    "addressCountry": "CZ",
-    "neighborhood": "Vinohrady",
-    "coordinates": {
-      "latitude": 50.0756294,
-      "longitude": 14.4379472
-    },
-    "hosts": [
-      "Michal Ciffra",
-      "Andrea"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "The FinTechers",
-      "url": "https://thefintechers.com/"
-    },
-    "approvalRequired": true,
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/the-gcwt",
-      "eventId": "evt-pzY4t9z1ap4VH0r",
-      "fetchedAt": "2026-10-12T11:25:11.986Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-hPFyfHyof2hYVIp": {
     "name": "SOIRÉE XD #20",
     "startDate": "2026-10-22T16:00:00.000Z",

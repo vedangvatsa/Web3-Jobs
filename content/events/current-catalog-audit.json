@@ -63,47 +63,6 @@
       }
     },
     {
-      "id": "luma-batch-evtpzY4t9z1ap4VH",
-      "oldSlug": "the-gcwt",
-      "slug": "unbundled-autumn",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 838,
-      "characters": 838,
-      "factChanges": {
-        "locationHidden": false,
-        "city": "Hlavní město Praha",
-        "venueName": "National house of Vinohrady",
-        "streetAddress": "Náměstí Míru 820/9, Vinohrady",
-        "addressLocality": "Hlavní město Praha",
-        "addressRegion": "Hlavní město Praha",
-        "addressCountry": "CZ",
-        "neighborhood": "Vinohrady",
-        "coordinates": {
-          "latitude": 50.0756294,
-          "longitude": 14.4379472
-        },
-        "hosts": [
-          "Michal Ciffra",
-          "Andrea"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "The FinTechers",
-          "url": "https://thefintechers.com/"
-        },
-        "approvalRequired": true,
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/the-gcwt",
-        "fetchedAt": "2026-10-12T11:25:11.986Z",
-        "status": 200,
-        "sha256": "e8a092f66716ecb0512409848615807f7d6ae91a7a58ca37cec690b51a319579"
-      }
-    },
-    {
       "id": "luma-batch-hPFyfHyof2hYVIp",
       "oldSlug": "kv670yys",
       "slug": "soiree-xd-20",

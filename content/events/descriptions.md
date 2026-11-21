@@ -2652,48 +2652,6 @@ The Whale Pass is $1,499 and includes backstage deep sessions with speakers, all
 
 Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder, Network School), Dr Hon Johnny Ng and Kit Chong MH (Hong Kong Legislative Council), David Bailey (CEO and chairman, Nakamoto Inc.), Simon Gerovich (CEO, Metaplanet), Justin Sun (advisor, WBTC), Aj Scaramucci (founder and CEO, Treasure Trove), Jack Kong (founder and board member, Nano Labs and Hong Kong Cyberport), Bonnie Chang (founder and host, Bonnie Blockchain) and Bilal Bin Saqib (chairman, Pakistan Virtual Assets Regulatory Authority). Bitcoin Asia is published by BTC Inc., a subsidiary of Nakamoto Inc. (NASDAQ: NAKA).
 
-<a id="event-5933a9c7eebdac11"></a>
-
-## Build For Breakpoint: How We Exited KnownOrigin to eBay
-
-- Record: `discovery-evt-GBKABMGTvkCfyPg`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-22T15:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/build-for-breakpoint-how-we-sold-knownorigin-to>
-
-### About the event
-
-Andy Gray leads office hours on KnownOrigin's acquisition by eBay, covering due diligence, valuation of crypto-native companies and post-acquisition decisions. Founders can bring specific M&A questions. Attendance requires an approved invitation.
-
-<a id="event-d5cfcd49598385f4"></a>
-
-## LinkLab \| CCIP 2.0
-
-- Record: `discovery-evt-q3nE7Ggih7EifUJ`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-22T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/LinkLabCCIP>
-
-### About the event
-
-Chainlink's online workshop covers the CCIP 2.0 SDK, CLI and APIs, conventional and AI-assisted development, configurable finality, Cross-Chain Verifiers and programmable compliance with Chainlink ACE. Speakers include Dave Isbistki, Solange Gueiros and Julian Ma. A hands-on setup guide is linked from registration.
-
-<a id="event-a0efe6f7b5a92772"></a>
-
-## Blockchain In the Age of Quantum
-
-- Record: `mu-316952339`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-22T17:00:00+03:00
-- Description: Source-backed
-- Original page: <https://www.meetup.com/quantumke/events/316952339/>
-
-### About the event
-
-QuantumKE and Blockchain Centre NBO host a beginner-friendly discussion on quantum computing and blockchain security, with Web3 Clubs as a partner. Topics include risks to existing cryptography, post-quantum defenses and a live problem-solving clinic. Announced participants include Joylizza Mwangi, Darlington Baraka, Shannon Mujera and Wycliffe Osano.
-
 <a id="event-db47b4ca24384904"></a>
 
 ## Austin Bitcoin Club Presents: Gamenight!
@@ -4518,24 +4476,6 @@ VITALIK BUTERIN ETHEREUM Balaji Srinivasan The network state VLAD TENEV ROBINHOO
 Blockchain Tech Summit (4th Annual) Tickets, Tuesday, September 28, 2027 - 11 AM - 1 PM | Eventbrite - - - - Blockchain Tech Summit (4th Annual) ByGlobal Startup Ecosystem Location TBANew York, NY Tuesday, September 28, 2027 - 11 AM - 1 PM Overview Blockchain Tech Summit is the world's most exclusive event featuring hundreds of entrepreneurs, investors, pioneers, and creatives together. Good to know Highlights - 2 hours - In person - Refund Policy No refunds Highlights - 2 hours - In person - Refund Policy No refunds Location Location TBA TBA New York, NY 10036 How do you want to get there?
 
 - Driving - Public transport - Biking - Walking Organized by Global Startup Ecosystem Report this event More events from Global Startup Ecosystem Discover more events from Global Startup Ecosystem, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit.  - United States Events - New York Events - Things to do in New York, New York - New York networking - New York Business networking
-
-<a id="event-7447e82f21786bbb"></a>
-
-## Get Down For Real
-
-- Record: `token2049-evt-t9Ts4NTXVMW7o9r`
-- Source: [token2049-discovered.json](sources/token2049-discovered.json)
-- Starts: 2026-10-22T14:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0nxi588e>
-
-### About the event
-
-Get Down For Real is scheduled for 22 October 2026 at 22:30 (Asia/Singapore) in Singapore. Hosted by 2049 Events.
-
-Expect seamless Open Format sets with everything from chart-topping hits and nostalgic throwbacks to hip-hop and crowd-moving anthems designed to keep the room alive from start to finish.
-
-Registration requires host approval. Registration is listed as free.
 
 <a id="event-35f008becd0d9687"></a>
 
@@ -17409,38 +17349,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-35b770970e199d23"></a>
-
-## UnBundled - Autumn edition
-
-- Record: `luma-batch-evtpzY4t9z1ap4VH`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-22T07:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/the-gcwt>
-
-### About the event
-
-UnBundled Autumn edition
-
-Where CEE capital meets CEE fintech.
-
-UnBundled Autumn edition is the fintech track inside the Engaged Investments (21-22 October) in Prague, running under this year's theme of European resilience. Capital runs through the day, alongside crypto and tokenisation, AI in regulated finance, and cybersecurity.
-
-Capital that stays. Who's funding CEE fintech, and what it takes to raise without leaving.
-
-Raise here. Build here. Stay here.
-
-Speakers to be announced soon.
-
-This room is curated: CEE fintech founders, VCs and angels, banks, regulators, and the people building this ecosystem day to day.
-
-Invite only - on approval.
-
-### Event details
-
-Organized by The FinTechers. Venue: National house of Vinohrady, National house of Vinohrady, Náměstí Míru 820/9, 120 00 Praha 2-Vinohrady, Czechia. Tickets: 15.00 eur.
-
 <a id="event-d8af36fc60a3cad9"></a>
 
 ## SOIRÉE XD #20
@@ -19458,152 +19366,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-0b0e361918aec5f2"></a>
-
-## Bitcoin for Financial Services Summit 2026
-
-- Record: `w3v-bitcoin-financial-services-summit-26-10-20`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-20T15:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.bffs.media/summit>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-674ba5a4d6469ff3"></a>
-
-## The Future Of Capital Markets
-
-- Record: `w3v-the-future-of-capital-markets`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T07:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/the-future-of-capital-markets-2026>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-f4d39426248f0697"></a>
-
-## Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung
-
-- Record: `luma-evt-tqQWKI8FKhhBJLd`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T07:15:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/d5xp3mvp>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-09f98bb62ad8da77"></a>
-
-## Live AI Crypto Trading Demo + Founder Q&A
-
-- Record: `mu-316816714`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T11:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/carpoolcrypto/events/316816714/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-745a66ac5fa64e07"></a>
-
-## Live AI Crypto Trading Demo + Founder Q&A
-
-- Record: `mu-316816718`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T11:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/los-angeles-double-your-crypto-club/events/316816718/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e27a691b390719f0"></a>
-
-## Securing Bitcoin - by BitVault
-
-- Record: `w3v-securing-bitcoin---by-bitvault`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T11:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/yawcgo0t>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-93f6401bf1545d1b"></a>
-
-## ETHGlobal Happy Hour New Delhi
-
-- Record: `luma-host-evt-evt-9qbXxI87FMFkdFf`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T12:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ethglobal-hh-newdelhi>
-
-### About the event
-
-ETHGlobal, GrowthFi Studio and 0xSpace host a gathering for Web3 founders, developers and crypto community members. Food and mocktails are provided. Registration requires approval, and the venue address is shared with accepted guests.
-
-<a id="event-7901339944292d4f"></a>
-
-## Bitcoin Red Team
-
-- Record: `w3v-bitcoin-red-team`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T13:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/x4j5dthl>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-0c88109f5c0cea11"></a>
-
-## Next Level Health 1er Foro de Liderazgo en Salud Corporativa \| México 2026
-
-- Record: `luma-evt-gPrK68iR2rZ4g8L`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T14:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/fpxm4up2>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-dd0110efd708ccb5"></a>
-
-## One Year of the Starboard Sygnum Bitcoin Alpha Fund
-
-- Record: `w3v-one-year-of-the-starboard-sygnum-bitcoin-alpha-fund`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T14:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/glo37kdr>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-85b61ab1ac097e9a"></a>
-
-## Solana Grand Prix
-
-- Record: `luma-evt-awaxXYsCGl4AMXv`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T15:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/SolanaGrandPrix>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-da97e605c8bdecb4"></a>
-
-## Solana Grand Prix
-
-- Record: `luma-host-evt-evt-awaxXYsCGl4AMXv`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T15:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/SolanaGrandPrix>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-267f14dfebdf8151"></a>
 
 ## One of Ours \| Arts DAO
@@ -19613,18 +19375,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T15:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/arts-6dtf>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ad3c714e8d552a51"></a>
-
-## When a bank goes down the rabbit hole
-
-- Record: `w3v-when-a-bank-goes-down-the-rabbit-hole`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T15:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/8ledskyk>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31621,6 +31371,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-3d20fe2780f536eb"></a>
+
+## CONVOCATORIA PARA PROFESIONALES ECUATORIANOS EN EL REINO UNIDO
+
+- Record: `luma-evt-ufzzzFPbKBwmSC7`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-22T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4huops0s>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6ab4d210b03deadc"></a>
 
 ## Solana For Students - Brazil 🇧🇷
@@ -33189,6 +32951,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-19d9b402e85042b1"></a>
+
+## #FourTakesBKK Yacht Night
+
+- Record: `w3v-fourtakesbkk-yacht-night`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T12:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/FourTakesBKK>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-3cb3b24723d40b9d"></a>
 
 ## GMGN x Velio Genesis Night
@@ -33234,6 +33008,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T13:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/pox5so32>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-46ddbf7260a256a9"></a>
+
+## Ignite the Night
+
+- Record: `w3v-ignite-the-night`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/2x32a9cr>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35068,6 +34854,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-08T08:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaCoffeeConnectSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1fb6b1c42dc5d7ce"></a>
+
+## Bridging the Rails: A 360° View on Cross-Border Fiat and Stablecoin Payments
+
+- Record: `luma-evt-cIwbzulq77NuGT9`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/adk5zfw9>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
