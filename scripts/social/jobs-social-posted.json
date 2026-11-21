@@ -165285,6 +165285,33 @@
       "attemptId": "75b679fe-361e-41f4-8a23-3bbf0ab73a18",
       "verification": "verified",
       "postId": "urn:li:share:7529971544417107968"
+    },
+    {
+      "slug": "mgr241",
+      "company": "Riot Platforms",
+      "title": "Events Manager",
+      "platform": "facebook",
+      "postedAt": "2026-11-21T18:15:35.330Z",
+      "expectedText": "Riot Platforms is hiring Events Manager: https://hashtagweb3.com/mgr241/fb?og=7",
+      "snapshot": {
+        "id": "8b22dafe-0b8b-4325-9426-2cdd91b09355",
+        "title": "Events Manager",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/8b22dafe-0b8b-4325-9426-2cdd91b09355",
+        "date": "2026-11-09T10:26:49.904000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Denver, CO - Hybrid",
+        "department": "Marketing & Program Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr241"
+      },
+      "payload": {
+        "message": "Riot Platforms is hiring Events Manager: https://hashtagweb3.com/mgr241/fb?og=7",
+        "link": "https://hashtagweb3.com/mgr241/fb?og=7"
+      },
+      "attemptId": "b29572a0-f9a0-46d1-9545-6f230466f478",
+      "verification": "creating"
     }
   ]
 }
