@@ -166300,7 +166300,8 @@
       },
       "account": "profile",
       "attemptId": "6b012199-9059-4c94-88c2-9ff880f2c1ea",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb9e19746eaacb76b2a518aba80dadc0573f40f1a"
     }
   ]
 }
