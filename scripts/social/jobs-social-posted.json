@@ -164992,7 +164992,8 @@
       },
       "account": "channel:solana",
       "attemptId": "d991c12d-2da7-48d5-89eb-df0038e4b2cb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x84969c3f3ae2da335ebb5c247a8739b9b7f15f5d"
     }
   ]
 }
