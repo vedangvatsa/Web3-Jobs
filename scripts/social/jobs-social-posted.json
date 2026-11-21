@@ -163400,7 +163400,8 @@
       },
       "account": "channel:product",
       "attemptId": "641a4267-8d1f-4170-bf70-f6be48a83ab6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2ad65494412d909883951bc3b7e3e0ff91bfbeae"
     }
   ]
 }
