@@ -166237,6 +166237,37 @@
       "attemptId": "52cd44b8-f218-45fc-b122-79df62d64a7c",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 21-Nov-26 15:59:14 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ABujo0rmx4vGHABPcJPy8WN\"}"
+    },
+    {
+      "slug": "pm356",
+      "company": "Kamino",
+      "title": "Head of Product Marketing",
+      "platform": "bluesky",
+      "postedAt": "2026-11-21T23:59:01.426Z",
+      "expectedText": "Kamino is hiring Head of Product Marketing: https://hashtagweb3.com/pm356/bsky?og=7",
+      "snapshot": {
+        "id": "46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "title": "Head of Product Marketing",
+        "company": "Kamino",
+        "link": "https://talent.superteam.fun/jobs/head-of-product-marketing-at-kamino-46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "date": "2026-10-23T17:10:17.567786+00:00",
+        "source": "Superteam: Kamino [superteam]",
+        "location": "Hybrid · New York, United States",
+        "department": "Full-Time",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm356"
+      },
+      "payload": {
+        "text": "Kamino is hiring Head of Product Marketing: https://hashtagweb3.com/pm356/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm356/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm356.png?v=7",
+        "company": "Kamino",
+        "title": "Head of Product Marketing",
+        "description": "Join Kamino as Head of Product Marketing. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e374c057-58e1-488b-b7b3-1a78612130a9",
+      "verification": "creating"
     }
   ]
 }
