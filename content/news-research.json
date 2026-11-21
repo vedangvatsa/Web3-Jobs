@@ -203060,11 +203060,33 @@
         "The Defiant"
       ],
       "id": "c9a435077c08d2de8fea",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T19:53:42.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "reason": "source-blocked",
+      "note": "All listed sources denied on actual GETs today: CoinDesk returned HTTP 429 and both The Defiant URLs returned HTTP 403. No source could be opened and read, so no facts verified and no draft started.",
+      "sourceChecks": [
+        {
+          "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/sky-s-usdc-exit-reserve-falls-1-69-billion-in-hours",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/sky-s-usdc-exit-reserve-rises-29-to-1-13-billion",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:39:05.033Z",
+      "retrySearches": [
+        "Find readable coverage (Decrypt, Cointelegraph, The Block, Bankless, Crypto Briefing) of the Sky USDS and USDC exit-reserve outflows after the illicit-finance report, with confirmed reserve figures"
+      ],
+      "lastReviewedDay": "2026-11-21",
+      "nextReviewDate": "2026-11-22"
     },
     "935fc375aa6e0ff6d3bc": {
       "source": "CryptoSlate",
@@ -403417,6 +403439,29 @@
           "reviewedAt": "2026-11-21T01:38:42.680Z",
           "retrySearches": [
             "Find a second readable independent outlet (Ledger newsroom post, Bloomberg, Decrypt, Blockworks, Fortune) covering Charles Guillemet's Nov 19 LinkedIn announcement that he leaves Ledger as CTO at the end of 2026"
+          ]
+        },
+        "c9a435077c08d2de8fea": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "All listed sources denied on actual GETs today: CoinDesk returned HTTP 429 and both The Defiant URLs returned HTTP 403. No source could be opened and read, so no facts verified and no draft started.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/sky-s-usdc-exit-reserve-falls-1-69-billion-in-hours",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/sky-s-usdc-exit-reserve-rises-29-to-1-13-billion",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:39:05.033Z",
+          "retrySearches": [
+            "Find readable coverage (Decrypt, Cointelegraph, The Block, Bankless, Crypto Briefing) of the Sky USDS and USDC exit-reserve outflows after the illicit-finance report, with confirmed reserve figures"
           ]
         }
       },
