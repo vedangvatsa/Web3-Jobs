@@ -39,61 +39,6 @@
       "descriptionSha256": "10b94fa79e34cb137232ccba0d4d7458e603245f0aba8073814c329af2a0e616"
     },
     {
-      "id": "luma-batch-evtaVuHzMqExnGSR",
-      "slug": "money2020-happy-hour",
-      "aliases": [
-        "dt73awy1"
-      ],
-      "startDate": "2026-10-21T00:30:00.000Z",
-      "endDate": "2026-10-21T03:30:00.000Z",
-      "timezone": "America/Vancouver",
-      "descriptionSha256": "cf903316e361d84833bf25889543dc2e3c4c71d93e5b652a109d5b31e2dbf75e"
-    },
-    {
-      "id": "luma-batch-evtGnX3Bt3QfsZya",
-      "slug": "on-the-house-privy-bridge",
-      "aliases": [
-        "qg80sbib"
-      ],
-      "startDate": "2026-10-21T00:30:00.000Z",
-      "endDate": "2026-10-21T03:30:00.000Z",
-      "timezone": "America/Los_Angeles",
-      "descriptionSha256": "7479328241748f1d9f24a0a065372f29c20365ab8c062fcece9742ecdc8fe2b5"
-    },
-    {
-      "id": "luma-batch-evtycWrx5n01IFcf",
-      "slug": "bitcoin-brews-port-moody",
-      "aliases": [
-        "2nrn1c75"
-      ],
-      "startDate": "2026-10-21T02:00:00.000Z",
-      "endDate": "2026-10-21T04:00:00.000Z",
-      "timezone": "America/Vancouver",
-      "descriptionSha256": "181287da3962e9b8be0690ab03b33bfff81fa1730fbaff22614088f74bcb69ca"
-    },
-    {
-      "id": "luma-batch-evtGMos7F0qQNyQF",
-      "slug": "taas-digital-asset-infrastructure-seminar",
-      "aliases": [
-        "cc07mr08"
-      ],
-      "startDate": "2026-10-21T06:00:00.000Z",
-      "endDate": "2026-10-21T09:00:00.000Z",
-      "timezone": "Asia/Taipei",
-      "descriptionSha256": "b7aad8e440c4c43a7a7176559f5eec216cfa6bb0c95766ce3bcfa0b945fd9ea4"
-    },
-    {
-      "id": "luma-batch-evtyRjNoO6i0QmUp",
-      "slug": "lme-after-hours-mixer",
-      "aliases": [
-        "8rc030km"
-      ],
-      "startDate": "2026-10-21T17:00:00.000Z",
-      "endDate": "2026-10-21T19:30:00.000Z",
-      "timezone": "Europe/London",
-      "descriptionSha256": "9a3ad0e3b7748779a08d38b1575528af45636855296a013a10628f6a291b88d7"
-    },
-    {
       "id": "luma-batch-OZx1friXAoHVZKN",
       "slug": "rust-melbourne-meetup",
       "aliases": [
@@ -2901,43 +2846,6 @@
       }
     },
     {
-      "id": "mu-316790235",
-      "name": "Crypto Clubhouse: Privacy on Tap + GOTV Trivia + Giveaways 6-9pm Goat Bar",
-      "startDate": "2026-10-20T18:00:00-07:00",
-      "endDate": "2026-10-20T21:00:00-07:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/vegas-crypto-group/events/316790235/",
-      "lane": "americas",
-      "reason": "No inventory identity match. Public dated community meetup.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/vegas-crypto-group/events/316790235/",
-          "fetchedAt": "2026-10-20T08:05:44.771Z",
-          "excerpt": "2026-10-20T18:00:00-07:00 to 2026-10-20T21:00:00-07:00. GOAT Sports Bar, 3805 W Sahara Ave. Free Entry | 21+. Fireside chat + trivia. Explore Monero, Litecoin’s MWEB, and the latest in privacy tech. Edge Wallet Tip Table.",
-          "sha256": "79cf86a89ffbcc62b073abeccecb49b8b4bb8900d19134b9873a31ebe84dab59",
-          "representation": "html; JSON-LD and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:56.420Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/e/3/1/f/600_536698143.jpeg",
-        "fetchedAt": "2026-10-20T09:49:12.559Z",
-        "status": 200,
-        "local": "/events/mu-316790235-17814477.webp",
-        "sourceSha256": "33166d227cfbe2a7ec93ebd2f60e66148f6f996e7a21335698321273e7dcdb98",
-        "sha256": "239e18819a92b854f9b596d8835a293f9656783890b69e1bde51c3909192ce75",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 37206
-      }
-    },
-    {
       "id": "mu-316573253",
       "name": "Houston Crypto Meetup #43",
       "startDate": "2026-10-21T19:00:00-05:00",
@@ -3307,45 +3215,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 146862
-      }
-    },
-    {
-      "id": "discovery-evt-XzdNZYQvs1Okah0",
-      "name": "20/20 Vision: Solana x Huma Happy Hour",
-      "startDate": "2026-10-21T00:00:00.000Z",
-      "endDate": "2026-10-21T02:00:00.000Z",
-      "timezone": "America/Los_Angeles",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-XzdNZYQvs1Okah0",
-      "url": "https://luma.com/solana-huma-happy-hour",
-      "lane": "americas",
-      "reason": "No inventory match. The description says the exact location will be shared later, so no street address or room details are reproduced.",
-      "evidence": [
-        {
-          "url": "https://luma.com/solana-huma-happy-hour",
-          "fetchedAt": "2026-10-20T08:09:08.466Z",
-          "excerpt": "evt-XzdNZYQvs1Okah0; 2026-10-21T00:00:00.000Z to 02:00:00.000Z; America/Los_Angeles; public; registration open; require_approval true. Join Huma and Solana Foundation at The Venetian in Las Vegas, held alongside Money20/20. Location: Exact location will be shared closer to the event.",
-          "sha256": "24be7fcc382a1eb7f4b8958664a2ba9d80f2174526a074bc0caff93c9d1134ed",
-          "representation": "html; __NEXT_DATA__; precise address omitted because description withholds the event location"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:06.966Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/9t/4e72a968-1395-4746-9a6f-3307e5b1e2ac.png",
-        "fetchedAt": "2026-10-20T09:49:18.360Z",
-        "status": 200,
-        "local": "/events/discovery-evt-xzdnzyqvs1okah0-254ed3ac.webp",
-        "sourceSha256": "0f1f09a112adcb11bbff14eb795aaf4fb2fe9e2bd1339f98ac9f494644301508",
-        "sha256": "f56ec872f53eee4c62798122592d0d4fe15d7e44b1cdeb873dfca67cc0969763",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 211656
       }
     },
     {
@@ -4476,45 +4345,6 @@
       }
     },
     {
-      "id": "discovery-evt-UMNVKyy1Q3q7JgE",
-      "name": "Community Roundtable",
-      "startDate": "2026-10-21T17:00:00.000Z",
-      "endDate": "2026-10-21T18:00:00.000Z",
-      "timezone": "America/Chicago",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-UMNVKyy1Q3q7JgE",
-      "url": "https://luma.com/40guwnej",
-      "lane": "americas",
-      "reason": "No inventory match. Explicit Fort Worth DAO occurrence with public registration and a stated discussion purpose.",
-      "evidence": [
-        {
-          "url": "https://luma.com/40guwnej",
-          "fetchedAt": "2026-10-20T08:07:34.948Z",
-          "excerpt": "evt-UMNVKyy1Q3q7JgE; 2026-10-21T17:00:00.000Z to 18:00:00.000Z; America/Chicago; The DEC Network @ Fort Worth, 600 Bryan Ave #220, Fort Worth, TX 76104; public, open, approval false. Weekly Fort Worth DAO Community Roundtable. All are welcomed to see how the DAO works and bring questions related to Deep Tech. Active event planning, programs and current events.",
-          "sha256": "9f8fa4e003a5a4f06a6cca6476511391669214f1f84ad68d266a5ae6a549e3a1",
-          "representation": "html; __NEXT_DATA__ and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:23.814Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/03/43ab558b-8ad5-4017-8f73-e84fc62d9fa8.png",
-        "fetchedAt": "2026-10-20T09:49:32.121Z",
-        "status": 200,
-        "local": "/events/discovery-evt-umnvkyy1q3q7jge-321a8cbf.webp",
-        "sourceSha256": "1dc60450ccf4066e8873d758d511494f6ec91d7bef49ca4cb56308d32484d646",
-        "sha256": "908c53747ce56ef5cb862a6e9d9b29e70002d0840484960249253367393fb940",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 238168
-      }
-    },
-    {
       "id": "discovery-evt-BSnrt893V7uhtCu",
       "name": "Community Roundtable",
       "startDate": "2026-10-28T17:00:00.000Z",
@@ -4749,43 +4579,6 @@
       }
     },
     {
-      "id": "mu-312264805",
-      "name": "Bitcoin am Holzmarkt (Stammtisch)",
-      "startDate": "2026-10-21T19:00:00+02:00",
-      "endDate": "2026-10-21T23:00:00+02:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/bitcoin-lab-berlin/events/312264805/",
-      "lane": "europe",
-      "reason": "Explicit October occurrence has no matching Meetup ID, URL or name/date in the identity index.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bitcoin-lab-berlin/events/312264805/",
-          "fetchedAt": "2026-10-20T08:04:16.717Z",
-          "excerpt": "startDate: 2026-10-21T19:00:00+02:00; endDate: 2026-10-21T23:00:00+02:00. Welcome to the Bitcoin meet-up at Café Holzmarktperle (Holzmarktstraße 25, Berlin). Everyone is welcome - Bitcoin beginners, enthusiasts. Payment in Bitcoin / Lightning accepted!",
-          "sha256": "234af91408dd36f1c174c2e1937d5e789df1da9abbe42b77a946167517360fad",
-          "representation": "Public HTML text and Event JSON-LD field excerpts; decorative symbols omitted; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:27.355Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/9/6/b/1/600_509858577.jpeg",
-        "fetchedAt": "2026-10-20T09:49:33.614Z",
-        "status": 200,
-        "local": "/events/mu-312264805-c2e8efae.webp",
-        "sourceSha256": "076c27316e0f1688a669ce5b424035be2ce6f356447a1bdb841f4fb2fe12a544",
-        "sha256": "a47b5e599cf610d0cee45314b6fa9f7276d92ef1a2ea8056a6f9df38f9237a05",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 47826
-      }
-    },
-    {
       "id": "mu-316962667",
       "name": "[DE] Bitcoin Beginner Workshops - Entdecke Bitcoin",
       "startDate": "2026-11-02T19:00:00+01:00",
@@ -4894,43 +4687,6 @@
         "width": 600,
         "height": 338,
         "bytes": 54006
-      }
-    },
-    {
-      "id": "mu-316413134",
-      "name": "DUC Bitcoin Paris Montmartre",
-      "startDate": "2026-10-21T18:30:00+02:00",
-      "endDate": "2026-10-21T23:00:00+02:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/duc-bitcoin-meetup-paris/events/316413134/",
-      "lane": "europe",
-      "reason": "No matching Meetup ID, URL or name/date in the supplied identities.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/duc-bitcoin-meetup-paris/events/316413134/",
-          "fetchedAt": "2026-10-20T08:04:17.029Z",
-          "excerpt": "startDate: 2026-10-21T18:30:00+02:00; endDate: 2026-10-21T23:00:00+02:00. Chez Ginette 101 Rue Caulaincourt, 75018 Paris. Lors de chaque meetup, nous faisons ensemble le point sur les principales actualités Bitcoin. Pendant chaque meetup, les débutants ont l’occasion d’apprendre à créer et sécuriser leur propre portefeuille Bitcoin.",
-          "sha256": "935ee19830467eae829357ea8925447b7345006bf377c2ff02dc4e35992e8857",
-          "representation": "Public HTML and Event JSON-LD field excerpts; whitespace normalized; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:29.704Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/4/1/1/f/600_536476671.jpeg",
-        "fetchedAt": "2026-10-20T09:49:35.470Z",
-        "status": 200,
-        "local": "/events/mu-316413134-cf68c9e8.webp",
-        "sourceSha256": "d58d94b5f5ef40a352d99149e38f12d0980dbc72dfd161f389e2563084f78d2a",
-        "sha256": "6a11aab0b645db83d29d6bce36d96a428301ecdd8dc7350242f71d4a70fc5faa",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 37596
       }
     },
     {
@@ -5583,44 +5339,6 @@
       }
     },
     {
-      "id": "luma-host-evt-evt-CgjAsxd2TK5PXtq",
-      "name": "Superteam Poland Co-work: Kraków",
-      "startDate": "2026-10-21T07:00:00.000Z",
-      "endDate": "2026-10-21T16:00:00.000Z",
-      "timezone": "Europe/Warsaw",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-CgjAsxd2TK5PXtq",
-      "url": "https://luma.com/co-work37",
-      "lane": "europe",
-      "reason": "Matching Luma identity and October 21 dates in sources/events-cache.json; absent from the 200-record runtime snapshot. No held or tombstoned match. Keep primary location restriction even though prose includes an address.",
-      "evidence": [
-        {
-          "url": "https://luma.com/co-work37",
-          "fetchedAt": "2026-10-20",
-          "excerpt": "api_id: evt-CgjAsxd2TK5PXtq; start_at: 2026-10-21T07:00:00.000Z; end_at: 2026-10-21T16:00:00.000Z; timezone: Europe/Warsaw; visibility: public; geo_address_visibility: guests-only; require_approval: true. Bring your laptop and work alongside the Superteam Poland crew. Meet local devs, designers, creatives, and Solana enthusiasts.",
-          "representation": "Public __NEXT_DATA__ field selection and description excerpts; retrieval date at day precision; exact address omitted"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:39.688Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/li/4ff41648-6621-41d8-b2bd-b1a5deea5cf3.png",
-        "fetchedAt": "2026-10-20T09:49:44.651Z",
-        "status": 200,
-        "local": "/events/luma-host-evt-evt-cgjasxd2tk5pxtq-b8eca81a.webp",
-        "sourceSha256": "897bff69a63005ccc2f272bd49052ecf9769cb3d8f21b5352d057e6e398ea127",
-        "sha256": "c0d87ad3b52894fe2119d6330ca1118314b9a3fe4bfe3596c009c7689469096c",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 123292
-      }
-    },
-    {
       "id": "luma-host-evt-evt-aIh5owwCOVedwMw",
       "name": "Superteam Poland Co-work: Kraków",
       "startDate": "2026-10-28T08:00:00.000Z",
@@ -5694,44 +5412,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 398066
-      }
-    },
-    {
-      "id": "w3v-arcade-day-2026",
-      "name": "Arkade Day 2026",
-      "startDate": "2026-10-21T07:30:00.000Z",
-      "endDate": "2026-10-21T17:30:00.000Z",
-      "timezone": "Europe/Zurich",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-RlTOv70RlEv9r4f",
-      "url": "https://luma.com/4usxgzkv",
-      "lane": "europe",
-      "reason": "Matching URL/name/date in source cache, absent runtime. Primary location is guests-only, overriding aggregator disclosure. Narrative says morning Capital Sessions is by application although ticket metadata currently says require_approval=false; flagged true conservatively for that track, with free public afternoon described separately.",
-      "evidence": [
-        {
-          "url": "https://luma.com/4usxgzkv",
-          "fetchedAt": "2026-10-20T08:06:25.545Z",
-          "excerpt": "api_id: evt-RlTOv70RlEv9r4f; start_at: 2026-10-21T07:30:00.000Z; end_at: 2026-10-21T17:30:00.000Z; timezone: Europe/Zurich; visibility: public; geo_address_visibility: guests-only. Capital Sessions, co-hosted by H100 and Ark Labs. Registration is by application, and the CHF 100 Capital Sessions ticket includes lunch and full-day access. The afternoon-only Builder Lab ticket is free.",
-          "representation": "Public __NEXT_DATA__ field selection and organizer description excerpts; exact location omitted"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:41.991Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/0f/608cce91-3f6b-4cc8-a380-d46be0c6de6c.png",
-        "fetchedAt": "2026-10-20T09:49:45.508Z",
-        "status": 200,
-        "local": "/events/w3v-arcade-day-2026-eec48a51.webp",
-        "sourceSha256": "65925bc42ba8e7da0dcfb9bb29fbf8c3fbdd061385c89312d5229d99f5b93bf8",
-        "sha256": "4fa74169b1ade53b4d9d1d35a3ec2261955e7bf39c6187d9baa7f731763447ba",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 224878
       }
     },
     {
@@ -6476,44 +6156,6 @@
       }
     },
     {
-      "id": "discovery-evt-rYg9kJJBZfME4d1",
-      "name": "Bitcoin For Merchants - Use Bitcoin For Your Business (Bali Bitcoin Island)",
-      "startDate": "2026-10-21T16:30:00+08:00",
-      "endDate": "2026-10-21T17:30:00+08:00",
-      "timezone": "Asia/Makassar",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-rYg9kJJBZfME4d1",
-      "url": "https://luma.com/j364pw04",
-      "lane": "asia-africa",
-      "reason": "No inventory match by URL, event ID or occurrence. Independently dated primary page; organizer website also lists the 21 October workshop. No future instances inferred from the monthly recurrence.",
-      "evidence": [
-        {
-          "url": "https://luma.com/j364pw04",
-          "fetchedAt": "2026-10-20T08:06:09.271Z",
-          "excerpt": "start_at=2026-10-21T08:30:00.000Z; end_at=2026-10-21T09:30:00.000Z; timezone=Asia/Makassar; visibility=public; geo_address_visibility=public. A Bitcoin Merchant onboarding session. Where? Bitcoin House Bali, Canggu. Point of Sale device, hardware wallets, mining devices, a library. Workshop in both English & Bahasa Indonesia. Public address: Jl. Kayu Manis, Canggu, Kuta Utara, Badung, Bali 80351.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:54.035Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/89/a8c30740-7f69-4f9c-88a3-4af727a0967f.jpg",
-        "fetchedAt": "2026-10-20T09:49:54.600Z",
-        "status": 200,
-        "local": "/events/discovery-evt-ryg9kjjbzfme4d1-0c35fe3c.webp",
-        "sourceSha256": "1f7e453e41f6b2a7403c9f7e8a80698ef08fe5b759a8e76927ef871c4a1c7588",
-        "sha256": "8e40c6f7d94f289ed89c0a4ad01d30a5790540c9250a07424eeef380a90e1b0f",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 119878
-      }
-    },
-    {
       "id": "discovery-evt-UhNfhuMgGZHqE7F",
       "name": "Bitcoin Indonesia Community Meetup Magelang 25 Oktober 2026",
       "startDate": "2026-10-25T14:00:00+07:00",
@@ -6897,45 +6539,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 94838
-      }
-    },
-    {
-      "id": "discovery-evt-LvRdeiNaeZflUIs",
-      "name": "What If Someone Tried to Create 1 million Extra Bitcoin? | Vadodara",
-      "startDate": "2026-10-21T11:30:00.000Z",
-      "endDate": "2026-10-21T13:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-LvRdeiNaeZflUIs",
-      "url": "https://luma.com/gxc30cgz",
-      "lane": "india",
-      "reason": "No event-ID, normalized-URL or name/date match in any inventory collection or tombstone. Current organizer calendar and primary page agree on October 21, superseding the older directory's October 17 lead.",
-      "evidence": [
-        {
-          "url": "https://luma.com/gxc30cgz",
-          "fetchedAt": "2026-10-20T08:58:08.884Z",
-          "excerpt": "Vadodara Bitcoin Meetup #9. Miners produce blocks, but full nodes independently verify them. Topics: 21 million limit, proof of work, difficulty adjustment, rejecting violations of consensus rules. start_at 2026-10-21T11:30:00.000Z; end_at 2026-10-21T13:30:00.000Z; Asia/Kolkata; visibility public; geo_address_visibility guests-only; require_approval false. Cover supplied in event.cover_url.",
-          "sha256": "a796d63331b804bcbffe2f650b3e07cf5f0e1f9ff235b0e057f7c6f79731f3d2",
-          "representation": "HTTP response HTML and public embedded event data; hidden address omitted"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:03.190Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/c6/5c9a8ae9-efa8-4391-8386-7cdfbcdf2a28.png",
-        "fetchedAt": "2026-10-20T09:50:01.848Z",
-        "status": 200,
-        "local": "/events/discovery-evt-lvrdeinaezfluis-527d9960.webp",
-        "sourceSha256": "c4f583468c3a30942f10ec1985eca8b1ba0e1f462029da6dae22279be63e33c4",
-        "sha256": "e56c34a26661f8496285dda6779dc5f765bb283909e0ab063bf07da40c29c2f7",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 300592
       }
     },
     {
@@ -8087,27 +7690,6 @@
       ]
     },
     {
-      "url": "https://www.eventbrite.com/e/ethvenice-2026-tickets-1990667672596",
-      "id": "w3v-ethvenice-2026",
-      "reason": "Homepage and source cache say 2026-10-21, while the organizer-linked ticket page says 2026-12-05 and EventPostponed. Do not silently choose or restore either date. Homepage also has unrelated template agenda content.",
-      "lane": "global",
-      "evidence": [
-        {
-          "url": "https://ethvenice.com/",
-          "fetchedAt": "2026-10-20",
-          "excerpt": "Ethereum & Web3 Conference. 21 oct’26. Isola di San Servolo, 1, Venice, Italy. Grab Ticket links to Eventbrite event 1990667672596.",
-          "representation": "Organizer homepage, webfetch Markdown"
-        },
-        {
-          "url": "https://www.eventbrite.com/e/ethvenice-2026-tickets-1990667672596",
-          "fetchedAt": "2026-10-20T08:10:37.130Z",
-          "excerpt": "Postponed. ETHVenice 2026. Saturday, December 5. Event JSON-LD: eventStatus https://schema.org/EventPostponed; startDate 2026-12-05; endDate 2026-12-05.",
-          "sha256": "4dde85d6db0c61052f3198d3d9d689e330e4c9509b9712ab7bc7e08bb783a3c7",
-          "representation": "HTTP response HTML and BusinessEvent JSON-LD"
-        }
-      ]
-    },
-    {
       "url": "https://smartcon.chain.link/",
       "id": "premier-smartcon-2026",
       "reason": "Cached 2026-10-28 to 2026-10-29 edition is contradicted by explicit organizer statement that SmartCon will not take place in 2026. Link:NYC is a separate identity.",
@@ -8583,27 +8165,6 @@
           "excerpt": "CryptoMondays Medellin; evt-GkrhQMBoyDiLQDQ; 2026-11-09T22:30:00.000Z to 2026-11-10T00:00:00.000Z; America/Bogota; public, open, approval true. Obfuscated public city Bolivar, Colombia; geo_address_visibility guests-only. Description says Medellín and schedules Protecting Your Crypto: Practical Wallet Security from 6:00–6:20 PM.",
           "sha256": "dad657b83194e354fd7d5f6b81076a635907b7853197c2f2d952a476bccab7a5",
           "representation": "html; __NEXT_DATA__ and conflicting city text; private address excluded"
-        }
-      ]
-    },
-    {
-      "url": "https://www.eventbrite.com/e/ethvenice-2026-tickets-1990667672596",
-      "id": "w3v-ethvenice-2026",
-      "reason": "Known source identity is unpublished. Organizer homepage still gives October 21, 2026, but its linked current Eventbrite page explicitly marks EventPostponed and gives December 5, 2026. Do not restore the cached October date or publish the replacement date until postponement is clarified.",
-      "lane": "europe",
-      "evidence": [
-        {
-          "url": "https://ethvenice.com/",
-          "fetchedAt": "2026-10-20",
-          "excerpt": "Ethereum & Web3 Conference. 21 oct’26. Isola di San Servolo, 1, Venice, Italy. Grab Ticket links to https://www.eventbrite.com/e/ethvenice-2026-tickets-1990667672596.",
-          "representation": "Public organizer homepage text/link excerpts via webfetch; retrieval date at day precision"
-        },
-        {
-          "url": "https://www.eventbrite.com/e/ethvenice-2026-tickets-1990667672596",
-          "fetchedAt": "2026-10-20T08:04:15.952Z",
-          "excerpt": "name: ETHVenice 2026; eventStatus: https://schema.org/EventPostponed; startDate: 2026-12-05; endDate: 2026-12-05. Visible heading: Saturday, December 5. Join the 4th edition in the beautiful San Servolo Island (Venice).",
-          "sha256": "4dde85d6db0c61052f3198d3d9d689e330e4c9509b9712ab7bc7e08bb783a3c7",
-          "representation": "Public Eventbrite HTML and BusinessEvent JSON-LD excerpts; SHA-256 of fetched HTML"
         }
       ]
     },
@@ -9200,12 +8761,6 @@
       "url": "https://bitcoinhistorico.com/",
       "id": "premier-bitcoinhistorico",
       "reason": "Already active as premier-bitcoinhistorico. Organizer confirms the current November 11–12 dates; no second conference identity needed.",
-      "lane": "americas"
-    },
-    {
-      "url": "https://luma.com/2nrn1c75",
-      "id": "luma-batch-evtycWrx5n01IFcf",
-      "reason": "Already active with the same event ID, URL and dates.",
       "lane": "americas"
     },
     {
@@ -10891,12 +10446,6 @@
       "lane": "europe"
     },
     {
-      "url": "https://www.meetup.com/bitcoin-lab-berlin/events/312264805/",
-      "result": "verified-new",
-      "note": "Bitcoin am Holzmarkt, October 21. Explicit source dates and public venue.",
-      "lane": "europe"
-    },
-    {
       "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316962667/",
       "result": "verified-new",
       "note": "November 2 workshop specifically covers Bitcoin inheritance.",
@@ -10912,12 +10461,6 @@
       "url": "https://www.meetup.com/bitdevs-amsterdam/events/316893847/",
       "result": "verified-new",
       "note": "Independent Socratic seminar at SugarFactory. Organizer explicitly says no conference ticket is required.",
-      "lane": "europe"
-    },
-    {
-      "url": "https://www.meetup.com/duc-bitcoin-meetup-paris/events/316413134/",
-      "result": "verified-new",
-      "note": "October 21 Montmartre meetup with Bitcoin news and wallet-security help.",
       "lane": "europe"
     },
     {
@@ -11059,12 +10602,6 @@
       "lane": "europe"
     },
     {
-      "url": "https://luma.com/co-work37",
-      "result": "existing-unpublished",
-      "note": "Same Luma ID and October 21 date in sources; absent runtime. Approval and hidden venue preserved.",
-      "lane": "europe"
-    },
-    {
       "url": "https://luma.com/co-work38",
       "result": "existing-unpublished",
       "note": "Same Luma ID and October 28 date in sources; absent runtime. Separate published occurrence, not extrapolated recurrence.",
@@ -11074,12 +10611,6 @@
       "url": "https://luma.com/coworking-fridays-belgrade",
       "result": "existing-unpublished-update",
       "note": "Reused Luma ID now shows October 23; source record still September 25. Update existing identity rather than insert a new one.",
-      "lane": "europe"
-    },
-    {
-      "url": "https://luma.com/4usxgzkv",
-      "result": "existing-unpublished",
-      "note": "Arkade Day source record exists. Primary guests-only location overrides aggregator venue; narrative requires application for morning Capital Sessions even though ticket metadata says false.",
       "lane": "europe"
     },
     {
@@ -11548,12 +11079,6 @@
       "url": "https://bitcoinindonesia.xyz/events/",
       "result": "organizer-corroboration",
       "note": "Redirected to community/bitcoin-indonesia-events/. Corroborates October/November listings and links Eventbrite. Longer recurring series through later years were not expanded without individual-page verification.",
-      "lane": "asia-africa"
-    },
-    {
-      "url": "https://luma.com/j364pw04",
-      "result": "verified-new",
-      "note": "21 October Bali merchant onboarding workshop; public venue and dates.",
       "lane": "asia-africa"
     },
     {
@@ -12322,12 +11847,6 @@
       "url": "https://luma.com/4s9s062i",
       "result": "verified-new",
       "note": "Canton, Ledger and OpenZeppelin Builders Evening, November 5, 16:00-19:00 IST. Public reviewed applications; speakers and keynote topics still unannounced.",
-      "lane": "india"
-    },
-    {
-      "url": "https://luma.com/gxc30cgz",
-      "result": "verified-new",
-      "note": "Vadodara Bitcoin Meetup #9, October 21, 17:00-19:00 IST. Old directory says October 17; current organizer calendar and registration agree on October 21.",
       "lane": "india"
     },
     {

@@ -1065,36 +1065,6 @@
     }
   },
   {
-    "id": "luma-batch-evtyRjNoO6i0QmUp",
-    "slug": "8rc030km",
-    "name": "LME After-Hours: Mid-Week Mixer",
-    "description": "Join FinkaMetals, CoreLedger, Swiss Subnet, and S-PRO for an informal evening in Mayfair during LME Week.\n\nThis exclusive, invitation-only gathering brings together a select group of industry leaders to connect and discuss the future of metals trading and finance in a relaxed setting.\n\nFour companies, one platform: FinkaMetals brings the trading infrastructure for physical commodities; CoreLedger contributes the tokenization engine already powering asset-backed instruments across mining and industrial commodities; Swiss Subnet provides the sovereign Swiss cloud infrastructure it all runs on; and S-PRO is the engineering partner building it.\n\nJoin us for this first look at the new FinkaMetals platform, ahead of the official Q4 launch.\n\nEvent Details:\n\nDate: Wednesday, 21 October 2026\n\nTime: From 6:00 PM\n\nVenue: The Wellington Lounge, Intercontinental Hotel, Mayfair, London\n\nWe look forward to welcoming you!",
-    "startDate": "2026-10-21T17:00:00.000Z",
-    "endDate": "2026-10-21T19:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Wellington Lounge at InterContinental London Park Lane, Wellington Lounge at InterContinental London Park Lane, 1 Hamilton Pl, London W1J 7QY, UK",
-    "url": "https://luma.com/8rc030km",
-    "registrationUrl": "https://luma.com/8rc030km",
-    "coverImage": "/events/luma-batch-evtyRjNoO6i0QmUp-74c938ef.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "Europe/London",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/8rc030km",
-      "eventId": "evt-yRjNoO6i0QmUp7A",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtSK22Vhvj9z3xv",
     "slug": "8q6nb4mw",
     "name": "WEB FLEA",
@@ -1618,36 +1588,6 @@
     ]
   },
   {
-    "id": "luma-batch-evtycWrx5n01IFcf",
-    "slug": "2nrn1c75",
-    "name": "Bitcoin & Brews Port Moody",
-    "description": "Bitcoin & Brews — Port Moody\n\nBitcoin. Beer. Good people.\n\nJoin us at Brave Brewing Co. for a casual monthly meetup for Bitcoiners across Port Moody, the Tri-Cities, Vancouver and beyond.\n\nWhether you’ve been running a node for years or you’re still trying to figure out what the hell a satoshi is, you’re welcome here.\n\nNo presentations. No sales pitches. No crypto hype.\n\nJust beers and good conversation about Bitcoin, self-custody, mining, privacy, adoption, markets, technology, and whatever else is happening in the Bitcoin world.\n\nCome meet other local Bitcoiners, swap ideas, ask questions, and have a pint with people who actually enjoy talking about this stuff.\n\nNewcomers are absolutely welcome.\n\n⚡ Bitcoin only\n\n🍺 Brave Brewing Co., Port Moody\n\n🤝 Free to attend — just grab yourself a drink\n\nSee you there.",
-    "startDate": "2026-10-14T02:00:00.000Z",
-    "endDate": "2026-10-14T04:00:00.000Z",
-    "city": "Port Moody",
-    "country": "Canada",
-    "location": "Brave Brewing Co., Brave Brewing Co., 2617 Murray St, Port Moody, BC V3H 1X1, Canada",
-    "url": "https://luma.com/2nrn1c75",
-    "registrationUrl": "https://luma.com/2nrn1c75",
-    "coverImage": "/events/luma-batch-evtycWrx5n01IFcf-604867a0.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Vancouver Bitcoin"
-    ],
-    "price": "Free",
-    "timezone": "America/Vancouver",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/2nrn1c75",
-      "eventId": "evt-ycWrx5n01IFcfSP",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evt9rZ1FUZA2dW4u",
     "slug": "2n764jm8",
     "name": "Aprende a usar Bitcoin desde cero",
@@ -1702,66 +1642,6 @@
     "sourceVerification": {
       "url": "https://luma.com/web3devs-tz30",
       "eventId": "evt-8I0lRm1lzJXpEu3",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtaVuHzMqExnGSR",
-    "slug": "dt73awy1",
-    "name": "Money20/20 Happy Hour",
-    "description": "We're excited to welcome leaders from across fintech, payments, and stablecoins to join us over an open bar and small bites.\n\nAccess operates on a first come, first serve basis.\n\nApproved RSVP is required for entry.\n\nAbout Turnkey | https://www.turnkey.com/\n\nTurnkey provides secure, scalable, and programmable infrastructure for embedded wallets and onchain transaction automation. Create wallets, execute transactions, and manage policies – all with one flexible API.\n\nAbout Lightspark | https://www.lightspark.com\n\nLightspark is the open infrastructure for moving money worldwide. One integration to send, receive, hold, spend, and convert money in any currency, fiat or stablecoin, across 65+ countries. With Global Accounts, any business gives its users a dollar account and keeps the economics of every transaction. Follow on X @lightspark.",
-    "startDate": "2026-10-21T00:30:00.000Z",
-    "endDate": "2026-10-21T03:30:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "Las Vegas, Nevada, United States",
-    "url": "https://luma.com/dt73awy1",
-    "registrationUrl": "https://luma.com/dt73awy1",
-    "coverImage": "/events/luma-batch-evtaVuHzMqExnGSR-d52994d6.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Turnkey & Lightspark"
-    ],
-    "price": "Free",
-    "timezone": "America/Vancouver",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/dt73awy1",
-      "eventId": "evt-aVuHzMqExnGSREC",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtGnX3Bt3QfsZya",
-    "slug": "qg80sbib",
-    "name": "On the House with Privy & Bridge",
-    "description": "Join Bridge & Privy on Tuesday night during Money20/20 for drinks, light bites, and great conversation.\n\nWe’re bringing together payments and fintech leaders, Web3 operators, and industry peers for a laid-back evening at HaSalon.\n\nSpace is limited. RSVP to reserve your spot.\n\nBridge, a Stripe company, builds stablecoin infrastructure that helps developers move money globally with speed and simplicity.\n\nPrivy, a Stripe company, provides secure, scalable onboarding and wallet infrastructure for leading applications built on crypto rails, powering 120M+ accounts across 1,800+ apps. drinks, light bites, and great conversation.\n\n## Event details\n\nOrganized by Privy. Venue: HaSalon Las Vegas, HaSalon Las Vegas, Palazzo side of the Venetian Resort, 3325 S Las Vegas Blvd, Las Vegas, NV 89109, USA. Tickets: Free.",
-    "startDate": "2026-10-21T00:30:00.000Z",
-    "endDate": "2026-10-21T03:30:00.000Z",
-    "city": "Las Vegas",
-    "country": "United States",
-    "location": "HaSalon Las Vegas, HaSalon Las Vegas, Palazzo side of the Venetian Resort, 3325 S Las Vegas Blvd, Las Vegas, NV 89109, USA",
-    "url": "https://luma.com/qg80sbib",
-    "registrationUrl": "https://luma.com/qg80sbib",
-    "coverImage": "/events/luma-batch-evtGnX3Bt3QfsZya-8fb52bc5.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Privy"
-    ],
-    "price": "Free",
-    "timezone": "America/Los_Angeles",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/qg80sbib",
-      "eventId": "evt-GnX3Bt3QfsZyawD",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"
@@ -1912,36 +1792,6 @@
     "sourceVerification": {
       "url": "https://luma.com/1iz4oj05",
       "eventId": "evt-kjs8TqedAzt4J0Z",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtGMos7F0qQNyQF",
-    "slug": "cc07mr08",
-    "name": "金融機構數位資產實務轉型 Presented by TAAS - 年度系列講座 (五) 從 API 到操作流程：金融機構如何串接數位資產基礎設施",
-    "description": "【金融機構數位資產實務轉型】系列講座\n\nPractical Transformation of Digital Assets for Financial Institutions Presented by TAAS\n\n系列講座（五）Forum 05｜從 API 到操作流程：金融機構如何串接數位資產基礎設施\n\nAbout This Forum\n\n當安全架構確立後，金融機構下一步需要面對的是系統與流程的整合：數位資產基礎設施應如何與既有金融系統接軌。\n\n數位資產並非獨立運作，而是需要與核心銀行系統、風控系統、帳務系統與內部流程整合。從 API 串接、交易流程設計、權限控管，到跨部門協作，都是導入過程中的關鍵挑戰。\n\n本場將從實務角度出發，說明金融機構在導入數位資產時，如何設計系統串接與操作流程，並整理導入過程中常見的整合問題與解決方式，協助機構建立可實際運作的架構。\n\nKey Topics\n\n數位資產基礎設施的系統架構\n\nAPI 串接與核心系統整合\n\n交易流程與操作流程設計\n\n跨部門協作與內部流程整合\n\nWhat You’ll Gain\n\n系統整合與流程設計的基本理解\n\nAPI 與內部系統串接的關鍵考量\n\n可用於內部導入討論的實務架構\n\nSuggested Audience\n\n銀行（IT / Security / Risk / Digital Banking）\n\n金控與資產管理機構\n\n金融科技與系統整合商\n\n企業 treasury / 財務相關部門\n\nSpeakers\n\nHost / Opening Remarks\n楊曜陽 - TAAS 踏實數位 共同創辦人\n\nFeatured Speakers\nTBD\nTBD\nTBD\n\nPanel / Discussion Guests\nTBD\nTBD\n\n*講者資訊將陸續公布。\n\nAgenda\n\n14:00 – 14:30｜報到 Registration & Networking\n14:30 – 14:35｜開場 Opening Remarks\n14:35 – 15:05｜Session 1\n15:05 – 15:25｜Session 2  Case Sharing\n15:25 – 15:55｜Discussion  Q&A\n15:55 – 17:00｜Networking\n\n*實際流程將依講者與議程安排調整。\n\nOrganizer\n\nTAAS\nTAAS（Treasury as a Service）致力於構建數位資產時代的企業級財庫管理基礎設施。透過深度整合資產託管（Custody）、穩定幣支付結算（Settlement）、跨境資金流管理（Cross-border）與即時數據審計，我們為全球企業與金融機構提供一套合規、安全且具備高度擴展性的資本運作系統 。 TAAS 不僅是連接傳統金融與區塊鏈網路的戰略中樞 ， 更賦能企業在變動的數位環境中，建立穩健且可持續的數位資產戰略儲備與財務管理能力 。\n\nPartners\n\nBitGo\nBitGo 是首屈一指的數位資產解決方案基礎設施供應商，自 2013 年成立以來深受各大機構信賴。提供機構級託管、安全與錢包架構相關專業支援，參與託管、MPC、多重簽名、資產隔離等議題分享，提供金融機構可理解的基礎設施與落地觀點，並支援後續技術與架構層交流。\n\nCapital Layer\nCapital Layer 是亞洲機構金融的穩定幣基礎設施層，為銀行、系統整合商與金融機構提供合規穩定幣營運所需的模組化平台。將託管、合規、私鑰管理與結算協調整合於單一層級，讓機構不用重建底層工程，就能合法合規地向企業客戶推出數位資產服務。\n\n敦陽科技\n敦陽科技股份有限公司 (Stark Technology, Inc., STI) 是台灣最大的國內系統整合商，我們為超過 2,000 家客戶提供完整的資訊與通訊技術 (ICT) 產品系統整合服務。身為台灣 500 大服務企業之一，我們透過代理和經銷全球頂尖的產品，為各種產業規劃及提供完整的 ICT 解決方案。我們是台灣的公共系統整合商中最穩健且財力最雄厚的公司之一，也是眾人眼中的典範。\n\n紅樓資本\n紅樓資本（Red Building Capital）是台灣首家深耕區塊鏈技術與 Web3.0 的風險投資公司，以 Venture Studio 為核心定位，除了佈局 Sui 生態系、DeFi 及鏈上金融等前瞻領域，更深度參與項目的早期構思與國際募資。紅樓不僅提供股權與代幣投資，更整合法律諮詢、營銷策略及全球資源，透過資源協同效應協助團隊從在地走向國際，全方位提升項目的商業價值。\n\nAbout the Program\n\n隨著台灣數位資產相關專法與監管架構逐步發展，金融機構面對的已不只是新市場機會，而是如何在既有法遵、風控與內控制度下，重新理解數位資產在金融體系中的定位與可行性。\n\n數位資產的影響，已逐步從市場與投資層面，延伸到制度、託管、安全、支付清算、資產儲備、合規監控與金融產品設計等實務層面。對金融機構而言，真正需要面對的問題包括：\n\n專法與制度發展將如何影響金融機構進入數位資產市場的方式\n\n機構應如何在既有法遵、風控與內控制度下承接數位資產\n\n穩定幣是否將改變未來支付與清算模式\n\n託管、安全與資產隔離應採取何種機構級架構\n\nDAT 與資產代幣化是否會成為未來金融機構資產配置與產品設計的一部分\n\n因此，本系列以一年期規劃，透過四大主題、十二場論壇，建立一條從制度理解、基礎設施設計、支付清算應用，到資產儲備與產品延伸的完整路徑，讓金融機構不只理解趨勢，更能在一年內形成實際的評估與導入框架。\n\nProgram Purpose\n\n本系列講座的目的包括：\n\n協助台灣金融機構系統性理解數位資產實務轉型的完整架構，從制度、基礎設施到應用層建立整體認知\n\n結合台灣數位資產相關法規與專法發展方向，協助金融機構在既有監管與內控制度下，理解數位資產業務的可行範圍與導入條件\n\n讓參與機構掌握專法、合規、託管、安全、穩定幣、DAT 與資產代幣化等議題的實際導入邏輯，而非僅停留於市場概念\n\n建立金融機構跨部門共同語言，作為策略、法遵、風控、產品與 IT 部門之間的討論基礎\n\n以年度系列講座形式，作為金融機構內部教育訓練與產業知識普及的一環，降低組織導入新型金融基礎設施時的認知落差\n\n提供金融機構從理解、評估到實務規劃的持續交流平台\n\n為後續顧問導入、基礎設施合作、產品設計與商務延伸建立基礎\n\nProgram Positioning\n\n本系列論壇並非泛市場型的加密活動，而是專為金融機構設計的年度實務轉型企劃，同時定位為一套結合台灣金融監管脈絡之教育訓練與產業知識普及機制。\n\n整體內容圍繞三條主線展開：\n\nDAT｜數位資產儲備與配置策略\n 回應金融機構與企業財務在資產負債表、儲備資產與配置策略上的新需求。\n\nStablecoin｜支付、清算與資金流轉\n 回應穩定幣對跨境支付、清算效率與資金管理所帶來的改變。\n\nCustody｜機構級託管與安全基礎設施\n 回應金融機構在導入數位資產時，對託管、安全、合規與操作流程的需求。\n\nSeries Structure\n\n本系列共分為四大主題、十二場論壇：\n\n主題一｜制度與專法\n\n聚焦制度位置、專法發展、責任邊界與合規要求，建立進場前判斷框架。\n\nForum 01｜專法上路前後：金融機構如何理解數位資產的制度位置\n\nForum 02｜合格託管的角色：金融機構應自建、外包，還是混合架構\n\nForum 03｜KYC、AML 與鏈上合規：數位資產風控如何落地\n\n主題二｜託管與安全底層\n\n聚焦託管、安全、授權與系統整合，建立機構級安全與操作架構。\n\nForum 04｜MPC、多重簽名與機構級數位資產安全架構\n\nForum 05｜從 API 到操作流程：金融機構如何串接數位資產基礎設施\n\nForum 06｜資產隔離、保險與法律保護：機構級託管的風險結構\n\n主題三｜DAT、RWA 與導入路徑\n\n聚焦資產配置、產品設計與實際導入，讓全年內容收斂為可執行方向。\n\nForum 07｜DAT：金融機構與企業財務的數位資產儲備策略\n\nForum 08｜資產代幣化（RWA）與金融產品設計\n\nForum 09｜從理解到導入：金融機構數位資產轉型的下一步\n\n主題四｜穩定幣、支付與清算實務\n\n聚焦穩定幣如何從概念進入支付、跨境資金流與清算實務。\n\nForum 10｜穩定幣發行架構：金融機構可以扮演什麼角色\n\nForum 11｜跨境支付與 24/7 清算：穩定幣如何改變資金流動\n\nForum 12｜儲備機制、透明度與市場信任：穩定幣如何被金融機構接受\n\n*本頁為系列第四場，屬於 主題二｜託管與安全底層。\n\nEvent Notes\n\n本活動採邀請制／審核制，主辦單位保留報名審核、名單確認與最終參與資格之權利。\n\n報名成功會收到 QR Code，活動當日請憑此入場。\n\n為維持現場交流品質，名額有限，額滿後將停止受理。\n\n活動現場將可能進行攝影、錄影、錄音與活動紀錄。報名並出席即視為同意主辦及合作單位於活動紀錄、網站、社群媒體、媒體露出、成果彙整與後續宣傳中合理使用相關影像與照片。\n\n若您對影像使用有特殊需求，請於活動前主動與主辦單位聯繫。\n\n活動內容以教育訓練、知識普及與產業交流為目的，不構成任何投資建議、銷售要約、法律意見或保證。\n\n為保障與會者交流品質，請勿未經同意錄音、錄影、直播或轉載講者與與會者分享內容。\n\n主辦單位保留調整議程、講者、時間、場地與活動形式之權利，如有異動將另行通知。\n\n參與者應遵守現場秩序與主辦單位安排；如有影響活動進行之情形，主辦單位得視情況取消其參與資格。",
-    "startDate": "2026-10-21T06:00:00.000Z",
-    "endDate": "2026-10-21T09:00:00.000Z",
-    "city": "Xinyi District",
-    "country": "Taiwan",
-    "location": "Beone: Farglory Co-Living Hub, Beone: Farglory Co-Living Hub, B1, No. 200號, Section 1, Keelung Rd, Xinglong Village, Xinyi District, Taipei City, Taiwan 110",
-    "url": "https://luma.com/cc07mr08",
-    "registrationUrl": "https://luma.com/cc07mr08",
-    "coverImage": "/events/luma-batch-evtGMos7F0qQNyQF-5f924db2.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "TAAS 踏實數位"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Taipei",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/cc07mr08",
-      "eventId": "evt-GMos7F0qQNyQFPR",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

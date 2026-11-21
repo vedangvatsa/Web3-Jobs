@@ -2388,22 +2388,6 @@
       "applied": false
     },
     {
-      "id": "luma-batch-evtaVuHzMqExnGSR",
-      "url": "https://luma.com/dt73awy1",
-      "fetchedAt": "2026-10-19T20:14:17.486Z",
-      "sourceEventId": "evt-aVuHzMqExnGSREC",
-      "sourceName": "Money20/20 Happy Hour",
-      "sourceStartDate": "2026-10-21T00:30:00.000Z",
-      "sourceEndDate": "2026-10-21T03:30:00.000Z",
-      "sourceTimezone": "America/Vancouver",
-      "sha256": "7c5d576bfe55d0c2644f680c09e29e10ce820e10f5d622c82fd39df73085be85",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Money20/20 Happy Hour",
-      "applied": false
-    },
-    {
       "id": "luma-batch-hPFyfHyof2hYVIp",
       "url": "https://luma.com/kv670yys",
       "fetchedAt": "2026-10-19T20:14:18.189Z",

@@ -9,12 +9,6 @@
       "gll"
     ]
   },
-  "luma-batch-evtycWrx5n01IFcf": {
-    "slug": "bitcoin-brews-port-moody",
-    "aliases": [
-      "2nrn1c75"
-    ]
-  },
   "luma-batch-W4GEoKovBqnA6lm": {
     "slug": "exchange1-trading-thursday-mumbai",
     "aliases": [
@@ -29,30 +23,6 @@
     "slug": "islanddao-v5",
     "aliases": [
       "6laijuyn"
-    ]
-  },
-  "luma-batch-evtaVuHzMqExnGSR": {
-    "slug": "money2020-happy-hour",
-    "aliases": [
-      "dt73awy1"
-    ]
-  },
-  "luma-batch-evtGnX3Bt3QfsZya": {
-    "slug": "on-the-house-privy-bridge",
-    "aliases": [
-      "qg80sbib"
-    ]
-  },
-  "luma-batch-evtGMos7F0qQNyQF": {
-    "slug": "taas-digital-asset-infrastructure-seminar",
-    "aliases": [
-      "cc07mr08"
-    ]
-  },
-  "luma-batch-evtyRjNoO6i0QmUp": {
-    "slug": "lme-after-hours-mixer",
-    "aliases": [
-      "8rc030km"
     ]
   },
   "luma-batch-OZx1friXAoHVZKN": {
@@ -1173,42 +1143,6 @@
     "aliases": [
       "perps-and-chai-hyprearn-mumbai"
     ]
-  },
-  "discovery-evt-XzdNZYQvs1Okah0": {
-    "slug": "20-20-vision-solana-x-huma-happy-hour",
-    "aliases": []
-  },
-  "mu-316790235": {
-    "slug": "crypto-clubhouse-privacy-tap-gotv-trivia-giveaways-6-9pm-goat",
-    "aliases": []
-  },
-  "luma-host-evt-evt-CgjAsxd2TK5PXtq": {
-    "slug": "superteam-poland-co-work-krakow-2026-10-21",
-    "aliases": []
-  },
-  "w3v-arcade-day-2026": {
-    "slug": "arkade-day",
-    "aliases": []
-  },
-  "discovery-evt-rYg9kJJBZfME4d1": {
-    "slug": "bitcoin-merchants-use-bitcoin-your-business-bali-bitcoin-island-2026-10-21",
-    "aliases": []
-  },
-  "discovery-evt-LvRdeiNaeZflUIs": {
-    "slug": "what-if-someone-tried-create-1-million-extra-bitcoin-vadodara",
-    "aliases": []
-  },
-  "mu-316413134": {
-    "slug": "duc-bitcoin-paris-montmartre",
-    "aliases": []
-  },
-  "discovery-evt-UMNVKyy1Q3q7JgE": {
-    "slug": "community-roundtable-2026-10-21",
-    "aliases": []
-  },
-  "mu-312264805": {
-    "slug": "bitcoin-am-holzmarkt-stammtisch",
-    "aliases": []
   },
   "discovery-evt-xcJ3hkBPmdfgdHm": {
     "slug": "21meetup-octubre",
