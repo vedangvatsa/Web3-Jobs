@@ -165060,7 +165060,8 @@
       },
       "account": "channel:ai",
       "attemptId": "184545b4-28fc-41d1-b3f7-3ac02ee2f447",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x597b46ae48c3237b66faff39233ad9b697a1dc98"
     }
   ]
 }
