@@ -658,5 +658,36 @@
     "slotKey": "2026-11-21:afternoon",
     "messageId": 156422,
     "sentAt": "2026-11-21T14:11:23.394Z"
+  },
+  "aa61e907-c1f2-4a8a-a53e-53d6f6246f06": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T23:53:51.838Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "US Senate Passes Bill Prohibiting War and Death Bets",
+        "summary": "Passed by voice vote, the legislation bars CFTC-registered platforms from offering contracts linked to terrorism and assassination.",
+        "link": "https://hashtagweb3.com/deathbets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Senate passes DEATH BETS Act banning prediction market bets on war and death"
+      },
+      {
+        "index": -1,
+        "headline": "MAS Settles S$100 Million Tokenized Bills With Wholesale CBDC",
+        "summary": "The Singaporean authority issued four-week bills on November 6 and renamed its test network SG Digital Ledger.",
+        "link": "https://hashtagweb3.com/masbills?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MAS settles S$100 million tokenised bill sale with wholesale CBDC"
+      },
+      {
+        "index": -1,
+        "headline": "Payward to Acquire Venture Firm Tribe Capital",
+        "summary": "The deal for the $2.7 billion asset manager is expected to close in early 2027 with undisclosed terms.",
+        "link": "https://hashtagweb3.com/krakentribe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Payward agrees to buy Tribe Capital in private-markets push"
+      }
+    ],
+    "slotKey": "2026-11-21:evening"
   }
 }
