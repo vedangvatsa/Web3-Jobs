@@ -834,5 +834,52 @@
     "slotKey": "2026-11-19:evening",
     "messageId": 156355,
     "sentAt": "2026-11-19T19:33:08.583Z"
+  },
+  "5dc03fe8-c927-42a4-9731-9be8632b05e9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T14:06:06.252Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-hnip3uc9",
+        "slug": "born-up-binance-blockchain-week-bangkok-meetup",
+        "name": "BORN UP - Binance Blockchain Week Bangkok Community Networking Meetup",
+        "startDate": "2026-11-28T04:30:00.000Z",
+        "keys": [
+          "luma-hnip3uc9",
+          "page:born-up-binance-blockchain-week-bangkok-meetup:2026-11-28",
+          "luma-url:/hnip3uc9",
+          "event:bornupbinanceblockchainweekbangkokcommunitynetworkingmeetup:2026-11-28:bangkok"
+        ]
+      },
+      {
+        "id": "luma-crypto-HahQeJg37w2MkyA",
+        "slug": "touch-gras",
+        "name": "Touch Grass: Web3 Creators × Founders",
+        "startDate": "2026-11-28T08:30:00.000Z",
+        "keys": [
+          "luma-crypto-hahqejg37w2mkya",
+          "page:touch-gras:2026-11-28",
+          "luma:evt-hahqejg37w2mkya",
+          "luma-url:/sw7x7fym",
+          "event:touchgrassweb3creatorsfounders:2026-11-28:bangkok"
+        ]
+      },
+      {
+        "id": "premier-binancebw-2026",
+        "slug": "binance-blockchain-week",
+        "name": "Binance Blockchain Week 2026",
+        "startDate": "2026-11-28T09:00:00.000Z",
+        "keys": [
+          "premier-binancebw-2026",
+          "bbw",
+          "page:binance-blockchain-week:2026-11-28",
+          "url:binanceblockchainweek.com/event/Bangkok2026/Home:2026-11-28",
+          "event:binanceblockchainweek2026:2026-11-28:bangkok"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-21:afternoon"
   }
 }
