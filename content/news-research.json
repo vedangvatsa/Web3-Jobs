@@ -200275,7 +200275,27 @@
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
       "attempts": 0,
       "expiresAt": "2026-11-22T22:29:45.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "articleSlug": "vaneckgemini",
+      "draftProgress": {
+        "id": "05711df7dfd5676fc154",
+        "day": "2026-11-21",
+        "articleSlug": "vaneckgemini",
+        "note": "Read Crypto Briefing and Cointelegraph in full; drafting now.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/solana-contract-vaneck-etf-gemini-termination-2026-11/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-21T01:15:29.660Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d52cb05e132a74966278": {
       "source": "BeInCrypto",
