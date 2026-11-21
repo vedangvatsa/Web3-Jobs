@@ -163184,7 +163184,8 @@
       },
       "account": "channel:founders",
       "attemptId": "159053e2-e445-42fe-b94c-8e46afc5510a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5cd08f0f091e0b488a42c3c386f3dbf92c1292a1"
     }
   ]
 }
