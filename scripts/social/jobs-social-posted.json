@@ -163040,7 +163040,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "431c41d7-a41d-49b3-a662-e460e5d92944",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x33064838e473087cf749069c8d90282741f5d221"
     }
   ]
 }
