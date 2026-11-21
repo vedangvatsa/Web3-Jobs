@@ -762,5 +762,40 @@
     "slotKey": "2026-11-21:afternoon",
     "messageId": 193557,
     "sentAt": "2026-11-21T14:08:41.495Z"
+  },
+  "73b1d601-6748-4c03-a1b7-c2abc246dead": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T23:54:08.031Z",
+    "stories": [
+      {
+        "index": 11,
+        "original_title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+        "headline": "Anthropic uses Claude model to prove Riemann hypothesis",
+        "summary": "A researcher utilized artificial intelligence to generate a quarter-million-page formal proof for mathematics' oldest open problem.",
+        "event_rationale": "Covers a major scientific research breakthrough using AI math reasoning, distinct from model launches and corporate events.",
+        "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+        "source": "The Decoder",
+        "originalTitle": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft"
+      },
+      {
+        "index": 29,
+        "original_title": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+        "headline": "Nvidia releases Nemotron-Labs-Sigma open diffusion models",
+        "summary": "The open-source checkpoints decode text over four times faster than traditional autoregressive language models.",
+        "event_rationale": "Covers Nvidia's open-source release of continuous diffusion text generation models, distinct from proprietary software releases and financial news.",
+        "link": "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+        "source": "MarkTechPost",
+        "originalTitle": "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B"
+      },
+      {
+        "index": 2,
+        "headline": "Signal restricts screenshots on Android and iOS apps",
+        "summary": "The privacy-focused messaging platform limited screen captures to protect user data from potential AI monitoring.",
+        "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "source": "TechCrunch",
+        "originalTitle": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance"
+      }
+    ],
+    "slotKey": "2026-11-21:evening"
   }
 }
