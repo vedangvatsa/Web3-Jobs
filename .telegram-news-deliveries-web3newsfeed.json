@@ -625,5 +625,36 @@
     "slotKey": "2026-11-19:evening",
     "messageId": 65844,
     "sentAt": "2026-11-19T19:38:09.108Z"
+  },
+  "da47b4f5-df92-432b-b265-18bb1ace1eab": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T14:09:30.563Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Senate Passes Bill Banning War and Death Prediction Markets",
+        "summary": "The November 2026 legislation prohibits CFTC-registered exchanges from offering contracts tied to terrorism, assassination, or military conflict.",
+        "link": "https://hashtagweb3.com/deathbets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Senate passes DEATH BETS Act banning prediction market bets on war and death"
+      },
+      {
+        "index": -1,
+        "headline": "Bitwise Files S-1 for Spot Zcash ETF",
+        "summary": "The proposed Texas Stock Exchange fund will use Coinbase Custody and exclude shielded Zcash transactions.",
+        "link": "https://hashtagweb3.com/zecetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Bitwise Files for Zcash ETF on Texas Stock Exchange"
+      },
+      {
+        "index": -1,
+        "headline": "Coinbase AI Blocks $4.7 Million Deepfake Musk Scam",
+        "summary": "The exchange's security system prevented customer transfers to fraudsters operating a fake Tesla livestream.",
+        "link": "https://hashtagweb3.com/coinbaseagent?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase AI Agent Stopped $4.7 Million in Deepfake Musk Scam"
+      }
+    ],
+    "slotKey": "2026-11-21:afternoon"
   }
 }
