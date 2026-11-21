@@ -627,7 +627,7 @@
     "sentAt": "2026-11-19T19:38:09.108Z"
   },
   "da47b4f5-df92-432b-b265-18bb1ace1eab": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-21T14:09:30.563Z",
     "stories": [
       {
@@ -655,6 +655,8 @@
         "originalTitle": "Coinbase AI Agent Stopped $4.7 Million in Deepfake Musk Scam"
       }
     ],
-    "slotKey": "2026-11-21:afternoon"
+    "slotKey": "2026-11-21:afternoon",
+    "messageId": 65845,
+    "sentAt": "2026-11-21T14:09:39.461Z"
   }
 }
