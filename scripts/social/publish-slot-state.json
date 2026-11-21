@@ -1328,6 +1328,22 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-20T02:59:28.351Z"
       }
+    ],
+    "2026-11-21": [
+      {
+        "date": "2026-11-21",
+        "id": "44846718699-1",
+        "sourceCommit": "1674af4750e05149b74788626870d96b3200f953",
+        "jobsCheckedAt": "2026-11-21T01:01:48.291Z",
+        "newsCompletedAt": "2026-11-21T02:41:13.403Z",
+        "articleSlugs": [
+          "deathbets"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-21T02:42:04.613Z",
+        "buildId": "daily-20261121-44846718699-1",
+        "rolloutId": "daily-20261121-44846718699-1"
+      }
     ]
   }
 }
