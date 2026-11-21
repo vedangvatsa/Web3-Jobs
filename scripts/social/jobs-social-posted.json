@@ -166021,6 +166021,47 @@
       "attemptId": "e33542a1-f8d3-4b38-a964-9647bc351cde",
       "verification": "verified",
       "postId": "0xc58c6a6a4b0942839472ce670173f825cd8983e4"
+    },
+    {
+      "slug": "aso85",
+      "company": "BTSE",
+      "title": "[Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-21T23:54:36.042Z",
+      "expectedText": "BTSE is hiring [Fintech] Settlement Associate (Mandarin Speaking, Shifting Required): https://hashtagweb3.com/aso85/li?og=7",
+      "snapshot": {
+        "id": "46e396ba-b056-4679-b4a4-c2984c346c6b",
+        "title": "[Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)",
+        "company": "BTSE",
+        "link": "https://jobs.lever.co/BTSE/46e396ba-b056-4679-b4a4-c2984c346c6b",
+        "date": "2026-10-29T08:29:27.583Z",
+        "source": "Lever: BTSE [BTSE]",
+        "location": "Hybrid (Malaysia)",
+        "workplaceType": "hybrid",
+        "department": "BTSE",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "aso85"
+      },
+      "payload": {
+        "text": "BTSE is hiring [Fintech] Settlement Associate (Mandarin Speaking, Shifting Required): https://hashtagweb3.com/aso85/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso85/li?og=7",
+          "title": "[Fintech] Settlement Associate (Mandarin Speaking, Shifting Required) at BTSE",
+          "description": "Join BTSE as Settlement Associate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso85.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "e7c1a338-ad9b-497c-9445-2fb9e68ec9aa",
+      "verification": "creating"
     }
   ]
 }
