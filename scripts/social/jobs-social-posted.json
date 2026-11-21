@@ -163364,7 +163364,8 @@
       },
       "account": "channel:ai",
       "attemptId": "253afec7-f441-4fb6-a7da-e728d9e40ac3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3f5ef168843913582e7dcda462044b74f8fdb9a3"
     }
   ]
 }
