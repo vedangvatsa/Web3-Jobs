@@ -206305,11 +206305,21 @@
         "The Defiant"
       ],
       "id": "658c29aabf945744f103",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-21T00:54:20.657Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-23T18:13:52.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "reason": "price-chatter",
+      "note": "Read the Decrypt Nov 20 report covering the same move: Bitcoin touched 9,300 and broke below 0,000 amid ETF outflows, with the piece devoted to price levels, RSI/EMA readings and support zones. A price plunge with chart analysis is price chatter under the exclusion list, not a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:10:17.214Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "e4d2c0cb160bfe1ef159": {
       "source": "CryptoSlate",
@@ -402960,6 +402970,18 @@
             }
           ],
           "reviewedAt": "2026-11-21T01:10:13.047Z"
+        },
+        "658c29aabf945744f103": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Decrypt Nov 20 report covering the same move: Bitcoin touched 9,300 and broke below 0,000 amid ETF outflows, with the piece devoted to price levels, RSI/EMA readings and support zones. A price plunge with chart analysis is price chatter under the exclusion list, not a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:10:17.214Z"
         }
       },
       "baselineSlugs": [
