@@ -198963,7 +198963,7 @@
       "id": "ba935478b058548ae7b7",
       "status": "deferred",
       "firstSeenAt": "2026-11-19T01:19:46.202Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-21T15:23:18.000Z",
       "lastSeenAt": "2026-11-19T01:19:46.202Z",
       "articleSlug": "hkagent",
@@ -198983,7 +198983,7 @@
         "mustReview": true
       },
       "reason": "source-blocked",
-      "note": "Unchained's Nov 18 report was read in a prior checkpoint, but no second independent outlet is readable: CoinDesk returned HTTP 429 and The Block HTTP 403 on actual GETs this round, and the primary HKMA speech page has not been opened. Draft pending.",
+      "note": "Unchained's Nov 18 report was read in a prior round (HKMA regtech-workshop speech, onchain AI agent, Chainalysis illicit-flow figures). Retried the other two sources today: CoinDesk returned HTTP 429 and The Block HTTP 403 on actual GETs; the primary HKMA speech transcript still has not been opened. Second independent outlet still missing.",
       "sourceChecks": [
         {
           "url": "https://unchainedcrypto.com/hong-kongs-bank-regulator-floats-an-onchain-ai-agent-to-fight-crypto-crime/",
@@ -198998,12 +198998,12 @@
           "outcome": "blocked"
         }
       ],
-      "reviewedAt": "2026-11-19T02:30:15.248Z",
+      "reviewedAt": "2026-11-21T01:38:35.638Z",
       "retrySearches": [
-        "Find a second readable independent outlet (Cointelegraph, Decrypt, Reuters or Blockworks) covering the HKMA Nov 17 regtech-workshop speech on an onchain AI agent for crypto crime, and open the primary HKMA speech transcript"
+        "Find a second readable independent outlet (Cointelegraph, Decrypt, Reuters, Blockworks) covering the HKMA Nov 17 regtech-workshop speech on an onchain AI agent for crypto crime, and open the primary HKMA speech transcript"
       ],
-      "lastReviewedDay": "2026-11-19",
-      "nextReviewDate": "2026-11-20"
+      "lastReviewedDay": "2026-11-21",
+      "nextReviewDate": "2026-11-22"
     },
     "a4bef1afce25bd6f35aa": {
       "source": "The Block",
@@ -403350,6 +403350,29 @@
           ],
           "reviewedAt": "2026-11-21T01:37:26.619Z",
           "articleSlug": "ioscoquantum"
+        },
+        "ba935478b058548ae7b7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Unchained's Nov 18 report was read in a prior round (HKMA regtech-workshop speech, onchain AI agent, Chainalysis illicit-flow figures). Retried the other two sources today: CoinDesk returned HTTP 429 and The Block HTTP 403 on actual GETs; the primary HKMA speech transcript still has not been opened. Second independent outlet still missing.",
+          "sourceChecks": [
+            {
+              "url": "https://unchainedcrypto.com/hong-kongs-bank-regulator-floats-an-onchain-ai-agent-to-fight-crypto-crime/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-agentic-ai-crypto-crime-442959",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:38:35.638Z",
+          "retrySearches": [
+            "Find a second readable independent outlet (Cointelegraph, Decrypt, Reuters, Blockworks) covering the HKMA Nov 17 regtech-workshop speech on an onchain AI agent for crypto crime, and open the primary HKMA speech transcript"
+          ]
         }
       },
       "baselineSlugs": [
