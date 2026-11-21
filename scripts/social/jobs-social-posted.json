@@ -163558,6 +163558,48 @@
       "attemptId": "b7cb48fb-7441-46f4-ab26-d4cb6aac10bc",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "pm396",
+      "company": "Kraken",
+      "title": "Sr Product Manager - Virality, Referrals & KOL",
+      "platform": "linkedin",
+      "postedAt": "2026-11-21T14:09:52.628Z",
+      "expectedText": "Kraken is hiring Sr Product Manager - Virality, Referrals & KOL: https://hashtagweb3.com/pm396/li?og=7",
+      "snapshot": {
+        "id": "f1887fed-06e8-404c-815f-8a7918da3c18",
+        "title": "Sr Product Manager - Virality, Referrals & KOL",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/f1887fed-06e8-404c-815f-8a7918da3c18",
+        "date": "2026-11-12T18:30:48.257+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United States)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm396"
+      },
+      "payload": {
+        "text": "Kraken is hiring Sr Product Manager - Virality, Referrals & KOL: https://hashtagweb3.com/pm396/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm396/li?og=7",
+          "title": "Sr Product Manager - Virality, Referrals & KOL at Kraken",
+          "description": "Join Kraken as Sr Product Manager - Virality, Ref. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm396.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "3617e448-f9df-4f13-836c-9c5727c111e4",
+      "verification": "creating"
     }
   ]
 }
