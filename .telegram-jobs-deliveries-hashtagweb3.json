@@ -2378,5 +2378,122 @@
     "slotKey": "2026-11-21:afternoon",
     "messageId": 156421,
     "sentAt": "2026-11-21T14:06:41.194Z"
+  },
+  "34e1342d-3070-424a-8116-3957ccd1d744": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T23:53:52.622Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "fbba5535-fcc7-4350-ba81-6b6eeddb41c7",
+          "title": "Deployment Strategist, Public Sector (EMEA)",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/fbba5535-fcc7-4350-ba81-6b6eeddb41c7",
+          "date": "2026-10-29T15:15:39.097+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (EMEA)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Go-To-Market",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dsps"
+        },
+        "key": "fbba5535-fcc7-4350-ba81-6b6eeddb41c7",
+        "slug": "dsps",
+        "url": "https://hashtagweb3.com/dsps?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Deployment Strategist"
+      },
+      {
+        "snapshot": {
+          "id": "5467189008",
+          "title": "Mechanical Engineering Intern, Data Center Infrastructure",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5467189008",
+          "date": "2026-10-29T13:27:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami, FL",
+          "department": "Data Center Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra53"
+        },
+        "key": "5467189008",
+        "slug": "infra53",
+        "url": "https://hashtagweb3.com/infra53?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Mechanical Engineering Intern"
+      },
+      {
+        "snapshot": {
+          "id": "c41dff23-f502-42a7-a17e-5c8f759e7905",
+          "title": "Staff Product Designer - AI Products",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/c41dff23-f502-42a7-a17e-5c8f759e7905",
+          "date": "2026-11-03T17:32:10.264+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm361"
+        },
+        "key": "c41dff23-f502-42a7-a17e-5c8f759e7905",
+        "slug": "pm361",
+        "url": "https://hashtagweb3.com/pm361?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Staff Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8384782",
+          "title": "Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8384782",
+          "date": "2026-11-19T12:27:28-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+          "department": "2315 Marketing - Marketing Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt165"
+        },
+        "key": "8384782",
+        "slug": "mkt165",
+        "url": "https://hashtagweb3.com/mkt165?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Marketing Strategy & Operations Lead"
+      },
+      {
+        "snapshot": {
+          "id": "990a52f7-77f8-43ee-9cdc-1f930eb6a945",
+          "title": "IT Manager",
+          "company": "Rain",
+          "link": "https://jobs.ashbyhq.com/rain/990a52f7-77f8-43ee-9cdc-1f930eb6a945",
+          "date": "2026-10-30T03:05:20.887+00:00",
+          "source": "Ashby: Rain [rain]",
+          "location": "Hybrid (New York, NY)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Technology and Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr211"
+        },
+        "key": "990a52f7-77f8-43ee-9cdc-1f930eb6a945",
+        "slug": "mgr211",
+        "url": "https://hashtagweb3.com/mgr211?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "IT Manager"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/dsps?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deployment Strategist, Public Sector (EMEA)</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/infra53?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Mechanical Engineering Intern, Data Center Infrastructure</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm361?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Designer - AI Products</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt165?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Strategy &amp; Operations Lead, Global Demand, Campaigns, Field Marketing</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/mgr211?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Manager</a>",
+    "slotKey": "2026-11-21:evening"
   }
 }
