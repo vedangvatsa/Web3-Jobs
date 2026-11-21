@@ -4685,7 +4685,7 @@
     "sentAt": "2026-11-21T14:05:56.084Z"
   },
   "acfca097-8999-40b2-899a-1784a51fb1c9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-21T14:05:57.978Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -4801,6 +4801,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/sls484?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Regional Sales Lead</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Backend, AI Ventures</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/arc12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations - Public Sector (US)</a>\n- Liminal is hiring <a href=\"https://hashtagweb3.com/aso81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate Manager - Finance &amp; Admin</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/ds19?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Data Scientist</a>",
-    "slotKey": "2026-11-21:afternoon"
+    "slotKey": "2026-11-21:afternoon",
+    "messageId": 210,
+    "sentAt": "2026-11-21T14:06:00.364Z"
   }
 }
