@@ -4683,5 +4683,124 @@
     "slotKey": "2026-11-21:afternoon",
     "messageId": 16666,
     "sentAt": "2026-11-21T14:05:56.084Z"
+  },
+  "acfca097-8999-40b2-899a-1784a51fb1c9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T14:05:57.978Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5032948101",
+          "title": "Regional Sales Lead",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5032948101",
+          "date": "2026-11-13T03:21:56-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE",
+          "department": "Wealth Business Unit (WBU)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls484"
+        },
+        "key": "5032948101",
+        "slug": "sls484",
+        "url": "https://hashtagweb3.com/sls484?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Regional Sales Lead"
+      },
+      {
+        "snapshot": {
+          "id": "3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+          "title": "Software Engineer, Backend, AI Ventures",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+          "date": "2026-11-17T17:52:33.611+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be129"
+        },
+        "key": "3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+        "slug": "be129",
+        "url": "https://hashtagweb3.com/be129?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
+          "title": "Solutions Architect, Integrations - Public Sector (US)",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
+          "date": "2026-10-29T20:21:51.079+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (North America)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Integrations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc12"
+        },
+        "key": "b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
+        "slug": "arc12",
+        "url": "https://hashtagweb3.com/arc12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Solutions Architect"
+      },
+      {
+        "snapshot": {
+          "id": "keka-liminal-168093",
+          "title": "Associate Manager - Finance & Admin",
+          "company": "Liminal",
+          "link": "https://liminal.keka.com/careers/jobdetails/168093",
+          "location": "Taipei, Taiwan",
+          "department": "Finance & Accounts",
+          "type": "Full-time",
+          "date": "2026-10-27T11:40:19.020Z",
+          "dateVerified": true,
+          "dateSource": "Keka.JobPosting.publishedOn",
+          "source": "Keka: Liminal [liminal]",
+          "applyUrl": "https://liminal.keka.com/careers/jobdetails/168093",
+          "active": true,
+          "slug": "aso81"
+        },
+        "key": "keka-liminal-168093",
+        "slug": "aso81",
+        "url": "https://hashtagweb3.com/aso81?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Liminal",
+        "title": "Associate Manager"
+      },
+      {
+        "snapshot": {
+          "id": "2152bd2d-cdf8-418e-9c03-eae970e630a2",
+          "title": "Staff Data Scientist",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/2152bd2d-cdf8-418e-9c03-eae970e630a2",
+          "date": "2026-10-27T22:05:24.611+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ds19"
+        },
+        "key": "2152bd2d-cdf8-418e-9c03-eae970e630a2",
+        "slug": "ds19",
+        "url": "https://hashtagweb3.com/ds19?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "Staff Data Scientist"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/sls484?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Regional Sales Lead</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/be129?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Backend, AI Ventures</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/arc12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Integrations - Public Sector (US)</a>\n- Liminal is hiring <a href=\"https://hashtagweb3.com/aso81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate Manager - Finance &amp; Admin</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/ds19?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Data Scientist</a>",
+    "slotKey": "2026-11-21:afternoon"
   }
 }
