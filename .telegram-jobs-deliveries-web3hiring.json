@@ -4925,7 +4925,7 @@
     "sentAt": "2026-11-21T23:53:44.279Z"
   },
   "695194ea-5fb7-4fd5-b8c9-ac99cb50f24b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-21T23:53:46.005Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -5039,6 +5039,8 @@
       }
     ],
     "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls399?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Enterprise Accounts, Australia</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/ira?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Intergovernmental &amp; Regulatory Affairs - EU &amp; UK</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/psc6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Professional Services Consultant</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/ob16?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Registration and Onboarding Specialist</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/eng688?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Solutions Engineer</a>",
-    "slotKey": "2026-11-21:evening"
+    "slotKey": "2026-11-21:evening",
+    "messageId": 211,
+    "sentAt": "2026-11-21T23:53:48.468Z"
   }
 }
