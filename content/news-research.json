@@ -202156,11 +202156,21 @@
         "The Defiant"
       ],
       "id": "8a754f2cebcfc502f4ff",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T10:48:26.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "reason": "price-chatter",
+      "note": "Read the Decrypt Nov 20 report in full from the source set: the story covers Bitcoin breaking below 0,000, the Fear and Greed Index at 9, ETF outflows and technical chart levels. It is a live price-move blog with sentiment and chart analysis, not a concrete event such as a launch, vote, ruling, filing, hack, raise or upgrade, so it falls under the price-chatter exclusion.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:10:13.047Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "7230e24fdc7c22811bff": {
       "source": "CoinDesk",
@@ -402938,6 +402948,18 @@
           ],
           "reviewedAt": "2026-11-21T01:09:12.702Z",
           "articleSlug": "deathbets"
+        },
+        "8a754f2cebcfc502f4ff": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read the Decrypt Nov 20 report in full from the source set: the story covers Bitcoin breaking below 0,000, the Fear and Greed Index at 9, ETF outflows and technical chart levels. It is a live price-move blog with sentiment and chart analysis, not a concrete event such as a launch, vote, ruling, filing, hack, raise or upgrade, so it falls under the price-chatter exclusion.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:10:13.047Z"
         }
       },
       "baselineSlugs": [
