@@ -165164,6 +165164,45 @@
       "attemptId": "db7a5e07-36a7-4b8b-a913-7e389cb7cce2",
       "verification": "verified",
       "postId": "0xbcbd24eac9fb01ea460152e47a732dff6340706f"
+    },
+    {
+      "slug": "mgr241",
+      "company": "Riot Platforms",
+      "title": "Events Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-21T18:15:35.330Z",
+      "expectedText": "Riot Platforms is hiring Events Manager: https://hashtagweb3.com/mgr241/li?og=7",
+      "snapshot": {
+        "id": "8b22dafe-0b8b-4325-9426-2cdd91b09355",
+        "title": "Events Manager",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/8b22dafe-0b8b-4325-9426-2cdd91b09355",
+        "date": "2026-11-09T10:26:49.904000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Denver, CO - Hybrid",
+        "department": "Marketing & Program Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr241"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Events Manager: https://hashtagweb3.com/mgr241/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mgr241/li?og=7",
+          "title": "Events Manager at Riot Platforms",
+          "description": "Join Riot Platforms as Events Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mgr241.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "0800b533-1b76-41f1-ac5a-d26a278c6e02",
+      "verification": "creating"
     }
   ]
 }
