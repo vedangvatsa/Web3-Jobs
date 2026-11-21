@@ -165697,6 +165697,41 @@
       "attemptId": "0a655721-af69-46a2-9f42-9a6823db0ae8",
       "verification": "verified",
       "postId": "0x4a278f9733ffe694963e8c8a8a4672ce72a58e73"
+    },
+    {
+      "slug": "aso85",
+      "company": "BTSE",
+      "title": "[Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-21T23:54:36.042Z",
+      "expectedText": "BTSE is hiring [Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)\n\nhttps://hashtagweb3.com/aso85/fc?og=7",
+      "snapshot": {
+        "id": "46e396ba-b056-4679-b4a4-c2984c346c6b",
+        "title": "[Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)",
+        "company": "BTSE",
+        "link": "https://jobs.lever.co/BTSE/46e396ba-b056-4679-b4a4-c2984c346c6b",
+        "date": "2026-10-29T08:29:27.583Z",
+        "source": "Lever: BTSE [BTSE]",
+        "location": "Hybrid (Malaysia)",
+        "workplaceType": "hybrid",
+        "department": "BTSE",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "aso85"
+      },
+      "payload": {
+        "text": "BTSE is hiring [Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)\n\nhttps://hashtagweb3.com/aso85/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/aso85/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "957fef3c-1077-4d38-90fb-70e2b68a41ac",
+      "verification": "creating"
     }
   ]
 }
