@@ -163797,7 +163797,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "7a30dc25-c5ee-4b76-b584-e087d5e1b4e0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe5cab4f0106403a0ea591d7f9c3609bb320e883c"
     }
   ]
 }
