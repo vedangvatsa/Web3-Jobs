@@ -725,5 +725,40 @@
     "slotKey": "2026-11-19:evening",
     "messageId": 193551,
     "sentAt": "2026-11-19T19:36:53.959Z"
+  },
+  "feb470df-aad1-4826-a9c4-bb004d4fe4ab": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T14:08:32.951Z",
+    "stories": [
+      {
+        "index": 18,
+        "original_title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "headline": "Trump threatens tax on foreign AI data center construction",
+        "summary": "The proposed tariff aims to keep infrastructure investments inside the United States despite local municipal development restrictions.",
+        "event_rationale": "Covers a direct trade policy proposal by the U.S. executive branch targeting international artificial intelligence infrastructure.",
+        "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "source": "The Verge",
+        "originalTitle": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US"
+      },
+      {
+        "index": 4,
+        "original_title": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+        "headline": "OpenAI releases GPT-Live-1.1 voice model",
+        "summary": "The updated API model improves multilingual performance and lowers idle standby costs to two cents per minute.",
+        "event_rationale": "Covers a new real-time voice model release and pricing update by OpenAI.",
+        "link": "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+        "source": "MarkTechPost",
+        "originalTitle": "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min"
+      },
+      {
+        "index": 1,
+        "headline": "Chess.com Expands Platform to Include 10 Classic Games",
+        "summary": "After introducing poker, the company added backgammon, checkers, sudoku, solitaire, and six other classic titles.",
+        "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+        "source": "The Verge",
+        "originalTitle": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku"
+      }
+    ],
+    "slotKey": "2026-11-21:afternoon"
   }
 }
