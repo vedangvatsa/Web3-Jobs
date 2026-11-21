@@ -205704,9 +205704,9 @@
         "Bankless"
       ],
       "id": "0f399007f62804695cbe",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-21T00:54:20.657Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-23T14:25:57.000Z",
       "lastSeenAt": "2026-11-21T00:54:20.657Z",
       "articleSlug": "deathbets",
@@ -205732,7 +205732,29 @@
         "updatedAt": "2026-11-21T01:00:38.430Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified Senate passage of S.4035 (DEATH BETS Act) on Nov 19 by voice vote against the official govinfo engrossed bill text, then matched provisions, quotes and background across Cointelegraph and Decrypt Nov 20 reports and the Curtis press release. Drafted deathbets.md with self-hosted Capitol image.",
+      "sourceChecks": [
+        {
+          "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4035es/html/BILLS-119s4035es.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-applauds-senate-passage-of-bipartisan-death-bets-act/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:09:12.702Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "ebe3a74acd6931c0beb3": {
       "source": "Decrypt",
@@ -402891,6 +402913,31 @@
             "Find independent reporting confirming the event in: Taiwan's TAIEX Down 17% for Week in Friday Morning Trade",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "0f399007f62804695cbe": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified Senate passage of S.4035 (DEATH BETS Act) on Nov 19 by voice vote against the official govinfo engrossed bill text, then matched provisions, quotes and background across Cointelegraph and Decrypt Nov 20 reports and the Curtis press release. Drafted deathbets.md with self-hosted Capitol image.",
+          "sourceChecks": [
+            {
+              "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4035es/html/BILLS-119s4035es.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.curtis.senate.gov/newsroom/press-releases/curtis-applauds-senate-passage-of-bipartisan-death-bets-act/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:09:12.702Z",
+          "articleSlug": "deathbets"
         }
       },
       "baselineSlugs": [
