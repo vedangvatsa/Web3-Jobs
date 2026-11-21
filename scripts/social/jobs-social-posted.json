@@ -164464,7 +164464,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "7efc595c-3c05-4eed-8528-dc4ea4a98f54",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7529970663118327809"
     }
   ]
 }
