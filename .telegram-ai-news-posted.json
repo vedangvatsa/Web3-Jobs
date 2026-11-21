@@ -56,6 +56,9 @@
   "https://techxplore.com/news/2026-11-cyberattack-artificial-intelligence-eu-october.html",
   "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
   "https://siliconangle.com/2026/11/19/raptor-chip-stacks-3d-dram-tackle-inference-memory-limits-sc26/",
+  "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+  "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
+  "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -170,6 +173,12 @@
   "AI industry growth remains strong, but the pace is slowing",
   "D-Matrix Raptor chip stacks memory to increase inference bandwidth",
   "D-Matrix bets stacked DRAM can solve inference’s memory bandwidth problem",
+  "Trump threatens tax on foreign AI data center construction",
+  "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+  "OpenAI releases GPT-Live-1.1 voice model",
+  "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
+  "Chess.com Expands Platform to Include 10 Classic Games",
+  "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -226,5 +235,8 @@
   "fp:age|analyz|attack|attacker|but|cas|detail|four|framework|guid",
   "fp:attack|automat|body|confirm|cyberattack|digital|european|generat|govern|institution",
   "fp:anthropic|but|captur|drop21|growth|nearly59|overall|pac|percent|record",
-  "fp:bandwidth|beneath|bet|can|chip|comput|dram|generation|hardwar|increas"
+  "fp:bandwidth|beneath|bet|can|chip|comput|dram|generation|hardwar|increas",
+  "fp:aim|center|construction|despit|foreign|infrastructur|insid|investment|keep|local",
+  "fp:api|cent|cost|cut|gpt|idl|improv|live11|lower|min",
+  "fp:add|backgammon|checker|chess|classic|com|gam|hub|include10|introduc"
 ]

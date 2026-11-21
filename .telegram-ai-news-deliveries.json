@@ -727,7 +727,7 @@
     "sentAt": "2026-11-19T19:36:53.959Z"
   },
   "feb470df-aad1-4826-a9c4-bb004d4fe4ab": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-21T14:08:32.951Z",
     "stories": [
       {
@@ -759,6 +759,8 @@
         "originalTitle": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku"
       }
     ],
-    "slotKey": "2026-11-21:afternoon"
+    "slotKey": "2026-11-21:afternoon",
+    "messageId": 193557,
+    "sentAt": "2026-11-21T14:08:41.495Z"
   }
 }
