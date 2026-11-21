@@ -201770,11 +201770,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "8d365f26ed52245108d3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T21:53:36.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "reason": "price-chatter",
+      "note": "Read Bitcoin Magazine Nov 19 report in full: the story tracks MSTR's sixth straight daily decline, bitcoin under 2,000 and broad equity selling. It is share-price movement commentary with no new corporate action beyond the already-filed Nov 16 8-K, so it fails the concrete-event test.",
+      "sourceChecks": [
+        {
+          "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:14:11.076Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "90f83316033d1011966b": {
       "source": "Bitcoin Magazine",
@@ -402982,6 +402992,18 @@
             }
           ],
           "reviewedAt": "2026-11-21T01:10:17.214Z"
+        },
+        "8d365f26ed52245108d3": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read Bitcoin Magazine Nov 19 report in full: the story tracks MSTR's sixth straight daily decline, bitcoin under 2,000 and broad equity selling. It is share-price movement commentary with no new corporate action beyond the already-filed Nov 16 8-K, so it fails the concrete-event test.",
+          "sourceChecks": [
+            {
+              "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:14:11.076Z"
         }
       },
       "baselineSlugs": [
