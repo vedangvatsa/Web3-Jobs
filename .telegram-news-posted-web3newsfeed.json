@@ -59,6 +59,9 @@
   "https://hashtagweb3.com/deathbets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/zecetf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/coinbaseagent?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hashi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/krakentribe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/geniusletter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -179,6 +182,12 @@
   "Bitwise Files for Zcash ETF on Texas Stock Exchange",
   "Coinbase AI Blocks $4.7 Million Deepfake Musk Scam",
   "Coinbase AI Agent Stopped $4.7 Million in Deepfake Musk Scam",
+  "Hashi launches Bitcoin-backed lending protocol on Sui mainnet",
+  "Hashi goes live on Sui mainnet with Bitcoin-backed lending and 20-plus partners",
+  "Payward to Acquire Venture Capital Firm Tribe Capital",
+  "Payward agrees to buy Tribe Capital in private-markets push",
+  "Six Senators Request Treasury Safe Harbor for Stablecoin Issuers",
+  "Six senators urge Treasury to give state stablecoin issuers GENIUS Act safe harbor",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -238,5 +247,8 @@
   "fp:116m|asset|attack|buchanan|digital|hacker|phish|scatter|sentenc|sim",
   "fp:act|assassination|bann|bet|bill|cftc|conflict|contract|death|exchang",
   "fp:bitwis|coinbas|custody|etf|exchang|exclud|fil|propos|shield|spot",
-  "fp:47m|block|coinbas|customer|deepfak|exchang|fak|fraudster|livestream|musk"
+  "fp:47m|block|coinbas|customer|deepfak|exchang|fak|fraudster|livestream|musk",
+  "fp:against|and20|back|goe|hashi|hbtc|lend|liv|mainnet|mint",
+  "fp:27b|acquir|acquisition|agre|asset|buy|capital|expect|firm|manager",
+  "fp:act|ask|bessent|extend|firm|genius|giv|harbor|issuer|lawmaker"
 ]

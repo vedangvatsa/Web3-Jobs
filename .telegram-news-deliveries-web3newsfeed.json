@@ -660,7 +660,7 @@
     "sentAt": "2026-11-21T14:09:39.461Z"
   },
   "4f148d0f-9e76-4432-8abe-9676bf1b332a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-21T23:54:27.735Z",
     "stories": [
       {
@@ -688,6 +688,8 @@
         "originalTitle": "Six senators urge Treasury to give state stablecoin issuers GENIUS Act safe harbor"
       }
     ],
-    "slotKey": "2026-11-21:evening"
+    "slotKey": "2026-11-21:evening",
+    "messageId": 65846,
+    "sentAt": "2026-11-21T23:54:30.269Z"
   }
 }
