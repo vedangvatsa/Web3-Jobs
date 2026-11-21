@@ -208562,7 +208562,27 @@
       "firstSeenAt": "2026-11-21T00:54:20.657Z",
       "attempts": 0,
       "expiresAt": "2026-11-23T08:04:40.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "articleSlug": "xmr1collapse",
+      "draftProgress": {
+        "id": "976b95af59057ab06de0",
+        "day": "2026-11-21",
+        "articleSlug": "xmr1collapse",
+        "note": "Read Cointelegraph and Decrypt in full; drafting now.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-21T01:15:37.825Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "314282ef819f71e3f92f": {
       "source": "The Block",
