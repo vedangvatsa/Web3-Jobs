@@ -200589,7 +200589,27 @@
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
       "attempts": 0,
       "expiresAt": "2026-11-22T21:01:42.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "articleSlug": "moonpaycharter",
+      "draftProgress": {
+        "id": "40a992878efd8a210bd6",
+        "day": "2026-11-21",
+        "articleSlug": "moonpaycharter",
+        "note": "Read Cointelegraph and Decrypt in full; drafting now.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-21T01:15:34.010Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "4f4a44d5b3d74c83e21a": {
       "source": "Cointelegraph",
