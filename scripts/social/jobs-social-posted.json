@@ -163112,7 +163112,8 @@
       },
       "account": "channel:developers",
       "attemptId": "60187ea3-8b99-461f-9c92-df73de98556f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5114df396b54df1c44346a29427c6a724c1144cf"
     }
   ]
 }
