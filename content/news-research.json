@@ -204600,9 +204600,9 @@
         "CryptoSlate"
       ],
       "id": "3c2fb53c53c27955f6b8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T10:32:05.000Z",
       "lastSeenAt": "2026-11-20T01:22:56.282Z",
       "articleSlug": "ioscoquantum",
@@ -204624,7 +204624,25 @@
         "updatedAt": "2026-11-20T02:11:53.123Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph and Decrypt Nov 19 coverage in full and downloaded the primary IOSCO final report PDF (FR/07/26, Nov 19). Verified the Servais quote, ML-DSA-44 2420-byte vs 64-byte signature sizes, ~90% Solana testnet throughput loss, 2030-2035 timeline, quantum-procrastination and quantum-washing findings, and the 2027 priority across sources. Draft ioscoquantum.md written; quality and formatting audits clean for the file; hero image self-hosted from Wikimedia (Chalmers quantum computer, CC BY-SA 4.0).",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD833.pdf",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:37:26.619Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "27cfc376de31ff5977b5": {
       "source": "The Defiant",
@@ -403311,6 +403329,27 @@
             }
           ],
           "reviewedAt": "2026-11-21T01:27:27.751Z"
+        },
+        "3c2fb53c53c27955f6b8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph and Decrypt Nov 19 coverage in full and downloaded the primary IOSCO final report PDF (FR/07/26, Nov 19). Verified the Servais quote, ML-DSA-44 2420-byte vs 64-byte signature sizes, ~90% Solana testnet throughput loss, 2030-2035 timeline, quantum-procrastination and quantum-washing findings, and the 2027 priority across sources. Draft ioscoquantum.md written; quality and formatting audits clean for the file; hero image self-hosted from Wikimedia (Chalmers quantum computer, CC BY-SA 4.0).",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.iosco.org/library/pubdocs/pdf/IOSCOPD833.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:37:26.619Z",
+          "articleSlug": "ioscoquantum"
         }
       },
       "baselineSlugs": [
