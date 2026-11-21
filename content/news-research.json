@@ -204516,11 +204516,33 @@
         "Bankless"
       ],
       "id": "ec5cf46c4272559ec30b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T11:30:00.000Z",
-      "lastSeenAt": "2026-11-20T01:22:56.282Z"
+      "lastSeenAt": "2026-11-20T01:22:56.282Z",
+      "reason": "source-blocked",
+      "note": "Read Bankless's Nov 19 write-up in full (Inca Digital's 18 million illicit-linked PSM swaps figure, 01.9 million tied to North Korea, 1.5 million routed in the 10 days after the Bybit theft, the ~.7 billion single-wallet USDC reserve, Sky Frontier Foundation's under-0.06 percent response), but it summarizes CoinDesk's exclusive. CoinDesk returned HTTP 429 and The Defiant HTTP 403 on actual GETs today, so no independent second outlet is readable.",
+      "sourceChecks": [
+        {
+          "url": "https://www.bankless.com/read/news/north-korean-hackers-used-skys-psm-as-an-exit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/defi/sky-reserve-freeze-risk-flagged-in-illicit-flow-report",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:39:08.814Z",
+      "retrySearches": [
+        "Find a second independent readable outlet covering the Inca Digital report on North Korean flows through Sky's Peg Stability Module and the freeze risk to the .7 billion USDC reserve"
+      ],
+      "lastReviewedDay": "2026-11-21",
+      "nextReviewDate": "2026-11-22"
     },
     "89b4a009d70f52322762": {
       "source": "The Block",
@@ -403462,6 +403484,29 @@
           "reviewedAt": "2026-11-21T01:39:05.033Z",
           "retrySearches": [
             "Find readable coverage (Decrypt, Cointelegraph, The Block, Bankless, Crypto Briefing) of the Sky USDS and USDC exit-reserve outflows after the illicit-finance report, with confirmed reserve figures"
+          ]
+        },
+        "ec5cf46c4272559ec30b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Bankless's Nov 19 write-up in full (Inca Digital's 18 million illicit-linked PSM swaps figure, 01.9 million tied to North Korea, 1.5 million routed in the 10 days after the Bybit theft, the ~.7 billion single-wallet USDC reserve, Sky Frontier Foundation's under-0.06 percent response), but it summarizes CoinDesk's exclusive. CoinDesk returned HTTP 429 and The Defiant HTTP 403 on actual GETs today, so no independent second outlet is readable.",
+          "sourceChecks": [
+            {
+              "url": "https://www.bankless.com/read/news/north-korean-hackers-used-skys-psm-as-an-exit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/defi/sky-reserve-freeze-risk-flagged-in-illicit-flow-report",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:39:08.814Z",
+          "retrySearches": [
+            "Find a second independent readable outlet covering the Inca Digital report on North Korean flows through Sky's Peg Stability Module and the freeze risk to the .7 billion USDC reserve"
           ]
         }
       },
