@@ -165767,7 +165767,8 @@
       },
       "account": "channel:base",
       "attemptId": "a8b9b31e-5dbe-4fed-8f30-bc4d6f20f1fe",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe06be851d35b8af566a48f9fb9f67a0663859117"
     }
   ]
 }
