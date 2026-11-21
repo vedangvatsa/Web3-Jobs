@@ -159319,5 +159319,279 @@
     "company": "Ripio",
     "title": "Marketing Operations & CRM Senior",
     "newSlug": "mkt172"
+  },
+  "mkt131": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt175"
+  },
+  "cmp143": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp194"
+  },
+  "eng812": {
+    "id": "4730326006",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4730326006",
+    "company": "Fireblocks",
+    "title": "Sales Engineer"
+  },
+  "sec165": {
+    "id": "6251385004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6251385004",
+    "company": "Alpaca",
+    "title": "Senior Software Engineer - Corporate Actions & Security Master"
+  },
+  "mpbd": {
+    "id": "5031818101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5031818101",
+    "company": "Bitpanda",
+    "title": "Media Planner & Buyer DACH"
+  },
+  "sm4": {
+    "id": "5025183101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5025183101",
+    "company": "Bitpanda",
+    "title": "Social Media Lead"
+  },
+  "eng744": {
+    "id": "5031808101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5031808101",
+    "company": "Bitpanda",
+    "title": "Senior MarTech Engineer"
+  },
+  "eng761": {
+    "id": "keka-liminal-169544",
+    "link": "https://liminal.keka.com/careers/jobdetails/169544",
+    "company": "Liminal",
+    "title": "Senior SOC Engineer"
+  },
+  "qa105": {
+    "id": "8200144003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8200144003",
+    "company": "OKX",
+    "title": "Team Lead, Financial Crime Compliance QA"
+  },
+  "eng741": {
+    "id": "8335426",
+    "link": "https://stripe.com/jobs/search?gh_jid=8335426",
+    "company": "Stripe",
+    "title": "Software Engineer, Supportability Decisions"
+  },
+  "csvf": {
+    "id": "231a36db-b487-4fb7-b8aa-b861778a288a",
+    "link": "https://jobs.ashbyhq.com/kraken.com/231a36db-b487-4fb7-b8aa-b861778a288a",
+    "company": "Kraken",
+    "title": "CE Specialist, Voice | Fixed-Term"
+  },
+  "pm167": {
+    "id": "8311067",
+    "link": "https://stripe.com/jobs/search?gh_jid=8311067",
+    "company": "Stripe",
+    "title": "Program Manager, Go-to-Market Experience and Productivity"
+  },
+  "ob11": {
+    "id": "8891162002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8891162002",
+    "company": "BitGo",
+    "title": "Onboarding Analyst"
+  },
+  "infra52": {
+    "id": "8311335",
+    "link": "https://www.coinbase.com/careers/positions/8311335?gh_jid=8311335",
+    "company": "Coinbase",
+    "title": "Sr Manager, Infrastructure Sales"
+  },
+  "cp5": {
+    "id": "JR101179",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal--Creative-Producer_JR101179-1",
+    "company": "Circle",
+    "title": "Principal, Creative Producer"
+  },
+  "arc26": {
+    "id": "F5CD37AB89",
+    "link": "https://apply.workable.com/j/F5CD37AB89",
+    "company": "GoMining",
+    "title": "Enterprise Architect (FinTech / Crypto)"
+  },
+  "cm12": {
+    "id": "4C891418D5",
+    "link": "https://apply.workable.com/j/4C891418D5",
+    "company": "Ajaib Crypto",
+    "title": "Community Partnership Intern"
+  },
+  "pid": {
+    "id": "1f60768eb3b0",
+    "link": "https://zero-hash.breezy.hr/p/1f60768eb3b0-protective-intelligence-director",
+    "company": "Zero Hash",
+    "title": "Protective Intelligence Director"
+  },
+  "rec48": {
+    "id": "d90d2ac3-d58d-4b63-b229-d2b09a4d8385",
+    "link": "https://jobs.ashbyhq.com/trm-labs/d90d2ac3-d58d-4b63-b229-d2b09a4d8385",
+    "company": "TRM Labs",
+    "title": "Technical Recruiter - Engineering"
+  },
+  "aso70": {
+    "id": "8039720003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=8039720003",
+    "company": "a16z crypto",
+    "title": "Executive Assistant, Japan"
+  },
+  "dcr": {
+    "id": "8310994",
+    "link": "https://ripple.com/careers/all-jobs/job/8310994?gh_jid=8310994",
+    "company": "Ripple",
+    "title": "Director, Credit Risk"
+  },
+  "sls328": {
+    "id": "5012875101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5012875101",
+    "company": "Bybit",
+    "title": "[EU] Head of Commercial/Business Development"
+  },
+  "sls327": {
+    "id": "5012819101",
+    "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5012819101",
+    "company": "BVNK",
+    "title": "Account Manager"
+  },
+  "be87": {
+    "id": "c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+    "link": "https://jobs.ashbyhq.com/ramp/c0a71032-1efb-40dc-b1e8-aa0f30cd5961",
+    "company": "Ramp",
+    "title": "Software Engineer, Backend, Accounting"
+  },
+  "sec125": {
+    "id": "7714d5ef-c07c-493c-a029-e8dc7f533288",
+    "link": "https://jobs.ashbyhq.com/mystenlabs/7714d5ef-c07c-493c-a029-e8dc7f533288",
+    "company": "Mysten Labs",
+    "title": "Senior Security Engineer"
+  },
+  "sfg": {
+    "id": "5baf7bf3-0da2-4929-82fe-cc8f2b2a8ee1",
+    "link": "https://jobs.ashbyhq.com/trm-labs/5baf7bf3-0da2-4929-82fe-cc8f2b2a8ee1",
+    "company": "TRM Labs",
+    "title": "Strategic Finance Lead, GTM"
+  },
+  "sre": {
+    "id": "6186847004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6186847004",
+    "company": "Alpaca",
+    "title": "Senior Site Reliability Engineer - APAC"
+  },
+  "an111": {
+    "id": "97689285",
+    "link": "https://app.dover.com/apply/proto/0807d90d-bd0f-4a9c-bccf-1ad2a9d0bfca",
+    "company": "Proto",
+    "title": "Market Analyst"
+  },
+  "qa93": {
+    "id": "c141dcf5-730d-4bf6-a5c3-2ea2463f2ba0",
+    "link": "https://jobs.ashbyhq.com/Talos-Trading/c141dcf5-730d-4bf6-a5c3-2ea2463f2ba0",
+    "company": "Talos",
+    "title": "Principal Engineer, Data Quality Platform"
+  },
+  "pm338": {
+    "id": "97658795",
+    "link": "https://careers.r3.com/jobs/8554309-product-marketing-lead",
+    "company": "R3",
+    "title": "Product Marketing Lead"
+  },
+  "qa92": {
+    "id": "5012065101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5012065101",
+    "company": "Bybit",
+    "title": "Lead QA Engineer – EU | Mandarin & English Speaking"
+  },
+  "aso67": {
+    "id": "1c7664b2-54b2-4a07-92ce-5299b46535b8",
+    "link": "https://jobs.lever.co/crypto/1c7664b2-54b2-4a07-92ce-5299b46535b8",
+    "company": "Crypto.com",
+    "title": "(Senior) Strategy Associate"
+  },
+  "aso66": {
+    "id": "01670d38-387b-4ff7-af1a-075adfde484a",
+    "link": "https://jobs.lever.co/crypto/01670d38-387b-4ff7-af1a-075adfde484a",
+    "company": "Crypto.com",
+    "title": "(Senior) Strategy Associate"
+  },
+  "aso65": {
+    "id": "47032a24-3cd9-4418-834e-199924bc928a",
+    "link": "https://jobs.lever.co/crypto/47032a24-3cd9-4418-834e-199924bc928a",
+    "company": "Crypto.com",
+    "title": "(Senior) Strategy Associate"
+  },
+  "rc3": {
+    "id": "8301264",
+    "link": "https://stripe.com/jobs/search?gh_jid=8301264",
+    "company": "Stripe",
+    "title": "Recruiting Coordinator"
+  },
+  "eng643": {
+    "id": "7979592002",
+    "link": "https://www.janestreet.com/join-jane-street/apply/7979592002?gh_jid=7979592002",
+    "company": "Jane Street",
+    "title": "AV Engineer"
+  },
+  "an151": {
+    "id": "9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "link": "https://jobs.ashbyhq.com/story/9f578f01-3978-4f92-b0df-c9b9aff2d4e2",
+    "company": "Story Protocol",
+    "title": "Senior Financial Analyst, FP&A (Story + Wizard)",
+    "newSlug": "an153"
+  },
+  "cmp191": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp194"
+  },
+  "rec80": {
+    "id": "38703001-b1cd-4a9b-9abc-be128600b91b",
+    "link": "https://jobs.ashbyhq.com/hifi/38703001-b1cd-4a9b-9abc-be128600b91b",
+    "company": "HIFI",
+    "title": "Recruiter",
+    "newSlug": "rec85"
+  },
+  "eng834": {
+    "id": "202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "link": "https://jobs.ashbyhq.com/hifi/202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "company": "HIFI",
+    "title": "Software Engineer, Blockchain",
+    "newSlug": "eng838"
+  },
+  "mkt173": {
+    "id": "3d52bffc-749a-4130-b3c8-476c3215743e",
+    "link": "https://jobs.ashbyhq.com/hifi/3d52bffc-749a-4130-b3c8-476c3215743e",
+    "company": "HIFI",
+    "title": "Marketing Lead",
+    "newSlug": "mkt177"
+  },
+  "eng833": {
+    "id": "keka-dcx-145832",
+    "link": "https://dcx.keka.com/careers/jobdetails/145832",
+    "company": "BitOasis",
+    "title": "Senior Software Engineer - Android",
+    "newSlug": "eng837"
+  },
+  "mkt172": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt176"
+  },
+  "rec79": {
+    "id": "aa5c250b-a12c-43ad-89a2-38177a64bfba",
+    "link": "https://jobs.ashbyhq.com/story/aa5c250b-a12c-43ad-89a2-38177a64bfba",
+    "company": "Story Protocol",
+    "title": "Head of Talent",
+    "newSlug": "rec84"
   }
 }
