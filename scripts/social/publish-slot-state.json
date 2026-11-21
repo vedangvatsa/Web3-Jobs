@@ -1339,10 +1339,12 @@
         "articleSlugs": [
           "deathbets"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-21T02:42:04.613Z",
         "buildId": "daily-20261121-44846718699-1",
-        "rolloutId": "daily-20261121-44846718699-1"
+        "rolloutId": "daily-20261121-44846718699-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-21T03:00:27.734Z"
       }
     ]
   }
