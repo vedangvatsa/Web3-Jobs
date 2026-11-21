@@ -200599,9 +200599,9 @@
         "The Defiant"
       ],
       "id": "40a992878efd8a210bd6",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T21:01:42.000Z",
       "lastSeenAt": "2026-11-21T00:54:20.657Z",
       "articleSlug": "moonpaycharter",
@@ -200623,7 +200623,21 @@
         "updatedAt": "2026-11-21T01:15:34.010Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified on two independent sites: Cointelegraph Nov 19 (OCC filing details) and Decrypt Nov 20 (Bloomberg-reported application, MoonPay X confirmation, charter queue context). Draft written and audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-21T01:22:25.548Z",
+      "lastReviewedDay": "2026-11-21"
     },
     "4f4a44d5b3d74c83e21a": {
       "source": "Cointelegraph",
@@ -403227,6 +403241,23 @@
           ],
           "reviewedAt": "2026-11-21T01:22:21.247Z",
           "articleSlug": "vaneckgemini"
+        },
+        "40a992878efd8a210bd6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified on two independent sites: Cointelegraph Nov 19 (OCC filing details) and Decrypt Nov 20 (Bloomberg-reported application, MoonPay X confirmation, charter queue context). Draft written and audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-21T01:22:25.548Z",
+          "articleSlug": "moonpaycharter"
         }
       },
       "baselineSlugs": [
