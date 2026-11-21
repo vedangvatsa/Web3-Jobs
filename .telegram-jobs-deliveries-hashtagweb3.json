@@ -2262,7 +2262,7 @@
     "sentAt": "2026-11-19T19:33:27.538Z"
   },
   "10e90019-a739-486e-8a3a-f22d9f9bd7ba": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-21T14:06:05.968Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2375,6 +2375,8 @@
       }
     ],
     "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/mgr249?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Strategy Senior Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/cmp154?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Onchain Compliance</a>\n- Ripio is hiring <a href=\"https://hashtagweb3.com/mkt176?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Operations &amp; CRM Senior</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/tr142?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">C++ Trading Developer, Quant Trading Team</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/be119?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer (Backend): Ledger - Wallets</a>",
-    "slotKey": "2026-11-21:afternoon"
+    "slotKey": "2026-11-21:afternoon",
+    "messageId": 156421,
+    "sentAt": "2026-11-21T14:06:41.194Z"
   }
 }
