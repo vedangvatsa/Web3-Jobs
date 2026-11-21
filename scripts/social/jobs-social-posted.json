@@ -164555,6 +164555,37 @@
       "attemptId": "3ada0f31-6962-4a9c-af63-50b48d924f9a",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 21-Nov-26 10:15:46 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ACPAJWRbwpDESBwaXbGaxIJ\"}"
+    },
+    {
+      "slug": "mgr241",
+      "company": "Riot Platforms",
+      "title": "Events Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-21T18:15:35.330Z",
+      "expectedText": "Riot Platforms is hiring Events Manager: https://hashtagweb3.com/mgr241/bsky?og=7",
+      "snapshot": {
+        "id": "8b22dafe-0b8b-4325-9426-2cdd91b09355",
+        "title": "Events Manager",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/8b22dafe-0b8b-4325-9426-2cdd91b09355",
+        "date": "2026-11-09T10:26:49.904000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Denver, CO - Hybrid",
+        "department": "Marketing & Program Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mgr241"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Events Manager: https://hashtagweb3.com/mgr241/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/mgr241/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/mgr241.png?v=7",
+        "company": "Riot Platforms",
+        "title": "Events Manager",
+        "description": "Join Riot Platforms as Events Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "d00a2fa4-c41f-4a5c-9059-313782d10c1a",
+      "verification": "creating"
     }
   ]
 }
