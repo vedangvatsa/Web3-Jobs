@@ -163148,7 +163148,8 @@
       },
       "account": "channel:build",
       "attemptId": "d6204690-c5d2-465c-a4be-15a3bd830c7b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xda05de75dcf51c5bbd83db719b52e8409fb3eb4e"
     }
   ]
 }
