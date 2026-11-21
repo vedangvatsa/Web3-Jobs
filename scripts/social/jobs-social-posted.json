@@ -162226,7 +162226,8 @@
       },
       "account": "channel:dev",
       "attemptId": "b014e9ae-88c6-4521-ba3a-815b6631a5c6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd9ae90c03a3765d48cb1b9e80e5488f2525a98bc"
     }
   ]
 }
