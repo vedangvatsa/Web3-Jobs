@@ -162051,7 +162051,8 @@
       },
       "account": "profile",
       "attemptId": "2d0eb286-256d-41e2-bce5-2a5d294dd2d4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7d402f1ca31c9e960ee560a1794e44370deb080b"
     }
   ]
 }
