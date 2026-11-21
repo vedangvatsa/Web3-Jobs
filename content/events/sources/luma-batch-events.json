@@ -727,37 +727,6 @@
     }
   },
   {
-    "id": "luma-batch-OZx1friXAoHVZKN",
-    "slug": "fdvdqkq9",
-    "name": "Rust Melbourne Meetup",
-    "description": "Two talks on the night.\n\nSpeaker Spots are still open - Please register your interest at rustmelbourne.com/speak\n\nSponsored by Superteam Australia\n\nSuperteam Australia backs builders in the Solana ecosystem. It connects Australian developers, founders and operators to grants, bounties, hackathons and a global network of Superteams. If you're building in Rust, you're already halfway to building on Solana. Come say hi.\n\nVenue: Stone & Chalk\n\nHosted at Stone & Chalk Melbourne Startup Hub, 121 King St. Stone & Chalk is Australia's leading innovation community, home to hundreds of startups and scaleups across fintech and emerging tech. Thanks to the Stone & Chalk team for having us.\n\nCatering and drinks provided. Doors open 5.30pm",
-    "startDate": "2026-10-22T06:30:00.000Z",
-    "endDate": "2026-10-22T09:00:00.000Z",
-    "city": "Melbourne",
-    "country": "Australia",
-    "location": "Stone & Chalk Melbourne Startup Hub, Stone & Chalk Melbourne Startup Hub, 121 King St, Melbourne VIC 3000, Australia",
-    "url": "https://luma.com/fdvdqkq9",
-    "registrationUrl": "https://luma.com/fdvdqkq9",
-    "coverImage": "/events/luma-batch-OZx1friXAoHVZKN-c2143546.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Rust Melbourne",
-      "Superteam Australia"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Australia/Melbourne",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "sourceVerification": {
-      "url": "https://luma.com/fdvdqkq9",
-      "eventId": "calev-OZx1friXAoHVZKN",
-      "fetchedAt": "2026-09-22T11:31:03.000Z",
-      "method": "luma-page",
-      "apifyRunId": "WHcLsVUsFvlHmcVYz"
-    }
-  },
-  {
     "id": "luma-batch-9tJirJDFIno1LUr",
     "slug": "london-oct-23",
     "name": "Co-Working Fridays : London Chapter",

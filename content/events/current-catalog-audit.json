@@ -47,49 +47,6 @@
       }
     },
     {
-      "id": "luma-batch-OZx1friXAoHVZKN",
-      "oldSlug": "fdvdqkq9",
-      "slug": "rust-melbourne-meetup",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 735,
-      "characters": 735,
-      "factChanges": {
-        "locationHidden": false,
-        "venueName": "Stone & Chalk Melbourne Startup Hub",
-        "streetAddress": "121 King St, Melbourne",
-        "addressLocality": "Melbourne",
-        "addressRegion": "Victoria",
-        "addressCountry": "AU",
-        "neighborhood": "CBD",
-        "coordinates": {
-          "latitude": -37.817251,
-          "longitude": 144.955775
-        },
-        "organizer": {
-          "type": "Organization",
-          "name": "Rust Melbourne",
-          "url": "https://rustmelbourne.com/"
-        },
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/fdvdqkq9",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/fdvdqkq9",
-        "fetchedAt": "2026-10-12T11:41:11.654Z",
-        "status": 200,
-        "sha256": "83f965ebebc0fffbfbbbf2d10ebe97bb4c5bec2e802bfdc891f3511905aaa081"
-      }
-    },
-    {
       "id": "premier-blockfest-africa-2026",
       "oldSlug": "blockfest-africa",
       "slug": "blockfest-africa",

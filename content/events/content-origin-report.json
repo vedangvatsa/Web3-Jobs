@@ -40,19 +40,6 @@
       ]
     },
     {
-      "id": "luma-batch-OZx1friXAoHVZKN",
-      "slug": "fdvdqkq9",
-      "name": "Rust Melbourne Meetup",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/fdvdqkq9",
-        "fetchedAt": "2026-09-22T11:31:03.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "premier-blockfest-africa-2026",
       "slug": "blockfest-africa",
       "name": "Blockf3st Africa 2026",

@@ -10357,5 +10357,48 @@
       "what-if-someone-tried-create-1-million-extra-bitcoin-vadodara",
       "discovery-evt-lvrdeinaezfluis"
     ]
+  },
+  "luma-host-evt-evt-3vTAJvXoBBaY3HB": {
+    "until": "2027-11-21T14:05:39.740Z",
+    "slugs": [
+      "cowork-ethglobal-vadodara-pu-dao-near-protocol",
+      "luma-host-evt-evt-3vtajvxobbay3hb"
+    ]
+  },
+  "luma-batch-OZx1friXAoHVZKN": {
+    "until": "2027-11-21T14:05:39.740Z",
+    "slugs": [
+      "rust-melbourne-meetup",
+      "fdvdqkq9",
+      "luma-batch-ozx1frixaohvzkn"
+    ]
+  },
+  "mu-316573253": {
+    "until": "2027-11-21T14:05:39.740Z",
+    "slugs": [
+      "houston-crypto-meetup-43",
+      "mu-316573253"
+    ]
+  },
+  "discovery-evt-xcJ3hkBPmdfgdHm": {
+    "until": "2027-11-21T14:05:39.740Z",
+    "slugs": [
+      "21meetup-octubre",
+      "discovery-evt-xcj3hkbpmdfgdhm"
+    ]
+  },
+  "discovery-evt-S85peLd1TLeNc05": {
+    "until": "2027-11-21T14:05:39.740Z",
+    "slugs": [
+      "solana-student-bootcamp-ai",
+      "discovery-evt-s85peld1tlenc05"
+    ]
+  },
+  "discovery-evt-HlX4KTQytAD4DH7": {
+    "until": "2027-11-21T14:05:39.740Z",
+    "slugs": [
+      "team1-india-university-workshop-mit-wpu-pune",
+      "discovery-evt-hlx4ktqytad4dh7"
+    ]
   }
 }

@@ -70,55 +70,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-OZx1friXAoHVZKN": {
-    "name": "Rust Melbourne Meetup",
-    "startDate": "2026-10-22T06:30:00.000Z",
-    "endDate": "2026-10-22T09:00:00.000Z",
-    "timezone": "Australia/Melbourne",
-    "registrationUrl": "https://luma.com/fdvdqkq9",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Melbourne",
-    "country": "Australia",
-    "location": "Stone & Chalk Melbourne Startup Hub, 121 King St, Melbourne VIC 3000, Australia",
-    "venueName": "Stone & Chalk Melbourne Startup Hub",
-    "streetAddress": "121 King St, Melbourne",
-    "addressLocality": "Melbourne",
-    "addressRegion": "Victoria",
-    "addressCountry": "AU",
-    "neighborhood": "CBD",
-    "coordinates": {
-      "latitude": -37.817251,
-      "longitude": 144.955775
-    },
-    "hosts": [
-      "Rust Melbourne",
-      "Superteam Australia"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Rust Melbourne",
-      "url": "https://rustmelbourne.com/"
-    },
-    "price": "Free",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/fdvdqkq9",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/fdvdqkq9",
-      "eventId": "evt-MN8icQzIdiX7OYz",
-      "fetchedAt": "2026-10-12T11:41:11.654Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-evtpzY4t9z1ap4VH": {
     "name": "UnBundled - Autumn edition",
     "startDate": "2026-10-22T07:00:00.000Z",

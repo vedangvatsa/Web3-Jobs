@@ -39,17 +39,6 @@
       "descriptionSha256": "10b94fa79e34cb137232ccba0d4d7458e603245f0aba8073814c329af2a0e616"
     },
     {
-      "id": "luma-batch-OZx1friXAoHVZKN",
-      "slug": "rust-melbourne-meetup",
-      "aliases": [
-        "fdvdqkq9"
-      ],
-      "startDate": "2026-10-22T06:30:00.000Z",
-      "endDate": "2026-10-22T09:00:00.000Z",
-      "timezone": "Australia/Melbourne",
-      "descriptionSha256": "64ea5bc13b316f4a381b601a45c92195d54f305172b6b4fb3b9c685dfa1de216"
-    },
-    {
       "id": "premier-blockfest-africa-2026",
       "slug": "blockfest-africa",
       "aliases": [],
@@ -2846,43 +2835,6 @@
       }
     },
     {
-      "id": "mu-316573253",
-      "name": "Houston Crypto Meetup #43",
-      "startDate": "2026-10-21T19:00:00-05:00",
-      "endDate": "2026-10-21T21:00:00-05:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/houston-crypto-group/events/316573253/",
-      "lane": "americas",
-      "reason": "No inventory identity match.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/houston-crypto-group/events/316573253/",
-          "fetchedAt": "2026-10-20T08:05:45.327Z",
-          "excerpt": "Houston Crypto Meetup #43; 2026-10-21T19:00:00-05:00 to 21:00:00-05:00; Heights Bier Garten, 1433 N. Shepherd Dr, Houston. We come together to connect, learn, and exchange ideas about what’s next in Bitcoin, crypto, and Web3. Lessons from past market cycles. Cost: FREE.",
-          "sha256": "4c149eb8e4f6eb63192ff22cf8489cfac39fee02f064605a5db96cf26e0c4e2d",
-          "representation": "html; JSON-LD and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:57.208Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/d/2/9/0/600_534833904.jpeg",
-        "fetchedAt": "2026-10-20T09:49:13.511Z",
-        "status": 200,
-        "local": "/events/mu-316573253-0a77b5f1.webp",
-        "sourceSha256": "a5ddda626118d4b7f55aaabb6a5bc9e8e7ae02456caaf74ea71046e8ceb715de",
-        "sha256": "8b2951bb917896ab33fec5ed0adede9c48fb2ad3fffa77333068de4d7e951c54",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 47500
-      }
-    },
-    {
       "id": "mu-316822252",
       "name": "EthVan weekly meetup",
       "startDate": "2026-10-22T18:00:00-07:00",
@@ -3215,45 +3167,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 146862
-      }
-    },
-    {
-      "id": "discovery-evt-xcJ3hkBPmdfgdHm",
-      "name": "21MeetUp | Octubre 🎃👻",
-      "startDate": "2026-10-21T23:00:00.000Z",
-      "endDate": "2026-10-22T02:00:00.000Z",
-      "timezone": "America/Argentina/Buenos_Aires",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-xcJ3hkBPmdfgdHm",
-      "url": "https://luma.com/e7vevovt",
-      "lane": "americas",
-      "reason": "No inventory match. Public community meetup organized by ONG Bitcoin Argentina.",
-      "evidence": [
-        {
-          "url": "https://luma.com/e7vevovt",
-          "fetchedAt": "2026-10-20T08:05:07.811Z",
-          "excerpt": "evt-xcJ3hkBPmdfgdHm; 2026-10-21T23:00:00.000Z to 2026-10-22T02:00:00.000Z; America/Argentina/Buenos_Aires; L'aperó Bar, Iberá 1800, C1429 Buenos Aires; public, open, approval false. Host ONG Bitcoin Argentina. ENTRADA LIBRE Y GRATUITA. Miércoles 21 de octubre | 20 hs. Las consumiciones quedan a cargo de los asistentes.",
-          "sha256": "6063ca6d0601b86c299356b3b85ba04c6d4991c1fa21549bca205013df6500e3",
-          "representation": "html; __NEXT_DATA__ and Spanish description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:08.278Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/7d/493a2392-f689-4a73-8288-5b462f2a0fe0.png",
-        "fetchedAt": "2026-10-20T09:49:18.457Z",
-        "status": 200,
-        "local": "/events/discovery-evt-xcj3hkbpmdfgdhm-049408ac.webp",
-        "sourceSha256": "4a8e1f47ab17315090ab063b6f24b7ae295a70ebcf7d983c4ba2b3505c96c357",
-        "sha256": "e7f5f72287c87d3dd332223e272042bf77788dc5c27fa10b7c830ca37577ff1f",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 125232
       }
     },
     {
@@ -5497,44 +5410,6 @@
       }
     },
     {
-      "id": "discovery-evt-S85peLd1TLeNc05",
-      "name": "Solana Student Bootcamp | AIで始める、ブロックチェーン開発",
-      "startDate": "2026-10-22T17:00:00+09:00",
-      "endDate": "2026-10-22T19:00:00+09:00",
-      "timezone": "Asia/Tokyo",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-S85peLd1TLeNc05",
-      "url": "https://luma.com/lmy1gn6j",
-      "lane": "asia-africa",
-      "reason": "No inventory identity match. The primary event fields verify the 22 October occurrence; later programme dates are context, not separately generated events. Public registration requires approval.",
-      "evidence": [
-        {
-          "url": "https://luma.com/lmy1gn6j",
-          "fetchedAt": "2026-10-20T08:03:58.233Z",
-          "excerpt": "event.api_id=evt-S85peLd1TLeNc05; start_at=2026-10-22T08:00:00.000Z; end_at=2026-10-22T10:00:00.000Z; timezone=Asia/Tokyo; visibility=public; geo_address_visibility=guests-only. 第2回：2026年10月22日（木）. 開催時間：全4回とも17:00〜19:00（日本時間）. 準備するもの: PC. Solana Foundation DevRel Japan; CAC（株式会社シーエーシー）; 千葉工業大学 web3 研究会; xFin Labs; Superteam Japan.",
-          "representation": "Public primary-page copy and embedded __NEXT_DATA__ event fields; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:44.150Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/og/d930dd7c-ed4e-44c6-80d3-0609bee3bde4.png",
-        "fetchedAt": "2026-10-20T09:49:46.249Z",
-        "status": 200,
-        "local": "/events/discovery-evt-s85peld1tlenc05-908b52ba.webp",
-        "sourceSha256": "9965dfc3843c96f3847449bed268df2083579c1ad9c20973ebe1adda70dd3611",
-        "sha256": "be727a7c095ccdd2cdaccc18b62a919a037e3289c415c7c44711ee5f0c6d8479",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 136216
-      }
-    },
-    {
       "id": "luma-evt-hrybBLtJ4Gzmaba",
       "name": "Ethereum Meetup Tokyo Vol.26",
       "startDate": "2026-10-27T19:30:00+09:00",
@@ -6542,45 +6417,6 @@
       }
     },
     {
-      "id": "discovery-evt-HlX4KTQytAD4DH7",
-      "name": "Team1 India University Workshop - MIT - WPU, Pune",
-      "startDate": "2026-10-22T05:30:00.000Z",
-      "endDate": "2026-10-22T08:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-HlX4KTQytAD4DH7",
-      "url": "https://luma.com/2y0p2tkd",
-      "lane": "india",
-      "reason": "No matching identity in runtime, all sources, holds or tombstones. A distinct university occurrence, confirmed on Team1 India's organizer calendar and registration page.",
-      "evidence": [
-        {
-          "url": "https://luma.com/2y0p2tkd",
-          "fetchedAt": "2026-10-20T08:57:02.969Z",
-          "excerpt": "Team1 Builders Connect at MIT-WPU, Pune. Introduction to Web3, Blockchain & the Avalanche Ecosystem; Hands-on Builder Session: Getting Started with Avalanche. A laptop is mandatory. Program: 11:00 AM check-in, 2:00 PM closing. start_at 2026-10-22T05:30:00.000Z; end_at 2026-10-22T08:30:00.000Z; Asia/Kolkata; public venue MIT World Peace University, Survey No 124, Paud Rd, Kothrud, Pune 411038. visibility public; require_approval true.",
-          "sha256": "28ddebbd1497a02126e208dd3c4c74dba819ea41e469b2d59df1f37e6401210e",
-          "representation": "HTTP response HTML, organizer description and embedded event data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:03.616Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/0r/e2e28454-573c-40ee-82f8-891927a46f91.jpg",
-        "fetchedAt": "2026-10-20T09:50:02.351Z",
-        "status": 200,
-        "local": "/events/discovery-evt-hlx4ktqytad4dh7-6fc737e3.webp",
-        "sourceSha256": "ab037f96a631bdee9807584506eb4838be190f3652ef8eb19cb7e2e0207da5b7",
-        "sha256": "6ffd204ca3c339f1640a16786d75097b8b32a6b0f14ef9bfe4dba33c0065b3fe",
-        "originalWidth": 1600,
-        "originalHeight": 1606,
-        "width": 1594,
-        "height": 1600,
-        "bytes": 299132
-      }
-    },
-    {
       "id": "discovery-evt-Jiz1nYxlG75X1SX",
       "name": "Team1 India University Workshop - Indira College of Engineering & Management, Pune",
       "startDate": "2026-10-23T05:30:00.000Z",
@@ -6904,52 +6740,6 @@
         "width": 1600,
         "height": 1378,
         "bytes": 49852
-      }
-    },
-    {
-      "id": "luma-host-evt-evt-3vTAJvXoBBaY3HB",
-      "name": "Cowork with ETHGlobal in Vadodara with PU DAO & NEAR Protocol",
-      "startDate": "2026-10-22T08:00:00.000Z",
-      "endDate": "2026-10-22T11:00:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-3vTAJvXoBBaY3HB",
-      "url": "https://luma.com/ethglobal-cowork-vadodara",
-      "lane": "india",
-      "reason": "Exact URL and evt-3vTAJvXoBBaY3HB match in events-cache.json, absent from runtime and not held/tombstoned. Current registration and ETHGlobal Luma calendar agree on October 22; cached source and website index's October 21 are stale.",
-      "evidence": [
-        {
-          "url": "https://luma.com/ethglobal-cowork-vadodara",
-          "fetchedAt": "2026-10-20T08:51:11.628Z",
-          "excerpt": "Intro to NEAR Protocol, Swayam, NEAR Legion Member at NEAR Foundation. Learn about technology, developer opportunities and community. Public location: Seminar Hall, Lakshya 2047 Building, Parul University, Limda, Vadodara, Gujarat 391760. start_at 2026-10-22T08:00:00.000Z; end_at 2026-10-22T11:00:00.000Z; Asia/Kolkata; public; require_approval false.",
-          "sha256": "866f2fe04b0abe9637229df7a920aa7214c41a0ba8fe092b1d7b61e61b1c5c16",
-          "representation": "HTTP response HTML and public embedded event data"
-        },
-        {
-          "url": "https://luma.com/ethglobal",
-          "fetchedAt": "2026-10-20T08:57:22.510Z",
-          "excerpt": "Organizer calendar upcoming entry evt-3vTAJvXoBBaY3HB has start_at 2026-10-22T08:00:00.000Z and end_at 2026-10-22T11:00:00.000Z. has_more=false.",
-          "sha256": "7cff8c4f854c7a1d6d334b0dfc6954c989c1579a68d36010449056c157119d93",
-          "representation": "Public calendar HTML embedded upcoming data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:10.319Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/u1/d5d629fc-4d8a-48b2-8fed-5988f8011cfa.png",
-        "fetchedAt": "2026-10-20T09:50:06.508Z",
-        "status": 200,
-        "local": "/events/luma-host-evt-evt-3vtajvxobbay3hb-45f86f2a.webp",
-        "sourceSha256": "8aa0aacbe0256ccb9387f0acc8867abbc782519f0ed34ebbb1715b7d26dbb5f0",
-        "sha256": "5dd9232be4d7ca82671d7e9680d9c697236d720f59b33e55cd3c3ea4fa36db1a",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 67144
       }
     },
     {
@@ -10938,12 +10728,6 @@
       "lane": "asia-africa"
     },
     {
-      "url": "https://luma.com/lmy1gn6j",
-      "result": "verified-new",
-      "note": "22 October occurrence of four-session Solana student programme. Public, approval required, exact address restricted.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://luma.com/lw4cn2jv",
       "result": "verified-existing-unpublished",
       "note": "Tokyo event has an empty source description; primary supplies agenda, venue and business-card requirement.",
@@ -11748,12 +11532,6 @@
       "lane": "india"
     },
     {
-      "url": "https://luma.com/ethglobal-cowork-vadodara",
-      "result": "verified-existing-unpublished",
-      "note": "Primary registration and host calendar now agree on October 22. Cached source and website index still say October 21.",
-      "lane": "india"
-    },
-    {
       "url": "https://luma.com/ethglobal-hh-newdelhi",
       "result": "verified-existing-unpublished",
       "note": "October 22, public approval-required event; exact venue remains guests-only.",
@@ -11817,12 +11595,6 @@
       "url": "https://luma.com/5dgtda35",
       "result": "verified-existing-unpublished",
       "note": "ICONX New Delhi. Public November 1 Bitcoin-mining education event; registration explicitly automatic, not approval-required.",
-      "lane": "india"
-    },
-    {
-      "url": "https://luma.com/2y0p2tkd",
-      "result": "verified-new",
-      "note": "Team1 MIT-WPU workshop, October 22, 11:00-14:00 IST. Public approval-required; laptop mandatory.",
       "lane": "india"
     },
     {
