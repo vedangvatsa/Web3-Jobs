@@ -660,7 +660,7 @@
     "sentAt": "2026-11-21T14:11:23.394Z"
   },
   "aa61e907-c1f2-4a8a-a53e-53d6f6246f06": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-21T23:53:51.838Z",
     "stories": [
       {
@@ -688,6 +688,8 @@
         "originalTitle": "Payward agrees to buy Tribe Capital in private-markets push"
       }
     ],
-    "slotKey": "2026-11-21:evening"
+    "slotKey": "2026-11-21:evening",
+    "messageId": 156424,
+    "sentAt": "2026-11-21T23:53:55.850Z"
   }
 }

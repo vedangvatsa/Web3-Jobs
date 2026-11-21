@@ -59,6 +59,9 @@
   "https://hashtagweb3.com/coinbaseagent?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/hashi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/geniusletter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/deathbets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/masbills?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/krakentribe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -179,6 +182,12 @@
   "Hashi goes live on Sui mainnet with Bitcoin-backed lending and 20-plus partners",
   "Six US Senators Request Treasury Safe Harbor for Stablecoins",
   "Six senators urge Treasury to give state stablecoin issuers GENIUS Act safe harbor",
+  "US Senate Passes Bill Prohibiting War and Death Bets",
+  "Senate passes DEATH BETS Act banning prediction market bets on war and death",
+  "MAS Settles S$100 Million Tokenized Bills With Wholesale CBDC",
+  "MAS settles S$100 million tokenised bill sale with wholesale CBDC",
+  "Payward to Acquire Venture Firm Tribe Capital",
+  "Payward agrees to buy Tribe Capital in private-markets push",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -238,5 +247,8 @@
   "fp:asian|berlin|buyer|campaign|connect|devic|disclos|dubai|germany|hardwar",
   "fp:47m|account|automat|block|coinbas|deepfak|dur|elon|fak|fraudulent",
   "fp:against|and20|back|goe|hashi|hbtc|lend|liv|mainnet|mint",
-  "fp:act|ask|bessent|extend|genius|giv|harbor|issuer|lawmaker|licens"
+  "fp:act|ask|bessent|extend|genius|giv|harbor|issuer|lawmaker|licens",
+  "fp:act|assassination|bann|bar|bet|bill|cftc|contract|death|legislation",
+  "fp:100m|authority|bill|cbdc|digital|four|issu|ledger|network|november6",
+  "fp:27b|acquir|agre|asset|buy|capital|early2027|expect|firm|manager"
 ]
