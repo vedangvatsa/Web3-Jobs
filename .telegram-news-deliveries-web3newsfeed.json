@@ -658,5 +658,36 @@
     "slotKey": "2026-11-21:afternoon",
     "messageId": 65845,
     "sentAt": "2026-11-21T14:09:39.461Z"
+  },
+  "4f148d0f-9e76-4432-8abe-9676bf1b332a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-21T23:54:27.735Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Hashi launches Bitcoin-backed lending protocol on Sui mainnet",
+        "summary": "The platform mints hBTC against bitcoin for lending and vault services with twenty partner organizations.",
+        "link": "https://hashtagweb3.com/hashi?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hashi goes live on Sui mainnet with Bitcoin-backed lending and 20-plus partners"
+      },
+      {
+        "index": -1,
+        "headline": "Payward to Acquire Venture Capital Firm Tribe Capital",
+        "summary": "The acquisition of the $2.7 billion asset manager is expected to close in the first quarter of 2027.",
+        "link": "https://hashtagweb3.com/krakentribe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Payward agrees to buy Tribe Capital in private-markets push"
+      },
+      {
+        "index": -1,
+        "headline": "Six Senators Request Treasury Safe Harbor for Stablecoin Issuers",
+        "summary": "Lawmakers asked Treasury Secretary Bessent to extend GENIUS Act Section 3 protections to state-licensed stablecoin firms.",
+        "link": "https://hashtagweb3.com/geniusletter?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Six senators urge Treasury to give state stablecoin issuers GENIUS Act safe harbor"
+      }
+    ],
+    "slotKey": "2026-11-21:evening"
   }
 }
