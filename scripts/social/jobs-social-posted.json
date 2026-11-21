@@ -161986,6 +161986,38 @@
       "attemptId": "c4c85eee-f574-44ee-8647-2b61a6b83b12",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 21-Nov-26 06:06:29 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AULw00rVXnA5_OpDoMBZyev\"}"
+    },
+    {
+      "slug": "ops158",
+      "company": "Bitpanda",
+      "title": "CRM Automation Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-11-21T14:06:17.664Z",
+      "expectedText": "Bitpanda is hiring CRM Automation Specialist: https://hashtagweb3.com/ops158/bsky?og=7",
+      "snapshot": {
+        "id": "5030877101",
+        "title": "CRM Automation Specialist",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5030877101",
+        "date": "2026-11-09T09:16:41-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Kraków, Lesser Poland Voivodeship, Poland",
+        "department": "Growth, Marketing & Communications",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops158"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring CRM Automation Specialist: https://hashtagweb3.com/ops158/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops158/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops158.png?v=7",
+        "company": "Bitpanda",
+        "title": "CRM Automation Specialist",
+        "description": "Join Bitpanda as CRM Automation Specialist. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "0a674634-7906-4d2d-ab8b-267807771124",
+      "verification": "creating"
     }
   ]
 }
