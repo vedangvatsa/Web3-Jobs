@@ -205137,7 +205137,23 @@
       "firstSeenAt": "2026-11-21T00:54:20.657Z",
       "attempts": 0,
       "expiresAt": "2026-11-23T22:05:31.000Z",
-      "lastSeenAt": "2026-11-21T00:54:20.657Z"
+      "lastSeenAt": "2026-11-21T00:54:20.657Z",
+      "articleSlug": "fairmintvenue",
+      "draftProgress": {
+        "id": "5e132cb5991bca741762",
+        "day": "2026-11-21",
+        "articleSlug": "fairmintvenue",
+        "note": "Round 3: not yet reviewed. CoinDesk returned HTTP 429 on actual GET; Crypto Briefing returned HTTP 200 in the readiness pass but has not been opened and read. No facts verified, no draft.",
+        "sourceChecks": [
+          {
+            "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-21T01:39:57.518Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "6e8f57d641c5c9181bca": {
       "source": "The Block",
