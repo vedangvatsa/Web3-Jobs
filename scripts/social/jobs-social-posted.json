@@ -164585,7 +164585,8 @@
         "description": "Join Riot Platforms as Events Manager. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "d00a2fa4-c41f-4a5c-9059-313782d10c1a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2tph3gcrx2e"
     }
   ]
 }
