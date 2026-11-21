@@ -59,6 +59,9 @@
   "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
   "https://www.marktechpost.com/2026/11/21/openai-gpt-live-1-1-api-standby-mode/",
   "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+  "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+  "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
+  "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -179,6 +182,12 @@
   "OpenAI Ships GPT-Live-1.1 for Voice Agents, Cuts Idle Cost to $0.02/Min",
   "Chess.com Expands Platform to Include 10 Classic Games",
   "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+  "Anthropic uses Claude model to prove Riemann hypothesis",
+  "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+  "Nvidia releases Nemotron-Labs-Sigma open diffusion models",
+  "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
+  "Signal restricts screenshots on Android and iOS apps",
+  "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -238,5 +247,8 @@
   "fp:bandwidth|beneath|bet|can|chip|comput|dram|generation|hardwar|increas",
   "fp:aim|center|construction|despit|foreign|infrastructur|insid|investment|keep|local",
   "fp:api|cent|cost|cut|gpt|idl|improv|live11|lower|min",
-  "fp:add|backgammon|checker|chess|classic|com|gam|hub|include10|introduc"
+  "fp:add|backgammon|checker|chess|classic|com|gam|hub|include10|introduc",
+  "fp:all|anthropic|claim|compet|draft|formal|generat|hour|human|hypothesis",
+  "fp:autoregressiv|checkpoint|continuous|decod|diffusion|faster|four|lab|nemotron|nvidia",
+  "fp:android|app|captur|confront|existential|focus|limit|messag|mobil|monitor"
 ]
