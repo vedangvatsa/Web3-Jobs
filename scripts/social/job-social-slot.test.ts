@@ -61,7 +61,7 @@ function mockSite(t: TestContext, extra: (url: string, init?: RequestInit) => Pr
   });
 }
 
-test('scheduled social uses the shared inclusive start and exclusive 60-minute end in every slot', () => {
+test('scheduled social uses the shared inclusive start and exclusive next-slot end in every slot', () => {
   for (const name of ['morning', 'afternoon', 'evening']) {
     const window = postingSlot(name, date);
     let now = window.start - 1;

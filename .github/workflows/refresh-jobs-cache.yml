@@ -1,14 +1,11 @@
 name: Publish Jobs, Events & Social
 
-# Three slots a day. GitHub's own cron on this public repo is delivered
-# hours late (the 03:30 UTC / 9:00 IST event routinely starts ~08:00–09:10 UTC),
-# so the on-time clock is an external workflow_dispatch (Mac launchd or
-# Cloud Scheduler). The cron below stays as a backup. Successful daily work,
-# rollouts, and social slots have separate completion stamps.
-# Social and Telegram start after the gate using already-published catalogs,
-# independently of ingestion, news drafting, event fetching, and deployment.
-# Telegram can send during a slot's first 60 minutes; late backups cannot
-# catch up with extra posts.
+# Three slots a day. GitHub Actions cron is the only scheduler.
+# Public-repo cron often keeps the original schedule string while landing hours
+# late, so scheduled runs pick the wall-clock slot that is open now, and each
+# slot stays open until the next one starts. Receipts still prevent a second
+# digest per destination. Social and Telegram start after the gate using
+# already-published catalogs, independently of ingestion, news, events, and deploy.
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
 # Resend alerts. Social and Telegram run alongside this work. Auto-deploy stays off.
@@ -21,7 +18,7 @@ name: Publish Jobs, Events & Social
 
 on:
   schedule:
-    # 9 AM IST / 11:30 AM SGT = 3:30 AM UTC — backup only; do not rely on this for 9:00
+    # 9 AM IST / 11:30 AM SGT = 3:30 AM UTC
     - cron: '30 3 * * *'
     # 5 PM IST / 7:30 PM SGT = 11:30 AM UTC
     - cron: '30 11 * * *'
@@ -145,13 +142,14 @@ jobs:
             exit 0
           fi
           SLOT=""
-          case "$CRON" in
-            "30 3 * * *") SLOT=morning ;;
-            "30 11 * * *") SLOT=afternoon ;;
-            "30 19 * * *") SLOT=evening ;;
-          esac
-          if [ -z "$SLOT" ]; then
+          TODAY=""
+          if [ -n "$CRON" ]; then
+            # Late cron keeps the original schedule label (e.g. morning cron at 11:39 UTC
+            # still reports "30 3 * * *"). Use the open wall-clock slot instead.
+            eval "$(node --input-type=module -e "import { activeSlotAt } from './scripts/social/posting-slot.mjs'; const a = activeSlotAt(); process.stdout.write('SLOT=' + a.slot + '\nTODAY=' + a.date + '\n')" )"
+          else
             SLOT="${INPUT:-morning}"
+            TODAY=$(date -u +%F)
           fi
           case "$SLOT" in
             morning|afternoon|evening) ;;
@@ -160,7 +158,6 @@ jobs:
               exit 1
               ;;
           esac
-          TODAY=$(date -u +%F)
           STATE="scripts/social/publish-slot-state.json"
           FORCE_SOCIAL="${{ github.event.inputs.force_social }}" node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
           node scripts/social/job-video-slot.mjs "$SLOT" "$TODAY" >> "$GITHUB_OUTPUT"

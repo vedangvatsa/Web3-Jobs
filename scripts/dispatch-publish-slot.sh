@@ -1,6 +1,6 @@
 #!/bin/zsh
-# Fire one publish slot on GitHub. Used by launchd at 9:00 / 17:00 / 01:00 IST
-# because GitHub's public-repo cron delivers the same workflow hours late.
+# Manual helper only. Production posting uses GitHub Actions cron on
+# refresh-jobs-cache.yml. Do not wire this to launchd or any always-on Mac.
 set -euo pipefail
 SLOT="${1:-morning}"
 FORCE="${2:-}"
@@ -12,7 +12,7 @@ case "$SLOT" in
     ;;
 esac
 export PATH="/opt/homebrew/bin:/usr/local/bin:${PATH:-}"
-REPO="/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs"
+REPO="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO"
 
 EXTRA_FLAGS=()

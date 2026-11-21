@@ -8,7 +8,7 @@
 | Afternoon | 11:30 | 17:00 |
 | Evening | 19:30 | 01:00 the next day |
 
-The Mac launch agents dispatch these slots; GitHub cron is the backup. Each slot has a 60-minute delivery window to allow for ingestion, deployment and queue delays. Early or late runs cannot send Telegram digests. A saved receipt prevents a second digest to the same destination in that slot, even if a different publisher fails.
+GitHub Actions cron is the only scheduler. Public-repo cron often keeps the original schedule label while landing hours late, so each run posts the wall-clock slot that is open now. Each slot stays open until the next slot starts (evening closes at the next day's morning). A saved receipt prevents a second digest to the same destination in that slot, even if a different publisher fails.
 
 ## Independent publishers
 

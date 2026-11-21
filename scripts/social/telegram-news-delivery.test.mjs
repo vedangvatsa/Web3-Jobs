@@ -132,7 +132,7 @@ test('a completed scheduled slot cannot post a second digest even with different
 test('a late cron run cannot create a reservation or send news', async t => {
   const options = fixture(t);
   const slot = postingSlot('morning', '2026-09-29');
-  t.mock.method(Date, 'now', () => Date.parse('2026-09-29T09:59:24Z'));
+  t.mock.method(Date, 'now', () => slot.end);
   await assert.rejects(deliverNewsOnce({ ...options, slot, persist: () => assert.fail(), send: async () => assert.fail() }), /Outside posting window/);
   assert.equal(fs.existsSync(options.ledgerFile), false);
 });

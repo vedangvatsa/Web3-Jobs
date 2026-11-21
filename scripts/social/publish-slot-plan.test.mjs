@@ -29,6 +29,8 @@ test('on-time social completion survives news failure while the single rollout r
   const state = recordSlot({}, morning, { ingest: 'success', news: 'failure', deploy: 'skipped', posts: 'success', telegram: 'success' });
   assert.equal(state.slots.morning, date);
   assert.equal(planSlot(state, 'morning', date, '2026-10-22T04:00:00Z').social, false);
+  // Morning stays open until afternoon starts, so a late morning publisher can still be due
+  // only when the slot stamp is missing; after completion it stays closed.
   const late = planSlot(state, 'morning', date, '2026-10-22T05:25:00Z');
   assert.deepEqual([late.morning, late.news, late.deploy, late.social, late.skip], [false, true, true, false, false]);
   const afternoon = planSlot(state, 'afternoon', date, '2026-10-22T11:30:00Z');
