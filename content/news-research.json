@@ -203885,20 +203885,16 @@
       "articleSlug": "antopen",
       "draftProgress": {
         "id": "5f02c12ece62deec96b6",
-        "day": "2026-11-20",
+        "day": "2026-11-21",
         "articleSlug": "antopen",
-        "note": "Read Cointelegraph and Unchained Nov 19 reports on the 11.50 Nasdaq open in full; BeInCrypto 403. Draft and image still pending.",
+        "note": "Round 3: prior round read Cointelegraph and Unchained Nov 19 reports on the 111.50 Nasdaq open (Unchained now 403; Cointelegraph and BeInCrypto returned HTTP 200 in today's readiness pass). Review unfinished at the time budget: qualification call and draft still pending, no source re-read completed this round.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price",
             "outcome": "read"
-          },
-          {
-            "url": "https://unchainedcrypto.com/crypto-traders-had-anthropic-within-50-cents-of-its-111-50-nasdaq-open",
-            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-20T02:11:56.740Z",
+        "updatedAt": "2026-11-21T01:39:41.002Z",
         "approved": false,
         "mustReview": true
       }
