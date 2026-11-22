@@ -168209,6 +168209,40 @@
       "attemptId": "2ad019ae-da7c-4479-adc3-59c874c3c618",
       "verification": "verified",
       "postId": "0x6948d68a35c8291a288684dfc9b026ccc68e1984"
+    },
+    {
+      "slug": "sls411",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-11-22T12:00:58.227Z",
+      "expectedText": "Fireblocks is hiring Sales Director\n\nhttps://hashtagweb3.com/sls411/fc?og=7",
+      "snapshot": {
+        "id": "4725948006",
+        "title": "Sales Director",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4725948006",
+        "date": "2026-11-04T07:21:39-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Seoul, South Korea",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls411"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director\n\nhttps://hashtagweb3.com/sls411/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls411/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "5dc48cfc-2b39-4800-8f17-c862a2872f5f",
+      "verification": "creating"
     }
   ]
 }
