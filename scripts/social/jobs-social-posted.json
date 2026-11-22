@@ -166776,7 +166776,8 @@
       },
       "account": "channel:product",
       "attemptId": "ddc42932-14b0-40a7-bcd1-c1c28b59a6d9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeae109b58c70a9bfdb5b2cb504f13e32cbaafdfe"
     }
   ]
 }
