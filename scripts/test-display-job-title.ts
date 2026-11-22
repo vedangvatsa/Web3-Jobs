@@ -5,6 +5,8 @@ import { displayJobTitle } from '../src/lib/display-job-title';
 test('drops a team clause when the role is already specific', () => {
   assert.equal(displayJobTitle('Senior Analyst, Controls and Governance'), 'Senior Analyst');
   assert.equal(displayJobTitle('Senior Software Engineer, Smart Order Router'), 'Senior Software Engineer');
+  assert.equal(displayJobTitle('Senior Product Manager, Asset Onboarding & DART'), 'Senior Product Manager');
+  assert.equal(displayJobTitle('Senior Full-Stack Engineer, Fortary'), 'Senior Full-Stack Engineer');
   assert.equal(displayJobTitle('Head of Marketing, 0x & Matcha'), 'Head of Marketing');
   assert.equal(displayJobTitle('Research Intern, Summer 2027'), 'Research Intern');
   assert.equal(displayJobTitle('Software Engineer, Software Factory'), 'Software Engineer');

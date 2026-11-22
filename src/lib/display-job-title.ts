@@ -182,6 +182,8 @@ function specialtyClause(segment: string): string | null {
 
   if (words(clean).length >= 3) return hasCraft(clean) ? clean : null;
   if (words(clean).some(isFillerWord) && !hasCraft(clean)) return null;
+  // "Fortary", "DART": a lone non-craft word after a specific role is a product/team name.
+  if (words(clean).length === 1 && !hasCraft(clean) && !ROLE_NOUN.test(clean) && !RANK_PHRASE.test(clean)) return null;
   return clean;
 }
 
