@@ -167646,7 +167646,8 @@
       },
       "account": "channel:design",
       "attemptId": "f794c42f-a90d-435c-afe8-54b4f2df3870",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9d39faaa1021c394d5fff85ed7647651f3a4a97b"
     }
   ]
 }
