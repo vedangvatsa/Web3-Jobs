@@ -167123,6 +167123,40 @@
       "attemptId": "0ed6b985-32b5-4791-8595-255ecd9592bf",
       "verification": "verified",
       "postId": "0x47ed3271fe675a55039746826746b78d3b922a13"
+    },
+    {
+      "slug": "cr2",
+      "company": "Hut 8",
+      "title": "Principal, Client Relations",
+      "platform": "farcaster",
+      "postedAt": "2026-11-22T11:56:16.619Z",
+      "expectedText": "Hut 8 is hiring Principal, Client Relations\n\nhttps://hashtagweb3.com/cr2/fc?og=7",
+      "snapshot": {
+        "id": "5457186008",
+        "title": "Principal, Client Relations",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457186008",
+        "date": "2026-11-10T00:55:12-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami",
+        "department": "Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cr2"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Client Relations\n\nhttps://hashtagweb3.com/cr2/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cr2/fc?og=7"
+          }
+        ],
+        "channel_id": "jobs"
+      },
+      "account": "channel:jobs",
+      "attemptId": "418939e0-db04-4102-aed6-e85dd0fbb769",
+      "verification": "creating"
     }
   ]
 }
