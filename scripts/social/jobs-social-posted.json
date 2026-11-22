@@ -168102,7 +168102,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "62a68d3e-3634-49ab-a351-3dbf33728bc9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd51e6a283c218054b6a7f2c9de670117a331733b"
     }
   ]
 }
