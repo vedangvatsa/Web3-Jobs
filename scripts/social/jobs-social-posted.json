@@ -169601,6 +169601,37 @@
       "attemptId": "9fff8383-12c3-46a1-9502-fbde51b1bb34",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 22-Nov-26 10:42:29 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AdPcoRMEN3Caq131CKx2FOU\"}"
+    },
+    {
+      "slug": "dc2",
+      "company": "Riot Platforms",
+      "title": "Director, Communications",
+      "platform": "bluesky",
+      "postedAt": "2026-11-22T18:42:18.631Z",
+      "expectedText": "Riot Platforms is hiring Director, Communications: https://hashtagweb3.com/dc2/bsky?og=7",
+      "snapshot": {
+        "id": "fa09e0ee-adee-44f8-b11f-12b7a2ff3e0c",
+        "title": "Director, Communications",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/fa09e0ee-adee-44f8-b11f-12b7a2ff3e0c",
+        "date": "2026-11-09T10:17:50.935000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Denver, CO - Hybrid",
+        "department": "Marketing & Program Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dc2"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Director, Communications: https://hashtagweb3.com/dc2/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dc2/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dc2.png?v=7",
+        "company": "Riot Platforms",
+        "title": "Director, Communications",
+        "description": "Join Riot Platforms as Director, Communications. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "b1cbedeb-401a-46a0-acf6-291214bc219e",
+      "verification": "creating"
     }
   ]
 }
