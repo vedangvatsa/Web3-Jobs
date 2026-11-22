@@ -5044,7 +5044,7 @@
     "sentAt": "2026-11-21T23:53:48.468Z"
   },
   "28b4b948-9c71-4e7f-8acb-fa062cfbd289": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-22T11:54:53.920Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -5159,6 +5159,8 @@
       }
     ],
     "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls547?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of GTM Strategy &amp; Operations - Third Party Sales &amp; Partner Distribution</a>\n- Kast is hiring <a href=\"https://hashtagweb3.com/pm334?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager (Onboarding/KYC)</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/pdrf?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partner Development Representative | Franchise</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/sec161?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Security Researcher</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rc7?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Recruiting Coordinator</a>",
-    "slotKey": "2026-11-22:afternoon"
+    "slotKey": "2026-11-22:afternoon",
+    "messageId": 16668,
+    "sentAt": "2026-11-22T11:54:56.359Z"
   }
 }
