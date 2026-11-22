@@ -166846,6 +166846,45 @@
       "attemptId": "592ffdd9-d4cf-4998-b48f-8fa8b8342a1d",
       "verification": "verified",
       "postId": "0x4e946ef95d74b03d08c806dc0ef34008f2896dfc"
+    },
+    {
+      "slug": "pm356",
+      "company": "Kamino",
+      "title": "Head of Product Marketing",
+      "platform": "linkedin",
+      "postedAt": "2026-11-21T23:59:01.426Z",
+      "expectedText": "Kamino is hiring Head of Product Marketing: https://hashtagweb3.com/pm356/li?og=7",
+      "snapshot": {
+        "id": "46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "title": "Head of Product Marketing",
+        "company": "Kamino",
+        "link": "https://talent.superteam.fun/jobs/head-of-product-marketing-at-kamino-46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "date": "2026-10-23T17:10:17.567786+00:00",
+        "source": "Superteam: Kamino [superteam]",
+        "location": "Hybrid · New York, United States",
+        "department": "Full-Time",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm356"
+      },
+      "payload": {
+        "text": "Kamino is hiring Head of Product Marketing: https://hashtagweb3.com/pm356/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm356/li?og=7",
+          "title": "Head of Product Marketing at Kamino",
+          "description": "Join Kamino as Head of Product Marketing. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm356.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "b74218e5-ae9f-4363-83d8-9354ae2326e0",
+      "verification": "creating"
     }
   ]
 }
