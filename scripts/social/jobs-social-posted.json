@@ -170140,7 +170140,8 @@
       },
       "account": "channel:product",
       "attemptId": "16e5d452-4d24-49d4-aee2-78f7ba22404e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa2f06f51e1fa1d860d616cbb86fe2f8aec612afb"
     }
   ]
 }
