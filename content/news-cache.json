@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-22T11:54:14.113Z",
+  "generatedAt": "2026-11-22T18:37:56.042Z",
   "items": [
+    {
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
+      "creator": "Michael Egorov",
+      "contentSnippet": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+      "source": "Coindesk"
+    },
     {
       "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
       "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -378,22 +394,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-      "link": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-      "pubDate": "Fri, 20 Nov 2026 05:32:25 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a ...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
-      "link": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
-      "pubDate": "Fri, 20 Nov 2026 05:20:51 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has giv...",
-      "source": "Coindesk"
-    },
-    {
       "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
       "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
       "pubDate": "Fri, 20 Nov 2026 04:24:05 +0000",
@@ -535,14 +535,6 @@
       "pubDate": "Wed, 18 Nov 2026 22:16:02 +0000",
       "creator": "Staff",
       "contentSnippet": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-      "link": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
-      "pubDate": "Wed, 18 Nov 2026 19:46:02 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why.",
       "source": "Decrypt"
     }
   ]
