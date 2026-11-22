@@ -168879,7 +168879,8 @@
       },
       "account": "channel:web3",
       "attemptId": "958dec00-c122-4864-b85f-d5b4091a084e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9e3fd07a4417bbe32dcac4298e52f54ef8fb6600"
     }
   ]
 }
