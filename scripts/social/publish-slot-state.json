@@ -1361,10 +1361,12 @@
           "vaneckgemini",
           "moonpaycharter"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-22T12:41:03.429Z",
         "buildId": "daily-20261122-45019449284-1",
-        "rolloutId": "daily-20261122-45019449284-1"
+        "rolloutId": "daily-20261122-45019449284-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-22T13:07:01.344Z"
       }
     ]
   }
