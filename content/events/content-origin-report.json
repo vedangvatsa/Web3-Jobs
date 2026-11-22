@@ -86,25 +86,6 @@
       ]
     },
     {
-      "id": "premier-toksummituk",
-      "slug": "uk3",
-      "name": "UK Tokenisation Summit 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.tokenisation.org.uk/",
-        "fetchedAt": "2026-09-20T00:45:08.870Z"
-      },
-      "sections": [
-        "The TokenisationLandscape",
-        "Real-World Assets",
-        "DeFi & Digital Finance",
-        "Supply Chain & Provenance",
-        "Digital Identity",
-        "Creator Economy & IP",
-        "Public Sector & Infrastructure"
-      ]
-    },
-    {
       "id": "luma-batch-7iIJgmckKWYczPb",
       "slug": "encode-london-2026",
       "name": "Encode London Hackathon and Conference",

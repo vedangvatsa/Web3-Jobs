@@ -23,21 +23,6 @@
     ]
   },
   {
-    "url": "https://luma.com/ppg3gw8l",
-    "file": "india-luma-events.json",
-    "id": "india-luma-ppg3gw8l",
-    "slug": "road-to-devcon-pune-a36",
-    "description": "A36 Labs hosts Road to Devcon India in Pune on October 23, 2026, from 16:00 to 18:00 IST. This free meetup requires host approval. The exact venue is restricted to registered guests. The audience includes developers, students, founders, designers, researchers and open-source contributors.\n\nThe program covers Ethereum and CROPS values, developer tools, grants, jobs and builder opportunities. It includes an introduction to open-source contributions, local builder demos and guidance on preparing for Devcon 8.\n\nUp to ten builders can present short product demos. The organizer says the top three will receive Devcon 8 tickets. Photos and videos will be captured during the meetup; attendees who prefer not to be recorded should inform the team.",
-    "contains": [
-      "Up to 10 builders",
-      "CROPS",
-      "top 3"
-    ],
-    "sideEventFor": [
-      "devcon"
-    ]
-  },
-  {
     "url": "https://joinfingrad.com/tokeniq",
     "file": "curated-events.json",
     "id": "curated-tokeniq-mumbai-2026",

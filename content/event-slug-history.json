@@ -39,13 +39,6 @@
     "slug": "founder-house",
     "aliases": []
   },
-  "premier-toksummituk": {
-    "slug": "uk-tokenisation-summit",
-    "aliases": [
-      "uk3",
-      "uk"
-    ]
-  },
   "luma-batch-7iIJgmckKWYczPb": {
     "slug": "encode-london-2026",
     "aliases": []
@@ -1056,10 +1049,6 @@
     "slug": "field-station-rajasthan",
     "aliases": []
   },
-  "india-luma-ppg3gw8l": {
-    "slug": "road-to-devcon-pune-a36",
-    "aliases": []
-  },
   "curated-tokeniq-mumbai-2026": {
     "slug": "tokeniq-mumbai",
     "aliases": []
@@ -1109,16 +1098,6 @@
     "aliases": [
       "perps-and-chai-hyprearn-mumbai"
     ]
-  },
-  "luma-host-evt-evt-JRloloPOnjwowzA": {
-    "slug": "coworking-fridays-belgrade-superteam-balkan",
-    "aliases": [
-      "cfb"
-    ]
-  },
-  "discovery-evt-haz6jOnoJHBqX0Q": {
-    "slug": "build-breakpoint-sailing-through-sales",
-    "aliases": []
   },
   "discovery-evt-UCVyELUtCmRFEgU": {
     "slug": "montreal-vibestation-2026-10-23",

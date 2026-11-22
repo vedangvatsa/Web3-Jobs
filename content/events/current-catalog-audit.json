@@ -107,22 +107,6 @@
       }
     },
     {
-      "id": "premier-toksummituk",
-      "oldSlug": "uk3",
-      "slug": "uk-tokenisation-summit",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 1342,
-      "characters": 1342,
-      "source": {
-        "url": "https://www.tokenisation.org.uk/",
-        "fetchedAt": "2026-10-12T11:25:12.996Z",
-        "status": 200,
-        "sha256": "62e0df0fe3c27a58645aca51453590ce5a910296c263c7cc2a52f31dfa2335b4"
-      }
-    },
-    {
       "id": "luma-batch-7iIJgmckKWYczPb",
       "oldSlug": "encode-london-2026",
       "slug": "encode-london-2026",

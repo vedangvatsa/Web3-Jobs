@@ -253,10 +253,6 @@
       "sha256": "d3fa66350d2c2825fa993e863260d515f3212bd1b4115f1d00192dc60c759993",
       "status": "optimized"
     },
-    "/events/discovery-evt-haz6jonojhbqx0q-da898ee1.webp": {
-      "sha256": "0f7b8e8e98c7c341b3ac8f33120e9f7732738a1ad441ed4ecce783958226ad2f",
-      "status": "optimized"
-    },
     "/events/discovery-evt-iuadcch9q16yvm0-ecd579a9.webp": {
       "sha256": "be9373f85df08615793625073fd8f08a68ee0379a2fef19e267dad493444eedd",
       "status": "optimized"
@@ -376,14 +372,6 @@
     "/events/eb-1137861958749-ccb00118.webp": {
       "sha256": "78a167ee773d095f2c5c8dd5851ddc35175e4775a19374033fe0bcb4bcd208e2",
       "status": "retained"
-    },
-    "/events/eb-1210-711060be.webp": {
-      "sha256": "dec3c2498ce4c62c001b2c866245a4fb7cdc05de1ac0dd6e88265e77c7db527e",
-      "status": "optimized"
-    },
-    "/events/eb-1217-e9ff84be.webp": {
-      "sha256": "2bb60608f5e7ff2a09009c6c680574355be24eef0727572bf59d022d1b774084",
-      "status": "optimized"
     },
     "/events/eb-1221-ac2b0442.webp": {
       "sha256": "dec3c2498ce4c62c001b2c866245a4fb7cdc05de1ac0dd6e88265e77c7db527e",
@@ -1191,10 +1179,6 @@
     },
     "/events/india-luma-nyw6qigp-69f75f4d.webp": {
       "sha256": "06ac2d6d9068d7bc26cd75d485c77b3423dc5c9fdfca7533ec370969ed56815f",
-      "status": "optimized"
-    },
-    "/events/india-luma-ppg3gw8l-f6ded472.webp": {
-      "sha256": "e7a14f6096f382a73c6ec13baf869f95cd53e417adcaf3b8a8621dfef8174927",
       "status": "optimized"
     },
     "/events/india-luma-qk93a446-da17b670.webp": {
@@ -2873,10 +2857,6 @@
       "sha256": "be1e4851c6ac6b0b2469319ff9f7fe49dc71b0fc75116a2808385448fe367749",
       "status": "optimized"
     },
-    "/events/luma-evt-cc0atdhtuy5knt2-2bef6a88.webp": {
-      "sha256": "a30d9268718034173a208c4863f09e7f4f9ebc99c7dac7c39855a1098ac4334d",
-      "status": "optimized"
-    },
     "/events/luma-evt-cee7mkgzkd2y7pk-dbe030e6.webp": {
       "sha256": "360227f60210de23bb67955e82d7b0304351cf06f611433893296323ecf38130",
       "status": "optimized"
@@ -3019,10 +2999,6 @@
     },
     "/events/luma-evt-ezpdhbx3uusshso-f5d08da7.webp": {
       "sha256": "a9df334f1b79d1b9e0df55ad484edd8099a7249213a2acbeae5f8489134748cb",
-      "status": "optimized"
-    },
-    "/events/luma-evt-f4kr9gtdbanigt2-1e74e27f.webp": {
-      "sha256": "a7a18d9fffd35efa90c3625b3382093d6b3b9502e2ad1451ba58936e00c60741",
       "status": "optimized"
     },
     "/events/luma-evt-f5dyvmhqx3gmqut-c90181a4.webp": {
@@ -4149,10 +4125,6 @@
       "sha256": "ebe3da06c332b4fcaf7b7f070f409a7b5e989f3cac19d31bf8d535f9393f1f8e",
       "status": "optimized"
     },
-    "/events/luma-host-evt-evt-jrloloponjwowza-4be33e4f.webp": {
-      "sha256": "08402028b749e0fe3962a9be0bdcd81830f496ffb272721fa45a9c5ea6f01406",
-      "status": "optimized"
-    },
     "/events/luma-host-evt-evt-kaos7sj5aayzqks-7f33acda.webp": {
       "sha256": "ccdc7a3b1da8cf60e5e4fb607edeee18b71170661535edff3c954561ef1a274b",
       "status": "optimized"
@@ -4340,10 +4312,6 @@
     "/events/ma-korea-blockchain-week-2027-d240e3e5.webp": {
       "sha256": "1c5130db721aed23ab8131aa8f31e09862d42f10f1f36fdf0bb8b1387fbae7d0",
       "status": "retained"
-    },
-    "/events/ma-next-block-expo-2027-7f98c62b.webp": {
-      "sha256": "cd630028025417509b00cf09a5f1e2bb89ff5bffd48524063f7041bdea2f28bd",
-      "status": "optimized"
     },
     "/events/ma-permissionless-2027-d82215d1.webp": {
       "sha256": "11ae35f2069dea33d2ad3a1f1b771c11d3f50b8378bdf844e87d2b721388f34d",
@@ -4873,10 +4841,6 @@
       "sha256": "8ea04996c4227f4fa113bdb63ee5f43869e913a9569afb6497be249ceefc7909",
       "status": "optimized"
     },
-    "/events/uk.webp": {
-      "sha256": "62345b30acb60afa2ba9a0c80163f39b08c632a0bc78d1868f9c718542edd477",
-      "status": "retained"
-    },
     "/events/undisclosed-a78ad824.webp": {
       "sha256": "0f31075a08c3aeddc5eafa13cd60c0294cdb36c194ec63d99bab6d4078b25df7",
       "status": "optimized"
@@ -5127,10 +5091,6 @@
     },
     "/events/w3v-frontier-intelligence-hackathon-26-11-05-0e94daa0.webp": {
       "sha256": "0b8cf69e07be7d126a384a24e6cd8edbc2115c7b0295526de697110eb47ee015",
-      "status": "optimized"
-    },
-    "/events/w3v-hack-genesis-2026-9df296df.webp": {
-      "sha256": "459dc261e3a3b56844e9a8f5d842b97fb09e6828330a47e8fed4c305e05a1e85",
       "status": "optimized"
     },
     "/events/w3v-herhack-2026-f1a1d345.webp": {

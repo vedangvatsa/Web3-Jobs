@@ -246,21 +246,6 @@
       ]
     },
     {
-      "id": "premier-toksummituk",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://www.tokenisation.org.uk/",
-        "fetchedAt": "2026-09-20T00:45:08.870Z",
-        "method": "official-section",
-        "pageTitle": "UK Tokenisation Summit 2026",
-        "sha256": "1f9a01819756257f6ccf313d3f0c4165e7782e9d181d619c138c7d98a91d3694"
-      },
-      "previousStartDate": "2026-10-23T09:00:00.000Z",
-      "characters": 1342,
-      "preview": "## The TokenisationLandscape\n\nTokenisation is reshaping every sector. From decentralised finance and creator economies to enterprise supply chains and public infrastructure, distributed ledger technology is delivering measurable results today.\n\n## Real-World Assets\n\nFrom bonds and equities to real estate, tokenisation is enabling fractional ownership, 24/7 settlement, and dramatically lower transaction costs across global markets.\n\n## DeFi & Digital Finance\n\nDecentralised finance protocols are reshaping lending, trading, and payments -- creating open, permissionless financial infrastructure accessible to everyone.\n\n## Supply Chain & Provenance\n\nBlockchain verifies product origin, reduces fraud, and gives consumers transparent, tamper-proof records from source to shelf.\n\n## Digital Identity"
-    },
-    {
       "id": "premier-hackmeridian",
       "file": "curated-events.json",
       "status": "source-backed",

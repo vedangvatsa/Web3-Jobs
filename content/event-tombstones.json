@@ -10502,5 +10502,36 @@
       "team1-india-university-workshop-indira-college-engineering-management-pune",
       "discovery-evt-jiz1nyxlg75x1sx"
     ]
+  },
+  "premier-toksummituk": {
+    "until": "2027-11-22T18:38:36.875Z",
+    "slugs": [
+      "uk-tokenisation-summit",
+      "uk3",
+      "premier-toksummituk",
+      "toksummituk"
+    ]
+  },
+  "luma-host-evt-evt-JRloloPOnjwowzA": {
+    "until": "2027-11-22T18:38:36.875Z",
+    "slugs": [
+      "coworking-fridays-belgrade-superteam-balkan",
+      "cfb",
+      "luma-host-evt-evt-jrloloponjwowza"
+    ]
+  },
+  "india-luma-ppg3gw8l": {
+    "until": "2027-11-22T18:38:36.875Z",
+    "slugs": [
+      "road-to-devcon-pune-a36",
+      "india-luma-ppg3gw8l"
+    ]
+  },
+  "discovery-evt-haz6jOnoJHBqX0Q": {
+    "until": "2027-11-22T18:38:36.875Z",
+    "slugs": [
+      "build-breakpoint-sailing-through-sales",
+      "discovery-evt-haz6jonojhbqx0q"
+    ]
   }
 }

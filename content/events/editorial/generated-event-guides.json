@@ -813,39 +813,6 @@
       }
     ]
   },
-  "premier-toksummituk": {
-    "summaryLead": "The UK Tokenisation Summit lands in Birmingham on October 23 for a single day devoted entirely to asset tokenization - real-world assets, funds, and the institutional tokenized markets now forming where traditional finance meets public chains.",
-    "sections": [
-      {
-        "heading": "One day aimed at one question",
-        "content": [
-          "Most blockchain conferences treat tokenization as one track among many, sandwiched between DeFi panels and keynote theater. This summit flips that arrangement: a full day where tokenized markets are the whole agenda rather than a segment. Per the event's own description, the focus covers RWAs, funds, and institutional tokenized markets - the three areas where traditional finance and on-chain infrastructure currently overlap in the most concrete, balance-sheet-relevant ways.",
-          "A single-day, single-subject format has genuine advantages. Conversations do not reset between unrelated keynotes, so the fund manager, the custodian, and the exchange-side delegate end up debating the same bottlenecks from morning to close. Compression concentrates the signal, and everyone present has self-selected into the same subject. For anyone whose quarter depends on understanding where UK tokenization actually stands, spending one focused day in one room beats skimming three days of parallel tracks and calling it research."
-        ]
-      },
-      {
-        "heading": "Who the room is built for",
-        "content": [
-          "The word institutional in the summit's own framing signals the intended audience: asset managers weighing tokenized fund structures, market infrastructure providers, custody and settlement specialists, and the regulation-adjacent professionals tracking how UK rules treat on-chain instruments. Builders and service vendors attend too, but the centre of gravity sits firmly on the financial-professional side of the aisle.",
-          "That mix makes the day useful in both directions. Traditional finance attendees meet the tooling vendors they would otherwise evaluate through months of procurement calls, while web3-native teams meet the allocators whose mandates and risk requirements their products must eventually satisfy. Neither group tends to leave without homework, which is precisely the point of putting them in the same building for eight hours."
-        ]
-      },
-      {
-        "heading": "What tends to dominate these agendas",
-        "content": [
-          "Based on the summit's stated pillars - RWAs, funds, and institutional markets - expect the recurring tensions of the sector to surface: how tokenized fund units interact with existing transfer agency, where secondary liquidity for tokenized private assets is supposed to come from, and how settlement finality maps onto ledger architecture. None of these are new questions, but 2026 is when several of them stop being theoretical for UK institutions.",
-          "Real-world asset tokenization has moved from pilot territory into production discussions across credit, funds, and money-market instruments, and the operational details - onboarding, KYC at scale, custody segregation, reporting to regulators - now matter more than the underlying cryptography. A dedicated summit suggests the organisers agree: the interesting fights have shifted up the stack from whether we can tokenize to who holds the keys, under which rulebook, and who bears the risk when something breaks. Those questions have answers, just uncomfortable ones."
-        ]
-      },
-      {
-        "heading": "Why Birmingham, and how to prepare",
-        "content": [
-          "Birmingham places the summit outside London's gravitational pull while keeping it minutes from the UK rail spine - practical for a national audience and easier on expense policies, with direct trains from London Euston taking around ninety minutes. Check the official site for the exact venue and agenda as October approaches, since single-day summits tend to finalize their programmes late, and confirm registration details there rather than relying on third-party listings.",
-          "Prepare differently than you would for a mega-conference. With one day and one subject, the winning approach is arriving with two or three specific questions - a fund structure you are evaluating, a jurisdictional wrinkle, a settlement problem that has stalled a project - and hunting down the people equipped to answer them. Introduce yourself early rather than drifting toward the afternoon; single-day rooms reward the assertive. Bring business cards. This crowd still trades them."
-        ]
-      }
-    ]
-  },
   "premier-hackmeridian": {
     "summaryLead": "HackMeridian stretches across nine days from October 25 to November 2 - a global hackathon series pushing builders to ship novel web3 applications through regional rounds before a grand finale gathers the strongest work from wherever it was built.",
     "sections": [

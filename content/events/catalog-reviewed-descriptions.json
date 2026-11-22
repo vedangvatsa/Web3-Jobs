@@ -2043,29 +2043,6 @@
       "sha256": "eaa3c92ca7047d6b22473475a9c3b0d60f37f9035cae0699779ce865b0db455f"
     }
   },
-  "premier-toksummituk": {
-    "description": "MeridenDAO and timesthree organize UK Tokenisation Summit in Birmingham, bringing blockchain networks together with universities, startups, investors, enterprises and public-sector participants.\n\nThe primary sources currently disagree about the edition and date. The organizer's website advertises UK Tokenisation Summit 2027 for April 28 in central Birmingham, while its linked Luma registration page remains titled UK Tokenisation Summit 2026 and describes an October 2026 event. Confirm the edition and attendance date with the organizer before making plans.\n\nThe website's 2027 program lists digital assets, AI and blockchain, DeFi and real-world asset tokenization, regulation, and enterprise and public-sector case studies. Those sessions should not be assumed to confirm a program for the October 2026 listing.",
-    "descriptionSource": {
-      "url": "https://www.tokenisation.org.uk/",
-      "fetchedAt": "2026-10-14T12:02:02.154Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "UK Tokenisation Summit 2026",
-      "sha256": "f9167cde42019925d9b7f36f422ec5853f105f71d79cccb48e6928a5a1a31706",
-      "evidence": [
-        {
-          "url": "https://www.tokenisation.org.uk/",
-          "fetchedAt": "2026-10-14T12:02:02.154Z",
-          "sha256": "d6bb33c740a9aa077485d8917f73a98c04f762cde97eb64775f00ab752eed764",
-          "representation": "rendered-text"
-        },
-        {
-          "url": "https://luma.com/pykn5dz4",
-          "fetchedAt": "2026-10-14T12:03:26.955Z",
-          "sha256": "86a93cb61d1a828944ad4fe2dd681ac3dae1a93a77db749933a0b6dc851f30b1"
-        }
-      ]
-    }
-  },
   "premier-ethwomen": {
     "description": "ETHWomen Florida is a free, female-focused and inclusive event on November 17 and 18, 2026, at Entice Nightclub inside the Seminole Hard Rock Hotel property. Its sixth edition welcomes all skill levels for speakers, hands-on learning and networking around blockchain, cryptocurrency, AI and DeFi.\n\nThe organizer says ETHWomen participants also receive access to the second US edition of Blockchain Futurist Conference, which runs alongside it. Registration requires approval.\n\nFor arrival, the organizer directs rideshare users to DAER Nightclub at the 1 Lucky Street entrance, then to follow event signs to Entice Nightclub. Free parking is available in the Lucky Street Garage. Check your registration confirmation for entry instructions.",
     "descriptionSource": {

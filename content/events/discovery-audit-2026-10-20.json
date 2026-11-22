@@ -76,17 +76,6 @@
       "descriptionSha256": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832"
     },
     {
-      "id": "premier-toksummituk",
-      "slug": "uk-tokenisation-summit",
-      "aliases": [
-        "uk3",
-        "uk"
-      ],
-      "startDate": "2026-10-23T09:00:00.000Z",
-      "endDate": "2026-10-23T18:00:00.000Z",
-      "descriptionSha256": "f9167cde42019925d9b7f36f422ec5853f105f71d79cccb48e6928a5a1a31706"
-    },
-    {
       "id": "luma-batch-9tJirJDFIno1LUr",
       "slug": "london-oct-23",
       "aliases": [],
@@ -103,15 +92,6 @@
       "endDate": "2026-10-25T16:30:00.000Z",
       "timezone": "Europe/London",
       "descriptionSha256": "8d205778b49732f4fbfa133eb917e02d896693dfe11798362720a66181ae1d0a"
-    },
-    {
-      "id": "india-luma-ppg3gw8l",
-      "slug": "road-to-devcon-pune-a36",
-      "aliases": [],
-      "startDate": "2026-10-23T10:30:00.000Z",
-      "endDate": "2026-10-23T12:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "descriptionSha256": "e4fea174324d7348b6339649dcf998666cc2c5ea96e320d465dc64f1a4c9aeed"
     },
     {
       "id": "curated-tokeniq-mumbai-2026",
@@ -5089,44 +5069,6 @@
       }
     },
     {
-      "id": "luma-host-evt-evt-JRloloPOnjwowzA",
-      "name": "Coworking Fridays Belgrade | Superteam Balkan",
-      "startDate": "2026-10-23T08:00:00.000Z",
-      "endDate": "2026-10-23T15:00:00.000Z",
-      "timezone": "Europe/Belgrade",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-JRloloPOnjwowzA",
-      "url": "https://luma.com/coworking-fridays-belgrade",
-      "lane": "europe",
-      "reason": "Same sourceEventId and normalized lu.ma/luma.com URL already in source data with September 25 dates, absent runtime. Primary now explicitly schedules October 23. Refresh the existing identity rather than create a second record.",
-      "evidence": [
-        {
-          "url": "https://luma.com/coworking-fridays-belgrade",
-          "fetchedAt": "2026-10-20T08:03:16.380Z",
-          "excerpt": "api_id: evt-JRloloPOnjwowzA; start_at: 2026-10-23T08:00:00.000Z; end_at: 2026-10-23T15:00:00.000Z; timezone: Europe/Belgrade; geo_address_visibility: public. AI Hub Belgrade by Startit, Savska 5, Beograd 11000, Serbia. Free coworking in Belgrade, every Friday. in-person help from the Superteam Balkan crew.",
-          "representation": "Public __NEXT_DATA__ field selection and description excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:41.476Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/97/7daf8a9d-64e6-4135-9959-37de003af068.png",
-        "fetchedAt": "2026-10-20T09:49:45.477Z",
-        "status": 200,
-        "local": "/events/luma-host-evt-evt-jrloloponjwowza-4be33e4f.webp",
-        "sourceSha256": "bed20d9837caf28975c1cd56f560e29ef16ad9a8637390bcb93db75a5c23df49",
-        "sha256": "9cbe941914f1580ba3caf5ac562656cbad20eaad1afdbc5e3e3d64538ec62294",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 398066
-      }
-    },
-    {
       "id": "w3v-btc-balkans-2026",
       "name": "BTC Balkans 2026",
       "startDate": "2026-10-31",
@@ -6658,45 +6600,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 86438
-      }
-    },
-    {
-      "id": "discovery-evt-haz6jOnoJHBqX0Q",
-      "name": "Build For Breakpoint: Sailing Through Sales",
-      "startDate": "2026-10-23T12:30:00.000Z",
-      "endDate": "2026-10-23T13:30:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-haz6jOnoJHBqX0Q",
-      "url": "https://luma.com/build-for-breakpoint-sailing-through-sales",
-      "lane": "breakpoint",
-      "reason": "No matching identity in any of the four inventory groups. Explicit dated Build For Breakpoint session, distinct from generic coworking.",
-      "evidence": [
-        {
-          "url": "https://luma.com/build-for-breakpoint-sailing-through-sales",
-          "fetchedAt": "2026-10-20T08:52:30.773Z",
-          "excerpt": "evt-haz6jOnoJHBqX0Q; 2026-10-23T12:30:00.000Z to 2026-10-23T13:30:00.000Z; Europe/London; visibility public; public Somerset House address; require_approval true; registration open. Workshop led by Mark Wilson on outbound, closing, pricing and objections, using attendees' real deals or prospects. Strictly invite-only, with approved confirmation required.",
-          "sha256": "cd6fbad73bad624db65a3996837c69e0dd7a3f2c4d1a2331783d0d93103eedfe",
-          "representation": "Public primary HTML and __NEXT_DATA__ field excerpts; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:14.445Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/9w/c25caecc-d5d9-4666-98c1-89e2cf4e268a.jpg",
-        "fetchedAt": "2026-10-20T09:50:09.893Z",
-        "status": 200,
-        "local": "/events/discovery-evt-haz6jonojhbqx0q-da898ee1.webp",
-        "sourceSha256": "c1ace29ab668c201c7b144c12f88b7804c94869b9f541ed8a7b3a78e8f7742a8",
-        "sha256": "9f8c018901fd1ea319c3fc268270111b14a84ab271f9fe7a8d591e95b2186aba",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 108170
       }
     },
     {
@@ -9964,12 +9867,6 @@
       "lane": "europe"
     },
     {
-      "url": "https://luma.com/coworking-fridays-belgrade",
-      "result": "existing-unpublished-update",
-      "note": "Reused Luma ID now shows October 23; source record still September 25. Update existing identity rather than insert a new one.",
-      "lane": "europe"
-    },
-    {
       "url": "https://btcbalkans.com/en",
       "result": "existing-unpublished",
       "note": "Primary confirms October 31-November 1, 2026 at Inter Expo Center. Date-only output avoids aggregator clock times.",
@@ -11287,12 +11184,6 @@
       "url": "https://luma.com/lo-tech",
       "result": "complete-embedded-calendar",
       "note": "Public cal-pI0TeC2lUbzZFOW has one upcoming entry and has_more:false, matching The LOCAL primary page.",
-      "lane": "breakpoint"
-    },
-    {
-      "url": "https://luma.com/build-for-breakpoint-sailing-through-sales",
-      "result": "verified-new",
-      "note": "October 23, 13:30-14:30 local BST. Mark Wilson founder sales workshop. Public application listing, approval required.",
       "lane": "breakpoint"
     },
     {

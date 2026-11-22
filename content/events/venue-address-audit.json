@@ -881,27 +881,6 @@
       "applied": true
     },
     {
-      "id": "premier-toksummituk",
-      "status": "conflict",
-      "evidence": [
-        {
-          "url": "https://www.tokenisation.org.uk/",
-          "fetchedAt": "2026-10-19T19:54:04.598Z",
-          "claim": "edition/date conflict: the current organizer website advertises April 2027 and only central Birmingham",
-          "excerpt": "UK TOKENISATION SUMMIT. Wednesday 28 April 2027 — Central Birmingham. ... UK Tokenisation Summit 2027 ... Speaker, venue and ticket news, a few times before the day."
-        },
-        {
-          "url": "https://luma.com/pykn5dz4",
-          "fetchedAt": "2026-10-19T19:54:05.384Z",
-          "claim": "edition/date conflict and hidden location: the organizer-linked registration still identifies the October 2026 edition and requires approval",
-          "excerpt": "UK Tokenisation Summit 2026. Friday 23 October. 9:00 - 17:30 BST. Register to See Address. Birmingham, United Kingdom. Approval Required. Your registration is subject to host approval. ... this landmark event will take place in October 2026 ... Please register to see the exact location of this event."
-        }
-      ],
-      "note": "Unresolved organizer-source conflict: website says 28 April 2027; linked Luma says 23 October 2026. The target's 09:00–18:00 UTC also differs from Luma's 09:00–17:30 BST (08:00–16:30 UTC). No named venue is publicly established. The registration address is explicitly hidden and host approval is required; retain both restrictions. No map coordinates were used to infer the venue, and no address patch is proposed.",
-      "name": "UK Tokenisation Summit 2026",
-      "applied": false
-    },
-    {
       "id": "premier-hackmeridian",
       "status": "not-announced",
       "evidence": [
@@ -2417,16 +2396,6 @@
       "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
       "evidence": [],
       "name": "Co-Working Fridays : London Chapter",
-      "applied": false
-    },
-    {
-      "id": "india-luma-ppg3gw8l",
-      "url": "https://luma.com/ppg3gw8l",
-      "fetchedAt": "2026-10-19T20:14:20.526Z",
-      "status": "blocked",
-      "note": "HTTP 400",
-      "evidence": [],
-      "name": "Road to Devcon India | Pune Edition",
       "applied": false
     },
     {

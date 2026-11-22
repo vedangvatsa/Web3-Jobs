@@ -173,49 +173,6 @@
       "identityProof": []
     },
     {
-      "row": 4,
-      "entryId": "calev-1FNOHxNd6R0dg1V",
-      "identity": "luma:evt-ikB7XUuVxzgA3AZ",
-      "eventId": "evt-ikB7XUuVxzgA3AZ",
-      "platform": "luma",
-      "name": "Road to Devcon India | Pune Edition",
-      "url": "https://luma.com/ppg3gw8l",
-      "period": "future",
-      "timing": "upcoming",
-      "calendarStart": "2026-10-23T10:30:00.000Z",
-      "calendarEnd": "2026-10-23T12:30:00.000Z",
-      "status": "added",
-      "kind": "new-source-record",
-      "reason": "Verified public primary page; appended one missing identity in india-luma-events.json.",
-      "sourceMatchesBefore": [],
-      "runtimeBefore": [],
-      "runtimeAfter": [
-        {
-          "id": "india-luma-ppg3gw8l",
-          "slug": "road-to-devcon-pune-a36",
-          "startDate": "2026-10-23T10:30:00.000Z",
-          "endDate": "2026-10-23T12:30:00.000Z"
-        }
-      ],
-      "primary": {
-        "url": "https://luma.com/ppg3gw8l",
-        "finalUrl": "https://luma.com/ppg3gw8l",
-        "canonicalUrl": "https://luma.com/ppg3gw8l",
-        "httpStatus": 200,
-        "fetchedAt": "2026-10-16T08:51:32.266Z",
-        "sha256": "f215ba52b6f348901d0d3950b41d209bc708c39e4265a2c00e7d4a012e56541e",
-        "title": "Road to Devcon India | Pune Edition · Luma",
-        "visibility": "public",
-        "startDate": "2026-10-23T10:30:00.000Z",
-        "endDate": "2026-10-23T12:30:00.000Z",
-        "timezone": "Asia/Kolkata",
-        "locationHidden": true,
-        "approvalRequired": true,
-        "cancelled": false
-      },
-      "identityProof": []
-    },
-    {
       "row": 5,
       "entryId": "calev-kRGCxc6MLByzJqT",
       "identity": "joinfingrad.com/tokeniq|tokeniq 2026",

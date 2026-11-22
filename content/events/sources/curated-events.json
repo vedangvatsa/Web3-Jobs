@@ -741,29 +741,6 @@
     "venueName": "Palazzo dei Congressi"
   },
   {
-    "id": "premier-toksummituk",
-    "slug": "uk",
-    "name": "UK Tokenisation Summit 2026",
-    "description": "## The TokenisationLandscape\n\nTokenisation is reshaping every sector. From decentralised finance and creator economies to enterprise supply chains and public infrastructure, distributed ledger technology is delivering measurable results today\n\nReal-World Assets\n\nFrom bonds and equities to real estate, tokenisation is enabling fractional ownership, 24/7 settlement, and dramatically lower transaction costs across global markets\n\nDeFi & Digital Finance\n\nDecentralised finance protocols are reshaping lending, trading, and payments -- creating open, permissionless financial infrastructure accessible to everyone\n\nSupply Chain & Provenance\n\nBlockchain verifies product origin, reduces fraud, and gives consumers transparent, tamper-proof records from source to shelf\n\nDigital Identity\n\nBlockchain-backed digital IDs and verifiable credentials are giving individuals control over their data while reducing identity fraud across sectors\n\nCreator Economy & IP\n\nArtists, musicians, and creators are using tokenisation to monetise work directly, manage royalties transparently, and build new models of community ownership\n\nPublic Sector & Infrastructure\n\nFrom land registries to healthcare records, governments and institutions are adopting tokenisation to improve transparency, reduce costs, and modernise public services.",
-    "startDate": "2026-10-23T09:00:00.000Z",
-    "endDate": "2026-10-23T18:00:00.000Z",
-    "city": "Birmingham",
-    "country": "United Kingdom",
-    "location": "Birmingham, United Kingdom",
-    "url": "https://tokenisation.org.uk",
-    "website": "https://tokenisation.org.uk",
-    "coverImage": "/events/uk.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://www.tokenisation.org.uk/",
-      "fetchedAt": "2026-09-20T00:45:08.870Z",
-      "method": "official-section",
-      "pageTitle": "UK Tokenisation Summit 2026",
-      "sha256": "c0e36e0491dfceddb5a485d5c1bdcb5a4bb84bba2c60f4a5a250556cc56dacfa"
-    }
-  },
-  {
     "id": "premier-hackmeridian",
     "slug": "hackmeridian",
     "name": "HackMeridian 2026",
