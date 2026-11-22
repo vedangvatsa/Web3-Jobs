@@ -56,46 +56,6 @@
       ]
     },
     {
-      "id": "luma-batch-hPFyfHyof2hYVIp",
-      "slug": "kv670yys",
-      "name": "SOIRÉE XD #20",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/kv670yys",
-        "fetchedAt": "2026-09-22T10:40:02.039Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
-      "id": "luma-batch-evtdYbK287YZ3bbj",
-      "slug": "fxu60rnk",
-      "name": "AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/fxu60rnk",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Speakers"
-      ]
-    },
-    {
-      "id": "luma-batch-evtmWdmu40qCxBTk",
-      "slug": "hsodwfgy",
-      "name": "My First Bitcoin: Education Is Freedom",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/hsodwfgy",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "premier-planblugano",
       "slug": "plan",
       "name": "Plan B Forum Lugano 2026",

@@ -677,56 +677,6 @@
     }
   },
   {
-    "id": "luma-batch-hPFyfHyof2hYVIp",
-    "slug": "kv670yys",
-    "name": "SOIRÉE XD #20",
-    "description": "SOIRÉE XD #20(づ｡◕‿‿◕｡)づ conversations on weak signals and future drifts.\n\n◒◒ Weak signals are indicators of emerging trends that have the potential to become defining factors in future society. They can also describe present developments that are felt by some, but underestimated by the vast majority. SOIREE XD is an ongoing series of conversations on early signs of deep disruption in business, policy, design, art and culture - driven by latest developments in Artificial Intelligence, Quantum Technologies, Web3 and other fields of (deep) technology. Gathering experts, practitioners, artists and researchers at the cutting edge of their domains, and stirring exchange with an open community that spans sectors, generations and walks of life, SOIREE XD offers a new forum for mapping the opportunities and problems of rapid technological and societal change. Most of all, the multi-cities series wants to connect engaged individuals beyond their domains, allowing for new synergies and dynamics. ● ● ● https://www.soiree-xd.com/\n\nDate:on OCTOBER 22th (Thursday), year (0)2026doors open: 18:00:00impulses from: 19:00:00 — official end: 22:00:00\n\nLocation :https://www.journee.ai/ HQChausseestr. 36, 10115 BerlinWIP:https://xdnet.work/Contact:XD@SOIREE-XD.COMSpeakers 𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊 (in following order):T.B.A.",
-    "startDate": "2026-10-22T16:00:00.000Z",
-    "endDate": "2026-10-22T20:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Ojin AixHaus, Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany",
-    "url": "https://luma.com/kv670yys",
-    "registrationUrl": "https://luma.com/kv670yys",
-    "coverImage": "/events/luma-batch-hPFyfHyof2hYVIp-cb349fd0.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "XD NETWORK"
-    ],
-    "price": "Free",
-    "approvalRequired": false,
-    "timezone": "Europe/Berlin",
-    "neighborhood": "Mitte",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "venueName": "Ojin AixHaus",
-    "addressLocality": "Berlin",
-    "addressRegion": "Berlin",
-    "addressCountry": "DE",
-    "organizer": {
-      "type": "Organization",
-      "name": "XD NETWORK",
-      "url": "https://luma.com/user/XD_NETWORK_XD"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/kv670yys",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/kv670yys",
-      "eventId": "evt-hPFyfHyof2hYVIp",
-      "fetchedAt": "2026-09-22T10:40:02.039Z",
-      "method": "luma-page",
-      "apifyRunId": "xaRAFVxiGJ65xirOe"
-    }
-  },
-  {
     "id": "luma-batch-9tJirJDFIno1LUr",
     "slug": "london-oct-23",
     "name": "Co-Working Fridays : London Chapter",
@@ -915,36 +865,6 @@
     }
   },
   {
-    "id": "luma-batch-evtdYbK287YZ3bbj",
-    "slug": "fxu60rnk",
-    "name": "AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance",
-    "description": "Join AWIC and the Rutgers Center for Corporate Law and Governance for an afternoon of discussion and networking focused on the legal and regulatory future of digital assets.\n\nSpeakers:\nEric Swartz, Founding General Partner, Panther Hollow Ventures\nJaqueline Escobar, Business Development and Legal Councel, Panther Hollow Ventures\nTeresa Rodriguez, Rutgers Law, Adjunct Professor of Law.\nJoe Doll, General Counsel, Fomo\nModerator: Olivia Dul, Executive Board of the AI & Emerging Tech Law Association, Rutgers Law School\n\nThe panel will explore how artificial intelligence, decentralized finance, and emerging technologies are reshaping digital asset governance, compliance, and legal practice.\n\nFollowing the discussion, attendees are invited to connect with students, practitioners, academics, and industry leaders during a networking reception.\n\n📅 Thursday, October 22, 2026\n🕓 4:15 PM – 6:30 PM ET\n📍 Center for Law and Justice, Rutgers Law School",
-    "startDate": "2026-10-22T20:15:00.000Z",
-    "endDate": "2026-10-22T22:45:00.000Z",
-    "city": "Newark",
-    "country": "United States",
-    "location": "123 Washington St, 123 Washington St, Newark, NJ 07102, USA",
-    "url": "https://luma.com/fxu60rnk",
-    "registrationUrl": "https://luma.com/fxu60rnk",
-    "coverImage": "/events/luma-batch-evtdYbK287YZ3bbj-547e80c9.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "AWIC"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/fxu60rnk",
-      "eventId": "evt-dYbK287YZ3bbjQn",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evti0AaTIcicsFFO",
     "slug": "xrp-sidekick-ny",
     "name": "XRP Sidekick - NY",
@@ -998,36 +918,6 @@
     "sourceVerification": {
       "url": "https://luma.com/zpcdsbpu",
       "eventId": "evt-UrCIdxk9KqZEOAo",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
-    "id": "luma-batch-evtmWdmu40qCxBTk",
-    "slug": "hsodwfgy",
-    "name": "My First Bitcoin: Education Is Freedom",
-    "description": "Join My First Bitcoin at PubKey for an evening exploring how grassroots Bitcoin education is growing into a global movement for freedom, opportunity, and self-sovereignty.\n\nAt the heart of the evening is the exclusive premiere of our new documentary, filmed across Indonesia in August 2026. No one has seen the film before.\n\nThe documentary follows our journey from Jakarta to Bandung, Surabaya, and finally Bali, capturing the different Bitcoin communities we encountered along the way and the stories of the people building them. We traveled together with Dimas, the leader of Bitcoin Indonesia, meeting local educators, community leaders, and Bitcoiners to understand what adoption looks like on the ground across one of the world’s most diverse countries.\n\nThrough their stories, the film explores how grassroots, open-source education is helping people better understand money, Bitcoin, and their own financial agency — and how very different local communities are turning that knowledge into action.\n\nFollowing the screening, My First Bitcoin founder John Dennehy, members of the organization, and special guests will share the story behind My First Bitcoin, how the movement has grown from its roots in El Salvador into a global network of independent educators and communities, and why education sits at the heart of meaningful Bitcoin adoption.\n\nWe’ll discuss the connection between Bitcoin, education, freedom, and self-sovereignty — and what it takes to build a movement that empowers people to think independently, take greater ownership of their financial lives, and bring that knowledge back to their own communities.\n\nWhether you already know My First Bitcoin, are deeply involved in Bitcoin, or are simply curious about the role education can play in expanding access and understanding, we’d love to have you join us.\n\nBe among the first to see the film. Stay for the conversation. Meet the people helping build the global Bitcoin education movement.",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T00:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Pubkey, Pubkey, 85 W Washington Pl, New York, NY 10011, USA",
-    "url": "https://luma.com/hsodwfgy",
-    "registrationUrl": "https://luma.com/hsodwfgy",
-    "coverImage": "/events/luma-batch-evtmWdmu40qCxBTk-b1436f7e.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "My First Bitcoin"
-    ],
-    "price": "Free",
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/hsodwfgy",
-      "eventId": "evt-mWdmu40qCxBTkma",
       "fetchedAt": "2026-09-23T10:57:48.000Z",
       "method": "luma-page",
       "apifyRunId": "sbhxusCJ6JIsbZQtg"

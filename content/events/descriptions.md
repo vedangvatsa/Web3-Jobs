@@ -2694,20 +2694,6 @@ Ethereum Vancouver's weekly meetup takes place at DCTRL. The organizer directs a
 
 Austin's Bitcoin developer community reviews the past month's events and news from Bitcoin open-source development. The organizer publishes agendas and past discussions at austinbitdevs.com.
 
-<a id="event-f1081cd741e834e3"></a>
-
-## Coldcard post-mortem: ¿Qué pasó? + Debate abierto
-
-- Record: `mu-316850208`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-22T19:00:00+02:00
-- Description: Source-backed
-- Original page: <https://www.meetup.com/bitcoin-barcelona/events/316850208/>
-
-### About the event
-
-Counterweight leads a Spanish-language analysis of the Coldcard incident described by Bitcoin Barcelona, followed by questions and open discussion. The meetup at MOB Barcelona is free. The organizers ask attendees to RSVP and exclude price speculation from the programme.
-
 <a id="event-cd0b5b279b03c665"></a>
 
 ## Team1 India University Workshop - Indira College of Engineering & Management, Pune
@@ -17349,102 +17335,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-d8af36fc60a3cad9"></a>
-
-## SOIRÉE XD #20
-
-- Record: `luma-batch-hPFyfHyof2hYVIp`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-22T16:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/kv670yys>
-
-### About the event
-
-SOIRÉE XD #20(づ｡◕‿‿◕｡)づ conversations on weak signals and future drifts.
-
-◒◒ Weak signals are indicators of emerging trends that have the potential to become defining factors in future society. They can also describe present developments that are felt by some, but underestimated by the vast majority. SOIREE XD is an ongoing series of conversations on early signs of deep disruption in business, policy, design, art and culture - driven by the latest developments in Artificial Intelligence, Quantum Technologies, Web3 and other fields of (deep) technology.
-
-Gathering experts, practitioners, artists and researchers at the cutting edge of their domains, and stirring exchange with an open community that spans sectors, generations and walks of life, SOIREE XD offers a new forum for mapping the opportunities and problems of rapid technological and societal change. Most of all, the multi-city series wants to connect engaged individuals beyond their domains, allowing for new synergies and dynamics. ● ● ● https://www.soiree-xd. com/
-
-Date: on OCTOBER 22nd (Thursday), year (0)2026
-
-doors open: 18:00:00
-
-impulses from: 19:00:00 - official end: 22:00:00
-
-Location: https://www.journee.ai/ HQ
-
-Chausseestr. 36, 10115 Berlin
-
-WIP: https://xdnet.work/Contact:XD@SOIREE-XD.COMSpeakers 𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊 (in following order):T.B.A.
-
-<a id="event-2131bd764cafa81f"></a>
-
-## AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance
-
-- Record: `luma-batch-evtdYbK287YZ3bbj`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-22T20:15:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/fxu60rnk>
-
-### About the event
-
-Join AWIC and the Rutgers Center for Corporate Law and Governance for an afternoon of discussion and networking focused on the legal and regulatory future of digital assets.
-
-### Speakers
-
-Eric Swartz, Founding General Partner, Panther Hollow Ventures
-
-Jaqueline Escobar, Business Development and Legal Counsel, Panther Hollow Ventures
-
-Teresa Rodriguez, Rutgers Law, Adjunct Professor of Law.
-
-Joe Doll, General Counsel, Fomo
-
-Moderator: Olivia Dul, Executive Board of the AI & Emerging Tech Law Association, Rutgers Law School
-
-The panel will explore how artificial intelligence, decentralized finance, and emerging technologies are reshaping digital asset governance, compliance, and legal practice.
-
-Following the discussion, attendees are invited to connect with students, practitioners, academics, and industry leaders during a networking reception.
-
-Thursday, October 22, 2026
-
-4:15 PM
-
-- ET
-
-Center for Law and Justice, Rutgers Law School
-
-<a id="event-6abb46f2cf74317d"></a>
-
-## My First Bitcoin: Education Is Freedom
-
-- Record: `luma-batch-evtmWdmu40qCxBTk`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-22T22:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/hsodwfgy>
-
-### About the event
-
-Join My First Bitcoin at PubKey for an evening exploring how grassroots Bitcoin education is growing into a global movement for freedom, opportunity, and self-sovereignty.
-
-At the heart of the evening is the exclusive premiere of our new documentary, filmed across Indonesia in August 2026. No one has seen the film before.
-
-The documentary follows our journey from Jakarta to Bandung, Surabaya, and finally Bali, capturing the different Bitcoin communities we encountered along the way and the stories of the people building them. We traveled together with Dimas, the leader of Bitcoin Indonesia, meeting local educators, community leaders, and Bitcoiners to understand what adoption looks like on the ground across one of the world's most diverse countries.
-
-Through their stories, the film explores how grassroots, open-source education is helping people better understand money, Bitcoin, and their own financial agency - and how very different local communities are turning that knowledge into action.
-
-Following the screening, My First Bitcoin founder John Dennehy, members of the organization, and special guests will share the story behind My First Bitcoin, how the movement has grown from its roots in El Salvador into a global network of independent educators and communities, and why education sits at the heart of meaningful Bitcoin adoption.
-
-We'll discuss the connection between Bitcoin, education, freedom, and self-sovereignty - and what it takes to build a movement that empowers people to think independently, take greater ownership of their financial lives, and bring that knowledge back to their own communities.
-
-Whether you already know My First Bitcoin, are deeply involved in Bitcoin, or are simply curious about the role education can play in expanding access and understanding, we'd love to have you join us.
-
-Be among the first to see the film. Stay for the conversation. Meet the people helping build the global Bitcoin education movement.
-
 <a id="event-ce43e59053a4cd7b"></a>
 
 ## Co-Working Fridays : London Chapter
@@ -19366,42 +19256,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-267f14dfebdf8151"></a>
-
-## One of Ours \| Arts DAO
-
-- Record: `luma-evt-lNXj8JwLLjYEOZF`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T15:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/arts-6dtf>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e74a873022074ffc"></a>
-
-## Satoshi Spritz Speciale
-
-- Record: `w3v-satoshi-spritz-speciale`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T16:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://planbweek.com/events/satoshi-spritz-speciale>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-90b39b2bd5314020"></a>
-
-## Put Your Bitcoin to Work Without Selling + Apero
-
-- Record: `w3v-put-your-bitcoin-to-work-without-selling--apero`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T16:45:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/mwmzbdb0>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-26a5bf3fc3fd66b5"></a>
 
 ## Crypto talk - Money is Freedom; currency is slavery
@@ -19411,30 +19265,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T19:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/cashflow-271/events/316823041/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-2b8d737922fe571c"></a>
-
-## AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance
-
-- Record: `luma-evt-dYbK287YZ3bbjQn`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T20:15:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/fxu60rnk>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-53f723e003a77600"></a>
-
-## Workshop: Beyond the Build: Onchain Growth & GTM \| Turning early traction into real distribution
-
-- Record: `luma-evt-MI68iswm4hoDGkz`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T21:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/n5k6x2nn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -19450,18 +19280,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-93b778639b0d1b84"></a>
-
-## session 1: charmed x snail mail w/ martina calvi + kelsey armstrong
-
-- Record: `luma-evt-jKaJfI8YHApP93P`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T21:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/craftnook-5pqs>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-ec980b0f1b7e91bf"></a>
 
 ## The Creative Launchpad: Beyond the Feed
@@ -19471,18 +19289,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/2dxmaoh4>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4caf50bb7fb3721e"></a>
-
-## Crypto & Cocktails: October
-
-- Record: `luma-evt-47jEa5h4DW2AGZw`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/0w1ftsnz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -19519,18 +19325,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-22T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/undefined-20261022>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-365bb18c1b1096d9"></a>
-
-## My First Bitcoin: Education Is Freedom
-
-- Record: `luma-evt-mWdmu40qCxBTkma`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-22T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/hsodwfgy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31527,6 +31321,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1e39c11de4e41f39"></a>
+
+## From Real Assets to Digital Tokens: RWA Tokenisation
+
+- Record: `luma-evt-Z1Qjj1BbdXwFky4`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23T16:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/r5kqfaz0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0087118ffbd54687"></a>
+
+## Longevity Lounge: Strong Tendons, Fewer Injuries — Jump, Hold and Recover Smarter ⚕️ 🏋️‍♂️
+
+- Record: `luma-evt-1vuZIck4HTIEkEq`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/kbcqtxv1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-282241adb613420b"></a>
 
 ## UXPA España: Creando agentes de IA éticos con Claude Code
@@ -34153,6 +33971,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d4711b4f48d49088"></a>
+
+## Toronto Tech Christmas Party 2026: AI • Defence • Crypto \| Connect. Celebrate. Build.
+
+- Record: `luma-evt-jOF1u5vNs21279T`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/sjjctivh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0bbd126eb196e095"></a>
 
 ## Decrypting DeSci (Decentralized Science) \| London
@@ -34276,6 +34106,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-03T01:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/houseof-6ggu>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0c804e18b2875f7e"></a>
+
+## Looking Back to Look Forward: San Francisco
+
+- Record: `luma-evt-7EE56Ms7gCeKG3M`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T03:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/listen-zjhy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34552,6 +34394,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-05T09:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/phoenix-options-trading-group/events/317454520/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-db954ec82ca260eb"></a>
+
+## New Year's Crypto Plans
+
+- Record: `mu-317509856`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T09:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/317509856/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35315,6 +35169,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a1defcac208f405e"></a>
+
+## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
+
+- Record: `mu-317272383`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T08:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-silicon-valley/events/317272383/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c46ac7ff13660972"></a>
 
 ## Bessere Ergebnisse mit generativer KI: Advanced Prompting für die öffentliche Verwaltung
@@ -35336,6 +35202,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10T09:00:00-08:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-oregon/events/317272143/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-207561fad13afd3a"></a>
+
+## ZK Learning Group: Wrap-up 2026, ZK order book matching
+
+- Record: `mu-317272171`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T09:00:00-08:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-sf/events/317272171/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

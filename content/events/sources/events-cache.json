@@ -3501,19 +3501,6 @@
     "month": "November 2026"
   },
   {
-    "id": "w3v-satoshi-spritz-speciale",
-    "name": "Satoshi Spritz Speciale",
-    "description": "Satoshi Spritz Speciale: a Plan ₿ Week Bitcoin meetup across several bars in Lugano’s Piazza Cioccaro on October 22.",
-    "startDate": "2026-10-22T16:00:00.000Z",
-    "endDate": "2026-10-22T21:00:00.000Z",
-    "city": "Massagno",
-    "country": "CH",
-    "location": "Massagno, CH",
-    "url": "https://planbweek.com/events/satoshi-spritz-speciale",
-    "coverImage": "/events/w3v-satoshi-spritz-speciale-365a9500.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-AiHXH77IN4Gmtxy",
     "name": "Crypto Connect Networking Conference Fort Lauderdale",
     "description": "",
@@ -3542,20 +3529,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-47jEa5h4DW2AGZw",
-    "name": "Crypto & Cocktails: October",
-    "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T00:00:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Austin, United States",
-    "url": "https://lu.ma/0w1ftsnz",
-    "coverImage": "/events/luma-evt-47jea5h4dw2agzw-d6aa451a.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-bISlbrGGuIm3lf7",
     "name": "Mississauga+Oakville Bitcoin meetup",
     "description": "",
@@ -3567,19 +3540,6 @@
     "url": "https://lu.ma/u4qslsb1",
     "coverImage": "/events/luma-evt-bislbrgguim3lf7-e0586df1.webp",
     "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-put-your-bitcoin-to-work-without-selling--apero",
-    "name": "Put Your Bitcoin to Work Without Selling + Apero",
-    "description": "Put Your Bitcoin to Work Without Selling + Apero: a session on Bitcoin-backed lending, yield strategies and liquidity management.",
-    "startDate": "2026-10-22T16:45:00.000Z",
-    "endDate": "2026-10-22T18:45:00.000Z",
-    "city": "Lugano",
-    "country": "CH",
-    "location": "Lugano, CH",
-    "url": "https://luma.com/mwmzbdb0",
-    "coverImage": null,
     "month": "October 2026"
   },
   {
@@ -4149,7 +4109,10 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316802686",
@@ -5537,20 +5500,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "id": "luma-evt-lNXj8JwLLjYEOZF",
-    "name": "One of Ours | Arts DAO",
-    "description": "",
-    "startDate": "2026-10-22T15:30:00.000Z",
-    "endDate": "2026-10-22T18:30:00.000Z",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://lu.ma/arts-6dtf",
-    "coverImage": "/events/luma-evt-lnxj8jwlljyeozf-e6ff7075.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-93TpbHDU3XmUP6O",
@@ -7475,34 +7424,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-dYbK287YZ3bbjQn",
-    "name": "AWIC x Rutgers Center for Corporate Law and Governance: The Future of Digital Asset Governance",
-    "description": "",
-    "startDate": "2026-10-22T20:15:00.000Z",
-    "endDate": "2026-10-22T22:45:00.000Z",
-    "city": "Newark",
-    "country": "United States",
-    "location": "Newark, United States",
-    "url": "https://lu.ma/fxu60rnk",
-    "coverImage": "/events/luma-evt-dybk287yz3bbjqn-675c63dd.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-MI68iswm4hoDGkz",
-    "name": "Workshop: Beyond the Build: Onchain Growth & GTM | Turning early traction into real distribution",
-    "description": "",
-    "startDate": "2026-10-22T21:00:00.000Z",
-    "endDate": "2026-10-22T22:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/n5k6x2nn",
-    "coverImage": "/events/luma-evt-mi68iswm4hodgkz-9e8a741d.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-3LOM4FGRx6RW5z1",
     "name": "ETH NYC MEETUP",
     "description": "",
@@ -7517,20 +7438,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-jKaJfI8YHApP93P",
-    "name": "session 1: charmed x snail mail w/ martina calvi + kelsey armstrong",
-    "description": "",
-    "startDate": "2026-10-22T21:30:00.000Z",
-    "endDate": "2026-10-22T23:30:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, United States",
-    "url": "https://lu.ma/craftnook-5pqs",
-    "coverImage": "/events/luma-evt-jkajfi8yhapp93p-ff1314db.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-0hQp1NQe1o59dF9",
     "name": "The Creative Launchpad: Beyond the Feed",
     "description": "",
@@ -7541,20 +7448,6 @@
     "location": "Newark, United States",
     "url": "https://lu.ma/2dxmaoh4",
     "coverImage": "/events/luma-evt-0hqp1nqe1o59df9-d31bd9eb.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-mWdmu40qCxBTkma",
-    "name": "My First Bitcoin: Education Is Freedom",
-    "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T00:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/hsodwfgy",
-    "coverImage": "/events/luma-evt-mwdmu40qcxbtkma-b48e0d81.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -8956,7 +8849,7 @@
     "country": "US",
     "location": "Oakland, US",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317049329/",
-    "coverImage": "/events/mu-317049329-37faed72.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "January 2027"
   },
@@ -15300,7 +15193,7 @@
     "country": "US",
     "location": "San Francisco, US",
     "url": "https://www.meetup.com/bay-area-millennials-and-gen-z-meetup-group/events/317016304/",
-    "coverImage": "/events/mu-317016304-a6e48497.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15398,7 +15291,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317272375/",
-    "coverImage": "/events/mu-317272375-d908933c.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -15412,7 +15305,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317385759/",
-    "coverImage": "/events/mu-317385759-aae595e1.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -18577,7 +18470,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -23261,6 +23154,104 @@
     "url": "https://lu.ma/adk5zfw9",
     "coverImage": "/events/luma-evt-ciwbzulq77nugt9-93ca658d.webp",
     "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-Z1Qjj1BbdXwFky4",
+    "name": "From Real Assets to Digital Tokens: RWA Tokenisation",
+    "description": "",
+    "startDate": "2026-11-23T16:30:00.000Z",
+    "endDate": "2026-11-23T20:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/r5kqfaz0",
+    "coverImage": "/events/luma-evt-z1qjj1bbdxwfky4-3ede7095.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-1vuZIck4HTIEkEq",
+    "name": "Longevity Lounge: Strong Tendons, Fewer Injuries — Jump, Hold and Recover Smarter ⚕️ 🏋️‍♂️",
+    "description": "",
+    "startDate": "2026-11-23T17:00:00.000Z",
+    "endDate": "2026-11-23T20:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/kbcqtxv1",
+    "coverImage": "/events/luma-evt-1vuzick4htiekeq-31bb534c.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-jOF1u5vNs21279T",
+    "name": "Toronto Tech Christmas Party 2026: AI • Defence • Crypto | Connect. Celebrate. Build.",
+    "description": "",
+    "startDate": "2026-12-02T23:00:00.000Z",
+    "endDate": "2026-12-03T03:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/sjjctivh",
+    "coverImage": "/events/luma-evt-jof1u5vns21279t-4eb9af4f.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-7EE56Ms7gCeKG3M",
+    "name": "Looking Back to Look Forward: San Francisco",
+    "description": "",
+    "startDate": "2026-12-03T03:00:00.000Z",
+    "endDate": "2026-12-03T05:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/listen-zjhy",
+    "coverImage": "/events/luma-evt-7ee56ms7gcekg3m-d82ac315.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317509856",
+    "name": "New Year's Crypto Plans",
+    "description": "The price of Bitcoin (and the overall crypto market) has literally been on a rollercoaster since the beginning of the year and we still have a month to go. Will the price of Bitcoin start to recover n",
+    "startDate": "2026-12-05T09:00:00-08:00",
+    "endDate": "2026-12-05T09:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/317509856/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272383",
+    "name": "Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines",
+    "description": "ThunderID ([https://github.com/thunder-id](https://github.com/thunder-id)) is an open source identity and access management project, hosted by LF Decentralized Trust as an incubation project. It is bu",
+    "startDate": "2026-12-10T08:00:00-08:00",
+    "endDate": "2026-12-10T08:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-silicon-valley/events/317272383/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272171",
+    "name": "ZK Learning Group: Wrap-up 2026, ZK order book matching",
+    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development.\nDuring the year we will systematically explore different aspects of zero",
+    "startDate": "2026-12-10T09:00:00-08:00",
+    "endDate": "2026-12-10T09:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-sf/events/317272171/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "December 2026"
   }
 ]

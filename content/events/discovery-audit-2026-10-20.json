@@ -47,39 +47,6 @@
       "descriptionSha256": "6c73e9d1a5ca1b76ccf8fde10a70fb979ce4d760aab906cb341520696b1b4a24"
     },
     {
-      "id": "luma-batch-hPFyfHyof2hYVIp",
-      "slug": "soiree-xd-20",
-      "aliases": [
-        "kv670yys"
-      ],
-      "startDate": "2026-10-22T16:00:00.000Z",
-      "endDate": "2026-10-22T20:00:00.000Z",
-      "timezone": "Europe/Berlin",
-      "descriptionSha256": "8a2d86c415c559538d082bfef8b892f9422c5908fd454f45a462275f9bedac6e"
-    },
-    {
-      "id": "luma-batch-evtdYbK287YZ3bbj",
-      "slug": "awic-rutgers-digital-asset-governance",
-      "aliases": [
-        "fxu60rnk"
-      ],
-      "startDate": "2026-10-22T20:15:00.000Z",
-      "endDate": "2026-10-22T22:45:00.000Z",
-      "timezone": "America/New_York",
-      "descriptionSha256": "cb00eba2a0ff1e8f8af50aaf00519cb68b70ddb2ee73a91727fd0af8f8518d86"
-    },
-    {
-      "id": "luma-batch-evtmWdmu40qCxBTk",
-      "slug": "my-first-bitcoin-education-is-freedom",
-      "aliases": [
-        "hsodwfgy"
-      ],
-      "startDate": "2026-10-22T22:00:00.000Z",
-      "endDate": "2026-10-23T00:00:00.000Z",
-      "timezone": "America/New_York",
-      "descriptionSha256": "6cec771bcfc31d3aa9cd2fcc0f49185d336c5cde8b7d7820b3d9f5aceab9edcf"
-    },
-    {
       "id": "premier-planblugano",
       "slug": "plan-b-forum-lugano",
       "aliases": [
@@ -4583,43 +4550,6 @@
       }
     },
     {
-      "id": "mu-316850208",
-      "name": "Coldcard post-mortem: ¿Qué pasó? + Debate abierto",
-      "startDate": "2026-10-22T19:00:00+02:00",
-      "endDate": "2026-10-22T21:00:00+02:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-      "lane": "europe",
-      "reason": "No matching source identity. Specific technical session verified on the organizer's Meetup page; incident assertions are not independently endorsed.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-          "fetchedAt": "2026-10-20T08:05:06.511Z",
-          "excerpt": "startDate: 2026-10-22T19:00:00+02:00; endDate: 2026-10-22T21:00:00+02:00. En este meetup, @counterweight analizará la situación. Lugar: MOB Barcelona, calle Bailèn, 11. Idioma: Castellano. La asistencia a este evento es libre y gratuita.",
-          "sha256": "82e52f6a97186d668b4655f6da92ab09b7857f1a45412a9cb6ab809c2be340bb",
-          "representation": "Public HTML and Event JSON-LD field excerpts; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:29.771Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/1/2/f/600_536460303.jpeg",
-        "fetchedAt": "2026-10-20T09:49:35.882Z",
-        "status": 200,
-        "local": "/events/mu-316850208-9ed05993.webp",
-        "sourceSha256": "78e695be0a9b5afbe4729062942aa6880d7766c1475262ee290fd07af2906bda",
-        "sha256": "8858e4b9fa03a72f37ad05aedbb818350bd09d3e29b1b5c0e4d5a02c7c3aaf9e",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 33288
-      }
-    },
-    {
       "id": "mu-316754646",
       "name": "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus",
       "startDate": "2026-10-29T18:15:00+01:00",
@@ -7886,20 +7816,6 @@
       ]
     },
     {
-      "url": "https://luma.com/arts-6dtf",
-      "id": "luma-evt-lNXj8JwLLjYEOZF",
-      "reason": "Existing source with empty description. Primary explicitly identifies a private members' gathering; do not promote it despite public Luma visibility and an approval form.",
-      "lane": "asia-africa",
-      "evidence": [
-        {
-          "url": "https://luma.com/arts-6dtf",
-          "fetchedAt": "2026-10-20T08:05:32.163Z",
-          "excerpt": "One of Ours | Arts DAO. Date: Thursday, October 22, 2026. Private Members' Gathering. This event is part of the Arts DAO private members' club experience. Registration is subject to approval, with priority given to Arts DAO members and their invited guests.",
-          "representation": "Public primary-page rendered text; selected excerpts, punctuation normalized"
-        }
-      ]
-    },
-    {
       "url": "https://luma.com/SEZDubaiApril2026",
       "id": "luma-batch-gu8tBdih1P3Z2rD",
       "reason": "Inventory records visibility=private, including the runtime alias. Primary still labels it Private Event. Preserve that source status; existing runtime inclusion does not authorize republishing it or disclosing the address.",
@@ -10057,12 +9973,6 @@
       "url": "https://www.meetup.com/bitdevs-amsterdam/events/316893847/",
       "result": "verified-new",
       "note": "Independent Socratic seminar at SugarFactory. Organizer explicitly says no conference ticket is required.",
-      "lane": "europe"
-    },
-    {
-      "url": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-      "result": "verified-new",
-      "note": "Spanish-language Coldcard analysis with Counterweight. Description reports programme, not independent verification of incident claims.",
       "lane": "europe"
     },
     {

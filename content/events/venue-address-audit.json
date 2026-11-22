@@ -2388,50 +2388,6 @@
       "applied": false
     },
     {
-      "id": "luma-batch-hPFyfHyof2hYVIp",
-      "url": "https://luma.com/kv670yys",
-      "fetchedAt": "2026-10-19T20:14:18.189Z",
-      "sourceEventId": "evt-hPFyfHyof2hYVIp",
-      "sourceName": "SOIRÉE XD #20",
-      "sourceStartDate": "2026-10-22T16:00:00.000Z",
-      "sourceEndDate": "2026-10-22T20:00:00.000Z",
-      "sourceTimezone": "Europe/Berlin",
-      "sha256": "b914c895fd10dc64992c4d7f595d71f17a2b11c8cfa71f4cdd954b701847065a",
-      "status": "verified",
-      "previouslyHidden": false,
-      "sourcePublicLocation": true,
-      "patch": {
-        "venueName": "Ojin AixHaus",
-        "streetAddress": "CC Journee Technologies GmbH, Chausseestraße 36, Berlin",
-        "addressLocality": "Berlin",
-        "addressRegion": "Berlin",
-        "addressCountry": "DE",
-        "location": "Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany",
-        "venueAddressSource": {
-          "checkedAt": "2026-10-19T20:14:18.189Z",
-          "urls": [
-            "https://luma.com/kv670yys"
-          ],
-          "venueName": "Ojin AixHaus",
-          "streetAddress": "CC Journee Technologies GmbH, Chausseestraße 36, Berlin",
-          "addressLocality": "Berlin",
-          "addressCountry": "DE",
-          "location": "Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany"
-        }
-      },
-      "evidence": [
-        {
-          "url": "https://luma.com/kv670yys",
-          "fetchedAt": "2026-10-19T20:14:18.189Z",
-          "claim": "The same event/date explicitly marks the venue public and shows this complete address to anonymous visitors.",
-          "excerpt": "SOIRÉE XD #20; 2026-10-22T16:00:00.000Z; Location: Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany"
-        }
-      ],
-      "note": "Public organizer page and explicit public/shown flags agree. Registration restrictions are not changed.",
-      "name": "SOIRÉE XD #20",
-      "applied": true
-    },
-    {
       "id": "token2049-evt-2gHTqhbNIut9G5D",
       "url": "https://luma.com/openhouse-singapore",
       "fetchedAt": "2026-10-19T20:14:18.830Z",

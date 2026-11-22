@@ -1062,30 +1062,6 @@
       }
     }
   },
-  "luma-batch-hPFyfHyof2hYVIp": {
-    "expectedStartDate": "2026-10-22T16:00:00.000Z",
-    "checkedAt": "2026-10-19T20:14:18.189Z",
-    "expectedSourceEventId": "evt-hPFyfHyof2hYVIp",
-    "patch": {
-      "venueName": "Ojin AixHaus",
-      "streetAddress": "CC Journee Technologies GmbH, Chausseestraße 36, Berlin",
-      "addressLocality": "Berlin",
-      "addressRegion": "Berlin",
-      "addressCountry": "DE",
-      "location": "Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany",
-      "venueAddressSource": {
-        "checkedAt": "2026-10-19T20:14:18.189Z",
-        "urls": [
-          "https://luma.com/kv670yys"
-        ],
-        "venueName": "Ojin AixHaus",
-        "streetAddress": "CC Journee Technologies GmbH, Chausseestraße 36, Berlin",
-        "addressLocality": "Berlin",
-        "addressCountry": "DE",
-        "location": "Ojin AixHaus, CC Journee Technologies GmbH, Chausseestraße 36, 10115 Berlin, Germany"
-      }
-    }
-  },
   "luma-batch-evt9GgBM7ScK61zT": {
     "expectedStartDate": "2026-10-28T23:00:00.000Z",
     "checkedAt": "2026-10-19T20:14:27.080Z",

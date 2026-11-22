@@ -3272,66 +3272,6 @@
     "addressLocality": "Halfweg"
   },
   {
-    "name": "Coldcard post-mortem: ¿Qué pasó? + Debate abierto",
-    "description": "Counterweight leads a Spanish-language analysis of the Coldcard incident described by Bitcoin Barcelona, followed by questions and open discussion. The meetup at MOB Barcelona is free. The organizers ask attendees to RSVP and exclude price speculation from the programme.",
-    "startDate": "2026-10-22T19:00:00+02:00",
-    "endDate": "2026-10-22T21:00:00+02:00",
-    "city": "Barcelona",
-    "country": "Spain",
-    "location": "MOB Barcelona, Carrer de Bailèn 11, 08010 Barcelona, Spain",
-    "venueName": "MOB Barcelona",
-    "streetAddress": "Carrer de Bailèn 11",
-    "postalCode": "08010",
-    "addressCountry": "ES",
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitcoin Barcelona (BBO)",
-      "url": "https://bitcoinbarcelona.xyz"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "descriptionSource": {
-      "url": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-      "fetchedAt": "2026-10-20T09:30:29.771Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Coldcard post-mortem: ¿Qué pasó? + Debate abierto , Thu, Oct 22, 2026, 7:00 PM   | Meetup",
-      "sha256": "c3ac268ddae9bcdb36d33e2c7f92da3a2db9089f942339426a1d38addbe51656",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-          "fetchedAt": "2026-10-20T08:05:06.511Z",
-          "sha256": "82e52f6a97186d668b4655f6da92ab09b7857f1a45412a9cb6ab809c2be340bb",
-          "retrievedVia": "Public HTML and Event JSON-LD field excerpts; SHA-256 of fetched HTML",
-          "representation": "html"
-        },
-        {
-          "url": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-          "fetchedAt": "2026-10-20T09:30:29.771Z",
-          "sha256": "b0bb067ae1f737cde0eb7604958a6b773c61db3396ac598e417e98c0df65901e",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "mu-316850208",
-    "url": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-    "registrationUrl": "https://www.meetup.com/bitcoin-barcelona/events/316850208/",
-    "source": "curated-reviewed",
-    "venueAddressSource": {
-      "checkedAt": "2026-10-20T09:30:29.771Z",
-      "urls": [
-        "https://www.meetup.com/bitcoin-barcelona/events/316850208/"
-      ],
-      "venueName": "MOB Barcelona",
-      "streetAddress": "Carrer de Bailèn 11",
-      "addressLocality": "Barcelona",
-      "addressCountry": "ES",
-      "location": "MOB Barcelona, Carrer de Bailèn 11, 08010 Barcelona, Spain"
-    },
-    "coverImage": "/events/mu-316850208-9ed05993.webp",
-    "addressLocality": "Barcelona"
-  },
-  {
     "name": "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus",
     "description": "Security engineer Simran Tinani presents the paper Flash Boys 2.0, covering decentralized-exchange frontrunning, sandwich attacks, priority gas auctions and MEV's implications for consensus. The 45-60 minute talk is followed by discussion and Q&A. No blockchain or finance background is required, though familiarity with distributed systems is helpful.",
     "startDate": "2026-10-29T18:15:00+01:00",
