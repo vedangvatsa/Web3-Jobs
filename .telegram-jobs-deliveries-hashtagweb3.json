@@ -2497,5 +2497,127 @@
     "slotKey": "2026-11-21:evening",
     "messageId": 156425,
     "sentAt": "2026-11-21T23:53:58.189Z"
+  },
+  "3896ce09-5840-4d87-be2a-0400e4eb0a95": {
+    "status": "reserved",
+    "reservedAt": "2026-11-22T11:55:05.561Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "c108bbc6-5487-486b-8491-7132a22fe54b",
+          "title": "Protocol Engineer, San Francisco",
+          "company": "Fun.xyz",
+          "link": "https://jobs.lever.co/funxyz/c108bbc6-5487-486b-8491-7132a22fe54b",
+          "date": "2026-11-12T17:47:48.559Z",
+          "source": "Lever: Fun.xyz [funxyz]",
+          "location": "Hybrid (San Francisco)",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng775"
+        },
+        "key": "c108bbc6-5487-486b-8491-7132a22fe54b",
+        "slug": "eng775",
+        "url": "https://hashtagweb3.com/eng775?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fun.xyz",
+        "title": "Protocol Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8045820003",
+          "title": "Engineering VP / Director",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8045820003",
+          "date": "2026-10-27T22:27:05-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng672"
+        },
+        "key": "8045820003",
+        "slug": "eng672",
+        "url": "https://hashtagweb3.com/eng672?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Engineering VP / Director"
+      },
+      {
+        "snapshot": {
+          "id": "4727541006",
+          "title": "Sales Engineer",
+          "company": "Fireblocks",
+          "link": "https://www.fireblocks.com/careers/position?gh_jid=4727541006",
+          "date": "2026-11-17T20:57:39-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Fireblocks [fireblocks]",
+          "location": "Singapore",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng831"
+        },
+        "key": "4727541006",
+        "slug": "eng831",
+        "url": "https://hashtagweb3.com/eng831?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fireblocks",
+        "title": "Sales Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8355357",
+          "title": "Account Executive, Radar (Mandarin-speaking)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8355357",
+          "date": "2026-11-11T21:32:16-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "1640 Product Sales - Payments",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls296"
+        },
+        "key": "8355357",
+        "slug": "sls296",
+        "url": "https://hashtagweb3.com/sls296?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "a9fe538ef7ad",
+          "title": "Director of Regulatory and Compliance (Latin America)",
+          "company": "Zero Hash",
+          "link": "https://zero-hash.breezy.hr/p/a9fe538ef7ad-director-of-regulatory-and-compliance-latin-america",
+          "date": "2026-11-11",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Zero Hash [zero-hash]",
+          "location": "Remote (Brazil)",
+          "isRemote": true,
+          "department": null,
+          "active": true,
+          "dateEvidence": {
+            "url": "https://zero-hash.breezy.hr/p/a9fe538ef7ad-director-of-regulatory-and-compliance-latin-america",
+            "checkedAt": "2026-11-12T01:39:14.941Z",
+            "bodySha256": "23b7b573a997a5a43e80e801e4dc0f9afe1c21ad210f3872e780d2ba1e6a2fe6",
+            "provider": "breezy",
+            "datePosted": "2026-11-11"
+          },
+          "slug": "cmp115"
+        },
+        "key": "a9fe538ef7ad",
+        "slug": "cmp115",
+        "url": "https://hashtagweb3.com/cmp115?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Zero Hash",
+        "title": "Director of Regulatory and Compliance"
+      }
+    ],
+    "message": "- Fun​.xyz is hiring <a href=\"https://hashtagweb3.com/eng775?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Protocol Engineer, San Francisco</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/eng672?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering VP / Director</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/eng831?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls296?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Radar (Mandarin-speaking)</a>\n- Zero Hash is hiring <a href=\"https://hashtagweb3.com/cmp115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Regulatory and Compliance (Latin America)</a>",
+    "slotKey": "2026-11-22:afternoon"
   }
 }
