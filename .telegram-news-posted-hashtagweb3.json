@@ -62,6 +62,9 @@
   "https://hashtagweb3.com/deathbets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/masbills?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/krakentribe?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/wallerrate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/maradebt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/buchanansentence?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -188,6 +191,12 @@
   "MAS settles S$100 million tokenised bill sale with wholesale CBDC",
   "Payward to Acquire Venture Firm Tribe Capital",
   "Payward agrees to buy Tribe Capital in private-markets push",
+  "Fed Governor Says Traditional Payments Will Support Tokenized Markets",
+  "Fed's Waller Backs Traditional Rails for Tokenized Markets in TCH Speech",
+  "MARA raises $185 million to buy Ohio power plant",
+  "MARA prices $185 million secured notes to fund its Long Ridge power plant acquisition",
+  "Hacker Sentenced to Six Years for $11.6M Crypto Theft",
+  "Scattered Spider Hacker Buchanan Sentenced to 6 Years Over $11.6M Crypto Theft",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -250,5 +259,8 @@
   "fp:act|ask|bessent|extend|genius|giv|harbor|issuer|lawmaker|licens",
   "fp:act|assassination|bann|bar|bet|bill|cftc|contract|death|legislation",
   "fp:100m|authority|bill|cbdc|digital|four|issu|ledger|network|november6",
-  "fp:27b|acquir|agre|asset|buy|capital|early2027|expect|firm|manager"
+  "fp:27b|acquir|agre|asset|buy|capital|early2027|expect|firm|manager",
+  "fp:anchor|asset|back|bank|central|christopher|despit|expect|financial|governor",
+  "fp:15b|185m|acquisition|buy|due2032|financ|long|mara|not|november27",
+  "fp:116m|buchanan|cryptocurrency|hacker|phish|scatter|schem|sentenc|sim|six"
 ]
