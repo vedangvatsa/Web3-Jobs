@@ -208679,9 +208679,9 @@
       "articleSlug": "xmr1collapse",
       "draftProgress": {
         "id": "976b95af59057ab06de0",
-        "day": "2026-11-21",
+        "day": "2026-11-22",
         "articleSlug": "xmr1collapse",
-        "note": "Read Cointelegraph and Decrypt in full; drafting now.",
+        "note": "Re-read Cointelegraph and Decrypt in full today; drafting now.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit",
@@ -208692,7 +208692,7 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-21T01:15:37.825Z",
+        "updatedAt": "2026-11-22T12:13:03.215Z",
         "approved": false,
         "mustReview": true
       },
