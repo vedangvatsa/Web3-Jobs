@@ -200075,9 +200075,9 @@
         "SEC Press Releases"
       ],
       "id": "9c6708b43d879d281c39",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-22T21:45:00.000Z",
       "lastSeenAt": "2026-11-22T11:54:08.214Z",
       "articleSlug": "secscam",
@@ -200103,7 +200103,25 @@
         "updatedAt": "2026-11-22T11:58:02.983Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the SEC Nov 19 press release (2026-115), Bitcoin Magazine Nov 19 and Decrypt Nov 21 in full; all three URLs return HTTP 200. Verified entity names, four adviser-platform pair timeline, charges, investor losses and D'Allaird quote across sources. Draft written; quality, formatting, image and duplicate audits pass; outbound links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-22T12:01:26.842Z",
+      "lastReviewedDay": "2026-11-22"
     },
     "22be848e6da9f13764b4": {
       "source": "Cointelegraph",
@@ -410240,6 +410258,27 @@
             }
           ],
           "reviewedAt": "2026-11-22T11:56:53.157Z"
+        },
+        "9c6708b43d879d281c39": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the SEC Nov 19 press release (2026-115), Bitcoin Magazine Nov 19 and Decrypt Nov 21 in full; all three URLs return HTTP 200. Verified entity names, four adviser-platform pair timeline, charges, investor losses and D'Allaird quote across sources. Draft written; quality, formatting, image and duplicate audits pass; outbound links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-22T12:01:26.842Z",
+          "articleSlug": "secscam"
         }
       },
       "baselineSlugs": [
