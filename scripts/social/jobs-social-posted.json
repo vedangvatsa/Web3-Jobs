@@ -168417,7 +168417,8 @@
       },
       "account": "channel:ai",
       "attemptId": "92770b98-6a12-4a36-8624-7309af77d115",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9009138187c03c25729d55cf7e188a8970a550b2"
     }
   ]
 }
