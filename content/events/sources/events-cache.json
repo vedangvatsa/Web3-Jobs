@@ -3501,48 +3501,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-AiHXH77IN4Gmtxy",
-    "name": "Crypto Connect Networking Conference Fort Lauderdale",
-    "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T02:00:00.000Z",
-    "city": "Fort Lauderdale",
-    "country": "United States",
-    "location": "Fort Lauderdale, United States",
-    "url": "https://lu.ma/p3dtz2wz",
-    "coverImage": "/events/luma-evt-aihxh77in4gmtxy-2f934fd7.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-lacHpG48QXuiQwm",
-    "name": "Toronto CTO Dinner (Ripple x Mycroft x QA Wolf)",
-    "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T01:30:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/welovectos",
-    "coverImage": "/events/luma-evt-lachpg48qxuiqwm-a723180f.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-bISlbrGGuIm3lf7",
-    "name": "Mississauga+Oakville Bitcoin meetup",
-    "description": "",
-    "startDate": "2026-10-22T23:00:00.000Z",
-    "endDate": "2026-10-23T01:00:00.000Z",
-    "city": "Oakville",
-    "country": "Canada",
-    "location": "Oakville, Canada",
-    "url": "https://lu.ma/u4qslsb1",
-    "coverImage": "/events/luma-evt-bislbrgguim3lf7-e0586df1.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-spazio-21",
     "name": "Spazio 21",
     "description": "Spazio 21: two days of free Bitcoin talks and hands-on workshops on self-custody, nodes, mining, Lightning, privacy and FOSS.",
@@ -4109,10 +4067,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316802686",
@@ -5083,20 +5038,6 @@
     }
   },
   {
-    "id": "luma-evt-sABP038MPW4T97y",
-    "name": "Chef Night with Nico",
-    "description": "",
-    "startDate": "2026-10-23T02:00:00.000Z",
-    "endDate": "2026-10-23T05:00:00.000Z",
-    "city": "Los Angeles",
-    "country": "United States",
-    "location": "Los Angeles, United States",
-    "url": "https://lu.ma/a3q4ytie",
-    "coverImage": "/events/luma-evt-sabp038mpw4t97y-04c6b530.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-315688633",
     "name": "Modeling Your Business with Ontologies in Fabric IQ",
     "description": "Learn how to create the semantic foundation that powers business-aware agents. In this session, we'll explore how ontologies in Fabric IQ model the entities, relationships, and concepts that define yo",
@@ -5109,20 +5050,6 @@
     "coverImage": "/events/mu-315688633-c0575cb1.webp",
     "source": "meetup",
     "month": "November 2026"
-  },
-  {
-    "id": "mu-316823041",
-    "name": "Crypto talk - Money is Freedom; currency is slavery ",
-    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it",
-    "startDate": "2026-10-22T19:00:00-07:00",
-    "endDate": "2026-10-22T19:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cashflow-271/events/316823041/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
   },
   {
     "id": "mu-316859713",
@@ -5150,7 +5077,10 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-btc-balkans-2026",
@@ -5500,20 +5430,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "id": "luma-evt-93TpbHDU3XmUP6O",
-    "name": "Mexico City | Claude for Marketers",
-    "description": "",
-    "startDate": "2026-10-22T23:30:00.000Z",
-    "endDate": "2026-10-23T02:30:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/claudemexicocitymarketing",
-    "coverImage": "/events/luma-evt-93tpbhdu3xmup6o-9804bb35.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-FXiUZLPawc1vQon",
@@ -7349,34 +7265,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-xF13FD4hLQMu3Cb",
-    "name": "ClawMax.ai Build Night Silicon Valley",
-    "description": "",
-    "startDate": "2026-10-23T00:00:00.000Z",
-    "endDate": "2026-10-23T04:00:00.000Z",
-    "city": "Santa Clara",
-    "country": "United States",
-    "location": "Santa Clara, United States",
-    "url": "https://lu.ma/clawmax-build-night-sv-1",
-    "coverImage": "/events/luma-evt-xf13fd4hlqmu3cb-14a83674.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-9iUgTMGrCkw4pg3",
-    "name": "Shift.Forward(): Bay Area Agentic AI",
-    "description": "",
-    "startDate": "2026-10-23T00:30:00.000Z",
-    "endDate": "2026-10-23T03:00:00.000Z",
-    "city": "San Jose",
-    "country": "United States",
-    "location": "San Jose, United States",
-    "url": "https://lu.ma/jps7v0p8",
-    "coverImage": "/events/luma-evt-9iugtmgrckw4pg3-3d940a64.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-near-hackathon",
     "name": "NEAR Hackathon",
     "description": "NEAR Hackathon 2026: a two-week online hackathon with 13 tracks across DeFi, AI agents, privacy, payments, gaming and open innovation.",
@@ -7420,62 +7308,6 @@
     "location": "Toronto, Canada",
     "url": "https://lu.ma/ffglcmtz",
     "coverImage": "/events/luma-evt-nsrzn2c60frffek-8d00b3b6.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-3LOM4FGRx6RW5z1",
-    "name": "ETH NYC MEETUP",
-    "description": "",
-    "startDate": "2026-10-22T21:15:00.000Z",
-    "endDate": "2026-10-23T00:15:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/yajlntzq",
-    "coverImage": "/events/luma-evt-3lom4fgrx6rw5z1-44957de8.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-0hQp1NQe1o59dF9",
-    "name": "The Creative Launchpad: Beyond the Feed",
-    "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T00:30:00.000Z",
-    "city": "Newark",
-    "country": "United States",
-    "location": "Newark, United States",
-    "url": "https://lu.ma/2dxmaoh4",
-    "coverImage": "/events/luma-evt-0hqp1nqe1o59df9-d31bd9eb.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-Mhu0MM7WcH2hVNl",
-    "name": "Undefined + EvolveDigital / Oct 22nd 2026",
-    "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/undefined-20261022",
-    "coverImage": "/events/luma-evt-mhu0mm7wch2hvnl-2c288d00.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-zyv6TPbYczsVuy3",
-    "name": "Is taste the right question we should be asking? A fireside panel ft. Coinbase, Ruckus, and Graphite",
-    "description": "",
-    "startDate": "2026-10-23T01:00:00.000Z",
-    "endDate": "2026-10-23T03:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/5rst1oq5",
-    "coverImage": "/events/luma-evt-zyv6tpbyczsvuy3-e7bd201b.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -7603,20 +7435,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-M0QgvfwS1nwbN5r",
-    "name": "Solana Across Campuses: Claremont Colleges",
-    "description": "",
-    "startDate": "2026-10-23T03:00:00.000Z",
-    "endDate": "2026-10-23T04:00:00.000Z",
-    "city": "Claremont",
-    "country": "United States",
-    "location": "Claremont, United States",
-    "url": "https://lu.ma/yc4iuef6",
-    "coverImage": "/events/luma-evt-m0qgvfws1nwbn5r-7c738ac1.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-x1U2RBrqcnEBlTt",
     "name": "Meet & Make #27 – Tricot 🧶",
     "description": "",
@@ -7659,34 +7477,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-n237uF3ERoiMc6A",
-    "name": "DeFi Homies Get Together",
-    "description": "",
-    "startDate": "2026-10-22T22:00:00.000Z",
-    "endDate": "2026-10-23T02:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/dp9xar1p",
-    "coverImage": "/events/luma-evt-n237uf3eroimc6a-cb578330.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-ovkyzfZsQN6Xgpl",
-    "name": "session 2: charmed x snail mail w/ martina calvi + kelsey armstrong",
-    "description": "",
-    "startDate": "2026-10-22T23:30:00.000Z",
-    "endDate": "2026-10-23T01:30:00.000Z",
-    "city": "Brooklyn",
-    "country": "United States",
-    "location": "Brooklyn, United States",
-    "url": "https://lu.ma/5lp2gju4",
-    "coverImage": "/events/luma-evt-ovkyzfzsqn6xgpl-9a4ea691.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-7AAxOtClIJt7DtI",
     "name": "Math minded: The Mathematics of Intelligence: Graphs, Transformers & First Principles",
     "description": "",
@@ -7712,20 +7502,6 @@
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316890023/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-qjoK0h06zCpAFbe",
-    "name": "Vegan Bitcoin™ MdR #4",
-    "description": "",
-    "startDate": "2026-10-23T01:00:00.000Z",
-    "endDate": "2026-10-23T03:00:00.000Z",
-    "city": "Marina del Rey",
-    "country": "United States",
-    "location": "Marina del Rey, United States",
-    "url": "https://lu.ma/lk638d25",
-    "coverImage": "/events/luma-evt-qjok0h06zcpafbe-fadd141e.webp",
-    "source": "luma",
     "month": "October 2026"
   },
   {
@@ -15193,7 +14969,7 @@
     "country": "US",
     "location": "San Francisco, US",
     "url": "https://www.meetup.com/bay-area-millennials-and-gen-z-meetup-group/events/317016304/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317016304-a6e48497.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -15305,7 +15081,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317385759/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317385759-aae595e1.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -18470,7 +18246,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -18526,7 +18302,7 @@
     "country": "us",
     "location": "Phoenix, us",
     "url": "https://www.meetup.com/phoenix-wbc-meetup-group/events/317449479/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317449479-918be00f.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18540,7 +18316,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/phoenix-options-trading-group/events/317454520/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454520-e6de4e78.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20273,7 +20049,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/atlanta-options-trading-group/events/317454524/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454524-c021428a.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20454,7 +20230,7 @@
     "country": "us",
     "location": "Spokane, us",
     "url": "https://www.meetup.com/spokane-net-user-group/events/317065466/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317065466-cbbb101f.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20552,7 +20328,7 @@
     "country": "us",
     "location": "San Francisco, us",
     "url": "https://www.meetup.com/sf-bitcoin-devs/events/317385528/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317385528-eaedcf88.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -21396,7 +21172,7 @@
   },
   {
     "id": "luma-evt-kbfNqpHN3cFEuQJ",
-    "name": "Meet Dapplewood Books: make a picture book for a kid you love",
+    "name": "Entrance to kanarie by breakfast club in the back. Meet Dapplewood Books: make a picture book for a kid you love",
     "description": "",
     "startDate": "2026-11-22T10:00:00.000Z",
     "endDate": "2026-11-22T15:00:00.000Z",
@@ -23252,6 +23028,104 @@
     "url": "https://www.meetup.com/lfdt-sf/events/317272171/",
     "coverImage": null,
     "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-ZLZd2m148fItjGX",
+    "name": "Festival RIZOMA: Proyección Océano Titánico, de Konstantina Kotzamani",
+    "description": "",
+    "startDate": "2026-11-22T18:00:00.000Z",
+    "endDate": "2026-11-22T20:10:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/5y0ml7zp",
+    "coverImage": "/events/luma-evt-zlzd2m148fitjgx-0586997c.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317138627",
+    "name": "The Philosophy of Trust in the Age of AI",
+    "description": "What is the difference between a used car salesman and ChatGPT and similar large language models?\n\nTrust has always been problematic, but trust has taken on renewed importance as we advance (or plumme",
+    "startDate": "2026-11-22T12:00:00-08:00",
+    "endDate": "2026-11-22T12:00:00-08:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/the-philosophy-club/events/317138627/",
+    "coverImage": "/events/mu-317138627-630c90c7.webp",
+    "source": "meetup",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-Cgb4ubADD9CvanR",
+    "name": "Superteam Badminton Break",
+    "description": "",
+    "startDate": "2026-11-23T09:00:00.000Z",
+    "endDate": "2026-11-23T11:00:00.000Z",
+    "city": "",
+    "country": "Thailand",
+    "location": "Thailand",
+    "url": "https://luma.com/8hwvdh60",
+    "coverImage": "/events/luma-host-evt-evt-cgb4ubadd9cvanr-be13dc74.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-odwqkx0Eaw6tgfU",
+    "name": "From sequence to insight: Exploring Bioinformatics",
+    "description": "",
+    "startDate": "2026-11-23T18:00:00.000Z",
+    "endDate": "2026-11-23T21:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/vj64kdrd",
+    "coverImage": "/events/luma-evt-odwqkx0eaw6tgfu-6568d8c2.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-nRK3YhyDzarRRIo",
+    "name": "Loy Krathong with SuperteamTH",
+    "description": "",
+    "startDate": "2026-11-24T09:00:00.000Z",
+    "endDate": "2026-11-24T11:00:00.000Z",
+    "city": "",
+    "country": "Thailand",
+    "location": "Thailand",
+    "url": "https://luma.com/h4t4dgwq",
+    "coverImage": "/events/luma-host-evt-evt-nrk3yhydzarrrio-dfad126e.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-TZMnwEbnnSYCCxn",
+    "name": "Fermenting Forward: From Koji Traditions to Next-Generation Food Innovation",
+    "description": "",
+    "startDate": "2026-12-03T22:00:00.000Z",
+    "endDate": "2026-12-04T01:00:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/pgjkhu6b",
+    "coverImage": "/events/luma-evt-tzmnwebnnsyccxn-1c53a977.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-Uxb7wAVLRIJsptZ",
+    "name": "Creator Launch Party by Icon Cameras",
+    "description": "",
+    "startDate": "2026-12-06T22:00:00.000Z",
+    "endDate": "2026-12-07T02:00:00.000Z",
+    "city": "Orange",
+    "country": "United States",
+    "location": "Orange, United States",
+    "url": "https://lu.ma/b5x2p7ou",
+    "coverImage": "/events/luma-evt-uxb7wavlrijsptz-6312f9a0.webp",
+    "source": "luma",
     "month": "December 2026"
   }
 ]

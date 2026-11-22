@@ -2782,43 +2782,6 @@
       }
     },
     {
-      "id": "mu-316822252",
-      "name": "EthVan weekly meetup",
-      "startDate": "2026-10-22T18:00:00-07:00",
-      "endDate": "2026-10-22T20:00:00-07:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/ethvancouver-meetup-group/events/316822252/",
-      "lane": "americas",
-      "reason": "No inventory match for this specific October 22 occurrence; no later recurrence inferred.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/ethvancouver-meetup-group/events/316822252/",
-          "fetchedAt": "2026-10-20T08:05:46.001Z",
-          "excerpt": "EthVan weekly meetup; 2026-10-22T18:00:00-07:00 to 20:00:00-07:00. Every Thursday at DCTRL (328 West Hastings). For the latest information, see Vancouver Crypto Events: https://luma.com/yvr.",
-          "sha256": "bb675a3ddc01a86db0bd5e4f51e44bfa02a19b6e4885bbbc49392e92e19b11d5",
-          "representation": "html; JSON-LD and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:57.788Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/6/2/2/4/600_508765124.jpeg",
-        "fetchedAt": "2026-10-20T09:49:14.096Z",
-        "status": 200,
-        "local": "/events/mu-316822252-12540fed.webp",
-        "sourceSha256": "0846a7cbb0478cf2f62189748600d049513288968961a8ebbbf4c10ad316cfcf",
-        "sha256": "a9ec268d03bd6230e818e641b4d4778abbf95ec20817a86badb5c7c2739b2a97",
-        "originalWidth": 600,
-        "originalHeight": 337,
-        "width": 600,
-        "height": 337,
-        "bytes": 17648
-      }
-    },
-    {
       "id": "mu-316905431",
       "name": "Crypto Halloween & Chill - Socialize, Discuss & Learn About CRYPTO",
       "startDate": "2026-10-28T18:00:00-07:00",
@@ -2893,43 +2856,6 @@
       }
     },
     {
-      "id": "mu-316716892",
-      "name": "Austin Bitcoin Developers Meetup",
-      "startDate": "2026-10-22T19:00:00-05:00",
-      "endDate": "2026-10-22T21:00:00-05:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/austin-computer-club/events/316716892/",
-      "lane": "americas",
-      "reason": "No inventory identity match. Technical Bitcoin developer meetup.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/austin-computer-club/events/316716892/",
-          "fetchedAt": "2026-10-20T08:05:47.730Z",
-          "excerpt": "2026-10-22T19:00:00-05:00 to 21:00:00-05:00; bitcoin++ clubhouse, 900 Olive St, Austin. Join Austin’s local bitcoin developer community as we talk through the last month’s events and news from the Bitcoin open source space. Agenda and past events: https://austinbitdevs.com.",
-          "sha256": "f866db6f7a595021c2618e48357f7fe3674770a4099ab139d04934c7784ed9e3",
-          "representation": "html; JSON-LD and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:59.302Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/3/d/2/7/600_535635655.jpeg",
-        "fetchedAt": "2026-10-20T09:49:15.399Z",
-        "status": 200,
-        "local": "/events/mu-316716892-bdd40d1d.webp",
-        "sourceSha256": "a477b7a25b81c089c7e19f3f40aa536f38c5b159ef4e6c0663461045a8514355",
-        "sha256": "feca72c5ac0e3fd80f70a87cd7f0fd6747f64522472a6fee532df24dd42cf0d8",
-        "originalWidth": 600,
-        "originalHeight": 337,
-        "width": 600,
-        "height": 337,
-        "bytes": 58546
-      }
-    },
-    {
       "id": "mu-317049329",
       "name": "Bitcoin for Beginners",
       "startDate": "2026-10-25T14:00:00-07:00",
@@ -3001,43 +2927,6 @@
         "width": 600,
         "height": 338,
         "bytes": 5110
-      }
-    },
-    {
-      "id": "mu-313235525",
-      "name": "Austin Bitcoin Club Presents: Gamenight!",
-      "startDate": "2026-10-22T18:00:00-05:00",
-      "endDate": "2026-10-22T20:00:00-05:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/bitcoin-park-austin/events/313235525/",
-      "lane": "americas",
-      "reason": "No inventory match. Organizer ICS link and Meetup alias identify the same numeric event.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bitcoin-park-austin/events/cbqgvtyjcnbcb/",
-          "fetchedAt": "2026-10-20T08:12:28.031Z",
-          "excerpt": "JSON-LD event URL ends /313235525/. 2026-10-22T18:00:00-05:00 to 20:00:00-05:00; Bitcoin Park Austin, 601 Congress Avenue, Suite 250. Bitcoin Board Games and Pizza. Games include Hodl Up, Channel Up, BIP-39 Seed Phrase. Please RSVP as space will be limited.",
-          "sha256": "e73f87d32ebf31986648f7d40e7bcbdadde74b8f9213c440d1ddb583a906ed20",
-          "representation": "html; JSON-LD and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:03.764Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/c/2/6/f/600_531829775.jpeg",
-        "fetchedAt": "2026-10-20T09:49:16.955Z",
-        "status": 200,
-        "local": "/events/mu-313235525-a168ff6d.webp",
-        "sourceSha256": "a3e03f9f50126d88aa6cab1b7942a344af5a9fdfe346a2756fab0e457d7d0342",
-        "sha256": "36a9d71432edf89a56a1b0a9888b44d616e134aec337562cee0ef4a297e11d6f",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 14600
       }
     },
     {
@@ -6287,45 +6176,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 94838
-      }
-    },
-    {
-      "id": "discovery-evt-Jiz1nYxlG75X1SX",
-      "name": "Team1 India University Workshop - Indira College of Engineering & Management, Pune",
-      "startDate": "2026-10-23T05:30:00.000Z",
-      "endDate": "2026-10-23T08:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-Jiz1nYxlG75X1SX",
-      "url": "https://luma.com/1h9gbkl3",
-      "lane": "india",
-      "reason": "No matching identity across all inventory collections. Separate college and date from the MIT-WPU and VIT workshops. Address locality follows the public source's Parandwadi value.",
-      "evidence": [
-        {
-          "url": "https://luma.com/1h9gbkl3",
-          "fetchedAt": "2026-10-20T08:57:04.953Z",
-          "excerpt": "Team1 Builders Connect at Indira College of Engineering & Management, Pune. Introduction to Web3, Blockchain & Avalanche; hands-on builder session; Q&A. Laptop mandatory. 11:00 AM doors, 2:00 PM closing. start_at 2026-10-23T05:30:00.000Z; end_at 2026-10-23T08:30:00.000Z; Asia/Kolkata. Public address: Gat No 276, Tal. Maval, S.NO 64,65, Indira College Road, Parandwadi, Maharashtra 410506. visibility public; require_approval true.",
-          "sha256": "efd240777496b8b8897c8745bce1605c18b33c47a591f1bd65e269fb11af7703",
-          "representation": "HTTP response HTML and public embedded event data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:04.412Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/tx/04e31e07-9544-43b5-8a93-d61377ca5673.jpg",
-        "fetchedAt": "2026-10-20T09:50:02.570Z",
-        "status": 200,
-        "local": "/events/discovery-evt-jiz1nyxlg75x1sx-57b64071.webp",
-        "sourceSha256": "37a0458301f55af4a179e635725e6bb790d2e4439669b7b5ef8448ab81546181",
-        "sha256": "7427b6f7d06f344a1513ddc9482a25a5c13984a89a6db40442b7b95bc18fbc90",
-        "originalWidth": 1600,
-        "originalHeight": 1603,
-        "width": 1597,
-        "height": 1600,
-        "bytes": 308602
       }
     },
     {
@@ -11287,12 +11137,6 @@
       "url": "https://luma.com/5dgtda35",
       "result": "verified-existing-unpublished",
       "note": "ICONX New Delhi. Public November 1 Bitcoin-mining education event; registration explicitly automatic, not approval-required.",
-      "lane": "india"
-    },
-    {
-      "url": "https://luma.com/1h9gbkl3",
-      "result": "verified-new",
-      "note": "Team1 Indira College workshop, October 23, 11:00-14:00 IST. Public campus is in Parandwadi near Pune; no city geocoding inference.",
       "lane": "india"
     },
     {

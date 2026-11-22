@@ -131,42 +131,6 @@
       "descriptionChanged": true,
       "previousCharacters": 1745,
       "characters": 3756,
-      "factChanges": {
-        "name": "Encode London Hackathon",
-        "startDate": "2026-10-23T10:00:00.000Z",
-        "streetAddress": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-        "coordinates": {
-          "latitude": 51.5275865,
-          "longitude": -0.08377020000000002
-        },
-        "organizer": {
-          "type": "Organization",
-          "name": "Encode Club",
-          "url": "https://www.encode.club/"
-        },
-        "price": "Free",
-        "ticketOffers": [
-          {
-            "name": "Guaranteed Entry",
-            "url": "https://luma.com/encode-london-2026",
-            "price": 30,
-            "priceCurrency": "GBP",
-            "availability": "InStock"
-          },
-          {
-            "name": "Standard ticket (ballot)",
-            "url": "https://luma.com/encode-london-2026",
-            "price": 0,
-            "availability": "InStock"
-          },
-          {
-            "name": "Student ticket",
-            "url": "https://luma.com/encode-london-2026",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ]
-      },
       "source": {
         "url": "https://luma.com/encode-london-2026",
         "fetchedAt": "2026-10-12T11:25:13.270Z",
