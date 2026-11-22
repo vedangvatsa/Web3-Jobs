@@ -166810,7 +166810,8 @@
       },
       "account": "channel:design",
       "attemptId": "19cbb740-8886-429d-8794-43f90a560641",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1554bff4cd58516bc6f2e5935ad353619231f1ce"
     }
   ]
 }
