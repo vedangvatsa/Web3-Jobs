@@ -167765,6 +167765,47 @@
       "attemptId": "3e425983-b5b0-4b6c-8387-d4fdbcd26380",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "cr2",
+      "company": "Hut 8",
+      "title": "Principal, Client Relations",
+      "platform": "linkedin",
+      "postedAt": "2026-11-22T11:56:16.619Z",
+      "expectedText": "Hut 8 is hiring Principal, Client Relations: https://hashtagweb3.com/cr2/li?og=7",
+      "snapshot": {
+        "id": "5457186008",
+        "title": "Principal, Client Relations",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457186008",
+        "date": "2026-11-10T00:55:12-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami",
+        "department": "Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cr2"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Client Relations: https://hashtagweb3.com/cr2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/cr2/li?og=7",
+          "title": "Principal, Client Relations at Hut 8",
+          "description": "Join Hut 8 as Principal, Client Relations. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/cr2.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "4f9a98d2-b94e-43db-becb-50f59c063a62",
+      "verification": "creating"
     }
   ]
 }
