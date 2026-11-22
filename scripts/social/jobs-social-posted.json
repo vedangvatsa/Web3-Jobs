@@ -168487,7 +168487,8 @@
       },
       "account": "channel:design",
       "attemptId": "9054a809-54ad-4e1e-b995-2b47d38abc42",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4f70b25041adb244b283084927b8902afb746616"
     }
   ]
 }
