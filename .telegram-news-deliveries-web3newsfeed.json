@@ -691,5 +691,36 @@
     "slotKey": "2026-11-21:evening",
     "messageId": 65846,
     "sentAt": "2026-11-21T23:54:30.269Z"
+  },
+  "ff5ee3c7-3475-4cf1-a1f7-a30bf89abf0f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-22T11:57:30.378Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Pauses Kalshi Trump-Mention Prediction Markets",
+        "summary": "Regulators gave the exchange until December 11 to respond to market manipulation concerns.",
+        "link": "https://hashtagweb3.com/kalshihalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC Halts Kalshi's Trump Mention Markets, Sets Dec. 11 Response Deadline"
+      },
+      {
+        "index": -1,
+        "headline": "Senate panel questions CFTC nominees on prediction markets",
+        "summary": "Senators questioned Nathan Anonick and Matthew Rowland about ethics and staffing ahead of confirmation votes.",
+        "link": "https://hashtagweb3.com/cftchearing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Senate Agriculture questions Trump's CFTC nominees on prediction markets"
+      },
+      {
+        "index": -1,
+        "headline": "Crypto Coalition Challenges Illinois Digital Asset Tax",
+        "summary": "Eighteen organizations asked a state court to reject the 0.2% fee, calling it vague and discriminatory.",
+        "link": "https://hashtagweb3.com/defiamicus?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful"
+      }
+    ],
+    "slotKey": "2026-11-22:afternoon"
   }
 }
