@@ -169469,6 +169469,48 @@
       "attemptId": "10555f1e-1cfd-410a-8f2c-ed8d1af51a69",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "an125",
+      "company": "CoinsPaid",
+      "title": "Data and Reporting Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-22T18:39:17.581Z",
+      "expectedText": "CoinsPaid is hiring Data and Reporting Analyst: https://hashtagweb3.com/an125/li?og=7",
+      "snapshot": {
+        "id": "41033c35-31db-4c77-a906-55a2c308d5d4",
+        "title": "Data and Reporting Analyst",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/41033c35-31db-4c77-a906-55a2c308d5d4",
+        "date": "2026-10-26T07:36:28.143Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Finance and Accounting",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "an125"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Data and Reporting Analyst: https://hashtagweb3.com/an125/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an125/li?og=7",
+          "title": "Data and Reporting Analyst at CoinsPaid",
+          "description": "Join CoinsPaid as Data and Reporting Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an125.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "44dda439-7bbc-498f-aef9-11bd6090a72b",
+      "verification": "creating"
     }
   ]
 }
