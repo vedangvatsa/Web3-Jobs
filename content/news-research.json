@@ -200079,7 +200079,31 @@
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
       "attempts": 0,
       "expiresAt": "2026-11-22T21:45:00.000Z",
-      "lastSeenAt": "2026-11-22T11:54:08.214Z"
+      "lastSeenAt": "2026-11-22T11:54:08.214Z",
+      "articleSlug": "secscam",
+      "draftProgress": {
+        "id": "9c6708b43d879d281c39",
+        "day": "2026-11-22",
+        "articleSlug": "secscam",
+        "note": "Read SEC press release 2026-115, Decrypt Nov 21 and Bitcoin Magazine Nov 19 in full; drafting now.",
+        "sourceChecks": [
+          {
+            "url": "https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-22T11:58:02.983Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "22be848e6da9f13764b4": {
       "source": "Cointelegraph",
