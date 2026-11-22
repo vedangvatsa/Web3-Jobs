@@ -169870,6 +169870,39 @@
       "attemptId": "e89d342d-253e-4105-a537-e668c6974590",
       "verification": "verified",
       "postId": "0x9cedc2fbf5a3731e89876365adbc6b5cbb3d93fb"
+    },
+    {
+      "slug": "dc2",
+      "company": "Riot Platforms",
+      "title": "Director, Communications",
+      "platform": "farcaster",
+      "postedAt": "2026-11-22T18:42:18.631Z",
+      "expectedText": "Riot Platforms is hiring Director, Communications\n\nhttps://hashtagweb3.com/dc2/fc?og=7",
+      "snapshot": {
+        "id": "fa09e0ee-adee-44f8-b11f-12b7a2ff3e0c",
+        "title": "Director, Communications",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/fa09e0ee-adee-44f8-b11f-12b7a2ff3e0c",
+        "date": "2026-11-09T10:17:50.935000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Denver, CO - Hybrid",
+        "department": "Marketing & Program Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dc2"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Director, Communications\n\nhttps://hashtagweb3.com/dc2/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dc2/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "81296590-7094-44ab-b0fd-b91bb93e5ca3",
+      "verification": "creating"
     }
   ]
 }
