@@ -1,20 +1,28 @@
 {
-  "generatedAt": "2026-11-21T23:52:25.756Z",
+  "generatedAt": "2026-11-22T11:54:14.113Z",
   "items": [
+    {
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "link": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 22 Nov 2026 09:33:06 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "link": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 22 Nov 2026 07:24:05 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
       "link": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
       "pubDate": "Sat, 21 Nov 2026 21:17:36 +0000",
       "creator": "Zack Abrams",
       "contentSnippet": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
-      "source": "The Block"
-    },
-    {
-      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
-      "link": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
-      "pubDate": "Sat, 21 Nov 2026 18:51:14 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
       "source": "The Block"
     },
     {
@@ -496,22 +504,6 @@
       "creator": "Staff",
       "contentSnippet": "A SoFi and YouGov survey found that 21% of Gen Z adults own crypto, more than hold employer retirement plans, even as only 13% of all Americans own it...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Ethereum’s new DeFi security tool raises questions over censorship",
-      "link": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 19 Nov 2026 13:30:00 +0000",
-      "creator": "Christina Comben",
-      "contentSnippet": "Phylax’s system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereum’s co...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "GTA VI publisher racks up nearly 3x Nvidia’s tokenized stock volume",
-      "link": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 19 Nov 2026 12:33:46 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Fourth Circuit Affirms Maryland’s Authority to Regulate Kalshi Prediction Markets",
