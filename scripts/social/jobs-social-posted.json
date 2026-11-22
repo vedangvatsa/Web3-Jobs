@@ -167027,6 +167027,34 @@
       "attemptId": "37d1ef49-5608-4c22-aac3-a2993f5affb2",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "cr2",
+      "company": "Hut 8",
+      "title": "Principal, Client Relations",
+      "platform": "threads",
+      "postedAt": "2026-11-22T11:56:16.619Z",
+      "expectedText": "Hut 8 is hiring Principal, Client Relations: https://hashtagweb3.com/cr2/th?og=7",
+      "snapshot": {
+        "id": "5457186008",
+        "title": "Principal, Client Relations",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457186008",
+        "date": "2026-11-10T00:55:12-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami",
+        "department": "Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cr2"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Client Relations: https://hashtagweb3.com/cr2/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/cr2/th?og=7"
+      },
+      "attemptId": "cbb89c71-eb30-47b9-9ab9-b92738a84ac6",
+      "verification": "creating"
     }
   ]
 }
