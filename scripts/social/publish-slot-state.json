@@ -1348,6 +1348,24 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-21T03:01:00.887Z"
       }
+    ],
+    "2026-11-22": [
+      {
+        "date": "2026-11-22",
+        "id": "45019449284-1",
+        "sourceCommit": "a592e7d5c463208785f0966fbeab086c0f07feec",
+        "jobsCheckedAt": "2026-11-22T12:00:53.982Z",
+        "newsCompletedAt": "2026-11-22T12:40:13.091Z",
+        "articleSlugs": [
+          "secscam",
+          "vaneckgemini",
+          "moonpaycharter"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-22T12:41:03.429Z",
+        "buildId": "daily-20261122-45019449284-1",
+        "rolloutId": "daily-20261122-45019449284-1"
+      }
     ]
   }
 }
