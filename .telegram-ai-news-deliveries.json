@@ -799,5 +799,40 @@
     "slotKey": "2026-11-21:evening",
     "messageId": 193560,
     "sentAt": "2026-11-21T23:54:10.328Z"
+  },
+  "ef401d99-c36d-452b-989f-3c35648f75ae": {
+    "status": "reserved",
+    "reservedAt": "2026-11-22T11:55:36.570Z",
+    "stories": [
+      {
+        "index": 5,
+        "original_title": "[The Verge] The UN fails to agree on rules regulating ‘killer robots’",
+        "headline": "UN fails to establish rules for autonomous weapons",
+        "summary": "Global diplomats in Geneva ended a week of negotiations without agreeing on binding regulations for military artificial intelligence.",
+        "event_rationale": "Covers international diplomatic negotiations on military AI governance, distinct from commercial model releases and corporate regulatory actions.",
+        "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "source": "The Verge",
+        "originalTitle": "The UN fails to agree on rules regulating ‘killer robots’"
+      },
+      {
+        "index": 1,
+        "original_title": "[Wired] Banks Have Had It Up to Here With Your AI Agent",
+        "headline": "US financial institutions ban automated AI agents",
+        "summary": "Major banks are blocking automated bots from logging into accounts and assigning full liability for errors to customers.",
+        "event_rationale": "Covers banking policy decisions restricting AI agent account access, distinct from model launches, hardware announcements, or security tools.",
+        "link": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+        "source": "Wired",
+        "originalTitle": "Banks Have Had It Up to Here With Your AI Agent"
+      },
+      {
+        "index": 2,
+        "headline": "Personal AI Agents Evaluated Across Key Performance Metrics",
+        "summary": "Hermes Agent, OpenClaw, and Gemini Spark were ranked on memory capacity, security defaults, and actual costs.",
+        "link": "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+        "source": "MarkTechPost",
+        "originalTitle": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost"
+      }
+    ],
+    "slotKey": "2026-11-22:afternoon"
   }
 }
