@@ -167087,7 +167087,8 @@
         "description": "Join Hut 8 as Principal, Client Relations. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "4dfa63b7-a887-4e14-b760-33bf9fc58bbe",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2vkpsfii72z"
     }
   ]
 }
