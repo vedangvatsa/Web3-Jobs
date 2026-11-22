@@ -200609,17 +200609,17 @@
         "The Defiant"
       ],
       "id": "40a992878efd8a210bd6",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-22T21:01:42.000Z",
       "lastSeenAt": "2026-11-21T00:54:20.657Z",
       "articleSlug": "moonpaycharter",
       "draftProgress": {
         "id": "40a992878efd8a210bd6",
-        "day": "2026-11-21",
+        "day": "2026-11-22",
         "articleSlug": "moonpaycharter",
-        "note": "Read Cointelegraph and Decrypt in full; drafting now.",
+        "note": "No draft file on disk; re-read Cointelegraph and Decrypt in full today, rewriting from scratch.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
@@ -200630,12 +200630,12 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-21T01:15:34.010Z",
+        "updatedAt": "2026-11-22T12:06:50.864Z",
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: moonpaycharter.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Re-read Cointelegraph Nov 19 and Decrypt Nov 20 in full today; both URLs HTTP 200. Verified Nov 17 OCC application, Miami Beach non-depository structure, GENIUS Act timing, charter landscape and opposition. Draft rewritten at 678 words; quality, formatting, image and duplicate audits pass; outbound links 200.",
       "sourceChecks": [
         {
           "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
@@ -200646,12 +200646,11 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-21T02:40:59.844Z",
-      "lastReviewedDay": "2026-11-21",
+      "reviewedAt": "2026-11-22T12:09:17.055Z",
+      "lastReviewedDay": "2026-11-22",
       "retrySearches": [
         "Repair and revalidate the preserved moonpaycharter draft against its original sources: moonpaycharter.md: under 600 words"
       ],
-      "nextReviewDate": "2026-11-22",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -410295,6 +410294,23 @@
           ],
           "reviewedAt": "2026-11-22T12:06:48.466Z",
           "articleSlug": "vaneckgemini"
+        },
+        "40a992878efd8a210bd6": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Cointelegraph Nov 19 and Decrypt Nov 20 in full today; both URLs HTTP 200. Verified Nov 17 OCC application, Miami Beach non-depository structure, GENIUS Act timing, charter landscape and opposition. Draft rewritten at 678 words; quality, formatting, image and duplicate audits pass; outbound links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-22T12:09:17.055Z",
+          "articleSlug": "moonpaycharter"
         }
       },
       "baselineSlugs": [
