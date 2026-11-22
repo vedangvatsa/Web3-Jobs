@@ -169131,7 +169131,8 @@
       },
       "account": "channel:base",
       "attemptId": "1d073dd8-3ed2-4b01-9667-09a382571b83",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2c61bf189263640460d607e0e6503e5baacb7143"
     }
   ]
 }
