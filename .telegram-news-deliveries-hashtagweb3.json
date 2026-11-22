@@ -691,5 +691,36 @@
     "slotKey": "2026-11-21:evening",
     "messageId": 156424,
     "sentAt": "2026-11-21T23:53:55.850Z"
+  },
+  "87ae484d-1614-45cf-a2b8-96ad8cb09af2": {
+    "status": "reserved",
+    "reservedAt": "2026-11-22T11:55:49.716Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Fed Governor Says Traditional Payments Will Support Tokenized Markets",
+        "summary": "Christopher Waller expects central bank money to anchor financial systems despite the growth of tokenized assets.",
+        "link": "https://hashtagweb3.com/wallerrate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fed's Waller Backs Traditional Rails for Tokenized Markets in TCH Speech"
+      },
+      {
+        "index": -1,
+        "headline": "MARA raises $185 million to buy Ohio power plant",
+        "summary": "The 8.75% senior notes due 2032 partially finance a $1.5 billion gas plant purchase closing November 27.",
+        "link": "https://hashtagweb3.com/maradebt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "MARA prices $185 million secured notes to fund its Long Ridge power plant acquisition"
+      },
+      {
+        "index": -1,
+        "headline": "Hacker Sentenced to Six Years for $11.6M Crypto Theft",
+        "summary": "Tyler Buchanan used phishing and SIM-swapping schemes to steal millions from cryptocurrency victims.",
+        "link": "https://hashtagweb3.com/buchanansentence?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Scattered Spider Hacker Buchanan Sentenced to 6 Years Over $11.6M Crypto Theft"
+      }
+    ],
+    "slotKey": "2026-11-22:afternoon"
   }
 }
