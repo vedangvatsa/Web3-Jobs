@@ -170210,6 +170210,45 @@
       "attemptId": "66b75dca-eaa2-43f4-8574-a8b5cdafe916",
       "verification": "verified",
       "postId": "0x6db66ccad3c5b149b120ff6dfc699c8812b9996b"
+    },
+    {
+      "slug": "dc2",
+      "company": "Riot Platforms",
+      "title": "Director, Communications",
+      "platform": "linkedin",
+      "postedAt": "2026-11-22T18:42:18.631Z",
+      "expectedText": "Riot Platforms is hiring Director, Communications: https://hashtagweb3.com/dc2/li?og=7",
+      "snapshot": {
+        "id": "fa09e0ee-adee-44f8-b11f-12b7a2ff3e0c",
+        "title": "Director, Communications",
+        "company": "Riot Platforms",
+        "link": "https://ats.rippling.com/riot-platforms-careers/jobs/fa09e0ee-adee-44f8-b11f-12b7a2ff3e0c",
+        "date": "2026-11-09T10:17:50.935000-08:00",
+        "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+        "location": "Denver, CO - Hybrid",
+        "department": "Marketing & Program Management",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dc2"
+      },
+      "payload": {
+        "text": "Riot Platforms is hiring Director, Communications: https://hashtagweb3.com/dc2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dc2/li?og=7",
+          "title": "Director, Communications at Riot Platforms",
+          "description": "Join Riot Platforms as Director, Communications. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dc2.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "bc8c24d6-a5af-453e-883f-ae3c45df869e",
+      "verification": "creating"
     }
   ]
 }
