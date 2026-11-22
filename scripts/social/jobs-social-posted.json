@@ -168807,7 +168807,8 @@
       },
       "account": "profile",
       "attemptId": "a5fd8a94-6296-47be-8af7-d4dc50da4f1d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd57964f349fcdf8297fa7b09dd35cb4c848d8048"
     }
   ]
 }
