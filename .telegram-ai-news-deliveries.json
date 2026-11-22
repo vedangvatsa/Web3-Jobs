@@ -801,7 +801,7 @@
     "sentAt": "2026-11-21T23:54:10.328Z"
   },
   "ef401d99-c36d-452b-989f-3c35648f75ae": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-22T11:55:36.570Z",
     "stories": [
       {
@@ -833,6 +833,8 @@
         "originalTitle": "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost"
       }
     ],
-    "slotKey": "2026-11-22:afternoon"
+    "slotKey": "2026-11-22:afternoon",
+    "messageId": 193563,
+    "sentAt": "2026-11-22T11:55:38.986Z"
   }
 }

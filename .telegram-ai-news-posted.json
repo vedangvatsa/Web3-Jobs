@@ -62,6 +62,9 @@
   "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
   "https://www.marktechpost.com/2026/11/20/nvidia-nemotron-labs-sigma-continuous-diffusion-language-model/",
   "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+  "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+  "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+  "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -188,6 +191,12 @@
   "NVIDIA AI Releases Nemotron-Labs-Sigma, a Continuous Diffusion Language Model with 14 checkpoints at 3B/8B",
   "Signal restricts screenshots on Android and iOS apps",
   "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+  "UN fails to establish rules for autonomous weapons",
+  "The UN fails to agree on rules regulating ‘killer robots’",
+  "US financial institutions ban automated AI agents",
+  "Banks Have Had It Up to Here With Your AI Agent",
+  "Personal AI Agents Evaluated Across Key Performance Metrics",
+  "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -250,5 +259,8 @@
   "fp:add|backgammon|checker|chess|classic|com|gam|hub|include10|introduc",
   "fp:all|anthropic|claim|compet|draft|formal|generat|hour|human|hypothesis",
   "fp:autoregressiv|checkpoint|continuous|decod|diffusion|faster|four|lab|nemotron|nvidia",
-  "fp:android|app|captur|confront|existential|focus|limit|messag|mobil|monitor"
+  "fp:android|app|captur|confront|existential|focus|limit|messag|mobil|monitor",
+  "fp:agre|autonomous|bind|diplomat|end|establish|fail|geneva|global|killer",
+  "fp:account|are|assign|automat|ban|bank|block|bot|customer|error",
+  "fp:actual|best|capacity|compar|cost|default|evaluat|gemini|herm|in2026"
 ]
