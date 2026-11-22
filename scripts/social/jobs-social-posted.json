@@ -168524,6 +168524,46 @@
       "attemptId": "fc2c26e7-be83-4b6f-9c9e-efbe8e8c15b1",
       "verification": "verified",
       "postId": "0x71ba20567e0d7f49e7782569c43d2b2ba2b934c2"
+    },
+    {
+      "slug": "sls411",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "linkedin",
+      "postedAt": "2026-11-22T12:00:58.227Z",
+      "expectedText": "Fireblocks is hiring Sales Director: https://hashtagweb3.com/sls411/li?og=7",
+      "snapshot": {
+        "id": "4725948006",
+        "title": "Sales Director",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4725948006",
+        "date": "2026-11-04T07:21:39-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Seoul, South Korea",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls411"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director: https://hashtagweb3.com/sls411/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls411/li?og=7",
+          "title": "Sales Director at Fireblocks",
+          "description": "Join Fireblocks as Sales Director. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls411.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "ee240304-bc07-4a67-92d1-6f9052e452e4",
+      "verification": "creating"
     }
   ]
 }
