@@ -166926,6 +166926,46 @@
       "attemptId": "423462c2-3dc1-440f-8354-0efd2efc5563",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "pm356",
+      "company": "Kamino",
+      "title": "Head of Product Marketing",
+      "platform": "linkedin",
+      "postedAt": "2026-11-21T23:59:01.426Z",
+      "expectedText": "Kamino is hiring Head of Product Marketing: https://hashtagweb3.com/pm356/li?og=7",
+      "snapshot": {
+        "id": "46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "title": "Head of Product Marketing",
+        "company": "Kamino",
+        "link": "https://talent.superteam.fun/jobs/head-of-product-marketing-at-kamino-46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+        "date": "2026-10-23T17:10:17.567786+00:00",
+        "source": "Superteam: Kamino [superteam]",
+        "location": "Hybrid · New York, United States",
+        "department": "Full-Time",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm356"
+      },
+      "payload": {
+        "text": "Kamino is hiring Head of Product Marketing: https://hashtagweb3.com/pm356/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm356/li?og=7",
+          "title": "Head of Product Marketing at Kamino",
+          "description": "Join Kamino as Head of Product Marketing. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm356.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "dc4cad38-2c54-4d04-86e8-26285e5a6bb2",
+      "verification": "creating"
     }
   ]
 }
