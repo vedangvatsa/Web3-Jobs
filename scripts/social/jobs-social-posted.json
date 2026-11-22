@@ -169313,6 +169313,41 @@
       "attemptId": "c5b5f4b1-7e00-4621-8473-4d6dcd320f9e",
       "verification": "verified",
       "postId": "0x63bb77837929901738533333f4acd1ab81ff362f"
+    },
+    {
+      "slug": "an125",
+      "company": "CoinsPaid",
+      "title": "Data and Reporting Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-22T18:39:17.581Z",
+      "expectedText": "CoinsPaid is hiring Data and Reporting Analyst\n\nhttps://hashtagweb3.com/an125/fc?og=7",
+      "snapshot": {
+        "id": "41033c35-31db-4c77-a906-55a2c308d5d4",
+        "title": "Data and Reporting Analyst",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/41033c35-31db-4c77-a906-55a2c308d5d4",
+        "date": "2026-10-26T07:36:28.143Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Finance and Accounting",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "an125"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Data and Reporting Analyst\n\nhttps://hashtagweb3.com/an125/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an125/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "4097deff-4347-4c22-ab10-aa836072f48a",
+      "verification": "creating"
     }
   ]
 }
