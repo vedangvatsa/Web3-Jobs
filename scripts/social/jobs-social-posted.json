@@ -169936,7 +169936,8 @@
       },
       "account": "channel:founders",
       "attemptId": "948d55e7-5bfa-4b46-9af3-dba3b02f37ec",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x28cff4295bd6282c3739631579c583432f88851b"
     }
   ]
 }
