@@ -159593,5 +159593,231 @@
     "company": "Story Protocol",
     "title": "Head of Talent",
     "newSlug": "rec84"
+  },
+  "mkt133": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt175"
+  },
+  "cmp144": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp194"
+  },
+  "pm354": {
+    "id": "8327254",
+    "link": "https://stripe.com/jobs/search?gh_jid=8327254",
+    "company": "Stripe",
+    "title": "Product Manager, Terminal Payments"
+  },
+  "tir11": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "as2": {
+    "id": "8299649",
+    "link": "https://stripe.com/jobs/search?gh_jid=8299649",
+    "company": "Stripe",
+    "title": "Head of AI Startups, EMEA"
+  },
+  "aa": {
+    "id": "25578e8a-93e2-4209-bcf5-a714448470b5",
+    "link": "https://jobs.eu.lever.co/coinspaid/25578e8a-93e2-4209-bcf5-a714448470b5",
+    "company": "CoinsPaid",
+    "title": "Atlassian Administrator"
+  },
+  "an126": {
+    "id": "37c45e51-f51d-4c46-8a3c-8641f635ff09",
+    "link": "https://jobs.lever.co/unlimit/37c45e51-f51d-4c46-8a3c-8641f635ff09",
+    "company": "Unlimit",
+    "title": "Fraud & Dispute Analyst"
+  },
+  "eng759": {
+    "id": "5012481101",
+    "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5012481101",
+    "company": "Flowdesk",
+    "title": "Site Reliability Engineer"
+  },
+  "be96": {
+    "id": "605403",
+    "link": "https://careers.kast.xyz/en/postings/4d0a8d84-b9de-40df-a596-7c4d956dc6ce",
+    "company": "Kast",
+    "title": "Backend Engineering Lead (Go; Compliance)"
+  },
+  "ftsp": {
+    "id": "8042491003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8042491003",
+    "company": "OKX",
+    "title": "Senior Finance Transformation & Strategy PMO (BI / AI)"
+  },
+  "mgr200": {
+    "id": "8279867",
+    "link": "https://stripe.com/jobs/search?gh_jid=8279867",
+    "company": "Stripe",
+    "title": "Program Manager, Commercial Solutions (Product Integration)"
+  },
+  "dr5": {
+    "id": "8244768",
+    "link": "https://ripple.com/careers/all-jobs/job/8244768?gh_jid=8244768",
+    "company": "Ripple",
+    "title": "Senior Staff, Developer Relations"
+  },
+  "an104": {
+    "id": "8281622",
+    "link": "https://www.coinbase.com/careers/positions/8281622?gh_jid=8281622",
+    "company": "Coinbase",
+    "title": "Analyst, Privacy (Privacy Assessments)"
+  },
+  "cre": {
+    "id": "JR101181",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Creative-Lead_JR101181",
+    "company": "Circle",
+    "title": "Creative Lead"
+  },
+  "sts": {
+    "id": "JR101639",
+    "link": "https://brevanhoward.wd3.myworkdayjobs.com/BH_ExternalCareers/job/Bangalore/Specialist---Trade-Support_JR101639",
+    "company": "Brevan Howard",
+    "title": "Specialist - Trade Support"
+  },
+  "rec84": {
+    "id": "aa5c250b-a12c-43ad-89a2-38177a64bfba",
+    "link": "https://jobs.ashbyhq.com/story/aa5c250b-a12c-43ad-89a2-38177a64bfba",
+    "company": "Story Protocol",
+    "title": "Head of Talent"
+  },
+  "p2sm": {
+    "id": "8042143003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=8042143003",
+    "company": "a16z crypto",
+    "title": "Partner 20, Social Media Lead, Frontier"
+  },
+  "ret": {
+    "id": "d948c040-c557-4046-8c28-b96273e49a75",
+    "link": "https://jobs.ashbyhq.com/polymarket/d948c040-c557-4046-8c28-b96273e49a75",
+    "company": "Polymarket",
+    "title": "Head of Retention"
+  },
+  "it15": {
+    "id": "8fa88bc5-4cc6-402e-891a-5c9619edaebb",
+    "link": "https://jobs.ashbyhq.com/trm-labs/8fa88bc5-4cc6-402e-891a-5c9619edaebb",
+    "company": "TRM Labs",
+    "title": "Global Investigator - Triage (APAC)"
+  },
+  "sec127": {
+    "id": "816d2b88-6b9a-4d22-9206-e9481b338e48",
+    "link": "https://jobs.ashbyhq.com/hashgraph/816d2b88-6b9a-4d22-9206-e9481b338e48",
+    "company": "Hedera",
+    "title": "Head of Security"
+  },
+  "sls337": {
+    "id": "8284968",
+    "link": "https://stripe.com/jobs/search?gh_jid=8284968",
+    "company": "Stripe",
+    "title": "Enterprise Account Executive (Grower) - German Speaking"
+  },
+  "sls336": {
+    "id": "8892ea41-7a31-4372-aab4-67d52fb49bd0",
+    "link": "https://jobs.ashbyhq.com/Blockworks/8892ea41-7a31-4372-aab4-67d52fb49bd0",
+    "company": "Blockworks",
+    "title": "VP of Sales"
+  },
+  "sls335": {
+    "id": "5456921008",
+    "link": "http://block.xyz/careers/jobs/5456921008?gh_jid=5456921008",
+    "company": "Block",
+    "title": "Retention Account Manager, SMB"
+  },
+  "wo": {
+    "id": "5459471008",
+    "link": "http://block.xyz/careers/jobs/5459471008?gh_jid=5459471008",
+    "company": "Block",
+    "title": "Head of Workforce Optimization"
+  },
+  "sec126": {
+    "id": "5459546008",
+    "link": "https://job-boards.greenhouse.io/hut8/jobs/5459546008",
+    "company": "Hut 8",
+    "title": "Cybersecurity, Architect"
+  },
+  "mtnt": {
+    "id": "3dfc6f03-318d-490d-abbf-10e03f75899b",
+    "link": "https://jobs.ashbyhq.com/trust-wallet/3dfc6f03-318d-490d-abbf-10e03f75899b",
+    "company": "Trust Wallet",
+    "title": "Trust Wallet Graduate Leadership Programme"
+  },
+  "pds2": {
+    "id": "49338068-2f4d-4cbb-b55d-176b2ed2f89e",
+    "link": "https://jobs.lever.co/moonpay/49338068-2f4d-4cbb-b55d-176b2ed2f89e",
+    "company": "MoonPay",
+    "title": "Pricing Data Scientist"
+  },
+  "sls333": {
+    "id": "5436151008",
+    "link": "http://block.xyz/careers/jobs/5436151008?gh_jid=5436151008",
+    "company": "Block",
+    "title": "Territory Account Executive, Burlington County, NJ"
+  },
+  "sls332": {
+    "id": "8299651",
+    "link": "https://stripe.com/jobs/search?gh_jid=8299651",
+    "company": "Stripe",
+    "title": "Sales Manager, Europe, Enterprise Platforms"
+  },
+  "eng736": {
+    "id": "c99ebe3e-5590-4745-9b25-fe8507df9413",
+    "link": "https://jobs.eu.lever.co/coinspaid/c99ebe3e-5590-4745-9b25-fe8507df9413",
+    "company": "CoinsPaid",
+    "title": "Senior Golang Engineer"
+  },
+  "sls331": {
+    "id": "8284970",
+    "link": "https://stripe.com/jobs/search?gh_jid=8284970",
+    "company": "Stripe",
+    "title": "Account Executive - Enterprise (Hunter) - Belgium"
+  },
+  "cc9": {
+    "id": "b1bd1d2d-5492-4f39-9dd2-a45caa7c68e5",
+    "link": "https://jobs.ashbyhq.com/notabene/b1bd1d2d-5492-4f39-9dd2-a45caa7c68e5",
+    "company": "Notabene",
+    "title": "Commercial Counsel"
+  },
+  "gp2": {
+    "id": "a16515aa-ac62-4fc5-9fa2-8836c24ca4aa",
+    "link": "https://jobs.ashbyhq.com/notabene/a16515aa-ac62-4fc5-9fa2-8836c24ca4aa",
+    "company": "Notabene",
+    "title": "GTM Partnerships Lead"
+  },
+  "udaf2": {
+    "id": "2793342",
+    "link": "https://tether.recruitee.com/o/head-of-underwriting-digital-asset-financing-4",
+    "company": "Tether",
+    "title": "Head of Underwriting - Digital Asset Financing"
+  },
+  "wr8": {
+    "id": "8287916",
+    "link": "https://stripe.com/jobs/search?gh_jid=8287916",
+    "company": "Stripe",
+    "title": "Credit Risk Analyst Commercial Underwriter"
+  },
+  "aso101": {
+    "id": "14f7af97-540a-4457-9537-d001a645fd9b",
+    "link": "https://jobs.ashbyhq.com/story/14f7af97-540a-4457-9537-d001a645fd9b",
+    "company": "Story Protocol",
+    "title": "Creative Associate, Story + Wizard",
+    "newSlug": "aso103"
+  },
+  "pm433": {
+    "id": "a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "link": "https://jobs.ashbyhq.com/story/a9ef4783-0da5-45d2-b8e0-bfa10b051c2a",
+    "company": "Story Protocol",
+    "title": "Head of Production",
+    "newSlug": "pm435"
   }
 }
