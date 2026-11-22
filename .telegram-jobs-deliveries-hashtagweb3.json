@@ -2499,7 +2499,7 @@
     "sentAt": "2026-11-21T23:53:58.189Z"
   },
   "3896ce09-5840-4d87-be2a-0400e4eb0a95": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-22T11:55:05.561Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2618,6 +2618,8 @@
       }
     ],
     "message": "- Fun​.xyz is hiring <a href=\"https://hashtagweb3.com/eng775?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Protocol Engineer, San Francisco</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/eng672?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering VP / Director</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/eng831?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls296?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, Radar (Mandarin-speaking)</a>\n- Zero Hash is hiring <a href=\"https://hashtagweb3.com/cmp115?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director of Regulatory and Compliance (Latin America)</a>",
-    "slotKey": "2026-11-22:afternoon"
+    "slotKey": "2026-11-22:afternoon",
+    "messageId": 156433,
+    "sentAt": "2026-11-22T11:55:07.700Z"
   }
 }
