@@ -200249,17 +200249,17 @@
       ],
       "alsoCoveredBy": [],
       "id": "05711df7dfd5676fc154",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-20T01:22:56.282Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-22T22:29:45.000Z",
       "lastSeenAt": "2026-11-21T00:54:20.657Z",
       "articleSlug": "vaneckgemini",
       "draftProgress": {
         "id": "05711df7dfd5676fc154",
-        "day": "2026-11-21",
+        "day": "2026-11-22",
         "articleSlug": "vaneckgemini",
-        "note": "Read Crypto Briefing and Cointelegraph in full; drafting now.",
+        "note": "No draft file on disk; re-read Crypto Briefing and Cointelegraph in full today, rewriting from scratch.",
         "sourceChecks": [
           {
             "url": "https://cryptobriefing.com/solana-contract-vaneck-etf-gemini-termination-2026-11/",
@@ -200270,12 +200270,12 @@
             "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-21T01:15:29.660Z",
+        "updatedAt": "2026-11-22T12:01:29.156Z",
         "approved": false,
         "mustReview": true
       },
-      "reason": "quality-gate",
-      "note": "Actual article audits still failed after bounded repair attempts: vaneckgemini.md: under 600 words. Draft and original source checks are retained for repair; this article was not published.",
+      "reason": "verified-event",
+      "note": "Re-read Crypto Briefing Nov 19 and Cointelegraph Nov 20 in full today; both URLs HTTP 200. Verified Nov 16 notice, Feb 16 2027 effective date, HODL/ETHV/VSOL scope, staking agreement, Coinbase Custody retention, undisclosed reason. Draft rewritten from scratch at 619 words; quality, formatting, image and duplicate audits pass; outbound links 200.",
       "sourceChecks": [
         {
           "url": "https://cryptobriefing.com/solana-contract-vaneck-etf-gemini-termination-2026-11/",
@@ -200286,12 +200286,11 @@
           "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-21T02:40:59.845Z",
-      "lastReviewedDay": "2026-11-21",
+      "reviewedAt": "2026-11-22T12:06:48.466Z",
+      "lastReviewedDay": "2026-11-22",
       "retrySearches": [
         "Repair and revalidate the preserved vaneckgemini draft against its original sources: vaneckgemini.md: under 600 words"
       ],
-      "nextReviewDate": "2026-11-22",
       "qualityIsolation": {
         "previousReview": {
           "status": "ready",
@@ -410279,6 +410278,23 @@
           ],
           "reviewedAt": "2026-11-22T12:01:26.842Z",
           "articleSlug": "secscam"
+        },
+        "05711df7dfd5676fc154": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read Crypto Briefing Nov 19 and Cointelegraph Nov 20 in full today; both URLs HTTP 200. Verified Nov 16 notice, Feb 16 2027 effective date, HODL/ETHV/VSOL scope, staking agreement, Coinbase Custody retention, undisclosed reason. Draft rewritten from scratch at 619 words; quality, formatting, image and duplicate audits pass; outbound links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/solana-contract-vaneck-etf-gemini-termination-2026-11/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-22T12:06:48.466Z",
+          "articleSlug": "vaneckgemini"
         }
       },
       "baselineSlugs": [
