@@ -167366,7 +167366,8 @@
       },
       "account": "channel:build",
       "attemptId": "9eac9db5-cba4-4a5b-b993-86419dc69c46",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x49d6fff19ca3249cd10eddbfc8fdd1f8a2bfcc93"
     }
   ]
 }
