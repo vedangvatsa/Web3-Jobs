@@ -170106,7 +170106,8 @@
       },
       "account": "channel:ai",
       "attemptId": "bcb97acf-59b7-44d6-8175-41ebfaf8c7c9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x00744993cf9775da9ed87531a17dd2806927de94"
     }
   ]
 }
