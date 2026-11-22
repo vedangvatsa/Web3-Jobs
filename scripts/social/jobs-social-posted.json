@@ -169427,6 +169427,47 @@
       "attemptId": "97ec7ce9-ecb7-40e9-a526-f21e2df37943",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "an125",
+      "company": "CoinsPaid",
+      "title": "Data and Reporting Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-22T18:39:17.581Z",
+      "expectedText": "CoinsPaid is hiring Data and Reporting Analyst: https://hashtagweb3.com/an125/li?og=7",
+      "snapshot": {
+        "id": "41033c35-31db-4c77-a906-55a2c308d5d4",
+        "title": "Data and Reporting Analyst",
+        "company": "CoinsPaid",
+        "link": "https://jobs.eu.lever.co/coinspaid/41033c35-31db-4c77-a906-55a2c308d5d4",
+        "date": "2026-10-26T07:36:28.143Z",
+        "source": "Lever: CoinsPaid [coinspaid]",
+        "location": "Hybrid (Remote - European Region)",
+        "workplaceType": "hybrid",
+        "department": "Finance and Accounting",
+        "active": true,
+        "dateVerified": true,
+        "dateSource": "Lever.createdAt",
+        "slug": "an125"
+      },
+      "payload": {
+        "text": "CoinsPaid is hiring Data and Reporting Analyst: https://hashtagweb3.com/an125/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an125/li?og=7",
+          "title": "Data and Reporting Analyst at CoinsPaid",
+          "description": "Join CoinsPaid as Data and Reporting Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an125.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "10555f1e-1cfd-410a-8f2c-ed8d1af51a69",
+      "verification": "creating"
     }
   ]
 }
