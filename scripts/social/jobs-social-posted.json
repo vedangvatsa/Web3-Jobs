@@ -173973,7 +173973,8 @@
       },
       "account": "channel:web3",
       "attemptId": "0aae0feb-84e8-4191-b7ce-4fcddbd2310c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3ee1cb1aec16160cd54b869c297f1296a1c02a96"
     }
   ]
 }
