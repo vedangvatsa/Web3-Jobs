@@ -949,5 +949,42 @@
     "slotKey": "2026-11-23:afternoon",
     "messageId": 193569,
     "sentAt": "2026-11-23T13:39:06.846Z"
+  },
+  "7e066809-e8fe-48a1-9fde-48ec8dddeb0d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T22:53:13.826Z",
+    "stories": [
+      {
+        "index": 17,
+        "original_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "headline": "Amazon acquires AI startup Decart for $7.5 billion",
+        "summary": "The deal secures optimization technology and research talent to support Amazon’s proprietary Trainium artificial intelligence chips.",
+        "event_rationale": "This is a multi-billion dollar acquisition specifically targeting AI hardware optimization, distinct from general funding or model releases.",
+        "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "source": "TechCrunch",
+        "originalTitle": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips"
+      },
+      {
+        "index": 11,
+        "original_title": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+        "headline": "Anthropic pays SpaceXSI $3.1 billion monthly for compute",
+        "summary": "The massive rental agreement shows major AI labs are increasingly sharing infrastructure despite competing directly on model development.",
+        "event_rationale": "This covers a significant shift in industry infrastructure dynamics and financial scale between top-tier AI competitors.",
+        "link": "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+        "source": "The Decoder",
+        "originalTitle": "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy"
+      },
+      {
+        "index": 8,
+        "original_title": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+        "headline": "Z AI releases 750B parameter GLM-5.4 flagship model",
+        "summary": "The new Loop Transformer architecture uses 28 layers processed twice to improve reasoning capabilities in large-scale models.",
+        "event_rationale": "This is a major model release featuring a novel Loop Transformer architecture, distinct from standard transformer releases.",
+        "link": "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+        "source": "MarkTechPost",
+        "originalTitle": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice"
+      }
+    ],
+    "slotKey": "2026-11-23:evening"
   }
 }
