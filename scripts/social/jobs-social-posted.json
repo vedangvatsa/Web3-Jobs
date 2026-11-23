@@ -175572,7 +175572,8 @@
         "description": "Join Robinhood as Benefits Partner. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "8bdc4c6f-da4b-4ca8-8eab-a907a931ddbb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n2yte3xsml2h"
     }
   ]
 }
