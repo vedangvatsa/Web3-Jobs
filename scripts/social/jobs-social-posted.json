@@ -171109,6 +171109,47 @@
       "attemptId": "afa5c0ab-6ab5-447d-93a3-b1bf486bea24",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "ops188",
+      "company": "Crypto.com",
+      "title": "Exchange Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-11-23T00:25:41.457Z",
+      "expectedText": "Crypto​.com is hiring Exchange Operations Specialist: https://hashtagweb3.com/ops188/li?og=7",
+      "snapshot": {
+        "id": "04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "title": "Exchange Operations Specialist",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "date": "2026-11-17T05:58:11.961Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (New York)",
+        "workplaceType": "hybrid",
+        "department": "Predictions",
+        "salary": "USD 70,000 - USD 120,000 per year",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops188"
+      },
+      "payload": {
+        "text": "Crypto​.com is hiring Exchange Operations Specialist: https://hashtagweb3.com/ops188/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops188/li?og=7",
+          "title": "Exchange Operations Specialist at Crypto.com",
+          "description": "Join Crypto.com as Exchange Operations Specialist. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops188.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "697a9098-522e-4be6-ac48-46b207e5775b",
+      "verification": "creating"
     }
   ]
 }
