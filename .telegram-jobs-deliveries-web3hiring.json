@@ -5635,5 +5635,122 @@
     "slotKey": "2026-11-23:morning",
     "messageId": 16670,
     "sentAt": "2026-11-23T06:39:38.084Z"
+  },
+  "e075b058-6a64-48c0-9af3-9c5e0e8a2b71": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T06:39:40.229Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "9d67eba9-e460-4409-9e1c-353f55d983c9",
+          "title": "Lead, Agentic Commerce (Product & GTM)",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/9d67eba9-e460-4409-9e1c-353f55d983c9",
+          "date": "2026-11-15T00:42:49.703+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Hybrid (Berkeley, CA)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm405"
+        },
+        "key": "9d67eba9-e460-4409-9e1c-353f55d983c9",
+        "slug": "pm405",
+        "url": "https://hashtagweb3.com/pm405?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Lead, Agentic Commerce"
+      },
+      {
+        "snapshot": {
+          "id": "5014940101",
+          "title": "Senior Resilience Specialist",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5014940101",
+          "date": "2026-11-05T06:05:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Engineering & Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rs21"
+        },
+        "key": "5014940101",
+        "slug": "rs21",
+        "url": "https://hashtagweb3.com/rs21?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Senior Resilience Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8071912003",
+          "title": "Principal/Senior Product Manager, Advanced Trading (Spot/Derivatives/Crypto Trading)",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8071912003",
+          "date": "2026-10-29T06:55:13-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm341"
+        },
+        "key": "8071912003",
+        "slug": "pm341",
+        "url": "https://hashtagweb3.com/pm341?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Principal/Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "330bae2f-2f9c-4beb-8cf6-322baa997e55",
+          "title": "Developer Relations Engineer",
+          "company": "Prime Intellect",
+          "link": "https://jobs.ashbyhq.com/PrimeIntellect/330bae2f-2f9c-4beb-8cf6-322baa997e55",
+          "date": "2026-11-12T14:51:44.945+00:00",
+          "source": "Ashby: Prime Intellect [primeintellect]",
+          "location": "San Francisco",
+          "isRemote": null,
+          "workplaceType": null,
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "dr6"
+        },
+        "key": "330bae2f-2f9c-4beb-8cf6-322baa997e55",
+        "slug": "dr6",
+        "url": "https://hashtagweb3.com/dr6?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Prime Intellect",
+        "title": "Developer Relations Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8374566",
+          "title": "Senior Software Engineer: Assets",
+          "company": "Consensys",
+          "link": "https://job-boards.greenhouse.io/consensys/jobs/8374566",
+          "date": "2026-11-12T10:26:36-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Consensys [consensys]",
+          "location": "United States - Remote",
+          "department": "MetaMask",
+          "active": true,
+          "salary": "$139k – $210k/yr",
+          "dateVerified": true,
+          "slug": "eng772"
+        },
+        "key": "8374566",
+        "slug": "eng772",
+        "url": "https://hashtagweb3.com/eng772?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Consensys",
+        "title": "Senior Software Engineer: Assets"
+      }
+    ],
+    "message": "- Sardine is hiring <a href=\"https://hashtagweb3.com/pm405?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead, Agentic Commerce (Product &amp; GTM)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/rs21?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Resilience Specialist</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm341?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal/Senior Product Manager, Advanced Trading (Spot/Derivatives/Crypto Trading)</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/dr6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Developer Relations Engineer</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/eng772?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer: Assets</a>",
+    "slotKey": "2026-11-23:morning"
   }
 }
