@@ -1119,5 +1119,53 @@
     "slotKey": "2026-11-23:afternoon",
     "messageId": 156470,
     "sentAt": "2026-11-23T13:34:56.202Z"
+  },
+  "0eadf515-9e99-4b3a-b15c-5d1c1282e916": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T22:51:48.164Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-lvHz1Hk41yT1Y5p",
+        "slug": "crypto-pol",
+        "name": "Crypto Policy & Digital Assets: What's Next for 2027",
+        "startDate": "2026-11-23T23:00:00.000Z",
+        "keys": [
+          "luma-crypto-lvhz1hk41yt1y5p",
+          "page:crypto-pol:2026-11-23",
+          "luma:evt-lvhz1hk41yt1y5p",
+          "luma-url:/ldygocoq",
+          "event:cryptopolicydigitalassetswhatsnextfor2027:2026-11-23:arlington"
+        ]
+      },
+      {
+        "id": "luma-crypto-xCccOa2soSw9tOX",
+        "slug": "giwa-gasok",
+        "name": "GIWA GASOK NIGHT by [ LOCALHOST : WEB3 ]",
+        "startDate": "2026-11-24T09:00:00.000Z",
+        "keys": [
+          "luma-crypto-xcccoa2sosw9tox",
+          "page:giwa-gasok:2026-11-24",
+          "luma:evt-xcccoa2sosw9tox",
+          "luma-url:/4k9ifwt7",
+          "event:giwagasoknightbylocalhostweb3:2026-11-24:"
+        ]
+      },
+      {
+        "id": "luma-crypto-J1RxlWqvklDjuuT",
+        "slug": "meet-czech",
+        "name": "Meet the Czech Solana Builders | 3 Teams, 3 Ideas",
+        "startDate": "2026-11-25T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-j1rxlwqvkldjuut",
+          "page:meet-czech:2026-11-25",
+          "luma:evt-j1rxlwqvkldjuut",
+          "luma-url:/hi6hbcb8",
+          "event:meettheczechsolanabuilders3teams3ideas:2026-11-25:prague"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-23:evening"
   }
 }
