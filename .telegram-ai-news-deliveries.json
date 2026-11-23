@@ -951,7 +951,7 @@
     "sentAt": "2026-11-23T13:39:06.846Z"
   },
   "7e066809-e8fe-48a1-9fde-48ec8dddeb0d": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T22:53:13.826Z",
     "stories": [
       {
@@ -985,6 +985,8 @@
         "originalTitle": "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice"
       }
     ],
-    "slotKey": "2026-11-23:evening"
+    "slotKey": "2026-11-23:evening",
+    "messageId": 193572,
+    "sentAt": "2026-11-23T22:53:16.814Z"
   }
 }

@@ -74,6 +74,9 @@
   "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
   "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
   "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+  "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
+  "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -224,6 +227,12 @@
   "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
   "Walmart integrates Meta Muse AI for autonomous shopping",
   "Meta Muse can do your Black Friday shopping at Walmart",
+  "Amazon acquires AI startup Decart for $7.5 billion",
+  "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+  "Anthropic pays SpaceXSI $3.1 billion monthly for compute",
+  "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
+  "Z AI releases 750B parameter GLM-5.4 flagship model",
+  "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -298,5 +307,8 @@
   "fp:are|chas|disruption|expert|faa|failur|further|haven|jpmorgan|larg",
   "fp:achieve459|architect|cor|cpu|design|frostbit|generat|interaction|lab|net",
   "fp:allow|amd|architectur|blackwell|chip|control|gpu|group|hardwar|hopper",
-  "fp:autonomous|black|can|capabl|chain|deploy|friday|holiday|integrat|meta"
+  "fp:autonomous|black|can|capabl|chain|deploy|friday|holiday|integrat|meta",
+  "fp:75b|acquir|amazon|chip|decart|optimization|prepar|proprietary|research|snap",
+  "fp:31b|agreement|anthropic|appetit|are|compet|comput|despit|directly|increasingly",
+  "fp:750b|architectur|capability|flagship|glm54|improv|larg|layer|loop|parameter"
 ]
