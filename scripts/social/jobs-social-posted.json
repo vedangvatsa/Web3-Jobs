@@ -170777,7 +170777,8 @@
       },
       "account": "channel:founders",
       "attemptId": "fca65f8a-6cf0-463e-baef-9ac6aec42e66",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7b6cdfa90357c8081953ad319ad5885c5c2b9ae3"
     }
   ]
 }
