@@ -176343,6 +176343,36 @@
       "attemptId": "5851411d-0961-43bc-8b6d-3b13ba27f0fa",
       "verification": "verified",
       "postId": "691827047618629_1155097313764169"
+    },
+    {
+      "slug": "int52",
+      "company": "Galaxy Digital",
+      "title": "2027 Risk Intern - NYC",
+      "platform": "x",
+      "postedAt": "2026-11-23T19:12:26.415Z",
+      "expectedText": "Galaxy Digital is hiring 2027 Risk Intern - NYC\n\nhttps://hashtagweb3.com/int52/x?og=7",
+      "snapshot": {
+        "id": "6250062004",
+        "title": "2027 Risk Intern - NYC",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004",
+        "date": "2026-11-06T09:16:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Early Careers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "int52"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring 2027 Risk Intern - NYC\n\nhttps://hashtagweb3.com/int52/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "adcce381-8604-45d7-a20d-3a3a7709f240",
+      "verification": "creating"
     }
   ]
 }
