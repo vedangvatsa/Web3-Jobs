@@ -193,6 +193,14 @@ export interface GrantDescriptionSource {
   pageTitle?: string;
 }
 
+export interface GrantUrlLive {
+  checkedAt: string;
+  ok: boolean;
+  status?: number;
+  finalUrl?: string;
+  error?: string;
+}
+
 export interface GrantProgram {
   id: string;
   name: string;
@@ -210,5 +218,7 @@ export interface GrantProgram {
   /** Source-backed body sections from the official program page (no generated filler). */
   sections?: GrantSourceSection[];
   descriptionSource?: GrantDescriptionSource;
+  /** Last HTTP reachability check for the program URL (live catalog gate). */
+  urlLive?: GrantUrlLive;
 }
 

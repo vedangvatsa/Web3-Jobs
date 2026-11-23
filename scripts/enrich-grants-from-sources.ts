@@ -8,6 +8,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
 import type { GrantProgram } from '../src/types';
+import { countStoredGrantWords, GRANT_DETAIL_MIN_WORDS } from '../src/lib/grant-editorial';
 import {
   extractGrantPageContent,
   extractGrantPageMarkdown,
@@ -26,6 +27,11 @@ const args = process.argv.slice(2);
 const apply = args.includes('--apply');
 const refresh = args.includes('--refresh');
 const retryOnly = args.includes('--retry-failed');
+const thinOnly = args.includes('--thin-only');
+const minWordsArg = args.find((a) => a.startsWith('--min-words='));
+const thinMinWords = minWordsArg
+  ? Math.max(20, Number(minWordsArg.split('=')[1]) || GRANT_DETAIL_MIN_WORDS)
+  : GRANT_DETAIL_MIN_WORDS;
 const limitArg = args.find((a) => a.startsWith('--limit='));
 const limit = limitArg ? Number(limitArg.split('=')[1]) : undefined;
 const idArg = args.find((a) => a.startsWith('--id='));
@@ -89,6 +95,7 @@ type GrantRecord = GrantProgram & {
     method: string;
     pageTitle?: string;
   };
+  urlLive?: { ok?: boolean };
 };
 
 async function enrichOne(grant: GrantRecord): Promise<{ id: string; ok: boolean; reason?: string; words?: number }> {
@@ -114,34 +121,10 @@ async function enrichOne(grant: GrantRecord): Promise<{ id: string; ok: boolean;
 
   const { result, reason } = extracted;
   if (!result) {
-    const summaryWords = wordCount(grant.description || '');
-    if (summaryWords >= 20) {
-      const fetchedAt = new Date().toISOString();
-      grant.sections = [{ heading: 'Program overview', paragraphs: [grant.description.trim()] }];
-      grant.descriptionSource = {
-        url: grant.url,
-        fetchedAt,
-        wordCount: summaryWords,
-        method: 'listing-summary-unverified-fetch',
-      };
-      return { id: grant.id, ok: true, words: summaryWords, reason: reason || 'fetch-failed' };
-    }
     return { id: grant.id, ok: false, reason: reason || 'extract-failed' };
   }
 
-  const summaryWords = wordCount(grant.description || '');
   const fetchedAt = new Date().toISOString();
-
-  if (result.wordCount < 20 && summaryWords >= 20) {
-    grant.sections = [{ heading: 'Program overview', paragraphs: [grant.description.trim()] }];
-    grant.descriptionSource = {
-      url: grant.url,
-      fetchedAt,
-      wordCount: summaryWords,
-      method: 'listing-summary-unverified-fetch',
-    };
-    return { id: grant.id, ok: true, words: summaryWords };
-  }
 
   grant.sections = result.sections;
   grant.descriptionSource = {
@@ -161,7 +144,13 @@ async function enrichOne(grant: GrantRecord): Promise<{ id: string; ok: boolean;
     }
   }
 
-  return { id: grant.id, ok: true, words: result.wordCount };
+  const storedWords = countStoredGrantWords(grant);
+  grant.descriptionSource.wordCount = storedWords;
+  if (storedWords < GRANT_DETAIL_MIN_WORDS) {
+    return { id: grant.id, ok: false, reason: 'insufficient-published-words', words: storedWords };
+  }
+
+  return { id: grant.id, ok: true, words: storedWords };
 }
 
 function wordCount(text: string): number {
@@ -184,7 +173,22 @@ async function pool<T, R>(items: T[], worker: (item: T) => Promise<R>, size: num
 async function main() {
   const grants: GrantRecord[] = JSON.parse(fs.readFileSync(GRANTS_PATH, 'utf-8'));
   const needsRetry = (g: GrantRecord) =>
-  !g.descriptionSource || (g.descriptionSource.wordCount ?? 0) < 20;
+    !g.descriptionSource || (g.descriptionSource.wordCount ?? 0) < 20;
+  const sectionWords = (g: GrantRecord) =>
+    (g.sections || [])
+      .flatMap((s) => [...(s.paragraphs || []), ...(s.bullets || [])])
+      .join(' ')
+      .split(/\s+/)
+      .filter(Boolean).length;
+  const isThinGrant = (g: GrantRecord) => {
+    const srcWords = g.descriptionSource?.wordCount ?? 0;
+  const bodyWords = sectionWords(g);
+    return (
+      g.descriptionSource?.method === 'listing-summary-unverified-fetch' ||
+      srcWords < thinMinWords ||
+      bodyWords < thinMinWords
+    );
+  };
   let slice = typeof limit === 'number' ? grants.slice(0, limit) : grants;
   if (onlyId) {
     slice = grants.filter((g) => g.id === onlyId);
@@ -192,6 +196,9 @@ async function main() {
   } else if (retryOnly) {
     slice = grants.filter(needsRetry);
     console.log(`Retrying ${slice.length} grants missing adequate source copy`);
+  } else if (thinOnly) {
+    slice = grants.filter(isThinGrant);
+    console.log(`Re-fetching ${slice.length} grants under ${thinMinWords} source words`);
   }
 
   console.log(`Enriching ${slice.length} grants (concurrency ${concurrency}, apply=${apply})...`);

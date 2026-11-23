@@ -27,24 +27,60 @@ function renderBlocks(blocks: EventDescriptionBlock[]): ReactNode {
   });
 }
 
+type UnavailableCopy = {
+  heading: string;
+  message: string;
+  linkLabel?: string;
+};
+
 type EventGuideContentProps = {
   editorial: EventEditorialArticle;
   speakerSummary?: string;
   officialUrl?: string;
+  /** Override default event copy when descriptionStatus is unavailable (e.g. grants). */
+  unavailableCopy?: UnavailableCopy;
+  /** Optional data-* marker for non-event detail pages reusing this layout. */
+  contentMarker?: 'event' | 'grant';
 };
 
-export function EventGuideContent({ editorial, speakerSummary, officialUrl }: EventGuideContentProps) {
+export function EventGuideContent({
+  editorial,
+  speakerSummary,
+  officialUrl,
+  unavailableCopy,
+  contentMarker = 'event',
+}: EventGuideContentProps) {
+  const descriptionDataAttr =
+    contentMarker === 'grant' ? { 'data-grant-description': true } : { 'data-event-description': true };
+
   return (
-    <section data-event-description data-content-status={editorial.descriptionStatus} className="mt-8 min-w-0 w-full space-y-10 break-words font-sans text-base text-muted-foreground [overflow-wrap:anywhere]">
+    <section
+      {...descriptionDataAttr}
+      data-content-status={editorial.descriptionStatus}
+      className="mt-8 min-w-0 w-full space-y-10 break-words font-sans text-base text-muted-foreground [overflow-wrap:anywhere]"
+    >
       {editorial.summaryLead.trim() ? (
         <p className="text-base leading-relaxed whitespace-pre-line">{renderTextWithLinks(editorial.summaryLead)}</p>
       ) : null}
 
       {editorial.descriptionStatus === 'unavailable' && (
         <section className="space-y-3">
-          <h2 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl">Event description</h2>
-          <p>An organizer description has not been verified for this event.</p>
-          {officialUrl && <p><a href={officialUrl} target="_blank" rel="noopener noreferrer" className="text-foreground underline underline-offset-4">View the organizer&apos;s event page</a></p>}
+          <h2 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl">
+            {unavailableCopy?.heading ?? 'Event description'}
+          </h2>
+          <p>{unavailableCopy?.message ?? 'An organizer description has not been verified for this event.'}</p>
+          {officialUrl && (
+            <p>
+              <a
+                href={officialUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-foreground underline underline-offset-4"
+              >
+                {unavailableCopy?.linkLabel ?? "View the organizer's event page"}
+              </a>
+            </p>
+          )}
         </section>
       )}
 

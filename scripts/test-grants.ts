@@ -1,5 +1,7 @@
 import fs from 'fs';
 import path from 'path';
+import type { GrantProgram } from '../src/types';
+import { countStoredGrantWords } from '../src/lib/grant-editorial';
 
 const GRANTS_PATH = path.join(process.cwd(), 'content', 'grants', 'grants.json');
 const GRANTS_META_PATH = path.join(process.cwd(), 'content', 'grants-meta.json');
@@ -41,7 +43,14 @@ function runTests() {
   }
 
   const seenIds = new Set<string>();
-  const bannedUrls = ['app.optimism.io/retropgf', 'sui.io/grants', 'grants.gitcoin.co', 'chain.link/community/grants'];
+  const bannedUrls = [
+    'app.optimism.io/retropgf',
+    'sui.io/grants',
+    'grants.gitcoin.co',
+    'chain.link/community/grants',
+    'coliseum.org',
+  ];
+  const bannedSourceMethods = ['listing-summary-unverified-fetch', 'listing-description-live-url'];
 
   for (let i = 0; i < grants.length; i++) {
     const g = grants[i];
@@ -80,21 +89,34 @@ function runTests() {
         throw new Error(`Grant ${g.id} contains banned/stale URL: ${g.url}`);
       }
     }
-  }
 
-  const MIN_SOURCE_WORDS = 20;
-  const missingSource: string[] = [];
-  for (const g of grants) {
-    const src = (g as { descriptionSource?: { wordCount?: number } }).descriptionSource;
-    if (!src || typeof src.wordCount !== 'number' || src.wordCount < MIN_SOURCE_WORDS) {
-      missingSource.push(g.id);
+    const method = (g as { descriptionSource?: { method?: string } }).descriptionSource?.method;
+    if (method && bannedSourceMethods.includes(method)) {
+      throw new Error(
+        `Grant ${g.id} uses unverified listing copy (${method}). Remove it or fix the official URL, then re-run enrich after liveness passes.`,
+      );
+    }
+
+    const urlLive = (g as { urlLive?: { ok?: boolean } }).urlLive;
+    if (!urlLive?.ok) {
+      throw new Error(
+        `Grant ${g.id} is not URL-live. Run: npx tsx scripts/verify-grant-liveness.ts --apply (and remove dead programs from the catalog).`,
+      );
     }
   }
 
-  if (missingSource.length > 0) {
+  const MIN_SOURCE_WORDS = 120;
+  const thinPages: string[] = [];
+  for (const g of grants) {
+    if (countStoredGrantWords(g as GrantProgram) < MIN_SOURCE_WORDS) {
+      thinPages.push((g as GrantProgram).id);
+    }
+  }
+  if (thinPages.length > 0) {
     throw new Error(
-      `${missingSource.length} grants lack source-backed body content (need descriptionSource.wordCount >= ${MIN_SOURCE_WORDS}). ` +
-        `Run: npx tsx scripts/enrich-grants-from-sources.ts --apply. First ids: ${missingSource.slice(0, 8).join(', ')}`,
+      `${thinPages.length} grant pages are thin (< ${MIN_SOURCE_WORDS} stored words). ` +
+        `Run: npx tsx scripts/enrich-grants-from-sources.ts --apply --thin-only --min-words=120 --refresh; then npx tsx scripts/prune-thin-grants.ts --apply. ` +
+        `First ids: ${thinPages.slice(0, 10).join(', ')}`,
     );
   }
 

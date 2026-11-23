@@ -93,7 +93,7 @@ export default function GrantsPage() {
         <main className="flex-1" data-grants-page>
           <PageShell>
             <PageHeader title="Grants & Credits" />
-            <LogoStrip title="Grants & credits from organizations like:" logos={grantLogos} />
+            <LogoStrip title="Grants & perks from organizations like:" logos={grantLogos} />
             <CommunityFeedBanner variant="community" />
             <GrantsBoard initialGrants={grants} />
           </PageShell>
