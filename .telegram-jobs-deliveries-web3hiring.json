@@ -5754,5 +5754,123 @@
     "slotKey": "2026-11-23:morning",
     "messageId": 214,
     "sentAt": "2026-11-23T06:39:42.703Z"
+  },
+  "91257d16-367e-4dca-aa47-dc7607ba276e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T13:35:22.827Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "802f1884-f16c-4b04-b387-af3462788e37",
+          "title": "Customer Experience Specialist",
+          "company": "Polymarket",
+          "link": "https://jobs.ashbyhq.com/polymarket/802f1884-f16c-4b04-b387-af3462788e37",
+          "date": "2026-11-06T19:48:41.566+00:00",
+          "source": "Ashby: Polymarket [Polymarket]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "CX",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ces"
+        },
+        "key": "802f1884-f16c-4b04-b387-af3462788e37",
+        "slug": "ces",
+        "url": "https://hashtagweb3.com/ces?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polymarket",
+        "title": "Customer Experience Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "6266798004",
+          "title": "2027 Ventures Intern - NYC",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6266798004",
+          "date": "2026-11-19T16:22:20-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "New York",
+          "department": "Early Careers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "int47"
+        },
+        "key": "6266798004",
+        "slug": "int47",
+        "url": "https://hashtagweb3.com/int47?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "2027 Ventures Intern"
+      },
+      {
+        "snapshot": {
+          "id": "4f9a0c1c-e29f-4fe1-8117-191ce1bd04d4",
+          "title": "Associate General Counsel, Regulatory, Product & Litigation",
+          "company": "Paxos",
+          "link": "https://jobs.ashbyhq.com/paxos/4f9a0c1c-e29f-4fe1-8117-191ce1bd04d4",
+          "date": "2026-11-18T22:33:50.471+00:00",
+          "source": "Ashby: Paxos [Paxos]",
+          "location": "Remote - United States",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm426"
+        },
+        "key": "4f9a0c1c-e29f-4fe1-8117-191ce1bd04d4",
+        "slug": "pm426",
+        "url": "https://hashtagweb3.com/pm426?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Paxos",
+        "title": "Associate General Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "f0b10b18-91a7-4348-bbb9-0c2ef697611f",
+          "title": "Partnerships Manager",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/f0b10b18-91a7-4348-bbb9-0c2ef697611f",
+          "date": "2026-10-30T19:48:09.267+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Hybrid (Berkeley, CA)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Partnerships",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr217"
+        },
+        "key": "f0b10b18-91a7-4348-bbb9-0c2ef697611f",
+        "slug": "mgr217",
+        "url": "https://hashtagweb3.com/mgr217?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Partnerships Manager"
+      },
+      {
+        "snapshot": {
+          "id": "cfc31baf-4d1a-40d6-892e-a2e8b6f6d723",
+          "title": "IT Operations Associate",
+          "company": "Tempo",
+          "link": "https://jobs.ashbyhq.com/tempo-xyz/cfc31baf-4d1a-40d6-892e-a2e8b6f6d723",
+          "date": "2026-11-18T15:35:14.644+00:00",
+          "source": "Ashby: Tempo [tempo-xyz]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops112"
+        },
+        "key": "cfc31baf-4d1a-40d6-892e-a2e8b6f6d723",
+        "slug": "ops112",
+        "url": "https://hashtagweb3.com/ops112?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tempo",
+        "title": "IT Operations Associate"
+      }
+    ],
+    "message": "- Polymarket is hiring <a href=\"https://hashtagweb3.com/ces?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Experience Specialist</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Ventures Intern - NYC</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/pm426?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate General Counsel, Regulatory, Product &amp; Litigation</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/mgr217?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partnerships Manager</a>\n- Tempo is hiring <a href=\"https://hashtagweb3.com/ops112?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Operations Associate</a>",
+    "slotKey": "2026-11-23:afternoon"
   }
 }
