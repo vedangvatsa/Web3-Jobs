@@ -2912,7 +2912,7 @@
     "country": "Turkey",
     "location": "Istanbul, Turkey",
     "url": "https://istanbulblockchainweek.com/",
-    "coverImage": "/events/ma-istanbul-blockchain-week-2027-15e6b540.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "June 2027"
   },
@@ -3330,7 +3330,7 @@
     "country": "UAE",
     "location": "Dubai, UAE",
     "url": "https://blockchain-life.com/",
-    "coverImage": "/events/ma-blockchain-life-c96ab12f.webp",
+    "coverImage": "/events/ma-blockchain-life-2027-e20cf0e9.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -3556,10 +3556,7 @@
           "representation": "html"
         }
       ]
-    },
-    "speakers": [
-      "Daniel Szego"
-    ]
+    }
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -3976,10 +3973,7 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "luma-host-evt-evt-jAsxvsyCZCb8JkA",
@@ -4035,10 +4029,7 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316802693/",
     "coverImage": "/events/mu-316802693-f266f227.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316859694",
@@ -4066,10 +4057,7 @@
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
     "coverImage": "/events/mu-316802775-00c0322a.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "w3v-run-rave-26-11-01",
@@ -4981,10 +4969,7 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "w3v-btc-balkans-2026",
@@ -5068,10 +5053,7 @@
     "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316966313",
@@ -5126,10 +5108,7 @@
     "url": "https://www.meetup.com/lfdt-montreal/events/316802708/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316423209",
@@ -5395,20 +5374,6 @@
       "addressCountry": "IN",
       "location": "BitGo, Incubex KRM5, Koramangala, Bengaluru, India"
     }
-  },
-  {
-    "id": "luma-evt-doRHBiUMtgx5vhA",
-    "name": "Book Launch on Icons of Indian Music",
-    "description": "",
-    "startDate": "2026-10-24T11:30:00.000Z",
-    "endDate": "2026-10-24T13:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://lu.ma/afcvzb9a",
-    "coverImage": "/events/luma-evt-dorhbiumtgx5vha-a81d3cdf.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-P64ZxhemxWZoZEE",
@@ -7601,10 +7566,7 @@
     "url": "https://www.meetup.com/lfdt-chicago/events/316802758/",
     "coverImage": "/events/mu-316802758-07e90219.webp",
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316231918",
@@ -7674,10 +7636,7 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Frank Migacz"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316901080",
@@ -9770,10 +9729,7 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -10191,10 +10147,7 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/317065033/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "eb-2003199972041",
@@ -10909,10 +10862,7 @@
     "url": "https://www.meetup.com/lfdt-denver/events/317065061/",
     "coverImage": "/events/mu-317065061-bac75bc3.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-8K68kl1G0Y64sG2",
@@ -11279,10 +11229,7 @@
     "url": "https://www.meetup.com/lfdt-atlanta/events/317064964/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-315045051",
@@ -12070,10 +12017,7 @@
     "url": "https://www.meetup.com/lfdt-mexico-city/events/317064943/",
     "coverImage": "/events/mu-317064943-4e7d5f54.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-o2YD9nDcSQkPrii",
@@ -17846,7 +17790,7 @@
     "country": "USA",
     "location": "Signia by Hilton Bonnet Creek, Orlando, USA",
     "url": "https://www.strategy.com/world27",
-    "coverImage": "/events/ma-bitcoin-for-corporations-2027-ede14755.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "March 2027"
   },
@@ -17888,7 +17832,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -17916,7 +17860,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -20825,7 +20769,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/devopsdsm/events/317271205/",
-    "coverImage": "/events/mu-317271205-cfa9a770.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -21049,10 +20993,7 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317272174/",
     "coverImage": "/events/mu-317272174-638b4a68.webp",
     "source": "meetup",
-    "month": "December 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "December 2026"
   },
   {
     "id": "luma-evt-Yb4F1Nl4DJrQJlC",
@@ -22286,10 +22227,7 @@
     "url": "https://www.meetup.com/lfdt-oregon/events/317272143/",
     "coverImage": "/events/mu-317272143-cc005d6b.webp",
     "source": "meetup",
-    "month": "December 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "December 2026"
   },
   {
     "id": "eb-2004684652761",
@@ -23660,10 +23598,7 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/317272138/",
     "coverImage": "/events/mu-317272138-e719b49e.webp",
     "source": "meetup",
-    "month": "December 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "December 2026"
   },
   {
     "id": "eb-2004670033033",
@@ -24019,10 +23954,7 @@
     "url": "https://www.meetup.com/lfdt-delhi-ncr/events/317272111/",
     "coverImage": "/events/mu-317272111-6735a012.webp",
     "source": "meetup",
-    "month": "December 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "December 2026"
   },
   {
     "id": "mu-317272041",
@@ -24036,10 +23968,7 @@
     "url": "https://www.meetup.com/lfdt-madhya-pradesh/events/317272041/",
     "coverImage": "/events/mu-317272041-30e19737.webp",
     "source": "meetup",
-    "month": "December 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "December 2026"
   },
   {
     "id": "dev-events-blockdown-festival-dubai-2027",
