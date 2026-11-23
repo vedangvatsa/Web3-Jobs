@@ -172530,7 +172530,8 @@
       },
       "account": "channel:base",
       "attemptId": "5e0d9179-edb0-4cdc-9c73-8fb2fa5583d6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcdb61730b00ec691641483239dfc500721dda4b3"
     }
   ]
 }
