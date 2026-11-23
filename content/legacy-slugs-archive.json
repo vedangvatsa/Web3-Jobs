@@ -160002,5 +160002,147 @@
     "link": "https://talent.superteam.fun/jobs/account-executive-at-altitude-7859ff0e-8476-4990-ba8b-9d1c0244f10c",
     "title": "Account Executive",
     "company": "Altitude"
+  },
+  "mkt137": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt182"
+  },
+  "cmp146": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp196"
+  },
+  "soc2": {
+    "id": "be3905f0-ad3f-457a-8c9b-b7f4beebc18e",
+    "link": "https://talent.superteam.fun/jobs/socials-at-bullet-be3905f0-ad3f-457a-8c9b-b7f4beebc18e",
+    "company": "Bullet",
+    "title": "Socials"
+  },
+  "pm437": {
+    "id": "jpm-oracle-210806986",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806986",
+    "company": "JPMorgan Chase",
+    "title": "Global Custody - Product Manager – Vice President"
+  },
+  "rec64": {
+    "id": "c7dd93ec-8adf-4fca-b8e6-79999110f3a1",
+    "link": "https://jobs.lever.co/unlimit/c7dd93ec-8adf-4fca-b8e6-79999110f3a1",
+    "company": "Unlimit",
+    "title": "Talent Development Specialist"
+  },
+  "sls459": {
+    "id": "883fbb33-65a9-4ace-97ad-2a1f588020c2",
+    "link": "https://jobs.ashbyhq.com/ramp/883fbb33-65a9-4ace-97ad-2a1f588020c2",
+    "company": "Ramp",
+    "title": "AI Account Executive, Glass"
+  },
+  "sec155": {
+    "id": "6075e1dc-c833-4e27-a789-61d3a596c66c",
+    "link": "https://jobs.ashbyhq.com/ramp/6075e1dc-c833-4e27-a789-61d3a596c66c",
+    "company": "Ramp",
+    "title": "Senior Security Engineer, Identity"
+  },
+  "sesc": {
+    "id": "8325023",
+    "link": "https://stripe.com/jobs/search?gh_jid=8325023",
+    "company": "Stripe",
+    "title": "Head of Southern Europe, SMB & Commercial"
+  },
+  "ops150": {
+    "id": "5028621101",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5028621101",
+    "company": "Bitpanda",
+    "title": "Specialist, Trading & Asset Operations"
+  },
+  "rec85": {
+    "id": "38703001-b1cd-4a9b-9abc-be128600b91b",
+    "link": "https://jobs.ashbyhq.com/hifi/38703001-b1cd-4a9b-9abc-be128600b91b",
+    "company": "HIFI",
+    "title": "Recruiter"
+  },
+  "tir12": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "sls351": {
+    "id": "53e7d260-2d23-46a2-9e24-6e95e9ade5fe",
+    "link": "https://jobs.ashbyhq.com/chainalysis-careers/53e7d260-2d23-46a2-9e24-6e95e9ade5fe",
+    "company": "Chainalysis",
+    "title": "Enterprise Account Executive | Fintech"
+  },
+  "ts4": {
+    "id": "8289855",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8289855?t=gh_src=&gh_jid=8289855",
+    "company": "Robinhood",
+    "title": "Trading Specialist"
+  },
+  "do27": {
+    "id": "5015356101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5015356101",
+    "company": "Bybit",
+    "title": "Principal DevOps Engineer"
+  },
+  "cmp194": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp196"
+  },
+  "mkt177": {
+    "id": "3d52bffc-749a-4130-b3c8-476c3215743e",
+    "link": "https://jobs.ashbyhq.com/hifi/3d52bffc-749a-4130-b3c8-476c3215743e",
+    "company": "HIFI",
+    "title": "Marketing Lead",
+    "newSlug": "mkt184"
+  },
+  "sec184": {
+    "id": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "link": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "company": "HIFI",
+    "title": "Security Software Engineer",
+    "newSlug": "sec187"
+  },
+  "aso106": {
+    "id": "5466785008",
+    "link": "https://job-boards.greenhouse.io/openfx/jobs/5466785008",
+    "company": "OpenFX",
+    "title": "Executive Assistant to COO",
+    "newSlug": "aso115"
+  },
+  "eng838": {
+    "id": "5278427007",
+    "link": "https://boards.greenhouse.io/parallel/jobs/5278427007?gh_jid=5278427007",
+    "company": "Parallel",
+    "title": "Lead Electrical Engineer",
+    "newSlug": "eng863"
+  },
+  "mkt176": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt183"
+  },
+  "eng837": {
+    "id": "5275660007",
+    "link": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
+    "company": "Parallel",
+    "title": "Hardware Engineering Intern (Mechanical & Electrical)",
+    "newSlug": "eng862"
+  },
+  "pm434": {
+    "id": "2774d90f-d04a-4e7a-92d3-6247a1426b1f",
+    "link": "https://jobs.ashbyhq.com/fomo-labs/2774d90f-d04a-4e7a-92d3-6247a1426b1f",
+    "company": "Fomo Labs",
+    "title": "Staff Product Designer",
+    "newSlug": "pm451"
   }
 }
