@@ -5637,7 +5637,7 @@
     "sentAt": "2026-11-23T06:39:38.084Z"
   },
   "e075b058-6a64-48c0-9af3-9c5e0e8a2b71": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T06:39:40.229Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -5751,6 +5751,8 @@
       }
     ],
     "message": "- Sardine is hiring <a href=\"https://hashtagweb3.com/pm405?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead, Agentic Commerce (Product &amp; GTM)</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/rs21?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Resilience Specialist</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/pm341?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal/Senior Product Manager, Advanced Trading (Spot/Derivatives/Crypto Trading)</a>\n- Prime Intellect is hiring <a href=\"https://hashtagweb3.com/dr6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Developer Relations Engineer</a>\n- Consensys is hiring <a href=\"https://hashtagweb3.com/eng772?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer: Assets</a>",
-    "slotKey": "2026-11-23:morning"
+    "slotKey": "2026-11-23:morning",
+    "messageId": 214,
+    "sentAt": "2026-11-23T06:39:42.703Z"
   }
 }
