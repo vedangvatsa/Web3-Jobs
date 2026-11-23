@@ -34,43 +34,6 @@
       }
     ]
   },
-  "ci-https---conferenceindex-org-event-international-conference-on-advances-in-generative-ai-large-langua": {
-    "summaryLead": "ICAGLLMBT packs generative AI, large language models and blockchain technology into two days at Mercure Sydney on October 24-25, 2026.",
-    "sections": [
-      {
-        "heading": "Late October at Mercure Sydney",
-        "content": [
-          "The full name is a mouthful: International Conference on Advances in Generative AI, Large Language Models and Blockchain Technology. Everyone abbreviates it to ICAGLLMBT. Either way, the conference lands in Sydney, Australia on October 24-25, 2026, headquartered at the Mercure Sydney under the banner of IASTEM, the International Academy of Science, Technology, Engineering and Management.",
-          "IASTEM positions itself as a non-profit private organization promoting international education and cooperation across science, technology, engineering and management, running seminars, lectures and conferences worldwide. Its formula is familiar to anyone who attends academic events regularly: bring academics and industry experts into one forum, keep the program tight over two days, and offer publication routes that justify the registration fee and the long-haul flight for some attendees.",
-          "The timing helps too. Late October is springtime in Sydney, which softens the pitch for Northern Hemisphere travelers facing winter at home."
-        ]
-      },
-      {
-        "heading": "Generative AI Gets Top Billing",
-        "content": [
-          "The generative AI track reads like a current-events syllabus. Content creation, AI-powered design and creativity, synthetic data generation, multimodal generative models, AI agents and autonomous workflows, AI in scientific discovery, AI video and image generation, and enterprise applications all feature by name, along with responsible generative AI, the question regulators keep circling.",
-          "The LLM track drills further down: retrieval-augmented generation, fine-tuning and model optimization, multilingual and low-resource models, agentic LLM systems, evaluation and benchmarking, explainability and hallucination mitigation, and secure, private deployment. Domain-specific language models and knowledge-graph integration suggest an appetite for applied, vertical work rather than benchmark theater.",
-          "Taken together, the two tracks sketch where applied AI research is spending its money right now, which makes the conference useful even for practitioners who never present."
-        ]
-      },
-      {
-        "heading": "The Blockchain Third of the Program",
-        "content": [
-          "Blockchain holds equal billing, and the track list leans practical. Decentralized finance, smart contracts and automation, blockchain for supply chains, Web3 ecosystems, tokenization of assets, interoperability, decentralized identity systems, security and privacy, and sustainable green blockchain solutions are all named outright.",
-          "Healthcare and governance applications appear too, echoing themes running through the rest of the conference: verified data, machine-readable trust, systems that survive audit. There is a certain logic in pairing hallucination mitigation with immutable ledgers in the same building; both fields are really asking how much machines can be trusted to report the world accurately.",
-          "For Sydney's finance and technology community, it is also a chance to hear those debates without leaving the hemisphere, which rarely happens at events of this type."
-        ]
-      },
-      {
-        "heading": "Publication Routes and Practicalities",
-        "content": [
-          "Accepted abstracts land in the conference Abstract Book carrying an ISBN number. Full papers can progress toward indexed international journals, including SCOPUS, Web of Science and UGC Care listings, or appear as book chapters. Authors should read those routes closely before committing, since presentation-only participation remains an option for abstract submitters who want feedback without a publication obligation.",
-          "Mercure Sydney sits within walking distance of the central station district, keeping logistics simple for interstate attendees flying in Saturday morning. Two days keeps costs contained, and the weekend dates spare working professionals from burning leave.",
-          "If your work touches any two of the three headline technologies, the overlap sessions alone should earn the fee; if it touches only one, the other two tracks amount to a decent education in what your colleagues will worry about next."
-        ]
-      }
-    ]
-  },
   "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2026-december-kuala-lum": {
     "summaryLead": "WASET's International Conference on Blockchain returns to Kuala Lumpur on December 10-11, 2026, steering distributed-ledger research toward government machinery.",
     "sections": [

@@ -76,15 +76,6 @@
       "descriptionSha256": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832"
     },
     {
-      "id": "luma-batch-9tJirJDFIno1LUr",
-      "slug": "london-oct-23",
-      "aliases": [],
-      "startDate": "2026-10-23T09:00:00.000Z",
-      "endDate": "2026-10-23T19:00:00.000Z",
-      "timezone": "Europe/London",
-      "descriptionSha256": "854c602e194ff2bfc0033e7af0982d322c323055cd7a30300f90693621d44fe1"
-    },
-    {
       "id": "luma-batch-7iIJgmckKWYczPb",
       "slug": "encode-london-2026",
       "aliases": [],
@@ -3606,84 +3597,6 @@
       }
     },
     {
-      "id": "discovery-evt-UCVyELUtCmRFEgU",
-      "name": "Montreal VibeStation",
-      "startDate": "2026-10-23T13:30:00.000Z",
-      "endDate": "2026-10-23T22:00:00.000Z",
-      "timezone": "America/Toronto",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-UCVyELUtCmRFEgU",
-      "url": "https://luma.com/izc6bvfp",
-      "lane": "americas",
-      "reason": "Distinct October 23 occurrence, verified by event ID and date. September source records with the same series name are different events.",
-      "evidence": [
-        {
-          "url": "https://luma.com/izc6bvfp",
-          "fetchedAt": "2026-10-20T08:06:45.244Z",
-          "excerpt": "evt-UCVyELUtCmRFEgU; Montreal VibeStation; 2026-10-23T13:30:00.000Z to 22:00:00.000Z; America/Toronto; Montréal, Canada; public, open, approval true, guests-only address. Superteam Canada coworking for builders, leaders and creatives; drinks, snacks and lunch; project work and team formation. Attendance is free, approval required.",
-          "sha256": "65a7daa80d54f7a98baa420138074d9acc28a985b090a15b5b515fedb5b5efb7",
-          "representation": "html; __NEXT_DATA__; only public city retained"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:15.666Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/xe/f30bb02b-99fc-4f1b-af66-3694971ef23f.png",
-        "fetchedAt": "2026-10-20T09:49:29.024Z",
-        "status": 200,
-        "local": "/events/discovery-evt-ucvyelutcmrfegu-2b66225c.webp",
-        "sourceSha256": "9271a1c79f6c9147b175a71d6e216c27580b0f6935381478d87b258da9a41059",
-        "sha256": "3264774bce1b326514c85096721232c6bb827a1237f4e58e0702096e2650d374",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 61788
-      }
-    },
-    {
-      "id": "discovery-evt-FCjHbklpkjJhS08",
-      "name": "Toronto VibeStation",
-      "startDate": "2026-10-23T13:30:00.000Z",
-      "endDate": "2026-10-23T22:00:00.000Z",
-      "timezone": "America/Toronto",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-FCjHbklpkjJhS08",
-      "url": "https://luma.com/vi07rwlu",
-      "lane": "americas",
-      "reason": "Distinct October 23 occurrence; no matching inventory event ID or URL.",
-      "evidence": [
-        {
-          "url": "https://luma.com/vi07rwlu",
-          "fetchedAt": "2026-10-20T08:06:45.921Z",
-          "excerpt": "evt-FCjHbklpkjJhS08; Toronto VibeStation; 2026-10-23T13:30:00.000Z to 22:00:00.000Z; America/Toronto; Toronto, Canada; public, open, approval true, guests-only address. Superteam Canada coworking; project work, finding team members, drinks, snacks and lunch. Attendance is free, approval required.",
-          "sha256": "b9119d6f8b83f66e04f0a1e073803a00476be08e877c46b3f6997cec2ccf5486",
-          "representation": "html; __NEXT_DATA__; only public city retained"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:16.616Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/of/441cfe7d-c114-42ae-9e48-43654501c52d.png",
-        "fetchedAt": "2026-10-20T09:49:29.166Z",
-        "status": 200,
-        "local": "/events/discovery-evt-fcjhbklpkjjhs08-0f48898e.webp",
-        "sourceSha256": "e4b24966c3b613e5a629a03c426e77ecfec436f5f8a63f41cd2dd55cb4c1a874",
-        "sha256": "6b3848e6374e7dc5a55dfa540c2cb121d30a5884173d05fa663838852b61ff84",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 53744
-      }
-    },
-    {
       "id": "discovery-evt-61qMI4lIR0KZSDR",
       "name": "Vancouver VibeStation",
       "startDate": "2026-10-23T16:30:00.000Z",
@@ -3954,45 +3867,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 59252
-      }
-    },
-    {
-      "id": "discovery-evt-7IqcX8M9irXvPE3",
-      "name": "Skyline Coworking",
-      "startDate": "2026-10-23T13:30:00.000Z",
-      "endDate": "2026-10-23T21:30:00.000Z",
-      "timezone": "America/New_York",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-7IqcX8M9irXvPE3",
-      "url": "https://luma.com/ppzx23ic",
-      "lane": "americas",
-      "reason": "No inventory match for this specific October 23 occurrence; hidden address retained as city only.",
-      "evidence": [
-        {
-          "url": "https://luma.com/ppzx23ic",
-          "fetchedAt": "2026-10-20T08:07:32.534Z",
-          "excerpt": "evt-7IqcX8M9irXvPE3; Skyline Coworking; 2026-10-23T13:30:00.000Z to 21:30:00.000Z; America/New_York; New York, United States; public, open, approval true, guests-only address. Join the Solana community for open Friday coworking; coffee and snacks.",
-          "sha256": "7cb629712df0bba6cd6d1e70daee1658ffe85dd6355c26b2f934adee93087629",
-          "representation": "html; __NEXT_DATA__; withheld location details excluded"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:22.427Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/py/249b4c63-9752-45c2-926c-814cca6e7567.jpg",
-        "fetchedAt": "2026-10-20T09:49:30.376Z",
-        "status": 200,
-        "local": "/events/discovery-evt-7iqcx8m9irxvpe3-84d3c0fe.webp",
-        "sourceSha256": "3b90bd3f28725abbc9392cb038b70ef680c24749d64d71cfbbed62fd7eb98db4",
-        "sha256": "c81f41d0f7a28423e46b91d4ea80726390116339959da560582ee7457eb7adcd",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 123282
       }
     },
     {
@@ -8047,12 +7921,6 @@
       "lane": "europe"
     },
     {
-      "url": "https://luma.com/london-oct-23",
-      "id": "luma-batch-9tJirJDFIno1LUr",
-      "reason": "Already active with the same source ID, URL and October 23 dates. Ordinary London coworking is in scope, but this occurrence is not missing. Public application listing; address remains guests-only.",
-      "lane": "europe"
-    },
-    {
       "url": "https://conference.tum-blockchain.com/",
       "id": "luma-batch-evt9GgBM7ScK61zT",
       "reason": "Organizer's dated conference matches active tbc26 record and source-cache conference entries. Main conference, Digital Assets Day and hackathon are already represented by the active aggregate. Primary address is Friedenstraße 24, not the aggregator's 22C.",
@@ -9900,12 +9768,6 @@
       "url": "https://luma.com/encode-london-2026",
       "result": "duplicate-update",
       "note": "Already active by Luma ID. Primary now starts October 23 at 11:00Z, versus 10:00Z in snapshot; programme says timing provisional.",
-      "lane": "europe"
-    },
-    {
-      "url": "https://luma.com/london-oct-23",
-      "result": "duplicate",
-      "note": "Already active by matching source ID/date. Public application listing with hidden location, not an independently discovered private event.",
       "lane": "europe"
     },
     {

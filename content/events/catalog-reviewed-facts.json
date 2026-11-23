@@ -168,44 +168,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-9tJirJDFIno1LUr": {
-    "name": "Co-Working Fridays : London Chapter",
-    "startDate": "2026-10-23T09:00:00.000Z",
-    "endDate": "2026-10-23T19:00:00.000Z",
-    "timezone": "Europe/London",
-    "registrationUrl": "https://luma.com/london-oct-23",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "hosts": [
-      "Superteam UK"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam",
-      "url": "https://superteam.fun/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/london-oct-23",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/london-oct-23",
-      "eventId": "evt-2RMFFPoKZHu2FF8",
-      "fetchedAt": "2026-10-12T11:41:14.032Z",
-      "method": "luma-page"
-    }
-  },
   "w3v-xrp-ledger-hackathon": {
     "name": "AI & Fintech XRPL Hackathon in New York",
     "startDate": "2026-10-24T12:30:00.000Z",

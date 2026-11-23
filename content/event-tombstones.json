@@ -10533,5 +10533,33 @@
       "build-breakpoint-sailing-through-sales",
       "discovery-evt-haz6jonojhbqx0q"
     ]
+  },
+  "luma-batch-9tJirJDFIno1LUr": {
+    "until": "2027-11-23T00:24:54.842Z",
+    "slugs": [
+      "london-oct-23",
+      "luma-batch-9tjirjdfino1lur"
+    ]
+  },
+  "discovery-evt-UCVyELUtCmRFEgU": {
+    "until": "2027-11-23T00:24:54.842Z",
+    "slugs": [
+      "montreal-vibestation-2026-10-23",
+      "discovery-evt-ucvyelutcmrfegu"
+    ]
+  },
+  "discovery-evt-FCjHbklpkjJhS08": {
+    "until": "2027-11-23T00:24:54.842Z",
+    "slugs": [
+      "toronto-vibestation-2026-10-23",
+      "discovery-evt-fcjhbklpkjjhs08"
+    ]
+  },
+  "discovery-evt-7IqcX8M9irXvPE3": {
+    "until": "2027-11-23T00:24:54.842Z",
+    "slugs": [
+      "skyline-coworking-2026-10-23",
+      "discovery-evt-7iqcx8m9irxvpe3"
+    ]
   }
 }

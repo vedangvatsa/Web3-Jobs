@@ -2383,22 +2383,6 @@
       "applied": false
     },
     {
-      "id": "luma-batch-9tJirJDFIno1LUr",
-      "url": "https://luma.com/london-oct-23",
-      "fetchedAt": "2026-10-19T20:14:19.404Z",
-      "sourceEventId": "evt-2RMFFPoKZHu2FF8",
-      "sourceName": "Co-Working Fridays : London Chapter",
-      "sourceStartDate": "2026-10-23T09:00:00.000Z",
-      "sourceEndDate": "2026-10-23T19:00:00.000Z",
-      "sourceTimezone": "Europe/London",
-      "sha256": "0dbd2d9522f569ba9aa3a718b24c02dcbe70a4bf02d82a6faa7da8d507715a0f",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Co-Working Fridays : London Chapter",
-      "applied": false
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "url": "https://luma.com/xrpl-hackathon-nyc",
       "fetchedAt": "2026-10-19T20:14:22.183Z",

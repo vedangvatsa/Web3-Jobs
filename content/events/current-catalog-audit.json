@@ -123,40 +123,6 @@
       }
     },
     {
-      "id": "luma-batch-9tJirJDFIno1LUr",
-      "oldSlug": "london-oct-23",
-      "slug": "london-oct-23",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 1392,
-      "characters": 1453,
-      "factChanges": {
-        "locationHidden": true,
-        "location": "London, United Kingdom",
-        "organizer": {
-          "type": "Organization",
-          "name": "Superteam",
-          "url": "https://superteam.fun/"
-        },
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/london-oct-23",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/london-oct-23",
-        "fetchedAt": "2026-10-12T11:41:14.032Z",
-        "status": 200,
-        "sha256": "e504db80a5beafba918515196bdadca9fd72b6f8940f8f9af3ed2e023433ce58"
-      }
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "oldSlug": "xlh",
       "slug": "ai-fintech-xrpl-hackathon",

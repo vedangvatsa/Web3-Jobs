@@ -43,10 +43,6 @@
     "slug": "encode-london-2026",
     "aliases": []
   },
-  "luma-batch-9tJirJDFIno1LUr": {
-    "slug": "london-oct-23",
-    "aliases": []
-  },
   "luma-batch-evtPICyDbNudDA4Z": {
     "slug": "bitcoin-indonesia-jakarta-meetup",
     "aliases": [
@@ -1098,18 +1094,6 @@
     "aliases": [
       "perps-and-chai-hyprearn-mumbai"
     ]
-  },
-  "discovery-evt-UCVyELUtCmRFEgU": {
-    "slug": "montreal-vibestation-2026-10-23",
-    "aliases": []
-  },
-  "discovery-evt-FCjHbklpkjJhS08": {
-    "slug": "toronto-vibestation-2026-10-23",
-    "aliases": []
-  },
-  "discovery-evt-7IqcX8M9irXvPE3": {
-    "slug": "skyline-coworking-2026-10-23",
-    "aliases": []
   },
   "discovery-evt-61qMI4lIR0KZSDR": {
     "slug": "vancouver-vibestation-2026-10-23",

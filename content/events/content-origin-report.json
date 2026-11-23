@@ -99,20 +99,6 @@
       ]
     },
     {
-      "id": "luma-batch-9tJirJDFIno1LUr",
-      "slug": "london-oct-23",
-      "name": "Co-Working Fridays : London Chapter",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/london-oct-23",
-        "fetchedAt": "2026-09-22T11:31:03.000Z"
-      },
-      "sections": [
-        "About the event",
-        "About Superteam UK"
-      ]
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "slug": "xlh",
       "name": "XRP LEDGER HACKATHON",
