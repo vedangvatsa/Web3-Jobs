@@ -209652,7 +209652,31 @@
       "firstSeenAt": "2026-11-22T11:54:08.214Z",
       "attempts": 0,
       "expiresAt": "2026-11-25T07:24:05.000Z",
-      "lastSeenAt": "2026-11-23T06:38:33.460Z"
+      "lastSeenAt": "2026-11-23T06:38:33.460Z",
+      "articleSlug": "cyberbridge",
+      "draftProgress": {
+        "id": "199d8757d529108809f0",
+        "day": "2026-11-23",
+        "articleSlug": "cyberbridge",
+        "note": "Read Cointelegraph Nov 22 and crypto.news Nov 22 in full; The Block and Upbit returned 403. Draft and image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+            "outcome": "read"
+          },
+          {
+            "url": "https://crypto.news/upbit-bithumb-halt-cyber-transfers-bridge",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-23T07:11:16.483Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "11cce0e1d96d6f2ecfa7": {
       "source": "Cointelegraph",
