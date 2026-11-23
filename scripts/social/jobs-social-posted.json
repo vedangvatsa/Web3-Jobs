@@ -171570,7 +171570,8 @@
       },
       "account": "channel:developers",
       "attemptId": "a96bf243-0d83-411c-a3d2-de6985c79576",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x70e71e500b96943abe45d28964094a23d0604f66"
     }
   ]
 }
