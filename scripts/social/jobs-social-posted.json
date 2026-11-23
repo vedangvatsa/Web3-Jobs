@@ -177351,6 +177351,41 @@
       "attemptId": "1780fe0e-ac01-4d80-906d-b44393b56117",
       "verification": "verified",
       "postId": "0xbcaaba20e2508a628e47416d55156b7646c979a0"
+    },
+    {
+      "slug": "ops163",
+      "company": "Kalshi",
+      "title": "Support Operations, Kalshi Prime",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T22:53:24.036Z",
+      "expectedText": "Kalshi is hiring Support Operations, Kalshi Prime\n\nhttps://hashtagweb3.com/ops163/fc?og=7",
+      "snapshot": {
+        "id": "e23c45a3-e29d-4cbd-8c17-65356bfef682",
+        "title": "Support Operations, Kalshi Prime",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/e23c45a3-e29d-4cbd-8c17-65356bfef682",
+        "date": "2026-11-09T19:51:58.103+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops163"
+      },
+      "payload": {
+        "text": "Kalshi is hiring Support Operations, Kalshi Prime\n\nhttps://hashtagweb3.com/ops163/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops163/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "3e2c1761-0635-4640-b171-2ff150f57b4b",
+      "verification": "creating"
     }
   ]
 }
