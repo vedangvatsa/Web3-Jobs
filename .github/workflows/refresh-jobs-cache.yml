@@ -20,10 +20,16 @@ on:
   schedule:
     # 9 AM IST / 11:30 AM SGT = 3:30 AM UTC
     - cron: '30 3 * * *'
+    # Morning catch-up: public-repo cron for 03:30 often lands hours late
+    - cron: '0 7 * * *'
     # 5 PM IST / 7:30 PM SGT = 11:30 AM UTC
     - cron: '30 11 * * *'
+    # Afternoon catch-up before the evening window
+    - cron: '0 15 * * *'
     # 1 AM IST / 3:30 AM SGT = 7:30 PM UTC
     - cron: '30 19 * * *'
+    # Evening catch-up before the next morning window
+    - cron: '0 23 * * *'
   workflow_dispatch:
     inputs:
       website_recovery:
@@ -76,7 +82,7 @@ on:
 
 concurrency:
   # One group per slot so the afternoon run cannot cancel a morning run still going.
-  group: "${{ github.event.inputs.news_recovery_run != '' && 'publish-news-recovery' || github.event.inputs.only_news == 'true' && 'publish-news-only' || github.event.inputs.diagnose_telegram == 'true' && 'publish-diagnose' || (github.event.schedule == '30 3 * * *' && 'publish-slot-morning' || github.event.schedule == '30 11 * * *' && 'publish-slot-afternoon' || github.event.schedule == '30 19 * * *' && 'publish-slot-evening' || github.event.inputs.slot == 'afternoon' && 'publish-slot-afternoon' || github.event.inputs.slot == 'evening' && 'publish-slot-evening' || 'publish-slot-morning') }}"
+  group: "${{ github.event.inputs.news_recovery_run != '' && 'publish-news-recovery' || github.event.inputs.only_news == 'true' && 'publish-news-only' || github.event.inputs.diagnose_telegram == 'true' && 'publish-diagnose' || ((github.event.schedule == '30 3 * * *' || github.event.schedule == '0 7 * * *') && 'publish-slot-morning' || (github.event.schedule == '30 11 * * *' || github.event.schedule == '0 15 * * *') && 'publish-slot-afternoon' || (github.event.schedule == '30 19 * * *' || github.event.schedule == '0 23 * * *') && 'publish-slot-evening' || github.event.inputs.slot == 'afternoon' && 'publish-slot-afternoon' || github.event.inputs.slot == 'evening' && 'publish-slot-evening' || 'publish-slot-morning') }}"
   cancel-in-progress: false
 
 jobs:

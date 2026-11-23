@@ -18,7 +18,7 @@ test('both workflow documents parse with unique YAML keys and compatible reusabl
   for (const key of Object.keys(caller.with)) assert.ok(child.on.workflow_call.inputs[key], `Missing reusable input ${key}`);
   assert.equal(child.on.workflow_dispatch.inputs.mode.default, 'preflight');
   assert.equal(child.on.workflow_call.inputs.mode.default, 'publish');
-  assert.deepEqual(parent.on.schedule.map(item => item.cron), ['30 3 * * *', '30 11 * * *', '30 19 * * *']);
+  assert.deepEqual(parent.on.schedule.map(item => item.cron), ['30 3 * * *', '0 7 * * *', '30 11 * * *', '0 15 * * *', '30 19 * * *', '0 23 * * *']);
   assert.ok(!parent.jobs['record-slot'].needs.includes('knowledge-threads'));
   assert.equal(parent.jobs.gate.steps.find(step => step.id === 'knowledge')['continue-on-error'], true);
   assert.equal(child.jobs.knowledge.steps.at(-1).if, 'always()');
