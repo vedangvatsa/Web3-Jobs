@@ -726,7 +726,7 @@
     "sentAt": "2026-11-22T11:57:34.921Z"
   },
   "15e658c1-242a-41b4-b928-25d8d41aee16": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T00:28:42.446Z",
     "stories": [
       {
@@ -754,6 +754,8 @@
         "originalTitle": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments"
       }
     ],
-    "slotKey": "2026-11-22:evening"
+    "slotKey": "2026-11-22:evening",
+    "messageId": 65848,
+    "sentAt": "2026-11-23T00:28:52.008Z"
   }
 }

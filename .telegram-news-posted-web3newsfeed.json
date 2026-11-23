@@ -65,6 +65,9 @@
   "https://hashtagweb3.com/kalshihalt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cftchearing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/defiamicus?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/secscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/luxorhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/worldbankusdc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -197,6 +200,12 @@
   "Senate Agriculture questions Trump's CFTC nominees on prediction markets",
   "Crypto Coalition Challenges Illinois Digital Asset Tax",
   "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful",
+  "SEC Charges Colorado Entities in $37 Million Crypto Fraud",
+  "SEC charges eight Colorado firms in $37 million fake crypto platform scam",
+  "Hackers Redirect Luxor Customer Bitcoin Hashrate to OCEAN Pool",
+  "Luxor Says Hackers Redirected Customer Bitcoin Hashrate Through Its Commander Tool",
+  "World Bank tests USDC and Citi for development payments",
+  "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -262,5 +271,8 @@
   "fp:act|ask|bessent|extend|firm|genius|giv|harbor|issuer|lawmaker",
   "fp:cftc|concern|deadlin|dec11|december11|exchang|gav|halt|kalshi|manipulation",
   "fp:agricultur|ahead|anonick|cftc|confirmation|ethic|matthew|nathan|nomine|panel",
-  "fp:ask|asset|call|challeng|coalition|court|declar|defi|digital|discriminatory"
+  "fp:ask|asset|call|challeng|coalition|court|declar|defi|digital|discriminatory",
+  "fp:37m|500|advisory|allegedly|august2024|charg|colorado|defraud|eight|entity",
+  "fp:account|commander|customer|hacker|hashrat|intruder|luxor|min|mov|ocean",
+  "fp:bank|blockchain|circl|citi|distribut|payment|pilot|project|stablecoin|tap"
 ]
