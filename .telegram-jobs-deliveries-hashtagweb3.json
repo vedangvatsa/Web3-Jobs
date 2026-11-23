@@ -2621,5 +2621,121 @@
     "slotKey": "2026-11-22:afternoon",
     "messageId": 156433,
     "sentAt": "2026-11-22T11:55:07.700Z"
+  },
+  "0736cde7-0b7f-48e0-b55d-8dc38e597bc8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T00:25:29.923Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8356842",
+          "title": "Product Manager II, Payment Experiences",
+          "company": "Coinbase",
+          "link": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
+          "date": "2026-11-05T20:06:49-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Coinbase [coinbase]",
+          "location": "Remote - USA",
+          "department": "Product",
+          "active": true,
+          "salary": "$148.8k – $171.5k/yr",
+          "dateVerified": true,
+          "slug": "pm371"
+        },
+        "key": "8356842",
+        "slug": "pm371",
+        "url": "https://hashtagweb3.com/pm371?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coinbase",
+        "title": "Product Manager II"
+      },
+      {
+        "snapshot": {
+          "id": "5011003101",
+          "title": "Risk Control Principal Product Specialist",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5011003101",
+          "date": "2026-11-05T14:15:29-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE",
+          "department": "Fiat Team",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm232"
+        },
+        "key": "5011003101",
+        "slug": "pm232",
+        "url": "https://hashtagweb3.com/pm232?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Risk Control Principal Product Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8318707",
+          "title": "Account Executive, SMB, Velocity Hunter, Spanish speaking",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8318707",
+          "date": "2026-10-29T05:14:34-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Dublin",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls360"
+        },
+        "key": "8318707",
+        "slug": "sls360",
+        "url": "https://hashtagweb3.com/sls360?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "5442239008",
+          "title": "Revenue Content Governance Manager",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5442239008?gh_jid=5442239008",
+          "date": "2026-10-28T16:56:39-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Los Angeles, CA, United States of America",
+          "department": "20226 S&M - Sales - Commerce Marketing",
+          "active": true,
+          "salary": "$101.5k – $152.3k/yr",
+          "dateVerified": true,
+          "slug": "mgr170"
+        },
+        "key": "5442239008",
+        "slug": "mgr170",
+        "url": "https://hashtagweb3.com/mgr170?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Revenue Content Governance Manager"
+      },
+      {
+        "snapshot": {
+          "id": "6250062004",
+          "title": "2027 Risk Intern - NYC",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004",
+          "date": "2026-11-06T09:16:29-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "New York",
+          "department": "Early Careers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "int52"
+        },
+        "key": "6250062004",
+        "slug": "int52",
+        "url": "https://hashtagweb3.com/int52?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "2027 Risk Intern"
+      }
+    ],
+    "message": "- Coinbase is hiring <a href=\"https://hashtagweb3.com/pm371?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager II, Payment Experiences</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm232?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Control Principal Product Specialist</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SMB, Velocity Hunter, Spanish speaking</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mgr170?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Revenue Content Governance Manager</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int52?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Risk Intern - NYC</a>",
+    "slotKey": "2026-11-22:evening"
   }
 }
