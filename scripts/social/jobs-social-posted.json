@@ -172150,6 +172150,38 @@
       "attemptId": "fb3886d2-825d-4548-b099-a2a12df7a487",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 22-Nov-26 22:41:36 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AZ1TxUw3kkZTpxigOuk8inO\"}"
+    },
+    {
+      "slug": "pm416",
+      "company": "Bybit",
+      "title": "AI Product Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-11-23T06:41:26.022Z",
+      "expectedText": "Bybit is hiring AI Product Manager: https://hashtagweb3.com/pm416/bsky?og=7",
+      "snapshot": {
+        "id": "4958451101",
+        "title": "AI Product Manager",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4958451101",
+        "date": "2026-11-17T12:24:23-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Kuala Lumpur, Malaysia",
+        "department": "Central-Hub",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm416"
+      },
+      "payload": {
+        "text": "Bybit is hiring AI Product Manager: https://hashtagweb3.com/pm416/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm416/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm416.png?v=7",
+        "company": "Bybit",
+        "title": "AI Product Manager",
+        "description": "Join Bybit as AI Product Manager. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "24172aec-3c99-432f-9fc1-8154b8e9a32c",
+      "verification": "creating"
     }
   ]
 }
