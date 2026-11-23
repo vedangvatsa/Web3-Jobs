@@ -176077,6 +176077,41 @@
       "attemptId": "eaa68814-9409-4863-a032-53811c13aadd",
       "verification": "verified",
       "postId": "0x24021e06195b9a9304d89a193809392428e72fcb"
+    },
+    {
+      "slug": "bp",
+      "company": "Robinhood",
+      "title": "Benefits Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T19:08:49.964Z",
+      "expectedText": "Robinhood is hiring Benefits Partner\n\nhttps://hashtagweb3.com/bp/fc?og=7",
+      "snapshot": {
+        "id": "8379150",
+        "title": "Benefits Partner",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8379150?t=gh_src=&gh_jid=8379150",
+        "date": "2026-11-16T16:14:24-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+        "department": "Total Rewards",
+        "active": true,
+        "salary": "$145k – $170k/yr",
+        "dateVerified": true,
+        "slug": "bp"
+      },
+      "payload": {
+        "text": "Robinhood is hiring Benefits Partner\n\nhttps://hashtagweb3.com/bp/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/bp/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "1c076f8b-0689-41f8-a3e9-25f2a6868aad",
+      "verification": "creating"
     }
   ]
 }
