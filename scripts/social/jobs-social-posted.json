@@ -175254,6 +175254,40 @@
       "attemptId": "3633db4a-e136-4447-80d2-1ea5a3725cba",
       "verification": "verified",
       "postId": "0xf6341a9dcbc9aa223c309e7ddbd27d5ad630c695"
+    },
+    {
+      "slug": "sls528",
+      "company": "Block",
+      "title": "Territory Account Executive, London",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T13:39:45.852Z",
+      "expectedText": "Block is hiring Territory Account Executive, London\n\nhttps://hashtagweb3.com/sls528/fc?og=7",
+      "snapshot": {
+        "id": "5427653008",
+        "title": "Territory Account Executive, London",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5427653008?gh_jid=5427653008",
+        "date": "2026-11-17T09:54:20-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "London, United Kingdom",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls528"
+      },
+      "payload": {
+        "text": "Block is hiring Territory Account Executive, London\n\nhttps://hashtagweb3.com/sls528/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls528/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "46f9e583-4193-4d3b-9dc9-c377322c7339",
+      "verification": "creating"
     }
   ]
 }
