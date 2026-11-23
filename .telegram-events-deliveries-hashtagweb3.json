@@ -978,5 +978,49 @@
     "slotKey": "2026-11-22:afternoon",
     "messageId": 156434,
     "sentAt": "2026-11-22T11:55:13.163Z"
+  },
+  "10bc734b-3919-4361-b5e8-2b8b249c907a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T00:25:15.730Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "premier-blockchain-life-2026",
+        "slug": "blockchain-life",
+        "name": "Blockchain Life 2026",
+        "startDate": "2026-12-01T09:00:00+04:00",
+        "keys": [
+          "premier-blockchain-life-2026",
+          "page:blockchain-life:2026-12-01",
+          "event:blockchainlife2026:2026-12-01:dubai"
+        ]
+      },
+      {
+        "id": "luma-crypto-OIyJ97r9aWjWy1A",
+        "slug": "investor-b",
+        "name": "Investor Breakfast - Why Choose an ETF for Institutional Bitcoin Exposure?",
+        "startDate": "2026-12-01T07:30:00.000Z",
+        "keys": [
+          "luma-crypto-oiyj97r9awjwy1a",
+          "page:investor-b:2026-12-01",
+          "luma:evt-oiyj97r9awjwy1a",
+          "luma-url:/l2kt3ztz",
+          "event:investorbreakfastwhychooseanetfforinstitutionalbitcoinexposure:2026-12-01:zurich"
+        ]
+      },
+      {
+        "id": "premier-tokenize-ldn-2026",
+        "slug": "tokenize-ldn-2026",
+        "name": "Tokenize: LDN 2026",
+        "startDate": "2026-12-01T09:00:00.000Z",
+        "keys": [
+          "premier-tokenize-ldn-2026",
+          "page:tokenize-ldn-2026:2026-12-01",
+          "event:tokenizeldn2026:2026-12-01:london"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-22:evening"
   }
 }
