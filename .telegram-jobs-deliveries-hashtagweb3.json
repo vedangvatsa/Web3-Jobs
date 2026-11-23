@@ -2977,5 +2977,121 @@
     "slotKey": "2026-11-23:afternoon",
     "messageId": 156471,
     "sentAt": "2026-11-23T13:35:35.719Z"
+  },
+  "177d1d6e-11f3-4056-b9e4-b01943a92e8a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T22:52:47.973Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4f05bef8-d46c-4d93-8d8d-f03030bc9065",
+          "title": "Solutions Associate",
+          "company": "Allium",
+          "link": "https://jobs.ashbyhq.com/allium/4f05bef8-d46c-4d93-8d8d-f03030bc9065",
+          "date": "2026-11-18T18:04:41.006+00:00",
+          "source": "Ashby: Allium [allium]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "GTM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso74"
+        },
+        "key": "4f05bef8-d46c-4d93-8d8d-f03030bc9065",
+        "slug": "aso74",
+        "url": "https://hashtagweb3.com/aso74?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Allium",
+        "title": "Solutions Associate"
+      },
+      {
+        "snapshot": {
+          "id": "5fc5b827-1a25-4252-8e35-31d23ae2216b",
+          "title": "Chief Operating Officer (COO)",
+          "company": "CoinsPaid",
+          "link": "https://jobs.eu.lever.co/coinspaid/5fc5b827-1a25-4252-8e35-31d23ae2216b",
+          "date": "2026-11-16T13:39:19.926Z",
+          "source": "Lever: CoinsPaid [coinspaid]",
+          "location": "Remote - Worldwide",
+          "workplaceType": "onsite",
+          "department": "Operational Division",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ooc"
+        },
+        "key": "5fc5b827-1a25-4252-8e35-31d23ae2216b",
+        "slug": "ooc",
+        "url": "https://hashtagweb3.com/ooc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinsPaid",
+        "title": "Chief Operating Officer"
+      },
+      {
+        "snapshot": {
+          "id": "222376e0-986e-478d-bdf5-6e01f215e5ff",
+          "title": "Head of Talent",
+          "company": "Uniswap Labs",
+          "link": "https://jobs.ashbyhq.com/uniswap/222376e0-986e-478d-bdf5-6e01f215e5ff",
+          "date": "2026-10-27T22:41:01.493+00:00",
+          "source": "Ashby: Uniswap [Uniswap]",
+          "location": "Hybrid (New York)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Recruiting",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec22"
+        },
+        "key": "222376e0-986e-478d-bdf5-6e01f215e5ff",
+        "slug": "rec22",
+        "url": "https://hashtagweb3.com/rec22?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Uniswap Labs",
+        "title": "Head of Talent"
+      },
+      {
+        "snapshot": {
+          "id": "5463933008",
+          "title": "Territory Account Executive, Halifax",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5463933008?gh_jid=5463933008",
+          "date": "2026-10-26T14:51:26-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Halifax, Nova Scotia, Canada",
+          "department": "20249 S&M - Sales - Square Field Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls343"
+        },
+        "key": "5463933008",
+        "slug": "sls343",
+        "url": "https://hashtagweb3.com/sls343?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Territory Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8287910",
+          "title": "AI Transformation Lead, Marketing",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8287910",
+          "date": "2026-11-20T10:05:26-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+          "department": "2315 Marketing - Marketing Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt172"
+        },
+        "key": "8287910",
+        "slug": "mkt172",
+        "url": "https://hashtagweb3.com/mkt172?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "AI Transformation Lead"
+      }
+    ],
+    "message": "- Allium is hiring <a href=\"https://hashtagweb3.com/aso74?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Associate</a>\n- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/ooc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Chief Operating Officer (COO)</a>\n- Uniswap Labs is hiring <a href=\"https://hashtagweb3.com/rec22?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Talent</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls343?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Territory Account Executive, Halifax</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt172?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Transformation Lead, Marketing</a>",
+    "slotKey": "2026-11-23:evening"
   }
 }
