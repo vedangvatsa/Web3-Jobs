@@ -171534,7 +171534,8 @@
       },
       "account": "channel:dev",
       "attemptId": "52282573-279b-4fea-900b-1e175ec29ae7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1a796ce83a335df7d2deda10a70f0def62de784f"
     }
   ]
 }
