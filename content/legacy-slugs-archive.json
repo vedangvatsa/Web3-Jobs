@@ -159819,5 +159819,170 @@
     "company": "Story Protocol",
     "title": "Head of Production",
     "newSlug": "pm435"
+  },
+  "mkt134": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt174"
+  },
+  "cmp145": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp194"
+  },
+  "infra91": {
+    "id": "8197695003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8197695003",
+    "company": "OKX",
+    "title": "Senior Management, Platform & Infrastructure Audit"
+  },
+  "sec128": {
+    "id": "8d7956ce-8160-45d2-a090-5f5cb337377a",
+    "link": "https://jobs.ashbyhq.com/Coinflow/8d7956ce-8160-45d2-a090-5f5cb337377a",
+    "company": "Coinflow",
+    "title": "Security Engineer"
+  },
+  "be89": {
+    "id": "FF2A9A5460",
+    "link": "https://apply.workable.com/j/FF2A9A5460",
+    "company": "Ajaib Crypto",
+    "title": "Staff Backend Engineer - Shared Services"
+  },
+  "mass": {
+    "id": "1F4419D80D",
+    "link": "https://apply.workable.com/j/1F4419D80D",
+    "company": "Ajaib Crypto",
+    "title": "Staff Mobile (Android) - Shared Services"
+  },
+  "miss": {
+    "id": "3DAF98D87C",
+    "link": "https://apply.workable.com/j/3DAF98D87C",
+    "company": "Ajaib Crypto",
+    "title": "Staff Mobile (iOS) - Shared Services"
+  },
+  "rec77": {
+    "id": "5015337101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5015337101",
+    "company": "Bybit",
+    "title": "[EU] Talent Acquisition Specialist"
+  },
+  "kdds": {
+    "id": "8311620",
+    "link": "https://ripple.com/careers/all-jobs/job/8311620?gh_jid=8311620",
+    "company": "Ripple",
+    "title": "Global KYC & Due Diligence Specialist"
+  },
+  "arc27": {
+    "id": "aabf9a4b-18ef-4932-ac20-4ed07eacd6ca",
+    "link": "https://jobs.ashbyhq.com/sardine/aabf9a4b-18ef-4932-ac20-4ed07eacd6ca",
+    "company": "Sardine",
+    "title": "Solutions Architect, Integrations (US/CA)"
+  },
+  "rs16": {
+    "id": "218587df-4c7d-437f-bcbc-ab7755629207",
+    "link": "https://jobs.ashbyhq.com/polymarket/218587df-4c7d-437f-bcbc-ab7755629207",
+    "company": "Polymarket",
+    "title": "Trust and Safety Program Manager"
+  },
+  "des11": {
+    "id": "8201702",
+    "link": "https://stripe.com/jobs/search?gh_jid=8201702",
+    "company": "Stripe",
+    "title": "Staff Brand Designer, Creative Lab"
+  },
+  "peo2": {
+    "id": "97930174",
+    "link": "https://jobs.ashbyhq.com/kamino/ae4fcd28-4bb3-4e63-81d3-80c50196e22d",
+    "company": "Kamino",
+    "title": "Head of People"
+  },
+  "mkt124": {
+    "id": "97930175",
+    "link": "https://jobs.ashbyhq.com/kamino/55bd4c93-784b-4e7a-902c-7dfd1453ab1a",
+    "company": "Kamino",
+    "title": "Head of Growth"
+  },
+  "des15": {
+    "id": "97930176",
+    "link": "https://jobs.ashbyhq.com/kamino/7b5f0b44-b093-41de-9c1e-27c1b3af7bd7",
+    "company": "Kamino",
+    "title": "Brand and Motion Designer"
+  },
+  "aso72": {
+    "id": "97930168",
+    "link": "https://jobs.ashbyhq.com/kamino/b39e05bf-cea4-478a-8db8-8f70db5aa0a1",
+    "company": "Kamino",
+    "title": "Executive Assistant to the CEO"
+  },
+  "gc3": {
+    "id": "97930169",
+    "link": "https://jobs.ashbyhq.com/kamino/b04fc70b-0735-4958-acdf-8ec7f9435895",
+    "company": "Kamino",
+    "title": "General Counsel"
+  },
+  "pm339": {
+    "id": "97930172",
+    "link": "https://jobs.ashbyhq.com/kamino/311fb42a-8c5f-4847-bbbc-d651dee9d9bb",
+    "company": "Kamino",
+    "title": "Senior Product Data Analyst"
+  },
+  "sls350": {
+    "id": "97930167",
+    "link": "https://jobs.ashbyhq.com/kamino/970dd7fc-161d-45e5-94d2-473cdcf77159",
+    "company": "Kamino",
+    "title": "Senior Business Development"
+  },
+  "ur": {
+    "id": "8318555",
+    "link": "https://www.coinbase.com/careers/positions/8318555?gh_jid=8318555",
+    "company": "Coinbase",
+    "title": "Staff Design Researcher"
+  },
+  "pm357": {
+    "id": "98c10c96-67b8-465b-966e-a5a76648b7c1",
+    "link": "https://talent.superteam.fun/jobs/staff-product-manager-at-kamino-98c10c96-67b8-465b-966e-a5a76648b7c1",
+    "company": "Kamino",
+    "title": "Staff Product Manager"
+  },
+  "pm356": {
+    "id": "46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+    "link": "https://talent.superteam.fun/jobs/head-of-product-marketing-at-kamino-46ebee58-9b28-475b-9ae4-e1e4bceda5ba",
+    "company": "Kamino",
+    "title": "Head of Product Marketing"
+  },
+  "sls393": {
+    "id": "12958408-88d8-4189-95d1-efe0d93cb6de",
+    "link": "https://talent.superteam.fun/jobs/head-of-business-development-at-kamino-12958408-88d8-4189-95d1-efe0d93cb6de",
+    "company": "Kamino",
+    "title": "Head of Business Development"
+  },
+  "be88": {
+    "id": "5462362008",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5462362008",
+    "company": "Mesh",
+    "title": "Senior Backend Engineer"
+  },
+  "des10": {
+    "id": "8318060",
+    "link": "https://job-boards.greenhouse.io/blockchain/jobs/8318060",
+    "company": "Blockchain.com",
+    "title": "Senior Brand Designer (Maternity Cover)"
+  },
+  "qa102": {
+    "id": "a478fcaf-b57b-4790-b8d2-4b733fecb5f2",
+    "link": "https://jobs.eu.lever.co/coinspaid/a478fcaf-b57b-4790-b8d2-4b733fecb5f2",
+    "company": "CoinsPaid",
+    "title": "QA Principal"
+  },
+  "dev54": {
+    "id": "infosys-infsys-external-255107",
+    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1",
+    "company": "Infosys",
+    "title": "Blockchain Developer",
+    "newSlug": "dev57"
   }
 }

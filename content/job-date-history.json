@@ -47882,5 +47882,93 @@
   "ashby:ecf7e99f-5757-469d-b68a-fb45d9cbc081": {
     "date": "2026-11-21T09:54:06.265+00:00",
     "dateVerified": true
+  },
+  "ashby:05674c39-a0d4-4222-8b37-685fe50e4551": {
+    "date": "2026-11-22T11:52:46.000Z",
+    "dateVerified": true
+  },
+  "ashby:a812f284-4801-4d28-96f8-a59b7af35dc8": {
+    "date": "2026-11-22T11:52:46.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8407180": {
+    "date": "2026-11-22T15:55:37-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8393086": {
+    "date": "2026-11-23T01:37:17-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4713012006": {
+    "date": "2026-09-16T06:30:00-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4713010006": {
+    "date": "2026-09-16T06:29:31-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4620939006": {
+    "date": "2026-02-15T08:59:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4701826006": {
+    "date": "2026-08-03T08:43:51-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4352196006": {
+    "date": "2024-03-27T09:00:07-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4681268006": {
+    "date": "2026-05-19T06:40:29-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4655907006": {
+    "date": "2026-02-23T07:28:03-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8955918002": {
+    "date": "2026-11-22T23:39:56-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:8951015002": {
+    "date": "2026-11-22T19:25:27-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5042010101": {
+    "date": "2026-11-23T02:45:39-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "lever:c7f2f22f-2fc0-4ee8-b6d0-8e6e84e470ff": {
+    "date": "2026-11-23T04:50:14.623Z",
+    "dateVerified": true
+  },
+  "lever:9d408ce0-695a-4a90-b5bb-f92d0b656392": {
+    "date": "2026-02-05T08:28:44.352Z",
+    "dateVerified": true
+  },
+  "lever:6f7385ad-9fe5-440c-9104-e65e51b814b4": {
+    "date": "2026-11-23T06:36:02.594Z",
+    "dateVerified": true
+  },
+  "ashby:4ebdb89e-2c37-4a1c-be4b-739ec48ee8d8": {
+    "date": "2026-11-23T07:42:24.480+00:00",
+    "dateVerified": true
+  },
+  "ashby:b7ecf8b8-98fb-41b0-a667-31417dce38d3": {
+    "date": "2026-11-22T13:18:21.202+00:00",
+    "dateVerified": true
   }
 }
