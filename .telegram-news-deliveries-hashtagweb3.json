@@ -757,5 +757,36 @@
     "slotKey": "2026-11-22:evening",
     "messageId": 156455,
     "sentAt": "2026-11-23T00:26:44.170Z"
+  },
+  "18b86c90-4254-4d97-bfc3-c6653f000688": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T06:39:45.578Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Senate panel questions CFTC nominees about prediction markets",
+        "summary": "On November 18, lawmakers questioned Nathan Anonick and Matthew Rowland regarding agency staffing and potential conflicts.",
+        "link": "https://hashtagweb3.com/cftchearing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Senate Agriculture questions Trump's CFTC nominees on prediction markets"
+      },
+      {
+        "index": -1,
+        "headline": "Hackers Redirect Customer Hashrate via Luxor Management Tool",
+        "summary": "Attackers routed over a dozen accounts to the OCEAN pool, prompting warnings about faster AI-driven exploits.",
+        "link": "https://hashtagweb3.com/luxorhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Luxor Says Hackers Redirected Customer Bitcoin Hashrate Through Its Commander Tool"
+      },
+      {
+        "index": -1,
+        "headline": "World Bank Tests USDC and Citi for Aid Disbursements",
+        "summary": "The project expands on existing FundsChain ledgers to distribute development aid across more than 350 projects.",
+        "link": "https://hashtagweb3.com/worldbankusdc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments"
+      }
+    ],
+    "slotKey": "2026-11-23:morning"
   }
 }
