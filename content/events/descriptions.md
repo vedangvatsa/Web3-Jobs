@@ -30692,6 +30692,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-6c85d7ed77ada812"></a>
+
+## Learn How to Trade & Invest in the Stock, Forex, Crypto Market for income
+
+- Record: `eb-1996342905370`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/learn-how-to-trade-invest-in-the-stock-forex-crypto-market-for-income-tickets-1996342905370>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-27005bb1817a0f0e"></a>
 
 ## Curso online GRATUITO: herramientas en internet - comercio electrónico
@@ -30749,6 +30761,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.co.uk/e/the-digital-assets-collective-banking-fintech-crypto-tickets-2004419614023>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-406cb1a7a70b4a91"></a>
+
+## The Digital Assets Collective — Banking, Fintech & Crypto
+
+- Record: `eb-2005148021710`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/the-digital-assets-collective-banking-fintech-crypto-tickets-2005148021710>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34718,6 +34742,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-48a87102bdf5a051"></a>
+
+## Startup Tech & AI Networking in Toronto
+
+- Record: `eb-2004504455787`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/startup-tech-ai-networking-in-toronto-tickets-2004504455787>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-26bffd13228409e9"></a>
 
 ## Podcast
@@ -35068,13 +35104,13 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-2ffd1fef9c8f6374"></a>
 
-## HackerX - Munich (AI) - Employer Ticket - 12/10
+## HackerX - Delhi NCR (AI) - Employer Ticket - 12/10
 
 - Record: `eb-1210`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-10
 - Description: Unverified stored copy
-- Original page: <https://www.eventbrite.com/e/hackerx-munich-ai-employer-ticket-1210-tickets-1980344406429>
+- Original page: <https://www.eventbrite.com/e/hackerx-delhi-ncr-ai-employer-ticket-1210-tickets-1982000892022>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36294,6 +36330,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ff2cf365cc92ece7"></a>
+
+## Blockchain and Business Networking \| Elevating Your Potential - Liverpool
+
+- Record: `eb-2002307460515`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-23
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-liverpool-tickets-2002307460515>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-031a9da470dde4cb"></a>
 
 ## HackerX - Marseille (AI) - Employer Ticket - 12/24
@@ -36557,6 +36605,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-01-19
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.co.uk/e/london-crypto-hnwi-sector-january-city-networking-at-the-gherkin-tickets-1999770337913>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4583c70e596e7906"></a>
+
+## AI & Tech Networking Event in Amsterdam  by Ascent Valley
+
+- Record: `eb-2004808927470`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-19
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/ai-tech-networking-event-in-amsterdam-by-ascent-valley-tickets-2004808927470>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0e3d33854bb48f8f"></a>
+
+## Startup Tech & AI Networking in Amsterdam
+
+- Record: `eb-2004808928473`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-19
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/startup-tech-ai-networking-in-amsterdam-tickets-2004808928473>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

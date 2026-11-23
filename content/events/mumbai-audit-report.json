@@ -1366,20 +1366,6 @@
       ],
       "before": [
         {
-          "id": "ibw-official-mip-20-road-to-devcon-10-24",
-          "slug": "mip-20",
-          "startDate": "2026-10-24T06:30:00.000Z",
-          "endDate": "2026-10-24T08:30:00.000Z",
-          "name": "MIP-20: Road to Devcon"
-        },
-        {
-          "id": "india-luma-ndrr1yqe",
-          "slug": "mip-20",
-          "startDate": "2026-10-24T06:30:00.000Z",
-          "endDate": "2026-10-24T08:30:00.000Z",
-          "name": "MIP-20: Road to Devcon"
-        },
-        {
           "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
           "startDate": "2026-10-30T00:00:00.000Z",
           "endDate": "",
