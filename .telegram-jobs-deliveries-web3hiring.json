@@ -5876,7 +5876,7 @@
     "sentAt": "2026-11-23T13:35:25.202Z"
   },
   "30c05bc0-00e9-4afb-abba-db67714dd78c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T13:35:27.081Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -5991,6 +5991,8 @@
       }
     ],
     "message": "- Polymarket is hiring <a href=\"https://hashtagweb3.com/ces?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Experience Specialist</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int47?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Ventures Intern - NYC</a>\n- Paxos is hiring <a href=\"https://hashtagweb3.com/pm426?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate General Counsel, Regulatory, Product &amp; Litigation</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/mgr217?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partnerships Manager</a>\n- Tempo is hiring <a href=\"https://hashtagweb3.com/ops112?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Operations Associate</a>",
-    "slotKey": "2026-11-23:afternoon"
+    "slotKey": "2026-11-23:afternoon",
+    "messageId": 215,
+    "sentAt": "2026-11-23T13:35:29.250Z"
   }
 }
