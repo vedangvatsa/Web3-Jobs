@@ -172670,7 +172670,8 @@
       },
       "account": "channel:ai",
       "attemptId": "5cb6f6b6-0cf4-48f9-a5c9-17a13c5af787",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe41ee16d232aba4399a9146bef056eadacd275d9"
     }
   ]
 }
