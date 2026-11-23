@@ -23,7 +23,7 @@ This guide provides an exhaustive, step-by-step roadmap to qualifying for and se
 - **Permit Duration:** 3 years (if applying directly from within Spain through the UGE-CE portal) or 1 year (if applying via a Spanish consulate abroad).
 - **Renewal:** Renewable for an additional 2 years (reaching 5 years total).
 - **Permanent Residency & Citizenship:** After 5 years of legal residence, you can apply for permanent EU residency. Citizens of Ibero-American countries, the Philippines, and Andorra can apply for Spanish citizenship after just 2 years of legal residence.
-- **Minimum Qualifying Monthly Income:** €2,646 per month for an individual (set at 200% of the Spanish minimum interprofessional wage / SMI). Increases by 75% of the SMI for a spouse and 25% for each child.
+- **Minimum Qualifying Monthly Income:** €2,849 per month for an individual (~$3,100/mo, set at 200% of the Spanish minimum interprofessional wage / SMI). Increases by 75% of the SMI for a spouse and 25% for each child.
 - **Family Inclusions:** Immediate family members (legal spouse, registered domestic partner, dependent children, and dependent parents) can be included under a single application.
 
 ---
