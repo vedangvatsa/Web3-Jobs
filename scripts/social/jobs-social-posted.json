@@ -174441,7 +174441,8 @@
       },
       "account": "channel:design",
       "attemptId": "c34c2100-fda3-4688-b735-79a6f2f903a9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdd44624ab801fcd86a24ee0cf3a0ede22df9283b"
     }
   ]
 }
