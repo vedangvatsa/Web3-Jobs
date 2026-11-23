@@ -175787,7 +175787,8 @@
       },
       "account": "channel:dev",
       "attemptId": "086afbcc-0843-4661-81b2-cfde58e30ae9",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Employer application unverified: redirected job title or company does not match"
     }
   ]
 }
