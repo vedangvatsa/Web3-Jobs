@@ -910,5 +910,42 @@
     "slotKey": "2026-11-23:morning",
     "messageId": 193567,
     "sentAt": "2026-11-23T06:40:03.730Z"
+  },
+  "8d960a3c-27fc-4701-b40d-b6613ff135dd": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T13:38:58.106Z",
+    "stories": [
+      {
+        "index": 9,
+        "original_title": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+        "headline": "Architect Labs unveils AI-designed CPU for interaction nets",
+        "summary": "The new Frostbite processor uses AI-generated designs to achieve 4.59 times the performance per watt of standard cores.",
+        "event_rationale": "This covers a specific hardware innovation where AI was used to architect a new CPU, distinct from software-based model releases.",
+        "link": "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
+        "source": "MarkTechPost",
+        "originalTitle": "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI"
+      },
+      {
+        "index": 11,
+        "original_title": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+        "headline": "Meta releases TLX for low-level GPU kernel control",
+        "summary": "The new toolkit allows developers to manage hardware-level GPU operations across multiple chip architectures to optimize AI workloads.",
+        "event_rationale": "This is a technical infrastructure release for AI development environments, distinct from model announcements or consumer-facing agent news.",
+        "link": "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
+        "source": "MarkTechPost",
+        "originalTitle": "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD"
+      },
+      {
+        "index": 6,
+        "original_title": "Meta Muse can do your Black Friday shopping at Walmart",
+        "headline": "Walmart integrates Meta Muse AI for autonomous shopping",
+        "summary": "The retail chain is deploying an AI agent capable of searching for and purchasing holiday deals for users.",
+        "event_rationale": "This represents a notable deployment of agentic AI in a large-scale commercial retail environment, distinct from research or infrastructure news.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+        "source": "The Verge",
+        "originalTitle": "Meta Muse can do your Black Friday shopping at Walmart"
+      }
+    ],
+    "slotKey": "2026-11-23:afternoon"
   }
 }
