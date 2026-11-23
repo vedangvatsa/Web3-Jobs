@@ -170420,7 +170420,8 @@
         "link_attachment": "https://hashtagweb3.com/ops188/th?og=7"
       },
       "attemptId": "097d3ffb-36ec-4d72-a2b9-acd360dd8d8f",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 22-Nov-26 16:25:51 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AQIVRY5gEEBY1sEtuTW8yAU\"}"
     }
   ]
 }
