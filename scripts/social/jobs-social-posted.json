@@ -171930,7 +171930,8 @@
       },
       "account": "channel:growth",
       "attemptId": "e5879514-f77d-469b-ad03-5770ca740337",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfc1294c8ac3984b141b7e924723442301bf70737"
     }
   ]
 }
