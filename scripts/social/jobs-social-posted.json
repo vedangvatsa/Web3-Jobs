@@ -173408,6 +173408,40 @@
       "attemptId": "bae7f780-7a89-4d5a-b6d9-011074c43ec8",
       "verification": "verified",
       "postId": "0x8423a9f727846a6d4f05c28604dbd4817063a263"
+    },
+    {
+      "slug": "arc41",
+      "company": "Alpaca",
+      "title": "Senior Business Architect",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T06:44:40.603Z",
+      "expectedText": "Alpaca is hiring Senior Business Architect\n\nhttps://hashtagweb3.com/arc41/fc?og=7",
+      "snapshot": {
+        "id": "6250954004",
+        "title": "Senior Business Architect",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6250954004",
+        "date": "2026-11-09T22:50:55-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Canada, Remote Americas",
+        "department": "Brokerage",
+        "active": true,
+        "dateVerified": true,
+        "slug": "arc41"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Senior Business Architect\n\nhttps://hashtagweb3.com/arc41/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/arc41/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "5eb7da1f-61af-4ae9-98a9-81877939ab94",
+      "verification": "creating"
     }
   ]
 }
