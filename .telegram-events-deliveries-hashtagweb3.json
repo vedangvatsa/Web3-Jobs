@@ -1024,5 +1024,51 @@
     "slotKey": "2026-11-22:evening",
     "messageId": 156453,
     "sentAt": "2026-11-23T00:25:18.909Z"
+  },
+  "08a2ef28-e80b-4043-91a5-30b121299331": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T06:39:16.809Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-b61UVucCWUGoXKN",
+        "slug": "project-ha",
+        "name": "Project Harmonia Paris: Allfunds x Solana",
+        "startDate": "2026-12-01T16:00:00.000Z",
+        "keys": [
+          "luma-crypto-b61uvuccwugoxkn",
+          "page:project-ha:2026-12-01",
+          "luma:evt-b61uvuccwugoxkn",
+          "luma-url:/harmonia-paris",
+          "event:projectharmoniaparisallfundsxsolana:2026-12-01:paris"
+        ]
+      },
+      {
+        "id": "premier-africabitcoin",
+        "slug": "africa-bitcoin-conference",
+        "name": "Africa Bitcoin Conference 2026",
+        "startDate": "2026-12-02T09:00:00.000Z",
+        "keys": [
+          "premier-africabitcoin",
+          "africa3",
+          "page:africa-bitcoin-conference:2026-12-02",
+          "event:africabitcoinconference2026:2026-12-02:blantyre"
+        ]
+      },
+      {
+        "id": "luma-crypto-qLu7rrrTEWVAUBR",
+        "slug": "ecox-6m8d",
+        "name": "Blockchain Week Dubai - Ecox Network Side Event",
+        "startDate": "2026-12-02T14:00:00.000Z",
+        "keys": [
+          "luma-crypto-qlu7rrrtewvaubr",
+          "page:ecox-6m8d:2026-12-02",
+          "luma-url:/ecox-6m8d",
+          "event:blockchainweekdubaiecoxnetworksideevent:2026-12-02:dubai"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-23:morning"
   }
 }
