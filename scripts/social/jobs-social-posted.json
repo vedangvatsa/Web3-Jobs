@@ -175446,7 +175446,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "c364cf6f-828f-4d18-bf25-f4805d087d99",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7530626919780868096"
     }
   ]
 }
