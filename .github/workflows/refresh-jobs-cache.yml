@@ -9,8 +9,9 @@ name: Publish Jobs, Events & Social
 #
 # morning (03:30 UTC): ingest, news drafts, one Firebase rollout, then
 # Resend alerts. Social and Telegram run alongside this work. Auto-deploy stays off.
-# The one daily rollout waits for fresh jobs and the completed original-news batch.
-# Failed news delays deployment; late recovery cannot add a second daily rollout.
+# The one daily rollout waits for the completed original-news batch (and prefer
+# fresh jobs). Failed news delays deployment; ingest failure must not strand a
+# finished news batch. Late recovery cannot add a second daily rollout.
 # If that morning run never starts, the next slot the same UTC day runs
 # the morning work instead of skipping it.
 # afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram, plus
@@ -192,7 +193,9 @@ jobs:
 
   deploy:
     needs: [gate, ingest, publish-news]
-    if: ${{ always() && needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && github.event.inputs.only_news != 'true' && github.event.inputs.news_dry_run != 'true' && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.deploy == 'true' && (needs.ingest.result == 'success' || (needs.gate.outputs.morning == 'false' && needs.ingest.result == 'skipped')) && (needs.publish-news.result == 'success' || (needs.gate.outputs.news == 'false' && needs.publish-news.result == 'skipped')) }}
+    # Ingest failure must not strand a finished news batch: deploy when jobs ingested
+    # or when today's news already published (success now, or skipped because news stamp is set).
+    if: ${{ always() && needs.gate.result == 'success' && needs.gate.outputs.skip != 'true' && github.event.inputs.only_news != 'true' && github.event.inputs.news_dry_run != 'true' && github.event.inputs.website_recovery != 'true' && needs.gate.outputs.deploy == 'true' && (needs.ingest.result == 'success' || needs.ingest.result == 'skipped' || needs.publish-news.result == 'success' || (needs.gate.outputs.news == 'false' && needs.publish-news.result == 'skipped')) && (needs.publish-news.result == 'success' || (needs.gate.outputs.news == 'false' && needs.publish-news.result == 'skipped')) }}
     permissions:
       contents: write
       id-token: write

@@ -70,10 +70,16 @@ test('failed or cancelled daily work blocks deployment; completed work can use t
     },
   });
   assert.equal(evaluate(), true);
-  for (const result of ['failure', 'cancelled', 'skipped']) {
+  for (const result of ['failure', 'cancelled']) {
     assert.equal(evaluate({ news: result }), false);
-    assert.equal(evaluate({ ingest: result }), false);
   }
+  // News still due but skipped: do not roll out.
+  assert.equal(evaluate({ news: 'skipped' }), false);
+  // Job ingest failure must not strand a finished news batch.
+  assert.equal(evaluate({ ingest: 'failure', news: 'success' }), true);
+  assert.equal(evaluate({ ingest: 'cancelled', news: 'success' }), true);
+  assert.equal(evaluate({ ingest: 'failure', news: 'skipped', newsDue: 'false' }), true);
+  assert.equal(evaluate({ ingest: 'failure', news: 'failure' }), false);
   assert.equal(evaluate({ ingest: 'skipped', morning: 'false' }), true);
   assert.equal(evaluate({ news: 'skipped', newsDue: 'false' }), true);
   assert.equal(evaluate({ deploy: 'false' }), false);
