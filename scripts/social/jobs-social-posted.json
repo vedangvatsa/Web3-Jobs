@@ -172991,6 +172991,38 @@
       "attemptId": "5266db76-3a79-4489-80ff-791fc0fee71a",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 22-Nov-26 22:44:50 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ACOpyCLkb1F3i_B40ul2T1Y\"}"
+    },
+    {
+      "slug": "arc41",
+      "company": "Alpaca",
+      "title": "Senior Business Architect",
+      "platform": "bluesky",
+      "postedAt": "2026-11-23T06:44:40.603Z",
+      "expectedText": "Alpaca is hiring Senior Business Architect: https://hashtagweb3.com/arc41/bsky?og=7",
+      "snapshot": {
+        "id": "6250954004",
+        "title": "Senior Business Architect",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6250954004",
+        "date": "2026-11-09T22:50:55-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Canada, Remote Americas",
+        "department": "Brokerage",
+        "active": true,
+        "dateVerified": true,
+        "slug": "arc41"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Senior Business Architect: https://hashtagweb3.com/arc41/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/arc41/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/arc41.png?v=7",
+        "company": "Alpaca",
+        "title": "Senior Business Architect",
+        "description": "Join Alpaca as Senior Business Architect. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "c1a75db5-840e-455c-ba6d-083f9386aa5e",
+      "verification": "creating"
     }
   ]
 }
