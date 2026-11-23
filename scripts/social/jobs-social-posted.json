@@ -177313,7 +177313,8 @@
       },
       "account": "profile",
       "attemptId": "7d94cf54-d93c-4e9e-a9d1-dd45d60788c2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xebf40abed80c48f7291fc94ce368114cf3b4ec5b"
     }
   ]
 }
