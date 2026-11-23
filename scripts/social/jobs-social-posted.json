@@ -175077,7 +175077,8 @@
       },
       "account": "channel:base",
       "attemptId": "c79017b6-4484-4cab-abf8-d0da0f8e01dc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x78240805dfc5b6fccea0aeb73d62b8470dd54787"
     }
   ]
 }
