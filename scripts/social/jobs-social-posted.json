@@ -178016,7 +178016,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "1360e2a8-d8c9-4008-89f8-e8526a528375",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7530766202025979905"
     }
   ]
 }
