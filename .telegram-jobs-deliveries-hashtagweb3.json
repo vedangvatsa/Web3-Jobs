@@ -2741,7 +2741,7 @@
     "sentAt": "2026-11-23T00:25:35.616Z"
   },
   "5873df0c-3b74-49eb-9b6a-8efc143c1342": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T06:39:47.079Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2854,6 +2854,8 @@
       }
     ],
     "message": "- Coins​.ph is hiring <a href=\"https://hashtagweb3.com/cmp109?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Manager (Singapore)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm417?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Financial Connections</a>\n- Fun​.xyz is hiring <a href=\"https://hashtagweb3.com/be123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineer, San Francisco</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/ops184?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Specialist, Business Operations (Fusion)</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/int59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Internal Communications</a>",
-    "slotKey": "2026-11-23:morning"
+    "slotKey": "2026-11-23:morning",
+    "messageId": 156458,
+    "sentAt": "2026-11-23T06:39:50.021Z"
   }
 }
