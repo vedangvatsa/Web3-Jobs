@@ -173772,6 +173772,37 @@
       "attemptId": "eeb5da9a-0943-4426-9bc9-f3843cd054fd",
       "verification": "verified",
       "postId": "691827047618629_1154503043823596"
+    },
+    {
+      "slug": "sls467",
+      "company": "Chainalysis",
+      "title": "Regional Sales Director",
+      "platform": "x",
+      "postedAt": "2026-11-23T13:36:17.955Z",
+      "expectedText": "Chainalysis is hiring Regional Sales Director\n\nhttps://hashtagweb3.com/sls467/x?og=7",
+      "snapshot": {
+        "id": "029027c0-4e2f-427d-9700-7e24a13fc508",
+        "title": "Regional Sales Director",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/029027c0-4e2f-427d-9700-7e24a13fc508",
+        "date": "2026-11-10T17:54:07.105+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote (London)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls467"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Regional Sales Director\n\nhttps://hashtagweb3.com/sls467/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "8a110610-4a36-4ec0-b49c-3d386404eb9e",
+      "verification": "creating"
     }
   ]
 }
