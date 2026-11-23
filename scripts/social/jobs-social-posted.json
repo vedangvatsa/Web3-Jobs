@@ -175007,7 +175007,8 @@
       },
       "account": "channel:build",
       "attemptId": "b418d2e1-d198-45f5-8efd-e3a5046cc150",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe1a6dcba06fbb2845b3056a5a03d706d52d286cd"
     }
   ]
 }
