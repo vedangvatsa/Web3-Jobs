@@ -759,7 +759,7 @@
     "sentAt": "2026-11-23T00:28:52.008Z"
   },
   "748ddf62-8df6-4373-93ab-d5319e98a283": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T06:41:35.428Z",
     "stories": [
       {
@@ -787,6 +787,8 @@
         "originalTitle": "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday"
       }
     ],
-    "slotKey": "2026-11-23:morning"
+    "slotKey": "2026-11-23:morning",
+    "messageId": 65849,
+    "sentAt": "2026-11-23T06:41:39.865Z"
   }
 }

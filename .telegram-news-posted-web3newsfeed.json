@@ -68,6 +68,9 @@
   "https://hashtagweb3.com/secscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/luxorhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/worldbankusdc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/anton?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kavalendhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/warshforum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -206,6 +209,12 @@
   "Luxor Says Hackers Redirected Customer Bitcoin Hashrate Through Its Commander Tool",
   "World Bank tests USDC and Citi for development payments",
   "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+  "Ondo, Binance, and Kraken sell tokenized Anthropic stock",
+  "Ondo, Binance and Kraken sell tokenized Anthropic exposure ahead of the IPO",
+  "Kava Lend Security Exploit Leads to Deposit Suspensions",
+  "Kava Lend exploit borrows 55.2 million KAVA as Korean exchanges halt deposits",
+  "Kevin Warsh to open San Francisco Fed forum on AI",
+  "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -274,5 +283,8 @@
   "fp:ask|asset|call|challeng|coalition|court|declar|defi|digital|discriminatory",
   "fp:37m|500|advisory|allegedly|august2024|charg|colorado|defraud|eight|entity",
   "fp:account|commander|customer|hacker|hashrat|intruder|luxor|min|mov|ocean",
-  "fp:bank|blockchain|circl|citi|distribut|payment|pilot|project|stablecoin|tap"
+  "fp:bank|blockchain|circl|citi|distribut|payment|pilot|project|stablecoin|tap",
+  "fp:access|ahead|anthropic|binanc|digital|dollar|eighty|equity|exposur|ipo",
+  "fp:209m|552m|attacker|borrow|busd|deposit|dormant|exchang|exploit|halt",
+  "fp:chat|event|forum|francisco|impact|includ|inflation|job|kevin|livestream"
 ]
