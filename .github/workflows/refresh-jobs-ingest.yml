@@ -82,14 +82,6 @@ jobs:
         run: npx tsx scripts/ingest-ashby-board.ts story "Story Protocol"
         continue-on-error: true
 
-      - name: Ingest Mantle Network Ashby jobs
-        run: npx tsx scripts/ingest-ashby-board.ts mantle "Mantle Network"
-        continue-on-error: true
-
-      - name: Ingest Paradigm Ashby jobs
-        run: npx tsx scripts/ingest-ashby-board.ts paradigm "Paradigm"
-        continue-on-error: true
-
       - name: Ingest Blockstream Ashby jobs
         run: npx tsx scripts/ingest-ashby-board.ts blockstream "Blockstream"
         continue-on-error: true
@@ -189,6 +181,10 @@ jobs:
 
       - name: Ingest PwC Crypto & Web3 Jobs
         run: npx tsx scripts/ingest-pwc-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest Goldman Sachs & JPMorgan Oracle crypto jobs
+        run: npx tsx scripts/ingest-oracle-institutional-crypto-jobs.ts
         continue-on-error: true
 
       - name: Ingest KuCoin Official MokaHR Jobs

@@ -609,6 +609,13 @@ async function refreshJobsCache() {
     { board: 'indexindustries', company: 'Index Industries' },
     // --- Web3 Expansion (Nov 2026, wave 2) ---
     { board: 'recall', company: 'Recall Labs' },
+    // --- Reviewed Web3 expansion (Greenhouse, ownership-verified in web3-expansion-sources.json) ---
+    { board: 'aurosglobal', company: 'Auros' },
+    { board: 'dialecticch', company: 'Dialectic' },
+    { board: 'ecoinc', company: 'Eco' },
+    { board: 'iftother', company: 'Institute of Free Technology' },
+    { board: 'makina', company: 'Makina' },
+    { board: 'nimbus', company: 'Nimbus' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -946,6 +953,22 @@ async function refreshJobsCache() {
     { board: 'Coinflow', company: 'Coinflow' },
     // --- Web3 Expansion (Nov 2026, wave 2) ---
     { board: 'RWA.xyz', company: 'RWA.xyz' },
+    // --- Reviewed expansion registry + daily workflow boards (Ashby identities pinned) ---
+    { board: 'kamino', company: 'Kamino' },
+    { board: 'Arrakis', company: 'Arrakis Finance' },
+    { board: 'axiom', company: 'Axiom' },
+    { board: 'Boost', company: 'Boost' },
+    { board: 'injective-labs', company: 'Injective Labs' },
+    { board: 'legend-xyz', company: 'Legend' },
+    { board: 'n1', company: 'N1' },
+    { board: 'opfoundation', company: 'Optimism Foundation' },
+    { board: 'quantstamp', company: 'Quantstamp' },
+    { board: 'bettermoney', company: 'The Better Money Company' },
+    { board: 'trilitech', company: 'Trilitech' },
+    { board: 'Zircuit', company: 'Zircuit' },
+    { board: 'mantle', company: 'Mantle Network' },
+    { board: 'paradigm', company: 'Paradigm' },
+    { board: 'nousresearch', company: 'Nous Research' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1405,6 +1428,11 @@ async function refreshJobsCache() {
     { board: 'transak-inc', company: 'Transak' },
     // --- Web3 Expansion (Nov 2026) ---
     { board: 'busha', company: 'Busha' },
+    // --- Reviewed Web3 expansion (Breezy, verified in web3-expansion-sources.json) ---
+    { board: 'ankr-pbc', company: 'Ankr' },
+    { board: 'usual', company: 'Usual' },
+    { board: 'violet', company: 'Violet' },
+    { board: 'zenledger', company: 'ZenLedger' },
   ];
 
   for (const bz of BREEZY_BOARDS) {

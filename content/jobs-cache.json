@@ -1,5 +1,28 @@
 [
   {
+    "id": "gs-oracle-187271",
+    "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187271",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187271",
+    "date": "2026-11-23T09:28:11+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso110"
+  },
+  {
     "id": "5042010101",
     "title": "Manager of Regional Total Rewards",
     "company": "StraitsX",
@@ -170,6 +193,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls331"
+  },
+  {
+    "id": "jpm-oracle-210810852",
+    "title": "Product Controller - Associate",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810852",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810852",
+    "date": "2026-11-21T15:10:32+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "Brooklyn, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm442"
   },
   {
     "id": "ecf7e99f-5757-469d-b68a-fb45d9cbc081",
@@ -377,6 +423,52 @@
     "slug": "sls548"
   },
   {
+    "id": "gs-oracle-189402",
+    "title": "Program Manager – Foundational Engineering Leadership – Associate",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189402",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189402",
+    "date": "2026-11-20T19:23:23+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Dallas, TX, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng847"
+  },
+  {
+    "id": "gs-oracle-184073",
+    "title": "Controllers, Accounting Policy, Vice President, New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/184073",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/184073",
+    "date": "2026-11-20T19:01:26+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "sls553"
+  },
+  {
     "id": "8402673",
     "title": "Internal Audit Manager",
     "company": "Robinhood",
@@ -578,6 +670,29 @@
     "slug": "rec48"
   },
   {
+    "id": "gs-oracle-178893",
+    "title": "Asset & Wealth Management, Alternative Investment Platform, GP Coverage and Sourcing, Vice President - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/178893",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/178893",
+    "date": "2026-11-20T16:29:33+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "awma2"
+  },
+  {
     "id": "8405596",
     "title": "Integration Engineer",
     "company": "Stripe",
@@ -647,6 +762,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "aci"
+  },
+  {
+    "id": "jpm-oracle-210809359",
+    "title": "2027 Applied Research Associate - Summer Associate",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809359",
+    "date": "2026-11-20T15:18:15+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso109"
   },
   {
     "id": "8287910",
@@ -790,6 +928,29 @@
     "slug": "ins2"
   },
   {
+    "id": "gs-oracle-189139",
+    "title": "Asset & Wealth Management, Third Party Wealth - Retail Sales, Associate/Vice President, Hong Kong",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189139",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189139",
+    "date": "2026-11-20T08:23:38+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "sls552"
+  },
+  {
     "id": "8946721002",
     "title": "Employee Compliance Specialist",
     "company": "Jane Street",
@@ -889,6 +1050,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng744"
+  },
+  {
+    "id": "gs-oracle-184816",
+    "title": "Global Banking and Markets, Marquee Sales, Analyst, Hong Kong",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/184816",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/184816",
+    "date": "2026-11-20T01:37:57+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hong Kong, Hong Kong",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "sls551"
   },
   {
     "id": "4f76ae92-2fe6-41ed-bc4e-0efae2733b57",
@@ -1403,6 +1587,29 @@
     "slug": "pm326"
   },
   {
+    "id": "gs-oracle-188885",
+    "title": "Asset & Wealth Management Operations - Client Servicing - Senior Analyst - The Hague",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188885",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188885",
+    "date": "2026-11-19T15:20:41+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "The Hague, Zuid-Holland, Netherlands",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "ops202"
+  },
+  {
     "id": "5042075101",
     "title": "Senior Product Manager - Fiat Payment Operations",
     "company": "BVNK",
@@ -1528,6 +1735,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng636"
+  },
+  {
+    "id": "gs-oracle-189401",
+    "title": "Asset & Wealth Management Operation Trade Management -Analyst - Bengaluru",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189401",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189401",
+    "date": "2026-11-19T11:34:31+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an161"
   },
   {
     "id": "fe181111-3b38-479b-bc3f-c1dd181b7639",
@@ -1700,6 +1930,29 @@
     "slug": "ops116"
   },
   {
+    "id": "gs-oracle-187273",
+    "title": "Asset & Wealth Management-Private Bank Underwriting- Analyst- Bengaluru",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187273",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187273",
+    "date": "2026-11-19T06:19:38+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an160"
+  },
+  {
     "id": "5021310101",
     "title": "Cloud Native Engineer",
     "company": "Bybit",
@@ -1741,6 +1994,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr277"
+  },
+  {
+    "id": "gs-oracle-189178",
+    "title": "Asset & Wealth Management, Client Operations, Client Servicing & Event Management, Associate, Tokyo",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189178",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189178",
+    "date": "2026-11-19T02:45:21+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Minato-Ku, Tokyo, Japan",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "ops201"
   },
   {
     "id": "4728626006",
@@ -1912,6 +2188,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec182"
+  },
+  {
+    "id": "gs-oracle-176902",
+    "title": "Asset & Wealth Management, Alternative Investment Platform, Private Secondaries Group, Associate - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/176902",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176902",
+    "date": "2026-11-18T22:48:09+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso108"
   },
   {
     "id": "13ab13db-df13-4093-847a-acc31f88f46e",
@@ -2279,6 +2578,29 @@
     "slug": "cmp186"
   },
   {
+    "id": "gs-oracle-189396",
+    "title": "Asset & Wealth Management, Private Wealth Advisor - Taiwan Market Coverage, Executive Director, Hong Kong",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189396",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189396",
+    "date": "2026-11-18T17:31:24+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "awmp5"
+  },
+  {
     "id": "5017672101",
     "title": "Information Security Lead",
     "company": "GSR Markets",
@@ -2582,6 +2904,29 @@
     "slug": "mgr274"
   },
   {
+    "id": "gs-oracle-189171",
+    "title": "Asset & Wealth Management -Reg Middle Office - Shared - Analyst - Hyderabad",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189171",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189171",
+    "date": "2026-11-18T11:46:29+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hyderabad, Telangana, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an159"
+  },
+  {
     "id": "170538",
     "title": "🚀 Sales Development Representative (SDR)",
     "company": "Bit2Me",
@@ -2663,6 +3008,29 @@
     "slug": "sls310"
   },
   {
+    "id": "gs-oracle-188892",
+    "title": "Asset & Wealth Management Operations -Client Billing- Senior Associate-Bengaluru",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188892",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188892",
+    "date": "2026-11-18T08:12:33+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "ops200"
+  },
+  {
     "id": "5033640101",
     "title": "Senior Product Manager - Reconciliation",
     "company": "BVNK",
@@ -2718,6 +3086,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "pm315"
+  },
+  {
+    "id": "gs-oracle-188893",
+    "title": "Asset & Wealth Management - -Retail SMA Oversight - Associate - Hyderabad",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188893",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188893",
+    "date": "2026-11-18T04:35:09+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hyderabad, Telangana, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso107"
   },
   {
     "id": "8241579",
@@ -2817,6 +3208,29 @@
     "active": true,
     "slug": "sls536",
     "dateVerified": true
+  },
+  {
+    "id": "gs-oracle-178896",
+    "title": "Asset & Wealth Management, Private Wealth Management, Alternative Capital Markets Group, Executive Director, Hong Kong",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/178896",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/178896",
+    "date": "2026-11-18T02:49:54+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hong Kong, Hong Kong",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "awmp4"
   },
   {
     "id": "4729075006",
@@ -3186,6 +3600,29 @@
     "slug": "eng810"
   },
   {
+    "id": "jpm-oracle-210807505",
+    "title": "Securities Services - Product Development - Custody Settlements - Associate",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807505",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807505",
+    "date": "2026-11-17T19:14:29+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "Tampa, FL, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm441"
+  },
+  {
     "id": "8337955",
     "title": "Integration Engineer",
     "company": "Stripe",
@@ -3344,6 +3781,29 @@
     "salary": "$130.9k – $154k/yr",
     "dateVerified": true,
     "slug": "int54"
+  },
+  {
+    "id": "jpm-oracle-210775539",
+    "title": "Kinexys- Engagement Manager- GTM Strategy & Business Support for Digital Assets Products- Vice President",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775539",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210775539",
+    "date": "2026-11-17T17:11:44+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm440"
   },
   {
     "id": "626e013d-3fa8-4ae0-a438-fbdff6d512f5",
@@ -3505,6 +3965,29 @@
     "slug": "eng807"
   },
   {
+    "id": "jpm-oracle-210779561",
+    "title": "Markets Digital Assets – Executive Director",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779561",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779561",
+    "date": "2026-11-17T14:55:48+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "mdae"
+  },
+  {
     "id": "5427653008",
     "title": "Territory Account Executive, London",
     "company": "Block",
@@ -3547,6 +4030,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "cspc3"
+  },
+  {
+    "id": "gs-oracle-188884",
+    "title": "Asset & Wealth Management - AM Alts Pvt KYC Group - Vice President - Hyderabad",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188884",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188884",
+    "date": "2026-11-17T14:02:21+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hyderabad, Telangana, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "awma"
   },
   {
     "id": "5039557101",
@@ -3717,6 +4223,29 @@
     "slug": "eng805"
   },
   {
+    "id": "jpm-oracle-210738307",
+    "title": "Cyber Engineering, Blockchain Software Engineer III",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738307",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210738307",
+    "date": "2026-11-17T09:02:27+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "Singapore, Singapore",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng846"
+  },
+  {
     "id": "8328114",
     "title": "Product Lead, Payments",
     "company": "Stripe",
@@ -3743,6 +4272,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "ops189"
+  },
+  {
+    "id": "gs-oracle-188886",
+    "title": "Asset & Wealth Management-AM Alts Pvt Loan Data Quality-Associate-Bengaluru",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188886",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188886",
+    "date": "2026-11-17T07:25:17+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "qa109"
   },
   {
     "id": "5039776101",
@@ -4238,6 +4790,52 @@
     "slug": "infra88"
   },
   {
+    "id": "gs-oracle-189160",
+    "title": "Executive Office, Global Marketing, Brand Strategy & Governance, Associate, New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189160",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189160",
+    "date": "2026-11-16T20:52:33+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "mkt179"
+  },
+  {
+    "id": "gs-oracle-189159",
+    "title": "Executive Office, Global Marketing, Senior Design Systems Lead, Vice President, New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189159",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189159",
+    "date": "2026-11-16T20:52:05+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "mkt178"
+  },
+  {
     "id": "8394092",
     "title": "University Talent Acquisition Analyst",
     "company": "DRW",
@@ -4251,6 +4849,29 @@
     "salary": "$70k – $90k/yr",
     "dateVerified": true,
     "slug": "rec69"
+  },
+  {
+    "id": "gs-oracle-189161",
+    "title": "Executive Office, Global Marketing, Senior Producer, Live Events - Talks at GS, Vice President, New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/189161",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189161",
+    "date": "2026-11-16T20:32:19+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "mkt175"
   },
   {
     "id": "8383460",
@@ -4279,6 +4900,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls516"
+  },
+  {
+    "id": "jpm-oracle-210809627",
+    "title": "Executive Director, Product Management - Digital Assets",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809627",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809627",
+    "date": "2026-11-16T20:08:00+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm439"
   },
   {
     "id": "5457208008",
@@ -5153,6 +5797,29 @@
     "slug": "eng758"
   },
   {
+    "id": "gs-oracle-188114",
+    "title": "Asset & Wealth Management-Private Bank Underwriting- Associate- Bengaluru",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188114",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188114",
+    "date": "2026-11-16T04:37:08+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso106"
+  },
+  {
     "id": "5019167101",
     "title": "Security Operations Engineer",
     "company": "Bybit",
@@ -5165,6 +5832,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec118"
+  },
+  {
+    "id": "jpm-oracle-210808745",
+    "title": "Payments - Head of Product Solutions Specialists – Financial Institutions Group Asia Pacific - Executive Director",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808745",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210808745",
+    "date": "2026-11-16T02:31:47+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "Singapore, Singapore",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm438"
   },
   {
     "id": "b82ca781-0f57-4598-990e-b722f331a7c6",
@@ -5684,6 +6374,29 @@
     "salary": "$228.7k – $343.1k/yr",
     "dateVerified": true,
     "slug": "eng501"
+  },
+  {
+    "id": "gs-oracle-188879",
+    "title": "Asset & Wealth Management, Alternatives Capital Formation, External Investment Group, Senior Investment Writer, Vice President - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188879",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188879",
+    "date": "2026-11-13T16:13:45+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "wr13"
   },
   {
     "id": "4999807101",
@@ -7974,6 +8687,29 @@
     "slug": "sls290"
   },
   {
+    "id": "gs-oracle-188398",
+    "title": "Asset & Wealth Management, Digital Operations - Management, Associate - Richardson",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188398",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188398",
+    "date": "2026-11-11T16:54:59+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Richardson, TX, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "ops199"
+  },
+  {
     "id": "8304345",
     "title": "Account Executive",
     "company": "Ripple",
@@ -8685,6 +9421,29 @@
     "slug": "sls471"
   },
   {
+    "id": "jpm-oracle-210807518",
+    "title": "Kinexys- GTM Strategy & Business – Senior Associate",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807518",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807518",
+    "date": "2026-11-10T22:33:33+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "LONDON, LONDON, United Kingdom",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso105"
+  },
+  {
     "id": "8265130",
     "title": "Principal Creative Director",
     "company": "Robinhood",
@@ -8698,6 +9457,29 @@
     "salary": "$217k – $255k/yr",
     "dateVerified": true,
     "slug": "gcd"
+  },
+  {
+    "id": "jpm-oracle-210796525",
+    "title": "Senior Lead Software Engineer - Blockchain, Java, Micro Services",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796525",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210796525",
+    "date": "2026-11-10T22:13:16+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "Jersey City, NJ, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng845"
   },
   {
     "id": "5032899101",
@@ -8857,6 +9639,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sec160"
+  },
+  {
+    "id": "jpm-oracle-210806986",
+    "title": "Global Custody - Product Manager – Vice President",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806986",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806986",
+    "date": "2026-11-10T20:44:48+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm437"
   },
   {
     "id": "8374607",
@@ -9360,6 +10165,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls467"
+  },
+  {
+    "id": "gs-oracle-180397",
+    "title": "Global Banking Markets Operations - RIA Custody Broker Ops - Salt Lake City-Vice President",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/180397",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/180397",
+    "date": "2026-11-10T17:31:26+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Salt Lake City, UT, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "ops198"
   },
   {
     "id": "8354752",
@@ -10756,6 +11584,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr240"
+  },
+  {
+    "id": "jpm-oracle-210807283",
+    "title": "Kinexys- GTM Strategy & Business – Senior Associate",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807283",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210807283",
+    "date": "2026-11-09T15:53:34+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso104"
   },
   {
     "id": "4752656005",
@@ -13065,6 +13916,29 @@
     "slug": "sec93"
   },
   {
+    "id": "gs-oracle-166515",
+    "title": "Asset & Wealth Management, Private Family Office, Family Office Advisor, Vice President - Deerfield",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/166515",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/166515",
+    "date": "2026-11-05T20:41:23+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Deerfield, IL, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "awmp3"
+  },
+  {
     "id": "5024527101",
     "title": "Trading Risk Control Lead- Regulated Risk",
     "company": "Bybit",
@@ -13350,6 +14224,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "pfss"
+  },
+  {
+    "id": "gs-oracle-188215",
+    "title": "Asset & Wealth Management - Software Engineering - Vice President - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188215",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188215",
+    "date": "2026-11-05T16:00:42+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng844"
   },
   {
     "id": "3f62d2db-7df1-4ced-8899-bfef37fe2720",
@@ -13990,6 +14887,29 @@
     "slug": "sec151"
   },
   {
+    "id": "gs-oracle-182292",
+    "title": "Marcus by Goldman Sachs, Customer Service Team Leader, Analyst | Draper, UT/Richardson, TX",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/182292",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/182292",
+    "date": "2026-11-04T21:25:32+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Draper, UT, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an158"
+  },
+  {
     "id": "6b94a7ca-6cb2-40b3-b56e-d51f98fbe95a",
     "title": "Financial Crime Manager",
     "company": "Aave Labs",
@@ -14251,6 +15171,29 @@
     "slug": "ops145"
   },
   {
+    "id": "gs-oracle-187452",
+    "title": "Asset & Wealth Management, Private Wealth Management, Goldman Sachs Family Office Accounting and Bill Pay, Analyst -Albany",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187452",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187452",
+    "date": "2026-11-04T17:15:07+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Albany, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "sls550"
+  },
+  {
     "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
     "title": "Compliance Officer",
     "company": "HIFI",
@@ -14266,6 +15209,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "cmp194"
+  },
+  {
+    "id": "gs-oracle-175104",
+    "title": "Private Wealth Management, Business Development Professional, Associate - Washington D.C",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/175104",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/175104",
+    "date": "2026-11-04T17:06:51+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Washington, DC, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "sls549"
   },
   {
     "id": "5473066008",
@@ -14294,6 +15260,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr231"
+  },
+  {
+    "id": "jpm-oracle-210803038",
+    "title": "Payments- Global Advisory Executive Director",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803038",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803038",
+    "date": "2026-11-04T16:33:13+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "paed"
   },
   {
     "id": "5457342008",
@@ -15021,6 +16010,52 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls396"
+  },
+  {
+    "id": "gs-oracle-188216",
+    "title": "Asset & Wealth Management - AM Digital Technology-Bengaluru-Vice President-Software Engineering",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188216",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188216",
+    "date": "2026-11-04T06:39:19+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng843"
+  },
+  {
+    "id": "gs-oracle-188217",
+    "title": "Asset & Wealth Management-AM Web Platform Enablement-Bengaluru-Vice President-Software Engineering",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188217",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188217",
+    "date": "2026-11-04T06:26:34+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng842"
   },
   {
     "id": "8187258003",
@@ -16517,6 +17552,29 @@
     "slug": "sls390"
   },
   {
+    "id": "jpm-oracle-210779937",
+    "title": "Senior Lead Software Engineer - Java, Blockchain",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779937",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210779937",
+    "date": "2026-11-02T21:33:55+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "Jersey City, NJ, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng841"
+  },
+  {
     "id": "8164080003",
     "title": "Account Services Analyst",
     "company": "DriveWealth",
@@ -16806,6 +17864,29 @@
     "slug": "sls387"
   },
   {
+    "id": "gs-oracle-174474",
+    "title": "Asset & Wealth Management, Multi-Asset Solutions: Personalized Portfolios Investment Product Manager (Retirement), Vice President - Chicago",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/174474",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/174474",
+    "date": "2026-11-02T17:30:15+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Chicago, IL, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm436"
+  },
+  {
     "id": "5256ef0f-55d0-4a1f-9696-edd6fe56bf1e",
     "title": "Head of Security",
     "company": "Helius",
@@ -16877,6 +17958,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "cssc2"
+  },
+  {
+    "id": "gs-oracle-187507",
+    "title": "Asset & Wealth Management, Goldman Sachs Trust Company, Estate Associate - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187507",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187507",
+    "date": "2026-11-02T15:26:38+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "rs30"
   },
   {
     "id": "8237635",
@@ -17182,6 +18286,29 @@
     "slug": "mgr127"
   },
   {
+    "id": "gs-oracle-186503",
+    "title": "Asset & Wealth Management-AM Mosaic Technology-Hyderabad-Associate-Software Engineering",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/186503",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186503",
+    "date": "2026-11-02T06:35:31+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hyderabad, Telangana, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng840"
+  },
+  {
     "id": "5024600101",
     "title": "Commercial Strategy & Ops Lead",
     "company": "StraitsX",
@@ -17236,6 +18363,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "cmp98"
+  },
+  {
+    "id": "gs-oracle-187747",
+    "title": "Asset & Wealth Management-PWM WSS Asia- Analyst- Bengaluru",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187747",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187747",
+    "date": "2026-11-02T05:31:08+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an157"
   },
   {
     "id": "5024587101",
@@ -18121,6 +19271,29 @@
     "slug": "pm353"
   },
   {
+    "id": "gs-oracle-186507",
+    "title": "Asset & Wealth Management - Technical Program Manager- Associate - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/186507",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186507",
+    "date": "2026-10-30T15:25:46+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "aso102"
+  },
+  {
     "id": "0f752c3b-418d-43e8-91d3-658d08b5b2c6",
     "title": "Quant Risk Analyst - Derivatives & Clearing",
     "company": "Polymarket",
@@ -18163,6 +19336,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls376"
+  },
+  {
+    "id": "gs-oracle-186494",
+    "title": "Asset & Wealth Management, Marketing - Designer, Associate - Chicago",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/186494",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186494",
+    "date": "2026-10-30T14:40:09+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Chicago, IL, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "mkt174"
   },
   {
     "id": "4725490006",
@@ -18235,6 +19431,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "do23"
+  },
+  {
+    "id": "gs-oracle-187977",
+    "title": "Asset Management Alternatives - Private Credit (ABF) - Vice President - London",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187977",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187977",
+    "date": "2026-10-30T13:30:42+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "London, Greater London, England, United Kingdom",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "amap"
   },
   {
     "id": "8248415",
@@ -18361,6 +19580,52 @@
     "active": true,
     "dateVerified": true,
     "slug": "mkt133"
+  },
+  {
+    "id": "gs-oracle-186502",
+    "title": "Asset & Wealth Management-AM Mosaic Technology-Hyderabad-Vice President-Software Engineering",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/186502",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186502",
+    "date": "2026-10-30T06:53:40+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Hyderabad, Telangana, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng839"
+  },
+  {
+    "id": "gs-oracle-186504",
+    "title": "Asset & Wealth Management-AM Mosaic Technology-Bengaluru-Associate-Software Engineering",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/186504",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186504",
+    "date": "2026-10-30T06:41:12+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Bengaluru, Karnataka, India",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng836"
   },
   {
     "id": "8330815",
@@ -18647,6 +19912,29 @@
     "slug": "coo"
   },
   {
+    "id": "gs-oracle-176984",
+    "title": "Asset & Wealth Management, Wealth Investment Solutions (WIS), Digital Product Manager, Analyst - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/176984",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/176984",
+    "date": "2026-10-29T21:04:01+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "pm432"
+  },
+  {
     "id": "5461961008",
     "title": "Senior Software Engineer, Developer Experience",
     "company": "Block",
@@ -18719,6 +20007,29 @@
     "salary": "$196k – $230k/yr",
     "dateVerified": true,
     "slug": "eng379"
+  },
+  {
+    "id": "jpm-oracle-210788038",
+    "title": "Compliance Risk Management Lead - Payments - Vice President",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788038",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210788038",
+    "date": "2026-10-29T20:25:35+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "New York, NY, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "cmp193"
   },
   {
     "id": "b03b9dc7-9655-4eda-b918-7acd3da2ffb0",
@@ -19042,6 +20353,29 @@
     "slug": "cs14"
   },
   {
+    "id": "jpm-oracle-210789620",
+    "title": "Wires & International Payments - Consumer & Community Banking Control Management - Vice President",
+    "company": "JPMorgan Chase",
+    "link": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789620",
+    "applyUrl": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210789620",
+    "date": "2026-10-29T15:36:15+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [jpm-cx1001]",
+    "location": "Columbus, OH, United States",
+    "type": "Full time",
+    "department": "JPMorgan Chase",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Blockchain",
+      "Digital Assets",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "cm15"
+  },
+  {
     "id": "d2d0a311-b102-4fda-b537-1a8e926b55c7",
     "title": "Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels",
     "company": "Keyrock",
@@ -19085,6 +20419,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "dsps"
+  },
+  {
+    "id": "gs-oracle-186092",
+    "title": "Tax-Zurich-Analyst-Tax Processing",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/186092",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186092",
+    "date": "2026-10-29T15:15:21+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Zurich, Zurich, Switzerland",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an156"
   },
   {
     "id": "8333973",
@@ -19142,6 +20499,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls361"
+  },
+  {
+    "id": "gs-oracle-188063",
+    "title": "Asset & Wealth Management, Private Wealth Management, Wealth Management Professional, Senior Analyst - Miami/West Palm Beach",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/188063",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/188063",
+    "date": "2026-10-29T14:14:20+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Miami, FL, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an155"
   },
   {
     "id": "8326577",
@@ -19230,6 +20610,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "eng362"
+  },
+  {
+    "id": "gs-oracle-186509",
+    "title": "Asset & Wealth Management - Software Engineering - Associate - New York",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/186509",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/186509",
+    "date": "2026-10-29T13:03:35+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng835"
   },
   {
     "id": "3a947740-84c3-43d8-80cb-870399eb637d",
@@ -20280,6 +21683,29 @@
     "slug": "pm161"
   },
   {
+    "id": "gs-oracle-185024",
+    "title": "Senior Quantitative Strategist, Global Banking & Markets, Marquee Portfolio Analytics",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/185024",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185024",
+    "date": "2026-10-28T14:03:48+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "New York, NY, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "tr150"
+  },
+  {
     "id": "e24e55c7-a5dc-40c5-ac58-bd09284ca87e",
     "title": "Staff Site Reliability Engineer - Dev Platform",
     "company": "Kraken",
@@ -20337,6 +21763,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "fgrd"
+  },
+  {
+    "id": "gs-oracle-187609",
+    "title": "Asset & Wealth Management, GS Ayco, Financial Wellness Coach, Analyst - Newport Beach",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187609",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187609",
+    "date": "2026-10-28T13:05:12+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Newport Beach, CA, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an154"
   },
   {
     "id": "4a815740-5d5f-4048-ad3b-98e5fe2d1a3f",
@@ -20901,6 +22350,29 @@
     "slug": "cmp131"
   },
   {
+    "id": "gs-oracle-152248",
+    "title": "AWS Solutions Architect, Global Banking & Markets, Cloud Platform",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/152248",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/152248",
+    "date": "2026-10-27T23:21:39+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Dallas, TX, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "arc49"
+  },
+  {
     "id": "8315962",
     "title": "Risk Operations Associate, Bridge UPO",
     "company": "Stripe",
@@ -21250,6 +22722,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls353"
+  },
+  {
+    "id": "gs-oracle-187610",
+    "title": "Asset & Wealth Management, GS Ayco, Financial Wellness Coach, Analyst - Irving",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187610",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187610",
+    "date": "2026-10-27T17:51:30+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Irving, TX, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "an152"
   },
   {
     "id": "8311071",
@@ -22421,6 +23916,29 @@
     "slug": "sls330"
   },
   {
+    "id": "gs-oracle-185231",
+    "title": "Asset & Wealth Management, Private Wealth Management, Private Wealth Advisor, Vice President, Cincinnati",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/185231",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185231",
+    "date": "2026-10-26T13:34:37+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Cincinnati, OH, United States",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "awmp2"
+  },
+  {
     "id": "8324207",
     "title": "Processing Cost Analyst",
     "company": "Stripe",
@@ -22476,6 +23994,29 @@
     "active": true,
     "dateVerified": true,
     "slug": "sls492"
+  },
+  {
+    "id": "gs-oracle-187226",
+    "title": "Asset & Wealth Management, Private Credit, Structured Corporate Credit (Investment Grade), Managing Director, London",
+    "company": "Goldman Sachs",
+    "link": "https://higher.gs.com/roles/187226",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187226",
+    "date": "2026-10-26T11:37:18+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "London, Greater London, England, United Kingdom",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "awmp"
   },
   {
     "id": "8891159002",
@@ -22962,20 +24503,5 @@
       "datePosted": "2026-10-26"
     },
     "slug": "cf2"
-  },
-  {
-    "id": "a90fe1b2-2af1-4932-9fb5-8950d9697575",
-    "title": "Enterprise Account Executive - Turkish Speaking",
-    "company": "Elliptic",
-    "link": "https://jobs.ashbyhq.com/elliptic/a90fe1b2-2af1-4932-9fb5-8950d9697575",
-    "date": "2026-10-24T13:48:39.463+00:00",
-    "source": "Ashby: Elliptic [Elliptic]",
-    "location": "Hybrid (Frankfurt)",
-    "isRemote": true,
-    "workplaceType": "Hybrid",
-    "department": "Sales",
-    "active": true,
-    "dateVerified": true,
-    "slug": "sls341"
   }
 ]

@@ -274,6 +274,9 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'pwc': 'https://www.pwc.com',
  'pricewaterhousecoopers': 'https://www.pwc.com',
  'franklin-templeton': 'https://www.franklintempleton.com',
+ 'goldman-sachs': 'https://www.goldmansachs.com',
+ 'jpmorgan-chase': 'https://www.jpmorganchase.com',
+ 'jpmorgan': 'https://www.jpmorganchase.com',
  'artemis': 'https://artemis.xyz',
  'safe': 'https://safe.global',
  'orderly': 'https://orderly.network',
@@ -677,6 +680,12 @@ function normalizeCompanyName(name: string): string {
   if (lower.includes('franklin') || lower.includes('templeton')) {
     return 'franklin-templeton';
   }
+  if (lower.includes('goldman')) {
+    return 'goldman-sachs';
+  }
+  if (lower.includes('jpmorgan') || lower === 'jpm' || lower.startsWith('jp morgan')) {
+    return 'jpmorgan-chase';
+  }
   if (lower.startsWith('ritual') || lower.includes('ritual')) {
     return 'ritual';
   }
@@ -723,6 +732,8 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   if (normalized === 'strategy') return 'Strategy';
   if (normalized === 'pwc') return 'PwC';
   if (normalized === 'franklin-templeton') return 'Franklin Templeton';
+  if (normalized === 'goldman-sachs') return 'Goldman Sachs';
+  if (normalized === 'jpmorgan-chase') return 'JPMorgan Chase';
   if (normalized === 'ritual') return 'Ritual';
   if (normalized === 'nomic-foundation') return 'Nomic Foundation';
   if (normalized === 'op-labs' || normalized === 'oplabs') return 'Optimism';

@@ -9,7 +9,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/kamino",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/kamino?includeCompensation=true",
     "officialCareersUrl": "https://kamino.com",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://kamino.com",
       "finalUrl": "https://kamino.com",
@@ -39,7 +39,7 @@
       "bodySha256": "0f81ab49d9534d90431acc82065cf244c36cb0dfad515b6f3969b075d11dc5df",
       "quote": "Kamino is an open source credit and liquidity protocol built on Solana."
     },
-    "note": "Public snapshot monitored. Ashby publishedAt is last publication; matching primary datePosted does not independently prove the original date. Unknown original dates remain quarantined. Evidence: content/sources/kamino-source-audit.json."
+    "note": "Public snapshot monitored. Ashby publishedAt is last publication; matching primary datePosted does not independently prove the original date. Unknown original dates remain quarantined. Evidence: content/sources/kamino-source-audit.json. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Ankr",
@@ -51,7 +51,7 @@
     "boardUrl": "https://ankr-pbc.breezy.hr",
     "apiUrl": null,
     "officialCareersUrl": "https://ankr.com",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://ankr.com",
       "finalUrl": "https://www.ankr.com/",
@@ -70,7 +70,7 @@
       "bodySha256": "dcdf3cf1ff5bf6449bc731a2827c42b4d8359125a0e143c73a53f97026046729",
       "quote": "Ankr | The Fastest Web3 Infrastructure?ProductsSolutions Web3 API Multichain RPC services and Advanced APIScaling Services Launch your dedicated rollup or sidechainStaking Solutions Stake assets or integrate Liquid Stak"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Applied Blockchain",
@@ -175,7 +175,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/Arrakis",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/Arrakis",
     "officialCareersUrl": "https://arrakis.finance/careers",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://arrakis.finance/careers",
       "finalUrl": "https://arrakis.finance/careers",
@@ -194,7 +194,7 @@
       "bodySha256": "3be6d59811d7d157568f6fe20629e7b8d81f44cd40d941b9cedc07da5f4c4639",
       "quote": "Crypto Market Making for Token Issuers | Arrakis Finance SolutionsBlogDocsEnter appContact usContact usSolutionsBlogDocsContact usReportTokenised Equities Report 2026 ReportTokenised Equities Report 2"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Auros",
@@ -206,7 +206,7 @@
     "boardUrl": "https://job-boards.greenhouse.io/aurosglobal",
     "apiUrl": "https://boards-api.greenhouse.io/v1/boards/aurosglobal/jobs?content=true",
     "officialCareersUrl": "https://www.auros.global/careers",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://www.auros.global/careers",
       "finalUrl": "https://www.auros.global/careers",
@@ -225,7 +225,7 @@
       "bodySha256": "67ed0f74e7aca52a1fb8e1da3da4172620c5e96dd8aec192e674cf1bcc71edc2",
       "quote": "gitalMarkets LiquidBuilding next-gen liquidity infrastructure for the crypto economy.Unlock LiquidityWe DriveLiquidityAuros is a global trading firm and liquidity provider.ExploreExplore AurosProprietary TradingRooted in algorithmic precision and powered by advanced tec"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Axiom",
@@ -237,7 +237,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/axiom",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/axiom",
     "officialCareersUrl": "https://axiom.xyz",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://axiom.xyz",
       "finalUrl": "https://www.axiom.xyz/",
@@ -256,7 +256,7 @@
       "bodySha256": "4c31922b338f06fe2051a961ee4520dc9fdd2663dbdb91deeacef52a36cdd410",
       "quote": "Proving scales to 1 GHz on 64 GPUsReal-time proving for EthereumProve Ethereum blocks in less than 10sGeneralityFast and flexible to deployOpenVM's modular architecture maximizes deployment flexibility for developers.Read moreProves any RISC-V programOpenVM makes ZK a b"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Bitaccess",
@@ -392,7 +392,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/Boost",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/Boost",
     "officialCareersUrl": "https://boost.xyz",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://boost.xyz",
       "finalUrl": "https://www.boost.xyz/",
@@ -411,7 +411,7 @@
       "bodySha256": "770993eed81fbb9a65ed0629a8b9a11cd9e0093f5266812b1e954673c0585dc6",
       "quote": "aigns in fourquick and easy steps.STEP 1Create a target actionPick an onchain trigger.Optional allowlists / identity checks.STEP 2Deposit fundsFund from wallet or credit. Rewards can scale with target action amounts.STEP 3Deploy & distributeSurface in Farcaster, World, "
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Bullish",
@@ -454,7 +454,7 @@
     "boardUrl": "https://job-boards.greenhouse.io/dialecticch",
     "apiUrl": "https://boards-api.greenhouse.io/v1/boards/dialecticch/jobs?content=true",
     "officialCareersUrl": "https://dialectic.com/jobs",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://dialectic.com/jobs",
       "finalUrl": "https://dialectic.com/jobs",
@@ -473,7 +473,7 @@
       "bodySha256": "bcc5ad47670cc612668ba08f5fd5db935c18f7b6481a5be88e6ab6bc9e65879c",
       "quote": "Dialectic — Agentic DeFi & AI-Driven YieldDIALECTIC-DIALECTICFundsAtelierCareersEditorial-Dialectic combines machine intelligence with crypto-native primitives to build superior financial compounding machines.DIALECTICPr"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Eco",
@@ -485,7 +485,7 @@
     "boardUrl": "https://job-boards.greenhouse.io/ecoinc",
     "apiUrl": "https://boards-api.greenhouse.io/v1/boards/ecoinc/jobs?content=true",
     "officialCareersUrl": "https://eco.com",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://eco.com",
       "finalUrl": "https://eco.com",
@@ -504,7 +504,7 @@
       "bodySha256": "3bd11e6a9aadc52ce92db71d8784b074f79d10627a7e10a4f105ef888586181d",
       "quote": "Eco: The Stablecoin Network That Makes Money Programmable PlatformCoreRoutes API + CLIOne API for every capabilitySauce SDK (Soon)Fully programmable onchain routing, for failsafe executionCapabilitiesSend & Sw"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Hype",
@@ -547,7 +547,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/injective-labs",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/injective-labs",
     "officialCareersUrl": "https://injectivelabs.org/careers",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://injectivelabs.org/careers",
       "finalUrl": "https://injectivelabs.org/careers/",
@@ -566,7 +566,7 @@
       "bodySha256": "69d432e274f758b407c4073b7308f569ba4c4b932c76f2ff7b007515d402b255",
       "quote": "s is a research and development company focused on creating unmatched Web3 infrastructure and finance solutions. It is one of the core contributors to Injective.Learn About InjectiveJoin the teamInjective Labs is a research and development company focused on creating un"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Institute of Free Technology",
@@ -578,7 +578,7 @@
     "boardUrl": "https://job-boards.greenhouse.io/iftother",
     "apiUrl": "https://boards-api.greenhouse.io/v1/boards/iftother/jobs?content=true",
     "officialCareersUrl": "https://free.technology/jobs",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://free.technology/jobs",
       "finalUrl": "https://free.technology/jobs",
@@ -597,7 +597,7 @@
       "bodySha256": "1bcc49d3bd8a5e0c1420bd6dc63cbb4ef20c122c17bb6f4a541f90eda94b8ed8",
       "quote": "RVICESJOB LISTOpen Vacancies(3)All JobsstatusnimbusLogos StorageLogos BlockchainkeycardotherstatusNo Open PositionsnimbusNo Open PositionsLogos StorageNo Open PositionsLogos BlockchainNo Open PositionskeycardNo Open PositionsotherHead of Business Development - Logos Eco"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "IntellectEU",
@@ -671,7 +671,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/legend-xyz",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/legend-xyz",
     "officialCareersUrl": "https://legend.xyz",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://legend.xyz",
       "finalUrl": "https://legend.xyz",
@@ -690,7 +690,7 @@
       "bodySha256": "b38890093b3aa031e994dbeab701f8e7452497575e198f6d22ef6944c371be2b",
       "quote": "n, Trade, and Borrow, all in one place. Legend brings you the best of onchain finance in one convenient, easy to use experience.FEATURE 03FEATURE 03Always earn the best rate on your USDC.Earn interest on stablecoins and other digital assets with access to market-leading"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Lisk",
@@ -733,7 +733,7 @@
     "boardUrl": "https://job-boards.eu.greenhouse.io/makina",
     "apiUrl": "https://boards-api.greenhouse.io/v1/boards/makina/jobs?content=true",
     "officialCareersUrl": "https://app.makina.finance",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://app.makina.finance",
       "finalUrl": "https://makina.finance/",
@@ -752,7 +752,7 @@
       "bodySha256": "6e2ab1ff62a19c20324720e6352fd02e3e500e5286d49d6bd680eb7e60df517e",
       "quote": "alletMAKINAMakina is the vault infrastructure for institutional-grade onchain strategies.DOCSProtocol DocsOperator DocsCONTACTEmailDiscordXTelegramReport IssueABOUTNewsCareersOperators PortalRecovery NFTLEGALTerms of ServicePrivacy PolicyMiCAR Whitepaper© 2026 Makina®. "
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "N1",
@@ -764,7 +764,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/n1",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/n1",
     "officialCareersUrl": "https://n1.xyz",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://n1.xyz",
       "finalUrl": "https://www.n1.xyz/",
@@ -783,7 +783,7 @@
       "bodySha256": "e42656e6d609acbd8fa7b3c51b995521f7f0795bf9931d81162cfff26b3f7c12",
       "quote": "BlogDocumentationLaunch N1↗ All AssetsAll MarketsOne ChainN1 is an L1 blockchain for global trading. Starting with perpetual futures, from majors to TCGX.[Start Trading ]Traded——Transactions——Trusted byFounders Fund, IMC, GSR, Amber, Kraken, Mirana, dao5, Black PineBett"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Nimbus",
@@ -795,7 +795,7 @@
     "boardUrl": "https://job-boards.greenhouse.io/nimbus",
     "apiUrl": "https://boards-api.greenhouse.io/v1/boards/nimbus/jobs?content=true",
     "officialCareersUrl": "https://nimbus.team/join-us",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://nimbus.team/join-us",
       "finalUrl": "https://nimbus.team/join-us",
@@ -814,7 +814,7 @@
       "bodySha256": "a8187d182b213d4f07a449bf1e27b52502b9aa8211b5c36951282322808b919f",
       "quote": "Nimbus | Light and High-Performing Ethereum Clients Skip to main contentAbout NimbusCommunityGuideBlogJoin Us Light and High Performing Ethereum ClientsRun Nimbus on lightweight devices or enterprise-grade servers with equal ease and p"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Optimism Foundation",
@@ -826,7 +826,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/opfoundation",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/opfoundation",
     "officialCareersUrl": "https://optimism.io/careers",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://optimism.io/careers",
       "finalUrl": "https://optimism.io/careers",
@@ -845,7 +845,7 @@
       "bodySha256": "f366d0f56c46656e381bb2e295800c771b76e4b4f34d41bb5c529d35828179d3",
       "quote": "lowering the barrier to entry for developers and enterprises building onchain. With Optimism’s software - the open source, MIT-licensed OP Stack - we help developers, exchanges, fintechs, and global enterprises launch scalable, secure, and customizable networks and appl"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "QCP Capital",
@@ -888,7 +888,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/quantstamp",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/quantstamp",
     "officialCareersUrl": "https://quantstamp.com/careers",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://quantstamp.com/careers",
       "finalUrl": "https://quantstamp.com/careers",
@@ -907,7 +907,7 @@
       "bodySha256": "ff0e51e81a655b0af3e1075ae4eb3e25cc40838a7a8f3fe6a29a43e86518f5df",
       "quote": "uture of Web3Services Audits & AssessmentsSmart Contract AuditsExpert web3 security assessmentsBlitzAccelerated security reviews for web3 projectsEconomic Exploit AnalysisAnalysis and mitigation of economic attacksPenetration Testing & Infra AuditsWeb3 infrastructure co"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "The Better Money Company",
@@ -919,7 +919,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/bettermoney",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/bettermoney",
     "officialCareersUrl": "https://bettermoney.com",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://bettermoney.com",
       "finalUrl": "https://bettermoney.com",
@@ -938,7 +938,7 @@
       "bodySha256": "3ac3c444cbd8bd2fa3df686083410a4a1a0507b500938c040504c7f3ec34eca9",
       "quote": "Powering the next era of moneyOur clearinghouse connects a fragmented stablecoin landscape with 1:1 fungibility, transparent pricing, and predictable settlement times.Talk to the team Built with leading stablecoin, banking, and fintech partners. ‍Backed by a16zcrypto, B"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Trilitech",
@@ -950,7 +950,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/trilitech",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/trilitech",
     "officialCareersUrl": "https://www.trili.tech/careers",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://www.trili.tech/careers",
       "finalUrl": "https://www.trili.tech/careers",
@@ -969,7 +969,7 @@
       "bodySha256": "61a07b2255a953adde6b0e0edc42416a230a50c95bb01db9166e06d10bb835a3",
       "quote": "rilitech©2026 Trilitech All rights reservedBuilding the future on the Tezos blockchain Pioneering Blockchain Development Our London team is dedicated to showcasing what’s possible on Tezos by supporting and developing ideas that create value and build community on the b"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Usual",
@@ -981,7 +981,7 @@
     "boardUrl": "https://usual.breezy.hr",
     "apiUrl": null,
     "officialCareersUrl": "https://usual.money",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://usual.money",
       "finalUrl": "https://usual.money",
@@ -1000,7 +1000,7 @@
       "bodySha256": "b46ac609cd0b549643f66f427b2aa83f7cd123efb07ef904075a54208b4708bc",
       "quote": "sA secure, decentralized issuer that takes back the value captured by crypto giants, and redistributes it to the community through $USUAL.Access appBy PaladinBy HalbornBy SpearbitBy CantinaBy SherlockRedistributedLoading...Current TVLLoading...DAO TreasuryLoading...Mark"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "VeeFriends",
@@ -1043,7 +1043,7 @@
     "boardUrl": "https://violet.breezy.hr",
     "apiUrl": null,
     "officialCareersUrl": "https://violet.co",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://violet.co",
       "finalUrl": "https://www.violet.co/",
@@ -1062,7 +1062,7 @@
       "bodySha256": "baf12aa2c5fe9cafb29907011255ea1a70343d154fc2af14a74d08159c37a166",
       "quote": "Violet - Compliance & Identity Infrastructure for DeFiDocsViolet AppBlockchain-native compliance infrastructurefor anti-money launderinggeo-blockingsybil resistanceanti-money launderingPrivacy preserving, reusable on-chain compliance.Launch AppTrusted byand an amazing"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "ZenLedger",
@@ -1074,7 +1074,7 @@
     "boardUrl": "https://zenledger.breezy.hr",
     "apiUrl": null,
     "officialCareersUrl": "https://zenledger.io",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://zenledger.io",
       "finalUrl": "https://zenledger.io",
@@ -1093,7 +1093,7 @@
       "bodySha256": "8d97a7de33e5febc817c21870b8d3584951735938ff516a2d4e4c446d45a0ca7",
       "quote": "Best Crypto Tax Software | Simplify Crypto Taxes with ZenLedger Skip to content Sign In Sign Up Pricing Close Pricing Open Pricing Pricing Competitively priced plans to meet your specific trading needs. Ac"
     },
-    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET."
+    "note": "Every imported job requires original date within 30 days and a direct exact-job usable application GET. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "Zircuit",
@@ -1105,7 +1105,7 @@
     "boardUrl": "https://jobs.ashbyhq.com/Zircuit",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/Zircuit",
     "officialCareersUrl": "https://www.zircuit.com/",
-    "status": "recurring",
+    "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://www.zircuit.com/",
       "finalUrl": "https://www.zircuit.com/",
@@ -1124,7 +1124,7 @@
       "bodySha256": "1b04677ece766df1abbb06fa0368da641dd1585763bfc634694f73f613ed0ac4",
       "quote": "rn 8–11% APRZircuit Liquidity HubStake LRTs & LSTs to maximize rewardsBLOCKCHAINBridgeTransfer assets to Zircuit L2ExplorerView transactions and network activityGrantsGet funding to build on ZircuitBlogEcosystemCareersRESOURCESdOCSLaunch AppThe Safe Haven for Onchain Fi"
     },
-    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined."
+    "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },
   {
     "company": "DFNS",

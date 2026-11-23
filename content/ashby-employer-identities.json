@@ -1181,6 +1181,14 @@
     "owner": "Story",
     "website": "https://story.foundation"
   },
+  "ashby:nousresearch": {
+    "companies": [
+      "Nous Research"
+    ],
+    "organizationId": "b8c5086f-facc-4569-8fe9-c54ef68480f2",
+    "owner": "Nous Research",
+    "website": "https://nousresearch.com/"
+  },
   "ashby:mantle": {
     "companies": [
       "Mantle Network",
