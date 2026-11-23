@@ -172707,6 +172707,40 @@
       "attemptId": "1eb0a3a2-a85a-4f7c-bf1f-bb9a4946b9d6",
       "verification": "verified",
       "postId": "0x4f497614deda684043e58740d01a312e1f5b27b3"
+    },
+    {
+      "slug": "pm416",
+      "company": "Bybit",
+      "title": "AI Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T06:41:26.022Z",
+      "expectedText": "Bybit is hiring AI Product Manager\n\nhttps://hashtagweb3.com/pm416/fc?og=7",
+      "snapshot": {
+        "id": "4958451101",
+        "title": "AI Product Manager",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4958451101",
+        "date": "2026-11-17T12:24:23-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Kuala Lumpur, Malaysia",
+        "department": "Central-Hub",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm416"
+      },
+      "payload": {
+        "text": "Bybit is hiring AI Product Manager\n\nhttps://hashtagweb3.com/pm416/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm416/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "89d206e5-eafa-4d07-9ff1-0c68a3489317",
+      "verification": "creating"
     }
   ]
 }
