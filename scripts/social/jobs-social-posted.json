@@ -173616,7 +173616,8 @@
       },
       "account": "channel:growth",
       "attemptId": "8ee506cd-3f44-43a3-9c25-7e92adb8a9aa",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd3d311845dc0cd5cfb3a676979eae6e6697024f4"
     }
   ]
 }
