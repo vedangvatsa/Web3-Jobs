@@ -2739,5 +2739,121 @@
     "slotKey": "2026-11-22:evening",
     "messageId": 156454,
     "sentAt": "2026-11-23T00:25:35.616Z"
+  },
+  "5873df0c-3b74-49eb-9b6a-8efc143c1342": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T06:39:47.079Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "f22640c4-4d4b-4f99-9df6-75772f777a8c",
+          "title": "Compliance Manager (Singapore)",
+          "company": "Coins.ph",
+          "link": "https://jobs.lever.co/coins/f22640c4-4d4b-4f99-9df6-75772f777a8c",
+          "date": "2026-11-10T07:14:36.523Z",
+          "source": "Lever: Coins.ph [coins]",
+          "location": "Hybrid (Singapore)",
+          "workplaceType": "hybrid",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp109"
+        },
+        "key": "f22640c4-4d4b-4f99-9df6-75772f777a8c",
+        "slug": "cmp109",
+        "url": "https://hashtagweb3.com/cmp109?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Coins.ph",
+        "title": "Compliance Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8384434",
+          "title": "Product Manager, Financial Connections",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8384434",
+          "date": "2026-11-17T14:23:05-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "SSF, Seattle, NYC, Chicago, Toronto",
+          "department": "8570 Consumer Network - Eng",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm417"
+        },
+        "key": "8384434",
+        "slug": "pm417",
+        "url": "https://hashtagweb3.com/pm417?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "885f9d6b-9c9d-4720-97e4-14739e1660e9",
+          "title": "Backend Engineer, San Francisco",
+          "company": "Fun.xyz",
+          "link": "https://jobs.lever.co/funxyz/885f9d6b-9c9d-4720-97e4-14739e1660e9",
+          "date": "2026-11-12T17:48:16.514Z",
+          "source": "Lever: Fun.xyz [funxyz]",
+          "location": "Hybrid (San Francisco)",
+          "workplaceType": "hybrid",
+          "department": "Engineering",
+          "salary": "USD 150,000 - USD 300,000 per year",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be123"
+        },
+        "key": "885f9d6b-9c9d-4720-97e4-14739e1660e9",
+        "slug": "be123",
+        "url": "https://hashtagweb3.com/be123?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fun.xyz",
+        "title": "Backend Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5036744101",
+          "title": "Senior Specialist, Business Operations (Fusion)",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5036744101",
+          "date": "2026-11-16T17:25:28-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Vienna, Austria",
+          "department": "Product & Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops184"
+        },
+        "key": "5036744101",
+        "slug": "ops184",
+        "url": "https://hashtagweb3.com/ops184?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Senior Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "4546557f-2ecd-46fe-addd-458f8ab97ee6",
+          "title": "Head of Internal Communications",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/4546557f-2ecd-46fe-addd-458f8ab97ee6",
+          "date": "2026-11-13T21:58:13.808+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote-US",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "People and Culture",
+          "active": true,
+          "dateVerified": true,
+          "slug": "int59"
+        },
+        "key": "4546557f-2ecd-46fe-addd-458f8ab97ee6",
+        "slug": "int59",
+        "url": "https://hashtagweb3.com/int59?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "Head of Internal Communications"
+      }
+    ],
+    "message": "- Coins​.ph is hiring <a href=\"https://hashtagweb3.com/cmp109?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance Manager (Singapore)</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/pm417?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager, Financial Connections</a>\n- Fun​.xyz is hiring <a href=\"https://hashtagweb3.com/be123?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Backend Engineer, San Francisco</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/ops184?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Specialist, Business Operations (Fusion)</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/int59?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Internal Communications</a>",
+    "slotKey": "2026-11-23:morning"
   }
 }
