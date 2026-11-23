@@ -207,7 +207,7 @@
     ],
     "organizationId": "6f0abf3e-9935-44e4-beee-17cd6de73299",
     "owner": "Coinflow",
-    "website": "https://coinflow.cash/"
+    "website": "https://coinflow.cash"
   },
   "ashby:coinhako": {
     "companies": [
@@ -1114,7 +1114,7 @@
     ],
     "organizationId": "8f1bd457-0e30-41c5-8b14-c7757bd3b8b5",
     "owner": "Injective Labs",
-    "website": "https://injectivelabs.org"
+    "website": "https://injective.com/"
   },
   "ashby:legend-xyz": {
     "companies": [
@@ -1174,12 +1174,12 @@
   },
   "ashby:story": {
     "companies": [
-      "Story Protocol",
-      "Story"
+      "Story",
+      "Story Protocol"
     ],
     "organizationId": "91dad1e3-e6fa-4d0c-a03e-b13dbceea012",
     "owner": "Story",
-    "website": "https://story.foundation"
+    "website": "https://story.inc/"
   },
   "ashby:nousresearch": {
     "companies": [
@@ -1208,12 +1208,11 @@
   },
   "ashby:teameigen": {
     "companies": [
-      "EigenLayer",
-      "Eigen Labs"
+      "EigenLayer"
     ],
     "organizationId": "eb8bd57f-ccac-4570-b9c7-3f63523707fc",
     "owner": "Eigen",
-    "website": "https://eigenlayer.xyz"
+    "website": "https://teameigen.com"
   },
   "ashby:stork": {
     "companies": [
@@ -1230,17 +1229,15 @@
     ],
     "organizationId": "340fd637-c3e0-4384-86c5-dd0cf3d0ba17",
     "owner": "Sentient",
-    "website": "https://sentient.foundation"
+    "website": "https://sentient.foundation/"
   },
   "ashby:squads": {
     "companies": [
-      "Squads",
-      "Squads Protocol",
-      "Squads Labs"
+      "Squads"
     ],
     "organizationId": "f78beec5-e51a-416b-93e6-3b4aaec3fa21",
     "owner": "Squads",
-    "website": "https://squads.xyz"
+    "website": "https://squads.xyz/"
   },
   "ashby:pluralis-research": {
     "companies": [
@@ -1275,14 +1272,6 @@
     "owner": "Baton Corporation Ltd",
     "website": "https://pump.fun"
   },
-  "ashby:coinflow": {
-    "companies": [
-      "Coinflow"
-    ],
-    "organizationId": "6f0abf3e-9935-44e4-beee-17cd6de73299",
-    "owner": "Coinflow",
-    "website": "https://coinflow.cash"
-  },
   "ashby:rwa.xyz": {
     "companies": [
       "RWA.xyz"
@@ -1290,5 +1279,189 @@
     "organizationId": "decd89f8-b20c-459b-908c-f72c8e63ec06",
     "owner": "RWA.xyz",
     "website": "https://www.rwa.xyz/"
+  },
+  "ashby:crusoe": {
+    "companies": [
+      "Crusoe"
+    ],
+    "organizationId": "6d4a7f82-d6a9-49b2-be89-11c5308d202e",
+    "owner": "Crusoe",
+    "website": "https://crusoe.ai"
+  },
+  "ashby:velocity": {
+    "companies": [
+      "Velocity"
+    ],
+    "organizationId": "4bd0b737-5a66-48af-bc32-5591a706b476",
+    "owner": "Velocity",
+    "website": "https://www.velocity.xyz"
+  },
+  "ashby:fomo-labs": {
+    "companies": [
+      "Fomo Labs"
+    ],
+    "organizationId": "bc1a3b08-acfc-4517-be40-9b171419c5f3",
+    "owner": "fomo Labs",
+    "website": "https://fomo.family/"
+  },
+  "ashby:sapiom": {
+    "companies": [
+      "Sapiom"
+    ],
+    "organizationId": "dc82cd77-a053-48ad-a637-7451008d310f",
+    "owner": "Sapiom",
+    "website": "https://www.sapiom.ai/"
+  },
+  "ashby:windranger": {
+    "companies": [
+      "Windranger"
+    ],
+    "organizationId": "742e64d4-58b8-4bcd-b93b-673a4e301baf",
+    "owner": "Windranger Labs",
+    "website": "https://windranger.io"
+  },
+  "ashby:entendre": {
+    "companies": [
+      "Entendre"
+    ],
+    "organizationId": "2b17ed5d-c3b7-4b78-964a-4cc58198f23f",
+    "owner": "Entendre",
+    "website": "https://entendre.finance/"
+  },
+  "ashby:hang": {
+    "companies": [
+      "Hang"
+    ],
+    "organizationId": "74892544-55dd-46f9-a86c-7a4040b800c7",
+    "owner": "Hang",
+    "website": "https://www.hang.com/"
+  },
+  "ashby:moderntreasury": {
+    "companies": [
+      "Modern Treasury"
+    ],
+    "organizationId": "5aba4d8e-8b36-4e80-9cc3-431759e95a1d",
+    "owner": "Modern Treasury",
+    "website": "https://www.moderntreasury.com/"
+  },
+  "ashby:inference": {
+    "companies": [
+      "Inference"
+    ],
+    "organizationId": "80724dba-4144-4ea5-9512-11aa9de1dcb7",
+    "owner": "Inference",
+    "website": "https://inference.net/"
+  },
+  "ashby:asymmetric.re": {
+    "companies": [
+      "Asymmetric Research"
+    ],
+    "organizationId": "a7920d81-f9cc-4bd4-b5fe-ab6b82509117",
+    "owner": "asymmetric.re",
+    "website": "http://asymmetric.re"
+  },
+  "ashby:catena": {
+    "companies": [
+      "Catena"
+    ],
+    "organizationId": "69a4ab85-e8d5-48bc-8e09-7ba3ed7fe4f1",
+    "owner": "Catena",
+    "website": "https://catena.com/"
+  },
+  "ashby:asula": {
+    "companies": [
+      "Asula"
+    ],
+    "organizationId": "5bf495ee-208f-41d0-a16e-933dd5d3c6b4",
+    "owner": "Asula Labs",
+    "website": "https://www.asula.xyz/"
+  },
+  "ashby:unto-labs": {
+    "companies": [
+      "Unto Labs"
+    ],
+    "organizationId": "344f32a6-88d3-4bc9-b1f2-e1c8db29afbe",
+    "owner": "Unto Labs",
+    "website": "https://untolabs.com/"
+  },
+  "ashby:commonware": {
+    "companies": [
+      "Commonware"
+    ],
+    "organizationId": "22efc671-fcad-48e8-a0da-149b8b6f6fae",
+    "owner": "Commonware",
+    "website": "https://commonware.xyz/"
+  },
+  "ashby:divineresearch": {
+    "companies": [
+      "Divine Research"
+    ],
+    "organizationId": "f1be9fab-edb6-4788-aa58-f0f89f40e9cc",
+    "owner": "Divine",
+    "website": "https://divine.inc/"
+  },
+  "ashby:nexus.xyz": {
+    "companies": [
+      "Nexus"
+    ],
+    "organizationId": "5da46c7e-e952-4c6d-974f-2029e02c9e02",
+    "owner": "Nexus",
+    "website": "https://www.nexus.xyz/"
+  },
+  "ashby:pluralfinance": {
+    "companies": [
+      "Plural Finance"
+    ],
+    "organizationId": "b0e79526-8b09-4cc3-8014-f1857431a048",
+    "owner": "Plural",
+    "website": "https://www.pluralfinance.com/"
+  },
+  "ashby:raiku": {
+    "companies": [
+      "Raiku"
+    ],
+    "organizationId": "414710eb-8942-4820-bf71-583fa73c49da",
+    "owner": "Raiku",
+    "website": "https://www.raiku.com"
+  },
+  "ashby:sound.xyz": {
+    "companies": [
+      "sound.xyz"
+    ],
+    "organizationId": "9a20ff3f-ed03-4b30-9776-58e9140925be",
+    "owner": "Sound.xyz",
+    "website": "https://www.sound.xyz/"
+  },
+  "ashby:genies": {
+    "companies": [
+      "Genies"
+    ],
+    "organizationId": "2e376ca9-b26f-4cc5-aa44-919f3b1b9c2e",
+    "owner": "Genies",
+    "website": "https://genies.com/"
+  },
+  "ashby:sigp": {
+    "companies": [
+      "Sigma Prime"
+    ],
+    "organizationId": "8c493a0a-fd50-4a9e-a813-91a9841c6bca",
+    "owner": "Sigma Prime",
+    "website": "https://sigmaprime.io/"
+  },
+  "ashby:fin": {
+    "companies": [
+      "Fin"
+    ],
+    "organizationId": "c613eb70-2dfc-4f27-bc76-dd45ddbfbd41",
+    "owner": "Fin",
+    "website": "https://fin.tech"
+  },
+  "ashby:liquid": {
+    "companies": [
+      "Liquid"
+    ],
+    "organizationId": "c947c724-32f5-4373-9001-7a8146bb8201",
+    "owner": "Liquid",
+    "website": "https://liquid.trade"
   }
 }

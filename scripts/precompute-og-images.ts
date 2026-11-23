@@ -424,8 +424,13 @@ async function renderCompanies(
   let skipped = skippedJobs;
 
   let companies = await getCompanies(true);
-  for (const slug of new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)))) {
+  const extraSlugs = new Set([
+    ...Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)),
+    ...Object.keys(JSON.parse(fs.readFileSync(path.join(ROOT, 'content/company-profiles-runtime.json'), 'utf8')) as Record<string, unknown>),
+  ]);
+  for (const slug of extraSlugs) {
     if (companies.some(company => company.slug === slug)) continue;
+    if (!resolveCompanyLogo(slug)) continue;
     const company = await getCompanyBySlug(slug);
     if (company) companies.push(company);
   }

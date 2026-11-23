@@ -616,6 +616,18 @@ async function refreshJobsCache() {
     { board: 'iftother', company: 'Institute of Free Technology' },
     { board: 'makina', company: 'Makina' },
     { board: 'nimbus', company: 'Nimbus' },
+    // --- Web3 batch expansion (+50 employers, Nov 2026) — Greenhouse (12) ---
+    { board: 'jumptrading', company: 'Jump Trading' },
+    { board: 'openfx', company: 'OpenFX' },
+    { board: 'veniceai', company: 'Venice AI' },
+    { board: 'cipherminingtechnologiesinc', company: 'Cipher Mining' },
+    { board: 'fortitudeminingllc', company: 'Fortitude Mining' },
+    { board: 'nomina', company: 'Nomina' },
+    { board: 'socket', company: 'Socket' },
+    { board: 'yuma', company: 'Yuma' },
+    { board: 'parallel', company: 'Parallel' },
+    { board: 'proof', company: 'Proof' },
+    { board: 'aligned', company: 'Aligned' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -736,6 +748,12 @@ async function refreshJobsCache() {
     { board: 'BTSE', company: 'BTSE' },
     // --- Web3 Expansion (Nov 2026, wave 2) ---
     { board: 'kaiko', company: 'Kaiko', apiHost: 'https://api.eu.lever.co' },
+    // --- Web3 batch expansion (+50 employers, Nov 2026) — Lever (5) ---
+    { board: 'caliza-financial-technologies', company: 'Caliza' },
+    { board: 'impossiblecloud', company: 'Impossible Cloud' },
+    { board: 'Hivemapper', company: 'Hivemapper' },
+    { board: 'AkashNetwork', company: 'Akash Network' },
+    { board: 'plume', company: 'Plume Network' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -969,6 +987,35 @@ async function refreshJobsCache() {
     { board: 'mantle', company: 'Mantle Network' },
     { board: 'paradigm', company: 'Paradigm' },
     { board: 'nousresearch', company: 'Nous Research' },
+    // --- Web3 batch expansion (+50 employers, Nov 2026) — Ashby (28) ---
+    { board: 'Crusoe', company: 'Crusoe' },
+    { board: 'velocity', company: 'Velocity' },
+    { board: 'fomo-labs', company: 'Fomo Labs' },
+    { board: 'sapiom', company: 'Sapiom' },
+    { board: 'windranger', company: 'Windranger' },
+    { board: 'entendre', company: 'Entendre' },
+    { board: 'Hang', company: 'Hang' },
+    { board: 'moderntreasury', company: 'Modern Treasury' },
+    { board: 'inference', company: 'Inference' },
+    { board: 'asymmetric.re', company: 'Asymmetric Research' },
+    { board: 'catena', company: 'Catena' },
+    { board: 'asula', company: 'Asula' },
+    { board: 'unto-labs', company: 'Unto Labs' },
+    { board: 'commonware', company: 'Commonware' },
+    { board: 'DivineResearch', company: 'Divine Research' },
+    { board: 'nexus.xyz', company: 'Nexus' },
+    { board: 'pluralfinance', company: 'Plural Finance' },
+    { board: 'raiku', company: 'Raiku' },
+    { board: 'sound.xyz', company: 'sound.xyz' },
+    { board: 'genies', company: 'Genies' },
+    { board: 'sigp', company: 'Sigma Prime' },
+    { board: 'subzero', company: 'Subzero Labs' },
+    { board: 'story', company: 'Story Protocol' },
+    { board: 'squads', company: 'Squads' },
+    { board: 'sentient', company: 'Sentient' },
+    { board: 'fin', company: 'Fin' },
+    { board: 'liquid', company: 'Liquid' },
+    { board: 'teameigen', company: 'EigenLayer' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1433,6 +1480,11 @@ async function refreshJobsCache() {
     { board: 'usual', company: 'Usual' },
     { board: 'violet', company: 'Violet' },
     { board: 'zenledger', company: 'ZenLedger' },
+    // --- Web3 batch expansion (+50 employers, Nov 2026) — Breezy (5) ---
+    { board: 'bitwave', company: 'Bitwave' },
+    { board: 'dex-labs', company: 'DEX Labs' },
+    { board: 'kwil', company: 'Kwil' },
+    { board: 'xrex', company: 'XREX' },
   ];
 
   for (const bz of BREEZY_BOARDS) {

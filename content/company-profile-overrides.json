@@ -4026,64 +4026,64 @@
   "injective-labs": {
     "name": "Injective Labs",
     "website": "https://injective.com/",
-    "description": "Injective Labs is a research and development company building Web3 infrastructure and financial applications. It contributes to the Injective blockchain and products such as the Helix decentralized exchange.",
+    "description": "Injective Labs is a research and development company building Web3 infrastructure and financial applications. It contributes to Injective, a layer 1 blockchain for tokenization, perpetuals, stablecoins, and institutional onchain markets.",
     "published": true,
     "verified": true,
-    "checkedAt": "2026-10-14T15:24:36.063Z",
+    "checkedAt": "2026-11-23T14:51:13.992Z",
     "socialLinks": {
-      "twitter": "https://twitter.com/injectivelabs",
+      "twitter": "https://twitter.com/Injective",
       "linkedin": "https://www.linkedin.com/company/injectivelabs"
     },
     "logo": "/logo/companies/injective-labs.png",
     "provenance": {
       "website": {
-        "url": "https://injectivelabs.org",
-        "checkedAt": "2026-10-14T15:24:36.063Z",
-        "bodySha256": "69d432e274f758b407c4073b7308f569ba4c4b932c76f2ff7b007515d402b255"
+        "url": "https://injective.com",
+        "checkedAt": "2026-11-23T14:51:13.992Z",
+        "bodySha256": "683044968b59f47e0d6ab12d64c414095a3af01f8fc922ec50711b378dbb71d5"
       },
       "about": [
         {
-          "url": "https://injectivelabs.org",
-          "checkedAt": "2026-10-14T15:24:36.063Z",
-          "bodySha256": "69d432e274f758b407c4073b7308f569ba4c4b932c76f2ff7b007515d402b255",
-          "title": "Injective Labs | The New Dawn of Decentralized Finance",
-          "excerpt": "Injective Labs is a research and development company focused on creating unmatched decentralized finance solutions."
+          "url": "https://injective.com",
+          "checkedAt": "2026-11-23T14:51:13.992Z",
+          "bodySha256": "683044968b59f47e0d6ab12d64c414095a3af01f8fc922ec50711b378dbb71d5",
+          "title": "Injective | Layer 1 Blockchain Infrastructure for Finance",
+          "excerpt": "Build on Injective, the layer 1 blockchain infrastructure for tokenization, perpetuals, stablecoins, AI finance, and institutional onchain markets."
         },
         {
-          "url": "https://injectivelabs.org/careers/",
-          "checkedAt": "2026-10-14T15:24:37.452Z",
-          "bodySha256": "7e1dfe10b364a390eca8142dfc6762ff0e0980673b19c7a1738df8e8438a7378",
-          "title": "Injective Labs | The New Dawn of Decentralized Finance",
-          "excerpt": "Injective Labs is a research and development company focused on creating unmatched decentralized finance solutions."
+          "url": "https://injective.com/dev",
+          "checkedAt": "2026-11-23T14:51:13.992Z",
+          "bodySha256": "ad5053614fe1d18515ac25987b143fe3a66a140965c6bae041fa7f1a091db732",
+          "title": "Injective Developer Hub | Build DeFi Apps Onchain",
+          "excerpt": "Build on Injective with docs, SDKs, APIs, native EVM, smart contracts, and blockchain modules for DeFi, tokenization, and onchain institutional finance."
         }
       ],
       "socials": [
         {
           "key": "twitter",
-          "url": "https://twitter.com/injectivelabs",
-          "sourceUrl": "https://injectivelabs.org",
-          "checkedAt": "2026-10-14T15:24:36.063Z",
-          "bodySha256": "69d432e274f758b407c4073b7308f569ba4c4b932c76f2ff7b007515d402b255"
+          "url": "https://twitter.com/Injective",
+          "sourceUrl": "https://injective.com",
+          "checkedAt": "2026-11-23T14:51:13.992Z",
+          "bodySha256": "683044968b59f47e0d6ab12d64c414095a3af01f8fc922ec50711b378dbb71d5"
         },
         {
           "key": "linkedin",
           "url": "https://www.linkedin.com/company/injectivelabs",
-          "sourceUrl": "https://injectivelabs.org",
-          "checkedAt": "2026-10-14T15:24:36.063Z",
-          "bodySha256": "69d432e274f758b407c4073b7308f569ba4c4b932c76f2ff7b007515d402b255"
+          "sourceUrl": "https://injective.com",
+          "checkedAt": "2026-11-23T14:51:13.992Z",
+          "bodySha256": "683044968b59f47e0d6ab12d64c414095a3af01f8fc922ec50711b378dbb71d5"
         }
       ],
       "branding": {
-        "url": "https://injectivelabs.org/logo.svg",
-        "sourceUrl": "https://injectivelabs.org/careers/",
-        "kind": "logo",
-        "finalUrl": "https://injectivelabs.org/logo.svg",
-        "checkedAt": "2026-10-14T15:24:38.017Z",
-        "bodySha256": "b8f7dd8fb58ad08301a6bc576c20a56b28099aa48f347ad08b9bd3461da9e473",
+        "url": "https://injective.com/favicon.ico",
+        "sourceUrl": "https://injective.com",
+        "kind": "favicon",
+        "finalUrl": "https://injective.com/favicon.ico",
+        "checkedAt": "2026-11-23T14:51:13.992Z",
+        "bodySha256": "306f795d8ff820a142747a057ddc5100037fc68084f4b7bfc51ffd1f8d113df8",
         "localPath": "/logo/companies/injective-labs.png",
-        "localSha256": "7edfc66d197b1c1ba6a9d19d5183b30e0a7ac969c5b10f93256bc03b3db2f64c",
-        "width": 198,
-        "height": 19
+        "localSha256": "a950e5efdab2abd87d7dd37ac83f4ff1e7733a5ead64ff06a7fa20d2d54c08b5",
+        "width": 48,
+        "height": 48
       }
     },
     "gaps": []

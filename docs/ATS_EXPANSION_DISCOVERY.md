@@ -41,6 +41,10 @@ Merged **22 recurring expansion sources** that were only ingested via `ingest-we
 
 Also added **Nous Research** (Ashby `nousresearch`) and moved **Mantle** / **Paradigm** from workflow one-shots into the main Ashby list.
 
+## Dec 2026 batch (+50 employers)
+
+Script `scripts/discover-batch-web3-boards.ts` mined corpora for unconfigured boards; `scripts/bootstrap-ashby-identities-batch.ts` pins Ashby org IDs. **50** recurring feeds added to `refresh-jobs-cache.ts` (12 Greenhouse, 5 Lever, 28 Ashby, 5 Breezy). Discovery artifact: `.cache/batch-web3-board-discovery.json`.
+
 ## Backlog (needs manual verification before ingest)
 
 - **Jump Trading** (`greenhouse/jumptrading`, ~86 roles) — distinct from `jumpcrypto`; confirm scope vs Jump Crypto roles.

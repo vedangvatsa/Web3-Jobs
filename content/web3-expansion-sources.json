@@ -539,14 +539,14 @@
   },
   {
     "company": "Injective Labs",
-    "website": "https://injectivelabs.org",
+    "website": "https://injective.com/",
     "country": null,
     "geography": null,
     "provider": "ashby",
     "board": "injective-labs",
     "boardUrl": "https://jobs.ashbyhq.com/injective-labs",
     "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/injective-labs",
-    "officialCareersUrl": "https://injectivelabs.org/careers",
+    "officialCareersUrl": "https://jobs.ashbyhq.com/injective-labs",
     "status": "ingested-via-refresh-jobs-cache",
     "ownership": {
       "url": "https://injectivelabs.org/careers",
@@ -559,12 +559,12 @@
       "kind": "outbound"
     },
     "web3": {
-      "url": "https://injectivelabs.org",
-      "finalUrl": "https://injectivelabs.org",
+      "url": "https://injective.com",
+      "finalUrl": "https://injective.com/",
       "status": 200,
-      "checkedAt": "2026-10-14T11:50:18.845Z",
-      "bodySha256": "69d432e274f758b407c4073b7308f569ba4c4b932c76f2ff7b007515d402b255",
-      "quote": "s is a research and development company focused on creating unmatched Web3 infrastructure and finance solutions. It is one of the core contributors to Injective.Learn About InjectiveJoin the teamInjective Labs is a research and development company focused on creating un"
+      "checkedAt": "2026-11-23T14:50:00.000Z",
+      "bodySha256": "78215771681e8e5ce26cebb43396b2225dd596e69cd3cd88415c805d1f076d72",
+      "quote": "Build on Injective, the layer 1 blockchain infrastructure for tokenization, perpetuals, stablecoins, AI finance, and institutional onchain markets."
     },
     "note": "Public snapshot monitored; publishedAt is republication, never original-date eligibility. Unknown original dates are quarantined. Moved to scripts/refresh-jobs-cache.ts daily refresh (Nov 2026)."
   },

@@ -78,10 +78,6 @@ jobs:
         run: npx tsx scripts/ingest-regional-exchanges.ts
         continue-on-error: true
 
-      - name: Ingest Story Protocol Ashby jobs
-        run: npx tsx scripts/ingest-ashby-board.ts story "Story Protocol"
-        continue-on-error: true
-
       - name: Ingest Blockstream Ashby jobs
         run: npx tsx scripts/ingest-ashby-board.ts blockstream "Blockstream"
         continue-on-error: true
@@ -102,25 +98,14 @@ jobs:
         run: npx tsx scripts/ingest-ashby-board.ts "Hyperliquid Labs" "Hyperliquid Labs"
         continue-on-error: true
 
-      - name: Ingest EigenLayer Ashby jobs
-        run: npx tsx scripts/ingest-ashby-board.ts teameigen "EigenLayer"
-        continue-on-error: true
-
       - name: Ingest Stork Network Ashby jobs
         run: npx tsx scripts/ingest-ashby-board.ts stork "Stork Network"
-        continue-on-error: true
-
-      - name: Ingest Sentient Ashby jobs
-        run: npx tsx scripts/ingest-ashby-board.ts sentient "Sentient"
         continue-on-error: true
 
       - name: Ingest Succinct Labs Ashby jobs
         run: npx tsx scripts/ingest-ashby-board.ts succinct "Succinct Labs"
         continue-on-error: true
 
-      - name: Ingest Squads Ashby jobs
-        run: npx tsx scripts/ingest-ashby-board.ts squads "Squads"
-        continue-on-error: true
 
       - name: Ingest Official CoinDCX job openings
         run: npx tsx scripts/ingest-coindcx-official.ts
