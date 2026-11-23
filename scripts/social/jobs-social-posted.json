@@ -171067,6 +171067,47 @@
       "attemptId": "f0635d6a-ca22-4723-8d30-339b2979d5a3",
       "verification": "verified",
       "postId": "0x41f428bdfe7472581ca8b75f3896373a8c1c62ff"
+    },
+    {
+      "slug": "ops188",
+      "company": "Crypto.com",
+      "title": "Exchange Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-11-23T00:25:41.457Z",
+      "expectedText": "Crypto​.com is hiring Exchange Operations Specialist: https://hashtagweb3.com/ops188/li?og=7",
+      "snapshot": {
+        "id": "04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "title": "Exchange Operations Specialist",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "date": "2026-11-17T05:58:11.961Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (New York)",
+        "workplaceType": "hybrid",
+        "department": "Predictions",
+        "salary": "USD 70,000 - USD 120,000 per year",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops188"
+      },
+      "payload": {
+        "text": "Crypto​.com is hiring Exchange Operations Specialist: https://hashtagweb3.com/ops188/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops188/li?og=7",
+          "title": "Exchange Operations Specialist at Crypto.com",
+          "description": "Join Crypto.com as Exchange Operations Specialist. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops188.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "afa5c0ab-6ab5-447d-93a3-b1bf486bea24",
+      "verification": "creating"
     }
   ]
 }
