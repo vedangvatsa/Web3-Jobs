@@ -313,23 +313,7 @@
     "emails": [
       "press@tether.to",
       "planb@lugano.ch"
-    ],
-    "event": {
-      "id": "premier-planblugano",
-      "slug": "plan",
-      "name": "Plan B Forum Lugano 2026",
-      "description": "Plan B Forum returns to Lugano, the Swiss city that made bitcoin legal tender, for two days of Bitcoin policy, adoption, and technology talks.",
-      "startDate": "2026-10-23T09:00:00.000Z",
-      "endDate": "2026-10-24T18:00:00.000Z",
-      "city": "Lugano",
-      "country": "Switzerland",
-      "location": "Lugano, Switzerland",
-      "url": "https://planb.lugano.ch",
-      "website": "https://planb.lugano.ch",
-      "coverImage": "/events/plan.png",
-      "twitter": null,
-      "source": "curated-premier"
-    }
+    ]
   },
   {
     "name": "Ethereum Cypherpunk Congress Mumbai 2026",

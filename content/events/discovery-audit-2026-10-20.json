@@ -5410,43 +5410,6 @@
       }
     },
     {
-      "id": "mu-316839883",
-      "name": "Crypto Social & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
-      "startDate": "2026-10-24T19:00:00+04:00",
-      "endDate": "2026-10-24T22:00:00+04:00",
-      "timezone": "Asia/Dubai",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
-      "lane": "asia-africa",
-      "reason": "No inventory match for this separately dated Saturday occurrence. Public primary page verifies Dubai and the meetup format, but no exact venue is published. Do not expand the recurring series automatically.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
-          "fetchedAt": "2026-10-20T08:09:20.814Z",
-          "excerpt": "Saturday, Oct 24, 2026; 7:00 PM to 10:00 PM GST. Location: Dubai. Hosted by Ahmed J., Blockchain Dubai. Dubai's Web3 community; blockchain, DeFi, NFTs; developers, founders, NFT creators and collectors. Registration: RSVP on Meetup; Join WhatsApp group. JSON-LD startDate=2026-10-24T19:00:00+04:00; endDate=2026-10-24T22:00:00+04:00; OfflineEventAttendanceMode.",
-          "representation": "Public primary-page copy and JSON-LD; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:51.841Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure-content.meetupstatic.com/images/classic-events/535431839/676x380.jpg",
-        "fetchedAt": "2026-10-20T09:49:53.283Z",
-        "status": 200,
-        "local": "/events/mu-316839883-b4aee5a2.webp",
-        "sourceSha256": "7011f8e3248f62b8ea3777b706e2b2b53683af05b4583a14a4788cd07d7b1ccd",
-        "sha256": "f24e5479e659b6a16fe3367835269202a69ab1faa77231f80b94fd234486b297",
-        "originalWidth": 676,
-        "originalHeight": 380,
-        "width": 676,
-        "height": 380,
-        "bytes": 28322
-      }
-    },
-    {
       "id": "mu-316869344",
       "name": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
       "startDate": "2026-10-26T19:00:00+04:00",
@@ -6201,45 +6164,6 @@
         "width": 1600,
         "height": 1378,
         "bytes": 49852
-      }
-    },
-    {
-      "id": "luma-evt-sAAM7t4xPhiGJtV",
-      "name": "BitGo x Giottus: Crypto Custody in Action",
-      "startDate": "2026-10-24T10:00:00.000Z",
-      "endDate": "2026-10-24T14:00:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-sAAM7t4xPhiGJtV",
-      "url": "https://luma.com/39txuq8y",
-      "lane": "india",
-      "reason": "Existing source luma-evt-sAAM7t4xPhiGJtV matches lu.ma/luma.com URL normalization and event ID. No runtime, hold or tombstone match.",
-      "evidence": [
-        {
-          "url": "https://luma.com/39txuq8y",
-          "fetchedAt": "2026-10-20T08:53:18.934Z",
-          "excerpt": "Giottus secures user funds with BitGo custody. Agenda: introduction to BitGo, Giottus story and partnership, audience Q&A, networking and pizza. start_at 2026-10-24T10:00:00.000Z; end_at 2026-10-24T14:00:00.000Z; Asia/Kolkata; public venue BitGo, Incubex KRM5, 450, 8th Main Rd, 4th Block, Koramangala, Bengaluru 560034; visibility public; require_approval true.",
-          "sha256": "15cf64e4a7e66b3e75a96e5be11bbd6d8a297f2799338fc99a567c46ed71e641",
-          "representation": "HTTP response HTML and public embedded event data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:11.241Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/dn/54b09849-96d4-449f-9c54-f45abb066ebb.png",
-        "fetchedAt": "2026-10-20T09:50:07.728Z",
-        "status": 200,
-        "local": "/events/luma-evt-saam7t4xphigjtv-8abf9367.webp",
-        "sourceSha256": "2440ed68eee41b5fcc8f3097915c3c58ca6f2b26ca24e1a567374a6767eeea01",
-        "sha256": "9179c168b0c7b543efa39ca1a8afaf064405a0dc7b1f2e3f17c124bb45ecb513",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 188642
       }
     },
     {
@@ -9884,12 +9808,6 @@
       "lane": "asia-africa"
     },
     {
-      "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
-      "result": "verified-new",
-      "note": "24 October 2026, 19:00-22:00 GST. Only Dubai is public; venue details require organizer registration. No later recurrences generated.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316869344/",
       "result": "verified-new",
       "note": "26 October 2026, 19:00-22:00 GST. Only Dubai is public; venue details require organizer registration. No later recurrences generated.",
@@ -10721,12 +10639,6 @@
       "url": "https://luma.com/tzvdnkkj",
       "result": "verified-new",
       "note": "MeV Sangam: Ethereum and Solana execution-infrastructure gathering. Public application; off-the-record format disclosed.",
-      "lane": "india"
-    },
-    {
-      "url": "https://luma.com/39txuq8y",
-      "result": "verified-existing-unpublished",
-      "note": "BitGo x Giottus custody session, October 24 in Bengaluru; public approval-required registration.",
       "lane": "india"
     },
     {

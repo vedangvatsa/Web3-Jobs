@@ -1245,21 +1245,6 @@
     "coverImage": "/events/side-denver-solana-coworking-hub-2bd34efe.webp"
   },
   {
-    "id": "side-ibw2026-mip-20",
-    "name": "MIP-20: Road to Devcon",
-    "description": "ETHMumbai community hackathon and workshop session preparing builders for Devcon India. Takes place 24 October 2026 in Mumbai.",
-    "startDate": "2026-10-24T12:00:00.000Z",
-    "endDate": "2026-10-24T14:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://indiablockchainweek.com",
-    "website": "https://indiablockchainweek.com",
-    "source": "curated-premier",
-    "slug": "mip-20-road-to-devcon-2026",
-    "coverImage": "/logo/partners/ibw.png"
-  },
-  {
     "id": "side-ibw2026-pre-vip-night",
     "name": "IBW2026 Pre-Conference VIP Night",
     "description": "Exclusive pre-conference networking VIP night hosted by Hashed Emergent for IBW speakers, founders, and VCs. Takes place 31 October 2026 in Mumbai.",

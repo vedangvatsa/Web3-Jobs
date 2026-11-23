@@ -199,10 +199,6 @@
           "file": "curated-events.json"
         },
         {
-          "id": "side-ibw2026-mip-20",
-          "file": "curated-events.json"
-        },
-        {
           "id": "side-ibw2026-pre-vip-night",
           "file": "curated-events.json"
         },
@@ -492,10 +488,6 @@
       "sourceMatches": [
         {
           "id": "premier-indiabw-2026",
-          "file": "curated-events.json"
-        },
-        {
-          "id": "side-ibw2026-mip-20",
           "file": "curated-events.json"
         },
         {

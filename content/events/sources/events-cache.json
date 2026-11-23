@@ -3390,19 +3390,6 @@
     "month": "November 2026"
   },
   {
-    "id": "w3v-spazio-21",
-    "name": "Spazio 21",
-    "description": "Spazio 21: two days of free Bitcoin talks and hands-on workshops on self-custody, nodes, mining, Lightning, privacy and FOSS.",
-    "startDate": "2026-10-23T10:00:00.000Z",
-    "endDate": "2026-10-24T16:00:00.000Z",
-    "city": "Lugano",
-    "country": "CH",
-    "location": "Lugano, CH",
-    "url": "https://spazio21.com",
-    "coverImage": "/events/w3v-spazio-21-7bc23ed8.webp",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-novus-codex",
     "name": "Novus Codex",
     "description": "Novus Codex: an invite-only Plan ₿ Week vernissage at Artrust featuring a new exhibition by Valentina Picozzi and Andrea Ravo Mattoni.",
@@ -3956,10 +3943,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "October 2026"
   },
   {
     "id": "mu-316802686",
@@ -5290,89 +5274,6 @@
       "addressLocality": "Vancouver",
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
-    }
-  },
-  {
-    "name": "BitGo x Giottus: Crypto Custody in Action",
-    "description": "Giottus's CEO discusses building the Indian crypto exchange and its custody partnership with BitGo. The agenda includes a BitGo introduction, audience Q&A and refreshments. Registration requires host approval.",
-    "startDate": "2026-10-24T10:00:00.000Z",
-    "endDate": "2026-10-24T14:00:00.000Z",
-    "timezone": "Asia/Kolkata",
-    "city": "Bengaluru",
-    "country": "India",
-    "location": "BitGo, Incubex KRM5, Koramangala, Bengaluru, India",
-    "venueName": "BitGo, Incubex KRM5",
-    "streetAddress": "450, 8th Main Road, 4th Block, Koramangala",
-    "addressLocality": "Bengaluru",
-    "addressRegion": "Karnataka",
-    "postalCode": "560034",
-    "addressCountry": "IN",
-    "organizer": {
-      "type": "Organization",
-      "name": "BitGo and Giottus",
-      "url": "https://luma.com/BitGo"
-    },
-    "approvalRequired": true,
-    "locationHidden": false,
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/luma-evt-saam7t4xphigjtv-8abf9367.webp",
-    "sourceVerification": {
-      "url": "https://luma.com/39txuq8y",
-      "eventId": "evt-sAAM7t4xPhiGJtV",
-      "fetchedAt": "2026-10-20T09:31:11.241Z",
-      "method": "luma-page"
-    },
-    "registrationAvailability": "open",
-    "price": "Free",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/39txuq8y",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "hosts": [
-      "Nikhil Bhima"
-    ],
-    "descriptionSource": {
-      "url": "https://luma.com/39txuq8y",
-      "fetchedAt": "2026-10-20T09:31:11.241Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "BitGo x Giottus: Crypto Custody in Action · Luma",
-      "sha256": "6a2c2d234d9f2460365a58cdd4af1ec45591ca68589b9294a92a75d8676a55b9",
-      "evidence": [
-        {
-          "url": "https://luma.com/39txuq8y",
-          "fetchedAt": "2026-10-20T08:53:18.934Z",
-          "sha256": "15cf64e4a7e66b3e75a96e5be11bbd6d8a297f2799338fc99a567c46ed71e641",
-          "retrievedVia": "HTTP response HTML and public embedded event data",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/39txuq8y",
-          "fetchedAt": "2026-10-20T09:31:11.241Z",
-          "sha256": "d218b7a7f724f8811660e72ba2ae76890b20025d24a2ef28eb507125d1db41fa",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "luma-evt-sAAM7t4xPhiGJtV",
-    "url": "https://luma.com/39txuq8y",
-    "registrationUrl": "https://luma.com/39txuq8y",
-    "source": "curated-reviewed",
-    "venueAddressSource": {
-      "checkedAt": "2026-10-20T09:31:11.241Z",
-      "urls": [
-        "https://luma.com/39txuq8y"
-      ],
-      "venueName": "BitGo, Incubex KRM5",
-      "streetAddress": "450, 8th Main Road, 4th Block, Koramangala",
-      "addressLocality": "Bengaluru",
-      "addressCountry": "IN",
-      "location": "BitGo, Incubex KRM5, Koramangala, Bengaluru, India"
     }
   },
   {
@@ -7348,20 +7249,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-HzFFXfcyaPooZzh",
-    "name": "Bitcoin with Coffee #15",
-    "description": "",
-    "startDate": "2026-10-24T17:00:00.000Z",
-    "endDate": "2026-10-24T19:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/gg4pt0vv",
-    "coverImage": "/events/luma-evt-hzffxfcyapoozzh-9fba184b.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-7K5olBFMiITj6gW",
     "name": "Bitcoin Basics (101): A Bitcoiner’s Journey",
     "description": "",
@@ -7636,7 +7523,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -7929,34 +7819,6 @@
     "location": "Chicago, United States",
     "url": "https://lu.ma/clsw8t57",
     "coverImage": "/events/luma-evt-xkvemq58zkdxg7y-ec29b94f.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-002h4RDHfEYLEvM",
-    "name": "Company Brain Buildathon",
-    "description": "",
-    "startDate": "2026-10-24T08:00:00.000Z",
-    "endDate": "2026-10-24T16:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/a5yfh2ve",
-    "coverImage": "/events/luma-evt-002h4rdhfeylevm-3f4e482c.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-17TJYlTVbCBHOWN",
-    "name": "Strongwoman . QueerStrong with Ben Savin - A Liftover",
-    "description": "",
-    "startDate": "2026-10-24T14:30:00.000Z",
-    "endDate": "2026-10-24T17:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/bo93n2wq",
-    "coverImage": "/events/luma-evt-17tjyltvbcbhown-d9e0a78c.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -9729,7 +9591,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -10285,10 +10150,7 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "luma-evt-K5mpQKsNcBa8gWI",
@@ -10403,10 +10265,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/317065000/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-317065042",
@@ -10420,10 +10279,7 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317065042/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-317234011",
@@ -10521,10 +10377,7 @@
     "url": "https://www.meetup.com/lfdt-chicago/events/317065030/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316858413",
@@ -11044,10 +10897,7 @@
     "url": "https://www.meetup.com/lfdt-austin/events/317065012/",
     "coverImage": "/events/mu-317065012-62d567f1.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "mu-316913789",
@@ -15240,10 +15090,7 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/317065004/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "eb-1979667971193",
@@ -17860,7 +17707,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -18868,10 +18715,7 @@
     "url": "https://www.meetup.com/lfdt-oregon/events/317065057/",
     "coverImage": "/events/mu-317065057-7b0cdf1d.webp",
     "source": "meetup",
-    "month": "November 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "November 2026"
   },
   {
     "id": "eb-2003415315138",
@@ -19073,15 +18917,15 @@
     "id": "luma-evt-DkUQgSCZ9L6oy42",
     "name": "Real Wealth, Real Impact: Web3, Crypto & AI CryptoMondays Austin × Media of Society",
     "description": "",
-    "startDate": "2026-11-24T00:00:00.000Z",
-    "endDate": "2026-11-24T03:00:00.000Z",
+    "startDate": "2026-12-01T00:00:00.000Z",
+    "endDate": "2026-12-01T03:00:00.000Z",
     "city": "Austin",
     "country": "United States",
     "location": "Austin, United States",
     "url": "https://lu.ma/82cya82n",
-    "coverImage": "/events/luma-evt-dkuqgscz9l6oy42-168fffcf.webp",
+    "coverImage": "/events/luma-evt-dkuqgscz9l6oy42-e4053f9d.webp",
     "source": "luma",
-    "month": "November 2026"
+    "month": "December 2026"
   },
   {
     "id": "luma-evt-HTsLDg5t7F8BEHw",
@@ -20755,7 +20599,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/317292735/",
-    "coverImage": "/events/mu-317292735-a00a3a6b.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -22645,10 +22489,7 @@
     "url": "https://www.meetup.com/lfdt-sf/events/317272171/",
     "coverImage": "/events/mu-317272171-fe54e7a8.webp",
     "source": "meetup",
-    "month": "December 2026",
-    "speakers": [
-      "Daniel Szego"
-    ]
+    "month": "December 2026"
   },
   {
     "id": "luma-evt-ZLZd2m148fItjGX",
@@ -23753,7 +23594,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/chicago-options-trading-group/events/317454522/",
-    "coverImage": "/events/mu-317454522-9aaf1b90.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -24479,5 +24320,203 @@
     "coverImage": "/events/eb-2004585065894-f890b2cc.webp",
     "source": "eventbrite",
     "month": "January 2027"
+  },
+  {
+    "id": "luma-evt-XNtySCMQb58w1Qp",
+    "name": "Exclusive Berlin CFO Breakfast by Unicorn Bakery x Zebra Embassy x Insight Tax",
+    "description": "",
+    "startDate": "2026-11-25T07:30:00.000Z",
+    "endDate": "2026-11-25T10:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/cfo-nov-ber",
+    "coverImage": "/events/luma-evt-xntyscmqb58w1qp-f96dc6a7.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-gm-bkk-we-chat-we-pray-26-1795426402800",
+    "name": "gm BKK: We Chat, We Pray ",
+    "description": "gm BKK: We Chat, We Pray: a Bangkok temple meetup by 0xJeff during Binance Blockchain Week with blessings, meditation, temple exploration and crypto community conversation.",
+    "startDate": "2026-11-26T06:30:00.000Z",
+    "endDate": "2026-11-26T08:30:00.000Z",
+    "city": "Bangkok",
+    "country": "TH",
+    "location": "Bangkok, TH",
+    "url": "https://luma.com/nd4s3qes",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-integral-x-atfx-connect--crypto-conversations-networking-drinks",
+    "name": "Integral x ATFX Connect | Crypto Conversations: Networking Drinks",
+    "description": "Crypto Conversations: a Sydney networking evening for institutional traders, digital asset firms, brokers, funds and payments companies ahead of the Australia Crypto Conference.",
+    "startDate": "2026-11-26T07:00:00.000Z",
+    "endDate": "2026-11-26T10:00:00.000Z",
+    "city": "Sydney",
+    "country": "AU",
+    "location": "Sydney, AU",
+    "url": "https://luma.com/rzlwq5ax",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-binance-x-cryptocon-official-opening-night-event",
+    "name": "Binance X CryptoCon Official Opening Night Event ",
+    "description": "Binance X CryptoCon Official Opening Night Event: the official CryptoCon Sydney pre-party by Binance Australia and CryptoCon at Circular Quay.",
+    "startDate": "2026-11-27T07:00:00.000Z",
+    "endDate": "2026-11-27T10:00:00.000Z",
+    "city": "The Rocks",
+    "country": "AU",
+    "location": "The Rocks, AU",
+    "url": "https://luma.com/cryptocon-binance",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-R5qN23jl6DpcrBC",
+    "name": "SuperteamTR x Dev3pack: University Hackathon Istanbul Demo Day ⚡️",
+    "description": "",
+    "startDate": "2026-11-28T09:00:00.000Z",
+    "endDate": "2026-11-28T13:00:00.000Z",
+    "city": "Beyoğlu",
+    "country": "Türkiye",
+    "location": "Beyoğlu, Türkiye",
+    "url": "https://luma.com/k3poj4vb",
+    "coverImage": "/events/luma-host-evt-evt-r5qn23jl6dpcrbc-478a4d40.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-NOfTU0WNtBSpMpR",
+    "name": "SuperteamTR x Dev3pack: University Hackathon Bursa Demo Day ⚡️",
+    "description": "",
+    "startDate": "2026-11-29T09:00:00.000Z",
+    "endDate": "2026-11-29T13:00:00.000Z",
+    "city": "Osmangazi̇",
+    "country": "Türkiye",
+    "location": "Osmangazi̇, Türkiye",
+    "url": "https://luma.com/5ultysfh",
+    "coverImage": "/events/luma-host-evt-evt-noftu0wntbspmpr-e15d0a06.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-whitebit-au-vintage-darts-night",
+    "name": "WhiteBIT AU Vintage Darts Night",
+    "description": "WhiteBIT AU Vintage Darts Night: a private Australian Crypto Convention side event in Sydney with institutional networking, drinks and a vintage darts tournament.",
+    "startDate": "2026-11-29T05:00:00.000Z",
+    "endDate": "2026-11-29T07:00:00.000Z",
+    "city": "The Rocks",
+    "country": "AU",
+    "location": "The Rocks, AU",
+    "url": "https://luma.com/8llbdwet",
+    "coverImage": null,
+    "month": "November 2026"
+  },
+  {
+    "id": "w3v-further-network-summit-adfw-26-12-07",
+    "name": "Further Network Summit 2026",
+    "description": "Further Network Summit 2026 [ADFW]: Institutional digital assets summit on the ADCB Stage in Abu Dhabi, December 7, 2026.",
+    "startDate": "2026-12-07T09:30:00.000Z",
+    "endDate": "2026-12-07T13:00:00.000Z",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://luma.com/further-network-summit-2026",
+    "coverImage": "/events/w3v-further-network-summit-adfw-26-12-07-c18897ca.webp",
+    "month": "December 2026"
+  },
+  {
+    "id": "w3v-gps-lps-cocktail-hour-adfw-abu-26-12-08",
+    "name": "GPs & LPs Cocktail Hour ✨ ADFW - Abu Dhabi",
+    "description": "GPs & LPs Cocktail Hour ✨ ADFW - Abu Dhabi: A December 8, 2026 cocktail meetup for Web3 GPs and LPs in Abu Dhabi with free admission.",
+    "startDate": "2026-12-08T11:00:00.000Z",
+    "endDate": "2026-12-08T13:00:00.000Z",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://luma.com/t3f7he2d",
+    "coverImage": "/events/w3v-gps-lps-cocktail-hour-adfw-abu-26-12-08-d6e37256.webp",
+    "month": "December 2026"
+  },
+  {
+    "id": "w3v-institutional-house-where-rwas-stablecoins-ai-26-12-08",
+    "name": "THE INSTITUTIONAL HOUSE: Where RWAs, Stablecoins & AI Meet Onchain Liquidity | During Abu Dhabi Finance Week",
+    "description": "THE INSTITUTIONAL HOUSE: Where RWAs, Stablecoins & AI Meet Onchain Liquidity | During Abu Dhabi Finance Week: A side event on onchain liquidity.",
+    "startDate": "2026-12-08T13:00:00.000Z",
+    "endDate": "2026-12-08T14:00:00.000Z",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://luma.com/jzfgm9zm",
+    "coverImage": "/events/w3v-institutional-house-where-rwas-stablecoins-ai--76ed8127.webp",
+    "month": "December 2026"
+  },
+  {
+    "id": "w3v-private-dinner-nsureai-26-12-08",
+    "name": "Private Dinner by nSureAI",
+    "description": "Private Dinner by nSureAI: a December 8, 2026 dinner for payments and digital asset leaders at La Cava in Abu Dhabi.",
+    "startDate": "2026-12-08T15:00:00.000Z",
+    "endDate": "2026-12-08T19:00:00.000Z",
+    "city": "أبو ظبي",
+    "country": "AE",
+    "location": "أبو ظبي, AE",
+    "url": "https://luma.com/PrivateDinnerbynSureAI",
+    "coverImage": "/events/w3v-private-dinner-nsureai-26-12-08-151a8eb6.webp",
+    "month": "December 2026"
+  },
+  {
+    "id": "w3v-dawn-26-12-09",
+    "name": "The Dawn",
+    "description": "The Dawn: a breakfast side event in Abu Dhabi on 9 December 2026 on institutional capital moving onchain and emerging markets.",
+    "startDate": "2026-12-09T04:30:00.000Z",
+    "endDate": "2026-12-09T07:30:00.000Z",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://luma.com/The-Dawn",
+    "coverImage": "/events/w3v-dawn-26-12-09-33989971.webp",
+    "month": "December 2026"
+  },
+  {
+    "id": "w3v-solana-afternoon-soir-e-26-12-09",
+    "name": "Solana Afternoon Soirée",
+    "description": "Solana Afternoon Soirée: A private, invite-only side event for finance, tech and digital asset leaders in Abu Dhabi on December 9.",
+    "startDate": "2026-12-09T11:00:00.000Z",
+    "endDate": "2026-12-09T14:00:00.000Z",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://luma.com/SolanaAfternoonSoireeADFW",
+    "coverImage": "/events/w3v-solana-afternoon-soir-e-26-12-09-812aa62a.webp",
+    "month": "December 2026"
+  },
+  {
+    "id": "w3v-majlis-26-12-09",
+    "name": "The Majlis",
+    "description": "The Majlis: A networking dinner in Abu Dhabi on 9 December 2026 for senior leaders across capital, policy and digital assets.",
+    "startDate": "2026-12-09T14:00:00.000Z",
+    "endDate": "2026-12-09T18:00:00.000Z",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://luma.com/The-Majlis",
+    "coverImage": "/events/w3v-majlis-26-12-09-ddd3f436.webp",
+    "month": "December 2026"
+  },
+  {
+    "id": "w3v-longitude-abu-dhabi-26-12-10",
+    "name": "LONGITUDE 2026 Abu Dhabi",
+    "description": "LONGITUDE 2026 Abu Dhabi: An invitation-only Cointelegraph gathering for senior Web3 and institutional leaders on December 10, 2026.",
+    "startDate": "2026-12-10T12:00:00.000Z",
+    "endDate": "2026-12-10T17:00:00.000Z",
+    "city": "Abu Dhabi",
+    "country": "AE",
+    "location": "Abu Dhabi, AE",
+    "url": "https://luma.com/0199ner6",
+    "coverImage": "/events/w3v-longitude-abu-dhabi-26-12-10-eb2d9ace.webp",
+    "month": "December 2026"
   }
 ]

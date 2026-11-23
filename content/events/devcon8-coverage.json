@@ -620,13 +620,6 @@
         },
         {
           "file": "curated-events.json",
-          "id": "side-ibw2026-mip-20",
-          "name": "MIP-20: Road to Devcon",
-          "startDate": "2026-10-24T12:00:00.000Z",
-          "endDate": "2026-10-24T14:00:00.000Z"
-        },
-        {
-          "file": "curated-events.json",
           "id": "side-ibw2026-pre-vip-night",
           "name": "IBW2026 Pre-Conference VIP Night",
           "startDate": "2026-10-31T19:00:00.000Z",

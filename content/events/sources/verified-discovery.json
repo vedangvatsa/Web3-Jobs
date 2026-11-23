@@ -4010,45 +4010,6 @@
     "source": "curated-reviewed"
   },
   {
-    "name": "Crypto Social & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
-    "description": "Blockchain Dubai hosts an informal social meetup for its Web3 community, including developers, founders and NFT creators. Discussion areas listed by the organizer include DeFi, tokenized assets and blockchain applications. Guests must RSVP on Meetup and follow the organizer's registration instructions for venue details. The public page identifies only Dubai.",
-    "startDate": "2026-10-24T19:00:00+04:00",
-    "endDate": "2026-10-24T22:00:00+04:00",
-    "timezone": "Asia/Dubai",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "location": "Dubai, United Arab Emirates",
-    "organizer": {
-      "type": "Organization",
-      "name": "Blockchain Dubai",
-      "url": "https://www.meetup.com/blockchain-workshop-dubai/"
-    },
-    "locationHidden": true,
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/mu-316839883-b4aee5a2.webp",
-    "descriptionSource": {
-      "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
-      "fetchedAt": "2026-10-20T09:30:51.841Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Crypto Social & Networking Night: Web3, AI, Blockchain, DeFi, NFTs, Sat, Oct 24, 2026, 7:00 PM   | Meetup",
-      "sha256": "1c5e3fada5c6d93857743299a47bcfdb27b2ffdda501465358579cc480311a2d",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
-          "fetchedAt": "2026-10-20T09:30:51.841Z",
-          "sha256": "cf04fcb678d61766a543f6d627e7816f0ee894ac88347861026bd97d585faf13",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "mu-316839883",
-    "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
-    "registrationUrl": "https://www.meetup.com/blockchain-workshop-dubai/events/316839883/",
-    "source": "curated-reviewed"
-  },
-  {
     "name": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
     "description": "Blockchain Dubai hosts a coffee meetup for people working with Web3, DeFi, NFTs and tokenized assets. The format is informal conversation rather than a published talk programme. Guests must RSVP on Meetup and follow the organizer's registration instructions for venue details. The public page identifies only Dubai.",
     "startDate": "2026-10-26T19:00:00+04:00",

@@ -150,18 +150,6 @@ Five areas are planned: a Learning Zone for sessions and master classes; an Exhi
 
 The page advertises a Visitor Pass at INR 199, a General Pass at INR 499 and a General plus War Room Access Pass at INR 999. All three include two-day conference and networking-area access. The General tiers include food and beverages; the highest tier adds War Room access. Ticket purchases are non-refundable under the published policy.
 
-<a id="event-0957e54fece99aba"></a>
-
-## MIP-20: Road to Devcon
-
-- Record: `side-ibw2026-mip-20`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-24T12:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://indiablockchainweek.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-eb7cdf47df970274"></a>
 
 ## HackMeridian 2026
@@ -3402,22 +3390,6 @@ Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder,
 ### About the event
 
 OpenBuild and ETHTAO host a hackathon build and demo day on October 24, followed by the main conference on October 25. Tracks cover agent infrastructure and onchain payments, ZK/FHE privacy, and verifiable AI. The organizer says program details remain subject to confirmation. Register to receive the venue address; selected evening sessions are invitation-only.
-
-<a id="event-42791a14b4cba813"></a>
-
-## Crypto Social & Networking Night: Web3, AI, Blockchain, DeFi, NFTs
-
-- Record: `mu-316839883`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-24T19:00:00+04:00
-- Description: Source-backed
-- Original page: <https://www.meetup.com/blockchain-workshop-dubai/events/316839883/>
-
-### About the event
-
-Blockchain Dubai hosts an informal social meetup for its Web3 community, including developers, founders and NFT creators. Discussion areas listed by the organizer include DeFi, tokenized assets and blockchain applications. Guests must RSVP on Meetup and follow the organizer's
-
-registration instructions for venue details. The public page identifies only Dubai.
 
 <a id="event-1a642738c94d4e6c"></a>
 
@@ -18822,27 +18794,28 @@ Crypto
 
 ### About the event
 
-TORONTO BLOCKCHAIN WEEK 2026 November 24-25, 2026
+Toronto Blockchain Week 2026 is one of Canada's premier gatherings for digital assets, institutional finance, and Web3 technology, taking place November 24-25, 2026 in Toronto, Ontario. Over two days, the summit unites leaders from finance, government, policy, blockchain infrastructure, and venture capital.
 
-Toronto, Canada Two days. Two flagship events.
+### Tuesday, November 24 - Digital Asset Summit
 
-One of Canada's biggest conversations about the future of digital assets and technology. Toronto Blockchain Week brings together leaders from finance, government, policy, blockchain, digital assets, technology and venture capital for two days of conversations, connections and opportunities in Toronto. From institutional adoption and the future of financial markets to the founders and technologies building what's next, this is where Canada's digital asset industry comes together.
+- **Time:** 9:00 AM - 5:00 PM EST
+- **Focus:** A full-day summit bringing together decision-makers from government, financial institutions, capital markets, and the digital asset industry.
+- **Key Themes:** Stablecoin adoption, real-world asset (RWA) tokenization, regulatory frameworks, cross-border payments, and institutional market infrastructure.
 
-### DIGITAL ASSET SUMMIT TORONTO 9:00 AM - 5:00 PM
+### Tuesday Evening - VIP Executive Dinner
 
-Toronto A full day bringing together decision-makers from government, financial institutions, capital markets and the digital asset industry. Conversations will cover stablecoins, tokenization, regulation, payments, capital markets, digital asset infrastructure and institutional adoption.
+- **Audience:** An exclusive evening for speakers, sponsors, institutional investors, and ecosystem executives to connect and discuss strategic market initiatives.
+- **Access:** Included with VIP conference passes.
 
-### TUESDAY EVENING
+### Wednesday, November 25 - Build The Future Canada
 
-VIP DINNER An exclusive evening for speakers, sponsors, investors, executives and industry leaders. A chance to connect beyond the conference and continue the conversations that matter. Included with VIP tickets.
+- **Time:** 9:00 AM - 5:00 PM EST
+- **Focus:** A dedicated builder day shifting the spotlight to the founders, protocol engineers, and developers creating next-generation architectures.
+- **Key Themes:** Blockchain infrastructure, on-chain AI agents, DeFi protocols, smart contract security, and venture capital financing for early-stage Web3 startups.
 
-### BUILD THE FUTURE CANADA 9:00 AM - 5:00 PM
+### Why Attend
 
-Toronto Day two shifts the spotlight to the people and companies building the future. Founders, developers, investors, entrepreneurs and technology leaders come together to explore blockchain infrastructure, AI, DeFi, payments, tokenization, startups, venture capital and emerging technology. A day focused on innovation, new ideas, meaningful connections and the opportunities ahead
-
-BE PART OF TORONTO BLOCKCHAIN WEEK 2026 Two days bringing together the people shaping Canada's financial and technological future. Whether you're building, investing, leading, or exploring what's next, Toronto is where you want to be this November. November 24-25, 2026
-
-Toronto Speakers, partners, venues and additional programming will be announced soon. Secure your ticket and join us.
+Toronto Blockchain Week provides an essential forum for builders, institutional investors, and policymakers navigating Canada's evolving digital financial landscape. Attendees gain direct access to regulatory dialogues, high-signal developer networking, and emerging technology showcases across Canadian and global ecosystems.
 
 <a id="event-54978bdb704a8eb3"></a>
 
@@ -29417,46 +29390,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-b6fcd3081282a07c"></a>
-
-## Spazio 21
-
-- Record: `w3v-spazio-21`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-23T10:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://spazio21.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-53ad37a5c25fe346"></a>
-
-## Company Brain Buildathon
-
-- Record: `luma-evt-002h4RDHfEYLEvM`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T08:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/a5yfh2ve>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-4118109ff03985a5"></a>
-
-## BitGo x Giottus: Crypto Custody in Action
-
-- Record: `luma-evt-sAAM7t4xPhiGJtV`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/39txuq8y>
-
-### About the event
-
-Giottus's CEO discusses building the Indian crypto exchange and its custody partnership with BitGo. The agenda includes a BitGo introduction, audience Q&A and refreshments.
-
-Registration requires host approval.
-
 <a id="event-e081fa7d214bd7c2"></a>
 
 ## AI & Fintech XRPL Hackathon in New York
@@ -29537,18 +29470,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-3661ceaa81c5ff76"></a>
-
-## Strongwoman . QueerStrong with Ben Savin - A Liftover
-
-- Record: `luma-evt-17TJYlTVbCBHOWN`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T14:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/bo93n2wq>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-0852e26df3b13901"></a>
 
 ## Novus Codex
@@ -29570,18 +29491,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-24T15:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/p4mthvry>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-bac35965af305915"></a>
-
-## Bitcoin with Coffee #15
-
-- Record: `luma-evt-HzFFXfcyaPooZzh`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/gg4pt0vv>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -41480,18 +41389,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-81249352f6fb13cc"></a>
-
-## Real Wealth, Real Impact: Web3, Crypto & AI CryptoMondays Austin × Media of Society
-
-- Record: `luma-evt-DkUQgSCZ9L6oy42`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-24T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/82cya82n>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-12f999e5d297aa09"></a>
 
 ## Tuesday Build Club
@@ -41571,10 +41468,33 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-13WH0lUCgcznSeW`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-24T14:00:00.000Z
-- Description: Missing
+- Description: Source-backed
 - Original page: <https://lu.ma/blockchainweekto>
 
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+### About the event
+
+Toronto Blockchain Week 2026 is one of Canada's premier gatherings for digital assets, institutional finance, and Web3 technology, taking place November 24-25, 2026 in Toronto, Ontario. Over two days, the summit unites leaders from finance, government, policy, blockchain infrastructure, and venture capital.
+
+### Tuesday, November 24 - Digital Asset Summit
+
+- **Time:** 9:00 AM - 5:00 PM EST
+- **Focus:** A full-day summit bringing together decision-makers from government, financial institutions, capital markets, and the digital asset industry.
+- **Key Themes:** Stablecoin adoption, real-world asset (RWA) tokenization, regulatory frameworks, cross-border payments, and institutional market infrastructure.
+
+### Tuesday Evening - VIP Executive Dinner
+
+- **Audience:** An exclusive evening for speakers, sponsors, institutional investors, and ecosystem executives to connect and discuss strategic market initiatives.
+- **Access:** Included with VIP conference passes.
+
+### Wednesday, November 25 - Build The Future Canada
+
+- **Time:** 9:00 AM - 5:00 PM EST
+- **Focus:** A dedicated builder day shifting the spotlight to the founders, protocol engineers, and developers creating next-generation architectures.
+- **Key Themes:** Blockchain infrastructure, on-chain AI agents, DeFi protocols, smart contract security, and venture capital financing for early-stage Web3 startups.
+
+### Why Attend
+
+Toronto Blockchain Week provides an essential forum for builders, institutional investors, and policymakers navigating Canada's evolving digital financial landscape. Attendees gain direct access to regulatory dialogues, high-signal developer networking, and emerging technology showcases across Canadian and global ecosystems.
 
 <a id="event-d055cc96ff63850f"></a>
 
@@ -42046,6 +41966,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-12004503ed5ad28d"></a>
+
+## Exclusive Berlin CFO Breakfast by Unicorn Bakery x Zebra Embassy x Insight Tax
+
+- Record: `luma-evt-XNtySCMQb58w1Qp`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T07:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/cfo-nov-ber>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-f129a4981e02451d"></a>
 
 ## DeAI Summit 2026
@@ -42454,6 +42386,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-45c1539a21078791"></a>
+
+## gm BKK: We Chat, We Pray
+
+- Record: `w3v-gm-bkk-we-chat-we-pray-26-1795426402800`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T06:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/nd4s3qes>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2e0fc01a48c0897f"></a>
+
+## Integral x ATFX Connect \| Crypto Conversations: Networking Drinks
+
+- Record: `w3v-integral-x-atfx-connect--crypto-conversations-networking-drinks`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T07:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/rzlwq5ax>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0ec9e2a50b6bf21e"></a>
 
 ## Bitcoin Minors Connect
@@ -42855,6 +42811,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T07:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/oxb68ixr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-747b06065c86c52e"></a>
+
+## Binance X CryptoCon Official Opening Night Event
+
+- Record: `w3v-binance-x-cryptocon-official-opening-night-event`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T07:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/cryptocon-binance>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -43480,6 +43448,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-31d13e417dc2006f"></a>
+
+## SuperteamTR x Dev3pack: University Hackathon Istanbul Demo Day ⚡️
+
+- Record: `luma-host-evt-evt-R5qN23jl6DpcrBC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-28T09:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/k3poj4vb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ef1c799c47e6cb15"></a>
 
 ## AI Meets RWA: The Real-World Shift
@@ -43612,6 +43592,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e95581bdeed7ad99"></a>
+
+## WhiteBIT AU Vintage Darts Night
+
+- Record: `w3v-whitebit-au-vintage-darts-night`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-29T05:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/8llbdwet>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7ae79886d3f17e4a"></a>
 
 ## REAL TRADER IN 3 HOURS \| Full Trading Workshop \| Forex \| Crypto \| Stocks
@@ -43633,6 +43625,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-29T09:00:00-05:00
 - Description: Missing
 - Original page: <https://www.meetup.com/rockville-stitch-and-bitch/events/315813240/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e30489985693c67c"></a>
+
+## SuperteamTR x Dev3pack: University Hackathon Bursa Demo Day ⚡️
+
+- Record: `luma-host-evt-evt-NOfTU0WNtBSpMpR`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-29T09:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/5ultysfh>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44029,6 +44033,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-01
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.de/e/startup-sh-summit-2026-tickets-2003961923057>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-81249352f6fb13cc"></a>
+
+## Real Wealth, Real Impact: Web3, Crypto & AI CryptoMondays Austin × Media of Society
+
+- Record: `luma-evt-DkUQgSCZ9L6oy42`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/82cya82n>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45137,6 +45153,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-1e014f70d3cb3a1e"></a>
+
+## Further Network Summit 2026
+
+- Record: `w3v-further-network-summit-adfw-26-12-07`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-07T09:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/further-network-summit-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-af8600625ee4efaa"></a>
 
 ## Digital Asset Summit - The Opening Night
@@ -45341,6 +45369,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-9c1f8e26e098a22d"></a>
+
+## GPs & LPs Cocktail Hour ✨ ADFW - Abu Dhabi
+
+- Record: `w3v-gps-lps-cocktail-hour-adfw-abu-26-12-08`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T11:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/t3f7he2d>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0695c94848827f58"></a>
+
+## THE INSTITUTIONAL HOUSE: Where RWAs, Stablecoins & AI Meet Onchain Liquidity \| During Abu Dhabi Finance Week
+
+- Record: `w3v-institutional-house-where-rwas-stablecoins-ai-26-12-08`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T13:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/jzfgm9zm>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1fb6b1c42dc5d7ce"></a>
 
 ## Bridging the Rails: A 360° View on Cross-Border Fiat and Stablecoin Payments
@@ -45362,6 +45414,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-08T15:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaAfterDarkSEZ>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-61c24452d61d5ee8"></a>
+
+## Private Dinner by nSureAI
+
+- Record: `w3v-private-dinner-nsureai-26-12-08`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T15:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/PrivateDinnerbynSureAI>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45629,6 +45693,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-84cd048b7190f9b1"></a>
+
+## The Dawn
+
+- Record: `w3v-dawn-26-12-09`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09T04:30:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/The-Dawn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-18a72572810eea6f"></a>
 
 ## Solana Afternoon Soirée
@@ -45650,6 +45726,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-09T11:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaAfternoonSoireeADFW>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7c911f5447c964b1"></a>
+
+## Solana Afternoon Soirée
+
+- Record: `w3v-solana-afternoon-soir-e-26-12-09`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09T11:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/SolanaAfternoonSoireeADFW>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c1c09df7ef14e982"></a>
+
+## The Majlis
+
+- Record: `w3v-majlis-26-12-09`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09T14:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/The-Majlis>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -46012,6 +46112,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10T12:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-washington-dc/events/317272138/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f98735502e908d0e"></a>
+
+## LONGITUDE 2026 Abu Dhabi
+
+- Record: `w3v-longitude-abu-dhabi-26-12-10`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T12:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/0199ner6>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
