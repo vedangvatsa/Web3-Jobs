@@ -173056,7 +173056,8 @@
       },
       "account": "profile",
       "attemptId": "75eebcc2-7fdc-4e89-bc03-89fd61072050",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2f1536816ea30f8ab2de9e7234321b38da1650bd"
     }
   ]
 }
