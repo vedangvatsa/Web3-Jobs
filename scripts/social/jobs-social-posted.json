@@ -172777,6 +172777,46 @@
       "attemptId": "ca9a6f22-e36f-4977-86fb-88fd935d655b",
       "verification": "verified",
       "postId": "0xafc587ec961b55ff10d9fa8eb4b59dd7ff812e22"
+    },
+    {
+      "slug": "pm416",
+      "company": "Bybit",
+      "title": "AI Product Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-23T06:41:26.022Z",
+      "expectedText": "Bybit is hiring AI Product Manager: https://hashtagweb3.com/pm416/li?og=7",
+      "snapshot": {
+        "id": "4958451101",
+        "title": "AI Product Manager",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4958451101",
+        "date": "2026-11-17T12:24:23-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Kuala Lumpur, Malaysia",
+        "department": "Central-Hub",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm416"
+      },
+      "payload": {
+        "text": "Bybit is hiring AI Product Manager: https://hashtagweb3.com/pm416/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm416/li?og=7",
+          "title": "AI Product Manager at Bybit",
+          "description": "Join Bybit as AI Product Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm416.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "4f168723-c4e7-4c58-9577-60b019b01a25",
+      "verification": "creating"
     }
   ]
 }
