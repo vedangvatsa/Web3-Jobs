@@ -790,5 +790,36 @@
     "slotKey": "2026-11-23:morning",
     "messageId": 65849,
     "sentAt": "2026-11-23T06:41:39.865Z"
+  },
+  "00b6fc17-447f-49a3-86ed-5362e6362d05": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T13:41:25.408Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Coinbase Plans to Launch Prediction Market Contracts by 2027",
+        "summary": "According to Bloomberg, the exchange is building trading and clearing infrastructure for U.S. retail and institutional users.",
+        "link": "https://hashtagweb3.com/eventcontracts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase targets first half of 2027 for its own prediction market contracts"
+      },
+      {
+        "index": -1,
+        "headline": "XMR1 Token Falls Near Zero After $13.5 Million Sale",
+        "summary": "Wagyu blamed a web host breach for the deployer-linked sell-off of its Hyperliquid wrapped Monero asset.",
+        "link": "https://hashtagweb3.com/xmr1collapse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Wrapped Monero token XMR1 collapses 99.8% after $13.5 million sell-off"
+      },
+      {
+        "index": -1,
+        "headline": "NYSE selects Avalanche for 24/7 tokenized stock settlement",
+        "summary": "Intercontinental Exchange and OKX will use the blockchain for a continuous digital equities market.",
+        "link": "https://hashtagweb3.com/nyseavalanche?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange"
+      }
+    ],
+    "slotKey": "2026-11-23:afternoon"
   }
 }
