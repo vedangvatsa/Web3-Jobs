@@ -726,7 +726,7 @@
     "sentAt": "2026-11-22T11:55:53.173Z"
   },
   "00edaf2c-bb6d-45f2-bc8c-38be9582b704": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T00:26:39.949Z",
     "stories": [
       {
@@ -754,6 +754,8 @@
         "originalTitle": "Ondo, Binance and Kraken sell tokenized Anthropic exposure ahead of the IPO"
       }
     ],
-    "slotKey": "2026-11-22:evening"
+    "slotKey": "2026-11-22:evening",
+    "messageId": 156455,
+    "sentAt": "2026-11-23T00:26:44.170Z"
   }
 }

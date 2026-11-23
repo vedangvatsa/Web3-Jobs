@@ -65,6 +65,9 @@
   "https://hashtagweb3.com/wallerrate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/maradebt?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/buchanansentence?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/secscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/vaneckgemini?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/anton?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -197,6 +200,12 @@
   "MARA prices $185 million secured notes to fund its Long Ridge power plant acquisition",
   "Hacker Sentenced to Six Years for $11.6M Crypto Theft",
   "Scattered Spider Hacker Buchanan Sentenced to 6 Years Over $11.6M Crypto Theft",
+  "SEC charges eight Colorado entities over $37M crypto scam",
+  "SEC charges eight Colorado firms in $37 million fake crypto platform scam",
+  "VanEck Ends Gemini Custody Deal for Three Crypto ETFs",
+  "VanEck to end Gemini custody and clearing agreements for three crypto ETFs",
+  "Crypto platforms sell tokenized Anthropic shares before public listing",
+  "Ondo, Binance and Kraken sell tokenized Anthropic exposure ahead of the IPO",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -262,5 +271,8 @@
   "fp:27b|acquir|agre|asset|buy|capital|early2027|expect|firm|manager",
   "fp:anchor|asset|back|bank|central|christopher|despit|expect|financial|governor",
   "fp:15b|185m|acquisition|buy|due2032|financ|long|mara|not|november27",
-  "fp:116m|buchanan|cryptocurrency|hacker|phish|scatter|schem|sentenc|sim|six"
+  "fp:116m|buchanan|cryptocurrency|hacker|phish|scatter|schem|sentenc|sim|six",
+  "fp:37m|500|allegedly|american|august2024|charg|colorado|eight|entity|fak",
+  "fp:agreement|clear|coinbas|custodian|custody|drop|effectiv|end|etf|february2027",
+  "fp:ahead|anthropic|binanc|exposur|ipo|kraken|list|ondo|per|public"
 ]
