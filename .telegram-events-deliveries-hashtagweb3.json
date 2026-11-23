@@ -1072,5 +1072,50 @@
     "slotKey": "2026-11-23:morning",
     "messageId": 156456,
     "sentAt": "2026-11-23T06:39:20.436Z"
+  },
+  "e129649e-fc36-49e5-b24c-81d1c34d2312": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T13:34:52.815Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-jOF1u5vNs21279T",
+        "slug": "toronto-te",
+        "name": "Toronto Tech Christmas Party 2026: AI - Defence - Crypto | Connect. Celebrate. Build.",
+        "startDate": "2026-12-02T23:00:00.000Z",
+        "keys": [
+          "luma-crypto-jof1u5vns21279t",
+          "page:toronto-te:2026-12-02",
+          "luma:evt-jof1u5vns21279t",
+          "luma-url:/sjjctivh",
+          "event:torontotechchristmasparty2026aidefencecryptoconnectcelebratebuild:2026-12-02:toronto"
+        ]
+      },
+      {
+        "id": "mu-313235527",
+        "slug": "austin-bitcoin-club",
+        "name": "Austin Bitcoin Club",
+        "startDate": "2026-12-03T18:00:00-06:00",
+        "keys": [
+          "mu-313235527",
+          "page:austin-bitcoin-club:2026-12-04",
+          "url:meetup.com/bitcoin-park-austin/events/313235527:2026-12-04",
+          "event:austinbitcoinclub:2026-12-04:austin"
+        ]
+      },
+      {
+        "id": "ma-bitcoin-mena",
+        "slug": "bitcoin-mena",
+        "name": "Bitcoin Mena",
+        "startDate": "2026-12-07T00:00:00.000Z",
+        "keys": [
+          "ma-bitcoin-mena",
+          "page:bitcoin-mena:2026-12-07",
+          "event:bitcoinmena:2026-12-07:abu dhabi"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-23:afternoon"
   }
 }
