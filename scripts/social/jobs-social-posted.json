@@ -176183,7 +176183,8 @@
       },
       "account": "channel:growth",
       "attemptId": "8d38789a-234a-490f-a148-009a0c63344b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc421f3c2dc21c16b7c9decaa5ce3a6ee81c23d3c"
     }
   ]
 }
