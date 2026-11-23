@@ -174443,6 +174443,41 @@
       "attemptId": "c34c2100-fda3-4688-b735-79a6f2f903a9",
       "verification": "verified",
       "postId": "0xdd44624ab801fcd86a24ee0cf3a0ede22df9283b"
+    },
+    {
+      "slug": "sls467",
+      "company": "Chainalysis",
+      "title": "Regional Sales Director",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T13:36:17.955Z",
+      "expectedText": "Chainalysis is hiring Regional Sales Director\n\nhttps://hashtagweb3.com/sls467/fc?og=7",
+      "snapshot": {
+        "id": "029027c0-4e2f-427d-9700-7e24a13fc508",
+        "title": "Regional Sales Director",
+        "company": "Chainalysis",
+        "link": "https://jobs.ashbyhq.com/chainalysis-careers/029027c0-4e2f-427d-9700-7e24a13fc508",
+        "date": "2026-11-10T17:54:07.105+00:00",
+        "source": "Ashby: Chainalysis [chainalysis-careers]",
+        "location": "Remote (London)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls467"
+      },
+      "payload": {
+        "text": "Chainalysis is hiring Regional Sales Director\n\nhttps://hashtagweb3.com/sls467/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls467/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "3b91af30-9c2f-489c-aad8-82aac6086878",
+      "verification": "creating"
     }
   ]
 }
