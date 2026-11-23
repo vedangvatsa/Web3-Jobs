@@ -173901,7 +173901,8 @@
       },
       "account": "profile",
       "attemptId": "eeef309f-2098-40e6-8117-58d67f6500f3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x581649ce697caac4c54ae73e8e059939e7091d09"
     }
   ]
 }
