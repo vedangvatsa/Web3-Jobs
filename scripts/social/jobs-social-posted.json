@@ -173511,7 +173511,8 @@
       },
       "account": "channel:ai",
       "attemptId": "64fdc908-a02d-461b-9e65-295ca813a268",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdb56c1c25610c640837b71b63aa5f4f8dc8f6fa8"
     }
   ]
 }
