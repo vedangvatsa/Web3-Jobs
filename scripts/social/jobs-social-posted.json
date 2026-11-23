@@ -170815,6 +170815,41 @@
       "attemptId": "17825359-912c-4cf0-ba5e-2a275df44f27",
       "verification": "verified",
       "postId": "0x9e850e79856a496b638a7e7852de3000b064ea6b"
+    },
+    {
+      "slug": "ops188",
+      "company": "Crypto.com",
+      "title": "Exchange Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T00:25:41.457Z",
+      "expectedText": "Crypto​.com is hiring Exchange Operations Specialist\n\nhttps://hashtagweb3.com/ops188/fc?og=7",
+      "snapshot": {
+        "id": "04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "title": "Exchange Operations Specialist",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "date": "2026-11-17T05:58:11.961Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (New York)",
+        "workplaceType": "hybrid",
+        "department": "Predictions",
+        "salary": "USD 70,000 - USD 120,000 per year",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops188"
+      },
+      "payload": {
+        "text": "Crypto​.com is hiring Exchange Operations Specialist\n\nhttps://hashtagweb3.com/ops188/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops188/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "d0b555ec-86c1-4b05-8c73-71d4f1771d23",
+      "verification": "creating"
     }
   ]
 }
