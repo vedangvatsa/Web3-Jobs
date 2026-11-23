@@ -68,6 +68,9 @@
   "https://hashtagweb3.com/secscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/vaneckgemini?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/anton?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftchearing?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/luxorhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/worldbankusdc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -206,6 +209,12 @@
   "VanEck to end Gemini custody and clearing agreements for three crypto ETFs",
   "Crypto platforms sell tokenized Anthropic shares before public listing",
   "Ondo, Binance and Kraken sell tokenized Anthropic exposure ahead of the IPO",
+  "Senate panel questions CFTC nominees about prediction markets",
+  "Senate Agriculture questions Trump's CFTC nominees on prediction markets",
+  "Hackers Redirect Customer Hashrate via Luxor Management Tool",
+  "Luxor Says Hackers Redirected Customer Bitcoin Hashrate Through Its Commander Tool",
+  "World Bank Tests USDC and Citi for Aid Disbursements",
+  "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -274,5 +283,8 @@
   "fp:116m|buchanan|cryptocurrency|hacker|phish|scatter|schem|sentenc|sim|six",
   "fp:37m|500|allegedly|american|august2024|charg|colorado|eight|entity|fak",
   "fp:agreement|clear|coinbas|custodian|custody|drop|effectiv|end|etf|february2027",
-  "fp:ahead|anthropic|binanc|exposur|ipo|kraken|list|ondo|per|public"
+  "fp:ahead|anthropic|binanc|exposur|ipo|kraken|list|ondo|per|public",
+  "fp:agency|agricultur|anonick|cftc|conflict|lawmaker|matthew|nathan|nomine|november18",
+  "fp:account|attacker|commander|customer|dozen|driven|exploit|faster|hacker|hashrat",
+  "fp:aid|bank|circl|citi|disbursement|distribut|exist|fundschain|ledger|payment"
 ]
