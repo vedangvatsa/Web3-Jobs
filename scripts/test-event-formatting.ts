@@ -68,4 +68,12 @@ for (const text of legitimate) {
   assert.deepEqual(hard, [], `legitimate formatting must not hard-fail: ${text.slice(0, 40)}`);
 }
 
+import { rebreakCollapsedEventParagraphs } from '../src/lib/event-description-cleanup';
+const collapsed =
+  "Toronto week wraps the industry. TUESDAY, NOVEMBER 24 DIGITAL ASSET SUMMIT TORONTO 9:00 AM - 5:00 PM - Toronto A full day of panels. TUESDAY EVENING - VIP DINNER An exclusive reception.";
+const rebroken = rebreakCollapsedEventParagraphs(collapsed);
+assert.ok(rebroken.includes('TUESDAY, NOVEMBER 24'), 'weekday section break');
+assert.ok(rebroken.includes('DIGITAL ASSET SUMMIT'), 'session title break');
+assert.ok(!/^\s*-\s+Toronto/m.test(rebroken), 'no orphan dash-city line');
+
 console.log('Event formatting regression passed: agenda, nested lists, numbering, long headings, code, emphasis and safe links.');

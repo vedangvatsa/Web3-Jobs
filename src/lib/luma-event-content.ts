@@ -44,9 +44,22 @@ function headingText(line: string): string {
   return line.trim().replace(/^#{1,6}\s+/, '').replace(/^\*\*(.+)\*\*$/, '$1').replace(/[:.]$/, '').trim();
 }
 
+function isAllCapsSectionTitle(line: string): boolean {
+  const trimmed = line.trim();
+  if (trimmed.length < 4 || trimmed.length > 96 || /https?:\/\//.test(trimmed)) return false;
+  const letters = [...trimmed].filter((ch) => /\p{L}/u.test(ch));
+  if (letters.length < 4) return false;
+  const uppercase = letters.filter((ch) => ch === ch.toUpperCase() && ch !== ch.toLowerCase()).length;
+  return uppercase / letters.length >= 0.82;
+}
+
 function isHeaderLine(line: string): boolean {
   const trimmed = line.trim();
   if (trimmed.length <= 160 && /^#{1,6}\s+\S/.test(trimmed)) return true;
+  if (isAllCapsSectionTitle(trimmed)) return true;
+  if (/^(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b/i.test(trimmed) && trimmed.length <= 80) {
+    return true;
+  }
   if (!trimmed || trimmed.length > 60 || trimmed.length < 2) return false;
   if (/^[-*•·▪–—]\s+/.test(trimmed)) return false;
   // A trailing colon alone does not make a heading: agenda sub-labels like
@@ -106,6 +119,13 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
     if (codeRun) { codeRun.push(line); continue; }
     // "1 - Item" style numbered lines only form a list when 2+ run together,
     // so quantities ("10 - 20 attendees"), years and times stay body copy.
+    if (
+      (/^\s*-\s+(?=[A-Z]{2,}[\sA-Z&'’\-])/i.test(line) && !/^\s*-\s+[A-Z][a-z]{2,}\s+[a-z]/.test(line))
+      || /^\s*-\s+[A-Z][\p{L}]+,\s*[A-Z][\p{L}]+/u.test(line)
+    ) {
+      blocks.push(line.trim().replace(/^\s*-\s+/, ''));
+      continue;
+    }
     const dashNumbered = /^\s*(\d{1,2})\s*[-–]\s+(\S.*)$/.exec(line);
     if (/^\s*\d{1,2}\s*[-–]\s+\S/.test(line) && !/^\s*\d{1,2}:\d{2}/.test(line) && !/^\s*\d{3,}/.test(line)) {
       flushBullets();

@@ -16,7 +16,11 @@ type DirectoryDisclaimerProps =
     };
 
 function formatHostPhrase(hostname: string, platformLabel: string | null): string {
-  return platformLabel ? `${platformLabel} (${hostname})` : hostname;
+  if (!platformLabel) return hostname;
+  const labelKey = platformLabel.toLowerCase().replace(/[^a-z0-9]/g, '');
+  const hostKey = hostname.replace(/^www\./, '').split('.')[0].toLowerCase();
+  if (hostKey.includes(labelKey) || labelKey.includes(hostKey)) return platformLabel;
+  return `${platformLabel} on ${hostname}`;
 }
 
 export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
@@ -24,21 +28,18 @@ export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
 
   const baseCopy =
     variant === 'job'
-      ? 'Listings and links are informational. Hashtag Web3 is not the employer for roles on this site unless stated otherwise.'
+      ? 'This role is listed for information only. Hashtag Web3 is not the employer. Verify the official link before you apply; we are not responsible for third-party sites.'
       : variant === 'event'
-        ? 'Event listings and links are informational. Hashtag Web3 is not the event organizer unless stated otherwise.'
-        : 'Listings and links are informational. Hashtag Web3 is not the employer or event organizer unless stated otherwise.';
+        ? 'This event is listed for information only. Hashtag Web3 is not the organizer. Verify the official link before you register; we are not responsible for third-party sites.'
+        : 'Listings are for information only. Hashtag Web3 is not the employer or event organizer. Verify official links; we are not responsible for third-party sites.';
 
-  const commonTail =
-    'Verify URLs before sharing personal information. Do your own research; Hashtag Web3 assumes no responsibility or liability for actions or outcomes on third-party sites.';
-
-  let outboundParagraph: string | null = null;
+  let outboundNote: string | null = null;
 
   if (props.variant === 'job' && props.showOutboundNote !== false && props.outboundUrl) {
     const disclosure = getThirdPartyHostDisclosure(props.outboundUrl);
     if (disclosure) {
       const hostPhrase = formatHostPhrase(disclosure.hostname, disclosure.platformLabel);
-      outboundParagraph = `The Apply button opens ${props.entityName}'s official application on a third-party careers site (${hostPhrase}). Hashtag Web3 does not host the application form and does not collect résumés, passwords, or payments for this role.`;
+      outboundNote = `The Apply link opens ${props.entityName}'s careers page on ${hostPhrase}. We do not host the application or collect résumés for this role.`;
     }
   }
 
@@ -46,21 +47,21 @@ export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
     const disclosure = getThirdPartyHostDisclosure(props.outboundUrl);
     if (disclosure) {
       const hostPhrase = formatHostPhrase(disclosure.hostname, disclosure.platformLabel);
-      outboundParagraph = `The Details link opens the organizer's official page for ${props.entityName} on a third-party site (${hostPhrase}). Hashtag Web3 does not run registration, ticketing, or payments for this event.`;
+      outboundNote = `The Details link opens the organizer's page for ${props.entityName} on ${hostPhrase}. We do not handle registration, tickets, or payments.`;
     }
   }
 
   return (
     <aside
-      className="mt-10 space-y-2 rounded-lg border bg-muted/20 px-4 py-3 text-xs leading-relaxed text-muted-foreground"
+      className="mt-8 rounded-lg border bg-muted/20 px-4 py-3 text-xs leading-relaxed text-muted-foreground"
       role="note"
       aria-label="Directory disclaimer"
     >
-      <p>
+      <p className="m-0">
         <span className="font-medium text-foreground">Disclaimer: </span>
-        {baseCopy} {commonTail}
+        {baseCopy}
+        {outboundNote ? ` ${outboundNote}` : null}
       </p>
-      {outboundParagraph ? <p>{outboundParagraph}</p> : null}
     </aside>
   );
 }
