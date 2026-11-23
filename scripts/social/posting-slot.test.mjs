@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import { createRequire } from 'node:module';
 import { activeSlotAt, assertPostingWindow, assertUnsentSlot, hasSentSlot, isPostingWindow, postingSlot, postingSlotFromEnv } from './posting-slot.mjs';
-import { planSlot } from './publish-slot-plan.mjs';
+import { planScheduledRun, planSlot } from './publish-slot-plan.mjs';
 import { prepareTelegramSlot } from './prepare-telegram-slot.mjs';
 
 const require = createRequire(import.meta.url);
@@ -45,6 +45,25 @@ test('late GitHub cron posts the open wall-clock slot, not the original cron lab
   assert.equal(plan.social, true);
   assert.equal(plan.slot, 'afternoon');
   assert.equal(planSlot({ ...state, slots: { afternoon: '2026-11-21' } }, 'afternoon', '2026-11-21', '2026-11-21T11:39:06Z').social, false);
+});
+
+test('overnight evening cron still starts calendar-day news while social stays on yesterday', () => {
+  // Nov 23 failure: activeSlotAt date alone planned content against yesterday, so
+  // news=false even though the calendar day had no morning batch yet.
+  const now = Date.parse('2026-11-23T00:23:04Z');
+  assert.deepEqual(activeSlotAt(now), { slot: 'evening', date: '2026-11-22', key: '2026-11-22:evening' });
+  const state = {
+    news: '2026-11-22', morning: '2026-11-22', ingested: '2026-11-22', deployed: '2026-11-22',
+    slots: { morning: '2026-11-22', afternoon: '2026-11-22', evening: '2026-11-22' },
+  };
+  const wrong = planSlot(state, 'evening', '2026-11-22', now);
+  assert.deepEqual([wrong.morning, wrong.news, wrong.deploy, wrong.social], [false, false, false, false]);
+  const plan = planScheduledRun(state, now);
+  assert.equal(plan.slot, 'evening');
+  assert.equal(plan.date, '2026-11-23');
+  assert.equal(plan.social_date, '2026-11-22');
+  assert.equal(plan.social, false);
+  assert.deepEqual([plan.morning, plan.news, plan.deploy, plan.skip], [true, true, true, false]);
 });
 
 test('Oct 22 publishers can start in the morning window before the delayed news and rollout finish', () => {
@@ -134,9 +153,11 @@ test('queued Telegram publishers reject expired slots before fetching catalogs o
 
 test('scheduled gate remaps from the cron label to the open wall-clock slot', () => {
   const gate = workflow.jobs.gate.steps.find(step => step.id === 'set').run;
-  assert.match(gate, /activeSlotAt/);
+  assert.match(gate, /publish-slot-plan\.mjs schedule/);
   assert.match(gate, /Late cron keeps the original schedule label/);
+  assert.match(gate, /social_date/);
   assert.doesNotMatch(gate, /"30 3 \* \* \*"\) SLOT=morning/);
+  assert.equal(workflow.jobs.gate.outputs.social_date, '${{ steps.set.outputs.social_date }}');
 });
 
 test('workflow isolates Telegram publishers from daily publication and backs up each matrix leg', () => {
@@ -144,7 +165,7 @@ test('workflow isolates Telegram publishers from daily publication and backs up 
   assert.deepEqual(telegram.strategy.matrix.kind, ['jobs', 'events', 'news', 'group-news', 'ai-news']);
   assert.equal(telegram.strategy['fail-fast'], false);
   assert.deepEqual(telegram.needs, ['gate']);
-  assert.equal(telegram.env.TELEGRAM_PUBLISH_DATE, '${{ needs.gate.outputs.date }}');
+  assert.equal(telegram.env.TELEGRAM_PUBLISH_DATE, '${{ needs.gate.outputs.social_date }}');
   assert.equal(telegram.env.TELEGRAM_PUBLISH_SLOT, '${{ needs.gate.outputs.slot }}');
   const ready = telegram.steps.findIndex(step => step.id === 'ready');
   assert.equal(telegram.steps[ready].run, "node scripts/social/prepare-telegram-slot.mjs '${{ matrix.kind }}'");

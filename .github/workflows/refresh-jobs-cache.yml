@@ -11,9 +11,12 @@ name: Publish Jobs, Events & Social
 # Resend alerts. Social and Telegram run alongside this work. Auto-deploy stays off.
 # The one daily rollout waits for the completed original-news batch (and prefer
 # fresh jobs). Failed news delays deployment; ingest failure must not strand a
-# finished news batch. Late recovery cannot add a second daily rollout.
-# If that morning run never starts, the next slot the same UTC day runs
-# the morning work instead of skipping it.
+# finished news batch (deploy may reuse yesterday's jobs catalogue). Late
+# recovery cannot add a second daily rollout.
+# Overnight cron still opens yesterday's evening social slot, but ingest/news/
+# deploy always plan against the calendar UTC day (activeSlotAt date alone must
+# not skip today's news). If morning never starts, the next slot the same UTC
+# day runs the morning work instead of skipping it.
 # afternoon (11:30 UTC) and evening (19:30 UTC): social + Telegram, plus
 # any unfinished daily work or failed rollout from earlier that day.
 
@@ -98,6 +101,7 @@ jobs:
       skip: ${{ steps.set.outputs.skip }}
       deploy: ${{ steps.set.outputs.deploy }}
       date: ${{ steps.set.outputs.date }}
+      social_date: ${{ steps.set.outputs.social_date }}
       knowledge_due: ${{ steps.knowledge.outputs.due }}
     steps:
       - uses: actions/checkout@v4
@@ -121,42 +125,60 @@ jobs:
             exit 0
           fi
           if [ "${{ github.event.inputs.website_recovery }}" = "true" ]; then
+            TODAY=$(date -u +%F)
             echo "morning=true" >> "$GITHUB_OUTPUT"
             echo "news=true" >> "$GITHUB_OUTPUT"
             echo "deploy=false" >> "$GITHUB_OUTPUT"
             echo "social=false" >> "$GITHUB_OUTPUT"
             echo "videos=false" >> "$GITHUB_OUTPUT"
             echo "slot=morning" >> "$GITHUB_OUTPUT"
-            echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+            echo "date=$TODAY" >> "$GITHUB_OUTPUT"
+            echo "social_date=$TODAY" >> "$GITHUB_OUTPUT"
             echo "skip=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           if [ -n "$NEWS_RECOVERY_RUN" ] && [ "${{ github.event.inputs.only_news }}" != "true" ] && [ "${{ github.event.inputs.news_dry_run }}" != "true" ]; then
             [[ "$NEWS_RECOVERY_RUN" =~ ^[0-9]+$ ]] || exit 1
-            node scripts/social/publish-slot-plan.mjs recovery scripts/social/publish-slot-state.json "$(date -u +%F)" >> "$GITHUB_OUTPUT"
+            TODAY=$(date -u +%F)
+            node scripts/social/publish-slot-plan.mjs recovery scripts/social/publish-slot-state.json "$TODAY" >> "$GITHUB_OUTPUT"
+            echo "social_date=$TODAY" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           if [ "${{ github.event.inputs.only_news }}" = "true" ] || [ "${{ github.event.inputs.news_dry_run }}" = "true" ]; then
+            TODAY=$(date -u +%F)
             echo "morning=false" >> "$GITHUB_OUTPUT"
             echo "news=true" >> "$GITHUB_OUTPUT"
             echo "social=false" >> "$GITHUB_OUTPUT"
             echo "deploy=false" >> "$GITHUB_OUTPUT"
             echo "videos=false" >> "$GITHUB_OUTPUT"
             echo "slot=news" >> "$GITHUB_OUTPUT"
-            echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+            echo "date=$TODAY" >> "$GITHUB_OUTPUT"
+            echo "social_date=$TODAY" >> "$GITHUB_OUTPUT"
             echo "skip=false" >> "$GITHUB_OUTPUT"
             echo "Drafting news only."
             exit 0
           fi
-          SLOT=""
-          TODAY=""
+          STATE="scripts/social/publish-slot-state.json"
           if [ -n "$CRON" ]; then
             # Late cron keeps the original schedule label (e.g. morning cron at 11:39 UTC
-            # still reports "30 3 * * *"). Use the open wall-clock slot instead.
-            eval "$(node --input-type=module -e "import { activeSlotAt } from './scripts/social/posting-slot.mjs'; const a = activeSlotAt(); process.stdout.write('SLOT=' + a.slot + '\nTODAY=' + a.date + '\n')" )"
+            # still reports "30 3 * * *"). Social follows the open wall-clock slot;
+            # ingest/news/deploy follow the calendar UTC day (see planScheduledRun).
+            PLAN="$(FORCE_SOCIAL="${{ github.event.inputs.force_social }}" node scripts/social/publish-slot-plan.mjs schedule "$STATE")"
+            printf '%s\n' "$PLAN" | tee -a "$GITHUB_OUTPUT"
+            SLOT="$(printf '%s\n' "$PLAN" | sed -n 's/^slot=//p')"
+            SOCIAL_DATE="$(printf '%s\n' "$PLAN" | sed -n 's/^social_date=//p')"
           else
             SLOT="${INPUT:-morning}"
             TODAY=$(date -u +%F)
+            case "$SLOT" in
+              morning|afternoon|evening) ;;
+              *)
+                echo "Unknown slot: $SLOT" >&2
+                exit 1
+                ;;
+            esac
+            FORCE_SOCIAL="${{ github.event.inputs.force_social }}" node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
+            SOCIAL_DATE="$TODAY"
           fi
           case "$SLOT" in
             morning|afternoon|evening) ;;
@@ -165,9 +187,7 @@ jobs:
               exit 1
               ;;
           esac
-          STATE="scripts/social/publish-slot-state.json"
-          FORCE_SOCIAL="${{ github.event.inputs.force_social }}" node scripts/social/publish-slot-plan.mjs plan "$STATE" "$SLOT" "$TODAY" | tee -a "$GITHUB_OUTPUT"
-          node scripts/social/job-video-slot.mjs "$SLOT" "$TODAY" >> "$GITHUB_OUTPUT"
+          node scripts/social/job-video-slot.mjs "$SLOT" "$SOCIAL_DATE" >> "$GITHUB_OUTPUT"
 
       - id: knowledge
         name: Check independent knowledge thread window
@@ -221,7 +241,7 @@ jobs:
     uses: ./.github/workflows/post-job-openings-social.yml
     with:
       slot: ${{ needs.gate.outputs.slot }}
-      date: ${{ needs.gate.outputs.date }}
+      date: ${{ needs.gate.outputs.social_date }}
     secrets: inherit
 
   post-videos:
@@ -232,7 +252,7 @@ jobs:
     uses: ./.github/workflows/post-job-videos-social.yml
     with:
       slot: ${{ needs.gate.outputs.slot }}
-      date: ${{ needs.gate.outputs.date }}
+      date: ${{ needs.gate.outputs.social_date }}
     secrets: inherit
 
   knowledge-threads:
@@ -293,7 +313,7 @@ jobs:
           BUFFER_LINKEDIN_CHANNEL_ID: ${{ secrets.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SOCIAL_PUBLISH_SLOT: ${{ needs.gate.outputs.slot }}
-          SOCIAL_PUBLISH_DATE: ${{ needs.gate.outputs.date }}
+          SOCIAL_PUBLISH_DATE: ${{ needs.gate.outputs.social_date }}
         run: npx tsx scripts/social/post-news-social.ts
 
       - name: Persist news social history
@@ -579,7 +599,7 @@ jobs:
       contents: write
     env:
       TELEGRAM_PUBLISH_SLOT: ${{ needs.gate.outputs.slot }}
-      TELEGRAM_PUBLISH_DATE: ${{ needs.gate.outputs.date }}
+      TELEGRAM_PUBLISH_DATE: ${{ needs.gate.outputs.social_date }}
 
     steps:
       - name: Checkout code

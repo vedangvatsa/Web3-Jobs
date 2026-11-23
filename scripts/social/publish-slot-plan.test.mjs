@@ -1,6 +1,6 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { planSlot, planRecovery, recordSlot } from './publish-slot-plan.mjs';
+import { planSlot, planRecovery, planScheduledRun, recordSlot } from './publish-slot-plan.mjs';
 
 const today = '2026-09-25';
 test('failed news retries do not repeat successful job ingestion', () => {
@@ -94,7 +94,7 @@ test('recovered articles after an already completed daily rollout wait for the n
 });
 
 test('explicit recovery respects deployment completion and refreshes missing daily jobs', () => {
-  assert.deepEqual(planRecovery({}, today), { morning: true, news: true, deploy: true, social: false, videos: false, slot: 'recovery', skip: false, date: today });
+  assert.deepEqual(planRecovery({}, today), { morning: true, news: true, deploy: true, social: false, videos: false, slot: 'recovery', skip: false, date: today, social_date: today });
   const state = { ingested: today, deployed: today, slots: { afternoon: today } };
   const plan = planRecovery(state, today);
   assert.equal(plan.morning, false); assert.equal(plan.deploy, false); assert.equal(plan.news, true);
@@ -111,4 +111,20 @@ test('parent results never invent, clear or regress durable rollout evidence', (
   for (const deploy of ['success', 'failure', 'skipped', 'cancelled']) {
     assert.equal(recordSlot(newer, plan, { deploy }).deployed, '2026-09-26');
   }
+});
+
+test('overnight schedule plans content for calendar today and stamps social on social_date', () => {
+  const now = '2026-11-23T00:23:04Z';
+  const state = {
+    news: '2026-11-22', morning: '2026-11-22', ingested: '2026-11-22', deployed: '2026-11-22',
+    slots: { evening: '2026-11-21' },
+  };
+  const plan = planScheduledRun(state, Date.parse(now));
+  assert.equal(plan.date, '2026-11-23');
+  assert.equal(plan.social_date, '2026-11-22');
+  assert.equal(plan.social, true);
+  assert.equal(plan.news, true);
+  const recorded = recordSlot(state, plan, { posts: 'success', telegram: 'success' });
+  assert.equal(recorded.slots.evening, '2026-11-22');
+  assert.notEqual(recorded.slots.evening, plan.date);
 });

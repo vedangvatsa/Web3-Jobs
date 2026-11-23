@@ -84,7 +84,8 @@ function harness(initial = {}) {
 test('daily content requires current jobs plus completed validated coverage and newly published original articles', () => {
   assert.deepEqual(assertDailyContent({ date, ...content() }, now).articleSlugs, ['original-news']);
   const invalid = [
-    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-21T03:45:00Z'; },
+    // Older than yesterday: still rejected. Yesterday's jobs are allowed so news is not stranded.
+    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-20T03:45:00Z'; },
     c => { c.catalogs.catalogs.jobs.checkedAt = `${date}T05:00:00Z`; },
     c => { c.research.runs[date].status = 'incomplete'; },
     c => { c.research.runs[date].validationErrors = ['source unavailable']; },
@@ -100,6 +101,13 @@ test('daily content requires current jobs plus completed validated coverage and 
     const c = content(); change(c);
     assert.throws(() => assertDailyContent({ date, ...c }, now));
   }
+});
+
+test('yesterday jobs catalogue still unlocks today’s finished news rollout', () => {
+  const c = content();
+  c.catalogs.catalogs.jobs.checkedAt = '2026-10-21T12:00:00Z';
+  assert.deepEqual(assertDailyContent({ date, ...c }, now).articleSlugs, ['original-news']);
+  assert.equal(assertDailyContent({ date, ...c }, now).jobsCheckedAt, '2026-10-21T12:00:00Z');
 });
 
 test('a verified daily publication with backlog is eligible while its research remains coverage-incomplete', () => {
@@ -133,7 +141,7 @@ test('a publication marker cannot forge approval, omit backlog, misidentify an a
     c => { c.research.runs[date].validationErrors.push('Article audit failed'); },
     c => { c.research.runs[date].baselineSlugs.push('original-news'); },
     c => { c.research.runs[date].discovery.feeds = [{ ok: false }]; },
-    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-21T03:45:00Z'; },
+    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-20T03:45:00Z'; },
     c => { c.catalogs.catalogs.jobs.sourceCommit = 'unconfirmed'; },
     c => { c.hasArticle = () => false; },
   ];
@@ -314,9 +322,16 @@ test('ready-build and rollout proof must identify the exact reserved revision an
 test('a next-day rollout requires both a new jobs refresh and a new completed original-news batch', async () => {
   const h = harness(); await h.run();
   const next = '2026-10-23', later = Date.parse(`${next}T04:00:00Z`);
-  await assert.rejects(h.run({ date: next, now: () => later, id: '125-1' }), /today’s published jobs/);
-  const fresh = content(next); fresh.research = content().research;
-  await assert.rejects(h.run({ date: next, now: () => later, id: '125-1', content: fresh }), /completed validated news/);
+  // Jobs older than yesterday remain blocked.
+  const staleJobs = content(next);
+  staleJobs.catalogs.catalogs.jobs.checkedAt = '2026-10-21T03:45:00Z';
+  staleJobs.research = content().research;
+  await assert.rejects(h.run({ date: next, now: () => later, id: '125-1', content: staleJobs }), /today’s published jobs/);
+  // Yesterday's jobs unlock the rollout only once today's news batch is complete.
+  const yesterdayJobs = content(next);
+  yesterdayJobs.catalogs.catalogs.jobs.checkedAt = '2026-10-22T03:45:00Z';
+  yesterdayJobs.research = content().research;
+  await assert.rejects(h.run({ date: next, now: () => later, id: '125-1', content: yesterdayJobs }), /completed validated news/);
   await h.run({ date: next, now: () => later, id: '125-1', content: content(next) });
   assert.equal(h.server.state.deployed, next); assert.equal(h.provider.writes.length, 4);
 });

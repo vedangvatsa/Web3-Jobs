@@ -41,9 +41,9 @@ When applying for the Portugal D8 visa, you must select one of two legal categor
 
 To qualify for either version of the Portugal D8 visa, you must satisfy four statutory criteria:
 
-### 1. Minimum Monthly Remote Income (€3,280/mo)
+### 1. Minimum Monthly Remote Income (€3,680/mo)
 - You must demonstrate a verified monthly remote income equal to at least **four times the Portuguese national minimum wage**.
-- As of 2024, the monthly minimum wage is €820, setting the D8 threshold at **€3,280 per month** (roughly **$3,600 USD**).
+- Pegged to 4x the national minimum wage (RMMO at €920), the D8 threshold sits at **€3,680 per month** (roughly **$4,000 USD**).
 - You must prove this income by submitting bank statements showing the last three months of deposits, accompanied by an employment contract or client service agreements.
 
 ### 2. Proof of Portuguese Bank Deposit (Recommended)
@@ -111,7 +111,7 @@ The most compelling long-term advantage of the Portuguese D8 residency route is 
 
 | Requirement | Specification | Notes |
 | :--- | :--- | :--- |
-| **Minimum Income** | €3,280 / month | 4x Portuguese minimum wage |
+| **Minimum Income** | €3,680 / month | 4x Portuguese minimum wage |
 | **Portuguese NIF** | Tax number | Required before opening bank account |
 | **Bank Balance** | ~€10,000 - €12,000 | Funded in Portuguese bank account |
 | **Accommodation** | 12-Month lease registered with Finanças | For residency visa route |
@@ -123,5 +123,5 @@ The most compelling long-term advantage of the Portuguese D8 residency route is 
 ## Practical Next Steps for Your Move to Portugal
 
 1. **Compare Lisbon vs Porto:** Evaluate living costs, fiber internet speeds, and community vibe across Portugal on our [Digital Nomad City Explorer](/nomads).
-2. **Review Alternative European Visas:** If your monthly income is below €3,280, review alternative programs with lower thresholds (like Spain at €2,646 or Bulgaria at €1,400) in our [European Nomad Visas Ranked by Salary Guide](/euvisas).
+2. **Review Alternative European Visas:** If your monthly income is below €3,680, review alternative programs with lower thresholds (like Spain at €2,849 or Bulgaria at €1,400) in our [European Nomad Visas Ranked by Salary Guide](/euvisas).
 3. **Explore Investment Pathways:** If you prefer obtaining European residency through capital investments rather than active income verification, review regulated venture fund options in our [Citizenship and Golden Visa Directory](/citizenship).

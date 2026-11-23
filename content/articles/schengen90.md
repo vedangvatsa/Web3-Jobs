@@ -71,10 +71,10 @@ When an EU country issues you a national long-stay visa (Type D Visa) or a tempo
 2. **You Retain 90 Days of Travel in Other Schengen States:** You can travel to other Schengen member states (like France, Germany, or Italy) for up to 90 days within any 180-day window.
 
 The best national European nomad visas include:
-- **[Spain Digital Nomad Visa](/visas):** Grants an immediate three-year residence permit if applying from Spain, with a €2,646/month income requirement and 24 percent flat tax under the Beckham Law. Explore city life in our [Valencia and Spanish Walkability Guide](/walkability).
-- **[Portugal D8 Visa](/visas):** Requires €3,280/month in remote earnings, granting a one to two-year renewable permit that leads to permanent EU citizenship after five years.
-- **[Croatia Digital Nomad Permit](/visas):** Requires ~€2,540/month and gives you up to twelve months of tax-free living along the Adriatic coast, as reviewed in our [Zero-Tax Nomad Visas Guide](/zerotaxvisas).
-- **Hungary White Card:** Requires €2,000/month for up to two years of residency in Budapest. Compare all European options in our [European Nomad Visas Ranked by Salary Guide](/euvisas).
+- **[Spain Digital Nomad Visa](/visas):** Grants an immediate three-year residence permit if applying from Spain, with a €2,849/month income requirement and 24 percent flat tax under the Beckham Law. Explore city life in our [Valencia and Spanish Walkability Guide](/walkability).
+- **[Portugal D8 Visa](/visas):** Requires €3,680/month in remote earnings, granting a one to two-year renewable permit that leads to permanent EU citizenship after five years.
+- **[Croatia Digital Nomad Permit](/visas):** Requires ~€3,622.50/month and gives you up to twelve months of tax-free living along the Adriatic coast, as reviewed in our [Zero-Tax Nomad Visas Guide](/zerotaxvisas).
+- **Hungary White Card:** Requires €3,000 net/month for up to two years of residency in Budapest. Compare all European options in our [European Nomad Visas Ranked by Salary Guide](/euvisas).
 
 ---
 

@@ -50,11 +50,21 @@ export function dailyDeploymentDue(state, date, now = Date.now()) {
   return true;
 }
 
+function utcDateOffset(date, days) {
+  return new Date(Date.parse(`${date}T00:00:00Z`) + days * 86400000).toISOString().slice(0, 10);
+}
+
 export function assertDailyContent({ date, catalogs, research, jobs, hasArticle }, now = Date.now()) {
   assertDeployDate(date, now);
   const sameDay = value => timestamp(value) && new Date(value).toISOString().slice(0, 10) === date && Date.parse(value) <= now;
   const refreshed = catalogs?.catalogs?.jobs;
-  if (catalogs?.version !== 1 || !sameDay(refreshed?.checkedAt) || !/^[a-f0-9]{40}$/.test(refreshed?.sourceCommit || '') || !Array.isArray(jobs)) {
+  const jobsDay = timestamp(refreshed?.checkedAt) && Date.parse(refreshed.checkedAt) <= now
+    ? new Date(refreshed.checkedAt).toISOString().slice(0, 10)
+    : '';
+  // Prefer same-day jobs, but allow yesterday's catalogue so a finished news
+  // batch is not stranded when morning ingest fails (Nov 23 regression).
+  const jobsFresh = jobsDay === date || jobsDay === utcDateOffset(date, -1);
+  if (catalogs?.version !== 1 || !jobsFresh || !/^[a-f0-9]{40}$/.test(refreshed?.sourceCommit || '') || !Array.isArray(jobs)) {
     throw new Error('Daily deployment requires today’s published jobs catalogue');
   }
   const run = research?.runs?.[date];

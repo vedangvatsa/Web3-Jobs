@@ -362,7 +362,7 @@ test('the parent passes scheduled date/slot while standalone manual dispatch kee
     assert.deepEqual(document.errors, []); return document.toJS();
   };
   const parent = await read('refresh-jobs-cache.yml'), child = await read('post-job-openings-social.yml');
-  assert.deepEqual(parent.jobs['post-openings'].with, { date: '${{ needs.gate.outputs.date }}', slot: '${{ needs.gate.outputs.slot }}' });
+  assert.deepEqual(parent.jobs['post-openings'].with, { date: '${{ needs.gate.outputs.social_date }}', slot: '${{ needs.gate.outputs.slot }}' });
   const publish = child.jobs['post-opening'].steps.find((step: { id?: string }) => step.id === 'publish');
   for (const name of ['slot', 'date']) {
     assert.equal(child.on.workflow_call.inputs[name].required, true);

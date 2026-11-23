@@ -43,7 +43,10 @@ test('on-time social fan-out retains one daily rollout after ingestion and news'
   assert.deepEqual(rollouts.map(([name]) => name), ['deploy']);
   assert.match(workflow.jobs.deploy.if, /needs\.ingest\.result == 'success'/);
   assert.match(workflow.jobs.deploy.if, /needs\.publish-news\.result == 'success'/);
-  for (const name of ['post-videos', 'knowledge-threads', 'knowledge-carousels']) {
+  assert.deepEqual(workflow.jobs['post-videos'].needs, ['gate']);
+  assert.equal(workflow.jobs['post-videos'].with.slot, '${{ needs.gate.outputs.slot }}');
+  assert.equal(workflow.jobs['post-videos'].with.date, '${{ needs.gate.outputs.social_date }}');
+  for (const name of ['knowledge-threads', 'knowledge-carousels']) {
     assert.deepEqual(workflow.jobs[name].needs, ['gate']);
     assert.equal(workflow.jobs[name].with.slot, '${{ needs.gate.outputs.slot }}');
     assert.equal(workflow.jobs[name].with.date, '${{ needs.gate.outputs.date }}');
