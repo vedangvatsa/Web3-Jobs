@@ -172320,7 +172320,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "12924048-0a7d-473f-a62d-dad5a3ed777f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x804772cc3008d6ecda973f1ff055235948ee12b0"
     }
   ]
 }
