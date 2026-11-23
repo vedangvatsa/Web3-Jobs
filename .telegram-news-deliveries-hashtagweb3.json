@@ -790,5 +790,36 @@
     "slotKey": "2026-11-23:morning",
     "messageId": 156457,
     "sentAt": "2026-11-23T06:39:48.007Z"
+  },
+  "10fee060-9459-4794-becf-6f7d9c7a2be2": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T13:41:43.611Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Coinbase Plans Prediction Market Contracts by Early 2027",
+        "summary": "According to Bloomberg, the crypto exchange is building infrastructure to serve U.S. retail and institutional clients.",
+        "link": "https://hashtagweb3.com/eventcontracts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Coinbase targets first half of 2027 for its own prediction market contracts"
+      },
+      {
+        "index": -1,
+        "headline": "Wrapped Monero Token XMR1 Crashes After $13.5M Sell-Off",
+        "summary": "The operator blamed a web host breach after a deployer-linked wallet sold $13.5 million of the asset.",
+        "link": "https://hashtagweb3.com/xmr1collapse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Wrapped Monero token XMR1 collapses 99.8% after $13.5 million sell-off"
+      },
+      {
+        "index": -1,
+        "headline": "Jensen Huang discusses return to Nvidia as allies lobby government",
+        "summary": "Tech leaders are coordinating with the White House to support the former chief executive's comeback at the chipmaker.",
+        "link": "https://hashtagweb3.com/comeback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Jensen Huang weighs Nvidia comeback as allies organize campaign"
+      }
+    ],
+    "slotKey": "2026-11-23:afternoon"
   }
 }
