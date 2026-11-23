@@ -724,5 +724,36 @@
     "slotKey": "2026-11-22:afternoon",
     "messageId": 156435,
     "sentAt": "2026-11-22T11:55:53.173Z"
+  },
+  "00edaf2c-bb6d-45f2-bc8c-38be9582b704": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T00:26:39.949Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC charges eight Colorado entities over $37M crypto scam",
+        "summary": "The fraudulent investment platforms allegedly stole funds from more than 1,500 American investors since August 2024.",
+        "link": "https://hashtagweb3.com/secscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC charges eight Colorado firms in $37 million fake crypto platform scam"
+      },
+      {
+        "index": -1,
+        "headline": "VanEck Ends Gemini Custody Deal for Three Crypto ETFs",
+        "summary": "Effective February 2027, the firm will drop Gemini services while keeping Coinbase as custodian for its funds.",
+        "link": "https://hashtagweb3.com/vaneckgemini?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "VanEck to end Gemini custody and clearing agreements for three crypto ETFs"
+      },
+      {
+        "index": -1,
+        "headline": "Crypto platforms sell tokenized Anthropic shares before public listing",
+        "summary": "Ondo and Binance launched tokenized products for Anthropic stock priced at $83 per share before its IPO.",
+        "link": "https://hashtagweb3.com/anton?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ondo, Binance and Kraken sell tokenized Anthropic exposure ahead of the IPO"
+      }
+    ],
+    "slotKey": "2026-11-22:evening"
   }
 }
