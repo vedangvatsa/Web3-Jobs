@@ -177112,6 +177112,47 @@
       "attemptId": "4d3d01c6-747c-4788-9ea7-131292fdec14",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "int52",
+      "company": "Galaxy Digital",
+      "title": "2027 Risk Intern - NYC",
+      "platform": "linkedin",
+      "postedAt": "2026-11-23T19:12:26.415Z",
+      "expectedText": "Galaxy Digital is hiring 2027 Risk Intern - NYC: https://hashtagweb3.com/int52/li?og=7",
+      "snapshot": {
+        "id": "6250062004",
+        "title": "2027 Risk Intern - NYC",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004",
+        "date": "2026-11-06T09:16:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "New York",
+        "department": "Early Careers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "int52"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring 2027 Risk Intern - NYC: https://hashtagweb3.com/int52/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/int52/li?og=7",
+          "title": "2027 Risk Intern - NYC at Galaxy Digital",
+          "description": "Join Galaxy Digital as 2027 Risk Intern - NYC. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/int52.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "5378ca31-5dca-4aa5-bcab-d20c728e377e",
+      "verification": "creating"
     }
   ]
 }
