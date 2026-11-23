@@ -170422,6 +170422,39 @@
       "attemptId": "097d3ffb-36ec-4d72-a2b9-acd360dd8d8f",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Sunday, 22-Nov-26 16:25:51 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AQIVRY5gEEBY1sEtuTW8yAU\"}"
+    },
+    {
+      "slug": "ops188",
+      "company": "Crypto.com",
+      "title": "Exchange Operations Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-11-23T00:25:41.457Z",
+      "expectedText": "Crypto​.com is hiring Exchange Operations Specialist: https://hashtagweb3.com/ops188/bsky?og=7",
+      "snapshot": {
+        "id": "04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "title": "Exchange Operations Specialist",
+        "company": "Crypto.com",
+        "link": "https://jobs.lever.co/crypto/04305141-a169-4cf8-a80a-b2ad1ec44efb",
+        "date": "2026-11-17T05:58:11.961Z",
+        "source": "Lever: Crypto.com [crypto]",
+        "location": "Hybrid (New York)",
+        "workplaceType": "hybrid",
+        "department": "Predictions",
+        "salary": "USD 70,000 - USD 120,000 per year",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops188"
+      },
+      "payload": {
+        "text": "Crypto​.com is hiring Exchange Operations Specialist: https://hashtagweb3.com/ops188/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops188/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops188.png?v=7",
+        "company": "Crypto.com",
+        "title": "Exchange Operations Specialist",
+        "description": "Join Crypto.com as Exchange Operations Specialist. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "bbe56ee4-8d53-4e2a-b161-e0134389ca7d",
+      "verification": "creating"
     }
   ]
 }
