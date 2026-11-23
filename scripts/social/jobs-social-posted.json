@@ -175607,7 +175607,8 @@
       },
       "account": "profile",
       "attemptId": "0a2a28c8-fd0c-4662-be20-6604d5227ba4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa5044f9fbeebf444f75ac9c5cac9a506df2936c8"
     }
   ]
 }
