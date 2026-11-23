@@ -912,7 +912,7 @@
     "sentAt": "2026-11-23T06:40:03.730Z"
   },
   "8d960a3c-27fc-4701-b40d-b6613ff135dd": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T13:38:58.106Z",
     "stories": [
       {
@@ -946,6 +946,8 @@
         "originalTitle": "Meta Muse can do your Black Friday shopping at Walmart"
       }
     ],
-    "slotKey": "2026-11-23:afternoon"
+    "slotKey": "2026-11-23:afternoon",
+    "messageId": 193569,
+    "sentAt": "2026-11-23T13:39:06.846Z"
   }
 }

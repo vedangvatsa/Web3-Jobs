@@ -71,6 +71,9 @@
   "https://siliconangle.com/2026/11/19/google-adds-computer-use-capabilities-to-geminis-mac-app/",
   "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
   "https://www.theverge.com/tech/1039851/major-tech-outages",
+  "https://www.marktechpost.com/2026/11/23/architect-labs-frostbite-ai-designed-cpu-interaction-nets/",
+  "https://www.marktechpost.com/2026/11/23/meta-tlx-triton-low-level-extensions/",
+  "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -215,6 +218,12 @@
   "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
   "Experts warn of more major technology system outages",
   "We haven’t seen the last of the major tech outages",
+  "Architect Labs unveils AI-designed CPU for interaction nets",
+  "Architect Labs Unveils Frostbite, an Interaction Net CPU Designed by AI",
+  "Meta releases TLX for low-level GPU kernel control",
+  "Meta TLX Brings Warp-Group GPU Control to Triton on Hopper, Blackwell, AMD",
+  "Walmart integrates Meta Muse AI for autonomous shopping",
+  "Meta Muse can do your Black Friday shopping at Walmart",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -286,5 +295,8 @@
   "fp:center|climat|commitment|corporat|demand|electricity|emission|evaluat|forc|goal",
   "fp:add|app|application|assistant|can|capability|computer|control|desktop|directly",
   "fp:anthropic|bailli|bet|big|capital|conviction|detail|explain|financial|gav",
-  "fp:are|chas|disruption|expert|faa|failur|further|haven|jpmorgan|larg"
+  "fp:are|chas|disruption|expert|faa|failur|further|haven|jpmorgan|larg",
+  "fp:achieve459|architect|cor|cpu|design|frostbit|generat|interaction|lab|net",
+  "fp:allow|amd|architectur|blackwell|chip|control|gpu|group|hardwar|hopper",
+  "fp:autonomous|black|can|capabl|chain|deploy|friday|holiday|integrat|meta"
 ]
