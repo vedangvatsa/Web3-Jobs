@@ -757,5 +757,36 @@
     "slotKey": "2026-11-22:evening",
     "messageId": 65848,
     "sentAt": "2026-11-23T00:28:52.008Z"
+  },
+  "748ddf62-8df6-4373-93ab-d5319e98a283": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T06:41:35.428Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Ondo, Binance, and Kraken sell tokenized Anthropic stock",
+        "summary": "Digital platforms offer pre-IPO access to the AI company's equity at eighty-three dollars per share.",
+        "link": "https://hashtagweb3.com/anton?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ondo, Binance and Kraken sell tokenized Anthropic exposure ahead of the IPO"
+      },
+      {
+        "index": -1,
+        "headline": "Kava Lend Security Exploit Leads to Deposit Suspensions",
+        "summary": "Attackers took 127 loans on a dormant BUSD market, selling 55.2 million KAVA for $2.09 million.",
+        "link": "https://hashtagweb3.com/kavalendhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kava Lend exploit borrows 55.2 million KAVA as Korean exchanges halt deposits"
+      },
+      {
+        "index": -1,
+        "headline": "Kevin Warsh to open San Francisco Fed forum on AI",
+        "summary": "The November 16 event includes three panels and a livestreamed chat about AI's impact on inflation.",
+        "link": "https://hashtagweb3.com/warshforum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday"
+      }
+    ],
+    "slotKey": "2026-11-23:morning"
   }
 }
