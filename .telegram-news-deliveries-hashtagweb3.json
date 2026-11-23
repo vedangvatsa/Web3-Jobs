@@ -823,5 +823,36 @@
     "slotKey": "2026-11-23:afternoon",
     "messageId": 156472,
     "sentAt": "2026-11-23T13:41:50.593Z"
+  },
+  "e1b6600f-f114-493f-90e8-2e0cf3243577": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T22:55:10.970Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Kava Lend exploited for 55.2 million KAVA tokens",
+        "summary": "Attackers sold most borrowed tokens for $2.09 million, prompting South Korean exchanges to suspend KAVA deposits.",
+        "link": "https://hashtagweb3.com/kavalendhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Kava Lend exploit borrows 55.2 million KAVA as Korean exchanges halt deposits"
+      },
+      {
+        "index": -1,
+        "headline": "Kevin Warsh Opens San Francisco Fed Forum on AI",
+        "summary": "The November 16 event features three panels and a livestreamed discussion examining artificial intelligence's impact on inflation.",
+        "link": "https://hashtagweb3.com/warshforum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday"
+      },
+      {
+        "index": -1,
+        "headline": "North Korean hackers use temporary tokens to launder stolen funds",
+        "summary": "Elliptic traced $430,000 in stolen Binance assets through six temporary tokens created on the NEAR protocol.",
+        "link": "https://hashtagweb3.com/nearmemecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "North Korean launderers mint throwaway meme coins to move Binance hack funds"
+      }
+    ],
+    "slotKey": "2026-11-23:evening"
   }
 }
