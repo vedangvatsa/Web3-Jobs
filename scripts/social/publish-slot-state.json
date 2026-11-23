@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-22",
+  "deployed": "2026-11-23",
   "ingested": "2026-11-22",
   "dailyDeployments": {
     "2026-10-23": [
@@ -1382,12 +1382,14 @@
           "eventcontracts",
           "xmr1collapse"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-23T08:49:45.374Z",
         "buildId": "daily-20261123-45140199388-1",
         "rolloutId": "daily-20261123-45140199388-1",
         "buildState": "READY",
-        "observedAt": "2026-11-23T09:14:19.004Z"
+        "observedAt": "2026-11-23T09:14:53.219Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-23T09:14:53.219Z"
       }
     ]
   }
