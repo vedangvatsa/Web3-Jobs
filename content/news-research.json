@@ -206879,38 +206879,30 @@
         "Unchained"
       ],
       "id": "f43176a77d48fd557b8b",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-21T00:54:20.657Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-23T10:48:04.000Z",
       "lastSeenAt": "2026-11-21T00:54:20.657Z",
-      "reason": "source-blocked",
-      "note": "Read Decrypt Nov 20 report in full (Bloomberg-reported H1 2027 in-house event-contract target; Kalshi partnership; $200M annualized Q3 prediction revenue; CFTC clearinghouse approval; Louisiana injunction context). CoinDesk returned HTTP 429, Unchained both URLs HTTP 403, The Block HTTP 403. Only one independent full report readable so far.",
+      "reason": "verified-event",
+      "note": "Reused restored eventcontracts draft; Unchained now HTTP 200 and re-read in full alongside Decrypt. Expanded past 600 words (605), fixed Unchained attribution to 3 mentions. Audits pass: quality, formatting, images, duplicates, tsc. Links return 200.",
       "sourceChecks": [
         {
           "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
           "outcome": "read"
         },
         {
-          "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-          "outcome": "blocked"
-        },
-        {
           "url": "https://unchainedcrypto.com/coinbase-sets-mid-2027-goal-to-write-its-own-event-contracts-bloomberg-reports/",
-          "outcome": "blocked"
-        },
-        {
-          "url": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
-          "outcome": "blocked"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-21T01:15:07.279Z",
+      "reviewedAt": "2026-11-23T07:05:35.471Z",
       "retrySearches": [
         "Find a second full independent report of Coinbase targeting first-half 2027 for in-house prediction market contracts beyond Decrypt",
         "Retry CoinDesk and Unchained URLs after any Retry-After within the verification window"
       ],
-      "lastReviewedDay": "2026-11-21",
-      "nextReviewDate": "2026-11-22"
+      "lastReviewedDay": "2026-11-23",
+      "articleSlug": "eventcontracts"
     },
     "696524c56255408e3311": {
       "source": "Cointelegraph",
@@ -416322,6 +416314,23 @@
           ],
           "reviewedAt": "2026-11-23T06:56:54.488Z",
           "articleSlug": "xmr1collapse"
+        },
+        "f43176a77d48fd557b8b": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Reused restored eventcontracts draft; Unchained now HTTP 200 and re-read in full alongside Decrypt. Expanded past 600 words (605), fixed Unchained attribution to 3 mentions. Audits pass: quality, formatting, images, duplicates, tsc. Links return 200.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/coinbase-sets-mid-2027-goal-to-write-its-own-event-contracts-bloomberg-reports/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-23T07:05:35.471Z",
+          "articleSlug": "eventcontracts"
         }
       },
       "baselineSlugs": [
