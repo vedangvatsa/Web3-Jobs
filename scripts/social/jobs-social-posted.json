@@ -176310,7 +176310,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "441f309b-ba73-49d8-9cf6-d1deab663c92",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7530709732605644800"
     }
   ]
 }
