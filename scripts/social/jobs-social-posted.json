@@ -172250,7 +172250,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "f8016f72-7b7f-40cb-87dc-5341f8ab7de1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd3ca84ffe5591cbdc8d846e91dbe622803a9247a"
     }
   ]
 }
