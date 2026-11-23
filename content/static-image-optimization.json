@@ -2601,10 +2601,6 @@
       "sha256": "cf5728eda92f9f0eae373429c7bd80c1a56362bc24515809255a2e74c4f2d9bd",
       "status": "optimized"
     },
-    "/events/luma-evt-7aaxotclijt7dti-34a9b0dc.webp": {
-      "sha256": "bb40ddc3f0ef09b49df4fc3d984aae435bfd0697bbc8e082dcba6b2696e120e1",
-      "status": "optimized"
-    },
     "/events/luma-evt-7e6jetwxpdtsjne-45f4791d.webp": {
       "sha256": "cf78f6f8744fdff0ed15aa89f472ab7adeb1b76fcd550b943d0d03ab1f0aa55d",
       "status": "optimized"
@@ -3041,10 +3037,6 @@
       "sha256": "6098cbf6fc6601266ef278f94af58879f642ee2a92377b658d8faef48099e67c",
       "status": "optimized"
     },
-    "/events/luma-evt-fxiuzlpawc1vqon-04b5772d.webp": {
-      "sha256": "7eafa663488aec350bba2ed17a702c73d41c5d56a17cf4eca47f009aaa407a2f",
-      "status": "optimized"
-    },
     "/events/luma-evt-fyfpo80pscs5gfs-4a476837.webp": {
       "sha256": "09227085528c4ae3823593f529a3ec0a87d85f3c8970c1ab40ae94fc86e43ae9",
       "status": "optimized"
@@ -3289,10 +3281,6 @@
       "sha256": "3c7a9ad2462b4e79e5552043aca6928a0f875df69685bc523182a2492b743e77",
       "status": "optimized"
     },
-    "/events/luma-evt-l1ejklut5tzvaaz-c9cedf6c.webp": {
-      "sha256": "79ce467c8f9adedbfe30380f8ab3fbfb584173ccda75aa01344b99c2a75132e1",
-      "status": "optimized"
-    },
     "/events/luma-evt-l2acvkyqgshvrxt-43c6f2c9.webp": {
       "sha256": "4d2a9f7b63ac3c302cfbf3495f936e81c342998924f76e20d0e77c9d67ec241c",
       "status": "optimized"
@@ -3368,10 +3356,6 @@
     "/events/luma-evt-m2m7fjhqgukf9vn-d4c6997e.webp": {
       "sha256": "25037d08eff593ba29523f4fd7ab6de6c32e3921884164f91b8eec8d4e6496cd",
       "status": "retained"
-    },
-    "/events/luma-evt-m3wk1u8isolskl9-28cca112.webp": {
-      "sha256": "989703057136a5c134a8d46162b19d5d4d59f4488850e8036f5c086cb7a903dc",
-      "status": "optimized"
     },
     "/events/luma-evt-mbahl16fotqj9ai-d61b5082.webp": {
       "sha256": "fc335bb8975f160079e2cb26ad2a50a0a0f039b911aadc40dee9435691fabc4d",
@@ -3867,10 +3851,6 @@
     },
     "/events/luma-evt-wqdoymrfhfcr9wh-ab459cae.webp": {
       "sha256": "cb8a4db3253f987c89cc571fc2f6db6a907508ae2d406bd2fb38c7b4a9c0c6de",
-      "status": "optimized"
-    },
-    "/events/luma-evt-wwdbt5bpwv6ats8-4d625d5a.webp": {
-      "sha256": "932d441edf85d415492ca871b28b03b0ff93d32eecb13c969774bba7c6d27e78",
       "status": "optimized"
     },
     "/events/luma-evt-x1u2rbrqcnebltt-5b954a5a.webp": {

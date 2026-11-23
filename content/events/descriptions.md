@@ -2634,20 +2634,6 @@ The Whale Pass is $1,499 and includes backstage deep sessions with speakers, all
 
 Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder, Network School), Dr Hon Johnny Ng and Kit Chong MH (Hong Kong Legislative Council), David Bailey (CEO and chairman, Nakamoto Inc.), Simon Gerovich (CEO, Metaplanet), Justin Sun (advisor, WBTC), Aj Scaramucci (founder and CEO, Treasure Trove), Jack Kong (founder and board member, Nano Labs and Hong Kong Cyberport), Bonnie Chang (founder and host, Bonnie Blockchain) and Bilal Bin Saqib (chairman, Pakistan Virtual Assets Regulatory Authority). Bitcoin Asia is published by BTC Inc., a subsidiary of Nakamoto Inc. (NASDAQ: NAKA).
 
-<a id="event-6c4c59a5062f57c1"></a>
-
-## Vancouver VibeStation
-
-- Record: `discovery-evt-61qMI4lIR0KZSDR`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-23T16:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/ydg8swsd>
-
-### About the event
-
-A Superteam Canada coworking day for builders and creatives in Vancouver. Attendees can work on projects, find collaborators or join a team. Lunch, snacks and drinks are included. Attendance is free with approval; the address is shared with guests.
-
 <a id="event-74a492180efd6917"></a>
 
 ## ETH Shenzhen 2026
@@ -19076,66 +19062,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-1dd42719cbcb922f"></a>
-
-## Free Bitcoin Cash Tattoos in Times Square 💚 \| The 00TATT$ Experience
-
-- Record: `luma-evt-M3Wk1U8ISoLSKL9`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-23T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/nfmg8l1p>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-8276ff89e65c71f0"></a>
-
-## Math minded: The Mathematics of Intelligence: Graphs, Transformers & First Principles
-
-- Record: `luma-evt-7AAxOtClIJt7DtI`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-23T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/1g4swnho>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-26e415aa477165e5"></a>
-
-## Cloudways Prepathon: In-person, Mexico City 2026
-
-- Record: `luma-evt-FXiUZLPawc1vQon`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-23T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/2xms6avp>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-964bc2737f1e5684"></a>
-
-## Atherton - Summer In Silicon Valley!
-
-- Record: `luma-evt-WWDBt5BPWV6ATs8`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-23T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/focus-siml>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-990e5731c0b67065"></a>
-
-## TMB. / INNICON
-
-- Record: `luma-evt-L1EjKLuT5tzVAAZ`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/upiowwh3>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-5bd97fcbffefe140"></a>
 
 ## Ignite Room: Devcon Mumbai
@@ -31642,6 +31568,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-4ea82bde05c19c0f"></a>
+
+## Superteam Build Club
+
+- Record: `luma-host-evt-evt-R2jKP3TPmVmsEon`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T05:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/gmtr8mn7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5000bda59d3fbe58"></a>
 
 ## OKX Australia x Blockchain Sydney — Community Night with CEO Shane Chandra
@@ -34499,6 +34437,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-05T10:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/san-antonio-options-group/events/317454511/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e00264ca5d11ebcd"></a>
+
+## The Basics of Options: From Definitions to Your First Trade
+
+- Record: `mu-317454522`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T10:00:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/chicago-options-trading-group/events/317454522/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

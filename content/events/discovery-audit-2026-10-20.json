@@ -3597,45 +3597,6 @@
       }
     },
     {
-      "id": "discovery-evt-61qMI4lIR0KZSDR",
-      "name": "Vancouver VibeStation",
-      "startDate": "2026-10-23T16:30:00.000Z",
-      "endDate": "2026-10-24T01:00:00.000Z",
-      "timezone": "America/Vancouver",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-61qMI4lIR0KZSDR",
-      "url": "https://luma.com/ydg8swsd",
-      "lane": "americas",
-      "reason": "Distinct October 23 occurrence; same-name September inventory event has a different ID and URL.",
-      "evidence": [
-        {
-          "url": "https://luma.com/ydg8swsd",
-          "fetchedAt": "2026-10-20T08:06:46.494Z",
-          "excerpt": "evt-61qMI4lIR0KZSDR; Vancouver VibeStation; 2026-10-23T16:30:00.000Z to 2026-10-24T01:00:00.000Z; America/Vancouver; Vancouver, Canada; public, open, approval true, guests-only address. Coworking, project work and team formation. Drinks, snacks and lunch. Attendance is free, approval required.",
-          "sha256": "c2262289046e933ab154439e891820627472ecdceb043d528b2f7a498f886d87",
-          "representation": "html; __NEXT_DATA__; only public city retained"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:16.639Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/fu/a7de904a-1152-4af6-9239-5796a082b8ad.png",
-        "fetchedAt": "2026-10-20T09:49:29.967Z",
-        "status": 200,
-        "local": "/events/discovery-evt-61qmi4lir0kzsdr-151ce3d6.webp",
-        "sourceSha256": "dbdf8ad8adb8f52ddfbea5968972144cb4640af902d323c4a1c07e20bebcadad",
-        "sha256": "bca7914547d89b6219e9b1b92aa1fd979050de9a580d11795fcb72bad01a22b7",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 59252
-      }
-    },
-    {
       "id": "discovery-evt-Hjvm4014VjuSoa4",
       "name": "Toronto VibeStation",
       "startDate": "2026-10-30T13:30:00.000Z",

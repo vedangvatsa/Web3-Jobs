@@ -2442,7 +2442,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3218,7 +3218,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -5297,34 +5297,6 @@
     }
   },
   {
-    "id": "luma-evt-FXiUZLPawc1vQon",
-    "name": "Cloudways Prepathon: In-person, Mexico City 2026",
-    "description": "",
-    "startDate": "2026-10-23T22:00:00.000Z",
-    "endDate": "2026-10-24T01:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/2xms6avp",
-    "coverImage": "/events/luma-evt-fxiuzlpawc1vqon-04b5772d.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-L1EjKLuT5tzVAAZ",
-    "name": "TMB. </> INNICON",
-    "description": "",
-    "startDate": "2026-10-24T00:00:00.000Z",
-    "endDate": "2026-10-24T02:30:00.000Z",
-    "city": "Shibuya",
-    "country": "Japan",
-    "location": "Shibuya, Japan",
-    "url": "https://lu.ma/upiowwh3",
-    "coverImage": "/events/luma-evt-l1ejklut5tzvaaz-c9cedf6c.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "name": "Ignite Room: Devcon Mumbai",
     "description": "Ignite Room hosts introductory talks and hands-on workshops on Ethereum, smart contracts and decentralized applications. Beginners are welcome. Participants must bring a laptop, and registration requires approval.",
     "startDate": "2026-10-24T04:30:00.000Z",
@@ -7088,20 +7060,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-WWDBt5BPWV6ATs8",
-    "name": "Atherton - Summer In Silicon Valley!",
-    "description": "",
-    "startDate": "2026-10-23T22:00:00.000Z",
-    "endDate": "2026-10-24T01:30:00.000Z",
-    "city": "Atherton",
-    "country": "United States",
-    "location": "Atherton, United States",
-    "url": "https://lu.ma/focus-siml",
-    "coverImage": "/events/luma-evt-wwdbt5bpwv6ats8-4d625d5a.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-461QGC3FVhObGdJ",
     "name": "Building the Next AI-Powered BeSci Unicorn",
     "description": "",
@@ -7328,20 +7286,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-7AAxOtClIJt7DtI",
-    "name": "Math minded: The Mathematics of Intelligence: Graphs, Transformers & First Principles",
-    "description": "",
-    "startDate": "2026-10-23T22:00:00.000Z",
-    "endDate": "2026-10-24T01:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/1g4swnho",
-    "coverImage": "/events/luma-evt-7aaxotclijt7dti-34a9b0dc.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-316890023",
     "name": "Bienvenidos a charla en Español.",
     "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
@@ -7531,20 +7475,6 @@
     "url": "https://www.acceleratetomorrow.com",
     "coverImage": "/events/w3v-accelerate-tomorrow-ai-summit-2027-17908633011-3b90e124.webp",
     "month": "June 2027"
-  },
-  {
-    "id": "luma-evt-M3Wk1U8ISoLSKL9",
-    "name": "Free Bitcoin Cash Tattoos in Times Square 💚 | The 00TATT$ Experience",
-    "description": "",
-    "startDate": "2026-10-23T18:00:00.000Z",
-    "endDate": "2026-10-24T06:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/nfmg8l1p",
-    "coverImage": "/events/luma-evt-m3wk1u8isolskl9-28cca112.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-S7VTD2pQ6H721Sl",
@@ -18055,7 +17985,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -20975,7 +20905,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/317292735/",
-    "coverImage": "/events/mu-317292735-a00a3a6b.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20989,7 +20919,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/devopsdsm/events/317271205/",
-    "coverImage": "/events/mu-317271205-cfa9a770.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -23945,5 +23875,33 @@
     "coverImage": "/events/eb-1996823780681-f9195c8d.webp",
     "source": "eventbrite",
     "month": "April 2027"
+  },
+  {
+    "id": "luma-host-evt-evt-R2jKP3TPmVmsEon",
+    "name": "Superteam Build Club",
+    "description": "",
+    "startDate": "2026-11-25T05:30:00.000Z",
+    "endDate": "2026-11-25T11:30:00.000Z",
+    "city": "",
+    "country": "Thailand",
+    "location": "Thailand",
+    "url": "https://luma.com/gmtr8mn7",
+    "coverImage": "/events/luma-host-evt-evt-r2jkp3tpmvmseon-e23e8d7a.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-317454522",
+    "name": "The Basics of Options: From Definitions to Your First Trade ",
+    "description": "**Traders of all levels are welcome to join and learn!**\n\n**Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
+    "startDate": "2026-12-05T10:00:00-06:00",
+    "endDate": "2026-12-05T10:00:00-06:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/chicago-options-trading-group/events/317454522/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
   }
 ]
