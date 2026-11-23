@@ -2442,7 +2442,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3218,7 +3218,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -5364,20 +5364,6 @@
     "url": "https://luma.com/vdetxnel",
     "registrationUrl": "https://luma.com/vdetxnel",
     "source": "curated-reviewed"
-  },
-  {
-    "id": "luma-evt-tZ1euvg2i2cxtyG",
-    "name": "Web3 全攻略：市況 × 量化 × 入行",
-    "description": "",
-    "startDate": "2026-10-24T06:00:00.000Z",
-    "endDate": "2026-10-24T08:00:00.000Z",
-    "city": "",
-    "country": "Hong Kong",
-    "location": "Hong Kong",
-    "url": "https://lu.ma/y4btoujx",
-    "coverImage": "/events/luma-evt-tz1euvg2i2cxtyg-6c958bcf.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-fIjCHUPG7u9RaBR",
@@ -9900,7 +9886,10 @@
     "url": "https://www.meetup.com/lfdt-north-carolina/events/317064975/",
     "coverImage": "/events/mu-317064975-0dc78544.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-1YkeGIX5PJN3Q9d",
@@ -17985,7 +17974,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -19257,7 +19246,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/317475406/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317475406-975f5f2c.webp",
     "source": "meetup",
     "month": "December 2026"
   },

@@ -19076,18 +19076,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 Ignite Room hosts introductory talks and hands-on workshops on Ethereum, smart contracts and decentralized applications. Beginners are welcome. Participants must bring a laptop, and registration requires approval.
 
-<a id="event-0295012ff12737b3"></a>
-
-## Web3 全攻略：市況 × 量化 × 入行
-
-- Record: `luma-evt-tZ1euvg2i2cxtyG`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T06:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/y4btoujx>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-c464c82ca361f693"></a>
 
 ## Makers & Founders co-work - Build together #15
