@@ -176468,7 +176468,8 @@
       },
       "account": "profile",
       "attemptId": "c48dc89d-7f03-40f1-b79e-3a9654d26364",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc18fca60d45e65fe1609f725ee9c93b194d2b984"
     }
   ]
 }
