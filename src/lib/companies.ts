@@ -563,7 +563,7 @@ function resolveCompanyAboutDescription(
 ): string {
   const shortSlug = slug.replace(/-labs$|-foundation$|-crypto$/, '');
   const rich = COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[shortSlug];
-  const verified = profile?.verified ? profile.description?.trim() : '';
+  const verified = profile?.verified ? (profile.description?.trim() || '') : '';
   const fallback = profile?.description?.trim() || '';
   const listing = buildListingDescription(group.name, group.jobs);
 
