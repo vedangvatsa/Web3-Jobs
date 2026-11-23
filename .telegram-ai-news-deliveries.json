@@ -875,5 +875,38 @@
     "slotKey": "2026-11-22:evening",
     "messageId": 193566,
     "sentAt": "2026-11-23T00:25:31.421Z"
+  },
+  "decbf15c-afbe-4ac4-80cf-b74bddb471a5": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T06:40:00.899Z",
+    "stories": [
+      {
+        "index": 30,
+        "original_title": "[SiliconANGLE] Google adds computer use capabilities to Gemini’s Mac app",
+        "headline": "Google adds computer control capabilities to Gemini Mac app",
+        "summary": "Subscribers in the United States can now enable the assistant to interact directly with desktop software applications.",
+        "event_rationale": "Covers Google's rollout of direct operating system interaction capabilities, distinct from web search and voice features previously reported.",
+        "link": "https://siliconangle.com/2026/11/19/google-adds-computer-use-capabilities-to-geminis-mac-app/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Google adds computer use capabilities to Gemini’s Mac app"
+      },
+      {
+        "index": 1,
+        "headline": "Investors Explain Major Financial Support for Anthropic",
+        "summary": "Notable Capital, GIC, and Baillie Gifford detailed what gave them conviction to invest billions in the startup.",
+        "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "source": "TechCrunch",
+        "originalTitle": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+      },
+      {
+        "index": 2,
+        "headline": "Experts warn of more major technology system outages",
+        "summary": "Recent disruptions at the FAA, Microsoft, and JPMorgan Chase suggest that further large-scale technical failures are likely.",
+        "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+        "source": "The Verge",
+        "originalTitle": "We haven’t seen the last of the major tech outages"
+      }
+    ],
+    "slotKey": "2026-11-23:morning"
   }
 }
