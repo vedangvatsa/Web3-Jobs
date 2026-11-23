@@ -2623,7 +2623,7 @@
     "sentAt": "2026-11-22T11:55:07.700Z"
   },
   "0736cde7-0b7f-48e0-b55d-8dc38e597bc8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T00:25:29.923Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2736,6 +2736,8 @@
       }
     ],
     "message": "- Coinbase is hiring <a href=\"https://hashtagweb3.com/pm371?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Manager II, Payment Experiences</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/pm232?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Risk Control Principal Product Specialist</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls360?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SMB, Velocity Hunter, Spanish speaking</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/mgr170?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Revenue Content Governance Manager</a>\n- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int52?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 Risk Intern - NYC</a>",
-    "slotKey": "2026-11-22:evening"
+    "slotKey": "2026-11-22:evening",
+    "messageId": 156454,
+    "sentAt": "2026-11-23T00:25:35.616Z"
   }
 }
