@@ -2859,7 +2859,7 @@
     "sentAt": "2026-11-23T06:39:50.021Z"
   },
   "d92185f3-f3a1-4657-9459-a195e6ddbe30": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T13:35:32.879Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -2974,6 +2974,8 @@
       }
     ],
     "message": "- 0G Labs is hiring <a href=\"https://hashtagweb3.com/pm387?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Designer</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/aspa?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Applied Scientist, Property Analytics</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sec63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Audit Senior Manager</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls359?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Account Manager, Commercial</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/ops126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Specialist</a>",
-    "slotKey": "2026-11-23:afternoon"
+    "slotKey": "2026-11-23:afternoon",
+    "messageId": 156471,
+    "sentAt": "2026-11-23T13:35:35.719Z"
   }
 }
