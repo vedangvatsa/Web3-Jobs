@@ -74,6 +74,9 @@
   "https://hashtagweb3.com/eventcontracts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xmr1collapse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/comeback?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/kavalendhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/warshforum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nearmemecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -224,6 +227,12 @@
   "Wrapped Monero token XMR1 collapses 99.8% after $13.5 million sell-off",
   "Jensen Huang discusses return to Nvidia as allies lobby government",
   "Jensen Huang weighs Nvidia comeback as allies organize campaign",
+  "Kava Lend exploited for 55.2 million KAVA tokens",
+  "Kava Lend exploit borrows 55.2 million KAVA as Korean exchanges halt deposits",
+  "Kevin Warsh Opens San Francisco Fed Forum on AI",
+  "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday",
+  "North Korean hackers use temporary tokens to launder stolen funds",
+  "North Korean launderers mint throwaway meme coins to move Binance hack funds",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -298,5 +307,8 @@
   "fp:aid|bank|circl|citi|disbursement|distribut|exist|fundschain|ledger|payment",
   "fp:bloomberg|client|coinbas|contract|early2027|exchang|half|infrastructur|institutional|of2027",
   "fp:135m|asset|blam|breach|collapses998|crash|deployer|host|link|monero",
-  "fp:ally|are|campaign|chief|chipmaker|comeback|coordinat|discuss|executiv|former"
+  "fp:ally|are|campaign|chief|chipmaker|comeback|coordinat|discuss|executiv|former",
+  "fp:209m|552m|attacker|borrow|deposit|exchang|exploit|halt|kava|korean",
+  "fp:discussion|event|examin|forum|francisco|impact|inflation|job|kevin|livestream",
+  "fp:000|430|asset|binanc|coin|creat|elliptic|hack|hacker|korean"
 ]

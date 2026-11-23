@@ -825,7 +825,7 @@
     "sentAt": "2026-11-23T13:41:50.593Z"
   },
   "e1b6600f-f114-493f-90e8-2e0cf3243577": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T22:55:10.970Z",
     "stories": [
       {
@@ -853,6 +853,8 @@
         "originalTitle": "North Korean launderers mint throwaway meme coins to move Binance hack funds"
       }
     ],
-    "slotKey": "2026-11-23:evening"
+    "slotKey": "2026-11-23:evening",
+    "messageId": 156479,
+    "sentAt": "2026-11-23T22:55:18.023Z"
   }
 }
