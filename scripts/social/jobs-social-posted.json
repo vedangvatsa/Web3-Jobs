@@ -174797,7 +174797,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "29c2f85e-0657-4022-843e-9e995ccbf8ca",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x19cb7c86a4f1b7f8d4d83802dc64aa58a32952ad"
     }
   ]
 }
