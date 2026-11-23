@@ -68,6 +68,9 @@
   "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
   "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
   "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "https://siliconangle.com/2026/11/19/google-adds-computer-use-capabilities-to-geminis-mac-app/",
+  "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+  "https://www.theverge.com/tech/1039851/major-tech-outages",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -206,6 +209,12 @@
   "Security researchers show how cheap AI inference providers steal keys and snoop on users",
   "Meta reconsiders 2030 climate goals over AI data centers",
   "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+  "Google adds computer control capabilities to Gemini Mac app",
+  "Google adds computer use capabilities to Gemini’s Mac app",
+  "Investors Explain Major Financial Support for Anthropic",
+  "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+  "Experts warn of more major technology system outages",
+  "We haven’t seen the last of the major tech outages",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -274,5 +283,8 @@
   "fp:actual|best|capacity|compar|cost|default|evaluat|gemini|herm|in2026",
   "fp:action|alpamayo2|driv|edg|explain|latency|millisecond|nvidia|parameter|reason",
   "fp:cheap|compromis|cost|credential|how|hundr|inferenc|leak|low|marketplac",
-  "fp:center|climat|commitment|corporat|demand|electricity|emission|evaluat|forc|goal"
+  "fp:center|climat|commitment|corporat|demand|electricity|emission|evaluat|forc|goal",
+  "fp:add|app|application|assistant|can|capability|computer|control|desktop|directly",
+  "fp:anthropic|bailli|bet|big|capital|conviction|detail|explain|financial|gav",
+  "fp:are|chas|disruption|expert|faa|failur|further|haven|jpmorgan|larg"
 ]

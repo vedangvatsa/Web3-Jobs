@@ -877,7 +877,7 @@
     "sentAt": "2026-11-23T00:25:31.421Z"
   },
   "decbf15c-afbe-4ac4-80cf-b74bddb471a5": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T06:40:00.899Z",
     "stories": [
       {
@@ -907,6 +907,8 @@
         "originalTitle": "We haven’t seen the last of the major tech outages"
       }
     ],
-    "slotKey": "2026-11-23:morning"
+    "slotKey": "2026-11-23:morning",
+    "messageId": 193567,
+    "sentAt": "2026-11-23T06:40:03.730Z"
   }
 }
