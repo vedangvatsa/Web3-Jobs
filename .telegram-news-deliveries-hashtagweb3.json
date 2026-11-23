@@ -792,7 +792,7 @@
     "sentAt": "2026-11-23T06:39:48.007Z"
   },
   "10fee060-9459-4794-becf-6f7d9c7a2be2": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T13:41:43.611Z",
     "stories": [
       {
@@ -820,6 +820,8 @@
         "originalTitle": "Jensen Huang weighs Nvidia comeback as allies organize campaign"
       }
     ],
-    "slotKey": "2026-11-23:afternoon"
+    "slotKey": "2026-11-23:afternoon",
+    "messageId": 156472,
+    "sentAt": "2026-11-23T13:41:50.593Z"
   }
 }
