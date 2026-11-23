@@ -4561,5 +4561,599 @@
         "finalUrl": "https://docs.zircuit.com/build/grants"
       }
     }
+  },
+  "base-creator-grant": {
+    "removedAt": "2026-11-23T20:30:28.538Z",
+    "reason": "program-closed",
+    "url": "https://forms.gle/67DrXcKSZU6XVS1q7",
+    "name": "Base Creator Grant Program",
+    "grant": {
+      "id": "base-creator-grant",
+      "name": "Base Creator Grant Program",
+      "provider": "Base Creator Grant Program",
+      "category": "Web3 Ecosystem",
+      "type": "Grant",
+      "amount": "Milestone-based",
+      "description": "Base Creator Grant Program Application We're backing Independent creators up to $4,000 who are already making great content around Base and our Builders. Who's this for : Writers covering Base (deep dives, memes, analysis, threads) Streamers and live-show hosts Creators running a recurring show Independent video creators Educators covering Base in their own language If any of that sounds like you, we'd love to hear from you.",
+      "url": "https://forms.gle/67DrXcKSZU6XVS1q7",
+      "ecosystem": "Base",
+      "tags": [
+        "dApps",
+        "Data & Oracles",
+        "DeFi",
+        "DePIN",
+        "DevTooling",
+        "Infra",
+        "Privacy & Security",
+        "Stablecoins & Payments",
+        "AI",
+        "AIAgents"
+      ],
+      "deadline": "Rolling / Always Open",
+      "featured": false,
+      "domain": "base.org",
+      "sections": [
+        {
+          "heading": "Program overview",
+          "paragraphs": [
+            "Base Creator Grant Program Application We're backing Independent creators up to $4,000 who are already making great content around Base and our Builders. Who's this for : Writers covering Base (deep dives, memes, analysis, threads) Streamers and live-show hosts Creators running a recurring show Independent video creators Educators covering Base in their own language If any of that sounds like you, we'd love to hear from you."
+          ]
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://forms.gle/67DrXcKSZU6XVS1q7",
+        "fetchedAt": "2026-11-23T20:18:44.335Z",
+        "wordCount": 134,
+        "method": "meta",
+        "pageTitle": "Base Creator Grant Program Application"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-23T20:07:50.359Z",
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdh54xkxhkHWIPP9N7pRnWWb2HV6qeg7TpDKwpW2qfwb9fY1w/closedform"
+      }
+    }
+  },
+  "biconomy-grants": {
+    "removedAt": "2026-11-23T20:30:28.538Z",
+    "reason": "program-closed",
+    "url": "https://biconomy.notion.site/Biconomy-DAO-Grants-Wiki-56646af2cdcd4806b44b679dee22ce50",
+    "name": "BiconomyDAO Grants",
+    "grant": {
+      "id": "biconomy-grants",
+      "name": "BiconomyDAO Grants",
+      "provider": "BiconomyDAO",
+      "category": "Web3 Ecosystem",
+      "type": "Grant",
+      "amount": "Milestone-based",
+      "description": "Simplify web3 applications to make them accessible to everyone",
+      "url": "https://biconomy.notion.site/Biconomy-DAO-Grants-Wiki-56646af2cdcd4806b44b679dee22ce50",
+      "ecosystem": "BiconomyDAO",
+      "tags": [
+        "dApp"
+      ],
+      "deadline": "Rolling",
+      "featured": false,
+      "domain": "biconomy.io",
+      "sections": [
+        {
+          "heading": "Program overview",
+          "paragraphs": [
+            "Micro Grants are for product integration or proposals under $5k",
+            "Micro grants can be applied for on a rolling basis.",
+            "Application currently will run through [Buidl.so](http://buidl.so/)& Builders Tribe",
+            "Priority will be placed on integration of both Gasless & Hyphen",
+            "BRGE (Biconomy Rapid Grant Ecosystem Cohorts) are rapid grants for early organizations already integrated with Biconomy, or are looking to fund a feature or product scale that is applicable additional ecosystem funding up to $25K.",
+            "Application review by DAO Council & Previous Grant Graduates (This will transition into governance voting by Q4 2023).",
+            "Cohort 1 Kick-off • October 2022 ![Image 3: 🙏🏻 Callout icon](blob:http://localhost/2ae2cc6f0544e8fcceb52fb6a599a7ea)Applications CURRENTLY CLOSED Applications will re-open Q1 2023 Get notified when we re-open rapid applications",
+            "APPLICATIONS CLOSED until Q1 2023. Applications to be evaluated by Biconomy General Council (BGC).",
+            "Evaluation will include an assessment of the team, the product, and its contribution to the Biconomy ecosystem.",
+            "Applications will be reviewed and accepted/denied into quarterly cohorts.",
+            "BFG (Biconomy Foundation Grant Ecosystem Cohorts) are expanded grants for organizations that have completed a micro grant +/or BRGE Cohort that are looking to land seed or VC funding and further grow in the Biconomy Ecosystem.",
+            "1st Review & Referral of Application by DAO Council",
+            "Co-marketing DAO Milestones prior to Snapshot & Community Voting",
+            "Cohort 1 Kick-off • Spring 2023 ![Image 5: 🙏🏻 Callout icon](blob:http://localhost/2ae2cc6f0544e8fcceb52fb6a599a7ea)Applications KICK-OFF Spring 2023 Get notified when we open expanded applications",
+            "In Progress Processes for Expanded Grants (Not accepting grants for expanded grants until Spring 2023)"
+          ],
+          "bullets": []
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://biconomy.notion.site/Biconomy-DAO-Grants-Wiki-56646af2cdcd4806b44b679dee22ce50",
+        "fetchedAt": "2026-11-23T13:42:24.817Z",
+        "wordCount": 247,
+        "method": "paragraphs",
+        "pageTitle": "BiconomyDAO Grants"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-23T20:07:52.190Z",
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://biconomy.notion.site/Biconomy-DAO-Grants-Wiki-56646af2cdcd4806b44b679dee22ce50"
+      }
+    }
+  },
+  "dev3pack-solana": {
+    "removedAt": "2026-11-23T20:30:28.538Z",
+    "reason": "program-closed",
+    "url": "https://hack.dev3pack.xyz/",
+    "name": "Dev3Pack - The largest Solana university Hackathon",
+    "grant": {
+      "id": "dev3pack-solana",
+      "name": "Dev3Pack - The largest Solana university Hackathon",
+      "provider": "Dev3Pack - The largest Solana university Hackathon",
+      "category": "Web3 Ecosystem",
+      "type": "Grant",
+      "amount": "Milestone-based",
+      "description": "Join students worldwide for three days of building, 27–29 November 2026 — online or together at a local build station.",
+      "url": "https://hack.dev3pack.xyz/",
+      "ecosystem": "Solana",
+      "tags": [
+        "dApps",
+        "RWAs",
+        "DAOs",
+        "CrossChain",
+        "Data & Oracles",
+        "DeFi",
+        "DePIN",
+        "DevTooling",
+        "Education",
+        "Gaming",
+        "Infra",
+        "NFTs",
+        "Privacy & Security",
+        "PublicGoods",
+        "Social & Community",
+        "Stablecoins & Payments",
+        "Sustainability",
+        "ZK",
+        "DEXs"
+      ],
+      "deadline": "1 November 2026",
+      "featured": false,
+      "sections": [
+        {
+          "heading": "Dev3pack Global HackathonDEV3PACKHACKATHON",
+          "paragraphs": [
+            "Join students worldwide for three days of building, 27–29 November 2026 — online or together at a local build station."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Built locally. Connected globally.",
+          "paragraphs": [
+            "Students came together at 40+ build stations around the world."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "One journey, three chapters",
+          "paragraphs": [
+            "Learn together, build something real, and take your idea further."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Solana Rust Bootcamp",
+          "paragraphs": [
+            "Learn Solana and Rust in 🇬🇧 English and 🇪🇸 Spanish before kickoff."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Dev3pack Hackathon",
+          "paragraphs": [
+            "Three days of hybrid building — online or at a local build station."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Bridge Accelerator",
+          "paragraphs": [
+            "Top teams are invited to the Bridge Accelerator program."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Ship it. Win it.",
+          "paragraphs": [
+            "Cash, hardware, perks, a seat in the accelerator."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Solana Rust Bootcamp",
+          "paragraphs": [
+            "Free bootcamp in English and Spanish (2–27 Nov) so you can ship on Solana even if you are new to Rust."
+          ],
+          "bullets": []
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://hack.dev3pack.xyz/",
+        "fetchedAt": "2026-11-23T20:18:46.574Z",
+        "wordCount": 123,
+        "method": "sections",
+        "pageTitle": "Dev3pack Global Hackathon"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-23T20:07:58.108Z",
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://hack.dev3pack.xyz/"
+      }
+    }
+  },
+  "interledger-impact": {
+    "removedAt": "2026-11-23T20:30:28.538Z",
+    "reason": "program-closed",
+    "url": "https://interledger.org/grant/education/on-campus/",
+    "name": "Interledger on Local Impact Mini-Grant Program",
+    "grant": {
+      "id": "interledger-impact",
+      "name": "Interledger on Local Impact Mini-Grant Program",
+      "provider": "Interledger on Local Impact Mini-Grant Program",
+      "category": "Web3 Ecosystem",
+      "type": "Grant",
+      "amount": "From $5,000",
+      "description": "The Interledger on Local Impact Mini-Grant Program, launched by the Interledger Foundation, supports community-led innovation, learning, and community engagement focused on open payments and digital financial inclusion.",
+      "url": "https://interledger.org/grant/education/on-campus/",
+      "ecosystem": "Other",
+      "tags": [
+        "DeFi",
+        "DevTooling",
+        "Infra",
+        "Stablecoins & Payments",
+        "Education",
+        "PublicGoods"
+      ],
+      "deadline": "Thu, Nov 12,",
+      "featured": false,
+      "sections": [
+        {
+          "heading": "Interledger on Campus",
+          "paragraphs": [
+            "Supporting student-led initiatives exploring open payments and financial inclusion"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Learning by Doing",
+          "paragraphs": [
+            "Interledger on Campus supports student-led clubs and projects with the funding and support to explore how open financial systems work, whether that’s through hackathons, workshops, research, entrepreneurship initiatives, or peer-driven learning experiences. What matters is genuine curiosity about how financial systems are designed, who they serve, and how they could work better.",
+            "Applications are currently closed for 2026. Subscribe to our grants updates to learn when we reopen this grant."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "What Grantees Get",
+          "paragraphs": [],
+          "bullets": [
+            "Funding for workshops, hackathons, events, prototypes, and more (see FAQ for more ideas)",
+            "Opportunities to connect with students, developers, researchers, and open payments communities globally"
+          ]
+        },
+        {
+          "heading": "What We Look For",
+          "paragraphs": [
+            "Applications must be student-led and supported by a faculty supervisor or university department. All applicants should submit:",
+            "Applicants will submit a short application that includes:",
+            "Yes, as long as the project has faculty or institutional support.",
+            "No. Projects can focus on education, research, community engagement, experimentation, or technical development.",
+            "Yes. All projects must have support from a faculty supervisor, department, or recognized university organization."
+          ],
+          "bullets": [
+            "An institutional letter of support confirming fund management and oversight",
+            "Priority review for projects in first half of the year",
+            "Projects are expected to run for no longer than 3 months",
+            "Projects must be completed by December 31, 2026",
+            "A budget and timeline document, outlining key milestones",
+            "An institutional letter of support from an accredited higher education institution confirming fund management and oversight.",
+            "Existing or new student-led clubs, societies or associations at accredited higher education institutions.",
+            "Clubs must be focused on business, finance, computer science, engineering, public policy, governance or related fields.",
+            "Development of small technology prototypes or payment tools"
+          ]
+        },
+        {
+          "heading": "Our Approach to Grantmaking",
+          "paragraphs": [
+            "Check out our Grantmaking FAQs to know our approach and expectations across all our grants."
+          ],
+          "bullets": []
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://interledger.org/grant/education/on-campus/",
+        "fetchedAt": "2026-11-23T13:41:01.689Z",
+        "wordCount": 283,
+        "method": "sections",
+        "pageTitle": "Interledger Foundation | Interledger on Campus"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-23T20:08:05.900Z",
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://interledger.org/grant/education/on-campus/"
+      }
+    }
+  },
+  "webflow-startups": {
+    "removedAt": "2026-11-23T20:30:28.538Z",
+    "reason": "program-closed",
+    "url": "https://help.webflow.com/hc/en-us/articles/33961217659923-How-to-redeem-your-Webflow-for-startups-discount",
+    "name": "Webflow for Startups",
+    "grant": {
+      "id": "webflow-startups",
+      "name": "Webflow for Startups",
+      "provider": "Webflow for Startups",
+      "category": "Developer Infra & Tooling",
+      "type": "Credit / Perk",
+      "amount": "Startup discount / credits – see page",
+      "description": "The Webflow for Startups program ended on June 30, 2026. After careful consideration, we made the decision to sunset the startups program. We no longer accept new applications. All current program participants will be honored through their existing commitments. See the FAQ section below for more details.",
+      "url": "https://help.webflow.com/hc/en-us/articles/33961217659923-How-to-redeem-your-Webflow-for-startups-discount",
+      "ecosystem": "Global",
+      "tags": [
+        "Design"
+      ],
+      "deadline": "Always Open",
+      "featured": false,
+      "sections": [
+        {
+          "heading": "Learn how to apply your Webflow for startups promo code to your Webflow site.",
+          "paragraphs": [
+            "The Webflow for Startups program ended on June 30, 2026. After careful consideration, we made the decision to sunset the startups program. We no longer accept new applications. All current program participants will be honored through their existing commitments. See the FAQ section below for more details.",
+            "If you were accepted into the Webflow for startups program before June 30, 2026, you received a promo code for 100% off your first year of a monthly Premium Site plan (and legacy CMS Site plan). If you're an existing program participant within your committed period, you can apply this promo code when purchasing a Site plan for your site."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Apply your startups promo code",
+          "paragraphs": [
+            "These steps only apply if you already have a promo code from your Webflow for startups acceptance email. The promo code only applies to monthly billing for the Premium Site plan (and legacy CMS Site plan). It won't work with yearly billing.",
+            "To apply the Webflow startups discount promo code:"
+          ],
+          "bullets": [
+            "Go to Site settings > Plans > Website tab",
+            "Click Upgrade to CMS in the CMS Site plan section",
+            "Enter your promo code from your Webflow startups program acceptance email"
+          ]
+        },
+        {
+          "heading": "Why was Webflow for Startups discontinued?",
+          "paragraphs": [
+            "As we sharpen our focus, we're concentrating our resources on the programs, products, and customer experiences that are most aligned with where the company is headed. As of June 30, 2026, we no longer accept new applications. All current program participants will be honored through their existing commitments."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Will Webflow launch a new startup program in the future?",
+          "paragraphs": [
+            "We don't have plans for a new early-stage program at this time. We'll continue to support startups through our standard plans, educational resources, and product updates. Any future changes will be shared on the Webflow blog or Help Center."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "When did the program officially end?",
+          "paragraphs": [
+            "The Webflow for Startups program closed on June 30, 2026. New applications are no longer accepted and program infrastructure is being retired."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "What happens if I'm currently in the program?",
+          "paragraphs": [
+            "Your access continues through the end of your committed period as stated in your original acceptance. At the end of that period, your account will transition to our standard plans. You will be notified prior to your expiration date."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Are there other ways for startups to use Webflow?",
+          "paragraphs": [
+            "Yes! Webflow offers a free Starter plan that lets anyone design and build sites at no cost. You can explore the Starter plan and other options on our pricing page."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Related articles",
+          "paragraphs": [],
+          "bullets": [
+            "Updated pricing and simplified plans for May 2026",
+            "How do I view my recent Webflow charges?",
+            "How to accept a client payments request (as a client)",
+            "Why was I charged when my site exceeded its bandwidth limit?",
+            "Updates to our pricing and product strategy for December 2024",
+            "I’ve received an unrecognized charge from Webflow. What should I do?"
+          ]
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://help.webflow.com/hc/en-us/articles/33961217659923-How-to-redeem-your-Webflow-for-startups-discount",
+        "fetchedAt": "2026-11-23T13:41:20.329Z",
+        "wordCount": 423,
+        "method": "sections",
+        "pageTitle": "How to redeem your Webflow for startups discount"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-23T20:08:34.754Z",
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://help.webflow.com/hc/en-us/articles/33961217659923-How-to-redeem-your-Webflow-for-startups-discount"
+      }
+    }
+  },
+  "zcash-grants": {
+    "removedAt": "2026-11-23T20:30:28.538Z",
+    "reason": "program-closed",
+    "url": "https://forum.zcashcommunity.com/t/q3-and-q4-coinholder-directed-retroactive-grants-program-dates-plan-ahead/56606",
+    "name": "Zcash Coinholder-Directed Retroactive Grants – Q4 2026 round",
+    "grant": {
+      "id": "zcash-grants",
+      "name": "Zcash Coinholder-Directed Retroactive Grants – Q4 2026 round",
+      "provider": "Zcash Coinholder-Directed Retroactive Grants – Q4 2026 round",
+      "category": "Web3 Ecosystem",
+      "type": "Grant",
+      "amount": "Milestone-based",
+      "description": "Call for proposals opens October 30 – November 13, 2026 (retroactive funding for completed work on Zcash). Review and voting follow in November–December.",
+      "url": "https://forum.zcashcommunity.com/t/q3-and-q4-coinholder-directed-retroactive-grants-program-dates-plan-ahead/56606",
+      "ecosystem": "Other",
+      "tags": [
+        "Privacy & Security",
+        "ZK",
+        "Infra",
+        "DevTooling",
+        "PublicGoods"
+      ],
+      "deadline": "November 13, 2026",
+      "featured": false,
+      "sections": [
+        {
+          "heading": "Q3 and Q4 Coinholder-Directed Retroactive Grants Program Dates - Plan Ahead!",
+          "paragraphs": [
+            "We’re planning on the following dates for the Q3 and Q4 Coinholder-Directed Retroactive Grants program:"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Q3 2026",
+          "paragraphs": [
+            "Call for Proposals: July 31 (Fri) – August 14 (Fri) @ 20:00 UTC",
+            "Mandatory Review Period: August 17 (Mon) – September 16 (Wed) @ 20:00 UTC",
+            "Polling/Voting Period: September 17 (Thu) – September 29 (Tue) @ 20:00 UTC"
+          ],
+          "bullets": [
+            "Call for Proposals: July 31 (Fri) – August 14 (Fri) @ 20:00 UTC",
+            "Mandatory Review Period: August 17 (Mon) – September 16 (Wed) @ 20:00 UTC",
+            "Polling/Voting Period: September 17 (Thu) – September 29 (Tue) @ 20:00 UTC"
+          ]
+        },
+        {
+          "heading": "Q4 2026",
+          "paragraphs": [
+            "Call for Proposals: October 30 (Fri) – November 13 (Fri) @ 20:00 UTC",
+            "Mandatory Review Period: November 16 (Mon) – December 16 (Wed) @ 20:00 UTC",
+            "Polling/Voting Period: December 17 (Thu) – December 29 (Tue) @ 20:00 UTC",
+            "Reminder for Q2 applicants: Your submission can remain as-is and carry forward to the Q3 vote, or you may withdraw it, revise it, and resubmit. The choice is yours: please indicate your preference in your grant thread. (Original postponement post.)",
+            "We’ll post the call for proposals on July 31st; please do not submit new requests prior to that announcement.",
+            "DM FPF or post to this thread with any questions. Thanks!"
+          ],
+          "bullets": [
+            "Call for Proposals: October 30 (Fri) – November 13 (Fri) @ 20:00 UTC",
+            "Mandatory Review Period: November 16 (Mon) – December 16 (Wed) @ 20:00 UTC",
+            "Polling/Voting Period: December 17 (Thu) – December 29 (Tue) @ 20:00 UTC"
+          ]
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://forum.zcashcommunity.com/t/q3-and-q4-coinholder-directed-retroactive-grants-program-dates-plan-ahead/56606",
+        "fetchedAt": "2026-11-23T13:41:22.287Z",
+        "wordCount": 237,
+        "method": "sections",
+        "pageTitle": "Q3 and Q4 Coinholder-Directed Retroactive Grants Program Dates - Plan Ahead!"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-23T20:08:36.021Z",
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://forum.zcashcommunity.com/t/q3-and-q4-coinholder-directed-retroactive-grants-program-dates-plan-ahead/56606"
+      }
+    }
+  },
+  "anthropic-startup": {
+    "removedAt": "2026-11-23T20:44:29.787Z",
+    "reason": "program-closed",
+    "url": "https://claude.com/programs/startups",
+    "name": "Anthropic Startup Program",
+    "grant": {
+      "id": "anthropic-startup",
+      "name": "Anthropic Startup Program",
+      "provider": "Anthropic Startup Program",
+      "category": "Cloud & AI Credits",
+      "type": "Credit / Perk",
+      "amount": "$25,000+ in Claude credits",
+      "description": "Build your company on Claude. Explore the products startups build with, see how founders are shipping, and get stories and playbooks in your inbox. Subscribe to the Claude Startup newsletter to stay connected.",
+      "url": "https://claude.com/programs/startups",
+      "ecosystem": "Global",
+      "tags": [
+        "AI Platforms"
+      ],
+      "deadline": "12 months",
+      "featured": false,
+      "sections": [
+        {
+          "heading": "Claude Startups",
+          "paragraphs": [
+            "Build your company on Claude. Explore the products startups build with, see how founders are shipping, and get stories and playbooks in your inbox. Subscribe to the Claude Startup newsletter to stay connected.",
+            "1 of 6: Michael Truell, Co-founder & CEO of Cursor"
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Build, ship, and scale with Claude",
+          "paragraphs": [
+            "Claude products for startups give you everything you need to build your idea and support your team."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Claude API",
+          "paragraphs": [
+            "Build on frontier intelligence by adding Claude models with a single integration."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Claude Code",
+          "paragraphs": [
+            "Ship faster with Claude Code. Describe what you need and Claude Code works across your code to build, debug, and ship it."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Claude Managed Agents",
+          "paragraphs": [
+            "Create your own production agents with MCP, code execution, and tool use. Go from prototype to deployed agents in days."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "In good company",
+          "paragraphs": [
+            "A look inside the startups and founders using Claude. See what they shipped and how Claude transformed their business."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Resources",
+          "paragraphs": [
+            "Stories, playbooks, and lessons from founders shipping with Claude."
+          ],
+          "bullets": []
+        },
+        {
+          "heading": "Building AI-native: Inside the stacks powering Cognition, Gamma, and Harvey",
+          "paragraphs": [
+            "The conversation covers multi-agent orchestration, MCP in production, autonomous agent design, and the tradeoffs each team has worked through along the way.",
+            "The founder's playbook: Building an AI-native startup from idea, MVP, launch, to scale",
+            "How Warp builds self improving agents on Claude",
+            "How CodeRabbit used Claude to build an agent orchestration system"
+          ],
+          "bullets": []
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://claude.com/programs/startups",
+        "fetchedAt": "2026-11-23T13:40:47.197Z",
+        "wordCount": 656,
+        "method": "sections",
+        "pageTitle": "Claude for Startups program"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-23T20:07:34.873Z",
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://claude.com/programs/startups"
+      }
+    }
   }
 }

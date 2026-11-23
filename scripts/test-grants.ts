@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import type { GrantProgram } from '../src/types';
 import { countStoredGrantWords } from '../src/lib/grant-editorial';
+import { grantApplicationStatus } from './lib/grant-application-status';
 
 const GRANTS_PATH = path.join(process.cwd(), 'content', 'grants', 'grants.json');
 const GRANTS_META_PATH = path.join(process.cwd(), 'content', 'grants-meta.json');
@@ -120,7 +121,18 @@ function runTests() {
     );
   }
 
-  console.log(`✓ All ${grants.length} grants passed integrity, slug, and source-body checks!`);
+  const notAccepting: string[] = [];
+  for (const g of grants) {
+    const status = grantApplicationStatus(g as GrantProgram);
+    if (!status.ok) notAccepting.push(`${g.id} (${status.reason})`);
+  }
+  if (notAccepting.length > 0) {
+    throw new Error(
+      `${notAccepting.length} grants are not accepting applications. Run: npx tsx scripts/prune-closed-grants.ts --apply. ${notAccepting.join(', ')}`,
+    );
+  }
+
+  console.log(`✓ All ${grants.length} grants passed integrity, slug, source-body, and application-open checks!`);
 }
 
 runTests();
