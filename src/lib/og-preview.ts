@@ -32,10 +32,15 @@ import { isExpiredJobPath } from '@/lib/job-age-path';
 import { canonicalSocialPagePath } from '@/lib/social-share';
 import { getGrantsOgDiscoverDescription } from '@/lib/grant-count';
 import { getFreshJobCountLabel } from '@/lib/seo-freshness';
+import { seoSocialTitle, stripTrailingBrand } from '@/lib/seo-title';
 import slugTypes from '../../content/slug-types.json';
 
 const SITE_NAME = 'Hashtag Web3';
 const REMEDIATED_COMPANY_SLUGS = new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)));
+
+function normalizePreviewTitle(title: string): string {
+  return seoSocialTitle(stripTrailingBrand(title).replace(/^Hashtag Web3\s+/i, ''));
+}
 const COMPANY_SLUGS = new Set([...slugTypes.companies, ...REMEDIATED_COMPANY_SLUGS]);
 
 export type OgPreviewMeta = {
@@ -106,7 +111,7 @@ async function resolveJobMetadata(slug: string): Promise<OgPreviewMeta | null> {
   if (!job || !resolution.canonicalSlug) return null;
 
   return {
-    title: `${job.title} at ${job.company}`,
+    title: normalizePreviewTitle(`${job.title} at ${job.company}`),
     description: buildUniqueJobMetaDescription(job),
     ogImageUrl: buildJobOgImageUrl({ ...job, slug: resolution.canonicalSlug || job.slug }),
     canonicalUrl: `${SITE_URL}/${resolution.canonicalSlug}`,
@@ -120,17 +125,17 @@ async function resolveArticleMetadata(slug: string): Promise<OgPreviewMeta | nul
 
 const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
     '/': {
-      title: `Remote Web3 Jobs (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
+      title: normalizePreviewTitle(`Remote Web3 Jobs (${getFreshJobCountLabel()})`),
       description: `Find verified remote Web3 jobs, crypto careers, salary data, and blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`,
       ogImageUrl: STATIC_OG.default,
     },
     '/jobs': {
-      title: `Remote Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
+      title: normalizePreviewTitle(`Remote Web3 Jobs (${getFreshJobCountLabel()})`),
       description: `Find verified remote Web3 jobs and crypto careers. Discover ${getFreshJobCountLabel()} in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.`,
       ogImageUrl: STATIC_OG.jobs,
     },
     '/grants': {
-      title: `Web3 Grants & Builder Credits Directory | ${SITE_NAME}`,
+      title: normalizePreviewTitle('Grants & Credits 2026'),
       description: getGrantsOgDiscoverDescription(),
       ogImageUrl: STATIC_OG.jobs,
     },
@@ -150,7 +155,7 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       ogImageUrl: `${SITE_URL}/og/pages/popups.png`,
     },
     '/companies': {
-      title: `Web3 Companies Hiring | ${SITE_NAME}`,
+      title: normalizePreviewTitle('Top Web3 Companies Hiring'),
       description: 'Browse Web3 companies hiring in DeFi, crypto, and blockchain infrastructure.',
       ogImageUrl: STATIC_OG.companies,
     },
@@ -165,7 +170,7 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       ogImageUrl: STATIC_OG.tools,
     },
     '/events': {
-      title: `Web3 Events & Conferences | ${SITE_NAME}`,
+      title: normalizePreviewTitle('Web3 Events Calendar 2026'),
       description: 'Upcoming Web3 conferences, hackathons, and crypto summits worldwide.',
       ogImageUrl: `${SITE_URL}/og/pages/events.png`,
     },
@@ -175,7 +180,7 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       ogImageUrl: STATIC_OG.news,
     },
     '/developers': {
-      title: `Hashtag Web3 Developer Portal | ${SITE_NAME}`,
+      title: normalizePreviewTitle('Developer Portal & API'),
       description: 'Static catalogs and developer resources for Hashtag Web3.',
       ogImageUrl: `${SITE_URL}/og/pages/developers.png`,
     },
@@ -307,7 +312,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
   if (canonicalPath !== path) return resolveKnownOgPreviewMeta(canonicalPath);
   const canonicalUrl = `${SITE_URL}${path}`;
   const nomad = nomadPageInfo(path);
-  if (nomad) return { title: `${nomad.title} | ${SITE_NAME}`, description: nomad.description, ogImageUrl: nomadOgImage(nomad.path), canonicalUrl: `${SITE_URL}${nomad.path}` };
+  if (nomad) return { title: normalizePreviewTitle(nomad.title), description: nomad.description, ogImageUrl: nomadOgImage(nomad.path), canonicalUrl: `${SITE_URL}${nomad.path}` };
   const learningRoute = resolveLearnRoute(path.slice(1));
   if (learningRoute) {
     const meta = learnPageMetadata(learningRoute);
@@ -318,7 +323,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
   if (glossarySlug) {
     const category = await getGlossaryCategory(glossarySlug);
     if (category?.termCount) return {
-      title: `${category.name} - Web3 Glossary`,
+      title: normalizePreviewTitle(category.name),
       description: category.description,
       ogImageUrl: `${SITE_URL}/og/pages/glossary.png`,
       canonicalUrl,
@@ -338,7 +343,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
   if (jobSlug) return resolveJobMetadata(jobSlug);
 
   const hub = PAGE_META[path];
-  if (hub) return { ...hub, canonicalUrl };
+  if (hub) return { ...hub, title: normalizePreviewTitle(hub.title), canonicalUrl };
 
   if (/^\/[^/]+$/.test(path)) {
     const slug = path.slice(1);
@@ -348,7 +353,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
       if (event) {
         const eventSlug = getEventSlug(event);
         return {
-          title: `${event.name} - Dates, Venue & Registration`,
+          title: normalizePreviewTitle(event.name),
           description: buildEventMetaDescription(event, hasCuratedEventGuide(event)),
           ogImageUrl: resolveEventOgImageUrl(event, SITE_URL),
           canonicalUrl: `${SITE_URL}/${eventSlug}`,
@@ -362,7 +367,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
       const company = await getCompanyBySlug(slug);
       if (company) {
         return {
-          title: `${company.name} Jobs | ${SITE_NAME}`,
+          title: normalizePreviewTitle(`${company.name} Jobs`),
           description: await hasPublishedCompanyProfile(company.slug) ? company.description || '' : `Company information and Web3 job listings for ${company.name} on Hashtag Web3.`,
           ogImageUrl: buildCompanyOgImageUrl(company),
           canonicalUrl: `${SITE_URL}/${company.slug}`,
@@ -372,7 +377,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
 
     const popup = resolvePopupForPathSegment(slug);
     if (popup) return {
-      title: `${popup.name} Popup | ${SITE_NAME}`,
+      title: normalizePreviewTitle(`${popup.name} popup`),
       description: formatPopupField(popup.summary),
       ogImageUrl: new URL(popup.coverImages?.[0] || '/og-image.png', SITE_URL).toString(),
       canonicalUrl: `${SITE_URL}${getPopupPath(popup.slug)}`,
@@ -390,7 +395,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
     const term = await getTerm(slug);
     if (term) {
       return {
-        title: `${term.term} - Web3 Glossary`,
+        title: normalizePreviewTitle(term.term),
         description: generateGlossaryMetaDescription(term),
         ogImageUrl: STATIC_OG.default,
         canonicalUrl: `${SITE_URL}/${term.slug}`,
@@ -400,7 +405,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
     const resource = getResourceByCanonicalSlug(slug);
     if (resource) {
       return {
-        title: resource.seo.title,
+        title: normalizePreviewTitle(resource.seo.title),
         description: resource.seo.description,
         ogImageUrl: STATIC_OG.default,
         canonicalUrl: `${SITE_URL}/${resource.seo.canonicalSlug}`,
@@ -415,7 +420,7 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
 
 export async function resolveOgPreviewMeta(path: string): Promise<OgPreviewMeta> {
   return await resolveKnownOgPreviewMeta(path) || {
-    title: `${SITE_NAME} | Web3 Jobs & Crypto Careers`,
+    title: normalizePreviewTitle('Web3 Jobs & Crypto Careers'),
     description: 'Find verified Web3 jobs, crypto careers, salary data, and practical guides.',
     ogImageUrl: buildDefaultOgImageUrl(),
     canonicalUrl: `${SITE_URL}${path}`,

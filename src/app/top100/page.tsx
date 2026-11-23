@@ -10,9 +10,13 @@ import { top100Data } from '@/lib/top100';
 import { resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
 import { withLogoImageVariants } from '@/lib/responsive-images-server';
 import { STATIC_OG } from '@/lib/job-og';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
+
+const top100TitleSegment = 'Top 100 Web3 Employers';
+const top100SocialTitle = seoSocialTitle(top100TitleSegment);
 
 export const metadata: Metadata = {
-  title: 'Top 100 Web3 Employers | Web3 Rankings',
+  title: seoTitleSegment(top100TitleSegment),
   description:
     'A ranking of the top 100 Web3 employers based on verified active hiring volume, role diversity, remote flexibility, and salary transparency.',
   alternates: {
@@ -20,7 +24,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: 'website',
-    title: 'Top 100 Web3 Employers | Hashtag Web3',
+    title: top100SocialTitle,
     description:
       'A ranking of the top 100 Web3 employers based on verified active hiring volume, role diversity, remote flexibility, and salary transparency.',
     url: 'https://hashtagweb3.com/top100',
@@ -29,13 +33,13 @@ export const metadata: Metadata = {
         url: STATIC_OG.top100,
         width: 1200,
         height: 630,
-        alt: 'Top 100 Web3 Employers | Hashtag Web3',
+        alt: top100SocialTitle,
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top 100 Web3 Employers | Hashtag Web3',
+    title: top100SocialTitle,
     description:
       'A ranking of the top 100 Web3 employers based on verified active hiring volume, role diversity, remote flexibility, and salary transparency.',
     images: [STATIC_OG.top100],

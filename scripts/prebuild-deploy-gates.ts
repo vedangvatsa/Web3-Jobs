@@ -20,6 +20,8 @@ function fullGates(): void {
   run('npx tsx scripts/test-og-meta-articles.ts');
   run('npx tsx scripts/test-news-dedup.ts');
   run('npx tsx scripts/test-event-page-quality.ts');
+  run('npm run test:seo-titles');
+  run('npm run test:company-about');
   run('npx tsx scripts/test-job-page-content-quality.ts');
   run('npx tsx scripts/test-job-slug-reserved.ts');
   run('npx tsx scripts/test-job-slug-resolution.ts');

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 import type { Popup } from '@/types/popup';
 import { formatPopupField } from '@/lib/popup-narrative';
 import { getPopupBySlug } from '@/lib/popups';
@@ -26,7 +27,8 @@ export function resolvePopupForPathSegment(segment: string): Popup | undefined {
 
 export function popupPageMetadata(popup: Popup): Metadata {
   const siteUrl = 'https://hashtagweb3.com';
-  const title = `${popup.name} Popup`;
+  const titleSegment = `${popup.name} popup`;
+  const socialTitle = seoSocialTitle(titleSegment);
   const description = formatPopupField(popup.summary);
   const path = getPopupPath(popup.slug);
   const url = `${siteUrl}${path}`;
@@ -36,19 +38,19 @@ export function popupPageMetadata(popup: Popup): Metadata {
     : `${siteUrl}/og-image.png`;
 
   return {
-    title,
+    title: seoTitleSegment(titleSegment),
     description,
     alternates: { canonical: url },
     openGraph: {
       type: 'website',
-      title: `${title} | Hashtag Web3`,
+      title: socialTitle,
       description,
       url,
       images: [{ url: ogImage, width: 1200, height: 630, alt: popup.name }],
     },
     twitter: {
       card: 'summary_large_image',
-      title: `${title} | Hashtag Web3`,
+      title: socialTitle,
       description,
       images: [ogImage],
     },

@@ -550,8 +550,27 @@ function buildListingDescription(companyName: string, jobs: Job[]): string {
  return `${companyName} has ${countLabel} listed on Hashtag Web3. ${titleSummary}${locationSummary}`;
 }
 
-function buildRichDescription(companyName: string, jobs: Job[], rich: string): string {
- return rich;
+/** Verified scrapes can be one-liners; prefer longer curated copy when below this length. */
+export const COMPANY_ABOUT_MIN_CHARS = 380;
+
+function resolveCompanyAboutDescription(
+  slug: string,
+  group: { name: string; jobs: Job[] },
+  profile?: CompanyProfileRow,
+): string {
+  const shortSlug = slug.replace(/-labs$|-foundation$|-crypto$/, '');
+  const rich = COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[shortSlug];
+  const verified = profile?.verified ? profile.description?.trim() : '';
+  const fallback = profile?.description?.trim() || '';
+  const listing = buildListingDescription(group.name, group.jobs);
+
+  if (verified && verified.length >= COMPANY_ABOUT_MIN_CHARS) return verified;
+  if (rich && rich.length >= COMPANY_ABOUT_MIN_CHARS) return rich;
+  if (rich && rich.length > (verified.length || fallback.length || 0)) return rich;
+  if (verified) return verified;
+  if (fallback) return fallback;
+  if (rich) return rich;
+  return listing;
 }
 
 function getSafeProfileWebsite(value: unknown): string | undefined {
@@ -751,7 +770,7 @@ export function buildCompaniesFromJobs(
     const dates = group.jobs.map(job => job.date).filter(date => Number.isFinite(Date.parse(date))).sort((a, b) => Date.parse(b) - Date.parse(a));
     return {
       slug, name: profile?.verified ? profile.name || group.name : group.name, website,
-      description: (profile?.verified ? profile.description : undefined) || COMPANY_RICH_ABOUT[slug] || COMPANY_RICH_ABOUT[shortSlug] || profile?.description || buildListingDescription(group.name, group.jobs),
+      description: resolveCompanyAboutDescription(slug, group, profile),
       jobCount: group.jobs.length, jobs: group.jobs,
       lastUpdated: [dates[0], profile?.verified ? profile.checkedAt : undefined].filter((date): date is string => Boolean(date) && Number.isFinite(Date.parse(date!))).sort((a, b) => Date.parse(b) - Date.parse(a))[0] || '1970-01-01T00:00:00.000Z',
       ...((profile?.verified ? profile.socialLinks : socialsBySlug[slug]) && { socialLinks: profile?.verified ? profile.socialLinks : socialsBySlug[slug] }),
@@ -822,8 +841,19 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
 
 function currentCompany(company: Company): Company {
   const jobs = company.jobs.filter(job => isJobAgeEligible(job));
-  const description = /has \d+ active roles? listed|Current openings include/.test(company.description || '')
+  const shortSlug = company.slug.replace(/-labs$|-foundation$|-crypto$/, '');
+  const rich =
+    COMPANY_RICH_ABOUT[company.slug] || COMPANY_RICH_ABOUT[shortSlug];
+  let description = /has \d+ active roles? listed|Current openings include/.test(company.description || '')
     ? buildListingDescription(company.name, jobs) : company.description;
+  if (
+    description &&
+    description.length < COMPANY_ABOUT_MIN_CHARS &&
+    rich &&
+    rich.length > description.length
+  ) {
+    description = rich;
+  }
   const website = COMPANY_WEBSITE_OVERRIDES[company.slug] || company.website;
   return structuredClone({ ...company, website, jobs, jobCount: jobs.length, description });
 }

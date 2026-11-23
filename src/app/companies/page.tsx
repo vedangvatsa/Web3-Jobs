@@ -7,23 +7,27 @@ import { resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } 
 import { TrustedBy } from '@/components/trusted-by';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { withLogoImageVariants } from '@/lib/responsive-images-server';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
+
+const companiesTitleSegment = 'Top Web3 Companies Hiring';
+const companiesSocialTitle = seoSocialTitle(companiesTitleSegment);
 
 export const metadata: Metadata = {
-  title: 'Top Web3 Companies | Crypto & Blockchain Employers',
+  title: seoTitleSegment(companiesTitleSegment),
   description: 'Explore top Web3 companies actively hiring in blockchain, DeFi, infrastructure, and crypto. Browse company profiles, open roles, and direct application links.',
   alternates: {
     canonical: 'https://hashtagweb3.com/companies',
   },
   openGraph: {
     type: 'website',
-    title: 'Top Web3 Companies | Hashtag Web3',
+    title: companiesSocialTitle,
     description: 'Explore top Web3 companies actively hiring in blockchain, DeFi, and crypto.',
     url: 'https://hashtagweb3.com/companies',
     images: [{ url: 'https://hashtagweb3.com/og-companies.png', width: 1200, height: 630, alt: 'Web3 Companies hiring in crypto and blockchain' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Top Web3 Companies | Hashtag Web3',
+    title: companiesSocialTitle,
     description: 'Explore Web3 companies actively hiring in blockchain, DeFi, and crypto.',
     images: ['https://hashtagweb3.com/og-companies.png'],
   },

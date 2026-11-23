@@ -7,23 +7,27 @@ import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { EventPartners } from '@/components/event-partners';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
+
+const eventsTitleSegment = 'Web3 Events Calendar 2026';
+const eventsSocialTitle = seoSocialTitle(eventsTitleSegment);
 
 export const metadata: Metadata = {
-  title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+  title: seoTitleSegment(eventsTitleSegment),
   description: 'Discover the top Web3 events, crypto conferences, blockchain summits, and virtual meetups. Stay updated with the latest in DeFi, DAOs, and crypto networking.',
   alternates: {
     canonical: 'https://hashtagweb3.com/events',
   },
   openGraph: {
     type: 'website',
-    title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+    title: eventsSocialTitle,
     description: 'Browse upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
     url: 'https://hashtagweb3.com/events',
     images: [{ url: 'https://hashtagweb3.com/og/pages/events.png', width: 1200, height: 630, alt: 'Web3 Events' }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+    title: eventsSocialTitle,
     description: 'Browse upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
     images: ['https://hashtagweb3.com/og/pages/events.png'],
   },
@@ -43,7 +47,7 @@ export default async function EventsPage() {
         '@type': 'WebPage',
         '@id': `${siteUrl}/events#page`,
         url: `${siteUrl}/events`,
-        name: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+        name: eventsSocialTitle,
         isPartOf: {
           '@type': 'WebSite',
           url: siteUrl,

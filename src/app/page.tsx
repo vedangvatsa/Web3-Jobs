@@ -10,29 +10,31 @@ import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 import type { Metadata } from 'next';
 import { withLogoImageVariants } from '@/lib/responsive-images-server';
 import { getFreshJobCountLabel } from '@/lib/seo-freshness';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
-const pageTitle = `Remote Web3 Jobs (${getFreshJobCountLabel()})`;
+const homeTitleSegment = `Remote Web3 Jobs (${getFreshJobCountLabel()})`;
+const homeSocialTitle = seoSocialTitle(homeTitleSegment);
 const pageDesc = `Find verified remote Web3 jobs, crypto careers, salary data, and blockchain roles. ${getFreshJobCountLabel()}. Updated daily for builders, engineers, and operators.`;
 
 export const metadata: Metadata = {
-  title: pageTitle,
+  title: seoTitleSegment(homeTitleSegment),
   description: pageDesc,
   alternates: {
     canonical: 'https://hashtagweb3.com',
   },
   openGraph: {
     type: 'website',
-    title: pageTitle,
+    title: homeSocialTitle,
     description: pageDesc,
     url: 'https://hashtagweb3.com',
     images: [{ url: 'https://hashtagweb3.com/og-image.png', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: pageTitle,
+    title: homeSocialTitle,
     description: pageDesc,
     images: ['https://hashtagweb3.com/og-image.png'],
   },

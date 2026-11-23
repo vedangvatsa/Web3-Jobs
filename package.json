@@ -42,6 +42,8 @@
     "test:catalog-recovery": "tsx scripts/test-catalog-recovery.ts && tsx scripts/test-news-cache.ts && tsx scripts/test-job-by-slug-fallback.ts",
     "test:site-catalog-integrity": "tsx scripts/test-site-catalog-integrity.ts",
     "test:grants": "tsx scripts/test-grants.ts",
+    "test:seo-titles": "tsx scripts/test-seo-titles.ts",
+    "test:company-about": "tsx scripts/test-company-about-quality.ts",
     "enrich:grants": "tsx scripts/enrich-grants-from-sources.ts --apply --refresh",
     "smoke:site": "node scripts/smoke-site.mjs",
     "test:company-jobs": "tsx scripts/test-company-jobs.ts",

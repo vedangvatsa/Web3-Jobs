@@ -18,6 +18,7 @@ import { RelatedArticles } from '@/components/related-articles';
 import { ResourcePageView } from '@/components/pseo/resource-page-view';
 import { Suspense } from 'react';
 import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryMetaDescription, extractFAQSchema, extractHowToSchema } from '@/lib/seo-utils';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
@@ -103,8 +104,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       const siteUrl = 'https://hashtagweb3.com';
       const eventSlug = getEventSlug(event);
       const canonicalUrl = `${siteUrl}/${eventSlug}`;
-      const title = event.name;
-      const ogTitle = `${event.name} | Hashtag Web3`;
+      const title = seoTitleSegment(event.name);
+      const ogTitle = seoSocialTitle(event.name);
       const description = buildEventMetaDescription(event, hasCuratedEventGuide(event));
       const socialImage = await getSocialImageInfo(resolveEventOgImageUrl(event, siteUrl));
       const ogImageUrl = socialImage.url;
@@ -153,8 +154,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
       const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
 
+      const companyTitleSegment = `${companyMeta.name} Jobs`;
+      const companySocialTitle = seoSocialTitle(companyTitleSegment);
       return {
-        title: `${companyMeta.name} Jobs`,
+        title: seoTitleSegment(companyTitleSegment),
         description: desc,
         robots: companyMeta.jobCount >= 2 || await hasPublishedCompanyProfile(companyMeta.slug)
           ? undefined
@@ -162,14 +165,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         alternates: { canonical: canonicalUrl },
         openGraph: {
           type: 'website',
-          title: `${companyMeta.name} Jobs`,
+          title: companySocialTitle,
           description: desc,
           url: canonicalUrl,
-          images: [{ ...socialImage, alt: `${companyMeta.name} Jobs` }],
+          images: [{ ...socialImage, alt: companySocialTitle }],
         },
         twitter: {
           card: 'summary_large_image',
-          title: `${companyMeta.name} Jobs`,
+          title: companySocialTitle,
           description: desc,
           images: [ogImageUrl],
         },
@@ -193,15 +196,16 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       const metaDescription = generateGlossaryMetaDescription(term);
       const ogImageUrl = `${siteUrl}/og-image.png`;
       
+      const termSocialTitle = seoSocialTitle(term.term);
       return {
-        title: `${term.term} - Web3 Glossary`,
+        title: seoTitleSegment(term.term),
         description: metaDescription,
         keywords: [term.term, ...(term.synonyms || []), term.category, 'web3', 'crypto', 'blockchain', 'glossary'],
         alternates: {
           canonical: termUrl,
         },
         openGraph: {
-          title: `${term.term} - Web3 Glossary`,
+          title: termSocialTitle,
           description: metaDescription,
           url: termUrl,
           type: 'article',
@@ -209,7 +213,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         },
         twitter: {
           card: 'summary_large_image',
-          title: `${term.term} - Web3 Glossary`,
+          title: termSocialTitle,
           description: metaDescription,
           images: [ogImageUrl],
         },
@@ -223,13 +227,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       const siteUrl = 'https://hashtagweb3.com';
       const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
       const ogImageUrl = `${siteUrl}/og-image.png`;
+      const resourceSocialTitle = seoSocialTitle(resource.seo.title);
       return {
-        title: resource.seo.title,
+        title: seoTitleSegment(resource.seo.title),
         description: resource.seo.description,
         keywords: resource.seo.keywords,
         alternates: { canonical: resourceUrl },
         openGraph: {
-          title: resource.seo.title,
+          title: resourceSocialTitle,
           description: resource.seo.description,
           type: 'article',
           url: resourceUrl,
@@ -237,7 +242,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         },
         twitter: {
           card: 'summary_large_image',
-          title: resource.seo.title,
+          title: resourceSocialTitle,
           description: resource.seo.description,
           images: [ogImageUrl],
         },
@@ -260,7 +265,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         ...(article['data-ai-hint'] ? [article['data-ai-hint']] : []),
       ].filter((v, i, a) => a.indexOf(v) === i);
 
-      const truncatedTitle = article.title.length > 44 ? article.title.slice(0, 41) + '...' : article.title;
+      const truncatedTitle = seoTitleSegment(article.title);
+      const articleSocialTitle = seoSocialTitle(article.title);
       const truncatedDescription = article.description.length > 155 ? article.description.slice(0, 152) + '...' : article.description;
 
       return {
@@ -272,7 +278,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
           canonical: articleUrl,
         },
         openGraph: {
-          title: article.title,
+          title: articleSocialTitle,
           description: article.description,
           type: 'article',
           url: articleUrl,
@@ -285,7 +291,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         },
         twitter: {
           card: 'summary_large_image',
-          title: article.title,
+          title: articleSocialTitle,
           description: article.description,
           images: [ogImageUrl],
         },
@@ -306,7 +312,9 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const siteUrl = 'https://hashtagweb3.com';
     const canonicalSlug = jobResolution.canonicalSlug || jobMeta.slug || slug;
     const canonicalUrl = `${siteUrl}/${canonicalSlug}`;
-    const title = `${jobMeta.title} at ${jobMeta.company}`;
+    const jobTitleSegment = `${jobMeta.title} at ${jobMeta.company}`;
+    const title = seoTitleSegment(jobTitleSegment);
+    const socialTitle = seoSocialTitle(jobTitleSegment);
     const description = buildUniqueJobMetaDescription(jobMeta);
     const socialImage = await getSocialImageInfo(buildJobOgImageUrl(
       { ...jobMeta, slug: canonicalSlug },
@@ -322,7 +330,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       alternates: { canonical: canonicalUrl },
       robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
       openGraph: {
-        title,
+        title: socialTitle,
         description,
         url: canonicalUrl,
         type: 'website',
@@ -330,20 +338,20 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         images: [
           {
             ...socialImage,
-            alt: title,
+            alt: socialTitle,
           },
         ],
       },
       twitter: {
         card: 'summary_large_image',
-        title,
+        title: socialTitle,
         description,
         site: '@hashtag_web3',
         creator: '@hashtag_web3',
         images: [
           {
             ...socialImage,
-            alt: `${title} - Hashtag Web3`,
+            alt: socialTitle,
           },
         ],
       },
@@ -384,20 +392,21 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     if (grant) {
       const siteUrl = 'https://hashtagweb3.com';
       const canonicalUrl = `${siteUrl}/${grant.id}`;
-      const title = `${grant.name} - Non-Dilutive Funding & Application Guide`;
+      const grantTitleSegment = grant.name;
+      const grantSocialTitle = seoSocialTitle(grantTitleSegment);
       const description = `Apply for ${grant.name} by ${grant.provider}.${
         grant.amount ? ` Funding value: ${grant.amount}.` : ''
       } Learn about eligibility, requirements, milestone benefits, and application guidelines.`;
 
       return {
-        title,
+        title: seoTitleSegment(grantTitleSegment),
         description,
         alternates: {
           canonical: canonicalUrl,
         },
         openGraph: {
           type: 'article',
-          title: `${grant.name} | Hashtag Web3`,
+          title: grantSocialTitle,
           description,
           url: canonicalUrl,
           images: [
@@ -411,7 +420,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         },
         twitter: {
           card: 'summary_large_image',
-          title: `${grant.name} | Hashtag Web3`,
+          title: grantSocialTitle,
           description,
           images: ['https://hashtagweb3.com/og-image-jobs.png'],
         },

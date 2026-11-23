@@ -6,22 +6,24 @@ import { GrantsBoard } from '@/components/grants/grants-board';
 import { LogoStrip } from '@/components/logo-strip';
 import { getGrantsPageDiscoverDescription } from '@/lib/grant-count';
 import { getGrantsSync } from '@/lib/grants';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
-const grantsTitle = 'Grants & Credits (2026 Directory)';
+const grantsTitleSegment = 'Grants & Credits 2026';
+const grantsSocialTitle = seoSocialTitle(grantsTitleSegment);
 const grantsDesc = getGrantsPageDiscoverDescription();
 
 export const metadata: Metadata = {
-  title: grantsTitle,
+  title: seoTitleSegment(grantsTitleSegment),
   description: grantsDesc,
   alternates: {
     canonical: 'https://hashtagweb3.com/grants',
   },
   openGraph: {
     type: 'website',
-    title: grantsTitle,
+    title: grantsSocialTitle,
     description: grantsDesc,
     url: 'https://hashtagweb3.com/grants',
     images: [
@@ -35,7 +37,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: grantsTitle,
+    title: grantsSocialTitle,
     description: grantsDesc,
     images: ['https://hashtagweb3.com/og-image-jobs.png'],
   },

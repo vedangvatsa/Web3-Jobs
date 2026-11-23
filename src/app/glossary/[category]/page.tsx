@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { generateCollectionPageSchema } from '@/lib/seo-utils';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 
@@ -69,9 +70,12 @@ export async function generateMetadata({
  const siteUrl = 'https://hashtagweb3.com';
  const categoryUrl = `${siteUrl}/glossary/${categorySlug}`;
  const categoryDescription = content?.description || category.description;
+ const rawTitle = `${category.name} - Web3 Glossary`;
+ const title = seoTitleSegment(rawTitle);
+ const socialTitle = seoSocialTitle(rawTitle);
 
  return {
-  title: `${category.name} - Web3 Glossary`,
+  title,
   description: categoryDescription,
   keywords: [
    category.name.toLowerCase(),
@@ -85,7 +89,7 @@ export async function generateMetadata({
    canonical: categoryUrl,
   },
   openGraph: {
-   title: `${category.name} - Web3 Glossary`,
+   title: socialTitle,
    description: categoryDescription,
    url: categoryUrl,
    type: 'website',
@@ -93,12 +97,12 @@ export async function generateMetadata({
     url: 'https://hashtagweb3.com/og/pages/glossary.png',
     width: 1200,
     height: 630,
-    alt: `${category.name} - Web3 Glossary`,
+    alt: rawTitle,
    }],
   },
   twitter: {
    card: 'summary_large_image',
-   title: `${category.name} - Web3 Glossary`,
+   title: socialTitle,
    description: categoryDescription,
    images: ['https://hashtagweb3.com/og/pages/glossary.png'],
   },

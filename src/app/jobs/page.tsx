@@ -9,22 +9,24 @@ import { PageShell } from '@/components/page-shell';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { withLogoImageVariants } from '@/lib/responsive-images-server';
 import { getFreshJobCountLabel } from '@/lib/seo-freshness';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
-const jobsTitle = `Remote Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()})`;
+const jobsTitleSegment = `Remote Web3 Jobs (${getFreshJobCountLabel()})`;
+const jobsSocialTitle = seoSocialTitle(jobsTitleSegment);
 const jobsDesc = `Find verified remote Web3 jobs and crypto careers. Discover ${getFreshJobCountLabel()} in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.`;
 
 export const metadata: Metadata = {
-  title: jobsTitle,
+  title: seoTitleSegment(jobsTitleSegment),
   description: jobsDesc,
   alternates: {
     canonical: 'https://hashtagweb3.com/jobs',
   },
   openGraph: {
     type: 'website',
-    title: jobsTitle,
+    title: jobsSocialTitle,
     description: jobsDesc,
     url: 'https://hashtagweb3.com/jobs',
     images: [{
@@ -36,7 +38,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: jobsTitle,
+    title: jobsSocialTitle,
     description: jobsDesc,
     images: ['https://hashtagweb3.com/og-image-jobs.png'],
   },

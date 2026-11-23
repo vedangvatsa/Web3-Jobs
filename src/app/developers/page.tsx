@@ -7,22 +7,26 @@ import { Button } from '@/components/ui/button';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { communityPhotos } from '@/lib/community-data';
+import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 
 export const revalidate = 86400;
 
+const developersTitleSegment = 'Developer Portal & API';
+const developersSocialTitle = seoSocialTitle(developersTitleSegment);
+
 export const metadata: Metadata = {
-  title: 'Hashtag Web3 API Docs & Developer Portal',
+  title: seoTitleSegment(developersTitleSegment),
   description: 'Hashtag Web3 developer portal: static data catalogs, OpenAPI, and agent discovery files.',
   alternates: { canonical: 'https://hashtagweb3.com/developers' },
   openGraph: {
-    title: 'Hashtag Web3 Developer Portal',
+    title: developersSocialTitle,
     description: 'Static JSON catalogs, OpenAPI, and agent discovery for Hashtag Web3.',
     url: 'https://hashtagweb3.com/developers',
-    images: [{ url: 'https://hashtagweb3.com/og/pages/developers.png', width: 1200, height: 630, alt: 'Hashtag Web3 Developer Portal' }],
+    images: [{ url: 'https://hashtagweb3.com/og/pages/developers.png', width: 1200, height: 630, alt: developersSocialTitle }],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Hashtag Web3 Developer Portal',
+    title: developersSocialTitle,
     description: 'Static JSON catalogs, OpenAPI, and agent discovery for Hashtag Web3.',
     images: ['https://hashtagweb3.com/og/pages/developers.png'],
   },
