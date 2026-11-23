@@ -173231,7 +173231,8 @@
       },
       "account": "channel:dev",
       "attemptId": "bed25244-8eae-43de-bb39-178efdff06bc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x08afdd20e44f409a1f75a7c6f78fb1c4ee0fa93b"
     }
   ]
 }
