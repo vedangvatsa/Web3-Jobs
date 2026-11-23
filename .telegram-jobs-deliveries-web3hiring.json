@@ -5401,7 +5401,7 @@
     "sentAt": "2026-11-23T00:25:13.881Z"
   },
   "eeb43727-49de-4087-a0da-5c32550003bb": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T00:25:15.793Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -5513,6 +5513,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/eng787?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Database Development Engineer</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/sec144?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Security Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls403?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive - Startups, Southeast Asia</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr260?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tax Manager</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/an72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Associate, Corporate Development &amp; AI Investment</a>",
-    "slotKey": "2026-11-22:evening"
+    "slotKey": "2026-11-22:evening",
+    "messageId": 213,
+    "sentAt": "2026-11-23T00:25:21.025Z"
   }
 }
