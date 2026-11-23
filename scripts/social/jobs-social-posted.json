@@ -174153,7 +174153,8 @@
       },
       "account": "channel:build",
       "attemptId": "779c7bd0-21d9-4157-b8ef-44c8036befef",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0f3fc4d3006d1adf53a55d321395338be0270c64"
     }
   ]
 }
