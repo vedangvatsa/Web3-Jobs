@@ -5282,5 +5282,120 @@
     "slotKey": "2026-11-22:afternoon",
     "messageId": 212,
     "sentAt": "2026-11-22T11:54:59.806Z"
+  },
+  "93c2cdda-6aae-4187-99c8-85af063b2934": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T00:25:11.418Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4948701101",
+          "title": "Database Development Engineer",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4948701101",
+          "date": "2026-11-16T07:53:27-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Infrastructure",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng787"
+        },
+        "key": "4948701101",
+        "slug": "eng787",
+        "url": "https://hashtagweb3.com/eng787?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Database Development Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "6241653004",
+          "title": "IT Security Engineer",
+          "company": "Alpaca",
+          "link": "https://job-boards.greenhouse.io/alpaca/jobs/6241653004",
+          "date": "2026-11-02T20:23:25-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Alpaca [alpaca]",
+          "location": "Remote -  Americas",
+          "department": "Information Security",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec144"
+        },
+        "key": "6241653004",
+        "slug": "sec144",
+        "url": "https://hashtagweb3.com/sec144?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Alpaca",
+        "title": "IT Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8349475",
+          "title": "Account Executive - Startups, Southeast Asia",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8349475",
+          "date": "2026-11-04T02:28:30-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "1195 Account Executives (APAC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls403"
+        },
+        "key": "8349475",
+        "slug": "sls403",
+        "url": "https://hashtagweb3.com/sls403?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8202947003",
+          "title": "Tax Manager",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8202947003",
+          "date": "2026-11-12T18:34:53-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "San Jose, CA",
+          "department": "Finance Department",
+          "active": true,
+          "salary": "$143.1k – $178.9k/yr",
+          "dateVerified": true,
+          "slug": "mgr260"
+        },
+        "key": "8202947003",
+        "slug": "mgr260",
+        "url": "https://hashtagweb3.com/mgr260?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Tax Manager"
+      },
+      {
+        "snapshot": {
+          "id": "0293d15f-836c-4489-8def-f0946c19ba0d",
+          "title": "Senior Associate, Corporate Development & AI Investment",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/0293d15f-836c-4489-8def-f0946c19ba0d",
+          "date": "2026-11-04T08:08:55.390Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (Hong Kong)",
+          "workplaceType": "hybrid",
+          "department": "Corporate",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an72"
+        },
+        "key": "0293d15f-836c-4489-8def-f0946c19ba0d",
+        "slug": "an72",
+        "url": "https://hashtagweb3.com/an72?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior Associate"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/eng787?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Database Development Engineer</a>\n- Alpaca is hiring <a href=\"https://hashtagweb3.com/sec144?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Security Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls403?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive - Startups, Southeast Asia</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/mgr260?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Tax Manager</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/an72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Associate, Corporate Development &amp; AI Investment</a>",
+    "slotKey": "2026-11-22:evening"
   }
 }
