@@ -175510,6 +175510,35 @@
       "attemptId": "6b6f41f8-4709-49fc-b052-5c00a0d6401c",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "bp",
+      "company": "Robinhood",
+      "title": "Benefits Partner",
+      "platform": "threads",
+      "postedAt": "2026-11-23T19:08:49.964Z",
+      "expectedText": "Robinhood is hiring Benefits Partner: https://hashtagweb3.com/bp/th?og=7",
+      "snapshot": {
+        "id": "8379150",
+        "title": "Benefits Partner",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8379150?t=gh_src=&gh_jid=8379150",
+        "date": "2026-11-16T16:14:24-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+        "department": "Total Rewards",
+        "active": true,
+        "salary": "$145k – $170k/yr",
+        "dateVerified": true,
+        "slug": "bp"
+      },
+      "payload": {
+        "text": "Robinhood is hiring Benefits Partner: https://hashtagweb3.com/bp/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/bp/th?og=7"
+      },
+      "attemptId": "5a8cd220-9c10-445b-b40e-81ef6effa51c",
+      "verification": "creating"
     }
   ]
 }
