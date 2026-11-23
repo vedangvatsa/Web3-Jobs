@@ -176923,7 +176923,8 @@
       },
       "account": "channel:ai",
       "attemptId": "a59c8dc1-cb27-489d-b45e-9d8ebcfb5788",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7678b5c571c78d9f80670f11cec8541633b6494e"
     }
   ]
 }
