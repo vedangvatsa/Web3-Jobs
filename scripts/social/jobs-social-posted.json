@@ -177246,6 +177246,39 @@
       "attemptId": "4b6d900b-3960-49d9-94f9-ce68719bdf8b",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 23-Nov-26 14:53:35 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A7sbmY8yBQcGUaitvWeJ6SE\"}"
+    },
+    {
+      "slug": "ops163",
+      "company": "Kalshi",
+      "title": "Support Operations, Kalshi Prime",
+      "platform": "bluesky",
+      "postedAt": "2026-11-23T22:53:24.036Z",
+      "expectedText": "Kalshi is hiring Support Operations, Kalshi Prime: https://hashtagweb3.com/ops163/bsky?og=7",
+      "snapshot": {
+        "id": "e23c45a3-e29d-4cbd-8c17-65356bfef682",
+        "title": "Support Operations, Kalshi Prime",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/e23c45a3-e29d-4cbd-8c17-65356bfef682",
+        "date": "2026-11-09T19:51:58.103+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops163"
+      },
+      "payload": {
+        "text": "Kalshi is hiring Support Operations, Kalshi Prime: https://hashtagweb3.com/ops163/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ops163/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ops163.png?v=7",
+        "company": "Kalshi",
+        "title": "Support Operations, Kalshi Prime",
+        "description": "Join Kalshi as Support Operations, Kalshi Prime. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "ca184f6d-84bb-46cc-9c0b-8dbf04e02aaa",
+      "verification": "creating"
     }
   ]
 }
