@@ -2857,5 +2857,123 @@
     "slotKey": "2026-11-23:morning",
     "messageId": 156458,
     "sentAt": "2026-11-23T06:39:50.021Z"
+  },
+  "d92185f3-f3a1-4657-9459-a195e6ddbe30": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T13:35:32.879Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "55496b07-a2e0-480f-9f8a-cfadf1f2755f",
+          "title": "Product Designer",
+          "company": "0G Labs",
+          "link": "https://jobs.ashbyhq.com/0g/55496b07-a2e0-480f-9f8a-cfadf1f2755f",
+          "date": "2026-11-10T01:59:32.443+00:00",
+          "source": "Ashby: 0G Labs [0g]",
+          "location": "Remote (Singapore)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm387"
+        },
+        "key": "55496b07-a2e0-480f-9f8a-cfadf1f2755f",
+        "slug": "pm387",
+        "url": "https://hashtagweb3.com/pm387?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0G Labs",
+        "title": "Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8934099002",
+          "title": "Senior Applied Scientist, Property Analytics",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8934099002",
+          "date": "2026-11-12T12:27:06-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Data Engineering",
+          "active": true,
+          "salary": "$132k – $198k/yr",
+          "dateVerified": true,
+          "slug": "aspa"
+        },
+        "key": "8934099002",
+        "slug": "aspa",
+        "url": "https://hashtagweb3.com/aspa?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Applied Scientist"
+      },
+      {
+        "snapshot": {
+          "id": "5463976008",
+          "title": "IT Audit Senior Manager",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5463976008?gh_jid=5463976008",
+          "date": "2026-10-27T09:41:45-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "30315 Foundational - SFS - Ops",
+          "active": true,
+          "salary": "$148.7k – $223.1k/yr",
+          "dateVerified": true,
+          "slug": "sec63"
+        },
+        "key": "5463976008",
+        "slug": "sec63",
+        "url": "https://hashtagweb3.com/sec63?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "IT Audit Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8f1aa562-5599-491b-b94c-128511ac40b2",
+          "title": "Manager, Account Manager, Commercial",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/8f1aa562-5599-491b-b94c-128511ac40b2",
+          "date": "2026-10-28T21:16:53.953+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls359"
+        },
+        "key": "8f1aa562-5599-491b-b94c-128511ac40b2",
+        "slug": "sls359",
+        "url": "https://hashtagweb3.com/sls359?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Account Manager, Commercial"
+      },
+      {
+        "snapshot": {
+          "id": "8895626002",
+          "title": "Operations Specialist",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8895626002",
+          "date": "2026-10-26T13:58:00-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Frankfurt am Main, Hesse, Germany",
+          "department": "Trust",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ops126"
+        },
+        "key": "8895626002",
+        "slug": "ops126",
+        "url": "https://hashtagweb3.com/ops126?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Operations Specialist"
+      }
+    ],
+    "message": "- 0G Labs is hiring <a href=\"https://hashtagweb3.com/pm387?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Designer</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/aspa?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Applied Scientist, Property Analytics</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sec63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">IT Audit Senior Manager</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/sls359?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Account Manager, Commercial</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/ops126?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Operations Specialist</a>",
+    "slotKey": "2026-11-23:afternoon"
   }
 }
