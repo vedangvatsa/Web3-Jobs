@@ -68,7 +68,7 @@ Each entry links to its formatted description and original source file. All stor
 | [India Blockchain & AI Tour 2026 — Lucknow](descriptions.md#event-26ce44a3e74cad0f) | 2026-11-21 | Source-backed (2387 chars) |
 | [India Blockchain & AI Tour 2026 — Chandigarh](descriptions.md#event-79549319623a3829) | 2026-11-22 | Source-backed (2451 chars) |
 | [PlanX Conference 2026](descriptions.md#event-b837161a09cd1435) | 2026-11-25 | Source-backed (839 chars) |
-| [World Token Congress 2026](descriptions.md#event-cbe7ae71ad5f4a31) | 2026-11-25 | Source-backed (728 chars) |
+| [World Token Congress 2026](descriptions.md#event-cbe7ae71ad5f4a31) | 2026-11-25 | Source-backed (1253 chars) |
 | [KOL Table by Lendary](descriptions.md#event-ccbacb6f4e1b1676) | 2026-11-26 | Source-backed (855 chars) |
 | [Spin & Dine](descriptions.md#event-9f99c40faeef461b) | 2026-11-26 | Source-backed (821 chars) |
 | [Moon Voyage](descriptions.md#event-88911c7558277d39) | 2026-11-26 | Source-backed (837 chars) |

@@ -2,20 +2,48 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
+import L from 'leaflet';
 import { CircleMarker, MapContainer, Popup, TileLayer, useMap } from 'react-leaflet';
 import { getEventSlug, type EventListItem } from '@/lib/events';
 import { groupEventsForMap, type EventMapGroup } from '@/lib/event-map-locations';
 
+function fitMapToGroups(map: L.Map, groups: EventMapGroup[], selected: EventMapGroup | null) {
+  map.invalidateSize({ pan: false, animate: false });
+  if (selected) map.setView(selected.coordinates, 7, { animate: false });
+  else if (groups.length) {
+    map.fitBounds(
+      groups.map((group) => group.coordinates),
+      { padding: [32, 32], maxZoom: 4, animate: false },
+    );
+  }
+}
+
+/** Leaflet keeps a #ddd backdrop visible until tiles fill the pane; remeasure after layout. */
 function MapViewport({ groups, selected }: { groups: EventMapGroup[]; selected: EventMapGroup | null }) {
   const map = useMap();
 
   useEffect(() => {
-    const frame = requestAnimationFrame(() => {
-      map.invalidateSize({ pan: false, animate: false });
-      if (selected) map.setView(selected.coordinates, 7, { animate: false });
-      else if (groups.length) map.fitBounds(groups.map((group) => group.coordinates), { padding: [32, 32], maxZoom: 4, animate: false });
-    });
+    const run = () => fitMapToGroups(map, groups, selected);
+    const frame = requestAnimationFrame(() => requestAnimationFrame(run));
     return () => cancelAnimationFrame(frame);
+  }, [groups, map, selected]);
+
+  useEffect(() => {
+    const shell = map.getContainer().parentElement;
+    if (!shell) return;
+    let width = shell.clientWidth;
+    let height = shell.clientHeight;
+    const resize = () => {
+      if (shell.clientWidth === width && shell.clientHeight === height) return;
+      width = shell.clientWidth;
+      height = shell.clientHeight;
+      if (!width || !height) return;
+      fitMapToGroups(map, groups, selected);
+    };
+    const observer = new ResizeObserver(() => resize());
+    observer.observe(shell);
+    resize();
+    return () => observer.disconnect();
   }, [groups, map, selected]);
 
   return null;
@@ -28,8 +56,8 @@ export function EventMap({ events }: { events: EventListItem[] }) {
 
   return (
     <div className="grid gap-4 lg:grid-cols-[minmax(0,1fr)_18rem]">
-      <div className="relative isolate z-0 h-[520px] overflow-hidden rounded-xl border bg-muted/20">
-        <MapContainer center={[20, 0]} zoom={2} className="h-full w-full" scrollWheelZoom attributionControl={false} zoomAnimation={false} fadeAnimation={false}>
+      <div className="relative isolate z-0 h-[520px] overflow-hidden rounded-xl border [&_.leaflet-container]:!size-full [&_.leaflet-container]:bg-sky-100">
+        <MapContainer center={[20, 0]} zoom={2} className="!size-full" scrollWheelZoom attributionControl={false} zoomAnimation={false} fadeAnimation={false}>
           <TileLayer attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors' url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
           <MapViewport groups={groups} selected={selected} />
           {groups.map((group) => (

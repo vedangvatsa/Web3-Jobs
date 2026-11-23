@@ -1453,7 +1453,13 @@ Event page: https://planxconf.com/
 
 ### About the event
 
-World Token Congress Barcelona takes place at Foment del Treball on November 25 and 26, 2026. The congress brings companies, investors, regulators and technology specialists together around tokenization and digital financial infrastructure. The organizer describes a provisional program of use cases, panel discussions and networking. Topics include asset tokenization and European regulation and compliance. The Barcelona edition is distinct from the separately advertised Dubai regional summit. Use the official ticket page for current prices and pass conditions, and check the program as session details are confirmed
+World Token Congress 2026 returns to Barcelona on November 25 and 26 at Foment del Treball. The organizer positions it as Europe's main tokenization congress, bringing together companies, investors, regulators and technology teams working on digital assets and tokenization infrastructure.
+
+The public program combines conference sessions across both days with networking. Day two adds VIP-only International Business Summits: bilateral tables on investment, tokenization and trade deals, with optional participation in official delegations linked to Spain, El Salvador, Andorra, Mexico and Argentina. The site also invites speakers, sponsors and exhibition stands.
+
+Published ticketing includes a Standard pass at €95 and a VIP pass at €299, including a limited Foment del Treball business grant allocation. The homepage currently lists about 800 expected attendees, 25 speakers and 20+ partners; session times and the detailed agenda are published on the organizer's program pages.
+
+Barcelona is the 2026 main event; the organizer also promotes a separate WTC Dubai edition. Register and confirm pass inclusions through worldtokencongress.com.
 
 ### Event details
 
