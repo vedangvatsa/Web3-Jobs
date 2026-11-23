@@ -9,9 +9,12 @@ import {
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuTrigger,
-  DropdownMenuLabel,
   DropdownMenuSeparator,
+  DropdownMenuSub,
+  DropdownMenuSubContent,
+  DropdownMenuSubTrigger,
 } from '@/components/ui/dropdown-menu';
+import { Users, Building2 } from 'lucide-react';
 import { MobileNav } from './mobile-nav';
 import { PostNavCta } from './post-nav-cta';
 import {
@@ -82,9 +85,7 @@ export function Header() {
             >
               Resources <ChevronDown className="h-4 w-4" />
             </DropdownMenuTrigger>
-            <DropdownMenuContent className="w-64" aria-label="Resources Dropdown">
-              <DropdownMenuLabel>Learn & Explore</DropdownMenuLabel>
-              <DropdownMenuSeparator />
+            <DropdownMenuContent className="w-56" aria-label="Resources Dropdown">
               {RESOURCE_LINKS.map((link) => {
                 const IconComponent = link.icon;
                 return (
@@ -96,32 +97,45 @@ export function Header() {
                   </DropdownMenuItem>
                 );
               })}
-              <DropdownMenuLabel className="pt-2">For Employees</DropdownMenuLabel>
               <DropdownMenuSeparator />
-              {EMPLOYEE_RESOURCES.map((link) => {
-                const IconComponent = link.icon;
-                return (
-                  <DropdownMenuItem key={link.label} asChild>
-                    <Link href={link.href} prefetch={false} className="flex items-center gap-2">
-                      {IconComponent && <IconComponent className="h-4 w-4 text-muted-foreground" />}
-                      {link.label}
-                    </Link>
-                  </DropdownMenuItem>
-                );
-              })}
-              <DropdownMenuLabel className="pt-2">For Employers</DropdownMenuLabel>
-              <DropdownMenuSeparator />
-              {EMPLOYER_RESOURCES.map((link) => {
-                const IconComponent = link.icon;
-                return (
-                  <DropdownMenuItem key={link.label} asChild>
-                    <Link href={link.href} prefetch={false} className="flex items-center gap-2">
-                      {IconComponent && <IconComponent className="h-4 w-4 text-muted-foreground" />}
-                      {link.label}
-                    </Link>
-                  </DropdownMenuItem>
-                );
-              })}
+              <DropdownMenuSub>
+                <DropdownMenuSubTrigger className="gap-2">
+                  <Users className="h-4 w-4 text-muted-foreground" />
+                  For Employees
+                </DropdownMenuSubTrigger>
+                <DropdownMenuSubContent className="w-56">
+                  {EMPLOYEE_RESOURCES.map((link) => {
+                    const IconComponent = link.icon;
+                    return (
+                      <DropdownMenuItem key={link.label} asChild>
+                        <Link href={link.href} prefetch={false} className="flex items-center gap-2">
+                          {IconComponent && <IconComponent className="h-4 w-4 text-muted-foreground" />}
+                          {link.label}
+                        </Link>
+                      </DropdownMenuItem>
+                    );
+                  })}
+                </DropdownMenuSubContent>
+              </DropdownMenuSub>
+              <DropdownMenuSub>
+                <DropdownMenuSubTrigger className="gap-2">
+                  <Building2 className="h-4 w-4 text-muted-foreground" />
+                  For Employers
+                </DropdownMenuSubTrigger>
+                <DropdownMenuSubContent className="w-56">
+                  {EMPLOYER_RESOURCES.map((link) => {
+                    const IconComponent = link.icon;
+                    return (
+                      <DropdownMenuItem key={link.label} asChild>
+                        <Link href={link.href} prefetch={false} className="flex items-center gap-2">
+                          {IconComponent && <IconComponent className="h-4 w-4 text-muted-foreground" />}
+                          {link.label}
+                        </Link>
+                      </DropdownMenuItem>
+                    );
+                  })}
+                </DropdownMenuSubContent>
+              </DropdownMenuSub>
             </DropdownMenuContent>
           </DropdownMenu>
         </nav>

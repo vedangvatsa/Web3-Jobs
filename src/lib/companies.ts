@@ -824,5 +824,6 @@ function currentCompany(company: Company): Company {
   const jobs = company.jobs.filter(job => isJobAgeEligible(job));
   const description = /has \d+ active roles? listed|Current openings include/.test(company.description || '')
     ? buildListingDescription(company.name, jobs) : company.description;
-  return structuredClone({ ...company, jobs, jobCount: jobs.length, description });
+  const website = COMPANY_WEBSITE_OVERRIDES[company.slug] || company.website;
+  return structuredClone({ ...company, website, jobs, jobCount: jobs.length, description });
 }

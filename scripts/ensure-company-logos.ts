@@ -78,6 +78,7 @@ const DOMAIN_OVERRIDES: Record<string, string> = {
   'presto-labs': 'prestolabs.io',
   unlimit: 'unlimit.com',
   'project-eleven': 'projecteleven.com',
+  'injective-labs': 'injective.com',
   coinpoker: 'coinpoker.com',
   spiko: 'spiko.io',
   'gravity-team': 'gravityteam.co',

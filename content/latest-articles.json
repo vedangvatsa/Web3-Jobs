@@ -1,42 +1,42 @@
 [
   {
-    "slug": "binancefull",
-    "title": "Binance Says It Has Finished Covering the $6.34 Billion Hack",
-    "description": "Binance said it replaced all customer tokens drained in the October 29 hack with more than $6.34 billion of company funds, while the DOJ won authority to seize $1.2 billion of the stolen crypto.",
+    "slug": "eventcontracts",
+    "title": "Coinbase targets first half of 2027 for its own prediction market contracts",
+    "description": "Coinbase plans to offer its own event contracts to U.S. retail and institutional customers in the first half of 2027, Bloomberg reported, as the exchange builds clearing and trading infrastructure around the business.",
     "category": "News",
-    "publishedDate": "2026-11-15",
-    "image": "/images/news/binancefull.jpg"
+    "publishedDate": "2026-11-23",
+    "image": "/images/news/eventcontracts.jpg"
   },
   {
-    "slug": "cnbbond",
-    "title": "Czech National Bank Completes Its First Tokenized Bond Tests",
-    "description": "The Czech National Bank said it issued tokenized koruna bonds and completed transfer, trading and repo tests in October and November, with settlement almost instantaneous.",
+    "slug": "xmr1collapse",
+    "title": "Wrapped Monero token XMR1 collapses 99.8% after $13.5 million sell-off",
+    "description": "XMR1, Wagyu's wrapped Monero token on Hyperliquid, fell from about $500 to near zero on Nov. 20 as a deployer-linked wallet sold $13.5 million of the asset; the operator blamed a breach at its web host.",
     "category": "News",
-    "publishedDate": "2026-11-15",
-    "image": "/images/news/cnbbond.jpg"
+    "publishedDate": "2026-11-23",
+    "image": "/images/news/xmr1collapse.jpg"
   },
   {
-    "slug": "defiamicus",
-    "title": "DeFi coalition asks Illinois court to declare the 0.2% digital asset tax unlawful",
-    "description": "Eighteen crypto groups including a16z, Uniswap Labs and the DeFi Education Fund asked a Sangamon County court on Nov. 11 for leave to file a brief calling Illinois' 0.2% digital asset tax vague, discriminatory and unenforceable.",
+    "slug": "moonpaycharter",
+    "title": "MoonPay applies for OCC national trust bank charter for custody, stablecoins",
+    "description": "MoonPay filed with the OCC on Nov. 17, 2026 to create MoonPay National Trust Bank in Miami Beach, a non-depository that would offer stablecoin issuance and digital asset custody under federal oversight.",
     "category": "News",
-    "publishedDate": "2026-11-15",
-    "image": "/images/news/defiamicus.jpg"
+    "publishedDate": "2026-11-22",
+    "image": "/images/news/moonpaycharter.jpg"
   },
   {
-    "slug": "kavalendhack",
-    "title": "Kava Lend exploit borrows 55.2 million KAVA as Korean exchanges halt deposits",
-    "description": "Attackers borrowed 55.2 million KAVA from Kava Lend through 127 loans on a dormant BUSD market, sold most for $2.09 million, and Upbit, Bithumb and Coinone suspended deposits.",
+    "slug": "secscam",
+    "title": "SEC charges eight Colorado firms in $37 million fake crypto platform scam",
+    "description": "The SEC charged eight Colorado-based entities with running fake advisers and crypto trading platforms that stole more than $37 million from over 1,500 US investors since August 2024.",
     "category": "News",
-    "publishedDate": "2026-11-15",
-    "image": "/images/news/kavalendhack.jpg"
+    "publishedDate": "2026-11-22",
+    "image": "/images/news/secscam.jpg"
   },
   {
-    "slug": "warshforum",
-    "title": "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday",
-    "description": "Federal Reserve Chair Kevin Warsh opens a Nov. 16 San Francisco conference on whether AI raises or lowers inflation, with three panels and a livestreamed fireside chat.",
+    "slug": "vaneckgemini",
+    "title": "VanEck to end Gemini custody and clearing agreements for three crypto ETFs",
+    "description": "VanEck notified Gemini on Nov. 16, 2026 that it will terminate custody and clearing agreements for its Bitcoin, Ether and Solana ETFs on about Feb. 16, 2027, while Coinbase Custody stays on.",
     "category": "News",
-    "publishedDate": "2026-11-15",
-    "image": "/images/news/warshforum.jpg"
+    "publishedDate": "2026-11-22",
+    "image": "/images/news/vaneckgemini.jpg"
   }
 ]

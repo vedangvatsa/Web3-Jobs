@@ -40,6 +40,8 @@ import { DetailPageHeader } from '@/components/detail-page-header';
 import { EventSideEvents } from '@/components/token2049-side-events';
 import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
+import { getGrantById } from '@/lib/grants';
+import { GrantDetailView } from '@/components/grants/grant-detail-view';
 import { Button } from '@/components/ui/button';
 import { DetailPrimaryActionLink } from '@/components/primary-action-link';
 import { Calendar, MapPin, ExternalLink, ArrowRight } from 'lucide-react';
@@ -377,6 +379,46 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     return popupPageMetadata(popupFallback);
   }
 
+  if (slugType === 'grant') {
+    const grant = getGrantById(slug);
+    if (grant) {
+      const siteUrl = 'https://hashtagweb3.com';
+      const canonicalUrl = `${siteUrl}/${grant.id}`;
+      const title = `${grant.name} - Non-Dilutive Funding & Application Guide`;
+      const description = `Apply for ${grant.name} by ${grant.provider}.${
+        grant.amount ? ` Funding value: ${grant.amount}.` : ''
+      } Learn about eligibility, requirements, milestone benefits, and application guidelines.`;
+
+      return {
+        title,
+        description,
+        alternates: {
+          canonical: canonicalUrl,
+        },
+        openGraph: {
+          type: 'article',
+          title: `${grant.name} | Hashtag Web3`,
+          description,
+          url: canonicalUrl,
+          images: [
+            {
+              url: 'https://hashtagweb3.com/og-image-jobs.png',
+              width: 1200,
+              height: 630,
+              alt: grant.name,
+            },
+          ],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title: `${grant.name} | Hashtag Web3`,
+          description,
+          images: ['https://hashtagweb3.com/og-image-jobs.png'],
+        },
+      };
+    }
+  }
+
   notFound();
 }
 
@@ -439,6 +481,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       permanentRedirect(getPopupPath(popup.slug));
     }
     return <PopupDetailPage popup={popup} />;
+  }
+
+  // Grant page
+  if (slugType === 'grant') {
+    const grant = getGrantById(slug);
+    if (!grant) notFound();
+    if (slug !== grant.id) {
+      permanentRedirect(`/${grant.id}`);
+    }
+    return <GrantDetailView grant={grant} />;
   }
 
   // Event page

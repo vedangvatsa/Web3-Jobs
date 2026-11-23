@@ -22,6 +22,8 @@ import {
   Milestone,
   Smile,
   Scale,
+  Trophy,
+  MapPin,
   Linkedin,
   Send,
   Instagram,
@@ -29,6 +31,7 @@ import {
   Mail,
 } from 'lucide-react';
 import { XBrandIcon } from '@/components/x-brand-icon';
+import { getGrantsSitelinkDescription } from '@/lib/grant-count';
 
 export interface NavLinkItem {
   href: string;
@@ -48,6 +51,7 @@ export const MAIN_NAV_LINKS: NavLinkItem[] = [
 
 export const SITELINK_NAVIGATION_ITEMS: { label: string; href: string; description: string }[] = [
   { label: 'Web3 Jobs', href: '/', description: 'Verified Web3, crypto, DeFi, and blockchain job openings.' },
+  { label: 'Web3 Grants', href: '/grants', description: getGrantsSitelinkDescription() },
   { label: 'Web3 Companies', href: '/companies', description: 'Directory of top Web3 companies, protocols, and crypto startups.' },
   { label: 'Web3 Events', href: '/events', description: 'Global Web3 conferences, hackathons, and crypto summits.' },
   { label: 'Web3 News', href: '/news', description: 'Curated crypto news and blockchain industry developments.' },
@@ -59,11 +63,16 @@ export const SITELINK_NAVIGATION_ITEMS: { label: string; href: string; descripti
 
 export const RESOURCE_LINKS: NavLinkItem[] = [
   { href: '/resources', label: 'All Resources', icon: ListChecks },
-  { href: '/nomads', label: 'Digital Nomad Resources', icon: Globe },
+  { href: '/grants', label: 'Grants & Perks', icon: DollarSign },
+  { href: '/top100', label: 'Top 100 Companies', icon: Trophy },
   { href: '/companies', label: 'Companies', icon: Building2 },
   { href: '/learn', label: 'Learn Web3', icon: GraduationCap },
   { href: '/blog', label: 'Playbook', icon: BookOpen },
   { href: '/glossary', label: 'Glossary', icon: Library },
+  { href: '/nomads', label: 'Digital Nomad Resources', icon: Globe },
+  { href: '/visas', label: 'Digital Nomad Visas', icon: MapPin },
+  { href: '/citizenship', label: 'Citizenship', icon: Globe },
+  { href: '/popups', label: 'Popups', icon: Building2 },
 ];
 
 export const EMPLOYEE_RESOURCES: NavLinkItem[] = [
@@ -102,24 +111,6 @@ export const EMPLOYEE_RESOURCES: NavLinkItem[] = [
     label: 'Invoice Generator',
     icon: FileText,
     description: 'A free and simple invoice generator for Web3 freelancers.',
-  },
-  {
-    href: '/visas',
-    label: 'Digital Nomad Visas',
-    icon: Globe,
-    description: 'A searchable list of visas for working remotely around the world.',
-  },
-  {
-    href: '/citizenship',
-    label: 'Citizenship',
-    icon: Globe,
-    description: 'Compare investment citizenship routes and official requirements.',
-  },
-  {
-    href: '/popups',
-    label: 'Popups',
-    icon: Building2,
-    description: 'Popup cities, permanent nodes, SEZs, and builder villages.',
   },
   {
     href: '/remote-work-checklist',

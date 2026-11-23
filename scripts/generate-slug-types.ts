@@ -71,6 +71,23 @@ async function main() {
 
   const popupSlugs = new Set<string>(getPopupSlugs().map((slug) => slug.toLowerCase().trim()));
 
+  const grantsFile = path.join(process.cwd(), 'content', 'grants', 'grants.json');
+  const grantsData = fs.existsSync(grantsFile)
+    ? JSON.parse(fs.readFileSync(grantsFile, 'utf-8'))
+    : [];
+  const grantSlugs = new Set<string>();
+  if (Array.isArray(grantsData)) {
+    for (const g of grantsData) {
+      if (g.id) grantSlugs.add(g.id.toLowerCase().trim());
+    }
+  }
+
+  const grantsMetaFile = path.join(process.cwd(), 'content', 'grants-meta.json');
+  fs.writeFileSync(
+    grantsMetaFile,
+  `{"total":${Array.isArray(grantsData) ? grantsData.length : 0}}\n`,
+  );
+
   const staticPageSlugs = new Set(appRootPageSlugs().map(slug => slug.toLowerCase()));
   const pageSlugs = new Set([
     ...staticPageSlugs,
@@ -96,6 +113,7 @@ async function main() {
     resources: Array.from(resourceSlugs),
     articles: Array.from(articleSlugs),
     popups: Array.from(popupSlugs),
+    grants: Array.from(grantSlugs).sort(),
     jobs: Array.from(jobSlugs).sort(),
     staticPages: Array.from(staticPageSlugs).sort(),
     pages: Array.from(pageSlugs).sort(),

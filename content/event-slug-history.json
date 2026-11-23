@@ -3160,7 +3160,10 @@
   },
   "luma-crypto-13WH0lUCgcznSeW": {
     "slug": "toronto-bl",
-    "aliases": []
+    "aliases": [
+      "toronto-blockchain-week",
+      "luma-evt-13wh0lucgcznsew"
+    ]
   },
   "luma-crypto-5MTBYxmL59aBJLv": {
     "slug": "beerfi-pra",

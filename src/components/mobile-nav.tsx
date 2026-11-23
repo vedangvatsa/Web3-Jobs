@@ -10,7 +10,7 @@ import {
   SheetTitle,
   SheetDescription,
 } from '@/components/ui/sheet';
-import { Menu, Users } from 'lucide-react';
+import { Building2, Menu, Users } from 'lucide-react';
 import Link from 'next/link';
 import { ResponsiveImage } from './responsive-image';
 import type { ResponsiveImagePlan } from '@/lib/responsive-images';
@@ -82,9 +82,8 @@ export function MobileNav({ logoVariants }: { logoVariants?: ResponsiveImagePlan
                     <span>Resources</span>
                   </div>
                 </AccordionTrigger>
-                <AccordionContent className="pl-4">
-                  <h4 className="px-2 py-1.5 text-sm font-semibold">Learn & Explore</h4>
-                  <div className="flex flex-col space-y-1 mt-1">
+                <AccordionContent className="pl-2">
+                  <div className="flex flex-col space-y-1">
                     {RESOURCE_LINKS.map((link) => {
                       const IconComponent = link.icon;
                       return (
@@ -103,42 +102,62 @@ export function MobileNav({ logoVariants }: { logoVariants?: ResponsiveImagePlan
                       );
                     })}
                   </div>
-                  <h4 className="px-2 py-1.5 mt-2 text-sm font-semibold">For Employees</h4>
-                  <div className="flex flex-col space-y-1 mt-1">
-                    {EMPLOYEE_RESOURCES.map((link) => {
-                      const IconComponent = link.icon;
-                      return (
-                        <SheetClose key={link.label} asChild>
-                          <Link
-                            href={link.href}
-                            prefetch={false}
-                            className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
-                          >
-                            {IconComponent && <IconComponent className="h-4 w-4" />}
-                            {link.label}
-                          </Link>
-                        </SheetClose>
-                      );
-                    })}
-                  </div>
-                  <h4 className="px-2 py-1.5 mt-2 text-sm font-semibold">For Employers</h4>
-                  <div className="flex flex-col space-y-1 mt-1">
-                    {EMPLOYER_RESOURCES.map((link) => {
-                      const IconComponent = link.icon;
-                      return (
-                        <SheetClose key={link.label} asChild>
-                          <Link
-                            href={link.href}
-                            prefetch={false}
-                            className="flex min-h-11 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
-                          >
-                            {IconComponent && <IconComponent className="h-4 w-4" />}
-                            {link.label}
-                          </Link>
-                        </SheetClose>
-                      );
-                    })}
-                  </div>
+                  <Accordion type="multiple" className="mt-2 w-full">
+                    <AccordionItem value="for-employees" className="border-b-0">
+                      <AccordionTrigger className="py-2 px-2 text-sm font-semibold hover:no-underline [&[data-state=open]>svg]:rotate-180">
+                        <span className="flex items-center gap-3">
+                          <Users className="h-4 w-4" />
+                          For Employees
+                        </span>
+                      </AccordionTrigger>
+                      <AccordionContent className="pb-1 pl-2">
+                        <div className="flex flex-col space-y-1">
+                          {EMPLOYEE_RESOURCES.map((link) => {
+                            const IconComponent = link.icon;
+                            return (
+                              <SheetClose key={link.label} asChild>
+                                <Link
+                                  href={link.href}
+                                  prefetch={false}
+                                  className="flex min-h-10 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
+                                >
+                                  {IconComponent && <IconComponent className="h-4 w-4" />}
+                                  {link.label}
+                                </Link>
+                              </SheetClose>
+                            );
+                          })}
+                        </div>
+                      </AccordionContent>
+                    </AccordionItem>
+                    <AccordionItem value="for-employers" className="border-b-0">
+                      <AccordionTrigger className="py-2 px-2 text-sm font-semibold hover:no-underline [&[data-state=open]>svg]:rotate-180">
+                        <span className="flex items-center gap-3">
+                          <Building2 className="h-4 w-4" />
+                          For Employers
+                        </span>
+                      </AccordionTrigger>
+                      <AccordionContent className="pb-1 pl-2">
+                        <div className="flex flex-col space-y-1">
+                          {EMPLOYER_RESOURCES.map((link) => {
+                            const IconComponent = link.icon;
+                            return (
+                              <SheetClose key={link.label} asChild>
+                                <Link
+                                  href={link.href}
+                                  prefetch={false}
+                                  className="flex min-h-10 items-center gap-3 p-2 rounded-lg text-sm font-medium text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
+                                >
+                                  {IconComponent && <IconComponent className="h-4 w-4" />}
+                                  {link.label}
+                                </Link>
+                              </SheetClose>
+                            );
+                          })}
+                        </div>
+                      </AccordionContent>
+                    </AccordionItem>
+                  </Accordion>
                 </AccordionContent>
               </AccordionItem>
             </Accordion>

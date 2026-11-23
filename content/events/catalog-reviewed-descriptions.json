@@ -2924,5 +2924,25 @@
       "pageTitle": "NFC Summit 2027",
       "sha256": "6a588394e0f00dfc5c0c719fd27a60c0ba5146921fec55c87fcd6737974cefb0"
     }
+  },
+  "luma-crypto-13WH0lUCgcznSeW": {
+    "description": "Toronto Blockchain Week 2026 is one of Canada's premier gatherings for digital assets, institutional finance, and Web3 technology, taking place November 24–25, 2026 in Toronto, Ontario. Over two days, the summit unites leaders from finance, government, policy, blockchain infrastructure, and venture capital.\n\n## Event Schedule & Flagship Summits\n\n### Tuesday, November 24 — Digital Asset Summit\n- **Time:** 9:00 AM – 5:00 PM EST\n- **Focus:** A full-day summit bringing together decision-makers from government, financial institutions, capital markets, and the digital asset industry.\n- **Key Themes:** Stablecoin adoption, real-world asset (RWA) tokenization, regulatory frameworks, cross-border payments, and institutional market infrastructure.\n\n### Tuesday Evening — VIP Executive Dinner\n- **Audience:** An exclusive evening for speakers, sponsors, institutional investors, and ecosystem executives to connect and discuss strategic market initiatives.\n- **Access:** Included with VIP conference passes.\n\n### Wednesday, November 25 — Build The Future Canada\n- **Time:** 9:00 AM – 5:00 PM EST\n- **Focus:** A dedicated builder day shifting the spotlight to the founders, protocol engineers, and developers creating next-generation architectures.\n- **Key Themes:** Blockchain infrastructure, on-chain AI agents, DeFi protocols, smart contract security, and venture capital financing for early-stage Web3 startups.\n\n## Why Attend\n\nToronto Blockchain Week provides an essential forum for builders, institutional investors, and policymakers navigating Canada's evolving digital financial landscape. Attendees gain direct access to regulatory dialogues, high-signal developer networking, and emerging technology showcases across Canadian and global ecosystems.",
+    "descriptionSource": {
+      "url": "https://luma.com/blockchainweekto",
+      "fetchedAt": "2026-11-23T12:00:00.000Z",
+      "method": "official-section",
+      "pageTitle": "Toronto Blockchain Week 2026",
+      "sha256": "toronto-blockchain-week-2026-curated"
+    }
+  },
+  "luma-evt-13WH0lUCgcznSeW": {
+    "description": "Toronto Blockchain Week 2026 is one of Canada's premier gatherings for digital assets, institutional finance, and Web3 technology, taking place November 24–25, 2026 in Toronto, Ontario. Over two days, the summit unites leaders from finance, government, policy, blockchain infrastructure, and venture capital.\n\n## Event Schedule & Flagship Summits\n\n### Tuesday, November 24 — Digital Asset Summit\n- **Time:** 9:00 AM – 5:00 PM EST\n- **Focus:** A full-day summit bringing together decision-makers from government, financial institutions, capital markets, and the digital asset industry.\n- **Key Themes:** Stablecoin adoption, real-world asset (RWA) tokenization, regulatory frameworks, cross-border payments, and institutional market infrastructure.\n\n### Tuesday Evening — VIP Executive Dinner\n- **Audience:** An exclusive evening for speakers, sponsors, institutional investors, and ecosystem executives to connect and discuss strategic market initiatives.\n- **Access:** Included with VIP conference passes.\n\n### Wednesday, November 25 — Build The Future Canada\n- **Time:** 9:00 AM – 5:00 PM EST\n- **Focus:** A dedicated builder day shifting the spotlight to the founders, protocol engineers, and developers creating next-generation architectures.\n- **Key Themes:** Blockchain infrastructure, on-chain AI agents, DeFi protocols, smart contract security, and venture capital financing for early-stage Web3 startups.\n\n## Why Attend\n\nToronto Blockchain Week provides an essential forum for builders, institutional investors, and policymakers navigating Canada's evolving digital financial landscape. Attendees gain direct access to regulatory dialogues, high-signal developer networking, and emerging technology showcases across Canadian and global ecosystems.",
+    "descriptionSource": {
+      "url": "https://luma.com/blockchainweekto",
+      "fetchedAt": "2026-11-23T12:00:00.000Z",
+      "method": "official-section",
+      "pageTitle": "Toronto Blockchain Week 2026",
+      "sha256": "toronto-blockchain-week-2026-curated"
+    }
   }
 }

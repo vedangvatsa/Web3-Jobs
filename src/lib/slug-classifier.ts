@@ -7,7 +7,7 @@ import { resolveLearnRoute } from '@/lib/learn-routes';
 import { hasLiveJobRootOwner } from '@/lib/job-root-ownership';
 import type { ArchivedSlugRecord } from '@/lib/job-guides';
 
-export type SlugType = 'event' | 'company' | 'popup' | 'glossary' | 'resource' | 'article' | 'job' | 'learn';
+export type SlugType = 'event' | 'company' | 'popup' | 'glossary' | 'resource' | 'article' | 'job' | 'learn' | 'grant';
 
 type SlugTypesData = {
   events: string[];
@@ -16,6 +16,7 @@ type SlugTypesData = {
   resources: string[];
   articles: string[];
   popups: string[];
+  grants?: string[];
 };
 
 const data = (slugTypesJson as SlugTypesData) || {
@@ -25,6 +26,7 @@ const data = (slugTypesJson as SlugTypesData) || {
   resources: [],
   articles: [],
   popups: [],
+  grants: [],
 };
 
 const eventSet = new Set(data.events);
@@ -33,6 +35,7 @@ const popupSet = new Set([...(data.popups ?? []), ...getPopupSlugs()].map((s) =>
 const glossarySet = new Set(data.glossary);
 const resourceSet = new Set(data.resources);
 const articleSet = new Set(data.articles);
+const grantSet = new Set((data.grants ?? []).map((s) => s.toLowerCase().trim()));
 
 const legacyArchive = legacyArchiveJson as Record<string, ArchivedSlugRecord>;
 const legacyJobSlugSet = new Set(
@@ -54,5 +57,6 @@ export function classifySlug(slug: string): SlugType {
   if (glossarySet.has(norm)) return 'glossary';
   if (resourceSet.has(norm)) return 'resource';
   if (articleSet.has(norm)) return 'article';
+  if (grantSet.has(norm)) return 'grant';
   return 'job';
 }

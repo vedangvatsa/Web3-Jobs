@@ -205,6 +205,7 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'merkle-science': 'merklescience.com',
   'strike': 'strike.me',
   'coinflow': 'coinflow.cash',
+  'injective-labs': 'injective.com',
 };
 
 function faviconUrlForDomain(domain: string): string {
@@ -255,6 +256,7 @@ export const FAVICON_FIRST_SLUGS: ReadonlySet<string> = new Set([
   'gsr',
   'gsr-markets',
   'gsrmarkets',
+  'injective-labs',
 ]);
 
 export function resolveCompanyLogo(companySlug: string): string | null {

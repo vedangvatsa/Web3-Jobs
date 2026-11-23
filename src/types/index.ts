@@ -169,3 +169,46 @@ export interface CompanySummary {
  description?: string;
  jobCount: number;
 }
+
+export type GrantCategory =
+  | 'All'
+  | 'Web3 Ecosystem'
+  | 'Global Tech & Open Source'
+  | 'Cloud & AI Credits'
+  | 'Developer Infra & Tooling';
+
+export type FundingType = 'All' | 'Grant' | 'Credit / Perk' | 'Fellowship' | 'Subsidy';
+
+export interface GrantSourceSection {
+  heading: string;
+  paragraphs: string[];
+  bullets?: string[];
+}
+
+export interface GrantDescriptionSource {
+  url: string;
+  fetchedAt: string;
+  wordCount: number;
+  method: string;
+  pageTitle?: string;
+}
+
+export interface GrantProgram {
+  id: string;
+  name: string;
+  provider: string;
+  category: string;
+  type: string;
+  amount: string;
+  description: string;
+  url: string;
+  domain?: string;
+  ecosystem?: string;
+  tags: string[];
+  deadline?: string;
+  featured?: boolean;
+  /** Source-backed body sections from the official program page (no generated filler). */
+  sections?: GrantSourceSection[];
+  descriptionSource?: GrantDescriptionSource;
+}
+

@@ -30,6 +30,7 @@ import { generateGlossaryMetaDescription } from '@/lib/seo-utils';
 import { isRemovedJobPath } from '@/lib/removed-job-path';
 import { isExpiredJobPath } from '@/lib/job-age-path';
 import { canonicalSocialPagePath } from '@/lib/social-share';
+import { getGrantsOgDiscoverDescription } from '@/lib/grant-count';
 import { getFreshJobCountLabel } from '@/lib/seo-freshness';
 import slugTypes from '../../content/slug-types.json';
 
@@ -126,6 +127,11 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
     '/jobs': {
       title: `Remote Web3 Jobs & Crypto Careers (${getFreshJobCountLabel()}) | ${SITE_NAME}`,
       description: `Find verified remote Web3 jobs and crypto careers. Discover ${getFreshJobCountLabel()} in Solidity, blockchain development, smart contracts, DeFi, DAOs, and crypto marketing at top Web3 startups.`,
+      ogImageUrl: STATIC_OG.jobs,
+    },
+    '/grants': {
+      title: `Web3 Grants & Builder Credits Directory | ${SITE_NAME}`,
+      description: getGrantsOgDiscoverDescription(),
       ogImageUrl: STATIC_OG.jobs,
     },
     '/blog': {
