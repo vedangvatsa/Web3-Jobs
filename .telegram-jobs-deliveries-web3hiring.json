@@ -6115,7 +6115,7 @@
     "sentAt": "2026-11-23T22:52:37.766Z"
   },
   "00c524ef-60a2-44fc-9e50-0d5b1873dd33": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T22:52:39.924Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -6229,6 +6229,8 @@
       }
     ],
     "message": "- Blockchain​.com is hiring <a href=\"https://hashtagweb3.com/sls328?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Institutional Sales Associate, Crypto Ecosystem</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/mgr208?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">KOL and Social Manager</a>\n- TRM Labs is hiring <a href=\"https://hashtagweb3.com/cmp154?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Architect, Onchain Compliance</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/tir12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tax Information Reporting</a>\n- Keyrock is hiring <a href=\"https://hashtagweb3.com/tr147?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Innovation Quant Developer Intern (DeFi/Corporate Development) - London</a>",
-    "slotKey": "2026-11-23:evening"
+    "slotKey": "2026-11-23:evening",
+    "messageId": 216,
+    "sentAt": "2026-11-23T22:52:42.728Z"
   }
 }
