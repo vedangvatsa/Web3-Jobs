@@ -2648,20 +2648,6 @@ Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder,
 
 OpenBuild and ETHTAO host a hackathon build and demo day on October 24, followed by the main conference on October 25. Tracks cover agent infrastructure and onchain payments, ZK/FHE privacy, and verifiable AI. The organizer says program details remain subject to confirmation. Register to receive the venue address; selected evening sessions are invitation-only.
 
-<a id="event-be9a8325dd6d3db7"></a>
-
-## Team1 India University Workshop - Vishwakarma Institute of Technology, Pune
-
-- Record: `discovery-evt-eEhN4p4N79AW1PR`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-24T08:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/917zvizr>
-
-### About the event
-
-Team1 and VIT's Microsoft Learn Student Club host an Avalanche developer workshop with blockchain fundamentals, a hands-on builder session, student opportunities and Q&A. Bring a laptop. Registration requires host approval.
-
 <a id="event-42791a14b4cba813"></a>
 
 ## Crypto Social & Networking Night: Web3, AI, Blockchain, DeFi, NFTs
@@ -15676,6 +15662,224 @@ Admission is free; however, we ask guests to consider supporting the venue hosti
 
 YouTube: @CommunityCutsBK Interested in learning more about digital assets and self custody? Visit https://www.bkcryptocoach.com/ Receive 40% off when you enter code: CRYPTOCOMMUNITY40 Note: This event will be recorded. We'll be taking photos and video throughout the day. Images and video may appear on our website or social channels. By attending, you consent to being photographed. If you'd rather stay out of the shots, no problem at all! Just step away from the camera during the event. #AI #Tech #DigitalMoney #DeFi #Blockchain #Technology #Finance #FutureOfWork #Brooklyn #BedfordStuyvesant
 
+<a id="event-8946a011ea03af0d"></a>
+
+## 第八次社課 VC 憑什麼說 Yes？ — Web3 早期投資的爐邊對談｜NTU FC 115-1
+
+- Record: `luma-crypto-muxTrPMb2MEZ2YD`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-23T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ugrxlbs4>
+
+### About the event
+
+每年有上千個 Web3 專案找上創投，最後拿到投資的只有少數。同樣是一份白皮書、一份 pitch deck，為什麼有的被秒拒，有的能拿到投資意向書？
+
+這次我們邀請 Comma3 Ventures 的 Ivan Li 來到社團。他將以爐邊對談的方式，跟大家分享早期投資人實際怎麼做判斷。
+
+在說 Yes 之前
+
+好案子從哪裡來？VC 怎麼在專案爆紅前就注意到它？
+
+說 Yes 的理由
+
+團隊、技術、代幣經濟、鏈上數據，哪些是真正的訊號，哪些只是包裝好的敘事？
+
+說 Yes 之後
+
+投股權還是投代幣？牛熊週期怎麼改變下注邏輯？穩定幣、跨境支付這些熱門賽道，在投資人眼中長什麼樣子？
+
+也歡迎問職涯，例如學生怎麼走進 Web3 VC、技術和商管背景各自有什麼優勢。
+
+講者｜Ivan Li
+
+Founding Partner @ Comma3 Ventures & Red Building Capital
+
+活動資訊
+
+主題｜VC 憑什麼說 Yes？ - - Web3 早期投資的爐邊對談
+
+時間｜11 月 23 日（一） 19:00 - 21:00
+
+地點｜台大新生教學館 303 教室（3 樓）
+
+報名方式
+
+已繳納社費的社員享有免費參加資格！若不是社員但對本次課程主題非常感興趣，也歡迎前往主頁 Linktree 裡的社課 Luma 報名單堂社課（有名額上限，先搶先贏！）
+
+學生費用：300 元 社會人士費用：400 元
+
+如有任何問題，歡迎私訊粉專！
+
+### Event details
+
+Date: Nov 23, 2026, 19:00 (Asia/Taipei)
+
+Venue: NTU Freshman Classroom Building
+
+Hosts: 台大金融科技研究社
+
+Tickets: Free
+
+Registration: requires approval from the organiser
+
+Event page: https://luma.com/ugrxlbs4
+
+<a id="event-273338a7b19b6d60"></a>
+
+## 4 top Speaker updates ...EcoX Network Block Mondays - One of Dubai s Most Famous Network Tech
+
+- Record: `luma-crypto-49FvYrNvtvPO5pu`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-23T14:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ecox-b6u2>
+
+### About the event
+
+DATE: 23th November
+
+TIME: 6:30 PM - 11:00 PM
+
+ECOX NETWORK BLOCK MONDAYS
+
+DUBAI'S BUSINESS & NETWORKING MEETUP
+
+CONNECT. LEARN. BUILD. GET FUNDED. GROW.
+
+Special Fireside Chat Guest
+
+María Paula Jiménez
+
+CEO FUTURE PHYGITAL
+
+https://www.linkedin.com/in/mar%C3%ADa-paula-jimenez-cabarca-829559209/
+
+Dr. Johnny Mendola
+
+https://www.linkedin.com/in/johnmendola/
+
+Director-General of the WERO International Education Committee
+
+DeLaTrap
+
+Marin Marinov
+
+Crypto - Trader
+
+HOSTED BY
+
+Franco Fiore - Co-Founder, EcoX
+
+https://www.linkedin.com/in/francofiore/
+
+Jorge Sebastiao - Co-Founder, EcoX
+
+https://www.linkedin.com/in/sebastiao/
+
+Powered by
+
+Momoka.
+
+www.momoka-etrading.ae (https://www.momoka-etrading.ae/?utm_source=luma)
+
+WeConnect
+
+https://www.weconnect-now.de (https://www.weconnect-now.de/?utm_source=luma)
+
+Best Global Deals
+
+DM Now +971562883048
+
+6:30 PM - 8:00 PM |
+
+- Welcome networking session
+- Expert insights on AI workflows, automation, prompt architecture, and UAE tech business setup.
+
+8:30 PM - 9:15 PM | Fireside Chat
+
+9:30 PM - 11:00 PM | Open Networking
+
+- High-level networking
+- Business matchmaking
+- Partnership opportunities
+- Community Conversation
+
+HAVE QUESTIONS ABOUT YOUR BUSINESS? ASK OUR PROFESSIONALS!
+
+- Tec, Ai, Web3, Crypto & Blockchain community - the past, the present, and the future
+- Market predictions
+- what's coming next
+
+This is more than an event.
+
+It's community.
+
+It's connection.
+
+It's a lifestyle.
+
+Bring your questions. Meet the right people. Take the next step toward your business goals.
+
+https://theaiduo.com/ (https://theaiduo.com/?utm_source=luma)
+
+VENUE: Tacenda Dubai
+
+JW Marquess Hotel, 68th Floor
+
+FREE VALET PARKING
+
+For information and enquiries:
+
++971 56 288 3048
+
+Whether you're an aspiring entrepreneur, a startup founder seeking investment, or an established company looking to expand, connect with professionals, exchange ideas, and discover opportunities to move your business forward.
+
+ECOX NETWORK
+
+DUBAI - NETWORK - GROW
+
+Don't just build your network. Build your business!
+
+<a id="event-3f897dd6ddfbbe0f"></a>
+
+## proof of gratitude: co-work creativo de BAF × Stellar en CABA solo por invitación
+
+- Record: `luma-crypto-8TMR5xYEEOuewCO`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-23T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/starmaker-047r>
+
+### proof of gratitude
+
+BAF × Stellar | Edición Acción de Gracias
+
+Celebramos lo que construimos. Diseñamos lo que viene.
+
+Hay algo que nos encanta de esta comunidad: las personas, las ideas que no paran de aparecer, los proyectos que empiezan a tomar forma y las ganas de construir cosas juntos. Y como se viene Acción de Gracias, queremos aprovechar para reunir todo eso en un mismo lugar. Un día para compartir en qué estamos trabajando, crear nuevas conexiones, celebrar lo que construimos y empezar a darle forma a lo que viene.
+
+El plan: nos tomamos Sāntal, en Chacarita, por un día para convertirlo en nuestro propio creative studio. Café, laptops abiertas, cámaras grabando, ideas nuevas y, obviamente, building tech.
+
+¿Qué vamos a hacer?
+
+Coffee & Cowork. Arrancamos con café y un espacio para trabajar juntos. Traé tu laptop y ese proyecto que tenés entre manos. Vamos a intercambiar ideas, conectar proyectos y aprovechar para hacer que las cosas pasen.
+
+Creative Lab. Vamos a hacer un ejercicio creativo para cerrar 2026, mirar todo lo que construimos, reconocer lo que aprendimos y diseñar lo que queremos hacer realidad en 2027. Papel, recortes, ideas y manos a la obra.
+
+Content Sessions. Vamos a tener cámaras prendidas y espacios para grabar contenido, compartir historias y mostrar lo que está pasando dentro de nuestra comunidad.
+
+The Commit Club. ¡obviamente vamos a construir! Tendremos challenges IRL para developers, retos técnicos y misiones creativas para quienes no programan.
+
+Almuerzo compartido & brindis. Al mediodía vamos a compartir un almuerzo y, para cerrar el día, un brindis por nuestra comunidad, por todo lo que construimos este año y por lo que viene.
+
+Traé tu compu, tus proyectos, tus ideas y muchas ganas de compartir. Nosotros ponemos el espacio, el café y algunas sorpresas ;)))))))<3333
+
+Un par de cosas importantes
+
+Este es un encuentro pensado especialmente para las personas que están construyendo activamente el ecosistema Stellar. Queremos que sea un espacio cercano, donde podamos compartir, colaborar y conectar con quienes están haciendo que las cosas pasen. El evento es exclusivamente por invitación y con registro aprobado. No se permiten acompañantes (+1) y únicamente podrán ingresar las personas que hayan recibido la confirmación de su registro. Si tu inscripción no fue aprobada, no podremos darte acceso al evento.
+
 <a id="event-43b4b02dabfd0728"></a>
 
 ## From Real Assets to Digital Tokens: RWA Tokenisation
@@ -15710,6 +15914,112 @@ It takes less than three minutes to answer a few questions and start getting gre
 
 Franklin Crypto combines top crypto investing talent and Franklin's trusted brand to support institutional investors as evolving fundamentals encourage crypto allocations, including multi-manager & multi-strategy platforms.
 
+<a id="event-2ef3d2aebf47fcc5"></a>
+
+## Crypto Policy & Digital Assets: What's Next for 2027
+
+- Record: `luma-crypto-lvHz1Hk41yT1Y5p`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-23T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ldygocoq>
+
+### Crypto Policy & Digital Assets: What's Next for 2027?
+
+Monday, November 23, 2026
+
+Web3DC hosts a community discussion focused on the state of American crypto policy, the evolving regulatory landscape, and what the digital asset ecosystem can expect heading into the next legislative cycle.
+
+As Washington prepares for a new Congress, builders, investors, entrepreneurs, and industry leaders need to understand where federal policy stands, what's changing, and what opportunities lie ahead.
+
+This session offers a plain-English breakdown of U.S. crypto policy, with practical insights into legislation, regulatory developments, and the broader implications for innovation, investment, and adoption.
+
+Expect an interactive format featuring policy updates, industry perspectives, networking, and an open Q&A. Our goal is to connect the dots between Washington's policy decisions and the businesses building the future of digital assets.
+
+Topics Covered
+
+- The State of U.S. Crypto Policy: Where digital asset legislation and regulation stand today.
+- The CLARITY Act & Companion Legislation: Legislative developments and what comes next.
+- SEC & CFTC Oversight: Understanding regulatory jurisdiction and its implications for the industry.
+- The Post-Election Landscape: What the next Congress could mean for digital asset policy in 2027.
+- Stablecoins, DeFi & Tokenization: How policy developments could shape innovation and institutional adoption.
+- The DMV Opportunity: What Washington, D.C., Maryland, and Virginia builders, investors, and businesses should be paying attention to.
+
+### Event Details
+
+When: Monday, November 23, 2026
+
+Time: To be announced (ET)
+
+Where: Bronson BierHall, Arlington, VA
+
+Cost: Free, registration required
+
+Hosted by: Web3DC
+
+### Who Should Attend?
+
+Innovators, Ai founders, investors, policymakers, legal professionals, fintech operators, entrepreneurs, and anyone interested in understanding how Washington's decisions could shape the future of digital assets.
+
+No political spin. No unnecessary jargon. Just meaningful conversations, informed perspectives, and actionable insights.
+
+Join Web3DC as we connect policy, capital, technology, and community to help shape the next chapter of digital asset innovation.
+
+Light food and refreshments provided.
+
+<a id="event-0a05db123bef7006"></a>
+
+## CryptoMondays Philly; Session 25
+
+- Record: `luma-crypto-IQ2Mi8LkobyYVRb`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-23T23:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/txmf2p88>
+
+### About the event
+
+Join us for our 25th installation of CryptoMondays Philly hosted by Sean from CoinFlask, Mike Ghen, & Matt Rosen. Join founders, developers, investors, and crypto professionals for a relaxed evening of networking and discussion around AI, Bitcoin, DeFi, regulation, and emerging digital asset trends.
+
+Whether you're deeply involved in crypto or simply curious about where AI, Bitcoin, and digital assets are heading, CryptoMondays Philly is designed to be approachable, relaxed, and conversation-driven.
+
+### Featured discussions may include
+
+- Bitcoin treasury strategy
+- AI + crypto infrastructure
+- Stablecoins and regulation
+- DeFi market trends
+- Builder spotlights
+
+### Who Should Attend?
+
+- Crypto founders
+- Developers/builders
+- Investors/traders
+- Students entering web3
+- AI and blockchain enthusiasts
+- Professionals exploring digital assets
+
+> Featured Speakers:
+
+> - Nate, Punk.fun
+
+> - Nick Fett, Tellor
+
+>
+
+> Discussion Topic: DeFi's Social Layer
+
+### Join us for the conversation! Please RSVP as space is limited!
+
+CryptoMondays Philly is part of a global community spanning 40+ cities and 30,000+ members worldwide. We are a recurring monthly meetup focused on crypto, AI, web3, and emerging technology conversations.
+
+> What is CryptoMondays?
+
+>
+
+> CryptoMondays is a five year old DAO project. The mission of the DAO is to bring a Monday evening crypto meetup to every city in the world. Today the DAO is 40 active cities and 30,000 members, making CryptoMondays Philly a chapter of the it the biggest crypto meetup in the world.
+
 <a id="event-82345f6906aed37a"></a>
 
 ## Trust Infrastructure for the Tokenization Era : Travel Rule and AML
@@ -15725,6 +16035,275 @@ Franklin Crypto combines top crypto investing talent and Franklin's trusted bran
 As digital assets transition from pilot experiments (STOs and RWAs) into institutional finance, KYC and AML compliance are no longer merely back-office burdens - they are the core trust infrastructure and prerequisites for new business.
 
 Ahead of South Korea's full implementation of the Travel Rule (effective February 2027) - which lowers exemption thresholds and tightens rules on unhosted wallets and cross-border transfers - this seminar brings together regulators, law enforcement, financial institutions, and global tech leaders to bridge statutory requirements with operational industry practice.  Event Highlights - Legislative Challenges & Risk Control - Legal issues in the full implementation of the Travel Rule and risk-based control practices for strengthening financial governance - Global Infrastructure & Tech Demonstration - Sumsub's compliance model supporting 2,000+ global clients and a remittance PoC case study integrating foreign national KYC - Public-Private Joint Panel Discussion - Strategies for operationalizing regulatory requirements into industry practice, featuring regulatory authorities, law enforcement, Korean financial institutions, and global experts
+
+<a id="event-4ce24be7d5aac31d"></a>
+
+## 実用の先へ、安全とともに。ーAI・デジタルアセット・サイバーセキュリティの現在地ー
+
+- Record: `luma-crypto-JlHFGGlCJBXuLZW`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-24T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pdeq8uen>
+
+### ーAI・デジタルアセット・サイバーセキュリティの現在地ー
+
+AIやデジタルアセットの活用が加速する中、テクノロジーの進化を支える「サイバーセキュリティ」の重要性が改めて問われています。
+
+利便性や効率性、新たなビジネス機会を追求する一方で、サイバーリスクへの対応、デジタル資産の保護、そして社会やユーザーからの信頼をどのように確保していくのか。これらは、テクノロジーを実社会で活用していくうえで避けては通れないテーマです。
+
+本イベントでは、AIとデジタルアセットの最前線を見据え、サイバーセキュリティを取り巻く現状や課題、今後求められる考え方について議論します。
+
+技術の進化を一過性のトレンドで終わらせず、安全で持続可能な活用へ。
+
+そのために必要な視点を共有する機会をお届けします。
+
+◾イベント概要
+
+- 主催: Gate Japan株式会社
+- 共催: Amazon Web Services (AWS)
+- 日時：11月24日(火)18:00-20:30 （開場は17:45）
+- 会場: Gate Japan オフィス (東京)
+- 形式: Keynote speech/パネルディスカッション
+- 完全招待制 (事前登録および当日に本人確認あり)
+- 運営ポリシー: 発言内容の引用は可能ですが、発言者及び所属組織を特定できる形での引用は禁止します。録画・録音・ライブ配信は行いません。
+
+◾共催企業について
+
+Amazon Web Services（AWS）は、世界で最も包括的かつ幅広く採用されているクラウドサービスです。世界有数の取引所、ブロックチェーンプロトコル、Web3分野の開発者から信頼され、安全性、拡張性、可用性に優れたインフラストラクチャを提供しています。
+
+ノードのホスティングやブロックチェーンデータの管理から、生成AIや自律型AIエージェントまで、AWSはWeb3分野のイノベーターが開発を加速し、グローバルに事業を拡大するとともに、最高水準のセキュリティおよびコンプライアンス基準を満たせるよう支援しています。
+
+◾タイムテーブル
+
+17:45-18:15　受付・ウェルカムドリンク
+
+18:15-18:25　開会挨拶(Gate JapanおよびAWS)
+
+18:25-18:45　メインセッション：信頼できるエージェンティックAIの構築 - Dayuan Jiang（姜 大原）／Sr. Machine Learning Engineer in AWS FDE
+
+18:45-19:00　セッション①：「AIの矛」に対抗する「AIの盾」――非対称な攻防の時代における決済セキュリティ／Netstars - Chuck Chen - CTO
+
+19:00-19:15　セッション②：63億ドル規模のハッキング事件の全貌：国家支援型のサイバー脅威への防御／Fireblocks - 牧野剛 - Sales Director
+
+19:15-19:30　セッション③：エージェンティックAI時代におけるオンチェーン金融の安全性確保／Elliptic - Derek Koh - Senior Solution Consultant
+
+19:30-20:30　ネットワーキング & ディナー
+
+◾ネットワーキングタイム
+
+セッション終了後には、ご参加の皆さま同士の交流をお楽しみいただけるネットワーキングタイムをご用意しております。
+
+厳選したワインをはじめ、Thanksgiving Dayにちなんだローストチキンや彩り豊かなオードブルなど、さまざまなお料理やお飲み物をご用意いたします。
+
+美味しいお食事とともに、登壇者や参加者の皆さまと交流を深め、新たなつながりやビジネスの可能性が生まれるひとときをお楽しみください。
+
+※本イベントは、個別事業者による日本市場での事業展開や取引サービスの提供を目的とするものではなく、AIや暗号資産業界の動向や制度環境に関する情報提供・意見交換を目的としたものです。
+
+### ーThe State of AI, Digital Assets, and Securityー
+
+As the adoption of AI and digital assets continues to accelerate, the importance of security as a foundation for technological progress is coming increasingly into focus.
+
+While businesses pursue greater convenience, efficiency, and new opportunities, critical questions remain: How can we address evolving cyber risks, safeguard digital assets, and maintain the trust of society and users? These are essential challenges that cannot be overlooked as emerging technologies become part of our everyday lives and business operations.
+
+In this event, we will explore the forefront of AI and digital assets, examining the current security landscape, the challenges we face, and the perspectives needed to navigate the future.
+
+Moving beyond technological trends toward safe and sustainable adoption.
+
+Join us as we share insights and perspectives on what it takes to build a more secure digital future.
+
+◾ Event Overview
+
+- Organizer: Gate Japan K.K.
+- Co-host: Amazon Web Services (AWS)
+- Date & Time: Tuesday, November 24, 18:00 - 20:30 (Doors open at 17:45)
+- Venue: Gate Japan Office (Tokyo)
+- Format: Keynote Speech / Panel Discussions
+- Admission: Invitation only (Advance registration and ID verification required upon entry)
+- Event Policy: Non-attribution policy (Quotations of remarks are permitted, but speakers' identities and affiliations must not be disclosed). No recording, live streaming, or broadcasting will be conducted.
+
+◾Co-host Introduction
+
+Amazon Web Services (AWS) is the world's most comprehensive and broadly adopted cloud, trusted by leading exchanges, blockchain protocols, and Web3 builders to run secure, scalable, and highly available infrastructure. From node hosting and blockchain data to generative and agentic AI, AWS helps Web3 innovators build faster, scale globally, and meet the highest standards of security and compliance.
+
+◾ Event Schedule
+
+17:45-18:15　Registration & Welcome Drinks
+
+18:15-18:25　Opening Remarks (Gate Japan & AWS)
+
+18:25-18:45　Keynote Session: Building Trustworthy Agentic AI
+
+AWS - Dayuan Jiang, Sr. Machine Learning Engineer in AWS FDE
+
+18:45-19:00　Session 1: An AI Shield Against the AI Spear: Payment Security in an Era of Asymmetric Attack and Defense
+
+Netstars - Chuck Chen, CTO
+
+19:00-19:15　Session 2: Anatomy of a $6.3B hack.Defending Against Nation State Threads
+
+Fireblocks - Go Makino, Sales Director
+
+19:15-19:30　Session 3: Trust by Design: Securing On-Chain Finance in the Age of Agentic AI
+
+Elliptic - Derek Koh, Senior Solution Consultant
+
+19:30-20:30　Networking & Dinner
+
+◾ Networking Reception
+
+Following the sessions, we invite you to join us for a networking reception, offering an opportunity to connect and exchange ideas with fellow attendees.
+
+Guests will be treated to a selection of fine wines, a Thanksgiving-inspired roast chicken, and a variety of delicious dishes, along with other refreshments.
+
+Enjoy great food and drinks while connecting with our speakers and fellow attendees, building new relationships, and exploring potential business opportunities.
+
+*This event is not intended to facilitate business expansion or the provision of trading services in the Japanese market by individual business operators; rather, its purpose is to provide information and exchange views regarding trends and the regulatory environment within the AI and crypto-asset industries.
+
+◾ 会場写真/Venue pictures
+
+<a id="event-7a504a5ebad15ee4"></a>
+
+## GIWA GASOK NIGHT by  LOCALHOST : WEB3
+
+- Record: `luma-crypto-xCccOa2soSw9tOX`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-24T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4k9ifwt7>
+
+### GIWA GASOK NIGHT
+
+Five Projects. One Ecosystem. One Night.
+
+GIWA 생태계를 만들어가는 다섯 프로젝트가 한자리에 모입니다!
+
+CALLPUT × GIWATER × AMMORA × STEPUP × GIWA ECO
+
+트레이딩부터 DeFi, 온체인 유동성, Web3 라이프스타일, 생태계 커뮤니티까지.
+
+GIWA 위에서 새로운 가능성을 만들어가는 다섯 팀이 GIWA GASOK NIGHT에서 여러분을 만납니다.
+
+프로젝트를 직접 만든 빌더들의 이야기, 현장에서 즐기는 인터랙티브 프로그램, 그리고 GIWA 커뮤니티와 함께하는 네트워킹까지!
+
+GIWA의 현재를 만나고, 다음을 함께 만들어갈 밤.
+
+Whether you're a builder, trader, degen, or simply curious about Web3, join us for a night celebrating the growing GIWA ecosystem.
+
+### Meet the Projects
+
+CALLPUT (https://giwa.callput.app/)
+
+CALLPUT은 주식, ETF, 암호화폐 등 다양한 자산을 대상으로 온체인 옵션 및 예측 거래 경험을 제공하는 트레이딩 플랫폼입니다.
+
+복잡한 금융시장에 보다 직관적으로 접근할 수 있도록 설계된 CALLPUT을 통해, 기존 금융자산과 온체인 트레이딩이 만나는 새로운 방식을 만나보세요.
+
+Official X: https://x.com/CallPutApp
+
+GIWATER (https://www.giwater.finance/)
+
+GIWATER는 GIWA 생태계의 온체인 유동성 인프라를 구축하는 DeFi 플랫폼입니다.
+
+자산 스왑부터 유동성 공급, 수익 전략, 포트폴리오 관리까지 하나의 플랫폼에서 연결하며, GIWA에서 자산이 더욱 자유롭고 효율적으로 움직이는 환경을 만들어갑니다.
+
+Official X: https://x.com/GiwaterFinance
+
+AMMORA (https://ammora.org/)
+
+Ammora는 GIWA 생태계에서 토큰 발행과 거래, 유동성 공급을 지원하는 DeFi 프로젝트입니다.
+
+개발자와 프로젝트는 Ammora SDK로 토큰을 발행하거나 런치패드-거래 서비스를 구축할 수 있으며, 이용자는 토큰 거래와 유동성 공급에 참여할 수 있습니다.
+
+Official X: https://x.com/AmmoraHQ
+
+STEPUP
+
+STEPUP은 일상 속 움직임과 블록체인을 연결하는 GIWA 기반 Web3 러닝 플랫폼입니다.
+
+사용자의 달리기 활동을 디지털 리워드 경험으로 연결하며, 누구나 일상생활에서 자연스럽게 Web3를 경험할 수 있는 서비스를 만들어갑니다.
+
+DeFi와 트레이딩을 넘어, 블록체인이 우리의 일상 속으로 들어오는 새로운 방식을 STEPUP과 함께 만나보세요.
+
+Official X: https://x.com/GiwaStepUp
+
+GIWA ECO (https://giwa.eco/)
+
+GIWA ECO는 GIWA 생태계의 프로젝트와 활동을 한곳에서 발견할 수 있도록 돕는 커뮤니티 플랫폼입니다.
+
+GIWA에서 활동하는 다양한 프로젝트의 정보와 소식을 연결하고, 사용자와 빌더들이 생태계의 흐름을 보다 쉽게 이해하고 참여할 수 있도록 돕습니다.
+
+GIWA 생태계의 새로운 프로젝트를 발견하고, 다음 기회를 찾아보세요.
+
+Official X: https://x.com/giwadoteco
+
+### What's Happening at GIWA GASOK NIGHT?
+
+1⃣ GIWA Builders Talk
+
+다섯 프로젝트가 직접 들려주는 GIWA 이야기
+
+CALLPUT, GIWATER, AMMORA, STEPUP, GIWA ECO의 빌더들이 한자리에 모여 각자의 프로젝트를 소개합니다.
+
+왜 GIWA를 선택했을까요? 지금 어떤 서비스를 만들고 있을까요? 그리고 앞으로 GIWA 생태계는 어디로 향하게 될까요?
+
+프로젝트를 만드는 팀들의 실제 경험과 비전을 함께 나누는 시간입니다.
+
+2⃣ GIWA Ecosystem Experience
+
+직접 경험하는 GIWA 생태계
+
+프로젝트의 서비스를 알아보고, 현장에서 빌더들과 직접 대화해보세요.
+
+트레이딩, DeFi, 라이프스타일 등 서로 다른 다섯 프로젝트를 통해 GIWA가 만들어가고 있는 다양한 온체인 경험을 발견할 수 있습니다.
+
+세부 체험 프로그램은 추후 안내됩니다.
+
+3⃣ Networking & Lucky Draw
+
+GIWA 생태계를 만드는 사람들과 연결되는 밤
+
+프로젝트 빌더, 개발자, 트레이더, 크리에이터, 그리고 GIWA 커뮤니티가 한자리에서 자유롭게 교류합니다.
+
+행사 마지막에는 특별한 럭키드로우 이벤트도 예정되어 있습니다.
+
+### Event Schedule
+
+18:00 - 19:00 체크인 / 웰컴 네트워킹
+
+19:00 - 19:10 오프닝 - GIWA GASOK NIGHT
+
+19:10 - 20:00 프로젝트 소개
+
+20:00 - 22:00 네트워킹 및 LUCKY DRAW
+
+### Special Rewards
+
+GIWA GASOK NIGHT 현장에서만 만날 수 있는 특별한 이벤트와 리워드를 준비하고 있습니다.
+
+Lucky Draw - 행사 참여자를 위한 특별 경품 추첨
+
+Community Rewards - 현장 프로그램 참여자를 위한 리워드
+
+Project Specials - 참여 프로젝트별 특별 혜택
+
+구체적인 경품, 참여 조건 및 지급 방식은 추후 안내됩니다.
+
+### Event Information
+
+- Event: GIWA GASOK NIGHT
+- Date: 2026-11-24
+- Time: 18:00 - 22:00
+- Location: 서울
+- Featuring: CALLPUT, GIWATER, AMMORA, STEPUP, GIWA.ECO (https://GIWA.ECO)
+- Registration: Luma 사전등록
+
+### Ready to GASOK?
+
+Five Projects. One Ecosystem. Endless Possibilities.
+
+GIWA 위에서 새로운 가능성을 만들어가는 사람들을 만나보세요.
+
+See you at GIWA GASOK NIGHT!
 
 <a id="event-50e5c4aee5ae4546"></a>
 
@@ -15794,6 +16373,129 @@ Gastgeber Dietmar Schantl-Ransdorf, CFP®, CDAA® Ich helfe Menschen und Unterne
 
 Hinweise & Compliance - Keine Anlageberatung. Inhalte dienen ausschließlich Informations- und Bildungszwecken. - Entscheidungen zu Investments triffst du eigenverantwortlich; Risiken bis hin zum Totalverlust sind möglich. - Es gelten Hausordnung und Ethik-Kodex des Clubs: respektvoller Umgang, keine aggressiven Vertriebsaktivitäten. Sprache: Deutsch und Englisch Format: Präsenz, begrenzte Plätze, Gästeliste mit Bestätigung Einlass: Nur mit bestätigter Anmeldung (Gästeliste) Dresscode: Smart Casual / Business Casual Mitbringen: Neugier, optional Smartphone / Wallet für Demo-Zwecke
 
+<a id="event-47d30c3c761f3720"></a>
+
+## 🚀 CENA DE FUNDADORES: IA & CRIPTO
+
+- Record: `luma-crypto-UNPvQOsHiGBJYQh`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-24T19:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2ucf8g9k>
+
+### About the event
+
+Ideas, conexiones y oportunidades alrededor de una mesa
+
+Martes 24 de noviembre - 20:00-22:00 h
+
+Madrid - Almagro
+
+Plazas limitadas - Acceso bajo aprobación
+
+¿Qué ocurre cuando reunimos alrededor de una mesa a personas que están construyendo el futuro de la Inteligencia Artificial, Blockchain y Cripto?
+
+El próximo 24 de noviembre organizamos una nueva experiencia presencial de SuperPioneros en Madrid: una cena de fundadores, emprendedores y builders que están desarrollando ideas, proyectos y empresas alrededor de las tecnologías disruptivas.
+
+Esta vez cambiamos el escenario.
+
+Sin escenario, sin ponencias y sin presentaciones comerciales.
+
+Solo una mesa, buenas conversaciones y personas con ganas de construir.
+
+### ¿CÓMO FUNCIONARÁ?
+
+Queremos que todos los participantes tengan la oportunidad de conocerse y descubrir posibles sinergias.
+
+Conoce a los demás fundadores. Cada participante compartirá brevemente quién es, qué está construyendo y qué necesita para avanzar.
+
+Descubre proyectos e ideas. Conoceremos iniciativas relacionadas con IA, Blockchain, Cripto y otras tecnologías emergentes.
+
+Encuentra oportunidades. Buscaremos conexiones entre talento, proyectos, empresas e inversores que puedan ayudarse mutuamente.
+
+Conecta con los VIP de SuperPioneros. Participarán miembros de nuestra Comunidad que ya están impulsando sus propios desafíos y construyendo nuevas soluciones.
+
+### ¿A QUIÉN VA DIRIGIDA?
+
+A fundadores, emprendedores, profesionales e inversores interesados en participar activamente en el ecosistema de innovación.
+
+Especialmente a quienes:
+
+- Están construyendo una startup o desarrollando una idea.
+- Trabajan en proyectos de Inteligencia Artificial, Blockchain o Cripto.
+- Buscan talento, colaboradores, clientes o socios.
+- Quieren conocer a otros fundadores y compartir experiencias.
+- Forman parte de SuperPioneros y desean acelerar sus desafíos.
+
+No importa tanto el tamaño de tu proyecto como tus ganas de construir y colaborar.
+
+### UNA CENA, MUCHAS OPORTUNIDADES
+
+En SuperPioneros creemos que las mejores conexiones aparecen cuando compartimos nuestros desafíos con las personas adecuadas.
+
+Por eso organizamos este encuentro en un formato reducido, donde todos puedan conversar y participar.
+
+Queremos que cada asistente termine la cena habiendo conocido a nuevas personas y descubierto al menos una oportunidad para avanzar en su proyecto.
+
+### INSCRIPCIONES
+
+Miembros VIP SuperPioneros: 35 €
+
+No miembros: 55 €
+
+Las plazas son muy limitadas y todas las solicitudes estarán sujetas a aprobación, buscando reunir perfiles complementarios y favorecer las oportunidades de colaboración.
+
+Martes 24 de noviembre de 2026
+
+20:00-22:00 h
+
+Madrid - Almagro
+
+¿Con quién te gustaría sentarte a cenar para acelerar tu próximo gran proyecto?
+
+¡GANAS DE CONSTRUIR JUNTOS!
+
+<a id="event-b74185ff83cb87a7"></a>
+
+## Appreciation Social
+
+- Record: `luma-crypto-8YXV681EWPlTCYl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-24T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3n4cfwci>
+
+### Community Leaders & Changemakers Appreciation Social
+
+A Celebration of the People Moving Crypto Forward in Georgia
+
+Behind every movement are the people who show up, put in the work, build connections, and make things happen. Now it's time to celebrate YOU!
+
+Join Stand With Crypto Georgia for a special evening of appreciation, connection, and fun as we recognize the community leaders, advocates, college chapter leaders, and organizers who have dedicated their time and energy to strengthening Georgia's crypto community.
+
+From grassroots advocacy and civic engagement to campus organizing and community building, your contributions have helped move this movement forward.
+
+This time, we're putting the work aside and coming together to celebrate the people who make it all possible!
+
+### What to Expect
+
+- Food, refreshments, and great company
+- Two hours of Topgolf games and friendly competition
+- Community connections and a chance to unwind
+- A few special tokens of appreciation
+
+Date: Tuesday, November 24, 2026
+
+Location: Topgolf | Midtown Atlanta
+
+Time: 6:00 PM - 8:00 PM
+
+Space is limited, and advance registration is required. Because food and activities are reserved per attendee, please RSVP only if you genuinely plan to attend.
+
+Thank you for showing up, leading, advocating, and building. Georgia's crypto community is stronger because of YOU.
+
+Here's to the people behind the movement!
+
 <a id="event-0c2b24d7d4516624"></a>
 
 ## BNB Bangkok
@@ -15819,6 +16521,85 @@ How to join 1. Complete your application on this page, including your GitHub or 
 :
 
 -, challenges and participation requirements ahead of the event. Ready to build in Bangkok? Apply below.
+
+<a id="event-874f2392b0718604"></a>
+
+## Auckland Cryptocurrency Meetup
+
+- Record: `luma-crypto-8IiXFwJ9HmQkPy8`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cnz_auckland>
+
+### About the event
+
+https://www.cryptocurrency.org.nz
+
+Join us for the Auckland Crypto Meetup - part of Aotearoa's nationwide blockchain and cryptocurrency community, hosted by Cryptocurrency NZ.
+
+Blockchain technology is evolving far beyond digital currencies.
+
+From decentralised finance and smart contracts to agentic transactions, privacy-preserving technologies and autonomous on-chain systems, we're entering a new era of the internet built around decentralisation, cryptography and digital ownership.
+
+The future of this technology is being built right now.
+
+Held on the last Wednesday of every month (excluding December), Cryptocurrency NZ meetups bring together people interested in exploring the technology, ideas and innovations shaping the digital asset ecosystem.
+
+Whether you're interested in Bitcoin, Ethereum, DeFi, Web3, AI agents, blockchain development, cryptography, privacy, digital identity or the wider decentralised economy, there's something to talk about.
+
+These are informal, community-driven gatherings where developers, builders, founders, operators, enthusiasts and the crypto-curious can exchange ideas, discuss emerging technologies, share projects and connect with others in the industry.
+
+Whether you're building the next protocol, experimenting with new technology or simply curious about where things are heading, EVERYONE is welcome.
+
+No prior knowledge required!
+
+Proudly sponsored by Swyftx, Binance NZ, BlackBull Markets, Pay It Now, Blockchain Forum NZ, Web3NZ, Crypto Consulting NZ, Fire Eyes, Pest Free Token and UC Crypto Society.
+
+Explore the nationwide meetup network: https://cryptocurrency.org.nz/meetups
+
+<a id="event-29b9c6f14f0054dc"></a>
+
+## BYBIT Billionaire CryptoDaddy Club
+
+- Record: `luma-crypto-J4cQo2hBO2jMkMe`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/9cx3p5lo>
+
+### Bybit Billionaire CryptoDaddy Club
+
+Master the Strategies Behind Real Trades.
+
+Ready to level up your trading game? Join the Bybit Billionaire CryptoDaddy Club, an exclusive offline trading session where you'll learn practical trading strategies, explore real market scenarios, and gain valuable insights directly from Bybit Indonesia Trainer and William Saputra.
+
+Date: Thursday, November 26, 2026
+
+Time: 14:00-17:00 WIB
+
+Venue: Bybit Indonesia HQ
+
+UOB Plaza, 31st Floor, Jl. M.H. Thamrin No. 8-10, Kebon Melati, Tanah Abang, Jakarta
+
+### What to Expect
+
+- Learn practical trading strategies from experienced traders.
+- Explore real trading scenarios and market insights.
+- Interactive learning session with Bybit Indonesia Trainer and William Saputra.
+- Connect with fellow crypto trading enthusiasts.
+
+What to Bring
+
+Please bring your own laptop or notebook to take notes and participate in the learning session.
+
+LIMITED SEATS AVAILABLE!
+
+Secure your spot now and take your trading knowledge to the next level.
+
+Make Your Own Move. Bybit.
+
+Crypto trading involves risk. Participation does not guarantee trading profits.
 
 <a id="event-b97a317e1dffe144"></a>
 
@@ -15856,6 +16637,276 @@ Producto en cartera: ETFs y producto cripto, cómo lo incorporan las gestoras a 
 
 By participating, you agree to their use for promotional purposes. Follow us on X: @SuperteamAE (https://x.com/SuperteamAE?utm_source=luma) We're excited to see you there!
 
+<a id="event-4de282b1ce5b75dc"></a>
+
+## WhitePaper Reading Taipei #5 - Road to Hegota Upgrade
+
+- Record: `luma-crypto-im1Rjs7hJPKwAMz`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4ynxok99>
+
+### About the event
+
+🇹🇼 Whitepaper Reading Club 台北・第五場來了！
+
+之前我們讀過 EF Mandate，聊「抗審查」為什麼是以太坊的底線。這次我們把鏡頭拉近到協議本身：接下來的升級，以太坊打算怎麼重新設計「誰來出塊」
+
+主題：從 ePBS 到 FOCIL：以太坊前進 Hegota 之路
+
+為什麼是現在：
+
+今天以太坊大多數區塊，是透過鏈下 relay 交給少數 builder 打包的。
+
+即將到來的 Glamsterdam 升級，主角是 ePBS（EIP-7732）：把 proposer 和 builder 之間的交接直接寫進協議，不再需要信任中間的 relay。
+
+下一個升級 Hegotá，主角則是 FOCIL（EIP-7805）：由驗證者委員會指定「必須上鏈」的交易，builder 不照做，區塊就拿不到支持。EF 已把它列為 must ship，寧可延後整個升級也不拿掉。
+
+一個把 builder 收進協議，一個限制 builder 不能審查。這晚，我們把兩者放在一起讀。
+
+Discussion Lead：Nic Lin
+
+Protocol Researcher | Smart Contract Engineer
+
+專注 L2、MEV 與安全協議設計，參與過帳戶抽象、Rollup、MEV aware DEX 等以太坊核心基礎設施，持續發表研究並參與開源工具開發，也常在全球以太坊大會分享。目前正在探索 universal account、L1/L2 互通性，以及抗審查。
+
+這晚我們會一起辯論：
+
+ePBS 拿掉了對 relay 的信任，但 MEV 和 builder 集中的問題真的解決了嗎？還是只是換個地方集中？
+
+ePBS 和 FOCIL 怎麼搭配？如果只有其中一個，以太坊會長什麼樣子？
+
+當初 ePBS 先上、FOCIL 排到下一輪，這個先後順序合理嗎？
+
+Hegotá 另一個主角 Frame Transactions 把帳戶抽象寫進協議，對錢包和用戶體驗意味著什麼？
+
+終極問題：協議該把多少權力從 builder 手上拿回來？抗審查值得讓整個 roadmap 等它嗎？
+
+活動流程
+
+活動前會先發研究資料，讓大家提前閱讀！現場也會提供整理好的 1 至 2 頁 summary，幫你快速抓住重點！
+
+當天大家會圍坐成一圈，由 moderator 帶大家討論～不過更多的學習、洞見與精華，往往是在彼此交流的過程中迸出來的，那才是最好玩的部分！
+
+特別感謝 White Paper Reading Club、台北以太坊社群協助舉辦，以及 imToken 提供場地支持
+
+誠摯邀請大家一起來這場 nerdy night
+
+什麼是 Whitepaper Reading Club（WPRC）？ 一個聚集 800+ builders、engineers、researchers 的全球社群，橫跨 Singapore、Kuala Lumpur、San Francisco、Lagos、Bangkok、New York，每月聚在一起，圓桌式硬啃最新的 blockchain 項目和研究論文！
+
+WPRC 獨立於任何生態，三年來活動完全由會員支持，已主持超過 100 場閱讀會。
+
+Luma：luma.com/whitepaper
+
+𝕏 Twitter：@WPReadingClub
+
+▶ YouTube：WhitepaperReadingClub
+
+*This event will be conducted mainly in Chinese, but everyone is warmly welcome to join!
+
+<a id="event-b967d038810b60e5"></a>
+
+## Whitepaper Reading Club: Hyperliquid - Technical Unboxing
+
+- Record: `luma-crypto-zLGm4NrGbR5C2zT`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wprc-jak-261125-hyperliquid-technical-unboxing>
+
+### About the event
+
+Most decentralized exchanges rely on Automated Market Makers (AMMs) as traditional central limit order books (CLOBs) are difficult & expensive to run on-chain (high gas fees, slow block times), and latency make real-time order matching impractical on general-purpose blockchains.
+
+We disucss how Hyperliquid solves these architectural bottlenecks from the ground up. We'll explore its:
+
+- Custom Layer-1 design, the HyperBFT consensus mechanism
+- How it achieves CEX-level throughput and sub-second finality without sacrificing self-custody
+- The mechanics behind its protocol-native liquidity vaults (HLP).
+
+Whether you're a DeFi builder, trader, or systems enthusiast, join us for a deep dive into the engineering trade-offs making fully on-chain order books possible.
+
+Paper / source: https://docs.google.com/document/d/1kpeQYXjkeouIyhzwbsgggqatEXT0MV7R8VCLmLmmxlI/edit?usp=sharing
+
+### Format
+
+- Short introduction and context setting to start.
+- A short walkthrough of the paper and its key ideas.
+- Questions and discussion grounded in the original source.
+- Moderator-led discussion with no promotions.
+
+### Session Guides - David Kurniawan (Sr. Product Manager D3Labs)
+
+A Senior Product Manager at D3 Labs, where he oversees the company's blockchain and its connections to other networks. He previously led product at Delman and was the head of product. He holds an MBA from INSEAD, a master's in information systems management from Carnegie Mellon University, and a bachelor's in mechatronics engineering from Swiss German University.
+
+### About Whitepaper Reading Club
+
+We are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.
+
+Learn more: Website (https://wprc.club) - Summaries (https://www.wprc.club/papers) - Calendar (https://luma.com/whitepaper)
+
+We create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.
+
+<a id="event-47cbcd99225e0b10"></a>
+
+## Stablecoins Americas \| The Cross-Border Opportunity
+
+- Record: `luma-crypto-KG0xgIKlZ1HWxDX`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6k4hf0wk>
+
+### About the Event
+
+THE CROSS-BORDER OPPORTUNITY
+
+The Next Chapter of International Payments in Latin America
+
+PRIVATE EXECUTIVE ROUNDTABLE | STABLECOINS AMERICAS
+
+Wednesday, November 25, 2026
+
+10:00 AM | Mexico City Time
+
+Cámara Nacional de Comercio de la Ciudad de México
+
+Paseo de la Reforma 42, Colonia Juárez, Mexico City
+
+35 Industry Leaders | By Invitation Only
+
+Complimentary Registration | Subject to Approval
+
+The next chapter of cross-border payments is being written today. Who will lead it?
+
+International payments across Latin America are entering a new era. Evolving financial infrastructure, emerging technologies, and new business models are creating unprecedented opportunities for banks, fintechs, payment providers, and companies operating across borders.
+
+As we approach 2027, the question is no longer simply how money moves internationally, but who will build, enable, and capture the next generation of cross-border business opportunities.
+
+Stablecoins Americas brings together 35 senior executives and industry decision-makers for an exclusive, invitation-only roundtable exploring the future of international payments across Mexico, the United States, and Latin America.
+
+This private executive session is designed to move beyond traditional industry discussions and foster meaningful conversations about emerging markets, commercial opportunities, strategic partnerships, and the infrastructure shaping tomorrow's financial ecosystem.
+
+No sales pitches. No traditional conference panels. Just meaningful conversations among industry leaders.
+
+What We'll Explore
+
+01. The Cross-Border Opportunity in 2027
+
+Where are the most promising growth opportunities emerging across Mexico, the United States, and Latin America?
+
+02. New Business Models in International Payments
+
+How are fintechs, banks, payment service providers, and technology companies reshaping cross-border financial services?
+
+03. The Next Generation of Payment Infrastructure
+
+The evolving role of stablecoins, real-time settlement, FX solutions, and modern payment rails in international transactions.
+
+04. Strategic Partnerships & Market Expansion
+
+How can financial institutions, fintechs, and infrastructure providers collaborate to unlock new markets and accelerate growth?
+
+05. From Innovation to Commercial Opportunity
+
+Moving beyond technology discussions to explore practical use cases, revenue opportunities, and scalable business models.
+
+### Who Should Attend?
+
+This executive gathering is designed for senior decision-makers, including:
+
+- Fintech Founders & CEOs
+- Heads of Payments & Treasury
+- Heads of Partnerships & Business Development
+- Banking & Financial Innovation Executives
+- Payment Service Providers (PSPs)
+- Cross-Border Payment Companies
+- Financial Infrastructure & Technology Providers
+- Executives exploring international expansion
+
+The Experience
+
+35 Industry Leaders. One Private Conversation. Meaningful Connections.
+
+Unlike traditional conferences, The Cross-Border Opportunity is designed around executive-level dialogue and peer-to-peer exchange.
+
+Participants will have the opportunity to share perspectives, discuss industry challenges, identify emerging business opportunities, and connect with executives building the future of international payments.
+
+The session combines a moderated executive conversation with dedicated networking opportunities in a private, professional setting.
+
+Our goal is simple: bring the right people into the same room and create conversations that lead to meaningful business relationships.
+
+Registration & Attendance
+
+Attendance is complimentary, by invitation only, and subject to approval.
+
+To maintain a focused and high-value environment, participation is limited to approximately 35 senior executives.
+
+All registration requests will be reviewed by the Stablecoins Americas organizing team, with priority given to professionals actively involved in financial services, international payments, treasury, and financial infrastructure.
+
+Submitting a registration request does not guarantee admission. Approved participants will receive confirmation and additional event information.
+
+Organized by Stablecoins Americas
+
+Connecting the people, companies, and ideas shaping the future of money and financial infrastructure across Latin America.
+
+PRIVATE CONVERSATIONS - STRATEGIC CONNECTIONS - NEW OPPORTUNITIES
+
+<a id="event-8bab1fee79ddd18f"></a>
+
+## Meet the Czech Solana Builders \| 3 Teams, 3 Ideas
+
+- Record: `luma-crypto-J1RxlWqvklDjuuT`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hi6hbcb8>
+
+### Meet the Czech Solana Builders
+
+3 Teams. 3 Ideas. One Solana Community.
+
+The Czech Solana ecosystem is growing, and there's a lot more happening locally than you might think!
+
+Next Wednesday, we're bringing together three Czech teams that participated in the Colosseum Hackathon to introduce their projects, share what they're building and connect with the SolanaCZE community.
+
+From financing real-world robotics to automated DeFi portfolios and new approaches to managing financial risk, we'll explore three very different use cases for Solana.
+
+Meet the Teams
+
+Uptime Robotics Finance (URF)
+
+Bringing real-world robotics financing on-chain. URF enables investors to pool USDC on Solana to finance robot fleets, with repayments coming from robotics operators' customer contracts.
+
+Markowitz Finance
+
+Automated portfolio management on Solana. Build diversified portfolios, choose your own asset weights or use a portfolio optimizer, and earn trading fees while your portfolio automatically rebalances.
+
+https://markowitz.finance/
+
+Resu Protocol
+
+A new approach to DeFi risk and yield. Resu lets users choose their risk exposure through Junior, Middle and Senior tiers, with different levels of protection and potential returns.
+
+### What to Expect
+
+Each team will introduce their project, explain the problem they're solving and share their experience building in the Solana ecosystem.
+
+After the presentations, we'll have an open Q&A, discussions, drinks and plenty of time to connect with the founders and other community members.
+
+Whether you're a developer, founder, investor or simply curious about what's being built locally, come join us!
+
+Wednesday, November 25, 2026
+
+18:00
+
+Café Decada, Prague
+
+Free entry
+
+Let's support our local builders and grow the Czech Solana ecosystem together!
+
 <a id="event-4deaaa6f6efeeeb7"></a>
 
 ## SWC Cup \| Crypto Padel League Final
@@ -15871,6 +16922,192 @@ By participating, you agree to their use for promotional purposes. Follow us on 
 SWC Padel Night - the SWC Cup House of Racquet | Wed 25 Nov We're taking over the courts on the final night of Crypto Padel League Season 2 for the first-ever SWC Cup. How it works - 4 teams go head to head: Politicians, Press, Partners and SWC - up to 6 players per team (3 pairs), 24 players in total - 6-7pm across 3 courts, 2 rounds of 30 minutes (arrive at 5:45pm if you're playing) - 3 points per win, and the team with the most points lifts the SWC Trophy What's waiting for you - Drinks flowing and food all night - If you're playing, your own team t-shirt, plus SWC branded padel balls - A celebration of our Blocked campaign Stick around after the tournament for the CPL Season 2 finale.
 
 Come ready to play or just spectate if you'd rather. See you on court!
+
+<a id="event-7d862bd50d898737"></a>
+
+## Post BreakPoint Con La Familia
+
+- Record: `luma-crypto-6idNLEyyKZN6b0e`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/822nldlj>
+
+### About the event
+
+La Familia Post-Breakpoint Meetup | Barcelona
+
+Breakpoint is over, but the conversations don't have por qué terminar!
+
+Este martes nos juntamos para compartir un rato entre colegas, ponernos al día después de Breakpoint, comentar lo que dejó el evento, compartir ideas, experiencias y, por supuesto, tomar algo juntos.
+
+Sin agendas, sin presentaciones y sin formalidades. Simplemente buena compañía, networking del bueno y ganas de seguir construyendo juntos dentro del ecosistema.
+
+Martes 24 de noviembre
+
+Nos vemos, Familia!
+
+Come as you are, bring your stories and let's keep building!
+
+### Event details
+
+Date: Nov 25, 2026, 19:00 (Europe/Madrid)
+
+Venue: Tacos & Burritos
+
+Hosts: CryptoConnect
+
+Tickets: Free
+
+Registration: open
+
+Event page: https://luma.com/822nldlj
+
+<a id="event-5fde0bba1838d7b6"></a>
+
+## Same Fund, New Rails: Money Markets Meet Tokenisation, powered by CryptoMondays Ireland
+
+- Record: `luma-crypto-B4mXnqlZiDjM0d5`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ht9f1pb1>
+
+### Same Fund, New Rails: Money Markets Meet Tokenisation | Powered by CryptoMondays Ireland
+
+J.R. Mahon's Public House & Brewery, Dublin
+
+Wednesday, 25th November
+
+6:00-9:00pm onwards
+
+The fund stays the same. The rails don't.
+
+Money market funds sit at the centre of how institutions manage cash. They're also where tokenisation is gaining real traction: same product, same regulation, new ways to issue, hold, settle and move fund shares.
+
+The real shift is distribution. Reach new investor segments, offer 24/7 liquidity and enable re-use of fund shares.
+
+Our last Dublin evening opened the conversation on tokenisation. This time we go a layer deeper, into one of the fastest-moving corners of the funds industry.
+
+What's happening
+
+No slides. After a quick intro, Pete Townsend (Norio Ventures) and Ian Mitchell are joined by Ruth Fairclough from Irish Funds and another special guest, to be announced, for a 15-20 minute chat on where tokenised funds are heading.
+
+After that, the night is yours. Networking, catching up & the conversations that run on at the bar.
+
+If you work in funds, asset management, fund admin, custody, compliance, ops, tech or professional services, this one's for you. The same goes for the crypto OGs who were onchain long before it became a funds conversation, and for anyone curious and a little sceptical.
+
+You don't need a background in any of this to follow the conversation.
+
+Powered by CryptoMondays Ireland, part of a global grassroots community for people who care about the future of money, technology & ownership. Founders meet fund managers. Innovators meet institutions. Builders meet boardrooms.
+
+Finger food on the night. Reserve your spot below so we know to expect you. Bring the colleague who nods along in meetings.
+
+Reserve your spot.
+
+<a id="event-011895c6217ae0fe"></a>
+
+## BitDevs - Socratic Seminar #55
+
+- Record: `luma-crypto-QnQRfvOIMRZqsvj`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-25T18:40:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/antidote-pswa>
+
+### BitDevs - Socratic Seminar #55
+
+Join us for the next London BitDevs Socratic Seminar! We'll be covering the latest research, ideas, and developments in Bitcoin and related protocols. This is a highly interactive evening where participants are encouraged to share their insights, ask questions, and collaborate.
+
+### What to Expect
+
+Our discussions are technical, and we don't shy away from diving into the nitty-gritty details. However, each topic will be briefly introduced for those less familiar with the subject matter.
+
+Whether you're an experienced contributor or simply curious to learn more, you're welcome to join the conversation. As long as you have a basic understanding of how Bitcoin works, you'll find something interesting to take home.
+
+### Topics & Suggestions
+
+We will announce the final discussion topics shortly before the event on londonbitdevs.org (https://londonbitdevs.org/?utm_source=luma). If you have a specific topic you'd like to dive into, please leave a comment on the appropriate pull request in our GitHub repo (https://github.com/londonbitdevs/londonbitdevs-website?utm_source=luma).
+
+### Event Details
+
+- Doors Open: 18:40
+- Seminar Starts: 19:00
+- Late Entry Cutoff: 19:10 (We cannot let you in after this time, so please arrive promptly!)
+- Scheduled End Time: 21:00
+
+### Rules
+
+- We enforce a strict no-photo and no-video policy and adhere to Chatham House Rule (https://en.wikipedia.org/wiki/Chatham_House_Rule?utm_source=luma), to ensure everyone feels comfortable to attend and speak freely.
+- This is a technical, Bitcoin only event. Other projects and non-technical topics are not discussed.
+
+This seminar is sponsored by Antidote (https://antidotebtc.com/?utm_source=luma) and Brink (https://brink.dev/?utm_source=luma).
+
+<a id="event-a37e4ea890f7fc26"></a>
+
+## American Crypto Policy: What's Next · Workshop Wednesday · Phoenix · November 25
+
+- Record: `luma-crypto-UAGWLqBe7al4eAl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nkgh93iv>
+
+### About the event
+
+The Emerging Tech Center hosts a Workshop Wednesday on November 25, 2026 focused on the state of American crypto policy and what the digital asset ecosystem has to look forward to in the next legislative cycle.
+
+This is a plain-English overview of where federal policy actually stands today and where it is realistically headed. Expect a working-session format: short briefings on the active bills and regulatory posture, a candid read on the post-election landscape, and an open Q&A designed for builders, investors, and policy watchers who want signal over slogans.
+
+Topics covered
+
+- The current state of U.S. crypto policy and digital asset regulation
+- The CLARITY Act and companion legislation: where things stand
+- SEC and CFTC jurisdictional outlook
+- What the post-election Congress means for the ecosystem
+- What Arizona builders and investors should be paying attention to
+
+Event details When: Wednesday, November 25, 2026 from 6:00 to 9:00 PM MST Where: Phoenix, Arizona (venue shared with confirmed RSVPs) Cost: Free, registration required Includes: Light food and refreshments Hosted by: Emerging Tech Center With support from: Stand With Crypto Arizona
+
+<a id="event-1f24b2646116035f"></a>
+
+## Integral x ATFX Connect \| Crypto Conversations: Networking Drinks
+
+- Record: `luma-crypto-gyyGBm4prZOaKYH`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rzlwq5ax>
+
+### Crypto Conversations by Integral and ATFX Connect
+
+Heading to the Australia Crypto Conference in Sydney? Get the conversations flowing at our networking drinks event Crypto Conversations on Thursday, 26th November 2026.
+
+Join us for a relaxed evening of drinks and networking, connecting with fresh contacts across our network and the wider crypto and digital assets community.
+
+No presentations, just good drinks and great conversations before the conference kicks off!
+
+RSVP early as we have limited slots available. We look forward to see you there!
+
+> Please note that attendance is subject to approval, and a confirmation email will be sent to approved guests only.
+
+>
+
+> Please note that entry will be granted only to ticketed guests, and tickets are not transferable. During registration, please show your QR code to check-in.
+
+### About ATFX Connect
+
+ATFX Connect (https://atfxconnect.com/en/) is the Institutional and Professional arm of the wider ATFX Group. ATFX Connect UK, (authorised and regulated by the FCA), and ATFX Connect Australia, (authorised and regulated by ASIC) offers Institutional and Professional traders a wide range of services for both Agency PB and Margin accounts.
+
+We provide bespoke aggregated liquidity in Spot FX, Digital Assets, indices, Commodities and Precious metals to a wide range of institutional clients from hedge funds, Tier 1 and regional banks, high net worth investors, asset managers, family offices and other brokers. Our liquidity pool is constructed from a number of Tier 1 banks and non-bank providers that we have partnered with, trading in both sweepable and full amount form.
+
+Agency PB Clients can connect via direct FIX API, external technology solutions or via our own trading platform. For margin clients we provide market access via our MT4/MT5 platform and a bridge solution for those who wish to connect via FIX API. Our services consist of leveraged financial instruments that carry a high level of risk and may result in losses exceeding the initial investment.
+
+### About Integral
+
+Integral (https://www.integral.com/?utm_source=luma) is the currency technology partner to hundreds of financial institutions, including banks, brokers, digital asset firms, investors, and cross-border payment companies, who have embedded Integral's technology in their workflows and customer-facing services.
+
+Adopted first by the financial markets and now integrated across all industries our embedded FX, precious metals, and digital asset services are solving the currency challenges faced by every global business, all tradeable from a single, unified screen.
 
 <a id="event-4270bb9ba0b92d4d"></a>
 
@@ -15901,6 +17138,206 @@ Switzerland's leading academic-industry fintech conference, hosted by the Univer
 - 17:15-18:00 Academic Presentation #5 - AI Errors Presenter: Albert Menkveld (University of Amsterdam) Discussant: Larisa Yarovaya (University of Southampton)
 - 18:00-18:30 Research Talk Presenter: Paul Duetting (Google) Topic: AI and Moral Hazard
 - 18:30-20:30 Networking Apéro * The program is subject to change
+
+<a id="event-6967057eadc28675"></a>
+
+## Whitepaper Reading Club: Native Privacy on BNB Chain
+
+- Record: `luma-crypto-UBy8TpgwCahoaN7`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wprc-my-261126-the-bnb-new-l1-native-privacy-layer>
+
+### About the event
+
+BNB Chain is developing a next-generation, high-performance EVM-compatible Layer 1 designed for high-frequency trading, real-time payments, privacy, and AI agents.
+
+Goal: 100,000+ TPS, sub-second finality, and approximately 20ms transaction pre-confirmation, the new architecture aims to push blockchain performance closer to centralized systems while preserving on-chain execution.
+
+What We'll Discuss: Privacy through native shielded transactions using zero-knowledge proofs. We'll explore the proposed architecture, challenge its design decisions, and discuss its potential implications for the broader blockchain ecosystem.
+
+Components of the New L1 chain:
+
+- Architecture & Consensus: Enhanced Parlia, BLS fast finality, and asynchronous execution.
+- Performance: Parallel EVM execution, 200ms block intervals, and LtHash-based storage.
+- Transaction Ordering: Pre-confirmations, direct-to-proposer transaction routing, and Multi-Lane reserved capacity.
+- Native Account Abstraction: Gas sponsorship, session keys, passkeys, and transaction batching.
+- The Bigger Picture: Why build another L1 instead of scaling BSC? What are the technical trade-offs?
+
+Who Should Join? Everyone is welcome, from curious beginners to experienced Web3 developers. No presentation required, just bring your curiosity, questions, and perspectives!
+
+Reading Material:
+
+- Main Docs: https://docs.bnbchain.org/newl1/
+- Forum: https://forum.bnbchain.org/t/introducing-the-new-l1-native-privacy-layer/5481
+
+### Format
+
+- Short introduction and context setting to start.
+- A short walkthrough of the paper and its key ideas.
+- Questions and discussion grounded in the original source.
+- Moderator-led discussion with no promotions.
+
+### Session Guides
+
+Sky is a blockchain tech founder and BNB Chain DevRel Ambassador based in Kuala Lumpur.
+
+He co-founded YOLO Protocol, supported by Uniswap and Base, and GIVE Protocol, supported by Bybit's Blockchain for Good Alliance. He is currently building PAYtience, a Solana-based trading platform.
+
+He also leads the Whitepaper Nerd Club, bringing curious minds together to explore blockchain ideas. Always excited to meet fellow nerds, share knowledge, and make new friends. Come nerd out with us!
+
+### BNB Hackathon
+
+There's also the BNB Chain Hackathon happening on Nov 25-27 and Demo Night (Nov 27), with something for everyone: (i) Developers: Build a project from scratch and bring your ideas to life. (ii) Founders: Pitch your project to VCs and connect with potential investors. (iii) Web3 enthusiasts: Discover emerging projects and explore the latest innovations.
+
+### BNB Chain
+
+Decentralized blockchain ecosystem designed for high-speed, low-cost Web3 applications. Originally launched by Binance, it operates as a multi-chain network powered by its native BNB token.
+
+### About Whitepaper Reading Club
+
+We are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.
+
+Learn more: Website (https://wprc.club) - Summaries (https://www.wprc.club/papers) - Calendar (https://luma.com/whitepaper)
+
+We create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.
+
+<a id="event-76816501c9fe8846"></a>
+
+## OtterSec in Seoul 🇰🇷
+
+- Record: `luma-crypto-zF2vSgJO5SC2sdl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wtqzqmwf>
+
+### Web3 보안 전문팀 OtterSec이 서울에 옵니다!
+
+OtterSec은 Web3 보안 분야에서 상당한 기술적 깊이와 독보적인 연구 역량을 보여주고 있는 팀입니다. Solana 생태계의 핵심 인프라인 Anchor v2부터 Prop AMM과 같은 프로토콜의 리버스 엔지니어링, 실제 시스템에서의 취약점 발견까지, 기존의 접근 방식에 머무르지 않고 다양한 영역에서 새로운 기술적 시도를 이어가고 있습니다.
+
+이번에는 그 OtterSec 팀을 서울에서 직접 만나볼 수 있는 자리를 마련했습니다. 팀이 최근 어떤 연구를 진행하고 있는지, 어떤 흥미로운 문제들을 파고들고 있는지, AI를 보안 연구와 감사에 어떻게 접목하고 있는지, 그리고 AI가 앞으로 Web3 보안의 방향을 어떻게 바꿔갈지 직접 들어볼 수 있습니다. 평소 관심 있게 지켜봤던 분들은 물론, 새로운 기술과 연구에 관심 있는 분들에게도 좋은 기회가 될 것 같습니다.
+
+### 1. Presentations & Speakers
+
+이번 행사에는 Zcash 취약점 제보로 7자리 수 규모의 버그 바운티를 받은 OtterSec의 한국인 보안 연구원 GSS1(강상수)을 비롯해 OtterSec의 다른 보안 연구원들이 발표자로 참여합니다.
+
+주요 발표 주제는 다음과 같습니다.
+
+- 실제 취약점 발견 사례와 보안 연구 과정
+- 프로토콜 리버스 엔지니어링과 새로운 감사 기법
+- OtterSec이 현재 연구하고 개발 중인 기술과 프로젝트
+- Web3 보안의 새로운 도전 과제와 앞으로의 방향
+
+각 발표 후에는 Q&A 시간이 이어집니다. 발표는 영어로 진행됩니다.
+
+Joining us will be GSS1, the Korean OtterSec auditor behind a seven-figure Zcash bug bounty, alongside other OtterSec auditors.
+
+Topics will include:
+
+- Interesting vulnerability discoveries and real-world security research
+- Protocol reverse engineering and novel auditing techniques
+- What the OtterSec team has been researching and building
+- Emerging challenges and directions in Web3 security
+
+Presentations will be followed by an open Q&A. Talks will be conducted in English.
+
+### 2. Schedule
+
+November 26, 2026 (Thu.) | 18:30-22:00
+
+- 18:30-19:00 - 참가자 등록 및 입장
+- 19:00-20:30 - 기술 발표 및 Q&A (Details TBA)
+- 20:30-22:00 - OtterSec 팀과의 네트워킹
+
+November 26, 2026 (Thu.) | 18:30-22:00
+
+- 18:30-19:00 - Arrival & Check-in
+- 19:00-20:30 - Technical Presentations & Q&A (Details TBA)
+- 20:30-22:00 - Networking with the OtterSec Team
+
+### 3. Who Should Attend?
+
+스마트 컨트랙트 개발자, 보안 연구자, 감사 전문가, 프로토콜 엔지니어 등 Web3 보안에 관심 있는 분들이라면 누구나 환영합니다.
+
+특히 실제 취약점 분석이나 리버스 엔지니어링에 관심이 있거나, 다른 보안 연구자들과 기술적인 이야기를 나누고 싶은 분들에게 좋은 기회가 될 것입니다.
+
+발표를 듣는 것뿐 아니라 OtterSec 팀원들과 직접 이야기를 나누고, 국내 개발자 및 보안 연구자들과 교류하는 시간도 가져보세요.
+
+Whether you're a security researcher, smart contract auditor, blockchain developer, protocol engineer, or simply interested in how Web3 systems work under the hood, you're welcome to join.
+
+If you're interested in vulnerability research, reverse engineering, protocol security, or meeting others working in the space, this is a good opportunity to exchange ideas and get to know the people behind the research.
+
+Come for the talks, stay for the conversations. Meet the OtterSec team and connect with Seoul's blockchain security community.
+
+### Hosted by
+
+OtterSec × Decipher × Four Pillars
+
+서울에서 만나요!
+
+OtterSec × Decipher × Four Pillars
+
+See you in Seoul!
+
+### OtterSec is coming to Seoul!
+
+OtterSec has built a reputation for technically ambitious work at the forefront of Web3 security research. From its work on core Solana infrastructure such as Anchor v2 to reverse engineering protocols like Prop AMMs and uncovering vulnerabilities in live systems, the team is constantly exploring new approaches to understanding and securing blockchain infrastructure.
+
+We're bringing the OtterSec team to Seoul for an evening of technical talks and conversations. Hear directly from the team about what they've been working on, the interesting problems they're tackling, how they're incorporating AI into their security research and auditing workflows, and how they see AI shaping the future of Web3 security. Whether you've been following their work or are simply curious about what's happening at the cutting edge of blockchain security, we'd love to have you join us.
+
+<a id="event-1809b85f08fb34cc"></a>
+
+## Team1 Connect
+
+- Record: `luma-crypto-OecGG8Mn3DCdX27`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/team1-connect-dubai>
+
+### About the event
+
+Come meet the Avalanche community in Dubai for an evening of networking, innovation, and meaningful conversations!
+
+Whether you're a developer, founder, investor, or simply exploring Web3, this meetup is your chance to connect with fellow builders, discover the Avalanche ecosystem, and explore new opportunities.
+
+Learn about the latest developments in the Avalanche ecosystem, explore how blockchain and AI are shaping the future, and discover opportunities to build, collaborate, and grow within the community.
+
+Enjoy refreshing mocktails, delicious bites, and live DJ music while connecting with like-minded people in a vibrant and welcoming atmosphere.
+
+Join us for great conversations, new connections, and an exciting evening with the growing Avalanche community in Dubai!
+
+### Event Program
+
+[6:00 PM] - Doors open & welcome attendees
+
+[6:30 PM] - Opening words by Daos Hub
+
+[6:35 PM] - Intro to Team1 & the local ecosystem by Memo
+
+[7:00 PM] - Open networking, mocktails & bites, live DJ
+
+[9:00 PM] - Closing & goodbye
+
+### About Daos
+
+https://daos.co/
+
+Daos is a global ecosystem for tech builders. We connect founders, industry leaders, investors, and operators across both digital and physical spaces. At our core is a curated, members-only community where people are chosen for their values and what they build. Alongside a private hub in Dubai, Daos offers a stage to host events and an in-house studio to produce video content.
+
+Huge thanks to our partner for helping us bring this meetup to life!
+
+### About Team1
+
+Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
+
+With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
+
+By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
+
+https://x.com/AvaxTeam1
 
 <a id="event-1eeaf1063223ed98"></a>
 
@@ -15949,6 +17386,47 @@ Arc is moving fast, And now it helps you move just as fast. With Arc Studio, Cir
 :
 
 - - A quick intro to Arc, the blockchain built by Circle for stablecoin finance - A live build in Arc Studio, from prompt to working app - Hands-on: build your own app, we help you get it running - Food, drinks and networking with the Arc House France community Thursday, November 26, 2026 6:00 pm INM 10, EPFL campus Open to developers, students, founders and anyone curious about building onchain. No coding experience required. Bring your laptop. Hosted by Jules & Abdelaziz, Chapter Lead & Country Lead France.
+
+<a id="event-9a1304854bb3429d"></a>
+
+## Merov Summit · Édition Paris
+
+- Record: `luma-crypto-LgIA6PEOtIcCFZz`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/xyqqjfgd>
+
+### About the event
+
+Merov Summit Paris - en partenariat avec OKX
+
+Jeudi 26 novembre, 18h - Station F - gratuit - sur sélection
+
+Le Merov Summit revient à Paris, en partenariat avec OKX, sur le Master Stage de Station F.
+
+### Programme
+
+- Keynote d'OKX
+- Panel avec des fondateurs français
+- VIP Trader Spotlight avec Julien
+- Enquête onchain avec Bubblemaps
+- Drinks et networking
+
+Intervenants
+
+- Invité mystère OKX
+- Paul Frambot, Morpho
+- Laszlo Szabo, Kiln et Railnet
+- Paul-Adrien Hyppolite, Spiko
+- Nicolas Vaiman, Bubblemaps
+- Julien, Merov
+
+Chaque demande est validée à la main. Pièce d'identité demandée à l'entrée. Si ta place est confirmée, ta présence est obligatoire.
+
+Pour faire ta demande, réponds au formulaire. 2 minutes.
+
+Toutes les infos : merov.com/summit
 
 <a id="event-36f33158c401a29e"></a>
 
@@ -16020,6 +17498,232 @@ An evening with the OKX team and the French crypto community. On Thursday, 26 No
 
 Please bring a valid ID, which will be checked at the entrance together with your Station F badge. See you in Paris.
 
+<a id="event-538d7703cfbecbfe"></a>
+
+## Team1 Brasil & Vault Capital: Office Hours
+
+- Record: `luma-crypto-FncGLKmjPuSRYiN`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T22:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/g1mc19r7>
+
+### Office Hours - Team1 Brasil x Vault Capital
+
+Sobre o evento
+
+No dia 26 de novembro, a Team1 Brasil abre um horário dedicado para builders, founders e devs que estão construindo (ou querem construir) na Avalanche.
+
+A ideia é simples: trazer seu projeto, suas dúvidas e seus bloqueios e conversar diretamente com quem pode ajudar a destravar o próximo passo.
+
+O encontro acontecerá no escritório da Vault Capital, consultoria especializada em ativos virtuais, que trará sua perspectiva sobre o mercado, a evolução das finanças descentralizadas e o crescente interesse institucional por soluções baseadas em blockchain.
+
+Será também uma oportunidade para conhecer diferentes perspectivas do setor, ampliar conexões e entender como a Team1 pode apoiar projetos em desenvolvimento dentro do ecossistema Avalanche no Brasil.
+
+Programação
+
+[19:00] - Abertura e boas-vindas
+
+[19:30] - Apresentação da Vault Capital
+
+[20:30] - Office hours: perguntas e conversas com os projetos
+
+[22:00] - Encerramento
+
+Sobre a Vault Capital
+
+A Vault Capital é uma consultoria especializada em ativos virtuais, com atuação voltada à conexão entre o mercado financeiro tradicional e a economia digital.
+
+A empresa atua na orientação de investidores e organizações em temas relacionados a ativos digitais, autocustódia, infraestrutura blockchain e aplicações financeiras descentralizadas, contribuindo para uma adoção mais estruturada e consciente desse mercado.
+
+Sobre a Team1
+
+A Team1 é a rede global de comunidade da Avalanche, com mais de 600 membros em mais de 40 países, conectando comunidades locais por meio de meetups, workshops e conteúdo. No Brasil, nosso foco é aproximar builders e founders do ecossistema e apoiar quem está construindo por aqui.
+
+https://x.com/AvaxTeam1
+
+<a id="event-8c0af0ac4f7c7e9e"></a>
+
+## hardwate wallets: todo lo que debes saber antes de comprar una.
+
+- Record: `luma-crypto-hWNMVlRdatbTJjJ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-26T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/q1d0lsgj>
+
+### About the event
+
+¿Ya tienes Bitcoin, pero todavía no sabes cómo protegerlo correctamente?
+
+No todas las hardware wallets son iguales y elegir una no debería depender únicamente de la marca, el precio o lo que alguien recomienda en Internet.
+
+En nuestro próximo meetup presencial de ColombiaP2P vamos a aprender qué debemos tener en cuenta antes de elegir una hardware wallet.
+
+Hablaremos de seguridad, privacidad, código abierto, modelos de confianza y las diferencias entre las principales alternativas del ecosistema Bitcoin.
+
+El objetivo: que aprendas a tomar una decisión informada y encuentres la solución de autocustodia que mejor se adapte a tus necesidades.
+
+No importa si estás empezando o si ya tienes experiencia con Bitcoin. ¡Este espacio es para aprender y compartir!
+
+<a id="event-8cda6158500e6aa3"></a>
+
+## Solana NZ Meetup (NOV Edition)
+
+- Record: `luma-crypto-a3yligVWJB8E4Rf`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ly4uan1o>
+
+### About the event
+
+Come join us on the last Friday of the month... to eat, drink, socialise and chat all things Solana IRL. We'll dive into all things happening in the ecosystem. Get ready for some amazing alpha. This is the last one for 2026...
+
+5-6pm: Arrive, chat, meet others
+
+6-7pm: Open format / projects and people sharing great things over 5min slots.
+
+A massive thanks to these supporters & sponsors for making our meetups happen:
+
+> Solana Foundation (https://solana.org)
+
+> Solana NZ
+
+Grab your spot...
+
+### Event details
+
+Date: Nov 27, 2026, 17:00 (Pacific/Auckland)
+
+Venue: Longroom & Longshot
+
+Hosts: SuperNZ
+
+Organised by: SOL ecosystem
+
+Tickets: Free
+
+Registration: open
+
+Event page: https://luma.com/ly4uan1o
+
+<a id="event-94c4567ec447384f"></a>
+
+## NEXT UNICORN AI Bangkok: Where AI, RWA, Web3 & Founders Meet
+
+- Record: `luma-crypto-YIurwMnOEObVDCM`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T06:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tmnpv0y7>
+
+### About the event
+
+Following our Singapore and Hong Kong editions, NEXT UNICORN AI comes to Bangkok for an afternoon connecting AI builders, real-world asset (RWA) innovators, founders and investors.
+
+Explore AI applications, emerging RWA opportunities and the journey from an early idea to a growing company through keynote sessions, a panel discussion, founder showcases and networking.
+
+### When and where
+
+Friday, 27 November 2026
+
+Programme: 13:30-17:30 ICT (Bangkok local time)
+
+Check-in opens at 13:00.
+
+Aesops Restaurant & Rooftop
+
+25th Floor, Column Bangkok Hotel, Sukhumvit 16, Bangkok, Thailand.
+
+### Provisional agenda
+
+13:00-13:30 - Check-in & Networking
+
+13:30-13:45 - Opening Remarks
+
+13:45-14:30 - Keynote Sessions - AI, RWA & Entrepreneurship
+
+14:30-15:30 - Panel Discussion & Q&A
+
+15:30-16:00 - Afternoon Tea Break
+
+16:00-17:00 - Founder Showcase
+
+17:00-17:30 - Networking
+
+Speaker and founder lineups will be announced.
+
+### Hosts and partners
+
+Hosted by: Echo3 - XT Labs
+
+Organized by: EHC
+
+Partners: RWA环球投行联盟 - OPC国际资源联盟
+
+### Registration
+
+Admission is free.
+
+Registration requires approval.
+
+Your attendance is confirmed once your registration has been approved.
+
+### 中文介绍
+
+NEXT UNICORN AI 曼谷站｜AI - RWA - Web3 - 创业
+
+继新加坡与香港站之后，NEXT UNICORN AI 来到曼谷，汇聚 AI 开发者、真实世界资产（RWA）领域的创新者、创业者与投资人。
+
+通过主题分享、圆桌讨论、创业项目展示与自由交流，一起探讨 AI 应用、RWA 新机遇，以及从早期创意走向企业成长的路径。
+
+### 活动时间与地点
+
+2026 年 11 月 27 日（星期五）
+
+活动时间：13:30-17:30
+
+签到时间：13:00 起
+
+以上均为曼谷当地时间（ICT，UTC+7）。
+
+Aesops Restaurant & Rooftop
+
+泰国曼谷 Sukhumvit 16，Column Bangkok Hotel 25 楼
+
+### 初步日程
+
+13:00-13:30 - 签到与交流
+
+13:30-13:45 - 开场致辞
+
+13:45-14:30 - 主题分享：AI、RWA 与创业
+
+14:30-15:30 - 圆桌讨论与现场问答
+
+15:30-16:00 - 下午茶歇
+
+16:00-17:00 - 创业项目展示
+
+17:00-17:30 - 自由交流
+
+演讲嘉宾及展示项目名单将陆续公布。
+
+### 主办与合作方
+
+主办方：Echo3 - XT Labs
+
+承办方：EHC
+
+合作方：RWA环球投行联盟 - OPC国际资源联盟
+
+### 报名说明
+
+本场活动免费，报名须经主办方人工审核，审核通过后方可参加。
+
+报名时请填写公司与职位，并提供 Telegram 用户名或带国家区号的 WhatsApp 号码（二选一）。
+
 <a id="event-385da714d774cb47"></a>
 
 ## Ultra Connect Bangkok
@@ -16037,6 +17741,223 @@ Ultra Connect is an exclusive business and networking event bringing together gl
 (All keynote speeches and panel forums at the event will be conducted primarily in English.)  Ultra Connect 是一场专为全球投资者、金融机构、科技公司、创业者、创始人、家族办公室、基金、Web3 领袖及企业决策者打造的独家商务与社交盛会。 本次活动紧邻币安区块链周（Binance Blockchain Week）前夕举行，选址于曼谷金融核心区。Ultra Connect 致力于营造高价值的互动环境，为您搭建拓展人脉、业务开发、挖掘投资机遇以及建立战略合作伙伴关系的绝佳平台。 *活动主讲和论坛将以英文沟通为
 
 About Ultra Web3 Festival ULTRA Web3 Festival is a first-of-its-kind event IP merging the gravitas of a premier Web3 summit, the scope of a global tech conference, and the high-energy atmosphere of a festival into one unified convergence gathering. It serves as the ultimate intersection where Web3, Traditional Finance (TradFi), Artificial Intelligence (AI), Real-World Assets (RWA), and emerging technologies connect to build the future of the digital economy. ULTRA Web3 Festival 是一个开创性的活动 IP。它完美融合了顶级 Web3 峰会的权威影响力、全球科技大会的广阔视野，以及庆典般充满活力的热烈氛围，打造出一个一体化的融合盛会。 这里是Web3、传统金融（TradFi）、人工智能（AI）、现实世界资产（RWA）以及各类前沿数字技术的终极交汇点，共同构建数字经济的未来蓝图。
+
+<a id="event-8e45209e1d4a9595"></a>
+
+## Agentic Finance x AI Security — Bangkok Side Event
+
+- Record: `luma-crypto-UbES7ipbJiGHspw`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pnlvo347>
+
+### About the event
+
+Event Overview
+
+As autonomous agents move from demos to holding keys, routing capital, and settling on-chain, two questions decide who wins: what can agents actually do with money, and how do we keep them - and the rails beneath them - safe. Agentic finance is moving fast, but the infrastructure for agent-held assets, agent-to-agent payments, and verifiable agent behavior is still being built, and the security assumptions behind it are being tested in real time.
+
+This side event brings both sides of that question onto one stage. We convene the builders defining agentic finance and the teams securing it - for an opening keynote, two moderated panels on Agentic Finance and AI Security, and a closing Braindates session - as a Binance Blockchain Week Bangkok 2026 side event.
+
+### Agenda
+
+13:30 - 14:00 Registration + Welcome Drinks
+
+14:00 - 14:10 Keynote 1: dLife
+
+14:10 - 14:20 Keynote 2: Junto
+
+14:20 - 15:00 Panel Discussion 1: Agentic Finance
+
+15:00 - 15:10 Break
+
+15:10 - 15:50 Panel Discussion 2: AI Security
+
+15:50 - 17:00 Braindates & Networking
+
+Welcome drinks will be provided.
+
+Organizers Introduction
+
+Host
+
+Junto
+
+Junto is an AI-first trading terminal that brings US-stock perpetuals, crypto, meme scanning, and paper agents into one conversational workspace. It is built for traders who want to turn a market idea into a rule, backtest it, and see what actually happened - with every decision, order, and fill auditable.
+
+dp.life (https://dp.life)
+
+dp.life (https://dp.life) is a Web3 super app that blends a decentralized wallet, discover, AI analysis, and social into one identity, connected to the compliant world through a centralized account system. It brings on-chain and off-chain life together, lowering the barrier for everyday users to enter Web3.
+
+Profitech Securities
+
+Profitech Securities Limited is a Hong Kong Securities and Futures Commission licensed corporation (CE No. BOA307), licensed for Type 1, 4, 6, and 9 regulated activities. It connects traditional capital markets with the digital asset economy, bringing regulated-market discipline to the agentic finance conversation.
+
+### Co-Host
+
+Pharos
+
+Pharos is a high-performance, EVM-compatible Layer 1 blockchain built as global infrastructure for real-world assets, founded by former Ant Group blockchain executives. Its modular, full-stack parallel architecture targets 30,000 TPS with sub-second finality, serving institutions bringing financial assets onchain and the AI agents that hold and move them.
+
+Blockin Ventures
+
+Blockin Ventures is a venture capital firm focused on blockchain and Web3, backing early-stage teams building the infrastructure and applications of the onchain economy. It supports founders from inception with capital, network, and hands-on guidance.
+
+ZeroDrift
+
+ZeroDrift is building AI offensive security for enterprise software. Our AI agents run penetration tests and code reviews the way a real attacker would, and our security researchers verify every finding and help teams ship the fix. ZeroDrift has published CVEs in Apple, Google and Microsoft software, works with partners including Infini, BNB Chain, Sign and Flap, and is backed by YZi Labs.
+
+Roostoo
+
+Roostoo is building autonomous AI trading agents. Every agent is tested in live paper-trading competitions on our platform, where it builds a verifiable track record, and users can then select the agents they trust to deploy real capital on decentralized exchanges. Roostoo is backed by YZi Labs.
+
+Andes Ventures
+
+Andes Ventures is a Web3 venture capital firm and accelerator focused on blockchain infrastructure and related fields, having invested in dozens of projects across Europe and the United States. It backs world-class teams driving sustainable and inclusive innovation across consensus, middleware, DeFi, gaming, and social.
+
+ACPX
+
+ACPX is a Web3 project building at the intersection of digital assets and onchain infrastructure. It works with builders across the ecosystem to bring new products and experiences to users in the agentic finance era.
+
+dLife
+
+dLife is an AI4Sci project incubated by BNB Chain's MVB10. We use cryptography and smart contracts to protect and utilize personal biological data, return genome ownership to individuals, and build decentralized longevity infrastructure, with the tools the AI era demands for data security and privacy.
+
+Techub News
+
+Techub News is a Hong Kong-based technology media outlet covering AI, Web3, and the cross-border digital economy, with a bilingual Chinese-English newsroom and editorial teams across Asia. It brings a Hong Kong perspective on the fast-moving Web3 landscape to builders, investors, and everyday readers across the region.
+
+<a id="event-baba53fb5a9a05ce"></a>
+
+## Solana Student Bootcamp｜AIで始める、ブロックチェーン開発
+
+- Record: `luma-crypto-S85peLd1TLeNc05`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lmy1gn6j>
+
+### About the event
+
+Solana Student Bootcampは、AIを活用しながら、自分のアイデアをSolanaブロックチェーン上のプロダクトとして形にしていく、学生向け・全4回の実践プログラムです。
+
+「AIを使って、自分でも何かつくってみたい」「ブロックチェーンが、実際にどんな場面で使われているのか知りたい」その興味を、開発の第一歩につなげます。
+
+いま注目されている領域を知り、実際に手を動かすことで、技術への理解を深めていきます。
+
+### AIとブロックチェーンの今を、つくりながら学ぶ
+
+AIが目覚ましく進化する今、ブロックチェーンの活用やプロダクト開発は、どのように変わっているのでしょうか。
+
+本プログラムでは、業界で注目されている領域や実際の活用について学びながら、Solana上での開発に取り組みます。
+
+学んだことを、自分のアイデアで試してみる。AIを活用して実装し、動きを確かめ、改善する。講義と開発を行き来しながら、「知っている」を「つくれる」へと近づけていきます。
+
+全4回の実践プログラムを通じて目指すのは、自分のアイデアをプロダクトとして開発する力を身につけること。授業や独学で得た知識も、まだ形になっていない発想も、実際に動くものへとつなげていきましょう。
+
+### 現場で活躍する人の視点に触れる
+
+実際の現場で活躍する方々を、外部講師としてお招きする予定です。技術の説明だけでなく、現場で何に取り組み、どのようにプロダクトをつくっているのか。その視点に触れることも、自分がつくりたいものを考えるヒントになります。
+
+※講師や各回の詳しい内容は、順次ご案内します。
+
+### こんな学生におすすめ
+
+- AIを使って、自分のアイデアをアプリやサービスにしてみたい
+- Solanaやブロックチェーンの今を、実際に触りながら学びたい
+- 授業や独学で学んだことを、プロダクト開発に生かしたい
+- 業界で活躍する人の話を聞き、自分の挑戦や進路のヒントを見つけたい
+
+### 開催日程｜全4回
+
+第1回：2026年10月8日（木）
+
+第2回：2026年10月22日（木）
+
+第3回：2026年11月12日（木）
+
+第4回：2026年11月27日（金）
+
+開催時間：全4回とも17:00〜19:00（日本時間）
+
+※ 開催日時が急遽変更となる場合があります。
+
+### 準備するもの
+
+- PC
+
+使用するAIツールなど事前準備の詳細は、別途参加者へご案内します。
+
+### 事前準備
+
+（以下リンクから手順を参照し、当日までに実施お願いします）https://docs.google.com/presentation/d/1h3xVqJhRGOK1AWPnbKIMs777IrazvDlH/edit?usp=drive_link&ouid=102457070687088649715&rtpof=true&sd=true
+
+### 講義資料
+
+https://docs.google.com/presentation/d/1WQbkZjgxP97OcajJvg55TltMyFLifJNe/edit?usp=drive_link&ouid=102457070687088649715&rtpof=true&sd=true
+
+（前回の講義資料）https://docs.google.com/presentation/d/1iofbvuarVoV9W_zNo_GLsF-C50q5jz34/edit?usp=sharing&ouid=102457070687088649715&rtpof=true&sd=true
+
+最終成果発表会（ミニハッカソン）について
+
+https://drive.google.com/file/d/1U0hNlFqhbJsBSQ5MJpJ_xwpe5fz0K3Ca/view?usp=drive_link, https://drive.google.com/file/d/1VJhuF9SJDMSU4It7YiKFkjHKkdUazz_H/view?usp=drive_link
+
+### 【最終成果発表会】成果物提出フォーム
+
+※以下フォームアクセス時にGoogleログインが必須になっておりますのでご注意ください
+
+https://forms.gle/yRBAPwFT2tQd3ZSeA
+
+### お問い合わせ
+
+成果発表会や発表資料に関する質問・確認は以下から受け付けています。
+
+https://forms.gle/bkDg6FR9nPYrwA5J9
+
+### 開催概要
+
+開催期間：2026年10月〜11月
+
+会場：千葉工業大学 津田沼キャンパス 講義室
+
+形式：全4回・各2時間
+
+対象：AIを使った開発やブロックチェーンに関心のある学生
+
+共同開催：
+
+Solana Foundation DevRel Japan
+
+CAC（株式会社シーエーシー）
+
+千葉工業大学 web3 研究会
+
+xFin Labs
+
+Superteam Japan
+
+### 講師
+
+株式会社シーエーシー　ブロックチェーン推進グループ
+
+Solana開発リーダー
+
+### Event details
+
+Date: Nov 27, 2026, 17:00 (Asia/Tokyo)
+
+Venue: Narashino, Japan
+
+Hosts: Takuya Matsumaru, Yuki Takahashi, KOTA, 二村進弘, shirone, Nozomu
+
+Organised by: Solana Foundation DevRel Japan 🇯🇵
+
+Tickets: Free
+
+Registration: requires approval from the organiser
+
+Event page: https://luma.com/lmy1gn6j
 
 <a id="event-721da0dc25375a20"></a>
 
@@ -16063,6 +17984,50 @@ As AI reshapes how markets move, we're bringing together founders, investors, bu
 - 17:30-17:45 | Audience Q&A > >
 - 17:45-18:00 | Community Giveaway 2 > >
 - 18:00-19:00 | Networking Reception
+
+<a id="event-2a8bef404ac48da8"></a>
+
+## Co-Working Fridays Berlin
+
+- Record: `luma-crypto-6VkvOuDjMAF41fG`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tm2u6upu>
+
+### About the event
+
+Join us every Friday for a co-working day with Superteam Germany at Circuit Berlin.
+
+Bring your laptop, work on your project, and spend the day alongside other founders, developers, designers, researchers, and builders.
+
+Whether you're already shipping something or exploring what to build next, you're welcome. You don't need to be building on Solana to join.
+
+What it is
+
+- Dedicated time to work on your own project
+- A room full of people building and exploring new ideas
+- A place to exchange ideas, get feedback, and solve blockers together
+- An opportunity to meet the Superteam Germany community and discover what's happening across Solana and frontier tech
+
+### Who it's for
+
+Anyone who is building something, shipping something, or exploring an idea they want to turn into something real.
+
+What happens
+
+- Meet other builders and see what they're working on
+- Exchange feedback and get help with blockers
+- Learn more about Solana if you're curious
+- Occasional demos, discussions, and knowledge sharing
+
+The day
+
+09:00 - Doors open & coworking starts
+
+13:00 - Quick intros so everyone knows who's in the room (30s each)
+
+18:00 - Wrap
 
 <a id="event-da42a709efa2099f"></a>
 
@@ -16098,6 +18063,142 @@ Get your head right before the main event. Just landed in Bangkok? Long flight, 
 
 Join Avalanche & Blockchain Game Alliance (BGA) for a closed roundtable at the House of Lords, UK Parliament. The UK is laying down the rules for digital money, but the real test is whether these policies will actually work in practice. Will the proposed caps and yield rules give sterling stablecoins a fighting chance, or will dollar-backed coins and tokenized bank deposits win out? And once we look past crypto trading, how do stablecoins fit into actual everyday payments, autonomous AI agents, and cross-border remittances? We're bringing together stablecoin issuers, banks, legal experts, and payment providers for an honest, practical discussion on where the market is really heading.
 
+<a id="event-5360781d83d8bea3"></a>
+
+## Bangkok Founders’ Table — Welcome Dinner
+
+- Record: `luma-crypto-0j4gD8wq4tKbHH0`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/lqoqglq9>
+
+### A Welcome Dinner for Binance Blockchain Week
+
+Join founders, investors and builders across AI, RWA and Web3 for an evening of Greek food and conversation at Aesops Restaurant & Rooftop. Meet fellow founders, share what you're working on, and connect with investors and potential partners over dinner.
+
+When and where
+
+Friday, 27 November 2026 - 18:00-20:00 ICT
+
+Bangkok local time (GMT+7)
+
+Aesops Restaurant & Rooftop
+
+25th Floor, Column Bangkok Hotel, Sukhumvit Soi 16, Bangkok.
+
+The evening
+
+- 18:00-18:15 - Seating, welcome remarks and a short presentation
+- 18:15-20:00 - Greek-style sharing dinner and networking
+- From around 20:00 - Dash afterparty at the same venue. Guests attending the Welcome Dinner get direct access to the Dash After Hours Bangkok (https://luma.com/1eiu3jku) party.
+
+Your dinner ticket includes
+
+- A seated Greek-style sharing dinner
+- Two alcoholic drinks and one soft drink per person
+
+Additional drinks are available for purchase.
+
+### Tickets
+
+Early Bird - US$99 per person
+
+At the Door - US$199 per person, subject to availability.
+
+Limited paid seats available. This registration is for the welcome dinner.
+
+Hosted by Echo3 - Organized by EHC
+
+### 曼谷币安区块链周欢迎晚宴
+
+与 AI、RWA 和 Web3 领域的创始人、投资人及行业伙伴相聚曼谷，共享希腊风味晚餐，交流项目与想法，认识新的合作伙伴。
+
+2026年11月27日 - 18:00-20:00
+
+曼谷当地时间（GMT+7）
+
+Aesops Restaurant & Rooftop
+
+Column Bangkok Hotel 25楼，Sukhumvit Soi 16，曼谷。
+
+晚宴流程
+
+- 18:00-18:15｜入座、欢迎致辞及简短演示
+- 18:15-20:00｜希腊风味共享晚餐、席间交流
+- 约20:00起｜现场衔接 Dash Afterparty，出席欢迎晚宴的嘉宾，可直接参加曼谷 Dash 晚间派对 (https://luma.com/1eiu3jku)。
+
+门票包含
+
+一个入座用餐席位及希腊风味自助晚餐，每人两杯含酒精饮品及一杯软饮。额外饮品可自行购买。
+
+早鸟票：US$99／人
+
+现场票：US$199／人，视剩余席位供应。
+
+主办方 Echo3｜承办方 EHC
+
+### The Venue & Cuisine - 场地与美食
+
+Photos from Aesops; the event menu will be confirmed separately.
+
+图片来自 Aesops 餐厅；菜品图片供参考，活动菜单另行确认。
+
+<a id="event-3721961aa79cb763"></a>
+
+## BBW side event-Privacy Nights powered by Beldex
+
+- Record: `luma-crypto-98jx9SXCTZBcKqY`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nkmdkt4o>
+
+### About the event
+
+Bangkok Blockchain Week is about to get a lot more fun, and we're kicking off the evening at Bonjour Bonsoir, a cozy Parisian bistro tucked along Witthayu Road. Privacy Nights, powered by Beldex, is a relaxed side event where you can unwind after a day of panels and booth hopping, grab a drink, and chat about what actually matters when it comes to keeping your digital life your own.
+
+Expect good conversation, great company, and plenty of chances to meet builders, founders, and curious newcomers from all over the world. Whether you've been deep in privacy tech for years or you just wandered over because a friend dragged you along, you'll find someone to swap stories with. We'll be talking about private transactions, why financial privacy is worth fighting for, and what's coming next, all in a setting that feels more like a party than a conference.
+
+Come early, bring a friend, and don't be shy about introducing yourself. French bistro vibes, a lively crowd, and a hot topic make for a pretty great Friday night in Bangkok. Hosted by Sam and the Beldex crew. See you there!
+
+<a id="event-1834ae60c82848db"></a>
+
+## Dash After Hours Bangkok
+
+- Record: `luma-crypto-TPjqwUMl3IAG32r`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/1eiu3jku>
+
+### About the event
+
+Join Dash for an afterparty in Bangkok ahead of Binance Blockchain Week. Meet the Dash community, catch up with friends from across Web3, and stick around for a short Dash talk and a raffle.
+
+### About Dash
+
+Dash is a dual-layer blockchain: fast, low-fee payments on Layer 1 and a full developer platform on Layer 2. DAO-governed. 12 years live.
+
+Learn more at dash.org (https://www.dash.org/)
+
+Schedule - Bangkok local time (ICT)
+
+- 7:30 PM - Doors open and networking
+- 8:00 PM - Dash welcome and opening remarks
+- 9:00 PM - Dash talk, followed by the raffle at 9:10 PM
+- 9:20 PM - Music and networking
+- 11:00 PM - Event ends
+
+Location - Aesops Restaurant & Rooftop, 25th floor, Column Bangkok Hotel, Soi Sukhumvit 16, Khlong Toei, Bangkok 10110, Thailand
+
+See you in Bangkok!
+
+Recent Dash Events
+
+- Singapore - TOKEN2049 (https://luma.com/0v6m30lp) - Dash supported XT's eighth-anniversary VIP dinner in October 2026, where guests and ecosystem partners met for an evening of networking and conversations about digital payments.
+- Hong Kong - FinTech Week (https://luma.com/ebr895ca) - Our November 2026 Dash Community Meetup brought contributors and builders together to discuss DashPay, Dash Evolution, and the ecosystem roadmap, with an open Q&A and networking.
+
 <a id="event-59f29a9d4fa89be8"></a>
 
 ## #KriptoCuma - #CryptoFriday
@@ -16114,6 +18215,140 @@ Join Avalanche & Blockchain Game Alliance (BGA) for a closed roundtable at the H
 
 What is #CryptoFriday ? Even though it's very rare to see physical meetups in the crypto world, we, as a community, have been enjoying our conversations since 2018. Anyone interested in cryptocurrency and blockchain world, meeting new people, different point of views and having fruitful conversations about the market is invited to #CryptoFriday #CryptoFriday every Friday on 19:00 at Altcointurk | Base, Kadıköy
 
+<a id="event-8a2ecaef6cef8adf"></a>
+
+## WEB3 BUILDERS GATHERING
+
+- Record: `luma-crypto-vEnX52fEZxXJZYZ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4rymm7ak>
+
+### Introduction
+
+Come meet the Avalanche Team1 for an evening of networking, discovery, and conversation.
+
+Whether you're already building on-chain or exploring new ecosystems, this meetup is your chance to connect with fellow builders, founders and discover practical uses for blockchain in today's world,
+
+Enjoy drinks, food, good vibes, and a short presentation about Avalanche, local projects and ecosystem opportunities.
+
+### Event Program
+
+[6:00 PM] - Welcome & Registration Drinks
+
+[6:30 PM] - Open & Welcome Introductions
+
+[6:40 PM] - Intro to Avalanche by Ems, Regional Lead Avalanche Team1 UK
+
+[7:00 PM] - Builders of Avalanche: Fireside Chat
+
+[7:20 PM] - Q&A Session
+
+[7:30 PM] - Closing Remarks
+
+[7:40PM] - Networking & Drinks
+
+[8:30 PM] - Closing & Goodbye
+
+### Partners
+
+Imperial College, South Kensington Campus & King's College
+
+Huge thanks to all our partners for helping us bring this meetup to life!
+
+### About Team1
+
+Team1 is a global network of builders, developers, creatives, & community members who grow Avalanche.
+
+With 600+ members operating across 40 countries, Team1 drives the democratization and global adoption of Avalanche by onboarding new users and projects through local meetups, targeted workshops, exclusive side events, engaging content creation and community-led initiatives...
+
+By bridging online and offline communities, Team1 empowers grassroots innovation and expands the reach of Avalanche into new regions and cultures.
+
+https://x.com/AvaxTeam1
+
+<a id="event-1fc882a8298143a9"></a>
+
+## Mulheres na inovação \| Blockchain, IA, Direito e Novos Negócios
+
+- Record: `luma-crypto-Dh0d7ymtc8TktHQ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T21:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vl5vyhzz>
+
+### Mulheres na Inovação | SanFran iLab
+
+Quem são as mulheres que estão construindo novos negócios, desenvolvendo tecnologias e participando das decisões que transformam organizações?
+
+O SanFran iLab - Escola de Startups Jurídicas da USP (https://linkedin.com/company/sanfran-inovalab/), em parceria com a Team1 Brasil, promove uma noite de conversas sobre a atuação de mulheres na inovação, conectando blockchain, inteligência artificial, negócios e Direito.
+
+Vamos conhecer diferentes trajetórias e discutir experiências concretas: como transformar ideias em projetos, abrir caminhos profissionais e liderar em mercados que estão mudando.
+
+Um encontro para estudantes e profissionais que querem ampliar seu repertório, trocar experiências e se conectar com mulheres que fazem parte dessas transformações.
+
+O evento contará com as ilustres palestrantes:
+
+### Helena Matos
+
+https://www.linkedin.com/in/helenarmatos/
+
+Gerente de Soluções na Jusbrasil Soluções | Editora Executiva de Governança, Direito e Inovação na MIT Technology Review.
+
+### Jéssica dos Santos
+
+https://www.linkedin.com/in/jessicaluzdossantos/
+
+Head Open Startups na 100 Open Startups e graduada em Administração de Empresas pela UFSC.
+
+### Dacylene Amorim
+
+https://www.linkedin.com/in/dacylene-amorim-b281b065/
+
+Coordenadora e professora de Direito Farmacêutico no Mackenzie, pesquisadora coordenadora do eixo de Direito Farmacêutico (USP), e no Instituto de Direito Sanitário (IDISA). Integrante do Comitê de Bioética do Hospital Português, da rede International Chair of Bioethics.
+
+### Luana Cota Gomes
+
+https://www.linkedin.com/in/luanacota/
+
+Coordenadora do Núcleo de Estudos em Criptoativos e Tecnologias Emergentes da OAB-SP e Especialista Jurídica em Ativos Digitais e Tokenização no Bradesco.
+
+### Marina Fagali
+
+https://www.linkedin.com/in/maffagali/
+
+Diretora do Juntos por Cripto e ex-responsável por Comunicação e Assuntos Corporativos da Chiliz no Brasil.
+
+### Kemyli Barbosa
+
+https://www.linkedin.com/in/kemyli-barbosa-ccca-150b34163/
+
+Sócia-fundadora da Ontrackchain, especialista em ativos digitais na Vault Capital e colaboradora do Avalanche Team1.
+
+Sobre a Team1 (https://www.linkedin.com/company/avaxteam1/home/)
+
+A Team1 é a rede global de comunidade da Avalanche, com mais de 600 membros em mais de 40 países. Por meio de encontros, workshops e conteúdo, conecta comunidades locais e pessoas que estão construindo o futuro da tecnologia.
+
+No Brasil, a Team1 Brasil aproxima desenvolvedores, empreendedores e comunidades do ecossistema Avalanche, apoiando quem está criando projetos e novos negócios por aqui. Essa parceria traz ao encontro perspectivas de mulheres que atuam no universo blockchain e na construção de comunidades de tecnologia.
+
+Quando e onde
+
+27 de novembro de 2026, sexta-feira
+
+Check-in às 18h30 - Programação das 19h às 22h
+
+Faculdade de Direito da USP - Salão Nobre,
+
+Largo de São Francisco, 95 - São Paulo
+
+As convidadas e a programação serão anunciadas progressivamente nesta página.
+
+Certificado de participação: carga horária de 4 horas.
+
+Organização: SanFran iLab
+
+Parceria: Team1 Brasil
+
 <a id="event-d2d5f2e432c727e5"></a>
 
 ## Money in 2027
@@ -16129,6 +18364,46 @@ What is #CryptoFriday ? Even though it's very rare to see physical meetups in th
 ## Money in 2027: Earn It. Live It. Where will the money be made in 2027, and what is it actually for? Stocks, property, crypto and AI. The opportunities are shifting, the markets are changing, and the question is where to put your money next. But making money is only half the story. What good is wealth if we do not have the health, time or freedom to enjoy it? Join DO MORE Media for a morning of sharp insights, honest conversations and practical ideas on earning more and living better. EARN IT. Four market specialists debate where the next bull market could be. BUILD IT. Discover how to build an AI-assisted investing dashboard in a live, hands-on workshop. LIVE IT.
 
 Explore the real return on wealth: living longer, living freer and living fuller. One morning. Three conversations. A sharper perspective on 2027, and what really matters beyond the money. ----- Date & Time: 28 November 2026 | 8:45 AM - 2:00 PM Venue: The Ark Plus, Kuala Lumpur Ticket Price: RM 88 early bird | RM 128 regular Lunch and networking included. Limited seats available.
+
+<a id="event-b4c8a8c0d8b32c2d"></a>
+
+## Day 1 \\ Catfooding Picnic in the Park \\ Binance Blockchain Week
+
+- Record: `luma-crypto-BVDMkxvBuxDsAxI`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/i5k5qx95>
+
+### About the event
+
+Day 1 CATFOODING \\ PICNIC IN THE PARK _ TOUCH GRASS
+
+Taking a break from the blockchain buzz? Come touch some grass with us!
+
+Catfooding is hosting a laid-back picnic right next to Binance Blockchain Week at Queen Sirikit National Convention Centre, Bangkok.
+
+Step away from the conference floor, get some fresh air, and meet fellow builders, founders, creatives, AI enthusiasts and crypto-curious minds.
+
+No panels, no pitches, no pressure. Just good people, real conversations, and a chance to connect with the community beyond the screens.
+
+Whether you're attending Binance Blockchain Week or just happen to be in Bangkok, grab a spot on the grass and come hang out.
+
+Saturday, November 28, 2026
+
+12:00-2:00 PM
+
+Benjakitti Park next to Queen Sirikit National Convention Centre, Bangkok
+
+Bring yourself, bring a friend, and bring your curiosity.
+
+Less scrolling. More socialising. Touch grass
+
+Open to collaborations & co-marketing, get in touch!
+
+Partners and sponsors welcome. Want to take part, bring something to the picnic, or sponsor the day? Get in touch on catfooding.com/?page=sponsors (https://catfooding.com/?page=sponsors)
+
+Sign up for Day 2: https://luma.com/rmtce2gu
 
 <a id="event-614a9e23692901cc"></a>
 
@@ -16150,6 +18425,30 @@ The financial world is evolving rapidly, yet most people are still relying on ou
 - 9:30 PM Includes: - Exclusive networking with other VIP guests - Meet and greet with Trustyfy Co-Founder - Cocktail-style finger food - Access to the Main Event General Admission - Free Access from
 - 7:30 PM to
 - 9:30 PM Includes access to the Main Event. This event is for general informational and educational purposes only and does not constitute financial or investment advice or an offer, invitation or recommendation to acquire any investment, financial product or digital asset. Trustyfy is a technology platform and does not itself provide regulated banking, payment or electronic-money services. Any such services accessible through the platform are provided independently by third-party providers and are subject to eligibility, availability, jurisdiction and applicable terms.
+
+<a id="event-764eafb4177d10eb"></a>
+
+## HACKATHON: Build AI on KASPA
+
+- Record: `luma-crypto-PGulrKNPIidFuvu`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8dl5fglx>
+
+### About the event
+
+HACKATHON: Build AI on KASPA is a one-day hackathon on the theme Finance x AI, organized by GDG EPITA and GDG ESIEA, with the support of Kaspa and Google.
+
+In teams, you will design and build a project that combines artificial intelligence and the Kaspa blockchain, applied to finance. The top 5 teams will pitch their project to the jury in a final pitch session.
+
+Date and location: Saturday, November 28th 2026, from 9 AM to 6 PM, at EPITA (14-16 rue Voltaire, 94270 Le Kremlin-Bicêtre). Check-in and final pitches in room KB401.
+
+Prizes: over €1,000 in cash prizes for the winning teams.
+
+Free entry. Lunch and snacks are provided throughout the day.
+
+Limited spots, register early!
 
 <a id="event-5496726a503a6013"></a>
 
@@ -16226,6 +18525,50 @@ Co-Hosts：Microsoft
 
 Join us in Bangkok on Nov 28 for an evening with Web3Labs, Microsoft, and the teams shaping the future of onchain finance and AI! Come share ideas, meet the people building what comes next, and be part of the conversation on where finance and AI are heading.
 
+<a id="event-8df7cadeca1a62bf"></a>
+
+## SuiHub Lagos: The Stable Side of Sui with Zynta
+
+- Record: `luma-crypto-d93uiPxQlMmlphP`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/9kudozci>
+
+### About the event
+
+Moving money across borders in Africa remains one of the hardest engineering and operational challenges in fintech. From navigating complex currency corridors to handling multi-jurisdictional compliance, building reliable payment systems requires solid rails and regulatory compliance.
+
+Join Zynta and Sui for an intensive, 2.5-hour hands-on developer session in Lagos. We will explore how stablecoin infrastructure, multi-chain settlement rails, and unified API endpoints combine to power seamless cross-border transactions across Africa, Europe, and beyond.
+
+Whether you are building a neobank, an enterprise payout platform, or an on/off-ramp product, this session will show you how to move from sign-up to your first live API call on production-grade payment infrastructure.
+
+### What You Will Learn
+
+- Unified Infrastructure: How Zynta brings payment rails, merchant tools, and institutional liquidity into a single API integration.
+- On-Chain Settlement on Sui: How to leverage Sui's speed and low transaction costs for stablecoin settlement while Zynta handles fiat edges and compliance.
+- Licensing as a Moat: Why inheriting fully regulated compliance structures lets developers build faster without regulatory friction.
+- Go-To-Market Across Africa: Actionable strategies for selling tech across diverse African markets - including navigating regional monetary zones like WAEMU (XOF) and CEMAC (XAF).
+
+### What to Bring
+
+- Your Laptop & Charger: You will be writing code, testing API endpoints, and taking part in the live build challenge.
+- An Idea or Project: Bring questions about payment flows you are currently designing or scaling.
+
+### Speakers
+
+Peace Audu-Ukpoju - Chief Product Officer at Zynta
+
+Peace leads product strategy, partnerships and regulatory work, and helps build the rails businesses use to move money across Africa and beyond. Before Zynta, she worked on payments at Relm, a cross-border crypto and fiat platform, and led product teams at companies in Lagos and Abuja.
+
+Agbakwuru Oluchi, Head of Engineering at Zynta
+
+Oluchi leads engineering at Zynta and works with businesses as a solutions engineer to help them integrate Zynta's payment rails, from the first API call to live production. She focuses on building reliable cross-border infrastructure that combines stablecoin settlement with fiat payouts across Africa and beyond
+
+Elohor Lauretta Isiakpere, Head of Sales-Nigeria at Zynta
+
+At Zynta, she helps businesses simplify cross-border payments with stablecoin infrastructure and is known for building trust with both C-suite and technical buyers, and showing businesses how better money flows turn into revenue. Before Zynta, she was Acting Head of Enterprise Accounts at Nomba (YC-W17), where she grew the enterprise customer base and scaled team productivity.
+
 <a id="event-d2bed1af2b535ff1"></a>
 
 ## 4M UNLEASHED - Bangkok Rooftop Takeover
@@ -16241,6 +18584,851 @@ Join us in Bangkok on Nov 28 for an evening with Web3Labs, Microsoft, and the te
 BANGKOK ROOFTOP TAKEOVER Play Harder. Trade Wilder. Bangkok, we're taking over the skyline. Join 4M Exchange for an exclusive rooftop experience where crypto, Web3, trading, and Bangkok nightlife collide. One rooftop. One unforgettable night. Unlimited possibilities. What's waiting for you? - $100,000 USD Prize Pool - Your chance to win a share of incredible rewards. - Free-Flow Drinks - Enjoy complimentary drinks throughout the event. - Complimentary Food - Great bites, great drinks, even better company. - The Ultimate Rooftop Experience - Bangkok skyline, music, and electric energy. - Connect with the Web3 Crowd - Meet traders, founders, KOLs, and crypto enthusiasts from around the world.
 
 > EVENT DETAILS > > Date: Saturday, November 28, 2026 > > Time: 6:00 PM - 10:00 PM (GMT+7) > > Venue: Sky on 20, 26th Floor > > Location: Novotel Bangkok Sukhumvit 20, Bangkok, Thailand LIMITED SPOTS. MAXIMUM ENERGY. Register now to secure your place above Bangkok. 4M Exchange Play Harder. Trade Wilder. www.4m.com (http://www.4m.com/) Registration is subject to confirmation. Prize eligibility and distribution are subject to the event's official terms and conditions. Alcohol is served only to guests of legal drinking age.
+
+<a id="event-625c94aea4374de0"></a>
+
+## Predict Night
+
+- Record: `luma-crypto-nXuW7kPo3PcU1Rh`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/77hrk3d8>
+
+### About the event
+
+Predict Night｜预测之夜
+
+币安区块链周期间
+
+如果你也在曼谷
+
+11 月 28 日 欢迎来到Predict Night
+
+这里有来自 BNB Chain 生态的项目方、KOL、行业伙伴和社区朋友。
+
+我们准备了 Panel 和抽奖，但晚上大部分时间都留给自由交流。
+
+活动信息
+
+日期：2026 年 11 月 28 日
+
+时间：19:00-次日 00:00（曼谷时间）
+
+形式：酒会 - 自由交流 - Panel - 抽奖
+
+暂定流程
+
+19:00-20:00｜入场、欢迎酒饮、自由交流
+
+20:00-20:10｜开场致辞
+
+20:10-20:40｜Panel 讨论
+
+20:40-21:30｜酒会及自由交流
+
+21:30-21:45｜合作伙伴分享及抽奖
+
+21:45-23:15｜酒饮及自由交流
+
+23:15-00:00｜自由交流、活动收尾
+
+流程以现场安排为准。
+
+Predict Night
+
+In Bangkok for Binance Blockchain Week? Come spend the evening with us on November 28.
+
+Meet BNB Chain teams, KOLs, industry friends, and community members over a drink. We'll have a panel and a lucky draw, but most of the night is for conversations and meeting new people.
+
+### Event Details
+
+Date: November 28, 2026
+
+Time: 7:00 PM-12:00 AM (Bangkok time)
+
+Location: Bangkok; exact venue to be announced
+
+Format: Cocktails - Networking - Panel - Lucky Draw
+
+Preliminary Schedule
+
+7:00-8:00 PM | Arrival, welcome drinks, and networking
+
+8:00-8:10 PM | Opening remarks
+
+8:10-8:40 PM | Panel discussion
+
+8:40-9:30 PM | Cocktails and networking
+
+9:30-9:45 PM | Partner remarks and lucky draw
+
+9:45-11:15 PM | Drinks and networking
+
+11:15 PM-12:00 AM | Networking and closing
+
+Schedule subject to change.
+
+Co-hosts｜联合主办
+
+Binance Wallet - NeoSoul - FLAP
+
+Sponsors｜赞助方
+
+Renaiss Protocol - Decentralized Intelligence
+
+<a id="event-7f76fe75fe4605f8"></a>
+
+## USHKEE × WHOA'S KITCHEN — EAT & EARN POP-UP!
+
+- Record: `luma-crypto-zx1PJXC9gEeNSgA`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/huukh8k9>
+
+### About the event
+
+USHKEE × WHOA'S KITCHEN - EAT & EARN POP-UP!
+
+Join Ushkee and Whoa's Kitchen on Saturday, November 28, from 8 AM to 10 AM for a community breakfast pop-up!
+
+$5 Breakfast Menu
+
+Choose from:
+
+- Sausage Patty
+- Sausage Link
+- Salmon Croquette
+- Fish
+- Bacon
+- 3-Piece Chicken Wings
+- Corned Beef Hash
+
+Breakfast plates include grits, eggs, and toast.
+
+Discover Ushkee's $USH digital rewards and learn how cryptocurrency can be used at local businesses.
+
+FREE RSVP - Breakfast purchases are separate.
+
+USHKEE MEANS MOTION!
+
+### Event details
+
+Date: Nov 28, 2026, 08:00 (America/New_York)
+
+Venue: Center of Hope Church of God of Prophecy
+
+Hosts: J Classic-Maestro
+
+Tickets: Free
+
+Registration: requires approval from the organiser
+
+Event page: https://luma.com/huukh8k9
+
+<a id="event-ce85c5f2a953103d"></a>
+
+## BitDevs Lagos - Nov 2026
+
+- Record: `luma-crypto-zOs6ZbIi9fE8qss`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hkegeuzk>
+
+### About the event
+
+BitDev Lagos is a community based in Lagos, Nigeria, that provides a platform for individuals interested in exploring and contributing to the research and development of Bitcoin and related protocols.
+
+The community organizes monthly meet-ups aimed at fostering lively conversations, information exchange, and healthy debates on a broad range of Bitcoin-related topics, including technical sessions, workshops, demos of Bitcoin-powered products, etc.
+
+Our meet-up holds on the last Saturday of every month, and we would love you to be a part of it!
+
+### Event details
+
+Date: Nov 28, 2026, 15:00 (Africa/Lagos)
+
+Venue: theBUNKer Yaba
+
+Hosts: BitDevs Lagos
+
+Tickets: Free
+
+Registration: open
+
+Event page: https://luma.com/hkegeuzk
+
+<a id="event-0c2fa228ea50c5fd"></a>
+
+## 西格玛男人-狗哥的BBW曼谷夜宵局
+
+- Record: `luma-crypto-Hp3PAWlEOx3okVI`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/on8grate>
+
+### About the event
+
+曼谷的夜很长，狗哥的局才刚开场！
+
+白天 BBW，晚上泰式夜宵局！
+
+西格玛男人-狗哥，联合 Bitget Wallet × Gas station × TurboFlow，请大家搂席
+
+江湖路远，今晚先聚！
+
+大席已备 - 美食管饱 - 礼品管够 - 畅饮畅聊
+
+### 活动信息
+
+- 日期：11月28日
+- 签到：21:45
+- 时间：22:00-次日01:30 （UTC+7）
+- 地点：泰国曼谷
+
+### 联合主办方
+
+Bitget Wallet
+
+Bitget Wallet 是一款面向日常金融的自托管加密钱包，服务全球超 1 亿用户，支持使用数字美元进行储蓄、转账、消费及全球资产交易。平台提供稳定币跨境转账、Visa/Mastercard 加密卡、100 余种本地化法币通道与理财产品，支持 130 余条公链与 100 余万种加密资产及代币化股票等 RWA 资产。平台还通过硬件级私钥加密保护技术、实时风控引擎、独立安全审计及 3 亿美元风险保障基金，全方位保护用户资产安全。
+
+官网：https://web3.bitget.com/
+
+X EN：https://x.com/BitgetWallet
+
+X EN: https://x.com/BitgetWalletCN
+
+TurboFlow
+
+TurboFlow 是一个链上交易生态系统，将永续合约、短周期事件合约（Event Contracts）和预测市场整合在同一个以零售交易者为核心的平台。
+
+官网：https://www.tf.xyz
+
+X：https://x.com/TurboFlow_xyz
+
+Gas station
+
+GasStation 专注 TRON 能量租赁与带宽租赁服务，为 TRON 网络用户提供高效、低成本的资源解决方案。
+
+GasStation支持按需租用与自动续租，也为钱包、交易所及有高频转账需求的团队提供 API 接入，资源通常可在几秒内到账，帮您在无需冻结 TRX 的情况下完成 TRC20 转账与合约操作，降低 TRON 网络手续费支出。
+
+官网：https://www.gasstation.ai/
+
+### 特别鸣谢
+
+JUST (https://x.com/DeFi_JUST) - B.AI (https://B.AI) - SUN (https://x.com/OfficialSUNio) - USDD (https://x.com/USDDecentralize) - WBTC (https://x.com/WrappedBTC) - WINkLink (https://x.com/WinkLink_Oracle) - BitTorrent (https://x.com/BitTorrent) - AINFT (https://x.com/AINFTcom)
+
+<a id="event-07884c7ceb3ed069"></a>
+
+## Coffee & Bitcoin - Falls Church
+
+- Record: `luma-crypto-CZFvyMlvwoTrp2S`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T15:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wzaqpwjg>
+
+### About the event
+
+Bitcoin District (https://bitcoindistrict.org/) is a community of Bitcoiners living & working in the greater DMV metro area. Join us for a "Coffee & Bitcoin" meetup where we'll talk about what's happening in the world of Bitcoin.
+
+We highly encourage anyone who is new to Bitcoin or just a little curious to come and ask questions... don't be shy!
+
+Ample parking at the shopping center
+
+METRO + Bus: Dunn Loring Station (orange line) + bus to Lee Hwy & Lee Oaks Ct stop
+
+Our events are Bitcoin focused and we generally avoid discussing other coins & tokens. Nothing discussed during this meetup is financial advice. Always do your own research.
+
+<a id="event-4e2839826017d307"></a>
+
+## Anti-fragile Bitcoin / AI時代のセキュリティ危機とビットコインの反脆弱性
+
+- Record: `luma-crypto-UTPHjGo6CEUAFhg`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/i1ghcdwz>
+
+### Is Your Bitcoin Safe in the Age of AI? / AI時代、あなたのBitcoinは安全ですか？
+
+A side event of Bitcoin Japan 2026 (https://btc-jpn.com/) / (https://btc-jpn.com/)Bitcoin Japan 2026 (https://btc-jpn.com/) のサイドイベント
+
+Bitcoin Japan 2026 brought the Bitcoin world to Tokyo, but there were not many sessions in English. So Tokyo Bitcoin Base is opening its doors to everyone who wants to hear from international speakers and see presentations in English.
+
+Don't speak English? You are just as welcome. All presentations will be translated into Japanese, so everyone can follow along. You're also free to come and go anytime, so feel free to join just for the sessions you're most interested in.
+
+Hacks are changing the Bitcoin world. So what can we do about it? Three short talks, each followed by a panel, plus a fourth panel on Japan, with the builders on the front line: what really happened inside BTCPay Server, how decentralization can stop hacks before they happen, and how to protect your own keys with a DIY signer.
+
+### Speakers
+
+Nicolas Dorier (https://x.com/NicolasDorier), Creator of BTCPay Server
+
+Anna (https://x.com/annahhodl), CEO of Hodl Hodl
+
+DIY Pacman (https://x.com/DIYbitcoin), DIY signer
+
+Jonathan Underwood (https://x.com/junderwood4649), bitbank
+
+Kishin (https://x.com/btc_dakara), Japan Bitcoin Industry
+
+Joe Miyamoto (https://x.com/joemphilips), Developer
+
+Brad, MC
+
+### Program (13:00-17:00, doors open 12:45)
+
+- Opening
+- Nicolas Dorier LT: What happened at BTCPay Server,
+- Panel 1: Security & Crisis
+- Anna LT: Hodl Hodl and decentralization
+- Panel 2: Centralized Exchanges
+- DIY Pacman LT: DIY signer
+- Panel 3: Hardware Wallets & Makers
+- Panel 4: Security in Japan
+- Networking
+
+### Never been to TBB? Now's your chance
+
+Tokyo Bitcoin Base is Tokyo's home for Bitcoiners. While you're here, take a look at:
+
+- The event space, which you can book for your own meetups and events
+- Shared offices and coworking spaces you can rent
+
+During networking, the mic is open: feel free to present your own project to the room. Come for the talks, stay for the people, and leave knowing where Tokyo's Bitcoin community lives.
+
+Ticket: Free
+
+Tokyo Bitcoin Base, Yotsuya, Tokyo
+
+English, with Japanese translation
+
+### 日本語
+
+Bitcoin Japan 2026では、英語で話す登壇者やセッションがあまりありませんでした。そこでTokyo Bitcoin Baseは、海外の登壇者の話を聞きたい方、英語のプレゼンテーションに触れたい方のために、会場を開くことにしました。
+
+英語が話せなくても大丈夫です。すべてのプレゼンテーションは日本語に翻訳されますので、どなたでも安心してご参加ください。途中参加・途中退出も自由ですので、気になるセッションだけでもお気軽にお越しください。
+
+ハッキングによって、Bitcoinを取り巻く世界は今まさに変わりつつあります。では、私たちに何ができるのか。BTCPay Serverで実際に起きたこと、分散化でハッキングを防ぐ仕組み、DIYサイナーで自分の鍵を守る方法について、3つの短い講演とそれぞれに続くパネル、そして日本についてのパネルで深掘りします。
+
+登壇者
+
+Nicolas Dorier (https://x.com/NicolasDorier)（BTCPay Server）
+
+Anna (https://x.com/annahhodl)（Hodl Hodl CEO）
+
+DIY Pacman (https://x.com/DIYbitcoin)（DIYサイナー）
+
+Jonathan Underwood (https://x.com/junderwood4649)（bitbank）
+
+Kishin (https://x.com/btc_dakara)（Japan Bitcoin Industry）
+
+宮本丈 (https://x.com/joemphilips) (Developer)
+
+Brad（MC）
+
+プログラム（13:00〜17:00・開場12:45）
+
+- オープニング
+- Nicolas Dorier LT「BTCPay Serverで何が起きたのか」
+- パネル1：セキュリティと危機対応
+- Anna LT「Hodl Hodlと分散化」
+- パネル2：中央集権取引所
+- DIY Pacman LT「DIYサイナー」
+- パネル3：ハードウェアウォレットとメイカー
+- パネル4：日本のセキュリティの現状
+- ネットワーキング
+
+TBBに来たことがない方も、この機会にぜひ
+
+Tokyo Bitcoin Baseは、東京のBitcoinerのための拠点です。当日はこちらもご覧いただけます。
+
+- ご自身のミートアップやイベントに使えるイベントスペース
+- レンタルできるシェアオフィス・コワーキングスペース
+
+ネットワーキング中はマイクを自由に使えます。ご自身のプロジェクトを紹介したい方は、ぜひお気軽にどうぞ。話を聞きに来て、人とつながって、東京のBitcoinコミュニティの居場所を見つけてください。
+
+参加費：無料
+
+Tokyo Bitcoin Base（東京・四谷）
+
+英語（日本語翻訳あり）
+
+<a id="event-7d82ff26223003ce"></a>
+
+## The Future Is Tokenized 💎
+
+- Record: `luma-crypto-PcQFoQxIo3e0fjE`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/df1y0xfj>
+
+### About the event
+
+The Future Is Tokenized
+
+Real-World Assets, Tokenization & On-Chain Finance
+
+Hosted by PLEARN × SIX Network × Renaiss Protocol
+
+Sponsored by Flap
+
+An invitation-only private lunch bringing together institutional investors, founders, and leaders across traditional finance and Web3 to discuss where real-world assets and tokenization are heading next.
+
+### Agenda
+
+12:00-12:30 PM - Welcome & Networking
+
+12:30-1:30 PM - Private Lunch & Discussion
+
+Enjoy lunch while hearing perspectives on RWAs, tokenization, and the future of on-chain finance. 1:30-2:00 PM - Open Discussion & Networking
+
+Continue the conversation, exchange ideas, and connect with fellow guests.
+
+Sunday, 29 Nov 2026
+
+12:00-2:00 PM
+
+Bangkok
+
+Invite Only - curated for institutional investors, founders and industry leaders.
+
+The future is being tokenized. Let's talk about what comes next.
+
+<a id="event-ce5b8a3e4344c15a"></a>
+
+## Day 2 \\ Catfooding x Team1 Picnic in the Park \\ Binance Blockchain Week
+
+- Record: `luma-crypto-uH6u5jf6PJjmDlS`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/rmtce2gu>
+
+### About the event
+
+Day 2 CATFOODING x TEAM1 THAILAND // PICNIC IN THE PARK _ TOUCH GRASS
+
+Taking a break from the blockchain buzz? Come touch some grass with us!
+
+Catfooding and Team1 Thailand are hosting a laid-back picnic right next to Binance Blockchain Week at Queen Sirikit National Convention Centre, Bangkok.
+
+Step away from the conference floor, enjoy some fresh air, meet fellow builders, founders, creatives and crypto enthusiasts, and connect with the community beyond the screens.
+
+No panels, no pitches, no pressure. Just good people, real conversations and a chance to unwind in the park.
+
+Giveaway: Get a chance to win a Tangem wallet! Limited to 4 lucky winners.
+
+Location: Park next to Queen Sirikit National Convention Centre, Bangkok
+
+November 29 2026
+
+12:00-2:00 PM
+
+Whether you're attending Binance Blockchain Week or just around Bangkok, come hang out, make new friends and enjoy a little offline time.
+
+Touch grass. Meet builders. Stay curious
+
+Open to collaborations & co-marketing, get in touch!
+
+Partners and sponsors welcome. Want to take part, bring something to the picnic, or sponsor the day? Get in touch on catfooding.com/?page=sponsors (https://catfooding.com/?page=sponsors)
+
+<a id="event-71c7dcbd58ea8e93"></a>
+
+## DASH DEV DAY
+
+- Record: `luma-crypto-nToyO3NE55zEmK4`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/a09goker>
+
+### About the event
+
+Dash Dev Day
+
+Learn the platform. Build your idea. Explore DAO funding.
+
+Join us for an afternoon focused on Dash Platform, getting started with development, and understanding how Dash proposals and treasury voting work.
+
+Whether you're a student, a curious developer, or a builder exploring a project idea, come learn, ask questions, and meet the Dash community.
+
+What we'll cover
+
+- Discover Dash Platform - What it offers and what you can build.
+- Start developing - Where to find documentation, tools, and learning resources.
+- Understand proposals - How to present a project and request Dash treasury funding.
+- Explore funding and voting - Who can vote and how funding decisions work.
+- Pitch your idea - Present your project, get feedback, and explore opportunities to build within the Dash ecosystem.
+- Meet fellow builders - Exchange ideas and connect with developers interested in Dash.
+
+29 November 2026 - 3:00-6:00 PM (Thailand time)
+
+The Academy, 19th Floor, Chamchuri 10 Building
+
+Chulalongkorn University
+
+Bring your curiosity. Start your journey building on Dash.
+
+Link to apply for Project Pithing
+
+https://forms.gle/KWKnKd9mqjG4gPTg8
+
+<a id="event-204a77ca79c91d5a"></a>
+
+## Proof of AI: Bangkok Closing Night @ Binance Blockchain Week 2026
+
+- Record: `luma-crypto-UvbEHrDSqYeArxj`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wous244v>
+
+### About the event
+
+Binance Blockchain Week wraps up in Bangkok on November 29. Before everyone flies home, Kite is hosting closing-night drinks for the builders, founders, investors and creators shaping the agent economy.
+
+No panels, no pitches. Just a rooftop terrace above Sukhumvit, good drinks, and the people you meant to catch up with all week.
+
+### Event Details
+
+Date: Sunday, November 29, 2026
+
+Time: 18:00 - 22:00 (Bangkok time)
+
+Venue: A rooftop terrace in Sukhumvit, about 1 km from QSNCC. Full address shared with approved guests.
+
+Host: Kite
+
+### What to Expect
+
+- Drinks and bites, on us
+- Easy conversations with teams building AI agents, agentic payments and the infrastructure underneath
+
+### Registration
+
+Space is limited and every registration is reviewed. Tell us your company and role so we can approve you quickly.
+
+### About Kite
+
+Kite is building the first Layer 1 for agentic payments: foundational infrastructure where autonomous AI agents can operate with verifiable identity, programmable governance, and native stablecoin settlement.
+
+Founded by AI and data infrastructure veterans from Databricks, Uber, and UC Berkeley, Kite has raised $35 million from investors including PayPal, General Catalyst, Coinbase Ventures, 8VC, and other top-tier venture funds.
+
+Follow @GoKiteAI on X: https://x.com/gokiteai
+
+Website: https://gokite.ai/
+
+<a id="event-7e66b380210abbbd"></a>
+
+## The Alpha Table
+
+- Record: `luma-crypto-2xGTTGyT4yIDpfC`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nulot1zr>
+
+### About the Event
+
+During Binance Blockchain Week, THE ALPHA TABLE brings together Web3 founders, investors, builders, and ecosystem leaders for an exclusive evening of networking, project showcases, and meaningful connections.
+
+Designed as an intimate gathering, the event provides a platform for industry participants to exchange insights, explore new opportunities, and build valuable relationships across the Web3 ecosystem.
+
+### Featured Project: Enhanced Finance
+
+Enhanced Finance is a DeFi options-yield platform that enables users to generate additional yield from their existing assets through structured options strategies.
+
+By bringing options-based strategies into an accessible on-chain environment, Enhanced aims to bridge traditional financial strategies with decentralized finance, unlocking new possibilities for digital asset holders.
+
+THE ALPHA TABLE, Enhanced will introduce its vision, platform, and latest developments to the Web3 community.
+
+Website: https://enhanced.finance
+
+𝕏 X: https://x.com/enhanced_defi
+
+### Agenda
+
+18:30 - 19:00 | Guest Registration & Welcome
+
+19:00 - 19:20 | Opening Remarks
+
+19:30 - 21:00 | Networking Dinner
+
+21:00 - 21:30 | Group Photo & Open Networking
+
+21:30 - 22:00 | Gift Collection & Closing Networking
+
+18:30 - 19:00 | 入场
+
+19:00 - 19:20 | 开场
+
+19:30 - 21:00 | 私享晚宴
+
+21:00 - 21:30 | 合照、自由交流
+
+21:30 - 22:00 | 领取礼品--活动结束
+
+### RSVP
+
+This is an exclusive, invitation-based gathering with limited seating.
+
+Please submit your RSVP through Luma. Attendance is subject to confirmation
+
+THE ALPHA TABLE｜曼谷 Web3 私享交流晚宴
+
+在 Binance Blockchain Week 期间，由 Enhanced 与 Phill Club Collective、Renaiss 联合主办，携手 predict.fun (https://predict.fun)、neosoul 共同打造一场面向 Web3 行业核心参与者的私享交流晚宴，并由 BNB Chain 提供生态支持。
+
+Enhanced Finance 项目介绍：Enhanced Finance 是一个 DeFi 期权收益平台，通过结构化期权策略，帮助用户从现有资产中获取额外收益。
+
+平台致力于将传统金融市场中的期权策略引入链上环境，让数字资产持有者能够以更灵活的方式管理和运用资产
+
+<a id="event-df6299c5d64982a1"></a>
+
+## 币圈首届格斗赛事
+
+- Record: `luma-crypto-GA41QTIByVpFqx7`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T12:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ktupcrbc>
+
+### About the event
+
+币圈首届格斗赛事，正式开打！
+
+这一次，币圈恩怨不在群里吵，直接上擂台解决。
+
+【对战双方】
+
+河马 VS 珺杰
+
+两人因一段"割韭菜"恩怨结下梁子：一方觉得自己被另一方给割了。谁对谁错，嘴上说不清，就用拳头说话！
+
+【活动日程｜11月29日】
+
+18:00 - 20:00　封闭式泰拳体验课（仅限赞助方邀请，不对外开放报名）
+
+▼ 泰拳体验课现场参考
+
+19:30　全程直播开启
+
+20:00　主赛事：河马 VS 珺杰 拳击对决
+
+21:00　直播结束
+
+【场地】
+
+SinghaArcha Muaythai Academy（曼谷 Soi Phetchaburi 47）
+
+▼ 场地平面图
+
+【直播】
+
+19:30 - 21:00 由官方指定直播平台 Billion Live 全程直播，到不了现场也能在线围观。
+
+【直播流程｜11月29日】
+
+18:00-20:00　泰拳体验课（受邀嘉宾，凭邀请函入场）
+
+19:30　直播开始：体验课收尾
+
+19:40　选手热身 + 赛前放狠话
+
+20:00　比赛开打：河马 VS 珺杰（5 回合，每回合 2 分钟，回合间休息 3 分钟）
+
+约 20:25　裁判打分，宣布胜负
+
+21:00　直播结束
+
+全程由 Billion Live 直播，画面里一直有计时器。
+
+【赛事发起人】
+
+Goku很Cool｜Web3 最会整活的男人
+
+【官方指定直播平台】
+
+Billion Live　x.com/Billion_Global
+
+【本次比赛赞助商】
+
+UXUY　x.com/uxuycom
+
+ForeGate　x.com/Fore_Gate
+
+WEEX　x.com/WEEX_Official
+
+TurboFlow　x.com/TurboFlow_xyz
+
+来现场，见证币圈第一场真刀真枪的对决！
+
+### Event details
+
+Date: Nov 29, 2026, 19:30 (Asia/Bangkok)
+
+Venue: SinghaArcha Muaythai Academy สิงห์อาชา มวยไทย อะคาเดมี่
+
+Hosts: Goku很Cool
+
+Tickets: Free
+
+Registration: open
+
+Event page: https://luma.com/ktupcrbc
+
+<a id="event-6a940ddbe1e71e5b"></a>
+
+## ASTER COMMUNITY COURT
+
+- Record: `luma-crypto-Bnxnu2332UNyBSP`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-30T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jhefhuf1>
+
+### ASTER COMMUNITY COURT
+
+Bringing onchain conversations into real life
+
+Making new connections on the court
+
+ASTER COMMUNITY COURT will take place in Thailand on November 30 2026
+
+We welcome ASTER community members Web3 professionals and new friends to come together
+
+Through pickleball volleyball and other interactive games
+
+We hope to turn familiar online profiles into people we know in person
+
+Whether you are new to pickleball
+
+Or already enjoy the game
+
+You are welcome to join
+
+Activities are planned to include pickleball volleyball interactive games and time to connect
+
+Meet new people share ideas and enjoy a relaxed time with the community
+
+More details about the schedule and participation will be announced later
+
+Venue and Facilities
+
+Four indoor pickleball courts
+
+Two outdoor pickleball courts
+
+Three beach volleyball courts
+
+Seating area
+
+Free sports equipment
+
+Please note the venue hours
+
+Indoor areas are open from 3：30 PM to 5：40 PM
+
+From 5：40 PM to 7：30 PM only outdoor areas will be open
+
+Entry Information
+
+The venue has access control
+
+Entry is limited to approved registrants
+
+You may not bring anyone who is not registered or approved
+
+If your registration is not approved
+
+Please contact Telegram @PAH4399 to discuss your options
+
+Event Information
+
+Date November 30 2026
+
+Location Thailand
+
+See you on the court
+
+把链上的交流带到线下
+
+在球场上认识彼此
+
+ASTER COMMUNITY COURT 将于 2026 年 11 月 30 日在泰国举行
+
+我们邀请 ASTER 社区成员 Web3 从业者和对社区感兴趣的新朋友相聚球场
+
+通过匹克球 排球和其他互动游戏
+
+把线上熟悉的头像变成线下认识的伙伴
+
+无论你是第一次接触匹克球
+
+还是已经喜欢这项运动
+
+都欢迎加入
+
+活动计划包括匹克球 排球 互动游戏和自由交流
+
+让大家在运动与交谈中分享想法 认识新朋友
+
+享受轻松愉快的社区时光
+
+活动流程和参与方式将于后续公布
+
+场地与设施
+
+4 片室内匹克球场
+
+2 片室外匹克球场
+
+3 片沙滩排球场
+
+休息座位区
+
+免费运动器材
+
+请留意场地开放时间
+
+室内区域仅开放 15时30分至17时40分
+
+17时40分至19时30分期间仅开放户外区域
+
+入场须知
+
+场地实行人员管控
+
+请按报名审核结果入场
+
+不可携带未注册或未经批准的他人入场
+
+注册未通过的用户
+
+可通过 Telegram @PAH4399 联系协商
+
+活动信息
+
+日期 2026年11月30日
+
+地点 泰国
+
+球场见
+
+### About Aster
+
+https://asterdex.com/?utm_source=luma
+
+Aster is a privacy-first onchain trading platform backed by YZi Labs, with unique features like Hidden Orders to protect user trading activity.
+
+It pioneers the frontier of on-chain trading through perpetual futures, spots, and earn products for top-trending assets, including RWAs, memes, and core crypto markets.
+
+Connect with Aster (https://t.co/EF7uEmCGFa?utm_source=luma) & Aster Daily (https://x.com/_AsterDaily?s=20)
+
+中文：
 
 <a id="event-9fc5438092fc64f2"></a>
 
@@ -16282,6 +19470,46 @@ Registration: requires approval from the organiser
 
 Event page: https://luma.com/qp1s3ixo
 
+<a id="event-3493a8554fda3c68"></a>
+
+## Daos Week - Institutional & Stablecoins Summit
+
+- Record: `luma-crypto-gN8DMyMWBNlfeQi`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-30T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/daosweek-day1>
+
+### About the event
+
+One day, one room, the people deciding how digital money works. Banks, stablecoin issuers, custodians, asset managers and regulators, with every speaker within reach
+
+FIRST NAMES REVEALED
+
+2027: What's next for institutional digital assets? - Leaders from Franklin Templeton, Coinbase (https://www.coinbase.com/), Fireblocks (https://www.fireblocks.com/), Laser Digital (https://www.laserdigital.com/), Crypto.com, OKX (https://www.okx.com/), Ledger (https://www.ledger.com/), Grant Thornton (https://www.grantthornton.global/), and more share their perspectives on the future
+
+### AGENDA
+
+∙ Opening Fireside: Who really controls digital money?
+
+∙ Private Roundtable: Who impacts the Institutional Client? Banks, Asset Managers or Crypto Platforms?
+
+∙ Filmed Debate: Will banks capture the stablecoin business? Guests become part of the show
+
+> No main stage, no backstage: every speaker is in the room with you
+
+Every request is reviewed by the Daos team, so everyone around you is worth meeting
+
+1. Request your place below
+2. We review your profile
+3. Approved guests get the address and full details
+
+Request your place to hear first
+
+Daos Hub, Dubai
+
+Become a Partner - daos.co (https://daos.co/)
+
 <a id="event-e331772156d76464"></a>
 
 ## UniTour#3 - Garanti BBVA Kripto x Team1 Türkiye - Piri Reis Üniversitesi
@@ -16306,6 +19534,44 @@ Team1 Türkiye Team1 Türkiye (https://x.com/Team1TUR?utm_source=luma), Avalanch
 
 PRU Blockchain Kulübü PRU Blockchain (https://x.com/pru_blockchain), Piri Reis Üniversitesi'nde merkeziyetsiz teknolojilere meraklı öğrencileri bir araya getiren genç bir topluluk. Yeni kurulduk, ama heyecanımız büyük: eğitimler, teknik içerikler ve etkinliklerle birlikte öğreniyor, birlikte üretiyoruz. İlk hackathon birinciliğimizi şimdiden aldık; devamı için çalışıyoruz.
 
+<a id="event-b797c9b8ed5004d6"></a>
+
+## Mining Discovery: Your First Bittensor Mining Competition
+
+- Record: `luma-crypto-auJs8zJ4OJyeqHk`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-30T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/t90n9jon>
+
+### About the event
+
+Join us for the begining of a series of 3 live workshops at 42 Paris to discover the Bittensor ecosystem and prepare for the Opentensor Foundation hackathon.
+
+This first workshop is a step into the shoes of a miner who forecasts a time series.
+
+You will discover how a subnet works, and how its incentive mechanism scores and rewards your work. Work in teams, compete on the live leaderboard and meet the main actors of the Bittensor ecosystem in 42 Paris campus.
+
+1 TAO to win !
+
+Workshop from 2 pm to 7 pm, then stay for the afterwork until midnight: networking with the Bittensor ecosystem, offered to all participants.
+
+### Who is this for?
+
+This session is designed for builders in Paris. It is free and open to everyone.
+
+Who should join?
+
+Beginners as well as experienced builders. Come with your curiosity and your laptop, and we'll help you get started.
+
+In between the 3 workshops, you might want to check our Bittensor course on 42Blockchain e-learning platform
+
+▶ https://elearning-42bc.xyz/
+
+Join us on November 30th!
+
+Start where you are, find your people, find your idea, and find your way.
+
 <a id="event-7f2832b08d96ca71"></a>
 
 ## Stripe Breakfast @ re:Invent
@@ -16319,6 +19585,127 @@ PRU Blockchain Kulübü PRU Blockchain (https://x.com/pru_blockchain), Piri Reis
 ### About the event
 
 Kick off AWS re:Invent with Stripe! Join Stripe at Mon Ami Gabi for breakfast, giveaways, and hands-on building on the first day of AWS re:Invent. Drop in to meet other developers, chat with the Stripe team, and try two interactive payment demos: - Build with Machine Payments Protocol (MPP): Run an agent that buys an article and returns a unique code you can redeem for a ticket to a show at The Sphere. Only 200 available, so show up early! - Pick the soundtrack: Use Stripe Terminal and stablecoin to add a song to the jukebox - or pay more to move it to the front of the queue.
+
+<a id="event-ac03ee258b092213"></a>
+
+## Web3MD \| Baltimore Tech Community Meetup
+
+- Record: `luma-crypto-HbAu6WTE23hMupz`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-30T22:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/j0o3r453>
+
+### Web3MD | Baltimore Tech Community Meetup
+
+Connect. Collaborate. Build Maryland's Future.
+
+Web3MD hosts a Tech Community Meetup on Monday, November 30, 2026, bringing together Maryland's crypto, AI, Web3, blockchain, and emerging technology community.
+
+The purpose is simple: bring builders, founders, entrepreneurs, investors, operators, and curious newcomers together to network, exchange ideas, and explore what's being built across Maryland.
+
+The format is intentionally open: no panels, no slide decks, no formal program. Just meaningful conversations, new connections, and opportunities to collaborate.
+
+Whether you're building the next startup, exploring blockchain and AI, looking for partnerships, or simply curious about emerging technologies, you're welcome.
+
+Topics on the Table
+
+- What Maryland's crypto, blockchain, and emerging tech communities are building
+- The state of the Baltimore and statewide Web3 ecosystem
+- Startup opportunities, funding, hiring, and strategic partnerships
+- Connecting founders, investors, developers, and community leaders
+- What's ahead for Maryland's innovation ecosystem in 2027
+
+### Event Details
+
+When: Monday, November 30, 2026
+
+Time: 6:00 - 9:00 PM EST
+
+Where: Leinie Lodge & Beer Garden
+
+Power Plant Live!, Baltimore, Maryland
+
+Cost: Free, registration required
+
+Hosted by: Web3MD (Web3 Maryland)
+
+Who Should Attend: Founders, builders, developers, investors, entrepreneurs, students, and anyone interested in Web3 and emerging technologies.
+
+Let's Build Maryland's Tech Ecosystem Together.
+
+Great ecosystems are built through real connections. Join us for an evening of conversation, collaboration, and community.
+
+RSVP today. Space is limited.
+
+Includes: Light food and refreshments
+
+Hosted by: Web3 Maryland
+
+Supported by: Stand With Crypto
+
+<a id="event-db96f323eb523712"></a>
+
+## Tech Community Meetup · Arizona Crypto & Blockchain Builders · Phoenix · November 30
+
+- Record: `luma-crypto-2dnCQwwxqTcJQnQ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-01T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jocb16z4>
+
+### About the event
+
+The Emerging Tech Center hosts a Tech Community Meetup on Monday, November 30, 2026 for the Arizona crypto, Web3, and blockchain community. The purpose is simple: bring Arizona's builders, founders, operators, and curious newcomers together in one room to network, compare notes, and talk about what we've been building here in Arizona.
+
+The format is intentionally open: no panels, no slide decks, no formal program. The evening is set aside for substantive conversation and new connections across the Arizona blockchain ecosystem. Builders deep in the weeds, operators between gigs, investors looking for the next thing, and the merely curious are all welcome.
+
+Topics on the table
+
+- What Arizona crypto and blockchain teams are actually building right now
+- The state of the Phoenix and statewide Web3 ecosystem
+- Hiring, funding, collaboration, and partnership opportunities
+- What to expect from the Arizona tech scene in 2027
+
+### Event details
+
+When: Monday, November 30, 2026 from 6:00 to 9:00 PM MST
+
+Where: Phoenix, Arizona (venue shared with confirmed RSVPs)
+
+Cost: Free, registration required
+
+Includes: Light food and refreshments
+
+Hosted by: Emerging Tech Center
+
+With support from: Stand With Crypto Arizona
+
+<a id="event-5e386c2d1b77f7c0"></a>
+
+## Fireside Chat - Building Markets, Shaping Perceptions
+
+- Record: `luma-crypto-82jJAun2dZYjdKn`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-01T06:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/7vt8mbm6>
+
+### Agenda
+
+8:30 - Gathering
+
+9:05 - Intro by Liron Germanov
+
+9:10 - 9:55 Fireside Chat - Building Markets, Shaping Perceptions - Samara Cohen (Global Head of Market Development, BlackRock) and Michal Ferguson (CMO, Fireblocks). Moderated by Adv. Gal Arad Cohen (Partner and Head of Blockchain and Digital Assets practice).
+
+A conversation exploring the intersection of innovation, technology, and regulation - from developing new financial products and market infrastructure to building trust, creating demand, and driving institutional adoption.
+
+10:00 - Wrap up
+
+Please note: Due to limited capacity, registrations are subject to approval, with priority given to Women in Crypto community members.
+
+Please RSVP in advance.
 
 <a id="event-ebd402574ba604b2"></a>
 
@@ -16338,6 +19725,38 @@ What makes an ETF a compelling structure for institutional Bitcoin exposure? Joi
 - 08:30-08:45 - Arrival
 - 08:45-09:30 - Presentation
 - 09:30-10:30 - Q&A and networking
+
+<a id="event-30bd50343f05aa3e"></a>
+
+## Daos Week - RWAs & Onchain Finance Day
+
+- Record: `luma-crypto-5MRpiW5RUXHjX4S`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-01T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/daosweek-day2>
+
+### About the event
+
+Founders of RWA and tokenization platforms, institutional allocators, investment managers and auditors. Up to 100 guests per session, not thousands of badges, and every speaker in the same room
+
+2027: What's next for tokenized markets? - Leaders from VARA (https://www.vara.ae/en/), CoinMENA (https://www.coinmena.com/en), PRYPCO, (https://prypco.com/) CFC (https://www.cfc-mena.com/), Zoth (https://www.zoth.io/), ZigFinance (https://zig.finance/), Stellar (https://stellar.org/), and more share their perspectives!
+
+### AGENDA
+
+∙ Opening Fireside
+
+∙ Roundtable
+
+∙ Debate
+
+> No main stage, no backstage: every speaker is in the room with you
+
+Every request is reviewed by the Daos team, so everyone around you is worth meeting. Approved guests receive the address and full details.
+
+Daos Hub, Dubai
+
+Become a Partner - daos.co (https://daos.co/)
 
 <a id="event-308d4e6ee1ad2045"></a>
 
@@ -16377,6 +19796,180 @@ The Big Whale (https://www.thebigwhale.io/) is the leading Market Intelligence p
 
 That leaves the job to venues, broker-dealers and banks. Some will plug tokenized assets into the desks and systems they already run. Others will build new ones. The choice will decide who captures the flows. Thanks to Morgan Stanley for making this event possible. Attending? Share your presence with a dedicated visual here! (https://breakfasts.thebigwhale.io/#nyc-december1) 4:30PM - Welcome drinks & networking 5:00PM - Panel 6:00PM - Networking Session Seats are limited to foster deep, honest discussions and high-quality networking. Priority access will be given to Corporate subscribers. Important: doors close at 5:00 PM. It will not be possible to join after that time.
 
+<a id="event-fb293653b407bf9b"></a>
+
+## BitDevs Toronto
+
+- Record: `luma-crypto-2LoUE7CUYmS1UFu`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-01T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/u96czfi8>
+
+### About the event
+
+Toronto BitDevs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+
+We'll be digging into technical topics, proposals, research, and developments across the Bitcoin ecosystem. You don't need to be an expert to join, all are welcome!
+
+The topics will be posted before the meeting begins at: https://bitdevs.to
+
+.
+
+### Schedule
+
+6:00 PM - Doors open
+
+6:30 - 8:30 PM - Technical topics & discussion
+
+8:30 PM - Drinks & food at a nearby bar (pay your own way)
+
+.
+
+### Getting in
+
+Use the door marked 600 Bay Street, right beside Blondies Pizza. It's locked, so one of us will be downstairs 6:00-6:30pm to let you in. If nobody is there, use "Contact the Host" on this page or message the Ontario Telegram group and someone will come down.
+
+.
+
+The venue for this meeting is sponsored by Bitcoin Bay and the BitDevs Toronto website domain is sponsored by Lygos Finance.
+
+.
+
+Free to attend.
+
+<a id="event-0aa0e52d37677b93"></a>
+
+## Denver BitDevs at The Space
+
+- Record: `luma-crypto-LPNGICHLKGXXECT`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T00:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/hcbgj276>
+
+### About the event
+
+Join us for this month's BitDevs Socratic Seminar, a technical discussion focused on Bitcoin research, protocol development, and open-source projects hosted by Space member Keagan! Keagan has been part of the BitDevs community for years and we are excited to have him back hosting this event series!
+
+- 530pm - Doors Open: Check-in, grab a drink, and catch up.
+- 6pm to 8pm - The Socratic Seminar: A moderated, open discussion dissecting recent Bitcoin Core PRs, BIPs, Lightning Network updates, and cryptography research.
+- 8pm - Adjournment
+
+### Event details
+
+Date: Dec 1, 2026, 17:30 (America/Denver)
+
+Venue: 3700 Franklin St
+
+Hosts: The Space, Keagan McClelland
+
+Organised by: The Space - Event Calendar
+
+Tickets: Free
+
+Registration: open
+
+Event page: https://luma.com/hcbgj276
+
+<a id="event-08ea7eb6de1af4a7"></a>
+
+## Bitcoin & Brews Port Moody
+
+- Record: `luma-crypto-G1C4zD50kbNAajK`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0eezdd6x>
+
+### About the event
+
+Bitcoin & Brews - Port Moody
+
+Bitcoin. Beer. Good people.
+
+Join us at Brave Brewing Co. for a casual monthly meetup for Bitcoiners across Port Moody, the Tri-Cities, Vancouver and beyond.
+
+Whether you've been running a node for years or you're still trying to figure out what the hell a satoshi is, you're welcome here.
+
+No presentations. No sales pitches. No crypto hype.
+
+Just beers and good conversation about Bitcoin, self-custody, mining, privacy, adoption, markets, technology, and whatever else is happening in the Bitcoin world.
+
+Come meet other local Bitcoiners, swap ideas, ask questions, and have a pint with people who actually enjoy talking about this stuff.
+
+Newcomers are absolutely welcome.
+
+Bitcoin only
+
+Brave Brewing Co., Port Moody
+
+Free to attend - just grab yourself a drink
+
+See you there.
+
+<a id="event-06971dbea34fe03f"></a>
+
+## Dubai Brunch: Crypto Cards and Payments \| Blockchain Life Side Event
+
+- Record: `luma-crypto-PE2r0DjrvNooWxH`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T06:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/o4de51ub>
+
+### About the event
+
+A Blockchain Life Side Event: Crypto Cards, Neobanks and Payments Morning in Dubai
+
+This is a side event during Blockchain Life 2026 week in Dubai.
+
+The main conference runs at Festival Arena, and we are keeping the coffee flowing a short drive away at Creek Harbour.
+
+### Event Details
+
+- Date: Wednesday, December 2, 2026
+- Time: 10:00 AM to 12:00 PM GST (Dubai time)
+- Capacity: About 50 guests, approval required
+- Location: Roasters Specialty Coffee House Creek Harbour, Dubai
+- Hosted By: CardifyCrypto & ConsistenC
+- Category: Crypto Cards, Neobank and Payments Networking
+- Food & Drinks: Specialty coffee and brunch
+
+A relaxed coffee and brunch morning for people building and using crypto cards, neobanks and payments.
+
+Expect proper specialty coffee from Roasters, good food and easy conversations with founders, operators and partners from the card and payments space.
+
+Spots are limited, so register and we'll confirm your place.
+
+### About The Hosts
+
+Host: CardifyCrypto.
+
+A benchmarking database and ranking index for crypto neobanks, cards and consumer payment products.
+
+Co-Host: ConsistenC.
+
+The growth partner behind crypto neobanks, cards and payments, covering BD, events, GTM and user acquisition.
+
+### Who Should Attend
+
+- Neobank & Wallet Founders: Builders working on consumer crypto banking products.
+- Payment Infrastructure & Rails: Card issuers, BIN sponsors, liquidity providers and ramp networks.
+- Operators & Partnerships Leads: People growing card and payments products.
+- Investors & Ecosystem Leads: Backers of consumer fintech and payments in Web3.
+
+### Agenda
+
+- 10:00 AM: Arrival, specialty coffee and networking
+- 10:30 AM: Brunch served and open conversations
+- 11:30 AM: Final coffee round and wrap-up
+- 12:00 PM: Event ends
+
+Would you like to sponsor?
+
+Contact @Ploppy77 on Telegram.
+
 <a id="event-a917ce5b89b5f516"></a>
 
 ## Blockchain Week Dubai - Ecox Network Side Event
@@ -16397,6 +19990,36 @@ About the organiser: CONNECT, LEARN AND COLLABORATE WITH ECOX GLOBAL NETWOR
 
 Tickets Standard
 
+<a id="event-8967febccdda5ee6"></a>
+
+## Aspect Blockchain Yacht Party · Blockchain Life 2026
+
+- Record: `luma-crypto-MyZo6eJD3xiEIzW`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T15:15:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/43nj2gmj>
+
+### About the event
+
+Aspect Blockchain Yacht Party - Blockchain Life 2026
+
+Blockchain Life is over. Time to get on a boat.
+
+On 2 December, Aspect Blockchain is hosting a private yacht party in Dubai for operators, investors and partners in Bitcoin mining and infrastructure.
+
+Dinner, drinks and a night on the water. No agenda. No pitches.
+
+Event is intimate and limited to 20 guests
+
+Transport from Blockchain Life to the boat is provided.
+
+Free to attend. Approval required. Confirmed guests will be sent the pickup time and details.
+
+Proof of Blockchain Life attendance is required
+
+All guests must accept the event terms at registration.
+
 <a id="event-37bf76bfec0df735"></a>
 
 ## L’écosystème fintech montréalais à l’heure de la tokenisation
@@ -16416,6 +20039,131 @@ La métropole bénéficie également d'un savoir-faire concret dans les domaines
 Lors de cet événement de la communauté CFI, Finance Montréal et T-RIZE présenteront les grandes tendances qui façonnent l'avenir de la finance numérique et discuteront du rôle que le Québec peut jouer dans le développement de l'économie tokenisée. À partir des faits saillants du Rapport Fintech Québec 2026 et d'une analyse des avancées récentes en matière de tokenisation, nous verrons pourquoi Montréal offre un environnement particulièrement favorable aux initiatives liées aux actifs numériques et aux infrastructures financières de nouvelle génération. Programme 1. Accueil et dîner 2. Présentation du Rapport Fintech Québec 2026 et portrait de l'écosystème fintech montréalais 3.
 
 L'écosystème montréalais de la tokenisation 4. Période de questions et échanges entre pairs Présentateurs - Bruno Séguin, directeur principal, Comptes stratégiques, Finance Montréal - Jean-Luc Pellerin, directeur, Écosystème et partenariats stratégiques, T-RIZE Ce que vous allez retirer de cet événement - Un portrait à jour de l'écosystème fintech montréalais, tiré du Rapport Fintech Québec 2026; - Un tour d'horizon des acteurs qui bâtissent l'infrastructure de tokenisation à Montréal. Un dîner sera servi sur place. L'événement est gratuit, mais les places sont limitées.
+
+<a id="event-866f190e14341ea1"></a>
+
+## The Zurich Society Afterwork at THE LOBBY 6
+
+- Record: `luma-crypto-VNBwlxFnJVFgZxw`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nk9k6cxj>
+
+### About the event
+
+Join SwissBorg, Maerki Baumann, Descartes, Wecan, DGLD and Vemo for an evening of talks, drinks and good music at THE LOBBY 6 in Zürich.
+
+What to expect: Talks on entrepreneurship, AI, startups and investing, followed by drinks and music till late.
+
+Who you'll meet: Founders, investors and builders from Zürich's startup, finance and crypto scene.
+
+### ABOUT THE PARTNERS
+
+SwissBorg (https://swissborg.com): A Swiss crypto wealth management platform, headquartered in Lausanne and founded in 2017, that helps people take control of their financial future.
+
+Vemo (https://vemo.ch/app): Vemo is building the Vemo.® App, where your personal AI agent reviews and manages your insurance policies. Vemo is a FINMA-registered insurance intermediary and also offers commission-free investment advice.
+
+Maerki Baumann (https://www.maerki-baumann.ch): A family-owned Swiss private bank based in Zürich with roots going back to 1932 and one of the first Swiss private banks to welcome clients from the crypto and blockchain industry.
+
+Descartes (https://descartes.swiss): A Zürich-based digital wealth manager founded in 2015. Its robo-advisory and pension solutions power retirement savings for partners such as Yuh and neon.
+
+DGLD (https://dgld.ch): A digital evidence of co-ownership rights in allocated, LBMA-certified PAMP gold, vaulted and insured in Switzerland. Each token corresponds to one fine troy ounce. Verifiable bar by bar on the Gold Mapper, deliverable in physical gold from 1 gram, and native on Solana, Ethereum and Base.
+
+Wecan (https://wecangroup.ch): Born in Geneva in 2015, Wecan builds compliance automation for regulated finance and is trusted by more than 100 financial institutions.
+
+Brought together by The Zurich Society, a community for founders, investors and builders in Zürich.
+
+Photos and videos will be taken at this event and may be shared on social media. If you prefer not to appear, please let us know on site.
+
+<a id="event-846aac245f57c466"></a>
+
+## Tokenizar valores en Europa: ¿España o Luxemburgo?
+
+- Record: `luma-crypto-YXa85uH7PkyVuIJ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wh0tg09o>
+
+### About the event
+
+El régimen legal de Luxemburgo para la tokenización de valores ha suscitado interés en España durante los últimos años, aunque sus características siguen siendo desconocidas en buena parte del sector. En esta sesión, compararemos los dos marcos legales, el español y el luxemburgués, para entender las ventajas y desventajas de cada uno, con el apoyo de nuestros socios de Legal Node.
+
+Nos centramos en la tokenización de instrumentos financieros (security tokens), a diferencia de los criptoactivos sujetos a MiCA.
+
+De qué hablaremos
+
+- ¿Qué instrumentos se pueden tokenizar en cada país y cómo (tokenización nativa frente a representación digital)?
+- Límites legales y efectos sobre la propiedad.
+- ERIR (España) frente a Control Agent (Luxemburgo): funciones y responsabilidades de cada figura.
+- Prendas, y garantías y su ejecución sobre instrumentos tokenizados.
+- Estructuras legales para la de tokenización: fondos, vehículos de titulización y estructuras de financiación. Tokenizar el vehículo frente a tokenizar su deuda.
+- Negociación secundaria y futuro de la regulación.
+
+Ponentes
+
+- Ignacio Jiménez, socio de Legal Node
+- Álvaro Garrido, socio de Legal Node
+- Miguel Calero, director ejecutivo de ISBE en Alastria
+
+<a id="event-cc108f3036993604"></a>
+
+## Antidote Presents: News Night
+
+- Record: `luma-crypto-BcKBTo6VK3EsfiT`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T18:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/antidote-37wg>
+
+### About the event
+
+There's plenty of things happening in Bitcoin, and it's not always easy to keep up!
+
+Join us for News Night, an event where we catch up on what's been happening in the Bitcoin ecosystem.
+
+Each edition, we'll dive into one or a few current topics, from protocol updates and security issues to regulation, controversies, challenges and anything else worth discussing.
+
+The idea is simple: make Bitcoin news easier to follow and discuss.
+
+If you already know your way around Bitcoin and want to stay up to date with what's happening in the ecosystem, this is for you!
+
+Expect interesting discussions, plenty of questions and a relaxed atmosphere.
+
+See you there!
+
+<a id="event-bbff7d0fbd9a35f2"></a>
+
+## The Future of Trade & Capital
+
+- Record: `luma-crypto-LUYQxTOabhTzJnK`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T21:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/bxmru1st>
+
+### About the Event
+
+Join XDC Tech for an exclusive gathering of institutional investors, capital allocators, trade finance professionals, and industry leaders exploring the evolving landscape of global trade finance.
+
+As stablecoins reshapes cross-border payments, this event brings together key stakeholders to exchange insights, build relationships, and explore opportunities for collaboration.
+
+Join us to discover how on-chain liquidity is being allocated to trade receivables using regulated stablecoins, and explore new financing opportunities against on-chain trade documents created in strict adherence to the MLETR (Model Law on Electronic Transferable Records) framework.
+
+### Event details
+
+Date: Dec 2, 2026, 16:00 (America/New_York)
+
+Venue: New York, United States
+
+Hosts: XDC Tech, Sunil Senapati
+
+Tickets: Free
+
+Registration: requires approval from the organiser
+
+Event page: https://luma.com/bxmru1st
 
 <a id="event-f78deaa70e230f7c"></a>
 
@@ -16479,6 +20227,48 @@ ADDITIONAL PROGRAMMING THROUGHOUT THE WEEK - Charity Art Auctions - Bringing tog
 
 SECURE YOUR PLACE AT THE NEXT RENAISSANCE Early Bird Pricing Ends November 11. Prices Increase November 12. More than an event, The Next Renaissance is a gathering of the people and ideas shaping the next era of art, culture, technology, and global innovation. Join us this December and be part of what's next. The Sagamore South Beach 1671 Collins Avenue, Miami Beach, FL 33139 www.bitbasel.miami (https://www.bitbasel.miami/)
 
+<a id="event-de63816cc460cb52"></a>
+
+## CCI x Payward Reception
+
+- Record: `luma-crypto-sQJY2Yidj21RTRD`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T22:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/884bc6ym>
+
+### About the event
+
+Join the Crypto Council for Innovation and Payward for a year-end reception celebrating the Members of Congress who have championed responsible digital asset policy, with special thanks to Senator Cynthia Lummis for her leadership and years of service.
+
+As the next chapter of digital asset policy takes shape, join us, CCI members, industry leaders, and staff to mark the progress made and the work ahead.
+
+Drinks and light bites provided.
+
+Wednesday, December 2
+
+5:00 to 7:00 PM
+
+Space is limited. Please RSVP.
+
+This is a well-attended event and complies with House and Senate ethics rules.
+
+### Event details
+
+Date: Dec 2, 2026, 17:00 (America/New_York)
+
+Venue: Washington, United States
+
+Hosts: Crypto Council for Innovation, Sarah Milby, Nate Parker, Andriana VanderGriend
+
+Organised by: Crypto Council for Innovation (CCI)
+
+Tickets: Free
+
+Registration: requires approval from the organiser
+
+Event page: https://luma.com/884bc6ym
+
 <a id="event-87ca4f4c15d1378f"></a>
 
 ## Toronto Tech Christmas Party 2026: AI • Defence • Crypto \| Connect. Celebrate. Build.
@@ -16502,6 +20292,94 @@ As Toronto continues to establish itself as a global hub for emerging technologi
 - AI founders, researchers, developers, and entrepreneurs - Defence technology and cybersecurity professionals - Blockchain and cryptocurrency builders - Venture capitalists, angel investors, and startup founders - Technology executives, engineers, and ecosystem leaders Anyone passionate about Toronto's technology and innovation ecosystem About Toronto DAO Toronto DAO is a grassroots organization dedicated to cultivating and retaining technology talent in Toronto while fostering innovation, entrepreneurship, and collaboration.
 
 Through community events, educational initiatives, and industry partnerships, we connect the people and organizations driving progress in AI, blockchain, defence technology, and other emerging sectors. Our annual Christmas party celebrates the community we've built, the connections we've made, and the opportunities ahead. Let's close out 2026 together and celebrate the people building the future of technology! Partners & Sponsors We're inviting forward-thinking organizations to support this year's celebration and connect with Toronto's growing technology ecosystem. Interested in becoming an event sponsor or community partner? s.azizi416@tdao.to Follow Toronto DAO: https://x. com/dao_toronto
+
+<a id="event-6ec216021c141ce1"></a>
+
+## Geneva Investor Briefing – Why Choose an ETF for Institutional Bitcoin Exposure?
+
+- Record: `luma-crypto-pNPUYSXtXzsRHT9`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-03T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3rabq1xm>
+
+### About the event
+
+What makes an ETF a compelling structure for institutional BWhat makes an ETF a compelling structure for institutional Bitcoin exposure?
+
+Hosted by BIT Asset Management in partnership with HUB+
+
+Join BIT Asset Management in Geneva for a discussion on institutional Bitcoin exposure. Using BBIT, Switzerland's first Bitcoin ETF, as a practical example, we'll look at how a Swiss ETF provides direct exposure to Bitcoin and what its structure means for custody, oversight and access through SIX Swiss Exchange.
+
+We'll also explore where Bitcoin might fit in a diversified portfolio and what institutional investors consider when making an allocation. You'll have time to ask the team behind BBIT your questions and exchange perspectives with fellow investors.
+
+The breakfast and lunch sessions cover the same topics. When registering, please select the ticket type for the session that best suits your schedule.
+
+Date - Thursday, 3 December 2026
+
+Location - Satellite Office Genève Hôtel de Banque, Rue de la Corraterie 5, 1205 Genève
+
+Breakfast session - 09:00-11:00
+
+- 09:00-09:15 - Guest arrival
+- 09:15-10:00 - Presentation
+- 10:00-11:00 - Q&A and networking
+
+Lunch session - 12:00-14:00
+
+- 12:00-12:15 - Guest arrival
+- 12:15-13:00 - Presentation
+- 13:00-14:00 - Q&A and networking
+
+<a id="event-4ec3e75b43596997"></a>
+
+## Tecnología que funciona
+
+- Record: `luma-crypto-A8j5AzngAWDgSGW`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-03T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/3q5gfz5p>
+
+### About the event
+
+¿Qué pasa cuando la innovación deja de ser una promesa y empieza a resolver problemas reales? El 3 de diciembre, los Clústers de Blockchain y de Transformación Digital de la Comunidad de Madrid se unen para demostrarlo con proyectos en marcha.
+
+### Agenda
+
+10:00 - 10:10: Bienvenida institucional y apertura de la jornada
+
+10:10 - 10:25: Caso de uso 1 - Consciencia Situacional
+
+Plataforma de integración de información y análisis de vídeo e imágenes aéreas para mejorar la seguridad, la vigilancia y la gestión de emergencias.
+
+10:25 - 10:40: Caso de uso 2 - Salud Integral
+
+Soluciones digitales para la mejora de la prevención, el seguimiento y la gestión de la salud desde una perspectiva integral.
+
+10:40 - 11:15: Mesa redonda: Innovación y transformación digital en los servicios públicos
+
+11:15 - 11:30: Café / Networking
+
+11:30 - 11:40: Caso de uso 3 - MadridToken
+
+Ayudas sociales de emergencia tokenizadas e integradas con la tramitación municipal sobre ISBE. Del expediente al pago, con trazabilidad completa.
+
+11:40 - 11:50: Caso de uso 4 - Credenciales verificables para el REA
+
+La inscripción en el Registro de Empresas Acreditadas como credencial digital que la empresa guarda en su wallet.
+
+11:50 - 12:00: Caso de uso 5 - Certificado de Tamaño Empresarial
+
+La condición de pyme acreditada como credencial verificable. La empresa la presenta en ayudas y licitaciones y se verifica en segundos, sin volver a aportar documentación.
+
+12:00 - 12:10: Conclusiones y cierre institucional
+
+Próximos pasos y oportunidades de colaboración.
+
+12:10 - 13:00: Cóctel / Networking
+
+Un rato distendido para seguir la conversación con ponentes, empresas y administraciones.
 
 <a id="event-539ae90d0d8b4d16"></a>
 
@@ -16528,6 +20406,93 @@ Team1 Türkiye Team1 Türkiye (https://x.com/Team1TUR?utm_source=luma), Avalanch
 IstanbulChain İstanbulChain (https://x.com/istanbulchain?s=11), İstanbul Üniversitesi merkezli, Web3, blokzincir ve finansal teknolojilere odaklanan bir öğrenci topluluğudur. Workshoplar, sektörel buluşmalar ve networking etkinlikleriyle öğrencilerin proje geliştirmelerini, sektörün öncü şirketleriyle bağlantı kurmalarını ve Web3 ekosisteminde aktif rol almalarını hedeflemektedir
 
 Girişim Hub Girişim Hub, İstanbul Üniversitesi öğrencilerini girişimcilik, inovasyon ve teknoloji ekosistemiyle buluşturan bir öğrenci topluluğudur. Eğitimler, atölyeler, networking etkinlikleri, yarışmalar ve sektör iş birlikleriyle öğrencilerin kişisel ve profesyonel gelişimlerini desteklerken, fikirlerin projelere ve projelerin somut etkiye dönüşmesini hedeflemektedir.
+
+<a id="event-2578be4bd6a97cd5"></a>
+
+## Heads Up Hackathon: Demo Day & Awards
+
+- Record: `luma-crypto-x2YUENTlvkUt4TX`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-03T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/inbw26dh>
+
+### About the event
+
+Demo Day and awards of the Heads Up Hackathon: a 7-day online build where developers bring the apps people use every day to Even Realities G2 smart glasses.
+
+Come see the best apps built for G2 in messaging, crypto, trading and AI, meet the teams, and try G2 yourself.
+
+Agenda (Dubai time)
+
+14:00 Doors open, networking
+
+15:00 Demo Day: finalists present, on site and online
+
+16:00 Awards and words from the organizers
+
+16:30 Even Realities G2 live demo, try the glasses
+
+17:00 Networking
+
+18:00 Close
+
+> Who should come: developers, founders, investors and anyone curious about smart glasses and the Telegram and crypto ecosystem.
+
+ㅤ
+
+Want to build?
+
+The hackathon runs online Nov 23-29, open worldwide. $10,000 prize pool plus G2 glasses. Join on DoraHacks: dorahacks.io/hackathon/even-realities (https://dorahacks.io/hackathon/even-realities)
+
+ㅤ
+
+Hosted by
+
+Even Realities - evenrealities.com (https://evenrealities.com)
+
+TVM Ventures - tvm.ventures (https://tvm.ventures/)
+
+Daos - daos.co (https://daos.co)
+
+Up to 100 guests, registration needs approval.
+
+See you at Daos Hub Dubai!
+
+<a id="event-6b2b63c23c297409"></a>
+
+## Bitcoin meetup #30: Bitcoinové dědictví: jak předat bitcoiny další generaci
+
+- Record: `luma-crypto-F2Xabi0c6pHFKZV`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-03T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ji03ut7a>
+
+### About the event
+
+Co se stane s vašimi bitcoiny, až tu jednou nebudete?
+
+Self-custody nám dává kontrolu nad vlastními bitcoiny. Zároveň ale přináší důležitou otázku: jak zajistit, aby se k nim v budoucnu dostali naši blízcí?
+
+Na dalším pražském meetupu Jednadvacet přivítáme Michaela Haase, seniorního produktového designéra v Trezoru. Společně se podíváme na bitcoinové dědictví, nástroje, které Bitcoin nabízí, a kompromisy mezi bezpečností, soukromím a jednoduchostí.
+
+Probereme:
+
+- Proč je dědictví důležitou součástí self-custody.
+- Časové zámky, multisig a podmínky pro utrácení bitcoinů.
+- Jak připravit přístup pro blízké, aniž bychom jim předali kontrolu příliš brzy.
+- Jak dědický plán udržovat při změně peněženky, klíčů nebo rodinné situace.
+
+Čekají vás praktické příklady, technický kontext a prostor na otázky. Univerzální řešení pro každého neexistuje, proto se budeme bavit i o omezeních a dlouhodobé správě takového plánu.
+
+Čtvrtek 3. prosince 2026
+
+18:00-21:30
+
+Cafe DECADA, Vacínova 876/10, 180 00 Praha 8-Libeň (Palmovka)
+
+Na akci je potřeba registrace.
 
 <a id="event-57aa0562320b15dd"></a>
 
@@ -16562,6 +20527,346 @@ Come celebrate the season with fellow builders, advocates, and friends of the DC
 
 We can't wait to see what you all show up in!
 
+<a id="event-d4ad868b93c6e15c"></a>
+
+## BitDevs CDMX 018 - Seminario Socrático Técnico de Bitcoin
+
+- Record: `luma-crypto-crUZhaXhAeSdLJK`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/02bin3ql>
+
+### About the event
+
+Este evento es un seminario socrático técnico, presentado por Gustavo Flores, director y fundador de Aureobitcoin.com (https://Aureobitcoin.com)y además es redactor del boletín técnico de Bitcoin más antiguo, Bitcoin Optech (https://bitcoinops.org/)
+
+Tradicionalmente, repasamos todas las noticias técnicas sobre Bitcoin que ocurrieron en el último mes.
+
+Echa un vistazo al programa de nuestros Bitdevs anteriores para que puedas tener una buena idea de qué esperar. https://www.cdmxbitdevs.org/
+
+Detalles del evento:
+
+Tema principal: Bitdevs #18 con Gustavo Flores Echaiz
+
+### Agenda
+
+6:00 - 7:00 PM → Registro y bienvenida
+
+7:00 - 8:30 PM → Presentación Bitdevs con Gustavo Flores Echaiz
+
+8:30 - 9:00 PM → Discusión y networking
+
+PD: BitDevs está orientado a desarrolladores y emprendedores que trabajan o desean empezar dentro del ecosistema Bitcoin, pero también está abierto a principiantes que quieran asistir a presentaciones más avanzadas y hacer preguntas que quizá dudarían en plantear en otros espacios.
+
+Patrocinado por AUREOBITCOIN.COM (https://AUREOBITCOIN.COM)
+
+aureobitcoin.com (https://aureobitcoin.com) Compra Bitcoin con Direct to Wallet (Lightning o on-chain), vende Bitcoin por pesos en segundos, accede a la mesa OTC para compras grandes de Bitcoin y atención personalizada para operaciones de hasta 20 millones de pesos por transacción.
+
+<a id="event-4444a589ff942bcf"></a>
+
+## JLlinkAI：AI × FinTech Innovation Summit 2026（2nd）
+
+- Record: `luma-crypto-BmI6WK10Oc0ZQlA`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ex7ulqcw>
+
+### About the event
+
+項目：JLlinkAI：AI × FinTech Innovation Summit 2026（第2回）
+
+日時：2026年12月4日 13:00-17:00
+
+会場：Tokyo Innovation Base（TiB）／東京都千代田区丸の内3-8-3
+
+規模：120～200名
+
+主催：JLinkAI、Buzz3、SmallWOD
+
+共同主催：Tokyo Generative AI
+
+プログラム
+
+12:30-13:00　受付
+
+13:00-13:15　オープニング講演｜JLinkAI（中国語）
+
+13:15-13:30　講演1（内容未定）
+
+13:30-14:15　パネル1｜世界のLLM動向とAI活用の実践（中国語）
+
+Infinigence AI（无问芯穹）、QwenWork（千問オフィス）、日本マイクロソフト、Audio Fish、晨羽ai（chenyu）
+
+14:15-14:30　講演2（内容未定）
+
+14:30-15:15　パネル2｜日本のAIの現状と今後の動向（日本語）
+
+伊藤忠総研、ai and Inc.、AI on Web3、Helloboss、SemoAI
+
+15:15-15:30　講演3｜AIショートドラマの実践事例（日本語）
+
+shiomon株式会社
+
+15:30-16:15　パネル3｜ステーブルコイン・RWA・AIの活用事例（日本語）
+
+モデレーター：CoinPost
+
+登壇：OKJ、Fenbushi、Datachain
+
+※ Gate Japan、Binance Japanは登壇依頼中です。
+
+16:15-16:30　講演4｜LinkoraChat：自分専用のAIキャリアアシスタント（中国語）
+
+16:30-17:00　ネットワーキング
+
+17:30-20:00　VIPディナー（招待制・会場は対象者に別途ご案内）
+
+協力メディア・コミュニティ
+
+Weibo JP、36Kr JP、Linkloud、Datawhale、观猹、Bonjour、极新、Tokyo online、CoinPost、ME、PANews、Foresight News、ChainCatcher（链捕手）、Odaily、TinTinLand、Techub News、1783DAO、BroadChain（博链）、ChainTimes（快链头条）、FXHO（非小号）
+
+※ プログラムおよび登壇者は変更になる場合があります。参加をご希望の方は、このページからお申し込みください。
+
+中文版：
+
+主题：JLlinkAI：AI × FinTech Innovation Summit 2026（2nd）
+
+时间：2026.12.4 13:00-17:00
+
+地点：Tokyo Innovation Base（TiB）／東京都千代田区丸の内3-8-3
+
+规模：120-200人
+
+主办方：JLinkAI、Buzz3、SmallWOD
+
+协办方：Tokyo Generative AI
+
+13:00-13:15，开场演讲：JLinkAI【中文】
+
+13:15-13:30，演讲1：待定
+
+13:30-14:15，圆桌一：全球LLM发展趋势与AI应用实践【中文】
+
+无问芯穹Infinigence AI、QwenWork千问办公、微软日本、Audio Fish、晨羽ai（chenyu）
+
+14:15-14:30，演讲2：待定
+
+14:30-15:15，圆桌二：日本AI发展的现状与趋势【日语】
+
+伊藤忠総研、ai and Inc.、AI on Web3、Helloboss、SemoAI
+
+15:15-15:30，演讲3：AI漫剧爆发的实践分享【日文】shiomon株
+
+15:30-16:15，圆桌三：稳定币+RWA+AI的应用实践【日语】CoinPost主持、OKJ、Fenbushi、Datachain、Gate Japan，邀约中；币安日本，邀约中；
+
+16:15-16:30，演讲4：LinkoraChat：打造你的专属 AI 职业助手【中文】
+
+16:30-17:00，Networking
+
+17:30-20:00，VIP晚宴（定邀，地址另行通知）
+
+合作媒体＆社区
+
+Weibo JP、36Kr JP、Linkloud、Datawhale、观猹、Bonjour、极新、Tokyo online、CoinPost、ME、PANews、Foresight News、链捕手ChainCatcher、Odaily、TinTinLand、Techub News、1783DAO、博链BroadChain、快链头条ChainTimes、非小号FXHO
+
+※ 日程及演讲嘉宾可能会有所变动。如欲参加，请通过本页面进行报名。
+
+<a id="event-ffe8939042cacc9b"></a>
+
+## OneCloud Digital Native Summit
+
+- Record: `luma-crypto-8VumgTPTEUmCUuh`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4z842tjx>
+
+### OneCloud Digital Native Summit: Scaling Across Borders
+
+Cloud Infrastructure - Cybersecurity - Databases - Web3 - Gaming
+
+Join OneCloud and three leading technology partners - AWS, Cloudflare, and OceanBase - for an afternoon of technology insights and industry networking.
+
+Designed for technology leaders, founders, and professionals across Web3 and digital businesses, the summit will explore emerging industry trends and how technology providers are responding to the evolving needs of digital businesses.
+
+Connect with industry peers, exchange perspectives, and explore new opportunities in Kuala Lumpur.
+
+Date: 4 December 2026
+
+Time: 1:00 PM - 6:00 PM
+
+Venue: Level 8, The Gallery, Le Méridien Kuala Lumpur
+
+Format: Industry Talks & Networking
+
+Language: Mandarin (Priority) & English
+
+Registration & Lunch: 1:00 PM onwards.
+
+### Who Should Join
+
+This summit is designed for professionals building, operating, or scaling digital-native businesses, including:
+
+- Founders, executives, and business leaders in the Web3 and gaming industries
+- CTOs, CIOs, and technology decision-makers
+- Cloud infrastructure, IT operations, and cybersecurity professionals
+- Data, database, and technology teams
+- Businesses and ecosystem partners exploring technology solutions and collaboration opportunities
+
+### Agenda
+
+1:00 PM - 2:00 PM - Registration & Lunch
+
+2:00 PM - 2:10 PM - Opening Remarks | OneCloud
+
+2:10 PM - 2:25 PM - VSTECS Sharing
+
+2:25 PM - 2:45 PM - Built for Spikes: AI-Ready, Cost-Smart Infrastructure for Games & Web3 | AWS
+
+2:45 PM - 3:05 PM - Secure by Default, Fast by Design: Protecting Players & Protocols | Cloudflare
+
+3:05 PM - 3:25 PM - Coffee Break
+
+3:25 PM - 3:45 PM - Data at Game Speed: Player Economies & On-Chain Activity | OceanBase
+
+3:45 PM - 4:05 PM - OneCloud Sharing
+
+4:05 PM - 4:30 PM - Lucky Draw & Closing Remarks
+
+4:30 PM - 6:00 PM - Networking
+
+### About the Organizers
+
+OneCloud
+
+OneCloud Technology Solutions is a global cloud services and technology solutions provider headquartered in Dubai and Kuala Lumpur. With 1,000+ clients across traditional industries, the internet sector, and Web3, OneCloud works with leading public cloud providers and technology partners to deliver secure, scalable, and tailored cloud solutions worldwide.
+
+Cloudflare Global Network
+
+Cloudflare's network connects directly with virtually every service provider and cloud provider, reaching 95% of the world's internet users within approximately 50 milliseconds. One of the world's largest networks - powering all services across data centers and delivering unmatched performance, security, and reliability. Every service runs in every data center. Your users get a fast, consistent experience -everywhere.
+
+OceanBase
+
+OceanBase is a distributed relational database built for mission-critical workloads, delivering scalability, high availability, performance and cost efficiency.
+
+Amazon Web Services (AWS)
+
+AWS provides one of the world's most comprehensive cloud platforms, helping businesses build and scale applications across cloud infrastructure, data and AI.
+
+VSTECS
+
+VSTECS is a leading ICT distributor in Malaysia, offering a wide range of technology products, cloud solutions, and value-added services through partnerships with global technology brands.
+
+### Registration
+
+Seats are limited. Register in advance to secure your spot.
+
+### OneCloud Digital Native Summit：跨境拓展，规模化增长
+
+云基础设施 - 网络安全 - 数据库 - Web3 - 游戏行业
+
+诚邀您与 OneCloud 及三大领先技术合作伙伴 AWS、Cloudflare 和 OceanBase 相聚吉隆坡，共度一个充满技术交流与行业交流的下午。
+
+OneCloud Digital Native Summit 2026 将汇聚来自 Web3 及游戏行业的企业创始人、管理层、技术决策者与行业专业人士，共同交流数字化行业的发展趋势，探讨技术与创新如何影响数字业务的未来，并建立有价值的行业联系。
+
+无论您正在规划海外市场拓展、应对不断变化的技术需求，还是希望建立新的行业联系，本次活动都将为您提供交流观点、拓展人脉及探索潜在合作机会的平台。
+
+日期： 2026年12月4日
+
+时间： 13:00-18:00
+
+地点： 8楼, The Gallery, Le Méridien Kuala Lumpur
+
+活动形式： 行业分享与交流
+
+活动语言： 中文（英文为辅）
+
+下午 1:00 起开放签到及午餐。
+
+### 适合参加的人群
+
+本次活动面向正在发展、运营或拓展数字业务的专业人士，包括：
+
+- 创始人、企业管理层及 Web3 和游戏行业的业务负责人
+- CTO、CIO 及其他技术决策者
+- 云基础设施、IT 运维与网络安全专业人士
+- 数据、数据库及相关技术团队
+- 寻求技术解决方案与生态合作机会的企业及行业伙伴
+
+### 活动议程（Agenda）
+
+1:00 PM - 2:00 PM - 嘉宾签到及午餐
+
+2:00 PM - 2:10 PM - 开场致辞 | OneCloud
+
+2:10 PM - 2:25 PM - VSTECS 主题分享
+
+2:25 PM - 2:45 PM - 应对流量高峰：面向游戏与 Web3 的 AI 就绪型高性价比基础设施 | AWS
+
+2:45 PM - 3:05 PM - 安全为先，性能至上：玩家与协议的安全防护 | Cloudflare
+
+3:05 PM - 3:25 PM - 茶歇
+
+3:25 PM - 3:45 PM - 高速数据处理：玩家经济体系与链上活动 | OceanBase
+
+3:45 PM - 4:05 PM - OneCloud 主题分享
+
+4:05 PM - 4:30 PM - 闭幕致辞
+
+4:30 PM - 6:00 PM - 自由交流与人脉拓展
+
+### 关于主办方
+
+OneCloud 云益科技
+
+OneCloud 云益科技是一家总部设于迪拜及吉隆坡的全球云服务与技术解决方案的服务商，专注于多云基础设施及相关技术服务。目前已服务超过1,000家来自传统行业、互联网及 Web3 领域的客户，并与全球领先的公有云平台及技术服务商建立合作伙伴生态，致力于通过安全、灵活且具成本效益的云与技术解决方案，支持企业数字化发展及全球业务拓展。
+
+Cloudflare Global Network
+
+Cloudflare 的全球网络与几乎所有服务提供商及云服务商直接互联，让全球约 95% 的互联网用户能够在约 50 毫秒内连接至其网络。作为全球规模最大的网络之一，Cloudflare 通过遍布各地的数据中心提供全面的服务，在性能、安全性与可靠性方面提供卓越保障。Cloudflare 的所有服务均在每个数据中心运行，确保用户无论身处何地，都能享有快速、稳定且一致的使用体验。
+
+OceanBase
+
+OceanBase 是一款面向关键业务场景打造的分布式关系型数据库，具备高扩展性、高可用性与高性能，同时兼顾成本效益，满足企业核心业务系统的数据库需求。
+
+Amazon Web Services (AWS)
+
+AWS 提供全球领先且功能全面的云平台，帮助企业利用云基础设施、数据及人工智能等技术，构建并扩展应用程序。
+
+VSTECS
+
+VSTECS 是马来西亚领先的 ICT 分销商，提供多元化的科技产品、云解决方案及增值服务，并与全球知名科技品牌建立合作伙伴关系。
+
+### 报名入场
+
+名额有限，请提前报名并确认出席。
+
+<a id="event-c104cd98b3c23ba4"></a>
+
+## THE NEX•T DUBAI 2026
+
+- Record: `luma-crypto-vTbLiNFwj9EHIFs`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/a5vb3yks>
+
+### About the event
+
+SHAPING THE FUTURE OF GLOBAL DIGITAL ASSET MARKETS
+
+The next chapter of Web3 brings on-chain innovation to global markets.
+
+THE NEX-T DUBAI 2026 is NEX Exchange's strategic summit for global partners.
+
+In Dubai, NEX will convene institutional partners, liquidity providers, and Web3 builders from across markets to explore how exchanges can connect digital assets with global liquidity and expand access to trading.
+
+The summit will focus on the next phase of NEX's global strategy, with discussions on expansion into priority markets, cross-market liquidity partnerships, and integration between trading platforms and on-chain infrastructure.
+
+NEX looks forward to setting shared priorities and identifying projects that partners can advance together to bring Web3 innovation to more markets.
+
 <a id="event-be5372480e4ba1bb"></a>
 
 ## TBB First Friday
@@ -16592,6 +20897,44 @@ Date & Time: Friday, December 4th, 18:30 - 20:30Location: Tokyo Bitcoin Base, 2n
 
 Pro tip: We highly recommend grabbing what you need at the convenience store or supermarket inside COMORE Yotsuya, just a 1-minute walk from TBB. First-timers are warmly welcomed! If you're thinking, "I don't know much about the technical stuff, but I'm curious," or "I don't have anyone to talk to about Bitcoin," this event is exactly for you! This is a great chance to experience the real-world culture of Bitcoin that you just can't get from staring at charts and screens. Come down and feel the warmth of the growing Bitcoin community right here in Yotsuya.
 
+<a id="event-27230069631e0163"></a>
+
+## 🥂 Fintech News Media Roast: Surviving the Cycles
+
+- Record: `luma-crypto-oWxpYgQmUkL2kPw`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/6ecmkrzm>
+
+### About the event
+
+Media Roast: Surviving the Fintech Cycles
+
+TGIF! It's time to clock out, grab a drink, and playfully roast the very industry that keeps us all up at night. Join us for a completely unfiltered Media Roast, where we are laying bare the scars of the fintech and digital capital cycles alongside a delightfully chaotic mix of inquisitive journalists, tech geeks, and Central professionals - from finance veterans to lawyers and everything in between.
+
+Settle in and watch the iconic Hong Kong skyline change colors and light up the night, all while we unpack the hypes, crashes, and survival tactics of the modern financial era with a healthy dose of humor.
+
+The Panel: Surviving the Cycles: Media OGs & Legal Pioneers on What Actually Blew Up
+
+- The Discussion: A rare, filter-free fireside chat featuring fintech media veterans, legal trailblazers, and tech columnists. Combined, this panel carries decades of experience chronicling blockchain and setting legal precedents. From navigating legendary scandals to executing landmark litigation, they are laying bare the realities of the industry. What actually built trust, and what content and business models went straight to zero?
+- The Takeaway: The ultimate, unfiltered post-mortem on building influence, setting regulatory frameworks, and reporting the truth in the world's most volatile financial and psychological experiment.
+
+Open Floor: Toastmasters Tech Talk Following the panel, the event will transition into an interactive session using Toastmasters' "Table Topics" structure led by Eric Xie from Tech Talk Toastmasters. This dynamic format invites attendees to engage in rapid-fire debates on the most contentious questions facing today's fintech and blockchain landscapes. The format is designed to surface real-world tensions that polished panels often sidestep, adding a layer of unpredictability that mirrors the technology itself.
+
+Date & Time: Friday, December 4 | 6:30 PM - 9:00 PM Location: IFC II, Central, Hong Kong
+
+Featuring:
+
+- Siegfried Sin - South China International Arbitration Center (HK) (SCIAHK)
+- Joshua Chu - Media Pundit & Columnist, HK Web3 Association
+- Candice Burin - Co-Founder, Money Velocity
+- Emil Chan - Fintech and Tech Columnist
+- Joe Pan - Moderator (Editor & Producer, Blockwind News)
+- Eric Xie - Facilitator, Tech Talk Toastmasters
+
+Drinks and light refreshments will be served. Space is strictly limited - RSVP to secure your spot.
+
 <a id="event-8194fa3d1bd4faff"></a>
 
 ## #KriptoCuma - #CryptoFriday
@@ -16607,6 +20950,142 @@ Pro tip: We highly recommend grabbing what you need at the convenience store or 
 #KriptoCuma Nedir? Yeni insanlarla tanışıp, çok farklı bakış açılarını yakalayabileceğiniz buluşmalarımıza kriptoyla ilgilenen herkes davetli. Öncelikle keyif alıyoruz. Çok şey öğreniyoruz, en önemlisi de sanalda kalmıyor arkadaşlıklarımız, dostluklarımız 3-4 saat boyunca çevrende ayni dili konuşan insanların olması kendini iyi hissettiriyor.. Gel, sende bir iyilik yap kendine, bir Cuma katil bize.. #KriptoCuma her Cuma Saat 19:00'da Kadiköy Altcointurk | Base'de Kripto Para, NFT ve Blockchain teknolojisi ile ilgilenen farklı kültür ve coğrafyadan insanları ayrım yapmadan #KriptoCuma etkinliğinde bir araya getiriyoruz
 
 What is #CryptoFriday ? Even though it's very rare to see physical meetups in the crypto world, we, as a community, have been enjoying our conversations since 2018. Anyone interested in cryptocurrency and blockchain world, meeting new people, different point of views and having fruitful conversations about the market is invited to #CryptoFriday #CryptoFriday every Friday on 19:00 at Altcointurk | Base, Kadıköy
+
+<a id="event-27d25a997321f741"></a>
+
+## Agentic Payments Korea
+
+- Record: `luma-crypto-AZpIMxq97iDKNFG`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-07T09:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/o7uxaja6>
+
+### About the event
+
+XRP 생태계와 AI 에이전트 결제의 다음 가능성을 서울에서 만나보세요.
+
+t54가 주최하고 XRP Asia, XRPL Korea를 비롯한 리플 생태계의 플레이어 Arco, City Protocol, Elephants, Tria, Evernorth, Wellbian, Soil, SIVAX, Wave Bridge, Time Leverage가 함께하는 이번 밋업은 2026년 10월 XRP Asia의 출범을 기념하며 아시아 내 가장 핵심 지역 중 하나인 서울에서 XRP/XRPL 커뮤니티, 빌더, 기술 기업, 금융 업계 관계자들이 모여 AI 에이전트가 결제를 실행하는 미래와 XRP/XRPL의 역할을 살펴보는 자리입니다.
+
+XRP 생태계의 다양한 팀들과 새로운 결제 기술의 가능성을 탐색하고, XRP를 기반으로 빌딩하고 있는 빌더들과 만나보세요.
+
+프로그램
+
+18:30 - 18:40 리셉션
+
+18:40 - 18: 45 행사 소개 및 파트너사 소개
+
+18:45 - 18:55 Introducing XRP Asia (Sabrina Tachdjian, XRP Asia 대표)
+
+18:55 - 19:05 에이전트 이코노미의 서막 (정지연, t54 Labs APAC 리드)
+
+19: 05 - 19:15 AI 에이전트와 자산운용의 미래 (Joseph Choi, Arco 코파운더)
+
+19: 15 - 19:25 Agentic Commerce에서 Agentic Investment로: 구조화상품으로 확장하는 AI 투자 (Johnny Youn, SIVAX 제품 리드)
+
+19:25 - 19:35 AI 결제, 어디까지 맡길 수 있을까? (Jake Ku, XRPL 그로스 리드)
+
+19:35 - 19:40 날씨를 사는 기계들 - 에이전트 결제와 날씨 경제가 만나는 자리 (김성환, Wellbian Labs 대표)
+
+19:40 - 19:50 쉬는시간
+
+19:50 - 20:00 다가오는 AI Agent시대 무엇에 집중해야 하는가 (문창훈, 타임레버리지 대표)
+
+20:00 - 20:10 When AI Initiates Payments: Connecting Assets to Services (Inch Jeong, Tria 한국 리드)
+
+20:10 - 20:20 TBD (이지훈, Wave Bridge COO)
+
+20:20 - 20:30 Employee-0. Why agentic payments means the death of platforms which is a good thing (Jonathan Low, Elephants 대표)
+
+20:30 - 20:40 What's next for City Protocol in agentic era (Kyle Leung, City Protocol CBO)
+
+20:40 - 20:50 기관 규모로 확장하는 디지털 자산 (Sagar Shah, Evernorth CBO / 영상 시청)
+
+20:50 - 21:30 자유 네트워킹
+
+이런 분들을 기다립니다
+
+XRP/XRPL 생태계에 관심 있는 커뮤니티 멤버, AI-블록체인 서비스를 만드는 빌더, 새로운 결제 기술을 탐색하는 기술 기업 및 금융 업계 관계자 여러분을 환영합니다. 빌더가 아닌 분들 및 기술을 잘 모르시지만 관심이 있으신 분들도 신청 가능합니다.
+
+일시
+
+12월 7일 - 오후 6:30-9:30 (KST)
+
+주최 - t54 Labs
+
+저녁 식사가 제공됩니다.
+
+Explore what's next for the XRP ecosystem and AI agent payments in Seoul.
+
+Hosted by t54 and joined by XRP Asia, XRPL Korea, and other teams including Arco, City Protocol, Elephants, Tria, Evernorth, Wellbian, Soil, SIVAX, Wave Bridge, Time Leverage across the Ripple ecosystem, this meetup celebrates the October 2026 launch of XRP Asia. Taking place in Seoul, one of Asia's key hubs, the event brings together the XRP/XRPL community, builders, technology companies, and finance professionals to explore a future where AI agents execute payments - and the role of XRP/XRPL.
+
+Explore new possibilities in payment technology with teams across the XRP ecosystem and connect with builders developing on XRP.
+
+### Program
+
+18:30-18:40 - Reception
+
+18:40-18:45 - Welcome and Partner Introductions
+
+18:45-18:55 - Introducing XRP Asia
+
+Sabrina Tachdjian, President of XRP Asia
+
+18:55-19:05 - The Dawn of the Agent Economy
+
+Claire Jung, APAC Lead of t54 Labs
+
+19:05-19:15 - AI Agents and the Future of Asset Management
+
+Joseph Choi, Co-Founder of Arco
+
+19:15-19:25 - From Agentic Commerce to Agentic Investment: Expanding AI Investing into Structured Products
+
+Johnny Youn, Product Lead of SIVAX
+
+19:25-19:35 - How Much Can We Let AI Pay?
+
+Jake Ku, Growth Lead of XRPL Korea
+
+19:35-19:40 - Machines That Buy Weather: Where Agent Payments Meet the Weather EconomySunghwan Kim, CEO of Wellbian Labs
+
+19:40-19:50 - Break
+
+19:50-20:00 - What Should We Focus on in the Coming Era of AI Agents?Changhoon Moon, CEO of Time Leverage
+
+20:00-20:10 - When AI Initiates Payments: Connecting Assets to Services
+
+Inch Jeong, Korea Lead of Tria
+
+20:10-20:20 - TBD
+
+Jihoon Lee, CBO of Wave Bridge
+
+20:20-20:30 - Employee-0: Why Agentic Payments Mean the Death of Platforms - and Why That's a Good Thing
+
+Jonathan Low, CEO of Elephants
+
+20:30-20:40 - What's next for City Protocol in agentic era
+
+Kyle Leung, CBO of City Protocol
+
+20:40 - 20:50 - Digital Assets at Institutional Scale
+
+Sagar Shah, CBO of Evernorth (Recorded Video)
+
+20:40-21:30 - Open Networking
+
+### Who Should Attend
+
+We welcome community members interested in the XRP/XRPL ecosystem, builders developing AI and blockchain services, and professionals from technology companies and the financial sector exploring new payment technologies. You don't need to be a builder or have a technical background - anyone with an interest is welcome to register.
+
+Date & Time
+
+December 7, 2026 - 6:30-9:30 PM (KST)
+
+Hosted by - t54
+
+Dinner will be provided.
 
 <a id="event-b747908dcbd07600"></a>
 
@@ -16632,6 +21111,550 @@ Free Capacity: 50 participants How to register: Please sign up via this Luma eve
 
 CORGEAR Night CORGEAR Nightは、Web3業界で注目を集めるゲストをお迎えしつつ、参加者どうしが気軽に語り合う交流会です。ここでの議論や出会いが、次の取り組みのきっかけになるような場を目指しています。 コーギア株式会社 コーギア株式会社は、テクノロジーとエンタメで社会課題を解く、ソニーグループ発のスタートアップです。人が関わりたくなる設計が、技術を社会に根づかせる。これを原点に、自社プロダクトを開発しながら、企業の事業開発を支援しています。新規事業開発、地域創生、海外事業者の日本展開など、領域を問わず、構想から実装までを見通した事業づくりを、パートナーとともに進めます。 コーギア（株）：https://www.corgear.co. jp/
 
+<a id="event-a90825da6ace2c18"></a>
+
+## Privacy as a Feature: a abordagem da Stellar para privacidade onchain
+
+- Record: `luma-crypto-adMGPPQCUQehNTH`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-07T21:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2h8kzpo2>
+
+### About the event
+
+Por que transparência total trava a adoção institucional: o que folha de pagamento, tesouraria e liquidação entre empresas não podem expor numa blockchain pública.
+
+Privacidade como feature, não como chain: por que a Stellar mantém a base transparente e deixa a privacidade como camada opt-in e configurável por ativo e por aplicação.
+
+As peças de ZK no protocolo: como as primitivas nativas do upgrade X-Ray (BN254 e Poseidon) e os verificadores ZK onchain viabilizam provas de conhecimento zero direto nos smart contracts.
+
+Dois modelos de privacidade, lado a lado: Confidential Tokens, que escondem saldos e valores, e Privacy Pools (Stellar Private Payments), que escondem também quem paga e quem recebe.
+
+Compliance sem abrir tudo: view keys, divulgação seletiva, association sets e controles do emissor, com privacidade para o público e visibilidade sob medida para auditores e reguladores.
+
+Quem já está construindo: OpenZeppelin, Nethermind, Arcane e Remi, e os anúncios de privacidade do Meridian 2026.
+
+Como escolher e começar: um guia rápido para decidir o nível de privacidade de cada caso de uso e por onde começar a construir.
+
+PROGRAMAÇÃO
+
+18h00 Credenciamento e networking
+
+18h40 Abertura
+
+19h00 Privacy as a Feature: privacidade onchain na Stellar
+
+20h30 Bate-papo
+
+21h15 Encerramento
+
+21h30 Happy hour com pizza
+
+HACKATHON E BOUNTIES
+
+Durante a Semana da Inovação acontece também o Caatinga Latam, com bounties presenciais e online.
+
+https://bounties.grantfox.xyz/events/caatinga-bounties?tab=bounties (https://bounties.grantfox.xyz/events/caatinga-bounties?tab=bounties&utm_source=luma)
+
+Inscrição
+
+Evento gratuito e presencial, com vagas limitadas. A inscrição está sujeita a aprovação: você recebe a confirmação por e-mail.
+
+Na entrada
+
+Apresente o QR code do Luma para o check-in
+
+Fotos e vídeos
+
+Este evento será fotografado e filmado. As imagens podem ser usadas na divulgação do programa. Se preferir não aparecer, avise a equipe na entrada
+
+Bebidas
+
+Bebida alcoólica servida apenas para maiores de 18 anos
+
+Este evento faz parte da Semana da Inovação e é uma iniciativa do Programa de Embaixadores Stellar, em parceria com a NearX Brasil.
+
+<a id="event-6908292c5e30d2c3"></a>
+
+## Reap Private Table · São Paulo
+
+- Record: `luma-crypto-Gc5KVD423P9HlGl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-07T22:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/o81xy2ep>
+
+### About the event
+
+Reap Private Table - São Paulo
+
+Um jantar privado que reúne líderes para conversar sobre stablecoins, programas de cartões e o futuro dos pagamentos empresariais.
+
+O Brasil é um dos mercados de pagamentos mais avançados do mundo, e as stablecoins já fazem parte do dia a dia de empresas que operam entre países. Nesta noite, reunimos founders e executivos para trocar experiências sobre como essa infraestrutura está mudando a forma de pagar, receber e escalar na região.
+
+O que te espera:
+
+- Uma conversa aberta e sem palco entre líderes de fintech, pagamentos e cripto
+- Um jantar de autor em um dos restaurantes mais icônicos de São Paulo
+- Networking de alto nível em um grupo reduzido
+
+A conversa segue a Chatham House Rule.
+
+Evento privado, somente para convidados. O endereço será compartilhado com os participantes aprovados.
+
+-
+
+A private dinner bringing leaders together to discuss stablecoins, card programs and the future of business payments.
+
+Brazil is one of the most advanced payments markets in the world, and stablecoins are already part of daily operations for companies working across borders. Tonight we bring together founders and executives to share how this infrastructure is changing the way businesses pay, get paid and scale in the region.
+
+What's in store:
+
+- An open, no-stage conversation among fintech, payments and crypto leaders
+- A chef-driven dinner at one of São Paulo's most iconic restaurants
+- High-level networking in a small group
+
+The conversation follows the Chatham House Rule.
+
+Private, invitation-only event. The address will be shared with approved guests.
+
+<a id="event-91706bb5021252c5"></a>
+
+## Founders, Funding & the Future of Money: Geneva End-of-Year Soirée
+
+- Record: `luma-crypto-bOviqAGwwNWmrVE`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-08T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/y59h5k2m>
+
+### About the event
+
+Five women. One stage. Real talk about money.
+
+Sisterpreneurs, Pink Money Club & Women in Web3 Switzerland invite you to close the year together.
+
+18:00 - Panel: Entrepreneurship, Fundraising & Crypto
+
+with Jennifer Herod, Pouneh Bligaard, Éléonore Thomas, Sandrine Debetaz and Geraldine Monchau-Richard.
+
+→ What investors want to see in 2026
+
+→ Routes to capital beyond VC
+
+→ Tokenization as a real fundraising tool
+
+→ Raising as a woman founder
+
+Then: Apéro with a champagne tasting by Rendez-Vous, a house founded by a woman, and a DJ to end the night.
+
+A brand-new cocktail bar in downtown Geneva, revealed to registered guests
+
+Good to know
+
+- Limited capacity, waitlist when full
+- VIP free with code
+
+Partners: Dragonfly - DYN Group - Swisschain
+
+<a id="event-aa620a3fe3eebbc5"></a>
+
+## Tokenize Connect: Tokenização de ativos
+
+- Record: `luma-crypto-ezAA3MxsQ2IaHUg`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-08T18:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/t971qmpj>
+
+### About the event
+
+Transformar um ativo real em token parece simples no papel: escreve o contrato, emite o token e pronto. Na prática, o desafio está no resto: como representar direitos de verdade onchain, controlar quem pode ter e negociar o ativo, integrar com o mundo financeiro e manter tudo funcionando sob regras reais. Nesta tarde, vamos abrir a tokenização por dentro, do conceito ao código, e mostrar como a rede Stellar foi pensada para emitir e movimentar ativos do mundo real.
+
+O QUE VOCÊ VAI VER
+
+- Tokenização na prática: que tipos de ativos estão sendo tokenizados e que problema isso resolve
+- Como funciona por dentro: emissão, controle de acesso, transferências e o ciclo de vida de um ativo onchain
+- Um caso real explicado passo a passo, do modelo de negócio ao código
+
+PROGRAMAÇÃO
+
+15h00 Credenciamento e networking
+
+15h20 Abertura
+
+15h30 Tokenize Night: Tokenização de ativos
+
+16h30 Bate-papo e perguntas
+
+17h15 Encerramento
+
+17h30 Networking com pizza
+
+HACKATHON E BOUNTIES
+
+Durante a Semana da Inovação acontece também o Caatinga Latam, com bounties presenciais e online.
+
+https://bounties.grantfox.xyz/events/caatinga-bounties?tab=bounties (https://bounties.grantfox.xyz/events/caatinga-bounties?tab=bounties&utm_source=luma)
+
+Inscrição
+
+Evento gratuito e presencial, com vagas limitadas. A inscrição está sujeita a aprovação: você recebe a confirmação por e-mail.
+
+Na entrada
+
+Apresente o QR code do Luma para o check-in
+
+Fotos e vídeos
+
+Este evento será fotografado e filmado. As imagens podem ser usadas na divulgação do programa. Se preferir não aparecer, avise a equipe na entrada
+
+Bebidas
+
+Bebida alcoólica servida apenas para maiores de 18 anos
+
+Este evento faz parte da Semana da Inovação e é uma iniciativa do Programa de Embaixadores Stellar, em parceria com a NearX Brasil.
+
+<a id="event-91cdb208886536ff"></a>
+
+## ブロックチェーン・ハッカソン 2026 \| XRPL Hackathon at Blockchain Kaigi 2026 (Tokyo)
+
+- Record: `luma-crypto-Pw2KHoEp30Hlsz4`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-09T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/l55q8bdw>
+
+### About the event
+
+============== English Follows ==============
+
+### ブロックチェーン・ハッカソン 2026
+
+ハッカソンのテーマ：期限付き支援による災害救援金の給付
+
+参加チームは、災害救援金を XRP Ledger（XRPL）上でプログラム可能・期限付き・監査可能な支援に変え、Ripple USD（RLUSD）で決済する、実際に動作する概念実証（PoC）を構築します。目指すのは、検証済みの被災者に支援が数か月ではなく数分で届き、1円・1ドルに至るまで端から端まで追跡でき、使われない資金が滞留せず自動的に再循環することを示すデモです。
+
+地震、洪水、サイクロン、熱波の後、支援は遅く、不透明で、しばしば漏れが生じます。例えば、カナダでは災害支援が全額行き渡るまでに平均で約7年かかります。ドイツ・アール渓谷の300億ユーロの基金は、5年が経過しても配分済みは5分の1にとどまりました。米国連邦緊急事態管理庁（FEMA）は、本人確認と住所確認を事前に行わなかったため、ハリケーン・カトリーナおよびリタの申請において推定10億ドル（16%）を不適切または不正に支払いました。2024年の能登半島地震の後、石川県当局は支援を必要とする人を特定できませんでした。
+
+### PoCは、以下の4つの失敗モードに対処する必要があります。
+
+- スピード
+- 現状の問題点：被害認定・申請・承認が逐次的かつ手作業で行われる
+- PoCで示すべきこと：コード化されたルールに基づく数分以内の給付
+- 対象の特定と漏出
+- 現状の問題点：本人確認・住所確認が事前に行われない、あるいは確認が過剰で何も支払われない
+- PoCで示すべきこと：被災者データベースと照合した、本人確認に紐づく受給資格の判定
+- ドナーにとっての不透明性
+- 現状の問題点：資金がプールされ、どのドナーも自らの資金の行き先を示せない
+- PoCで示すべきこと：同一の受益者に届く各ドナー層の資金を個別に追跡可能
+- 資金の滞留
+- 現状の問題点：未請求の配分が、機能していない事業の中に固定されたままになる
+- PoCで示すべきこと：期限付きの配分が自動的に失効し、返還される
+
+### 実装すべき4つのレイヤーは以下のとおりです。
+
+受給資格の検証。AIを活用した被害オラクルが、衛星・地理空間データによる評価（浸水範囲、震度、地表面温度）を、地上センサー、気象データ、位置情報付きの報告と統合し、ゾーンごとの被害スコアを算出します。模擬的な政府デジタルIDの照合により、申請者が被災ゾーンに居住していることを確認します。
+
+プログラム可能な給付。XRPLのエスクローが、プログラムごとのルール（基本給付金、世帯あたりの上限、被害度に応じた区分、繰り返し被災した世帯への上乗せ）に従い、所定額のRLUSDを検証済みのウォレットに払い出します。
+
+多層的なドナー資金フロー。国、都道府県、国際ドナーからの拠出金は、それぞれ固有の条件（地域、被災者区分、利用期間、使途）を伴い、個別に追跡可能な状態を保ったまま同一の受益者に決済されます。
+
+失効と返還。すべての配分には期限があります。請求されなかったエスクロー資金は、期間終了時にプールまたは拠出元のドナーに返還されます。これこそが、本設計を単なる「速い銀行振込」と区別する特徴です。
+
+### シナリオの例。いずれかを選ぶか、独自のシナリオを提案してください。
+
+- 都市型地震：震度に基づくゾーンのスコアリング、高齢者や通信環境の乏しい受益者、繰り返し被災した場合の上乗せ給付、オフラインまたは代理による請求
+- 河川洪水：迅速な少額給付と時間を要する高額給付を同一の基盤上で実行、条件の異なる市町村・州・連邦の各層
+- 沿岸暴風雨：不正の圧力下での大量給付、重複する2つの災害にまたがる二重申請の検知
+- 熱波：事前に特定された脆弱層、行動を促す少額給付、数日単位の失効期間、大規模な返還
+
+### 成果物の目安
+
+Testnetにデプロイされた、XRPLのエスクローおよび決済ロジック。テスト用資金はXRPLフォーセット（xrpl.org/resources/dev-tools/xrp-faucets）から取得できます。 (https://xrpl.org/resources/dev-tools/xrp-faucets）から取得できます。)
+
+被害オラクルとIDブリッジ（使用したデータソースと、統合・スコアリングの手法を含む）
+
+条件の異なる2者以上のドナーを扱う、多層ドナー・ルールエンジン
+
+配分・給付・失効・返還を表示する、ドナーおよび管理者向けダッシュボード
+
+前提条件、脅威モデル、および実運用に必要となる条件についての簡潔な説明文書
+
+チームは、従来の決済システムでは同等に実現できない働きをXRPLのどのプリミティブが担っているのかを、一文で説明できる必要があります。データベース上でも同じように動作するソリューションは減点されます。
+
+参加条件
+
+本ハッカソンは、居住地を問わずどなたでも参加できます。参加登録は必須で、リモート参加も可能です。
+
+チームは1～6名で構成し、産業界と学術界のメンバーの混成も可能です。チームの全メンバーは、共通のチーム名でLumaに個別に登録してください。
+
+すべての参加者は、オープニング、ピッチ、クロージングの各セッションに必ず対面で出席しなければなりません。
+
+PoCはXRPLプロトコルを使用し、XRPL Testnet上にデプロイしてください。メインネットでの価値の移転は禁止です。
+
+チームは、審査員による審査のため、デモの画面録画（3～5分）を提出しなければなりません。
+
+課題の4つのレイヤー（受給資格の検証、プログラム可能な給付、多層的なドナー資金フロー、失効と返還）のすべてがデモ動画に含まれている必要があり、少なくとも1回は失効と返還を実演してください。
+
+チームは、コードベースのGitHubリポジトリのリンクを、前提条件と脅威モデルに関する説明文書とともに共有しなければなりません。
+
+仮想マシンまたはコンテナ化されたビルドを推奨します。審査時のデプロイ作業を最小限に抑えたソリューションは、特に考慮されます。
+
+審査員は、オフチェーンのロジックへの依存を最小限に抑えたうえでの機能の網羅性を評価します。ID情報には、模擬データまたは合成データのみ使用できます。
+
+参加登録とスケジュール
+
+- 12月1日 23:59：参加登録締切
+- 12月9日 14:00～16:40：ハッカソン・キックオフ
+- 12月10日～11日 10:30～17:00：コーディングセッション（メンターアワーあり）
+- 12月11日 23:59：提出締切
+- 12月12日 11:00～11:40：選抜された10チームによるピッチ
+- 12月12日 12:50～13:20：ハッカソン表彰式
+
+時刻はすべて日本標準時（JST、UTC+9）です。
+
+XRPLプロトコルについて
+
+XRP Ledgerは、決済のために設計された、パブリックかつ分散型のレイヤー1ブロックチェーンです。トランザクションは3～5秒で決済され、確定的なファイナリティを備えています。つまり、トランザクションは確定するか失効するかのいずれかであり、保留状態のまま残ることはありません。手数料は1セントに満たず、事前に把握できます。
+
+以下のリソースは、開発を始める際やハッカソン期間中に役立ちます。
+
+XRPLでのコーディングを学ぶ：learn.xrpl.org (https://learn.xrpl.org)
+
+ドキュメント、およびTestnet・Devnetのフォーセット：xrpl.org (https://xrpl.org)
+
+XRPL Commons（コミュニティ、GitHub、YouTubeチャンネル）：xrpl-commons.org (https://xrpl-commons.org)
+
+XRPL Developer Discordでは、ハッカソン期間中にプロトコルに関する質問ができます。
+
+XRPLの基礎：docs.xrpl-commons.org/xrpl-basics (https://docs.xrpl-commons.org/xrpl-basics)
+
+また、Rippleが2026年6月9日に公開したXRPL AI Starter Kit（Agentic Transactions）も活用できます。AIエージェントやAIを活用する開発者が、コーディングツールから直接、XRPLのウォレットと決済を構築し、資金を供給し、運用できるようにするものです。詳細は https://xrpl.org/resources/dev-tools/ai-tools をご覧ください。
+
+賞
+
+12月12日にピッチを行う10チームの中から、3チームの受賞者が選ばれます。
+
+1位：$2,500
+
+2位：$1,500
+
+3位：$1,000
+
+ピッチを行う10チームすべてに参加証明書が授与されます。
+
+主催・協賛
+
+本ハッカソンは、京都ブロックチェーン研究センター，京都大学大学院総合生存学館，千葉工業大学が共催し、アジア太平洋地域におけるXRP Ledgerエコシステムの成長支援に取り組む非営利団体XRP Asiaの協力を得て開催されます。賞金はRippleの提供によるものです。
+
+会場
+
+本ハッカソンは、2026年12月9日～12日に千葉工業大学 東京スカイツリータウンキャンパス（東京ソラマチ8階、東京都）で開催されるBlockchain Kaigi 2026（https://www.blockchainkyoto.org/en/bck26）のサテライトイベントです。
+
+お問い合わせは、Rafik HADFI（rafik dot hadfi at i.kyoto-u.ac.jp (https://i.kyoto-u.ac.jp)）までご連絡ください。
+
+### Hackathon Theme: Disaster Relief Disbursement with Time-Bound Aid
+
+Teams build a working proof of concept that turns disaster relief money into programmable, expiring, auditable aid on the XRP Ledger (XRPL), settled in Ripple USD (RLUSD).
+
+The success consists in a demo in which aid reaches a verified survivor in minutes rather than months, every yen or dollar must be traceable end to end, and idle money recycles itself instead of sitting in a backlog.
+
+After earthquakes, floods, cyclones and heatwaves, aid is slow, opaque and often leaky.
+
+For example, full disaster aid takes about seven years on average to flow in Canada.
+
+The €30 billion Ahr valley fund was one-fifth allocated five years on.
+
+FEMA paid an estimated $1 billion (16%) in improper or fraudulent Katrina/Rita claims because identity and address were never validated upfront.
+
+After the 2024 Noto earthquake, Ishikawa authorities could not identify who needed help.
+
+Your proof of concept must address the four following failure modes:
+
+1.
+
+Speed
+
+- Problem: Assessment, application and approval are sequential and manual
+- What the PoC must show: Release within minutes under encoded rules
+
+2.
+
+Targeting and leakage
+
+- Problem: No upfront identity or address validation, or so much that nothing is paid
+- What the PoC must show: Identity-linked eligibility resolved against a victim database
+
+3.
+
+Donor opacity
+
+- Problem: Pooled funds, no donor can show where its money landed
+- What the PoC must show: Each donor layer separately traceable to the same beneficiary
+
+4.
+
+Idle capital
+
+- Problem: Unclaimed allocations stay locked in dead programmes
+- What the PoC must show: Time-bound allocations that expire and revert automatically
+
+The four layers to implement are:
+
+1.
+
+Verified eligibility.
+
+An AI-assisted damage oracle fuses satellite and geospatial assessments (flood extent, shake intensity, land surface temperature) with ground sensors, weather and geolocated reports into a per-zone damage score.
+
+A mock government digital identity check confirms the claimant lives in an affected zone.
+
+2.
+
+Programmable disbursement.
+
+XRPL Escrow releases a defined RLUSD amount to the verified wallet under per-programme rules: base grants, household caps, severity tiers, top-ups for repeat-hit households.
+
+3.
+
+Layered donor flows.
+
+National, prefectural and international donor contributions each carry their own conditions (geography, victim category, spending window, permitted use) and settle into the same beneficiary while staying separately traceable.
+
+4.
+
+Expiry and reversion.
+
+Every allocation is time-bound.
+
+Unclaimed escrowed funds revert to the pool or originating donor when the window closes.
+
+This is the feature that distinguishes the design from a faster bank transfer.
+
+Tracks and example scenarios (pick one or propose your own)
+
+### Track 1
+
+Urban earthquake
+
+Zone scoring from shake intensity, elderly and low-connectivity beneficiaries, repeat-disaster top-ups, offline or delegated claiming
+
+### Track 2
+
+Riverine flood
+
+Fast small grant and slow large tranche on one rail; municipal, state and federal layers with different conditions
+
+### Track 3
+
+Coastal storm
+
+High-volume disbursement under fraud pressure; duplicate-claim detection across two overlapping disasters
+
+Tack 4.
+
+Heatwave
+
+Pre-identified vulnerable cohort, small behavioural payouts, days-long expiry windows, reversion at scale
+
+Suggested deliverables
+
+- XRPL escrow and settlement logic deployed on Testnet.
+
+Test funds can be obtained from the XRPL faucet at xrpl.org/resources/dev-tools/xrp-faucets (https://xrpl.org/resources/dev-tools/xrp-faucets).
+
+- Damage oracle and identity bridge, with data sources and the fusion or scoring method used
+- Layered-donor rule engine with at least two donors carrying different conditions
+- Dashboard for donors and administrators showing allocation, release, expiry and reversion
+- Short written note on assumptions, threat model, and what would need to be true for a real deployment
+
+Teams should be able to state in one sentence which XRPL primitive does work that a conventional payment system cannot do as well.
+
+Solutions that would run equally happily on a database will be marked down.
+
+### Participation Criteria
+
+The hackathon is open to all, regardless of geographic location.
+
+Registration is mandatory, and remote participation is allowed.
+
+- The teams may have up to 1-6 members and may mix industry and academia.
+
+All team members register individually on Luma under a common team name.
+
+- All participants MUST attend the opening, pitching, and closing sessions in person.
+- The proof of concept must use the XRPL protocol, deployed on XRPL Testnet.
+
+No mainnet value transfer.
+
+- Teams must submit a screen recording of their demo (3 to 5 minutes) for review by the judges.
+- All four layers of the challenge (verified eligibility, programmable disbursement, layered donor flows, expiry and reversion) must be present in the demo video, including at least one live expiry and reversion.
+- Teams must share a GitHub repository link for their codebase, together with the written note on assumptions and threat model.
+- Virtual machines or containerised builds are recommended.
+
+Solutions that minimise deployment effort during evaluation receive special consideration.
+
+- The jury judges feature coverage with minimum reliance on off-chain logic.
+
+Only mock or synthetic identity data may be used.
+
+### Registration & Timeline
+
+- December 1, 23:59 - Registration closes
+- December 9, 14:00-16:40 - Hackathon Kickoff
+- December 10-11 10:30AM-5PM - Coding sessions with scheduled mentor hours
+- December 11, 23:59 - Submission deadline
+- December 12, 11:00-11:40 - Pitches from 10 shortlisted teams.
+- December 12, 12:50-13:20 - Hackathon Awards Ceremony
+
+All times are Japan Standard Time (JST, UTC+9).
+
+### Know About the XRPL Protocol
+
+The XRP Ledger is a public, decentralised layer-1 blockchain designed for payments.
+
+Transactions settle in 3 to 5 seconds with deterministic finality, meaning they either confirm or expire and never sit pending.
+
+Fees are a fraction of a cent and are known in advance.
+
+The following resources will help you get started and support you throughout the hackathon.
+
+- Learn to code on the XRPL at learn.xrpl.org (https://learn.xrpl.org).
+- Documentation and the Testnet and Devnet faucets are available at xrpl.org (https://xrpl.org).
+- XRPL Commons offers a community along with GitHub and YouTube channels at xrpl-commons.org (https://xrpl-commons.org).
+- The XRPL Developer Discord is the place to ask protocol questions during the hackathon.
+- XRPL Basics at docs.xrpl-commons.org/xrpl-basics (https://docs.xrpl-commons.org/xrpl-basics).
+
+Teams may also wish to explore the XRPL AI Starter Kit (Agentic Transactions), released by Ripple on June 9, 2026.
+
+It lets AI agents and AI-assisted developers build, fund and operate XRPL wallets and payments directly from their coding tools.
+
+See https://xrpl.org/resources/dev-tools/ai-tools.
+
+### Awards
+
+Three winners are selected from the ten teams that pitch on December 12:
+
+- First prize: $2,500
+- Second prize: $1,500
+- Third prize: $1,000
+
+All ten pitching teams receive a certificate of participation.
+
+### Hosts and Sponsors
+
+This Hackathon is co-hosted by Kyoto University, Chiba Institute of Technology, with assistance from XRP Asia, a non-profit dedicated to supporting the growth of the XRP Ledger ecosystem in APAC.
+
+Prizes are sponsored by the Ripple Impact - University Blockchain Research Initiatives (UBRI) programme.
+
+### Enquiries
+
+Venue details will be visible to approved registrants.
+
+For any queries, please contact Rafik HADFI at rafik dot hadfi at i.kyoto-u.ac.jp (https://i.kyoto-u.ac.jp).
+
 <a id="event-f485b8b69e6c260b"></a>
 
 ## Monthly Meetup of the Web3 Developers Underground community
@@ -16647,6 +21670,264 @@ CORGEAR Night CORGEAR Nightは、Web3業界で注目を集めるゲストをお�
 Web3 Devs Underground Monthly Meetup, at our home, Startup Nation Central. About the event: Technical talks from people building the tech, then time to meet the community. Speakers will be announced here first. Register now to get the lineup when it's out. Date & Time Wednesday, Dec 9th, 2026 Time: 18:00
 
 - Location: Startup Nation Central, Lilienblum 28, Tel Aviv ABOUT WEB3 DEVS UNDERGROUND Israel's largest technical community for Web3 developers. By builders, for builders: talks from the people building the tech. 50+ events since 2022, free and open to everyone. Founded by Shauli Rejwan and Roy Osherove. Powered by Masterkey VC
+
+<a id="event-d21ac0bf86d09126"></a>
+
+## Match Night: Pitch & Fund
+
+- Record: `luma-crypto-FswuUYy2dDcWQDT`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-09T21:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cgbkolld>
+
+### About the event
+
+Uma noite para colocar startups e quem apoia startups na mesma sala. Projetos sobem ao palco para apresentar o que estão construindo, recebem feedback de quem investe e mentora, e todo mundo sai com contatos novos. Também vamos mostrar o caminho para financiar a sua ideia: pela rede Stellar, você pode captar até US$ 150 mil sem ceder equity, desde que o projeto passe pelos critérios de seleção.
+
+O QUE VOCÊ VAI VER
+
+- Pitch night: startups apresentando seus projetos ao vivo
+- Como captar recursos pela rede Stellar: Instawards e SCF Build, passo a passo e com os critérios na tela
+- Compliance para startups: o que olhar antes de crescer
+
+QUER APRESENTAR SUA STARTUP?
+
+Conte sua ideia ou projeto no formulário de inscrição. A equipe entra em contato com quem for selecionado para o pitch.
+
+PROGRAMAÇÃO
+
+18h00 Credenciamento e networking
+
+18h40 Abertura
+
+19h00 Como captar recursos: Instawards e SCF Build
+
+19h30 Compliance para startups
+
+20h00 Pitch night
+
+21h15 Encerramento
+
+21h30 Happy hour com pizza
+
+HACKATHON E BOUNTIES
+
+Durante a Semana da Inovação acontece também o Caatinga Latam, com bounties presenciais e online.
+
+https://bounties.grantfox.xyz/events/caatinga-bounties?tab=bounties (https://bounties.grantfox.xyz/events/caatinga-bounties?tab=bounties&utm_source=luma)
+
+Inscrição
+
+Evento gratuito e presencial, com vagas limitadas. A inscrição está sujeita a aprovação: você recebe a confirmação por e-mail.
+
+Na entrada
+
+Apresente o QR code do Luma para o check-in
+
+Fotos e vídeos
+
+Este evento será fotografado e filmado. As imagens podem ser usadas na divulgação do programa. Se preferir não aparecer, avise a equipe na entrada
+
+Bebidas
+
+Bebida alcoólica servida apenas para maiores de 18 anos
+
+Este evento faz parte da Semana da Inovação e é uma iniciativa do Programa de Embaixadores Stellar, em parceria com a NearX Brasil.
+
+<a id="event-9945b157b0bcda0d"></a>
+
+## ReCON - Coinspiracy II
+
+- Record: `luma-crypto-4EDsB2GqW0jHyhh`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/recon>
+
+### About the event
+
+Calling all Console Cowboys and CypherPunx:
+
+SpaceDAO (Decentralized Space Force) is hosting a special event -> ReCON <-
+
+Let's reCONnect to the origin of these things Private money - untraceable data - unstoppable technology
+
+Topics include:
+
+Tor and Dark Nets
+
+Hacking and Phreaking
+
+Pirate - Monero and Privacy coins
+
+Uncensorable POW blockchain data
+
+Cryptography
+
+Cyber Security
+
+Drone Warfare | Drone Defense
+
+Invisible waves
+
+Aether and Free Energy
+
+Satellites and Ground Comms
+
+Pineaples and Stingers
+
+Robotics and Cybernetics
+
+Phase Array energy weapons
+
+Sound Cannons and Ultrasonic Disrupters
+
+MCP - AGI Command Control
+
+Electronic Warfare
+
+Information Field Technology
+
+3d Printed Guns, Antennas and other devices
+
+Plasma Sputtering
+
+Particle Acceleration
+
+Quantum Computing
+
+Special Musical Guests"
+
+DJ xxxxxxx - Dark Wave
+
+The CoinHeads (https://x.com/the_coinheads)- Cypher Punk Meme Band
+
+<a id="event-504524ff0960d3d3"></a>
+
+## Digital Money & Markets Forum
+
+- Record: `luma-crypto-8Lf1dS5uyxoHQ0S`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/4vjyy6fy>
+
+### About the event
+
+I The European financial landscape is changing rapidly. Stablecoins, tokenized deposits and tokenized securities are introducing new opportunities, challenging traditional business models and transforming how financial institutions operate.
+
+But what does this mean for banks, fintechs, technology providers and the wider digital asset industry?
+
+On December 10, EY and BCNL Foundation are joining forces in Amsterdam for the Digital Money & Markets Forum, bringing together financial institutions, regulators, fintechs and digital asset leaders to explore the future of Europe's financial ecosystem.
+
+Expect an afternoon filled with expert insights, high-level discussions, interactive debates and valuable networking opportunities.
+
+### From innovation to implementation
+
+The digital asset industry is moving beyond experimentation. As adoption increases and European regulation continues to develop, organizations face important strategic decisions.
+
+Where are the real business opportunities? How can Europe remain competitive? What does it take to implement digital asset solutions securely and successfully? And how can organizations navigate the growing complexity of regulation and compliance?
+
+During the forum, we'll explore these questions from both a strategic and practical perspective, covering topics including:
+
+- Digital money & tokenization: The opportunities emerging from stablecoins, tokenized deposits and tokenized securities.
+- European competitiveness: Building a resilient and competitive European digital financial ecosystem.
+- Technology & implementation: Overcoming technical challenges, managing operational risks and meeting DORA requirements.
+- Regulation & compliance: Navigating MiCA, DORA and DAC8 while continuing to innovate.
+- Real-world adoption: Learning from practical experiences, successful implementations and challenges faced by industry participants.
+
+### Interactive breakout sessions
+
+Beyond the mainstage discussions, attendees will have the opportunity to participate in one of two interactive breakout sessions.
+
+### Connect with the industry
+
+The Digital Money & Markets Forum is not just about sharing knowledge. It's also about bringing together the people and organizations driving innovation across traditional finance and digital assets.
+
+Connect with professionals from banks, fintechs, financial institutions, technology companies and the wider blockchain ecosystem.
+
+We'll close the afternoon with networking drinks, giving everyone the opportunity to continue conversations, exchange ideas and build new relationships.
+
+### Event details
+
+Date: Thursday, December 10, 2026
+
+Time: 13:00 - 18:00
+
+Location: EY, Amsterdam
+
+Ticket price: €37,70 inc VAT
+
+Limited capacity: 100 attendees
+
+### Program
+
+The detailed agenda and speaker lineup will be announced soon.
+
+### Secure your spot
+
+With only 100 places available, the Digital Money & Markets Forum offers an opportunity to connect with a focused group of professionals from across the financial and digital asset industry.
+
+Whether you're working in traditional finance, fintech, compliance, technology or digital assets, join us for an afternoon of knowledge sharing, practical insights and meaningful connections.
+
+Register now and join EY and BCNL Foundation on December 10 in Amsterdam!
+
+<a id="event-d531dc7094e2aee1"></a>
+
+## Cibersegurança na era da IA
+
+- Record: `luma-crypto-qPdUmhvIN6H7Mbq`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cjnnkmlm>
+
+### About the event
+
+Quem consegue mover os fundos na sua aplicação? Se a resposta for "uma pessoa só", você tem um risco interno.
+
+A maioria dos incidentes graves de custódia não vem de um atacante externo sofisticado. Vem de alguém com acesso demais: um desenvolvedor com a chave no ambiente, um operador que cria e aprova a mesma transação, um servidor online que assina o que lhe pedem.
+
+Vamos mostrar na prática como desenhar isso fora do sistema, com uma demonstração na rede Stellar usando a DINAMO Cold Wallet:
+
+Segregação de funções. Quem monta a transação (ambiente online) não é quem assina (estação fria air-gapped). Nenhum dos dois faz o trabalho do outro.
+
+Divisão de responsabilidade. A chave nasce e vive dentro do HSM. Os fragmentos da cerimônia de chaves são distribuídos e conferidos por KCV. Ninguém, sozinho, tem a chave completa.
+
+Verificação independente. A estação fria exibe os campos decodificados da transação e códigos de validação (AES-256-CMAC). Quem aprova confere o que realmente vai ser assinado, não o que o sistema online diz que vai.
+
+Sem superfície de rede. A estação de assinatura não tem conexão com o ambiente online. A única ponte são envelopes selados em QR code. Não há canal para um atacante interno explorar.
+
+No fim, você vê uma transação Stellar ser montada online → validada e assinada offline → publicada → confirmada na rede.
+
+Para quem desenvolve em fintech, blockchain, custódia ou segurança: é um exemplo concreto de secure by design, em que o controle está na arquitetura e não na confiança nas pessoas.
+
+#DesenvolvimentoSeguro #SecureByDesign #AmeaçaInterna #SegregaçãoDeFunções #Stellar #Blockchain #HSM #ColdWallet #Custódia #DINAMO
+
+HACKATHON E BOUNTIES
+
+Durante a Semana da Inovação acontece também o Caatinga Latam, com bounties presenciais e online:
+
+https://bounties.grantfox.xyz/events/caatinga-bounties?tab=bounties
+
+Inscrição
+
+Evento gratuito e presencial, com vagas limitadas. A inscrição está sujeita a aprovação: você recebe a confirmação por e-mail.
+
+Na entrada
+
+Apresente o QR code do Luma para o check-in
+
+Fotos e vídeos
+
+Este evento será fotografado e filmado. As imagens podem ser usadas na divulgação do programa. Se preferir não aparecer, avise a equipe na entrada
+
+Bebidas
+
+Bebida alcoólica servida apenas para maiores de 18 anos
+
+Este evento faz parte da Semana Acadêmica da Pós-Graduação e é uma iniciativa do Programa de Embaixadores Stellar, em parceria com a NearX Brasil.
 
 <a id="event-ea63687b38251128"></a>
 
@@ -16694,6 +21975,83 @@ Follow us on X: @SuperteamAE (https://x.com/SuperteamAE)
 
 We're excited to see you there!
 
+<a id="event-4fc5db4bc4e6c3a8"></a>
+
+## Driven by Dreams- Take the Wheel: SFTL Christmass Event
+
+- Record: `luma-crypto-RLMy3UZhBCEOXWY`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T16:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cv22oub7>
+
+### Driven by Dreams: SFTL Christmas Event: Together, We Drive Dreams And Take the Wheel
+
+The SwissFinTechLadies × SwissFemale Angel Club Christmas Event
+
+Craft, Capital & Code | 10 December 2026 | Porsche Zentrum Zug | 17:30-22:00
+
+Christmas invites us to pause, appreciate the people who believe in us, and imagine what we want to bring into the world next. Bringing dreams to life takes the courage to take the wheel. Dreams create connections. Connections create capital. Capital creates tokens. And that calls for champagne.
+
+Craft, Capital & Code. This Christmas, let's see where our dreams can take us.
+
+Join SwissFinTechLadies, SwissFemale Angel Club and Re:Nova and mingle with Porsche, we are crafting, capitalising and coding to turn ambition into lasting value.
+
+We'll explore this through two panel conversations, a guided Porsche tour and the chance to experience exceptional networking
+
+17:30 | A sparkling welcome
+
+Doors open for sparkling wine, pastries and networking. Meet familiar faces and make new connections before the conversations begin.
+
+17:55 | Five welcomes, one shared journey
+
+Welcome remarks from Porsche, SwissFinTechLadies, SwissFemale Angel Club, Swiss Finance & Technology Association (SFTA) and Re:Nova - five minutes per organisation.
+
+18:20 | Panel 1: Craft, Capital & Code - Building What Lasts
+
+Our speakers explore the realities of conscious luxury, how investors assess impact, and where AI can help founders substantiate their claims.
+
+Panel host:
+
+Divya Shori, Co-Founder & CEO, Re:Nova Switzerland
+
+### Speakers
+
+- Fiorella Erni, Founder & CEO, Cheetah Stories
+- Lipika Bajaj Kruger, Founder & Designer, Bombay Birds
+- Rosa Sangiorgio, Founder, RSG Impact Investing, and Advisor, Re:Nova Switzerland
+
+30 minutes, including five minutes of Rapid Fire and audience questions.
+
+18:50 | Fireside Chat: From Dreams to Digital Ownership - The Future of Finance
+
+How are digital assets and tokenization changing the relationship between creators, communities and capital? What makes digital ownership meaningful, and what will it take to build trust and participation?
+
+A conversation bringing together perspectives from finance, community building and blockchain entrepreneurship.
+
+Moderated by Dr. Karen Wendt
+
+With:
+
+- Jakob Bosshard, Web3 Entrepreneur, Investor & Digital-Asset Expert
+- Tamara van der Schaaf, Founder, Swissters, Entrepreneur
+- Matias Affolter, Co-Founder, Pixagram
+- Carolina Newton, Founder, The Newton Office | Host, Capital Offence
+
+19:20 | Discover Porsche: Where Vision Meets Engineering
+
+Enjoy a 30-minute guided Porsche tour and discover the precision, design and craftsmanship behind the brand.
+
+19:50 | Apéro Riche, Conversations & Craft Up Close
+
+Celebrate the festive season over an apéro riche, courtesy of Porsche, SwissFemale Angel Club and Re:Nova.
+
+Experience craftsmanship firsthand: Cheetah Stories heels and Bombay Birds pashminas will be on display during the event, with the opportunity to try them on.
+
+22:00 | Farewell & doors close
+
+Join us to celebrate with us - and honor the dreams we are ready to drive forward together.
+
 <a id="event-bd5f3f6f9c21e859"></a>
 
 ## CWC x Sosoul: A Breathwork Evening
@@ -16728,6 +22086,41 @@ More on how we handle your data in our Privacy & Cookie Policy (https://cryptowo
 
 Staying in touch: With your ticket, you'll also receive occasional updates about upcoming CWC events. Not for you? Just unsubscribe in any email. By getting a ticket, you agree to our Terms & Conditions. Questions? Reach out at contact@cryptowomencollective.com, we're happy to help.
 
+<a id="event-35f72263740e56b3"></a>
+
+## Beldex Presents: The exclusive VIP Rooftop Dinner Party \| Colombian Blockchain Week
+
+- Record: `luma-crypto-gCDn7nd6NRM9yAB`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/eco7i6u8>
+
+### About the event
+
+Beldex invites you to an exclusive invite-only, closed-door VIP dinner during Colombian Blockchain Week.
+
+An intimate evening for senior decision-makers from exchanges, payment providers, blockchain ecosystems and leading KOL/Influencer voices in the space, limited to 50 guests.
+
+### What to expect
+
+- Champagne reception on a private rooftop in one of Medellín's finest restaurants
+- Curated canapés, a multi-course dinner and dessert
+- Premium all-inclusive food and drinks
+- Meaningful conversations in a private setting, no panels and no pitches
+
+### Schedule
+
+- 18:00: Doors open, champagne reception and get-together
+- 18:45: Seated dinner begins
+- 21:00 - 00:00: DJ set, open networking and late-night drinks
+
+### Please note
+
+This is an invite-only event. All registrations require approval by the host. Venue details will be shared with confirmed guests only.
+
+Hosted by Beldex
+
 <a id="event-dcb5e219b86aeab3"></a>
 
 ## Bitcoin Book Club: Resistance Money
@@ -16759,6 +22152,60 @@ Future Reads: Have a book recommendation? Let us know and we'll add it to the li
 Afterwards: Stick around to hang out, continue the conversation, and grab some food.
 
 Location: PubKey DC
+
+<a id="event-cf564ecee74fa894"></a>
+
+## Cena Privada de fin de año by Reap · CDMX
+
+- Record: `luma-crypto-40BYD6SiExbaz40`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-11T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/r41iac6k>
+
+### About the event
+
+Cena Privada de Fin de Año
+
+Una noche para conectar con los líderes que están impulsando las stablecoins y el futuro de la infraestructura financiera.
+
+Las grandes transformaciones se construyen a través de grandes alianzas.
+
+Para cerrar el año, en Reap reuniremos a nuestros partners, aliados estratégicos y líderes de la industria financiera y del ecosistema de stablecoins en una cena privada en Ciudad de México.
+
+Un encuentro para celebrar lo que hemos construido juntos, fortalecer relaciones y compartir perspectivas sobre cómo la innovación, la infraestructura financiera y los activos digitales están abriendo nuevas oportunidades para las empresas en México y el mundo.
+
+Sin escenarios ni agendas formales. Solo buenas conversaciones, nuevas perspectivas y las personas que están impulsando el futuro de nuestra industria.
+
+Qué te espera:
+
+- Conversaciones cercanas con partners y líderes de la industria financiera y de stablecoins.
+- Una experiencia gastronómica cuidadosamente seleccionada en uno de los restaurantes más reconocidos de Ciudad de México.
+- Un espacio exclusivo para conectar, celebrar y explorar nuevas oportunidades de colaboración.
+
+Evento privado, exclusivamente por invitación. La ubicación se compartirá con los invitados confirmados.
+
+-
+
+Reap Private Year-End Dinner
+
+An evening with the leaders advancing stablecoins and shaping the future of financial infrastructure.
+
+Great transformations are built through strong partnerships.
+
+As the year comes to a close, Reap is bringing together our partners, strategic allies, and leaders across the financial industry and stablecoin ecosystem for an intimate private dinner in Mexico City.
+
+An opportunity to celebrate what we've built together, strengthen relationships, and exchange perspectives on how innovation, financial infrastructure, and digital assets are unlocking new opportunities for businesses in Mexico and beyond.
+
+No stages. No formal agendas. Just meaningful conversations, fresh perspectives, and the people helping shape what's next for our industry.
+
+### What to expect
+
+- Meaningful conversations with partners and leaders across finance and the stablecoin ecosystem.
+- A thoughtfully curated dining experience at one of Mexico City's most renowned restaurants.
+- An exclusive setting to connect, celebrate, and explore new opportunities for collaboration.
+
+Private, invitation-only event. Location details will be shared with confirmed guests.
 
 <a id="event-bfc3184c06609620"></a>
 
@@ -16838,6 +22285,126 @@ Registration: requires approval from the organiser; exclusive to TWS members
 
 Event page: https://luma.com/8ys4wfr6
 
+<a id="event-0141522886ed2fa6"></a>
+
+## End of Year Pau Hana
+
+- Record: `luma-crypto-kE8xn0FGq6YwHJa`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jqde2wjf>
+
+### About the event
+
+Mahalo for a great year, Hawaiʻi! Join Blockchain in Paradise for an end of year pau hana to catch up, talk story, and close out 2026 together.
+
+### What to expect
+
+Relaxed conversation about blockchain, crypto, and digital money
+
+Familiar faces, new ones, and plenty of time to connect
+
+An easygoing evening to wrap up the year with the community
+
+When: Friday, December 11, 6 to 8 PM
+
+Where: Hana Koa Brewing Co., 962 Kawaiahaʻo St, Honolulu
+
+Free to attend. Please RSVP so we know you're coming.
+
+Hosted by Pūpūkahi Tech Foundation and sponsored by Stand with Crypto.
+
+Stand with Crypto's support helps keep our community talk stories and pau hanas going across Hawaiʻi. Mahalo, Stand with Crypto, for helping us bring people together!
+
+<a id="event-77d0e43875a73d45"></a>
+
+## The Whales Lounge II: Bittime Wonder4 Anniversary
+
+- Record: `luma-crypto-zJT61CIdT8maVuH`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/p55fr555>
+
+### About the event
+
+Four Years of Wonder. One Night to Celebrate the Future.
+
+Join The Whales Lounge II as we celebrate our 4th Anniversary - WONDER4, bringing together Indonesia's leading Crypto Whales, VIP Investors, Web3 KOLs, and industry leaders for an exclusive night of celebration, recognition, and opportunities.
+
+From high-energy live Futures Trading competitions to exclusive KOL recognition and premium networking, this is where Indonesia's crypto community comes together to celebrate what's next.
+
+### Event Highlights
+
+- Live Futures Trading Competition: Watch or participate in an exciting on-site trading showdown featuring a total prize pool of IDR 80,000,000, alongside exclusive physical rewards.
+- KOL Awarding Night: Celebrating outstanding KOLs, educators, and content creators who are shaping Indonesia's crypto community.
+- WONDER4 Exclusive Merchandise: Receive limited-edition Bittime 4th Anniversary merchandise.
+- VIP Networking Experience: Connect with leading traders, investors, Web3 founders, KOLs, and industry leaders over an exclusive evening of food and drinks.
+
+Priority consideration will be given to invited Bittime KOLs, community leaders, and selected industry partners. All registrations are subject to approval by Bittime.
+
+Registration starts at 18:00 WIB at Hotel Grand Sahid Jaya, Jakarta.
+
+<a id="event-77015d93afbf65eb"></a>
+
+## NFT Sampa : 12 e 13 / Dez, 2026
+
+- Record: `luma-crypto-efGQLDQF9GZxxqA`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/9ccvo4xy>
+
+### About the event
+
+Em Dezembro de 2026, reinauguramos a Casa NUA como o 1º Museu permanente de Arte em Rede Descentralizada do Brasil, institucionalizando a fusão do tangível com o digital. Nossa missão é expor e valorizar as obras de arte digitais, conectando o público tradicional aos novos paradigmas da web3, e nesse processo, impulsionar a arte brasileira para o mundo. Através de curadorias cuidadosas e educativas, a Casa NUA se posiciona como um espaço onde a arte digital pode ser apreciada e compreendida em seu pleno valor, integrando cultura e propriedade de forma descentralizada e acessível.
+
+Para a inauguração, relançamos NFT Sampa, evento bimestral para congregar a comunidade local em torno da descentralizção, cultura cripto e Arte em Rede, com exposições, talks, ativações e apresentações ao vivo.
+
+A descentralização é uma tendência histórica que os NFTs intensificam, criando uma infraestrutura resistente à censura para a arte e outros bens digitais. A natureza não-permissionada dos NFTs permite a livre criação e troca de registros públicos com proveniência assegurada e transações sem intermediários. Isso fortalece a liberdade de transação e a disseminação de mitos culturais de maneira global e acessível, representando ainda uma oportunidade única para artistas de qualquer parte do mundo.
+
+É com muita alegria que celebramos mais essa edição do NFT Sampa e recebemos a comunidade para uma noite de muita cultura, boas conversas, negócios e diversão!
+
+Sejam bem vindas, bem vindos e bem vindes!
+
+O NFT Sampa é realizado pela Casa NUA com recursos do #ProAC2024 CultSP (Programa de Ação Cultural da Secretaria de Cultura, Economia e Indústria Criativas) através da #PNAB (Política Nacional Aldir Blanc), do Ministério da Cultura.
+
+<a id="event-1213480b6cf897d9"></a>
+
+## Communtiy Christmas Event
+
+- Record: `luma-crypto-GZrJTJYW9Mu5MDi`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T15:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/xgo0e861>
+
+### About the event
+
+Blockchain Christmas Event in Berlin
+
+Hosting a Christmas event for our Berlin blockchain community: startup talks, giveaways, a live trading competition, networking and drinks, plus a poker tournament for anyone who wants to play. Capacity is limited.
+
+Where: GRAND BAR, Oranienburger Straße 33, 10117 Berlin-Mitte
+
+When: Saturday, 12 December 2026, from 17:00 CET
+
+### Schedule
+
+- 17:00 Doors open. Every participant opens a portfolio on Markowitz Finance (https://markowitz.finance/), live P&L is shown on the wall, and the best-performing portfolios win prizes
+- 17:30 Talks and presentations
+- 18:30 Networking and poker kickoff
+- 21:00 Award ceremony for the trading and poker winners
+
+Startups presenting (Jobited Ventures)
+
+- Markowitz Finance: automated DeFi portfolio management. You pick the assets and weights, and a smart contract allocates, rebalances and earns yield for you. (https://markowitz.finance)
+- Peridot: borrow against the crypto you hold, keep earning on it, and never hand over your keys. (https://peridot.finance)
+- USD8: a USDC-backed stablecoin with built-in DeFi insurance. (https://usd8.fi)
+
+Partners: Stellar - Trezor - Jobited
+
 <a id="event-3ccf29aef082e38c"></a>
 
 ## Bitcoin Brunch - The Boro
@@ -16859,6 +22426,243 @@ Parking at the surface or underground lots at the Boro. Parking in the undergrou
 METRO: Greensboro + 7 minute walk (Silver line)
 
 Our events are Bitcoin focused and we generally avoid discussing other coins & tokens. Nothing discussed during this meetup is financial advice. Always do your own research.
+
+<a id="event-9c952948f9f73435"></a>
+
+## Bay Area Bitcoiner Holiday Party and BitDevs Socratic Seminar
+
+- Record: `luma-crypto-3FgjJKRzLrJdZjj`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T20:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0us1htni>
+
+### About the event
+
+It's that time of year again! On December 12, join Bitcoiners from across the Bay Area at Presidio Bitcoin for an afternoon of big ideas, good company, and holiday merriment.
+
+We'll kick things off with a Socratic Seminar, then keep the conversations going over food, drinks, and festive cheer. Come for the ideas, the party, or both.
+
+### Schedule
+
+12:00PM - Mingling
+
+12:15PM - Seminar
+
+2:00- 5:00PM - Holiday Party!
+
+-----
+
+The reading list for the Socratic Seminar be posted here (https://sfbitcoindevs.org/) a couple days before the meetup.
+
+The seminar is for those interested in learning more about and discussing Bitcoin and related protocols. The event is formatted to foster debate, information sharing, and lively discussion.
+
+Discussion topics from a variety of sources are collated by meetup members in the weeks preceding the event. We'll discuss pull requests in the Bitcoin Core and other relevant repositories, network statistics, research papers, technical blog posts and other relevant content.
+
+<a id="event-16462919cab1a15f"></a>
+
+## AWIC DC Holiday Reunion
+
+- Record: `luma-crypto-alAZAWlZsQ0NJl5`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-14T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ycs6lcdc>
+
+### About the event
+
+Let's wrap up the year with a little holiday cheer!
+
+Join AWIC x Steptoe x BDO for an evening of networking, celebration, and good company. It's a chance to reconnect with familiar faces, meet new members of the community, and celebrate another year of bringing women and allies together across the crypto ecosystem.
+
+We'll enjoy an evening of networking, holiday treats, and a Dirty Santa gift exchange to add a little extra fun to the celebration.
+
+Monday, December 14
+
+6:00 PM - 8:00 PM EST
+
+Steptoe's Washington, DC offices
+
+We look forward to celebrating with you and closing out another great year together!
+
+Registrations will close on Friday, December 11th at 12PM EST.
+
+<a id="event-5834972ac8d06598"></a>
+
+## Crypto Chrismukkuh \| Hosted by Eden
+
+- Record: `luma-crypto-eGwYlrIxy6MU9Jy`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-15T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/cryptochrismukkuh>
+
+### For the ones trading, backing, building or covering this industry... a warship just feels right
+
+Eden invites you to Crypto Chrismukkuh: an evening of candid conversation, flowing drinks and a touch of holiday mischief aboard the USS Intrepid. Come celebrate a historic year and manifest new all-time highs in the one ahead.
+
+As always, this will be a room of changemakers, rainmakers and storytellers, curated for meaningful discourse and a great time.
+
+Cocktail attire. The space is fully indoors. Lite bites will be served.
+
+Tickets are limited - register early.
+
+About Eden Communications: Eden (https://edencommunications.com/?utm_source=luma) is a strategic comms firm for companies at the frontier of finance and technology. The old agency model is broken and going direct isn't enough, so we built something that hits harder than shops ten times our size. Using newsroom experience, domain expertise and a network decades in the making, Eden delivers the impact that other agencies only promise.
+
+Sponsorship inquiries: larissa@edencommunications.com
+
+<a id="event-af6d7eb1669c7df6"></a>
+
+## AI ARCADE ON KUB CHAIN
+
+- Record: `luma-crypto-5I5BWAZlkbKqAWb`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-15T02:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/zf933hjz>
+
+### AI ARCADE ON KUB CHAIN
+
+AI × GAMES × BLOCKCHAIN
+
+Create games on-chain and drive their growth.
+
+Join AI ARCADE ON KUB CHAIN, a jam-packed, one-day workshop enabling AI enthusiasts, developers, engineers, and game creators worldwide to come together to build the next generation of on-chain games
+
+It's simple.
+
+1. Morning, you learn.
+2. Come mid-day, you build. Furiously.
+3. Evening, you pitch.
+
+IMPORTANT: No blockchain experience required. Beginners are welcome!
+
+15 December 2026
+
+09:00-21:00 (GMT+7)
+
+FYI Center, Bangkok
+
+FREE TO JOIN - LIMITED SPOTS
+
+Solo or teams of up to 3
+
+Notes:
+
+- Participation is subject to prior approval.
+- Attendees will receive swags
+- Your game could make it onto our chain.
+
+### AI × GAMES × BLOCKCHAIN
+
+สร้างเกมบนบล็อกเชนด้วย AI และต่อยอดไอเดียให้เติบโตไปอีกขั้น!
+
+เตรียมพบกับ AI ARCADE ON KUB CHAIN เวิร์กชอปสุดเข้มข้นภายใน 1 วัน ที่เปิดโอกาสให้ผู้ที่สนใจ AI, Developers, Engineers และ Game Creators จากทั่วโลก มารวมตัวกันเพื่อเรียนรู้ ลงมือสร้างสรรค์ และพัฒนาเกมแห่งอนาคตบนบล็อกเชนไปด้วยกัน
+
+ไม่ว่าคุณจะเป็นนักพัฒนามืออาชีพ หรือเพิ่งเริ่มต้นเข้าสู่โลกของ AI และ Blockchain ก็สามารถเข้าร่วมได้!
+
+เพียง 1 วัน กับ 3 ภารกิจสุดท้าทาย!
+
+1. Morning - LEARN: เริ่มต้นวันด้วยการเรียนรู้เทคโนโลยี AI และ Blockchain พร้อมเครื่องมือที่จะช่วยให้คุณสร้างเกมได้ง่ายและรวดเร็วยิ่งขึ้น
+2. Mid-day - BUILD: เปลี่ยนไอเดียให้กลายเป็นเกมจริง! ลงมือสร้างเกมของคุณอย่างเต็มสปีด ด้วยพลังของ AI และ Blockchain
+3. Evening - PITCH: นำเสนอผลงานเกมของคุณ พร้อมโชว์ไอเดียสร้างสรรค์และศักยภาพของเกมต่อผู้เข้าร่วมงาน
+
+ไม่จำเป็นต้องมีประสบการณ์ด้าน Blockchain มาก่อน! มือใหม่ก็เข้าร่วมได้ ขอเพียงมีความสนใจและพร้อมที่จะเรียนรู้ไปด้วยกัน
+
+วันที่: 15 ธันวาคม 2569
+
+เวลา: 09:00-21:00 น. (GMT+7)
+
+สถานที่: FYI Center, Bangkok
+
+เข้าร่วมฟรี! จำนวนจำกัด
+
+รูปแบบการเข้าร่วม: สมัครเดี่ยว หรือสมัครเป็นทีม ทีมละไม่เกิน 3 คน
+
+สิ่งที่คุณจะได้รับ
+
+- โอกาสเรียนรู้และลงมือพัฒนาเกมจริงด้วยเทคโนโลยี AI และ Blockchain
+- พบปะและแลกเปลี่ยนไอเดียกับนักพัฒนาและผู้ที่สนใจเทคโนโลยี
+- รับของที่ระลึกสุดพิเศษสำหรับผู้เข้าร่วมงาน
+- โอกาสนำเกมที่คุณสร้างขึ้นไปพัฒนาต่อยอดบน KUB Chain ในอนาคต!
+
+หมายเหตุ:
+
+- ผู้สมัครจะต้องผ่านการพิจารณาและได้รับการยืนยันสิทธิ์เข้าร่วมจากทีมงานก่อน
+- ผู้เข้าร่วมงานจะได้รับของที่ระลึกจากกิจกรรม
+- เกมที่พัฒนาภายในเวิร์กชอปอาจได้รับโอกาสให้นำไปต่อยอดและใช้งานบน KUB Chain
+
+พร้อมเปลี่ยนไอเดียของคุณให้กลายเป็นเกมแห่งอนาคตแล้วหรือยัง?
+
+มาร่วมเรียนรู้ สร้างสรรค์ และผลักดันโลก On-Chain Gaming ไปด้วยกันที่ AI ARCADE ON KUB CHAIN!
+
+### KUB CHAIN
+
+KUB Chain (https://x.com/KUBChain) is a high-performance Layer 1 blockchain empowering developers, creators, and innovators to build the next generation of decentralized applications, on-chain games, and real-world Web3 experiences.
+
+SUPERTEAM TH
+
+SUPERTEAM TH (https://x.com/SuperteamTH) is helping to develop the largest Thai network of builders, founders, and ambitious entrepreneurs to build companies and connect globally.
+
+TETHER
+
+Tether is a blockchain-enabled platform designed to facilitate the use of fiat currencies in a digital manner. Tether works to disrupt the conventional financial system via a more modern approach to money. Tether has made headway by giving customers the ability to transact with traditional currencies across a blockchain, without the inherent volatility and complexity typically associated with a digital currency. Tether has democratised cross-border transactions across a blockchain.
+
+Follow on X: tether (https://x.com/tether)
+
+Learn more: https://tether.io/
+
+### BITKUB BLOCKCHAIN TECHNOLOGY
+
+Bitkub Blockchain Technology (https://www.facebook.com/BitkubBlockchainTechnology) is a leading blockchain solutions provider in Thailand, driving Web3 adoption through innovative blockchain infrastructure, developer tools, and enterprise solutions.
+
+### TENCENT CLOUD
+
+Tencent Cloud (https://x.com/tencentcloud) is a global cloud computing and technology provider empowering innovation through advanced AI solutions, scalable cloud infrastructure, and cutting-edge technologies that enable developers to build the next generation of digital experiences.
+
+### ELEVEN LABS
+
+ElevenLabs (https://x.com/ElevenLabs?lang=en) is a leading AI audio technology company empowering developers and creators to bring games and digital experiences to life through realistic AI-generated voices, expressive character dialogues, and immersive sound effects that enable more engaging and interactive experiences.
+
+### AiROVA
+
+AiROVA (https://www.facebook.com/airova.business) is an AI transformation company dedicated to making artificial intelligence practical and accessible. Through hands-on workshops, AI education, and innovative solutions, AiROVA empowers creators and businesses to turn ideas into real-world applications.
+
+<a id="event-14004e7a870ac7a6"></a>
+
+## AWIC & Bitso: Brindis Navideño, Cripto & Comunidad
+
+- Record: `luma-crypto-FIvz7taI4yPqhpR`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-15T22:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/srtosqyl>
+
+### About the event
+
+AWIC México y Bitso te invitan a un encuentro especial de fin de año para reunir a mujeres y aliados del ecosistema cripto, blockchain, Web3 y servicios financieros.
+
+Será una tarde para celebrar lo construido durante 2026, compartir perspectivas sobre el futuro de la industria en Latinoamérica y generar conexiones que puedan convertirse en nuevas colaboraciones.
+
+### Agenda
+
+- 4:30 - 5:00 PM | Registro, refrescos y botanas
+- 5:00 - 5:15 PM | Bienvenida de AWIC México y Bitso
+- 5:15 - 5:45 PM | Lightning Panel: DeFi, adopción e infraestructura - Perspectivas para 2027
+- 5:45 - 6:30 PM | Speed Networking: Propósitos & Alianzas
+- 6:30 - 7:00 PM | Brindis navideño y cierre de año
+
+Detalles del evento
+
+Martes, 15 de diciembre de 2026
+
+4:30 - 7:00 PM
+
+Oficinas de Bitso, Ciudad de México.
+
+Cupos limitados. Regístrate para solicitar tu lugar y recibir las indicaciones de acceso.
+
+¡Nos encantará cerrar el año contigo!
 
 <a id="event-31d8c427a49da94d"></a>
 
@@ -16892,6 +22696,159 @@ Registration: open
 
 Event page: https://luma.com/4uuukqoc
 
+<a id="event-77505374dbe151ce"></a>
+
+## Escondido Bitcoin Meetup
+
+- Record: `luma-crypto-6hLKFLf37LJE4yB`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-17T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/0tppaacm>
+
+### IMPORTANT NOTICE
+
+...Happy Hour at Goli now ENDS AT 6:00pm... Plan accordingly!
+
+### Our Agenda This Month
+
+We moved a week earlier to avoid any conflict with your celebration of Christmas...
+
+(watch this space for any breaking details).
+
+### Come Join Us...!
+
+...as we discuss all things bitcoin related with the common goal of encouraging self-sovereignty and seeing massive bitcoin adoption. A great time is always had by all, as we pool our knowledge and enthusiasm for the absolutely best monetary protocol ever devised by mankind...
+
+At Goli, you can now pay in bitcoin!
+
+Bring your favorite Lightning wallet, and use it when you pay your tab... And, don't miss HAPPY HOUR! Great deals UNTIL the 6:00pm CUTOFF... Good food and drink continues 'til closing.
+
+‼FYI: You are welcome to COME and GO at your convenience during this event... (but you may miss a presentation)...‼
+
+This bitcoin meetup began in early 2024, and lately has typically met on the 4th Wednesday of the month.
+
+### Learn more
+
+and check out our collected resources at:
+
+https://EscondidoBitcoin.com
+
+<a id="event-b2b1a2f58e18b2ba"></a>
+
+## Proof of Build: Houston Dev Night
+
+- Record: `luma-crypto-9qkZLPAb2dgPYLz`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-18T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/8pl7eddd>
+
+### About the event
+
+Houston builds. Now prove it.
+
+Proof of Build: Houston Dev Night is a monthly night for Houston developers and founders working in AI, blockchain, web, and payments. Every third Thursday at the Ion: free pizza, live 5-minute demos, one focused talk, and the people who ship.
+
+New to it? Don't be shy. Side projects, half-built prototypes, and "just curious" are all welcome.
+
+Run of show (CT)
+
+- 6:00 - Doors, free pizza and drinks
+- 6:30 - Show & Tell (5-minute demos)
+- 7:15 - Featured talk (announced soon)
+- 7:45 - Connect, door prizes, and who's hiring
+
+Where: Industrious at the Ion, 2nd floor, large kitchen conference room - 4201 Main St, Houston, TX 77002
+
+Want a demo slot? Mention "demo" when you RSVP.
+
+Presented by
+
+Lumino - https://lumino.io
+
+Beezi - https://beezi.ai
+
+Rocket Network - https://newsletter.rocketnetwork.ai
+
+TokenRoster - https://tokenroster.com
+
+<a id="event-d3314e13c9e22f08"></a>
+
+## PROOF OF COMMUNITY 💜 \| The SWC Holiday Link-Up
+
+- Record: `luma-crypto-L3210mVzhVOEWgA`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-18T00:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/xa707sqr>
+
+### About the event
+
+We showed up. We made noise. Now we celebrate!
+
+Cali crypto fam, WHAT A YEAR!
+
+We rallied, we connected, we got out the vote, and we showed what happens when a community comes together to make its voice heard.
+
+THIS ONE'S FOR YOU!
+
+To everyone who volunteered, brought a friend, made a call, knocked on doors, attended an event, shared a post, or helped get out the vote during the midterms, THANK YOU!
+
+No panels. No politics. No action items. Just us, celebrating the people behind the movement.
+
+Because the best thing we built this year wasn't on the blockchain. It was this community.
+
+Come for the vibes. Leave with a gift, a little wisdom, and some new memories.
+
+All gifts provided. Just bring YOU! The Scoop:
+
+White Elephant, SWC Style: We've got ALL the gifts! You bring your best gift-stealing strategy. A little friendly competition never hurt anybody.
+
+Can't Live Without It: 2026 Edition
+
+What's that ONE thing you couldn't have lived without this year? Chapstick? ChatGPT? Your favorite quote? That one friend who kept you sane? Come ready to share yours. Funny, random, or meaningful, we want to hear it!
+
+Drop a Gem
+
+What's the biggest lesson 2026 taught you? Share a little wisdom that might help someone else in our community heading into 2027. You never know who needs to hear it.
+
+Eat. Sip. Play. Connect.
+
+Food, drinks, games, gifts, laughs, and most importantly, our amazing community.
+
+Hosted by Stand With Crypto California | Los Angeles - San Diego - San Francisco
+
+<a id="event-42a9afb64f5de71c"></a>
+
+## #KriptoCuma - #CryptoFriday
+
+- Record: `luma-crypto-UmA7HmsrDMeMpsc`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-18T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/wskapl6w>
+
+### #KriptoCuma Nedir?
+
+Yeni insanlarla tanışıp, çok farklı bakış açılarını yakalayabileceğiniz buluşmalarımıza kriptoyla ilgilenen herkes davetli.
+
+Öncelikle keyif alıyoruz. Çok şey öğreniyoruz, en önemlisi de sanalda kalmıyor arkadaşlıklarımız, dostluklarımız
+
+3-4 saat boyunca çevrende ayni dili konuşan insanların olması kendini iyi hissettiriyor.. Gel, sende bir iyilik yap kendine, bir Cuma katil bize..
+
+#KriptoCuma her Cuma Saat 19:00'da Kadiköy Altcointurk | Base'de
+
+Kripto Para, NFT ve Blockchain teknolojisi ile ilgilenen farklı kültür ve coğrafyadan insanları ayrım yapmadan #KriptoCuma etkinliğinde bir araya getiriyoruz.
+
+### What is #CryptoFriday ?
+
+Even though it's very rare to see physical meetups in the crypto world, we, as a community, have been enjoying our conversations since 2018.
+
+Anyone interested in cryptocurrency and blockchain world, meeting new people, different point of views and having fruitful conversations about the market is invited to #CryptoFriday
+
+#CryptoFriday every Friday on 19:00 at Altcointurk | Base, Kadıköy
+
 <a id="event-b4000abbac1eee8f"></a>
 
 ## NYC PubKey Privacy Pop-up
@@ -16909,6 +22866,167 @@ WebWipe returns to PubKey NYC for our privacy pop-up. Join us on December 18th a
 We'll have privacy devs and discussion around privacy tools We'll be in the attic and will have presentations from 5-9, then join us at the bar for glizzies and brews (https://emojipedia.org/hot-dog) (https://emojipedia.org/beer-mug) (https://emojiterra.com/clinking-beer-mugs/) for the rest of the night - Doug Tuman of MoneroTalk (https://x.com/monerotalk) - Mike Hassard (https://x.com/mikehassard) and Tor Ekland (https://x.com/TorEkelandPLLC) - Legal Counse (https://www.torekeland.com/)l for Roman Sterlingov including updates on Sterlingov's appeal - Ashigaru Desktop (https://github.com/linkinparkrulz/ashigaru-desktop)Demo with Dojobay (https://dojobay.org/)pairing - BooneW (https://x.com/boonew/) will demo what he's built on Thorchain - Nate aka eatsleepcrypto.
 
 eth, founder of punkdotfun (https://punk.fun/) - Sally the Agorist (https://x.com/sallymayweather) & Firo (https://firo. org/)
+
+<a id="event-d4e32020e7556a90"></a>
+
+## Bitcoin Masterclass
+
+- Record: `luma-crypto-p2zv6Ge9hMHv8nw`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-19T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/h67ekw2j>
+
+### About the event
+
+Bitcoin Masterclass: Learn the Why Before You Buy
+
+Powered by Bitcoincierge
+
+Join us in Gurugram for a BTC masterclass that breaks down Bitcoin from first principles and explores its role in financial world.
+
+Let's begin with the basics:
+
+What is Bitcoin, really?
+
+Why does it have value?
+
+Why is it gaining global attention today?
+
+Where could this go next?
+
+### Agenda
+
+4:00 PM - 4:15 PM
+
+Doors Open
+
+Arrive, settle in, connect with others, and get ready for the session.
+
+4:15 PM - 5:45 PM
+
+Money, Bitcoin & the Big Picture
+
+What is money? What is Bitcoin? Why does it matter?
+
+Understand value, scarcity, and how Bitcoin differs from the broader crypto space, explained from first principles.
+
+5:45 PM - 6:00 PM
+
+ZebPay Introduction + Q&A
+
+A quick introduction to ZebPay, followed by a short walkthrough and open Q&A.
+
+This Masterclass Is Ideal For
+
+- Those interested in Bitcoin but looking for clear direction
+- Investors seeking diversification beyond traditional assets
+- Working professionals and creators curious about how money is changing
+
+### About ZebPay
+
+We're ZebPay, one of India's oldest and most trusted crypto exchanges, serving over 6 million registered users since 2014.
+
+ZebPay has a strong global presence, with four offices located across India in Mumbai, Hyderabad, Ahmedabad, and Delhi.
+
+ZebPay has facilitated over $22 billion in trading volume to date.
+
+Our mission is simple -> to make Bitcoin and digital assets accessible, secure, and understandable for everyone.
+
+### About Bitcoincierge
+
+Bitcoincierge is a Bitcoin-focused concierge desk, supported by experienced Bitcoin mentors and educators.
+
+Our role is not to sell hype or push products - but to walk individuals and families through their Bitcoin journey responsibly, step by step.
+
+Bitcoincierge helps users:
+
+1. Understand Bitcoin from first principles
+2. Choose the right tools for buying and holding Bitcoin safely
+3. Learn self-custody and security best practices
+4. Think through inheritance, succession, and tax considerations
+5. Avoid common mistakes that new users often make
+
+This masterclass is an entry point into that journey - designed to replace confusion with clarity and empower attendees to make informed decisions with confidence.
+
+ZebPay Website: https://zebpay.in/ (https://zebpay.in/?utm_source=luma)
+
+Bitcoincierge Website: https://www.bitcoincierge.in/ (https://www.bitcoincierge.in/?utm_source=luma)
+
+### Event Details
+
+Venue: Gurugram (To Be Updated)
+
+Date and Time: Saturday, December 19, 2026 | 4:00 PM - 6:00 PM
+
+Seats are limited - register early to save your spot.
+
+Bring your questions, doubts, and curiosity. We'll keep it real
+
+<a id="event-45988b67216ba2d1"></a>
+
+## CryptoMondays Dubai: Christmas Edition 2026 🎄✨
+
+- Record: `luma-crypto-27tvtitSrJhSG1u`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-21T15:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/diz1itu1>
+
+### About the event
+
+Celebrate the holiday season with Dubai's premier Web3 and tech community! Join us for a special Christmas Edition of CryptoMondays MENA as we bring together founders, investors, builders, and ecosystem partners for an unforgettable evening of festive networking, high-impact conversations, and end-of-year celebrations.
+
+Whether you're looking to unwind, reflect on the year's major industry milestones, expand your professional circle, or kickstart strategic conversations for the new year, this private evening offers the perfect blend of holiday spirit and high-value networking.
+
+### What to Expect
+
+- Fireside Chats & Panel Discussions: Keynote insights and engaging discussions featuring industry leaders, investors, and Web3 visionaries reflecting on the tech landscape and what lies ahead.
+- Festive Elite Networking: Connect directly with venture capitalists, startup founders, Web3 builders, media partners, and community leaders in a relaxed, holiday setting.
+- End-of-Year Celebrations: Complimentary entry, holiday vibes, and curated networking designed to close out 2026 with the region's top innovators.
+
+Date & Location
+
+- Date: Monday, December 21, 2026
+- Time: 7:30 PM - 10:30 PM GST
+- Location: Dubai, UAE (Exact venue revealed upon registration approval)
+
+Host & Ecosystem Partners BitAngels | D2A2 | Block Tides | DSRPTD | CryptoniteUAE | Aura8 | Proof Of Collabs | Coin Edition | Singapore Blockchain Week | OffChain Global | ACCESS Blockchain Association Malaysia | Washington Elite | Liberland | CoinEasy | Venture Week | DATS AWARDS | CoinNewsExtraTv | AsiaTokenFund Group | Cointelegram | CoinGabbar | Crypto Events
+
+Registration & Entry
+
+- Ticket Type: Free Approval Request
+- Note: Space is strictly limited to maintain high-quality networking. Please request your approval early to secure your spot!
+
+<a id="event-18f50ea724c49340"></a>
+
+## #KriptoCuma - #CryptoFriday
+
+- Record: `luma-crypto-gkYlTd25k5ttgTr`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-25T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/1axfmusa>
+
+### #KriptoCuma Nedir?
+
+Yeni insanlarla tanışıp, çok farklı bakış açılarını yakalayabileceğiniz buluşmalarımıza kriptoyla ilgilenen herkes davetli.
+
+Öncelikle keyif alıyoruz. Çok şey öğreniyoruz, en önemlisi de sanalda kalmıyor arkadaşlıklarımız, dostluklarımız
+
+3-4 saat boyunca çevrende ayni dili konuşan insanların olması kendini iyi hissettiriyor.. Gel, sende bir iyilik yap kendine, bir Cuma katil bize..
+
+#KriptoCuma her Cuma Saat 19:00'da Kadiköy Altcointurk | Base'de
+
+Kripto Para, NFT ve Blockchain teknolojisi ile ilgilenen farklı kültür ve coğrafyadan insanları ayrım yapmadan #KriptoCuma etkinliğinde bir araya getiriyoruz.
+
+### What is #CryptoFriday ?
+
+Even though it's very rare to see physical meetups in the crypto world, we, as a community, have been enjoying our conversations since 2018.
+
+Anyone interested in cryptocurrency and blockchain world, meeting new people, different point of views and having fruitful conversations about the market is invited to #CryptoFriday
+
+#CryptoFriday every Friday on 19:00 at Altcointurk | Base, Kadıköy
 
 <a id="event-0d0a4309b28225c3"></a>
 
@@ -16947,6 +23065,322 @@ Tickets: Free
 Registration: requires approval from the organiser
 
 Event page: https://luma.com/aep1depi
+
+<a id="event-d3e5827d8a438446"></a>
+
+## Auralith AAO Launch Event!
+
+- Record: `luma-crypto-7k1qZLnUCzmeZzV`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-15T04:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/yuubq84i>
+
+### About the event
+
+Auralith AAO Launch Event!
+
+A New Chapter Starts With You
+
+You've seen the vision. Now join the conversation. Meet the Auralith Whole 20 Creators and ask for a one-to-one session. Join us for the Auralith AAO launch event and explore its approach to autonomous governance, smart contracts, and community participation.
+
+Discover the vision - Explore what AAO means and what Auralith aims to build.
+
+Build your understanding - Learn about the proposed technology and the role of its community.
+
+Connect with others - Meet people interested in blockchain, governance, and collaboration.
+
+Auralith AAO Launch | Connect. Discover. Celebrate.
+
+An inspiring vision. Meaningful connections. An experience beyond the stage.
+
+Join the Auralith AAO launch event to explore autonomous governance, connect with the community, and discover the people and ideas behind Auralith.
+
+What's Planned For Registered Guests
+
+Meet The People Behind The Vision
+
+An opportunity to meet Auralith's creators, with a proposed special appearance by Polygon's CEO, subject to confirmation and availability.
+
+Complimentary Learning Guides
+
+Explore Auralith, blockchain fundamentals, and community participation through accessible guides.
+
+A Special Welcome Kit
+
+Planned Auralith and Polygon welcome items, subject to provider confirmation and availability.
+
+After-Event Night Party On A Ship
+
+Continue the conversations and celebrate with the community at a planned shipboard after-party. Separate access arrangements and capacity limits may apply.
+
+Build Connections Beyond The Event
+
+Meet fellow blockchain enthusiasts, creators, and community members who share your curiosity about what comes next.
+
+Come For The Vision. Connect With The Community. Leave With New Perspectives.
+
+<a id="event-554a1e9930100101"></a>
+
+## Snowfro: Press Start
+
+- Record: `luma-crypto-e2QCeRofQ0RK7GU`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-23T02:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/node-snowfro>
+
+### About the event
+
+NODE is pleased to announce Snowfro: Press Start, an interactive exhibition of Erick Calderon's art, code, and play.
+
+Erick is a pioneering figure and a central node in the onchain generative art community. As artist and entrepreneur, he treats code as a living medium and dedicates himself to elevating this practice within the world of contemporary art.
+
+At the center of Calderon's practice is a belief that art can be playful and interactive. This aligns with NODE's focus on digital art education through participation rather than mere observation. Five principal works, created between 2020 and 2026, were selected for the exhibition and reveal a carefully woven story across technology and time.
+
+Snowfro: Press Start arrives at a moment of reflection and renewal. Across more than a decade of making art, and through the intense, formative years surrounding the creation of Chromie Squiggle and Art Blocks, Calderon's practice has evolved through experimentation, ambition, and persistence.
+
+For the first time, NODE offers an opportunity to gather these threads and look back at the ideas that have shaped his path as an artist.
+
+<a id="event-e1752e2de7c055b2"></a>
+
+## XRP Community Night Berlin
+
+- Record: `luma-crypto-LZaUAOzcUNsXTBC`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-28T17:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/xrp-community-night-berlin>
+
+### Berlin calling! 🇩🇪
+
+Looking for your next opportunity in the XRP and blockchain space?
+
+XRPL Commons, the XRPL Foundation and Bitvavo are bringing the Berlin community together for an evening focused on what's being built, what you can get involved in, and where new opportunities are emerging across the XRP Ledger ecosystem.
+
+Whether you're a developer, founder, potential user, entrepreneur, or simply curious about what's happening, this is your chance to go beyond the usual networking event.
+
+Discover exclusive projects looking for users, test new applications first-hand, meet the teams behind them and find out how you could become part of what they're building.
+
+What's on:
+
+- What's happening on XRPL: Key updates and developments from across the ecosystem.
+- Where the opportunities are: A keynote from Vet (https://x.com/Vet_X0), Director, Community & Product at the XRPL Foundation.
+- Discover & test: Explore selected XRPL applications, try new products and give feedback directly to the people building them.
+- Developer-facilitated matchmaking: Meet projects looking for collaborators, users, testers and new talent, and find out where your skills or interests could fit.
+- Networking & cocktails: Connect with builders, founders, developers and people looking to get involved in the ecosystem.
+
+Whether you're looking for your next users, a project to join, a product to try, or a team to collaborate with, there's a place for you in the room.
+
+Book your ticket now. Spaces are limited.
+
+The event will be held in English.
+
+Refund Policy
+
+All ticket purchases are final and non-refundable. No refunds will be issued in case of cancellation by the attendee or failure to attend the event (no-show).
+
+In the event of cancellation by the organizer, registered attendees will be notified and refunded accordingly.
+
+<a id="event-9dffd36c8be6d4ac"></a>
+
+## Keio ChainHack 2027 – Shaping the Future of AI & Web3
+
+- Record: `luma-crypto-WKS74g9x0VfUNtY`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-30T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nkel1orp>
+
+### About the event
+
+Lunch will be provided. Submit your pitch here (https://keio-chainhack-2027.mailchimpsites.com).
+
+A global AI & Web3 startup pitch competition bringing together students, aspiring entrepreneurs, early-stage founders, investors, and industry leaders.
+
+Showcase your innovative ideas, gain direct exposure to venture capital investors and industry experts, and connect with decision-makers shaping the future of AI and Web3.
+
+Date: Saturday, January 30, 2027
+
+Time: 1:00 PM - 6:00 PM JST
+
+Venue: TKP Garden City PREMIUM Tamachi, Tokyo, Japan & Online
+
+Pitch Your Startup to Venture Capital Investors
+
+Building something innovative in AI, Web3, or both?
+
+Apply for the opportunity to pitch your project directly to venture capital investors, industry experts, and investment decision-makers.
+
+Whether you're developing an AI-powered solution, blockchain infrastructure, a decentralized application, or an entirely new business model, we welcome innovative ideas addressing real-world problems.
+
+Both early-stage concepts and existing startups are welcome. Prototypes and tokenomics are not required.
+
+Application details and registration link to be announced.
+
+### About Keio ChainHack 2027
+
+Keio ChainHack 2027 is a collaborative initiative between Keio FinTEK Center and Taisu Ventures, designed to bridge academia and industry through a global startup pitch competition focused on Artificial Intelligence (AI) and Web3.
+
+The event brings together students, startup founders, researchers, investors, and industry professionals from Japan and abroad to showcase emerging technologies, exchange ideas, and explore new business opportunities.
+
+Participants will present their business concepts to a panel of venture capital investors, with the top three teams earning the opportunity to present their projects directly to venture capital partners for further consideration.
+
+Beyond the competition, attendees will hear directly from Taisu Ventures' portfolio companies, gain insights into emerging AI and Web3 investment trends, and connect with founders, investors, and industry leaders through dedicated networking sessions.
+
+Proposed Agenda (JST)
+
+- 1:00 PM - 1:30 PM Registration
+- 1:30 PM - 2:00 PM Networking Lunch
+- 2:00 PM - 2:15 PM Opening Remarks by Keio FinTEK Center & Taisu Ventures
+- 2:15 PM - 3:15 PM AI & Web3 Startup Pitch Competition
+- 3:15 PM - 3:30 PM Break & Judges' Scoring
+- 3:30 PM - 4:30 PM Taisu Ventures Portfolio Showcase
+- 4:30 PM - 5:00 PM Investor Panel Discussion
+- 5:00 PM - 5:15 PM Judges' Favourites Announcement & Closing Remarks
+- 5:15 PM - 5:25 PM Group Photography
+- 5:25 PM - 6:00 PM Networking Session
+
+Agenda is tentative and subject to adjustment.
+
+### Who Should Attend?
+
+- Students and aspiring entrepreneurs interested in AI, Web3, and emerging technologies.
+- Early-stage founders and startup teams looking to showcase their innovations.
+- Venture capital investors, angel investors, and industry professionals.
+- Researchers, developers, and technology enthusiasts.
+- Corporates and ecosystem partners exploring innovation and startup collaborations.
+
+Join us at Keio ChainHack 2027 and connect with the next generation of AI & Web3 innovators!
+
+<a id="event-0ece521715a94371"></a>
+
+## 翻訳者とディスカッション『ビットコイン・スタンダード』から見る世界と日本のギャップ、これからの展望
+
+- Record: `luma-crypto-7xleMfBRHSOEnkl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-31T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/meec9h0g>
+
+### About the event
+
+東京大学ブロックチェーンイノベーション寄付講座 (https://www.blockchain.t.u-tokyo.ac.jp/)が主催する本イベントでは、『ビットコイン・スタンダード (https://www.minervashobo.co.jp/book/b577558.html?utm_source=luma)』（ミネルヴァ書房）の内容をもとに、参加者間での議論を行います。
+
+会場には本書の翻訳者である練木照子 (https://www.amazon.co.jp/stores/練木照子/author/B09F3CC33B)氏をお招きし、また、本書の著者であり1月に新著 The Fiat Standard (https://thesaifhouse.com/products/tfs-hardcover) 邦訳版の出版を控えるSaifedean Ammous (https://saifedean.com/)氏からのビデオメッセージも上映する予定です。
+
+### 著者への質問募集
+
+イベントに先立ち、Saifedean Ammous (https://saifedean.com/)氏（X：@saifedean (https://x.com/saifedean)）への質問を募集します。
+
+質問は、Xでハッシュタグ「#bitcoinstandardUTokyo」を付けてご投稿ください。締切は11月30日です。
+
+Ammous氏の回答は、イベント当日に上映するビデオメッセージに収録する予定です。
+
+### タイムテーブル
+
+- 13:30　開場
+- 14:00　開会・趣旨説明・ゲスト紹介
+- 14:10　第1部 参加者発表：本書に関する質問や、読んで考えたこと（1人3分、10名程度）
+- 14:45　第1部 ディスカッション：参加者の発表をもとに、練木氏の私見を交えながら全員で議論
+- 15:20　休憩
+- 15:30　第2部 翻訳者によるLT：各国での本書の売上から見る、世界のビットコイン普及と日本の現在地
+- 15:50　第2部 ディスカッション：日本でのマスアダプションに向けて
+- 16:45　まとめ・閉会（17:00終了）
+- 主催：東京大学大学院工学系研究科 ブロックチェーンイノベーション寄付講座 (https://www.blockchain.t.u-tokyo.ac.jp/)
+- 企画・運営：
+- Kensuke ITO（東京大学大学院工学系研究科 特任研究員）
+- ichinaka（日本ビットコイン産業株式会社）
+- ゲスト：
+- 練木照子 (https://www.amazon.co.jp/stores/練木照子/author/B09F3CC33B)氏（『ビットコイン・スタンダード』翻訳者 X: @Teruko21M (https://x.com/teruko21m?s=11&t=yy51_drZhOGf4INRjxoUAw)）
+- ビデオメッセージ：
+- Saifedean Ammous (https://saifedean.com/)氏（『ビットコイン・スタンダード』著者）
+- 対象：本書を読了した方（学内外不問・自己申告）。ビットコインのプロトコル設計やナラティブ、普及について、疑問や問題意識をお持ちの方を特に歓迎します。
+- 定員：30名程度
+- 参加費・申込：無料・事前申込制
+- 言語：日本語
+
+### Event details
+
+Date: Jan 31, 2027, 14:00 (Asia/Tokyo)
+
+Venue: HASEKO - KUMA HALL
+
+Hosts: Kensuke ITO, ichinaka
+
+Tickets: Free
+
+Registration: open
+
+Event page: https://luma.com/meec9h0g
+
+<a id="event-20714cb10308b254"></a>
+
+## Rcube Crypto Alpha Talk #3 \| The Next Frontier of Alpha
+
+- Record: `luma-crypto-DgK7AHUK3YwLhqq`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-02-03T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gkyp1ub8>
+
+### About the event
+
+Et si l'un des derniers grands réservoirs d'Alpha liquide se trouvait aujourd'hui dans les actifs numériques ?
+
+Le mercredi 3 février 2027 à 18h, Rcube Asset Management réunira à l'Hôtel Le Marois, à Paris, 100 investisseurs pour la troisième édition du Rcube Crypto Alpha Talk.
+
+Cette année, nous explorerons l'un des quatre piliers de l'Alpha sur actifs numériques : la finance décentralisée (DeFi). Nous montrerons comment la gestion d'actifs on-chain peut générer de nouvelles sources de rendement liquide, décorrélés et diversifiantes.
+
+La tokenisation fait entrer un nombre croissant d'actifs financiers et réels sur les marchés on-chain. Au-delà de la transformation des infrastructures financières, cette évolution crée de nouveaux marchés, de nouvelles inefficiences et, avec elles, de nouvelles opportunités de génération d'Alpha.
+
+Comment identifier et capturer ces opportunités ? C'est ce que nous vous proposons de découvrir le 3 février.
+
+Après un panorama des opportunités d'Alpha dans les actifs numériques, nous donnerons la parole à deux équipes DeFi sélectionnées par Rcube, qui présenteront concrètement leurs stratégies de génération de rendement on-chain :
+
+- Steakhouse Financial - L'un des principaux curateurs DeFi au monde, avec 4,7 milliards de dollars d'actifs sous gestion. Sébastien Derivaux reviendra sur le développement de Steakhouse et expliquera comment son équipe génère du rendement tout en maîtrisant les risques.
+- Ellen Capital - Première équipe DeFi intégrée à Rcube. Nataniel Elkaim et Amaury Deny présenteront leur approche de l'investissement on-chain et les opportunités qu'ils exploitent.
+
+Le Rcube Crypto Alpha Talk n'est pas une conférence crypto généraliste. Il réunit exclusivement des investisseurs et allocateurs - Family Offices, UHNWI, banques privées, CGP et institutionnels - souhaitant comprendre et accéder à ces nouvelles sources d'Alpha.
+
+<a id="event-27c4b3dd401ccc48"></a>
+
+## Off the Beaten Vine: CWC wine tasting
+
+- Record: `luma-crypto-3cQwJwuytLCWPrp`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-02-11T17:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/gmqfnzrt>
+
+### About the event
+
+Most wine on our shelves comes from a handful of big names. Some of the best bottles never make it that far.
+
+For our first evening of 2027, Crypto Women Collective is teaming up with Alyssa Gammoudy of Mijn Wijnproeverij. By day, Alyssa is a crypto journalist. Beyond that, she brings the same curiosity to wine. She works with smaller, lesser known wine houses in France: family producers making exceptional wine without access to the big markets. She finds them, tastes with them and brings their bottles to people who would never otherwise come across them.
+
+This February, she's bringing seven of them to us.
+
+THE TASTING
+
+- Round 1: a bubble to start
+- Rounds 2 to 4: three whites
+- Rounds 5 and 6: two reds
+- Round 7: a dessert wine to finish
+
+Alyssa will share the story behind each house and what to taste for, with bites to go with the wines. Like every CWC evening, it's also a room full of women to meet, catch up with and swap stories with.
+
+GOOD TO KNOW
+
+- Duration: about two hours
+- Ticket: €25, which comes back to you as credit on your first order with Alyssa
+- Food: bites are served alongside the wines, so come straight from work
+- Places: we're keeping it small, with 15 places, so there's room for real conversation
+- Experience: none needed with wine or with crypto. Just come curious
+- Small producers: every order supports a small, independent wine house
+- Gift: looking for a present? A ticket makes a lovely one
+
+We can't wait to raise a glass with you.
 
 <a id="event-2fe05420b9090a38"></a>
 
@@ -17078,6 +23512,28 @@ Tacnode is the fastest database for building Crypto trading platform. We serve l
 - Application Performance Monitoring (APM
 
 Contact: Marketing@tacnode.io
+
+<a id="event-b5c938d93c0fa7e9"></a>
+
+## Solana Breakpoint 2027
+
+- Record: `luma-crypto-7SkJQFspr9hB090`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-09-08T23:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/solana-breakpoint-2027>
+
+### About the event
+
+Breakpoint 2027 brings together the leaders, builders, investors, institutions, and creators shaping the future of the Solana ecosystem. Designed as a high-signal gathering, the event creates space for meaningful connections, new ideas, and the unveiling of products and technologies pushing the network forward through keynotes, debates, workshops, and networking.
+
+Breakpoint 2027 will take place September 8-10, 2027 at Pier 48 in San Francisco, bringing the global Solana community to the heart of one of the world's most influential technology ecosystems.
+
+San Francisco is where ambitious ideas become companies, products, and movements. At the intersection of technology, venture capital, AI, crypto, and entrepreneurship, the Bay Area brings together an unmatched concentration of founders, engineers, researchers, and investors building what comes next.
+
+For Solana, it's also a return to familiar territory. Born in California, bringing Breakpoint to San Francisco connects Solana's global community with the broader technology ecosystem that helped shape its beginnings.
+
+For more information, visit (https://solana.com/breakpoint?utm_source=chatgpt.com)solana.com/breakpoint (https://solana.com/breakpoint).
 
 <a id="event-5298c944b7690c9f"></a>
 
@@ -18806,6 +25262,18 @@ The full lineup, vendors, and partners drop on the microsite: www.webflea.xyz
 
 Event Photo Release: By attending, you agree to be included in photographs or footage that may be used by Web Flea and partners for documentation and promotion.
 
+<a id="event-09da048806527ed7"></a>
+
+## Blockchain & Smart Contracts for Digital Assets - what do you want to know?
+
+- Record: `eb-607742432977`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2023-04-03
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/blockchain-smart-contracts-for-digital-assets-what-do-you-want-to-know-tickets-607742432977>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-fcd5a05b6ff367f2"></a>
 
 ## QIE Hackathon 3.0
@@ -19062,32 +25530,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-5bd97fcbffefe140"></a>
-
-## Ignite Room: Devcon Mumbai
-
-- Record: `luma-evt-eKm7z2RHvU2RJ7B`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T04:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/vdetxnel>
-
-### About the event
-
-Ignite Room hosts introductory talks and hands-on workshops on Ethereum, smart contracts and decentralized applications. Beginners are welcome. Participants must bring a laptop, and registration requires approval.
-
-<a id="event-c464c82ca361f693"></a>
-
-## Makers & Founders co-work - Build together #15
-
-- Record: `luma-evt-fIjCHUPG7u9RaBR`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T07:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/6dl470wx>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-53ad37a5c25fe346"></a>
 
 ## Company Brain Buildathon
@@ -19097,42 +25539,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-24T08:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/a5yfh2ve>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-fb22ec65a61a9dcd"></a>
-
-## Run It Forward with Run Her Way x ASICS x PassaRunning
-
-- Record: `luma-evt-S7VTD2pQ6H721Sl`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T08:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/fhj12vp1>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d0c5a9a94c476654"></a>
-
-## FIELDS in collaboration Paul Senyol - Collection 15 Optimism
-
-- Record: `luma-evt-7X4mk3GjMSyqM5S`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T09:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/u94yqxnc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-35a9a0a22e7444cd"></a>
-
-## RUNCLUB TIMEHÍBRIDO \| SÃO PAULO
-
-- Record: `luma-evt-VexrUcJk0Hd8CfJ`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T09:45:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/3gxz94bb>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -19159,18 +25565,6 @@ Giottus's CEO discusses building the Indian crypto exchange and its custody part
 - Starts: 2026-10-24T11:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/afcvzb9a>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-f35a4b267f9719bf"></a>
-
-## FuLi Coffee Break: Iara Perillo - live ambient set with altoflute and electronics.
-
-- Record: `luma-evt-lBQPt2Ou6TROS1y`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T11:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/j1vxrda8>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -30728,6 +37122,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-eb9b15653ba105b6"></a>
+
+## Uncover Zurich’s hidden gems with a scavenger hunt by World City Trail!
+
+- Record: `eb-2001866460472`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.sg/e/uncover-zurichs-hidden-gems-with-a-scavenger-hunt-by-world-city-trail-tickets-2001866460472>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-aa51c56b9cc71db8"></a>
 
 ## Meetup Hacienda  - Qui protège l'IA ? Les nouveaux enjeux de sécurité
@@ -30749,6 +37155,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-23
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/decoding-bitcoin-study-cohort-tickets-2003273751718>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4df914a1c108f32d"></a>
+
+## The Infinite $auce Expo \| AI • NFTs • Web3 • Entrepreneurship
+
+- Record: `eb-2003779378060`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-23
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/the-infinite-auce-expo-ai-nfts-web3-entrepreneurship-tickets-2003779378060>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31244,6 +37662,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-310f94fe3a82a5cb"></a>
+
+## Digital Asset Crowd: Madrid Meet-up
+
+- Record: `luma-evt-vTVIOQLCTYHk28O`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/y32s7dcb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6ae1fdb093126c73"></a>
 
 ## Bienvenidos a charla en Español.
@@ -31352,6 +37782,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-7423da8376fe06bf"></a>
+
+## Certified Blockchain Associate \| New York City
+
+- Record: `eb-1968898391089`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/certified-blockchain-associate-new-york-city-tickets-1968898391089>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0e88382c91a263ed"></a>
+
+## Certified Blockchain Associate \| Washington DC
+
+- Record: `eb-1968901145327`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/certified-blockchain-associate-washington-dc-tickets-1968901145327>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-b0d875a798f87439"></a>
 
 ## Blockchain and Business Networking\|Elevating Your Potential-Ventura County
@@ -31433,6 +37887,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-25
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/blockchain-and-business-networking-colorado-springs-tickets-1998644200606>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ada3a5b45e517b80"></a>
+
+## Access NFTS \| Insight
+
+- Record: `eb-2001069590011`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/access-nfts-insight-tickets-2001069590011>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31532,6 +37998,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-26aa191ff965e4bb"></a>
+
+## Industry Insiders: Virtual Production with VP specialist Rhys Murphy
+
+- Record: `eb-2005073880953`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/industry-insiders-virtual-production-with-vp-specialist-rhys-murphy-tickets-2005073880953>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6ccd37fb620c4314"></a>
 
 ## BlockCon Punta Cana 2026
@@ -31555,6 +38033,18 @@ Date: Nov 25 - 28, 2026, 13:00
 Venue: Barcelo Bavaro Beach
 
 Event page: https://www.blockcon.co/
+
+<a id="event-be10fcbc337390eb"></a>
+
+## DEAI Summit
+
+- Record: `dev-events-deai-summit`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/deai-summit-3crxkoev>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-99270bad78ae2d15"></a>
 
@@ -33162,6 +39652,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c4cace0094dcafad"></a>
+
+## NFTC Presents: Dustin Lowman, Shaylynn Anderson and The Down & Out
+
+- Record: `eb-2001069024319`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-29
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.ca/e/nftc-presents-dustin-lowman-shaylynn-anderson-and-the-down-out-tickets-2001069024319>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7ae79886d3f17e4a"></a>
 
 ## REAL TRADER IN 3 HOURS \| Full Trading Workshop \| Forex \| Crypto \| Stocks
@@ -33327,6 +39829,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-30
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.de/e/bitcoin-beginner-workshops-entdecke-bitcoin-tickets-1996438308724>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-337a9d8e83034ec4"></a>
+
+## Decoding Bitcoin study cohort
+
+- Record: `eb-2003273752721`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-30
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/decoding-bitcoin-study-cohort-tickets-2003273752721>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -33774,6 +40288,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8003e072f5e42e9f"></a>
+
+## Zukunft.DEFENCE
+
+- Record: `eb-1991344838016`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.de/e/zukunftdefence-tickets-1991344838016>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2851e90f0be5e4c8"></a>
 
 ## Blockchain and Business Networking - Long Island City
@@ -34080,6 +40606,18 @@ Attendance is application-based: the organizer says every guest is individually 
 
 The website currently displays speakers and statistics from previous Paris editions. The Abu Dhabi lineup will be announced to the priority list; those past names should not be treated as confirmed Abu Dhabi speakers.
 
+<a id="event-430242f553a8f4af"></a>
+
+## The Principal Dev – Masterclass for Tech Leads
+
+- Record: `dev-events-the-principal-dev---masterclass-for-tech-leads`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/principal-developer-online-5-2022>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5835046b64cfbd6d"></a>
 
 ## Proof of Talk Abu Dhabi 2026
@@ -34221,6 +40759,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-04
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.ca/e/business-conference-vip-experience-beyond-the-future-of-workforce-tickets-1995466717669>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1055cacaaab85ad5"></a>
+
+## KI? Kann ich! – Wie du als Frau* die KI-Zukunft mitgestaltest
+
+- Record: `eb-1997140481943`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-04
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.de/e/ki-kann-ich-wie-du-als-frau-die-ki-zukunft-mitgestaltest-tickets-1997140481943>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -34874,6 +41424,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-dcd70daa1a902c1d"></a>
+
+## Unravelling NFTs (Non Fungible Tokens)\| Boston
+
+- Record: `eb-1967811272488`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-boston-tickets-1967811272488>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-24f6882eeeea7796"></a>
 
 ## Unravelling NFTs (Non Fungible Tokens)\| New York City
@@ -34883,6 +41445,42 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-09
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-new-york-city-tickets-1968311862767>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-52bd6cfed390576c"></a>
+
+## Unravelling NFTs (Non Fungible Tokens)\| Washington DC
+
+- Record: `eb-1968312152634`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-washington-dc-tickets-1968312152634>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8c33d72c6b1c6add"></a>
+
+## Unravelling NFTs (Non Fungible Tokens)\| Seattle
+
+- Record: `eb-1968312288039`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-seattle-tickets-1968312288039>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ed8b6f1b130fb3de"></a>
+
+## Unravelling NFTs (Non Fungible Tokens)\| San Francisco
+
+- Record: `eb-1968312437486`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-san-francisco-tickets-1968312437486>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35222,6 +41820,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c97fc8fc8571cdde"></a>
+
+## Clean Architecture Masterclass
+
+- Record: `dev-events-clean-architecture-masterclass`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/clean-architecture-online-4-2023>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1b8747f5f539b7eb"></a>
 
 ## Global Blockchain Show (GBS)
@@ -35461,6 +42071,54 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10T17:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/8dbtwm2w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d26d4bc890d9e93e"></a>
+
+## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
+
+- Record: `mu-317272376`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T21:30:00+05:30
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-noida/events/317272376/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d51793a28af9b626"></a>
+
+## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
+
+- Record: `mu-317272382`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T21:30:00+05:30
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-delhi-ncr/events/317272382/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-79ee62a8091113e0"></a>
+
+## ZK Learning Group: Wrap-up 2026, ZK order book matching
+
+- Record: `mu-317272041`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T22:30:00+05:30
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-madhya-pradesh/events/317272041/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-aea0f38060a49bf0"></a>
+
+## ZK Learning Group: Wrap-up 2026, ZK order book matching
+
+- Record: `mu-317272111`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T22:30:00+05:30
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-delhi-ncr/events/317272111/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35946,6 +42604,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f8569153ed4a5c60"></a>
+
+## Certified DeFi Associate \| New York City
+
+- Record: `eb-1968877255873`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-16
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/certified-defi-associate-new-york-city-tickets-1968877255873>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6e50fb62efae440f"></a>
+
+## Certified DeFi Associate \| Seattle
+
+- Record: `eb-1968878290969`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-16
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/certified-defi-associate-seattle-tickets-1968878290969>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c3509c22e70859cb"></a>
 
 ## Certified DeFi Associate \| San Francisco
@@ -36150,6 +42832,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-50be1bbf618df3ea"></a>
+
+## Exclusive Visit to the French National Assembly
+
+- Record: `eb-2004613055612`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-18
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/exclusive-visit-to-the-french-national-assembly-tickets-2004613055612>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-f97fe1bad1a2862e"></a>
 
 ## Launch of the Institute for Digital Assets and Economic Innovation AND Industry Dialogue
@@ -36183,6 +42877,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-19
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/bilhetes-a-descoberta-da-cor-2000481827999>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-78d5db2a751bcf33"></a>
+
+## NFTC – Emerging Artists Showcase
+
+- Record: `eb-2003426664083`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-19
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.ca/e/nftc-emerging-artists-showcase-tickets-2003426664083>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -36402,6 +43108,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-53a7fa9742deaddb"></a>
+
+## New Year's Eve Party 2026 - NFT Skybar
+
+- Record: `eb-2002193919912`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-31
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/new-years-eve-party-2026-nft-skybar-tickets-2002193919912>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-beabf835d8c95c3b"></a>
 
 ## New Year's Eve at Velvet Room \| DJ Nico
@@ -36463,6 +43181,18 @@ Tickets: Free
 Registration: open
 
 Event page: https://luma.com/aq7rqqmn
+
+<a id="event-eda9df81738c87e5"></a>
+
+## Der Unternehmer 2035 - BestPrime holt Zukunftsforscher Sven Gábor Janszky
+
+- Record: `eb-1992195838381`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-09
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.de/e/der-unternehmer-2035-bestprime-holt-zukunftsforscher-sven-gabor-janszky-tickets-1992195838381>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-82f7d80dda5cc1bc"></a>
 
@@ -36656,6 +43386,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8c892e6c4a0faf5f"></a>
+
+## NFTS Scotland: Script Development for Film and TV Online Open Day
+
+- Record: `eb-2004585065894`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-20
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/nfts-scotland-script-development-for-film-and-tv-online-open-day-tickets-2004585065894>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-81081c0502adb15b"></a>
 
 ## Crypto Literacy Taught Live \| Free Six-Week Educational Series
@@ -36757,6 +43499,18 @@ Following successful editions across Europe (including Portugal and Croatia), Bl
 ### Registration and tickets
 
 Official festival passes - including General Admission, Business Passes, and VIP All-Access passes - are available directly through the official event portal at https://blockdownfestival.com/.
+
+<a id="event-10db5af8f1545e27"></a>
+
+## BlockDown Festival Dubai 2027
+
+- Record: `dev-events-blockdown-festival-dubai-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-26T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/block-down-festival-dubai-2027-hzy5kgik>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-0de3d9297c7f8c29"></a>
 
@@ -36983,6 +43737,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f63fa6ad211b17ee"></a>
+
+## Adopting Bitcoin Cape Town 2027
+
+- Record: `dev-events-adopting-bitcoin-cape-town-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-02-26T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/adopting-bitcoin-cape-town-2027-0axubimr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c73423d8e8eaa088"></a>
 
 ## London Crypto + HNWI Sector March City Networking At The Gherkin
@@ -37127,6 +43893,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-b4f67197bdff4320"></a>
+
+## Mining Disrupt 2027
+
+- Record: `dev-events-mining-disrupt-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-03-22T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/mining-disrupt-2027-z7kz0twp>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-83902707b792f9bd"></a>
 
 ## London Crypto +FinTech Industry March Networking At Davys At St.James
@@ -37136,6 +43914,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-03-23
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.co.uk/e/london-crypto-fintech-industry-march-networking-at-davys-at-stjames-tickets-2001389837881>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6c33fa9729bc3e36"></a>
+
+## CypherCon 10
+
+- Record: `dev-events-cyphercon-10`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-03-24T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/cypher-con-10-2e9jgdon>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -37553,6 +44343,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-732e77cd2e8e7d60"></a>
+
+## TOKEN2049 Dubai
+
+- Record: `dev-events-token2049-dubai`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-04-21T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/token-2049-dubai-zjdfcnml>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1e04e6f50b3fa039"></a>
 
 ## TOKEN2049 Dubai 2027
@@ -37599,6 +44401,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-04-24
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/web3-blockchain-innovation-forum-2027-tickets-1990067222634>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fc37ab6f347cced6"></a>
+
+## AlmaChain 2027
+
+- Record: `dev-events-almachain-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-04-24T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/alma-chain-2027-lls-lio1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -37727,6 +44541,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-05-11
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.ca/e/future-fintech-awards-conference-france-2027-tickets-2004647797526>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e4562a2707ff8b43"></a>
+
+## Dutch Blockchain Week 2027
+
+- Record: `dev-events-dutch-blockchain-week-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-05-17T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/dutch-blockchain-week-2027-5ktwo30e>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -37859,6 +44685,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 NFC Summit 2027 - Non Fungible Conference - 27-29 May 2027, Lisbon NFC Summit Coming soon NON FUNGIBLE CONFERENCE 2027 27 - 28 - 29 May 2027 Unicorn Factory, Lisbon Save the date NFC is coming back in 2027 27 - 28 - 29 May 2027 - Unicorn Factory, Lisbon In the meantime, you can already get your ticket - and put your name on the wall of the venue. Already sponsors for 2027 - live from the wall Sponsors 2027 0 positions minted - Order of mint - updates live Every sponsor above bought a piece of the venue - painted for real, recorded on-chain.
+
+<a id="event-a86afab8233d0e9a"></a>
+
+## NFC Summit 2027
+
+- Record: `dev-events-nfc-summit-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-05-27T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/nfc-summit-2027-b5up60vq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-9813b78a5d94c0c1"></a>
 
@@ -37996,6 +44834,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e1d19478b25f02e1"></a>
+
+## Africa Payments & RegTech Forum
+
+- Record: `dev-events-africa-payments---regtech-forum`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-06-24T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/africa-payments-and-reg-tech-forum-s2a81lvd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-07d5e240c62048c8"></a>
+
+## Signal Week
+
+- Record: `dev-events-signal-week`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-07-06T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/signal-week-vl7ev2oy>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-825022ddb2484c3e"></a>
 
 ## Signal Week 2027
@@ -38068,6 +44930,18 @@ Probably the best thing about being in bitcoin and taking a position on bitcoin 
 
 The culture Bitcoin Museum The world's first museum dedicated to Bitcoin, built by BTC Media at our Nashville headquarters - open year-round and steps from the event. Bitcoin Museum Venue Music City Center. 201 Rep. John Lewis Way S, Nashville, TN 37203 Floor Space1. 2M sq ft Exhibit Hall353K sq ft Meeting Rooms60+ Capacity20,000+ Music City Center - Nashville, TN
 
+<a id="event-18c7cd8b53dfe231"></a>
+
+## Bitcoin 2027
+
+- Record: `dev-events-bitcoin-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-07-15T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/bitcoin-2027-5ghp1hgd>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-a55e3aba26f92bc1"></a>
 
 ## Bitcoin 2027
@@ -38116,6 +44990,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a56c3f2707af62c8"></a>
+
+## Bitcoin Beyond 66
+
+- Record: `dev-events-bitcoin-beyond-66`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-08-14T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/bitcoin-beyond-66-nkmrvqyl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-771b04604bc4d97e"></a>
 
 ## Coinfest Asia 2027
@@ -38149,6 +45035,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-08-25T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://2027.webx-asia.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-13a66a02ba5702c7"></a>
+
+## Bitcoin Hong Kong 2027
+
+- Record: `dev-events-bitcoin-hong-kong-2027`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-08-26T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/bitcoin-hong-kong-2027-mjlik6yr>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -38197,6 +45095,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-09-06T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://koreablockchainweek.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f476820d3ef03861"></a>
+
+## Solana Breakpoint
+
+- Record: `dev-events-solana-breakpoint`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-09-08T00:00:00.000+00:00
+- Description: Unverified stored copy
+- Original page: <https://dev.events/conferences/solana-breakpoint-lhys6ntz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

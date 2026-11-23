@@ -573,7 +573,8 @@ async function main() {
   const skippedNoCopy: Array<{ name: string; url: string; reason: string }> = [];
   const takenSlugs = new Set(index.slugs);
 
-  const prepared = await mapPool(candidates, 4, async (entry) => {
+  // Serial page fetches: Luma rate-limits concurrent event-page requests heavily.
+  const prepared = await mapPool(candidates, 1, async (entry) => {
     const eventUrl = normUrl(entry.event.url?.startsWith('http') ? entry.event.url : `https://luma.com/${entry.event.url}`);
     const page = await fetchLumaPage(eventUrl, refresh);
     await new Promise((r) => setTimeout(r, 150));
@@ -598,7 +599,12 @@ async function main() {
       continue;
     }
     const slug = proposeSlug(name, entry.event.url || '', takenSlugs, entry.event.start_at);
-    imported.push(buildRecord(entry, eventUrl, page, source, slug, fetchedAt));
+    const record = buildRecord(entry, eventUrl, page, source, slug, fetchedAt);
+    if (!canImportEvent(record, eventTombstones)) {
+      skippedNoCopy.push({ name, url: eventUrl, reason: 'messaging-community link blocked' });
+      continue;
+    }
+    imported.push(record);
   }
 
   console.log(`Rejected after copy check: ${rejectedByQuality.length}`);

@@ -40,6 +40,17 @@ function clean(value?: string): string {
   return (value || '').replace(/\s+/g, ' ').trim();
 }
 
+/** Preserve organiser line breaks; only collapse horizontal whitespace per line. */
+function preserveOrganizerCopy(value?: string): string {
+  return (value || '')
+    .replace(/\r\n?/g, '\n')
+    .split('\n')
+    .map((line) => line.replace(/[ \t]+/g, ' ').trim())
+    .join('\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 /** Factual detail lines sourced from the event page. */
 export function buildFactLines(facts: EventFacts): string[] {
   const lines: string[] = [];
@@ -82,7 +93,7 @@ export function composeEventDescription(
   extraParagraphs: string[] = [],
 ): { description: string; words: number; reachedMinimum: boolean } {
   const paragraphs: string[] = [];
-  const body = clean(organizerCopy);
+  const body = preserveOrganizerCopy(organizerCopy);
   if (body) paragraphs.push(body);
   for (const paragraph of extraParagraphs) {
     const text = clean(paragraph);

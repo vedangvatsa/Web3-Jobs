@@ -9720,7 +9720,6 @@
   "luma-crypto-tcFoFxwDZkn1fdl": {
     "until": "2027-11-14T00:00:00.000Z",
     "slugs": [
-      "bitcoin-me",
       "luma-crypto-tcfofxwdzkn1fdl"
     ]
   },
@@ -10567,6 +10566,20 @@
     "slugs": [
       "vancouver-vibestation-2026-10-23",
       "discovery-evt-61qmi4lir0kzsdr"
+    ]
+  },
+  "luma-evt-eKm7z2RHvU2RJ7B": {
+    "until": "2027-11-23T11:06:16.096Z",
+    "slugs": [
+      "ignite-room-devcon-mumbai",
+      "luma-evt-ekm7z2rhvu2rj7b"
+    ]
+  },
+  "discovery-evt-eEhN4p4N79AW1PR": {
+    "until": "2027-11-23T12:26:27.742Z",
+    "slugs": [
+      "team1-india-university-workshop-vishwakarma-institute-technology-pune",
+      "discovery-evt-eehn4p4n79aw1pr"
     ]
   }
 }

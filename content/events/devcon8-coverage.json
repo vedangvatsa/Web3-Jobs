@@ -227,22 +227,6 @@
       "sourceMatchesBefore": [],
       "runtimeBefore": [],
       "runtimeAfter": [],
-      "primary": {
-        "url": "https://luma.com/3qtj8ogp",
-        "finalUrl": "https://luma.com/3qtj8ogp",
-        "canonicalUrl": "https://luma.com/3qtj8ogp",
-        "httpStatus": 200,
-        "fetchedAt": "2026-10-16T08:51:34.373Z",
-        "sha256": "5139ba18c8b3c52348d944d3e5722af57e7b40f276b42d048560c587510cc0c6",
-        "title": "Road to Devcon VIII India - PUNE Final Edition · Luma",
-        "visibility": "public",
-        "startDate": "2026-10-24T05:30:00.000Z",
-        "endDate": "2026-10-24T10:30:00.000Z",
-        "timezone": "Asia/Kolkata",
-        "locationHidden": false,
-        "approvalRequired": true,
-        "cancelled": false
-      },
       "identityProof": []
     },
     {

@@ -39,7 +39,7 @@ assert.equal(links('a strong').text(), 'the guide');
 assert.equal(links('img').length, 0);
 assert.ok(links('p').text().includes(')). Or'));
 const schedule = splitEventDescriptionBlocks('Day 1, Wednesday 16 September 11:30 AM Doors open 12:00 to 12:20 PM Kickoff and standup 12:20 to 3:30 PM Focused work 3:30 PM onwards Mentor walk ins');
-assert.equal(schedule.filter(block => block.type === 'agenda').length, 4);
+assert.equal(schedule.filter(block => block.type === 'agenda').length, 6);
 const prose = 'The morning starts with coffee at 8:30 a.m., a panel at 9:00, then networking from 9:45. Doors close at 9:00 a.m. sharp.';
 assert.deepEqual(splitEventDescriptionBlocks(prose), [{ type: 'p', text: prose }]);
 const studyGroup = 'The gathering has a Bitcoin study group from 13:30 to 15:00, followed by a cypherpunk discussion from 16:00 to 17:30. Everyone is welcome.';

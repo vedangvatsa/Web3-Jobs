@@ -1095,16 +1095,8 @@
       "perps-and-chai-hyprearn-mumbai"
     ]
   },
-  "luma-evt-eKm7z2RHvU2RJ7B": {
-    "slug": "ignite-room-devcon-mumbai",
-    "aliases": []
-  },
   "discovery-evt-TiZnPxscDelGhid": {
     "slug": "eth-shenzhen",
-    "aliases": []
-  },
-  "discovery-evt-eEhN4p4N79AW1PR": {
-    "slug": "team1-india-university-workshop-vishwakarma-institute-technology-pune",
     "aliases": []
   },
   "luma-evt-sAAM7t4xPhiGJtV": {
@@ -3507,5 +3499,471 @@
     "aliases": [
       "web3-fomo-fest-after-party"
     ]
+  },
+  "luma-crypto-muxTrPMb2MEZ2YD": {
+    "slug": "vc-yes-web",
+    "aliases": []
+  },
+  "luma-crypto-49FvYrNvtvPO5pu": {
+    "slug": "4-top-spea",
+    "aliases": []
+  },
+  "luma-crypto-8TMR5xYEEOuewCO": {
+    "slug": "proof-grat",
+    "aliases": []
+  },
+  "luma-crypto-lvHz1Hk41yT1Y5p": {
+    "slug": "crypto-pol",
+    "aliases": []
+  },
+  "luma-crypto-IQ2Mi8LkobyYVRb": {
+    "slug": "cryptomondays-philly-session-25",
+    "aliases": [
+      "cryptomondtxm"
+    ]
+  },
+  "luma-crypto-xCccOa2soSw9tOX": {
+    "slug": "giwa-gasok",
+    "aliases": []
+  },
+  "luma-crypto-JlHFGGlCJBXuLZW": {
+    "slug": "ai-chuo-city",
+    "aliases": [
+      "pdeq8u"
+    ]
+  },
+  "luma-crypto-UNPvQOsHiGBJYQh": {
+    "slug": "cena-de-fu",
+    "aliases": []
+  },
+  "luma-crypto-8YXV681EWPlTCYl": {
+    "slug": "appreciation-social",
+    "aliases": [
+      "appreciati"
+    ]
+  },
+  "luma-crypto-8IiXFwJ9HmQkPy8": {
+    "slug": "auckland-c",
+    "aliases": []
+  },
+  "luma-crypto-J4cQo2hBO2jMkMe": {
+    "slug": "bybit-bill",
+    "aliases": []
+  },
+  "luma-crypto-im1Rjs7hJPKwAMz": {
+    "slug": "whitepaper4yn",
+    "aliases": []
+  },
+  "luma-crypto-zLGm4NrGbR5C2zT": {
+    "slug": "whitepaperwpr",
+    "aliases": []
+  },
+  "luma-crypto-KG0xgIKlZ1HWxDX": {
+    "slug": "stablecoins-americas-cross-border-opportunity",
+    "aliases": []
+  },
+  "luma-crypto-J1RxlWqvklDjuuT": {
+    "slug": "meet-czech",
+    "aliases": []
+  },
+  "luma-crypto-6idNLEyyKZN6b0e": {
+    "slug": "post-break",
+    "aliases": []
+  },
+  "luma-crypto-B4mXnqlZiDjM0d5": {
+    "slug": "same-fund",
+    "aliases": []
+  },
+  "luma-crypto-QnQRfvOIMRZqsvj": {
+    "slug": "bitdevs-so",
+    "aliases": []
+  },
+  "luma-crypto-UAGWLqBe7al4eAl": {
+    "slug": "american-c",
+    "aliases": []
+  },
+  "luma-crypto-gyyGBm4prZOaKYH": {
+    "slug": "integral-x",
+    "aliases": []
+  },
+  "luma-crypto-UBy8TpgwCahoaN7": {
+    "slug": "whitepaper-bangkok",
+    "aliases": []
+  },
+  "luma-crypto-zF2vSgJO5SC2sdl": {
+    "slug": "ottersec-s",
+    "aliases": []
+  },
+  "luma-crypto-OecGG8Mn3DCdX27": {
+    "slug": "team1-conn",
+    "aliases": []
+  },
+  "luma-crypto-LgIA6PEOtIcCFZz": {
+    "slug": "merov-summ",
+    "aliases": []
+  },
+  "luma-crypto-FncGLKmjPuSRYiN": {
+    "slug": "team1-bras",
+    "aliases": []
+  },
+  "luma-crypto-hWNMVlRdatbTJjJ": {
+    "slug": "hardwate-w",
+    "aliases": []
+  },
+  "luma-crypto-a3yligVWJB8E4Rf": {
+    "slug": "solana-nz",
+    "aliases": []
+  },
+  "luma-crypto-YIurwMnOEObVDCM": {
+    "slug": "next-unico",
+    "aliases": []
+  },
+  "luma-crypto-UbES7ipbJiGHspw": {
+    "slug": "agentic-fi",
+    "aliases": []
+  },
+  "luma-crypto-S85peLd1TLeNc05": {
+    "slug": "solana-stu",
+    "aliases": []
+  },
+  "luma-crypto-6VkvOuDjMAF41fG": {
+    "slug": "co-workingtm2",
+    "aliases": []
+  },
+  "luma-crypto-0j4gD8wq4tKbHH0": {
+    "slug": "bangkok-fo",
+    "aliases": []
+  },
+  "luma-crypto-98jx9SXCTZBcKqY": {
+    "slug": "bbw-side-e",
+    "aliases": []
+  },
+  "luma-crypto-TPjqwUMl3IAG32r": {
+    "slug": "dash-after",
+    "aliases": []
+  },
+  "luma-crypto-vEnX52fEZxXJZYZ": {
+    "slug": "web3-build",
+    "aliases": []
+  },
+  "luma-crypto-Dh0d7ymtc8TktHQ": {
+    "slug": "mulheres-n",
+    "aliases": []
+  },
+  "luma-crypto-BVDMkxvBuxDsAxI": {
+    "slug": "day-1-catf",
+    "aliases": []
+  },
+  "luma-crypto-PGulrKNPIidFuvu": {
+    "slug": "hackathon",
+    "aliases": []
+  },
+  "luma-crypto-d93uiPxQlMmlphP": {
+    "slug": "suihub-lag",
+    "aliases": []
+  },
+  "luma-crypto-nXuW7kPo3PcU1Rh": {
+    "slug": "predict-ni",
+    "aliases": []
+  },
+  "luma-crypto-zx1PJXC9gEeNSgA": {
+    "slug": "ushkee-who",
+    "aliases": []
+  },
+  "luma-crypto-zOs6ZbIi9fE8qss": {
+    "slug": "bitdevs-la",
+    "aliases": []
+  },
+  "luma-crypto-Hp3PAWlEOx3okVI": {
+    "slug": "bbwon8",
+    "aliases": []
+  },
+  "luma-crypto-CZFvyMlvwoTrp2S": {
+    "slug": "coffee-bit",
+    "aliases": []
+  },
+  "luma-crypto-UTPHjGo6CEUAFhg": {
+    "slug": "anti-fragi",
+    "aliases": []
+  },
+  "luma-crypto-uH6u5jf6PJjmDlS": {
+    "slug": "day-2-catf",
+    "aliases": []
+  },
+  "luma-crypto-PcQFoQxIo3e0fjE": {
+    "slug": "future-is",
+    "aliases": []
+  },
+  "luma-crypto-nToyO3NE55zEmK4": {
+    "slug": "dash-dev-d",
+    "aliases": []
+  },
+  "luma-crypto-UvbEHrDSqYeArxj": {
+    "slug": "proof-ai-b",
+    "aliases": []
+  },
+  "luma-crypto-2xGTTGyT4yIDpfC": {
+    "slug": "alpha-tabl",
+    "aliases": []
+  },
+  "luma-crypto-GA41QTIByVpFqx7": {
+    "slug": "web3-eventktu",
+    "aliases": []
+  },
+  "luma-crypto-Bnxnu2332UNyBSP": {
+    "slug": "aster-comm",
+    "aliases": []
+  },
+  "luma-crypto-gN8DMyMWBNlfeQi": {
+    "slug": "daos-week",
+    "aliases": []
+  },
+  "luma-crypto-auJs8zJ4OJyeqHk": {
+    "slug": "mining-dis",
+    "aliases": []
+  },
+  "luma-crypto-HbAu6WTE23hMupz": {
+    "slug": "web3md-bal",
+    "aliases": []
+  },
+  "luma-crypto-2dnCQwwxqTcJQnQ": {
+    "slug": "tech-commu",
+    "aliases": []
+  },
+  "luma-crypto-82jJAun2dZYjdKn": {
+    "slug": "fireside-c",
+    "aliases": []
+  },
+  "luma-crypto-5MRpiW5RUXHjX4S": {
+    "slug": "daos-weekdao",
+    "aliases": []
+  },
+  "luma-crypto-2LoUE7CUYmS1UFu": {
+    "slug": "bitdevs-to",
+    "aliases": []
+  },
+  "luma-crypto-LPNGICHLKGXXECT": {
+    "slug": "denver-bit",
+    "aliases": []
+  },
+  "luma-crypto-G1C4zD50kbNAajK": {
+    "slug": "bitcoin-br",
+    "aliases": []
+  },
+  "luma-crypto-PE2r0DjrvNooWxH": {
+    "slug": "dubai-brun",
+    "aliases": []
+  },
+  "luma-crypto-MyZo6eJD3xiEIzW": {
+    "slug": "aspect-blo",
+    "aliases": []
+  },
+  "luma-crypto-VNBwlxFnJVFgZxw": {
+    "slug": "zurich-soc",
+    "aliases": []
+  },
+  "luma-crypto-YXa85uH7PkyVuIJ": {
+    "slug": "tokenizar",
+    "aliases": []
+  },
+  "luma-crypto-BcKBTo6VK3EsfiT": {
+    "slug": "antidote-p",
+    "aliases": []
+  },
+  "luma-crypto-LUYQxTOabhTzJnK": {
+    "slug": "future-tra",
+    "aliases": []
+  },
+  "luma-crypto-sQJY2Yidj21RTRD": {
+    "slug": "cci-x-payw",
+    "aliases": []
+  },
+  "luma-crypto-pNPUYSXtXzsRHT9": {
+    "slug": "geneva-inv",
+    "aliases": []
+  },
+  "luma-crypto-A8j5AzngAWDgSGW": {
+    "slug": "tecnologia",
+    "aliases": []
+  },
+  "luma-crypto-x2YUENTlvkUt4TX": {
+    "slug": "heads-up-h",
+    "aliases": []
+  },
+  "luma-crypto-F2Xabi0c6pHFKZV": {
+    "slug": "bitcoin-me-prague",
+    "aliases": []
+  },
+  "luma-crypto-crUZhaXhAeSdLJK": {
+    "slug": "bitdevs-cd",
+    "aliases": []
+  },
+  "luma-crypto-BmI6WK10Oc0ZQlA": {
+    "slug": "jllinkai-a",
+    "aliases": []
+  },
+  "luma-crypto-8VumgTPTEUmCUuh": {
+    "slug": "onecloud-d",
+    "aliases": []
+  },
+  "luma-crypto-vTbLiNFwj9EHIFs": {
+    "slug": "nex-t-duba",
+    "aliases": []
+  },
+  "luma-crypto-oWxpYgQmUkL2kPw": {
+    "slug": "fintech-ne",
+    "aliases": []
+  },
+  "luma-crypto-AZpIMxq97iDKNFG": {
+    "slug": "agentic-pa",
+    "aliases": []
+  },
+  "luma-crypto-adMGPPQCUQehNTH": {
+    "slug": "privacy-as",
+    "aliases": []
+  },
+  "luma-crypto-Gc5KVD423P9HlGl": {
+    "slug": "reap-priva",
+    "aliases": []
+  },
+  "luma-crypto-bOviqAGwwNWmrVE": {
+    "slug": "founders-f",
+    "aliases": []
+  },
+  "luma-crypto-ezAA3MxsQ2IaHUg": {
+    "slug": "tokenize-c",
+    "aliases": []
+  },
+  "luma-crypto-Pw2KHoEp30Hlsz4": {
+    "slug": "xrpl-hacka",
+    "aliases": []
+  },
+  "luma-crypto-FswuUYy2dDcWQDT": {
+    "slug": "match-nigh",
+    "aliases": []
+  },
+  "luma-crypto-4EDsB2GqW0jHyhh": {
+    "slug": "recon-coin",
+    "aliases": []
+  },
+  "luma-crypto-qPdUmhvIN6H7Mbq": {
+    "slug": "ciberseguranca-na-era-da-ia",
+    "aliases": [
+      "cibersegur"
+    ]
+  },
+  "luma-crypto-8Lf1dS5uyxoHQ0S": {
+    "slug": "digital-mo",
+    "aliases": []
+  },
+  "luma-crypto-RLMy3UZhBCEOXWY": {
+    "slug": "driven-dre",
+    "aliases": []
+  },
+  "luma-crypto-gCDn7nd6NRM9yAB": {
+    "slug": "beldex-pre",
+    "aliases": []
+  },
+  "luma-crypto-40BYD6SiExbaz40": {
+    "slug": "cena-priva",
+    "aliases": []
+  },
+  "luma-crypto-kE8xn0FGq6YwHJa": {
+    "slug": "end-year-p",
+    "aliases": []
+  },
+  "luma-crypto-zJT61CIdT8maVuH": {
+    "slug": "whales-lou",
+    "aliases": []
+  },
+  "luma-crypto-efGQLDQF9GZxxqA": {
+    "slug": "nft-sampa",
+    "aliases": []
+  },
+  "luma-crypto-GZrJTJYW9Mu5MDi": {
+    "slug": "communtiy",
+    "aliases": []
+  },
+  "luma-crypto-3FgjJKRzLrJdZjj": {
+    "slug": "bay-area-b",
+    "aliases": []
+  },
+  "luma-crypto-alAZAWlZsQ0NJl5": {
+    "slug": "awic-dc-ho",
+    "aliases": []
+  },
+  "luma-crypto-eGwYlrIxy6MU9Jy": {
+    "slug": "crypto-chr",
+    "aliases": []
+  },
+  "luma-crypto-5I5BWAZlkbKqAWb": {
+    "slug": "ai-arcade",
+    "aliases": []
+  },
+  "luma-crypto-FIvz7taI4yPqhpR": {
+    "slug": "awic-bitso",
+    "aliases": []
+  },
+  "luma-crypto-6hLKFLf37LJE4yB": {
+    "slug": "escondido",
+    "aliases": []
+  },
+  "luma-crypto-9qkZLPAb2dgPYLz": {
+    "slug": "proof-buil8pl",
+    "aliases": []
+  },
+  "luma-crypto-L3210mVzhVOEWgA": {
+    "slug": "proof-comm",
+    "aliases": []
+  },
+  "luma-crypto-UmA7HmsrDMeMpsc": {
+    "slug": "kriptocumawsk",
+    "aliases": []
+  },
+  "luma-crypto-p2zv6Ge9hMHv8nw": {
+    "slug": "bitcoin-ma",
+    "aliases": []
+  },
+  "luma-crypto-27tvtitSrJhSG1u": {
+    "slug": "cryptomondays-dubai-christmas-edition",
+    "aliases": [
+      "cryptomonddiz"
+    ]
+  },
+  "luma-crypto-gkYlTd25k5ttgTr": {
+    "slug": "kriptocuma1ax",
+    "aliases": []
+  },
+  "luma-crypto-7k1qZLnUCzmeZzV": {
+    "slug": "auralith-a",
+    "aliases": []
+  },
+  "luma-crypto-e2QCeRofQ0RK7GU": {
+    "slug": "snowfro-pr",
+    "aliases": []
+  },
+  "luma-crypto-LZaUAOzcUNsXTBC": {
+    "slug": "xrp-commun",
+    "aliases": []
+  },
+  "luma-crypto-WKS74g9x0VfUNtY": {
+    "slug": "keio-chain",
+    "aliases": []
+  },
+  "luma-crypto-7xleMfBRHSOEnkl": {
+    "slug": "web3-eventmee",
+    "aliases": []
+  },
+  "luma-crypto-DgK7AHUK3YwLhqq": {
+    "slug": "rcube-cryp",
+    "aliases": []
+  },
+  "luma-crypto-3cQwJwuytLCWPrp": {
+    "slug": "off-beaten",
+    "aliases": []
+  },
+  "luma-crypto-7SkJQFspr9hB090": {
+    "slug": "solana-bresol",
+    "aliases": []
   }
 }

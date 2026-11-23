@@ -6,7 +6,16 @@ export type EventDescriptionBlock =
 function separateAgendaEntries(text: string): string {
   const time = '\\d{1,2}:\\d{2}(?:\\s*[ap]\\.?m\\.?)?';
   const slot = new RegExp(`\\b${time}(?:\\s*(?:to|[-–—])\\s*${time})?\\s*(?:[-:|]\\s*|\\s+)(?![ap]\\.?m\\.?\\b)(?=[\\p{L}])`, 'giu');
-  return text.split('\n').map(line => {
+  const breakInlineAgenda = (line: string) => {
+    const times = line.match(/\b\d{1,2}:\d{2}\s*(?:AM|PM|am|pm|a\.m\.|p\.m\.)?/gi) || [];
+    if (times.length < 4) return line;
+    const rangeSlots =
+      line.match(/\b\d{1,2}:\d{2}\s*(?:AM|PM|am|pm|a\.m\.|p\.m\.)?\s*(?:to|[-–—])\s*\d{1,2}:\d{2}/gi) || [];
+    const dayLead = /^\s*Day\s+\d\b/i.test(line);
+    if (!dayLead && rangeSlots.length < 3) return line;
+    return line.replace(/(?<=\S)\s+(?=\d{1,2}:\d{2}(?:\s*(?:[-–—]|to)\s*\d{1,2}:\d{2})?(?:\s*[-–—|:])?)/gi, '\n');
+  };
+  return text.split('\n').map((line) => breakInlineAgenda(line)).map(line => {
     const starts = Array.from(line.matchAll(slot), match => match.index!);
     if (starts.length < 2) return line;
     const prefix = line.slice(0, starts[0]);

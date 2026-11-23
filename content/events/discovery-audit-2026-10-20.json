@@ -5956,45 +5956,6 @@
       }
     },
     {
-      "id": "discovery-evt-eEhN4p4N79AW1PR",
-      "name": "Team1 India University Workshop - Vishwakarma Institute of Technology, Pune",
-      "startDate": "2026-10-24T08:30:00.000Z",
-      "endDate": "2026-10-24T11:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-eEhN4p4N79AW1PR",
-      "url": "https://luma.com/917zvizr",
-      "lane": "india",
-      "reason": "No event-ID, URL or name/date match in runtime, sources, holds or tombstones. Current event-specific cover used instead of the older directory thumbnail.",
-      "evidence": [
-        {
-          "url": "https://luma.com/917zvizr",
-          "fetchedAt": "2026-10-20T08:57:06.217Z",
-          "excerpt": "Hosted in collaboration with Microsoft Learn Student Club (MLSC), Vishwakarma Institute of Technology, Pune. Classroom 1400, 4th Floor, 1st Building, VIT Bibwewadi. Laptop mandatory. 2:00 PM check-in, 5:00 PM closing. start_at 2026-10-24T08:30:00.000Z; end_at 2026-10-24T11:30:00.000Z; Asia/Kolkata; visibility public; require_approval true. Current cover_url ends /pd/e11250ad-8848-415b-ba6c-dd74727162d8.jpg.",
-          "sha256": "c11ba0c543d652a034116a49b5cd84c91092f346e5d603a15dcff3c72a6a92d7",
-          "representation": "HTTP response HTML, organizer program and embedded event data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:05.018Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/pd/e11250ad-8848-415b-ba6c-dd74727162d8.jpg",
-        "fetchedAt": "2026-10-20T09:50:03.292Z",
-        "status": 200,
-        "local": "/events/discovery-evt-eehn4p4n79aw1pr-ec71d948.webp",
-        "sourceSha256": "0552ed4d0854ca241ee80d6699b33a5313e762c77ad405b906a172be7b27e7f4",
-        "sha256": "6376c9ae68df04cff4a0b69b850e2afab17a867d1f7c893a867f07a01c028a2d",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 293036
-      }
-    },
-    {
       "id": "discovery-evt-jHFnev6fVW7VZNJ",
       "name": "P2P Networking Hub @ Devcon 8",
       "startDate": "2026-11-03T03:30:00.000Z",
@@ -6279,45 +6240,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 188642
-      }
-    },
-    {
-      "id": "luma-evt-eKm7z2RHvU2RJ7B",
-      "name": "Ignite Room: Devcon Mumbai",
-      "startDate": "2026-10-24T04:30:00.000Z",
-      "endDate": "2026-10-24T10:30:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-eKm7z2RHvU2RJ7B",
-      "url": "https://luma.com/vdetxnel",
-      "lane": "india",
-      "reason": "Exact event-ID and normalized-URL match in events-cache.json. This is Ignite Room's October 24 workshop, not the already-published main Devcon conference in November. Primary body supplies the disambiguating title. Hidden-location policy applies even though body text names a venue.",
-      "evidence": [
-        {
-          "url": "https://luma.com/vdetxnel",
-          "fetchedAt": "2026-10-20T08:56:21.729Z",
-          "excerpt": "Ignite Room: Devcon Mumbai. Exploring Web3, Ethereum & dApps. Date 24 October 2026, 10:00 AM-4:00 PM IST. Hands-on workshops around smart contracts and dApps; bring a laptop; beginners welcome. start_at 2026-10-24T04:30:00.000Z; end_at 2026-10-24T10:30:00.000Z; Asia/Kolkata; visibility public; geo_address_visibility guests-only; require_approval true. Hosts include Ignite Room, GRYD and Web3 Mumbai.",
-          "sha256": "75a495fcd1ebb5a3d6a5c6da48e70279fc3d433e2b65064fd475e39ee34ff08f",
-          "representation": "HTTP response HTML and public embedded event data; venue text omitted to respect hidden location"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:11.251Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/8x/ad09b8ec-db7a-4f85-a1d2-6b63e2f5622c.png",
-        "fetchedAt": "2026-10-20T09:50:07.826Z",
-        "status": 200,
-        "local": "/events/luma-evt-ekm7z2rhvu2rj7b-9b51e4ff.webp",
-        "sourceSha256": "b738b66b4a46abab40b1bd8fb8568c73ea32e1c75867dcad51b26422e84e2a7f",
-        "sha256": "f32c8a7c2c351e935c69da2c488348e8e25feb10849b9029209157d5f4f0e64e",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 75158
       }
     },
     {
@@ -7532,22 +7454,6 @@
           "excerpt": "Privacy Hub, Devcon 8. Tracks: private onchain banking, practical privacy, core onchain privacy, AI-human layer. Body: 3-6 November 2026, 10 AM to 5 PM IST. Embedded start_at 2026-11-03T04:30:00.000Z and end_at 2026-11-06T09:30:00.000Z, Asia/Kolkata. Valid Devcon ticket required.",
           "sha256": "42cc1592f558fc690179fecca31e6cec7800e2aa7b61d25089a4fb8164d35678",
           "representation": "HTTP response HTML, conflicting body and embedded schedule"
-        }
-      ]
-    },
-    {
-      "url": "https://luma.com/3qtj8ogp",
-      "name": "Road to Devcon VIII India - PUNE Final Edition",
-      "startDate": "2026-10-24T10:30:00.000Z",
-      "reason": "Matches existing held event evt-E4pqIFqTPBmJrmT, so not a new identity and not automatically released. Fresh evidence resolves the old Coming Soon description gap and changes the schedule to October 24, 16:00-19:00 IST. Ready for hold review; production hold preserved.",
-      "lane": "india",
-      "evidence": [
-        {
-          "url": "https://luma.com/3qtj8ogp",
-          "fetchedAt": "2026-10-20T08:52:25.594Z",
-          "excerpt": "Road to Devcon VIII India, Pune Edition #3, Final Meetup. Learn what Devcon is and how to participate; students, developers and Ethereum community members welcome. Date October 24, 2026; time 4:00 PM-7:00 PM; Red Brick Pavilion, Pune. Agenda and session timings may be updated. start_at 2026-10-24T10:30:00.000Z; end_at 2026-10-24T13:30:00.000Z; Asia/Kolkata; public; require_approval true.",
-          "sha256": "8031056d963ce7d70e871aae9c037b4de961ac3abbe334f85ae83319af55dc9c",
-          "representation": "Fresh primary HTML and embedded data; existing inventory hold retained"
         }
       ]
     },
@@ -10848,21 +10754,9 @@
       "lane": "india"
     },
     {
-      "url": "https://luma.com/vdetxnel",
-      "result": "verified-existing-unpublished",
-      "note": "Ignite Room's October 24 Ethereum workshop, distinct from the main Devcon. Location remains city-only despite venue wording elsewhere in the public description.",
-      "lane": "india"
-    },
-    {
       "url": "https://luma.com/5dgtda35",
       "result": "verified-existing-unpublished",
       "note": "ICONX New Delhi. Public November 1 Bitcoin-mining education event; registration explicitly automatic, not approval-required.",
-      "lane": "india"
-    },
-    {
-      "url": "https://luma.com/917zvizr",
-      "result": "verified-new",
-      "note": "Team1 VIT workshop, October 24, 14:00-17:00 IST. Current primary cover and room differ from the older directory thumbnail; current primary used.",
       "lane": "india"
     },
     {

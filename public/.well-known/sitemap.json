@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-23T08:48:38.909Z",
+  "generatedAt": "2026-11-23T11:07:37.183Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 3723,
+  "count": 3720,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -487,12 +487,6 @@
       "url": "https://hashtagweb3.com/altcoin",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/altitude",
-      "lastmod": "2026-10-24",
-      "changefreq": "weekly",
       "priority": 0.6
     },
     {
@@ -5080,13 +5074,13 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/dev55",
+      "url": "https://hashtagweb3.com/dev56",
       "lastmod": "2026-11-06",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/dev56",
+      "url": "https://hashtagweb3.com/dev57",
       "lastmod": "2026-11-06",
       "changefreq": "daily",
       "priority": 0.8
@@ -17412,18 +17406,6 @@
     {
       "url": "https://hashtagweb3.com/sls392",
       "lastmod": "2026-11-09",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sls394",
-      "lastmod": "2026-10-24",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sls395",
-      "lastmod": "2026-10-24",
       "changefreq": "daily",
       "priority": 0.8
     },

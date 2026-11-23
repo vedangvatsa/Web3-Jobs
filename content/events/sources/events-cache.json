@@ -1110,7 +1110,7 @@
     "country": "United Arab Emirates",
     "location": "Abu Dhabi, United Arab Emirates",
     "url": "https://conferenceindex.org/event/global-blockchain-show-gbs-2026-december-abu-dhabi-ae",
-    "coverImage": null,
+    "coverImage": "/events/ci-https-conferenceindex-org-event-global-blockcha-eb2bd193.webp",
     "source": "conferenceindex",
     "month": "December 2026",
     "website": "https://www.globalblockchainshow.com/abu-dhabi/?utm_source=conferenceindex&utm_medium=referral&utm_campaign=listing"
@@ -2442,7 +2442,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -2919,7 +2919,7 @@
     "country": "Turkey",
     "location": "Istanbul, Turkey",
     "url": "https://istanbulblockchainweek.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-istanbul-blockchain-week-2027-15e6b540.webp",
     "source": "marketacross",
     "month": "June 2027"
   },
@@ -3218,7 +3218,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -3337,7 +3337,7 @@
     "country": "UAE",
     "location": "Dubai, UAE",
     "url": "https://blockchain-life.com/",
-    "coverImage": "/events/ma-blockchain-life-2027-e20cf0e9.webp",
+    "coverImage": "/events/ma-blockchain-life-c96ab12f.webp",
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -3563,7 +3563,10 @@
           "representation": "html"
         }
       ]
-    }
+    },
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "ethorg-meetupmip-20--road-to-devconoctober-30mumbai--indi",
@@ -3963,7 +3966,10 @@
     "url": "https://www.meetup.com/lfdt-sf/events/316802689/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316802686",
@@ -3977,7 +3983,10 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/316802686/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-host-evt-evt-jAsxvsyCZCb8JkA",
@@ -4033,7 +4042,10 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/316802693/",
     "coverImage": "/events/mu-316802693-f266f227.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316859694",
@@ -4061,7 +4073,10 @@
     "url": "https://www.meetup.com/lfdt-austin/events/316802775/",
     "coverImage": "/events/mu-316802775-00c0322a.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-run-rave-26-11-01",
@@ -4973,7 +4988,10 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/316802761/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "w3v-btc-balkans-2026",
@@ -5057,7 +5075,10 @@
     "url": "https://www.meetup.com/lfdt-denver/events/316802785/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316966313",
@@ -5112,7 +5133,10 @@
     "url": "https://www.meetup.com/lfdt-montreal/events/316802708/",
     "coverImage": null,
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316423209",
@@ -5295,117 +5319,6 @@
       "addressCountry": "CA",
       "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
     }
-  },
-  {
-    "name": "Ignite Room: Devcon Mumbai",
-    "description": "Ignite Room hosts introductory talks and hands-on workshops on Ethereum, smart contracts and decentralized applications. Beginners are welcome. Participants must bring a laptop, and registration requires approval.",
-    "startDate": "2026-10-24T04:30:00.000Z",
-    "endDate": "2026-10-24T10:30:00.000Z",
-    "timezone": "Asia/Kolkata",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "organizer": {
-      "type": "Organization",
-      "name": "Ignite Room, GRYD and Web3 Mumbai",
-      "url": "https://www.igniteroom.in"
-    },
-    "approvalRequired": true,
-    "locationHidden": true,
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/luma-evt-ekm7z2rhvu2rj7b-9b51e4ff.webp",
-    "sourceVerification": {
-      "url": "https://luma.com/vdetxnel",
-      "eventId": "evt-eKm7z2RHvU2RJ7B",
-      "fetchedAt": "2026-10-20T09:31:11.251Z",
-      "method": "luma-page"
-    },
-    "registrationAvailability": "open",
-    "price": "Free",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/vdetxnel",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "hosts": [
-      "Ignite Room",
-      "Shiv Chopra",
-      "GRYD",
-      "Web3 Mumbai"
-    ],
-    "descriptionSource": {
-      "url": "https://luma.com/vdetxnel",
-      "fetchedAt": "2026-10-20T09:31:11.251Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Devcon Mumbai · Luma",
-      "sha256": "d4adb63e49768988db2d47e7f537f91221f8e22cefe944f9ee6415480fb67fa8",
-      "evidence": [
-        {
-          "url": "https://luma.com/vdetxnel",
-          "fetchedAt": "2026-10-20T08:56:21.729Z",
-          "sha256": "75a495fcd1ebb5a3d6a5c6da48e70279fc3d433e2b65064fd475e39ee34ff08f",
-          "retrievedVia": "HTTP response HTML and public embedded event data; venue text omitted to respect hidden location",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/vdetxnel",
-          "fetchedAt": "2026-10-20T09:31:11.251Z",
-          "sha256": "b9facb7fbc823d095af503443a04e7e7df55e02e72197bd12f8b32076e6d92a5",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "luma-evt-eKm7z2RHvU2RJ7B",
-    "url": "https://luma.com/vdetxnel",
-    "registrationUrl": "https://luma.com/vdetxnel",
-    "source": "curated-reviewed"
-  },
-  {
-    "id": "luma-evt-fIjCHUPG7u9RaBR",
-    "name": "Makers & Founders co-work - Build together #15",
-    "description": "",
-    "startDate": "2026-10-24T07:30:00.000Z",
-    "endDate": "2026-10-24T11:30:00.000Z",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "location": "Cape Town, South Africa",
-    "url": "https://lu.ma/6dl470wx",
-    "coverImage": "/events/luma-evt-fijchupg7u9rabr-b7a2d56e.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-7X4mk3GjMSyqM5S",
-    "name": "FIELDS in collaboration Paul Senyol - Collection 15 Optimism",
-    "description": "",
-    "startDate": "2026-10-24T09:00:00.000Z",
-    "endDate": "2026-10-24T10:00:00.000Z",
-    "city": "Cape Town",
-    "country": "South Africa",
-    "location": "Cape Town, South Africa",
-    "url": "https://lu.ma/u94yqxnc",
-    "coverImage": "/events/luma-evt-7x4mk3gjmsyqm5s-6759f14e.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-VexrUcJk0Hd8CfJ",
-    "name": "RUNCLUB TIMEHÍBRIDO | SÃO PAULO",
-    "description": "",
-    "startDate": "2026-10-24T09:45:00.000Z",
-    "endDate": "2026-10-24T11:45:00.000Z",
-    "city": "São Paulo",
-    "country": "Brazil",
-    "location": "São Paulo, Brazil",
-    "url": "https://lu.ma/3gxz94bb",
-    "coverImage": "/events/luma-evt-vexrucjk0hd8cfj-bd26c8df.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "name": "BitGo x Giottus: Crypto Custody in Action",
@@ -7463,34 +7376,6 @@
     "month": "June 2027"
   },
   {
-    "id": "luma-evt-S7VTD2pQ6H721Sl",
-    "name": "Run It Forward with Run Her Way x ASICS x PassaRunning",
-    "description": "",
-    "startDate": "2026-10-24T08:00:00.000Z",
-    "endDate": "2026-10-24T10:00:00.000Z",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "location": "Utrecht, Netherlands",
-    "url": "https://lu.ma/fhj12vp1",
-    "coverImage": "/events/luma-evt-s7vtd2pq6h721sl-e9f52589.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-lBQPt2Ou6TROS1y",
-    "name": "FuLi Coffee Break: Iara Perillo - live ambient set with altoflute and electronics.",
-    "description": "",
-    "startDate": "2026-10-24T11:30:00.000Z",
-    "endDate": "2026-10-24T12:30:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://lu.ma/j1vxrda8",
-    "coverImage": "/events/luma-evt-lbqpt2ou6tros1y-d4ccb99c.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-9F2OvGSdsEpDg9O",
     "name": "Tech@NYU Buildathon: Shipyard",
     "description": "",
@@ -7723,7 +7608,10 @@
     "url": "https://www.meetup.com/lfdt-chicago/events/316802758/",
     "coverImage": "/events/mu-316802758-07e90219.webp",
     "source": "meetup",
-    "month": "October 2026"
+    "month": "October 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316231918",
@@ -7793,7 +7681,10 @@
     "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
     "coverImage": "/events/mu-312946609-64a47ab1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Frank Migacz"
+    ]
   },
   {
     "id": "mu-316901080",
@@ -8378,7 +8269,7 @@
     "country": "US",
     "location": "Oakland, US",
     "url": "https://www.meetup.com/bay-area-bitcoiners/events/317049329/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317049329-37faed72.webp",
     "source": "meetup",
     "month": "January 2027"
   },
@@ -10307,7 +10198,10 @@
     "url": "https://www.meetup.com/lfdt-phoenix/events/317065033/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "eb-2003199972041",
@@ -10445,7 +10339,10 @@
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317065021/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-K5mpQKsNcBa8gWI",
@@ -10560,7 +10457,10 @@
     "url": "https://www.meetup.com/lfdt-sf/events/317065000/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-317065042",
@@ -10574,7 +10474,10 @@
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317065042/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-317234011",
@@ -10672,7 +10575,10 @@
     "url": "https://www.meetup.com/lfdt-chicago/events/317065030/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316858413",
@@ -11010,7 +10916,10 @@
     "url": "https://www.meetup.com/lfdt-denver/events/317065061/",
     "coverImage": "/events/mu-317065061-bac75bc3.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-8K68kl1G0Y64sG2",
@@ -11192,7 +11101,10 @@
     "url": "https://www.meetup.com/lfdt-austin/events/317065012/",
     "coverImage": "/events/mu-317065012-62d567f1.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-316913789",
@@ -11204,7 +11116,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/real-estate-investing-free-education-mentor-san-antonio/events/316913789/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316913789-c59cc85d.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -11374,7 +11286,10 @@
     "url": "https://www.meetup.com/lfdt-atlanta/events/317064964/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "mu-315045051",
@@ -12162,7 +12077,10 @@
     "url": "https://www.meetup.com/lfdt-mexico-city/events/317064943/",
     "coverImage": "/events/mu-317064943-4e7d5f54.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-o2YD9nDcSQkPrii",
@@ -14823,7 +14741,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317272375/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272375-d908933c.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -14851,7 +14769,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/sf-bitcoin/events/317385783/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317385783-30914070.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -15385,7 +15303,10 @@
     "url": "https://www.meetup.com/lfdt-washington-dc/events/317065004/",
     "coverImage": null,
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "eb-1979667971193",
@@ -17722,7 +17643,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/san-antonio-options-group/events/317454511/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454511-26027c7b.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -17932,7 +17853,7 @@
     "country": "USA",
     "location": "Signia by Hilton Bonnet Creek, Orlando, USA",
     "url": "https://www.strategy.com/world27",
-    "coverImage": null,
+    "coverImage": "/events/ma-bitcoin-for-corporations-2027-ede14755.webp",
     "source": "marketacross",
     "month": "March 2027"
   },
@@ -17974,7 +17895,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -18002,7 +17923,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -18557,7 +18478,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/traderfriends-ca/events/316828259/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316828259-3760ec59.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -19010,7 +18931,10 @@
     "url": "https://www.meetup.com/lfdt-oregon/events/317065057/",
     "coverImage": "/events/mu-317065057-7b0cdf1d.webp",
     "source": "meetup",
-    "month": "November 2026"
+    "month": "November 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "eb-2003415315138",
@@ -19092,7 +19016,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317294313/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317294313-71f70ac3.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -19106,7 +19030,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317256656/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317256656-7a74dc39.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -19134,7 +19058,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/312568191/",
-    "coverImage": null,
+    "coverImage": "/events/mu-312568191-22956c88.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -19148,7 +19072,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-options-trading-group/events/317454506/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454506-661a5287.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -19666,7 +19590,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/bitcoincharlotte/events/317462316/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317462316-6164d7df.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -19819,7 +19743,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396581/",
-    "coverImage": null,
+    "coverImage": "/events/mu-314396581-ebda72e4.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -19889,7 +19813,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/austin-bitcoin-meetup/events/317293387/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317293387-2026165f.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -19931,7 +19855,7 @@
     "country": "us",
     "location": "Phoenix, us",
     "url": "https://www.meetup.com/arizona-bitcoin-meetup/events/317489241/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317489241-b26fd6b7.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20000,7 +19924,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/seattle-options-trading-group/events/317454504/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454504-69972b3b.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20056,7 +19980,7 @@
     "country": "us",
     "location": "Palo Alto, us",
     "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/317280212/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317280212-9c5ab86a.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20070,7 +19994,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/san-francisco-options-trading-group/events/317454514/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454514-6bef8fc8.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20348,7 +20272,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/philadelphia-bitcoin-club/events/316047406/",
-    "coverImage": null,
+    "coverImage": "/events/mu-316047406-5580b0aa.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20894,7 +20818,7 @@
     "country": "us",
     "location": "West Des Moines, us",
     "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/317292735/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317292735-a00a3a6b.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -20908,7 +20832,7 @@
     "country": "us",
     "location": "Urbandale, us",
     "url": "https://www.meetup.com/devopsdsm/events/317271205/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317271205-cfa9a770.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -21130,9 +21054,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317272174/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272174-638b4a68.webp",
     "source": "meetup",
-    "month": "December 2026"
+    "month": "December 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-Yb4F1Nl4DJrQJlC",
@@ -21451,7 +21378,7 @@
     "country": "us",
     "location": "Gresham, us",
     "url": "https://www.meetup.com/portland-underwater-hockey/events/317294578/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317294578-be802ad7.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -22225,7 +22152,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317249034/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317249034-0da68be9.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22322,7 +22249,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317492945/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317492945-58230f1e.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22350,7 +22277,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-oregon/events/317272300/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272300-e3bc14c2.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22364,9 +22291,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-oregon/events/317272143/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272143-cc005d6b.webp",
     "source": "meetup",
-    "month": "December 2026"
+    "month": "December 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "eb-2004684652761",
@@ -22754,7 +22684,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/317509856/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317509856-708af800.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22768,7 +22698,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-silicon-valley/events/317272383/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272383-591a3989.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22782,9 +22712,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-sf/events/317272171/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272171-fe54e7a8.webp",
     "source": "meetup",
-    "month": "December 2026"
+    "month": "December 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-ZLZd2m148fItjGX",
@@ -23662,7 +23595,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/rockville-stitch-and-bitch/events/315813240/",
-    "coverImage": null,
+    "coverImage": "/events/mu-315813240-71c8ae13.webp",
     "source": "meetup",
     "month": "November 2026"
   },
@@ -23718,7 +23651,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-washington-dc/events/317272351/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272351-a47c4420.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -23732,9 +23665,12 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-washington-dc/events/317272138/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272138-e719b49e.webp",
     "source": "meetup",
-    "month": "December 2026"
+    "month": "December 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "eb-2004670033033",
@@ -23889,7 +23825,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/chicago-options-trading-group/events/317454522/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317454522-9aaf1b90.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -23974,6 +23910,651 @@
     "location": "Amsterdam, NL",
     "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-amsterdam-by-ascent-valley-tickets-2004808927470",
     "coverImage": "/events/eb-2004808927470-2c5f4bad.webp",
+    "source": "eventbrite",
+    "month": "January 2027"
+  },
+  {
+    "id": "eb-2001866460472",
+    "name": "Uncover Zurich’s hidden gems with a scavenger hunt by World City Trail!",
+    "description": "Explore Zurich with a fun scavenger hunt! Follow clues to uncover the city’s iconic sites and hidden treasures.",
+    "startDate": "2026-11-23",
+    "endDate": "2026-11-23",
+    "city": "Zürich",
+    "country": "CH",
+    "location": "Zürich, CH",
+    "url": "https://www.eventbrite.sg/e/uncover-zurichs-hidden-gems-with-a-scavenger-hunt-by-world-city-trail-tickets-2001866460472",
+    "coverImage": "/events/eb-2001866460472-01c3c0e2.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-vTVIOQLCTYHk28O",
+    "name": "Digital Asset Crowd: Madrid Meet-up",
+    "description": "",
+    "startDate": "2026-11-24T18:00:00.000Z",
+    "endDate": "2026-11-24T20:30:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/y32s7dcb",
+    "coverImage": "/events/luma-evt-vtvioqlctyhk28o-f428ebf2.webp",
+    "source": "luma",
+    "month": "November 2026"
+  },
+  {
+    "id": "dev-events-deai-summit",
+    "name": "DEAI Summit",
+    "description": "Web3 conference in Valletta, Malta",
+    "startDate": "2026-11-25T00:00:00.000+00:00",
+    "endDate": "2026-11-26T00:00:00.000+00:00",
+    "city": "Valletta",
+    "country": "",
+    "location": "Valletta",
+    "url": "https://dev.events/conferences/deai-summit-3crxkoev",
+    "coverImage": "/events/dev-events-deai-summit-67b5306a.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "November 2026"
+  },
+  {
+    "id": "dev-events-the-principal-dev---masterclass-for-tech-leads",
+    "name": "The Principal Dev – Masterclass for Tech Leads",
+    "description": "Web3 masterclass Online",
+    "startDate": "2026-12-03T00:00:00.000+00:00",
+    "endDate": "2026-12-04T00:00:00.000+00:00",
+    "city": "Global",
+    "country": "",
+    "location": "Global",
+    "url": "https://dev.events/conferences/principal-developer-online-5-2022",
+    "coverImage": "/events/dev-events-the-principal-dev-masterclass-for-tech--7f0fec9e.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "December 2026"
+  },
+  {
+    "id": "dev-events-clean-architecture-masterclass",
+    "name": "Clean Architecture Masterclass",
+    "description": "Web3 masterclass Online",
+    "startDate": "2026-12-10T00:00:00.000+00:00",
+    "endDate": "2026-12-11T00:00:00.000+00:00",
+    "city": "Global",
+    "country": "",
+    "location": "Global",
+    "url": "https://dev.events/conferences/clean-architecture-online-4-2023",
+    "coverImage": "/events/dev-events-clean-architecture-masterclass-9a62a6bc.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272382",
+    "name": "Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines",
+    "description": "ThunderID ([https://github.com/thunder-id](https://github.com/thunder-id)) is an open source identity and access management project, hosted by LF Decentralized Trust as an incubation project. It is bu",
+    "startDate": "2026-12-10T21:30:00+05:30",
+    "endDate": "2026-12-10T21:30:00+05:30",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-delhi-ncr/events/317272382/",
+    "coverImage": "/events/mu-317272382-1a315b85.webp",
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272376",
+    "name": "Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines",
+    "description": "ThunderID ([https://github.com/thunder-id](https://github.com/thunder-id)) is an open source identity and access management project, hosted by LF Decentralized Trust as an incubation project. It is bu",
+    "startDate": "2026-12-10T21:30:00+05:30",
+    "endDate": "2026-12-10T21:30:00+05:30",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-noida/events/317272376/",
+    "coverImage": "/events/mu-317272376-c3df28b4.webp",
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272111",
+    "name": "ZK Learning Group: Wrap-up 2026, ZK order book matching",
+    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development.\nDuring the year we will systematically explore different aspects of zero",
+    "startDate": "2026-12-10T22:30:00+05:30",
+    "endDate": "2026-12-10T22:30:00+05:30",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-delhi-ncr/events/317272111/",
+    "coverImage": "/events/mu-317272111-6735a012.webp",
+    "source": "meetup",
+    "month": "December 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
+  },
+  {
+    "id": "mu-317272041",
+    "name": "ZK Learning Group: Wrap-up 2026, ZK order book matching",
+    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development.\nDuring the year we will systematically explore different aspects of zero",
+    "startDate": "2026-12-10T22:30:00+05:30",
+    "endDate": "2026-12-10T22:30:00+05:30",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-madhya-pradesh/events/317272041/",
+    "coverImage": "/events/mu-317272041-30e19737.webp",
+    "source": "meetup",
+    "month": "December 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
+  },
+  {
+    "id": "dev-events-blockdown-festival-dubai-2027",
+    "name": "BlockDown Festival Dubai 2027",
+    "description": "Web3 conference in Dubai, United Arab Emirates",
+    "startDate": "2027-01-26T00:00:00.000+00:00",
+    "endDate": "2027-01-27T00:00:00.000+00:00",
+    "city": "Dubai",
+    "country": "",
+    "location": "Dubai",
+    "url": "https://dev.events/conferences/block-down-festival-dubai-2027-hzy5kgik",
+    "coverImage": "/events/dev-events-blockdown-festival-dubai-2027-d3c990a0.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "January 2027"
+  },
+  {
+    "id": "dev-events-adopting-bitcoin-cape-town-2027",
+    "name": "Adopting Bitcoin Cape Town 2027",
+    "description": "Web3 conference in Cape Town, South Africa",
+    "startDate": "2027-02-26T00:00:00.000+00:00",
+    "endDate": "2027-02-27T00:00:00.000+00:00",
+    "city": "Cape Town",
+    "country": "",
+    "location": "Cape Town",
+    "url": "https://dev.events/conferences/adopting-bitcoin-cape-town-2027-0axubimr",
+    "coverImage": "/events/dev-events-adopting-bitcoin-cape-town-2027-6df864f1.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "February 2027"
+  },
+  {
+    "id": "dev-events-mining-disrupt-2027",
+    "name": "Mining Disrupt 2027",
+    "description": "Web3 conference in Dallas, United States",
+    "startDate": "2027-03-22T00:00:00.000+00:00",
+    "endDate": "2027-03-24T00:00:00.000+00:00",
+    "city": "Dallas",
+    "country": "",
+    "location": "Dallas",
+    "url": "https://dev.events/conferences/mining-disrupt-2027-z7kz0twp",
+    "coverImage": "/events/dev-events-mining-disrupt-2027-04fd1151.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "March 2027"
+  },
+  {
+    "id": "dev-events-cyphercon-10",
+    "name": "CypherCon 10",
+    "description": "Web3 conference in Milwaukee, United States",
+    "startDate": "2027-03-24T00:00:00.000+00:00",
+    "endDate": "2027-03-25T00:00:00.000+00:00",
+    "city": "Milwaukee",
+    "country": "",
+    "location": "Milwaukee",
+    "url": "https://dev.events/conferences/cypher-con-10-2e9jgdon",
+    "coverImage": "/events/dev-events-cyphercon-10-61efec5f.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "March 2027"
+  },
+  {
+    "id": "dev-events-token2049-dubai",
+    "name": "TOKEN2049 Dubai",
+    "description": "Web3 conference in Dubai, United Arab Emirates",
+    "startDate": "2027-04-21T00:00:00.000+00:00",
+    "endDate": "2027-04-22T00:00:00.000+00:00",
+    "city": "Dubai",
+    "country": "",
+    "location": "Dubai",
+    "url": "https://dev.events/conferences/token-2049-dubai-zjdfcnml",
+    "coverImage": "/events/dev-events-token2049-dubai-4dc40238.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "April 2027"
+  },
+  {
+    "id": "dev-events-almachain-2027",
+    "name": "AlmaChain 2027",
+    "description": "Web3 conference in Almaty, Kazakhstan",
+    "startDate": "2027-04-24T00:00:00.000+00:00",
+    "endDate": "2027-04-25T00:00:00.000+00:00",
+    "city": "Almaty",
+    "country": "",
+    "location": "Almaty",
+    "url": "https://dev.events/conferences/alma-chain-2027-lls-lio1",
+    "coverImage": "/events/dev-events-almachain-2027-ea648cc4.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "April 2027"
+  },
+  {
+    "id": "dev-events-dutch-blockchain-week-2027",
+    "name": "Dutch Blockchain Week 2027",
+    "description": "Web3 conference in Amsterdam, Netherlands",
+    "startDate": "2027-05-17T00:00:00.000+00:00",
+    "endDate": "2027-05-23T00:00:00.000+00:00",
+    "city": "Amsterdam",
+    "country": "",
+    "location": "Amsterdam",
+    "url": "https://dev.events/conferences/dutch-blockchain-week-2027-5ktwo30e",
+    "coverImage": "/events/dev-events-dutch-blockchain-week-2027-99ce4064.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "May 2027"
+  },
+  {
+    "id": "dev-events-nfc-summit-2027",
+    "name": "NFC Summit 2027",
+    "description": "Web3 conference in Lisbon, Portugal",
+    "startDate": "2027-05-27T00:00:00.000+00:00",
+    "endDate": "2027-05-29T00:00:00.000+00:00",
+    "city": "Lisbon",
+    "country": "",
+    "location": "Lisbon",
+    "url": "https://dev.events/conferences/nfc-summit-2027-b5up60vq",
+    "coverImage": "/events/dev-events-nfc-summit-2027-9fb52597.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "May 2027"
+  },
+  {
+    "id": "dev-events-africa-payments---regtech-forum",
+    "name": "Africa Payments & RegTech Forum",
+    "description": "Web3 conference in Johannesburg, South Africa",
+    "startDate": "2027-06-24T00:00:00.000+00:00",
+    "endDate": "2027-06-24T00:00:00.000+00:00",
+    "city": "Johannesburg",
+    "country": "",
+    "location": "Johannesburg",
+    "url": "https://dev.events/conferences/africa-payments-and-reg-tech-forum-s2a81lvd",
+    "coverImage": "/events/dev-events-africa-payments-regtech-forum-d70032d5.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "June 2027"
+  },
+  {
+    "id": "dev-events-signal-week",
+    "name": "Signal Week",
+    "description": "Web3 conference in Paris, France",
+    "startDate": "2027-07-06T00:00:00.000+00:00",
+    "endDate": "2027-07-07T00:00:00.000+00:00",
+    "city": "Paris",
+    "country": "",
+    "location": "Paris",
+    "url": "https://dev.events/conferences/signal-week-vl7ev2oy",
+    "coverImage": "/events/dev-events-signal-week-46f95ba1.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "July 2027"
+  },
+  {
+    "id": "dev-events-bitcoin-2027",
+    "name": "Bitcoin 2027",
+    "description": "Web3 conference in Nashville, United States",
+    "startDate": "2027-07-15T00:00:00.000+00:00",
+    "endDate": "2027-07-17T00:00:00.000+00:00",
+    "city": "Nashville",
+    "country": "",
+    "location": "Nashville",
+    "url": "https://dev.events/conferences/bitcoin-2027-5ghp1hgd",
+    "coverImage": "/events/dev-events-bitcoin-2027-8813e66d.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "July 2027"
+  },
+  {
+    "id": "dev-events-bitcoin-beyond-66",
+    "name": "Bitcoin Beyond 66",
+    "description": "Web3 conference in Bodo, Norway",
+    "startDate": "2027-08-14T00:00:00.000+00:00",
+    "endDate": "2027-08-14T00:00:00.000+00:00",
+    "city": "Bodo",
+    "country": "",
+    "location": "Bodo",
+    "url": "https://dev.events/conferences/bitcoin-beyond-66-nkmrvqyl",
+    "coverImage": "/events/dev-events-bitcoin-beyond-66-2afc53d1.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "August 2027"
+  },
+  {
+    "id": "dev-events-bitcoin-hong-kong-2027",
+    "name": "Bitcoin Hong Kong 2027",
+    "description": "Web3 conference in Hong Kong, Hong Kong",
+    "startDate": "2027-08-26T00:00:00.000+00:00",
+    "endDate": "2027-08-27T00:00:00.000+00:00",
+    "city": "Hong Kong",
+    "country": "",
+    "location": "Hong Kong",
+    "url": "https://dev.events/conferences/bitcoin-hong-kong-2027-mjlik6yr",
+    "coverImage": "/events/dev-events-bitcoin-hong-kong-2027-625f0141.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "August 2027"
+  },
+  {
+    "id": "dev-events-solana-breakpoint",
+    "name": "Solana Breakpoint",
+    "description": "Web3 conference in San Francisco, United States",
+    "startDate": "2027-09-08T00:00:00.000+00:00",
+    "endDate": "2027-09-10T00:00:00.000+00:00",
+    "city": "San Francisco",
+    "country": "",
+    "location": "San Francisco",
+    "url": "https://dev.events/conferences/solana-breakpoint-lhys6ntz",
+    "coverImage": "/events/dev-events-solana-breakpoint-4092a2db.webp",
+    "source": "dev-events",
+    "bypassedFilter": true,
+    "month": "September 2027"
+  },
+  {
+    "id": "eb-607742432977",
+    "name": "Blockchain & Smart Contracts for Digital Assets - what do you want to know?",
+    "description": "Let's talk about: What is Blockchain technology can do for digital content like digital art, photos. posts, apps etc.",
+    "startDate": "2023-04-03",
+    "endDate": "2028-06-10",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/blockchain-smart-contracts-for-digital-assets-what-do-you-want-to-know-tickets-607742432977",
+    "coverImage": "/events/eb-607742432977-b7750aa2.webp",
+    "source": "eventbrite",
+    "month": "April 2023"
+  },
+  {
+    "id": "eb-2003779378060",
+    "name": "The Infinite $auce Expo | AI • NFTs • Web3 • Entrepreneurship",
+    "description": "The Infinite $auce Expo brings AI, NFTs, Web3, and entrepreneurship together online for a fresh dose of inspiration.",
+    "startDate": "2026-11-23",
+    "endDate": "2027-01-05",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/the-infinite-auce-expo-ai-nfts-web3-entrepreneurship-tickets-2003779378060",
+    "coverImage": "/events/eb-2003779378060-41dd757c.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-1968901145327",
+    "name": "Certified Blockchain Associate | Washington DC",
+    "description": "2-hours live online training on the introduction to blockchain technology!",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "city": "Washington",
+    "country": "US",
+    "location": "Washington, US",
+    "url": "https://www.eventbrite.com/e/certified-blockchain-associate-washington-dc-tickets-1968901145327",
+    "coverImage": "/events/eb-1968901145327-27f44822.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-2001069590011",
+    "name": "Access NFTS | Insight",
+    "description": "Access NFTS: Insight are introductory sessions for anyone wanting to discover the wide range of career opportunities behind the camera",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.co.uk/e/access-nfts-insight-tickets-2001069590011",
+    "coverImage": "/events/eb-2001069590011-6e56d557.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-2005073880953",
+    "name": "Industry Insiders: Virtual Production with VP specialist Rhys Murphy",
+    "description": "Login to hear VP Specialist Rhys Murphy in discussion with NFTS Head of Virtual Production, Cristen Caine",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.co.uk/e/industry-insiders-virtual-production-with-vp-specialist-rhys-murphy-tickets-2005073880953",
+    "coverImage": "/events/eb-2005073880953-a1ffec76.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-1968898391089",
+    "name": "Certified Blockchain Associate | New York City",
+    "description": "2-hours live online training on the introduction to blockchain technology!",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-25",
+    "city": "New York",
+    "country": "US",
+    "location": "New York, US",
+    "url": "https://www.eventbrite.com/e/certified-blockchain-associate-new-york-city-tickets-1968898391089",
+    "coverImage": "/events/eb-1968898391089-0c47cdd2.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-2001069024319",
+    "name": "NFTC Presents: Dustin Lowman, Shaylynn Anderson and The Down & Out",
+    "description": "Three acts, one unforgettable night of alternative, folk and rock at Drake Underground, featuring Dustin Lowman’s Canadian debut.",
+    "startDate": "2026-11-29",
+    "endDate": "2026-11-29",
+    "city": "Toronto",
+    "country": "CA",
+    "location": "Toronto, CA",
+    "url": "https://www.eventbrite.ca/e/nftc-presents-dustin-lowman-shaylynn-anderson-and-the-down-out-tickets-2001069024319",
+    "coverImage": "/events/eb-2001069024319-4253e644.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-2003273752721",
+    "name": "Decoding Bitcoin study cohort",
+    "description": "Free 10-week online cohort: learn how Bitcoin works with Decoding Bitcoin. Mondays 7pm UTC+8 on Discord from 16 Nov.",
+    "startDate": "2026-11-30",
+    "endDate": "2026-11-30",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/decoding-bitcoin-study-cohort-tickets-2003273752721",
+    "coverImage": "/events/eb-2003273752721-c38782b7.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-1991344838016",
+    "name": "Zukunft.DEFENCE",
+    "description": "Geschäftsmodelle für die zivile Industrie im Sicherheits- & Verteidigungssektor",
+    "startDate": "2026-12-02",
+    "endDate": "2026-12-02",
+    "city": "Düsseldorf",
+    "country": "DE",
+    "location": "Düsseldorf, DE",
+    "url": "https://www.eventbrite.de/e/zukunftdefence-tickets-1991344838016",
+    "coverImage": "/events/eb-1991344838016-3c9f68c4.webp",
+    "source": "eventbrite",
+    "month": "December 2026",
+    "speakers": [
+      "Referenten und Redner"
+    ]
+  },
+  {
+    "id": "eb-1997140481943",
+    "name": "KI? Kann ich! – Wie du als Frau* die KI-Zukunft mitgestaltest",
+    "description": "In diesem kompakten, interaktiven Online-Webinar bekommst du einen lebensnahen Einstieg in die Welt der KI: ohne Fachwörter, ohne Vorwissen",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-04",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.de/e/ki-kann-ich-wie-du-als-frau-die-ki-zukunft-mitgestaltest-tickets-1997140481943",
+    "coverImage": "/events/eb-1997140481943-bccf2525.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-1968312288039",
+    "name": "Unravelling NFTs (Non Fungible Tokens)| Seattle",
+    "description": "2-hours live online training to help you understand the NFTs.",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "city": "Seattle",
+    "country": "US",
+    "location": "Seattle, US",
+    "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-seattle-tickets-1968312288039",
+    "coverImage": "/events/eb-1968312288039-e52df88b.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-1968312152634",
+    "name": "Unravelling NFTs (Non Fungible Tokens)| Washington DC",
+    "description": "2-hours live online training to help you understand the NFTs.",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "city": "Washington",
+    "country": "US",
+    "location": "Washington, US",
+    "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-washington-dc-tickets-1968312152634",
+    "coverImage": "/events/eb-1968312152634-697549e5.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-1968312437486",
+    "name": "Unravelling NFTs (Non Fungible Tokens)| San Francisco",
+    "description": "2-hours live online training to help you understand the NFTs.",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "city": "San Francisco",
+    "country": "US",
+    "location": "San Francisco, US",
+    "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-san-francisco-tickets-1968312437486",
+    "coverImage": "/events/eb-1968312437486-6271f8c2.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-1967811272488",
+    "name": "Unravelling NFTs (Non Fungible Tokens)| Boston",
+    "description": "2-hours live online training to help you understand the NFTs.",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-09",
+    "city": "Boston",
+    "country": "US",
+    "location": "Boston, US",
+    "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-boston-tickets-1967811272488",
+    "coverImage": "/events/eb-1967811272488-96598f35.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-1968878290969",
+    "name": "Certified DeFi Associate | Seattle",
+    "description": "2-hours live online training to get you started on DeFi (Decentralized Finance)",
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "city": "Seattle",
+    "country": "US",
+    "location": "Seattle, US",
+    "url": "https://www.eventbrite.com/e/certified-defi-associate-seattle-tickets-1968878290969",
+    "coverImage": "/events/eb-1968878290969-028fc00c.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-1968877255873",
+    "name": "Certified DeFi Associate | New York City",
+    "description": "2-hours live online training to get you started on DeFi (Decentralized Finance)",
+    "startDate": "2026-12-16",
+    "endDate": "2026-12-16",
+    "city": "New York",
+    "country": "US",
+    "location": "New York, US",
+    "url": "https://www.eventbrite.com/e/certified-defi-associate-new-york-city-tickets-1968877255873",
+    "coverImage": "/events/eb-1968877255873-97d8d725.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-2004613055612",
+    "name": "Exclusive Visit to the French National Assembly",
+    "description": "Discover one of France's most iconic political institutions, learn more about its history. Bilingual guided tour (English and French)",
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-18",
+    "city": "Paris",
+    "country": "FR",
+    "location": "Paris, FR",
+    "url": "https://www.eventbrite.com/e/exclusive-visit-to-the-french-national-assembly-tickets-2004613055612",
+    "coverImage": "/events/eb-2004613055612-3f07015d.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-2003426664083",
+    "name": "NFTC – Emerging Artists Showcase",
+    "description": "Six rising acts. One all-women lineup. Join NFTC at Toronto’s legendary El Mocambo on December 19 for an unforgettable night of live music!",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "city": "Toronto",
+    "country": "CA",
+    "location": "Toronto, CA",
+    "url": "https://www.eventbrite.ca/e/nftc-emerging-artists-showcase-tickets-2003426664083",
+    "coverImage": "/events/eb-2003426664083-a1b405a5.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-2002193919912",
+    "name": "New Year's Eve Party 2026 - NFT Skybar",
+    "description": "Disco Above the City! Glamour, Signature Cocktails & Skyline Views – feiere Silvester im STUDIO 47 über den Dächern Frankfurts!",
+    "startDate": "2026-12-31",
+    "endDate": "2027-01-01",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "location": "Frankfurt am Main, DE",
+    "url": "https://www.eventbrite.com/e/new-years-eve-party-2026-nft-skybar-tickets-2002193919912",
+    "coverImage": "/events/eb-2002193919912-232781f7.webp",
+    "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-1992195838381",
+    "name": "Der Unternehmer 2035 - BestPrime holt Zukunftsforscher Sven Gábor Janszky",
+    "description": "Mach dich fit für 2035 und entdecke mit uns die Zukunft deines Business als Unternehmer von morgen!",
+    "startDate": "2027-01-09",
+    "endDate": "2027-01-09",
+    "city": "Frankfurt am Main",
+    "country": "DE",
+    "location": "Frankfurt am Main, DE",
+    "url": "https://www.eventbrite.de/e/der-unternehmer-2035-bestprime-holt-zukunftsforscher-sven-gabor-janszky-tickets-1992195838381",
+    "coverImage": "/events/eb-1992195838381-395aaa53.webp",
+    "source": "eventbrite",
+    "month": "January 2027",
+    "speakers": [
+      "Referenten und Redner"
+    ]
+  },
+  {
+    "id": "eb-2004585065894",
+    "name": "NFTS Scotland: Script Development for Film and TV Online Open Day",
+    "description": "Join this session led by Course Leader, Ben Stoll, to find out more about the NFTS Certificate in Script Development for Film and TV",
+    "startDate": "2027-01-20",
+    "endDate": "2027-01-20",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.co.uk/e/nfts-scotland-script-development-for-film-and-tv-online-open-day-tickets-2004585065894",
+    "coverImage": "/events/eb-2004585065894-f890b2cc.webp",
     "source": "eventbrite",
     "month": "January 2027"
   }
