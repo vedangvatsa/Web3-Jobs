@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-23T08:01:49.423Z",
+  "generatedAt": "2026-11-23T08:40:36.510Z",
   "items": [
+    {
+      "title": "Bitcoin ETFs shed $1.8B in third-largest weekly outflow",
+      "link": "https://cointelegraph.com/markets/bitcoin-etfs-third-largest-weekly-outflows-1-8-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 08:08:52 +0000",
+      "creator": "Helen Partz",
+      "contentSnippet": "Bitcoin ETF outflows reached $4.14 billion in November through Friday, nearing June’s $4.51 billion total.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
       "link": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
@@ -32,14 +40,6 @@
       "creator": "Shaurya Malwa",
       "contentSnippet": "Roughly five times as much voting stake has opposed the Foundation's 2027 conference budget as has backed it, while a developer tools request filed on...",
       "source": "Coindesk"
-    },
-    {
-      "title": "Spot bitcoin ETFs shed $1.8 billion in past week as outflows become ‘structural’: analysts",
-      "link": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857",
-      "pubDate": "Mon, 23 Nov 2026 05:47:21 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "Risk-averse investors are moving further away from crypto products as they expect the another interest rate hike in December, analysts said.",
-      "source": "The Block"
     },
     {
       "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
@@ -144,6 +144,14 @@
       "creator": "Staff",
       "contentSnippet": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token ...",
       "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "link": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+      "source": "Coindesk"
     },
     {
       "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
@@ -314,6 +322,14 @@
       "source": "Coindesk"
     },
     {
+      "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+      "link": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+      "pubDate": "Fri, 20 Nov 2026 12:29:57 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanley's MSBT attracting $49.6 million.",
+      "source": "The Block"
+    },
+    {
       "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
       "link": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
       "pubDate": "Fri, 20 Nov 2026 12:15:08 +0000",
@@ -464,14 +480,6 @@
       "creator": "Agent",
       "contentSnippet": "A U.S. appellate court is upholding Maryland's right to enforce its sports wagering laws against Kalshi, marking another win for state oversight over ...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
-      "link": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
-      "pubDate": "Thu, 19 Nov 2026 10:25:05 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
-      "source": "Decrypt"
     },
     {
       "title": "DBS Teams Up With Circle to Give Asian Institutions 24/7 USDC Minting and Redemption",
