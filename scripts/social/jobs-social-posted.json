@@ -177457,7 +177457,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "61f14ac9-4a75-4b3c-95b5-7e8f002c28c2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31fc09887f3e30ec8449ca6fdc57ae2fe7f3908c"
     }
   ]
 }
