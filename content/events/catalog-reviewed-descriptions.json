@@ -412,24 +412,6 @@
       "sha256": "64fb1e0619978631bb874e4fed33e4c7b07e69062fe2a3ab3237908b731fcdb5"
     }
   },
-  "premier-blockfest-africa-2026": {
-    "description": "Blockf3st Africa takes place at National Art Theatre in Lagos from October 22 to 24, 2026. Its New Trade Routes: Bringing Africa Onchain theme spans AI and blockchain, policy, investment, technical infrastructure, the creative economy and careers.\n\nOctober 22 includes workshops and a closed-door founder and investor gathering. The main conference and exhibition are on October 23, followed by a closing mixer on October 24. The announced speaker lineup includes Kadri Obafemi Hamzat, Teddi Speaks, Eniola Osiyoku and Opeyemi Stephen.\n\nPasses cover different combinations of conference, workshops and VIP activities. Tickets are non-refundable and transferable until October 16; consult the organizer's pass comparison before booking.",
-    "descriptionSource": {
-      "url": "https://blockfestafrica.com/",
-      "fetchedAt": "2026-10-12T11:25:11.565Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Blockf3st Africa 2026",
-      "sha256": "6c73e9d1a5ca1b76ccf8fde10a70fb979ce4d760aab906cb341520696b1b4a24",
-      "evidence": [
-        {
-          "url": "https://blockfestafrica.com/",
-          "fetchedAt": "2026-10-12T11:25:11.565Z",
-          "sha256": "9ecf92f670719eab368f2da9244d2eca9345ccd2a6d8b7877f76623ea2ed44b1",
-          "representation": "html"
-        }
-      ]
-    }
-  },
   "premier-bitcoin-korea-2026": {
     "description": "Bitcoin Korea Conference takes place in Seoul on November 7 and 8, 2026, at two venues: COEX Samsung on the first day and the Korea Federation of Banks in Myeongdong on the second.\n\nThe program includes Bitcoin talks, workshops and a Lightning Market where attendees can make Bitcoin payments. Onsite staff can help new users install a wallet. Announced topics include Bitcoin development and Korea's crypto-asset tax framework.\n\nGeneral, Premium and VIP tickets cover both days. A separate Main Day ticket is available for November 7 only. Ticket QR codes are sent by email; check pass-specific party and dinner access before attending.",
     "descriptionSource": {
@@ -2295,16 +2277,6 @@
       "method": "reviewed-stored-organizer-copy",
       "pageTitle": "A Global Living Lab: Light DAO's Next International Gathering",
       "sha256": "48714a555413e626acd9c0fba8b242dda02041eeebb37d94be84af6f8f1eb561"
-    }
-  },
-  "premier-planblugano": {
-    "description": "Lugano's Plan B Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech\n\nTwo-day conference\n\nThe forum takes place on 23-24 October 2026 in Lugano at the Palazzo dei Congressi. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions\n\nSpeakers\n\nConfirmed speakers include Paolo Ardoino (Tether), Elizabeth Stark (Lightning Labs), Adam Back (Blockstream), Saifedean Ammous, Roy Sheinfeld (Breez), Samson Mow (JAN3), Stephan Livera and BTC Sessions\n\nPasses\n\nThe published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access; a combo pass covers El Salvador and Lugano, and students can apply for a discounted pass. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access, and students can apply for a discounted pass\n\nLanguages\n\nThe event is conducted in English, with real-time Italian translations for the main keynotes and panels. Headsets are provided on the premises.",
-    "descriptionSource": {
-      "url": "https://planb.lugano.ch/planb-forum/",
-      "fetchedAt": "2026-09-21T05:12:52.967Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Lugano's Plan B Forum 2026",
-      "sha256": "dfa4c35e8ae574c8a81f6589b03c0ea284d134ef301667f26b2229e25a39bccb"
     }
   },
   "luma-batch-evti0AaTIcicsFFO": {

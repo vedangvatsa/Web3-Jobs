@@ -40,39 +40,6 @@
       ]
     },
     {
-      "id": "premier-blockfest-africa-2026",
-      "slug": "blockfest-africa",
-      "name": "Blockf3st Africa 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://blockfestafrica.com/",
-        "fetchedAt": "2026-09-22T08:21:52.147Z"
-      },
-      "sections": [
-        "About the event",
-        "Program",
-        "Speakers",
-        "Tickets"
-      ]
-    },
-    {
-      "id": "premier-planblugano",
-      "slug": "plan",
-      "name": "Plan B Forum Lugano 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://planb.lugano.ch/planb-forum/",
-        "fetchedAt": "2026-09-21T05:12:52.967Z"
-      },
-      "sections": [
-        "About the event",
-        "Two-day conference",
-        "Speakers",
-        "Passes",
-        "Languages"
-      ]
-    },
-    {
       "id": "token2049-evt-2gHTqhbNIut9G5D",
       "slug": "founder-house",
       "name": "Founder House Singapore 🇸🇬",

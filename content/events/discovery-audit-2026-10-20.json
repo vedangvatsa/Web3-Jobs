@@ -39,25 +39,6 @@
       "descriptionSha256": "10b94fa79e34cb137232ccba0d4d7458e603245f0aba8073814c329af2a0e616"
     },
     {
-      "id": "premier-blockfest-africa-2026",
-      "slug": "blockfest-africa",
-      "aliases": [],
-      "startDate": "2026-10-22T08:00:00+01:00",
-      "endDate": "2026-10-24T22:00:00+01:00",
-      "descriptionSha256": "6c73e9d1a5ca1b76ccf8fde10a70fb979ce4d760aab906cb341520696b1b4a24"
-    },
-    {
-      "id": "premier-planblugano",
-      "slug": "plan-b-forum-lugano",
-      "aliases": [
-        "plan"
-      ],
-      "startDate": "2026-10-23",
-      "endDate": "2026-10-24",
-      "timezone": "Europe/Zurich",
-      "descriptionSha256": "badbe6dae301d27581e133b0644818e8b5bfef63658b41a792c0a2d24d28f802"
-    },
-    {
       "id": "curated-field-station-rajasthan-2026",
       "slug": "field-station-rajasthan",
       "aliases": [],

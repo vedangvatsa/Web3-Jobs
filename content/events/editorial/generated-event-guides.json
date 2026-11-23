@@ -742,40 +742,6 @@
       }
     ]
   },
-  "premier-planblugano": {
-    "summaryLead": "Plan ₿ Forum turns Lugano into Bitcoin's southern Swiss outpost for two days each autumn. The 2026 edition runs October 23-24 in a city where paying municipal taxes in bitcoin has been unremarkable for years - and where the host town itself is part of the agenda.",
-    "sections": [
-      {
-        "heading": "The host city is part of the agenda",
-        "content": [
-          "Few conferences can claim their host city as a live exhibit. Lugano's Plan ₿ initiative, launched in 2022 as a partnership between the City of Lugano and Tether, set out to make the town Europe's hub for Bitcoin, blockchain, and decentralized technologies. It has largely delivered on that promise: BTC and USD₮ are treated as valid means of payment for municipal services, 100 percent of city dues and taxes can be settled in either, and more than 360 merchants - cafés, boutiques, hotels, even yoga studios - accept bitcoin, Tether, or the local LVGA token.",
-          "Walk from the station toward the lake and you experience the thesis firsthand. A 2,100-square-metre Bitcoin and innovation startup hub anchors the local scene, PoW.space hosts regular meetups and workshops throughout the year, and Phase II of the plan now folds institutional blockchain, local AI, and decentralized identity into the city's next memorandum with Tether. Delegates arrive to find the case studies walking around outside the venue, which sharpens every panel discussion considerably.",
-          "For skeptics, the experiment offers evidence either way; for believers, it offers a preview of what municipal adoption looks like after the novelty wears off. Both groups should attend for that reason alone."
-        ]
-      },
-      {
-        "heading": "What two days in Lugano cover",
-        "content": [
-          "The forum itself draws over 2,500 attendees and is billed as Europe's premier Bitcoin and freedom tech conference - a phrase chosen with care. Programming spans policy debates, adoption stories, and technical sessions, with world-class speakers, public debates, and cultural experiences woven through both days rather than bolted on as evening entertainment. The single-track feel is deceptive; the corridors carry as much substance as the stages.",
-          "Because the city government co-owns the wider initiative, the policy conversations carry unusual weight here. Officials who have actually implemented bitcoin payments share stages with the researchers studying the results, which produces fewer hypotheticals and more receipts. Expect candid discussion of what worked, what stalled, and what other cities should copy or avoid. For anyone working on municipal adoption, payment infrastructure, or European regulatory positioning, that access is difficult to replicate at larger, more generic industry events - most of them cannot put the mayor's office on a panel with credibility."
-        ]
-      },
-      {
-        "heading": "Freedom tech, not just fintech",
-        "content": [
-          "The freedom-tech framing is more than branding. The wider Plan ₿ ecosystem backs sustainable mining research integrated with local food and energy infrastructure, runs a VC fund championing Bitcoin, Lightning, RGB, and peer-to-peer technologies, and even sponsors FC Lugano so fans can buy tickets, food, and merchandise in bitcoin at the stadium. The consistent through-line is self-custody and everyday usability, not trading.",
-          "That gives the forum a distinct texture compared with finance-first Bitcoin events. Expect discussions about privacy tools and P2P technology sharing space with treasury management and merchant adoption talk - a mix that reflects the foundation's conviction that Bitcoin's civic case matters as much as its monetary one. If that sounds like your corner of the space, this is the European room built for it."
-        ]
-      },
-      {
-        "heading": "Making the trip work",
-        "content": [
-          "Lugano is compact: Italian-speaking, lakefront, roughly an hour from Milan by train, and easy to cover on foot once you arrive. Book accommodation early, because two thousand delegates compress a small Swiss town's hotel inventory every autumn, and prices climb accordingly. Leave yourself an hour with the interactive Plan ₿ map, which lists every accepting merchant across categories from restaurants to pharmacies, and go spend sats somewhere ordinary - a kiosk, say, or a gelato stand. The experience teaches more than a dozen adoption panels.",
-          "Above all, come with one question you want answered, whether policy, technical, or adoption-related, and hunt down the session or corridor where it actually gets debated. Two days is short. Lugano rewards focus."
-        ]
-      }
-    ]
-  },
   "premier-hackmeridian": {
     "summaryLead": "HackMeridian stretches across nine days from October 25 to November 2 - a global hackathon series pushing builders to ship novel web3 applications through regional rounds before a grand finale gathers the strongest work from wherever it was built.",
     "sections": [

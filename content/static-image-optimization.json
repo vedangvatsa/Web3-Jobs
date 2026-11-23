@@ -4257,10 +4257,6 @@
       "sha256": "7723324e8db1a230d6d63dc1ee3edd5e59df1ede07e2a124e3cf1f736ec55feb",
       "status": "optimized"
     },
-    "/events/luma-evt-7k5olbfmiitj6gw-4f9fdc5d.webp": {
-      "sha256": "7779461b0c0264c26be74d11afa2edf6b3b21d4701dac1fd14ca119815a9f1d9",
-      "status": "optimized"
-    },
     "/events/luma-evt-7q5sjj37zwkenac-d688c3d9.webp": {
       "sha256": "1a3579dc4cd601bf0f53801624aac8a428c2d2936846002f9e201233253553f4",
       "status": "optimized"
@@ -4327,10 +4323,6 @@
     },
     "/events/luma-evt-9cfbagi9oav4ink-ae9c98b1.webp": {
       "sha256": "7c4c7dc90a8c8a3b9336ba63a37b6a3d127cd0748d1d2d12a95e7cc8ebf6e4b7",
-      "status": "optimized"
-    },
-    "/events/luma-evt-9f2ovgsdsepdg9o-3f4ce66a.webp": {
-      "sha256": "4d27cc80f660368185abadef4ad0d770be15c5bc61a02d9b022ed8947ccb1035",
       "status": "optimized"
     },
     "/events/luma-evt-9hda5o4cydbur5d-530ecef6.webp": {
@@ -5489,10 +5481,6 @@
       "sha256": "2943f745e1731cebb44aaee88b0e713a49efaa0b3b86ae8e6bb54f96d6e327b4",
       "status": "optimized"
     },
-    "/events/luma-evt-puyowg3mhodxc6r-7ccddfb6.webp": {
-      "sha256": "52b29d59accc7960244897ec5c3e1a3a18a0596e70347adc5d53e07507287828",
-      "status": "optimized"
-    },
     "/events/luma-evt-q2lqhoxhujhccdi-9d639bd0.webp": {
       "sha256": "ab08d22f4a064f2eae8e34c70ab2e1358f808f25faa50c9465ae7553ca9c201b",
       "status": "optimized"
@@ -6505,10 +6493,6 @@
       "sha256": "3284c8176e8d729bd8faf014dfd922e201b58af33f2682006542d976c29985c0",
       "status": "optimized"
     },
-    "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp": {
-      "sha256": "3d0edcfbe99afda5a939e5b39682f717d7d6810d59337625f37a067a40cb56a2",
-      "status": "optimized"
-    },
     "/events/ma-ethprague-2027-7404011b.webp": {
       "sha256": "be4c0bace73ac8b20e7331f28357f671c7857dbaaa7360c4844fc553c615f871",
       "status": "optimized"
@@ -7105,10 +7089,6 @@
       "sha256": "faa9e772a473fadcfc3aca7a81d10ffb87dc87be348c374900bb61700d3aba7c",
       "status": "optimized"
     },
-    "/events/plan.webp": {
-      "sha256": "725f327349be7045188bf238361cff02b9cc30b998e130b8ff4eb6be6edd1b0c",
-      "status": "optimized"
-    },
     "/events/practicalprivacy-a49b06ca.webp": {
       "sha256": "a42953681ac368aca719f748120b102fe5ba2b614d1cc03d73a037d68e4a7015",
       "status": "optimized"
@@ -7148,10 +7128,6 @@
     "/events/premier-blockchain-summit-latam-2026-016016ad.webp": {
       "sha256": "1e4e6d248825ef3f461ecc6799843e44cc0a17d5c2e685f630fbc13baccf142d",
       "status": "retained"
-    },
-    "/events/premier-blockfest-africa-2026-dc43909f.webp": {
-      "sha256": "ecc4e90ffd680b425c00f1483b47043678103392c44e73085256b5ea95adaed3",
-      "status": "optimized"
     },
     "/events/premier-breakpoint-2026-5a195862.webp": {
       "sha256": "811f9dcba47dfdb8da6461e40a1d4b7f8f282d69a45b03d930dd1cf7cb3d07ae",

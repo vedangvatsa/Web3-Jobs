@@ -49,24 +49,6 @@ The announced Web3-related programs include Cross Margin Labs' Aqua0 DeFi reside
 
 Applications are reviewed on a rolling basis. Accepted applicants receive a ticket-purchase link, and payment confirms their place. Tickets include village programming, coworking and community activities, but not accommodation or most meals. Joining a residency is optional. Tickets are non-refundable; the organizer allows date changes or transfers to another attendee. Daily clock times are not confirmed for the village as a whole.
 
-<a id="event-8b88820248c00987"></a>
-
-## Blockf3st Africa 2026
-
-- Record: `premier-blockfest-africa-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-22T08:00:00+01:00
-- Description: Source-backed
-- Original page: <https://blockfestafrica.com/>
-
-### About the event
-
-Blockf3st Africa takes place at National Art Theatre in Lagos from October 22 to 24, 2026. Its New Trade Routes: Bringing Africa Onchain theme spans AI and blockchain, policy, investment, technical infrastructure, the creative economy and careers.
-
-October 22 includes workshops and a closed-door founder and investor gathering. The main conference and exhibition are on October 23, followed by a closing mixer on October 24. The announced speaker lineup includes Kadri Obafemi Hamzat, Teddi Speaks, Eniola Osiyoku and Opeyemi Stephen.
-
-Passes cover different combinations of conference, workshops and VIP activities. Tickets are non-refundable and transferable until October 16; consult the organizer's pass comparison before booking.
-
 <a id="event-40dfb5d62972a21c"></a>
 
 ## Field Station Rajasthan 2026
@@ -86,37 +68,6 @@ The program selects 30 residents. Scholarships cover eight nights of accommodati
 Participants choose among the Logos Civic Prize, Logos Sovereignty and Privacy, Zu-Grama d/acc, and a non-builder track for activists, community organizers and artists. Technical work includes privacy-preserving blockchain, decentralized governance, censorship-resistant storage and secure payments. Creatives, designers and testers can also apply.
 
 The schedule includes stand-ups, mentoring, dedicated build time, workshops and demos. Residents present prototypes at the closing summit. The strongest Logos-track prototypes are eligible for milestone-based grant funding. Applicants are asked to install Logos Basecamp, add its blockchain module and note the block height; an existing demo or prototype is helpful but not required.
-
-<a id="event-bb9b15ba8e97af97"></a>
-
-## Plan B Forum Lugano 2026
-
-- Record: `premier-planblugano`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-23
-- Description: Source-backed
-- Original page: <https://planb.lugano.ch>
-- Original page: <https://planb.lugano.ch/planb-forum/>
-
-### About the event
-
-Lugano's Plan B Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech
-
-Two-day conference
-
-The forum takes place on 23-24 October 2026 in Lugano at the Palazzo dei Congressi. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions
-
-### Speakers
-
-Confirmed speakers include Paolo Ardoino (Tether), Elizabeth Stark (Lightning Labs), Adam Back (Blockstream), Saifedean Ammous, Roy Sheinfeld (Breez), Samson Mow (JAN3), Stephan Livera and BTC Sessions
-
-Passes
-
-The published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access; a combo pass covers El Salvador and Lugano, and students can apply for a discounted pass. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access, and students can apply for a discounted pass
-
-Languages
-
-The event is conducted in English, with real-time Italian translations for the main keynotes and panels. Headsets are provided on the premises.
 
 <a id="event-698d6e083e57477b"></a>
 
@@ -29458,30 +29409,6 @@ All participants are required to agree with and adhere to the code of conduct (h
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-ad8f3c6d772550b2"></a>
-
-## Tech@NYU Buildathon: Shipyard
-
-- Record: `luma-evt-9F2OvGSdsEpDg9O`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T13:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/pdrhyk4p>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-0852e26df3b13901"></a>
-
-## Novus Codex
-
-- Record: `w3v-novus-codex`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T15:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.eventbrite.ch/e/biglietti-novus-codex-vernissage-2002192812600>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-3424cc630352b944"></a>
 
 ## Better Toronto Buildathon
@@ -29491,30 +29418,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-24T15:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/p4mthvry>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-df7f7262aa796e94"></a>
-
-## Countersituation V1: Self Knowledge, Heavy Projects, and What Culture Can Learn From Silicon Valley
-
-- Record: `luma-evt-PuYOwG3mhodxC6r`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/oy2jh0vg>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-60bb161ea8e6a71e"></a>
-
-## Bitcoin Basics (101): A Bitcoiner’s Journey
-
-- Record: `luma-evt-7K5olBFMiITj6gW`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T18:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/6vi7uzus>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -42374,6 +42277,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-724e5721691d476f"></a>
+
+## Bitcoin Meetup - November 2026
+
+- Record: `luma-evt-6UeGSmo8wdzg2ov`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T00:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fces32ug>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6d82a5f8ff055807"></a>
 
 ## W3H MIX Webinar — Recovering What’s Lost: Practical Crypto Forensics and Asset Recovery
@@ -43928,6 +43843,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-81249352f6fb13cc"></a>
+
+## Real Wealth, Real Impact: Web3, Crypto & AI CryptoMondays Austin × Media of Society
+
+- Record: `luma-evt-DkUQgSCZ9L6oy42`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-30T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/82cya82n>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7079ab6e2bc52774"></a>
 
 ## Decrypting DeSci (Decentralized Science) \| Live Online Training
@@ -44033,18 +43960,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-01
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.de/e/startup-sh-summit-2026-tickets-2003961923057>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-81249352f6fb13cc"></a>
-
-## Real Wealth, Real Impact: Web3, Crypto & AI CryptoMondays Austin × Media of Society
-
-- Record: `luma-evt-DkUQgSCZ9L6oy42`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-12-01T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/82cya82n>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44701,6 +44616,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-03T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/pgjkhu6b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-11aeb7b00677d53f"></a>
+
+## Aikido Security Networking Event
+
+- Record: `luma-evt-1JqwZlvcnXdGHCH`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/z6m4qolh>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

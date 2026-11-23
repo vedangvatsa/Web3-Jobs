@@ -1,25 +1,6 @@
 {
   "repairs": [
     {
-      "id": "premier-planblugano",
-      "kind": "reviewed",
-      "sourceUrl": "https://planb.lugano.ch/planb-forum/",
-      "contains": [
-        "PLAN ₿ FORUM, 23-24 OCTOBER 2026, LUGANO",
-        "Lugano’s Plan ₿ Forum is the premier Bitcoin conference",
-        "Palazzo dei Congressi"
-      ],
-      "description": "Lugano’s Plan ₿ Forum is the premier Bitcoin conference bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech.\n\n## Two-day conference\n\nThe forum takes place on 23–24 October 2026 in Lugano. Conference access covers the Convention Centre, Villa Ciani and Ex-Asilo Ciani, with keynotes, panels, workshops, a Bitcoin art gallery, and startup and sponsor exhibitions.\n\n## Languages\n\nThe event will be conducted in English, but real-time translations in Italian will be provided for the main keynotes and panels. Headsets will be provided on premise.\n\n## Passes\n\nThe published Peer ticket includes keynotes, panels, masterclasses, sponsor exhibitions and one-to-one matched networking. The Cyber Punk ticket adds VIP check-in, front-row seating, speaker meals on both days and VIP-lounge access.",
-      "patch": {
-        "startDate": "2026-10-23",
-        "endDate": "2026-10-24",
-        "timezone": "Europe/Zurich",
-        "venueName": "Palazzo dei Congressi",
-        "location": "Palazzo dei Congressi, Lugano, Switzerland"
-      },
-      "reason": "Found the event-specific Plan B Forum page rather than the city's general Bitcoin initiative homepage."
-    },
-    {
       "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
       "kind": "reviewed",
       "sourceUrl": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",

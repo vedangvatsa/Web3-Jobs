@@ -228,81 +228,6 @@
       }
     }
   },
-  "premier-planblugano": {
-    "expectedStartDate": "2026-10-23",
-    "checkedAt": "2026-10-19T19:54:47.802Z",
-    "patch": {
-      "venueAddresses": [
-        {
-          "name": "Palazzo dei Congressi",
-          "streetAddress": "Piazza Indipendenza 4",
-          "addressLocality": "Lugano",
-          "postalCode": "6900",
-          "addressCountry": "CH",
-          "sourceUrl": "https://luganoconventions.com/it/strutture/palazzo-congressi",
-          "verification": {
-            "checkedAt": "2026-10-19T19:54:47.802Z",
-            "urls": [
-              "https://planb.lugano.ch/planb-forum/",
-              "https://luganoconventions.com/it/strutture/palazzo-congressi",
-              "https://www.luganoconventions.com/en/venues/villa-ciani",
-              "https://www.luganoconventions.com/en/venues/asilo-ciani"
-            ],
-            "venueName": "Palazzo dei Congressi",
-            "streetAddress": "Piazza Indipendenza 4",
-            "addressLocality": "Lugano",
-            "addressCountry": "CH",
-            "location": "Piazza Indipendenza 4, Lugano, 6900, CH"
-          }
-        },
-        {
-          "name": "Villa Ciani",
-          "streetAddress": "Via Canova",
-          "addressLocality": "Lugano",
-          "postalCode": "6900",
-          "addressCountry": "CH",
-          "sourceUrl": "https://www.luganoconventions.com/en/venues/villa-ciani",
-          "verification": {
-            "checkedAt": "2026-10-19T19:54:47.802Z",
-            "urls": [
-              "https://planb.lugano.ch/planb-forum/",
-              "https://luganoconventions.com/it/strutture/palazzo-congressi",
-              "https://www.luganoconventions.com/en/venues/villa-ciani",
-              "https://www.luganoconventions.com/en/venues/asilo-ciani"
-            ],
-            "venueName": "Villa Ciani",
-            "streetAddress": "Via Canova",
-            "addressLocality": "Lugano",
-            "addressCountry": "CH",
-            "location": "Via Canova, Lugano, 6900, CH"
-          }
-        },
-        {
-          "name": "Asilo Ciani",
-          "streetAddress": "Viale Carlo Cattaneo 5",
-          "addressLocality": "Lugano",
-          "postalCode": "6900",
-          "addressCountry": "CH",
-          "sourceUrl": "https://www.luganoconventions.com/en/venues/asilo-ciani",
-          "verification": {
-            "checkedAt": "2026-10-19T19:54:47.802Z",
-            "urls": [
-              "https://planb.lugano.ch/planb-forum/",
-              "https://luganoconventions.com/it/strutture/palazzo-congressi",
-              "https://www.luganoconventions.com/en/venues/villa-ciani",
-              "https://www.luganoconventions.com/en/venues/asilo-ciani"
-            ],
-            "venueName": "Asilo Ciani",
-            "streetAddress": "Viale Carlo Cattaneo 5",
-            "addressLocality": "Lugano",
-            "addressCountry": "CH",
-            "location": "Viale Carlo Cattaneo 5, Lugano, 6900, CH"
-          }
-        }
-      ],
-      "location": "Palazzo dei Congressi, Lugano, Switzerland"
-    }
-  },
   "premier-meridian": {
     "expectedStartDate": "2026-10-28T09:00:00+01:00",
     "checkedAt": "2026-10-19T19:55:26.943Z",
@@ -469,29 +394,6 @@
         "addressLocality": "Paris",
         "addressCountry": "France",
         "location": "Palais des Congrès de Paris, 2 Place de la Porte Maillot, 75017 Paris"
-      }
-    }
-  },
-  "premier-blockfest-africa-2026": {
-    "expectedStartDate": "2026-10-22T08:00:00+01:00",
-    "checkedAt": "2026-10-19T20:00:30.437Z",
-    "patch": {
-      "venueName": "National Art Theatre",
-      "streetAddress": "Ijora Causeway, Iganmu, Surulere",
-      "addressLocality": "Lagos",
-      "addressCountry": "NG",
-      "location": "National Art Theatre, Ijora Causeway, Iganmu, Surulere, Lagos, Nigeria",
-      "venueAddressSource": {
-        "checkedAt": "2026-10-19T20:00:30.437Z",
-        "urls": [
-          "https://blockfestafrica.com/travel",
-          "https://nationaltheatre.gov.ng/contacts"
-        ],
-        "venueName": "National Art Theatre",
-        "streetAddress": "Ijora Causeway, Iganmu, Surulere",
-        "addressLocality": "Lagos",
-        "addressCountry": "NG",
-        "location": "National Art Theatre, Ijora Causeway, Iganmu, Surulere, Lagos, Nigeria"
       }
     }
   },

@@ -230,22 +230,6 @@
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
     },
     {
-      "id": "premier-planblugano",
-      "file": "curated-events.json",
-      "name": "Plan B Forum Lugano 2026",
-      "status": "unavailable",
-      "attempts": [
-        {
-          "url": "https://planb.lugano.ch/",
-          "reason": "event-not-matched"
-        },
-        {
-          "url": "https://planb.lugano.ch",
-          "reason": "event-not-matched"
-        }
-      ]
-    },
-    {
       "id": "premier-hackmeridian",
       "file": "curated-events.json",
       "status": "source-backed",
@@ -495,33 +479,6 @@
       "previousStartDate": "2026-09-28T08:00:00-04:00",
       "characters": 155,
       "preview": "A closed-door conference on corporate bitcoin treasury strategy — allocators, executives, and strategists in one room. September 28, 2026 in New York City."
-    },
-    {
-      "id": "premier-blockfest-africa-2026",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://blockfestafrica.com/",
-        "fetchedAt": "2026-09-20T00:20:43.409Z",
-        "method": "event-jsonld",
-        "pageTitle": "Blockf3st Africa 2026 - The Superbowl of Web3",
-        "sha256": "87d87e4e8784ec0259e3928789cc1e09b14e91ffdc2ee2e9c2cd50ef061796b7"
-      },
-      "eventFacts": {
-        "startDate": "2026-10-22T08:00:00+01:00",
-        "endDate": "2026-10-24T22:00:00+01:00",
-        "venueName": "National Art Theatre, Lagos",
-        "streetAddress": "National Art Theatre, Lagos",
-        "addressLocality": "Lagos",
-        "addressRegion": "Lagos State",
-        "addressCountry": "NG",
-        "city": "Lagos",
-        "country": "NG",
-        "location": "National Art Theatre, Lagos, Lagos, Lagos State, NG"
-      },
-      "previousStartDate": "2026-10-22T08:00:00+01:00",
-      "characters": 184,
-      "preview": "New Trade Routes: Bringing Africa Onchain. Three days of building, networking and dealmaking with 5,000+ founders, engineers, investors and policymakers at National Art Theatre, Lagos."
     },
     {
       "id": "premier-blockchain-summit-latam-2026",

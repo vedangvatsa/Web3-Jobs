@@ -7,25 +7,6 @@
   "failures": [],
   "records": [
     {
-      "id": "premier-planblugano",
-      "outcome": "recovered",
-      "sourceUrl": "https://planb.lugano.ch/planb-forum/",
-      "reason": "Found the event-specific Plan B Forum page rather than the city's general Bitcoin initiative homepage.",
-      "fetchedAt": "2026-09-20T07:56:59.896Z",
-      "characters": 896,
-      "changes": [
-        "description",
-        "descriptionSource",
-        "website",
-        "registrationUrl",
-        "startDate",
-        "endDate",
-        "timezone",
-        "venueName",
-        "location"
-      ]
-    },
-    {
       "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
       "outcome": "recovered",
       "sourceUrl": "https://docs.google.com/spreadsheets/d/1NZ09OVlqElsM64oUm-8i1yh_A-U0p39BJECthwHCsLA/htmlview/sheet?headers=true&gid=0",

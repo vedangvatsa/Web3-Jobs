@@ -2,17 +2,6 @@
   "applied": true,
   "records": [
     {
-      "id": "premier-planblugano",
-      "words": 195,
-      "source": {
-        "url": "https://planb.lugano.ch/planb-forum/",
-        "fetchedAt": "2026-09-21T05:12:52.967Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Lugano's Plan B Forum 2026",
-        "sha256": "badbe6dae301d27581e133b0644818e8b5bfef63658b41a792c0a2d24d28f802"
-      }
-    },
-    {
       "id": "ibw-official-ibw2026-pre-conference-vip-night-10-31",
       "words": 120,
       "source": {

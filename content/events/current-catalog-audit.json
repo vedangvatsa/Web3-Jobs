@@ -47,38 +47,6 @@
       }
     },
     {
-      "id": "premier-blockfest-africa-2026",
-      "oldSlug": "blockfest-africa",
-      "slug": "blockfest-africa",
-      "candidate": false,
-      "outcome": "verified-edited",
-      "descriptionChanged": true,
-      "previousCharacters": 946,
-      "characters": 735,
-      "source": {
-        "url": "https://blockfestafrica.com/",
-        "fetchedAt": "2026-10-12T11:25:11.565Z",
-        "status": 200,
-        "sha256": "9ecf92f670719eab368f2da9244d2eca9345ccd2a6d8b7877f76623ea2ed44b1"
-      }
-    },
-    {
-      "id": "premier-planblugano",
-      "oldSlug": "plan",
-      "slug": "plan-b-forum-lugano",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 1360,
-      "characters": 1360,
-      "source": {
-        "url": "https://planb.lugano.ch/planb-forum/",
-        "fetchedAt": "2026-10-12T11:25:12.886Z",
-        "status": 200,
-        "sha256": "2df73ff2fdac4b0e4f8ab701c4316e216f9b944bad8b7b57f98a2a193cf0b9c0"
-      }
-    },
-    {
       "id": "token2049-evt-2gHTqhbNIut9G5D",
       "oldSlug": "founder-house",
       "slug": "founder-house",

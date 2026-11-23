@@ -822,65 +822,6 @@
       "applied": false
     },
     {
-      "id": "premier-planblugano",
-      "status": "multi-venue",
-      "evidence": [
-        {
-          "url": "https://planb.lugano.ch/planb-forum/",
-          "fetchedAt": "2026-10-19T19:54:32.708Z",
-          "claim": "event-to-venue: the current 23–24 October 2026 forum names Palazzo dei Congressi and includes three conference venues",
-          "excerpt": "PLAN ₿ FORUM, 23-24 OCTOBER 2026, LUGANO. Get access to the Two-day Conference (Convention Centre, Villa Ciani, Ex-Asilo Ciani). ... Lugano CH | Palazzo dei Congressi"
-        },
-        {
-          "url": "https://luganoconventions.com/it/strutture/palazzo-congressi",
-          "fetchedAt": "2026-10-19T19:54:45.084Z",
-          "claim": "venue-to-address: the City of Lugano's venue operator identifies the Palazzo dei Congressi visitor address",
-          "excerpt": "Come raggiungere il Palazzo dei Congressi ... Piazza Indipendenza 4, 6900 Lugano. ... CONTATTI ... Piazza Indipendenza 4, CH - 6900 Lugano"
-        },
-        {
-          "url": "https://www.luganoconventions.com/en/venues/villa-ciani",
-          "fetchedAt": "2026-10-19T19:54:47.802Z",
-          "claim": "venue-to-address: the official operator publishes Villa Ciani's street address without a house number",
-          "excerpt": "How to reach Villa Ciani ... Via Canova, 6900 Lugano"
-        },
-        {
-          "url": "https://www.luganoconventions.com/en/venues/asilo-ciani",
-          "fetchedAt": "2026-10-19T19:54:40.998Z",
-          "claim": "venue-to-address: the official operator publishes Asilo Ciani's visitor address",
-          "excerpt": "How to reach Asilo Ciani ... Viale Carlo Cattaneo 5, 6900 Lugano"
-        }
-      ],
-      "note": "The proposed patch covers the explicitly named Palazzo dei Congressi anchor venue only; the conference footprint also includes Villa Ciani, Via Canova, 6900 Lugano, and Asilo Ciani, Viale Carlo Cattaneo 5, 6900 Lugano. Retain the multi-venue qualification rather than presenting the Palazzo address as the complete venue list. Via Canova is the operator's authentic street address without a house number, not a city-only stub. Current 2026 organizer text, rather than a previous edition, establishes all three venues. Ticket and pass-specific access conditions remain applicable.",
-      "publicVenues": [
-        {
-          "name": "Palazzo dei Congressi",
-          "streetAddress": "Piazza Indipendenza 4",
-          "addressLocality": "Lugano",
-          "postalCode": "6900",
-          "addressCountry": "CH",
-          "sourceUrl": "https://luganoconventions.com/it/strutture/palazzo-congressi"
-        },
-        {
-          "name": "Villa Ciani",
-          "streetAddress": "Via Canova",
-          "addressLocality": "Lugano",
-          "postalCode": "6900",
-          "addressCountry": "CH",
-          "sourceUrl": "https://www.luganoconventions.com/en/venues/villa-ciani"
-        },
-        {
-          "name": "Asilo Ciani",
-          "streetAddress": "Viale Carlo Cattaneo 5",
-          "addressLocality": "Lugano",
-          "postalCode": "6900",
-          "addressCountry": "CH",
-          "sourceUrl": "https://www.luganoconventions.com/en/venues/asilo-ciani"
-        }
-      ],
-      "name": "Plan B Forum Lugano 2026",
-      "applied": true
-    },
-    {
       "id": "premier-hackmeridian",
       "status": "not-announced",
       "evidence": [
@@ -1307,46 +1248,6 @@
       ],
       "note": "The organizer's rendered sponsor and ethos pages establish this venue for the current 2027 event; the address is not transferred from a previous Paris Blockchain Week edition. Dates match the target. The operator's cited visitor-address text does not state a region or country, so neither field is added to the patch; the target already has country=France. Registration and invitation language remain with the organizer.",
       "name": "Signal Week 2027",
-      "applied": true
-    },
-    {
-      "id": "premier-blockfest-africa-2026",
-      "status": "verified",
-      "patch": {
-        "venueName": "National Art Theatre",
-        "streetAddress": "Ijora Causeway, Iganmu, Surulere",
-        "addressLocality": "Lagos",
-        "addressCountry": "NG",
-        "location": "National Art Theatre, Ijora Causeway, Iganmu, Surulere, Lagos, Nigeria",
-        "venueAddressSource": {
-          "checkedAt": "2026-10-19T20:00:30.437Z",
-          "urls": [
-            "https://blockfestafrica.com/travel",
-            "https://nationaltheatre.gov.ng/contacts"
-          ],
-          "venueName": "National Art Theatre",
-          "streetAddress": "Ijora Causeway, Iganmu, Surulere",
-          "addressLocality": "Lagos",
-          "addressCountry": "NG",
-          "location": "National Art Theatre, Ijora Causeway, Iganmu, Surulere, Lagos, Nigeria"
-        }
-      },
-      "evidence": [
-        {
-          "url": "https://blockfestafrica.com/travel",
-          "fetchedAt": "2026-10-19T20:00:29.531Z",
-          "claim": "The organizer confirms the current edition at National Art Theatre in Lagos, Nigeria.",
-          "excerpt": "October 22–24, 2026 at National Art Theatre, Lagos. The venue National Art Theatre, Lagos, Nigeria. It sits on Lagos Mainland beside the Iganmu interchange"
-        },
-        {
-          "url": "https://nationaltheatre.gov.ng/contacts",
-          "fetchedAt": "2026-10-19T20:00:30.437Z",
-          "claim": "The theatre's official contact page identifies its public physical location and street.",
-          "excerpt": "The National Theatre, Iganmu, Surulere, Lagos ... Contact MAP Map of the Location of National Theatre. National Theatre, Lagos Ijora Causeway, Lagos, Nigeria"
-        }
-      ],
-      "note": "Street and district components come from the theatre's own contact-page text, without opening its map. No building number or physical postcode is published there. P.M.B 3109 is a mailing-box identifier, not a postcode, and is not included.",
-      "name": "Blockf3st Africa 2026",
       "applied": true
     },
     {
