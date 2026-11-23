@@ -838,7 +838,7 @@
     "sentAt": "2026-11-22T11:55:38.986Z"
   },
   "5dba8964-e4f6-4b09-b77c-10d8cc0a85d6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T00:25:24.808Z",
     "stories": [
       {
@@ -872,6 +872,8 @@
         "originalTitle": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"
       }
     ],
-    "slotKey": "2026-11-22:evening"
+    "slotKey": "2026-11-22:evening",
+    "messageId": 193566,
+    "sentAt": "2026-11-23T00:25:31.421Z"
   }
 }

@@ -65,6 +65,9 @@
   "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
   "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
   "https://www.marktechpost.com/2026/11/22/best-personal-ai-agents-2026/",
+  "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+  "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+  "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -197,6 +200,12 @@
   "Banks Have Had It Up to Here With Your AI Agent",
   "Personal AI Agents Evaluated Across Key Performance Metrics",
   "Best Personal AI Agents in 2026: OpenClaw, Hermes Agent, Gemini Spark and More, Compared on Memory, Security and Cost",
+  "Nvidia releases Alpamayo 2 Edge reasoning model",
+  "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+  "Security study reveals data leaks at cheap AI providers",
+  "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+  "Meta reconsiders 2030 climate goals over AI data centers",
+  "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -262,5 +271,8 @@
   "fp:android|app|captur|confront|existential|focus|limit|messag|mobil|monitor",
   "fp:agre|autonomous|bind|diplomat|end|establish|fail|geneva|global|killer",
   "fp:account|are|assign|automat|ban|bank|block|bot|customer|error",
-  "fp:actual|best|capacity|compar|cost|default|evaluat|gemini|herm|in2026"
+  "fp:actual|best|capacity|compar|cost|default|evaluat|gemini|herm|in2026",
+  "fp:action|alpamayo2|driv|edg|explain|latency|millisecond|nvidia|parameter|reason",
+  "fp:cheap|compromis|cost|credential|how|hundr|inferenc|leak|low|marketplac",
+  "fp:center|climat|commitment|corporat|demand|electricity|emission|evaluat|forc|goal"
 ]
