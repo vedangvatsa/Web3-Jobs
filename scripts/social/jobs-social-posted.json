@@ -176269,6 +176269,48 @@
       "attemptId": "bc8708a2-57ff-4359-b3cf-d4845e2a360e",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "bp",
+      "company": "Robinhood",
+      "title": "Benefits Partner",
+      "platform": "linkedin",
+      "postedAt": "2026-11-23T19:08:49.964Z",
+      "expectedText": "Robinhood is hiring Benefits Partner: https://hashtagweb3.com/bp/li?og=7",
+      "snapshot": {
+        "id": "8379150",
+        "title": "Benefits Partner",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8379150?t=gh_src=&gh_jid=8379150",
+        "date": "2026-11-16T16:14:24-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+        "department": "Total Rewards",
+        "active": true,
+        "salary": "$145k – $170k/yr",
+        "dateVerified": true,
+        "slug": "bp"
+      },
+      "payload": {
+        "text": "Robinhood is hiring Benefits Partner: https://hashtagweb3.com/bp/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/bp/li?og=7",
+          "title": "Benefits Partner at Robinhood",
+          "description": "Join Robinhood as Benefits Partner. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/bp.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "441f309b-ba73-49d8-9cf6-d1deab663c92",
+      "verification": "creating"
     }
   ]
 }
