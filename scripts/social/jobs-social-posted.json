@@ -173740,7 +173740,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "588659cd-402c-4423-ab31-c2b6d2147756",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7530522283451326464"
     }
   ]
 }
