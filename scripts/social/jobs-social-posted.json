@@ -173937,7 +173937,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "a46ccb85-509d-440a-a88c-a04c13b2dbed",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0503ba37727e84e78f4899e0b11b7af04226aa81"
     }
   ]
 }
