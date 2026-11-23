@@ -1315,7 +1315,14 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
 
   const INTRO_LEADIN_REGEX = /^(?:here(?:'s| is) what.*|in this role.*|as an? \w+.*|we are looking for someone who.*|our ideal candidate.*|your responsibilities will include.*|key deliverables include.*|you will be responsible for.*|duties include.*|responsibilities include.*)[:]?$/i;
 
-  const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
+  // Isolate structure placeholders onto their own lines. Text extraction can
+  // fuse "…processes. ###STRUCTURE:0###" onto one line after boilerplate
+  // stripping; the marker must not leak into rendered paragraph text.
+  const lines = fullText
+    .replace(/###STRUCTURE:(\d+)###/g, '\n###STRUCTURE:$1###\n')
+    .split('\n')
+    .map((l) => l.trim())
+    .filter(Boolean);
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
     const structure = /^###STRUCTURE:(\d+)###$/.exec(line);

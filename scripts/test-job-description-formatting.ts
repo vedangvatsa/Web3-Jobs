@@ -104,6 +104,18 @@ const quotedNote = cheerio.load(buildSynthesizedJobContent({ ...fixture, company
 assert.equal(quotedNote('blockquote em').text(), '*A source footnote inside quoted material.');
 assert.doesNotMatch(quotedNote.html(), /###STRUCTURE:/);
 
+// Footnote <em>*…</em> becomes a STRUCTURE placeholder; if adjacent text is
+// fused onto the same line, the marker must still render as structured HTML
+// and never appear in visible copy (mgr280-style job-markup-leak).
+const fusedStructureSource =
+  '<p>Product feedback: share what clients need to help us improve our products and processes.</p>' +
+  '<p><em>*Structured footnote that must render without leaking markers.</em></p>' +
+  '<ul><li>Nested<ul><li>Item</li></ul></li></ul>';
+const fusedStructureHtml = buildSynthesizedJobContent(fixture, fusedStructureSource);
+assert.doesNotMatch(fusedStructureHtml, /###STRUCTURE:/);
+assert.doesNotMatch(cheerio.load(fusedStructureHtml).root().text(), /###STRUCTURE:/);
+assert.deepEqual(descriptionFormattingIssues(fusedStructureHtml), []);
+
 const jobs: Job[] = JSON.parse(fs.readFileSync('content/jobs-cache.json', 'utf8'));
 const store = readJobDescriptionStore();
 let checked = 0;
