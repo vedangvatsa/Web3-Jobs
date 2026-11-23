@@ -724,5 +724,36 @@
     "slotKey": "2026-11-22:afternoon",
     "messageId": 65847,
     "sentAt": "2026-11-22T11:57:34.921Z"
+  },
+  "15e658c1-242a-41b4-b928-25d8d41aee16": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T00:28:42.446Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SEC Charges Colorado Entities in $37 Million Crypto Fraud",
+        "summary": "The fraudulent advisory and trading platforms allegedly defrauded over 1,500 US investors since August 2024.",
+        "link": "https://hashtagweb3.com/secscam?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC charges eight Colorado firms in $37 million fake crypto platform scam"
+      },
+      {
+        "index": -1,
+        "headline": "Hackers Redirect Luxor Customer Bitcoin Hashrate to OCEAN Pool",
+        "summary": "Intruders used the Commander tool to move mining power from over twelve accounts to a rival mining pool.",
+        "link": "https://hashtagweb3.com/luxorhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Luxor Says Hackers Redirected Customer Bitcoin Hashrate Through Its Commander Tool"
+      },
+      {
+        "index": -1,
+        "headline": "World Bank tests USDC and Citi for development payments",
+        "summary": "The pilot uses Circle's stablecoin and Citi's systems to distribute funds across more than 350 blockchain-tracked projects.",
+        "link": "https://hashtagweb3.com/worldbankusdc?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments"
+      }
+    ],
+    "slotKey": "2026-11-22:evening"
   }
 }
