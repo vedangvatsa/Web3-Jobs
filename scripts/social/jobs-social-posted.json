@@ -171257,6 +171257,35 @@
       "attemptId": "0c76e009-ad51-4e43-be8a-a42094794c8b",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "be129",
+      "company": "Ramp",
+      "title": "Software Engineer, Backend, AI Ventures",
+      "platform": "threads",
+      "postedAt": "2026-11-23T00:29:23.140Z",
+      "expectedText": "Ramp is hiring Software Engineer, Backend, AI Ventures: https://hashtagweb3.com/be129/th?og=7",
+      "snapshot": {
+        "id": "3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+        "title": "Software Engineer, Backend, AI Ventures",
+        "company": "Ramp",
+        "link": "https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0",
+        "date": "2026-11-17T17:52:33.611+00:00",
+        "source": "Ashby: Ramp [ramp]",
+        "location": "Hybrid (New York, NY (HQ))",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "be129"
+      },
+      "payload": {
+        "text": "Ramp is hiring Software Engineer, Backend, AI Ventures: https://hashtagweb3.com/be129/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/be129/th?og=7"
+      },
+      "attemptId": "6833b86b-d49c-4693-adc5-fcf5cad9fce6",
+      "verification": "creating"
     }
   ]
 }
