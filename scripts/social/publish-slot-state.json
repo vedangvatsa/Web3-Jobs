@@ -1382,10 +1382,12 @@
           "eventcontracts",
           "xmr1collapse"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-23T08:49:45.374Z",
         "buildId": "daily-20261123-45140199388-1",
-        "rolloutId": "daily-20261123-45140199388-1"
+        "rolloutId": "daily-20261123-45140199388-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-23T09:14:19.004Z"
       }
     ]
   }
