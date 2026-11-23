@@ -792,7 +792,7 @@
     "sentAt": "2026-11-23T06:41:39.865Z"
   },
   "00b6fc17-447f-49a3-86ed-5362e6362d05": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-23T13:41:25.408Z",
     "stories": [
       {
@@ -820,6 +820,8 @@
         "originalTitle": "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange"
       }
     ],
-    "slotKey": "2026-11-23:afternoon"
+    "slotKey": "2026-11-23:afternoon",
+    "messageId": 65850,
+    "sentAt": "2026-11-23T13:41:48.738Z"
   }
 }
