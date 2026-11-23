@@ -836,5 +836,42 @@
     "slotKey": "2026-11-22:afternoon",
     "messageId": 193563,
     "sentAt": "2026-11-22T11:55:38.986Z"
+  },
+  "5dba8964-e4f6-4b09-b77c-10d8cc0a85d6": {
+    "status": "reserved",
+    "reservedAt": "2026-11-23T00:25:24.808Z",
+    "stories": [
+      {
+        "index": 3,
+        "original_title": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor",
+        "headline": "Nvidia releases Alpamayo 2 Edge reasoning model",
+        "summary": "The two-billion-parameter vision-language-action model plans and explains driving trajectories at latency speeds under 190 milliseconds.",
+        "event_rationale": "Covers Nvidia's launch of the Alpamayo 2 Edge autonomous driving model, distinct from previously posted announcements.",
+        "link": "https://www.marktechpost.com/2026/11/22/nvidia-alpamayo-2-edge-2b-reasoning-vla-drive-thor/",
+        "source": "MarkTechPost",
+        "originalTitle": "NVIDIA Releases Alpamayo 2 Edge: A 2B Reasoning VLA for DRIVE Thor"
+      },
+      {
+        "index": 8,
+        "original_title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+        "headline": "Security study reveals data leaks at cheap AI providers",
+        "summary": "Researchers uncovered hundreds of stolen credentials and unencrypted user queries across compromised low-cost inference marketplace vendors.",
+        "event_rationale": "Covers a research study uncovering security breaches among budget AI inference providers, distinct from all previously posted security items.",
+        "link": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+        "source": "The Decoder",
+        "originalTitle": "Security researchers show how cheap AI inference providers steal keys and snoop on users"
+      },
+      {
+        "index": 20,
+        "original_title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+        "headline": "Meta reconsiders 2030 climate goals over AI data centers",
+        "summary": "Surging electricity demands from artificial intelligence infrastructure forced the company to re-evaluate its corporate sustainability commitments.",
+        "event_rationale": "Covers Meta re-evaluating its sustainability targets due to AI energy usage, distinct from all previously posted infrastructure events.",
+        "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+        "source": "Ars Technica",
+        "originalTitle": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers"
+      }
+    ],
+    "slotKey": "2026-11-22:evening"
   }
 }
