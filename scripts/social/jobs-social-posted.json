@@ -172460,7 +172460,8 @@
       },
       "account": "channel:build",
       "attemptId": "e4733e27-97bd-46f5-896e-48de06bba04c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5830753e6d53fc1a9cc1ca1536c6fd581159b4e3"
     }
   ]
 }
