@@ -176005,6 +176005,41 @@
       "attemptId": "e7f2ebd3-459a-4dcf-9107-410403bf6fd1",
       "verification": "verified",
       "postId": "0x4728002251ab3fc8d519e0f7b47662d9c0f42989"
+    },
+    {
+      "slug": "bp",
+      "company": "Robinhood",
+      "title": "Benefits Partner",
+      "platform": "farcaster",
+      "postedAt": "2026-11-23T19:08:49.964Z",
+      "expectedText": "Robinhood is hiring Benefits Partner\n\nhttps://hashtagweb3.com/bp/fc?og=7",
+      "snapshot": {
+        "id": "8379150",
+        "title": "Benefits Partner",
+        "company": "Robinhood",
+        "link": "https://boards.greenhouse.io/robinhood/jobs/8379150?t=gh_src=&gh_jid=8379150",
+        "date": "2026-11-16T16:14:24-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Robinhood [robinhood]",
+        "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+        "department": "Total Rewards",
+        "active": true,
+        "salary": "$145k – $170k/yr",
+        "dateVerified": true,
+        "slug": "bp"
+      },
+      "payload": {
+        "text": "Robinhood is hiring Benefits Partner\n\nhttps://hashtagweb3.com/bp/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/bp/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "c294ce40-e501-4493-ba34-4303fdbad288",
+      "verification": "creating"
     }
   ]
 }
