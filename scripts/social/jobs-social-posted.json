@@ -173371,7 +173371,8 @@
       },
       "account": "channel:base",
       "attemptId": "df95f440-dabe-4847-8f8a-e957b294a684",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7f0ac972af8bed2eb6791aa6257f27f1f2619720"
     }
   ]
 }
