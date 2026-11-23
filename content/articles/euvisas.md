@@ -54,27 +54,37 @@ Located on the Adriatic Sea just north of Greece, Albania introduced its Unique 
 
 Albania's cost of living is among the lowest in Southern Europe, with coastal apartments in Saranda or Vlorë renting for 350 to 600 dollars per month, and central Tirana apartments renting for 500 to 750 dollars. While Albania is not yet an EU or Schengen member, United States citizens can stay in the country visa-free for up to one full year without applying for a visa.
 
-## 3. Spain (Digital Nomad Visa)
-- **Minimum Qualifying Monthly Income:** €2,849 (~$3,100)
-- **Local Tax Treatment:** 24% flat rate under the Beckham Law (up to €600,000)
-- **Initial Permit Duration:** 3 years (if applying from within Spain)
-- **Can Lead to Permanent Residency:** Yes (after 5 years)
-
-Spain's Digital Nomad Visa, introduced under the Startup Act in 2023, is one of the most popular and practical residency programs in Europe. The minimum income threshold is set at 200 percent of the Spanish minimum interprofessional wage (SMI), currently €2,849 per month for an individual applicant.
-
-If you apply from within Spain while on a standard 90-day tourist entry, you receive an immediate three-year residency card (visado de residencia). Crucially, nomads can apply for the Special Expats Tax Regime (the Beckham Law), which caps their income tax at a flat 24 percent instead of standard progressive tax brackets that reach 47 percent. The visa allows full path-to-citizenship eligibility after five years of legal residence. For city breakdowns, review our guide to [Valencia, Barcelona, and Spanish Living Costs](/walkability).
-
-## 4. Hungary (White Card)
-- **Minimum Qualifying Monthly Income:** €3,000 net (~$3,250)
+## 3. Hungary (White Card)
+- **Minimum Qualifying Monthly Income:** €2,000 (~$2,180)
 - **Local Tax Treatment:** 15% personal income tax if tax residency is established
 - **Initial Permit Duration:** 1 year (Renewable once for a second year)
 - **Can Lead to Permanent Residency:** No
 
-Hungary's "White Card" is designed specifically for non-EEA nationals who work for companies outside Hungary or run an online business registered abroad. The financial threshold is €3,000 net per month, verified via six months of bank statements.
+Hungary's "White Card" is designed specifically for non-EEA nationals who work for companies outside Hungary or run an online business registered abroad. The financial threshold is €2,000 per month, verified via six months of bank statements.
 
 Budapest offers exceptional public transit, historic architecture, and a lively expat community. The White Card allows you to reside legally in Hungary and travel across the Schengen Area. However, the permit has an important structural limit: it is strictly temporary and cannot be renewed beyond two years, nor does it count toward permanent EU settlement.
 
-## 5. Greece (Digital Nomad Visa)
+## 4. Croatia (Digital Nomad Residence Permit)
+- **Minimum Qualifying Monthly Income:** Approximately €2,540 (~$2,800)
+- **Local Tax Treatment:** 0% tax on foreign-sourced earnings
+- **Initial Permit Duration:** Up to 1 year
+- **Can Lead to Permanent Residency:** No
+
+Croatia was among the first EU nations to welcome digital nomads with a dedicated legal status. Its income requirement is pegged to 2.5 times the national average monthly wage, updated each January.
+
+Croatia offers a complete exemption from local income tax on money earned from foreign clients or employers. You can live in coastal hubs like Split and Zadar or in Zagreb with zero local tax liability. You cannot renew the permit immediately from within Croatia; you must leave the country for at least ninety days before submitting a new application.
+
+## 5. Spain (Digital Nomad Visa)
+- **Minimum Qualifying Monthly Income:** €2,646 (~$2,900)
+- **Local Tax Treatment:** 24% flat rate under the Beckham Law (up to €600,000)
+- **Initial Permit Duration:** 3 years (if applying from within Spain)
+- **Can Lead to Permanent Residency:** Yes (after 5 years)
+
+Spain's Digital Nomad Visa, introduced under the Startup Act in 2023, is one of the most popular and practical residency programs in Europe. The minimum income threshold is set at 200 percent of the Spanish minimum interprofessional wage (SMI), currently €2,646 per month for an individual applicant.
+
+If you apply from within Spain while on a standard 90-day tourist entry, you receive an immediate three-year residency card (visado de residencia). Crucially, nomads can apply for the Special Expats Tax Regime (the Beckham Law), which caps their income tax at a flat 24 percent instead of standard progressive tax brackets that reach 47 percent. The visa allows full path-to-citizenship eligibility after five years of legal residence. For city breakdowns, review our guide to [Valencia, Barcelona, and Spanish Living Costs](/walkability).
+
+## 6. Greece (Digital Nomad Visa)
 - **Minimum Qualifying Monthly Income:** €3,500 (~$3,800)
 - **Local Tax Treatment:** 50% tax reduction on Greek income tax for up to 7 years
 - **Initial Permit Duration:** 1 to 2 years (Renewable every two years)
@@ -84,7 +94,17 @@ Greece sets a higher monthly income threshold of €3,500 for the main applicant
 
 Holders of the Greek nomad visa who spend more than 183 days in the country and become tax residents benefit from a major statutory tax incentive: a 50 percent tax exemption on their income for up to seven years. Greece provides warm Mediterranean weather, thousands of islands, and growing tech communities in [Athens](/athens) and Thessaloniki.
 
-## 6. Malta (Nomad Residence Permit)
+## 7. Portugal (D8 Digital Nomad Visa)
+- **Minimum Qualifying Monthly Income:** €3,280 (~$3,600)
+- **Local Tax Treatment:** Standard progressive rates (14.5% to 48%), unless qualifying for NHR 2.0
+- **Initial Permit Duration:** 1 to 2 years (Renewable up to 5 years)
+- **Can Lead to Permanent Residency:** Yes (after 5 years)
+
+Portugal's D8 visa requires proof of income equal to four times the Portuguese national minimum wage, currently €3,280 per month. Applicants must show consistent deposits over the preceding three months and open a local Portuguese bank account with a funded security deposit.
+
+The D8 visa provides a clear five-year path to Portuguese citizenship and an EU passport. However, following the closure of the original Non-Habitual Resident (NHR) 20 percent flat tax program in 2024, standard D8 holders are exposed to standard progressive tax brackets unless their role qualifies for the new NHR 2.0 innovation regime. We analyze this in depth in our [Nomad Visas and Tax Guide](/nomadtax).
+
+## 8. Malta (Nomad Residence Permit)
 - **Minimum Qualifying Monthly Income:** €3,500 (~$3,800)
 - **Local Tax Treatment:** 10% flat tax on remote income
 - **Initial Permit Duration:** 1 year (Renewable up to 4 years total)
@@ -93,26 +113,6 @@ Holders of the Greek nomad visa who spend more than 183 days in the country and 
 Malta requires a verified gross monthly income of €3,500. Located in the central Mediterranean, Malta is an English-speaking country with an established financial and gaming ecosystem.
 
 Under Malta's revised nomad tax rules, remote workers pay a flat 10 percent personal income tax on income derived from authorized remote work. The permit provides full Schengen travel rights and an official Maltese biometric residence card. For high-net-worth individuals interested in permanent European passports, Malta also operates the [Maltese Exceptional Direct Investment (MEIN)](/cbi) naturalization program.
-
-## 7. Croatia (Digital Nomad Residence Permit)
-- **Minimum Qualifying Monthly Income:** Approximately €3,622.50 (~$3,900)
-- **Local Tax Treatment:** 0% tax on foreign-sourced earnings
-- **Initial Permit Duration:** Up to 1 year
-- **Can Lead to Permanent Residency:** No
-
-Croatia was among the first EU nations to welcome digital nomads with a dedicated legal status. Its income requirement is pegged to 2.5 times the national average monthly wage, updated each January.
-
-Croatia offers a complete exemption from local income tax on money earned from foreign clients or employers. You can live in coastal hubs like Split and Zadar or in Zagreb with zero local tax liability. You cannot renew the permit immediately from within Croatia; you must leave the country for at least ninety days before submitting a new application.
-
-## 8. Portugal (D8 Digital Nomad Visa)
-- **Minimum Qualifying Monthly Income:** €3,680 (~$4,000)
-- **Local Tax Treatment:** Standard progressive rates (14.5% to 48%), unless qualifying for NHR 2.0
-- **Initial Permit Duration:** 1 to 2 years (Renewable up to 5 years)
-- **Can Lead to Permanent Residency:** Yes (after 5 years)
-
-Portugal's D8 visa requires proof of income equal to four times the Portuguese national minimum wage, currently €3,680 per month. Applicants must show consistent deposits over the preceding three months and open a local Portuguese bank account with a funded security deposit.
-
-The D8 visa provides a clear five-year path to Portuguese citizenship and an EU passport. However, following the closure of the original Non-Habitual Resident (NHR) 20 percent flat tax program in 2024, standard D8 holders are exposed to standard progressive tax brackets unless their role qualifies for the new NHR 2.0 innovation regime. We analyze this in depth in our [Nomad Visas and Tax Guide](/nomadtax).
 
 ---
 
@@ -124,12 +124,12 @@ The table below summarizes the key legal and financial metrics across Europe's p
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Bulgaria](/bansko)** | [Self-Employed D-Visa](/visas) | ~$1,500 (€1,400) | 10% Flat | 1 Year | Yes |
 | **Albania** | [Unique Nomad Permit](/visas) | ~$1,600 (€1,500) | 0% Foreign Tax | 1 Year | Yes |
-| **[Spain](/valencia)** | [Digital Nomad Visa](/visas) | €2,849 (~$3,100) | 24% Flat (Beckham) | 3 Years | Yes (5 Years) |
-| **Hungary** | [White Card](/visas) | €3,000 (~$3,250) | 15% | 1 Year | No (2-year max) |
+| **Hungary** | [White Card](/visas) | €2,000 (~$2,180) | 15% | 1 Year | No (2-year max) |
+| **Croatia** | [Digital Nomad Permit](/visas) | €2,540 (~$2,800) | 0% (Tax-Free) | 1 Year | No |
+| **[Spain](/valencia)** | [Digital Nomad Visa](/visas) | €2,646 (~$2,900) | 24% Flat (Beckham) | 3 Years | Yes (5 Years) |
+| **[Portugal](/lisbon)** | [D8 Remote Work Visa](/visas) | €3,280 (~$3,600) | Progressive (NHR 2.0) | 2 Years | Yes (5 Years) |
 | **[Greece](/athens)** | [Digital Nomad Visa](/visas) | €3,500 (~$3,800) | 50% Tax Discount | 2 Years | Yes (5 Years) |
 | **Malta** | [Nomad Residence Permit](/visas) | €3,500 (~$3,800) | 10% Flat | 1 Year | No (4-year max) |
-| **Croatia** | [Digital Nomad Permit](/visas) | €3,622.50 (~$3,900) | 0% (Tax-Free) | 1 Year | No |
-| **[Portugal](/lisbon)** | [D8 Remote Work Visa](/visas) | €3,680 (~$4,000) | Progressive (NHR 2.0) | 2 Years | Yes (5 Years) |
 
 ---
 

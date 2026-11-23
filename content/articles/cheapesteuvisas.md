@@ -12,7 +12,7 @@ Many remote workers and freelancers dream of living legally in Europe, but assum
 
 While European golden visa programs and investor naturalization routes can cost upwards of €500,000, modern digital nomad visas and freelance permits tell a completely different story. 
 
-Several European countries offer official residency pathways designed specifically for remote contractors, software developers, and online business owners that carry government application fees under €250 and require manageable monthly income minimums between €1,400 and €3,000.
+Several European countries offer official residency pathways designed specifically for remote contractors, software developers, and online business owners that carry government application fees under €250 and require manageable monthly income minimums between €1,400 and €2,650.
 
 These visas grant you legal residency, an official biometric residence card, the right to rent long-term apartments, and border-free travel throughout the 29 nations of the European Schengen Area.
 
@@ -44,7 +44,7 @@ Towns like [Bansko](/bansko) and the capital city of Sofia offer vibrant tech co
 
 ## 2. Spain (Digital Nomad Visa - Startup Act Law 28/2022)
 - **Government Application Fee:** €73.26 (Tasa 790-038) + €21.87 (TIE card fee)
-- **Minimum Qualifying Monthly Income:** €2,849 per month (200% of the Spanish minimum interprofessional wage / SMI)
+- **Minimum Qualifying Monthly Income:** €2,646 per month (200% of the Spanish minimum wage)
 - **Permit Duration:** 3 years (if applying directly from within Spain)
 - **Path to Permanent Residency / Citizenship:** Yes (5 years for permanent residency)
 
@@ -54,17 +54,17 @@ Crucially, if you enter Spain as a tourist and submit your digital nomad applica
 
 ## 3. Hungary (White Card)
 - **Government Application Fee:** €110 (Application fee) + €20 (Biometric card)
-- **Minimum Qualifying Monthly Income:** €3,000 net per month
+- **Minimum Qualifying Monthly Income:** €2,000 per month
 - **Permit Duration:** 1 year (Renewable once for a second year)
 - **Path to Permanent Residency:** No (Capped at 2 years total)
 
 Hungary's "White Card" was designed specifically for non-EU/EEA digital nomads employed by foreign firms or operating online businesses registered outside Hungary.
 
-The financial threshold is set at €3,000 net per month, verified via six months of consecutive bank statements showing steady deposits. Budapest offers rich cultural amenities, stunning thermal baths, historic architecture, and an extensive tram and subway network. The White Card grants full Schengen travel rights, though it cannot be renewed beyond two years.
+The financial threshold is accessible at €2,000 per month, verified via six months of consecutive bank statements showing steady deposits. Budapest offers rich cultural amenities, stunning thermal baths, historic architecture, and an extensive tram and subway network. The White Card grants full Schengen travel rights, though it cannot be renewed beyond two years.
 
 ## 4. Croatia (Digital Nomad Residence Permit)
 - **Government Application Fee:** ~$150 (€135 total for application, visa, and biometric residence card)
-- **Minimum Qualifying Monthly Income:** Approximately €3,622.50 (~$3,900)
+- **Minimum Qualifying Monthly Income:** Approximately €2,540 (~$2,800)
 - **Permit Duration:** Up to 1 year
 - **Local Tax Rate:** 0% (Full exemption on foreign-earned income)
 
@@ -74,11 +74,11 @@ The standout feature of Croatia's permit is its total tax holiday: income earned
 
 ## 5. Portugal (D8 Digital Nomad Visa)
 - **Government Application Fee:** €90 (Consular visa) + €170 (AIMA residence permit fee)
-- **Minimum Qualifying Monthly Income:** €3,680 per month (4x national minimum wage / RMMO)
+- **Minimum Qualifying Monthly Income:** €3,280 per month (4x national minimum wage)
 - **Permit Duration:** 1 to 2 years (Renewable up to 5 years)
 - **Path to Permanent Residency / Citizenship:** Yes (5 years)
 
-Portugal's D8 visa requires a higher monthly income threshold (€3,680) than Spain or Bulgaria, but its government processing fees remain modest at under €260 total.
+Portugal's D8 visa requires a higher monthly income threshold (€3,280) than Spain or Bulgaria, but its government processing fees remain modest at under €260 total.
 
 The primary benefit of the Portuguese D8 visa is that it provides a direct, legal five-year path to Portuguese permanent residency and an EU passport. Under Portuguese nationality legislation, the five-year countdown to citizenship eligibility begins on the date your application is formally submitted. Applicants can live in [Lisbon](/lisbon), Porto, or the island of Madeira, as detailed in our [European Nomad Visas Ranked by Salary Guide](/euvisas).
 
@@ -88,10 +88,10 @@ The primary benefit of the Portuguese D8 visa is that it provides a direct, lega
 
 | Country | Visa Name | Total Government Fees | Min. Monthly Income | Initial Duration | Leads to Permanent Residency? |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **[Spain](/valencia)** | [Digital Nomad Visa](/visas) | ~€95 | €2,849 | 3 Years (In-country) | Yes (5 Years) |
-| **Hungary** | [White Card](/visas) | ~€130 | €3,000 | 1 Year | No (2-year max) |
-| **Croatia** | [Digital Nomad Permit](/visas) | ~€135 | €3,622.50 | 1 Year | No (1-year max) |
-| **[Portugal](/lisbon)** | [D8 Remote Work Visa](/visas) | ~€260 | €3,680 | 2 Years | Yes (5 Years) |
+| **[Spain](/valencia)** | [Digital Nomad Visa](/visas) | ~€95 | €2,646 | 3 Years (In-country) | Yes (5 Years) |
+| **Hungary** | [White Card](/visas) | ~€130 | €2,000 | 1 Year | No (2-year max) |
+| **Croatia** | [Digital Nomad Permit](/visas) | ~€135 | €2,540 | 1 Year | No (1-year max) |
+| **[Portugal](/lisbon)** | [D8 Remote Work Visa](/visas) | ~€260 | €3,280 | 2 Years | Yes (5 Years) |
 | **[Bulgaria](/bansko)** | [Self-Employed D-Visa](/visas) | ~€350 | €1,400 | 1 Year | Yes (5 Years) |
 
 ---

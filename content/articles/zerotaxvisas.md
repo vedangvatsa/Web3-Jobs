@@ -55,7 +55,7 @@ In addition, the law exempts nomads from paying import taxes and duties on lapto
 To qualify, you must show certified bank statements demonstrating an average income of 3,000 dollars per month over the prior twelve months, or deposit 36,000 dollars into an approved bank account. If you spend at least 180 days inside Costa Rica during your initial year, you can extend the permit for a second year directly through the immigration portal.
 
 ## 3. Croatia (Digital Nomad Permit)
-- **Minimum Qualifying Monthly Income:** Roughly €3,622.50 (~$3,900)
+- **Minimum Qualifying Monthly Income:** Roughly €2,540 (~$2,800)
 - **Local Tax on Foreign Income:** 0%
 - **Visa Duration:** Up to 1 year
 - **Typical Processing Time:** 3 to 6 weeks
@@ -64,7 +64,7 @@ Croatia is one of the few European Union member states to offer a total tax holi
 
 You can live in historic coastal cities like Split, Dubrovnik, or Zadar, or the inland capital of Zagreb, without filing local income tax returns. Croatia's internet infrastructure is modern, and the country entered the European Schengen border-free zone in 2023, making regional European travel straightforward.
 
-The financial threshold is pegged to 2.5 times the official Croatian average net monthly salary, currently around 3,622.50 euros (~$3,900). The single procedural limitation is that Croatia's nomad permit cannot be extended consecutively while remaining in the country. Once your twelve-month permit concludes, you must exit Croatia for at least ninety days before submitting a new application.
+The financial threshold is pegged to 2.5 times the official Croatian average net monthly salary, currently around 2,540 euros. The single procedural limitation is that Croatia's nomad permit cannot be extended consecutively while remaining in the country. Once your twelve-month permit concludes, you must exit Croatia for at least ninety days before submitting a new application.
 
 ## 4. Malaysia (DE Rantau Nomad Pass)
 - **Minimum Qualifying Monthly Income:** $2,000 (Tech workers) / $24,000 annually
@@ -108,7 +108,7 @@ The table below contrasts key metrics across these six zero-tax remote worker pr
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Dubai (UAE)](/dubai)** | [Virtual Working Programme](/visas) | $3,500 | 0% | 1 Year | Yes | ~$287 + Emirates ID |
 | **Costa Rica** | [Digital Nomad Visa](/visas) | $3,000 | 0% | 1 Year | Yes (if 180 days in-country) | $100 |
-| **Croatia** | [Digital Nomad Permit](/visas) | ~$3,900 (€3,622.50) | 0% | 1 Year | No (90-day exit required) | ~$150 |
+| **Croatia** | [Digital Nomad Permit](/visas) | ~$2,800 | 0% | 1 Year | No (90-day exit required) | ~$150 |
 | **[Malaysia](/kuala-lumpur)**| [DE Rantau Nomad Pass](/visas) | $2,000 | 0% | 1 Year | Yes (up to 2 years) | ~$220 |
 | **[Georgia](/tbilisi)** | [Individual Entrepreneur](/visas) | $2,000 | 1% flat | 1 Year (Visa-free) | Yes (re-entry resets clock) | ~$50 registration |
 | **Uruguay** | [Digital Nomad Permit](/visas) | Self-certified | 0% | 6 - 12 Months | Yes | ~$60 |

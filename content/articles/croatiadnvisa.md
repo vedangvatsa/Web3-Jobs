@@ -25,7 +25,7 @@ This guide provides an exhaustive, step-by-step roadmap to applying for the Croa
 - **Permit Duration:** Up to 12 months (1 year).
 - **Local Tax Rate:** **0%**. Complete statutory exemption from Croatian personal income tax on foreign-sourced remote earnings.
 - **Schengen Status:** Full Schengen member state since January 1, 2023.
-- **Minimum Qualifying Monthly Income:** Roughly **€3,622.50 per month** (calculated as 2.5 times the official Croatian average net salary, ~$3,900/mo). Alternatively, you can demonstrate a bank balance of at least **€43,470** to cover a full twelve-month stay.
+- **Minimum Qualifying Monthly Income:** Roughly **€2,540 per month** (calculated as 2.5 times the official Croatian average net salary). Alternatively, you can demonstrate a bank balance of at least **€30,480** to cover a full twelve-month stay.
 - **Family Members:** You can bring your legal spouse and dependent children under family reunification rules, requiring an additional 10% of the baseline income for each family member.
 - **Renewal Policy:** The permit cannot be extended consecutively while remaining in Croatia. Upon completing your 12-month stay, you must exit Croatia for at least **90 days** before submitting a new application.
 
@@ -45,8 +45,8 @@ You must prove that you work for a foreign employer or run a business registered
 - **Company Owners:** Certificate of incorporation showing ownership of a company incorporated outside Croatia.
 
 ### 3. Financial Proof
-- Bank statements from the last three to six months showing regular deposits matching or exceeding the monthly minimum (currently ~€3,622.50/month), OR
-- An official bank statement showing a liquid balance of at least €43,470.
+- Bank statements from the last three to six months showing regular deposits matching or exceeding the monthly minimum (currently ~€2,540/month), OR
+- An official bank statement showing a liquid balance of at least €30,480.
 
 ### 4. Clean Criminal Record Certificate
 An apostilled criminal record check issued by the national police agency of your home country (e.g., FBI background check for US citizens, ACRO certificate for UK citizens) issued within the last six months, translated into Croatian by a sworn court translator.

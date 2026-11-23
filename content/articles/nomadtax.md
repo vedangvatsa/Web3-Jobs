@@ -43,7 +43,7 @@ These countries specifically designed their remote work visas to exclude foreign
   - *Local Tax Rate:* 0% tax on foreign-sourced earnings.
   - *Details:* Costa Rica's digital nomad law explicitly waives all local income taxes, import duties on laptops and work equipment, and remittance fees for up to one year. If you spend at least 180 days in the country during your first year, you can extend the visa for a second year without leaving.
 - **Croatia (Digital Nomad Permit):**
-  - *Minimum Income Required:* Approximately €3,622.50 per month (calculated as 2.5 times the average net salary, roughly $3,900).
+  - *Minimum Income Required:* Approximately €2,540 per month (calculated as 2.5 times the average net salary, roughly $2,800 to $3,000 depending on exchange rates).
   - *Local Tax Rate:* 0% on foreign earnings.
   - *Details:* Croatia was one of the earliest European countries to grant a full tax exemption to digital nomads. The permit lasts up to twelve months. The key limitation is that it cannot be extended immediately from within Croatia; you must leave the country for at least ninety days before submitting a new application.
 - **[Kuala Lumpur](/kuala-lumpur), Malaysia (DE Rantau Nomad Pass):**
@@ -56,7 +56,7 @@ These countries specifically designed their remote work visas to exclude foreign
 These jurisdictions do not offer a complete zero-tax exemption, but they replace high progressive income tax brackets with a predictable, capped flat rate.
 
 - **[Valencia](/valencia) & [Barcelona](/barcelona), Spain (Digital Nomad Visa with the Beckham Law):**
-  - *Minimum Income Required:* Roughly €2,849 per month (set at 200% of the Spanish minimum wage / SMI, or about $3,100).
+  - *Minimum Income Required:* Roughly €2,650 per month (set at 200% of the Spanish minimum wage, or about $3,000).
   - *Local Tax Rate:* 24% flat rate on income up to €600,000.
   - *Details:* Spain's digital nomad visa grants an initial three-year residency card, which can be extended to five years and leads toward permanent EU residency. Crucially, nomads can apply for the Special Expats Regime (known as the Beckham Law), which caps their income tax at 24% instead of standard progressive tax brackets that reach 47%. Review daily safety and pedestrian infrastructure in Spain in our [Walkability and Living Costs Report](/walkability).
 - **[Bansko](/bansko) & Sofia, Bulgaria (Self-Employed Freelance Visa):**
@@ -84,7 +84,7 @@ Some developed economies have created nomad visas specifically targeted at high-
 ### 4. Countries with Potential Tax Traps
 
 - **[Lisbon](/lisbon), Portugal (D8 Digital Nomad Visa):**
-  - *Minimum Income Required:* €3,680 per month (4x the national minimum wage, roughly $4,000).
+  - *Minimum Income Required:* €3,280 per month (4x the national minimum wage, roughly $3,600).
   - *Local Tax Rate:* Standard progressive income tax brackets from 14.5% up to 48%, unless you qualify for the new NHR 2.0 scientific/tech innovation regime.
   - *Details:* Portugal was previously the most popular destination in Europe under its Non-Habitual Resident (NHR) program, which taxed foreign income at a flat 20%. However, the original NHR closed to new applicants in 2024. Today, standard D8 visa holders who spend more than 183 days in Portugal are exposed to standard progressive tax rates. You must consult a Portuguese tax attorney before moving to ensure your job role qualifies for special exemptions. Those looking at long-term residency investment funds should evaluate our [Citizenship by Investment Guide](/cbi).
 
