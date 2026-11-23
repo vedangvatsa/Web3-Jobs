@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-22T18:37:56.042Z",
+  "generatedAt": "2026-11-23T00:24:26.765Z",
   "items": [
+    {
+      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
+      "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
+      "pubDate": "Sun, 22 Nov 2026 23:17:08 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
+      "source": "The Block"
+    },
+    {
+      "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
+      "link": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 22 Nov 2026 22:47:09 +0000",
+      "creator": "Andrew Fenton",
+      "contentSnippet": "Bitcoin rebounds sharply from its new cycle low, but is $55,110 really the bottom? Ledger investigates new reports of tampered devices in Berlin and t...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+      "pubDate": "Sun, 22 Nov 2026 20:58:33 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
+      "source": "The Block"
+    },
+    {
+      "title": "More on the pending oversight hearings: State of Crypto ",
+      "link": "https://www.coindesk.com/",
+      "pubDate": "Sun, 22 Nov 2026 19:30:00 +0000",
+      "creator": "Nikhilesh De",
+      "contentSnippet": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that ...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Chainflip’s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "link": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+      "pubDate": "Sun, 22 Nov 2026 18:58:57 +0000",
+      "creator": "Zack Abrams",
+      "contentSnippet": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
+      "source": "The Block"
+    },
     {
       "title": "The future of onchain FX could start with users, not institutional liquidity",
       "link": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -64,14 +104,6 @@
       "creator": "Staff",
       "contentSnippet": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms—even faking SEC certif...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
-      "link": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
-      "pubDate": "Sat, 21 Nov 2026 16:41:00 +0000",
-      "creator": "Francisco Rodrigues",
-      "contentSnippet": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
-      "source": "Coindesk"
     },
     {
       "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
@@ -386,22 +418,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-      "link": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
-      "pubDate": "Fri, 20 Nov 2026 06:08:28 +0000",
-      "creator": "Shaurya Malwa",
-      "contentSnippet": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Coinbase backs CFTC proposal to distinguish prediction market contracts from gambling",
-      "link": "https://www.theblock.co/news/business/2026-11-19-coinbase-backs-cftc-prediction-markets-444152",
-      "pubDate": "Fri, 20 Nov 2026 04:24:05 +0000",
-      "creator": "Timmy Shen",
-      "contentSnippet": "Coinbase said event contracts already qualify as swaps under the CEA and that explicit inclusion would provide greater regulatory certainty.",
-      "source": "The Block"
-    },
-    {
       "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
       "link": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Fri, 20 Nov 2026 03:33:22 +0000",
@@ -434,28 +450,12 @@
       "source": "Decrypt"
     },
     {
-      "title": "Kalshi’s Quintenz says insider trading is ‘just easier to see’ in prediction markets than stocks",
-      "link": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
-      "pubDate": "Thu, 19 Nov 2026 20:20:59 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it.",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
       "link": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
       "pubDate": "Thu, 19 Nov 2026 19:08:24 +0000",
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtr...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Ripple’s Alderoty doubts Elizabeth Warren will ‘set crypto policy in this country,’ backs durable agency rules",
-      "link": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
-      "pubDate": "Thu, 19 Nov 2026 18:47:30 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Ripple’s Alderoty backs durable agency rules as hopes for crypto market structure legislation fade.",
-      "source": "The Block"
     },
     {
       "title": "Ethereum’s Glamsterdam upgrade could slip to May 2027 over compatibility concerns",
