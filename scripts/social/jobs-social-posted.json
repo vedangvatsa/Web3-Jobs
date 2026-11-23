@@ -172705,7 +172705,8 @@
       },
       "account": "channel:product",
       "attemptId": "1eb0a3a2-a85a-4f7c-bf1f-bb9a4946b9d6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4f497614deda684043e58740d01a312e1f5b27b3"
     }
   ]
 }
