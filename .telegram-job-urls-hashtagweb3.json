@@ -39,6 +39,14 @@
     "lastUrl": "https://hashtagweb3.com/sls45",
     "updatedAt": "2026-11-15T11:32:55.082Z"
   },
+  "8287910": {
+    "slugs": [
+      "mkt172"
+    ],
+    "lastSlug": "mkt172",
+    "lastUrl": "https://hashtagweb3.com/mkt172",
+    "updatedAt": "2026-11-23T22:52:51.398Z"
+  },
   "8288641": {
     "slugs": [
       "eng646"
@@ -998,5 +1006,37 @@
     "lastSlug": "ops126",
     "lastUrl": "https://hashtagweb3.com/ops126",
     "updatedAt": "2026-11-23T13:35:35.719Z"
+  },
+  "4f05bef8-d46c-4d93-8d8d-f03030bc9065": {
+    "slugs": [
+      "aso74"
+    ],
+    "lastSlug": "aso74",
+    "lastUrl": "https://hashtagweb3.com/aso74",
+    "updatedAt": "2026-11-23T22:52:51.398Z"
+  },
+  "5fc5b827-1a25-4252-8e35-31d23ae2216b": {
+    "slugs": [
+      "ooc"
+    ],
+    "lastSlug": "ooc",
+    "lastUrl": "https://hashtagweb3.com/ooc",
+    "updatedAt": "2026-11-23T22:52:51.398Z"
+  },
+  "222376e0-986e-478d-bdf5-6e01f215e5ff": {
+    "slugs": [
+      "rec22"
+    ],
+    "lastSlug": "rec22",
+    "lastUrl": "https://hashtagweb3.com/rec22",
+    "updatedAt": "2026-11-23T22:52:51.398Z"
+  },
+  "5463933008": {
+    "slugs": [
+      "sls343"
+    ],
+    "lastSlug": "sls343",
+    "lastUrl": "https://hashtagweb3.com/sls343",
+    "updatedAt": "2026-11-23T22:52:51.398Z"
   }
 }
