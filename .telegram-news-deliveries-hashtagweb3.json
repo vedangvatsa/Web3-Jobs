@@ -856,5 +856,36 @@
     "slotKey": "2026-11-23:evening",
     "messageId": 156479,
     "sentAt": "2026-11-23T22:55:18.023Z"
+  },
+  "1c7180de-0046-4933-a211-7637979f0d5a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T04:25:23.565Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Allows Exchanges to Count Crypto Toward Reserves",
+        "summary": "Regulated venues may use bitcoin, ether, and stablecoins to cover annual operating costs, subject to mandatory haircuts.",
+        "link": "https://hashtagweb3.com/cftcreserves?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC staff let exchanges count Bitcoin toward operating reserves"
+      },
+      {
+        "index": -1,
+        "headline": "Solo Miner Solves Bitcoin Block for $191,000 Reward",
+        "summary": "Operating at 11 terahashes per second, an individual processed block 977057 via Solo CKPool on November 22.",
+        "link": "https://hashtagweb3.com/soloblock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solo miner wins $191,000 Bitcoin block with 11 TH/s"
+      },
+      {
+        "index": -1,
+        "headline": "NYSE chooses Avalanche for tokenized stock exchange settlement",
+        "summary": "Intercontinental Exchange will use the Avalanche blockchain to settle trades for its new 24/7 tokenized equities platform.",
+        "link": "https://hashtagweb3.com/nyseavalanche?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange"
+      }
+    ],
+    "slotKey": "2026-11-24:morning"
   }
 }
