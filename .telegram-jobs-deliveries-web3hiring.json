@@ -6234,7 +6234,7 @@
     "sentAt": "2026-11-23T22:52:42.728Z"
   },
   "ce2934cf-4ce4-4d84-a638-bf84b9652fe0": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-24T04:22:45.368Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -6345,6 +6345,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls513?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SMB, Italian speaking</a>\n- bitbank is hiring <a href=\"https://hashtagweb3.com/job41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">売買審査担当</a>\n- Ava Labs is hiring <a href=\"https://hashtagweb3.com/aso65?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant General Counsel</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/an127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading | DeFi Trading Analyst | Dubai</a>\n- Tempo is hiring <a href=\"https://hashtagweb3.com/rec83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter</a>",
-    "slotKey": "2026-11-24:morning"
+    "slotKey": "2026-11-24:morning",
+    "messageId": 16675,
+    "sentAt": "2026-11-24T04:22:47.868Z"
   }
 }
