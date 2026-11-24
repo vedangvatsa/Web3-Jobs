@@ -182148,6 +182148,46 @@
       "attemptId": "192a18b1-9412-4a82-9df7-245cbba86f93",
       "verification": "verified",
       "postId": "0x10bcdca6693c6a39a8587f7715c24d76adf01e55"
+    },
+    {
+      "slug": "dev43",
+      "company": "DRW",
+      "title": "Software Developer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-24T14:13:42.244Z",
+      "expectedText": "DRW is hiring Software Developer: https://hashtagweb3.com/dev43/li?og=7",
+      "snapshot": {
+        "id": "8357329",
+        "title": "Software Developer",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8357329",
+        "date": "2026-11-05T18:34:16-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Montreal",
+        "department": "EDT Technology - Trade Execution",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dev43"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Developer: https://hashtagweb3.com/dev43/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dev43/li?og=7",
+          "title": "Software Developer at DRW | Hashtag Web3",
+          "description": "Join DRW as Software Developer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dev43.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "52e15143-af2c-47d6-8080-d38caef8eb24",
+      "verification": "creating"
     }
   ]
 }
