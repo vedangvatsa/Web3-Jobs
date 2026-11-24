@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { DetailPrimaryActionLink } from '@/components/primary-action-link';
 import { EventGuideContent } from '@/components/event-guide-content';
+import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { getRelatedGrants } from '@/lib/grants';
 import { formatGrantDetailSubtitle } from '@/lib/grant-subtitle';
 import { generateGrantEditorial, grantEditorialToEventArticle } from '@/lib/grant-editorial';
@@ -130,6 +131,12 @@ export function GrantDetailView({ grant }: { grant: GrantProgram }) {
                 message: `Full eligibility and application steps live on ${grant.provider}'s official site.`,
                 linkLabel: 'View the official program page',
               }}
+            />
+
+            <DirectoryDisclaimer
+              variant="grant"
+              entityName={grant.provider || grant.name}
+              outboundUrl={grant.url}
             />
 
             {relatedGrants.length > 0 && (

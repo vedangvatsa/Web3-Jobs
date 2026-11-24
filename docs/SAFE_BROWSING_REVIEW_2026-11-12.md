@@ -27,7 +27,7 @@ Google’s email may list **only** `http://hashtagweb3[.]com/` as a sample URL. 
   - `NewsEditorialNotice` on all `category: News` articles.
   - Eight high-risk news slugs renamed to short one-word URLs (`secscam` → `/secfirms`, etc.) with permanent 301s in `content/articles/legacy-slugs.json` (includes interim hyphenated slugs).
   - Softer SEC enforcement meta copy; complaint-summary body on `/secfirms` no longer quotes wallet-payment steps.
-  - `fuel-grants` manual repair; grant render/extract filters drop form-scrape junk; `test-grants.ts` rejects stored “Do not submit passwords…” copy.
+  - `fuel-grants` manual repair; grant render/extract filters drop form-scrape junk; `test-grants.ts` rejects stored “Do not submit passwords…” copy; `DirectoryDisclaimer` on every grant detail page.
 - **Still required after deploy:** spot-check live HTML on renamed URLs and a News article → Search Console **Security issues → Request review** (status will not clear until Google re-crawls and approves).
 **Site:** https://hashtagweb3.com (Firebase App Hosting, 35.219.200.9)
 **Report:** Google Search Console email — "Social engineering content detected", sample URL `http://hashtagweb3[.]com/`

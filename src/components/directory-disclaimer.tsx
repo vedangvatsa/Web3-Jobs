@@ -13,6 +13,11 @@ type DirectoryDisclaimerProps =
       variant: 'event';
       entityName: string;
       outboundUrl?: string;
+    }
+  | {
+      variant: 'grant';
+      entityName: string;
+      outboundUrl: string;
     };
 
 function formatHostPhrase(hostname: string, platformLabel: string | null): string {
@@ -31,7 +36,9 @@ export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
       ? 'This role is listed for information only. Hashtag Web3 is not the employer. Verify the official link before you apply; we are not responsible for third-party sites.'
       : variant === 'event'
         ? 'This event is listed for information only. Hashtag Web3 is not the organizer. Verify the official link before you register; we are not responsible for third-party sites.'
-        : 'Listings are for information only. Hashtag Web3 is not the employer or event organizer. Verify official links; we are not responsible for third-party sites.';
+        : variant === 'grant'
+          ? 'This program is listed for information only. Hashtag Web3 does not administer the grant or run its application. Apply only via the official Details link; this page is not a form and will never ask for passwords, seed phrases, or wallet signatures.'
+          : 'Listings are for information only. Hashtag Web3 is not the employer or event organizer. Verify official links; we are not responsible for third-party sites.';
 
   let outboundNote: string | null = null;
 
@@ -48,6 +55,14 @@ export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
     if (disclosure) {
       const hostPhrase = formatHostPhrase(disclosure.hostname, disclosure.platformLabel);
       outboundNote = `The Details link opens the organizer's page for ${props.entityName} on ${hostPhrase}. We do not handle registration, tickets, or payments.`;
+    }
+  }
+
+  if (props.variant === 'grant' && props.outboundUrl) {
+    const disclosure = getThirdPartyHostDisclosure(props.outboundUrl);
+    if (disclosure) {
+      const hostPhrase = formatHostPhrase(disclosure.hostname, disclosure.platformLabel);
+      outboundNote = `The Details link opens ${props.entityName}'s official page on ${hostPhrase}. We do not host applications or collect submissions for this program.`;
     }
   }
 
