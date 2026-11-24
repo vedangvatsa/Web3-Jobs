@@ -23,30 +23,6 @@
     ]
   },
   {
-    "url": "https://joinfingrad.com/tokeniq",
-    "file": "curated-events.json",
-    "id": "curated-tokeniq-mumbai-2026",
-    "slug": "tokeniq-mumbai",
-    "name": "TokenIQ Mumbai 2026",
-    "startDate": "2026-10-24",
-    "endDate": "2026-10-25",
-    "city": "Navi Mumbai",
-    "country": "India",
-    "location": "CIDCO Exhibition and Convention Centre, Navi Mumbai, India",
-    "venueName": "CIDCO Exhibition and Convention Centre",
-    "description": "FinGrad organizes TokenIQ on October 24 and 25, 2026, at CIDCO Exhibition and Convention Centre in Navi Mumbai. The two-day crypto event is aimed at traders, developers, Web3 startups, investors and policymakers. Daily clock times are not confirmed on the primary page.\n\nThe program includes conference sessions, master classes, Q&A, product demos and a live trading competition. Announced subjects include digital asset custody, NFTs beyond art, metaverse infrastructure, crypto trading, AI agents, DeFi and Layer 2 technology. The speaker lineup is still to be announced.\n\nFive areas are planned: a Learning Zone for sessions and master classes; an Exhibition Zone for booths and demos; a Trade War Zone for live trading and technical analysis; a Creators Zone for podcasts and creator meetings; and an Experience Zone with workshops, food and music. A hackathon is advertised, with details to follow through its waitlist.\n\nThe page advertises a Visitor Pass at INR 199, a General Pass at INR 499 and a General plus War Room Access Pass at INR 999. All three include two-day conference and networking-area access. The General tiers include food and beverages; the highest tier adds War Room access. Ticket purchases are non-refundable under the published policy.",
-    "price": "INR 199",
-    "contains": [
-      "October 24-25, 2026",
-      "Visitor Pass",
-      "General + War Room",
-      "CIDCO"
-    ],
-    "sideEventFor": [
-      "devcon"
-    ]
-  },
-  {
     "url": "https://hacker-house-goa-2026.devfolio.co/",
     "file": "events-cache.json",
     "id": "w3v-hacker-house-goa-26-10-28",

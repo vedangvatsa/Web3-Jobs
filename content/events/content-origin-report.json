@@ -40,19 +40,6 @@
       ]
     },
     {
-      "id": "luma-batch-7iIJgmckKWYczPb",
-      "slug": "encode-london-2026",
-      "name": "Encode London Hackathon and Conference",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/encode-london-2026",
-        "fetchedAt": "2026-09-22T10:40:02.039Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "slug": "xlh",
       "name": "XRP LEDGER HACKATHON",

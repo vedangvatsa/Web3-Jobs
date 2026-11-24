@@ -50,32 +50,6 @@
       }
     }
   },
-  "curated-tokeniq-mumbai-2026": {
-    "expectedStartDate": "2026-10-24",
-    "checkedAt": "2026-10-19T19:59:24.268Z",
-    "patch": {
-      "venueName": "CIDCO Exhibition & Convention Centre",
-      "streetAddress": "Swami Pranabananda Marg, Sector 30-A, Vashi",
-      "addressLocality": "Navi Mumbai",
-      "addressRegion": "Maharashtra",
-      "postalCode": "400703",
-      "addressCountry": "IN",
-      "location": "CIDCO Exhibition & Convention Centre, Swami Pranabananda Marg, Sector 30-A, Vashi, Navi Mumbai, Maharashtra 400703, India",
-      "venueAddressSource": {
-        "checkedAt": "2026-10-19T19:59:24.268Z",
-        "urls": [
-          "https://joinfingrad.com/tokeniq",
-          "https://acecec.com/contact.php",
-          "https://luma.com/devcon8"
-        ],
-        "venueName": "CIDCO Exhibition & Convention Centre",
-        "streetAddress": "Swami Pranabananda Marg, Sector 30-A, Vashi",
-        "addressLocality": "Navi Mumbai",
-        "addressCountry": "IN",
-        "location": "CIDCO Exhibition & Convention Centre, Swami Pranabananda Marg, Sector 30-A, Vashi, Navi Mumbai, Maharashtra 400703, India"
-      }
-    }
-  },
   "premier-bitmela-2026": {
     "expectedStartDate": "2026-10-30",
     "checkedAt": "2026-10-19T19:56:19.504Z",

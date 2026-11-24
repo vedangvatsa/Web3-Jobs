@@ -3289,58 +3289,6 @@
     "addressLocality": "Wien"
   },
   {
-    "name": "Bitcoin Women Meetup mit Les Femmes Orange",
-    "description": "Les Femmes Orange meets at Royals & Rice in Berlin for women interested in Bitcoin. The gathering welcomes both newcomers and people already involved in the Bitcoin community.",
-    "startDate": "2026-10-25T15:00:00+01:00",
-    "endDate": "2026-10-25T18:00:00+01:00",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Royals & Rice, Torstraße 164, Berlin, Germany",
-    "venueName": "ROYALS & RICE",
-    "streetAddress": "Torstraße 164",
-    "addressCountry": "DE",
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitcoin Lab Berlin / Les Femmes Orange",
-      "url": "https://www.meetup.com/bitcoin-lab-berlin/"
-    },
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "descriptionSource": {
-      "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/",
-      "fetchedAt": "2026-10-20T09:30:37.165Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "🧡 Bitcoin Women Meetup mit Les Femmes Orange 🧡, Sun, Oct 25, 2026, 3:00 PM   | Meetup",
-      "sha256": "cf6c909d0569048ed47ebd9c7cadf9dd60b15e13c7326f2fc7c8d7c48c8988a4",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/",
-          "fetchedAt": "2026-10-20T09:30:37.165Z",
-          "sha256": "3b607ca4fa90042d2d7a49c10b1f91824e5da61ada908a6e4178c903ca87337f",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "mu-316810808",
-    "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/",
-    "registrationUrl": "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/",
-    "source": "curated-reviewed",
-    "venueAddressSource": {
-      "checkedAt": "2026-10-20T09:30:37.165Z",
-      "urls": [
-        "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/"
-      ],
-      "venueName": "ROYALS & RICE",
-      "streetAddress": "Torstraße 164",
-      "addressLocality": "Berlin",
-      "addressCountry": "DE",
-      "location": "Royals & Rice, Torstraße 164, Berlin, Germany"
-    },
-    "coverImage": "/events/mu-316810808-fbb8ffa5.webp",
-    "addressLocality": "Berlin"
-  },
-  {
     "name": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
     "description": "Satoshi Radio listeners meet at Café de Roemer in Haarlem during Bitcoin Amsterdam.\n\nRegistration is free and capacity is limited. An optional buffet is paid separately; the café accepts Bitcoin payments.",
     "startDate": "2026-11-05T18:00:00+01:00",

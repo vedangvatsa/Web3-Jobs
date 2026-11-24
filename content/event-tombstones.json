@@ -10656,5 +10656,34 @@
       "bitcoin-indonesia-community-meetup-bandung-barat-25-oktober",
       "discovery-evt-vjux9gri6dolbwb"
     ]
+  },
+  "premier-ethkl-2026": {
+    "until": "2027-11-24T18:45:40.384Z",
+    "slugs": [
+      "premier-ethkl-2026",
+      "ethkl-2026",
+      "ethkl"
+    ]
+  },
+  "curated-tokeniq-mumbai-2026": {
+    "until": "2027-11-24T18:45:40.384Z",
+    "slugs": [
+      "tokeniq-mumbai",
+      "curated-tokeniq-mumbai-2026"
+    ]
+  },
+  "luma-batch-7iIJgmckKWYczPb": {
+    "until": "2027-11-24T18:45:40.384Z",
+    "slugs": [
+      "encode-london-2026",
+      "luma-batch-7iijgmckkwyczpb"
+    ]
+  },
+  "mu-316810808": {
+    "until": "2027-11-24T18:45:40.384Z",
+    "slugs": [
+      "bitcoin-women-meetup-mit-les-femmes-orange",
+      "mu-316810808"
+    ]
   }
 }

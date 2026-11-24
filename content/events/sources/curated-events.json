@@ -1,21 +1,5 @@
 [
   {
-    "id": "premier-ethkl-2026",
-    "slug": "ethkl",
-    "name": "ETHKL 2026",
-    "description": "The landmark Ethereum developer community summit and hackathon in Kuala Lumpur, connecting Malaysian builders with the broader Southeast Asian Web3 ecosystem.",
-    "startDate": "2026-10-23T09:00:00.000Z",
-    "endDate": "2026-10-25T18:00:00.000Z",
-    "city": "Kuala Lumpur",
-    "country": "Malaysia",
-    "location": "Kuala Lumpur, Malaysia",
-    "url": "https://ethkl.org",
-    "website": "https://ethkl.org",
-    "coverImage": null,
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-ethbucharest-2027",
     "slug": "ethbucharest",
     "name": "ETHBucharest 2027",
@@ -2457,43 +2441,6 @@
           "url": "https://luma.com/devcon8",
           "fetchedAt": "2026-10-16T08:51:26.385Z",
           "sha256": "e7a2d809adfe9a15823f40ddf14692a8128a96aeaef34fa33e3044be76bc184a",
-          "representation": "html"
-        }
-      ]
-    }
-  },
-  {
-    "id": "curated-tokeniq-mumbai-2026",
-    "name": "TokenIQ Mumbai 2026",
-    "startDate": "2026-10-24",
-    "location": "CIDCO Exhibition and Convention Centre, Navi Mumbai, India",
-    "coverImage": "/events/curated-tokeniq-mumbai-2026-aef43c58.webp",
-    "source": "curated",
-    "url": "https://joinfingrad.com/tokeniq",
-    "slug": "tokeniq-mumbai",
-    "endDate": "2026-10-25",
-    "city": "Navi Mumbai",
-    "country": "India",
-    "venueName": "CIDCO Exhibition and Convention Centre",
-    "description": "FinGrad organizes TokenIQ on October 24 and 25, 2026, at CIDCO Exhibition and Convention Centre in Navi Mumbai. The two-day crypto event is aimed at traders, developers, Web3 startups, investors and policymakers. Daily clock times are not confirmed on the primary page.\n\nThe program includes conference sessions, master classes, Q&A, product demos and a live trading competition. Announced subjects include digital asset custody, NFTs beyond art, metaverse infrastructure, crypto trading, AI agents, DeFi and Layer 2 technology. The speaker lineup is still to be announced.\n\nFive areas are planned: a Learning Zone for sessions and master classes; an Exhibition Zone for booths and demos; a Trade War Zone for live trading and technical analysis; a Creators Zone for podcasts and creator meetings; and an Experience Zone with workshops, food and music. A hackathon is advertised, with details to follow through its waitlist.\n\nThe page advertises a Visitor Pass at INR 199, a General Pass at INR 499 and a General plus War Room Access Pass at INR 999. All three include two-day conference and networking-area access. The General tiers include food and beverages; the highest tier adds War Room access. Ticket purchases are non-refundable under the published policy.",
-    "price": "INR 199",
-    "sideEventFor": [
-      "devcon"
-    ],
-    "timezone": "Asia/Kolkata",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "descriptionSource": {
-      "url": "https://joinfingrad.com/tokeniq",
-      "fetchedAt": "2026-10-16T08:51:33.871Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "TokenIQ: FinGrad's Premier Crypto Event in India 2026",
-      "sha256": "8ab4f503aea0a10dc85071d12587d181650130e7f2d869b4afffd34c66830d1f",
-      "evidence": [
-        {
-          "url": "https://joinfingrad.com/tokeniq",
-          "fetchedAt": "2026-10-16T08:51:33.871Z",
-          "sha256": "bfc330fdc8bb12da22ee5e7499c25da94eec3f870d6caa219b66a02e2a1906a2",
           "representation": "html"
         }
       ]

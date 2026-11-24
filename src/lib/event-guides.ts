@@ -544,25 +544,6 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       },
     ],
   },
-
-
-
-
-
-
-  ethkl: {
-    summaryLead:
-      "ETHKL (Ethereum Kuala Lumpur) is Malaysia's flagship community-led Ethereum conference and hackathon, establishing a vital developer hub in Southeast Asia. Supported by the Ethereum Foundation and local builder collectives, ETHKL unites regional engineers, students, and founders for technical workshops, zero-knowledge masterclasses, and decentralized project showcases.",
-    expectedAttendance: "1,000+ Southeast Asian developers and students",
-    sections: [
-      {
-        heading: "Southeast Asia's emerging developer hub",
-        content: [
-          "Malaysia is rapidly emerging as a crypto-forward nation in Southeast Asia with active university blockchain chapters and progressive digital economy initiatives. ETHKL provides a welcoming entry point for regional talent into the global Ethereum ecosystem.",
-        ],
-      },
-    ],
-  },
   "ripple-swell-2026": {
     summaryLead:
       "Ripple Swell runs October 27 to 29 in New York City at The Shed, 545 West 30th Street. The site describes it as Ripple's annual event and says the 2026 edition combines the Swell and Apex conferences for the first time, with tracks on payments, stablecoins, tokenization, policy, and the XRP Ledger. Listed figures are 1,500 attendees, more than 80 sessions, more than 100 speakers, and three stages. Announced keynote speakers are Water.org co-founder Matt Damon and Bullish chairman and CEO Tom Farley. Passes are tiered from a $600 Super Early Bird to a $1,500 Last Chance rate.",

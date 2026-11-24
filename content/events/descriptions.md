@@ -65,38 +65,6 @@ Participants choose among the Logos Civic Prize, Logos Sovereignty and Privacy, 
 
 The schedule includes stand-ups, mentoring, dedicated build time, workshops and demos. Residents present prototypes at the closing summit. The strongest Logos-track prototypes are eligible for milestone-based grant funding. Applicants are asked to install Logos Basecamp, add its blockchain module and note the block height; an existing demo or prototype is helpful but not required.
 
-<a id="event-698d6e083e57477b"></a>
-
-## ETHKL 2026
-
-- Record: `premier-ethkl-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-23T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://ethkl.org>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-95205bc11c8ac6de"></a>
-
-## TokenIQ Mumbai 2026
-
-- Record: `curated-tokeniq-mumbai-2026`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2026-10-24
-- Description: Source-backed
-- Original page: <https://joinfingrad.com/tokeniq>
-
-### About the event
-
-FinGrad organizes TokenIQ on October 24 and 25, 2026, at CIDCO Exhibition and Convention Centre in Navi Mumbai. The two-day crypto event is aimed at traders, developers, Web3 startups, investors and policymakers. Daily clock times are not confirmed on the primary page.
-
-The program includes conference sessions, master classes, Q&A, product demos and a live trading competition. Announced subjects include digital asset custody, NFTs beyond art, metaverse infrastructure, crypto trading, AI agents, DeFi and Layer 2 technology. The speaker lineup is still to be announced.
-
-Five areas are planned: a Learning Zone for sessions and master classes; an Exhibition Zone for booths and demos; a Trade War Zone for live trading and technical analysis; a Creators Zone for podcasts and creator meetings; and an Experience Zone with workshops, food and music. A hackathon is advertised, with details to follow through its waitlist.
-
-The page advertises a Visitor Pass at INR 199, a General Pass at INR 499 and a General plus War Room Access Pass at INR 999. All three include two-day conference and networking-area access. The General tiers include food and beverages; the highest tier adds War Room access. Ticket purchases are non-refundable under the published policy.
-
 <a id="event-eb7cdf47df970274"></a>
 
 ## HackMeridian 2026
@@ -3243,20 +3211,6 @@ Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder,
 ### About the event
 
 Participants practice sending Bitcoin on testnet, using test funds rather than real money. The organizer asks attendees to install the Blockstream wallet on an Android phone or iPhone before the workshop.
-
-<a id="event-074924dc774d12c3"></a>
-
-## Bitcoin Women Meetup mit Les Femmes Orange
-
-- Record: `mu-316810808`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-25T15:00:00+01:00
-- Description: Source-backed
-- Original page: <https://www.meetup.com/bitcoin-lab-berlin/events/316810808/>
-
-### About the event
-
-Les Femmes Orange meets at Royals & Rice in Berlin for women interested in Bitcoin. The gathering welcomes both newcomers and people already involved in the Bitcoin community.
 
 <a id="event-782c3efce165a59a"></a>
 
@@ -25973,96 +25927,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-e99c145849f71f7c"></a>
-
-## Encode London Hackathon
-
-- Record: `luma-batch-7iIJgmckKWYczPb`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-23T10:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/encode-london-2026>
-
-### About the event
-
-We're excited to return to London for another year of hands-on creation, learning, and community building. Encode London 2026 brings together developers, founders, researchers, students, and innovators for a dual-track experience: a high-energy hackathon!
-
-This year's event continues our mission of fostering world-class builders while creating a space to explore new technologies, collaborate with peers, and bring ambitious ideas to life.
-
-### Hackathon Overview
-
-A full 3 days of non-stop hacking, where teams will build projects aligned with emerging AI and Web3 themes. Participants can expect challenges, bounties, mentorship, and the chance to showcase their work to a panel of judges.
-
-This year there are two open challenges, plus a Saint bounty (below). Prize categories and judges will be announced soon.
-
-### Challenges
-
-The Real World: AI that understands the world around us
-
-Build software that makes sense of the physical world from photos, audio, maps and open data. Some ideas to get you started:
-
-An accessibility guide that describes a street or venue from photos
-
-- A "what's happening near me" explorer built on live open data
-- A trip or hike conditions planner
-- Wildlife and plant ID from photos or recordings
-- A city noise or air-quality map built from public datasets
-- A tool that spots potholes or fly-tipping in a photo and drafts the council report
-
-Agents That Ship
-
-Build an AI agent that does a real job end to end, not just a chatbot. Pick a task someone does by hand today and have your agent see it through: using real tools, recovering when things go wrong and checking with a human before the risky steps. Some ideas:
-
-Small-business operations: chasing invoices, reconciling payments, booking suppliers
-
-- Research briefs and competitor reports that check their own sources
-- A developer agent that takes an issue and opens a tested pull request
-- Agents that hand work to each other, or pay and get paid for it
-
-Saint Bounty: Best Use of Saint
-
-Saint is a personal AI assistant: an AI colleague that works inside your own email, calendar, documents and browser. Give it a job in plain English and it does the work - research, outreach, admin, building and shipping small apps - then tells you what it changed and asks before anything risky. Put one to work on something real over the weekend, or build something that makes a Saint more useful. A small number of Saints will be available for teams that want one.
-
-- Give it a job: a workflow it runs end to end for your project or your team
-- Build for it: a tool, integration or interface that makes a Saint more useful
-- Give it to someone: a Saint solving a real problem for a person or business you know
-
-Prize: £200 in cash for the winning team (one prize, not a pool), a Saint each for the team members, and 3 months of Saint free for the team.
-
-The winning team also gets a set-up call to get their Saints running. If your team wants a Saint before the hackathon, you can sign up at saint.work (https://saint.work) or ask us at the event.
-
-### Event Timeline
-
-A full weekend of hacking, learning, and community.
-
-The exact schedule - including the opening ceremony, workshops, conference sessions, judging, and the finale - will be released ahead of the event.
-
-### Partners & Prizes
-
-Encode London 2026 is supported by:
-
-Google DeepMind
-
-MongoDB
-
-Arc
-
-Saint
-
-More partners, prizes and judges will be announced soon.
-
-### Venue: The Encode Hub
-
-http://hub.encode.club/
-
-The event will once again take place at the Encode Hub - our community space for AI and Web3 builders in the heart of Shoreditch.
-
-### Partnership & Sponsorship
-
-Interested in sponsoring, partnering, or getting involved?
-
-Contact katerina@encode.club for more details.
-
 <a id="event-932d9488ddcc4836"></a>
 
 ## Evening Panel + Rooftop Cocktails - our new home at SNC
@@ -28003,30 +27867,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-25T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.hackmeridian.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-6019e1c61fa4c67f"></a>
-
-## Midlife Strong: Understanding Your Changing Bodyand Where to Begin
-
-- Record: `luma-evt-gEpwsQGdh4GoYkQ`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T14:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/frndzcot>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-61b95df5dd900582"></a>
-
-## BITDEVS SWITZERLAND – Socratic Seminar #4
-
-- Record: `w3v-bitdevs-switzerland--socratic-seminar-4`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T16:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/eaap2buy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -39840,18 +39680,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-8d5d8838b3558a50"></a>
-
-## HKGHH Event 3 : Premier Networking Night @ LKF 🌟 THEME: Hong Kong Web3 Festival 🌟
-
-- Record: `luma-host-evt-evt-8r1XuPjp1xyA9EO`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-24T11:00:00.000Z
-- Description: Missing
-- Original page: <https://luma.com/nqz7gjqc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-b4c58fd6ec41a00c"></a>
 
 ## Toronto Blockchain Week 2026
@@ -39968,6 +39796,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-24T19:00:00-08:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/portland-underwater-hockey/events/317294578/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-81d4cacb3393815d"></a>
+
+## Two Clocks - dinner by Kaleidoscope
+
+- Record: `luma-evt-3LdBlL0aQGEgCYl`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/y5ngmxql>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -41015,6 +40855,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-39b095f63b8c8041"></a>
+
+## Road to ETHPrague: Lido Staking Meetup
+
+- Record: `w3v-road-to-ethprague-lido-staking-meetup`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T17:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/7po2144l>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-83170563aa24af1e"></a>
 
 ## Ctrl+Z al 2026: Deshaz el ruido. Quédate con lo que importa.
@@ -41318,6 +41170,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T07:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/yrepqbt1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-022e9fc1a5dbb6a3"></a>
+
+## Brokerage Breakdown - The Modern Brokerage for Forward Thinking Agents
+
+- Record: `mu-317527758`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/monthly-wholesale-fix-flip-meetup/events/317527758/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -42711,6 +42575,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-81b7aa775bcc45dc"></a>
+
+## Perplexity x Serpico AI Phoenix Workshop
+
+- Record: `mu-317504250`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T17:30:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/317504250/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ce01a2ae4b3ef87f"></a>
 
 ## Bitcoin for Beginners (1st Tuesdays) - Portland, Oregon Meetup
@@ -43237,7 +43113,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-4da5bc520cd83d57"></a>
 
-## Forward-Deployed AI Forum
+## Deep Tech Panel: Physical AI, Forward-Deployed AI & AI Infrastructure
 
 - Record: `luma-evt-HjA6H7Mhro8lnp8`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -43513,7 +43389,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 <a id="event-11aeb7b00677d53f"></a>
 
-## Aikido Security Networking Event
+## Aikido Security Networking Happy Hour
 
 - Record: `luma-evt-1JqwZlvcnXdGHCH`
 - Source: [events-cache.json](sources/events-cache.json)
@@ -43895,6 +43771,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-b12c00eb0434e718"></a>
+
+## Live Build: Build & Ship a Full-Stack Solana dApp in MetaScript
+
+- Record: `luma-host-evt-evt-q9XIyJNwpX4OJ2m`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T12:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/b3eequsr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5c102da5190c32b6"></a>
 
 ## STRONG & BRIGHT
@@ -44062,6 +43950,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-07T09:30:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/further-network-summit-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d380af122e809120"></a>
+
+## Ship a Full-Stack dApp in 60 Minutes (Mobile-First) with Solana Mobile
+
+- Record: `luma-host-evt-evt-FFNGKJ9fCu15OgZ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-07T13:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/1ogt01te>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44278,6 +44178,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-08T08:00:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/SolanaCoffeeConnectSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8d5d8838b3558a50"></a>
+
+## HKGHH Event 3 : Premier Networking Night @ LKF 🌟 THEME: Hong Kong Web3 Festival 🌟
+
+- Record: `luma-host-evt-evt-8r1XuPjp1xyA9EO`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T11:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/nqz7gjqc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -44943,6 +44855,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-0f11af543cb147fd"></a>
+
+## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
+
+- Record: `mu-317272317`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-phoenix/events/317272317/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-29499ffe69ddd636"></a>
 
 ## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
@@ -45000,6 +44924,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10T10:00:00-06:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-austin/events/317272396/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0d593a84ab140894"></a>
+
+## ZK Learning Group: Wrap-up 2026, ZK order book matching
+
+- Record: `mu-317272098`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-phoenix/events/317272098/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

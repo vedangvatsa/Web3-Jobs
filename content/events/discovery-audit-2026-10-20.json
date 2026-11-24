@@ -48,24 +48,6 @@
       "descriptionSha256": "d5dde384b806b60c7bc2a837d89331f417615a6e4aaca0eacf898e41866999ba"
     },
     {
-      "id": "luma-batch-7iIJgmckKWYczPb",
-      "slug": "encode-london-2026",
-      "aliases": [],
-      "startDate": "2026-10-23T10:00:00.000Z",
-      "endDate": "2026-10-25T16:30:00.000Z",
-      "timezone": "Europe/London",
-      "descriptionSha256": "8d205778b49732f4fbfa133eb917e02d896693dfe11798362720a66181ae1d0a"
-    },
-    {
-      "id": "curated-tokeniq-mumbai-2026",
-      "slug": "tokeniq-mumbai",
-      "aliases": [],
-      "startDate": "2026-10-24",
-      "endDate": "2026-10-25",
-      "timezone": "Asia/Kolkata",
-      "descriptionSha256": "8ab4f503aea0a10dc85071d12587d181650130e7f2d869b4afffd34c66830d1f"
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "slug": "ai-fintech-xrpl-hackathon",
       "aliases": [
@@ -4521,42 +4503,6 @@
       }
     },
     {
-      "id": "mu-316810808",
-      "name": "Bitcoin Women Meetup mit Les Femmes Orange",
-      "startDate": "2026-10-25T15:00:00+01:00",
-      "endDate": "2026-10-25T18:00:00+01:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/",
-      "lane": "europe",
-      "reason": "No matching identity. Distinct women's community meetup with its own source ID/date, not the Holzmarkt or workshop occurrence.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/",
-          "fetchedAt": "2026-10-20T08:08:08.432Z",
-          "excerpt": "startDate: 2026-10-25T15:00:00+01:00; endDate: 2026-10-25T18:00:00+01:00. ROYALS & RICE, Torstraße 164, Berlin. ein Raum von Frauen, für Frauen, die sich für Bitcoin begeistern oder einfach neugierig auf das Thema sind.",
-          "representation": "Public HTML and Event JSON-LD excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:37.165Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/a/4/0/a/600_524921994.jpeg",
-        "fetchedAt": "2026-10-20T09:49:42.259Z",
-        "status": 200,
-        "local": "/events/mu-316810808-fbb8ffa5.webp",
-        "sourceSha256": "d5980ea7c5b9da9ecb3c3c5a8534ed12af89cbbf4154ba249875f8c3e1902986",
-        "sha256": "bd3d159eed467f8b6136076ca7ef26cc3ca82f26d1703d6af5d0be73091b1153",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 37134
-      }
-    },
-    {
       "id": "mu-316748938",
       "name": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
       "startDate": "2026-11-05T18:00:00+01:00",
@@ -6535,20 +6481,6 @@
       ]
     },
     {
-      "url": "https://www.ethkl.org/",
-      "id": "premier-ethkl-2026",
-      "reason": "Cached 2026-10-23 to 2026-10-25 conference cannot be confirmed from primary homepage, which still promotes 2024.",
-      "lane": "global",
-      "evidence": [
-        {
-          "url": "https://www.ethkl.org/",
-          "fetchedAt": "2026-10-20",
-          "excerpt": "ETHKL 2024 Conference & Hackathon. Join us in Kuala Lumpur from October 4 – 6. We are organizing ETHKL 2024 Conference & Hackathon on October.",
-          "representation": "Organizer homepage, webfetch Markdown"
-        }
-      ]
-    },
-    {
       "url": "https://ethlisbon.org/",
       "id": "premier-ethlisbon-2026",
       "reason": "Cached 2026-11-06 to 2026-11-08 event cannot be verified because organizer site is missing. Separate ETHGlobal Lisbon 2026 occurred in July and does not verify this identity.",
@@ -7065,26 +6997,6 @@
       ]
     },
     {
-      "url": "https://ethkl.org",
-      "id": "premier-ethkl-2026",
-      "reason": "Existing unpublished premier-ethkl-2026 has 23-25 October 2026 dates, but the primary site only promotes ETHKL 2024 and its linked Meetup calendar shows zero events. Do not turn the unverified source dates into a new or enriched event.",
-      "lane": "asia-africa",
-      "evidence": [
-        {
-          "url": "https://ethkl.org",
-          "fetchedAt": "2026-10-20",
-          "excerpt": "ETHKL 2024 Conference & Hackathon. Join us in Kuala Lumpur from October 4-6. We are organizing ETHKL 2024 Conference & Hackathon on October. Latest Event links to meetup.com/ethmalaysia/events/.",
-          "representation": "Organizer website rendered text; selected excerpts, punctuation normalized"
-        },
-        {
-          "url": "https://www.meetup.com/ethmalaysia/events/",
-          "fetchedAt": "2026-10-20",
-          "excerpt": "Ethereum Malaysia (ETHKL). Events: 0.",
-          "representation": "Organizer-linked public calendar rendered text"
-        }
-      ]
-    },
-    {
       "url": "https://ethcapetown.com/",
       "reason": "Primary confirms a proposed Cape Town Ethereum hackathon/conference but explicitly leaves its date and venue TBA. No event object supplied because a startDate cannot be verified.",
       "lane": "asia-africa",
@@ -7477,12 +7389,6 @@
       "lane": "global"
     },
     {
-      "url": "https://luma.com/encode-london-2026",
-      "id": "luma-batch-7iIJgmckKWYczPb",
-      "reason": "Already active by exact registration URL as Encode London Hackathon; source alias calls it Hackathon and Conference. October 23-25, 2026, independent of November Breakpoint.",
-      "lane": "global"
-    },
-    {
       "url": "https://www.northamericanblockchainsummit.com/",
       "id": "premier-nabsummit",
       "reason": "Exact name and organizer URL already active for November 18-19, 2026. Fresh homepage confirms program and organizer but dates were not exposed in extracted text; not counted as a new or newly date-verified listing.",
@@ -7504,12 +7410,6 @@
       "url": "https://luma.com/66thrqij",
       "id": "luma-batch-JrwT6SseTVJgIBs",
       "reason": "Already active under the same Luma source ID, URL and October 26 dates. Public approval-required listing with guests-only location; no second record or venue disclosure needed.",
-      "lane": "europe"
-    },
-    {
-      "url": "https://luma.com/encode-london-2026",
-      "id": "luma-batch-7iIJgmckKWYczPb",
-      "reason": "Already active by source ID/URL. Primary start has changed to 11:00Z on October 23, versus 10:00Z in snapshot; update existing timing if adopted. Organizer labels programme times provisional. Not a new event.",
       "lane": "europe"
     },
     {
@@ -8250,12 +8150,6 @@
       "url": "https://www.eventbrite.com/e/ethvenice-2026-tickets-1990667672596",
       "result": "postponed",
       "note": "EventPostponed, December 5, 2026 in JSON-LD. Held rather than silently restoring October 21 record.",
-      "lane": "global"
-    },
-    {
-      "url": "https://luma.com/encode-london-2026",
-      "result": "duplicate",
-      "note": "October 23-25 hackathon; already active. This October event is not a London Breakpoint side event.",
       "lane": "global"
     },
     {
@@ -9261,12 +9155,6 @@
       "lane": "europe"
     },
     {
-      "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316810808/",
-      "result": "verified-new",
-      "note": "October 25 Les Femmes Orange gathering, distinct from the other Bitcoin Lab sessions.",
-      "lane": "europe"
-    },
-    {
       "url": "https://www.meetup.com/satoshi-radio-meetup/events/316748938/",
       "result": "verified-new",
       "note": "November 5 listener meetup in Haarlem, not the Bitcoin Amsterdam main conference.",
@@ -9342,12 +9230,6 @@
       "url": "https://luma.com/66thrqij",
       "result": "duplicate",
       "note": "El Encuentro already active with matching Luma ID/date. Guests-only venue remains protected.",
-      "lane": "europe"
-    },
-    {
-      "url": "https://luma.com/encode-london-2026",
-      "result": "duplicate-update",
-      "note": "Already active by Luma ID. Primary now starts October 23 at 11:00Z, versus 10:00Z in snapshot; programme says timing provisional.",
       "lane": "europe"
     },
     {
@@ -9516,12 +9398,6 @@
       "url": "https://ethcapetown.com/",
       "result": "held-date-tba",
       "note": "Organizer explicitly shows DATE TBA and venue TBA. No date inferred from venue photographs or prior editions.",
-      "lane": "asia-africa"
-    },
-    {
-      "url": "https://ethkl.org",
-      "result": "held-unverified-2026-record",
-      "note": "Organizer site promotes the 2024 conference, not the inventory's 23-25 October 2026 dates.",
       "lane": "asia-africa"
     },
     {

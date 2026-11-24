@@ -70,66 +70,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-7iIJgmckKWYczPb": {
-    "name": "Encode London Hackathon",
-    "startDate": "2026-10-23T10:00:00.000Z",
-    "endDate": "2026-10-25T16:30:00.000Z",
-    "timezone": "Europe/London",
-    "registrationUrl": "https://luma.com/encode-london-2026",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "venueName": "Encode Hub",
-    "streetAddress": "Encode Hub, 41 Pitfield St, London N1 6DA, UK",
-    "addressLocality": "London",
-    "addressRegion": "England",
-    "addressCountry": "GB",
-    "coordinates": {
-      "latitude": 51.5275865,
-      "longitude": -0.08377020000000002
-    },
-    "hosts": [
-      "Encode Club"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Encode Club",
-      "url": "https://www.encode.club/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Guaranteed Entry",
-        "url": "https://luma.com/encode-london-2026",
-        "price": 30,
-        "priceCurrency": "GBP",
-        "availability": "InStock"
-      },
-      {
-        "name": "Standard ticket (ballot)",
-        "url": "https://luma.com/encode-london-2026",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Student ticket",
-        "url": "https://luma.com/encode-london-2026",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/encode-london-2026",
-      "eventId": "evt-7iIJgmckKWYczPb",
-      "fetchedAt": "2026-10-12T11:25:13.270Z",
-      "method": "luma-page"
-    }
-  },
   "w3v-xrp-ledger-hackathon": {
     "name": "AI & Fintech XRPL Hackathon in New York",
     "startDate": "2026-10-24T12:30:00.000Z",

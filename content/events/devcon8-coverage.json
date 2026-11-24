@@ -173,43 +173,6 @@
       "identityProof": []
     },
     {
-      "row": 5,
-      "entryId": "calev-kRGCxc6MLByzJqT",
-      "identity": "joinfingrad.com/tokeniq|tokeniq 2026",
-      "eventId": null,
-      "platform": "external",
-      "name": "TOKENIQ 2026",
-      "url": "https://joinfingrad.com/tokeniq",
-      "period": "future",
-      "timing": "upcoming",
-      "calendarStart": "2026-10-24T03:30:00.000Z",
-      "calendarEnd": null,
-      "status": "added",
-      "kind": "new-source-record",
-      "reason": "Verified public primary page; appended one missing identity in curated-events.json.",
-      "sourceMatchesBefore": [],
-      "runtimeBefore": [],
-      "runtimeAfter": [
-        {
-          "id": "curated-tokeniq-mumbai-2026",
-          "slug": "tokeniq-mumbai",
-          "startDate": "2026-10-24",
-          "endDate": "2026-10-25"
-        }
-      ],
-      "primary": {
-        "url": "https://joinfingrad.com/tokeniq",
-        "finalUrl": "https://joinfingrad.com/tokeniq",
-        "canonicalUrl": "https://joinfingrad.com/tokeniq",
-        "httpStatus": 200,
-        "fetchedAt": "2026-10-16T08:51:33.871Z",
-        "sha256": "bfc330fdc8bb12da22ee5e7499c25da94eec3f870d6caa219b66a02e2a1906a2",
-        "title": "TokenIQ: FinGrad's Premier Crypto Event in India 2026",
-        "cancelled": false
-      },
-      "identityProof": []
-    },
-    {
       "row": 6,
       "entryId": "calev-qYla8Nu7tsGn5XH",
       "identity": "luma:evt-E4pqIFqTPBmJrmT",
@@ -227,43 +190,6 @@
       "sourceMatchesBefore": [],
       "runtimeBefore": [],
       "runtimeAfter": [],
-      "identityProof": []
-    },
-    {
-      "row": 7,
-      "entryId": "calev-voBgkNXq3lODKn6",
-      "identity": "joinfingrad.com/tokeniq|tokeniq 2026",
-      "eventId": null,
-      "platform": "external",
-      "name": "TOKENIQ 2026",
-      "url": "https://joinfingrad.com/tokeniq",
-      "period": "future",
-      "timing": "upcoming",
-      "calendarStart": "2026-10-25T03:30:00.000Z",
-      "calendarEnd": null,
-      "status": "added",
-      "kind": "new-source-record",
-      "reason": "Verified public primary page; appended one missing identity in curated-events.json.",
-      "sourceMatchesBefore": [],
-      "runtimeBefore": [],
-      "runtimeAfter": [
-        {
-          "id": "curated-tokeniq-mumbai-2026",
-          "slug": "tokeniq-mumbai",
-          "startDate": "2026-10-24",
-          "endDate": "2026-10-25"
-        }
-      ],
-      "primary": {
-        "url": "https://joinfingrad.com/tokeniq",
-        "finalUrl": "https://joinfingrad.com/tokeniq",
-        "canonicalUrl": "https://joinfingrad.com/tokeniq",
-        "httpStatus": 200,
-        "fetchedAt": "2026-10-16T08:51:33.871Z",
-        "sha256": "bfc330fdc8bb12da22ee5e7499c25da94eec3f870d6caa219b66a02e2a1906a2",
-        "title": "TokenIQ: FinGrad's Premier Crypto Event in India 2026",
-        "cancelled": false
-      },
       "identityProof": []
     },
     {

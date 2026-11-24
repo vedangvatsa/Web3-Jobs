@@ -47,22 +47,6 @@
       }
     },
     {
-      "id": "luma-batch-7iIJgmckKWYczPb",
-      "oldSlug": "encode-london-2026",
-      "slug": "encode-london-2026",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 1745,
-      "characters": 3756,
-      "source": {
-        "url": "https://luma.com/encode-london-2026",
-        "fetchedAt": "2026-10-12T11:25:13.270Z",
-        "status": 200,
-        "sha256": "9a6f3bb32384c4b7a88e40042aaf3b49b15cfa402ba970d35a88a6568807d6eb"
-      }
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "oldSlug": "xlh",
       "slug": "ai-fintech-xrpl-hackathon",
