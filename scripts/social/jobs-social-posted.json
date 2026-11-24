@@ -180658,6 +180658,39 @@
       "attemptId": "7a9b8c22-7f5b-42f2-829c-bd445f1ddf2b",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Monday, 23-Nov-26 22:59:48 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Av3tqe7RGZFFsTULOq8Qr88\"}"
+    },
+    {
+      "slug": "cmp150",
+      "company": "Paxos",
+      "title": "Senior Compliance Associate, KYC",
+      "platform": "bluesky",
+      "postedAt": "2026-11-24T06:59:26.744Z",
+      "expectedText": "Paxos is hiring Senior Compliance Associate, KYC: https://hashtagweb3.com/cmp150/bsky?og=7",
+      "snapshot": {
+        "id": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+        "title": "Senior Compliance Associate, KYC",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/paxos/12285dd7-2993-4da2-946f-ddd6f768e0bd",
+        "date": "2026-11-03T14:24:41.129+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp150"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Compliance Associate, KYC: https://hashtagweb3.com/cmp150/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/cmp150/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/cmp150.png?v=7",
+        "company": "Paxos",
+        "title": "Senior Compliance Associate, KYC",
+        "description": "Join Paxos as Senior Compliance Associate, KYC. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "f404d1fc-030f-4664-a610-2a361a748d33",
+      "verification": "creating"
     }
   ]
 }
