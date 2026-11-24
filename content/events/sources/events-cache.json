@@ -2587,7 +2587,7 @@
     "country": "Poland",
     "location": "Warsaw, Poland",
     "url": "https://nextblockexpo.com/",
-    "coverImage": "/events/ma-next-block-expo-2027-7f98c62b.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "March 2027"
   },
@@ -2662,7 +2662,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
+    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -5176,105 +5176,6 @@
     }
   },
   {
-    "id": "luma-evt-V53ojWka5tr7GSw",
-    "name": "Hands-On Bitcoin Multisig Workshop",
-    "description": "Participants build a single-user, two-of-three multisignature Bitcoin wallet with devices from multiple vendors. The workshop covers signing methods, seed backups and wallet-configuration backups, with a setup worksheet and testnet bitcoin for practice. Bring Nunchuk on a phone or Sparrow Wallet on a laptop, plus two compatible signing devices.",
-    "startDate": "2026-10-24T21:00:00.000Z",
-    "endDate": "2026-10-24T23:00:00.000Z",
-    "city": "Vancouver",
-    "country": "Canada",
-    "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada",
-    "url": "https://luma.com/r4vintbd",
-    "coverImage": "/events/luma-evt-v53ojwka5tr7gsw-2ac9d2fb.webp",
-    "source": "curated-reviewed",
-    "month": "October 2026",
-    "timezone": "America/Vancouver",
-    "venueName": "DCTRL",
-    "streetAddress": "328 W Hastings St",
-    "addressLocality": "Vancouver",
-    "addressRegion": "BC",
-    "postalCode": "V6B 0P7",
-    "addressCountry": "CA",
-    "organizer": {
-      "type": "Organization",
-      "name": "Leo, Alex W and DCTRL"
-    },
-    "approvalRequired": false,
-    "locationHidden": false,
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "sourceVerification": {
-      "url": "https://luma.com/r4vintbd",
-      "eventId": "evt-V53ojWka5tr7GSw",
-      "fetchedAt": "2026-10-20T09:30:13.649Z",
-      "method": "luma-page"
-    },
-    "registrationAvailability": "open",
-    "price": "Free",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/r4vintbd",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "hosts": [
-      "Leo",
-      "Alex W",
-      "DCTRL"
-    ],
-    "descriptionSource": {
-      "url": "https://luma.com/r4vintbd",
-      "fetchedAt": "2026-10-20T09:30:13.649Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Hands-On Bitcoin Multisig Workshop · Luma",
-      "sha256": "ad93a2f0f95171201f032a67a990116dea7699be0cc27c7ee88d96a3fd9c31d7",
-      "evidence": [
-        {
-          "url": "https://luma.com/r4vintbd",
-          "fetchedAt": "2026-10-20T08:07:30.466Z",
-          "sha256": "5a5eace01d9211e957bf02b35ac56a4b3782bc2098354af30ff5f3ed3d624a50",
-          "retrievedVia": "html; __NEXT_DATA__ and event description",
-          "representation": "html"
-        },
-        {
-          "url": "https://luma.com/r4vintbd",
-          "fetchedAt": "2026-10-20T09:30:13.649Z",
-          "sha256": "e74221d22d29c73806303ab45eca1dcf4bbe9267a44347f71faecdd906abc245",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "registrationUrl": "https://luma.com/r4vintbd",
-    "venueAddressSource": {
-      "checkedAt": "2026-10-20T09:30:13.649Z",
-      "urls": [
-        "https://luma.com/r4vintbd"
-      ],
-      "venueName": "DCTRL",
-      "streetAddress": "328 W Hastings St",
-      "addressLocality": "Vancouver",
-      "addressCountry": "CA",
-      "location": "DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7, Canada"
-    }
-  },
-  {
-    "id": "luma-evt-P64ZxhemxWZoZEE",
-    "name": "Evento ICO CDMX Octubre",
-    "description": "",
-    "startDate": "2026-10-24T22:00:00.000Z",
-    "endDate": "2026-10-25T01:00:00.000Z",
-    "city": "Ciudad de México",
-    "country": "Mexico",
-    "location": "Ciudad de México, Mexico",
-    "url": "https://lu.ma/sjhppvw8",
-    "coverImage": "/events/luma-evt-p64zxhemxwzozee-68c6afcb.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-YeViCHxsLulqzca",
     "name": "SWITCH Day 0 Lab Crawl - LaunchPad @ One-North (AM)",
     "description": "",
@@ -7056,34 +6957,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-OA82waG8gQaV3DO",
-    "name": "Lovable x Girls into VC Buildathon",
-    "description": "",
-    "startDate": "2026-10-24T20:00:00.000Z",
-    "endDate": "2026-10-25T01:00:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/usecorgi-avov",
-    "coverImage": "/events/luma-evt-oa82wag8gqav3do-1e332ff5.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-A6LriDldrwAcbCI",
-    "name": "AI Next: Silicon Valley Founders Forum & Global Startup Demo Day | NUS新全球企业家硅谷论坛（第四季）",
-    "description": "",
-    "startDate": "2026-10-24T21:00:00.000Z",
-    "endDate": "2026-10-25T01:30:00.000Z",
-    "city": "Mountain View",
-    "country": "United States",
-    "location": "Mountain View, United States",
-    "url": "https://lu.ma/j14jwn5y",
-    "coverImage": "/events/luma-evt-a6lridldrwacbci-9ce89dc9.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-fpZZzbgm0rQk5zL",
     "name": "Silicon Valley Investors Dinner Night: AI & Lifescience",
     "description": "",
@@ -7704,20 +7577,6 @@
     "url": "https://luma.com/e9iw08nn",
     "coverImage": null,
     "month": "November 2026"
-  },
-  {
-    "id": "luma-evt-6yD3RrJbYmz4eik",
-    "name": "Field To Fork: A Conversation on Sustainable Food with Tidefield & Mercedes-Benz BeVisioneers",
-    "description": "",
-    "startDate": "2026-10-25T00:00:00.000Z",
-    "endDate": "2026-10-25T02:00:00.000Z",
-    "city": "Stanford",
-    "country": "United States",
-    "location": "Stanford, United States",
-    "url": "https://lu.ma/tw0wr9bo",
-    "coverImage": "/events/luma-evt-6yd3rrjbymz4eik-dbc53467.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-host-evt-evt-MAC07JTiRCcFAfP",
@@ -17615,7 +17474,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -17643,7 +17502,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "October 2027"
   },
@@ -18733,7 +18592,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317294313/",
-    "coverImage": "/events/mu-317294313-71f70ac3.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18747,7 +18606,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317256656/",
-    "coverImage": "/events/mu-317256656-7a74dc39.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -18775,7 +18634,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/312568191/",
-    "coverImage": "/events/mu-312568191-22956c88.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -18789,7 +18648,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-options-trading-group/events/317454506/",
-    "coverImage": "/events/mu-317454506-661a5287.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20081,15 +19940,15 @@
     "id": "eb-2002090895764",
     "name": "Atlanta Business, Tech, AI, Investors & Entrepreneurs Networking Summit",
     "description": "Connect with Atlanta's business leaders! Explore AI, Bitcoin, blockchain, entrepreneurship, and powerful networking opportunities",
-    "startDate": "2026-12-05",
-    "endDate": "2026-12-05",
+    "startDate": "2027-09-10",
+    "endDate": "2027-09-11",
     "city": "Atlanta",
     "country": "US",
     "location": "Atlanta, US",
     "url": "https://www.eventbrite.com/e/atlanta-business-tech-ai-investors-entrepreneurs-networking-summit-tickets-2002090895764",
-    "coverImage": "/events/eb-2002090895764-95213b51.webp",
+    "coverImage": "/events/eb-2002090895764-0438fbcc.webp",
     "source": "eventbrite",
-    "month": "December 2026"
+    "month": "September 2027"
   },
   {
     "id": "eb-1996801455907",
@@ -21092,7 +20951,7 @@
     "country": "us",
     "location": "Gresham, us",
     "url": "https://www.meetup.com/portland-underwater-hockey/events/317294578/",
-    "coverImage": "/events/mu-317294578-be802ad7.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "November 2026"
   },
@@ -21866,7 +21725,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317249034/",
-    "coverImage": "/events/mu-317249034-0da68be9.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -21963,7 +21822,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/portland-bitcoin-group/events/317492945/",
-    "coverImage": "/events/mu-317492945-58230f1e.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -21991,7 +21850,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-oregon/events/317272300/",
-    "coverImage": "/events/mu-317272300-e3bc14c2.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -22005,7 +21864,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-oregon/events/317272143/",
-    "coverImage": "/events/mu-317272143-cc005d6b.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -24481,6 +24340,90 @@
     "url": "https://lu.ma/z6m4qolh",
     "coverImage": "/events/luma-evt-1jqwzlvcnxdghch-2542fa27.webp",
     "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-2001866461475",
+    "name": "Uncover Zurich’s hidden gems with a scavenger hunt by World City Trail!",
+    "description": "Explore Zurich with a fun scavenger hunt! Follow clues to uncover the city’s iconic sites and hidden treasures.",
+    "startDate": "2026-11-24",
+    "endDate": "2026-11-24",
+    "city": "Zürich",
+    "country": "CH",
+    "location": "Zürich, CH",
+    "url": "https://www.eventbrite.sg/e/uncover-zurichs-hidden-gems-with-a-scavenger-hunt-by-world-city-trail-tickets-2001866461475",
+    "coverImage": "/events/eb-2001866461475-3cf7e458.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-J12EFEEiO5FEX8C",
+    "name": "Superteam Vietnam Members Happy Hour 🍻",
+    "description": "",
+    "startDate": "2026-11-26T10:00:00.000Z",
+    "endDate": "2026-11-26T14:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/imcsh67b",
+    "coverImage": "/events/luma-host-evt-evt-j12efeeio5fex8c-ab11b171.webp",
+    "source": "luma-trusted",
+    "month": "November 2026"
+  },
+  {
+    "id": "eb-1994249888099",
+    "name": "The Future of Real Estate Is Here: Discover E-Estate & Tokenized Investing",
+    "description": "Curious about tokenized property or how blockchain is shaking up real estate? Join us to Discover E-Estate & Tokenized Property!",
+    "startDate": "2026-11-30",
+    "endDate": "2026-11-30",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.eventbrite.com/e/the-future-of-real-estate-is-here-discover-e-estate-tokenized-investing-tickets-1994249888099",
+    "coverImage": "/events/eb-1994249888099-7e8faa91.webp",
+    "source": "eventbrite",
+    "month": "November 2026"
+  },
+  {
+    "id": "luma-evt-8wALcOPI8qXrg1n",
+    "name": "Beyond the Mirror: A Path Forward on Mental Health and Homelessness",
+    "description": "",
+    "startDate": "2026-12-02T13:30:00.000Z",
+    "endDate": "2026-12-02T15:30:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/ok5ro2l4",
+    "coverImage": "/events/luma-evt-8walcopi8qxrg1n-8b1d69a6.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-XFlGrC1xAitk7AS",
+    "name": "Finding Problems Worth Building Onchain",
+    "description": "",
+    "startDate": "2026-12-03T13:00:00.000Z",
+    "endDate": "2026-12-03T14:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://luma.com/0mpsu41a",
+    "coverImage": "/events/luma-host-evt-evt-xflgrc1xaitk7as-8988802e.webp",
+    "source": "luma-trusted",
+    "month": "December 2026"
+  },
+  {
+    "id": "eb-2005154439907",
+    "name": "The Digital Assets Collective — Banking, Fintech & Crypto",
+    "description": "Dive into the future of money with cool chats on banking, fintech, and crypto—no boring stuff, just real talk and good vibes!",
+    "startDate": "2026-12-28",
+    "endDate": "2026-12-28",
+    "city": "London",
+    "country": "GB",
+    "location": "London, GB",
+    "url": "https://www.eventbrite.co.uk/e/the-digital-assets-collective-banking-fintech-crypto-tickets-2005154439907",
+    "coverImage": "/events/eb-2005154439907-b0c9d5cb.webp",
+    "source": "eventbrite",
     "month": "December 2026"
   }
 ]

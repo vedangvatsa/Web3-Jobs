@@ -10320,186 +10320,6 @@ The dinner takes place at a private dining room in central Mumbai on Thursday ev
 
 Registration is strictly approval-based with a hard ceiling on attendance. Inquiries and RSVPs are verified privately to maintain confidentiality. Approved guests receive private venue details.
 
-<a id="event-6f01feb5412bd4d8"></a>
-
-## AI × GTM Day: Growth Hackathon, Talks & Social
-
-- Record: `luma-crypto-KdgiJ5gO82TXRB9`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-24T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/bo69pa9j>
-
-### What's actually working for AI growth right now?
-
-Building an AI product has never been easier. Getting real users, distribution, and revenue is still hard.
-
-Local Align #3 is a hands-on day for people who want to learn how modern AI products actually grow - from SEO/GEO and organic content to developer growth, community, outbound, automation, and AI-powered GTM.
-
-Learn from real growth stories.
-
-Hear founders break down how they went from 0 → 1,000+ users, built communities of 10,000+, and generated millions of organic impressions without relying on paid acquisition.
-
-Put it into practice.
-
-Choose from 5 real products with 5 different GTM problems - AI DevTools, consumer community, high-trust services, FinTech, and generative AI - and use AI, code, content, or automation to move real metrics: users, leads, signups, traffic, and conversions.
-
-Meet the people building around you.
-
-Not hacking? Come for the talks, startup demos, Coffee Chats, board games, food, and an afternoon with founders, engineers, creators, students, and GTM operators from across the Bay Area.
-
-Come to learn. Come to build. Come to meet your next collaborator, customer, cofounder - or simply someone worth knowing.
-
-You do not need to compete to attend
-
-Learn: How Products Actually Grow
-
-No generic startup advice. Hear real 0→1 growth stories from founders and operators who have built audiences, acquired users, and turned distribution into a system.
-
-Lucy Ye - Co-founder & COO, JobWizard.ai (https://JobWizard.ai)
-
-SEO/GEO × Organic Content × AI-Native Growth
-
-Built a 0→1 SEO engine that generated 2M+ Google Search impressions in 2 months, plus 1M+ organic video impressions with zero paid acquisition. Learn how an early-stage AI startup turns search, content, and AI automation into repeatable distribution.
-
-Weijia - Founder & CEO, LingCode
-
-Developer Growth × Product-Led Growth × Community
-
-Built content reaching millions, grew a coding education platform from 0 → 10,000+ students, and took LingCode from launch to 1,000+ users in its first month. Learn how technical founders can turn product, content, and community into an organic growth engine.
-
-More founders & GTM operators to be announced
-
-Build: 5 Real Products. 5 Real Growth Problems.
-
-Most hackathons ask you to build another demo.
-
-Here, you'll work on a real product with real users and a real GTM problem - then use AI, code, content, outbound, SEO/GEO, automation, communities, or whatever else you can invent to move the numbers.
-
-AI Developer Tools - LingCode
-
-How do you win developers when every week brings another AI coding tool?
-
-Grow an AI-native IDE through developer communities, technical content, product-led loops, GEO, creators, or your own growth automation.
-
-Learn: developer GTM, PLG, community growth, and how technical products earn adoption.
-
-Consumer Community - Tennistry
-
-3,500+ users. 1,500+ real tennis matches. How do you create the next 1,000?
-
-Tennistry connects tennis players in real life. Test local acquisition, referrals, ambassadors, events, creators, and ways to prove which users you actually brought in.
-
-Learn: consumer growth, network effects, referral loops, local/community GTM, and attribution.
-
-🇺🇸 High-Trust Services - TurboNIW
-
-How do you acquire customers when the decision is expensive, complex, and built on trust?
-
-TurboNIW helps STEM researchers and professionals prepare for the EB-2 NIW process through structured educational materials and guidance. Unlike with a casual app download, customers may spend $1,000+ and are making a high-stakes career decision - making trust and intent central to acquisition. TurboNIW (https://www.turboniw.com/?utm_source=chatgpt.com)
-
-Learn: high-intent SEO/GEO, trust-based funnels, educational content, lead qualification, and customer acquisition for high-consideration services.
-
-Consumer FinTech - MaxWorth
-
-30,000 users already. What becomes the next scalable growth channel?
-
-MaxWorth is a North American credit-card management app entering its next stage of growth. Explore finance content, SEO/GEO, creators, referrals, communities, partnerships, or new product-led acquisition loops.
-
-Learn: consumer FinTech GTM, lifecycle growth, referral mechanics, content distribution, and scaling beyond early adopters.
-
-Generative AI × Entertainment - SxeneMixer
-
-A new AI creative product is starting from zero. Where do the first 100 real users come from?
-
-SxeneMixer is an AI short-drama generation platform. Find the creators and communities most likely to care, then experiment with UGC, viral formats, creator seeding, social distribution, and product-led sharing.
-
-Learn: 0→1 launches, creator GTM, UGC, viral loops, and consumer AI distribution.
-
-Pick the problem you want to learn about. Build the growth experiment. Run it on a real product. Show us what happened.
-
-More challenges will be revealed.
-
-$200 cash prize per Challenge
-
-$3,000+ shared Alibaba Cloud AI/API credits available to participating teams
-
-LingCode - IDE Partner & Challenge Owner
-
-API Sponsor - Alibaba Cloud
-
-Hacker Pass is FREE and requires approval
-
-Meet: Social, Coffee Chats & Startup Community
-
-Not hacking? You're just as welcome.
-
-Come for:
-
-Founder & GTM talks - Startup booths - Coffee chats - Board games - Food & drinks - Final pitches - New people
-
-You'll meet founders building their first company, engineers exploring what to build next, growth operators sharing what's working, students breaking into AI/startups, and people who simply want to meet interesting people in the Bay Area.
-
-No pitch deck required. No hackathon experience required
-
-:
-
-- 11:00 AM - Doors Open - Check-in - Coffee & Networking
-
-12:00 PM - Hackathon Kickoff - Challenge Introductions
-
-12:30 PM - Hacking + Talks + Startup Booths + Social
-
-Afternoon - Founder/Growth Talks - Coffee Chats - Food - Building
-
-6:30 PM - Hackathon Submission Deadline
-
-7:00 PM - Final Pitches
-
-8:00 PM - Awards & Wrap
-
-Hackers receive the Challenge briefs, company information, tools, KPIs, and preparation materials before the event, so you can come ready to execute
-
-Who This Is For
-
-Founders looking for better distribution.
-
-Engineers who want to learn what happens after shipping.
-
-Growth / GTM people looking for tactics they can actually use.
-
-Creators & marketers interested in AI-native growth.
-
-Students looking to meet and learn from people building in the Bay Area.
-
-Anyone curious about AI, startups, and how products actually find users.
-
-Come to hack. Come to learn. Or just come meet someone interesting.
-
-### Tickets
-
-Hacker Pass - FREE
-
-For Hackathon participants. Approval required. Registration closes Oct 15.
-
-General Pass - $45 Early Bird through Oct 9
-
-Includes talks, startup booths, Coffee Chats, social, food & drinks, and final pitches.
-
-$55 Standard - $80 Door
-
-.edu students: LAEDU15 for 15% off before Oct 9.
-
-### Saturday, October 24, 2026
-
-3120 Scott Blvd, Santa Clara
-
-Partners & Supporters
-
-Alibaba Cloud - LingCode - More to be announced
-
-Build something. Grow something. Meet someone.
-
 <a id="event-a5c2da17e599be35"></a>
 
 ## Bay Area AI+car hackathon
@@ -29421,56 +29241,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-5ddf4efc59cded53"></a>
-
-## Lovable x Girls into VC Buildathon
-
-- Record: `luma-evt-OA82waG8gQaV3DO`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T20:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/usecorgi-avov>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5d0edce160fd4b81"></a>
-
-## AI Next: Silicon Valley Founders Forum & Global Startup Demo Day \| NUS新全球企业家硅谷论坛（第四季）
-
-- Record: `luma-evt-A6LriDldrwAcbCI`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T21:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/j14jwn5y>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-2f948ff196ec6dbe"></a>
-
-## Hands-On Bitcoin Multisig Workshop
-
-- Record: `luma-evt-V53ojWka5tr7GSw`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T21:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/r4vintbd>
-
-### About the event
-
-Participants build a single-user, two-of-three multisignature Bitcoin wallet with devices from multiple vendors. The workshop covers signing methods, seed backups and wallet-configuration backups, with a setup worksheet and testnet bitcoin for practice. Bring Nunchuk on a phone or Sparrow Wallet on a laptop, plus two compatible signing devices.
-
-<a id="event-e3be10fd72ba9e36"></a>
-
-## Evento ICO CDMX Octubre
-
-- Record: `luma-evt-P64ZxhemxWZoZEE`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/sjhppvw8>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-a29b1b56720d2cdf"></a>
 
 ## Silicon Valley Investors Dinner Night: AI & Lifescience
@@ -29480,18 +29250,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-24T23:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/gwp6z6x7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-74ea2bed4f1c7bf9"></a>
-
-## Field To Fork: A Conversation on Sustainable Food with Tidefield & Mercedes-Benz BeVisioneers
-
-- Record: `luma-evt-6yD3RrJbYmz4eik`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/tw0wr9bo>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -41220,6 +40978,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-73ddced4688df030"></a>
+
+## Uncover Zurich’s hidden gems with a scavenger hunt by World City Trail!
+
+- Record: `eb-2001866461475`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-24
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.sg/e/uncover-zurichs-hidden-gems-with-a-scavenger-hunt-by-world-city-trail-tickets-2001866461475>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7dc118d84f92e389"></a>
 
 ## Ann Arbor Bitcoin
@@ -42362,6 +42132,18 @@ An organizer description has not been verified for this record. Any previous cop
 ### About the event
 
 Join the Global Blockchain Show Abu Dhabi 2026 - the premier crypto event uniting top Web3 leaders, innovators & investors across the UAE.
+
+<a id="event-ae19e07ba1e19625"></a>
+
+## Superteam Vietnam Members Happy Hour 🍻
+
+- Record: `luma-host-evt-evt-J12EFEEiO5FEX8C`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T10:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/imcsh67b>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-b3c60097d53dc3e9"></a>
 
@@ -43687,6 +43469,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ec468f9f3f7c6a75"></a>
+
+## The Future of Real Estate Is Here: Discover E-Estate & Tokenized Investing
+
+- Record: `eb-1994249888099`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-30
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/the-future-of-real-estate-is-here-discover-e-estate-tokenized-investing-tickets-1994249888099>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ad91220b44fd279e"></a>
 
 ## Bitcoin Beginner Workshops - Entdecke Bitcoin
@@ -44227,6 +44021,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-81eb3da6fcefe564"></a>
+
+## Beyond the Mirror: A Path Forward on Mental Health and Homelessness
+
+- Record: `luma-evt-8wALcOPI8qXrg1n`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T13:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ok5ro2l4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-13ee7879e8bf596d"></a>
 
 ## Blockchain Week Dubai - Ecox Network Side Event
@@ -44547,6 +44353,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-305b4a0d5b15e9b8"></a>
+
+## Finding Problems Worth Building Onchain
+
+- Record: `luma-host-evt-evt-XFlGrC1xAitk7AS`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T13:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/0mpsu41a>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-626defd72b5f5fa7"></a>
 
 ## Lido Poolside: Tokenholder Update, December 2026
@@ -44748,18 +44566,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-05
 - Description: Unverified stored copy
 - Original page: <https://www.eventbrite.com/e/build-the-future-of-healthtech-workshops-ai-tools-hackathon-showcase-tickets-1996801455907>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-99e0bbe7200dcc0e"></a>
-
-## Atlanta Business, Tech, AI, Investors & Entrepreneurs Networking Summit
-
-- Record: `eb-2002090895764`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-12-05
-- Description: Unverified stored copy
-- Original page: <https://www.eventbrite.com/e/atlanta-business-tech-ai-investors-entrepreneurs-networking-summit-tickets-2002090895764>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -47076,6 +46882,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a4395ddbd0de9a4d"></a>
+
+## The Digital Assets Collective — Banking, Fintech & Crypto
+
+- Record: `eb-2005154439907`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-28
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.co.uk/e/the-digital-assets-collective-banking-fintech-crypto-tickets-2005154439907>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-1b55cd00566984f2"></a>
 
 ## Blockchain and Business Networking \| Elevate Your Potential - Orange County
@@ -49213,6 +49031,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-09-08T00:00:00.000+00:00
 - Description: Unverified stored copy
 - Original page: <https://dev.events/conferences/solana-breakpoint-lhys6ntz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-99e0bbe7200dcc0e"></a>
+
+## Atlanta Business, Tech, AI, Investors & Entrepreneurs Networking Summit
+
+- Record: `eb-2002090895764`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-09-10
+- Description: Unverified stored copy
+- Original page: <https://www.eventbrite.com/e/atlanta-business-tech-ai-investors-entrepreneurs-networking-summit-tickets-2002090895764>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

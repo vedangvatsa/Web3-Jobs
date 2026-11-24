@@ -207,68 +207,6 @@
       "method": "luma-page"
     }
   },
-  "luma-crypto-KdgiJ5gO82TXRB9": {
-    "name": "AI × GTM Day: Growth Hackathon, Talks & Social",
-    "startDate": "2026-10-24T18:00:00.000Z",
-    "endDate": "2026-10-25T00:00:00.000Z",
-    "timezone": "America/Los_Angeles",
-    "registrationUrl": "https://luma.com/bo69pa9j",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "Santa Clara",
-    "country": "United States",
-    "location": "Santa Clara, United States",
-    "hosts": [
-      "Yuan Zi",
-      "李晓君",
-      "Xavier Huang"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Local Align"
-    },
-    "price": "USD 45",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Early Bird General Pass",
-        "url": "https://luma.com/bo69pa9j",
-        "price": 45,
-        "priceCurrency": "USD",
-        "availability": "InStock",
-        "validFrom": "2026-07-14T06:00:00.000Z"
-      },
-      {
-        "name": "Standard Ticket",
-        "url": "https://luma.com/bo69pa9j",
-        "price": 55,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "At Door Ticket",
-        "url": "https://luma.com/bo69pa9j",
-        "price": 80,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      },
-      {
-        "name": "Demo / Speaker / Judge",
-        "url": "https://luma.com/bo69pa9j",
-        "price": 100,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/bo69pa9j",
-      "eventId": "evt-KdgiJ5gO82TXRB9",
-      "fetchedAt": "2026-10-12T11:25:14.034Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-evt8I0lRm1lzJXpE": {
     "name": "Evening Panel + Rooftop Cocktails - our new home at SNC",
     "startDate": "2026-10-25T16:00:00.000Z",

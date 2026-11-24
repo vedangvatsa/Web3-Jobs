@@ -117,57 +117,6 @@
       }
     },
     {
-      "id": "luma-crypto-KdgiJ5gO82TXRB9",
-      "oldSlug": "la3agghs",
-      "slug": "ai-gtm-day",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 6306,
-      "characters": 7058,
-      "factChanges": {
-        "name": "AI × GTM Day: Growth Hackathon, Talks & Social",
-        "price": "USD 45",
-        "ticketOffers": [
-          {
-            "name": "Early Bird General Pass",
-            "url": "https://luma.com/bo69pa9j",
-            "price": 45,
-            "priceCurrency": "USD",
-            "availability": "InStock",
-            "validFrom": "2026-07-14T06:00:00.000Z"
-          },
-          {
-            "name": "Standard Ticket",
-            "url": "https://luma.com/bo69pa9j",
-            "price": 55,
-            "priceCurrency": "USD",
-            "availability": "InStock"
-          },
-          {
-            "name": "At Door Ticket",
-            "url": "https://luma.com/bo69pa9j",
-            "price": 80,
-            "priceCurrency": "USD",
-            "availability": "InStock"
-          },
-          {
-            "name": "Demo / Speaker / Judge",
-            "url": "https://luma.com/bo69pa9j",
-            "price": 100,
-            "priceCurrency": "USD",
-            "availability": "InStock"
-          }
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/bo69pa9j",
-        "fetchedAt": "2026-10-12T11:25:14.034Z",
-        "status": 200,
-        "sha256": "cae9956b4368b12e7fbb184ee0cc104a0306cea60f8155e793a2f6f40a28313d"
-      }
-    },
-    {
       "id": "premier-hackmeridian",
       "oldSlug": "hackmeridian",
       "slug": "hackmeridian",

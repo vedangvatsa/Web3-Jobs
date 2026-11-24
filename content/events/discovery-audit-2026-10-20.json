@@ -86,17 +86,6 @@
       "descriptionSha256": "dcaf49d4f477c8fe3d6b8f3e2f8ff61f8095a9c97c544450dc105c6853ae0dfe"
     },
     {
-      "id": "luma-crypto-KdgiJ5gO82TXRB9",
-      "slug": "ai-gtm-day",
-      "aliases": [
-        "la3agghs"
-      ],
-      "startDate": "2026-10-24T18:00:00.000Z",
-      "endDate": "2026-10-25T00:00:00.000Z",
-      "timezone": "America/Los_Angeles",
-      "descriptionSha256": "774503f53f57a6a724aa9ec5f0490b95c05fac1d5726fa43c192911998daf0e7"
-    },
-    {
       "id": "premier-hackmeridian",
       "slug": "hackmeridian",
       "aliases": [],
@@ -3419,45 +3408,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 54180
-      }
-    },
-    {
-      "id": "luma-evt-V53ojWka5tr7GSw",
-      "name": "Hands-On Bitcoin Multisig Workshop",
-      "startDate": "2026-10-24T21:00:00.000Z",
-      "endDate": "2026-10-24T23:00:00.000Z",
-      "timezone": "America/Vancouver",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-V53ojWka5tr7GSw",
-      "url": "https://luma.com/r4vintbd",
-      "lane": "americas",
-      "reason": "Exact event exists in events-cache.json as luma-evt-V53ojWka5tr7GSw, but not runtime. Reuse this identity.",
-      "evidence": [
-        {
-          "url": "https://luma.com/r4vintbd",
-          "fetchedAt": "2026-10-20T08:07:30.466Z",
-          "excerpt": "evt-V53ojWka5tr7GSw; 2026-10-24T21:00:00.000Z to 23:00:00.000Z; America/Vancouver; DCTRL, 328 W Hastings St, Vancouver, BC V6B 0P7; public, open, approval false. Build a single user 2-of-3 multi-vendor multisig wallet. Step-by-step worksheet, backup strategies, testnet bitcoin. Bring Nunchuk or Sparrow Wallet and two additional multisig signing devices.",
-          "sha256": "5a5eace01d9211e957bf02b35ac56a4b3782bc2098354af30ff5f3ed3d624a50",
-          "representation": "html; __NEXT_DATA__ and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:13.649Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/xy/842a80eb-e549-482c-9cdb-87b2150b90ca.jpg",
-        "fetchedAt": "2026-10-20T09:49:26.516Z",
-        "status": 200,
-        "local": "/events/luma-evt-v53ojwka5tr7gsw-2ac9d2fb.webp",
-        "sourceSha256": "305a968489557e1ed7e838a421967ab237fd8f1cfac79154b0154918249c9e5c",
-        "sha256": "0783659ecb1f82942657a49cef0192be41bd17c72bdb526471f7b47bf466fa61",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 115478
       }
     },
     {

@@ -82,26 +82,6 @@
       ]
     },
     {
-      "id": "luma-crypto-KdgiJ5gO82TXRB9",
-      "slug": "la3agghs",
-      "name": "Local Align #3 - AI × GTM Growth Hackathon & Social",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/bo69pa9j",
-        "fetchedAt": "2026-09-19T23:49:11.128Z"
-      },
-      "sections": [
-        "About the event",
-        "Choose Your Experience",
-        "What's Happening",
-        "AI × Real Products × Real Growth",
-        "Have a Product?",
-        "Partners & Supporters",
-        "Event Details",
-        "Event Policies"
-      ]
-    },
-    {
       "id": "premier-hackmeridian",
       "slug": "hackmeridian",
       "name": "HackMeridian 2026",
