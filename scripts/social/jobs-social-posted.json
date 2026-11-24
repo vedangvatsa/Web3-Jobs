@@ -180370,7 +180370,8 @@
       },
       "account": "channel:product",
       "attemptId": "1211fb88-1868-45a8-ac75-3d2526b64299",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3d003fd2cdf979e28cb283cbed2337fb4a92b8b4"
     }
   ]
 }
