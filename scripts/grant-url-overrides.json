@@ -1,4 +1,8 @@
 {
+  "0g-growth": "https://www.0gfoundation.ai/ecosystem",
+  "acala-network-grants": "https://github.com/AcalaNetwork/Acala-Grants-Program",
+  "pooltogether-grants": "https://docs.pooltogether.com/pooltogether/guides/getting-involved",
+  "stacks-foundation": "https://stacks.foundation/grants",
   "algolia-startups": "https://www.algolia.com/industries/startups",
   "near-grants": "https://pages.near.org/ecosystem/grants/",
   "injective-x-microsoft": "https://injectivelabs.org/grants",
@@ -18,5 +22,11 @@
   "octant-creator-grants": "https://octant.app",
   "manta-grant": "https://manta.network/grants",
   "web3-accel-by": "https://web3.by",
-  "yard-hub": "https://yardhub.xyz"
+  "yard-hub": "https://yardhub.xyz",
+  "anthropic-startups": "https://www.anthropic.com/startups",
+  "zetachain-grants": "https://www.zetachain.com/blog/zetachain-grants-program-for-omnichain-dapp-builders",
+  "oasis-grants": "https://oasis.net/ecosystem/grants",
+  "celo-prezenti": "https://www.prezenti.xyz/",
+  "celo-grants-prezenti": "https://www.prezenti.xyz/",
+  "celo-comm-fund": "https://celocommunityfund.submittable.com/submit"
 }

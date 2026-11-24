@@ -136,7 +136,7 @@
   {
     "id": "india-luma-solana-summit-india",
     "name": "Solana Summit India",
-    "description": "Solana Summit India is a one-day program of talks, panels and workshops about the Solana ecosystem, real-world asset tokenization, regulation and development. Advance registration and host approval are required.",
+    "description": "Solana Summit India is a one-day program of talks, panels and workshops about the Solana ecosystem, real-world asset tokenization, regulation and development. Advance\n\nregistration and host approval are required.",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
     "city": "Mumbai",
@@ -181,7 +181,7 @@
       "fetchedAt": "2026-10-11T18:38:52.235Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Solana Summit India",
-      "sha256": "544d93147cbd64ba446cc2d0c1d1ad6f71a25ad98f68f680740b7bbfefedb137",
+      "sha256": "c2bedecfb62092df3ff17ac98b3434c3ba91018d3083706dde58ff97b9e84395",
       "evidence": [
         {
           "url": "https://luma.com/solana-summit-india",

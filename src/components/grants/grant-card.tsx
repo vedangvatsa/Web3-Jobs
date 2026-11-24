@@ -2,6 +2,7 @@
 
 import { ListingCard, ListingCardHeader, ListingCardTitle } from '@/components/listing-card';
 import type { GrantProgram } from '@/types';
+import { isGrantProviderRedundant, normalizeGrantLabel } from '@/lib/grant-subtitle';
 import Link from 'next/link';
 import { useState } from 'react';
 
@@ -88,18 +89,8 @@ function getGrantSubtitle(grant: GrantProgram): string {
   const ecosystem = (grant.ecosystem || '').trim();
   const category = (grant.category || '').trim();
 
-  // Strip generic suffixes to check if provider repeats the grant title
-  const normalize = (s: string) =>
-    s
-      .replace(/\s+(for Startups|Grants? Program|Grants?|Foundation|Ecosystem Fund)$/i, '')
-      .trim()
-      .toLowerCase();
-
-  const isRedundant =
-    !provider ||
-    normalize(provider) === normalize(name) ||
-    name.toLowerCase().includes(provider.toLowerCase()) ||
-    provider.toLowerCase().includes(name.toLowerCase());
+  const isRedundant = isGrantProviderRedundant(name, provider);
+  const normalize = normalizeGrantLabel;
 
   const hasSpecificAmount =
     Boolean(amount) && !/^(milestone-based|project-based|flexible)$/i.test(amount);

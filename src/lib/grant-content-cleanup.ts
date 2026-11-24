@@ -1,8 +1,15 @@
+import { stripThirdPartyCommunityPromo } from '@/lib/community-link-sanitizer';
+import { isGrammarJunkParagraph, normalizeGrantGrammarLine } from '@/lib/grant-grammar';
+
 export type GrantSectionShape = {
   heading: string;
   paragraphs: string[];
   bullets?: string[];
 };
+
+function sanitizeGrantCopy(text: string): string {
+  return normalizeGrantGrammarLine(stripThirdPartyCommunityPromo(text));
+}
 
 const JUNK_PARAGRAPH =
   /press enter or click to view image|published time:|blob:http|!\[[^\]]*\]\(blob:/i;
@@ -14,11 +21,18 @@ export function normalizeGrantSections<T extends GrantSectionShape>(sections: T[
   const out: T[] = [];
 
   for (const section of sections) {
-    const heading = section.heading.trim();
+    const heading = section.heading
+      .replace(/\p{Extended_Pictographic}/gu, '')
+      .replace(/^[?\s❓]+/, '')
+      .trim();
     const paragraphs = expandStepParagraphs(
-      section.paragraphs.filter((p) => !JUNK_PARAGRAPH.test(p)).map(stripMarkdownBold),
+      (section.paragraphs || [])
+        .filter((p) => !JUNK_PARAGRAPH.test(p) && !isGrammarJunkParagraph(p))
+        .map(stripMarkdownBold)
+        .map(sanitizeGrantCopy)
+        .map((p) => p.replace(/^(.+\?)\s+([A-Z])/u, '$1\n\n$2')),
     );
-    const bullets = section.bullets?.map(stripMarkdownBold);
+    const bullets = section.bullets?.map((b) => sanitizeGrantCopy(stripMarkdownBold(b)));
 
     if (NUMERIC_STEP_HEADING.test(heading) && out.length > 0) {
       const prev = out[out.length - 1]!;

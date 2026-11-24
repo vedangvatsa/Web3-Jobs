@@ -74,7 +74,7 @@
   },
   {
     "name": "Mid-Chain Conference: Blockchain & Decentralized Economics",
-    "description": "An academic-industry conference at Ben-Gurion University covering blockchain protocols, decentralized finance, governance and cryptographic mechanisms. The program includes research talks, a lunch poster session and a closing panel with Yehuda Lindell. Registration is free and requires approval.",
+    "description": "An academic-industry conference at Ben-Gurion University covering blockchain protocols, decentralized finance, governance and cryptographic mechanisms. The program includes research talks, a lunch poster session and a closing panel with Yehuda Lindell.\n\nRegistration is free and requires approval.",
     "startDate": "2026-10-26T06:45:00.000Z",
     "endDate": "2026-10-26T16:00:00.000Z",
     "timezone": "Asia/Jerusalem",
@@ -146,7 +146,7 @@
       "fetchedAt": "2026-10-20T09:29:37.423Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Mid-Chain Conference: Blockchain & Decentralized Economics · Luma",
-      "sha256": "6d95f384c0711b1b51b4a9b5ac2061982198de292ace60b9bc3fd2bc9f5b5e90",
+      "sha256": "dfd06a03c91e90132e64afd296a5e041c9e37aaebc94b033ed858ce8a6f99518",
       "evidence": [
         {
           "url": "https://www.mid-chain.com/",
@@ -243,7 +243,7 @@
   },
   {
     "name": "Crafting the Cryptoeconomy Conference 2026",
-    "description": "Columbia's Center for Digital Finance & Technologies hosts two days of research talks and discussions on prediction markets, stablecoins, quantum threats to blockchains, Ethereum, rollup economics and tokenized assets. Registration is offered separately for each day.",
+    "description": "Columbia's Center for Digital Finance & Technologies hosts two days of research talks and discussions on prediction markets, stablecoins, quantum threats to blockchains, Ethereum, rollup economics and tokenized assets.\n\nRegistration is offered separately for each day.",
     "startDate": "2026-10-29T08:30:00-04:00",
     "endDate": "2026-10-30T17:30:00-04:00",
     "timezone": "America/New_York",
@@ -263,7 +263,7 @@
       "fetchedAt": "2026-10-20T09:29:38.628Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Crafting the Cryptoeconomy Conference - Center for Digital Finance & Technologies",
-      "sha256": "0584c58e7c3801a32b7072d186fdbb5e09c0253a51b7fda36a930ba6b0f8f2cd",
+      "sha256": "9078bc96d596fa007ea5a3bc80e590561c0435069243e8e31494014f37d63175",
       "evidence": [
         {
           "url": "https://columbiaengineering.campusgroups.com/CDFT/rsvp_boot?id=376457",
@@ -340,7 +340,7 @@
   },
   {
     "name": "W3Node Conference & Hackathon 2026",
-    "description": "## Welcome to Africa’s Premier Web3 Developer Conference and Hackathon W3Node provides a platform that showcases developers and founding teams, upskills community managers, and provides investors with industry insights. Ultimately, we connect Africa's thriving developer ecosystem with global blockchain companies to accelerate adoption and commercial success\n\nWho The Conference is For Node Engine is a growing network of developers, researchers, and founders shaping the future of tech from the African continent and beyond. This year, we are introducing a hacker house residency for the best builders in Africa. This is an addition to our Hackathon and Travel Grant Program. Signup to our newsletter to be the first to know when applications open\n\nAccelerate the BUIDLers, Shape the Future W3Node is a launchpad for the next generation of African founders shaping the decentralized web. As a sponsor, we’ll curate your experience to align with your goals—whether that’s establishing a local hub, accessing our pipeline of top African founders, or amplifying your brand’s visibility. Let’s BUIDL the future, together\n\nWe Believe in the Community Economy The opportunities are vast and complex across the diaspora. As we innovate and build solutions, we’ve designed this community to honor individual sovereignty, enable creators to capture more of the value that they create, and as a community, for all of our incentives to be aligned\n\nMeet Our Esteemed Speakers and Industry Thought Leaders Ideal for Community Managers, DevRel pros, and Regional Ambassadors Travel Grant winners receive airfare, accommodation, and Meals Premium experience with priority access and VIP-only networking opportunities\n\nSchedule",
+    "description": "## Welcome to Africa's Premier Web3 Developer Conference and Hackathon W3Node provides a platform that showcases developers and founding teams, upskills community managers, and provides investors with industry insights. Ultimately, we connect Africa's thriving developer ecosystem with global blockchain companies to accelerate adoption and commercial success\n\nWho The Conference is For Node Engine is a growing network of developers, researchers, and founders shaping the future of tech from the African continent and beyond. This year, we are introducing a hacker house residency for the best builders in Africa. This is an addition to our Hackathon and Travel Grant Program. Signup to our newsletter to be the first to know when applications open\n\nAccelerate the BUIDLers, Shape the Future W3Node is a launchpad for the next generation of African founders shaping the decentralized web. As a sponsor, we'll curate your experience to align with your goals - whether that's establishing a local hub, accessing our pipeline of top African founders, or amplifying your brand's visibility. Let's BUIDL the future, together\n\nWe Believe in the Community Economy The opportunities are vast and complex across the diaspora. As we innovate and build solutions, we've designed this community to honor individual sovereignty, enable creators to capture more of the value that they create, and as a community, for all of our incentives to be aligned\n\nMeet Our Esteemed Speakers and Industry Thought Leaders Ideal for Community Managers, DevRel pros, and Regional Ambassadors Travel Grant winners receive airfare, accommodation, and Meals Premium experience with priority access and VIP-only networking opportunities\n\nSchedule",
     "startDate": "2026-11-12",
     "endDate": "2026-11-14",
     "city": "Cape Town",
@@ -364,7 +364,7 @@
       "fetchedAt": "2026-11-10T18:32:48.709Z",
       "method": "official-section",
       "pageTitle": "W3Node Conference & Hackathon",
-      "sha256": "6ea19b9f1a3de5db1ed3cd4a53dc2bbb44f2dc4ef35a8268c4c3d534487070eb"
+      "sha256": "7af6d39abc373bfed1c0e05c29df40e1aaa678677f89fbc0795aa5f4b958a8d2"
     },
     "id": "curated-w3node-conference-hackathon-2026-11-12",
     "url": "https://w3node.io/",
@@ -384,7 +384,7 @@
   },
   {
     "name": "Digital Assets Forum New York 2026",
-    "description": "Digital Assets Forum New York 2026 is the premier event for the institutional digital assets industry, organized by the team behind the European Blockchain Convention. The New York edition runs across two stages with more than 50 sessions designed to help attendees navigate the rapidly changing world of digital assets.\n\n## What to expect\n\n- 1:1 meetings program: browse the attendee list and schedule 1:1 meetings in advance to maximize your time on site.\n- VIP night: kick off the event with an exclusive VIP night designed for premium networking and unwinding in style.\n- Meet LPs and GPs: connect with fund managers and allocators, including pension funds, foundations, fund of funds, and wealth managers.\n- Press room: connect with top speakers in a private space reserved for media insights.\n- Private roundtables: a new format designed for direct, meaningful exchanges with top industry peers.\n- 5-star venue: a spacious and stylish setting, perfect for connecting and exploring.\n- Exhibition area: meet the companies building across the digital assets stack.\n\n## Speakers\n\nAnnounced speakers include Michael Novogratz (Galaxy), Jan van Eck (VanEck), Anthony Scaramucci (SkyBridge Capital), Sandy Kaul (Franklin Templeton), Adam Back (Blockstream), Eric Balchunas (Bloomberg), and John D'Agostino (Coinbase), alongside leaders from institutions including BlackRock, Citi, RBC Capital Markets, T. Rowe Price, Invesco, Fifth Third Bank, New York Life Investment Management, WisdomTree, Grayscale, and Coinbase.\n\n## Tickets\n\nTicket tiers include general and institutional passes, a VIP option at $2,495 that adds access to the VIP Night Party with speakers, sponsors and media at the 5-star venue, and a team option at $5,995 — the best return is achieved by bringing a team.",
+    "description": "Digital Assets Forum New York 2026 is the premier event for the institutional digital assets industry, organized by the team behind the European Blockchain Convention. The New York edition runs across two stages with more than 50 sessions designed to help attendees navigate the rapidly changing world of digital assets.\n\n## What to expect\n\n- 1:1 meetings program: browse the attendee list and schedule 1:1 meetings in advance to maximize your time on site.\n- VIP night: kick off the event with an exclusive VIP night designed for premium networking and unwinding in style.\n- Meet LPs and GPs: connect with fund managers and allocators, including pension funds, foundations, fund of funds, and wealth managers.\n- Press room: connect with top speakers in a private space reserved for media insights.\n- Private roundtables: a new format designed for direct, meaningful exchanges with top industry peers.\n- 5-star venue: a spacious and stylish setting, perfect for connecting and exploring.\n- Exhibition area: meet the companies building across the digital assets stack.\n\n## Speakers\n\nAnnounced speakers include Michael Novogratz (Galaxy), Jan van Eck (VanEck), Anthony Scaramucci (SkyBridge Capital), Sandy Kaul (Franklin Templeton), Adam Back (Blockstream), Eric Balchunas (Bloomberg), and John D'Agostino (Coinbase), alongside leaders from institutions including BlackRock, Citi, RBC Capital Markets, T. Rowe Price, Invesco, Fifth Third Bank, New York Life Investment Management, WisdomTree, Grayscale, and Coinbase.\n\n## Tickets\n\nTicket tiers include general and institutional passes, a VIP option at $2,495 that adds access to the VIP Night Party with speakers, sponsors and media at the 5-star venue, and a team option at $5,995 - the best return is achieved by bringing a team.",
     "startDate": "2026-11-13T08:30:00-05:00",
     "endDate": "2026-11-13T18:30:00-05:00",
     "timezone": "America/New_York",
@@ -404,7 +404,7 @@
       "fetchedAt": "2026-11-10T22:04:39.195Z",
       "method": "official-section",
       "pageTitle": "Digital Assets Forum New York",
-      "sha256": "3b7fef072fd61d97317bc898e9321cd04b761eea259c4614233344e20833ad29",
+      "sha256": "bc74fd00e9ca90771c44e21e4a1b0d3d027eeeb338de0c0cda6bcee10cc12e12",
       "evidence": [
         {
           "url": "https://eblockchainconvention.com/digital-assets-forum-new-york/",
@@ -450,7 +450,7 @@
   },
   {
     "name": "Plan ₿ Forum El Salvador 2027",
-    "description": "## Peer Ticket Plan ₿ Forum El Salvador is the premier Bitcoin conference in Central America bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech\n\nSpeaker\n\nPaolo Ardoin\n\nSaifedean Ammou\n\nBTC Session\n\nNico Mora\n\nLun\n\nRoy Sheinfel\n\nGiacomo Zucc\n\nR0ckstar De\n\nTickets Get access to the Two-day Conference at Sheraton Presidents san Salvador Hotel and Museum of Art of El Salvador. Enjoy Keynotes, Panels and Workshops. Visit the Bitcoin Art Gallery, Startups and Sponsors Exhibition floors. Access to all Keynotes, Panels, Masterclasses, Sponsor Exhibitions and 1:1 matched Networkin\n\nCyber Punk Ticket All peer Ticket benefit Plus: Dedicated Registration, Front-Row seat, Food at the conference, speakers dinne\n\nCheros Salvadoreño\n\nDiscover El Salvador with Plan \n\nLocations Avenida De La Revolucion &, Calle Circunvalacion, San Salvado\n\nFAQ’s For assistance finding accommodation in and around San Salvador, you can contact Vacilando Tours and Trips, The agency will be able to provide a wide range of hospitality solutions for both groups and individual bookings for all budgets. Contact details:Fatima MonterrosaVacilando Tours & TripsTel. +503 7800 5072 / +503 7616 2097info.vacilandotours@gmail.com The event will be conducted in English but real time translations in Spanish will be provided for the main keynotes and panels. Headsets will be provided on premise. Also, there will be keynotes and panels Spanish. Admission: Access to all general areas, including keynotes, panels and workshops. • Peer ticket: Access to all Keynotes, Panels, Masterclasses, Sponsor Exhibitions, 1:1 Matched Networking and Coffee Breaks. • CyberPunk ticket: All the benefits of the Peer Ticket plus: Exclusive Registration, Front-Row Seat, Coffee Break, Lunch and Dinner with the Speakers at the Conference. • Cheros Salvadoreños: Same access as the Peer Tickets. An ID proving local residency is required at registration. Age Requirement: Ticket holders must be above 18 years of age. Non-transferable: Tickets are linked to the personal information provided at the time of purchase. Yes! Through our travel partner, Travala, you can book your flights, hotels, and activities in El Salvador with the option to pay in 100+ cryptocurrencies or traditional payment methods.",
+    "description": "## Peer Ticket Plan ₿ Forum El Salvador is the premier Bitcoin conference in Central America bringing together world leaders, technologists, and entrepreneurs to discuss nation-state Bitcoin adoption, economics, financial freedom, and freedom of speech\n\nSpeaker\n\nPaolo Ardoin\n\nSaifedean Ammou\n\nBTC Session\n\nNico Mora\n\nLun\n\nRoy Sheinfel\n\nGiacomo Zucc\n\nR0ckstar De\n\nTickets Get access to the Two-day Conference at Sheraton Presidents san Salvador Hotel and Museum of Art of El Salvador. Enjoy Keynotes, Panels and Workshops. Visit the Bitcoin Art Gallery, Startups and Sponsors Exhibition floors. Access to all Keynotes, Panels, Masterclasses, Sponsor Exhibitions and 1:1 matched Networkin\n\nCyber Punk Ticket All peer Ticket benefit Plus: Dedicated\n\nRegistration, Front-Row seat, Food at the conference, speakers dinne\n\nCheros Salvadoreño\n\nDiscover El Salvador with Plan\n\nLocations Avenida De La Revolucion &, Calle Circunvalacion, San Salvado\n\nFAQ's For assistance finding accommodation in and around San Salvador, you can contact Vacilando Tours and Trips, The agency will be able to provide a wide range of hospitality solutions for both groups and individual bookings for all budgets. Contact details:Fatima MonterrosaVacilando Tours & TripsTel. +503 7800 5072 / +503 7616 2097info.vacilandotours@gmail.com The event will be conducted in English but real time translations in Spanish will be provided for the main keynotes and panels. Headsets will be provided on premise. Also, there will be keynotes and panels Spanish. Admission: Access to all general areas, including keynotes, panels and workshops.\nPeer ticket: Access to all Keynotes, Panels, Masterclasses, Sponsor Exhibitions, 1:1 Matched Networking and Coffee Breaks.\nCyberPunk ticket: All the benefits of the Peer Ticket plus: Exclusive\n\nRegistration, Front-Row Seat, Coffee Break, Lunch and Dinner with the Speakers at the Conference.\nCheros Salvadoreños: Same access as the Peer Tickets. An ID proving local residency is required at\n\nregistration. Age Requirement: Ticket holders must be above 18 years of age. Non-transferable: Tickets are linked to the personal information provided at the time of purchase. Yes! Through our travel partner, Travala, you can book your flights, hotels, and activities in El Salvador with the option to pay in 100+ cryptocurrencies or traditional payment methods.",
     "startDate": "2027-01-29",
     "endDate": "2027-01-30",
     "city": "San Salvador",
@@ -483,7 +483,7 @@
       "fetchedAt": "2026-11-10T18:32:50.869Z",
       "method": "official-section",
       "pageTitle": "2027 PlanB Forum El Salvador",
-      "sha256": "86e93bd4c78ccfd178836ca1388d183badc4d84f133fb2c1b9e7b25eddff6123"
+      "sha256": "608d0f1b204bcd2581741772ae0f56a4561f9f826f55816a33200888d6e493e2"
     },
     "id": "curated-plan-forum-el-salvador-2027-01-29",
     "url": "https://planb.sv/",
@@ -565,7 +565,7 @@
   },
   {
     "name": "TOKEN2049 New York 2027",
-    "description": "TOKEN2049 | 16-17 June 2027 | New York GET YOUR TICKET NOW Super Early Bird ticket now available pay with usd Pay with your preferred credit card. Pay with crypto Processed by MoonPay Commerce. Exhibit With Us TOKEN2049 IS COMING TO NEW YORK THE GLOBAL CRYPTO GATHERING The international crypto industry converges on New York. Founders, investors, institutions and builders. All in one place. Why 25,000+ Attendees Choose TOKEN2049 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL VLAD TENEV ROBINHOOD This event is unbelievable. Eric Trump Executive VP, The Trump Organization This is the single conference where everybody comes together and the most important conversations are happening. Haseeb Qureshi Managing Partner, Dragonfly The energy is amazing... It’s a fantastic conference. Changpeng Zhao Founder, Binance It really is one of the most energetic and incredible events. Raoul Pal Co-Founder and CEO, Real Vision THE GLOBAL CRYPTO INDUSTRY. NOW IN NEW YORK. Following Singapore and Dubai, TOKEN2049 arrives at the centre of global finance. Our inaugural New York edition will bring together 15,000 attendees from around the world. Meet the people building the companies, deploying the capital and defining the future of digital assets. VITALIK BUTERIN ETHEREUM Balaji Srinivasan The network state VLAD TENEV ROBINHOOD VITALIK BUTERIN ETHEREUM balaji srinivasan the network state Shayne Coplan Polymarket Shayne Coplan Polymarket Eric Trump World Liberty Financial Changpeng Zhao Binance attended by industry leaders Partner with us unparalleled networking The Global Crypto Gathering Didn't see your email app open? Click below to copy our email address instead Become a Speaker EXHIBIT WITH US",
+    "description": "TOKEN2049 | 16-17 June 2027 | New York GET YOUR TICKET NOW Super Early Bird ticket now available pay with usd Pay with your preferred credit card. Pay with crypto Processed by MoonPay Commerce. Exhibit With Us TOKEN2049 IS COMING TO NEW YORK THE GLOBAL CRYPTO GATHERING The international crypto industry converges on New York. Founders, investors, institutions and builders. All in one place. Why 25,000+ Attendees Choose TOKEN2049 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL VLAD TENEV ROBINHOOD This event is unbelievable. Eric Trump Executive VP, The Trump Organization This is the single conference where everybody comes together and the most important conversations are happening. Haseeb Qureshi Managing Partner, Dragonfly The energy is amazing... It's a fantastic conference. Changpeng Zhao Founder, Binance It really is one of the most energetic and incredible events. Raoul Pal Co-Founder and CEO, Real Vision THE GLOBAL CRYPTO INDUSTRY. NOW IN NEW YORK. Following Singapore and Dubai, TOKEN2049 arrives at the centre of global finance. Our inaugural New York edition will bring together 15,000 attendees from around the world. Meet the people building the companies, deploying the capital and defining the future of digital assets. VITALIK BUTERIN ETHEREUM Balaji Srinivasan The network state VLAD TENEV ROBINHOOD VITALIK BUTERIN ETHEREUM balaji srinivasan the network state Shayne Coplan Polymarket Shayne Coplan Polymarket Eric Trump World Liberty Financial Changpeng Zhao Binance attended by industry leaders Partner with us unparalleled networking The Global Crypto Gathering Didn't see your email app open? Click below to copy our email address instead Become a Speaker EXHIBIT WITH US",
     "startDate": "2027-06-16",
     "endDate": "2027-06-17",
     "city": "New York",
@@ -584,7 +584,7 @@
       "fetchedAt": "2026-11-10T19:33:13.933Z",
       "method": "official-section",
       "pageTitle": "TOKEN2049 | 16-17 June 2027 | New York",
-      "sha256": "5802ef78405965a697a891a7f105f9c506cacb9db9289c5bf2c9a07c81169d24"
+      "sha256": "281180c884ef3084e6550bbb146652d16e6365956e3b78b174bd09985dbc6bfa"
     },
     "id": "curated-token2049-new-york-2027-06-16",
     "url": "https://www.token2049.com/new-york",
@@ -833,7 +833,7 @@
   },
   {
     "name": "Austin Bitcoin Club",
-    "description": "Please RSVP as space will be limited. **When you arrive:** * Someone will be at the main door to greet you and let you in. The elevator will already be unlocked and waiting for you. * Once inside, just press 2 and it will take you straight up to the second floor. **Just in case something doesn’t work as planned:** * You can also walk through the Capital One Café (it’s open to the public) and take the elevator from there, or shoot a quick message on Signal to Jack (@jackless.09) and he’ll come right down to get you. If this is your first time at one of our meetups, we have a few simple guidelines to enhance everyone’s experience: * our meetups and events have a simple and singular focus: **Bitcoin**. All of our topics and discussions will be centered around Bitcoin, the global monetary network, and bitcoin, the reserve asset. If you are interested in crypto tokens, stocks, blockchains, altcoins, alternative investing, NFTs, etc. that is completely fine. There are a number of other meetups to join. This meetup however is just focused on Bitcoin * please **no photos** unless no one is identifiable in the background. We respect everyone’s privacy and want everyone to feel comfortable as they participate * while the group discussion is going, please keep side conversations to **none.** With the acoustics of the room and the number of people we expect, any conversations will echo and be a distraction for those who are trying to listen many of whom have traveled a long way to participate * please pick up after yourself * Street **parking** or the paid garage across from our building on East 6th (515 Congress)",
+    "description": "Please RSVP as space will be limited. **When you arrive:** * Someone will be at the main door to greet you and let you in. The elevator will already be unlocked and waiting for you. * Once inside, just press 2 and it will take you straight up to the second floor. **Just in case something doesn't work as planned:** * You can also walk through the Capital One Café (it's open to the public) and take the elevator from there, or shoot a quick message on Signal to Jack (@jackless.09) and he'll come right down to get you. If this is your first time at one of our meetups, we have a few simple guidelines to enhance everyone's experience: * our meetups and events have a simple and singular focus: **Bitcoin**. All of our topics and discussions will be centered around Bitcoin, the global monetary network, and bitcoin, the reserve asset. If you are interested in crypto tokens, stocks, blockchains, altcoins, alternative investing, NFTs, etc. that is completely fine. There are a number of other meetups to join. This meetup however is just focused on Bitcoin * please **no photos** unless no one is identifiable in the background. We respect everyone's privacy and want everyone to feel comfortable as they participate * while the group discussion is going, please keep side conversations to **none.** With the acoustics of the room and the number of people we expect, any conversations will echo and be a distraction for those who are trying to listen many of whom have traveled a long way to participate * please pick up after yourself * Street **parking** or the paid garage across from our building on East 6th (515 Congress)",
     "startDate": "2026-12-03T18:00:00-06:00",
     "endDate": "2026-12-03T20:00:00-06:00",
     "city": "Austin",
@@ -856,7 +856,7 @@
       "fetchedAt": "2026-11-10T19:33:14.051Z",
       "method": "official-section",
       "pageTitle": "Austin Bitcoin Club, Thu, Dec 3, 2026, 6:00 PM | Meetup",
-      "sha256": "023dd4be52d57902b26031301ce0ea1bee0ca4382450ec9ea3d643c3700eb928"
+      "sha256": "d97fac93fcc9cd7b808afa3e33bd8407ed3d18e8b2920ac639e7d6b93e7e2fe9"
     },
     "id": "mu-313235527",
     "url": "https://www.meetup.com/bitcoin-park-austin/events/313235527/",
@@ -877,7 +877,7 @@
   },
   {
     "name": "NEAR x SVRN Happy Hour @ The Bridge",
-    "description": "NEAR Foundation and SVRN host an informal gathering for allocators, trading desks, issuers and builders before The Bridge conference. The event centers on confidential execution and onchain settlement. Registration requires approval, and the address is shared with guests.",
+    "description": "NEAR Foundation and SVRN host an informal gathering for allocators, trading desks, issuers and builders before The Bridge conference.\n\nThe event centers on confidential execution and onchain settlement.\n\nRegistration requires approval, and the address is shared with guests.",
     "startDate": "2026-10-26T20:30:00.000Z",
     "endDate": "2026-10-26T23:00:00.000Z",
     "timezone": "America/New_York",
@@ -918,7 +918,7 @@
       "fetchedAt": "2026-10-20T09:30:05.856Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "NEAR x SVRN Happy Hour @ The Bridge · Luma",
-      "sha256": "1007e71d9f9061e6b4f224a338bcd5c7f133054849b352176675ab6883811633",
+      "sha256": "d255604fdfd046b83e46679899c609f98c75d8fc8657ee667ec747f815e73206",
       "evidence": [
         {
           "url": "https://luma.com/1m2qy8jh",
@@ -1025,7 +1025,7 @@
   },
   {
     "name": "Hackathon EDU by LABITCONF",
-    "description": "A two-day hackathon for EDU HUB members whose universities are accredited for LABITCONF 2026. Teams of four or five choose a track in community impact, education, financial inclusion or the creator economy, then build and pitch a project. Every participant must register individually; solo applicants can be assigned to a team. Registration requires approval. Universities seeking accreditation can contact the organizer.",
+    "description": "A two-day hackathon for EDU HUB members whose universities are accredited for LABITCONF 2026. Teams of four or five choose a track in community impact, education, financial inclusion or the creator economy, then build and pitch a project. Every participant must register individually; solo applicants can be assigned to a team.\n\nRegistration requires approval. Universities seeking accreditation can contact the organizer.",
     "startDate": "2026-10-30T11:00:00.000Z",
     "endDate": "2026-11-01T00:00:00.000Z",
     "timezone": "America/Argentina/Buenos_Aires",
@@ -1076,7 +1076,7 @@
       "fetchedAt": "2026-10-20T09:30:09.020Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Hackathon EDU by LABITCONF · Luma",
-      "sha256": "5e5f1ace06408bdfa973284b189147d75c2ca7fecc6d100c19c9586d86c43418",
+      "sha256": "eaae3d111c495540289036c7926578f0c2d04d5234eff5cfd33ce1ac2131899b",
       "evidence": [
         {
           "url": "https://luma.com/cwhw1uls",
@@ -1112,7 +1112,7 @@
   },
   {
     "name": "ETH CALI, A FRONTIER CITY",
-    "description": "ETH CALI, A FRONTIER CITY · LumaSkip to Content\n\nPresented by\n\nETH CALI\n\nComunidad Oficial de Ethereum en Cali para el Pacifico Colombiano.\n\nHosted By\n\nETH CALI\n\n8 Going\n\nCrypto\n\nETH CALI, A FRONTIER CITY\n\nETH CALI\n\nTo Be Announced\n\nRegistration\n\nApproval Required\n\nYour registration is subject to host approval.\n\nWelcome! To join the event, please register below.\n\nAbout Event\n\n​FRONTIER POP-UP CITY\n\n​A week-long pop-up city (Dec 25–29) for Colombia’s technological frontier.\n\n​A gathering point for builders diving into technological frontier: AI, Privacy, Longevity, and Governance — all rooted in Ethereum culture and open-source values.\n\n​Mornings are for deep work and coworking. Afternoons for founder sessions and hacker discussions.\nEvenings for sunset conversations and curated happy hours.\n\n​This is not a conference. It’s a temporary network state for those building the future.\n\n​Attendance is free, but curated — exclusively for holders of our POAPs and participants of key Ethereum events.\n\nPresented by\n\nETH CALI\n\nComunidad Oficial de Ethereum en Cali para el Pacifico Colombiano.\n\nHosted By\n\nETH CALI\n\n8 Going\n\nCrypto\n\n## Hosts ETH CALI — Construimos la WEB3 de Cali y el Pacífico Colombiano\n\nAbout the organiser: Comunidad Oficial de Ethereum en Cali para el Pacifico Colombiano.\n\n## Tickets Standard",
+    "description": "ETH CALI, A FRONTIER CITY - LumaSkip to Content\n\nPresented by\n\nETH CALI\n\nComunidad Oficial de Ethereum en Cali para el Pacifico Colombiano.\n\nHosted By\n\nETH CALI\n\n8 Going\n\nCrypto\n\nETH CALI, A FRONTIER CITY\n\nETH CALI\n\nTo Be Announced\n\nRegistration\n\nApproval Required\n\nYour registration is subject to host approval.\n\nWelcome! To join the event, please register below.\n\nAbout Event\n\nFRONTIER POP-UP CITY\n\nA week-long pop-up city (Dec 25-29) for Colombia's technological frontier.\n\nA gathering point for builders diving into technological frontier: AI, Privacy, Longevity, and Governance - all rooted in Ethereum culture and open-source values.\n\nMornings are for deep work and coworking. Afternoons for founder sessions and hacker discussions.\nEvenings for sunset conversations and curated happy hours.\n\nThis is not a conference. It's a temporary network state for those building the future.\n\nAttendance is free, but curated - exclusively for holders of our POAPs and participants of key Ethereum events.\n\nPresented by\n\nETH CALI\n\nComunidad Oficial de Ethereum en Cali para el Pacifico Colombiano.\n\nHosted By\n\nETH CALI\n\n8 Going\n\nCrypto\n\n## Hosts ETH CALI - Construimos la WEB3 de Cali y el Pacífico Colombiano\n\nAbout the organiser: Comunidad Oficial de Ethereum en Cali para el Pacifico Colombiano.\n\n## Tickets Standard",
     "startDate": "2026-12-25T05:30:00.000Z",
     "endDate": "2026-12-30T01:00:00.000Z",
     "timezone": "America/Bogota",
@@ -1152,7 +1152,7 @@
       "fetchedAt": "2026-11-23T13:08:12.069Z",
       "method": "official-section",
       "pageTitle": "ETH CALI, A FRONTIER CITY · Luma",
-      "sha256": "4593c7bcd0bd53f91ae163a5c56b0efbf109194653f6285ec7ca22f9e71dadf7"
+      "sha256": "08aa4d72653fdb4118035fccb5987e5d1fb396a6d08df6916a59575793b14fbc"
     },
     "id": "discovery-evt-Ka8BADDI3GzanUg",
     "url": "https://luma.com/soi886zk",
@@ -1221,7 +1221,7 @@
   },
   {
     "name": "The Money Shift: Crypto, AI & The Future of Money",
-    "description": "Ashley is an energetic and ambitious Girlboss who quit the corporate 9-5 world to pursue her love of Crypto, travel and empowering others. Ashley is the creator of the Crypto Strategy Academy, a 7-week Crypto & Blockchain coaching program, author of “The Crypto Strategy Workbook for Youth” an interactive workbook that teaches youth about Crypto, NFTs and Blockchain, Founder of Fem T3ch (formerly Crypto Babes), a global community for women in tech and the Blacks on Blockchain, an initiative to increase the representation of the Black community in Crypto and Web3.Visit www.TheWrightSuccess.com for more info. IG: @TheWrightSucces\n\nEvent details\n\nDate: Nov 14, 2026, 16:00\nVenue: Centre for Social Innovation\nOrganised by: The Wright Success\nEvent page: https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
+    "description": "Ashley is an energetic and ambitious Girlboss who quit the corporate 9-5 world to pursue her love of Crypto, travel and empowering others. Ashley is the creator of the Crypto Strategy Academy, a 7-week Crypto & Blockchain coaching program, author of \"The Crypto Strategy Workbook for Youth\" an interactive workbook that teaches youth about Crypto, NFTs and Blockchain, Founder of Fem T3ch (formerly Crypto Babes), a global community for women in tech and the Blacks on Blockchain, an initiative to increase the representation of the Black community in Crypto and Web3.Visit www.TheWrightSuccess.com for more info. IG: @TheWrightSucces\n\nEvent details\n\nDate: Nov 14, 2026, 16:00\nVenue: Centre for Social Innovation\nOrganised by: The Wright Success\nEvent page: https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
     "startDate": "2026-11-14T11:00:00-05:00",
     "endDate": "2026-11-14T15:30:00-05:00",
     "city": "Toronto",
@@ -1245,7 +1245,7 @@
       "fetchedAt": "2026-11-10T19:33:14.145Z",
       "method": "official-section",
       "pageTitle": "The Money Shift: Crypto, AI & The Future of Money",
-      "sha256": "f8fd1d9437d52596df3444208af9afd79c2fc1858e250ad97d040ec56e76e6be"
+      "sha256": "f47c91c983ac6c356ae061e7ef66ca106b7fd070126285ee6c5869b2861778ae"
     },
     "id": "curated-money-shift-crypto-ai-future-money-2026-11-14",
     "url": "https://www.eventbrite.ca/e/the-money-shift-crypto-ai-the-future-of-money-tickets-1997326416077",
@@ -1325,7 +1325,7 @@
   },
   {
     "name": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering",
-    "description": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering Tickets, Monday, November 30 • 6:30 PM\n-  | Eventbrite • • • • • • Sales ended Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering C ByCrypto Gatherings Dawson 39 Restaurant & BarNew York, NY Monday, November 30 • 6:30 PM\n-  Overview Crypto Gathering - Discuss Everything Crypto ***FREE BITCOIN TOKEN (PHYSICAL COIN)*** Good to know Highlights • 3 hours • In person • Refund Policy Refunds up to 7 days before event Highlights • 3 hours • In person • Refund Policy Refunds up to 7 days before event Location Dawson 39 Restaurant & Bar 54 West 39th Street New York, NY 10018 How do you want to get there? • Driving • Public transport • Biking • Walking Organized by C Crypto Gatherings Report this event More events from Crypto Gatherings Discover more events from Crypto Gatherings, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit. • United States Events • New York Events • Things to do in New York, New York • New York networking • New York Business networking Sales ended Mon, Nov 30 • 6:30 PM",
+    "description": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering Tickets, Monday, November 30\n- 6:30 PM\n- | Eventbrite\n-\n-\n-\n-\n-\n- Sales ended Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering C ByCrypto Gatherings Dawson 39 Restaurant & BarNew York, NY\n\nMonday, November 30\n- 6:30 PM\n\nOverview Crypto Gathering - Discuss Everything Crypto ***FREE BITCOIN TOKEN (PHYSICAL COIN)*** Good to know Highlights\n- 3 hours\n- In person\n- Refund Policy Refunds up to 7 days before event Highlights\n- 3 hours\n- In person\n- Refund Policy Refunds up to 7 days before event Location Dawson 39 Restaurant & Bar 54 West 39th Street New York, NY 10018 How do you want to get there?\n- Driving\n- Public transport\n- Biking\n- Walking Organized by C Crypto Gatherings Report this event More events from Crypto Gatherings Discover more events from Crypto Gatherings, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit.\n- United States Events\n- New York Events\n- Things to do in New York, New York\n- New York networking\n- New York Business networking Sales ended Mon, Nov 30\n- 6:30 PM",
     "startDate": "2026-11-30T18:30:00-05:00",
     "endDate": "2026-11-30T21:30:00-05:00",
     "city": "New York",
@@ -1349,7 +1349,7 @@
       "fetchedAt": "2026-11-10T19:33:14.212Z",
       "method": "official-section",
       "pageTitle": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering",
-      "sha256": "3dccc5799de1c678b23d1fd8038dda0eb581f67efe93e6be899a057dd1223e9c"
+      "sha256": "6122aa92315b27c58d534aee1625cfa77890c750c704a4507a39b3b07e82967d"
     },
     "id": "curated-bitcoin-altcoins-cryptocurrency-enthusiast-night-crypto-gathering-2026-11-30",
     "url": "https://www.eventbrite.com/e/bitcoinaltcoins-cryptocurrency-enthusiast-night-crypto-gathering-tickets-1981206450827",
@@ -1369,7 +1369,7 @@
   },
   {
     "name": "Blockchain Tech Summit (4th Annual)",
-    "description": "Blockchain Tech Summit (4th Annual) Tickets, Tuesday, September 28, 2027 • 11 AM - 1 PM | Eventbrite • • • • Blockchain Tech Summit (4th Annual) ByGlobal Startup Ecosystem Location TBANew York, NY Tuesday, September 28, 2027 • 11 AM - 1 PM Overview Blockchain Tech Summit is the world’s most exclusive event featuring hundreds of entrepreneurs, investors, pioneers, and creatives together. Good to know Highlights • 2 hours • In person • Refund Policy No refunds Highlights • 2 hours • In person • Refund Policy No refunds Location Location TBA TBA New York, NY 10036 How do you want to get there? • Driving • Public transport • Biking • Walking Organized by Global Startup Ecosystem Report this event More events from Global Startup Ecosystem Discover more events from Global Startup Ecosystem, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit. • United States Events • New York Events • Things to do in New York, New York • New York networking • New York Business networking",
+    "description": "Blockchain Tech Summit (4th Annual) Tickets, Tuesday, September 28, 2027\n- 11 AM - 1 PM | Eventbrite\n-\n-\n-\n- Blockchain Tech Summit (4th Annual) ByGlobal Startup Ecosystem Location TBANew York, NY\n\nTuesday, September 28, 2027\n- 11 AM - 1 PM Overview Blockchain Tech Summit is the world's most exclusive event featuring hundreds of entrepreneurs, investors, pioneers, and creatives together. Good to know Highlights\n- 2 hours\n- In person\n- Refund Policy No refunds Highlights\n- 2 hours\n- In person\n- Refund Policy No refunds Location Location TBA TBA New York, NY 10036 How do you want to get there?\n- Driving\n- Public transport\n- Biking\n- Walking Organized by Global Startup Ecosystem Report this event More events from Global Startup Ecosystem Discover more events from Global Startup Ecosystem, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit.\n- United States Events\n- New York Events\n- Things to do in New York, New York\n- New York networking\n- New York Business networking",
     "startDate": "2027-09-28T11:00:00-04:00",
     "endDate": "2027-09-28T13:00:00-04:00",
     "city": "New York",
@@ -1387,7 +1387,7 @@
       "fetchedAt": "2026-11-10T19:33:14.255Z",
       "method": "official-section",
       "pageTitle": "Blockchain Tech Summit (4th Annual)",
-      "sha256": "c92b40ddc55640452c917cb3da6b013399e6d44fe3c50cff41e52946cb21e879"
+      "sha256": "89cbc2d3361c12d2ff0a0f8dcfcba80411a4ad07952ca965c79469707de5afdb"
     },
     "id": "curated-blockchain-tech-summit-4th-annual-2027-09-28",
     "url": "https://www.eventbrite.com/e/blockchain-tech-summit-4th-annual-tickets-1990305841349",
@@ -1396,7 +1396,7 @@
   },
   {
     "name": "CryptoMondays Bahamas Launch",
-    "description": "CryptoMondays lists its Bahamas chapter launch in Nassau, hosted by Rosalyn Brown. Registration requires approval. The page gives West Bay Street as the location but does not name a venue.",
+    "description": "CryptoMondays lists its Bahamas chapter launch in Nassau, hosted by Rosalyn Brown.\n\nRegistration requires approval. The page gives West Bay Street as the location but does not name a venue.",
     "startDate": "2026-10-26T22:00:00.000Z",
     "endDate": "2026-10-27T00:00:00.000Z",
     "timezone": "America/Toronto",
@@ -1436,7 +1436,7 @@
       "fetchedAt": "2026-10-20T09:30:11.717Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "CryptoMondays Bahamas Launch · Luma",
-      "sha256": "d335a9a913271a2bf96f582748732ebf64d88f9db09eebb56afde9669426c58a",
+      "sha256": "fd86d6e03ea49aca983ec6e953257d16d4a7b01af6d6e85d8c8dcf38d6672f7b",
       "evidence": [
         {
           "url": "https://luma.com/r6yn3i6o",
@@ -1543,7 +1543,7 @@
   },
   {
     "name": "MD Blockchain Association Virtual Happy Hour",
-    "description": "Maryland Blockchain Association hosts an online learning panel for blockchain professionals, developers and other participants from Maryland, the DMV and beyond, in partnership with Blockchain Legal Institute. The organizer will share a Zoom link. Registration requires approval.",
+    "description": "Maryland Blockchain Association hosts an online learning panel for blockchain professionals, developers and other participants from Maryland, the DMV and beyond, in partnership with Blockchain Legal Institute. The organizer will share a Zoom link.\n\nRegistration requires approval.",
     "startDate": "2026-11-10T00:00:00.000Z",
     "endDate": "2026-11-10T01:00:00.000Z",
     "timezone": "America/New_York",
@@ -1581,7 +1581,7 @@
       "fetchedAt": "2026-10-20T09:30:12.675Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "MD Blockchain Association Virtual Happy Hour · Luma",
-      "sha256": "a4cadb3aeb1949f85eb70359d4a8432e101d11c48011d8009b81f4e0762292ae",
+      "sha256": "771fc562963934bbac473ca03298db291679ad78bd7504c5bd4650ed21de7825",
       "evidence": [
         {
           "url": "https://luma.com/s2dc5b7l",
@@ -1606,7 +1606,7 @@
   },
   {
     "name": "Get Tech Vibes. Get Connected. Get Funded.",
-    "description": "## Get Tech Vibes. Get Connected. Get Funded. Free to attend, happy hour prices all night, and a free beer for the first guests through the door. Arrive before 6 PM. Vancouver's founders, angel investors, creators, and Web3 builders in one room. Hear from two serial founders with multiple exits, meet angel investors, and keep the night going with a live DJ. What to expect: • 5-6 PM: Doors + networking. Grab your free beer and appetizers early arrivals and meet founders, investors, and operators. • 6-7 PM: Founder AMA2 (starts sharply at 6). Real stories and straight answers from Hussein Hallak and Mike Nabavi, with angel investors on hand. Bring your questions. • 7 PM-close: Live DJ + networking. Keep the conversations going. On stage: Hussein Hallak is the author of the Amazon bestseller, The Dark Art of Life Mastery, and a serial entrepreneur with two exits and 22 businesses built across Damascus, Dubai and Vancouver. His first tech company was acqui-hired by Spacetoon, the Disney of the Middle East. He co-founded CreativeArab, the world's first and largest online marketplace of Middle Eastern art, built award-winning creative agencies, and led product, sales and strategy teams serving brands like P&G, Unilever, Universal and Disney. He was General Manager and Head Mentor of Launch Academy, Vancouver's largest startup hub, whose 6,500+ founders have gone on to raise over $2.5 billion. He spent two seasons on the tech panel of Our City with Kirk LaPointe on RoundHouse Radio, and was tech lead on MBC's No. 1 morning show, watched by 40 million viewers. Today he is founder and CEO of Next Decentrum and editor of The Streetlight on Substack. Mike Nabavi, six-time founder. He sold his first company, started in university, after growing it past 35 people. He drafted the business plan behind Guest-Tek's TSX IPO, consulted at Deloitte, ran a tech startup for a decade before exiting, and has since backed numerous startups. His payments venture LavaPay had a pipeline nearing $9M a month when its banks shut it down, which led to Omnieon, infrastructure for federated finance. Today he works as an interim or fractional executive for early-stage and owner-operated companies. Ask Mike anything, including what he got wrong. Who should come: founders looking to raise, investors looking for deal flow, and operators and creators building in Vancouver. Register to save your spot, and arrive early: capacity is limited and the free keg of beer goes to early guest arrivals. Presented by The Art Party (AV, sound, live DJs) · The Basement (160 capacity) · Hastings Crossing BIA · Vancouver News Livestream with support from Impresario Partners, a consulting and VC firm, (this event will be livestreamed to 10,000+ viewers) · Micro Media Solutions for photography · Canadian Allied Services for financial advice\n\nBringing new audiences into the Hastings corridor. Hastings Crossing BIA is an organization that takes a leadership role in managing change and shaping a more resilient, inclusive and sustainable local economy here in the Downtown Eastside. Through collaboration with its business members, grassroots, government, private sector and non-profit partners we bridge the needs of local businesses with the capacity of community focused organizations to foster a vibrant, healthy and diverse area for all – whether you’re here every day or just for the afternoon. This event brings new energy to the Hastings corridor and supports the Hastings Crossing BIA's work to grow local business and entrepreneurship pathways. More info: https://gettechvibes.com/",
+    "description": "## Get Tech Vibes. Get Connected. Get Funded. Free to attend, happy hour prices all night, and a free beer for the first guests through the door. Arrive before 6 PM. Vancouver's founders, angel investors, creators, and Web3 builders in one room. Hear from two serial founders with multiple exits, meet angel investors, and keep the night going with a live DJ.\n\nWhat to expect:\n- 5-6 PM: Doors + networking. Grab your free beer and appetizers early arrivals and meet founders, investors, and operators.\n- 6-7 PM: Founder AMA2 (starts sharply at 6). Real stories and straight answers from Hussein Hallak and Mike Nabavi, with angel investors on hand. Bring your questions.\n- 7 PM-close: Live DJ + networking. Keep the conversations going. On stage: Hussein Hallak is the author of the Amazon bestseller, The Dark Art of Life Mastery, and a serial entrepreneur with two exits and 22 businesses built across Damascus, Dubai and Vancouver. His first tech company was acqui-hired by Spacetoon, the Disney of the Middle East. He co-founded CreativeArab, the world's first and largest online marketplace of Middle Eastern art, built award-winning creative agencies, and led product, sales and strategy teams serving brands like P&G, Unilever, Universal and Disney. He was General Manager and Head Mentor of Launch Academy, Vancouver's largest startup hub, whose 6,500+ founders have gone on to raise over $2.5 billion. He spent two seasons on the tech panel of Our City with Kirk LaPointe on RoundHouse Radio, and was tech lead on MBC's No. 1 morning show, watched by 40 million viewers. Today he is founder and CEO of Next Decentrum and editor of The Streetlight on Substack. Mike Nabavi, six-time founder. He sold his first company, started in university, after growing it past 35 people. He drafted the business plan behind Guest-Tek's TSX IPO, consulted at Deloitte, ran a tech startup for a decade before exiting, and has since backed numerous startups. His payments venture LavaPay had a pipeline nearing $9M a month when its banks shut it down, which led to Omnieon, infrastructure for federated finance. Today he works as an interim or fractional executive for early-stage and owner-operated companies. Ask Mike anything, including what he got wrong. Who should come: founders looking to raise, investors looking for deal flow, and operators and creators building in Vancouver. Register to save your spot, and arrive early: capacity is limited and the free keg of beer goes to early guest arrivals. Presented by The Art Party (AV, sound, live DJs)\nThe Basement (160 capacity)\nHastings Crossing BIA\nVancouver News Livestream with support from Impresario Partners, a consulting and VC firm, (this event will be livestreamed to 10,000+ viewers)\nMicro Media Solutions for photography\nCanadian Allied Services for financial advice\n\nBringing new audiences into the Hastings corridor. Hastings Crossing BIA is an organization that takes a leadership role in managing change and shaping a more resilient, inclusive and sustainable local economy here in the Downtown Eastside. Through collaboration with its business members, grassroots, government, private sector and non-profit partners we bridge the needs of local businesses with the capacity of community focused organizations to foster a vibrant, healthy and diverse area for all - whether you're here every day or just for the afternoon.\n\nThis event brings new energy to the Hastings corridor and supports the Hastings Crossing BIA's work to grow local business and entrepreneurship pathways. More info: https://gettechvibes.com/",
     "startDate": "2026-11-11T00:00:00.000Z",
     "endDate": "2026-11-11T05:00:00.000Z",
     "timezone": "America/Vancouver",
@@ -1652,7 +1652,7 @@
       "fetchedAt": "2026-11-10T18:32:52.973Z",
       "method": "official-section",
       "pageTitle": "Get Tech Vibes. Get Connected. Get Funded. · Luma",
-      "sha256": "ec007dfd17ba4147a5682792e08975e715ab783c8173842b3e92746b228a3b03"
+      "sha256": "e9f3759d6d7187e604f50642aaf081c07b54dad963ebec1f501549b7d389459b"
     },
     "id": "discovery-evt-MRAfeaIFhOGrtMv",
     "url": "https://luma.com/lqr28m0r",
@@ -2066,7 +2066,7 @@
   },
   {
     "name": "Skyline Coworking",
-    "description": "Skyline offers Friday coworking for the Solana community in New York. Coffee and snacks are provided. Registration requires approval, and the address is shared with guests.",
+    "description": "Skyline offers Friday coworking for the Solana community in New York. Coffee and snacks are provided.\n\nRegistration requires approval, and the address is shared with guests.",
     "startDate": "2026-10-30T13:30:00.000Z",
     "endDate": "2026-10-30T21:30:00.000Z",
     "timezone": "America/New_York",
@@ -2106,7 +2106,7 @@
       "fetchedAt": "2026-10-20T09:30:22.825Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Skyline Coworking · Luma",
-      "sha256": "607add2b4a10614e8856a4cebf007a87ed4801b696a693a79d8a0b652be45728",
+      "sha256": "5c55ffb67404a08f059410d2b426e55e86d012e9c51e72211bdb3b974b97f37b",
       "evidence": [
         {
           "url": "https://luma.com/bpcyytyu",
@@ -2132,7 +2132,7 @@
   },
   {
     "name": "Skyline Coworking",
-    "description": "The Solana community meets for Friday coworking hosted by Skyline in New York. Coffee and snacks are included. Registration requires approval; the address is shared with guests.",
+    "description": "The Solana community meets for Friday coworking hosted by Skyline in New York. Coffee and snacks are included.\n\nRegistration requires approval; the address is shared with guests.",
     "startDate": "2026-11-06T14:30:00.000Z",
     "endDate": "2026-11-06T22:30:00.000Z",
     "timezone": "America/New_York",
@@ -2172,7 +2172,7 @@
       "fetchedAt": "2026-10-20T09:30:23.414Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Skyline Coworking · Luma",
-      "sha256": "2dd21f6810743bf88d93390ce7be156d49c10795cd064834f033df09780d9e00",
+      "sha256": "51fb83690563dff971792f68cfa9b2bcd77b7ee040f75ecd5cbd261552c3075a",
       "evidence": [
         {
           "url": "https://luma.com/8hday6u7",
@@ -2498,7 +2498,7 @@
   },
   {
     "name": "Community Roundtable",
-    "description": "Community Roundtable · LumaSkip to Content\n\nPresented by\n\nFort Worth DAO\n\nWeb3 Excellence of Fort Worth\n\nHosted By\n\nTobalo Valderas\n\n2 Going\n\nCrypto\n\nCommunity Roundtable\n\nFort Worth DAO\n\nThe DEC Network @ Fort Worth\n\nFort Worth, United States\n\nRegistration\n\nWelcome! To join the event, please register below.\n\nAbout Event\n\n​Weekly Fort Worth DAO Community Roundtable.\n\n​All are welcomed to get involved and see how the DAO works + bring any open questions or issues related to Deep Tech.\n\n​We discuss our active event planning, programs, current events, and more.\n\n​Get involved with a modern day digital sovereignty focused guild!\n\nLocation\n\nThe DEC Network @ Fort Worth\n\n600 Bryan Ave #220, Fort Worth, TX 76104, USA\n\nPresented by\n\nFort Worth DAO\n\nWeb3 Excellence of Fort Worth\n\nHosted By\n\nTobalo Valderas\n\n2 Going\n\nCrypto\n\n## Hosts Tobalo Valderas — Educator & Builder\n\nAbout the organiser: Web3 Excellence of Fort Worth\n\n## Tickets Standard",
+    "description": "Community Roundtable - LumaSkip to Content\n\nPresented by\n\nFort Worth DAO\n\nWeb3 Excellence of Fort Worth\n\nHosted By\n\nTobalo Valderas\n\n2 Going\n\nCrypto\n\nCommunity Roundtable\n\nFort Worth DAO\n\nThe DEC Network @ Fort Worth\n\nFort Worth, United States\n\nRegistration\n\nWelcome! To join the event, please register below.\n\nAbout Event\n\nWeekly Fort Worth DAO Community Roundtable.\n\nAll are welcomed to get involved and see how the DAO works + bring any open questions or issues related to Deep Tech.\n\nWe discuss our active event planning, programs, current events, and more.\n\nGet involved with a modern day digital sovereignty focused guild!\n\nLocation\n\nThe DEC Network @ Fort Worth\n\n600 Bryan Ave #220, Fort Worth, TX 76104, USA\n\nPresented by\n\nFort Worth DAO\n\nWeb3 Excellence of Fort Worth\n\nHosted By\n\nTobalo Valderas\n\n2 Going\n\nCrypto\n\n## Hosts Tobalo Valderas - Educator & Builder\n\nAbout the organiser: Web3 Excellence of Fort Worth\n\n## Tickets Standard",
     "startDate": "2026-11-25T18:00:00.000Z",
     "endDate": "2026-11-25T19:00:00.000Z",
     "timezone": "America/Chicago",
@@ -2544,7 +2544,7 @@
       "fetchedAt": "2026-11-23T13:07:07.219Z",
       "method": "official-section",
       "pageTitle": "Community Roundtable · Luma",
-      "sha256": "0fc0f2c00c6679db25a5ba6f10e67f5303b4234d45717543281b1302b0b3fe91"
+      "sha256": "8f60d6ec94420505c955f2d0a53a160acf0e7a39cf4c023c8b6ac94b019a3d2e"
     },
     "id": "discovery-evt-3BQ0bAwC0Zr5l8H",
     "url": "https://luma.com/otbfbzcd",
@@ -3064,7 +3064,7 @@
   },
   {
     "name": "Oslo Blockchain Meetup - Nexa",
-    "description": "Bitcoin Unlimited member jQrgen presents Nexa's design and development work. An interactive demonstration follows, giving participants hands-on experience with Wally Wallet and a website built using Nexa AI skills. The event includes pizza.",
+    "description": "Bitcoin Unlimited member jQrgen presents Nexa's design and development work. An interactive demonstration follows, giving participants hands-on experience with Wally Wallet and a website built using Nexa AI skills.\n\nThe event includes pizza.",
     "startDate": "2026-10-28T17:00:00+01:00",
     "endDate": "2026-10-28T19:00:00+01:00",
     "city": "Oslo",
@@ -3084,7 +3084,7 @@
       "fetchedAt": "2026-10-20T09:30:32.706Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Oslo Blockchain Meetup - Nexa, Wed, Oct 28, 2026, 5:00 PM   | Meetup",
-      "sha256": "e8af918c06604ce3169f433eea82f7a714dc6a702a008e8eb8ec43f9bfeb579b",
+      "sha256": "dc2df77ae66727281828bac95ba48584ea757fa0d4701260f587f15147f75d96",
       "evidence": [
         {
           "url": "https://www.meetup.com/oslo-blockchain-meetup/events/316768752/",
@@ -3110,7 +3110,7 @@
   },
   {
     "name": "Krypto-skatt v/ Reese Legal",
-    "description": "Krypto-skatt v/ Reese Legal, Wed, Nov 25, 2026, 5:00 PM | Meetup\n\nSkip to content\n\nKrypto-skatt v/ Reese Legal\n\nHosted by Magg\n\nOslo Blockchain Meetup\n\nWednesday, Nov 25 · 5:00 PM to 7:00 PM CET\n\nUniversitetsgata 2\n\nUniversitetsgata 2 · Oslo\n\nKrypto-skatt v/ Reese Legal\n\nHosted by Magg\n\nOslo Blockchain Meetup\n\nDetails\n\nKrypto-skatt: Reese Legal kommer til Oslo Blockchain Meetup!\n\nSkattereglene for\n\n• gevinst og tap ved salg av kryptovaluta, DEFI-transaksjoner, lån, gaver etc.\n\n• formue i kryptovaluta\n\nHvordan beregne gevinst, tap og formue riktig (selv med mange transaksjoner).\n\nTips til verktøy for beregning og dokumentasjon.\n\nHvordan kryptovaluta skal føres i skattemeldingen - praktisk veiledning.\n\nHva man konkret risikerer hvis det blir feil eller ikke rapporterer.\n\nDe vanligste feilene, og hvordan unngå dem.\n\nEksempler fra Skatteetatens praksis.\n\nDokumentasjon av midlenes opprinnelse.\n\nSend gjerne spørsmål på forhånd til hrh@reeselegal.no\n\nEtter presentasjonen går vi til en bar like ved og er sosiale.\n\nSponsor: https://events.kaupr.io/\n\nSponsor: https://reeselegal.no\n\nRelated topics\n\nEvents in Oslo, NO\n\nBitcoin\n\nBlockchain\n\nEthereum\n\nWeb 3.0\n\nTechnology\n\nYou may also like",
+    "description": "Krypto-skatt v/ Reese Legal, Wed, Nov 25, 2026, 5:00 PM | Meetup\n\nSkip to content\n\nKrypto-skatt v/ Reese Legal\n\nHosted by Magg\n\nOslo Blockchain Meetup\n\nWednesday, Nov 25 - 5:00 PM to 7:00 PM CET\n\nUniversitetsgata 2\n\nUniversitetsgata 2 - Oslo\n\nKrypto-skatt v/ Reese Legal\n\nHosted by Magg\n\nOslo Blockchain Meetup\n\nDetails\n\nKrypto-skatt: Reese Legal kommer til Oslo Blockchain Meetup!\n\nSkattereglene for\n\n- gevinst og tap ved salg av kryptovaluta, DEFI-transaksjoner, lån, gaver etc.\n\n- formue i kryptovaluta\n\nHvordan beregne gevinst, tap og formue riktig (selv med mange transaksjoner).\n\nTips til verktøy for beregning og dokumentasjon.\n\nHvordan kryptovaluta skal føres i skattemeldingen - praktisk veiledning.\n\nHva man konkret risikerer hvis det blir feil eller ikke rapporterer.\n\nDe vanligste feilene, og hvordan unngå dem.\n\nEksempler fra Skatteetatens praksis.\n\nDokumentasjon av midlenes opprinnelse.\n\nSend gjerne spørsmål på forhånd til hrh@reeselegal.no\n\nEtter presentasjonen går vi til en bar like ved og er sosiale.\n\nSponsor: https://events.kaupr.io/\n\nSponsor: https://reeselegal.no\n\nRelated topics\n\nEvents in Oslo, NO\n\nBitcoin\n\nBlockchain\n\nEthereum\n\nWeb 3.0\n\nTechnology\n\nYou may also like",
     "startDate": "2026-11-25T17:00:00+01:00",
     "endDate": "2026-11-25T19:00:00+01:00",
     "city": "Oslo",
@@ -3130,7 +3130,7 @@
       "fetchedAt": "2026-11-23T13:07:06.236Z",
       "method": "official-section",
       "pageTitle": "Krypto-skatt v/ Reese Legal, Wed, Nov 25, 2026, 5:00 PM | Meetup",
-      "sha256": "f05a3d52beb2e174eb6ed793d6db0a8386f2811d6f10c61eeef7d1f6c41f9d0f"
+      "sha256": "f1b306eeb0581a7106709f9c8ec53b556d1f79ec12fc30730984344e48d52b37"
     },
     "id": "mu-316768461",
     "url": "https://www.meetup.com/oslo-blockchain-meetup/events/316768461/",
@@ -3199,7 +3199,7 @@
   },
   {
     "name": "Founders' Society Meetup",
-    "description": "Superteam Poland hosts founder talks and Q&A during Poland Tech Week. The announced programme includes Antoni Kiszka of Derpetual and Jakub of Reflect, followed by discussion, pizza and drinks. Registration requires host approval.",
+    "description": "Superteam Poland hosts founder talks and Q&A during Poland Tech Week. The announced programme includes Antoni Kiszka of Derpetual and Jakub of Reflect, followed by discussion, pizza and drinks.\n\nRegistration requires host approval.",
     "startDate": "2026-10-28T17:00:00.000Z",
     "endDate": "2026-10-28T21:00:00.000Z",
     "timezone": "Europe/Warsaw",
@@ -3241,7 +3241,7 @@
       "fetchedAt": "2026-10-20T09:30:34.263Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "FOUNDERS' SOCIETY MEETUP · Luma",
-      "sha256": "4075ff709de03ea93e090d1e3472892cd5582f654af4373ec43b28c4a853e97b",
+      "sha256": "b6055110974a612fd97b914664d51198e6623f5139d3c6441cf2361499c3da25",
       "evidence": [
         {
           "url": "https://luma.com/FoundersSociety",
@@ -3319,7 +3319,7 @@
   },
   {
     "name": "onchainaustria.at Weihnachtsfeier 2026: BUNKER MODE",
-    "description": "**Not your bunker, not your Christmas party!** Es wird wieder Zeit für ein physisches Treffen der OnchainAustria Community! Nach einem weiteren wilden Jahr voller Kursachterbahnen, Hacks, Scams, AI-Paranoia und Crypto-Chaos ziehen wir uns gemeinsam in den Bunker zurück und lassen das Jahr bei einem gemütlichen Get-together ausklingen. Passend zum Motto **BUNKER MODE** treffen wir uns in der ehemaligen *Bunkerei*, heute **Schankwirtschaft im Augarten**, direkt neben dem Wiener Flakturm. Eine passendere Location hätten wir wohl kaum finden können. Drinks, gute Gespräche und jede Menge Crypto-Talk – von Bitcoin und Ethereum über DeFi bis zu Self Custody, Hardware Wallets und der Frage, wie paranoid man 2026 eigentlich schon sein muss. Egal ob alter onchainaustria-Hase oder zum ersten Mal dabei: Alle Crypto-Interessierten sind herzlich willkommen! ** Wann:** Mittwoch, 18. November 2026 ** Wo:** Schankwirtschaft im Augarten (ehemals Bunkerei), Wien – direkt neben dem Flakturm ** Motto:** BUNKER MODE Wir freuen uns auf einen gemütlichen Abend mit euch! **Stay safe. Stay onchain. See you in the bunker!**",
+    "description": "Not your bunker, not your Christmas party!** Es wird wieder Zeit für ein physisches Treffen der OnchainAustria Community! Nach einem weiteren wilden Jahr voller Kursachterbahnen, Hacks, Scams, AI-Paranoia und Crypto-Chaos ziehen wir uns gemeinsam in den Bunker zurück und lassen das Jahr bei einem gemütlichen Get-together ausklingen. Passend zum Motto **BUNKER MODE** treffen wir uns in der ehemaligen *Bunkerei*, heute **Schankwirtschaft im Augarten**, direkt neben dem Wiener Flakturm. Eine passendere Location hätten wir wohl kaum finden können. Drinks, gute Gespräche und jede Menge Crypto-Talk - von Bitcoin und Ethereum über DeFi bis zu Self Custody, Hardware Wallets und der Frage, wie paranoid man 2026 eigentlich schon sein muss. Egal ob alter onchainaustria-Hase oder zum ersten Mal dabei: Alle Crypto-Interessierten sind herzlich willkommen! ** Wann:** Mittwoch, 18. November 2026 ** Wo:** Schankwirtschaft im Augarten (ehemals Bunkerei), Wien - direkt neben dem Flakturm ** Motto:** BUNKER MODE Wir freuen uns auf einen gemütlichen Abend mit euch! **Stay safe. Stay onchain. See you in the bunker!",
     "startDate": "2026-11-18T18:00:00+01:00",
     "endDate": "2026-11-18T21:00:00+01:00",
     "city": "Wien",
@@ -3341,7 +3341,7 @@
       "fetchedAt": "2026-11-10T19:33:14.498Z",
       "method": "official-section",
       "pageTitle": "🎄 onchainaustria.at Weihnachtsfeier 2026 – BUNKER MODE 🔐, Wed, Nov 18, 2026, 6:00 PM | Meetup",
-      "sha256": "b06208c06d4050ec41aeaa7079b64b7570bb4c42b0d4af7172f57723c0779a30"
+      "sha256": "2ee27beee64b7287c28cc6fa7d4cfac7584990491af0104347ba09c4704c612e"
     },
     "id": "mu-316959157",
     "url": "https://www.meetup.com/onchainaustria/events/316959157/",
@@ -3415,7 +3415,7 @@
   },
   {
     "name": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
-    "description": "Satoshi Radio listeners meet at Café de Roemer in Haarlem during Bitcoin Amsterdam. Registration is free and capacity is limited. An optional buffet is paid separately; the café accepts Bitcoin payments.",
+    "description": "Satoshi Radio listeners meet at Café de Roemer in Haarlem during Bitcoin Amsterdam.\n\nRegistration is free and capacity is limited. An optional buffet is paid separately; the café accepts Bitcoin payments.",
     "startDate": "2026-11-05T18:00:00+01:00",
     "endDate": "2026-11-05T22:00:00+01:00",
     "city": "Haarlem",
@@ -3436,7 +3436,7 @@
       "fetchedAt": "2026-10-20T09:30:37.285Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Satoshi Radio Meetup (Bitcoin Amsterdam), Thu, Nov 5, 2026, 6:00 PM   | Meetup",
-      "sha256": "acd18f7204aa6691d997048ec6a69ffe2bc1f5733c2d299507f51ec7d95ce456",
+      "sha256": "018714838d3833f78b10418f8be6a4b54029a6481b255723dc937326cf0dd01d",
       "evidence": [
         {
           "url": "https://www.meetup.com/satoshi-radio-meetup/events/316748938/",
@@ -3557,7 +3557,7 @@
   },
   {
     "name": "Bitfest 2026",
-    "description": "Bitfest 2026 — The UK's Largest Bitcoin Festival | Manchester Bitfest 2026 — The UK's Largest Bitcoin Festival • About Us • Events • Bitflix • Nostrshire • Hackathon • nPub Dub • Bitfest • Pepe.X • NME Concert • Sunday Social • FULL AGENDA • Get Tickets • Partners • Collaborate • Media • Cinematics • Blog • Gallery • Media Kit • FAQ • Join Us 19 - 22 NOVEMBER 2026 PENDULUM HOTEL, MANCHESTER WHAT IS BITFEST? Bitfest is the UK’s flagship Bitcoin festival. The 2026 edition is a four-day Bitcoin festival in Manchester, taking place from 19–22 November 2026. It brings together Bitcoiners, builders, communities, artists, families and newcomers for talks, workshops, an expo, art, cinema, gaming, live music, Nostr and freedom technology. So… is it a conference? Well, yes and no. Bitfest is a space where people from all walks of life can come together for a weekend powered by Bitcoiners. It’s about community as much as it is about technology: a place to connect, learn, explore, and actually experience Bitcoin culture in action. While talks and panels are part of the programme, Bitfest goes far beyond a traditional conference – incorporating talks, discussions and hands-on workshops covering not just Bitcoin, but other freedom-adjacent topics. Our inaugural event, Bitfest 2025, featured 5 events and 8 themed zones across 3 days, with 60+ speakers and artists, all hosted across multiple nearby venues. And now Bitfest is back for 2026. Bigger, louder and with even more to explore! This year’s programme brings together a staggering 8 events and 9 zones, creating an even bigger celebration of Bitcoin, freedom technology, creativity and the communities building the future. Bitfest is designed for everyone – whether you’re deep in the space or just getting started. It’s family-friendly too and so bring the kids along! Day 0 also features Nostrshire, the UK’s first full-scale conference dedicated entirely to Nostr. EVENTS Bitfest isn’t just one event — it’s a whole weekend of them. From Nostr and Bitcoin conferences to live music, internet culture, social events and everything in between, each event has its own character, community and reason to be here. Explore the events that make up Bitfest 2026. THERE’S MORE TO EXPLORE ZONES Across the festival you’ll find nine themed zones, each bringing a different side of Bitcoin and freedom technology to life. From talks and hands-on workshops to gaming, music, art, business and a place for the kids, there’s plenty to explore beyond the main stage. CONFERENCE TALKS & PANELS Hear from leading Bitcoin professionals, builders and people advocating for Bitcoin and Nostr. WORKSHOP / HACK ZONE DIY Build, learn and collaborate across two days of workshops, unconference sessions and the Bitfest 2026 Hackathon. Explore the Hackathon EXHIBITION PROJECT AND BUSINESS EXPO Discover and catch up with the latest projects and businesses building on Bitcoin. GALLERY BY PEPE.X BITCOIN ART EXHIBITION A visual celebration of Bitcoin culture, digital art, memes and creative experiments, bringing the weird, wonderful and wildly creative side of the internet into the real world. FREEDOM FEST FREEDOM & SOVEREIGNTY TECH Explore privacy, digital rights, civil liberties and freedom technology through Freedom Fest — a distinct event running alongside Bitfest on Saturday. FREEDOM FEST GAMING GAMES & COMPETITIONS Enter the gaming zone to discover Bitcoin-powered games and participate in competitive gaming sessions. MUSIC NEW MUSIC ECONOMY & VALUEVERSE Entertainment led by musicians utilising New Music Economy tooling in the Valueverse. NETWORKING DRINKS, FOOD & BANTER Mix and mingle networking zones in both the Pendulum Café during the day and The Shack NQ in the evening. KIDS BITCOIN JUNIORS A safe, supervised space for kids to play, create and have fun, with DBS-checked staff so parents can leave them safely and catch a talk, explore the festival or grab a bit of peace and quiet. PRE-PARTY BITFLIX & PRE-EVENT RECEPTION 4:30pm - 1am — 19 NOVEMBER — PENDULUM HOTEL/THE TAP HOUSE Kick off the Bitfest weekend with The Six Billion Dollar Man, Eugene Jarecki’s award-winning documentary exploring Julian Assange, WikiLeaks and the price of truth. Fittingly, when traditional gatekeepers blocked the film, it found a route to audiences through the Bitcoin community. Full Bitfest ticket holders can then join our exclusive pre-event drinks reception to meet fellow Bitcoiners and get the weekend started. HACKATHON 20–21 NOVEMBER · MOMENTUM SUITE BUILD SOMETHING BITFEST HACK ZONE + HACKATHON More than 24 hours of building across Nostrshire + Bitfest. The Bitfest Hack Zone combines an open-format Bitcoin & Nostr Hackathon with participant-led workshops, demos, talks and unconference sessions. Bring an idea. Find a team. Join a build. Or just come and learn. 2 DAYS Friday + Saturday 24+ HOURS From kick-off to submission OPEN FORMAT Bitcoin and/or Nostr Supported by EXPLORE THE HACK ZONE DAY 0 NOSTRSHIRE 9am - 6pm — 20 NOVEMBER — PENDULUM HOTEL Nostrshire is the UK’s first full-scale Nostr conference, bringing together builders, developers, creatives and enthusiasts under one roof, all in one day. We would have added freedom fighters to the list, but we would say that all these people are on the cutting edge of freedom, privacy and decentralisation technology. TANJA BÄCHLE MC NATHAN DAY Attestr + Gamestr DEREK ROSS Soapbox AJ MC PABLO DENVER BAO.MARKETS GEMMA Yojimble THE CRYPTO DONKEY ForgeSworn PETER YARED Layer3.press TOM DWYER BITS SHORT FIAT Fanfares.io BEN ARC LNBits/Nostr.com DAN GERSHONY Angor.io AVI BURRA Plebchain Radio CONSTANT Philosopher RÂU CAO Kosmos MARTTI MALMI Iris AARON OF ESSEX New Music Nudge Unit ARKINOX BITPOPART Bitcoin PopArt DAN CONWAY ngit / gitworkshop DANIEL PRINCE Once Bitten Podcast EL PRESIDENTO BENITO Cypherpunk Anarchy OSCAR MERRY Fountain.fm TIM Free Cities Foundation ZAZA protocolux.com KARLIATTO Bleskomat/ContextBTC.org NOSTRSHIRE AFTERPARTY NPUB DUB 6:30pm - 4am — 20 NOVEMBER — THE SHACK NQ Connecting rebel music with rebel money and rebel technology. nPub Dub brings reggae, dub and sound system culture together with Bitcoin, Nostr and the New Music Economy. Expect soundsystem legends, artists, performances and plenty of vibes. DJ KULLAR ROOTS REBELLION RAS KEYLEB MAD MUNKY KIRIT MAGIC DAY 1 BITFEST 9am - 6pm — 21 NOVEMBER — PENDULUM HOTEL Bitfest is the centrepiece of the weekend. A full day bringing the wider Bitcoin world together under one roof for talks, workshops, exhibitions, art, culture, technology and a healthy amount of organised chaos. From developers and entrepreneurs to artists, activists, educators and everyday Bitcoiners, it’s a day built around the people, ideas and communities pushing Bitcoin forward. JOE NAKAMOTO MC SUSIE VIOLET WARD Bitcoin Policy UK/ Journalist NICHOLAS ANTHONY HRF CBDC Tracker JAN-WILLEM BURGERS Deciphering Bitcoin BEN DE WAAL Cyber Anarchist/Bitcoin OG GARY SMITH BSE Conference ROB GASKELL Appold KARLIATTO Bleskomat/ ContextBTC.org KITCHEN MISHAP Kitchen Mishap BITOSHI BLOCKAMOTO Bitmap.land PHILIP CHARTER Totally Human Writer NZONDA FOTSING Conférence Bitcoin Afrique AARON OF ESSEX New Music Nudge Unit GRAHAM COOK BTC Proof of Play ROBIN THATCHER The Bitcoin & Crypto accountant ROSS EDWARDS Queen's University Belfast JAKE Lightning Piggy ALEX WALTZ 1st Bitcoin Miner SAMANTHA DE WAAL HALIMA ABBA What's Haute With Halima VLAD COSTEA Bitcoin Takeover Podcast DENAY SAMOSA satsparty.com DJURI BTClock NODERUNNERS RADIO Noderunners Radio AJ MC AVI BURRA Plebchain Radio BITROOT RootSeed CRYPTORAPTOR CryptoRaptor Toons DAN GERSHONY Angor.io DANIEL PRINCE Once Bitten Podcast DAVID Musqet DR. PETER CONNOR Scottish Bitcoin Conference ENDO FZERO Ninefold JIM CRANE Audionals.com KETO MINER LAURA DAY NATHAN DAY Attestr + Gamestr PATRICK VAN DER MEIJDE Arnhem Bitcoinstad PETRA Zaprana REBEL MONEY Rebel Money RENATO SCHIAVINATO LOPEZ RICK MESSIT ROGER9000 Musician TANJA Terahash TIM Free Cities Foundation TOBY Reserve METAMICK Geyser.fund OSCAR MERRY Fountain.fm NAT COLE 2140Art/2140Music SECURE YOUR SPOT TODAY! Get Tickets! DAY 1 PEPE.X ALL DAY — 21 NOVEMBER — GALLERY & EXPO ZONE Pepe.X is where Bitcoin internet culture escapes the timeline and becomes a real-world experience. Memes, digital art, games, creators, collectors and unapologetically online culture collide in a space celebrating the weird, creative and occasionally ridiculous side of the Bitcoin community. Serious conference behaviour is entirely optional. NATHAN SONIC PEPENARDO FZERO REBEL MONEY DARKY CRYPSI BITPOPART MAD MUNKY MR.HANSEL ARWYN CHIEF MONKEY ZEDERWAN EAZY B INDELIBLE AKME MARS ROBERTSON THE BITCOIN QUEEN KITCHEN MISHAP BITOSHI BLOCKAMOTO DECENTED VIVA LA VANDAL AFTERPARTY NEW MUSIC ECONOMY CONCERT 6:30pm - 4am — 21 NOVEMBER — THE SHACK NQ The New Music Economy brings together musicians, DJs, creators and fans exploring what happens when music meets Bitcoin, Nostr and Value for Value. Part concert, part experiment and part late-night celebration, it’s about putting artists and audiences back in control — then turning the volume up and seeing what happens. ROGER 9000 G.O.L.D LONGY BLADE AKME Blush AIRKLIPZ HORSEHEADS ANDY PRINCZ ROOTZALL MAD MUNKY FISHBRAIN DELTA KID WATTSY SITES ZAZA NATHAN ABBOTT EDWIN WILLIAMSON MISHKIN FITZGERALD AARON OF ESSEX CRYPTORAPTOR DEN JIM CRANE THE CRYPTO DONKEY DAY 2 BITFEST SUNDAY SOCIAL 22 NOVEMBER — VARIOUS LOCAL VENUES Bitfest Sunday Social is the relaxed final chapter of the weekend. A chance to grab some food, have a drink, reconnect with people you met along the way and squeeze in a few more conversations before everyone heads home. No stages, no packed schedules and no rushing between talks; just Bitcoiners, friends and communities hanging out properly after a very busy couple of days. GUIDED BITCOIN WALK: REBELS & RADICALS 10:30am\n-  MEETING POINT: PENDULUM HOTEL A guided walking tour of Manchester city centre. Included in your weekend ticket. Route & details BEER & CHILL 1pm till late SANDBAR DJ, beer and stone-baked pizzas. Sandbar website GET YOUR TICKETS! Secure your spot at the UK’s largest Bitcoin festival. One price — all zones. £199 With a range of ticket options available including Student concessionary, Child, Family and one day passes, Bitfest is accessible to everyone! Bitcoin and Fiat Payments accepted! GET TICKETS OUR PARTNERS Companies who have worked or exhibited with us. Media & LISTING PARTNERS Media & listing partners helping to get the word out there! WORK WITH US Bitfest is a grassroots event and community working to communicate, educate and collaborate, putting community and creativity first. Interested in getting involved with one of the most interesting Bitcoin events across the globe? Use the forms below to get in touch! SPEAK/SHOWCASE AT BITFEST BECOME A SPEAKER EXHIBIT AT BITFEST BECOME A SPEAKER BECOME AN EXHIBITOR BECOME AN EXHIBITOR CINEMATICS Watch videos and scenes from Bitfest 2025! \n-  8:32 5:39 3:52 3:46 6:18 2:35 SUBSCRIBE AND SEE MORE VIDEOS... (or keep scrolling…) CATCH UP Our 2025 launch incorporated 5 events across 8 zones. Want the scoop on how things started? Read our blogs from Bitfest 2025. BITFEST 2025 - DAY 0: NOSTRSHIRE A quick recap of Bitfest's Day 0 event, Nostrshire, the UK's first-ever, full-scale Nostr conference. Read More BITFEST 2025 - DAY 1 We recap the happenings on Day 1 of Bitfest 2025. The UK's largest Bitcoin conference festival! 🎪 Read More BITFEST 2025 - DAY 2 We recap the final day of the UK's largest Bitcoin conference-festival. With 5 events and 8 zones Bitfest was created to be a bastion of Bitcoin education, culture and community for the UK. Bitcoiners together strong! 💪 Read More 2025 GALLERY Check out some of the action from Bitfest 2025. SEE MORE FAQ What is Bitfest? Bitfest is the UK’s flagship Bitcoin festival, bringing together Bitcoin, Nostr, freedom technology, music, art, culture, workshops, gaming, businesses and communities for one packed long weekend in Manchester. When is Bitfest 2026? Bitfest 2026 runs from 19–22 November 2026, with different events taking place across the long weekend. Where is Bitfest? Bitfest’s main venue is The Pendulum Hotel in Manchester, with events taking place at nearby venues throughout the weekend. Do I need to know about Bitcoin to attend? Absolutely not. Bitfest is for everyone — from people who have been running nodes for years to people who have only just heard about Bitcoin. Come curious, ask questions and get involved. How do I get to Bitfest? Driving From the North — M6 / M61 Follow the M6/M61 towards Manchester, then join the M60 following signs for Stretford. Take M60 Junction 12 and join the M602 towards Salford/Manchester. At the end of the M602, follow the A57 towards Manchester. Continue onto the A57(M) Mancunian Way and take the second exit, then immediately follow the slip road signed University/Sackville Street. The Pendulum is on Sackville Street. From the South & Midlands — M6 Follow the M6 north and leave at Junction 19, taking the A556 towards Manchester. At the Bowdon roundabout, take the third exit onto the M56 towards Manchester Airport/Manchester. Continue to the end of the M56 and follow the A5103 towards Manchester. At the roundabout beneath the road, take the third exit following A57(M) / Sheffield signs, then take the second exit up the ramp onto the A57(M). Take the next exit signed University and immediately fork left onto the slip road for University/Sackville Street. The Pendulum is ahead on Sackville Street. From London — M40 / M42 / M6 Follow the M40 north, then the M42/M6 towards Manchester. Continue on the M6 north and leave at Junction 19, then follow the South & Midlands directions above via the A556 and M56. From Manchester Airport — M56 Take the M56 towards Manchester. At the end of the motorway, continue onto the A5103 towards Manchester and follow the same route as above: take the third exit at the roundabout following A57(M) / Sheffield, then the second exit onto the A57(M). Take the next exit signed University and follow the slip road for University/Sackville Street. Public Transport From Manchester Piccadilly: The Pendulum is around a 10–15 minute walk from Manchester Piccadilly station, or a short taxi ride. From Manchester Oxford Road: The Pendulum is only a few minutes’ walk from Manchester Oxford Road station. From Manchester Airport: Direct trains run from Manchester Airport to Manchester Piccadilly, normally taking around 20 minutes. From Piccadilly, The Pendulum is a short walk or taxi ride. Manchester is also well connected by rail from cities across the UK, including London, Birmingham, Leeds, Liverpool and Sheffield. Is there parking nearby? Yes. There are several car parks within walking distance of The Pendulum, including NCP Circle Square on Oxford Road, which is just a couple of minutes from the hotel. We’ll add further details, including any Bitfest/Pendulum parking discounts or codes, here once confirmed. What does my ticket include? There are several ticket options depending on how much of the festival you want to experience. A Full Bitfest Ticket gives you access across the main festival programme and includes the exclusive Bitflix Pre-Event Reception. Can I buy a One Day Pass? Yes. A One Day Pass can be used for Nostrshire on 20 November or Bitfest on 21 November, and includes access to all zones and the relevant afterparty. What is Bitflix? Bitflix is our Bitcoin Film Zone, returning this year as a pre-festival event. It kicks off the festival with a screening of The Six Billion Dollar Man, followed by the Bitflix Pre-Event Reception. It’s a chance to start the weekend with a great film, good conversation and the wider Bitfest community. Who can attend the Bitflix Pre-Event Reception? The Pre-Event Reception is an exclusive benefit for Full Bitfest Ticket holders. One Day Pass and Afterparty-only tickets do not include access to the reception. Are children welcome at Bitfest? Yes. Bitfest is family-friendly, and children are welcome. For ticketing purposes, a child is anyone under 16. Can I leave my children in the Kids Zone? Yes. The Kids Zone is a supervised play space for children during the festival where they can play safely while parents enjoy the event. It is not intended as a formal childcare or day-care service. The team are DBS checked and appropriate safeguarding procedures are in place. Where can I see the full agenda? The full agenda, including timings, speakers, workshops, performances and other programme details, will be published separately as we get closer to the festival. Can I pay for my ticket with Bitcoin? Yes. Bitfest tickets are available to purchase in Bitcoin or fiat. I've never been to a Bitcoin event before. Will I fit in? Definitely. Bitfest is deliberately broader than a traditional Bitcoin conference. Whether you’re a hardcore Bitcoiner, a Nostr user, a builder, artist, musician, entrepreneur, parent or simply curious about what all the fuss is about, you’re welcome. Are there any discount codes for accommodation? Yes. We’ve secured a discounted accommodation rate at The Pendulum Hotel, our main venue in Manchester city centre — Sackville Street, about a 5-minute walk from Piccadilly Station. Book at the Bitfest rate using code BITFEST — Book now. If the Pendulum is full, there are several other hotels within a few minutes’ walk of the venue. The closest are the ibis Manchester Centre (Princess Street) and the Maldron Hotel Manchester City Centre, both on Charles Street. Also nearby: Motel One Manchester-Piccadilly, Premier Inn Manchester City (Piccadilly), Travelodge Manchester Piccadilly and Malmaison Manchester. We’re still confirming rates and discount codes with other local hotels — anything we secure will be added here. I have a different question. How can I get in contact? Complete the form below and we’ll be in touch as soon as possible. REGISTER YOUR INTEREST Register now to join our community and get notified about Bitfest updates! Design by 2140Art X-twitter Youtube Instagram Logos by RareWelsh FREEDOM FEST ↗ Service notice Checkout under maintenance We’re currently carrying out maintenance and updates on our ticket checkout. Estimated downtime until 11:59pm, Tuesday 10 November 2026 Please try again later. Questions? info@bitfest.uk",
+    "description": "Bitfest 2026 - The UK's Largest Bitcoin Festival | Manchester Bitfest 2026 - The UK's Largest Bitcoin Festival\n- About Us\n- Events\n- Bitflix\n- Nostrshire\n- Hackathon\n- nPub Dub\n- Bitfest\n- Pepe.X\n- NME Concert\n- Sunday Social\n- FULL AGENDA\n- Get Tickets\n- Partners\n- Collaborate\n- Media\n- Cinematics\n- Blog\n- Gallery\n- Media Kit\n- FAQ\n- Join Us 19 - 22 NOVEMBER 2026 PENDULUM HOTEL, MANCHESTER WHAT IS BITFEST? Bitfest is the UK's flagship Bitcoin festival. The 2026 edition is a four-day Bitcoin festival in Manchester, taking place from 19-22 November 2026. It brings together Bitcoiners, builders, communities, artists, families and newcomers for talks, workshops, an expo, art, cinema, gaming, live music, Nostr and freedom technology. So... is it a conference? Well, yes and no. Bitfest is a space where people from all walks of life can come together for a weekend powered by Bitcoiners. It's about community as much as it is about technology: a place to connect, learn, explore, and actually experience Bitcoin culture in action. While talks and panels are part of the programme, Bitfest goes far beyond a traditional conference - incorporating talks, discussions and hands-on workshops covering not just Bitcoin, but other freedom-adjacent topics. Our inaugural event, Bitfest 2025, featured 5 events and 8 themed zones across 3 days, with 60+ speakers and artists, all hosted across multiple nearby venues. And now Bitfest is back for 2026. Bigger, louder and with even more to explore! This year's programme brings together a staggering 8 events and 9 zones, creating an even bigger celebration of Bitcoin, freedom technology, creativity and the communities building the future. Bitfest is designed for everyone - whether you're deep in the space or just getting started. It's family-friendly too and so bring the kids along! Day 0 also features Nostrshire, the UK's first full-scale conference dedicated entirely to Nostr. EVENTS Bitfest isn't just one event - it's a whole weekend of them. From Nostr and Bitcoin conferences to live music, internet culture, social events and everything in between, each event has its own character, community and reason to be here. Explore the events that make up Bitfest 2026. THERE'S MORE TO EXPLORE ZONES Across the festival you'll find nine themed zones, each bringing a different side of Bitcoin and freedom technology to life. From talks and hands-on workshops to gaming, music, art, business and a place for the kids, there's plenty to explore beyond the main stage. CONFERENCE TALKS & PANELS Hear from leading Bitcoin professionals, builders and people advocating for Bitcoin and Nostr. WORKSHOP / HACK ZONE DIY Build, learn and collaborate across two days of workshops, unconference sessions and the Bitfest 2026 Hackathon. Explore the Hackathon EXHIBITION PROJECT AND BUSINESS EXPO Discover and catch up with the latest projects and businesses building on Bitcoin. GALLERY BY PEPE.X BITCOIN ART EXHIBITION A visual celebration of Bitcoin culture, digital art, memes and creative experiments, bringing the weird, wonderful and wildly creative side of the internet into the real world. FREEDOM FEST FREEDOM & SOVEREIGNTY TECH Explore privacy, digital rights, civil liberties and freedom technology through Freedom Fest - a distinct event running alongside Bitfest on Saturday. FREEDOM FEST GAMING GAMES & COMPETITIONS Enter the gaming zone to discover Bitcoin-powered games and participate in competitive gaming sessions. MUSIC NEW MUSIC ECONOMY & VALUEVERSE Entertainment led by musicians utilising New Music Economy tooling in the Valueverse. NETWORKING DRINKS, FOOD & BANTER Mix and mingle networking zones in both the Pendulum Café during the day and The Shack NQ in the evening. KIDS BITCOIN JUNIORS A safe, supervised space for kids to play, create and have fun, with DBS-checked staff so parents can leave them safely and catch a talk, explore the festival or grab a bit of peace and quiet.\n\nPRE-PARTY BITFLIX & PRE-EVENT RECEPTION 4:30pm - 1am - 19 NOVEMBER - PENDULUM HOTEL/THE TAP HOUSE Kick off the Bitfest weekend with The Six Billion Dollar Man, Eugene Jarecki's award-winning documentary exploring Julian Assange, WikiLeaks and the price of truth. Fittingly, when traditional gatekeepers blocked the film, it found a route to audiences through the Bitcoin community. Full Bitfest ticket holders can then join our exclusive pre-event drinks reception to meet fellow Bitcoiners and get the weekend started. HACKATHON 20-21 NOVEMBER\n- MOMENTUM SUITE BUILD SOMETHING BITFEST HACK ZONE + HACKATHON More than 24 hours of building across Nostrshire + Bitfest. The Bitfest Hack Zone combines an open-format Bitcoin & Nostr Hackathon with participant-led workshops, demos, talks and unconference sessions. Bring an idea. Find a team. Join a build. Or just come and learn. 2 DAYS Friday + Saturday 24+ HOURS From kick-off to submission OPEN FORMAT Bitcoin and/or Nostr Supported by EXPLORE THE HACK ZONE DAY 0 NOSTRSHIRE 9am - 6pm - 20 NOVEMBER - PENDULUM HOTEL Nostrshire is the UK's first full-scale Nostr conference, bringing together builders, developers, creatives and enthusiasts under one roof, all in one day. We would have added freedom fighters to the list, but we would say that all these people are on the cutting edge of freedom, privacy and decentralisation technology. TANJA BÄCHLE MC NATHAN DAY Attestr + Gamestr DEREK ROSS Soapbox AJ MC PABLO DENVER BAO.MARKETS GEMMA Yojimble THE CRYPTO DONKEY ForgeSworn PETER YARED Layer3.press TOM DWYER BITS SHORT FIAT Fanfares.io BEN ARC LNBits/Nostr.com DAN GERSHONY Angor.io AVI BURRA Plebchain Radio CONSTANT Philosopher RÂU CAO Kosmos MARTTI MALMI Iris AARON OF ESSEX New Music Nudge Unit ARKINOX BITPOPART Bitcoin PopArt DAN CONWAY ngit / gitworkshop DANIEL PRINCE Once Bitten Podcast EL PRESIDENTO BENITO Cypherpunk Anarchy OSCAR MERRY Fountain.fm TIM Free Cities Foundation ZAZA protocolux.com KARLIATTO Bleskomat/ContextBTC.org\n\nNOSTRSHIRE AFTERPARTY NPUB DUB 6:30pm - 4am - 20 NOVEMBER - THE SHACK NQ Connecting rebel music with rebel money and rebel technology. nPub Dub brings reggae, dub and sound system culture together with Bitcoin, Nostr and the New Music Economy. Expect soundsystem legends, artists, performances and plenty of vibes. DJ KULLAR ROOTS REBELLION RAS KEYLEB MAD MUNKY KIRIT MAGIC DAY 1 BITFEST 9am - 6pm - 21 NOVEMBER - PENDULUM HOTEL Bitfest is the centrepiece of the weekend. A full day bringing the wider Bitcoin world together under one roof for talks, workshops, exhibitions, art, culture, technology and a healthy amount of organised chaos. From developers and entrepreneurs to artists, activists, educators and everyday Bitcoiners, it's a day built around the people, ideas and communities pushing Bitcoin forward. JOE NAKAMOTO MC SUSIE VIOLET WARD Bitcoin Policy UK/ Journalist NICHOLAS ANTHONY HRF CBDC Tracker JAN-WILLEM BURGERS Deciphering Bitcoin BEN DE WAAL Cyber Anarchist/Bitcoin OG GARY SMITH BSE Conference ROB GASKELL Appold KARLIATTO Bleskomat/ ContextBTC.org KITCHEN MISHAP Kitchen Mishap BITOSHI BLOCKAMOTO Bitmap.land PHILIP CHARTER Totally Human Writer NZONDA FOTSING Conférence Bitcoin Afrique AARON OF ESSEX New Music Nudge Unit GRAHAM COOK BTC Proof of Play ROBIN THATCHER The Bitcoin & Crypto accountant ROSS EDWARDS Queen's University Belfast JAKE Lightning Piggy ALEX WALTZ 1st Bitcoin Miner SAMANTHA DE WAAL HALIMA ABBA What's Haute With Halima VLAD COSTEA Bitcoin Takeover Podcast DENAY SAMOSA satsparty.com DJURI BTClock NODERUNNERS RADIO Noderunners Radio AJ MC AVI BURRA Plebchain Radio BITROOT RootSeed CRYPTORAPTOR CryptoRaptor Toons DAN GERSHONY Angor.io DANIEL PRINCE Once Bitten Podcast DAVID Musqet DR. PETER CONNOR Scottish Bitcoin Conference ENDO FZERO Ninefold JIM CRANE Audionals.com KETO MINER LAURA DAY NATHAN DAY Attestr + Gamestr PATRICK VAN DER MEIJDE Arnhem Bitcoinstad PETRA Zaprana REBEL MONEY Rebel Money RENATO SCHIAVINATO LOPEZ RICK MESSIT ROGER9000 Musician TANJA Terahash TIM Free Cities Foundation TOBY Reserve METAMICK Geyser.fund OSCAR MERRY Fountain.fm NAT COLE 2140Art/2140Music SECURE YOUR SPOT TODAY! Get Tickets! DAY 1 PEPE.X ALL DAY - 21 NOVEMBER - GALLERY & EXPO ZONE Pepe.X is where Bitcoin internet culture escapes the timeline and becomes a real-world experience. Memes, digital art, games, creators, collectors and unapologetically online culture collide in a space celebrating the weird, creative and occasionally ridiculous side of the Bitcoin community. Serious conference behaviour is entirely optional. NATHAN SONIC PEPENARDO FZERO REBEL MONEY DARKY CRYPSI BITPOPART MAD MUNKY MR.HANSEL ARWYN CHIEF MONKEY ZEDERWAN EAZY B INDELIBLE AKME MARS ROBERTSON THE BITCOIN QUEEN KITCHEN MISHAP BITOSHI BLOCKAMOTO DECENTED VIVA LA VANDAL AFTERPARTY NEW MUSIC ECONOMY CONCERT 6:30pm - 4am - 21 NOVEMBER - THE SHACK NQ The New Music Economy brings together musicians, DJs, creators and fans exploring what happens when music meets Bitcoin, Nostr and Value for Value. Part concert, part experiment and part late-night celebration, it's about putting artists and audiences back in control - then turning the volume up and seeing what happens. ROGER 9000 G.O.L.D LONGY BLADE AKME Blush AIRKLIPZ HORSEHEADS ANDY PRINCZ ROOTZALL MAD MUNKY FISHBRAIN DELTA KID WATTSY SITES ZAZA NATHAN ABBOTT EDWIN WILLIAMSON MISHKIN FITZGERALD AARON OF ESSEX CRYPTORAPTOR DEN JIM CRANE THE CRYPTO DONKEY DAY 2 BITFEST SUNDAY SOCIAL 22 NOVEMBER - VARIOUS LOCAL VENUES Bitfest Sunday Social is the relaxed final chapter of the weekend. A chance to grab some food, have a drink, reconnect with people you met along the way and squeeze in a few more conversations before everyone heads home. No stages, no packed schedules and no rushing between talks; just Bitcoiners, friends and communities hanging out properly after a very busy couple of days. GUIDED BITCOIN WALK: REBELS & RADICALS 10:30am\nMEETING POINT: PENDULUM HOTEL A guided walking tour of Manchester city centre. Included in your weekend ticket. Route & details BEER & CHILL 1pm till late SANDBAR DJ, beer and stone-baked pizzas. Sandbar website GET YOUR TICKETS! Secure your spot at the UK's largest Bitcoin festival. One price - all zones. £199 With a range of ticket options available including Student concessionary, Child, Family and one day passes, Bitfest is accessible to everyone! Bitcoin and Fiat Payments accepted! GET TICKETS OUR PARTNERS Companies who have worked or exhibited with us. Media & LISTING PARTNERS Media & listing partners helping to get the word out there! WORK WITH US Bitfest is a grassroots event and community working to communicate, educate and collaborate, putting community and creativity first. Interested in getting involved with one of the most interesting Bitcoin events across the globe? Use the forms below to get in touch! SPEAK/SHOWCASE AT BITFEST BECOME A SPEAKER EXHIBIT AT BITFEST BECOME A SPEAKER BECOME AN EXHIBITOR BECOME AN EXHIBITOR CINEMATICS Watch videos and scenes from Bitfest 2025!\n- 8:32 5:39 3:52 3:46 6:18 2:35 SUBSCRIBE AND SEE MORE VIDEOS... (or keep scrolling...) CATCH UP Our 2025 launch incorporated 5 events across 8 zones. Want the scoop on how things started? Read our blogs from Bitfest 2025. BITFEST 2025 - DAY 0: NOSTRSHIRE A quick recap of Bitfest's Day 0 event, Nostrshire, the UK's first-ever, full-scale Nostr conference. Read More BITFEST 2025 - DAY 1 We recap the happenings on Day 1 of Bitfest 2025. The UK's largest Bitcoin conference festival! Read More BITFEST 2025 - DAY 2 We recap the final day of the UK's largest Bitcoin conference-festival. With 5 events and 8 zones Bitfest was created to be a bastion of Bitcoin education, culture and community for the UK. Bitcoiners together strong! Read More 2025 GALLERY Check out some of the action from Bitfest 2025. SEE MORE FAQ What is Bitfest? Bitfest is the UK's flagship Bitcoin festival, bringing together Bitcoin, Nostr, freedom technology, music, art, culture, workshops, gaming, businesses and communities for one packed long weekend in Manchester. When is Bitfest 2026? Bitfest 2026 runs from 19-22 November 2026, with different events taking place across the long weekend. Where is Bitfest? Bitfest's main venue is The Pendulum Hotel in Manchester, with events taking place at nearby venues throughout the weekend. Do I need to know about Bitcoin to attend? Absolutely not. Bitfest is for everyone - from people who have been running nodes for years to people who have only just heard about Bitcoin. Come curious, ask questions and get involved. How do I get to Bitfest? Driving From the North - M6 / M61 Follow the M6/M61 towards Manchester, then join the M60 following signs for Stretford. Take M60 Junction 12 and join the M602 towards Salford/Manchester. At the end of the M602, follow the A57 towards Manchester. Continue onto the A57(M) Mancunian Way and take the second exit, then immediately follow the slip road signed University/Sackville Street. The Pendulum is on Sackville Street. From the South & Midlands - M6 Follow the M6 north and leave at Junction 19, taking the A556 towards Manchester. At the Bowdon roundabout, take the third exit onto the M56 towards Manchester Airport/Manchester. Continue to the end of the M56 and follow the A5103 towards Manchester. At the roundabout beneath the road, take the third exit following A57(M) / Sheffield signs, then take the second exit up the ramp onto the A57(M). Take the next exit signed University and immediately fork left onto the slip road for University/Sackville Street. The Pendulum is ahead on Sackville Street. From London - M40 / M42 / M6 Follow the M40 north, then the M42/M6 towards Manchester. Continue on the M6 north and leave at Junction 19, then follow the South & Midlands directions above via the A556 and M56. From Manchester Airport - M56 Take the M56 towards Manchester. At the end of the motorway, continue onto the A5103 towards Manchester and follow the same route as above: take the third exit at the roundabout following A57(M) / Sheffield, then the second exit onto the A57(M). Take the next exit signed University and follow the slip road for University/Sackville Street. Public Transport From Manchester Piccadilly: The Pendulum is around a 10-15 minute walk from Manchester Piccadilly station, or a short taxi ride. From Manchester Oxford Road: The Pendulum is only a few minutes' walk from Manchester Oxford Road station. From Manchester Airport: Direct trains run from Manchester Airport to Manchester Piccadilly, normally taking around 20 minutes. From Piccadilly, The Pendulum is a short walk or taxi ride. Manchester is also well connected by rail from cities across the UK, including London, Birmingham, Leeds, Liverpool and Sheffield. Is there parking nearby? Yes. There are several car parks within walking distance of The Pendulum, including NCP Circle Square on Oxford Road, which is just a couple of minutes from the hotel. We'll add further details, including any Bitfest/Pendulum parking discounts or codes, here once confirmed. What does my ticket include? There are several ticket options depending on how much of the festival you want to experience. A Full Bitfest Ticket gives you access across the main festival programme and includes the exclusive Bitflix Pre-Event Reception. Can I buy a One Day Pass? Yes. A One Day Pass can be used for Nostrshire on 20 November or Bitfest on 21 November, and includes access to all zones and the relevant afterparty. What is Bitflix? Bitflix is our Bitcoin Film Zone, returning this year as a pre-festival event. It kicks off the festival with a screening of The Six Billion Dollar Man, followed by the Bitflix Pre-Event Reception. It's a chance to start the weekend with a great film, good conversation and the wider Bitfest community. Who can attend the Bitflix Pre-Event Reception? The Pre-Event Reception is an exclusive benefit for Full Bitfest Ticket holders. One Day Pass and Afterparty-only tickets do not include access to the reception. Are children welcome at Bitfest? Yes. Bitfest is family-friendly, and children are welcome. For ticketing purposes, a child is anyone under 16. Can I leave my children in the Kids Zone? Yes. The Kids Zone is a supervised play space for children during the festival where they can play safely while parents enjoy the event. It is not intended as a formal childcare or day-care service. The team are DBS checked and appropriate safeguarding procedures are in place. Where can I see the full agenda? The full agenda, including timings, speakers, workshops, performances and other programme details, will be published separately as we get closer to the festival. Can I pay for my ticket with Bitcoin? Yes. Bitfest tickets are available to purchase in Bitcoin or fiat. I've never been to a Bitcoin event before. Will I fit in? Definitely. Bitfest is deliberately broader than a traditional Bitcoin conference. Whether you're a hardcore Bitcoiner, a Nostr user, a builder, artist, musician, entrepreneur, parent or simply curious about what all the fuss is about, you're welcome. Are there any discount codes for accommodation? Yes. We've secured a discounted accommodation rate at The Pendulum Hotel, our main venue in Manchester city centre - Sackville Street, about a 5-minute walk from Piccadilly Station. Book at the Bitfest rate using code BITFEST - Book now. If the Pendulum is full, there are several other hotels within a few minutes' walk of the venue. The closest are the ibis Manchester Centre (Princess Street) and the Maldron Hotel Manchester City Centre, both on Charles Street. Also nearby: Motel One Manchester-Piccadilly, Premier Inn Manchester City (Piccadilly), Travelodge Manchester Piccadilly and Malmaison Manchester. We're still confirming rates and discount codes with other local hotels - anything we secure will be added here. I have a different question. How can I get in contact? Complete the form below and we'll be in touch as soon as possible. REGISTER YOUR INTEREST Register now to join our community and get notified about Bitfest updates! Design by 2140Art X-twitter Youtube Instagram Logos by RareWelsh FREEDOM FEST ↗ Service notice Checkout under maintenance We're currently carrying out maintenance and updates on our ticket checkout. Estimated downtime until 11:59pm, Tuesday 10 November 2026 Please try again later. Questions? info@bitfest.uk",
     "startDate": "2026-11-19",
     "endDate": "2026-11-22",
     "city": "Manchester",
@@ -3582,7 +3582,7 @@
       "fetchedAt": "2026-11-10T19:33:14.804Z",
       "method": "official-section",
       "pageTitle": "Bitfest 2026 — The UK's Largest Bitcoin Festival | Manchester",
-      "sha256": "e93c7b3d09b6abe7ad81e4a73bd5dfa9ff949063fa2ca3376f1e7c5759c74a67"
+      "sha256": "bf08ea9597d6929f37f98b7ebbed2ca1647ae3bc339b0a9c1ded0b14c7add76f"
     },
     "id": "curated-bitfest-2026-11-19",
     "url": "https://bitfest.uk/",
@@ -3738,7 +3738,7 @@
   },
   {
     "name": "TOKENISED HONG KONG - VIP EVENT (HONG KONG FINTECH WEEK)",
-    "description": "UVECON.VC and Chambre host a Hong Kong edition of the TOKENISED GLOBAL series. The discussion focuses on metals trading and tokenization technology, including gold and silver. Registration requires host approval, and the organizer shares the exact address after approval.",
+    "description": "UVECON.VC and Chambre host a Hong Kong edition of the TOKENISED GLOBAL series. The discussion focuses on metals trading and tokenization technology, including gold and silver.\n\nRegistration requires host approval, and the organizer shares the exact address after approval.",
     "startDate": "2026-11-03T16:00:00+08:00",
     "endDate": "2026-11-03T20:00:00+08:00",
     "timezone": "Asia/Hong_Kong",
@@ -3781,7 +3781,7 @@
       "fetchedAt": "2026-10-20T09:30:48.386Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "TOKENISED HONG KONG - VIP EVENT (HONG KONG FINTECH WEEK) · Luma",
-      "sha256": "eef66e85d959f4afa5a2d8fa846f7076fc68919bb24c2f960a1012a5094bedb7",
+      "sha256": "eb70babeb4ea8024e466231d83d8983cb328332bf25fac3753b2a425a4cebc05",
       "evidence": [
         {
           "url": "https://luma.com/tokenised0311",
@@ -3799,7 +3799,7 @@
   },
   {
     "name": "Base Builder Meetup",
-    "description": "Michael Eric and Fuad ALIPHATIC host a meetup for people building on Base at the University of Lagos. The discussion focuses on developing onchain products, shipping them and finding users. The organizer plans a group of 30 builders. Registration requires host approval.",
+    "description": "Michael Eric and Fuad ALIPHATIC host a meetup for people building on Base at the University of Lagos. The discussion focuses on developing onchain products, shipping them and finding users. The organizer plans a group of 30 builders.\n\nRegistration requires host approval.",
     "startDate": "2026-10-31T12:00:00+01:00",
     "endDate": "2026-10-31T16:00:00+01:00",
     "timezone": "Africa/Lagos",
@@ -3847,7 +3847,7 @@
       "fetchedAt": "2026-10-20T09:30:49.398Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Base Builder Meetup · Luma",
-      "sha256": "616d7cad631cc0e24c86674e8e2dcea17a4350951a9e7fd7cb8a817a7111be91",
+      "sha256": "4b84f07b4809b570abab11f2b0a5d376d27304c9152463957df3cbb49dafe64c",
       "evidence": [
         {
           "url": "https://luma.com/nv0py8nu",
@@ -3952,7 +3952,7 @@
   },
   {
     "name": "Mariblock House: Moonshot Edition",
-    "description": "Mariblock editors conduct on-record, filmed interviews with people working in Africa's blockchain and digital-asset industry. The announced topics include exchanges, stablecoin payments, liquidity, local-currency stablecoins, tokenization and regulation. This edition takes place alongside Moonshot by TechCabal. Registration requires approval, and the organizer shares the exact location with approved attendees.",
+    "description": "Mariblock editors conduct on-record, filmed interviews with people working in Africa's blockchain and digital-asset industry. The announced topics include exchanges, stablecoin payments, liquidity, local-currency stablecoins, tokenization and regulation. This edition takes place alongside Moonshot by TechCabal.\n\nRegistration requires approval, and the organizer shares the exact location with approved attendees.",
     "startDate": "2026-10-27T10:00:00+01:00",
     "endDate": "2026-10-27T12:00:00+01:00",
     "timezone": "Africa/Lagos",
@@ -3993,7 +3993,7 @@
       "fetchedAt": "2026-10-20T09:30:51.724Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Mariblock House: Moonshot Edition · Luma",
-      "sha256": "139055e42b87dd6f0dab51189728a85d0c8d1be77d919a740ef0ebba3784a556",
+      "sha256": "8c90392b976414fb677d3bb6c6b45f15071aba483cbddd26455d085ffa8e5723",
       "evidence": [
         {
           "url": "https://luma.com/1q9pykam",
@@ -4011,7 +4011,7 @@
   },
   {
     "name": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
-    "description": "Blockchain Dubai hosts a coffee meetup for people working with Web3, DeFi, NFTs and tokenized assets. The format is informal conversation rather than a published talk programme. Guests must RSVP on Meetup and follow the organizer's registration instructions for venue details. The public page identifies only Dubai.",
+    "description": "Blockchain Dubai hosts a coffee meetup for people working with Web3, DeFi, NFTs and tokenized assets. The format is informal conversation rather than a published talk programme. Guests must RSVP on Meetup and follow the organizer's\n\nregistration instructions for venue details. The public page identifies only Dubai.",
     "startDate": "2026-10-26T19:00:00+04:00",
     "endDate": "2026-10-26T22:00:00+04:00",
     "timezone": "Asia/Dubai",
@@ -4032,7 +4032,7 @@
       "fetchedAt": "2026-10-20T09:30:52.577Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs, Mon, Oct 26, 2026, 7:00 PM   | Meetup",
-      "sha256": "8a80c3392eb2c35870eb733e91e4bae1ebbaa4bb4260e45f014fe7cb17def7a6",
+      "sha256": "171de1f6f822b8e1ef6bf00f4b3bb7a0d4f19f6aec518c2f4936ea91bd42aa4c",
       "evidence": [
         {
           "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316869344/",
@@ -4047,82 +4047,6 @@
     "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316869344/",
     "registrationUrl": "https://www.meetup.com/blockchain-workshop-dubai/events/316869344/",
     "source": "curated-reviewed"
-  },
-  {
-    "name": "Bitcoin Indonesia Community Meetup Magelang 25 Oktober 2026",
-    "description": "Bitcoin Indonesia's Magelang community discusses control over money and Bitcoin self-custody. The session covers storing Bitcoin yourself and the difference between direct control and reliance on an intermediary. Admission is free; attendees buy their own food and drinks.",
-    "startDate": "2026-10-25T14:00:00+07:00",
-    "endDate": "2026-10-25T15:00:00+07:00",
-    "timezone": "Asia/Jakarta",
-    "city": "Magelang",
-    "country": "Indonesia",
-    "location": "Simbar Resto & Cafe, Watupenganten, Tlogorejo, Grabag, Magelang, Central Java, Indonesia",
-    "venueName": "Simbar Resto & Cafe",
-    "streetAddress": "Watupenganten, Tlogorejo, Grabag",
-    "addressLocality": "Magelang",
-    "addressRegion": "Jawa Tengah",
-    "postalCode": "56196",
-    "addressCountry": "ID",
-    "organizer": {
-      "type": "Organization",
-      "name": "Bitcoin Indonesia",
-      "url": "https://bitcoinindonesia.xyz/"
-    },
-    "approvalRequired": false,
-    "locationHidden": false,
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/discovery-evt-uhnfhumggzhqe7f-59e70a83.webp",
-    "sourceVerification": {
-      "url": "https://luma.com/oxti87c7",
-      "eventId": "evt-UhNfhuMgGZHqE7F",
-      "fetchedAt": "2026-10-20T09:30:55.008Z",
-      "method": "luma-page"
-    },
-    "registrationAvailability": "open",
-    "price": "Free",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/oxti87c7",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "hosts": [
-      "Bitcoin Indonesia"
-    ],
-    "descriptionSource": {
-      "url": "https://luma.com/oxti87c7",
-      "fetchedAt": "2026-10-20T09:30:55.008Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Bitcoin Indonesia Community Meetup Magelang 25 Oktober 2026 · Luma",
-      "sha256": "31ccc08e7d1caedda2a6211fda8b5665a99a0e66bb414aedd8dfed7bcf8c66b8",
-      "evidence": [
-        {
-          "url": "https://luma.com/oxti87c7",
-          "fetchedAt": "2026-10-20T09:30:55.008Z",
-          "sha256": "c1ac145d007e210db01a186c626b605f525cbb69ea2496ef7e12b62c6de2ffa9",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "discovery-evt-UhNfhuMgGZHqE7F",
-    "url": "https://luma.com/oxti87c7",
-    "registrationUrl": "https://luma.com/oxti87c7",
-    "source": "curated-reviewed",
-    "venueAddressSource": {
-      "checkedAt": "2026-10-20T09:30:55.008Z",
-      "urls": [
-        "https://luma.com/oxti87c7"
-      ],
-      "venueName": "Simbar Resto & Cafe",
-      "streetAddress": "Watupenganten, Tlogorejo, Grabag",
-      "addressLocality": "Magelang",
-      "addressCountry": "ID",
-      "location": "Simbar Resto & Cafe, Watupenganten, Tlogorejo, Grabag, Magelang, Central Java, Indonesia"
-    }
   },
   {
     "name": "Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026",
@@ -5347,7 +5271,7 @@
   },
   {
     "name": "NEAR x Ondo Mixer @ DASLondon",
-    "description": "Join NEAR and Ondo Finance for an evening of drinks and conversation during Digital Asset Summit London. Earlier this fall, NEAR and Ondo teamed up to bring tokenized US stocks and ETFs to near.com (https://near.com), giving users onchain access to names like NVDA, TSLA, AAPL, and SPY from any of 30+ chains, with confidential trading and no brokerage account required. The same integration is available to wallets, exchanges, and apps through NEAR Intents. This mixer brings together the people behind that work and the wider community building where traditional markets and onchain infrastructure meet. Come meet the NEAR and Ondo teams, swap notes with founders, institutional leaders, and builders, and talk through where tokenization, confidential trading, and cross-chain access are heading. Space is limited, so please register to reserve your spot. Registration is subject to approval.",
+    "description": "Join NEAR and Ondo Finance for an evening of drinks and conversation during Digital Asset Summit London. Earlier this fall, NEAR and Ondo teamed up to bring tokenized US stocks and ETFs to near.com (https://near.com), giving users onchain access to names like NVDA, TSLA, AAPL, and SPY from any of 30+ chains, with confidential trading and no brokerage account required. The same integration is available to wallets, exchanges, and apps through NEAR Intents. This mixer brings together the people behind that work and the wider community building where traditional markets and onchain infrastructure meet. Come meet the NEAR and Ondo teams, swap notes with founders, institutional leaders, and builders, and talk through where tokenization, confidential trading, and cross-chain access are heading. Space is limited, so please register to reserve your spot.\n\nRegistration is subject to approval.",
     "startDate": "2026-11-11T18:00:00.000Z",
     "endDate": "2026-11-11T21:00:00.000Z",
     "timezone": "Europe/London",
@@ -5389,7 +5313,7 @@
       "fetchedAt": "2026-11-10T18:32:57.809Z",
       "method": "official-section",
       "pageTitle": "NEAR x Ondo Mixer @ DASLondon · Luma",
-      "sha256": "5d9d458f58615bc91dda72f1310db54f162b921dc2870f04558e6adf42f3ae01"
+      "sha256": "02cf79ebd5d0c58576e65b7ca5e93269bb9f675b3a86c8fcce42428bf41ad84f"
     },
     "id": "discovery-evt-XJ9Iuk18S1g2ZzT",
     "url": "https://luma.com/wdgr3mvf",
@@ -5398,7 +5322,7 @@
   },
   {
     "name": "The LOCAL W.M.C - Breakpoint/DAS Edition",
-    "description": "## This is the biggest, most audacious and most daft Local event we’ve ever done..\n\nFree booze all night, loads of giveaways and prizes, a late licence with DJ till 1am... oh yeah and an Oasis tribute band playing live. All in the most ridiculous and fantastic venue in East London... For the regulars who've been before - you know the score. For the uninitiated - The LOCAL WMC is a piss-up social/party event for the crypto/tech community. No mercenary BDing, no hustling for business. We've scheduled it for thirsty thursday, slap bang between DAS and Breakpoint, the week when most of our industry is in London at once. Doors at 7pm. Get down early. It’s first come first serve, you can maximise the bar tab, and our community partner Polystation (https://x.com/PolyStationApp) are giving everyone a free £10 bet for the England v Croatia game that happens later in the evening. Engineers and interns very welcome. BDs tolerated... (applications will be reviewed - no ticket, no entry) -- https://www.youtube.com/@thelocalwmc https://x.com/TheLocalWMC ------ About LO:TECH LO:TECH is a capital markets firm for the onchain world. Market making, data and execution, powered by the same systems we use to trade in live markets. Headquartered in London, trading globally 24/7. https://lo.tech https://x.com/lo_tech ------ COMMUNITY PARTNER ------ About Polystation PolyStation is a new way to bet on sports. Think you know ball? Put THEIR money where your mouth is Free bets for the England v Croatia game (12th November), free-er bets for those who can split the G. COME ON INGERLAND 󠁧󠁢󠁥󠁮󠁧󠁿 https://x.com/PolyStationApp",
+    "description": "## This is the biggest, most audacious and most daft Local event we've ever done..\n\nFree booze all night, loads of giveaways and prizes, a late licence with DJ till 1am... oh yeah and an Oasis tribute band playing live. All in the most ridiculous and fantastic venue in East London... For the regulars who've been before - you know the score. For the uninitiated - The LOCAL WMC is a piss-up social/party event for the crypto/tech community. No mercenary BDing, no hustling for business. We've scheduled it for thirsty thursday, slap bang between DAS and Breakpoint, the week when most of our industry is in London at once. Doors at 7pm. Get down early. It's first come first serve, you can maximise the bar tab, and our community partner Polystation (https://x.com/PolyStationApp) are giving everyone a free £10 bet for the England v Croatia game that happens later in the evening. Engineers and interns very welcome. BDs tolerated... (applications will be reviewed - no ticket, no entry) -- https://www.youtube.com/@thelocalwmc https://x.com/TheLocalWMC ------ About LO:TECH LO:TECH is a capital markets firm for the onchain world. Market making, data and execution, powered by the same systems we use to trade in live markets. Headquartered in London, trading globally 24/7. https://lo.tech https://x.com/lo_tech ------ COMMUNITY PARTNER ------ About Polystation PolyStation is a new way to bet on sports. Think you know ball? Put THEIR money where your mouth is Free bets for the England v Croatia game (12th November), free-er bets for those who can split the G. COME ON INGERLAND 󠁧󠁢󠁥󠁮󠁧󠁿 https://x.com/PolyStationApp",
     "startDate": "2026-11-12T19:00:00.000Z",
     "endDate": "2026-11-13T01:00:00.000Z",
     "timezone": "Europe/London",
@@ -5454,7 +5378,7 @@
       "fetchedAt": "2026-11-10T18:32:58.046Z",
       "method": "official-section",
       "pageTitle": "The LOCAL W.M.C - Breakpoint/DAS Edition · Luma",
-      "sha256": "2f44c673e7e3412eabda4fb7b3e320ee3c4732ba000ec1e25c9bee99629cf86e"
+      "sha256": "d44df7c1031fe779f3c642c5051bb29d71b4ba6ca06b3e9f5a8319d0039ec4b8"
     },
     "id": "discovery-evt-no4dPWhKPtAMNU0",
     "url": "https://luma.com/lo-qqld",
@@ -5474,7 +5398,7 @@
   },
   {
     "name": "Tilt Pay Morning Coffee | Breakpoint '26",
-    "description": "Tilt Pay Morning Coffee | Breakpoint '26 · LumaSkip to Content Hosted By Elliot Tilt Pay Crypto Featured in Breakpoint 2026 Community Events Tilt Pay Morning Coffee | Breakpoint '26 Hosted by Elliot & Tilt Pay Register to See Address London, United Kingdom Registration One Spot Remaining Hurry up and register before the event fills up! Approval Required Your registration is subject to host approval. Welcome! To join the event, please register below. About Event ​Need a breather before diving into the Breakpoint madness? ​Join the Tilt Pay team for a chill Sunday morning breakfast. No panels, no loud music, no aggressive networking just good vibes, fresh croissants, and specialty coffee to start your day right. 🥐 Location Please register to see the exact location of this event. London, United Kingdom Hosted By Elliot Tilt Pay Crypt\n\nTickets Standard",
+    "description": "Tilt Pay Morning Coffee | Breakpoint '26\nLumaSkip to Content Hosted By Elliot Tilt Pay Crypto Featured in Breakpoint 2026 Community Events Tilt Pay Morning Coffee | Breakpoint '26 Hosted by Elliot & Tilt Pay Register to See Address London, United Kingdom\n\nRegistration One Spot Remaining Hurry up and register before the event fills up! Approval Required Your\n\nregistration is subject to host approval. Welcome! To join the event, please register below. About Event Need a breather before diving into the Breakpoint madness? Join the Tilt Pay team for a chill Sunday morning breakfast. No panels, no loud music, no aggressive networking just good vibes, fresh croissants, and specialty coffee to start your day right. Location Please register to see the exact location of this event. London, United Kingdom Hosted By Elliot Tilt Pay Crypt\n\nTickets Standard",
     "startDate": "2026-11-15T08:30:00.000Z",
     "endDate": "2026-11-15T10:00:00.000Z",
     "timezone": "Europe/London",
@@ -5520,7 +5444,7 @@
       "fetchedAt": "2026-11-10T19:33:14.836Z",
       "method": "official-section",
       "pageTitle": "Tilt Pay Morning Coffee | Breakpoint '26 · Luma",
-      "sha256": "b2fce2d67e27788f407b5b8da5a9e29ac1770aebcd5b2be96f84b8b20754d1fe"
+      "sha256": "c47e2d0601e9cc8fcd9008b5db5d2afbf0f92cf3be891293f01cb7e6c3ef5e3d"
     },
     "id": "discovery-evt-P1laFzLdOaT7vik",
     "url": "https://luma.com/kk8dr4ty",

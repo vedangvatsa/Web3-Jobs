@@ -25,6 +25,7 @@ import {
   recentPostedTexts,
   sameEvent,
 } from './news-story-dedup.mjs';
+import { cleanTelegramNewsCopy, isRelatedMediaLine, normalizeTelegramNewsStory } from './lib/news-copy-clean.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
 
@@ -87,8 +88,10 @@ async function fetchAllNews() {
         const items = [];
         for (const item of (feed.items || []).slice(0, 30)) {
           if (item.title && item.link && item.pubDate) {
+            const title = cleanTelegramNewsCopy(item.title.trim());
+            if (!title || (isRelatedMediaLine(item.title) && !/^magazine:\s/i.test(item.title.trim()))) continue;
             items.push({
-              title: item.title.trim(),
+              title,
               link: item.link.trim(),
               snippet: (item.contentSnippet || '').substring(0, 300).trim(),
               source: f.source,
@@ -258,8 +261,8 @@ ${headlines}`;
 // ── Format Telegram message ──
 function formatMessage(stories) {
   const lines = stories.map(s => {
-    const headline = escapeHtml(s.headline);
-    const summary = escapeHtml(s.summary);
+    const headline = escapeHtml(cleanTelegramNewsCopy(s.headline) || s.headline);
+    const summary = escapeHtml(cleanTelegramNewsCopy(s.summary) || s.summary);
     const sep = s.link.includes('?') ? '&' : '?';
     const trackedLink = `${s.link}${sep}utm_source=hashtag_ai&utm_medium=telegram&utm_campaign=ai_digest`;
     return `<a href="${trackedLink}"><b>${headline}</b></a>. ${summary}`;
@@ -439,7 +442,7 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
     }
   }
 
-  stories = uniqueNewsStories(stories);
+  stories = uniqueNewsStories(stories.map(normalizeTelegramNewsStory).filter(Boolean));
   console.log(`  Final validated ${stories.length} stories`);
 
   if (stories.length < STORIES_PER_POST) {

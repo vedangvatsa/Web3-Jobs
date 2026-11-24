@@ -70,7 +70,7 @@ export const RESOURCE_LINKS: NavLinkItem[] = [
   { href: '/learn', label: 'Learn Web3', icon: GraduationCap },
   { href: '/blog', label: 'Playbook', icon: BookOpen },
   { href: '/glossary', label: 'Glossary', icon: Library },
-  { href: '/nomads', label: 'Digital Nomad Resources', icon: Globe },
+  { href: '/nomads', label: 'Digital Nomad Cities', icon: Globe },
   { href: '/visas', label: 'Digital Nomad Visas', icon: MapPin },
   { href: '/citizenship', label: 'Citizenship', icon: Globe },
   { href: '/popups', label: 'Popups', icon: Building2 },
@@ -218,7 +218,7 @@ export const SOCIAL_LINKS: NavLinkItem[] = [
 ];
 
 export const FOOTER_RESOURCES: Array<{ href: string; label: string }> = [
-  { href: '/nomads', label: 'Digital Nomad Resources' },
+  { href: '/nomads', label: 'Digital Nomad Cities' },
   { href: '/interview-questions', label: 'Interview Questions' },
   { href: '/web3-career-quiz', label: 'Archetype Assessment' },
   { href: '/salary-calculator', label: 'Salary Calculator' },

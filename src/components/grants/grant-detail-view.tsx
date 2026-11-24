@@ -6,8 +6,8 @@ import { Button } from '@/components/ui/button';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { DetailPrimaryActionLink } from '@/components/primary-action-link';
 import { EventGuideContent } from '@/components/event-guide-content';
-import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { getRelatedGrants } from '@/lib/grants';
+import { formatGrantDetailSubtitle } from '@/lib/grant-subtitle';
 import { generateGrantEditorial, grantEditorialToEventArticle } from '@/lib/grant-editorial';
 import { Calendar, Coins, ExternalLink, ArrowRight } from 'lucide-react';
 
@@ -29,9 +29,6 @@ export function GrantDetailView({ grant }: { grant: GrantProgram }) {
     })();
   const faviconUrl = domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128` : null;
   const initial = (grant.provider || grant.name || 'G').trim().charAt(0).toUpperCase();
-  const eco =
-    grant.ecosystem && grant.ecosystem !== 'Other' && grant.ecosystem !== 'Global' ? grant.ecosystem : null;
-
   const breadcrumbsSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -99,7 +96,7 @@ export function GrantDetailView({ grant }: { grant: GrantProgram }) {
               title={grant.name}
               subtitle={
                 <p className="text-base font-medium text-muted-foreground">
-                  {[grant.provider, grant.category, eco, grant.type].filter(Boolean).join(' · ')}
+                  {formatGrantDetailSubtitle(grant)}
                 </p>
               }
               metadata={
@@ -118,7 +115,7 @@ export function GrantDetailView({ grant }: { grant: GrantProgram }) {
               }
               actions={
                 <DetailPrimaryActionLink href={grant.url} target="_blank" rel="noopener noreferrer nofollow">
-                  Apply
+                  Details
                   <ExternalLink className="h-4 w-4" aria-hidden="true" />
                 </DetailPrimaryActionLink>
               }
@@ -134,8 +131,6 @@ export function GrantDetailView({ grant }: { grant: GrantProgram }) {
                 linkLabel: 'View the official program page',
               }}
             />
-
-            <DirectoryDisclaimer variant="grant" entityName={grant.name} outboundUrl={grant.url} />
 
             {relatedGrants.length > 0 && (
               <section className="mt-12 space-y-4 border-t pt-8">

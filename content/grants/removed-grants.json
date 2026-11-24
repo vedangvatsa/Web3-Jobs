@@ -5155,5 +5155,57 @@
         "finalUrl": "https://claude.com/programs/startups"
       }
     }
+  },
+  "oasis-grants": {
+    "removedAt": "2026-11-24T09:05:26.918Z",
+    "reason": "url-unreachable",
+    "url": "https://oasis.net/ecosystem/grants",
+    "name": "Oasis Grants Program",
+    "grant": {
+      "id": "oasis-grants",
+      "name": "Oasis Grants Program",
+      "provider": "Oasis Grants Program",
+      "category": "Web3 Ecosystem",
+      "type": "Grant",
+      "amount": "Milestone-based",
+      "description": "Oasis Protocol grants fund privacy-enabled applications, developer tooling, and security research that strengthens confidential smart contracts on the Oasis Network.",
+      "url": "https://oasis.net/ecosystem/grants",
+      "ecosystem": "Other",
+      "tags": [
+        "AI",
+        "Infra",
+        "Privacy & Security",
+        "dApps"
+      ],
+      "deadline": "Rolling / Always Open",
+      "featured": false,
+      "sections": [
+        {
+          "heading": "Program overview",
+          "paragraphs": [
+            "Warning: Target URL returned error 404: Not Found",
+            "Oasis is proud to be the official sponsor of the Slovenian Cycling Federation.→ [Learn More](https://oasis.net/blog/oasis-sponsors-slovenian-cycling-federation)",
+            "[AI Agents that prove their behavior](https://oasis.net/ai-agents)[Private DeFi without information leakage](https://oasis.net/solutions-defi)[FlexVaults SDK Programmable vaults for any chain](https://oasis.net/flexvaults-sdk)",
+            "[Documentation Technical guides and core protocol concepts.](https://docs.oasis.io/)[Oasis Demos Real-world builds and hackathon highlights.](https://demos.oasis.io/)[GitHub Repo Open-source codebase and core repositories.](https://github.com/oasisprotocol)",
+            "[Ecosystem Hub A curated gallery of projects and partners.](https://oasis.net/ecosystem-hub)[What is Oasis? Learn what Oasis is and how the network works.](https://oasis.net/what-is-oasis)[Community Hub Global collective of advocates and groups.](https://oasis.net/community-hub)[Stake & Bridge Earn rewards and manage assets via Rose App.](https://rose.oasis.io/)[Explorer Real-time on-chain data and network health.](https://explorer.oasis.io/)[Wallets Tools to securely store and manage your assets.](https://docs.oasis.io/general/manage-tokens/#the-wallets)"
+          ],
+          "bullets": []
+        }
+      ],
+      "descriptionSource": {
+        "url": "https://oasis.net/ecosystem/grants",
+        "fetchedAt": "2026-11-24T09:04:44.952Z",
+        "wordCount": 129,
+        "method": "paragraphs",
+        "pageTitle": "Oasis Grants Program"
+      },
+      "urlLive": {
+        "checkedAt": "2026-11-24T09:05:10.188Z",
+        "ok": false,
+        "status": 404,
+        "finalUrl": "https://oasis.net/ecosystem/grants",
+        "error": "HTTP 404"
+      }
+    }
   }
 }

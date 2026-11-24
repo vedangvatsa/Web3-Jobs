@@ -14,6 +14,8 @@ import {
   extractGrantPageMarkdown,
   grantFetchUserAgent,
 } from './lib/grant-page-extract';
+import { grantNeedsSourceRefetch } from '../src/lib/grant-source-quality';
+import { thinGrantExpansions } from './thin-grant-expansions';
 
 const GRANTS_PATH = path.join(process.cwd(), 'content', 'grants', 'grants.json');
 const URL_OVERRIDES_PATH = path.join(process.cwd(), 'scripts', 'grant-url-overrides.json');
@@ -28,6 +30,14 @@ const apply = args.includes('--apply');
 const refresh = args.includes('--refresh');
 const retryOnly = args.includes('--retry-failed');
 const thinOnly = args.includes('--thin-only');
+const forceReplace = args.includes('--force-replace');
+const refetchFabricated = args.includes('--refetch-fabricated');
+const pendingRefetch = args.includes('--pending-refetch');
+
+const thinFirstParagraphById: Record<string, string | undefined> = {};
+for (const [id, patch] of Object.entries(thinGrantExpansions)) {
+  thinFirstParagraphById[id] = patch.sections?.[0]?.paragraphs?.[0];
+}
 const minWordsArg = args.find((a) => a.startsWith('--min-words='));
 const thinMinWords = minWordsArg
   ? Math.max(20, Number(minWordsArg.split('=')[1]) || GRANT_DETAIL_MIN_WORDS)
@@ -102,6 +112,7 @@ async function enrichOne(grant: GrantRecord): Promise<{ id: string; ok: boolean;
   if (urlOverrides[grant.id]) {
     grant.url = urlOverrides[grant.id];
   }
+  const priorWords = countStoredGrantWords(grant);
   let extracted: { result?: import('./lib/grant-page-extract').GrantPageExtract; reason?: string } = {};
 
   if (retryOnly) {
@@ -124,6 +135,28 @@ async function enrichOne(grant: GrantRecord): Promise<{ id: string; ok: boolean;
     return { id: grant.id, ok: false, reason: reason || 'extract-failed' };
   }
 
+  const preview: GrantRecord = {
+    ...grant,
+    sections: result.sections,
+    description: grant.description,
+  };
+  const lead = result.leadParagraph;
+  if (lead && wordCount(lead) >= 20) {
+    const existingWords = wordCount(grant.description || '');
+    const leadWords = wordCount(lead);
+    if (leadWords > existingWords + 5 || existingWords < 25) {
+      preview.description = lead.length > 600 ? `${lead.slice(0, 597)}...` : lead;
+    }
+  }
+  const projectedWords = countStoredGrantWords(preview);
+  if (
+    !forceReplace &&
+    projectedWords < priorWords &&
+    priorWords >= GRANT_DETAIL_MIN_WORDS
+  ) {
+    return { id: grant.id, ok: false, reason: 'would-downgrade-content', words: priorWords };
+  }
+
   const fetchedAt = new Date().toISOString();
 
   grant.sections = result.sections;
@@ -135,7 +168,6 @@ async function enrichOne(grant: GrantRecord): Promise<{ id: string; ok: boolean;
     pageTitle: result.pageTitle,
   };
 
-  const lead = result.leadParagraph;
   if (lead && wordCount(lead) >= 20) {
     const existingWords = wordCount(grant.description || '');
     const leadWords = wordCount(lead);
@@ -199,6 +231,16 @@ async function main() {
   } else if (thinOnly) {
     slice = grants.filter(isThinGrant);
     console.log(`Re-fetching ${slice.length} grants under ${thinMinWords} source words`);
+  } else if (refetchFabricated) {
+    slice = grants.filter((g) => grantNeedsSourceRefetch(g, thinFirstParagraphById).length > 0);
+    console.log(`Re-fetching ${slice.length} grants with spam, wrong URL, or thin-fabricated bodies`);
+  } else if (pendingRefetch) {
+    slice = grants.filter(
+      (g) =>
+        !g.sections?.length ||
+        g.descriptionSource?.method === 'listing-summary-pending-refetch',
+    );
+    console.log(`Re-fetching ${slice.length} grants cleared and awaiting source copy`);
   }
 
   console.log(`Enriching ${slice.length} grants (concurrency ${concurrency}, apply=${apply})...`);

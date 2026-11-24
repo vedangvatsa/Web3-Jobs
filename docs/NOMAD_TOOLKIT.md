@@ -1,6 +1,6 @@
-# Digital Nomad Resources
+# Digital Nomad Cities
 
-Entry points: **Resources > Digital Nomad Resources**, the Remote Work & Nomads
+Entry points: **Resources > Digital Nomad Cities**, the Remote Work & Nomads
 section on `/resources`, and the footer. `/nomads` is one workspace. It has no
 separate Cities, Rankings, Places or Compare navigation, and no More tools menu.
 

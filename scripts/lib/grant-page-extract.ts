@@ -19,6 +19,8 @@ const ERROR_PAGE =
   /access denied|just a moment|verify (?:that )?you are human|page not found|enable javascript|checking your browser|attention required|403 forbidden/i;
 const UI_TEXT =
   /^(?:skip to (?:main )?content|menu|close|sign (?:in|up)|log in|register(?: now)?|apply now|learn more|read more|accept all|reject all|manage cookies|cookie (?:policy|preferences)|privacy policy|terms (?:of use|and conditions)|all rights reserved|subscribe(?: to our newsletter)?|get started|contact us)[.!\s]*$/i;
+const MARKDOWN_JUNK =
+  /^(?:published time:|url source:|markdown content:|title:|\!\[image)/i;
 
 export function grantFetchUserAgent(): string {
   return UA;
@@ -32,9 +34,21 @@ function wordCount(text: string): number {
   return text.split(/\s+/).filter(Boolean).length;
 }
 
+function isRelatedMediaParagraph(text: string): boolean {
+  const t = cleanText(text);
+  if (/^(?:magazine|related|listen|watch|podcast|video):/i.test(t)) return true;
+  if (/\.?\s*source:\s*youtube\s*$/i.test(t)) return true;
+  if (/\b(?:x\s+)?hall of flame\s*$/i.test(t)) return true;
+  if (/^related:\s/i.test(t)) return true;
+  return false;
+}
+
 function isUsefulParagraph(text: string): boolean {
   const t = cleanText(text);
+  if (MARKDOWN_JUNK.test(t)) return false;
+  if (t.includes('?') && wordCount(t) >= 4) return !isRelatedMediaParagraph(t);
   if (t.length < 40) return false;
+  if (isRelatedMediaParagraph(t)) return false;
   if (UI_TEXT.test(t)) return false;
   if (/cookie|privacy policy|terms of service|all rights reserved/i.test(t) && t.length < 120) return false;
   return wordCount(t) >= 8;
@@ -89,12 +103,28 @@ function contentRoot($: CheerioAPI): Cheerio<unknown> {
   return $('body');
 }
 
+function isStandaloneStrongQuestion($: CheerioAPI, el: unknown, text: string): boolean {
+  if (!text || text.length > 280) return false;
+  if ($(el as never).parents('p,li,a,button,label').length) return false;
+  if (UI_TEXT.test(text)) return false;
+  return text.includes('?') || /\b(?:how|what|where|when|why|can|do|does|is|are|will)\b/i.test(text);
+}
+
+function stripHeadingEmoji(text: string): string {
+  return cleanText(text.replace(/\p{Extended_Pictographic}/gu, '').replace(/^[?\s❓]+/, '').trim());
+}
+
 function sectionsFromHeadings($: CheerioAPI, root: Cheerio<unknown>): GrantExtractedSection[] {
   const sections: GrantExtractedSection[] = [];
   let current: GrantExtractedSection | null = null;
+  let pendingQuestion: string | null = null;
 
   const flush = () => {
     if (!current) return;
+    if (pendingQuestion) {
+      current.paragraphs.push(pendingQuestion);
+      pendingQuestion = null;
+    }
     current.paragraphs = current.paragraphs.filter(isUsefulParagraph);
     current.bullets = current.bullets?.filter((b) => isUsefulParagraph(b) && b.length < 400);
     if (current.paragraphs.length || (current.bullets && current.bullets.length)) {
@@ -103,15 +133,16 @@ function sectionsFromHeadings($: CheerioAPI, root: Cheerio<unknown>): GrantExtra
     current = null;
   };
 
-  root.find('h1,h2,h3,h4,p,ul,ol').each((_, el) => {
+  root.find('h1,h2,h3,h4,h5,h6,p,ul,ol,strong').each((_, el) => {
     const tag = el.tagName?.toLowerCase();
     const text = cleanText($(el).text());
     if (!text) return;
 
-    if (tag && /^h[1-4]$/.test(tag)) {
-      if (!isUsefulHeading(text)) return;
+    if (tag && /^h[1-6]$/.test(tag)) {
+      if (!isUsefulHeading(stripHeadingEmoji(text))) return;
       flush();
-      current = { heading: text, paragraphs: [], bullets: [] };
+      current = { heading: stripHeadingEmoji(text), paragraphs: [], bullets: [] };
+      pendingQuestion = null;
       return;
     }
 
@@ -119,12 +150,25 @@ function sectionsFromHeadings($: CheerioAPI, root: Cheerio<unknown>): GrantExtra
       current = { heading: 'Program overview', paragraphs: [], bullets: [] };
     }
 
+    if (tag === 'strong') {
+      if (isStandaloneStrongQuestion($, el, text)) {
+        pendingQuestion = text;
+      }
+      return;
+    }
+
     if (tag === 'p' && isUsefulParagraph(text)) {
-      current.paragraphs.push(text);
+      const merged = pendingQuestion ? `${pendingQuestion}\n\n${text}` : text;
+      current.paragraphs.push(merged);
+      pendingQuestion = null;
       return;
     }
 
     if (tag === 'ul' || tag === 'ol') {
+      if (pendingQuestion) {
+        current.paragraphs.push(pendingQuestion);
+        pendingQuestion = null;
+      }
       $(el)
         .find('li')
         .each((__, li) => {
@@ -162,12 +206,37 @@ function markdownToSections(markdown: string): GrantExtractedSection[] {
   const lines = markdown.replace(/\r\n/g, '\n').split('\n');
   const sections: GrantExtractedSection[] = [];
   let current: GrantExtractedSection = { heading: 'Program overview', paragraphs: [], bullets: [] };
+  let pendingQuestion: string | null = null;
 
-  const flush = () => {
+  const flushSection = () => {
+    if (pendingQuestion) {
+      current.paragraphs.push(pendingQuestion);
+      pendingQuestion = null;
+    }
     current.paragraphs = current.paragraphs.filter(isUsefulParagraph);
     current.bullets = current.bullets?.filter((b) => isUsefulParagraph(b));
     if (current.paragraphs.length || (current.bullets && current.bullets.length)) sections.push(current);
     current = { heading: 'Program overview', paragraphs: [], bullets: [] };
+  };
+
+  const pushParagraph = (text: string) => {
+    const line = cleanText(text);
+    if (!line || MARKDOWN_JUNK.test(line) || /^!\[/.test(line)) return;
+    const qOnly = line.match(/^\*\*(.+?)\*\*\s*$/);
+    if (qOnly && qOnly[1].includes('?')) {
+      pendingQuestion = cleanText(qOnly[1]);
+      return;
+    }
+    if (/^\*\*(.+?)\*\*\s*$/.test(line)) return;
+    if (line.endsWith('?') && wordCount(line) >= 4 && line.length < 220) {
+      pendingQuestion = line.replace(/^\*\*|\*\*$/g, '');
+      return;
+    }
+    if (isUsefulParagraph(line)) {
+      const merged = pendingQuestion ? `${pendingQuestion}\n\n${line}` : line;
+      current.paragraphs.push(merged);
+      pendingQuestion = null;
+    }
   };
 
   for (const raw of lines) {
@@ -175,18 +244,24 @@ function markdownToSections(markdown: string): GrantExtractedSection[] {
     if (!line) continue;
     const h = line.match(/^#{1,4}\s+(.+)$/);
     if (h) {
-      flush();
-      if (isUsefulHeading(h[1])) current = { heading: cleanText(h[1]), paragraphs: [], bullets: [] };
+      flushSection();
+      if (isUsefulHeading(stripHeadingEmoji(h[1]))) {
+        current = { heading: stripHeadingEmoji(h[1]), paragraphs: [], bullets: [] };
+      }
       continue;
     }
     if (/^[-*•]\s+/.test(line)) {
-      const bullet = cleanText(line.replace(/^[-*•]\s+/, ''));
+      if (pendingQuestion) {
+        current.paragraphs.push(pendingQuestion);
+        pendingQuestion = null;
+      }
+      const bullet = cleanText(line.replace(/^[-*•]\s+/, '').replace(/^\*\*|\*\*$/g, ''));
       if (isUsefulParagraph(bullet)) current.bullets!.push(bullet);
       continue;
     }
-    if (isUsefulParagraph(line)) current.paragraphs.push(line);
+    pushParagraph(line);
   }
-  flush();
+  flushSection();
   return sections.slice(0, 10);
 }
 

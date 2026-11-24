@@ -6,6 +6,7 @@ import { transformOutsideVerbatim } from './preserve-verbatim';
 import { fetchJobById, fetchJobBySlug } from './job-by-slug-record';
 import { isJobAgeEligible } from './job-age-policy.mjs';
 import * as cheerio from 'cheerio';
+import { linkifyPlainCtaUrlsInEscapedText, linkifyPlainCtaUrlsInHtml } from './linkify-cta-urls';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
 import { getJobSourceIssue } from './job-source-policy';
@@ -350,7 +351,9 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
 }
 
 export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string): string {
-  const raw = rawContentOverride || getCachedRawContent(job);
+  const raw = rawContentOverride
+    ? sanitizeJobDescriptionHtml(rawContentOverride, job.company)
+    : getCachedRawContent(job);
   if (raw && (raw.startsWith('<div class="space-y-6">') || raw.startsWith('<div class="space-y-'))) {
     if (isGenericJobTemplateHtml(raw)) return buildJobContentFallbackHtml(job);
     return repairFlattenedJobParagraphs(cleanPublishHtml(applyJobDescriptionProseClasses(raw)));
@@ -877,7 +880,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
 }
 
 function prepareJobBlockMarkup(html: string): string {
-  let decoded = html.replace(/&nbsp;/g, ' ');
+  let decoded = linkifyPlainCtaUrlsInHtml(html.replace(/&nbsp;/g, ' '));
 
   // Normalize non-breaking hyphens (\u2010, \u2011, \u2012)
   decoded = decoded.replace(/[\u2010\u2011\u2012]/g, '-');
@@ -1311,7 +1314,7 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
   const fullText = $('body').text();
   const rawBlocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li' | 'html' | 'boundary'; text: string }> = [];
 
-  const MAJOR_HEADING_REGEX = /^(?:the opportunity|about (?:the |our )?(?:company|organization|foundation|team|us|you|the role)|who (?:you are|we are)|what (?:you(?:'ll| will) do|you(?:'ll| will) be doing|you bring|we(?:'re| are) looking for|we look for|we offer)|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|required|nice to have|bonus points|benefits|perks|compensation|our values|culture|company culture|working terms|hiring process|our interview process|interview process|where we work|how to apply|your journey with us|you(?:'ll| will) excel in this role(?: if you)?|you(?:'ll| will) know you(?:'re| are) winning(?: when)?|why this role matters(?: & what(?:'s| is) in it for you)?|perks that empower you|ready to build what(?:'s| is) next\??)[:]?$/i;
+  const MAJOR_HEADING_REGEX = /^(?:the opportunity|about (?:the |our )?(?:company|organization|foundation|team|us|you|the role)|about this job|our impact|your impact|how you will fulfill your potential|who (?:you are|we are)|what (?:you(?:'ll| will) do|you(?:'ll| will) be doing|you bring|we(?:'re| are) looking for|we look for|we offer)|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|required|nice to have|bonus points|benefits|perks|compensation|our values|culture|company culture|working terms|hiring process|our interview process|interview process|where we work|how to apply|your journey with us|you(?:'ll| will) excel in this role(?: if you)?|you(?:'ll| will) know you(?:'re| are) winning(?: when)?|why this role matters(?: & what(?:'s| is) in it for you)?|perks that empower you|ready to build what(?:'s| is) next\??)[:]?$/i;
 
   const INTRO_LEADIN_REGEX = /^(?:here(?:'s| is) what.*|in this role.*|as an? \w+.*|we are looking for someone who.*|our ideal candidate.*|your responsibilities will include.*|key deliverables include.*|you will be responsible for.*|duties include.*|responsibilities include.*)[:]?$/i;
 
@@ -1383,6 +1386,12 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
         rawBlocks.push({ type: 'h3', text: hText });
         continue;
       }
+    }
+
+    // Oracle Higher postings use lowercase "o" as a nested bullet marker.
+    if (/^o\s+\S/i.test(line)) {
+      rawBlocks.push({ type: 'li', text: line.replace(/^o\s+/i, '').trim() });
+      continue;
     }
 
     // Skip decorative divider lines (____, ----, ====, ****)
@@ -1713,7 +1722,7 @@ export function buildFeedDescription(job: Job, maxLen = 350): string {
  * `**bold**` markers into <h3> on dozens of pages (e.g. `**expanding**`).
  */
 function renderInlineMd(escaped: string): string {
-  return escaped
+  return linkifyPlainCtaUrlsInEscapedText(escaped)
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
     .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
     .replace(/\*\*/g, '')

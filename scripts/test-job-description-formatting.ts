@@ -37,6 +37,26 @@ assert.deepEqual($('h3').map((_, el) => $(el).text()).get(), [
 ]);
 assert.doesNotMatch(html, /###BLOCK###|###HEADING###/);
 
+const gsDisability =
+  '<p>Responsibilities include trading and client coverage across global markets.</p>' +
+  '<p>We are committed to reasonable accommodations during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html</p>';
+const gsHtml = buildSynthesizedJobContent(fixture, gsDisability);
+const gsPage = cheerio.load(gsHtml);
+assert.equal(gsPage('a[href*="disability-statement"]').length, 1, 'Learn more: URL must become a link');
+assert.equal(gsPage('a[href*="disability-statement"]').text().trim(), 'Learn more');
+assert.ok(!gsHtml.includes('Learn more: https://'), 'Bare Learn more: URL must not render as plain text');
+
+const gsOracle =
+  '<p>&nbsp;OUR IMPACT<br>Wealth Management<br>Across Wealth Management, Goldman Sachs helps empower clients.</p>' +
+  '<p>ABOUT THIS JOB&nbsp;</p>' +
+  '<p>Coaches learn through structured programs.</p>' +
+  '<p>o Retirement</p><p>o Investing</p>';
+const gsOracleHtml = buildSynthesizedJobContent({ ...fixture, company: 'Goldman Sachs' }, gsOracle);
+const gsOraclePage = cheerio.load(gsOracleHtml);
+assert.ok(gsOraclePage('h3').toArray().some((el) => /OUR IMPACT/i.test(gsOraclePage(el).text())), 'GS OUR IMPACT heading');
+assert.equal(gsOraclePage('p').filter((_, el) => /^o\s/i.test(gsOraclePage(el).text())).length, 0, 'GS o-bullets not bare paragraphs');
+assert.ok(gsOraclePage('li').length >= 2, 'GS o-bullets become list items');
+
 const cached = cheerio.load(buildSynthesizedJobContent(fixture,
   `<div class="space-y-6"><p>${zones.join(' ')} ${note}Application Guidelines ${guidelines}</p>` +
   `<p>Use of AI in Our Hiring Process ${ai}</p></div>`));

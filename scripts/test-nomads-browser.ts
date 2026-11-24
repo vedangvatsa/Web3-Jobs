@@ -519,7 +519,7 @@ async function main() {
         await page.getByRole('button', { name: 'Toggle navigation menu', exact: true }).click();
         const menu = page.getByRole('dialog', { name: 'Mobile Navigation' });
         await menu.getByRole('button', { name: 'Resources', exact: true }).click();
-        await menu.getByRole('link', { name: 'Digital Nomad Resources', exact: true }).click();
+        await menu.getByRole('link', { name: 'Digital Nomad Cities', exact: true }).click();
         await expect(menu).toHaveCount(0); await mapReady();
         await page.screenshot({ path: `.cache/nomads/hub-mobile-${width}.png`, fullPage: true });
       }
@@ -548,7 +548,7 @@ async function main() {
     await expect(page.locator('.nomad-report')).toHaveCount(0);
     await go('/resources'); await expect(page.getByRole('heading', { name: 'Remote Work & Nomads' })).toBeVisible();
     await page.getByRole('button', { name: 'Toggle resources menu', exact: true }).click();
-    await page.getByRole('menuitem', { name: 'Digital Nomad Resources', exact: true }).click(); await expect(map).toBeVisible();
+    await page.getByRole('menuitem', { name: 'Digital Nomad Cities', exact: true }).click(); await expect(map).toBeVisible();
     assert.deepEqual(errors, [], 'Browser errors'); assert.ok(payloads['/nomads'] < 150000, 'Hub HTML bandwidth budget');
     console.log(JSON.stringify({ routes: routes.length, redirects: oldRoutes.length, viewportWidths: [320, 390, 768, 1024, 1440], mapIntermediateZooms: new Set(zoomSamples).size, comparison: 'in-page, URL, keyboard and reload passed', printPdfBytes: pdf.length, htmlGzipBytes: payloads, errors }, null, 2));
     await context.close();

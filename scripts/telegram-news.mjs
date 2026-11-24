@@ -25,6 +25,7 @@ import {
   recentPostedTexts,
   sameEvent,
 } from './news-story-dedup.mjs';
+import { cleanTelegramNewsCopy, isRelatedMediaLine, normalizeTelegramNewsStory } from './lib/news-copy-clean.mjs';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
 
@@ -126,8 +127,10 @@ async function fetchAllNews() {
         const items = [];
         for (const item of (feed.items || []).slice(0, 15)) {
           if (item.title && item.link && item.pubDate) {
+            const title = cleanTelegramNewsCopy(item.title.trim());
+            if (!title || (isRelatedMediaLine(item.title) && !/^magazine:\s/i.test(item.title.trim()))) continue;
             items.push({
-              title: item.title.trim(),
+              title,
               link: item.link.trim(),
               snippet: (item.contentSnippet || '').substring(0, 300).trim(),
               source: f.source,
@@ -283,8 +286,8 @@ ${headlines}`;
 // ── Format Telegram message ──
 function formatMessage(stories) {
   const lines = stories.map(s => {
-    const headline = escapeHtml(s.headline);
-    const summary = escapeHtml(s.summary);
+    const headline = escapeHtml(cleanTelegramNewsCopy(s.headline) || s.headline);
+    const summary = escapeHtml(cleanTelegramNewsCopy(s.summary) || s.summary);
     // Native links already carry their own UTM params; only tag bare RSS links.
     const trackedLink = /[?&]utm_source=/.test(s.link)
       ? s.link
@@ -487,7 +490,11 @@ Return ONLY JSON: {"headline": "...", "summary": "..."}`;
   } // end RSS fill
 
   // Native stories lead the digest, RSS fills the rest.
-  stories = uniqueNewsStories([...nativeStories, ...stories]).slice(0, STORIES_PER_POST);
+  stories = uniqueNewsStories(
+    [...nativeStories, ...stories]
+      .map(normalizeTelegramNewsStory)
+      .filter(Boolean),
+  ).slice(0, STORIES_PER_POST);
   console.log(`  Final digest: ${stories.length} stories (${nativeStories.length} native)`);
 
   if (stories.length === 0) {

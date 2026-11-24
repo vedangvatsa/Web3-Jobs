@@ -1,4 +1,5 @@
 import { createElement, Fragment, type ReactNode } from 'react';
+import { linkifyPlainCtaUrlsInMarkdown } from '@/lib/linkify-cta-urls';
 import { stripThirdPartyCommunityPromo } from '@/lib/community-link-sanitizer';
 
 function cleanUrlTracking(url: string): string {
@@ -42,6 +43,7 @@ export function renderDescriptionInline(text: string, depth = 0, links = true): 
     text = stripThirdPartyCommunityPromo(text);
   }
   if (depth === 0 && text) {
+    text = linkifyPlainCtaUrlsInMarkdown(text);
     text = foldParentheticalUrls(text);
   }
   const nodes: ReactNode[] = [];

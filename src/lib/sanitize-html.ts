@@ -4,6 +4,8 @@
  * without corrupted attributes, Slack/Greenhouse/Ashby junk data, or bad linebreaks.
  */
 
+import { normalizeGoldmanSachsJobHtml } from './goldman-sachs-job-html';
+import { linkifyPlainCtaUrlsInHtml } from './linkify-cta-urls';
 import { hasVerbatimText, transformOutsideVerbatim } from './preserve-verbatim';
 
 /** Greenhouse/Coinbase accessibility promo leaked from ATS equal-opportunity footers. */
@@ -184,7 +186,9 @@ function sanitizeHtmlPart(html: string, options?: { company?: string; forJobDesc
   cleaned = cleaned.replace(/<ol>\s*<\/ol>/gi, '');
 
   if (options?.forJobDescription) {
+    cleaned = normalizeGoldmanSachsJobHtml(cleaned, company);
     cleaned = repairCorruptedHighlightMarkup(cleaned, company);
+    cleaned = linkifyPlainCtaUrlsInHtml(cleaned);
   }
 
   // 11. Fix double spaces and clean up whitespace

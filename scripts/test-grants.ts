@@ -3,6 +3,13 @@ import path from 'path';
 import type { GrantProgram } from '../src/types';
 import { countStoredGrantWords } from '../src/lib/grant-editorial';
 import { grantApplicationStatus } from './lib/grant-application-status';
+import { grantHasScrapedSpam, grantNeedsSourceRefetch } from '../src/lib/grant-source-quality';
+import { thinGrantExpansions } from './thin-grant-expansions';
+
+const thinFirstParagraphById: Record<string, string | undefined> = {};
+for (const [id, patch] of Object.entries(thinGrantExpansions)) {
+  thinFirstParagraphById[id] = patch.sections?.[0]?.paragraphs?.[0];
+}
 
 const GRANTS_PATH = path.join(process.cwd(), 'content', 'grants', 'grants.json');
 const GRANTS_META_PATH = path.join(process.cwd(), 'content', 'grants-meta.json');
@@ -51,7 +58,12 @@ function runTests() {
     'chain.link/community/grants',
     'coliseum.org',
   ];
-  const bannedSourceMethods = ['listing-summary-unverified-fetch', 'listing-description-live-url'];
+  const bannedSourceMethods = [
+    'listing-summary-unverified-fetch',
+    'listing-description-live-url',
+    'listing-summary-pending-refetch',
+  ];
+  const allowedCuratedMethods = ['curated-official-summary'];
 
   for (let i = 0; i < grants.length; i++) {
     const g = grants[i];
@@ -92,7 +104,7 @@ function runTests() {
     }
 
     const method = (g as { descriptionSource?: { method?: string } }).descriptionSource?.method;
-    if (method && bannedSourceMethods.includes(method)) {
+    if (method && bannedSourceMethods.includes(method) && !allowedCuratedMethods.includes(method)) {
       throw new Error(
         `Grant ${g.id} uses unverified listing copy (${method}). Remove it or fix the official URL, then re-run enrich after liveness passes.`,
       );
@@ -102,6 +114,19 @@ function runTests() {
     if (!urlLive?.ok) {
       throw new Error(
         `Grant ${g.id} is not URL-live. Run: npx tsx scripts/verify-grant-liveness.ts --apply (and remove dead programs from the catalog).`,
+      );
+    }
+
+    const gp = g as GrantProgram;
+    if (grantHasScrapedSpam(gp)) {
+      throw new Error(
+        `Grant ${g.id} contains scraped spam body copy. Run: npx tsx scripts/replace-fabricated-grant-bodies.ts --apply`,
+      );
+    }
+    const refetchReasons = grantNeedsSourceRefetch(gp, thinFirstParagraphById);
+    if (refetchReasons.length > 0) {
+      throw new Error(
+        `Grant ${g.id} needs source refetch (${refetchReasons.join(', ')}). Run: npx tsx scripts/replace-fabricated-grant-bodies.ts --apply`,
       );
     }
   }

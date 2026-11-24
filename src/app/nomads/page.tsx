@@ -10,7 +10,7 @@ export const revalidate = 86400;
 export const metadata = nomadMetadata('/nomads');
 
 export default function NomadsPage() {
-  return <NomadShell title="Digital Nomad Resources">
+  return <NomadShell title="Digital Nomad Cities">
     <Suspense fallback={<div className="h-96 animate-pulse rounded-lg bg-muted" aria-label="Loading destinations" />}><CityExplorer cities={getNomadExplorerCities()} date={new Date().toISOString().slice(0, 10)} referencePeriod={nomadSources.referencePeriod} /></Suspense>
   </NomadShell>;
 }

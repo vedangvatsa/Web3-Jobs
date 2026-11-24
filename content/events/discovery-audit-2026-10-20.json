@@ -5464,44 +5464,6 @@
       }
     },
     {
-      "id": "discovery-evt-UhNfhuMgGZHqE7F",
-      "name": "Bitcoin Indonesia Community Meetup Magelang 25 Oktober 2026",
-      "startDate": "2026-10-25T14:00:00+07:00",
-      "endDate": "2026-10-25T15:00:00+07:00",
-      "timezone": "Asia/Jakarta",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-UhNfhuMgGZHqE7F",
-      "url": "https://luma.com/oxti87c7",
-      "lane": "asia-africa",
-      "reason": "Distinct dated Magelang occurrence absent from inventory. Primary confirms the current Simbar venue; did not use the organizer calendar's separate stale September-titled entry at another venue.",
-      "evidence": [
-        {
-          "url": "https://luma.com/oxti87c7",
-          "fetchedAt": "2026-10-20T08:06:39.563Z",
-          "excerpt": "Bitcoin Indonesia Community Meetup Magelang 25 Oktober 2026. start_at=2026-10-25T07:00:00.000Z; end_at=2026-10-25T08:00:00.000Z; timezone=Asia/Jakarta; visibility=public. Programme: kendali atas uang, cara menyimpan Bitcoin sendiri. Tiket GRATIS, tapi peserta beli makan/minum sendiri. Public venue: Simbar Resto & Cafe, Watupenganten, Tlogorejo, Grabag, Magelang, Jawa Tengah 56196.",
-          "representation": "Primary-page HTML: embedded event fields, public description_mirror and explicitly public address; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:55.008Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/kp/b01edb27-d69f-4959-ad58-9d32d9e20abc.jpg",
-        "fetchedAt": "2026-10-20T09:49:55.126Z",
-        "status": 200,
-        "local": "/events/discovery-evt-uhnfhumggzhqe7f-59e70a83.webp",
-        "sourceSha256": "b1ae5896f55f19e6c042c2da2f42efcab0f9c4b0efd4775caaa14d2974155ba8",
-        "sha256": "67cf6ed8009897559560aa882bfaf0e496686162572e96d59d6e0f0e5bf19dc6",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 96716
-      }
-    },
-    {
       "id": "discovery-evt-vJUx9grI6doLBwb",
       "name": "Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026",
       "startDate": "2026-10-25T15:30:00+07:00",
@@ -9892,12 +9854,6 @@
       "url": "https://luma.com/a7qk7kcl",
       "result": "held-stale-programme",
       "note": "October occurrence fields conflict with body advertising a 21 March speaker session. Eventbrite has only a generic recurring programme and a different duration.",
-      "lane": "asia-africa"
-    },
-    {
-      "url": "https://luma.com/oxti87c7",
-      "result": "verified-new",
-      "note": "25 October Magelang self-custody discussion at Simbar Resto & Cafe.",
       "lane": "asia-africa"
     },
     {

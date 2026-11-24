@@ -1,6 +1,7 @@
 import type { GrantProgram } from '@/types';
 import type { EventEditorialArticle } from '@/lib/events';
 import { normalizeGrantSections } from '@/lib/grant-content-cleanup';
+import { stripThirdPartyCommunityPromo } from '@/lib/community-link-sanitizer';
 
 export interface GrantEditorialSection {
   heading: string;
@@ -57,7 +58,7 @@ export function countStoredGrantWords(grant: GrantProgram): number {
 /** Maps stored source sections to the detail layout; no synthetic padding. */
 export function generateGrantEditorial(grant: GrantProgram): GrantEditorial {
   const eco = grant.ecosystem && grant.ecosystem !== 'Other' && grant.ecosystem !== 'Global' ? grant.ecosystem : null;
-  const summaryLead = grant.description.trim();
+  const summaryLead = stripThirdPartyCommunityPromo(grant.description.trim());
 
   let sections: GrantEditorialSection[] =
     grant.sections?.map((s) => ({

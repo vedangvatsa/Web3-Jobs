@@ -4,7 +4,7 @@ import legacyRoutesJson from '../../../content/nomads/legacy-routes.json';
 export const NOMAD_TOOL_PATHS = toolPaths;
 export const NOMAD_LEGACY_ROUTES: Readonly<Record<string, string>> = legacyRoutesJson;
 const tools = [
-  { key: 'cities', label: 'Cities', title: 'Digital Nomad Resources', description: 'Explore city guides and find coworking spaces, coliving and places to stay on the map.', group: 'Explore' },
+  { key: 'cities', label: 'Cities', title: 'Digital Nomad Cities', description: 'Explore city guides and find coworking spaces, coliving and places to stay on the map.', group: 'Explore' },
   { key: 'visas', label: 'Visas', title: 'Visas for Digital Nomads', description: 'Browse remote-stay references and passport entry requirements.', group: 'Explore' },
 ] as const;
 export const NOMAD_TOOLS = tools.map(tool => ({ ...tool, href: toolPaths[tool.key] }));
