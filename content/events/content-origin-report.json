@@ -71,21 +71,6 @@
       ]
     },
     {
-      "id": "luma-batch-evt8I0lRm1lzJXpE",
-      "slug": "web3devs-tz30",
-      "name": "Cocktail Party at Our New Office - SNC",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/web3devs-tz30",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "AGENDA",
-        "DETAILS"
-      ]
-    },
-    {
       "id": "luma-crypto-pMblGmFDgWwshUx",
       "slug": "baach",
       "name": "Bay Area AI+car hackathon",

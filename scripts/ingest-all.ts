@@ -469,6 +469,7 @@ const FRESH_FEEDS: FeedConfig[] = [
   { company: 'Story Protocol',       type: 'ashby',      slug: 'story',                  url: 'https://api.ashbyhq.com/posting-api/job-board/story?includeCompensation=true' },
   { company: 'Mantle Network',       type: 'ashby',      slug: 'mantle',                 url: 'https://api.ashbyhq.com/posting-api/job-board/mantle?includeCompensation=true' },
   { company: 'Paradigm',             type: 'ashby',      slug: 'paradigm',               url: 'https://api.ashbyhq.com/posting-api/job-board/paradigm?includeCompensation=true' },
+  { company: 'Nous Research',        type: 'ashby',      slug: 'nousresearch',           url: 'https://api.ashbyhq.com/posting-api/job-board/nousresearch?includeCompensation=true' },
   { company: 'Blockstream',          type: 'ashby',      slug: 'blockstream',            url: 'https://api.ashbyhq.com/posting-api/job-board/blockstream?includeCompensation=true' },
   { company: 'Wormhole Labs',        type: 'ashby',      slug: 'wormholelabs',           url: 'https://api.ashbyhq.com/posting-api/job-board/wormholelabs?includeCompensation=true' },
   { company: 'Moonshot',             type: 'ashby',      slug: 'moonshot',               url: 'https://api.ashbyhq.com/posting-api/job-board/moonshot?includeCompensation=true' },
@@ -687,6 +688,8 @@ async function main() {
   await ingestAshbySimple('Solana Foundation',  'Solana%20Foundation',   'Remote / Global',        cacheData, descData);
   await ingestAshbySimple('Solana Labs',        'solanalabs',            'San Francisco / Remote', cacheData, descData);
   await ingestAshbySimple('Open Standard',      'openstandard',          'San Francisco',          cacheData, descData);
+  await ingestAshbySimple('Paradigm',             'paradigm',              'Remote / Global',        cacheData, descData);
+  await ingestAshbySimple('Nous Research',        'nousresearch',          'Remote / Global',        cacheData, descData);
 
   console.log('\n--- Single-company Greenhouse boards ---');
   await ingestGreenhouse('Digital Asset',       'digitalassetcorp',      'New York City / Remote', cacheData, descData);

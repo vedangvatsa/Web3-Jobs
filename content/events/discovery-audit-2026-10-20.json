@@ -67,17 +67,6 @@
       "descriptionSha256": "4112e41f94c49335f063d5d2273bccb558821064b505c7627717d657e59f5b3b"
     },
     {
-      "id": "luma-batch-evt8I0lRm1lzJXpE",
-      "slug": "snc-evening-panel-rooftop-cocktails",
-      "aliases": [
-        "web3devs-tz30"
-      ],
-      "startDate": "2026-10-25T16:00:00.000Z",
-      "endDate": "2026-10-25T19:00:00.000Z",
-      "timezone": "Asia/Jerusalem",
-      "descriptionSha256": "f7f9b7f2240ff000be7a89b14f2050ca00495e2004103519f106aca2cd11d366"
-    },
-    {
       "id": "luma-crypto-pMblGmFDgWwshUx",
       "slug": "bay-area-ai-car-hackathon",
       "aliases": [

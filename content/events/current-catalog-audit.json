@@ -98,63 +98,6 @@
       }
     },
     {
-      "id": "luma-batch-evt8I0lRm1lzJXpE",
-      "oldSlug": "web3devs-tz30",
-      "slug": "snc-evening-panel-rooftop-cocktails",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 989,
-      "characters": 1645,
-      "factChanges": {
-        "name": "Evening Panel + Rooftop Cocktails - our new home at SNC",
-        "locationHidden": false,
-        "city": "Tel Aviv-Yafo",
-        "venueName": "Startup Nation Central",
-        "streetAddress": "Startup Nation Central, Lilienblum St 28, Tel Aviv-Yafo, 6513307, Israel",
-        "addressLocality": "Tel Aviv-Yafo",
-        "addressRegion": "Tel Aviv District",
-        "addressCountry": "IL",
-        "neighborhood": "Lev HaIr",
-        "coordinates": {
-          "latitude": 32.0622896,
-          "longitude": 34.7704938
-        },
-        "hosts": [
-          "Amit Shilo - Masterkey.vc",
-          "Saul (Shauli) Rejwan",
-          "Web3 Developers Underground Community"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "Web3 Devs Underground",
-          "url": "https://web3devs.org/"
-        },
-        "approvalRequired": true,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/web3devs-tz30",
-            "price": 0,
-            "availability": "InStock"
-          },
-          {
-            "name": "Sponsor",
-            "url": "https://luma.com/web3devs-tz30",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/web3devs-tz30",
-        "fetchedAt": "2026-10-12T11:25:14.469Z",
-        "status": 200,
-        "sha256": "4224bea0c8ca4fb1977dd6ea9088021a3af28b6c910ae7fbb8eb13ef0befa12f"
-      }
-    },
-    {
       "id": "luma-crypto-pMblGmFDgWwshUx",
       "oldSlug": "baach",
       "slug": "bay-area-ai-car-hackathon",

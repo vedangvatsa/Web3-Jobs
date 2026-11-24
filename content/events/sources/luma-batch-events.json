@@ -1364,36 +1364,6 @@
     }
   },
   {
-    "id": "luma-batch-evt8I0lRm1lzJXpE",
-    "slug": "web3devs-tz30",
-    "name": "Cocktail Party at Our New Office - SNC",
-    "description": "We moved in. Come see the place, and stay for the panel.\n\nAfter a full day of Office Hours downstairs, the evening opens with a panel and finishes on the roof. Eighty seats, approval-based - if you have a confirmed 1:1 that day, you are approved first.\n\nAGENDA\n18:00 Doors, floor 4\n18:30 - 19:15 Panel - the headline of the evening. Panelists are drawn from the Mid-Chain speaker list and the Office Hours hosts; the lineup goes out to registrants before the date.\n19:15 - 21:00 Cocktails on the rooftop\n\nDETAILS\nSunday, October 25, 2026, 18:00 - 21:00\nStartup Nation Central, Lilienblum St 28, Tel Aviv-Yafo - floor 4 and the roof\nFree. Approval required. 80 seats.\n\nThis is the evening half of a full day at our offices. Office Hours - 20-minute 1:1s with people who already solved your problem - runs during the day and is booked separately.\n\nSTAY CONNECTED\nAll events: lu.ma/web3devs_underground\nWebsite: web3devs.org\n\nHosted by Web3 Devs Underground.\nPowered by Masterkey VC.",
-    "startDate": "2026-10-25T16:00:00.000Z",
-    "endDate": "2026-10-25T19:00:00.000Z",
-    "city": "Tel Aviv-Yafo",
-    "country": "Israel",
-    "location": "Startup Nation Central, Startup Nation Central, Lilienblum St 28, Tel Aviv-Yafo, 6513307, Israel",
-    "url": "https://luma.com/web3devs-tz30",
-    "registrationUrl": "https://luma.com/web3devs-tz30",
-    "coverImage": "/events/luma-batch-evt8I0lRm1lzJXpE-350977d7.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Web3 Devs Underground"
-    ],
-    "price": "Free",
-    "timezone": "Asia/Jerusalem",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "party",
-    "sourceVerification": {
-      "url": "https://luma.com/web3devs-tz30",
-      "eventId": "evt-8I0lRm1lzJXpEu3",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtxsQpQLAW6ikXL",
     "slug": "fd2jiski",
     "name": "Privacy,Technology,and Bitcoin",

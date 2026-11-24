@@ -275,6 +275,12 @@ function inferSideEvents(e: LumaApiEvent): string[] | undefined {
   if ((/breakpoint|bp26/i.test(text) || /solana/i.test(text)) && (city.includes('london') || /united kingdom|uk|gb/i.test(e.geo_address_info?.country || '')) && start >= '2026-11-01' && start <= '2026-11-20') {
     side.push('breakpoint', 'solana-breakpoint');
   }
+  if (
+    /adfw|abu dhabi finance week/i.test(text) ||
+    (city.includes('abu dhabi') && start >= '2026-12-07' && start <= '2026-12-11')
+  ) {
+    side.push('adfw');
+  }
   return side.length ? [...new Set(side)] : undefined;
 }
 
@@ -404,7 +410,22 @@ async function main() {
     await new Promise((r) => setTimeout(r, 100));
   }
 
-  const directSlugs = ['a3rkoop3', 't2xpm5gj', 'mgxg6ko8', 'guz9u3ic'];
+  const directSlugs = [
+    'a3rkoop3',
+    't2xpm5gj',
+    'mgxg6ko8',
+    'guz9u3ic',
+    'xpt9aw9j',
+    'trust-circle-wealth-abu-dhabi',
+    'v1z81ldc',
+    'barm4w4s',
+    'FutureFinanceConnect_ADFW26',
+    'adfw-soiree',
+    'moonward-ft9s',
+    'HSC_Abu_Dhabi',
+    'du1wse77',
+    'ng6xp9cf',
+  ];
   console.log(`Direct events: ${directSlugs.length}`);
   for (const slug of directSlugs) {
     const ev = await fetchDirectEvent(slug);

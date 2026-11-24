@@ -1,4 +1,8 @@
 {
+  "w3v-abu-dhabi-finance-week-2026": {
+    "slug": "adfw",
+    "aliases": []
+  },
   "premier-ibt-tour-2026": {
     "slug": "ibt",
     "aliases": []
@@ -59,12 +63,6 @@
   "premier-hackmeridian": {
     "slug": "hackmeridian",
     "aliases": []
-  },
-  "luma-batch-evt8I0lRm1lzJXpE": {
-    "slug": "snc-evening-panel-rooftop-cocktails",
-    "aliases": [
-      "web3devs-tz30"
-    ]
   },
   "luma-crypto-pMblGmFDgWwshUx": {
     "slug": "bay-area-ai-car-hackathon",
@@ -3911,6 +3909,342 @@
   },
   "luma-crypto-7SkJQFspr9hB090": {
     "slug": "solana-bresol",
+    "aliases": []
+  },
+  "luma-evt-FCbAyhlPmgNK9ZL": {
+    "slug": "afterhours",
+    "aliases": [
+      "after-hours-adfw-edition-powered-checkout-com"
+    ]
+  },
+  "luma-evt-Ksg5VGKCxhbUeax": {
+    "slug": "trustcircle",
+    "aliases": [
+      "trust-circle-future-global-wealth-co-hosted-plasma"
+    ]
+  },
+  "luma-evt-0NZbyd12N5Bj1tT": {
+    "slug": "merklescience",
+    "aliases": [
+      "merkle-science-meet-abu-dhabi"
+    ]
+  },
+  "luma-evt-7pNtCmtOot58w2l": {
+    "slug": "moonward",
+    "aliases": [
+      "allocator-x-portfolio-manager-showcase"
+    ]
+  },
+  "luma-evt-F0cGQUUmatFqHEe": {
+    "slug": "tokenizead",
+    "aliases": [
+      "tokenize-connect-abu-dhabi"
+    ]
+  },
+  "luma-evt-Pz3stoDuWENgsCr": {
+    "slug": "futurefinance",
+    "aliases": [
+      "futurefinance-connect"
+    ]
+  },
+  "luma-evt-zJiHhDGYWlnRJLi": {
+    "slug": "soiree",
+    "aliases": [
+      "adfw-soiree-soter-insure-galaxy"
+    ]
+  },
+  "luma-evt-GWWJMH9OVu6bYzD": {
+    "slug": "hsc-abu",
+    "aliases": [
+      "hsc-asset-management-abu-dhabi-9-10-december"
+    ]
+  },
+  "luma-evt-8j5JVtChlS0776J": {
+    "slug": "cbc-mixer",
+    "aliases": [
+      "business-leaders-soiree-evening-mixer-during-adfw"
+    ]
+  },
+  "luma-evt-r1SUwOChZpwR0cR": {
+    "slug": "padel",
+    "aliases": [
+      "padel-social-adfw"
+    ]
+  },
+  "luma-crypto-JwKsEEmRhiBD6lT": {
+    "slug": "planx-founder-growth",
+    "aliases": []
+  },
+  "luma-crypto-vnBJJsLTmLgGNAF": {
+    "slug": "portugal-dmcc-elite",
+    "aliases": []
+  },
+  "luma-crypto-rn3Fw1AdFOnuKEh": {
+    "slug": "meca-cfo-summit-uae",
+    "aliases": []
+  },
+  "luma-crypto-jkeJHkim9eeT4yG": {
+    "slug": "crypto-brunch-dubai",
+    "aliases": []
+  },
+  "luma-crypto-XaGS8mxfY2MRL5C": {
+    "slug": "conclave-yacht-dubai",
+    "aliases": []
+  },
+  "luma-crypto-xaWsUCCvz2zpu5B": {
+    "slug": "block-mondays-network",
+    "aliases": []
+  },
+  "luma-crypto-EeanGh0V633peRZ": {
+    "slug": "sky-dive-dubai-bingx",
+    "aliases": []
+  },
+  "luma-crypto-NL5lKanjA2HDsPe": {
+    "slug": "padel-tournament-bingx",
+    "aliases": []
+  },
+  "luma-crypto-qafoDafWDdBPxvY": {
+    "slug": "crypto-banya-dubai",
+    "aliases": []
+  },
+  "luma-crypto-qJLIzlJ1zqvwoHF": {
+    "slug": "liquidity-whales-hookah",
+    "aliases": []
+  },
+  "luma-crypto-lfeZgxp3F7SO5xP": {
+    "slug": "bingx-banya-bingx-dubai",
+    "aliases": []
+  },
+  "luma-crypto-ABp1YO3iMfyQVJr": {
+    "slug": "invest-yacht-connect",
+    "aliases": []
+  },
+  "luma-crypto-BADTflsUFmZNyRd": {
+    "slug": "ai-future-day-1",
+    "aliases": []
+  },
+  "luma-crypto-4ENBNInWFgB3EuQ": {
+    "slug": "blockchain-life-day-1",
+    "aliases": []
+  },
+  "luma-crypto-jgc3gFq0DbBTCxl": {
+    "slug": "born-up-blockchain-life",
+    "aliases": []
+  },
+  "luma-crypto-xiT8AOxEL6goTHR": {
+    "slug": "diner-prive",
+    "aliases": []
+  },
+  "luma-crypto-zqhg8wlq84bd5Jk": {
+    "slug": "dubai-tech-tuesdays-no",
+    "aliases": []
+  },
+  "luma-crypto-pT9xG1SSgNIqy2R": {
+    "slug": "dwf-labs-haus-uae-edition",
+    "aliases": []
+  },
+  "luma-crypto-HqJhg5EQjJQFICb": {
+    "slug": "satoshi-dinner-club-dubai",
+    "aliases": []
+  },
+  "luma-crypto-pQJUZrZ0eDzBImG": {
+    "slug": "networking-evening-about",
+    "aliases": []
+  },
+  "luma-crypto-EkFujEipFJBg8lb": {
+    "slug": "ai-future-day-2",
+    "aliases": []
+  },
+  "luma-crypto-Yte2tcrkipkopII": {
+    "slug": "blockchain-life-day-2",
+    "aliases": []
+  },
+  "luma-crypto-3bE2t0WPLWeG41h": {
+    "slug": "ai-x-strategy-workshop",
+    "aliases": []
+  },
+  "luma-crypto-CsfAUvJdG1XNGeP": {
+    "slug": "official-afterparty",
+    "aliases": []
+  },
+  "luma-crypto-n3gLph8LERCQ913": {
+    "slug": "jet-ski-bingx-dubai-week",
+    "aliases": []
+  },
+  "luma-crypto-lIMMXmKHIKoUXFK": {
+    "slug": "gate-drift",
+    "aliases": []
+  },
+  "luma-crypto-89QdEmvMS1Tfh9c": {
+    "slug": "dune-buggy-bingx-dubai",
+    "aliases": []
+  },
+  "luma-crypto-rb2kAYSXFkVhCGd": {
+    "slug": "dune-motocross-bingx",
+    "aliases": []
+  },
+  "luma-crypto-5wt40hE9wAshMMO": {
+    "slug": "f1-super-yacht-waiting",
+    "aliases": []
+  },
+  "luma-crypto-3y0O3F7lqrjBG29": {
+    "slug": "f1-abu-dhabi-grand-prix",
+    "aliases": []
+  },
+  "luma-crypto-DJC7bvL0HEi3JAA": {
+    "slug": "f1-abu-dhabi-grand-prix-1",
+    "aliases": []
+  },
+  "luma-crypto-EojhhKy9foI7WV9": {
+    "slug": "blockchain-life-se",
+    "aliases": []
+  },
+  "luma-crypto-qdagAu8TQuz6IaW": {
+    "slug": "bitcoin-rails",
+    "aliases": []
+  },
+  "luma-crypto-8u31NK4aPR0tjN8": {
+    "slug": "capital-gathering-f1",
+    "aliases": []
+  },
+  "luma-crypto-7yStNpIKZToctMJ": {
+    "slug": "bitcoin-rails-1",
+    "aliases": []
+  },
+  "luma-crypto-nlF0aR473WXq8dA": {
+    "slug": "family-offices-investors",
+    "aliases": []
+  },
+  "luma-crypto-pYLG6dXSHjBHqX4": {
+    "slug": "ecox-network-block",
+    "aliases": []
+  },
+  "luma-crypto-xqDK3jx8AAZDjBe": {
+    "slug": "further-network-summit",
+    "aliases": []
+  },
+  "luma-crypto-GsCngg7aeJS9IAx": {
+    "slug": "meet-manus-2-0-dubai",
+    "aliases": []
+  },
+  "luma-crypto-AwC2l989ZaHg7Hi": {
+    "slug": "digital-asset-summit",
+    "aliases": []
+  },
+  "luma-crypto-Cunn13nKiY7HRXb": {
+    "slug": "meet-manus-2-0-dubai-1",
+    "aliases": []
+  },
+  "luma-crypto-KQNsaZEKOb6HqhS": {
+    "slug": "founder-vc-vip-dinner",
+    "aliases": []
+  },
+  "luma-crypto-lPEUUwN9QDiZAPo": {
+    "slug": "meet-next-generation",
+    "aliases": []
+  },
+  "luma-crypto-HgPQQVUoDXkz3Gm": {
+    "slug": "private-lp-only-dinner",
+    "aliases": []
+  },
+  "luma-crypto-dz0MXGbPcSzCZXS": {
+    "slug": "solana-arcade-night",
+    "aliases": []
+  },
+  "luma-crypto-Ksg5VGKCxhbUeax": {
+    "slug": "trust-circle-future",
+    "aliases": [
+      "luma-evt-ksg5vgkcxhbueax"
+    ]
+  },
+  "luma-crypto-sYN5Ikn8TcO7vuy": {
+    "slug": "one-dollar-two-rails",
+    "aliases": []
+  },
+  "luma-crypto-ag6JFY5WZrCIGbi": {
+    "slug": "solana-coffee-connect",
+    "aliases": []
+  },
+  "luma-crypto-0NZbyd12N5Bj1tT": {
+    "slug": "merkle-science-meet-abu",
+    "aliases": [
+      "luma-evt-0nzbyd12n5bj1tt"
+    ]
+  },
+  "luma-crypto-7pNtCmtOot58w2l": {
+    "slug": "allocator-x-portfolio",
+    "aliases": [
+      "luma-evt-7pntcmtoot58w2l"
+    ]
+  },
+  "luma-crypto-AHUgCZPsDXLAH7E": {
+    "slug": "ai-x-gpu-pre-summit-ai",
+    "aliases": []
+  },
+  "luma-crypto-Pz3stoDuWENgsCr": {
+    "slug": "futurefinance-connect-2026",
+    "aliases": [
+      "luma-evt-pz3stoduwengscr"
+    ]
+  },
+  "luma-crypto-otro8DisDQlpnn6": {
+    "slug": "gitex-networking-yacht",
+    "aliases": []
+  },
+  "luma-crypto-XgQtpZzAhfXH3DR": {
+    "slug": "private-dinner-nsureai",
+    "aliases": []
+  },
+  "luma-crypto-6UA9pASZEyHYzNL": {
+    "slug": "institutional-table",
+    "aliases": []
+  },
+  "luma-crypto-hykw5HHVtMLjyZV": {
+    "slug": "dawn",
+    "aliases": []
+  },
+  "luma-crypto-GWWJMH9OVu6bYzD": {
+    "slug": "hsc-asset-management-abu",
+    "aliases": [
+      "luma-evt-gwwjmh9ovu6byzd"
+    ]
+  },
+  "luma-crypto-XNK65MEruTZ5suH": {
+    "slug": "uae-ai-leaders",
+    "aliases": []
+  },
+  "luma-crypto-JfQf6kTAQy51NBb": {
+    "slug": "vntr-investor-forum-dubai",
+    "aliases": []
+  },
+  "luma-crypto-7Xq7SnshHRTjd43": {
+    "slug": "hsc-private-dinner",
+    "aliases": []
+  },
+  "luma-crypto-hYKTFgrn3FgJ7GG": {
+    "slug": "majlis",
+    "aliases": []
+  },
+  "luma-crypto-8j5JVtChlS0776J": {
+    "slug": "business-leaders-soiree",
+    "aliases": [
+      "luma-evt-8j5jvtchls0776j"
+    ]
+  },
+  "luma-crypto-yMbCNJGJIHQ66mk": {
+    "slug": "longitude-11th-edition",
+    "aliases": []
+  },
+  "luma-crypto-IfHM8GqD6Sy7Z7H": {
+    "slug": "vex-house-abu-dhabi",
+    "aliases": []
+  },
+  "luma-crypto-8VE5f7DsHuJyEB1": {
+    "slug": "zig-summit",
+    "aliases": []
+  },
+  "luma-crypto-w2iQK7fGvYuen2M": {
+    "slug": "dubai-venture-capital",
     "aliases": []
   }
 }

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import readline from 'readline';
-import XLSX from 'xlsx';
+import ExcelJS from 'exceljs';
 
 /* ─── CSV Parser ─── */
 function parseLine(line) {
@@ -103,13 +103,17 @@ function sorted(obj) { return Object.entries(obj).sort((a,b) => b[1]-a[1]); }
 
 function addSheet(wb, name, headers, rows) {
   const safeName = name.substring(0, 31);
-  const ws = XLSX.utils.aoa_to_sheet([headers, ...rows]);
-  ws['!cols'] = headers.map((h, i) => {
+  const ws = wb.addWorksheet(safeName);
+  ws.addRow(headers);
+  rows.forEach((row) => ws.addRow(row));
+  headers.forEach((h, i) => {
     let max = String(h).length;
-    rows.forEach(r => { const v = String(r[i]||''); if (v.length > max) max = v.length; });
-    return { wch: Math.min(max + 2, 55) };
+    rows.forEach((r) => {
+      const v = String(r[i] ?? '');
+      if (v.length > max) max = v.length;
+    });
+    ws.getColumn(i + 1).width = Math.min(max + 2, 55);
   });
-  XLSX.utils.book_append_sheet(wb, ws, safeName);
   console.log(`  ✓ ${safeName}: ${rows.length} rows`);
 }
 
@@ -122,7 +126,7 @@ async function main() {
   console.log('Parsing sitemap...');
   const sitemap = parseSitemap();
 
-  const wb = XLSX.utils.book_new();
+  const wb = new ExcelJS.Workbook();
 
   // ═══════════════════════════════════════════════════
   // SHEET 1: OVERVIEW (merged from old Overview + Seniority + Job Types)
@@ -280,9 +284,10 @@ async function main() {
 
   // Write workbook
   const outPath = '/Users/vedang/Documents/platform-stats.xlsx';
-  XLSX.writeFile(wb, outPath);
+  await wb.xlsx.writeFile(outPath);
+  const sheetNames = wb.worksheets.map((ws) => ws.name);
   console.log(`\n✅ Written to ${outPath}`);
-  console.log(`   ${wb.SheetNames.length} sheets: ${wb.SheetNames.join(', ')}`);
+  console.log(`   ${sheetNames.length} sheets: ${sheetNames.join(', ')}`);
 
   // ═══════════════════════════════════════════════════
   // ALSO GENERATE THE HASHTAGWEB3 PAGES CSV

@@ -1,6 +1,12 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import * as XLSX from 'xlsx';
+import {
+  loadWorkbook,
+  parseExcelSerialDate,
+  worksheetFormula,
+  worksheetPrimitive,
+  worksheetUsedRowCount,
+} from './lib/excel-workbook';
 import { canImportEvent } from './lib/event-retention.mjs';
 import eventTombstones from '../content/event-tombstones.json';
 
@@ -47,8 +53,8 @@ async function main() {
   const response = await fetch(spreadsheetUrl);
   if (!response.ok) throw new Error(`Could not download spreadsheet: ${response.status}`);
 
-  const workbook = XLSX.read(Buffer.from(await response.arrayBuffer()), { cellDates: false });
-  const sheet = workbook.Sheets['TOKEN2049 Week'];
+  const workbook = await loadWorkbook(Buffer.from(await response.arrayBuffer()));
+  const sheet = workbook.getWorksheet('TOKEN2049 Week');
   if (!sheet) throw new Error('TOKEN2049 Week sheet not found');
 
   const existing: CachedEvent[] = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
@@ -56,15 +62,15 @@ async function main() {
   const existingById = new Map(existing.map((event) => [event.id, event]));
   const imported: CachedEvent[] = [];
 
-  for (let row = 7; row <= XLSX.utils.decode_range(sheet['!ref'] ?? 'A1').e.r + 1; row++) {
-    const id = String(sheet[`A${row}`]?.v ?? '').trim();
-    const dateValue = sheet[`B${row}`]?.v;
-    const name = String(sheet[`E${row}`]?.v ?? '').trim();
-    const category = String(sheet[`F${row}`]?.v ?? 'Web3 event').trim();
-    const price = String(sheet[`G${row}`]?.v ?? '').trim();
-    const url = getLink(sheet[`H${row}`]?.f)?.replace(/\/$/, '');
-    const startTime = getTime(sheet[`C${row}`]?.v) ?? '09:00';
-    const endTime = getTime(sheet[`D${row}`]?.v) ?? startTime;
+  for (let row = 7; row <= worksheetUsedRowCount(sheet); row++) {
+    const id = String(worksheetPrimitive(sheet, `A${row}`) ?? '').trim();
+    const dateValue = worksheetPrimitive(sheet, `B${row}`);
+    const name = String(worksheetPrimitive(sheet, `E${row}`) ?? '').trim();
+    const category = String(worksheetPrimitive(sheet, `F${row}`) ?? 'Web3 event').trim();
+    const price = String(worksheetPrimitive(sheet, `G${row}`) ?? '').trim();
+    const url = getLink(worksheetFormula(sheet, `H${row}`))?.replace(/\/$/, '');
+    const startTime = getTime(worksheetPrimitive(sheet, `C${row}`)) ?? '09:00';
+    const endTime = getTime(worksheetPrimitive(sheet, `D${row}`)) ?? startTime;
 
     if (!id || !name || typeof dateValue !== 'number' || !url) continue;
     let parsedUrl: URL;
@@ -75,7 +81,7 @@ async function main() {
     }
     if (!/^https?:$/.test(parsedUrl.protocol) || ['localhost', '127.0.0.1'].includes(parsedUrl.hostname)) continue;
 
-    const date = XLSX.SSF.parse_date_code(dateValue);
+    const date = parseExcelSerialDate(dateValue);
     if (!date) continue;
     const datePart = `${date.y}-${String(date.m).padStart(2, '0')}-${String(date.d).padStart(2, '0')}`;
     const startDate = `${datePart}T${startTime}:00+08:00`;

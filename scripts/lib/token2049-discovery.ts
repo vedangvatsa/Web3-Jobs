@@ -1,4 +1,9 @@
-import * as XLSX from 'xlsx';
+import {
+  loadWorkbook,
+  worksheetFormula,
+  worksheetHyperlink,
+  worksheetRowsAsArrays,
+} from './excel-workbook';
 import config from '../../content/events/token2049-sources.json';
 import { fetchLumaCalendarEntries, lumaEventUrl } from './luma-calendar.mjs';
 import { object } from '../luma-source-record';
@@ -124,17 +129,33 @@ export async function discoverToken2049() {
   const sheetId = config.officialSheet.match(/\/d\/([^/]+)/)![1];
   const sheetResponse = await fetchPublic(`https://docs.google.com/spreadsheets/d/${sheetId}/export?format=xlsx`);
   if (!sheetResponse.ok) throw new Error(`Official sheet: HTTP ${sheetResponse.status}`);
-  const workbook = XLSX.read(Buffer.from(await sheetResponse.arrayBuffer()), { type: 'buffer', cellDates: true });
-  const sheet = workbook.Sheets[workbook.SheetNames[0]];
-  const rows = XLSX.utils.sheet_to_json<unknown[]>(sheet, { header: 1, defval: '' });
+  const workbook = await loadWorkbook(Buffer.from(await sheetResponse.arrayBuffer()));
+  const sheet = workbook.worksheets[0];
+  if (!sheet) throw new Error('Official sheet has no worksheets');
+  const rows = await worksheetRowsAsArrays(sheet);
   let sheetCount = 0;
   for (const [index, row] of rows.entries()) {
-    const id = str(row[0]);
+    const cells = row as unknown[];
+    const id = str(cells[0]);
     if (!/^[a-f0-9]{24}$/.test(id)) continue;
     const linked = byId.get(id);
-    const cell = sheet[XLSX.utils.encode_cell({ r: index, c: 7 })];
-    const url = registrationUrl(row[8]) || registrationUrl(cell?.l?.Target) || registrationUrl(cell?.f?.match(/HYPERLINK\("([^"]+)"/i)?.[1]) || linked?.url || '';
-    events.push({ ...linked, source: config.officialSheet, id, name: str(row[4]), url, authoritativeSchedule: Boolean(linked?.authoritativeSchedule) });
+    const address = `H${index + 1}`;
+    const hyperlink = worksheetHyperlink(sheet, address);
+    const formula = worksheetFormula(sheet, address);
+    const url =
+      registrationUrl(cells[8]) ||
+      registrationUrl(hyperlink) ||
+      registrationUrl(formula?.match(/HYPERLINK\("([^"]+)"/i)?.[1]) ||
+      linked?.url ||
+      '';
+    events.push({
+      ...linked,
+      source: config.officialSheet,
+      id,
+      name: str(cells[4]),
+      url,
+      authoritativeSchedule: Boolean(linked?.authoritativeSchedule),
+    });
     sheetCount++;
   }
   counts[config.officialSheet] = sheetCount;

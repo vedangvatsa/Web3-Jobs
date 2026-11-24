@@ -297,6 +297,16 @@ function linkSideEventParents(event: Web3Event): Web3Event {
   const isLondon = city.includes('london') || loc.includes('london') || city.includes('shepherd') || loc.includes('shepherd');
   const start = event.startDate || '';
 
+  const isAbuDhabi =
+    city.includes('abu dhabi') ||
+    loc.includes('abu dhabi') ||
+    normalizeCountry(event.country || '') === 'AE';
+  if (isAbuDhabi && start >= '2026-12-07' && start <= '2026-12-11') {
+    if (/\badfw\b|abu dhabi finance week/i.test(text)) {
+      sideEventFor.add('adfw');
+    }
+  }
+
   if (isLondon && start >= '2026-11-01' && start <= '2026-11-20') {
     if (
       /\b(breakpoint|bp26)\b/i.test(text) ||

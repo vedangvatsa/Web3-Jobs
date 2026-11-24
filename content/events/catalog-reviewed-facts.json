@@ -109,62 +109,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-evt8I0lRm1lzJXpE": {
-    "name": "Evening Panel + Rooftop Cocktails - our new home at SNC",
-    "startDate": "2026-10-25T16:00:00.000Z",
-    "endDate": "2026-10-25T19:00:00.000Z",
-    "timezone": "Asia/Jerusalem",
-    "registrationUrl": "https://luma.com/web3devs-tz30",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "Tel Aviv-Yafo",
-    "country": "Israel",
-    "location": "Startup Nation Central, Lilienblum St 28, Tel Aviv-Yafo, 6513307, Israel",
-    "venueName": "Startup Nation Central",
-    "streetAddress": "Startup Nation Central, Lilienblum St 28, Tel Aviv-Yafo, 6513307, Israel",
-    "addressLocality": "Tel Aviv-Yafo",
-    "addressRegion": "Tel Aviv District",
-    "addressCountry": "IL",
-    "neighborhood": "Lev HaIr",
-    "coordinates": {
-      "latitude": 32.0622896,
-      "longitude": 34.7704938
-    },
-    "hosts": [
-      "Amit Shilo - Masterkey.vc",
-      "Saul (Shauli) Rejwan",
-      "Web3 Developers Underground Community"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Web3 Devs Underground",
-      "url": "https://web3devs.org/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/web3devs-tz30",
-        "price": 0,
-        "availability": "InStock"
-      },
-      {
-        "name": "Sponsor",
-        "url": "https://luma.com/web3devs-tz30",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/web3devs-tz30",
-      "eventId": "evt-8I0lRm1lzJXpEu3",
-      "fetchedAt": "2026-10-12T11:25:14.469Z",
-      "method": "luma-page"
-    }
-  },
   "luma-crypto-pMblGmFDgWwshUx": {
     "name": "Bay Area AI+car hackathon",
     "startDate": "2026-10-25T17:00:00.000Z",
