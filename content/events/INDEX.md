@@ -2154,7 +2154,7 @@ Each entry links to its formatted description and original source file. All stor
 | [CryptoMondays Vegas • Digital Identity, Keys & AI Agents](descriptions.md#event-9ed5ed61c54f838b) | 2026-12-07 | Unverified stored copy (81 chars) |
 | [Crypto Networking December Drinks at The Gherkin](descriptions.md#event-f3f5503d7401a157) | 2026-12-07 | Unverified stored copy (140 chars) |
 | [Bitcoin Mena](descriptions.md#event-b284437ff5eb87a8) | 2026-12-07 | Source-backed (736 chars) |
-| [Abu Dhabi Finance Week](descriptions.md#event-3179a55bc68f7c20) | 2026-12-07 | Source-backed (138 chars) |
+| [Abu Dhabi Finance Week](descriptions.md#event-3179a55bc68f7c20) | 2026-12-07 | Source-backed (2252 chars) |
 | [Solana Padel Match](descriptions.md#event-37203d173fc562f4) | 2026-12-07 | Missing (0 chars) |
 | [Solana Padel Match](descriptions.md#event-1dcbca9e04036d3b) | 2026-12-07 | Missing (0 chars) |
 | [Further Network Summit 2026](descriptions.md#event-1e014f70d3cb3a1e) | 2026-12-07 | Unverified stored copy (121 chars) |
