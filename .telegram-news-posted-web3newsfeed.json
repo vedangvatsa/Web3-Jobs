@@ -80,6 +80,9 @@
   "https://hashtagweb3.com/cftcreserves?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/soloblock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cyberbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hsmvault?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -242,6 +245,12 @@
   "Solo miner wins $191,000 Bitcoin block with 11 TH/s",
   "Upbit and Bithumb Suspend CYBER Following Unexpected Token Minting",
   "Upbit and Bithumb halt CYBER deposits after suspected bridge minting",
+  "Abu Dhabi Court Grants Binance $6.5 Billion Asset Freezing Order",
+  "Binance Says It Won $6.5 Billion Freezing Order From Abu Dhabi Court",
+  "Blockstream Releases Offline Bitcoin Custody System With Thales",
+  "Blockstream Launches Offline Bitcoin Custody System Built With Thales",
+  "Greece approves 10% crypto gains and 15% staking taxes",
+  "Greece passes crypto tax law with 10% gains levy and 15% rate on staking",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -322,5 +331,8 @@
   "fp:bank|bett|chair|committe|election|elizabeth|incom|increas|intend|overse",
   "fp:allow|annual|asset|cftc|cost|count|cover|ether|exchang|haircut",
   "fp:000|191|block|block977057|ckpool|earn|individual|miner|november22|per",
-  "fp:bithumb|bridg|cyber|deposit|follow|halt|lockbox|mint|nov22|project"
+  "fp:bithumb|bridg|cyber|deposit|follow|halt|lockbox|mint|nov22|project",
+  "fp:000|65b|abu|aim|asset|binanc|chain|court|dhabi|freez",
+  "fp:blockstream|built|client|combin|computation|custody|hardwar|institutional|modul|multi",
+  "fp:and15|annual|apply|approves10|defi|euro|gain|greec|incom|january2027"
 ]
