@@ -180232,6 +180232,40 @@
       "attemptId": "d1c0f126-b83a-4c77-ac04-37e7e56270cb",
       "verification": "verified",
       "postId": "0x1c55f51667351f1a516be9d0fd137c6b2f87f24d"
+    },
+    {
+      "slug": "pm353",
+      "company": "Blockchain.com",
+      "title": "Product Communications Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-11-24T06:55:50.805Z",
+      "expectedText": "Blockchain​.com is hiring Product Communications Lead\n\nhttps://hashtagweb3.com/pm353/fc?og=7",
+      "snapshot": {
+        "id": "8336982",
+        "title": "Product Communications Lead",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8336982",
+        "date": "2026-10-30T11:35:15-04:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "New York",
+        "department": "Marketing & Communications",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm353"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring Product Communications Lead\n\nhttps://hashtagweb3.com/pm353/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm353/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "2299be6e-689c-4059-bec4-54fdb344b158",
+      "verification": "creating"
     }
   ]
 }
