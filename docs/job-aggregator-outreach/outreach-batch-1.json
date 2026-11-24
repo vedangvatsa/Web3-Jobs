@@ -1,0 +1,674 @@
+{
+  "dispatchedAt": "2026-11-24T21:24:40.550Z",
+  "total": 111,
+  "delivered": 111,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Talent.com",
+      "email": "feeds@talent.com",
+      "deliveryId": "01a20f71-5aa0-77ea-bff5-a5e4d6df5cf5",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet",
+      "email": "partners@careerjet.com",
+      "deliveryId": "01a20f71-5ce8-7d59-8d13-c5a2aabd7a2a",
+      "status": "delivered"
+    },
+    {
+      "name": "WhatJobs",
+      "email": "partnerships@whatjobs.com",
+      "deliveryId": "01a20f71-5f1d-739f-8f79-ed974a730119",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido",
+      "email": "partners@jobrapido.com",
+      "deliveryId": "01a20f71-61a9-7e21-a676-2f8e5a9f0991",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit",
+      "email": "partners@trovit.com",
+      "deliveryId": "01a20f71-63d5-7da8-baa3-097708d71d38",
+      "status": "delivered"
+    },
+    {
+      "name": "Mitula",
+      "email": "info@mitula.com",
+      "deliveryId": "01a20f71-6605-761c-a7ef-9e85f5feadc6",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired",
+      "email": "partners@simplyhired.com",
+      "deliveryId": "01a20f71-682f-71fa-a82c-8673ce2e35f3",
+      "status": "delivered"
+    },
+    {
+      "name": "ZipRecruiter",
+      "email": "partnerships@ziprecruiter.com",
+      "deliveryId": "01a20f71-6a5d-71ea-b171-6d5914ae48d2",
+      "status": "delivered"
+    },
+    {
+      "name": "Snagajob",
+      "email": "partners@snagajob.com",
+      "deliveryId": "01a20f71-6c9d-7ca6-a3a9-d5ca4a0f4d78",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder",
+      "email": "partners@careerbuilder.com",
+      "deliveryId": "01a20f71-6ef3-72b1-950c-55f84b7a6bd6",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster",
+      "email": "partnerships@monster.com",
+      "deliveryId": "01a20f71-7115-7cd1-b591-e2cc339472d6",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor",
+      "email": "partners@glassdoor.com",
+      "deliveryId": "01a20f71-733c-7564-af1a-8a6f1d884ced",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed",
+      "email": "partnerships@indeed.com",
+      "deliveryId": "01a20f71-7569-7122-a614-003029b3acae",
+      "status": "delivered"
+    },
+    {
+      "name": "Dice",
+      "email": "partners@dice.com",
+      "deliveryId": "01a20f71-778f-76ab-8f61-f6107889461d",
+      "status": "delivered"
+    },
+    {
+      "name": "Built In",
+      "email": "partnerships@builtin.com",
+      "deliveryId": "01a20f71-79af-7368-9ee9-1d6cba168edc",
+      "status": "delivered"
+    },
+    {
+      "name": "Lensa",
+      "email": "partners@lensa.com",
+      "deliveryId": "01a20f71-7bdb-71cb-ac60-fc791e0bd7f9",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobcase",
+      "email": "partnerships@jobcase.com",
+      "deliveryId": "01a20f71-7e51-779b-83dd-5faa807b5473",
+      "status": "delivered"
+    },
+    {
+      "name": "Nexxt",
+      "email": "partners@nexxt.com",
+      "deliveryId": "01a20f71-8084-77bd-8937-cdfa43344893",
+      "status": "delivered"
+    },
+    {
+      "name": "Joblist",
+      "email": "hello@joblist.com",
+      "deliveryId": "01a20f71-82b4-774d-9a10-dbd9ae5caf1e",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobatus",
+      "email": "info@jobatus.es",
+      "deliveryId": "01a20f71-84f5-7d72-b413-a7490b2d24e4",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo",
+      "email": "info@opcionempleo.com",
+      "deliveryId": "01a20f71-871b-746d-8d28-0c08230a474e",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobsora",
+      "email": "support@jobsora.com",
+      "deliveryId": "01a20f71-8995-7b0f-b7cf-d85d8801be42",
+      "status": "delivered"
+    },
+    {
+      "name": "JobisJob",
+      "email": "info@jobisjob.com",
+      "deliveryId": "01a20f71-8bb7-766e-b7b4-a690c4a13316",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobg8",
+      "email": "info@jobg8.com",
+      "deliveryId": "01a20f71-8ddd-78f5-9a69-cbf0e0464fd2",
+      "status": "delivered"
+    },
+    {
+      "name": "Appcast",
+      "email": "partners@appcast.io",
+      "deliveryId": "01a20f71-9000-7245-8d8f-7b8cb47241bd",
+      "status": "delivered"
+    },
+    {
+      "name": "PandoLogic",
+      "email": "info@pandologic.com",
+      "deliveryId": "01a20f71-9220-79bf-91a5-77532042f61a",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit.net",
+      "email": "support@recruit.net",
+      "deliveryId": "01a20f71-9447-756e-81f3-40da8abc6789",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBliss",
+      "email": "info@careerbliss.com",
+      "deliveryId": "01a20f71-96ec-7310-80fe-660dcfc959fb",
+      "status": "delivered"
+    },
+    {
+      "name": "LinkUp",
+      "email": "info@linkup.com",
+      "deliveryId": "01a20f71-9914-7b93-a081-6c7e90068766",
+      "status": "delivered"
+    },
+    {
+      "name": "GetWork",
+      "email": "info@getwork.com",
+      "deliveryId": "01a20f71-9b3b-7625-a818-49bb7f3ddbf2",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted",
+      "email": "info@jobted.com",
+      "deliveryId": "01a20f71-9d7a-726c-9d0c-801e8c44e88e",
+      "status": "delivered"
+    },
+    {
+      "name": "JobTome",
+      "email": "partners@jobtome.com",
+      "deliveryId": "01a20f71-9fa5-7029-858e-db24cd3d0086",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobijoba",
+      "email": "contact@jobijoba.com",
+      "deliveryId": "01a20f71-a229-7a1d-9e45-a6ff0b77b749",
+      "status": "delivered"
+    },
+    {
+      "name": "Meteojob",
+      "email": "contact@meteojob.com",
+      "deliveryId": "01a20f71-a477-7cc0-a442-5ab35ba60a40",
+      "status": "delivered"
+    },
+    {
+      "name": "Kimeta",
+      "email": "info@kimeta.de",
+      "deliveryId": "01a20f71-a69e-7d39-bdcd-bac64a1204fc",
+      "status": "delivered"
+    },
+    {
+      "name": "Stellenanzeigen",
+      "email": "info@stellenanzeigen.de",
+      "deliveryId": "01a20f71-a8ce-7aa0-a1c8-f11d579b35da",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone",
+      "email": "info@stepstone.com",
+      "deliveryId": "01a20f71-aafa-740e-ae93-8ec7dce26d10",
+      "status": "delivered"
+    },
+    {
+      "name": "Reed",
+      "email": "partnerships@reed.co.uk",
+      "deliveryId": "01a20f71-ad6f-792d-a505-541cd3d6d100",
+      "status": "delivered"
+    },
+    {
+      "name": "Totaljobs",
+      "email": "partners@totaljobs.com",
+      "deliveryId": "01a20f71-af96-7b4a-937d-417c393d507e",
+      "status": "delivered"
+    },
+    {
+      "name": "CV-Library",
+      "email": "partnerships@cv-library.co.uk",
+      "deliveryId": "01a20f71-b1bb-761e-87c0-43d8ed7c0662",
+      "status": "delivered"
+    },
+    {
+      "name": "Gumtree",
+      "email": "partnerships@gumtree.com",
+      "deliveryId": "01a20f71-b3df-71c7-9b44-15b33d27f1fd",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek",
+      "email": "partnerships@seek.com.au",
+      "deliveryId": "01a20f71-b620-7336-ad53-62e8b26d2da1",
+      "status": "delivered"
+    },
+    {
+      "name": "Naukri",
+      "email": "partnerships@naukri.com",
+      "deliveryId": "01a20f71-b840-7b4f-83f4-75a8c2814248",
+      "status": "delivered"
+    },
+    {
+      "name": "Shine",
+      "email": "support@shine.com",
+      "deliveryId": "01a20f71-baef-7428-ab13-c1ff334bf748",
+      "status": "delivered"
+    },
+    {
+      "name": "Foundit",
+      "email": "info@foundit.in",
+      "deliveryId": "01a20f71-bd15-7753-9c31-06e1ea3e684b",
+      "status": "delivered"
+    },
+    {
+      "name": "TimesJobs",
+      "email": "support@timesjobs.com",
+      "deliveryId": "01a20f71-bf40-7666-96c2-ac6f584d8d3e",
+      "status": "delivered"
+    },
+    {
+      "name": "Workopolis",
+      "email": "support@workopolis.com",
+      "deliveryId": "01a20f71-c1f5-7366-9120-2787800246d9",
+      "status": "delivered"
+    },
+    {
+      "name": "Eluta",
+      "email": "info@eluta.ca",
+      "deliveryId": "01a20f71-c429-78aa-9829-ce04b442107a",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobboom",
+      "email": "info@jobboom.com",
+      "deliveryId": "01a20f71-c658-7c10-9fdb-6e6d88229d81",
+      "status": "delivered"
+    },
+    {
+      "name": "InfoJobs",
+      "email": "info@infojobs.net",
+      "deliveryId": "01a20f71-c88b-72dd-a4b5-f0c7a4540d30",
+      "status": "delivered"
+    },
+    {
+      "name": "Trabajos",
+      "email": "info@trabajos.com",
+      "deliveryId": "01a20f71-cac1-7793-b1bb-46ccaa051cb6",
+      "status": "delivered"
+    },
+    {
+      "name": "Bumeran",
+      "email": "info@bumeran.com",
+      "deliveryId": "01a20f71-cd29-778b-8942-733003873c98",
+      "status": "delivered"
+    },
+    {
+      "name": "Computrabajo",
+      "email": "info@computrabajo.com",
+      "deliveryId": "01a20f71-cf51-7e88-952c-e5d456c342fe",
+      "status": "delivered"
+    },
+    {
+      "name": "Catho",
+      "email": "contato@catho.com.br",
+      "deliveryId": "01a20f71-d17d-7b9c-bbf8-aae05dab3e0e",
+      "status": "delivered"
+    },
+    {
+      "name": "Vagas",
+      "email": "contato@vagas.com.br",
+      "deliveryId": "01a20f71-d3b3-7adf-ba55-2f846699f9a0",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt",
+      "email": "partners@bayt.com",
+      "deliveryId": "01a20f71-d5d6-74b3-98cb-03fc1b172a3b",
+      "status": "delivered"
+    },
+    {
+      "name": "GulfTalent",
+      "email": "info@gulftalent.com",
+      "deliveryId": "01a20f71-d810-775f-baee-53f2d56922f7",
+      "status": "delivered"
+    },
+    {
+      "name": "Naukrigulf",
+      "email": "support@naukrigulf.com",
+      "deliveryId": "01a20f71-da7c-7117-9a15-de8cc38af25f",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet",
+      "email": "info@jobstreet.com",
+      "deliveryId": "01a20f71-dc9f-7961-8286-b1d0999b5c22",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB",
+      "email": "info@jobsdb.com",
+      "deliveryId": "01a20f71-dedb-7106-b510-588d84d9fa13",
+      "status": "delivered"
+    },
+    {
+      "name": "FastJobs",
+      "email": "hello@fastjobs.sg",
+      "deliveryId": "01a20f71-e137-7ca1-9b5f-45ede3760cf3",
+      "status": "delivered"
+    },
+    {
+      "name": "Kalibrr",
+      "email": "hello@kalibrr.com",
+      "deliveryId": "01a20f71-e3ce-71f5-bd20-041e19741e84",
+      "status": "delivered"
+    },
+    {
+      "name": "Glints",
+      "email": "hello@glints.com",
+      "deliveryId": "01a20f71-e5f7-7739-b0c6-45bc7af2be3b",
+      "status": "delivered"
+    },
+    {
+      "name": "Tech in Asia",
+      "email": "jobs@techinasia.com",
+      "deliveryId": "01a20f71-e8f2-766d-99c0-bd5d03d3bfd5",
+      "status": "delivered"
+    },
+    {
+      "name": "e27",
+      "email": "jobs@e27.co",
+      "deliveryId": "01a20f71-eb26-7281-bd00-de35be8fe292",
+      "status": "delivered"
+    },
+    {
+      "name": "RemoteOK",
+      "email": "hello@remoteok.com",
+      "deliveryId": "01a20f71-ed56-7017-97eb-e570692a0a2e",
+      "status": "delivered"
+    },
+    {
+      "name": "We Work Remotely",
+      "email": "support@weworkremotely.com",
+      "deliveryId": "01a20f71-ef7a-719c-a723-a5dcaa79c18b",
+      "status": "delivered"
+    },
+    {
+      "name": "Remotive",
+      "email": "hello@remotive.com",
+      "deliveryId": "01a20f71-f19d-77a8-8200-732319d041af",
+      "status": "delivered"
+    },
+    {
+      "name": "Himalayas",
+      "email": "hello@himalayas.app",
+      "deliveryId": "01a20f71-f436-761e-bebb-589d3f5bbb14",
+      "status": "delivered"
+    },
+    {
+      "name": "Remote.co",
+      "email": "support@remote.co",
+      "deliveryId": "01a20f71-f65e-71fe-97f5-14c66a93d96c",
+      "status": "delivered"
+    },
+    {
+      "name": "FlexJobs",
+      "email": "partners@flexjobs.com",
+      "deliveryId": "01a20f71-f8a3-7509-a95f-ed549fb0ac72",
+      "status": "delivered"
+    },
+    {
+      "name": "Working Nomads",
+      "email": "info@workingnomads.com",
+      "deliveryId": "01a20f71-fac7-7a83-9af7-ffa52ef87ad4",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobspresso",
+      "email": "hello@jobspresso.co",
+      "deliveryId": "01a20f71-fd50-7ea3-9832-416abdb0cca7",
+      "status": "delivered"
+    },
+    {
+      "name": "DailyRemote",
+      "email": "hello@dailyremote.com",
+      "deliveryId": "01a20f71-ff7c-7709-9eea-fa8e54ea7614",
+      "status": "delivered"
+    },
+    {
+      "name": "JustRemote",
+      "email": "hello@justremote.co",
+      "deliveryId": "01a20f72-02f3-7308-b799-727599d631d7",
+      "status": "delivered"
+    },
+    {
+      "name": "Nodesk",
+      "email": "hello@nodesk.co",
+      "deliveryId": "01a20f72-0581-71d8-8a4b-d9579786e4dc",
+      "status": "delivered"
+    },
+    {
+      "name": "Dynamite Jobs",
+      "email": "support@dynamitejobs.com",
+      "deliveryId": "01a20f72-07a2-73c4-a5bf-db1bd27d6336",
+      "status": "delivered"
+    },
+    {
+      "name": "Wellfound",
+      "email": "partnerships@wellfound.com",
+      "deliveryId": "01a20f72-09c4-7b19-b1cd-71af86129d42",
+      "status": "delivered"
+    },
+    {
+      "name": "Otta",
+      "email": "hello@otta.com",
+      "deliveryId": "01a20f72-0bf8-7729-ac2a-eec8c3943bd5",
+      "status": "delivered"
+    },
+    {
+      "name": "Welcome to the Jungle",
+      "email": "contact@welcometothejungle.com",
+      "deliveryId": "01a20f72-0e22-76f7-8619-8880cbb349dc",
+      "status": "delivered"
+    },
+    {
+      "name": "Cord",
+      "email": "hello@cord.co",
+      "deliveryId": "01a20f72-1049-79f5-96de-e4fa133eeb8e",
+      "status": "delivered"
+    },
+    {
+      "name": "Landing.jobs",
+      "email": "hello@landing.jobs",
+      "deliveryId": "01a20f72-12d0-7aa5-930e-9748a8eefb75",
+      "status": "delivered"
+    },
+    {
+      "name": "Relocate.me",
+      "email": "hello@relocate.me",
+      "deliveryId": "01a20f72-14fc-7314-81ae-eadb9a3436c7",
+      "status": "delivered"
+    },
+    {
+      "name": "Hackajob",
+      "email": "hello@hackajob.com",
+      "deliveryId": "01a20f72-1720-718b-913d-481a99a3be34",
+      "status": "delivered"
+    },
+    {
+      "name": "Hired",
+      "email": "support@hired.com",
+      "deliveryId": "01a20f72-1949-7107-8c9c-52d0d61e3a2d",
+      "status": "delivered"
+    },
+    {
+      "name": "Arc.dev",
+      "email": "hello@arc.dev",
+      "deliveryId": "01a20f72-1b6b-7a14-ab28-249ecd5973e2",
+      "status": "delivered"
+    },
+    {
+      "name": "Turing",
+      "email": "partnerships@turing.com",
+      "deliveryId": "01a20f72-1d90-7924-a3aa-3cd0167141e4",
+      "status": "delivered"
+    },
+    {
+      "name": "Toptal",
+      "email": "partnerships@toptal.com",
+      "deliveryId": "01a20f72-2022-7a0f-b779-6bcb4ec5e7de",
+      "status": "delivered"
+    },
+    {
+      "name": "Gun.io",
+      "email": "hello@gun.io",
+      "deliveryId": "01a20f72-2252-7073-a61f-fadb62120ef8",
+      "status": "delivered"
+    },
+    {
+      "name": "Lemon.io",
+      "email": "hello@lemon.io",
+      "deliveryId": "01a20f72-2486-756f-8dc1-8732c7399637",
+      "status": "delivered"
+    },
+    {
+      "name": "Authentic Jobs",
+      "email": "hello@authenticjobs.com",
+      "deliveryId": "01a20f72-26aa-79b9-8ef4-19a40a1e9fae",
+      "status": "delivered"
+    },
+    {
+      "name": "Dribbble",
+      "email": "support@dribbble.com",
+      "deliveryId": "01a20f72-28d2-72c8-a5eb-ec933c12ab08",
+      "status": "delivered"
+    },
+    {
+      "name": "VentureLoop",
+      "email": "support@ventureloop.com",
+      "deliveryId": "01a20f72-2af3-79c8-9c1d-ed3b70abe77b",
+      "status": "delivered"
+    },
+    {
+      "name": "PowerToFly",
+      "email": "hello@powertofly.com",
+      "deliveryId": "01a20f72-2d6b-7235-8937-4f66c019e868",
+      "status": "delivered"
+    },
+    {
+      "name": "DiversityJobs",
+      "email": "info@diversityjobs.com",
+      "deliveryId": "01a20f72-2f8a-74f0-aa17-fafa0ca3415d",
+      "status": "delivered"
+    },
+    {
+      "name": "Idealist",
+      "email": "support@idealist.org",
+      "deliveryId": "01a20f72-31b3-7c35-b29c-1c425e50458d",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoJobsList",
+      "email": "hello@cryptojobslist.com",
+      "deliveryId": "01a20f72-33d6-7af5-a2a8-c2de7d5abfd7",
+      "status": "delivered"
+    },
+    {
+      "name": "Web3.career",
+      "email": "hello@web3.career",
+      "deliveryId": "01a20f72-362a-73ac-940a-e8813ea9b340",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptocurrencyJobs",
+      "email": "hello@cryptocurrencyjobs.co",
+      "deliveryId": "01a20f72-38b1-7227-a60f-5694dd795f99",
+      "status": "delivered"
+    },
+    {
+      "name": "Crypto.jobs",
+      "email": "hello@crypto.jobs",
+      "deliveryId": "01a20f72-3adc-7360-a479-04324f0f9c07",
+      "status": "delivered"
+    },
+    {
+      "name": "UseWeb3",
+      "email": "hello@useweb3.xyz",
+      "deliveryId": "01a20f72-3cff-7c69-8295-74465cad9513",
+      "status": "delivered"
+    },
+    {
+      "name": "PompCryptoJobs",
+      "email": "support@pompcryptojobs.com",
+      "deliveryId": "01a20f72-3f26-7a2b-8fa9-297ae2fd2b4f",
+      "status": "delivered"
+    },
+    {
+      "name": "Blockew",
+      "email": "hello@blockew.com",
+      "deliveryId": "01a20f72-4146-7f35-a0f2-07c562b3a145",
+      "status": "delivered"
+    },
+    {
+      "name": "LaborX",
+      "email": "support@laborx.com",
+      "deliveryId": "01a20f72-436f-75e9-bfcf-e7b6c304b0c4",
+      "status": "delivered"
+    },
+    {
+      "name": "Braintrust",
+      "email": "hello@usebraintrust.com",
+      "deliveryId": "01a20f72-4596-7f1f-aafc-22272c3808d4",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobgether",
+      "email": "hello@jobgether.com",
+      "deliveryId": "01a20f72-4809-70f5-ba13-9adde88f9c0e",
+      "status": "delivered"
+    },
+    {
+      "name": "EU-Startups",
+      "email": "info@eu-startups.com",
+      "deliveryId": "01a20f72-4a2b-788b-9ee3-345df76a2906",
+      "status": "delivered"
+    },
+    {
+      "name": "Sifted",
+      "email": "hello@sifted.eu",
+      "deliveryId": "01a20f72-4c4f-7c67-8c0b-3cca64e8fa91",
+      "status": "delivered"
+    },
+    {
+      "name": "Tech.eu",
+      "email": "info@tech.eu",
+      "deliveryId": "01a20f72-4ea4-7977-890e-7f54cbd67084",
+      "status": "delivered"
+    },
+    {
+      "name": "Startup.jobs",
+      "email": "hello@startup.jobs",
+      "deliveryId": "01a20f72-50c5-7ec1-b00f-b9f0d8798880",
+      "status": "delivered"
+    },
+    {
+      "name": "Startupers",
+      "email": "info@startupers.com",
+      "deliveryId": "01a20f72-52ed-705b-8146-a457ac3643c5",
+      "status": "delivered"
+    }
+  ]
+}
