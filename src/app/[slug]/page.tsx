@@ -549,7 +549,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const allEvents = await getEvents();
     const relatedEvents = (await getRelatedEvents(event, 3, allEvents)).map(getEventListItem);
     const sideEvents = allEvents
-      .filter((sideEvent) => sideEvent.sideEventFor?.includes(eventSlug) || (eventSlug === 'solana-breakpoint' && sideEvent.sideEventFor?.includes('breakpoint')))
+      .filter((sideEvent) => sideEvent.id !== event.id && sideEvent.slug !== eventSlug && (sideEvent.sideEventFor?.includes(eventSlug) || (eventSlug === 'solana-breakpoint' && sideEvent.sideEventFor?.includes('breakpoint'))))
       .sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime())
       .map(getEventListItem);
     const eventTimeZone = event.timezone || (eventSlug === 'token2049' ? 'Asia/Singapore'

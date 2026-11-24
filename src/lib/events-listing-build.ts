@@ -301,7 +301,7 @@ function linkSideEventParents(event: Web3Event): Web3Event {
     city.includes('abu dhabi') ||
     loc.includes('abu dhabi') ||
     normalizeCountry(event.country || '') === 'AE';
-  if (isAbuDhabi && start >= '2026-12-07' && start <= '2026-12-11') {
+  if (isAbuDhabi && start >= '2026-12-07' && start <= '2026-12-11' && event.id !== 'w3v-abu-dhabi-finance-week-2026' && event.slug !== 'adfw') {
     if (/\badfw\b|abu dhabi finance week/i.test(text)) {
       sideEventFor.add('adfw');
     }
