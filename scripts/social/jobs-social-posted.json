@@ -184236,6 +184236,38 @@
       "attemptId": "853ba505-bcb8-4095-9b73-5a9bbb87fe54",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 24-Nov-26 10:50:55 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AG2L1owZg9opuK7WJf7SDnI\"}"
+    },
+    {
+      "slug": "pm377",
+      "company": "BitGo",
+      "title": "Head of Design, Product Design",
+      "platform": "bluesky",
+      "postedAt": "2026-11-24T18:50:45.685Z",
+      "expectedText": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm377/bsky?og=7",
+      "snapshot": {
+        "id": "8934164002",
+        "title": "Head of Design, Product Design",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934164002",
+        "date": "2026-11-06T20:08:47-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm377"
+      },
+      "payload": {
+        "text": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm377/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm377/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm377.png?v=7",
+        "company": "BitGo",
+        "title": "Head of Design, Product Design",
+        "description": "Join BitGo as Head of Design, Product Design. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "0794c706-ec2a-4e4c-a62a-450f2745d0d1",
+      "verification": "creating"
     }
   ]
 }
