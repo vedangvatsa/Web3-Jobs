@@ -858,7 +858,7 @@
     "sentAt": "2026-11-24T02:02:03.147Z"
   },
   "279afe9e-ed7c-478f-b52f-df06eaf1c5f6": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-24T04:23:12.661Z",
     "stories": [
       {
@@ -886,6 +886,8 @@
         "originalTitle": "Upbit and Bithumb halt CYBER deposits after suspected bridge minting"
       }
     ],
-    "slotKey": "2026-11-24:morning"
+    "slotKey": "2026-11-24:morning",
+    "messageId": 65852,
+    "sentAt": "2026-11-24T04:23:14.771Z"
   }
 }

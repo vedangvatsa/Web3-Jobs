@@ -77,6 +77,9 @@
   "https://hashtagweb3.com/backpackfcm?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftcreserves?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/soloblock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cyberbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -233,6 +236,12 @@
   "OFAC sanctions 41 companies tied to Prince Group scam network",
   "Senator Warren to oversee prediction markets as committee chair",
   "Warren to target prediction market oversight as incoming Senate Banking chair",
+  "CFTC Allows Exchanges to Count Crypto as Reserve Assets",
+  "CFTC staff let exchanges count Bitcoin toward operating reserves",
+  "Solo Miner Earns $191,000 From Bitcoin Block",
+  "Solo miner wins $191,000 Bitcoin block with 11 TH/s",
+  "Upbit and Bithumb Suspend CYBER Following Unexpected Token Minting",
+  "Upbit and Bithumb halt CYBER deposits after suspected bridge minting",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -310,5 +319,8 @@
   "fp:avalanch|blockchain|continuous|digital|equity|exchang|for24|intercontinental|nys|okx",
   "fp:approval|backpack|complet|firm|futur|get|leverag|licens|nfa|obtain",
   "fp:and41|connect|entity|four|group|individual|link|network|ofac|official",
-  "fp:bank|bett|chair|committe|election|elizabeth|incom|increas|intend|overse"
+  "fp:bank|bett|chair|committe|election|elizabeth|incom|increas|intend|overse",
+  "fp:allow|annual|asset|cftc|cost|count|cover|ether|exchang|haircut",
+  "fp:000|191|block|block977057|ckpool|earn|individual|miner|november22|per",
+  "fp:bithumb|bridg|cyber|deposit|follow|halt|lockbox|mint|nov22|project"
 ]
