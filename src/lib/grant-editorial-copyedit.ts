@@ -39,18 +39,19 @@ export function copyeditGrantProgram(grant: GrantProgram): GrantProgram {
   }
 
   const sections = (grant.sections || [])
-    .map((section) => {
+    .map((section): GrantSection | null => {
       const paragraphs = dedupeInSection(section.paragraphs || []);
       const bullets = dedupeInSection(section.bullets || []);
       if (!paragraphs.length && !bullets.length) return null;
-      return {
-        ...section,
+      const out: GrantSection = {
         heading: tidyHeading(section.heading),
         paragraphs,
-        bullets: bullets.length ? bullets : section.bullets?.length ? [] : undefined,
       };
+      if (bullets.length) out.bullets = bullets;
+      else if (section.bullets?.length) out.bullets = [];
+      return out;
     })
-    .filter((s): s is GrantSection => Boolean(s));
+    .filter((s): s is GrantSection => s !== null);
 
   const next = { ...grant, description, sections: sections.length ? sections : grant.sections };
   const before = countStoredGrantWords(grant);
