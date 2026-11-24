@@ -180090,7 +180090,8 @@
       },
       "account": "channel:developers",
       "attemptId": "9e2ff5d1-1a89-4c96-a8f5-359419ac9a99",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x40f914e54d8e2e88fb25ceb541fd5f8c34314267"
     }
   ]
 }
