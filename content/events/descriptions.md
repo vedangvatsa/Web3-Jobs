@@ -3230,20 +3230,6 @@ The Whale Pass is $1,499 and includes backstage deep sessions with speakers, all
 
 Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder, Network School), Dr Hon Johnny Ng and Kit Chong MH (Hong Kong Legislative Council), David Bailey (CEO and chairman, Nakamoto Inc.), Simon Gerovich (CEO, Metaplanet), Justin Sun (advisor, WBTC), Aj Scaramucci (founder and CEO, Treasure Trove), Jack Kong (founder and board member, Nano Labs and Hong Kong Cyberport), Bonnie Chang (founder and host, Bonnie Blockchain) and Bilal Bin Saqib (chairman, Pakistan Virtual Assets Regulatory Authority). Bitcoin Asia is published by BTC Inc., a subsidiary of Nakamoto Inc. (NASDAQ: NAKA).
 
-<a id="event-74a492180efd6917"></a>
-
-## ETH Shenzhen 2026
-
-- Record: `discovery-evt-TiZnPxscDelGhid`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-24T06:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/7ggxnhbh>
-
-### About the event
-
-OpenBuild and ETHTAO host a hackathon build and demo day on October 24, followed by the main conference on October 25. Tracks cover agent infrastructure and onchain payments, ZK/FHE privacy, and verifiable AI. The organizer says program details remain subject to confirmation. Register to receive the venue address; selected evening sessions are invitation-only.
-
 <a id="event-1a642738c94d4e6c"></a>
 
 ## Bitcoin for Beginners
@@ -22513,7 +22499,14 @@ Demo Day and awards of the Heads Up Hackathon: a 7-day online build where develo
 
 Come see the best apps built for G2 in messaging, crypto, trading and AI, meet the teams, and try G2 yourself.
 
-Agenda (Dubai time) 14:00 Doors open, networking 15:00 Demo Day: finalists present, on site and online 16:00 Awards and words from the organizers 16:30 Even Realities G2 live demo, try the glasses 17:00 Networking 18:00 Close
+Agenda (Dubai time)
+
+- 14:00 Doors open, networking
+- 15:00 Demo Day: finalists present, on site and online
+- 16:00 Awards and words from the organizers
+- 16:30 Even Realities G2 live demo, try the glasses
+- 17:00 Networking
+- 18:00 Close
 
 > Who should come: developers, founders, investors and anyone curious about smart glasses and the Telegram and crypto ecosystem.
 
