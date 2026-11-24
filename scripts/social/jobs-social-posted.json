@@ -184863,6 +184863,46 @@
       "attemptId": "80f44bc7-3499-408a-be36-94246cef8402",
       "verification": "verified",
       "postId": "0x4c16baa2145f5981ebe3721c8eec900630acb6ca"
+    },
+    {
+      "slug": "pm377",
+      "company": "BitGo",
+      "title": "Head of Design, Product Design",
+      "platform": "linkedin",
+      "postedAt": "2026-11-24T18:50:45.685Z",
+      "expectedText": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm377/li?og=7",
+      "snapshot": {
+        "id": "8934164002",
+        "title": "Head of Design, Product Design",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934164002",
+        "date": "2026-11-06T20:08:47-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm377"
+      },
+      "payload": {
+        "text": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm377/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm377/li?og=7",
+          "title": "Head of Design, Product Design at BitGo | Hashtag Web3",
+          "description": "Join BitGo as Head of Design, Product Design. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm377.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "16e6dcaf-a5dd-4a41-9ddb-9b55f4a411bf",
+      "verification": "creating"
     }
   ]
 }
