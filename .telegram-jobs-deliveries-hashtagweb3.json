@@ -3221,7 +3221,7 @@
     "sentAt": "2026-11-24T04:23:00.459Z"
   },
   "8f5bf5a4-4f6a-4f97-9845-78904b6f108a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-24T14:12:58.214Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3348,6 +3348,8 @@
       }
     ],
     "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/dev42?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applications Developer, Workday</a>\n- DFNS is hiring <a href=\"https://hashtagweb3.com/ops175?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Revenue Operations Lead</a>\n- Goldman Sachs is hiring <a href=\"https://hashtagweb3.com/an160?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset &amp; Wealth Management-Private Bank Underwriting- Analyst- Bengaluru</a>\n- Luno is hiring <a href=\"https://hashtagweb3.com/pm317?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/pm377?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Design</a>",
-    "slotKey": "2026-11-24:afternoon"
+    "slotKey": "2026-11-24:afternoon",
+    "messageId": 156485,
+    "sentAt": "2026-11-24T14:13:07.837Z"
   }
 }
