@@ -889,5 +889,36 @@
     "slotKey": "2026-11-24:morning",
     "messageId": 65852,
     "sentAt": "2026-11-24T04:23:14.771Z"
+  },
+  "743d586a-2063-4a54-8f82-6f0c81086ca1": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T18:49:47.358Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Abu Dhabi Court Grants Binance $6.5 Billion Asset Freezing Order",
+        "summary": "The order aims to recover stolen funds from an October hack by serving on-chain notices to 26,000 wallets.",
+        "link": "https://hashtagweb3.com/binanceorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Says It Won $6.5 Billion Freezing Order From Abu Dhabi Court"
+      },
+      {
+        "index": -1,
+        "headline": "Blockstream Releases Offline Bitcoin Custody System With Thales",
+        "summary": "The service combines hardware security modules and multi-party computation to protect private keys for institutional clients.",
+        "link": "https://hashtagweb3.com/hsmvault?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Blockstream Launches Offline Bitcoin Custody System Built With Thales"
+      },
+      {
+        "index": -1,
+        "headline": "Greece approves 10% crypto gains and 15% staking taxes",
+        "summary": "The law applies to annual gains over 500 euros and DeFi income starting in January 2027.",
+        "link": "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Greece passes crypto tax law with 10% gains levy and 15% rate on staking"
+      }
+    ],
+    "slotKey": "2026-11-24:afternoon"
   }
 }
