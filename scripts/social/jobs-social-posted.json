@@ -180690,7 +180690,8 @@
         "description": "Join Paxos as Senior Compliance Associate, KYC. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "f404d1fc-030f-4664-a610-2a361a748d33",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n32333jzho2e"
     }
   ]
 }
