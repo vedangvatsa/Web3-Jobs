@@ -178351,6 +178351,40 @@
       "attemptId": "92af5631-da29-4720-bcd9-5e1406541a57",
       "verification": "verified",
       "postId": "0x15e4103c81e4d2535ba2f00c9e80e2c65de76c62"
+    },
+    {
+      "slug": "ops171",
+      "company": "Galaxy Digital",
+      "title": "Procurement Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-24T04:24:16.063Z",
+      "expectedText": "Galaxy Digital is hiring Procurement Manager\n\nhttps://hashtagweb3.com/ops171/fc?og=7",
+      "snapshot": {
+        "id": "6254630004",
+        "title": "Procurement Manager",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6254630004",
+        "date": "2026-11-10T16:22:45-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Dallas, TX",
+        "department": "Data Centers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops171"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Procurement Manager\n\nhttps://hashtagweb3.com/ops171/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops171/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "dcfa9a04-c0f0-430d-a534-41adfa521a47",
+      "verification": "creating"
     }
   ]
 }
