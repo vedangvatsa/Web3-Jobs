@@ -38,11 +38,12 @@ test('fully remote country restrictions and multiple countries survive without i
 });
 
 test('missing and broad remote locations suppress markup without default countries', () => {
-  for (const location of [undefined, '', 'Not specified', 'Remote', 'Worldwide', 'Remote (Worldwide)', 'Remote (North America)', 'EMEA - Remote', 'Remote (Europe)', 'Remote (APAC)']) {
+  for (const location of [undefined, '', 'Not specified', 'Remote', 'Worldwide', 'Remote (Worldwide)', 'EMEA - Remote', 'Remote (Europe)', 'Remote (APAC)']) {
     const result = build({ location });
     assert.equal(result.schema, null, String(location));
     assert.ok(result.reasons.length, String(location));
   }
+  assert.ok(build({ location: 'Remote (North America)', workplaceType: 'remote' }).schema);
 });
 
 test('regional restrictions are not widened to their parent countries', () => {
@@ -72,11 +73,17 @@ test('hybrid and onsite evidence overrides ATS isRemote flags; ambiguous remote 
 test('physical offices stay separate and unresolved cities cannot borrow another office country', () => {
   const result = build({ location: 'Abu Dhabi, UAE; Kuala Lumpur, Malaysia', workplaceType: 'onsite' });
   assert.deepEqual(result.schema?.jobLocation?.map(place => place.address.addressCountry), ['AE', 'MY']);
-  for (const location of ['Bangalore', 'London; Paris, France', 'Indianapolis', 'Toronto, CA', 'Berlin, DE']) {
+  for (const location of ['Toronto, CA', 'Berlin, DE']) {
     const invalid = build({ location, workplaceType: 'onsite' });
     assert.equal(invalid.schema, null, location);
     assert.ok(invalid.reasons.includes('physical-country-missing'), location);
   }
+  assert.ok(build({ location: 'London', workplaceType: 'onsite' }).schema);
+  assert.ok(build({ location: 'Bangalore', workplaceType: 'onsite' }).schema);
+  assert.deepEqual(
+    build({ location: 'London; Paris, France', workplaceType: 'onsite' }).schema?.jobLocation?.map(p => p.address.addressCountry),
+    ['GB', 'FR'],
+  );
 });
 
 test('employment, direct-apply, deadline and salary claims require verified source evidence', () => {

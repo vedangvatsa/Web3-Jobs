@@ -24,14 +24,18 @@ expectCountry('Remote (United States)', 'US');
 assert.equal(toAddressCountryCode(parseJobAddress('Remote (Worldwide)').addressCountry), undefined);
 
 const bareCity = parseJobAddress('London');
-assert.equal(toAddressCountryCode(bareCity.addressCountry), undefined, 'London with no country hint');
+assert.equal(toAddressCountryCode(bareCity.addressCountry), 'GB', 'London maps to GB when unambiguous');
+assert.equal(parseJobAddress('New York Office').addressCountry, 'US');
+assert.equal(parseJobAddress('Chicago').addressCountry, 'US');
 
 expectCountry('Austin, TX - Hybrid', 'US');
 expectCountry('Tbilisi, Georgia', 'GE');
 expectCountry('Atlanta, Georgia', 'US');
-for (const location of ['Indianapolis', 'New Mexico', 'Toronto, CA', 'Berlin, DE', 'CA', 'London; Paris, France']) {
+assert.equal(parseJobAddress('Indianapolis').addressCountry, 'US');
+for (const location of ['New Mexico', 'Toronto, CA', 'Berlin, DE', 'CA']) {
   assert.equal(parseJobAddress(location).addressCountry, undefined, `Do not guess or borrow a country: ${location}`);
 }
+assert.equal(parseJobAddress('London; Paris, France').addressCountry, 'GB');
 assert.deepEqual(parseJobAddress(''), {});
 assert.deepEqual(parseJobAddress(undefined), {});
 

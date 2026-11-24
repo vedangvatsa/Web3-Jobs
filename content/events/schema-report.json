@@ -1,10 +1,10 @@
 {
-  "total": 243,
-  "eligible": 60,
+  "total": 311,
+  "eligible": 80,
   "exclusions": {
-    "restricted-registration": 136,
-    "hidden-address": 53,
-    "missing-detailed-address": 136,
+    "restricted-registration": 194,
+    "hidden-address": 83,
+    "missing-detailed-address": 157,
     "online-only": 2,
     "missing-location": 1
   },
@@ -28,21 +28,6 @@
       "url": "https://hashtagweb3.com/toronto-bl",
       "eligible": false,
       "issues": [
-        "hidden-address",
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
-      "id": "luma-crypto-UNPvQOsHiGBJYQh",
-      "name": "CENA DE FUNDADORES: IA & CRIPTO",
-      "url": "https://hashtagweb3.com/cena-de-fu",
-      "eligible": false,
-      "issues": [
-        "restricted-registration",
         "hidden-address",
         "missing-detailed-address"
       ],
@@ -104,6 +89,19 @@
       ]
     },
     {
+      "id": "luma-crypto-JwKsEEmRhiBD6lT",
+      "name": "PlanX 2026 - The Founder Growth Conference",
+      "url": "https://hashtagweb3.com/planx-founder-growth",
+      "eligible": false,
+      "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-8IiXFwJ9HmQkPy8",
       "name": "Auckland Cryptocurrency Meetup",
       "url": "https://hashtagweb3.com/auckland-c",
@@ -130,8 +128,7 @@
       "url": "https://hashtagweb3.com/finect-inv",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -218,12 +215,9 @@
       "id": "luma-crypto-J1RxlWqvklDjuuT",
       "name": "Meet the Czech Solana Builders | 3 Teams, 3 Ideas",
       "url": "https://hashtagweb3.com/meet-czech",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
-        "offers",
         "organizer"
       ]
     },
@@ -270,14 +264,9 @@
       "id": "luma-crypto-QnQRfvOIMRZqsvj",
       "name": "BitDevs - Socratic Seminar #55",
       "url": "https://hashtagweb3.com/bitdevs-so",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-UAGWLqBe7al4eAl",
@@ -430,14 +419,9 @@
       "id": "luma-crypto-DMlmLknoli5pFXo",
       "name": "Arc Studio Live: From Idea to Onchain App in One Evening",
       "url": "https://hashtagweb3.com/arc-studio",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-NVy8WyomAa91IaF",
@@ -569,6 +553,20 @@
       ]
     },
     {
+      "id": "luma-crypto-vnBJJsLTmLgGNAF",
+      "name": "Portugal - DMCC Elite eGaming Capital Circle",
+      "url": "https://hashtagweb3.com/portugal-dmcc-elite",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-wu3srly4",
       "name": "021Lab × UPrising Network | Bangkok Coffee Meetup",
       "url": "https://hashtagweb3.com/021lab-uprising-network-bangkok-coffee-meetup",
@@ -617,8 +615,7 @@
       "url": "https://hashtagweb3.com/agentic-fi",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -772,14 +769,9 @@
       "id": "luma-crypto-CYgsI1Ot8BGIzc1",
       "name": "#KriptoCuma - #CryptoFriday",
       "url": "https://hashtagweb3.com/kriptocumafsi",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-vEnX52fEZxXJZYZ",
@@ -801,8 +793,7 @@
       "url": "https://hashtagweb3.com/mulheres-n",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -866,6 +857,19 @@
       ],
       "missingRecommended": [
         "image",
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-rn3Fw1AdFOnuKEh",
+      "name": "MECA CFO Summit 2026 (UAE) | Finance beyond Finance",
+      "url": "https://hashtagweb3.com/meca-cfo-summit-uae",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
         "offers",
         "organizer"
       ]
@@ -1123,8 +1127,7 @@
       "url": "https://hashtagweb3.com/picnic-in-the-park-bangkok-2026",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1138,6 +1141,19 @@
       "eligible": true,
       "issues": [],
       "missingRecommended": []
+    },
+    {
+      "id": "luma-crypto-jkeJHkim9eeT4yG",
+      "name": "Crypto Brunch Dubai - Conclave Premium Club",
+      "url": "https://hashtagweb3.com/crypto-brunch-dubai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
     },
     {
       "id": "curated-health-is-wealth-padel-networking",
@@ -1176,6 +1192,20 @@
       ],
       "missingRecommended": [
         "image",
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-XaGS8mxfY2MRL5C",
+      "name": "Conclave Yacht Dubai - Conclave Premium Club",
+      "url": "https://hashtagweb3.com/conclave-yacht-dubai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
         "offers",
         "organizer"
       ]
@@ -1277,6 +1307,29 @@
       ]
     },
     {
+      "id": "luma-crypto-xaWsUCCvz2zpu5B",
+      "name": "BLOCK MONDAYS - NETWORK EVENT - KICK OFF - BLOCKCHAIN WEEK DUBAI BY ECOX NETWORK",
+      "url": "https://hashtagweb3.com/block-mondays-network",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
+      "id": "luma-crypto-EeanGh0V633peRZ",
+      "name": "Sky Dive Dubai - BingX Dubai Week 5.0",
+      "url": "https://hashtagweb3.com/sky-dive-dubai-bingx",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "curated-bangkok-convergence-fine-dining-brunch",
       "name": "Bangkok Convergence - Private Thai Fine-Dining Brunch",
       "url": "https://hashtagweb3.com/bangkok-convergence-fine-dining-brunch",
@@ -1325,8 +1378,7 @@
       "url": "https://hashtagweb3.com/orbscafe-2",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1383,6 +1435,34 @@
       "url": "https://hashtagweb3.com/unitour-3",
       "eligible": false,
       "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-NL5lKanjA2HDsPe",
+      "name": "Padel Tournament - BingX Dubai Week 5.0",
+      "url": "https://hashtagweb3.com/padel-tournament-bingx",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-qafoDafWDdBPxvY",
+      "name": "Crypto Banya Dubai - Conclave Premium Club",
+      "url": "https://hashtagweb3.com/crypto-banya-dubai",
+      "eligible": false,
+      "issues": [
         "restricted-registration",
         "missing-detailed-address"
       ],
@@ -1398,6 +1478,48 @@
       "eligible": false,
       "issues": [
         "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-qJLIzlJ1zqvwoHF",
+      "name": "Liquidity Whales Hookah Night by CoinW & ArbitrageScanner.io",
+      "url": "https://hashtagweb3.com/liquidity-whales-hookah",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-lfeZgxp3F7SO5xP",
+      "name": "BingX Banya - BingX Dubai Week 5.0",
+      "url": "https://hashtagweb3.com/bingx-banya-bingx-dubai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-ABp1YO3iMfyQVJr",
+      "name": "INVEST YACHT BY CONNECT & CIFRA MARKETS",
+      "url": "https://hashtagweb3.com/invest-yacht-connect",
+      "eligible": false,
+      "issues": [
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -1440,6 +1562,32 @@
       "missingRecommended": []
     },
     {
+      "id": "luma-crypto-BADTflsUFmZNyRd",
+      "name": "AI Future 2026 Day 1",
+      "url": "https://hashtagweb3.com/ai-future-day-1",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-4ENBNInWFgB3EuQ",
+      "name": "Blockchain Life 2026 Day 1",
+      "url": "https://hashtagweb3.com/blockchain-life-day-1",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "premier-blockchain-life-2026",
       "name": "Blockchain Life 2026",
       "url": "https://hashtagweb3.com/blockchain-life",
@@ -1468,13 +1616,20 @@
       ]
     },
     {
+      "id": "luma-crypto-jgc3gFq0DbBTCxl",
+      "name": "BORN UP - Blockchain Life Dubai Community Networking Meetup",
+      "url": "https://hashtagweb3.com/born-up-blockchain-life",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
       "id": "luma-crypto-OIyJ97r9aWjWy1A",
       "name": "Investor Breakfast - Why Choose an ETF for Institutional Bitcoin Exposure?",
       "url": "https://hashtagweb3.com/investor-b",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1502,6 +1657,76 @@
       "issues": [
         "restricted-registration",
         "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-xiT8AOxEL6goTHR",
+      "name": "Diner privé entrepreneurs, investisseurs - Sur invitation",
+      "url": "https://hashtagweb3.com/diner-prive",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-zqhg8wlq84bd5Jk",
+      "name": "Dubai Tech Tuesdays No. 126 - Details Coming Soon!",
+      "url": "https://hashtagweb3.com/dubai-tech-tuesdays-no",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-pT9xG1SSgNIqy2R",
+      "name": "DWF Labs Haus: UAE Edition",
+      "url": "https://hashtagweb3.com/dwf-labs-haus-uae-edition",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-HqJhg5EQjJQFICb",
+      "name": "Satoshi Dinner Club Dubai",
+      "url": "https://hashtagweb3.com/satoshi-dinner-club-dubai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-pQJUZrZ0eDzBImG",
+      "name": "NETWORKING EVENING ABOUT TECHNOLOGY AND INVESTMENTS",
+      "url": "https://hashtagweb3.com/networking-evening-about",
+      "eligible": false,
+      "issues": [
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -1564,6 +1789,32 @@
       "missingRecommended": []
     },
     {
+      "id": "luma-crypto-EkFujEipFJBg8lb",
+      "name": "AI Future 2026 Day 2",
+      "url": "https://hashtagweb3.com/ai-future-day-2",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Yte2tcrkipkopII",
+      "name": "Blockchain Life 2026 Day 2",
+      "url": "https://hashtagweb3.com/blockchain-life-day-2",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-PE2r0DjrvNooWxH",
       "name": "Dubai Brunch: Crypto Cards and Payments | Blockchain Life Side Event",
       "url": "https://hashtagweb3.com/dubai-brun",
@@ -1583,6 +1834,19 @@
       "url": "https://hashtagweb3.com/africa-bitcoin-conference",
       "eligible": true,
       "issues": [],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-3bE2t0WPLWeG41h",
+      "name": "AI x Strategy Workshop",
+      "url": "https://hashtagweb3.com/ai-x-strategy-workshop",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
       "missingRecommended": [
         "offers",
         "organizer"
@@ -1630,6 +1894,19 @@
       ]
     },
     {
+      "id": "luma-crypto-CsfAUvJdG1XNGeP",
+      "name": "OFFICIAL AFTERPARTY Blockchain Life 2026",
+      "url": "https://hashtagweb3.com/official-afterparty",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-VNBwlxFnJVFgZxw",
       "name": "The Zurich Society Afterwork at THE LOBBY 6",
       "url": "https://hashtagweb3.com/zurich-soc",
@@ -1648,8 +1925,7 @@
       "url": "https://hashtagweb3.com/tokenizar",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1660,14 +1936,9 @@
       "id": "luma-crypto-BcKBTo6VK3EsfiT",
       "name": "Antidote Presents: News Night",
       "url": "https://hashtagweb3.com/antidote-p",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-Ux4iDupR9suVYCA",
@@ -1688,8 +1959,7 @@
       "url": "https://hashtagweb3.com/cooperative-futures-philadelphia",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -1755,6 +2025,21 @@
       ]
     },
     {
+      "id": "luma-crypto-n3gLph8LERCQ913",
+      "name": "Jet Ski - BingX Dubai Week 5.0",
+      "url": "https://hashtagweb3.com/jet-ski-bingx-dubai-week",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-pNPUYSXtXzsRHT9",
       "name": "Geneva Investor Briefing - Why Choose an ETF for Institutional Bitcoin Exposure?",
       "url": "https://hashtagweb3.com/geneva-inv",
@@ -1781,6 +2066,21 @@
       ]
     },
     {
+      "id": "luma-crypto-lIMMXmKHIKoUXFK",
+      "name": "Gate Drift 2026",
+      "url": "https://hashtagweb3.com/gate-drift",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-x2YUENTlvkUt4TX",
       "name": "Heads Up Hackathon: Demo Day & Awards",
       "url": "https://hashtagweb3.com/heads-up-h",
@@ -1799,6 +2099,49 @@
       "url": "https://hashtagweb3.com/unitour-3uni",
       "eligible": false,
       "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-89QdEmvMS1Tfh9c",
+      "name": "Dune Buggy - BingX Dubai Week 5.0",
+      "url": "https://hashtagweb3.com/dune-buggy-bingx-dubai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-rb2kAYSXFkVhCGd",
+      "name": "Dune Motocross- BingX Dubai Week 5.0",
+      "url": "https://hashtagweb3.com/dune-motocross-bingx",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-5wt40hE9wAshMMO",
+      "name": "F1 Super Yacht Waiting List",
+      "url": "https://hashtagweb3.com/f1-super-yacht-waiting",
+      "eligible": false,
+      "issues": [
         "restricted-registration",
         "missing-detailed-address"
       ],
@@ -1811,14 +2154,9 @@
       "id": "luma-crypto-F2Xabi0c6pHFKZV",
       "name": "Bitcoin meetup #30: Bitcoinové dědictví: jak předat bitcoiny další generaci",
       "url": "https://hashtagweb3.com/bitcoin-me-prague",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-xynHNpzhFQ55syM",
@@ -1879,6 +2217,21 @@
       ]
     },
     {
+      "id": "luma-crypto-3y0O3F7lqrjBG29",
+      "name": "F1 Abu-Dhabi Grand-Prix - BingX Dubai Week 5.0",
+      "url": "https://hashtagweb3.com/f1-abu-dhabi-grand-prix",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-vTbLiNFwj9EHIFs",
       "name": "THE NEX-T DUBAI 2026",
       "url": "https://hashtagweb3.com/nex-t-duba",
@@ -1900,6 +2253,20 @@
       "missingRecommended": []
     },
     {
+      "id": "luma-crypto-DJC7bvL0HEi3JAA",
+      "name": "F1 Abu Dhabi Grand Prix - Mega Yacht",
+      "url": "https://hashtagweb3.com/f1-abu-dhabi-grand-prix-1",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-oWxpYgQmUkL2kPw",
       "name": "Fintech News Media Roast: Surviving the Cycles",
       "url": "https://hashtagweb3.com/fintech-ne",
@@ -1910,11 +2277,77 @@
       ]
     },
     {
+      "id": "luma-crypto-EojhhKy9foI7WV9",
+      "name": "Blockchain Life SE by Networking.Yachts",
+      "url": "https://hashtagweb3.com/blockchain-life-se",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-SbZ2eT7tlXQBeY9",
       "name": "#KriptoCuma - #CryptoFriday",
       "url": "https://hashtagweb3.com/kriptocumaezx",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
+    },
+    {
+      "id": "luma-crypto-qdagAu8TQuz6IaW",
+      "name": "Bitcoin Rails Unconference: Doing business on Bitcoin Rails",
+      "url": "https://hashtagweb3.com/bitcoin-rails",
       "eligible": false,
       "issues": [
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-8u31NK4aPR0tjN8",
+      "name": "CAPITAL GATHERING F1",
+      "url": "https://hashtagweb3.com/capital-gathering-f1",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-7yStNpIKZToctMJ",
+      "name": "Bitcoin Rails Unconference Day 2: From Digital Capital to Digital Credit",
+      "url": "https://hashtagweb3.com/bitcoin-rails-1",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-nlF0aR473WXq8dA",
+      "name": "🇦🇪 Family Offices Investors Summit Michelin‑DinnerAbu Dhabi Finance Week #F1 #ADFW Dec 6 3-6 PM, 2026",
+      "url": "https://hashtagweb3.com/family-offices-investors",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
         "missing-detailed-address"
       ],
       "missingRecommended": [
@@ -1934,6 +2367,14 @@
         "offers",
         "organizer"
       ]
+    },
+    {
+      "id": "luma-crypto-pYLG6dXSHjBHqX4",
+      "name": "Ecox Network - Block Mondays Dubai",
+      "url": "https://hashtagweb3.com/ecox-network-block",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "w3v-abu-dhabi-finance-week-2026",
@@ -1978,6 +2419,20 @@
       ]
     },
     {
+      "id": "luma-crypto-xqDK3jx8AAZDjBe",
+      "name": "Further Network Summit 2026 [ADFW]",
+      "url": "https://hashtagweb3.com/further-network-summit",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-Zfz00mr44SlPTBG",
       "name": "第33回 CORGEAR Night ～仮想NISHIと振り返る2026年のWeb3 - コーギアナイト忘年会～",
       "url": "https://hashtagweb3.com/33-corgear",
@@ -1992,9 +2447,44 @@
       ]
     },
     {
-      "id": "luma-crypto-adMGPPQCUQehNTH",
-      "name": "Privacy as a Feature: a abordagem da Stellar para privacidade onchain",
-      "url": "https://hashtagweb3.com/privacy-as",
+      "id": "luma-crypto-GsCngg7aeJS9IAx",
+      "name": "Meet Manus 2.0 | Dubai | Session #1",
+      "url": "https://hashtagweb3.com/meet-manus-2-0-dubai",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-AwC2l989ZaHg7Hi",
+      "name": "Digital Asset Summit - The Opening Night",
+      "url": "https://hashtagweb3.com/digital-asset-summit",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Cunn13nKiY7HRXb",
+      "name": "Meet Manus 2.0 | Dubai | Session #2",
+      "url": "https://hashtagweb3.com/meet-manus-2-0-dubai-1",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-KQNsaZEKOb6HqhS",
+      "name": "Founder × VC VIP Dinner | Abu Dhabi 🇦🇪",
+      "url": "https://hashtagweb3.com/founder-vc-vip-dinner",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2006,9 +2496,239 @@
       ]
     },
     {
+      "id": "luma-crypto-lPEUUwN9QDiZAPo",
+      "name": "Meet the Next Generation of Palestinian Founders | Dubai Demo Showcase",
+      "url": "https://hashtagweb3.com/meet-next-generation",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-HgPQQVUoDXkz3Gm",
+      "name": "Private LP-only Dinner by Gamma Prime 🇦🇪",
+      "url": "https://hashtagweb3.com/private-lp-only-dinner",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-dz0MXGbPcSzCZXS",
+      "name": "Solana Arcade Night",
+      "url": "https://hashtagweb3.com/solana-arcade-night",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Ksg5VGKCxhbUeax",
+      "name": "Trust Circle: The Future Of Global Wealth co-hosted by Plasma",
+      "url": "https://hashtagweb3.com/trust-circle-future",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-adMGPPQCUQehNTH",
+      "name": "Privacy as a Feature: a abordagem da Stellar para privacidade onchain",
+      "url": "https://hashtagweb3.com/privacy-as",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-Gc5KVD423P9HlGl",
       "name": "Reap Private Table - São Paulo",
       "url": "https://hashtagweb3.com/reap-priva",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-sYN5Ikn8TcO7vuy",
+      "name": "One Dollar, Two Rails: The Capital Efficiency Case for Going Onchain",
+      "url": "https://hashtagweb3.com/one-dollar-two-rails",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-ag6JFY5WZrCIGbi",
+      "name": "Solana Coffee Connect",
+      "url": "https://hashtagweb3.com/solana-coffee-connect",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-0NZbyd12N5Bj1tT",
+      "name": "Merkle Science Meet Abu Dhabi",
+      "url": "https://hashtagweb3.com/merkle-science-meet-abu",
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": [
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-7pNtCmtOot58w2l",
+      "name": "Allocator x Portfolio Manager Showcase",
+      "url": "https://hashtagweb3.com/allocator-x-portfolio",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-evt-F0cGQUUmatFqHEe",
+      "name": "Tokenize & Connect Abu Dhabi",
+      "url": "https://hashtagweb3.com/tokenizead",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-AHUgCZPsDXLAH7E",
+      "name": "AI X GPU Pre Summit : AI leaders Connect",
+      "url": "https://hashtagweb3.com/ai-x-gpu-pre-summit-ai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-Pz3stoDuWENgsCr",
+      "name": "FutureFinance Connect",
+      "url": "https://hashtagweb3.com/futurefinance-connect-2026",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-otro8DisDQlpnn6",
+      "name": "GITEX Networking Yacht Cruise",
+      "url": "https://hashtagweb3.com/gitex-networking-yacht",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-XgQtpZzAhfXH3DR",
+      "name": "Private Dinner by nSureAI",
+      "url": "https://hashtagweb3.com/private-dinner-nsureai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-evt-zJiHhDGYWlnRJLi",
+      "name": "ADFW Soirée by Soter Insure & Galaxy",
+      "url": "https://hashtagweb3.com/soiree",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-6UA9pASZEyHYzNL",
+      "name": "Institutional Table: Private Dinner on Tokenization, Stablecoins and Security | Abu Dhabi Finance Week",
+      "url": "https://hashtagweb3.com/institutional-table",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2041,6 +2761,34 @@
       "url": "https://hashtagweb3.com/tokenize-c",
       "eligible": false,
       "issues": [
+        "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-hykw5HHVtMLjyZV",
+      "name": "The Dawn",
+      "url": "https://hashtagweb3.com/dawn",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-GWWJMH9OVu6bYzD",
+      "name": "HSC Asset Management Abu Dhabi 9-10 December",
+      "url": "https://hashtagweb3.com/hsc-asset-management-abu",
+      "eligible": false,
+      "issues": [
         "restricted-registration",
         "missing-detailed-address"
       ],
@@ -2053,6 +2801,81 @@
       "id": "luma-crypto-Pw2KHoEp30Hlsz4",
       "name": "ブロックチェーン・ハッカソン 2026 | XRPL Hackathon at Blockchain Kaigi 2026 (Tokyo)",
       "url": "https://hashtagweb3.com/xrpl-hacka",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-XNK65MEruTZ5suH",
+      "name": "UAE AI Leaders Roundtable Breakfast",
+      "url": "https://hashtagweb3.com/uae-ai-leaders",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-JfQf6kTAQy51NBb",
+      "name": "VNTR Investor Forum Dubai",
+      "url": "https://hashtagweb3.com/vntr-investor-forum-dubai",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-7Xq7SnshHRTjd43",
+      "name": "HSC Private Dinner",
+      "url": "https://hashtagweb3.com/hsc-private-dinner",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-hYKTFgrn3FgJ7GG",
+      "name": "The Majlis",
+      "url": "https://hashtagweb3.com/majlis",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-8j5JVtChlS0776J",
+      "name": "Business Leaders Soirée | Evening Mixer During ADFW",
+      "url": "https://hashtagweb3.com/business-leaders-soiree",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2078,8 +2901,7 @@
       "url": "https://hashtagweb3.com/match-nigh",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2126,13 +2948,26 @@
       ]
     },
     {
+      "id": "luma-evt-r1SUwOChZpwR0cR",
+      "name": "Padel Social @ ADFW",
+      "url": "https://hashtagweb3.com/padel",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-qPdUmhvIN6H7Mbq",
       "name": "Cibersegurança na era da IA",
       "url": "https://hashtagweb3.com/ciberseguranca-na-era-da-ia",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2154,9 +2989,23 @@
       ]
     },
     {
+      "id": "luma-crypto-yMbCNJGJIHQ66mk",
+      "name": "LONGITUDE, 11th edition",
+      "url": "https://hashtagweb3.com/longitude-11th-edition",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-evt-FCbAyhlPmgNK9ZL",
       "name": "After Hours : ADFW Edition | Powered by Checkout.com",
-      "url": "https://hashtagweb3.com/after-hours-adfw-edition-powered-checkout-com",
+      "url": "https://hashtagweb3.com/afterhours",
       "eligible": false,
       "issues": [
         "restricted-registration",
@@ -2249,14 +3098,9 @@
       "id": "luma-crypto-SCsHTgvCYfLIo7t",
       "name": "#KriptoCuma - #CryptoFriday",
       "url": "https://hashtagweb3.com/kriptocumae1m",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-6pCYONZWHKPcQyZ",
@@ -2313,14 +3157,9 @@
       "id": "luma-crypto-efGQLDQF9GZxxqA",
       "name": "NFT Sampa : 12 e 13 / Dez, 2026",
       "url": "https://hashtagweb3.com/nft-sampa",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-GZrJTJYW9Mu5MDi",
@@ -2398,6 +3237,20 @@
       ]
     },
     {
+      "id": "luma-crypto-IfHM8GqD6Sy7Z7H",
+      "name": "Vex House: Abu Dhabi Launch Party",
+      "url": "https://hashtagweb3.com/vex-house-abu-dhabi",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
       "id": "luma-crypto-FIvz7taI4yPqhpR",
       "name": "AWIC & Bitso: Brindis Navideño, Cripto & Comunidad",
       "url": "https://hashtagweb3.com/awic-bitso",
@@ -2416,12 +3269,9 @@
       "id": "luma-crypto-XOCqSWLeOXlQAzH",
       "name": "Road to ETHPrague: Christmas party",
       "url": "https://hashtagweb3.com/road-ethpr",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
-        "offers",
         "organizer"
       ]
     },
@@ -2458,14 +3308,9 @@
       "id": "luma-crypto-UmA7HmsrDMeMpsc",
       "name": "#KriptoCuma - #CryptoFriday",
       "url": "https://hashtagweb3.com/kriptocumawsk",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-CtA3B7BI8q8AS9Q",
@@ -2536,14 +3381,9 @@
       "id": "luma-crypto-gkYlTd25k5ttgTr",
       "name": "#KriptoCuma - #CryptoFriday",
       "url": "https://hashtagweb3.com/kriptocuma1ax",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
+      "eligible": true,
+      "issues": [],
+      "missingRecommended": []
     },
     {
       "id": "luma-crypto-EeCfhKc5NFUerQ9",
@@ -2551,8 +3391,7 @@
       "url": "https://hashtagweb3.com/nada-orbsc",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2643,8 +3482,7 @@
       "url": "https://hashtagweb3.com/keio-chain",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2705,13 +3543,10 @@
       "id": "luma-crypto-3cQwJwuytLCWPrp",
       "name": "Off the Beaten Vine: CWC wine tasting",
       "url": "https://hashtagweb3.com/off-beaten",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
-        "offers",
-        "organizer"
+        "offers"
       ]
     },
     {
@@ -2748,8 +3583,7 @@
       "url": "https://hashtagweb3.com/blockchainbcs",
       "eligible": false,
       "issues": [
-        "restricted-registration",
-        "missing-detailed-address"
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",
@@ -2763,6 +3597,21 @@
       "eligible": false,
       "issues": [
         "restricted-registration"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-8VE5f7DsHuJyEB1",
+      "name": "ZIG Summit 2027",
+      "url": "https://hashtagweb3.com/zig-summit",
+      "eligible": false,
+      "issues": [
+        "restricted-registration",
+        "hidden-address",
+        "missing-detailed-address"
       ],
       "missingRecommended": [
         "offers",
@@ -3073,13 +3922,10 @@
       "id": "luma-crypto-7SkJQFspr9hB090",
       "name": "Solana Breakpoint 2027",
       "url": "https://hashtagweb3.com/solana-bresol",
-      "eligible": false,
-      "issues": [
-        "missing-detailed-address"
-      ],
+      "eligible": true,
+      "issues": [],
       "missingRecommended": [
-        "offers",
-        "organizer"
+        "offers"
       ]
     },
     {
@@ -3116,6 +3962,19 @@
       "eligible": false,
       "issues": [
         "missing-detailed-address"
+      ],
+      "missingRecommended": [
+        "offers",
+        "organizer"
+      ]
+    },
+    {
+      "id": "luma-crypto-w2iQK7fGvYuen2M",
+      "name": "Dubai 2027 Venture Capital World Summit",
+      "url": "https://hashtagweb3.com/dubai-venture-capital",
+      "eligible": false,
+      "issues": [
+        "restricted-registration"
       ],
       "missingRecommended": [
         "offers",

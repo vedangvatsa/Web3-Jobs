@@ -63,7 +63,7 @@ export function rebreakCollapsedEventParagraphs(text: string): string {
     '$1\n\n',
   );
   out = out.replace(
-    /(?<=[.!?\p{Ll}\d)])\s+(?=(?:BE PART OF|WHAT TO EXPECT|WHO SHOULD ATTEND|EVENT FORMAT|HOW TO REGISTER|HOW TO JOIN|REGISTRATION)\b)/giu,
+    /(?<=[.!?\p{Ll}\d)])\s+(?=(?:BE PART OF|WHAT TO EXPECT|WHO SHOULD ATTEND|EVENT FORMAT|HOW TO REGISTER|HOW TO JOIN|REGISTRATION)\b)/gu,
     '\n\n',
   );
   out = out.replace(

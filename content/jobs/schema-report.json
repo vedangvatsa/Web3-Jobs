@@ -1,13 +1,13 @@
 {
   "total": 1724,
-  "schemaEligible": 981,
-  "locationEligible": 981,
+  "schemaEligible": 1321,
+  "locationEligible": 1321,
   "locationCounts": {
-    "physical-country-missing": 489,
-    "eligible-remote": 230,
-    "remote-country-missing": 166,
-    "remote-area-unresolved": 31,
-    "eligible-physical": 751,
+    "eligible-physical": 1061,
+    "eligible-remote": 260,
+    "remote-country-missing": 57,
+    "remote-area-unresolved": 110,
+    "physical-country-missing": 179,
     "missing-location": 2,
     "remote-status-unverified": 55
   },
@@ -15,13 +15,13 @@
     "eligible-age": 1724
   },
   "emissionCounts": {
-    "physical-country-missing": 489,
-    "eligible": 981,
-    "remote-country-missing": 166,
-    "remote-area-unresolved": 31,
+    "eligible": 1321,
+    "remote-country-missing": 57,
+    "remote-area-unresolved": 110,
+    "physical-country-missing": 179,
     "missing-location": 2,
     "remote-status-unverified": 55,
     "missing-application-url": 3
   },
-  "checkedAt": "2026-11-24T20:48:10.690Z"
+  "checkedAt": "2026-11-24T21:00:41.149Z"
 }
