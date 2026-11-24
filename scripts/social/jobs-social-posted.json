@@ -179880,7 +179880,8 @@
       },
       "account": "profile",
       "attemptId": "9e3b4371-d89c-4b8a-a076-fcbfdb8e284d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5f4afc16ec9c88bc47d027b8f5870e90bfb1ce92"
     }
   ]
 }
