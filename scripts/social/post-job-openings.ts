@@ -48,7 +48,7 @@ import { verifyLinkedInBuffer } from './job-linkedin-verification';
 export { verifyLinkedInBuffer } from './job-linkedin-verification';
 import { PersonalLinkedInClient, personalLinkedInConfig } from './linkedin-personal';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
-import { sanitizeCompanyForSocial } from '../../src/lib/social-share-constants.mjs';
+import { sanitizeCompanyForSocial, shortenJobTitleForSocial } from '../../src/lib/social-share-constants.mjs';
 import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 import { isJobAgeEligible } from '../../src/lib/job-age-policy.mjs';
 import { assertPublishableJob, loadPublishedJobs, MAX_PREFLIGHT_CANDIDATES } from '../lib/job-publish-guard.mjs';
@@ -297,7 +297,7 @@ function hasExpectedThreadsPostText(text: string, expected: ThreadsPostExpectati
   if (expected.expectedText && text === expected.expectedText) return true;
 
   const displayCompany = sanitizeCompanyForSocial(expected.company);
-  const prefix = `${displayCompany} is hiring ${expected.title}: `;
+  const prefix = `${displayCompany} is hiring ${shortenJobTitleForSocial(expected.title)}: `;
   if (!text.startsWith(prefix)) return false;
   try {
     const url = new URL(text.slice(prefix.length).trim());
@@ -514,8 +514,8 @@ export async function postToBluesky(
       $type: 'app.bsky.embed.external',
       external: {
         uri: linkUrl,
-        title: `${sanitizeCompanyForSocial(company)} is hiring ${title}`,
-        description: description || `Apply now for ${title} at ${company} on Hashtag Web3`,
+        title: `${sanitizeCompanyForSocial(company)} is hiring ${shortenJobTitleForSocial(title)}`,
+        description: description || `Apply now for ${shortenJobTitleForSocial(title)} at ${company} on Hashtag Web3`,
         thumb: imageBlob,
       },
     };
@@ -1215,12 +1215,13 @@ export async function main(options: {store?: ReturnType<typeof createSocialState
     const facebookUrl = buildSocialShareUrl(slug, 'fb');
 
   const displayCompany = sanitizeCompanyForSocial(company);
-  const xPostText = `${displayCompany} is hiring ${title}\n\n${xUrl}`;
-  const threadsPostText = `${displayCompany} is hiring ${title}: ${threadsUrl}`;
-  const blueskyPostText = `${displayCompany} is hiring ${title}: ${blueskyUrl}`;
-  const farcasterPostText = `${displayCompany} is hiring ${title}\n\n${farcasterUrl}`;
-  const linkedinPostText = `${displayCompany} is hiring ${title}: ${linkedinUrl}`;
-  const facebookPostText = `${displayCompany} is hiring ${title}: ${facebookUrl}`;
+  const socialTitle = shortenJobTitleForSocial(title);
+  const xPostText = `${displayCompany} is hiring ${socialTitle}\n\n${xUrl}`;
+  const threadsPostText = `${displayCompany} is hiring ${socialTitle}: ${threadsUrl}`;
+  const blueskyPostText = `${displayCompany} is hiring ${socialTitle}: ${blueskyUrl}`;
+  const farcasterPostText = `${displayCompany} is hiring ${socialTitle}\n\n${farcasterUrl}`;
+  const linkedinPostText = `${displayCompany} is hiring ${socialTitle}: ${linkedinUrl}`;
+  const facebookPostText = `${displayCompany} is hiring ${socialTitle}: ${facebookUrl}`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);

@@ -5,7 +5,7 @@ import { pathToFileURL } from 'node:url';
 import { persistTelegramState } from './telegram-news-state.mjs';
 import { assertPostingWindow, assertUnsentSlot, hasSentSlot } from './posting-slot.mjs';
 import { assertPublishableJobs } from '../lib/job-publish-guard.mjs';
-import { sanitizeCompanyForSocial } from '../../src/lib/social-share-constants.mjs';
+import { sanitizeCompanyForSocial, shortenJobTitleForSocial } from '../../src/lib/social-share-constants.mjs';
 
 const pattern = /^\.telegram-(?:(?:posted(?:-last)?|job-urls)-[a-zA-Z0-9]+|jobs-deliveries-[a-zA-Z0-9]+)\.json$/;
 const object = value => value && typeof value === 'object' && !Array.isArray(value);
@@ -73,7 +73,8 @@ export function formatJobsMessage(jobs) {
   return jobs.map(job => {
     const source = job.snapshot || job;
     const company = sanitizeCompanyForSocial(source.company);
-    return `- ${escape(company)} is hiring <a href="${escape(job.url)}">${escape(source.title)}</a>`;
+    const title = shortenJobTitleForSocial(source.title);
+    return `- ${escape(company)} is hiring <a href="${escape(job.url)}">${escape(title)}</a>`;
   }).join('\n');
 }
 
