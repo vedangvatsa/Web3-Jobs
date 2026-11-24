@@ -181903,6 +181903,40 @@
       "attemptId": "e8f4d99a-581d-41a6-8fe1-fe36dcec3e89",
       "verification": "verified",
       "postId": "0x943c093ec043ba6ee081bde98c60a5a1d82c0b35"
+    },
+    {
+      "slug": "dev43",
+      "company": "DRW",
+      "title": "Software Developer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-24T14:13:42.244Z",
+      "expectedText": "DRW is hiring Software Developer\n\nhttps://hashtagweb3.com/dev43/fc?og=7",
+      "snapshot": {
+        "id": "8357329",
+        "title": "Software Developer",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8357329",
+        "date": "2026-11-05T18:34:16-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Montreal",
+        "department": "EDT Technology - Trade Execution",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dev43"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Developer\n\nhttps://hashtagweb3.com/dev43/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dev43/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "210e52da-20ca-4168-93e9-ef18fe1033bd",
+      "verification": "creating"
     }
   ]
 }
