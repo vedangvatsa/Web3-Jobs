@@ -6464,5 +6464,123 @@
     "slotKey": "2026-11-24:morning",
     "messageId": 217,
     "sentAt": "2026-11-24T04:22:52.420Z"
+  },
+  "e237eef3-a83e-4ad5-834a-80aae3a55f89": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T14:12:45.714Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "cf9d2789-c9e6-4c23-9e2a-e7ed8795e8ad",
+          "title": "Head of Regulatory Compliance - Brazil",
+          "company": "Unlimit",
+          "link": "https://jobs.lever.co/unlimit/cf9d2789-c9e6-4c23-9e2a-e7ed8795e8ad",
+          "date": "2026-11-18T14:19:19.768Z",
+          "source": "Lever: Unlimit [unlimit]",
+          "location": "Sao Paolo",
+          "workplaceType": "onsite",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp185"
+        },
+        "key": "cf9d2789-c9e6-4c23-9e2a-e7ed8795e8ad",
+        "slug": "cmp185",
+        "url": "https://hashtagweb3.com/cmp185?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Unlimit",
+        "title": "Head of Regulatory Compliance"
+      },
+      {
+        "snapshot": {
+          "id": "8384079",
+          "title": "Staff Product Manager, Prediction Markets",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8384079?t=gh_src=&gh_jid=8384079",
+          "date": "2026-11-17T11:16:28-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Futures Product Management",
+          "active": true,
+          "salary": "$191k – $225k/yr",
+          "dateVerified": true,
+          "slug": "pm414"
+        },
+        "key": "8384079",
+        "slug": "pm414",
+        "url": "https://hashtagweb3.com/pm414?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Staff Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "c8f8ad85-c75e-4667-bf85-4c25a30bb4ef",
+          "title": "Head of Performance Marketing",
+          "company": "ether.fi",
+          "link": "https://jobs.ashbyhq.com/ether.fi/c8f8ad85-c75e-4667-bf85-4c25a30bb4ef",
+          "date": "2026-10-27T13:27:52.148+00:00",
+          "source": "Ashby: ether.fi [ether.fi]",
+          "location": "Cayman",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt127"
+        },
+        "key": "c8f8ad85-c75e-4667-bf85-4c25a30bb4ef",
+        "slug": "mkt127",
+        "url": "https://hashtagweb3.com/mkt127?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "ether.fi",
+        "title": "Head of Performance Marketing"
+      },
+      {
+        "snapshot": {
+          "id": "a753593d-9369-4b81-b990-c62d065c02c7",
+          "title": "HR & Operations Officer",
+          "company": "0G Labs",
+          "link": "https://jobs.ashbyhq.com/0g/a753593d-9369-4b81-b990-c62d065c02c7",
+          "date": "2026-11-11T10:40:45.677+00:00",
+          "source": "Ashby: 0G Labs [0g]",
+          "location": "Remote (Singapore)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec65"
+        },
+        "key": "a753593d-9369-4b81-b990-c62d065c02c7",
+        "slug": "rec65",
+        "url": "https://hashtagweb3.com/rec65?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0G Labs",
+        "title": "HR & Operations Officer"
+      },
+      {
+        "snapshot": {
+          "id": "b316058b-c4bc-4eb5-a43e-2b638ff06b60",
+          "title": "Head of Marketing, 0x & Matcha",
+          "company": "0x",
+          "link": "https://jobs.ashbyhq.com/0x/b316058b-c4bc-4eb5-a43e-2b638ff06b60",
+          "date": "2026-10-26T21:59:29.738+00:00",
+          "source": "Ashby: 0x [0x]",
+          "location": "Remote — North America (Aligned with U.S. Time Zones)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt120"
+        },
+        "key": "b316058b-c4bc-4eb5-a43e-2b638ff06b60",
+        "slug": "mkt120",
+        "url": "https://hashtagweb3.com/mkt120?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "0x",
+        "title": "Head of Marketing"
+      }
+    ],
+    "message": "- Unlimit is hiring <a href=\"https://hashtagweb3.com/cmp185?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Regulatory Compliance</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm414?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Manager, Prediction Markets</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/mkt127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Performance Marketing</a>\n- 0G Labs is hiring <a href=\"https://hashtagweb3.com/rec65?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">HR &amp; Operations Officer</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/mkt120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Marketing</a>",
+    "slotKey": "2026-11-24:afternoon"
   }
 }
