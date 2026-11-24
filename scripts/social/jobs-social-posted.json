@@ -179019,7 +179019,8 @@
       },
       "account": "profile",
       "attemptId": "ae0f803b-306c-4ef7-9271-fd4f4f65661b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xef6a968afced35227e7b9775408fb71483e3de79"
     }
   ]
 }
