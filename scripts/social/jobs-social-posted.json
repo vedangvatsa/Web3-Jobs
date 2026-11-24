@@ -180440,7 +180440,8 @@
       },
       "account": "channel:growth",
       "attemptId": "8231bf85-8ed9-4d68-b9fe-5389b7d2fa42",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd505ce0480b904f1a350b8717349cbead578b101"
     }
   ]
 }
