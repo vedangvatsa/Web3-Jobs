@@ -30,10 +30,10 @@ export function pushNewsFiles({ cwd = process.cwd(), baseSha, expectedBaseSha = 
       const remote = git(['rev-parse', 'FETCH_HEAD']);
       const reserved = new Set();
       if (blobAt(remote, 'content/event-tombstones.json')) for (const slug of tombstoneSlugs(JSON.parse(git(['show', `${remote}:content/event-tombstones.json`])))) reserved.add(slug);
-      for (const registry of ['content/slug-types.json', 'content/legacy-slugs-archive.json', 'content/event-slug-history.json']) {
+      for (const registry of ['content/slug-types.json', 'content/legacy-slugs-archive.json', 'content/event-slug-history.json', 'content/articles/legacy-slugs.json']) {
         const data = JSON.parse(git(['show', `${remote}:${registry}`]));
         if (registry.includes('slug-types')) for (const values of Object.values(data)) if (Array.isArray(values)) for (const slug of values) reserved.add(slug);
-        if (registry.includes('legacy-slugs')) for (const slug of Object.keys(data)) reserved.add(slug);
+        if (registry.includes('legacy-slugs') || registry.includes('articles/legacy-slugs')) for (const slug of Object.keys(data)) reserved.add(slug);
         if (registry.includes('event-slug-history')) for (const event of Object.values(data)) { if (event.slug) reserved.add(event.slug); for (const alias of event.aliases || []) reserved.add(alias); }
       }
       for (const entry of blobs.filter(entry => entry.file.startsWith('content/articles/'))) {

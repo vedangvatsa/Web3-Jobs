@@ -129,6 +129,17 @@ function runTests() {
         `Grant ${g.id} needs source refetch (${refetchReasons.join(', ')}). Run: npx tsx scripts/replace-fabricated-grant-bodies.ts --apply`,
       );
     }
+
+    const formScrape = /do not submit passwords|report malicious form|never submit passwords/i;
+    for (const section of gp.sections || []) {
+      for (const paragraph of section.paragraphs || []) {
+        if (formScrape.test(paragraph)) {
+          throw new Error(
+            `Grant ${g.id} stores Google Forms scrape junk in body copy. Re-run enrich or manual repairs.`,
+          );
+        }
+      }
+    }
   }
 
   const MIN_SOURCE_WORDS = 120;

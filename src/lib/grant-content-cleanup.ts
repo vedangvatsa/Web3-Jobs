@@ -13,6 +13,11 @@ function sanitizeGrantCopy(text: string): string {
 
 const JUNK_PARAGRAPH =
   /press enter or click to view image|published time:|blob:http|!\[[^\]]*\]\(blob:/i;
+/** Scraped Google Forms / Airtable anti-abuse lines and bare application fields. */
+const FORM_SCRAPE_JUNK =
+  /do not submit passwords|report malicious form|never submit passwords/i;
+const FORM_FIELD_ONLY =
+  /^(?:what (?:does|is)|tell us about|share any additional links|links to current pitch deck|try to split this up into)/i;
 const NUMERIC_STEP_HEADING = /^\d{1,3}$/;
 const STAT_HEADING = /^\d{1,3}%$/;
 
@@ -27,7 +32,13 @@ export function normalizeGrantSections<T extends GrantSectionShape>(sections: T[
       .trim();
     const paragraphs = expandStepParagraphs(
       (section.paragraphs || [])
-        .filter((p) => !JUNK_PARAGRAPH.test(p) && !isGrammarJunkParagraph(p))
+        .filter(
+          (p) =>
+            !JUNK_PARAGRAPH.test(p) &&
+            !FORM_SCRAPE_JUNK.test(p) &&
+            !FORM_FIELD_ONLY.test(p.trim()) &&
+            !isGrammarJunkParagraph(p),
+        )
         .map(stripMarkdownBold)
         .map(sanitizeGrantCopy)
         .map((p) => p.replace(/^(.+\?)\s+([A-Z])/u, '$1\n\n$2')),

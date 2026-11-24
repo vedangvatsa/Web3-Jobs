@@ -1,6 +1,17 @@
 # Safe Browsing "Social Engineering" Flag — Investigation & Review Package
 
-**Date:** 2026-11-12
+**Date:** 2026-11-12 (updated 2026-11-24)
+
+## Update 2026-11-24
+
+- Google Safe Browsing still lists **hashtagweb3.com** as unsafe (Safari “Deceptive Website Warning”). Search Console: **Deceptive pages**, **Sample URLs: N/A** (domain-level, no path list).
+- Likely triggers: (1) News pages with `*scam*` / `*phish*` slugs and bodies that quote scam playbooks (especially `/secscam`); (2) grant pages that scraped Airtable/Forms text (`fuel-grants` had “Do not submit passwords…”); (3) prior poisoned grant copy (e.g. Celo community fund casino spam) before Nov 24 cleanup.
+- **Shipped in repo (deploy required):**
+  - `NewsEditorialNotice` on all `category: News` articles.
+  - Eight high-risk news slugs renamed (`secscam` → `/sec-colorado-enforcement`, etc.) with permanent 301s in `content/articles/legacy-slugs.json`.
+  - Softer SEC enforcement meta copy; complaint-summary body on `/sec-colorado-enforcement` no longer quotes wallet-payment steps.
+  - `fuel-grants` manual repair; grant render/extract filters drop form-scrape junk; `test-grants.ts` rejects stored “Do not submit passwords…” copy.
+- **Still required after deploy:** spot-check live HTML on renamed URLs and a News article → Search Console **Security issues → Request review** (status will not clear until Google re-crawls and approves).
 **Site:** https://hashtagweb3.com (Firebase App Hosting, 35.219.200.9)
 **Report:** Google Search Console email — "Social engineering content detected", sample URL `http://hashtagweb3[.]com/`
 **Browser impact:** Chrome "Deceptive Website Warning", Brave "Dangerous site … recently found phishing" (full registrable domain)

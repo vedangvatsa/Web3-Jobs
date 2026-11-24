@@ -117,7 +117,7 @@
     ],
     "descriptionSource": {
       "url": "https://www.0gfoundation.ai/ecosystem",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.148Z",
       "wordCount": 231,
       "method": "paragraphs",
       "pageTitle": "0G Foundation Ecosystem Growth Program"
@@ -302,7 +302,7 @@
     ],
     "descriptionSource": {
       "url": "https://aavegrants.org/",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.148Z",
       "wordCount": 150,
       "method": "curated-official-summary",
       "pageTitle": "Aave Grants"
@@ -818,7 +818,7 @@
     ],
     "descriptionSource": {
       "url": "https://www.alchemy.com/arbitrum-grant",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.148Z",
       "wordCount": 147,
       "method": "curated-official-summary",
       "pageTitle": "Alchemy-Arbitrum Grant Program"
@@ -1064,7 +1064,7 @@
     ],
     "descriptionSource": {
       "url": "https://www.algolia.com/industries/startups",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 275,
       "method": "curated-official-summary",
       "pageTitle": "Algolia for Startups"
@@ -1660,7 +1660,7 @@
     ],
     "descriptionSource": {
       "url": "https://aptosnetwork.com/use-cases/payments",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 129,
       "method": "curated-official-summary",
       "pageTitle": "Aptos Payments Grants"
@@ -2504,7 +2504,7 @@
     ],
     "descriptionSource": {
       "url": "https://aurora.dev/partner",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 134,
       "method": "curated-official-summary",
       "pageTitle": "Aurora Grants"
@@ -3522,7 +3522,7 @@
     ],
     "descriptionSource": {
       "url": "https://www.certik.com/",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 164,
       "method": "curated-official-summary",
       "pageTitle": "CertiK and YZi Labs audit grants"
@@ -4451,7 +4451,7 @@
     ],
     "descriptionSource": {
       "url": "https://cotinetwork.medium.com/coti-launches-the-first-web4-grant-program-for-ai-agents-dad03be5053a",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 171,
       "method": "curated-official-summary",
       "pageTitle": "COTI Web4 grant program"
@@ -4630,7 +4630,7 @@
     ],
     "descriptionSource": {
       "url": "https://medium.com/cronos-chain/cronos-ecosystem-grants-7a4a2de3b721",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 134,
       "method": "curated-official-summary",
       "pageTitle": "Cronos Ecosystem Grants"
@@ -4751,7 +4751,7 @@
     ],
     "descriptionSource": {
       "url": "https://customer.io/startup-program-application",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 131,
       "method": "curated-official-summary",
       "pageTitle": "Customer.io for Startups"
@@ -5259,7 +5259,7 @@
     ],
     "descriptionSource": {
       "url": "https://doublezero.xyz/journal/introducing-the-doublezero-grants-program",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 153,
       "method": "curated-official-summary",
       "pageTitle": "DoubleZero Grants Program"
@@ -5801,7 +5801,7 @@
     ],
     "descriptionSource": {
       "url": "https://areta.fillout.com/t/bFJzDt3p1rus",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 134,
       "method": "curated-official-summary",
       "pageTitle": "Ethereum Audit Subsidy Program"
@@ -6316,7 +6316,7 @@
     ],
     "descriptionSource": {
       "url": "https://medium.com/@FILLiquid/announcing-the-fig-grant-program-20m-fig-to-power-the-future-of-filecoin-defi-091a8af61a5a",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 120,
       "method": "curated-official-summary",
       "pageTitle": "FILLiquid Foundation"
@@ -6702,7 +6702,7 @@
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "$10,000 - $150,000",
-    "description": "The Fuel Grants Program supports developers and creators with innovative ideas who want to build on Fuel. You can win a grant amount ranging from $10,000 to $150,000, depending on your project requirements.",
+    "description": "Fuel Grants backs teams shipping open-source infrastructure, wallets, and apps on the Fuel network, with awards commonly in the five-figure to low six-figure range.",
     "url": "https://airtable.com/appEO4t5bVydYgzCk/pag7Jhp6zbEwjkTQt/form",
     "ecosystem": "Fuel",
     "tags": [
@@ -6718,42 +6718,32 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "What does your project do and what problem are you solving?",
-          "What is the protocol’s business model - How will it generate revenue?",
-          "Tell us about your team - what have you built in the past?",
-          "Share any additional links where necessary."
+          "Fuel’s grants program funds developers and creators building on the Fuel network. Awards typically range from about $10,000 to $150,000 depending on scope, milestones, and ecosystem impact.",
+          "Reviewers prioritize open-source work, testnet or mainnet deliverables on Fuel, and teams that can show prior shipping history.",
+          "Successful proposals explain how the work unlocks new developer or user activity on Fuel, not only generic tooling that could run on any chain."
         ]
       },
       {
-        "heading": "Program details",
-        "paragraphs": [
-          "Links to current pitch deck or links to previous work",
-          "Try to split this up into 3-5 Milestones with clear achievable deadlines for each of them.",
-          "What does your project do and what problem are you solving?",
-          "What is the protocol’s business model - How will it generate revenue?",
-          "Tell us about your team - what have you built in the past? Share any additional links where necessary.",
-          "Deliverable: Have a fully-working AMM on Fuel Sepolia Testnet and set up social presence plan"
-        ]
-      },
-      {
-        "heading": "Focus areas",
-        "paragraphs": [
-          "Develop a frontend for swaps to test on Fuel Sepolia Testnet",
-          "Comeplete first iteration of UAT - User Acceptance Testing"
+        "heading": "What reviewers look for",
+        "bullets": [
+          "Clear milestones tied to code, audits, or public testnet deployments on Fuel.",
+          "Documented team experience and links to prior repositories reviewers can audit.",
+          "Plans for ecosystem adoption: docs, examples, integrations, or education for builders."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Do not submit passwords through this form. Report malicious form"
+          "Submit through the official Fuel Grants form linked above. Include a concise project summary, milestone plan, team background, and links to repositories or demos reviewers can verify.",
+          "Milestone payments are negotiated case by case; keep deliverables measurable so reviewers can track progress without ambiguous “phase two” language."
         ]
       }
     ],
     "descriptionSource": {
       "url": "https://airtable.com/appEO4t5bVydYgzCk/pag7Jhp6zbEwjkTQt/form",
-      "fetchedAt": "2026-11-24T09:04:44.947Z",
-      "wordCount": 188,
-      "method": "paragraphs",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
+      "wordCount": 174,
+      "method": "curated-official-summary",
       "pageTitle": "Fuel Grants Program"
     },
     "urlLive": {
@@ -6928,7 +6918,7 @@
     ],
     "descriptionSource": {
       "url": "https://gitcoin.co/campaigns",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 137,
       "method": "curated-official-summary",
       "pageTitle": "Gitcoin Grants & Quadratic Funding"
@@ -8461,7 +8451,7 @@
     ],
     "descriptionSource": {
       "url": "https://www.jetbrains.com/startups/",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 310,
       "method": "curated-official-summary",
       "pageTitle": "JetBrains for Startups"
@@ -8639,7 +8629,7 @@
     ],
     "descriptionSource": {
       "url": "https://www.kava.io/grants",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 140,
       "method": "curated-official-summary",
       "pageTitle": "Kava Grants"
@@ -11302,7 +11292,7 @@
     ],
     "descriptionSource": {
       "url": "https://docs.pooltogether.com/pooltogether/guides/getting-involved",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 204,
       "method": "curated-official-summary",
       "pageTitle": "PoolTogether Grants"
@@ -13845,7 +13835,7 @@
     ],
     "descriptionSource": {
       "url": "https://stacks.foundation/grants",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 144,
       "method": "curated-official-summary",
       "pageTitle": "Stacks Foundation Grants"
@@ -14699,7 +14689,7 @@
     ],
     "descriptionSource": {
       "url": "https://forms.gle/A4izh9etAnXH4NU79",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 148,
       "method": "curated-official-summary",
       "pageTitle": "Story Ecosystem Community Event Grants Program"
@@ -15103,7 +15093,7 @@
     ],
     "descriptionSource": {
       "url": "https://tally.so/help/tally-for-startups",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 132,
       "method": "curated-official-summary",
       "pageTitle": "Tally for Startups"
@@ -16089,7 +16079,7 @@
     ],
     "descriptionSource": {
       "url": "https://vebetter.com/grants",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 121,
       "method": "curated-official-summary",
       "pageTitle": "VeBetter Grants Program"
@@ -16155,7 +16145,7 @@
     ],
     "descriptionSource": {
       "url": "https://docs.velas.com/grants/",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 240,
       "method": "curated-official-summary",
       "pageTitle": "Velas Grants"
@@ -16652,7 +16642,7 @@
     ],
     "descriptionSource": {
       "url": "https://grant.x1ecochain.com/",
-      "fetchedAt": "2026-11-24T09:05:55.585Z",
+      "fetchedAt": "2026-11-24T10:13:55.149Z",
       "wordCount": 246,
       "method": "curated-official-summary",
       "pageTitle": "X1 EcoChain Grant Program"

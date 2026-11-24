@@ -12,6 +12,9 @@ const eventCatalog = JSON.parse(readFileSync(path.join(projectRoot, 'content/eve
 const eventAliases = Object.fromEntries(eventCatalog.flatMap(event => (event.aliases || []).filter(alias => alias !== event.slug).map(alias => [alias, event.slug])));
 const canonicalEventRedirects = { ...Object.fromEntries(Object.entries(eventRedirects).map(([alias, target]) => [alias, eventAliases[target] || target])), ...eventAliases };
 const imageRedirects = JSON.parse(readFileSync(path.join(projectRoot, 'content/image-redirects.json'), 'utf8'));
+const articleLegacySlugs = JSON.parse(
+  readFileSync(path.join(projectRoot, 'content/articles/legacy-slugs.json'), 'utf8'),
+);
 const nomadToolPaths = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/tool-paths.json'), 'utf8'));
 const nomadLegacyRoutes = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/legacy-routes.json'), 'utf8'));
 const nomadCities = JSON.parse(readFileSync(path.join(projectRoot, 'content/nomads/cities.json'), 'utf8'));
@@ -171,6 +174,11 @@ const nextConfig = {
       { source: `/jio/:platform(${socialSuffixPattern})`, destination: '/jio-perpetuals/:platform', permanent: true },
       { source: '/veryai', destination: '/very-ai', permanent: true },
       ...Object.entries(canonicalEventRedirects).filter(([source, destination]) => source !== destination).map(([source, destination]) => ({ source: `/${source}`, destination: `/${destination}`, permanent: true })),
+      ...Object.entries(articleLegacySlugs).map(([source, destination]) => ({
+        source: `/${source}`,
+        destination: `/${destination}`,
+        permanent: true,
+      })),
     ]
   },
   async rewrites() {

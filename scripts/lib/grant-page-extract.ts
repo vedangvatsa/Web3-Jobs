@@ -51,6 +51,14 @@ function isUsefulParagraph(text: string): boolean {
   if (isRelatedMediaParagraph(t)) return false;
   if (UI_TEXT.test(t)) return false;
   if (/cookie|privacy policy|terms of service|all rights reserved/i.test(t) && t.length < 120) return false;
+  if (/do not submit passwords|report malicious form/i.test(t)) return false;
+  if (
+    t.endsWith('?') &&
+    wordCount(t) < 25 &&
+    /^(?:what |tell us |share any |how |who |when |where )/i.test(t)
+  ) {
+    return false;
+  }
   return wordCount(t) >= 8;
 }
 

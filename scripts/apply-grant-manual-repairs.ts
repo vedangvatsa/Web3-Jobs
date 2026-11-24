@@ -274,6 +274,36 @@ const repairs: Record<string, Repair> = {
       },
     ],
   },
+  'fuel-grants': {
+    description:
+      'Fuel Grants backs teams shipping open-source infrastructure, wallets, and apps on the Fuel network, with awards commonly in the five-figure to low six-figure range.',
+    sections: [
+      {
+        heading: 'Program overview',
+        paragraphs: [
+          'Fuel’s grants program funds developers and creators building on the Fuel network. Awards typically range from about $10,000 to $150,000 depending on scope, milestones, and ecosystem impact.',
+          'Reviewers prioritize open-source work, testnet or mainnet deliverables on Fuel, and teams that can show prior shipping history.',
+          'Successful proposals explain how the work unlocks new developer or user activity on Fuel, not only generic tooling that could run on any chain.',
+        ],
+      },
+      {
+        heading: 'What reviewers look for',
+        bullets: [
+          'Clear milestones tied to code, audits, or public testnet deployments on Fuel.',
+          'Documented team experience and links to prior repositories reviewers can audit.',
+          'Plans for ecosystem adoption: docs, examples, integrations, or education for builders.',
+        ],
+      },
+      {
+        heading: 'How to apply',
+        paragraphs: [
+          'Submit through the official Fuel Grants form linked above. Include a concise project summary, milestone plan, team background, and links to repositories or demos reviewers can verify.',
+          'Milestone payments are negotiated case by case; keep deliverables measurable so reviewers can track progress without ambiguous “phase two” language.',
+        ],
+      },
+    ],
+    descriptionSource: { method: 'curated-official-summary', fetchedAt: '2026-11-24' },
+  },
   'velas-grants': {
     sections: [
       {

@@ -21,6 +21,7 @@ import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryM
 import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
+import { NewsEditorialNotice } from '@/components/news-editorial-notice';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
@@ -981,6 +982,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </>
               )}
 
+              {isNews && <NewsEditorialNotice />}
               {/* Prose Content */}
               <ArticleContent content={article.content} tweetEmbeds={article.tweetEmbeds} className="mb-12" />
 

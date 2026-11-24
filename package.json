@@ -138,7 +138,7 @@
     "check:quality": "npx tsx scripts/audit-site-quality.ts",
     "audit:articles": "npx tsx scripts/audit-article-quality.ts --report",
     "audit:article-markdown": "npx tsx scripts/audit-article-markdown.ts",
-    "test:article-markdown": "npx tsx scripts/test-article-markdown.ts",
+    "test:article-markdown": "npx tsx scripts/test-article-markdown.ts && npx tsx scripts/test-article-legacy-slugs.ts",
     "repair:article-markdown": "npx tsx scripts/repair-article-markdown.ts",
     "check:articles": "npx tsx scripts/audit-article-quality.ts",
     "fix:articles:formatting": "npx tsx scripts/normalize-article-source-formatting.ts",
