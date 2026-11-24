@@ -1029,7 +1029,7 @@
     "sentAt": "2026-11-24T04:23:06.574Z"
   },
   "a3b26e4d-d74f-41ac-8925-9330b12f5435": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-24T18:46:50.395Z",
     "stories": [
       {
@@ -1063,6 +1063,8 @@
         "originalTitle": "Tidal announces ban on AI-generated music; 27 million tracks will be deleted"
       }
     ],
-    "slotKey": "2026-11-24:afternoon"
+    "slotKey": "2026-11-24:afternoon",
+    "messageId": 193576,
+    "sentAt": "2026-11-24T18:46:53.782Z"
   }
 }

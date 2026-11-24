@@ -80,6 +80,9 @@
   "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
   "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
   "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
+  "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
+  "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
+  "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -242,6 +245,12 @@
   "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
   "Anthropic releases Claude Ship to automate software deployment",
   "Anthropic’s Claude Ship automates the final stage of the software development pipeline",
+  "OpenAI and Cisco release open-source AI defense runtime",
+  "OpenAI and Cisco Releases Shirudo: An Open-Source Linux Runtime Allowing Agents to Defend Systems Without Downtime",
+  "OpenAI chief scientist warns upcoming models outpace safety checks",
+  "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
+  "Tidal bans AI music and deletes 27 million tracks",
+  "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -322,5 +331,8 @@
   "fp:750b|architectur|capability|flagship|glm54|improv|larg|layer|loop|parameter",
   "fp:175b|automat|client|corporat|customer|greenoak|growth|investment|lightsp|provider",
   "fp:action|alleg|attorney|block|child|explicit|fail|fil|general|generat",
-  "fp:anthropic|automat|automatically|cod|deployment|determin|environment|final|generat|liv"
+  "fp:anthropic|automat|automatically|cod|deployment|determin|environment|final|generat|liv",
+  "fp:activ|allow|autonomous|block|cisco|defend|defens|downtim|linux|open",
+  "fp:agre|boundary|capability|check|chief|compet|establish|internal|jakub|laboratory",
+  "fp:27m|account|announc|ban|catalog|currently|delet|generat|music|percent"
 ]
