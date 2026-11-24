@@ -6348,5 +6348,119 @@
     "slotKey": "2026-11-24:morning",
     "messageId": 16675,
     "sentAt": "2026-11-24T04:22:47.868Z"
+  },
+  "3a305c29-cd2d-4d51-b621-95378717ebf0": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T04:22:49.968Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8322588",
+          "title": "Account Executive, SMB, Italian speaking",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8322588",
+          "date": "2026-11-16T11:08:03-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Dublin",
+          "department": "1185 Account Executives (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls513"
+        },
+        "key": "8322588",
+        "slug": "sls513",
+        "url": "https://hashtagweb3.com/sls513?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "0000326",
+          "title": "売買審査担当",
+          "company": "bitbank",
+          "link": "https://hrmos.co/pages/bitbank/jobs/0000326",
+          "date": "2026-11-18T09:56:29.000Z",
+          "dateVerified": true,
+          "source": "FirstParty: bitbank [bitbank-hrmos]",
+          "location": "Not specified",
+          "active": true,
+          "slug": "job41"
+        },
+        "key": "0000326",
+        "slug": "job41",
+        "url": "https://hashtagweb3.com/job41?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "bitbank",
+        "title": "売買審査担当"
+      },
+      {
+        "snapshot": {
+          "id": "0ecdd477-a76a-49db-a5b8-3315f09344f6",
+          "title": "Assistant General Counsel",
+          "company": "Ava Labs",
+          "link": "https://jobs.ashbyhq.com/ava-labs/0ecdd477-a76a-49db-a5b8-3315f09344f6",
+          "date": "2026-11-20T17:52:09.648+00:00",
+          "source": "Ashby: Ava Labs [ava-labs]",
+          "location": "Hybrid (HQ)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Legal",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso65"
+        },
+        "key": "0ecdd477-a76a-49db-a5b8-3315f09344f6",
+        "slug": "aso65",
+        "url": "https://hashtagweb3.com/aso65?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ava Labs",
+        "title": "Assistant General Counsel"
+      },
+      {
+        "snapshot": {
+          "id": "5019037101",
+          "title": "Trading | DeFi Trading Analyst | Dubai",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5019037101",
+          "date": "2026-10-28T10:55:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "Dubai",
+          "department": "Liquidity Provision ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an127"
+        },
+        "key": "5019037101",
+        "slug": "an127",
+        "url": "https://hashtagweb3.com/an127?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Trading | DeFi Trading Analyst | Dubai"
+      },
+      {
+        "snapshot": {
+          "id": "868c960e-0763-4f68-85ff-fa0c4d853c25",
+          "title": "Technical Recruiter",
+          "company": "Tempo",
+          "link": "https://jobs.ashbyhq.com/tempo-xyz/868c960e-0763-4f68-85ff-fa0c4d853c25",
+          "date": "2026-11-23T17:03:25.979+00:00",
+          "source": "Ashby: Tempo [tempo-xyz]",
+          "location": "New York, San Francisco",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Talent",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec83"
+        },
+        "key": "868c960e-0763-4f68-85ff-fa0c4d853c25",
+        "slug": "rec83",
+        "url": "https://hashtagweb3.com/rec83?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tempo",
+        "title": "Technical Recruiter"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/sls513?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive, SMB, Italian speaking</a>\n- bitbank is hiring <a href=\"https://hashtagweb3.com/job41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">売買審査担当</a>\n- Ava Labs is hiring <a href=\"https://hashtagweb3.com/aso65?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Assistant General Counsel</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/an127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Trading | DeFi Trading Analyst | Dubai</a>\n- Tempo is hiring <a href=\"https://hashtagweb3.com/rec83?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter</a>",
+    "slotKey": "2026-11-24:morning"
   }
 }
