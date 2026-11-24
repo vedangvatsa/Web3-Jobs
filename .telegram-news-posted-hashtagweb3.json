@@ -77,6 +77,9 @@
   "https://hashtagweb3.com/kavalendhack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/warshforum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nearmemecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cftcreserves?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/soloblock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/nyseavalanche?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -233,6 +236,12 @@
   "Warsh to open San Francisco Fed forum on AI, jobs and inflation Monday",
   "North Korean hackers use temporary tokens to launder stolen funds",
   "North Korean launderers mint throwaway meme coins to move Binance hack funds",
+  "CFTC Allows Exchanges to Count Crypto Toward Reserves",
+  "CFTC staff let exchanges count Bitcoin toward operating reserves",
+  "Solo Miner Solves Bitcoin Block for $191,000 Reward",
+  "Solo miner wins $191,000 Bitcoin block with 11 TH/s",
+  "NYSE chooses Avalanche for tokenized stock exchange settlement",
+  "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -310,5 +319,8 @@
   "fp:ally|are|campaign|chief|chipmaker|comeback|coordinat|discuss|executiv|former",
   "fp:209m|552m|attacker|borrow|deposit|exchang|exploit|halt|kava|korean",
   "fp:discussion|event|examin|forum|francisco|impact|inflation|job|kevin|livestream",
-  "fp:000|430|asset|binanc|coin|creat|elliptic|hack|hacker|korean"
+  "fp:000|430|asset|binanc|coin|creat|elliptic|hack|hacker|korean",
+  "fp:allow|annual|cftc|cost|count|cover|ether|exchang|haircut|let",
+  "fp:000|191|at11|block|block977057|ckpool|individual|miner|november22|operat",
+  "fp:avalanch|blockchain|choos|equity|exchang|intercontinental|new24|nys|planned24|select"
 ]
