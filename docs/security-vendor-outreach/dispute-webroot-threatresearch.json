@@ -1,8 +1,10 @@
 {
-  "vendor": "Webroot Threat Research / OpenText",
+  "vendor": "Webroot",
+  "desk": "Webroot Threat Research / OpenText",
   "email": "wr-threatresearch@opentext.com",
-  "deliveryId": "01a1f4f3-768d-72d8-b048-398a77505e82",
-  "dispatchedAt": "2026-11-19T17:55:57Z",
+  "deliveryId": "01a20d2b-a31c-723b-a098-2eaeaa3d6326",
+  "dispatchedAt": "2026-11-24T10:48:13.509Z",
   "status": "delivered",
-  "type": "email"
+  "type": "email",
+  "founder": "Vedang Vatsa FRSA"
 }
