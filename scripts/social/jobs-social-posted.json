@@ -183113,6 +183113,34 @@
       "attemptId": "ff532885-ca15-4857-8ffb-2da76e41efce",
       "verification": "verified",
       "postId": "urn:li:share:7530998763138486274"
+    },
+    {
+      "slug": "eng733",
+      "company": "BVNK",
+      "title": "Solutions Engineer - APAC",
+      "platform": "facebook",
+      "postedAt": "2026-11-24T14:17:17.444Z",
+      "expectedText": "BVNK is hiring Solutions Engineer: https://hashtagweb3.com/eng733/fb?og=7",
+      "snapshot": {
+        "id": "5035000101",
+        "title": "Solutions Engineer - APAC",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5035000101",
+        "date": "2026-11-12T08:59:06-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "Singapore",
+        "department": "Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng733"
+      },
+      "payload": {
+        "message": "BVNK is hiring Solutions Engineer: https://hashtagweb3.com/eng733/fb?og=7",
+        "link": "https://hashtagweb3.com/eng733/fb?og=7"
+      },
+      "attemptId": "878feea1-7d24-40ad-b681-70799619ee35",
+      "verification": "creating"
     }
   ]
 }
