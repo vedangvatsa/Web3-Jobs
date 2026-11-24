@@ -180835,6 +180835,41 @@
       "attemptId": "647f60e5-29e5-42ee-aecb-cec41a0a8b2e",
       "verification": "verified",
       "postId": "0x7a73d688356a57fb637f0614fd4e2fac0a181d7e"
+    },
+    {
+      "slug": "cmp150",
+      "company": "Paxos",
+      "title": "Senior Compliance Associate, KYC",
+      "platform": "farcaster",
+      "postedAt": "2026-11-24T06:59:26.744Z",
+      "expectedText": "Paxos is hiring Senior Compliance Associate, KYC\n\nhttps://hashtagweb3.com/cmp150/fc?og=7",
+      "snapshot": {
+        "id": "12285dd7-2993-4da2-946f-ddd6f768e0bd",
+        "title": "Senior Compliance Associate, KYC",
+        "company": "Paxos",
+        "link": "https://jobs.ashbyhq.com/paxos/12285dd7-2993-4da2-946f-ddd6f768e0bd",
+        "date": "2026-11-03T14:24:41.129+00:00",
+        "source": "Ashby: Paxos [Paxos]",
+        "location": "Remote - United States",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Risk & Compliance",
+        "active": true,
+        "dateVerified": true,
+        "slug": "cmp150"
+      },
+      "payload": {
+        "text": "Paxos is hiring Senior Compliance Associate, KYC\n\nhttps://hashtagweb3.com/cmp150/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/cmp150/fc?og=7"
+          }
+        ],
+        "channel_id": "crypto"
+      },
+      "account": "channel:crypto",
+      "attemptId": "2d7a677a-b8b5-4b3c-96e3-b6d67ce719ce",
+      "verification": "creating"
     }
   ]
 }
