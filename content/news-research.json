@@ -214878,7 +214878,27 @@
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
       "attempts": 0,
       "expiresAt": "2026-11-26T13:37:02.000Z",
-      "lastSeenAt": "2026-11-24T01:57:39.856Z"
+      "lastSeenAt": "2026-11-24T01:57:39.856Z",
+      "articleSlug": "soloblock",
+      "draftProgress": {
+        "id": "811ab11385a01f752d6e",
+        "day": "2026-11-24",
+        "articleSlug": "soloblock",
+        "note": "Read Decrypt and Bitcoin Magazine; both give block 977057, 3.1287 BTC, CKpool, Nov 22. The Block URL not yet opened. Draft and image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-24T02:06:03.989Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "30c4e4ca43d6abbb77be": {
       "source": "Cointelegraph",
