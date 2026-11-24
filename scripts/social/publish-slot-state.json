@@ -1404,10 +1404,12 @@
           "cftcreserves",
           "soloblock"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-24T02:57:57.367Z",
         "buildId": "daily-20261124-45308670816-1",
-        "rolloutId": "daily-20261124-45308670816-1"
+        "rolloutId": "daily-20261124-45308670816-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-24T03:23:32.835Z"
       }
     ]
   }
