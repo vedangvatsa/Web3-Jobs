@@ -10642,5 +10642,19 @@
       "bitcoin-indonesia-community-meetup-magelang-25-oktober",
       "discovery-evt-uhnfhumggzhqe7f"
     ]
+  },
+  "token2049-evt-2gHTqhbNIut9G5D": {
+    "until": "2027-11-24T14:12:56.944Z",
+    "slugs": [
+      "founder-house",
+      "token2049-evt-2ghtqhbniut9g5d"
+    ]
+  },
+  "discovery-evt-vJUx9grI6doLBwb": {
+    "until": "2027-11-24T14:12:56.944Z",
+    "slugs": [
+      "bitcoin-indonesia-community-meetup-bandung-barat-25-oktober",
+      "discovery-evt-vjux9gri6dolbwb"
+    ]
   }
 }

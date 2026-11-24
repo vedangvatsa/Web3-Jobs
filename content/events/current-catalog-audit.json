@@ -47,34 +47,6 @@
       }
     },
     {
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "oldSlug": "founder-house",
-      "slug": "founder-house",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 672,
-      "characters": 672,
-      "factChanges": {
-        "location": "Singapore, Singapore",
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/openhouse-singapore",
-            "price": 0,
-            "availability": "SoldOut"
-          }
-        ],
-        "registrationAvailability": "waitlist"
-      },
-      "source": {
-        "url": "https://luma.com/openhouse-singapore",
-        "fetchedAt": "2026-10-12T11:25:12.924Z",
-        "status": 200,
-        "sha256": "69ce1472d9f8bfcf680caa61ee14cb9871d26f47a742b8070a6a6c8ee02d1bae"
-      }
-    },
-    {
       "id": "luma-batch-7iIJgmckKWYczPb",
       "oldSlug": "encode-london-2026",
       "slug": "encode-london-2026",

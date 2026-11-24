@@ -40,19 +40,6 @@
       ]
     },
     {
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "slug": "founder-house",
-      "name": "Founder House Singapore 🇸🇬",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/openhouse-singapore",
-        "fetchedAt": "2026-09-27T20:19:33.768Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "luma-batch-7iIJgmckKWYczPb",
       "slug": "encode-london-2026",
       "name": "Encode London Hackathon and Conference",

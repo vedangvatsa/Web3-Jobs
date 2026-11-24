@@ -48,15 +48,6 @@
       "descriptionSha256": "d5dde384b806b60c7bc2a837d89331f417615a6e4aaca0eacf898e41866999ba"
     },
     {
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "slug": "founder-house",
-      "aliases": [],
-      "startDate": "2026-10-23T01:30:00.000Z",
-      "endDate": "2026-10-25T11:30:00.000Z",
-      "timezone": "Asia/Singapore",
-      "descriptionSha256": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832"
-    },
-    {
       "id": "luma-batch-7iIJgmckKWYczPb",
       "slug": "encode-london-2026",
       "aliases": [],
@@ -1680,45 +1671,6 @@
     }
   ],
   "records": [
-    {
-      "id": "discovery-evt-TiZnPxscDelGhid",
-      "name": "ETH Shenzhen 2026",
-      "startDate": "2026-10-24T06:00:00.000Z",
-      "endDate": "2026-10-25T10:00:00.000Z",
-      "timezone": "Asia/Shanghai",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-TiZnPxscDelGhid",
-      "url": "https://luma.com/7ggxnhbh",
-      "lane": "global",
-      "reason": "No matching source ID, URL or event identity in the 200 active records, 2304 source records, held cases or tombstones. Public conference and hackathon; precise venue remains guests-only.",
-      "evidence": [
-        {
-          "url": "https://luma.com/7ggxnhbh",
-          "fetchedAt": "2026-10-20T08:10:36.925Z",
-          "excerpt": "Dates: October 24–25, 2026. Location: Shenzhen, China. October 24｜Hackathon Build Day & Demo Day. October 25｜Main Conference. Register to See Address. Event data: api_id evt-TiZnPxscDelGhid; start_at 2026-10-24T06:00:00.000Z; end_at 2026-10-25T10:00:00.000Z; timezone Asia/Shanghai; visibility public; geo_address_visibility guests-only.",
-          "sha256": "52b8c4fb6323e9f753b2fe5644b841a8519949d97ff969903333d214d950ffe2",
-          "representation": "HTTP response HTML, public text and embedded event data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:37.389Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/q3/9805dc43-3567-4c6b-a874-80b663d45891.png",
-        "fetchedAt": "2026-10-20T09:48:51.855Z",
-        "status": 200,
-        "local": "/events/discovery-evt-tiznpxscdelghid-57388458.webp",
-        "sourceSha256": "2fb6279e3d2343740a6541e7de8ac2a5bf1247e222c54b0140ff9513853876a2",
-        "sha256": "7322e9315179475ccc0821afa37ab8105db4d0976620f4ba83be947c767e97ee",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 164494
-      }
-    },
     {
       "id": "discovery-evt-XFoMM2nGSakEMj8",
       "name": "Mid-Chain Conference: Blockchain & Decentralized Economics",
@@ -5464,50 +5416,6 @@
       }
     },
     {
-      "id": "discovery-evt-vJUx9grI6doLBwb",
-      "name": "Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026",
-      "startDate": "2026-10-25T15:30:00+07:00",
-      "endDate": "2026-10-25T19:00:00+07:00",
-      "timezone": "Asia/Jakarta",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-vJUx9grI6doLBwb",
-      "url": "https://luma.com/fv97vshu",
-      "lane": "asia-africa",
-      "reason": "No inventory identity match. Primary event date, programme and public venue verified. Eventbrite corroborates the address and supplies a clean version of Luma's duplicated manual location string.",
-      "evidence": [
-        {
-          "url": "https://luma.com/fv97vshu",
-          "fetchedAt": "2026-10-20T08:06:40.221Z",
-          "excerpt": "Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026. start_at=2026-10-25T08:30:00.000Z; end_at=2026-10-25T12:00:00.000Z; timezone=Asia/Jakarta; visibility=public. Halal atau Haram? Jawaban untuk Pertanyaan Pertama Keluargamu. Ngobrol santai tentang Bitcoin dan perspektif Islam. Tiket GRATIS, tapi peserta beli makan/minum sendiri.",
-          "representation": "Primary-page HTML: embedded event fields and public description_mirror; selected excerpts"
-        },
-        {
-          "url": "https://www.eventbrite.com/e/bitcoin-indonesia-community-meetup-bandung-barat-25-oktober-2026-tickets-2000903926507",
-          "fetchedAt": "2026-10-20",
-          "excerpt": "Bitcoin Indonesia Community Meetup Bandung Barat 25 Oktober 2026. By Bitcoin Indonesia. Location: Depan Rumah Mg. Ayi Bensin; Desa Cikalong Kp. Sirnagalih 001/002, Kec. Cikalong Wetan, Kab. Bandung Barat; Jawa Barat 40556. Highlights: 3 hours 30 minutes; In person.",
-          "representation": "Organizer's public Eventbrite event page rendered text; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:56.001Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/po/68354034-d31f-4fce-99c3-691d87c78d11.jpg",
-        "fetchedAt": "2026-10-20T09:49:55.212Z",
-        "status": 200,
-        "local": "/events/discovery-evt-vjux9gri6dolbwb-b4c4bbb8.webp",
-        "sourceSha256": "d448537e0554611c8dbe548c98ca9daa34999bdc661266f89a448d6f8e825110",
-        "sha256": "81bfee85ecb6ba61167ba321e6c6ffa336ec261f8da9ed9a4f7d0ba7535aeb99",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 105662
-      }
-    },
-    {
       "id": "discovery-evt-lney7efAlAR4ckm",
       "name": "Bitcoin Indonesia Community Online Meetup",
       "startDate": "2026-10-30T19:30:00+07:00",
@@ -7611,12 +7519,6 @@
       "lane": "europe"
     },
     {
-      "url": "https://luma.com/openhouse-singapore",
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "reason": "Already live in the supplied runtime inventory with the same Luma event ID and 23-25 October dates. Preserve the hidden address and screening-based admission.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://luma.com/yjhzi8vg",
       "id": "luma-batch-evtrN879vRTa1NBn",
       "reason": "Same URL and event ID already live. Public approval-required drinks meetup; no venue inferred from coordinates.",
@@ -8348,12 +8250,6 @@
       "url": "https://www.eventbrite.com/e/ethvenice-2026-tickets-1990667672596",
       "result": "postponed",
       "note": "EventPostponed, December 5, 2026 in JSON-LD. Held rather than silently restoring October 21 record.",
-      "lane": "global"
-    },
-    {
-      "url": "https://luma.com/7ggxnhbh",
-      "result": "verified",
-      "note": "Public evt-TiZnPxscDelGhid, October 24-25, 2026. Exact venue guests-only; retained only Shenzhen.",
       "lane": "global"
     },
     {
@@ -9821,12 +9717,6 @@
       "lane": "asia-africa"
     },
     {
-      "url": "https://luma.com/openhouse-singapore",
-      "result": "duplicate-live",
-      "note": "Founder House already in runtime as token2049-evt-2gHTqhbNIut9G5D.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://luma.com/yjhzi8vg",
       "result": "duplicate-live",
       "note": "Hong Kong legal/compliance community drinks already live; address remains restricted.",
@@ -9854,12 +9744,6 @@
       "url": "https://luma.com/a7qk7kcl",
       "result": "held-stale-programme",
       "note": "October occurrence fields conflict with body advertising a 21 March speaker session. Eventbrite has only a generic recurring programme and a different duration.",
-      "lane": "asia-africa"
-    },
-    {
-      "url": "https://luma.com/fv97vshu",
-      "result": "verified-new",
-      "note": "25 October Bandung Barat discussion of Bitcoin and Islamic perspectives; cleaned duplicated manual address using organizer's public Eventbrite page.",
       "lane": "asia-africa"
     },
     {

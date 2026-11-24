@@ -573,58 +573,6 @@
       "proof": []
     },
     {
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "slug": "founder-house",
-      "olderSlug": "founder-house",
-      "decision": "apply-unsuperseded-description",
-      "reason": "Live copy had lost almost the entire program and retained a media release; restore primary-backed founder eligibility, format and conditional awards.",
-      "baselineHash": "9b0ad763211ca8056526f42d2f5d7b7aa78bebd1e2117cf67c8fa824c1011b85",
-      "currentHash": "9b0ad763211ca8056526f42d2f5d7b7aa78bebd1e2117cf67c8fa824c1011b85",
-      "olderHash": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832",
-      "proposedHash": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832",
-      "currentSource": {
-        "url": "https://luma.com/openhouse-singapore",
-        "fetchedAt": "2026-09-27T20:19:33.768Z",
-        "method": "matched-organizer-record",
-        "pageTitle": "Founder House Singapore 🇸🇬",
-        "sha256": "9b0ad763211ca8056526f42d2f5d7b7aa78bebd1e2117cf67c8fa824c1011b85",
-        "evidence": [
-          {
-            "url": "https://luma.com/openhouse-singapore",
-            "fetchedAt": "2026-09-27T20:19:33.768Z",
-            "sha256": "828a94d99be3bc911893264ea78455477331cdf44d6cfeb7dbaf50d4601e0570"
-          }
-        ]
-      },
-      "olderSource": {
-        "url": "https://luma.com/openhouse-singapore",
-        "fetchedAt": "2026-10-14T11:55:49.189Z",
-        "method": "reviewed-primary-sources",
-        "pageTitle": "Founder House Singapore 🇸🇬",
-        "sha256": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832",
-        "evidence": [
-          {
-            "url": "https://luma.com/openhouse-singapore",
-            "fetchedAt": "2026-10-14T11:55:49.189Z",
-            "sha256": "d693e855bd1e7a72d6d47c5d781e4906bf07ac7de81c578a620d22c4f4d7674b"
-          }
-        ]
-      },
-      "proof": [
-        {
-          "url": "https://luma.com/openhouse-singapore",
-          "resolvedUrl": "https://luma.com/openhouse-singapore",
-          "checkedAt": "2026-10-14T11:55:49.189Z",
-          "status": 200,
-          "sha256": "d693e855bd1e7a72d6d47c5d781e4906bf07ac7de81c578a620d22c4f4d7674b",
-          "title": "Founder House Singapore 🇸🇬 · Luma",
-          "descriptions": [
-            "## Arbitrum Founder House Singapore 🇸🇬\n\nIn collaboration with Robinhood Chain\n\n\n> Please note: Applications are open. If you see \"Join Waitlist,\" the event is not full. It simply means Founder House is a screening-based program. Click Join Waitlist to apply for one of the 120 Founder House spots, and selected applicants will be approved after their application is reviewed.\n\nOpen House brings together founders and teams building the next generation of onchain businesses. Following editions in New York City and London, which engaged 2,160 builders across online and in-person activations and received 177 and 273 project submissions respectively, Open House is coming to Singapore.\n\nThe program began with a global online Buildathon from September 14 to October 4, followed by Founder House Singapore, an application-only, three-day experience for founders with an existing product, prototype, or business. Founder House gives selected teams focused time to build, test their direction, and connect with the Arbitrum ecosystem. \n\nNote: This form is for Founder House applications only.\n\n📅 Online Buildathon: September 14–October 4, 2026\n📅 Founder House: October 23–25, 2026\n📍 Singapore\n\n\n## About Founder House\n\nFounder House Singapore is part of Arbitrum Open House, in collaboration with Robinhood Chain. It is designed for founders who are already building and are ready to make meaningful progress on their product.\n\nOver three days, selected teams will build alongside other founders, receive feedback from mentors and ecosystem participants, and work through product, technical, and go-to-market challenges.\n\nCome with an existing project. Use Founder House to build or launch a meaningful new feature, validate a key assumption, and leave with a clearer path forward.\n\n\n## Prizes and Grants\n\nFounder House participants will have access to $300K in prizes and grants across several opportunities:\n\n\n• General Builder Track: $120K in prizes for three standout teams building innovative products on Arbitrum and Robinhood Chain\n• Robinhood Chain Founder-in-Residence Award: A $60K award for an eligible team building on Robinhood Chain\n• Robinhood Chain Innovation Award: A $30K award for eligible innovation on Robinhood Chain\n• Promising Products Track: For emerging products exploring areas such as AI agents and new financial primitives\n• Ecosystem Grants: For teams with strong potential and ecosystem alignment\n\nMost prize tracks include milestone-based funding to support continued execution after Founder House. The Promising Products Track is evaluated separately. Eligibility varies by track; the full Founder House prize pool is not limited to Robinhood Chain projects.\n\n\n## Who Should Apply\n\nWe’re looking for solo founders and teams with an existing product, prototype, or business that can meaningfully use Arbitrum. Areas of interest include:\n\n\n• Stablecoins and payments\n• Tokenization and real-world assets\n• DeFi and financial infrastructure\n• AI and agentic finance\n• Privacy-preserving applications\n• Consumer crypto products\n• Developer tooling and infrastructure\n\nThese are examples, not a requirement to start a new project for Founder House. Teams building in other areas of the programmable economy are welcome to apply. Teams building on Robinhood Chain may also be eligible for its dedicated awards.\n\n\n## What to Expect\n\n\n• Focused time to build and make progress on your product\n• Product, technical, go-to-market, and fundraising guidance\n• Workshops on tools and infrastructure for building on Arbitrum\n• Feedback and connections across the Arbitrum ecosystem\n• Opportunities to meet fellow founders, investors, partners, and ecosystem leaders\n\n\n## Important Information\n\n\n• Founder House applications are reviewed on a rolling basis. Places are limited, and selection is based on product quality, execution potential, and ecosystem alignment.\n• Event logistics, meals, swag, and on-site support will be provided to accepted participants.\n\n\n## Media Release\n\nBy attending, you grant the event organizer and its affiliates the right and permission to use and publish, in any media or format, for any lawful business purpose, your image, likeness, name, voice, and other identifying characteristics captured at the event, without compensation or liability. Please refer to Arbitrum’s privacy policy (https://arbitrum.io/privacy) for more details."
-          ]
-        }
-      ]
-    },
-    {
       "id": "premier-nabsummit",
       "slug": "north-american-blockchain-summit",
       "olderSlug": "north-american-blockchain-summit",

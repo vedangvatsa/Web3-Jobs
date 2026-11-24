@@ -1920,23 +1920,6 @@
       "sha256": "aefd32758280e4549cf9836b76a7c40c4e3f1cb9587f0d12605933135e2f61d8"
     }
   },
-  "token2049-evt-2gHTqhbNIut9G5D": {
-    "description": "Arbitrum hosts Founder House Singapore from October 23 to 25, 2026, in collaboration with Robinhood Chain. This application-only, three-day program is for solo founders and teams with an existing product, prototype or business that can use Arbitrum. It follows a separate online Buildathon held from September 14 to October 4.\n\nSelected teams receive product, technical, go-to-market and fundraising guidance, workshops on Arbitrum tooling, and feedback from mentors and ecosystem participants. Come with an existing project to build a new feature or test a product assumption. Areas of interest include payments, stablecoins, tokenization, DeFi, AI agents, privacy applications and developer infrastructure.\n\nThe organizer advertises US$300,000 in prizes and grants across several opportunities, including a US$120,000 General Builder Track, a US$60,000 Robinhood Chain Founder-in-Residence Award and a US$30,000 Robinhood Chain Innovation Award. Eligibility varies by track and most awards use milestone-based funding; attendance does not guarantee funding.\n\nApplications are reviewed on a rolling basis for 120 places. The organizer says the Join Waitlist button is the application route for this screened program. Accepted participants receive logistics, meals and onsite support. The exact Singapore location is shared with approved guests.",
-    "descriptionSource": {
-      "url": "https://luma.com/openhouse-singapore",
-      "fetchedAt": "2026-10-14T11:55:49.189Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Founder House Singapore 🇸🇬",
-      "sha256": "08ae696aed3bb65ddc4692f5c1d888ba22843d647356aa39e8ed246bbde010e4",
-      "evidence": [
-        {
-          "url": "https://luma.com/openhouse-singapore",
-          "fetchedAt": "2026-10-14T11:55:49.189Z",
-          "sha256": "d693e855bd1e7a72d6d47c5d781e4906bf07ac7de81c578a620d22c4f4d7674b"
-        }
-      ]
-    }
-  },
   "premier-nabsummit": {
     "description": "The Digital Infrastructure Network hosts North American Blockchain Summit under the theme Blueprints. This edition expands beyond digital assets to cover data centers and compute, AI, energy and the grid, quantum technologies, and the investment and policy supporting those systems. The intended audience includes operators, technology leaders, investors, researchers, policymakers and advisers. Discussions examine how compute depends on power, cooling and networks, and how emerging infrastructure needs security, capital and regulatory frameworks. Bitcoin and digital assets remain part of that wider program. Consult the organizer's current agenda for individual sessions and confirmed speakers\n\nEvent details\n\nDate: Nov 18 - 19, 2026, 00:00 Venue: National Medal of Honor Museum Event page: https://www.northamericanblockchainsummit.com/",
     "descriptionSource": {

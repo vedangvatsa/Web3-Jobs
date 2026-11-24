@@ -2268,22 +2268,6 @@
       "applied": false
     },
     {
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "url": "https://luma.com/openhouse-singapore",
-      "fetchedAt": "2026-10-19T20:14:18.830Z",
-      "sourceEventId": "evt-2gHTqhbNIut9G5D",
-      "sourceName": "Founder House Singapore 🇸🇬",
-      "sourceStartDate": "2026-10-23T01:30:00.000Z",
-      "sourceEndDate": "2026-10-25T11:30:00.000Z",
-      "sourceTimezone": "Asia/Singapore",
-      "sha256": "d34c12ccf1f5ebf160aaf343d9b9f07139e806ec1c3703465b6ca0592e256d84",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Founder House Singapore 🇸🇬",
-      "applied": false
-    },
-    {
       "id": "w3v-xrp-ledger-hackathon",
       "url": "https://luma.com/xrpl-hackathon-nyc",
       "fetchedAt": "2026-10-19T20:14:22.183Z",

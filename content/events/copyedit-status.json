@@ -544,11 +544,6 @@
     "method": "human-editorial-polish-v2",
     "words": 132
   },
-  "discovery-evt-TiZnPxscDelGhid": {
-    "reviewedAt": "2026-11-24T08:41:26.215Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 53
-  },
   "discovery-evt-XFoMM2nGSakEMj8": {
     "reviewedAt": "2026-11-24T08:41:26.215Z",
     "method": "human-editorial-polish-conservative",
@@ -889,11 +884,6 @@
     "method": "human-editorial-polish-conservative",
     "words": 47
   },
-  "discovery-evt-vJUx9grI6doLBwb": {
-    "reviewedAt": "2026-11-24T08:41:26.215Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 40
-  },
   "discovery-evt-lney7efAlAR4ckm": {
     "reviewedAt": "2026-11-24T08:41:26.215Z",
     "method": "human-editorial-polish-conservative",
@@ -983,11 +973,6 @@
     "reviewedAt": "2026-11-24T08:41:26.215Z",
     "method": "human-editorial-polish-conservative",
     "words": 137
-  },
-  "token2049-evt-2gHTqhbNIut9G5D": {
-    "reviewedAt": "2026-11-24T08:41:26.215Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 187
   },
   "token2049-evt-6PaUG2QqaTu8EqJ": {
     "reviewedAt": "2026-11-24T08:41:26.215Z",
@@ -4468,11 +4453,6 @@
     "reviewedAt": "2026-11-24T08:41:26.215Z",
     "method": "human-editorial-polish-v2",
     "words": 18
-  },
-  "w3v-stablecoin-summit": {
-    "reviewedAt": "2026-11-24T08:41:26.215Z",
-    "method": "human-editorial-polish-v2",
-    "words": 15
   },
   "w3v-bitdevs-switzerland--socratic-seminar-4": {
     "reviewedAt": "2026-11-24T08:41:26.215Z",

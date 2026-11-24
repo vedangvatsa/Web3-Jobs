@@ -70,44 +70,6 @@
       "method": "luma-page"
     }
   },
-  "token2049-evt-2gHTqhbNIut9G5D": {
-    "name": "Founder House Singapore 🇸🇬",
-    "startDate": "2026-10-23T01:30:00.000Z",
-    "endDate": "2026-10-25T11:30:00.000Z",
-    "timezone": "Asia/Singapore",
-    "registrationUrl": "https://luma.com/openhouse-singapore",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "hosts": [
-      "Arbitrum",
-      "Aditi Chopra"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Arbitrum"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/openhouse-singapore",
-        "price": 0,
-        "availability": "SoldOut"
-      }
-    ],
-    "registrationAvailability": "waitlist",
-    "sourceVerification": {
-      "url": "https://luma.com/openhouse-singapore",
-      "eventId": "evt-2gHTqhbNIut9G5D",
-      "fetchedAt": "2026-10-12T11:25:12.924Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-7iIJgmckKWYczPb": {
     "name": "Encode London Hackathon",
     "startDate": "2026-10-23T10:00:00.000Z",

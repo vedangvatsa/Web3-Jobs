@@ -1219,69 +1219,6 @@
       }
     },
     {
-      "id": "token2049-evt-2gHTqhbNIut9G5D",
-      "slug": "founder-house",
-      "name": "Founder House Singapore 🇸🇬",
-      "startDate": "2026-10-23T01:30:00.000Z",
-      "endDate": "2026-10-25T11:30:00.000Z",
-      "timezone": "Asia/Singapore",
-      "beforeSha256": "6fd99bee3f9f8011cbbe98825064f9aaed24c198bdb1e0a5982d6eaf72b2e832",
-      "afterSha256": "08ae696aed3bb65ddc4692f5c1d888ba22843d647356aa39e8ed246bbde010e4",
-      "beforeDescription": "Arbitrum hosts Founder House Singapore from October 23 to 25, 2026 in collaboration with Robinhood Chain. This application-only, three-day program is for solo founders and teams with an existing product, prototype or business that can use Arbitrum. It follows a separate online Buildathon held from September 14 to October 4.\n\nSelected teams receive product, technical, go-to-market and fundraising guidance, workshops on Arbitrum tooling, and feedback from mentors and ecosystem participants. Come with an existing project to build a new feature or test a product assumption. Areas of interest include payments, stablecoins, tokenization, DeFi, AI agents, privacy applications and developer infrastructure.\n\nThe organizer advertises US$300,000 in prizes and grants across several opportunities, including a US$120,000 General Builder Track, a US$60,000 Robinhood Chain Founder-in-Residence Award and a US$30,000 Robinhood Chain Innovation Award. Eligibility varies by track and most awards use milestone-based funding; attendance does not guarantee funding.\n\nApplications are reviewed on a rolling basis for 120 places. The organizer says the Join Waitlist button is the application route for this screened program. Accepted participants receive logistics, meals and onsite support. The exact Singapore location is shared with approved guests.",
-      "changes": [
-        {
-          "before": "from October 23 to 25, 2026 in collaboration with Robinhood Chain.",
-          "after": "from October 23 to 25, 2026, in collaboration with Robinhood Chain.",
-          "reason": "Adds the closing comma after the year in a month-day-year date within a sentence."
-        }
-      ],
-      "facts": {
-        "id": "token2049-evt-2gHTqhbNIut9G5D",
-        "name": "Founder House Singapore 🇸🇬",
-        "startDate": "2026-10-23T01:30:00.000Z",
-        "location": "Singapore",
-        "url": "https://luma.com/openhouse-singapore",
-        "registrationUrl": "https://luma.com/openhouse-singapore",
-        "coverImage": "/events/token2049-evt-2ghtqhbniut9g5d-e18507d4.webp",
-        "endDate": "2026-10-25T11:30:00.000Z",
-        "timezone": "Asia/Singapore",
-        "attendanceMode": "offline",
-        "visibility": "public",
-        "locationHidden": true,
-        "city": "Singapore",
-        "country": "Singapore",
-        "hosts": [
-          "Arbitrum",
-          "Aditi Chopra"
-        ],
-        "organizer": {
-          "type": "Organization",
-          "name": "Arbitrum"
-        },
-        "price": "Free",
-        "approvalRequired": true,
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/openhouse-singapore",
-            "price": 0,
-            "availability": "SoldOut"
-          }
-        ],
-        "registrationAvailability": "waitlist",
-        "sourceVerification": {
-          "url": "https://luma.com/openhouse-singapore",
-          "eventId": "evt-2gHTqhbNIut9G5D",
-          "fetchedAt": "2026-10-12T11:25:12.924Z",
-          "method": "luma-page"
-        },
-        "slug": "founder-house",
-        "source": "token2049-verified",
-        "month": "October 2026",
-        "aliases": []
-      }
-    },
-    {
       "id": "token2049-evt-k5CCYE5vIpcBRt6",
       "slug": "get-down-for",
       "name": "Get Down For Real",
