@@ -181013,7 +181013,8 @@
       },
       "account": "channel:founders",
       "attemptId": "bd4d5dc9-5f4d-4b39-9ba7-ec3a8b1c91fb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4116043d04e3986c5506ea7f28f0731c3bdd8d3a"
     }
   ]
 }
