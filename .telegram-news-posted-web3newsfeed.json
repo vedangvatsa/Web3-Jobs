@@ -74,6 +74,9 @@
   "https://hashtagweb3.com/eventcontracts?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xmr1collapse?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nyseavalanche?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/backpackfcm?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -224,6 +227,12 @@
   "Wrapped Monero token XMR1 collapses 99.8% after $13.5 million sell-off",
   "NYSE selects Avalanche for 24/7 tokenized stock settlement",
   "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange",
+  "Backpack receives NFA approval for US leveraged perpetual futures",
+  "Backpack gets NFA approval, completing its US licensing stack for leveraged perps",
+  "US Treasury Sanctions 41 Entities Linked to Prince Group",
+  "OFAC sanctions 41 companies tied to Prince Group scam network",
+  "Senator Warren to oversee prediction markets as committee chair",
+  "Warren to target prediction market oversight as incoming Senate Banking chair",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -298,5 +307,8 @@
   "fp:chat|event|forum|francisco|impact|includ|inflation|job|kevin|livestream",
   "fp:bloomberg|by2027|clear|coinbas|contract|exchang|half|infrastructur|institutional|of2027",
   "fp:135m|asset|blam|breach|collapses998|deployer|fall|host|hyperliquid|link",
-  "fp:avalanch|blockchain|continuous|digital|equity|exchang|for24|intercontinental|nys|okx"
+  "fp:avalanch|blockchain|continuous|digital|equity|exchang|for24|intercontinental|nys|okx",
+  "fp:approval|backpack|complet|firm|futur|get|leverag|licens|nfa|obtain",
+  "fp:and41|connect|entity|four|group|individual|link|network|ofac|official",
+  "fp:bank|bett|chair|committe|election|elizabeth|incom|increas|intend|overse"
 ]
