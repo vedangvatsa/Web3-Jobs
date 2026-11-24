@@ -179597,6 +179597,47 @@
       "attemptId": "04a666ba-8848-4577-874c-9da0b44d829c",
       "verification": "verified",
       "postId": "0x310a4321392e96ca5757ebcffcce4b993edc5961"
+    },
+    {
+      "slug": "pm391",
+      "company": "Ripple",
+      "title": "Product Marketing Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-24T04:28:58.184Z",
+      "expectedText": "Ripple is hiring Product Marketing Manager: https://hashtagweb3.com/pm391/li?og=7",
+      "snapshot": {
+        "id": "8372970",
+        "title": "Product Marketing Manager",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8372970?gh_jid=8372970",
+        "date": "2026-11-11T20:37:34-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Chicago, IL",
+        "department": "Marketing",
+        "active": true,
+        "salary": "$148k – $180k/yr",
+        "dateVerified": true,
+        "slug": "pm391"
+      },
+      "payload": {
+        "text": "Ripple is hiring Product Marketing Manager: https://hashtagweb3.com/pm391/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm391/li?og=7",
+          "title": "Product Marketing Manager at Ripple | Hashtag Web3",
+          "description": "Join Ripple as Product Marketing Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm391.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "a2db9bad-1c98-4a83-87fd-e61350e9334c",
+      "verification": "creating"
     }
   ]
 }
