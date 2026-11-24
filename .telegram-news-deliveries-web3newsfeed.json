@@ -856,5 +856,36 @@
     "slotKey": "2026-11-23:evening",
     "messageId": 65851,
     "sentAt": "2026-11-24T02:02:03.147Z"
+  },
+  "279afe9e-ed7c-478f-b52f-df06eaf1c5f6": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T04:23:12.661Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Allows Exchanges to Count Crypto as Reserve Assets",
+        "summary": "Regulated trading venues may use bitcoin, ether, and stablecoins to cover annual operating costs, subject to haircuts.",
+        "link": "https://hashtagweb3.com/cftcreserves?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC staff let exchanges count Bitcoin toward operating reserves"
+      },
+      {
+        "index": -1,
+        "headline": "Solo Miner Earns $191,000 From Bitcoin Block",
+        "summary": "Using 11 terahashes per second, an individual solved block 977057 via Solo CKPool on November 22.",
+        "link": "https://hashtagweb3.com/soloblock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Solo miner wins $191,000 Bitcoin block with 11 TH/s"
+      },
+      {
+        "index": -1,
+        "headline": "Upbit and Bithumb Suspend CYBER Following Unexpected Token Minting",
+        "summary": "The Cyber project reported unauthorized Solana token minting and withdrawals from its Ethereum bridge lockbox on Nov. 22.",
+        "link": "https://hashtagweb3.com/cyberbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Upbit and Bithumb halt CYBER deposits after suspected bridge minting"
+      }
+    ],
+    "slotKey": "2026-11-24:morning"
   }
 }
