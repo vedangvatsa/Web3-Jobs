@@ -179199,7 +179199,8 @@
       },
       "account": "channel:dev",
       "attemptId": "3ab7f10a-1ad4-46bf-b4ae-807623be07be",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xca14fb4f7b795229c4e8d9b8e51c2b1e02fe2d92"
     }
   ]
 }
