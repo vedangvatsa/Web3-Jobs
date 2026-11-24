@@ -1,0 +1,27 @@
+{
+  "total": 1724,
+  "schemaEligible": 981,
+  "locationEligible": 981,
+  "locationCounts": {
+    "physical-country-missing": 489,
+    "eligible-remote": 230,
+    "remote-country-missing": 166,
+    "remote-area-unresolved": 31,
+    "eligible-physical": 751,
+    "missing-location": 2,
+    "remote-status-unverified": 55
+  },
+  "ageCounts": {
+    "eligible-age": 1724
+  },
+  "emissionCounts": {
+    "physical-country-missing": 489,
+    "eligible": 981,
+    "remote-country-missing": 166,
+    "remote-area-unresolved": 31,
+    "missing-location": 2,
+    "remote-status-unverified": 55,
+    "missing-application-url": 3
+  },
+  "checkedAt": "2026-11-24T20:48:10.690Z"
+}

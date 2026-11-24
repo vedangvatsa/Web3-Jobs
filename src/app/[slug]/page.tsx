@@ -11,7 +11,12 @@ import { CompanyDetailView } from '@/components/company-detail-view';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Metadata } from 'next';
-import type { Article as ArticleSchema, NewsArticle, ScholarlyArticle, BreadcrumbList, WithContext } from 'schema-dts';
+import type { Article as ArticleSchema, BreadcrumbList, WithContext } from 'schema-dts';
+import {
+  buildArticleBreadcrumbStructuredData,
+  buildArticleStructuredData,
+  getArticleSchemaIssues,
+} from '@/lib/article-structured-data';
 import { ArticleContent } from '@/components/article-content';
 import { ArticleImageCaption } from '@/components/article-image-caption';
 import { RelatedArticles } from '@/components/related-articles';
@@ -551,6 +556,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       : eventSlug === 'kbw' ? 'Asia/Seoul'
       : eventSlug === 'ibw' || eventSlug === 'devcon' ? 'Asia/Kolkata'
       : eventSlug === 'solana-breakpoint' ? 'Europe/London'
+      : eventSlug === 'adfw' ? 'Asia/Dubai'
       : 'UTC');
 
     const eventPageUrl = `${siteUrl}/${eventSlug}`;
@@ -860,79 +866,36 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const allArticles = articlesPromise ? await articlesPromise : await getAllArticles();
 
  const siteUrl = 'https://hashtagweb3.com';
- const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
 
-  const scholarlyCategories = ["AI & The Future of Work","Web3 Career Guides"];
-  const isScholarly = scholarlyCategories.includes(article.category);
   const isNews = article.category === 'News';
   const newsItems = isNews ? await getNewsListingItems() : undefined;
 
  const faqSchema = article.rawContent ? extractFAQSchema(article.rawContent) : null;
  const howToSchema = article.rawContent ? extractHowToSchema(article.rawContent, article.title, article.description) : null;
 
-  const articleUrl = `${siteUrl}/${article.slug}`;
-  const articleSchema: WithContext<ArticleSchema | NewsArticle | ScholarlyArticle> = {
-   '@context': 'https://schema.org',
-   '@type': isNews ? 'NewsArticle' : isScholarly ? 'ScholarlyArticle' : 'Article',
-   headline: article.title,
-   description: article.description,
-   image: imageUrl,
-   datePublished: article.publishedDate,
-   dateModified: article.lastUpdated || article.publishedDate,
-   url: articleUrl,
-   articleSection: article.category,
-   inLanguage: 'en',
-   isAccessibleForFree: true,
-   keywords: [article.category, article['data-ai-hint'], 'Web3', 'crypto', 'blockchain'].filter(Boolean).join(', '),
-   author: {
-    '@type': 'Organization',
-    name: 'Hashtag Web3',
-    url: siteUrl,
-  },
-  publisher: {
-    '@type': 'Organization',
-    name: 'Hashtag Web3',
-    url: siteUrl,
-    logo: {
-      '@type': 'ImageObject',
-      url: `${siteUrl}/logo.png`
-    }
-  },
-   mainEntityOfPage: {
-     '@type': 'WebPage',
-     '@id': articleUrl
-   }
- };
-
- const breadcrumbSchema: WithContext<BreadcrumbList> = {
-  '@context': 'https://schema.org',
-  '@type': 'BreadcrumbList',
-  itemListElement: [
-   {
-    '@type': 'ListItem',
-    position: 1,
-    name: 'Home',
-    item: siteUrl,
-   },
-   {
-    '@type': 'ListItem',
-    position: 2,
-     name: isNews ? 'News' : 'Blog',
-     item: `${siteUrl}/${isNews ? 'news' : 'blog'}`,
-   },
-   {
-    '@type': 'ListItem',
-    position: 3,
-    name: article.title,
-     item: articleUrl,
-   },
-  ],
- };
+  const articleStructured = {
+    slug: article.slug,
+    title: article.title,
+    description: article.description,
+    category: article.category,
+    image: article.image,
+    publishedDate: article.publishedDate,
+    lastUpdated: article.lastUpdated,
+    'data-ai-hint': article['data-ai-hint'],
+  };
+  const articleSchema = buildArticleStructuredData(articleStructured, siteUrl);
+  const articleSchemaIssues = getArticleSchemaIssues(articleStructured);
+  const breadcrumbSchema = buildArticleBreadcrumbStructuredData(articleStructured, siteUrl);
 
  return (
-    <div className="flex flex-col min-h-screen bg-background">
+    <div
+      className="flex flex-col min-h-screen bg-background"
+      data-article-page
+      data-article-schema={articleSchema ? 'eligible' : 'suppressed'}
+      data-article-schema-reasons={!articleSchema ? articleSchemaIssues.join(',') : undefined}
+    >
       <ArticleViewTracker slug={article.slug} title={article.title} category={article.category} />
-      <JsonLd data={articleSchema} />
+      {articleSchema && <JsonLd data={articleSchema} />}
       <JsonLd data={breadcrumbSchema} />
       {faqSchema && <JsonLd data={faqSchema} />}
       {howToSchema && <JsonLd data={howToSchema} />}
