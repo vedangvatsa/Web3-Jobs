@@ -21,7 +21,7 @@ function isGoldmanJobHtml(html: string, company?: string): boolean {
 export function normalizeGoldmanSachsJobHtml(html: string, company?: string): string {
   if (!html?.trim() || !isGoldmanJobHtml(html, company)) return html;
 
-  let $ = cheerio.load(html, { decodeEntities: false });
+  let $ = cheerio.load(html);
 
   $('[style]').removeAttr('style');
 

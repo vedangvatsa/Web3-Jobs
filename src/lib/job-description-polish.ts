@@ -24,7 +24,7 @@ function polishJobDescriptionHtmlOnce(html: string, company?: string): string {
   let cleaned = sanitizeJobDescriptionHtml(html, company);
   cleaned = stripThirdPartyCommunityPromo(cleaned);
 
-  const $ = cheerio.load(cleaned, { decodeEntities: false });
+  const $ = cheerio.load(cleaned);
   const selector = [...TEXT_TAGS].join(',');
   $(selector).each((_, el) => {
     const node = $(el);

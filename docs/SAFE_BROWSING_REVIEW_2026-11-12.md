@@ -2,6 +2,23 @@
 
 **Date:** 2026-11-12 (updated 2026-11-24)
 
+## Update 2026-11-24 (Search Console email)
+
+Google’s email may list **only** `http://hashtagweb3[.]com/` as a sample URL. That is still a **property-level** social-engineering flag (same as “Sample URLs: N/A”), not proof the homepage serves phishing. The site has **no third-party ad slots**; the classifier is reacting to **editorial** crypto scam/hack reporting and (historically) grant pages that accidentally mirrored Google Form boilerplate.
+
+**Do not request a security review until production shows the remediation** (see verify checklist below). As of the afternoon of 2026-11-24, **Cloudflare deploy workflows were failing** (`decodeEntities` Cheerio type error on `next build`), so live HTML still served legacy paths such as `/secscam` without the editorial notice.
+
+**Copy for Search Console → Security issues → Request review** (after verify checklist passes):
+
+> Hashtag Web3 is an editorial jobs and news site, not a scam operator. We removed misleading URL slugs, added a visible “Editorial news report” disclaimer on every News article, stripped Google Forms scrape text from grant pages, and block that junk at ingest. We run no deceptive ads or wallet-connect overlays. See internal runbook commit history on `docs/SAFE_BROWSING_REVIEW_2026-11-12.md` and article legacy 301s in `content/articles/legacy-slugs.json`.
+
+**Verify before review (production):**
+
+1. `https://hashtagweb3.com/secfirms` returns **200** and includes **“Editorial news report”** above the body.
+2. `https://hashtagweb3.com/secscam` **301** → `/secfirms`.
+3. Grant `https://hashtagweb3.com/fuel-grants` has **no** “Do not submit passwords” text in view-source.
+4. `https://hashtagweb3.com/` serves the job board (**200**), not a generic hosting 404.
+
 ## Update 2026-11-24
 
 - Google Safe Browsing still lists **hashtagweb3.com** as unsafe (Safari “Deceptive Website Warning”). Search Console: **Deceptive pages**, **Sample URLs: N/A** (domain-level, no path list).
