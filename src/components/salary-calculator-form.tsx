@@ -19,13 +19,13 @@ const salarySchema = z.object({
  role: z.string().min(1, 'Please select a role'),
  experience: z.number().min(0).max(20),
  location: z.enum(['north_america', 'europe', 'asia', 'other'], {
-  required_error: 'Please select your location',
+  message: 'Please select your location',
  }),
  companyType: z.enum(['pre_seed', 'seed', 'series_a', 'growth', 'public'], {
-   required_error:"Please select a company type"
+   message: 'Please select a company type',
  }),
  companySize: z.enum(['1_10', '11_50', '51_200', '201_plus'], {
-   required_error:"Please select a company size"
+   message: 'Please select a company size',
  }),
 });
 

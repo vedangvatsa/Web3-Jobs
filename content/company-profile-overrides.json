@@ -5203,5 +5203,119 @@
       }
     },
     "gaps": []
+  },
+  "paradigm": {
+    "name": "Paradigm",
+    "website": "https://paradigm.xyz/",
+    "description": "Paradigm is a research-driven technology investment firm that focuses on crypto and frontier technologies from the earliest stages of idea formation through global scale. Paradigm conducts deep research and engineers foundational open-source tools for the Web3 ecosystem.",
+    "published": true,
+    "verified": true,
+    "checkedAt": "2026-11-24T14:43:25.086Z",
+    "socialLinks": {
+      "twitter": "https://x.com/paradigm"
+    },
+    "logo": "/logo/companies/paradigm.png",
+    "provenance": {
+      "website": {
+        "url": "https://paradigm.xyz/",
+        "checkedAt": "2026-11-24T14:43:25.086Z",
+        "bodySha256": "3a539b61b0345afe643def3971cd763bdb07c5f61fc06ecd6b1b9f65d821e12a"
+      },
+      "about": [
+        {
+          "url": "https://paradigm.xyz/",
+          "checkedAt": "2026-11-24T14:43:25.086Z",
+          "bodySha256": "3a539b61b0345afe643def3971cd763bdb07c5f61fc06ecd6b1b9f65d821e12a",
+          "title": "Paradigm",
+          "excerpt": "Paradigm is a research-driven crypto and Web3 venture investment firm."
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/paradigm",
+          "checkedAt": "2026-11-24T14:43:26.004Z",
+          "bodySha256": "1db1c1747febb22e629b5b4668475b3bc0d174a73d24f04105a4b8ffc4a152f8",
+          "title": "Paradigm Jobs",
+          "excerpt": "Ashby-hosted careers board for Paradigm."
+        }
+      ],
+      "socials": [
+        {
+          "key": "twitter",
+          "url": "https://x.com/paradigm",
+          "sourceUrl": "https://paradigm.xyz/",
+          "checkedAt": "2026-11-24T14:43:25.086Z",
+          "bodySha256": "3a539b61b0345afe643def3971cd763bdb07c5f61fc06ecd6b1b9f65d821e12a"
+        }
+      ],
+      "branding": {
+        "url": "https://paradigm.xyz/",
+        "sourceUrl": "https://paradigm.xyz/",
+        "kind": "local-logo",
+        "finalUrl": "/logo/companies/paradigm.png",
+        "checkedAt": "2026-11-24T14:43:25.086Z",
+        "bodySha256": "61fc20af4175b43c0c32a8565bf753d300411c2cc4cec422b19fca8fdfc5ea25",
+        "localPath": "/logo/companies/paradigm.png",
+        "localSha256": "61fc20af4175b43c0c32a8565bf753d300411c2cc4cec422b19fca8fdfc5ea25"
+      }
+    },
+    "gaps": [
+      "Ashby API publishedAt for live roles is older than the 30-day posting-age policy; roles stay off jobs-runtime until a role has a fresh original date or primary-page verification passes."
+    ]
+  },
+  "nous-research": {
+    "name": "Nous Research",
+    "website": "https://nousresearch.com/",
+    "description": "Nous Research is a pioneer in open AI training and research. The team created Hermes Agent, a widely used open source agent harness, and works to create and proliferate open access to intelligence through open-weight models and research releases.",
+    "published": true,
+    "verified": true,
+    "checkedAt": "2026-11-24T14:43:25.546Z",
+    "socialLinks": {
+      "twitter": "https://x.com/NousResearch"
+    },
+    "logo": "/logo/companies/nous-research.png",
+    "provenance": {
+      "website": {
+        "url": "https://nousresearch.com/",
+        "checkedAt": "2026-11-24T14:43:25.546Z",
+        "bodySha256": "14c1ff63103808223e600908467f098ccad9f98a2fd4af3c59da8844925ceb3e"
+      },
+      "about": [
+        {
+          "url": "https://nousresearch.com/",
+          "checkedAt": "2026-11-24T14:43:25.546Z",
+          "bodySha256": "14c1ff63103808223e600908467f098ccad9f98a2fd4af3c59da8844925ceb3e",
+          "title": "Nous Research",
+          "excerpt": "Nous Research publishes open-weight models, training tooling, and research aimed at broad access to capable AI systems."
+        },
+        {
+          "url": "https://jobs.ashbyhq.com/nousresearch",
+          "checkedAt": "2026-11-24T14:43:26.414Z",
+          "bodySha256": "ab7cc79d84ff7962357f9dd2afe36cfe37dd5af5a88dca31e2b3698532c91013",
+          "title": "Nous Research Jobs",
+          "excerpt": "Ashby-hosted careers board for Nous Research."
+        }
+      ],
+      "socials": [
+        {
+          "key": "twitter",
+          "url": "https://x.com/NousResearch",
+          "sourceUrl": "https://nousresearch.com/",
+          "checkedAt": "2026-11-24T14:43:25.546Z",
+          "bodySha256": "14c1ff63103808223e600908467f098ccad9f98a2fd4af3c59da8844925ceb3e"
+        }
+      ],
+      "branding": {
+        "url": "https://nousresearch.com/",
+        "sourceUrl": "https://nousresearch.com/",
+        "kind": "local-logo",
+        "finalUrl": "/logo/companies/nous-research.png",
+        "checkedAt": "2026-11-24T14:43:25.546Z",
+        "bodySha256": "12b3d13516ba235262add53da498e217b65864c0f9cc86fca6e709b3b7f5b487",
+        "localPath": "/logo/companies/nous-research.png",
+        "localSha256": "12b3d13516ba235262add53da498e217b65864c0f9cc86fca6e709b3b7f5b487"
+      }
+    },
+    "gaps": [
+      "Ashby API publishedAt for live roles is older than the 30-day posting-age policy; roles stay off jobs-runtime until a role has a fresh original date or primary-page verification passes."
+    ]
   }
 }

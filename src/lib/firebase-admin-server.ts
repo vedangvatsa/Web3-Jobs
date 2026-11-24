@@ -1,4 +1,5 @@
-import admin from 'firebase-admin';
+import { cert, getApps, initializeApp, type ServiceAccount } from 'firebase-admin/app';
+import { getFirestore, type Firestore } from 'firebase-admin/firestore';
 
 function parseServiceAccountJson(): string | null {
   const rawJson = process.env.FIREBASE_SERVICE_ACCOUNT_JSON?.trim();
@@ -20,9 +21,9 @@ export function isFirebaseAdminConfigured(): boolean {
 }
 
 /** Firestore via service account (required for server reads; rules block public reads). */
-export function getAdminFirestore(): admin.firestore.Firestore | null {
-  if (admin.apps.length) {
-    return admin.firestore();
+export function getAdminFirestore(): Firestore | null {
+  if (getApps().length) {
+    return getFirestore();
   }
 
   const json = parseServiceAccountJson();
@@ -31,11 +32,11 @@ export function getAdminFirestore(): admin.firestore.Firestore | null {
   }
 
   try {
-    const serviceAccount = JSON.parse(json) as admin.ServiceAccount;
-    admin.initializeApp({
-      credential: admin.credential.cert(serviceAccount),
+    const serviceAccount = JSON.parse(json) as ServiceAccount;
+    initializeApp({
+      credential: cert(serviceAccount),
     });
-    return admin.firestore();
+    return getFirestore();
   } catch (error) {
     console.error('[firebase-admin] Failed to initialize:', error);
     return null;

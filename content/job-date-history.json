@@ -51911,5 +51911,10 @@
     "date": "2026-11-23T21:40:53+00:00",
     "dateVerified": true,
     "dateSource": "Oracle Recruiting"
+  },
+  "https://wellfound.com/jobs/5101765-head-of-growth-marketing": {
+    "date": "2026-11-18T13:43:10Z",
+    "dateVerified": true,
+    "dateSource": "Wellfound.JobPosting.datePosted"
   }
 }

@@ -99,6 +99,8 @@ jobs:
         run: node --test scripts/test-apphosting-secret-sync.mjs
       - name: Grant App Hosting secret access + sync values
         if: ${{ steps.plan.outputs.run == 'true' && inputs.grant_only != true && inputs.sync_secrets == true }}
+        continue-on-error: true
+        id: secret_sync
         env:
           FIREBASE_APPHOSTING_PROJECT_ID: hashtagweb3-97583
           FIREBASE_APPHOSTING_BACKEND: web
@@ -119,6 +121,10 @@ jobs:
             --project hashtagweb3-97583 \
             --backend web \
             --non-interactive || true
+      - name: Note secret sync IAM gap
+        if: ${{ steps.secret_sync.outcome == 'failure' }}
+        run: |
+          echo "::warning::Secret sync failed (often roles/secretmanager.admin on github-deployer). Manual deploy can still proceed if web already has secret grants."
       - name: Deploy the validated daily jobs and news revision
         id: daily
         if: ${{ steps.plan.outputs.mode == 'daily' && steps.plan.outputs.run == 'true' }}

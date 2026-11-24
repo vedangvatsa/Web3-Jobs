@@ -1,5 +1,31 @@
 [
   {
+    "id": "wellfound-5101765",
+    "title": "Head of Growth Marketing",
+    "company": "Moon",
+    "link": "https://wellfound.com/jobs/5101765-head-of-growth-marketing",
+    "applyUrl": "https://wellfound.com/jobs/5101765-head-of-growth-marketing",
+    "date": "2026-11-18T13:43:10Z",
+    "dateVerified": true,
+    "dateSource": "Wellfound.JobPosting.datePosted",
+    "source": "Wellfound: Moon [paywithmoon]",
+    "location": "Buenos Aires, Argentina (Remote)",
+    "isRemote": true,
+    "workplaceType": "Remote",
+    "department": "Marketing",
+    "type": "Full-time",
+    "skills": [
+      "Growth Marketing",
+      "Bitcoin",
+      "Stablecoins",
+      "Payments",
+      "Fintech",
+      "Social Media"
+    ],
+    "active": true,
+    "slug": "mkt182"
+  },
+  {
     "id": "7950769",
     "title": "Senior Full Stack Engineer, Credit Cards & Banking",
     "company": "Robinhood",

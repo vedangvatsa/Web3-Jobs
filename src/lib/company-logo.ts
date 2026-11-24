@@ -93,6 +93,7 @@ const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
   'ramp-network': 'rampnetwork.com',
   'rain': 'rain.xyz',
   'brale': 'brale.xyz',
+  'moon': 'paywithmoon.com',
   'molecule': 'molecule.xyz',
   'stronghold': 'stronghold.co',
   'douro-labs': 'dourolabs.xyz',

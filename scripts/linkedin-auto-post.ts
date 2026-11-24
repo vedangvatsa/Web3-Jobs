@@ -3,7 +3,8 @@
  * Run with: pnpm linkedin:post-jobs
  */
 
-import admin from 'firebase-admin';
+import { cert, getApps, initializeApp } from 'firebase-admin/app';
+import { getFirestore } from 'firebase-admin/firestore';
 import { randomUUID } from 'node:crypto';
 import { postToLinkedIn, formatJobForLinkedIn } from '../src/lib/linkedin';
 import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
@@ -69,11 +70,13 @@ function isJobAlreadyPosted(job: any, recentPosts: any[]): { posted: boolean; po
 
 async function autoPostJobs() {
   try {
-    if (!admin.apps.length) admin.initializeApp({
-      credential: admin.credential.cert(require('../firebase-adminsdk.json')),
-      databaseURL: 'https://hashtag-web3-production.firebaseapp.com',
-    });
-    const db = admin.firestore();
+    if (!getApps().length) {
+      initializeApp({
+        credential: cert(require('../firebase-adminsdk.json')),
+        databaseURL: 'https://hashtag-web3-production.firebaseapp.com',
+      });
+    }
+    const db = getFirestore();
     console.log('🔍 Searching for unposted jobs...');
 
     // Find jobs not yet posted to LinkedIn

@@ -68,6 +68,8 @@ Built-in protections:
 
    Configure matching values in **Firebase App Hosting** (backend `web`) for runtime secrets the app needs in production.
 
+   For CI secret sync (`scripts/sync-firebase-apphosting-secrets.sh` with `sync_secrets: true`), the deploy service account **`github-deployer@hashtagweb3-97583.iam.gserviceaccount.com`** also needs **`roles/secretmanager.admin`** (or equivalent create/update/access on App Hosting secret names) on project **`hashtagweb3-97583`**. Without it, sync fails with `Permission denied to get service [secretmanager.googleapis.com]`; production may still run if **`web`** was already granted access when the backend was created.
+
 4. **Firestore Security Rules**
    Ensure subscribers collection has proper read/write rules:
    ```javascript

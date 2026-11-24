@@ -283,6 +283,7 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'navi': 'https://naviprotocol.io',
  'xhunt': 'https://xhunt.ai',
  'wincent': 'https://wincent.io',
+ 'moon': 'https://paywithmoon.com/',
  'moonpay': 'https://moonpay.com',
  'mercuryo': 'https://mercuryo.io',
  'open-standard': 'https://joinopenstandard.com',

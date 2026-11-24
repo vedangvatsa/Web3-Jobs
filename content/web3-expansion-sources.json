@@ -1137,5 +1137,89 @@
     "apiUrl": "https://jobs.deel.com/dfns",
     "officialCareersUrl": "https://dfns.co",
     "status": "recurring"
+  },
+  {
+    "company": "Paradigm",
+    "website": "https://paradigm.xyz/",
+    "country": null,
+    "geography": null,
+    "provider": "ashby",
+    "board": "paradigm",
+    "boardUrl": "https://jobs.ashbyhq.com/paradigm",
+    "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/paradigm?includeCompensation=true",
+    "officialCareersUrl": "https://jobs.ashbyhq.com/paradigm",
+    "status": "ingested-via-refresh-jobs-cache",
+    "ownership": {
+      "url": "https://paradigm.xyz/",
+      "finalUrl": "https://www.paradigm.xyz/",
+      "status": 200,
+      "checkedAt": "2026-11-24T14:43:25.086Z",
+      "bodySha256": "3a539b61b0345afe643def3971cd763bdb07c5f61fc06ecd6b1b9f65d821e12a",
+      "linkedUrl": "https://jobs.ashbyhq.com/paradigm",
+      "kind": "reviewed-ashby-organization",
+      "basis": "Pinned Ashby organization identity in content/ashby-employer-identities.json; daily refresh via scripts/refresh-jobs-cache.ts.",
+      "boardEvidence": {
+        "url": "https://jobs.ashbyhq.com/paradigm",
+        "finalUrl": "https://jobs.ashbyhq.com/paradigm",
+        "status": 200,
+        "checkedAt": "2026-11-24T14:43:26.004Z",
+        "bodySha256": "1db1c1747febb22e629b5b4668475b3bc0d174a73d24f04105a4b8ffc4a152f8",
+        "organizationId": "b7e3d4a3-663c-4034-a890-63efe259dbdd",
+        "name": "Paradigm",
+        "publicWebsite": "https://paradigm.xyz",
+        "hostedJobsPageSlug": "paradigm"
+      }
+    },
+    "web3": {
+      "url": "https://paradigm.xyz/",
+      "finalUrl": "https://www.paradigm.xyz/",
+      "status": 200,
+      "checkedAt": "2026-11-24T14:43:25.086Z",
+      "bodySha256": "3a539b61b0345afe643def3971cd763bdb07c5f61fc06ecd6b1b9f65d821e12a",
+      "quote": "Paradigm is a research-driven technology investment firm that focuses on crypto and frontier technologies."
+    },
+    "note": "Ashby publishedAt may exceed the 30-day listing policy; verified company profile published with honest zero-job gaps until roles carry fresh original dates."
+  },
+  {
+    "company": "Nous Research",
+    "website": "https://nousresearch.com/",
+    "country": null,
+    "geography": null,
+    "provider": "ashby",
+    "board": "nousresearch",
+    "boardUrl": "https://jobs.ashbyhq.com/nousresearch",
+    "apiUrl": "https://api.ashbyhq.com/posting-api/job-board/nousresearch?includeCompensation=true",
+    "officialCareersUrl": "https://jobs.ashbyhq.com/nousresearch",
+    "status": "ingested-via-refresh-jobs-cache",
+    "ownership": {
+      "url": "https://nousresearch.com/",
+      "finalUrl": "https://nousresearch.com/",
+      "status": 200,
+      "checkedAt": "2026-11-24T14:43:25.546Z",
+      "bodySha256": "14c1ff63103808223e600908467f098ccad9f98a2fd4af3c59da8844925ceb3e",
+      "linkedUrl": "https://jobs.ashbyhq.com/nousresearch",
+      "kind": "reviewed-ashby-organization",
+      "basis": "Pinned Ashby organization identity in content/ashby-employer-identities.json; daily refresh via scripts/refresh-jobs-cache.ts.",
+      "boardEvidence": {
+        "url": "https://jobs.ashbyhq.com/nousresearch",
+        "finalUrl": "https://jobs.ashbyhq.com/nousresearch",
+        "status": 200,
+        "checkedAt": "2026-11-24T14:43:26.414Z",
+        "bodySha256": "ab7cc79d84ff7962357f9dd2afe36cfe37dd5af5a88dca31e2b3698532c91013",
+        "organizationId": "b8c5086f-facc-4569-8fe9-c54ef68480f2",
+        "name": "Nous Research",
+        "publicWebsite": "https://nousresearch.com/",
+        "hostedJobsPageSlug": "nousresearch"
+      }
+    },
+    "web3": {
+      "url": "https://nousresearch.com/",
+      "finalUrl": "https://nousresearch.com/",
+      "status": 200,
+      "checkedAt": "2026-11-24T14:43:25.546Z",
+      "bodySha256": "14c1ff63103808223e600908467f098ccad9f98a2fd4af3c59da8844925ceb3e",
+      "quote": "Nous Research publishes open-weight models, training tooling, and research aimed at broad access to capable AI systems."
+    },
+    "note": "Ashby publishedAt may exceed the 30-day listing policy; verified company profile published with honest zero-job gaps until roles carry fresh original dates."
   }
 ]
