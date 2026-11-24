@@ -181521,6 +181521,38 @@
       "attemptId": "8003b928-d303-4320-8af9-3a5739ba0c18",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 24-Nov-26 06:13:56 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AdYD9L230oDq4qJJqPVY_9z\"}"
+    },
+    {
+      "slug": "dev43",
+      "company": "DRW",
+      "title": "Software Developer",
+      "platform": "bluesky",
+      "postedAt": "2026-11-24T14:13:42.244Z",
+      "expectedText": "DRW is hiring Software Developer: https://hashtagweb3.com/dev43/bsky?og=7",
+      "snapshot": {
+        "id": "8357329",
+        "title": "Software Developer",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8357329",
+        "date": "2026-11-05T18:34:16-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Montreal",
+        "department": "EDT Technology - Trade Execution",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dev43"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Developer: https://hashtagweb3.com/dev43/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dev43/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dev43.png?v=7",
+        "company": "DRW",
+        "title": "Software Developer",
+        "description": "Join DRW as Software Developer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "183099d9-1839-45a2-8086-14c1bb008473",
+      "verification": "creating"
     }
   ]
 }
