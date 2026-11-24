@@ -181971,7 +181971,8 @@
       },
       "account": "channel:solana",
       "attemptId": "1c87a810-1f00-49be-9238-aeac4cfb2330",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x762ce731247244a23770dbae3ac5612091a164d2"
     }
   ]
 }
