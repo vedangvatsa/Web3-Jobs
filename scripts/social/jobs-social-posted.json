@@ -180020,7 +180020,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "91a750a6-84d6-4b03-98b9-cd1253a952d8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x84e18a7273ed8cf8905266a50f5b783ccfa691ca"
     }
   ]
 }
