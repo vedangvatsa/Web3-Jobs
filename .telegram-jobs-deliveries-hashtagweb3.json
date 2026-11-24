@@ -3095,5 +3095,127 @@
     "slotKey": "2026-11-23:evening",
     "messageId": 156478,
     "sentAt": "2026-11-23T22:52:51.398Z"
+  },
+  "eb79f75a-4024-4359-ba03-5d8eeac8a481": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T04:22:57.629Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6236778004",
+          "title": "Senior Manager, Commissioning",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6236778004",
+          "date": "2026-10-27T16:57:00-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "Afton, TX",
+          "department": "Data Centers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr210"
+        },
+        "key": "6236778004",
+        "slug": "mgr210",
+        "url": "https://hashtagweb3.com/mgr210?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5024587101",
+          "title": "Sr. Regulatory Compliance Officer",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5024587101",
+          "date": "2026-11-01T23:16:27-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp81"
+        },
+        "key": "5024587101",
+        "slug": "cmp81",
+        "url": "https://hashtagweb3.com/cmp81?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Sr. Regulatory Compliance Officer"
+      },
+      {
+        "snapshot": {
+          "id": "5027189101",
+          "title": "Lead Technical Product Manager, Protocol (Vision Chain)",
+          "company": "Bitpanda",
+          "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/5027189101",
+          "date": "2026-11-04T06:37:44-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bitpanda [bitpanda]",
+          "location": "Berlin, Germany",
+          "department": "Product & Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm223"
+        },
+        "key": "5027189101",
+        "slug": "pm223",
+        "url": "https://hashtagweb3.com/pm223?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitpanda",
+        "title": "Lead Technical Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "cee1769dc482",
+          "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+          "date": "2026-10-28",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "San Jose, CA",
+          "isRemote": false,
+          "department": "AI Cloud",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+            "checkedAt": "2026-10-30T03:42:02.721Z",
+            "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
+            "provider": "breezy",
+            "datePosted": "2026-10-28"
+          },
+          "slug": "sls189"
+        },
+        "key": "cee1769dc482",
+        "slug": "sls189",
+        "url": "https://hashtagweb3.com/sls189?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Regional Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8326189",
+          "title": "Sales Manager, Billing",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8326189",
+          "date": "2026-10-29T15:28:26-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US",
+          "department": "1641 Product Sales - RFA ex Billing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls222"
+        },
+        "key": "8326189",
+        "slug": "sls222",
+        "url": "https://hashtagweb3.com/sls222?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Sales Manager"
+      }
+    ],
+    "message": "- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/mgr210?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Commissioning</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/cmp81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Regulatory Compliance Officer</a>\n- Bitpanda is hiring <a href=\"https://hashtagweb3.com/pm223?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Lead Technical Product Manager, Protocol (Vision Chain)</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/sls189?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Regional Account Executive, GPUaaS (GPU as a Service) Sales</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls222?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Manager, Billing</a>",
+    "slotKey": "2026-11-24:morning"
   }
 }
