@@ -178818,6 +178818,47 @@
       "attemptId": "a2392be1-5c59-4e94-942b-044037ca62dd",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "ops171",
+      "company": "Galaxy Digital",
+      "title": "Procurement Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-24T04:24:16.063Z",
+      "expectedText": "Galaxy Digital is hiring Procurement Manager: https://hashtagweb3.com/ops171/li?og=7",
+      "snapshot": {
+        "id": "6254630004",
+        "title": "Procurement Manager",
+        "company": "Galaxy Digital",
+        "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6254630004",
+        "date": "2026-11-10T16:22:45-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+        "location": "Dallas, TX",
+        "department": "Data Centers",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops171"
+      },
+      "payload": {
+        "text": "Galaxy Digital is hiring Procurement Manager: https://hashtagweb3.com/ops171/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ops171/li?og=7",
+          "title": "Procurement Manager at Galaxy Digital | Hashtag Web3",
+          "description": "Join Galaxy Digital as Procurement Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ops171.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "d8c55f73-94d8-4677-81ab-b899e14cfc7d",
+      "verification": "creating"
     }
   ]
 }
