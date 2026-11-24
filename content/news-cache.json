@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-23T22:51:23.845Z",
+  "generatedAt": "2026-11-24T01:57:22.249Z",
   "items": [
+    {
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 00:36:26 +0000",
+      "creator": "Felix Ng",
+      "contentSnippet": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+      "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+      "pubDate": "Tue, 24 Nov 2026 00:33:22 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+      "source": "The Block"
+    },
+    {
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "pubDate": "Tue, 24 Nov 2026 00:25:04 +0000",
+      "creator": "Jesse Hamilton",
+      "contentSnippet": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory re...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ethereum Prepares for Post-Quantum, Post-AI Transition",
+      "link": "https://blockchain.news/news/ethereum-post-quantum-post-ai-transition",
+      "pubDate": "Tue, 24 Nov 2026 00:09:15 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Ethereum Foundation outlines plans for a post-quantum, post-AI upgrade, prioritizing cryptographic security and formal verification. (Read More)",
+      "source": "Blockchain.News"
+    },
     {
       "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
       "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
@@ -458,14 +490,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
-      "pubDate": "Sun, 22 Nov 2026 20:58:33 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
-      "source": "The Block"
-    },
-    {
       "title": "More on the pending oversight hearings: State of Crypto ",
       "link": "https://www.coindesk.com/policy/2026/11/22/more-on-the-pending-oversight-hearings-state-of-crypto",
       "pubDate": "Sun, 22 Nov 2026 19:30:00 +0000",
@@ -480,14 +504,6 @@
       "creator": "Michael Egorov",
       "contentSnippet": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
-      "link": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
-      "pubDate": "Sun, 22 Nov 2026 14:00:00 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "Quantum computers can’t break Bitcoin network’s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
-      "source": "Coindesk"
     },
     {
       "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
@@ -528,14 +544,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Tech stocks are buckling after Anthropic’s historic IPO and Nvidia’s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on w...",
       "source": "Decrypt"
-    },
-    {
-      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
-      "link": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sat, 21 Nov 2026 05:40:35 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "Hong Kong’s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative C...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
@@ -591,14 +599,6 @@
       "pubDate": "Fri, 20 Nov 2026 10:07:46 +0000",
       "creator": "Agent",
       "contentSnippet": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
-      "link": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
-      "pubDate": "Thu, 19 Nov 2026 20:46:02 +0000",
-      "creator": "André Beganski",
-      "contentSnippet": "A new post-quantum signature proposal aims to secure Bitcoin’s future, but balancing user safety and efficiency comes with hurdles.",
       "source": "Decrypt"
     },
     {
