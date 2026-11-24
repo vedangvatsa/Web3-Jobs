@@ -214957,9 +214957,9 @@
         "Bitcoin Magazine"
       ],
       "id": "811ab11385a01f752d6e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-26T13:37:02.000Z",
       "lastSeenAt": "2026-11-24T01:57:39.856Z",
       "articleSlug": "soloblock",
@@ -214981,7 +214981,21 @@
         "updatedAt": "2026-11-24T02:06:03.989Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Decrypt and Bitcoin Magazine in full; block 977057, 3.1287 BTC, CKpool and the 11.1 TH/s setup match across both, with Kolivas's odds and pool fee detail from Bitcoin Magazine. The Block URL was not needed for the second source.",
+      "sourceChecks": [
+        {
+          "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:10:58.013Z",
+      "lastReviewedDay": "2026-11-24"
     },
     "30c4e4ca43d6abbb77be": {
       "source": "Cointelegraph",
@@ -423040,6 +423054,23 @@
           "retrySearches": [
             "Find a second independent source on the Tokyo Regional Taxation Bureau audit of 91 crypto holders and the 3.9 billion yen in unreported income"
           ]
+        },
+        "811ab11385a01f752d6e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Decrypt and Bitcoin Magazine in full; block 977057, 3.1287 BTC, CKpool and the 11.1 TH/s setup match across both, with Kolivas's odds and pool fee detail from Bitcoin Magazine. The Block URL was not needed for the second source.",
+          "sourceChecks": [
+            {
+              "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:10:58.013Z",
+          "articleSlug": "soloblock"
         }
       },
       "baselineSlugs": [
