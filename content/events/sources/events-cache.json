@@ -6957,20 +6957,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-9u9NoaMPiLzKUeK",
-    "name": "Russell Berman on Thinking In Silicon Valley: From Bildung to Building",
-    "description": "",
-    "startDate": "2026-10-25T01:00:00.000Z",
-    "endDate": "2026-10-25T06:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/z18gahk6",
-    "coverImage": "/events/luma-evt-9u9noampilzkuek-db2c8969.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-317090132",
     "name": "Post Quantum Cryptography on IBM LinuxONE",
     "description": "The quantum computing threat to current cryptographic systems is no longer theoretical—it's an imminent reality requiring immediate action. This session explores how IBM LinuxONE provides a unique pla",
@@ -13090,9 +13076,9 @@
     "description": "",
     "startDate": "2026-12-10T15:00:00.000Z",
     "endDate": "2026-12-10T18:00:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "TBA",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "location": "Dubai, United Arab Emirates",
     "url": "https://luma.com/SolanaDemoDineSuperweek",
     "coverImage": "/events/luma-host-evt-evt-wgbuddnjwj1bdrw-20e5aa8b.webp",
     "source": "luma-trusted",
@@ -19486,7 +19472,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/seattle-options-trading-group/events/317454504/",
-    "coverImage": "/events/mu-317454504-69972b3b.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -19500,7 +19486,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317272362/",
-    "coverImage": "/events/mu-317272362-5a87bc05.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -20616,7 +20602,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317272174/",
-    "coverImage": "/events/mu-317272174-638b4a68.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
@@ -21836,7 +21822,7 @@
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-oregon/events/317272300/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272300-e3bc14c2.webp",
     "source": "meetup",
     "month": "December 2026"
   },
@@ -24466,6 +24452,34 @@
     "url": "https://www.meetup.com/lfdt-denver/events/317272126/",
     "coverImage": null,
     "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-NVhVlfDT79PakEv",
+    "name": "NewCrits – Artnet Airwaves Podcast Festival",
+    "description": "",
+    "startDate": "2026-12-03T17:00:00.000Z",
+    "endDate": "2026-12-03T18:00:00.000Z",
+    "city": "Miami Beach",
+    "country": "United States",
+    "location": "Miami Beach, United States",
+    "url": "https://lu.ma/uxt9e1a4",
+    "coverImage": "/events/luma-evt-nvhvlfdt79pakev-25625cfb.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-mx8T6WYM0ZYctRC",
+    "name": "Nota Bene – Artnet Airwaves Podcast Festival",
+    "description": "",
+    "startDate": "2026-12-03T19:00:00.000Z",
+    "endDate": "2026-12-03T20:00:00.000Z",
+    "city": "Miami Beach",
+    "country": "United States",
+    "location": "Miami Beach, United States",
+    "url": "https://lu.ma/oznu1nqq",
+    "coverImage": "/events/luma-evt-mx8t6wym0zyctrc-50ac28ae.webp",
+    "source": "luma",
     "month": "December 2026"
   }
 ]

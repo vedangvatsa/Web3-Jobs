@@ -29241,18 +29241,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-9531c1b6223d467e"></a>
-
-## Russell Berman on Thinking In Silicon Valley: From Bildung to Building
-
-- Record: `luma-evt-9u9NoaMPiLzKUeK`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T01:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/z18gahk6>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-e87d5aba74ed21e4"></a>
 
 ## HackMeridian 2026
@@ -44365,6 +44353,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-5f69c416ca7cb6d1"></a>
+
+## NewCrits – Artnet Airwaves Podcast Festival
+
+- Record: `luma-evt-NVhVlfDT79PakEv`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/uxt9e1a4>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6a510fa7540e552c"></a>
 
 ## Zcash invita: What's Next for 2027?
@@ -44386,6 +44386,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-03T19:00:00-08:00
 - Description: Missing
 - Original page: <https://www.meetup.com/portland-bitcoin-group/events/317249034/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-025b8653303194a1"></a>
+
+## Nota Bene – Artnet Airwaves Podcast Festival
+
+- Record: `luma-evt-mx8T6WYM0ZYctRC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T19:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/oznu1nqq>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
