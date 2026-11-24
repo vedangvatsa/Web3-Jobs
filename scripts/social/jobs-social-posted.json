@@ -181265,7 +181265,8 @@
       },
       "account": "channel:design",
       "attemptId": "6839883b-43ff-4ff4-9c11-56ac2c4aeee0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb31c1da3b68cf2efee5b62cb77fe38fa75f85fea"
     }
   ]
 }
