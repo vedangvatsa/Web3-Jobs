@@ -178174,7 +178174,8 @@
       },
       "account": "profile",
       "attemptId": "f7fdbb7d-7651-4f89-a2b1-553df85bf04e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x325506e4f8dc59fe701af21d63d42e2420b28042"
     }
   ]
 }
