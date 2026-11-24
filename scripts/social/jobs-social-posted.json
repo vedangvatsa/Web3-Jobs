@@ -180725,7 +180725,8 @@
       },
       "account": "profile",
       "attemptId": "13735ab8-9daa-4fbf-817d-eb67ef7a7cee",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x024a5f3ec4d8ffca2132c20978c18f6996728d07"
     }
   ]
 }
