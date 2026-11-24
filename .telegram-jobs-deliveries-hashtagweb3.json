@@ -3219,5 +3219,135 @@
     "slotKey": "2026-11-24:morning",
     "messageId": 156480,
     "sentAt": "2026-11-24T04:23:00.459Z"
+  },
+  "8f5bf5a4-4f6a-4f97-9845-78904b6f108a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T14:12:58.214Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8348035",
+          "title": "Applications Developer, Workday",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8348035?t=gh_src=&gh_jid=8348035",
+          "date": "2026-11-02T17:11:27-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Toronto, Canada",
+          "department": "Enterprise Technology Division",
+          "active": true,
+          "salary": "$93.5k – $110k/yr",
+          "dateVerified": true,
+          "slug": "dev42"
+        },
+        "key": "8348035",
+        "slug": "dev42",
+        "url": "https://hashtagweb3.com/dev42?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Applications Developer"
+      },
+      {
+        "snapshot": {
+          "id": "deel-dfns-bd6669ca-cbbd-4280-8b00-dbb215226699",
+          "title": "Revenue Operations Lead",
+          "company": "DFNS",
+          "link": "https://jobs.deel.com/dfns/job-details/bd6669ca-cbbd-4280-8b00-dbb215226699/overview",
+          "date": "2026-11-10T19:53:22.922Z",
+          "dateVerified": true,
+          "dateSource": "DFNS Careers on Deel",
+          "source": "Deel: DFNS [dfns]",
+          "location": "Remote",
+          "department": "Sales",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "active": true,
+          "salary": "$150k – $200k/yr",
+          "minSalary": 150000,
+          "maxSalary": 200000,
+          "currency": "USD",
+          "slug": "ops175"
+        },
+        "key": "deel-dfns-bd6669ca-cbbd-4280-8b00-dbb215226699",
+        "slug": "ops175",
+        "url": "https://hashtagweb3.com/ops175?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DFNS",
+        "title": "Revenue Operations Lead"
+      },
+      {
+        "snapshot": {
+          "id": "gs-oracle-187273",
+          "title": "Asset & Wealth Management-Private Bank Underwriting- Analyst- Bengaluru",
+          "company": "Goldman Sachs",
+          "link": "https://higher.gs.com/roles/187273",
+          "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/187273",
+          "date": "2026-11-19T06:19:38+00:00",
+          "dateVerified": true,
+          "dateSource": "Oracle Recruiting",
+          "source": "Oracle CE [goldman-lateral]",
+          "location": "Bengaluru, Karnataka, India",
+          "type": "Full-time",
+          "department": "Goldman Sachs",
+          "skills": [
+            "Institutional",
+            "Banking",
+            "Digital Assets",
+            "Blockchain",
+            "Web3"
+          ],
+          "active": true,
+          "slug": "an160"
+        },
+        "key": "gs-oracle-187273",
+        "slug": "an160",
+        "url": "https://hashtagweb3.com/an160?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Goldman Sachs",
+        "title": "Asset & Wealth Management-Private Bank Underwriting- Analyst- Bengaluru"
+      },
+      {
+        "snapshot": {
+          "id": "8398941",
+          "title": "Senior Product Manager - Payments (GTXN)",
+          "company": "Luno",
+          "link": "https://job-boards.greenhouse.io/luno/jobs/8398941",
+          "date": "2026-11-18T09:59:23-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Luno [luno]",
+          "location": "Cape Town & Johannesburg",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm317"
+        },
+        "key": "8398941",
+        "slug": "pm317",
+        "url": "https://hashtagweb3.com/pm317?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Luno",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8934164002",
+          "title": "Head of Design, Product Design",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934164002",
+          "date": "2026-11-06T20:08:47-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm377"
+        },
+        "key": "8934164002",
+        "slug": "pm377",
+        "url": "https://hashtagweb3.com/pm377?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Head of Design"
+      }
+    ],
+    "message": "- Robinhood is hiring <a href=\"https://hashtagweb3.com/dev42?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Applications Developer, Workday</a>\n- DFNS is hiring <a href=\"https://hashtagweb3.com/ops175?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Revenue Operations Lead</a>\n- Goldman Sachs is hiring <a href=\"https://hashtagweb3.com/an160?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset &amp; Wealth Management-Private Bank Underwriting- Analyst- Bengaluru</a>\n- Luno is hiring <a href=\"https://hashtagweb3.com/pm317?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/pm377?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Design</a>",
+    "slotKey": "2026-11-24:afternoon"
   }
 }
