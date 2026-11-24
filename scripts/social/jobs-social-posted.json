@@ -183219,6 +183219,46 @@
       "attemptId": "d50f02cd-92c1-486f-a6a2-9ff3dace42c9",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Tuesday, 24-Nov-26 10:47:06 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A0_ZznaQeBCWukUCUyfv9ER\"}"
+    },
+    {
+      "slug": "an118",
+      "company": "Bitdeer",
+      "title": "Senior Financial Systems Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-11-24T18:46:50.043Z",
+      "expectedText": "Bitdeer is hiring Senior Financial Systems Analyst: https://hashtagweb3.com/an118/bsky?og=7",
+      "snapshot": {
+        "id": "7a4083b2fdfe",
+        "title": "Senior Financial Systems Analyst",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+        "date": "2026-11-09",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "Information Technology",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+          "checkedAt": "2026-11-10T02:22:24.670Z",
+          "bodySha256": "9e92d919f8ba22310fcf4cff7d29b49761127e0d63ebfa5e59a0a66d31d170ae",
+          "provider": "breezy",
+          "datePosted": "2026-11-09"
+        },
+        "slug": "an118"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior Financial Systems Analyst: https://hashtagweb3.com/an118/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/an118/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/an118.png?v=7",
+        "company": "Bitdeer",
+        "title": "Senior Financial Systems Analyst",
+        "description": "Join Bitdeer as Senior Financial Systems Analyst. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "84b758ea-4f46-4ecc-aec0-113a89088d84",
+      "verification": "creating"
     }
   ]
 }
