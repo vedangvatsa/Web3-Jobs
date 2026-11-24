@@ -209766,9 +209766,9 @@
         "The Block"
       ],
       "id": "199d8757d529108809f0",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-22T11:54:08.214Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-25T07:24:05.000Z",
       "lastSeenAt": "2026-11-23T06:38:33.460Z",
       "articleSlug": "cyberbridge",
@@ -209794,7 +209794,25 @@
         "updatedAt": "2026-11-24T02:16:41.960Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Rechecked both sources in full on Nov 24: Cointelegraph Nov 22 and crypto.news Nov 22. Verified suspension times (2:08/2:18 a.m. KST Nov 22), the 5.21M CYBER Solana mint and ~575 ETH proceeds per the 0xCERT advisory as cited, the Article 17 legal basis, and FSC Nov 12 no-action letter context. The Block remained 403. Draft at 600+ words; hero is a CC BY 4.0 Upbit entrance photo from Wikimedia Commons, self-hosted at public/images/news/cyberbridge.jpg.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/upbit-bithumb-halt-cyber-transfers-bridge",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:25:22.434Z",
+      "lastReviewedDay": "2026-11-24"
     },
     "11cce0e1d96d6f2ecfa7": {
       "source": "Cointelegraph",
@@ -423071,6 +423089,27 @@
           ],
           "reviewedAt": "2026-11-24T02:10:58.013Z",
           "articleSlug": "soloblock"
+        },
+        "199d8757d529108809f0": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Rechecked both sources in full on Nov 24: Cointelegraph Nov 22 and crypto.news Nov 22. Verified suspension times (2:08/2:18 a.m. KST Nov 22), the 5.21M CYBER Solana mint and ~575 ETH proceeds per the 0xCERT advisory as cited, the Article 17 legal basis, and FSC Nov 12 no-action letter context. The Block remained 403. Draft at 600+ words; hero is a CC BY 4.0 Upbit entrance photo from Wikimedia Commons, self-hosted at public/images/news/cyberbridge.jpg.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/upbit-bithumb-halt-cyber-transfers-bridge",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:25:22.434Z",
+          "articleSlug": "cyberbridge"
         }
       },
       "baselineSlugs": [
