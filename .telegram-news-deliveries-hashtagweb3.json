@@ -889,5 +889,36 @@
     "slotKey": "2026-11-24:morning",
     "messageId": 156482,
     "sentAt": "2026-11-24T04:26:34.645Z"
+  },
+  "8639e5e0-92de-4cb7-9117-0ac577483ee9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T18:47:30.677Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Abu Dhabi Court Grants Binance $6.5 Billion Freezing Order",
+        "summary": "The injunction aims to recover crypto stolen in an October hack across 26,000 wallet addresses.",
+        "link": "https://hashtagweb3.com/binanceorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Says It Won $6.5 Billion Freezing Order From Abu Dhabi Court"
+      },
+      {
+        "index": -1,
+        "headline": "Binance Replaces $6.34 Billion Drained in October Hack",
+        "summary": "Using corporate funds, the exchange fully reimbursed affected users while the DOJ received approval to seize stolen assets.",
+        "link": "https://hashtagweb3.com/binancefull?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Binance Says It Has Finished Covering the $6.34 Billion Hack"
+      },
+      {
+        "index": -1,
+        "headline": "Treasury sanctions 41 companies linked to Prince Group",
+        "summary": "The action targets four individuals and offshore nominees for continuing the group's fraudulent operations.",
+        "link": "https://hashtagweb3.com/ofac41?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OFAC sanctions 41 companies tied to Prince Group scam network"
+      }
+    ],
+    "slotKey": "2026-11-24:afternoon"
   }
 }
