@@ -1169,5 +1169,53 @@
     "slotKey": "2026-11-23:evening",
     "messageId": 156477,
     "sentAt": "2026-11-23T22:51:50.838Z"
+  },
+  "8f6e54fc-9406-4f9f-99e3-532910f1e03d": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T04:23:02.274Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-UAGWLqBe7al4eAl",
+        "slug": "american-c",
+        "name": "American Crypto Policy: What's Next - Workshop Wednesday - Phoenix - November 25",
+        "startDate": "2026-11-26T01:00:00.000Z",
+        "keys": [
+          "luma-crypto-uagwlqbe7al4eal",
+          "page:american-c:2026-11-25",
+          "luma:evt-uagwlqbe7al4eal",
+          "luma-url:/nkgh93iv",
+          "event:americancryptopolicywhatsnextworkshopwednesdayphoenixnovember25:2026-11-25:phoenix"
+        ]
+      },
+      {
+        "id": "luma-crypto-gyyGBm4prZOaKYH",
+        "slug": "integral-x",
+        "name": "Integral x ATFX Connect | Crypto Conversations: Networking Drinks",
+        "startDate": "2026-11-26T07:00:00.000Z",
+        "keys": [
+          "luma-crypto-gyygbm4przoakyh",
+          "page:integral-x:2026-11-26",
+          "luma:evt-gyygbm4przoakyh",
+          "luma-url:/rzlwq5ax",
+          "event:integralxatfxconnectcryptoconversationsnetworkingdrinks:2026-11-26:sydney"
+        ]
+      },
+      {
+        "id": "luma-crypto-a3yligVWJB8E4Rf",
+        "slug": "solana-nz",
+        "name": "Solana NZ Meetup (NOV Edition)",
+        "startDate": "2026-11-27T04:00:00.000Z",
+        "keys": [
+          "luma-crypto-a3yligvwjb8e4rf",
+          "page:solana-nz:2026-11-27",
+          "luma:evt-a3yligvwjb8e4rf",
+          "luma-url:/ly4uan1o",
+          "event:solananzmeetupnovedition:2026-11-27:auckland"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-24:morning"
   }
 }
