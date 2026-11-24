@@ -29241,18 +29241,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-a29b1b56720d2cdf"></a>
-
-## Silicon Valley Investors Dinner Night: AI & Lifescience
-
-- Record: `luma-evt-fpZZzbgm0rQk5zL`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T23:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/gwp6z6x7>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-9531c1b6223d467e"></a>
 
 ## Russell Berman on Thinking In Silicon Valley: From Bildung to Building
@@ -44665,6 +44653,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c9c9609b8190f1af"></a>
+
+## The Basics of Options: From Definitions to Your First Trade
+
+- Record: `mu-317454500`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/denver-options-trading-group/events/317454500/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-749eaa28580044c3"></a>
 
 ## The Basics of Options: From Definitions to Your First Trade
@@ -44734,6 +44734,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-05T11:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/atlanta-options-trading-group/events/317454524/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5c102da5190c32b6"></a>
+
+## STRONG & BRIGHT
+
+- Record: `luma-evt-uXdhrG9MBBSRrQj`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-05T15:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/strongandbright>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45752,6 +45764,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-29499ffe69ddd636"></a>
+
+## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
+
+- Record: `mu-317272350`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T09:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-denver/events/317272350/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-060482e686622f9c"></a>
 
 ## ZK Learning Group: Wrap-up 2026, ZK order book matching
@@ -45785,6 +45809,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10T09:00:00-08:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/lfdt-seattle-chapter/events/317272174/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c9642ef424855117"></a>
+
+## ZK Learning Group: Wrap-up 2026, ZK order book matching
+
+- Record: `mu-317272126`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T10:00:00-07:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-denver/events/317272126/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

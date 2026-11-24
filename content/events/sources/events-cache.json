@@ -2587,7 +2587,7 @@
     "country": "Poland",
     "location": "Warsaw, Poland",
     "url": "https://nextblockexpo.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-next-block-expo-2027-7f98c62b.webp",
     "source": "marketacross",
     "month": "March 2027"
   },
@@ -2662,7 +2662,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://www.teamz.co.jp/",
-    "coverImage": "/events/w3v-teamz-summit-10-27-04-05-e2661eb4.webp",
+    "coverImage": "/events/ma-teamz-web3-ai-summit-2027-da14a208.webp",
     "source": "marketacross",
     "month": "April 2027",
     "descriptionSource": {
@@ -6953,20 +6953,6 @@
     "location": "Toronto, Canada",
     "url": "https://lu.ma/p4mthvry",
     "coverImage": "/events/luma-evt-7fvbffyifhtycuj-07befe69.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-fpZZzbgm0rQk5zL",
-    "name": "Silicon Valley Investors Dinner Night: AI & Lifescience",
-    "description": "",
-    "startDate": "2026-10-24T23:30:00.000Z",
-    "endDate": "2026-10-25T02:30:00.000Z",
-    "city": "Mountain View",
-    "country": "United States",
-    "location": "Mountain View, United States",
-    "url": "https://lu.ma/gwp6z6x7",
-    "coverImage": "/events/luma-evt-fpzzzbgm0rqk5zl-a47dc034.webp",
     "source": "luma",
     "month": "October 2026"
   },
@@ -17474,7 +17460,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -24424,6 +24410,62 @@
     "url": "https://www.eventbrite.co.uk/e/the-digital-assets-collective-banking-fintech-crypto-tickets-2005154439907",
     "coverImage": "/events/eb-2005154439907-b0c9d5cb.webp",
     "source": "eventbrite",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-uXdhrG9MBBSRrQj",
+    "name": "STRONG & BRIGHT",
+    "description": "",
+    "startDate": "2026-12-05T15:00:00.000Z",
+    "endDate": "2026-12-05T17:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/strongandbright",
+    "coverImage": "/events/luma-evt-uxdhrg9mbbsrrqj-28b973e4.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317454500",
+    "name": "The Basics of Options: From Definitions to Your First Trade ",
+    "description": "**Traders of all levels are welcome to join and learn!**\n\n**Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
+    "startDate": "2026-12-05T09:00:00-07:00",
+    "endDate": "2026-12-05T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/denver-options-trading-group/events/317454500/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272350",
+    "name": "Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines",
+    "description": "ThunderID ([https://github.com/thunder-id](https://github.com/thunder-id)) is an open source identity and access management project, hosted by LF Decentralized Trust as an incubation project. It is bu",
+    "startDate": "2026-12-10T09:00:00-07:00",
+    "endDate": "2026-12-10T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-denver/events/317272350/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "December 2026"
+  },
+  {
+    "id": "mu-317272126",
+    "name": "ZK Learning Group: Wrap-up 2026, ZK order book matching",
+    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development.\nDuring the year we will systematically explore different aspects of zero",
+    "startDate": "2026-12-10T10:00:00-07:00",
+    "endDate": "2026-12-10T10:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/lfdt-denver/events/317272126/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "December 2026"
   }
 ]
