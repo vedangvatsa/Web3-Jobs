@@ -183990,6 +183990,54 @@
       "attemptId": "56e8b361-b438-43b5-9d7e-9d32717c0353",
       "verification": "verified",
       "postId": "0xb5155d59e67149a55928b2673199d3810ea726c6"
+    },
+    {
+      "slug": "an118",
+      "company": "Bitdeer",
+      "title": "Senior Financial Systems Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-11-24T18:46:50.043Z",
+      "expectedText": "Bitdeer is hiring Senior Financial Systems Analyst: https://hashtagweb3.com/an118/li?og=7",
+      "snapshot": {
+        "id": "7a4083b2fdfe",
+        "title": "Senior Financial Systems Analyst",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+        "date": "2026-11-09",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "Information Technology",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+          "checkedAt": "2026-11-10T02:22:24.670Z",
+          "bodySha256": "9e92d919f8ba22310fcf4cff7d29b49761127e0d63ebfa5e59a0a66d31d170ae",
+          "provider": "breezy",
+          "datePosted": "2026-11-09"
+        },
+        "slug": "an118"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior Financial Systems Analyst: https://hashtagweb3.com/an118/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/an118/li?og=7",
+          "title": "Senior Financial Systems Analyst at Bitdeer | Hashtag Web3",
+          "description": "Join Bitdeer as Senior Financial Systems Analyst. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/an118.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "75f2de98-381e-4aa3-aeca-93fa989d5cf9",
+      "verification": "creating"
     }
   ]
 }
