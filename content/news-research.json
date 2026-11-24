@@ -213394,9 +213394,9 @@
         "The Defiant"
       ],
       "id": "c8d61def79192b22f9a8",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-26T23:43:34.000Z",
       "lastSeenAt": "2026-11-24T01:57:39.856Z",
       "articleSlug": "cftcreserves",
@@ -213418,7 +213418,33 @@
         "updatedAt": "2026-11-24T01:59:05.469Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the CFTC release, the full Staff Letter 26-31 text and Cointelegraph; haircuts (20% BTC/ETH, 2% stablecoins), one-year operating-cost rule and the separate liquidity carve-out all come from the advisory itself. The Block and The Defiant returned 403.",
+      "sourceChecks": [
+        {
+          "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cftc.gov/csl/26-31/download",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:04:28.505Z",
+      "lastReviewedDay": "2026-11-24"
     },
     "cd24c5afb195b7235d5a": {
       "source": "Crypto Briefing",
@@ -422790,6 +422816,35 @@
             "Find independent reporting confirming the event in: South Korea to publish draft of comprehensive crypto legal framework this week",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "c8d61def79192b22f9a8": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the CFTC release, the full Staff Letter 26-31 text and Cointelegraph; haircuts (20% BTC/ETH, 2% stablecoins), one-year operating-cost rule and the separate liquidity carve-out all come from the advisory itself. The Block and The Defiant returned 403.",
+          "sourceChecks": [
+            {
+              "url": "https://www.cftc.gov/PressRoom/PressReleases/9331-26",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cftc.gov/csl/26-31/download",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/converge/regulation/cftc-staff-clarifies-crypto-use-in-operating-reserves",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:04:28.505Z",
+          "articleSlug": "cftcreserves"
         }
       },
       "baselineSlugs": [
