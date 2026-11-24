@@ -5317,5 +5317,54 @@
     "gaps": [
       "Ashby API publishedAt for live roles is older than the 30-day posting-age policy; roles stay off jobs-runtime until a role has a fresh original date or primary-page verification passes."
     ]
+  },
+  "fomo-labs": {
+    "name": "Fomo Labs",
+    "website": "https://fomo.family/",
+    "description": "Fomo (fomo.family) is a social-first crypto trading platform on mobile and web where users follow traders, copy trades, and swap memecoins, altcoins, and stablecoins. The product syncs activity between phone and desktop from one account.",
+    "published": true,
+    "verified": true,
+    "checkedAt": "2026-11-25T21:20:00.000Z",
+    "socialLinks": {
+      "twitter": "https://x.com/fomo"
+    },
+    "logo": "/logo/companies/fomo-labs.png",
+    "provenance": {
+      "website": {
+        "url": "https://fomo.family/",
+        "checkedAt": "2026-11-25T21:20:00.000Z",
+        "bodySha256": "ecb2d296f8c9319396b8b387c344d51f4096f3389568218f9e21b42baecedff8"
+      },
+      "about": [
+        {
+          "url": "https://fomo.family/",
+          "checkedAt": "2026-11-25T21:20:00.000Z",
+          "bodySha256": "ecb2d296f8c9319396b8b387c344d51f4096f3389568218f9e21b42baecedff8",
+          "title": "fomo | Social Crypto Trading App & Web Platform",
+          "excerpt": "Trade memecoins, altcoins, and stablecoins on the only social-first crypto platform. Follow traders, copy trades, and swap on web and mobile."
+        }
+      ],
+      "socials": [
+        {
+          "key": "twitter",
+          "url": "https://x.com/fomo",
+          "sourceUrl": "https://fomo.family/",
+          "checkedAt": "2026-11-25T21:20:00.000Z",
+          "bodySha256": "ecb2d296f8c9319396b8b387c344d51f4096f3389568218f9e21b42baecedff8"
+        }
+      ],
+      "branding": {
+        "url": "https://fomo.family/apple-touch-icon.png",
+        "sourceUrl": "https://fomo.family/",
+        "kind": "apple-touch-icon",
+        "finalUrl": "https://fomo.family/apple-touch-icon.png",
+        "checkedAt": "2026-11-25T21:20:00.000Z",
+        "localPath": "/logo/companies/fomo-labs.png",
+        "localSha256": "b56e580c6929e264fa7a181bf0741b4b21bc39b9aafb9233e5fdffdb8f6e084c"
+      }
+    },
+    "gaps": [
+      "Careers and hiring details are published on the Ashby board at jobs.ashbyhq.com/fomo-labs; this profile is pinned to the consumer product site at fomo.family."
+    ]
   }
 }
