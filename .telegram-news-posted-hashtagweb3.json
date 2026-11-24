@@ -80,6 +80,9 @@
   "https://hashtagweb3.com/cftcreserves?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/soloblock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/nyseavalanche?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binancefull?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ofac41?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -242,6 +245,12 @@
   "Solo miner wins $191,000 Bitcoin block with 11 TH/s",
   "NYSE chooses Avalanche for tokenized stock exchange settlement",
   "NYSE selects Avalanche to settle planned 24/7 tokenized stock exchange",
+  "Abu Dhabi Court Grants Binance $6.5 Billion Freezing Order",
+  "Binance Says It Won $6.5 Billion Freezing Order From Abu Dhabi Court",
+  "Binance Replaces $6.34 Billion Drained in October Hack",
+  "Binance Says It Has Finished Covering the $6.34 Billion Hack",
+  "Treasury sanctions 41 companies linked to Prince Group",
+  "OFAC sanctions 41 companies tied to Prince Group scam network",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -322,5 +331,8 @@
   "fp:000|430|asset|binanc|coin|creat|elliptic|hack|hacker|korean",
   "fp:allow|annual|cftc|cost|count|cover|ether|exchang|haircut|let",
   "fp:000|191|at11|block|block977057|ckpool|individual|miner|november22|operat",
-  "fp:avalanch|blockchain|choos|equity|exchang|intercontinental|new24|nys|planned24|select"
+  "fp:avalanch|blockchain|choos|equity|exchang|intercontinental|new24|nys|planned24|select",
+  "fp:000|65b|abu|across26|address|aim|binanc|court|dhabi|freez",
+  "fp:634b|affect|approval|asset|binanc|corporat|cover|doj|drain|exchang",
+  "fp:action|continu|four|fraudulent|group|individual|link|network|nomine|ofac"
 ]

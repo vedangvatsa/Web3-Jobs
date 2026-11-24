@@ -891,7 +891,7 @@
     "sentAt": "2026-11-24T04:26:34.645Z"
   },
   "8639e5e0-92de-4cb7-9117-0ac577483ee9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-24T18:47:30.677Z",
     "stories": [
       {
@@ -919,6 +919,8 @@
         "originalTitle": "OFAC sanctions 41 companies tied to Prince Group scam network"
       }
     ],
-    "slotKey": "2026-11-24:afternoon"
+    "slotKey": "2026-11-24:afternoon",
+    "messageId": 156492,
+    "sentAt": "2026-11-24T18:47:37.544Z"
   }
 }
