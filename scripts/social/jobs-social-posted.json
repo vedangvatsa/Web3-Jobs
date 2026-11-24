@@ -181193,7 +181193,8 @@
       },
       "account": "channel:ai",
       "attemptId": "399df946-8c50-44fa-b0e7-15ccc6cc223d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3d9ef7ac855adb1c596dbe9c20d9c69fabe0716d"
     }
   ]
 }
