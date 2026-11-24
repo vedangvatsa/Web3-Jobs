@@ -22005,6 +22005,14 @@ Thomas Kralov - Chairman of Evedex and crypto expert with 2.5M+ social media fol
 
 Discover more on our website
 
+### Who should attend
+
+The evening targets investors and entrepreneurs interested in crypto regulation, cross-asset opportunities, and partnership discussions during the Dubai yacht session.
+
+### Registration
+
+Standard registration is open on the organizer Luma page. Confirm schedule updates and venue details there before travel.
+
 <a id="event-7f2832b08d96ca71"></a>
 
 ## Stripe Breakfast @ re:Invent
@@ -30778,18 +30786,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-7b990a1de6020fdb"></a>
-
-## IEEE ClimateChain Global Hackathon
-
-- Record: `w3v-ieee-climatechain-global-hackathon`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-05T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://ieee-climatechain-hack.devpost.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-a808cc50f520c91c"></a>
 
 ## A Global Living Lab: Light DAO's Next International Gathering
@@ -30996,7 +30992,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-vr1SvUyRNT6X5GE`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-19T13:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/6laijuyn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31071,18 +31067,6 @@ Registration details By registering for this event, you consent to being photogr
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-3424cc630352b944"></a>
-
-## Better Toronto Buildathon
-
-- Record: `luma-evt-7fvbFfyIFHTYCuj`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T15:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/p4mthvry>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-e87d5aba74ed21e4"></a>
 
 ## HackMeridian 2026
@@ -31104,18 +31088,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-25T16:15:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/the-beautiful-lettering-social-club-gathering/events/317114384/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c1ee978757d1c427"></a>
-
-## The Sisterhood Society Sundays Presents Soft Life, Strong Boundaries
-
-- Record: `luma-evt-19FXH7W2CbARRCm`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/4vkg2boj>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -31150,7 +31122,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-YeViCHxsLulqzca`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-26T02:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/l8i9gykw>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31162,7 +31134,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-f5ZDXpgubz3flLJ`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-26T06:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/ifduehow>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31210,7 +31182,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-jAsxvsyCZCb8JkA`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-26T16:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/5u109wun>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31294,7 +31266,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-xdzRCPDhA2Tj2QU`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-27T07:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/IRL-coworking>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31556,7 +31528,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-qCSrCHL64LkxJHh`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T06:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/hcv7si5d>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31608,7 +31580,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-Q9pqBMhbxoTeN4u`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T09:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/SolanaSkydiving>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31620,7 +31592,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-Q9pqBMhbxoTeN4u`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T09:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaSkydiving>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31656,7 +31628,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-Krruc09WsoWUkk3`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T11:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/1wrxno9z>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31680,7 +31652,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-bVCkBH9J2aAYuIq`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T13:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/gnz04s51>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31944,7 +31916,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-2PiQbQ4qVHcWOzn`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-28T23:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/offline-atx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -31994,7 +31966,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-MG5qjFuBEBYwuLj`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T07:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/4l6kgodc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32150,7 +32122,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-rN879vRTa1NBn6A`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T10:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/yjhzi8vg>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32276,7 +32248,7 @@ Linux Foundation Decentralized Trust's ZK Learning Group holds an online session
 - Record: `luma-evt-cfzsveZDjVONFEA`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T13:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/SolanaEcosystemClubDXB>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32288,7 +32260,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-cfzsveZDjVONFEA`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T13:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaEcosystemClubDXB>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32312,7 +32284,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-ItZJjbEZhnJ1BsB`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T14:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/c6t2hftd>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32362,7 +32334,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-PTzVHlRUwSZLQfH`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T17:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/seaaiweek-thu-keynote>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32374,7 +32346,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-bA1lGLmurQ2V4Vm`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-29T17:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/ilonzhkx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32470,7 +32442,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-auW455Sx8Ji8ay4`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-30T05:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/xgx9jaj4>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32674,7 +32646,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-P1kZUCg2onrrzaz`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-30T13:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/anwdy1mx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32734,7 +32706,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-CsOMOHKU1XlKEFj`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-30T18:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/3xweds1f>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32858,7 +32830,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-aD9RLcLVN4JkhvN`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-31T14:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/55hewd0g>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -32906,7 +32878,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-aQiimIN6V6gLF9o`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-10-31T18:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/yfucpvp0>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -33160,7 +33132,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-8dntupEO60aiWT5`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-01T10:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/london-hh-26>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -33406,7 +33378,7 @@ Web3Privacy Now hosts Ethereum Cypherpunk Congress #3 in Mumbai. The program add
 - Record: `luma-evt-CyZRiDdLECiCPRS`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-02T04:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/spsnos9t>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -33418,7 +33390,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-hadJH0ytfLq1cra`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-02T04:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/solana-summit-india>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -33500,7 +33472,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-P0NrSrodGZpB4VN`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-02T10:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/3r6a3xn1>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -33620,7 +33592,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-TjT2Gplu3W9ah47`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-02T18:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/polsky-11-02-2026-event-2026>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -33836,7 +33808,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-U8Ry58HgRCHPKgI`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-03T05:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/cfthgx9l>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -33994,7 +33966,7 @@ Registration requires approval and is subject to venue capacity.
 - Record: `luma-evt-E6a7U9t8VVeHBE2`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-03T11:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/pdpgqkqm>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -34072,7 +34044,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-WA1k9H6TjNoF3wg`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-03T15:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/czi58jpe>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -34294,7 +34266,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-YrxHIFQonKfchqd`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-04T06:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/4mn3z8x3>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -34306,7 +34278,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-jh2hreyMg1yNKpj`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-04T08:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/co-work39>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -34330,7 +34302,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-8F0EILQ0J6qPBBk`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-04T10:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/dunxx97m>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -34370,7 +34342,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-p8GBiNmZfRmAhS9`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-04T10:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/6gnkjcqx>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -35375,7 +35347,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-sslR1M1IT6U0iEV`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-05T22:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/talent-ik5v>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -36631,7 +36603,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-SV4yx5HDhLqpdja`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-11T09:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/STUAEMembersLunch>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -37766,7 +37738,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-uZcNvXgLxoQ26if`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-14T16:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/stin-pokernight>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -38340,7 +38312,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-YwG8tJw4TwHYqiD`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-15T16:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/TSCTitan>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -39430,7 +39402,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-9X0S2PcKLrABMQm`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-17T00:30:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/k5t1h3r2>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -39850,7 +39822,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-evt-HxYBokO5oCKim9I`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-17T22:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://lu.ma/v0ejapv4>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -40956,7 +40928,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-dWuFCJm1rSs2IDb`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-11-19T15:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaPadelMatchDXB>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -47300,7 +47272,7 @@ Sponsorship: https://docsend.com/v/gpqj2/trust-circle-wealth-abu-dhabi
 - Record: `luma-host-evt-evt-dz0MXGbPcSzCZXS`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-07T15:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaArcadeSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -47444,7 +47416,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-ZZpvGA0QiMrtNRP`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-08T04:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SEZPadel>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -47798,7 +47770,7 @@ X (https://x.com/galaxyhq) | Website (https://galaxy.com/) | LinkedIn (https://w
 - Record: `luma-host-evt-evt-715CJJEFVcFvZ5w`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-08T15:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaAfterDarkSEZ>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -48074,7 +48046,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-ODGqwD66NT3btrZ`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-09T04:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SEZRun>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -48951,7 +48923,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-irh0WAyOWiDMjSa`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-11T04:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SEZGym>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -49119,7 +49091,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-THSqqMrXCBU5xtP`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-12T12:00:00.000Z
-- Description: Missing
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaYachtCruiseSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
