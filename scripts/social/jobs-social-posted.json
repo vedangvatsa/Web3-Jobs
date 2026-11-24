@@ -178078,7 +178078,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "45c08c82-a99b-4c00-8e17-23273922a9e1",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Buffer X request failed: HTTP 429"
     }
   ]
 }
