@@ -181936,7 +181936,8 @@
       },
       "account": "channel:ethereum",
       "attemptId": "210e52da-20ca-4168-93e9-ef18fe1033bd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1ae1866b2598e8a95112fe86c9e1ce6831add8eb"
     }
   ]
 }
