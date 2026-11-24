@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-23",
+  "deployed": "2026-11-24",
   "ingested": "2026-11-23",
   "dailyDeployments": {
     "2026-10-23": [
@@ -1404,12 +1404,14 @@
           "cftcreserves",
           "soloblock"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-24T02:57:57.367Z",
         "buildId": "daily-20261124-45308670816-1",
         "rolloutId": "daily-20261124-45308670816-1",
         "buildState": "READY",
-        "observedAt": "2026-11-24T03:23:32.835Z"
+        "observedAt": "2026-11-24T03:24:06.385Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-24T03:24:06.385Z"
       }
     ]
   }
