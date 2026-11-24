@@ -67,6 +67,16 @@ for (const address of ['G Block, Bandra Kurla Complex (BKC)', 'Bennelong Point, 
   assert.ok(schema({ streetAddress: address }), address);
 }
 for (const address of ['G Block', 'Bandra Kurla Complex', 'Mumbai', 'Jio World Centre']) assert.equal(hasDetailedStreetAddress(address), false, address);
+for (const address of [
+  'Antidote, The Bindery, 51-53 Hatton Garden, London EC1N 8HN, UK',
+  'Cafe DECADA, Vacínova 876/10, 180 00 Praha 8-Libeň, Czechia',
+  'Kalfaoğlu Sk. No:31/A, 34714 Kadıköy/İstanbul, Türkiye',
+  'Casa NUA, R. Maria Paula, 78, 01319-000, Brazil',
+  'EPFL, 1015 Lausanne, Switzerland',
+]) {
+  assert.ok(hasDetailedStreetAddress(address), address);
+  assert.ok(schema({ location: address }), address);
+}
 assert.equal(getEventVenueLabel(event({ venueName: 'The Shed', location: 'The Shed, New York', streetAddress: '545 W 30th St', addressLocality: 'New York', addressCountry: 'US' })), 'The Shed, 545 W 30th St, New York, US');
 assert.equal(getEventVenueLabel(event({ locationHidden: true, streetAddress: '100 Hidden Street', venueName: 'Hidden Venue', city: 'Mumbai', country: 'India' })), 'Mumbai, India');
 

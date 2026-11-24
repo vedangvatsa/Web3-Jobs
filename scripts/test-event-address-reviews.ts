@@ -82,7 +82,12 @@ test('a newer organizer source can withdraw or replace a previously verified add
 });
 
 test('international compound street names are not mistaken for missing addresses', () => {
-  for (const value of ['Chausseestraße 36, 10115 Berlin', 'Friedenstraße 24, München', 'Piet Heinkade 179, Amsterdam', '47 Quai Wilson', '2515 Speedway, Austin']) assert.equal(hasDetailedStreetAddress(value), true, value);
+  for (const value of [
+    'Chausseestraße 36, 10115 Berlin', 'Friedenstraße 24, München', 'Piet Heinkade 179, Amsterdam', '47 Quai Wilson', '2515 Speedway, Austin',
+    'Antidote, The Bindery, 51-53 Hatton Garden, London EC1N 8HN, UK',
+    'Cafe DECADA, Vacínova 876/10, 180 00 Praha 8-Libeň, Czechia',
+    'EPFL, 1015 Lausanne, Switzerland',
+  ]) assert.equal(hasDetailedStreetAddress(value), true, value);
   for (const value of ['Berlin', 'Bandra West, Mumbai', 'SoHo, New York', 'Bandra Kurla Complex, Mumbai']) assert.equal(hasDetailedStreetAddress(value), false, value);
 });
 
