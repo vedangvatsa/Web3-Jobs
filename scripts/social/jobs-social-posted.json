@@ -184207,6 +184207,34 @@
       "attemptId": "c7436265-82de-4e29-94d1-6700cd2852e2",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "pm377",
+      "company": "BitGo",
+      "title": "Head of Design, Product Design",
+      "platform": "threads",
+      "postedAt": "2026-11-24T18:50:45.685Z",
+      "expectedText": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm377/th?og=7",
+      "snapshot": {
+        "id": "8934164002",
+        "title": "Head of Design, Product Design",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934164002",
+        "date": "2026-11-06T20:08:47-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm377"
+      },
+      "payload": {
+        "text": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm377/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/pm377/th?og=7"
+      },
+      "attemptId": "853ba505-bcb8-4095-9b73-5a9bbb87fe54",
+      "verification": "creating"
     }
   ]
 }
