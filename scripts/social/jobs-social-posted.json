@@ -182989,6 +182989,46 @@
       "attemptId": "ff428d3c-19e5-4882-adf8-4947e4ba5730",
       "verification": "verified",
       "postId": "0xa838ec8fca99c81145b036f4b48fbdfb20ac69f5"
+    },
+    {
+      "slug": "eng733",
+      "company": "BVNK",
+      "title": "Solutions Engineer - APAC",
+      "platform": "linkedin",
+      "postedAt": "2026-11-24T14:17:17.444Z",
+      "expectedText": "BVNK is hiring Solutions Engineer: https://hashtagweb3.com/eng733/li?og=7",
+      "snapshot": {
+        "id": "5035000101",
+        "title": "Solutions Engineer - APAC",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5035000101",
+        "date": "2026-11-12T08:59:06-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "Singapore",
+        "department": "Commercial",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng733"
+      },
+      "payload": {
+        "text": "BVNK is hiring Solutions Engineer: https://hashtagweb3.com/eng733/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng733/li?og=7",
+          "title": "Solutions Engineer - APAC at BVNK | Hashtag Web3",
+          "description": "Join BVNK as Solutions Engineer - APAC. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng733.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "acec09be-ccdf-4498-bc30-b7f1a5914ca5",
+      "verification": "creating"
     }
   ]
 }
