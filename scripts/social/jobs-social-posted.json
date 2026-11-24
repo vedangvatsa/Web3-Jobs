@@ -183646,6 +183646,48 @@
       "attemptId": "866401a1-7253-4c6e-8f8e-8c5e8593de05",
       "verification": "verified",
       "postId": "0x2af058ec2dc0dd3f11eea1a45ebe9f6456b7397c"
+    },
+    {
+      "slug": "an118",
+      "company": "Bitdeer",
+      "title": "Senior Financial Systems Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-24T18:46:50.043Z",
+      "expectedText": "Bitdeer is hiring Senior Financial Systems Analyst\n\nhttps://hashtagweb3.com/an118/fc?og=7",
+      "snapshot": {
+        "id": "7a4083b2fdfe",
+        "title": "Senior Financial Systems Analyst",
+        "company": "Bitdeer",
+        "link": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+        "date": "2026-11-09",
+        "dateVerified": true,
+        "dateSource": "Breezy.JobPosting.datePosted",
+        "source": "Breezy: Bitdeer [bitdeer]",
+        "location": "Singapore, SG",
+        "isRemote": false,
+        "department": "Information Technology",
+        "active": true,
+        "dateEvidence": {
+          "url": "https://bitdeer.breezy.hr/p/7a4083b2fdfe-senior-financial-systems-analyst",
+          "checkedAt": "2026-11-10T02:22:24.670Z",
+          "bodySha256": "9e92d919f8ba22310fcf4cff7d29b49761127e0d63ebfa5e59a0a66d31d170ae",
+          "provider": "breezy",
+          "datePosted": "2026-11-09"
+        },
+        "slug": "an118"
+      },
+      "payload": {
+        "text": "Bitdeer is hiring Senior Financial Systems Analyst\n\nhttps://hashtagweb3.com/an118/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/an118/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "61d65853-b8bf-4d31-9d74-a899a705b1a9",
+      "verification": "creating"
     }
   ]
 }
