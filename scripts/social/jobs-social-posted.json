@@ -180160,7 +180160,8 @@
       },
       "account": "channel:founders",
       "attemptId": "dfe0366c-a0bb-43b2-a575-2b5364460771",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd18304371cf98c0d4f0b99716088a52f2fa807ad"
     }
   ]
 }
