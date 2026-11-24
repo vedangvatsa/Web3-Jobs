@@ -178664,7 +178664,8 @@
       },
       "account": "channel:product",
       "attemptId": "a1a1b3ab-f6b5-47d1-a945-3803426e0307",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x967e4cb0ae15c35c5752adccca4f18b9aa92e584"
     }
   ]
 }
