@@ -76,7 +76,7 @@ Each entry links to its formatted description and original source file. All stor
 | [WalletConnect Pop Up @ BBW, Bangkok](descriptions.md#event-378498d55d42f645) | 2026-11-28 | Source-backed (1432 chars) |
 | [BORN UP — Binance Blockchain Week Bangkok Community Networking Meetup](descriptions.md#event-033cb820c4409ff7) | 2026-11-28 | Source-backed (1848 chars) |
 | [Protocol Camp Mid Demo](descriptions.md#event-8c5571a38f2d2711) | 2026-11-28 | Source-backed (5312 chars) |
-| [Binance Blockchain Week 2026](descriptions.md#event-c1053a9caacfabc8) | 2026-11-28 | Source-backed (769 chars) |
+| [Binance Blockchain Week 2026](descriptions.md#event-c1053a9caacfabc8) | 2026-11-28 | Source-backed (1154 chars) |
 | [CryptoCon Sydney 2026](descriptions.md#event-99a91ef39510a040) | 2026-11-28 | Source-backed (4399 chars) |
 | [Next Builders: Bangkok Afterparty](descriptions.md#event-2e3b9313d28e170c) | 2026-11-28 | Source-backed (5015 chars) |
 | [Milady Rave Binance Week](descriptions.md#event-f9d4fc1ec17b84a0) | 2026-11-28 | Source-backed (1099 chars) |
@@ -112,8 +112,8 @@ Each entry links to its formatted description and original source file. All stor
 | [Consensus Miami 2027](descriptions.md#event-a789ceddb778530b) | 2027-05-04 | Source-backed (1995 chars) |
 | [ETHDam Amsterdam 2027](descriptions.md#event-170a366959037179) | 2027-05-07 | Unverified stored copy (150 chars) |
 | [ETHPrague 2027](descriptions.md#event-245292a9057b020f) | 2027-05-14 | Unverified stored copy (159 chars) |
-| [Vienna Blockchain Week 2027](descriptions.md#event-d8dfb9ec12d44c85) | 2027-06-02 | Source-backed (675 chars) |
-| [Africa Prediction Markets Summit 2027](descriptions.md#event-c8701368fa2d4239) | 2027-06-03 | Source-backed (660 chars) |
+| [Vienna Blockchain Week 2027](descriptions.md#event-d8dfb9ec12d44c85) | 2027-06-02 | Source-backed (980 chars) |
+| [Africa Prediction Markets Summit 2027](descriptions.md#event-c8701368fa2d4239) | 2027-06-03 | Source-backed (1009 chars) |
 | [ETHBelgrade 2027](descriptions.md#event-f15fa38a50dfad4a) | 2027-06-03 | Unverified stored copy (134 chars) |
 | [Australian Blockchain Week 2027](descriptions.md#event-8c8b9a2333f8493d) | 2027-06-08 | Unverified stored copy (181 chars) |
 | [Japan Blockchain Week 2027](descriptions.md#event-09b35c401b710e45) | 2027-07-01 | Unverified stored copy (161 chars) |
@@ -682,7 +682,7 @@ Each entry links to its formatted description and original source file. All stor
 | [The Alpha Table](descriptions.md#event-7e66b380210abbbd) | 2026-11-29 | Source-backed (1882 chars) |
 | [币圈首届格斗赛事](descriptions.md#event-df6299c5d64982a1) | 2026-11-29 | Source-backed (978 chars) |
 | [BLOCK MONDAYS - NETWORK EVENT - KICK OFF - BLOCKCHAIN WEEK DUBAI BY ECOX NETWORK](descriptions.md#event-bdc0ee117de627c0) | 2026-11-30 | Source-backed (1253 chars) |
-| [Sky Dive Dubai - BingX Dubai Week 5.0](descriptions.md#event-96db4683316c61bc) | 2026-11-30 | Source-backed (627 chars) |
+| [Sky Dive Dubai - BingX Dubai Week 5.0](descriptions.md#event-96db4683316c61bc) | 2026-11-30 | Source-backed (1093 chars) |
 | [ASTER COMMUNITY COURT](descriptions.md#event-6a940ddbe1e71e5b) | 2026-11-30 | Source-backed (2310 chars) |
 | [「魔界の税理士 × ★しゅん」 カソツーの税金ぶっちゃけトーク！｜OrbsCafe #27](descriptions.md#event-9fc5438092fc64f2) | 2026-11-30 | Source-backed (2200 chars) |
 | [Daos Week - Institutional & Stablecoins Summit](descriptions.md#event-3493a8554fda3c68) | 2026-11-30 | Source-backed (1193 chars) |
@@ -692,7 +692,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Mining Discovery: Your First Bittensor Mining Competition](descriptions.md#event-b797c9b8ed5004d6) | 2026-11-30 | Source-backed (1097 chars) |
 | [Liquidity Whales Hookah Night by CoinW & ArbitrageScanner.io](descriptions.md#event-052d3f468dbb9336) | 2026-11-30 | Source-backed (4681 chars) |
 | [BingX Banya - BingX Dubai Week 5.0](descriptions.md#event-93e744ff23fa746b) | 2026-11-30 | Source-backed (1353 chars) |
-| [INVEST YACHT BY CONNECT & CIFRA MARKETS](descriptions.md#event-5becf09343909020) | 2026-11-30 | Source-backed (872 chars) |
+| [INVEST YACHT BY CONNECT & CIFRA MARKETS](descriptions.md#event-5becf09343909020) | 2026-11-30 | Source-backed (847 chars) |
 | [Stripe Breakfast @ re:Invent](descriptions.md#event-7f2832b08d96ca71) | 2026-11-30 | Source-backed (905 chars) |
 | [Web3MD \| Baltimore Tech Community Meetup](descriptions.md#event-ac03ee258b092213) | 2026-11-30 | Source-backed (1790 chars) |
 | [Tech Community Meetup · Arizona Crypto & Blockchain Builders · Phoenix · November 30](descriptions.md#event-db96f323eb523712) | 2026-12-01 | Source-backed (1213 chars) |
@@ -707,7 +707,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Diner privé entrepreneurs, investisseurs - Sur invitation](descriptions.md#event-6eb9fa6b604e7477) | 2026-12-01 | Source-backed (1072 chars) |
 | [Dubai Tech Tuesdays No. 126 - Details Coming Soon!](descriptions.md#event-20f34d7e68d83bfd) | 2026-12-01 | Source-backed (2649 chars) |
 | [Project Harmonia Paris: Allfunds x Solana](descriptions.md#event-308d4e6ee1ad2045) | 2026-12-01 | Source-backed (2768 chars) |
-| [NETWORKING EVENING ABOUT TECHNOLOGY AND INVESTMENTS](descriptions.md#event-f3efb5dd4a87daa4) | 2026-12-01 | Source-backed (813 chars) |
+| [NETWORKING EVENING ABOUT TECHNOLOGY AND INVESTMENTS](descriptions.md#event-f3efb5dd4a87daa4) | 2026-12-01 | Source-backed (1104 chars) |
 | [Tokenized Assets Are Here. Is Your Desk Ready to Trade Them?](descriptions.md#event-50a7488c784586ed) | 2026-12-01 | Source-backed (1380 chars) |
 | [BitDevs Toronto](descriptions.md#event-fb293653b407bf9b) | 2026-12-01 | Source-backed (955 chars) |
 | [Denver BitDevs at The Space](descriptions.md#event-0aa0e52d37677b93) | 2026-12-02 | Source-backed (1334 chars) |
@@ -742,7 +742,7 @@ Each entry links to its formatted description and original source file. All stor
 | [BitDevs CDMX 018 - Seminario Socrático Técnico de Bitcoin](descriptions.md#event-d4ad868b93c6e15c) | 2026-12-04 | Source-backed (1358 chars) |
 | [JLlinkAI：AI × FinTech Innovation Summit 2026（2nd）](descriptions.md#event-4444a589ff942bcf) | 2026-12-04 | Source-backed (2163 chars) |
 | [OneCloud Digital Native Summit](descriptions.md#event-ffe8939042cacc9b) | 2026-12-04 | Source-backed (5081 chars) |
-| [F1 Abu-Dhabi Grand-Prix - BingX Dubai Week 5.0](descriptions.md#event-463bf1ff8178d85d) | 2026-12-04 | Source-backed (634 chars) |
+| [F1 Abu-Dhabi Grand-Prix - BingX Dubai Week 5.0](descriptions.md#event-463bf1ff8178d85d) | 2026-12-04 | Source-backed (1127 chars) |
 | [THE NEX•T DUBAI 2026](descriptions.md#event-c104cd98b3c23ba4) | 2026-12-04 | Source-backed (1405 chars) |
 | [TBB First Friday](descriptions.md#event-be5372480e4ba1bb) | 2026-12-04 | Source-backed (1993 chars) |
 | [F1 Abu Dhabi Grand Prix · Mega Yacht](descriptions.md#event-af0b1432e7c2b5bd) | 2026-12-04 | Source-backed (2360 chars) |
@@ -755,7 +755,7 @@ Each entry links to its formatted description and original source file. All stor
 | [🇦🇪 Family Offices Investors Summit 🥂🕯Michelin‑Dinner📍Abu Dhabi Finance Week #F1 #ADFW 📍Dec 6 3-6 PM, 2026](descriptions.md#event-a6b0d5ee8f2772de) | 2026-12-06 | Source-backed (6588 chars) |
 | [Ecox Network - Block Mondays Dubai](descriptions.md#event-ede53e4442e20175) | 2026-12-07 | Source-backed (1329 chars) |
 | [Agentic Payments Korea](descriptions.md#event-27d25a997321f741) | 2026-12-07 | Source-backed (4120 chars) |
-| [Further Network Summit 2026 ADFW](descriptions.md#event-eab312ff799232ae) | 2026-12-07 | Source-backed (731 chars) |
+| [Further Network Summit 2026 ADFW](descriptions.md#event-eab312ff799232ae) | 2026-12-07 | Source-backed (1193 chars) |
 | [第33回 CORGEAR Night ～仮想NISHIと振り返る2026年のWeb3 — コーギアナイト忘年会～](descriptions.md#event-b747908dcbd07600) | 2026-12-07 | Source-backed (1932 chars) |
 | [Meet Manus 2.0 \| Dubai \| Session #1](descriptions.md#event-c0d32c3dac70ed84) | 2026-12-07 | Source-backed (1453 chars) |
 | [Digital Asset Summit - The Opening Night](descriptions.md#event-649bb3ed7bcd57b2) | 2026-12-07 | Source-backed (1968 chars) |
@@ -771,7 +771,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Solana Coffee Connect](descriptions.md#event-2500d5d89edd8441) | 2026-12-08 | Source-backed (942 chars) |
 | [Merkle Science Meet Abu Dhabi](descriptions.md#event-87f800a77548de80) | 2026-12-08 | Source-backed (4725 chars) |
 | [Allocator x Portfolio Manager Showcase](descriptions.md#event-525c01af92859ca4) | 2026-12-08 | Source-backed (902 chars) |
-| [AI X GPU Pre Summit : AI leaders Connect](descriptions.md#event-59ab476601dcca78) | 2026-12-08 | Source-backed (692 chars) |
+| [AI X GPU Pre Summit : AI leaders Connect](descriptions.md#event-59ab476601dcca78) | 2026-12-08 | Source-backed (786 chars) |
 | [FutureFinance Connect](descriptions.md#event-825c91c518fd8f8f) | 2026-12-08 | Source-backed (2319 chars) |
 | [GITEX Networking Yacht Cruise](descriptions.md#event-89714bdb1454e62b) | 2026-12-08 | Source-backed (1766 chars) |
 | [Private Dinner by nSureAI](descriptions.md#event-a581ae021b8347c6) | 2026-12-08 | Source-backed (3706 chars) |
@@ -791,7 +791,7 @@ Each entry links to its formatted description and original source file. All stor
 | [ReCON - Coinspiracy II](descriptions.md#event-9945b157b0bcda0d) | 2026-12-10 | Source-backed (1124 chars) |
 | [Digital Money & Markets Forum](descriptions.md#event-504524ff0960d3d3) | 2026-12-10 | Source-backed (3290 chars) |
 | [Cibersegurança na era da IA](descriptions.md#event-d531dc7094e2aee1) | 2026-12-10 | Source-backed (2430 chars) |
-| [LONGITUDE, 11th edition](descriptions.md#event-6b2ff2920bfe421b) | 2026-12-10 | Source-backed (796 chars) |
+| [LONGITUDE, 11th edition](descriptions.md#event-6b2ff2920bfe421b) | 2026-12-10 | Source-backed (1198 chars) |
 | [Solana Social Mixer](descriptions.md#event-ea63687b38251128) | 2026-12-10 | Source-backed (1130 chars) |
 | [Driven by Dreams- Take the Wheel: SFTL Christmass Event](descriptions.md#event-4fc5db4bc4e6c3a8) | 2026-12-10 | Source-backed (3171 chars) |
 | [CWC x Sosoul: A Breathwork Evening](descriptions.md#event-bd5f3f6f9c21e859) | 2026-12-10 | Source-backed (3679 chars) |
@@ -836,7 +836,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Tacnode APEX @ Token2049 Dubai](descriptions.md#event-09d4412367374693) | 2027-04-20 | Source-backed (875 chars) |
 | [Solana Breakpoint 2027](descriptions.md#event-b5c938d93c0fa7e9) | 2027-09-08 | Source-backed (1219 chars) |
 | [Fintech Week London Summit 2027](descriptions.md#event-5298c944b7690c9f) | 2027-09-21 | Source-backed (2926 chars) |
-| [Dubai 2027 Venture Capital World Summit](descriptions.md#event-1fb1c812b7a8406b) | 2027-10-19 | Source-backed (631 chars) |
+| [Dubai 2027 Venture Capital World Summit](descriptions.md#event-1fb1c812b7a8406b) | 2027-10-19 | Source-backed (1757 chars) |
 
 ## luma-batch-events.json
 
@@ -2153,7 +2153,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Agendamento Fotografias Comerciais Jardim Botânico UFJF](descriptions.md#event-4334dad7ce2ab6c5) | 2026-12-07 | Unverified stored copy (17 chars) |
 | [CryptoMondays Vegas • Digital Identity, Keys & AI Agents](descriptions.md#event-9ed5ed61c54f838b) | 2026-12-07 | Unverified stored copy (81 chars) |
 | [Crypto Networking December Drinks at The Gherkin](descriptions.md#event-f3f5503d7401a157) | 2026-12-07 | Unverified stored copy (140 chars) |
-| [Bitcoin Mena](descriptions.md#event-b284437ff5eb87a8) | 2026-12-07 | Source-backed (736 chars) |
+| [Bitcoin Mena](descriptions.md#event-b284437ff5eb87a8) | 2026-12-07 | Source-backed (2294 chars) |
 | [Abu Dhabi Finance Week](descriptions.md#event-3179a55bc68f7c20) | 2026-12-07 | Source-backed (2252 chars) |
 | [Solana Padel Match](descriptions.md#event-37203d173fc562f4) | 2026-12-07 | Missing (0 chars) |
 | [Solana Padel Match](descriptions.md#event-1dcbca9e04036d3b) | 2026-12-07 | Missing (0 chars) |
@@ -2183,7 +2183,7 @@ Each entry links to its formatted description and original source file. All stor
 | [GPs & LPs Cocktail Hour ✨ ADFW - Abu Dhabi](descriptions.md#event-9c1f8e26e098a22d) | 2026-12-08 | Unverified stored copy (133 chars) |
 | [Allocator x Portfolio Manager Showcase](descriptions.md#event-063e713e8a943e79) | 2026-12-08 | Source-backed (902 chars) |
 | [THE INSTITUTIONAL HOUSE: Where RWAs, Stablecoins & AI Meet Onchain Liquidity \| During Abu Dhabi Finance Week](descriptions.md#event-0695c94848827f58) | 2026-12-08 | Unverified stored copy (144 chars) |
-| [Tokenize & Connect Abu Dhabi](descriptions.md#event-4bfc35b8c418f3b5) | 2026-12-08 | Source-backed (727 chars) |
+| [Tokenize & Connect Abu Dhabi](descriptions.md#event-4bfc35b8c418f3b5) | 2026-12-08 | Source-backed (1148 chars) |
 | [Bridging the Rails: A 360° View on Cross-Border Fiat and Stablecoin Payments](descriptions.md#event-1fb6b1c42dc5d7ce) | 2026-12-08 | Missing (0 chars) |
 | [FutureFinance Connect](descriptions.md#event-10c945b32a43c518) | 2026-12-08 | Source-backed (2319 chars) |
 | [ADFW Soirée by Soter Insure & Galaxy](descriptions.md#event-ae3bdb1935de1545) | 2026-12-08 | Source-backed (2247 chars) |
@@ -2258,7 +2258,7 @@ Each entry links to its formatted description and original source file. All stor
 | [ZK Learning Group: Wrap-up 2026, ZK order book matching](descriptions.md#event-6081909dd6f89f5e) | 2026-12-10 | Unverified stored copy (200 chars) |
 | [DevEx Hackathon](descriptions.md#event-9870f4ea9ff34d8a) | 2026-12-10 | Unverified stored copy (142 chars) |
 | [LONGITUDE 2026 Abu Dhabi](descriptions.md#event-f98735502e908d0e) | 2026-12-10 | Unverified stored copy (132 chars) |
-| [After Hours : ADFW Edition \| Powered by Checkout.com](descriptions.md#event-5bf374f5047bf8f5) | 2026-12-10 | Source-backed (367 chars) |
+| [After Hours : ADFW Edition \| Powered by Checkout.com](descriptions.md#event-5bf374f5047bf8f5) | 2026-12-10 | Source-backed (2462 chars) |
 | [Solana Demo & Dine](descriptions.md#event-9fcb34391e51ca5e) | 2026-12-10 | Missing (0 chars) |
 | [Geneva Web3 Christmas Connect 🎄](descriptions.md#event-370e9c42a304c34e) | 2026-12-10 | Missing (0 chars) |
 | [Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines](descriptions.md#event-d26d4bc890d9e93e) | 2026-12-10 | Unverified stored copy (200 chars) |
@@ -2464,7 +2464,7 @@ Each entry links to its formatted description and original source file. All stor
 | [HackerX - São Paulo (AI) - Employer Ticket - 5/27](descriptions.md#event-c461709b3a97861f) | 2027-05-27 | Unverified stored copy (64 chars) |
 | [NFC Summit 2027](descriptions.md#event-0a6d7bf8edcdcdb0) | 2027-05-27 | Source-backed (736 chars) |
 | [NFC Summit 2027](descriptions.md#event-a86afab8233d0e9a) | 2027-05-27 | Unverified stored copy (35 chars) |
-| [Adopting Bitcoin Arnhem 2027](descriptions.md#event-9813b78a5d94c0c1) | 2027-05-28 | Source-backed (227 chars) |
+| [Adopting Bitcoin Arnhem 2027](descriptions.md#event-9813b78a5d94c0c1) | 2027-05-28 | Source-backed (1429 chars) |
 | [Adopting Bitcoin Arnhem 2027](descriptions.md#event-86864c7e3120a6db) | 2027-05-28 | Unverified stored copy (200 chars) |
 | [ETHPrague 2027](descriptions.md#event-d842aa7cef96f185) | 2027-05-28 | Unverified stored copy (169 chars) |
 | [Proof of Talk Paris 2027](descriptions.md#event-0b44ae9270246f83) | 2027-06-02 | Unverified stored copy (200 chars) |

@@ -1970,17 +1970,31 @@ About the organiser: ShardLab is the innovation arm of Hashed, a leading global 
 
 ### About the event
 
+Home - Binance Blockchain Week 2026 | Bangkok, Nov 28-29
+
+Skip to main content
+
+In partnership with BINANCE TH
+
 One of the biggest dates in the crypto calendar returns for a special Asia edition live from Bangkok, Thailand, this November.
+
+### QUEEN SIRIKIT NATIONAL CONVENTION CENTER | NOVEMBER 28-29
+
+The world's leading fintech minds. One unmissable event.
+
+### LIMITED EARLY-BIRD TICKETS ON SALE NOW AT $59!
+
+(Full ticket price $129)
 
 Finance is making an evolutionary leap and this year's Binance Blockchain Week theme, EVOLVE, is built around it.
 
 TradFi and blockchain are converging, and the markets that once ran on business hours are becoming global, open and always-on.
 
-At the same time, AI is transforming how freely people move, manage and grow their money, carrying us toward a world where financial freedom is effortless and self-directed.
+At the same time, AI is transforming how freely people move, manage and grow their money carrying us toward a world where financial freedom is effortless and self-directed.
+
+Empowerment for millions.
 
 The definition of finance is being rewritten in real time. EVOLVE is our recognition that we're not just watching that happen - we're part of the evolution.
-
-For speaking opportunities, please submit interest via this form.
 
 <a id="event-99a91ef39510a040"></a>
 
@@ -3044,11 +3058,17 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Vienna Blockchain Week runs on June 2 and 3, 2027, for banks, asset managers, regulators, investors, exchanges and technology providers.
+Vienna Blockchain Week runs on June 2 and 3, 2027, for banks, asset managers, regulators, investors, exchanges and technology providers. Six announced themes cover institutional digital assets, stablecoins and payments, tokenization, regulation and MiCA, infrastructure, and AI in finance. The full timetable and speakers are to be confirmed; the site's selected VBW26 lineup is from the previous edition. VBW Connect supports arranging one-to-one meetings. The planned formats also include institutional roundtables, an investor breakfast and a private evening for speakers, partners and selected guests. Check eligibility and access for each format through the organizer
 
-Six announced themes cover institutional digital assets, stablecoins and payments, tokenization, regulation and MiCA, infrastructure, and AI in finance. The full timetable and speakers are to be confirmed; the site's selected VBW26 lineup is from the previous edition.
+### Event details
 
-VBW Connect supports arranging one-to-one meetings. The planned formats also include institutional roundtables, an investor breakfast and a private evening for speakers, partners and selected guests. Check eligibility and access for each format through the organizer.
+Date: Jun 2 - 3, 2027, 07:00
+
+Venue: Vienna, Austria
+
+Event page: https://viennablockchainweek.org/
+
+This listing reflects the organizer's published information for Vienna Blockchain Week 2027 on Jun 2 - 3, 2027 in Vienna, AT. Register and confirm ticket inclusions on the official event page.
 
 <a id="event-c8701368fa2d4239"></a>
 
@@ -3062,11 +3082,17 @@ VBW Connect supports arranging one-to-one meetings. The planned formats also inc
 
 ### About the event
 
-Africa Prediction Markets Summit now advertises June 3 and 4, 2027, in Cape Town, replacing the previously listed November 2026 date. It brings together prediction-market platforms, builders, investors, policymakers and researchers.
+Africa Prediction Markets Summit now advertises June 3 and 4, 2027, in Cape Town, replacing the previously listed November 2026 date. It brings together prediction-market platforms, builders, investors, policymakers and researchers. The published program covers market design, liquidity, regulation, public trust and use cases in elections, sports, finance and media. A foundations workshop explains prediction-market mechanics and applications. Tickets include talks, panels, workshops, meals and refreshments. The page's agenda and FAQ still describe a one-day format despite the two-day date banner, so confirm the final daily schedule with the organizer
 
-The published program covers market design, liquidity, regulation, public trust and use cases in elections, sports, finance and media. A foundations workshop explains prediction-market mechanics and applications.
+### Event details
 
-Tickets include talks, panels, workshops, meals and refreshments. The page's agenda and FAQ still describe a one-day format despite the two-day date banner, so confirm the final daily schedule with the organizer.
+Date: Jun 3 - 4, 2027, 00:00
+
+Venue: Cape Town, South Africa
+
+Event page: https://www.africapredictionmarketssummit.com/
+
+This listing reflects the organizer's published information for Africa Prediction Markets Summit 2027 on Jun 3 - 4, 2027 in Cape Town, South Africa. Register and confirm ticket inclusions on the official event page.
 
 <a id="event-f15fa38a50dfad4a"></a>
 
@@ -21263,6 +21289,28 @@ Access: Registration required via Luma. RSVP is required for venue entry; bevera
 
 ### About the event
 
+Sky Dive Dubai - BingX Dubai Week 5.0 - LumaSkip to Content
+
+Hosted By
+
+Eugene BingX
+
+Crypto
+
+Sky Dive Dubai - BingX Dubai Week 5.0
+
+Hosted by Eugene BingX
+
+Register to See Address
+
+### Registration
+
+Registration Closed
+
+This event is not currently taking registrations. You may contact the host or subscribe to receive updates.
+
+### About Event
+
 Freefall from thousands of feet above Dubai's iconic Palm Jumeirah for a once-in-a-lifetime view few ever get to see. An adrenaline rush and a bucket-list moment, all in one jump. No need to be scared, as you won't be doing it alone, as BingX partners and influencers will gather for this event.
 
 Become a part of BingX Dubai Week 5.0 - activities that bring connections, inspiration and growth in ever-changing crypto world.
@@ -21278,6 +21326,16 @@ Location for the event is revealed upon approval.
 For urgent inquiries only:
 
 Telegram: @eugenebingx
+
+### Location
+
+Please register to see the exact location of this event.
+
+Hosted By
+
+Eugene BingX
+
+Crypto
 
 <a id="event-6a940ddbe1e71e5b"></a>
 
@@ -21945,7 +22003,7 @@ Nikita Anufriev - Creator of the leading Russian-language crypto podcast Headlin
 
 Thomas Kralov - Chairman of Evedex and crypto expert with 2.5M+ social media followers.
 
-Discover more on our website (https://connectim.pro/invest_yacht)
+Discover more on our website
 
 <a id="event-7f2832b08d96ca71"></a>
 
@@ -22577,6 +22635,26 @@ registration for approval for entry. Limited spaces available, even after confir
 
 ### About the event
 
+NETWORKING EVENING ABOUT TECHNOLOGY AND INVESTMENTS - LumaSkip to Content
+
+Hosted By
+
+Connect+
+
+1 Going
+
+### NETWORKING EVENING ABOUT TECHNOLOGY AND INVESTMENTS
+
+Hosted by Connect+
+
+To Be Announced
+
+### Registration
+
+Welcome! To join the event, please register below.
+
+### About Event
+
 An evening for those who follow the development of technology, are interested in investments, and want to be at the center of current industry events. Live interaction with market leaders, an exchange of opinions, and the opportunity to discuss the future of technology and finance.
 
 Special guests:
@@ -22587,9 +22665,15 @@ Sergey Sergienko is the founder of Chrono.tech, a company that develops products
 
 Alex Ruso is the founder of CryptoMania & Dubai NFT Day.
 
-Find out more on the website (https://connectim.pro/networking_dubai)
+Find out more on the website
 
 To purchase a ticket and for any questions, contact the manager via Telegram @Connect_Assistant
+
+Hosted By
+
+Connect+
+
+1 Going
 
 <a id="event-50a7488c784586ed"></a>
 
@@ -24201,6 +24285,28 @@ AWS 提供全球领先且功能全面的云平台，帮助企业利用云基础�
 
 ### About the event
 
+F1 Abu-Dhabi Grand-Prix - BingX Dubai Week 5.0 - LumaSkip to Content
+
+Hosted By
+
+Eugene BingX
+
+Crypto
+
+F1 Abu-Dhabi Grand-Prix - BingX Dubai Week 5.0
+
+Hosted by Eugene BingX
+
+Register to See Address
+
+### Registration
+
+Registration Closed
+
+This event is not currently taking registrations. You may contact the host or subscribe to receive updates.
+
+### About Event
+
 Join top BingX partners and opinion leaders in a final moment of F1 season. Feel the roar of engines trackside at the legendary Yas Marina Circuit in Abu-Dhabi. Experience world-class racing, elite hospitality, and the electric energy of Formula 1 at its season finale in a great company.
 
 Become a part of BingX Dubai Week 5.0 - activities that bring connections, inspiration and growth in ever-changing crypto world.
@@ -24216,6 +24322,16 @@ Location for the event is revealed upon approval.
 For urgent inquiries only:
 
 Telegram: @eugenebingx
+
+### Location
+
+Please register to see the exact location of this event.
+
+Hosted By
+
+Eugene BingX
+
+Crypto
 
 <a id="event-c104cd98b3c23ba4"></a>
 
@@ -24878,6 +24994,16 @@ Now in its fourth edition, the #FurtherNetworkSummit will take place on the ADCB
 We automatically decline submissions that leave the referral field blank or only include a name without any context
 
 Our past editions:
+
+Further Network Summit 2025 - https://luma.com/event/evt-0PyQbmemKROHsbf
+
+Further Network Summit 2024 - https://luma.com/event/evt-IkNggk3EeZ4eawg
+
+Further Network Summit - https://luma.com/event/evt-UiVR7ZkC84jNuLP
+
+Hosts Further Ventures - Further Ventures builds and invests in companies powering financial markets of the future.
+
+About the organiser: Further Ventures builds and invests in companies powering financial markets of the future.
 
 <a id="event-b747908dcbd07600"></a>
 
@@ -26927,13 +27053,53 @@ Este evento faz parte da Semana Acadêmica da Pós-Graduação e é uma iniciati
 
 ### About the event
 
-LONGITUDE (https://cointelegraph-longitude.com/?utm_source=luma&referrer=luma) by Cointelegraph is an invitation-only gathering where institutional finance meets Web3 by design.
+LONGITUDE, 11th edition - LumaSkip to Content
+
+Hosted By
+
+Cointelegraph
+
+Crypto
+
+Featured in Abu Dhabi Finance Week
+
+LONGITUDE, 11th edition
+
+Hosted by Cointelegraph
+
+Abu Dhabi
+
+Abu Dhabi, United Arab Emirates
+
+### Registration
+
+Approval Required
+
+Your registration is subject to host approval.
+
+Welcome! To join the event, please register below.
+
+### About Event
+
+LONGITUDE by Cointelegraph is an invitation-only gathering where institutional finance meets Web3 by design.
 
 Bringing together up to 250 carefully selected senior decision-makers, the event will connect banks, payment providers, asset managers, venture capital firms, custodians, market makers and regulators with leading blockchain infrastructure, RWA tokenisation platforms, exchanges, stablecoin issuers and DeFi protocols - all in one highly curated room.
 
 The programme will feature insightful discussions led by renowned industry leaders and Cointelegraph's editorial team.
 
 LONGITUDE is built around intentional introductions, strategic dialogue and premium hospitality ensuring every conversation happens with purpose.
+
+### Location
+
+Abu Dhabi
+
+Abu Dhabi - United Arab Emirates
+
+Hosted By
+
+Cointelegraph
+
+Crypto
 
 <a id="event-ea63687b38251128"></a>
 
@@ -28940,11 +29106,63 @@ Anyone working across AI, fintech, payments, crypto, tokenisation and blockchain
 - Description: Source-backed
 - Original page: <https://luma.com/loawlhnc>
 
-### Global community for investors and investees
+### About the event
+
+Dubai 2027 Venture Capital World Summit - LumaSkip to Content
+
+Presented by
+
+Venture Capital World Summit
+
+The Venture Capital World Summit offers a series of investment conferences the World, fostering a global community for investors and investees.
+
+Hosted By
+
+Elio Assuncao
+
+Dubai 2027 Venture Capital World Summit
+
+Venture Capital World Summit
+
+One Offices | One Za'abeel By The Executive Centre
+
+Dubai, United Arab Emirates
+
+### Registration
+
+Approval Required
+
+Your registration is subject to host approval.
+
+Welcome! To join the event, please register below.
+
+### About Event
+
+Venture Capital World Summit, World Series Seasons of Investment Conferences
+
+Global community for investors and investees
 
 Here to help businesses get more capital and expertise as they need to scale up, and grow internationally with the support if required from our trusted network of investors
 
 Our message to international businesses and entrepreneurs is simple: attend our international events and get in touch well before. We want to help as many entrepreneurs as possible to get the investment and international opportunities via our trusted network. When your business and your community prospers, everyone prospers.
+
+### Location
+
+One Offices | One Za'abeel By The Executive Centre
+
+Levels 5 and 6, One - 2nd St - Zaa'beel First - Za'abeel - Dubai - United Arab Emirates
+
+Presented by
+
+Venture Capital World Summit
+
+The Venture Capital World Summit offers a series of investment conferences the World, fostering a global community for investors and investees.
+
+Hosted By
+
+Elio Assuncao
+
+About the organiser: The Venture Capital World Summit offers a series of investment conferences the World, fostering a global community for investors and investees.
 
 <a id="event-1d6b8a299bf3b2f2"></a>
 
@@ -46886,19 +47104,34 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Following extensive discussions with our local partners, we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.
+Following extensive discussions with our local partners we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.
 
-### Organizer update
+We understand that many of you have made arrangements, and we take this situation very seriously. Our preparations were fully in motion and the momentum was strong. However, delivering the uncompromised, full-strength experience that the global Bitcoin community expects from Bitcoin MENA is more important to us than sticking to a specific schedule. This postponement allows us the necessary space to achieve that goal.
 
-The organizer is committed to returning to the UAE in Winter 2027. Exact new dates have not been announced. The previous December 2026 dates should not be used for travel planning.
+The UAE continues to be a market we are deeply committed to for Bitcoin's growth, and our conviction remains steadfast. We extend our sincere gratitude to our partners and everyone who has collaborated with us so far, and we look forward to returning even stronger in Winter 2027.
 
-### Existing tickets
+### What this means if you have a ticket
 
-Your ticket automatically carries over to the new dates. You do not need to do anything. Ticket holders may also request a refund through the organizer's contact form.
+- Hold it for 2027. Your ticket automatically carries over to the new dates. You do not need to do anything.
+- Request a refund. If neither option works for you, get in touch through our contact form and our team will help you from there.
 
-### Sponsors
+### What this means if you are a sponsor
 
-Your commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers.
+Nothing gets lost. Your commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers. If you have questions in the meantime, reach out anytime through our contact form.
+
+### Already booked travel?
+
+We know some of you have already booked flights or accommodation. We would recommend reaching out to your airline or hotel directly to look at your options for changing or cancelling. If we can help point you in the right direction, get in touch and we will do what we can.
+
+### Looking ahead
+
+Bitcoin MENA will be back in 2027. Until then, the next place the community gathers is Bitcoin Amsterdam, November 5th to 6th, 2026, Bitcoin 2027 in Nashville, Tennessee July 15-17, 2027, and Bitcoin Hong Kong, August 26 to 27, 2027 in Hong Kong. We would love to see you there.
+
+Thank you for your patience, your support, and for being part of this community. It means everything to us.
+
+### Contact
+
+Questions about tickets, sponsorships, or transfers? Our team is here to help. Reach us through our contact form.
 
 <a id="event-3179a55bc68f7c20"></a>
 
@@ -47447,6 +47680,10 @@ TOKENIZE & CONNECT By Digital Asset Summit ME- Is an Institutional Grade Tokeniz
 ### About Zoniqx
 
 Zoniqx provides neutral operating infrastructure for tokenized real-world assets. Issuers and financial institutions use it to structure, issue, govern and manage assets across asset classes throughout their lifecycle. Through participating distribution networks, family offices and institutional investors can access a range of offerings, including private credit, investment funds, bonds, real estate and sukuk. The rules governing who can hold or transfer each asset travel with it across supported blockchains, custodians and platforms.
+
+Hosts Digital Asset Summit ME - Digital Asset Summit ME hosts private,invitation-only events & evenings in Abu Dhabi and Dubai for the investors and infrastructure builders
+
+About the organiser: Digital Asset Summit ME hosts private, invitation-only evenings in Abu Dhabi and Dubai.We bring investors together with the companies building stablecoins,tokenisation and digital asset infrastructure
 
 <a id="event-1fb6b1c42dc5d7ce"></a>
 
@@ -48532,7 +48769,35 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-After Hours ADFW Edition, powered by Checkout.com and curated by the MENA Fintech Association, is an invitation-only networking reception during Abu Dhabi Finance Week for senior fintech leaders, investors, regulators, and digital-asset innovators in Abu Dhabi on December 10, 2026. Attendance requires organiser approval; venue details are shared after confirmation.
+Join us for an exclusive After Hours gathering during Abu Dhabi Finance Week.
+
+By Invitation Only
+
+Curated by the MENA Fintech Association and proudly powered by Checkout.com (http://Checkout.com), this high-level networking reception will bring together an elite circle of fintech leaders, investors, regulators, and innovators shaping the future of financial services across the region.
+
+Venue details will be shared upon confirmation.
+
+Date: Tuesday, 10th December 2025
+
+Time: 6:30 PM
+
+Location: Abu Dhabi
+
+Note: Attendance is subject to confirmation. Capacity is limited, and priority will be given to senior executives and strategic partners.
+
+### About Checkout.com
+
+http://Checkout.com
+
+Checkout.com processes payments for thousands of companies that shape the digital economy. Our global digital payments network supports over 145 currencies and delivers high-performance payment solutions across the world, processing billions of transactions annually. We help enterprise merchants boost acceptance rates, reduce processing costs, combat fraud, and turn payments into a major revenue driver.
+
+Headquartered in London and with 19 offices worldwide, Checkout.com (http://Checkout.com) is trusted by leading brands such as Alshaya Group, Botim, eBay, Dyson, HungerStation, Instashop, Qlub, Majid Al Futtaim, Netflix, SHEIN, Sony and Tamara.
+
+نبذة عن Checkout.com (http://Checkout.com) تعمل شركة Checkout.com (http://Checkout.com) على معالجة المدفوعات لآلاف الشركات التي تشكل الاقتصاد الرقمي. تتميز الشبكة العالمية للمدفوعات الرقمية لـ Checkout.com (http://Checkout.com) بدعم أكثر من 145 عملة وتقديم حلول دفع عالية الأداء في جميع أنحاء العالم، مع معالجة مليارات المعاملات سنوياً. من خلال تقنية مرنة وقابلة للتوسع، نساعد تجارنا والمؤسسات التي نعمل معها على زيادة معدلات القبول، وتقليل تكاليف المعالجة، ومكافحة الاحتيال، وتحويل المدفوعات إلى دافع رئيسي للإيرادات.
+
+يقع المقر الرئيسي لشركة Checkout.com (http://Checkout.com) في لندن، ولها 19 مكتباً حول العالم. تضم قائمة عملاء الشركة نخبة من العلامات التجارية العالمية والإقليمية مثل إنستاشوب، وإي باي، وبوتيم، وتمارا، ودايسون، وسوني، وشي إن، وكلوب، وماجد الفطيم، مجموعة الشايع، ونيتفليكس، وهنقرستيشن.
+
+Hosts The MENA Fintech Association - Founded in 2018, the MENA Fintech Association has earned recognition as one of the top 4 fintech bodies globally. Nameer Khan - Founder @ Fils Chairman @ MENA FINTECH ASSOCIATION LinkedIn: https://www.linkedin.com/in/nameerkhan
 
 <a id="event-9fcb34391e51ca5e"></a>
 
@@ -51278,9 +51543,21 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://nl27.adoptingbitcoin.org/>
 
-### About the event
+### Arnhem 2027
 
-Adopting Bitcoin Arnhem focuses on using Bitcoin as money and developing real-world adoption. The organizer has announced May 28-29, 2027, and opened ticket sales. The venue and 2027 speaker programme are still to be announced.
+Adopting Bitcoin Arnhem is part of the Adopting Bitcoin label which focusses on using bitcoin as money. We are a series of in-person gatherings where Bitcoiners and Bitcoin-curious individuals can connect, learn, and drive real-world Bitcoin adoption. As the longest running local bitcoin economy, Arnhem is proud to host another edition of Adopting Bitcoin Arnhem!
+
+### Speakers TBA
+
+Speakers for the Arnhem 2027 edition will be announced in the coming months. Are you a builder in the bitcoin space and want to share your work with peers in the bitcoin space?
+
+We are very thankful these cool parties are helping us make it happen!
+
+For sponsorship inquiries, organizing side events or general questions about Adopting Bitcoin Arnhem 2027, please write to us.
+
+Arnhem "Bitcoinstad" is the world's longest running local bitcoin economy and started in 2014. Dozens of shops, restaurants and services are accepting bitcoin. Arnhem had the first Burger King accepting bitcoin (2016) and the first SPAR accepting bitcoin (2014) the latter is still accepting bitcoin. You can find them all on BTCMap, but you can also check out the Arnhem Bitcoin City website for more information.
+
+Meanwhile... checkout the official website of Arnhem Bitcoin City. Relive the previous edition (2024). And of course see the Adopting Bitcoin website for other Adopting Bitcoin conferences!
 
 <a id="event-86864c7e3120a6db"></a>
 
