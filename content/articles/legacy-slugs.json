@@ -1,10 +1,18 @@
 {
-  "secscam": "sec-colorado-enforcement",
-  "trumpscam": "white-house-cybercrime-summit",
-  "coldcard-phish": "coldcard-x-incident",
-  "princescams": "prince-group-sanctions",
-  "qubicdrain": "qubic-mainnet-halt",
-  "polymarket-fraud": "polymarket-stolen-cards",
-  "godfather-fraud": "meta-ad-fraud-sentencing",
-  "fakeinterview": "binance-interview-hack"
+  "secscam": "secfirms",
+  "sec-colorado-enforcement": "secfirms",
+  "trumpscam": "whcyber",
+  "white-house-cybercrime-summit": "whcyber",
+  "coldcard-phish": "coldcardx",
+  "coldcard-x-incident": "coldcardx",
+  "princescams": "ofac41",
+  "prince-group-sanctions": "ofac41",
+  "qubicdrain": "qubichalt",
+  "qubic-mainnet-halt": "qubichalt",
+  "polymarket-fraud": "polycards",
+  "polymarket-stolen-cards": "polycards",
+  "godfather-fraud": "adamiza",
+  "meta-ad-fraud-sentencing": "adamiza",
+  "fakeinterview": "binanceint",
+  "binance-interview-hack": "binanceint"
 }

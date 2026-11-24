@@ -8,8 +8,8 @@
 - Likely triggers: (1) News pages with `*scam*` / `*phish*` slugs and bodies that quote scam playbooks (especially `/secscam`); (2) grant pages that scraped Airtable/Forms text (`fuel-grants` had “Do not submit passwords…”); (3) prior poisoned grant copy (e.g. Celo community fund casino spam) before Nov 24 cleanup.
 - **Shipped in repo (deploy required):**
   - `NewsEditorialNotice` on all `category: News` articles.
-  - Eight high-risk news slugs renamed (`secscam` → `/sec-colorado-enforcement`, etc.) with permanent 301s in `content/articles/legacy-slugs.json`.
-  - Softer SEC enforcement meta copy; complaint-summary body on `/sec-colorado-enforcement` no longer quotes wallet-payment steps.
+  - Eight high-risk news slugs renamed to short one-word URLs (`secscam` → `/secfirms`, etc.) with permanent 301s in `content/articles/legacy-slugs.json` (includes interim hyphenated slugs).
+  - Softer SEC enforcement meta copy; complaint-summary body on `/secfirms` no longer quotes wallet-payment steps.
   - `fuel-grants` manual repair; grant render/extract filters drop form-scrape junk; `test-grants.ts` rejects stored “Do not submit passwords…” copy.
 - **Still required after deploy:** spot-check live HTML on renamed URLs and a News article → Search Console **Security issues → Request review** (status will not clear until Google re-crawls and approves).
 **Site:** https://hashtagweb3.com (Firebase App Hosting, 35.219.200.9)
