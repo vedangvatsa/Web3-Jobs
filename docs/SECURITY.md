@@ -66,7 +66,7 @@ Built-in protections:
    - `CRON_SECRET`
    - All Firebase config vars
 
-   Configure matching values in **Firebase App Hosting** (backend `studio`) for runtime secrets the app needs in production.
+   Configure matching values in **Firebase App Hosting** (backend `web`) for runtime secrets the app needs in production.
 
 4. **Firestore Security Rules**
    Ensure subscribers collection has proper read/write rules:

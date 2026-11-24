@@ -191,19 +191,26 @@ async function runMiddlewareTests() {
     }
   }
 
-  console.log('\n7. Testing RFC rate-limit headers on HTML routes...');
+  console.log('\n7. Testing root redirect and RFC rate-limit headers on HTML routes...');
   try {
-    const home = await middleware(
+    const root = await middleware(
       new NextRequest('https://hashtagweb3.com/', {
         headers: { 'user-agent': 'Mozilla/5.0', accept: 'text/html' },
       }),
     );
-    assert(home.headers.get('RateLimit-Limit') === '120', 'Homepage RateLimit-Limit is 120');
-    assert(home.headers.has('RateLimit-Remaining'), 'Homepage RateLimit-Remaining present');
-    assert(home.headers.has('RateLimit-Reset'), 'Homepage RateLimit-Reset present');
-    assert(home.headers.get('RateLimit-Policy') === '120;w=60', 'Homepage RateLimit-Policy matches terms');
+    assert(root.status === 307, 'Root / redirects with status 307');
+    assert(root.headers.get('location') === 'https://hashtagweb3.com/jobs', 'Root / Location is /jobs');
+    const jobs = await middleware(
+      new NextRequest('https://hashtagweb3.com/jobs', {
+        headers: { 'user-agent': 'Mozilla/5.0', accept: 'text/html' },
+      }),
+    );
+    assert(jobs.headers.get('RateLimit-Limit') === '120', 'Jobs page RateLimit-Limit is 120');
+    assert(jobs.headers.has('RateLimit-Remaining'), 'Jobs page RateLimit-Remaining present');
+    assert(jobs.headers.has('RateLimit-Reset'), 'Jobs page RateLimit-Reset present');
+    assert(jobs.headers.get('RateLimit-Policy') === '120;w=60', 'Jobs page RateLimit-Policy matches terms');
   } catch (err: any) {
-    assert(false, 'Homepage rate-limit headers', err?.message || String(err));
+    assert(false, 'Root redirect and jobs rate-limit headers', err?.message || String(err));
   }
 
   console.log(`\n========================================`);

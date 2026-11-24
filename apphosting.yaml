@@ -17,7 +17,7 @@ env:
   - variable: NEXT_PUBLIC_POSTHOG_HOST
     value: https://us.i.posthog.com
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
-    value: web3-jobs-aggregator
+    value: hashtagweb3-97583
   - variable: NEXT_PUBLIC_SITE_URL
     value: https://hashtagweb3.com
 

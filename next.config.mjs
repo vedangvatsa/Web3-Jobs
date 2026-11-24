@@ -130,6 +130,8 @@ const nextConfig = {
   },
   async redirects() {
     return [
+      // Temporary while some App Hosting backends never forward `/` to Next (edge 404). Remove after FAH root routing fix.
+      { source: '/', destination: '/jobs', permanent: false },
       ...Object.entries(imageRedirects).map(([source, destination]) => ({ source, destination, permanent: true })),
       ...learnRedirects,
       ...nomadRedirects,

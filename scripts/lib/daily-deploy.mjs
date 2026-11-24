@@ -2,7 +2,7 @@ import { setTimeout as delay } from 'node:timers/promises';
 import { validateResearchPublication } from './news-publication-state.mjs';
 
 export const DEPLOY_STATE_PATH = 'scripts/social/publish-slot-state.json';
-export const BACKEND = 'projects/hashtagweb3-97583/locations/us-central1/backends/studio';
+export const BACKEND = 'projects/hashtagweb3-97583/locations/us-central1/backends/web';
 const object = value => value && typeof value === 'object' && !Array.isArray(value);
 const timestamp = value => typeof value === 'string' && Number.isFinite(Date.parse(value));
 const phases = new Set(['building', 'rolling-out', 'build-failed', 'rollout-failed', 'abandoned', 'succeeded']);

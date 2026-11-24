@@ -101,7 +101,7 @@ jobs:
         if: ${{ steps.plan.outputs.run == 'true' && inputs.grant_only != true && inputs.sync_secrets == true }}
         env:
           FIREBASE_APPHOSTING_PROJECT_ID: hashtagweb3-97583
-          FIREBASE_APPHOSTING_BACKEND: studio
+          FIREBASE_APPHOSTING_BACKEND: web
           NEXT_PUBLIC_FIREBASE_API_KEY: ${{ secrets.NEXT_PUBLIC_FIREBASE_API_KEY }}
           NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN: ${{ secrets.NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN }}
           NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET: ${{ secrets.NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET }}
@@ -117,7 +117,7 @@ jobs:
           # Explicit grant for the key that broke builds
           firebase apphosting:secrets:grantaccess NEXT_PUBLIC_FIREBASE_API_KEY \
             --project hashtagweb3-97583 \
-            --backend studio \
+            --backend web \
             --non-interactive || true
       - name: Deploy the validated daily jobs and news revision
         id: daily
@@ -141,13 +141,13 @@ jobs:
           RESP=$(curl -s -X POST \
             -H "Authorization: Bearer $TOKEN" \
             -H 'Content-Type: application/json' \
-            "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/studio/builds?buildId=${BUILD_ID}" \
+            "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/web/builds?buildId=${BUILD_ID}" \
             -d '{"source":{"codebase":{"branch":"main"}}}')
           echo "$RESP"
           if ! echo "$RESP" | python3 -c 'import sys,json; d=json.load(sys.stdin); sys.exit(0 if d.get("name") and not d.get("error") else 1)'; then
             if echo "$RESP" | grep -q 'unable to queue the operation'; then
-              echo "Build not queued (409): another App Hosting build is already in flight for backend studio."
-              echo "Wait for it in Firebase Console (App Hosting → studio → Activity) or cancel the other Actions run, then retry once."
+              echo "Build not queued (409): another App Hosting build is already in flight for backend web."
+              echo "Wait for it in Firebase Console (App Hosting → web → Activity) or cancel the other Actions run, then retry once."
               exit 1
             fi
             echo "Build was not created. Grant roles/firebaseapphosting.admin to the deploy service account on hashtagweb3-97583."
@@ -157,7 +157,7 @@ jobs:
           for i in $(seq 1 160); do
             TOKEN=$(gcloud auth print-access-token)
             B=$(curl -s -H "Authorization: Bearer $TOKEN" \
-              "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/studio/builds/${BUILD_ID}")
+              "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/web/builds/${BUILD_ID}")
             STATE=$(echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or "")')
             if [ -z "$STATE" ]; then
               MSG=$(echo "$B" | python3 -c 'import sys,json; d=json.load(sys.stdin); e=d.get("error",{}); print((e.get("message") or e.get("status") or "unknown")[:240])')
@@ -184,12 +184,12 @@ jobs:
           curl -s -X POST \
             -H "Authorization: Bearer $TOKEN" \
             -H 'Content-Type: application/json' \
-            "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/studio/rollouts?rolloutId=${ROLLOUT_ID}" \
-            -d "{\"build\":\"projects/hashtagweb3-97583/locations/us-central1/backends/studio/builds/${BUILD_ID}\"}"
+            "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/web/rollouts?rolloutId=${ROLLOUT_ID}" \
+            -d "{\"build\":\"projects/hashtagweb3-97583/locations/us-central1/backends/web/builds/${BUILD_ID}\"}"
           for i in $(seq 1 40); do
             TOKEN=$(gcloud auth print-access-token)
             R=$(curl -s -H "Authorization: Bearer $TOKEN" \
-              "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/studio/rollouts/${ROLLOUT_ID}")
+              "https://firebaseapphosting.googleapis.com/v1beta/projects/hashtagweb3-97583/locations/us-central1/backends/web/rollouts/${ROLLOUT_ID}")
             RS=$(echo "$R" | python3 -c 'import sys,json; d=json.load(sys.stdin); print(d.get("state") or "")')
             if [ -z "$RS" ]; then
               echo "$R" | python3 -c 'import sys,json; d=json.load(sys.stdin); e=d.get("error",{}); print((e.get("message") or e.get("status") or "unknown")[:240])' | sed 's/^/rollout poll: /'

@@ -179,6 +179,12 @@ export function missingPageResponse(request: NextRequest, status: 404 | 410 = 40
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  // When `/` reaches the app, send visitors to the job board (see docs/FIREBASE_AND_CLOUDFLARE.md).
+  if (pathname === '/') {
+    const url = request.nextUrl.clone();
+    url.pathname = '/jobs';
+    return NextResponse.redirect(url, 307);
+  }
   const safeMethod = request.method === 'GET' || request.method === 'HEAD';
   const rateLimit: RateLimitSnapshot | null = safeMethod ? getRateLimitInfo(request) : null;
   if (rateLimit?.isRateLimited) {

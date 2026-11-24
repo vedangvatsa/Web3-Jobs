@@ -35,7 +35,7 @@ put_secret NEXT_PUBLIC_FIREBASE_APP_ID "${NEXT_PUBLIC_FIREBASE_APP_ID:-}"
 put_secret RESEND_API_KEY "${RESEND_API_KEY:-}"
 put_secret CRON_SECRET "${CRON_SECRET:-}"
 
-BACKEND="${FIREBASE_APPHOSTING_BACKEND:-}"
+BACKEND="${FIREBASE_APPHOSTING_BACKEND:-web}"
 if [ -z "${BACKEND}" ]; then
   echo "Listing App Hosting backends in ${PROJECT_ID}..."
   npx --yes firebase-tools@latest apphosting:backends:list --project "${PROJECT_ID}" || true

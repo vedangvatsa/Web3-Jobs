@@ -22,7 +22,7 @@ LinkedIn/Threads posting uses **GitHub/Action secrets** (`LINKEDIN_ACCESS_TOKEN`
 ## Connect / verify Firebase
 
 1. [Firebase Console](https://console.firebase.google.com/) → project **`hashtagweb3-97583`**.
-2. **App Hosting** → confirm backend **`studio`** is connected to this repo and **`main`** (or your deploy branch).
+2. **App Hosting** → confirm backend **`web`** is connected to this repo and **`main`** (or your deploy branch). Custom domain **`hashtagweb3.com`** must be attached to **`web`**, not **`studio`**.
 3. **Build → Firestore** (if used) → deploy rules: `firebase deploy --only firestore:rules`.
 4. GitHub secrets: `NEXT_PUBLIC_FIREBASE_*`, `FIREBASE_SERVICE_ACCOUNT_KEY`, `RESEND_API_KEY`, `CRON_SECRET`, etc. (see `.env.example`).
 5. Local: `npx tsx scripts/verify-firebase-connection.ts`.
@@ -37,26 +37,24 @@ firebase login
 firebase use hashtagweb3-97583
 firebase apphosting:secrets:set NEXT_PUBLIC_FIREBASE_API_KEY
 # … repeat for each secret in apphosting.yaml / sync script
-firebase apphosting:secrets:grantaccess SECRET_NAME --backend studio --project hashtagweb3-97583
+firebase apphosting:secrets:grantaccess SECRET_NAME --backend web --project hashtagweb3-97583
 ```
 
 Script: [`scripts/sync-firebase-apphosting-secrets.sh`](../scripts/sync-firebase-apphosting-secrets.sh).
 
-## Homepage (`/`) 404 on App Hosting
+## Homepage (`/`) and production backend **`web`**
 
-Symptom: `GET /` returns Google’s generic **404** HTML (~272 bytes, **no**
-`x-fah-adapter` header) while `GET /jobs` reaches Next.
+**Production (Nov 2026):** `hashtagweb3.com` is served by App Hosting backend
+**`web`** (`us-central1`). **`GET /`** and **`GET /jobs`** both reach Next
+(`x-fah-adapter`). The legacy **`studio`** backend had a broken edge route for
+`/` only (272-byte Google 404); keep the custom domain off **`studio`**.
 
-Observed on the old `studio` backend of `web3-jobs-aggregator`: its edge never
-routed `/` to the app, on the default `hosted.app` URL as well as the custom
-domain, and no rollout (including redirect-only and static-page builds) changed
-that. Other backends on the same code route `/` correctly, so the code is not
-the cause.
+`next.config.mjs` and middleware may still redirect `/` → `/jobs` when that
+helps duplicate home URLs; optional to remove once `/` is canonical.
 
-Fix that worked: serve `hashtagweb3.com` from a backend where `/` reaches Next
-(a new backend, or the `hashtagweb3-97583` project), then `src/app/page.tsx`
-serves the job board directly. If `/` returns the 272-byte 404 again, test the
-`hosted.app` URL of the backend before changing code.
+If **`/`** regresses: test
+`https://web--hashtagweb3-97583.us-central1.hosted.app/` first, then **Domains**
+in Console (domain must stay on **`web`**).
 
 ## Deploy flow
 

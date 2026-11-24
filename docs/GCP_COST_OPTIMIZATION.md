@@ -69,10 +69,10 @@ an additional bandwidth charge.
 - The previous Events improvements reached production with
   `rollout-2026-10-01-000`, which succeeded at **22:04:49 UTC**. Live Events HTML
   measured **154,976 gzip bytes**, compared with the previously measured 782,197.
-- The live `studio` service has **1 vCPU, 2 GiB RAM, zero minimum instances**,
+- The live `web` service has **1 vCPU, 2 GiB RAM, zero minimum instances**,
   request-based CPU allocation, and revision-level maximum instances of one.
   The October memory-utilization p99 query reached approximately **98%** for
-  `studio`. Reducing memory is not a supported saving based on this evidence.
+  `web`. Reducing memory is not a supported saving based on this evidence.
 - Secret metadata showed **153 enabled versions across eight secret names**.
   The deploy script unconditionally creates versions on each run. At published
   prices, 153 automatically replicated versions retained for a full month are

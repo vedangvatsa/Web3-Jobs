@@ -43,12 +43,12 @@ test('shell integration preserves updates, empty-value behavior and backend acce
     fs.writeFileSync(path.join(directory, 'node'), `#!${process.execPath}\nconst fs = require('node:fs'); process.stdin.resume(); process.stdin.on('end', () => { fs.appendFileSync(process.env.TEST_CALLS, JSON.stringify({ kind: 'compare', args: process.argv.slice(2) }) + '\\n'); process.exit(Number(process.env.TEST_DECISION)); });\n`, { mode: 0o755 });
     fs.writeFileSync(path.join(directory, 'npx'), `#!${process.execPath}\nconst fs = require('node:fs'); let input = ''; process.stdin.on('data', chunk => input += chunk); process.stdin.on('end', () => { const args = process.argv.slice(2); fs.appendFileSync(process.env.TEST_CALLS, JSON.stringify({ args, input }) + '\\n'); const access = args.indexOf('apphosting:secrets:access'); process.exit(access >= 0 && args[access + 1] !== 'NEXT_PUBLIC_FIREBASE_API_KEY' ? 1 : 0); });\n`, { mode: 0o755 });
     for (const scenario of [
-      { decision: '0', backend: 'studio', value: 'test-canary-secret', updates: 0 },
-      { decision: '1', backend: 'studio', value: 'rotated-test-canary-secret\n', updates: 1 },
-      { decision: '2', backend: 'studio', value: 'read-failure-test-canary', updates: 1 },
+      { decision: '0', backend: 'web', value: 'test-canary-secret', updates: 0 },
+      { decision: '1', backend: 'web', value: 'rotated-test-canary-secret\n', updates: 1 },
+      { decision: '2', backend: 'web', value: 'read-failure-test-canary', updates: 1 },
       { decision: '0', backend: '', value: 'test-canary-secret', updates: 1 },
-      { decision: '0', backend: 'studio', value: '', updates: 0 },
-      { decision: '1', backend: 'studio', value: 'test-canary-secret', updates: 1, project: '' },
+      { decision: '0', backend: 'web', value: '', updates: 0 },
+      { decision: '1', backend: 'web', value: 'test-canary-secret', updates: 1, project: '' },
     ]) {
       fs.writeFileSync(callsFile, '');
       const result = spawnSync('bash', ['scripts/sync-firebase-apphosting-secrets.sh'], { encoding: 'utf8', timeout: 20000, env: {
