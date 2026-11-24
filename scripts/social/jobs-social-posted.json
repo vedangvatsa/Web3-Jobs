@@ -183343,7 +183343,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "48d003ff-bb58-441e-a4b8-dd56021e125e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31e39d1b6e4e53081b0e7b39d812c2d6bd128bd9"
     }
   ]
 }
