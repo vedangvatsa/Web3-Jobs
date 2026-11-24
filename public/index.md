@@ -1,5 +1,5 @@
 ---
-title: Hashtag Web3 — Web3 Jobs, Developer API & Blockchain Talent Intelligence
+title: Hashtag Web3 — Web3 Jobs, Data Catalogs & Blockchain Talent Intelligence
 description: Premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network.
 canonical: https://hashtagweb3.com
 last-updated: 2026-08-25
@@ -39,7 +39,7 @@ Data: `GET https://hashtagweb3.com/data/glossary-runtime.json`
 
 - **OpenAPI Spec**: https://hashtagweb3.com/openapi.json
 - **LLMs Navigation**: https://hashtagweb3.com/llms.txt
-- **Auth / integration guide**: https://hashtagweb3.com/auth.md
+- **Integrator guide**: https://hashtagweb3.com/auth.md
 - **Agent Mode**: https://hashtagweb3.com/?mode=agent
 - **Developer Portal**: https://hashtagweb3.com/developers
 

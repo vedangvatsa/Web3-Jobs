@@ -11,7 +11,7 @@ import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 
 export const revalidate = 86400;
 
-const developersTitleSegment = 'Developer Portal & API';
+const developersTitleSegment = 'Developer Portal & Integrations';
 const developersSocialTitle = seoSocialTitle(developersTitleSegment);
 
 export const metadata: Metadata = {
@@ -41,6 +41,7 @@ const endpoints = [
 
 const files = [
   { label: 'OpenAPI 3.1', path: '/openapi.json', detail: 'Machine-readable API schema.' },
+  { label: 'RFC 9727 API catalog', path: '/.well-known/api-catalog', detail: 'Linkset index for static catalogs.' },
   { label: 'Agent manifest', path: '/.well-known/agents.json', detail: 'Discovery metadata for agents.' },
   { label: 'Agent Plugin', path: '/plugin.json', detail: 'Portable Agent Plugins 1.0 manifest.' },
   { label: 'Agent mode', path: '/?mode=agent', detail: 'Compact JSON capability index (static).' },
@@ -57,7 +58,7 @@ export default function DevelopersPage() {
   const schemaData = {
     '@context': 'https://schema.org',
     '@type': 'TechArticle',
-    headline: 'Hashtag Web3 API Documentation & Developer Portal',
+    headline: 'Hashtag Web3 Developer Portal & Data Catalogs',
     description: 'Guide to Hashtag Web3 public JSON catalogs, feeds, and agent discovery files.',
     url: 'https://hashtagweb3.com/developers',
     author: { '@type': 'Organization', name: 'Hashtag Web3', url: 'https://hashtagweb3.com' },
@@ -70,7 +71,7 @@ export default function DevelopersPage() {
         <div className="space-y-16 py-6 sm:space-y-20 sm:py-10">
           <EditorialPageHero
             eyebrow="Developer portal"
-            title="Hashtag Web3 API & Developer Portal"
+            title="Hashtag Web3 Developer Portal"
             description="Download public JSON snapshots of jobs, news, events, and glossary terms. Use the catalog links, OpenAPI schema, and request example below to build integrations."
             image={communityPhotos[2].src}
             imageAlt={communityPhotos[2].alt}

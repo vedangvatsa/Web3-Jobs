@@ -29,7 +29,7 @@
       "description": "Machine-readable linkset of CDN JSON snapshots under /data/*.json.",
       "mediaType": "application/linkset+json",
       "type": "application/linkset+json",
-      "url": "https://hashtagweb3.com/.well-known/api-catalog.linkset.json",
+      "url": "https://hashtagweb3.com/.well-known/api-catalog",
       "trustManifest": {
         "domain": "hashtagweb3.com",
         "verified": true

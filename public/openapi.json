@@ -3,7 +3,7 @@
   "info": {
     "title": "Hashtag Web3 catalogs",
     "version": "1.2.0",
-    "description": "Machine-readable JSON catalogs under /data/. Jobs, company role counts and their freshness hashes are age-filtered at request time; other catalogs are static snapshots. No hosted MCP or public REST search API."
+    "description": "Machine-readable JSON catalogs under /data/ and public syndication feeds. Jobs, company role counts and their freshness hashes are age-filtered at request time; other catalogs are static snapshots. See /developers and /auth.md."
   },
   "servers": [
     { "url": "https://hashtagweb3.com" }

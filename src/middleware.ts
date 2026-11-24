@@ -33,7 +33,8 @@ interface RateLimitBucket {
   resetTime: number;
 }
 
-const RATE_LIMIT_MAX = 300;
+/** Matches public agent allowance in /terms-of-use.md (120 GETs per IP per 60s window). */
+const RATE_LIMIT_MAX = 120;
 const RATE_LIMIT_WINDOW_MS = 60 * 1000;
 /** Cap in-memory buckets so Worker isolates do not grow without bound (1102). */
 const RATE_LIMIT_MAX_IPS = 512;
@@ -113,6 +114,47 @@ function applyRateLimitHeaders(response: NextResponse, limit: number, remaining:
   return response;
 }
 
+function rateLimitExceededResponse(limit: number, reset: number): NextResponse {
+  return NextResponse.json(
+    {
+      error: {
+        code: 'RATE_LIMIT_EXCEEDED',
+        message: 'Too many requests. Please throttle your requests and respect rate limits.',
+        retryAfter: reset,
+        docUrl: 'https://hashtagweb3.com/developers',
+      },
+    },
+    {
+      status: 429,
+      headers: {
+        'Retry-After': String(reset),
+        'RateLimit-Limit': String(limit),
+        'RateLimit-Remaining': '0',
+        'RateLimit-Reset': String(reset),
+        'RateLimit-Policy': `${limit};w=60`,
+        'RateLimit': `limit=${limit}, remaining=0, reset=${reset}`,
+        'X-RateLimit-Limit': String(limit),
+        'X-RateLimit-Remaining': '0',
+        'X-RateLimit-Reset': String(reset),
+        'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload',
+        'X-Content-Type-Options': 'nosniff',
+        'Referrer-Policy': 'strict-origin-when-cross-origin',
+        'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
+        'Access-Control-Allow-Origin': '*',
+        'Access-Control-Expose-Headers':
+          'RateLimit, RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset',
+      },
+    },
+  );
+}
+
+type RateLimitSnapshot = { limit: number; remaining: number; reset: number; isRateLimited: boolean };
+
+function finishResponse(response: NextResponse, rateLimit: RateLimitSnapshot | null): NextResponse {
+  if (!rateLimit) return response;
+  return applyRateLimitHeaders(response, rateLimit.limit, rateLimit.remaining, rateLimit.reset);
+}
+
 export function missingPageResponse(request: NextRequest, status: 404 | 410 = 404, cacheControl = 'no-store'): NextResponse {
   const path = normalizeJobAgePath(request.nextUrl.pathname);
   const safeMethod = request.method === 'GET' || request.method === 'HEAD';
@@ -137,37 +179,43 @@ export function missingPageResponse(request: NextRequest, status: 404 | 410 = 40
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  const safeMethod = request.method === 'GET' || request.method === 'HEAD';
+  const rateLimit: RateLimitSnapshot | null = safeMethod ? getRateLimitInfo(request) : null;
+  if (rateLimit?.isRateLimited) {
+    return rateLimitExceededResponse(rateLimit.limit, rateLimit.reset);
+  }
+
   const agePathname = normalizeJobAgePath(pathname);
   const socialBasePath = stripSocialPathSuffix(agePathname);
   const socialPagePath = canonicalSocialPagePath(socialBasePath);
   const hasSocialAlias = socialPagePath.toLowerCase() !== socialBasePath.toLowerCase();
   if ((agePathname === JOB_LISTING_CACHE_PREFIX || agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)) && !validJobListingCachePath(pathname)) {
-    return missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate');
+    return finishResponse(missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate'), rateLimit);
   }
   const eventStatus = removedEventStatus(socialBasePath, eventTombstones)
     || (hasSocialAlias && removedEventStatus(socialPagePath, eventTombstones));
-  if (eventStatus) return missingPageResponse(request, eventStatus);
+  if (eventStatus) return finishResponse(missingPageResponse(request, eventStatus), rateLimit);
   if (isRemovedJobPath(pathname) || isExpiredJobPath(pathname)
     || (hasSocialAlias && (isRemovedJobPath(socialPagePath) || isExpiredJobPath(socialPagePath)))) {
-    return missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate');
+    return finishResponse(missingPageResponse(request, 410, 'public, max-age=0, s-maxage=300, must-revalidate'), rateLimit);
   }
-  if (isRetiredOrProbePath(agePathname)) return missingPageResponse(request);
+  if (isRetiredOrProbePath(agePathname)) return finishResponse(missingPageResponse(request), rateLimit);
   if (/^\/api(?:\/|$)/.test(agePathname)
     && !/^\/api\/(?:email\/unsubscribe|openapi\.(?:json|yaml)|llms\.txt)$/.test(agePathname)) {
-    return missingPageResponse(request);
+    return finishResponse(missingPageResponse(request), rateLimit);
   }
   // Public pages have no write handlers. Keep their 404 fallback out of POST responses.
   if (request.method !== 'GET' && request.method !== 'HEAD' && !/^\/api(?:\/|$)/.test(agePathname)) {
-    return missingPageResponse(request);
+    return finishResponse(missingPageResponse(request), rateLimit);
   }
-  if (isMissingRootPagePath(hasSocialAlias ? socialPagePath : pathname)) return missingPageResponse(request);
+  if (isMissingRootPagePath(hasSocialAlias ? socialPagePath : pathname)) return finishResponse(missingPageResponse(request), rateLimit);
   if (pathname.includes('%') && agePathname !== pathname && (
     isKnownJobPath(agePathname) || jobAgePageCache(agePathname) || agePathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)
     || /^\/(?:data\/(?:jobs-runtime|companies-runtime|catalog-freshness)\.json|job-(?:description-)?shards\/|(?:\.well-known\/)?sitemap\.(?:xml|json))/.test(agePathname)
   )) {
     const canonical = request.nextUrl.clone();
     canonical.pathname = agePathname;
-    return NextResponse.redirect(canonical, 308);
+    return finishResponse(NextResponse.redirect(canonical, 308), rateLimit);
   }
   const recoveredDestination = recoveredJobDestination(pathname);
   if (recoveredDestination?.startsWith('/')) {
@@ -176,10 +224,10 @@ export async function middleware(request: NextRequest) {
     if (preview) {
       url.pathname = preview;
       url.search = '';
-      return NextResponse.rewrite(url, { headers: jobPathCacheHeaders(pathname) || {} });
+      return finishResponse(NextResponse.rewrite(url, { headers: jobPathCacheHeaders(pathname) || {} }), rateLimit);
     }
     url.pathname = recoveredDestination;
-    return NextResponse.redirect(url, 308);
+    return finishResponse(NextResponse.redirect(url, 308), rateLimit);
   }
   const normalizedLearnPath = pathname.replace(/\/+$/, '').toLowerCase();
   const exactLearnDestination = getLearnRedirectPath(normalizedLearnPath);
@@ -188,21 +236,21 @@ export async function middleware(request: NextRequest) {
   if (learnDestination) {
     const url = request.nextUrl.clone();
     url.pathname = learnDestination + normalizedLearnPath.slice(learnBasePath.length);
-    return NextResponse.redirect(url, 308);
+    return finishResponse(NextResponse.redirect(url, 308), rateLimit);
   }
   if (learnBasePath.startsWith('/learn/') && !learnBasePath.includes('.')) {
-    return missingPageResponse(request);
+    return finishResponse(missingPageResponse(request), rateLimit);
   }
   const searchParams = request.nextUrl.searchParams;
   if (searchParams.get('mode') === 'agent' && !isResourcePath(agePathname) && agePathname.split('/').length > 2
     && !/^\/glossary\/[^/]+$/.test(agePathname) && !validJobListingCachePath(agePathname)) {
-    return missingPageResponse(request);
+    return finishResponse(missingPageResponse(request), rateLimit);
   }
   const host = request.headers.get('host')?.split(':')[0]?.toLowerCase();
   if (host === 'www.hashtagweb3.com') {
     const canonical = request.nextUrl.clone();
     canonical.host = 'hashtagweb3.com';
-    return NextResponse.redirect(canonical, 308);
+    return finishResponse(NextResponse.redirect(canonical, 308), rateLimit);
   }
 
   // Node/Firebase run middleware before public-file serving. Let the static
@@ -217,7 +265,7 @@ export async function middleware(request: NextRequest) {
     (pathname.startsWith('/events/') && isResourcePath(pathname)) ||
     pathname === '/favicon-preview.html'
   ) {
-    return NextResponse.next();
+    return finishResponse(NextResponse.next(), rateLimit);
   }
 
   if (!isResourcePath(agePathname)) {
@@ -227,45 +275,7 @@ export async function middleware(request: NextRequest) {
       const rewriteUrl = request.nextUrl.clone();
       rewriteUrl.pathname = previewPath;
       rewriteUrl.search = '';
-      return NextResponse.rewrite(rewriteUrl, { headers: jobPathCacheHeaders(pathname) || {} });
-    }
-  }
-
-  // Only apply rate limiting to /api/ routes
-  if (/^\/api(?:\/|$)/.test(pathname)) {
-    const { limit, remaining, reset, isRateLimited } = getRateLimitInfo(request);
-
-    if (isRateLimited) {
-      return NextResponse.json(
-        {
-          error: {
-            code: 'RATE_LIMIT_EXCEEDED',
-            message: 'Too many requests. Please throttle your requests and respect rate limits.',
-            retryAfter: reset,
-            docUrl: 'https://hashtagweb3.com/developers',
-          },
-        },
-        {
-          status: 429,
-          headers: {
-            'Retry-After': String(reset),
-            'RateLimit-Limit': String(limit),
-            'RateLimit-Remaining': '0',
-            'RateLimit-Reset': String(reset),
-            'RateLimit-Policy': `${limit};w=60`,
-            'RateLimit': `limit=${limit}, remaining=0, reset=${reset}`,
-            'X-RateLimit-Limit': String(limit),
-            'X-RateLimit-Remaining': '0',
-            'X-RateLimit-Reset': String(reset),
-            'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload',
-            'X-Content-Type-Options': 'nosniff',
-            'Referrer-Policy': 'strict-origin-when-cross-origin',
-            'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
-            'Access-Control-Allow-Origin': '*',
-            'Access-Control-Expose-Headers': 'RateLimit, RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset',
-          },
-        }
-      );
+      return finishResponse(NextResponse.rewrite(rewriteUrl, { headers: jobPathCacheHeaders(pathname) || {} }), rateLimit);
     }
   }
 
@@ -293,7 +303,7 @@ export async function middleware(request: NextRequest) {
         response.headers.set('X-Content-Type-Options', 'nosniff');
         response.headers.set('Referrer-Policy', 'strict-origin-when-cross-origin');
         response.headers.set('Permissions-Policy', 'camera=(), microphone=(), geolocation=()');
-        return response;
+        return finishResponse(response, rateLimit);
       }
     }
   }
@@ -305,7 +315,7 @@ export async function middleware(request: NextRequest) {
     const rewrite = request.nextUrl.clone();
     rewrite.pathname = '/agent-view.json';
     rewrite.search = '';
-    return NextResponse.rewrite(rewrite);
+    return finishResponse(NextResponse.rewrite(rewrite), rateLimit);
   }
 
    // 3. Bot UA or Accept: text/markdown → serve a known Markdown resource.
@@ -339,7 +349,7 @@ export async function middleware(request: NextRequest) {
       rewrite.search = '';
       const response = NextResponse.rewrite(rewrite);
       response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
-      return response;
+      return finishResponse(response, rateLimit);
     }
   }
 
@@ -347,12 +357,12 @@ export async function middleware(request: NextRequest) {
   if (pageCache) {
     const headers = new Headers(request.headers);
     headers.set(JOB_LISTING_CACHE_HEADER, pageCache.key);
-    return NextResponse.next({ request: { headers }, headers: pageCache.headers });
+    return finishResponse(NextResponse.next({ request: { headers }, headers: pageCache.headers }), rateLimit);
   }
   const internalScope = pathname.match(/^\/job-listing-cache\/\d+(\/.*)?$/)?.[1] || '/';
   const cacheHeaders = pathname.startsWith(`${JOB_LISTING_CACHE_PREFIX}/`)
     ? jobAgePageCache(internalScope)?.headers : jobPathCacheHeaders(pathname);
-  return NextResponse.next({ headers: cacheHeaders || {} });
+  return finishResponse(NextResponse.next({ headers: cacheHeaders || {} }), rateLimit);
 }
 
 export const config = {

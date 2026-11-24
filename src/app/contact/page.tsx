@@ -15,20 +15,20 @@ const contactSocialTitle = seoSocialTitle(contactTitleSegment);
 
 export const metadata: Metadata = {
   title: seoTitleSegment(contactTitleSegment),
-  description: 'Connect with the Hashtag Web3 team for event partnerships, hiring campaigns, API integrations, and community support.',
+  description: 'Connect with the Hashtag Web3 team for event partnerships, hiring campaigns, data integrations, and community support.',
   alternates: { canonical: 'https://hashtagweb3.com/contact' },
-  openGraph: { title: contactSocialTitle, description: 'Direct communication channels for partnerships, hiring campaigns, API integrations, and community support.', url: 'https://hashtagweb3.com/contact', siteName: 'Hashtag Web3', type: 'website', images: [{ url: 'https://hashtagweb3.com/og/pages/contact.png', width: 1200, height: 630, alt: 'Contact Hashtag Web3' }] },
-  twitter: { card: 'summary_large_image', title: contactSocialTitle, description: 'Direct communication channels for partnerships, hiring campaigns, API integrations, and community support.', images: ['https://hashtagweb3.com/og/pages/contact.png'] },
+  openGraph: { title: contactSocialTitle, description: 'Direct communication channels for partnerships, hiring campaigns, data integrations, and community support.', url: 'https://hashtagweb3.com/contact', siteName: 'Hashtag Web3', type: 'website', images: [{ url: 'https://hashtagweb3.com/og/pages/contact.png', width: 1200, height: 630, alt: 'Contact Hashtag Web3' }] },
+  twitter: { card: 'summary_large_image', title: contactSocialTitle, description: 'Direct communication channels for partnerships, hiring campaigns, data integrations, and community support.', images: ['https://hashtagweb3.com/og/pages/contact.png'] },
 };
 
 const routes = [
   { icon: Handshake, title: 'Partnerships & events', text: 'Conference promotions, community discounts, media partnerships, and collaborations.', email: 'contact@hashtagweb3.com', subject: 'Partnership Inquiry' },
   { icon: BriefcaseBusiness, title: 'Hiring & distribution', text: 'Reach Web3 candidates through the job board and our community channels.', email: 'contact@hashtagweb3.com', subject: 'Hiring Inquiry' },
-  { icon: Code2, title: 'Developers & API', text: 'Questions about REST endpoints, OpenAPI schemas, feeds, or agent integrations.', email: 'dev@hashtagweb3.com', subject: 'API Inquiry' },
+  { icon: Code2, title: 'Developers & data', text: 'Questions about static catalogs, OpenAPI, RSS/JSON feeds, or agent integrations.', email: 'dev@hashtagweb3.com', subject: 'Developer Inquiry' },
 ];
 
 export default function ContactPage() {
-  const schemaData = { '@context': 'https://schema.org', '@type': 'ContactPage', name: 'Contact Hashtag Web3', url: 'https://hashtagweb3.com/contact', description: 'Contact information and inquiry channels for Hashtag Web3 partnerships, hiring campaigns, and developer API support.' };
+  const schemaData = { '@context': 'https://schema.org', '@type': 'ContactPage', name: 'Contact Hashtag Web3', url: 'https://hashtagweb3.com/contact', description: 'Contact information and inquiry channels for Hashtag Web3 partnerships, hiring campaigns, and developer data integrations.' };
 
   return (
     <main>

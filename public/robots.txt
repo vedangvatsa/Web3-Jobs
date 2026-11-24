@@ -1,6 +1,5 @@
 # robots.txt — Hashtag Web3
 # https://hashtagweb3.com
-Sitemap: https://hashtagweb3.com/news/sitemap.xml
 
 User-agent: *
 Allow: /
@@ -148,6 +147,7 @@ Disallow: /
 
 Sitemap: https://hashtagweb3.com/sitemap.xml
 Sitemap: https://hashtagweb3.com/.well-known/sitemap.json
+Sitemap: https://hashtagweb3.com/news/sitemap.xml
 Agents-txt: https://hashtagweb3.com/agents.txt
 schemamap: https://hashtagweb3.com/schemamap.xml
 # Job Feeds (RSS / Jooble XML / JSON Feed)

@@ -4,6 +4,7 @@ import Link from 'next/link';
 
 export function FooterContent() {
   const resourceLinks = [
+  { href:"/developers", label:"Developers & APIs" },
   { href:"/nomads", label:"Digital Nomad Resources" },
   { href:"/interview-questions", label:"Interview Questions" },
   { href:"/web3-career-quiz", label:"Archetype Assessment" },
@@ -90,6 +91,20 @@ export function FooterContent() {
       </div>
 
       </div>
+
+      <nav className="mt-10 flex flex-wrap items-center justify-center gap-x-4 gap-y-2 text-xs text-muted-foreground" aria-label="Legal and integrator links">
+        <Link href="/privacy" prefetch={false} className="hover:text-primary transition-colors">
+          Privacy
+        </Link>
+        <span className="text-border" aria-hidden="true">|</span>
+        <Link href="/terms" prefetch={false} className="hover:text-primary transition-colors">
+          Terms
+        </Link>
+        <span className="text-border" aria-hidden="true">|</span>
+        <Link href="/developers" prefetch={false} className="hover:text-primary transition-colors">
+          Developers
+        </Link>
+      </nav>
 
       <div
         className="mt-6 rounded-md border border-border/50 bg-muted/20 px-3 py-2 text-[11px] text-muted-foreground leading-snug"

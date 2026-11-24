@@ -1,6 +1,6 @@
 # Hashtag Web3
 
-> Hashtag Web3 (https://hashtagweb3.com) is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network. The platform indexes thousands of verified Web3 jobs across Solidity, Rust, ZK-proofs, DeFi, DAOs, and crypto marketing. The platform also provides a 200+ term Web3 glossary, salary calculators, resume builders, interview question banks, developer APIs, and 500+ in-depth career guides.
+> Hashtag Web3 (https://hashtagweb3.com) is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network. The platform indexes thousands of verified Web3 jobs across Solidity, Rust, ZK-proofs, DeFi, DAOs, and crypto marketing. The platform also provides a 200+ term Web3 glossary, salary calculators, resume builders, interview question banks, public data catalogs and feeds for integrators, and 500+ in-depth career guides.
 
 ## When to use this
 
@@ -56,11 +56,11 @@ Prefer **static CDN JSON** (no auth, no Serverless Function cost). Filter client
 - Companies: `https://hashtagweb3.com/data/companies-runtime.json`
 - Agent overview: `https://hashtagweb3.com/?mode=agent` (serves `/agent-view.json`)
 - OpenAPI (static catalogs): `https://hashtagweb3.com/openapi.json`
-- Legacy OpenAPI mirror: `https://hashtagweb3.com/api/openapi.json` (same schema as `/openapi.json`)
+- OpenAPI YAML copy: `https://hashtagweb3.com/api/openapi.yaml` (same schema as `/openapi.json`)
 - LLM index: `https://hashtagweb3.com/llms.txt`
 - Full corpus index: `https://hashtagweb3.com/llms-full.txt`
 
-Hosted catalog REST (`/api/jobs`, `/api/v1/*`), MCP (`/mcp`, `/api/mcp`), `/ask`, sandbox, and OAuth token endpoints are **not** deployed on production. Use **`/data/*.json`** (filter client-side) or the CLI/SDK packages below.
+**Syndication (no auth):** `https://hashtagweb3.com/jobs/feed.xml`, `https://hashtagweb3.com/jobs/feed.json`, `https://hashtagweb3.com/news/feed.xml`, `https://hashtagweb3.com/events/feed.xml`. Use **`/data/*.json`** (filter client-side) or the CLI/SDK packages below.
 
 ## Hashtag Web3 Developer Resources — Discoverable by Name
 
@@ -69,12 +69,12 @@ All developer resources below include "Hashtag Web3" in their title and are publ
 - [Hashtag Web3 Developer Portal](https://hashtagweb3.com/developers): Static catalog integration guide, OpenAPI, CLI, and agent discovery links.
 - [Hashtag Web3 OpenAPI Specification (JSON)](https://hashtagweb3.com/openapi.json): OpenAPI 3.1.0 — static `/data/*` catalog URLs.
 - [Hashtag Web3 OpenAPI Specification (YAML)](https://hashtagweb3.com/api/openapi.yaml): YAML mirror of the static catalog spec.
-- [Hashtag Web3 Optional Auth Guide](https://hashtagweb3.com/auth.md): Fork/private deployment auth patterns (public read uses `/data/*` without credentials).
+- [Hashtag Web3 Integrator Guide](https://hashtagweb3.com/auth.md): Static catalogs, feeds, and OpenAPI (no API key).
 - [Hashtag Web3 Agent Manifest](https://hashtagweb3.com/.well-known/agents.json): Capabilities and static catalog entry points.
 - [Hashtag Web3 Agent-to-Agent Card](https://hashtagweb3.com/.well-known/agent-card.json): A2A interoperability metadata.
 - [Hashtag Web3 Agentic Resource Discovery](https://hashtagweb3.com/.well-known/ai-catalog.json): Machine-readable discovery index (static catalogs).
 - [Hashtag Web3 Agent Skills Index](https://hashtagweb3.com/.well-known/agent-skills/index.json): Scoped skill taxonomy (v0.2.0).
-- [Hashtag Web3 RFC 9727 Linkset Catalog](https://hashtagweb3.com/.well-known/api-catalog.linkset.json): Linkset describing public static catalogs.
+- [Hashtag Web3 RFC 9727 API Catalog](https://hashtagweb3.com/.well-known/api-catalog): Linkset describing public static catalogs and OpenAPI.
 - [Hashtag Web3 Agent Plugin Manifest](https://hashtagweb3.com/.well-known/plugin.json): Agent-plugins.org bundle (discovery metadata).
 - [Hashtag Web3 Agent Permissions](https://hashtagweb3.com/agents.txt): Crawl and usage boundaries for autonomous agents.
 - [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Coding agent instructions for contributors.
@@ -114,7 +114,6 @@ npm install @hashtag_web3_/sdk
 
 - [Jobs Scoped Index](https://hashtagweb3.com/jobs/llms.txt): Job categories, role types, and hiring ecosystem feeds.
 - [Developers Scoped Index](https://hashtagweb3.com/developers/llms.txt): Static catalogs, OpenAPI, and integration patterns.
-- [API Scoped Index](https://hashtagweb3.com/api/llms.txt): Legacy path — prefer `/developers` and `/data/*` catalogs.
 - [Glossary Scoped Index](https://hashtagweb3.com/glossary-scoped.txt): 200+ blockchain, DeFi, and cryptography terms taxonomy.
 - [Learn Scoped Index](https://hashtagweb3.com/learn/llms.txt): 7 Web3 courses with 66 lessons.
 - [Full Text Corpus Index](https://hashtagweb3.com/llms-full.txt): Complete directory of all 700+ articles, checklists, and guides.

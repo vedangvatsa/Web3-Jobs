@@ -1,8 +1,8 @@
 # AGENTS.md — Hashtagweb3.com (public site)
 
-**Hashtagweb3.com** is a Web3 jobs, news, events, and glossary platform. Integrators use **static JSON** on the CDN.
+**Hashtagweb3.com** is a Web3 jobs, news, events, and glossary platform. Integrators use **static JSON** on the CDN and **syndication feeds**.
 
-## Static catalogs (production)
+## Static catalogs
 
 | URL | Content |
 |-----|---------|
@@ -13,19 +13,20 @@
 | `/agent-view.json` | Agent capability index |
 | `/openapi.json` | OpenAPI 3.1 catalog spec |
 
+## Syndication feeds
+
+| URL | Content |
+|-----|---------|
+| `/jobs/feed.xml` | Latest jobs (RSS) |
+| `/jobs/feed.json` | Latest jobs (JSON Feed) |
+| `/news/feed.xml` | Native news (RSS) |
+| `/events/feed.xml` | Upcoming events (RSS) |
+
 Filter client-side after download. See [`/developers`](https://hashtagweb3.com/developers) and [`/auth.md`](https://hashtagweb3.com/auth.md).
 
-## Not hosted on production
+## Email unsubscribe
 
-- Catalog REST (`/api/jobs`, `/api/v1/*`)
-- MCP (`/api/mcp`, `/mcp`)
-- NLWeb (`/ask`)
-- Sandbox (`/api/sandbox/*`)
-- Agent OAuth (`/api/auth/*`)
-
-## Product route
-
-- `GET /api/email/unsubscribe` — email list unsubscribe
+- `GET /api/email/unsubscribe` — list unsubscribe (token query param)
 
 ## Discovery
 

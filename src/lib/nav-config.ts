@@ -62,6 +62,7 @@ export const SITELINK_NAVIGATION_ITEMS: { label: string; href: string; descripti
 ];
 
 export const RESOURCE_LINKS: NavLinkItem[] = [
+  { href: '/developers', label: 'Developers & APIs', icon: Code2, description: 'OpenAPI, static /data catalogs, and RSS feeds for integrators.' },
   { href: '/resources', label: 'All Resources', icon: ListChecks },
   { href: '/grants', label: 'Grants & Perks', icon: DollarSign },
   { href: '/top100', label: 'Top 100 Companies', icon: Trophy },

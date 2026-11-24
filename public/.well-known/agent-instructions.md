@@ -12,7 +12,7 @@ Do not use for non-Web3 jobs, token trading, or wallet transactions.
 
 ## How to integrate
 
-Fetch static catalogs and filter client-side:
+Fetch static catalogs and filter client-side, or poll syndication feeds:
 
 | Catalog | URL |
 |---------|-----|
@@ -21,7 +21,12 @@ Fetch static catalogs and filter client-side:
 | Events | `GET https://hashtagweb3.com/data/events-runtime.json` |
 | Glossary | `GET https://hashtagweb3.com/data/glossary-runtime.json` |
 
-Hosted catalog REST, MCP, `/ask`, `/api/sandbox/*`, and `/api/auth/*` are **not** on production. See [`/auth.md`](https://hashtagweb3.com/auth.md).
+| Feed | URL |
+|------|-----|
+| Jobs RSS | `GET https://hashtagweb3.com/jobs/feed.xml` |
+| Jobs JSON Feed | `GET https://hashtagweb3.com/jobs/feed.json` |
+
+No API key is required. See [`/auth.md`](https://hashtagweb3.com/auth.md) and [`/developers`](https://hashtagweb3.com/developers).
 
 ## Machine-readable specs
 

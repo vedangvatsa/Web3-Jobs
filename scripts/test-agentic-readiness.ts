@@ -110,8 +110,18 @@ async function runTests() {
     }
   });
 
-  // 10. OpenAPI documents static catalogs
-  await test('10. openapi.json documents /data/* catalogs', async () => {
+  await test('10. RFC 9727 API catalog at /.well-known/api-catalog', async () => {
+    const res = await fetch(`${BASE_URL}/.well-known/api-catalog`);
+    if (res.status !== 200) {
+      throw new Error(`GET /.well-known/api-catalog returned ${res.status}`);
+    }
+    const body = await res.json();
+    if (!Array.isArray(body.linkset) || body.linkset.length < 1) {
+      throw new Error('api-catalog missing linkset array');
+    }
+  });
+
+  await test('11. openapi.json documents /data/* catalogs', async () => {
     const openapiRes = await fetch(`${BASE_URL}/openapi.json`);
     const openapi = await openapiRes.json();
     if (!openapi.paths['/data/jobs-runtime.json']) {
@@ -119,16 +129,31 @@ async function runTests() {
     }
   });
 
-  // 11. CLI tool available
-  await test('11. Official CLI tool executes with valid output', async () => {
+  await test('11b. /.well-known/openapi.json aliases canonical OpenAPI', async () => {
+    const [canonical, wellKnown] = await Promise.all([
+      fetch(`${BASE_URL}/openapi.json`),
+      fetch(`${BASE_URL}/.well-known/openapi.json`),
+    ]);
+    if (canonical.status !== 200 || wellKnown.status !== 200) {
+      throw new Error(`OpenAPI alias failed: canonical=${canonical.status} well-known=${wellKnown.status}`);
+    }
+    const a = await canonical.text();
+    const b = await wellKnown.text();
+    if (a !== b) {
+      throw new Error('/.well-known/openapi.json does not match /openapi.json');
+    }
+  });
+
+  // 12. CLI tool available
+  await test('12. Official CLI tool executes with valid output', async () => {
     const output = execSync('node packages/cli/bin/hashtagweb3.js jobs --limit 2', { encoding: 'utf8', cwd: process.cwd() });
     if (!output.includes('Found') && !output.includes('jobs')) {
       throw new Error(`CLI output unexpected: ${output}`);
     }
   });
 
-  // 12. Agent Permissions (agents.txt)
-  await test('12. /agents.txt is served with operational permissions', async () => {
+  // 13. Agent Permissions (agents.txt)
+  await test('13. /agents.txt is served with operational permissions', async () => {
     const res = await fetch(`${BASE_URL}/agents.txt`);
     if (res.status !== 200) {
       throw new Error(`GET /agents.txt returned ${res.status}`);

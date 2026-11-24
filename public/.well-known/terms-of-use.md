@@ -16,7 +16,7 @@ contact: "contact@hashtagweb3.com"
 
 ## 1. Acceptance of Terms & Scope
 
-1. **Applicability**: These Terms govern access to **hashtagweb3.com**, its static catalogs under `/data/*`, HTML pages, syndication feeds, and the product route **`/api/email/unsubscribe`**. Hosted catalog REST (`/api/jobs`, `/api/v1/*`), MCP (`/api/mcp`), NLWeb (`/ask`), sandbox (`/api/sandbox/*`), and agent OAuth (`/api/auth/*`) are **not** operated on the public site.
+1. **Applicability**: These Terms govern access to **hashtagweb3.com**, its static catalogs under `/data/*`, HTML pages, syndication feeds (for example `/jobs/feed.xml`), and the product route **`/api/email/unsubscribe`**.
 2. **Operator Responsibility**: The individual, company, or legal entity operating, deploying, or directing the Agent is fully responsible for all actions, API calls, transactions, and state changes initiated by the Agent.
 3. **Machine Acceptance**: By transmitting an HTTP request, establishing a WebSocket/SSE connection, initiating an MCP session, or executing an automated query against any Hashtag Web3 resource, the Agent and its Operator accept these Terms in full. If the Operator does not agree, the Agent must immediately cease all access.
 
@@ -66,7 +66,7 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 
 1. **Standard Allowances**:
    - **Unauthenticated / Public Agents**: 120 requests per minute per IP address (`RateLimit-Limit: 120`, window = 60s).
-   - **Authenticated API Keys**: Tier-specific limits as provisioned in developer credentials.
+   - **Public catalog access**: Static `/data/*` JSON and syndication feeds require no API key on hashtagweb3.com.
 2. **Standard HTTP Rate Limit Headers**:
    - All responses include standard RFC rate limit headers:
      ```http
@@ -85,8 +85,8 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 ## 5. Static data & integrators
 
 1. **Machine-readable catalogs** are published at `https://hashtagweb3.com/data/*.json` (see [`/openapi.json`](https://hashtagweb3.com/openapi.json)).
-2. **No sandbox** — mock API environments are not hosted on production.
-3. **Forks** — optional agent-auth flows documented in [`/auth.md`](https://hashtagweb3.com/auth.md) apply only to private deployments, not hashtagweb3.com.
+2. **Syndication feeds** include `https://hashtagweb3.com/jobs/feed.xml`, `https://hashtagweb3.com/jobs/feed.json`, `https://hashtagweb3.com/news/feed.xml`, and `https://hashtagweb3.com/events/feed.xml`.
+3. **Integration guide**: [`/auth.md`](https://hashtagweb3.com/auth.md) and [`/developers`](https://hashtagweb3.com/developers).
 
 ---
 
@@ -131,7 +131,7 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 - **Agent Discovery (`agents.json`)**: [https://hashtagweb3.com/.well-known/agents.json](https://hashtagweb3.com/.well-known/agents.json)
 - **LLMs Context (`llms.txt`)**: [https://hashtagweb3.com/llms.txt](https://hashtagweb3.com/llms.txt)
 - **OpenAPI 3.1 Specification**: [https://hashtagweb3.com/openapi.json](https://hashtagweb3.com/openapi.json)
-- **API Catalog (RFC 9727)**: [https://hashtagweb3.com/.well-known/api-catalog.linkset.json](https://hashtagweb3.com/.well-known/api-catalog.linkset.json)
+- **API Catalog (RFC 9727)**: [https://hashtagweb3.com/.well-known/api-catalog](https://hashtagweb3.com/.well-known/api-catalog)
 - **Developer Documentation**: [https://hashtagweb3.com/developers](https://hashtagweb3.com/developers)
 - **Static jobs catalog**: [https://hashtagweb3.com/data/jobs-runtime.json](https://hashtagweb3.com/data/jobs-runtime.json)
 

@@ -12,7 +12,7 @@
     "openapi": "https://hashtagweb3.com/openapi.json",
     "agents": "https://hashtagweb3.com/.well-known/agents.json",
     "jobs_catalog": "https://hashtagweb3.com/data/jobs-runtime.json",
-    "auth_guide": "https://hashtagweb3.com/auth.md",
+    "integrator_guide": "https://hashtagweb3.com/auth.md",
     "skills": "https://hashtagweb3.com/.well-known/agent-skills/index.json"
   },
   "capabilities": [
@@ -22,7 +22,7 @@
     "news_aggregation"
   ],
   "when_to_use": "Fetch /data/* JSON snapshots and filter client-side.",
-  "when_not_to_use": "Do not expect hosted REST catalog APIs, MCP, /ask, or /api/sandbox on production.",
+  "when_not_to_use": "Do not use for non-Web3 jobs, token trading, or wallet transactions.",
   "supported_transports": [
     "https-static-json"
   ]

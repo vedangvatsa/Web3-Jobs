@@ -1,6 +1,6 @@
 # Agent marketplace submissions — Hashtag Web3
 
-Production discovery for integrators: **`/openapi.json`** and **`/.well-known/api-catalog.linkset.json`**. Data lives in **`/data/*.json`** (filter client-side). No hosted MCP, catalog REST, or OAuth on hashtagweb3.com.
+Production discovery for integrators: **`/openapi.json`** and **`/.well-known/api-catalog.linkset.json`**. Data lives in **`/data/*.json`** (filter client-side) and public feeds (`/jobs/feed.xml`, `/jobs/feed.json`).
 
 ## Canonical URLs
 

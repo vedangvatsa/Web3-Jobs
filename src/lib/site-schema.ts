@@ -12,7 +12,7 @@ export const serviceSchema = {
   },
   areaServed: 'Worldwide',
   description:
-    'Verified Web3 job postings, developer career playbooks, compensation calculators, blockchain glossary, and developer APIs.',
+    'Verified Web3 job postings, developer career playbooks, compensation calculators, blockchain glossary, and public data catalogs for integrators.',
   hasOfferCatalog: {
     '@type': 'OfferCatalog',
     name: 'Web3 Career & Intelligence Services',
@@ -30,9 +30,9 @@ export const serviceSchema = {
         '@type': 'Offer',
         itemOffered: {
           '@type': 'Service',
-          name: 'Developer APIs & Agent Tool Calling',
+          name: 'Public data catalogs & feeds',
           description:
-            'High-performance REST endpoints and Model Context Protocol (MCP) servers for AI agents.',
+            'Static JSON catalogs under /data/, OpenAPI schema, and RSS/JSON syndication feeds for agents and integrators.',
         },
       },
     ],

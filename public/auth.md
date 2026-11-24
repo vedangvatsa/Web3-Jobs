@@ -1,8 +1,8 @@
-# Hashtag Web3 — integrator guide (static data)
+# Hashtag Web3 — integrator guide
 
-Production **hashtagweb3.com** does not host catalog REST APIs, MCP JSON-RPC, NLWeb `/ask`, agent OAuth (`/api/auth/*`), or `/api/sandbox/*`.
+Public integrations use **static JSON on the CDN** and **syndication feeds**. No API key or signup is required.
 
-## Use static catalogs (no API key)
+## Static catalogs
 
 | Catalog | URL |
 |---------|-----|
@@ -18,16 +18,22 @@ Filter, search, and paginate **client-side** after download. OpenAPI: [`/openapi
 curl -sS 'https://hashtagweb3.com/data/jobs-runtime.json' -H 'Accept: application/json' | head -c 500
 ```
 
-## Product API (email only)
+## Syndication feeds
 
-- `GET/POST https://hashtagweb3.com/api/email/unsubscribe?token=…` — list unsubscribe links from transactional email.
+| Feed | URL |
+|------|-----|
+| Jobs (RSS) | `GET https://hashtagweb3.com/jobs/feed.xml` |
+| Jobs (JSON Feed) | `GET https://hashtagweb3.com/jobs/feed.json` |
+| News (RSS) | `GET https://hashtagweb3.com/news/feed.xml` |
+| Events (RSS) | `GET https://hashtagweb3.com/events/feed.xml` |
 
-## Private / fork deployments
+## Email unsubscribe
 
-The WorkOS-style **agent_auth** flow (`register` → `claim` → bearer token) may be implemented in a private deployment. It is **not** available on the public site.
+- `GET/POST https://hashtagweb3.com/api/email/unsubscribe?token=…` — unsubscribe links from transactional email (token is per-message, not a catalog key).
 
 ## Discovery
 
+- [`/.well-known/api-catalog`](https://hashtagweb3.com/.well-known/api-catalog) (RFC 9727 linkset)
 - [`/.well-known/agents.json`](https://hashtagweb3.com/.well-known/agents.json)
 - [`/llms.txt`](https://hashtagweb3.com/llms.txt)
 - [`/developers`](https://hashtagweb3.com/developers)

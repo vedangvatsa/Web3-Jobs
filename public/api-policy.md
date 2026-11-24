@@ -7,7 +7,7 @@ last-updated: "2026-09-21"
 
 # Hashtag Web3 data catalog policy
 
-Production integrators use **static JSON** under `/data/*`, not hosted REST catalog APIs.
+Production integrators use **static JSON** under `/data/*` and **syndication feeds** (`/jobs/feed.xml`, `/jobs/feed.json`, `/news/feed.xml`, `/events/feed.xml`).
 
 ## Catalog URLs
 

@@ -53,9 +53,9 @@ Machine-readable catalogs are **static JSON** on the CDN (no API key, no per-req
 | `GET /?mode=agent` | Rewrites to `agent-view.json` |
 | `GET /api/email/unsubscribe` | Email list unsubscribe (token query param) |
 
-OpenAPI spec: `https://hashtagweb3.com/openapi.json` (legacy mirror: `/api/openapi.json`).
+OpenAPI spec: `https://hashtagweb3.com/openapi.json` (YAML mirror: `/api/openapi.yaml`).
 
-**Not hosted on production:** catalog REST, MCP, `/ask`, `/api/sandbox/*`, `/api/auth/*` (see `/auth.md`).
+**Syndication feeds:** `/jobs/feed.xml`, `/jobs/feed.json`, `/news/feed.xml`, `/events/feed.xml`. Integrator guide: `/auth.md`.
 
 ## Agent discovery
 
@@ -63,7 +63,7 @@ OpenAPI spec: `https://hashtagweb3.com/openapi.json` (legacy mirror: `/api/opena
 |----------|-------------|
 | `GET /llms.txt` | Navigation index for LLMs |
 | `GET /openapi.json` | OpenAPI 3.1.0 static catalog spec |
-| `GET /auth.md` | WorkOS-spec agent auth guide (optional integrations) |
+| `GET /auth.md` | Integrator guide (static catalogs and feeds) |
 | `GET /.well-known/agents.json` | Agent discovery manifest |
 | `GET /.well-known/plugin.json` | Agent Plugins manifest |
 

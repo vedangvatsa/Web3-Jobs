@@ -1,6 +1,6 @@
 # Hashtag Web3 — developer scoped context
 
-Integrators use **static JSON on the CDN** (same data as the website). No hosted catalog REST, MCP, `/ask`, sandbox, or `/api/auth/*` on production.
+Integrators use **static JSON on the CDN** (same data as the website) and **public feeds** (no API key).
 
 ## Catalog URLs
 

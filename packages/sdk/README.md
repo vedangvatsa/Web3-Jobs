@@ -20,4 +20,4 @@ const news = await client.getNews(5);
 const term = await client.getGlossaryTerm('Zero Knowledge');
 ```
 
-Optional `baseUrl` overrides the site origin (default `https://hashtagweb3.com`). Legacy REST `/api/v1/*` is not used.
+Optional `baseUrl` overrides the site origin (default `https://hashtagweb3.com`). The client reads `/data/*` catalogs and filters locally.

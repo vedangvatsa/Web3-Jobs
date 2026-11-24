@@ -11,14 +11,14 @@ You are an AI coding agent assisting with the Hashtagweb3.com codebase.
 ## Integrator surface (production)
 - Static catalogs: `/data/*.json` (CDN), filter client-side
 - OpenAPI: `public/openapi.json` (static catalog contract)
-- Only product API route: `GET /api/email/unsubscribe`
-- Hosted catalog REST, MCP, `/ask`, sandbox, and `/api/auth/*` are **not** deployed
+- Product route: `GET /api/email/unsubscribe` (email list only)
+- Syndication: `/jobs/feed.xml`, `/jobs/feed.json`, `/news/feed.xml`, `/events/feed.xml`
 
 ## Agent discovery
 - LLMs index: `/llms.txt`
 - Agent manifest: `/.well-known/agents.json`
 - Linkset: `/.well-known/api-catalog.linkset.json`
-- Optional auth patterns for forks: `/auth.md`
+- Integrator guide: `/auth.md`
 
 ## Coding Standards
 - Update `openapi.json` and `llms.txt` when changing public catalog URLs or discovery.

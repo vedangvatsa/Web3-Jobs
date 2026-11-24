@@ -197,6 +197,9 @@ const nextConfig = {
         { source: '/adzuna.xml', destination: '/jobs/adzuna.xml' },
         { source: '/sitemap.json', destination: '/job-catalog/sitemap.json' },
         { source: '/.well-known/sitemap.json', destination: '/job-catalog/sitemap.json' },
+        // RFC 9727 canonical path; same bytes as api-catalog.linkset.json (no duplicate maintenance).
+        { source: '/.well-known/api-catalog', destination: '/.well-known/api-catalog.linkset.json' },
+        { source: '/.well-known/openapi.json', destination: '/openapi.json' },
       ],
       afterFiles: [
         { source: '/logo/companies/Chainalysis.webp', destination: '/logo/companies/chainalysis.webp' },
@@ -263,7 +266,8 @@ const nextConfig = {
           },
           {
             key: 'Link',
-            value: '</sitemap.xml>; rel="sitemap"; type="application/xml"',
+            value:
+              '</sitemap.xml>; rel="sitemap"; type="application/xml", </.well-known/sitemap.json>; rel="sitemap"; type="application/json"',
           },
           {
             key: 'Content-Security-Policy',
@@ -339,6 +343,31 @@ const nextConfig = {
         headers: [
           { key: 'Vary', value: 'Accept, Accept-Encoding' },
           { key: 'Access-Control-Allow-Origin', value: '*' },
+        ],
+      },
+      {
+        source: '/.well-known/openapi.json',
+        headers: [
+          {
+            key: 'Content-Type',
+            value: 'application/vnd.oai.openapi+json;version=3.1',
+          },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800' },
+        ],
+      },
+      // RFC 9727 API catalog (linkset profile)
+      {
+        source: '/.well-known/api-catalog',
+        headers: [
+          {
+            key: 'Content-Type',
+            value: 'application/linkset+json;profile="https://www.rfc-editor.org/rfc/rfc9727"',
+          },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=86400, stale-while-revalidate=604800' },
         ],
       },
       // Machine-readable JSON sitemap for autonomous agents
