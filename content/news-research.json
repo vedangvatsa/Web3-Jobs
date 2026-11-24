@@ -209610,11 +209610,29 @@
       ],
       "alsoCoveredBy": [],
       "id": "e01884971413f13dfab4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-22T11:54:08.214Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-25T06:36:17.000Z",
-      "lastSeenAt": "2026-11-24T01:57:39.856Z"
+      "lastSeenAt": "2026-11-24T01:57:39.856Z",
+      "reason": "source-blocked",
+      "note": "Read Crypto Briefing's report that the Tokyo Regional Taxation Bureau audited 91 crypto users and found about 3.9 billion yen in underreported income with about 1.2 billion yen assessed. CoinDesk's corroborating report returned HTTP 429 on both WebFetch and curl, so the second independent source is missing.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/tokyo-tax-audit-91-crypto-holders/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:07:10.573Z",
+      "retrySearches": [
+        "Find a second independent source on the Tokyo Regional Taxation Bureau audit of 91 crypto holders and the 3.9 billion yen in unreported income"
+      ],
+      "lastReviewedDay": "2026-11-24",
+      "nextReviewDate": "2026-11-25"
     },
     "e9dcb595afee5b16dcde": {
       "source": "Crypto Briefing",
@@ -210411,11 +210429,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "58bf78bf462f554f21df",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-22T11:54:08.214Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-25T11:09:07.000Z",
-      "lastSeenAt": "2026-11-24T01:57:39.856Z"
+      "lastSeenAt": "2026-11-24T01:57:39.856Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece: Wells Fargo's online access agreement adds Section 15 putting AI-agent activity at customers' own risk starting Nov. 24. That is a bank policy on third-party AI agents, not a Web3 or crypto event, and the candidate's other two links cover unrelated topics (AI-agent credit cards, a Visa AI wallet).",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/wells-fargo-ai-agents-at-your-own-risk/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:07:10.573Z",
+      "lastReviewedDay": "2026-11-24"
     },
     "a618944289207584d1d0": {
       "source": "Crypto Briefing",
@@ -210913,11 +210941,21 @@
       ],
       "alsoCoveredBy": [],
       "id": "680d31a6a8345fe6b79f",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-22T11:54:08.214Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-25T01:46:51.000Z",
-      "lastSeenAt": "2026-11-24T01:57:39.856Z"
+      "lastSeenAt": "2026-11-24T01:57:39.856Z",
+      "reason": "out-of-scope",
+      "note": "Read the Crypto Briefing piece: Musk told Chollet on X that the AI industry may need hundreds of billions in working capital in 2027. It concerns AI compute financing rather than crypto, and it is a forward-looking warning rather than a concrete event.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/elon-musk-ai-industry-cash-shortage/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:07:10.573Z",
+      "lastReviewedDay": "2026-11-24"
     },
     "0cbd740fa8fa298b903d": {
       "source": "BeInCrypto",
@@ -211949,11 +211987,33 @@
         "BeInCrypto"
       ],
       "id": "28ac773ed9960abe3c23",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-23T06:38:33.460Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-26T05:42:22.000Z",
-      "lastSeenAt": "2026-11-24T01:57:39.856Z"
+      "lastSeenAt": "2026-11-24T01:57:39.856Z",
+      "reason": "source-blocked",
+      "note": "Read BeInCrypto's report of the BTC/CAD flash crash and Kraken's statement that trades stand; CoinDesk returned HTTP 429 and then a Vercel challenge page, so the second independent report on the same flash crash could not be opened. CryptoSlate was read but covers separate exchange flows, not the crash.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/bitcoin-under-17000-kraken-flash-crash/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptoslate.com/bitcoins-supply-squeeze-narrative-faces-scrutiny-after-11000-btc-moves-to-kraken/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:07:10.573Z",
+      "retrySearches": [
+        "Find a second independent report on the Kraken BTC/CAD flash crash to about $16,900 and Kraken's statement that executed trades stand"
+      ],
+      "lastReviewedDay": "2026-11-24",
+      "nextReviewDate": "2026-11-25"
     },
     "9376db244b404e4da2b3": {
       "source": "BeInCrypto",
@@ -213360,11 +213420,29 @@
         "The Defiant"
       ],
       "id": "e0d8bb51a8a715d22002",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-26T20:00:34.000Z",
-      "lastSeenAt": "2026-11-24T01:57:39.856Z"
+      "lastSeenAt": "2026-11-24T01:57:39.856Z",
+      "reason": "source-blocked",
+      "note": "Both known URLs (The Block and The Defiant) returned HTTP 403 to direct GETs with the readiness user-agent, so neither report on the DOJ's $1.17 billion USDC seizure request tied to the Binance hack could be read. No source read yet.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/news/hacks/doj-seeks-over-1-1-billion-in-usdc-tied-to-binance-hack",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-24T02:07:10.573Z",
+      "retrySearches": [
+        "Find readable independent coverage and any DOJ court filing on the $1.17 billion in USDC sought over the Binance hack and Circle's possible replacement tokens"
+      ],
+      "lastReviewedDay": "2026-11-24",
+      "nextReviewDate": "2026-11-25"
     },
     "c8d61def79192b22f9a8": {
       "source": "Cointelegraph",
@@ -214595,11 +214673,16 @@
         "The Defiant"
       ],
       "id": "c356882a1fc5f35d2bdb",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-26T17:31:27.000Z",
-      "lastSeenAt": "2026-11-24T01:57:39.856Z"
+      "lastSeenAt": "2026-11-24T01:57:39.856Z",
+      "reason": "price-chatter",
+      "note": "All listed sources are market commentary on the Bitcoin rebound and equity/AI trade moves (CoinDesk markets live updates, The Defiant markets). No concrete event such as a launch, vote, ruling or filing; classified from the headlines and section labels, which were not opened because the pieces are plainly price analysis.",
+      "sourceChecks": [],
+      "reviewedAt": "2026-11-24T02:07:10.573Z",
+      "lastReviewedDay": "2026-11-24"
     },
     "5427705495064ad0ce42": {
       "source": "Cointelegraph",
@@ -422865,6 +422948,98 @@
           ],
           "reviewedAt": "2026-11-24T02:04:28.505Z",
           "articleSlug": "cftcreserves"
+        },
+        "28ac773ed9960abe3c23": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read BeInCrypto's report of the BTC/CAD flash crash and Kraken's statement that trades stand; CoinDesk returned HTTP 429 and then a Vercel challenge page, so the second independent report on the same flash crash could not be opened. CryptoSlate was read but covers separate exchange flows, not the crash.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-under-17000-kraken-flash-crash/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptoslate.com/bitcoins-supply-squeeze-narrative-faces-scrutiny-after-11000-btc-moves-to-kraken/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:07:10.573Z",
+          "retrySearches": [
+            "Find a second independent report on the Kraken BTC/CAD flash crash to about $16,900 and Kraken's statement that executed trades stand"
+          ]
+        },
+        "c356882a1fc5f35d2bdb": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "All listed sources are market commentary on the Bitcoin rebound and equity/AI trade moves (CoinDesk markets live updates, The Defiant markets). No concrete event such as a launch, vote, ruling or filing; classified from the headlines and section labels, which were not opened because the pieces are plainly price analysis.",
+          "sourceChecks": [],
+          "reviewedAt": "2026-11-24T02:07:10.573Z"
+        },
+        "58bf78bf462f554f21df": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece: Wells Fargo's online access agreement adds Section 15 putting AI-agent activity at customers' own risk starting Nov. 24. That is a bank policy on third-party AI agents, not a Web3 or crypto event, and the candidate's other two links cover unrelated topics (AI-agent credit cards, a Visa AI wallet).",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/wells-fargo-ai-agents-at-your-own-risk/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:07:10.573Z"
+        },
+        "680d31a6a8345fe6b79f": {
+          "status": "rejected",
+          "reason": "out-of-scope",
+          "note": "Read the Crypto Briefing piece: Musk told Chollet on X that the AI industry may need hundreds of billions in working capital in 2027. It concerns AI compute financing rather than crypto, and it is a forward-looking warning rather than a concrete event.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/elon-musk-ai-industry-cash-shortage/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:07:10.573Z"
+        },
+        "e0d8bb51a8a715d22002": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Both known URLs (The Block and The Defiant) returned HTTP 403 to direct GETs with the readiness user-agent, so neither report on the DOJ's $1.17 billion USDC seizure request tied to the Binance hack could be read. No source read yet.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/news/hacks/doj-seeks-over-1-1-billion-in-usdc-tied-to-binance-hack",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:07:10.573Z",
+          "retrySearches": [
+            "Find readable independent coverage and any DOJ court filing on the $1.17 billion in USDC sought over the Binance hack and Circle's possible replacement tokens"
+          ]
+        },
+        "e01884971413f13dfab4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing's report that the Tokyo Regional Taxation Bureau audited 91 crypto users and found about 3.9 billion yen in underreported income with about 1.2 billion yen assessed. CoinDesk's corroborating report returned HTTP 429 on both WebFetch and curl, so the second independent source is missing.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/tokyo-tax-audit-91-crypto-holders/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-24T02:07:10.573Z",
+          "retrySearches": [
+            "Find a second independent source on the Tokyo Regional Taxation Bureau audit of 91 crypto holders and the 3.9 billion yen in unreported income"
+          ]
         }
       },
       "baselineSlugs": [
