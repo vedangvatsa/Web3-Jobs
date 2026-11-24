@@ -6586,7 +6586,7 @@
     "sentAt": "2026-11-24T14:12:48.818Z"
   },
   "de377ffd-9610-4205-9c28-f88f4854260b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-24T14:12:51.020Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -6701,6 +6701,8 @@
       }
     ],
     "message": "- Unlimit is hiring <a href=\"https://hashtagweb3.com/cmp185?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Regulatory Compliance</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/pm414?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Manager, Prediction Markets</a>\n- ether​.fi is hiring <a href=\"https://hashtagweb3.com/mkt127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Performance Marketing</a>\n- 0G Labs is hiring <a href=\"https://hashtagweb3.com/rec65?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">HR &amp; Operations Officer</a>\n- 0x is hiring <a href=\"https://hashtagweb3.com/mkt120?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Marketing</a>",
-    "slotKey": "2026-11-24:afternoon"
+    "slotKey": "2026-11-24:afternoon",
+    "messageId": 218,
+    "sentAt": "2026-11-24T14:12:53.758Z"
   }
 }
