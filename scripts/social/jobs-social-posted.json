@@ -181492,6 +181492,34 @@
       "attemptId": "7df86c66-5bb5-416f-aad3-540f13c45e11",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "dev43",
+      "company": "DRW",
+      "title": "Software Developer",
+      "platform": "threads",
+      "postedAt": "2026-11-24T14:13:42.244Z",
+      "expectedText": "DRW is hiring Software Developer: https://hashtagweb3.com/dev43/th?og=7",
+      "snapshot": {
+        "id": "8357329",
+        "title": "Software Developer",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8357329",
+        "date": "2026-11-05T18:34:16-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Montreal",
+        "department": "EDT Technology - Trade Execution",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dev43"
+      },
+      "payload": {
+        "text": "DRW is hiring Software Developer: https://hashtagweb3.com/dev43/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/dev43/th?og=7"
+      },
+      "attemptId": "8003b928-d303-4320-8af9-3a5739ba0c18",
+      "verification": "creating"
     }
   ]
 }
