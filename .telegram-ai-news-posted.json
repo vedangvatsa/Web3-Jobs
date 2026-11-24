@@ -77,6 +77,9 @@
   "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
   "https://the-decoder.com/anthropics-appetite-for-compute-is-pushing-xai-toward-a-rent-over-build-strategy/",
   "https://www.marktechpost.com/2026/11/23/zai-glm-5-4-loop-transformer/",
+  "https://siliconangle.com/2026/11/23/ai-agent-provider-sierra-closes-1-75b-investment-amid-rapid-revenue-growth/",
+  "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+  "https://siliconangle.com/2026/11/23/anthropics-claude-ship-automates-the-final-stage-of-the-software-development-pipeline/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -233,6 +236,12 @@
   "Anthropic's appetite for compute is pushing xAI toward a rent-over-build strategy",
   "Z AI releases 750B parameter GLM-5.4 flagship model",
   "Z AI Releases GLM-5.4: A 750B Loop Transformer That Runs 28 Layers Twice",
+  "Sierra raises $1.75 billion for enterprise AI agents",
+  "AI agent provider Sierra closes $1.75B investment amid rapid revenue growth",
+  "US state attorneys general sue SpaceX over Grok output",
+  "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+  "Anthropic releases Claude Ship to automate software deployment",
+  "Anthropic’s Claude Ship automates the final stage of the software development pipeline",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -310,5 +319,8 @@
   "fp:autonomous|black|can|capabl|chain|deploy|friday|holiday|integrat|meta",
   "fp:75b|acquir|amazon|chip|decart|optimization|prepar|proprietary|research|snap",
   "fp:31b|agreement|anthropic|appetit|are|compet|comput|despit|directly|increasingly",
-  "fp:750b|architectur|capability|flagship|glm54|improv|larg|layer|loop|parameter"
+  "fp:750b|architectur|capability|flagship|glm54|improv|larg|layer|loop|parameter",
+  "fp:175b|automat|client|corporat|customer|greenoak|growth|investment|lightsp|provider",
+  "fp:action|alleg|attorney|block|child|explicit|fail|fil|general|generat",
+  "fp:anthropic|automat|automatically|cod|deployment|determin|environment|final|generat|liv"
 ]

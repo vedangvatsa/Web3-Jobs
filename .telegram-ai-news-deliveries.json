@@ -990,7 +990,7 @@
     "sentAt": "2026-11-23T22:53:16.814Z"
   },
   "f4d328c6-eec6-4269-86db-64722aaed93f": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-24T04:23:04.103Z",
     "stories": [
       {
@@ -1024,6 +1024,8 @@
         "originalTitle": "Anthropic’s Claude Ship automates the final stage of the software development pipeline"
       }
     ],
-    "slotKey": "2026-11-24:morning"
+    "slotKey": "2026-11-24:morning",
+    "messageId": 193574,
+    "sentAt": "2026-11-24T04:23:06.574Z"
   }
 }
