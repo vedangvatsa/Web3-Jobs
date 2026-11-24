@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-24T01:57:22.249Z",
+  "generatedAt": "2026-11-24T04:21:54.455Z",
   "items": [
+    {
+      "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+      "pubDate": "Tue, 24 Nov 2026 03:05:45 +0000",
+      "creator": "Danny Park",
+      "contentSnippet": "Plaintiff Larry Pearl purchased TerraUSD on Coinbase shortly before the token collapsed and accused Coinbase of misrepresentation.",
+      "source": "The Block"
+    },
     {
       "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
       "link": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -472,14 +480,6 @@
       "creator": "Felix Ng",
       "contentSnippet": "Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinne...",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist’s ACE bridge",
-      "link": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838",
-      "pubDate": "Sun, 22 Nov 2026 23:17:08 +0000",
-      "creator": "Zack Abrams",
-      "contentSnippet": "One trader managed to turn about $50 into nearly $17,700 in the wake of the exploit, according to The Block's analysis.",
-      "source": "The Block"
     },
     {
       "title": "Will Bitcoin’s big rebound hold? More tampered Ledgers found: Hodler’s Digest",
