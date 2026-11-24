@@ -160144,5 +160144,74 @@
     "company": "Fomo Labs",
     "title": "Staff Product Designer",
     "newSlug": "pm451"
+  },
+  "mkt138": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt183"
+  },
+  "cmp147": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp196"
+  },
+  "abpo2": {
+    "id": "8397260",
+    "link": "https://stripe.com/jobs/search?gh_jid=8397260",
+    "company": "Stripe",
+    "title": "Administrative Business Partner, Office of the CEO"
+  },
+  "rec75": {
+    "id": "5485908008",
+    "link": "https://job-boards.greenhouse.io/breezecash/jobs/5485908008",
+    "company": "Breeze Cash",
+    "title": "Senior HR Generalist"
+  },
+  "cmp174": {
+    "id": "8367410",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8367410?t=gh_src=&gh_jid=8367410",
+    "company": "Robinhood",
+    "title": "Futures Compliance Senior Specialist"
+  },
+  "sls436": {
+    "id": "8280264",
+    "link": "https://stripe.com/jobs/search?gh_jid=8280264",
+    "company": "Stripe",
+    "title": "Account Executive, SMB (Hunter)"
+  },
+  "sss13": {
+    "id": "8335618",
+    "link": "https://www.coinbase.com/careers/positions/8335618?gh_jid=8335618",
+    "company": "Coinbase",
+    "title": "Social Support Specialist I"
+  },
+  "tr149": {
+    "id": "8346831",
+    "link": "https://stripe.com/jobs/search?gh_jid=8346831",
+    "company": "Stripe",
+    "title": "Data Scientist, FX Quantitative Research"
+  },
+  "tr148": {
+    "id": "8346778",
+    "link": "https://stripe.com/jobs/search?gh_jid=8346778",
+    "company": "Stripe",
+    "title": "Data Scientist, FX Quantitative Research"
+  },
+  "eng862": {
+    "id": "5275660007",
+    "link": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
+    "company": "Parallel",
+    "title": "Hardware Engineering Intern (Mechanical & Electrical)"
+  },
+  "sec187": {
+    "id": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "link": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03",
+    "company": "HIFI",
+    "title": "Security Software Engineer",
+    "newSlug": "sec189"
   }
 }
