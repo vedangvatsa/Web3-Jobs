@@ -184616,7 +184616,8 @@
       },
       "account": "channel:base",
       "attemptId": "1a479e81-f6b4-4ef5-acdd-fd2a773c4681",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe605d34c87f6b96e087b089d22ba6f4469516885"
     }
   ]
 }
