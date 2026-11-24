@@ -823,5 +823,36 @@
     "slotKey": "2026-11-23:afternoon",
     "messageId": 65850,
     "sentAt": "2026-11-23T13:41:48.738Z"
+  },
+  "66e9feb7-02d0-4a9e-956a-3ec3c7691142": {
+    "status": "reserved",
+    "reservedAt": "2026-11-24T02:02:00.052Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Backpack receives NFA approval for US leveraged perpetual futures",
+        "summary": "The firm obtained its third US license this week, completing requirements to launch its new trading products.",
+        "link": "https://hashtagweb3.com/backpackfcm?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Backpack gets NFA approval, completing its US licensing stack for leveraged perps"
+      },
+      {
+        "index": -1,
+        "headline": "US Treasury Sanctions 41 Entities Linked to Prince Group",
+        "summary": "Officials penalized four individuals and 41 shell companies for supporting ongoing scam operations connected to the Prince Group.",
+        "link": "https://hashtagweb3.com/princescams?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "OFAC sanctions 41 companies tied to Prince Group scam network"
+      },
+      {
+        "index": -1,
+        "headline": "Senator Warren to oversee prediction markets as committee chair",
+        "summary": "Incoming Senate Banking Committee chair Elizabeth Warren intends to increase regulatory scrutiny of election betting and prediction platforms.",
+        "link": "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Warren to target prediction market oversight as incoming Senate Banking chair"
+      }
+    ],
+    "slotKey": "2026-11-23:evening"
   }
 }
