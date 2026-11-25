@@ -147,7 +147,7 @@
     }
   },
   {
-    "id": "1password-startups",
+    "id": "1pass-stu",
     "name": "1Password for Startups",
     "provider": "1Password for Startups",
     "category": "Developer Infra & Tooling",
@@ -434,7 +434,7 @@
     }
   },
   {
-    "id": "acala-network-grants",
+    "id": "acal-net-g",
     "name": "Acala Network Grants",
     "provider": "Acala Network",
     "category": "Web3 Ecosystem",
@@ -511,7 +511,7 @@
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "$5000 - $500,000",
-    "description": "Aethir\u2019s ecosystem fund backs teams building decentralized AI compute, gaming, and agent workloads on Aethir infrastructure, including accelerator cohorts with NEAR and Delphi Labs.",
+    "description": "Aethir’s ecosystem fund backs teams building decentralized AI compute, gaming, and agent workloads on Aethir infrastructure, including accelerator cohorts with NEAR and Delphi Labs.",
     "url": "https://aethir.com/ecosystem-fund",
     "ecosystem": "Ethereum",
     "tags": [
@@ -580,7 +580,7 @@
     }
   },
   {
-    "id": "aethir-polyhedra",
+    "id": "aeth-poly",
     "name": "Aethir x Polyhedra Grant Program",
     "provider": "Aethir",
     "category": "Web3 Ecosystem",
@@ -658,7 +658,7 @@
     }
   },
   {
-    "id": "agentic-grants",
+    "id": "agent-g",
     "name": "Agentic Engineering Grants",
     "provider": "Agentic Engineering Grants",
     "category": "Web3 Ecosystem",
@@ -730,7 +730,7 @@
     }
   },
   {
-    "id": "airtable-startups",
+    "id": "airt-stu",
     "name": "Airtable for Startups",
     "provider": "Airtable for Startups",
     "category": "Developer Infra & Tooling",
@@ -801,7 +801,7 @@
     }
   },
   {
-    "id": "airwallex-startups",
+    "id": "airw-stu",
     "name": "Airwallex for Startups",
     "provider": "Airwallex for Startups",
     "category": "Developer Infra & Tooling",
@@ -944,7 +944,7 @@
     }
   },
   {
-    "id": "alchemy-arb-grant",
+    "id": "alch-arb-g",
     "name": "Alchemy-Arbitrum Grant Program",
     "provider": "Alchemy-Arbitrum Grant Program",
     "category": "Web3 Ecosystem",
@@ -1016,7 +1016,7 @@
     }
   },
   {
-    "id": "alchemy-grants",
+    "id": "alch-g",
     "name": "Alchemy Grants",
     "provider": "Alchemy",
     "category": "Web3 Ecosystem",
@@ -1161,7 +1161,7 @@
     }
   },
   {
-    "id": "aleph-zero-fund",
+    "id": "alepzerofund",
     "name": "Aleph Zero Ecosystem Funding Program",
     "provider": "Aleph Zero Ecosystem Funding Program",
     "category": "Web3 Ecosystem",
@@ -1238,7 +1238,7 @@
     }
   },
   {
-    "id": "algolia-startups",
+    "id": "algo-stu",
     "name": "Algolia for Startups",
     "provider": "Algolia for Startups",
     "category": "Developer Infra & Tooling",
@@ -1309,13 +1309,13 @@
     }
   },
   {
-    "id": "americas-seed-fund",
+    "id": "amerseedfund",
     "name": "America's Seed Fund (NSF SBIR / STTR)",
     "provider": "National Science Foundation (NSF)",
     "category": "Global Tech & Open Source",
     "type": "Grant",
     "amount": "Up to $2,000,000 (Equity-Free)",
-    "description": "America\u2019s Seed Fund, powered by the National Science Foundation (NSF SBIR / STTR), awards up to $2,000,000 in non-dilutive federal grants for deep-tech, cryptographic, and computational innovations.",
+    "description": "America’s Seed Fund, powered by the National Science Foundation (NSF SBIR / STTR), awards up to $2,000,000 in non-dilutive federal grants for deep-tech, cryptographic, and computational innovations.",
     "url": "https://seedfund.nsf.gov",
     "ecosystem": "USA",
     "tags": [
@@ -1383,7 +1383,7 @@
     }
   },
   {
-    "id": "amplitude-startups",
+    "id": "ampl-stu",
     "name": "Amplitude for Startups (Scholarship)",
     "provider": "Amplitude for Startups (Scholarship)",
     "category": "Cloud & AI Credits",
@@ -1536,13 +1536,13 @@
     }
   },
   {
-    "id": "anthropic-startups",
+    "id": "anth-stu",
     "name": "Claude for Startups",
     "provider": "Anthropic",
     "category": "Cloud & AI Credits",
     "type": "Credit / Perk",
     "amount": "Up to $45,000 in partner offers (current members); up to $100,000 API credits via select VC partners",
-    "description": "Claude Startups is Anthropic\u2019s program for early-stage founders building on Claude. Members access partner offers, Applied AI office hours, and community events; new cohort applications open when announced on the startup newsletter.",
+    "description": "Claude Startups is Anthropic’s program for early-stage founders building on Claude. Members access partner offers, Applied AI office hours, and community events; new cohort applications open when announced on the startup newsletter.",
     "url": "https://www.anthropic.com/startups",
     "ecosystem": "Global",
     "tags": [
@@ -1610,7 +1610,7 @@
     }
   },
   {
-    "id": "applayer-grants",
+    "id": "appl-g",
     "name": "AppLayer Grants Program",
     "provider": "AppLayer Grants Program",
     "category": "Web3 Ecosystem",
@@ -1758,7 +1758,7 @@
     }
   },
   {
-    "id": "aptos-ecosystem",
+    "id": "apto-eco",
     "name": "Aptos Foundation - Ecosystem Grants",
     "provider": "Aptos Foundation - Ecosystem Grants",
     "category": "Web3 Ecosystem",
@@ -1909,7 +1909,7 @@
     }
   },
   {
-    "id": "aptos-payments-grants",
+    "id": "apto-paym-g",
     "name": "Aptos Payments Grants",
     "provider": "Aptos Payments Grants",
     "category": "Web3 Ecosystem",
@@ -2131,7 +2131,7 @@
     }
   },
   {
-    "id": "arb-open-house",
+    "id": "arb-op-hous",
     "name": "Arbitrum Open House London",
     "provider": "Arbitrum Open House London",
     "category": "Web3 Ecosystem",
@@ -2208,9 +2208,9 @@
     }
   },
   {
-    "id": "arb-robinhood",
-    "name": "Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain",
-    "provider": "Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain",
+    "id": "arb-robi",
+    "name": "Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain",
+    "provider": "Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
@@ -2233,15 +2233,15 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain is an ecosystem grant initiative powered by Arbitrum Mentorship \u2013 in collaboration with Robinhood Chain, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across Ethereum. The program provides milestone-based tranches sized according to project scope to empower talented engineering teams building scalable onchain solutions.",
-          "Grant capital is focused on high-priority infrastructure and use cases spanning DeFi, Stablecoins & Payments, Infra, Gaming, helping teams move rapidly from prototype to production with direct technical and distribution support from Arbitrum Mentorship \u2013 in collaboration with Robinhood Chain.",
-          "Beyond capital, Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain connects recipients with core network engineers, security auditors, and community stakeholders to ensure smooth mainnet deployment and sustained user adoption."
+          "Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain is an ecosystem grant initiative powered by Arbitrum Mentorship – in collaboration with Robinhood Chain, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across Ethereum. The program provides milestone-based tranches sized according to project scope to empower talented engineering teams building scalable onchain solutions.",
+          "Grant capital is focused on high-priority infrastructure and use cases spanning DeFi, Stablecoins & Payments, Infra, Gaming, helping teams move rapidly from prototype to production with direct technical and distribution support from Arbitrum Mentorship – in collaboration with Robinhood Chain.",
+          "Beyond capital, Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain connects recipients with core network engineers, security auditors, and community stakeholders to ensure smooth mainnet deployment and sustained user adoption."
         ]
       },
       {
         "heading": "Key focus areas & strategic priorities",
         "paragraphs": [
-          "The technical steering committee for Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain seeks proposals that deliver tangible utility and measurable onchain traction to Ethereum. Priority categories include:"
+          "The technical steering committee for Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain seeks proposals that deliver tangible utility and measurable onchain traction to Ethereum. Priority categories include:"
         ],
         "bullets": [
           "Decentralized protocol engineering: Implementing secure smart contracts, state transition logic, and liquidity protocols tailored to Ethereum.",
@@ -2253,7 +2253,7 @@
       {
         "heading": "Eligibility, evaluation & review criteria",
         "paragraphs": [
-          "Proposals for Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain are reviewed by core engineers and ecosystem evaluators using four primary criteria:"
+          "Proposals for Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain are reviewed by core engineers and ecosystem evaluators using four primary criteria:"
         ],
         "bullets": [
           "Architectural rigor and code quality: Well-structured GitHub repositories featuring clean commit histories, modular contracts, and comprehensive unit tests.",
@@ -2265,8 +2265,8 @@
       {
         "heading": "How to apply & milestone delivery",
         "paragraphs": [
-          "Founders and engineering teams can initiate their proposal via the official Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain portal at https://mentorship.arbitrum.io/. Submissions must include an architectural overview, link to public or private repositories, deliverable milestones, and budget allocation breakdown.",
-          "Applications are reviewed on a rolling intake cadence. Shortlisted teams participate in a technical discovery interview with Arbitrum Mentorship \u2013 in collaboration with Robinhood Chain's engineering committee to refine project milestones and security specifications.",
+          "Founders and engineering teams can initiate their proposal via the official Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain portal at https://mentorship.arbitrum.io/. Submissions must include an architectural overview, link to public or private repositories, deliverable milestones, and budget allocation breakdown.",
+          "Applications are reviewed on a rolling intake cadence. Shortlisted teams participate in a technical discovery interview with Arbitrum Mentorship – in collaboration with Robinhood Chain's engineering committee to refine project milestones and security specifications.",
           "Disbursements are milestone-gated: an initial tranche (25-30%) is provided upon onboarding, followed by milestone releases upon testnet deployment, successful smart contract audits, and production mainnet launch."
         ]
       }
@@ -2276,7 +2276,7 @@
       "fetchedAt": "2026-11-25T09:56:39.129798+00:00",
       "wordCount": 234,
       "method": "sections",
-      "pageTitle": "Arbitrum Mentorship Program (Cohort 2) \u2013 in collaboration with Robinhood Chain"
+      "pageTitle": "Arbitrum Mentorship Program (Cohort 2) – in collaboration with Robinhood Chain"
     },
     "urlLive": {
       "checkedAt": "2026-11-24T09:04:50.896Z",
@@ -2375,7 +2375,7 @@
     }
   },
   {
-    "id": "arb-stablecoin-growth",
+    "id": "arb-stab-gr",
     "name": "Arbitrum Stablecoin Growth Program",
     "provider": "Arbitrum Stablecoin Growth Program",
     "category": "Web3 Ecosystem",
@@ -2451,7 +2451,7 @@
     }
   },
   {
-    "id": "arts3-startup-award",
+    "id": "artsstuawar",
     "name": "Arts3 Startup Award",
     "provider": "Arts3 Startup Award",
     "category": "Web3 Ecosystem",
@@ -2594,7 +2594,7 @@
     }
   },
   {
-    "id": "asana-startups",
+    "id": "asan-stu",
     "name": "Asana for Startups",
     "provider": "Asana for Startups",
     "category": "Developer Infra & Tooling",
@@ -2743,13 +2743,13 @@
     }
   },
   {
-    "id": "assemblyai-startup",
+    "id": "asse-stu",
     "name": "AssemblyAI Startup Program",
     "provider": "AssemblyAI Startup Program",
     "category": "Cloud & AI Credits",
     "type": "Credit / Perk",
     "amount": "Up to $18,000 over 12 months",
-    "description": "AssemblyAI\u2019s Startup Program awards high-growth technology companies up to $18,000 in Speech AI credits to integrate advanced speech-to-text, speaker diarization, and audio intelligence APIs.",
+    "description": "AssemblyAI’s Startup Program awards high-growth technology companies up to $18,000 in Speech AI credits to integrate advanced speech-to-text, speaker diarization, and audio intelligence APIs.",
     "url": "https://www.assemblyai.com/contact/startup-program",
     "ecosystem": "Global",
     "tags": [
@@ -2814,12 +2814,12 @@
     }
   },
   {
-    "id": "atlassian-startups",
+    "id": "atla-stu",
     "name": "Atlassian for Startups",
     "provider": "Atlassian for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
-    "amount": "50 seats \u00d7 6 products free for 12 months",
+    "amount": "50 seats × 6 products free for 12 months",
     "description": "Atlassian for Startups provides early-stage companies with free 12-month access to Jira, Confluence, Jira Service Management, and Compass for up to 50 team members.",
     "url": "https://www.atlassian.com/software/startups",
     "ecosystem": "Global",
@@ -2832,7 +2832,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Atlassian for Startups is an official founder perk and enablement program provided by Atlassian, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to 50 seats \u00d7 6 products free for 12 months in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
+          "Atlassian for Startups is an official founder perk and enablement program provided by Atlassian, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to 50 seats × 6 products free for 12 months in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
           "By eliminating upfront software costs across Productivity, the program enables startup teams to preserve runway while deploying robust, enterprise-ready infrastructure on Atlassian's battle-tested platform.",
           "Participating companies benefit from technical onboarding resources, direct guidance from Atlassian's solutions engineering specialists, and structured pathways to scale as their commercial customer base expands."
         ]
@@ -2885,7 +2885,7 @@
     }
   },
   {
-    "id": "attio-startups",
+    "id": "atti-stu",
     "name": "Attio for Startups",
     "provider": "Attio for Startups",
     "category": "Developer Infra & Tooling",
@@ -2956,13 +2956,13 @@
     }
   },
   {
-    "id": "aurora-grants",
+    "id": "auro-g",
     "name": "Aurora Grants",
     "provider": "Aurora",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Aurora\u2019s partner program helps teams launch on the NEAR-based EVM chain with mentorship, marketing support, business development intros, and ecosystem introductions.",
+    "description": "Aurora’s partner program helps teams launch on the NEAR-based EVM chain with mentorship, marketing support, business development intros, and ecosystem introductions.",
     "url": "https://aurora.dev/partner",
     "ecosystem": "Aurora",
     "tags": [
@@ -3027,7 +3027,7 @@
     }
   },
   {
-    "id": "auth0-startups",
+    "id": "auth-stu",
     "name": "Auth0 for Startups",
     "provider": "Auth0 for Startups",
     "category": "Developer Infra & Tooling",
@@ -3098,7 +3098,7 @@
     }
   },
   {
-    "id": "avax-blizzard",
+    "id": "avax-bliz",
     "name": "Avalanche Blizzard Ecosystem Fund",
     "provider": "Avalanche Foundation",
     "category": "Web3 Ecosystem",
@@ -3172,13 +3172,13 @@
     }
   },
   {
-    "id": "avax-multiverse-and",
+    "id": "avax-mult",
     "name": "Avalanche Multiverse and Blizzard",
     "provider": "Avalanche Multiverse and Blizzard",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Avalanche Multiverse is an up to $290M (up to 4M AVAX) incentive program focused on accelerating the adoption and growth of its novel \u201csubnet\u201d functionality, which enables a rich ecosystem of scalable app-specific blockchains. Initially, the program is focused on supporting new ecosystems including, but not limited to, blockchain-enabled gaming, Defi, NFTs, and institutional use cases. Blizzard is an over $200M fund dedicated to accelerating development, growth, and innovation across the ecosystem of builders and users of the Avalanche public blockchain and beyond.",
+    "description": "Avalanche Multiverse is an up to $290M (up to 4M AVAX) incentive program focused on accelerating the adoption and growth of its novel “subnet” functionality, which enables a rich ecosystem of scalable app-specific blockchains. Initially, the program is focused on supporting new ecosystems including, but not limited to, blockchain-enabled gaming, Defi, NFTs, and institutional use cases. Blizzard is an over $200M fund dedicated to accelerating development, growth, and innovation across the ecosystem of builders and users of the Avalanche public blockchain and beyond.",
     "url": "https://support.avax.network/en/articles/6128565-how-do-i-get-involved-with-avalanche",
     "ecosystem": "Avalanche",
     "tags": [
@@ -3247,7 +3247,7 @@
     }
   },
   {
-    "id": "avax-research",
+    "id": "avax-r",
     "name": "Avalanche Foundation Research Grants",
     "provider": "Avalanche Foundation Research Grants",
     "category": "Web3 Ecosystem",
@@ -3397,7 +3397,7 @@
     }
   },
   {
-    "id": "backblaze-flamethrower",
+    "id": "back-flam",
     "name": "Backblaze Flamethrower",
     "provider": "Backblaze Flamethrower",
     "category": "Cloud & AI Credits",
@@ -3468,7 +3468,7 @@
     }
   },
   {
-    "id": "base-bug-bounties",
+    "id": "basebugboun",
     "name": "Base Bug Bounties",
     "provider": "Base Bug Bounties",
     "category": "Web3 Ecosystem",
@@ -3615,13 +3615,13 @@
     }
   },
   {
-    "id": "believe-builders-fund",
+    "id": "belibldfund",
     "name": "Believe Builders Fund",
     "provider": "Believe Builders Fund",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "We\u2019re committing $1,000,000 over the coming months to support high potential builders and builder communities through fellowship grants, hackathons, and targeted incentives. If you\u2019re an ambitious builder working on something interesting, we want to support you in bringing your project to life. whether you launch on Believe or not. You can work from anywhere, on anything, with anyone. Need capital to take your project to the next stage? Apply for a grant below.",
+    "description": "We’re committing $1,000,000 over the coming months to support high potential builders and builder communities through fellowship grants, hackathons, and targeted incentives. If you’re an ambitious builder working on something interesting, we want to support you in bringing your project to life. whether you launch on Believe or not. You can work from anywhere, on anything, with anyone. Need capital to take your project to the next stage? Apply for a grant below.",
     "url": "https://docs.google.com/forms/d/1gPJ-c4PdZg_bvVlaOn4dRcwJkCZxJbuouFheNysLlDs/viewform?pli=1&pli=1&edit_requested=true",
     "ecosystem": "Other",
     "tags": [
@@ -3696,7 +3696,7 @@
     }
   },
   {
-    "id": "bitdao-grants",
+    "id": "bitd-g",
     "name": "BitDAO Grants",
     "provider": "BitDAO",
     "category": "Web3 Ecosystem",
@@ -3838,7 +3838,7 @@
     }
   },
   {
-    "id": "canva-startups",
+    "id": "canv-stu",
     "name": "Canva for Startups",
     "provider": "Canva for Startups",
     "category": "Developer Infra & Tooling",
@@ -4133,7 +4133,7 @@
     }
   },
   {
-    "id": "celo-comm-fund",
+    "id": "celocommfund",
     "name": "Celo Community Fund",
     "provider": "Celo Community Fund",
     "category": "Web3 Ecosystem",
@@ -4208,7 +4208,7 @@
     "domain": "celo.org"
   },
   {
-    "id": "celo-prezenti",
+    "id": "celo-prez",
     "name": "Prezenti",
     "provider": "Prezenti",
     "category": "Web3 Ecosystem",
@@ -4282,7 +4282,7 @@
     }
   },
   {
-    "id": "certik-and-yzi",
+    "id": "cert-yzi",
     "name": "CertiK and YZi Labs audit grants",
     "provider": "CertiK and YZi Labs audit grants",
     "category": "Web3 Ecosystem",
@@ -4429,7 +4429,7 @@
     }
   },
   {
-    "id": "chaingpt-secret",
+    "id": "chai-secr",
     "name": "ChainGPT x Secret Network Grant Program",
     "provider": "ChainGPT x Secret Network Grant Program",
     "category": "Web3 Ecosystem",
@@ -4506,13 +4506,13 @@
     }
   },
   {
-    "id": "chromia-container-grant",
+    "id": "chro-cont-g",
     "name": "Chromia Container Grant Program",
     "provider": "Chromia Container Grant Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Since launching our mainnet last year, we\u2019ve been continuously enhancing Chromia\u2019s features and capabilities to provide developers with even more ways to build. Today, we are excited to introduce the Container Grant Program, designed to support developers and projects looking to explore what Chromia can offer for both new ventures and existing projects.",
+    "description": "Since launching our mainnet last year, we’ve been continuously enhancing Chromia’s features and capabilities to provide developers with even more ways to build. Today, we are excited to introduce the Container Grant Program, designed to support developers and projects looking to explore what Chromia can offer for both new ventures and existing projects.",
     "url": "https://blog.chromia.com/blog/chromia-container-grant-program",
     "ecosystem": "Other",
     "tags": [
@@ -4578,7 +4578,7 @@
     }
   },
   {
-    "id": "circle-dev-grants",
+    "id": "circ-dev-g",
     "name": "Circle Developer Grants",
     "provider": "Circle Developer Grants",
     "category": "Web3 Ecosystem",
@@ -4655,7 +4655,7 @@
     }
   },
   {
-    "id": "circleci-startup",
+    "id": "circ-stu",
     "name": "CircleCI Startup Program",
     "provider": "CircleCI Startup Program",
     "category": "Developer Infra & Tooling",
@@ -4726,7 +4726,7 @@
     }
   },
   {
-    "id": "clerk-startups",
+    "id": "cler-stu",
     "name": "Clerk for Startups",
     "provider": "Clerk for Startups",
     "category": "Developer Infra & Tooling",
@@ -4797,7 +4797,7 @@
     }
   },
   {
-    "id": "clickhouse-startup",
+    "id": "clic-stu",
     "name": "ClickHouse Startup Program",
     "provider": "ClickHouse Startup Program",
     "category": "Cloud & AI Credits",
@@ -4868,7 +4868,7 @@
     }
   },
   {
-    "id": "cloudflare-startups",
+    "id": "clou-stu",
     "name": "Cloudflare for Startups",
     "provider": "Cloudflare",
     "category": "Cloud & AI Credits",
@@ -4942,7 +4942,7 @@
     }
   },
   {
-    "id": "clr-fund-clear",
+    "id": "clrfundclea",
     "name": "clr.fund (Clear Fund)",
     "provider": "clr.fund (Clear Fund)",
     "category": "Web3 Ecosystem",
@@ -5021,7 +5021,7 @@
     }
   },
   {
-    "id": "cohere-startups",
+    "id": "cohe-stu",
     "name": "Cohere for Startups",
     "provider": "Cohere for Startups",
     "category": "Cloud & AI Credits",
@@ -5092,7 +5092,7 @@
     }
   },
   {
-    "id": "compliance-vanta-drata",
+    "id": "compvantdrat",
     "name": "Compliance: Vanta / Drata / Secureframe",
     "provider": "Compliance: Vanta / Drata / Secureframe",
     "category": "Developer Infra & Tooling",
@@ -5163,7 +5163,7 @@
     }
   },
   {
-    "id": "compound-fin-grants",
+    "id": "comp-fin-g",
     "name": "Compound Finance Grants",
     "provider": "Compound Finance",
     "category": "Web3 Ecosystem",
@@ -5234,7 +5234,7 @@
     }
   },
   {
-    "id": "confluent-startups",
+    "id": "conf-stu",
     "name": "Confluent for Startups",
     "provider": "Confluent for Startups",
     "category": "Cloud & AI Credits",
@@ -5305,13 +5305,13 @@
     }
   },
   {
-    "id": "coti-builders",
+    "id": "coti-bld",
     "name": "COTI Builders Program",
     "provider": "COTI Builders Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "The COTI Builders Program awards non-dilutive grants and technical incubation to developers building confidential decentralized applications on COTI\u2019s privacy-centric Ethereum Layer 2.",
+    "description": "The COTI Builders Program awards non-dilutive grants and technical incubation to developers building confidential decentralized applications on COTI’s privacy-centric Ethereum Layer 2.",
     "url": "https://cotinetwork.notion.site/Overview-COTI-Builders-Program-f742a22ff8ef4e648935362b9b4a9c34",
     "ecosystem": "Ethereum",
     "tags": [
@@ -5396,13 +5396,13 @@
     }
   },
   {
-    "id": "coti-web4-grant",
+    "id": "coti-web4-g",
     "name": "COTI Web4 grant program",
     "provider": "COTI Web4 grant program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "COTI\u2019s Web4 grant pays autonomous agents in $COTI on a recurring 14-day cycle based on measured on-chain usage, with starter gas and open-source agent tooling.",
+    "description": "COTI’s Web4 grant pays autonomous agents in $COTI on a recurring 14-day cycle based on measured on-chain usage, with starter gas and open-source agent tooling.",
     "url": "https://cotinetwork.medium.com/coti-launches-the-first-web4-grant-program-for-ai-agents-dad03be5053a",
     "ecosystem": "Other",
     "tags": [
@@ -5628,7 +5628,7 @@
     }
   },
   {
-    "id": "cronos-grants",
+    "id": "cron-g",
     "name": "Cronos Ecosystem Grants",
     "provider": "Cronos Ecosystem Grants",
     "category": "Web3 Ecosystem",
@@ -5777,13 +5777,13 @@
     }
   },
   {
-    "id": "customer-io-startups",
+    "id": "cust-io-stu",
     "name": "Customer.io for Startups",
     "provider": "Customer.io for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
     "amount": "Up to 12 months free (~$1,200+ value)",
-    "description": "The goal of Customer.io\u2019s startup program is to give businesses access to a best-in-class messaging tool that harnesses real-time behavioral data and advanced segmentation for those who normally wouldn\u2019t have the opportunity due to funding and budgetary restrictions.",
+    "description": "The goal of Customer.io’s startup program is to give businesses access to a best-in-class messaging tool that harnesses real-time behavioral data and advanced segmentation for those who normally wouldn’t have the opportunity due to funding and budgetary restrictions.",
     "url": "https://customer.io/startup-program-application",
     "ecosystem": "Global",
     "tags": [
@@ -5848,7 +5848,7 @@
     }
   },
   {
-    "id": "databricks-startup",
+    "id": "data-stu",
     "name": "Databricks Startup Program",
     "provider": "Databricks Startup Program",
     "category": "Cloud & AI Credits",
@@ -5919,7 +5919,7 @@
     }
   },
   {
-    "id": "datadog-startups",
+    "id": "data-stu2",
     "name": "Datadog for Startups",
     "provider": "Datadog",
     "category": "Cloud & AI Credits",
@@ -5993,7 +5993,7 @@
     }
   },
   {
-    "id": "dcloud-grants",
+    "id": "dclo-g",
     "name": "Decentralized Cloud Foundation Grants",
     "provider": "Decentralized Cloud Foundation",
     "category": "Web3 Ecosystem",
@@ -6064,7 +6064,7 @@
     }
   },
   {
-    "id": "decentraland-creator-success",
+    "id": "dececreasucc",
     "name": "Decentraland Creator Success",
     "provider": "Decentraland Creator Success",
     "category": "Web3 Ecosystem",
@@ -6147,7 +6147,7 @@
     }
   },
   {
-    "id": "decentraland-dao-grants",
+    "id": "dece-dao-g",
     "name": "Decentraland DAO Grants",
     "provider": "Decentraland DAO",
     "category": "Web3 Ecosystem",
@@ -6218,7 +6218,7 @@
     }
   },
   {
-    "id": "deel-startups",
+    "id": "deel-stu",
     "name": "Deel for Startups",
     "provider": "Deel for Startups",
     "category": "Developer Infra & Tooling",
@@ -6289,7 +6289,7 @@
     }
   },
   {
-    "id": "digitalocean-hatch",
+    "id": "digi-hatc",
     "name": "DigitalOcean Hatch Program",
     "provider": "DigitalOcean",
     "category": "Cloud & AI Credits",
@@ -6363,7 +6363,7 @@
     }
   },
   {
-    "id": "doublezero-grants",
+    "id": "doub-g",
     "name": "DoubleZero Grants Program",
     "provider": "DoubleZero Grants Program",
     "category": "Web3 Ecosystem",
@@ -6435,12 +6435,12 @@
     }
   },
   {
-    "id": "drata-startups",
+    "id": "drat-stu",
     "name": "Drata for Startups",
     "provider": "Drata for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
-    "amount": "Startup discount / credits \u2013 see page",
+    "amount": "Startup discount / credits – see page",
     "description": "Drata for Startups provides emerging technology companies with discounted access to automated compliance management, accelerating SOC 2, ISO 27001, and GDPR readiness.",
     "url": "https://drata.com/lp/startups",
     "ecosystem": "Global",
@@ -6453,7 +6453,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Drata for Startups is an official founder perk and enablement program provided by Drata, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits \u2013 see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
+          "Drata for Startups is an official founder perk and enablement program provided by Drata, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits – see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
           "By eliminating upfront software costs across Security & Compliance, the program enables startup teams to preserve runway while deploying robust, enterprise-ready infrastructure on Drata's battle-tested platform.",
           "Participating companies benefit from technical onboarding resources, direct guidance from Drata's solutions engineering specialists, and structured pathways to scale as their commercial customer base expands."
         ]
@@ -6578,7 +6578,7 @@
     }
   },
   {
-    "id": "dydx-foundation",
+    "id": "dydx-fnd",
     "name": "dYdX Foundation Grants",
     "provider": "dYdX Foundation Grants",
     "category": "Web3 Ecosystem",
@@ -6725,7 +6725,7 @@
     }
   },
   {
-    "id": "edg-developers-grants",
+    "id": "edg-dev-g",
     "name": "EDG Developers Grants",
     "provider": "EDG Developers",
     "category": "Web3 Ecosystem",
@@ -6802,7 +6802,7 @@
     "provider": "European Commission",
     "category": "Global Tech & Open Source",
     "type": "Grant",
-    "amount": "Up to \u20ac2.5M Grant + \u20ac15M Equity",
+    "amount": "Up to €2.5M Grant + €15M Equity",
     "description": "Flagship EU funding program supporting breakthrough deep-tech startups and SMEs with blended finance (non-dilutive grant + direct equity).",
     "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
     "ecosystem": "Europe",
@@ -6818,7 +6818,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "EIC Accelerator (European Innovation Council) is a high-impact funding program administered by European Commission, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to Up to \u20ac2.5M Grant + \u20ac15M Equity to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
+          "EIC Accelerator (European Innovation Council) is a high-impact funding program administered by European Commission, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to Up to €2.5M Grant + €15M Equity to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
           "The program specifically prioritizes open digital infrastructure and software commons that serve global communities without relying on extractive or proprietary business models.",
           "Awardees work alongside seasoned technical mentors and domain experts, receiving sustained milestone funding, governance guidance, and peer review throughout the project lifecycle."
         ]
@@ -6871,7 +6871,7 @@
     }
   },
   {
-    "id": "eigen-comm-grants",
+    "id": "eige-comm-g",
     "name": "Eigen Foundation Community Grants",
     "provider": "Eigen Foundation Community Grants",
     "category": "Web3 Ecosystem",
@@ -6951,13 +6951,13 @@
     }
   },
   {
-    "id": "endless-education-fund",
+    "id": "endleducfund",
     "name": "Endless Education Fund",
     "provider": "Endless Education Fund",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "To further the long-term development of the Endless ecosystem and strengthen community members\u2019 grasp of the Endless white paper, core products, and development stack, we are officially launching the Endless Education Fund. The program invites developers, researchers, educators, and content creators worldwide to contribute to Endless\u2019s knowledge base by producing systematic, professional, and high-quality educational resources for the entire ecosystem.",
+    "description": "To further the long-term development of the Endless ecosystem and strengthen community members’ grasp of the Endless white paper, core products, and development stack, we are officially launching the Endless Education Fund. The program invites developers, researchers, educators, and content creators worldwide to contribute to Endless’s knowledge base by producing systematic, professional, and high-quality educational resources for the entire ecosystem.",
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSd3FoQzfPpKE3X6x9MpbJoLDP86zvY5lUoRtqa2ojVnBnmLEA/viewform",
     "ecosystem": "Other",
     "tags": [
@@ -7026,7 +7026,7 @@
     }
   },
   {
-    "id": "eth-audit-subsidy",
+    "id": "eth-aud-subs",
     "name": "Ethereum Audit Subsidy Program",
     "provider": "Ethereum Audit Subsidy Program",
     "category": "Web3 Ecosystem",
@@ -7267,13 +7267,13 @@
     }
   },
   {
-    "id": "eth-project-odin",
+    "id": "ethprojodin",
     "name": "Ethereum Foundation - Project Odin",
     "provider": "Ethereum Foundation - Project Odin",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Every so often, in the blockchain world\u2019s usual cycle of funding scares, a team maintaining a widely used open source public good declares mayday. Libp2p is a core infrastructure stack that powers multiple Ethereum clients (among others) and a large part of Web3 infrastructure. It was, not long ago, one of the latest projects to put out a call for assistance as financial resources ran thin.",
+    "description": "Every so often, in the blockchain world’s usual cycle of funding scares, a team maintaining a widely used open source public good declares mayday. Libp2p is a core infrastructure stack that powers multiple Ethereum clients (among others) and a large part of Web3 infrastructure. It was, not long ago, one of the latest projects to put out a call for assistance as financial resources ran thin.",
     "url": "https://blog.ethereum.org/2026/02/27/project-odin",
     "ecosystem": "Ethereum",
     "tags": [
@@ -7341,13 +7341,13 @@
     }
   },
   {
-    "id": "ethsecurity-initiatives",
+    "id": "eths-init",
     "name": "ETHSecurity Initiatives",
     "provider": "ETHSecurity Initiatives",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "A focused funding round for onchain/Ethereum security projects. Anyone can propose initiatives; the ecosystem co-funds them; ETHSecurity Badge holders (\u2248200 vetted security experts) help allocate funds.",
+    "description": "A focused funding round for onchain/Ethereum security projects. Anyone can propose initiatives; the ecosystem co-funds them; ETHSecurity Badge holders (≈200 vetted security experts) help allocate funds.",
     "url": "https://initiatives.thedao.fund/",
     "ecosystem": "Ethereum",
     "tags": [
@@ -7415,7 +7415,7 @@
     }
   },
   {
-    "id": "fil-retropgf-3",
+    "id": "fil-retr-3",
     "name": "FIL-RetroPGF-3",
     "provider": "FIL-RetroPGF-3",
     "category": "Web3 Ecosystem",
@@ -7496,13 +7496,13 @@
     }
   },
   {
-    "id": "filecoin-grants",
+    "id": "file-g",
     "name": "Filecoin Foundation Grants",
     "provider": "Filecoin Foundation",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "$10,000 - $100,000+",
-    "description": "For the moment, funding requests are being reviewed through ProPGF, the Filecoin network\u2019s public goods funding program, which is funded in part by Filecoin Foundation. Upcoming ProPGF programs, dates and criteria are posted atfilpgf.io/propgf.",
+    "description": "For the moment, funding requests are being reviewed through ProPGF, the Filecoin network’s public goods funding program, which is funded in part by Filecoin Foundation. Upcoming ProPGF programs, dates and criteria are posted atfilpgf.io/propgf.",
     "url": "https://www.fil.org/grants",
     "ecosystem": "Filecoin",
     "tags": [
@@ -7725,13 +7725,13 @@
     }
   },
   {
-    "id": "fireblocks-grants",
+    "id": "fire-g",
     "name": "Fireblocks Grant Programs: Fueling Innovation in Digital Assets",
     "provider": "Fireblocks Grant Programs",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "\u0399n collaboration with leading blockchain foundations and stablecoin issuers, the Fireblocks Grant Program has been established. Goal: to help fund new and scaling projects that leverage the power of Fireblocks alongside their partners\u2019 protocols, driving the future of digital assets. To be eligible for a grant, the applicant must be an existing Fireblocks client or in the final stages of entering into a formal agreement with Fireblocks.",
+    "description": "Ιn collaboration with leading blockchain foundations and stablecoin issuers, the Fireblocks Grant Program has been established. Goal: to help fund new and scaling projects that leverage the power of Fireblocks alongside their partners’ protocols, driving the future of digital assets. To be eligible for a grant, the applicant must be an existing Fireblocks client or in the final stages of entering into a formal agreement with Fireblocks.",
     "url": "https://www.fireblocks.com/grant-program",
     "ecosystem": "PayPal, Solana, Stellar, TON, ZkSync",
     "tags": [
@@ -7814,7 +7814,7 @@
     }
   },
   {
-    "id": "fireworks-startups",
+    "id": "fire-stu",
     "name": "Fireworks for Startups",
     "provider": "Fireworks for Startups",
     "category": "Cloud & AI Credits",
@@ -7885,7 +7885,7 @@
     }
   },
   {
-    "id": "flow-dev-grants",
+    "id": "flow-dev-g",
     "name": "Flow Developer Grants",
     "provider": "Flow Developer Grants",
     "category": "Web3 Ecosystem",
@@ -8029,7 +8029,7 @@
     }
   },
   {
-    "id": "framer-startups",
+    "id": "fram-stu",
     "name": "Framer for Startups",
     "provider": "Framer for Startups",
     "category": "Developer Infra & Tooling",
@@ -8100,7 +8100,7 @@
     }
   },
   {
-    "id": "freshworks-startups",
+    "id": "fres-stu",
     "name": "Freshworks for Startups",
     "provider": "Freshworks for Startups",
     "category": "Developer Infra & Tooling",
@@ -8246,13 +8246,13 @@
     }
   },
   {
-    "id": "galaxy-quantum",
+    "id": "gala-quan",
     "name": "Galaxy Bitcoin Quantum Readiness Initiative",
     "provider": "Galaxy Bitcoin Quantum Readiness Initiative",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "$3,000 - $5,000",
-    "description": "The initiative has three pillars: \u2192 Up to $5M in developer grants for post-quantum solutions \u2192 Ongoing research & publishing via Galaxy Research \u2192 A Quantum Advisory Council of leading experts",
+    "description": "The initiative has three pillars: → Up to $5M in developer grants for post-quantum solutions → Ongoing research & publishing via Galaxy Research → A Quantum Advisory Council of leading experts",
     "url": "https://www.galaxy.com/newsroom/galaxy-launches-bitcoin-quantum-readiness-initiative",
     "ecosystem": "Other",
     "tags": [
@@ -8319,7 +8319,7 @@
     }
   },
   {
-    "id": "getblock-solana-credits",
+    "id": "getbsolacred",
     "name": "GetBlock Solana Credits Grant",
     "provider": "GetBlock Solana Credits Grant",
     "category": "Web3 Ecosystem",
@@ -8467,7 +8467,7 @@
     }
   },
   {
-    "id": "github-startups",
+    "id": "gith-stu",
     "name": "GitHub for Startups",
     "provider": "GitHub",
     "category": "Cloud & AI Credits",
@@ -8542,13 +8542,13 @@
     "domain": "github.com"
   },
   {
-    "id": "goat-ai-builder",
+    "id": "goat-ai-bld",
     "name": "GOAT AI Builder Grants Program",
     "provider": "GOAT AI Builder Grants Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Building alone can be exhausting. GOAT Agent Builder Grants provides funding and support for builders creating agent-native applications that solve real problems. If you\u2019re building agent-native applications that support repeat usage and create real economic activity, we want to hear from you.",
+    "description": "Building alone can be exhausting. GOAT Agent Builder Grants provides funding and support for builders creating agent-native applications that solve real problems. If you’re building agent-native applications that support repeat usage and create real economic activity, we want to hear from you.",
     "url": "https://www.goat.network/builder-program",
     "ecosystem": "Bitcoin",
     "tags": [
@@ -8617,7 +8617,7 @@
     }
   },
   {
-    "id": "goodbuilders-season-5",
+    "id": "good-seas-5",
     "name": "GoodBuilders Season 5",
     "provider": "GoodBuilders Season 5",
     "category": "Web3 Ecosystem",
@@ -8694,13 +8694,13 @@
     }
   },
   {
-    "id": "google-startups",
+    "id": "goog-stu",
     "name": "Google Cloud for Startups Program",
     "provider": "Google Cloud",
     "category": "Cloud & AI Credits",
     "type": "Credit / Perk",
     "amount": "Up to $200,000 in Credits ($350K for AI)",
-    "description": "Run your startup on the same cloud trusted by nearly all generative AI unicorns. Accelerate your roadmap with a unified AI stack, dedicated technical support, and up to $350,000 in credits to keep your momentum moving forward\u2014further and faster.",
+    "description": "Run your startup on the same cloud trusted by nearly all generative AI unicorns. Accelerate your roadmap with a unified AI stack, dedicated technical support, and up to $350,000 in credits to keep your momentum moving forward—further and faster.",
     "url": "https://cloud.google.com/startup",
     "ecosystem": "Global",
     "tags": [
@@ -8844,7 +8844,7 @@
     "domain": "google.com"
   },
   {
-    "id": "grackerai-startups",
+    "id": "grac-stu",
     "name": "GrackerAI for Startups",
     "provider": "GrackerAI for Startups",
     "category": "Developer Infra & Tooling",
@@ -8915,7 +8915,7 @@
     }
   },
   {
-    "id": "grafana-labs-startup",
+    "id": "graf-lab-stu",
     "name": "Grafana Labs Startup Program",
     "provider": "Grafana Labs Startup Program",
     "category": "Developer Infra & Tooling",
@@ -8986,7 +8986,7 @@
     }
   },
   {
-    "id": "gravity-grant",
+    "id": "grav-g",
     "name": "Gravity Grant Program",
     "provider": "Gravity Grant Program",
     "category": "Web3 Ecosystem",
@@ -9060,13 +9060,13 @@
     }
   },
   {
-    "id": "greed-academy-grant",
+    "id": "gree-acad-g",
     "name": "GREED Academy Grant Program",
     "provider": "GREED Academy Grant Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "GREED Academy is dedicated to helping people navigate the crypto ecosystem through accessible and impactful education. In addition to funding, the services provided to grantees can include:\n\u2022 Co-marketing support\n\u2022 Introductions to Solana ecosystem partners",
+    "description": "GREED Academy is dedicated to helping people navigate the crypto ecosystem through accessible and impactful education. In addition to funding, the services provided to grantees can include:\n• Co-marketing support\n• Introductions to Solana ecosystem partners",
     "url": "https://greed-academy.notion.site/Grant-Application-1f1016a56e9180db9191ed518d61b4d9",
     "ecosystem": "Solana",
     "tags": [
@@ -9135,7 +9135,7 @@
     }
   },
   {
-    "id": "hubspot-startups",
+    "id": "hubs-stu",
     "name": "HubSpot for Startups",
     "provider": "HubSpot for Startups",
     "category": "Developer Infra & Tooling",
@@ -9206,7 +9206,7 @@
     }
   },
   {
-    "id": "hytopia-creator-fund",
+    "id": "hytocreafund",
     "name": "HYTOPIA Creator Fund",
     "provider": "HYTOPIA Creator Fund",
     "category": "Web3 Ecosystem",
@@ -9278,13 +9278,13 @@
     }
   },
   {
-    "id": "icon-blockchain-grants",
+    "id": "icon-bc-g",
     "name": "ICON Blockchain Grants",
     "provider": "ICON Blockchain",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "ICON\u2019s Contribution Proposal System (CPS) funds interoperability, DeFi, and NFT projects that extend ICON\u2019s public blockchain with measurable on-chain adoption.",
+    "description": "ICON’s Contribution Proposal System (CPS) funds interoperability, DeFi, and NFT projects that extend ICON’s public blockchain with measurable on-chain adoption.",
     "url": "https://cps.icon.community/",
     "ecosystem": "ICON Blockchain",
     "tags": [
@@ -9349,7 +9349,7 @@
     }
   },
   {
-    "id": "idle-fin-grants",
+    "id": "idle-fin-g",
     "name": "Idle Finance Grants",
     "provider": "Idle Finance",
     "category": "Web3 Ecosystem",
@@ -9494,7 +9494,7 @@
     }
   },
   {
-    "id": "immutable-fund",
+    "id": "immu-fund",
     "name": "Immutable Fund",
     "provider": "Immutable Fund",
     "category": "Web3 Ecosystem",
@@ -9566,7 +9566,7 @@
     }
   },
   {
-    "id": "incident-io-startups",
+    "id": "inci-io-stu",
     "name": "incident.io for Startups",
     "provider": "incident.io for Startups",
     "category": "Developer Infra & Tooling",
@@ -9637,7 +9637,7 @@
     }
   },
   {
-    "id": "injective-x-microsoft",
+    "id": "inje-x-micr",
     "name": "Injective X Microsoft Nova program",
     "provider": "Injective X Microsoft Nova program",
     "category": "Web3 Ecosystem",
@@ -9719,7 +9719,7 @@
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "We understand that navigating the Interchain and the hundreds of dApps, chains and rollups can be difficult. The Builders Program provides organizations with the necessary context about the Interchain Stack and the ecosystem built on top it. It is led by a team experienced in building the ecosystem\u2019s software and infrastructure.",
+    "description": "We understand that navigating the Interchain and the hundreds of dApps, chains and rollups can be difficult. The Builders Program provides organizations with the necessary context about the Interchain Stack and the ecosystem built on top it. It is led by a team experienced in building the ecosystem’s software and infrastructure.",
     "url": "https://interchain.io/builders",
     "ecosystem": "Cosmos",
     "tags": [
@@ -9785,7 +9785,7 @@
     }
   },
   {
-    "id": "interledger-dfs",
+    "id": "inte-dfs",
     "name": "Interledger Foundation: Digital Financial Services Grant",
     "provider": "Interledger Foundation",
     "category": "Web3 Ecosystem",
@@ -9857,7 +9857,7 @@
     }
   },
   {
-    "id": "interledger-fellows",
+    "id": "inte-fell",
     "name": "Interledger Fellowship Program",
     "provider": "Interledger Fellowship Program",
     "category": "Web3 Ecosystem",
@@ -9933,7 +9933,7 @@
     }
   },
   {
-    "id": "interledger-pay",
+    "id": "inte-pay",
     "name": "Interledger Open Payments SDK grant program",
     "provider": "Interledger Open Payments SDK grant program",
     "category": "Web3 Ecosystem",
@@ -10007,7 +10007,7 @@
     }
   },
   {
-    "id": "interlink-grants",
+    "id": "inte-g",
     "name": "InterLink Foundation Grants",
     "provider": "InterLink Foundation Grants",
     "category": "Web3 Ecosystem",
@@ -10083,13 +10083,13 @@
     }
   },
   {
-    "id": "iosg-kickstarter",
+    "id": "iosg-kick",
     "name": "IOSG Kickstarter Program",
     "provider": "IOSG Kickstarter Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "IOSG Ventures\u2019 Kickstarter track offers early checks and ecosystem support for Web3, fintech, and AI founders in Asia and beyond, with curated portfolio services rather than a public milestone grant form.",
+    "description": "IOSG Ventures’ Kickstarter track offers early checks and ecosystem support for Web3, fintech, and AI founders in Asia and beyond, with curated portfolio services rather than a public milestone grant form.",
     "url": "https://iosg.vc",
     "ecosystem": "Ethereum",
     "tags": [
@@ -10229,7 +10229,7 @@
     }
   },
   {
-    "id": "jetbrains-startups",
+    "id": "jetb-stu",
     "name": "JetBrains for Startups",
     "provider": "JetBrains for Startups",
     "category": "Developer Infra & Tooling",
@@ -10300,7 +10300,7 @@
     }
   },
   {
-    "id": "jumbo-blockchain-grant",
+    "id": "jumb-bc-g",
     "name": "Jumbo Blockchain Grant Program",
     "provider": "Jumbo Blockchain Grant Program",
     "category": "Web3 Ecosystem",
@@ -10374,7 +10374,7 @@
     }
   },
   {
-    "id": "kalshi-builders",
+    "id": "kals-bld",
     "name": "Kalshi Builders Program",
     "provider": "Kalshi Builders Program",
     "category": "Web3 Ecosystem",
@@ -10526,13 +10526,13 @@
     }
   },
   {
-    "id": "langfuse-startup-discount",
+    "id": "langstudisc",
     "name": "Langfuse Startup Discount",
     "provider": "Langfuse Startup Discount",
     "category": "Cloud & AI Credits",
     "type": "Credit / Perk",
     "amount": "50% off everything for 12 months",
-    "description": "Building with LLMs is chaotic enough. Observability pricing shouldn\u2019t add to the stress. If your team is just getting started, get US$2,000 in Langfuse Cloud credits for 12 months.",
+    "description": "Building with LLMs is chaotic enough. Observability pricing shouldn’t add to the stress. If your team is just getting started, get US$2,000 in Langfuse Cloud credits for 12 months.",
     "url": "https://langfuse.com/startups",
     "ecosystem": "Global",
     "tags": [
@@ -10597,7 +10597,7 @@
     }
   },
   {
-    "id": "langsmith-startups",
+    "id": "lang-stu",
     "name": "LangSmith for Startups",
     "provider": "LangSmith for Startups",
     "category": "Cloud & AI Credits",
@@ -10739,7 +10739,7 @@
     }
   },
   {
-    "id": "linear-startups",
+    "id": "line-stu",
     "name": "Linear for Startups",
     "provider": "Linear for Startups",
     "category": "Developer Infra & Tooling",
@@ -10810,7 +10810,7 @@
     }
   },
   {
-    "id": "livepeer-grants",
+    "id": "live-g",
     "name": "Livepeer Grants",
     "provider": "Livepeer",
     "category": "Web3 Ecosystem",
@@ -10882,13 +10882,13 @@
     }
   },
   {
-    "id": "livepeer-nodes",
+    "id": "live-node",
     "name": "Livepeer Community Node Grant Program",
     "provider": "Livepeer Community Node Grant Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Livepeer is seven months into main net launch, and we\u2019ve seen an incredible amount of participation from the developer community. Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. We\u2019re excited to launch the Community Grant Program, which provides developers with grants ranging from 300 - 3000 LPT (subject to change).",
+    "description": "Livepeer is seven months into main net launch, and we’ve seen an incredible amount of participation from the developer community. Livepeer has a long term vision to build a fully decentralized video stack, and we cannot achieve this goal without a community of contributors to the project. We’re excited to launch the Community Grant Program, which provides developers with grants ranging from 300 - 3000 LPT (subject to change).",
     "url": "https://github.com/Livepeer-Community-Node/Grant-Program",
     "ecosystem": "Livepeer",
     "tags": [
@@ -10955,7 +10955,7 @@
     }
   },
   {
-    "id": "mercury-perks",
+    "id": "merc-perk",
     "name": "Mercury Perks",
     "provider": "Mercury Perks",
     "category": "Developer Infra & Tooling",
@@ -11116,7 +11116,7 @@
     }
   },
   {
-    "id": "metagammadelta-grants",
+    "id": "meta-g",
     "name": "MetaGammaDelta Grants",
     "provider": "MetaGammaDelta",
     "category": "Web3 Ecosystem",
@@ -11187,13 +11187,13 @@
     }
   },
   {
-    "id": "mina-protocol-grants",
+    "id": "mina-prot-g",
     "name": "Mina Protocol Grants",
     "provider": "Mina Foundation",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based (MINA tokens / USD)",
-    "description": "Anyone can participate in zkIgnite. Whether you\u2019re a developer, founder, designer, marketer, or just someone interested in building infra for zkApp developers, there\u2019s a place for you in the program.",
+    "description": "Anyone can participate in zkIgnite. Whether you’re a developer, founder, designer, marketer, or just someone interested in building infra for zkApp developers, there’s a place for you in the program.",
     "url": "https://minaprotocol.com/grants-wip",
     "ecosystem": "Mina",
     "tags": [
@@ -11261,7 +11261,7 @@
     }
   },
   {
-    "id": "mintlify-startups",
+    "id": "mint-stu",
     "name": "Mintlify Startups",
     "provider": "Mintlify Startups",
     "category": "Developer Infra & Tooling",
@@ -11332,7 +11332,7 @@
     }
   },
   {
-    "id": "miro-startups",
+    "id": "miro-stu",
     "name": "Miro for Startups",
     "provider": "Miro for Startups",
     "category": "Developer Infra & Tooling",
@@ -11403,7 +11403,7 @@
     }
   },
   {
-    "id": "modal-startup",
+    "id": "moda-stu",
     "name": "Modal Startup Program",
     "provider": "Modal Startup Program",
     "category": "Cloud & AI Credits",
@@ -11474,7 +11474,7 @@
     }
   },
   {
-    "id": "morph-payment-accel",
+    "id": "morppaymacce",
     "name": "Morph Payment Accelerator",
     "provider": "Morph Payment Accelerator",
     "category": "Web3 Ecosystem",
@@ -11548,7 +11548,7 @@
     }
   },
   {
-    "id": "movemaker-grant",
+    "id": "move-g",
     "name": "Movemaker Grant Program",
     "provider": "Movemaker Grant Program",
     "category": "Web3 Ecosystem",
@@ -11625,7 +11625,7 @@
     }
   },
   {
-    "id": "mozilla-fellows",
+    "id": "mozi-fell",
     "name": "Mozilla Foundation Awards & Fellowships",
     "provider": "Mozilla Foundation",
     "category": "Global Tech & Open Source",
@@ -11699,7 +11699,7 @@
     }
   },
   {
-    "id": "msft-founders",
+    "id": "msft-foun",
     "name": "Microsoft for Startups Founders Hub",
     "provider": "Microsoft Azure",
     "category": "Cloud & AI Credits",
@@ -11773,7 +11773,7 @@
     }
   },
   {
-    "id": "multiversx-grants",
+    "id": "mult-g",
     "name": "MultiversX Grants",
     "provider": "MultiversX Grants",
     "category": "Web3 Ecosystem",
@@ -11847,7 +11847,7 @@
     }
   },
   {
-    "id": "neo-eco-support",
+    "id": "neo-eco-supp",
     "name": "Neo Eco Support",
     "provider": "Neo Eco Support",
     "category": "Web3 Ecosystem",
@@ -11990,13 +11990,13 @@
     }
   },
   {
-    "id": "neon-open-source",
+    "id": "neon-op-src",
     "name": "Neon Open Source Program",
     "provider": "Neon Open Source Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Neon\u2019s Open Source Program provides monthly cash sponsorships (from a $200k+ annual pool) via GitHub Sponsors for 6-month renewable terms, plus optional Neon and AI Gateway credits (up to $5k each). Open to any active public open-source project. Requires only a sponsorship logo placement.",
+    "description": "Neon’s Open Source Program provides monthly cash sponsorships (from a $200k+ annual pool) via GitHub Sponsors for 6-month renewable terms, plus optional Neon and AI Gateway credits (up to $5k each). Open to any active public open-source project. Requires only a sponsorship logo placement.",
     "url": "https://neon.com/programs/open-source",
     "ecosystem": "Other",
     "tags": [
@@ -12071,7 +12071,7 @@
     "provider": "NLnet Foundation",
     "category": "Global Tech & Open Source",
     "type": "Grant",
-    "amount": "\u20ac5,000 - \u20ac50,000",
+    "amount": "€5,000 - €50,000",
     "description": "Through this form you can request financial support for your project. NLnet runs several funds with different themes and eligibility requirements, so learn more about our funding and see if any fund matches. Some general requirements:",
     "url": "https://nlnet.nl/propose/",
     "ecosystem": "Global / EU",
@@ -12087,7 +12087,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "NLnet NGI Zero (Next Generation Internet) is a high-impact funding program administered by NLnet, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to \u20ac5,000 - \u20ac50,000 to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
+          "NLnet NGI Zero (Next Generation Internet) is a high-impact funding program administered by NLnet, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to €5,000 - €50,000 to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
           "The program specifically prioritizes open digital infrastructure and software commons that serve global communities without relying on extractive or proprietary business models.",
           "Awardees work alongside seasoned technical mentors and domain experts, receiving sustained milestone funding, governance guidance, and peer review throughout the project lifecycle."
         ]
@@ -12140,7 +12140,7 @@
     }
   },
   {
-    "id": "nodeops-grant",
+    "id": "node-g",
     "name": "NodeOps Grant Program",
     "provider": "NodeOps Grant Program",
     "category": "Web3 Ecosystem",
@@ -12217,7 +12217,7 @@
     }
   },
   {
-    "id": "nosana-ai-grants",
+    "id": "nosa-ai-g",
     "name": "Nosana AI Grants",
     "provider": "Nosana AI Grants",
     "category": "Web3 Ecosystem",
@@ -12294,12 +12294,12 @@
     }
   },
   {
-    "id": "notion-startups",
+    "id": "noti-stu",
     "name": "Notion for Startups",
     "provider": "Notion for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
-    "amount": "Up to $12,000 (6 months \u00d7 100 users \u00d7 $20/mo)",
+    "amount": "Up to $12,000 (6 months × 100 users × $20/mo)",
     "description": "Notion for Startups offers discounted Business workspace access with Notion AI for qualifying young companies referred through partner investors or accelerators.",
     "url": "https://www.notion.com/startups",
     "ecosystem": "Global",
@@ -12312,7 +12312,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Notion for Startups is an official founder perk and enablement program provided by Notion, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Up to $12,000 (6 months \u00d7 100 users \u00d7 $20/mo) in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
+          "Notion for Startups is an official founder perk and enablement program provided by Notion, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Up to $12,000 (6 months × 100 users × $20/mo) in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
           "By eliminating upfront software costs across Productivity, the program enables startup teams to preserve runway while deploying robust, enterprise-ready infrastructure on Notion's battle-tested platform.",
           "Participating companies benefit from technical onboarding resources, direct guidance from Notion's solutions engineering specialists, and structured pathways to scale as their commercial customer base expands."
         ]
@@ -12365,7 +12365,7 @@
     }
   },
   {
-    "id": "nvidia-inception",
+    "id": "nvid-ince",
     "name": "NVIDIA Inception",
     "provider": "NVIDIA Inception",
     "category": "Cloud & AI Credits",
@@ -12442,7 +12442,7 @@
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Get a fixed amount of \u20ac200,000 to replicate and deploy O-CEI Horizon Cloud-Edge-IoT technologies O-CEI is a Horizon Europe Innovation Action advancing open, interoperable, and secure Cloud-Edge-IoT solutions through 8 Large-Scale Pilots across real-world sectors. O-CEI Horizon invites technology providers and end users to take these solutions further. Through the 2nd Open Call, selected consortia will replicate the O-CEI methodology, adopt its technologies, and demonstrate how they can be applied in new settings.",
+    "description": "Get a fixed amount of €200,000 to replicate and deploy O-CEI Horizon Cloud-Edge-IoT technologies O-CEI is a Horizon Europe Innovation Action advancing open, interoperable, and secure Cloud-Edge-IoT solutions through 8 Large-Scale Pilots across real-world sectors. O-CEI Horizon invites technology providers and end users to take these solutions further. Through the 2nd Open Call, selected consortia will replicate the O-CEI methodology, adopt its technologies, and demonstrate how they can be applied in new settings.",
     "url": "https://o-cei.eu/second-open-call/",
     "ecosystem": "EU",
     "tags": [
@@ -12511,7 +12511,7 @@
     }
   },
   {
-    "id": "ocean-protocol-grants",
+    "id": "ocea-prot-g",
     "name": "Ocean Protocol Grants",
     "provider": "Ocean Protocol",
     "category": "Web3 Ecosystem",
@@ -12582,7 +12582,7 @@
     }
   },
   {
-    "id": "octant-creator-grants",
+    "id": "octa-crea-g",
     "name": "Octant Creator Grants",
     "provider": "Octant Creator Grants",
     "category": "Web3 Ecosystem",
@@ -12661,7 +12661,7 @@
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Over the next ~6 months, the Foundation plans to work towards delivering the unique value propositions of Optimism governance, by putting forward proposals to: Restructure how capital is allocated to more effectively invest in the Superchain Enhance the OP token\u2019s role in the Superchain Add mechanisms to hold OP Labs accountable, including: A legal structure (possibly a DUNA) to allow more voting power to come online and to transfer specific assets and governance powers to the structure onchain A final set of proposal types outlined in the Operating Manual",
+    "description": "Over the next ~6 months, the Foundation plans to work towards delivering the unique value propositions of Optimism governance, by putting forward proposals to: Restructure how capital is allocated to more effectively invest in the Superchain Enhance the OP token’s role in the Superchain Add mechanisms to hold OP Labs accountable, including: A legal structure (possibly a DUNA) to allow more voting power to come online and to transfer specific assets and governance powers to the structure onchain A final set of proposal types outlined in the Operating Manual",
     "url": "https://gov.optimism.io/t/guide-to-season-9/10529",
     "ecosystem": "Ethereum",
     "tags": [
@@ -12745,7 +12745,7 @@
     }
   },
   {
-    "id": "orangedao-grants",
+    "id": "oran-g",
     "name": "OrangeDAO Grants",
     "provider": "OrangeDAO",
     "category": "Web3 Ecosystem",
@@ -12817,7 +12817,7 @@
   },
   {
     "id": "otf-freedom",
-    "name": "Open Technology Fund (OTF) \u2013 Internet Freedom Fund",
+    "name": "Open Technology Fund (OTF) – Internet Freedom Fund",
     "provider": "Open Technology Fund",
     "category": "Global Tech & Open Source",
     "type": "Grant",
@@ -12837,7 +12837,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Open Technology Fund (OTF) \u2013 Internet Freedom Fund is a high-impact funding program administered by Open Technology, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to $10,000 - $300,000 to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
+          "Open Technology Fund (OTF) – Internet Freedom Fund is a high-impact funding program administered by Open Technology, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to $10,000 - $300,000 to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
           "The program specifically prioritizes open digital infrastructure and software commons that serve global communities without relying on extractive or proprietary business models.",
           "Awardees work alongside seasoned technical mentors and domain experts, receiving sustained milestone funding, governance guidance, and peer review throughout the project lifecycle."
         ]
@@ -12880,7 +12880,7 @@
       "fetchedAt": "2026-11-25T09:56:39.129798+00:00",
       "wordCount": 337,
       "method": "sections",
-      "pageTitle": "Open Technology Fund (OTF) \u2013 Internet Freedom Fund"
+      "pageTitle": "Open Technology Fund (OTF) – Internet Freedom Fund"
     },
     "urlLive": {
       "checkedAt": "2026-11-24T09:05:11.208Z",
@@ -12890,7 +12890,7 @@
     }
   },
   {
-    "id": "pagerduty-startups",
+    "id": "page-stu",
     "name": "PagerDuty for Startups",
     "provider": "PagerDuty for Startups",
     "category": "Developer Infra & Tooling",
@@ -12961,7 +12961,7 @@
     }
   },
   {
-    "id": "persistence-grant",
+    "id": "pers-g",
     "name": "Persistence Ecosystem Grant",
     "provider": "Persistence Ecosystem Grant",
     "category": "Web3 Ecosystem",
@@ -13110,7 +13110,7 @@
     }
   },
   {
-    "id": "pinecone-startup",
+    "id": "pine-stu",
     "name": "Pinecone Startup Program",
     "provider": "Pinecone Startup Program",
     "category": "Cloud & AI Credits",
@@ -13181,7 +13181,7 @@
     }
   },
   {
-    "id": "pipedrive-startups",
+    "id": "pipe-stu",
     "name": "Pipedrive for Startups",
     "provider": "Pipedrive for Startups",
     "category": "Developer Infra & Tooling",
@@ -13252,7 +13252,7 @@
     }
   },
   {
-    "id": "polkadot-opengov",
+    "id": "polk-open",
     "name": "Polkadot OpenGov Onchain Treasury",
     "provider": "Polkadot OpenGov",
     "category": "Web3 Ecosystem",
@@ -13326,7 +13326,7 @@
     }
   },
   {
-    "id": "pollen-grants",
+    "id": "poll-g",
     "name": "Pollen Grants",
     "provider": "Pollen",
     "category": "Web3 Ecosystem",
@@ -13397,7 +13397,7 @@
     }
   },
   {
-    "id": "polygon-network-grants",
+    "id": "poly-net-g",
     "name": "Polygon Network Grants",
     "provider": "Polygon Network",
     "category": "Web3 Ecosystem",
@@ -13468,7 +13468,7 @@
     }
   },
   {
-    "id": "polymesh-network-grants",
+    "id": "poly-net-g2",
     "name": "Polymesh Network Grants",
     "provider": "Polymesh Network",
     "category": "Web3 Ecosystem",
@@ -13540,7 +13540,7 @@
     }
   },
   {
-    "id": "pooltogether-grants",
+    "id": "pool-g",
     "name": "PoolTogether Grants",
     "provider": "PoolTogether",
     "category": "Web3 Ecosystem",
@@ -13611,7 +13611,7 @@
     }
   },
   {
-    "id": "posthog-startups",
+    "id": "post-stu",
     "name": "PostHog for Startups",
     "provider": "PostHog",
     "category": "Cloud & AI Credits",
@@ -13685,7 +13685,7 @@
     }
   },
   {
-    "id": "propr-builders-grant",
+    "id": "prop-bld-g",
     "name": "Propr Builders Grant",
     "provider": "Propr Builders Grant",
     "category": "Web3 Ecosystem",
@@ -13761,7 +13761,7 @@
     }
   },
   {
-    "id": "protocol-labs-grants",
+    "id": "prot-lab-g",
     "name": "Protocol Labs Grants",
     "provider": "Protocol Labs",
     "category": "Web3 Ecosystem",
@@ -13832,12 +13832,12 @@
     }
   },
   {
-    "id": "prototype-fund",
+    "id": "prot-fund",
     "name": "Prototype Fund",
     "provider": "Open Knowledge Foundation Germany",
     "category": "Global Tech & Open Source",
     "type": "Grant",
-    "amount": "Up to \u20ac47,500",
+    "amount": "Up to €47,500",
     "description": "The Prototype Fund is a low-threshold funding program for free developers and small teams who develop innovative Free and Open Source Software from society and for society.",
     "url": "https://www.prototypefund.de/en/",
     "ecosystem": "Europe / Germany",
@@ -13853,7 +13853,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Prototype Fund is a high-impact funding program administered by Open Knowledge Germany, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to Up to \u20ac47,500 to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
+          "Prototype Fund is a high-impact funding program administered by Open Knowledge Germany, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to Up to €47,500 to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
           "The program specifically prioritizes open digital infrastructure and software commons that serve global communities without relying on extractive or proprietary business models.",
           "Awardees work alongside seasoned technical mentors and domain experts, receiving sustained milestone funding, governance guidance, and peer review throughout the project lifecycle."
         ]
@@ -13906,7 +13906,7 @@
     }
   },
   {
-    "id": "push-protocol-grants",
+    "id": "push-prot-g",
     "name": "Push Protocol Grants",
     "provider": "Push Protocol",
     "category": "Web3 Ecosystem",
@@ -14052,7 +14052,7 @@
     }
   },
   {
-    "id": "qubic-incubation",
+    "id": "qubi-inc",
     "name": "Qubic Incubation Program",
     "provider": "Qubic Incubation Program",
     "category": "Web3 Ecosystem",
@@ -14131,7 +14131,7 @@
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
     "amount": "$350,000+ in partner perks",
-    "description": "AI-powered banking and treasury, corporate cards, and bill payments. Earn -.--%1 APY on operating cash in a business account*. Pair with an investment account\u2020 to target up to -.--%2 YTM.",
+    "description": "AI-powered banking and treasury, corporate cards, and bill payments. Earn -.--%1 APY on operating cash in a business account*. Pair with an investment account† to target up to -.--%2 YTM.",
     "url": "https://ramp.com/startups",
     "ecosystem": "US",
     "tags": [
@@ -14196,7 +14196,7 @@
     }
   },
   {
-    "id": "rayls-dev-grant",
+    "id": "rayl-dev-g",
     "name": "Rayls Developer Grant Program",
     "provider": "Rayls Developer Grant Program",
     "category": "Web3 Ecosystem",
@@ -14282,7 +14282,7 @@
     }
   },
   {
-    "id": "razorpay-rize",
+    "id": "razo-rize",
     "name": "Razorpay Rize",
     "provider": "Razorpay Rize",
     "category": "Developer Infra & Tooling",
@@ -14353,7 +14353,7 @@
     }
   },
   {
-    "id": "resend-startups",
+    "id": "rese-stu",
     "name": "Resend for Startups",
     "provider": "Resend for Startups",
     "category": "Developer Infra & Tooling",
@@ -14424,7 +14424,7 @@
     }
   },
   {
-    "id": "retool-startups",
+    "id": "reto-stu",
     "name": "Retool for Startups",
     "provider": "Retool",
     "category": "Cloud & AI Credits",
@@ -14579,12 +14579,12 @@
     }
   },
   {
-    "id": "rippling-startups",
+    "id": "ripp-stu",
     "name": "Rippling for Startups",
     "provider": "Rippling for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
-    "amount": "Startup discount / credits \u2013 see page",
+    "amount": "Startup discount / credits – see page",
     "description": "Rippling for Startups delivers discounted HR, global payroll, IT device management, and corporate spend software to help young ventures manage people and operations in one platform.",
     "url": "https://www.rippling.com/en-IN/solutions/startups",
     "ecosystem": "Global",
@@ -14597,7 +14597,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Rippling for Startups is an official founder perk and enablement program provided by Rippling, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits \u2013 see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
+          "Rippling for Startups is an official founder perk and enablement program provided by Rippling, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits – see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
           "By eliminating upfront software costs across HR & Payroll, the program enables startup teams to preserve runway while deploying robust, enterprise-ready infrastructure on Rippling's battle-tested platform.",
           "Participating companies benefit from technical onboarding resources, direct guidance from Rippling's solutions engineering specialists, and structured pathways to scale as their commercial customer base expands."
         ]
@@ -14650,13 +14650,13 @@
     }
   },
   {
-    "id": "ronin-forge-innovation",
+    "id": "roniforginno",
     "name": "Ronin Forge Innovation Grant",
     "provider": "Ronin Forge Innovation Grant",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "The Ronin Forge Innovation Grant awards non-dilutive capital, game studio incubation, and distribution access to game developers building on Sky Mavis\u2019s Ronin gaming blockchain.",
+    "description": "The Ronin Forge Innovation Grant awards non-dilutive capital, game studio incubation, and distribution access to game developers building on Sky Mavis’s Ronin gaming blockchain.",
     "url": "https://forms.gle/dqqt96S63cHpsLMc7",
     "ecosystem": "Ethereum",
     "tags": [
@@ -14725,7 +14725,7 @@
     }
   },
   {
-    "id": "rootstock-grants",
+    "id": "root-g",
     "name": "Rootstock Grants Program",
     "provider": "Rootstock (IOV Labs)",
     "category": "Web3 Ecosystem",
@@ -14799,13 +14799,13 @@
     }
   },
   {
-    "id": "safepal-x-solana",
+    "id": "safe-x-sola",
     "name": "SafePal x Solana Builder Grant",
     "provider": "SafePal x Solana Builder Grant",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Today, we\u2019re excited to announce the launch of the SafePal Solana Builders Grant, a $3 million initiative designed to help Solana ecosystem projects and builders scale sustainably throughout 2026.",
+    "description": "Today, we’re excited to announce the launch of the SafePal Solana Builders Grant, a $3 million initiative designed to help Solana ecosystem projects and builders scale sustainably throughout 2026.",
     "url": "https://www.safepal.com/en/blog/solana-builders-grant",
     "ecosystem": "Solana",
     "tags": [
@@ -14883,7 +14883,7 @@
     }
   },
   {
-    "id": "salesforce-startups",
+    "id": "sale-stu",
     "name": "Salesforce for Startups",
     "provider": "Salesforce for Startups",
     "category": "Developer Infra & Tooling",
@@ -14954,7 +14954,7 @@
     }
   },
   {
-    "id": "sanity-startups",
+    "id": "sani-stu",
     "name": "Sanity for Startups",
     "provider": "Sanity for Startups",
     "category": "Developer Infra & Tooling",
@@ -15025,13 +15025,13 @@
     }
   },
   {
-    "id": "scaleup-europe-fund",
+    "id": "scaleurofund",
     "name": "Scaleup Europe Fund",
     "provider": "Scaleup Europe Fund",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "The European Commission has completed the final legal steps required to establish the Scaleup Europe Fund, a major new investment initiative designed to help Europe\u2019s most promising technology companies grow into global market leaders. With a target size of \u20ac5 billion, the Fund will invest directly in European scaleups operating in strategic technology sectors. Its first investments are expected to take place in the coming weeks.",
+    "description": "The European Commission has completed the final legal steps required to establish the Scaleup Europe Fund, a major new investment initiative designed to help Europe’s most promising technology companies grow into global market leaders. With a target size of €5 billion, the Fund will invest directly in European scaleups operating in strategic technology sectors. Its first investments are expected to take place in the coming weeks.",
     "url": "https://eic.ec.europa.eu/eic-fund/scaleup-europe-fund_en",
     "ecosystem": "EU",
     "tags": [
@@ -15115,7 +15115,7 @@
     }
   },
   {
-    "id": "secret-network-grants",
+    "id": "secr-net-g",
     "name": "Secret Network Grants",
     "provider": "Secret Network Grants",
     "category": "Web3 Ecosystem",
@@ -15191,12 +15191,12 @@
     }
   },
   {
-    "id": "segment-startups",
+    "id": "segm-stu",
     "name": "Segment for Startups",
     "provider": "Segment for Startups",
     "category": "Cloud & AI Credits",
     "type": "Credit / Perk",
-    "amount": "Startup discount / credits \u2013 see page",
+    "amount": "Startup discount / credits – see page",
     "description": "Create amazing customer experiences on Twilio with our free resources and expertise for early stage companies. Connect with our team to get help, share your story, or find out how we can work together.",
     "url": "https://www.twilio.com/en-us/solutions/startups",
     "ecosystem": "Global",
@@ -15209,7 +15209,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Segment for Startups is an official founder perk and enablement program provided by Segment, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits \u2013 see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
+          "Segment for Startups is an official founder perk and enablement program provided by Segment, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits – see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
           "By eliminating upfront software costs across Analytics & Data, the program enables startup teams to preserve runway while deploying robust, enterprise-ready infrastructure on Segment's battle-tested platform.",
           "Participating companies benefit from technical onboarding resources, direct guidance from Segment's solutions engineering specialists, and structured pathways to scale as their commercial customer base expands."
         ]
@@ -15262,13 +15262,13 @@
     }
   },
   {
-    "id": "sei-ai-accelathon",
+    "id": "sei-ai-acce",
     "name": "Sei ai/accelathon",
     "provider": "Sei ai/accelathon",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "The AI economy is evolving. Autonomous agent networks can coordinate complex interactions, manage resources, and exchange value at machine speed, and the Sei Network's sub-400ms finality and high-performance infrastructure make this possible. With up to $1M in prizes and grants across 5 tracks, It\u2019s time to accelerate this evolution.",
+    "description": "The AI economy is evolving. Autonomous agent networks can coordinate complex interactions, manage resources, and exchange value at machine speed, and the Sei Network's sub-400ms finality and high-performance infrastructure make this possible. With up to $1M in prizes and grants across 5 tracks, It’s time to accelerate this evolution.",
     "url": "https://accelathon.sei.io/",
     "ecosystem": "Cosmos",
     "tags": [
@@ -15342,7 +15342,7 @@
     }
   },
   {
-    "id": "sei-japan-fund",
+    "id": "seijapafund",
     "name": "Sei Japan Ecosystem Fund",
     "provider": "Sei Japan Ecosystem Fund",
     "category": "Web3 Ecosystem",
@@ -15651,7 +15651,7 @@
     }
   },
   {
-    "id": "shortcut-startups",
+    "id": "shor-stu",
     "name": "Shortcut for Startups",
     "provider": "Shortcut for Startups",
     "category": "Developer Infra & Tooling",
@@ -15722,7 +15722,7 @@
     }
   },
   {
-    "id": "shutter-champions",
+    "id": "shut-cham",
     "name": "Shutter Champions",
     "provider": "Shutter Champions",
     "category": "Web3 Ecosystem",
@@ -15798,13 +15798,13 @@
     }
   },
   {
-    "id": "shutter-dao-0x36",
+    "id": "shutdao0x36",
     "name": "Shutter DAO 0x36 Impact Pilot",
     "provider": "Shutter DAO 0x36 Impact Pilot",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Read through each Round 1 objective and then use the template below to propose a proactive grant under Shutter\u2019s Impact Pilot. The pilot rewards demonstrated value to Shutter\u2014not titles, affiliation, time spent, or ideas alone.",
+    "description": "Read through each Round 1 objective and then use the template below to propose a proactive grant under Shutter’s Impact Pilot. The pilot rewards demonstrated value to Shutter—not titles, affiliation, time spent, or ideas alone.",
     "url": "https://shutternetwork.discourse.group/t/shutter-dao-0x36-impact-pilot-program-round-1-grant-guide-application-template/951",
     "ecosystem": "Other",
     "tags": [
@@ -15947,7 +15947,7 @@
     }
   },
   {
-    "id": "snowflake-startup",
+    "id": "snow-stu",
     "name": "Snowflake Startup Program",
     "provider": "Snowflake Startup Program",
     "category": "Cloud & AI Credits",
@@ -16018,12 +16018,12 @@
     }
   },
   {
-    "id": "snyk-startups",
+    "id": "snyk-stu",
     "name": "Snyk for Startups",
     "provider": "Snyk for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
-    "amount": "Startup discount / credits \u2013 see page",
+    "amount": "Startup discount / credits – see page",
     "description": "Snyk for Startups provides young software teams with discounted developer security licenses, automated vulnerability scanning for open-source dependencies, code security, and container images.",
     "url": "https://snyk.io/startups/",
     "ecosystem": "Global",
@@ -16042,7 +16042,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Snyk for Startups is an official founder perk and enablement program provided by Snyk, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits \u2013 see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
+          "Snyk for Startups is an official founder perk and enablement program provided by Snyk, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to Startup discount / credits – see page in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
           "By eliminating upfront software costs across Security & Compliance, the program enables startup teams to preserve runway while deploying robust, enterprise-ready infrastructure on Snyk's battle-tested platform.",
           "Participating companies benefit from technical onboarding resources, direct guidance from Snyk's solutions engineering specialists, and structured pathways to scale as their commercial customer base expands."
         ]
@@ -16089,7 +16089,7 @@
     }
   },
   {
-    "id": "solana-grants",
+    "id": "sola-g",
     "name": "Solana Foundation Grants & Funding",
     "provider": "Solana Foundation",
     "category": "Web3 Ecosystem",
@@ -16163,7 +16163,7 @@
     }
   },
   {
-    "id": "solana-mobile-builder",
+    "id": "solamobibld",
     "name": "Solana Mobile Builder Grants",
     "provider": "Solana Mobile Builder Grants",
     "category": "Web3 Ecosystem",
@@ -16236,7 +16236,7 @@
     }
   },
   {
-    "id": "solana-scholars",
+    "id": "sola-scho",
     "name": "Solana Scholars",
     "provider": "Solana Scholars",
     "category": "Web3 Ecosystem",
@@ -16311,13 +16311,13 @@
     }
   },
   {
-    "id": "sovereign-tech",
+    "id": "sove-tech",
     "name": "Sovereign Tech Fund (STF)",
     "provider": "German Federal Ministry for Economic Affairs",
     "category": "Global Tech & Open Source",
     "type": "Grant",
-    "amount": "\u20ac50,000 - \u20ac500,000+",
-    "description": "The Sovereign Tech Fund (STF) provides \u20ac50,000 to \u20ac500,000+ in non-dilutive open-source funding to maintain and fortify critical digital infrastructure, open protocols, and security libraries.",
+    "amount": "€50,000 - €500,000+",
+    "description": "The Sovereign Tech Fund (STF) provides €50,000 to €500,000+ in non-dilutive open-source funding to maintain and fortify critical digital infrastructure, open protocols, and security libraries.",
     "url": "https://www.sovereign.tech/",
     "ecosystem": "Global",
     "tags": [
@@ -16332,7 +16332,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Sovereign Tech Fund (STF) is a high-impact funding program administered by German Federal Ministry for Economic Affairs, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to \u20ac50,000 - \u20ac500,000+ to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
+          "Sovereign Tech Fund (STF) is a high-impact funding program administered by German Federal Ministry for Economic Affairs, dedicated to supporting independent researchers, open-source technologists, and public-interest developers. The initiative deploys non-dilutive funding up to €50,000 - €500,000+ to advance privacy-preserving tools, digital sovereignty, and decentralized protocols.",
           "The program specifically prioritizes open digital infrastructure and software commons that serve global communities without relying on extractive or proprietary business models.",
           "Awardees work alongside seasoned technical mentors and domain experts, receiving sustained milestone funding, governance guidance, and peer review throughout the project lifecycle."
         ]
@@ -16385,7 +16385,7 @@
     }
   },
   {
-    "id": "spiral-grants",
+    "id": "spir-g",
     "name": "Spiral Grants",
     "provider": "Spiral",
     "category": "Web3 Ecosystem",
@@ -16456,13 +16456,13 @@
     }
   },
   {
-    "id": "ssojet-startup",
+    "id": "ssoj-stu",
     "name": "SSOJet Startup Program",
     "provider": "SSOJet Startup Program",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
     "amount": "50% off for 12 months",
-    "description": "SSOJet\u2019s startup offer provides 50% off enterprise single sign-on for twelve months to qualifying young companies that need SAML and OIDC without building auth infrastructure in-house.",
+    "description": "SSOJet’s startup offer provides 50% off enterprise single sign-on for twelve months to qualifying young companies that need SAML and OIDC without building auth infrastructure in-house.",
     "url": "https://ssojet.com/startup-apply/",
     "ecosystem": "Global",
     "tags": [
@@ -16527,7 +16527,7 @@
     }
   },
   {
-    "id": "stacks-endowment",
+    "id": "stac-endo",
     "name": "Stacks grants program",
     "provider": "Stacks grants program",
     "category": "Web3 Ecosystem",
@@ -16605,7 +16605,7 @@
     }
   },
   {
-    "id": "stacks-foundation",
+    "id": "stac-fnd",
     "name": "Stacks Foundation Grants",
     "provider": "Stacks Foundation",
     "category": "Web3 Ecosystem",
@@ -16676,7 +16676,7 @@
     }
   },
   {
-    "id": "stanford-blockchain-accel",
+    "id": "stan-bc-acce",
     "name": "Stanford Blockchain Accelerator",
     "provider": "Stanford Blockchain Accelerator",
     "category": "Web3 Ecosystem",
@@ -16757,7 +16757,7 @@
     }
   },
   {
-    "id": "starknet-grants",
+    "id": "star-g",
     "name": "Starknet Foundation Grants",
     "provider": "Starknet Foundation",
     "category": "Web3 Ecosystem",
@@ -16831,13 +16831,13 @@
     }
   },
   {
-    "id": "starkware-grants",
+    "id": "star-g2",
     "name": "StarkWare",
     "provider": "StarkWare",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "StarkWare is excited to announce the launch of a $4 million venture fund to foster the growth of blockchain startups in Africa. The fund is a testament to StarkWare\u2019s belief in the potential of blockchain in Africa, a continent historically underserved by traditional institutions, to drive global crypto adoption.",
+    "description": "StarkWare is excited to announce the launch of a $4 million venture fund to foster the growth of blockchain startups in Africa. The fund is a testament to StarkWare’s belief in the potential of blockchain in Africa, a continent historically underserved by traditional institutions, to drive global crypto adoption.",
     "url": "https://starkware.co/blog/venture-fund-blockchain-africa/",
     "ecosystem": "Ethereum",
     "tags": [
@@ -16905,7 +16905,7 @@
     }
   },
   {
-    "id": "startup-accel-grant",
+    "id": "stu-acce-g",
     "name": "Startup Accelerator Grant",
     "provider": "Startup Accelerator Grant",
     "category": "Web3 Ecosystem",
@@ -16942,7 +16942,7 @@
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Get up to $10,000 in DD.xyz API credits to add an extra layer of due diligence to your dApp Integrate Webacy's robust APIs to equip you and your users with the critical intelligence needed for effective due diligence and decentralized decision-making within the web3 ecosystem. Empower them with the tools to navigate the landscape confidently and make informed choices. Webacy's Risk Engine is at the core of all out API endpoints. This powerful engine provides the broadest coverage across the blockchain ecosystem by aggregating data from over 15 diverse data providers, complemented by our proprietary data analytics and advanced algorithms. We process millions of signals monthly, incorporating the latest and most up-to-date information spanning compliance, regulatory data, potential threats, and community-sourced insights. What does this mean for your integration? By utilizing DD.xys&rsquo; APIs, you provide your users with access to the most extensive and current risk-related data available. Unlike solutions relying on a single data source, our multi-provider approach offers a comprehensive and nuanced understanding of the complexities within web3. Our engine combines the power of AI-driven analysis with human refinement, ensuring both efficient processing and highly accurate information for user evaluation. Facilitating informed decision-making requires providing relevant data across the web3 journey. Our APIs deliver crucial insights at key interaction points: Wallet Risk Insights: Enable users to understand the risk profiles associated with different wallets and their activities. Transaction Intelligence: Provide users with data to evaluate the potential risks associated with specific transactions. Token Analysis: Equip users with comprehensive data and risk assessments for all tokens Smart Contract Analysis: Offer users information to assess the security and potential risks of interacting with various smart contracts. Contextual Awareness: Equip users with the information needed to understand the broader context surrounding their web3 interactions. The DD.xyz Platform is architected to empower projects and end-users throughout their web3 experience. Our APIs are designed to be valuable at every stage, providing the data necessary for individuals to conduct their own due diligence and make well-informed decisions. Built by a team with deep expertise in crypto, cybersecurity, AI, and data integration, Webacy provides the foundational data layer for informed participation in web3. We process vast amounts of information, allowing your users to access critical intelligence and exercise greater autonomy in their web3 journey. Integrate our infrastructure and empower your users with the knowledge they need to navigate web3 with confidence. \ufe0f Apply for the grant now. We are receiving a large volume of applications, and may not have the time to give detailed feedback on every submission. Please keep that in mind before you apply. \ud83c\udffb&zwj; Our APIs Threat Risks API This API discovers the risk of any on-chain address. This includes any contract, wallet, EOA (Externally Owned Account), token, NFT, or otherwise. It analyzes an address' threat to others. It returns risk data associated with the supplied address. It flags if the address appears in any sanctioned databases or has been historically flagged as malicious. Some common use cases for this endpoint include: Filtering addresses for spam/sybil Blocking high-risk addresses from utilizing your service (compliance, platform safety) Flagging high-risk addresses (tokens, contracts, P2P participants) Example implementation: Block, limit and/or track unwanted addresses (like spam, bots, clones, OFAC/SCAM/Blacklisted/Terrorism financing addresses) from entering/signing in to your platform. Highlighting token risk analysis prior to a swap, or within a users wallet. Approval Risks API This API analyzes the risks associated with token approvals given by a specific address. It returns data indicating potentially risky approvals, such as those granting unlimited allowance to suspicious contracts. This helps users understand and manage their token permissions. Some common use cases for this endpoint include: Alerting users about potentially dangerous token approvals Providing insights into a user's approval history Identifying and mitigating risks related to token drain attacks Example implementation: Display historical risk data to a user. Better understand a user&rsquo;s behavioral patterns. Provide recommendations to users based on transactional health history. Assess a user&rsquo;s historical activity in order to approve or adjust a loan or financial terms. Transaction Risks API This API returns risk data associated with a given transaction. It incorporates various risk factors, including the risk profiles of the involved addresses (both sender and receiver) and the risk associated with the smart contract being interacted with. Some common use cases for this endpoint include: Evaluating the risk level of transactions occurring on your platform Providing users with risk assessments before they confirm transactions Implementing fraud detection mechanisms Example implementation: Exposure Risk API This API returns the 'risk profile' of a given address. It indicates the level of exposure the address has to risky activities based on its historical transactions, on-chain behavior, and the risk profiles of the assets it holds. Some common use cases for this endpoint include: Understanding the overall risk level of a user's wallet Identifying users with high exposure to risky entities or activities Tailoring risk mitigation strategies based on a user's exposure profile Example implementation: Add an UI element so once the user connects their wallet, they&rsquo;ll be able to see how safe it is (low/medium/safe/safest) directly in your dApp. For example, an infographic &ldquo;Safety Score: LOW&rdquo;. Contract Risk API This API analyzes the risk associated with a given smart contract address. It returns data points and risk scores related to the contract's security, potential vulnerabilities, and historical behavior. Some common use cases for this endpoint include: Evaluating the safety of smart contracts before interacting with them Providing users with risk assessments of smart contracts Identifying potentially malicious or vulnerable contracts Identifying past behaviour of contract deployer Example Implementation: Flag tokens, NFTs, NFT collections or addresses in your platform with an UI element in the case they are malicious. Let your users know that the address might be malicious and that they should DYOR. We&rsquo;ve seen the most demand coming from exchanges, swaps, bridges, DeFi protocols and launchpads. URL Risk This API analyzes the safety of a given URL. It determines if the URL is associated with phishing scams, malware distribution, or other malicious activities. Some common use cases for this endpoint include: Protecting users from phishing attacks by identifying malicious URLs Scanning URLs before allowing users to navigate to them within your application Identifying and blocking known malicious websites Common use case: Quest and SocialFi platforms integrate URL Risk API to check/block/track/limit if any URL/link their users post is malicious/drainer/phishing. Holder Analysis API (Invite Only Endpoint) This API provides detailed analysis of the early holders of a specific token. It returns data points related to the distribution of the token among early adopters, identifying potential risks associated with concentrated ownership or suspicious early activity. Some common use cases for this endpoint include: Conducting due diligence on new tokens Identifying potential risks related to token distribution Providing insights into the early dynamics of a token's ownership Example implementation: AI Agents or trading bots highlighting high bundling or sniping as an issue and not interacting with a potential rug-pull. Highlighting bundling/sniping history prior to a swap.&nbsp; \ufe0f How it works Submit the application form (won&rsquo;t take more than 10 minutes!). Wait for 72 hours to hear back with a decision. If approved, you'll receive an email notification for onboarding and further steps.&nbsp; Guidelines Be concise &amp; precise: Being clear and concise is always helpful. Bonus points if the application contains well-defined technical details (wherever required). Don&rsquo;t hesitate to contact us to amend or edit your requirements: Beyond what is specified, if you have any unique insight regarding what your current needs are, feel free to reach out to us info@webacy.com.&nbsp; Do your homework: Read our API docs, research about Webacy and ask questions if needed. Differentiation: Your application should make it clear how your project is differentiated from other similar projects across relevant ecosystems. Frequently asked questions Where can I read more information about Webacy and its APIs? You can access more information at&nbsp; https://docs.webacy.com/ &nbsp; What chains do you support? We support Solana, Ethereum, Polygon, Arbitrum, Optimism, BSC, Sei, Sui, Stellar, Ton, and Base. More on the roadmap How much time do I have to integrate?&nbsp; You have up to 3 months to integrate but the integration agreement should be signed as soon as you are selected as grant winner. Are there any other benefits? Yes, amongst other benefits are co-marketing (access to an audience of over 250,000 unique users) and Webacy PRO access passes for your community or users. Can I whitelabel the frontend UI of the integration? Yes, you can choose whether to add DD.xyz logo/name, or make it completely yours. We can also provide you with a JavaScript snippet which you can copy and paste for the frontend UI. Who is eligible to apply for the grant? Any dApp that supports and is building on Solana, Ethereum, Polygon, Arbitrum, Optimism, BSC, Sei, Ton and Base What criteria will the panelists use to evaluate grants? We prefer projects that 1) yield results quickly 2) are executable by the proposing team. What conditions apply? The only condition is that you periodically update us about the API integration stage and you actively communicate. Will I receive feedback on my proposal if it is rejected? To the best of our abilities given the large volume of submissions.&nbsp; \ufe0f Apply for the grant now."
+          "Get up to $10,000 in DD.xyz API credits to add an extra layer of due diligence to your dApp Integrate Webacy's robust APIs to equip you and your users with the critical intelligence needed for effective due diligence and decentralized decision-making within the web3 ecosystem. Empower them with the tools to navigate the landscape confidently and make informed choices. Webacy's Risk Engine is at the core of all out API endpoints. This powerful engine provides the broadest coverage across the blockchain ecosystem by aggregating data from over 15 diverse data providers, complemented by our proprietary data analytics and advanced algorithms. We process millions of signals monthly, incorporating the latest and most up-to-date information spanning compliance, regulatory data, potential threats, and community-sourced insights. What does this mean for your integration? By utilizing DD.xys&rsquo; APIs, you provide your users with access to the most extensive and current risk-related data available. Unlike solutions relying on a single data source, our multi-provider approach offers a comprehensive and nuanced understanding of the complexities within web3. Our engine combines the power of AI-driven analysis with human refinement, ensuring both efficient processing and highly accurate information for user evaluation. Facilitating informed decision-making requires providing relevant data across the web3 journey. Our APIs deliver crucial insights at key interaction points: Wallet Risk Insights: Enable users to understand the risk profiles associated with different wallets and their activities. Transaction Intelligence: Provide users with data to evaluate the potential risks associated with specific transactions. Token Analysis: Equip users with comprehensive data and risk assessments for all tokens Smart Contract Analysis: Offer users information to assess the security and potential risks of interacting with various smart contracts. Contextual Awareness: Equip users with the information needed to understand the broader context surrounding their web3 interactions. The DD.xyz Platform is architected to empower projects and end-users throughout their web3 experience. Our APIs are designed to be valuable at every stage, providing the data necessary for individuals to conduct their own due diligence and make well-informed decisions. Built by a team with deep expertise in crypto, cybersecurity, AI, and data integration, Webacy provides the foundational data layer for informed participation in web3. We process vast amounts of information, allowing your users to access critical intelligence and exercise greater autonomy in their web3 journey. Integrate our infrastructure and empower your users with the knowledge they need to navigate web3 with confidence. ️ Apply for the grant now. We are receiving a large volume of applications, and may not have the time to give detailed feedback on every submission. Please keep that in mind before you apply. 🏻&zwj; Our APIs Threat Risks API This API discovers the risk of any on-chain address. This includes any contract, wallet, EOA (Externally Owned Account), token, NFT, or otherwise. It analyzes an address' threat to others. It returns risk data associated with the supplied address. It flags if the address appears in any sanctioned databases or has been historically flagged as malicious. Some common use cases for this endpoint include: Filtering addresses for spam/sybil Blocking high-risk addresses from utilizing your service (compliance, platform safety) Flagging high-risk addresses (tokens, contracts, P2P participants) Example implementation: Block, limit and/or track unwanted addresses (like spam, bots, clones, OFAC/SCAM/Blacklisted/Terrorism financing addresses) from entering/signing in to your platform. Highlighting token risk analysis prior to a swap, or within a users wallet. Approval Risks API This API analyzes the risks associated with token approvals given by a specific address. It returns data indicating potentially risky approvals, such as those granting unlimited allowance to suspicious contracts. This helps users understand and manage their token permissions. Some common use cases for this endpoint include: Alerting users about potentially dangerous token approvals Providing insights into a user's approval history Identifying and mitigating risks related to token drain attacks Example implementation: Display historical risk data to a user. Better understand a user&rsquo;s behavioral patterns. Provide recommendations to users based on transactional health history. Assess a user&rsquo;s historical activity in order to approve or adjust a loan or financial terms. Transaction Risks API This API returns risk data associated with a given transaction. It incorporates various risk factors, including the risk profiles of the involved addresses (both sender and receiver) and the risk associated with the smart contract being interacted with. Some common use cases for this endpoint include: Evaluating the risk level of transactions occurring on your platform Providing users with risk assessments before they confirm transactions Implementing fraud detection mechanisms Example implementation: Exposure Risk API This API returns the 'risk profile' of a given address. It indicates the level of exposure the address has to risky activities based on its historical transactions, on-chain behavior, and the risk profiles of the assets it holds. Some common use cases for this endpoint include: Understanding the overall risk level of a user's wallet Identifying users with high exposure to risky entities or activities Tailoring risk mitigation strategies based on a user's exposure profile Example implementation: Add an UI element so once the user connects their wallet, they&rsquo;ll be able to see how safe it is (low/medium/safe/safest) directly in your dApp. For example, an infographic &ldquo;Safety Score: LOW&rdquo;. Contract Risk API This API analyzes the risk associated with a given smart contract address. It returns data points and risk scores related to the contract's security, potential vulnerabilities, and historical behavior. Some common use cases for this endpoint include: Evaluating the safety of smart contracts before interacting with them Providing users with risk assessments of smart contracts Identifying potentially malicious or vulnerable contracts Identifying past behaviour of contract deployer Example Implementation: Flag tokens, NFTs, NFT collections or addresses in your platform with an UI element in the case they are malicious. Let your users know that the address might be malicious and that they should DYOR. We&rsquo;ve seen the most demand coming from exchanges, swaps, bridges, DeFi protocols and launchpads. URL Risk This API analyzes the safety of a given URL. It determines if the URL is associated with phishing scams, malware distribution, or other malicious activities. Some common use cases for this endpoint include: Protecting users from phishing attacks by identifying malicious URLs Scanning URLs before allowing users to navigate to them within your application Identifying and blocking known malicious websites Common use case: Quest and SocialFi platforms integrate URL Risk API to check/block/track/limit if any URL/link their users post is malicious/drainer/phishing. Holder Analysis API (Invite Only Endpoint) This API provides detailed analysis of the early holders of a specific token. It returns data points related to the distribution of the token among early adopters, identifying potential risks associated with concentrated ownership or suspicious early activity. Some common use cases for this endpoint include: Conducting due diligence on new tokens Identifying potential risks related to token distribution Providing insights into the early dynamics of a token's ownership Example implementation: AI Agents or trading bots highlighting high bundling or sniping as an issue and not interacting with a potential rug-pull. Highlighting bundling/sniping history prior to a swap.&nbsp; ️ How it works Submit the application form (won&rsquo;t take more than 10 minutes!). Wait for 72 hours to hear back with a decision. If approved, you'll receive an email notification for onboarding and further steps.&nbsp; Guidelines Be concise &amp; precise: Being clear and concise is always helpful. Bonus points if the application contains well-defined technical details (wherever required). Don&rsquo;t hesitate to contact us to amend or edit your requirements: Beyond what is specified, if you have any unique insight regarding what your current needs are, feel free to reach out to us info@webacy.com.&nbsp; Do your homework: Read our API docs, research about Webacy and ask questions if needed. Differentiation: Your application should make it clear how your project is differentiated from other similar projects across relevant ecosystems. Frequently asked questions Where can I read more information about Webacy and its APIs? You can access more information at&nbsp; https://docs.webacy.com/ &nbsp; What chains do you support? We support Solana, Ethereum, Polygon, Arbitrum, Optimism, BSC, Sei, Sui, Stellar, Ton, and Base. More on the roadmap How much time do I have to integrate?&nbsp; You have up to 3 months to integrate but the integration agreement should be signed as soon as you are selected as grant winner. Are there any other benefits? Yes, amongst other benefits are co-marketing (access to an audience of over 250,000 unique users) and Webacy PRO access passes for your community or users. Can I whitelabel the frontend UI of the integration? Yes, you can choose whether to add DD.xyz logo/name, or make it completely yours. We can also provide you with a JavaScript snippet which you can copy and paste for the frontend UI. Who is eligible to apply for the grant? Any dApp that supports and is building on Solana, Ethereum, Polygon, Arbitrum, Optimism, BSC, Sei, Ton and Base What criteria will the panelists use to evaluate grants? We prefer projects that 1) yield results quickly 2) are executable by the proposing team. What conditions apply? The only condition is that you periodically update us about the API integration stage and you actively communicate. Will I receive feedback on my proposal if it is rejected? To the best of our abilities given the large volume of submissions.&nbsp; ️ Apply for the grant now."
         ]
       }
     ],
@@ -16961,7 +16961,7 @@
     }
   },
   {
-    "id": "statsig-startup",
+    "id": "stat-stu",
     "name": "Statsig Startup Program",
     "provider": "Statsig Startup Program",
     "category": "Cloud & AI Credits",
@@ -17032,7 +17032,7 @@
     }
   },
   {
-    "id": "stellar-academic",
+    "id": "stel-acad",
     "name": "Stellar Foundation - Academic Research Grant",
     "provider": "Stellar Foundation - Academic Research Grant",
     "category": "Web3 Ecosystem",
@@ -17108,7 +17108,7 @@
     }
   },
   {
-    "id": "stellar-bounty",
+    "id": "stel-boun",
     "name": "Stellar Foundation - Bug Bounty Program",
     "provider": "Stellar Foundation - Bug Bounty Program",
     "category": "Web3 Ecosystem",
@@ -17181,7 +17181,7 @@
     }
   },
   {
-    "id": "stellar-comm-fund",
+    "id": "stelcommfund",
     "name": "Stellar Community Fund (SCF)",
     "provider": "Stellar Community Fund (SCF)",
     "category": "Web3 Ecosystem",
@@ -17255,13 +17255,13 @@
     }
   },
   {
-    "id": "stellar-comm-launch",
+    "id": "stelcommlaun",
     "name": "Stellar Community Launch QF Round",
     "provider": "Stellar Community Launch QF Round",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "Looking for passionate community builders ready to host Stellar-focused educational events in new regions. This round is not only about funding - it\u2019s your chance to be recognized as a potential chapter lead in the global Stellar Ambassador Program.",
+    "description": "Looking for passionate community builders ready to host Stellar-focused educational events in new regions. This round is not only about funding - it’s your chance to be recognized as a potential chapter lead in the global Stellar Ambassador Program.",
     "url": "https://giveth.typeform.com/StellarQFRound",
     "ecosystem": "Stellar",
     "tags": [
@@ -17330,13 +17330,13 @@
     }
   },
   {
-    "id": "stellar-grants-funding",
+    "id": "stel-g-fund",
     "name": "Stellar Grants & Funding",
     "provider": "Stellar Grants & Funding",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "The Stellar Development Foundation currently holds 30 billion XLM to be used for promoting and enhancing Stellar. Part of that amount goes directly into grants and funding to projects building on and contributing to the growth of the Stellar network. Explore our grants below and see if you\u2019re eligible to apply today.",
+    "description": "The Stellar Development Foundation currently holds 30 billion XLM to be used for promoting and enhancing Stellar. Part of that amount goes directly into grants and funding to projects building on and contributing to the growth of the Stellar network. Explore our grants below and see if you’re eligible to apply today.",
     "url": "https://stellar.org/grants-and-funding",
     "ecosystem": "Stellar",
     "tags": [
@@ -17403,7 +17403,7 @@
     }
   },
   {
-    "id": "stellar-marketing-grants",
+    "id": "stel-mkt-g",
     "name": "Stellar Foundation - Marketing Grants",
     "provider": "Stellar Foundation - Marketing Grants",
     "category": "Web3 Ecosystem",
@@ -17475,7 +17475,7 @@
     }
   },
   {
-    "id": "stellar-matching-fund",
+    "id": "stelmafu",
     "name": "Stellar Foundation - Matching Fund",
     "provider": "Stellar Foundation - Matching Fund",
     "category": "Web3 Ecosystem",
@@ -17762,7 +17762,7 @@
     }
   },
   {
-    "id": "stripe-startups",
+    "id": "stri-stu",
     "name": "Stripe Startups",
     "provider": "Stripe Startups",
     "category": "Developer Infra & Tooling",
@@ -17833,7 +17833,7 @@
     }
   },
   {
-    "id": "subquery-network-grants",
+    "id": "subq-net-g",
     "name": "SubQuery Network Grants",
     "provider": "SubQuery Network",
     "category": "Web3 Ecosystem",
@@ -17904,7 +17904,7 @@
     }
   },
   {
-    "id": "subspace-grants",
+    "id": "subs-g",
     "name": "Subspace Foundation Grants Program",
     "provider": "Subspace Foundation Grants Program",
     "category": "Web3 Ecosystem",
@@ -18131,7 +18131,7 @@
     }
   },
   {
-    "id": "tally-startups",
+    "id": "tall-stu",
     "name": "Tally for Startups",
     "provider": "Tally for Startups",
     "category": "Developer Infra & Tooling",
@@ -18202,7 +18202,7 @@
     }
   },
   {
-    "id": "tether-dev-grants",
+    "id": "teth-dev-g",
     "name": "Tether Developer Grants Program",
     "provider": "Tether Developer Grants Program",
     "category": "Web3 Ecosystem",
@@ -18278,7 +18278,7 @@
     }
   },
   {
-    "id": "tezos-foundations-grant",
+    "id": "tezo-foun-g",
     "name": "Tezos Foundations Grant Program",
     "provider": "Tezos Foundations Grant Program",
     "category": "Web3 Ecosystem",
@@ -18424,7 +18424,7 @@
     }
   },
   {
-    "id": "the-bags-hackathon",
+    "id": "bags-hack",
     "name": "The Bags Hackathon",
     "provider": "The Bags Hackathon",
     "category": "Web3 Ecosystem",
@@ -18514,7 +18514,7 @@
     }
   },
   {
-    "id": "the-dequip-grant",
+    "id": "dequ-g",
     "name": "The DeQUIP Grant Program",
     "provider": "The DeQUIP Grant Program",
     "category": "Web3 Ecosystem",
@@ -18600,7 +18600,7 @@
     }
   },
   {
-    "id": "the-graph-grants",
+    "id": "grap-g",
     "name": "The Graph Grants",
     "provider": "The Graph Grants",
     "category": "Web3 Ecosystem",
@@ -18674,7 +18674,7 @@
     }
   },
   {
-    "id": "thiel-fellows",
+    "id": "thie-fell",
     "name": "Thiel Fellowship",
     "provider": "Thiel Foundation",
     "category": "Global Tech & Open Source",
@@ -18748,7 +18748,7 @@
     }
   },
   {
-    "id": "ton-champions",
+    "id": "ton-cham",
     "name": "TON Foundation Champions Grant Program",
     "provider": "TON Foundation Champions Grant Program",
     "category": "Web3 Ecosystem",
@@ -18898,7 +18898,7 @@
     }
   },
   {
-    "id": "touching-grass",
+    "id": "touc-gras",
     "name": "Superteam USA The Touching Grass Fund",
     "provider": "Superteam USA The Touching Grass Fund",
     "category": "Web3 Ecosystem",
@@ -18935,7 +18935,7 @@
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Audiences Post, Communities Host TL;DR: All our feeds are cooked and touching grass with friends is the final defense.\nThe Superteam touching grass fund is here to support members who host, not just post.\nGet up to $500 USDG to cover expenses for organizing Solana &amp; Superteam adjacent meet-ups in your city, as per the guidelines below.\nSocial media platforms are no longer social.\nBy default, you don't see content from your friends, family, or people you're connected with.\nInstead, our feeds are dominated by sophisticated professionals who are engineering content to elicit a dopamine response while competing for max share of our attention that they can then package and sell to sponsors.\nIn such times, IRL events are the last defense to compete with brainrot.\nAudiences post, communities host: A big focus for each Superteam is to be the frontier onboarding vehicle for the most promising talent in their local markets.\nHowever, the magic happens when members go from sharing memes in a group chat to forming teams on Solana, and often forge lifelong friendships in the process.\nThe optimal way to participate in Superteam is to use the access &amp; trust from being a member to find your niche interest and the people you can collaborate with to create weekend projects, products, or companies around it.\nThose who do it right will find themselves in more group chats than they can count, spontaneously joining Zoom calls and taking cabs/trains/planes to meet their internet friends.\nMore on this idea in a previous blog post here.\nTherefore, Superteam now supports the Solana Foundation community grants program and recommends applicants with the ability to galvanize the community with in-person events for community grants.\nMembers are encouraged to host casual events like coffee mixers, dinners, paddle or pickleball tournaments, turf football or cricket, or more structured events like learning groups, weekend hackathons, bounty hunting, or co-working sessions.\nAs long as you're doing something that (a) brings the Solana community closer together and (b) onboards those on the sidelines into crypto, feel free to apply.\nCurrently, only Superteam members can be hosts, but anyone can attend.\nIf this format works, we will drop the host restriction and open it up to anyone in the Superteam ecosystem. Events Playbook The meetups are supposed to be a lot of fun, but it's not all there is to a valuable meetup.\nTo have a higher chance of success&mdash;and to get more from the touching grass fund down the line&mdash;we recommend doing as many of these as possible: Limited attendees: Invite a small group of not more than 8&ndash;10 people.\nFocus on a size and venue that enables everyone to talk to everyone else at least once.\nA generic meetup isn't the best fit for this; we're only looking to support meetups where attendees are: developers, operators (marketing, product, ops), creators (writers, researchers, YouTubers, etc.), investors (both angels and VCs), founders, and capital markets professionals.\nPrimer on crypto: Depending on how much is necessary, help folks find their way into the Superteam and Solana ecosystem.\nMake them feel at home!\nMerch (optional): Coordinate with your local Superteam team to get merch&mdash;T-shirts, stickers, bags, etc.&mdash;for attendees to take back as a souvenir.\nFood &amp; Coffee: If this is part of your event, an ideal meal is one where (1) everyone can talk to each other, and (2) it's reasonably priced and prudently ordered without wasting food or money.\nOnboarding: If you're inviting people who are new to crypto or Solana, ideally you should also act as their buddy &amp; help them find their pathway to contribution via bounties, gigs, jobs, hackathons, asset onboarding/distribution, etc.\nProof of meet-up: Ideally, take pictures and put them up on your social media of choice with a short caption sharing your experience, learnings, or thoughts.\nTag your local Superteam as they might share it as well!\nThis way you can stay in touch and help make more plans that were discussed at dinner!\nWhat this grant is not for: Events that are purely social or personal with no direct link to Solana or Superteam goals.\nMisuse of funds or falsified reports can potentially result in being purged from the Superteam membership. \ufe0f How It Works Create a private event page on Luma.\nPlease ensure you've added an appropriate title, cover image, and a full description of the event &mdash; including the format of the event, schedule if any, who the event is for, outcomes for the event, etc.\nMake a grant application for it here on Earn, and include the private Luma link of your event in the application.\nSponsors will usually reply within ~7 days.\nIf approved, you'll receive a confirmation email.\nOnce approved: Submit your event to the&nbsp; Superteam Calendar &nbsp;so it's visible to the broader community.\nYou'll receive 50% of the grant upfront (post KYC; to be done on this page on Earn) in the following weekly payout cycle.\nApproved KYC and payments are sent for processing on Mondays and paid to you by Friday of the same week.\nAfter the event, upload photos from the event + scanned copies of expense receipts from the event to the tranche application form on this listing.\nThis tranche application form will be visible to you after you have received your first tranche.\nBoth the photos from the event and scanned copies of the receipts are essential for processing your second tranche. Frequently Asked Questions Who is eligible to apply for event grants?\nThis program is currently in beta and only open for Superteam Members.\nWhat criteria will the panelists use to evaluate grants?\nWe prefer to support members that have some prior experience in organizing events (regardless of how small) and events that are primarily focused on developers, artists, and investors.\nWill I receive feedback on my proposal if it is rejected?\nUnfortunately, our sponsors do not have the bandwidth to provide individualized feedback at this time. &nbsp; Note: Getting approved for a grant is in no way to be understood as an endorsement or partnership.\nYour event will be a community event, and in no way should you represent to third parties that it's a \"Superteam event\" or in any sense official. &nbsp; Have a question that isn't answered here? &nbsp;Email us at support@superteam.fun &nbsp;for help.&nbsp;"
+          "Audiences Post, Communities Host TL;DR: All our feeds are cooked and touching grass with friends is the final defense.\nThe Superteam touching grass fund is here to support members who host, not just post.\nGet up to $500 USDG to cover expenses for organizing Solana &amp; Superteam adjacent meet-ups in your city, as per the guidelines below.\nSocial media platforms are no longer social.\nBy default, you don't see content from your friends, family, or people you're connected with.\nInstead, our feeds are dominated by sophisticated professionals who are engineering content to elicit a dopamine response while competing for max share of our attention that they can then package and sell to sponsors.\nIn such times, IRL events are the last defense to compete with brainrot.\nAudiences post, communities host: A big focus for each Superteam is to be the frontier onboarding vehicle for the most promising talent in their local markets.\nHowever, the magic happens when members go from sharing memes in a group chat to forming teams on Solana, and often forge lifelong friendships in the process.\nThe optimal way to participate in Superteam is to use the access &amp; trust from being a member to find your niche interest and the people you can collaborate with to create weekend projects, products, or companies around it.\nThose who do it right will find themselves in more group chats than they can count, spontaneously joining Zoom calls and taking cabs/trains/planes to meet their internet friends.\nMore on this idea in a previous blog post here.\nTherefore, Superteam now supports the Solana Foundation community grants program and recommends applicants with the ability to galvanize the community with in-person events for community grants.\nMembers are encouraged to host casual events like coffee mixers, dinners, paddle or pickleball tournaments, turf football or cricket, or more structured events like learning groups, weekend hackathons, bounty hunting, or co-working sessions.\nAs long as you're doing something that (a) brings the Solana community closer together and (b) onboards those on the sidelines into crypto, feel free to apply.\nCurrently, only Superteam members can be hosts, but anyone can attend.\nIf this format works, we will drop the host restriction and open it up to anyone in the Superteam ecosystem. Events Playbook The meetups are supposed to be a lot of fun, but it's not all there is to a valuable meetup.\nTo have a higher chance of success&mdash;and to get more from the touching grass fund down the line&mdash;we recommend doing as many of these as possible: Limited attendees: Invite a small group of not more than 8&ndash;10 people.\nFocus on a size and venue that enables everyone to talk to everyone else at least once.\nA generic meetup isn't the best fit for this; we're only looking to support meetups where attendees are: developers, operators (marketing, product, ops), creators (writers, researchers, YouTubers, etc.), investors (both angels and VCs), founders, and capital markets professionals.\nPrimer on crypto: Depending on how much is necessary, help folks find their way into the Superteam and Solana ecosystem.\nMake them feel at home!\nMerch (optional): Coordinate with your local Superteam team to get merch&mdash;T-shirts, stickers, bags, etc.&mdash;for attendees to take back as a souvenir.\nFood &amp; Coffee: If this is part of your event, an ideal meal is one where (1) everyone can talk to each other, and (2) it's reasonably priced and prudently ordered without wasting food or money.\nOnboarding: If you're inviting people who are new to crypto or Solana, ideally you should also act as their buddy &amp; help them find their pathway to contribution via bounties, gigs, jobs, hackathons, asset onboarding/distribution, etc.\nProof of meet-up: Ideally, take pictures and put them up on your social media of choice with a short caption sharing your experience, learnings, or thoughts.\nTag your local Superteam as they might share it as well!\nThis way you can stay in touch and help make more plans that were discussed at dinner!\nWhat this grant is not for: Events that are purely social or personal with no direct link to Solana or Superteam goals.\nMisuse of funds or falsified reports can potentially result in being purged from the Superteam membership. ️ How It Works Create a private event page on Luma.\nPlease ensure you've added an appropriate title, cover image, and a full description of the event &mdash; including the format of the event, schedule if any, who the event is for, outcomes for the event, etc.\nMake a grant application for it here on Earn, and include the private Luma link of your event in the application.\nSponsors will usually reply within ~7 days.\nIf approved, you'll receive a confirmation email.\nOnce approved: Submit your event to the&nbsp; Superteam Calendar &nbsp;so it's visible to the broader community.\nYou'll receive 50% of the grant upfront (post KYC; to be done on this page on Earn) in the following weekly payout cycle.\nApproved KYC and payments are sent for processing on Mondays and paid to you by Friday of the same week.\nAfter the event, upload photos from the event + scanned copies of expense receipts from the event to the tranche application form on this listing.\nThis tranche application form will be visible to you after you have received your first tranche.\nBoth the photos from the event and scanned copies of the receipts are essential for processing your second tranche. Frequently Asked Questions Who is eligible to apply for event grants?\nThis program is currently in beta and only open for Superteam Members.\nWhat criteria will the panelists use to evaluate grants?\nWe prefer to support members that have some prior experience in organizing events (regardless of how small) and events that are primarily focused on developers, artists, and investors.\nWill I receive feedback on my proposal if it is rejected?\nUnfortunately, our sponsors do not have the bandwidth to provide individualized feedback at this time. &nbsp; Note: Getting approved for a grant is in no way to be understood as an endorsement or partnership.\nYour event will be a community event, and in no way should you represent to third parties that it's a \"Superteam event\" or in any sense official. &nbsp; Have a question that isn't answered here? &nbsp;Email us at support@superteam.fun &nbsp;for help.&nbsp;"
         ]
       }
     ],
@@ -18954,13 +18954,13 @@
     }
   },
   {
-    "id": "ultra-dev-grants",
+    "id": "ultr-dev-g",
     "name": "Ultra Developer Grants program",
     "provider": "Ultra Developer Grants program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "$5,000 - $250,000",
-    "description": "Ultra is now open for developers. With an initial $1,000,000 in funding available, they\u2019re empowering builders to create the tools, dApps, services, and infrastructure that power the Ultra network and elevate the next generation of onchain applications. Funds are released in milestone-based unlocks that are linked to project delivery and ecosystem impact.",
+    "description": "Ultra is now open for developers. With an initial $1,000,000 in funding available, they’re empowering builders to create the tools, dApps, services, and infrastructure that power the Ultra network and elevate the next generation of onchain applications. Funds are released in milestone-based unlocks that are linked to project delivery and ecosystem impact.",
     "url": "https://ultra.io/grants/",
     "ecosystem": "Other",
     "tags": [
@@ -19029,7 +19029,7 @@
     }
   },
   {
-    "id": "unichain-builder",
+    "id": "unic-bld",
     "name": "Uniswap Foundation - Unichain Builder Open Call",
     "provider": "Uniswap Foundation - Unichain Builder Open Call",
     "category": "Web3 Ecosystem",
@@ -19105,7 +19105,7 @@
     }
   },
   {
-    "id": "uniswap-grants",
+    "id": "unis-g",
     "name": "Uniswap Foundation Grants",
     "provider": "Uniswap Foundation",
     "category": "Web3 Ecosystem",
@@ -19252,7 +19252,7 @@
     }
   },
   {
-    "id": "vebetter-grants",
+    "id": "vebe-g",
     "name": "VeBetter Grants Program",
     "provider": "VeBetter Grants Program",
     "category": "Web3 Ecosystem",
@@ -19397,7 +19397,7 @@
     }
   },
   {
-    "id": "venom-s-venom",
+    "id": "veno-veno",
     "name": "Venom Foundation's Venom Labs",
     "provider": "Venom Foundation's Venom Labs",
     "category": "Web3 Ecosystem",
@@ -19479,7 +19479,7 @@
     }
   },
   {
-    "id": "vouch-insurance",
+    "id": "vouc-insu",
     "name": "Vouch Insurance",
     "provider": "Vouch Insurance",
     "category": "Developer Infra & Tooling",
@@ -19705,7 +19705,7 @@
     }
   },
   {
-    "id": "whitechain-builders",
+    "id": "whit-bld",
     "name": "WhiteChain Builders Program",
     "provider": "WhiteChain Builders Program",
     "category": "Web3 Ecosystem",
@@ -19795,7 +19795,7 @@
     }
   },
   {
-    "id": "workos-startups",
+    "id": "work-stu",
     "name": "WorkOS for Startups",
     "provider": "WorkOS for Startups",
     "category": "Developer Infra & Tooling",
@@ -19866,7 +19866,7 @@
     }
   },
   {
-    "id": "world-comm-grants",
+    "id": "worl-comm-g",
     "name": "World Organization Community Grants",
     "provider": "World Organization Community Grants",
     "category": "Web3 Ecosystem",
@@ -19939,13 +19939,13 @@
     }
   },
   {
-    "id": "x1-ecochain-grant",
+    "id": "x1-ecoc-g",
     "name": "X1 EcoChain Grant Program",
     "provider": "X1 EcoChain Grant Program",
     "category": "Web3 Ecosystem",
     "type": "Grant",
-    "amount": "$25,000 \u2013 $400,000",
-    "description": "X1 EcoChain, the world\u2019s first eco-friendly DePIN Layer-1 blockchain, is accelerating its global impact with two groundbreaking initiatives: a $5 million Grant Program for developers and the launch of Galxe Starboard, a $100,000 rewards campaign for top community contributors.",
+    "amount": "$25,000 – $400,000",
+    "description": "X1 EcoChain, the world’s first eco-friendly DePIN Layer-1 blockchain, is accelerating its global impact with two groundbreaking initiatives: a $5 million Grant Program for developers and the launch of Galxe Starboard, a $100,000 rewards campaign for top community contributors.",
     "url": "https://grant.x1ecochain.com/",
     "ecosystem": "Other",
     "tags": [
@@ -19959,7 +19959,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "X1 EcoChain Grant Program is an ecosystem grant initiative powered by X1 EcoChain, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across X1 EcoChain ecosystem. The program provides capital awards structured up to $25,000 \u2013 $400,000 to empower talented engineering teams building scalable onchain solutions.",
+          "X1 EcoChain Grant Program is an ecosystem grant initiative powered by X1 EcoChain, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across X1 EcoChain ecosystem. The program provides capital awards structured up to $25,000 – $400,000 to empower talented engineering teams building scalable onchain solutions.",
           "Grant capital is focused on high-priority infrastructure and use cases spanning DevTooling, Infra, DePIN, helping teams move rapidly from prototype to production with direct technical and distribution support from X1 EcoChain.",
           "Beyond capital, X1 EcoChain Grant Program connects recipients with core network engineers, security auditors, and community stakeholders to ensure smooth mainnet deployment and sustained user adoption."
         ]
@@ -20012,13 +20012,13 @@
     }
   },
   {
-    "id": "xero-startups",
+    "id": "xero-stu",
     "name": "Xero for Startups",
     "provider": "Xero for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
     "amount": "~90% off for 6 months",
-    "description": "While you\u2019re doing the things you love, JAX is doing the things you don\u2019t. Routine tasks, real-time insights, and all the boring bits, brilliantly.",
+    "description": "While you’re doing the things you love, JAX is doing the things you don’t. Routine tasks, real-time insights, and all the boring bits, brilliantly.",
     "url": "https://www.xero.com/",
     "ecosystem": "Global, US, UK, EU, APAC",
     "tags": [
@@ -20083,7 +20083,7 @@
     }
   },
   {
-    "id": "xrpl-commons-grants",
+    "id": "xrpl-comm-g",
     "name": "XRPL Commons Grants Program",
     "provider": "XRPL Commons Grants Program",
     "category": "Web3 Ecosystem",
@@ -20253,7 +20253,7 @@
     }
   },
   {
-    "id": "zealynx-audit-grants",
+    "id": "zeal-aud-g",
     "name": "Zealynx Audit Grants",
     "provider": "Zealynx Audit Grants",
     "category": "Web3 Ecosystem",
@@ -20327,7 +20327,7 @@
     }
   },
   {
-    "id": "zendesk-startups",
+    "id": "zend-stu",
     "name": "Zendesk for Startups",
     "provider": "Zendesk for Startups",
     "category": "Developer Infra & Tooling",
@@ -20398,13 +20398,13 @@
     }
   },
   {
-    "id": "zetachain-grants",
+    "id": "zeta-g",
     "name": "ZetaChain Ecosystem Grants",
     "provider": "ZetaChain Ecosystem Grants",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "ZetaChain\u2019s milestone-based grants program backs omnichain and Bitcoin-connected dApps, with funding disbursed after reviewers approve scope, milestones, and ecosystem impact.",
+    "description": "ZetaChain’s milestone-based grants program backs omnichain and Bitcoin-connected dApps, with funding disbursed after reviewers approve scope, milestones, and ecosystem impact.",
     "url": "https://www.zetachain.com/blog/zetachain-grants-program-for-omnichain-dapp-builders",
     "ecosystem": "Other",
     "tags": [
@@ -20476,7 +20476,7 @@
     }
   },
   {
-    "id": "zoho-startups",
+    "id": "zoho-stu",
     "name": "Zoho for Startups",
     "provider": "Zoho for Startups",
     "category": "Developer Infra & Tooling",
@@ -20547,12 +20547,12 @@
     }
   },
   {
-    "id": "zoom-startups",
+    "id": "zoom-stu",
     "name": "Zoom for Startups",
     "provider": "Zoom for Startups",
     "category": "Developer Infra & Tooling",
     "type": "Credit / Perk",
-    "amount": "~$5,400+/year (25 seats \u00d7 $18/mo)",
+    "amount": "~$5,400+/year (25 seats × $18/mo)",
     "description": "One year free of Zoom Workplace Business Plus for up to 25 seats, Meetings, Phone, Chat, AI Companion, Whiteboard, Clips.",
     "url": "https://www.zoom.com/en/lp/zoom-for-startups/",
     "ecosystem": "Global",
@@ -20565,7 +20565,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Zoom for Startups is an official founder perk and enablement program provided by Zoom, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to ~$5,400+/year (25 seats \u00d7 $18/mo) in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
+          "Zoom for Startups is an official founder perk and enablement program provided by Zoom, designed to assist early-stage software companies and engineering teams building modern technology products. Qualifying ventures receive up to ~$5,400+/year (25 seats × $18/mo) in platform credits and operational resources, premium infrastructure access, and operational onboarding.",
           "By eliminating upfront software costs across Productivity, the program enables startup teams to preserve runway while deploying robust, enterprise-ready infrastructure on Zoom's battle-tested platform.",
           "Participating companies benefit from technical onboarding resources, direct guidance from Zoom's solutions engineering specialists, and structured pathways to scale as their commercial customer base expands."
         ]

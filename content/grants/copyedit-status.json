@@ -9,11 +9,6 @@
     "method": "human-editorial-polish-v2",
     "words": 185
   },
-  "1password-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 322
-  },
   "3327-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -29,110 +24,35 @@
     "method": "human-editorial-polish-v2",
     "words": 179
   },
-  "acala-network-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
   "aethir-fund": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 203
-  },
-  "aethir-polyhedra": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 181
-  },
-  "agentic-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 529
-  },
-  "airtable-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 162
-  },
-  "airwallex-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 170
   },
   "akash-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 180
   },
-  "alchemy-arb-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 214
-  },
-  "alchemy-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 300
-  },
   "aleo-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 186
-  },
-  "aleph-zero-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 181
-  },
-  "algolia-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 298
-  },
-  "americas-seed-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
-  "amplitude-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 171
   },
   "analog-grant": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 216
   },
-  "anthropic-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 168
-  },
-  "applayer-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 243
-  },
   "aptos-audit": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 251
   },
-  "aptos-ecosystem": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 168
-  },
   "aptos-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 255
-  },
-  "aptos-payments-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 186
   },
   "arb-d-a": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -144,82 +64,17 @@
     "method": "human-editorial-polish-v2",
     "words": 182
   },
-  "arb-open-house": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
-  "arb-robinhood": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 234
-  },
   "arb-security": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 182
-  },
-  "arb-stablecoin-growth": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 184
-  },
-  "arts3-startup-award": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 298
   },
   "arweave": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 189
   },
-  "asana-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
   "asi-accel": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 166
-  },
-  "assemblyai-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 177
-  },
-  "atlassian-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
-  "attio-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
-  "aurora-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 180
-  },
-  "auth0-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 177
-  },
-  "avax-blizzard": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 193
-  },
-  "avax-multiverse-and": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 201
-  },
-  "avax-research": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 166
@@ -229,40 +84,15 @@
     "method": "human-editorial-polish-v2",
     "words": 162
   },
-  "backblaze-flamethrower": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 181
-  },
-  "base-bug-bounties": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 212
-  },
   "beldex-grant": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 208
   },
-  "believe-builders-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 221
-  },
-  "bitdao-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 158
-  },
   "brex-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 179
-  },
-  "canva-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 166
   },
   "carta-launch": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -279,95 +109,10 @@
     "method": "human-editorial-polish-v2",
     "words": 203
   },
-  "celo-comm-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 197
-  },
-  "celo-prezenti": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 179
-  },
-  "certik-and-yzi": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 190
-  },
   "chaingpt": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 186
-  },
-  "chaingpt-secret": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 188
-  },
-  "chromia-container-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 249
-  },
-  "circle-dev-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 175
-  },
-  "circleci-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 169
-  },
-  "clerk-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 165
-  },
-  "clickhouse-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 219
-  },
-  "cloudflare-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
-  "clr-fund-clear": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
-  "cohere-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 214
-  },
-  "compliance-vanta-drata": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 179
-  },
-  "compound-fin-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 181
-  },
-  "confluent-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 181
-  },
-  "coti-builders": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 187
-  },
-  "coti-web4-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 171
   },
   "cratd2c": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -379,105 +124,25 @@
     "method": "human-editorial-polish-v2",
     "words": 438
   },
-  "cronos-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
   "crust-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 317
-  },
-  "customer-io-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 171
-  },
-  "databricks-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
-  "datadog-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 216
-  },
-  "dcloud-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 286
-  },
-  "decentraland-creator-success": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 255
-  },
-  "decentraland-dao-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 259
-  },
-  "deel-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 173
-  },
-  "digitalocean-hatch": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 173
-  },
-  "doublezero-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 176
-  },
-  "drata-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 175
   },
   "dream-somnia": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 192
   },
-  "dydx-foundation": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 332
-  },
   "dydx-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 211
   },
-  "edg-developers-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 313
-  },
   "eic-accel": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 352
-  },
-  "eigen-comm-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 277
-  },
-  "endless-education-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 206
-  },
-  "eth-audit-subsidy": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 196
   },
   "eth-esp": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -489,26 +154,6 @@
     "method": "human-editorial-polish-v2",
     "words": 222
   },
-  "eth-project-odin": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 224
-  },
-  "ethsecurity-initiatives": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 176
-  },
-  "fil-retropgf-3": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 180
-  },
-  "filecoin-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 176
-  },
   "filecoin-r-d": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -519,525 +164,100 @@
     "method": "human-editorial-polish-v2",
     "words": 191
   },
-  "fireblocks-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 244
-  },
-  "fireworks-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
-  "flow-dev-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 203
-  },
   "flow-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 195
-  },
-  "framer-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 173
-  },
-  "freshworks-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
   },
   "fuel-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 174
   },
-  "galaxy-quantum": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 219
-  },
-  "getblock-solana-credits": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 216
-  },
   "gitcoin-qf": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 171
-  },
-  "github-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
-  "goat-ai-builder": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 312
-  },
-  "goodbuilders-season-5": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 185
-  },
-  "google-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 216
   },
   "google-web3": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 281
   },
-  "grackerai-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 159
-  },
-  "grafana-labs-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 330
-  },
-  "gravity-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 325
-  },
-  "greed-academy-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 340
-  },
-  "hubspot-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 292
-  },
-  "hytopia-creator-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 195
-  },
-  "icon-blockchain-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 178
-  },
-  "idle-fin-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 197
-  },
   "iexec-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 190
-  },
-  "immutable-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 192
-  },
-  "incident-io-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 208
-  },
-  "injective-x-microsoft": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 177
   },
   "interchain": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 208
   },
-  "interledger-dfs": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 342
-  },
-  "interledger-fellows": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 380
-  },
-  "interledger-pay": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 275
-  },
-  "interlink-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 211
-  },
-  "iosg-kickstarter": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
   "iota-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 181
-  },
-  "jetbrains-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 333
-  },
-  "jumbo-blockchain-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 222
-  },
-  "kalshi-builders": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 186
   },
   "kava-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 174
   },
-  "langfuse-startup-discount": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
-  "langsmith-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 197
-  },
   "lido-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 184
-  },
-  "linear-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
-  "livepeer-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 247
-  },
-  "livepeer-nodes": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 353
-  },
-  "mercury-perks": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
   },
   "merge-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 187
   },
-  "metagammadelta-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 178
-  },
-  "mina-protocol-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 231
-  },
-  "mintlify-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 173
-  },
-  "miro-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
-  "modal-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 180
-  },
-  "morph-payment-accel": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 185
-  },
-  "movemaker-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
-  "mozilla-fellows": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 185
-  },
-  "msft-founders": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
-  "multiversx-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 186
-  },
-  "neo-eco-support": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 285
-  },
   "neo-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 285
-  },
-  "neon-open-source": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 329
   },
   "nlnet-ngi": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 188
   },
-  "nodeops-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 413
-  },
-  "nosana-ai-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 187
-  },
-  "notion-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 152
-  },
-  "nvidia-inception": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 261
-  },
   "o-cei-2nd": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 328
-  },
-  "ocean-protocol-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 211
-  },
-  "octant-creator-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 210
   },
   "op-season-9": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 316
   },
-  "orangedao-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 186
-  },
   "otf-freedom": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 337
-  },
-  "pagerduty-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 171
-  },
-  "persistence-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 304
   },
   "pharos-accel": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 177
   },
-  "pinecone-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 169
-  },
-  "pipedrive-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
-  "polkadot-opengov": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 173
-  },
-  "pollen-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 179
-  },
-  "polygon-network-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 173
-  },
-  "polymesh-network-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 287
-  },
-  "pooltogether-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 204
-  },
-  "posthog-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
-  "propr-builders-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 180
-  },
-  "protocol-labs-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 178
-  },
-  "prototype-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 177
-  },
-  "push-protocol-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 188
-  },
   "q402-grant": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 177
-  },
-  "qubic-incubation": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 191
   },
   "ramp-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 187
   },
-  "rayls-dev-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 280
-  },
-  "razorpay-rize": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 170
-  },
-  "resend-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
-  "retool-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 201
-  },
   "rgb-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 193
-  },
-  "rippling-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 171
-  },
-  "ronin-forge-innovation": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 202
-  },
-  "rootstock-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 185
-  },
-  "safepal-x-solana": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 349
-  },
-  "salesforce-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 166
-  },
-  "sanity-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 176
-  },
-  "scaleup-europe-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 300
-  },
-  "secret-network-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
-  "segment-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 272
-  },
-  "sei-ai-accelathon": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 159
-  },
-  "sei-japan-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 199
   },
   "sentient-agi": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -1054,135 +274,10 @@
     "method": "human-editorial-polish-v2",
     "words": 185
   },
-  "shortcut-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 163
-  },
-  "shutter-champions": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
-  "shutter-dao-0x36": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 323
-  },
   "skale-games": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 185
-  },
-  "snowflake-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 166
-  },
-  "snyk-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 169
-  },
-  "solana-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 188
-  },
-  "solana-mobile-builder": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 196
-  },
-  "solana-scholars": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 184
-  },
-  "sovereign-tech": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 190
-  },
-  "spiral-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 187
-  },
-  "ssojet-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 164
-  },
-  "stacks-endowment": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 185
-  },
-  "stacks-foundation": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 179
-  },
-  "stanford-blockchain-accel": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
-  "starknet-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 336
-  },
-  "starkware-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 234
-  },
-  "startup-accel-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 1739
-  },
-  "statsig-startup": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 166
-  },
-  "stellar-academic": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 350
-  },
-  "stellar-bounty": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 391
-  },
-  "stellar-comm-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 159
-  },
-  "stellar-comm-launch": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 202
-  },
-  "stellar-grants-funding": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 234
-  },
-  "stellar-marketing-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 275
-  },
-  "stellar-matching-fund": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 362
   },
   "ston-fi-dex": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -1199,21 +294,6 @@
     "method": "human-editorial-polish-v2",
     "words": 183
   },
-  "stripe-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 166
-  },
-  "subquery-network-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 168
-  },
-  "subspace-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 173
-  },
   "sui-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -1224,100 +304,25 @@
     "method": "human-editorial-polish-v2",
     "words": 337
   },
-  "tally-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 167
-  },
-  "tether-dev-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 277
-  },
-  "tezos-foundations-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 171
-  },
   "tezos-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 197
-  },
-  "the-bags-hackathon": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
-  "the-dequip-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 164
-  },
-  "the-graph-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 301
-  },
-  "thiel-fellows": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 184
-  },
-  "ton-champions": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 331
   },
   "ton-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 324
   },
-  "touching-grass": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 1215
-  },
-  "ultra-dev-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 223
-  },
-  "unichain-builder": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
-  "uniswap-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 186
-  },
   "uomi-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 199
   },
-  "vebetter-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
   "velas-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 262
-  },
-  "venom-s-venom": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 185
-  },
-  "vouch-insurance": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 176
   },
   "vw-hardware": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -1329,62 +334,1057 @@
     "method": "human-editorial-polish-v2",
     "words": 176
   },
-  "whitechain-builders": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 175
-  },
-  "workos-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 177
-  },
-  "world-comm-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
-  },
-  "x1-ecochain-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 270
-  },
-  "xero-startups": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
-  "xrpl-commons-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 225
-  },
   "zcash-zcg": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 222
   },
-  "zealynx-audit-grants": {
+  "1pass-stu": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
-    "words": 200
+    "words": 322
   },
-  "zendesk-startups": {
+  "acal-net-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
-    "words": 201
+    "words": 183
   },
-  "zetachain-grants": {
+  "aeth-poly": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 181
+  },
+  "agent-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 529
+  },
+  "airt-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 162
+  },
+  "airw-stu": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 170
   },
-  "zoho-startups": {
+  "alch-arb-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 214
+  },
+  "alch-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 300
+  },
+  "alepzerofund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 181
+  },
+  "algo-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 298
+  },
+  "amerseedfund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "ampl-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 171
+  },
+  "anth-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 168
+  },
+  "appl-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 243
+  },
+  "apto-eco": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 168
+  },
+  "apto-paym-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 186
+  },
+  "arb-op-hous": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 183
+  },
+  "arb-robi": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 234
+  },
+  "arb-stab-gr": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 184
+  },
+  "artsstuawar": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 298
+  },
+  "asan-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 182
+  },
+  "asse-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 177
+  },
+  "atla-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "atti-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "auro-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 180
+  },
+  "auth-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 177
+  },
+  "avax-bliz": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 193
+  },
+  "avax-mult": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 201
+  },
+  "avax-r": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 166
+  },
+  "back-flam": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 181
+  },
+  "basebugboun": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 212
+  },
+  "belibldfund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 221
+  },
+  "bitd-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 158
+  },
+  "canv-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 166
+  },
+  "celocommfund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 197
+  },
+  "celo-prez": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 179
+  },
+  "cert-yzi": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 190
+  },
+  "chai-secr": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 188
+  },
+  "chro-cont-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 249
+  },
+  "circ-dev-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 175
+  },
+  "circ-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 169
+  },
+  "cler-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 165
+  },
+  "clic-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 219
+  },
+  "clou-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 182
+  },
+  "clrfundclea": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "cohe-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 214
+  },
+  "compvantdrat": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 179
+  },
+  "comp-fin-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 181
+  },
+  "conf-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 181
+  },
+  "coti-bld": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 187
+  },
+  "coti-web4-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 171
+  },
+  "cron-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 182
+  },
+  "cust-io-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 171
+  },
+  "data-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "data-stu2": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 216
+  },
+  "dclo-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 286
+  },
+  "dececreasucc": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 255
+  },
+  "dece-dao-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 259
+  },
+  "deel-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 173
+  },
+  "digi-hatc": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 173
+  },
+  "doub-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 176
+  },
+  "drat-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 175
+  },
+  "dydx-fnd": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 332
+  },
+  "edg-dev-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 313
+  },
+  "eige-comm-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 277
+  },
+  "endleducfund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 206
+  },
+  "eth-aud-subs": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 196
+  },
+  "ethprojodin": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 224
+  },
+  "eths-init": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 176
+  },
+  "fil-retr-3": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 180
+  },
+  "file-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 176
+  },
+  "fire-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 244
+  },
+  "fire-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "flow-dev-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 203
+  },
+  "fram-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 173
+  },
+  "fres-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "gala-quan": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 219
+  },
+  "getbsolacred": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 216
+  },
+  "gith-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 182
+  },
+  "goat-ai-bld": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 312
+  },
+  "good-seas-5": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 185
+  },
+  "goog-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 216
+  },
+  "grac-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 159
+  },
+  "graf-lab-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 330
+  },
+  "grav-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 325
+  },
+  "gree-acad-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 340
+  },
+  "hubs-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 292
+  },
+  "hytocreafund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 195
+  },
+  "icon-bc-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 178
+  },
+  "idle-fin-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 197
+  },
+  "immu-fund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 192
+  },
+  "inci-io-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 208
+  },
+  "inje-x-micr": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 177
+  },
+  "inte-dfs": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 342
+  },
+  "inte-fell": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 380
+  },
+  "inte-pay": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 275
   },
-  "zoom-startups": {
+  "inte-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 211
+  },
+  "iosg-kick": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "jetb-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 333
+  },
+  "jumb-bc-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 222
+  },
+  "kals-bld": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 186
+  },
+  "langstudisc": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 183
+  },
+  "lang-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 197
+  },
+  "line-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "live-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 247
+  },
+  "live-node": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 353
+  },
+  "merc-perk": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "meta-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 178
+  },
+  "mina-prot-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 231
+  },
+  "mint-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 173
+  },
+  "miro-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "moda-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 180
+  },
+  "morppaymacce": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 185
+  },
+  "move-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 182
+  },
+  "mozi-fell": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 185
+  },
+  "msft-foun": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "mult-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 186
+  },
+  "neo-eco-supp": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 285
+  },
+  "neon-op-src": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 329
+  },
+  "node-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 413
+  },
+  "nosa-ai-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 187
+  },
+  "noti-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 152
+  },
+  "nvid-ince": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 261
+  },
+  "ocea-prot-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 211
+  },
+  "octa-crea-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 210
+  },
+  "oran-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 186
+  },
+  "page-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 171
+  },
+  "pers-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 304
+  },
+  "pine-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 169
+  },
+  "pipe-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "polk-open": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 173
+  },
+  "poll-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 179
+  },
+  "poly-net-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 173
+  },
+  "poly-net-g2": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 287
+  },
+  "pool-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 204
+  },
+  "post-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 182
+  },
+  "prop-bld-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 180
+  },
+  "prot-lab-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 178
+  },
+  "prot-fund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 177
+  },
+  "push-prot-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 188
+  },
+  "qubi-inc": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 191
+  },
+  "rayl-dev-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 280
+  },
+  "razo-rize": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 170
+  },
+  "rese-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "reto-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 201
+  },
+  "ripp-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 171
+  },
+  "roniforginno": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 202
+  },
+  "root-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 185
+  },
+  "safe-x-sola": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 349
+  },
+  "sale-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 166
+  },
+  "sani-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 176
+  },
+  "scaleurofund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 300
+  },
+  "secr-net-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 183
+  },
+  "segm-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 272
+  },
+  "sei-ai-acce": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 159
+  },
+  "seijapafund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 199
+  },
+  "shor-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 163
+  },
+  "shut-cham": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "shutdao0x36": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 323
+  },
+  "snow-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 166
+  },
+  "snyk-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 169
+  },
+  "sola-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 188
+  },
+  "solamobibld": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 196
+  },
+  "sola-scho": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 184
+  },
+  "sove-tech": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 190
+  },
+  "spir-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 187
+  },
+  "ssoj-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 164
+  },
+  "stac-endo": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 185
+  },
+  "stac-fnd": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 179
+  },
+  "stan-bc-acce": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 183
+  },
+  "star-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 336
+  },
+  "star-g2": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 234
+  },
+  "stu-acce-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 1739
+  },
+  "stat-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 166
+  },
+  "stel-acad": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 350
+  },
+  "stel-boun": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 391
+  },
+  "stelcommfund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 159
+  },
+  "stelcommlaun": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 202
+  },
+  "stel-g-fund": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 234
+  },
+  "stel-mkt-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 275
+  },
+  "stelmafu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 362
+  },
+  "stri-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 166
+  },
+  "subq-net-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 168
+  },
+  "subs-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 173
+  },
+  "tall-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 167
+  },
+  "teth-dev-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 277
+  },
+  "tezo-foun-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 171
+  },
+  "bags-hack": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 183
+  },
+  "dequ-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 164
+  },
+  "grap-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 301
+  },
+  "thie-fell": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 184
+  },
+  "ton-cham": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 331
+  },
+  "touc-gras": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 1215
+  },
+  "ultr-dev-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 223
+  },
+  "unic-bld": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 182
+  },
+  "unis-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 186
+  },
+  "vebe-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "veno-veno": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 185
+  },
+  "vouc-insu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 176
+  },
+  "whit-bld": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 175
+  },
+  "work-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 177
+  },
+  "worl-comm-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 172
+  },
+  "x1-ecoc-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 270
+  },
+  "xero-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 183
+  },
+  "xrpl-comm-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 225
+  },
+  "zeal-aud-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 200
+  },
+  "zend-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 201
+  },
+  "zeta-g": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 170
+  },
+  "zoho-stu": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 275
+  },
+  "zoom-stu": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 237

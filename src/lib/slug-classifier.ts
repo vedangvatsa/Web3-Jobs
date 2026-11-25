@@ -1,4 +1,5 @@
 import slugTypesJson from '../../content/slug-types.json';
+import legacyGrantSlugsJson from '../../content/grants/legacy-slugs.json';
 import legacyArchiveJson from '../../content/legacy-slugs-archive.json';
 import jobsRuntimeJson from '../../content/jobs-runtime.json';
 import type { Job } from '@/types';
@@ -36,6 +37,9 @@ const glossarySet = new Set(data.glossary);
 const resourceSet = new Set(data.resources);
 const articleSet = new Set(data.articles);
 const grantSet = new Set((data.grants ?? []).map((s) => s.toLowerCase().trim()));
+const legacyGrantSlugSet = new Set(
+  Object.keys(legacyGrantSlugsJson as Record<string, string>).map((s) => s.toLowerCase().trim()),
+);
 
 const legacyArchive = legacyArchiveJson as Record<string, ArchivedSlugRecord>;
 const legacyJobSlugSet = new Set(
@@ -57,6 +61,6 @@ export function classifySlug(slug: string): SlugType {
   if (glossarySet.has(norm)) return 'glossary';
   if (resourceSet.has(norm)) return 'resource';
   if (articleSet.has(norm)) return 'article';
-  if (grantSet.has(norm)) return 'grant';
+  if (grantSet.has(norm) || legacyGrantSlugSet.has(norm)) return 'grant';
   return 'job';
 }

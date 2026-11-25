@@ -34,7 +34,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "alchemy-arb-grant": {
+  "alch-arb-g": {
     "sections": [
       {
         "heading": "Program overview",
@@ -62,7 +62,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "anthropic-startups": {
+  "anth-stu": {
     "name": "Claude for Startups",
     "url": "https://www.anthropic.com/startups",
     "description": "Claude Startups is Anthropic\u2019s program for early-stage founders building on Claude. Members access partner offers, Applied AI office hours, and community events; new cohort applications open when announced on the startup newsletter.",
@@ -127,7 +127,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "aurora-grants": {
+  "auro-g": {
     "sections": [
       {
         "heading": "Program overview",
@@ -155,7 +155,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "believe-builders-fund": {
+  "belibldfund": {
     "sections": [
       {
         "heading": "Program overview",
@@ -182,7 +182,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "customer-io-startups": {
+  "cust-io-stu": {
     "sections": [
       {
         "heading": "Program overview",
@@ -209,7 +209,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "endless-education-fund": {
+  "endleducfund": {
     "sections": [
       {
         "heading": "Program overview",
@@ -236,7 +236,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "eth-audit-subsidy": {
+  "eth-aud-subs": {
     "sections": [
       {
         "heading": "Program overview",
@@ -290,7 +290,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "filecoin-grants": {
+  "file-g": {
     "url": "https://www.fil.org/grants",
     "sections": [
       {
@@ -373,7 +373,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "icon-blockchain-grants": {
+  "icon-bc-g": {
     "description": "ICON\u2019s Contribution Proposal System (CPS) funds interoperability, DeFi, and NFT projects that extend ICON\u2019s public blockchain with measurable on-chain adoption.",
     "url": "https://cps.icon.community/",
     "sections": [
@@ -403,7 +403,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "iosg-kickstarter": {
+  "iosg-kick": {
     "description": "IOSG Ventures\u2019 Kickstarter track offers early checks and ecosystem support for Web3, fintech, and AI founders in Asia and beyond, with curated portfolio services rather than a public milestone grant form.",
     "url": "https://iosg.vc",
     "sections": [
@@ -431,7 +431,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "kalshi-builders": {
+  "kals-bld": {
     "sections": [
       {
         "heading": "Program overview",
@@ -487,7 +487,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "notion-startups": {
+  "noti-stu": {
     "description": "Notion for Startups offers discounted Business workspace access with Notion AI for qualifying young companies referred through partner investors or accelerators.",
     "sections": [
       {
@@ -545,7 +545,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "polkadot-opengov": {
+  "polk-open": {
     "description": "Polkadot OpenGov treasury funds parachains, infrastructure, security, and marketing proposals through on-chain referenda backed by network inflation.",
     "sections": [
       {
@@ -574,7 +574,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "shortcut-startups": {
+  "shor-stu": {
     "description": "Shortcut for Startups provides discounted seats for early engineering teams that want one workspace for planning, execution, release tracking, and stakeholder reporting.",
     "sections": [
       {
@@ -603,7 +603,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "solana-mobile-builder": {
+  "solamobibld": {
     "sections": [
       {
         "heading": "Program overview",
@@ -632,7 +632,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "ssojet-startup": {
+  "ssoj-stu": {
     "description": "SSOJet\u2019s startup offer provides 50% off enterprise single sign-on for twelve months to qualifying young companies that need SAML and OIDC without building auth infrastructure in-house.",
     "sections": [
       {
@@ -660,7 +660,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "stacks-foundation": {
+  "stac-fnd": {
     "sections": [
       {
         "heading": "Program overview",
@@ -689,7 +689,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "stellar-comm-launch": {
+  "stelcommlaun": {
     "sections": [
       {
         "heading": "Program overview",
@@ -746,7 +746,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "subquery-network-grants": {
+  "subq-net-g": {
     "description": "SubQuery funds open-source teams building indexing, RPC, and data infrastructure that helps developers ship faster on multi-chain applications.",
     "sections": [
       {
@@ -775,7 +775,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "tally-startups": {
+  "tall-stu": {
     "sections": [
       {
         "heading": "Program overview",
@@ -831,7 +831,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "vebetter-grants": {
+  "vebe-g": {
     "sections": [
       {
         "heading": "Program overview",
@@ -860,7 +860,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "zealynx-audit-grants": {
+  "zeal-aud-g": {
     "sections": [
       {
         "heading": "Program overview",
@@ -888,7 +888,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "zetachain-grants": {
+  "zeta-g": {
     "description": "ZetaChain\u2019s milestone-based grants program backs omnichain and Bitcoin-connected dApps, with funding disbursed after reviewers approve scope, milestones, and ecosystem impact.",
     "url": "https://www.zetachain.com/blog/zetachain-grants-program-for-omnichain-dapp-builders",
     "sections": [
@@ -924,7 +924,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       "pageTitle": "ZetaChain Grants Program"
     }
   },
-  "amplitude-startups": {
+  "ampl-stu": {
     "description": "Amplitude for Startups provides early-stage teams with one year of free access to Amplitude Growth, giving builders enterprise-grade product analytics, cohort retention tracking, and conversion funnels.",
     "sections": [
       {
@@ -950,7 +950,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "assemblyai-startup": {
+  "asse-stu": {
     "description": "AssemblyAI\u2019s Startup Program awards high-growth technology companies up to $18,000 in Speech AI credits to integrate advanced speech-to-text, speaker diarization, and audio intelligence APIs.",
     "sections": [
       {
@@ -977,7 +977,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "backblaze-flamethrower": {
+  "back-flam": {
     "description": "The Backblaze Flamethrower Program awards early-stage startups and high-throughput data builders up to $100,000 in B2 Cloud Storage credits with zero egress fees via the Bandwidth Alliance.",
     "sections": [
       {
@@ -1004,7 +1004,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "cloudflare-startups": {
+  "clou-stu": {
     "description": "Cloudflare for Startups awards up to $250,000 in platform credits for early-stage companies to build and scale serverless applications, edge AI inference, and global cybersecurity protections.",
     "sections": [
       {
@@ -1031,7 +1031,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "databricks-startup": {
+  "data-stu": {
     "description": "The Databricks Startup Program provides qualified early-stage technology companies with up to $200,000 in Databricks compute credits, Lakehouse platform access, and technical architecture reviews.",
     "sections": [
       {
@@ -1058,7 +1058,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "digitalocean-hatch": {
+  "digi-hatc": {
     "description": "DigitalOcean Hatch provides early-stage technology founders with up to $25,000 in cloud infrastructure credits, specialized technical mentorship, and developer community support.",
     "sections": [
       {
@@ -1085,7 +1085,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "fireworks-startups": {
+  "fire-stu": {
     "description": "Fireworks for Startups provides generative AI builders with API credits, ultra-fast open-source LLM inference, and custom fine-tuning infrastructure optimized for production workloads.",
     "sections": [
       {
@@ -1112,7 +1112,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "github-startups": {
+  "gith-stu": {
     "description": "GitHub for Startups equips eligible early-stage startups with 20 free seats of GitHub Enterprise, GitHub Copilot access, advanced security tools, and CI/CD compute minutes for twelve months.",
     "sections": [
       {
@@ -1139,7 +1139,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "modal-startup": {
+  "moda-stu": {
     "description": "The Modal Startup Program awards high-performance GPU and CPU cloud credits to early-stage teams building serverless AI inference, model fine-tuning, and heavy compute pipelines.",
     "sections": [
       {
@@ -1166,7 +1166,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "msft-founders": {
+  "msft-foun": {
     "description": "Microsoft for Startups Founders Hub provides software startups with up to $150,000 in Azure cloud credits, OpenAI API access, GitHub Enterprise licenses, and technical advisory support.",
     "sections": [
       {
@@ -1192,7 +1192,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "pinecone-startup": {
+  "pine-stu": {
     "description": "The Pinecone Startup Program awards vector database credits to early-stage AI companies building high-performance semantic search, Retrieval-Augmented Generation (RAG), and agent memory systems.",
     "sections": [
       {
@@ -1219,7 +1219,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "posthog-startups": {
+  "post-stu": {
     "description": "PostHog for Startups grants high-velocity software ventures $50,000 in platform credits for product analytics, session replays, feature flags, A/B testing, and user feedback surveys.",
     "sections": [
       {
@@ -1246,7 +1246,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "snowflake-startup": {
+  "snow-stu": {
     "description": "The Snowflake Startup Program provides early-stage companies with cloud data platform credits, architectural advisory sessions, and go-to-market support on the Snowflake Marketplace.",
     "sections": [
       {
@@ -1273,7 +1273,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "americas-seed-fund": {
+  "amerseedfund": {
     "description": "America\u2019s Seed Fund, powered by the National Science Foundation (NSF SBIR / STTR), awards up to $2,000,000 in non-dilutive federal grants for deep-tech, cryptographic, and computational innovations.",
     "sections": [
       {
@@ -1299,7 +1299,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "mozilla-fellows": {
+  "mozi-fell": {
     "description": "The Mozilla Foundation Awards & Fellowships program provides funding between $10,000 and $100,000+ for researchers, open-source developers, and civil society leaders building a healthier internet.",
     "sections": [
       {
@@ -1327,7 +1327,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "sovereign-tech": {
+  "sove-tech": {
     "description": "The Sovereign Tech Fund (STF) provides \u20ac50,000 to \u20ac500,000+ in non-dilutive open-source funding to maintain and fortify critical digital infrastructure, open protocols, and security libraries.",
     "sections": [
       {
@@ -1355,7 +1355,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "airtable-startups": {
+  "airt-stu": {
     "description": "Airtable for Startups awards early-stage founders up to $2,000 in platform credits to build automated relational workflows, product roadmaps, and custom internal operations hubs.",
     "sections": [
       {
@@ -1382,7 +1382,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "airwallex-startups": {
+  "airw-stu": {
     "description": "Airwallex for Startups offers venture-backed companies up to $50,000 in fee-free foreign exchange transfers, multi-currency corporate cards, and international payment infrastructure.",
     "sections": [
       {
@@ -1409,7 +1409,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "asana-startups": {
+  "asan-stu": {
     "description": "Asana for Startups delivers up to 50% to 80% discounts on Asana Business and Enterprise tiers to help founding teams align goals, manage sprints, and coordinate complex product roadmaps.",
     "sections": [
       {
@@ -1436,7 +1436,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "atlassian-startups": {
+  "atla-stu": {
     "description": "Atlassian for Startups provides early-stage companies with free 12-month access to Jira, Confluence, Jira Service Management, and Compass for up to 50 team members.",
     "sections": [
       {
@@ -1463,7 +1463,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "attio-startups": {
+  "atti-stu": {
     "description": "Attio for Startups provides growing technology ventures with an 80% discount on Attio Pro in year one, enabling fully customizable customer relationship management and deal tracking.",
     "sections": [
       {
@@ -1490,7 +1490,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "auth0-startups": {
+  "auth-stu": {
     "description": "Auth0 for Startups by Okta offers one year of free access to Auth0 B2B Professional (valued at $24,000), delivering secure authentication, social login, and user management.",
     "sections": [
       {
@@ -1544,7 +1544,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "canva-startups": {
+  "canv-stu": {
     "description": "Canva for Startups empowers founding teams with free visual design templates, collaborative brand kits, and discounted Canva Pro access to craft pitch decks and marketing assets.",
     "sections": [
       {
@@ -1571,7 +1571,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "circleci-startup": {
+  "circ-stu": {
     "description": "The CircleCI Startup Program awards early-stage engineering teams up to $20,000 in continuous integration compute credits to build, test, and deploy software reliably.",
     "sections": [
       {
@@ -1598,7 +1598,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "clerk-startups": {
+  "cler-stu": {
     "description": "Clerk for Startups gives early-stage teams discounted access to Clerk Pro, providing turnkey user authentication, session management, and multi-tenant organization workspaces.",
     "sections": [
       {
@@ -1625,7 +1625,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "compliance-vanta-drata": {
+  "compvantdrat": {
     "description": "The Ramp Compliance Program offers startups 25% to 30% discounts and up to $10,000 in credits toward automated SOC 2, ISO 27001, and HIPAA compliance platforms including Vanta and Drata.",
     "sections": [
       {
@@ -1652,7 +1652,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "deel-startups": {
+  "deel-stu": {
     "description": "Deel for Startups provides fast-growing teams with 5 free contractor seats for life and 20% to 50% discounts on international payroll, employer of record (EOR), and immigration support.",
     "sections": [
       {
@@ -1679,7 +1679,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "drata-startups": {
+  "drat-stu": {
     "description": "Drata for Startups provides emerging technology companies with discounted access to automated compliance management, accelerating SOC 2, ISO 27001, and GDPR readiness.",
     "sections": [
       {
@@ -1706,7 +1706,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "framer-startups": {
+  "fram-stu": {
     "description": "Framer for Startups awards eligible early-stage companies up to one year of free Framer Pro to design, publish, and host high-performance, responsive landing pages and marketing sites.",
     "sections": [
       {
@@ -1733,7 +1733,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "freshworks-startups": {
+  "fres-stu": {
     "description": "Freshworks for Startups grants up to $4,000 in credits across Freshdesk customer support, Freshsales CRM, and Freshmarketer, alongside technical mentoring and founder community perks.",
     "sections": [
       {
@@ -1760,7 +1760,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "grackerai-startups": {
+  "grac-stu": {
     "description": "GrackerAI for Startups provides early-stage companies with discounted access to programmatic SEO, AI search intelligence, and structured landing page generation tools.",
     "sections": [
       {
@@ -1787,7 +1787,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "linear-startups": {
+  "line-stu": {
     "description": "Linear for Startups awards eligible early-stage technology companies six months of free access to Linear Business, providing streamlined issue tracking, roadmaps, and cycle management.",
     "sections": [
       {
@@ -1814,7 +1814,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "mercury-perks": {
+  "merc-perk": {
     "description": "Mercury Perks provides venture-backed founders with over $300,000 in software discounts and credits across premier tech tools including AWS, Carta, Notion, Quickbooks, and Hubspot.",
     "sections": [
       {
@@ -1841,7 +1841,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "mintlify-startups": {
+  "mint-stu": {
     "description": "Mintlify for Startups awards qualified developer-first teams with six months of free Mintlify Pro, providing modern MDX documentation hosting, API reference sync, and interactive playgrounds.",
     "sections": [
       {
@@ -1868,7 +1868,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "miro-startups": {
+  "miro-stu": {
     "description": "Miro for Startups awards early-stage teams up to $1,000 in workspace credits to collaborate on visual system architecture diagrams, user journey mapping, and product sprint roadmaps.",
     "sections": [
       {
@@ -1895,7 +1895,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "pagerduty-startups": {
+  "page-stu": {
     "description": "PagerDuty for Startups equips young engineering teams with six months of free access for up to 20 users, delivering real-time incident alerting, on-call schedules, and automated escalation policies.",
     "sections": [
       {
@@ -1922,7 +1922,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "pipedrive-startups": {
+  "pipe-stu": {
     "description": "Pipedrive for Startups provides early-stage sales and business development teams with a 20% discount for twelve months, alongside CRM pipeline templates and onboarding guidance.",
     "sections": [
       {
@@ -1949,7 +1949,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "razorpay-rize": {
+  "razo-rize": {
     "description": "Razorpay Rize accelerates early-stage Indian and global startups with zero-fee payment gateway processing credits, fast-track incorporation assistance, and over $50,000 in SaaS partner perks.",
     "sections": [
       {
@@ -1976,7 +1976,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "resend-startups": {
+  "rese-stu": {
     "description": "Resend for Startups awards qualified early-stage technology companies up to $25,000 in email API delivery credits, modern React Email templates, and high-deliverability infrastructure.",
     "sections": [
       {
@@ -2003,7 +2003,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "rippling-startups": {
+  "ripp-stu": {
     "description": "Rippling for Startups delivers discounted HR, global payroll, IT device management, and corporate spend software to help young ventures manage people and operations in one platform.",
     "sections": [
       {
@@ -2030,7 +2030,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "salesforce-startups": {
+  "sale-stu": {
     "description": "Salesforce for Startups provides early-stage companies with up to 50% off Salesforce Starter and Sales Cloud, alongside CRM implementation templates and venture community resources.",
     "sections": [
       {
@@ -2057,7 +2057,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "snyk-startups": {
+  "snyk-stu": {
     "description": "Snyk for Startups provides young software teams with discounted developer security licenses, automated vulnerability scanning for open-source dependencies, code security, and container images.",
     "sections": [
       {
@@ -2111,7 +2111,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "stripe-startups": {
+  "stri-stu": {
     "description": "Stripe for Startups provides early-stage companies with fee-free payment processing credits, discounted access to Stripe Billing and Invoicing, and priority technical support.",
     "sections": [
       {
@@ -2138,7 +2138,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "vouch-insurance": {
+  "vouc-insu": {
     "description": "Vouch Insurance provides tech and web3 startups with specialized business insurance coverage, fast digital quotes, and exclusive 5% to 10% premium discounts on liability policies.",
     "sections": [
       {
@@ -2165,7 +2165,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "workos-startups": {
+  "work-stu": {
     "description": "WorkOS for Startups provides growing B2B software companies with free Enterprise Single Sign-On (SAML) and Directory Sync (SCIM) for up to 1,000,000 monthly active users permanently.",
     "sections": [
       {
@@ -2248,7 +2248,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "acala-network-grants": {
+  "acal-net-g": {
     "description": "Acala Network Grants fund developers building cross-chain DeFi protocols, liquid staking derivatives, and financial infrastructure within the Polkadot and Kusama cross-consensus ecosystems.",
     "sections": [
       {
@@ -2276,7 +2276,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "aethir-polyhedra": {
+  "aeth-poly": {
     "description": "The Aethir x Polyhedra Grant Program provides compute allocations and zero-knowledge infrastructure grants to teams developing high-performance ZK-ML, web3 gaming, and cross-chain AI systems.",
     "sections": [
       {
@@ -2332,7 +2332,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "aleph-zero-fund": {
+  "alepzerofund": {
     "description": "The Aleph Zero Ecosystem Funding Program allocates capital, technical advisory, and incubation to builders launching privacy-first decentralized applications on the Aleph Zero blockchain.",
     "sections": [
       {
@@ -2360,7 +2360,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "aptos-payments-grants": {
+  "apto-paym-g": {
     "description": "Aptos Payments Grants award up to $150,000 to fintech and Web3 builders creating instant, low-cost global payment infrastructure, merchant integrations, and stablecoin checkout flows on Aptos.",
     "sections": [
       {
@@ -2416,7 +2416,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "arb-open-house": {
+  "arb-op-hous": {
     "description": "Arbitrum Open House offers collaborative builder cohorts, pitch review sessions, and founder grant funding run by Offchain Labs and the Arbitrum Foundation for high-potential Web3 startups.",
     "sections": [
       {
@@ -2472,7 +2472,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "arb-stablecoin-growth": {
+  "arb-stab-gr": {
     "description": "The Arbitrum Stablecoin Growth Program provides liquidity subsidies, grants, and co-marketing to teams integrating native stablecoins, payments, and yield-bearing cash equivalents on Arbitrum.",
     "sections": [
       {
@@ -2528,7 +2528,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "avax-blizzard": {
+  "avax-bliz": {
     "description": "The Avalanche Blizzard Ecosystem Fund provides over $200M in venture investments, ecosystem grants, and liquidity backing for high-growth DeFi, gaming, and custom Subnet projects on Avalanche.",
     "sections": [
       {
@@ -2612,7 +2612,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "celo-comm-fund": {
+  "celocommfund": {
     "description": "The Celo Community Fund provides non-dilutive grants to projects advancing financial inclusion, regenerative finance (ReFi), mobile payments, and decentralized public goods on the Celo blockchain.",
     "sections": [
       {
@@ -2668,7 +2668,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "chaingpt-secret": {
+  "chai-secr": {
     "description": "The ChainGPT x Secret Network Grant Program awards funding and technical mentorship to developers building privacy-preserving, confidential AI applications using encrypted smart contracts.",
     "sections": [
       {
@@ -2696,7 +2696,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "circle-dev-grants": {
+  "circ-dev-g": {
     "description": "Circle Developer Grants award capital, developer tooling, and advisory to teams building global commerce, USDC/EURC payments, and Cross-Chain Transfer Protocol (CCTP) integrations.",
     "sections": [
       {
@@ -2724,7 +2724,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "clr-fund-clear": {
+  "clrfundclea": {
     "description": "The clr.fund (Clear Fund) provides decentralized quadratic funding and matching pool allocations for developers creating Ethereum public goods, open-source infrastructure, and privacy tooling.",
     "sections": [
       {
@@ -2752,7 +2752,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "compound-fin-grants": {
+  "comp-fin-g": {
     "description": "Compound Finance Grants, distributed via Questbook, provide community treasury funding to developers enhancing the Compound lending protocol, developer SDKs, and collateral risk models.",
     "sections": [
       {
@@ -2780,7 +2780,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "coti-builders": {
+  "coti-bld": {
     "description": "The COTI Builders Program awards non-dilutive grants and technical incubation to developers building confidential decentralized applications on COTI\u2019s privacy-centric Ethereum Layer 2.",
     "sections": [
       {
@@ -2808,7 +2808,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "cronos-grants": {
+  "cron-g": {
     "description": "Cronos Ecosystem Grants provide milestone-based funding, technical advisory, and liquidity coordination for dApps launching on Cronos EVM and Cronos zkEVM.",
     "sections": [
       {
@@ -2892,7 +2892,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "hytopia-creator-fund": {
+  "hytocreafund": {
     "description": "The HYTOPIA Creator Fund awards up to $25,000 in non-dilutive grants to voxel game developers, modders, and digital asset creators building multiplayer games on the HYTOPIA platform.",
     "sections": [
       {
@@ -2948,7 +2948,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "immutable-fund": {
+  "immu-fund": {
     "description": "The Immutable Ecosystem Fund awards financial grants, token incentives, and game studio incubation to teams launching high-production Web3 games and marketplaces on Immutable zkEVM.",
     "sections": [
       {
@@ -2976,7 +2976,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "injective-x-microsoft": {
+  "inje-x-micr": {
     "description": "The Injective x Microsoft Nova Program provides institutional DeFi and financial AI model grants, Azure cloud credits, and technical mentoring co-sponsored with Microsoft.",
     "sections": [
       {
@@ -3060,7 +3060,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "metagammadelta-grants": {
+  "meta-g": {
     "description": "MetaGammaDelta Grants provide micro-funding, mentorship, and community backing for women-led Web3 projects, DAO tooling, and decentralized public goods.",
     "sections": [
       {
@@ -3088,7 +3088,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "morph-payment-accel": {
+  "morppaymacce": {
     "description": "The Morph Payment Accelerator provides funding, technical mentoring, and consumer distribution support for teams building payment apps and consumer rollups on Morph Layer 2.",
     "sections": [
       {
@@ -3116,7 +3116,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "movemaker-grant": {
+  "move-g": {
     "description": "The Movemaker Grant Program awards developer grants, code audits, and incubation to builders launching applications written in the Move language across Aptos, Sui, and Movement networks.",
     "sections": [
       {
@@ -3144,7 +3144,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "multiversx-grants": {
+  "mult-g": {
     "description": "MultiversX Grants award milestone-based funding, technical support, and ecosystem marketing to developers deploying high-throughput dApps on MultiversX sovereign state shards.",
     "sections": [
       {
@@ -3172,7 +3172,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "nosana-ai-grants": {
+  "nosa-ai-g": {
     "description": "Nosana AI Grants award $5,000 to $50,000 in cash and decentralized GPU compute credits to developers building open-source AI inference pipelines and agents on Solana.",
     "sections": [
       {
@@ -3200,7 +3200,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "orangedao-grants": {
+  "oran-g": {
     "description": "OrangeDAO Grants provide venture funding, mentorship, and community backing from a collective of over 1,000 Y Combinator alumni investing in early-stage Web3 and AI founders.",
     "sections": [
       {
@@ -3256,7 +3256,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "pollen-grants": {
+  "poll-g": {
     "description": "Pollen Grants fund decentralized physical infrastructure (DePIN) developers creating open-source hardware, coverage validation algorithms, and mobile apps for the Pollen 5G wireless network.",
     "sections": [
       {
@@ -3284,7 +3284,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "polygon-network-grants": {
+  "poly-net-g": {
     "description": "The Polygon Village Grants program provides voucher grants, direct funding, and technical mentoring to developers building on Polygon PoS and AggLayer-connected zkEVM chains.",
     "sections": [
       {
@@ -3312,7 +3312,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "propr-builders-grant": {
+  "prop-bld-g": {
     "description": "The Propr Builders Grant awards milestone funding and technical mentorship to developers building tokenized real estate, fractional property ownership, and automated leasing dApps.",
     "sections": [
       {
@@ -3340,7 +3340,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "protocol-labs-grants": {
+  "prot-lab-g": {
     "description": "Protocol Labs Grants award non-dilutive research and developer funding for projects pushing the boundaries of decentralized storage, content addressing (IPFS/Filecoin), and cryptographic public goods.",
     "sections": [
       {
@@ -3368,7 +3368,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "push-protocol-grants": {
+  "push-prot-g": {
     "description": "Push Protocol Grants provide milestone-based funding, code reviews, and co-marketing to teams integrating decentralized cross-chain notifications, chat, and video communication.",
     "sections": [
       {
@@ -3424,7 +3424,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "qubic-incubation": {
+  "qubi-inc": {
     "description": "The Qubic Incubation Program provides funding, compute resources, and advisory for teams developing useful-proof-of-work (uPoW) neural networks, smart contracts, and computational dApps on Qubic.",
     "sections": [
       {
@@ -3480,7 +3480,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "ronin-forge-innovation": {
+  "roniforginno": {
     "description": "The Ronin Forge Innovation Grant awards non-dilutive capital, game studio incubation, and distribution access to game developers building on Sky Mavis\u2019s Ronin gaming blockchain.",
     "sections": [
       {
@@ -3508,7 +3508,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "rootstock-grants": {
+  "root-g": {
     "description": "The Rootstock Grants Program awards up to $50,000 in non-dilutive funding, security audits, and mentorship to developers creating EVM-compatible smart contracts and DeFi secured by Bitcoin.",
     "sections": [
       {
@@ -3536,7 +3536,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "secret-network-grants": {
+  "secr-net-g": {
     "description": "Secret Network Grants provide milestone-based funding, technical assistance, and incubator support to developers building confidential smart contracts and privacy-preserving dApps on Cosmos.",
     "sections": [
       {
@@ -3564,7 +3564,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "sei-japan-fund": {
+  "seijapafund": {
     "description": "The Sei Japan Ecosystem Fund allocates strategic capital and grants to Web3 gaming studios, entertainment franchises, and consumer social apps expanding within the Japanese and Asian markets.",
     "sections": [
       {
@@ -3648,7 +3648,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "shutter-champions": {
+  "shut-cham": {
     "description": "The Shutter Champions program awards bounties, grants, and technical mentoring to developers building threshold encryption, front-running protection, and MEV-resistant smart contracts.",
     "sections": [
       {
@@ -3704,7 +3704,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "solana-scholars": {
+  "sola-scho": {
     "description": "The Solana Scholars program awards student developer grants, collegiate hackathon prizes, and research fellowships to university students building open-source protocols on Solana.",
     "sections": [
       {
@@ -3732,7 +3732,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "stacks-endowment": {
+  "stac-endo": {
     "description": "The Stacks Grants Program provides non-dilutive milestone funding to developers building smart contracts, Bitcoin DeFi (sBTC), and decentralized apps secured by Bitcoin proof-of-transfer.",
     "sections": [
       {
@@ -3760,7 +3760,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "stanford-blockchain-accel": {
+  "stan-bc-acce": {
     "description": "The Stanford Blockchain Accelerator provides equity-free incubation, mentorship, and investor access to early-stage founders building groundbreaking blockchain protocols and applications.",
     "sections": [
       {
@@ -3788,7 +3788,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "subspace-grants": {
+  "subs-g": {
     "description": "The Subspace Foundation Grants Program awards non-dilutive capital and engineering advisory for developers building decentralized storage interfaces, Auto Drive apps, and modular consensus.",
     "sections": [
       {
@@ -3816,7 +3816,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "tezos-foundations-grant": {
+  "tezo-foun-g": {
     "description": "The Tezos Foundation Grants Program funds open-source developers, academic institutions, and enterprises deploying formal verification, institutional assets, and scalable dApps on Tezos.",
     "sections": [
       {
@@ -3844,7 +3844,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "the-bags-hackathon": {
+  "bags-hack": {
     "description": "The Bags Hackathon Grants award cash prizes and developer incubation for consumer Web3 mobile apps, creator monetization models, and social finance products built on Solana.",
     "sections": [
       {
@@ -3872,7 +3872,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "the-dequip-grant": {
+  "dequ-g": {
     "description": "The DeQUIP Grant Program by Quranium awards milestone funding and cryptographic research grants to developers building post-quantum secure blockchain protocols and hardware integration.",
     "sections": [
       {
@@ -3900,7 +3900,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "unichain-builder": {
+  "unic-bld": {
     "description": "The Uniswap Foundation Unichain Builder Open Call awards non-dilutive grants and technical co-development to teams launching native DeFi protocols and infrastructure on Unichain.",
     "sections": [
       {
@@ -3928,7 +3928,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "uniswap-grants": {
+  "unis-g": {
     "description": "The Uniswap Foundation Grants Program awards $5,000 to $250,000+ in non-dilutive funding to developers, researchers, and educators strengthening the Uniswap protocol and decentralized finance.",
     "sections": [
       {
@@ -4012,7 +4012,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "whitechain-builders": {
+  "whit-bld": {
     "description": "The WhiteChain Builders Program awards non-dilutive funding, gas fee subsidies, and marketing exposure to developers deploying DeFi protocols and Web3 games on WhiteChain.",
     "sections": [
       {
@@ -4040,7 +4040,7 @@ export const thinGrantExpansions: Record<string, Repair> = {
       }
     ]
   },
-  "world-comm-grants": {
+  "worl-comm-g": {
     "description": "The World Organization Community Grants program provides funding and developer resources for teams building proof-of-humanity integrations, privacy-preserving identity, and inclusive dApps on World Chain.",
     "sections": [
       {

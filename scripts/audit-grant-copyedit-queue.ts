@@ -40,7 +40,7 @@ function scrapeScore(grant: GrantProgram): number {
     'pooltogether-grants',
     'stacks-foundation',
     'eth-audit-subsidy',
-    'anthropic-startups',
+    'anth-stu',
     'zetachain-grants',
   ];
   if (manualRepaired.includes(grant.id)) score = Math.max(0, score - 4);
