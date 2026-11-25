@@ -190510,7 +190510,8 @@
       },
       "account": "channel:base",
       "attemptId": "670925e6-700e-4c58-b6ba-5621fd20d0bf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x52e469b2840cfc6b83e1056393b3e00eb0683ced"
     }
   ]
 }
