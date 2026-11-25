@@ -190186,7 +190186,8 @@
       },
       "account": "profile",
       "attemptId": "d23f0b6e-cfea-4614-840c-0960032ce2b9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x59d4252aa2d2ec40b387698764d9207a4c924d8f"
     }
   ]
 }
