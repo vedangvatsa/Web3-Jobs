@@ -308,26 +308,22 @@ function linkSideEventParents(event: Web3Event): Web3Event {
     }
   }
 
-  const isBangkok =
-    city.includes('bangkok') ||
-    loc.includes('bangkok') ||
-    /krung thep|กรุงเทพ/i.test(loc) ||
-    normalizeCountry(event.country || '') === 'TH' && /\bbangkok\b|krung thep|qsnncc|queen sirikit/i.test(loc);
-  if (
-    isBangkok &&
-    shouldTagBbw2026SideEvent({
-      text,
-      city: event.city || '',
-      location: event.location || '',
-      country: event.country,
-      startDate: start,
-      eventId: event.id,
-      source: event.source,
-      url: event.url,
-      website: event.website,
-    })
-  ) {
+  const bbwSideTag = shouldTagBbw2026SideEvent({
+    text,
+    city: event.city || '',
+    location: event.location || '',
+    country: event.country,
+    startDate: start,
+    eventId: event.id,
+    source: event.source,
+    url: event.url,
+    website: event.website,
+  });
+  if (bbwSideTag) {
     sideEventFor.add('bbw');
+  } else {
+    sideEventFor.delete('bbw');
+    sideEventFor.delete('binance-blockchain-week');
   }
 
   if (isLondon && start >= '2026-11-01' && start <= '2026-11-20') {

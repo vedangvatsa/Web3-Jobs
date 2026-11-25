@@ -108,6 +108,7 @@
     "sync:luma-crypto": "npx tsx scripts/sync-luma-crypto-events.ts",
     "enrich:luma-descriptions": "npx tsx scripts/enrich-luma-crypto-descriptions.ts",
     "test:luma-venues": "npx tsx scripts/enrich-luma-venues.test.ts",
+    "test:bbw-side-events": "npx tsx scripts/lib/bbw-side-events.test.ts",
     "check:collisions": "npx tsx scripts/check-slug-collisions.ts",
     "compress:popups": "npx tsx scripts/compress-popup-images.ts",
     "trim:popups": "npx tsx scripts/trim-popup-galleries.ts",
