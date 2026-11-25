@@ -188331,6 +188331,48 @@
       "attemptId": "bd451f66-d4cb-4465-809b-7dd86e7f94a2",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "sls432",
+      "company": "Rain",
+      "title": "Associate Account Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-25T13:30:57.089Z",
+      "expectedText": "Rain is hiring Associate Account Manager: https://hashtagweb3.com/sls432/li?og=7",
+      "snapshot": {
+        "id": "34a3f837-7fb5-492d-bf28-003e9dd26277",
+        "title": "Associate Account Manager",
+        "company": "Rain",
+        "link": "https://jobs.ashbyhq.com/rain/34a3f837-7fb5-492d-bf28-003e9dd26277",
+        "date": "2026-11-06T18:19:56.581+00:00",
+        "source": "Ashby: Rain [rain]",
+        "location": "Hybrid (New York, NY)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "GTM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls432"
+      },
+      "payload": {
+        "text": "Rain is hiring Associate Account Manager: https://hashtagweb3.com/sls432/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls432/li?og=7",
+          "title": "Associate Account Manager at Rain | Hashtag Web3",
+          "description": "Join Rain as Associate Account Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls432.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "085f6c1e-79b1-48b7-8244-750e8df191d0",
+      "verification": "creating"
     }
   ]
 }
