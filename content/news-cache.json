@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-11-25T17:53:52.004Z",
+  "generatedAt": "2026-11-25T20:35:54.075Z",
   "items": [
+    {
+      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+      "pubDate": "Wed, 25 Nov 2026 19:37:10 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
+      "source": "The Block"
+    },
+    {
+      "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+      "link": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+      "pubDate": "Wed, 25 Nov 2026 19:32:42 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund.",
+      "source": "The Block"
+    },
+    {
+      "title": "Devcon 8 in Mumbai: Ethereum's Global Community Gathers",
+      "link": "https://blockchain.news/news/devcon-8-mumbai-recap",
+      "pubDate": "Wed, 25 Nov 2026 19:31:27 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Devcon 8 brought 6,821 attendees to Mumbai, showcasing Ethereum's advancements in privacy, post-quantum security, and decentralized technologies. (Rea...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "link": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+      "pubDate": "Wed, 25 Nov 2026 19:28:54 +0000",
+      "creator": "Staff",
+      "contentSnippet": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto min...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "link": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 18:54:51 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls s...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance Expands to Multi-Asset Trading with Stocks and ETFs",
+      "link": "https://blockchain.news/news/binance-multi-asset-trading-stocks-etfs",
+      "pubDate": "Wed, 25 Nov 2026 18:32:30 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance integrates over 7,000 U.S. stocks and ETFs alongside crypto, enabling 24/5 trading and tokenized securities in its financial super app. (Read ...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "link": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "pubDate": "Wed, 25 Nov 2026 18:24:47 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+      "pubDate": "Wed, 25 Nov 2026 18:05:18 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Following President Trump’s directive to crack down on fraud, the Justice Department announced what it called its “largest-ever crackdown.\"",
+      "source": "The Block"
+    },
+    {
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "link": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:53:10 +0000",
+      "creator": "Jona Jaupi",
+      "contentSnippet": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
       "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
@@ -32,14 +104,6 @@
       "creator": "Blockchain.News",
       "contentSnippet": "Lithe, a new EVM language developed by AI agents, offers smaller bytecode, formal verification, and enhanced security for smart contracts. (Read More)",
       "source": "Blockchain.News"
-    },
-    {
-      "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
-      "link": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 25 Nov 2026 17:19:33 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptoc...",
-      "source": "Cointelegraph"
     },
     {
       "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
@@ -154,22 +218,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-      "link": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
-      "pubDate": "Wed, 25 Nov 2026 13:15:24 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Ethereum Foundation Says AI-Driven Crypto Upgrades Take Priority Over Quantum Threats",
-      "link": "https://dailyhodl.com/2026/11/25/ethereum-foundation-says-ai-driven-crypto-upgrades-take-priority-over-quantum-threats/",
-      "pubDate": "Wed, 25 Nov 2026 13:07:03 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The Ethereum Foundation is elevating cryptography upgrades to its top priority after determining that AI poses a more urgent risk to the network than ...",
-      "source": "Daily Hodl"
-    },
-    {
       "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
       "link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
       "pubDate": "Wed, 25 Nov 2026 12:24:32 +0000",
@@ -258,6 +306,14 @@
       "source": "Cointelegraph"
     },
     {
+      "title": "Ethereum Foundation researchers pick one hash ‘to rule them all’ for post-quantum upgrade",
+      "link": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
+      "pubDate": "Wed, 25 Nov 2026 09:49:45 +0000",
+      "creator": "Brian Danga",
+      "contentSnippet": "Keccak-256 was favored for its long cryptanalysis record and existing role across Ethereum, despite slower proving than BLAKE3.",
+      "source": "The Block"
+    },
+    {
       "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
       "link": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 25 Nov 2026 08:40:28 +0000",
@@ -266,11 +322,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Bitcoin climbs from lows as markets attempt midday bounce",
+      "title": "Live updates: Bitcoin climbs from lows as markets bounce from big early declines",
       "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
       "pubDate": "Wed, 25 Nov 2026 08:35:47 +0000",
       "creator": "Shaurya Malwa",
-      "contentSnippet": "The Nasdaq narrowed an early 4.5% decline by about 50% as Michael Burry announced he's closed all tech shorts and gone long.",
+      "contentSnippet": "The Nasdaq narrowed an early 4.5% plunge to just a modest loss, with Michael Burry announcing he's closed all tech shorts and gone long.",
       "source": "Coindesk"
     },
     {
@@ -378,14 +434,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "SEC staff gives Molecule no-action relief for scientific research tokens",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-sec-staff-gives-molecule-no-action-relief-scientific-research-tokens-446067",
-      "pubDate": "Tue, 24 Nov 2026 20:53:14 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "SEC staff said it would not recommend an enforcement action against Molecule for its utility tokens that allow people to support research.",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
       "link": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 24 Nov 2026 19:44:23 +0000",
@@ -410,14 +458,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Payward’s Krak plans early 2027 launch of US credit cards with bitcoin cashback, including one secured by USDC",
-      "link": "https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498",
-      "pubDate": "Tue, 24 Nov 2026 18:35:02 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral.",
-      "source": "The Block"
-    },
-    {
       "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
       "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
       "pubDate": "Tue, 24 Nov 2026 18:16:02 +0000",
@@ -434,14 +474,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Rep. Raskin probes Trump Jr.’s firm’s investments into Polymarket and Juul over ‘suspiciously well-timed government favors’",
-      "link": "https://www.theblock.co/news/regulation/2026-11-24-rep-raskin-probes-trump-jr-s-firms-investments-polymarket-juul-suspiciously-well-timed-government-favors-446052",
-      "pubDate": "Tue, 24 Nov 2026 18:05:03 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "Rep. Raskin has expanded his investigation into 1789 Capital, probing potential links between investments in companies such as Polymarket.",
-      "source": "The Block"
-    },
-    {
       "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
       "link": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
       "pubDate": "Tue, 24 Nov 2026 17:45:22 +0000",
@@ -456,14 +488,6 @@
       "creator": "Jose Antonio Lanz",
       "contentSnippet": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
       "source": "Decrypt"
-    },
-    {
-      "title": "We’ve Entered Peak FEAR; SKY Falls",
-      "link": "https://www.theblock.co/newsletters/data-and-insights/2026-11-24-weve-entered-peak-fear-sky-falls-445476",
-      "pubDate": "Tue, 24 Nov 2026 17:42:29 +0000",
-      "creator": "Ivan Wu and Bryan Samsoedin",
-      "contentSnippet": "Fear no Greed Last week was another down week, with Bitcoin now retracing its entire summer move. The Fear and Greed Index continued its downward tren...",
-      "source": "The Block"
     },
     {
       "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
@@ -530,28 +554,12 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-      "link": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 13:57:56 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
       "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
       "pubDate": "Tue, 24 Nov 2026 13:46:03 +0000",
       "creator": "Agent",
       "contentSnippet": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
-      "link": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 13:43:46 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
@@ -578,14 +586,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
-      "link": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
-      "pubDate": "Tue, 24 Nov 2026 11:31:56 +0000",
-      "creator": "Oliver Knight",
-      "contentSnippet": "Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back Monday's jump and lagging the stock market's rebound from last week's...",
-      "source": "Coindesk"
-    },
-    {
       "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
       "link": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
       "pubDate": "Mon, 23 Nov 2026 20:36:02 +0000",
@@ -607,22 +607,6 @@
       "pubDate": "Mon, 23 Nov 2026 18:15:45 +0000",
       "creator": "Agent",
       "contentSnippet": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
-      "link": "https://decrypt.co/383800/tom-lee-ethereum-scarce-bitcoin-bitmine-buys-more",
-      "pubDate": "Mon, 23 Nov 2026 16:46:03 +0000",
-      "creator": "Staff",
-      "contentSnippet": "Chairman Tom Lee argued ETH’s supply has grown just 0.90% annually since mid-2025—roughly matching Bitcoin’s 0.82% and far below Solana, XRP and Carda...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
-      "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
-      "pubDate": "Mon, 23 Nov 2026 16:32:04 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
       "source": "Decrypt"
     },
     {
