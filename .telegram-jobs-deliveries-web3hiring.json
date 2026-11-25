@@ -6704,5 +6704,128 @@
     "slotKey": "2026-11-24:afternoon",
     "messageId": 218,
     "sentAt": "2026-11-24T14:12:53.758Z"
+  },
+  "bfa7e412-fd36-4651-876d-66cac95ca695": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T11:57:54.510Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8213863003",
+          "title": "Structured Products Trader",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8213863003",
+          "date": "2026-11-23T04:30:21-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Hong Kong",
+          "department": "Product Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tr151"
+        },
+        "key": "8213863003",
+        "slug": "tr151",
+        "url": "https://hashtagweb3.com/tr151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Structured Products Trader"
+      },
+      {
+        "snapshot": {
+          "id": "5035000101",
+          "title": "Solutions Engineer - APAC",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5035000101",
+          "date": "2026-11-12T08:59:06-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "Singapore",
+          "department": "Commercial",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng733"
+        },
+        "key": "5035000101",
+        "slug": "eng733",
+        "url": "https://hashtagweb3.com/eng733?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Solutions Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8318680",
+          "title": "Financial Services Transfer Pricing Strategist",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8318680",
+          "date": "2026-11-04T14:55:04-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "New York, Chicago, Seattle, San Francisco",
+          "department": "6430 Tax",
+          "active": true,
+          "dateVerified": true,
+          "slug": "fstp"
+        },
+        "key": "8318680",
+        "slug": "fstp",
+        "url": "https://hashtagweb3.com/fstp?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Financial Services Transfer Pricing Strategist"
+      },
+      {
+        "snapshot": {
+          "id": "gs-oracle-189401",
+          "title": "Asset & Wealth Management Operation Trade Management -Analyst - Bengaluru",
+          "company": "Goldman Sachs",
+          "link": "https://higher.gs.com/roles/189401",
+          "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189401",
+          "date": "2026-11-19T11:34:31+00:00",
+          "dateVerified": true,
+          "dateSource": "Oracle Recruiting",
+          "source": "Oracle CE [goldman-lateral]",
+          "location": "Bengaluru, Karnataka, India",
+          "type": "Full-time",
+          "department": "Goldman Sachs",
+          "skills": [
+            "Institutional",
+            "Banking",
+            "Digital Assets",
+            "Blockchain",
+            "Web3"
+          ],
+          "active": true,
+          "slug": "an161"
+        },
+        "key": "gs-oracle-189401",
+        "slug": "an161",
+        "url": "https://hashtagweb3.com/an161?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Goldman Sachs",
+        "title": "Asset & Wealth Management Operation Trade Management -Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "5035560101",
+          "title": "Engineering Manager, Unified API",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5035560101",
+          "date": "2026-11-13T02:51:29-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Jakarta, Indonesia",
+          "department": "STX - Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng784"
+        },
+        "key": "5035560101",
+        "slug": "eng784",
+        "url": "https://hashtagweb3.com/eng784?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Engineering Manager"
+      }
+    ],
+    "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/tr151?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Structured Products Trader</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/eng733?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/fstp?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Services Transfer Pricing Strategist</a>\n- Goldman Sachs is hiring <a href=\"https://hashtagweb3.com/an161?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset &amp; Wealth Management Operation Trade Management -Analyst</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng784?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Unified API</a>",
+    "slotKey": "2026-11-25:afternoon"
   }
 }
