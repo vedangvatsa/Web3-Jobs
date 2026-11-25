@@ -185457,7 +185457,8 @@
       },
       "account": "channel:base",
       "attemptId": "23d8e92c-d30c-46a5-a16e-2454c340eade",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7259b466bda3e74f2563e4564d4c1d7b9c5a79ba"
     }
   ]
 }
