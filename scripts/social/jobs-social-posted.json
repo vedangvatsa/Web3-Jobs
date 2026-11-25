@@ -190764,6 +190764,47 @@
       "attemptId": "6f045194-be1c-44c6-9c98-41d4e83116b5",
       "verification": "verified",
       "postId": "0x4d75ff60cdb133467671c77820c7ebfc604665e7"
+    },
+    {
+      "slug": "rasc",
+      "company": "Kalshi",
+      "title": "Regulatory Attorney - SEC/CFTC",
+      "platform": "linkedin",
+      "postedAt": "2026-11-25T23:26:18.678Z",
+      "expectedText": "Kalshi is hiring Regulatory Attorney - SEC: https://hashtagweb3.com/rasc/li?og=7",
+      "snapshot": {
+        "id": "4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "title": "Regulatory Attorney - SEC/CFTC",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "date": "2026-11-09T19:57:32.112+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rasc"
+      },
+      "payload": {
+        "text": "Kalshi is hiring Regulatory Attorney - SEC: https://hashtagweb3.com/rasc/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rasc/li?og=7",
+          "title": "Regulatory Attorney - SEC/CFTC at Kalshi | Hashtag Web3",
+          "description": "Join Kalshi as Regulatory Attorney - SEC/CFTC. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rasc.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "d3539e99-a1b1-41db-80ff-a804b3b8ba8d",
+      "verification": "creating"
     }
   ]
 }
