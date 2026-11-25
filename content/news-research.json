@@ -218308,9 +218308,9 @@
         "The Defiant"
       ],
       "id": "a4b5e23f28ffc360645c",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T11:31:10.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "articleSlug": "cmudap",
@@ -218340,7 +218340,29 @@
         "updatedAt": "2026-11-25T13:40:24.944Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Re-read the HKMA and CMU OmniClear launch releases plus Cointelegraph and LeapRate coverage; draft, hero image and the quality, formatting and duplicate audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.cmuomniclear.com/en/news-and-events/id/3941",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.leaprate.com/institutional/hong-kongs-hkma-launches-on-chain-settlement-platform-for-debt-securities/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-25T13:45:43.859Z",
+      "lastReviewedDay": "2026-11-25"
     },
     "65148618e48dacf5d16b": {
       "source": "CryptoSlate",
@@ -430532,6 +430554,31 @@
           ],
           "reviewedAt": "2026-11-25T13:38:20.426Z",
           "articleSlug": "sbiglobal"
+        },
+        "a4b5e23f28ffc360645c": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Re-read the HKMA and CMU OmniClear launch releases plus Cointelegraph and LeapRate coverage; draft, hero image and the quality, formatting and duplicate audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.cmuomniclear.com/en/news-and-events/id/3941",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.leaprate.com/institutional/hong-kongs-hkma-launches-on-chain-settlement-platform-for-debt-securities/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-25T13:45:43.859Z",
+          "articleSlug": "cmudap"
         }
       },
       "baselineSlugs": [
