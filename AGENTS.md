@@ -70,7 +70,8 @@ OpenAPI spec: `https://hashtagweb3.com/openapi.json` (YAML mirror: `/api/openapi
 ## Development Commands
 
 ```bash
-npm install          # Install dependencies
+npm install          # Install dependencies (commit package-lock.json after any package.json change)
+npm run check:lockfile  # CI runs npm ci; this must pass before push
 npm run dev          # Start development server (http://localhost:3000)
 npm run build        # Build for production
 npm run lint         # ESLint (next/core-web-vitals)

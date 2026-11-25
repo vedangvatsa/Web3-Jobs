@@ -151,6 +151,7 @@
     "images:commons": "npx tsx scripts/assign-commons-article-images.ts",
     "jobs:backfill-lever-salaries": "npx tsx scripts/backfill-lever-salaries.ts",
     "check:logos": "node scripts/check-logo-case.js",
+    "check:lockfile": "node scripts/check-package-lock.mjs",
     "clean:slop": "node scripts/clean-slop.js --apply",
     "ingest:bnbchain": "npx tsx scripts/ingest-bnbchain-jobs.ts",
     "ingest:paradigm": "npx tsx scripts/ingest-paradigm.ts",
