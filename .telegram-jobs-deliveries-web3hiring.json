@@ -6831,7 +6831,7 @@
     "sentAt": "2026-11-25T11:57:58.801Z"
   },
   "bd7e5bd7-6522-413a-ae87-077d17fed2a9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T11:58:02.815Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -6951,6 +6951,8 @@
       }
     ],
     "message": "- OKX is hiring <a href=\"https://hashtagweb3.com/tr151?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Structured Products Trader</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/eng733?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/fstp?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Financial Services Transfer Pricing Strategist</a>\n- Goldman Sachs is hiring <a href=\"https://hashtagweb3.com/an161?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Asset &amp; Wealth Management Operation Trade Management -Analyst</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng784?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Unified API</a>",
-    "slotKey": "2026-11-25:afternoon"
+    "slotKey": "2026-11-25:afternoon",
+    "messageId": 219,
+    "sentAt": "2026-11-25T11:58:10.007Z"
   }
 }
