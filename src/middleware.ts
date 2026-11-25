@@ -74,8 +74,8 @@ function getRateLimitInfo(request: NextRequest) {
     process.env.npm_lifecycle_event?.includes('test') ||
     process.env.npm_lifecycle_event === 'prebuild' ||
     process.env.FAH_TEST === '1' ||
-    process.execArgv.some((a) => a.includes('--test')) ||
-    process.argv.some((a) => a.includes('test')) ||
+    (process.execArgv?.some((a) => a.includes('--test')) ?? false) ||
+    (process.argv?.some((a) => a.includes('test')) ?? false) ||
     request.headers.get('x-test-bypass') === '1'
   ) {
     return {
