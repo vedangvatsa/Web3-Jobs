@@ -31,6 +31,7 @@ const GRAMMAR_FIXES: Array<[RegExp, string]> = [
   [/\bindustrys\b/g, "industry's"],
   [/\bthe worlds\b/g, "the world's"],
   [/\bcitie\b/g, 'cities'],
+  [/(?<=[a-z]),(?=[A-Za-z])/g, ', '],
 ];
 
 const WEEKDAY =
@@ -38,19 +39,98 @@ const WEEKDAY =
 const MONTH =
   'January|February|March|April|May|June|July|August|September|October|November|December|JANUARY|FEBRUARY|MARCH|APRIL|MAY|JUNE|JULY|AUGUST|SEPTEMBER|OCTOBER|NOVEMBER|DECEMBER';
 
+const LUMA_CHROME_TAIL =
+  /\n\n(?:Location|Hosted By|Presented by|Registration|## Tickets|## Hosts)\b[\s\S]*$/i;
+
+/** Drop Luma page chrome when a full HTML export was stored as the description. */
+export function stripLumaExportChrome(text: string): string {
+  if (!/LumaSkip to Content/i.test(text)) return text;
+  const normalized = text.replace(/\r\n?/g, '\n');
+  const about = normalized.match(
+    /About Event\s*\n+([\s\S]*?)(?=\n\n(?:Location|Hosted By|Presented by|Registration)\b)/i,
+  );
+  if (about?.[1]?.trim()) {
+    return about[1].replace(/^\u200b+/gm, '').trim();
+  }
+  const withoutPreamble = normalized.replace(/^[\s\S]*?LumaSkip to Content\s*\n+/i, '');
+  const markdown = withoutPreamble.match(/(##[\s\S]+)/);
+  if (markdown?.[1]) return markdown[1].replace(LUMA_CHROME_TAIL, '').trim();
+  return withoutPreamble.replace(LUMA_CHROME_TAIL, '').trim();
+}
+
+const LIST_LINE_MAX = 72;
+
+function isBulletCandidateLine(line: string): boolean {
+  const t = line.trim();
+  if (!t || t.length > LIST_LINE_MAX) return false;
+  if (/^#{1,6}\s/.test(t) || /^[-*•·▪]\s/.test(t) || /^\d+[.)]\s/.test(t)) return false;
+  if (/https?:\/\//.test(t)) return false;
+  if (/^[A-Za-z][^:：]{0,48}[:：]\s/.test(t)) return false;
+  if (STANDALONE_STAT_LINE.test(t) || STANDALONE_SEPARATOR_LINE.test(t)) return false;
+  if (/\p{Script=Han}|\p{Script=Hiragana}|\p{Script=Katakana}|\p{Script=Hangul}/u.test(t)) return false;
+  if (/^\p{Extended_Pictographic}/u.test(t)) return false;
+  if (/[.!?…]['")\]]?$/.test(t)) return false;
+  return true;
+}
+
+/** Turn runs of 3+ short unpunctuated lines into markdown bullets (amenity lists, etc.). */
+export function bulletizeShortFeatureRuns(text: string): string {
+  const lines = text.split('\n');
+  const out = [...lines];
+  let run: number[] = [];
+  let inCode = false;
+
+  const flush = () => {
+    if (run.length >= 3) {
+      for (const i of run) {
+        const t = out[i].trim();
+        if (!/^[-*•·▪]\s/.test(t)) out[i] = `- ${t}`;
+      }
+    }
+    run = [];
+  };
+
+  for (let i = 0; i < lines.length; i++) {
+    const trimmed = lines[i].trim();
+    if (/^```/.test(trimmed)) {
+      flush();
+      inCode = !inCode;
+      continue;
+    }
+    if (inCode) continue;
+    if (!trimmed) {
+      flush();
+      continue;
+    }
+    if (isBulletCandidateLine(lines[i])) run.push(i);
+    else flush();
+  }
+  flush();
+  return out.join('\n');
+}
+
 /**
  * Luma scrapes sometimes flatten block layout into one paragraph. Re-insert
  * line breaks before headings, day sections, bullets, and session titles.
  */
+function hasStructuredEventLayout(trimmedLines: string[]): boolean {
+  const bulletLines = trimmedLines.filter((line) => /^[-*•·▪]\s+\S/.test(line.trim())).length;
+  const headingLines = trimmedLines.filter((line) => /^#{1,6}\s+\S/.test(line.trim())).length;
+  return bulletLines >= 2 || headingLines >= 2 || (headingLines >= 1 && bulletLines >= 1);
+}
+
 export function rebreakCollapsedEventParagraphs(text: string): string {
   if (!text) return text;
-  const trimmedLines = text.replace(/\r\n?/g, '\n').split('\n').filter((line) => line.trim());
+  const normalized = text.replace(/\r\n?/g, '\n');
+  const trimmedLines = normalized.split('\n').filter((line) => line.trim());
+  if (hasStructuredEventLayout(trimmedLines)) return normalized.trim();
+
   const longest = Math.max(0, ...trimmedLines.map((line) => line.trim().length));
   const looksFlattened =
-    trimmedLines.length <= 4 || (trimmedLines.length <= 8 && longest > 360) || longest > 520;
-  if (!looksFlattened) return text.replace(/\r\n?/g, '\n').trim();
+    trimmedLines.length <= 4 || (trimmedLines.length <= 8 && longest > 360);
+  if (!looksFlattened) return normalized.trim();
 
-  let out = text.replace(/\r\n?/g, '\n');
+  let out = normalized;
 
   out = out.replace(/\s+(?=#{1,6}\s+\S)/g, '\n\n');
   out = out.replace(
@@ -105,7 +185,9 @@ export function rebreakCollapsedEventParagraphs(text: string): string {
 
 export function cleanupEventDescriptionFormat(text: string): string {
   if (!text) return text;
-  let out = rebreakCollapsedEventParagraphs(text);
+  let out = stripLumaExportChrome(text);
+  out = rebreakCollapsedEventParagraphs(out);
+  out = bulletizeShortFeatureRuns(out);
   for (const [pattern, replacement] of GRAMMAR_FIXES) out = out.replace(pattern, replacement);
   out = out.replace(/\s*Tickets,\s*(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)[^\n]*\|\s*Eventbrite/gi, '');
   const lines = out.split('\n').filter((line) => !STANDALONE_STAT_LINE.test(line) && !STANDALONE_SEPARATOR_LINE.test(line) && !PLATFORM_BOILERPLATE_LINE.test(line));

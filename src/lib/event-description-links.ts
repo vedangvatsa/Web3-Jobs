@@ -13,6 +13,24 @@ function speakerDirectoryMarkdown(url: string): string {
   return `See the [official speaker directory](${href}) for the full roster.`;
 }
 
+const SOCIAL_LINK_LABEL =
+  /^(?:LinkedIn|Website|X|Twitter|Facebook|Instagram|YouTube|Telegram|Discord)\s*\(\s*https?:\/\/[^\s)]+\s*\)$/i;
+
+/** Luma exports "LinkedIn (url) | Website (url)" rows as plain text. */
+function polishPipeSeparatedSocialLinks(line: string): string {
+  const trimmed = line.trim();
+  if (!trimmed.includes('|') || !/\(\s*https?:\/\//.test(trimmed)) return line;
+  const parts = trimmed.split(/\s*\|\s*/);
+  if (parts.length < 2 || !parts.every((part) => SOCIAL_LINK_LABEL.test(part.trim()))) return line;
+  const links = parts.map((part) => {
+    const match = /^(.+?)\s*\(\s*(https?:\/\/[^\s)]+)\s*\)\s*$/i.exec(part.trim());
+    if (!match) return null;
+    return `[${match[1].trim()}](${match[2]})`;
+  });
+  if (links.some((link) => !link)) return line;
+  return links.join(' · ');
+}
+
 /** Normalize pasted speaker-directory lines so detail pages never show raw roster URLs. */
 export function polishEventDescriptionLinks(text: string): string {
   return text
@@ -20,6 +38,9 @@ export function polishEventDescriptionLinks(text: string): string {
     .map((line) => {
       const trimmed = line.trim();
       if (!trimmed || /\[[^\]]+\]\(https?:\/\//.test(trimmed)) return line;
+
+      const pipeLinks = polishPipeSeparatedSocialLinks(line);
+      if (pipeLinks !== line) return pipeLinks;
 
       if (/(?:The\s+)?(?:full\s+)?list of speakers is here:\s*https?:\/\//i.test(trimmed)) {
         SPEAKER_HERE_INLINE.lastIndex = 0;

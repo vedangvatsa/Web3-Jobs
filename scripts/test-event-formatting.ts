@@ -68,12 +68,46 @@ for (const text of legitimate) {
   assert.deepEqual(hard, [], `legitimate formatting must not hard-fail: ${text.slice(0, 40)}`);
 }
 
-import { rebreakCollapsedEventParagraphs } from '../src/lib/event-description-cleanup';
+import {
+  bulletizeShortFeatureRuns,
+  cleanupEventDescriptionFormat,
+  rebreakCollapsedEventParagraphs,
+  stripLumaExportChrome,
+} from '../src/lib/event-description-cleanup';
 const collapsed =
   "Toronto week wraps the industry. TUESDAY, NOVEMBER 24 DIGITAL ASSET SUMMIT TORONTO 9:00 AM - 5:00 PM - Toronto A full day of panels. TUESDAY EVENING - VIP DINNER An exclusive reception.";
 const rebroken = rebreakCollapsedEventParagraphs(collapsed);
 assert.ok(rebroken.includes('TUESDAY, NOVEMBER 24'), 'weekday section break');
 assert.ok(rebroken.includes('DIGITAL ASSET SUMMIT'), 'session title break');
 assert.ok(!/^\s*-\s+Toronto/m.test(rebroken), 'no orphan dash-city line');
+
+const lumaList =
+  'Intro paragraph.\n\nWhat to expect\n- Welcome drinks on arrival\n- Cocktail hour, followed by wine\n- Cigar room\n\nThe venue\n\nLa Cava sits beneath the Rosewood.';
+const listPreserved = cleanupEventDescriptionFormat(lumaList);
+assert.match(listPreserved, /- Welcome drinks on arrival/, 'markdown bullets must survive cleanup on long Luma copy');
+assert.doesNotMatch(listPreserved, /models,nSure/i);
+const listEvent: Web3Event = {
+  ...event,
+  id: 'luma-bullets',
+  description:
+    `${lumaList}\n\nInstead of static rules or shared pooled models,nSureAI builds a dedicated model.\n\n` +
+    'LinkedIn (https://example.com/in/co) | Website (https://example.com)',
+};
+const listHtml = renderToStaticMarkup(
+  createElement(EventGuideContent, { editorial: buildEditorialFromOrganizerDescription(listEvent) }),
+);
+const listPage = cheerio.load(listHtml);
+assert.ok(listPage('ul li').length >= 3, 'What to expect bullets render as a list');
+assert.ok(listPage('a[href="https://example.com"]').length >= 1, 'pipe-separated social links become anchors');
+
+const chrome =
+  'Title · LumaSkip to Content\n\nHosted By\n\nAlice\n\nAbout Event\n\nReal copy paragraph one.\n\nReal copy paragraph two.\n\nLocation\n\nHidden address';
+assert.ok(!stripLumaExportChrome(chrome).includes('LumaSkip'), 'Luma chrome stripped');
+assert.match(stripLumaExportChrome(chrome), /Real copy paragraph one/);
+
+const amenity = bulletizeShortFeatureRuns(
+  'Venue and Facilities\n\nFour indoor pickleball courts\nTwo outdoor pickleball courts\nThree beach volleyball courts',
+);
+assert.match(amenity, /- Four indoor pickleball courts/);
 
 console.log('Event formatting regression passed: agenda, nested lists, numbering, long headings, code, emphasis and safe links.');

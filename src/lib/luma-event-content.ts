@@ -38,7 +38,7 @@ export function isLumaListedEvent(
 }
 
 const SECTION_LABELS =
-  /^(?:agenda|schedule|itinerary|program(?:me)?|speakers|hosts|co-hosts?|partners|community partners|media partners?|sponsors?|venue|location|rules|about(?: the event| us| the hosts| [\p{L}\p{N} &'’.-]{2,45})?|what to expect|who should attend|who it'?s for|who is this for|how we network|event (?:description|details|info|highlights)|highlights|details|format|event format|(?:the )?prizes?|participants?|panels?|the panels?|mission|our mission|focus areas?|previous speakers|past activations|past events|hike info|how to get (?:here|there)|registration|tickets|please note|important (?:notes|information)|the challenge|disclaimer|track [a-z0-9]+|inspiration tracks(?:\s+for\s+solutions)?)$/iu;
+  /^(?:agenda|schedule|itinerary|program(?:me)?|speakers|hosts|co-hosts?|partners|community partners|media partners?|sponsors?|(?:the )?venue|location|rules|about(?: the event| us| the hosts| [\p{L}\p{N} &'’.-]{2,45})?|what to expect|who should attend|who it'?s for|who is this for|how we network|event (?:description|details|info|highlights)|highlights|details|format|event format|(?:the )?prizes?|participants?|panels?|the panels?|mission|our mission|focus areas?|previous speakers|past activations|past events|hike info|how to get (?:here|there)|registration|tickets|please note|important (?:notes|information)|the challenge|disclaimer|track [a-z0-9]+|inspiration tracks(?:\s+for\s+solutions)?|powered by\b[\p{L}\p{N} &'’.-]{0,40}|hosted by\b[\p{L}\p{N} &'’.-]{0,48}|privacy(?:\s*&\s*media)?\s*consent)$/iu;
 
 function headingText(line: string): string {
   return line.trim().replace(/^#{1,6}\s+/, '').replace(/^\*\*(.+)\*\*$/, '$1').replace(/[:.]$/, '').trim();
