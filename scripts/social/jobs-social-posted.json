@@ -185529,6 +185529,40 @@
       "attemptId": "8da9f6a7-a4e6-46e9-ba0b-3e762aab9512",
       "verification": "verified",
       "postId": "0x3afb4c1577269f22ff11d5a082d8dc791c2e7f40"
+    },
+    {
+      "slug": "dsf2",
+      "company": "Stripe",
+      "title": "Staff Data Scientist, Fraud",
+      "platform": "farcaster",
+      "postedAt": "2026-11-25T11:59:39.760Z",
+      "expectedText": "Stripe is hiring Staff Data Scientist\n\nhttps://hashtagweb3.com/dsf2/fc?og=7",
+      "snapshot": {
+        "id": "8323907",
+        "title": "Staff Data Scientist, Fraud",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8323907",
+        "date": "2026-11-20T15:40:04-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "N/A",
+        "department": "7112 Data Science",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dsf2"
+      },
+      "payload": {
+        "text": "Stripe is hiring Staff Data Scientist\n\nhttps://hashtagweb3.com/dsf2/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/dsf2/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "776ec374-913b-4214-8a38-a5985c7c0a9c",
+      "verification": "creating"
     }
   ]
 }
