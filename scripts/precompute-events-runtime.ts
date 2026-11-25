@@ -35,6 +35,10 @@ async function main() {
       stdio: 'inherit',
       cwd: process.cwd(),
     });
+    execSync('npx tsx scripts/audit-event-catalog-safety.ts', {
+      stdio: 'inherit',
+      cwd: process.cwd(),
+    });
   }
 }
 

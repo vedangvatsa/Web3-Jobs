@@ -16966,14 +16966,9 @@
         ]
       },
       {
-        "heading": "Details",
+        "heading": "Grant tiers",
         "paragraphs": [
-          "Audit grants program for Web3 protocols, operated by Zealynx Security."
-        ]
-      },
-      {
-        "heading": "Details",
-        "paragraphs": [
+          "Audit grants program for Web3 protocols, operated by Zealynx Security.",
           "Subsidized smart contract security audits for Web3 protocols. Three tiers — Core (100% subsidy), Growth (50%), Builder (25%) — applied as a percentage discount on scoped Zealynx engagements at $6,000 per auditor per week. Scoring weights solo founders and protocols not routed to a specific auditor by an investor or chain ecosystem grants program."
         ]
       },

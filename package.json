@@ -46,7 +46,7 @@
     "prune:thin-grants": "tsx scripts/prune-thin-grants.ts",
     "prune:closed-grants": "tsx scripts/prune-closed-grants.ts",
     "verify:grant-applications": "tsx scripts/verify-grant-applications.ts",
-    "test:grants": "tsx scripts/test-grants.ts && tsx scripts/test-grant-body-quality.ts && tsx scripts/test-grant-grammar.ts && tsx scripts/test-grant-editorial-polish.ts && tsx scripts/test-grant-formatting.ts",
+    "test:grants": "tsx scripts/test-grants.ts && tsx scripts/test-grant-body-quality.ts && tsx scripts/test-grant-grammar.ts && tsx scripts/test-grant-editorial-polish.ts && tsx scripts/test-grant-formatting.ts && tsx scripts/test-grant-manual-review.ts",
     "test:seo-titles": "tsx scripts/test-seo-titles.ts",
     "test:company-about": "tsx scripts/test-company-about-quality.ts",
     "enrich:grants": "tsx scripts/enrich-grants-from-sources.ts --apply --refresh",
