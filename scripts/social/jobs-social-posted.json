@@ -188747,6 +188747,40 @@
       "attemptId": "5ebc040a-205e-4d6b-a861-c2d5d8336882",
       "verification": "verified",
       "postId": "0xa8e9319b9caf72226051fc7892e99b4f5784f465"
+    },
+    {
+      "slug": "arc54",
+      "company": "EY",
+      "title": "Blockchain Consultant/ Architect",
+      "platform": "farcaster",
+      "postedAt": "2026-11-25T17:55:10.759Z",
+      "expectedText": "EY is hiring Blockchain Consultant\n\nhttps://hashtagweb3.com/arc54/fc?og=7",
+      "snapshot": {
+        "id": "ey-1447979133",
+        "title": "Blockchain Consultant/ Architect",
+        "company": "EY",
+        "link": "https://careers.ey.com/ey/job/Tel-Aviv-Blockchain-Consultant-Architect-6706703/1447979133/",
+        "applyUrl": "https://careers.ey.com/ey/job/Tel-Aviv-Blockchain-Consultant-Architect-6706703/1447979133/",
+        "date": "2026-11-13T02:00:00.000Z",
+        "dateVerified": true,
+        "dateSource": "EY Careers",
+        "source": "EY Careers [ey]",
+        "active": true,
+        "slug": "arc54",
+        "location": "Not specified"
+      },
+      "payload": {
+        "text": "EY is hiring Blockchain Consultant\n\nhttps://hashtagweb3.com/arc54/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/arc54/fc?og=7"
+          }
+        ],
+        "channel_id": "founders"
+      },
+      "account": "channel:founders",
+      "attemptId": "736ee2d9-28ee-47dd-b5a8-ff13b3d8993b",
+      "verification": "creating"
     }
   ]
 }
