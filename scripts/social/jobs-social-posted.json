@@ -190366,7 +190366,8 @@
       },
       "account": "channel:dev",
       "attemptId": "d57bca5e-6037-49d1-bf7b-4b2946a0f159",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xaeaaa97e136f3aa5d920b62074381d58db9ad490"
     }
   ]
 }
