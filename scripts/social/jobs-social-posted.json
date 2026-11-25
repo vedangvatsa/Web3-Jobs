@@ -186053,7 +186053,8 @@
       },
       "account": "channel:web3",
       "attemptId": "aef362d3-4570-43e7-962f-8fd864ed2560",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8b7cab606e7c47ee8c9b1bd1060ecb34c27206a9"
     }
   ]
 }
