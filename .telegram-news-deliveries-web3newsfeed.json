@@ -924,7 +924,7 @@
     "sentAt": "2026-11-24T18:49:57.073Z"
   },
   "b544700f-791f-4f33-bc57-e5db494341e4": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T11:58:53.416Z",
     "stories": [
       {
@@ -952,6 +952,8 @@
         "originalTitle": "SEAL Says Binance Hackers Had an Eight-Week Intrusion Window"
       }
     ],
-    "slotKey": "2026-11-25:afternoon"
+    "slotKey": "2026-11-25:afternoon",
+    "messageId": 65854,
+    "sentAt": "2026-11-25T11:58:55.902Z"
   }
 }

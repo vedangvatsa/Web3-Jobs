@@ -83,6 +83,9 @@
   "https://hashtagweb3.com/binanceorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/hsmvault?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cbnstablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/binanceseal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -251,6 +254,12 @@
   "Blockstream Launches Offline Bitcoin Custody System Built With Thales",
   "Greece approves 10% crypto gains and 15% staking taxes",
   "Greece passes crypto tax law with 10% gains levy and 15% rate on staking",
+  "White House Reviews DOL Rule on 401(k) Crypto Investments",
+  "DOL Final Rule on Crypto in 401(k)s Reaches White House Review",
+  "Nigeria mandates local licenses for foreign stablecoin issuers",
+  "Nigeria Requires Offshore Stablecoin Issuers to License Locally",
+  "Binance Hackers Breached Engineer's Device Weeks Before Exploit",
+  "SEAL Says Binance Hackers Had an Eight-Week Intrusion Window",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -334,5 +343,8 @@
   "fp:bithumb|bridg|cyber|deposit|follow|halt|lockbox|mint|nov22|project",
   "fp:000|65b|abu|aim|asset|binanc|chain|court|dhabi|freez",
   "fp:blockstream|built|client|combin|computation|custody|hardwar|institutional|modul|multi",
-  "fp:and15|annual|apply|approves10|defi|euro|gain|greec|incom|january2027"
+  "fp:and15|annual|apply|approves10|defi|euro|gain|greec|incom|january2027",
+  "fp:alternativ|asset|cryptocurrency|dol|final|hous|in401|investment|investor|legal",
+  "fp:15b|bank|buffer|capital|central|effectiv|foreign|issuer|licens|local",
+  "fp:allianc|binanc|breach|compromis|devic|eight|employe|engineer|exploit|fak"
 ]
