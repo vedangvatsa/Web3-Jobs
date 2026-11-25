@@ -6879,7 +6879,7 @@
     "dateVerified": true
   },
   "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US": {
-    "date": "2026-09-17",
+    "date": "2025-11-17",
     "dateVerified": true
   },
   "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Accountant_JR101147": {
@@ -53861,5 +53861,82 @@
     "date": "2026-04-15T00:00:00.000Z",
     "dateVerified": true,
     "dateSource": "Workday Recruiting"
+  },
+  "ashby:32eb486f-8784-4f78-8bdf-36e5564fe3fd": {
+    "date": "2026-11-25T10:41:42.000Z",
+    "dateVerified": true
+  },
+  "https://careers.circle.com/us/en/job/JR101222": {
+    "date": "2026-11-25T10:56:12.000Z",
+    "dateVerified": true
+  },
+  "greenhouse:8265144": {
+    "date": "2026-10-13T10:15:30-04:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:5048174101": {
+    "date": "2026-11-25T07:13:22-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4010001201": {
+    "date": "2026-11-25T05:49:04-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4009948201": {
+    "date": "2026-11-25T06:07:45-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "greenhouse:4010002201": {
+    "date": "2026-11-25T06:12:47-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:46e87d8f-0232-47bc-8c86-721e6928cbfd": {
+    "date": "2026-11-25T10:49:49.071+00:00",
+    "dateVerified": true
+  },
+  "workable:c8e7b43a01": {
+    "date": "2026-11-25T00:00:00.000Z",
+    "dateVerified": true
+  },
+  "https://mercuryo.bamboohr.com/careers/461": {
+    "date": "2026-11-25",
+    "dateVerified": true
+  },
+  "https://mercuryo.bamboohr.com/careers/460": {
+    "date": "2026-11-25",
+    "dateVerified": true
+  },
+  "ashby:e484dfab-2bec-43a2-8883-56fbf0da7d14": {
+    "date": "2026-11-24T23:23:57.628+00:00",
+    "dateVerified": true
+  },
+  "https://www.revolut.com/careers/position/head-financial-crime-compliance-crypto-e9df3602-32ec-4d89-a7cf-d5c811f961db": {
+    "date": "2026-09-02",
+    "dateVerified": true
+  },
+  "https://www.revolut.com/careers/position/product-marketing-manager-crypto-ef7bd853-526b-47ec-b506-d25ca9298dcc": {
+    "date": "2026-09-02",
+    "dateVerified": true
+  },
+  "https://www.revolut.com/careers/position/head-of-finance-crypto-7c9aa5ba-25c6-48bf-a06e-be2957f4818f": {
+    "date": "2026-09-02",
+    "dateVerified": true
+  },
+  "https://www.revolut.com/careers/position/product-owner-crypto-c7078b70-e10b-4f47-b983-bbe6d08d098a": {
+    "date": "2026-09-02",
+    "dateVerified": true
+  },
+  "https://www.revolut.com/careers/position/strategy-operations-manager-crypto-1f673184-3fe0-4a7b-9593-d7ecbe0fcc09": {
+    "date": "2026-09-02",
+    "dateVerified": true
+  },
+  "https://www.revolut.com/careers/position/information-security-specialist-crypto-b195b9c7-b517-4068-b9a4-f816f1c8b1f9": {
+    "date": "2026-09-02",
+    "dateVerified": true
   }
 }

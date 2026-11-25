@@ -160639,5 +160639,25 @@
     "link": "https://higher.gs.com/roles/187226",
     "company": "Goldman Sachs",
     "title": "Asset & Wealth Management, Private Credit, Structured Corporate Credit (Investment Grade), Managing Director, London"
+  },
+  "mkt141": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt192"
+  },
+  "cmp148": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp204"
+  },
+  "cpc": {
+    "id": "ft-869546",
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/USA-NYOMA-New-York/Head-of-Franklin-Crypto-Private-Credit_869546",
+    "company": "Franklin Templeton",
+    "title": "Head of Franklin Crypto Private Credit"
   }
 }
