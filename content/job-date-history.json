@@ -53974,5 +53974,23 @@
   "https://jobs.solana.com/companies/wormhole-2/jobs/100659558-associate-security-engineer-it": {
     "date": "2026-11-25T12:54:53.000Z",
     "dateVerified": true
+  },
+  "greenhouse:8396176": {
+    "date": "2026-11-25T09:07:24-05:00",
+    "dateVerified": true,
+    "dateSource": "Greenhouse.first_published"
+  },
+  "ashby:e1273f65-f60c-4de0-af35-ec36f691e8bc": {
+    "date": "2026-11-25T15:06:15.205+00:00",
+    "dateVerified": true
+  },
+  "ashby:0768b6d4-465d-4cc9-a440-ecc2a969c830": {
+    "date": "2026-11-25T15:08:54.868+00:00",
+    "dateVerified": true
+  },
+  "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189474": {
+    "date": "2026-11-25T14:28:57+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting"
   }
 }

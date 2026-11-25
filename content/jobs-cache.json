@@ -1,5 +1,72 @@
 [
   {
+    "id": "0768b6d4-465d-4cc9-a440-ecc2a969c830",
+    "title": "Senior Product Manager - Payments & Settlement",
+    "company": "Velocity",
+    "link": "https://jobs.ashbyhq.com/velocity/0768b6d4-465d-4cc9-a440-ecc2a969c830",
+    "date": "2026-11-25T15:08:54.868+00:00",
+    "source": "Ashby: Velocity [velocity]",
+    "location": "Hybrid (London)",
+    "isRemote": true,
+    "workplaceType": "Hybrid",
+    "department": "Product",
+    "active": true,
+    "slug": "pm329",
+    "dateVerified": true
+  },
+  {
+    "id": "e1273f65-f60c-4de0-af35-ec36f691e8bc",
+    "title": "MLRO - Australia",
+    "company": "Velocity",
+    "link": "https://jobs.ashbyhq.com/velocity/e1273f65-f60c-4de0-af35-ec36f691e8bc",
+    "date": "2026-11-25T15:06:15.205+00:00",
+    "source": "Ashby: Velocity [velocity]",
+    "location": "Australia",
+    "isRemote": null,
+    "workplaceType": null,
+    "department": "Legal & Compliance",
+    "active": true,
+    "slug": "cmp203",
+    "dateVerified": true
+  },
+  {
+    "id": "gs-oracle-189474",
+    "title": "Wealth Management-Birmingham-Associate-Software Engineering",
+    "company": "Goldman Sachs",
+    "link": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189474",
+    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/189474",
+    "date": "2026-11-25T14:28:57+00:00",
+    "dateVerified": true,
+    "dateSource": "Oracle Recruiting",
+    "source": "Oracle CE [goldman-lateral]",
+    "location": "Birmingham, West Midlands, England, United Kingdom",
+    "type": "Full-time",
+    "department": "Goldman Sachs",
+    "skills": [
+      "Institutional",
+      "Banking",
+      "Digital Assets",
+      "Blockchain",
+      "Web3"
+    ],
+    "active": true,
+    "slug": "eng886"
+  },
+  {
+    "id": "8396176",
+    "title": "Solutions Architect, Platforms",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8396176",
+    "date": "2026-11-25T09:07:24-05:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: Stripe [stripe]",
+    "location": "Dublin",
+    "department": "1152 Solutions Architecture (EMEA)",
+    "active": true,
+    "slug": "arc55",
+    "dateVerified": true
+  },
+  {
     "id": "5048174101",
     "title": "IT - Senior DevSecOps Engineer - London",
     "company": "B2C2",
@@ -763,7 +830,7 @@
   },
   {
     "id": "8396806",
-    "title": "Product Manager II",
+    "title": "Product Manager II, Prime Onchain",
     "company": "Coinbase",
     "link": "https://www.coinbase.com/careers/positions/8396806?gh_jid=8396806",
     "date": "2026-11-24T14:00:32-05:00",
@@ -1755,7 +1822,7 @@
     "link": "https://apply.workable.com/j/DA99BEB44C",
     "date": "2026-11-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Poland",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -7667,22 +7734,6 @@
     "slug": "sls522"
   },
   {
-    "id": "B8AEA254E2",
-    "title": "Head of Site Acquisition & Power",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/B8AEA254E2",
-    "date": "2026-11-17T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Remote (United States)",
-    "isRemote": true,
-    "department": [
-      "IT"
-    ],
-    "active": true,
-    "dateVerified": true,
-    "slug": "sap"
-  },
-  {
     "id": "3BE6A808BB",
     "title": "Hyperscaler Partnerships Manager",
     "company": "GoMining",
@@ -7697,6 +7748,22 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr270"
+  },
+  {
+    "id": "B8AEA254E2",
+    "title": "Head of Site Acquisition & Power",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/B8AEA254E2",
+    "date": "2026-11-17T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Remote (United States)",
+    "isRemote": true,
+    "department": [
+      "IT"
+    ],
+    "active": true,
+    "dateVerified": true,
+    "slug": "sap"
   },
   {
     "id": "19D8AD74B2",
@@ -8440,7 +8507,7 @@
     "date": "2026-11-16T10:21:54-05:00",
     "dateSource": "Greenhouse.first_published",
     "source": "Greenhouse: DriveWealth [drivewealth]",
-    "location": "Chicago, IL; New York, NY",
+    "location": "Chicago, IL",
     "department": "Engineering",
     "active": true,
     "salary": "$220k – $240k/yr",
@@ -15497,7 +15564,7 @@
     "link": "https://apply.workable.com/j/8BC3363A24",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -15608,7 +15675,7 @@
     "link": "https://apply.workable.com/j/F777EB0517",
     "date": "2026-11-08",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -18717,7 +18784,7 @@
     "applyUrl": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d/application",
     "active": true,
     "dateVerified": true,
-    "slug": "cmp203"
+    "slug": "cmp206"
   },
   {
     "id": "gs-oracle-175104",
@@ -19729,19 +19796,6 @@
     "slug": "do11"
   },
   {
-    "id": "9D04545263",
-    "title": "Senior Backend Engineer I - Platform",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/9D04545263",
-    "date": "2026-11-04",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "be103"
-  },
-  {
     "id": "57E66C06BE",
     "title": "Senior Backend Engineer II - Platform",
     "company": "Ajaib Crypto",
@@ -19753,6 +19807,19 @@
     "active": true,
     "dateVerified": true,
     "slug": "be102"
+  },
+  {
+    "id": "9D04545263",
+    "title": "Senior Backend Engineer I - Platform",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/9D04545263",
+    "date": "2026-11-04",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Jakarta, Indonesia",
+    "department": "Engineering",
+    "active": true,
+    "dateVerified": true,
+    "slug": "be103"
   },
   {
     "id": "118096C085",
@@ -20858,33 +20925,11 @@
     "link": "https://apply.workable.com/j/82D0418695",
     "date": "2026-11-03",
     "source": "Workable: GoMining [gomining]",
-    "location": "Armenia",
+    "location": "Georgia",
     "department": "Support",
     "active": true,
     "dateVerified": true,
     "slug": "mgr226"
-  },
-  {
-    "id": "3e442852f8af",
-    "title": "Field Application Engineer, AI Cloud",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/3e442852f8af-field-application-engineer-ai-cloud",
-    "date": "2026-11-03",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Remote (San Jose, CA)",
-    "isRemote": true,
-    "department": "",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/3e442852f8af-field-application-engineer-ai-cloud",
-      "checkedAt": "2026-11-05T00:30:52.543Z",
-      "bodySha256": "55cf4a800b9b91263d8b2173a6e56ecd91ea96c1cc82c286cfaafd1715fa4fc9",
-      "provider": "breezy",
-      "datePosted": "2026-11-03"
-    },
-    "slug": "eng401"
   },
   {
     "id": "ae5736e5a901",
@@ -20907,6 +20952,28 @@
       "datePosted": "2026-11-03"
     },
     "slug": "dadc"
+  },
+  {
+    "id": "3e442852f8af",
+    "title": "Field Application Engineer, AI Cloud",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/3e442852f8af-field-application-engineer-ai-cloud",
+    "date": "2026-11-03",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Remote (San Jose, CA)",
+    "isRemote": true,
+    "department": "",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/3e442852f8af-field-application-engineer-ai-cloud",
+      "checkedAt": "2026-11-05T00:30:52.543Z",
+      "bodySha256": "55cf4a800b9b91263d8b2173a6e56ecd91ea96c1cc82c286cfaafd1715fa4fc9",
+      "provider": "breezy",
+      "datePosted": "2026-11-03"
+    },
+    "slug": "eng401"
   },
   {
     "id": "e8a7c1b900b1",
@@ -21940,7 +22007,7 @@
     "link": "https://apply.workable.com/j/23E677EEE1",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -21966,33 +22033,11 @@
     "link": "https://apply.workable.com/j/B4AD47F599",
     "date": "2026-11-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
     "slug": "be100"
-  },
-  {
-    "id": "68ff9c2948ca",
-    "title": "AI Datacenter Electrical / High Voltage Construction Manager",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
-    "date": "2026-11-02",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Columbus, OH",
-    "isRemote": false,
-    "department": "",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
-      "checkedAt": "2026-11-04T00:07:21.159Z",
-      "bodySha256": "0d48bf8f480b847432805ba8db91b42d43b237e1d1a807af8974d08e0de49a94",
-      "provider": "breezy",
-      "datePosted": "2026-11-02"
-    },
-    "slug": "mgr224"
   },
   {
     "id": "966674063fc9",
@@ -22015,6 +22060,28 @@
       "datePosted": "2026-11-02"
     },
     "slug": "mgr225"
+  },
+  {
+    "id": "68ff9c2948ca",
+    "title": "AI Datacenter Electrical / High Voltage Construction Manager",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Columbus, OH",
+    "isRemote": false,
+    "department": "",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/68ff9c2948ca-ai-datacenter-electrical-high-voltage-construction-manager",
+      "checkedAt": "2026-11-04T00:07:21.159Z",
+      "bodySha256": "0d48bf8f480b847432805ba8db91b42d43b237e1d1a807af8974d08e0de49a94",
+      "provider": "breezy",
+      "datePosted": "2026-11-02"
+    },
+    "slug": "mgr224"
   },
   {
     "id": "dab20211c983",
@@ -25335,21 +25402,6 @@
     "slug": "an154"
   },
   {
-    "id": "4a815740-5d5f-4048-ad3b-98e5fe2d1a3f",
-    "title": "Senior Product Designer (Banking)",
-    "company": "Unlimit",
-    "link": "https://jobs.lever.co/unlimit/4a815740-5d5f-4048-ad3b-98e5fe2d1a3f",
-    "date": "2026-10-28T13:04:43.363Z",
-    "source": "Lever: Unlimit [unlimit]",
-    "location": "Belgrade",
-    "workplaceType": "onsite",
-    "department": "Crypto",
-    "active": true,
-    "dateVerified": true,
-    "dateSource": "Lever.api.createdAt",
-    "slug": "pm393"
-  },
-  {
     "id": "6231762004",
     "title": "Senior Product Engineer - Growth",
     "company": "Alpaca",
@@ -25823,28 +25875,6 @@
     "slug": "pcac"
   },
   {
-    "id": "cee1769dc482",
-    "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
-    "date": "2026-10-28",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "San Jose, CA",
-    "isRemote": false,
-    "department": "AI Cloud",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
-      "checkedAt": "2026-10-30T03:42:02.721Z",
-      "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
-      "provider": "breezy",
-      "datePosted": "2026-10-28"
-    },
-    "slug": "sls189"
-  },
-  {
     "id": "62b347cbd2e2",
     "title": "Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle",
     "company": "Bitdeer",
@@ -25865,6 +25895,28 @@
       "datePosted": "2026-10-28"
     },
     "slug": "sls187"
+  },
+  {
+    "id": "cee1769dc482",
+    "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "San Jose, CA",
+    "isRemote": false,
+    "department": "AI Cloud",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/cee1769dc482-regional-account-executive-gpuaas-gpu-as-a-service-sales",
+      "checkedAt": "2026-10-30T03:42:02.721Z",
+      "bodySha256": "2440e8713e9f1ae623424ad9218bd2d59ae21027a14bc6dbcacff93016e791e3",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    },
+    "slug": "sls189"
   },
   {
     "id": "605451fdfa56",
@@ -27412,47 +27464,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "mtp2"
-  },
-  {
-    "id": "2797907",
-    "title": "Senior Node.js Software Engineer - Holepunch (100% Remote, Worldwide)",
-    "company": "Tether",
-    "link": "https://tether.recruitee.com/o/senior-nodejs-software-engineer-holepunch-100-remote-worldwide-17",
-    "date": "2026-10-26T15:18:28Z",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote (Worldwide)",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "eng622"
-  },
-  {
-    "id": "8035271003",
-    "title": "Chief Customer Officer",
-    "company": "Xapo Bank",
-    "link": "https://job-boards.greenhouse.io/xapo61/jobs/8035271003",
-    "date": "2026-10-26T11:09:13-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Xapo Bank [xapo61]",
-    "location": "Gibraltar - Remote",
-    "department": "Executive Management",
-    "active": true,
-    "dateVerified": true,
-    "slug": "co2"
-  },
-  {
-    "id": "8311341",
-    "title": "Product Manager II, Wallets and DeFi",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341",
-    "date": "2026-10-26T11:08:28-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Remote - USA",
-    "department": "Product",
-    "active": true,
-    "salary": "$180.4k – $212.2k/yr",
-    "dateVerified": true,
-    "slug": "pm329"
   }
 ]

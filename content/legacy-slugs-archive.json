@@ -160703,5 +160703,44 @@
     "link": "https://stripe.com/jobs/search?gh_jid=8324207",
     "company": "Stripe",
     "title": "Processing Cost Analyst"
+  },
+  "mkt147": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt192"
+  },
+  "cmp150": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp205"
+  },
+  "pm393": {
+    "id": "4a815740-5d5f-4048-ad3b-98e5fe2d1a3f",
+    "link": "https://jobs.lever.co/unlimit/4a815740-5d5f-4048-ad3b-98e5fe2d1a3f",
+    "company": "Unlimit",
+    "title": "Senior Product Designer (Banking)"
+  },
+  "co2": {
+    "id": "8035271003",
+    "link": "https://job-boards.greenhouse.io/xapo61/jobs/8035271003",
+    "company": "Xapo Bank",
+    "title": "Chief Customer Officer"
+  },
+  "pm329": {
+    "id": "8311341",
+    "link": "https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341",
+    "company": "Coinbase",
+    "title": "Product Manager II, Wallets and DeFi"
+  },
+  "cmp203": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp206"
   }
 }
