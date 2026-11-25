@@ -187510,6 +187510,34 @@
       "attemptId": "0422eb0c-a23c-40da-bdae-4c05968112f3",
       "verification": "verified",
       "postId": "urn:li:share:7531348573993500672"
+    },
+    {
+      "slug": "sls532",
+      "company": "Block",
+      "title": "Channel Sales Support Agent",
+      "platform": "facebook",
+      "postedAt": "2026-11-25T13:26:54.282Z",
+      "expectedText": "Block is hiring Channel Sales Support Agent: https://hashtagweb3.com/sls532/fb?og=7",
+      "snapshot": {
+        "id": "5183293008",
+        "title": "Channel Sales Support Agent",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5183293008?gh_jid=5183293008",
+        "date": "2026-11-17T12:59:17-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Melbourne, Australia",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls532"
+      },
+      "payload": {
+        "message": "Block is hiring Channel Sales Support Agent: https://hashtagweb3.com/sls532/fb?og=7",
+        "link": "https://hashtagweb3.com/sls532/fb?og=7"
+      },
+      "attemptId": "97d2d5fb-f3c2-4db1-b422-37e441f7f04d",
+      "verification": "creating"
     }
   ]
 }
