@@ -189103,6 +189103,46 @@
       "attemptId": "770ba130-30bd-4d0d-8680-482e9e79fd57",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "arc54",
+      "company": "EY",
+      "title": "Blockchain Consultant/ Architect",
+      "platform": "linkedin",
+      "postedAt": "2026-11-25T17:55:10.759Z",
+      "expectedText": "EY is hiring Blockchain Consultant: https://hashtagweb3.com/arc54/li?og=7",
+      "snapshot": {
+        "id": "ey-1447979133",
+        "title": "Blockchain Consultant/ Architect",
+        "company": "EY",
+        "link": "https://careers.ey.com/ey/job/Tel-Aviv-Blockchain-Consultant-Architect-6706703/1447979133/",
+        "applyUrl": "https://careers.ey.com/ey/job/Tel-Aviv-Blockchain-Consultant-Architect-6706703/1447979133/",
+        "date": "2026-11-13T02:00:00.000Z",
+        "dateVerified": true,
+        "dateSource": "EY Careers",
+        "source": "EY Careers [ey]",
+        "active": true,
+        "slug": "arc54",
+        "location": "Not specified"
+      },
+      "payload": {
+        "text": "EY is hiring Blockchain Consultant: https://hashtagweb3.com/arc54/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/arc54/li?og=7",
+          "title": "Blockchain Consultant/ Architect at EY | Hashtag Web3",
+          "description": "Join EY as Blockchain Consultant/ Architect. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/arc54.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "3d6cc68f-9810-462d-8c25-6201c4b05721",
+      "verification": "creating"
     }
   ]
 }
