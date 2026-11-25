@@ -187279,7 +187279,8 @@
       },
       "account": "channel:ai",
       "attemptId": "91a1cfe5-ce80-4c90-8aba-708e2741d810",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x98f1640a44e8a8d1999df4a3fba2111ee011e3a5"
     }
   ]
 }
