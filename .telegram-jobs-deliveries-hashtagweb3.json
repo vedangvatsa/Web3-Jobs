@@ -3479,5 +3479,122 @@
     "slotKey": "2026-11-25:afternoon",
     "messageId": 156498,
     "sentAt": "2026-11-25T11:58:19.115Z"
+  },
+  "bf3b802f-923b-4d88-b0d2-28b55b8e37f1": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T20:36:26.834Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5024572101",
+          "title": "[EU] Business Development Specialist, France",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5024572101",
+          "date": "2026-11-01T15:44:58-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "France - Remote",
+          "department": "Europe",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls205"
+        },
+        "key": "5024572101",
+        "slug": "sls205",
+        "url": "https://hashtagweb3.com/sls205?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "[EU] Business Development Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "0768b6d4-465d-4cc9-a440-ecc2a969c830",
+          "title": "Senior Product Manager - Payments & Settlement",
+          "company": "Velocity",
+          "link": "https://jobs.ashbyhq.com/velocity/0768b6d4-465d-4cc9-a440-ecc2a969c830",
+          "date": "2026-11-25T15:08:54.868+00:00",
+          "source": "Ashby: Velocity [velocity]",
+          "location": "Hybrid (London)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Product",
+          "active": true,
+          "slug": "pm329",
+          "dateVerified": true
+        },
+        "key": "0768b6d4-465d-4cc9-a440-ecc2a969c830",
+        "slug": "pm329",
+        "url": "https://hashtagweb3.com/pm329?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Velocity",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4522593009",
+          "title": "Senior Paralegal, Contracts and Corporate",
+          "company": "Venice AI",
+          "link": "https://job-boards.greenhouse.io/veniceai/jobs/4522593009",
+          "date": "2026-11-24T15:10:35-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Venice AI [veniceai]",
+          "location": "Remote",
+          "department": "General & Administrative",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp202"
+        },
+        "key": "4522593009",
+        "slug": "cmp202",
+        "url": "https://hashtagweb3.com/cmp202?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Venice AI",
+        "title": "Senior Paralegal"
+      },
+      {
+        "snapshot": {
+          "id": "87bdf474-fa64-48d8-8e81-b24290f8de24",
+          "title": "DeFi Protocol Engineer",
+          "company": "Injective Labs",
+          "link": "https://jobs.ashbyhq.com/injective-labs/87bdf474-fa64-48d8-8e81-b24290f8de24",
+          "date": "2026-11-11T20:46:03.110+00:00",
+          "source": "Ashby: Injective Labs [injective-labs]",
+          "location": "New York or Remote (US)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng851"
+        },
+        "key": "87bdf474-fa64-48d8-8e81-b24290f8de24",
+        "slug": "eng851",
+        "url": "https://hashtagweb3.com/eng851?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Injective Labs",
+        "title": "DeFi Protocol Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5440719008",
+          "title": "Compliance QA Program Manager",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5440719008?gh_jid=5440719008",
+          "date": "2026-11-02T13:27:51-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "30301 Risk - Compliance - Shared",
+          "active": true,
+          "salary": "$163.6k – $245.4k/yr",
+          "dateVerified": true,
+          "slug": "qa72"
+        },
+        "key": "5440719008",
+        "slug": "qa72",
+        "url": "https://hashtagweb3.com/qa72?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Compliance QA Program Manager"
+      }
+    ],
+    "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/sls205?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development Specialist</a>\n- Velocity is hiring <a href=\"https://hashtagweb3.com/pm329?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments &amp; Settlement</a>\n- Venice AI is hiring <a href=\"https://hashtagweb3.com/cmp202?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Paralegal</a>\n- Injective Labs is hiring <a href=\"https://hashtagweb3.com/eng851?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DeFi Protocol Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/qa72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance QA Program Manager</a>",
+    "slotKey": "2026-11-25:evening"
   }
 }
