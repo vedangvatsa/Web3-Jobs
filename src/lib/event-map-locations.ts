@@ -133,6 +133,7 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'cape town|ZA': [-33.92, 18.42],
   'johannesburg|ZA': [-26.2, 28.04],
   'seoul|KR': [37.57, 126.98],
+  'auckland|NZ': [-36.85, 174.76],
   'barcelona|ES': [41.39, 2.17],
   'madrid|ES': [40.42, -3.7],
   'lugano|CH': [46, 8.95],
@@ -197,6 +198,11 @@ export const EVENT_MAP_CITY_COORDINATES: Record<string, [number, number]> = {
   'new york|US': [40.71, -74.01],
   'san francisco|US': [37.77, -122.42],
   'washington dc|US': [38.91, -77.04],
+  'baltimore|US': [39.29, -76.61],
+  'falls church|US': [38.88, -77.17],
+  'honolulu|US': [21.31, -157.86],
+  'phoenix|US': [33.45, -112.07],
+  'tempe|US': [33.43, -111.94],
   // City centres from GeoNames (lutangar/cities.json), reviewed 2026-10-01.
   'montreal|CA': [45.50884, -73.58781],
   'port moody|CA': [49.28124, -122.82457],
@@ -351,6 +357,14 @@ export const EVENT_MAP_CITY_ALIASES: Record<string, string> = {
   ambler: 'philadelphia',
   fatih: 'istanbul',
   barangaroo: 'sydney',
+  'kecamatan tanah abang': 'jakarta',
+  'kecamatan palmerah': 'jakarta',
+  'barcelo bavaro beach': 'punta cana',
+  'xinying village': 'taipei',
+  'le kremlin-bicetre': 'paris',
+  'sumida city': 'tokyo',
+  'risch-rotkreuz': 'zug',
+  'rancho santa fe': 'san diego',
 };
 
 export const EVENT_MAP_CITY_DISPLAY_NAMES: Record<string, string> = {

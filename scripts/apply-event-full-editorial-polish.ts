@@ -13,7 +13,7 @@ import { applyEventCatalogReview } from '../src/lib/event-catalog-review';
 import type { Web3Event } from '../src/lib/events';
 import { countWords } from '../src/lib/catalog-line-editorial';
 import { polishStoredEventDescription } from '../src/lib/event-stored-description-polish';
-import { touchEventDescriptionProvenance } from './lib/update-description-sha256';
+import { sha256Description, touchEventDescriptionProvenance } from './lib/update-description-sha256';
 
 const REVIEWED_PATH = path.join(process.cwd(), 'content/events/catalog-reviewed-descriptions.json');
 const STATUS_PATH = path.join(process.cwd(), 'content/events/copyedit-status.json');
@@ -47,8 +47,16 @@ function polishedDescription(event: Web3Event, raw: string): string {
 function polishEventRecord(event: Web3Event): Web3Event {
   if (!event.description?.trim()) return event;
   const nextDesc = polishedDescription(event, event.description);
-  if (nextDesc === event.description) return event;
-  return touchEventDescriptionProvenance(event, nextDesc);
+  if (nextDesc !== event.description) {
+    return touchEventDescriptionProvenance(event, nextDesc);
+  }
+  if (
+    event.descriptionSource &&
+    event.descriptionSource.sha256 !== sha256Description(event.description)
+  ) {
+    return touchEventDescriptionProvenance(event, event.description);
+  }
+  return event;
 }
 
 let changed = 0;
@@ -92,7 +100,11 @@ if (fs.existsSync(REVIEWED_PATH)) {
     if (!patch.description?.trim()) continue;
     if (grammarAudited.has(id)) continue;
     const nextDesc = polishStoredEventDescription(patch.description);
-    if (nextDesc === patch.description) continue;
+    const textChanged = nextDesc !== patch.description;
+    const hashMismatch =
+      patch.descriptionSource &&
+      patch.descriptionSource.sha256 !== createHash('sha256').update(nextDesc).digest('hex');
+    if (!textChanged && !hashMismatch) continue;
     reviewedChanged++;
     const nextPatch = { ...patch, description: nextDesc };
     if (patch.descriptionSource) {
@@ -104,7 +116,7 @@ if (fs.existsSync(REVIEWED_PATH)) {
     reviewed[id] = nextPatch;
     status[id] = {
       reviewedAt,
-      method: conservative ? 'human-editorial-polish-conservative' : 'human-editorial-polish-v2',
+      method: grammarAudited.has(id) ? 'human-editorial-polish-conservative' : 'human-editorial-polish-v2',
       words: countWords(nextDesc),
     };
   }

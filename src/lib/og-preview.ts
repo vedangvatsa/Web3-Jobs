@@ -38,7 +38,7 @@ import slugTypes from '../../content/slug-types.json';
 const SITE_NAME = 'Hashtag Web3';
 const REMEDIATED_COMPANY_SLUGS = new Set(Object.values(REJECTED_ATS_BOARDS).map(board => getCompanySlug(board.misattributedTo)));
 
-function normalizePreviewTitle(title: string): string {
+export function normalizePreviewTitle(title: string): string {
   return seoSocialTitle(stripTrailingBrand(title).replace(/^Hashtag Web3\s+/i, ''));
 }
 const COMPANY_SLUGS = new Set([...slugTypes.companies, ...REMEDIATED_COMPANY_SLUGS]);
@@ -316,7 +316,10 @@ export async function resolveKnownOgPreviewMeta(path: string): Promise<OgPreview
   const learningRoute = resolveLearnRoute(path.slice(1));
   if (learningRoute) {
     const meta = learnPageMetadata(learningRoute);
-    if (typeof meta.title === 'string' && meta.description) return { title: meta.title, description: meta.description, ogImageUrl: STATIC_OG.blog, canonicalUrl };
+    if (typeof meta.title === 'string' && meta.description) {
+      const ogTitle = typeof meta.openGraph?.title === 'string' ? meta.openGraph.title : meta.title;
+      return { title: ogTitle, description: meta.description, ogImageUrl: STATIC_OG.blog, canonicalUrl };
+    }
   }
 
   const glossarySlug = path.match(/^\/glossary\/([^/]+)$/)?.[1];

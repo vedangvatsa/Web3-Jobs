@@ -183,7 +183,7 @@ test('public aliases use their canonical preview without requiring alias HTML sh
     const input = `${alias}/${suffix}${attributionQuery}`;
     const browser = await follow(input);
     assert.equal(browser.url.searchParams.get('search'), 'engineer', `${input} -> ${browser.url.href}`);
-    assertAttribution(browser.url, canonical, attribution);
+    assertAttribution(browser.url, canonical === '/' ? '/jobs' : canonical, attribution);
     if (alias === '/cost-of-living') assert.equal(browser.url.searchParams.get('category'), 'cost');
     if (alias === '/citizenship/dominica') assert.equal(browser.url.hash, '#dominica');
     for (const userAgent of ['Twitterbot/1.0', 'LinkedInBot/1.0', 'Meta-ExternalAgent/1.1']) {

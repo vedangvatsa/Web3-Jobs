@@ -20,7 +20,7 @@ import { generateGlossaryMetaDescription } from '../src/lib/seo-utils';
 import { classifySlug } from '../src/lib/slug-classifier';
 import { canonicalSocialPagePath, isResourcePath, PUBLIC_PAGE_ALIASES, SOCIAL_PATH_SUFFIXES } from '../src/lib/social-share';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
-import { buildOgPreviewHtml, collectOgPreviewPaths, previewAssetPath, resolveKnownOgPreviewMeta, resolveOgPreviewMeta } from '../src/lib/og-preview';
+import { buildOgPreviewHtml, collectOgPreviewPaths, normalizePreviewTitle, previewAssetPath, resolveKnownOgPreviewMeta, resolveOgPreviewMeta } from '../src/lib/og-preview';
 import { assertStaticPagePreviewCoverage, discoverAppPageRoutes } from './lib/og-preview-discovery';
 import { precomputeOgPreviews } from './precompute-og-previews';
 import slugTypes from '../content/slug-types.json';
@@ -180,7 +180,7 @@ test('popup, glossary and learning previews use their own content and canonical 
     const category = await getGlossaryCategory(slug);
     assert.ok(category);
     const meta = await resolveOgPreviewMeta(`/glossary/${slug}`);
-    assert.equal(meta.title, `${category.name} - Web3 Glossary`);
+    assert.equal(meta.title, normalizePreviewTitle(category.name));
     assert.equal(meta.description, category.description);
     assert.equal(meta.canonicalUrl, `${origin}/glossary/${slug}`);
     assert.equal(meta.ogImageUrl, `${origin}/og/pages/glossary.png`);

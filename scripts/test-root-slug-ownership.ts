@@ -8,7 +8,7 @@ import runtimeJobs from '../content/jobs-runtime.json';
 import { classifySlug } from '../src/lib/slug-classifier';
 import { hasLiveJobRootOwner } from '../src/lib/job-root-ownership';
 import { findLiveJobForArchived, resolveJobSlug, type ArchivedSlugRecord } from '../src/lib/job-guides';
-import { resolveOgPreviewMeta } from '../src/lib/og-preview';
+import { normalizePreviewTitle, resolveOgPreviewMeta } from '../src/lib/og-preview';
 import { getTerm } from '../src/lib/glossary';
 import { isExpiredJobPath } from '../src/lib/job-age-path';
 import { isRemovedJobPath } from '../src/lib/removed-job-path';
@@ -59,7 +59,7 @@ test('web3 and token render glossary pages and matching previews without revivin
     assert.equal(preview.canonicalUrl, `${origin}/${slug}`);
     assert.equal(preview.title, metadata.openGraph?.title);
     assert.equal(preview.description, metadata.description);
-    assert.equal(preview.title, `${term.term} - Web3 Glossary`);
+    assert.equal(preview.title, normalizePreviewTitle(term.term));
     const page = await Page(args);
     assert.ok(isValidElement(page));
     const tree = JSON.stringify(pageSchemas(page));

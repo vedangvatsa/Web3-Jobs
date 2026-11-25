@@ -10,7 +10,7 @@ async function main() {
     fs.mkdirSync(OUT_DIR, { recursive: true });
   }
 
-  const files = fs.readdirSync(ARTICLES_DIR).filter(f => f.endsWith('.md') && f !== 'AGENTS.md' && f !== 'README.md');
+  const files = fs.readdirSync(ARTICLES_DIR).filter(f => f.endsWith('.md') && f !== 'AGENTS.md' && f !== 'README.md' && f !== 'SCHEMA.md');
   console.log(`[generate-articles-data] Processing ${files.length} articles...`);
 
   let count = 0;

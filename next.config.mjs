@@ -502,6 +502,18 @@ const nextConfig = {
   },
 };
 
-initOpenNextCloudflareForDev();
+const isTestOrScript =
+  process.env.NODE_ENV === 'test' ||
+  process.argv.some(a => a.includes('test') || a.includes('scripts/')) ||
+  process.env.npm_lifecycle_event?.includes('test') ||
+  process.env.npm_lifecycle_event === 'prebuild';
+
+if (!isTestOrScript && process.env.NODE_ENV !== 'production') {
+  try {
+    initOpenNextCloudflareForDev();
+  } catch {
+    // ignore if wrangler dev is not configured
+  }
+}
 
 export default nextConfig;

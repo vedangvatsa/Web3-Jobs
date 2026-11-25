@@ -368,7 +368,7 @@
       "fetchedAt": "2026-11-10T18:32:48.735Z",
       "method": "official-section",
       "pageTitle": "Bitcoin Circular Economies Summit 2026 | BitcoinBeach",
-      "sha256": "aac3e6a0095e486788b1bf4e86b842340cb48eb83322e984eb69c813674ddecc"
+      "sha256": "462cc2af58dd1467491c7082832586df1ef35d5ed94a62d0389715764bb8c6d3"
     },
     "id": "curated-global-bitcoin-circular-economies-summit-2026-11-19",
     "url": "https://www.bitcoinbeach.com/summit-blog/bitcoin-circular-economies-summit-2026",
@@ -470,7 +470,7 @@
       "fetchedAt": "2026-11-10T18:32:52.929Z",
       "method": "official-section",
       "pageTitle": "EMEA | 2027",
-      "sha256": "c2ee03f3bf2803e2c3275070b0af07d82db48dfd497f491ce7e32907f656dcb7"
+      "sha256": "c86b4ccd776c7521acac63e5a496077af1abef48d592ffb00e63d520ae548620"
     },
     "id": "curated-stablecon-emea-2027-04-14",
     "url": "https://stablecon.com/emea/",
@@ -2753,7 +2753,7 @@
   },
   {
     "name": "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus",
-    "description": "Security engineer Simran Tinani presents the paper Flash Boys 2.0, covering decentralized-exchange frontrunning, sandwich attacks, priority gas auctions and MEV's implications for consensus. The 45-60 minute talk is followed by discussion and Q&A. No blockchain or finance background is required, though familiarity with distributed systems is helpful.",
+    "description": "Security engineer Simran Tinani presents the paper Flash Boys 2.0, covering decentralized-exchange frontrunning, sandwich attacks, priority gas auctions and MEV's implications for consensus. The 45-60-minute talk is followed by discussion and Q&A. No blockchain or finance background is required, though familiarity with distributed systems is helpful.",
     "startDate": "2026-10-29T18:15:00+01:00",
     "endDate": "2026-10-29T20:15:00+01:00",
     "city": "Zürich",
@@ -2774,7 +2774,7 @@
       "fetchedAt": "2026-10-20T09:30:30.655Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Gaming Ethereum: How Trading Bots Cut the Line and Threaten Consensus, Thu, Oct 29, 2026, 6:15 PM   | Meetup",
-      "sha256": "fb8bda72ffb5ea6321b3e06b98397b3d552542c8dc8aecf641a50d84807f2588",
+      "sha256": "6a6d8f8d0fe1213c94395d48780c35f8c701bd9671f8e8170d27ea421a9f9b32",
       "evidence": [
         {
           "url": "https://www.meetup.com/papers-we-love-zurich/events/316754646/",
@@ -3290,7 +3290,7 @@
   },
   {
     "name": "Satoshi Radio Meetup (Bitcoin Amsterdam)",
-    "description": "Satoshi Radio listeners meet at Café de Roemer in Haarlem during Bitcoin Amsterdam.\n\nRegistration is free and capacity is limited. An optional buffet is paid separately; the café accepts Bitcoin payments.",
+    "description": "Satoshi Radio listeners meet at Café de Roemer in Haarlem during Bitcoin Amsterdam. Registration is free and capacity is limited. An optional buffet is paid for separately; the café accepts Bitcoin payments.",
     "startDate": "2026-11-05T18:00:00+01:00",
     "endDate": "2026-11-05T22:00:00+01:00",
     "city": "Haarlem",
@@ -3311,7 +3311,7 @@
       "fetchedAt": "2026-10-20T09:30:37.285Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Satoshi Radio Meetup (Bitcoin Amsterdam), Thu, Nov 5, 2026, 6:00 PM   | Meetup",
-      "sha256": "018714838d3833f78b10418f8be6a4b54029a6481b255723dc937326cf0dd01d",
+      "sha256": "33912507b1df078641b6474a35e1f4d99cd5be24d09bba5393ec88438bb0afd9",
       "evidence": [
         {
           "url": "https://www.meetup.com/satoshi-radio-meetup/events/316748938/",
@@ -4134,7 +4134,7 @@
   },
   {
     "name": "Bitcoin Indonesia Community Meetup Tangerang 07 November 2026",
-    "description": "Bitcoin Indonesia's Tangerang meetup discusses managing business profits for the long term and Bitcoin's proposed role as a store of value. The organizer invites business owners to exchange experiences and questions. Admission is free, with food and drinks paid individually. Attendees must also complete the confirmation form linked on the event page.",
+    "description": "Bitcoin Indonesia's Tangerang meetup discusses managing business profits for the long term and Bitcoin's proposed role as a store of value. The organizer invites business owners to exchange experiences and questions. Admission is free, with food and drinks paid for individually. Attendees must also complete the confirmation form linked on the event page.",
     "startDate": "2026-11-07T10:00:00+07:00",
     "endDate": "2026-11-07T12:00:00+07:00",
     "timezone": "Asia/Jakarta",
@@ -4181,7 +4181,7 @@
       "fetchedAt": "2026-10-20T09:30:57.774Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Bitcoin Indonesia Community Meetup Tangerang 07 November 2026 · Luma",
-      "sha256": "ac11185c00de601711d2c553d23dcb038e8257307e12fed8ab5cd2ae5f28e8ba",
+      "sha256": "f7d01cd59c1aecc5d75b42b33b61c8b315a1e961d0c9b59b6a3f676ab43fdb2a",
       "evidence": [
         {
           "url": "https://luma.com/1s6rr12e",
@@ -4286,7 +4286,7 @@
   },
   {
     "name": "Bitcoin Indonesia Community Meetup Bogor 07 November 2026",
-    "description": "Bitcoin Indonesia's Bogor meetup compares centralized and decentralized exchanges. The discussion covers how CEXs and DEXs work, their trade-offs and the risks users should understand. Participants can bring questions and share experience. Admission is free, with food and drinks paid individually.",
+    "description": "Bitcoin Indonesia's Bogor meetup compares centralized and decentralized exchanges. The discussion covers how CEXs and DEXs work, their trade-offs and the risks users should understand. Participants can bring questions and share experience. Admission is free, with food and drinks paid for individually.",
     "startDate": "2026-11-07T13:00:00+07:00",
     "endDate": "2026-11-07T15:00:00+07:00",
     "timezone": "Asia/Jakarta",
@@ -4333,7 +4333,7 @@
       "fetchedAt": "2026-10-20T09:30:58.574Z",
       "method": "reviewed-primary-sources",
       "pageTitle": "Bitcoin Indonesia Community Meetup Bogor 07 November 2026 · Luma",
-      "sha256": "b5b7f04ee7b0c5eb3932b0f52a110217b1178ad30397a310ff43dd5c8affd1c9",
+      "sha256": "6f0d3e707ebb2753668c03d1eb2ea63b723c40cc361d38f2946d1cc7b792ba5a",
       "evidence": [
         {
           "url": "https://luma.com/q8584lzq",

@@ -48,34 +48,12 @@
       "descriptionSha256": "d5dde384b806b60c7bc2a837d89331f417615a6e4aaca0eacf898e41866999ba"
     },
     {
-      "id": "w3v-xrp-ledger-hackathon",
-      "slug": "ai-fintech-xrpl-hackathon",
-      "aliases": [
-        "xlh"
-      ],
-      "startDate": "2026-10-24T12:30:00.000Z",
-      "endDate": "2026-10-26T00:00:00.000Z",
-      "timezone": "America/New_York",
-      "descriptionSha256": "dcaf49d4f477c8fe3d6b8f3e2f8ff61f8095a9c97c544450dc105c6853ae0dfe"
-    },
-    {
       "id": "premier-hackmeridian",
       "slug": "hackmeridian",
       "aliases": [],
       "startDate": "2026-10-25",
       "endDate": "2026-10-26",
       "descriptionSha256": "4112e41f94c49335f063d5d2273bccb558821064b505c7627717d657e59f5b3b"
-    },
-    {
-      "id": "luma-crypto-pMblGmFDgWwshUx",
-      "slug": "bay-area-ai-car-hackathon",
-      "aliases": [
-        "baach"
-      ],
-      "startDate": "2026-10-25T17:00:00.000Z",
-      "endDate": "2026-10-26T00:00:00.000Z",
-      "timezone": "America/Los_Angeles",
-      "descriptionSha256": "9e5f371029bc9d67186c4175bcff599bf28d2077fe764520f3eee4fa34734909"
     },
     {
       "id": "luma-batch-JrwT6SseTVJgIBs",
@@ -2717,43 +2695,6 @@
         "width": 600,
         "height": 300,
         "bytes": 22014
-      }
-    },
-    {
-      "id": "mu-317049329",
-      "name": "Bitcoin for Beginners",
-      "startDate": "2026-10-25T14:00:00-07:00",
-      "endDate": "2026-10-25T16:00:00-07:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/bay-area-bitcoiners/events/317049329/",
-      "lane": "americas",
-      "reason": "No inventory identity match. Hands-on beginner workshop with explicit prerequisites.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/bay-area-bitcoiners/events/317049329/",
-          "fetchedAt": "2026-10-20T08:05:48.758Z",
-          "excerpt": "Bitcoin for Beginners; 2026-10-25T14:00:00-07:00 to 16:00:00-07:00; L'ACAJOU Bakery and Cafe, 5020 Woodminster Lane, Oakland. We're sending Bitcoin to each other using Bitcoin Testnet. Please install Blockstream before attending.",
-          "sha256": "42a3b3b118239156beb1f438845164ed381de820a42bf04b83dd1e0acb9adb7c",
-          "representation": "html; JSON-LD and event description"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:00.228Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/5/f/6/f/600_530364431.jpeg",
-        "fetchedAt": "2026-10-20T09:49:15.751Z",
-        "status": 200,
-        "local": "/events/mu-317049329-6b5c3759.webp",
-        "sourceSha256": "124a222621d76d05d13829c3567690a84ddb69e3796c8602a50b5fe39f4b46b1",
-        "sha256": "79267835273ecf2b8afe995b62eb95a3a7d007d81dae7e134985088a5c289d87",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 25564
       }
     },
     {

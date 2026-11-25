@@ -280,7 +280,7 @@ async function renderPng(element: unknown, font: Buffer): Promise<Buffer> {
   })();
 
   const timeout = new Promise<never>((_, reject) => {
-    setTimeout(() => reject(new Error('og render timeout')), 15_000);
+    setTimeout(() => reject(new Error('og render timeout')), 60_000);
   });
   return Promise.race([work, timeout]);
 }
@@ -430,7 +430,6 @@ async function renderCompanies(
   ]);
   for (const slug of extraSlugs) {
     if (companies.some(company => company.slug === slug)) continue;
-    if (!resolveCompanyLogo(slug)) continue;
     const company = await getCompanyBySlug(slug);
     if (company) companies.push(company);
   }

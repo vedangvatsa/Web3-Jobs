@@ -19,7 +19,7 @@ const ARTICLE_SLUG_SET = new Set(
   ((slugTypesJson as { articles?: string[] }).articles ?? []).map((s) => s.toLowerCase().trim()),
 );
 /** Editorial/agent docs in content/articles — not published articles. */
-const NON_ARTICLE_MARKDOWN = new Set(['AGENTS.md', 'README.md']);
+const NON_ARTICLE_MARKDOWN = new Set(['AGENTS.md', 'README.md', 'SCHEMA.md']);
 type ArticleMetadata = Omit<Article, 'content' | 'rawContent'>;
 
 // Article files are immutable within a deployed server/build process. Cache the

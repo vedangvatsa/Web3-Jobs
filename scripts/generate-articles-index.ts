@@ -8,7 +8,7 @@ import matter from 'gray-matter';
 
 const articlesDir = path.join(process.cwd(), 'content/articles');
 const outPath = path.join(process.cwd(), 'content/articles-index.json');
-const NON_ARTICLE = new Set(['AGENTS.md', 'README.md']);
+const NON_ARTICLE = new Set(['AGENTS.md', 'README.md', 'SCHEMA.md']);
 
 type ArticleIndexEntry = {
   slug: string;

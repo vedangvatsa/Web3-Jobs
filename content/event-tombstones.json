@@ -10692,5 +10692,21 @@
       "web3devs-tz30",
       "luma-batch-evt8i0lrm1lzjxpe"
     ]
+  },
+  "w3v-xrp-ledger-hackathon": {
+    "until": "2027-11-25T06:09:50.632Z",
+    "slugs": [
+      "ai-fintech-xrpl-hackathon",
+      "xlh",
+      "w3v-xrp-ledger-hackathon"
+    ]
+  },
+  "luma-crypto-pMblGmFDgWwshUx": {
+    "until": "2027-11-25T06:09:50.632Z",
+    "slugs": [
+      "bay-area-ai-car-hackathon",
+      "baach",
+      "luma-crypto-pmblgmfdgwwshux"
+    ]
   }
 }

@@ -47,32 +47,6 @@
       }
     },
     {
-      "id": "w3v-xrp-ledger-hackathon",
-      "oldSlug": "xlh",
-      "slug": "ai-fintech-xrpl-hackathon",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 1637,
-      "characters": 3193,
-      "factChanges": {
-        "name": "AI & Fintech XRPL Hackathon in New York",
-        "endDate": "2026-10-26T00:00:00.000Z",
-        "locationHidden": true,
-        "location": "New York, United States",
-        "hosts": [
-          "XRPL Commons",
-          "Ripple"
-        ]
-      },
-      "source": {
-        "url": "https://luma.com/xrpl-hackathon-nyc",
-        "fetchedAt": "2026-10-12T11:25:13.943Z",
-        "status": 200,
-        "sha256": "785f771860a2412f4fe878fae6d37189f02c68af230ffe0fff1ed3ed8ddb1aad"
-      }
-    },
-    {
       "id": "premier-hackmeridian",
       "oldSlug": "hackmeridian",
       "slug": "hackmeridian",
@@ -95,23 +69,6 @@
         "fetchedAt": "2026-10-12T11:25:14.072Z",
         "status": 200,
         "sha256": "0d2c14b1cd59cf2606c637fcd783ff485fe218ade588d612e95358acab1e68de"
-      }
-    },
-    {
-      "id": "luma-crypto-pMblGmFDgWwshUx",
-      "oldSlug": "baach",
-      "slug": "bay-area-ai-car-hackathon",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 918,
-      "characters": 918,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/jgl2tejn",
-        "fetchedAt": "2026-10-12T11:25:14.478Z",
-        "status": 200,
-        "sha256": "9fe4b6426a75977e90e072e3c51e0fe79aaed166d8240cb02b2c6b9d77c7c7ba"
       }
     },
     {

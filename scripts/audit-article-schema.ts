@@ -14,7 +14,7 @@ import {
 
 const siteUrl = 'https://hashtagweb3.com';
 const articlesDir = path.join(process.cwd(), 'content/articles');
-const NON_ARTICLE = new Set(['AGENTS.md', 'README.md']);
+const NON_ARTICLE = new Set(['AGENTS.md', 'README.md', 'SCHEMA.md']);
 const SCHOLARLY = ['AI & The Future of Work', 'Web3 Career Guides'];
 
 function loadArticles(): ArticleStructuredDataInput[] {

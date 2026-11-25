@@ -4,8 +4,9 @@ ogTitle: "CZECH NATIONAL BANK COMPLETES ITS FIRST TOKENIZED BOND TESTS"
 description: >-
   The Czech central bank tested digital bonds to prove that tokenized assets can
   make trading and settlement faster and more efficient.
-image: /og-news.png
-imageCaption: "Czech National Bank headquarters in Prague."
+image: /images/news/cnbbond.jpg
+imageCaption: "The Czech National Bank headquarters in Prague. Photo: Jarita via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Czech%20National%20Bank%20in%20Prague%20CZ%2001.jpg
 category: News
 data-ai-hint: czech national bank building prague
 publishedDate: '2026-11-16'

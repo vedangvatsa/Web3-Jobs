@@ -40,22 +40,6 @@
       ]
     },
     {
-      "id": "w3v-xrp-ledger-hackathon",
-      "slug": "xlh",
-      "name": "XRP LEDGER HACKATHON",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/xrpl-hackathon-nyc",
-        "fetchedAt": "2026-09-19T23:54:56.302Z"
-      },
-      "sections": [
-        "About the event",
-        "4 Tracks",
-        "Already Building?",
-        "Registration details"
-      ]
-    },
-    {
       "id": "premier-hackmeridian",
       "slug": "hackmeridian",
       "name": "HackMeridian 2026",
@@ -68,19 +52,6 @@
         "Build something worth shipping",
         "Alongside Meridian 2026",
         "Scale"
-      ]
-    },
-    {
-      "id": "luma-crypto-pMblGmFDgWwshUx",
-      "slug": "baach",
-      "name": "Bay Area AI+car hackathon",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/jgl2tejn",
-        "fetchedAt": "2026-09-19T23:49:11.132Z"
-      },
-      "sections": [
-        "About the event"
       ]
     },
     {

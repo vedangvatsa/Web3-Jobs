@@ -2219,22 +2219,6 @@
       "applied": false
     },
     {
-      "id": "w3v-xrp-ledger-hackathon",
-      "url": "https://luma.com/xrpl-hackathon-nyc",
-      "fetchedAt": "2026-10-19T20:14:22.183Z",
-      "sourceEventId": "evt-DR9uvUi98WOW8fm",
-      "sourceName": "AI & Fintech XRPL Hackathon in New York",
-      "sourceStartDate": "2026-10-24T12:30:00.000Z",
-      "sourceEndDate": "2026-10-26T00:00:00.000Z",
-      "sourceTimezone": "America/New_York",
-      "sha256": "fcd73225fb6ae27020536b6f273a017112ec105140cce0b474ab357bc1d1df14",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "AI & Fintech XRPL Hackathon in New York",
-      "applied": false
-    },
-    {
       "id": "luma-batch-JrwT6SseTVJgIBs",
       "url": "https://luma.com/66thrqij",
       "fetchedAt": "2026-10-19T20:14:24.397Z",

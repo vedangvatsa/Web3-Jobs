@@ -1970,31 +1970,17 @@ About the organiser: ShardLab is the innovation arm of Hashed, a leading global 
 
 ### About the event
 
-Home - Binance Blockchain Week 2026 | Bangkok, Nov 28-29
-
-Skip to main content
-
-In partnership with BINANCE TH
-
 One of the biggest dates in the crypto calendar returns for a special Asia edition live from Bangkok, Thailand, this November.
-
-### QUEEN SIRIKIT NATIONAL CONVENTION CENTER | NOVEMBER 28-29
-
-The world's leading fintech minds. One unmissable event.
-
-### LIMITED EARLY-BIRD TICKETS ON SALE NOW AT $59!
-
-(Full ticket price $129)
 
 Finance is making an evolutionary leap and this year's Binance Blockchain Week theme, EVOLVE, is built around it.
 
 TradFi and blockchain are converging, and the markets that once ran on business hours are becoming global, open and always-on.
 
-At the same time, AI is transforming how freely people move, manage and grow their money carrying us toward a world where financial freedom is effortless and self-directed.
-
-Empowerment for millions.
+At the same time, AI is transforming how freely people move, manage and grow their money, carrying us toward a world where financial freedom is effortless and self-directed.
 
 The definition of finance is being rewritten in real time. EVOLVE is our recognition that we're not just watching that happen - we're part of the evolution.
+
+For speaking opportunities, please submit interest via this form.
 
 <a id="event-99a91ef39510a040"></a>
 
@@ -3058,17 +3044,11 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Vienna Blockchain Week runs on June 2 and 3, 2027, for banks, asset managers, regulators, investors, exchanges and technology providers. Six announced themes cover institutional digital assets, stablecoins and payments, tokenization, regulation and MiCA, infrastructure, and AI in finance. The full timetable and speakers are to be confirmed; the site's selected VBW26 lineup is from the previous edition. VBW Connect supports arranging one-to-one meetings. The planned formats also include institutional roundtables, an investor breakfast and a private evening for speakers, partners and selected guests. Check eligibility and access for each format through the organizer
+Vienna Blockchain Week runs on June 2 and 3, 2027, for banks, asset managers, regulators, investors, exchanges and technology providers.
 
-### Event details
+Six announced themes cover institutional digital assets, stablecoins and payments, tokenization, regulation and MiCA, infrastructure, and AI in finance. The full timetable and speakers are to be confirmed; the site's selected VBW26 lineup is from the previous edition.
 
-Date: Jun 2 - 3, 2027, 07:00
-
-Venue: Vienna, Austria
-
-Event page: https://viennablockchainweek.org/
-
-This listing reflects the organizer's published information for Vienna Blockchain Week 2027 on Jun 2 - 3, 2027 in Vienna, AT. Register and confirm ticket inclusions on the official event page.
+VBW Connect supports arranging one-to-one meetings. The planned formats also include institutional roundtables, an investor breakfast and a private evening for speakers, partners and selected guests. Check eligibility and access for each format through the organizer.
 
 <a id="event-c8701368fa2d4239"></a>
 
@@ -3082,17 +3062,11 @@ This listing reflects the organizer's published information for Vienna Blockchai
 
 ### About the event
 
-Africa Prediction Markets Summit now advertises June 3 and 4, 2027, in Cape Town, replacing the previously listed November 2026 date. It brings together prediction-market platforms, builders, investors, policymakers and researchers. The published program covers market design, liquidity, regulation, public trust and use cases in elections, sports, finance and media. A foundations workshop explains prediction-market mechanics and applications. Tickets include talks, panels, workshops, meals and refreshments. The page's agenda and FAQ still describe a one-day format despite the two-day date banner, so confirm the final daily schedule with the organizer
+Africa Prediction Markets Summit now advertises June 3 and 4, 2027, in Cape Town, replacing the previously listed November 2026 date. It brings together prediction-market platforms, builders, investors, policymakers and researchers.
 
-### Event details
+The published program covers market design, liquidity, regulation, public trust and use cases in elections, sports, finance and media. A foundations workshop explains prediction-market mechanics and applications.
 
-Date: Jun 3 - 4, 2027, 00:00
-
-Venue: Cape Town, South Africa
-
-Event page: https://www.africapredictionmarketssummit.com/
-
-This listing reflects the organizer's published information for Africa Prediction Markets Summit 2027 on Jun 3 - 4, 2027 in Cape Town, South Africa. Register and confirm ticket inclusions on the official event page.
+Tickets include talks, panels, workshops, meals and refreshments. The page's agenda and FAQ still describe a one-day format despite the two-day date banner, so confirm the final daily schedule with the organizer.
 
 <a id="event-f15fa38a50dfad4a"></a>
 
@@ -10039,28 +10013,6 @@ The dinner takes place at a private dining room in central Mumbai on Thursday ev
 ### Registration and admission
 
 Registration is strictly approval-based with a hard ceiling on attendance. Inquiries and RSVPs are verified privately to maintain confidentiality. Approved guests receive private venue details.
-
-<a id="event-a5c2da17e599be35"></a>
-
-## Bay Area AI+car hackathon
-
-- Record: `luma-crypto-pMblGmFDgWwshUx`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-25T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/jgl2tejn>
-
-### About the event
-
-Car AI Navigation Hackathon
-
-Challenge: We have a mini city road with lanes, an intersection and traffic signs. Your job is to use AI and a small autonomous car like the Donkeycar or equivalent (typically a 1/16th-scale or smaller RC car with a Raspberry Pi or equivalent and a camera controlling it) to navigate the "city", obeying signs and making it from one side to the other in the fastest time.
-
-You must bring your own car, which should be ready to run, with compute and a camera already onboard and working. The objective of the hackathon is to add AI "city" navigation to it.
-
-You can use onboard AI, AI on your laptop via Wifi or AI in the cloud to help with the navigation. Think creatively about what kind of AI to use and what the fastest way to do it is!
-
-This is not an event for spectators, nor will cars be provided to those who arrive without one. This is a hackathon, not a regular race. Come ready to hack!
 
 <a id="event-cf8073cb4c140b56"></a>
 
@@ -17988,27 +17940,13 @@ Deep Dive Workshop Room: hands-on sessions you leave and implement
 
 PlanX Pitch Competition Giveaway: founders pitch live on the Main Stage for a full stack of business support
 
-Speakers include
+Speakers include Simon Squibb - Fadi Ghandour - Noor Sweid - Sarthak Ahuja - Jigar Sagar, plus over 70+ more
 
-Simon Squibb - Fadi Ghandour - Noor Sweid - Sarthak Ahuja - Jigar Sagar, plus over 70+ more
+Who's in the room Founders, from pre-revenue to 8-figure, plus startups, investors, operators and the ecosystem partners who back them. PlanX is built on the Road to PlanX series, which has welcomed hundreds of attendees. If your serious about scaling, this event is for you
 
-Who's in the room
+Partner with PlanX Sponsorships: sales@planxconf.com Partnerships: info@planxconf.com
 
-Founders, from pre-revenue to 8-figure, plus startups, investors, operators and the ecosystem partners who back them. PlanX is built on the Road to PlanX series, which has welcomed hundreds of attendees. If your serious about scaling, this event is for you
-
-Partner with PlanX
-
-Sponsorships: sales@planxconf.com
-
-Partnerships: info@planxconf.com
-
-Quick Links:
-
-https://planxconf.com/
-
-https://planxconf.com/the-speakers/
-
-https://planxconf.com/agenda/
+Quick Links: https://planxconf.com/ https://planxconf.com/the-speakers/ https://planxconf.com/agenda/
 
 <a id="event-0c2b24d7d4516624"></a>
 
@@ -20148,13 +20086,13 @@ As global financial centers integrate digital asset infrastructure, regional CFO
 
 ### Summit Agenda & Key Themes
 
-- 08:30 AM - Registration, Welcome Coffee & Executive Networking
-- 09:30 AM - Opening Keynote: The CFO Agenda Beyond Traditional Finance
-- 10:15 AM - Panel: Artificial Intelligence & Automation in Modern Treasury Operations
-- 11:30 AM - Executive Discussion: Cross-Border Liquidity & Digital Asset Integration in the UAE
-- 01:00 PM - Networking Luncheon & Strategic Partner Showcase
-- 02:15 PM - Breakout Sessions: ESG Reporting, Capital Structuring, and Regional Tax Strategies
-- 04:00 PM - Closing Roundtable & Leadership Reception
+- 08:30 AM. Registration, Welcome Coffee & Executive Networking
+- 09:30 AM. Opening Keynote: The CFO Agenda Beyond Traditional Finance
+- 10:15 AM. Panel: Artificial Intelligence & Automation in Modern Treasury Operations
+- 11:30 AM. Executive Discussion: Cross-Border Liquidity & Digital Asset Integration in the UAE
+- 01:00 PM. Networking Luncheon & Strategic Partner Showcase
+- 02:15 PM. Breakout Sessions: ESG Reporting, Capital Structuring, and Regional Tax Strategies
+- 04:00 PM. Closing Roundtable & Leadership Reception
 
 ### Who Should Attend
 
@@ -21264,10 +21202,10 @@ Hosted by EcoX founders Franco Fiore and Jorge Sebastiao, this evening mixer com
 
 ### Evening Schedule & Highlights
 
-- 06:00 PM - Doors Open, Registration & Welcome Drinks
-- 07:00 PM - Welcome Address & Blockchain Week Overview by EcoX Network Founders
-- 07:30 PM - Open Networking, Partner Collaborations & Deal Discussions
-- 09:30 PM - Evening Mixer & Skyline Lounge Reception until Late
+- 06:00 PM. Doors Open, Registration & Welcome Drinks
+- 07:00 PM. Welcome Address & Blockchain Week Overview by EcoX Network Founders
+- 07:30 PM. Open Networking, Partner Collaborations & Deal Discussions
+- 09:30 PM. Evening Mixer & Skyline Lounge Reception until Late
 
 ### Key Event Details
 
@@ -21317,25 +21255,15 @@ Become a part of BingX Dubai Week 5.0 - activities that bring connections, inspi
 
 We are happy to be a part of Blockchain Life & AI Future Week 2026 in Dubai
 
-When?
-
-November 30th
+When? November 30th
 
 Location for the event is revealed upon approval.
 
-For urgent inquiries only:
-
-Telegram: @eugenebingx
+For urgent inquiries only: Telegram: @eugenebingx
 
 ### Location
 
 Please register to see the exact location of this event.
-
-Hosted By
-
-Eugene BingX
-
-Crypto
 
 <a id="event-6a940ddbe1e71e5b"></a>
 
@@ -21713,10 +21641,10 @@ Padel has rapidly emerged as the preferred sport for the global crypto community
 
 ### Tournament Schedule & Activities
 
-- 02:30 PM - Check-in, Warm-Up & Bracket Announcement
-- 03:00 PM - Round-Robin Group Matches
-- 05:00 PM - Semifinals & Championship Match
-- 06:00 PM - Trophy Presentation, Refreshments & Builder Social
+- 02:30 PM. Check-in, Warm-Up & Bracket Announcement
+- 03:00 PM. Round-Robin Group Matches
+- 05:00 PM. Semifinals & Championship Match
+- 06:00 PM. Trophy Presentation, Refreshments & Builder Social
 
 ### Participation & Venue Information
 
@@ -21829,7 +21757,9 @@ Start where you are, find your people, find your idea, and find your way.
 
 Liquidity Whales Hookah Night by CoinW x ArbitrageScanner.io (https://ArbitrageScanner.io) - a private gathering in Dubai with crypto whales, founders, and investors.
 
-Date & Time: November 30, 2026 | 7:00 PM - 1:00 AM
+Date & Time: November 30, 2026 | 7:00 PM.
+
+1:00 AM
 
 DUBAI (The exact address will be shared after granting access)
 
@@ -21847,7 +21777,7 @@ Your chance to get on their radar before the conference begins.
 
 We're hosting this event one day before Blockchain Life to help you ease into the conference rhythm and networking vibe in a relaxed atmosphere.
 
-Our goal is to unite the entire crypto community in one place - to unwind before the forum and create the right mood for informal communication and valuable connections.
+Our goal is to unite the entire crypto community in one place. to unwind before the forum and create the right mood for informal communication and valuable connections.
 
 What awaits you at the event:
 
@@ -21867,7 +21797,7 @@ ArbitrageScanner clients and leading crypto arbitrage traders
 - Owners of Tier-1 crypto funds and private investors
 - Crypto projects funded by top-tier investors
 
-How to join - choose your ticket on Lu.ma (http://lu.ma/):
+How to join. choose your ticket on Lu.ma (http://lu.ma/):
 
 1.
 
@@ -21899,7 +21829,7 @@ No entry without ticket.
 
 We reserve the right to refuse entry.
 
-Dress Code: Futuristic Elegance - dress like it's in the future.
+Dress Code: Futuristic Elegance. dress like it's in the future.
 
 Futuristic, blue, and neon vibes.
 
@@ -21927,7 +21857,9 @@ Ready-made AI employees are available for sales, lead generation, customer suppo
 
 Pick a template, connect your tools, and launch in a few minutes, or build your own agent without code.
 
- - For businesses, ASCN.AI offers turnkey automation, where the team builds a solution tailored to you and your needs.
+ - For businesses, ASCN.
+
+AI offers turnkey automation, where the team builds a solution tailored to you and your needs.
 
 You can also launch your own AI agent service under your brand for $2,999.
 
@@ -22129,9 +22061,7 @@ Event details When: Monday, November 30, 2026 from 6:00 to 9:00 PM MST Where: Ph
 
 ### About the event
 
-Tickets are available on the official website only:
-
-https://blockchain-life.com/#tickets
+Tickets are available on the official website only: https://blockchain-life.com/#tickets
 
 Registration on Luma is not an entry ticket.
 
@@ -22203,9 +22133,7 @@ All of this will come together at Blockchain Life 2026 in Dubai on December 1-2.
 
 ### About the event
 
-Tickets are available on the official website only:
-
-https://ai-future.com/#tickets
+Tickets are available on the official website only: https://ai-future.com/#tickets
 
 Registration on Luma is not an entry ticket.
 
@@ -22359,11 +22287,15 @@ Crypto
 
 ### About the event
 
-MEET. MINGLE. CONNECT. Join fellow Blockchain Life attendees for a relaxed, 30-minute community networking meetup hosted by BORN.LIVE. Introduce yourself, share what you're building and meet people to connect with throughout the week. Come on your own or bring a colleague - the BORN.LIVE team will be there to say hello and help make introductions. Tuesday 1 December 2026 11:30am-12pm GST (Dubai time, GMT+4) Inside Blockchain Life at Festival Arena, Dubai Exact meeting point to be confirmed. Everyone with a valid conference ticket is welcome. No BORN account, product signup or wristband is required to attend. A valid Blockchain Life conference ticket is required for venue access.
+MEET. MINGLE. CONNECT. Join fellow Blockchain Life attendees for a relaxed, 30-minute community networking meetup hosted by BORN.
 
-Registration for this meetup does not include conference entry.
+LIVE. Introduce yourself, share what you're building and meet people to connect with throughout the week. Come on your own or bring a colleague. the BORN.
 
-Hosted by BORN.LIVE Sponsors & Media CRODL - A crypto trading platform connecting exchanges, automating trades and tracking performance. crodl.com The Crypto Post - Crypto news, insights and stories from across the digital asset industry. thecryptopost.io This meetup is independently hosted and is not affiliated with, organised by or endorsed by Blockchain Life or its organisers.
+LIVE team will be there to say hello and help make introductions. Tuesday 1 December 2026 11:30am-12pm GST (Dubai time, GMT+4) Inside Blockchain Life at Festival Arena, Dubai Exact meeting point to be confirmed. Everyone with a valid conference ticket is welcome. No BORN account, product signup or wristband is required to attend. A valid Blockchain Life conference ticket is required for venue access. Registration for this meetup does not include conference entry.
+
+Hosted by BORN.
+
+LIVE Sponsors & Media CRODL. A crypto trading platform connecting exchanges, automating trades and tracking performance. crodl.com The Crypto Post. Crypto news, insights and stories from across the digital asset industry. thecryptopost.io This meetup is independently hosted and is not affiliated with, organised by or endorsed by Blockchain Life or its organisers.
 
 <a id="event-ebd402574ba604b2"></a>
 
@@ -22445,13 +22377,9 @@ You are cordially invited to experience Satoshi Dinner Club in Dubai powered by 
 
 An intimate gathering designed around the people, conversations and experiences that make a city's most interesting nights memorable.
 
-A carefully curated room of founders, investors, VCs, builders and key figures from the crypto ecosystem - brought together in an atmosphere where business meets culture, and conversations happen naturally.
+A carefully curated room of founders, investors, VCs, builders and key figures from the crypto ecosystem. brought together in an atmosphere where business meets culture, and conversations happen naturally.
 
-21 seats.
-
-Personally curated.
-
-One unforgettable Bangkok experience.
+21 seats. Personally curated. One unforgettable Bangkok experience.
 
 No stage. No panels. No agenda.
 
@@ -22479,9 +22407,7 @@ DWF Labs Haus: UAE Edition
 
 Five years in the UAE. One night with the people who made it happen. On the eve of Eid Al Etihad, we're bringing our community together to mark five years of DWF Labs in the UAE.
 
-Date: December 1, 2026
-
-Time: 7-10pm
+Date: December 1, 2026 Time: 7-10pm
 
 "Community" gets sprinkled around a lot. For us, it's a word we don't take lightly. Over five years, the founders, investors, protocols, institutions, and ecosystem partners across this region have all played their part in making us, us. The UAE has been pivotal to our journey, one marked by milestones and moments: over 65 HotDesk Wednesdays, 11 sponsored summits and conferences, and more. It's a place that has become a global hub for digital assets, and one where we've grown alongside those who share our belief that digital infrastructure should be liquid, fair, and built to last.
 
@@ -22489,9 +22415,7 @@ Markets only work when the people behind them show up, so this night is about ge
 
 Whether you've been with us since day one or you're new to the region and our community, join us.
 
-See you then.
-
-DWF Labs
+See you then. DWF Labs
 
 Note: Registration does not guarantee your admission. A separate confirmation will be sent to your email upon successful application.
 
@@ -22499,17 +22423,9 @@ Note: Registration does not guarantee your admission. A separate confirmation wi
 
 ### About the Hosts
 
-DWF Labs
+DWF Labs DWF Labs is a market-tested investor, ecosystem facilitator, and market maker built to strengthen digital asset infrastructure at scale for the markets of tomorrow. The firm brings together four functions in one place - liquidity, investment and incubation, ecosystem development, and OTC and structured markets - to help institutions, builders, and individuals power the future with liquidity, capital, ideas, and infrastructure. https://www.dwf-labs.com/
 
-DWF Labs is a market-tested investor, ecosystem facilitator, and market maker built to strengthen digital asset infrastructure at scale for the markets of tomorrow. The firm brings together four functions in one place - liquidity, investment and incubation, ecosystem development, and OTC and structured markets - to help institutions, builders, and individuals power the future with liquidity, capital, ideas, and infrastructure.
-
-https://www.dwf-labs.com/
-
-Falcon Finance
-
-Falcon Finance is the first universal collateralization infrastructure powering onchain liquidity and yield.
-
-https://falcon.finance/
+Falcon Finance Falcon Finance is the first universal collateralization infrastructure powering onchain liquidity and yield. https://falcon.finance/
 
 <a id="event-6eb9fa6b604e7477"></a>
 
@@ -22527,35 +22443,19 @@ Dîner TRES privé du mois de novembre 16 seats maximum.
 
 Le Singular Club vous convie à son prochain diner exclusif réservé aux entrepreneurs & investisseurs.
 
-Une soirée pour échanger sur vos perspectives d'investissements dans un cadre privilégié.
+Une soirée pour échanger sur vos perspectives d'investissements dans un cadre privilégié. The Singular Club réunit 16 personnes qui ont du capital, de l'expérience et l'envie de déployer ensemble. Le reste, ça se passe à table.
 
-The Singular Club réunit 16 personnes qui ont du capital, de l'expérience et l'envie de déployer ensemble. Le reste, ça se passe à table.
+19h00 Accueil & networking & cocktails Sunset View 19h55 Ouverture par Fanny 20h00-23h Diner et mises en relation stratégiques Diner par le Chef français Jonathan Bouthiaux
 
-19h00 Accueil & networking & cocktails Sunset View
-
-19h55 Ouverture par Fanny
-
-20h00-23h Diner et mises en relation stratégiques
-
-Diner par le Chef français Jonathan Bouthiaux
-
-Tarif:
-
-150€ / 100€ accès au club & au networking (non membre/ membre & partenaire)
-
-190€ Repas All inclusive & privatisation: cocktails, vins, softs & diner (entrée plat dessert) au Banyan Tree Palace
+Tarif: 150€ / 100€ accès au club & au networking (non membre/ membre & partenaire) 190€ Repas All inclusive & privatisation: cocktails, vins, softs & diner (entrée plat dessert) au Banyan Tree Palace
 
 Le réglèment doit être fait avant l'évènement.
 
-Événement privé - sur invitation uniquement
+Événement privé. sur invitation uniquement Places limitées à 16 personnes Dress code: Smart Elegant / Business Chic
 
-Places limitées à 16 personnes
+Singular Club. Your network is your net worth.
 
-Dress code : Smart Elegant / Business Chic
-
-Singular Club - Your network is your net worth.
-
-En participant à l'évènement vous acceptez les CGV : https://thesingularclub.com/cgv
+En participant à l'évènement vous acceptez les CGV: https://thesingularclub.com/cgv
 
 <a id="event-20f34d7e68d83bfd"></a>
 
@@ -22863,9 +22763,7 @@ See you there.
 
 ### About the event
 
-Tickets are available on the official website only:
-
-https://ai-future.com/#tickets
+Tickets are available on the official website only: https://ai-future.com/#tickets
 
 Registration on Luma is not an entry ticket.
 
@@ -23244,10 +23142,10 @@ Featuring live performances by world-class electronic music headliners, open-air
 
 ### Evening Schedule & Highlights
 
-- 09:00 PM - VIP Red Carpet Entry & Welcome Cocktails
-- 10:00 PM - Opening DJ Set & Skyline Lounge Networking
-- 11:30 PM - Headline Artist Performance & Live Visual Show
-- 01:30 AM - Late-Night Electronic Music Showcase until 04:00 AM
+- 09:00 PM. VIP Red Carpet Entry & Welcome Cocktails
+- 10:00 PM. Opening DJ Set & Skyline Lounge Networking
+- 11:30 PM. Headline Artist Performance & Live Visual Show
+- 01:30 AM. Late-Night Electronic Music Showcase until 04:00 AM
 
 ### Entry & Ticketing Policy
 
@@ -23573,9 +23471,9 @@ Led by certified instructors with top-tier watercraft, the convoy navigates open
 
 ### Adventure Itinerary
 
-- 09:00 AM - Arrival, Safety Briefing & Life Jacket Fitting
-- 09:30 AM - Guided Coastal Jet Ski Tour around Dubai Marina & Palm Jumeirah
-- 10:30 AM - Docking, Refreshments & Water-side Networking Lounge
+- 09:00 AM. Arrival, Safety Briefing & Life Jacket Fitting
+- 09:30 AM. Guided Coastal Jet Ski Tour around Dubai Marina & Palm Jumeirah
+- 10:30 AM. Docking, Refreshments & Water-side Networking Lounge
 
 ### Participation Requirements
 
@@ -23710,9 +23608,7 @@ Girişim Hub Girişim Hub, İstanbul Üniversitesi öğrencilerini girişimcilik
 
 ### About the event
 
-Gate Drift
-
-An afternoon of speed, competition and connection - built for Gate.
+Gate Drift An afternoon of speed, competition and connection - built for Gate.
 
 Join Gate for an immersive drift-karting experience combining the thrill of racing with elevated trackside hospitality - and the chance to compete for an extraordinary grand prize: F1 Paddock Ticket for the Abu Dhabi Grand Prix
 
@@ -23728,31 +23624,33 @@ Between races, the Paddock becomes the social heart of the event. Enjoy signatur
 
 ### Event Details
 
-Date: 3 December, 2026
-
-Time: 2:00-6:00 PM
+Date: 3 December, 2026 - Time: 2:00-6:00 PM
 
 Format: Private drift-karting competition and trackside networking
 
 Admission: By invitation only; advance RSVP required
 
-- Dress code: Flip flops, Crocs, Heels, Sandals, and Open-toed shoes are not permitted
+Dress code: Flip flops, Crocs, Heels, Sandals, and Open-toed shoes are not permitted
 
 ### Agenda
 
 - 2:00 PM Guest Arrival, Signature Welcome Drinks & Group Divisions
 - 2:15 PM Opening Remarks
 - 2:25 PM Qualifying Heats Begin
-  *Drivers will compete in groups of up to 12. The final number of heats will depend on confirmed attendance.
+
+*Drivers will compete in groups of up to 12. The final number of heats will depend on confirmed attendance.
+
 - 5:10 PM Finalists Announced
 - 5:15 PM Grand Finale Race
-  *Heat winners will be joined by selected fastest-lap drivers and, if applicable, a wildcard entry.
+
+*Heat winners will be joined by selected fastest-lap drivers and, if applicable, a wildcard entry.
+
 - 5:35 PM Awards Ceremony, Closing Remarks & Photos
 - 6:00 PM Event Concludes
 
 Ready to Race
 
-### RSVP NOW - CLAIM YOUR PLACE ASAP
+### RSVP NOW. CLAIM YOUR PLACE ASAP
 
 This is a private, invitation-only event. Registration is subject to confirmation by the event host.
 
@@ -23811,11 +23709,11 @@ Following an adrenaline-charged desert drive, participants gather at a private B
 
 ### Expedition Schedule
 
-- 03:00 PM - Private Transfer Pickup from Central Dubai
-- 04:00 PM - Arrival at Desert Staging Area & Safety Instructions
-- 04:30 PM - Guided Dune Buggy Convoy Drive across Red Sand Dunes
-- 06:00 PM - Sunset Gathering, Arabic Coffee & Desert Camp Networking
-- 07:30 PM - Return Transfer to Dubai
+- 03:00 PM. Private Transfer Pickup from Central Dubai
+- 04:00 PM. Arrival at Desert Staging Area & Safety Instructions
+- 04:30 PM. Guided Dune Buggy Convoy Drive across Red Sand Dunes
+- 06:00 PM. Sunset Gathering, Arabic Coffee & Desert Camp Networking
+- 07:30 PM. Return Transfer to Dubai
 
 ### Details & Access
 
@@ -23842,10 +23740,10 @@ Under the guidance of professional desert motocross coaches, riders are grouped 
 
 ### Program Schedule
 
-- 03:00 PM - Staging Area Check-in & Gear Fitting
-- 03:30 PM - Track Orientation & Riding Technique Briefing
-- 04:00 PM - Guided Desert Motocross Sessions (Beginner & Advanced Groups)
-- 05:30 PM - Sunset Cool-Down, Drinks & Community Chat
+- 03:00 PM. Staging Area Check-in & Gear Fitting
+- 03:30 PM. Track Orientation & Riding Technique Briefing
+- 04:00 PM. Guided Desert Motocross Sessions (Beginner & Advanced Groups)
+- 05:30 PM. Sunset Cool-Down, Drinks & Community Chat
 
 ### Requirements & Venue
 
@@ -23869,15 +23767,7 @@ Join the waiting list for a private superyacht at Yas Marina during the Abu Dhab
 
 We are opening a limited number of whole-yacht charters for race week. They are designed for corporates, family offices and founders who want to host clients, partners and investors in the days before Abu Dhabi Finance Week.
 
-Packages
-
-Superyacht Weekend: Fri 4 - Sun 6 Dec. Qualifying and race day on the water.
-
-Full Race Week: Thu 3 - Sun 6 Dec. Corporate hosting days plus the race weekend.
-
-Corporate Activation Days: Thu 3 - Fri 4 Dec. Private networking, client hospitality and deal-making on board.
-
-Brand Partnerships: sponsorship packages with exposure to up to 400 UHNI and F1 guests across race week.
+Packages Superyacht Weekend: Fri 4. Sun 6 Dec. Qualifying and race day on the water. Full Race Week: Thu 3. Sun 6 Dec. Corporate hosting days plus the race weekend. Corporate Activation Days: Thu 3. Fri 4 Dec. Private networking, client hospitality and deal-making on board. Brand Partnerships: sponsorship packages with exposure to up to 400 UHNI and F1 guests across race week.
 
 What's possible
 
@@ -23886,15 +23776,11 @@ What's possible
 - Curated guest lists, catering, crew and concierge
 - Hosting tailored to client entertainment, investor dinners or team rewards
 
-Pricing
-
-Price is shared on registration of interest. Packages depend on yacht size, dates and guest count. Availability for race week is very limited, and yachts are allocated in order of confirmed interest.
+Pricing Price is shared on registration of interest. Packages depend on yacht size, dates and guest count. Availability for race week is very limited, and yachts are allocated in order of confirmed interest.
 
 How it works
 
-1. Register your interest below.
-2. Our team contacts you within 48 hours with options and pricing.
-3. Your yacht and dates are secured once a deposit is received.
+1. Register your interest below. 2. Our team contacts you within 48 hours with options and pricing. 3. Your yacht and dates are secured once a deposit is received.
 
 This is a private hospitality offering and is not affiliated with Formula 1 or the event organisers. Race tickets are not included unless stated.
 
@@ -24321,25 +24207,15 @@ Become a part of BingX Dubai Week 5.0 - activities that bring connections, inspi
 
 We are happy to be a part of Blockchain Life & AI Future Week 2026 in Dubai
 
-When?
-
-December 4th - December 6th
+When? December 4th - December 6th
 
 Location for the event is revealed upon approval.
 
-For urgent inquiries only:
-
-Telegram: @eugenebingx
+For urgent inquiries only: Telegram: @eugenebingx
 
 ### Location
 
 Please register to see the exact location of this event.
-
-Hosted By
-
-Eugene BingX
-
-Crypto
 
 <a id="event-c104cd98b3c23ba4"></a>
 
@@ -24492,17 +24368,7 @@ DJ entertainment and after-race celebrations
 - Chauffeur transfers or VIP parking
 - Personal concierge and tailored hospitality arrangements
 
-### Friday, 4 December 2026 - Practice Day
-
-14:00-22:00
-
-### Saturday, 5 December 2026 - Qualifying
-
-14:00-02:00, ending Sunday morning
-
-### Sunday, 6 December 2026 - Race Day
-
-14:00-02:00, ending Monday morning
+### Sunday, 6 December 2026. Race Day 14:00-02:00, ending Monday morning
 
 All times are local to Abu Dhabi (GMT+4). These are yacht hospitality hours; individual race-session times follow the official race schedule.
 
@@ -24698,9 +24564,7 @@ Capital Gathering Prediction Markets, April 2026 (https://beincrypto.com/capital
 
 XMAS CAPITAL GATHERING, December 2025 (https://chainconnect.blocktides.com/post/capital-gathering-returns-to-dubai-xmas-networking-night-at-armani-priv%C3%A9-burj-khalifa)
 
-CAPITAL GATHERING @ F1, December 2025 (https://thecurrencyanalytics.com/altcoins/abu-dhabis-formula-1-weekend-becomes-hub-for-tech-and-finance-networking-227340)
-
-______________________________________
+CAPITAL GATHERING @ F1, December 2025 (https://thecurrencyanalytics.com/altcoins/abu-dhabis-formula-1-weekend-becomes-hub-for-tech-and-finance-networking-227340) ______________________________________
 
 A very limited number of sponsorship opportunities are available. Contact Kristina TG @kristina_code or Daria to get involved.
 
@@ -24730,9 +24594,7 @@ A foundational session on Bitcoin's evolution into institutional-grade digital c
 
 2. Digital Equity: From Bitcoin Treasury to Acceleration Strategy
 
-How companies like Strategy, Metaplanet, and Strike use Bitcoin to drive equity performance.
-
-Key frameworks include mNAV, Time to Cover, BTC Yield, and other core treasury metrics.
+How companies like Strategy, Metaplanet, and Strike use Bitcoin to drive equity performance. Key frameworks include mNAV, Time to Cover, BTC Yield, and other core treasury metrics.
 
 Lunch Break
 
@@ -24758,15 +24620,11 @@ ROC dividends
 
 Deep dive into Bitcoin-linked preferred structures including STRK, MERCURY, STRF, STRD, STRE, STRC, SATA, MARS.
 
-Evaluation frameworks:
-
-BTC Rating, BTC Risk, BTC Credit, BTC Breakeven ARR, BTC Years of Dividends, USD Reserve Runway.
+Evaluation frameworks: BTC Rating, BTC Risk, BTC Credit, BTC Breakeven ARR, BTC Years of Dividends, USD Reserve Runway.
 
 ### Who This Is For
 
-Owners and C-level executives from:
-
-Banks, investment funds, corporations, family offices, sovereign wealth funds, brokers, central banks, regulators, and private companies
+Owners and C-level executives from: Banks, investment funds, corporations, family offices, sovereign wealth funds, brokers, central banks, regulators, and private companies
 
 <a id="event-a6b0d5ee8f2772de"></a>
 
@@ -24780,11 +24638,9 @@ Banks, investment funds, corporations, family offices, sovereign wealth funds, b
 
 ### About the event
 
-🇦🇪 Family Offices Investors Summit Michelin‑DinnerAbu Dhabi Finance Week (https://www.adfw.com), Formula One (https://www.abudhabi-tickets.com/abu-dhabi-grand-prix/?ci=1&cm=22661557112_179539122166_c_g_formula%20one%20abu%20dhabi_e__CjwKCAiAlrXJBhBAEiwA-5pgwrUSCR0t3LyNmdI928aDsvArLK67c0jnjcV2FenvwlzMQrJ2Qs99ChoCYYgQAvD_BwE&gad_source=1&gad_campaignid=22661557112&gbraid=0AAAAACRC4b2fe-Y6l7Pc9jbbdaa74Roro&gclid=CjwKCAiAlrXJBhBAEiwA-5pgwrUSCR0t3LyNmdI928aDsvArLK67c0jnjcV2FenvwlzMQrJ2Qs99ChoCYYgQAvD_BwE)
+🇦🇪 Family Offices Investors Summit Michelin‐DinnerAbu Dhabi Finance Week (https://www.adfw.com), Formula One (https://www.abudhabi-tickets.com/abu-dhabi-grand-prix/?ci=1&cm=22661557112_179539122166_c_g_formula%20one%20abu%20dhabi_e__CjwKCAiAlrXJBhBAEiwA-5pgwrUSCR0t3LyNmdI928aDsvArLK67c0jnjcV2FenvwlzMQrJ2Qs99ChoCYYgQAvD_BwE&gad_source=1&gad_campaignid=22661557112&gbraid=0AAAAACRC4b2fe-Y6l7Pc9jbbdaa74Roro&gclid=CjwKCAiAlrXJBhBAEiwA-5pgwrUSCR0t3LyNmdI928aDsvArLK67c0jnjcV2FenvwlzMQrJ2Qs99ChoCYYgQAvD_BwE)
 
-December 6-7 2026
-
-- 3-6:00 PM 6-9:00 Michelin-star dinner at Butcher & Still. Tickets: Complimentary admission for family offices with $100M+ AUM, seating is limited.
+December 6-7 2026 - 3-6:00 PM 6-9:00 Michelin-star dinner at Butcher & Still. Tickets: Complimentary admission for family offices with $100M+ AUM, seating is limited.
 
 Event deck: View the deck (https://docsend.com/view/apq6z4ddi3qd2wxe?utm_source=luma)
 
@@ -24800,18 +24656,22 @@ FOIS brings together family offices, institutional investors, and venture funds 
 
 Summit agenda
 
-Pre-IPO & Next-Generation Investment Strategies - Family office insights, the DNA of successful investing, and connecting LP capital with emerging strategies in green and family funds.
+Five panels
+
+Pre-IPO & Next-Generation Investment Strategies. Family office insights, the DNA of successful investing, and connecting LP capital with emerging strategies in green and family funds.
+
+Global capital flows: GCC, US & Asia. Private credit & secondaries
+
+Energy security & the transition. Sovereign capital & family-office co-investment
 
 AI & digital infrastructure
 
-- Five panels
-- Global capital flows: GCC, US & Asia. Private credit & secondaries
-- Energy security & the transition. Sovereign capital & family-office co-investment
-- Two speaking and co-host positions are available.
+Two speaking and co-host positions are available.
 
 MICHELIN-STARRED INVESTOR DINNER: Butcher & Still
 
-- Contemporary cuisine
+Contemporary cuisine
+
 - $$$ Dinner is complimentary for family offices with $100M+ AUM; seating is limited.
 
 Join us for an intimate 12-seat investor dinner, a one-MICHELIN-starred steakhouse. a MICHELIN Guide Restaurant https://guide.michelin.com/en/ae-az/abu-dhabi-emirate/abu-dhabi/restaurants
@@ -24844,10 +24704,10 @@ Hosted by EcoX founders Franco Fiore and Jorge Sebastiao, Block Mondays brings t
 
 ### Evening Schedule
 
-- 06:00 PM - Check-in, Panoramic Skyline Views & Welcome Drinks
-- 07:15 PM - Opening Remarks: Bridging Traditional Capital & Onchain Markets during ADFW
-- 07:45 PM - Curated Introductions & Unconference Networking
-- 10:30 PM - Late-Night Discussions & Closing Social
+- 06:00 PM. Check-in, Panoramic Skyline Views & Welcome Drinks
+- 07:15 PM. Opening Remarks: Bridging Traditional Capital & Onchain Markets during ADFW
+- 07:45 PM. Curated Introductions & Unconference Networking
+- 10:30 PM. Late-Night Discussions & Closing Social
 
 ### Venue & Access Information
 
@@ -24989,9 +24849,7 @@ Dinner will be provided.
 
 ### About the event
 
-We could write a glowing description, but after three editions, chances are you've either attended our event or heard about it.
-
-The crown jewel of ADFW's Institutional Digital Assets program returns for its fourth edition.
+We could write a glowing description, but after three editions, chances are you've either attended our event or heard about it. The crown jewel of ADFW's Institutional Digital Assets program returns for its fourth edition.
 
 We're starting to bring the guest list together, so more details will follow shortly. Registration is now open!
 
@@ -25001,15 +24859,13 @@ Now in its fourth edition, the #FurtherNetworkSummit will take place on the ADCB
 
 We automatically decline submissions that leave the referral field blank or only include a name without any context
 
-Our past editions:
-
-Further Network Summit 2025 - https://luma.com/event/evt-0PyQbmemKROHsbf
+Our past editions: Further Network Summit 2025 - https://luma.com/event/evt-0PyQbmemKROHsbf
 
 Further Network Summit 2024 - https://luma.com/event/evt-IkNggk3EeZ4eawg
 
 Further Network Summit - https://luma.com/event/evt-UiVR7ZkC84jNuLP
 
-Hosts Further Ventures - Further Ventures builds and invests in companies powering financial markets of the future.
+Hosts Further Ventures. Further Ventures builds and invests in companies powering financial markets of the future.
 
 About the organiser: Further Ventures builds and invests in companies powering financial markets of the future.
 
@@ -25102,9 +24958,7 @@ An evening for family offices, businesses, institutions, digital asset exchanges
 
 No stage, no panels. Just the right introductions, networking with good food and beverages.
 
-### Monday 7 December 2026
-
-- 5:30-8:30pm Four Seasons Hotel, ADGM Square, Al Maryah Island.
+Monday 7 December 2026 - 5:30-8:30pm Four Seasons Hotel, ADGM Square, Al Maryah Island.
 
 By invitation. Approved guests receive the venue details.
 
@@ -25136,10 +24990,10 @@ Host Cyrille C. Catel shares end-to-end architectures of client projects powered
 
 ### Workshop Agenda
 
-- 06:30 PM - Arrival, Setup & Coffee Networking
-- 07:00 PM - Live Architecture Breakdown: Complex Multi-Agent Workflows
-- 08:00 PM - Hands-on Debugging & Pipeline Optimization
-- 08:45 PM - Collaborative Teardown & Founder Q&A
+- 06:30 PM. Arrival, Setup & Coffee Networking
+- 07:00 PM. Live Architecture Breakdown: Complex Multi-Agent Workflows
+- 08:00 PM. Hands-on Debugging & Pipeline Optimization
+- 08:45 PM. Collaborative Teardown & Founder Q&A
 
 ### Venue & Requirements
 
@@ -25239,10 +25093,10 @@ With seats strictly curated to maintain a high-signal investor-to-founder ratio,
 
 ### Dinner Schedule
 
-- 07:00 PM - Arrival, Signature Cocktails & Private Reception
-- 07:45 PM - Seated Multi-Course Dinner & Strategic Table Discussions
-- 09:15 PM - Dessert, Digestifs & Open Dealflow Networking
-- 10:30 PM - Dinner Conclusion
+- 07:00 PM. Arrival, Signature Cocktails & Private Reception
+- 07:45 PM. Seated Multi-Course Dinner & Strategic Table Discussions
+- 09:15 PM. Dessert, Digestifs & Open Dealflow Networking
+- 10:30 PM. Dinner Conclusion
 
 ### Attendance & Venue Information
 
@@ -25278,13 +25132,7 @@ An intimate setting. The right people. Conversations that matter.
 
 ### Event Details
 
-Date: December 7th, 2026
-
-Location: Al Maryah Island, Abu Dhabi, UAE
-
-Time: 7:00 PM - 10:00 PM
-
-Guests: 60 selected participants
+Date: December 7th, 2026 Location: Al Maryah Island, Abu Dhabi, UAE Time: 7:00 PM - 10:00 PM Guests: 60 selected participants
 
 An invitation-only gathering. Participation is subject to approval.
 
@@ -25687,13 +25535,7 @@ Hosted by XBTO, in partnership with Bitcoin Suisse Middle East, the evening offe
 
 Set at Loca in the elegant Four Seasons Abu Dhabi, expect a Mexican themed evening of relaxed conversation, unparalleled networking, and the kind of dialogue that tends to happen once the formal agenda is over.
 
-### Event Details
-
-Date: December 8, 2026
-
-Time: 6:30 PM - 11:00 PM
-
-Venue: Loca, Four Seasons Abu Dhabi, Galleria Mall
+Event Details: Date: December 8, 2026 Time: 6:30 PM. 11:00 PM Venue: Loca, Four Seasons Abu Dhabi, Galleria Mall
 
 ### About XBTO
 
@@ -25725,47 +25567,17 @@ An evening on the water with founders, investors and tech leaders in Dubai for G
 
 On opening night of the GITEX expo, we're sailing a private 100 ft yacht past Bluewaters, Ain Dubai and the Dubai Marina skyline. It's a relaxed, curated evening built for real conversations, the kind that turn into meetings on the show floor the next morning.
 
-### What to expect
+What to expect 3-hour cruise on a private 100 ft yacht A curated mix of founders, investors, corporate innovation leads and ecosystem builders Premium open bar and bites included DJ on the open upper deck Skyline views from Dubai Harbour to the Marina
 
-3-hour cruise on a private 100 ft yacht
+Who's been on board Since 2023 we've hosted 500+ guests across nine networking cruises during GITEX, Gulfood and Blockchain Week, and both previous GITEX cruises sold out. Past guests have included people from PeakBridge VC, Astanor Ventures, Omnivore, Nuwa Capital, Wyld VC, Endeavor UAE, ADQ, Amazon, IFFCO, UPSIDE Foods and AirCarbon Exchange.
 
-A curated mix of founders, investors, corporate innovation leads and ecosystem builders
+Your host Robert Kupstas is the co-founder of Pure Harvest Smart Farms, the UAE-based controlled-environment agriculture company that has raised over $380M. With 15 years as an entrepreneur in the Gulf, he hosts these cruises to connect the people building the region's tech, food and climate ecosystems.
 
-Premium open bar and bites included
+Schedule 6:45 pm: Boarding at Dubai Harbour Yacht Club 7:00 pm: We set sail. The yacht leaves on time. 10:00 pm: Back at the dock
 
-DJ on the open upper deck
+Tickets Early bird: AED 400 (first 20 tickets, until 15 Nov) Standard: AED 500 (until 30 Nov) Last week: AED 650 (1-8 Dec) Limited to 70 guests.
 
-Skyline views from Dubai Harbour to the Marina
-
-Who's been on board
-
-Since 2023 we've hosted 500+ guests across nine networking cruises during GITEX, Gulfood and Blockchain Week, and both previous GITEX cruises sold out. Past guests have included people from PeakBridge VC, Astanor Ventures, Omnivore, Nuwa Capital, Wyld VC, Endeavor UAE, ADQ, Amazon, IFFCO, UPSIDE Foods and AirCarbon Exchange.
-
-Your host
-
-Robert Kupstas is the co-founder of Pure Harvest Smart Farms, the UAE-based controlled-environment agriculture company that has raised over $380M. With 15 years as an entrepreneur in the Gulf, he hosts these cruises to connect the people building the region's tech, food and climate ecosystems.
-
-### Schedule
-
-6:45 pm: Boarding at Dubai Harbour Yacht Club
-
-7:00 pm: We set sail. The yacht leaves on time.
-
-10:00 pm: Back at the dock
-
-### Tickets
-
-Early bird: AED 400 (first 20 tickets, until 15 Nov)
-
-Standard: AED 500 (until 30 Nov)
-
-Last week: AED 650 (1-8 Dec)
-
-Limited to 70 guests.
-
-Good to know
-
-Registrations are reviewed to keep the mix right. Tickets are non-refundable but can be transferred to a colleague; just message us the name. Interested in partnering or sponsoring? Message the host.
+Good to know Registrations are reviewed to keep the mix right. Tickets are non-refundable but can be transferred to a colleague; just message us the name. Interested in partnering or sponsoring? Message the host.
 
 <a id="event-a581ae021b8347c6"></a>
 
@@ -25886,11 +25698,7 @@ Heads of digital assets, treasury and product at banks and asset managers. Found
 
 When and where
 
-### Tuesday, 8 December 2026
-
-7:30 PM to 10:30 PM GST
-
-Al Maryah Island, Abu Dhabi
+### Tuesday, 8 December 2026 7:30 PM to 10:30 PM GST Al Maryah Island, Abu Dhabi
 
 Seats are confirmed personally. Registering here is a request, not a confirmation. The exact venue will be shared with confirmed guests.
 
@@ -25990,9 +25798,7 @@ Este evento faz parte da Semana da Inovação e é uma iniciativa do Programa de
 
 ### About the event
 
-The Dawn
-
-Where the conversations that matter begin.
+The Dawn Where the conversations that matter begin.
 
 As Abu Dhabi Finance Week gets underway, a curated room of senior decision-makers gathers over breakfast to shape the conversation on emerging markets and onchain capital. Hosted by ZIG Finance (https://zig.finance/?utm_source=luma), Co-hosted with Laser Digital and Zamanat, The Dawn is an intimate, invitation-only event built for real conversation, not panels.
 
@@ -26013,21 +25819,15 @@ Banks, wealth platforms and distributors
 - 10:00 AM, Open networking
 - 11:30 AM, Close
 
-### About ZIG Finance
-
-ZIG Finance is the onchain finance ecosystem built to bring institutional finance opportunities onchain, open to everyone, everywhere. The ecosystem spans ZIG Chain, an institutional-grade Layer 1, ZIG Markets, its commercial distribution layer, and $ZIG, its native digital asset. Capital markets onchain. Open to everyone.
+About ZIG Finance ZIG Finance is the onchain finance ecosystem built to bring institutional finance opportunities onchain, open to everyone, everywhere. The ecosystem spans ZIG Chain, an institutional-grade Layer 1, ZIG Markets, its commercial distribution layer, and $ZIG, its native digital asset. Capital markets onchain. Open to everyone.
 
 For more information, visit https://zig.finance
 
-### About Laser Digital
-
-Laser Digital is a full-service digital asset firm specializing in Trading, Asset Management, Solutions, and Early-Stage Investing. Nomura established Laser Digital to provide new value in digital assets to its clients, bridging traditional and crypto markets. We are positioned uniquely in the market, combining institutional-grade framework and risk management. Laser Digital is regulated by VARA and ADGM's FSRA, as well as registered with Japan's JFSA.
+About Laser Digital Laser Digital is a full-service digital asset firm specializing in Trading, Asset Management, Solutions, and Early-Stage Investing. Nomura established Laser Digital to provide new value in digital assets to its clients, bridging traditional and crypto markets. We are positioned uniquely in the market, combining institutional-grade framework and risk management. Laser Digital is regulated by VARA and ADGM's FSRA, as well as registered with Japan's JFSA.
 
 For more information, visit https://www.laserdigital.com
 
-### About Zamanat
-
-Zamanat is building the global market for Digital Shariah Assets. Based in ADGM.
+About Zamanat is building the global market for Digital Shariah Assets. Based in ADGM.
 
 For more information, visit https://zamanathq.com
 
@@ -26473,10 +26273,10 @@ The session features an intimate conversation with a pioneering AI founder, prov
 
 ### Breakfast Schedule
 
-- 08:30 AM - Executive Arrival, Fresh Artisan Coffee & Continental Breakfast
-- 09:00 AM - Fireside Chat: Scaling Enterprise AI in the Middle East
-- 09:40 AM - Moderated Roundtable Discussion: Workforce Transformation & AI Skills
-- 10:30 AM - Open Networking & Collaborative Strategy Exchange
+- 08:30 AM. Executive Arrival, Fresh Artisan Coffee & Continental Breakfast
+- 09:00 AM. Fireside Chat: Scaling Enterprise AI in the Middle East
+- 09:40 AM. Moderated Roundtable Discussion: Workforce Transformation & AI Skills
+- 10:30 AM. Open Networking & Collaborative Strategy Exchange
 
 ### Venue & Registration
 
@@ -26632,10 +26432,10 @@ Set within an intimate private dining suite at The Abu Dhabi EDITION in Al Batee
 
 ### Evening Program
 
-- 06:00 PM - Welcome Reception & Champagne Toast
-- 07:00 PM - Seated Gourmet Dinner by Michelin-starred Culinary Team
-- 08:30 PM - Private Roundtable: Digital Asset Market Dynamics & Institutional Inflows
-- 10:00 PM - Digestifs & Informal Executive Networking
+- 06:00 PM. Welcome Reception & Champagne Toast
+- 07:00 PM. Seated Gourmet Dinner by Michelin-starred Culinary Team
+- 08:30 PM. Private Roundtable: Digital Asset Market Dynamics & Institutional Inflows
+- 10:00 PM. Digestifs & Informal Executive Networking
 
 ### Guest Policy & Venue Details
 
@@ -26655,9 +26455,7 @@ Venue: Private Dining Room, The Abu Dhabi EDITION, Marina, Al Bateen, Abu Dhabi,
 
 ### About the event
 
-The Majlis
-
-When the day closes, the conversations that matter continue.
+The Majlis When the day closes, the conversations that matter continue.
 
 As Abu Dhabi Finance Week draws to a close, ZIG Finance (https://zig.finance/?utm_source=luma), in partnership with Apex Group and Zamanat, hosts an exclusive networking dinner for a curated room of senior leaders across capital, policy and digital assets. The Majlis is designed for genuine connection: an evening of relationship-building among the people shaping the future of onchain finance.
 
@@ -26678,21 +26476,15 @@ Banks, exchanges, custodians and payment firms
 - 7:00 PM, Dinner and open conversation
 - 10:00 PM, Close
 
-### About ZIG Finance
-
-ZIG Finance is the onchain finance ecosystem built to bring institutional finance opportunities onchain, open to everyone, everywhere. The ecosystem spans ZIG Chain, an institutional-grade Layer 1, ZIG Markets, its commercial distribution layer, and $ZIG, its native digital asset. Capital markets onchain. Open to everyone.
+About ZIG Finance ZIG Finance is the onchain finance ecosystem built to bring institutional finance opportunities onchain, open to everyone, everywhere. The ecosystem spans ZIG Chain, an institutional-grade Layer 1, ZIG Markets, its commercial distribution layer, and $ZIG, its native digital asset. Capital markets onchain. Open to everyone.
 
 For more information, visit https://zig.finance
 
-### About Apex Group
-
-Apex Group helps fund managers and institutions take charge of their future through its single-source solution. Apex scales with its clients across the value chain, from fund structuring to operations and distribution. Established in Bermuda in 2003, Apex has continually disrupted the industry through its investment in innovation and talent. Today, it services $3.5tn+ in assets and employs 13,000+ specialists across 50+ countries.
+About Apex Group Apex Group helps fund managers and institutions take charge of their future through its single-source solution. Apex scales with its clients across the value chain, from fund structuring to operations and distribution. Established in Bermuda in 2003, Apex has continually disrupted the industry through its investment in innovation and talent. Today, it services $3.5tn+ in assets and employs 13,000+ specialists across 50+ countries.
 
 For more information, visit https://www.apexgroup.com
 
-### About Zamanat
-
-Zamanat is building the global market for Digital Shariah Assets. Based in ADGM.
+About Zamanat is building the global market for Digital Shariah Assets. Based in ADGM.
 
 For more information, visit https://www.zamanathq.com
 
@@ -27099,15 +26891,7 @@ LONGITUDE is built around intentional introductions, strategic dialogue and prem
 
 ### Location
 
-Abu Dhabi
-
 Abu Dhabi - United Arab Emirates
-
-Hosted By
-
-Cointelegraph
-
-Crypto
 
 <a id="event-ea63687b38251128"></a>
 
@@ -27829,33 +27613,9 @@ AiROVA (https://www.facebook.com/airova.business) is an AI transformation compan
 
 ### About the event
 
-Vex House is coming to Abu Dhabi for one night.
+Vex House is coming to Abu Dhabi for one night. This is the Vex House launch party. Vex House is a 30-day execution sprint in Abu Dhabi for 8 builders under 30 in finance and AI. Accommodation covered. No tuition. No equity. Every builder ships one real launch by Day 30, live on stream every night at 22:00 GST. Cohort 001 launches 15 January 2027, and applications are open now.
 
-This is the Vex House launch party. Vex House is a 30-day execution sprint in Abu Dhabi for 8 builders under 30 in finance and AI. Accommodation covered. No tuition. No equity. Every builder ships one real launch by Day 30, live on stream every night at 22:00 GST.
-
-Cohort 001 launches 15 January 2027, and applications are open now.
-
-On the night
-
-Founders, operators and investors from across Abu Dhabi and the wider UAE
-
-A 10-minute talk on what Vex House is and who we are looking for
-
-Mocktails, conversation and a standing mixer
-
-Meet the team and ask anything about applying
-
-Who should come
-
-Builders in AI: applied AI, agents and tooling, AI-native financial infrastructure, models in production, not prototypes.
-
-Fintech builders, VC/PE aspirants, quants and traders, M&A operators, capital allocators, and anyone who knows someone who should be in the house.
-
-Entry is free and by approval only.
-
-Venue in Abu Dhabi shared with approved guests.
-
-Apply to Cohort 001: https://vex.house/apply
+On the night Founders, operators and investors from across Abu Dhabi and the wider UAE A 10-minute talk on what Vex House is and who we are looking for Mocktails, conversation and a standing mixer Meet the team and ask anything about applying Who should come Builders in AI: applied AI, agents and tooling, AI-native financial infrastructure, models in production, not prototypes. Fintech builders, VC/PE aspirants, quants and traders, M&A operators, capital allocators, and anyone who knows someone who should be in the house. Entry is free and by approval only. Venue in Abu Dhabi shared with approved guests. Apply to Cohort 001: https://vex. house/apply
 
 <a id="event-14004e7a870ac7a6"></a>
 
@@ -28875,9 +28635,7 @@ VENUE Crown Sydney 1 Barangaroo Ave, Barangaroo NSW 2000 (https://www.google.com
 
 ### About the event
 
-ZIG Summit 2027 (https://summit.zig.finance)
-
-Nothing compounds alone.
+ZIG Summit 2027 (https://summit.zig.finance) Nothing compounds alone.
 
 Capital. Products. Infrastructure. Distribution. Together.
 
@@ -28887,28 +28645,39 @@ Why attend?
 
 Capital, product, regulated infrastructure and distribution. ZIG Summit brings all four sides of the market to the same table, alongside the community driving onchain finance forward.
 
-- Meet the capital: allocators, asset managers, family offices and institutions looking at investable onchain products.
-- Find distribution: banks, platforms and distributors across the UAE and beyond.
-- See what is launching: tokenized funds, private credit and structured yield brought to market.
-- Get practical on regulation: the rules that decide where products can be issued, distributed and accessed, including the UAE and emerging markets.
-- Keep the conversation going: a curated room built for business, with networking from stablecoins to custody one conversation away.
+Meet the capital: allocators, asset managers, family offices and institutions looking at investable onchain products.
+
+Find distribution: banks, platforms and distributors across the UAE and beyond.
+
+See what is launching: tokenized funds, private credit and structured yield brought to market.
+
+Get practical on regulation: the rules that decide where products can be issued, distributed and accessed, including the UAE and emerging markets.
+
+Keep the conversation going: a curated room built for business, with networking from stablecoins to custody one conversation away.
 
 What we will cover
 
-- Tokenized financial products: private credit, tokenized funds, structured yield and real-world assets
-- Stablecoins and financial rails: payments, settlement, liquidity, custody and institution-ready access
-- Institutional capital and distribution
-- Regulation and market access
-- Community and adoption
+Tokenized financial products: private credit, tokenized funds, structured yield and real-world assets
+
+Stablecoins and financial rails: payments, settlement, liquidity, custody and institution-ready access
+
+Institutional capital and distribution
+
+Regulation and market access
+
+Community and adoption
 
 ### Who should attend
 
 The people shaping onchain finance, all in one room. From the people funding the future of onchain finance to those building its products, infrastructure and distribution, ZIG Summit brings together the businesses driving the industry forward.
 
-- Capital allocators: asset managers, institutional investors, family offices and wealth platforms
-- Financial institutions: banks, exchanges, custodians and payment firms building regulated rails
-- Product originators and issuers: teams issuing tokenized funds, private credit, structured yield and real-world assets
-- Builders and community: founders, developers and the wider onchain finance community
+Capital allocators: asset managers, institutional investors, family offices and wealth platforms
+
+Financial institutions: banks, exchanges, custodians and payment firms building regulated rails
+
+Product originators and issuers: teams issuing tokenized funds, private credit, structured yield and real-world assets
+
+Builders and community: founders, developers and the wider onchain finance community
 
 Last edition
 
@@ -31009,64 +30778,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-e081fa7d214bd7c2"></a>
-
-## AI & Fintech XRPL Hackathon in New York
-
-- Record: `w3v-xrp-ledger-hackathon`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T12:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/xrpl-hackathon-nyc>
-
-### About the event
-
-Developers, product managers, designers, and business minds: team up and ship a working product in one weekend, from AI agents to new financial apps, with mentors and judges from across the AI, tech, blockchain, and finance world.
-
-Hosted by XRPL Commons (https://www.xrpl-commons.org), with partners Ripple (https://www.ripple.com), XRPL Foundation (https://www.xrpl.foundation/), Mastercard (https://www.mastercard.com), Ledger (https://www.ledger.com/), AWS (https://aws.amazon.com/) and Quicknode (https://www.quicknode.com/). Whether it's your first hackathon, your fiftieth, or you want to sprint to launch a new feature, there's a place for you.
-
-Join NYC's builder community for a weekend of shipping, then walk into Swell (https://swell.ripple.com/), Ripple's flagship conference, where institutions, investors, and decision-makers are already gathered, with a story to tell.
-
-### Who it's for
-
-Developers: no need to learn a new coding language. Build with the ones you already know, like JavaScript or Python.
-
-Product, business, and finance profiles: you don't need to code. Great teams need people who shape the idea, design the user experience, build the business case, and pitch the demo.
-
-AI-native builders welcome: use your favorite AI coding tools and agent frameworks to move faster.
-
-- Come solo and find a team on site, or bring your own.
-
-4 Tracks All projects must be built on the XRP Ledger (https://xrpl.org), a fast, low-cost blockchain designed for payments and digital finance. New to it? Mentors will help you get started.
-
-Agentic Finance: build the tools that let AI agents make payments and manage money on the XRP Ledger, autonomously, safely, and at machine speed.
-
-Lending & Borrowing: build lending apps and savings vaults on brand-new financial infrastructure (XRP Ledger Lending Protocol and Single Asset Vaults), before it goes live.
-
-Protocol Innovation: for C++ and systems engineers who want to work on core infrastructure, clients, and developer tooling. Paired with a 3-day Core Dev Bootcamp (Oct 20-22) (http://luma.com/xrpl-core-dev-bootcamp2) as your on-ramp.
-
-Why Not: the open lane. Bring the XRP Ledger project you can't stop thinking about.
-
-Already building? Bring an existing project, AI app, or startup and use the 36 hours to ship a new feature on XRP Ledger. Only what you build during the hackathon counts toward judging.
-
-What you get: $40,000+ in prizes, including stackable sponsored-track prizes, plus hands-on mentorship, fast-track access to grants and incubation, and a direct line to hiring teams.
-
-Mentors & Judges Ripple (https://ripple.com) - XRPL Foundation (https://xrplf.org) - Mastercard (https://www.mastercard.com) - Ledger (https://www.ledger.com) - Quicknode (https://www.quicknode.com) - AWS (https://aws.amazon.com/) - t54.ai (https://www.t54.ai/) - Evernorth (https://www.evernorth.xyz/) - Soil (https://soil.co/) and more
-
-Registration details By registering for this event, you consent to being photographed and filmed, and to the use of these photos/videos for promotional purposes. All participants are required to agree with and adhere to the code of conduct (https://swell.ripple.com/code-of-conduct).
-
-<a id="event-1caf8f4c4a2cd5a9"></a>
-
-## XRP Ledger Hackathon NYC
-
-- Record: `w3v-xrp-ledger-hackathon-nyc`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-24T12:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/xrpl-hackathon-nyc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-e87d5aba74ed21e4"></a>
 
 ## HackMeridian 2026
@@ -31076,54 +30787,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-25T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.hackmeridian.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-40b232dd1cfb4088"></a>
-
-## Phoenix Profit from Predictions
-
-- Record: `mu-317114384`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T16:15:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/the-beautiful-lettering-social-club-gathering/events/317114384/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c17c48a528f03f5d"></a>
-
-## Good Stocks.  Current Crypto strategy. Beginners welcome -
-
-- Record: `mu-314252749`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T21:00:00-04:00
-- Description: Missing
-- Original page: <https://www.meetup.com/boston_crypto-traders_and_investors/events/314252749/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e8e5fad5bd76b31a"></a>
-
-## Diagrammatics Meetup #3
-
-- Record: `luma-evt-rxaQFiotq1c9xcf`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T00:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/3xy9xhrg>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-35ad6d2c38bd095f"></a>
-
-## SWITCH Day 0 Lab Crawl - LaunchPad @ One-North (AM)
-
-- Record: `luma-evt-YeViCHxsLulqzca`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T02:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lu.ma/l8i9gykw>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -47076,34 +46739,19 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Following extensive discussions with our local partners we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.
+Following extensive discussions with our local partners, we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.
 
-We understand that many of you have made arrangements, and we take this situation very seriously. Our preparations were fully in motion and the momentum was strong. However, delivering the uncompromised, full-strength experience that the global Bitcoin community expects from Bitcoin MENA is more important to us than sticking to a specific schedule. This postponement allows us the necessary space to achieve that goal.
+### Organizer update
 
-The UAE continues to be a market we are deeply committed to for Bitcoin's growth, and our conviction remains steadfast. We extend our sincere gratitude to our partners and everyone who has collaborated with us so far, and we look forward to returning even stronger in Winter 2027.
+The organizer is committed to returning to the UAE in Winter 2027. Exact new dates have not been announced. The previous December 2026 dates should not be used for travel planning.
 
-### What this means if you have a ticket
+### Existing tickets
 
-- Hold it for 2027. Your ticket automatically carries over to the new dates. You do not need to do anything.
-- Request a refund. If neither option works for you, get in touch through our contact form and our team will help you from there.
+Your ticket automatically carries over to the new dates. You do not need to do anything. Ticket holders may also request a refund through the organizer's contact form.
 
-### What this means if you are a sponsor
+### Sponsors
 
-Nothing gets lost. Your commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers. If you have questions in the meantime, reach out anytime through our contact form.
-
-### Already booked travel?
-
-We know some of you have already booked flights or accommodation. We would recommend reaching out to your airline or hotel directly to look at your options for changing or cancelling. If we can help point you in the right direction, get in touch and we will do what we can.
-
-### Looking ahead
-
-Bitcoin MENA will be back in 2027. Until then, the next place the community gathers is Bitcoin Amsterdam, November 5th to 6th, 2026, Bitcoin 2027 in Nashville, Tennessee July 15-17, 2027, and Bitcoin Hong Kong, August 26 to 27, 2027 in Hong Kong. We would love to see you there.
-
-Thank you for your patience, your support, and for being part of this community. It means everything to us.
-
-### Contact
-
-Questions about tickets, sponsorships, or transfers? Our team is here to help. Reach us through our contact form.
+Your commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers.
 
 <a id="event-3179a55bc68f7c20"></a>
 
@@ -47243,13 +46891,7 @@ An intimate setting. The right people. Conversations that matter.
 
 ### Event Details
 
-Date: December 7th, 2026
-
-Location: Al Maryah Island, Abu Dhabi, UAE
-
-Time: 7:00 PM - 10:00 PM
-
-Guests: 60 selected participants
+Date: December 7th, 2026 Location: Al Maryah Island, Abu Dhabi, UAE Time: 7:00 PM - 10:00 PM Guests: 60 selected participants
 
 An invitation-only gathering. Participation is subject to approval.
 
@@ -47653,9 +47295,11 @@ TOKENIZE & CONNECT By Digital Asset Summit ME- Is an Institutional Grade Tokeniz
 
 Zoniqx provides neutral operating infrastructure for tokenized real-world assets. Issuers and financial institutions use it to structure, issue, govern and manage assets across asset classes throughout their lifecycle. Through participating distribution networks, family offices and institutional investors can access a range of offerings, including private credit, investment funds, bonds, real estate and sukuk. The rules governing who can hold or transfer each asset travel with it across supported blockchains, custodians and platforms.
 
-Hosts Digital Asset Summit ME - Digital Asset Summit ME hosts private,invitation-only events & evenings in Abu Dhabi and Dubai for the investors and infrastructure builders
+Hosts Digital Asset Summit ME. Digital Asset Summit ME hosts private,invitation-only events & evenings in Abu Dhabi and Dubai for the investors and infrastructure builders
 
-About the organiser: Digital Asset Summit ME hosts private, invitation-only evenings in Abu Dhabi and Dubai.We bring investors together with the companies building stablecoins,tokenisation and digital asset infrastructure
+About the organiser: Digital Asset Summit ME hosts private, invitation-only evenings in Abu Dhabi and Dubai.
+
+We bring investors together with the companies building stablecoins,tokenisation and digital asset infrastructure
 
 <a id="event-1fb6b1c42dc5d7ce"></a>
 
@@ -47689,13 +47333,7 @@ Hosted by XBTO, in partnership with Bitcoin Suisse Middle East, the evening offe
 
 Set at Loca in the elegant Four Seasons Abu Dhabi, expect a Mexican themed evening of relaxed conversation, unparalleled networking, and the kind of dialogue that tends to happen once the formal agenda is over.
 
-### Event Details
-
-Date: December 8, 2026
-
-Time: 6:30 PM - 11:00 PM
-
-Venue: Loca, Four Seasons Abu Dhabi, Galleria Mall
+Event Details: Date: December 8, 2026 Time: 6:30 PM. 11:00 PM Venue: Loca, Four Seasons Abu Dhabi, Galleria Mall
 
 ### About XBTO
 
@@ -47727,9 +47365,7 @@ Right after the biggest day of ADFW, Soter Insure (https://www.soter.insure/) an
 
 The details
 
-Date: Tuesday, December 8th, 2026
-
-Time: 7:00 PM - 9:00 PM
+Date: Tuesday, December 8th, 2026 - Time: 7:00 PM. 9:00 PM
 
 Venue: Shared with approved guests
 
@@ -47737,27 +47373,17 @@ Format: Drinks, canapés & conversations
 
 How to get in
 
-1. Request to join and pick your host: Soter Insure or Galaxy
-2. Wait for approval, as we review every request
-3. Show your QR code at the door
+1. Request to join and pick your host: Soter Insure or Galaxy 2. Wait for approval, as we review every request 3. Show your QR code at the door
 
 This is an invite-only event. Only guests with confirmed registrations and valid QR codes will be admitted.
 
 Your hosts
 
-### About Soter Insure
-
-https://www.soter.insure/
-
-Headquartered in Abu Dhabi and operating out of Bermuda, with offices in London, New York and Dubai, Soter Insure was incubated by Further Ventures and WebN Group. The company offers specialized digital asset insurance products for financial institutions, including Directors & Officers (D&O), Professional Indemnity (PI), Crime, Specie, Slashing and Smart Contract Failure coverage, uniquely denominated in both fiat and native digital assets.
+About Soter Insure (https://www.soter.insure/) Headquartered in Abu Dhabi and operating out of Bermuda, with offices in London, New York and Dubai, Soter Insure was incubated by Further Ventures and WebN Group. The company offers specialized digital asset insurance products for financial institutions, including Directors & Officers (D&O), Professional Indemnity (PI), Crime, Specie, Slashing and Smart Contract Failure coverage, uniquely denominated in both fiat and native digital assets.
 
 X (https://x.com/soter_insure) | Website (https://www.soter.insure/) | LinkedIn (https://www.linkedin.com/company/soter-insure/)
 
-### About Galaxy
-
-https://www.galaxy.com/
-
-Galaxy Digital Inc. (NASDAQ: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a multi-gigawatt pipeline of more than 5.7 GW of potential capacity, positioning it among the largest and fastest-growing data center developers in North America.
+About Galaxy (https://www.galaxy.com/) Galaxy Digital Inc. (NASDAQ: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a multi-gigawatt pipeline of more than 5.7 GW of potential capacity, positioning it among the largest and fastest-growing data center developers in North America.
 
 The Company is headquartered in New York City, with offices across North America, Europe, the Middle East, and Asia. Additional information about Galaxy's businesses and products is available on www.galaxy.com (http://www.galaxy.com).
 
@@ -48443,13 +48069,9 @@ We're playing Americano style, with a new partner every round and individual sco
 
 Co-organised by WLTH and Monarch Holding, with the support of Abu Dhabi Sports Council.
 
-### WLTH
+WLTH Based in ADGM, WLTH is building digital infrastructure for global private markets, connecting investors with private-company opportunities through tokenisation and digital ownership.
 
-Based in ADGM, WLTH is building digital infrastructure for global private markets, connecting investors with private-company opportunities through tokenisation and digital ownership.
-
-Monarch Holding
-
-An Abu Dhabi-based holding company working across technology, infrastructure, sustainable energy and wellness, building businesses and long-term partnerships across the region.
+Monarch Holding An Abu Dhabi-based holding company working across technology, infrastructure, sustainable energy and wellness, building businesses and long-term partnerships across the region.
 
 Abu Dhabi Sports Council supports the development of sport across the emirate, encouraging community participation, nurturing talent and bringing international sporting events to Abu Dhabi.
 
@@ -48749,11 +48371,7 @@ Curated by the MENA Fintech Association and proudly powered by Checkout.com (htt
 
 Venue details will be shared upon confirmation.
 
-Date: Tuesday, 10th December 2025
-
-Time: 6:30 PM
-
-Location: Abu Dhabi
+Date: Tuesday, 10th December 2025 Time: 6:30 PM Location: Abu Dhabi
 
 Note: Attendance is subject to confirmation. Capacity is limited, and priority will be given to senior executives and strategic partners.
 
@@ -48769,7 +48387,7 @@ Headquartered in London and with 19 offices worldwide, Checkout.com (http://Chec
 
 يقع المقر الرئيسي لشركة Checkout.com (http://Checkout.com) في لندن، ولها 19 مكتباً حول العالم. تضم قائمة عملاء الشركة نخبة من العلامات التجارية العالمية والإقليمية مثل إنستاشوب، وإي باي، وبوتيم، وتمارا، ودايسون، وسوني، وشي إن، وكلوب، وماجد الفطيم، مجموعة الشايع، ونيتفليكس، وهنقرستيشن.
 
-Hosts The MENA Fintech Association - Founded in 2018, the MENA Fintech Association has earned recognition as one of the top 4 fintech bodies globally. Nameer Khan - Founder @ Fils Chairman @ MENA FINTECH ASSOCIATION LinkedIn: https://www.linkedin.com/in/nameerkhan
+Hosts The MENA Fintech Association. Founded in 2018, the MENA Fintech Association has earned recognition as one of the top 4 fintech bodies globally. Nameer Khan. Founder @ Fils Chairman @ MENA FINTECH ASSOCIATION LinkedIn: https://www.linkedin.com/in/nameerkhan
 
 <a id="event-9fcb34391e51ca5e"></a>
 
@@ -51515,21 +51133,9 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Source-backed
 - Original page: <https://nl27.adoptingbitcoin.org/>
 
-### Arnhem 2027
+### About the event
 
-Adopting Bitcoin Arnhem is part of the Adopting Bitcoin label which focusses on using bitcoin as money. We are a series of in-person gatherings where Bitcoiners and Bitcoin-curious individuals can connect, learn, and drive real-world Bitcoin adoption. As the longest running local bitcoin economy, Arnhem is proud to host another edition of Adopting Bitcoin Arnhem!
-
-### Speakers TBA
-
-Speakers for the Arnhem 2027 edition will be announced in the coming months. Are you a builder in the bitcoin space and want to share your work with peers in the bitcoin space?
-
-We are very thankful these cool parties are helping us make it happen!
-
-For sponsorship inquiries, organizing side events or general questions about Adopting Bitcoin Arnhem 2027, please write to us.
-
-Arnhem "Bitcoinstad" is the world's longest running local bitcoin economy and started in 2014. Dozens of shops, restaurants and services are accepting bitcoin. Arnhem had the first Burger King accepting bitcoin (2016) and the first SPAR accepting bitcoin (2014) the latter is still accepting bitcoin. You can find them all on BTCMap, but you can also check out the Arnhem Bitcoin City website for more information.
-
-Meanwhile... checkout the official website of Arnhem Bitcoin City. Relive the previous edition (2024). And of course see the Adopting Bitcoin website for other Adopting Bitcoin conferences!
+Adopting Bitcoin Arnhem focuses on using Bitcoin as money and developing real-world adoption. The organizer has announced May 28-29, 2027, and opened ticket sales. The venue and 2027 speaker programme are still to be announced.
 
 <a id="event-86864c7e3120a6db"></a>
 

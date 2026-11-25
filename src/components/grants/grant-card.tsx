@@ -117,11 +117,22 @@ function getGrantSubtitle(grant: GrantProgram): string {
 
 export function GrantCard({ grant }: { grant: GrantProgram }) {
   const domain = getGrantDomain(grant);
-  const faviconUrl = domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128` : null;
-  const [imgError, setImgError] = useState(false);
+  const [srcAttempt, setSrcAttempt] = useState(0);
 
   const initial = (grant.provider || grant.name || 'G').trim().charAt(0).toUpperCase();
   const subtitle = getGrantSubtitle(grant);
+
+  const faviconUrls = domain
+    ? [
+        `https://icons.duckduckgo.com/ip3/${domain}.ico`,
+        `https://www.google.com/s2/favicons?domain=${domain}&sz=64`,
+      ]
+    : [];
+  const currentFavicon = srcAttempt < faviconUrls.length ? faviconUrls[srcAttempt] : null;
+
+  const handleNextAttempt = () => {
+    setSrcAttempt((prev) => prev + 1);
+  };
 
   return (
     <Link
@@ -133,21 +144,22 @@ export function GrantCard({ grant }: { grant: GrantProgram }) {
         <ListingCardHeader className="min-w-0">
           <div className="flex min-w-0 items-center gap-3">
             <div className="h-10 w-10 shrink-0 flex items-center justify-center bg-transparent overflow-hidden">
-              {faviconUrl && !imgError ? (
+              {currentFavicon ? (
                 <img
-                  src={faviconUrl}
+                  key={currentFavicon}
+                  src={currentFavicon}
                   alt={`${grant.provider} favicon`}
                   width={32}
                   height={32}
                   className="h-8 w-8 rounded-sm object-contain"
                   loading="lazy"
-                  onError={() => setImgError(true)}
+                  onError={handleNextAttempt}
                   onLoad={(e) => {
                     const img = e.currentTarget;
                     // Google returns a 16x16 generic globe when favicon is missing.
-                    // When detected, fall back to initial letter badge instead of blurry globe.
+                    // When detected, advance to next source or fall back to initial letter badge.
                     if (img.naturalWidth > 0 && img.naturalWidth <= 16 && img.naturalHeight <= 16) {
-                      setImgError(true);
+                      handleNextAttempt();
                     }
                   }}
                 />

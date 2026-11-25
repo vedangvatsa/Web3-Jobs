@@ -160213,5 +160213,77 @@
     "company": "HIFI",
     "title": "Security Software Engineer",
     "newSlug": "sec189"
+  },
+  "pm328": {
+    "id": "8044024003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8044024003",
+    "title": "Product Manager / Director, Community & Livestream",
+    "company": "OKX"
+  },
+  "pm327": {
+    "id": "8044023003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8044023003",
+    "title": "Product Manager / Director, Community & Livestream",
+    "company": "OKX"
+  },
+  "ops123": {
+    "id": "b4b242cd-6b65-48c9-bd5c-087160a35897",
+    "link": "https://jobs.lever.co/crypto/b4b242cd-6b65-48c9-bd5c-087160a35897",
+    "title": "CRM MarTech & Email Ops Manager",
+    "company": "Crypto.com"
+  },
+  "ops122": {
+    "id": "34663b60-9015-4c56-be57-42890411746f",
+    "link": "https://jobs.lever.co/crypto/34663b60-9015-4c56-be57-42890411746f",
+    "title": "CRM MarTech & Email Ops Manager",
+    "company": "Crypto.com"
+  },
+  "ops121": {
+    "id": "24022c31-0cfa-463c-9585-e7dad7706d28",
+    "link": "https://jobs.lever.co/crypto/24022c31-0cfa-463c-9585-e7dad7706d28",
+    "title": "CRM MarTech & Email Ops Manager",
+    "company": "Crypto.com"
+  },
+  "do20": {
+    "id": "a665fa1f-2a88-46e6-b3f2-94efc3ca9be1",
+    "link": "https://jobs.ashbyhq.com/0g/a665fa1f-2a88-46e6-b3f2-94efc3ca9be1",
+    "title": "Senior DevOps Engineer",
+    "company": "0G Labs"
+  },
+  "an105": {
+    "id": "JR101186",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Analyst--AML-Investigations_JR101186-1",
+    "title": "Senior Analyst, AML Investigations",
+    "company": "Circle"
+  },
+  "rec49": {
+    "id": "a45aa190-44df-413b-be2e-6d3074500c59",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/a45aa190-44df-413b-be2e-6d3074500c59",
+    "title": "Senior Talent Partner - Business and Enablement",
+    "company": "Chainlink Labs"
+  },
+  "be91": {
+    "id": "CD94A01357",
+    "link": "https://apply.workable.com/j/CD94A01357",
+    "title": "Sr. Backend Engineer II - Investment",
+    "company": "Ajaib Crypto"
+  },
+  "be90": {
+    "id": "2E1DBD4A14",
+    "link": "https://apply.workable.com/j/2E1DBD4A14",
+    "title": "Staff Backend Engineer - Investment",
+    "company": "Ajaib Crypto"
+  },
+  "cf2": {
+    "id": "1e3add85778c",
+    "link": "https://alliance.breezy.hr/p/1e3add85778c-head-of-capital-formation",
+    "title": "Head of Capital Formation",
+    "company": "Alliance DAO"
+  },
+  "an125": {
+    "id": "41033c35-31db-4c77-a906-55a2c308d5d4",
+    "link": "https://jobs.eu.lever.co/coinspaid/41033c35-31db-4c77-a906-55a2c308d5d4",
+    "company": "CoinsPaid",
+    "title": "Data and Reporting Analyst"
   }
 }

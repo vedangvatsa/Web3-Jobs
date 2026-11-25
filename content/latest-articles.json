@@ -1,5 +1,29 @@
 [
   {
+    "slug": "cftcreserves",
+    "title": "CFTC staff let exchanges count Bitcoin toward operating reserves",
+    "description": "A CFTC staff advisory issued Nov. 23 says regulated trading venues and clearinghouses may count bitcoin, ether and payment stablecoins toward financial resources covering at least one year of operating costs, subject to haircuts.",
+    "category": "News",
+    "publishedDate": "2026-11-24",
+    "image": "/images/news/cftcreserves.jpg"
+  },
+  {
+    "slug": "cyberbridge",
+    "title": "Upbit and Bithumb halt CYBER deposits after suspected bridge minting",
+    "description": "South Korean exchanges Upbit and Bithumb suspended CYBER deposits and withdrawals on Nov. 22 after the Cyber project reported unexpected token minting on Solana and tokens leaving its Ethereum bridge lockbox.",
+    "category": "News",
+    "publishedDate": "2026-11-24",
+    "image": "/images/news/cyberbridge.jpg"
+  },
+  {
+    "slug": "soloblock",
+    "title": "Solo miner wins $191,000 Bitcoin block with 11 TH/s",
+    "description": "A solo miner running about 11 terahashes per second solved block 977057 through Solo CKPool on Nov. 22, collecting 3.1287 BTC worth roughly $191,000.",
+    "category": "News",
+    "publishedDate": "2026-11-24",
+    "image": "/images/news/soloblock.jpg"
+  },
+  {
     "slug": "eventcontracts",
     "title": "Coinbase targets first half of 2027 for its own prediction market contracts",
     "description": "Coinbase plans to offer its own event contracts to U.S. retail and institutional customers in the first half of 2027, Bloomberg reported, as the exchange builds clearing and trading infrastructure around the business.",
@@ -14,29 +38,5 @@
     "category": "News",
     "publishedDate": "2026-11-23",
     "image": "/images/news/xmr1collapse.jpg"
-  },
-  {
-    "slug": "moonpaycharter",
-    "title": "MoonPay applies for OCC national trust bank charter for custody, stablecoins",
-    "description": "MoonPay filed with the OCC on Nov. 17, 2026 to create MoonPay National Trust Bank in Miami Beach, a non-depository that would offer stablecoin issuance and digital asset custody under federal oversight.",
-    "category": "News",
-    "publishedDate": "2026-11-22",
-    "image": "/images/news/moonpaycharter.jpg"
-  },
-  {
-    "slug": "secscam",
-    "title": "SEC charges eight Colorado firms in $37 million fake crypto platform scam",
-    "description": "The SEC charged eight Colorado-based entities with running fake advisers and crypto trading platforms that stole more than $37 million from over 1,500 US investors since August 2024.",
-    "category": "News",
-    "publishedDate": "2026-11-22",
-    "image": "/images/news/secscam.jpg"
-  },
-  {
-    "slug": "vaneckgemini",
-    "title": "VanEck to end Gemini custody and clearing agreements for three crypto ETFs",
-    "description": "VanEck notified Gemini on Nov. 16, 2026 that it will terminate custody and clearing agreements for its Bitcoin, Ether and Solana ETFs on about Feb. 16, 2027, while Coinbase Custody stays on.",
-    "category": "News",
-    "publishedDate": "2026-11-22",
-    "image": "/images/news/vaneckgemini.jpg"
   }
 ]
