@@ -188137,7 +188137,8 @@
       },
       "account": "channel:ai",
       "attemptId": "8a48afbe-a811-476d-bdb5-2cb72faea3e2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9b2be0982c8cf3eddc350a28535daf6bdfa798d2"
     }
   ]
 }
