@@ -186195,6 +186195,40 @@
       "attemptId": "636c4e29-1973-4216-91d4-50a26054aad6",
       "verification": "verified",
       "postId": "0xbb39a32dc646f71715bdd8d9896a0c8c75bff910"
+    },
+    {
+      "slug": "ops174",
+      "company": "Alpaca",
+      "title": "Operations Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-11-25T12:03:35.071Z",
+      "expectedText": "Alpaca is hiring Operations Analyst\n\nhttps://hashtagweb3.com/ops174/fc?og=7",
+      "snapshot": {
+        "id": "6255596004",
+        "title": "Operations Analyst",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6255596004",
+        "date": "2026-11-11T16:30:20-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Global (Eastern Time Zone)",
+        "department": "Market Data",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ops174"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Operations Analyst\n\nhttps://hashtagweb3.com/ops174/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ops174/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "b8dd74bd-3475-4c4e-b9dd-7153d0bea9c5",
+      "verification": "creating"
     }
   ]
 }
