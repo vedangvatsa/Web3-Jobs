@@ -27,6 +27,7 @@ import {
   SPAMMY,
   type LumaApiEvent,
 } from './lib/luma-event-filters';
+import { shouldTagBbw2026SideEvent } from './lib/bbw-side-events';
 import {
   extractLumaDescriptionsFromHtml,
   normalizeLumaDescriptionForStorage,
@@ -343,6 +344,20 @@ function inferSideEvents(event: LumaApiEvent): string[] | undefined {
   if (/token2049/i.test(text)) side.push('token2049');
   if ((/breakpoint|bp26/i.test(text) || /solana/i.test(text)) && (city.includes('london') || /united kingdom|uk|gb/i.test(event.geo_address_info?.country || '')) && start >= '2026-11-01' && start <= '2026-11-20') {
     side.push('breakpoint', 'solana-breakpoint');
+  }
+  const { city: lumaCity, country, location } = buildLocation(event);
+  if (
+    shouldTagBbw2026SideEvent({
+      text: event.name,
+      city: lumaCity,
+      location,
+      country,
+      startDate: start,
+      eventId: `luma-crypto-${event.api_id}`,
+      source: 'luma-crypto',
+    })
+  ) {
+    side.push('bbw');
   }
   return side.length ? [...new Set(side)] : undefined;
 }

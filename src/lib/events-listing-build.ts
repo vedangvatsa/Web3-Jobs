@@ -16,6 +16,7 @@ import eventTombstones from '../../content/event-tombstones.json';
 import { assignStableEventSlugs, type EventSlugHistory } from './event-slug-assignment';
 import identityMerges from '../../content/events/identity-merges.json';
 import { hasVerifiedVenueAddress } from './event-address';
+import { shouldTagBbw2026SideEvent } from '../../scripts/lib/bbw-side-events';
 
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
@@ -305,6 +306,28 @@ function linkSideEventParents(event: Web3Event): Web3Event {
     if (/\badfw\b|abu dhabi finance week/i.test(text)) {
       sideEventFor.add('adfw');
     }
+  }
+
+  const isBangkok =
+    city.includes('bangkok') ||
+    loc.includes('bangkok') ||
+    /krung thep|กรุงเทพ/i.test(loc) ||
+    normalizeCountry(event.country || '') === 'TH' && /\bbangkok\b|krung thep|qsnncc|queen sirikit/i.test(loc);
+  if (
+    isBangkok &&
+    shouldTagBbw2026SideEvent({
+      text,
+      city: event.city || '',
+      location: event.location || '',
+      country: event.country,
+      startDate: start,
+      eventId: event.id,
+      source: event.source,
+      url: event.url,
+      website: event.website,
+    })
+  ) {
+    sideEventFor.add('bbw');
   }
 
   if (isLondon && start >= '2026-11-01' && start <= '2026-11-20') {

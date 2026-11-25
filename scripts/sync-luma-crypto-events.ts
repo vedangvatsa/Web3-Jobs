@@ -10,6 +10,7 @@ import { getEventBaseSlug, normalizeCountry, type Web3Event } from '../src/lib/e
 import { fetchLumaCalendarEntries } from './lib/luma-calendar.mjs';
 import { canImportEvent } from './lib/event-retention.mjs';
 import eventTombstones from '../content/event-tombstones.json';
+import { shouldTagBbw2026SideEvent } from './lib/bbw-side-events';
 
 const OUTPUT = path.join('content', 'events', 'sources', 'luma-crypto-events.json');
 const UA = 'HashtagWeb3 Luma Sync/1.0 (+https://hashtagweb3.com)';
@@ -280,6 +281,20 @@ function inferSideEvents(e: LumaApiEvent): string[] | undefined {
     (city.includes('abu dhabi') && start >= '2026-12-07' && start <= '2026-12-11')
   ) {
     side.push('adfw');
+  }
+  const { city: lumaCity, country, location } = buildLocation(e);
+  if (
+    shouldTagBbw2026SideEvent({
+      text: e.name,
+      city: lumaCity,
+      location,
+      country,
+      startDate: start,
+      eventId: `luma-crypto-${e.api_id}`,
+      source: 'luma-crypto',
+    })
+  ) {
+    side.push('bbw');
   }
   return side.length ? [...new Set(side)] : undefined;
 }
