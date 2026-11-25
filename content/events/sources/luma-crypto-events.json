@@ -10299,7 +10299,10 @@
     "coordinates": {
       "latitude": 13.7337803,
       "longitude": 100.5672297
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-S85peLd1TLeNc05",
@@ -10484,7 +10487,10 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-oFdGICwjCTWsC5b",
@@ -10676,7 +10682,10 @@
     "coordinates": {
       "latitude": 13.7329341,
       "longitude": 100.5605156
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-CYgsI1Ot8BGIzc1",
@@ -10985,7 +10994,10 @@
     "coordinates": {
       "latitude": 13.7292327,
       "longitude": 100.558726
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-yZA4vsOnv1vQ7aQ",
@@ -11123,7 +11135,10 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-Az6et278GZSUI8O",
@@ -11144,7 +11159,10 @@
       "fetchedAt": "2026-10-30T21:50:37.793Z",
       "method": "luma-page",
       "sha256": "444536ea708c057551bd78adcefc1ac66168735b56cac829a16b45f9bd431577"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-eJvJYOXzkHMmGKR",
@@ -11281,7 +11299,10 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-zx1PJXC9gEeNSgA",
@@ -11409,7 +11430,10 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-CZFvyMlvwoTrp2S",
@@ -11556,7 +11580,10 @@
     "coordinates": {
       "latitude": 13.7292327,
       "longitude": 100.558726
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-PcQFoQxIo3e0fjE",
@@ -11797,7 +11824,10 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-2xGTTGyT4yIDpfC",
@@ -11837,7 +11867,10 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-GA41QTIByVpFqx7",
@@ -12018,7 +12051,10 @@
     "registrationAvailability": "open",
     "attendanceMode": "offline",
     "visibility": "public",
-    "locationHidden": true
+    "locationHidden": true,
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-crypto-CutFLJtQgAGhmNJ",
@@ -19246,6 +19282,287 @@
       "method": "official-section",
       "pageTitle": "Dubai 2027 Venture Capital World Summit · Luma",
       "sha256": "7d670d565017f341867e4353a86b23a1f94c00ecb7ad538fc07937b569ac9134"
+    }
+  },
+  {
+    "id": "luma-crypto-FCswact5HUPBfye",
+    "slug": "uxuy-rooftop-blockchain-week-pre-party-bangkok",
+    "name": "UXUY Rooftop Blockchain Week Pre-Party | Bangkok",
+    "description": "Welcome to amazing and delicious pre-party backed and packed by UXUY at the eve before official event starts.\n\nWe are going to provide you best User Experience and fantastic User Inter(national)Face where you will face great Bangkok city view, delicious food & beverages, enjoy our community’s engaging atmosphere and share great ideas of collaborations together to bring UXUY ecosystem to Unicorn 🦄 \n\nMeans, this event for the exceptional people who we know, who we trust, who brings value and lovely vibes for our mutually beneficial collaboration.\n\nReady to be counted in, ready to enjoy that event with us?! Apply and get invited!\n\nCan’t wait when finally it will happen. 27-Nov, Bangkok’s Rooftop, UXUY official BBW opening party! 🎉",
+    "descriptionSource": {
+      "url": "https://luma.com/pox5so32",
+      "fetchedAt": "2026-11-25T12:55:35.291Z",
+      "method": "official-section",
+      "pageTitle": "UXUY Rooftop Blockchain Week Pre-Party | Bangkok · Luma",
+      "sha256": "6be234b0ad5d13d885eecc4b96a6c20c2789c69783a27edae1dd6a52d57dabd7"
+    },
+    "sourceVerification": {
+      "url": "https://luma.com/pox5so32",
+      "eventId": "evt-FCswact5HUPBfye",
+      "fetchedAt": "2026-11-25T12:55:35.298Z",
+      "method": "luma-page"
+    },
+    "startDate": "2026-11-27T13:00:00.000Z",
+    "endDate": "2026-11-27T19:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "CHIC Ratchada 18, 63 Soi Ratchadaphisek 18, Khwaeng Huai Khwang, Khet Huai Khwang, Krung Thep Maha Nakhon 10310, Thailand",
+    "timezone": "Asia/Bangkok",
+    "url": "https://luma.com/pox5so32",
+    "registrationUrl": "https://luma.com/pox5so32",
+    "coverImage": "https://images.lumacdn.com/uploads/bu/c0b4a643-83fc-4106-a0c7-72381738d446.png",
+    "source": "luma-crypto",
+    "hosts": [
+      "Julia Upiterskaya",
+      "Sergey Sevantsyan"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "registrationAvailability": "open",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "sideEventFor": [
+      "bbw"
+    ],
+    "streetAddress": "63 Soi Ratchadaphisek 18, Khwaeng Huai Khwang, Khet Huai Khwang",
+    "coordinates": {
+      "latitude": 13.784322099999999,
+      "longitude": 100.5787936
+    }
+  },
+  {
+    "id": "luma-crypto-W7bnUIK8lOx0fXq",
+    "slug": "sunrise-run-bangkok-edition",
+    "name": "Sunrise Run: BKK Edition",
+    "description": "## Sunrise Run: BKK Edition\n\nKick off Binance Blockchain Week with a fresh start! 🏃‍♂️🏃‍♀️\n\nJoin Elephants Inc. for a morning 5K run and connect with fellow founders, builders, and friends of the Web3 community. Get moving, soak up the morning energy, and fuel up with coffee and good conversations before diving into a busy day of conference activities.\n\n🗓️ Event Agenda\n\n6:45 AM | 📍 Meet Up\nGather with fellow runners and get ready for the morning. (Meeting Point Benjakitti: https://maps.app.goo.gl/wvvSysnBazYqNCoH8)\n\n7:00 AM | 🧘 Warm Up\nGet moving and loosen up before hitting the road.\n\n7:10 AM | 🏃 5K Run\nHit the ground running and enjoy a refreshing morning run together.\n\n8:00 AM | ☕ Coffee & Networking\nRefuel with coffee and connect with the community.\n\nWhether you're a regular runner or just looking for a refreshing start to the day, everyone's welcome. \n\nLace up and run with us! 👟\n\nPowered by:\nElephants Inc. (https://elephants.inc/?utm_source=luma) is a non-bank alternative for the AI Era. We are not a bank - we’re a smarter way to operate. Elephants Inc helps companies manage spending, fund movements, and cross-border transactions in one intelligent system. Get real-time visibility and AI-powered insights built for modern businesses.",
+    "descriptionSource": {
+      "url": "https://luma.com/2i9w84d8",
+      "fetchedAt": "2026-11-25T12:55:37.085Z",
+      "method": "official-section",
+      "pageTitle": "Sunrise Run: BKK Edition · Luma",
+      "sha256": "74866e0dac79e21eb78eafcb43e3b3e510a38a743389486fb39bbcbeeea9e18a"
+    },
+    "sourceVerification": {
+      "url": "https://luma.com/2i9w84d8",
+      "eventId": "evt-W7bnUIK8lOx0fXq",
+      "fetchedAt": "2026-11-25T12:55:37.085Z",
+      "method": "luma-page"
+    },
+    "startDate": "2026-11-27T23:30:00.000Z",
+    "endDate": "2026-11-28T02:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Benjakitti Park, Thanon Ratchadaphisek, Khwaeng Khlong Toei, Khet Khlong Toei, Krung Thep Maha Nakhon 10110, Thailand",
+    "timezone": "Asia/Bangkok",
+    "url": "https://luma.com/2i9w84d8",
+    "registrationUrl": "https://luma.com/2i9w84d8",
+    "coverImage": "https://images.lumacdn.com/uploads/67/8bd4fa2b-3dfb-4732-acc3-58a1f9a81206.png",
+    "source": "luma-crypto",
+    "hosts": [
+      "Elephants Inc.",
+      "Howie | Elephants Inc",
+      "Pear Tarapokinvijit"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "registrationAvailability": "open",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "sideEventFor": [
+      "bbw"
+    ],
+    "streetAddress": "Thanon Ratchadaphisek, Khwaeng Khlong Toei, Khet Khlong Toei",
+    "coordinates": {
+      "latitude": 13.7292327,
+      "longitude": 100.558726
+    }
+  },
+  {
+    "id": "luma-crypto-xMmEd1jXDHJ5kPg",
+    "slug": "nouns-house-bangkok",
+    "name": "Nouns House in Bangkok",
+    "description": "## The Noggles ⌐◨-◨ are nudging their way into Bangkok!\n\nFor one day during Binance Blockchain Week, AthenaX (https://x.com/athenax_co), Nouns (https://x.com/nounsdao), and Internoun (https://x.com/Internoun) are opening up Area Zero at Samyan Dragon Town for a nounish afternoon that rolls into a sundowner. Co-hosted with our friends Tria (https://x.com/useTria), InstaSwap (https://x.com/InstaSwap_io), HeyElsa (https://x.com/HeyElsaAI), and Pudgy Penguins (https://x.com/PenguAsia).\n\nCome for live demos from teams shipping right now, short panels, and booths where you can try the products. Stay for the sunset and the conversations.\n\n\n## What's on:\n\n\n• Live demos from Cluster Protocol (https://x.com/openprotocolfnd), HeyElsa (https://x.com/HeyElsaAI), InstaSwap (https://x.com/InstaSwap_io), and Project:VEX (https://x.com/ProjectVEXai)\n• Panels and talks with Hedera (https://x.com/hedera), Bitkub Academy (https://x.com/BitkubAcademy), and Injective (https://x.com/injective)\n• Merch and prizes from our co-hosts\n• Food and drinks to keep the conversations going\n\n\n## Who it's for:\n\nBuilders, founders, creators, traders, and anyone curious about new tech and the products being built across APAC and North America.\n\nEntry is free with registration. Food and drinks are limited, so please only register if you're coming. Show your Luma QR at the door to get your wristband.\n\n🗓️ Saturday 28 Nov · 15:00–20:00\n\n📍 Area Zero @ Samyan Dragon Town, Bangkok\n\nHosted by AthenaX (https://x.com/athenax_co), Nouns (https://x.com/nounsdao), and Internoun (https://x.com/Internoun)\n\nCo-hosts: Tria (https://x.com/useTria) · InstaSwap (https://x.com/InstaSwap_io) · HeyElsa (https://x.com/HeyElsaAI) · Pudgy Penguins (https://x.com/PudgyPenguins)\n\nPartners: Hedera (https://x.com/hedera) · Bitkub Academy (https://x.com/BitkubAcademy) · Injective (https://x.com/injective) · Cluster Protocol (https://x.com/openprotocolfnd) · Project:VEX (https://x.com/ProjectVEXai) · AlphaYields (https://x.com/AlphaYields_AI) · OpenRoboto (https://x.com/openroboto) · DTC Group (https://x.com/DTCGroup_)\n\nMedia partners: Cryptomind (https://x.com/cryptomindgroup) · Tokenpost (https://x.com/tokenpost)",
+    "descriptionSource": {
+      "url": "https://luma.com/nounshouse",
+      "fetchedAt": "2026-11-25T12:55:37.873Z",
+      "method": "official-section",
+      "pageTitle": "Nouns House in Bangkok · Luma",
+      "sha256": "4dbc9b4ccb6b989351a03dfff20d80c71c76e31daa8a84d64ff40b6413d04cb8"
+    },
+    "sourceVerification": {
+      "url": "https://luma.com/nounshouse",
+      "eventId": "evt-xMmEd1jXDHJ5kPg",
+      "fetchedAt": "2026-11-25T12:55:37.874Z",
+      "method": "luma-page"
+    },
+    "startDate": "2026-11-28T08:00:00.000Z",
+    "endDate": "2026-11-28T13:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Dragon town, 188 74 Soi Chulalongkorn 5, Khwaeng Wang Mai, Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+    "timezone": "Asia/Bangkok",
+    "url": "https://luma.com/nounshouse",
+    "registrationUrl": "https://luma.com/nounshouse",
+    "coverImage": "https://images.lumacdn.com/uploads/p7/dd664896-83e2-460a-a15b-7f04e57b00fe.png",
+    "source": "luma-crypto",
+    "hosts": [
+      "Internoun .eth",
+      "AthenaX",
+      "Pudgy Penguins",
+      "Divinefallacy",
+      "Symphony Young",
+      "InstaSwap",
+      "Tria"
+    ],
+    "price": "Free",
+    "approvalRequired": false,
+    "registrationAvailability": "open",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "sideEventFor": [
+      "bbw"
+    ],
+    "streetAddress": "188 74 Soi Chulalongkorn 5, Khwaeng Wang Mai, Pathum Wan",
+    "coordinates": {
+      "latitude": 13.741183399999999,
+      "longitude": 100.52442409999999
+    }
+  },
+  {
+    "id": "luma-crypto-2Lh3kyk1n2UD6iV",
+    "slug": "united-stablecoin-night-bangkok",
+    "name": "United Stablecoin Night",
+    "description": "## About the event\nUnited Stables ($U) and HashGlobal host United Stablecoin Night, an exclusive invite-only side event during Binance Blockchain Week in Bangkok on Saturday evening, November 28, 2026.\n\n## Highlights\nThe private gathering brings together institutional asset allocators, Real-World Asset (RWA) pioneers, stablecoin issuers, and traditional finance leaders for high-signal discussions and strategic partnerships. Guests explore cross-chain liquidity trends, yield-bearing stablecoin models, and the regulatory bridge between TradFi and decentralized finance over curated cocktails in central Bangkok.\n\n## Attendance & Registration\nAttendance is strictly by invitation and approved application. Verified institutional builders, allocators, and partners are invited to request access through the official Luma portal.",
+    "descriptionSource": {
+      "url": "https://luma.com/n0r0eqei",
+      "fetchedAt": "2026-11-25T12:55:38.653Z",
+      "method": "official-section",
+      "pageTitle": "United Stablecoin Night · Luma",
+      "sha256": "f54d7484d57fd26bd270d243208ff23747dd7de056109a509fee8d6c0a786c6c"
+    },
+    "sourceVerification": {
+      "url": "https://luma.com/n0r0eqei",
+      "eventId": "evt-2Lh3kyk1n2UD6iV",
+      "fetchedAt": "2026-11-25T12:55:38.653Z",
+      "method": "luma-page"
+    },
+    "startDate": "2026-11-28T11:30:00.000Z",
+    "endDate": "2026-11-28T15:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "timezone": "Asia/Bangkok",
+    "url": "https://luma.com/n0r0eqei",
+    "registrationUrl": "https://luma.com/n0r0eqei",
+    "coverImage": "https://images.lumacdn.com/uploads/o3/bd698465-5572-4f7c-9e05-e8100a57a502.png",
+    "source": "luma-crypto",
+    "hosts": [
+      "United Stables",
+      "Ray Xu"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "registrationAvailability": "open",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "sideEventFor": [
+      "bbw"
+    ],
+    "coordinates": {
+      "latitude": 13.73429504558308,
+      "longitude": 100.55988294936618
+    }
+  },
+  {
+    "id": "luma-crypto-0YBDk1Rx7rWv5oY",
+    "slug": "tbe-alpha-insilico-terminal-instaswap-bangkok",
+    "name": "TBE Alpha: Insilico Terminal & InstaSwap",
+    "description": "The real alpha at Binance Blockchain Week isn’t on the main stage, it’s in the room after.\n\nJoin us on Sunday, 29 November, 6:00 to 10:00 PM, for TBE Alpha: Insilico Terminal & InstaSwap, an exclusive evening for the traders, whales, KOLs, and teams moving the market.\n\nWe’re taking over a stunning space thirty floors above Sukhumvit: skyline views, tribal-inspired interiors, live music, a fire show on the terrace, and a digital light show inside. A room built for real conversations and the kind of connections that outlast the week.\n\nWhat to expect\n\n\n• Curated company: a hand-picked room of active traders, whales, KOLs, trading projects, exchanges, and media\n• Conversations: where the next cycle is heading, AI and automated trading, and how the biggest traders manage risk\n• Atmosphere: drinks, bites, music, and a fire show with the Bangkok skyline as the backdrop\n\nWho should join?\nActive traders and whales, KOLs and creators, exchanges, trading and DeFi projects, media, and any team looking to get in front of the people who move crypto markets, from infrastructure and L1s to consumer apps.\n\nPartner with us: to sponsor or partner, message Mihir on Telegram (@mihirodhrani) or email mihir@tbv.xyz.\n\nAbout The Best Event:\nThe Best Event (https://thebestevent.com/?utm_source=luma)  (https://thebestevent.com/?utm_source=luma)is the global event series where Web3 comes to life. Since 2024 we’ve hosted 157 events across 24 cities in 14 countries for 83,000+ guests, from intimate private dinners to large-scale nights at venues like Marquee and E11EVEN Miami. Every guest is pre-qualified through TBX, so our partners leave with a pipeline, not just a logo on a banner.\n\nTitle Partners:\nInsilico Terminal  (https://insilicoterminal.com/)is a professional-grade trading terminal built by traders, with more than $850 billion in cumulative trading volume since 2021. It brings advanced execution, order and position management into one place, with support for Hyperliquid Perps and leading crypto exchanges. Free to use.\n\nInstaSwap (https://instaswap.io) is a walletless, non-custodial cross-chain swaps: 10,000+ assets across 69 chains in one transaction, with no approvals or bridging, plus perps and tokenized real-world assets.\n\n​0G  (https://0g.ai/?utm_source=luma)is the largest AI L1. It is a modular, infinitely scalable blockchain designed to power the future of decentralized AI. It provides the full-stack infrastructure needed to build, run, and scale AI-native applications onchain, including fast data availability, decentralized storage, and a permissionless compute network.\n\nCheesePad (https://cheesepad.ai) is the AI-audited launchpad on BNB Chain, built for the agent economy. AI agents can join presales directly through Binance Agentic Wallet with their open-source agent skill, and projects can run \"Agent ID Only\" launches reserved for verified agents. Every launch is screened by their AI auditor, liquidity is locked through a transparent LP locker, and Protected Presales give buyers a refund floor against dumps.\n\nPlatinum Partners:\nBoBe (https://bobe.app) is a Web3 app built to distribute USDT cashback to $BOBE Bakers, straight from its own algotrading activity, 24/7. You Bake. BoBe does the rest.\n\n​ZeruAI (https://zeruai.org/?utm_source=luma) is turning onchain behavior into an economy. Its Trust Oracles have already scored 320M+ wallets, power zScore on Etherscan, and provide behavioral intelligence for AML, credit and access. Now ZeruAI is introducing Activity Markets through Zaps — speculative markets where economic activity determines who gets to mine, miners bring supply to market, and traders decide what it’s worth.\n\nTria (https://tria.so) is a self-custodial neobank that unifies spending, trading, and earning across all chains — without bridges, gas, or custodians. Its crypto card is accepted at 130M+ merchants in 150+ countries where Visa is supported.\n\nGold Partners:\n​Coincashy (https://coincashy.io/?utm_source=luma) is a gateway between crypto, stablecoins and fiat: crypto processing, OTC liquidity, on/off-ramps, vIBANs and cards for businesses and individuals in 150+ countries, with compliance built in.\n\nAthenaX (https://www.athenax.co/) - \"Where New Products Begin.\" A discovery platform for frontier technology products and research across AI, crypto, biotech, infrastructure, robotics, RWA and developer tools.\n\nHeyElsa (https://heyelsa.ai) is an AI crypto co-pilot that turns plain-language requests into onchain actions such as swapping, bridging and staking across chains.\n\nNouns (https://nouns.wtf) - One Noun is generated and auctioned every day, forever, and all proceeds go to the Nouns DAO treasury, which funds creative and public-goods projects. The noggles are its signature, and the IP is free for anyone to use.\n\nStrategic Partners:\nTBV (TB Ventures) (https://tbv.xyz) is a VC fund focused on leading rounds in early-stage web3 companies in Southeast Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.\n\nEAK Digital  (https://eakdigital.com/?utm_source=luma)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.",
+    "descriptionSource": {
+      "url": "https://luma.com/TBE-AlphaBKK26",
+      "fetchedAt": "2026-11-25T12:55:39.578Z",
+      "method": "official-section",
+      "pageTitle": "TBE Alpha: Insilico Terminal & InstaSwap · Luma",
+      "sha256": "6f94fca2e6f3285725aa85af70987d4fd3634a9a2d202a85d1702e67e371e19e"
+    },
+    "sourceVerification": {
+      "url": "https://luma.com/TBE-AlphaBKK26",
+      "eventId": "evt-0YBDk1Rx7rWv5oY",
+      "fetchedAt": "2026-11-25T12:55:39.578Z",
+      "method": "luma-page"
+    },
+    "startDate": "2026-11-29T11:00:00.000Z",
+    "endDate": "2026-11-29T15:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "timezone": "Asia/Bangkok",
+    "url": "https://luma.com/TBE-AlphaBKK26",
+    "registrationUrl": "https://luma.com/TBE-AlphaBKK26",
+    "coverImage": "https://images.lumacdn.com/uploads/0g/97aa8cdf-e532-4e58-9757-fa2b5c14e2f4.jpg",
+    "source": "luma-crypto",
+    "hosts": [
+      "The Best Event",
+      "Tobias Bauer",
+      "Brent Fulfer",
+      "Mihir Odhrani"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "registrationAvailability": "open",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "sideEventFor": [
+      "bbw"
+    ],
+    "coordinates": {
+      "latitude": 13.726551128098286,
+      "longitude": 100.5684373243859
+    }
+  },
+  {
+    "id": "luma-crypto-NFJcILxMp6SiU8F",
+    "slug": "private-dinner-with-moss-bbw-bangkok",
+    "name": "Private Dinner with Moss",
+    "description": "## Private Dinner with Moss · BBW Bangkok\n\nBBW 的白天已经够满了，晚上想留点时间，好好吃顿漂亮饭、聊聊 AI Agent 市场。\n\n11 月 29 日晚上，Moss 会在曼谷组一场小范围的 Private Dinner，邀请一小群熟悉的 KOL、Builder、交易者和生态朋友，一起吃饭、喝酒、聊聊天。\n\n\n## 💭 这晚会聊什么\n\n市场最近怎么走，AI 还有哪些东西值得继续看，Agent 到底能不能从工具变成真正的经济参与者。\n\n过去一年，Moss 一直在做 AI Agent 和链上资产相关的产品。\n\n最近我们正在进入下一个阶段，让 AI Agent 开始自己发行和运营资产。\n\n这次晚宴也会和大家提前分享一些我们最近在做的东西，以及我们为什么觉得未来 Agent 会越来越像一个真正的链上经济主体。\n\n\n## 📍 时间地点\n\n日期： 2026 年 11 月 29 日\n时间： 18:30–21:30（曼谷时间）\n地点： 曼谷｜具体地点审核通过后可查看\n\n晚宴为邀请制，席位有限，报名后会进行审核。\n\n曼谷见，来一起吃顿好的！\n\nBBW days are already packed, so we wanted to save one evening for a good dinner and better conversations around the AI agent market.\n\nOn the evening of November 29, Moss is hosting a small private dinner in Bangkok with a curated group of KOLs, builders, traders, and ecosystem friends.\n\nGood food, wine, and plenty of time to actually talk.\n\n\n## 💭 What will we talk about?\n\nWhere the market is going, what’s still worth paying attention to in AI, and whether agents can move beyond being tools and become real economic participants.\n\nOver the past year, Moss has been building around AI agents and onchain assets.\n\nNow we’re entering the next stage: enabling AI agents to issue and manage assets themselves.\n\nWe’ll share a first look at what we’ve been working on, and why we think agents will increasingly become real participants in onchain economies.\n\n\n## 📍 Date and Time\n\nDate: November 29, 2026\nTime: 6:30–9:30 PM (Bangkok time)\nLocation: Bangkok · Exact venue will be shared after approval\n\nThis is an invite-only dinner with limited seats. Registrations are subject to approval.\n\nSee you in Bangkok. Come have a good dinner with us!",
+    "descriptionSource": {
+      "url": "https://luma.com/r13r2x1w",
+      "fetchedAt": "2026-11-25T12:55:40.222Z",
+      "method": "official-section",
+      "pageTitle": "Private Dinner with Moss · Luma",
+      "sha256": "b651434e67c414ce43d76a3ffc9e36aaff52e5275a471cbc7696a042cb8ac4b5"
+    },
+    "sourceVerification": {
+      "url": "https://luma.com/r13r2x1w",
+      "eventId": "evt-NFJcILxMp6SiU8F",
+      "fetchedAt": "2026-11-25T12:55:40.222Z",
+      "method": "luma-page"
+    },
+    "startDate": "2026-11-29T11:30:00.000Z",
+    "endDate": "2026-11-29T14:30:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "timezone": "Asia/Bangkok",
+    "url": "https://luma.com/r13r2x1w",
+    "registrationUrl": "https://luma.com/r13r2x1w",
+    "coverImage": "https://images.lumacdn.com/uploads/pq/f0203b0c-b88a-46f9-9263-f6921c164d5d.jpg",
+    "source": "luma-crypto",
+    "hosts": [
+      "Caelyn | Moss",
+      "Moss AI"
+    ],
+    "price": "Free",
+    "approvalRequired": true,
+    "registrationAvailability": "open",
+    "attendanceMode": "offline",
+    "visibility": "public",
+    "sideEventFor": [
+      "bbw"
+    ],
+    "coordinates": {
+      "latitude": 13.747923999116168,
+      "longitude": 100.55817730881748
     }
   }
 ]

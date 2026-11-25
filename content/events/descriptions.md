@@ -1970,17 +1970,29 @@ About the organiser: ShardLab is the innovation arm of Hashed, a leading global 
 
 ### About the event
 
-One of the biggest dates in the crypto calendar returns for a special Asia edition live from Bangkok, Thailand, this November.
+Binance Blockchain Week (BBW) Bangkok 2026 is the flagship annual conference hosted by Binance at the Queen Sirikit National Convention Center (QSNCC) in Bangkok, Thailand, from 28 to 29 November 2026. The 2026 gathering convenes global Web3 founders, institutional allocators, core developers, regulators, and digital asset leaders under the headline theme EVOLVE.
 
-Finance is making an evolutionary leap and this year's Binance Blockchain Week theme, EVOLVE, is built around it.
+### What to expect
 
-TradFi and blockchain are converging, and the markets that once ran on business hours are becoming global, open and always-on.
+Binance Blockchain Week 2026 explores how blockchain architecture, artificial intelligence, and global financial rails are converging into open, 24/7 onchain markets. Programming spans two primary stages:
 
-At the same time, AI is transforming how freely people move, manage and grow their money, carrying us toward a world where financial freedom is effortless and self-directed.
+Main Stage: Keynotes, executive debates, and high-level macroeconomic discussions on institutional liquidity, sovereign stablecoins, regulatory compliance, and cross-border settlement.
 
-The definition of finance is being rewritten in real time. EVOLVE is our recognition that we're not just watching that happen - we're part of the evolution.
+Innovation Stage: Technical presentations, interactive workshops, and project showcases focusing on decentralized infrastructure, zero-knowledge scalability, decentralized physical infrastructure (DePIN), and autonomous AI agent economies.
 
-For speaking opportunities, please submit interest via this form.
+Attendees can also explore an expansive exhibition hall featuring interactive installations, ecosystem lounges, developer hubs, and live protocol demonstrations across BNB Chain and the broader multi-chain ecosystem.
+
+### Side events and community week
+
+Throughout the conference week in Bangkok, ecosystem teams host dozens of satellite gatherings across the city. Featured community meetups, technical hackathons, demo days, VIP networking banquets, and closing celebrations are scheduled across Sukhumvit, Silom, and riverside venues, linked under the official BBW calendar.
+
+### Who should attend
+
+Binance Blockchain Week is designed for crypto founders, protocol engineers, institutional traders, venture capital partners, DeFi builders, liquidity providers, and community members participating in the evolution of digital finance across Asia and globally.
+
+### Venue and travel
+
+The conference takes place at Queen Sirikit National Convention Center (QSNCC), 60 Ratchadaphisek Road, Khlong Toei, Bangkok. The venue offers direct underground connection via MRT Queen Sirikit National Convention Centre station (Exit 3), providing seamless transit access from central Bangkok hotels and Suvarnabhumi Airport (BKK). Registration passes and credential collection are managed through the official event portal.
 
 <a id="event-99a91ef39510a040"></a>
 
@@ -2350,13 +2362,13 @@ This listing reflects the organizer's published information for FutureZonic. Web
 
 <a id="event-412ade100dc5267a"></a>
 
-## Pancake — BBW Private Dinner
+## MasterChef Kitchen: Bangkok Private Dinner
 
 - Record: `curated-pancake-bbw-private-dinner`
 - Source: [curated-events.json](sources/curated-events.json)
 - Starts: 2026-11-29T12:00:00.000Z
 - Description: Source-backed
-- Original page: <https://blog.pancakeswap.finance/articles/kitchen-report-october-2026>
+- Original page: <https://luma.com/862k3vql>
 
 ### About the event
 
@@ -19835,6 +19847,28 @@ Singapore - TOKEN2049 (https://luma.com/0v6m30lp). Dash supported XT's eighth-an
 
 Hong Kong - FinTech Week (https://luma.com/ebr895ca). Our November 2026 Dash Community Meetup brought contributors and builders together to discuss DashPay, Dash Evolution, and the ecosystem roadmap, with an open Q&A and networking.
 
+<a id="event-6563d4db670bfd0a"></a>
+
+## UXUY Rooftop Blockchain Week Pre-Party \| Bangkok
+
+- Record: `luma-crypto-FCswact5HUPBfye`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pox5so32>
+
+### About the event
+
+Welcome to amazing and delicious pre-party backed and packed by UXUY at the eve before official event starts.
+
+We are going to provide you best User Experience and fantastic User Inter(national)Face where you will face great Bangkok city view, delicious food & beverages, enjoy our community's engaging atmosphere and share great ideas of collaborations together to bring UXUY ecosystem to Unicorn
+
+Means, this event for the exceptional people who we know, who we trust, who brings value and lovely vibes for our mutually beneficial collaboration.
+
+Ready to be counted in, ready to enjoy that event with us?! Apply and get invited!
+
+Can't wait when finally it will happen. 27-Nov, Bangkok's Rooftop, UXUY official BBW opening party!
+
 <a id="event-59f29a9d4fa89be8"></a>
 
 ## #KriptoCuma - #CryptoFriday
@@ -19974,6 +20008,48 @@ Quando e onde
 As convidadas e a programação serão anunciadas progressivamente nesta página.
 
 Certificado de participação: carga horária de 4 horas. Organização: SanFran iLab Parceria: Team1 Brasil
+
+<a id="event-399d911595079683"></a>
+
+## Sunrise Run: BKK Edition
+
+- Record: `luma-crypto-W7bnUIK8lOx0fXq`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T23:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/2i9w84d8>
+
+### Sunrise Run: BKK Edition
+
+Kick off Binance Blockchain Week with a fresh start!
+
+Join Elephants Inc. for a morning 5K run and connect with fellow founders, builders, and friends of the Web3 community. Get moving, soak up the morning energy, and fuel up with coffee and good conversations before diving into a busy day of conference activities.
+
+Event Agenda
+
+6:45 AM | Meet Up
+
+Gather with fellow runners and get ready for the morning. (Meeting Point Benjakitti: https://maps.app.goo.gl/wvvSysnBazYqNCoH8)
+
+7:00 AM | Warm Up
+
+Get moving and loosen up before hitting the road.
+
+7:10 AM | 5K Run
+
+Hit the ground running and enjoy a refreshing morning run together.
+
+8:00 AM | Coffee & Networking
+
+Refuel with coffee and connect with the community.
+
+Whether you're a regular runner or just looking for a refreshing start to the day, everyone's welcome.
+
+Lace up and run with us!
+
+Powered by:
+
+Elephants Inc. (https://elephants.inc/?utm_source=luma) is a non-bank alternative for the AI Era. We are not a bank - we're a smarter way to operate. Elephants Inc helps companies manage spending, fund movements, and cross-border transactions in one intelligent system. Get real-time visibility and AI-powered insights built for modern businesses.
 
 <a id="event-d2d5f2e432c727e5"></a>
 
@@ -20133,6 +20209,47 @@ Hosts Ludovic Bergeron. Co-Lead GDG ESIEA | Ex-Applied ML Research Intern at Chr
 
 About the organiser: We're a community of passionate developers and tech enthusiasts at EPITA! Learn, build, and innovate with Google technologies.
 
+<a id="event-acb086a2b43f5add"></a>
+
+## Nouns House in Bangkok
+
+- Record: `luma-crypto-xMmEd1jXDHJ5kPg`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/nounshouse>
+
+### The Noggles ◨-◨ are nudging their way into Bangkok!
+
+For one day during Binance Blockchain Week, AthenaX (https://x.com/athenax_co), Nouns (https://x.com/nounsdao), and Internoun (https://x.com/Internoun) are opening up Area Zero at Samyan Dragon Town for a nounish afternoon that rolls into a sundowner. Co-hosted with our friends Tria (https://x.com/useTria), InstaSwap (https://x.com/InstaSwap_io), HeyElsa (https://x.com/HeyElsaAI), and Pudgy Penguins (https://x.com/PenguAsia).
+
+Come for live demos from teams shipping right now, short panels, and booths where you can try the products. Stay for the sunset and the conversations.
+
+### What's on
+
+- Live demos from Cluster Protocol (https://x.com/openprotocolfnd), HeyElsa (https://x.com/HeyElsaAI), InstaSwap (https://x.com/InstaSwap_io), and Project:VEX (https://x.com/ProjectVEXai)
+- Panels and talks with Hedera (https://x.com/hedera), Bitkub Academy (https://x.com/BitkubAcademy), and Injective (https://x.com/injective)
+- Merch and prizes from our co-hosts
+- Food and drinks to keep the conversations going
+
+### Who it's for
+
+Builders, founders, creators, traders, and anyone curious about new tech and the products being built across APAC and North America.
+
+Entry is free with registration. Food and drinks are limited, so please only register if you're coming. Show your Luma QR at the door to get your wristband.
+
+### Saturday 28 Nov - 15:00-20:00
+
+Area Zero @ Samyan Dragon Town, Bangkok
+
+Hosted by AthenaX (https://x.com/athenax_co), Nouns (https://x.com/nounsdao), and Internoun (https://x.com/Internoun)
+
+Co-hosts: Tria (https://x.com/useTria) - InstaSwap (https://x.com/InstaSwap_io) - HeyElsa (https://x.com/HeyElsaAI) - Pudgy Penguins (https://x.com/PudgyPenguins)
+
+Partners: Hedera (https://x.com/hedera) - Bitkub Academy (https://x.com/BitkubAcademy) - Injective (https://x.com/injective) - Cluster Protocol (https://x.com/openprotocolfnd) - Project:VEX (https://x.com/ProjectVEXai) - AlphaYields (https://x.com/AlphaYields_AI) - OpenRoboto (https://x.com/openroboto) - DTC Group (https://x.com/DTCGroup_)
+
+Media partners: Cryptomind (https://x.com/cryptomindgroup) - Tokenpost (https://x.com/tokenpost)
+
 <a id="event-5496726a503a6013"></a>
 
 ## 🌱 Touch Grass: Web3 Creators × Founders 🍕🥂
@@ -20279,6 +20396,28 @@ The Ultimate Rooftop Experience. Bangkok skyline, music, and electric energy.
 Connect with the Web3 Crowd. Meet traders, founders, KOLs, and crypto enthusiasts from around the world. > EVENT DETAILS > > Date: Saturday, November 28, 2026 > > Time: 6:00 PM. 10:00 PM (GMT+7) > > Venue: Sky on 20, 26th Floor > > Location: Novotel Bangkok Sukhumvit 20, Bangkok, Thailand LIMITED SPOTS. MAXIMUM ENERGY. Register now to secure your place above Bangkok. 4M Exchange Play Harder. Trade Wilder. www.4m.com (http://www.4m.com/)
 
 Registration is subject to confirmation. Prize eligibility and distribution are subject to the event's official terms and conditions. Alcohol is served only to guests of legal drinking age.
+
+<a id="event-bb71dc669daccc5f"></a>
+
+## United Stablecoin Night
+
+- Record: `luma-crypto-2Lh3kyk1n2UD6iV`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/n0r0eqei>
+
+### About the event
+
+United Stables ($U) and HashGlobal host United Stablecoin Night, an exclusive invite-only side event during Binance Blockchain Week in Bangkok on
+
+### Highlights
+
+The private gathering brings together institutional asset allocators, Real-World Asset (RWA) pioneers, stablecoin issuers, and traditional finance leaders for high-signal discussions and strategic partnerships. Guests explore cross-chain liquidity trends, yield-bearing stablecoin models, and the regulatory bridge between TradFi and decentralized finance over curated cocktails in central Bangkok.
+
+### Attendance & Registration
+
+Attendance is strictly by invitation and approved application. Verified institutional builders, allocators, and partners are invited to request access through the official Luma portal.
 
 <a id="event-625c94aea4374de0"></a>
 
@@ -20865,6 +21004,76 @@ Investment is one of our focus areas, and our gatherings bring people together t
 
 Register for Crypto Brunch (https://conclavepremium.com/blockchainlife2026#cp-register)
 
+<a id="event-e61e5a6297baae11"></a>
+
+## TBE Alpha: Insilico Terminal & InstaSwap
+
+- Record: `luma-crypto-0YBDk1Rx7rWv5oY`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/TBE-AlphaBKK26>
+
+### About the event
+
+The real alpha at Binance Blockchain Week isn't on the main stage, it's in the room after.
+
+Join us on Sunday, 29 November, 6:00 to 10:00 PM, for TBE Alpha: Insilico Terminal & InstaSwap, an exclusive evening for the traders, whales, KOLs, and teams moving the market.
+
+We're taking over a stunning space thirty floors above Sukhumvit: skyline views, tribal-inspired interiors, live music, a fire show on the terrace, and a digital light show inside. A room built for real conversations and the kind of connections that outlast the week.
+
+### What to expect
+
+Conversations: where the next cycle is heading, AI and automated trading, and how the biggest traders manage risk
+
+Atmosphere: drinks, bites, music, and a fire show with the Bangkok skyline as the backdrop
+
+- Curated company: a hand-picked room of active traders, whales, KOLs, trading projects, exchanges, and media
+
+Who should join?
+
+Active traders and whales, KOLs and creators, exchanges, trading and DeFi projects, media, and any team looking to get in front of the people who move crypto markets, from infrastructure and L1s to consumer apps.
+
+Partner with us: to sponsor or partner, message Mihir on Telegram (@mihirodhrani) or email mihir@tbv.xyz.
+
+### About The Best Event
+
+The Best Event (https://thebestevent.com/?utm_source=luma) (https://thebestevent.com/?utm_source=luma)is the global event series where Web3 comes to life. Since 2024 we've hosted 157 events across 24 cities in 14 countries for 83,000+ guests, from intimate private dinners to large-scale nights at venues like Marquee and E11EVEN Miami. Every guest is pre-qualified through TBX, so our partners leave with a pipeline, not just a logo on a banner.
+
+Title Partners:
+
+Insilico Terminal (https://insilicoterminal.com/)is a professional-grade trading terminal built by traders, with more than $850 billion in cumulative trading volume since 2021. It brings advanced execution, order and position management into one place, with support for Hyperliquid Perps and leading crypto exchanges. Free to use.
+
+InstaSwap (https://instaswap.io) is a walletless, non-custodial cross-chain swaps: 10,000+ assets across 69 chains in one transaction, with no approvals or bridging, plus perps and tokenized real-world assets.
+
+0G (https://0g.ai/?utm_source=luma)is the largest AI L1. It is a modular, infinitely scalable blockchain designed to power the future of decentralized AI. It provides the full-stack infrastructure needed to build, run, and scale AI-native applications onchain, including fast data availability, decentralized storage, and a permissionless compute network.
+
+CheesePad (https://cheesepad.ai) is the AI-audited launchpad on BNB Chain, built for the agent economy. AI agents can join presales directly through Binance Agentic Wallet with their open-source agent skill, and projects can run "Agent ID Only" launches reserved for verified agents. Every launch is screened by their AI auditor, liquidity is locked through a transparent LP locker, and Protected Presales give buyers a refund floor against dumps.
+
+Platinum Partners:
+
+BoBe (https://bobe.app) is a Web3 app built to distribute USDT cashback to $BOBE Bakers, straight from its own algotrading activity, 24/7. You Bake. BoBe does the rest.
+
+ZeruAI (https://zeruai.org/?utm_source=luma) is turning onchain behavior into an economy. Its Trust Oracles have already scored 320M+ wallets, power zScore on Etherscan, and provide behavioral intelligence for AML, credit and access. Now ZeruAI is introducing Activity Markets through Zaps - speculative markets where economic activity determines who gets to mine, miners bring supply to market, and traders decide what it's worth.
+
+Tria (https://tria.so) is a self-custodial neobank that unifies spending, trading, and earning across all chains - without bridges, gas, or custodians. Its crypto card is accepted at 130M+ merchants in 150+ countries where Visa is supported.
+
+Gold Partners:
+
+Coincashy (https://coincashy.io/?utm_source=luma) is a gateway between crypto, stablecoins and fiat: crypto processing, OTC liquidity, on/off-ramps, vIBANs and cards for businesses and individuals in 150+ countries, with compliance built in.
+
+AthenaX (https://www.athenax.co/) - "Where New Products Begin." A discovery platform for frontier technology products and research across AI, crypto, biotech, infrastructure, robotics, RWA and developer tools.
+
+HeyElsa (https://heyelsa.ai) is an AI crypto co-pilot that turns plain-language requests into onchain actions such as swapping, bridging and staking across chains.
+
+Nouns (https://nouns.wtf) - One Noun is generated and auctioned every day, forever, and all proceeds go to the Nouns DAO treasury, which funds creative and public-goods projects. The noggles are its signature, and the IP is free for anyone to use.
+
+Strategic Partners:
+
+TBV (TB Ventures) (https://tbv.xyz) is a VC fund focused on leading rounds in early-stage web3 companies in Southeast Asia and North America. TBV is supported by TBE (TB Events) and TBA (TB Advisory), creating a network of services that are underpinned by a 100k+ social following and 10k+ active TG community.
+
+EAK Digital (https://eakdigital.com/?utm_source=luma)is an award-winning global Web3 communications and marketing agency specialising in strategic communications, public relations, influencer marketing, brand development and live experiences.
+
 <a id="event-204a77ca79c91d5a"></a>
 
 ## Proof of AI: Bangkok Closing Night @ Binance Blockchain Week 2026
@@ -21014,6 +21223,72 @@ THE ALPHA TABLE｜曼谷 Web3 私享交流晚宴
 Enhanced Finance 项目介绍：Enhanced Finance 是一个 DeFi 期权收益平台，通过结构化期权策略，帮助用户从现有资产中获取额外收益。
 
 平台致力于将传统金融市场中的期权策略引入链上环境，让数字资产持有者能够以更灵活的方式管理和运用资产
+
+<a id="event-b6bfc6cd8df928b7"></a>
+
+## Private Dinner with Moss
+
+- Record: `luma-crypto-NFJcILxMp6SiU8F`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T11:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/r13r2x1w>
+
+### Private Dinner with Moss - BBW Bangkok
+
+BBW 的白天已经够满了，晚上想留点时间，好好吃顿漂亮饭、聊聊 AI Agent 市场。
+
+11 月 29 日晚上，Moss 会在曼谷组一场小范围的 Private Dinner，邀请一小群熟悉的 KOL、Builder、交易者和生态朋友，一起吃饭、喝酒、聊聊天。
+
+### 这晚会聊什么
+
+市场最近怎么走，AI 还有哪些东西值得继续看，Agent 到底能不能从工具变成真正的经济参与者。
+
+过去一年，Moss 一直在做 AI Agent 和链上资产相关的产品。
+
+最近我们正在进入下一个阶段，让 AI Agent 开始自己发行和运营资产。
+
+这次晚宴也会和大家提前分享一些我们最近在做的东西，以及我们为什么觉得未来 Agent 会越来越像一个真正的链上经济主体。
+
+### 时间地点
+
+日期： 2026 年 11 月 29 日
+
+时间： 18:30-21:30（曼谷时间）
+
+地点： 曼谷｜具体地点审核通过后可查看
+
+晚宴为邀请制，席位有限，报名后会进行审核。
+
+曼谷见，来一起吃顿好的！
+
+BBW days are already packed, so we wanted to save one evening for a good dinner and better conversations around the AI agent market.
+
+On the evening of November 29, Moss is hosting a small private dinner in Bangkok with a curated group of KOLs, builders, traders, and ecosystem friends.
+
+Good food, wine, and plenty of time to actually talk.
+
+### What will we talk about?
+
+Where the market is going, what's still worth paying attention to in AI, and whether agents can move beyond being tools and become real economic participants.
+
+Over the past year, Moss has been building around AI agents and onchain assets.
+
+Now we're entering the next stage: enabling AI agents to issue and manage assets themselves.
+
+We'll share a first look at what we've been working on, and why we think agents will increasingly become real participants in onchain economies.
+
+### Date and Time
+
+Date: November 29, 2026
+
+Time: 6:30-9:30 PM (Bangkok time)
+
+Location: Bangkok - Exact venue will be shared after approval
+
+This is an invite-only dinner with limited seats. Registrations are subject to approval.
+
+See you in Bangkok. Come have a good dinner with us!
 
 <a id="event-df6299c5d64982a1"></a>
 

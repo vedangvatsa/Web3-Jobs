@@ -14,7 +14,7 @@
       "inputHash": "d4451bedb6b6d293"
     },
     "events-runtime": {
-      "inputHash": "ea67752fa3e75c4f"
+      "inputHash": "56bfbbda66bc7de8"
     },
     "glossary-runtime": {
       "inputHash": "f97f77423cbe4d90"
@@ -32,13 +32,13 @@
       "inputHash": "f05c01abebd7a3e9"
     },
     "slug-types": {
-      "inputHash": "f8771c0246723289"
+      "inputHash": "eb922ed70c9262a8"
     },
     "sitemap": {
-      "inputHash": "8d571db3a75b0dbd"
+      "inputHash": "ac2289e90c15809c"
     },
     "public-catalog-sync": {
-      "inputHash": "622c40e99506fdf9"
+      "inputHash": "58cf392e6e91aa69"
     },
     "nomad-catalogs": {
       "inputHash": "97e62bd81cd2041e"

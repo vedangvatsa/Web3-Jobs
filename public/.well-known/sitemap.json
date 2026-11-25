@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-25T12:26:55.963Z",
+  "generatedAt": "2026-11-25T13:00:25.692Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4195,
+  "count": 4200,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -14350,6 +14350,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/nouns-house-bangkok",
+      "lastmod": "2026-11-28",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/nous-research",
       "lastmod": "2026-11-24",
       "changefreq": "weekly",
@@ -16980,6 +16986,12 @@
     {
       "url": "https://hashtagweb3.com/private-dinner-nsureai",
       "lastmod": "2026-12-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/private-dinner-with-moss-bbw-bangkok",
+      "lastmod": "2026-11-29",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -21388,6 +21400,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/sunrise-run-bangkok-edition",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/sunsanction",
       "lastmod": "2026-11-05",
       "changefreq": "monthly",
@@ -21534,6 +21552,12 @@
     {
       "url": "https://hashtagweb3.com/tbb-first",
       "lastmod": "2026-12-04",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/tbe-alpha-insilico-terminal-instaswap-bangkok",
+      "lastmod": "2026-11-29",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -22816,6 +22840,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/united-stablecoin-night-bangkok",
+      "lastmod": "2026-11-28",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/unitour-3",
       "lastmod": "2026-11-30",
       "changefreq": "weekly",
@@ -22880,6 +22910,12 @@
       "lastmod": "2026-09-15",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/uxuy-rooftop-blockchain-week-pre-party-bangkok",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/valencia",
@@ -24672,12 +24708,6 @@
     {
       "url": "https://hashtagweb3.com/whitepaper-bangkok",
       "lastmod": "2026-11-26",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/whitepaper4yn",
-      "lastmod": "2026-11-25",
       "changefreq": "weekly",
       "priority": 0.6
     },

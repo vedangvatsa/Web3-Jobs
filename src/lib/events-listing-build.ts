@@ -333,6 +333,8 @@ function linkSideEventParents(event: Web3Event): Web3Event {
 
   if (sideEventFor.has('breakpoint')) sideEventFor.add('solana-breakpoint');
   if (sideEventFor.has('solana-breakpoint')) sideEventFor.add('breakpoint');
+  if (sideEventFor.has('bbw')) sideEventFor.add('binance-blockchain-week');
+  if (sideEventFor.has('binance-blockchain-week')) sideEventFor.add('bbw');
 
   return sideEventFor.size ? { ...event, sideEventFor: [...sideEventFor] } : event;
 }

@@ -95,9 +95,9 @@
     "words": 111
   },
   "premier-binancebw-2026": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
+    "reviewedAt": "2026-11-25T12:55:40.392Z",
     "method": "human-editorial-polish-conservative",
-    "words": 165
+    "words": 301
   },
   "premier-mainnet-2026": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -9528,5 +9528,35 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-v2",
     "words": 139
+  },
+  "luma-crypto-FCswact5HUPBfye": {
+    "reviewedAt": "2026-11-25T12:55:40.392Z",
+    "method": "human-editorial-polish-v2",
+    "words": 118
+  },
+  "luma-crypto-W7bnUIK8lOx0fXq": {
+    "reviewedAt": "2026-11-25T12:55:40.392Z",
+    "method": "human-editorial-polish-v2",
+    "words": 203
+  },
+  "luma-crypto-xMmEd1jXDHJ5kPg": {
+    "reviewedAt": "2026-11-25T12:55:40.392Z",
+    "method": "human-editorial-polish-v2",
+    "words": 250
+  },
+  "luma-crypto-2Lh3kyk1n2UD6iV": {
+    "reviewedAt": "2026-11-25T12:55:40.393Z",
+    "method": "human-editorial-polish-v2",
+    "words": 107
+  },
+  "luma-crypto-0YBDk1Rx7rWv5oY": {
+    "reviewedAt": "2026-11-25T12:55:40.393Z",
+    "method": "human-editorial-polish-v2",
+    "words": 772
+  },
+  "luma-crypto-NFJcILxMp6SiU8F": {
+    "reviewedAt": "2026-11-25T12:55:40.393Z",
+    "method": "human-editorial-polish-v2",
+    "words": 249
   }
 }

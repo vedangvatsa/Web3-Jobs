@@ -609,7 +609,7 @@
     "id": "premier-binancebw-2026",
     "slug": "bbw",
     "name": "Binance Blockchain Week 2026",
-    "description": "One of the biggest dates in the crypto calendar returns for a special Asia edition live from Bangkok, Thailand, this November.\n\nFinance is making an evolutionary leap and this year's Binance Blockchain Week theme, EVOLVE, is built around it.\n\nTradFi and blockchain are converging, and the markets that once ran on business hours are becoming global, open and always-on.\n\nAt the same time, AI is transforming how freely people move, manage and grow their money, carrying us toward a world where financial freedom is effortless and self-directed.\n\nThe definition of finance is being rewritten in real time. EVOLVE is our recognition that we're not just watching that happen - we're part of the evolution.\n\nFor speaking opportunities, please submit interest via this form.",
+    "description": "Binance Blockchain Week (BBW) Bangkok 2026 is the flagship annual conference hosted by Binance at the Queen Sirikit National Convention Center (QSNCC) in Bangkok, Thailand, from 28 to 29 November 2026. The 2026 gathering convenes global Web3 founders, institutional allocators, core developers, regulators, and digital asset leaders under the headline theme EVOLVE.\n\n## What to expect\n\nBinance Blockchain Week 2026 explores how blockchain architecture, artificial intelligence, and global financial rails are converging into open, 24/7 onchain markets. Programming spans two primary stages:\n\n- Main Stage: Keynotes, executive debates, and high-level macroeconomic discussions on institutional liquidity, sovereign stablecoins, regulatory compliance, and cross-border settlement.\n- Innovation Stage: Technical presentations, interactive workshops, and project showcases focusing on decentralized infrastructure, zero-knowledge scalability, decentralized physical infrastructure (DePIN), and autonomous AI agent economies.\n\nAttendees can also explore an expansive exhibition hall featuring interactive installations, ecosystem lounges, developer hubs, and live protocol demonstrations across BNB Chain and the broader multi-chain ecosystem.\n\n## Side events and community week\n\nThroughout the conference week in Bangkok, ecosystem teams host dozens of satellite gatherings across the city. Featured community meetups, technical hackathons, demo days, VIP networking banquets, and closing celebrations are scheduled across Sukhumvit, Silom, and riverside venues, linked under the official BBW calendar.\n\n## Who should attend\n\nBinance Blockchain Week is designed for crypto founders, protocol engineers, institutional traders, venture capital partners, DeFi builders, liquidity providers, and community members participating in the evolution of digital finance across Asia and globally.\n\n## Venue and travel\n\nThe conference takes place at Queen Sirikit National Convention Center (QSNCC), 60 Ratchadaphisek Road, Khlong Toei, Bangkok. The venue offers direct underground connection via MRT Queen Sirikit National Convention Centre station (Exit 3), providing seamless transit access from central Bangkok hotels and Suvarnabhumi Airport (BKK). Registration passes and credential collection are managed through the official event portal.",
     "startDate": "2026-11-28T09:00:00.000Z",
     "endDate": "2026-11-29T18:00:00.000Z",
     "city": "Bangkok",
@@ -623,10 +623,10 @@
     "venueName": "Queen Sirikit National Convention Center",
     "descriptionSource": {
       "url": "https://www.binanceblockchainweek.com/event/Bangkok2026/Home",
-      "fetchedAt": "2026-11-25T08:52:48.252Z",
+      "fetchedAt": "2026-11-25T12:55:40.331Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Binance Blockchain Week 2026",
-      "sha256": "055db93ff0007785c48a6ae2b9cd0c119920266a934db13dcb3838177f59d669"
+      "pageTitle": "Binance Blockchain Week 2026 | Bangkok, Nov 28–29",
+      "sha256": "1583bdb1e2d267c0e1c6fcb185403e32043dab79f65a98c5303450bb9fad7756"
     }
   },
   {
@@ -2730,7 +2730,10 @@
       "method": "reviewed-primary-sources",
       "pageTitle": "The Alpha Table, BNB and Beyond - Private Thai Dinner",
       "sha256": "b93d7b018abeffeae3f9bec20cabff3b79d9d3ad7b2ee3ca06e7c779e5329fb3"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "curated-bangkok-convergence-fine-dining-brunch",
@@ -3038,7 +3041,10 @@
       "method": "official-section",
       "pageTitle": "WalletConnect Pop Up @ BBW, Bangkok · Luma",
       "sha256": "ce053807ef5db0c6d1a526f4a70d1471b5348c043954094d88a691d5ffe7ad30"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-hnip3uc9",
@@ -3067,7 +3073,10 @@
       "method": "official-section",
       "pageTitle": "BORN UP — Binance Blockchain Week Bangkok Community Networking Meetup · Luma",
       "sha256": "cbd3643929806aea66c9a3cc462e44979bcaa5c37025a76f20ecbbd9909060e7"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-paxmntmc",
@@ -3124,7 +3133,10 @@
       "method": "official-section",
       "pageTitle": "Next Builders: Bangkok Afterparty · Luma",
       "sha256": "bbd6e241243a2ccbe8c325bea67d575d78d631701ff99be5d83487addabb24cd"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-ynrd2ww2",
@@ -3178,7 +3190,10 @@
       "method": "official-section",
       "pageTitle": "Milady Rave Bangkok Binance Week · Luma",
       "sha256": "a7789847529d94bfd510fa93b41e13e9224d5b5be266456873ebcc41a0467293"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-0ig29n0b",
@@ -3207,7 +3222,10 @@
       "method": "reviewed-primary-sources",
       "pageTitle": "Traders Night Bangkok · Luma",
       "sha256": "92f3da04c0588f2bb39cd271fe202d0752c0a0c3be7c0842bd1b041f7717c094"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-1pg6w6u7",
@@ -3236,7 +3254,10 @@
       "method": "official-section",
       "pageTitle": "The Reserved Table_ Binance Blockchain Week · Luma",
       "sha256": "01b9e790c0e3e7db1ff98ceff6985311a5a7cadbb23ee7eddd01c9c034ed23c7"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "curated-picnic-in-the-park-bangkok-2026",
@@ -3299,15 +3320,15 @@
   {
     "id": "curated-pancake-bbw-private-dinner",
     "slug": "pancake-bbw-private-dinner",
-    "name": "Pancake — BBW Private Dinner",
+    "name": "MasterChef Kitchen: Bangkok Private Dinner",
     "description": "## About the event\nPancakeSwap hosts an exclusive VIP Private Dinner during Binance Blockchain Week Bangkok on the evening of Sunday, November 29, 2026. The gathering brings together select ecosystem Key Opinion Leaders (KOLs), top liquidity providers, and strategic partners for an evening celebrating community milestones and product advancements.\n\n## Highlights\nPancakeSwap core contributors share exclusive insights into upcoming roadmap developments, including new cross-chain DEX innovations, enhanced swap routing algorithms, and localized community growth programs across Southeast Asia. Guests enjoy fine dining hospitality and focused strategic networking.\n\n## Venue & Attendance\nHosted at a private fine-dining venue in central Bangkok. Attendance is strictly limited to invited guests holding personalized invitations.\n\nThis listing reflects the organizer's published information for Pancake. BBW Private Dinner on Nov 29, 2026 in Bangkok, Thailand. Register and confirm ticket inclusions on the official event page.",
     "startDate": "2026-11-29T12:00:00.000Z",
     "endDate": "2026-11-29T15:00:00.000Z",
     "city": "Bangkok",
     "country": "Thailand",
     "location": "Bangkok, Thailand",
-    "url": "https://blog.pancakeswap.finance/articles/kitchen-report-october-2026",
-    "website": "https://blog.pancakeswap.finance/articles/kitchen-report-october-2026",
+    "url": "https://luma.com/862k3vql",
+    "website": "https://luma.com/862k3vql",
     "coverImage": "/events/curated-pancake-bbw-private-dinner-e46ede2c.webp",
     "source": "curated",
     "timezone": "Asia/Bangkok",
@@ -3316,12 +3337,15 @@
     "visibility": "public",
     "attendanceMode": "offline",
     "descriptionSource": {
-      "url": "https://blog.pancakeswap.finance/articles/kitchen-report-october-2026",
-      "fetchedAt": "2026-11-23T13:11:07.143Z",
+      "url": "https://luma.com/862k3vql",
+      "fetchedAt": "2026-11-25T12:55:40.331Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Pancake - BBW Private Dinner",
+      "pageTitle": "MasterChef Kitchen: Bangkok Private Dinner · Luma",
       "sha256": "22ffc9db6ba5893ba028911e70e029c40749638764dd8f438067cb7d2fd57b32"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-4c0cgfep",
@@ -3348,7 +3372,10 @@
       "method": "official-section",
       "pageTitle": "Investor Innovator Networking · Luma",
       "sha256": "189b3e53aeea18b9d382a126d1c33d7e05d1a0216b85df5fd1f87c0c80d5cc36"
-    }
+    },
+    "sideEventFor": [
+      "bbw"
+    ]
   },
   {
     "id": "luma-10wk87r5",
