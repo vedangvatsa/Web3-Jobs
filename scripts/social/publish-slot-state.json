@@ -1426,10 +1426,12 @@
           "sbiglobal",
           "cmudap"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-25T14:42:39.733Z",
         "buildId": "daily-20261125-45623166303-1",
-        "rolloutId": "daily-20261125-45623166303-1"
+        "rolloutId": "daily-20261125-45623166303-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-25T15:09:48.355Z"
       }
     ]
   }
