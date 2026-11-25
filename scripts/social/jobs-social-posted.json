@@ -189553,6 +189553,40 @@
       "attemptId": "108c6c03-59df-4c5f-a073-0cffb45db051",
       "verification": "verified",
       "postId": "0x576174a34a18668e3ea936a56ef05d02b21f4265"
+    },
+    {
+      "slug": "tr89",
+      "company": "Blockchain.com",
+      "title": "OTC Sales Trader",
+      "platform": "farcaster",
+      "postedAt": "2026-11-25T18:01:13.333Z",
+      "expectedText": "Blockchain​.com is hiring OTC Sales Trader\n\nhttps://hashtagweb3.com/tr89/fc?og=7",
+      "snapshot": {
+        "id": "8359982",
+        "title": "OTC Sales Trader",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8359982",
+        "date": "2026-11-06T14:15:03-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "London",
+        "department": "Institutional ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "tr89"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring OTC Sales Trader\n\nhttps://hashtagweb3.com/tr89/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/tr89/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "bb500d21-3077-4719-9313-47a2eee915c7",
+      "verification": "creating"
     }
   ]
 }
