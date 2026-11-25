@@ -188433,7 +188433,8 @@
         "link_attachment": "https://hashtagweb3.com/arc54/th?og=7"
       },
       "attemptId": "34fa04c9-7e02-4ece-a632-3b6a8b39e61a",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 25-Nov-26 09:55:28 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AvbK-AKmLnGQs1H6G2dd4R9\"}"
     }
   ]
 }
