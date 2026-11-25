@@ -188780,7 +188780,8 @@
       },
       "account": "channel:founders",
       "attemptId": "736ee2d9-28ee-47dd-b5a8-ff13b3d8993b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd76008d0c1312336c6149079d44417d5426f3477"
     }
   ]
 }
