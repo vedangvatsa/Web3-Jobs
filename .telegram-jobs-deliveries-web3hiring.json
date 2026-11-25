@@ -7075,5 +7075,124 @@
     "slotKey": "2026-11-25:evening",
     "messageId": 16679,
     "sentAt": "2026-11-25T20:36:18.125Z"
+  },
+  "93ad98de-314a-4b7c-a41f-efc67f26e724": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T20:36:20.042Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8311735",
+          "title": "Engineering Manager, Terminal Enterprise Features",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8311735",
+          "date": "2026-10-29T09:45:37-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Toronto",
+          "department": "8512 Terminal - Eng",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng363"
+        },
+        "key": "8311735",
+        "slug": "eng363",
+        "url": "https://hashtagweb3.com/eng363?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Engineering Manager"
+      },
+      {
+        "snapshot": {
+          "id": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+          "title": "Security Software Engineer",
+          "company": "HIFI",
+          "link": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03",
+          "date": "2026-11-04T14:57:10.489+00:00",
+          "source": "Ashby: HIFI [hifi]",
+          "location": "New York City",
+          "department": "Engineering",
+          "salary": "$150,000–$215,000 per year (USD)",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "applyUrl": "https://jobs.ashbyhq.com/hifi/b87454db-52cb-44a2-931b-cfbd49c80d03/application",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec207"
+        },
+        "key": "b87454db-52cb-44a2-931b-cfbd49c80d03",
+        "slug": "sec207",
+        "url": "https://hashtagweb3.com/sec207?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "HIFI",
+        "title": "Security Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "bdd4e03d-f166-46bc-b177-ab1f59b4efb4",
+          "title": "Business System Analyst (MEX Team)",
+          "company": "CoinsPaid",
+          "link": "https://jobs.eu.lever.co/coinspaid/bdd4e03d-f166-46bc-b177-ab1f59b4efb4",
+          "date": "2026-11-16T11:34:33.430Z",
+          "source": "Lever: CoinsPaid [coinspaid]",
+          "location": "Hybrid (Remote - European Region)",
+          "workplaceType": "hybrid",
+          "department": "Products Division",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an143"
+        },
+        "key": "bdd4e03d-f166-46bc-b177-ab1f59b4efb4",
+        "slug": "an143",
+        "url": "https://hashtagweb3.com/an143?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinsPaid",
+        "title": "Business System Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "8940597002",
+          "title": "Underwriter",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8940597002",
+          "date": "2026-11-23T16:32:17-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Customer Operations",
+          "active": true,
+          "salary": "$37 – $41/hr",
+          "dateVerified": true,
+          "slug": "wr14"
+        },
+        "key": "8940597002",
+        "slug": "wr14",
+        "url": "https://hashtagweb3.com/wr14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Underwriter"
+      },
+      {
+        "snapshot": {
+          "id": "ba82ac8b-84b4-4875-8a03-f8170326ae92",
+          "title": "Engineering Manager",
+          "company": "Sapiom",
+          "link": "https://jobs.ashbyhq.com/sapiom/ba82ac8b-84b4-4875-8a03-f8170326ae92",
+          "date": "2026-11-14T03:14:42.555+00:00",
+          "source": "Ashby: Sapiom [sapiom]",
+          "location": "San Francisco, CA",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng853"
+        },
+        "key": "ba82ac8b-84b4-4875-8a03-f8170326ae92",
+        "slug": "eng853",
+        "url": "https://hashtagweb3.com/eng853?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sapiom",
+        "title": "Engineering Manager"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/eng363?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Terminal Enterprise Features</a>\n- HIFI is hiring <a href=\"https://hashtagweb3.com/sec207?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Software Engineer</a>\n- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/an143?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business System Analyst</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/wr14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Underwriter</a>\n- Sapiom is hiring <a href=\"https://hashtagweb3.com/eng853?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager</a>",
+    "slotKey": "2026-11-25:evening"
   }
 }
