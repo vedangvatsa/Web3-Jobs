@@ -1105,5 +1105,42 @@
     "slotKey": "2026-11-25:afternoon",
     "messageId": 193580,
     "sentAt": "2026-11-25T11:58:14.051Z"
+  },
+  "94ee0e07-2827-437f-89ed-41ba30f3a971": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T20:37:03.122Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "headline": "New York bans AI chatbot toys for five years",
+        "summary": "State lawmakers enacted the moratorium following research showing safety failures and exposure risks for children.",
+        "event_rationale": "Covers New York state legislation banning AI interactive toys, representing a distinct regulatory ban not previously reported.",
+        "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "source": "TechCrunch",
+        "originalTitle": "Want to buy your kid an AI toy this Christmas? Not in New York"
+      },
+      {
+        "index": 8,
+        "original_title": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+        "headline": "FCC approves SpaceX plan for orbital AI data centers",
+        "summary": "The agency authorized deployment of up to one million AI chip-equipped satellites for orbital computing infrastructure.",
+        "event_rationale": "Covers regulatory approval for SpaceX's orbital satellite computing project, distinct from all previously posted events.",
+        "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+        "source": "The Verge",
+        "originalTitle": "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space"
+      },
+      {
+        "index": 26,
+        "original_title": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+        "headline": "Anthropic MCP reaches 700 million monthly downloads",
+        "summary": "The company expanded its standard interface protocol to support background tasks and direct file uploads for autonomous agents.",
+        "event_rationale": "Covers adoption milestones and feature expansions for Anthropic's Model Context Protocol, distinct from prior stories.",
+        "link": "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+        "source": "The Decoder",
+        "originalTitle": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
+      }
+    ],
+    "slotKey": "2026-11-25:evening"
   }
 }
