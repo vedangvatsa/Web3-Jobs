@@ -190025,7 +190025,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "8038b27c-e37c-487c-aa81-3957cdc4035c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "urn:li:share:7531417655589785601"
     }
   ]
 }
