@@ -43,6 +43,14 @@ const LUMA_CHROME_TAIL =
   /\n\n(?:Location|Hosted By|Presented by|Registration|## Tickets|## Hosts)\b[\s\S]*$/i;
 
 /** Drop Luma page chrome when a full HTML export was stored as the description. */
+/** Drop trailing Luma date/venue/host-list footer duplicated from the page chrome. */
+export function stripLumaEventFooterDuplicate(text: string): string {
+  return text.replace(
+    /\n\n[\u{1F4C5}\u{1F5D3}\uFE0F]?\s*(?:Saturday|Sunday|Monday|Tuesday|Wednesday|Thursday|Friday)[\s\S]*?\n(?:Media partners|Partners|Co-hosts):[^\n]+\s*$/iu,
+    '',
+  );
+}
+
 export function stripLumaExportChrome(text: string): string {
   if (!/LumaSkip to Content/i.test(text)) return text;
   const normalized = text.replace(/\r\n?/g, '\n');
@@ -186,6 +194,7 @@ export function rebreakCollapsedEventParagraphs(text: string): string {
 export function cleanupEventDescriptionFormat(text: string): string {
   if (!text) return text;
   let out = stripLumaExportChrome(text);
+  out = stripLumaEventFooterDuplicate(out);
   out = rebreakCollapsedEventParagraphs(out);
   out = bulletizeShortFeatureRuns(out);
   for (const [pattern, replacement] of GRAMMAR_FIXES) out = out.replace(pattern, replacement);

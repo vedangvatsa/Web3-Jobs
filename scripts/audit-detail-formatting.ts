@@ -42,6 +42,10 @@ async function main() {
     const slug = event.slug || event.id;
     const html = renderToStaticMarkup(createElement(EventGuideContent, { editorial: guide }));
     for (const issue of descriptionFormattingIssues(html)) add(`event-${issue.kind}`, slug, issue.sample);
+    const $ = cheerio.load(html);
+    for (const el of $('[data-event-description] a[href^="http"]').toArray()) {
+      add('event-body-hyperlink', slug, $(el).text() || $(el).attr('href') || '');
+    }
     for (const section of guide.sections) {
       if (!section.heading.trim() || section.heading.length > 180) add('event-heading', slug, section.heading);
       for (const paragraph of section.content) {

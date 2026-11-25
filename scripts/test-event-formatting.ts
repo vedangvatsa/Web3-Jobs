@@ -4,7 +4,8 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import * as cheerio from 'cheerio';
 import { EventGuideContent } from '../src/components/event-guide-content';
 import { buildEditorialFromOrganizerDescription } from '../src/lib/luma-event-content';
-import { renderDescriptionInline } from '../src/lib/description-inline';
+import { renderDescriptionInline, renderEventBodyInline } from '../src/lib/description-inline';
+import { polishEventDescriptionLinks } from '../src/lib/event-description-links';
 import { splitEventDescriptionBlocks } from '../src/lib/event-description-blocks';
 import { descriptionFormattingIssues, textJunkRunIssues } from './lib/description-format-checks';
 import type { Web3Event } from '../src/lib/events';
@@ -18,7 +19,7 @@ const description = '# About the event\nA workshop for developers.\n## Schedule\
 const event: Web3Event = { id: 'formatting-example', name: 'Developer workshop', startDate: '2027-01-01',
   location: 'London', url: 'https://example.com/event', coverImage: null, description };
 const editorial = buildEditorialFromOrganizerDescription(event);
-const html = renderToStaticMarkup(createElement(EventGuideContent, { editorial }));
+const html = renderToStaticMarkup(createElement(EventGuideContent, { editorial, contentMarker: 'grant' }));
 const $ = cheerio.load(html);
 assert.deepEqual(descriptionFormattingIssues(html), []);
 assert.ok($('h2').toArray().some(el => $(el).text() === 'Schedule'));
@@ -26,7 +27,8 @@ assert.equal($('ol').attr('start'), '3');
 assert.equal($('ol > li').length, 2);
 assert.equal($('ol > li > ul > li').length, 2);
 assert.equal($('strong').first().text(), 'project');
-assert.equal($('a').first().text(), 'the guide');
+assert.ok($.text().includes('the guide'), 'organizer copy keeps link labels without outbound URLs');
+assert.equal($('a[href^="http"]').length, 0, 'editorial renderer does not emit outbound anchors');
 assert.equal($('pre code').text(), 'const value = "<div>";\n  return value;');
 assert.ok($('p').toArray().some(el => $(el).text().startsWith('4:00pm')));
 assert.ok(!$('h2,h3').toArray().some(el => /Speaker|Sam Smith/.test($(el).text())));
@@ -98,7 +100,15 @@ const listHtml = renderToStaticMarkup(
 );
 const listPage = cheerio.load(listHtml);
 assert.ok(listPage('ul li').length >= 3, 'What to expect bullets render as a list');
-assert.ok(listPage('a[href="https://example.com"]').length >= 1, 'pipe-separated social links become anchors');
+assert.equal(listPage('a[href^="http"]').length, 0, 'event body must not render outbound hyperlinks');
+assert.match(
+  polishEventDescriptionLinks('LinkedIn (https://example.com/in/co) | Website (https://example.com)'),
+  /LinkedIn · Website/,
+);
+assert.doesNotMatch(
+  polishEventDescriptionLinks('Tria (https://x.com/useTria)'),
+  /https?:\/\//,
+);
 
 const chrome =
   'Title · LumaSkip to Content\n\nHosted By\n\nAlice\n\nAbout Event\n\nReal copy paragraph one.\n\nReal copy paragraph two.\n\nLocation\n\nHidden address';
@@ -109,5 +119,11 @@ const amenity = bulletizeShortFeatureRuns(
   'Venue and Facilities\n\nFour indoor pickleball courts\nTwo outdoor pickleball courts\nThree beach volleyball courts',
 );
 assert.match(amenity, /- Four indoor pickleball courts/);
+
+const plainPartners = renderToStaticMarkup(createElement('p', null, renderEventBodyInline(
+  'Co-hosts: Tria (https://x.com/useTria) · InstaSwap (https://x.com/InstaSwap_io)',
+)));
+assert.ok(!plainPartners.includes('http'), 'event inline renderer drops URLs');
+assert.match(plainPartners, /Tria/);
 
 console.log('Event formatting regression passed: agenda, nested lists, numbering, long headings, code, emphasis and safe links.');

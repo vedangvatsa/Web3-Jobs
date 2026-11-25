@@ -58,6 +58,10 @@ function isHeaderLine(line: string): boolean {
   if (trimmed.length <= 160 && /^#{1,6}\s+\S/.test(trimmed)) return true;
   if (isAllCapsSectionTitle(trimmed)) return true;
   if (/^(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b/i.test(trimmed) && trimmed.length <= 80) {
+  // Date/time footers like "Saturday 28 Nov · 15:00–20:00" are not section titles.
+    if (/\d{1,2}(?::\d{2})?\s*(?:[-–—]|·|Nov|Dec|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct)/i.test(trimmed)) {
+      return false;
+    }
     return true;
   }
   if (!trimmed || trimmed.length > 60 || trimmed.length < 2) return false;

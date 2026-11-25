@@ -1,51 +1,59 @@
-function stripTrailingUrlPunctuation(url: string): string {
-  return url.replace(/[.,;!?]+$/, '');
-}
+import { stripUrlsFromOrganizerCopy } from './event-url-plaintext';
 
 const SPEAKER_HERE_INLINE =
-  /(?:The\s+)?(?:full\s+)?list of speakers is here:\s*(https?:\/\/[^\s<>"']+)/gi;
+  /(?:The\s+)?(?:full\s+)?list of speakers is here:\s*https?:\/\/[^\s<>"']+/gi;
 
 const SPEAKER_COLON_LINE =
-  /^(.{0,140}?\b(?:speakers?|speaker\s+(?:list|roster|directory|page))\b.{0,100}?)\s*:\s*(https?:\/\/[^\s<>"']+)\.?\s*$/i;
-
-function speakerDirectoryMarkdown(url: string): string {
-  const href = stripTrailingUrlPunctuation(url);
-  return `See the [official speaker directory](${href}) for the full roster.`;
-}
+  /^(.{0,140}?\b(?:speakers?|speaker\s+(?:list|roster|directory|page))\b.{0,100}?)\s*:\s*https?:\/\/[^\s<>"']+\.?\s*$/i;
 
 const SOCIAL_LINK_LABEL =
   /^(?:LinkedIn|Website|X|Twitter|Facebook|Instagram|YouTube|Telegram|Discord)\s*\(\s*https?:\/\/[^\s)]+\s*\)$/i;
 
-/** Luma exports "LinkedIn (url) | Website (url)" rows as plain text. */
-function polishPipeSeparatedSocialLinks(line: string): string {
+const SPONSOR_ROW = /^(Co-hosts|Partners|Media partners):\s*(.+)$/i;
+
+function labelFromParenLink(part: string): string | null {
+  const match = /^(.+?)\s*\(\s*https?:\/\/[^\s)]+\s*\)\s*$/i.exec(part.trim());
+  return match ? match[1].trim() : null;
+}
+
+function polishSponsorLabelRow(line: string): string {
+  const trimmed = line.trim();
+  const row = SPONSOR_ROW.exec(trimmed);
+  if (!row) return line;
+  const body = row[2].replace(/\s*·\s*/g, ', ').replace(/\s*-\s*/g, ', ');
+  return `${row[1]}: ${stripUrlsFromOrganizerCopy(body)}`;
+}
+
+/** `LinkedIn (url) | Website (url)` → `LinkedIn · Website` (no URLs). */
+function polishPipeSeparatedSocialLabels(line: string): string {
   const trimmed = line.trim();
   if (!trimmed.includes('|') || !/\(\s*https?:\/\//.test(trimmed)) return line;
   const parts = trimmed.split(/\s*\|\s*/);
   if (parts.length < 2 || !parts.every((part) => SOCIAL_LINK_LABEL.test(part.trim()))) return line;
-  const links = parts.map((part) => {
-    const match = /^(.+?)\s*\(\s*(https?:\/\/[^\s)]+)\s*\)\s*$/i.exec(part.trim());
-    if (!match) return null;
-    return `[${match[1].trim()}](${match[2]})`;
-  });
-  if (links.some((link) => !link)) return line;
-  return links.join(' · ');
+  const labels = parts.map((part) => labelFromParenLink(part));
+  if (labels.some((label) => !label)) return line;
+  return labels.join(' · ');
 }
 
-/** Normalize pasted speaker-directory lines so detail pages never show raw roster URLs. */
+/** Normalize pasted speaker-directory lines without embedding URLs. */
 export function polishEventDescriptionLinks(text: string): string {
-  return text
+  const linePolished = text
     .split('\n')
     .map((line) => {
       const trimmed = line.trim();
-      if (!trimmed || /\[[^\]]+\]\(https?:\/\//.test(trimmed)) return line;
+      if (!trimmed) return line;
 
-      const pipeLinks = polishPipeSeparatedSocialLinks(line);
-      if (pipeLinks !== line) return pipeLinks;
+      const sponsorRow = polishSponsorLabelRow(line);
+      if (sponsorRow !== line) return sponsorRow;
+
+      const pipeLabels = polishPipeSeparatedSocialLabels(line);
+      if (pipeLabels !== line) return pipeLabels;
 
       if (/(?:The\s+)?(?:full\s+)?list of speakers is here:\s*https?:\/\//i.test(trimmed)) {
         SPEAKER_HERE_INLINE.lastIndex = 0;
-        return trimmed.replace(SPEAKER_HERE_INLINE, (_match, url: string) =>
-          speakerDirectoryMarkdown(url),
+        return trimmed.replace(
+          SPEAKER_HERE_INLINE,
+          'See the official speaker directory for the full roster.',
         );
       }
 
@@ -53,11 +61,13 @@ export function polishEventDescriptionLinks(text: string): string {
       if (colonMatch) {
         const prefix = colonMatch[1].trim();
         if (/ is here$/i.test(prefix) || /full list/i.test(prefix) || /speakers page/i.test(prefix)) {
-          return speakerDirectoryMarkdown(colonMatch[2]);
+          return 'See the official speaker directory for the full roster.';
         }
       }
 
       return line;
     })
     .join('\n');
+
+  return stripUrlsFromOrganizerCopy(linePolished);
 }
