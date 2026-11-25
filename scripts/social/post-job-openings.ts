@@ -1020,7 +1020,7 @@ async function waitForQuietDeploy(): Promise<void> {
       const runs = (((await checksRes.json()) as any)?.check_runs || []) as Array<{ name: string; status: string }>;
       const busy = runs.some(
         (r) =>
-          (/deploy cloudflare worker/i.test(r.name) || /app hosting/i.test(r.name)) &&
+          /app hosting/i.test(r.name) &&
           (r.status === 'in_progress' || r.status === 'queued')
       );
       if (!busy) {

@@ -1,7 +1,6 @@
 import path from 'node:path';
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
-import { initOpenNextCloudflareForDev } from '@opennextjs/cloudflare';
 import { JOB_LISTING_CACHE_HEADER } from './src/lib/job-age-cache.mjs';
 import { PUBLIC_PAGE_ALIASES, SOCIAL_UTM_MAP } from './src/lib/social-share-constants.mjs';
 
@@ -501,19 +500,5 @@ const nextConfig = {
     formats: ['image/webp', 'image/avif'],
   },
 };
-
-const isTestOrScript =
-  process.env.NODE_ENV === 'test' ||
-  process.argv.some(a => a.includes('test') || a.includes('scripts/')) ||
-  process.env.npm_lifecycle_event?.includes('test') ||
-  process.env.npm_lifecycle_event === 'prebuild';
-
-if (!isTestOrScript && process.env.NODE_ENV !== 'production') {
-  try {
-    initOpenNextCloudflareForDev();
-  } catch {
-    // ignore if wrangler dev is not configured
-  }
-}
 
 export default nextConfig;
