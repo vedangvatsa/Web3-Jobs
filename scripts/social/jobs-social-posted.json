@@ -187386,6 +187386,46 @@
       "attemptId": "2577a5af-7695-4b3b-8e39-5d63da4c1aa2",
       "verification": "verified",
       "postId": "0x35560bf760c6600190296a05c23ef95ed54e1261"
+    },
+    {
+      "slug": "sls532",
+      "company": "Block",
+      "title": "Channel Sales Support Agent",
+      "platform": "linkedin",
+      "postedAt": "2026-11-25T13:26:54.282Z",
+      "expectedText": "Block is hiring Channel Sales Support Agent: https://hashtagweb3.com/sls532/li?og=7",
+      "snapshot": {
+        "id": "5183293008",
+        "title": "Channel Sales Support Agent",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5183293008?gh_jid=5183293008",
+        "date": "2026-11-17T12:59:17-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Melbourne, Australia",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls532"
+      },
+      "payload": {
+        "text": "Block is hiring Channel Sales Support Agent: https://hashtagweb3.com/sls532/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls532/li?og=7",
+          "title": "Channel Sales Support Agent at Block | Hashtag Web3",
+          "description": "Join Block as Channel Sales Support Agent. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls532.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "e821a94c-e5ca-48e8-b917-7d71560b9f10",
+      "verification": "creating"
     }
   ]
 }
