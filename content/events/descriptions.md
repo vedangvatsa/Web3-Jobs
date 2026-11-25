@@ -42677,6 +42677,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-10c7c211cdaccc87"></a>
+
+## 🥂 Workday x Unicorn Bakery – Exclusive Scale-up Founder Dinner
+
+- Record: `luma-evt-5OPstH1MPNx1ySS`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/founder-dinner-25-11>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5f6b1dba7cbe7703"></a>
 
 ## dizrupt Web3 CFO Roundtable #8
@@ -42686,6 +42698,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-25T17:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/fiylw54q>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-69eef9846e931aa7"></a>
+
+## SWC Cup \| Crypto Padel League Final
+
+- Record: `luma-evt-qejDoKqLkEYSumg`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-25T17:45:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/p2y6kowo>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45023,6 +45047,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-a5a0722811122105"></a>
+
+## Bienvenidos a charla en Español.
+
+- Record: `mu-317390011`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T18:30:00-06:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/317390011/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ce01a2ae4b3ef87f"></a>
 
 ## Bitcoin for Beginners (1st Tuesdays) - Portland, Oregon Meetup
@@ -45275,6 +45311,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-539df9042cdead11"></a>
+
+## haricot vert charm bar pop-up in soho
+
+- Record: `luma-evt-bAD8Wpsn5OYqC4u`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/nckk43ch>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-fb73431afd50e2a3"></a>
 
 ## Artnet Airwaves Podcast Festival
@@ -45404,6 +45452,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-02T23:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/sjjctivh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-081c2999c9a7ab93"></a>
+
+## HIFI x TabaPay: Stablecoin Cocktail Hour
+
+- Record: `luma-evt-ri6M45YLF9L189j`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/3z3yve4f>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f2a5cf2e7e7c53fb"></a>
+
+## Electronics Craft Night
+
+- Record: `luma-evt-sQELwgoilnog6Bb`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T23:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4oi1vffk>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45748,6 +45820,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-03T17:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/snk6z7ox>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6dbc26e717ade132"></a>
+
+## haricot vert chicago pop-up at festive collective
+
+- Record: `luma-evt-gyJF7rawKkyy9Tf`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/yypgq9ed>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -46502,7 +46586,7 @@ Sponsorship: https://docsend.com/v/gpqj2/trust-circle-wealth-abu-dhabi
 - Record: `luma-host-evt-evt-dz0MXGbPcSzCZXS`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-07T15:00:00.000Z
-- Description: Unverified stored copy
+- Description: Missing
 - Original page: <https://luma.com/SolanaArcadeSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -48295,7 +48379,7 @@ An organizer description has not been verified for this record. Any previous cop
 - Record: `luma-host-evt-evt-THSqqMrXCBU5xtP`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-12T12:00:00.000Z
-- Description: Unverified stored copy
+- Description: Missing
 - Original page: <https://luma.com/SolanaYachtCruiseSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -48490,6 +48574,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Description: Unverified stored copy
 - Original page: <https://www.globaltradingshow.com>
 - Original page: <https://www.globaltradingshow.com/tickets/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-89f667a425b7283d"></a>
+
+## Privacy on Solana with Helius
+
+- Record: `luma-host-evt-evt-vRpKexHieAFSBZS`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-15T12:30:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/zzlgvahg>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
