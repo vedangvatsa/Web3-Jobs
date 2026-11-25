@@ -338,5 +338,9 @@
   "fomo-labs": {
     "website": "https://fomo.family/",
     "logo": "/logo/companies/fomo-labs.png"
+  },
+  "infosys": {
+    "website": "https://infosys.com",
+    "logo": "/logo/companies/infosys.png"
   }
 }

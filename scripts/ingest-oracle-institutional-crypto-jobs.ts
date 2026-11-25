@@ -154,7 +154,7 @@ async function ingestBoard(
     }
 
     const title = (detail.Title || listRow.Title || '').replace(/\s+/g, ' ').trim();
-    const link = board.jobLink(reqId);
+    const link = board.applyLink(reqId);
     if (!title || !isConcreteJobOpening(title, link)) continue;
 
     const location = (detail.PrimaryLocation || listRow.PrimaryLocation || 'Multiple Locations').trim();

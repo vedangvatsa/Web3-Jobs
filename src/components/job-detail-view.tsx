@@ -13,6 +13,7 @@ import { buildJobPostingSchema } from '@/lib/job-posting-schema';
 import { isGenericJobTemplateHtml } from '@/lib/job-guides';
 import { getImageVariants } from '@/lib/responsive-images-server';
 import { isJobAgeEligible } from '@/lib/job-age-policy.mjs';
+import { getJobApplyUrl } from '@/lib/job-apply-url';
 import { notFound } from 'next/navigation';
 
 export { parseJobAddress, ensureAddressCountry, toAddressCountryCode } from '@/lib/job-posting-location';
@@ -60,6 +61,7 @@ export function JobDetailView({
       return null;
     }
   })();
+  const applyUrl = getJobApplyUrl(job);
   const absoluteLogoUrl = logoSrc
     ? logoSrc.startsWith('http')
       ? logoSrc
@@ -151,7 +153,7 @@ export function JobDetailView({
             jobId={job.id}
             jobTitle={job.title}
             companyName={job.company}
-            jobUrl={job.link}
+            jobUrl={applyUrl}
             source={job.source}
             date={job.dateVerified === false ? undefined : job.date}
           >
@@ -187,7 +189,7 @@ export function JobDetailView({
       <DirectoryDisclaimer
         variant="job"
         entityName={job.company}
-        outboundUrl={job.link}
+        outboundUrl={applyUrl}
         showOutboundNote={isJobAgeEligible(job)}
       />
     </article>

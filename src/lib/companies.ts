@@ -273,6 +273,10 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'microstrategy': 'https://www.strategy.com',
  'pwc': 'https://www.pwc.com',
  'pricewaterhousecoopers': 'https://www.pwc.com',
+ 'ey': 'https://www.ey.com',
+ 'deloitte': 'https://www.deloitte.com',
+ 'accenture': 'https://www.accenture.com',
+ 'infosys': 'https://www.infosys.com',
  'franklin-templeton': 'https://www.franklintempleton.com',
  'goldman-sachs': 'https://www.goldmansachs.com',
  'jpmorgan-chase': 'https://www.jpmorganchase.com',
@@ -525,10 +529,8 @@ export const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'quicknode': 'https://www.quicknode.com',
  'nous-research': 'https://nousresearch.com',
  // Competitor-gap ATS employers (Nov 2026)
- ledger: 'https://www.ledger.com',
  arca: 'https://www.arcawealth.com',
  nibiru: 'https://nibiru.fi',
- sfox: 'https://www.sfox.com',
  xion: 'https://xion.burnt.com',
  dtcpay: 'https://www.dtcpay.com',
  'chaincode-labs': 'https://chaincode.com',
@@ -705,6 +707,18 @@ function normalizeCompanyName(name: string): string {
   if (lower === 'pwc' || lower.includes('pricewaterhousecoopers') || lower.startsWith('pwc ')) {
     return 'pwc';
   }
+  if (lower === 'ey' || lower.includes('ernst') || lower.includes('young')) {
+    return 'ey';
+  }
+  if (lower === 'deloitte' || lower.startsWith('deloitte ')) {
+    return 'deloitte';
+  }
+  if (lower === 'accenture' || lower.startsWith('accenture ')) {
+    return 'accenture';
+  }
+  if (lower === 'infosys' || lower.startsWith('infosys ')) {
+    return 'infosys';
+  }
   if (lower.includes('franklin') || lower.includes('templeton')) {
     return 'franklin-templeton';
   }
@@ -759,6 +773,10 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   if (normalized === 'liminal') return 'Liminal Custody';
   if (normalized === 'strategy') return 'Strategy';
   if (normalized === 'pwc') return 'PwC';
+  if (normalized === 'ey') return 'EY';
+  if (normalized === 'deloitte') return 'Deloitte';
+  if (normalized === 'accenture') return 'Accenture';
+  if (normalized === 'infosys') return 'Infosys';
   if (normalized === 'franklin-templeton') return 'Franklin Templeton';
   if (normalized === 'goldman-sachs') return 'Goldman Sachs';
   if (normalized === 'jpmorgan-chase') return 'JPMorgan Chase';

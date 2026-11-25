@@ -1,36 +1,34 @@
 {
-  "generatedAt": "2026-11-25T09:58:31.941Z",
+  "generatedAt": "2026-11-25T11:39:02.663Z",
   "year": 2026,
   "snapshotLabel": "Q4 2026 Index",
   "totalEmployers": 100,
-  "totalActiveJobs": 1140,
+  "totalActiveJobs": 1226,
   "avgRemotePct": 40,
-  "avgSalaryTransparencyPct": 13,
+  "avgSalaryTransparencyPct": 12,
   "employers": [
     {
       "rank": 1,
-      "slug": "okx",
-      "name": "OKX",
+      "slug": "bybit",
+      "name": "Bybit",
       "category": "Exchanges & Custody",
-      "website": "https://www.okx.com",
-      "headquarters": "Seychelles",
-      "founded": 2017,
-      "activeJobs": 65,
-      "departmentCount": 17,
-      "remotePercentage": 11,
-      "salaryTransparencyPct": 23,
-      "salaryBenchmark": "$268.3k – $313.1k/yr",
+      "website": "https://bybit.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 67,
+      "departmentCount": 26,
+      "remotePercentage": 24,
+      "salaryTransparencyPct": 0,
       "scores": {
         "hiringVolume": 60,
         "departmentBreadth": 20,
-        "remoteFlexibility": 1.1,
-        "salaryTransparency": 2.3,
-        "composite": 83.4
+        "remoteFlexibility": 2.4,
+        "salaryTransparency": 0,
+        "composite": 82.4
       },
       "highlightBadges": [
         "Multi-Department"
       ],
-      "summary": "OKX, founded in 2017 and headquartered in Seychelles with major hubs in Dubai, Hong Kong and San Jose, operates one of the world's largest crypto exchanges and the OKX Wallet/Web3 ecosystem. Beyond spot and derivatives trading, it builds OKX Chain (X Layer), MPC self-custody and DeFi aggregation used by 50M+ users. Bac..."
+      "summary": "Bybit, founded in 2018 by Ben Zhou in Dubai, grew into a top-5 derivatives exchange with 30M+ users, known for deep liquidity in perpetuals, options and copy trading. Headquartered in Dubai with hubs in Hong Kong and Singapore, it sponsors F1 and invests in Web3 via Bybit Web3 wallet and Mantle ecosystem. Bybit emphasi..."
     },
     {
       "rank": 2,
@@ -40,11 +38,11 @@
       "website": "https://coinbase.com",
       "headquarters": "San Francisco, California, USA",
       "founded": 2012,
-      "activeJobs": 64,
+      "activeJobs": 66,
       "departmentCount": 22,
       "remotePercentage": 94,
       "salaryTransparencyPct": 94,
-      "salaryBenchmark": "$124.8k – $146.8k/yr",
+      "salaryBenchmark": "$212.2k/yr",
       "scores": {
         "hiringVolume": 59.8,
         "departmentBreadth": 20,
@@ -61,26 +59,28 @@
     },
     {
       "rank": 3,
-      "slug": "bybit",
-      "name": "Bybit",
+      "slug": "okx",
+      "name": "OKX",
       "category": "Exchanges & Custody",
-      "website": "https://bybit.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 62,
-      "departmentCount": 25,
-      "remotePercentage": 26,
-      "salaryTransparencyPct": 0,
+      "website": "https://www.okx.com",
+      "headquarters": "Seychelles",
+      "founded": 2017,
+      "activeJobs": 66,
+      "departmentCount": 17,
+      "remotePercentage": 12,
+      "salaryTransparencyPct": 20,
+      "salaryBenchmark": "$268.3k – $313.1k/yr",
       "scores": {
-        "hiringVolume": 59.3,
+        "hiringVolume": 59.8,
         "departmentBreadth": 20,
-        "remoteFlexibility": 2.6,
-        "salaryTransparency": 0,
-        "composite": 81.9
+        "remoteFlexibility": 1.2,
+        "salaryTransparency": 2,
+        "composite": 83
       },
       "highlightBadges": [
         "Multi-Department"
       ],
-      "summary": "Bybit, founded in 2018 by Ben Zhou in Dubai, grew into a top-5 derivatives exchange with 30M+ users, known for deep liquidity in perpetuals, options and copy trading. Headquartered in Dubai with hubs in Hong Kong and Singapore, it sponsors F1 and invests in Web3 via Bybit Web3 wallet and Mantle ecosystem. Bybit emphasi..."
+      "summary": "OKX, founded in 2017 and headquartered in Seychelles with major hubs in Dubai, Hong Kong and San Jose, operates one of the world's largest crypto exchanges and the OKX Wallet/Web3 ecosystem. Beyond spot and derivatives trading, it builds OKX Chain (X Layer), MPC self-custody and DeFi aggregation used by 50M+ users. Bac..."
     },
     {
       "rank": 4,
@@ -94,11 +94,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 57.1,
+        "hiringVolume": 56.7,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 59.1
+        "composite": 58.7
       },
       "highlightBadges": [],
       "summary": "The Goldman Sachs Group, Inc. is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of financial services to corporations, financial institutions, governments, and individuals. Goldman Sachs advises on mergers and acquisitions, raises capital, makes markets,..."
@@ -111,17 +111,17 @@
       "website": "https://ripple.com",
       "headquarters": "San Francisco, California, USA",
       "founded": 2012,
-      "activeJobs": 43,
-      "departmentCount": 12,
+      "activeJobs": 47,
+      "departmentCount": 13,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 42,
-      "salaryBenchmark": "$220.5k – $220.7k/yr",
+      "salaryTransparencyPct": 47,
+      "salaryBenchmark": "$200k – $240k/yr",
       "scores": {
-        "hiringVolume": 54.2,
+        "hiringVolume": 55,
         "departmentBreadth": 20,
         "remoteFlexibility": 0,
-        "salaryTransparency": 4.2,
-        "composite": 78.4
+        "salaryTransparency": 4.7,
+        "composite": 79.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -136,16 +136,16 @@
       "website": "https://kraken.com",
       "headquarters": "San Francisco, California, USA",
       "founded": 2011,
-      "activeJobs": 39,
-      "departmentCount": 11,
+      "activeJobs": 42,
+      "departmentCount": 10,
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 52.8,
+        "hiringVolume": 53.5,
         "departmentBreadth": 20,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 82.8
+        "composite": 83.5
       },
       "highlightBadges": [
         "100% Remote",
@@ -165,11 +165,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 50.1,
+        "hiringVolume": 49.7,
         "departmentBreadth": 20,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 70.1
+        "composite": 69.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -188,11 +188,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 48.7,
+        "hiringVolume": 48.4,
         "departmentBreadth": 18,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 66.7
+        "composite": 66.4
       },
       "highlightBadges": [
         "Multi-Department"
@@ -201,29 +201,79 @@
     },
     {
       "rank": 9,
+      "slug": "crypto-com",
+      "name": "Crypto.com",
+      "category": "Exchanges & Custody",
+      "website": "https://crypto.com",
+      "headquarters": "Singapore",
+      "activeJobs": 28,
+      "departmentCount": 8,
+      "remotePercentage": 4,
+      "salaryTransparencyPct": 46,
+      "salaryBenchmark": "USD 200,000 - USD 300,000 per year",
+      "scores": {
+        "hiringVolume": 47.9,
+        "departmentBreadth": 16,
+        "remoteFlexibility": 0.4,
+        "salaryTransparency": 4.6,
+        "composite": 68.9
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "Crypto.com, founded in 2016 in Hong Kong by Kris Marszalek, runs a top-5 exchange and card program serving 100M+ users in 90+ countries, plus DeFi Wallet self-custody and Cronos chain. Known for high-profile marketing and regulatory pushes, it holds licenses in Singapore, France and the UAE. Headquartered in Singapore,..."
+    },
+    {
+      "rank": 10,
+      "slug": "drw",
+      "name": "DRW",
+      "category": "Trading & Quant",
+      "website": "https://www.drw.com",
+      "headquarters": "Chicago, Illinois, USA",
+      "founded": 1992,
+      "activeJobs": 26,
+      "departmentCount": 21,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 58,
+      "salaryBenchmark": "$175k – $225k/yr",
+      "scores": {
+        "hiringVolume": 46.9,
+        "departmentBreadth": 20,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 5.8,
+        "composite": 72.7
+      },
+      "highlightBadges": [
+        "Salary Transparency",
+        "Multi-Department"
+      ],
+      "summary": "DRW, founded in 1992 in Chicago, is a diversified proprietary trading firm operating across equities, fixed income, FX, commodities, energy and crypto with offices in North America, Europe and Asia. The firm trades its own capital and is known for technology-driven execution, research culture and autonomy. In digital a..."
+    },
+    {
+      "rank": 11,
       "slug": "trm-labs",
       "name": "TRM Labs",
       "category": "Security & Auditing",
       "website": "https://www.trmlabs.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 27,
+      "activeJobs": 26,
       "departmentCount": 3,
-      "remotePercentage": 93,
+      "remotePercentage": 92,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 47.7,
+        "hiringVolume": 46.9,
         "departmentBreadth": 6,
-        "remoteFlexibility": 9.3,
+        "remoteFlexibility": 9.2,
         "salaryTransparency": 0,
-        "composite": 63
+        "composite": 62.1
       },
       "highlightBadges": [
-        "93% Remote"
+        "92% Remote"
       ],
       "summary": "TRM Labs, founded in 2018 in San Francisco by Esteban Castaño, provides blockchain intelligence for 45+ regulators and 1,000+ institutions to detect fraud, sanctions and money laundering across 30+ chains. Backed by Tiger Global and Thoma Bravo, TRM traces on-chain activity and builds risk scoring for exchanges, banks ..."
     },
     {
-      "rank": 10,
+      "rank": 12,
       "slug": "galaxy-digital",
       "name": "Galaxy Digital",
       "category": "Venture & Research",
@@ -236,11 +286,11 @@
       "salaryTransparencyPct": 15,
       "salaryBenchmark": "$100k/yr",
       "scores": {
-        "hiringVolume": 47.2,
+        "hiringVolume": 46.9,
         "departmentBreadth": 12,
         "remoteFlexibility": 0.4,
         "salaryTransparency": 1.5,
-        "composite": 61.1
+        "composite": 60.8
       },
       "highlightBadges": [
         "Multi-Department"
@@ -248,57 +298,80 @@
       "summary": "Galaxy Digital, founded in 2018 in New York by Mike Novogratz, is a diversified crypto financial services firm spanning trading, asset management, investment banking and mining. Listed in Toronto (GLXY) with $10B+ AUM and a large OTC desk, Galaxy advised on major mining and protocol deals. New York-headquartered with h..."
     },
     {
-      "rank": 11,
-      "slug": "drw",
-      "name": "DRW",
+      "rank": 13,
+      "slug": "ajaib-crypto",
+      "name": "Ajaib Crypto",
       "category": "Trading & Quant",
-      "website": "https://www.drw.com",
-      "headquarters": "Chicago, Illinois, USA",
-      "founded": 1992,
+      "website": "https://ajaib.co.id",
+      "headquarters": "Remote / Global",
       "activeJobs": 25,
-      "departmentCount": 21,
+      "departmentCount": 6,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 56,
-      "salaryBenchmark": "$125k – $160k/yr",
+      "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 46.7,
-        "departmentBreadth": 20,
+        "hiringVolume": 46.3,
+        "departmentBreadth": 12,
         "remoteFlexibility": 0,
-        "salaryTransparency": 5.6,
-        "composite": 72.3
+        "salaryTransparency": 0,
+        "composite": 58.3
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "Ajaib Crypto, launched as the dedicated digital asset arm of Indonesian unicorn Ajaib founded in 2018 by Anderson Sumarli and Yada Piyajomkwan in Jakarta, is one of Southeast Asia's fastest-growing retail crypto and investment platforms. Licensed and supervised by Bappebti and the Financial Services Authority (OJK), Aj..."
+    },
+    {
+      "rank": 14,
+      "slug": "figure",
+      "name": "Figure",
+      "category": "Fintech & Payments",
+      "website": "https://www.figure.com",
+      "headquarters": "San Francisco, USA",
+      "activeJobs": 24,
+      "departmentCount": 11,
+      "remotePercentage": 63,
+      "salaryTransparencyPct": 75,
+      "salaryBenchmark": "$156.8k – $235.2k/yr",
+      "scores": {
+        "hiringVolume": 45.8,
+        "departmentBreadth": 20,
+        "remoteFlexibility": 6.3,
+        "salaryTransparency": 7.5,
+        "composite": 79.6
       },
       "highlightBadges": [
         "Salary Transparency",
         "Multi-Department"
       ],
-      "summary": "DRW, founded in 1992 in Chicago, is a diversified proprietary trading firm operating across equities, fixed income, FX, commodities, energy and crypto with offices in North America, Europe and Asia. The firm trades its own capital and is known for technology-driven execution, research culture and autonomy. In digital a..."
+      "summary": "Figure, founded in 2018 by Mike Cagney and June Ou in San Francisco, builds blockchain-native lending and capital markets infrastructure on the Provenance Blockchain. Its flagship products include Figure HELOCs, mortgage and marketplace lending with on-chain securitization that shortens settlement from weeks to days. H..."
     },
     {
-      "rank": 12,
-      "slug": "crypto-com",
-      "name": "Crypto.com",
-      "category": "Exchanges & Custody",
-      "website": "https://crypto.com",
-      "headquarters": "Singapore",
-      "activeJobs": 25,
+      "rank": 15,
+      "slug": "bvnk",
+      "name": "BVNK",
+      "category": "Fintech & Payments",
+      "website": "https://bvnk.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 24,
       "departmentCount": 8,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 48,
-      "salaryBenchmark": "USD 150,000 - USD 200,000 per year",
+      "salaryTransparencyPct": 71,
+      "salaryBenchmark": "€75k – €100k/yr",
       "scores": {
-        "hiringVolume": 46.7,
+        "hiringVolume": 45.8,
         "departmentBreadth": 16,
         "remoteFlexibility": 0,
-        "salaryTransparency": 4.8,
-        "composite": 67.5
+        "salaryTransparency": 7.1,
+        "composite": 68.9
       },
       "highlightBadges": [
+        "Salary Transparency",
         "Multi-Department"
       ],
-      "summary": "Crypto.com, founded in 2016 in Hong Kong by Kris Marszalek, runs a top-5 exchange and card program serving 100M+ users in 90+ countries, plus DeFi Wallet self-custody and Cronos chain. Known for high-profile marketing and regulatory pushes, it holds licenses in Singapore, France and the UAE. Headquartered in Singapore,..."
+      "summary": "BVNK, founded in 2021 by Donald Jackson, Chris Harmse and Jesse Hemson-Struthers in London, builds stablecoin-powered banking infrastructure for businesses. Its platform offers global payments, treasury and embedded wallets that let companies hold, convert and pay in stablecoins and fiat across numerous currencies with..."
     },
     {
-      "rank": 13,
+      "rank": 16,
       "slug": "bitdeer",
       "name": "Bitdeer",
       "category": "Exchanges & Custody",
@@ -309,11 +382,11 @@
       "remotePercentage": 17,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 46.1,
+        "hiringVolume": 45.8,
         "departmentBreadth": 16,
         "remoteFlexibility": 1.7,
         "salaryTransparency": 0,
-        "composite": 63.8
+        "composite": 63.5
       },
       "highlightBadges": [
         "Multi-Department"
@@ -321,143 +394,43 @@
       "summary": "Bitdeer, founded in 2021 via Bitmain spin-out led by Jihan Wu and listed on Nasdaq (BTDR), operates proprietary and hosted Bitcoin mining data centers in the US, Norway and Bhutan with 20+ EH/s under management. Singapore-headquartered, it sells cloud hashrate and HPC services. Sustainability is central, with hydro and..."
     },
     {
-      "rank": 14,
-      "slug": "ajaib-crypto",
-      "name": "Ajaib Crypto",
-      "category": "Trading & Quant",
-      "website": "https://ajaib.co.id",
-      "headquarters": "Remote / Global",
-      "activeJobs": 24,
-      "departmentCount": 6,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 46.1,
-        "departmentBreadth": 12,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 58.1
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "Ajaib Crypto, launched as the dedicated digital asset arm of Indonesian unicorn Ajaib founded in 2018 by Anderson Sumarli and Yada Piyajomkwan in Jakarta, is one of Southeast Asia's fastest-growing retail crypto and investment platforms. Licensed and supervised by Bappebti and the Financial Services Authority (OJK), Aj..."
-    },
-    {
-      "rank": 15,
-      "slug": "bvnk",
-      "name": "BVNK",
-      "category": "Fintech & Payments",
-      "website": "https://bvnk.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 22,
-      "departmentCount": 7,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 77,
-      "salaryBenchmark": "€75k – €100k/yr",
-      "scores": {
-        "hiringVolume": 44.9,
-        "departmentBreadth": 14,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 7.7,
-        "composite": 66.6
-      },
-      "highlightBadges": [
-        "Salary Transparency",
-        "Multi-Department"
-      ],
-      "summary": "BVNK, founded in 2021 by Donald Jackson, Chris Harmse and Jesse Hemson-Struthers in London, builds stablecoin-powered banking infrastructure for businesses. Its platform offers global payments, treasury and embedded wallets that let companies hold, convert and pay in stablecoins and fiat across numerous currencies with..."
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "slug": "chainalysis",
       "name": "Chainalysis",
       "category": "Security & Auditing",
       "website": "https://www.chainalysis.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 22,
+      "activeJobs": 23,
       "departmentCount": 3,
-      "remotePercentage": 82,
+      "remotePercentage": 78,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 44.9,
+        "hiringVolume": 45.2,
         "departmentBreadth": 6,
-        "remoteFlexibility": 8.2,
+        "remoteFlexibility": 7.8,
         "salaryTransparency": 0,
-        "composite": 59.1
+        "composite": 59
       },
-      "highlightBadges": [
-        "82% Remote"
-      ],
+      "highlightBadges": [],
       "summary": "Chainalysis, founded in 2014 in New York by Michael Gronager, is the leading blockchain analytics platform used by 1,200+ governments and institutions to investigate crypto crime, comply with sanctions and measure market activity. Covering 15+ chains, its Reactor and KYT products traced flows in major cases. Valued at ..."
     },
     {
-      "rank": 17,
-      "slug": "figure",
-      "name": "Figure",
-      "category": "Fintech & Payments",
-      "website": "https://www.figure.com",
-      "headquarters": "San Francisco, USA",
-      "activeJobs": 20,
-      "departmentCount": 10,
-      "remotePercentage": 50,
-      "salaryTransparencyPct": 75,
-      "salaryBenchmark": "$45.8k – $68.8k/yr",
-      "scores": {
-        "hiringVolume": 43.6,
-        "departmentBreadth": 20,
-        "remoteFlexibility": 5,
-        "salaryTransparency": 7.5,
-        "composite": 76.1
-      },
-      "highlightBadges": [
-        "Salary Transparency",
-        "Multi-Department"
-      ],
-      "summary": "Figure, founded in 2018 by Mike Cagney and June Ou in San Francisco, builds blockchain-native lending and capital markets infrastructure on the Provenance Blockchain. Its flagship products include Figure HELOCs, mortgage and marketplace lending with on-chain securitization that shortens settlement from weeks to days. H..."
-    },
-    {
       "rank": 18,
-      "slug": "bitgo",
-      "name": "BitGo",
-      "category": "Exchanges & Custody",
-      "website": "https://bitgo.com",
-      "headquarters": "Palo Alto, California, USA",
-      "founded": 2013,
-      "activeJobs": 18,
-      "departmentCount": 8,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 11,
-      "salaryBenchmark": "$275k – $320k/yr",
-      "scores": {
-        "hiringVolume": 42.2,
-        "departmentBreadth": 16,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 1.1,
-        "composite": 59.3
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "BitGo, founded in 2013 in Palo Alto by Mike Belshe and Ben Davenport with Will O'Brien and Bill Lee, pioneered multi-signature custody for Bitcoin and built institutional wallet infrastructure now used for qualified custody, hot wallets, self-custody, staking and trading. The company became a qualified custodian with S..."
-    },
-    {
-      "rank": 19,
       "slug": "bitpanda",
       "name": "Bitpanda",
       "category": "Exchanges & Custody",
       "website": "https://bitpanda.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 18,
+      "activeJobs": 20,
       "departmentCount": 5,
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 42.2,
+        "hiringVolume": 43.3,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 52.2
+        "composite": 53.3
       },
       "highlightBadges": [
         "Multi-Department"
@@ -465,7 +438,99 @@
       "summary": "Bitpanda, founded in 2014 in Vienna by Eric Demuth, Paul Klanschek and Christian Trummer as Coinimal, is a leading European investment platform offering stocks, exchange-traded funds, crypto and precious metals to millions of users. Regulated under European frameworks and licensed in Austria, the platform emphasizes re..."
     },
     {
+      "rank": 19,
+      "slug": "ey",
+      "name": "EY",
+      "category": "AI & DePIN",
+      "website": "https://www.ey.com",
+      "headquarters": "London, United Kingdom",
+      "activeJobs": 19,
+      "departmentCount": 1,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 42.6,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 44.6
+      },
+      "highlightBadges": [],
+      "summary": "EY provides assurance, consulting, tax, and strategy services with a global blockchain and digital assets practice spanning audit, custody, tokenization, and smart contract assurance."
+    },
+    {
       "rank": 20,
+      "slug": "dtcpay",
+      "name": "dtcpay",
+      "category": "Fintech & Payments",
+      "website": "https://www.dtcpay.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 17,
+      "departmentCount": 12,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 41.1,
+        "departmentBreadth": 20,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 61.1
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "dtcpay is a Singapore-based fintech providing fiat and crypto payment, wallet, and merchant acceptance services for businesses operating across Asia and digital-asset corridors. Licensed under MAS and related frameworks, dtcpay supports stablecoin settlement, card programs, and treasury accounts for enterprises that ne..."
+    },
+    {
+      "rank": 21,
+      "slug": "bitgo",
+      "name": "BitGo",
+      "category": "Exchanges & Custody",
+      "website": "https://bitgo.com",
+      "headquarters": "Palo Alto, California, USA",
+      "founded": 2013,
+      "activeJobs": 17,
+      "departmentCount": 7,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 12,
+      "salaryBenchmark": "$275k – $320k/yr",
+      "scores": {
+        "hiringVolume": 41.1,
+        "departmentBreadth": 14,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 1.2,
+        "composite": 56.3
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "BitGo, founded in 2013 in Palo Alto by Mike Belshe and Ben Davenport with Will O'Brien and Bill Lee, pioneered multi-signature custody for Bitcoin and built institutional wallet infrastructure now used for qualified custody, hot wallets, self-custody, staking and trading. The company became a qualified custodian with S..."
+    },
+    {
+      "rank": 22,
+      "slug": "fireblocks",
+      "name": "Fireblocks",
+      "category": "Infrastructure & Tooling",
+      "website": "https://fireblocks.com",
+      "headquarters": "New York, New York, USA",
+      "founded": 2018,
+      "activeJobs": 16,
+      "departmentCount": 4,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 25,
+      "salaryBenchmark": "$140k – $180.8k/yr",
+      "scores": {
+        "hiringVolume": 40.3,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 2.5,
+        "composite": 50.8
+      },
+      "highlightBadges": [],
+      "summary": "Fireblocks, founded in 2018 in Tel Aviv and New York by Michael Shaulov, provides institutional MPC custody and settlement for 1,800+ institutions securing $6T+ in transfers across 60+ chains. Its network connects exchanges, custodians and banks without single points of failure. Valued at $8B in 2022, Fireblocks is the..."
+    },
+    {
+      "rank": 23,
       "slug": "gomining",
       "name": "GoMining",
       "category": "AI & DePIN",
@@ -476,11 +541,11 @@
       "remotePercentage": 93,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.7,
+        "hiringVolume": 39.4,
         "departmentBreadth": 10,
         "remoteFlexibility": 9.3,
         "salaryTransparency": 0,
-        "composite": 59
+        "composite": 58.7
       },
       "highlightBadges": [
         "93% Remote",
@@ -489,7 +554,7 @@
       "summary": "GoMining, established in 2021 in the British Virgin Islands as GMT and operating from Limassol, Cyprus, runs a Bitcoin mining ecosystem that tokenizes hashrate via GoMining NFTs and the GOMINING token. Led by Chief Executive Mark Zalan, the platform connects retail users to industrial data centers without hardware owne..."
     },
     {
-      "rank": 21,
+      "rank": 24,
       "slug": "riot-platforms",
       "name": "Riot Platforms",
       "category": "AI & DePIN",
@@ -500,11 +565,11 @@
       "remotePercentage": 27,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.7,
+        "hiringVolume": 39.4,
         "departmentBreadth": 12,
         "remoteFlexibility": 2.7,
         "salaryTransparency": 0,
-        "composite": 54.4
+        "composite": 54.1
       },
       "highlightBadges": [
         "Multi-Department"
@@ -512,7 +577,7 @@
       "summary": "Riot Platforms, founded in 2000 as Bioptix and pivoted to mining, now Nasdaq-listed (RIOT) and headquartered in Castle Rock, Colorado, operates one of the largest US Bitcoin mining fleets with 12+ EH/s and a 700 MW Rockdale, Texas site, plus Kentucky expansion. It emphasizes vertical integration, power strategy and imm..."
     },
     {
-      "rank": 22,
+      "rank": 25,
       "slug": "rain",
       "name": "Rain",
       "category": "Fintech & Payments",
@@ -523,11 +588,11 @@
       "remotePercentage": 47,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.7,
+        "hiringVolume": 39.4,
         "departmentBreadth": 10,
         "remoteFlexibility": 4.7,
         "salaryTransparency": 0,
-        "composite": 54.4
+        "composite": 54.1
       },
       "highlightBadges": [
         "Multi-Department"
@@ -535,28 +600,52 @@
       "summary": "Rain builds stablecoin-powered card issuing and global payments infrastructure for platforms, fintechs, and Web3 companies that need branded spend and payout products. Its APIs cover consumer and corporate card programs, wallet accounts, on-ramps and off-ramps, rewards, and cross-border settlement using digital dollar ..."
     },
     {
-      "rank": 23,
+      "rank": 26,
+      "slug": "circle",
+      "name": "Circle",
+      "category": "Fintech & Payments",
+      "website": "https://circle.com",
+      "headquarters": "Boston, Massachusetts, USA",
+      "founded": 2013,
+      "activeJobs": 15,
+      "departmentCount": 1,
+      "remotePercentage": 100,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 39.4,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 10,
+        "salaryTransparency": 0,
+        "composite": 51.4
+      },
+      "highlightBadges": [
+        "100% Remote"
+      ],
+      "summary": "Circle, founded in 2013 in Boston by Jeremy Allaire and Sean Neville, issues USDC, the second-largest regulated stablecoin with $35B+ in circulation, and EURC, plus developer tools for programmable money. With $400B+ USDC on-chain settlement annually and a path to public listing, Circle emphasizes audited reserves and ..."
+    },
+    {
+      "rank": 27,
       "slug": "jpmorgan-chase",
       "name": "JPMorgan Chase",
       "category": "Web3 Infrastructure",
       "website": "https://www.jpmorganchase.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 15,
+      "activeJobs": 14,
       "departmentCount": 1,
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.7,
+        "hiringVolume": 38.5,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 41.7
+        "composite": 40.5
       },
       "highlightBadges": [],
       "summary": "JPMorgan Chase & Co. is a leading global financial services firm with businesses in investment banking, asset and wealth management, consumer and community banking, and commercial banking. JPMorgan Chase serves millions of customers, clients and communities in over 100 global markets. For more than 225 years, the firm'..."
     },
     {
-      "rank": 24,
+      "rank": 28,
       "slug": "tether",
       "name": "Tether",
       "category": "Fintech & Payments",
@@ -568,11 +657,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 37.8,
+        "hiringVolume": 37.5,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 59.8
+        "composite": 59.5
       },
       "highlightBadges": [
         "100% Remote",
@@ -581,30 +670,7 @@
       "summary": "Tether, founded in 2014 and operated from the British Virgin Islands, issues USDT, the largest stablecoin with $110B+ in circulation, and related assets EURT, CNHT and XAUT. It underpins most centralized and DeFi settlement and runs substantial US Treasury reserves. The company also backs mining, energy and peer-to-pee..."
     },
     {
-      "rank": 25,
-      "slug": "fireblocks",
-      "name": "Fireblocks",
-      "category": "Infrastructure & Tooling",
-      "website": "https://fireblocks.com",
-      "headquarters": "New York, New York, USA",
-      "founded": 2018,
-      "activeJobs": 13,
-      "departmentCount": 4,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 31,
-      "salaryBenchmark": "$140k – $180.8k/yr",
-      "scores": {
-        "hiringVolume": 37.8,
-        "departmentBreadth": 8,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 3.1,
-        "composite": 48.9
-      },
-      "highlightBadges": [],
-      "summary": "Fireblocks, founded in 2018 in Tel Aviv and New York by Michael Shaulov, provides institutional MPC custody and settlement for 1,800+ institutions securing $6T+ in transfers across 60+ chains. Its network connects exchanges, custodians and banks without single points of failure. Valued at $8B in 2022, Fireblocks is the..."
-    },
-    {
-      "rank": 26,
+      "rank": 29,
       "slug": "dfns",
       "name": "DFNS",
       "category": "Exchanges & Custody",
@@ -616,11 +682,11 @@
       "salaryTransparencyPct": 100,
       "salaryBenchmark": "$250k – $350k/yr",
       "scores": {
-        "hiringVolume": 36.7,
+        "hiringVolume": 36.5,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 10,
-        "composite": 68.7
+        "composite": 68.5
       },
       "highlightBadges": [
         "100% Remote",
@@ -630,31 +696,75 @@
       "summary": "Dfns, founded in 2020 in Paris, builds wallet-as-a-service infrastructure that lets banks, fintechs, and Web3 platforms embed MPC-secured, non-custodial wallets and transaction policy engines through APIs. Its developer stack covers wallet provisioning, key ceremonies, user recovery, delegation rules, and chain-agnosti..."
     },
     {
-      "rank": 27,
-      "slug": "circle",
-      "name": "Circle",
-      "category": "Fintech & Payments",
-      "website": "https://circle.com",
-      "headquarters": "Boston, Massachusetts, USA",
-      "founded": 2013,
-      "activeJobs": 11,
-      "departmentCount": 1,
-      "remotePercentage": 100,
+      "rank": 30,
+      "slug": "ledger",
+      "name": "Ledger",
+      "category": "Exchanges & Custody",
+      "website": "https://ledger.com",
+      "headquarters": "Paris, France",
+      "activeJobs": 12,
+      "departmentCount": 3,
+      "remotePercentage": 92,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 35.6,
-        "departmentBreadth": 2,
-        "remoteFlexibility": 10,
+        "hiringVolume": 36.5,
+        "departmentBreadth": 6,
+        "remoteFlexibility": 9.2,
         "salaryTransparency": 0,
-        "composite": 47.6
+        "composite": 51.7
       },
       "highlightBadges": [
-        "100% Remote"
+        "92% Remote"
       ],
-      "summary": "Circle, founded in 2013 in Boston by Jeremy Allaire and Sean Neville, issues USDC, the second-largest regulated stablecoin with $35B+ in circulation, and EURC, plus developer tools for programmable money. With $400B+ USDC on-chain settlement annually and a path to public listing, Circle emphasizes audited reserves and ..."
+      "summary": "Ledger, founded in 2014 by Eric Larcheveque, Joel Pobeda, Nicolas Bacca and Thomas France in Paris, develops hardware wallets and enterprise custody for digital assets. Its flagship devices, Ledger Nano S Plus, X and Stax, plus Ledger Live companion, let consumers and institutions secure private keys in secure element ..."
     },
     {
-      "rank": 28,
+      "rank": 31,
+      "slug": "ondo-finance",
+      "name": "Ondo Finance",
+      "category": "DeFi Protocols",
+      "website": "https://ondo.finance",
+      "headquarters": "Remote / Global",
+      "activeJobs": 11,
+      "departmentCount": 5,
+      "remotePercentage": 64,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 35.3,
+        "departmentBreadth": 10,
+        "remoteFlexibility": 6.4,
+        "salaryTransparency": 0,
+        "composite": 51.7
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "Ondo Finance, founded in 2021 in New York by Nathan Allman, formerly of Goldman Sachs, with co-founder Pinku Surana, leads tokenized Treasuries and yield products including OUSG and USDY, plus development of Ondo Chain for institutional settlement. The platform bridges Wall Street yield to decentralized finance composa..."
+    },
+    {
+      "rank": 32,
+      "slug": "complyadvantage",
+      "name": "ComplyAdvantage",
+      "category": "Security & Auditing",
+      "website": "https://complyadvantage.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 11,
+      "departmentCount": 4,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 27,
+      "salaryBenchmark": "$90k – $110k/yr",
+      "scores": {
+        "hiringVolume": 35.3,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 2.7,
+        "composite": 46
+      },
+      "highlightBadges": [],
+      "summary": "ComplyAdvantage, founded in 2014 in London by Charles Delingpole, provides artificial intelligence-driven financial crime compliance including transaction monitoring, customer screening and risk rating for banks and fintechs. Its platform covers sanctions, politically exposed persons and adverse media across many langu..."
+    },
+    {
+      "rank": 33,
       "slug": "btse",
       "name": "BTSE",
       "category": "Exchanges & Custody",
@@ -666,17 +776,17 @@
       "remotePercentage": 36,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 35.6,
+        "hiringVolume": 35.3,
         "departmentBreadth": 2,
         "remoteFlexibility": 3.6,
         "salaryTransparency": 0,
-        "composite": 41.2
+        "composite": 40.9
       },
       "highlightBadges": [],
       "summary": "BTSE, founded in 2018 and operating across Taipei and the British Virgin Islands, is a leading cryptocurrency exchange and Web3 fintech infrastructure provider. BTSE delivers high-performance spot and derivatives trading, deep multi-currency order books, and enterprise white-label exchange infrastructure for financial ..."
     },
     {
-      "rank": 29,
+      "rank": 34,
       "slug": "a16z-crypto",
       "name": "a16z crypto",
       "category": "Venture & Research",
@@ -688,11 +798,11 @@
       "salaryTransparencyPct": 80,
       "salaryBenchmark": "$149k – $165k/yr",
       "scores": {
-        "hiringVolume": 34.3,
+        "hiringVolume": 34.1,
         "departmentBreadth": 14,
         "remoteFlexibility": 0,
         "salaryTransparency": 8,
-        "composite": 56.3
+        "composite": 56.1
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -701,7 +811,32 @@
       "summary": "a16z crypto is the dedicated digital assets practice at Andreessen Horowitz, investing in crypto protocols, infrastructure, and consumer Web3 companies from early seed through growth stages. The team publishes open research, runs Crypto Startup School, and supports portfolio companies on token design, governance, secur..."
     },
     {
-      "rank": 30,
+      "rank": 35,
+      "slug": "coinspaid",
+      "name": "CoinsPaid",
+      "category": "Fintech & Payments",
+      "website": "https://coinspaid.com",
+      "headquarters": "Tallinn, Estonia",
+      "founded": 2014,
+      "activeJobs": 10,
+      "departmentCount": 6,
+      "remotePercentage": 100,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 34.1,
+        "departmentBreadth": 12,
+        "remoteFlexibility": 10,
+        "salaryTransparency": 0,
+        "composite": 56.1
+      },
+      "highlightBadges": [
+        "100% Remote",
+        "Multi-Department"
+      ],
+      "summary": "CoinsPaid (operating CryptoProcessing by CoinsPaid), founded in 2014 by Max Krupyshev and headquartered in Tallinn, Estonia, is a licensed European cryptocurrency payment ecosystem and merchant gateway. Providing secure crypto payment processing, corporate multi-currency treasury wallets, and automated fiat settlement ..."
+    },
+    {
+      "rank": 36,
       "slug": "paxos",
       "name": "Paxos",
       "category": "Infrastructure & Tooling",
@@ -712,11 +847,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 34.3,
+        "hiringVolume": 34.1,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 56.3
+        "composite": 56.1
       },
       "highlightBadges": [
         "100% Remote",
@@ -725,123 +860,53 @@
       "summary": "Paxos, founded in 2012 as itBit by Charles Cascarilla and Richmond Teo in New York, operates regulated blockchain infrastructure for stablecoins, settlement and custody. As a New York limited-purpose trust company overseen by NYDFS, it issues and custodies Pax Dollar (USDP), PayPal USD (PYUSD) with PayPal, and previous..."
     },
     {
-      "rank": 31,
-      "slug": "bullish",
-      "name": "Bullish",
-      "category": "Exchanges & Custody",
-      "website": "https://www.bullish.com/",
-      "headquarters": "Remote / Global",
-      "activeJobs": 10,
-      "departmentCount": 1,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 34.3,
-        "departmentBreadth": 2,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 36.3
-      },
-      "highlightBadges": [],
-      "summary": "Bullish operates a regulated digital asset exchange and institutional trading platform built for deep liquidity, automated market making, and transparent order-book execution. Licensed by the Gibraltar Financial Services Commission, Bullish pairs exchange infrastructure with portfolio and treasury tooling aimed at prof..."
-    },
-    {
-      "rank": 32,
-      "slug": "coinspaid",
-      "name": "CoinsPaid",
+      "rank": 37,
+      "slug": "sardine",
+      "name": "Sardine",
       "category": "Fintech & Payments",
-      "website": "https://coinspaid.com",
-      "headquarters": "Tallinn, Estonia",
-      "founded": 2014,
+      "website": "https://sardine.ai",
+      "headquarters": "Remote / Global",
       "activeJobs": 9,
       "departmentCount": 6,
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 33,
+        "hiringVolume": 32.7,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 55
+        "composite": 54.7
       },
       "highlightBadges": [
         "100% Remote",
         "Multi-Department"
       ],
-      "summary": "CoinsPaid (operating CryptoProcessing by CoinsPaid), founded in 2014 by Max Krupyshev and headquartered in Tallinn, Estonia, is a licensed European cryptocurrency payment ecosystem and merchant gateway. Providing secure crypto payment processing, corporate multi-currency treasury wallets, and automated fiat settlement ..."
+      "summary": "Sardine, founded in 2020 in San Francisco by Soups Ranjan with co-founders Aditya Goel and Zahid Shaikh, builds real-time fraud and compliance infrastructure for fintech and crypto that combines device, identity and behavior signals with AI risk scoring. Its platform helps hundreds of customers including fintechs and c..."
     },
     {
-      "rank": 33,
-      "slug": "phantom",
-      "name": "Phantom",
-      "category": "Exchanges & Custody",
-      "website": "https://phantom.app",
-      "headquarters": "San Francisco, California, USA",
-      "founded": 2021,
-      "activeJobs": 9,
-      "departmentCount": 5,
-      "remotePercentage": 100,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 33,
-        "departmentBreadth": 10,
-        "remoteFlexibility": 10,
-        "salaryTransparency": 0,
-        "composite": 53
-      },
-      "highlightBadges": [
-        "100% Remote",
-        "Multi-Department"
-      ],
-      "summary": "Phantom, founded in 2021 by Brandon Millman, Chris Kalani and Francesco Agosti in San Francisco, builds the leading self-custody wallet for Solana and multichain ecosystems. Originally a Solana-native browser extension, it now supports Ethereum, Polygon and Bitcoin with in-app staking, swaps, NFT management and Ledger ..."
-    },
-    {
-      "rank": 34,
-      "slug": "ondo-finance",
-      "name": "Ondo Finance",
-      "category": "DeFi Protocols",
-      "website": "https://ondo.finance",
+      "rank": 38,
+      "slug": "jump-trading",
+      "name": "Jump Trading",
+      "category": "Trading & Quant",
+      "website": "https://www.jumptrading.com",
       "headquarters": "Remote / Global",
       "activeJobs": 9,
-      "departmentCount": 5,
-      "remotePercentage": 56,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 33,
-        "departmentBreadth": 10,
-        "remoteFlexibility": 5.6,
-        "salaryTransparency": 0,
-        "composite": 48.6
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "Ondo Finance, founded in 2021 in New York by Nathan Allman, formerly of Goldman Sachs, with co-founder Pinku Surana, leads tokenized Treasuries and yield products including OUSG and USDY, plus development of Ondo Chain for institutional settlement. The platform bridges Wall Street yield to decentralized finance composa..."
-    },
-    {
-      "rank": 35,
-      "slug": "complyadvantage",
-      "name": "ComplyAdvantage",
-      "category": "Security & Auditing",
-      "website": "https://complyadvantage.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 9,
-      "departmentCount": 4,
+      "departmentCount": 3,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 33,
-      "salaryBenchmark": "$90k – $110k/yr",
+      "salaryTransparencyPct": 44,
+      "salaryBenchmark": "$150k – $200k/yr",
       "scores": {
-        "hiringVolume": 33,
-        "departmentBreadth": 8,
+        "hiringVolume": 32.7,
+        "departmentBreadth": 6,
         "remoteFlexibility": 0,
-        "salaryTransparency": 3.3,
-        "composite": 44.3
+        "salaryTransparency": 4.4,
+        "composite": 43.1
       },
       "highlightBadges": [],
-      "summary": "ComplyAdvantage, founded in 2014 in London by Charles Delingpole, provides artificial intelligence-driven financial crime compliance including transaction monitoring, customer screening and risk rating for banks and fintechs. Its platform covers sanctions, politically exposed persons and adverse media across many langu..."
+      "summary": "At Jump, traders, builders, and researchers solve the hardest market problems, improving models, tools, and systems that power global trading. Jump Trading Group stresses research-grounded strategies stress-tested in live markets, cross-disciplinary engineering, and teams that work from first principles on models and p..."
     },
     {
-      "rank": 36,
+      "rank": 39,
       "slug": "blockchain-com",
       "name": "Blockchain.com",
       "category": "Fintech & Payments",
@@ -852,11 +917,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 33,
+        "hiringVolume": 32.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 43
+        "composite": 42.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -864,7 +929,7 @@
       "summary": "Blockchain.com, founded in 2011 in Luxembourg and London by Peter Smith, pioneered the first Bitcoin block explorer and now serves 90M+ wallets and institutional trading via an exchange and custody. One of the earliest crypto brands, it has raised $500M+ and remains private. Headquartered in London with hubs in Miami a..."
     },
     {
-      "rank": 37,
+      "rank": 40,
       "slug": "story-protocol",
       "name": "Story Protocol",
       "category": "L1 / L2 Protocols",
@@ -875,41 +940,63 @@
       "remotePercentage": 11,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 33,
+        "hiringVolume": 32.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 1.1,
         "salaryTransparency": 0,
-        "composite": 40.1
+        "composite": 39.8
       },
       "highlightBadges": [],
       "summary": "Story Protocol, built by PIP Labs and backed by a16z crypto, is the programmable intellectual property Layer 1 blockchain engineered to tokenize, protect, and monetize creative IP in the age of generative AI. By turning creative assets, models, and characters into on-chain IP Legos with embedded licensing, remix rules,..."
     },
     {
-      "rank": 38,
-      "slug": "sardine",
-      "name": "Sardine",
-      "category": "Fintech & Payments",
-      "website": "https://sardine.ai",
+      "rank": 41,
+      "slug": "bullish",
+      "name": "Bullish",
+      "category": "Exchanges & Custody",
+      "website": "https://www.bullish.com/",
       "headquarters": "Remote / Global",
+      "activeJobs": 9,
+      "departmentCount": 1,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 32.7,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 34.7
+      },
+      "highlightBadges": [],
+      "summary": "Bullish operates a regulated digital asset exchange and institutional trading platform built for deep liquidity, automated market making, and transparent order-book execution. Licensed by the Gibraltar Financial Services Commission, Bullish pairs exchange infrastructure with portfolio and treasury tooling aimed at prof..."
+    },
+    {
+      "rank": 42,
+      "slug": "phantom",
+      "name": "Phantom",
+      "category": "Exchanges & Custody",
+      "website": "https://phantom.app",
+      "headquarters": "San Francisco, California, USA",
+      "founded": 2021,
       "activeJobs": 8,
-      "departmentCount": 6,
+      "departmentCount": 5,
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 31.5,
-        "departmentBreadth": 12,
+        "hiringVolume": 31.2,
+        "departmentBreadth": 10,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 53.5
+        "composite": 51.2
       },
       "highlightBadges": [
         "100% Remote",
         "Multi-Department"
       ],
-      "summary": "Sardine, founded in 2020 in San Francisco by Soups Ranjan with co-founders Aditya Goel and Zahid Shaikh, builds real-time fraud and compliance infrastructure for fintech and crypto that combines device, identity and behavior signals with AI risk scoring. Its platform helps hundreds of customers including fintechs and c..."
+      "summary": "Phantom, founded in 2021 by Brandon Millman, Chris Kalani and Francesco Agosti in San Francisco, builds the leading self-custody wallet for Solana and multichain ecosystems. Originally a Solana-native browser extension, it now supports Ethereum, Polygon and Bitcoin with in-app staking, swaps, NFT management and Ledger ..."
     },
     {
-      "rank": 39,
+      "rank": 43,
       "slug": "parallel",
       "name": "Parallel",
       "category": "Trading & Quant",
@@ -921,11 +1008,11 @@
       "salaryTransparencyPct": 100,
       "salaryBenchmark": "$200k – $300k/yr",
       "scores": {
-        "hiringVolume": 31.5,
+        "hiringVolume": 31.2,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 10,
-        "composite": 51.5
+        "composite": 51.2
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -934,31 +1021,54 @@
       "summary": "Parallel, founded in 2021 by Kalos and a team of veteran AAA game developers in Toronto, creates next-generation gaming experiences and sci-fi universes powered by Ethereum and Base blockchain infrastructure. Its flagship products include Parallel TCG, an acclaimed competitive digital trading card game with provable ca..."
     },
     {
-      "rank": 40,
-      "slug": "jump-trading",
-      "name": "Jump Trading",
+      "rank": 44,
+      "slug": "jane-street",
+      "name": "Jane Street",
       "category": "Trading & Quant",
-      "website": "https://www.jumptrading.com",
-      "headquarters": "Remote / Global",
+      "website": "https://janestreet.com",
+      "headquarters": "New York, United States",
+      "founded": 2000,
       "activeJobs": 8,
-      "departmentCount": 3,
+      "departmentCount": 5,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 50,
-      "salaryBenchmark": "$150k – $200k/yr",
+      "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 31.5,
-        "departmentBreadth": 6,
+        "hiringVolume": 31.2,
+        "departmentBreadth": 10,
         "remoteFlexibility": 0,
-        "salaryTransparency": 5,
-        "composite": 42.5
+        "salaryTransparency": 0,
+        "composite": 41.2
       },
       "highlightBadges": [
-        "Salary Transparency"
+        "Multi-Department"
       ],
-      "summary": "At Jump, traders, builders, and researchers solve the hardest market problems, improving models, tools, and systems that power global trading. Jump Trading Group stresses research-grounded strategies stress-tested in live markets, cross-disciplinary engineering, and teams that work from first principles on models and p..."
+      "summary": "Jane Street, founded in 2000 in New York, is a quantitative trading firm and major liquidity provider in equities, ETFs, options and crypto. It trades $20B+ daily with 2,600+ employees across New York, London and Hong Kong, known for deep OCaml and functional programming culture and rigorous research. In Web3, Jane Str..."
     },
     {
-      "rank": 41,
+      "rank": 45,
+      "slug": "zero-hash",
+      "name": "Zero Hash",
+      "category": "Exchanges & Custody",
+      "website": "https://zerohash.com",
+      "headquarters": "Chicago, USA",
+      "activeJobs": 7,
+      "departmentCount": 4,
+      "remotePercentage": 100,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 29.6,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 10,
+        "salaryTransparency": 0,
+        "composite": 47.6
+      },
+      "highlightBadges": [
+        "100% Remote"
+      ],
+      "summary": "Zero Hash, launched in 2017 in Chicago as the settlement subsidiary of Seed CX, provides business-to-business embedded crypto infrastructure for custody, liquidity, staking and settlement via APIs. Seed CX itself was founded in 2015 by Edward Woodford and Brian Liston as a CFTC-registered swap execution facility, later..."
+    },
+    {
+      "rank": 46,
       "slug": "unlimit",
       "name": "Unlimit",
       "category": "Fintech & Payments",
@@ -969,11 +1079,11 @@
       "remotePercentage": 29,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.8,
+        "hiringVolume": 29.6,
         "departmentBreadth": 12,
         "remoteFlexibility": 2.9,
         "salaryTransparency": 0,
-        "composite": 44.7
+        "composite": 44.5
       },
       "highlightBadges": [
         "Multi-Department"
@@ -981,52 +1091,31 @@
       "summary": "Unlimit, founded in 2009 by Kirill Evstratov in London, is a global financial technology company and payments provider operating one of the world's largest proprietary financial rails. Through Unlimit Crypto, the firm delivers frictionless fiat on-and-off ramp APIs, merchant acquiring, and card issuing that allow decen..."
     },
     {
-      "rank": 42,
-      "slug": "luno",
-      "name": "Luno",
+      "rank": 47,
+      "slug": "coins-ph",
+      "name": "Coins.ph",
       "category": "Exchanges & Custody",
-      "website": "https://luno.com",
-      "headquarters": "Remote / Global",
+      "website": "https://coins.ph",
+      "headquarters": "Manila, Philippines",
+      "founded": 2014,
       "activeJobs": 7,
-      "departmentCount": 6,
+      "departmentCount": 5,
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.8,
-        "departmentBreadth": 12,
+        "hiringVolume": 29.6,
+        "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 41.8
+        "composite": 39.6
       },
       "highlightBadges": [
         "Multi-Department"
       ],
-      "summary": "Luno, founded in 2013 by Marcus Swanepoel, Timothy Stranex and colleagues originally as BitX in London and Singapore, operates a global crypto exchange and wallet focused on accessible retail investing. Now part of Digital Currency Group, Luno offers spot trading, staking, savings and educational content across the UK,..."
+      "summary": "Coins.ph, founded in 2014 in Manila, is the Philippines' leading crypto wallet and payments app with 18M+ registered users. Acquired by Gojek then spun out, it offers PHP trading, bills payment, remittance and GCash interoperability, licensed by the Bangko Sentral ng Pilipinas. It bridges cash and crypto for everyday F..."
     },
     {
-      "rank": 43,
-      "slug": "jane-street",
-      "name": "Jane Street",
-      "category": "Trading & Quant",
-      "website": "https://janestreet.com",
-      "headquarters": "New York, United States",
-      "founded": 2000,
-      "activeJobs": 7,
-      "departmentCount": 4,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 29.8,
-        "departmentBreadth": 8,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 37.8
-      },
-      "highlightBadges": [],
-      "summary": "Jane Street, founded in 2000 in New York, is a quantitative trading firm and major liquidity provider in equities, ETFs, options and crypto. It trades $20B+ daily with 2,600+ employees across New York, London and Hong Kong, known for deep OCaml and functional programming culture and rigorous research. In Web3, Jane Str..."
-    },
-    {
-      "rank": 44,
+      "rank": 48,
       "slug": "polymarket",
       "name": "Polymarket",
       "category": "Prediction Markets",
@@ -1038,17 +1127,17 @@
       "remotePercentage": 14,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.8,
+        "hiringVolume": 29.6,
         "departmentBreadth": 6,
         "remoteFlexibility": 1.4,
         "salaryTransparency": 0,
-        "composite": 37.2
+        "composite": 37
       },
       "highlightBadges": [],
       "summary": "Polymarket, founded in 2020 in New York by Shayne Coplan, is the leading on-chain prediction market on Polygon, with $2B+ volume in the 2024 US election cycle. Users trade on politics, sports and culture outcomes using USDC, with transparent on-chain settlement via UMA. Backed by Founders Fund, Polymarket demonstrated ..."
     },
     {
-      "rank": 45,
+      "rank": 49,
       "slug": "openfx",
       "name": "OpenFX",
       "category": "Fintech & Payments",
@@ -1059,17 +1148,17 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.8,
+        "hiringVolume": 29.6,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 35.8
+        "composite": 35.6
       },
       "highlightBadges": [],
       "summary": "OpenFX is on a mission to move money as freely as data, unrestricted by time zones, banking hours, or legacy systems. According to its careers pages, the company is building infrastructure for the next generation of cross-border payment systems for institutions. OpenFX's site describes real-time cross-border FX payment..."
     },
     {
-      "rank": 46,
+      "rank": 50,
       "slug": "pump-fun",
       "name": "pump.fun",
       "category": "Web3 Infrastructure",
@@ -1080,63 +1169,59 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.8,
+        "hiringVolume": 29.6,
         "departmentBreadth": 4,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 33.8
+        "composite": 33.6
       },
       "highlightBadges": [],
       "summary": "pump.fun (developed and operated by Baton Corporation in New York) is the leading crypto social network and decentralized token launchpad on the Solana blockchain. Launched in early 2024, pump.fun became one of the fastest-growing applications in Web3 history. The team engineers high-performance bonding curve algorithm..."
     },
     {
-      "rank": 47,
+      "rank": 51,
+      "slug": "brevan-howard",
+      "name": "Brevan Howard",
+      "category": "Venture & Research",
+      "website": "https://brevan-howard.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 7,
+      "departmentCount": 1,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 29.6,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 31.6
+      },
+      "highlightBadges": [],
+      "summary": "Brevan Howard is a global macro investment manager known for systematic and discretionary strategies across rates, FX, commodities, and digital assets. Its digital asset division researches and trades crypto markets, builds risk and execution infrastructure, and integrates on-chain data into portfolio workflows for ins..."
+    },
+    {
+      "rank": 52,
       "slug": "infosys",
       "name": "Infosys",
       "category": "Security & Auditing",
-      "website": "https://infosys.com",
+      "website": "https://www.infosys.com",
       "headquarters": "Bangalore, India",
       "activeJobs": 7,
       "departmentCount": 1,
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.8,
+        "hiringVolume": 29.6,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 31.8
+        "composite": 31.6
       },
       "highlightBadges": [],
       "summary": "Infosys is a global digital services and consulting company that helps large enterprises modernize technology stacks, build cloud platforms, and deliver data and AI products. Its blockchain and Web3 practices support clients exploring tokenization, enterprise ledgers, digital identity, and regulated asset workflows alo..."
     },
     {
-      "rank": 48,
-      "slug": "hifi",
-      "name": "HIFI",
-      "category": "Fintech & Payments",
-      "website": "https://www.hifi.com/",
-      "headquarters": "New York, USA",
-      "activeJobs": 6,
-      "departmentCount": 5,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 83,
-      "salaryBenchmark": "$145,000–$210,000 per year (USD)",
-      "scores": {
-        "hiringVolume": 27.9,
-        "departmentBreadth": 10,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 8.3,
-        "composite": 46.2
-      },
-      "highlightBadges": [
-        "Salary Transparency",
-        "Multi-Department"
-      ],
-      "summary": "HIFI builds stablecoin and payment infrastructure for developers who need programmable dollar accounts, issuance controls, and compliance-ready APIs. Its stack targets fintechs, payment platforms, and Web3 apps that want to move value on stablecoin rails without building banking integrations and policy engines from scr..."
-    },
-    {
-      "rank": 49,
+      "rank": 53,
       "slug": "elliptic",
       "name": "Elliptic",
       "category": "Security & Auditing",
@@ -1147,11 +1232,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 8,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 45.9
+        "composite": 45.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -1159,30 +1244,7 @@
       "summary": "Elliptic, founded in 2013 in London by James Smith, Tom Robinson and Adam Joyce, pioneered blockchain analytics for investigations and compliance, serving law enforcement, regulators and exchanges across many chains. Its Holistic screening traces flows through mixers and cross-chain bridges, helping recover funds and m..."
     },
     {
-      "rank": 50,
-      "slug": "zero-hash",
-      "name": "Zero Hash",
-      "category": "Exchanges & Custody",
-      "website": "https://zerohash.com",
-      "headquarters": "Chicago, USA",
-      "activeJobs": 6,
-      "departmentCount": 3,
-      "remotePercentage": 100,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 27.9,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 10,
-        "salaryTransparency": 0,
-        "composite": 43.9
-      },
-      "highlightBadges": [
-        "100% Remote"
-      ],
-      "summary": "Zero Hash, launched in 2017 in Chicago as the settlement subsidiary of Seed CX, provides business-to-business embedded crypto infrastructure for custody, liquidity, staking and settlement via APIs. Seed CX itself was founded in 2015 by Edward Woodford and Brian Liston as a CFTC-registered swap execution facility, later..."
-    },
-    {
-      "rank": 51,
+      "rank": 54,
       "slug": "grvt",
       "name": "GRVT",
       "category": "Trading & Quant",
@@ -1193,11 +1255,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 43.9
+        "composite": 43.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -1205,7 +1267,7 @@
       "summary": "GRVT, founded in 2022 by Hong Gyu Yea, Aaron Ong and Matthew Quek in Singapore, develops a hybrid exchange that combines centralized orderbook performance with on-chain settlement and privacy. Its platform, GRVT Exchange, offers spot and perpetuals trading with off-chain matching for low latency and zk-based custody th..."
     },
     {
-      "rank": 52,
+      "rank": 55,
       "slug": "stellar",
       "name": "Stellar",
       "category": "L1 / L2 Protocols",
@@ -1216,11 +1278,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 41.9
+        "composite": 41.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -1228,7 +1290,7 @@
       "summary": "Stellar, developed since 2014 by the Stellar Development Foundation founded by Jed McCaleb and Joyce Kim with Professor David Mazières in San Francisco, is an open network for cross-border payments and asset tokenization using the Stellar Consensus Protocol. Anchors issue stablecoins and tokens settled in seconds for f..."
     },
     {
-      "rank": 53,
+      "rank": 56,
       "slug": "securitize",
       "name": "Securitize",
       "category": "Trading & Quant",
@@ -1239,11 +1301,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 37.9
+        "composite": 37.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -1251,30 +1313,30 @@
       "summary": "Securitize, founded in 2017 by Carlos Domingo in Miami, provides regulated tokenization infrastructure for private securities, funds and treasuries on public blockchains. As an SEC-registered transfer agent and broker-dealer, its platform handles issuance, KYC, cap table management and secondary trading for tokenized a..."
     },
     {
-      "rank": 54,
-      "slug": "flow-traders",
-      "name": "Flow Traders",
-      "category": "Trading & Quant",
-      "website": "https://flowtraders.com",
+      "rank": 57,
+      "slug": "luno",
+      "name": "Luno",
+      "category": "Exchanges & Custody",
+      "website": "https://luno.com",
       "headquarters": "Remote / Global",
       "activeJobs": 6,
       "departmentCount": 5,
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 37.9
+        "composite": 37.7
       },
       "highlightBadges": [
         "Multi-Department"
       ],
-      "summary": "Flow Traders, founded in 2004 in Amsterdam and listed on Euronext (FLOW), is a leading global ETP market maker and crypto liquidity provider, trading $100B+ quarterly across equities, fixed income and digital assets. With 600+ employees across Amsterdam, New York, Hong Kong and Singapore, it provides tight spreads for ..."
+      "summary": "Luno, founded in 2013 by Marcus Swanepoel, Timothy Stranex and colleagues originally as BitX in London and Singapore, operates a global crypto exchange and wallet focused on accessible retail investing. Now part of Digital Currency Group, Luno offers spot trading, staking, savings and educational content across the UK,..."
     },
     {
-      "rank": 55,
+      "rank": 58,
       "slug": "moonpay",
       "name": "MoonPay",
       "category": "Fintech & Payments",
@@ -1286,17 +1348,17 @@
       "remotePercentage": 17,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 8,
         "remoteFlexibility": 1.7,
         "salaryTransparency": 0,
-        "composite": 37.6
+        "composite": 37.4
       },
       "highlightBadges": [],
       "summary": "MoonPay, founded in 2019 in Miami by Ivan Soto-Wright and Victor Faramond with Maximilian Crown, provides crypto on-ramps and NFT checkout infrastructure used by hundreds of partners including wallets and marketplaces. Its widget handles cards, bank transfers and Apple Pay across many countries with know-your-customer ..."
     },
     {
-      "rank": 56,
+      "rank": 59,
       "slug": "sapiom",
       "name": "Sapiom",
       "category": "Fintech & Payments",
@@ -1307,17 +1369,38 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 33.9
+        "composite": 33.7
       },
       "highlightBadges": [],
       "summary": "Sapiom enables agents to transact safely on their own: users set a budget once and Sapiom handles checkout without clicks or taps. Its homepage describes an autonomous economy stack backed by investors including Dragonfly and Accel, and its meta description notes that teams can connect payments, customer permissions, a..."
     },
     {
-      "rank": 57,
+      "rank": 60,
+      "slug": "caladan",
+      "name": "Caladan",
+      "category": "Trading & Quant",
+      "website": "https://caladan.com",
+      "headquarters": "Singapore",
+      "activeJobs": 6,
+      "departmentCount": 2,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 27.7,
+        "departmentBreadth": 4,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 31.7
+      },
+      "highlightBadges": [],
+      "summary": "Caladan (formerly AlphaLab Capital) is a premier digital asset market maker and quantitative trading firm processing billions in daily volume across 100+ exchanges and DeFi protocols. Utilizing proprietary high-frequency execution algorithms and automated risk management, Caladan provides liquidity for top blockchain p..."
+    },
+    {
+      "rank": 61,
       "slug": "keyrock",
       "name": "Keyrock",
       "category": "Trading & Quant",
@@ -1328,17 +1411,17 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.9,
+        "hiringVolume": 27.7,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 29.9
+        "composite": 29.7
       },
       "highlightBadges": [],
       "summary": "Keyrock, founded in 2017 by Kevin de Patoul, Juan David Mendieta and Jeremy de Groodt in Brussels, operates as a global digital asset market maker and liquidity provider. Active on numerous exchanges and OTC venues, it provides tight spreads, treasury management and options hedging for token issuers and funds using pro..."
     },
     {
-      "rank": 58,
+      "rank": 62,
       "slug": "chainlink-labs",
       "name": "Chainlink Labs",
       "category": "AI & DePIN",
@@ -1350,11 +1433,11 @@
       "remotePercentage": 80,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 10,
         "remoteFlexibility": 8,
         "salaryTransparency": 0,
-        "composite": 43.7
+        "composite": 43.5
       },
       "highlightBadges": [
         "80% Remote",
@@ -1363,7 +1446,32 @@
       "summary": "Chainlink Labs, originally founded in 2014 in San Francisco as SmartContract.com by Sergey Nazarov and Steve Ellis, builds Chainlink, the industry-standard oracle network for decentralized finance. The network delivers Data Feeds, Cross-Chain Interoperability Protocol and Functions that let smart contracts access off-c..."
     },
     {
-      "rank": 59,
+      "rank": 63,
+      "slug": "dv-trading",
+      "name": "DV Trading",
+      "category": "Trading & Quant",
+      "website": "https://dvchain.co",
+      "headquarters": "Chicago, Illinois, USA",
+      "founded": 2016,
+      "activeJobs": 5,
+      "departmentCount": 4,
+      "remotePercentage": 20,
+      "salaryTransparencyPct": 60,
+      "salaryBenchmark": "$80k – $100k/yr",
+      "scores": {
+        "hiringVolume": 25.5,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 2,
+        "salaryTransparency": 6,
+        "composite": 41.5
+      },
+      "highlightBadges": [
+        "Salary Transparency"
+      ],
+      "summary": "DV Trading, founded in 2006 in Chicago as DV Group, is a proprietary trading firm active in commodities, equities and crypto via DV Chain, its institutional crypto desk providing liquidity and OTC services. With 400+ employees across Chicago, New York and London, DV combines market making, systematic strategies and ven..."
+    },
+    {
+      "rank": 64,
       "slug": "polygon-labs",
       "name": "Polygon Labs",
       "category": "L1 / L2 Protocols",
@@ -1375,11 +1483,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 41.7
+        "composite": 41.5
       },
       "highlightBadges": [
         "100% Remote"
@@ -1387,7 +1495,30 @@
       "summary": "Polygon Labs, founded in 2017 as Matic Network by Sandeep Nailwal, Jaynti Kanani and Anurag Arjun in Mumbai and now headquartered in Dubai, London and New York, develops Ethereum scaling infrastructure. Its suite spans Polygon PoS, Polygon zkEVM and the AggLayer for aggregated liquidity, plus the Polygon CDK for builde..."
     },
     {
-      "rank": 60,
+      "rank": 65,
+      "slug": "helius",
+      "name": "Helius",
+      "category": "Infrastructure & Tooling",
+      "website": "https://helius.dev",
+      "headquarters": "Remote / Global",
+      "activeJobs": 5,
+      "departmentCount": 2,
+      "remotePercentage": 100,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 25.5,
+        "departmentBreadth": 4,
+        "remoteFlexibility": 10,
+        "salaryTransparency": 0,
+        "composite": 39.5
+      },
+      "highlightBadges": [
+        "100% Remote"
+      ],
+      "summary": "Helius, founded in 2022 by Mert Mumtaz, Liam Vovk and Nicolas Pennie in the United States, provides Solana-native developer infrastructure spanning RPC nodes, APIs, webhooks and indexing for high-performance crypto apps. Created during the bear market by former Coinbase and Amazon engineers who met at Queen's Universit..."
+    },
+    {
+      "rank": 66,
       "slug": "injective-labs",
       "name": "Injective Labs",
       "category": "AI & DePIN",
@@ -1398,11 +1529,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 39.7
+        "composite": 39.5
       },
       "highlightBadges": [
         "100% Remote"
@@ -1410,31 +1541,7 @@
       "summary": "Injective Labs is the core research and engineering company behind the Injective blockchain, an open finance layer-1 built with Cosmos SDK for high-speed decentralized trading and on-chain financial applications. The team develops protocol implementations, core exchange modules, and ecosystem products such as Helix, In..."
     },
     {
-      "rank": 61,
-      "slug": "flowdesk",
-      "name": "Flowdesk",
-      "category": "Trading & Quant",
-      "website": "https://www.flowdesk.co",
-      "headquarters": "Paris, France",
-      "activeJobs": 5,
-      "departmentCount": 5,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 20,
-      "salaryBenchmark": "$200k – $250k/yr",
-      "scores": {
-        "hiringVolume": 25.7,
-        "departmentBreadth": 10,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 2,
-        "composite": 37.7
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "Flowdesk, founded in 2020 by Guilhem Chaumont, Paul Michelet, François Cluzeau and Balthazar Giraux in Paris, is a leading digital asset market maker and algorithmic trading technology provider. Regulated as a Digital Asset Service Provider (DASP) in France by the AMF with offices in Paris, Singapore, and New York, Flo..."
-    },
-    {
-      "rank": 62,
+      "rank": 67,
       "slug": "merkle-science",
       "name": "Merkle Science",
       "category": "AI & DePIN",
@@ -1445,11 +1552,11 @@
       "remotePercentage": 80,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 4,
         "remoteFlexibility": 8,
         "salaryTransparency": 0,
-        "composite": 37.7
+        "composite": 37.5
       },
       "highlightBadges": [
         "80% Remote"
@@ -1457,7 +1564,7 @@
       "summary": "Merkle Science, founded in 2018 in Singapore by Mriganka Pattnaik with co-founder Nirmal AK, builds blockchain forensics and compliance tools Compass, Tracker and Foresight used by regulators and exchanges to trace illicit flows and meet Travel Rule obligations. The platform covers many chains and decentralized finance..."
     },
     {
-      "rank": 63,
+      "rank": 68,
       "slug": "augustus",
       "name": "Augustus",
       "category": "Fintech & Payments",
@@ -1468,11 +1575,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 35.7
+        "composite": 35.5
       },
       "highlightBadges": [
         "Multi-Department"
@@ -1480,29 +1587,7 @@
       "summary": "Augustus is building a global dollar bank and stablecoin-native financial infrastructure for businesses and institutions that need regulated custody, issuance and treasury rails across borders. The company combines banking partnerships, compliance and on-chain settlement so customers can hold, move and deploy dollar li..."
     },
     {
-      "rank": 64,
-      "slug": "swissborg",
-      "name": "SwissBorg",
-      "category": "Exchanges & Custody",
-      "website": "https://swissborg.com",
-      "headquarters": "Lausanne, Switzerland",
-      "founded": 2017,
-      "activeJobs": 5,
-      "departmentCount": 3,
-      "remotePercentage": 40,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 25.7,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 4,
-        "salaryTransparency": 0,
-        "composite": 35.7
-      },
-      "highlightBadges": [],
-      "summary": "SwissBorg, founded in 2017 by Cyrus Fazel and Anthony Lesoismier in Lausanne, Switzerland, is a leading European crypto wealth management app and investment platform. Operating under Swiss and European regulatory frameworks, SwissBorg provides millions of users across 100+ countries with its Smart Engine that aggregate..."
-    },
-    {
-      "rank": 65,
+      "rank": 69,
       "slug": "fun-xyz",
       "name": "Fun.xyz",
       "category": "Exchanges & Custody",
@@ -1514,11 +1599,11 @@
       "salaryTransparencyPct": 60,
       "salaryBenchmark": "USD 140,000 - USD 200,000 per year",
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 4,
         "remoteFlexibility": 0,
         "salaryTransparency": 6,
-        "composite": 35.7
+        "composite": 35.5
       },
       "highlightBadges": [
         "Salary Transparency"
@@ -1526,7 +1611,7 @@
       "summary": "Fun.xyz, founded in 2022 as FUN by Alex Fine and Mario Baxter in San Francisco, provides embedded wallet infrastructure that hides blockchain complexity. Its Fun Wallet stack offers instant, gasless, app-specific wallets via an SDK with account abstraction, session keys and a backend that sponsors fees, letting games a..."
     },
     {
-      "rank": 66,
+      "rank": 70,
       "slug": "hypernative",
       "name": "Hypernative",
       "category": "Security & Auditing",
@@ -1537,39 +1622,38 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 8,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.5
       },
       "highlightBadges": [],
       "summary": "Hypernative is the proactive onchain security platform for enterprises and institutions. Powered by battle-tested machine learning and real-time behavioral heuristics, Hypernative predicts, detects, and neutralizes zero-day exploits, financial manipulation, fraud, and economic threats before they materialize onchain. O..."
     },
     {
-      "rank": 67,
-      "slug": "brave",
-      "name": "Brave",
-      "category": "Exchanges & Custody",
-      "website": "https://brave.com",
-      "headquarters": "San Francisco, California",
-      "founded": 2015,
+      "rank": 71,
+      "slug": "flow-traders",
+      "name": "Flow Traders",
+      "category": "Trading & Quant",
+      "website": "https://flowtraders.com",
+      "headquarters": "Remote / Global",
       "activeJobs": 5,
-      "departmentCount": 3,
-      "remotePercentage": 20,
+      "departmentCount": 4,
+      "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 2,
+        "hiringVolume": 25.5,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.5
       },
       "highlightBadges": [],
-      "summary": "Brave, founded in 2015 by Brendan Eich, creator of JavaScript, and Brian Bondy in San Francisco, develops the privacy-focused Brave Browser and the Basic Attention Token (BAT) ecosystem. The browser blocks trackers and ads by default, offering private search, firewall-VPN and Brave Rewards that share ad revenue with us..."
+      "summary": "Flow Traders, founded in 2004 in Amsterdam and listed on Euronext (FLOW), is a leading global ETP market maker and crypto liquidity provider, trading $100B+ quarterly across equities, fixed income and digital assets. With 600+ employees across Amsterdam, New York, Hong Kong and Singapore, it provides tight spreads for ..."
     },
     {
-      "rank": 68,
+      "rank": 72,
       "slug": "prime-intellect",
       "name": "Prime Intellect",
       "category": "AI & DePIN",
@@ -1580,60 +1664,61 @@
       "remotePercentage": 20,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
+        "hiringVolume": 25.5,
         "departmentBreadth": 6,
         "remoteFlexibility": 2,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.5
       },
       "highlightBadges": [],
       "summary": "Prime Intellect, founded in 2023 by Vincent Weisser and Johannes Hagemann in San Francisco, builds decentralized artificial intelligence compute infrastructure and open-source foundation model training networks. Its platform aggregates global GPU clusters from data centers, crypto miners and compute providers into a un..."
     },
     {
-      "rank": 69,
-      "slug": "coinflow",
-      "name": "Coinflow",
-      "category": "Fintech & Payments",
-      "website": "https://coinflow.cash",
-      "headquarters": "San Francisco, USA",
-      "activeJobs": 5,
-      "departmentCount": 3,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 25.7,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 31.7
-      },
-      "highlightBadges": [],
-      "summary": "Coinflow, founded in 2022 in Chicago by Daniel Lev and Ben Meeder, provides instant settlement for crypto payments through coinflow.cash, converting card and wallet sales into stablecoins with fast finality and chargeback protection. Built for marketplaces and gaming, its products handle know-your-customer checks, frau..."
-    },
-    {
-      "rank": 70,
-      "slug": "coins-ph",
-      "name": "Coins.ph",
+      "rank": 73,
+      "slug": "swissborg",
+      "name": "SwissBorg",
       "category": "Exchanges & Custody",
-      "website": "https://coins.ph",
-      "headquarters": "Manila, Philippines",
-      "founded": 2014,
+      "website": "https://swissborg.com",
+      "headquarters": "Lausanne, Switzerland",
+      "founded": 2017,
       "activeJobs": 5,
-      "departmentCount": 3,
-      "remotePercentage": 0,
+      "departmentCount": 2,
+      "remotePercentage": 40,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.7,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 0,
+        "hiringVolume": 25.5,
+        "departmentBreadth": 4,
+        "remoteFlexibility": 4,
         "salaryTransparency": 0,
-        "composite": 31.7
+        "composite": 33.5
       },
       "highlightBadges": [],
-      "summary": "Coins.ph, founded in 2014 in Manila, is the Philippines' leading crypto wallet and payments app with 18M+ registered users. Acquired by Gojek then spun out, it offers PHP trading, bills payment, remittance and GCash interoperability, licensed by the Bangko Sentral ng Pilipinas. It bridges cash and crypto for everyday F..."
+      "summary": "SwissBorg, founded in 2017 by Cyrus Fazel and Anthony Lesoismier in Lausanne, Switzerland, is a leading European crypto wealth management app and investment platform. Operating under Swiss and European regulatory frameworks, SwissBorg provides millions of users across 100+ countries with its Smart Engine that aggregate..."
     },
     {
-      "rank": 71,
+      "rank": 74,
+      "slug": "brave",
+      "name": "Brave",
+      "category": "Exchanges & Custody",
+      "website": "https://brave.com",
+      "headquarters": "San Francisco, California",
+      "founded": 2015,
+      "activeJobs": 5,
+      "departmentCount": 2,
+      "remotePercentage": 20,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 25.5,
+        "departmentBreadth": 4,
+        "remoteFlexibility": 2,
+        "salaryTransparency": 0,
+        "composite": 31.5
+      },
+      "highlightBadges": [],
+      "summary": "Brave, founded in 2015 by Brendan Eich, creator of JavaScript, and Brian Bondy in San Francisco, develops the privacy-focused Brave Browser and the Basic Attention Token (BAT) ecosystem. The browser blocks trackers and ads by default, offering private search, firewall-VPN and Brave Rewards that share ad revenue with us..."
+    },
+    {
+      "rank": 75,
       "slug": "ava-labs",
       "name": "Ava Labs",
       "category": "Infrastructure & Tooling",
@@ -1644,11 +1729,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 23,
+        "hiringVolume": 22.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 39
+        "composite": 38.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1656,30 +1741,7 @@
       "summary": "Ava Labs, founded in 2018 by Emin Gün Sirer, Kevin Sekniqi and Maofan Ted Yin at Cornell and headquartered in Brooklyn and New York, is the core developer of Avalanche. The platform uses Snowman consensus for sub-second finality and high throughput, powering a primary network with distinct X, P and C chains and customi..."
     },
     {
-      "rank": 72,
-      "slug": "cointracker",
-      "name": "CoinTracker",
-      "category": "Security & Auditing",
-      "website": "https://www.cointracker.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 4,
-      "departmentCount": 2,
-      "remotePercentage": 100,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 23,
-        "departmentBreadth": 4,
-        "remoteFlexibility": 10,
-        "salaryTransparency": 0,
-        "composite": 37
-      },
-      "highlightBadges": [
-        "100% Remote"
-      ],
-      "summary": "CoinTracker, founded in 2017 by Jon Lerner, Vera Tzekova and Chandan Lodha in San Francisco, provides crypto tax and portfolio software for consumers, accountants and enterprises. Its platform aggregates transactions from 500+ exchanges, wallets and chains to automate cost-basis, gains, transfers and tax forms with aud..."
-    },
-    {
-      "rank": 73,
+      "rank": 76,
       "slug": "certik",
       "name": "CertiK",
       "category": "Security & Auditing",
@@ -1691,11 +1753,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 23,
+        "hiringVolume": 22.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 37
+        "composite": 36.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1703,32 +1765,7 @@
       "summary": "CertiK, founded in 2017 in New York by Ronghui Gu and Zhong Shao, professors at Columbia and Yale, is a leading Web3 security auditor specializing in formal verification, smart contract audits and on-chain monitoring. The company has audited thousands of projects including major layer-1 chains and DeFi protocols, secur..."
     },
     {
-      "rank": 74,
-      "slug": "dv-trading",
-      "name": "DV Trading",
-      "category": "Trading & Quant",
-      "website": "https://dvchain.co",
-      "headquarters": "Chicago, Illinois, USA",
-      "founded": 2016,
-      "activeJobs": 4,
-      "departmentCount": 3,
-      "remotePercentage": 25,
-      "salaryTransparencyPct": 50,
-      "salaryBenchmark": "$65k – $75k/yr",
-      "scores": {
-        "hiringVolume": 23,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 2.5,
-        "salaryTransparency": 5,
-        "composite": 36.5
-      },
-      "highlightBadges": [
-        "Salary Transparency"
-      ],
-      "summary": "DV Trading, founded in 2006 in Chicago as DV Group, is a proprietary trading firm active in commodities, equities and crypto via DV Chain, its institutional crypto desk providing liquidity and OTC services. With 400+ employees across Chicago, New York and London, DV combines market making, systematic strategies and ven..."
-    },
-    {
-      "rank": 75,
+      "rank": 77,
       "slug": "tempo",
       "name": "Tempo",
       "category": "Fintech & Payments",
@@ -1739,42 +1776,62 @@
       "remotePercentage": 50,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 23,
+        "hiringVolume": 22.9,
         "departmentBreadth": 8,
         "remoteFlexibility": 5,
         "salaryTransparency": 0,
-        "composite": 36
+        "composite": 35.9
       },
       "highlightBadges": [],
       "summary": "Tempo, incubated in 2025 with support from Stripe and Paradigm in San Francisco, builds a payments-focused blockchain optimized for stablecoin settlement. Designed for high-throughput, low-fee transfers with built-in compliance and fiat on- and off-ramps, Tempo aims to bring internet-native money movement to merchants,..."
     },
     {
-      "rank": 76,
-      "slug": "falconx",
-      "name": "FalconX",
+      "rank": 78,
+      "slug": "gsr-markets",
+      "name": "GSR Markets",
       "category": "Trading & Quant",
-      "website": "https://falconx.io",
-      "headquarters": "San Mateo, California, USA",
-      "founded": 2018,
+      "website": "https://gsr.io",
+      "headquarters": "London, UK",
+      "founded": 2013,
       "activeJobs": 4,
-      "departmentCount": 3,
+      "departmentCount": 4,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 50,
-      "salaryBenchmark": "$128k – $162k/yr",
+      "salaryTransparencyPct": 25,
+      "salaryBenchmark": "$200k – $300k/yr",
       "scores": {
-        "hiringVolume": 23,
-        "departmentBreadth": 6,
+        "hiringVolume": 22.9,
+        "departmentBreadth": 8,
         "remoteFlexibility": 0,
-        "salaryTransparency": 5,
-        "composite": 34
+        "salaryTransparency": 2.5,
+        "composite": 33.4
       },
-      "highlightBadges": [
-        "Salary Transparency"
-      ],
-      "summary": "FalconX, founded in 2018 in San Mateo by Raghu Yarlagadda and Prabhakar Reddy, is an institutional prime brokerage combining trading, credit and custody for funds, corporates and protocols. Its over-the-counter and derivatives desk provides deep liquidity across many assets with post-trade settlement, treasury manageme..."
+      "highlightBadges": [],
+      "summary": "GSR Markets, founded in 2013 by Cristian Gil and Richard Rosenblum in London, operates as a leading crypto market maker and liquidity provider for spot and derivatives. Its businesses span OTC trading, systematic market making and treasury management for exchanges, token projects and institutions, with coverage across ..."
     },
     {
-      "rank": 77,
+      "rank": 79,
+      "slug": "flowdesk",
+      "name": "Flowdesk",
+      "category": "Trading & Quant",
+      "website": "https://www.flowdesk.co",
+      "headquarters": "Paris, France",
+      "activeJobs": 4,
+      "departmentCount": 4,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 25,
+      "salaryBenchmark": "$200k – $250k/yr",
+      "scores": {
+        "hiringVolume": 22.9,
+        "departmentBreadth": 8,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 2.5,
+        "composite": 33.4
+      },
+      "highlightBadges": [],
+      "summary": "Flowdesk, founded in 2020 by Guilhem Chaumont, Paul Michelet, François Cluzeau and Balthazar Giraux in Paris, is a leading digital asset market maker and algorithmic trading technology provider. Regulated as a Digital Asset Service Provider (DASP) in France by the AMF with offices in Paris, Singapore, and New York, Flo..."
+    },
+    {
+      "rank": 80,
       "slug": "coingecko",
       "name": "CoinGecko",
       "category": "AI & DePIN",
@@ -1785,17 +1842,38 @@
       "remotePercentage": 50,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 23,
+        "hiringVolume": 22.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 5,
         "salaryTransparency": 0,
-        "composite": 32
+        "composite": 31.9
       },
       "highlightBadges": [],
       "summary": "CoinGecko, founded in 2014 by TM Lee and Bobby Ong in Kuala Lumpur, Malaysia, operates the largest independent crypto data aggregator for prices, volumes and on-chain metrics. Its platform tracks millions of coins across 900+ exchanges, plus DeFi, NFT, derivatives and portfolio tools that serve consumers, institutions ..."
     },
     {
-      "rank": 78,
+      "rank": 81,
+      "slug": "talos",
+      "name": "Talos",
+      "category": "Security & Auditing",
+      "website": "https://talos.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 4,
+      "departmentCount": 3,
+      "remotePercentage": 25,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 22.9,
+        "departmentBreadth": 6,
+        "remoteFlexibility": 2.5,
+        "salaryTransparency": 0,
+        "composite": 31.4
+      },
+      "highlightBadges": [],
+      "summary": "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds..."
+    },
+    {
+      "rank": 82,
       "slug": "fortitude-mining",
       "name": "Fortitude Mining",
       "category": "Web3 Infrastructure",
@@ -1806,38 +1884,17 @@
       "remotePercentage": 25,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 23,
+        "hiringVolume": 22.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 2.5,
         "salaryTransparency": 0,
-        "composite": 29.5
+        "composite": 29.4
       },
       "highlightBadges": [],
       "summary": "Fortitude, backed by DCG, is an institutional-scale, vertically integrated venture mining platform operating across the Proof-of-Work ecosystem and anchored in Zcash. The company pairs self-mining operations with an owned data center footprint, a diversified power portfolio backed by competitive long-term contracts, an..."
     },
     {
-      "rank": 79,
-      "slug": "luxor-technology",
-      "name": "Luxor Technology",
-      "category": "AI & DePIN",
-      "website": "https://luxor.tech",
-      "headquarters": "Seattle, USA",
-      "activeJobs": 4,
-      "departmentCount": 2,
-      "remotePercentage": 25,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 23,
-        "departmentBreadth": 4,
-        "remoteFlexibility": 2.5,
-        "salaryTransparency": 0,
-        "composite": 29.5
-      },
-      "highlightBadges": [],
-      "summary": "Luxor Technology, founded in 2020 by Nick Hansen, Eddie Wang, Ethan Vera and Guzman Pintos in Seattle, provides Bitcoin mining software and services. Its stack includes Luxor Pool, one of the largest US mining pools with full-Pay-Per-Share and hashrate derivatives, plus firmware LuxOS for ASIC optimization and Hashrate..."
-    },
-    {
-      "rank": 80,
+      "rank": 83,
       "slug": "aave-labs",
       "name": "Aave Labs",
       "category": "DeFi Protocols",
@@ -1849,17 +1906,101 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 23,
+        "hiringVolume": 22.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 29
+        "composite": 28.9
       },
       "highlightBadges": [],
       "summary": "Aave Labs, founded in 2017 by Stani Kulechov in London and Helsinki, develops the Aave protocol, one of DeFi's largest liquidity markets for borrowing and lending. Its products include Aave v3 with cross-chain portals, efficiency modes and GHO stablecoin, plus Lens-adjacent social experiments and developer tooling for ..."
     },
     {
-      "rank": 81,
+      "rank": 84,
+      "slug": "coinflow",
+      "name": "Coinflow",
+      "category": "Fintech & Payments",
+      "website": "https://coinflow.cash",
+      "headquarters": "San Francisco, USA",
+      "activeJobs": 4,
+      "departmentCount": 3,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 22.9,
+        "departmentBreadth": 6,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 28.9
+      },
+      "highlightBadges": [],
+      "summary": "Coinflow, founded in 2022 in Chicago by Daniel Lev and Ben Meeder, provides instant settlement for crypto payments through coinflow.cash, converting card and wallet sales into stablecoins with fast finality and chargeback protection. Built for marketplaces and gaming, its products handle know-your-customer checks, frau..."
+    },
+    {
+      "rank": 85,
+      "slug": "arca",
+      "name": "Arca",
+      "category": "Trading & Quant",
+      "website": "https://www.arcawealth.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 4,
+      "departmentCount": 2,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 22.9,
+        "departmentBreadth": 4,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 26.9
+      },
+      "highlightBadges": [],
+      "summary": "Arca is a Los Angeles-based digital asset investment firm founded in 2018, operating hedge funds, venture strategies, and an SEC-registered investment adviser focused on blockchain-native assets. The team combines trading, research, and compliance capabilities for institutions and qualified investors participating in c..."
+    },
+    {
+      "rank": 86,
+      "slug": "aws",
+      "name": "AWS",
+      "category": "AI & DePIN",
+      "website": "https://aws.amazon.com",
+      "headquarters": "Seattle, WA, United States",
+      "activeJobs": 4,
+      "departmentCount": 1,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 22.9,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 24.9
+      },
+      "highlightBadges": [],
+      "summary": "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. AWS powers global financial services, digital native businesses, and decentralized Web3 ecosystems with high-performance computing, managed blockchain infrastructure, and institutional-grade security."
+    },
+    {
+      "rank": 87,
+      "slug": "coindesk",
+      "name": "CoinDesk",
+      "category": "Web3 Infrastructure",
+      "website": "https://www.coindesk.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 4,
+      "departmentCount": 1,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 22.9,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 24.9
+      },
+      "highlightBadges": [],
+      "summary": "CoinDesk is an independent news and data platform covering digital assets, blockchain infrastructure, and Web3 markets for institutional and professional audiences worldwide. Its newsroom reports on protocol development, markets, regulation, and culture, while CoinDesk Indices and research products support benchmarking..."
+    },
+    {
+      "rank": 88,
       "slug": "consensys",
       "name": "Consensys",
       "category": "Infrastructure & Tooling",
@@ -1872,11 +2013,11 @@
       "salaryTransparencyPct": 100,
       "salaryBenchmark": "$210.0k – $302.5k/yr",
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 10,
-        "composite": 43.9
+        "composite": 43.7
       },
       "highlightBadges": [
         "100% Remote",
@@ -1885,7 +2026,30 @@
       "summary": "Consensys, founded in 2014 by Joseph Lubin, co-founder of Ethereum, in Brooklyn, builds core infrastructure for the Ethereum ecosystem. Its products include MetaMask, the most widely used self-custody wallet serving millions, Infura, the node and API suite powering most dApps, and Linea, a ZK-rollup for scaling. The co..."
     },
     {
-      "rank": 82,
+      "rank": 89,
+      "slug": "0g-labs",
+      "name": "0G Labs",
+      "category": "AI & DePIN",
+      "website": "https://0g.ai",
+      "headquarters": "San Francisco, USA",
+      "activeJobs": 3,
+      "departmentCount": 3,
+      "remotePercentage": 100,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 19.7,
+        "departmentBreadth": 6,
+        "remoteFlexibility": 10,
+        "salaryTransparency": 0,
+        "composite": 35.7
+      },
+      "highlightBadges": [
+        "100% Remote"
+      ],
+      "summary": "0G Labs, founded in 2023 by Michael Heinrich, Ming Wu, Fan Long and Thomas Yao in San Francisco, builds 0G, a modular decentralized AI chain designed as an operating system for AI. Its stack combines a high-throughput data availability and storage layer with compute and serving infrastructure, including 0G Storage, 0G ..."
+    },
+    {
+      "rank": 90,
       "slug": "morpho",
       "name": "Morpho",
       "category": "DeFi Protocols",
@@ -1896,11 +2060,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 35.9
+        "composite": 35.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -1908,7 +2072,7 @@
       "summary": "Morpho is a decentralized lending protocol on Ethereum and Base that optimizes interest rates for borrowers and lenders by matching supply and demand peer-to-peer while falling back on underlying liquidity pools like Compound and Aave. Known for its permissionless Morpho Blue primitives and vault architecture, Morpho p..."
     },
     {
-      "rank": 83,
+      "rank": 91,
       "slug": "spruce",
       "name": "Spruce",
       "category": "Web3 Infrastructure",
@@ -1919,11 +2083,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.9
+        "composite": 33.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -1931,7 +2095,7 @@
       "summary": "Spruce, founded in 2020 by Wayne Chang and Gregory Rocco in New York, builds open-source identity and data control infrastructure for Web3. Its products, SpruceID and Kepler, provide decentralized identifiers, credential wallets and storage that let users control authentication and data sharing across apps without cent..."
     },
     {
-      "rank": 84,
+      "rank": 92,
       "slug": "proof",
       "name": "Proof",
       "category": "Web3 Infrastructure",
@@ -1943,11 +2107,11 @@
       "salaryTransparencyPct": 67,
       "salaryBenchmark": "$75k – $85k/yr",
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 3.3,
         "salaryTransparency": 6.7,
-        "composite": 33.9
+        "composite": 33.7
       },
       "highlightBadges": [
         "Salary Transparency"
@@ -1955,30 +2119,7 @@
       "summary": "Proof is a litigation services platform used by law firms to access a nationwide network of vetted process servers for document delivery and e-filing. Its about page describes Proof as a legal technology company reimagining efficiency with modern, automated solutions, and its structured data cites an on-demand process ..."
     },
     {
-      "rank": 85,
-      "slug": "helius",
-      "name": "Helius",
-      "category": "Infrastructure & Tooling",
-      "website": "https://helius.dev",
-      "headquarters": "Remote / Global",
-      "activeJobs": 3,
-      "departmentCount": 2,
-      "remotePercentage": 100,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 4,
-        "remoteFlexibility": 10,
-        "salaryTransparency": 0,
-        "composite": 33.9
-      },
-      "highlightBadges": [
-        "100% Remote"
-      ],
-      "summary": "Helius, founded in 2022 by Mert Mumtaz, Liam Vovk and Nicolas Pennie in the United States, provides Solana-native developer infrastructure spanning RPC nodes, APIs, webhooks and indexing for high-performance crypto apps. Created during the bear market by former Coinbase and Amazon engineers who met at Queen's Universit..."
-    },
-    {
-      "rank": 86,
+      "rank": 93,
       "slug": "newton",
       "name": "Newton",
       "category": "Exchanges & Custody",
@@ -1989,11 +2130,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.9
+        "composite": 33.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -2001,7 +2142,7 @@
       "summary": "Newton Protocol, developed by Magic Labs founded in 2018 by Sean Li and Jaemin Jin in San Francisco with the Magic Newton Foundation established in October 2024, builds verifiable automation infrastructure for AI agents and on-chain actions. Its core protocol combines trusted execution environments with zero-knowledge ..."
     },
     {
-      "rank": 87,
+      "rank": 94,
       "slug": "anchorage-digital",
       "name": "Anchorage Digital",
       "category": "Infrastructure & Tooling",
@@ -2013,11 +2154,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.9
+        "composite": 33.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -2025,7 +2166,7 @@
       "summary": "Anchorage Digital, founded in 2017 in San Francisco by Diogo Mónica and Nathan McCauley, is the only federally chartered crypto bank in the United States through Anchorage Digital Bank N.A. regulated by the Office of the Comptroller of the Currency. Its custody uses biometric authentication and threshold cryptography, ..."
     },
     {
-      "rank": 88,
+      "rank": 95,
       "slug": "alchemy",
       "name": "Alchemy",
       "category": "Infrastructure & Tooling",
@@ -2037,11 +2178,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.9
+        "composite": 33.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -2049,7 +2190,7 @@
       "summary": "Alchemy, founded in 2017 in San Francisco by Nikil Viswanathan and Joe Lau, Stanford classmates and former teaching assistants, is a leading Web3 developer platform providing node infrastructure, Supernode and Notify APIs. The stack powers many top Ethereum applications and handles significant transaction volume for cu..."
     },
     {
-      "rank": 89,
+      "rank": 96,
       "slug": "arbitrum",
       "name": "Arbitrum",
       "category": "L1 / L2 Protocols",
@@ -2061,17 +2202,42 @@
       "remotePercentage": 67,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 6.7,
         "salaryTransparency": 0,
-        "composite": 32.6
+        "composite": 32.4
       },
       "highlightBadges": [],
       "summary": "Arbitrum, developed by Offchain Labs and governed by the Arbitrum DAO, is the leading Ethereum Layer 2 scaling suite, securing tens of billions in total value locked. Powered by Nitro technology, Arbitrum One and Arbitrum Nova deliver high-throughput, low-cost execution while inheriting Ethereum L1 cryptographic securi..."
     },
     {
-      "rank": 90,
+      "rank": 97,
+      "slug": "falconx",
+      "name": "FalconX",
+      "category": "Trading & Quant",
+      "website": "https://falconx.io",
+      "headquarters": "San Mateo, California, USA",
+      "founded": 2018,
+      "activeJobs": 3,
+      "departmentCount": 3,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 67,
+      "salaryBenchmark": "$128k – $162k/yr",
+      "scores": {
+        "hiringVolume": 19.7,
+        "departmentBreadth": 6,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 6.7,
+        "composite": 32.4
+      },
+      "highlightBadges": [
+        "Salary Transparency"
+      ],
+      "summary": "FalconX, founded in 2018 in San Mateo by Raghu Yarlagadda and Prabhakar Reddy, is an institutional prime brokerage combining trading, credit and custody for funds, corporates and protocols. Its over-the-counter and derivatives desk provides deep liquidity across many assets with post-trade settlement, treasury manageme..."
+    },
+    {
+      "rank": 98,
       "slug": "uniswap-labs",
       "name": "Uniswap Labs",
       "category": "DeFi Protocols",
@@ -2082,17 +2248,40 @@
       "remotePercentage": 67,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 6.7,
         "salaryTransparency": 0,
-        "composite": 32.6
+        "composite": 32.4
       },
       "highlightBadges": [],
       "summary": "Uniswap Labs, founded in 2018 by Hayden Adams in New York, builds the leading decentralized exchange protocol and interfaces for Ethereum and EVM chains. Originating from the Uniswap v1 automated market maker, the Labs developed successive protocol versions including v2, v3 concentrated liquidity and v4 hooks, plus the..."
     },
     {
-      "rank": 91,
+      "rank": 99,
+      "slug": "cointracker",
+      "name": "CoinTracker",
+      "category": "Security & Auditing",
+      "website": "https://www.cointracker.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 3,
+      "departmentCount": 1,
+      "remotePercentage": 100,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 19.7,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 10,
+        "salaryTransparency": 0,
+        "composite": 31.7
+      },
+      "highlightBadges": [
+        "100% Remote"
+      ],
+      "summary": "CoinTracker, founded in 2017 by Jon Lerner, Vera Tzekova and Chandan Lodha in San Francisco, provides crypto tax and portfolio software for consumers, accountants and enterprises. Its platform aggregates transactions from 500+ exchanges, wallets and chains to automate cost-basis, gains, transfers and tax forms with aud..."
+    },
+    {
+      "rank": 100,
       "slug": "relay",
       "name": "Relay",
       "category": "Exchanges & Custody",
@@ -2103,210 +2292,16 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.9,
+        "hiringVolume": 19.7,
         "departmentBreadth": 2,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 31.9
+        "composite": 31.7
       },
       "highlightBadges": [
         "100% Remote"
       ],
       "summary": "Relay, founded in 2021 and headquartered in Wilmington, Delaware as Relay Link and formerly Reservoir, builds cross-chain payments and bridging infrastructure for instant token movement. Its protocol aggregates bridges and solvers to route user intents into single-click transfers that settle across Ethereum, L2s and So..."
-    },
-    {
-      "rank": 92,
-      "slug": "river-financial",
-      "name": "River Financial",
-      "category": "Security & Auditing",
-      "website": "https://river.com",
-      "headquarters": "San Francisco, CA & Remote",
-      "activeJobs": 3,
-      "departmentCount": 1,
-      "remotePercentage": 100,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 2,
-        "remoteFlexibility": 10,
-        "salaryTransparency": 0,
-        "composite": 31.9
-      },
-      "highlightBadges": [
-        "100% Remote"
-      ],
-      "summary": "River Financial is an enterprise-grade Bitcoin financial services firm and Lightning Network infrastructure provider offering zero-fee recurring Bitcoin purchases, institutional custody, and Bitcoin mining integration. Its River Lightning API enables banks, fintechs, and crypto platforms to integrate instant, low-cost ..."
-    },
-    {
-      "rank": 93,
-      "slug": "allium",
-      "name": "Allium",
-      "category": "Infrastructure & Tooling",
-      "website": "https://www.allium.so",
-      "headquarters": "San Francisco, USA",
-      "activeJobs": 3,
-      "departmentCount": 2,
-      "remotePercentage": 67,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 4,
-        "remoteFlexibility": 6.7,
-        "salaryTransparency": 0,
-        "composite": 30.6
-      },
-      "highlightBadges": [],
-      "summary": "Allium, founded in 2021 by Ethan Chan and Cheng Han Lee, former engineering leaders at Meta and Primer, in New York, provides enterprise blockchain data infrastructure for institutions. Its platform ingests, normalizes and indexes data from numerous chains to deliver real-time analytics, compliance queries and warehous..."
-    },
-    {
-      "rank": 94,
-      "slug": "gsr-markets",
-      "name": "GSR Markets",
-      "category": "Trading & Quant",
-      "website": "https://gsr.io",
-      "headquarters": "London, UK",
-      "founded": 2013,
-      "activeJobs": 3,
-      "departmentCount": 3,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 33,
-      "salaryBenchmark": "$200k – $300k/yr",
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 3.3,
-        "composite": 29.2
-      },
-      "highlightBadges": [],
-      "summary": "GSR Markets, founded in 2013 by Cristian Gil and Richard Rosenblum in London, operates as a leading crypto market maker and liquidity provider for spot and derivatives. Its businesses span OTC trading, systematic market making and treasury management for exchanges, token projects and institutions, with coverage across ..."
-    },
-    {
-      "rank": 95,
-      "slug": "trilitech",
-      "name": "Trilitech",
-      "category": "Web3 Infrastructure",
-      "website": "https://www.trili.tech/",
-      "headquarters": "Remote / Global",
-      "activeJobs": 3,
-      "departmentCount": 3,
-      "remotePercentage": 33,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 3.3,
-        "salaryTransparency": 0,
-        "composite": 29.2
-      },
-      "highlightBadges": [],
-      "summary": "Trilitech develops technology and applications for the Tezos blockchain from its London team, supporting core protocol development, adoption, and builders across the ecosystem. Its site highlights core development on the Tezos protocol, adoption through applications and partnerships, and entrepreneurship programs that ..."
-    },
-    {
-      "rank": 96,
-      "slug": "talos",
-      "name": "Talos",
-      "category": "Security & Auditing",
-      "website": "https://talos.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 3,
-      "departmentCount": 2,
-      "remotePercentage": 33,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 4,
-        "remoteFlexibility": 3.3,
-        "salaryTransparency": 0,
-        "composite": 27.2
-      },
-      "highlightBadges": [],
-      "summary": "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds..."
-    },
-    {
-      "rank": 97,
-      "slug": "aspora",
-      "name": "Aspora",
-      "category": "Fintech & Payments",
-      "website": "https://www.aspora.com",
-      "headquarters": "London, United Kingdom",
-      "activeJobs": 3,
-      "departmentCount": 3,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 25.9
-      },
-      "highlightBadges": [],
-      "summary": "Aspora, founded in 2022 and building from hubs in India, the UK, the UAE, Europe and the United States, is a borderless financial platform for people who live and work across countries. Its products combine remittances, multi-currency accounts and card spending with compliance and banking partnerships so diaspora custo..."
-    },
-    {
-      "rank": 98,
-      "slug": "bitvavo",
-      "name": "Bitvavo",
-      "category": "Exchanges & Custody",
-      "website": "https://bitvavo.com",
-      "headquarters": "Amsterdam, Netherlands",
-      "activeJobs": 3,
-      "departmentCount": 3,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 25.9
-      },
-      "highlightBadges": [],
-      "summary": "Bitvavo, founded in 2018 by Tim Baardse, Jelle de Boer and William Boersma in Amsterdam, operates a leading European crypto exchange and brokerage for retail and high-volume traders. Its platform offers spot trading, staking and custody across a broad range of assets with EUR rails, FIX and REST APIs, and institutional..."
-    },
-    {
-      "rank": 99,
-      "slug": "breeze-cash",
-      "name": "Breeze Cash",
-      "category": "Fintech & Payments",
-      "website": "https://breeze.cash",
-      "headquarters": "Remote",
-      "founded": 2022,
-      "activeJobs": 3,
-      "departmentCount": 3,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 25.9
-      },
-      "highlightBadges": [],
-      "summary": "Breeze Cash, founded in 2022 in Singapore and New York by Peng Du and Millie Yang, formerly of Stripe, builds crypto payment infrastructure for businesses rather than payroll. Operating as Breeze.cash, the platform helps merchants accept card, Apple Pay, Google Pay and stablecoins, acting as merchant of record that han..."
-    },
-    {
-      "rank": 100,
-      "slug": "ether-fi",
-      "name": "ether.fi",
-      "category": "DeFi Protocols",
-      "website": "https://www.ether.fi",
-      "headquarters": "Grand Cayman, Cayman Islands",
-      "activeJobs": 3,
-      "departmentCount": 2,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.9,
-        "departmentBreadth": 4,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 23.9
-      },
-      "highlightBadges": [],
-      "summary": "ether.fi, founded in 2022 by Mike Silagadze, founder of Top Hat, and Rok Kopp with headquarters in Grand Cayman, operates a leading decentralized liquid restaking protocol on Ethereum. Its eETH and weETH tokens let users stake ether while retaining liquidity and earning EigenLayer restaking rewards plus native yield, s..."
     }
   ],
   "sectors": [
@@ -2316,31 +2311,31 @@
     },
     {
       "name": "Fintech & Payments",
-      "count": 20
+      "count": 18
     },
     {
       "name": "Trading & Quant",
-      "count": 13
-    },
-    {
-      "name": "Security & Auditing",
-      "count": 10
+      "count": 15
     },
     {
       "name": "AI & DePIN",
-      "count": 9
+      "count": 11
     },
     {
-      "name": "Infrastructure & Tooling",
-      "count": 8
+      "name": "Security & Auditing",
+      "count": 9
     },
     {
       "name": "Web3 Infrastructure",
       "count": 7
     },
     {
+      "name": "Infrastructure & Tooling",
+      "count": 7
+    },
+    {
       "name": "DeFi Protocols",
-      "count": 5
+      "count": 4
     },
     {
       "name": "L1 / L2 Protocols",
@@ -2348,7 +2343,7 @@
     },
     {
       "name": "Venture & Research",
-      "count": 2
+      "count": 3
     },
     {
       "name": "Prediction Markets",

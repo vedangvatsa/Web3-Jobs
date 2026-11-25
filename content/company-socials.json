@@ -680,5 +680,10 @@
   },
   "moon": {
     "website": "https://paywithmoon.com/"
+  },
+  "aws": {
+    "website": "https://aws.amazon.com",
+    "linkedin": "https://www.linkedin.com/company/amazon-web-services",
+    "twitter": "https://x.com/awscloud"
   }
 }

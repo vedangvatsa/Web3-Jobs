@@ -5,6 +5,8 @@ export interface Job {
  title: string;
  company: string;
  link: string;
+ /** Canonical employer ATS apply URL when distinct from listing link. */
+ applyUrl?: string;
  date: string; // Original source posting date, serialized with an explicit timezone (or UTC date-only).
  dateVerified?: boolean; // false when the source exposes discovery time only
  dateSource?: string;

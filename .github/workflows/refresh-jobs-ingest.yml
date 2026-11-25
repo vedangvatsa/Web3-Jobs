@@ -160,12 +160,31 @@ jobs:
           path: .cache/country-local-crypto/body-*.json
           retention-days: 14
 
+      # Enterprise Web3 / digital-asset employers (employer ATS only; daily after RSS cache):
+      # Franklin Templeton (Phenom), PwC (Workday), EY (careers.ey.com), Deloitte/Accenture (Workday),
+      # Goldman/JPM (Oracle CE), Infosys (career.infosys.com).
       - name: Ingest Franklin Templeton Official Jobs
         run: npx tsx scripts/ingest-franklin-templeton-jobs.ts
         continue-on-error: true
 
       - name: Ingest PwC Crypto & Web3 Jobs
         run: npx tsx scripts/ingest-pwc-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest EY blockchain & digital-asset jobs
+        run: npx tsx scripts/ingest-ey-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest Deloitte digital-asset jobs (SuccessFactors)
+        run: npx tsx scripts/ingest-deloitte-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest Accenture Web3 Workday jobs
+        run: npx tsx scripts/ingest-deloitte-accenture-web3-jobs.ts
+        continue-on-error: true
+
+      - name: Ingest AWS & Enterprise Web3 jobs
+        run: npx tsx scripts/ingest-enterprise-jobs.ts
         continue-on-error: true
 
       - name: Ingest Goldman Sachs & JPMorgan Oracle crypto jobs
