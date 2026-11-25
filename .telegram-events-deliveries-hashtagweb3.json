@@ -1319,5 +1319,56 @@
     "slotKey": "2026-11-25:afternoon",
     "messageId": 156497,
     "sentAt": "2026-11-25T11:57:56.982Z"
+  },
+  "27fb00e8-f3ab-4fac-b540-8bd94b0ace5c": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T20:36:13.237Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-FCswact5HUPBfye",
+        "slug": "uxuy",
+        "name": "UXUY Rooftop Blockchain Week Pre-Party | Bangkok",
+        "startDate": "2026-11-27T13:00:00.000Z",
+        "keys": [
+          "luma-crypto-fcswact5hupbfye",
+          "uxuy-rooftop-blockchain-week-pre-party-bangkok",
+          "page:uxuy:2026-11-27",
+          "luma:evt-fcswact5hupbfye",
+          "luma-url:/pox5so32",
+          "event:uxuyrooftopblockchainweekprepartybangkok:2026-11-27:bangkok"
+        ]
+      },
+      {
+        "id": "luma-crypto-2Lh3kyk1n2UD6iV",
+        "slug": "unitedst",
+        "name": "United Stablecoin Night",
+        "startDate": "2026-11-28T11:30:00.000Z",
+        "keys": [
+          "luma-crypto-2lh3kyk1n2ud6iv",
+          "united-stablecoin-night-bangkok",
+          "page:unitedst:2026-11-28",
+          "luma:evt-2lh3kyk1n2ud6iv",
+          "luma-url:/n0r0eqei",
+          "event:unitedstablecoinnight:2026-11-28:bangkok"
+        ]
+      },
+      {
+        "id": "luma-crypto-CZFvyMlvwoTrp2S",
+        "slug": "coffeebit",
+        "name": "Coffee & Bitcoin - Falls Church",
+        "startDate": "2026-11-28T15:30:00.000Z",
+        "keys": [
+          "luma-crypto-czfvymlvwotrp2s",
+          "coffee-bit",
+          "page:coffeebit:2026-11-28",
+          "luma:evt-czfvymlvwotrp2s",
+          "luma-url:/wzaqpwjg",
+          "event:coffeebitcoinfallschurch:2026-11-28:falls church"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-25:evening"
   }
 }
