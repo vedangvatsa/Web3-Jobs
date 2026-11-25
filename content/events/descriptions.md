@@ -20607,102 +20607,42 @@ Crypto
 - Description: Source-backed
 - Original page: <https://luma.com/on8grate>
 
-### About the event
+### 西格玛男人-狗哥的BBW曼谷夜宵局
 
-西格玛男人-狗哥的BBW曼谷夜宵局 - LumaSkip to Content
+曼谷的夜很长，狗哥的局才刚开场！白天参加 Binance Blockchain Week，晚上来泰式夜宵局放松畅聊。
 
-Hosted By
+西格玛男人-狗哥，联合 Bitget Wallet、Gas station 与 TurboFlow，请大家相聚曼谷：大席已备、美食管饱、礼品管够、畅饮畅聊！
 
-### JUST DAO
+### 活动信息
 
-Goku很Cool
+- 日期：11月28日（周六）
+- 签到时间：21:45
+- 活动时间：22:00 - 次日 01:30（UTC+7）
+- 地点：泰国曼谷（审核通过后展示具体地址）
 
-74 Going
-
-Crypto
-
-Featured in Binance Blockchain Week
-
-西格玛男人-狗哥的BBW曼谷夜宵局
-
-Hosted by JUST DAO & Goku很Cool
-
-Register to See Address
-
-Krung Thep Maha Nakhon, Thailand
-
-Goku很Cool
-
-74 Going
-
-Crypto
-
-### Registration
-
-Approval Required
-
-Your registration is subject to host approval.
-
-Welcome! To join the event, please register below.
-
-### About Event
-
-曼谷的夜很长，狗哥的局才刚开场！
-
-白天 BBW，晚上泰式夜宵局！
-
-西格玛男人-狗哥，联合 Bitget Wallet × Gas station × TurboFlow，请大家搂席
-
-江湖路远，今晚先聚！
-
-大席已备 - 美食管饱 - 礼品管够 - 畅饮畅聊
-
-活动信息
-
-- 日期：11月28日
-- 签到：21:45
-- 时间：22:00-次日01:30 （UTC+7）
-- 地点：泰国曼谷
-
-联合主办方
-
-Bitget Wallet
+### Bitget Wallet
 
 Bitget Wallet 是一款面向日常金融的自托管加密钱包，服务全球超 1 亿用户，支持使用数字美元进行储蓄、转账、消费及全球资产交易。平台提供稳定币跨境转账、Visa/Mastercard 加密卡、100 余种本地化法币通道与理财产品，支持 130 余条公链与 100 余万种加密资产及代币化股票等 RWA 资产。平台还通过硬件级私钥加密保护技术、实时风控引擎、独立安全审计及 3 亿美元风险保障基金，全方位保护用户资产安全。
 
-官网：https://web3.bitget.com/
+- 官网：https://web3.bitget.com/
+- X：@BitgetWallet / @BitgetWalletCN
 
-X EN：BitgetWallet
-
-X EN: BitgetWalletCN
-
-TurboFlow
+### TurboFlow
 
 TurboFlow 是一个链上交易生态系统，将永续合约、短周期事件合约（Event Contracts）和预测市场整合在同一个以零售交易者为核心的平台。
 
-官网：https://www.tf.xyz
+- 官网：https://www.tf.xyz
+- X：@TurboFlow_xyz
 
-X：TurboFlow_xyz
+### Gas station
 
-Gas station
+GasStation 专注 TRON 能量租赁与带宽租赁服务，为 TRON 网络用户提供高效、低成本的资源解决方案。支持按需租用与自动续租，也为钱包、交易所及有高频转账需求的团队提供 API 接入，资源通常可在几秒内到账，帮您在无需冻结 TRX 的情况下完成 TRC20 转账与合约操作，降低 TRON 网络手续费支出。
 
-GasStation 专注 TRON 能量租赁与带宽租赁服务，为 TRON 网络用户提供高效、低成本的资源解决方案。
+- 官网：https://www.gasstation.ai/
 
-GasStation支持按需租用与自动续租，也为钱包、交易所及有高频转账需求的团队提供 API 接入，资源通常可在几秒内到账，帮您在无需冻结 TRX 的情况下完成 TRC20 转账与合约操作，降低 TRON 网络手续费支出。
-
-官网：https://www.gasstation.ai/
-
-特别鸣谢
+### 特别鸣谢
 
 JUST - B.AI - SUN - USDD - WBTC - WINkLink - BitTorrent - AINFT
-
-### Location
-
-Please register to see the exact location of this event.
-
-Krung Thep Maha Nakhon, Thailand
-
-Hosted By
 
 <a id="event-07884c7ceb3ed069"></a>
 

@@ -27490,20 +27490,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "an109"
-  },
-  {
-    "id": "990968db-cc8d-4658-b0cd-1c4387953c97",
-    "title": "VP of Communications",
-    "company": "TRM Labs",
-    "link": "https://jobs.ashbyhq.com/trm-labs/990968db-cc8d-4658-b0cd-1c4387953c97",
-    "date": "2026-10-26T13:02:06.122+00:00",
-    "source": "Ashby: TRM Labs [trm-labs]",
-    "location": "Remote (United States)",
-    "isRemote": true,
-    "workplaceType": "Remote",
-    "department": "Go-To-Market",
-    "active": true,
-    "dateVerified": true,
-    "slug": "vc"
   }
 ]

@@ -672,7 +672,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Predict Night](descriptions.md#event-625c94aea4374de0) | 2026-11-28 | Source-backed (1280 chars) |
 | [USHKEE × WHOA'S KITCHEN — EAT & EARN POP-UP!](descriptions.md#event-7f76fe75fe4605f8) | 2026-11-28 | Source-backed (1662 chars) |
 | [BitDevs Lagos - Nov 2026](descriptions.md#event-ce85c5f2a953103d) | 2026-11-28 | Source-backed (976 chars) |
-| [西格玛男人-狗哥的BBW曼谷夜宵局](descriptions.md#event-0c2fa228ea50c5fd) | 2026-11-28 | Source-backed (1525 chars) |
+| [西格玛男人-狗哥的BBW曼谷夜宵局](descriptions.md#event-0c2fa228ea50c5fd) | 2026-11-28 | Source-backed (986 chars) |
 | [Coffee & Bitcoin - Falls Church](descriptions.md#event-07884c7ceb3ed069) | 2026-11-28 | Source-backed (864 chars) |
 | [Anti-fragile Bitcoin / AI時代のセキュリティ危機とビットコインの反脆弱性](descriptions.md#event-4e2839826017d307) | 2026-11-29 | Source-backed (3431 chars) |
 | [The Future Is Tokenized 💎](descriptions.md#event-7d82ff26223003ce) | 2026-11-29 | Source-backed (969 chars) |
