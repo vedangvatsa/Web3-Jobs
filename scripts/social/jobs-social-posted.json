@@ -191607,7 +191607,8 @@
       },
       "account": "channel:growth",
       "attemptId": "1866e6d0-fe45-427c-954b-5a20bd1d7b5f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0f8364596acb5628639b23e8bd6da34305a23a70"
     }
   ]
 }
