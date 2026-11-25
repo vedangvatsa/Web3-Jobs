@@ -1,0 +1,686 @@
+{
+  "dispatchedAt": "2026-11-25T06:16:54.608Z",
+  "total": 113,
+  "delivered": 113,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Jobware DE",
+      "email": "info@jobware.de",
+      "deliveryId": "01a21158-a8ba-7743-a82e-3e1464a7dc2a",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone DE",
+      "email": "info@stepstone.de",
+      "deliveryId": "01a21158-ada9-75b2-83c3-09afd26e0d1f",
+      "status": "delivered"
+    },
+    {
+      "name": "Yourfirm DE",
+      "email": "info@yourfirm.de",
+      "deliveryId": "01a21158-afde-7d15-a627-89d127e17687",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobvector DE",
+      "email": "info@jobvector.de",
+      "deliveryId": "01a21158-b22f-777b-9d8e-87deed18bf5f",
+      "status": "delivered"
+    },
+    {
+      "name": "Experteer DE",
+      "email": "info@experteer.de",
+      "deliveryId": "01a21158-b443-7c14-a815-8378ab9ea591",
+      "status": "delivered"
+    },
+    {
+      "name": "Academics DE",
+      "email": "info@academics.de",
+      "deliveryId": "01a21158-b650-713a-9048-242d254550a1",
+      "status": "delivered"
+    },
+    {
+      "name": "Get in IT DE",
+      "email": "info@get-in-it.de",
+      "deliveryId": "01a21158-b922-79bb-82e2-d63d07100974",
+      "status": "delivered"
+    },
+    {
+      "name": "Talentscout DE",
+      "email": "info@talentscout.de",
+      "deliveryId": "01a21158-bb71-7729-8f23-a0db1ea7fb08",
+      "status": "delivered"
+    },
+    {
+      "name": "DerStandard Karriere AT",
+      "email": "karriere@derstandard.at",
+      "deliveryId": "01a21158-bf60-76fd-906d-f86b90fa2773",
+      "status": "delivered"
+    },
+    {
+      "name": "Willhaben Jobs AT",
+      "email": "support@willhaben.at",
+      "deliveryId": "01a21158-c193-77a4-8b29-d236b8e4f68f",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido DE",
+      "email": "info@jobrapido.de",
+      "deliveryId": "01a21158-c3a1-7624-b259-26358150f1fb",
+      "status": "delivered"
+    },
+    {
+      "name": "Joblift DE",
+      "email": "info@joblift.de",
+      "deliveryId": "01a21158-c5e2-7e19-a8cf-dce306e55f98",
+      "status": "delivered"
+    },
+    {
+      "name": "Joblift UK",
+      "email": "info@joblift.co.uk",
+      "deliveryId": "01a21158-c8f5-7464-b816-1cc9c5b5a596",
+      "status": "delivered"
+    },
+    {
+      "name": "Joblift FR",
+      "email": "info@joblift.fr",
+      "deliveryId": "01a21158-cb03-753f-98d8-ff6bb7a3b441",
+      "status": "delivered"
+    },
+    {
+      "name": "Joblift NL",
+      "email": "info@joblift.nl",
+      "deliveryId": "01a21158-cd2e-73fe-864d-a4e7aa0ac5e2",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobswype DE",
+      "email": "info@jobswype.de",
+      "deliveryId": "01a21158-cf5a-7676-ac1e-39ffe660e37e",
+      "status": "delivered"
+    },
+    {
+      "name": "AlphaJobs CH",
+      "email": "info@alphajobs.ch",
+      "deliveryId": "01a21158-d326-7000-a391-68ad594a3197",
+      "status": "delivered"
+    },
+    {
+      "name": "JobWinner CH",
+      "email": "info@jobwinner.ch",
+      "deliveryId": "01a21158-d523-7889-9288-9e863a16c26f",
+      "status": "delivered"
+    },
+    {
+      "name": "Ostjob CH",
+      "email": "info@ostjob.ch",
+      "deliveryId": "01a21158-d746-767e-b57c-cd1e15e5d396",
+      "status": "delivered"
+    },
+    {
+      "name": "Zentraljob CH",
+      "email": "info@zentraljob.ch",
+      "deliveryId": "01a21158-d97d-7a0c-bf7c-e218d2550279",
+      "status": "delivered"
+    },
+    {
+      "name": "Meteojob FR",
+      "email": "contact@meteojob.fr",
+      "deliveryId": "01a21158-db74-7346-a683-51f738d3229d",
+      "status": "delivered"
+    },
+    {
+      "name": "Apecita FR",
+      "email": "contact@apecita.com",
+      "deliveryId": "01a21158-dd65-7c04-a1cb-5a9e0723c15b",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobijoba FR",
+      "email": "contact@jobijoba.fr",
+      "deliveryId": "01a21158-df58-7c17-8248-cdbfcd04c070",
+      "status": "delivered"
+    },
+    {
+      "name": "LesJeudis FR",
+      "email": "contact@lesjeudis.com",
+      "deliveryId": "01a21158-e158-751f-b165-0d1a9ccf0d50",
+      "status": "delivered"
+    },
+    {
+      "name": "ChooseYourBoss FR",
+      "email": "contact@chooseyourboss.com",
+      "deliveryId": "01a21158-e35e-79f9-817c-81d58bb1e991",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent.io EU",
+      "email": "hello@talent.io",
+      "deliveryId": "01a21158-e597-74ff-989e-d0d6b65ebf7d",
+      "status": "delivered"
+    },
+    {
+      "name": "WTTJ FR",
+      "email": "contact@welcometothejungle.fr",
+      "deliveryId": "01a21158-e78a-74fa-be8e-9c62573665ec",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido FR",
+      "email": "info@jobrapido.fr",
+      "deliveryId": "01a21158-e9aa-72b6-85b5-4f99d8878403",
+      "status": "delivered"
+    },
+    {
+      "name": "NationaleVacaturebank",
+      "email": "redactie@nationalevacaturebank.nl",
+      "deliveryId": "01a21158-eb9e-7d0a-82b0-8fad97d0ba90",
+      "status": "delivered"
+    },
+    {
+      "name": "Monsterboard NL",
+      "email": "info@monsterboard.nl",
+      "deliveryId": "01a21158-ed93-7736-918f-3ca9029f2d11",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobat",
+      "email": "redactie@jobat.be",
+      "deliveryId": "01a21158-efa2-7a5b-86c2-5aec6e1b1fa8",
+      "status": "delivered"
+    },
+    {
+      "name": "References BE",
+      "email": "info@references.be",
+      "deliveryId": "01a21158-f1ad-745a-aa7a-4736d4afb3b8",
+      "status": "delivered"
+    },
+    {
+      "name": "Reed UK",
+      "email": "info@reed.co.uk",
+      "deliveryId": "01a21158-f3d3-7ae4-b10d-26d7531d1612",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster UK",
+      "email": "info@monster.co.uk",
+      "deliveryId": "01a21158-f5d5-7260-a1a1-2578c2e37fc3",
+      "status": "delivered"
+    },
+    {
+      "name": "Guardian Jobs UK",
+      "email": "jobs@theguardian.com",
+      "deliveryId": "01a21158-f7ff-7bbd-b99b-6d89290f69b6",
+      "status": "delivered"
+    },
+    {
+      "name": "Telegraph Jobs UK",
+      "email": "jobs@telegraph.co.uk",
+      "deliveryId": "01a21158-f9f9-74fc-8325-5b9e8ab081dc",
+      "status": "delivered"
+    },
+    {
+      "name": "CWJobs UK",
+      "email": "support@cwjobs.co.uk",
+      "deliveryId": "01a21158-fc20-74dc-896d-f8d48ed9f2a1",
+      "status": "delivered"
+    },
+    {
+      "name": "Technojobs UK",
+      "email": "info@technojobs.co.uk",
+      "deliveryId": "01a21158-fe49-76e9-a8e8-892c1e41ce21",
+      "status": "delivered"
+    },
+    {
+      "name": "ITJobBoard UK",
+      "email": "info@itjobboard.co.uk",
+      "deliveryId": "01a21159-0041-7151-b6d7-83355c4f3e2e",
+      "status": "delivered"
+    },
+    {
+      "name": "JobServe UK",
+      "email": "support@jobserve.com",
+      "deliveryId": "01a21159-0235-7e19-974b-0b941e67620b",
+      "status": "delivered"
+    },
+    {
+      "name": "NIJobs",
+      "email": "info@nijobs.com",
+      "deliveryId": "01a21159-042c-7274-b7a0-e8f5ba789055",
+      "status": "delivered"
+    },
+    {
+      "name": "RecruitIreland",
+      "email": "info@recruitireland.com",
+      "deliveryId": "01a21159-0654-77ae-b99f-728ab6d39173",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobatus ES",
+      "email": "contacto@jobatus.es",
+      "deliveryId": "01a21159-0877-7729-bca8-7805282adec2",
+      "status": "delivered"
+    },
+    {
+      "name": "Trabajando ES",
+      "email": "info@trabajando.es",
+      "deliveryId": "01a21159-0a6f-7665-8964-87ced1f18cb1",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit ES",
+      "email": "info@trovit.es",
+      "deliveryId": "01a21159-0c7e-7a8e-b51c-d6e3d9e48822",
+      "status": "delivered"
+    },
+    {
+      "name": "Net-Empregos PT",
+      "email": "info@net-empregos.com",
+      "deliveryId": "01a21159-0ea2-71e4-ba41-744f643d1f6b",
+      "status": "delivered"
+    },
+    {
+      "name": "Sapo Emprego PT",
+      "email": "emprego@sapo.pt",
+      "deliveryId": "01a21159-109a-7a5b-acd8-3e0bc8471cb9",
+      "status": "delivered"
+    },
+    {
+      "name": "Expresso Emprego PT",
+      "email": "info@expressoemprego.pt",
+      "deliveryId": "01a21159-129c-7b8c-b59b-6def18db1786",
+      "status": "delivered"
+    },
+    {
+      "name": "Alerta Emprego PT",
+      "email": "info@alertaemprego.pt",
+      "deliveryId": "01a21159-14f5-7bc4-b016-7cbc8b212d9e",
+      "status": "delivered"
+    },
+    {
+      "name": "Lavoro.it",
+      "email": "info@lavoro.it",
+      "deliveryId": "01a21159-1707-7785-b95c-b634716f1978",
+      "status": "delivered"
+    },
+    {
+      "name": "Cliclavoro IT",
+      "email": "info@cliclavoro.gov.it",
+      "deliveryId": "01a21159-18fd-7ad4-abdf-22e838958622",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido IT",
+      "email": "info@jobrapido.it",
+      "deliveryId": "01a21159-1aed-73db-a7ca-04dbb487033b",
+      "status": "delivered"
+    },
+    {
+      "name": "Bakeca IT",
+      "email": "info@bakeca.it",
+      "deliveryId": "01a21159-1ce0-72b9-89aa-8624863e57b2",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet IT",
+      "email": "info@careerjet.it",
+      "deliveryId": "01a21159-1f04-716f-ac66-0a1132869385",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobbnorge NO",
+      "email": "support@jobbnorge.no",
+      "deliveryId": "01a21159-213d-719e-aeea-e05c1f84f23a",
+      "status": "delivered"
+    },
+    {
+      "name": "KarriereStart NO",
+      "email": "post@karrierestart.no",
+      "deliveryId": "01a21159-235b-7706-8c4a-121083ec04c1",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster SE",
+      "email": "info@monster.se",
+      "deliveryId": "01a21159-257e-748d-a00f-3d0fb06a7c4d",
+      "status": "delivered"
+    },
+    {
+      "name": "Blocket Jobb SE",
+      "email": "support@blocket.se",
+      "deliveryId": "01a21159-2775-742f-afce-290d66dc2c16",
+      "status": "delivered"
+    },
+    {
+      "name": "Oikotie FI",
+      "email": "info@oikotie.fi",
+      "deliveryId": "01a21159-296a-7407-bee7-a5509bd505a1",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster FI",
+      "email": "info@monster.fi",
+      "deliveryId": "01a21159-2b5c-7e0a-b835-ac41693c48f1",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobindex",
+      "email": "support@jobindex.dk",
+      "deliveryId": "01a21159-2d7c-720d-b100-849ab725427b",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca.pl",
+      "email": "kontakt@praca.pl",
+      "deliveryId": "01a21159-2fa1-7628-a48a-c86857e93ff3",
+      "status": "delivered"
+    },
+    {
+      "name": "Infopraca PL",
+      "email": "kontakt@infopraca.pl",
+      "deliveryId": "01a21159-31b5-760a-bf08-482933fda7fd",
+      "status": "delivered"
+    },
+    {
+      "name": "GoldenLine PL",
+      "email": "kontakt@goldenline.pl",
+      "deliveryId": "01a21159-33ab-7888-9c6c-40359184ea5c",
+      "status": "delivered"
+    },
+    {
+      "name": "Bulldogjob PL",
+      "email": "hello@bulldogjob.pl",
+      "deliveryId": "01a21159-35d2-7f2f-9c27-918bedc31a75",
+      "status": "delivered"
+    },
+    {
+      "name": "Sprace CZ",
+      "email": "info@sprace.cz",
+      "deliveryId": "01a21159-37f6-7349-8838-d848cfec973b",
+      "status": "delivered"
+    },
+    {
+      "name": "Kariera.sk",
+      "email": "info@kariera.sk",
+      "deliveryId": "01a21159-39ec-7e70-9935-7c2bad83e406",
+      "status": "delivered"
+    },
+    {
+      "name": "Cvonline HU",
+      "email": "info@cvonline.hu",
+      "deliveryId": "01a21159-3be0-7763-b698-9f087a19ba34",
+      "status": "delivered"
+    },
+    {
+      "name": "Hipo RO",
+      "email": "contact@hipo.ro",
+      "deliveryId": "01a21159-3dff-7265-93f0-af8b6f1d6b05",
+      "status": "delivered"
+    },
+    {
+      "name": "Posao BA",
+      "email": "info@posao.ba",
+      "deliveryId": "01a21159-4093-7af0-923b-af407eae4d47",
+      "status": "delivered"
+    },
+    {
+      "name": "MojPosao HR",
+      "email": "info@moj-posao.net",
+      "deliveryId": "01a21159-429f-7dbf-81cd-4d00b61ac5bd",
+      "status": "delivered"
+    },
+    {
+      "name": "Poslovi Infostud RS",
+      "email": "kontakt@infostud.com",
+      "deliveryId": "01a21159-44ac-752d-9cfc-b52ffceb7fb2",
+      "status": "delivered"
+    },
+    {
+      "name": "MojeDelo SI",
+      "email": "info@mojedelo.com",
+      "deliveryId": "01a21159-46b5-7897-9d56-c8f9b102702d",
+      "status": "delivered"
+    },
+    {
+      "name": "Zaplata BG",
+      "email": "office@zaplata.bg",
+      "deliveryId": "01a21159-48c3-757b-9f22-092294aba88a",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota MD",
+      "email": "info@rabota.md",
+      "deliveryId": "01a21159-4b09-7ecd-bf42-8701ec9b8df7",
+      "status": "delivered"
+    },
+    {
+      "name": "Bumeran AR",
+      "email": "contacto@bumeran.com.ar",
+      "deliveryId": "01a21159-4d34-73a3-8dba-40f8f7679363",
+      "status": "delivered"
+    },
+    {
+      "name": "Computrabajo MX",
+      "email": "soporte@computrabajo.com.mx",
+      "deliveryId": "01a21159-4f27-77b0-8074-84ff38c3b82e",
+      "status": "delivered"
+    },
+    {
+      "name": "Bumeran PE",
+      "email": "contacto@bumeran.com.pe",
+      "deliveryId": "01a21159-511f-70f2-882d-c5e7c5a6590d",
+      "status": "delivered"
+    },
+    {
+      "name": "Laborum CL",
+      "email": "contacto@laborum.cl",
+      "deliveryId": "01a21159-5312-7bd6-9983-d280ddc4e351",
+      "status": "delivered"
+    },
+    {
+      "name": "Buscojobs UY",
+      "email": "info@buscojobs.com.uy",
+      "deliveryId": "01a21159-550a-76c9-9c65-e14dfaa2b2b5",
+      "status": "delivered"
+    },
+    {
+      "name": "TrabajosDiarios",
+      "email": "info@trabajosdiarios.com",
+      "deliveryId": "01a21159-5747-74b4-acd5-f8c75fd45223",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo MX",
+      "email": "info@opcionempleo.com.mx",
+      "deliveryId": "01a21159-59aa-7393-af48-0f91a32a53c5",
+      "status": "delivered"
+    },
+    {
+      "name": "Gupy BR",
+      "email": "contato@gupy.io",
+      "deliveryId": "01a21159-5b9e-7664-a498-596f35d5a787",
+      "status": "delivered"
+    },
+    {
+      "name": "Trampos BR",
+      "email": "contato@trampos.co",
+      "deliveryId": "01a21159-5d8e-7de0-8a6e-b2a3c5c08658",
+      "status": "delivered"
+    },
+    {
+      "name": "99jobs BR",
+      "email": "contato@99jobs.com",
+      "deliveryId": "01a21159-5f81-75d1-832a-a80eee28054c",
+      "status": "delivered"
+    },
+    {
+      "name": "IIMJobs IN",
+      "email": "support@iimjobs.com",
+      "deliveryId": "01a21159-6173-74b8-b64c-3f2a6c831ad9",
+      "status": "delivered"
+    },
+    {
+      "name": "Freshersworld IN",
+      "email": "support@freshersworld.com",
+      "deliveryId": "01a21159-6367-78e5-af7e-a0f0ed74a037",
+      "status": "delivered"
+    },
+    {
+      "name": "PlacementIndia",
+      "email": "info@placementindia.com",
+      "deliveryId": "01a21159-656b-7a6f-88ec-33446f53bab8",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster India",
+      "email": "info@monsterindia.com",
+      "deliveryId": "01a21159-6779-7e68-9e15-b847b9c71c15",
+      "status": "delivered"
+    },
+    {
+      "name": "TimesAscent IN",
+      "email": "info@timesascent.com",
+      "deliveryId": "01a21159-69b2-7c29-a9ec-425c3f2db344",
+      "status": "delivered"
+    },
+    {
+      "name": "Mustakbil PK",
+      "email": "support@mustakbil.com",
+      "deliveryId": "01a21159-6bae-727a-85a5-788769aa8ed7",
+      "status": "delivered"
+    },
+    {
+      "name": "TopJobs LK",
+      "email": "info@topjobs.lk",
+      "deliveryId": "01a21159-6dab-74d7-bce5-0ff915c23d36",
+      "status": "delivered"
+    },
+    {
+      "name": "XpressJobs LK",
+      "email": "hello@xpress.jobs",
+      "deliveryId": "01a21159-6fad-775d-a489-bc30d28f9611",
+      "status": "delivered"
+    },
+    {
+      "name": "Merojob NP",
+      "email": "info@merojob.com",
+      "deliveryId": "01a21159-71b9-73f8-9f49-af4cfdf7cce4",
+      "status": "delivered"
+    },
+    {
+      "name": "KumariJob NP",
+      "email": "info@kumarijob.com",
+      "deliveryId": "01a21159-7400-79e4-8c02-e89f26d8402d",
+      "status": "delivered"
+    },
+    {
+      "name": "CTgoodjobs HK",
+      "email": "info@ctgoodjobs.hk",
+      "deliveryId": "01a21159-7604-739e-8e1f-302359ae81f5",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit HK",
+      "email": "info@recruit.com.hk",
+      "deliveryId": "01a21159-77fb-72c4-9e9f-0ac44ef8202d",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet SG",
+      "email": "info@jobstreet.com.sg",
+      "deliveryId": "01a21159-79ea-7bc6-b0da-41d2175865b5",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsCentral SG",
+      "email": "info@jobscentral.com.sg",
+      "deliveryId": "01a21159-7c20-703d-991f-7010227d8077",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerLink VN",
+      "email": "contact@careerlink.vn",
+      "deliveryId": "01a21159-7e19-7c9b-aa21-d9fd8c9f26a1",
+      "status": "delivered"
+    },
+    {
+      "name": "Vieclam24h VN",
+      "email": "support@vieclam24h.vn",
+      "deliveryId": "01a21159-8011-7cc0-8d23-384a64409dbf",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet ID",
+      "email": "info@jobstreet.co.id",
+      "deliveryId": "01a21159-821c-7a5d-acde-697a8c5dbbe5",
+      "status": "delivered"
+    },
+    {
+      "name": "Karir ID",
+      "email": "info@karir.com",
+      "deliveryId": "01a21159-8429-76c1-a2b4-7764db6a1e7f",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek NZ",
+      "email": "info@seek.co.nz",
+      "deliveryId": "01a21159-8633-7b89-9372-41d7374175c2",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt AE",
+      "email": "info@bayt.com",
+      "deliveryId": "01a21159-8841-7a43-a722-f5caa6c8fe48",
+      "status": "delivered"
+    },
+    {
+      "name": "GulfTalent AE",
+      "email": "support@gulftalent.com",
+      "deliveryId": "01a21159-8aa3-7810-a804-0371fe99c231",
+      "status": "delivered"
+    },
+    {
+      "name": "Monstergulf",
+      "email": "info@monstergulf.com",
+      "deliveryId": "01a21159-8c98-70c5-aad0-38c3c191a516",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerJet AE",
+      "email": "info@careerjet.ae",
+      "deliveryId": "01a21159-8eb9-765e-8184-084914d93177",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobberman GH",
+      "email": "info@jobberman.com.gh",
+      "deliveryId": "01a21159-90b1-7e25-a79e-2c00ae201223",
+      "status": "delivered"
+    },
+    {
+      "name": "Fuzu KE",
+      "email": "hello@fuzu.com",
+      "deliveryId": "01a21159-92d6-71b1-a462-a44b39c5d16b",
+      "status": "delivered"
+    },
+    {
+      "name": "MyJobMag NG",
+      "email": "info@myjobmag.com",
+      "deliveryId": "01a21159-94cf-719d-b4fd-7b6878213f0e",
+      "status": "delivered"
+    },
+    {
+      "name": "HotNigerianJobs",
+      "email": "info@hotnigerianjobs.com",
+      "deliveryId": "01a21159-96ed-78b5-9bf6-1ec45793bfd0",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerJunction ZA",
+      "email": "support@careerjunction.co.za",
+      "deliveryId": "01a21159-98e8-7200-9be2-6b1b75197d81",
+      "status": "delivered"
+    }
+  ]
+}
