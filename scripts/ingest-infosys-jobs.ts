@@ -20,9 +20,13 @@ const INFOSYS_JOB_CODES = [
   'INFSYS-EXTERNAL-253494',
   'INFSYS-EXTERNAL-253496',
   'INFSYS-EXTERNAL-253530',
-  'INFSYS-EXTERNAL-255106',
-  'INFSYS-EXTERNAL-255107',
 ];
+
+const MIN_DESCRIPTION_PLAIN_CHARS = 400;
+
+function plainTextLen(html: string): number {
+  return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().length;
+}
 
 interface InfosysApiJob {
   postingId?: number;
@@ -203,8 +207,13 @@ async function main() {
       continue;
     }
     const data = (await res.json()) as InfosysApiJob;
-    const title = (data.postingTitle || 'Blockchain Developer').replace(/\s+/g, ' ').trim();
+    const title = (data.postingTitle || '').replace(/\s+/g, ' ').trim();
     const link = `https://career.infosys.com/jobdesc?jobReferenceCode=${code}&sourceId=1`;
+
+    if (!title) {
+      console.warn(`Skip closed or empty posting ${code}`);
+      continue;
+    }
 
     if (!isConcreteJobOpening(title, link)) {
       console.warn(`Disqualified job ${code}: ${title}`);
@@ -217,6 +226,10 @@ async function main() {
 
     const rawHtml = buildJobDescription(data);
     const cleanHtml = sanitizeJobDescriptionHtml(rawHtml, 'Infosys');
+    if (plainTextLen(cleanHtml) < MIN_DESCRIPTION_PLAIN_CHARS) {
+      console.warn(`Skip thin Infosys description (${plainTextLen(cleanHtml)} chars) for ${code}`);
+      continue;
+    }
 
     const jobRow: Job = {
       id,

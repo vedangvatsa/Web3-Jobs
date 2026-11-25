@@ -177,6 +177,54 @@ export async function ingestWorkdayWeb3Board(
   return { jobs, descriptions };
 }
 
+export type WorkdayPublicJobDetail = {
+  jobDescription: string;
+  title?: string;
+  location?: string;
+  externalUrl?: string;
+};
+
+/** Resolve full posting HTML from a public myworkdayjobs.com job URL (Phenom apply links, etc.). */
+export async function fetchWorkdayJobFromPublicUrl(
+  publicJobUrl: string,
+): Promise<WorkdayPublicJobDetail | null> {
+  let url: URL;
+  try {
+    url = new URL(publicJobUrl);
+  } catch {
+    return null;
+  }
+  if (!url.hostname.includes('myworkdayjobs.com')) return null;
+
+  const segments = url.pathname.split('/').filter(Boolean);
+  const jobIdx = segments.indexOf('job');
+  if (jobIdx < 1) return null;
+
+  const site = segments.slice(0, jobIdx).join('/');
+  const externalPath = `/${segments.slice(jobIdx).join('/')}`;
+  const tenant = url.hostname.split('.')[0];
+  const detailUrl = `${url.origin}/wday/cxs/${tenant}/${site}${externalPath}`;
+
+  try {
+    const detailRes = await fetch(detailUrl, {
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; hashtagweb3-ingest/1.0)' },
+      signal: AbortSignal.timeout(45_000),
+    });
+    if (!detailRes.ok) return null;
+    const body = (await detailRes.json()) as WorkdayDetailResponse;
+    const info = body.jobPostingInfo;
+    if (!info?.jobDescription?.trim()) return null;
+    return {
+      jobDescription: info.jobDescription,
+      title: info.title,
+      location: info.location,
+      externalUrl: info.externalUrl,
+    };
+  } catch {
+    return null;
+  }
+}
+
 export function stripPriorIngest(
   allJobs: Job[],
   company: string,

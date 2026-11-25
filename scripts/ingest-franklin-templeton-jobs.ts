@@ -18,6 +18,13 @@ import {
   writeJobDescriptionStore,
 } from './lib/job-description-store';
 import { normalizeIngestIsoDate } from './lib/ingest-date-normalize';
+import { fetchWorkdayJobFromPublicUrl } from './lib/workday-web3-ingest';
+
+const MIN_DESCRIPTION_PLAIN_CHARS = 400;
+
+function plainTextLen(html: string): number {
+  return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().length;
+}
 
 const COMPANY = 'Franklin Templeton';
 const PHENOM_URL = 'https://careers.franklintempleton.com/widgets';
@@ -107,16 +114,28 @@ async function main() {
       (row.jobSeqNo
         ? `https://careers.franklintempleton.com/us/en/job/${row.jobSeqNo}`
         : `https://careers.franklintempleton.com/us/en/search-results?keywords=${encodeURIComponent(title)}`);
-    const link = applyTarget;
+    let link = applyTarget;
     if (!title || !isConcreteJobOpening(title, link)) continue;
 
     const id = `ft-${row.jobId || row.jobSeqNo || title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`;
-    const location = row.location || row.cityStateCountry || undefined;
+    let location = row.location || row.cityStateCountry || undefined;
     const { date, verified: dateOk } = normalizeIngestIsoDate(row.postedDate || row.dateCreated);
 
-    const html = teaser
-      ? sanitizeJobDescriptionHtml(`<p>${teaser}</p>`, COMPANY)
-      : '';
+    let descriptionRaw = teaser ? `<p>${teaser}</p>` : '';
+    if (link.includes('myworkdayjobs.com')) {
+      const wd = await fetchWorkdayJobFromPublicUrl(link);
+      if (wd?.jobDescription) {
+        descriptionRaw = wd.jobDescription;
+        if (wd.externalUrl) link = wd.externalUrl;
+        if (wd.location) location = wd.location;
+      }
+    }
+
+    const html = descriptionRaw ? sanitizeJobDescriptionHtml(descriptionRaw, COMPANY) : '';
+    if (plainTextLen(html) < MIN_DESCRIPTION_PLAIN_CHARS) {
+      console.warn(`Skip thin description (${plainTextLen(html)} chars) for ${title}`);
+      continue;
+    }
 
     const jobRow: Job = {
       id,

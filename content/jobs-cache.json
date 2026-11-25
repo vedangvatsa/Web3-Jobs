@@ -1664,7 +1664,7 @@
     "dateVerified": true,
     "dateSource": "Franklin Templeton Careers",
     "source": "Phenom [franklin-templeton]",
-    "location": "New York, New York, United States of America",
+    "location": "USA-NYOMA-New York",
     "type": "Full time",
     "active": true,
     "slug": "cpc"
@@ -16839,36 +16839,6 @@
     "department": "Block Chain Services",
     "active": true,
     "slug": "fsbc"
-  },
-  {
-    "id": "infosys-infsys-external-255106",
-    "title": "Blockchain Developer",
-    "company": "Infosys",
-    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1",
-    "applyUrl": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255106&sourceId=1",
-    "date": "2026-11-06T00:00:00.000Z",
-    "dateVerified": true,
-    "dateSource": "Infosys Careers Portal",
-    "source": "Infosys Careers [infosys]",
-    "location": "Bangalore, India",
-    "department": "Block Chain Services",
-    "active": true,
-    "slug": "dev58"
-  },
-  {
-    "id": "infosys-infsys-external-255107",
-    "title": "Blockchain Developer",
-    "company": "Infosys",
-    "link": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1",
-    "applyUrl": "https://career.infosys.com/jobdesc?jobReferenceCode=INFSYS-EXTERNAL-255107&sourceId=1",
-    "date": "2026-11-06T00:00:00.000Z",
-    "dateVerified": true,
-    "dateSource": "Infosys Careers Portal",
-    "source": "Infosys Careers [infosys]",
-    "location": "Bangalore, India",
-    "department": "Block Chain Services",
-    "active": true,
-    "slug": "dev59"
   },
   {
     "id": "8332683",

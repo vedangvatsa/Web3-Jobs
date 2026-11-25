@@ -20,6 +20,12 @@ import {
 } from './lib/job-description-store';
 import { normalizeIngestIsoDate } from './lib/ingest-date-normalize';
 
+const MIN_DESCRIPTION_PLAIN_CHARS = 400;
+
+function plainTextLen(html: string): number {
+  return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().length;
+}
+
 const COMPANY = 'EY';
 const BASE = 'https://careers.ey.com';
 const SEARCH_QUERIES = ['blockchain', 'digital assets'];
@@ -116,6 +122,10 @@ async function main() {
     const cleanHtml = description
       ? sanitizeJobDescriptionHtml(description, COMPANY)
       : '';
+    if (plainTextLen(cleanHtml) < MIN_DESCRIPTION_PLAIN_CHARS) {
+      console.warn(`Skip thin EY description (${plainTextLen(cleanHtml)} chars) for ${jobId}`);
+      continue;
+    }
 
     const jobRow: Job = {
       id,
