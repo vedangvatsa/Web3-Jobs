@@ -86,6 +86,9 @@
   "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
   "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
   "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+  "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+  "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+  "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -260,6 +263,12 @@
   "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
   "Anthropic releases Siren benchmark to evaluate AI sandbox escapes",
   "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+  "New York bans AI chatbot toys for five years",
+  "Want to buy your kid an AI toy this Christmas? Not in New York",
+  "FCC approves SpaceX plan for orbital AI data centers",
+  "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
+  "Anthropic MCP reaches 700 million monthly downloads",
+  "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -346,5 +355,8 @@
   "fp:27m|account|announc|ban|catalog|currently|delet|generat|music|percent",
   "fp:100m|epochal|establish|former|infrastructur|learn|machin|predictiv|researcher",
   "fp:async|asynchronous|benchmark|bytedanc|cod|framework|improv|laminar|learn|open",
-  "fp:anthropic|assign|autonomous|benchmark|breach|break|complet|comput|environment|escap"
+  "fp:anthropic|assign|autonomous|benchmark|breach|break|complet|comput|environment|escap",
+  "fp:ban|buy|chatbot|children|christma|enact|exposur|failur|fiv|follow",
+  "fp:agency|approv|authoriz|center|chip|comput|deployment|equipp|fcc|infrastructur",
+  "fp:700m|anthropic|autonomous|background|direct|download|fil|interfac|mcp|monthly"
 ]

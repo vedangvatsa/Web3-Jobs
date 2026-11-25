@@ -1107,7 +1107,7 @@
     "sentAt": "2026-11-25T11:58:14.051Z"
   },
   "94ee0e07-2827-437f-89ed-41ba30f3a971": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T20:37:03.122Z",
     "stories": [
       {
@@ -1141,6 +1141,8 @@
         "originalTitle": "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents"
       }
     ],
-    "slotKey": "2026-11-25:evening"
+    "slotKey": "2026-11-25:evening",
+    "messageId": 193582,
+    "sentAt": "2026-11-25T20:37:06.393Z"
   }
 }
