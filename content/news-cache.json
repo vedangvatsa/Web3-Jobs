@@ -1,21 +1,133 @@
 {
-  "generatedAt": "2026-11-25T15:12:57.167Z",
+  "generatedAt": "2026-11-25T17:53:52.004Z",
   "items": [
     {
-      "title": "NovaTech founders ordered to pay $1.3 million over crypto Ponzi scheme targeting Haitian investors",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643",
-      "pubDate": "Wed, 25 Nov 2026 15:02:10 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "NovaTech founders Cynthia and Eddy Petion have been ordered to pay over $1.3 million dollars for their role in defrauding thousands.",
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "link": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "pubDate": "Wed, 25 Nov 2026 17:38:33 +0000",
+      "creator": "Krisztian Sandor",
+      "contentSnippet": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and q...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+      "link": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:33:22 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Bitcoin falls below $58,000 as CoinShares’ Butterfill sees ‘tail end of the bear market’",
+      "link": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+      "pubDate": "Wed, 25 Nov 2026 17:26:55 +0000",
+      "creator": "Kyle Baird",
+      "contentSnippet": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up.",
       "source": "The Block"
     },
     {
-      "title": "Ukraine passes crypto market law, with $332 million revenue target",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
-      "pubDate": "Wed, 25 Nov 2026 14:35:20 +0000",
-      "creator": "Brian Danga",
-      "contentSnippet": "Ukraine’s parliament passed a bill establishing a regulatory and tax framework projected to generate $332 million in state budget revenue.",
+      "title": "Lithe: A Formally Verifiable EVM Language Built for AI Agents",
+      "link": "https://blockchain.news/news/lithe-evm-language-for-ai-agents",
+      "pubDate": "Wed, 25 Nov 2026 17:25:31 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Lithe, a new EVM language developed by AI agents, offers smaller bytecode, formal verification, and enhanced security for smart contracts. (Read More)",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+      "link": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:19:33 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptoc...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "link": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+      "pubDate": "Wed, 25 Nov 2026 17:16:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estima...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
+      "link": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+      "pubDate": "Wed, 25 Nov 2026 16:54:15 +0000",
+      "creator": "Jason Shubnell",
+      "contentSnippet": "Franklin Templeton's Crypto Index ETF (EZPZ) will add Hyperliquid's HYPE token effective Dec. 1, according to an SEC prospectus supplement.",
       "source": "The Block"
+    },
+    {
+      "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+      "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
+      "pubDate": "Wed, 25 Nov 2026 16:52:50 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on ...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+      "link": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
+      "pubDate": "Wed, 25 Nov 2026 16:07:35 +0000",
+      "creator": "Agent",
+      "contentSnippet": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "link": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+      "pubDate": "Wed, 25 Nov 2026 16:02:31 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols.",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "link": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+      "pubDate": "Wed, 25 Nov 2026 16:02:07 +0000",
+      "creator": "Francisco Rodrigues",
+      "contentSnippet": "Lawmaker Yaroslav Zhelezniak said he expects roughly $330 million (15 billion hryvnias) in added budget revenue, though the time frame remains unclear...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Aave Labs publicly launches savings app as balances top $63 million",
+      "link": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
+      "pubDate": "Wed, 25 Nov 2026 16:00:00 +0000",
+      "creator": "James Hunt",
+      "contentSnippet": "Aave App supports bank transfers in the U.S., UK, and EEA, plus stablecoin deposits across eight networks.",
+      "source": "The Block"
+    },
+    {
+      "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+      "link": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "pubDate": "Wed, 25 Nov 2026 15:59:44 +0000",
+      "creator": "Phillip Lord",
+      "contentSnippet": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "SEC Investor Advisory Committee to Discuss Tokenized Securities on Dec. 3",
+      "link": "https://blockchain.news/news/sec-investor-advisory-committee-dec-3-meeting",
+      "pubDate": "Wed, 25 Nov 2026 15:34:38 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "The SEC's Investor Advisory Committee will hold a virtual meeting on Dec. 3 to discuss tokenized securities, bankruptcy, and accounting oversight. (Re...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors",
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643",
+      "pubDate": "Wed, 25 Nov 2026 15:02:10 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "NovaTech founders Cynthia and Eddy Petion have been ordered to pay over $1.3 billion for their role in defrauding thousands.",
+      "source": "The Block"
+    },
+    {
+      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+      "link": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+      "pubDate": "Wed, 25 Nov 2026 14:47:17 +0000",
+      "creator": "Olivier Acuna",
+      "contentSnippet": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in fu...",
+      "source": "Coindesk"
     },
     {
       "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
@@ -58,27 +170,11 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-      "link": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 25 Nov 2026 13:02:09 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "UniCredit offers bitcoin exposure to Italian retail clients with capital protection at maturity",
       "link": "https://www.theblock.co/news/business/2026-11-25-unicredit-offers-bitcoin-exposure-to-italian-retail-clients-with-capital-protection-at-maturity-446150",
       "pubDate": "Wed, 25 Nov 2026 12:24:32 +0000",
       "creator": "Brian Danga",
       "contentSnippet": "UniCredit is giving retail clients access to bitcoin performance through a six-year investment with protected principal and capped gains.",
-      "source": "The Block"
-    },
-    {
-      "title": "‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
-      "pubDate": "Wed, 25 Nov 2026 12:14:27 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme.",
       "source": "The Block"
     },
     {
@@ -170,11 +266,11 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Live updates: Bitcoin tumbles under $58,000 alongside continuing tech rout",
+      "title": "Live updates: Bitcoin climbs from lows as markets attempt midday bounce",
       "link": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
       "pubDate": "Wed, 25 Nov 2026 08:35:47 +0000",
       "creator": "Shaurya Malwa",
-      "contentSnippet": "Nvidia led a 4% plunge in the Nasdaq in early action Wednesday as inflation data remained troubling and the Trump administration was set to unveil a s...",
+      "contentSnippet": "The Nasdaq narrowed an early 4.5% decline by about 50% as Michael Burry announced he's closed all tech shorts and gone long.",
       "source": "Coindesk"
     },
     {
@@ -322,14 +418,6 @@
       "source": "The Block"
     },
     {
-      "title": "CFTC sets new prediction market rules as more firms seek US entry",
-      "link": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 18:31:42 +0000",
-      "creator": "Jona Jaupi",
-      "contentSnippet": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
       "link": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
       "pubDate": "Tue, 24 Nov 2026 18:16:02 +0000",
@@ -384,14 +472,6 @@
       "creator": "William Suberg",
       "contentSnippet": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Robinhood co-leads $5 million seed round for onchain trading platform Rialto",
-      "link": "https://www.theblock.co/news/deals/2026-11-24-robinhood-onchain-trading-platform-rialto-funding-446030",
-      "pubDate": "Tue, 24 Nov 2026 17:00:02 +0000",
-      "creator": "Yogita Khatri",
-      "contentSnippet": "Rialto has processed more than $600 million in spot trading volume across its app and Swap API since launching publicly in July, Can said.",
-      "source": "The Block"
     },
     {
       "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
@@ -474,14 +554,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-      "link": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 13:11:44 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
       "link": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
       "pubDate": "Tue, 24 Nov 2026 13:07:49 +0000",
@@ -490,20 +562,20 @@
       "source": "Decrypt"
     },
     {
+      "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
+      "link": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+      "pubDate": "Tue, 24 Nov 2026 12:47:40 +0000",
+      "creator": "Stephen Alpher",
+      "contentSnippet": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ repo...",
+      "source": "Coindesk"
+    },
+    {
       "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
       "link": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
       "pubDate": "Tue, 24 Nov 2026 12:40:47 +0000",
       "creator": "Ryan Gladwin",
       "contentSnippet": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return",
-      "link": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 11:40:33 +0000",
-      "creator": "Zoltan Vardai",
-      "contentSnippet": "Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.",
-      "source": "Cointelegraph"
     },
     {
       "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
@@ -546,28 +618,20 @@
       "source": "Decrypt"
     },
     {
+      "title": "Bitcoin Rallies, Anthropic Sinks as Nvidia Surges 35% on Jensen Huang’s Return",
+      "link": "https://decrypt.co/383801/bitcoin-rallies-anthropic-sinks-as-nvidia-surges-35-on-jensen-huangs-return",
+      "pubDate": "Mon, 23 Nov 2026 16:32:04 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Nvidia’s comeback sent chip shares soaring and gave Bitcoin a lift after a punishing selloff. Anthropic, fresh from its record IPO, missed the party.",
+      "source": "Decrypt"
+    },
+    {
       "title": "Bitcoin Core Releases Patches for Vulnerability Allowing Attackers to Stall Nodes",
       "link": "https://dailyhodl.com/2026/11/23/bitcoin-core-releases-patches-for-vulnerability-allowing-attackers-to-stall-nodes/",
       "pubDate": "Mon, 23 Nov 2026 15:44:14 +0000",
       "creator": "Agent",
       "contentSnippet": "Bitcoin Core is releasing updates to fix a medium-severity flaw that lets peers temporarily freeze node processing of blocks and transactions through ...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
-      "link": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
-      "pubDate": "Mon, 23 Nov 2026 13:34:13 +0000",
-      "creator": "Tyler Warner",
-      "contentSnippet": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
-      "link": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
-      "pubDate": "Mon, 23 Nov 2026 13:25:35 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Michael Saylor's firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week.",
-      "source": "Decrypt"
     }
   ]
 }
