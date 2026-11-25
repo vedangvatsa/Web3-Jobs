@@ -1,0 +1,26 @@
+---
+title: SBI, SMFG and Solana Foundation begin operations of SBI Solana Global joint venture
+ogTitle: "SBI, SMFG AND SOLANA FOUNDATION BEGIN SBI SOLANA GLOBAL OPERATIONS"
+description: SBI Holdings, Sumitomo Mitsui Financial Group and the Solana Foundation said they completed agreements for a joint venture focused on stablecoin payments and asset tokenization.
+image: /images/news/sbiglobal.jpg
+imageCaption: "The SMBC Osaka headquarters building of Sumitomo Mitsui Financial Group's banking unit. Photo: 掬茶 via Wikimedia Commons (CC BY-SA 4.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:SMBC_Osaka_Headquarters_Building.jpg
+category: News
+data-ai-hint: Osaka headquarters building of SMBC
+publishedDate: '2026-11-25'
+lastUpdated: '2026-11-25'
+---
+
+SBI Holdings, Sumitomo Mitsui Financial Group and the Solana Foundation said on Nov 25 they had completed a series of agreements to move SBI R3 Japan into a three-party joint venture structure, and that the company has begun full-scale operations as SBI Solana Global Co., Ltd. The joint [release](https://www.sbigroup.co.jp/english/news/pdf/2026/1125_a_en.pdf), dated Nov 25, sets out a business built around stablecoin payments, tokenization and on-chain asset management. Sumitomo Mitsui Financial Group's group companies operate under the SMBC Group name, the release said. The company aims to create an on-chain digital economy originating in Japan and expand the business across Asia and global markets, and said it will seek to broaden Japan-originated on-chain financial markets by connecting digital services and assets from Japan with markets across Asia and globally.
+
+The venture will concentrate on four business areas, according to the release. Payment rails cover domestic and cross-border payment and remittance infrastructure using stablecoins, including micropayments the release attributes to artificial intelligence agents. A second area brings bonds, investment funds and loan receivables on-chain, supports their issuance and distribution, and is intended to widen funding options and investor access. The third digitizes commodities, various rights and other non-financial assets, with mechanisms meant to support authenticity and traceability and to create new investment and distribution markets. The fourth explores and commercializes asset management services built on stablecoins and tokenized assets.
+
+The release said stablecoin payments and the tokenization of financial and real-world assets on blockchain networks are advancing rapidly in global markets, and defined on-chain finance as issuance, trading and settlement of financial assets beyond national borders and conventional business hours. It described that activity as attracting attention as a new form of financial market infrastructure. SBI Solana Global is meant to serve as a bridge between traditional financial markets and on-chain markets by combining the financial expertise and networks of the SBI Group and the SMBC Group with Solana's high-speed, low-cost blockchain infrastructure and global ecosystem. The medium- to long-term objective, the release said, is an ecosystem in which payments, issuance, distribution and asset management are interconnected on-chain.
+
+The deal closes a process that began in July, when SBI Holdings and the Solana Foundation announced a strategic partnership. [Cointelegraph](https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization) reported that the July announcement outlined plans to rename SBI R3 Japan and develop financial infrastructure for institutional blockchain adoption. The same report noted that SBI has already moved into both dollar- and yen-denominated stablecoins: its crypto subsidiary SBI VC Trade began offering USDC trading in March 2025, and the group and Startale launched the yen-backed JPYSC in June 2026.
+
+The release said Solana Foundation is collaborating with SBI Solana Global to support future business expansion, and that the three parties will work together to promote the company's growth. It gives no ownership split, capital figure, management team or launch dates for individual products. SBI Group, founded in 1999, describes itself as an internet-based financial group spanning banking, securities and insurance, and said it also runs asset management, private equity, crypto-asset and next-generation businesses.
+
+[Crypto Briefing](https://cryptobriefing.com/sbi-solana-develop-stablecoin-payments/) described the venture as using Solana's infrastructure for stablecoin-based payments, tokenized financial and real-world assets and on-chain investment services, and reported that SBI R3 Japan is operating under the new name once the agreements were completed. The report framed the initiative as an effort to integrate cryptocurrency payment systems within traditional financial institutions across Asia, and said the partners aim to build infrastructure that allows financial assets to be issued, traded and settled on-chain across borders and outside conventional market hours.
+
+The release said the parties plan to establish commercial use cases in Japan first, then extend the business across Asia and link it to global on-chain markets, and that SBI Solana Global does not aim to build a blockchain business confined to Japan.

@@ -1,0 +1,26 @@
+---
+title: Hong Kong central bank launches CMU Digital Asset Platform for tokenized debt
+ogTitle: "HONG KONG CENTRAL BANK LAUNCHES CMU DIGITAL ASSET PLATFORM"
+description: The HKMA launched the CMU Digital Asset Platform on Nov 25, offering 24-hour multi-currency settlement of tokenized debt securities with 10 banks in its first participant batch.
+image: /images/news/cmudap.jpg
+imageCaption: "The Hong Kong Monetary Authority headquarters in Central, Hong Kong. Photo: Alan Mak via Wikimedia Commons (CC BY-SA 3.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong%20Kong%20Monetary%20Authority.jpg
+category: News
+data-ai-hint: Hong Kong Monetary Authority headquarters
+publishedDate: '2026-11-25'
+lastUpdated: '2026-11-25'
+---
+
+The Hong Kong Monetary Authority launched the CMU Digital Asset Platform on Nov 25, a distributed-ledger system for issuing, clearing and settling debt securities around the clock. The platform, called CMU DAP, was developed and operated by CMU OmniClear Limited on behalf of the HKMA, the regulator said in its [press release](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/). It runs on the Central Moneymarkets Unit, Hong Kong's central securities depository.
+
+CMU DAP covers the full life of a bond in a paperless process: primary issuance, clearing and settlement of secondary trades, coupon payments and redemption at maturity. It also supports the tokenization of conventional debt securities that were not issued digitally. Settlement uses an atomic delivery-versus-payment model on-chain, so the securities and the payment leg move together or neither moves. The platform has direct interfaces with real-time gross settlement systems and central bank digital currencies, and supports 24-hour settlement in multiple currencies using cash tokens, the HKMA said. [Cointelegraph](https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities) described the same mechanism from the buyer's side: the purchaser receives the securities only if the seller receives payment.
+
+Ten banks form the first batch of direct participants, [CMU OmniClear said](https://www.cmuomniclear.com/en/news-and-events/id/3941): Bank of China (Hong Kong), Bank of Communications (Hong Kong), China CITIC Bank International, China Construction Bank (Asia), CMB Wing Lung Bank, Credit Agricole Corporate and Investment Bank, DBS Bank's Hong Kong branch, Industrial Bank, Standard Chartered Bank (Hong Kong) and HSBC. The operator said the platform's capabilities were validated through trial trades in tokenized Exchange Fund Bills earlier in 2026; its release does not give volumes or values from those trades. CMU DAP also adopts the International Capital Market Association's Bond Data Taxonomy as a common data standard.
+
+CMU OmniClear was established in October 2024 to run the CMU infrastructure for the HKMA, and the operator said assets under its custody exceeded HK$6 trillion equivalent by the end of September 2026. The HKMA release framed the launch against Hong Kong's Roadmap for the Development of Fixed Income and Currency Markets, which calls for next-generation infrastructure, and said the platform is meant to enhance settlement efficiency and reduce operational costs.
+
+Eddie Yue, the HKMA's chief executive and chairperson of CMU OmniClear Holdings, said the operator is implementing a strategic roadmap to establish the CMU as the core infrastructure for a multi-asset digital financial ecosystem in Hong Kong. He added that the HKMA will keep working with industry stakeholders to develop the CMU into a leading central securities depository in Asia and to bolster the city's role as a global fixed income and currency hub. [Cointelegraph](https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities) reported that the launch follows an upgrade of the HKMA's Project Ensemble pilot on Nov 2, which added 24/7 interbank settlement of tokenized deposit transactions using tokenized central bank money. That pilot began in November 2025 and initially used Hong Kong's conventional real-time gross settlement system.
+
+Stanley Chan, group chief executive of CMU OmniClear Holdings and chief executive of CMU OmniClear, said the platform introduces around-the-clock automated clearing and settlement that links tokenized and traditional market infrastructure, and that the operator will expand use cases and asset class coverage with industry participants. The operator's roadmap points beyond bonds: it plans to extend CMU DAP into funds and real-world assets and to connect it with other distributed-ledger platforms and payment instruments including tokenized deposits and regulated stablecoins.
+
+[LeapRate](https://www.leaprate.com/institutional/hong-kongs-hkma-launches-on-chain-settlement-platform-for-debt-securities/) explained why atomic delivery-versus-payment matters for settlement risk: the securities and the cash change hands together or not at all, which removes the window in which one side of a trade has paid without receiving the securities. The same report noted that the real-time gross settlement links settle large payments one by one, while cash tokens stand in for cash on the ledger. The HKMA release does not state how much value has already been settled on the platform.
