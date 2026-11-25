@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-25T11:38:17.072Z",
+  "generatedAt": "2026-11-25T11:57:56.895Z",
   "items": [
+    {
+      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+      "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+      "pubDate": "Wed, 25 Nov 2026 11:52:06 +0000",
+      "creator": "Agent",
+      "contentSnippet": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
+      "link": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 11:49:54 +0000",
+      "creator": "Ezra Reguerra",
+      "contentSnippet": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+      "pubDate": "Wed, 25 Nov 2026 11:30:32 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leavi...",
+      "source": "Coindesk"
+    },
     {
       "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
       "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
@@ -32,14 +56,6 @@
       "creator": "Ezra Reguerra",
       "contentSnippet": "HYPE traded below its price before Trump’s August remarks as wallets linked to Abraxas Capital reportedly exited the Hyperliquid platform.",
       "source": "Cointelegraph"
-    },
-    {
-      "title": "Japan’s SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
-      "link": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
-      "pubDate": "Wed, 25 Nov 2026 10:23:10 +0000",
-      "creator": "Danny Park",
-      "contentSnippet": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management.",
-      "source": "The Block"
     },
     {
       "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
@@ -466,14 +482,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Why 42 Macro says it’s waiting to buy the Bitcoin dip",
-      "link": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 05:07:30 +0000",
-      "creator": "Felix Ng",
-      "contentSnippet": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
       "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
       "pubDate": "Tue, 24 Nov 2026 00:25:04 +0000",
@@ -512,14 +520,6 @@
       "creator": "Agent",
       "contentSnippet": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
-      "link": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
-      "pubDate": "Mon, 23 Nov 2026 17:31:27 +0000",
-      "creator": "Krisztian Sandor",
-      "contentSnippet": "Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists,...",
-      "source": "Coindesk"
     },
     {
       "title": "Tom Lee Says Ethereum Is as Scarce as Bitcoin—And Bitmine Just Bought More",
@@ -575,14 +575,6 @@
       "pubDate": "Mon, 23 Nov 2026 11:14:22 +0000",
       "creator": "Agent",
       "contentSnippet": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
-      "link": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
-      "pubDate": "Sat, 21 Nov 2026 18:01:02 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token ...",
       "source": "Decrypt"
     },
     {
