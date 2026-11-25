@@ -3353,7 +3353,7 @@
     "sentAt": "2026-11-24T14:13:07.837Z"
   },
   "c50b7c47-cc27-4b3d-8b30-45f25c4aadb3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T11:58:14.336Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3476,6 +3476,8 @@
       }
     ],
     "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Operations Specialist</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/eng670?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/pm167?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Asset Onboarding &amp; DART</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mkt173?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Marketing Manager</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/mgr225?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Datacenter Construction Manager</a>",
-    "slotKey": "2026-11-25:afternoon"
+    "slotKey": "2026-11-25:afternoon",
+    "messageId": 156498,
+    "sentAt": "2026-11-25T11:58:19.115Z"
   }
 }
