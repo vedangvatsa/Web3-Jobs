@@ -191537,7 +191537,8 @@
       },
       "account": "channel:product",
       "attemptId": "f1cc28ba-9a94-418b-bded-732e44ee144c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc4793ca53558cc5e19a1a8f2b37bfdad82bc802b"
     }
   ]
 }
