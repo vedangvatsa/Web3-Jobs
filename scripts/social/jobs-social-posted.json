@@ -187384,7 +187384,8 @@
       },
       "account": "channel:growth",
       "attemptId": "2577a5af-7695-4b3b-8e39-5d63da4c1aa2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x35560bf760c6600190296a05c23ef95ed54e1261"
     }
   ]
 }
