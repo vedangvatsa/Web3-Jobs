@@ -5961,45 +5961,6 @@
       }
     },
     {
-      "id": "discovery-evt-H7r7sZBCzbTUXsJ",
-      "name": "Build For Breakpoint: Laptops to Terminals - How Ecosystem Helps You Scale From Retail to Institutions",
-      "startDate": "2026-10-26T11:00:00.000Z",
-      "endDate": "2026-10-26T12:00:00.000Z",
-      "timezone": "Europe/London",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-H7r7sZBCzbTUXsJ",
-      "url": "https://luma.com/build-for-breakpoint-laptops-to-terminals-how",
-      "lane": "breakpoint",
-      "reason": "No source ID, URL or name/date match in runtime, sources, held rows or tombstones. Uses the published post-DST time, not the offset of earlier workshops.",
-      "evidence": [
-        {
-          "url": "https://luma.com/build-for-breakpoint-laptops-to-terminals-how",
-          "fetchedAt": "2026-10-20T08:52:31.477Z",
-          "excerpt": "evt-H7r7sZBCzbTUXsJ; 2026-10-26T11:00:00.000Z to 2026-10-26T12:00:00.000Z; Europe/London; visibility public; public Somerset House address; require_approval true; registration open. Workshop led by Mario Bernardi: institutional partnerships, ecosystem development, sales cycles and partnership strategy. Strictly invite-only attendance with public request-to-join route.",
-          "sha256": "f5670254ee5706884446afc184a5d407a936f77d0b6fa37ee0bf191044cd8087",
-          "representation": "Public primary HTML and __NEXT_DATA__ field excerpts; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:14.940Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/wl/7e0a27ae-081c-41a2-9511-6fe046d3a6bf.jpg",
-        "fetchedAt": "2026-10-20T09:50:10.605Z",
-        "status": 200,
-        "local": "/events/discovery-evt-h7r7szbczbtuxsj-efa16edc.webp",
-        "sourceSha256": "9de6834807f1c8dc88794837f4e516ac8c44a5758f801b1c4133d7397624060c",
-        "sha256": "241bf0eabe8155e4f1b3313e58c3ea87f44c84825ad3cc0d132bf4f33669c573",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 120596
-      }
-    },
-    {
       "id": "luma-host-evt-evt-S1a3G141Dsg60pk",
       "name": "The Solana Ecosystem Call | October",
       "startDate": "2026-10-29T14:00:00.000Z",
@@ -10390,12 +10351,6 @@
       "url": "https://luma.com/lo-tech",
       "result": "complete-embedded-calendar",
       "note": "Public cal-pI0TeC2lUbzZFOW has one upcoming entry and has_more:false, matching The LOCAL primary page.",
-      "lane": "breakpoint"
-    },
-    {
-      "url": "https://luma.com/build-for-breakpoint-laptops-to-terminals-how",
-      "result": "verified-new",
-      "note": "October 26, 11:00-12:00 local GMT. Mario Bernardi workshop on institutional partnerships. Public application listing, approval required. GMT differs from the prior week's BST.",
       "lane": "breakpoint"
     },
     {

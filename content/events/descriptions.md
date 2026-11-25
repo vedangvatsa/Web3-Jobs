@@ -3216,20 +3216,6 @@ An academic-industry conference at Ben-Gurion University covering blockchain pro
 
 Registration is free and requires approval.
 
-<a id="event-1df408db7e1b3831"></a>
-
-## Build For Breakpoint: Laptops to Terminals - How Ecosystem Helps You Scale From Retail to Institutions
-
-- Record: `discovery-evt-H7r7sZBCzbTUXsJ`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-26T11:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/build-for-breakpoint-laptops-to-terminals-how>
-
-### About the event
-
-Mario Bernardi leads a workshop on moving from retail adoption to institutional customers. Topics include partnership structures, ecosystem development, institutional sales cycles and a first draft of a partnership strategy. Attendance requires an approved invitation.
-
 <a id="event-45291e89e887580f"></a>
 
 ## Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs
@@ -43348,6 +43334,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-26T18:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/26Noviembre>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-330e4a097a148204"></a>
+
+## Healing Through Disruption \| Failing Forward #6
+
+- Record: `luma-evt-kYnE8R8UA7NwHGp`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-26T18:45:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/9vysiw37>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

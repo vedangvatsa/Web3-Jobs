@@ -17222,7 +17222,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -17299,7 +17299,7 @@
   {
     "id": "mu-317449479",
     "name": "Phoenix World Blockchain Group : RWA,Defi,DefAi and More ..",
-    "description": "Let's Meetup and Build a Blockchain Community in Phoenix City Who are we: Phoenix World Blockchain Group\n\nnote if rsvp fills up you can still attend venue can hold alot of people!)\n\nJoin the Ph",
+    "description": "🌐 Let's Meetup and Build a Blockchain Community in Phoenix City 🌐\nWho are we : Phoenix World Blockchain Group\n\nnote if rsvp fills up you can still attend venue can hold alot of people!)\n\nJoin the Ph",
     "startDate": "2026-11-25T19:00:00-07:00",
     "endDate": "2026-11-25T19:00:00-07:00",
     "city": "Phoenix",
@@ -17313,7 +17313,7 @@
   {
     "id": "mu-317454520",
     "name": "The Basics of Options: From Definitions to Your First Trade ",
-    "description": "Traders of all levels are welcome to join and learn! **Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
+    "description": "**Traders of all levels are welcome to join and learn!**\n\n**Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
     "startDate": "2026-12-05T09:00:00-07:00",
     "endDate": "2026-12-05T09:00:00-07:00",
     "city": "",
@@ -24901,7 +24901,7 @@
   {
     "id": "mu-317527758",
     "name": "Brokerage Breakdown - The Modern Brokerage for Forward Thinking Agents",
-    "description": "Let's breakdown the differences in the cloud brokerages.\n\nYes, we're biased and will show you how one of them \"breaks the mold\". If you're an early adapter or just don't want to get left behind, come",
+    "description": "Let's breakdown the differences in the cloud brokerages.\n\nYes, we're biased and will show you how one of them \"breaks the mold\".\nIf you're an early adapter or just don't want to get left behind, come ",
     "startDate": "2026-11-27T09:00:00-07:00",
     "endDate": "2026-11-27T09:00:00-07:00",
     "city": "",
@@ -24971,7 +24971,7 @@
   {
     "id": "mu-317272098",
     "name": "ZK Learning Group: Wrap-up 2026, ZK order book matching",
-    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development. During the year we will systematically explore different aspects of zero",
+    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development.\nDuring the year we will systematically explore different aspects of zero",
     "startDate": "2026-12-10T10:00:00-07:00",
     "endDate": "2026-12-10T10:00:00-07:00",
     "city": "",
@@ -25606,5 +25606,19 @@
     "coverImage": "/events/luma-host-evt-evt-vrpkexhieafsbzs-94eec05a.webp",
     "source": "luma-trusted",
     "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-kYnE8R8UA7NwHGp",
+    "name": "Healing Through Disruption | Failing Forward #6",
+    "description": "",
+    "startDate": "2026-11-26T18:45:00.000Z",
+    "endDate": "2026-11-26T20:30:00.000Z",
+    "city": "Lisboa",
+    "country": "Portugal",
+    "location": "Lisboa, Portugal",
+    "url": "https://lu.ma/9vysiw37",
+    "coverImage": "/events/luma-evt-kyne8r8ua7nwhgp-a5ee60df.webp",
+    "source": "luma",
+    "month": "November 2026"
   }
 ]
