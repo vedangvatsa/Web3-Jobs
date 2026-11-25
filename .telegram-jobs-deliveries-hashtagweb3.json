@@ -3481,7 +3481,7 @@
     "sentAt": "2026-11-25T11:58:19.115Z"
   },
   "bf3b802f-923b-4d88-b0d2-28b55b8e37f1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T20:36:26.834Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3595,6 +3595,8 @@
       }
     ],
     "message": "- Bybit is hiring <a href=\"https://hashtagweb3.com/sls205?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development Specialist</a>\n- Velocity is hiring <a href=\"https://hashtagweb3.com/pm329?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Payments &amp; Settlement</a>\n- Venice AI is hiring <a href=\"https://hashtagweb3.com/cmp202?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Paralegal</a>\n- Injective Labs is hiring <a href=\"https://hashtagweb3.com/eng851?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DeFi Protocol Engineer</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/qa72?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Compliance QA Program Manager</a>",
-    "slotKey": "2026-11-25:evening"
+    "slotKey": "2026-11-25:evening",
+    "messageId": 156505,
+    "sentAt": "2026-11-25T20:36:34.138Z"
   }
 }
