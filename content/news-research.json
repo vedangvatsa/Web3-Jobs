@@ -217871,9 +217871,9 @@
         "The Defiant"
       ],
       "id": "6a950b8afef3d76411be",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T11:49:54.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "articleSlug": "sbiglobal",
@@ -217899,7 +217899,25 @@
         "updatedAt": "2026-11-25T13:28:32.812Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the SBI/SMFG/Solana Foundation joint release PDF, Cointelegraph and Crypto Briefing reports; verified the Nov 25 agreements, four business areas, July partnership and stablecoin history; hero image compressed to 318KB and quality/formatting/image/duplicate audits clean.",
+      "sourceChecks": [
+        {
+          "url": "https://www.sbigroup.co.jp/english/news/pdf/2026/1125_a_en.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/sbi-solana-develop-stablecoin-payments/",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-25T13:38:20.426Z",
+      "lastReviewedDay": "2026-11-25"
     },
     "debc8923aefa927c28ef": {
       "source": "Cointelegraph",
@@ -430465,6 +430483,27 @@
             "Find independent reporting confirming the event in: Crypto Market Structure Basics",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "6a950b8afef3d76411be": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the SBI/SMFG/Solana Foundation joint release PDF, Cointelegraph and Crypto Briefing reports; verified the Nov 25 agreements, four business areas, July partnership and stablecoin history; hero image compressed to 318KB and quality/formatting/image/duplicate audits clean.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sbigroup.co.jp/english/news/pdf/2026/1125_a_en.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/sbi-solana-develop-stablecoin-payments/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-25T13:38:20.426Z",
+          "articleSlug": "sbiglobal"
         }
       },
       "baselineSlugs": [
