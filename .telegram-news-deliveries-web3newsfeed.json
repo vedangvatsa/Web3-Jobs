@@ -922,5 +922,36 @@
     "slotKey": "2026-11-24:afternoon",
     "messageId": 65853,
     "sentAt": "2026-11-24T18:49:57.073Z"
+  },
+  "b544700f-791f-4f33-bc57-e5db494341e4": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T11:58:53.416Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "White House Reviews DOL Rule on 401(k) Crypto Investments",
+        "summary": "The proposal provides legal protection for retirement plan managers offering cryptocurrency and other alternative assets to investors.",
+        "link": "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOL Final Rule on Crypto in 401(k)s Reaches White House Review"
+      },
+      {
+        "index": -1,
+        "headline": "Nigeria mandates local licenses for foreign stablecoin issuers",
+        "summary": "Effective Nov. 5, Central Bank rules require 15 billion naira in capital and a 2% reserve buffer.",
+        "link": "https://hashtagweb3.com/cbnstablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nigeria Requires Offshore Stablecoin Issuers to License Locally"
+      },
+      {
+        "index": -1,
+        "headline": "Binance Hackers Breached Engineer's Device Weeks Before Exploit",
+        "summary": "Security Alliance says a fake recruitment scheme compromised an employee device prior to the October breach.",
+        "link": "https://hashtagweb3.com/binanceseal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEAL Says Binance Hackers Had an Eight-Week Intrusion Window"
+      }
+    ],
+    "slotKey": "2026-11-25:afternoon"
   }
 }
