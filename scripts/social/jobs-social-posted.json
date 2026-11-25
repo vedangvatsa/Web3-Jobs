@@ -186824,7 +186824,8 @@
       },
       "account": "profile",
       "attemptId": "735ce9c2-4c2d-46c2-a3e4-159ff888f31f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4e8f6053a33924a8e2875c4171358292a7003d8e"
     }
   ]
 }
