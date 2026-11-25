@@ -112,7 +112,7 @@ jobs:
           node-version: 24
           cache: npm
       - name: Verify package-lock.json (npm ci)
-        run: npm ci --dry-run --ignore-scripts
+        run: npm run check:lockfile
       - id: set
         env:
           NEWS_RECOVERY_RUN: ${{ inputs.news_recovery_run }}

@@ -1,5 +1,7 @@
 name: Check package lockfile
 
+# Every pull request: lockfile must match package.json before merge.
+# Push to main when package files change: catch direct commits that skip PR.
 on:
   push:
     branches: [main]
@@ -7,9 +9,6 @@ on:
       - package.json
       - package-lock.json
   pull_request:
-    paths:
-      - package.json
-      - package-lock.json
   workflow_dispatch:
 
 jobs:

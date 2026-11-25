@@ -155,6 +155,8 @@
     "jobs:backfill-lever-salaries": "npx tsx scripts/backfill-lever-salaries.ts",
     "check:logos": "node scripts/check-logo-case.js",
     "check:lockfile": "node scripts/check-package-lock.mjs",
+    "verify:lockfile": "npm run check:lockfile",
+    "test:lockfile-ci": "node --test scripts/ci/check-lockfile-workflow.test.mjs",
     "clean:slop": "node scripts/clean-slop.js --apply",
     "ingest:bnbchain": "npx tsx scripts/ingest-bnbchain-jobs.ts",
     "ingest:paradigm": "npx tsx scripts/ingest-paradigm.ts",

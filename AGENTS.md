@@ -70,13 +70,16 @@ OpenAPI spec: `https://hashtagweb3.com/openapi.json` (YAML mirror: `/api/openapi
 ## Development Commands
 
 ```bash
-npm install          # Install dependencies (commit package-lock.json after any package.json change)
-npm run check:lockfile  # CI runs npm ci; this must pass before push
+npm install               # Install dependencies (commit package-lock.json after any package.json change)
+npm run check:lockfile    # Same as verify:lockfile — npm ci --dry-run + staged pairing guard
+git config core.hooksPath .githooks   # Optional: block push when lockfile drifts
 npm run dev          # Start development server (http://localhost:3000)
 npm run build        # Build for production
 npm run lint         # ESLint (next/core-web-vitals)
 npm run typecheck    # tsc --noEmit
 ```
+
+**Dependency bumps:** change `package.json`, run `npm install`, commit **both** `package.json` and `package-lock.json` in the same commit. The `Check package lockfile` workflow runs on every PR; the publish workflow `gate` job fails fast before ingest, deploy, or Telegram when `npm ci` would fail.
 
 ## Coding Conventions
 

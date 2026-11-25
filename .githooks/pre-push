@@ -1,0 +1,5 @@
+#!/bin/sh
+# Opt in once: git config core.hooksPath .githooks
+set -e
+cd "$(git rev-parse --show-toplevel)"
+npm run check:lockfile --silent
