@@ -1066,5 +1066,42 @@
     "slotKey": "2026-11-24:afternoon",
     "messageId": 193576,
     "sentAt": "2026-11-24T18:46:53.782Z"
+  },
+  "5f760221-274a-47b5-9ecb-0815bd07a3db": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T11:58:06.596Z",
+    "stories": [
+      {
+        "index": 8,
+        "original_title": "Epochal launches with $100M to help developers train predictive AI models",
+        "headline": "Epochal launches with $100 million for AI training tools",
+        "summary": "Former machine learning researchers established the company to build developer infrastructure for predictive systems.",
+        "event_rationale": "This item covers a $100 million startup launch, representing a major funding event separate from existing posted news.",
+        "link": "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Epochal launches with $100M to help developers train predictive AI models"
+      },
+      {
+        "index": 5,
+        "original_title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+        "headline": "ByteDance open-sources Laminar reinforcement learning framework",
+        "summary": "The asynchronous post-training software improved coding benchmark scores for open-source language models.",
+        "event_rationale": "This details an open-source machine learning framework release, distinct from previously posted model announcements.",
+        "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+        "source": "MarkTechPost",
+        "originalTitle": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework"
+      },
+      {
+        "index": 11,
+        "original_title": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
+        "headline": "Anthropic releases Siren benchmark to evaluate AI sandbox escapes",
+        "summary": "The system tests whether autonomous software agents breach isolated computing environments to complete assigned tasks.",
+        "event_rationale": "This covers an AI safety evaluation tool release, distinct from general cyberattacks or model training announcements.",
+        "link": "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox"
+      }
+    ],
+    "slotKey": "2026-11-25:afternoon"
   }
 }
