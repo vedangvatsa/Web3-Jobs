@@ -1020,7 +1020,7 @@
   {
     "id": "ma-bitcoin-mena",
     "name": "Bitcoin Mena",
-    "description": "Following extensive discussions with our local partners, we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.\n\n## Organizer update\n\nThe organizer is committed to returning to the UAE in Winter 2027. Exact new dates have not been announced. The previous December 2026 dates should not be used for travel planning.\n\n## Existing tickets\n\nYour ticket automatically carries over to the new dates. You do not need to do anything. Ticket holders may also request a refund through the organizer's contact form.\n\n## Sponsors\n\nYour commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers.",
+    "description": "Following extensive discussions with our local partners we have decided to reschedule Bitcoin MENA to 2027. We will share the precise dates in the upcoming months.\n\nWe understand that many of you have made arrangements, and we take this situation very seriously. Our preparations were fully in motion and the momentum was strong. However, delivering the uncompromised, full-strength experience that the global Bitcoin community expects from Bitcoin MENA is more important to us than sticking to a specific schedule. This postponement allows us the necessary space to achieve that goal.\n\nThe UAE continues to be a market we are deeply committed to for Bitcoin's growth, and our conviction remains steadfast. We extend our sincere gratitude to our partners and everyone who has collaborated with us so far, and we look forward to returning even stronger in Winter 2027.\n\n## What this means if you have a ticket\n\n• Hold it for 2027. Your ticket automatically carries over to the new dates. You do not need to do anything.\n\n• Request a refund. If neither option works for you, get in touch through our contact form and our team will help you from there.\n\n## What this means if you are a sponsor\n\nNothing gets lost. Your commitment carries forward to 2027, and our team will be in touch directly to walk through the details and make sure everything you planned for still delivers. If you have questions in the meantime, reach out anytime through our contact form.\n\n## Already booked travel?\n\nWe know some of you have already booked flights or accommodation. We would recommend reaching out to your airline or hotel directly to look at your options for changing or cancelling. If we can help point you in the right direction, get in touch and we will do what we can.\n\n## Looking ahead\n\nBitcoin MENA will be back in 2027. Until then, the next place the community gathers is Bitcoin Amsterdam, November 5th to 6th, 2026, Bitcoin 2027 in Nashville, Tennessee July 15-17, 2027, and Bitcoin Hong Kong, August 26 to 27, 2027 in Hong Kong. We would love to see you there.\n\nThank you for your patience, your support, and for being part of this community. It means everything to us.\n\n## Contact\n\nQuestions about tickets, sponsorships, or transfers? Our team is here to help. Reach us through our contact form.",
     "startDate": "2026-12-07T00:00:00.000Z",
     "endDate": "2026-12-08T00:00:00.000Z",
     "city": "Abu Dhabi, UAE",
@@ -1032,10 +1032,10 @@
     "month": "December 2026",
     "descriptionSource": {
       "url": "https://mena.b.tc/event-update",
-      "fetchedAt": "2026-11-24T21:16:46.730Z",
+      "fetchedAt": "2026-11-25T08:52:48.445Z",
       "method": "official-section",
       "pageTitle": "Bitcoin MENA - Event Update",
-      "sha256": "91958976b85c5de938389c94f536df1fc2395bbc4fbbc6284edf1c52048e6767"
+      "sha256": "a0d31e7a9271412a0e920294b28e30f158a8eeea8e7db86b53747bc85364b73c"
     }
   },
   {
@@ -2785,7 +2785,7 @@
   },
   {
     "name": "Adopting Bitcoin Arnhem 2027",
-    "description": "Adopting Bitcoin Arnhem focuses on using Bitcoin as money and developing real-world adoption. The organizer has announced May 28-29, 2027, and opened ticket sales. The venue and 2027 speaker programme are still to be announced.",
+    "description": "## Arnhem 2027\n\nAdopting Bitcoin Arnhem is part of the Adopting Bitcoin label which focusses on using bitcoin as money. We are a series of in-person gatherings where Bitcoiners and Bitcoin-curious individuals can connect, learn, and drive real-world Bitcoin adoption. As the longest running local bitcoin economy, Arnhem is proud to host another edition of Adopting Bitcoin Arnhem!\n\n## Tickets can be paid in Bitcoin only (why?)\n\n## Speakers TBA\n\nSpeakers for the Arnhem 2027 edition will be announced in the coming months. Are you a builder in the bitcoin space and want to share your work with peers in the bitcoin space?\n\nWe are very thankful these cool parties are helping us make it happen!\n\nFor sponsorship inquiries, organizing side events or general questions about Adopting Bitcoin Arnhem 2027, please write to us.\n\nArnhem \"Bitcoinstad\" is the worlds longest running local bitcoin economy and started in 2014. Dozens of shops, restaurants and services are accepting bitcoin. Arnhem had the first Burger King accepting bitcoin (2016) and the first SPAR accepting bitcoin (2014) the latter is still accepting bitcoin. You can find them all on BTCMap, but you can also check out the Arnhem Bitcoin City website for more information.\n\nMeanwhile... checkout the official website of Arnhem Bitcoin City. Relive the previous edition (2024). And of course see the Adopting Bitcoin website for other Adopting Bitcoin conferences!",
     "startDate": "2027-05-28",
     "endDate": "2027-05-29",
     "city": "Arnhem",
@@ -2800,10 +2800,10 @@
     "attendanceMode": "offline",
     "descriptionSource": {
       "url": "https://nl27.adoptingbitcoin.org/",
-      "fetchedAt": "2026-11-24T21:16:47.913Z",
+      "fetchedAt": "2026-11-25T08:52:48.634Z",
       "method": "official-section",
       "pageTitle": "Adopting Bitcoin - Arnhem",
-      "sha256": "48d32dcd1246b012e5d7558662b2dbfcc914bc67236053e4851f464d9d0e4837"
+      "sha256": "877246b09cf80fc356762a18ac6dc1ebb573d6d6019e85152b5833ed0f691872"
     },
     "id": "w3v-adopting-bitcoin-arnhem-27-05-28",
     "url": "https://nl27.adoptingbitcoin.org/",
@@ -5070,20 +5070,6 @@
       "addressCountry": "US",
       "location": "Big Time Brewery back room, 4133 University Wy NE, Seattle, WA 98105, USA"
     }
-  },
-  {
-    "id": "luma-evt-f5ZDXpgubz3flLJ",
-    "name": "SWITCH Day 0 Lab Crawl - LaunchPad @ One-North (PM)",
-    "description": "Join us at the SWITCH Lab Crawl. LaunchPad @ One-North PM Tour on 26 October, Monday, 2PM. 4PM!\n\nDiscover one of Asia's most dynamic entrepreneurial hubs, home to 700+ startups across 15+ industries. More than just space, LaunchPad @ One-North is where bold ideas are tested, refined, and brought to life.\n\nExplore cutting-edge R&D, pilot projects and collaborations\n\nConnect with entrepreneurs, innovators & community partners\n\nBe inspired by Singapore's thriving startup ecosystem\n\nOrganised by JTC (https://www.jtc.gov.sg/) and ACE.\n\nSG (https://ace.sg/), this immersive journey offers a first-hand look at how Singapore is shaping the future of innovation and entrepreneurship.\n\nWelcome Remarks 🇸🇬\n\nIntroduction of ACE.\n\nSG (https://ACE.SG) & Singapore Startup Ecosystem\n\nIntroduction of JTC & LaunchPad\n\nVisit to and sharing by A*StartCentral (https://www.a-star.edu.sg/enterprise/astartcentral)\n\nVisit to and sharing by HTX (https://www.htx.gov.sg/)/ Hatch (https://www.htx.gov.sg/partner-us/hatch)\n\nVisit to and sharing by (to be updated)\n\nPlease RSVP individually for logistical purposes. Single RSVP for group entry will not be allowed. We apologise for any inconvenience caused. Thanks!",
-    "startDate": "2026-10-26T06:00:00.000Z",
-    "endDate": "2026-10-26T08:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore",
-    "url": "https://lu.ma/ifduehow",
-    "coverImage": "/events/luma-evt-f5zdxpgubz3fllj-d7dc281e.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "name": "Ethereum Meetup Tokyo Vol.26",
