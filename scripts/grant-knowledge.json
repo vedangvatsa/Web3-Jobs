@@ -1,0 +1,86 @@
+{
+  "01-grants": {
+    "focus": "Automated market making, decentralized order books, delta-neutral yield vaults, and algorithmic execution bots on Solana.",
+    "tracks": [
+      "Delta-neutral funding rate arbitrage vaults with automated collateral rebalancing.",
+      "High-frequency algorithmic market-making bots and keeper infrastructure for open order books.",
+      "Open-source Python and Rust SDKs, WebSocket pub/sub clients, and CLI trading utilities.",
+      "Real-time liquidation bots and onchain risk monitors with automated alerting."
+    ],
+    "applicant_fit": "Quantitative developers, Solana Rust engineers, and DeFi researchers with proven experience in low-latency trading infrastructure.",
+    "milestone_structure": "Tranche 1 (30%) on testnet deployment with paper trading; Tranche 2 (40%) upon security review and audit completion; Tranche 3 (30%) following public mainnet launch with verifiable volume.",
+    "deliverables": "Documented GitHub repository under MIT or Apache 2.0 license, clean integration test suite, deployment scripts, and public user documentation."
+  },
+  "0g-growth": {
+    "focus": "Modular artificial intelligence architecture, ultra-high-throughput data availability (DA), decentralized key-value storage, and verifiable onchain inference.",
+    "tracks": [
+      "Layer 2 rollup data availability integrations leveraging 0G's modular consensus and DA layer.",
+      "Decentralized storage nodes and indexing infrastructure for large language model weights and multimodal datasets.",
+      "Autonomous AI agent frameworks, model alignment networks, and zero-knowledge inference verification.",
+      "Decentralized training checkpoint networks and collaborative machine learning pipelines."
+    ],
+    "applicant_fit": "Distributed systems engineers, AI/ML researchers, and rollup infrastructure teams building data-intensive decentralized applications.",
+    "milestone_structure": "Tranche 1 (25%) on architecture spec and testnet node integration; Tranche 2 (35%) on benchmark validation achieving target throughput; Tranche 3 (40%) on production mainnet deployment.",
+    "deliverables": "Open-source codebase, comprehensive benchmark reports, public documentation, Dockerized node deployment configurations, and automated CI pipelines."
+  },
+  "3327-grants": {
+    "focus": "Novel Web3 protocols, decentralized research, cryptography tooling, zero-knowledge proofs, and sovereign collective infrastructure.",
+    "tracks": [
+      "Applied zero-knowledge primitives, succinct verification schemes, and cryptographic libraries.",
+      "Decentralized autonomous organization governance frameworks and coordination primitives.",
+      "Smart contract development tooling, formal verification templates, and EVM testing utilities.",
+      "Privacy-preserving communication channels, decentralized identity, and censorship-resistant networking."
+    ],
+    "applicant_fit": "Independent Web3 researchers, cryptographers, and distributed systems hackers who value collective autonomy and deep technical exploration.",
+    "milestone_structure": "Initial funding (30%) on proof-of-concept spec and architecture review; Mid-term tranche (40%) on functional testnet implementation; Final tranche (30%) on peer review and production release.",
+    "deliverables": "Public research paper or technical specification, open-source code repository with high test coverage, and reproducible benchmark suites."
+  },
+  "aave-grants": {
+    "focus": "Aave protocol development, cross-chain liquidity routing, risk modeling, collateral integrations, and GHO stablecoin utility.",
+    "tracks": [
+      "Novel collateral onboarding modules, isolated lending markets, and automated liquidation engines.",
+      "GHO stablecoin adoption tooling, cross-chain minting primitives, and payment streaming interfaces.",
+      "Onchain financial risk analytics, bad debt monitoring dashboards, and real-time vault telemetry.",
+      "Developer SDKs, smart contract integrations, and consumer frontends expanding Aave v3 accessibility."
+    ],
+    "applicant_fit": "Smart contract engineers, quantitative risk analysts, and DeFi builders with deep familiarity with Aave protocol architecture and Solidity.",
+    "milestone_structure": "Milestone 1 (30%) on protocol specification and initial contract implementation; Milestone 2 (40%) on testnet deployment and third-party audit; Milestone 3 (30%) on mainnet verification.",
+    "deliverables": "Audited smart contracts, comprehensive documentation, integration guides, unit and invariant test suites, and open-source frontend components."
+  },
+  "abey-foundation": {
+    "focus": "High-throughput smart contract development, cross-chain bridge architecture, DeFi protocols, and decentralized enterprise solutions on the ABEYChain.",
+    "tracks": [
+      "Scalable decentralized finance primitives including DEXs, lending protocols, and algorithmic assets.",
+      "Cross-chain interoperability bridges connecting ABEYChain with EVM networks and Bitcoin.",
+      "Decentralized identity, supply chain tracking, and real-world asset verification on ABEY.",
+      "Developer tooling, indexing services, and developer-friendly RPC infrastructure."
+    ],
+    "applicant_fit": "Full-stack blockchain developers and enterprise integration specialists looking to deploy scalable decentralized applications.",
+    "milestone_structure": "Tranche 1 (30%) on technical design approval and testnet deployment; Tranche 2 (40%) on protocol audit; Tranche 3 (30%) on live mainnet adoption metrics.",
+    "deliverables": "Open-source smart contracts, developer integration guides, automated tests, and production monitoring dashboards."
+  },
+  "acala-grants": {
+    "focus": "Polkadot parachain DeFi, aUSD ecosystem integrations, cross-consensus messaging (XCM), and EVM+ smart contract tooling.",
+    "tracks": [
+      "Decentralized liquid staking derivatives, yield strategies, and cross-chain asset management.",
+      "XCM-based interoperability workflows connecting Acala liquidity with other Polkadot and Kusama parachains.",
+      "Substrate runtime modules, EVM+ compatible developer libraries, and indexing infrastructure.",
+      "Decentralized identity, governance tooling, and institutional compliance bridges."
+    ],
+    "applicant_fit": "Rust Substrate developers and Solidity smart contract engineers passionate about cross-chain DeFi ecosystems.",
+    "milestone_structure": "Milestone 1 (35%) on runtime or contract deployment to Mandala testnet; Milestone 2 (35%) on security audit; Milestone 3 (30%) on parachain mainnet deployment.",
+    "deliverables": "Clean Substrate pallet or EVM+ contract codebase, XCM integration tests, technical documentation, and user tutorials."
+  },
+  "aethir-fund": {
+    "focus": "Decentralized enterprise GPU computing, AI model training, real-time cloud gaming, and autonomous agent inference infrastructure.",
+    "tracks": [
+      "Enterprise AI model serving, distributed LLM fine-tuning, and low-latency inference routing on Aethir GPUs.",
+      "Cloud gaming rendering pipelines, interactive streaming engines, and Web3 virtual world backends.",
+      "Autonomous onchain agent compute orchestration and decentralized compute marketplaces.",
+      "Developer tooling, scheduling SDKs, and benchmarking suites evaluating distributed GPU clusters."
+    ],
+    "applicant_fit": "AI/ML engineering teams, game studios, and decentralized compute builders with production workloads ready to migrate or scale.",
+    "milestone_structure": "Stage 1 (25%) on workload profiling and testnet compute allocation; Stage 2 (40%) on containerized deployment and performance benchmarking; Stage 3 (35%) on commercial scaling.",
+    "deliverables": "Production container recipes, API integration benchmarks, public documentation, open-source SDK contributions, and milestone verification logs."
+  }
+}
