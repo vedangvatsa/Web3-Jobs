@@ -213519,11 +213519,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "9db51ef86d3123238069",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-26T21:00:49.000Z",
-      "lastSeenAt": "2026-11-25T13:25:37.357Z"
+      "lastSeenAt": "2026-11-25T13:25:37.357Z",
+      "reason": "verified-event",
+      "note": "Read the DOJ Office of Public Affairs release and the civil-forfeiture coverage from Bankless and Decrypt; draft, hero image, link checks and quality, formatting and duplicate audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bankless.com/read/news/doj-moves-to-forfeit-over-1-1b-in-usdc-from-the-binance-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-25T13:51:57.201Z",
+      "articleSlug": "usdcforfeit",
+      "lastReviewedDay": "2026-11-25"
     },
     "e0d8bb51a8a715d22002": {
       "source": "The Block",
@@ -430579,6 +430598,27 @@
           ],
           "reviewedAt": "2026-11-25T13:45:43.859Z",
           "articleSlug": "cmudap"
+        },
+        "9db51ef86d3123238069": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the DOJ Office of Public Affairs release and the civil-forfeiture coverage from Bankless and Decrypt; draft, hero image, link checks and quality, formatting and duplicate audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://www.justice.gov/opa/pr/united-states-files-action-recover-more-1-billion-cryptocurrency-assets-stolen-north-korean",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bankless.com/read/news/doj-moves-to-forfeit-over-1-1b-in-usdc-from-the-binance-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-25T13:51:57.201Z",
+          "articleSlug": "usdcforfeit"
         }
       },
       "baselineSlugs": [
