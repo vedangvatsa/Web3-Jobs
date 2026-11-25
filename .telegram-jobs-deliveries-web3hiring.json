@@ -7077,7 +7077,7 @@
     "sentAt": "2026-11-25T20:36:18.125Z"
   },
   "93ad98de-314a-4b7c-a41f-efc67f26e724": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T20:36:20.042Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -7193,6 +7193,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/eng363?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager, Terminal Enterprise Features</a>\n- HIFI is hiring <a href=\"https://hashtagweb3.com/sec207?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Software Engineer</a>\n- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/an143?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business System Analyst</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/wr14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Underwriter</a>\n- Sapiom is hiring <a href=\"https://hashtagweb3.com/eng853?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Engineering Manager</a>",
-    "slotKey": "2026-11-25:evening"
+    "slotKey": "2026-11-25:evening",
+    "messageId": 220,
+    "sentAt": "2026-11-25T20:36:22.322Z"
   }
 }
