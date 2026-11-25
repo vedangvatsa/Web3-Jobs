@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-24",
+  "deployed": "2026-11-25",
   "ingested": "2026-11-24",
   "dailyDeployments": {
     "2026-10-23": [
@@ -1426,12 +1426,14 @@
           "sbiglobal",
           "cmudap"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-25T14:42:39.733Z",
         "buildId": "daily-20261125-45623166303-1",
         "rolloutId": "daily-20261125-45623166303-1",
         "buildState": "READY",
-        "observedAt": "2026-11-25T15:09:48.355Z"
+        "observedAt": "2026-11-25T15:10:21.797Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-25T15:10:21.797Z"
       }
     ]
   }
