@@ -191539,6 +191539,40 @@
       "attemptId": "f1cc28ba-9a94-418b-bded-732e44ee144c",
       "verification": "verified",
       "postId": "0xc4793ca53558cc5e19a1a8f2b37bfdad82bc802b"
+    },
+    {
+      "slug": "eng866",
+      "company": "dtcpay",
+      "title": "Application Support Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-25T23:30:53.014Z",
+      "expectedText": "dtcpay is hiring Application Support Engineer\n\nhttps://hashtagweb3.com/eng866/fc?og=7",
+      "snapshot": {
+        "id": "4009844201",
+        "title": "Application Support Engineer",
+        "company": "dtcpay",
+        "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009844201",
+        "date": "2026-11-20T06:31:44-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: dtcpay [dtcpay]",
+        "location": "Malaysia",
+        "department": "Production Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng866"
+      },
+      "payload": {
+        "text": "dtcpay is hiring Application Support Engineer\n\nhttps://hashtagweb3.com/eng866/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng866/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "90e8a7fb-fe62-47c5-8150-73f8e36bca0c",
+      "verification": "creating"
     }
   ]
 }
