@@ -188640,7 +188640,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "f6e07a91-5571-446c-956f-7344fec72398",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf7554d4aa18f2a94342fc52670a22a8fc03a95a0"
     }
   ]
 }
