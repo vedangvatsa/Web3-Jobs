@@ -1,0 +1,3561 @@
+{
+  "dispatchedAt": "2026-11-25T07:08:31.465Z",
+  "total": 592,
+  "delivered": 592,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Indeed PL",
+      "email": "info@indeed.pl",
+      "deliveryId": "01a21181-cc74-744b-a580-8855c737659a",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed SK",
+      "email": "info@indeed.sk",
+      "deliveryId": "01a21181-d4ac-706d-80df-02081c1423e4",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed RO",
+      "email": "info@indeed.ro",
+      "deliveryId": "01a21181-dd4b-7593-918a-e8cd301da5a3",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed GR",
+      "email": "info@indeed.gr",
+      "deliveryId": "01a21181-e6d6-70bc-b54a-3f0a11b31a07",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed DK",
+      "email": "info@indeed.dk",
+      "deliveryId": "01a21181-f092-7372-8582-5db77a940963",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed EE",
+      "email": "info@indeed.ee",
+      "deliveryId": "01a21181-fb88-78d2-bb8d-92d3b645eb34",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed LT",
+      "email": "info@indeed.lt",
+      "deliveryId": "01a21182-0144-757f-9a0f-13f62efcbee2",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed LV",
+      "email": "info@indeed.lv",
+      "deliveryId": "01a21182-052e-7b20-a8e5-eea333ac4147",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed CO.TH",
+      "email": "info@indeed.co.th",
+      "deliveryId": "01a21182-0869-7b12-8dae-fa16b40fcc84",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed COM.HK",
+      "email": "info@indeed.com.hk",
+      "deliveryId": "01a21182-0c4a-769a-b475-653e152bd500",
+      "status": "delivered"
+    },
+    {
+      "name": "Indeed COM.TW",
+      "email": "info@indeed.com.tw",
+      "deliveryId": "01a21182-1b2e-78b9-a456-968fc7b90a42",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster AT",
+      "email": "info@monster.at",
+      "deliveryId": "01a21182-3463-79b1-bedb-cf9a98d4f932",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster PL",
+      "email": "info@monster.pl",
+      "deliveryId": "01a21182-41de-71dd-9df8-8803598cd7fa",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster CZ",
+      "email": "info@monster.cz",
+      "deliveryId": "01a21182-4a1f-7cff-b46e-c0c201112a55",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster HU",
+      "email": "info@monster.hu",
+      "deliveryId": "01a21182-5a37-718c-94e9-c3d52de50545",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster RO",
+      "email": "info@monster.ro",
+      "deliveryId": "01a21182-61de-7821-9255-767afb92859e",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster DK",
+      "email": "info@monster.dk",
+      "deliveryId": "01a21182-67fc-7877-9cdf-aaed702e1e6b",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster LU",
+      "email": "info@monster.lu",
+      "deliveryId": "01a21182-6d31-79da-9bfe-47d9069f73af",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster EE",
+      "email": "info@monster.ee",
+      "deliveryId": "01a21182-721b-7a8f-9f7d-ef7adfa20b09",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster LT",
+      "email": "info@monster.lt",
+      "deliveryId": "01a21182-777e-726e-a459-5c5db2ec727d",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster LV",
+      "email": "info@monster.lv",
+      "deliveryId": "01a21182-7cd8-7654-a28b-2b22a7a39c1e",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.BR",
+      "email": "info@monster.com.br",
+      "deliveryId": "01a21182-8272-7b5e-9076-b6529e80a130",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.UY",
+      "email": "info@monster.com.uy",
+      "deliveryId": "01a21182-8934-71a7-bb7f-9b3f1d0425d7",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.PA",
+      "email": "info@monster.com.pa",
+      "deliveryId": "01a21182-8d9f-7e30-9039-a81929cc60a7",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster CO.IN",
+      "email": "info@monster.co.in",
+      "deliveryId": "01a21182-93cf-732d-9acd-fc1b16e8e20e",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.AU",
+      "email": "info@monster.com.au",
+      "deliveryId": "01a21182-9ba5-7c7d-8869-619c03d2409e",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.SG",
+      "email": "info@monster.com.sg",
+      "deliveryId": "01a21182-b418-76ad-b533-ccecb15d161c",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.PH",
+      "email": "info@monster.com.ph",
+      "deliveryId": "01a21182-c462-72d0-acd5-cab745a03c54",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster CO.ID",
+      "email": "info@monster.co.id",
+      "deliveryId": "01a21182-cd4d-7f0f-afc8-2366a99bf70b",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster CO.TH",
+      "email": "info@monster.co.th",
+      "deliveryId": "01a21182-d5c8-756e-b721-cb3cdf16e5b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.VN",
+      "email": "info@monster.com.vn",
+      "deliveryId": "01a21182-db5e-7450-9056-0bd1bc0f5086",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.HK",
+      "email": "info@monster.com.hk",
+      "deliveryId": "01a21182-f57c-7770-840c-74c16a47fa53",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster COM.TW",
+      "email": "info@monster.com.tw",
+      "deliveryId": "01a21182-fe8f-784f-801e-07f7b07178d7",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster LK",
+      "email": "info@monster.lk",
+      "deliveryId": "01a21183-05f7-7318-8a0a-65c863ca8d46",
+      "status": "delivered"
+    },
+    {
+      "name": "Monster CO.IL",
+      "email": "info@monster.co.il",
+      "deliveryId": "01a21183-0cdb-7e51-8bb9-c26fa608bda9",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor ES",
+      "email": "info@glassdoor.es",
+      "deliveryId": "01a21183-14d6-742f-b798-1b044478b338",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor IT",
+      "email": "info@glassdoor.it",
+      "deliveryId": "01a21183-1bcf-70e2-82ee-d8b98bef2e5c",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor NL",
+      "email": "info@glassdoor.nl",
+      "deliveryId": "01a21183-363f-75ef-8af5-666c05dc774e",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor BE",
+      "email": "info@glassdoor.be",
+      "deliveryId": "01a21183-39fc-7699-9c88-fd09a848b9b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor AT",
+      "email": "info@glassdoor.at",
+      "deliveryId": "01a21183-423d-7867-ab00-c1e7c8efd1cb",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor CH",
+      "email": "info@glassdoor.ch",
+      "deliveryId": "01a21183-48a0-7046-86b8-b493698f5125",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor SK",
+      "email": "info@glassdoor.sk",
+      "deliveryId": "01a21183-4c02-722d-a444-26c862b9b7f3",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor HU",
+      "email": "info@glassdoor.hu",
+      "deliveryId": "01a21183-5092-7c49-86b4-f20b9a424e9e",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor IE",
+      "email": "info@glassdoor.ie",
+      "deliveryId": "01a21183-5685-7b1c-aa62-f59d07abd17d",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor CA",
+      "email": "info@glassdoor.ca",
+      "deliveryId": "01a21183-5b98-7a34-8bc3-23607400e2ee",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor COM.MX",
+      "email": "info@glassdoor.com.mx",
+      "deliveryId": "01a21183-62b4-78c0-bff8-f93b4524b5de",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor COM.BR",
+      "email": "info@glassdoor.com.br",
+      "deliveryId": "01a21183-6971-7a64-8c57-68b144797d9d",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor COM.AR",
+      "email": "info@glassdoor.com.ar",
+      "deliveryId": "01a21183-6d2d-702e-8fbf-d19dec0723bd",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor CO.IN",
+      "email": "info@glassdoor.co.in",
+      "deliveryId": "01a21183-73bc-7edc-abfa-25e7bb92740e",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor COM.AU",
+      "email": "info@glassdoor.com.au",
+      "deliveryId": "01a21183-7bb3-7c64-9ed5-a8a70d8fcd2d",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor CO.NZ",
+      "email": "info@glassdoor.co.nz",
+      "deliveryId": "01a21183-840c-7a3c-816d-d940603665a0",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassdoor COM.HK",
+      "email": "info@glassdoor.com.hk",
+      "deliveryId": "01a21183-8af6-7032-816d-8d3553594370",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet BE",
+      "email": "info@careerjet.be",
+      "deliveryId": "01a21183-927d-7068-b31c-14d6f3b09b1e",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet AT",
+      "email": "info@careerjet.at",
+      "deliveryId": "01a21183-9749-722c-9820-e3e66655f984",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CH",
+      "email": "info@careerjet.ch",
+      "deliveryId": "01a21183-9bd3-7874-b8cf-c8120ac7bca3",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CZ",
+      "email": "info@careerjet.cz",
+      "deliveryId": "01a21183-a170-7201-93e0-824f2b863556",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet SK",
+      "email": "info@careerjet.sk",
+      "deliveryId": "01a21183-a924-7175-a1bb-5e2e5948d89c",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet HU",
+      "email": "info@careerjet.hu",
+      "deliveryId": "01a21183-afa6-7aef-9cd8-c8cb312a73d2",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet RO",
+      "email": "info@careerjet.ro",
+      "deliveryId": "01a21183-b591-732c-bbe4-23f7b67b66fb",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet BG",
+      "email": "info@careerjet.bg",
+      "deliveryId": "01a21183-b917-74f6-b9ee-b9e9f6eb2649",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet GR",
+      "email": "info@careerjet.gr",
+      "deliveryId": "01a21183-c073-745d-8289-c95a77b66aa6",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet NO",
+      "email": "info@careerjet.no",
+      "deliveryId": "01a21183-c932-7076-9ae7-8109a3261825",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet DK",
+      "email": "info@careerjet.dk",
+      "deliveryId": "01a21183-d513-7bd5-8651-8bcf42c95d44",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet FI",
+      "email": "info@careerjet.fi",
+      "deliveryId": "01a21183-dcbb-7149-aa21-a6f45f7b6118",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet IE",
+      "email": "info@careerjet.ie",
+      "deliveryId": "01a21183-ee66-7ede-bfbb-23b90de12c1e",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet LU",
+      "email": "info@careerjet.lu",
+      "deliveryId": "01a21183-f4ce-7605-ae99-d13b089e777b",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet EE",
+      "email": "info@careerjet.ee",
+      "deliveryId": "01a21183-fc1d-79f3-9667-c008a094790f",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet LT",
+      "email": "info@careerjet.lt",
+      "deliveryId": "01a21184-0258-7cfb-bd76-359f52b2cc48",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet LV",
+      "email": "info@careerjet.lv",
+      "deliveryId": "01a21184-0880-77ca-8484-fcb143fa504b",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet SI",
+      "email": "info@careerjet.si",
+      "deliveryId": "01a21184-0d5b-7995-80ce-9f1fa3f9d027",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet RS",
+      "email": "info@careerjet.rs",
+      "deliveryId": "01a21184-1534-72f2-9d1f-91c058450b40",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet UA",
+      "email": "info@careerjet.ua",
+      "deliveryId": "01a21184-1e72-7f16-9606-d173113091cc",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet KZ",
+      "email": "info@careerjet.kz",
+      "deliveryId": "01a21184-263e-70b0-8eec-321a093ff0dc",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet TR",
+      "email": "info@careerjet.tr",
+      "deliveryId": "01a21184-3f0c-7f19-9a4a-5509a28297f4",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CA",
+      "email": "info@careerjet.ca",
+      "deliveryId": "01a21184-4759-757f-9533-cc679f01906d",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.MX",
+      "email": "info@careerjet.com.mx",
+      "deliveryId": "01a21184-4f20-73f5-85bb-bbf800a3a65c",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CL",
+      "email": "info@careerjet.cl",
+      "deliveryId": "01a21184-56e5-7e50-bd06-aca7ba596c6f",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CO.NZ",
+      "email": "info@careerjet.co.nz",
+      "deliveryId": "01a21184-5d3e-7f1a-bab6-d97dc027141c",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.SG",
+      "email": "info@careerjet.com.sg",
+      "deliveryId": "01a21184-63ad-7413-bcbf-cb576d4b75ca",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.MY",
+      "email": "info@careerjet.com.my",
+      "deliveryId": "01a21184-69b5-7477-ad8b-949bd70f3619",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.PH",
+      "email": "info@careerjet.com.ph",
+      "deliveryId": "01a21184-6f0c-7deb-bc22-43f1b7b934b1",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CO.ID",
+      "email": "info@careerjet.co.id",
+      "deliveryId": "01a21184-727c-73e2-8737-1e658d1db491",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CO.TH",
+      "email": "info@careerjet.co.th",
+      "deliveryId": "01a21184-7777-7a67-bec0-680dcff7ee0d",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.VN",
+      "email": "info@careerjet.com.vn",
+      "deliveryId": "01a21184-7d93-7714-a061-f646e612754f",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.HK",
+      "email": "info@careerjet.com.hk",
+      "deliveryId": "01a21184-8346-7072-bdde-b4a7179ff0be",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.TW",
+      "email": "info@careerjet.com.tw",
+      "deliveryId": "01a21184-89f0-7a11-96e5-10db779a6cc7",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet JP",
+      "email": "info@careerjet.jp",
+      "deliveryId": "01a21184-8e9b-7e86-b20d-0833bce47d2b",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CO.KR",
+      "email": "info@careerjet.co.kr",
+      "deliveryId": "01a21184-92a9-7306-af5c-00d30bb64a9c",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet PK",
+      "email": "info@careerjet.pk",
+      "deliveryId": "01a21184-94da-7396-acc8-40a9efe11f34",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.BD",
+      "email": "info@careerjet.com.bd",
+      "deliveryId": "01a21184-97c2-7a0d-ae9c-eedda8c2dca8",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.SA",
+      "email": "info@careerjet.com.sa",
+      "deliveryId": "01a21184-9a6b-7d5d-8899-9c3ec2d4c6ce",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.EG",
+      "email": "info@careerjet.com.eg",
+      "deliveryId": "01a21184-9ec6-7c6e-966c-2dfbea5dfedb",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet MA",
+      "email": "info@careerjet.ma",
+      "deliveryId": "01a21184-a120-7cd1-84b0-840b8b8fc613",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet COM.NG",
+      "email": "info@careerjet.com.ng",
+      "deliveryId": "01a21184-a4c0-7b11-a1df-6cde13c6e28e",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CO.KE",
+      "email": "info@careerjet.co.ke",
+      "deliveryId": "01a21184-a985-7909-97eb-1c041643589c",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CO.TZ",
+      "email": "info@careerjet.co.tz",
+      "deliveryId": "01a21184-abff-7f32-82ad-0fdfab370378",
+      "status": "delivered"
+    },
+    {
+      "name": "Careerjet CO.IL",
+      "email": "info@careerjet.co.il",
+      "deliveryId": "01a21184-ae4f-75f7-b020-2fafae7542eb",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido AT",
+      "email": "info@jobrapido.at",
+      "deliveryId": "01a21184-b08f-7beb-90e2-a0131b2c1b3d",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido PL",
+      "email": "info@jobrapido.pl",
+      "deliveryId": "01a21184-b335-7154-adcd-179bf1def41f",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido CZ",
+      "email": "info@jobrapido.cz",
+      "deliveryId": "01a21184-b545-79e0-83e8-2e5ace27d5d3",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido SK",
+      "email": "info@jobrapido.sk",
+      "deliveryId": "01a21184-b78e-7aca-b0bc-a96818fc621f",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido HU",
+      "email": "info@jobrapido.hu",
+      "deliveryId": "01a21184-b9c5-7864-aba4-bd7541124243",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido GR",
+      "email": "info@jobrapido.gr",
+      "deliveryId": "01a21184-bc2c-70e4-8467-147bbb724052",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido PT",
+      "email": "info@jobrapido.pt",
+      "deliveryId": "01a21184-c17c-7ea7-816b-94ae54b19581",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido SE",
+      "email": "info@jobrapido.se",
+      "deliveryId": "01a21184-c3bd-7f12-8832-be6f1f842896",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido DK",
+      "email": "info@jobrapido.dk",
+      "deliveryId": "01a21184-c647-777d-9478-48b49c9002c3",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido FI",
+      "email": "info@jobrapido.fi",
+      "deliveryId": "01a21184-c8d1-71f3-bfe8-4725333fdc61",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido LU",
+      "email": "info@jobrapido.lu",
+      "deliveryId": "01a21184-cb27-7a2e-ae51-c9568f1122cc",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido LT",
+      "email": "info@jobrapido.lt",
+      "deliveryId": "01a21184-cddc-7ba7-af27-c918681b4c12",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido LV",
+      "email": "info@jobrapido.lv",
+      "deliveryId": "01a21184-d040-7eca-ad71-983339e8e094",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido SI",
+      "email": "info@jobrapido.si",
+      "deliveryId": "01a21184-d3b4-77a8-a84e-02362c503317",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.MX",
+      "email": "info@jobrapido.com.mx",
+      "deliveryId": "01a21184-dee9-79b8-a1e9-d0cde5950c18",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.AR",
+      "email": "info@jobrapido.com.ar",
+      "deliveryId": "01a21184-e653-7aed-b459-3606ecb98b5a",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.CO",
+      "email": "info@jobrapido.com.co",
+      "deliveryId": "01a21184-ee24-78ac-a0c9-c4654f9f92a5",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.PE",
+      "email": "info@jobrapido.com.pe",
+      "deliveryId": "01a21184-f47d-797f-97a1-9284c97aedb7",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.EC",
+      "email": "info@jobrapido.com.ec",
+      "deliveryId": "01a21185-104e-748b-acf2-1978a5f6be4b",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.UY",
+      "email": "info@jobrapido.com.uy",
+      "deliveryId": "01a21185-16ef-78a0-8e6b-e56b277a1ba8",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.DO",
+      "email": "info@jobrapido.com.do",
+      "deliveryId": "01a21185-1c9b-76c8-9d52-83945f008999",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido CO.IN",
+      "email": "info@jobrapido.co.in",
+      "deliveryId": "01a21185-2238-72f1-b137-0b9b588e47f9",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido CO.NZ",
+      "email": "info@jobrapido.co.nz",
+      "deliveryId": "01a21185-28ee-7ca0-86d1-35bf3c5a6da2",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.SG",
+      "email": "info@jobrapido.com.sg",
+      "deliveryId": "01a21185-40a0-7cba-8857-e8ff6b0bfaac",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.MY",
+      "email": "info@jobrapido.com.my",
+      "deliveryId": "01a21185-46ab-7ca2-8da4-e3ec268b5863",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.HK",
+      "email": "info@jobrapido.com.hk",
+      "deliveryId": "01a21185-4f63-78a4-97a8-60ffc6a494bf",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.TW",
+      "email": "info@jobrapido.com.tw",
+      "deliveryId": "01a21185-5703-7464-9cc3-0ebdd4b22167",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido JP",
+      "email": "info@jobrapido.jp",
+      "deliveryId": "01a21185-5ed1-7e4e-b14c-ea8776347a34",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido CO.KR",
+      "email": "info@jobrapido.co.kr",
+      "deliveryId": "01a21185-65ec-7d94-874d-8c6586892a0a",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido PK",
+      "email": "info@jobrapido.pk",
+      "deliveryId": "01a21185-6da9-7441-9434-a49cd59f2bd3",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido AE",
+      "email": "info@jobrapido.ae",
+      "deliveryId": "01a21185-7507-724b-aff3-a57f6321942e",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido COM.NG",
+      "email": "info@jobrapido.com.ng",
+      "deliveryId": "01a21185-7d5d-78c9-ac67-2a23a3aa100c",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido CO.KE",
+      "email": "info@jobrapido.co.ke",
+      "deliveryId": "01a21185-8620-7c90-ad7d-3741e7be72bf",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobrapido CO.IL",
+      "email": "info@jobrapido.co.il",
+      "deliveryId": "01a21185-a9e2-75f6-9a28-6036143b84e8",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit DE",
+      "email": "info@trovit.de",
+      "deliveryId": "01a21185-b1d8-79d2-815c-039291bc2de4",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit BE",
+      "email": "info@trovit.be",
+      "deliveryId": "01a21185-bb52-7eb2-b261-203b9362ae49",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit AT",
+      "email": "info@trovit.at",
+      "deliveryId": "01a21185-c28f-70cc-b1c6-7d20b02a972f",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit CH",
+      "email": "info@trovit.ch",
+      "deliveryId": "01a21185-de09-750f-a1b2-970258a0be33",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit PL",
+      "email": "info@trovit.pl",
+      "deliveryId": "01a21185-e53b-77af-9965-28f3946c4a11",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit PT",
+      "email": "info@trovit.pt",
+      "deliveryId": "01a21185-ed52-77d0-aa84-846604e0bc85",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit SE",
+      "email": "info@trovit.se",
+      "deliveryId": "01a21185-f47c-7002-baeb-b4b95968c0da",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit IE",
+      "email": "info@trovit.ie",
+      "deliveryId": "01a21186-0e24-75f1-a6e5-45b172348cab",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit CA",
+      "email": "info@trovit.ca",
+      "deliveryId": "01a21186-1156-7d93-9f3c-f37b43749e0b",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.BR",
+      "email": "info@trovit.com.br",
+      "deliveryId": "01a21186-13e3-7a65-85c2-7d982e372cd1",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit CL",
+      "email": "info@trovit.cl",
+      "deliveryId": "01a21186-163e-7ecb-9146-1c01ede3747b",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.CO",
+      "email": "info@trovit.com.co",
+      "deliveryId": "01a21186-197c-7877-9eb2-d0d33b88fee2",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.PE",
+      "email": "info@trovit.com.pe",
+      "deliveryId": "01a21186-1c34-7652-b36e-187f8231ebb1",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.EC",
+      "email": "info@trovit.com.ec",
+      "deliveryId": "01a21197-f08e-7c8e-85ea-c367ac6cb588",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit CO.IN",
+      "email": "info@trovit.co.in",
+      "deliveryId": "01a21186-4ab5-726e-b5c0-1d69f144b0c1",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.AU",
+      "email": "info@trovit.com.au",
+      "deliveryId": "01a21186-4cf9-72c0-882e-070db162f706",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit CO.NZ",
+      "email": "info@trovit.co.nz",
+      "deliveryId": "01a21186-4f72-7850-ae0e-cedeca206bd1",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.SG",
+      "email": "info@trovit.com.sg",
+      "deliveryId": "01a21186-5173-7c03-8b1a-7e2a090d1efe",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.PH",
+      "email": "info@trovit.com.ph",
+      "deliveryId": "01a21186-5343-7f2a-8dc2-7cf52b0f6254",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit CO.ID",
+      "email": "info@trovit.co.id",
+      "deliveryId": "01a21186-5502-71da-bd08-c9a368aecaed",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit COM.HK",
+      "email": "info@trovit.com.hk",
+      "deliveryId": "01a21186-56bf-7942-810a-eabf65088fe9",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit JP",
+      "email": "info@trovit.jp",
+      "deliveryId": "01a21186-590e-706a-a9a9-ab4f4dc00329",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit PK",
+      "email": "info@trovit.pk",
+      "deliveryId": "01a21186-5b05-7016-9ceb-542bb83c0aee",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit AE",
+      "email": "info@trovit.ae",
+      "deliveryId": "01a21186-5d13-709b-8117-c16b2e69dd66",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit MA",
+      "email": "info@trovit.ma",
+      "deliveryId": "01a21186-5f1e-781b-aa69-31e18c0696b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit TN",
+      "email": "info@trovit.tn",
+      "deliveryId": "01a21186-612b-7097-af84-5f794032f733",
+      "status": "delivered"
+    },
+    {
+      "name": "Trovit CO.ZA",
+      "email": "info@trovit.co.za",
+      "deliveryId": "01a21186-6359-726a-855c-62bb7026eb86",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobsora DE",
+      "email": "support@jobsora.de",
+      "deliveryId": "01a21186-6538-7a24-a838-48f7fbdabd59",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobsora HU",
+      "email": "support@jobsora.hu",
+      "deliveryId": "01a21186-6721-7d1e-a5b5-06dcd2354532",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobsora LK",
+      "email": "support@jobsora.lk",
+      "deliveryId": "01a21186-6960-70ea-b5ab-5ac6293c2424",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo DE",
+      "email": "info@neuvoo.de",
+      "deliveryId": "01a21186-6b37-78a3-bf8d-8a7af737ee56",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo FR",
+      "email": "info@neuvoo.fr",
+      "deliveryId": "01a21186-6d88-7cf7-9f83-c9ca24e73f0e",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo ES",
+      "email": "info@neuvoo.es",
+      "deliveryId": "01a21186-6f7e-788f-a4f2-d57825511806",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo CH",
+      "email": "info@neuvoo.ch",
+      "deliveryId": "01a21186-71d7-7d76-9710-4166fb7bf83d",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo CZ",
+      "email": "info@neuvoo.cz",
+      "deliveryId": "01a21186-7401-7ce6-97d4-4fe96944b664",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo RO",
+      "email": "info@neuvoo.ro",
+      "deliveryId": "01a21186-7644-7b74-ad44-3a7c97b38998",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo GR",
+      "email": "info@neuvoo.gr",
+      "deliveryId": "01a21186-7856-7d9f-86a7-16a7bf62610c",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo FI",
+      "email": "info@neuvoo.fi",
+      "deliveryId": "01a21186-7a5f-7f27-9d98-6a72b449a72b",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo COM.EC",
+      "email": "info@neuvoo.com.ec",
+      "deliveryId": "01a21186-7c71-763b-9164-ec4aeb66298a",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo CO.CR",
+      "email": "info@neuvoo.co.cr",
+      "deliveryId": "01a21186-7e53-7e35-b156-a67dfab06d26",
+      "status": "delivered"
+    },
+    {
+      "name": "Neuvoo CO.IN",
+      "email": "info@neuvoo.co.in",
+      "deliveryId": "01a21186-80ef-7b12-964e-b9591e0deddb",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent DE",
+      "email": "info@talent.de",
+      "deliveryId": "01a21186-8344-7dba-8a1e-73a0148b6232",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent CO.UK",
+      "email": "info@talent.co.uk",
+      "deliveryId": "01a21186-8547-7415-9857-d0b837b06903",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent ES",
+      "email": "info@talent.es",
+      "deliveryId": "01a21186-8716-71ef-a861-b428597bbb3b",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent IT",
+      "email": "info@talent.it",
+      "deliveryId": "01a21186-8919-793f-9e89-af2e0174723a",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent NL",
+      "email": "info@talent.nl",
+      "deliveryId": "01a21186-8b2b-73e2-a605-8c67b6097989",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent BE",
+      "email": "info@talent.be",
+      "deliveryId": "01a21186-8d6a-721e-8001-9b6ef519aa96",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent AT",
+      "email": "info@talent.at",
+      "deliveryId": "01a21186-8f40-7168-8229-f860129ecca5",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent CH",
+      "email": "info@talent.ch",
+      "deliveryId": "01a21186-9188-7a90-bae5-cd871342caa7",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent PL",
+      "email": "info@talent.pl",
+      "deliveryId": "01a21186-9390-74ec-a5c7-97e7e7f8960a",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent CZ",
+      "email": "info@talent.cz",
+      "deliveryId": "01a21186-956b-70cb-9814-1cc7f530ada9",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent HU",
+      "email": "info@talent.hu",
+      "deliveryId": "01a21186-9771-7941-843e-a8109c672eb4",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent GR",
+      "email": "info@talent.gr",
+      "deliveryId": "01a21186-997c-7499-a15b-95b64a821912",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent PT",
+      "email": "info@talent.pt",
+      "deliveryId": "01a21186-9bc2-7cd8-954d-b93f6bdbda19",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent SE",
+      "email": "info@talent.se",
+      "deliveryId": "01a21186-9d9f-7eb0-8408-e1aae001ff5b",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent DK",
+      "email": "info@talent.dk",
+      "deliveryId": "01a21186-9fef-727b-8e5a-707c5c721f09",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent IE",
+      "email": "info@talent.ie",
+      "deliveryId": "01a21186-a3ef-7260-8bf5-3b1e53292451",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent LT",
+      "email": "info@talent.lt",
+      "deliveryId": "01a21186-a5c6-7a5c-bb95-0f4451d639fe",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent LV",
+      "email": "info@talent.lv",
+      "deliveryId": "01a21186-a7e6-73f0-b5a8-b4aab4db0e42",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent SI",
+      "email": "info@talent.si",
+      "deliveryId": "01a21186-aa4d-755c-9903-9caeb9dc98c0",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent RS",
+      "email": "info@talent.rs",
+      "deliveryId": "01a21186-ac93-7981-a060-f2afc2b3b55d",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent UA",
+      "email": "info@talent.ua",
+      "deliveryId": "01a21197-f285-78d7-95b5-da2c165ecf9c",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent KZ",
+      "email": "info@talent.kz",
+      "deliveryId": "01a21197-f4ce-72a2-a751-59835729805d",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent COM.MX",
+      "email": "info@talent.com.mx",
+      "deliveryId": "01a21197-f73e-76a7-bf31-68de040672d6",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent COM.BR",
+      "email": "info@talent.com.br",
+      "deliveryId": "01a21197-fa85-7158-ac73-6a072a628417",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent COM.AR",
+      "email": "info@talent.com.ar",
+      "deliveryId": "01a21197-fe29-75ba-8ea0-a1a2adae9fdf",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent COM.MY",
+      "email": "info@talent.com.my",
+      "deliveryId": "01a21198-0194-7f37-bb51-c7966a718664",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent CO.ID",
+      "email": "info@talent.co.id",
+      "deliveryId": "01a21198-04c1-70dd-a6a7-29083a874799",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent CO.TH",
+      "email": "info@talent.co.th",
+      "deliveryId": "01a21198-08a6-79dd-9205-eaa11b6ea6f8",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent COM.VN",
+      "email": "info@talent.com.vn",
+      "deliveryId": "01a21198-0b88-79a8-88e9-932f847bd3c1",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent COM.SA",
+      "email": "info@talent.com.sa",
+      "deliveryId": "01a21198-0dd7-7671-83dc-d6019e1d77d3",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent TN",
+      "email": "info@talent.tn",
+      "deliveryId": "01a21198-0fef-702a-ab82-38214c799ec8",
+      "status": "delivered"
+    },
+    {
+      "name": "Talent CO.ZA",
+      "email": "info@talent.co.za",
+      "deliveryId": "01a21198-1209-7bd0-b1ab-dee04981b437",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired DE",
+      "email": "info@simplyhired.de",
+      "deliveryId": "01a21198-1430-743f-ac06-9f1e49d41687",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired FR",
+      "email": "info@simplyhired.fr",
+      "deliveryId": "01a21198-161c-79f6-a2aa-d932277dcb2f",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired CO.UK",
+      "email": "info@simplyhired.co.uk",
+      "deliveryId": "01a21198-1857-71c1-906a-284d4f7db597",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired ES",
+      "email": "info@simplyhired.es",
+      "deliveryId": "01a21198-1a3d-71ba-b627-56edc98a822d",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired IT",
+      "email": "info@simplyhired.it",
+      "deliveryId": "01a21198-1c48-7cb6-9f6f-4afa3df1db56",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired NL",
+      "email": "info@simplyhired.nl",
+      "deliveryId": "01a21198-1e9c-7860-a9d8-c9500feb1b7b",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired BE",
+      "email": "info@simplyhired.be",
+      "deliveryId": "01a21198-20bd-7197-82f0-19a5f786ad07",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired AT",
+      "email": "info@simplyhired.at",
+      "deliveryId": "01a21198-22bf-7851-b727-d19503c48225",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired CH",
+      "email": "info@simplyhired.ch",
+      "deliveryId": "01a21198-2506-7639-9eaf-9f817b44a8a5",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired PT",
+      "email": "info@simplyhired.pt",
+      "deliveryId": "01a21198-271d-7670-b50b-9d13d0d0068b",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired SE",
+      "email": "info@simplyhired.se",
+      "deliveryId": "01a21198-2993-7169-bbc1-22f347df62f2",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired IE",
+      "email": "info@simplyhired.ie",
+      "deliveryId": "01a21198-2bb0-7c2b-a884-c57dfe409e86",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired CA",
+      "email": "info@simplyhired.ca",
+      "deliveryId": "01a21198-2da2-7481-b06c-b7ad1b8baa69",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired COM.BR",
+      "email": "info@simplyhired.com.br",
+      "deliveryId": "01a21198-2fb3-701f-aac4-5069f3f65cdc",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired COM.AR",
+      "email": "info@simplyhired.com.ar",
+      "deliveryId": "01a21198-31fb-71b6-b3a7-9758bf251d8f",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired CO.IN",
+      "email": "info@simplyhired.co.in",
+      "deliveryId": "01a21198-3441-7101-a8df-9bf3a30f0461",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired COM.AU",
+      "email": "info@simplyhired.com.au",
+      "deliveryId": "01a21198-3665-732c-a82c-8c32e017bb3a",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired JP",
+      "email": "info@simplyhired.jp",
+      "deliveryId": "01a21198-38ae-71a3-8161-7a44985a6493",
+      "status": "delivered"
+    },
+    {
+      "name": "SimplyHired CO.ZA",
+      "email": "info@simplyhired.co.za",
+      "deliveryId": "01a21198-3b0b-749c-a23d-b996f8cb0d98",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CO.UK",
+      "email": "info@stepstone.co.uk",
+      "deliveryId": "01a21198-3d52-73c6-9329-c55ae8c6a223",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone ES",
+      "email": "info@stepstone.es",
+      "deliveryId": "01a21198-3f71-70d5-8570-aeaa386ee470",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone IT",
+      "email": "info@stepstone.it",
+      "deliveryId": "01a21198-4160-7909-82df-d956ba86dcc9",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone NL",
+      "email": "info@stepstone.nl",
+      "deliveryId": "01a21198-43a2-7840-adf4-25280bc24878",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone AT",
+      "email": "info@stepstone.at",
+      "deliveryId": "01a21198-45c4-75d8-97d7-9c97c1e78737",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CH",
+      "email": "info@stepstone.ch",
+      "deliveryId": "01a21198-47ee-7ecd-bd37-43648e20a9cb",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone PL",
+      "email": "info@stepstone.pl",
+      "deliveryId": "01a21198-4a60-783f-9d51-13bb064cee50",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CZ",
+      "email": "info@stepstone.cz",
+      "deliveryId": "01a21198-4c7d-7c4c-aa7e-1ac194718a57",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone SK",
+      "email": "info@stepstone.sk",
+      "deliveryId": "01a21198-4e96-73dd-ad2e-ae2fb570ecfe",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone HU",
+      "email": "info@stepstone.hu",
+      "deliveryId": "01a21198-50a6-7659-8e79-fb166354a63e",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone GR",
+      "email": "info@stepstone.gr",
+      "deliveryId": "01a21198-52e4-795f-9141-b82ee74a5363",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone FI",
+      "email": "info@stepstone.fi",
+      "deliveryId": "01a21198-54cf-7264-9f7e-0110ce005910",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone IE",
+      "email": "info@stepstone.ie",
+      "deliveryId": "01a21198-5724-7013-9e63-f303fec3bad3",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone LU",
+      "email": "info@stepstone.lu",
+      "deliveryId": "01a21198-59aa-7d9b-ba05-a1f11138c2f7",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone LT",
+      "email": "info@stepstone.lt",
+      "deliveryId": "01a21198-5bf3-79a0-8ea4-bf601ec84f23",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone LV",
+      "email": "info@stepstone.lv",
+      "deliveryId": "01a21198-5e1a-7851-b37d-43b55e172f34",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone KZ",
+      "email": "info@stepstone.kz",
+      "deliveryId": "01a21198-6030-732f-8d58-be38dfc0ab5c",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CA",
+      "email": "info@stepstone.ca",
+      "deliveryId": "01a21198-6276-7bbe-adfa-723ab98d9475",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.MX",
+      "email": "info@stepstone.com.mx",
+      "deliveryId": "01a21198-6460-707a-a50f-094583c90dfd",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.AR",
+      "email": "info@stepstone.com.ar",
+      "deliveryId": "01a21198-66a3-774c-8a2e-80235c7dfc77",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.CO",
+      "email": "info@stepstone.com.co",
+      "deliveryId": "01a21198-68eb-7521-a4af-031fc41c9c7c",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.PE",
+      "email": "info@stepstone.com.pe",
+      "deliveryId": "01a21198-6afd-7ef9-b58e-571d85396dbf",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.EC",
+      "email": "info@stepstone.com.ec",
+      "deliveryId": "01a21198-6d40-745e-8b6b-cc190c96aa6d",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.UY",
+      "email": "info@stepstone.com.uy",
+      "deliveryId": "01a21198-6f92-7135-8a20-caa487f49b1a",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.PA",
+      "email": "info@stepstone.com.pa",
+      "deliveryId": "01a21198-722f-7b83-96fc-081b37601fff",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CO.IN",
+      "email": "info@stepstone.co.in",
+      "deliveryId": "01a21198-7448-7bef-be8e-69f4269435e5",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CO.NZ",
+      "email": "info@stepstone.co.nz",
+      "deliveryId": "01a21198-7657-7d19-8c20-2b1b9fe724cf",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.SG",
+      "email": "info@stepstone.com.sg",
+      "deliveryId": "01a21198-789b-7427-b23f-36d55c01097a",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.PH",
+      "email": "info@stepstone.com.ph",
+      "deliveryId": "01a21198-7aae-7dac-af48-12eee403cc19",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CO.ID",
+      "email": "info@stepstone.co.id",
+      "deliveryId": "01a21198-7cbf-7c7e-97dd-b446e464e55f",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone COM.VN",
+      "email": "info@stepstone.com.vn",
+      "deliveryId": "01a21198-7efe-74b9-b978-bee824ef1bad",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone JP",
+      "email": "info@stepstone.jp",
+      "deliveryId": "01a21198-8119-7cd0-b4cc-d19df1c05b73",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CO.KR",
+      "email": "info@stepstone.co.kr",
+      "deliveryId": "01a21198-833a-7956-88a5-33e7513c9620",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone MA",
+      "email": "info@stepstone.ma",
+      "deliveryId": "01a21198-8526-70d0-9dc7-7e018f20171f",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CO.ZA",
+      "email": "info@stepstone.co.za",
+      "deliveryId": "01a21198-8768-7da0-94a2-76758389a0a8",
+      "status": "delivered"
+    },
+    {
+      "name": "StepStone CO.IL",
+      "email": "info@stepstone.co.il",
+      "deliveryId": "01a21198-89e0-77ca-b360-99ed943c9582",
+      "status": "delivered"
+    },
+    {
+      "name": "Mitula CO.UK",
+      "email": "info@mitula.co.uk",
+      "deliveryId": "01a21198-8bca-7941-bdab-b3028725eff7",
+      "status": "delivered"
+    },
+    {
+      "name": "Mitula ES",
+      "email": "info@mitula.es",
+      "deliveryId": "01a21198-8e14-750a-9eaa-b12c14a135e3",
+      "status": "delivered"
+    },
+    {
+      "name": "Mitula NL",
+      "email": "info@mitula.nl",
+      "deliveryId": "01a21198-9065-71fe-8db5-1187fa83fff4",
+      "status": "delivered"
+    },
+    {
+      "name": "Mitula PL",
+      "email": "info@mitula.pl",
+      "deliveryId": "01a21198-92fe-7f35-944d-c156e8327f22",
+      "status": "delivered"
+    },
+    {
+      "name": "Yakaz DE",
+      "email": "contact@yakaz.de",
+      "deliveryId": "01a21198-9549-70f9-a4b2-57da3780102f",
+      "status": "delivered"
+    },
+    {
+      "name": "Yakaz CO.UK",
+      "email": "contact@yakaz.co.uk",
+      "deliveryId": "01a21198-9763-717a-9e75-07a42f9af7cf",
+      "status": "delivered"
+    },
+    {
+      "name": "Yakaz COM.CO",
+      "email": "contact@yakaz.com.co",
+      "deliveryId": "01a21198-9976-745c-8ce8-5bfdb5a6ee04",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted DE",
+      "email": "info@jobted.de",
+      "deliveryId": "01a21198-9bb8-7840-9d27-b28be82cadd4",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted FR",
+      "email": "info@jobted.fr",
+      "deliveryId": "01a21198-9dcc-7f16-b1e3-777b08403cfa",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted CO.UK",
+      "email": "info@jobted.co.uk",
+      "deliveryId": "01a21198-a037-772a-a10f-b8118d2c3088",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted ES",
+      "email": "info@jobted.es",
+      "deliveryId": "01a21198-a277-7ce6-973c-0c03446f4f75",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted IT",
+      "email": "info@jobted.it",
+      "deliveryId": "01a21198-a4c0-7751-81c2-513291ccb6f2",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted NL",
+      "email": "info@jobted.nl",
+      "deliveryId": "01a21198-a6af-71ec-aac0-428c98f03ee4",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted BE",
+      "email": "info@jobted.be",
+      "deliveryId": "01a21198-a8f3-7809-95ae-f13e57f31659",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted AT",
+      "email": "info@jobted.at",
+      "deliveryId": "01a21198-ab91-729d-8a1a-329fdee6a22d",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted CH",
+      "email": "info@jobted.ch",
+      "deliveryId": "01a21198-adb7-73bd-9172-c079ef608915",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted PL",
+      "email": "info@jobted.pl",
+      "deliveryId": "01a21198-b001-78a5-a880-f14095eacfdf",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted PT",
+      "email": "info@jobted.pt",
+      "deliveryId": "01a21198-b255-749e-b5b1-580130e05a96",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted SE",
+      "email": "info@jobted.se",
+      "deliveryId": "01a21198-b4dc-7d44-a0c5-d9518d0abe63",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted DK",
+      "email": "info@jobted.dk",
+      "deliveryId": "01a21198-b6cb-7aad-b92b-34451537dbac",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted FI",
+      "email": "info@jobted.fi",
+      "deliveryId": "01a21198-b8d7-736a-b7ee-ca720871ae89",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted IE",
+      "email": "info@jobted.ie",
+      "deliveryId": "01a21198-bb1a-7212-b7ce-b9ea22b8836b",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.MX",
+      "email": "info@jobted.com.mx",
+      "deliveryId": "01a21198-bd3b-7348-bf54-7dd260cbc90e",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.BR",
+      "email": "info@jobted.com.br",
+      "deliveryId": "01a21198-bf60-7653-93f3-bb0b7cb37152",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.AR",
+      "email": "info@jobted.com.ar",
+      "deliveryId": "01a21198-c174-7ab4-8f7b-761d7165317d",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted CL",
+      "email": "info@jobted.cl",
+      "deliveryId": "01a21198-c515-7482-9b8a-130eb3fd51b7",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.CO",
+      "email": "info@jobted.com.co",
+      "deliveryId": "01a21198-c758-7942-9858-17a15b3e6f9c",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.PE",
+      "email": "info@jobted.com.pe",
+      "deliveryId": "01a21198-cacc-75a2-bd7a-d08c813717e0",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted CO.IN",
+      "email": "info@jobted.co.in",
+      "deliveryId": "01a21198-cd03-7200-9f24-0ee7a1346c66",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted CO.NZ",
+      "email": "info@jobted.co.nz",
+      "deliveryId": "01a21198-cf54-7341-9dbf-8687f66f614a",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.SG",
+      "email": "info@jobted.com.sg",
+      "deliveryId": "01a21198-d195-7617-9681-e8be7effd618",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.MY",
+      "email": "info@jobted.com.my",
+      "deliveryId": "01a21198-d3db-7dc7-9009-951c75f145b4",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted COM.PH",
+      "email": "info@jobted.com.ph",
+      "deliveryId": "01a21198-d604-76e6-8dd7-e7c64e99d3ce",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted PK",
+      "email": "info@jobted.pk",
+      "deliveryId": "01a21198-d823-7c12-a1a8-94e400f5e858",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted AE",
+      "email": "info@jobted.ae",
+      "deliveryId": "01a21198-da41-7371-a22d-f9b40fa7575f",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobted CO.ZA",
+      "email": "info@jobted.co.za",
+      "deliveryId": "01a21198-dcbd-7571-8952-260556357c36",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo DE",
+      "email": "info@opcionempleo.de",
+      "deliveryId": "01a21198-dedd-72b6-a087-1932af2fec81",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo ES",
+      "email": "info@opcionempleo.es",
+      "deliveryId": "01a21198-e120-777c-8da4-acef6903a175",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo COM.AR",
+      "email": "info@opcionempleo.com.ar",
+      "deliveryId": "01a21198-e30d-76e8-823e-4575aa8f8e1b",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo CL",
+      "email": "info@opcionempleo.cl",
+      "deliveryId": "01a21198-e54b-742f-8ba9-31473734495d",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo COM.CO",
+      "email": "info@opcionempleo.com.co",
+      "deliveryId": "01a21198-e769-70ff-9fa7-546d511944db",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo COM.PE",
+      "email": "info@opcionempleo.com.pe",
+      "deliveryId": "01a21198-e985-76ae-8fbc-84f88d38ca7d",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo COM.EC",
+      "email": "info@opcionempleo.com.ec",
+      "deliveryId": "01a21198-ebcc-7ed2-9c82-3bb9de9b94e0",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo COM.UY",
+      "email": "info@opcionempleo.com.uy",
+      "deliveryId": "01a21198-ee09-7781-8f59-18d073a1a610",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo CO.CR",
+      "email": "info@opcionempleo.co.cr",
+      "deliveryId": "01a21198-f050-753a-9d07-0988137d8eee",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo COM.PA",
+      "email": "info@opcionempleo.com.pa",
+      "deliveryId": "01a21198-f27a-7ef8-ac52-7e64e16019b5",
+      "status": "delivered"
+    },
+    {
+      "name": "Opcionempleo COM.DO",
+      "email": "info@opcionempleo.com.do",
+      "deliveryId": "01a21198-f491-720a-88f4-1be7dbd74959",
+      "status": "delivered"
+    },
+    {
+      "name": "Gigajob FR",
+      "email": "info@gigajob.fr",
+      "deliveryId": "01a21198-f69f-723f-a68a-d02c410555bb",
+      "status": "delivered"
+    },
+    {
+      "name": "Gigajob NL",
+      "email": "info@gigajob.nl",
+      "deliveryId": "01a21198-f8ad-7309-be41-997e54705c77",
+      "status": "delivered"
+    },
+    {
+      "name": "Gigajob HU",
+      "email": "info@gigajob.hu",
+      "deliveryId": "01a21198-fab9-7940-ba57-a7f621a66512",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit DE",
+      "email": "info@recruit.de",
+      "deliveryId": "01a21198-fcca-788e-8ec2-801e3b5eac66",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit CO.UK",
+      "email": "info@recruit.co.uk",
+      "deliveryId": "01a21198-ff0b-73bc-bfd1-f2657e6ff1b6",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit ES",
+      "email": "info@recruit.es",
+      "deliveryId": "01a21199-00fb-76c4-9610-bbe81623e101",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit IT",
+      "email": "info@recruit.it",
+      "deliveryId": "01a21199-0337-71cb-b9ed-44bb1d0df5c0",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit BE",
+      "email": "info@recruit.be",
+      "deliveryId": "01a21199-05af-75b5-96a2-9ce912578d58",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit CH",
+      "email": "info@recruit.ch",
+      "deliveryId": "01a21199-07f9-7046-8b4d-e0d95ab54793",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit PL",
+      "email": "info@recruit.pl",
+      "deliveryId": "01a21199-0a15-7888-b0d1-0c21bfa61ea1",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit CZ",
+      "email": "info@recruit.cz",
+      "deliveryId": "01a21199-0c02-7c12-83c9-2f6993d22bab",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit SK",
+      "email": "info@recruit.sk",
+      "deliveryId": "01a21199-0e49-7bc4-9460-4548e8b1dfce",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit HU",
+      "email": "info@recruit.hu",
+      "deliveryId": "01a21199-1074-73c3-aff1-6068a7a177a6",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit GR",
+      "email": "info@recruit.gr",
+      "deliveryId": "01a21199-131b-7527-b090-8d114337bbff",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit PT",
+      "email": "info@recruit.pt",
+      "deliveryId": "01a21199-1577-73cd-97e5-2b15335c11f6",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit SE",
+      "email": "info@recruit.se",
+      "deliveryId": "01a21199-179c-763c-b72e-a6db246f9331",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit NO",
+      "email": "info@recruit.no",
+      "deliveryId": "01a21199-1a0a-793a-8344-4c5cb4297310",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit FI",
+      "email": "info@recruit.fi",
+      "deliveryId": "01a21199-1c50-701e-8197-97443f7f45d1",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit IE",
+      "email": "info@recruit.ie",
+      "deliveryId": "01a21199-1e5d-7794-98e6-d030feeceadf",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit LT",
+      "email": "info@recruit.lt",
+      "deliveryId": "01a21199-2066-7721-a4d6-b365e8c10252",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit LV",
+      "email": "info@recruit.lv",
+      "deliveryId": "01a21199-226f-7051-943b-b0e5fd1cf7de",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit RS",
+      "email": "info@recruit.rs",
+      "deliveryId": "01a21199-24e0-7304-96d7-d5a924140be6",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit COM.MX",
+      "email": "info@recruit.com.mx",
+      "deliveryId": "01a21199-26f0-7031-83d2-65f4e1755289",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit COM.BR",
+      "email": "info@recruit.com.br",
+      "deliveryId": "01a21199-2928-7aaa-9c04-df8dde94aef9",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit COM.AU",
+      "email": "info@recruit.com.au",
+      "deliveryId": "01a21199-2bba-7a55-96b5-e78718222deb",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit COM.SG",
+      "email": "info@recruit.com.sg",
+      "deliveryId": "01a21199-2d9e-79ae-8f1c-dbb9e1dbd23f",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit COM.PH",
+      "email": "info@recruit.com.ph",
+      "deliveryId": "01a21199-2fdf-7bb0-a6d4-b546a66bf3f0",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit COM.TW",
+      "email": "info@recruit.com.tw",
+      "deliveryId": "01a21199-3226-7b9a-a657-dcf72336458d",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit JP",
+      "email": "info@recruit.jp",
+      "deliveryId": "01a21199-3415-7372-8e7a-a97ea67a563d",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit CO.KR",
+      "email": "info@recruit.co.kr",
+      "deliveryId": "01a21199-365e-7957-b52f-b5bf48cf1172",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit LK",
+      "email": "info@recruit.lk",
+      "deliveryId": "01a21199-38e2-74f5-935f-36cb5ba3dc51",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit CO.TZ",
+      "email": "info@recruit.co.tz",
+      "deliveryId": "01a21199-3b2d-7e54-8ab7-19c8da8e595c",
+      "status": "delivered"
+    },
+    {
+      "name": "Recruit CO.IL",
+      "email": "info@recruit.co.il",
+      "deliveryId": "01a21199-3d42-7794-8007-a5dce00766d9",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobatus DE",
+      "email": "info@jobatus.de",
+      "deliveryId": "01a21199-3f4f-7df3-9ded-92f06906118e",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobatus PT",
+      "email": "info@jobatus.pt",
+      "deliveryId": "01a21199-4195-705f-a0fe-8acf41ac525c",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobatus COM.MX",
+      "email": "info@jobatus.com.mx",
+      "deliveryId": "01a21199-43dd-7b60-b87d-60c6527abd95",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobatus COM.BR",
+      "email": "info@jobatus.com.br",
+      "deliveryId": "01a21199-4652-7c78-b1b2-468cc8613ddd",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobatus CL",
+      "email": "info@jobatus.cl",
+      "deliveryId": "01a21199-489e-751e-b45c-fe22d40620d1",
+      "status": "delivered"
+    },
+    {
+      "name": "ZipRecruiter.co.uk",
+      "email": "info@ziprecruiter.co.uk",
+      "deliveryId": "01a21199-4aee-74e8-96c9-d99ac0975515",
+      "status": "delivered"
+    },
+    {
+      "name": "ZipRecruiter.ca",
+      "email": "info@ziprecruiter.ca",
+      "deliveryId": "01a21199-4d57-7e2d-8151-4a070f6acfd5",
+      "status": "delivered"
+    },
+    {
+      "name": "ZipRecruiter.com.au",
+      "email": "info@ziprecruiter.com.au",
+      "deliveryId": "01a21199-4f96-7379-ad5e-77a07408c56e",
+      "status": "delivered"
+    },
+    {
+      "name": "ZipRecruiter.de",
+      "email": "info@ziprecruiter.de",
+      "deliveryId": "01a21199-51b8-71a7-a8b8-b1d0e45a00d5",
+      "status": "delivered"
+    },
+    {
+      "name": "ZipRecruiter.fr",
+      "email": "info@ziprecruiter.fr",
+      "deliveryId": "01a21199-541a-7343-ba1d-067fcd8cb91b",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder.ca",
+      "email": "info@careerbuilder.ca",
+      "deliveryId": "01a21199-56b5-7c4a-97ec-784ee7d14b27",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder.co.uk",
+      "email": "info@careerbuilder.co.uk",
+      "deliveryId": "01a21199-5900-77a6-bbce-b07ffbe48c3a",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder.de",
+      "email": "info@careerbuilder.de",
+      "deliveryId": "01a21199-5b0f-759b-bfee-8acaaf0e9eb2",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder.fr",
+      "email": "info@careerbuilder.fr",
+      "deliveryId": "01a21199-5d4d-7eae-ac04-aaf4d2fc7315",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder.nl",
+      "email": "info@careerbuilder.nl",
+      "deliveryId": "01a21199-5fcc-7f31-8f70-16cf31f4ee94",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder.se",
+      "email": "info@careerbuilder.se",
+      "deliveryId": "01a21199-6218-7421-8272-e414ad25ffb7",
+      "status": "delivered"
+    },
+    {
+      "name": "CareerBuilder.co.in",
+      "email": "info@careerbuilder.co.in",
+      "deliveryId": "01a21199-6467-7503-9d2e-296a49d3992b",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing DE",
+      "email": "info@xing.de",
+      "deliveryId": "01a21199-66b0-7673-bdee-73611e6ebc4f",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing IT",
+      "email": "info@xing.it",
+      "deliveryId": "01a21199-691b-76d0-a936-ccc2b02e6efe",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing AT",
+      "email": "info@xing.at",
+      "deliveryId": "01a21199-6b09-715e-9feb-607a04e3a643",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing CH",
+      "email": "info@xing.ch",
+      "deliveryId": "01a21199-6d18-728d-aa14-89311bf2805a",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing GR",
+      "email": "info@xing.gr",
+      "deliveryId": "01a21199-6f2a-7530-9c8a-3f181b188f7c",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing NO",
+      "email": "info@xing.no",
+      "deliveryId": "01a21199-713e-7300-80b7-33fb5c1a8187",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing DK",
+      "email": "info@xing.dk",
+      "deliveryId": "01a21199-737f-766c-ac09-84f9ed1c9f46",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing COM.BR",
+      "email": "info@xing.com.br",
+      "deliveryId": "01a21199-75c9-775c-80df-676ca178d869",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing COM.AU",
+      "email": "info@xing.com.au",
+      "deliveryId": "01a21199-7860-7819-bbe7-67ade0afaa4b",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing CO.NZ",
+      "email": "info@xing.co.nz",
+      "deliveryId": "01a21199-7a4d-7182-b2d2-9e083b82cddf",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing COM.SG",
+      "email": "info@xing.com.sg",
+      "deliveryId": "01a21199-7c92-7eb9-a31c-b061c5926f86",
+      "status": "delivered"
+    },
+    {
+      "name": "Xing AE",
+      "email": "info@xing.ae",
+      "deliveryId": "01a21199-7e88-782a-9829-dfe2265d0ab7",
+      "status": "delivered"
+    },
+    {
+      "name": "Trabajando NL",
+      "email": "contacto@trabajando.nl",
+      "deliveryId": "01a21199-80c5-71b8-b2ce-b99b1721d610",
+      "status": "delivered"
+    },
+    {
+      "name": "Trabajando COM.AR",
+      "email": "contacto@trabajando.com.ar",
+      "deliveryId": "01a21199-82b3-7d5a-99fc-dbae6dfd1c14",
+      "status": "delivered"
+    },
+    {
+      "name": "Trabajando COM.UY",
+      "email": "contacto@trabajando.com.uy",
+      "deliveryId": "01a21199-8686-71fa-9c72-ede8ec0daed7",
+      "status": "delivered"
+    },
+    {
+      "name": "Bumeran ES",
+      "email": "contacto@bumeran.es",
+      "deliveryId": "01a21199-889c-702e-9e28-2900dab222a8",
+      "status": "delivered"
+    },
+    {
+      "name": "Computrabajo DE",
+      "email": "info@computrabajo.de",
+      "deliveryId": "01a21199-8ae8-7665-a205-b13864854f0c",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet DE",
+      "email": "info@jobstreet.de",
+      "deliveryId": "01a21199-8d24-7020-8e2d-13ed57e921d1",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet FR",
+      "email": "info@jobstreet.fr",
+      "deliveryId": "01a21199-90c7-7c38-a7ae-4963d68380fe",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet CO.UK",
+      "email": "info@jobstreet.co.uk",
+      "deliveryId": "01a21199-92e7-76ef-b62a-0812a0616b91",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet AT",
+      "email": "info@jobstreet.at",
+      "deliveryId": "01a21199-956a-7cfd-a140-b8aff5e37c63",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet HU",
+      "email": "info@jobstreet.hu",
+      "deliveryId": "01a21199-97cd-7894-8c3a-dd030a48c83e",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet SI",
+      "email": "info@jobstreet.si",
+      "deliveryId": "01a21199-9a56-762d-ba41-1c164ad2ac88",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet CA",
+      "email": "info@jobstreet.ca",
+      "deliveryId": "01a21199-a4b7-7d22-877c-3dad76ea2385",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet JP",
+      "email": "info@jobstreet.jp",
+      "deliveryId": "01a21199-a82b-7cba-ab3b-97610a1da457",
+      "status": "delivered"
+    },
+    {
+      "name": "JobStreet CO.ZA",
+      "email": "info@jobstreet.co.za",
+      "deliveryId": "01a21199-aaba-7bc1-81c9-e701740e9d36",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB CO.UK",
+      "email": "info@jobsdb.co.uk",
+      "deliveryId": "01a21199-ae62-75f8-bf30-6fa938ddf1de",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB CH",
+      "email": "info@jobsdb.ch",
+      "deliveryId": "01a21199-b09f-7cf0-b2da-4ad2635b4c33",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB CO.IN",
+      "email": "info@jobsdb.co.in",
+      "deliveryId": "01a21199-b2e4-7a39-a16b-1f12f4fc3a94",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB CO.NZ",
+      "email": "info@jobsdb.co.nz",
+      "deliveryId": "01a21199-b4fe-7859-b5ae-698838ded8ed",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB COM.TW",
+      "email": "info@jobsdb.com.tw",
+      "deliveryId": "01a21199-b713-73f9-b46b-48058278caf0",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB CO.KR",
+      "email": "info@jobsdb.co.kr",
+      "deliveryId": "01a21199-b959-7675-b918-087ff3cd056b",
+      "status": "delivered"
+    },
+    {
+      "name": "JobsDB LK",
+      "email": "info@jobsdb.lk",
+      "deliveryId": "01a21199-bb55-703a-be94-57b667461b72",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek DE",
+      "email": "info@seek.de",
+      "deliveryId": "01a21199-bd61-7900-a72e-a8523c03d06e",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek FR",
+      "email": "info@seek.fr",
+      "deliveryId": "01a21199-bfac-7c98-864d-1bf8f2d4abe6",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek ES",
+      "email": "info@seek.es",
+      "deliveryId": "01a21199-c1ef-7834-9ff5-5c42581b5780",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek IT",
+      "email": "info@seek.it",
+      "deliveryId": "01a21199-c437-7bd1-8c66-370c628df923",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek AT",
+      "email": "info@seek.at",
+      "deliveryId": "01a21199-c675-78b6-8138-2a1f69fdb1b1",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek SK",
+      "email": "info@seek.sk",
+      "deliveryId": "01a21199-c88a-7cb0-8339-82e32afddd39",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek RO",
+      "email": "info@seek.ro",
+      "deliveryId": "01a21199-ceae-71c9-9ec5-75b5dcb4b1f5",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek GR",
+      "email": "info@seek.gr",
+      "deliveryId": "01a21199-d0c3-797e-a218-87ab163120ea",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek PT",
+      "email": "info@seek.pt",
+      "deliveryId": "01a21199-d30d-7482-bb79-0b3a21073c5e",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek SE",
+      "email": "info@seek.se",
+      "deliveryId": "01a21199-d6aa-786f-baac-3337c191ec55",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek NO",
+      "email": "info@seek.no",
+      "deliveryId": "01a21199-d8fe-739e-8c4b-110f0e48fdc7",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek DK",
+      "email": "info@seek.dk",
+      "deliveryId": "01a21199-df3b-776d-83f9-4268c54ad91a",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek LT",
+      "email": "info@seek.lt",
+      "deliveryId": "01a21199-e972-73b7-9b69-0327b0533277",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek HR",
+      "email": "info@seek.hr",
+      "deliveryId": "01a21199-ebd8-75ff-982a-9dd55544efb2",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek SI",
+      "email": "info@seek.si",
+      "deliveryId": "01a21199-ee2d-7ecb-b2d1-adf60a8a65e4",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek COM.MX",
+      "email": "info@seek.com.mx",
+      "deliveryId": "01a21199-f042-7984-84e6-3a4c85195577",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek COM.BR",
+      "email": "info@seek.com.br",
+      "deliveryId": "01a21199-f27d-7141-bd88-15029eeaf575",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek COM.AR",
+      "email": "info@seek.com.ar",
+      "deliveryId": "01a21199-f4be-7750-ac4d-09fdd9234af8",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek COM.MY",
+      "email": "info@seek.com.my",
+      "deliveryId": "01a21199-f6bc-757b-84aa-de34ced28822",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek CO.TH",
+      "email": "info@seek.co.th",
+      "deliveryId": "01a21199-f8f9-7dfc-9973-89b6f3a59f65",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek COM.VN",
+      "email": "info@seek.com.vn",
+      "deliveryId": "01a21199-fb45-71cc-a5a0-b5e397c98ee7",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek COM.HK",
+      "email": "info@seek.com.hk",
+      "deliveryId": "01a21199-fd86-72c9-b8ad-d66779976a07",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek COM.TW",
+      "email": "info@seek.com.tw",
+      "deliveryId": "01a21199-ffce-7cd1-a3b6-b0b276ded1f8",
+      "status": "delivered"
+    },
+    {
+      "name": "Seek CO.KR",
+      "email": "info@seek.co.kr",
+      "deliveryId": "01a2119a-0212-775f-89d3-0b1cd2c48863",
+      "status": "delivered"
+    },
+    {
+      "name": "Naukri IE",
+      "email": "info@naukri.ie",
+      "deliveryId": "01a2119a-0441-73fe-a174-e5b4ac0158b9",
+      "status": "delivered"
+    },
+    {
+      "name": "Naukri PK",
+      "email": "info@naukri.pk",
+      "deliveryId": "01a2119a-06d7-734f-a88b-e390fd7e2263",
+      "status": "delivered"
+    },
+    {
+      "name": "Naukri AE",
+      "email": "info@naukri.ae",
+      "deliveryId": "01a2119a-0967-7e10-bc34-b59bf885468d",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt DE",
+      "email": "info@bayt.de",
+      "deliveryId": "01a2119a-0bd9-77b6-ba30-0e69330059c7",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt FR",
+      "email": "info@bayt.fr",
+      "deliveryId": "01a2119a-0e04-784d-8814-715093f7975f",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt CO.UK",
+      "email": "info@bayt.co.uk",
+      "deliveryId": "01a2119a-1007-721a-b810-41ccf79ea0ff",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt IT",
+      "email": "info@bayt.it",
+      "deliveryId": "01a2119a-1216-72e6-98cb-ce37727522f4",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt NL",
+      "email": "info@bayt.nl",
+      "deliveryId": "01a2119a-1454-7042-9b45-b9d47fab6a0f",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt BE",
+      "email": "info@bayt.be",
+      "deliveryId": "01a2119a-1652-76c4-9ff8-df9dd8041c51",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt PL",
+      "email": "info@bayt.pl",
+      "deliveryId": "01a2119a-1c8d-74de-aea8-f6b7fc28ad54",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt SE",
+      "email": "info@bayt.se",
+      "deliveryId": "01a2119a-1ebb-778c-80ba-243600b5b798",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt DK",
+      "email": "info@bayt.dk",
+      "deliveryId": "01a2119a-20b6-72ff-a680-ecd08c6dba9e",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt IE",
+      "email": "info@bayt.ie",
+      "deliveryId": "01a2119a-22bf-7a17-a42c-3fad81b0a576",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt KZ",
+      "email": "info@bayt.kz",
+      "deliveryId": "01a2119a-24f1-7ecb-9d72-4044cb8e7ce0",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt CA",
+      "email": "info@bayt.ca",
+      "deliveryId": "01a2119a-2718-7ace-a760-b3808112816f",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt COM.BR",
+      "email": "info@bayt.com.br",
+      "deliveryId": "01a2119a-2944-7c3d-87c2-e091ef248273",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt COM.AR",
+      "email": "info@bayt.com.ar",
+      "deliveryId": "01a2119a-2b85-7a4b-a5f8-216d2ba6b51f",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt CL",
+      "email": "info@bayt.cl",
+      "deliveryId": "01a2119a-2dc7-7c30-ab12-c9fd1285a5de",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt COM.AU",
+      "email": "info@bayt.com.au",
+      "deliveryId": "01a2119a-300b-732a-ade3-51bfd252b711",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt TN",
+      "email": "info@bayt.tn",
+      "deliveryId": "01a2119a-3239-79eb-a5e4-c77d2d4de39b",
+      "status": "delivered"
+    },
+    {
+      "name": "Bayt CO.IL",
+      "email": "info@bayt.co.il",
+      "deliveryId": "01a2119a-3437-7ea3-9396-f02e27579767",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobberman CO.UK",
+      "email": "info@jobberman.co.uk",
+      "deliveryId": "01a2119a-3647-7420-b3c0-aa045ac31c0a",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobberman CA",
+      "email": "info@jobberman.ca",
+      "deliveryId": "01a2119a-38af-7b3f-958b-62063965cb86",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobberman COM.NG",
+      "email": "info@jobberman.com.ng",
+      "deliveryId": "01a2119a-3ac1-7682-9be4-022d97ada19f",
+      "status": "delivered"
+    },
+    {
+      "name": "Work DE",
+      "email": "info@work.de",
+      "deliveryId": "01a2119a-3cce-7345-b30d-173d6f0815ff",
+      "status": "delivered"
+    },
+    {
+      "name": "Work FR",
+      "email": "info@work.fr",
+      "deliveryId": "01a2119a-3f17-7d84-b3f3-e862f8afb79e",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CO.UK",
+      "email": "info@work.co.uk",
+      "deliveryId": "01a2119a-4164-7bd9-a9bf-f209c2816495",
+      "status": "delivered"
+    },
+    {
+      "name": "Work IT",
+      "email": "info@work.it",
+      "deliveryId": "01a2119a-4390-77b5-9248-e92a805efaa3",
+      "status": "delivered"
+    },
+    {
+      "name": "Work NL",
+      "email": "info@work.nl",
+      "deliveryId": "01a2119a-45bb-72e1-8774-789254a4c774",
+      "status": "delivered"
+    },
+    {
+      "name": "Work AT",
+      "email": "info@work.at",
+      "deliveryId": "01a2119a-47e5-7f2f-85d0-3a6455f1f652",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CZ",
+      "email": "info@work.cz",
+      "deliveryId": "01a2119a-4a6d-7a39-b5fb-435adb26b25c",
+      "status": "delivered"
+    },
+    {
+      "name": "Work SK",
+      "email": "info@work.sk",
+      "deliveryId": "01a2119a-4c84-7f1e-9b02-484192987eed",
+      "status": "delivered"
+    },
+    {
+      "name": "Work HU",
+      "email": "info@work.hu",
+      "deliveryId": "01a2119a-4ec4-720b-bd17-91b4cdb80bc4",
+      "status": "delivered"
+    },
+    {
+      "name": "Work RO",
+      "email": "info@work.ro",
+      "deliveryId": "01a2119a-510f-774c-a2c6-bccbc94bad2e",
+      "status": "delivered"
+    },
+    {
+      "name": "Work BG",
+      "email": "info@work.bg",
+      "deliveryId": "01a2119a-5387-753f-9974-d892f6a5ed66",
+      "status": "delivered"
+    },
+    {
+      "name": "Work GR",
+      "email": "info@work.gr",
+      "deliveryId": "01a2119a-55d7-7371-b0ca-17b304aaa68b",
+      "status": "delivered"
+    },
+    {
+      "name": "Work PT",
+      "email": "info@work.pt",
+      "deliveryId": "01a2119a-580b-7e2f-815f-1c8a1a70c00a",
+      "status": "delivered"
+    },
+    {
+      "name": "Work SE",
+      "email": "info@work.se",
+      "deliveryId": "01a2119a-5a52-74de-8419-b0ae586f0c25",
+      "status": "delivered"
+    },
+    {
+      "name": "Work NO",
+      "email": "info@work.no",
+      "deliveryId": "01a2119a-5cdd-709f-af41-c1e869b1aee1",
+      "status": "delivered"
+    },
+    {
+      "name": "Work DK",
+      "email": "info@work.dk",
+      "deliveryId": "01a2119a-5f02-7d52-9614-1b9d7f79743d",
+      "status": "delivered"
+    },
+    {
+      "name": "Work FI",
+      "email": "info@work.fi",
+      "deliveryId": "01a2119a-6143-74f2-b818-fbd59b4edab2",
+      "status": "delivered"
+    },
+    {
+      "name": "Work IE",
+      "email": "info@work.ie",
+      "deliveryId": "01a2119a-6354-719e-9061-c0c3e73eb468",
+      "status": "delivered"
+    },
+    {
+      "name": "Work LU",
+      "email": "info@work.lu",
+      "deliveryId": "01a2119a-655d-7dcc-a9a5-8d90fa537576",
+      "status": "delivered"
+    },
+    {
+      "name": "Work EE",
+      "email": "info@work.ee",
+      "deliveryId": "01a2119a-6793-7c28-9ed1-37cc3d1ab58e",
+      "status": "delivered"
+    },
+    {
+      "name": "Work LT",
+      "email": "info@work.lt",
+      "deliveryId": "01a2119a-69d7-7dbd-adc8-eebc7addd2e6",
+      "status": "delivered"
+    },
+    {
+      "name": "Work HR",
+      "email": "info@work.hr",
+      "deliveryId": "01a2119a-6bec-7eb2-83f1-41c0e4e2bebd",
+      "status": "delivered"
+    },
+    {
+      "name": "Work SI",
+      "email": "info@work.si",
+      "deliveryId": "01a2119a-6e04-7ce1-9df0-a28b49c8d826",
+      "status": "delivered"
+    },
+    {
+      "name": "Work RS",
+      "email": "info@work.rs",
+      "deliveryId": "01a2119a-7190-71b7-be64-a22414f87051",
+      "status": "delivered"
+    },
+    {
+      "name": "Work KZ",
+      "email": "info@work.kz",
+      "deliveryId": "01a2119a-7446-7eb8-b555-6ea57d0d8ed4",
+      "status": "delivered"
+    },
+    {
+      "name": "Work TR",
+      "email": "info@work.tr",
+      "deliveryId": "01a2119a-7681-7b06-a1ec-72d779ca73a4",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CA",
+      "email": "info@work.ca",
+      "deliveryId": "01a2119a-789d-702f-82c9-b3df9b57c6d9",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.MX",
+      "email": "info@work.com.mx",
+      "deliveryId": "01a2119a-7ab1-7c3b-bacd-bdbcc489f1b4",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.BR",
+      "email": "info@work.com.br",
+      "deliveryId": "01a2119a-7d03-79ee-b6d1-0221c8085406",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.AR",
+      "email": "info@work.com.ar",
+      "deliveryId": "01a2119a-7f18-71f5-b35b-a0c90a32eb28",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CL",
+      "email": "info@work.cl",
+      "deliveryId": "01a2119a-81b8-7e2a-b354-dee90f84adb0",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.PE",
+      "email": "info@work.com.pe",
+      "deliveryId": "01a2119a-83f3-7f22-813e-cd27fc175c26",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.UY",
+      "email": "info@work.com.uy",
+      "deliveryId": "01a2119a-863a-70b3-8c6d-5824af2999ff",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CO.NZ",
+      "email": "info@work.co.nz",
+      "deliveryId": "01a2119a-88d1-75aa-869d-471161b2c39f",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.SG",
+      "email": "info@work.com.sg",
+      "deliveryId": "01a2119a-8b03-7ef1-94d5-439ec5c115b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.MY",
+      "email": "info@work.com.my",
+      "deliveryId": "01a2119a-8d58-779a-9fd0-cf15c6f5fc56",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CO.TH",
+      "email": "info@work.co.th",
+      "deliveryId": "01a2119a-8f9f-7455-a81c-04aac4369b16",
+      "status": "delivered"
+    },
+    {
+      "name": "Work COM.TW",
+      "email": "info@work.com.tw",
+      "deliveryId": "01a2119a-91ec-79fa-b2e6-a7fd46b7f332",
+      "status": "delivered"
+    },
+    {
+      "name": "Work JP",
+      "email": "info@work.jp",
+      "deliveryId": "01a2119a-9409-725a-8c0e-f6fef6c20625",
+      "status": "delivered"
+    },
+    {
+      "name": "Work LK",
+      "email": "info@work.lk",
+      "deliveryId": "01a2119a-9648-75ae-a956-a039c65041a8",
+      "status": "delivered"
+    },
+    {
+      "name": "Work TN",
+      "email": "info@work.tn",
+      "deliveryId": "01a2119a-9844-7cf3-bf3a-cffefa3c5ed4",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CO.ZA",
+      "email": "info@work.co.za",
+      "deliveryId": "01a2119a-9a79-73f9-9845-be3e540f52e5",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CO.UG",
+      "email": "info@work.co.ug",
+      "deliveryId": "01a2119a-9c83-76fe-9f76-eb01dc0aecbe",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CO.TZ",
+      "email": "info@work.co.tz",
+      "deliveryId": "01a2119a-9ea9-7695-8d1e-d2164080a549",
+      "status": "delivered"
+    },
+    {
+      "name": "Work CO.IL",
+      "email": "info@work.co.il",
+      "deliveryId": "01a2119a-a0ea-7424-bdcb-74acd78b12f4",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota DE",
+      "email": "info@rabota.de",
+      "deliveryId": "01a2119a-a339-79be-97ba-66fdc191d216",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota FR",
+      "email": "info@rabota.fr",
+      "deliveryId": "01a2119a-a575-73aa-8c30-78420956a336",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota ES",
+      "email": "info@rabota.es",
+      "deliveryId": "01a2119a-a774-7d69-9718-3e7fd1c6e4ec",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota IT",
+      "email": "info@rabota.it",
+      "deliveryId": "01a2119a-a9b8-78fe-8fce-a29f17b275e0",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota NL",
+      "email": "info@rabota.nl",
+      "deliveryId": "01a2119a-ac02-751f-a4e4-551ea36fe1be",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota AT",
+      "email": "info@rabota.at",
+      "deliveryId": "01a2119a-ae45-759d-b306-1dc05843627a",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota CH",
+      "email": "info@rabota.ch",
+      "deliveryId": "01a2119a-b078-782c-99a4-52da2cd08548",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota SK",
+      "email": "info@rabota.sk",
+      "deliveryId": "01a2119a-b2b2-7c47-8006-260233153c54",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota DK",
+      "email": "info@rabota.dk",
+      "deliveryId": "01a2119a-b4d0-7318-b5e2-f3d9832bb199",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota EE",
+      "email": "info@rabota.ee",
+      "deliveryId": "01a2119a-b71c-7ecf-addd-c8e4594f2c46",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota HR",
+      "email": "info@rabota.hr",
+      "deliveryId": "01a2119a-b95b-771a-961e-db1df474eb50",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota SI",
+      "email": "info@rabota.si",
+      "deliveryId": "01a2119a-bbfa-750e-8bc4-85ed3e2ad491",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota RS",
+      "email": "info@rabota.rs",
+      "deliveryId": "01a2119a-be30-7248-8bb8-8cceaba09c54",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota KZ",
+      "email": "info@rabota.kz",
+      "deliveryId": "01a2119a-c089-73fb-8ade-62a28c8401cd",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota COM.BR",
+      "email": "info@rabota.com.br",
+      "deliveryId": "01a2119a-c294-720a-af87-82752335ae8d",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota CO.KR",
+      "email": "info@rabota.co.kr",
+      "deliveryId": "01a2119a-c4b2-7b8e-a1d4-3a3ebfae7a85",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota AE",
+      "email": "info@rabota.ae",
+      "deliveryId": "01a2119a-c6c5-71b8-9698-20e2243b9101",
+      "status": "delivered"
+    },
+    {
+      "name": "Rabota CO.IL",
+      "email": "info@rabota.co.il",
+      "deliveryId": "01a2119a-c907-7db9-a5ab-e443a4fd449e",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs DE",
+      "email": "info@jobs.de",
+      "deliveryId": "01a2119a-cb79-7c6b-9f10-5539fe1ff9e3",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs FR",
+      "email": "info@jobs.fr",
+      "deliveryId": "01a2119a-d458-7ba1-a002-2f307106f007",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs IT",
+      "email": "info@jobs.it",
+      "deliveryId": "01a2119a-d697-7431-8f8a-ddcb380313f1",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs NL",
+      "email": "info@jobs.nl",
+      "deliveryId": "01a2119a-d8b9-739a-a23f-e2e046cc7845",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs PL",
+      "email": "info@jobs.pl",
+      "deliveryId": "01a2119a-daff-75d5-ae14-1f46f0bedba4",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs SK",
+      "email": "info@jobs.sk",
+      "deliveryId": "01a2119a-dd14-7d64-8fb0-6eed69fdf5bb",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs HU",
+      "email": "info@jobs.hu",
+      "deliveryId": "01a2119a-df1d-7b5d-aa21-427858d55a75",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs GR",
+      "email": "info@jobs.gr",
+      "deliveryId": "01a2119a-e163-7bed-aa9f-15dc357e663c",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs PT",
+      "email": "info@jobs.pt",
+      "deliveryId": "01a2119a-e376-7183-a3b7-8366bb8305ef",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs SE",
+      "email": "info@jobs.se",
+      "deliveryId": "01a2119a-e588-7111-9d6c-e06df4236f76",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs NO",
+      "email": "info@jobs.no",
+      "deliveryId": "01a2119a-e826-7510-aaa1-e9c20c8bc832",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs DK",
+      "email": "info@jobs.dk",
+      "deliveryId": "01a2119a-ea5a-7e18-9b31-3b3b49a41186",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs LV",
+      "email": "info@jobs.lv",
+      "deliveryId": "01a2119a-ec9b-76c5-bc40-4bd079e5396c",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs HR",
+      "email": "info@jobs.hr",
+      "deliveryId": "01a2119a-eec6-782f-b344-eed9401e4ffd",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs UA",
+      "email": "info@jobs.ua",
+      "deliveryId": "01a2119a-f141-7c6c-ba41-e6a892b80170",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs KZ",
+      "email": "info@jobs.kz",
+      "deliveryId": "01a2119a-f373-741f-b509-197b5e457111",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs CA",
+      "email": "info@jobs.ca",
+      "deliveryId": "01a2119a-f5a9-7716-b691-d2ea6e927604",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs COM.BR",
+      "email": "info@jobs.com.br",
+      "deliveryId": "01a2119a-f7eb-7ec3-b60b-2f464e9ed9e9",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs CO.NZ",
+      "email": "info@jobs.co.nz",
+      "deliveryId": "01a2119a-fa8f-771c-bd75-1ab896d65539",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs COM.PH",
+      "email": "info@jobs.com.ph",
+      "deliveryId": "01a2119a-fcc8-72f4-bcdc-26fddba279a0",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs CO.ID",
+      "email": "info@jobs.co.id",
+      "deliveryId": "01a2119a-feff-7ca0-b4ff-4036a95440e2",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs LK",
+      "email": "info@jobs.lk",
+      "deliveryId": "01a2119b-01b3-7e4b-aa7a-f5af88cd03c5",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs TN",
+      "email": "info@jobs.tn",
+      "deliveryId": "01a2119b-03e8-7c52-8a7f-5df265388885",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs CO.ZA",
+      "email": "info@jobs.co.za",
+      "deliveryId": "01a2119b-062f-7a31-a780-84adb000ca4e",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs COM.NG",
+      "email": "info@jobs.com.ng",
+      "deliveryId": "01a2119b-0a15-77c6-aa64-518c9627e44a",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs CO.UG",
+      "email": "info@jobs.co.ug",
+      "deliveryId": "01a2119b-0d84-7c4f-b157-a5f06e8342bf",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs CO.TZ",
+      "email": "info@jobs.co.tz",
+      "deliveryId": "01a2119b-1157-7988-9528-9d55fb032ed2",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobs CO.IL",
+      "email": "info@jobs.co.il",
+      "deliveryId": "01a2119b-1347-73b4-b4fc-90ea993ee712",
+      "status": "delivered"
+    },
+    {
+      "name": "Karriere NL",
+      "email": "info@karriere.nl",
+      "deliveryId": "01a2119b-1592-73c0-825a-5f3e7ee1c3ba",
+      "status": "delivered"
+    },
+    {
+      "name": "Karriere NO",
+      "email": "info@karriere.no",
+      "deliveryId": "01a2119b-1834-737a-b580-3a1b2561d7ba",
+      "status": "delivered"
+    },
+    {
+      "name": "Karriere LU",
+      "email": "info@karriere.lu",
+      "deliveryId": "01a2119b-24a8-73be-8673-aead30a1eb43",
+      "status": "delivered"
+    },
+    {
+      "name": "Karriere SI",
+      "email": "info@karriere.si",
+      "deliveryId": "01a2119b-26c7-7626-a7c0-3ef8cb6c24e0",
+      "status": "delivered"
+    },
+    {
+      "name": "Karriere COM.BR",
+      "email": "info@karriere.com.br",
+      "deliveryId": "01a2119b-2925-784c-ae70-c561c25c03fa",
+      "status": "delivered"
+    },
+    {
+      "name": "InfoJobs RO",
+      "email": "info@infojobs.ro",
+      "deliveryId": "01a2119b-2cb4-786e-a3c9-0fe8b2dff514",
+      "status": "delivered"
+    },
+    {
+      "name": "InfoJobs PT",
+      "email": "info@infojobs.pt",
+      "deliveryId": "01a2119b-2f18-7920-ba54-a225372e83da",
+      "status": "delivered"
+    },
+    {
+      "name": "InfoJobs IE",
+      "email": "info@infojobs.ie",
+      "deliveryId": "01a2119b-34c5-7679-b70c-a0478c5e0446",
+      "status": "delivered"
+    },
+    {
+      "name": "InfoJobs CO.KR",
+      "email": "info@infojobs.co.kr",
+      "deliveryId": "01a2119b-39c3-7471-b6a5-6e03635229fd",
+      "status": "delivered"
+    },
+    {
+      "name": "CV FR",
+      "email": "info@cv.fr",
+      "deliveryId": "01a2119b-3bfe-7925-b8f9-79a20c44c45c",
+      "status": "delivered"
+    },
+    {
+      "name": "CV CO.UK",
+      "email": "info@cv.co.uk",
+      "deliveryId": "01a2119b-3e43-7821-80ec-376cc1151ea0",
+      "status": "delivered"
+    },
+    {
+      "name": "CV NL",
+      "email": "info@cv.nl",
+      "deliveryId": "01a2119b-4238-73d7-a913-ca240e483384",
+      "status": "delivered"
+    },
+    {
+      "name": "CV AT",
+      "email": "info@cv.at",
+      "deliveryId": "01a2119b-4467-7ce5-96a1-0cfe3b697c6a",
+      "status": "delivered"
+    },
+    {
+      "name": "CV PL",
+      "email": "info@cv.pl",
+      "deliveryId": "01a2119b-467a-7ef3-a5bf-7dbca8a5528a",
+      "status": "delivered"
+    },
+    {
+      "name": "CV CZ",
+      "email": "info@cv.cz",
+      "deliveryId": "01a2119b-48e2-7ba0-b3d1-9776fed1a76e",
+      "status": "delivered"
+    },
+    {
+      "name": "CV HU",
+      "email": "info@cv.hu",
+      "deliveryId": "01a2119b-4c8f-715a-a55b-4c0b68640a63",
+      "status": "delivered"
+    },
+    {
+      "name": "CV PT",
+      "email": "info@cv.pt",
+      "deliveryId": "01a21188-076d-7592-8b01-847cc7aff203",
+      "status": "delivered"
+    },
+    {
+      "name": "CV SE",
+      "email": "info@cv.se",
+      "deliveryId": "01a21188-09ba-7314-b0d7-a8b20dd7c7ae",
+      "status": "delivered"
+    },
+    {
+      "name": "CV DK",
+      "email": "info@cv.dk",
+      "deliveryId": "01a21188-0e86-7109-a436-6d3ed65934bc",
+      "status": "delivered"
+    },
+    {
+      "name": "CV FI",
+      "email": "info@cv.fi",
+      "deliveryId": "01a21188-135b-72a4-b29f-94f1fbe5fe93",
+      "status": "delivered"
+    },
+    {
+      "name": "CV IE",
+      "email": "info@cv.ie",
+      "deliveryId": "01a21188-15a4-73f2-b6ee-45b3747c3637",
+      "status": "delivered"
+    },
+    {
+      "name": "CV LU",
+      "email": "info@cv.lu",
+      "deliveryId": "01a21188-19be-7c4d-a95a-5944a221cd29",
+      "status": "delivered"
+    },
+    {
+      "name": "CV LT",
+      "email": "info@cv.lt",
+      "deliveryId": "01a21188-1ce8-7a40-98f7-a996ef86e1d3",
+      "status": "delivered"
+    },
+    {
+      "name": "CV HR",
+      "email": "info@cv.hr",
+      "deliveryId": "01a21188-1f3e-7d23-a873-5b80b4f55509",
+      "status": "delivered"
+    },
+    {
+      "name": "CV SI",
+      "email": "info@cv.si",
+      "deliveryId": "01a21188-218f-767d-8605-6d180ca03dfa",
+      "status": "delivered"
+    },
+    {
+      "name": "CV RS",
+      "email": "info@cv.rs",
+      "deliveryId": "01a21188-23d2-78d7-8c86-a94bd8629dd9",
+      "status": "delivered"
+    },
+    {
+      "name": "CV UA",
+      "email": "info@cv.ua",
+      "deliveryId": "01a21188-261f-7660-8aad-977988c15978",
+      "status": "delivered"
+    },
+    {
+      "name": "CV KZ",
+      "email": "info@cv.kz",
+      "deliveryId": "01a21188-285d-73f9-a59c-d4f60fb3568d",
+      "status": "delivered"
+    },
+    {
+      "name": "CV COM.BR",
+      "email": "info@cv.com.br",
+      "deliveryId": "01a21188-2aa7-7b4c-91a3-33525e8037fb",
+      "status": "delivered"
+    },
+    {
+      "name": "CV CL",
+      "email": "info@cv.cl",
+      "deliveryId": "01a21188-2d1d-7daf-9105-bd834441f1a8",
+      "status": "delivered"
+    },
+    {
+      "name": "CV COM.UY",
+      "email": "info@cv.com.uy",
+      "deliveryId": "01a21188-3093-78c6-9402-4f6789672a9d",
+      "status": "delivered"
+    },
+    {
+      "name": "CV COM.DO",
+      "email": "info@cv.com.do",
+      "deliveryId": "01a21188-332a-7e03-ab4d-9ce5b756de69",
+      "status": "delivered"
+    },
+    {
+      "name": "CV COM.AU",
+      "email": "info@cv.com.au",
+      "deliveryId": "01a21188-35b4-74b7-842d-0ed7072556b3",
+      "status": "delivered"
+    },
+    {
+      "name": "CV CO.NZ",
+      "email": "info@cv.co.nz",
+      "deliveryId": "01a21188-384b-767a-afce-ab495cffdf64",
+      "status": "delivered"
+    },
+    {
+      "name": "CV LK",
+      "email": "info@cv.lk",
+      "deliveryId": "01a21188-3b21-78f5-9b79-e054e30c6e71",
+      "status": "delivered"
+    },
+    {
+      "name": "CV CO.KE",
+      "email": "info@cv.co.ke",
+      "deliveryId": "01a21188-3e88-79d9-bc02-effcb827f4ae",
+      "status": "delivered"
+    },
+    {
+      "name": "CV CO.TZ",
+      "email": "info@cv.co.tz",
+      "deliveryId": "01a21188-40d7-7ee9-8e5b-8a603fdebe7f",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca DE",
+      "email": "info@praca.de",
+      "deliveryId": "01a21188-4306-70b7-81e5-890552a731d2",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca FR",
+      "email": "info@praca.fr",
+      "deliveryId": "01a21188-45b2-77b3-95ba-9dc632c1fabc",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca IT",
+      "email": "info@praca.it",
+      "deliveryId": "01a21188-48d0-77c2-bf03-50d6b1b3e19a",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca NL",
+      "email": "info@praca.nl",
+      "deliveryId": "01a21188-4d1d-7ae9-bded-26efdd7aa518",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca BE",
+      "email": "info@praca.be",
+      "deliveryId": "01a21188-511b-7d3b-9032-7f1fb6e9985f",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca CH",
+      "email": "info@praca.ch",
+      "deliveryId": "01a21188-54ec-7c29-abf9-5f947c0f1950",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca CZ",
+      "email": "info@praca.cz",
+      "deliveryId": "01a21188-5a55-7c64-a5cc-01406ef598d5",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca DK",
+      "email": "info@praca.dk",
+      "deliveryId": "01a21188-5e62-7b4f-a40b-ed48c5035624",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca FI",
+      "email": "info@praca.fi",
+      "deliveryId": "01a21188-64d8-75d4-9f28-8c44f883c987",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca LU",
+      "email": "info@praca.lu",
+      "deliveryId": "01a21188-6734-76bb-a05c-310ac2ec936d",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca EE",
+      "email": "info@praca.ee",
+      "deliveryId": "01a21188-6a9f-7d40-9651-459cc04ecc9a",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca LT",
+      "email": "info@praca.lt",
+      "deliveryId": "01a21188-6ec9-7848-aea1-db847c3b8f21",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca LV",
+      "email": "info@praca.lv",
+      "deliveryId": "01a21188-73dc-7894-8ac1-b1e01c5e1b6c",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca SI",
+      "email": "info@praca.si",
+      "deliveryId": "01a21188-78f8-7100-bf46-b6a5f3056dfa",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca UA",
+      "email": "info@praca.ua",
+      "deliveryId": "01a21188-7e97-76f4-9e70-c881df0bf81a",
+      "status": "delivered"
+    },
+    {
+      "name": "Praca COM.BR",
+      "email": "info@praca.com.br",
+      "deliveryId": "01a21188-8366-7e03-8a72-e3b534380832",
+      "status": "delivered"
+    },
+    {
+      "name": "Profesia ES",
+      "email": "info@profesia.es",
+      "deliveryId": "01a21188-88c7-7255-b0fb-aeaa62c0f848",
+      "status": "delivered"
+    },
+    {
+      "name": "Profesia IT",
+      "email": "info@profesia.it",
+      "deliveryId": "01a21188-8d1f-75ca-9445-de9468ba3750",
+      "status": "delivered"
+    },
+    {
+      "name": "Profesia RO",
+      "email": "info@profesia.ro",
+      "deliveryId": "01a21188-92b1-706c-b550-b16b69535e66",
+      "status": "delivered"
+    },
+    {
+      "name": "Profesia BG",
+      "email": "info@profesia.bg",
+      "deliveryId": "01a21188-9ac0-76eb-a3ce-17cfbae75a63",
+      "status": "delivered"
+    },
+    {
+      "name": "Profesia LV",
+      "email": "info@profesia.lv",
+      "deliveryId": "01a21188-a1ee-79c5-aee6-888a396c34a4",
+      "status": "delivered"
+    },
+    {
+      "name": "Profesia CO.ID",
+      "email": "info@profesia.co.id",
+      "deliveryId": "01a21188-a625-7a7d-90fa-596fbf3a4d21",
+      "status": "delivered"
+    },
+    {
+      "name": "Kariyer IT",
+      "email": "info@kariyer.it",
+      "deliveryId": "01a21188-a983-764d-8677-720b7da9b0d2",
+      "status": "delivered"
+    },
+    {
+      "name": "Kariyer NL",
+      "email": "info@kariyer.nl",
+      "deliveryId": "01a21188-afeb-7654-a94a-f76183e6029b",
+      "status": "delivered"
+    },
+    {
+      "name": "Kariyer AT",
+      "email": "info@kariyer.at",
+      "deliveryId": "01a21188-b766-7a3d-a08e-183f0ab65932",
+      "status": "delivered"
+    },
+    {
+      "name": "Kariyer CH",
+      "email": "info@kariyer.ch",
+      "deliveryId": "01a21188-d2cc-78cc-ad2c-8f334ea721c3",
+      "status": "delivered"
+    },
+    {
+      "name": "Kariyer SI",
+      "email": "info@kariyer.si",
+      "deliveryId": "01a21188-da6a-7b63-a25b-4d06d89978ce",
+      "status": "delivered"
+    }
+  ],
+  "retriedAt": "2026-11-25T07:28:40.298Z"
+}
