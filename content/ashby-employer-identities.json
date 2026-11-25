@@ -460,6 +460,14 @@
     "owner": "LI.FI",
     "website": "https://li.fi/"
   },
+  "ashby:ledger": {
+    "companies": [
+      "Ledger"
+    ],
+    "organizationId": "445169a9-d02f-49ee-8d1c-81e69fd1458b",
+    "owner": "Ledger",
+    "website": "https://www.ledger.com/"
+  },
   "ashby:lido.fi": {
     "companies": [
       "Lido"
@@ -1083,6 +1091,14 @@
     "organizationId": "98cd5d6f-9dc4-4268-adad-aa466ae0700e",
     "owner": "ZODL",
     "website": "https://zodl.com/"
+  },
+  "ashby:arca": {
+    "companies": [
+      "Arca"
+    ],
+    "organizationId": "b3404c7e-f9c1-4321-a8f3-8f622368d369",
+    "owner": "Arca",
+    "website": "https://www.arcawealth.com/"
   },
   "ashby:arrakis": {
     "companies": [

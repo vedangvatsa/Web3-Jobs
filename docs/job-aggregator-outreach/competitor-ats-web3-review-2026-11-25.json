@@ -1,0 +1,4833 @@
+{
+  "generatedAt": "2026-11-25T09:36:25.259Z",
+  "summary": {
+    "ingest_candidate": 5,
+    "web3_but_verify_identity": 17,
+    "wrong_board": 11,
+    "not_web3": 38
+  },
+  "results": [
+    {
+      "competitorName": "Capco",
+      "competitorSlug": "capco",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "capco",
+      "atsJobCount": "696",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/capco/jobs?content=true",
+      "atsOrgName": "Capco",
+      "atsWebsite": "",
+      "liveJobCount": 696,
+      "web3JobCount": 47,
+      "web3JobPct": 0.06752873563218391,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "47/696 jobs (7%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Business Analyst Digital Assets & blockchain",
+          "web3Score": 29,
+          "terms": [
+            "blockchain",
+            "digital asset",
+            "crypto",
+            "cryptocurrency",
+            "eth",
+            "smart contract",
+            "tokenization",
+            "stablecoin",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Business Analyst Digital Assets & Blockchain",
+          "web3Score": 29,
+          "terms": [
+            "blockchain",
+            "digital asset",
+            "crypto",
+            "cryptocurrency",
+            "eth",
+            "smart contract",
+            "tokenization",
+            "stablecoin",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Manager/Director | Digital Assets & Tokenisation",
+          "web3Score": 20,
+          "terms": [
+            "tokenisation",
+            "digital asset",
+            "blockchain",
+            "smart contract",
+            "stablecoin"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Business Analyst  - Digital Assets",
+          "web3Score": 17,
+          "terms": [
+            "digital asset",
+            "blockchain",
+            "crypto",
+            "defi",
+            "on-chain",
+            "tokenization",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "DvP Orchestration Engineer ",
+          "web3Score": 6,
+          "terms": [
+            "blockchain",
+            "smart contract"
+          ],
+          "web3": true
+        },
+        {
+          "title": "AI Engineer ",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "AI Governance / Ethical AI Specialist",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Crypto Engineer (Contract) ",
+          "web3Score": 4,
+          "terms": [
+            "crypto",
+            "eth"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Administrador - Hibrido - Rio de Janeiro / RJ",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Aduaneiro | Híbrido - Macaé/RJ",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Advogado - Remoto",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Agentic Architect",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "AI Architect",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:22.964Z"
+    },
+    {
+      "competitorName": "Binance",
+      "competitorSlug": "binance",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "binance",
+      "atsJobCount": "228",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/binance/jobs?content=true",
+      "atsOrgName": "Binance",
+      "atsWebsite": "",
+      "liveJobCount": 228,
+      "web3JobCount": 228,
+      "web3JobPct": 1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "228/228 jobs (100%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Blockchain Engineer - Binance Wallet",
+          "web3Score": 31,
+          "terms": [
+            "blockchain",
+            "wallet",
+            "web3",
+            "crypto",
+            "cryptocurrency",
+            "bitcoin",
+            "ethereum",
+            "eth",
+            "smart contract",
+            "on-chain",
+            "decentralized",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Business Development Manager - Web3 Wallet",
+          "web3Score": 22,
+          "terms": [
+            "web3",
+            "wallet",
+            "web 3",
+            "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "digital asset",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Frontend Engineer - Web3 Wallet",
+          "web3Score": 22,
+          "terms": [
+            "web3",
+            "wallet",
+            "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "eth",
+            "defi",
+            "on-chain",
+            "dex",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Software Engineer - Blockchain Security (Full-stack)",
+          "web3Score": 22,
+          "terms": [
+            "blockchain",
+            "web3",
+            "crypto",
+            "cryptocurrency",
+            "defi",
+            "smart contract",
+            "on-chain",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Earn Operations Specialist (Onchain Direction)",
+          "web3Score": 21,
+          "terms": [
+            "onchain",
+            "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "eth",
+            "defi",
+            "smart contract",
+            "on-chain",
+            "staking",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Backend Engineer, Java - Web 3 Wallet",
+          "web3Score": 20,
+          "terms": [
+            "web 3",
+            "wallet",
+            "web3",
+            "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "on-chain",
+            "decentralized",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Wallet Integration Specialist (Tokenized Stocks)",
+          "web3Score": 20,
+          "terms": [
+            "wallet",
+            "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "defi",
+            "smart contract",
+            "on-chain",
+            "tokenisation",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Growth & Partnerships Manager - Staking Products",
+          "web3Score": 18,
+          "terms": [
+            "staking",
+            "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "defi",
+            "on-chain",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [],
+      "checkedAt": "2026-11-25T09:34:25.708Z"
+    },
+    {
+      "competitorName": "Xsolla",
+      "competitorSlug": "xsolla",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "xsolla",
+      "atsJobCount": "188",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/xsolla?mode=json",
+      "atsOrgName": "Xsolla",
+      "atsWebsite": "https://xsolla.com/",
+      "liveJobCount": 188,
+      "web3JobCount": 15,
+      "web3JobPct": 0.0797872340425532,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "15/188 jobs (8%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior QA Engineer (Web3 Applications & Infrastructure)",
+          "web3Score": 18,
+          "terms": [
+            "web3",
+            "blockchain",
+            "eth",
+            "defi",
+            "smart contract",
+            "wallet",
+            "decentralized"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Web3 Fullstack Engineer",
+          "web3Score": 18,
+          "terms": [
+            "web3",
+            "eth",
+            "smart contract",
+            "on-chain",
+            "wallet",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Software Engineer",
+          "web3Score": 13,
+          "terms": [
+            "web3",
+            "eth",
+            "nft",
+            "smart contract",
+            "on-chain",
+            "wallet",
+            "dapp",
+            "dapps",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Team Lead",
+          "web3Score": 13,
+          "terms": [
+            "web3",
+            "eth",
+            "nft",
+            "smart contract",
+            "on-chain",
+            "wallet",
+            "dapp",
+            "dapps",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Staff Software Engineer Smart Wallet & Account Abstraction",
+          "web3Score": 10,
+          "terms": [
+            "wallet",
+            "web3",
+            "eth",
+            "on-chain",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Staff Software Engineer Smart Wallet & Account Abstraction",
+          "web3Score": 10,
+          "terms": [
+            "wallet",
+            "web3",
+            "eth",
+            "on-chain",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Frontend Engineer",
+          "web3Score": 7,
+          "terms": [
+            "web3",
+            "eth",
+            " zk ",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Middle/ Senior Frontend developer - React",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "(Senior) Android Developer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "(Senior)Backend Engineer (Golang)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Account Executive - Gaming/AdTech Sales",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "AI-First Engineering Intern",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Analyst, Capital Markets Intelligence and CRM",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:29.775Z"
+    },
+    {
+      "competitorName": "Toogeza",
+      "competitorSlug": "toogeza",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "toogeza",
+      "atsJobCount": "50",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/toogeza",
+      "atsOrgName": "Toogeza",
+      "atsWebsite": "",
+      "liveJobCount": 50,
+      "web3JobCount": 4,
+      "web3JobPct": 0.08,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "4/50 jobs (8%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Marketing Lead (B2B)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "BDM (Turkey)",
+          "web3Score": 3,
+          "terms": [
+            "crypto",
+            "eth",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Software Engineer (Systems & Algorithms)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Machine Learning Engineer — Physics AI",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "tokenization"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Financial Controller",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Strategy / Investment Analyst (iGaming)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Financial Analyst (DP)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Business Development Representative",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Executive Assistant",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:30.607Z"
+    },
+    {
+      "competitorName": "Apollo",
+      "competitorSlug": "apollo",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "apollo",
+      "atsJobCount": "46",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/apollo",
+      "atsOrgName": "Apollo",
+      "atsWebsite": "https://www.apollo.io/",
+      "liveJobCount": 46,
+      "web3JobCount": 1,
+      "web3JobPct": 0.021739130434782608,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 1/46 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior GTM Systems Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "GTM Solutions Consultant II (Presales)",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "GTM Senior Solutions Consultant (Presales)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Software Engineer, Builder Studio",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Account Executive / Account Manager, SMB (India)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Account Executive / Account Manager, MM (India)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:31.415Z"
+    },
+    {
+      "competitorName": "Sentilink",
+      "competitorSlug": "sentilink",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "sentilink",
+      "atsJobCount": "46",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/sentilink",
+      "atsOrgName": "SentiLink",
+      "atsWebsite": "https://www.sentilink.com/",
+      "liveJobCount": 46,
+      "web3JobCount": 1,
+      "web3JobPct": 0.021739130434782608,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 1/46 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Mobile Software Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Strategic Account Executive, Financial Services",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Data Scientist, Full Stack",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Staff Data Scientist, Full Stack",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer, Platform/Backend",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "dex"
+          ]
+        },
+        {
+          "title": "Senior Applied ML Scientist",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:32.182Z"
+    },
+    {
+      "competitorName": "Fuse",
+      "competitorSlug": "fuse",
+      "sources": "cryptocurrencyjobs.co;remote3.co",
+      "atsProvider": "ashby",
+      "atsBoard": "fuse",
+      "atsJobCount": "44",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/fuse",
+      "atsOrgName": "Fuse",
+      "atsWebsite": "https://www.f.energy/",
+      "liveJobCount": 44,
+      "web3JobCount": 6,
+      "web3JobPct": 0.13636363636363635,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "6/44 jobs (14%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Electrical Engineer ",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Electrical Engineer ",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Electrical Engineer  ",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Fluid Dynamics Engineer",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Cryogenic Systems Engineer",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Health Physicist ",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Laser Engineer ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Laser Engineer ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Mechanical Engineer ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Internship ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Machinist/Programmer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:32.984Z"
+    },
+    {
+      "competitorName": "Sentry",
+      "competitorSlug": "sentry",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "sentry",
+      "atsJobCount": "41",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/sentry",
+      "atsOrgName": "Sentry",
+      "atsWebsite": "https://sentry.io/",
+      "liveJobCount": 41,
+      "web3JobCount": 3,
+      "web3JobPct": 0.07317073170731707,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website sentry.io is a known slug collision (not sentry).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Technical Support Engineer",
+          "web3Score": 3,
+          "terms": [
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Technical Support Engineer",
+          "web3Score": 3,
+          "terms": [
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Engineering Manager, Growth",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Staff Software Engineer, AI Platform",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer, AI Platform",
+          "web3Score": 2,
+          "terms": [
+            "protocol"
+          ]
+        },
+        {
+          "title": "Staff Developer Experience Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Senior Solutions Engineer, Enterprise",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Technical Customer Success Manager ",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:33.376Z"
+    },
+    {
+      "competitorName": "Disco",
+      "competitorSlug": "disco",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "disco",
+      "atsJobCount": "35",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/disco/jobs?content=true",
+      "atsOrgName": "DISCO",
+      "atsWebsite": "",
+      "liveJobCount": 35,
+      "web3JobCount": 1,
+      "web3JobPct": 0.02857142857142857,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 1/35 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Software Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": " Associate Project Manager - UK",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Associate Review Manager - India",
+          "web3Score": 2,
+          "terms": [
+            "protocol"
+          ]
+        },
+        {
+          "title": "Director, GTM Enablement",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Director, GTM Enablement",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Director, GTM Enablement",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:34.837Z"
+    },
+    {
+      "competitorName": "Zeta",
+      "competitorSlug": "zeta",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "zeta",
+      "atsJobCount": "35",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/zeta?mode=json",
+      "atsOrgName": "Zeta",
+      "atsWebsite": "http://zeta.tech",
+      "liveJobCount": 35,
+      "web3JobCount": 1,
+      "web3JobPct": 0.02857142857142857,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 1/35 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Analyst II - SIEM/SecOps",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "l2 "
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Associate Director - Legal",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "DevSecOps Engineer II",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Director -  Product and Solutions Engineering",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Director – Enterprise Applications, Integration, AI & IT Infrastructure",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Executive - IT Support",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:39.896Z"
+    },
+    {
+      "competitorName": "Alloy",
+      "competitorSlug": "alloy",
+      "sources": "cryptocurrencyjobs.co",
+      "atsProvider": "greenhouse",
+      "atsBoard": "alloy",
+      "atsJobCount": "34",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/alloy/jobs?content=true",
+      "atsOrgName": "Alloy",
+      "atsWebsite": "https://www.inc.com/profile/alloy_ny",
+      "liveJobCount": 34,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Account Executive, Banking & Credit Unions",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Account Executive, Enterprise",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Channel Operations Manager",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Deal Desk Analyst",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Director of Operations (Product, Engineering & Technical Solutions)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:41.556Z"
+    },
+    {
+      "competitorName": "Akuna Capital",
+      "competitorSlug": "akuna-capital",
+      "sources": "cryptocurrencyjobs.co",
+      "atsProvider": "greenhouse",
+      "atsBoard": "akunacapital",
+      "atsJobCount": "33",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs?content=true",
+      "atsOrgName": "Akuna Capital",
+      "atsWebsite": "",
+      "liveJobCount": 33,
+      "web3JobCount": 2,
+      "web3JobPct": 0.06060606060606061,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 2/33 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Performance Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Systems Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Akuna Capital's Talent Community",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Assistant Controller",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "D1 Quantitative Researcher",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Engineering Manager - Full-Stack Web",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Experienced Options Trader",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:42.759Z"
+    },
+    {
+      "competitorName": "Omni Network",
+      "competitorSlug": "omni-network",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "omni",
+      "atsJobCount": "32",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/omni",
+      "atsOrgName": "Omni",
+      "atsWebsite": "https://omni.co/",
+      "liveJobCount": 32,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Product Engineer",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Solutions Engineer, Pre-Sales",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Business Development Representative (APAC)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Software Engineer, Growth Platform",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "dex"
+          ]
+        },
+        {
+          "title": "Manager, Business Development (San Francisco)",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:43.608Z"
+    },
+    {
+      "competitorName": "Mento Labs",
+      "competitorSlug": "mento-labs",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "mento",
+      "atsJobCount": "30",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/mento",
+      "atsOrgName": "Mento",
+      "atsWebsite": "https://mento.co",
+      "liveJobCount": 30,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Sales & GTM Leadership Coach - APAC",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Forward Deployment Engineer / Support Engineer (Director/Team Lead) Coach - APAC ",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Strategy & Operations Coach (VP+) - APAC",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "AI Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "dex"
+          ]
+        },
+        {
+          "title": "Finance Coach (VP+)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:46.092Z"
+    },
+    {
+      "competitorName": "Brinc",
+      "competitorSlug": "brinc",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "brinc",
+      "atsJobCount": "27",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/brinc",
+      "atsOrgName": "BRINC",
+      "atsWebsite": "https://brincdrones.com/",
+      "liveJobCount": 27,
+      "web3JobCount": 11,
+      "web3JobPct": 0.4074074074074074,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website brincdrones.com is a known slug collision (not brinc).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Production Technician",
+          "web3Score": 5,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "R&D Technician",
+          "web3Score": 4,
+          "terms": [
+            "defi",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Electrical Engineer, Hardware",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Associate Project Manager, DFR Implementation",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Software Engineer, Embedded",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Principal FPGA Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "DFR Maintenance Technician",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "DFR Installation Technician",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Inventory Control Technician",
+          "web3Score": 2,
+          "terms": [
+            "defi",
+            "dex"
+          ]
+        },
+        {
+          "title": "Fullstack Software Engineer, LiveOps",
+          "web3Score": 2,
+          "terms": [
+            "defi",
+            "dex"
+          ]
+        },
+        {
+          "title": "Autonomy Engineer, Navigation",
+          "web3Score": 2,
+          "terms": [
+            "defi",
+            "dex"
+          ]
+        },
+        {
+          "title": "Autonomy Engineer, State Estimation & Control",
+          "web3Score": 2,
+          "terms": [
+            "defi",
+            "dex"
+          ]
+        },
+        {
+          "title": "Principal TPM, Drone & Autonomy Software",
+          "web3Score": 2,
+          "terms": [
+            "defi",
+            "dex"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:46.501Z"
+    },
+    {
+      "competitorName": "Amber Group",
+      "competitorSlug": "amber-group",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "amber",
+      "atsJobCount": "26",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/amber",
+      "atsOrgName": "amber",
+      "atsWebsite": "https://ambersearch.de/",
+      "liveJobCount": 26,
+      "web3JobCount": 7,
+      "web3JobPct": 0.2692307692307692,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website ambersearch.de is a known slug collision (not amber-group).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Office & Team Management - Aachen (F/M/*)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "nft",
+            "mev"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Werkstudent Office & Team Management - Aachen (F/M/*) ",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "nft",
+            "mev"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Head of Finance (F/M/*)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "nft"
+          ],
+          "web3": true
+        },
+        {
+          "title": "(Senior) Frontend Engineer (F/M/*)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "nft"
+          ],
+          "web3": true
+        },
+        {
+          "title": "DevSecOps / Security Engineer (M/F/*)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "nft"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Werkstudent Office & Team Management - Köln (F/M/*) ",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "nft",
+            "mev"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Office & Team Management - Köln (F/M/*)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "nft",
+            "mev"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "International (Senior) Partner Manager (F/M/*)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "nft"
+          ]
+        },
+        {
+          "title": "(Senior) Backend Engineer (F/M/*)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Praktikant Sales (F/M/*)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Customer Success Manager (F/M/*)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "nft"
+          ]
+        },
+        {
+          "title": "AI Researcher (F/M/*)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "nft"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:47.657Z"
+    },
+    {
+      "competitorName": "Analog",
+      "competitorSlug": "analog",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "analog",
+      "atsJobCount": "26",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/analog",
+      "atsOrgName": "Analog",
+      "atsWebsite": "https://analog.io/",
+      "liveJobCount": 26,
+      "web3JobCount": 3,
+      "web3JobPct": 0.11538461538461539,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "ingest_candidate",
+      "notes": "Careers site domain matches expected brand (analog.io). 3/26 jobs (12%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Sports Scientist ",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Robotics Engineer, Dexterous Manipulation",
+          "web3Score": 3,
+          "terms": [
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior embedded Linux engineer (Jetson, robotics)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "l2 "
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Senior iOS Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Animator ",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "DevOps/Platform Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Graphic Designer ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Product Designer",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:48.306Z"
+    },
+    {
+      "competitorName": "Artemis",
+      "competitorSlug": "artemis",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "artemis",
+      "atsJobCount": "26",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/artemis",
+      "atsOrgName": "Artemis",
+      "atsWebsite": "https://goartemis.ai",
+      "liveJobCount": 26,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Senior Software Engineer  ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Security Research Engineer",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Product Engineer ",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Founding Product Manager",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Security Analyst",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:49.087Z"
+    },
+    {
+      "competitorName": "Nash",
+      "competitorSlug": "nash",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "nash",
+      "atsJobCount": "26",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/nash",
+      "atsOrgName": "Nash",
+      "atsWebsite": "https://www.nash.ai/",
+      "liveJobCount": 26,
+      "web3JobCount": 1,
+      "web3JobPct": 0.038461538461538464,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 1/26 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Enterprise Solutions Consultant/Regional Launcher, LATAM",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Anything",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Full Stack Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Backend Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Enterprise Account Executive",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Mid-Market Account Executive",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:49.769Z"
+    },
+    {
+      "competitorName": "Dapper Labs",
+      "competitorSlug": "dapper-labs",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "dapper",
+      "atsJobCount": "23",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/dapper",
+      "atsOrgName": "Dapper",
+      "atsWebsite": "https://www.dapper.agency/",
+      "liveJobCount": 23,
+      "web3JobCount": 22,
+      "web3JobPct": 0.9565217391304348,
+      "orgLooksWeb3": true,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website dapper.agency is a known slug collision (not dapper-labs).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Content Marketer ",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Performance Marketer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Content Marketer ",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Performance Marketer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Demand Generation Manager",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Demand Generation Manager",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Digital Marketing Intern ",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Videographer & Video Editor",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dapp"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Creative Design Intern",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "dapp"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:50.686Z"
+    },
+    {
+      "competitorName": "Roofstacks",
+      "competitorSlug": "roofstacks",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "roofstacks",
+      "atsJobCount": "23",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/roofstacks?mode=json",
+      "atsOrgName": "",
+      "atsWebsite": "",
+      "liveJobCount": 23,
+      "web3JobCount": 9,
+      "web3JobPct": 0.391304347826087,
+      "orgLooksWeb3": false,
+      "nameAlignment": "unknown",
+      "verdict": "web3_but_verify_identity",
+      "notes": "9/23 jobs (39%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Software Architect",
+          "web3Score": 7,
+          "terms": [
+            "blockchain",
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Software Architect",
+          "web3Score": 7,
+          "terms": [
+            "blockchain",
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Business Analyst (Core Banking)",
+          "web3Score": 6,
+          "terms": [
+            "blockchain",
+            "eth",
+            "defi"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Kıdemli İş Analisti (Ödeme Sistemleri)",
+          "web3Score": 6,
+          "terms": [
+            "web 3",
+            "blockchain"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Kıdemli İş Analisti (Temel Bankacılık)",
+          "web3Score": 5,
+          "terms": [
+            "blockchain",
+            "mev"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Backend Developer",
+          "web3Score": 5,
+          "terms": [
+            "blockchain",
+            "eth"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Business Analyst (Mobile Banking)",
+          "web3Score": 5,
+          "terms": [
+            "blockchain",
+            "eth"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Genel Başvuru- Engelli",
+          "web3Score": 4,
+          "terms": [
+            "blockchain"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Bilgi Güvenliği Mühendisi (Bankacılık)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "BT Altyapı Mühendisi (Bankacılık)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "BT Dağıtım ve Operasyon Mühendisi (Bankacılık)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Business Analyst (Card Payment Systems)",
+          "web3Score": 2,
+          "terms": [
+            "tokenization"
+          ]
+        },
+        {
+          "title": "DevOps Mühendisi (Bankacılık)",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:34:54.517Z"
+    },
+    {
+      "competitorName": "Toptal",
+      "competitorSlug": "toptal",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "toptal",
+      "atsJobCount": "23",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/toptal?mode=json",
+      "atsOrgName": "Toptal",
+      "atsWebsite": "http://www.toptal.com",
+      "liveJobCount": 23,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "CEO, AI Services - US-Based",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Chief Technology Officer",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Chief Technology Officer - US-Based",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Client Advisor",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Enterprise Sales Development Representative",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:13.531Z"
+    },
+    {
+      "competitorName": "Collective Shift",
+      "competitorSlug": "collective-shift",
+      "sources": "cryptocurrencyjobs.co;remote3.co",
+      "atsProvider": "ashby",
+      "atsBoard": "collective",
+      "atsJobCount": "21",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/collective",
+      "atsOrgName": "Collective",
+      "atsWebsite": "https://www.collective.com/",
+      "liveJobCount": 21,
+      "web3JobCount": 2,
+      "web3JobPct": 0.09523809523809523,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website collective.com is a known slug collision (not collective-shift).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior/Staff Security Engineer",
+          "web3Score": 4,
+          "terms": [
+            "crypto",
+            "defi",
+            "tokenization"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Cloud Infrastructure Engineer",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "defi",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Senior Solutions Architect",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Account Executive",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior/Staff Software Engineer",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Member Success Manager",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Tax Compliance Manager",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:14.264Z"
+    },
+    {
+      "competitorName": "Safe",
+      "competitorSlug": "safe",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "safe",
+      "atsJobCount": "20",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/safe?mode=json",
+      "atsOrgName": "Safe Security",
+      "atsWebsite": "https://www.safe.security/",
+      "liveJobCount": 20,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Customer Success Advisor",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Director of Demand Generation",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Engineering Manager",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Forward Deployed Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "People Operations Manager",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:20.273Z"
+    },
+    {
+      "competitorName": "Ledger",
+      "competitorSlug": "ledger",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "ledger",
+      "atsJobCount": "18",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/ledger",
+      "atsOrgName": "Ledger",
+      "atsWebsite": "https://www.ledger.com/",
+      "liveJobCount": 18,
+      "web3JobCount": 18,
+      "web3JobPct": 1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "ingest_candidate",
+      "notes": "Careers site domain matches expected brand (ledger.com). 18/18 jobs (100%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Backend Engineer",
+          "web3Score": 14,
+          "terms": [
+            "web3",
+            "blockchain",
+            "crypto",
+            "eth",
+            "defi",
+            "on-chain",
+            "digital asset",
+            "wallet",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Business Line Manager - Money Flows",
+          "web3Score": 11,
+          "terms": [
+            "web3",
+            "crypto",
+            "eth",
+            "defi",
+            "digital asset",
+            "stablecoin",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Product Manager - Earn",
+          "web3Score": 10,
+          "terms": [
+            "web3",
+            "crypto",
+            "defi",
+            "digital asset",
+            "wallet",
+            "staking"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Staff Mechanical Engineer",
+          "web3Score": 10,
+          "terms": [
+            "web3",
+            "blockchain",
+            "crypto",
+            "defi",
+            "digital asset",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Engineering Manager - Ledger Wallet",
+          "web3Score": 10,
+          "terms": [
+            "wallet",
+            "web3",
+            "crypto",
+            "defi",
+            "digital asset"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Senior Security Architect - Product & Cloud",
+          "web3Score": 10,
+          "terms": [
+            "web3",
+            "crypto",
+            "defi",
+            "digital asset",
+            "wallet",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Staff Product Manager - Ledger Wallet (Contractor)",
+          "web3Score": 10,
+          "terms": [
+            "wallet",
+            "web3",
+            "crypto",
+            "defi",
+            "digital asset"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Manufacturing Security Lead",
+          "web3Score": 9,
+          "terms": [
+            "web3",
+            "crypto",
+            "eth",
+            "defi",
+            "digital asset",
+            "wallet"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [],
+      "checkedAt": "2026-11-25T09:35:21.223Z"
+    },
+    {
+      "competitorName": "Harmony",
+      "competitorSlug": "harmony",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "harmony",
+      "atsJobCount": "17",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/harmony",
+      "atsOrgName": "Harmony",
+      "atsWebsite": "https://harmony.io/",
+      "liveJobCount": 17,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Software Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Sales Development Representative",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Account Executive ",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Forward Deployed Engineer - New York ",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Solutions Engineer (Pre-Sales) - New York",
+          "web3Score": 1,
+          "terms": [
+            "dex"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:21.950Z"
+    },
+    {
+      "competitorName": "Arca",
+      "competitorSlug": "arca",
+      "sources": "cryptocurrencyjobs.co",
+      "atsProvider": "ashby",
+      "atsBoard": "arca",
+      "atsJobCount": "14",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/arca",
+      "atsOrgName": "Arca",
+      "atsWebsite": "https://www.arcawealth.com/",
+      "liveJobCount": 14,
+      "web3JobCount": 13,
+      "web3JobPct": 0.9285714285714286,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "ingest_candidate",
+      "notes": "Careers site domain matches expected brand (arcawealth.com). 13/14 jobs (93%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Head of Tax",
+          "web3Score": 4,
+          "terms": [
+            "eth",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Member of Technical Staff, Agent Platform",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Member of Corporate Development, M&A",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Wealth Advisor",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Member of Technical Staff, Product Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Member of Technical Staff, Brand Marketing Designer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Member of Technical Staff, Platform Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Lead Product Designer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Marketing / Growth Web Designer ( Contract )",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "dex"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:22.417Z"
+    },
+    {
+      "competitorName": "Factor",
+      "competitorSlug": "factor",
+      "sources": "cryptocurrencyjobs.co;remote3.co",
+      "atsProvider": "lever",
+      "atsBoard": "factor",
+      "atsJobCount": "13",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/factor?mode=json",
+      "atsOrgName": "Factor",
+      "atsWebsite": "https://www.factor.law/",
+      "liveJobCount": 13,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Customer Service & Administration Analyst",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Executive Assistant to the CEO",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Manager, Contract Management I",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Manager, Entity Management & Treasury",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Sales Associate, AI Enablement",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:25.316Z"
+    },
+    {
+      "competitorName": "Upside",
+      "competitorSlug": "upside",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "upside",
+      "atsJobCount": "13",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/upside",
+      "atsOrgName": "Upside",
+      "atsWebsite": "https://www.upside.com/",
+      "liveJobCount": 13,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Staff Application Security Engineer ",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Head of Design and Research",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Lifecycle Marketing Principal, Consumer Growth & Experience",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Engineering Manager, Reconciliation",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Lead Financial Data Analyst",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:26.133Z"
+    },
+    {
+      "competitorName": "Axiom ZEN",
+      "competitorSlug": "axiom-zen",
+      "sources": "cryptocurrencyjobs.co",
+      "atsProvider": "greenhouse",
+      "atsBoard": "axiom",
+      "atsJobCount": "12",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/axiom/jobs?content=true",
+      "atsOrgName": "Axiom",
+      "atsWebsite": "",
+      "liveJobCount": 12,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Business Development Representative (Hybrid - February 2027 Start)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Data Scientist ",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Enterprise Account Executive (Remote)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Enterprise Account Executive (Remote)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Enterprise Account Executive (Remote)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:28.772Z"
+    },
+    {
+      "competitorName": "Stealth",
+      "competitorSlug": "stealth",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "stealth",
+      "atsJobCount": "11",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/stealth",
+      "atsOrgName": "Stealth Startup",
+      "atsWebsite": "",
+      "liveJobCount": 11,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Visual Designer",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Full Stack Software Engineer",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Head of Product",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Head of Software Engineering ",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Head of Hardware",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:29.479Z"
+    },
+    {
+      "competitorName": "Terra",
+      "competitorSlug": "terra",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "terra",
+      "atsJobCount": "11",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/terra",
+      "atsOrgName": "TERRA",
+      "atsWebsite": "https://terrateamup.com/",
+      "liveJobCount": 11,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Japanese-to-US English Freelance Video Game Localizers",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "German-to-English Freelance Healthcare Translators and Editors",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "General Application for Video Game Localizers",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Audio QA Reviewer for Subtitles (ASREC)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "General Application for Freelance Healthcare Talent Pool",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:30.177Z"
+    },
+    {
+      "competitorName": "Neon Labs",
+      "competitorSlug": "neon-labs",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "neon",
+      "atsJobCount": "10",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/neon?mode=json",
+      "atsOrgName": "Neon Pagamentos",
+      "atsWebsite": "https://neon.com.br/carreira",
+      "liveJobCount": 10,
+      "web3JobCount": 1,
+      "web3JobPct": 0.1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 1/10 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Banco de Talentos - Pessoa com Deficiência",
+          "web3Score": 3,
+          "terms": [
+            "defi"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Analista de CRM Sênior | Vaga Afirmativa para Mulheres Pretas e Pardas",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Analista de Suporte Júnior | Afirmativa para PCD's",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Analista de Suporte Pleno",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Banco de Talentos - Comunidade Negra",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Banco de Talentos - LGBTQIA+",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:33.030Z"
+    },
+    {
+      "competitorName": "Phoenix Growth",
+      "competitorSlug": "phoenix-growth",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "phoenix",
+      "atsJobCount": "10",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/phoenix",
+      "atsOrgName": "Phoenix",
+      "atsWebsite": "https://www.phoenix.ca/",
+      "liveJobCount": 10,
+      "web3JobCount": 2,
+      "web3JobPct": 0.2,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "Only 2/10 web3-tagged jobs; employer may be mixed/non-crypto.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Infirmier(ère) praticien(ne) Spécialisé(e) (IPS) bilingue -  télésanté",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Bilingual Nurse Practitioner - Ontario (Remote)",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Performance Marketing Specialist",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Graphic Designer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Associate Creative Strategist",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Organic Growth Marketing Manager",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "User Acquisition Lead",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:33.799Z"
+    },
+    {
+      "competitorName": "Magic",
+      "competitorSlug": "magic",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "magic",
+      "atsJobCount": "9",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/magic",
+      "atsOrgName": "Magic",
+      "atsWebsite": "https://magic.company",
+      "liveJobCount": 9,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Forward Deployed Strategist",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Software Engineer, Full Stack",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer, Infra",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Founding Designer",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Founding Talent",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:34.392Z"
+    },
+    {
+      "competitorName": "Magic Square",
+      "competitorSlug": "magic-square",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "magic",
+      "atsJobCount": "9",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/magic",
+      "atsOrgName": "Magic",
+      "atsWebsite": "https://magic.company",
+      "liveJobCount": 9,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Forward Deployed Strategist",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Software Engineer, Full Stack",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer, Infra",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Founding Designer",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Founding Talent",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:34.509Z"
+    },
+    {
+      "competitorName": "Nibiru",
+      "competitorSlug": "nibiru",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "nibiru",
+      "atsJobCount": "9",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/nibiru?mode=json",
+      "atsOrgName": "Nibiru",
+      "atsWebsite": "https://nibiru.fi/",
+      "liveJobCount": 9,
+      "web3JobCount": 7,
+      "web3JobPct": 0.7777777777777778,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "ingest_candidate",
+      "notes": "Careers site domain matches expected brand (nibiru.fi). 7/9 jobs (78%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Euclid Protocol | Head of Trading",
+          "web3Score": 12,
+          "terms": [
+            "protocol",
+            "blockchain",
+            "stablecoin",
+            "decentralized"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Developer Relations",
+          "web3Score": 9,
+          "terms": [
+            "web3",
+            "blockchain",
+            "crypto",
+            "smart contract",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Community Lead",
+          "web3Score": 8,
+          "terms": [
+            "web3",
+            "blockchain",
+            "smart contract",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Growth Analyst / Associate",
+          "web3Score": 8,
+          "terms": [
+            "web3",
+            "blockchain",
+            "smart contract",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Motion Graphics (Freelance)",
+          "web3Score": 8,
+          "terms": [
+            "web3",
+            "blockchain",
+            "smart contract",
+            "dapp"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Memecoin & NFT Community Leader",
+          "web3Score": 6,
+          "terms": [
+            "nft",
+            "web3"
+          ],
+          "web3": true
+        },
+        {
+          "title": "AI Agent Launchpad Builder",
+          "web3Score": 3,
+          "terms": [
+            "defi"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Intern",
+          "web3Score": 2,
+          "terms": [
+            "protocol"
+          ]
+        },
+        {
+          "title": "Sai Perps DEX - Regional Trader Ambassador",
+          "web3Score": 2,
+          "terms": [
+            "dex"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:39.413Z"
+    },
+    {
+      "competitorName": "AE Studio",
+      "competitorSlug": "ae-studio",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "aestudio",
+      "atsJobCount": "8",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/aestudio/jobs?content=true",
+      "atsOrgName": "AE Studio",
+      "atsWebsite": "https://podcasts.apple.com/us/podcast/ae-alignment-podcast/id1888046207",
+      "liveJobCount": 8,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Alignment Research Manager",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Alignment Scientist/Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Applied AI Data Scientist",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Applied AI Data Scientist (Brazil)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "General Counsel",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:41.242Z"
+    },
+    {
+      "competitorName": "Branch",
+      "competitorSlug": "branch",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "branch",
+      "atsJobCount": "8",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/branch/jobs?content=true",
+      "atsOrgName": "Branch",
+      "atsWebsite": "",
+      "liveJobCount": 8,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Android Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Compliance Analyst",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Data Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Director of Risk & Recovery Enablement",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Enterprise Account Executive, Marketplaces",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:43.440Z"
+    },
+    {
+      "competitorName": "Burnt Finance",
+      "competitorSlug": "burnt-finance",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "burnt",
+      "atsJobCount": "8",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/burnt/jobs?content=true",
+      "atsOrgName": "XION",
+      "atsWebsite": "",
+      "liveJobCount": 8,
+      "web3JobCount": 8,
+      "web3JobPct": 1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "mismatch",
+      "verdict": "wrong_board",
+      "notes": "ATS org \"XION\" does not align with competitor \"Burnt Finance\".",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Protocol Engineer",
+          "web3Score": 16,
+          "terms": [
+            "protocol",
+            "web3",
+            "blockchain",
+            "crypto",
+            " zk ",
+            "dapp",
+            "dao"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Developer Relations Engineer (DevRel) - APAC",
+          "web3Score": 10,
+          "terms": [
+            "blockchain",
+            "crypto",
+            "smart contract",
+            "solidity",
+            "dao"
+          ],
+          "web3": true
+        },
+        {
+          "title": "High-Functioning Psychopath (Front End)",
+          "web3Score": 10,
+          "terms": [
+            "web3",
+            "blockchain",
+            "crypto",
+            "protocol",
+            "dao",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "General Application",
+          "web3Score": 9,
+          "terms": [
+            "blockchain",
+            "crypto",
+            "eth",
+            "protocol",
+            "dao"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Cult Leader",
+          "web3Score": 8,
+          "terms": [
+            "blockchain",
+            "crypto",
+            "eth",
+            "nft",
+            "dao"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Ecosystem Growth",
+          "web3Score": 8,
+          "terms": [
+            "web3",
+            "blockchain",
+            "crypto",
+            "dao",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Head of Design",
+          "web3Score": 8,
+          "terms": [
+            "web3",
+            "blockchain",
+            "crypto",
+            "defi",
+            "dao"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Project Manager - Marketing",
+          "web3Score": 8,
+          "terms": [
+            "blockchain",
+            "crypto",
+            "cryptocurrency",
+            "dao"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [],
+      "checkedAt": "2026-11-25T09:35:46.390Z"
+    },
+    {
+      "competitorName": "IEX",
+      "competitorSlug": "iex",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "iex",
+      "atsJobCount": "8",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/iex/jobs?content=true",
+      "atsOrgName": "IEX Group",
+      "atsWebsite": "",
+      "liveJobCount": 8,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Compliance Officer ",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Network Engineer",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Network Engineer",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Systems Reliability Engineer",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Systems Reliability Engineer, Ireland",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:49.738Z"
+    },
+    {
+      "competitorName": "Constellation Network",
+      "competitorSlug": "constellation-network",
+      "sources": "cryptocurrencyjobs.co;remote3.co",
+      "atsProvider": "ashby",
+      "atsBoard": "constellation",
+      "atsJobCount": "7",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/constellation",
+      "atsOrgName": "Constellation",
+      "atsWebsite": "https://constellationlab.io/",
+      "liveJobCount": 7,
+      "web3JobCount": 2,
+      "web3JobPct": 0.2857142857142857,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "2/7 jobs (29%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Senior Software Engineer",
+          "web3Score": 4,
+          "terms": [
+            "defi",
+            "protocol",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Research Engineer",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Shoot Your Shot",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Research Scientist",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Hardware Engineer",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Intern (Fall/Winter/Summer)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Data Collection Technician",
+          "web3Score": 2,
+          "terms": [
+            "protocol"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:50.413Z"
+    },
+    {
+      "competitorName": "Dispatch",
+      "competitorSlug": "dispatch",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "dispatch",
+      "atsJobCount": "7",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/dispatch",
+      "atsOrgName": "Dispatch",
+      "atsWebsite": "http://dispatch.io",
+      "liveJobCount": 7,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Senior Fullstack Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Enterprise Account Executive",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Fullstack Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Backend Engineer",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Product Designer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:51.142Z"
+    },
+    {
+      "competitorName": "Nomic Foundation",
+      "competitorSlug": "nomic-foundation",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "nomic",
+      "atsJobCount": "7",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/nomic",
+      "atsOrgName": "nomic",
+      "atsWebsite": "https://www.nomic.bio/",
+      "liveJobCount": 7,
+      "web3JobCount": 1,
+      "web3JobPct": 0.14285714285714285,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website nomic.bio is a known slug collision (not nomic-foundation).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Manufacturing Technician - Bench Operations",
+          "web3Score": 6,
+          "terms": [
+            "eth",
+            "defi",
+            "l2 ",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Data Scientist/Data Engineer (Mid to Sr Levels)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Flow Cytometry Systems Engineer",
+          "web3Score": 2,
+          "terms": [
+            "protocol"
+          ]
+        },
+        {
+          "title": "Senior Scientist - Manufacturing Development",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Legal Counsel",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Manufacturing Associate I | Associé(e) de fabrication I",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:51.871Z"
+    },
+    {
+      "competitorName": "Titan",
+      "competitorSlug": "titan",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "titan",
+      "atsJobCount": "7",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/titan",
+      "atsOrgName": "Titan",
+      "atsWebsite": "https://www.titan.com/",
+      "liveJobCount": 7,
+      "web3JobCount": 3,
+      "web3JobPct": 0.42857142857142855,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website titan.com is a known slug collision (not titan).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Wealth Advisor, Associate ",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Wealth Advisor, VP",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "wallet"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Wealth Advisor, SVP",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "defi",
+            "wallet"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Senior Backend / Infrastructure Engineer – TypeScript",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Senior Full Stack Engineer – Web & Mobile",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Principal Backend / Infrastructure Engineer – TypeScript",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Principal Full Stack Engineer – Web & Mobile",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:52.466Z"
+    },
+    {
+      "competitorName": "Juno",
+      "competitorSlug": "juno",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "juno",
+      "atsJobCount": "6",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/juno/jobs?content=true",
+      "atsOrgName": "Juno",
+      "atsWebsite": "",
+      "liveJobCount": 6,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Business Development Representative",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Head of Growth & Partnerships, Healthcare (Pharmacy, PT, Vet & Adjacent)",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Head of Growth & Partnerships, Nursing Schools",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Manager, Strategy & Operations",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Regional Director, University Partnerships",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:54.563Z"
+    },
+    {
+      "competitorName": "Kodex",
+      "competitorSlug": "kodex",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "kodex",
+      "atsJobCount": "6",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/kodex",
+      "atsOrgName": "Kodex",
+      "atsWebsite": "https://www.kodexglobal.com/",
+      "liveJobCount": 6,
+      "web3JobCount": 4,
+      "web3JobPct": 0.6666666666666666,
+      "orgLooksWeb3": true,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website kodexglobal.com is a known slug collision (not kodex).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Threat Intelligence Specialist – EMEA",
+          "web3Score": 4,
+          "terms": [
+            "crypto",
+            "eth",
+            "defi",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Threat Intelligence Specialist – APAC (Australia Applicants Only)",
+          "web3Score": 3,
+          "terms": [
+            "crypto",
+            "eth",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Threat Intelligence Specialist - LATAM",
+          "web3Score": 3,
+          "terms": [
+            "crypto",
+            "eth",
+            "dex"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Threat Intelligence Specialist – APAC (Singapore Applicants Only)",
+          "web3Score": 3,
+          "terms": [
+            "crypto",
+            "eth",
+            "dex"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Customer Success Manager",
+          "web3Score": 1,
+          "terms": [
+            "dex"
+          ]
+        },
+        {
+          "title": "Security Engineer",
+          "web3Score": 1,
+          "terms": [
+            "dex"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:55.477Z"
+    },
+    {
+      "competitorName": "Shadow",
+      "competitorSlug": "shadow",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "shadow",
+      "atsJobCount": "6",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/shadow/jobs?content=true",
+      "atsOrgName": "SHADOW",
+      "atsWebsite": "",
+      "liveJobCount": 6,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Designer",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Join The Talent Pool ",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Manager, Fashion + Retail (Corporate Storytelling)",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Project Manager (Contract to Permanent)",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Senior Account Executive, Fashion & Retail",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:58.449Z"
+    },
+    {
+      "competitorName": "Stacks",
+      "competitorSlug": "stacks",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "stacks",
+      "atsJobCount": "6",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/stacks",
+      "atsOrgName": "Stacks",
+      "atsWebsite": "https://www.stacks.ai/",
+      "liveJobCount": 6,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Accounting Engineer / Solutions Consultant ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Business Development Representative - Enterprise ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Account Executive - Enterprise",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Account Executive - North America (London-Based)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Founders Associate - Growth & Content",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:59.189Z"
+    },
+    {
+      "competitorName": "Stacks Foundation",
+      "competitorSlug": "stacks-foundation",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "stacks",
+      "atsJobCount": "6",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/stacks",
+      "atsOrgName": "Stacks",
+      "atsWebsite": "https://www.stacks.ai/",
+      "liveJobCount": 6,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Accounting Engineer / Solutions Consultant ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Business Development Representative - Enterprise ",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Account Executive - Enterprise",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Account Executive - North America (London-Based)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Founders Associate - Growth & Content",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:35:59.241Z"
+    },
+    {
+      "competitorName": "Atomic",
+      "competitorSlug": "atomic",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "atomic",
+      "atsJobCount": "5",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/atomic",
+      "atsOrgName": "Atomic",
+      "atsWebsite": "https://www.atomic.vc/",
+      "liveJobCount": 5,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Co-found with Atomic",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Founding Clinical AI Lead",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Perception Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Director of Concierge Sales",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Head of Sales, SMB",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:00.021Z"
+    },
+    {
+      "competitorName": "Atomic Form",
+      "competitorSlug": "atomic-form",
+      "sources": "cryptocurrencyjobs.co",
+      "atsProvider": "ashby",
+      "atsBoard": "atomic",
+      "atsJobCount": "5",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/atomic",
+      "atsOrgName": "Atomic",
+      "atsWebsite": "https://www.atomic.vc/",
+      "liveJobCount": 5,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Co-found with Atomic",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Founding Clinical AI Lead",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Senior Perception Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Director of Concierge Sales",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Head of Sales, SMB",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:00.088Z"
+    },
+    {
+      "competitorName": "Novel",
+      "competitorSlug": "novel",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "novel",
+      "atsJobCount": "5",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/novel",
+      "atsOrgName": "Novel",
+      "atsWebsite": "https://www.novel.shop/",
+      "liveJobCount": 5,
+      "web3JobCount": 5,
+      "web3JobPct": 1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website novel.shop is a known slug collision (not novel).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Engineer",
+          "web3Score": 9,
+          "terms": [
+            "web3",
+            "nft",
+            "smart contract",
+            "solidity",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Director of Marketing",
+          "web3Score": 7,
+          "terms": [
+            "web3",
+            "nft",
+            "smart contract",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Account Executive",
+          "web3Score": 6,
+          "terms": [
+            "web3",
+            "defi",
+            "nft",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Communications Lead",
+          "web3Score": 6,
+          "terms": [
+            "web3",
+            "nft",
+            "dex",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Product Designer",
+          "web3Score": 5,
+          "terms": [
+            "web3",
+            "nft",
+            "web3."
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [],
+      "checkedAt": "2026-11-25T09:36:00.767Z"
+    },
+    {
+      "competitorName": "Proof OF Play",
+      "competitorSlug": "proof-of-play",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "proof",
+      "atsJobCount": "5",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/proof?mode=json",
+      "atsOrgName": "Proof",
+      "atsWebsite": "https://proof.com/",
+      "liveJobCount": 5,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Director of Brand and Creative",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Director of Product Marketing",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Principal Product Manager, Fraud and Risk",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Senior Manager of Marketing Operations",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Strategic Enterprise Account Executive",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:05.344Z"
+    },
+    {
+      "competitorName": "ARK",
+      "competitorSlug": "ark",
+      "sources": "cryptocurrencyjobs.co;remote3.co",
+      "atsProvider": "greenhouse",
+      "atsBoard": "ark",
+      "atsJobCount": "4",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/ark/jobs?content=true",
+      "atsOrgName": "Ark Veterinary Hospital & Urgent Care",
+      "atsWebsite": "",
+      "liveJobCount": 4,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "DVM Student Externship/Preceptorship Program — Ark Veterinary Hospital (Urgent Care)",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Licensed Veterinary Technician",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Urgent Care Veterinarian",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Veterinary Receptionist",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:06.845Z"
+    },
+    {
+      "competitorName": "Lattice",
+      "competitorSlug": "lattice",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "lattice",
+      "atsJobCount": "4",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/lattice/jobs?content=true",
+      "atsOrgName": "Lattice",
+      "atsWebsite": "",
+      "liveJobCount": 4,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Engineering Manager, Integrations",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Engineering Manager, Integrations",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Lead Product Manager, Engagement",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Lead Product Manager, Engagement",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:08.206Z"
+    },
+    {
+      "competitorName": "Aura Finance",
+      "competitorSlug": "aura-finance",
+      "sources": "cryptocurrencyjobs.co",
+      "atsProvider": "greenhouse",
+      "atsBoard": "aura",
+      "atsJobCount": "3",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/aura/jobs?content=true",
+      "atsOrgName": "Aura",
+      "atsWebsite": "",
+      "liveJobCount": 3,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Director, Growth & Paid Media",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Director, Marketplaces & Ecommerce",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        },
+        {
+          "title": "Senior Software Engineer, Device Platform",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:09.329Z"
+    },
+    {
+      "competitorName": "Overmind",
+      "competitorSlug": "overmind",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "lever",
+      "atsBoard": "overmind",
+      "atsJobCount": "3",
+      "atsIngestUrl": "https://api.lever.co/v0/postings/overmind?mode=json",
+      "atsOrgName": "",
+      "atsWebsite": "",
+      "liveJobCount": 3,
+      "web3JobCount": 3,
+      "web3JobPct": 1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "unknown",
+      "verdict": "web3_but_verify_identity",
+      "notes": "3/3 jobs (100%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Blockchain Developer",
+          "web3Score": 15,
+          "terms": [
+            "blockchain",
+            "web3",
+            "crypto",
+            "solidity",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Full-Stack Engineer",
+          "web3Score": 7,
+          "terms": [
+            "web3",
+            "blockchain",
+            "crypto",
+            "web3."
+          ],
+          "web3": true
+        },
+        {
+          "title": "Data Analyst",
+          "web3Score": 5,
+          "terms": [
+            "web3",
+            "crypto",
+            "web3."
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [],
+      "checkedAt": "2026-11-25T09:36:11.107Z"
+    },
+    {
+      "competitorName": "Alliance",
+      "competitorSlug": "alliance",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "alliance",
+      "atsJobCount": "2",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/alliance/jobs?content=true",
+      "atsOrgName": "Alliance",
+      "atsWebsite": "",
+      "liveJobCount": 2,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Director of Operations",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        },
+        {
+          "title": "Warehouse Associate",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:12.698Z"
+    },
+    {
+      "competitorName": "Gateway FM",
+      "competitorSlug": "gateway-fm",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "gateway",
+      "atsJobCount": "2",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/gateway/jobs?content=true",
+      "atsOrgName": "Gateway Aesthetic Institute & Laser Center ",
+      "atsWebsite": "",
+      "liveJobCount": 2,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "partial",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Patient Services Representative - Front Desk - Salt Lake City, UT",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "RN Injector - Salt Lake City, UT",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:13.643Z"
+    },
+    {
+      "competitorName": "Grayscale",
+      "competitorSlug": "grayscale",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "grayscale",
+      "atsJobCount": "2",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/grayscale/jobs?content=true",
+      "atsOrgName": "Grayscale (Sandbox)",
+      "atsWebsite": "",
+      "liveJobCount": 2,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Head Chef",
+          "web3Score": 0,
+          "terms": []
+        },
+        {
+          "title": "Underwater Basket Weaver - ATL",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:15.218Z"
+    },
+    {
+      "competitorName": "Layerzero Labs",
+      "competitorSlug": "layerzero-labs",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "layerzerolabs",
+      "atsJobCount": "2",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/layerzerolabs",
+      "atsOrgName": "LayerZero Labs",
+      "atsWebsite": "https://layerzero.network/",
+      "liveJobCount": 2,
+      "web3JobCount": 2,
+      "web3JobPct": 1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "ingest_candidate",
+      "notes": "Careers site domain matches expected brand (layerzero.network). 2/2 jobs (100%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "FP&A Manager/Senior Manager",
+          "web3Score": 14,
+          "terms": [
+            "blockchain",
+            "crypto",
+            "defi",
+            "on-chain",
+            "digital asset",
+            "dapp",
+            "dapps",
+            "protocol"
+          ],
+          "web3": true
+        },
+        {
+          "title": "Business Development Lead - Hong Kong",
+          "web3Score": 12,
+          "terms": [
+            "blockchain",
+            "digital asset",
+            "stablecoin",
+            "dapp",
+            "dapps",
+            "protocol"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [],
+      "checkedAt": "2026-11-25T09:36:15.949Z"
+    },
+    {
+      "competitorName": "Reservoir",
+      "competitorSlug": "reservoir",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "reservoir",
+      "atsJobCount": "2",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/reservoir",
+      "atsOrgName": "Reservoir",
+      "atsWebsite": "https://reservoir-media.com/",
+      "liveJobCount": 2,
+      "web3JobCount": 1,
+      "web3JobPct": 0.5,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "wrong_board",
+      "notes": "Website reservoir-media.com is a known slug collision (not reservoir).",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Assistant, Digital Label Operations",
+          "web3Score": 3,
+          "terms": [
+            "eth",
+            "digital asset"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [
+        {
+          "title": "Coordinator, Operations",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:16.631Z"
+    },
+    {
+      "competitorName": "Symmetry",
+      "competitorSlug": "symmetry",
+      "sources": "remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "symmetry",
+      "atsJobCount": "2",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/symmetry/jobs?content=true",
+      "atsOrgName": "Symmetry",
+      "atsWebsite": "",
+      "liveJobCount": 2,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Forward Deployed Solutions Engineer",
+          "web3Score": 2,
+          "terms": [
+            "eth",
+            "defi"
+          ]
+        },
+        {
+          "title": "Head of Marketing - Symmetry",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:17.840Z"
+    },
+    {
+      "competitorName": "Archway",
+      "competitorSlug": "archway",
+      "sources": "cryptocurrencyjobs.co",
+      "atsProvider": "greenhouse",
+      "atsBoard": "archway",
+      "atsJobCount": "1",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/archway/jobs?content=true",
+      "atsOrgName": "Archway Lawn Care",
+      "atsWebsite": "",
+      "liveJobCount": 1,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Landscape Divisional Manager",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:19.483Z"
+    },
+    {
+      "competitorName": "Mighty Bear Games",
+      "competitorSlug": "mighty-bear-games",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "mighty",
+      "atsJobCount": "1",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/mighty/jobs?content=true",
+      "atsOrgName": "Mighty",
+      "atsWebsite": "",
+      "liveJobCount": 1,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Senior AI Software Engineer",
+          "web3Score": 1,
+          "terms": [
+            "defi"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:21.062Z"
+    },
+    {
+      "competitorName": "Nexus",
+      "competitorSlug": "nexus",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "nexus",
+      "atsJobCount": "1",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/nexus/jobs?content=true",
+      "atsOrgName": "CGS Nexus",
+      "atsWebsite": "",
+      "liveJobCount": 1,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Technical Support Representative Night shift",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:21.935Z"
+    },
+    {
+      "competitorName": "Nomad Capital",
+      "competitorSlug": "nomad-capital",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "nomad",
+      "atsJobCount": "1",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/nomad",
+      "atsOrgName": "Nomad Labs Inc",
+      "atsWebsite": "https://nomadlease.com/",
+      "liveJobCount": 1,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Sales Team Lead",
+          "web3Score": 1,
+          "terms": [
+            "eth"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:22.707Z"
+    },
+    {
+      "competitorName": "Proto",
+      "competitorSlug": "proto",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "proto",
+      "atsJobCount": "1",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/proto/jobs?content=true",
+      "atsOrgName": "Proto",
+      "atsWebsite": "",
+      "liveJobCount": 1,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "General Applications",
+          "web3Score": 0,
+          "terms": []
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:23.662Z"
+    },
+    {
+      "competitorName": "Reserve",
+      "competitorSlug": "reserve",
+      "sources": "cryptocurrencyjobs.co;web3.career",
+      "atsProvider": "ashby",
+      "atsBoard": "reserve",
+      "atsJobCount": "1",
+      "atsIngestUrl": "https://api.ashbyhq.com/posting-api/job-board/reserve",
+      "atsOrgName": "Reserve",
+      "atsWebsite": "https://reserve.org",
+      "liveJobCount": 1,
+      "web3JobCount": 0,
+      "web3JobPct": 0,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "not_web3",
+      "notes": "No web3/crypto/blockchain signals in job titles/descriptions or org metadata.",
+      "sampleWeb3Jobs": [],
+      "sampleOtherJobs": [
+        {
+          "title": "Stay in touch",
+          "web3Score": 2,
+          "terms": [
+            "protocol"
+          ]
+        }
+      ],
+      "checkedAt": "2026-11-25T09:36:24.349Z"
+    },
+    {
+      "competitorName": "Sfox",
+      "competitorSlug": "sfox",
+      "sources": "cryptocurrencyjobs.co;remote3.co;web3.career",
+      "atsProvider": "greenhouse",
+      "atsBoard": "sfox",
+      "atsJobCount": "1",
+      "atsIngestUrl": "https://boards-api.greenhouse.io/v1/boards/sfox/jobs?content=true",
+      "atsOrgName": "SFOX",
+      "atsWebsite": "",
+      "liveJobCount": 1,
+      "web3JobCount": 1,
+      "web3JobPct": 1,
+      "orgLooksWeb3": false,
+      "nameAlignment": "match",
+      "verdict": "web3_but_verify_identity",
+      "notes": "1/1 jobs (100%) flagged web3-related.",
+      "sampleWeb3Jobs": [
+        {
+          "title": "Compliance Analyst Financial Crime Operations",
+          "web3Score": 8,
+          "terms": [
+            "blockchain",
+            "crypto",
+            "digital asset",
+            "wallet"
+          ],
+          "web3": true
+        }
+      ],
+      "sampleOtherJobs": [],
+      "checkedAt": "2026-11-25T09:36:25.258Z"
+    }
+  ]
+}

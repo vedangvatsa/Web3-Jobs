@@ -18,8 +18,6 @@ const grants: GrantProgram[] = JSON.parse(fs.readFileSync(GRANTS_PATH, 'utf-8'))
 let touched = 0;
 
 for (const grant of grants) {
-  const words = countStoredGrantWords(grant);
-  if (words >= GRANT_DETAIL_MIN_WORDS) continue;
   const patch = thinGrantExpansions[grant.id];
   if (!patch) continue;
   Object.assign(grant, patch);

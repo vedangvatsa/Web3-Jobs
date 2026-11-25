@@ -88,6 +88,7 @@
     "audit:event-content": "tsx scripts/audit-event-content-origin.ts",
     "audit:published-community-links": "tsx scripts/audit-published-community-links.ts",
     "audit:competitor-employer-gaps": "tsx scripts/audit-competitor-employer-gaps.ts",
+    "audit:competitor-ats-web3-review": "tsx scripts/audit-competitor-ats-web3-review.ts",
     "test:official-event-descriptions": "tsx scripts/test-official-event-description.ts",
     "recover:event-sources": "tsx scripts/recover-event-source-gaps.ts",
     "test:event-source-recovery": "tsx scripts/test-event-source-recovery.ts",

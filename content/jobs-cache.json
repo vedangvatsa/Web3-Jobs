@@ -25267,48 +25267,5 @@
     "active": true,
     "dateVerified": true,
     "slug": "rec50"
-  },
-  {
-    "id": "8300320",
-    "title": "VIP Relationship Manager",
-    "company": "Consensys",
-    "link": "https://job-boards.greenhouse.io/consensys/jobs/8300320",
-    "date": "2026-10-26T05:55:43-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Consensys [consensys]",
-    "location": "United States - Remote",
-    "department": "Marketing",
-    "active": true,
-    "salary": "$115k – $162k/yr",
-    "dateVerified": true,
-    "slug": "mgr201"
-  },
-  {
-    "id": "8300399",
-    "title": "VIP Relationship Manager",
-    "company": "Consensys",
-    "link": "https://job-boards.greenhouse.io/consensys/jobs/8300399",
-    "date": "2026-10-26T05:52:21-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Consensys [consensys]",
-    "location": "APAC - Remote",
-    "department": "Marketing",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr198"
-  },
-  {
-    "id": "8324146",
-    "title": "Senior Software Engineer - OTC Trading",
-    "company": "Flow Traders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8324146",
-    "date": "2026-10-26T05:33:45-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Flow Traders [flowtraders]",
-    "location": "Amsterdam",
-    "department": "Product Development",
-    "active": true,
-    "dateVerified": true,
-    "slug": "eng322"
   }
 ]

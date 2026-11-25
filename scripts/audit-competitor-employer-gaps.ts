@@ -14,6 +14,7 @@ const TODAY = new Date().toISOString().slice(0, 10);
 const OUT_DIR = 'docs/job-aggregator-outreach';
 const OUT_JSON = path.join(OUT_DIR, `competitor-employer-gaps-${TODAY}.json`);
 const OUT_CSV = path.join(OUT_DIR, `competitor-employer-gaps-${TODAY}.csv`);
+const OUT_PRIORITY_CSV = path.join(OUT_DIR, `competitor-employer-gaps-priority-${TODAY}.csv`);
 
 const probeAts = !process.argv.includes('--no-probe-ats');
 const probeLimit = Number(process.argv.find((a) => a.startsWith('--probe-limit='))?.slice(14) ?? '400');
@@ -108,10 +109,18 @@ async function loadCompetitorEmployers(): Promise<Map<string, CompetitorEmployer
   for (let i = 1; i <= 4; i++) {
     const xml = await fetchText(`https://web3.career/sitemap${i}.xml`);
     for (const loc of locsFromSitemap(xml)) {
-      const m = loc.match(/web3\.career\/web3-companies\/([^/]+)\/?$/i);
+      const m = loc.match(/web3\.career\/web3-companies\/([^/?#]+)\/?$/i);
       if (!m) continue;
       const slug = m[1];
-      if (slug.startsWith('tag/') || slug.startsWith('top-growing')) continue;
+      if (
+        !slug
+        || slug.startsWith('tag')
+        || slug.startsWith('top-growing')
+        || slug.includes('+')
+        || slug.includes('/')
+      ) {
+        continue;
+      }
       add('web3.career', slug, loc);
     }
   }
@@ -265,6 +274,16 @@ async function ashbyCount(board: string): Promise<number | null> {
   }
 }
 
+function slugProbePlausible(employerSlug: string, tried: string): boolean {
+  if (tried.length >= employerSlug.replace(/-/g, '').length - 1) return true;
+  if (employerSlug.includes(tried) && tried.length >= 5) return true;
+  if (tried.includes(employerSlug.replace(/-/g, ''))) return true;
+  // Reject generic one-word boards that only share a short prefix (e.g. greenhouse "find" for find-satoshi-lab).
+  if (tried.length < 5 && !employerSlug.startsWith(tried)) return false;
+  if (tried.length < 4) return false;
+  return employerSlug.startsWith(tried) || employerSlug.includes(`-${tried}`);
+}
+
 async function probeEmployerAts(slug: string, configured: Set<string>): Promise<AtsHit[]> {
   const hits: AtsHit[] = [];
   const seen = new Set<string>();
@@ -277,6 +296,7 @@ async function probeEmployerAts(slug: string, configured: Set<string>): Promise<
     ];
     for (const p of probes) {
       if (!p.count || p.count <= 0) continue;
+      if (!slugProbePlausible(slug, candidate)) continue;
       const key = atsBoardKey(p.provider, candidate);
       if (key in rejected) continue;
       if (configured.has(key.toLowerCase())) continue;
@@ -385,6 +405,15 @@ async function main(): Promise<void> {
     allRows.push(row);
   }
 
+  gaps.sort((a, b) => {
+    const score = (e: CompetitorEmployer) =>
+      e.sources.length * 10
+      + (e.sources.some((s) => s.site === 'cryptocurrencyjobs.co') ? 5 : 0)
+      + (e.sources.some((s) => s.site === 'remote3.co') ? 4 : 0)
+      - (e.sources.length === 1 && e.sources[0].site === 'web3.career' ? 3 : 0);
+    return score(b) - score(a) || a.displayName.localeCompare(b.displayName);
+  });
+
   const gapsToProbe = gaps.slice(0, Math.max(0, probeLimit));
   if (probeAts && gapsToProbe.length) {
     console.error(`Probing ATS for ${gapsToProbe.length}/${gaps.length} gap employers (limit=${probeLimit})…`);
@@ -432,14 +461,23 @@ async function main(): Promise<void> {
     allEmployers: allRows,
   };
 
+  const priorityGaps = gapRows.filter(
+    (r) =>
+      r.sources.some((s) => s.site === 'cryptocurrencyjobs.co' || s.site === 'remote3.co')
+      || r.sources.length >= 2,
+  );
+
   fs.writeFileSync(OUT_JSON, JSON.stringify(payload, null, 2));
   fs.writeFileSync(OUT_CSV, toCsv(gapRows));
+  fs.writeFileSync(OUT_PRIORITY_CSV, toCsv(priorityGaps));
 
   console.log(
     JSON.stringify(
       {
         outJson: OUT_JSON,
         outCsv: OUT_CSV,
+        outPriorityCsv: OUT_PRIORITY_CSV,
+        priorityGapEmployers: priorityGaps.length,
         uniqueCompetitorEmployers: allRows.length,
         gapEmployers: gapRows.length,
         gapWithProbedAts: withAts.length,
