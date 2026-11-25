@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-25T13:00:25.692Z",
+  "generatedAt": "2026-11-25T13:19:51.959Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4200,
+  "count": 4199,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -2038,6 +2038,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/bbw",
+      "lastmod": "2026-11-28",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/bbw-side-e",
       "lastmod": "2026-11-27",
       "changefreq": "weekly",
@@ -2444,12 +2450,6 @@
       "lastmod": "2026-10-29",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/binance-blockchain-week",
-      "lastmod": "2026-11-28",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/binance-etfs",
@@ -22974,12 +22974,6 @@
     {
       "url": "https://hashtagweb3.com/vapg",
       "lastmod": "2026-11-18",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/vc",
-      "lastmod": "2026-10-26",
       "changefreq": "daily",
       "priority": 0.8
     },

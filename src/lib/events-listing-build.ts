@@ -315,9 +315,9 @@ function linkSideEventParents(event: Web3Event): Web3Event {
     country: event.country,
     startDate: start,
     eventId: event.id,
-    source: event.source,
+    source: event.source ?? undefined,
     url: event.url,
-    website: event.website,
+    website: event.website ?? undefined,
   });
   if (bbwSideTag) {
     sideEventFor.add('bbw');
