@@ -188500,7 +188500,8 @@
       },
       "account": "profile",
       "attemptId": "a34c2b72-7f75-46d2-af49-f0b1e5939e78",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7f53cecd8433a9cb4a3b757b4b94f93dd7754772"
     }
   ]
 }
