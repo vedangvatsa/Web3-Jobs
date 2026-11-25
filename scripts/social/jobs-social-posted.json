@@ -190368,6 +190368,41 @@
       "attemptId": "d57bca5e-6037-49d1-bf7b-4b2946a0f159",
       "verification": "verified",
       "postId": "0xaeaaa97e136f3aa5d920b62074381d58db9ad490"
+    },
+    {
+      "slug": "rasc",
+      "company": "Kalshi",
+      "title": "Regulatory Attorney - SEC/CFTC",
+      "platform": "farcaster",
+      "postedAt": "2026-11-25T23:26:18.678Z",
+      "expectedText": "Kalshi is hiring Regulatory Attorney - SEC\n\nhttps://hashtagweb3.com/rasc/fc?og=7",
+      "snapshot": {
+        "id": "4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "title": "Regulatory Attorney - SEC/CFTC",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "date": "2026-11-09T19:57:32.112+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rasc"
+      },
+      "payload": {
+        "text": "Kalshi is hiring Regulatory Attorney - SEC\n\nhttps://hashtagweb3.com/rasc/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rasc/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "557c71e6-b54c-4d43-b639-bac8e04e5111",
+      "verification": "creating"
     }
   ]
 }
