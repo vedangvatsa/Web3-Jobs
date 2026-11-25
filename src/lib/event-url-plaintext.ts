@@ -9,6 +9,11 @@ const NAME_PAREN_URL =
   /(^|[\s,;\-·•\u00b7]|and\s+)(@?[A-Za-z0-9][\p{L}\p{N}\s&''.+/\-]{0,48}?)\s*\(\s*https?:\/\/[^\s)]+\s*\)/gu;
 
 const BARE_URL = /https?:\/\/[^\s<>"')\]]+/gi;
+const BROKEN_SCHEME = /https?:\s*\/?\s*www\.[^\s<>"')\]]+/gi;
+const WWW_HOST = /(?:^|[\s(])www\.[a-z0-9][-a-z0-9.]*[^\s<>"')\]]*/gi;
+
+const DEAD_LINE =
+  /^(?:[:]|[：]|\s*(?:Learn more|Read more|See more|View more|Click here):\s*|(?:Co-hosts|Partners|Media partners|MEDIA partners):\s*|Follow on X:\s*)$/i;
 
 function stripUrlsInSegment(segment: string): string {
   let out = segment.replace(MARKDOWN_LINK, '$1');
@@ -17,12 +22,28 @@ function stripUrlsInSegment(segment: string): string {
     prev = out;
     out = out.replace(NAME_PAREN_URL, '$1$2');
   }
+  out = out.replace(BROKEN_SCHEME, '');
   out = out.replace(BARE_URL, '');
+  out = out.replace(WWW_HOST, (match) => match.replace(/www\.[^\s]+/i, '').trimEnd());
   out = out.replace(/\(\s*\)/g, '');
+  out = out.replace(/\s+(?:Learn more|Read more|See more|View more|Click here):\s*$/gi, '');
   out = out.replace(/[ \t]+([,;.])(?=\s|$)/g, '$1');
+  out = out.replace(/,\s+and\s*,/gi, ', ');
+  out = out.replace(/,\s*,/g, ', ');
   out = out.replace(/[ \t]{2,}/g, ' ');
   out = out.replace(/ ([,;])/g, '$1');
-  return out;
+  return out.trim();
+}
+
+function dropDebrisLines(text: string): string {
+  return text
+    .split('\n')
+    .filter((line) => {
+      const t = line.trim();
+      if (!t) return true;
+      return !DEAD_LINE.test(t);
+    })
+    .join('\n');
 }
 
 /** `Name (https://…)` → `Name`; drop bare URLs and empty parentheses. */
@@ -48,9 +69,11 @@ export function stripUrlsFromOrganizerCopy(text: string): string {
     out.push(stripUrlsInSegment(line));
   }
   if (code) out.push(...code);
-  return out
-    .join('\n')
-    .replace(/\n[ \t]+\n/g, '\n\n')
-    .replace(/\n{3,}/g, '\n\n')
-    .trim();
+  return dropDebrisLines(
+    out
+      .join('\n')
+      .replace(/\n[ \t]+\n/g, '\n\n')
+      .replace(/\n{3,}/g, '\n\n')
+      .trim(),
+  );
 }
