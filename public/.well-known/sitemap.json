@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-25T07:43:29.001Z",
+  "generatedAt": "2026-11-25T09:16:57.659Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4037,
+  "count": 4026,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -612,24 +612,6 @@
     {
       "url": "https://hashtagweb3.com/an103",
       "lastmod": "2026-11-19",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/an106",
-      "lastmod": "2026-10-26",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/an107",
-      "lastmod": "2026-10-26",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/an108",
-      "lastmod": "2026-10-26",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -1669,12 +1651,6 @@
       "url": "https://hashtagweb3.com/atomic-swap",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/auckland-c",
-      "lastmod": "2026-11-25",
-      "changefreq": "weekly",
       "priority": 0.6
     },
     {
@@ -5518,12 +5494,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/des12",
-      "lastmod": "2026-10-26",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/des13",
       "lastmod": "2026-10-26",
       "changefreq": "daily",
@@ -5556,12 +5526,6 @@
     {
       "url": "https://hashtagweb3.com/des21",
       "lastmod": "2026-11-09",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/des4",
-      "lastmod": "2026-10-26",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -9502,12 +9466,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/horizen-labs",
-      "lastmod": "2026-10-26",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/house-probe",
       "lastmod": "2026-09-30",
       "changefreq": "monthly",
@@ -12870,24 +12828,6 @@
     {
       "url": "https://hashtagweb3.com/mkt113",
       "lastmod": "2026-11-16",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/mkt117",
-      "lastmod": "2026-10-26",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/mkt118",
-      "lastmod": "2026-10-26",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/mkt119",
-      "lastmod": "2026-10-26",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -19536,12 +19476,6 @@
     {
       "url": "https://hashtagweb3.com/sls485",
       "lastmod": "2026-11-13",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/sls487",
-      "lastmod": "2026-10-26",
       "changefreq": "daily",
       "priority": 0.8
     },

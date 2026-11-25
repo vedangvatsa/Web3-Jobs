@@ -15,6 +15,13 @@
 export const STANDALONE_STAT_LINE =
   /^\s*(?:\d{1,4}[+%]?|\+\d[\d.,]*%?|\d{1,3}(?:\.\d{3})+(?:\$|£|€)?|\d{1,3}(?:\.\d{3})+)\s*$/;
 
+/** Standalone dashes, hyphens, and bullet marks that produce broken <p>-</p> blocks. */
+export const STANDALONE_SEPARATOR_LINE = /^\s*[-–—•·*~_]{1,10}\s*$/;
+
+/** Common scraped registration platform boilerplate lines. */
+export const PLATFORM_BOILERPLATE_LINE =
+  /^\s*(?:[-–—•·*]\s*)*(?:Sales ended|Refund Policy:?.*|Refunds up to \d+ days before event.*|\|\s*Eventbrite)\s*$/i;
+
 /**
  * Systematic scrape grammar artifacts. Small, explicit, and safe: each pattern
  * only matches the misspelled form, never the correct one.
@@ -100,7 +107,8 @@ export function cleanupEventDescriptionFormat(text: string): string {
   if (!text) return text;
   let out = rebreakCollapsedEventParagraphs(text);
   for (const [pattern, replacement] of GRAMMAR_FIXES) out = out.replace(pattern, replacement);
-  const lines = out.split('\n').filter((line) => !STANDALONE_STAT_LINE.test(line));
+  out = out.replace(/\s*Tickets,\s*(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)[^\n]*\|\s*Eventbrite/gi, '');
+  const lines = out.split('\n').filter((line) => !STANDALONE_STAT_LINE.test(line) && !STANDALONE_SEPARATOR_LINE.test(line) && !PLATFORM_BOILERPLATE_LINE.test(line));
   return lines
     .join('\n')
     .replace(/\n{3,}/g, '\n\n')

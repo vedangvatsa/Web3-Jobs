@@ -45,7 +45,7 @@ export function splitEventDescriptionBlocks(text: string): EventDescriptionBlock
       continue;
     }
     if (code) { code.push(line); continue; }
-    if (!trimmed) {
+    if (!trimmed || /^[-–—•·*~_]{1,10}$/.test(trimmed)) {
       separated = true;
       continue;
     }

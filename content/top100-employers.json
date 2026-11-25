@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-25T07:43:14.781Z",
+  "generatedAt": "2026-11-25T09:16:55.087Z",
   "year": 2026,
   "snapshotLabel": "Q4 2026 Index",
   "totalEmployers": 100,
-  "totalActiveJobs": 1151,
+  "totalActiveJobs": 1143,
   "avgRemotePct": 40,
   "avgSalaryTransparencyPct": 13,
   "employers": [
@@ -15,17 +15,17 @@
       "website": "https://www.okx.com",
       "headquarters": "Seychelles",
       "founded": 2017,
-      "activeJobs": 67,
+      "activeJobs": 65,
       "departmentCount": 17,
-      "remotePercentage": 10,
-      "salaryTransparencyPct": 22,
+      "remotePercentage": 11,
+      "salaryTransparencyPct": 23,
       "salaryBenchmark": "$268.3k – $313.1k/yr",
       "scores": {
         "hiringVolume": 60,
         "departmentBreadth": 20,
-        "remoteFlexibility": 1,
-        "salaryTransparency": 2.2,
-        "composite": 83.2
+        "remoteFlexibility": 1.1,
+        "salaryTransparency": 2.3,
+        "composite": 83.4
       },
       "highlightBadges": [
         "Multi-Department"
@@ -46,11 +46,11 @@
       "salaryTransparencyPct": 94,
       "salaryBenchmark": "$124.8k – $146.8k/yr",
       "scores": {
-        "hiringVolume": 59.4,
+        "hiringVolume": 59.8,
         "departmentBreadth": 20,
         "remoteFlexibility": 9.4,
         "salaryTransparency": 9.4,
-        "composite": 98.2
+        "composite": 98.6
       },
       "highlightBadges": [
         "94% Remote",
@@ -71,11 +71,11 @@
       "remotePercentage": 26,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 58.9,
+        "hiringVolume": 59.3,
         "departmentBreadth": 20,
         "remoteFlexibility": 2.6,
         "salaryTransparency": 0,
-        "composite": 81.5
+        "composite": 81.9
       },
       "highlightBadges": [
         "Multi-Department"
@@ -94,11 +94,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 56.7,
+        "hiringVolume": 57.1,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 58.7
+        "composite": 59.1
       },
       "highlightBadges": [],
       "summary": "The Goldman Sachs Group, Inc. is a leading global investment banking, securities, and asset and wealth management firm that provides a wide range of financial services to corporations, financial institutions, governments, and individuals. Goldman Sachs advises on mergers and acquisitions, raises capital, makes markets,..."
@@ -117,11 +117,11 @@
       "salaryTransparencyPct": 42,
       "salaryBenchmark": "$220.5k – $220.7k/yr",
       "scores": {
-        "hiringVolume": 53.8,
+        "hiringVolume": 54.2,
         "departmentBreadth": 20,
         "remoteFlexibility": 0,
         "salaryTransparency": 4.2,
-        "composite": 78
+        "composite": 78.4
       },
       "highlightBadges": [
         "Multi-Department"
@@ -141,11 +141,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 52.5,
+        "hiringVolume": 52.8,
         "departmentBreadth": 20,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 82.5
+        "composite": 82.8
       },
       "highlightBadges": [
         "100% Remote",
@@ -165,11 +165,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 49.7,
+        "hiringVolume": 50.1,
         "departmentBreadth": 20,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 69.7
+        "composite": 70.1
       },
       "highlightBadges": [
         "Multi-Department"
@@ -178,30 +178,6 @@
     },
     {
       "rank": 8,
-      "slug": "crypto-com",
-      "name": "Crypto.com",
-      "category": "Exchanges & Custody",
-      "website": "https://crypto.com",
-      "headquarters": "Singapore",
-      "activeJobs": 31,
-      "departmentCount": 8,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 42,
-      "salaryBenchmark": "USD 150,000 - USD 200,000 per year",
-      "scores": {
-        "hiringVolume": 49.3,
-        "departmentBreadth": 16,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 4.2,
-        "composite": 69.5
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "Crypto.com, founded in 2016 in Hong Kong by Kris Marszalek, runs a top-5 exchange and card program serving 100M+ users in 90+ countries, plus DeFi Wallet self-custody and Cronos chain. Known for high-profile marketing and regulatory pushes, it holds licenses in Singapore, France and the UAE. Headquartered in Singapore,..."
-    },
-    {
-      "rank": 9,
       "slug": "straitsx",
       "name": "StraitsX",
       "category": "Fintech & Payments",
@@ -212,11 +188,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 48.4,
+        "hiringVolume": 48.7,
         "departmentBreadth": 18,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 66.4
+        "composite": 66.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -224,7 +200,7 @@
       "summary": "StraitsX, founded in 2020 in Singapore as the stablecoin arm of payments company Xfers, issues XSGD and XIDR, the leading regulated Singapore dollar and Indonesian rupiah stablecoins licensed as a Major Payment Institution under Monetary Authority of Singapore oversight. Created by Xfers founders Tianwei Liu and Victor..."
     },
     {
-      "rank": 10,
+      "rank": 9,
       "slug": "trm-labs",
       "name": "TRM Labs",
       "category": "Security & Auditing",
@@ -235,11 +211,11 @@
       "remotePercentage": 93,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 47.4,
+        "hiringVolume": 47.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 9.3,
         "salaryTransparency": 0,
-        "composite": 62.7
+        "composite": 63
       },
       "highlightBadges": [
         "93% Remote"
@@ -247,7 +223,7 @@
       "summary": "TRM Labs, founded in 2018 in San Francisco by Esteban Castaño, provides blockchain intelligence for 45+ regulators and 1,000+ institutions to detect fraud, sanctions and money laundering across 30+ chains. Backed by Tiger Global and Thoma Bravo, TRM traces on-chain activity and builds risk scoring for exchanges, banks ..."
     },
     {
-      "rank": 11,
+      "rank": 10,
       "slug": "galaxy-digital",
       "name": "Galaxy Digital",
       "category": "Venture & Research",
@@ -260,11 +236,11 @@
       "salaryTransparencyPct": 15,
       "salaryBenchmark": "$100k/yr",
       "scores": {
-        "hiringVolume": 46.9,
+        "hiringVolume": 47.2,
         "departmentBreadth": 12,
         "remoteFlexibility": 0.4,
         "salaryTransparency": 1.5,
-        "composite": 60.8
+        "composite": 61.1
       },
       "highlightBadges": [
         "Multi-Department"
@@ -272,7 +248,7 @@
       "summary": "Galaxy Digital, founded in 2018 in New York by Mike Novogratz, is a diversified crypto financial services firm spanning trading, asset management, investment banking and mining. Listed in Toronto (GLXY) with $10B+ AUM and a large OTC desk, Galaxy advised on major mining and protocol deals. New York-headquartered with h..."
     },
     {
-      "rank": 12,
+      "rank": 11,
       "slug": "drw",
       "name": "DRW",
       "category": "Trading & Quant",
@@ -285,17 +261,41 @@
       "salaryTransparencyPct": 56,
       "salaryBenchmark": "$125k – $160k/yr",
       "scores": {
-        "hiringVolume": 46.3,
+        "hiringVolume": 46.7,
         "departmentBreadth": 20,
         "remoteFlexibility": 0,
         "salaryTransparency": 5.6,
-        "composite": 71.9
+        "composite": 72.3
       },
       "highlightBadges": [
         "Salary Transparency",
         "Multi-Department"
       ],
       "summary": "DRW, founded in 1992 in Chicago, is a diversified proprietary trading firm operating across equities, fixed income, FX, commodities, energy and crypto with offices in North America, Europe and Asia. The firm trades its own capital and is known for technology-driven execution, research culture and autonomy. In digital a..."
+    },
+    {
+      "rank": 12,
+      "slug": "crypto-com",
+      "name": "Crypto.com",
+      "category": "Exchanges & Custody",
+      "website": "https://crypto.com",
+      "headquarters": "Singapore",
+      "activeJobs": 25,
+      "departmentCount": 8,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 48,
+      "salaryBenchmark": "USD 150,000 - USD 200,000 per year",
+      "scores": {
+        "hiringVolume": 46.7,
+        "departmentBreadth": 16,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 4.8,
+        "composite": 67.5
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "Crypto.com, founded in 2016 in Hong Kong by Kris Marszalek, runs a top-5 exchange and card program serving 100M+ users in 90+ countries, plus DeFi Wallet self-custody and Cronos chain. Known for high-profile marketing and regulatory pushes, it holds licenses in Singapore, France and the UAE. Headquartered in Singapore,..."
     },
     {
       "rank": 13,
@@ -309,11 +309,11 @@
       "remotePercentage": 17,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 45.8,
+        "hiringVolume": 46.1,
         "departmentBreadth": 16,
         "remoteFlexibility": 1.7,
         "salaryTransparency": 0,
-        "composite": 63.5
+        "composite": 63.8
       },
       "highlightBadges": [
         "Multi-Department"
@@ -332,11 +332,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 45.8,
+        "hiringVolume": 46.1,
         "departmentBreadth": 12,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 57.8
+        "composite": 58.1
       },
       "highlightBadges": [
         "Multi-Department"
@@ -356,11 +356,11 @@
       "salaryTransparencyPct": 77,
       "salaryBenchmark": "€75k – €100k/yr",
       "scores": {
-        "hiringVolume": 44.6,
+        "hiringVolume": 44.9,
         "departmentBreadth": 14,
         "remoteFlexibility": 0,
         "salaryTransparency": 7.7,
-        "composite": 66.3
+        "composite": 66.6
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -380,11 +380,11 @@
       "remotePercentage": 82,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 44.6,
+        "hiringVolume": 44.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 8.2,
         "salaryTransparency": 0,
-        "composite": 58.8
+        "composite": 59.1
       },
       "highlightBadges": [
         "82% Remote"
@@ -404,11 +404,11 @@
       "salaryTransparencyPct": 75,
       "salaryBenchmark": "$45.8k – $68.8k/yr",
       "scores": {
-        "hiringVolume": 43.3,
+        "hiringVolume": 43.6,
         "departmentBreadth": 20,
         "remoteFlexibility": 5,
         "salaryTransparency": 7.5,
-        "composite": 75.8
+        "composite": 76.1
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -430,11 +430,11 @@
       "salaryTransparencyPct": 11,
       "salaryBenchmark": "$275k – $320k/yr",
       "scores": {
-        "hiringVolume": 41.9,
+        "hiringVolume": 42.2,
         "departmentBreadth": 16,
         "remoteFlexibility": 0,
         "salaryTransparency": 1.1,
-        "composite": 59
+        "composite": 59.3
       },
       "highlightBadges": [
         "Multi-Department"
@@ -453,11 +453,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 41.9,
+        "hiringVolume": 42.2,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 51.9
+        "composite": 52.2
       },
       "highlightBadges": [
         "Multi-Department"
@@ -476,11 +476,11 @@
       "remotePercentage": 93,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.4,
+        "hiringVolume": 39.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 9.3,
         "salaryTransparency": 0,
-        "composite": 58.7
+        "composite": 59
       },
       "highlightBadges": [
         "93% Remote",
@@ -500,11 +500,11 @@
       "remotePercentage": 27,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.4,
+        "hiringVolume": 39.7,
         "departmentBreadth": 12,
         "remoteFlexibility": 2.7,
         "salaryTransparency": 0,
-        "composite": 54.1
+        "composite": 54.4
       },
       "highlightBadges": [
         "Multi-Department"
@@ -523,11 +523,11 @@
       "remotePercentage": 47,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.4,
+        "hiringVolume": 39.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 4.7,
         "salaryTransparency": 0,
-        "composite": 54.1
+        "composite": 54.4
       },
       "highlightBadges": [
         "Multi-Department"
@@ -546,11 +546,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 39.4,
+        "hiringVolume": 39.7,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 41.4
+        "composite": 41.7
       },
       "highlightBadges": [],
       "summary": "JPMorgan Chase & Co. is a leading global financial services firm with businesses in investment banking, asset and wealth management, consumer and community banking, and commercial banking. JPMorgan Chase serves millions of customers, clients and communities in over 100 global markets. For more than 225 years, the firm'..."
@@ -568,11 +568,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 37.5,
+        "hiringVolume": 37.8,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 59.5
+        "composite": 59.8
       },
       "highlightBadges": [
         "100% Remote",
@@ -594,11 +594,11 @@
       "salaryTransparencyPct": 31,
       "salaryBenchmark": "$140k – $180.8k/yr",
       "scores": {
-        "hiringVolume": 37.5,
+        "hiringVolume": 37.8,
         "departmentBreadth": 8,
         "remoteFlexibility": 0,
         "salaryTransparency": 3.1,
-        "composite": 48.6
+        "composite": 48.9
       },
       "highlightBadges": [],
       "summary": "Fireblocks, founded in 2018 in Tel Aviv and New York by Michael Shaulov, provides institutional MPC custody and settlement for 1,800+ institutions securing $6T+ in transfers across 60+ chains. Its network connects exchanges, custodians and banks without single points of failure. Valued at $8B in 2022, Fireblocks is the..."
@@ -616,11 +616,11 @@
       "salaryTransparencyPct": 100,
       "salaryBenchmark": "$250k – $350k/yr",
       "scores": {
-        "hiringVolume": 36.5,
+        "hiringVolume": 36.7,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 10,
-        "composite": 68.5
+        "composite": 68.7
       },
       "highlightBadges": [
         "100% Remote",
@@ -642,11 +642,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 35.3,
+        "hiringVolume": 35.6,
         "departmentBreadth": 2,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 47.3
+        "composite": 47.6
       },
       "highlightBadges": [
         "100% Remote"
@@ -666,11 +666,11 @@
       "remotePercentage": 36,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 35.3,
+        "hiringVolume": 35.6,
         "departmentBreadth": 2,
         "remoteFlexibility": 3.6,
         "salaryTransparency": 0,
-        "composite": 40.9
+        "composite": 41.2
       },
       "highlightBadges": [],
       "summary": "BTSE, founded in 2018 and operating across Taipei and the British Virgin Islands, is a leading cryptocurrency exchange and Web3 fintech infrastructure provider. BTSE delivers high-performance spot and derivatives trading, deep multi-currency order books, and enterprise white-label exchange infrastructure for financial ..."
@@ -688,11 +688,11 @@
       "salaryTransparencyPct": 80,
       "salaryBenchmark": "$149k – $165k/yr",
       "scores": {
-        "hiringVolume": 34.1,
+        "hiringVolume": 34.3,
         "departmentBreadth": 14,
         "remoteFlexibility": 0,
         "salaryTransparency": 8,
-        "composite": 56.1
+        "composite": 56.3
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -712,11 +712,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 34.1,
+        "hiringVolume": 34.3,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 56.1
+        "composite": 56.3
       },
       "highlightBadges": [
         "100% Remote",
@@ -736,11 +736,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 34.1,
+        "hiringVolume": 34.3,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 36.1
+        "composite": 36.3
       },
       "highlightBadges": [],
       "summary": "Bullish operates a regulated digital asset exchange and institutional trading platform built for deep liquidity, automated market making, and transparent order-book execution. Licensed by the Gibraltar Financial Services Commission, Bullish pairs exchange infrastructure with portfolio and treasury tooling aimed at prof..."
@@ -758,11 +758,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 32.7,
+        "hiringVolume": 33,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 54.7
+        "composite": 55
       },
       "highlightBadges": [
         "100% Remote",
@@ -783,11 +783,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 32.7,
+        "hiringVolume": 33,
         "departmentBreadth": 10,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 52.7
+        "composite": 53
       },
       "highlightBadges": [
         "100% Remote",
@@ -807,11 +807,11 @@
       "remotePercentage": 56,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 32.7,
+        "hiringVolume": 33,
         "departmentBreadth": 10,
         "remoteFlexibility": 5.6,
         "salaryTransparency": 0,
-        "composite": 48.3
+        "composite": 48.6
       },
       "highlightBadges": [
         "Multi-Department"
@@ -831,11 +831,11 @@
       "salaryTransparencyPct": 33,
       "salaryBenchmark": "$90k – $110k/yr",
       "scores": {
-        "hiringVolume": 32.7,
+        "hiringVolume": 33,
         "departmentBreadth": 8,
         "remoteFlexibility": 0,
         "salaryTransparency": 3.3,
-        "composite": 44
+        "composite": 44.3
       },
       "highlightBadges": [],
       "summary": "ComplyAdvantage, founded in 2014 in London by Charles Delingpole, provides artificial intelligence-driven financial crime compliance including transaction monitoring, customer screening and risk rating for banks and fintechs. Its platform covers sanctions, politically exposed persons and adverse media across many langu..."
@@ -852,11 +852,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 32.7,
+        "hiringVolume": 33,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 42.7
+        "composite": 43
       },
       "highlightBadges": [
         "Multi-Department"
@@ -875,11 +875,11 @@
       "remotePercentage": 11,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 32.7,
+        "hiringVolume": 33,
         "departmentBreadth": 6,
         "remoteFlexibility": 1.1,
         "salaryTransparency": 0,
-        "composite": 39.8
+        "composite": 40.1
       },
       "highlightBadges": [],
       "summary": "Story Protocol, built by PIP Labs and backed by a16z crypto, is the programmable intellectual property Layer 1 blockchain engineered to tokenize, protect, and monetize creative IP in the age of generative AI. By turning creative assets, models, and characters into on-chain IP Legos with embedded licensing, remix rules,..."
@@ -896,11 +896,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 31.2,
+        "hiringVolume": 31.5,
         "departmentBreadth": 12,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 53.2
+        "composite": 53.5
       },
       "highlightBadges": [
         "100% Remote",
@@ -921,11 +921,11 @@
       "salaryTransparencyPct": 100,
       "salaryBenchmark": "$200k – $300k/yr",
       "scores": {
-        "hiringVolume": 31.2,
+        "hiringVolume": 31.5,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 10,
-        "composite": 51.2
+        "composite": 51.5
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -946,11 +946,11 @@
       "salaryTransparencyPct": 50,
       "salaryBenchmark": "$150k – $200k/yr",
       "scores": {
-        "hiringVolume": 31.2,
+        "hiringVolume": 31.5,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 5,
-        "composite": 42.2
+        "composite": 42.5
       },
       "highlightBadges": [
         "Salary Transparency"
@@ -969,11 +969,11 @@
       "remotePercentage": 29,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 12,
         "remoteFlexibility": 2.9,
         "salaryTransparency": 0,
-        "composite": 44.5
+        "composite": 44.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -992,11 +992,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 12,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 41.6
+        "composite": 41.8
       },
       "highlightBadges": [
         "Multi-Department"
@@ -1015,11 +1015,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 39.6
+        "composite": 39.8
       },
       "highlightBadges": [
         "Multi-Department"
@@ -1039,11 +1039,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 8,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 37.6
+        "composite": 37.8
       },
       "highlightBadges": [],
       "summary": "Jane Street, founded in 2000 in New York, is a quantitative trading firm and major liquidity provider in equities, ETFs, options and crypto. It trades $20B+ daily with 2,600+ employees across New York, London and Hong Kong, known for deep OCaml and functional programming culture and rigorous research. In Web3, Jane Str..."
@@ -1061,11 +1061,11 @@
       "remotePercentage": 14,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 6,
         "remoteFlexibility": 1.4,
         "salaryTransparency": 0,
-        "composite": 37
+        "composite": 37.2
       },
       "highlightBadges": [],
       "summary": "Polymarket, founded in 2020 in New York by Shayne Coplan, is the leading on-chain prediction market on Polygon, with $2B+ volume in the 2024 US election cycle. Users trade on politics, sports and culture outcomes using USDC, with transparent on-chain settlement via UMA. Backed by Founders Fund, Polymarket demonstrated ..."
@@ -1082,11 +1082,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 35.6
+        "composite": 35.8
       },
       "highlightBadges": [],
       "summary": "OpenFX is on a mission to move money as freely as data, unrestricted by time zones, banking hours, or legacy systems. According to its careers pages, the company is building infrastructure for the next generation of cross-border payment systems for institutions. OpenFX's site describes real-time cross-border FX payment..."
@@ -1103,11 +1103,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 4,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 33.6
+        "composite": 33.8
       },
       "highlightBadges": [],
       "summary": "pump.fun (developed and operated by Baton Corporation in New York) is the leading crypto social network and decentralized token launchpad on the Solana blockchain. Launched in early 2024, pump.fun became one of the fastest-growing applications in Web3 history. The team engineers high-performance bonding curve algorithm..."
@@ -1124,11 +1124,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 29.6,
+        "hiringVolume": 29.8,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 31.6
+        "composite": 31.8
       },
       "highlightBadges": [],
       "summary": "Infosys is a global digital services and consulting company that helps large enterprises modernize technology stacks, build cloud platforms, and deliver data and AI products. Its blockchain and Web3 practices support clients exploring tokenization, enterprise ledgers, digital identity, and regulated asset workflows alo..."
@@ -1146,11 +1146,11 @@
       "salaryTransparencyPct": 83,
       "salaryBenchmark": "$145,000–$210,000 per year (USD)",
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 8.3,
-        "composite": 46
+        "composite": 46.2
       },
       "highlightBadges": [
         "Salary Transparency",
@@ -1170,11 +1170,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 8,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 45.7
+        "composite": 45.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1193,11 +1193,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 43.7
+        "composite": 43.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1216,11 +1216,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 43.7
+        "composite": 43.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1239,11 +1239,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 41.7
+        "composite": 41.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1262,11 +1262,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 37.7
+        "composite": 37.9
       },
       "highlightBadges": [
         "Multi-Department"
@@ -1286,11 +1286,11 @@
       "remotePercentage": 17,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 8,
         "remoteFlexibility": 1.7,
         "salaryTransparency": 0,
-        "composite": 37.4
+        "composite": 37.6
       },
       "highlightBadges": [],
       "summary": "MoonPay, founded in 2019 in Miami by Ivan Soto-Wright and Victor Faramond with Maximilian Crown, provides crypto on-ramps and NFT checkout infrastructure used by hundreds of partners including wallets and marketplaces. Its widget handles cards, bank transfers and Apple Pay across many countries with know-your-customer ..."
@@ -1307,11 +1307,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.9
       },
       "highlightBadges": [],
       "summary": "Sapiom enables agents to transact safely on their own: users set a budget once and Sapiom handles checkout without clicks or taps. Its homepage describes an autonomous economy stack backed by investors including Dragonfly and Accel, and its meta description notes that teams can connect payments, customer permissions, a..."
@@ -1328,11 +1328,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 27.7,
+        "hiringVolume": 27.9,
         "departmentBreadth": 2,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 29.7
+        "composite": 29.9
       },
       "highlightBadges": [],
       "summary": "Keyrock, founded in 2017 by Kevin de Patoul, Juan David Mendieta and Jeremy de Groodt in Brussels, operates as a global digital asset market maker and liquidity provider. Active on numerous exchanges and OTC venues, it provides tight spreads, treasury management and options hedging for token issuers and funds using pro..."
@@ -1351,11 +1351,11 @@
       "salaryTransparencyPct": 80,
       "salaryBenchmark": "$210.0k – $302.5k/yr",
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 8,
-        "composite": 49.5
+        "composite": 49.7
       },
       "highlightBadges": [
         "100% Remote",
@@ -1376,11 +1376,11 @@
       "remotePercentage": 80,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 8,
         "salaryTransparency": 0,
-        "composite": 43.5
+        "composite": 43.7
       },
       "highlightBadges": [
         "80% Remote",
@@ -1401,11 +1401,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 41.5
+        "composite": 41.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -1424,11 +1424,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 39.5
+        "composite": 39.7
       },
       "highlightBadges": [
         "100% Remote"
@@ -1448,11 +1448,11 @@
       "salaryTransparencyPct": 20,
       "salaryBenchmark": "$200k – $250k/yr",
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 2,
-        "composite": 37.5
+        "composite": 37.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -1471,11 +1471,11 @@
       "remotePercentage": 80,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 8,
         "salaryTransparency": 0,
-        "composite": 37.5
+        "composite": 37.7
       },
       "highlightBadges": [
         "80% Remote"
@@ -1494,11 +1494,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 10,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 35.5
+        "composite": 35.7
       },
       "highlightBadges": [
         "Multi-Department"
@@ -1518,11 +1518,11 @@
       "remotePercentage": 40,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 4,
         "salaryTransparency": 0,
-        "composite": 35.5
+        "composite": 35.7
       },
       "highlightBadges": [],
       "summary": "SwissBorg, founded in 2017 by Cyrus Fazel and Anthony Lesoismier in Lausanne, Switzerland, is a leading European crypto wealth management app and investment platform. Operating under Swiss and European regulatory frameworks, SwissBorg provides millions of users across 100+ countries with its Smart Engine that aggregate..."
@@ -1540,11 +1540,11 @@
       "salaryTransparencyPct": 60,
       "salaryBenchmark": "USD 140,000 - USD 200,000 per year",
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 4,
         "remoteFlexibility": 0,
         "salaryTransparency": 6,
-        "composite": 35.5
+        "composite": 35.7
       },
       "highlightBadges": [
         "Salary Transparency"
@@ -1563,11 +1563,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 8,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 33.5
+        "composite": 33.7
       },
       "highlightBadges": [],
       "summary": "Hypernative is the proactive onchain security platform for enterprises and institutions. Powered by battle-tested machine learning and real-time behavioral heuristics, Hypernative predicts, detects, and neutralizes zero-day exploits, financial manipulation, fraud, and economic threats before they materialize onchain. O..."
@@ -1585,11 +1585,11 @@
       "remotePercentage": 20,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 2,
         "salaryTransparency": 0,
-        "composite": 33.5
+        "composite": 33.7
       },
       "highlightBadges": [],
       "summary": "Brave, founded in 2015 by Brendan Eich, creator of JavaScript, and Brian Bondy in San Francisco, develops the privacy-focused Brave Browser and the Basic Attention Token (BAT) ecosystem. The browser blocks trackers and ads by default, offering private search, firewall-VPN and Brave Rewards that share ad revenue with us..."
@@ -1606,11 +1606,11 @@
       "remotePercentage": 20,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 2,
         "salaryTransparency": 0,
-        "composite": 33.5
+        "composite": 33.7
       },
       "highlightBadges": [],
       "summary": "Prime Intellect, founded in 2023 by Vincent Weisser and Johannes Hagemann in San Francisco, builds decentralized artificial intelligence compute infrastructure and open-source foundation model training networks. Its platform aggregates global GPU clusters from data centers, crypto miners and compute providers into a un..."
@@ -1627,11 +1627,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 31.5
+        "composite": 31.7
       },
       "highlightBadges": [],
       "summary": "Coinflow, founded in 2022 in Chicago by Daniel Lev and Ben Meeder, provides instant settlement for crypto payments through coinflow.cash, converting card and wallet sales into stablecoins with fast finality and chargeback protection. Built for marketplaces and gaming, its products handle know-your-customer checks, frau..."
@@ -1649,11 +1649,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 25.5,
+        "hiringVolume": 25.7,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 31.5
+        "composite": 31.7
       },
       "highlightBadges": [],
       "summary": "Coins.ph, founded in 2014 in Manila, is the Philippines' leading crypto wallet and payments app with 18M+ registered users. Acquired by Gojek then spun out, it offers PHP trading, bills payment, remittance and GCash interoperability, licensed by the Bangko Sentral ng Pilipinas. It bridges cash and crypto for everyday F..."
@@ -1670,11 +1670,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 38.9
+        "composite": 39
       },
       "highlightBadges": [
         "100% Remote"
@@ -1693,11 +1693,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 36.9
+        "composite": 37
       },
       "highlightBadges": [
         "100% Remote"
@@ -1717,11 +1717,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 36.9
+        "composite": 37
       },
       "highlightBadges": [
         "100% Remote"
@@ -1742,11 +1742,11 @@
       "salaryTransparencyPct": 50,
       "salaryBenchmark": "$65k – $75k/yr",
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 6,
         "remoteFlexibility": 2.5,
         "salaryTransparency": 5,
-        "composite": 36.4
+        "composite": 36.5
       },
       "highlightBadges": [
         "Salary Transparency"
@@ -1765,11 +1765,11 @@
       "remotePercentage": 50,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 8,
         "remoteFlexibility": 5,
         "salaryTransparency": 0,
-        "composite": 35.9
+        "composite": 36
       },
       "highlightBadges": [],
       "summary": "Tempo, incubated in 2025 with support from Stripe and Paradigm in San Francisco, builds a payments-focused blockchain optimized for stablecoin settlement. Designed for high-throughput, low-fee transfers with built-in compliance and fiat on- and off-ramps, Tempo aims to bring internet-native money movement to merchants,..."
@@ -1788,11 +1788,11 @@
       "salaryTransparencyPct": 50,
       "salaryBenchmark": "$128k – $162k/yr",
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 5,
-        "composite": 33.9
+        "composite": 34
       },
       "highlightBadges": [
         "Salary Transparency"
@@ -1811,11 +1811,11 @@
       "remotePercentage": 50,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 4,
         "remoteFlexibility": 5,
         "salaryTransparency": 0,
-        "composite": 31.9
+        "composite": 32
       },
       "highlightBadges": [],
       "summary": "CoinGecko, founded in 2014 by TM Lee and Bobby Ong in Kuala Lumpur, Malaysia, operates the largest independent crypto data aggregator for prices, volumes and on-chain metrics. Its platform tracks millions of coins across 900+ exchanges, plus DeFi, NFT, derivatives and portfolio tools that serve consumers, institutions ..."
@@ -1832,11 +1832,11 @@
       "remotePercentage": 25,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 4,
         "remoteFlexibility": 2.5,
         "salaryTransparency": 0,
-        "composite": 29.4
+        "composite": 29.5
       },
       "highlightBadges": [],
       "summary": "Fortitude, backed by DCG, is an institutional-scale, vertically integrated venture mining platform operating across the Proof-of-Work ecosystem and anchored in Zcash. The company pairs self-mining operations with an owned data center footprint, a diversified power portfolio backed by competitive long-term contracts, an..."
@@ -1853,11 +1853,11 @@
       "remotePercentage": 25,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 4,
         "remoteFlexibility": 2.5,
         "salaryTransparency": 0,
-        "composite": 29.4
+        "composite": 29.5
       },
       "highlightBadges": [],
       "summary": "Luxor Technology, founded in 2020 by Nick Hansen, Eddie Wang, Ethan Vera and Guzman Pintos in Seattle, provides Bitcoin mining software and services. Its stack includes Luxor Pool, one of the largest US mining pools with full-Pay-Per-Share and hashrate derivatives, plus firmware LuxOS for ASIC optimization and Hashrate..."
@@ -1875,11 +1875,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 22.9,
+        "hiringVolume": 23,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 28.9
+        "composite": 29
       },
       "highlightBadges": [],
       "summary": "Aave Labs, founded in 2017 by Stani Kulechov in London and Helsinki, develops the Aave protocol, one of DeFi's largest liquidity markets for borrowing and lending. Its products include Aave v3 with cross-chain portals, efficiency modes and GHO stablecoin, plus Lens-adjacent social experiments and developer tooling for ..."
@@ -1896,11 +1896,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 35.7
+        "composite": 35.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1919,11 +1919,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1943,11 +1943,11 @@
       "salaryTransparencyPct": 67,
       "salaryBenchmark": "$75k – $85k/yr",
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 3.3,
         "salaryTransparency": 6.7,
-        "composite": 33.7
+        "composite": 33.9
       },
       "highlightBadges": [
         "Salary Transparency"
@@ -1966,11 +1966,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -1989,11 +1989,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -2013,11 +2013,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -2037,11 +2037,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 33.7
+        "composite": 33.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -2061,11 +2061,11 @@
       "remotePercentage": 67,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 6.7,
         "salaryTransparency": 0,
-        "composite": 32.4
+        "composite": 32.6
       },
       "highlightBadges": [],
       "summary": "Arbitrum, developed by Offchain Labs and governed by the Arbitrum DAO, is the leading Ethereum Layer 2 scaling suite, securing tens of billions in total value locked. Powered by Nitro technology, Arbitrum One and Arbitrum Nova deliver high-throughput, low-cost execution while inheriting Ethereum L1 cryptographic securi..."
@@ -2082,11 +2082,11 @@
       "remotePercentage": 67,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 6.7,
         "salaryTransparency": 0,
-        "composite": 32.4
+        "composite": 32.6
       },
       "highlightBadges": [],
       "summary": "Uniswap Labs, founded in 2018 by Hayden Adams in New York, builds the leading decentralized exchange protocol and interfaces for Ethereum and EVM chains. Originating from the Uniswap v1 automated market maker, the Labs developed successive protocol versions including v2, v3 concentrated liquidity and v4 hooks, plus the..."
@@ -2103,11 +2103,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 2,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 31.7
+        "composite": 31.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -2126,11 +2126,11 @@
       "remotePercentage": 100,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 2,
         "remoteFlexibility": 10,
         "salaryTransparency": 0,
-        "composite": 31.7
+        "composite": 31.9
       },
       "highlightBadges": [
         "100% Remote"
@@ -2149,11 +2149,11 @@
       "remotePercentage": 67,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 6.7,
         "salaryTransparency": 0,
-        "composite": 30.4
+        "composite": 30.6
       },
       "highlightBadges": [],
       "summary": "Allium, founded in 2021 by Ethan Chan and Cheng Han Lee, former engineering leaders at Meta and Primer, in New York, provides enterprise blockchain data infrastructure for institutions. Its platform ingests, normalizes and indexes data from numerous chains to deliver real-time analytics, compliance queries and warehous..."
@@ -2172,11 +2172,11 @@
       "salaryTransparencyPct": 33,
       "salaryBenchmark": "$200k – $300k/yr",
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 3.3,
-        "composite": 29
+        "composite": 29.2
       },
       "highlightBadges": [],
       "summary": "GSR Markets, founded in 2013 by Cristian Gil and Richard Rosenblum in London, operates as a leading crypto market maker and liquidity provider for spot and derivatives. Its businesses span OTC trading, systematic market making and treasury management for exchanges, token projects and institutions, with coverage across ..."
@@ -2193,11 +2193,11 @@
       "remotePercentage": 33,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 3.3,
         "salaryTransparency": 0,
-        "composite": 29
+        "composite": 29.2
       },
       "highlightBadges": [],
       "summary": "Trilitech develops technology and applications for the Tezos blockchain from its London team, supporting core protocol development, adoption, and builders across the ecosystem. Its site highlights core development on the Tezos protocol, adoption through applications and partnerships, and entrepreneurship programs that ..."
@@ -2214,11 +2214,11 @@
       "remotePercentage": 33,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 3.3,
         "salaryTransparency": 0,
-        "composite": 27
+        "composite": 27.2
       },
       "highlightBadges": [],
       "summary": "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds..."
@@ -2235,11 +2235,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 25.7
+        "composite": 25.9
       },
       "highlightBadges": [],
       "summary": "Aspora, founded in 2022 and building from hubs in India, the UK, the UAE, Europe and the United States, is a borderless financial platform for people who live and work across countries. Its products combine remittances, multi-currency accounts and card spending with compliance and banking partnerships so diaspora custo..."
@@ -2256,11 +2256,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 25.7
+        "composite": 25.9
       },
       "highlightBadges": [],
       "summary": "Bitvavo, founded in 2018 by Tim Baardse, Jelle de Boer and William Boersma in Amsterdam, operates a leading European crypto exchange and brokerage for retail and high-volume traders. Its platform offers spot trading, staking and custody across a broad range of assets with EUR rails, FIX and REST APIs, and institutional..."
@@ -2278,11 +2278,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 6,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 25.7
+        "composite": 25.9
       },
       "highlightBadges": [],
       "summary": "Breeze Cash, founded in 2022 in Singapore and New York by Peng Du and Millie Yang, formerly of Stripe, builds crypto payment infrastructure for businesses rather than payroll. Operating as Breeze.cash, the platform helps merchants accept card, Apple Pay, Google Pay and stablecoins, acting as merchant of record that han..."
@@ -2299,11 +2299,11 @@
       "remotePercentage": 0,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 19.7,
+        "hiringVolume": 19.9,
         "departmentBreadth": 4,
         "remoteFlexibility": 0,
         "salaryTransparency": 0,
-        "composite": 23.7
+        "composite": 23.9
       },
       "highlightBadges": [],
       "summary": "ether.fi, founded in 2022 by Mike Silagadze, founder of Top Hat, and Rok Kopp with headquarters in Grand Cayman, operates a leading decentralized liquid restaking protocol on Ethereum. Its eETH and weETH tokens let users stake ether while retaining liquidity and earning EigenLayer restaking rewards plus native yield, s..."

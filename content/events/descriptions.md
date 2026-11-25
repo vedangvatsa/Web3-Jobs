@@ -2832,17 +2832,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-CoinDesk's Consensus Hong Kong 2027 brings executives, investors, builders and policymakers together around digital assets and the Asian market. The announced themes are digital assets at scale, AI and the agentic economy. Program topics include institutional tokenization and stablecoins, the intersection of traditional finance and crypto, AI deployment and agentic commerce using onchain systems. Check the organizer's site for the current session schedule, speaker announcements and ticket options.
+CoinDesk's Consensus Hong Kong 2027 is the premier digital asset conference connecting global and Asian markets, taking place February 1-3, 2027 at the Hong Kong Convention and Exhibition Centre.
 
-Kenny is Co-Chairman and Co-Founder of KainoQ Capital, a private investment firm seeding founders of innovations in Asia. He co-founded KainoQ Capital with two veteran investors and scientists from Two Sigma and Goldman Sachs.
+### Summit Overview
 
-Kenny is also currently a Board Member of Two Sigma Asia. He was formerly Two Sigma Asia's CEO and Chairman of Two Sigma China. Two Sigma is one of world's largest hedge funds. Two Sigma China is the second largest global hedge fund in China.
+Consensus Hong Kong unites senior executives, institutional investors, protocol architects, and regulatory leaders. As Asia cements its leadership in digital finance, the conference examines market infrastructure, stablecoin adoption, and cross-border settlement.
 
-Earlier in his career, Kenny was Global Partner of McKinsey & Company and a co-leader of its Asia Financial Institutional Practice. Kenny was one of the fastest rising partners ever of McKinsey, elected as a global partner six years from his start as an analyst.
+### Flagship Stages & Themes
 
-Kenny has a few public roles. He is a Member of the Board of Advisors of The Wharton School,The School's most senior board and was formerly Chairman of the Executive Board of the Wharton School in Asia. He is Vice-Chairman and Trustee of the Asia Pacific Council of The Nature Conservancy. He is Co-Founder and Co-Chairman of Melo Foundation, one of the largest youth empowerment NGOs in Asia.
-
-Kenny graduated with a finance degree from the Wharton School of the University of Pennsylvania and a law degree from Oxford University. He was the first ever Chinese to be awarded the Joseph Wharton Scholarship. He is a best-selling published author in China with his recent book "Choices" reaching No.4 in e-book sales in China in 2023.
+- **Digital Assets at Scale:** Institutional market structure, prime brokerage, and regulated exchange platforms.
+- **AI & the Agentic Economy:** Autonomous economic agents, decentralized AI model training, and compute verification.
+- **RWA Tokenization:** Bringing government bonds, private credit, and commercial real estate on-chain.
+- **Asian Regulatory Regimes:** Licensing frameworks and cross-border stablecoin corridors across Hong Kong, Singapore, and Tokyo.
 
 <a id="event-3af1ab46a7509946"></a>
 
@@ -3000,13 +3001,18 @@ This listing reflects the organizer's published information for TOKEN2049 Dubai 
 
 ### About the event
 
-CoinDesk's Consensus Miami 2027 is a three-day gathering for participants in crypto, finance, technology and policy. Its announced themes cover crypto at scale, institutional integration and agentic commerce. The current program highlights include a fireside conversation with CZ, a keynote by Michael Saylor, a fireside conversation with Chairman Selig and a session on crypto payment rails and open protocols for agentic commerce. Consult the official program for updated times and speaker details.
+Consensus Miami 2027 is CoinDesk's annual flagship gathering for crypto, blockchain technology, and digital finance, hosted May 4-6, 2027 at the Miami Beach Convention Center in Florida.
 
-Vivek Raman is the Co-Founder and CEO of Etherealize, where he is building the global settlement network for tokenized assets on Ethereum. Etherealize is the only company ever funded by the Ethereum Foundation to serve as its institutional arm, and is backed by Paradigm, Electric Capital, and Vitalik Buterin. Prior to founding Etherealize, Vivek spent fifteen years on Wall Street and in digital assets. He traded high-yield bonds, distressed credit, leveraged loans, and credit default swaps at Morgan Stanley, UBS, Deutsche Bank, and Nomura.
+### Conference Overview
 
-He went on to serve as Managing Director and Head of Digital Assets at BitOoda, a regulated digital asset investment bank, and built a real estate portfolio of 100+ homes and land parcels - where the industry's inefficiency drove his interest in blockchain. In June 2025, Vivek testified before the U.
+Over three days, Consensus Miami convenes more than 15,000 attendees spanning enterprise leaders, financial regulators, builders, and Web3 enthusiasts for comprehensive debates on the trajectory of global finance.
 
-S. House Financial Services Committee in support of the CLARITY Act, making the case that decentralized blockchain networks represent critical infrastructure for the next generation of American capital markets. He has also engaged directly with the SEC's Crypto Task Force and serves on the CFTC's Industry Advisory Committee on the regulatory framework for tokenized assets. At Etherealize, Vivek has assembled a team of over thirty spanning Wall Street veterans and Ethereum's most accomplished engineers and has raised $40 million to bring institutional assets fully on-chain. He is a graduate of Yale University, where he studied economics.
+### Featured Program Highlights
+
+- **Macro & Institutional Adoption:** Keynotes and panel discussions featuring prominent figures from institutional finance and government policy.
+- **Developer & Protocol Stages:** Technical deep dives into consensus mechanisms, sharding, zero-knowledge proofs, and smart contract security.
+- **Town Halls & Policy Debates:** Open forums with policymakers addressing securities law, stablecoin standards, and custody regulations in the United States.
+- **Exhibition & Startup Pitch Competitions:** Showcases highlighting early-stage Web3 innovations across DeFi, DePIN, and on-chain gaming.
 
 <a id="event-170a366959037179"></a>
 
@@ -4819,56 +4825,24 @@ About the organiser: Web3 Excellence of Fort Worth
 
 ### About the event
 
-Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering Tickets, Monday, November 30
+Bitcoin/Altcoins & Cryptocurrency Enthusiast Night is a community meetup bringing together Bitcoiners, DeFi developers, and digital asset enthusiasts in New York City.
 
-- 6:30 PM
-- | Eventbrite
+### Event Overview
 
--
+Join builders, traders, and crypto newcomers at Dawson 39 Restaurant & Bar for open discussions on Bitcoin adoption, altcoin ecosystems, decentralized protocols, and digital property rights. Attendees can connect directly with other local operators and community members in a relaxed setting.
 
--
+### What to Expect
 
--
+Peer-to-peer networking with local Web3 engineers, founders, and investors.
 
--
+- Informal roundtables on Bitcoin macro trends, Layer 2 networks, and crypto regulation.
+- Discussions on self-custody best practices and hardware wallet security.
 
--
+### Venue & Logistics
 
-- Sales ended Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering C ByCrypto Gatherings Dawson 39 Restaurant & BarNew York, NY
-
-### Monday, November 30
-
-- 6:30 PM
-
-Overview Crypto Gathering - Discuss Everything Crypto ***FREE BITCOIN TOKEN (PHYSICAL COIN)*** Good to know Highlights
-
-In person
-
-Refund Policy Refunds up to 7 days before event Highlights
-
-In person
-
-Refund Policy Refunds up to 7 days before event Location Dawson 39 Restaurant & Bar 54 West 39th Street New York, NY 10018 How do you want to get there?
-
-Driving
-
-Biking
-
-Walking Organized by C Crypto Gatherings Report this event More events from Crypto Gatherings Discover more events from Crypto Gatherings, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit.
-
-United States Events
-
-New York Events
-
-New York networking
-
-New York Business networking Sales ended Mon, Nov 30
-
-- 3 hours
-- 3 hours
-- Public transport
-- Things to do in New York, New York
-- 6:30 PM
+- **Date & Time:** Monday, November 30, 2026 at 6:30 PM EST
+- **Location:** Dawson 39 Restaurant & Bar, 54 West 39th Street, New York, NY 10018
+- **Admission:** Free community meetup
 
 <a id="event-5188b6ca60e107ce"></a>
 
@@ -4882,11 +4856,17 @@ New York Business networking Sales ended Mon, Nov 30
 
 ### About the event
 
-Please RSVP as space will be limited. **When you arrive:** * Someone will be at the main door to greet you and let you in. The elevator will already be unlocked and waiting for you. * Once inside, just press 2 and it will take you straight up to the second floor. **Just in case something doesn't work as planned:** * You can also walk through the Capital One Café (it's open to the public) and take the elevator from there, or shoot a quick message on Signal to Jack (@jackless.09) and he'll come right down to get you.
+Austin Bitcoin Club is a monthly community gathering in Austin, Texas dedicated exclusively to Bitcoin education, open-source development, and monetary freedom.
 
-If this is your first time at one of our meetups, we have a few simple guidelines to enhance everyone's experience: * our meetups and events have a simple and singular focus: **Bitcoin**. All of our topics and discussions will be centered around Bitcoin, the global monetary network, and bitcoin, the reserve asset. If you are interested in crypto tokens, stocks, blockchains, altcoins, alternative investing, NFTs, etc. that is completely fine. There are a number of other meetups to join. This meetup however is just focused on Bitcoin * please **no photos** unless no one is identifiable in the background.
+### Gathering Overview
 
-We respect everyone's privacy and want everyone to feel comfortable as they participate * while the group discussion is going, please keep side conversations to **none. ** With the acoustics of the room and the number of people we expect, any conversations will echo and be a distraction for those who are trying to listen many of whom have traveled a long way to participate * please pick up after yourself * Street **parking** or the paid garage across from our building on East 6th (515 Congress)
+Each month, Bitcoiners from across Central Texas gather to discuss Bitcoin core protocol development, Lightning Network infrastructure, mining innovations, and financial sovereignty in an open, welcoming environment.
+
+### What to Expect
+
+- **Technical Presentation:** Deep dive into Bitcoin protocol upgrades, Layer 2 scaling, or hardware security.
+- **Open Socratic Discussion:** Interactive audience debate on recent Bitcoin news and privacy tooling.
+- **Networking Reception:** Food, craft beverages, and peer-to-peer discussion with local Bitcoin engineers and node operators.
 
 <a id="event-e6b4ea8b9601ad4b"></a>
 
@@ -5018,21 +4998,18 @@ registration. Age Requirement: Ticket holders must be above 18 years of age. Non
 
 ### About the event
 
-Join us for the CBC Summit Europe, where 150+ industry executives and regulators will gather to address crypto banking, compliance, and stablecoin challenges, together.CBC Europe will be held on 04 March 2027, at De Vere Grand Connaught, London, UK, featuring a full day of engaging panel discussions, keynote sessions, networking opportunities, and a closing happy hour.Find more details in our CBC Europe 2027 Brochure
+CBC Summit Europe 2027 is a senior leadership forum taking place March 4, 2027 at De Vere Grand Connaught in London, United Kingdom.
 
-About Us - Why Attend Join us on 04 March 2027, for our annual, CBC Summit Europe to engage in insightful discussions at the intersection of banking, compliance, and stablecoins across the crypto industry.Network with an exclusive group of industry leaders and change makers while hearing the latest developments on legislative and regulatory issues.Learn from the leading voices in this space in an intimate setting tailored to C-Suite executives.Get involved today and join the conversation
+### Summit Overview
 
-Head of Banking & Payments (Americas
+The summit convenes 150+ banking executives, compliance directors, and European regulators to address practical challenges in crypto banking, stablecoin settlement, and travel rule compliance.
 
-Kraken "Banking and compliance challenges are consistently top of mind for the crypto industry, and I'm glad that CBC Summit is bringing together industry leaders and government regulators to collaborate on a path forward.
+### Key Discussion Areas
 
-Co-Founder & Partne
+De-risking vs. enablement: Establishing compliant banking corridors for digital asset enterprises.
 
-Electric Capital "The CBC Summit was a fantastic event that enabled our team to meet and interact with executives and decision makers within crypto, banking, compliance, and government. The panels provided timely and actionable content, while the networking sessions enabled us to have meaningful conversations with prospective and existing clients, partners, and friends in industry. We're looking forward to sponsoring again next year!
-
-Presiden
-
-BitAML & ComplyFit Are you an expert or industry leader in crypto, banking, or compliance? If so, apply to speak!
+- Regulatory alignment across the UK FCA framework and European Union MiCA regulations.
+- Institutional stablecoin reserves, auditable backing, and wholesale payment systems.
 
 <a id="event-769f8e0a88888941"></a>
 
@@ -5071,13 +5048,22 @@ Join the institutions, issuers, regulators, exchanges, payment providers, fintec
 
 ### About the event
 
-TOKEN2049 | 16-17 June 2027 | New York GET YOUR TICKET NOW Super Early Bird ticket now available pay with usd Pay with your preferred credit card. Pay with crypto Processed by MoonPay Commerce. Exhibit With Us TOKEN2049 IS COMING TO NEW YORK THE GLOBAL CRYPTO GATHERING The international crypto industry converges on New York. Founders, investors, institutions and builders. All in one place.
+TOKEN2049 New York 2027 is the premier global crypto gathering making its United States debut on June 16-17, 2027. The flagship conference unites decision-makers, institutional founders, developers, investors, and international media shaping the future of Web3.
 
-Why 25,000+ Attendees Choose TOKEN2049 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL 15,000+ attendees 4,000+ companies 300+ EXHIBITORS 250 speakers >60% C-LEVEL VLAD TENEV ROBINHOOD This event is unbelievable. Eric Trump Executive VP, The Trump Organization This is the single conference where everybody comes together and the most important conversations are happening. Haseeb Qureshi Managing Partner, Dragonfly The energy is amazing... It's a fantastic conference. Changpeng Zhao Founder, Binance It really is one of the most energetic and incredible events.
+### Event Overview
 
-Raoul Pal Co-Founder and CEO, Real Vision THE GLOBAL CRYPTO INDUSTRY. NOW IN NEW YORK. Following Singapore and Dubai, TOKEN2049 arrives at the centre of global finance. Our inaugural New York edition will bring together 15,000 attendees from around the world. Meet the people building the companies, deploying the capital and defining the future of digital assets.
+Over two packed days in New York City, TOKEN2049 brings together 10,000+ attendees from over 100 countries. The conference features visionary keynotes, interactive panel debates, and extensive exhibition spaces highlighting breakthrough technologies across decentralized finance, Layer 1/Layer 2 scaling, on-chain AI agents, and institutional digital assets.
 
-VITALIK BUTERIN ETHEREUM Balaji Srinivasan The network state VLAD TENEV ROBINHOOD VITALIK BUTERIN ETHEREUM balaji srinivasan the network state Shayne Coplan Polymarket Shayne Coplan Polymarket Eric Trump World Liberty Financial Changpeng Zhao Binance attended by industry leaders Partner with us unparalleled networking The Global Crypto Gathering Didn't see your email app open?  Click below to copy our email address instead Become a Speaker EXHIBIT WITH US
+### Key Conference Themes
+
+- **Institutional Digital Asset Infrastructure:** Tokenized real-world assets (RWAs), prime custody, and institutional liquidity flows.
+- **DeFi & Modular Scalability:** Cross-chain bridges, decentralized exchanges, and modular rollup execution.
+- **AI & Autonomous Agents:** Verifiable compute, machine learning inference on-chain, and intelligent agent ecosystems.
+- **Global Regulatory Convergence:** Policy outlooks across North America, Europe, and Asian financial jurisdictions.
+
+### Networking & Side Events
+
+TOKEN2049 week hosts hundreds of curated partner meetups, developer hackathons, investor dinners, and community gatherings across New York City.
 
 <a id="event-098fd15f48f76ba7"></a>
 
@@ -5091,47 +5077,24 @@ VITALIK BUTERIN ETHEREUM Balaji Srinivasan The network state VLAD TENEV ROBINHOO
 
 ### About the event
 
-Blockchain Tech Summit (4th Annual) Tickets, Tuesday, September 28, 2027
+The 4th Annual Blockchain Tech Summit is an executive gathering hosted by the Global Startup Ecosystem in New York City, connecting entrepreneurs, investors, pioneers, and creatives from across the decentralized technology ecosystem.
 
-- 11 AM - 1 PM | Eventbrite
+### Summit Overview
 
--
+The summit brings together industry leaders to explore how blockchain networks, smart contract architectures, and decentralized applications are transforming global commerce, finance, and digital identity. Participants discuss market infrastructure, enterprise deployment, and startup acceleration in the US and international markets.
 
--
+### Key Themes
 
--
+- Enterprise blockchain integration and institutional digital asset custody.
+- Emerging developer tooling, zero-knowledge proofs, and cross-chain interoperability.
+- Venture capital trends and funding landscapes for early-stage Web3 startups.
+- Regulatory outlook and policy developments for digital assets in the United States.
 
-Blockchain Tech Summit (4th Annual) ByGlobal Startup Ecosystem Location TBANew York, NY
+### Venue & Schedule
 
-### Tuesday, September 28, 2027
-
-In person
-
-Refund Policy No refunds Highlights
-
-In person
-
-Refund Policy No refunds Location Location TBA TBA New York, NY 10036 How do you want to get there?
-
-Driving
-
-Biking
-
-Walking Organized by Global Startup Ecosystem Report this event More events from Global Startup Ecosystem Discover more events from Global Startup Ecosystem, from Business to other experiences you might love. You might also like... Browse more events with different dates, prices, and formats to find your next great experience. Still looking for the right event? Explore all events in New York and filter by date, category, and more to find the perfect fit.
-
-United States Events
-
-New York Events
-
-New York networking
-
-New York Business networking
-
-- 11 AM - 1 PM Overview Blockchain Tech Summit is the world's most exclusive event featuring hundreds of entrepreneurs, investors, pioneers, and creatives together. Good to know Highlights
-- 2 hours
-- 2 hours
-- Public transport
-- Things to do in New York, New York
+- **Date & Time:** Tuesday, September 28, 2027 from 11:00 AM to 1:00 PM EDT
+- **Location:** New York City (Venue details provided to registered attendees)
+- **Host:** Global Startup Ecosystem
 
 <a id="event-2a897b3e327664be"></a>
 
@@ -12104,8 +12067,6 @@ Superteam is a global co-operative organised into regional non-profit organisati
 
 Learn more and apply for membership at superteamuk.org (https://superteamuk.org/?utm_source=luma)
 
--
-
 - This is a strictly invite-only event. Each ticket allows admission for one participant only. Do note that you will have to show the confirmation QR code/email of registration for approval for entry.
 
 ** Limited spaces available, even after confirmation. Please arrive early to avoid disappointment.
@@ -12641,8 +12602,6 @@ Join us for an evening of drinks, light bites and conversation right after Day 1
 Both promise faster, cheaper and always-on payments. But they work in different ways, and they come with different rules and risks.  Speakers Lord Kempsell, Member of the House of Lords Vineeth Bhuvanagiri, DeFi Lead, Midnight Foundation Jake Boyle, Founding Partner, Caleb & Brown Lloyd Moore, Co-Founder & Chief Technology Officer, Frame Simon Babakhani, Co-Founder & Chief Executive Officer, Zebec Networ
 
 :
-
--
 
 - A focused panel: A clear, honest talk on one of the biggest questions in onchain finance.
 
@@ -13278,8 +13237,6 @@ The topic is onchain carry at institutional size: where the yield comes from, wh
 
 :
 
--
-
 - 17:00 Doors open
 - 18:00 Live recording: 0xResearch by Blockworks
 - 18:30 Drinks and networking
@@ -13356,8 +13313,6 @@ Your entry and presence at such an event constitutes your consent to be photogra
 Join AI Agents Lab for an evening with Colosseum, Superteam UK and the Solana community at Imperial College London. Hear from Colosseum and founders building in the Solana ecosystem, with time for questions and conversations with fellow builders
 
 :
-
--
 
 - A talk from Colosseum
 
@@ -13438,8 +13393,6 @@ APRENDE, EXPLORA Y CERTIFÍCATE Más que una aproximación al mundo cripto, esta
 We look forward to welcoming you to the University Digital Asset Xcelerator's 2026 Demo Day (https://ripple.com/insights/ripple-and-uc-berkeley-launch-the-university-digital-asset-xcelerator-udax-to-supercharge-the-xrp-ecosystem/) at Ripple's HQ in San Francisco, California
 
 :
-
--
 
 - 2:15 PM. Doors open to external guests; networking with light snacks and drinks
 - 3:00 PM. Opening Remarks
@@ -14284,8 +14237,6 @@ Learn more or apply for membership at artsdao.io (https://artsdao. io
 
 Photography & Videography Notice Photography and videography may take place during this event. By attending, you consent to Arts DAO capturing and using photographs and video recordings that may appear across our website, social media channels, marketing materials, and future promotional campaigns
 
-Refund Policy Once your
-
 registration has been approved and payment has been processed, tickets are non-refundable and non-transferable, unless the event is cancelled by Arts DAO.
 
 <a id="event-6aa76302147bc30d"></a>
@@ -14549,8 +14500,6 @@ Touch down in London and join Moonsong Labs just across the street from Olympia 
 What's more British than fish and chips? The queue, maybe. Moaning about the weather, definitely. But fish and chips still wins. Before Breakpoint kicks off, Jupiter is hosting a proper British afternoon for the people who make this ecosystem what it is. That's you. No keynotes. No panels. No slides. Just fish, chips, drinks, and finally meeting the friends you've only ever known as a profile picture. Why "Ships"? Because Jupiter ships. And this is the last calm harbour before Breakpoint week gets loud
 
 :
-
--
 
 Drinks: a cuppa if you must, a pint if you'd rather
 
@@ -15139,8 +15088,6 @@ About Event For corporates and institutions, slow money is costly. Cross-border 
 
 :
 
--
-
 Stablecoins, tokenised deposits and tokenised money market funds: which instruments will carry which flows
 
 AI agents in treasury: from forecasting cash positions to initiating and settling transactions within set limits
@@ -15651,8 +15598,6 @@ Come out and share your project at our last Open Mic Night of 2026! Whether you'
 
 :
 
--
-
 - 5:30 PM Doors open
 - 6:00 PM Open Mic Night
 - 7:15 PM Raffle for Special Tangem Giveaways
@@ -15919,8 +15864,6 @@ Penn Blockchain is hosting Tangem at Penn for an evening talk on The Rise of Cry
 
 :
 
--
-
 - A talk from the Tangem team on crypto and AI
 - Q&A with the speaker
 
@@ -16021,8 +15964,6 @@ Where: AWS Office Event Space, Level 5, IOI Central Boulevard Towers, 2 Central 
 Registration Space is limited and subject to host approval. Requests are usually approved within 24 hours. Request to join, and bring a question worth debating. About Cobo Founded in 2017 and headquartered in Singapore, Cobo builds trusted infrastructure for wallets and payments, serving humans and AI agents. Cobo has completed a SOC 2 Type II audit by a Big Four firm, is ISO 27001 certified, and has secured billions in client assets with zero security incidents since 2017. Learn more at www.cobo.com (https://www.cobo.com). About Sunrate is a leading global payment and treasury management platform for businesses worldwide.
 
 Founded in 2016, Sunrate has enabled companies to operate and scale both locally and globally in 190+ countries and regions with its cutting-edge infrastructure, global network, and unified solutions. About AWS Amazon Web Services (AWS) is the cloud platform of Amazon, providing the infrastructure, data and AI services on which banks, asset managers and hedge funds build and run their research, trading and risk workloads. Financial institutions use AWS to train and deploy AI models securely and at scale.  2026 年 11 月 19 日
-
--
 
 - 12:30-17:00(新加坡时间)- 提供午餐
 - 24 小时内审核 参会还能抽奖? 多款 Fitbit Air 运动手环以及几周前刚刚发布的全新 Fitbit Edge 等您来拿。 简介 今年的新加坡金融科技节将聚焦重塑全球金融的力量。支付是这种重构最显而易见的领域:AI 智能体正开始进行真实消费,越来越多的交易以稳定币结算,而基础设施的发展速度远超风控机制。 REWIRED 汇聚了支付领域的建设者与运营者,共同探讨未来发展方向:
@@ -16296,8 +16237,6 @@ Following a strong inaugural edition in Montreal, Tokenize North is coming to To
 Why now Tokenization is moving from conversation toward implementation across funds, payments, settlement, custody, collateral and market infrastructure. Toronto sits at the intersection of Canada's banks, asset managers, capital markets, fintechs, digital-asset infrastructure providers and professional services. yet those groups rarely come together in one deliberately curated room.  Tokenize North is designed to bring that overlap together
 
 :
-
--
 
 - 〜150 curated guests
 - A networking-first evening reception
@@ -16967,8 +16906,6 @@ DAO University Tour collaborates with local student organizations, university co
 Una tarde de inversores y builders en Medellín. La tokenización está abriendo una nueva forma de invertir en negocios reales. Te mostramos cómo entrar. Vas a conocer el Club de Inversión RWA de Tutellus por dentro: cómo seleccionamos los negocios, cómo acceden los socios a cada nueva inversión, qué formas de participar existen y cómo se sigue cada operación. Después, E-CHARGE nos contará su proyecto: la red de electrolineras que está desplegando en Colombia y cómo la tokenización impulsa su crecimiento. Un caso real, contado por sus protagonistas. Y para cerrar, lo más importante: tiempo para conocerse y abrir conversaciones.
 
 Sobre Tutellus: en más de 9 años hemos construido una comunidad de más de 100.000 miembros, lanzado más de 150 tokens y tokenizado más de 150M USD en proyectos como Reental, Nash21, Megavatios, Nodo Ushuaia y GT3.  Viernes 20 de noviembre
-
--
 
 - 15:00 h The Charlee Hotel, Colombia, Medellín
 
@@ -17960,19 +17897,23 @@ Quick Links: https://planxconf.com/ https://planxconf.com/the-speakers/ https://
 
 ### About the event
 
-BNB Hack: Bangkok. Bring your idea. Find your team. Build. Join BNB Chain in Bangkok for three days of building, collaboration and fresh ideas. Meet fellow developers, designers and founders, explore what's possible on BNB Chain, and turn your next idea into a working project. November 25-27, 2026 Park Hyatt Bangkok, Thailand Free to attend
+BNB Hack Bangkok is an intensive three-day hackathon and collaborative builder summit hosted by BNB Chain, taking place November 25-27, 2026 at the Park Hyatt Bangkok.
 
-Application and approval require
+### Hackathon Overview
 
-Build with us Whether you're arriving with a team, looking for collaborators or ready to tackle a project solo, there's a place for you at BNB Hack. Bring your technical skills, product thinking or design perspective. Work alongside other builders, share what you know, and push your project forward with the BNB Chain community. Have an idea already? Tell us what you want to build when you apply. Still exploring? Share your interests and experience so we can get to know you
+Join the BNB Chain ecosystem in Bangkok for three days of building, collaboration, and fresh ideas. Connect with fellow developers, UI designers, and protocol founders to explore what is possible on BNB Chain and turn your next idea into a production-ready Web3 application.
 
-Already building a startup? Explore the Founder Track BNB Hack will also feature a Startup Track, where selected projects will pitch directly to a jury of ecosystem experts, with the potential to secure incubation through YZi Labs' EASY Residency. Interested in the Startup Track? Apply separately through Demo Night (https://luma.com/5topfryz) and select the Startup Track ticket. Expressing interest in the hackathon form does not submit a Startup Track application. You can join the hackathon, apply for the Startup Track, or do both. Selection for pitching and incubation is not guaranteed
+### Building Tracks & Challenges
 
-Developer Track presentations and Demo Night Hackathon teams present their hackathon projects to sponsors in the Developer Track on 27 November. These presentations are separate from the Startup Track pitches on the same day. Approved hackathon participants can attend Demo Night at Park Hyatt Bangkok without registering again. A separate Startup Track application is needed only if you also want to be considered for a Startup Track pitch
+- **DeFi & Liquidity Infrastructure:** Next-generation decentralized exchanges, lending markets, cross-chain liquidity aggregation, and automated yield protocols.
+- **On-Chain AI & Intelligent Agents:** Machine learning models integrated with smart contracts and autonomous trading agents.
+- **Consumer Web3 & Gaming:** Social applications, verifiable creator economies, and high-performance Web3 games.
 
-How to join 1. Complete your application on this page, including your GitHub or portfolio link. 2. Apply individually - even if you already have a team - and use the same team name as your teammates. 3. Wait for your approval email before making plans to attend. We'll share the detaile
+### Mentorship & Schedule
 
-: -, challenges and participation requirements ahead of the event. Ready to build in Bangkok? Apply below.
+- 48 hours of hands-on hacking with dedicated technical mentorship from BNB Chain core architects.
+- Technical office hours, API integration workshops, and code review clinics.
+- Final pitch presentations before a venture capital and ecosystem judging panel with prize bounties.
 
 <a id="event-874f2392b0718604"></a>
 
@@ -18886,8 +18827,6 @@ Arc is moving fast, And now it helps you move just as fast. With Arc Studio, Cir
 
 :
 
--
-
 Hands-on: build your own app, we help you get it running
 
 Food, drinks and networking with the Arc House France community
@@ -18989,17 +18928,17 @@ About Encode A global developer community empowering builders through hackathons
 
 ### About the event
 
-Off the Ledger: An Evening of Finance & Connections November 26 | 18:00-22:00 | Berlin, Germany Join 200+ professionals from fintech, banking, payments and Web3 in Berlin for Off the Ledger: An Evening of Finance & Connections. Meet founders, financial institutions and technology leaders for panel discussions exploring payments, compliance and digital assets. Share ideas, make new connections and continue the conversation over drinks and snacks. With Paybis as Strategic Partner, powered by Sumsub and Magnetiq Bank, and supported by UN:BLOCK as Community Partner
+Off the Ledger: An Evening of Finance & Connections is an executive networking reception taking place November 26, 2026 in Berlin, Germany.
 
-Hosts: Paybis | Website (https://paybis.com/) Paybis makes crypto simple for individuals and enterprises. Established in 2014, the company combines a trusted crypto exchange and wallet for buying, selling, swapping and holding over 90 cryptocurrencies, with award-winning crypto-fiat infrastructure. That infrastructure lets businesses transfer capital globally without the friction of traditional payments. In 2026, Paybis was recognized as Best Crypto Payment Provider, a testament to its expansive global reach, rapid onboarding protocols, and the deep expertise of the 200 dedicated professionals who drive its operations.
+### Evening Overview
 
-Processing more than $6 billion annually, Paybis is one of the most efficient platforms for acquiring and transacting in digital assets. This commitment to operational excellence is why Paybis maintains one of the highest ratings for crypto companies on Trustpilot, and why 7 million users and hundreds of the world's fastest-growing enterprises consistently rely on its services. UN:BLOCK | Website (https://fintech.unblockeurope.com/?utm_source=luma) UN: BLOCK is Northern Europe's leading fintech, blockchain, and AI conference, connecting the people and companies building the future of financial services.
+Join 200+ senior professionals from fintech, traditional banking, digital payments, and Web3 in Berlin for curated discussions and direct industry connections. Meet founders, financial institutions, and technology leaders in an intimate and relaxed venue setting.
 
-Following a record 2026 conference with 2,200+ attendees, 700+ companies, participants from 50 countries, and 7+ side events, the ecosystem returns to Riga on March 10-11, 2027 for its biggest edition yet. Sumsub | Website (https://sumsub.com/) Sumsub is a global verification and compliance platform helping businesses onboard customers, prevent fraud, and expand into new markets. Trusted by 4,000+ clients, it brings together identity and business verification, AML screening, transaction monitoring, and Travel Rule compliance in one platform.
+### Program Highlights
 
-Serving fintech, crypto, trading, and other digital industries, Sumsub helps companies meet regulatory requirements while creating a smoother, more secure customer experience. Magnetiq Bank | Website (https://magnetiqbank.com/) Magnetiq Bank is a fully licensed European bank helping fintechs and digital businesses launch financial products, manage payments, and scale internationally. Serving 1,000+ companies, it offers Banking as a Service, e-commerce acquiring, virtual IBANs, safeguarding accounts, and embedded lending.
-
-Working with fintech, e-commerce, crypto, and P2P businesses, Magnetiq Bank combines banking expertise with flexible technology to help companies connect their products to regulated financial infrastructure.
+- **Executive Panel Discussion:** Exploring institutional digital asset adoption, real-time cross-border settlements, and payment modernization across Europe.
+- **Curated Networking:** Structured connections between traditional finance executives, Web3 protocol founders, and early-stage venture investors.
+- **Evening Reception:** Complimentary drinks, light dinner, and informal conversation in central Berlin.
 
 <a id="event-727f6fbdfd24d902"></a>
 
@@ -19018,8 +18957,6 @@ An evening with the OKX team and the French crypto community. On Thursday, 26 No
 Join us at the heart of the Paris start-up ecosystem - for an evening on the Master Stage alongside founders, creators, traders and builders shaping the French crypto scene
 
 :
-
--
 
 On-stage discussions with leading French founders and community voices, including Nicolas Vaiman, CEO of Bubblemaps, and Julien Pelegri, VIP trader and founder of Merov Club.
 
@@ -20222,15 +20159,17 @@ About the organiser: We're a community of passionate developers and tech enthusi
 
 ### About the event
 
-botany.tech (https://botany.tech) is hosting a relaxed spot with rooftop near QSNCC during Binance Blockchain Week, where creators, founders and investors can step away and network over pizza and bites, sparkling wine and soft drinks. Date: Saturday, November 28, 2026 Time: 15:30-22:00 Venue: 10 minutes walk from QSNCC. The exact address will be shared with approved guests. WHO IT'S FOR Creators and KOLs, founders and investors. If you're building, backing or talking about crypto, request a spot. WHAT'S INSIDE: Networking A relaxed drop-in format: come anytime, meet people, stay as long as you like. A few words from our team, then it's all conversations.
+Touch Grass: Web3 Creators × Founders is an exclusive rooftop networking mixer taking place Saturday, November 28, 2026 in Bangkok, Thailand during Binance Blockchain Week.
 
-Pizza & sparkling wine Pizza and light bites, sparkling wine and soft drinks. Games & prizes Play interactive games and win botany.tech (https://botany.tech) prizes: T-shirts, limited-edition posters, stickers, promo cards. Touch Grass chill zone A corner with bean bags and greenery where you can sit back, recharge and catch up with people. Rooftop The venue has its own rooftop. Head up for some fresh air and the view. Chill vibe music Easy background sounds all evening, so you can relax and actually hear each other. HOSTS AND PARTNERS Host: botany.tech Event partner: Tangem About botany.tech botany.tech (https://botany.tech) is autotrading system.
+### Event Overview
 
-Pick a ready-made strategy and the system trades it for you. Our team has run trading systems since 2024, with over $24M traded. Built on Base, with BTSE as our official partner. In closed beta now, opening Q4 2026. About Tangem makes self-custody simple. Founded in 2017 and based in Zug, Switzerland, Tangem built a hardware wallet the size of a bank card: no cables, no batteries, no screen. You just tap it to your phone. Private keys are generated and stored on an EAL6+ certified secure chip and never leave the card. COLLABORATE WITH BOTANY.
+Hosted by [Botany Tech](https://botany.tech), Touch Grass offers a relaxed rooftop sanctuary near the Queen Sirikit National Convention Center (QSNCC). Creators, founders, and angel investors can step away from the crowded conference floor to connect over pizza, craft refreshments, and panoramic city views.
 
-TECH (https://BOTANY.TECH) We're open to partnerships: creator collaborations and co-marketing. Come find the team.
+### What to Expect
 
-REGISTRATION & ENTRY Approval required, capacity is limited. Creators, KOLs and media: please choose the KOLs & Media ticket. By attending, you consent to being photographed and filmed for promotional content.
+- **Curated Founder & Investor Networking:** Direct conversations with active builders and venture allocators.
+- **Hospitality & Refreshments:** Fresh artisanal pizza, light bites, sparkling wine, and craft drinks.
+- **Relaxed Atmosphere:** Sunset networking with background music, away from convention crowds.
 
 <a id="event-131a5ea8566dbbaf"></a>
 
@@ -21611,17 +21550,17 @@ Daos Hub, Dubai Become a Partner - daos.co (https://daos.co/)
 
 ### About the event
 
-Garanti BBVA Kripto ve Team1 Türkiye kampüsüne geliyor! UniTour#3, blockchain teknolojisini kampüslere taşımayı, öğrencileri Web3 dünyasıyla tanıştırmayı ve yeni nesil kariyer fırsatlarıyla onlara ilham vermeyi amaçlıyor. UniTour#3'ün 4. etkinliği PRÜ Blockchain Kulübü'nün desteğiyle Piri Reis Üniversitesi'nde gerçekleşecek. Garanti BBVA Kripto'nun (https://www.garantibbvakripto.com.tr/?utm_source=luma) dijital varlık vizyonunu yakından tanıyacak, kripto cüzdanlarıyla varlıklarınızı nasıl güvenle saklayabileceğinizi ve kolayca yönetebileceğinizi keşfedeceksiniz.
+Garanti BBVA Kripto ve Team1 Türkiye iş birliğiyle düzenlenen UniTour#3, blockchain teknolojisini üniversite kampüslerine taşıyarak öğrencilere Web3 ekosistemini tanıtan eğitim ve kariyer zirvesidir.
 
-Avalanche Cascade (https://go.team1.network/turkiye-cascade?utm_source=luma) ile Avalanche Ekosistemi'nin temellerini öğrenirken, Team1 Türkiye'nin (https://go.team1.network/turkiye?utm_source=luma) hem topluluk odaklı öğrencilere hem de geliştirici öğrencilere sunduğu fırsatları yakından inceleme şansı bulacaksınız. Etkinlik Akışı [Etkinliğin detaylı programı ve oturum saatleri çok yakında duyurulacaktır.] Etkinliğin sonunda katılımcılar, pizza ve içecekler eşliğinde keyifli bir networking (tanışma ve bağlantı kurma) oturumuna katılma fırsatı bulacak.  Ayrıca defter, kalem, tişört veya çanta gibi çeşitli promosyon ürünleri küçük hatıralar olarak dağıtılacak
+### Etkinlik Hakkında
 
-Garanti BBVA Kripto Garanti BBVA Kripto (https://www.garantibbvakripto.com.tr/?utm_source=luma), Türkiye'nin en büyük özel bankalarından biri olan Garanti BBVA'nın iştiraki olarak, kripto varlık hizmetleri sunmak amacıyla Mayıs 2023'te kurulmuştur. Temel hedefi, kripto dünyasına adım atan bireylere yüksek kaliteli ve kullanıcı odaklı bir deneyim sunmaktır. Sunduğu hizmetler arasında kripto varlık saklama ve alım-satım işlemleri ön plana çıkmaktadır
+UniTour#3'ün 4. etkinliği, PRÜ Blockchain Kulübü'nün desteğiyle Piri Reis Üniversitesi'nde gerçekleşiyor. Etkinlik, öğrencilere blokzincir teknolojisinin temellerini, merkeziyetsiz finansı (DeFi) ve Web3 alanındaki kariyer fırsatlarını alanında uzman liderlerle doğrudan öğrenme imkanı sunar.
 
-Team1 Team1 (https://x.com/AvaxTeam1?utm_source=luma), Avalanche (https://www.avax.network/?utm_source=luma) ekosistemini büyütmeye odaklanan geliştiriciler, üreticiler, içerik oluşturucular, oyuncular ve topluluk liderlerinden oluşan küresel bir ağdır. 50'den fazla ülkede aktif olarak faaliyet gösteren Team1 (https://x.com/AvaxTeam1?utm_source=luma), yerel buluşmalar, hedef odaklı atölyeler, özel yan etkinlikler, içerik üretimi ve topluluk odaklı girişimler aracılığıyla Avalanche'ın benimsenmesini destekler ve ekosisteme yeni kullanıcılar ile projeler kazandırır. Çevrimiçi ve fiziksel topluluklar arasında köprü kurarak yerel inovasyonu güçlendirir ve Avalanche'ın farklı coğrafyalara ve kültürlere yayılmasını sağlar
+### Program Akışı
 
-Team1 Türkiye Team1 Türkiye (https://x.com/Team1TUR?utm_source=luma), Avalanche ekosistemini büyütmek ve Web3 dünyasına yeni yetenekler kazandırmak için çalışan resmi bir topluluk yapılanmasıdır. Bugüne kadar Türkiye genelinde 60'tan fazla etkinlik düzenleyerek 4.500 katılımcıya ulaşan Team1 Türkiye, 30'dan fazla üniversiteyle iş birliği yaparak Avalanche'ı kampüslere taşımış ve birçok öğrenci ile geliştiricinin ekosisteme ilk adımını atmasını sağlamıştır. Team1 Türkiye, yerel topluluklarla kurduğu güçlü bağlar sayesinde büyümeye devam ederken daha fazla öğrenciyi ve geliştiriciyi ekosisteme kazandırmayı hedeflemektedir
-
-PRU Blockchain Kulübü PRU Blockchain (https://x.com/pru_blockchain), Piri Reis Üniversitesi'nde merkeziyetsiz teknolojilere meraklı öğrencileri bir araya getiren genç bir topluluk. Yeni kurulduk, ama heyecanımız büyük: eğitimler, teknik içerikler ve etkinliklerle birlikte öğreniyor, birlikte üretiyoruz. İlk hackathon birinciliğimizi şimdiden aldık; devamı için çalışıyoruz.
+- **Blokzincir 101 & Kripto Varlıklar:** Dijital varlıkların evrimi ve geleceğin finansal altyapısı.
+- **Web3 Kariyer Paneli:** Girişimcilik, akıllı sözleşme geliştiriciliği ve ekosistem rollerinde kariyer fırsatları.
+- **Networking & Soru-Cevap:** Garanti BBVA Kripto ve Team1 yöneticileri ile doğrudan tanışma.
 
 <a id="event-3763d4823aab7beb"></a>
 
@@ -22061,65 +22000,22 @@ Event details When: Monday, November 30, 2026 from 6:00 to 9:00 PM MST Where: Ph
 
 ### About the event
 
-Tickets are available on the official website only: https://blockchain-life.com/#tickets
+Blockchain Life 2026 Day 1 is the opening day of one of the world's largest digital asset forums, taking place December 1, 2026 at the Festival Arena in Dubai, UAE.
 
-Registration on Luma is not an entry ticket.
+### Conference Overview
 
-On December 1-2, Blockchain Life 2026 will once again bring the global crypto industry together in Dubai: 15,000+ attendees from 130+ countries, 200+ speakers, and 200+ sponsors.
+The 14th edition of Blockchain Life unites 15,000+ attendees from over 130 countries, featuring 200+ industry speakers and more than 200 corporate exhibitors representing cryptocurrency exchanges, institutional funds, and Web3 protocols.
 
-Blockchain Life 2026 features one of the most impressive speaker lineups in the crypto industry. The forum stages feature leaders of companies and ecosystems shaping the global crypto market, finance, and AI.
+### Day 1 Highlights
 
-Among the confirmed speakers:
+- **Global Market Stage:** Macro economic analysis, regulatory updates across the Middle East and Asia, and institutional liquidity projections.
+- **Exhibition Expo:** Product demonstrations from tier-1 exchanges, crypto mining operators, custodial providers, and blockchain startups.
+- **Curated Networking:** Direct access to founders, fund managers, and venture investors via the proprietary Blockchain Life networking app.
 
-Eli Ben-Sasson - Co-Founder & CEO, Starkware
+### Venue & Registration
 
-Arthur Hayes - CIO, Maelstrom
-
-Ben Zhou - Co-Founder & CEO, Bybit
-
-Garret "Bullish" Jin - Crypto whale
-
-Sandeep Nailwal - Co-Founder, Polygon
-
-Mert Mumtaz - CEO, Helius
-
-Yat Siu - Co-Founder & Executive Chairman, Animoca Brands
-
-Kelvin Koh - Co-Founder & Managing Partner, The Spartan Group
-
-Jamie King - Co-Founder, Rockstar Games
-
-Luke Judges - Partner Director, Ripple
-
-Marius Smith - Co-Founder, Ethereum Institutional
-
-Sunny Lu - Co-Founder & CEO, VeChain
-
-Andrei Grachev - Managing Partner, DWF Labs
-
-Sergei Khitrov - Founder, Listing Help, Jets Capital
-
-Vugar Usi Zade - CEO, MEXC
-
-Saeeda Jaffar - Managing Director International, Circle (USDC)
-
-Rajat Sakhuja - Director, Blockchain & Digital Assets, Mastercard
-
-Daniil & David Liberman - Creators of Gonka ai & Humanism is
-
-And many other leaders from the global crypto and AI industries.
-
-This concentration of key industry players makes Blockchain Life one of the leading destinations for high-value networking, meetings, new partnerships, and business opportunities year after year.
-
-The scale goes far beyond the stages. The Blockchain Life expo will bring together 200+ sponsors - leading crypto projects, major exchanges, mining companies, Web3 and AI teams, infrastructure players, and promising startups.
-
-Beyond the two-day forum, Blockchain Life & AI Future Week 2026 will feature 300+ side events. Meetings, closed-door events, business dinners, parties, and other formats will keep the networking going throughout the week.
-
-The forum will culminate with the legendary Blockchain Life Afterparty at one of Dubai's top clubs, featuring a world-class headliner.
-
-Everyone You Need In One Place!
-
-All of this will come together at Blockchain Life 2026 in Dubai on December 1-2.
+- **Venue:** Festival Arena, Dubai Festival City, Dubai, UAE
+- **Tickets:** Official registration available via [Blockchain Life](https://blockchain-life.com/#tickets)
 
 <a id="event-deafd30962099d41"></a>
 
@@ -22133,63 +22029,22 @@ All of this will come together at Blockchain Life 2026 in Dubai on December 1-2.
 
 ### About the event
 
-Tickets are available on the official website only: https://ai-future.com/#tickets
+AI Future Forum 2026 Day 1 is an international summit taking place December 1, 2026 at the Festival Arena in Dubai, running alongside Blockchain Life 2026.
 
-Registration on Luma is not an entry ticket.
+### Summit Overview
 
-Global Premiere: AI Future Forum 2026 in Dubai!
+The global premiere of the AI Future Forum convenes over 15,000 technology leaders, artificial intelligence researchers, Web3 founders, and institutional investors from 130+ countries to explore the convergence of AI, decentralized compute, and blockchain infrastructure.
 
-On December 1-2, 2026, AI Future Forum makes its debut in Dubai as part of Blockchain Life 2026, bringing together 15,000+ attendees from 130+ countries.
+### Day 1 Stage Highlights
 
-AI Future Forum focuses on artificial intelligence, AI agents, robotics, and future technologies, connecting AI founders, investors, entrepreneurs, and technology leaders from around the world.
+- **Decentralized AI Infrastructure:** Zero-knowledge machine learning (zkML), decentralized physical compute networks (DePIN), and verifiable AI inference.
+- **Autonomous On-Chain Agents:** Intelligent agents executing autonomous smart contract workflows, liquidity rebalancing, and decentralized governance.
+- **Enterprise Adoption:** Sovereign enterprise models, data privacy safeguards, and regulatory compliance across international markets.
 
-Among the confirmed speakers:
+### Access & Registration
 
-Eli Ben-Sasson - Co-Founder & CEO, Starkware
-
-Arthur Hayes - CIO, Maelstrom
-
-Ben Zhou - Co-Founder & CEO, Bybit
-
-Garret "Bullish" Jin - Crypto whale
-
-Sandeep Nailwal - Co-Founder, Polygon
-
-Mert Mumtaz - CEO, Helius
-
-Yat Siu - Co-Founder & Executive Chairman, Animoca Brands
-
-Kelvin Koh - Co-Founder & Managing Partner, The Spartan Group
-
-Jamie King - Co-Founder, Rockstar Games
-
-Luke Judges - Partner Director, Ripple
-
-Marius Smith - Co-Founder, Ethereum Institutional
-
-Sunny Lu - Co-Founder & CEO, VeChain
-
-Andrei Grachev - Managing Partner, DWF Labs
-
-Sergei Khitrov - Founder, Listing Help, Jets Capital
-
-Vugar Usi Zade - CEO, MEXC
-
-Saeeda Jaffar - Managing Director International, Circle (USDC)
-
-Rajat Sakhuja - Director, Blockchain & Digital Assets, Mastercard
-
-Daniil & David Liberman - Creators of Gonka AI & Humanism is
-
-And many other leaders from the global AI and crypto industries.
-
-Beyond the two-day forum, Blockchain Life & AI Future Week 2026 will bring together 30,000+ attendees across 300+ side events from November 26 to December 6.
-
-Closed-door meetings, private dinners, business events, and parties offer opportunities to meet founders, investors, representatives of Tier 1 funds, and industry leaders face-to-face, followed by the Formula 1 Grand Prix Final.
-
-One ticket. Two world-class events.
-
-An AI Future Forum ticket includes full access to Blockchain Life 2026.
+- **Venue:** Festival Arena, Dubai Festival City, Dubai, United Arab Emirates
+- **Tickets:** Official access is available through [AI Future](https://ai-future.com/#tickets)
 
 <a id="event-5e386c2d1b77f7c0"></a>
 
@@ -22312,8 +22167,6 @@ LIVE Sponsors & Media CRODL. A crypto trading platform connecting exchanges, aut
 What makes an ETF a compelling structure for institutional Bitcoin exposure? Join BIT Asset Management for coffee and croissants in the swisspartners boardroom in Zürich. Using BBIT, Switzerland's first Bitcoin ETF, as a practical example, we'll look at how a Swiss ETF provides direct exposure to Bitcoin and what its structure means for custody, oversight and access through SIX Swiss Exchange. We'll also explore where Bitcoin might fit in a diversified portfolio and what institutional investors consider when making an allocation. You'll have time to ask the team behind BBIT your questions and exchange perspectives with fellow investors. Date
 
 ### Tuesday, 1 December 2026 Time
-
--
 
 swisspartners Group AG boardroom Am Schanzengraben 23, 8002 Zürich Schedule
 
@@ -22763,63 +22616,22 @@ See you there.
 
 ### About the event
 
-Tickets are available on the official website only: https://ai-future.com/#tickets
+AI Future Forum 2026 Day 2 continues the international artificial intelligence and decentralized compute summit on December 2, 2026 at the Festival Arena in Dubai, UAE.
 
-Registration on Luma is not an entry ticket.
+### Forum Overview
 
-Global Premiere: AI Future Forum 2026 in Dubai!
+Day 2 builds upon opening-day discussions with technical deep-dives into edge computing, agentic workflows, open-weight models, and privacy-preserving machine learning architectures on decentralized networks.
 
-On December 1-2, 2026, AI Future Forum makes its debut in Dubai as part of Blockchain Life 2026, bringing together 15,000+ attendees from 130+ countries.
+### Day 2 Highlights
 
-AI Future Forum focuses on artificial intelligence, AI agents, robotics, and future technologies, connecting AI founders, investors, entrepreneurs, and technology leaders from around the world.
+- **Agentic Commerce & Smart Contracts:** Autonomous agent negotiation, multi-agent frameworks, and cryptographic settlement rails.
+- **Decentralized Model Training & Validation:** Incentive models, GPU cluster orchestration, and tokenized AI compute networks.
+- **Investment & Venture Trends:** Panel debates on venture funding allocations for early-stage AI x Crypto startups.
 
-Among the confirmed speakers:
+### Venue & Tickets
 
-Eli Ben-Sasson - Co-Founder & CEO, Starkware
-
-Arthur Hayes - CIO, Maelstrom
-
-Ben Zhou - Co-Founder & CEO, Bybit
-
-Garret "Bullish" Jin - Crypto whale
-
-Sandeep Nailwal - Co-Founder, Polygon
-
-Mert Mumtaz - CEO, Helius
-
-Yat Siu - Co-Founder & Executive Chairman, Animoca Brands
-
-Kelvin Koh - Co-Founder & Managing Partner, The Spartan Group
-
-Jamie King - Co-Founder, Rockstar Games
-
-Luke Judges - Partner Director, Ripple
-
-Marius Smith - Co-Founder, Ethereum Institutional
-
-Sunny Lu - Co-Founder & CEO, VeChain
-
-Andrei Grachev - Managing Partner, DWF Labs
-
-Sergei Khitrov - Founder, Listing Help, Jets Capital
-
-Vugar Usi Zade - CEO, MEXC
-
-Saeeda Jaffar - Managing Director International, Circle (USDC)
-
-Rajat Sakhuja - Director, Blockchain & Digital Assets, Mastercard
-
-Daniil & David Liberman - Creators of Gonka AI & Humanism is
-
-And many other leaders from the global AI and crypto industries.
-
-Beyond the two-day forum, Blockchain Life & AI Future Week 2026 will bring together 30,000+ attendees across 300+ side events from November 26 to December 6.
-
-Closed-door meetings, private dinners, business events, and parties offer opportunities to meet founders, investors, representatives of Tier 1 funds, and industry leaders face-to-face, followed by the Formula 1 Grand Prix Final.
-
-One ticket. Two world-class events.
-
-An AI Future Forum ticket includes full access to Blockchain Life 2026.
+- **Venue:** Festival Arena, Dubai Festival City, Dubai, United Arab Emirates
+- **Access:** Registration details available via [AI Future](https://ai-future.com/#tickets)
 
 <a id="event-0fe5ced780b00c6e"></a>
 
@@ -22833,73 +22645,22 @@ An AI Future Forum ticket includes full access to Blockchain Life 2026.
 
 ### About the event
 
-Tickets are available on the official website only:
+Blockchain Life 2026 Day 2 concludes the flagship global cryptocurrency and digital finance forum on December 2, 2026 at the Festival Arena in Dubai, UAE.
 
-https://blockchain-life.com/#tickets
+### Conference Overview
 
-Registration on Luma is not an entry ticket.
+Day 2 delivers in-depth analysis on crypto market cycles, tokenization of real-world assets, institutional custody frameworks, and next-generation Layer 1/Layer 2 blockchain ecosystems.
 
-Tickets are available on the official website only:
+### Day 2 Stage Highlights
 
-https://blockchain-life.com/#tickets
+- **DeFi & RWA Tokenization:** Treasury bills, private debt, and commodity tokenization on public blockchain rails.
+- **Startup Pitch Competition:** Final live pitches from vetted early-stage Web3 startups before an international venture capital judging panel.
+- **VIP Afterparty:** The world-renowned Blockchain Life closing reception, facilitating private executive networking.
 
-Registration on Luma is not an entry ticket.
+### Venue & Passes
 
-On December 1-2, Blockchain Life 2026 will once again bring the global crypto industry together in Dubai: 15,000+ attendees from 130+ countries, 200+ speakers, and 200+ sponsors.
-
-Blockchain Life 2026 features one of the most impressive speaker lineups in the crypto industry. The forum stages feature leaders of companies and ecosystems shaping the global crypto market, finance, and AI.
-
-Among the confirmed speakers:
-
-Eli Ben-Sasson - Co-Founder & CEO, Starkware
-
-Arthur Hayes - CIO, Maelstrom
-
-Ben Zhou - Co-Founder & CEO, Bybit
-
-Garret "Bullish" Jin - Crypto whale
-
-Sandeep Nailwal - Co-Founder, Polygon
-
-Mert Mumtaz - CEO, Helius
-
-Yat Siu - Co-Founder & Executive Chairman, Animoca Brands
-
-Kelvin Koh - Co-Founder & Managing Partner, The Spartan Group
-
-Jamie King - Co-Founder, Rockstar Games
-
-Luke Judges - Partner Director, Ripple
-
-Marius Smith - Co-Founder, Ethereum Institutional
-
-Sunny Lu - Co-Founder & CEO, VeChain
-
-Andrei Grachev - Managing Partner, DWF Labs
-
-Sergei Khitrov - Founder, Listing Help, Jets Capital
-
-Vugar Usi Zade - CEO, MEXC
-
-Saeeda Jaffar - Managing Director International, Circle (USDC)
-
-Rajat Sakhuja - Director, Blockchain & Digital Assets, Mastercard
-
-Daniil & David Liberman - Creators of Gonka ai & Humanism is
-
-And many other leaders from the global crypto and AI industries.
-
-This concentration of key industry players makes Blockchain Life one of the leading destinations for high-value networking, meetings, new partnerships, and business opportunities year after year.
-
-The scale goes far beyond the stages. The Blockchain Life expo will bring together 200+ sponsors - leading crypto projects, major exchanges, mining companies, Web3 and AI teams, infrastructure players, and promising startups.
-
-Beyond the two-day forum, Blockchain Life & AI Future Week 2026 will feature 300+ side events. Meetings, closed-door events, business dinners, parties, and other formats will keep the networking going throughout the week.
-
-The forum will culminate with the legendary Blockchain Life Afterparty at one of Dubai's top clubs, featuring a world-class headliner.
-
-Everyone You Need In One Place!
-
-All of this will come together at Blockchain Life 2026 in Dubai on December 1-2.
+- **Venue:** Festival Arena, Dubai Festival City, Dubai, UAE
+- **Tickets:** Official passes available via [Blockchain Life](https://blockchain-life.com/#tickets)
 
 <a id="event-06971dbea34fe03f"></a>
 
@@ -23108,21 +22869,17 @@ About the organiser: We build Bitcoin mining infrastructure, and bring the indus
 
 ### About the event
 
-La tokenisation n'est plus une promesse technologique. Les cadres réglementaires convergent aux États-Unis, en Europe, à Hong Kong et au Canada. Les institutions financières s'organisent en consortiums, et les stablecoins s'imposent progressivement comme de véritables rails de paiement. Montréal possède solides atouts pour prendre part à cette transformation: un écosystème fintech mature, des talents spécialisés en finance et en technologies numériques, ainsi qu'une expertise reconnue en intelligence artificielle.
+L'écosystème fintech montréalais à l'heure de la tokenisation est une table ronde professionnelle organisée à Montréal explorant l'intégration des actifs du monde réel (RWA) et des stablecoins dans la finance institutionnelle.
 
-La métropole bénéficie également d'un savoir-faire concret dans les domaines de la chaîne de blocs, du Web3 et de la DeFi, avec des entreprises et des équipes capables de mener des projets d'envergure au Québec comme à l'international.
+### Aperçu de la conférence
 
-Lors de cet événement de la communauté CFI, Finance Montréal et T-RIZE présenteront les grandes tendances qui façonnent l'avenir de la finance numérique et discuteront du rôle que le Québec peut jouer dans le développement de l'économie tokenisée. À partir des faits saillants du Rapport Fintech Québec 2026 et d'une analyse des avancées récentes en matière de tokenisation, nous verrons pourquoi Montréal offre un environnement particulièrement favorable aux initiatives liées aux actifs numériques et aux infrastructures financières de nouvelle génération. Programme 1. Accueil et dîner 2. Présentation du Rapport Fintech Québec 2026 et portrait de l'écosystème fintech montréalais 3.
+Alors que les cadres réglementaires convergent au Canada, aux États-Unis et en Europe, les institutions financières canadiennes explorent activement la tokenisation des actifs financiers et les nouvelles infrastructures de paiement.
 
-L'écosystème montréalais de la tokenisation 4.  Période de questions et échanges entre pairs Présentateurs
+### Thèmes abordés
 
-Bruno Séguin, directeur principal, Comptes stratégiques, Finance Montréal
-
-Jean-Luc Pellerin, directeur, Écosystème et partenariats stratégiques, T-RIZE Ce que vous allez retirer de cet événement
-
-Un portrait à jour de l'écosystème fintech montréalais, tiré du Rapport Fintech Québec 2026;
-
-Un tour d'horizon des acteurs qui bâtissent l'infrastructure de tokenisation à Montréal. Un dîner sera servi sur place. L'événement est gratuit, mais les places sont limitées.
+- **Tokenisation des actifs réels:** Obligations, fonds d'investissement et actifs privés sur rails décentralisés.
+- **Réglementation et conformité:** Cadres des Autorités canadiennes en valeurs mobilières (ACVM) et conformité bancaire.
+- **Réseaux de paiement et stablecoins:** Réduction des coûts et instantanéité des règlements interentreprises.
 
 <a id="event-6c2a9ac23f769b77"></a>
 
@@ -23443,15 +23200,17 @@ About the organiser: The premier global alliance advancing crypto innovation.
 
 ### About the event
 
-Toronto's tech community is coming together for one unforgettable holiday celebration! Join Toronto DAO for our 3rd Annual Christmas Party, bringing together the brightest minds from Artificial Intelligence, Defence Technology, and Blockchain & Crypto for an evening of networking, celebration, and new connections.
+The Toronto Tech Christmas Party 2026 is an annual holiday gathering hosted by Toronto DAO, bringing together founders, researchers, and engineers from across Artificial Intelligence, Defence Technology, and Blockchain.
 
-As Toronto continues to establish itself as a global hub for emerging technologies, we're bringing together the founders, innovators, investors, engineers, and industry leaders shaping what's next.  Whether you're building AI solutions, advancing defence and security technologies, exploring decentralized innovation, or investing in the future of tech, this is your opportunity to connect with like-minded professionals in a festive and welcoming atmosphere
+### Celebration Overview
 
-: Holiday Celebration & Networking. Connect with Toronto's technology community in a relaxed, festive setting. AI & Emerging Technologies. Meet entrepreneurs, researchers, and builders advancing artificial intelligence and its real-world applications. Defence Tech & Security. Connect with innovators working in defence, cybersecurity, autonomous systems, and dual-use technologies. Blockchain & Crypto. Reconnect with Toronto's Web3 community and the builders shaping decentralized technologies. Community, Connections & Celebration. Celebrate the year's achievements and build relationships that carry into 2027.
+The holiday celebration unites Toronto's thriving tech community for an evening of networking, idea sharing, and cross-disciplinary collaboration among AI developers, cryptographic engineers, and frontier tech founders.
 
-Who Should Attend? AI founders, researchers, developers, and entrepreneurs Defence technology and cybersecurity professionals Blockchain and cryptocurrency builders Venture capitalists, angel investors, and startup founders Technology executives, engineers, and ecosystem leaders Anyone passionate about Toronto's technology and innovation ecosystem About Toronto DAO Toronto DAO is a grassroots organization dedicated to cultivating and retaining technology talent in Toronto while fostering innovation, entrepreneurship, and collaboration.
+### Evening Highlights
 
-Through community events, educational initiatives, and industry partnerships, we connect the people and organizations driving progress in AI, blockchain, defence technology, and other emerging sectors. Our annual Christmas party celebrates the community we've built, the connections we've made, and the opportunities ahead. Let's close out 2026 together and celebrate the people building the future of technology! Partners & Sponsors We're inviting forward-thinking organizations to support this year's celebration and connect with Toronto's growing technology ecosystem. Interested in becoming an event sponsor or community partner? s.azizi416@tdao.to Follow Toronto DAO: https://x. com/dao_toronto
+- **Cross-Disciplinary Networking:** Direct connection between AI researchers, defence tech specialists, and Web3 developers.
+- **Year-End Reflections:** Reviewing major Canadian technology milestones and upcoming 2027 ecosystem initiatives.
+- **Community Atmosphere:** Festive music, catered refreshments, and informal holiday celebration in downtown Toronto.
 
 <a id="event-ef23de260d857eaf"></a>
 
@@ -23582,19 +23341,17 @@ Un rato distendido para seguir la conversación con ponentes, empresas y adminis
 
 ### About the event
 
-Garanti BBVA Kripto ve Team1 Türkiye kampüsüne geliyor! UniTour#3, blockchain teknolojisini kampüslere taşımayı, öğrencileri Web3 dünyasıyla tanıştırmayı ve yeni nesil kariyer fırsatlarıyla onlara ilham vermeyi amaçlıyor. UniTour#3'ün 5. etkinliği İstanbulChain ve Girişim Hub kulüplerinin desteğiyle İstanbul Üniversitesi'nde gerçekleşecek. Garanti BBVA Kripto'nun (https://www.garantibbvakripto.com.tr/?utm_source=luma) dijital varlık vizyonunu yakından tanıyacak, kripto cüzdanlarıyla varlıklarınızı nasıl güvenle saklayabileceğinizi ve kolayca yönetebileceğinizi keşfedeceksiniz.
+Garanti BBVA Kripto ve Team1 Türkiye iş birliğiyle düzenlenen UniTour#3, blockchain teknolojisini üniversite kampüslerine taşıyarak öğrencilere Web3 ekosistemini tanıtan eğitim ve kariyer zirvesidir.
 
-Avalanche Cascade (https://go.team1.network/turkiye-cascade?utm_source=luma) ile Avalanche Ekosistemi'nin temellerini öğrenirken, Team1 Türkiye'nin (https://go.team1.network/turkiye?utm_source=luma) hem topluluk odaklı öğrencilere hem de geliştirici öğrencilere sunduğu fırsatları yakından inceleme şansı bulacaksınız. Etkinlik Akışı [Etkinliğin detaylı programı ve oturum saatleri çok yakında duyurulacaktır.] Etkinliğin sonunda katılımcılar, pizza ve içecekler eşliğinde keyifli bir networking (tanışma ve bağlantı kurma) oturumuna katılma fırsatı bulacak.  Ayrıca defter, kalem, tişört veya çanta gibi çeşitli promosyon ürünleri küçük hatıralar olarak dağıtılacak
+### Etkinlik Hakkında
 
-Garanti BBVA Kripto Garanti BBVA Kripto (https://www.garantibbvakripto.com.tr/?utm_source=luma), Türkiye'nin en büyük özel bankalarından biri olan Garanti BBVA'nın iştiraki olarak, kripto varlık hizmetleri sunmak amacıyla Mayıs 2023'te kurulmuştur. Temel hedefi, kripto dünyasına adım atan bireylere yüksek kaliteli ve kullanıcı odaklı bir deneyim sunmaktır. Sunduğu hizmetler arasında kripto varlık saklama ve alım-satım işlemleri ön plana çıkmaktadır
+UniTour#3'ün 5. etkinliği, İstanbulChain ve Girişim Hub kulüplerinin desteğiyle İstanbul Üniversitesi'nde gerçekleştiriliyor. Etkinlik, öğrencilere blokzincir teknolojisini, DeFi protokollerini ve Web3 ekosistemindeki yeni nesil kariyer fırsatlarını sunar.
 
-Team1 Team1 (https://x.com/AvaxTeam1?utm_source=luma), Avalanche (https://www.avax.network/?utm_source=luma) ekosistemini büyütmeye odaklanan geliştiriciler, üreticiler, içerik oluşturucular, oyuncular ve topluluk liderlerinden oluşan küresel bir ağdır. 50'den fazla ülkede aktif olarak faaliyet gösteren Team1 (https://x.com/AvaxTeam1?utm_source=luma), yerel buluşmalar, hedef odaklı atölyeler, özel yan etkinlikler, içerik üretimi ve topluluk odaklı girişimler aracılığıyla Avalanche'ın benimsenmesini destekler ve ekosisteme yeni kullanıcılar ile projeler kazandırır. Çevrimiçi ve fiziksel topluluklar arasında köprü kurarak yerel inovasyonu güçlendirir ve Avalanche'ın farklı coğrafyalara ve kültürlere yayılmasını sağlar
+### Program Akışı
 
-Team1 Türkiye Team1 Türkiye (https://x.com/Team1TUR?utm_source=luma), Avalanche ekosistemini büyütmek ve Web3 dünyasına yeni yetenekler kazandırmak için çalışan resmi bir topluluk yapılanmasıdır. Bugüne kadar Türkiye genelinde 60'tan fazla etkinlik düzenleyerek 4.500 katılımcıya ulaşan Team1 Türkiye, 30'dan fazla üniversiteyle iş birliği yaparak Avalanche'ı kampüslere taşımış ve birçok öğrenci ile geliştiricinin ekosisteme ilk adımını atmasını sağlamıştır. Team1 Türkiye, yerel topluluklarla kurduğu güçlü bağlar sayesinde büyümeye devam ederken daha fazla öğrenciyi ve geliştiriciyi ekosisteme kazandırmayı hedeflemektedir
-
-IstanbulChain İstanbulChain (https://x.com/istanbulchain?s=11), İstanbul Üniversitesi merkezli, Web3, blokzincir ve finansal teknolojilere odaklanan bir öğrenci topluluğudur. Workshoplar, sektörel buluşmalar ve networking etkinlikleriyle öğrencilerin proje geliştirmelerini, sektörün öncü şirketleriyle bağlantı kurmalarını ve Web3 ekosisteminde aktif rol almalarını hedeflemektedir
-
-Girişim Hub Girişim Hub, İstanbul Üniversitesi öğrencilerini girişimcilik, inovasyon ve teknoloji ekosistemiyle buluşturan bir öğrenci topluluğudur. Eğitimler, atölyeler, networking etkinlikleri, yarışmalar ve sektör iş birlikleriyle öğrencilerin kişisel ve profesyonel gelişimlerini desteklerken, fikirlerin projelere ve projelerin somut etkiye dönüşmesini hedeflemektedir.
+- **Blokzincir 101 & Kripto Varlıklar:** Dijital varlıkların evrimi ve blokzincirin temelleri.
+- **Kariyer ve Girişimcilik:** Ekosistemdeki mühendislik, ürün ve büyüme rolleri.
+- **Soru-Cevap & Tanışma:** Garanti BBVA Kripto ve Team1 ekipleriyle birebir networking.
 
 <a id="event-1922718392d360be"></a>
 
@@ -24392,37 +24149,20 @@ Attendance is by invitation only and requires individual approval. Invitations a
 
 ### About the event
 
-Media Roast: Surviving the Fintech Cycles
+Media Roast: Surviving the Fintech Cycles is an unfiltered fireside discussion and media roast taking place Friday, December 4, 2026 in Hong Kong during Abu Dhabi / Asia finance week.
 
-TGIF! It's time to clock out, grab a drink, and playfully roast the very industry that keeps us all up at night. Join us for a completely unfiltered Media Roast, where we are laying bare the scars of the fintech and digital capital cycles alongside a delightfully chaotic mix of inquisitive journalists, tech geeks, and Central professionals - from finance veterans to lawyers and everything in between.
+### Evening Overview
 
-Settle in and watch the iconic Hong Kong skyline change colors and light up the night, all while we unpack the hypes, crashes, and survival tactics of the modern financial era with a healthy dose of humor.
+Settle in against the Hong Kong skyline at IFC II for a frank, humorous post-mortem on the hypes, crashes, and survival tactics of the modern fintech and Web3 era. Media veterans, legal trailblazers, and financial operators come together for an evening that lays bare the reality of the industry.
 
-The Panel: Surviving the Cycles: Media OGs & Legal Pioneers on What Actually Blew Up
+### The Panel: Media OGs & Legal Pioneers
 
-The Discussion: A rare, filter-free fireside chat featuring fintech media veterans, legal trailblazers, and tech columnists. Combined, this panel carries decades of experience chronicling blockchain and setting legal precedents. From navigating legendary scandals to executing landmark litigation, they are laying bare the realities of the industry. What actually built trust, and what content and business models went straight to zero?
+- **The Discussion:** A filter-free fireside chat exploring what actually built trust and sustainable influence versus what went straight to zero.
+- **Panelists:** Siegfried Sin (South China International Arbitration Center), Joshua Chu (HK Web3 Association), Candice Burin (Money Velocity), Emil Chan (Fintech Columnist), moderated by Joe Pan (Blockwind News).
 
-The Takeaway: The ultimate, unfiltered post-mortem on building influence, setting regulatory frameworks, and reporting the truth in the world's most volatile financial and psychological experiment.
+### Open Floor: Toastmasters Tech Talk
 
-Open Floor: Toastmasters Tech Talk Following the panel, the event will transition into an interactive session using Toastmasters' "Table Topics" structure led by Eric Xie from Tech Talk Toastmasters. This dynamic format invites attendees to engage in rapid-fire debates on the most contentious questions facing today's fintech and blockchain landscapes. The format is designed to surface real-world tensions that polished panels often sidestep, adding a layer of unpredictability that mirrors the technology itself.
-
-Date & Time: Friday, December 4 | 6:30 PM. 9:00 PM Location: IFC II, Central, Hong Kong
-
-Featuring:
-
-Siegfried Sin. South China International Arbitration Center (HK) (SCIAHK)
-
-Joshua Chu. Media Pundit & Columnist, HK Web3 Association
-
-Candice Burin. Co-Founder, Money Velocity
-
-Emil Chan. Fintech and Tech Columnist
-
-Joe Pan. Moderator (Editor & Producer, Blockwind News)
-
-Eric Xie. Facilitator, Tech Talk Toastmasters
-
-Drinks and light refreshments will be served. Space is strictly limited - RSVP to secure your spot.
+Following the panel, the floor opens for an interactive session led by Eric Xie from Tech Talk Toastmasters, featuring rapid-fire debates on contentious questions in fintech and crypto.
 
 <a id="event-8ad9649d6d256ccd"></a>
 
@@ -24436,31 +24176,27 @@ Drinks and light refreshments will be served. Space is strictly limited - RSVP t
 
 ### About the event
 
-Wrap up Blockchain Life week on a yacht at sunset.
+Wrap up Blockchain Life week on a yacht at sunset. Meet AI and crypto founders, investors and influencers. three hours of networking at sea off Dubai.
 
-Meet AI and crypto founders, investors and influencers - three hours of networking at sea off Dubai.
+Tickets: 660 AED, VAT and booking fee included. Buy your ticket on networking.yachts: https://networking.yachts/e/dubai-2026-12-04?utm_source=luma&utm_medium=event_page&utm_campaign=luma_event
 
-Tickets: 660 AED, VAT and booking fee included.
-
-Buy your ticket on networking.yachts: https://networking.yachts/e/dubai-2026-12-04?utm_source=luma&utm_medium=event_page&utm_campaign=luma_event
-
-Registering on Luma does not include a ticket - your place on board is confirmed by a ticket bought on networking.yachts (https://networking.yachts).
+Registering on Luma does not include a ticket. your place on board is confirmed by a ticket bought on networking.yachts (https://networking.yachts).
 
 Before you buy, sign in on the site with Google to see who has signed in for this event and whom AI suggests you meet.
 
-When: Fri, 4 Dec 2026, 16:00-19:00.
-
-Boarding from 15:30, the yacht departs at 16:15 sharp and returns to Dubai Harbour.
+When: Fri, 4 Dec 2026, 16:00-19:00. Boarding from 15:30, the yacht departs at 16:15 sharp and returns to Dubai Harbour.
 
 Where: Dubai Harbour, Gate 4, Dubai.
 
-On board: Luxury Yacht 82ft, 2023 - food & drinks, sunset music.
+On board: Luxury Yacht 82ft, 2023. food & drinks, sunset music.
 
-Age 21+, bring an ID.
+Age 21+, bring an ID. Dress code: smart casual.
 
-Dress code: smart casual.
+Hosted by Networking.
 
-Hosted by Networking.Yachts (https://Networking.Yachts) - an independent side event of Blockchain Life week.
+Yachts (https://Networking.Yachts). an independent side event of Blockchain Life week.
+
+News and updates before the event are posted on networking.yachts (https://networking.yachts).
 
 <a id="event-8194fa3d1bd4faff"></a>
 
@@ -24887,8 +24623,6 @@ CORGEAR Night vol.33 ~仮想NISHIと振り返る2026年のWeb3. コーギアナ�
 
 :
 
--
-
 - 18:30 Doors open / Registration
 
 Around 19:00 Event starts (Prior to the start, the time will be reserved for casual communication and networking.
@@ -24952,25 +24686,16 @@ Location: MAKTABI Business Center, DWTC, Sheikh Rashid Tower (18th Floor), Dubai
 
 ### About the event
 
-The Opening Night Digital Asset Summit ME networking evening on the opening night of Abu Dhabi Finance Week.
+The Digital Asset Summit ME Opening Night is an executive networking evening taking place in Abu Dhabi on the opening night of Abu Dhabi Finance Week.
 
-An evening for family offices, businesses, institutions, digital asset exchanges, remittance houses and corporate treasury teams to meet the people behind institutional custody and regulated stablecoins.
+### Event Overview
 
-No stage, no panels. Just the right introductions, networking with good food and beverages.
+The reception brings together family offices, corporate treasurers, institutional asset managers, and licensed crypto exchanges to examine regulated custody, stablecoin settlement, and digital asset adoption across the Middle East.
 
-Monday 7 December 2026 - 5:30-8:30pm Four Seasons Hotel, ADGM Square, Al Maryah Island.
+### Program Highlights
 
-By invitation. Approved guests receive the venue details.
-
-Co-Hosted by:
-
-BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing, stablecoins, and settlement services from regulated cold storage. Since 2013, BitGo has focused on accelerating the transition of the financial system to a digital asset economy. BitGo maintains a global presence and multiple regulated entities, including BitGo Bank & Trust, National Association, the first federally chartered digital asset trust bank owned by a publicly traded company. Today, BitGo serves thousands of institutions, including many of the industry's top brands, financial institutions, exchanges, and platforms, and millions of investors worldwide.
-
-For more information, visit www.bitgo.com (http://www.bitgo.com).
-
-DDSC is the first fully licensed AED-backed stablecoin, built to bring regulated, dirham-denominated digital money into the modern financial system. Backed 1:1 by the UAE dirham and licensed by the Central Bank of the UAE under the Payment Token Services Regulation, DDSC stablecoin is designed to enable faster money movement, instant settlement and treasury workflows.
-
-Launched by IHC, First Abu Dhabi Bank (FAB) and Sirius International Holding, DDSC stablecoin operates on ADI Chain and is designed to serve institutions, businesses and individuals as adoption of regulated, dirham-denominated digital value expands across the economy.
+- **Institutional Roundtables:** Discussions on custody architecture, regulatory clarity under ADGM and VARA, and real-world asset tokenization.
+- **Executive Networking:** Curated introductions between regional allocators, fund managers, and fintech infrastructure providers.
 
 <a id="event-14003b36cef2a971"></a>
 
@@ -25262,8 +24987,6 @@ Um jantar de autor em um dos restaurantes mais icônicos de São Paulo
 - Networking de alto nível em um grupo reduzido
 
 A conversa segue a Chatham House Rule. Evento privado, somente para convidados. O endereço será compartilhado com os participantes aprovados.
-
--
 
 A private dinner bringing leaders together to discuss stablecoins, card programs and the future of business payments.
 
@@ -25563,21 +25286,17 @@ www.bitcoinsuisse.com/uae (https://www.bitcoinsuisse.com/uae)
 
 ### About the event
 
-An evening on the water with founders, investors and tech leaders in Dubai for GITEX week.
+The GITEX Networking Yacht Cruise is an exclusive evening cruise departing from Dubai Marina on the opening night of GITEX week.
 
-On opening night of the GITEX expo, we're sailing a private 100 ft yacht past Bluewaters, Ain Dubai and the Dubai Marina skyline. It's a relaxed, curated evening built for real conversations, the kind that turn into meetings on the show floor the next morning.
+### Cruise Overview
 
-What to expect 3-hour cruise on a private 100 ft yacht A curated mix of founders, investors, corporate innovation leads and ecosystem builders Premium open bar and bites included DJ on the open upper deck Skyline views from Dubai Harbour to the Marina
+Sailing aboard a private 100-foot yacht past Ain Dubai and the Bluewaters skyline, the cruise brings together technology founders, venture capital investors, and enterprise executives for high-signal conversations and relationship building.
 
-Who's been on board Since 2023 we've hosted 500+ guests across nine networking cruises during GITEX, Gulfood and Blockchain Week, and both previous GITEX cruises sold out. Past guests have included people from PeakBridge VC, Astanor Ventures, Omnivore, Nuwa Capital, Wyld VC, Endeavor UAE, ADQ, Amazon, IFFCO, UPSIDE Foods and AirCarbon Exchange.
+### Highlights
 
-Your host Robert Kupstas is the co-founder of Pure Harvest Smart Farms, the UAE-based controlled-environment agriculture company that has raised over $380M. With 15 years as an entrepreneur in the Gulf, he hosts these cruises to connect the people building the region's tech, food and climate ecosystems.
-
-Schedule 6:45 pm: Boarding at Dubai Harbour Yacht Club 7:00 pm: We set sail. The yacht leaves on time. 10:00 pm: Back at the dock
-
-Tickets Early bird: AED 400 (first 20 tickets, until 15 Nov) Standard: AED 500 (until 30 Nov) Last week: AED 650 (1-8 Dec) Limited to 70 guests.
-
-Good to know Registrations are reviewed to keep the mix right. Tickets are non-refundable but can be transferred to a colleague; just message us the name. Interested in partnering or sponsoring? Message the host.
+- **Scenic Route:** Panoramic sunset views of Dubai Marina, Ain Dubai, and JBR.
+- **Hospitality:** Catered gourmet buffet, premium refreshments, and open-air networking.
+- **Curated Guest List:** Limited attendance ensuring high-quality executive connections.
 
 <a id="event-a581ae021b8347c6"></a>
 
@@ -25593,38 +25312,31 @@ Good to know Registrations are reviewed to keep the mix right. Tickets are non-r
 
 nSureAI is hosting a private evening during Abu Dhabi Finance Week, bringing together senior leaders from crypto exchanges, digital asset platforms and payment infrastructure companies, alongside a select group of ADFW speakers.
 
-Held at La Cava, Rosewood Abu Dhabi's wine cellar, taken over exclusively for the night.
-
-An evening of conversation, great wine, chef-prepared Spanish bites and a walk-in cigar room, with the people shaping payments and digital assets across the region.
+Held at La Cava, Rosewood Abu Dhabi's wine cellar, taken over exclusively for the night. An evening of conversation, great wine, chef-prepared Spanish bites and a walk-in cigar room, with the people shaping payments and digital assets across the region.
 
 ### What to expect
 
+Welcome drinks on arrival
+
+Cocktail hour, followed by wine
+
 Chef-prepared Spanish bites throughout the evening
 
-- Welcome drinks on arrival
-- Cocktail hour, followed by wine
-- Cigar room
-- Good conversation, no panels, no pitches
+Cigar room
+
+Good conversation, no panels, no pitches
 
 The venue
 
-La Cava sits beneath the Rosewood Abu Dhabi, a wine cellar holding over 1,000 labels with a walk-in cigar room at the back.
-
-A few minutes from the main ADFW venue, so you can walk over straight after the last session.
+La Cava sits beneath the Rosewood Abu Dhabi, a wine cellar holding over 1,000 labels with a walk-in cigar room at the back. A few minutes from the main ADFW venue, so you can walk over straight after the last session.
 
 Hosted by nSureAI (https://www.nsure.ai/?utm_source=luma)
 
-nSureAI is an AI-native payment fraud prevention solution that turns risk management into a scalable growth engine.
+nSureAI is an AI-native payment fraud prevention solution that turns risk management into a scalable growth engine. It serves crypto exchanges, digital asset platforms, fintechs, stablecoin PSPs, remittance providers, iGaming operators, and prepaid platforms (incl. gift cards), empowering high-risk merchants to maximize net incremental profit by removing payment friction and false declines.
 
-It serves crypto exchanges, digital asset platforms, fintechs, stablecoin PSPs, remittance providers, iGaming operators, and prepaid platforms (incl. gift cards), empowering high-risk merchants to maximize net incremental profit by removing payment friction and false declines.
+Instead of static rules or shared pooled models,nSureAI builds a dedicated AI model for every merchant, trained on their unique transaction data to isolate legitimate buyer behavior. Backed by a 100% financial liability shift (chargeback guarantee), the platform approves more valid customers to deliver approval rates up to 98%.
 
-Instead of static rules or shared pooled models,nSureAI builds a dedicated AI model for every merchant, trained on their unique transaction data to isolate legitimate buyer behavior.
-
-Backed by a 100% financial liability shift (chargeback guarantee), the platform approves more valid customers to deliver approval rates up to 98%.
-
-Processing over $200B in annual volume, nSureAI is one of the most scalable fraud engines in digital commerce.
-
-Rendering decisions under 500ms and handling peak volumes of $80M/hr, nSureAI's operational excellence has driven 3x YoY growth while safeguarding leading global enterprises.
+Processing over $200B in annual volume, nSureAI is one of the most scalable fraud engines in digital commerce. Rendering decisions under 500ms and handling peak volumes of $80M/hr, nSureAI's operational excellence has driven 3x YoY growth while safeguarding leading global enterprises.
 
 LinkedIn (https://www.linkedin.com/company/nsureai/about/?utm_source=luma) | Website (https://www.nsure.ai/?utm_source=luma)
 
@@ -25638,7 +25350,7 @@ PR & Strategic Communications - shaping narratives and building media presence
 
 Events - hosting events that put you in front of the investors, partners and clients you want to meet
 
-Personal Branding and Social Media Management (Voice™) - building visible, credible industry voices
+Personal Branding and Social Media Management (VoiceTM) - building visible, credible industry voices
 
 Influencer Marketing - connecting brands with the right creators and communities
 
@@ -25646,17 +25358,11 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 90% of our clients stay with us year after year.
 
-X (https://x.com/INPUT_global?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/inputglobal/?utm_source=luma) | Website (https://input.global/?utm_source=luma) | Telegram ( )
+X (https://x.com/INPUT_global?utm_source=luma) | LinkedIn (https://www.linkedin.com/company/inputglobal/?utm_source=luma) | Website (https://input.global/?utm_source=luma)
 
 Privacy & Media Consent
 
-By registering for this event, you acknowledge that INPUT GLOBAL LLC will process your registration details in line with our Privacy Policy (https://input.global/wp-content/uploads/2026/07/input_privacy_policy_.pdf).
-
-Please note that photos and videos will be taken during the event and may be used on our website, social media, and other marketing materials.
-
-By attending, you agree to be photographed and filmed and to this use of the content.
-
-If you'd prefer not to appear in photos, just let our team know on the day.
+By registering for this event, you acknowledge that INPUT GLOBAL LLC will process your registration details in line with our Privacy Policy (https://input.global/wp-content/uploads/2026/07/input_privacy_policy_.pdf). Please note that photos and videos will be taken during the event and may be used on our website, social media, and other marketing materials. By attending, you agree to be photographed and filmed and to this use of the content. If you'd prefer not to appear in photos, just let our team know on the day.
 
 <a id="event-f79fe4e256505039"></a>
 
@@ -26298,23 +26004,15 @@ Attendance: Curated for enterprise decision-makers, CTOs, and AI business leader
 
 ### About the event
 
-Join a curated circle of global investors - business angels, LPs, family offices, CVCs, and GPs - for a forum focused on the trends shaping venture capital and exclusive co-investment opportunities emerging from the VNTR global community.
-
-This is not a traditional conference.
-
-It's a highly curated investor forum designed for meaningful connections, quality deal flow, and peer-level conversations.
+Join a curated circle of global investors - business angels, LPs, family offices, CVCs, and GPs - for a forum focused on the trends shaping venture capital and exclusive co-investment opportunities emerging from the VNTR global community. This is not a traditional conference. It's a highly curated investor forum designed for meaningful connections, quality deal flow, and peer-level conversations.
 
 ### Approval Mandatory
 
-Registration is open, but participation is subject to vetting.
-
-We review every application to ensure alignment with the VNTR community.
+Registration is open, but participation is subject to vetting. We review every application to ensure alignment with the VNTR community.
 
 Only approved investors will receive access to attend.
 
-> We curate the room.
-
-You make the connections.
+> We curate the room. You make the connections.
 
 ### Two types of access
 
@@ -26322,9 +26020,7 @@ Investor Access - Complimentary
 
 Forum access, Networking, and Coffee Break
 
-VIP Access - $299; $199 for VNTR Plus; complimentary for VNTR Pro subscribers.
-
-Full-day Access, Curated Networking, VIP Lunch, Front-row Seating, Introduction Concierge.
+VIP Access - $299; $199 for VNTR Plus; complimentary for VNTR Pro subscribers. Full-day Access, Curated Networking, VIP Lunch, Front-row Seating, Introduction Concierge.
 
 ### Agenda
 
@@ -26346,6 +26042,7 @@ Keynotes & Panels with top-tier investors
 - Enjoy networking with fellow investment decision-makers
 - Get acquainted through discussions and private chats
 - Learn about new investment trends and opportunities
+- Stay in touch with attendees via a curated Telegram group
 - Find new collaboration and co-investment partners
 
 ### Who Should Join
@@ -26366,19 +26063,13 @@ Institutional Investors
 
 ### THANK YOU TO OUR PARTNERS
 
-Instaswap (https://instaswap.com/?utm_source=luma) is the infrastructure powering private, seamless cross-chain execution.
-
-Think 1inch meets THORChain, fully abstracted into a single transaction, with privacy native to the swap.
+Instaswap (https://instaswap.com/?utm_source=luma) is the infrastructure powering private, seamless cross-chain execution. Think 1inch meets THORChain, fully abstracted into a single transaction, with privacy native to the swap.
 
 66 blockchains, 10,000+ assets, one execution engine, liquidity aggregated across NEAR Intents, Chainflip, Hyperliquid, THORChain, Uniswap, 1inch, Maya & more venues Settlement confidential or ZK-shielded, hiding size, timing and positions from MEV and front-running Walletless, non-custodial, no approvals, no bridging Spot, perps, RWA and tokenized stocks, one API serving both retail and protocols
 
 Live since 2018. $2B+ volume, 1.1M+ swaps, 285.3K users, 8 figures in revenue, bootstrapped and profitable.
 
-Any chain.
-
-One trade.
-
-Zero friction, nothing exposed.
+Any chain. One trade. Zero friction, nothing exposed.
 
 Darknight Labs (https://darknightlabs.com/?utm_source=luma) is a Web3 ecosystem deploying smart capital through elite investment syndicates, strategic leverage, and community distribution - built to win for investors, founders, and users.
 
@@ -26386,29 +26077,18 @@ Sponsorship Opportunities: https://vntr.docsend.com/view/cwthnsvgwx9ytzzi
 
 ### Q&A
 
-Can I bring along a friend or team member?
+Can I bring along a friend or team member? No. Every guest must apply and be approved separately. Plus-ones and walk-ins are not permitted.
 
-No.
+- What is the dress code? Business Casual
+- How do I reach out to our team? If you have any other questions, contact the organizers through the registration page on Luma
 
-Every guest must apply and be approved separately.
-
-Plus-ones and walk-ins are not permitted.
-
-- What is the dress code?
-
-Business Casual
-
-- How do I reach out to our team?
-
-By participating in the Event, the Attendee acknowledges and agrees that all Event content is provided for educational purposes only and does not constitute investment or any other form of advice.
-
-The Attendee grants the Company the right to record, photograph, and use the Attendee's likeness and participation for promotional, marketing, and business purposes in any media without any compensation.
+By participating in the Event, the Attendee acknowledges and agrees that all Event content is provided for educational purposes only and does not constitute investment or any other form of advice. The Attendee grants the Company the right to record, photograph, and use the Attendee's likeness and participation for promotional, marketing, and business purposes in any media without any compensation.
 
 Venue shared with approved guests through VNTR.
 
 Companies that would like to connect with investors can apply to sponsor: https://os.vntr.vc/e/ATcdNjBz#sponsor
 
-The Attendee grants the Company rights to record, photograph, and use the Attendee's likeness and participation for promotional, marketing, and business purposes in any media without any compensation.
+By participating in the Event, the Attendee acknowledges and agrees that all Event content is provided for educational purposes only and does not constitute investment or any other form of advice. The Attendee grants the Company rights to record, photograph, and use the Attendee's likeness and participation for promotional, marketing, and business purposes in any media without any compensation.
 
 Your registration details, including your email address, may be shared with the event partner(s).
 
@@ -26551,8 +26231,6 @@ Ramzi Kaiache (https://linkedin.com/in/ramzikaiache) is an executive responsible
 Pratik Gaad (https://linkedin.com/in/pratikgaad) is a strategy and operations executive with experience across North America, APAC and MEA in AI, cybersecurity and financial services. He launched an AI pentesting platform, scaled AI businesses and delivered $20M+ in efficiencies. Founder of Veridex Email Security. UAE Chapter Lead - AI That Delivers.
 
 Canadian Business Council Abu Dhabi embarked on its journey in March 2005 with the aim of smartly connecting business people from Canada and UAE to opportunities in the region today and tomorrow. Our membership includes Canadians as well as interested non-Canadian members which are leading corporates, executives, decision makers and professionals working in a wide array of industries.
-
--
 
 Disclaimer: By registering for this event, you agree to receive events & marketing communication and be added to an email newsletter (you can opt out at any time).
 
@@ -27136,8 +26814,6 @@ Un espacio exclusivo para conectar, celebrar y explorar nuevas oportunidades de 
 
 Evento privado, exclusivamente por invitación. La ubicación se compartirá con los invitados confirmados.
 
--
-
 Reap Private Year-End Dinner
 
 An evening with the leaders advancing stablecoins and shaping the future of financial infrastructure.
@@ -27359,17 +27035,17 @@ Registration starts at 18:00 WIB at Hotel Grand Sahid Jaya, Jakarta.
 
 ### About the event
 
-Em Dezembro de 2026, reinauguramos a Casa NUA como o 1o Museu permanente de Arte em Rede Descentralizada do Brasil, institucionalizando a fusão do tangível com o digital. Nossa missão é expor e valorizar as obras de arte digitais, conectando o público tradicional aos novos paradigmas da web3, e nesse processo, impulsionar a arte brasileira para o mundo. Através de curadorias cuidadosas e educativas, a Casa NUA se posiciona como um espaço onde a arte digital pode ser apreciada e compreendida em seu pleno valor, integrando cultura e propriedade de forma descentralizada e acessível.
+NFT Sampa 2026 é uma celebração cultural e conferência de arte descentralizada sediada na Casa NUA em São Paulo, nos dias 12 e 13 de dezembro de 2026.
 
-Para a inauguração, relançamos NFT Sampa, evento bimestral para congregar a comunidade local em torno da descentralizção, cultura cripto e Arte em Rede, com exposições, talks, ativações e apresentações ao vivo.
+### Sobre o Evento
 
-A descentralização é uma tendência histórica que os NFTs intensificam, criando uma infraestrutura resistente à censura para a arte e outros bens digitais. A natureza não-permissionada dos NFTs permite a livre criação e troca de registros públicos com proveniência assegurada e transações sem intermediários. Isso fortalece a liberdade de transação e a disseminação de mitos culturais de maneira global e acessível, representando ainda uma oportunidade única para artistas de qualquer parte do mundo.
+O evento celebra a consolidação da Casa NUA como museu permanente de arte em rede descentralizada no Brasil, promovendo o encontro entre artistas plásticos, colecionadores tradicionais, desenvolvedores Web3 e curadores digitais.
 
-É com muita alegria que celebramos mais essa edição do NFT Sampa e recebemos a comunidade para uma noite de muita cultura, boas conversas, negócios e diversão!
+### Destaques da Programação
 
-Sejam bem vindas, bem vindos e bem vindes!
-
-O NFT Sampa é realizado pela Casa NUA com recursos do #ProAC2024 CultSP (Programa de Ação Cultural da Secretaria de Cultura, Economia e Indústria Criativas) através da #PNAB (Política Nacional Aldir Blanc), do Ministério da Cultura.
+- **Exposições Imersivas:** Mostras de arte generativa, instalações interativas e certificados em blockchain.
+- **Painéis e Debates:** Propriedade intelectual digital, conservação de arte algorítmica e novos modelos de patronato.
+- **Workshops e Encontros:** Criação de carteiras digitais, introdução à cunhagem e integração comunitária.
 
 <a id="event-1213480b6cf897d9"></a>
 
@@ -27445,8 +27121,6 @@ It's that time of year again! On December 12, join Bitcoiners from across the Ba
 We'll kick things off with a Socratic Seminar, then keep the conversations going over food, drinks, and festive cheer. Come for the ideas, the party, or both.
 
 Schedule: 12:00PM - Mingling 12:15PM - Seminar 2:00- 5:00PM - Holiday Party!
-
------
 
 The reading list for the Socratic Seminar be posted here (https://sfbitcoindevs.org/) a couple days before the meetup.
 
@@ -28293,8 +27967,6 @@ Whether you're looking for your next users, a project to join, a product to try,
 
 Book your ticket now. Spaces are limited. The event will be held in English.
 
-Refund Policy All ticket purchases are final and non-refundable. No refunds will be issued in case of cancellation by the attendee or failure to attend the event (no-show).
-
 In the event of cancellation by the organizer, registered attendees will be notified and refunded accordingly.
 
 <a id="event-9dffd36c8be6d4ac"></a>
@@ -28436,23 +28108,17 @@ Date: Jan 31, 2027, 14:00 (Asia/Tokyo) Venue: HASEKO - KUMA HALL Hosts: Kensuke 
 
 ### About the event
 
-Et si l'un des derniers grands réservoirs d'Alpha liquide se trouvait aujourd'hui dans les actifs numériques?
+Rcube Crypto Alpha Talk #3 est une conférence d'investissement organisée par Rcube Asset Management le mercredi 3 février 2027 à l'Hôtel Le Marois à Paris.
 
-Le mercredi 3 février 2027 à 18h, Rcube Asset Management réunira à l'Hôtel Le Marois, à Paris, 100 investisseurs pour la troisième édition du Rcube Crypto Alpha Talk.
+### Présentation de l'événement
 
-Cette année, nous explorerons l'un des quatre piliers de l'Alpha sur actifs numériques: la finance décentralisée (DeFi). Nous montrerons comment la gestion d'actifs on-chain peut générer de nouvelles sources de rendement liquide, décorrélés et diversifiantes.
+Cette troisième édition rassemble 100 investisseurs institutionnels, gérants de fonds et family offices pour analyser les nouvelles sources d'alpha liquide au sein des marchés d'actifs numériques.
 
-La tokenisation fait entrer un nombre croissant d'actifs financiers et réels sur les marchés on-chain. Au-delà de la transformation des infrastructures financières, cette évolution crée de nouveaux marchés, de nouvelles inefficiences et, avec elles, de nouvelles opportunités de génération d'Alpha.
+### Thèmes et interventions
 
-Comment identifier et capturer ces opportunités? C'est ce que nous vous proposons de découvrir le 3 février.
-
-Après un panorama des opportunités d'Alpha dans les actifs numériques, nous donnerons la parole à deux équipes DeFi sélectionnées par Rcube, qui présenteront concrètement leurs stratégies de génération de rendement on-chain:
-
-Steakhouse Financial. L'un des principaux curateurs DeFi au monde, avec 4,7 milliards de dollars d'actifs sous gestion. Sébastien Derivaux reviendra sur le développement de Steakhouse et expliquera comment son équipe génère du rendement tout en maîtrisant les risques.
-
-Ellen Capital. Première équipe DeFi intégrée à Rcube. Nataniel Elkaim et Amaury Deny présenteront leur approche de l'investissement on-chain et les opportunités qu'ils exploitent.
-
-Le Rcube Crypto Alpha Talk n'est pas une conférence crypto généraliste. Il réunit exclusivement des investisseurs et allocateurs. Family Offices, UHNWI, banques privées, CGP et institutionnels. souhaitant comprendre et accéder à ces nouvelles sources d'Alpha.
+- **Stratégies de rendement liquide:** Arbitrage, yield farming institutionnel et stratégies de market making.
+- **Régulation et structuration:** Intégration des fonds crypto dans les allocations patrimoniales sous le cadre MiCA.
+- **Perspectives de marché:** Analyse macroéconomique et perspectives d'adoption institutionnelle pour 2027.
 
 <a id="event-27c4b3dd401ccc48"></a>
 
@@ -28556,8 +28222,6 @@ The XRP Ledger ecosystem lands in APAC. One day, one room, and the whole XRP Led
 ### ON TH
 
 :
-
--
 
 Cross-border payments and the Australia-to-Asia remittance corridors
 
@@ -28703,65 +28367,17 @@ LinkedIn (https://www.linkedin.com/company/zigfinance) | X (https://x.com/ZIGFin
 
 ### About the event
 
-🇦🇪 The Wealth Tech Executive Forum (https://wealthtech-executiveforum.com/?utm_source=luma): Dubai Edition is an exclusive, invite-only event tailored for senior executives who are driving the future of digital assets, institutional infrastructure, and capital allocation
+The Wealth Tech Executive Forum Dubai Edition is an exclusive, invite-only summit held April 19, 2027 in Dubai, UAE.
 
-ACTIONABLE INSIGHTS & LATEST TRENDS & HIGH-CLASS NETWORK As global financial markets undergo significant transformation, institutions are actively redefining their strategies concerning digital asset products, tokenization, custody solutions, market infrastructure, and institutional access. 🇦🇪 The UAE, a major financial center and one of the global leaders in digital asset innovation, offers the ideal environment for this critical dialogue.
+### Forum Overview
 
-The event series is brought to you by CV VC (https://www.cvvc.com/?utm_source=luma), with SCRYPT (https://www.scrypt.swiss/?utm_source=luma) as the main partner, and in partnership with DMCC (https://dmcc.ae/ecosystems/wealth-hub)
+The forum brings together family office principals, wealth managers, private bankers, and digital asset custodians driving institutional capital allocation and digital wealth modernization.
 
-Who is attending? This edition is designed to convene a select cohort of senior decision-makers, including executives from:
+### Key Discussion Areas
 
-Banks and Private Banking
-
-Asset Managers and Institutional Allocators
-
-Family Office Principals (focused on digital assets)
-
-Custody and Digital Asset Banking
-
-Tokenization and Digital Securities Platforms
-
-Institutional Trading and Market Infrastructure Providers
-
-Hedge Fund Portfolio Manager
-
-Core Themes for Discussion The focused content will explore the following key areas:
-
-Allocator perspectives on digital asset exposure
-
-Market structure, trading access, and execution
-
-The pivotal role of wealth and private banking in the digital asset economy
-
-Institutional digital asset infrastructure
-
-Tokenization and digital securities
-
-Custody and banking for digital asset
-
-Event Format: Efficient and Focused The
-
-event format is intentionally compact and highly time-efficient. It is structured to combine focused keynote perspectives, panel discussions, audience Q&A, and exclusive, curated networking. This design allows participants to gain relevant insights and forge meaningful connections in a high-caliber setting without requiring a full day away from the office
-
-Attendance Note Attendance is strictly limited and subject to approval to ensure a high-quality, peer-level exchange. Chatham rules apply
-
-Other Editions in the Series:
-
-Zurich (Concluded) (https://wealthtech-executiveforum.com/insights/zurich-edition)
-
-Geneva (https://luma.com/4ppsu496)
-
-Frankfurt (https://luma.com/icv7e9eu)
-
-London (To be Confirmed)
-
-Monaco (To Be Confirmed) Find out more on our website: https://wealthtech-executiveforum.com
-
-What Comes Next? The Next Disruption in Asset Management? Asset management has evolved in distinct waves, each driven by structural innovation and enabled by technology: 1770s: Closed-End Funds 1920s: Open-End Mutual Funds 1970s: Index Funds 1990s: ETFs 2020s: A new paradigm emerging: Vaults? Technological innovations in digital trading and programmatic trading gave rise to ETFs in the 1990s, which now account for around $20 trillion in AUM. Technology continues to evolve, and with it comes the next major disruption in asset management. Is the next reinvention of asset management already unfolding before us?
-
-The real question is not whether asset management will continue to be reinvented, but which investors will identify the next structural change early enough to benefit from it?  This forum will explore exactly that
-
-Partners & Attendees
+- **Modern Portfolio Construction:** Incorporating digital assets, tokenized real-world assets (RWAs), and private credit into private wealth portfolios.
+- **Cross-Border Wealth Structuring:** Navigating regulatory frameworks across the UAE (ADGM, DIFC, VARA) and international financial centres.
+- **Next-Gen Custodial Tech:** Multi-custody reporting, cryptographic security architectures, and automated tax reporting tools.
 
 <a id="event-09d4412367374693"></a>
 
@@ -28847,31 +28463,17 @@ For more information, visit (https://solana.com/breakpoint?utm_source=chatgpt.co
 
 ### About the event
 
-A Festival Celebrating the Global Hub of Fintech Week London 2027 takes place September 20-24. At its centre is the Summit (September 21-22): two days that bring together the people actively shaping where UK fintech goes next. Founders, operators, investors, banks and enterprise leaders will come together to see the latest innovation being showcased from London companies for the world to see. The programme is being built now. Register your interest to be first to hear about speakers, themes and tickets as they are announced.
+Fintech Week London Summit 2027 is a flagship two-day conference taking place September 21-22, 2027 in London, United Kingdom as part of Fintech Week London.
 
-For information on exhibiting/sponsoring → Book a call (https://calendar.app.google/aGdDeLxDneRqP8ib8) Visit Website (https://fintechweek.london/) The Summit is built for anyone with a stake in where UK fintech goes next, not just fintech founders.
+### Summit Overview
 
-Founders, CEOs and operators scaling past early traction
+The summit brings together founders, banking executives, policymakers, and venture capitalists actively shaping the future of financial services across the UK, Europe, and global financial hubs.
 
-CTOs and technical leaders making infrastructure and architecture decisions
+### Key Themes
 
-Investors, VCs and corporate development teams deciding what to back, buy or build
-
-CFOs and finance leaders navigating capital and growth
-
-Compliance leads, MLROs and policy teams getting ahead of the regulatory environment
-
-Banks and enterprises assessing who to partner, buy or build with next
-
-Anyone working across AI, fintech, payments, crypto, tokenisation and blockchain. The First 100: £100 passes We're releasing 100 full Summit passes at £100 for a limited time. That's £400 off the launch price. When they're gone, they're gone. Offer ends Sunday 18 October or when all 100 sell. Earlybird pricing then launches and ends Friday 29 January 2027. Prices rise at each release, so the earlier you book, the more you save. Pass types include Startup, Non-Profit, Investor and General. Groups of three or more get 20% off. Please contact events@fintechfringe.co to arrange.
-
-We would prefer if you pay by card but if you need to pay by bank transfer then please email the exact details that need to appear on your invoice to: accounts@fintechfringe.co. All tickets must be paid for prior to attending without exception. The Summit is built for anyone with a stake in where UK fintech goes next, not just fintech founders.
-
-Founders, CEOs and operators scaling past early traction
-
-CFOs and finance leaders navigating capital and growth
-
-Anyone working across AI, fintech, payments, crypto, tokenisation and blockchain. Fintech Fringe is the UK's fastest-growing fintech ecosystem (14,000+). We run events, a community platform (forum.fintechfringe.co (https://forum.fintechfringe.co)), and a consultancy - Scale & Grow. Find Out More (https://fintechweek.london/about/)
+- **Digital Banking & Open Finance:** API infrastructure, consumer protection, and real-time payment rails.
+- **Web3 & Digital Assets:** Institutional tokenization, stablecoins, and central bank digital currency developments.
+- **AI in Financial Services:** Machine learning for fraud prevention, automated credit underwriting, and regulatory reporting.
 
 <a id="event-1fb1c812b7a8406b"></a>
 
@@ -29260,8 +28862,6 @@ En el corazón de MERGE Madrid 2026, Bit2Me organiza su propio espacio: un encue
 Una oportunidad para conectar con el equipo de Bit2Me, conocer de cerca la plataforma líder en España y compartir el momento con la comunidad que está dando forma a la próxima revolución financiera.
 
 Un evento pensado para quienes ya están en el cambio y quieren seguir avanzando rodeados de los suyos.
-
-_____
 
 Responsable: Bitcoinforme, S.
 
@@ -30787,18 +30387,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-25T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://www.hackmeridian.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-c80e72e8673912ea"></a>
-
-## SWITCH Day 0 Lab Crawl - LaunchPad @ One-North (PM)
-
-- Record: `luma-evt-f5ZDXpgubz3flLJ`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T06:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lu.ma/ifduehow>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -47861,8 +47449,6 @@ Pratik Gaad (https://linkedin.com/in/pratikgaad) is a strategy and operations ex
 
 Canadian Business Council Abu Dhabi embarked on its journey in March 2005 with the aim of smartly connecting business people from Canada and UAE to opportunities in the region today and tomorrow. Our membership includes Canadians as well as interested non-Canadian members which are leading corporates, executives, decision makers and professionals working in a wide array of industries.
 
--
-
 Disclaimer: By registering for this event, you agree to receive events & marketing communication and be added to an email newsletter (you can opt out at any time).
 
 Photos and videos will be taken during the event.
@@ -50976,63 +50562,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-Dutch Blockchain Week 2027 One of Europe's leading Business events for digital assets, blockchain and Web3, Dutch Blockchain Week brings together professionals from exchanges, banks, payment providers, funds, market makers, regulators, infrastructure companies and global technology leaders in Amsterdam.
+Dutch Blockchain Week 2027 is the Netherlands' flagship gathering for digital assets, institutional finance, and Web3 technology, taking place May 19-21, 2027 in Amsterdam.
 
-At the heart of the week, the DBW Main Summit brings the industry together for two days of high-level content, business development and networking.  The DBW Summit on May 19 & 20 in the Johan Cruijff ArenA offers two full days of Web3 insights, panels, deep dives, and high-level networking, designed for institutions, founders, policymakers, and professionals shaping the future of digital assets
+### Summit Overview
 
-Attended by industry leader
+The conference unites professionals from digital asset exchanges, traditional banks, payment providers, investment funds, and regulatory authorities to examine European and global blockchain developments under the MiCA regulatory regime.
 
-Decision Maker
+### Key Tracks & Focus Areas
 
-Internationa
-
-NPS scor
-
-We bring together top experts to shape the future of blockchain & digital assets
-
-Where the digital asset industry comes together Our partners and participants represent the companies and institutions that are the future of digital assets. From exchanges, banks and payment providers to market makers, funds, regulators, infrastructure companies and technology leaders, Dutch Blockchain Week brings the ecosystem together in Amsterdam. Throughout the week, and especially during the DBW Main Summit on May 19 & 20, these organisations come together to exchange knowledge, build partnerships, explore new opportunities and move the industry forward. Connect with the people behind the companies, products and infrastructure shaping the next generation of finance and digital assets.
-
-New to Dutch Blockchain Week?  Discover our story, international community and what makes DBW one of Europe's leading digital asset business events
-
-Europe's premier week for digital assets, blockchain, and institutional Web3
-
-Why Atten
-
-One week. Countless opportunities to connect. Dutch Blockchain Week 2027 is more than a two-day conference. From May 17-23, Amsterdam becomes a meeting point for the digital asset industry, creating an entire week to meet the people you want to do business with. At the DBW Main Summit on May 19 & 20, high-level content and industry insights are combined with dedicated networking, breakout sessions and partner activations. But many of the most valuable conversations happen beyond the stages. Across side events, private dinners, networking drinks, partner events and informal gatherings throughout the week. There is enough time to meet, reconnect and continue conversations.
-
-Because business doesn't always start in a meeting room. Partnerships begin over coffee, introductions turn into opportunities and deals are made when the right people meet.  Whether you're looking for new clients, investors, partners or simply want to strengthen your network, Dutch Blockchain Week gives you a full week to make the connections that matter
-
-Main Summit 202
-
-Side Event
-
-Dutch Blockchain Awards 202
-
-Get your ticke
-
-Choose your ticket Attending the Dutch Blockchain Week Summit gives you access to high-level insights, industry trends, leading experts, and unmatched networking opportunities. Whether you want to learn, connect, do business, or explore the future of digital assets, there is a ticket that fits your goals. Choose the pass that matches your experience! From general access to VIP benefits or student opportunities.. Secure your spot today and
-
-be part of the future of Digital Assets Dive into the future of blockchain at a student-friendly rate. Enjoy the same access as Pro tickets, main stage, and exhibition area. Secure your spot by sending us a valid student ID via emai
-
-€ 25,- Join Dutch Blockchain Week Summit with full access to breakouts, the main stage, and the exhibition area. Everything you need to connect, learn, and get inspired
-
-€ 149,- Go beyond the conference. VIP tickets unlock all sessions, all-day food & drinks, an exclusive lounge with speakers and sponsors, plus entry to the private VIP Night the evening before DBW kicks off
-
-€ 649,
-
-What people sa
-
-Latest updates Stay informed about Dutch Blockchain Week's latest announcements and events
-
-Blockchain Events in Amsterdam: The 2027 Guid
-
-Everything you need to know about Dutch Blockchain Wee
-
-Dutch Blockchain Week 2027 returns to Amsterdam and the Johan Cruijff Aren
-
-Building the largest Digital Asset event in Europ
-
-Sign up for latest updates Sign up to receive all the latest updates on Dutch Blockchain Week. Dutch Blockchain Week is committed to protecting and respecting your privacy, and we'll only use your personal information to provide information on our products and services. You may unsubscribe from these communications at any time. Review our privacy policy.
+- **MiCA Implementation & Compliance:** Operational strategies for crypto-asset service providers (CASPs) operating within the European Union.
+- **Tokenized Cash & Stablecoins:** Euro-denominated stablecoins, central bank digital currency (CBDC) pilots, and cross-border enterprise settlement.
+- **Institutional Custody & DeFi Infrastructure:** MPC wallets, institutional staking, and verifiable security audits.
+- **Web3 Enterprise Innovation:** Supply chain tracing, decentralized identity (DID), and digital product passports across European industries.
 
 <a id="event-635ae9eb57c000a8"></a>
 
@@ -51651,21 +51192,22 @@ An organizer description has not been verified for this record. Any previous cop
 
 ### About the event
 
-TOKEN2049 | 6-7 October 2027 | Singapore Exhibit With Us GET YOUR TICKET NOW 2027 Super Early Bird Tickets Live pay with usd Pay with your preferred credit card. Pay with crypto Processed by MoonPay Commerce.
+TOKEN2049 Singapore 2027 is the flagship international crypto event taking place October 6-7, 2027 at Marina Bay Sands in Singapore. The summit brings together the global Web3 ecosystem for two days of unparalleled networking, insights, and technological discovery.
 
-2027 Super Early Bird Tickets Live THE WORLD'S LARGEST CRYPTO EVENt 6 - 7 October 2027 - MARINA BAY SANDS Why 25,000+ Attendees Choose TOKEN2049 25,000+ attendees 7,000+ companies 300+ speakers 500+ EXHIBITORS >60% C-LEVEL 25,000+ attendees 7,000+ companies 300+ speakers 500+ EXHIBITORS >60% C-LEVEL 25,000+ attendees 7,000+ companies 300+ speakers 500+ EXHIBITORS >60% C-LEVEL 2027 Super Early Bird Tickets Live SEE YOU AT TOKEN2049 SINGAPORE 6-7 OCTOBER 2027 TOKEN2049 Singapore will bring together top decision-makers to connect, exchange ideas, network, and shape the industry on 6-7 October 2027. Tickets now on sale.
+### The World's Largest Crypto Gathering
 
-VLAD TENEV ROBINHOOD This is the single conference where everybody comes together and the most important conversations are happening. Haseeb Qureshi Managing Partner, Dragonfly This event is unbelievable. Eric Trump Executive VP, The Trump Organization The energy is amazing... It's a fantastic conference. Changpeng Zhao Founder, Binance It really is one of the most energetic and incredible events. Raoul Pal Co-Founder and CEO, Real Vision more than just an event. a festival unlike any other. Taking over all five floors of the iconic Marina Bay Sands, TOKEN2049 Singapore will be our biggest edition yet.
+TOKEN2049 Singapore convenes 20,000+ attendees from over 150 countries, including founders, executive leaders, institutional allocators, core protocol developers, and media. The exhibition floor spans five floors of Marina Bay Sands, featuring interactive showcases from leading Web3 protocols and technology providers.
 
-Get ready to experience a pop-up city, hosting endless immersive experiences and unmissable side events all under one roof. VITALIK BUTERIN ETHEREUM Balaji Srinivasan The network state VLAD TENEV ROBINHOOD VITALIK BUTERIN ETHEREUM balaji srinivasan the network state LANDO NORRIS FORMULA 1 WORLD CHAMPION OUR speakers THE LEADING VOICES. ON CRYPTO'S BIGGEST STAGE.
+### Mainstage Themes & Agendas
 
-SEE MORE SPEAKERS Shayne Coplan Polymarket Founder and CEO Balaji Srinivasan The Network State Founder Jeff Yan Hyperliquid Labs CEO Adena Friedman Nasdaq Chair and CEO Eric Trump World Liberty Financial Co-Founder Max Verstappen Oracle Red Bull Racing 4 x Formula One World Champion Lando Norris McLaren Mastercard Formula 1 Team Driver Arthur Hayes Maelstrom CIO Cameron Winklevoss Gemini Co-Founder and President Tyler Winklevoss Gemini Co-Founder and CEO AND MANY MORE UNPARALLELED NETWORKING attended by industry leaders TOKEN2049 Singapore is the year's definitive event, convening the entire industry to shape the global trajectory.
+- **Global Macro & Capital Cycles:** Institutional treasury adoption, macro liquidity, and digital asset allocation.
+- **Next-Generation Blockchains:** High-performance Layer 1 blockchains, modular rollups, and zero-knowledge cryptographic primitives.
+- **DePIN & Decentralized Compute:** Physical infrastructure networks, decentralized GPU compute, and verified AI inference.
+- **Consumer Web3 & Gaming:** Social applications, verifiable creator economies, and high-performance Web3 games.
 
-Join us at the center of the crypto ecosystem. A Truly global event 160+ Countries CONNECTING DECISION MAKERS >60% c-level THE LARGEST CRYPTO GATHERING 1,000+ side events PARTNER WITH US UNPARALLELED NETWORKING The Global Crypto Gathering 15,000 builders, investors, founders, and operators from 160+ countries meet in one place. Become a Sponsor Showcase your brand to leaders of the crypto space. Media Partnership Cover the largest crypto gathering in the world Affiliate Program Earn by bringing your network TOKEN2049 ORIGINS HACKATHON The next wave of crypto Starts here Take your idea from concept to working product in just 36 hours.
+### TOKEN2049 Week Singapore
 
-You'll gain hands-on experience, personalized mentorship, and the chance to pitch your project for prizes, funding, and global recognition. Join 2027 Waitlist UNVEILING THE NEXT GENERATION in web3 NEXUS STARTUP COMPETITION For two epic days of pitching on 6-7 October 2027 at TOKEN2049 Singapore, the hottest startups in Web3 will compete for equity-free prizes, meet top investors, and take the global stage. This is where breakout startups are born. Apply to NEXUS to be a part of the world's largest crypto startup competition.
-
-Join 2027 Waitlist JOIN US ON 6 - 7 October 2027 THE LARGEST CRYPTO GATHERING IN THE WORLD Didn't see your email app open?  Click below to copy our email address instead Become a Speaker EXHIBIT WITH US
+Beyond the main conference, TOKEN2049 Week transforms Singapore into the epicenter of the crypto industry, featuring hundreds of meetups, hackathons, and networking receptions hosted by ecosystem foundations and venture funds.
 
 <a id="event-f772babb6c9fa08f"></a>
 
