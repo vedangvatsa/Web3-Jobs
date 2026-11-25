@@ -188247,6 +188247,47 @@
       "attemptId": "01b506b0-ac16-45c4-9099-c0fa4ba8da09",
       "verification": "verified",
       "postId": "0x9fd86ebde98ed4f0d87f41ff2b771bdf5e8be357"
+    },
+    {
+      "slug": "sls432",
+      "company": "Rain",
+      "title": "Associate Account Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-11-25T13:30:57.089Z",
+      "expectedText": "Rain is hiring Associate Account Manager: https://hashtagweb3.com/sls432/li?og=7",
+      "snapshot": {
+        "id": "34a3f837-7fb5-492d-bf28-003e9dd26277",
+        "title": "Associate Account Manager",
+        "company": "Rain",
+        "link": "https://jobs.ashbyhq.com/rain/34a3f837-7fb5-492d-bf28-003e9dd26277",
+        "date": "2026-11-06T18:19:56.581+00:00",
+        "source": "Ashby: Rain [rain]",
+        "location": "Hybrid (New York, NY)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "GTM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls432"
+      },
+      "payload": {
+        "text": "Rain is hiring Associate Account Manager: https://hashtagweb3.com/sls432/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls432/li?og=7",
+          "title": "Associate Account Manager at Rain | Hashtag Web3",
+          "description": "Join Rain as Associate Account Manager. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls432.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "c845175e-ac5d-4c86-b394-ea092dcc9e19",
+      "verification": "creating"
     }
   ]
 }
