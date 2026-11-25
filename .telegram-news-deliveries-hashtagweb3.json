@@ -922,5 +922,36 @@
     "slotKey": "2026-11-24:afternoon",
     "messageId": 156492,
     "sentAt": "2026-11-24T18:47:37.544Z"
+  },
+  "99801155-57c4-4777-9c66-d5aa790a8493": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T12:00:10.929Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Elizabeth Warren Plans Increased Oversight for Prediction Markets",
+        "summary": "An aide said Senator Warren will use Senate Banking Committee authority to regulate election betting platforms starting January.",
+        "link": "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Warren to target prediction market oversight as incoming Senate Banking chair"
+      },
+      {
+        "index": -1,
+        "headline": "White House reviews rule for crypto in retirement plans",
+        "summary": "The proposal offers legal protections for fund managers who include digital assets in employee retirement investment options.",
+        "link": "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "DOL Final Rule on Crypto in 401(k)s Reaches White House Review"
+      },
+      {
+        "index": -1,
+        "headline": "Greece passes law taxing crypto gains and staking income",
+        "summary": "Starting January 2027, annual profits exceeding 500 euros face 10% tax while DeFi income incurs 15%.",
+        "link": "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Greece passes crypto tax law with 10% gains levy and 15% rate on staking"
+      }
+    ],
+    "slotKey": "2026-11-25:afternoon"
   }
 }
