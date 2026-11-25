@@ -15,9 +15,16 @@ on:
       - 'content/**'
       - 'public/**'
       - '.github/workflows/cloudflare-worker.yml'
+  # GITHUB_TOKEN catalogue pushes from ingest do not fire push workflows.
+  workflow_run:
+    workflows: ['Refresh Jobs Ingest (daily)']
+    types: [completed]
+    branches: [main]
 
 jobs:
   deploy:
+    if: >-
+      ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 90
     env:
@@ -28,6 +35,9 @@ jobs:
       NODE_OPTIONS: --max-old-space-size=6144
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Ingest may push a newer catalogue commit after workflow_run.head_sha was recorded.
+          ref: ${{ github.event_name == 'workflow_run' && 'main' || github.sha }}
       - uses: actions/setup-node@v4
         with:
           node-version: "24"
