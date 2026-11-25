@@ -924,7 +924,7 @@
     "sentAt": "2026-11-24T18:47:37.544Z"
   },
   "99801155-57c4-4777-9c66-d5aa790a8493": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T12:00:10.929Z",
     "stories": [
       {
@@ -952,6 +952,8 @@
         "originalTitle": "Greece passes crypto tax law with 10% gains levy and 15% rate on staking"
       }
     ],
-    "slotKey": "2026-11-25:afternoon"
+    "slotKey": "2026-11-25:afternoon",
+    "messageId": 156499,
+    "sentAt": "2026-11-25T12:00:17.350Z"
   }
 }

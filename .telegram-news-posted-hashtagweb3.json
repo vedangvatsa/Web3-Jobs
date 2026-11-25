@@ -83,6 +83,9 @@
   "https://hashtagweb3.com/binanceorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/binancefull?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ofac41?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -251,6 +254,12 @@
   "Binance Says It Has Finished Covering the $6.34 Billion Hack",
   "Treasury sanctions 41 companies linked to Prince Group",
   "OFAC sanctions 41 companies tied to Prince Group scam network",
+  "Elizabeth Warren Plans Increased Oversight for Prediction Markets",
+  "Warren to target prediction market oversight as incoming Senate Banking chair",
+  "White House reviews rule for crypto in retirement plans",
+  "DOL Final Rule on Crypto in 401(k)s Reaches White House Review",
+  "Greece passes law taxing crypto gains and staking income",
+  "Greece passes crypto tax law with 10% gains levy and 15% rate on staking",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -334,5 +343,8 @@
   "fp:avalanch|blockchain|choos|equity|exchang|intercontinental|new24|nys|planned24|select",
   "fp:000|65b|abu|across26|address|aim|binanc|court|dhabi|freez",
   "fp:634b|affect|approval|asset|binanc|corporat|cover|doj|drain|exchang",
-  "fp:action|continu|four|fraudulent|group|individual|link|network|nomine|ofac"
+  "fp:action|continu|four|fraudulent|group|individual|link|network|nomine|ofac",
+  "fp:aid|authority|bank|bett|chair|committe|election|elizabeth|incom|increas",
+  "fp:asset|digital|dol|employe|final|hous|in401|includ|investment|legal",
+  "fp:and15|annual|defi|euro|exceeding500|face10|gain|greec|incom|incurs15"
 ]
