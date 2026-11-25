@@ -186193,7 +186193,8 @@
       },
       "account": "channel:developers",
       "attemptId": "636c4e29-1973-4216-91d4-50a26054aad6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbb39a32dc646f71715bdd8d9896a0c8c75bff910"
     }
   ]
 }
