@@ -190330,7 +190330,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "50fe2a32-163e-4e35-ac20-c5d0790cfeee",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x18c11ca53d971ad3ead070bbb1f250cd053cd281"
     }
   ]
 }
