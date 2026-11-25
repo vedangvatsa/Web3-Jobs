@@ -955,5 +955,36 @@
     "slotKey": "2026-11-25:afternoon",
     "messageId": 65854,
     "sentAt": "2026-11-25T11:58:55.902Z"
+  },
+  "a2c4cb63-dfb6-4a3e-aeb7-9088cf1ec911": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T20:41:58.718Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SBI, SMFG, and Solana launch joint venture operations",
+        "summary": "The partnership will focus on developing stablecoin payments and asset tokenization services.",
+        "link": "https://hashtagweb3.com/sbiglobal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SBI, SMFG and Solana Foundation begin operations of SBI Solana Global joint venture"
+      },
+      {
+        "index": -1,
+        "headline": "Telegram users open 700,000 crypto wallets in 48 hours",
+        "summary": "The increase follows the expansion of TON mini-app integrations across the messaging platform's global user base.",
+        "link": "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Telegram adds 700,000 crypto wallets in 48 hours, Durov says"
+      },
+      {
+        "index": -1,
+        "headline": "Thailand SEC files criminal complaint against Bitget operator",
+        "summary": "The agency requested a government block on the exchange starting December 5 for unlicensed operations since 2022.",
+        "link": "https://hashtagweb3.com/bitgetsec?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Thailand SEC Files Criminal Complaint Against Bitget Operator"
+      }
+    ],
+    "slotKey": "2026-11-25:evening"
   }
 }
