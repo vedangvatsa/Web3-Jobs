@@ -1269,5 +1269,53 @@
     "slotKey": "2026-11-24:afternoon",
     "messageId": 156484,
     "sentAt": "2026-11-24T14:13:00.836Z"
+  },
+  "c8522876-83ec-4be2-8f6a-f6234a48bb4a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T11:57:54.491Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-Dh0d7ymtc8TktHQ",
+        "slug": "mulheres-n",
+        "name": "Mulheres na inovação | Blockchain, IA, Direito e Novos Negócios",
+        "startDate": "2026-11-27T21:30:00.000Z",
+        "keys": [
+          "luma-crypto-dh0d7ymtc8tkthq",
+          "page:mulheres-n:2026-11-27",
+          "luma:evt-dh0d7ymtc8tkthq",
+          "luma-url:/vl5vyhzz",
+          "event:mulheresnainovaçãoblockchainiadireitoenovosnegócios:2026-11-27:sao paulo"
+        ]
+      },
+      {
+        "id": "luma-crypto-BVDMkxvBuxDsAxI",
+        "slug": "day-1-catf",
+        "name": "Day 1 \\\\ Catfooding Picnic in the Park \\\\ Binance Blockchain Week",
+        "startDate": "2026-11-28T05:00:00.000Z",
+        "keys": [
+          "luma-crypto-bvdmkxvbuxdsaxi",
+          "page:day-1-catf:2026-11-28",
+          "luma:evt-bvdmkxvbuxdsaxi",
+          "luma-url:/i5k5qx95",
+          "event:day1catfoodingpicnicintheparkbinanceblockchainweek:2026-11-28:bangkok"
+        ]
+      },
+      {
+        "id": "luma-crypto-PGulrKNPIidFuvu",
+        "slug": "hackathon",
+        "name": "HACKATHON: Build AI on KASPA",
+        "startDate": "2026-11-28T08:00:00.000Z",
+        "keys": [
+          "luma-crypto-pgulrknpiidfuvu",
+          "page:hackathon:2026-11-28",
+          "luma:evt-pgulrknpiidfuvu",
+          "luma-url:/8dl5fglx",
+          "event:hackathonbuildaionkaspa:2026-11-28:le kremlin-bicetre"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-25:afternoon"
   }
 }
