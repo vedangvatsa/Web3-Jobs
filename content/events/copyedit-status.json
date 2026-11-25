@@ -534,11 +534,6 @@
     "method": "human-editorial-polish-v2",
     "words": 132
   },
-  "discovery-evt-XFoMM2nGSakEMj8": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 37
-  },
   "curated-zcon-7-2026-10-27": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
@@ -613,11 +608,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
     "words": 98
-  },
-  "discovery-evt-vxHTXfYAtLW0JqS": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 38
   },
   "discovery-evt-4GbxA81G5iwo5UA": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -863,11 +853,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
     "words": 49
-  },
-  "mu-316869344": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 47
   },
   "discovery-evt-lney7efAlAR4ckm": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -3949,11 +3934,6 @@
     "method": "human-editorial-polish-conservative",
     "words": 151
   },
-  "luma-batch-JrwT6SseTVJgIBs": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 187
-  },
   "luma-batch-k8AK0WzF9fIxpCI": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
@@ -3978,11 +3958,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
     "words": 159
-  },
-  "luma-batch-evtUrCIdxk9KqZEO": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 304
   },
   "luma-batch-evtSK22Vhvj9z3xv": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -4103,11 +4078,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
     "words": 1326
-  },
-  "w3v-hackmeridian-lisbon-2026": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 30
   },
   "w3v-linknyc": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -4804,11 +4774,6 @@
     "method": "human-editorial-polish-v2",
     "words": 19
   },
-  "w3v-el-encuentro": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 19
-  },
   "luma-evt-2PiQbQ4qVHcWOzn": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-v2",
@@ -4908,11 +4873,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-v2",
     "words": 28
-  },
-  "luma-host-evt-evt-jAsxvsyCZCb8JkA": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 637
   },
   "mu-316870652": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -5508,11 +5468,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-v2",
     "words": 19
-  },
-  "mu-316957516": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 32
   },
   "mu-316047223": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",

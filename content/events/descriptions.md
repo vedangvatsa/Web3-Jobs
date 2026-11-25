@@ -3197,56 +3197,6 @@ Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder,
 
 Participants practice sending Bitcoin on testnet, using test funds rather than real money. The organizer asks attendees to install the Blockstream wallet on an Android phone or iPhone before the workshop.
 
-<a id="event-782c3efce165a59a"></a>
-
-## Mid-Chain Conference: Blockchain & Decentralized Economics
-
-- Record: `discovery-evt-XFoMM2nGSakEMj8`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-26T06:45:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/rzaklefv>
-
-### About the event
-
-An academic-industry conference at Ben-Gurion University covering blockchain protocols, decentralized finance, governance and cryptographic mechanisms. The program includes research talks, a lunch poster session and a closing panel with Yehuda Lindell.
-
-Registration is free and requires approval.
-
-<a id="event-45291e89e887580f"></a>
-
-## Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs
-
-- Record: `mu-316869344`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-26T19:00:00+04:00
-- Description: Source-backed
-- Original page: <https://www.meetup.com/blockchain-workshop-dubai/events/316869344/>
-
-### About the event
-
-Blockchain Dubai hosts a coffee meetup for people working with Web3, DeFi, NFTs and tokenized assets. The format is informal conversation rather than a published talk programme. Guests must RSVP on Meetup and follow the organizer's
-
-registration instructions for venue details. The public page identifies only Dubai.
-
-<a id="event-f177be3c9209eba6"></a>
-
-## NEAR x SVRN Happy Hour @ The Bridge
-
-- Record: `discovery-evt-vxHTXfYAtLW0JqS`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-26T20:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/1m2qy8jh>
-
-### About the event
-
-NEAR Foundation and SVRN host an informal gathering for allocators, trading desks, issuers and builders before The Bridge conference.
-
-The event centers on confidential execution and onchain settlement.
-
-Registration requires approval, and the address is shared with guests.
-
 <a id="event-fb3664f51646d296"></a>
 
 ## CryptoMondays Bahamas Launch
@@ -27376,92 +27326,6 @@ Consejos de prevención de estafas
 
 AMA Final
 
-<a id="event-f10d979011302b0b"></a>
-
-## El Encuentro 🎩
-
-- Record: `luma-batch-JrwT6SseTVJgIBs`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-26T09:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/66thrqij>
-
-### About the event
-
-Toda la información y el programa:
-
-Vuelve el evento insignia de La Familia, uno de los principales puntos de reunión del ecosistema Solana en España.
-
-El próximo 26 de octubre en Madrid, El Encuentro reunirá en un mismo espacio a builders, founders, developers, proyectos, comunidades, sponsors y referentes que están impulsando el crecimiento de Solana desde España y el mundo hispanohablante.
-
-Durante el evento tendremos charlas, paneles, workshops, activaciones y espacios de networking pensados para conectar a la comunidad, compartir conocimiento y acercar a quienes están construyendo dentro del ecosistema.
-
-Será un día para conocer proyectos, descubrir nuevas iniciativas, conectar con otros builders y formar parte de las conversaciones que están moviendo a Solana en España.
-
-Si estás construyendo, formas parte de una comunidad, lideras un proyecto o quieres estar más cerca del ecosistema, El Encuentro es el lugar para estar.
-
-Seguiremos compartiendo más información sobre la agenda, speakers y actividades confirmadas a través de nuestras redes sociales. No te pierdas las próximas actualizaciones aquí:
-
-Links: La Familia
-
-Este evento se fotografía y graba. Código de conducta: lafamilia.so/conducta
-
-Nos vemos en El Encuentro 2026
-
-<a id="event-da1e2e2d6ba0bb12"></a>
-
-## Swell 2026 Demo Day
-
-- Record: `luma-batch-evtUrCIdxk9KqZEO`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-26T18:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/zpcdsbpu>
-
-### About the event
-
-We look forward to welcoming you to our Swell 2026 Demo Day, hosted in Ripple's New York office.
-
-Doors open at 1:45 PM, with the program beginning at 2:30 PM and a networking reception with light bites to follow.
-
-Demo Day Agenda
-
-1:45 - 2:30 PM - Doors open & arrival
-
-2:30 - 2:55 PM - Welcome, keynote & program overviews
-
-2:55 - 3:30 PM - Startup pitches (12 startups, 3 minutes each)
-
-3:30 - 4:00 PM - Group Q&A with all founders
-
-4:00 - 5:30 PM - Networking reception + light bites
-
-Featured Startups
-
-Blockpeer: End-to-end digital trade platform for issuing, financing, and managing MLETR-compliant electronic trade documents (like eBLs), with tokenized trade assets and stablecoin payments.
-
-BlockVault: Financial infrastructure that lets XRP holders earn yield and access liquidity on their assets without selling them.
-
-C9: Brazilian Web3 platform bringing tokenization, wallets, and crypto cards to everyday users and businesses on the XRPL.
-
-Circles: Social feed-first investing app that lets people make micro-loans to local ventures and follow their progress like posts.
-
-Exfil: Intelligence-led security platform that detects and disrupts scams, fraud, and threat infrastructure across the web and on-chain.
-
-Mandla Money: WhatsApp-based stablecoin wallet enabling low-cost cross-border payments and remittances for underserved communities in emerging markets.
-
-Mobile Wallet: Modular crypto on/off-ramp infrastructure connecting blockchains to local payment rails for the unbanked.
-
-Regolda: Institutional-grade dashboard for tokenized recycled physical gold on the XRPL, with real-time ESG impact metrics and tax reporting.
-
-Riskx: On-chain risk-scoring engine that writes live, machine-readable risk signals for DeFi protocols.
-
-Straid: Decentralized credit-markets and leverage protocol on the XRPL enabling undercollateralized lending via on-chain risk scoring.
-
-VS1: Institutional DeFi and tokenized capital-markets infrastructure on the XRPL, spanning compliant lending, swaps, and asset tokenization.
-
-Zuvia - Crypto-as-a-Service and tokenization platform helping companies adopt Web3 and blockchain on the XRPL.
-
 <a id="event-0e9b309e57cbd080"></a>
 
 ## XRP Sidekick - NY
@@ -29138,18 +29002,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-e87d5aba74ed21e4"></a>
-
-## HackMeridian 2026
-
-- Record: `w3v-hackmeridian-lisbon-2026`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-25T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://www.hackmeridian.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-54ab137ce5e7b952"></a>
 
 ## Cypher Tank
@@ -29159,54 +29011,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-26T08:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://planbweek.com/events/cypher-tank>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-5b2e56cc57fff7ec"></a>
-
-## El Encuentro
-
-- Record: `w3v-el-encuentro`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lafamilia.so/el-encuentro/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-992a0de2f99ef65e"></a>
-
-## "Redefining Britain's Identity for an Age of Change" w/ Chicago Council
-
-- Record: `mu-316957516`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T15:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/geopolitics-meetup-group/events/316957516/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-338ebe2120a8a8bb"></a>
-
-## Light Dao Salon: The Infinite Labyrinth: You Don’t Need to See the Whole Path — Just the Next Step (LISBON)
-
-- Record: `luma-host-evt-evt-jAsxvsyCZCb8JkA`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T16:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/5u109wun>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-fe1f08dc848c3ded"></a>
-
-## Beyond Bitcoin: Systematic Trading in Digital Asset Markets
-
-- Record: `luma-evt-L8ByzXZAbBAzqhZ`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/3pu8bc59>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -42391,6 +42195,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-fa8c9cc31f8ef2eb"></a>
+
+## Workshop FORMÆ & Mirage Granito Ceramico
+
+- Record: `luma-evt-ga66DNN9VcZRH4n`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T08:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/bopzkcx7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-022e9fc1a5dbb6a3"></a>
 
 ## Brokerage Breakdown - The Modern Brokerage for Forward Thinking Agents
@@ -44801,6 +44617,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-04T10:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://mnm.live/agentic-finance-abu-dhabi>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6c5abecf17c94414"></a>
+
+## Proof Of Talk x Bybit \| Exclusive VIP Cocktail Reception
+
+- Record: `w3v-proof-of-talk-x-bybit--exclusive-vip-cocktail-reception`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-04T11:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/2iibjkzg>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

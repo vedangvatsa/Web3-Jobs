@@ -429,16 +429,8 @@
       "sha256": "4925cc333d3863dae024d509756b75670ea2abe893fc97975656a916a201817a",
       "status": "optimized"
     },
-    "/events/discovery-evt-vxhtxfyatlw0jqs-66d075dc.webp": {
-      "sha256": "7c0fdf21cc2120d34ffebdb5aed7524b4bb182b7b8e116897269d355c654ff2f",
-      "status": "optimized"
-    },
     "/events/discovery-evt-wfbylaye3xukniz-c532e757.webp": {
       "sha256": "eebad2f14c5f25e7484840deb672294bb01a1599742edfe345de613e39a4f02b",
-      "status": "optimized"
-    },
-    "/events/discovery-evt-xfomm2ngsakemj8-09ef1700.webp": {
-      "sha256": "e8cddbf4e5c56858e85bbbf18f2b41393e914b7529e9879d57b02d45bda8aa3e",
       "status": "optimized"
     },
     "/events/discovery-evt-xj9iuk18s1g2zzt-d0484c1c.webp": {
@@ -2399,10 +2391,6 @@
     },
     "/events/luma-batch-EB8O1EGWTmiaFIp-20c22256.webp": {
       "sha256": "c77ffb2eedd556b10a95864c104f0a8bcc2fa409ade9e9b3774879b4717b0329",
-      "status": "optimized"
-    },
-    "/events/luma-batch-JrwT6SseTVJgIBs-63311390.webp": {
-      "sha256": "60a39d30cc0020c78178e68d28bdbbb67569ee4336fb6c67745cd4c001e054f2",
       "status": "optimized"
     },
     "/events/luma-batch-Qzy0En8R3B1O2Rp-609a935f.webp": {
@@ -5449,10 +5437,6 @@
       "sha256": "4d2a9f7b63ac3c302cfbf3495f936e81c342998924f76e20d0e77c9d67ec241c",
       "status": "optimized"
     },
-    "/events/luma-evt-l8byzxzabbazqhz-eeed4db4.webp": {
-      "sha256": "8a5c439908c23360779ec66659f34cf470fd006007dd22d5d95b58a83dd20e77",
-      "status": "optimized"
-    },
     "/events/luma-evt-la7bq9540g9crwa-a20f691f.webp": {
       "sha256": "2757cc75a6b67263824a0cb76ac377d4c8e8966e1e67a890929c0c82305bf069",
       "status": "optimized"
@@ -6553,10 +6537,6 @@
       "sha256": "79b0bd1c5b002519bc796181a81cd3335d5f3544f8a2f96acf84c9ff059197a8",
       "status": "optimized"
     },
-    "/events/luma-host-evt-evt-jasxvsyczcb8jka-43228d51.webp": {
-      "sha256": "f3d2878e243d70d21abcedb4e9d3cadab3ddfbda57d350a04c7c9e1766599142",
-      "status": "optimized"
-    },
     "/events/luma-host-evt-evt-jh2hreymg1ynkpj-d107e70b.webp": {
       "sha256": "ebe3da06c332b4fcaf7b7f070f409a7b5e989f3cac19d31bf8d535f9393f1f8e",
       "status": "optimized"
@@ -7025,10 +7005,6 @@
       "sha256": "58aaf698ad0d2e3a75ce31faaf5e9583f28f3b812336c64de04630cfba4269bc",
       "status": "optimized"
     },
-    "/events/mu-316869344-733ab13b.webp": {
-      "sha256": "393c547b1ed5991038b998970f46bf1d846b4692cac8b22918e25a96dafb6ea7",
-      "status": "optimized"
-    },
     "/events/mu-316884574-848e55ae.webp": {
       "sha256": "b493c17d9c47597434a1177f606cf200524eee29605cbbb2f8bf0cd544f40cf9",
       "status": "retained"
@@ -7064,10 +7040,6 @@
     "/events/mu-316925041-b3907f85.webp": {
       "sha256": "17800a84bbdeb6c98f60cddeb24ba1312345614027193d5ab966577a1746b508",
       "status": "optimized"
-    },
-    "/events/mu-316957516-8d48d1d7.webp": {
-      "sha256": "5c5541391c23b7988d786f961bad6a1e166924cb159b0f308b14b980a235e34a",
-      "status": "retained"
     },
     "/events/mu-316958855-6d8f794e.webp": {
       "sha256": "d5a379b36c6050f8fb7a5cd8633ea4ba15da55273cada4e5592f02b6cb0e720d",
@@ -7263,10 +7235,6 @@
     },
     "/events/mu-317385783-30914070.webp": {
       "sha256": "ab1840b2c4523b1525be17d7fc5534a18b37e8de221f5a4dcebe6be8f1526b3b",
-      "status": "optimized"
-    },
-    "/events/mu-317449479-918be00f.webp": {
-      "sha256": "78ef2280b5882684732c39100c1b49ddb813f6a49eb5f907d6b135a900bfb087",
       "status": "optimized"
     },
     "/events/mu-317454509-84a3b13a.webp": {
@@ -7864,10 +7832,6 @@
     "/events/w3v-eip-hub-devcon-8-india-where-26-11-03-a9f302bc.webp": {
       "sha256": "620a2ed4d4038cdf7e42aea3e1d35c720fe5b98b4475312589a447bbfbb210d1",
       "status": "retained"
-    },
-    "/events/w3v-el-encuentro-bd5cdac4.webp": {
-      "sha256": "23bf9ec0d080df6f9cf1dc8b869dc3229be7ebc8eae55c5439ca5e6550cbfe3c",
-      "status": "optimized"
     },
     "/events/w3v-ethcc10-9ac3f815.webp": {
       "sha256": "fac93c3fa5f53087116053d5f333d58aba20d8c266c1bd75ec285da556968757",

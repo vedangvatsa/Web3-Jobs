@@ -70,39 +70,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-JrwT6SseTVJgIBs": {
-    "name": "El Encuentro 🎩",
-    "startDate": "2026-10-26T09:00:00.000Z",
-    "endDate": "2026-10-26T21:00:00.000Z",
-    "timezone": "Europe/Madrid",
-    "registrationUrl": "https://luma.com/66thrqij",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "city": "Madrid",
-    "country": "Spain",
-    "location": "Madrid, Spain",
-    "hosts": [
-      "La Familia"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/66thrqij",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/66thrqij",
-      "eventId": "evt-RsIa3u7GsUMMOaY",
-      "fetchedAt": "2026-10-12T11:45:36.668Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-evti0AaTIcicsFFO": {
     "name": "XRP Sidekick - NY",
     "startDate": "2026-10-26T22:00:00.000Z",

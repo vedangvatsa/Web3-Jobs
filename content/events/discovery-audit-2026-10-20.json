@@ -56,17 +56,6 @@
       "descriptionSha256": "4112e41f94c49335f063d5d2273bccb558821064b505c7627717d657e59f5b3b"
     },
     {
-      "id": "luma-batch-JrwT6SseTVJgIBs",
-      "slug": "el-encuentro",
-      "aliases": [
-        "66thrqij"
-      ],
-      "startDate": "2026-10-26T09:00:00.000Z",
-      "endDate": "2026-10-26T21:00:00.000Z",
-      "timezone": "Europe/Madrid",
-      "descriptionSha256": "ee2b8ba89fb40b026939fb5f70f8bd93b7386a406d4f9d5b8109059ffef74757"
-    },
-    {
       "id": "luma-batch-evti0AaTIcicsFFO",
       "slug": "xrp-sidekick-ny",
       "aliases": [],
@@ -1621,52 +1610,6 @@
   ],
   "records": [
     {
-      "id": "discovery-evt-XFoMM2nGSakEMj8",
-      "name": "Mid-Chain Conference: Blockchain & Decentralized Economics",
-      "startDate": "2026-10-26T06:45:00.000Z",
-      "endDate": "2026-10-26T16:00:00.000Z",
-      "timezone": "Asia/Jerusalem",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-XFoMM2nGSakEMj8",
-      "url": "https://luma.com/rzaklefv",
-      "lane": "global",
-      "reason": "No known identity match, including evt-XFoMM2nGSakEMj8 and the organizer URL. Public application-based research conference, not a local meetup.",
-      "evidence": [
-        {
-          "url": "https://www.mid-chain.com/",
-          "fetchedAt": "2026-10-20T08:05:23.108Z",
-          "excerpt": "MidChain De-Fi Conference Hosted By Ben Gurion University Of The Negev. October 26 | BGU Campus | Senate Hall. Program Oct. 26, 2026. Register To Attend links to https://luma.com/rzaklefv.",
-          "sha256": "99801dd3a6482c5c5e2d6d7ffc89246ec3103074761691314a87ce5c42a4a3cb",
-          "representation": "HTTP response HTML"
-        },
-        {
-          "url": "https://luma.com/rzaklefv",
-          "fetchedAt": "2026-10-20T08:09:31.549Z",
-          "excerpt": "Monday, October 26, 2026, 08:45 - 18:00, Senate Hall, Building 71, Ben-Gurion University of the Negev, David Ben-Gurion Blvd 1, Be'er Sheva. Free. Registration is approval-based. Event data: start_at 2026-10-26T06:45:00.000Z; end_at 2026-10-26T16:00:00.000Z; timezone Asia/Jerusalem; visibility public.",
-          "sha256": "0658592f5370560d089bd5b7e473ee3881da75e932457cc4fa157de226308dc8",
-          "representation": "HTTP response HTML, public text and embedded event data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:29:37.423Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/88/40e3294a-ef66-40db-9504-78a121aded47.png",
-        "fetchedAt": "2026-10-20T09:48:51.889Z",
-        "status": 200,
-        "local": "/events/discovery-evt-xfomm2ngsakemj8-09ef1700.webp",
-        "sourceSha256": "692255d1266d3019b7d4041b92ade167d548de0872a3ff2ac9341c4ed4a83333",
-        "sha256": "067b9b9f307fb1f890d5fff662345203e105ae9f9eda0b356f4a2411ccf861b3",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 88512
-      }
-    },
-    {
       "id": "curated-zcon-7-2026-10-27",
       "name": "Zcon 7",
       "startDate": "2026-10-27",
@@ -2769,45 +2712,6 @@
         "width": 600,
         "height": 338,
         "bytes": 14600
-      }
-    },
-    {
-      "id": "discovery-evt-vxHTXfYAtLW0JqS",
-      "name": "NEAR x SVRN Happy Hour @ The Bridge",
-      "startDate": "2026-10-26T20:30:00.000Z",
-      "endDate": "2026-10-26T23:00:00.000Z",
-      "timezone": "America/New_York",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-vxHTXfYAtLW0JqS",
-      "url": "https://luma.com/1m2qy8jh",
-      "lane": "americas",
-      "reason": "No inventory match. Public application; only public city retained.",
-      "evidence": [
-        {
-          "url": "https://luma.com/1m2qy8jh",
-          "fetchedAt": "2026-10-20T08:05:02.184Z",
-          "excerpt": "evt-vxHTXfYAtLW0JqS; 2026-10-26T20:30:00.000Z to 23:00:00.000Z; America/New_York; New York, United States; visibility public; geo_address_visibility guests-only; require_approval true; registration open. Hosts NEAR Foundation and SVRN. Informal gathering for allocators, trading desks, issuers, and builders ahead of the main event; confidential execution and verifiable onchain settlement.",
-          "sha256": "5aaf66c8db9b625165dcdffd47d8c06a3aa6ec76e78fa5063577c8881c875af1",
-          "representation": "html; __NEXT_DATA__"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:05.856Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/qn/8e74acd5-3e2d-4423-87e4-ef039e5d2a30.png",
-        "fetchedAt": "2026-10-20T09:49:17.579Z",
-        "status": 200,
-        "local": "/events/discovery-evt-vxhtxfyatlw0jqs-66d075dc.webp",
-        "sourceSha256": "4d1c81f19fb53dfc01ec8f2f385a55020bf4beec21851593ac6a5e8613d3310a",
-        "sha256": "ff861fb1ed625824b63933d3b0a4e3118a39ccabac3dbe7e5cfd5487e797e3f2",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 146862
       }
     },
     {
@@ -5169,43 +5073,6 @@
       }
     },
     {
-      "id": "mu-316869344",
-      "name": "Crypto Coffee & Networking Night: Web3, AI, Blockchain, DeFi, NFTs",
-      "startDate": "2026-10-26T19:00:00+04:00",
-      "endDate": "2026-10-26T22:00:00+04:00",
-      "timezone": "Asia/Dubai",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316869344/",
-      "lane": "asia-africa",
-      "reason": "No inventory match for this separately dated Monday occurrence. Public page gives only Dubai; no venue inferred. The Saturday social is a different dated occurrence, not a same-time duplicate.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316869344/",
-          "fetchedAt": "2026-10-20T08:09:19.880Z",
-          "excerpt": "Monday, Oct 26, 2026; 7:00 PM to 10:00 PM GST. Location: Dubai. Hosted by Ahmed J., Blockchain Dubai. Discussion areas include DeFi, NFTs and tokenized assets. Register and get more details. RSVP on Meetup; Join WhatsApp group. JSON-LD startDate=2026-10-26T19:00:00+04:00; endDate=2026-10-26T22:00:00+04:00; OfflineEventAttendanceMode.",
-          "representation": "Public primary-page copy and JSON-LD; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:52.577Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure-content.meetupstatic.com/images/classic-events/535431844/676x380.jpg",
-        "fetchedAt": "2026-10-20T09:49:53.906Z",
-        "status": 200,
-        "local": "/events/mu-316869344-733ab13b.webp",
-        "sourceSha256": "b31aa00b7c9481e063d62d8eabbfbe3848df67d258122372fe1826f327f36491",
-        "sha256": "0623207652c790286622b0fcd6aece4110b3691c93bb7bb154a6587202c2c780",
-        "originalWidth": 676,
-        "originalHeight": 380,
-        "width": 676,
-        "height": 380,
-        "bytes": 30676
-      }
-    },
-    {
       "id": "mu-316802767",
       "name": "ZK Learning Group: Quantum resistance and ZKP",
       "startDate": "2026-10-29T17:00:00Z",
@@ -7298,12 +7165,6 @@
       "lane": "americas"
     },
     {
-      "url": "https://luma.com/66thrqij",
-      "id": "luma-batch-JrwT6SseTVJgIBs",
-      "reason": "Already active under the same Luma source ID, URL and October 26 dates. Public approval-required listing with guests-only location; no second record or venue disclosure needed.",
-      "lane": "europe"
-    },
-    {
       "url": "https://conference.tum-blockchain.com/",
       "id": "luma-batch-evt9GgBM7ScK61zT",
       "reason": "Organizer's dated conference matches active tbc26 record and source-cache conference entries. Main conference, Digital Assets Day and hackathon are already represented by the active aggregate. Primary address is Friedenstraße 24, not the aggregator's 22C.",
@@ -7717,12 +7578,6 @@
       "url": "https://www.mid-chain.com/",
       "result": "verified",
       "note": "October 26, 2026, BGU Senate Hall; substantive research agenda and official Luma link.",
-      "lane": "global"
-    },
-    {
-      "url": "https://luma.com/rzaklefv",
-      "result": "verified",
-      "note": "Public evt-XFoMM2nGSakEMj8, October 26, 08:45-18:00 Israel time; approval required.",
       "lane": "global"
     },
     {
@@ -9118,12 +8973,6 @@
       "lane": "europe"
     },
     {
-      "url": "https://luma.com/66thrqij",
-      "result": "duplicate",
-      "note": "El Encuentro already active with matching Luma ID/date. Guests-only venue remains protected.",
-      "lane": "europe"
-    },
-    {
       "url": "https://conference.tum-blockchain.com/",
       "result": "duplicate",
       "note": "Same conference dates/name/city as active tbc26 record and additional source records. Primary venue address differs from aggregator; no second event created.",
@@ -9361,12 +9210,6 @@
       "url": "https://www.meetup.com/lfdt-north-carolina/events/316859645/",
       "result": "identity-corroborated",
       "note": "Same title, shared-network notice, programme and Zoom meeting as the Kenya mirror; existing source URL opened for deduplication.",
-      "lane": "asia-africa"
-    },
-    {
-      "url": "https://www.meetup.com/blockchain-workshop-dubai/events/316869344/",
-      "result": "verified-new",
-      "note": "26 October 2026, 19:00-22:00 GST. Only Dubai is public; venue details require organizer registration. No later recurrences generated.",
       "lane": "asia-africa"
     },
     {

@@ -72,36 +72,6 @@
       }
     },
     {
-      "id": "luma-batch-JrwT6SseTVJgIBs",
-      "oldSlug": "66thrqij",
-      "slug": "el-encuentro",
-      "candidate": false,
-      "outcome": "verified-expanded",
-      "descriptionChanged": true,
-      "previousCharacters": 1206,
-      "characters": 1355,
-      "factChanges": {
-        "name": "El Encuentro 🎩",
-        "locationHidden": true,
-        "location": "Madrid, Spain",
-        "ticketOffers": [
-          {
-            "name": "Standard",
-            "url": "https://luma.com/66thrqij",
-            "price": 0,
-            "availability": "InStock"
-          }
-        ],
-        "registrationAvailability": "open"
-      },
-      "source": {
-        "url": "https://luma.com/66thrqij",
-        "fetchedAt": "2026-10-12T11:45:36.668Z",
-        "status": 200,
-        "sha256": "28616f5faeecf8f6a7cbcdb1345621134af430e4f09ab459fa393d7aeae7b8d6"
-      }
-    },
-    {
       "id": "luma-batch-evti0AaTIcicsFFO",
       "oldSlug": "xrp-sidekick-ny",
       "slug": "xrp-sidekick-ny",

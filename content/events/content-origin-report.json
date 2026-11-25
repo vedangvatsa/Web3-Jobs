@@ -55,19 +55,6 @@
       ]
     },
     {
-      "id": "luma-batch-JrwT6SseTVJgIBs",
-      "slug": "66thrqij",
-      "name": "El Encuentro",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/66thrqij",
-        "fetchedAt": "2026-09-22T11:31:03.000Z"
-      },
-      "sections": [
-        "About the event"
-      ]
-    },
-    {
       "id": "luma-batch-evti0AaTIcicsFFO",
       "slug": "xrp-sidekick-ny",
       "name": "XRP Sidekick - NY",

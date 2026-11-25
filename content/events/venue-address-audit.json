@@ -2219,22 +2219,6 @@
       "applied": false
     },
     {
-      "id": "luma-batch-JrwT6SseTVJgIBs",
-      "url": "https://luma.com/66thrqij",
-      "fetchedAt": "2026-10-19T20:14:24.397Z",
-      "sourceEventId": "evt-RsIa3u7GsUMMOaY",
-      "sourceName": "El Encuentro 🎩",
-      "sourceStartDate": "2026-10-26T09:00:00.000Z",
-      "sourceEndDate": "2026-10-26T21:00:00.000Z",
-      "sourceTimezone": "Europe/Madrid",
-      "sha256": "a92331436103bcbad29dcd6ccee5081365d0688dbfcda32fe693ec888868d9fd",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "El Encuentro",
-      "applied": false
-    },
-    {
       "id": "luma-crypto-Q9pqBMhbxoTeN4u",
       "url": "https://luma.com/solanaskydiving",
       "fetchedAt": "2026-10-19T20:14:24.902Z",
