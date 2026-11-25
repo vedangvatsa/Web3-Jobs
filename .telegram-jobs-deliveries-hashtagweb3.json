@@ -3351,5 +3351,131 @@
     "slotKey": "2026-11-24:afternoon",
     "messageId": 156485,
     "sentAt": "2026-11-24T14:13:07.837Z"
+  },
+  "c50b7c47-cc27-4b3d-8b30-45f25c4aadb3": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T11:58:14.336Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "9df4a53e-b30f-4811-a03e-da5abb52f110",
+          "title": "Talent Operations Specialist",
+          "company": "TRM Labs",
+          "link": "https://jobs.ashbyhq.com/trm-labs/9df4a53e-b30f-4811-a03e-da5abb52f110",
+          "date": "2026-11-19T20:54:06.648+00:00",
+          "source": "Ashby: TRM Labs [trm-labs]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "G&A",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec78"
+        },
+        "key": "9df4a53e-b30f-4811-a03e-da5abb52f110",
+        "slug": "rec78",
+        "url": "https://hashtagweb3.com/rec78?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "TRM Labs",
+        "title": "Talent Operations Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+          "title": "AI Engineer",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+          "date": "2026-10-27T20:00:50.661+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote-US",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng670"
+        },
+        "key": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+        "slug": "eng670",
+        "url": "https://hashtagweb3.com/eng670?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "AI Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8937193002",
+          "title": "Senior Product Manager, Asset Onboarding & DART",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8937193002",
+          "date": "2026-11-19T22:59:19-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Product",
+          "active": true,
+          "salary": "$127.6k – $191.4k/yr",
+          "dateVerified": true,
+          "slug": "pm167"
+        },
+        "key": "8937193002",
+        "slug": "pm167",
+        "url": "https://hashtagweb3.com/pm167?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8400286",
+          "title": "Events Marketing Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8400286?t=gh_src=&gh_jid=8400286",
+          "date": "2026-11-20T10:46:07-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Menlo Park, CA; New York, NY",
+          "department": "Marketing Division",
+          "active": true,
+          "salary": "$136k – $160k/yr",
+          "dateVerified": true,
+          "slug": "mkt173"
+        },
+        "key": "8400286",
+        "slug": "mkt173",
+        "url": "https://hashtagweb3.com/mkt173?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Events Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "966674063fc9",
+          "title": "AI Datacenter Construction Manager",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/966674063fc9-ai-datacenter-construction-manager",
+          "date": "2026-11-02",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "Austin, TX",
+          "isRemote": false,
+          "department": "",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/966674063fc9-ai-datacenter-construction-manager",
+            "checkedAt": "2026-11-04T00:07:21.158Z",
+            "bodySha256": "9757f51554fd57ef8b60c5021bc30f6431436012aa604ddc3801ba79d8f28336",
+            "provider": "breezy",
+            "datePosted": "2026-11-02"
+          },
+          "slug": "mgr225"
+        },
+        "key": "966674063fc9",
+        "slug": "mgr225",
+        "url": "https://hashtagweb3.com/mgr225?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "AI Datacenter Construction Manager"
+      }
+    ],
+    "message": "- TRM Labs is hiring <a href=\"https://hashtagweb3.com/rec78?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Talent Operations Specialist</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/eng670?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Engineer</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/pm167?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager, Asset Onboarding &amp; DART</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mkt173?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Events Marketing Manager</a>\n- Bitdeer is hiring <a href=\"https://hashtagweb3.com/mgr225?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Datacenter Construction Manager</a>",
+    "slotKey": "2026-11-25:afternoon"
   }
 }
