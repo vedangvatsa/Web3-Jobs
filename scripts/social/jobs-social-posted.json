@@ -185077,6 +185077,38 @@
       "attemptId": "f508fc45-25b5-457b-acd0-6dcf2bbed07c",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 25-Nov-26 03:59:54 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AgYhtkEIBdxZURAOxtw7NIv\"}"
+    },
+    {
+      "slug": "dsf2",
+      "company": "Stripe",
+      "title": "Staff Data Scientist, Fraud",
+      "platform": "bluesky",
+      "postedAt": "2026-11-25T11:59:39.760Z",
+      "expectedText": "Stripe is hiring Staff Data Scientist: https://hashtagweb3.com/dsf2/bsky?og=7",
+      "snapshot": {
+        "id": "8323907",
+        "title": "Staff Data Scientist, Fraud",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8323907",
+        "date": "2026-11-20T15:40:04-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "N/A",
+        "department": "7112 Data Science",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dsf2"
+      },
+      "payload": {
+        "text": "Stripe is hiring Staff Data Scientist: https://hashtagweb3.com/dsf2/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/dsf2/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/dsf2.png?v=7",
+        "company": "Stripe",
+        "title": "Staff Data Scientist, Fraud",
+        "description": "Join Stripe as Staff Data Scientist, Fraud. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "692b33f2-5249-45e8-b153-7ddbf752b742",
+      "verification": "creating"
     }
   ]
 }
