@@ -189276,6 +189276,38 @@
       "attemptId": "9275573c-8ba6-43d8-817c-fd708ef8148f",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 25-Nov-26 10:01:29 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"ApvWsMVVncH2LaRYzcJO621\"}"
+    },
+    {
+      "slug": "tr89",
+      "company": "Blockchain.com",
+      "title": "OTC Sales Trader",
+      "platform": "bluesky",
+      "postedAt": "2026-11-25T18:01:13.333Z",
+      "expectedText": "Blockchain​.com is hiring OTC Sales Trader: https://hashtagweb3.com/tr89/bsky?og=7",
+      "snapshot": {
+        "id": "8359982",
+        "title": "OTC Sales Trader",
+        "company": "Blockchain.com",
+        "link": "https://job-boards.greenhouse.io/blockchain/jobs/8359982",
+        "date": "2026-11-06T14:15:03-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Blockchain.com [blockchain]",
+        "location": "London",
+        "department": "Institutional ",
+        "active": true,
+        "dateVerified": true,
+        "slug": "tr89"
+      },
+      "payload": {
+        "text": "Blockchain​.com is hiring OTC Sales Trader: https://hashtagweb3.com/tr89/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/tr89/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/tr89.png?v=7",
+        "company": "Blockchain.com",
+        "title": "OTC Sales Trader",
+        "description": "Join Blockchain.com as OTC Sales Trader. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "43d3e7cc-501d-4d1f-8e48-0f9a45310d58",
+      "verification": "creating"
     }
   ]
 }
