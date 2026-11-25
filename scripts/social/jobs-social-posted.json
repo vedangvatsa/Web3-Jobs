@@ -190690,7 +190690,8 @@
       },
       "account": "channel:product",
       "attemptId": "796d6d7e-14b8-4a32-a843-7b62ad608e6c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1f8e5a3cd1f900e1fd6f81b3a75c5509041f3857"
     }
   ]
 }
