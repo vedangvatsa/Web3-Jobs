@@ -86,6 +86,9 @@
   "https://hashtagweb3.com/warrenpred?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/dolrule?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/greecetax?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/sbiglobal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cbnstablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -260,6 +263,12 @@
   "DOL Final Rule on Crypto in 401(k)s Reaches White House Review",
   "Greece passes law taxing crypto gains and staking income",
   "Greece passes crypto tax law with 10% gains levy and 15% rate on staking",
+  "SBI, SMFG, and Solana Foundation Form Joint Venture",
+  "SBI, SMFG and Solana Foundation begin operations of SBI Solana Global joint venture",
+  "Telegram users generated 700,000 crypto wallets in 48 hours",
+  "Telegram adds 700,000 crypto wallets in 48 hours, Durov says",
+  "Nigeria mandates local licensing for foreign stablecoin issuers",
+  "Nigeria Requires Offshore Stablecoin Issuers to License Locally",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -346,5 +355,8 @@
   "fp:action|continu|four|fraudulent|group|individual|link|network|nomine|ofac",
   "fp:aid|authority|bank|bett|chair|committe|election|elizabeth|incom|increas",
   "fp:asset|digital|dol|employe|final|hous|in401|includ|investment|legal",
-  "fp:and15|annual|defi|euro|exceeding500|face10|gain|greec|incom|incurs15"
+  "fp:and15|annual|defi|euro|exceeding500|face10|gain|greec|incom|incurs15",
+  "fp:asset|begin|develop|entity|financial|focus|form|foundation|global|joint",
+  "fp:000|adds700|announc|app|durov|generated700|gram|hour|in48|increas",
+  "fp:15b|buffer|capital|foreign|incorporat|issuer|licens|local|locally|maintain"
 ]

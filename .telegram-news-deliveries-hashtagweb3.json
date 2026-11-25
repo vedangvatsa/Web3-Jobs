@@ -957,7 +957,7 @@
     "sentAt": "2026-11-25T12:00:17.350Z"
   },
   "81ddc08b-a7a1-44a8-9325-9349cf7bb8db": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T20:38:26.867Z",
     "stories": [
       {
@@ -985,6 +985,8 @@
         "originalTitle": "Nigeria Requires Offshore Stablecoin Issuers to License Locally"
       }
     ],
-    "slotKey": "2026-11-25:evening"
+    "slotKey": "2026-11-25:evening",
+    "messageId": 156506,
+    "sentAt": "2026-11-25T20:38:31.136Z"
   }
 }
