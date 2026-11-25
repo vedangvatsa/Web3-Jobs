@@ -190119,6 +190119,39 @@
       "attemptId": "e9d4f0c9-e26f-493d-a7be-88b6d233285e",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 25-Nov-26 15:26:30 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AEg6dTsN6nv-V_MUP6bV96K\"}"
+    },
+    {
+      "slug": "rasc",
+      "company": "Kalshi",
+      "title": "Regulatory Attorney - SEC/CFTC",
+      "platform": "bluesky",
+      "postedAt": "2026-11-25T23:26:18.678Z",
+      "expectedText": "Kalshi is hiring Regulatory Attorney - SEC: https://hashtagweb3.com/rasc/bsky?og=7",
+      "snapshot": {
+        "id": "4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "title": "Regulatory Attorney - SEC/CFTC",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "date": "2026-11-09T19:57:32.112+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rasc"
+      },
+      "payload": {
+        "text": "Kalshi is hiring Regulatory Attorney - SEC: https://hashtagweb3.com/rasc/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/rasc/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/rasc.png?v=7",
+        "company": "Kalshi",
+        "title": "Regulatory Attorney - SEC/CFTC",
+        "description": "Join Kalshi as Regulatory Attorney - SEC/CFTC. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "8b04971b-dd44-4d74-a3e2-2d4f5b9fb6b3",
+      "verification": "creating"
     }
   ]
 }
