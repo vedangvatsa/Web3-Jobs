@@ -185387,7 +185387,8 @@
       },
       "account": "channel:build",
       "attemptId": "d6477c01-a792-43e9-b4bb-8e6be1aa215d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2e8aeab2db7f5faf122527f7e26df73507960be7"
     }
   ]
 }
