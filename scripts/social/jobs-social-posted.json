@@ -191117,7 +191117,8 @@
       },
       "account": "channel:web3",
       "attemptId": "19bd29ed-1d56-44d8-8233-9d6aa9d80445",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb5fe67f2e813b02ce222c5da15ac6ceb69e32abc"
     }
   ]
 }
