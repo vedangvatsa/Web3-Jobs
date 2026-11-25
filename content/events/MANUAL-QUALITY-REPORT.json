@@ -1,0 +1,1868 @@
+{
+  "generatedAt": "2026-11-25T15:09:37.260Z",
+  "total": 310,
+  "passed": 310,
+  "flagged": 0,
+  "rows": [
+    {
+      "slug": "dabaohack",
+      "name": "Dabao Open Hardware Hackathon",
+      "words": 218,
+      "flags": []
+    },
+    {
+      "slug": "tbw",
+      "name": "Toronto Blockchain Week 2026",
+      "words": 227,
+      "flags": []
+    },
+    {
+      "slug": "planx",
+      "name": "PlanX Conference 2026",
+      "words": 150,
+      "flags": []
+    },
+    {
+      "slug": "bpc",
+      "name": "BlockCon Punta Cana 2026",
+      "words": 151,
+      "flags": []
+    },
+    {
+      "slug": "bnbbkk",
+      "name": "BNB Bangkok",
+      "words": 170,
+      "flags": []
+    },
+    {
+      "slug": "pfgc",
+      "name": "PlanX 2026 - The Founder Growth Conference",
+      "words": 262,
+      "flags": []
+    },
+    {
+      "slug": "wtc",
+      "name": "World Token Congress 2026",
+      "words": 174,
+      "flags": []
+    },
+    {
+      "slug": "ksrl",
+      "name": "Krypto-skatt v/ Reese Legal",
+      "words": 168,
+      "flags": []
+    },
+    {
+      "slug": "sacbo",
+      "name": "Stablecoins Americas | The Cross-Border Opportunity",
+      "words": 565,
+      "flags": []
+    },
+    {
+      "slug": "czechsol",
+      "name": "Meet the Czech Solana Builders | 3 Teams, 3 Ideas",
+      "words": 259,
+      "flags": []
+    },
+    {
+      "slug": "swccup",
+      "name": "SWC Cup | Crypto Padel League Final",
+      "words": 149,
+      "flags": []
+    },
+    {
+      "slug": "communit4",
+      "name": "Community Roundtable",
+      "words": 50,
+      "flags": []
+    },
+    {
+      "slug": "postbreak",
+      "name": "Post BreakPoint Con La Familia",
+      "words": 88,
+      "flags": []
+    },
+    {
+      "slug": "samefund",
+      "name": "Same Fund, New Rails: Money Markets Meet Tokenisation, powered by CryptoMondays Ireland",
+      "words": 288,
+      "flags": []
+    },
+    {
+      "slug": "bitdevs55",
+      "name": "BitDevs - Socratic Seminar #55",
+      "words": 242,
+      "flags": []
+    },
+    {
+      "slug": "uspolicy",
+      "name": "American Crypto Policy: What's Next - Workshop Wednesday - Phoenix - November 25",
+      "words": 183,
+      "flags": []
+    },
+    {
+      "slug": "atfxdrinks",
+      "name": "Integral x ATFX Connect | Crypto Conversations: Networking Drinks",
+      "words": 392,
+      "flags": []
+    },
+    {
+      "slug": "kol",
+      "name": "KOL Table by Lendary",
+      "words": 126,
+      "flags": []
+    },
+    {
+      "slug": "hsgfintech",
+      "name": "HSG Fintech Summit 2026",
+      "words": 278,
+      "flags": []
+    },
+    {
+      "slug": "bnb",
+      "name": "Whitepaper Reading Club: Native Privacy on BNB Chain",
+      "words": 473,
+      "flags": []
+    },
+    {
+      "slug": "ottersec",
+      "name": "OtterSec in Seoul 🇰🇷",
+      "words": 624,
+      "flags": []
+    },
+    {
+      "slug": "spindine",
+      "name": "Spin & Dine",
+      "words": 130,
+      "flags": []
+    },
+    {
+      "slug": "moonvoyage",
+      "name": "Moon Voyage",
+      "words": 127,
+      "flags": []
+    },
+    {
+      "slug": "arp",
+      "name": "Institutional Digital Capital: an evening with ARP Digital & Cypher Capital",
+      "words": 129,
+      "flags": []
+    },
+    {
+      "slug": "team1conn",
+      "name": "Team1 Connect",
+      "words": 311,
+      "flags": []
+    },
+    {
+      "slug": "getdownreal",
+      "name": "Get Down For Real",
+      "words": 272,
+      "flags": []
+    },
+    {
+      "slug": "arcstudio",
+      "name": "Arc Studio Live: From Idea to Onchain App in One Evening",
+      "words": 139,
+      "flags": []
+    },
+    {
+      "slug": "tangembuild",
+      "name": "Build on Tangem: MCP Workshop & Build Night",
+      "words": 364,
+      "flags": []
+    },
+    {
+      "slug": "merovsummit",
+      "name": "Merov Summit - Édition Paris",
+      "words": 149,
+      "flags": []
+    },
+    {
+      "slug": "offledger",
+      "name": "Off the Ledger: An Evening of Finance & Connections",
+      "words": 109,
+      "flags": []
+    },
+    {
+      "slug": "okxparis",
+      "name": "OKX in Paris",
+      "words": 181,
+      "flags": []
+    },
+    {
+      "slug": "team1brasil",
+      "name": "Team1 Brasil & Vault Capital: Office Hours",
+      "words": 255,
+      "flags": []
+    },
+    {
+      "slug": "hardwallets",
+      "name": "hardwate wallets: todo lo que debes saber antes de comprar una.",
+      "words": 154,
+      "flags": []
+    },
+    {
+      "slug": "bitcoinjapan",
+      "name": "Bitcoin Japan 2026",
+      "words": 219,
+      "flags": []
+    },
+    {
+      "slug": "solananz",
+      "name": "Solana NZ Meetup (NOV Edition)",
+      "words": 82,
+      "flags": []
+    },
+    {
+      "slug": "ftpl",
+      "name": "The Future Is Tokenized - Private Lunch",
+      "words": 140,
+      "flags": []
+    },
+    {
+      "slug": "cmclunch",
+      "name": "The Long Table: Lunch with CoinMarketCap, Bangkok",
+      "words": 202,
+      "flags": []
+    },
+    {
+      "slug": "dmcc",
+      "name": "Portugal - DMCC Elite eGaming Capital Circle",
+      "words": 169,
+      "flags": []
+    },
+    {
+      "slug": "021lab",
+      "name": "021Lab × UPrising Network | Bangkok Coffee Meetup",
+      "words": 137,
+      "flags": []
+    },
+    {
+      "slug": "gemdefi",
+      "name": "GemDeFi RWA Connect - Beyond the Token",
+      "words": 140,
+      "flags": []
+    },
+    {
+      "slug": "nextunicorn",
+      "name": "NEXT UNICORN AI Bangkok: Where AI, RWA, Web3 & Founders Meet",
+      "words": 256,
+      "flags": []
+    },
+    {
+      "slug": "agenticfi",
+      "name": "Agentic Finance x AI Security - Bangkok Side Event",
+      "words": 702,
+      "flags": []
+    },
+    {
+      "slug": "ultraconn",
+      "name": "Ultra Connect Bangkok",
+      "words": 158,
+      "flags": []
+    },
+    {
+      "slug": "bnbdemo",
+      "name": "BNB Demo Night: Bangkok",
+      "words": 132,
+      "flags": []
+    },
+    {
+      "slug": "solanaboot",
+      "name": "Solana Student Bootcamp｜AIで始める、ブロックチェーン開発",
+      "words": 75,
+      "flags": []
+    },
+    {
+      "slug": "tradingai",
+      "name": "Trading the AI Era - A Horizon Series Event @ Bangkok",
+      "words": 197,
+      "flags": []
+    },
+    {
+      "slug": "wfb",
+      "name": "Co-Working Fridays Berlin",
+      "words": 187,
+      "flags": []
+    },
+    {
+      "slug": "cooldown",
+      "name": "COOL-DOWN, Elephants x BitGo",
+      "words": 280,
+      "flags": []
+    },
+    {
+      "slug": "ukmoney",
+      "name": "Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK",
+      "words": 108,
+      "flags": []
+    },
+    {
+      "slug": "bkkfounders",
+      "name": "Bangkok Founders' Table - Welcome Dinner",
+      "words": 236,
+      "flags": []
+    },
+    {
+      "slug": "beldexprivacy",
+      "name": "BBW side event-Privacy Nights powered by Beldex",
+      "words": 188,
+      "flags": []
+    },
+    {
+      "slug": "bkkbanquet",
+      "name": "The Bangkok Banquet - Exclusive Dinner",
+      "words": 564,
+      "flags": []
+    },
+    {
+      "slug": "dashafter",
+      "name": "Dash After Hours Bangkok",
+      "words": 194,
+      "flags": []
+    },
+    {
+      "slug": "uxuy",
+      "name": "UXUY Rooftop Blockchain Week Pre-Party | Bangkok",
+      "words": 116,
+      "flags": []
+    },
+    {
+      "slug": "kriptocumafs",
+      "name": "#KriptoCuma - #CryptoFriday",
+      "words": 142,
+      "flags": []
+    },
+    {
+      "slug": "web3builders",
+      "name": "WEB3 BUILDERS GATHERING",
+      "words": 228,
+      "flags": []
+    },
+    {
+      "slug": "mulheres",
+      "name": "Mulheres na inovação | Blockchain, IA, Direito e Novos Negócios",
+      "words": 396,
+      "flags": []
+    },
+    {
+      "slug": "auscryptocon",
+      "name": "CryptoCon Sydney 2026",
+      "words": 650,
+      "flags": []
+    },
+    {
+      "slug": "bkk",
+      "name": "Sunrise Run: BKK Edition",
+      "words": 195,
+      "flags": []
+    },
+    {
+      "slug": "bcb",
+      "name": "Blockchain Conference Brasil",
+      "words": 343,
+      "flags": []
+    },
+    {
+      "slug": "money",
+      "name": "Money in 2027",
+      "words": 185,
+      "flags": []
+    },
+    {
+      "slug": "wcbbw",
+      "name": "WalletConnect Pop Up @ BBW, Bangkok",
+      "words": 230,
+      "flags": []
+    },
+    {
+      "slug": "bornup",
+      "name": "BORN UP - Binance Blockchain Week Bangkok Community Networking Meetup",
+      "words": 218,
+      "flags": []
+    },
+    {
+      "slug": "mecacfouae",
+      "name": "MECA CFO Summit 2026 (UAE) | Finance beyond Finance",
+      "words": 278,
+      "flags": []
+    },
+    {
+      "slug": "catfooding1",
+      "name": "Day 1 \\\\ Catfooding Picnic in the Park \\\\ Binance Blockchain Week",
+      "words": 175,
+      "flags": []
+    },
+    {
+      "slug": "pcmd",
+      "name": "Protocol Camp Mid Demo",
+      "words": 763,
+      "flags": []
+    },
+    {
+      "slug": "trustyfy",
+      "name": "Trustyfy: Redefining the Future of Finance",
+      "words": 306,
+      "flags": []
+    },
+    {
+      "slug": "hackathon",
+      "name": "HACKATHON: Build AI on KASPA",
+      "words": 195,
+      "flags": []
+    },
+    {
+      "slug": "nounshouse",
+      "name": "Nouns House in Bangkok",
+      "words": 166,
+      "flags": []
+    },
+    {
+      "slug": "touchgrassbkk",
+      "name": "Touch Grass: Web3 Creators × Founders",
+      "words": 114,
+      "flags": []
+    },
+    {
+      "slug": "bbw",
+      "name": "Binance Blockchain Week 2026",
+      "words": 301,
+      "flags": []
+    },
+    {
+      "slug": "airwa",
+      "name": "AI Meets RWA: The Real-World Shift",
+      "words": 336,
+      "flags": []
+    },
+    {
+      "slug": "nextbuilders",
+      "name": "Next Builders: Bangkok Afterparty",
+      "words": 715,
+      "flags": []
+    },
+    {
+      "slug": "4munleashed",
+      "name": "4M UNLEASHED - Bangkok Rooftop Takeover",
+      "words": 182,
+      "flags": []
+    },
+    {
+      "slug": "suihublagos",
+      "name": "SuiHub Lagos: The Stable Side of Sui with Zynta",
+      "words": 410,
+      "flags": []
+    },
+    {
+      "slug": "unitedst",
+      "name": "United Stablecoin Night",
+      "words": 107,
+      "flags": []
+    },
+    {
+      "slug": "satoshidinner",
+      "name": "Satoshi Dinner Club Bangkok",
+      "words": 139,
+      "flags": []
+    },
+    {
+      "slug": "mrb",
+      "name": "Milady Rave Binance Week",
+      "words": 132,
+      "flags": []
+    },
+    {
+      "slug": "predictnight",
+      "name": "Predict Night",
+      "words": 185,
+      "flags": []
+    },
+    {
+      "slug": "ushkee",
+      "name": "USHKEE × WHOA'S KITCHEN - EAT & EARN POP-UP!",
+      "words": 87,
+      "flags": []
+    },
+    {
+      "slug": "bitdevslagos",
+      "name": "BitDevs Lagos - Nov 2026",
+      "words": 82,
+      "flags": []
+    },
+    {
+      "slug": "bbwon8",
+      "name": "西格玛男人-狗哥的BBW曼谷夜宵局",
+      "words": 96,
+      "flags": []
+    },
+    {
+      "slug": "coffeebit",
+      "name": "Coffee & Bitcoin - Falls Church",
+      "words": 144,
+      "flags": []
+    },
+    {
+      "slug": "antifragile",
+      "name": "Anti-fragile Bitcoin / AI時代のセキュリティ危機とビットコインの反脆弱性",
+      "words": 399,
+      "flags": []
+    },
+    {
+      "slug": "catfooding2",
+      "name": "Day 2 \\\\ Catfooding x Team1 Picnic in the Park \\\\ Binance Blockchain Week",
+      "words": 181,
+      "flags": []
+    },
+    {
+      "slug": "tokenizedfuture",
+      "name": "The Future Is Tokenized",
+      "words": 136,
+      "flags": []
+    },
+    {
+      "slug": "picnicpark",
+      "name": "Picnic in the Park",
+      "words": 163,
+      "flags": []
+    },
+    {
+      "slug": "dashdevday",
+      "name": "DASH DEV DAY",
+      "words": 172,
+      "flags": []
+    },
+    {
+      "slug": "cbcpc",
+      "name": "Crypto Brunch Dubai - Conclave Premium Club",
+      "words": 214,
+      "flags": []
+    },
+    {
+      "slug": "healthpadel",
+      "name": "Health is Wealth - Padel & Networking",
+      "words": 150,
+      "flags": []
+    },
+    {
+      "slug": "traders",
+      "name": "Traders Night",
+      "words": 126,
+      "flags": []
+    },
+    {
+      "slug": "reservedtable",
+      "name": "The Reserved Table - Binance Blockchain Week",
+      "words": 235,
+      "flags": []
+    },
+    {
+      "slug": "cycpc",
+      "name": "Conclave Yacht Dubai - Conclave Premium Club",
+      "words": 217,
+      "flags": []
+    },
+    {
+      "slug": "proofofai",
+      "name": "Proof of AI: Bangkok Closing Night @ Binance Blockchain Week 2026",
+      "words": 194,
+      "flags": []
+    },
+    {
+      "slug": "tbe",
+      "name": "TBE Alpha: Insilico Terminal & InstaSwap",
+      "words": 757,
+      "flags": []
+    },
+    {
+      "slug": "alphatable",
+      "name": "The Alpha Table",
+      "words": 250,
+      "flags": []
+    },
+    {
+      "slug": "pdm",
+      "name": "Private Dinner with Moss",
+      "words": 245,
+      "flags": []
+    },
+    {
+      "slug": "alphatablebnb",
+      "name": "The Alpha Table, BNB and Beyond - Private Thai Dinner",
+      "words": 154,
+      "flags": []
+    },
+    {
+      "slug": "fwnp",
+      "name": "FutureZonic - Web3 Networking Party",
+      "words": 142,
+      "flags": []
+    },
+    {
+      "slug": "pancakedinner",
+      "name": "MasterChef Kitchen: Bangkok Private Dinner",
+      "words": 139,
+      "flags": []
+    },
+    {
+      "slug": "fightnight",
+      "name": "币圈首届格斗赛事",
+      "words": 108,
+      "flags": []
+    },
+    {
+      "slug": "web3indiabbw",
+      "name": "Web3India Coffee Meetup @ Binance Blockchain Week Bangkok 2026",
+      "words": 156,
+      "flags": []
+    },
+    {
+      "slug": "bmnekoben",
+      "name": "BLOCK MONDAYS - NETWORK EVENT - KICK OFF - BLOCKCHAIN WEEK DUBAI BY ECOX NETWORK",
+      "words": 185,
+      "flags": []
+    },
+    {
+      "slug": "sdb",
+      "name": "Sky Dive Dubai - BingX Dubai Week 5.0",
+      "words": 92,
+      "flags": []
+    },
+    {
+      "slug": "bkkconvergence",
+      "name": "Bangkok Convergence - Private Thai Fine-Dining Brunch",
+      "words": 126,
+      "flags": []
+    },
+    {
+      "slug": "iin",
+      "name": "Investor Innovator Networking",
+      "words": 191,
+      "flags": []
+    },
+    {
+      "slug": "astercourt",
+      "name": "ASTER COMMUNITY COURT",
+      "words": 345,
+      "flags": []
+    },
+    {
+      "slug": "orbscafe27",
+      "name": "「魔界の税理士 × しゅん」 カソツーの税金ぶっちゃけトーク！｜OrbsCafe #27",
+      "words": 74,
+      "flags": []
+    },
+    {
+      "slug": "daosweek",
+      "name": "Daos Week - Institutional & Stablecoins Summit",
+      "words": 156,
+      "flags": []
+    },
+    {
+      "slug": "tihouse",
+      "name": "The Institutional House: Where RWAs, Stablecoins & AI Meet Onchain Liquidity",
+      "words": 135,
+      "flags": []
+    },
+    {
+      "slug": "fomo",
+      "name": "Web3 FOMO Fest - After Party",
+      "words": 132,
+      "flags": []
+    },
+    {
+      "slug": "unitour3",
+      "name": "UniTour#3 - Garanti BBVA Kripto x Team1 Türkiye - Piri Reis Üniversitesi",
+      "words": 99,
+      "flags": []
+    },
+    {
+      "slug": "ptb",
+      "name": "Padel Tournament - BingX Dubai Week 5.0",
+      "words": 189,
+      "flags": []
+    },
+    {
+      "slug": "cbcpc2",
+      "name": "Crypto Banya Dubai - Conclave Premium Club",
+      "words": 208,
+      "flags": []
+    },
+    {
+      "slug": "miningdisc",
+      "name": "Mining Discovery: Your First Bittensor Mining Competition",
+      "words": 187,
+      "flags": []
+    },
+    {
+      "slug": "lwhca",
+      "name": "Liquidity Whales Hookah Night by CoinW & ArbitrageScanner.io",
+      "words": 711,
+      "flags": []
+    },
+    {
+      "slug": "bbb",
+      "name": "BingX Banya - BingX Dubai Week 5.0",
+      "words": 187,
+      "flags": []
+    },
+    {
+      "slug": "iyccm",
+      "name": "INVEST YACHT BY CONNECT & CIFRA MARKETS",
+      "words": 164,
+      "flags": []
+    },
+    {
+      "slug": "stripebreak",
+      "name": "Stripe Breakfast @ re:Invent",
+      "words": 152,
+      "flags": []
+    },
+    {
+      "slug": "web3md",
+      "name": "Web3MD | Baltimore Tech Community Meetup",
+      "words": 243,
+      "flags": []
+    },
+    {
+      "slug": "bacecg",
+      "name": "Bitcoin/Altcoins & Cryptocurrency Enthusiast Night - Crypto Gathering",
+      "words": 139,
+      "flags": []
+    },
+    {
+      "slug": "aztechcomm",
+      "name": "Tech Community Meetup - Arizona Crypto & Blockchain Builders - Phoenix - November 30",
+      "words": 188,
+      "flags": []
+    },
+    {
+      "slug": "aifuture1",
+      "name": "AI Future 2026 Day 1",
+      "words": 141,
+      "flags": []
+    },
+    {
+      "slug": "blockcha3",
+      "name": "Blockchain Life 2026 Day 1",
+      "words": 143,
+      "flags": []
+    },
+    {
+      "slug": "blockchainli",
+      "name": "Blockchain Life 2026",
+      "words": 1314,
+      "flags": []
+    },
+    {
+      "slug": "firesidechat",
+      "name": "Fireside Chat - Building Markets, Shaping Perceptions",
+      "words": 105,
+      "flags": []
+    },
+    {
+      "slug": "bornup2",
+      "name": "BORN UP - Blockchain Life Dubai Community Networking Meetup",
+      "words": 172,
+      "flags": []
+    },
+    {
+      "slug": "etfbreakfast",
+      "name": "Investor Breakfast - Why Choose an ETF for Institutional Bitcoin Exposure?",
+      "words": 131,
+      "flags": []
+    },
+    {
+      "slug": "ldn",
+      "name": "Tokenize: LDN 2026",
+      "words": 446,
+      "flags": []
+    },
+    {
+      "slug": "daosrwa",
+      "name": "Daos Week - RWAs & Onchain Finance Day",
+      "words": 135,
+      "flags": []
+    },
+    {
+      "slug": "dinerprive",
+      "name": "Diner privé entrepreneurs, investisseurs - Sur invitation",
+      "words": 160,
+      "flags": []
+    },
+    {
+      "slug": "tt1dcs",
+      "name": "Dubai Tech Tuesdays No. 126 - Details Coming Soon!",
+      "words": 354,
+      "flags": []
+    },
+    {
+      "slug": "dwfuae",
+      "name": "DWF Labs Haus: UAE Edition",
+      "words": 345,
+      "flags": []
+    },
+    {
+      "slug": "satoshidubai",
+      "name": "Satoshi Dinner Club Dubai",
+      "words": 127,
+      "flags": []
+    },
+    {
+      "slug": "neati",
+      "name": "NETWORKING EVENING ABOUT TECHNOLOGY AND INVESTMENTS",
+      "words": 125,
+      "flags": []
+    },
+    {
+      "slug": "harmonia",
+      "name": "Project Harmonia Paris: Allfunds x Solana",
+      "words": 387,
+      "flags": []
+    },
+    {
+      "slug": "tokenized",
+      "name": "Tokenized Assets Are Here. Is Your Desk Ready to Trade Them?",
+      "words": 196,
+      "flags": []
+    },
+    {
+      "slug": "bitdevsto",
+      "name": "BitDevs Toronto",
+      "words": 163,
+      "flags": []
+    },
+    {
+      "slug": "denverbit",
+      "name": "Denver BitDevs at The Space",
+      "words": 87,
+      "flags": []
+    },
+    {
+      "slug": "bitcoinbrews",
+      "name": "Bitcoin & Brews Port Moody",
+      "words": 128,
+      "flags": []
+    },
+    {
+      "slug": "aifuture2",
+      "name": "AI Future 2026 Day 2",
+      "words": 128,
+      "flags": []
+    },
+    {
+      "slug": "blockcha32",
+      "name": "Blockchain Life 2026 Day 2",
+      "words": 125,
+      "flags": []
+    },
+    {
+      "slug": "dubaibrunch",
+      "name": "Dubai Brunch: Crypto Cards and Payments | Blockchain Life Side Event",
+      "words": 279,
+      "flags": []
+    },
+    {
+      "slug": "africa3",
+      "name": "Africa Bitcoin Conference 2026",
+      "words": 647,
+      "flags": []
+    },
+    {
+      "slug": "aistrategy",
+      "name": "AI x Strategy Workshop",
+      "words": 529,
+      "flags": []
+    },
+    {
+      "slug": "ecoxdubai",
+      "name": "Blockchain Week Dubai - Ecox Network Side Event",
+      "words": 59,
+      "flags": []
+    },
+    {
+      "slug": "aspectyacht",
+      "name": "Aspect Blockchain Yacht Party - Blockchain Life 2026",
+      "words": 133,
+      "flags": []
+    },
+    {
+      "slug": "lecosystem",
+      "name": "L'écosystème fintech montréalais à l'heure de la tokenisation",
+      "words": 112,
+      "flags": []
+    },
+    {
+      "slug": "oabl",
+      "name": "OFFICIAL AFTERPARTY Blockchain Life 2026",
+      "words": 213,
+      "flags": []
+    },
+    {
+      "slug": "zurichsoc",
+      "name": "The Zurich Society Afterwork at THE LOBBY 6",
+      "words": 280,
+      "flags": []
+    },
+    {
+      "slug": "tokenizar",
+      "name": "Tokenizar valores en Europa: ¿España o Luxemburgo?",
+      "words": 186,
+      "flags": []
+    },
+    {
+      "slug": "antidotenews",
+      "name": "Antidote Presents: News Night",
+      "words": 126,
+      "flags": []
+    },
+    {
+      "slug": "bitbaselmiami",
+      "name": "BitBasel Miami Art Week 2026: The Next Renaissance | EARLY BIRD ENDS NOV 11",
+      "words": 781,
+      "flags": []
+    },
+    {
+      "slug": "cooperativ",
+      "name": "Cooperative Futures: Philadelphia",
+      "words": 131,
+      "flags": []
+    },
+    {
+      "slug": "futuretrade",
+      "name": "The Future of Trade & Capital",
+      "words": 127,
+      "flags": []
+    },
+    {
+      "slug": "ccipayward",
+      "name": "CCI x Payward Reception",
+      "words": 95,
+      "flags": []
+    },
+    {
+      "slug": "torontotech",
+      "name": "Toronto Tech Christmas Party 2026: AI - Defence - Crypto | Connect. Celebrate. Build.",
+      "words": 103,
+      "flags": []
+    },
+    {
+      "slug": "ptad",
+      "name": "Proof of Talk Abu Dhabi",
+      "words": 138,
+      "flags": []
+    },
+    {
+      "slug": "jsb",
+      "name": "Jet Ski - BingX Dubai Week 5.0",
+      "words": 150,
+      "flags": []
+    },
+    {
+      "slug": "genevaetf",
+      "name": "Geneva Investor Briefing - Why Choose an ETF for Institutional Bitcoin Exposure?",
+      "words": 198,
+      "flags": []
+    },
+    {
+      "slug": "tecnologia",
+      "name": "Tecnología que funciona",
+      "words": 263,
+      "flags": []
+    },
+    {
+      "slug": "gatedrift",
+      "name": "Gate Drift 2026",
+      "words": 418,
+      "flags": []
+    },
+    {
+      "slug": "headsuphack",
+      "name": "Heads Up Hackathon: Demo Day & Awards",
+      "words": 156,
+      "flags": []
+    },
+    {
+      "slug": "unitourturkey",
+      "name": "UniTour#3 - Garanti BBVA Kripto x Team1 Türkiye - İstanbul Üniversitesi",
+      "words": 89,
+      "flags": []
+    },
+    {
+      "slug": "dbb",
+      "name": "Dune Buggy - BingX Dubai Week 5.0",
+      "words": 167,
+      "flags": []
+    },
+    {
+      "slug": "dmb",
+      "name": "Dune Motocross- BingX Dubai Week 5.0",
+      "words": 154,
+      "flags": []
+    },
+    {
+      "slug": "sywl",
+      "name": "F1 Super Yacht Waiting List",
+      "words": 249,
+      "flags": []
+    },
+    {
+      "slug": "bmbdjpbdg",
+      "name": "Bitcoin meetup #30: Bitcoinové dědictví: jak předat bitcoiny další generaci",
+      "words": 151,
+      "flags": []
+    },
+    {
+      "slug": "tellordcdao",
+      "name": "Holiday Party with Tellor & DC DAO!",
+      "words": 125,
+      "flags": []
+    },
+    {
+      "slug": "abc",
+      "name": "Austin Bitcoin Club",
+      "words": 100,
+      "flags": []
+    },
+    {
+      "slug": "bitdevscdmx",
+      "name": "BitDevs CDMX 018 - Seminario Socrático Técnico de Bitcoin",
+      "words": 184,
+      "flags": []
+    },
+    {
+      "slug": "jllinkai",
+      "name": "JLlinkAI：AI × FinTech Innovation Summit 2026（2nd）",
+      "words": 139,
+      "flags": []
+    },
+    {
+      "slug": "onecloudsum",
+      "name": "OneCloud Digital Native Summit",
+      "words": 682,
+      "flags": []
+    },
+    {
+      "slug": "adgpb",
+      "name": "F1 Abu-Dhabi Grand-Prix - BingX Dubai Week 5.0",
+      "words": 91,
+      "flags": []
+    },
+    {
+      "slug": "nextdubai",
+      "name": "THE NEX-T DUBAI 2026",
+      "words": 114,
+      "flags": []
+    },
+    {
+      "slug": "tbbfriday",
+      "name": "TBB First Friday",
+      "words": 260,
+      "flags": []
+    },
+    {
+      "slug": "adgpmy",
+      "name": "F1 Abu Dhabi Grand Prix - Mega Yacht",
+      "words": 337,
+      "flags": []
+    },
+    {
+      "slug": "fintechnews",
+      "name": "Fintech News Media Roast: Surviving the Cycles",
+      "words": 173,
+      "flags": []
+    },
+    {
+      "slug": "blcyacht",
+      "name": "Blockchain Life SE by Networking.Yachts",
+      "words": 152,
+      "flags": []
+    },
+    {
+      "slug": "kriptocumaez",
+      "name": "#KriptoCuma - #CryptoFriday",
+      "words": 142,
+      "flags": []
+    },
+    {
+      "slug": "brudbbr",
+      "name": "Bitcoin Rails Unconference: Doing business on Bitcoin Rails",
+      "words": 376,
+      "flags": []
+    },
+    {
+      "slug": "capitalgaf1",
+      "name": "CAPITAL GATHERING F1",
+      "words": 165,
+      "flags": []
+    },
+    {
+      "slug": "brudcdc",
+      "name": "Bitcoin Rails Unconference Day 2: From Digital Capital to Digital Credit",
+      "words": 272,
+      "flags": []
+    },
+    {
+      "slug": "adfwpm",
+      "name": "🇦🇪 Family Offices Investors Summit Michelin‑DinnerAbu Dhabi Finance Week #F1 #ADFW Dec 6 3-6 PM, 2026",
+      "words": 755,
+      "flags": []
+    },
+    {
+      "slug": "bitcoinmena",
+      "name": "Bitcoin Mena",
+      "words": 121,
+      "flags": []
+    },
+    {
+      "slug": "enbm",
+      "name": "Ecox Network - Block Mondays Dubai",
+      "words": 196,
+      "flags": []
+    },
+    {
+      "slug": "adfw",
+      "name": "Abu Dhabi Finance Week",
+      "words": 327,
+      "flags": []
+    },
+    {
+      "slug": "sez",
+      "name": "SEZ Dubai 2026: General Admission Ticket",
+      "words": 150,
+      "flags": []
+    },
+    {
+      "slug": "agentickorea",
+      "name": "Agentic Payments Korea",
+      "words": 718,
+      "flags": []
+    },
+    {
+      "slug": "furtheradfw",
+      "name": "Further Network Summit 2026 [ADFW]",
+      "words": 164,
+      "flags": []
+    },
+    {
+      "slug": "corgearnight",
+      "name": "第33回 CORGEAR Night ～仮想NISHIと振り返る2026年のWeb3 - コーギアナイト忘年会～",
+      "words": 152,
+      "flags": []
+    },
+    {
+      "slug": "mms",
+      "name": "Meet Manus 2.0 | Dubai | Session #1",
+      "words": 212,
+      "flags": []
+    },
+    {
+      "slug": "daso",
+      "name": "Digital Asset Summit - The Opening Night",
+      "words": 92,
+      "flags": []
+    },
+    {
+      "slug": "manusdubai2",
+      "name": "Meet Manus 2.0 | Dubai | Session #2",
+      "words": 138,
+      "flags": []
+    },
+    {
+      "slug": "vcvip",
+      "name": "Founder × VC VIP Dinner | Abu Dhabi 🇦🇪",
+      "words": 170,
+      "flags": []
+    },
+    {
+      "slug": "mngpfds",
+      "name": "Meet the Next Generation of Palestinian Founders | Dubai Demo Showcase",
+      "words": 140,
+      "flags": []
+    },
+    {
+      "slug": "gplpd",
+      "name": "Private LP-only Dinner by Gamma Prime 🇦🇪",
+      "words": 179,
+      "flags": []
+    },
+    {
+      "slug": "solanaarcade",
+      "name": "Solana Arcade Night",
+      "words": 151,
+      "flags": []
+    },
+    {
+      "slug": "tcfgwhp",
+      "name": "Trust Circle: The Future Of Global Wealth co-hosted by Plasma",
+      "words": 302,
+      "flags": []
+    },
+    {
+      "slug": "stellarsec",
+      "name": "Privacy as a Feature: a abordagem da Stellar para privacidade onchain",
+      "words": 312,
+      "flags": []
+    },
+    {
+      "slug": "reapsaopaulo",
+      "name": "Reap Private Table - São Paulo",
+      "words": 256,
+      "flags": []
+    },
+    {
+      "slug": "odtrcecgo",
+      "name": "One Dollar, Two Rails: The Capital Efficiency Case for Going Onchain",
+      "words": 177,
+      "flags": []
+    },
+    {
+      "slug": "scc",
+      "name": "Solana Coffee Connect",
+      "words": 133,
+      "flags": []
+    },
+    {
+      "slug": "msmad",
+      "name": "Merkle Science Meet Abu Dhabi",
+      "words": 689,
+      "flags": []
+    },
+    {
+      "slug": "apms",
+      "name": "Allocator x Portfolio Manager Showcase",
+      "words": 126,
+      "flags": []
+    },
+    {
+      "slug": "tokenizead",
+      "name": "Tokenize & Connect Abu Dhabi",
+      "words": 162,
+      "flags": []
+    },
+    {
+      "slug": "aigpuai",
+      "name": "AI X GPU Pre Summit : AI leaders Connect",
+      "words": 134,
+      "flags": []
+    },
+    {
+      "slug": "futurefi2",
+      "name": "FutureFinance Connect",
+      "words": 330,
+      "flags": []
+    },
+    {
+      "slug": "gitex",
+      "name": "GITEX Networking Yacht Cruise",
+      "words": 90,
+      "flags": []
+    },
+    {
+      "slug": "pdn",
+      "name": "Private Dinner by nSureAI",
+      "words": 506,
+      "flags": []
+    },
+    {
+      "slug": "soiree",
+      "name": "ADFW Soirée by Soter Insure & Galaxy",
+      "words": 293,
+      "flags": []
+    },
+    {
+      "slug": "itpdtssadf",
+      "name": "Institutional Table: Private Dinner on Tokenization, Stablecoins and Security | Abu Dhabi Finance Week",
+      "words": 353,
+      "flags": []
+    },
+    {
+      "slug": "foundersgeneva",
+      "name": "Founders, Funding & the Future of Money: Geneva End-of-Year Soirée",
+      "words": 129,
+      "flags": []
+    },
+    {
+      "slug": "tokenizeconn",
+      "name": "Tokenize Connect: Tokenização de ativos",
+      "words": 265,
+      "flags": []
+    },
+    {
+      "slug": "dawn",
+      "name": "The Dawn",
+      "words": 347,
+      "flags": []
+    },
+    {
+      "slug": "hsc",
+      "name": "HSC Asset Management Abu Dhabi 9-10 December",
+      "words": 124,
+      "flags": []
+    },
+    {
+      "slug": "xrplhack",
+      "name": "ブロックチェーン・ハッカソン 2026 | XRPL Hackathon at Blockchain Kaigi 2026 (Tokyo)",
+      "words": 1266,
+      "flags": []
+    },
+    {
+      "slug": "uaeai",
+      "name": "UAE AI Leaders Roundtable Breakfast",
+      "words": 186,
+      "flags": []
+    },
+    {
+      "slug": "vntrdubai",
+      "name": "VNTR Investor Forum Dubai",
+      "words": 655,
+      "flags": []
+    },
+    {
+      "slug": "hscdinner",
+      "name": "HSC Private Dinner",
+      "words": 179,
+      "flags": []
+    },
+    {
+      "slug": "majlis",
+      "name": "The Majlis",
+      "words": 354,
+      "flags": []
+    },
+    {
+      "slug": "adfwsoiree",
+      "name": "Business Leaders Soirée | Evening Mixer During ADFW",
+      "words": 423,
+      "flags": []
+    },
+    {
+      "slug": "web3undergr",
+      "name": "Monthly Meetup of the Web3 Developers Underground community",
+      "words": 162,
+      "flags": []
+    },
+    {
+      "slug": "matchnight",
+      "name": "Match Night: Pitch & Fund",
+      "words": 275,
+      "flags": []
+    },
+    {
+      "slug": "gbsad",
+      "name": "Global Blockchain Show Abu Dhabi 2026",
+      "words": 142,
+      "flags": []
+    },
+    {
+      "slug": "gts",
+      "name": "Global Trading Show 2026",
+      "words": 145,
+      "flags": []
+    },
+    {
+      "slug": "reconcoin",
+      "name": "ReCON - Coinspiracy II",
+      "words": 156,
+      "flags": []
+    },
+    {
+      "slug": "padel",
+      "name": "Padel Social @ ADFW",
+      "words": 139,
+      "flags": []
+    },
+    {
+      "slug": "cibersegur",
+      "name": "Cibersegurança na era da IA",
+      "words": 375,
+      "flags": []
+    },
+    {
+      "slug": "digitalmoney",
+      "name": "Digital Money & Markets Forum",
+      "words": 442,
+      "flags": []
+    },
+    {
+      "slug": "longitude",
+      "name": "LONGITUDE, 11th edition",
+      "words": 92,
+      "flags": []
+    },
+    {
+      "slug": "afterhours",
+      "name": "After Hours : ADFW Edition | Powered by Checkout.com",
+      "words": 325,
+      "flags": []
+    },
+    {
+      "slug": "solanasocial",
+      "name": "Solana Social Mixer",
+      "words": 166,
+      "flags": []
+    },
+    {
+      "slug": "sftlholiday",
+      "name": "Driven by Dreams- Take the Wheel: SFTL Christmass Event",
+      "words": 476,
+      "flags": []
+    },
+    {
+      "slug": "cwcbreath",
+      "name": "CWC x Sosoul: A Breathwork Evening",
+      "words": 600,
+      "flags": []
+    },
+    {
+      "slug": "beldexvip",
+      "name": "Beldex Presents: The exclusive VIP Rooftop Dinner Party | Colombian Blockchain Week",
+      "words": 129,
+      "flags": []
+    },
+    {
+      "slug": "btcbookclub",
+      "name": "Bitcoin Book Club: Resistance Money",
+      "words": 164,
+      "flags": []
+    },
+    {
+      "slug": "reapcdmx",
+      "name": "Cena Privada de fin de año by Reap - CDMX",
+      "words": 346,
+      "flags": []
+    },
+    {
+      "slug": "kriptocumae1",
+      "name": "#KriptoCuma - #CryptoFriday",
+      "words": 142,
+      "flags": []
+    },
+    {
+      "slug": "cyberworkshop",
+      "name": "Workshop: Navigating Cyber Threats Across the Onchain Ecosystem",
+      "words": 576,
+      "flags": []
+    },
+    {
+      "slug": "bullrunstrat",
+      "name": "Crypto Bullrun 2027 Strategy (Offline Meetup)",
+      "words": 72,
+      "flags": []
+    },
+    {
+      "slug": "pauhana",
+      "name": "End of Year Pau Hana",
+      "words": 153,
+      "flags": []
+    },
+    {
+      "slug": "whaleslounge",
+      "name": "The Whales Lounge II: Bittime Wonder4 Anniversary",
+      "words": 181,
+      "flags": []
+    },
+    {
+      "slug": "nftsampa",
+      "name": "NFT Sampa : 12 e 13 / Dez, 2026",
+      "words": 110,
+      "flags": []
+    },
+    {
+      "slug": "communtiy",
+      "name": "Communtiy Christmas Event",
+      "words": 159,
+      "flags": []
+    },
+    {
+      "slug": "btcbrunch",
+      "name": "Bitcoin Brunch - The Boro",
+      "words": 157,
+      "flags": []
+    },
+    {
+      "slug": "bayareabtc",
+      "name": "Bay Area Bitcoiner Holiday Party and BitDevs Socratic Seminar",
+      "words": 154,
+      "flags": []
+    },
+    {
+      "slug": "awicdc",
+      "name": "AWIC DC Holiday Reunion",
+      "words": 145,
+      "flags": []
+    },
+    {
+      "slug": "chrismukkuh",
+      "name": "Crypto Chrismukkuh | Hosted by Eden",
+      "words": 156,
+      "flags": []
+    },
+    {
+      "slug": "aiarcade",
+      "name": "AI ARCADE ON KUB CHAIN",
+      "words": 516,
+      "flags": []
+    },
+    {
+      "slug": "vhadlp",
+      "name": "Vex House: Abu Dhabi Launch Party",
+      "words": 173,
+      "flags": []
+    },
+    {
+      "slug": "awicbitso",
+      "name": "AWIC & Bitso: Brindis Navideño, Cripto & Comunidad",
+      "words": 149,
+      "flags": []
+    },
+    {
+      "slug": "roadtoethprg",
+      "name": "Road to ETHPrague: Christmas party",
+      "words": 95,
+      "flags": []
+    },
+    {
+      "slug": "escondido",
+      "name": "Escondido Bitcoin Meetup",
+      "words": 180,
+      "flags": []
+    },
+    {
+      "slug": "pbhd",
+      "name": "Proof of Build: Houston Dev Night",
+      "words": 128,
+      "flags": []
+    },
+    {
+      "slug": "swcholiday",
+      "name": "PROOF OF COMMUNITY | The SWC Holiday Link-Up",
+      "words": 255,
+      "flags": []
+    },
+    {
+      "slug": "kriptocumaws",
+      "name": "#KriptoCuma - #CryptoFriday",
+      "words": 143,
+      "flags": []
+    },
+    {
+      "slug": "pubkeyprivacy",
+      "name": "NYC PubKey Privacy Pop-up",
+      "words": 144,
+      "flags": []
+    },
+    {
+      "slug": "btcmasters",
+      "name": "Bitcoin Masterclass",
+      "words": 384,
+      "flags": []
+    },
+    {
+      "slug": "cryptomo2",
+      "name": "CryptoMondays Dubai: Christmas Edition 2026",
+      "words": 267,
+      "flags": []
+    },
+    {
+      "slug": "digestchat",
+      "name": "Coffee Chat Hangout by Web3 Digest - New Date Coming Soon",
+      "words": 123,
+      "flags": []
+    },
+    {
+      "slug": "ecfc",
+      "name": "ETH CALI, A FRONTIER CITY",
+      "words": 91,
+      "flags": []
+    },
+    {
+      "slug": "kriptocuma1a",
+      "name": "#KriptoCuma - #CryptoFriday",
+      "words": 143,
+      "flags": []
+    },
+    {
+      "slug": "orbscafe28",
+      "name": "NADAニュースが解説！2026年 暗号資産の注目ニュースと来年の展望｜OrbsCafe #28",
+      "words": 81,
+      "flags": []
+    },
+    {
+      "slug": "runblr",
+      "name": "Ready for the Run @ Bengaluru",
+      "words": 144,
+      "flags": []
+    },
+    {
+      "slug": "sccc",
+      "name": "Superteam Canada Community Call",
+      "words": 90,
+      "flags": []
+    },
+    {
+      "slug": "auralith",
+      "name": "Auralith AAO Launch Event!",
+      "words": 246,
+      "flags": []
+    },
+    {
+      "slug": "snowfro",
+      "name": "Snowfro: Press Start",
+      "words": 180,
+      "flags": []
+    },
+    {
+      "slug": "blockdown",
+      "name": "BlockDown Festival Dubai 2027",
+      "words": 319,
+      "flags": []
+    },
+    {
+      "slug": "xrpberlin",
+      "name": "XRP Community Night Berlin",
+      "words": 257,
+      "flags": []
+    },
+    {
+      "slug": "keiochain",
+      "name": "Keio ChainHack 2027 - Shaping the Future of AI & Web3",
+      "words": 460,
+      "flags": []
+    },
+    {
+      "slug": "btcstandard",
+      "name": "翻訳者とディスカッション『ビットコイン・スタンダード』から見る世界と日本のギャップ、これからの展望",
+      "words": 105,
+      "flags": []
+    },
+    {
+      "slug": "daf",
+      "name": "Digital Assets Forum 2027",
+      "words": 253,
+      "flags": []
+    },
+    {
+      "slug": "consensus",
+      "name": "Consensus Hong Kong 2027",
+      "words": 127,
+      "flags": []
+    },
+    {
+      "slug": "rcubealpha",
+      "name": "Rcube Crypto Alpha Talk #3 | The Next Frontier of Alpha",
+      "words": 101,
+      "flags": []
+    },
+    {
+      "slug": "cwcwine",
+      "name": "Off the Beaten Vine: CWC wine tasting",
+      "words": 272,
+      "flags": []
+    },
+    {
+      "slug": "wealthgeneva",
+      "name": "Wealth Tech Executive Forum | Geneva Edition",
+      "words": 575,
+      "flags": []
+    },
+    {
+      "slug": "cbc",
+      "name": "CBC Summit Europe 2027",
+      "words": 89,
+      "flags": []
+    },
+    {
+      "slug": "blockchainbc",
+      "name": "Blockchain Summit 2027 Spring",
+      "words": 166,
+      "flags": []
+    },
+    {
+      "slug": "xrpaustralia",
+      "name": "XRP AUSTRALIA 2027 🇦🇺",
+      "words": 512,
+      "flags": []
+    },
+    {
+      "slug": "zigsummit",
+      "name": "ZIG Summit 2027",
+      "words": 431,
+      "flags": []
+    },
+    {
+      "slug": "nyc",
+      "name": "Digital Asset Summit NYC 2027",
+      "words": 139,
+      "flags": []
+    },
+    {
+      "slug": "dc",
+      "name": "DC Blockchain Summit 2027",
+      "words": 227,
+      "flags": []
+    },
+    {
+      "slug": "teamzai",
+      "name": "TEAMZ Web3/AI Summit 2027",
+      "words": 101,
+      "flags": []
+    },
+    {
+      "slug": "ethcc",
+      "name": "EthCC[10] Cannes 2027",
+      "words": 274,
+      "flags": []
+    },
+    {
+      "slug": "emea",
+      "name": "Stablecon EMEA 2027",
+      "words": 128,
+      "flags": []
+    },
+    {
+      "slug": "wealthdubai",
+      "name": "Wealth Tech Executive Forum | Dubai Edition",
+      "words": 98,
+      "flags": []
+    },
+    {
+      "slug": "tacnodeapex",
+      "name": "Tacnode APEX @ Token2049 Dubai",
+      "words": 126,
+      "flags": []
+    },
+    {
+      "slug": "token20491",
+      "name": "TOKEN2049 Dubai 2027",
+      "words": 136,
+      "flags": []
+    },
+    {
+      "slug": "womenintech",
+      "name": "Women in Tech Global Summit 2027",
+      "words": 202,
+      "flags": []
+    },
+    {
+      "slug": "finnovation",
+      "name": "Finnovation Day @ Money20/20 Asia - APAC Money Movement: Cross-Border Payments × Banking × Digital Assets",
+      "words": 202,
+      "flags": []
+    },
+    {
+      "slug": "consensusmi",
+      "name": "Consensus Miami 2027",
+      "words": 137,
+      "flags": []
+    },
+    {
+      "slug": "btcprague",
+      "name": "BTC Prague 2027",
+      "words": 755,
+      "flags": []
+    },
+    {
+      "slug": "dutchblsu",
+      "name": "Dutch Blockchain Week 2027",
+      "words": 127,
+      "flags": []
+    },
+    {
+      "slug": "nfcsummit",
+      "name": "NFC Summit 2027",
+      "words": 136,
+      "flags": []
+    },
+    {
+      "slug": "aba",
+      "name": "Adopting Bitcoin Arnhem 2027",
+      "words": 35,
+      "flags": []
+    },
+    {
+      "slug": "viennabl",
+      "name": "Vienna Blockchain Week 2027",
+      "words": 94,
+      "flags": []
+    },
+    {
+      "slug": "africa2",
+      "name": "Africa Prediction Markets Summit 2027",
+      "words": 90,
+      "flags": []
+    },
+    {
+      "slug": "webflea",
+      "name": "WEB FLEA",
+      "words": 252,
+      "flags": []
+    },
+    {
+      "slug": "ethconf",
+      "name": "ETHConf 2027",
+      "words": 141,
+      "flags": []
+    },
+    {
+      "slug": "token20492",
+      "name": "TOKEN2049 New York 2027",
+      "words": 170,
+      "flags": []
+    },
+    {
+      "slug": "signalweek",
+      "name": "Signal Week 2027",
+      "words": 222,
+      "flags": []
+    },
+    {
+      "slug": "bitcoin3",
+      "name": "Bitcoin 2027",
+      "words": 580,
+      "flags": []
+    },
+    {
+      "slug": "webxtokyo",
+      "name": "WebX 2027 Tokyo",
+      "words": 261,
+      "flags": []
+    },
+    {
+      "slug": "btcasia",
+      "name": "Bitcoin Asia 2027",
+      "words": 247,
+      "flags": []
+    },
+    {
+      "slug": "solanabresol",
+      "name": "Solana Breakpoint 2027",
+      "words": 155,
+      "flags": []
+    },
+    {
+      "slug": "fintechweek",
+      "name": "Fintech Week London Summit 2027",
+      "words": 101,
+      "flags": []
+    },
+    {
+      "slug": "bts4a",
+      "name": "Blockchain Tech Summit (4th Annual)",
+      "words": 155,
+      "flags": []
+    },
+    {
+      "slug": "token20493",
+      "name": "TOKEN2049 Singapore 2027",
+      "words": 180,
+      "flags": []
+    },
+    {
+      "slug": "vcws",
+      "name": "Dubai 2027 Venture Capital World Summit",
+      "words": 93,
+      "flags": []
+    }
+  ]
+}

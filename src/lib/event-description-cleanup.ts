@@ -52,15 +52,23 @@ export function stripLumaEventFooterDuplicate(text: string): string {
 }
 
 export function stripLumaExportChrome(text: string): string {
-  if (!/LumaSkip to Content/i.test(text)) return text;
-  const normalized = text.replace(/\r\n?/g, '\n');
-  const about = normalized.match(
-    /About Event\s*\n+([\s\S]*?)(?=\n\n(?:Location|Hosted By|Presented by|Registration)\b)/i,
-  );
-  if (about?.[1]?.trim()) {
-    return about[1].replace(/^\u200b+/gm, '').trim();
+  let normalized = text.replace(/\r\n?/g, '\n');
+  if (!/LumaSkip to Content/i.test(normalized)) {
+    return normalized.replace(/[^\n]*LumaSkip to Content\s*/gi, '').trim();
   }
-  const withoutPreamble = normalized.replace(/^[\s\S]*?LumaSkip to Content\s*\n+/i, '');
+  const aboutBlock = normalized.match(
+    /About Event\s*\n+([\s\S]*?)(?=\n\n(?:Location|Presented by|Registration(?: Approval)?|About the organiser|## Tickets)\b)/i,
+  );
+  if (aboutBlock?.[1]?.trim()) {
+    return aboutBlock[1].replace(/^\u200b+/gm, '').trim();
+  }
+  const aboutInline = normalized.match(
+    /\bAbout Event\s+([\s\S]*?)(?=\s+Location\s|\n\nLocation\b|Tickets\b|## Tickets\b|About the organiser\b)/i,
+  );
+  if (aboutInline?.[1]?.trim()) {
+    return aboutInline[1].replace(/^\u200b+/gm, '').trim();
+  }
+  const withoutPreamble = normalized.replace(/^[\s\S]*?LumaSkip to Content\s*/i, '');
   const markdown = withoutPreamble.match(/(##[\s\S]+)/);
   if (markdown?.[1]) return markdown[1].replace(LUMA_CHROME_TAIL, '').trim();
   return withoutPreamble.replace(LUMA_CHROME_TAIL, '').trim();

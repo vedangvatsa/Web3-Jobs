@@ -24,8 +24,11 @@ const $ = cheerio.load(html);
 assert.deepEqual(descriptionFormattingIssues(html), []);
 assert.ok($('h2').toArray().some(el => $(el).text() === 'Schedule'));
 assert.equal($('ol').attr('start'), '3');
-assert.equal($('ol > li').length, 2);
-assert.equal($('ol > li > ul > li').length, 2);
+const registration = $('h2')
+  .filter((_, el) => $(el).text() === 'Registration')
+  .closest('section');
+assert.equal(registration.find('ol > li').length, 2);
+assert.equal(registration.find('ul > li').length, 2);
 assert.equal($('strong').first().text(), 'project');
 assert.ok($.text().includes('the guide'), 'organizer copy keeps link labels without outbound URLs');
 assert.equal($('a[href^="http"]').length, 0, 'editorial renderer does not emit outbound anchors');

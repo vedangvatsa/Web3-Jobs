@@ -720,7 +720,7 @@ Each entry links to its formatted description and original source file. All stor
 | [Blockchain Life 2026 Day 2](descriptions.md#event-0fe5ced780b00c6e) | 2026-12-02 | Source-backed (952 chars) |
 | [Dubai Brunch: Crypto Cards and Payments \| Blockchain Life Side Event](descriptions.md#event-06971dbea34fe03f) | 2026-12-02 | Source-backed (1792 chars) |
 | [AI x Strategy Workshop](descriptions.md#event-11ba4e2cb2afad0e) | 2026-12-02 | Source-backed (2876 chars) |
-| [Blockchain Week Dubai - Ecox Network Side Event](descriptions.md#event-a917ce5b89b5f516) | 2026-12-02 | Source-backed (864 chars) |
+| [Blockchain Week Dubai - Ecox Network Side Event](descriptions.md#event-a917ce5b89b5f516) | 2026-12-02 | Source-backed (354 chars) |
 | [Aspect Blockchain Yacht Party · Blockchain Life 2026](descriptions.md#event-8967febccdda5ee6) | 2026-12-02 | Source-backed (849 chars) |
 | [L’écosystème fintech montréalais à l’heure de la tokenisation](descriptions.md#event-37bf76bfec0df735) | 2026-12-02 | Source-backed (855 chars) |
 | [OFFICIAL AFTERPARTY Blockchain Life 2026](descriptions.md#event-6c2a9ac23f769b77) | 2026-12-02 | Source-backed (1428 chars) |
@@ -881,7 +881,7 @@ Each entry links to its formatted description and original source file. All stor
 | [SwissBorg Zurich Community Meetup](descriptions.md#event-e8a23d94a0e6f9fa) | 2026-11-19 | Source-backed (811 chars) |
 | [Kundenschutz und Kryptowährungen](descriptions.md#event-8ac9189fbfadfadf) | 2026-11-26 | Source-backed (1082 chars) |
 | [SEZ Dubai 2026: General Admission Ticket](descriptions.md#event-6d2e782bf92b5838) | 2026-12-07 | Source-backed (1009 chars) |
-| [☕Coffee Chat Hangout by Web3 Digest — New Date Coming Soon](descriptions.md#event-8709b15fdbfb695e) | 2026-12-22 | Source-backed (1336 chars) |
+| [☕Coffee Chat Hangout by Web3 Digest — New Date Coming Soon](descriptions.md#event-8709b15fdbfb695e) | 2026-12-22 | Source-backed (839 chars) |
 | [Ready for the Run @ Bengaluru](descriptions.md#event-d2a922109656aecc) | 2027-01-02 | Source-backed (1007 chars) |
 | [Wealth Tech Executive Forum \| 📍Geneva Edition](descriptions.md#event-cdb48c0d8fc53d5c) | 2027-02-23 | Source-backed (4169 chars) |
 | [Women in Tech Global Summit 2027](descriptions.md#event-f6f223279bac8673) | 2027-04-27 | Source-backed (1257 chars) |
@@ -2357,7 +2357,7 @@ Each entry links to its formatted description and original source file. All stor
 | [New Year's Eve at Velvet Room \| DJ Nico](descriptions.md#event-beabf835d8c95c3b) | 2026-12-31 | Unverified stored copy (98 chars) |
 | [CryptoMondays Vegas • CES Week Kickoff](descriptions.md#event-80f52e3469b42012) | 2027-01-04 | Unverified stored copy (60 chars) |
 | [London Crypto + HNWI Industry January Mayfair Networking Lunch](descriptions.md#event-5bbc436a0a227c27) | 2027-01-06 | Unverified stored copy (122 chars) |
-| [Superteam Canada Community Call](descriptions.md#event-a48eaf887edc9598) | 2027-01-07 | Source-backed (1002 chars) |
+| [Superteam Canada Community Call](descriptions.md#event-a48eaf887edc9598) | 2027-01-07 | Source-backed (521 chars) |
 | [Der Unternehmer 2035 - BestPrime holt Zukunftsforscher Sven Gábor Janszky](descriptions.md#event-eda9df81738c87e5) | 2027-01-09 | Unverified stored copy (99 chars) |
 | [Bitcoin for Beginners](descriptions.md#event-82f7d80dda5cc1bc) | 2027-01-10 | Unverified stored copy (200 chars) |
 | [Bitcoin Beginner Workshops - Entdecke Bitcoin](descriptions.md#event-d8441daaab5145ad) | 2027-01-11 | Unverified stored copy (116 chars) |

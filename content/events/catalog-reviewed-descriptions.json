@@ -497,7 +497,7 @@
     }
   },
   "luma-batch-evtt671wDnUAzkDr": {
-    "description": "Coffee Chat Hangout by Web3 Digest - New Date Coming Soon LumaSkip to Content Hosted By Web3 Digest 22 Going Crypto Coffee Chat Hangout by Web3 Digest - New Date Coming Soon Hosted by Web3 Digest Caf\u00e9 One Ikeja, Nigeria\n\nRegistration Approval Required Your\n\nregistration is subject to host approval. Welcome! To join the event, please register below. About Event This event is being rescheduled. A new date will be announced soon. Theme: Where Conversations Shape the Future Coffee Chat Hangout by Web3 Digest is an intimate, in-person gathering designed to bring together Web3 founders, builders, creators, and enthusiasts for meaningful conversations beyond the timeline. The hangout creates a relaxed space for people building, learning, and exploring Web3 to connect over coffee, share ideas, and exchange insights about the future of the ecosystem. Expect:\n- A live fireside conversation\nOpen networking and community hangout\nStorytelling and idea-sharing moments\nMeaningful connections with people shaping Web3 This isn't a conference or a workshop. It's a community hangout - where real conversations happen and ideas begin to take shape. Come for the coffee. Stay for the conversations. Location Caf\u00e9 One Ikeja Town Square, Obafemi Awolowo Wy, Ikeja, 101233, Lagos, Nigeria Hosted By Web3 Digest 22 Going Crypt\n\nTickets Standard",
+    "description": "This event is being rescheduled. A new date will be announced soon.\n\nTheme: Where Conversations Shape the Future\n\nCoffee Chat Hangout by Web3 Digest is an intimate, in-person gathering designed to bring together Web3 founders, builders, creators, and enthusiasts for meaningful conversations beyond the timeline.\n\nThe hangout creates a relaxed space for people building, learning, and exploring Web3 to connect over coffee, share ideas, and exchange insights about the future of the ecosystem.\n\nExpect:\n\nA live fireside conversation\n\nOpen networking and community hangout\n\nStorytelling and idea-sharing moments\n\nMeaningful connections with people shaping Web3\n\nThis isn't a conference or a workshop.\nIt's a community hangout - where real conversations happen and ideas begin to take shape.\n\nCome for the coffee. Stay for the conversations.",
     "descriptionSource": {
       "url": "https://luma.com/lpe4mdxt",
       "fetchedAt": "2026-11-10T22:13:16.890Z",
@@ -2693,7 +2693,7 @@
     }
   },
   "luma-host-evt-evt-vZ1HR9Rka8ch50U": {
-    "description": "Superteam Canada Community Call - LumaSkip to Content\n\nPresented by\n\nSuperteam Canada\n\nBuilding the Solana ecosystem in Canada \ud83c\udde8\ud83c\udde6\n\nCrypto\n\nFeatured in Superteam\n\nSuperteam Canada Community Call\n\nSuperteam Canada\n\nGoogle Meet\n\nRegistration\n\nWelcome! To join the event, please register below.\n\nAbout Event\n\nHey!\n\nGet ready to dive into the world of Solana with our Community Call happening first Thursday on the every Quarter.\n\nHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.\n\nJoin us in a Google Meet for 30 minutes packed with insights, advice, and all things Superteam Canada.\n\nGot questions? Bring 'em on! Want to get more involved? This is your chance!\n\nCan't wait to see you there!\n\nPresented by\n\nSuperteam Canada\n\nBuilding the Solana ecosystem in Canada \ud83c\udde8\ud83c\udde6\n\nCrypto\n\nAbout the organiser: Building the Solana ecosystem in Canada \ud83c\udde8\ud83c\udde6\n\n## Tickets Standard",
+    "description": "Hey!\n\nGet ready to dive into the world of Solana with our Community Call happening first Thursday on the every Quarter.\n\nHosted by Simon, this is your golden ticket to connect, learn, and have a blast with fellow enthusiasts. Whether you're a seasoned pro or just starting out, there's something for everyone.\n\nJoin us in a Google Meet for 30 minutes packed with insights, advice, and all things Superteam Canada.\n\nGot questions? Bring 'em on! Want to get more involved? This is your chance!\n\nCan't wait to see you there!",
     "descriptionSource": {
       "url": "https://luma.com/aq7rqqmn",
       "fetchedAt": "2026-11-23T13:08:14.279Z",
@@ -3170,6 +3170,16 @@
       "method": "official-section",
       "pageTitle": "TOKEN2049 Singapore 2027",
       "sha256": "0b07558b835be63bb1073ba1b2d8250663110a1f478d545c4f2ae189d3e51077"
+    }
+  },
+  "luma-crypto-qLu7rrrTEWVAUBR": {
+    "description": "EcoX Network hosts a Blockchain Week Dubai side event on Tuesday, December 2, 2026 at Tacenda Lounge on the 68th floor of JW Marriott Marquis Dubai Tower B in Business Bay.\n\nThe gathering focuses on the EcoX Network theme to connect, learn, and collaborate with the EcoX global network. EcoX co-founders Franco Fiore and Jorge Sebastiao host the session.",
+    "descriptionSource": {
+      "url": "https://luma.com/ecox-6m8d",
+      "fetchedAt": "2026-11-10T19:33:14.907Z",
+      "method": "reviewed-primary-sources",
+      "pageTitle": "Blockchain Week Dubai - Ecox Network Side Event \u00b7 Luma",
+      "sha256": "be0c366e6678e16a4ba43ed925a6c591fb7ba1755f42cadfdf23036842b23e78"
     }
   }
 }
