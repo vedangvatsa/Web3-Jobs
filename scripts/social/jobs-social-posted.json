@@ -190762,7 +190762,8 @@
       },
       "account": "channel:growth",
       "attemptId": "6f045194-be1c-44c6-9c98-41d4e83116b5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4d75ff60cdb133467671c77820c7ebfc604665e7"
     }
   ]
 }
