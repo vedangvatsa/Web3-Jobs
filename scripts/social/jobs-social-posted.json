@@ -187705,7 +187705,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "a8554cb1-c36e-4f60-a9b2-39ad4ac213df",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x001663536d7f839ed2ff9dedc25377a1cd61dc98"
     }
   ]
 }
