@@ -7,26 +7,20 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/021lab</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/0g-labs</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/0uncm</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/0x</loc>
     <lastmod>2026-10-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/0x7ox8tl</loc>
-    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -67,44 +61,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/33-corgear</loc>
-    <lastmod>2026-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/43nowtci</loc>
-    <lastmod>2027-04-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/4m-unleash</loc>
+    <loc>https://hashtagweb3.com/4munleashed</loc>
     <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/4ppsu496</loc>
-    <lastmod>2027-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/4seas</loc>
     <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/8bwrwh40</loc>
-    <lastmod>2026-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/9q2by4vu</loc>
-    <lastmod>2026-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -313,20 +277,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/adfw2</loc>
-    <lastmod>2026-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/adfw3</loc>
-    <lastmod>2026-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/adfwpm</loc>
     <lastmod>2026-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/adfwsoiree</loc>
+    <lastmod>2026-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -379,13 +337,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/agentic-fi</loc>
+    <loc>https://hashtagweb3.com/agenticfi</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/agentic-pa</loc>
+    <loc>https://hashtagweb3.com/agentickorea</loc>
     <lastmod>2026-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -419,12 +377,6 @@
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/ai-arcade</loc>
-    <lastmod>2026-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/ai-bias-and-fairness-explained</loc>
@@ -493,20 +445,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/ai2</loc>
-    <lastmod>2026-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/ai3</loc>
-    <lastmod>2026-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/ai4</loc>
-    <lastmod>2026-12-02</lastmod>
+    <loc>https://hashtagweb3.com/aiarcade</loc>
+    <lastmod>2026-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -515,6 +455,18 @@
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/aifuture1</loc>
+    <lastmod>2026-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/aifuture2</loc>
+    <lastmod>2026-12-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/aigpuai</loc>
@@ -537,6 +489,18 @@
   <url>
     <loc>https://hashtagweb3.com/airtm</loc>
     <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/airwa</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/aistrategy</loc>
+    <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -589,7 +553,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/alpha-tabl</loc>
+    <loc>https://hashtagweb3.com/alphatable</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/alphatablebnb</loc>
     <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -623,12 +593,6 @@
     <lastmod>2026-10-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/american-c</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/americannomads</loc>
@@ -1033,14 +997,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/anti-fragi</loc>
-    <lastmod>2026-11-29</lastmod>
+    <loc>https://hashtagweb3.com/antidotenews</loc>
+    <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/antidote-p</loc>
-    <lastmod>2026-12-02</lastmod>
+    <loc>https://hashtagweb3.com/antifragile</loc>
+    <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1113,12 +1077,6 @@
   <url>
     <loc>https://hashtagweb3.com/arc</loc>
     <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/arc-studio</loc>
-    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1311,6 +1269,12 @@
   <url>
     <loc>https://hashtagweb3.com/arca</loc>
     <lastmod>2026-11-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/arcstudio</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1741,7 +1705,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/aspect-blo</loc>
+    <loc>https://hashtagweb3.com/aspectyacht</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1759,7 +1723,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/aster-comm</loc>
+    <loc>https://hashtagweb3.com/astercourt</loc>
     <lastmod>2026-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1767,6 +1731,12 @@
   <url>
     <loc>https://hashtagweb3.com/asymmetric-research</loc>
     <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/atfxdrinks</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1813,7 +1783,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/auralith-a</loc>
+    <loc>https://hashtagweb3.com/auralith</loc>
     <lastmod>2027-01-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1855,13 +1825,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/awic-bitso</loc>
+    <loc>https://hashtagweb3.com/awicbitso</loc>
     <lastmod>2026-12-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/awic-dc-ho</loc>
+    <loc>https://hashtagweb3.com/awicdc</loc>
     <lastmod>2026-12-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -1911,6 +1881,12 @@
   <url>
     <loc>https://hashtagweb3.com/axiom</loc>
     <lastmod>2026-10-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/aztechcomm</loc>
+    <lastmod>2026-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1984,12 +1960,6 @@
     <loc>https://hashtagweb3.com/bangkok</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bangkok-fo</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -2071,7 +2041,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bay-area-b</loc>
+    <loc>https://hashtagweb3.com/bayareabtc</loc>
     <lastmod>2026-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2084,18 +2054,6 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/bbw</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bbw-side-e</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bbw2</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2425,13 +2383,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bed</loc>
+    <loc>https://hashtagweb3.com/beldexprivacy</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/beldex-pre</loc>
+    <loc>https://hashtagweb3.com/beldexvip</loc>
     <lastmod>2026-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2611,7 +2569,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bitbasel-m</loc>
+    <loc>https://hashtagweb3.com/bitbaselmiami</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2623,34 +2581,10 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bitcoin-asia</loc>
-    <lastmod>2027-08-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bitcoin-br</loc>
-    <lastmod>2026-12-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/bitcoin-genesis-block-day</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bitcoin-ma</loc>
-    <lastmod>2026-12-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bitcoin-mena</loc>
-    <lastmod>2026-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/bitcoin-pizza-day</loc>
@@ -2683,8 +2617,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/bitcoinbrews</loc>
+    <lastmod>2026-12-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/bitcoinjapan</loc>
     <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/bitcoinmena</loc>
+    <lastmod>2026-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2695,25 +2641,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bitdevs-cd</loc>
-    <lastmod>2026-12-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bitdevs-la</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/bitdevs-so</loc>
+    <loc>https://hashtagweb3.com/bitdevs55</loc>
     <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bitdevs-to</loc>
+    <loc>https://hashtagweb3.com/bitdevscdmx</loc>
+    <lastmod>2026-12-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/bitdevslagos</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/bitdevsto</loc>
     <lastmod>2026-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -2822,6 +2768,24 @@
   </url>
   <url>
     <loc>https://hashtagweb3.com/bkk</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/bkkbanquet</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/bkkconvergence</loc>
+    <lastmod>2026-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/bkkfounders</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3091,26 +3055,20 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bnb-bangko</loc>
-    <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/bnb-chain</loc>
     <lastmod>2026-11-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bnb2</loc>
-    <lastmod>2026-11-27</lastmod>
+    <loc>https://hashtagweb3.com/bnbbkk</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/bnb3</loc>
-    <lastmod>2026-11-29</lastmod>
+    <loc>https://hashtagweb3.com/bnbdemo</loc>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3265,8 +3223,38 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/btc-prague</loc>
+    <loc>https://hashtagweb3.com/btcasia</loc>
+    <lastmod>2027-08-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/btcbookclub</loc>
+    <lastmod>2026-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/btcbrunch</loc>
+    <lastmod>2026-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/btcmasters</loc>
+    <lastmod>2026-12-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/btcprague</loc>
     <lastmod>2027-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/btcstandard</loc>
+    <lastmod>2027-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3304,12 +3292,6 @@
     <loc>https://hashtagweb3.com/buenos-aires</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/build-tang</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -3387,6 +3369,12 @@
   <url>
     <loc>https://hashtagweb3.com/bullish</loc>
     <lastmod>2026-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/bullrunstrat</loc>
+    <lastmod>2026-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3559,6 +3547,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/catfooding1</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/catfooding2</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/cbbrasil</loc>
     <lastmod>2026-10-30</lastmod>
     <changefreq>monthly</changefreq>
@@ -3619,7 +3619,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/cci-x-payw</loc>
+    <loc>https://hashtagweb3.com/ccipayward</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -3695,12 +3695,6 @@
     <lastmod>2026-11-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/cena-priva</loc>
-    <lastmod>2026-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/certik</loc>
@@ -3901,6 +3895,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/chrismukkuh</loc>
+    <lastmod>2026-12-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/cibersegur</loc>
     <lastmod>2026-12-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -4007,6 +4007,12 @@
     <lastmod>2026-11-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/cmclunch</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/cmml</loc>
@@ -4531,16 +4537,16 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/coffee-bit</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/coffee-chat-etiquette-for-professionals</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/coffeebit</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/coinbase</loc>
@@ -4939,7 +4945,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/cool-down</loc>
+    <loc>https://hashtagweb3.com/cooldown</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -4967,6 +4973,12 @@
     <lastmod>2026-11-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/corgearnight</loc>
+    <lastmod>2026-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/corporate-crypto-vs-sovereign-code</loc>
@@ -5023,12 +5035,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/cptfdb</loc>
-    <lastmod>2026-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/cr2</loc>
     <lastmod>2026-11-10</lastmod>
     <changefreq>daily</changefreq>
@@ -5075,18 +5081,6 @@
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/crypto-bul</loc>
-    <lastmod>2026-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/crypto-chr</loc>
-    <lastmod>2026-12-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/crypto-com</loc>
@@ -5281,8 +5275,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/cwc-x-soso</loc>
+    <loc>https://hashtagweb3.com/cwcbreath</loc>
     <lastmod>2026-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/cwcwine</loc>
+    <lastmod>2027-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5305,6 +5305,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/cyberworkshop</loc>
+    <lastmod>2026-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/cycpc</loc>
     <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -5315,6 +5321,12 @@
     <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/czechsol</loc>
+    <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/d3-global</loc>
@@ -5383,13 +5395,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/daos-week</loc>
-    <lastmod>2026-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/daos-weekdao</loc>
+    <loc>https://hashtagweb3.com/daosrwa</loc>
     <lastmod>2026-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -5398,6 +5404,12 @@
     <loc>https://hashtagweb3.com/daostack</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/daosweek</loc>
+    <lastmod>2026-11-30</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -5413,13 +5425,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/dash-after</loc>
+    <loc>https://hashtagweb3.com/dashafter</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/dash-dev-d</loc>
+    <loc>https://hashtagweb3.com/dashdevday</loc>
     <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -5469,18 +5481,6 @@
   <url>
     <loc>https://hashtagweb3.com/dawn</loc>
     <lastmod>2026-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/day-1-catf</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/day-2-catf</loc>
-    <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5737,7 +5737,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/denver-bit</loc>
+    <loc>https://hashtagweb3.com/denverbit</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6037,14 +6037,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/digital-asset</loc>
-    <lastmod>2026-11-10</lastmod>
+    <loc>https://hashtagweb3.com/digestchat</loc>
+    <lastmod>2026-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/digital-mo</loc>
-    <lastmod>2026-12-10</lastmod>
+    <loc>https://hashtagweb3.com/digital-asset</loc>
+    <lastmod>2026-11-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6053,6 +6053,12 @@
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/digitalmoney</loc>
+    <lastmod>2026-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/digitalnomadtaxes</loc>
@@ -6067,7 +6073,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/diner-prive</loc>
+    <loc>https://hashtagweb3.com/dinerprive</loc>
     <lastmod>2026-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6259,12 +6265,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/driven-dre</loc>
-    <lastmod>2026-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/drivewealth</loc>
     <lastmod>2026-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -6397,7 +6397,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/dubai-brun</loc>
+    <loc>https://hashtagweb3.com/dubaibrunch</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6505,7 +6505,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/ecox-6m8d</loc>
+    <loc>https://hashtagweb3.com/ecoxdubai</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -6627,12 +6627,6 @@
   <url>
     <loc>https://hashtagweb3.com/enbm</loc>
     <lastmod>2026-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/end-year-p</loc>
-    <lastmod>2026-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8329,6 +8323,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/etfbreakfast</loc>
+    <lastmod>2026-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/etfoutflows</loc>
     <lastmod>2026-11-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -8797,6 +8797,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/fightnight</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/figure</loc>
     <lastmod>2026-11-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -8845,8 +8851,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/finect-inv</loc>
-    <lastmod>2026-11-25</lastmod>
+    <loc>https://hashtagweb3.com/finnovation</loc>
+    <lastmod>2027-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8863,13 +8869,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/fintech-ne</loc>
+    <loc>https://hashtagweb3.com/fintechnews</loc>
     <lastmod>2026-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/fintech-we</loc>
+    <loc>https://hashtagweb3.com/fintechweek</loc>
     <lastmod>2027-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -8887,7 +8893,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/fireside-c</loc>
+    <loc>https://hashtagweb3.com/firesidechat</loc>
     <lastmod>2026-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -9019,7 +9025,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/founders-f</loc>
+    <loc>https://hashtagweb3.com/foundersgeneva</loc>
     <lastmod>2026-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -9217,8 +9223,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/future-is</loc>
-    <lastmod>2026-11-29</lastmod>
+    <loc>https://hashtagweb3.com/furtheradfw</loc>
+    <lastmod>2026-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9259,14 +9265,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/future-tra</loc>
-    <lastmod>2026-12-02</lastmod>
+    <loc>https://hashtagweb3.com/futurefi2</loc>
+    <lastmod>2026-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/futurefi2</loc>
-    <lastmod>2026-12-08</lastmod>
+    <loc>https://hashtagweb3.com/futuretrade</loc>
+    <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9343,7 +9349,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/gate-drift</loc>
+    <loc>https://hashtagweb3.com/gatedrift</loc>
     <lastmod>2026-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -9373,14 +9379,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/gdr2</loc>
-    <lastmod>2026-11-26</lastmod>
+    <loc>https://hashtagweb3.com/gelephu</loc>
+    <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/gelephu</loc>
-    <lastmod>2026-11-25</lastmod>
+    <loc>https://hashtagweb3.com/gemdefi</loc>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9415,7 +9421,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/geneva-inv</loc>
+    <loc>https://hashtagweb3.com/genevaetf</loc>
     <lastmod>2026-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -9425,6 +9431,12 @@
     <lastmod>2026-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/getdownreal</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/gilt-pilot</loc>
@@ -9685,8 +9697,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/hardwate-w</loc>
+    <loc>https://hashtagweb3.com/hardwallets</loc>
     <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/harmonia</loc>
+    <lastmod>2026-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9715,8 +9733,14 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/heads-up-h</loc>
+    <loc>https://hashtagweb3.com/headsuphack</loc>
     <lastmod>2026-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/healthpadel</loc>
+    <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -10723,13 +10747,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/hsc2</loc>
+    <loc>https://hashtagweb3.com/hscdinner</loc>
     <lastmod>2026-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/hsg-fintec</loc>
+    <loc>https://hashtagweb3.com/hsgfintech</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -10749,12 +10773,6 @@
   <url>
     <loc>https://hashtagweb3.com/hut-8</loc>
     <lastmod>2026-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/hwpn</loc>
-    <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11299,12 +11317,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/integral-x</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/intellecteu</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -11338,12 +11350,6 @@
     <loc>https://hashtagweb3.com/interview-questions</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/investor-b</loc>
-    <lastmod>2026-12-01</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -11485,7 +11491,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/jllinkai-a</loc>
+    <loc>https://hashtagweb3.com/jllinkai</loc>
     <lastmod>2026-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -11653,7 +11659,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/keio-chain</loc>
+    <loc>https://hashtagweb3.com/keiochain</loc>
     <lastmod>2027-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -12151,18 +12157,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/lpe4mdxt</loc>
-    <lastmod>2026-12-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/ltlc</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/luno</loc>
     <lastmod>2026-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -12295,6 +12289,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/manusdubai2</loc>
+    <lastmod>2026-12-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/maradebt</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -12361,7 +12361,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/match-nigh</loc>
+    <loc>https://hashtagweb3.com/matchnight</loc>
     <lastmod>2026-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -12406,12 +12406,6 @@
     <loc>https://hashtagweb3.com/medellin</loc>
     <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/meet-czech</loc>
-    <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -12487,7 +12481,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/merov-summ</loc>
+    <loc>https://hashtagweb3.com/merovsummit</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -13363,27 +13357,21 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/mining-dis</loc>
-    <lastmod>2026-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/mining-pool</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/minting</loc>
-    <lastmod>2026-04-27</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://hashtagweb3.com/miningdisc</loc>
+    <lastmod>2026-11-30</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/mkpd</loc>
-    <lastmod>2026-11-29</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://hashtagweb3.com/minting</loc>
+    <lastmod>2026-04-27</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -13801,12 +13789,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/mms2</loc>
-    <lastmod>2026-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/mngpfds</loc>
     <lastmod>2026-12-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -13867,12 +13849,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/monthly-me</loc>
-    <lastmod>2026-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/moodyspilot</loc>
     <lastmod>2026-11-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -13881,12 +13857,6 @@
   <url>
     <loc>https://hashtagweb3.com/moon</loc>
     <lastmod>2026-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/moon-voyage</loc>
-    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -13901,6 +13871,12 @@
     <lastmod>2026-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/moonvoyage</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/morazan</loc>
@@ -14041,7 +14017,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/mulheres-n</loc>
+    <loc>https://hashtagweb3.com/mulheres</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -14085,12 +14061,6 @@
   <url>
     <loc>https://hashtagweb3.com/n1</loc>
     <lastmod>2026-10-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/nada-orbsc</loc>
-    <lastmod>2026-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -14153,12 +14123,6 @@
     <lastmod>2026-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/nba2</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/nbubill</loc>
@@ -14269,19 +14233,25 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/nex-t-duba</loc>
+    <loc>https://hashtagweb3.com/nextbuilders</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/nextdubai</loc>
     <lastmod>2026-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/next-unico</loc>
+    <loc>https://hashtagweb3.com/nextunicorn</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/nfc-summit</loc>
+    <loc>https://hashtagweb3.com/nfcsummit</loc>
     <lastmod>2027-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -14317,7 +14287,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/nft-sampa</loc>
+    <loc>https://hashtagweb3.com/nftsampa</loc>
     <lastmod>2026-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -14433,12 +14403,6 @@
   <url>
     <loc>https://hashtagweb3.com/nyc</loc>
     <lastmod>2027-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/nyc-pubkey</loc>
-    <lastmod>2026-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -14563,18 +14527,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/off-beaten</loc>
-    <lastmod>2027-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/off-ledger</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/offchain-labs</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -14587,8 +14539,8 @@
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/okgj41gs</loc>
-    <lastmod>2027-04-28</lastmod>
+    <loc>https://hashtagweb3.com/offledger</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -14603,12 +14555,6 @@
     <lastmod>2026-10-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/okx-paris</loc>
-    <lastmod>2026-11-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/okx-raise</loc>
@@ -14639,6 +14585,12 @@
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/okxparis</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/okxshield</loc>
@@ -14719,7 +14671,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/onecloud-d</loc>
+    <loc>https://hashtagweb3.com/onecloudsum</loc>
     <lastmod>2026-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -15325,8 +15277,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/orbscafe-2</loc>
+    <loc>https://hashtagweb3.com/orbscafe27</loc>
     <lastmod>2026-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/orbscafe28</loc>
+    <lastmod>2026-12-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -15349,7 +15307,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/ottersec-s</loc>
+    <loc>https://hashtagweb3.com/ottersec</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -15397,6 +15355,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/pancakedinner</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/paperlock</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -15437,6 +15401,12 @@
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/pauhana</loc>
+    <lastmod>2026-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/paxos</loc>
@@ -15637,7 +15607,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/picnic-park</loc>
+    <loc>https://hashtagweb3.com/picnicpark</loc>
     <lastmod>2026-11-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -16909,7 +16879,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/post-break</loc>
+    <loc>https://hashtagweb3.com/postbreak</loc>
     <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -16975,7 +16945,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/predict-ni</loc>
+    <loc>https://hashtagweb3.com/predictnight</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -17015,12 +16985,6 @@
     <lastmod>2026-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/privacy-as</loc>
-    <lastmod>2026-12-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/privacy-pool</loc>
@@ -17071,12 +17035,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/project-ha</loc>
-    <lastmod>2026-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/project44</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -17085,18 +17043,6 @@
   <url>
     <loc>https://hashtagweb3.com/proof</loc>
     <lastmod>2026-11-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/proof-ai-b</loc>
-    <lastmod>2026-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/proof-comm</loc>
-    <lastmod>2026-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17128,6 +17074,12 @@
     <loc>https://hashtagweb3.com/proof-of-work</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/proofofai</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -17249,6 +17201,12 @@
     <lastmod>2026-10-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/pubkeyprivacy</loc>
+    <lastmod>2026-12-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/public-speaking-tips-for-professionals</loc>
@@ -17509,13 +17467,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/rcube-cryp</loc>
+    <loc>https://hashtagweb3.com/rcubealpha</loc>
     <lastmod>2027-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/reap-priva</loc>
+    <loc>https://hashtagweb3.com/reapcdmx</loc>
+    <lastmod>2026-12-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/reapsaopaulo</loc>
     <lastmod>2026-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -17767,7 +17731,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/recon-coin</loc>
+    <loc>https://hashtagweb3.com/reconcoin</loc>
     <lastmod>2026-12-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -17863,6 +17827,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/reservedtable</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/resources</loc>
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -17941,12 +17911,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/rjvg6uk4</loc>
-    <lastmod>2027-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/rlusd-custody</loc>
     <lastmod>2026-10-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -17983,7 +17947,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/road-ethpr</loc>
+    <loc>https://hashtagweb3.com/roadtoethprg</loc>
     <lastmod>2026-12-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -18121,12 +18085,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/rtbb</loc>
-    <lastmod>2026-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/ruble-wages</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>monthly</changefreq>
@@ -18136,6 +18094,12 @@
     <loc>https://hashtagweb3.com/rug-pull</loc>
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/runblr</loc>
+    <lastmod>2027-01-02</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
@@ -18155,12 +18119,6 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/rwa2</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/sa</loc>
@@ -18235,7 +18193,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/same-fund</loc>
+    <loc>https://hashtagweb3.com/samefund</loc>
     <lastmod>2026-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -18301,6 +18259,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/satoshidinner</loc>
+    <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/satoshidubai</loc>
+    <lastmod>2026-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/sberbank-crypto</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -18357,18 +18327,6 @@
   <url>
     <loc>https://hashtagweb3.com/sdb</loc>
     <lastmod>2026-11-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/sdc</loc>
-    <lastmod>2026-11-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/sdc2</loc>
-    <lastmod>2026-12-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19255,6 +19213,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/sftlholiday</loc>
+    <lastmod>2026-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/shakepay</loc>
     <lastmod>2026-11-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -19327,7 +19291,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/signal-week</loc>
+    <loc>https://hashtagweb3.com/signalweek</loc>
     <lastmod>2027-07-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -20911,7 +20875,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/snowfro-pr</loc>
+    <loc>https://hashtagweb3.com/snowfro</loc>
     <lastmod>2027-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -20977,28 +20941,10 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/solana-nz</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/solana-slots</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/solana-soc</loc>
-    <lastmod>2026-12-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/solana-stu</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/solana-vs-ethereum-developer-showdown</loc>
@@ -21013,8 +20959,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/solanaboot</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/solanabresol</loc>
     <lastmod>2027-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/solananz</loc>
+    <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21023,6 +20981,12 @@
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/solanasocial</loc>
+    <lastmod>2026-12-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/solflare</loc>
@@ -21145,7 +21109,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/spin-dine</loc>
+    <loc>https://hashtagweb3.com/spindine</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -21331,8 +21295,8 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/sterling-s</loc>
-    <lastmod>2026-11-27</lastmod>
+    <loc>https://hashtagweb3.com/stellarsec</loc>
+    <lastmod>2026-12-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21379,7 +21343,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/stripe-bre</loc>
+    <loc>https://hashtagweb3.com/stripebreak</loc>
     <lastmod>2026-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -21421,7 +21385,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/suihub-lag</loc>
+    <loc>https://hashtagweb3.com/suihublagos</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -21481,8 +21445,14 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/swc-cup-cr</loc>
+    <loc>https://hashtagweb3.com/swccup</loc>
     <lastmod>2026-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/swcholiday</loc>
+    <lastmod>2026-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21529,7 +21499,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/tacnode-ap</loc>
+    <loc>https://hashtagweb3.com/tacnodeapex</loc>
     <lastmod>2027-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -21559,6 +21529,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/tangembuild</loc>
+    <lastmod>2026-11-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/taurus</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -21577,7 +21553,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/tbb-first</loc>
+    <loc>https://hashtagweb3.com/tbbfriday</loc>
     <lastmod>2026-12-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -21599,6 +21575,12 @@
     <lastmod>2026-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/tbw</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/tcaa2</loc>
@@ -21655,13 +21637,13 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/team1-bras</loc>
+    <loc>https://hashtagweb3.com/team1brasil</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/team1-conn</loc>
+    <loc>https://hashtagweb3.com/team1conn</loc>
     <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -21677,12 +21659,6 @@
     <lastmod>2026-11-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/tech-commu</loc>
-    <lastmod>2026-12-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/technical-writer-web3-jobs</loc>
@@ -21707,6 +21683,12 @@
     <lastmod>2026-11-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/tellordcdao</loc>
+    <lastmod>2026-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/tempo</loc>
@@ -22147,13 +22129,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/tokenize-c</loc>
+    <loc>https://hashtagweb3.com/tokenizead</loc>
     <lastmod>2026-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/tokenizead</loc>
+    <loc>https://hashtagweb3.com/tokenizeconn</loc>
     <lastmod>2026-12-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -22169,6 +22151,12 @@
     <lastmod>2026-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/tokenizedfuture</loc>
+    <lastmod>2026-11-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/tokenizing-property-ownership</loc>
@@ -22285,19 +22273,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/toronto-bl</loc>
-    <lastmod>2026-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/toronto-te</loc>
+    <loc>https://hashtagweb3.com/torontotech</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/touch-gras</loc>
+    <loc>https://hashtagweb3.com/touchgrassbkk</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -22435,7 +22417,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/trading-ai</loc>
+    <loc>https://hashtagweb3.com/tradingai</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -22507,7 +22489,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/trustyfy-r</loc>
+    <loc>https://hashtagweb3.com/trustyfy</loc>
     <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -22579,13 +22561,19 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/ukmoney</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/ultimate-guide-to-web3-jobs</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/ultra-conn</loc>
+    <loc>https://hashtagweb3.com/ultraconn</loc>
     <lastmod>2026-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -22843,13 +22831,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/unitour-3</loc>
+    <loc>https://hashtagweb3.com/unitour3</loc>
     <lastmod>2026-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/unitour-3uni</loc>
+    <loc>https://hashtagweb3.com/unitourturkey</loc>
     <lastmod>2026-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -22879,8 +22867,14 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/ushkee-who</loc>
+    <loc>https://hashtagweb3.com/ushkee</loc>
     <lastmod>2026-11-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/uspolicy</loc>
+    <lastmod>2026-11-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23131,7 +23125,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/vntr2</loc>
+    <loc>https://hashtagweb3.com/vntrdubai</loc>
     <lastmod>2026-12-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -23221,20 +23215,20 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/wcmbb</loc>
-    <lastmod>2026-11-30</lastmod>
+    <loc>https://hashtagweb3.com/wcbbw</loc>
+    <lastmod>2026-11-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/wealth-tec</loc>
+    <loc>https://hashtagweb3.com/wealthdubai</loc>
     <lastmod>2027-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/web-flea</loc>
-    <lastmod>2027-06-13</lastmod>
+    <loc>https://hashtagweb3.com/wealthgeneva</loc>
+    <lastmod>2027-02-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23255,12 +23249,6 @@
     <lastmod>2026-04-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/web3-build</loc>
-    <lastmod>2026-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/web3-business-development-career-guide</loc>
@@ -23351,18 +23339,6 @@
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/web3-event2</loc>
-    <lastmod>2026-11-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/web3-event3</loc>
-    <lastmod>2027-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/web3-for-good-careers-in-social-impact-daos</loc>
@@ -24067,13 +24043,37 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/web3md-bal</loc>
+    <loc>https://hashtagweb3.com/web3builders</loc>
+    <lastmod>2026-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/web3indiabbw</loc>
     <lastmod>2026-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/webx-2027</loc>
+    <loc>https://hashtagweb3.com/web3md</loc>
+    <lastmod>2026-11-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/web3undergr</loc>
+    <lastmod>2026-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/webflea</loc>
+    <lastmod>2027-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/webxtokyo</loc>
     <lastmod>2027-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -24097,7 +24097,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/whales-lou</loc>
+    <loc>https://hashtagweb3.com/whaleslounge</loc>
     <lastmod>2026-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -24691,18 +24691,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/whitepaperwp</loc>
-    <lastmod>2026-11-25</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/whwe5ioe</loc>
-    <lastmod>2026-12-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://hashtagweb3.com/why-bleisure-travel-is-the-future-of-work-flexibility</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -24757,6 +24745,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://hashtagweb3.com/womenintech</loc>
+    <lastmod>2027-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://hashtagweb3.com/work-from-home-jobs-that-pay-well</loc>
     <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
@@ -24767,12 +24761,6 @@
     <lastmod>2025-01-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/workshop-n</loc>
-    <lastmod>2026-12-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/worldbankusdc</loc>
@@ -24871,13 +24859,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/xrp-austra</loc>
+    <loc>https://hashtagweb3.com/xrpaustralia</loc>
     <lastmod>2027-03-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/xrp-commun</loc>
+    <loc>https://hashtagweb3.com/xrpberlin</loc>
     <lastmod>2027-01-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -24893,12 +24881,6 @@
     <lastmod>2026-10-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://hashtagweb3.com/xrpl-hacka</loc>
-    <lastmod>2026-12-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/xrpl-overflow</loc>
@@ -24917,6 +24899,12 @@
     <lastmod>2026-10-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://hashtagweb3.com/xrplhack</loc>
+    <lastmod>2026-12-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://hashtagweb3.com/xsolla</loc>
@@ -25093,7 +25081,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/zig-summit</loc>
+    <loc>https://hashtagweb3.com/zigsummit</loc>
     <lastmod>2027-03-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -25177,7 +25165,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://hashtagweb3.com/zurich-soc</loc>
+    <loc>https://hashtagweb3.com/zurichsoc</loc>
     <lastmod>2026-12-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
