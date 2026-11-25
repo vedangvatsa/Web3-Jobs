@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-11-25T20:35:54.075Z",
+  "generatedAt": "2026-11-25T23:24:40.499Z",
   "items": [
     {
-      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
-      "pubDate": "Wed, 25 Nov 2026 19:37:10 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
+      "title": "Sens. Warren, Van Hollen lead push to scrap SEC’s Regulation Crypto and innovation exemption",
+      "link": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+      "pubDate": "Wed, 25 Nov 2026 22:20:02 +0000",
+      "creator": "Sarah Wynn",
+      "contentSnippet": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
       "source": "The Block"
+    },
+    {
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+      "link": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 21:53:38 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax ...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "link": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 21:22:19 +0000",
+      "creator": "Jona Jaupi",
+      "contentSnippet": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially stea...",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+      "link": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "pubDate": "Wed, 25 Nov 2026 21:16:02 +0000",
+      "creator": "Staff",
+      "contentSnippet": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault conte...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "link": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "pubDate": "Wed, 25 Nov 2026 20:36:03 +0000",
+      "creator": "Staff",
+      "contentSnippet": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 s...",
+      "source": "Decrypt"
     },
     {
       "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
@@ -410,14 +442,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
-      "link": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
-      "pubDate": "Tue, 24 Nov 2026 22:10:45 +0000",
-      "creator": "Kyle Baird",
-      "contentSnippet": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure.",
-      "source": "The Block"
-    },
-    {
       "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
       "link": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 24 Nov 2026 21:50:25 +0000",
@@ -490,14 +514,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
-      "link": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 17:09:11 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
       "link": "https://dailyhodl.com/2026/11/24/bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa/",
       "pubDate": "Tue, 24 Nov 2026 16:09:20 +0000",
@@ -546,14 +562,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
-      "link": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 14:10:23 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
       "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
       "pubDate": "Tue, 24 Nov 2026 13:46:03 +0000",
@@ -591,22 +599,6 @@
       "pubDate": "Mon, 23 Nov 2026 20:36:02 +0000",
       "creator": "Staff",
       "contentSnippet": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who “refuses to block funds...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
-      "link": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
-      "pubDate": "Mon, 23 Nov 2026 18:16:25 +0000",
-      "creator": "Staff",
-      "contentSnippet": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial...",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Perps and Swaps: How to Trade the News on Decrypt",
-      "link": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
-      "pubDate": "Mon, 23 Nov 2026 18:15:45 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works.",
       "source": "Decrypt"
     },
     {
