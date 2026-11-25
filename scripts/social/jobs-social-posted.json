@@ -186759,6 +186759,38 @@
       "attemptId": "cf7ff68c-a099-4d41-8f63-818b54e606ec",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 25-Nov-26 05:27:07 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AFjF_OIGG0jcLwz1Ko3qM20\"}"
+    },
+    {
+      "slug": "sls532",
+      "company": "Block",
+      "title": "Channel Sales Support Agent",
+      "platform": "bluesky",
+      "postedAt": "2026-11-25T13:26:54.282Z",
+      "expectedText": "Block is hiring Channel Sales Support Agent: https://hashtagweb3.com/sls532/bsky?og=7",
+      "snapshot": {
+        "id": "5183293008",
+        "title": "Channel Sales Support Agent",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5183293008?gh_jid=5183293008",
+        "date": "2026-11-17T12:59:17-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Melbourne, Australia",
+        "department": "20213 S&M - Sales - Square Outside",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls532"
+      },
+      "payload": {
+        "text": "Block is hiring Channel Sales Support Agent: https://hashtagweb3.com/sls532/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls532/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls532.png?v=7",
+        "company": "Block",
+        "title": "Channel Sales Support Agent",
+        "description": "Join Block as Channel Sales Support Agent. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "3cc8face-4fb7-493f-b100-dade1c69ec5b",
+      "verification": "creating"
     }
   ]
 }
