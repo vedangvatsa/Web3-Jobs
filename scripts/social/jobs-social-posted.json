@@ -186790,7 +186790,8 @@
         "description": "Join Block as Channel Sales Support Agent. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "3cc8face-4fb7-493f-b100-dade1c69ec5b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n35b6m3e5s2m"
     }
   ]
 }
