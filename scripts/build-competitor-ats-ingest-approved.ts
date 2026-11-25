@@ -1,27 +1,43 @@
 #!/usr/bin/env tsx
 /**
- * Strict ingest gate for competitor ATS shortlist (71 boards).
- * Outputs approved vs rejected CSV; does not modify refresh-jobs-cache.
+ * Strict ingest gate for competitor ATS web3 shortlists.
+ * Reads review JSON; emits INGEST | ALREADY | REJECT for each web3-tier board.
+ * Does not modify refresh-jobs-cache (wire approved rows manually).
  */
 import fs from 'node:fs';
 import path from 'node:path';
 
-const REVIEW_JSON = 'docs/job-aggregator-outreach/competitor-ats-web3-review-2026-11-25.json';
-const OUT = 'docs/job-aggregator-outreach/competitor-ats-ingest-approved-2026-11-25.csv';
+const args = process.argv.slice(2);
+const inputArg = args.find((a) => a.startsWith('--input='))?.split('=')[1];
+const outArg = args.find((a) => a.startsWith('--out='))?.split('=')[1];
+const REVIEW_JSON = inputArg || 'docs/job-aggregator-outreach/competitor-ats-web3-review-1745-2026-11-25.json';
+const OUT =
+  outArg || 'docs/job-aggregator-outreach/competitor-ats-ingest-approved-1745-2026-11-25.csv';
 
-const APPROVED_INGEST: Array<{
+/** Boards already wired in refresh-jobs-cache from the prior gap pass. */
+const PRIOR_WIRED: Array<{ slug: string; company: string; provider: string; board: string }> = [
+  { slug: 'ledger', company: 'Ledger', provider: 'ashby', board: 'ledger' },
+  { slug: 'arca', company: 'Arca', provider: 'ashby', board: 'arca' },
+  { slug: 'nibiru', company: 'Nibiru', provider: 'lever', board: 'nibiru' },
+  { slug: 'burnt-finance', company: 'XION', provider: 'greenhouse', board: 'burnt' },
+  { slug: 'sfox', company: 'SFOX', provider: 'greenhouse', board: 'sfox' },
+];
+
+/** New net-positive feeds (ownership-verified, crypto-primary). */
+const NEW_INGEST: Array<{
   slug: string;
   company: string;
   provider: string;
   board: string;
-  action: 'add' | 'fix';
   note: string;
 }> = [
-  { slug: 'ledger', company: 'Ledger', provider: 'ashby', board: 'ledger', action: 'fix', note: 'Move from Lever to Ashby' },
-  { slug: 'arca', company: 'Arca', provider: 'ashby', board: 'arca', action: 'add', note: 'Crypto asset manager' },
-  { slug: 'nibiru', company: 'Nibiru', provider: 'lever', board: 'nibiru', action: 'add', note: 'L1 nibiru.fi' },
-  { slug: 'burnt-finance', company: 'XION', provider: 'greenhouse', board: 'burnt', action: 'add', note: 'GH board branded XION' },
-  { slug: 'sfox', company: 'SFOX', provider: 'greenhouse', board: 'sfox', action: 'add', note: 'Crypto prime broker' },
+  { slug: 'dtcpay', company: 'dtcpay', provider: 'greenhouse', board: 'dtcpay', note: 'Payments / stablecoin employer' },
+  { slug: 'chaincode-labs', company: 'Chaincode Labs', provider: 'greenhouse', board: 'chaincodelabs', note: 'Bitcoin research' },
+  { slug: '3commas', company: '3Commas', provider: 'ashby', board: '3commas', note: 'Crypto trading tools' },
+  { slug: 'geo-browser', company: 'Geo Browser', provider: 'ashby', board: 'geobrowser', note: 'Web3 consumer browser' },
+  { slug: 'aptos-foundation', company: 'Aptos Foundation', provider: 'ashby', board: 'aptosfoundation', note: 'Foundation careers (separate from Aptos Labs GH)' },
+  { slug: 'hivemind-capital-partners', company: 'Hivemind Capital', provider: 'lever', board: 'hivemind-capital', note: 'Crypto VC' },
+  { slug: 'overmind', company: 'Overmind', provider: 'lever', board: 'overmind', note: 'On-chain infra (100% crypto titles)' },
 ];
 
 const NON_CRYPTO_WEBSITE_HOSTS = [
@@ -42,7 +58,51 @@ const NON_CRYPTO_WEBSITE_HOSTS = [
   'constellationlab.io',
   'analog.io',
   'brincdrones.com',
+  'onefootprint.com',
+  'linear.app',
+  'zeta.tech',
 ];
+
+const SLUG_REJECT: Record<string, string> = {
+  analog: 'Ashby analog is analog.io robotics, not a crypto-native employer.',
+  'morph-labs': 'Greenhouse morph is hardware/robotics; not Morph L2.',
+  roofstacks: 'Roofstacks board is Turkish core banking IT, not web3.',
+  'trace-labs': 'tracelabs.ai is robotics/ML, not OriginTrail.',
+  'space-id': 'Greenhouse space is Space Programs, not SPACE ID.',
+  'virtu-swap': 'Greenhouse virtu board does not match VirtuSwap.',
+  'blue-sky': 'Lever blue is not BlueSky (partial slug collision).',
+  'fuse-energy': 'Ashby fuse is f.energy (energy), not Fuse Network.',
+  amber: 'Ashby amber is ambersearch.de recruiting, not Amber Group.',
+  'alumni-ventures': 'Org metadata only; zero crypto-titled roles on board.',
+};
+
+const DUPLICATE_COMPANY_SLUGS = new Set([
+  'binance', // lever:binance already configured
+  'layerzero-labs', // greenhouse:layerzerolabs already configured
+  'consensys-diligence',
+  'consensys-mesh', // greenhouse:consensys has more jobs than Ashby
+]);
+
+function loadConfiguredAts(): Map<string, string> {
+  const src = fs.readFileSync('scripts/refresh-jobs-cache.ts', 'utf8');
+  const map = new Map<string, string>();
+  for (const [prov, constName] of [
+    ['greenhouse', 'GREENHOUSE_BOARDS'],
+    ['lever', 'LEVER_BOARDS'],
+    ['ashby', 'ASHBY_BOARDS'],
+  ] as const) {
+    const start = src.indexOf(`const ${constName}`);
+    if (start < 0) continue;
+    const end = src.indexOf('];', start);
+    const block = src.slice(start, end);
+    const re = /\{\s*board:\s*'([^']+)',\s*company:\s*'([^']+)'/g;
+    let m: RegExpExecArray | null;
+    while ((m = re.exec(block))) {
+      map.set(`${prov}:${m[1].toLowerCase()}`, m[2]);
+    }
+  }
+  return map;
+}
 
 function hostOf(url: string): string {
   try {
@@ -52,57 +112,82 @@ function hostOf(url: string): string {
   }
 }
 
-function rejectReason(row: {
+type Row = {
+  competitorName: string;
   competitorSlug: string;
-  verdict: string;
+  atsProvider: string;
+  atsBoard: string;
+  atsOrgName: string;
   atsWebsite: string;
   web3JobCount: number;
   liveJobCount: number;
-  competitorName: string;
-  atsProvider: string;
-  atsBoard: string;
-}): string {
-  const approved = APPROVED_INGEST.find(
-    (a) => a.slug === row.competitorSlug || (a.provider === row.atsProvider && a.board === row.atsBoard),
+  verdict: string;
+  nameAlignment: string;
+  atsIngestUrl: string;
+};
+
+function decide(
+  row: Row,
+  configured: Map<string, string>,
+  ingestKeys: Set<string>,
+): { decision: 'INGEST' | 'ALREADY' | 'REJECT'; reason: string; company?: string } {
+  const key = `${row.atsProvider}:${row.atsBoard}`.toLowerCase();
+  const wired = [...PRIOR_WIRED, ...NEW_INGEST].find(
+    (a) => a.slug === row.competitorSlug || (`${a.provider}:${a.board}`.toLowerCase() === key),
   );
-  if (approved) return '';
+
+  if (wired && ingestKeys.has(key)) {
+    return { decision: 'INGEST', reason: wired.note || 'Approved competitor gap feed', company: wired.company };
+  }
+
+  if (configured.has(key)) {
+    return {
+      decision: 'ALREADY',
+      reason: `Already in refresh-jobs-cache as ${configured.get(key)}`,
+      company: configured.get(key),
+    };
+  }
+
+  const slugReason = SLUG_REJECT[row.competitorSlug];
+  if (slugReason) return { decision: 'REJECT', reason: slugReason };
 
   const host = hostOf(row.atsWebsite);
   if (host && NON_CRYPTO_WEBSITE_HOSTS.some((h) => host.includes(h))) {
-    return `Careers site ${host} is not the crypto employer (e.g. apollo.io / f.energy).`;
+    return { decision: 'REJECT', reason: `Careers site ${host} is not the crypto employer.` };
   }
-  if (row.verdict === 'wrong_board') return 'Wrong ATS board (slug collision or org mismatch).';
-  if (row.verdict === 'not_web3') return 'No material web3/crypto roles on board.';
-  if (row.competitorSlug === 'analog') return 'Ashby analog is analog.io robotics, not Web3 Analog.';
+
+  if (DUPLICATE_COMPANY_SLUGS.has(row.competitorSlug)) {
+    return { decision: 'REJECT', reason: 'Duplicate provider/company already configured on another ATS.' };
+  }
+
+  if (row.nameAlignment === 'partial') {
+    return { decision: 'REJECT', reason: 'Partial ATS slug match; wrong employer likely.' };
+  }
+
+  if (row.verdict !== 'ingest_candidate' && row.verdict !== 'web3_but_verify_identity') {
+    return { decision: 'REJECT', reason: `Verdict ${row.verdict}.` };
+  }
 
   const pct = row.liveJobCount ? row.web3JobCount / row.liveJobCount : 0;
   if (row.web3JobCount < 2 && pct < 0.2) {
-    return `Insufficient web3 roles (${row.web3JobCount}/${row.liveJobCount}).`;
+    return { decision: 'REJECT', reason: `Insufficient crypto roles (${row.web3JobCount}/${row.liveJobCount}).` };
   }
   if (pct < 0.12 && row.liveJobCount > 20) {
-    return `Employer not primarily web3 (${row.web3JobCount}/${row.liveJobCount} web3-tagged).`;
+    return { decision: 'REJECT', reason: `Mixed employer (${row.web3JobCount}/${row.liveJobCount} crypto-tagged).` };
   }
-  if (['binance', 'layerzero-labs'].includes(row.competitorSlug)) {
-    return 'Already configured in refresh-jobs-cache; no duplicate feed.';
-  }
-  return 'Failed strict ingest bar; manual review only.';
+
+  return { decision: 'REJECT', reason: 'Failed strict ingest bar; manual review only.' };
 }
 
 function main(): void {
-  const data = JSON.parse(fs.readFileSync(REVIEW_JSON, 'utf8')) as {
-    results: Array<{
-      competitorName: string;
-      competitorSlug: string;
-      atsProvider: string;
-      atsBoard: string;
-      atsOrgName: string;
-      atsWebsite: string;
-      web3JobCount: number;
-      liveJobCount: number;
-      verdict: string;
-      atsIngestUrl: string;
-    }>;
-  };
+  const data = JSON.parse(fs.readFileSync(REVIEW_JSON, 'utf8')) as { results: Row[] };
+  const configured = loadConfiguredAts();
+  const ingestList = [...PRIOR_WIRED.map((p) => ({ ...p, note: 'Prior gap pass' })), ...NEW_INGEST];
+  const ingestKeys = new Set(ingestList.map((a) => `${a.provider}:${a.board}`.toLowerCase()));
+
+  const tierRows = data.results.filter(
+    (r) => r.verdict === 'ingest_candidate' || r.verdict === 'web3_but_verify_identity',
+  );
 
   const esc = (v: string | number) => `"${String(v).replace(/"/g, '""')}"`;
   const lines = [
@@ -121,36 +206,44 @@ function main(): void {
     ].join(','),
   ];
 
-  for (const approved of APPROVED_INGEST) {
-    const row = data.results.find(
-      (r) => r.competitorSlug === approved.slug || (r.atsProvider === approved.provider && r.atsBoard === approved.board),
+  const summary = { INGEST: 0, ALREADY: 0, REJECT: 0 };
+  const seenIngest = new Set<string>();
+
+  for (const approved of ingestList) {
+    const row = tierRows.find(
+      (r) =>
+        r.competitorSlug === approved.slug ||
+        (`${r.atsProvider}:${r.atsBoard}`.toLowerCase() === `${approved.provider}:${approved.board}`.toLowerCase()),
     );
+    if (!row) continue;
+    seenIngest.add(`${approved.provider}:${approved.board}`.toLowerCase());
+    summary.INGEST++;
     lines.push(
       [
         esc('INGEST'),
         esc(approved.company),
-        esc(approved.slug),
+        esc(row.competitorSlug),
         esc(approved.provider),
         esc(approved.board),
-        esc(row?.atsOrgName || approved.company),
-        esc(row?.atsWebsite || ''),
-        row?.web3JobCount ?? '',
-        row?.liveJobCount ?? '',
-        esc(approved.note),
-        esc(row?.atsIngestUrl || ''),
+        esc(row.atsOrgName),
+        esc(row.atsWebsite),
+        row.web3JobCount,
+        row.liveJobCount,
+        esc('note' in approved ? approved.note : ''),
+        esc(row.atsIngestUrl),
       ].join(','),
     );
   }
 
-  const approvedKeys = new Set(APPROVED_INGEST.map((a) => `${a.provider}:${a.board}`));
-  for (const row of data.results) {
-    const key = `${row.atsProvider}:${row.atsBoard}`;
-    if (approvedKeys.has(key)) continue;
-    const reason = rejectReason(row);
+  for (const row of tierRows) {
+    const key = `${row.atsProvider}:${row.atsBoard}`.toLowerCase();
+    if (seenIngest.has(key)) continue;
+    const { decision, reason, company } = decide(row, configured, ingestKeys);
+    summary[decision]++;
     lines.push(
       [
-        esc('REJECT'),
-        esc(row.competitorName),
+        esc(decision),
+        esc(company || row.competitorName),
         esc(row.competitorSlug),
         esc(row.atsProvider),
         esc(row.atsBoard),
@@ -166,7 +259,7 @@ function main(): void {
 
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
   fs.writeFileSync(OUT, lines.join('\n'));
-  console.log(`Wrote ${OUT} (${lines.length - 1} rows)`);
+  console.log(JSON.stringify({ out: OUT, web3Tier: tierRows.length, summary }, null, 2));
 }
 
 main();

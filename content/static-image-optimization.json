@@ -21945,10 +21945,6 @@
       "sha256": "3018371f5643f1e09a008f6b5eaf3950e5437cb1aa7db85aaa96ca92549f2a71",
       "status": "retained"
     },
-    "/og/jobs/eng322.png": {
-      "sha256": "298bf6dee3b220ead8a51697b619d8c7f55f2e28596e70e33e836c676a50b4b6",
-      "status": "retained"
-    },
     "/og/jobs/eng328.png": {
       "sha256": "cbf9d2f9e18206c3574fdc3d89742602d9fca70a05c0e45582bcab3bcc2a6573",
       "status": "retained"
@@ -23513,16 +23509,8 @@
       "sha256": "46eeaab90ba68f8e619f2dc18728c54394356b81bb14b8b120c3cff280a0daa3",
       "status": "retained"
     },
-    "/og/jobs/mgr198.png": {
-      "sha256": "0bdfd9ef63eb9bef9e5a334e866806164dcd14b32b518091578810b7a39cfa7b",
-      "status": "retained"
-    },
     "/og/jobs/mgr199.png": {
       "sha256": "4a2bcca236e803cd8145f7f2cc9f48540277eb76f2bd21dd8d325ff3ade3b3c4",
-      "status": "retained"
-    },
-    "/og/jobs/mgr201.png": {
-      "sha256": "0bdfd9ef63eb9bef9e5a334e866806164dcd14b32b518091578810b7a39cfa7b",
       "status": "retained"
     },
     "/og/jobs/mgr202.png": {

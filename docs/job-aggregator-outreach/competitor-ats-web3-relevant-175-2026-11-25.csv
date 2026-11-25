@@ -1,0 +1,52 @@
+competitorName,competitorSlug,atsProvider,atsBoard,verdict,web3JobPct,liveJobCount,web3JobCount,atsWebsite,nameAlignment,notes,atsIngestUrl
+Binance,binance,greenhouse,binance,web3_but_verify_identity,100,229,229,,match,229/229 jobs (100%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/binance/jobs?content=true
+Wealthsimple,wealthsimple,ashby,wealthsimple,web3_but_verify_identity,100,37,37,https://www.wealthsimple.com/en-ca,match,37/37 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/wealthsimple
+Ledger,ledger,ashby,ledger,ingest_candidate,100,18,18,https://www.ledger.com/,match,Careers site domain matches expected brand (ledger.com). 18/18 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/ledger
+Dtcpay,dtcpay,greenhouse,dtcpay,web3_but_verify_identity,100,17,17,,match,17/17 jobs (100%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/dtcpay/jobs?content=true
+Novel Labs,novel-labs,ashby,novel,web3_but_verify_identity,100,5,5,https://www.novel.shop/,match,5/5 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/novel
+Consensys Diligence,consensys-diligence,ashby,consensys,web3_but_verify_identity,100,4,4,https://consensys.com,match,4/4 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/consensys
+Consensys Mesh,consensys-mesh,ashby,consensys,web3_but_verify_identity,100,4,4,https://consensys.com,match,4/4 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/consensys
+Overmind,overmind,lever,overmind,web3_but_verify_identity,100,3,3,,unknown,3/3 jobs (100%) flagged web3-related.,https://api.lever.co/v0/postings/overmind?mode=json
+GEO Browser,geo-browser,ashby,geobrowser,web3_but_verify_identity,100,2,2,https://www.geobrowser.io/,match,2/2 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/geobrowser
+Layerzero Labs,layerzero-labs,ashby,layerzerolabs,ingest_candidate,100,2,2,https://layerzero.network/,match,Careers site domain matches expected brand (layerzero.network). 2/2 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/layerzerolabs
+3commas,3commas,ashby,3commas,web3_but_verify_identity,100,1,1,https://3commas.io/,match,1/1 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/3commas
+Aptos Foundation,aptos-foundation,ashby,aptosfoundation,web3_but_verify_identity,100,1,1,https://aptosfoundation.org/,match,1/1 jobs (100%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/aptosfoundation
+Chaincode Labs,chaincode-labs,greenhouse,chaincodelabs,web3_but_verify_identity,100,1,1,,match,1/1 jobs (100%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/chaincodelabs/jobs?content=true
+Sfox,sfox,greenhouse,sfox,web3_but_verify_identity,100,1,1,,match,1/1 jobs (100%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/sfox/jobs?content=true
+Arca,arca,ashby,arca,ingest_candidate,93,14,13,https://www.arcawealth.com/,match,Careers site domain matches expected brand (arcawealth.com). 13/14 jobs (93%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/arca
+Nibiru,nibiru,lever,nibiru,ingest_candidate,78,9,7,https://nibiru.fi/,match,Careers site domain matches expected brand (nibiru.fi). 7/9 jobs (78%) flagged web3-related.,https://api.lever.co/v0/postings/nibiru?mode=json
+Morph Labs,morph-labs,greenhouse,morph,web3_but_verify_identity,50,4,2,,match,2/4 jobs (50%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/morph/jobs?content=true
+Roofstacks,roofstacks,lever,roofstacks,web3_but_verify_identity,39,23,9,,unknown,9/23 jobs (39%) flagged web3-related.,https://api.lever.co/v0/postings/roofstacks?mode=json
+Space ID,space-id,greenhouse,space,web3_but_verify_identity,38,13,5,,partial,Partial name match — confirm board ownership before ingest.,https://boards-api.greenhouse.io/v1/boards/space/jobs?content=true
+Hivemind Capital Partners,hivemind-capital-partners,lever,hivemind-capital,web3_but_verify_identity,33,6,2,https://hivemind.capital/,match,2/6 jobs (33%) flagged web3-related.,https://api.lever.co/v0/postings/hivemind-capital?mode=json
+Footprint Analytics,footprint-analytics,ashby,footprint,web3_but_verify_identity,29,17,5,https://onefootprint.com,match,5/17 jobs (29%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/footprint
+Constellation Network,constellation-network,ashby,constellation,web3_but_verify_identity,29,7,2,https://constellationlab.io/,match,2/7 jobs (29%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/constellation
+Amber,amber,ashby,amber,web3_but_verify_identity,27,26,7,https://ambersearch.de/,match,7/26 jobs (27%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/amber
+Future Works,future-works,greenhouse,future,web3_but_verify_identity,25,8,2,,match,2/8 jobs (25%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/future/jobs?content=true
+Pearl,pearl,ashby,pearl,web3_but_verify_identity,25,4,1,https://hellopearl.com/,match,1/4 jobs (25%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/pearl
+Trace Labs,trace-labs,ashby,tracelabs,web3_but_verify_identity,25,4,1,http://tracelabs.ai/,match,1/4 jobs (25%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/tracelabs
+Okta INC,okta-inc,greenhouse,okta,web3_but_verify_identity,22,371,83,,match,83/371 jobs (22%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/okta/jobs?content=true
+Project44,project44,greenhouse,project44,web3_but_verify_identity,20,15,3,,match,3/15 jobs (20%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/project44/jobs?content=true
+Phoenix Growth,phoenix-growth,ashby,phoenix,web3_but_verify_identity,20,10,2,https://www.phoenix.ca/,match,Only 2/10 web3-tagged jobs; employer may be mixed/non-crypto.,https://api.ashbyhq.com/posting-api/job-board/phoenix
+Pure IT Cuso,pure-it-cuso,ashby,pure,web3_but_verify_identity,20,5,1,https://collectpure.com,match,Only 1/5 web3-tagged jobs; employer may be mixed/non-crypto.,https://api.ashbyhq.com/posting-api/job-board/pure
+Onhires,onhires,ashby,onhires,web3_but_verify_identity,19,37,7,https://www.onhires.com,match,7/37 jobs (19%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/onhires
+Fuse Energy,fuse-energy,ashby,fuse,web3_but_verify_identity,14,44,6,https://www.f.energy/,match,6/44 jobs (14%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/fuse
+Ideo Colab Ventures,ideo-colab-ventures,greenhouse,ideo,web3_but_verify_identity,13,8,1,,match,Only 1/8 web3-tagged jobs; employer may be mixed/non-crypto.,https://boards-api.greenhouse.io/v1/boards/ideo/jobs?content=true
+Analog,analog,ashby,analog,ingest_candidate,12,25,3,https://analog.io/,match,Careers site domain matches expected brand (analog.io). 3/25 jobs (12%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/analog
+Sparksoft Corporation,sparksoft-corporation,greenhouse,sparksoftcorporation,web3_but_verify_identity,11,19,2,,match,Only 2/19 web3-tagged jobs; employer may be mixed/non-crypto.,https://boards-api.greenhouse.io/v1/boards/sparksoftcorporation/jobs?content=true
+Linear Finance,linear-finance,ashby,linear,web3_but_verify_identity,10,30,3,https://linear.app/,match,3/30 jobs (10%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/linear
+Neon Labs,neon-labs,lever,neon,web3_but_verify_identity,10,10,1,https://neon.com.br/carreira,match,Only 1/10 web3-tagged jobs; employer may be mixed/non-crypto.,https://api.lever.co/v0/postings/neon?mode=json
+Meter,meter,ashby,meter,web3_but_verify_identity,10,61,6,https://www.meter.com/,match,6/61 jobs (10%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/meter
+Virtu Swap,virtu-swap,greenhouse,virtu,web3_but_verify_identity,10,42,4,,partial,Partial name match — confirm board ownership before ingest.,https://boards-api.greenhouse.io/v1/boards/virtu/jobs?content=true
+Metropolis,metropolis,greenhouse,metropolis,web3_but_verify_identity,9,80,7,,match,7/80 jobs (9%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/metropolis/jobs?content=true
+Blue SKY,blue-sky,lever,blue,web3_but_verify_identity,8,12,1,,partial,Partial name match — confirm board ownership before ingest.,https://api.lever.co/v0/postings/blue?mode=json
+Toogeza,toogeza,ashby,toogeza,web3_but_verify_identity,8,50,4,,match,4/50 jobs (8%) flagged web3-related.,https://api.ashbyhq.com/posting-api/job-board/toogeza
+Xsolla,xsolla,lever,xsolla,web3_but_verify_identity,8,188,15,https://xsolla.com/,match,15/188 jobs (8%) flagged web3-related.,https://api.lever.co/v0/postings/xsolla?mode=json
+Betsson Group,betsson-group,greenhouse,betsson,web3_but_verify_identity,8,76,6,,match,6/76 jobs (8%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/betsson/jobs?content=true
+Capco,capco,greenhouse,capco,web3_but_verify_identity,7,695,47,,match,47/695 jobs (7%) flagged web3-related.,https://boards-api.greenhouse.io/v1/boards/capco/jobs?content=true
+Akuna Capital,akuna-capital,greenhouse,akunacapital,web3_but_verify_identity,6,33,2,,match,Only 2/33 web3-tagged jobs; employer may be mixed/non-crypto.,https://boards-api.greenhouse.io/v1/boards/akunacapital/jobs?content=true
+Nash,nash,ashby,nash,web3_but_verify_identity,4,26,1,https://www.nash.ai/,match,Only 1/26 web3-tagged jobs; employer may be mixed/non-crypto.,https://api.ashbyhq.com/posting-api/job-board/nash
+Disco,disco,greenhouse,disco,web3_but_verify_identity,3,35,1,,match,Only 1/35 web3-tagged jobs; employer may be mixed/non-crypto.,https://boards-api.greenhouse.io/v1/boards/disco/jobs?content=true
+Zeta,zeta,lever,zeta,web3_but_verify_identity,3,36,1,http://zeta.tech,match,Only 1/36 web3-tagged jobs; employer may be mixed/non-crypto.,https://api.lever.co/v0/postings/zeta?mode=json
+Sentilink,sentilink,ashby,sentilink,web3_but_verify_identity,2,46,1,https://www.sentilink.com/,match,Only 1/46 web3-tagged jobs; employer may be mixed/non-crypto.,https://api.ashbyhq.com/posting-api/job-board/sentilink
+Alumni Ventures,alumni-ventures,greenhouse,alumniventures,web3_but_verify_identity,0,3,0,,match,Only 0/3 web3-tagged jobs; employer may be mixed/non-crypto.,https://boards-api.greenhouse.io/v1/boards/alumniventures/jobs?content=true

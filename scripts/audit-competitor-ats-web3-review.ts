@@ -6,6 +6,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { load } from 'cheerio';
 import { getAuditPage } from './lib/ats-audit-http';
+import { isWeb3Job as classifyWeb3Job } from '../src/lib/web3-job-classifier';
 
 const TODAY = new Date().toISOString().slice(0, 10);
 const IN_CSV =
@@ -96,38 +97,60 @@ const WEB3_TERMS = [
 
 const ORG_WEB3_TERMS = [...WEB3_TERMS, 'fintech', 'trading firm', 'market maker', 'venture'];
 
-function parseCsv(file: string): RowIn[] {
-  const text = fs.readFileSync(file, 'utf8').trim();
-  const lines = text.split('\n').slice(1);
-  return lines.map((line) => {
-    const cells: string[] = [];
-    let cur = '';
-    let inQ = false;
-    for (let i = 0; i < line.length; i++) {
-      const ch = line[i];
-      if (ch === '"') {
-        if (inQ && line[i + 1] === '"') {
-          cur += '"';
-          i++;
-        } else inQ = !inQ;
-        continue;
-      }
-      if (ch === ',' && !inQ) {
-        cells.push(cur);
-        cur = '';
-        continue;
-      }
-      cur += ch;
+function parseCsvLine(line: string): string[] {
+  const cells: string[] = [];
+  let cur = '';
+  let inQ = false;
+  for (let i = 0; i < line.length; i++) {
+    const ch = line[i];
+    if (ch === '"') {
+      if (inQ && line[i + 1] === '"') {
+        cur += '"';
+        i++;
+      } else inQ = !inQ;
+      continue;
     }
-    cells.push(cur);
+    if (ch === ',' && !inQ) {
+      cells.push(cur);
+      cur = '';
+      continue;
+    }
+    cur += ch;
+  }
+  cells.push(cur);
+  return cells;
+}
+
+function parseCsv(file: string): RowIn[] {
+  const lines = fs.readFileSync(file, 'utf8').trim().split('\n');
+  if (lines.length < 2) return [];
+  const header = parseCsvLine(lines[0]).map((h) => h.trim().toLowerCase());
+  const idx = (names: string[]) => {
+    for (const n of names) {
+      const i = header.indexOf(n);
+      if (i >= 0) return i;
+    }
+    return -1;
+  };
+  const iName = idx(['competitorname', 'name']);
+  const iSlug = idx(['competitorslug', 'slug']);
+  const iSources = idx(['sources']);
+  const iProvider = idx(['atsprovider', 'provider']);
+  const iBoard = idx(['atsboard', 'board']);
+  const iJobs = idx(['atsjobcount', 'jobcount']);
+  const iUrl = idx(['atsingesturl', 'ingesturl']);
+
+  return lines.slice(1).map((line) => {
+    const cells = parseCsvLine(line);
+    const pick = (i: number, fallback = '') => (i >= 0 ? cells[i] || '' : fallback);
     return {
-      competitorName: cells[0] || '',
-      competitorSlug: cells[1] || '',
-      sources: cells[2] || '',
-      atsProvider: cells[4] as RowIn['atsProvider'],
-      atsBoard: cells[5] || '',
-      atsJobCount: cells[6] || '',
-      atsIngestUrl: cells[7] || '',
+      competitorName: pick(iName),
+      competitorSlug: pick(iSlug),
+      sources: pick(iSources),
+      atsProvider: pick(iProvider) as RowIn['atsProvider'],
+      atsBoard: pick(iBoard),
+      atsJobCount: pick(iJobs),
+      atsIngestUrl: pick(iUrl),
     };
   });
 }
@@ -148,29 +171,6 @@ function nameAlignment(expected: string, actual: string): ReviewRow['nameAlignme
   const hit = aTokens.filter((t) => b.includes(t.replace(/[^a-z0-9]/g, ''))).length;
   if (hit >= Math.max(1, Math.ceil(aTokens.length * 0.5))) return 'partial';
   return 'mismatch';
-}
-
-function scoreWeb3(text: string): { score: number; terms: string[] } {
-  const lower = text.toLowerCase();
-  const terms: string[] = [];
-  let score = 0;
-  for (const term of WEB3_TERMS) {
-    if (lower.includes(term)) {
-      terms.push(term);
-      score += term.length > 6 || term.includes(' ') ? 2 : 1;
-    }
-  }
-  if (/\b(solidity|defi|blockchain|web3|smart contract)\b/i.test(text)) score += 2;
-  return { score, terms: [...new Set(terms)] };
-}
-
-function isWeb3Job(title: string, body: string): { web3: boolean; score: number; terms: string[] } {
-  const titleScore = scoreWeb3(title);
-  const bodyScore = scoreWeb3(body);
-  const score = titleScore.score * 2 + bodyScore.score;
-  const terms = [...new Set([...titleScore.terms, ...bodyScore.terms])];
-  const web3 = score >= 3 || (titleScore.score >= 2 && bodyScore.score >= 1);
-  return { web3, score, terms };
 }
 
 function orgLooksWeb3(name: string, website: string, extra = ''): boolean {
@@ -468,7 +468,7 @@ async function reviewOne(row: RowIn): Promise<ReviewRow> {
         : await fetchAshby(row.atsBoard);
 
   const classified = fetched.jobs.map((job) => {
-    const result = isWeb3Job(job.title, job.body);
+    const result = classifyWeb3Job(job.title, job.body);
     return { title: job.title, web3Score: result.score, terms: result.terms, web3: result.web3 };
   });
 

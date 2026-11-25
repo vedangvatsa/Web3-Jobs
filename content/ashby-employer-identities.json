@@ -1479,5 +1479,45 @@
     "organizationId": "c947c724-32f5-4373-9001-7a8146bb8201",
     "owner": "Liquid",
     "website": "https://liquid.trade"
+  },
+  "ashby:3commas": {
+    "companies": [
+      "3Commas"
+    ],
+    "organizationId": "651471ad-0d8d-4006-9350-a05b167ce91f",
+    "owner": "3Commas",
+    "website": "https://3commas.io/"
+  },
+  "ashby:geobrowser": {
+    "companies": [
+      "Geo Browser"
+    ],
+    "organizationId": "f4ef75df-60b0-44e0-9a04-9cc4a708fefe",
+    "owner": "Geo Browser",
+    "website": "https://www.geobrowser.io/"
+  },
+  "ashby:aptosfoundation": {
+    "companies": [
+      "Aptos Foundation"
+    ],
+    "organizationId": "1a7f1c17-169d-42bd-8256-746abde654d1",
+    "owner": "Aptos Foundation",
+    "website": "https://aptosfoundation.org/"
+  },
+  "ashby:meter": {
+    "companies": [
+      "Meter"
+    ],
+    "organizationId": "154a9193-2cff-4d78-8523-13910238d6ff",
+    "owner": "Meter",
+    "website": "https://www.meter.com/"
+  },
+  "ashby:toogeza": {
+    "companies": [
+      "Toogeza"
+    ],
+    "organizationId": "f4f9c6d6-3ec0-4fbf-82da-3c7f0cbb6fc5",
+    "owner": "Toogeza",
+    "website": null
   }
 }

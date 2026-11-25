@@ -32,6 +32,7 @@ import { isJobAgeEligible } from '../src/lib/job-age-policy.mjs';
 import { preserveOriginalJobDate, normalizeSourcePostingDate } from '../src/lib/job-source-date';
 import { readJobDateHistory, writeJobDateHistory } from './lib/job-ingestion-policy';
 import { fetchBreezyPrimaryDate } from './lib/breezy-primary-date';
+import { passesWeb3TitleFilter } from '../src/lib/web3-job-classifier';
 
 interface GetroBoard {
   url: string;
@@ -537,6 +538,8 @@ async function refreshJobsCache() {
     { board: 'immunefi', company: 'Immunefi' },
     { board: 'burnt', company: 'XION' },
     { board: 'sfox', company: 'SFOX' },
+    { board: 'dtcpay', company: 'dtcpay' },
+    { board: 'chaincodelabs', company: 'Chaincode Labs' },
     { board: 'aptoslabs', company: 'Aptos Labs' },
     { board: 'layerzerolabs', company: 'LayerZero' },
     { board: 'galaxydigitalservices', company: 'Galaxy Digital' },
@@ -630,6 +633,17 @@ async function refreshJobsCache() {
     { board: 'parallel', company: 'Parallel' },
     { board: 'proof', company: 'Proof' },
     { board: 'aligned', company: 'Aligned' },
+    // --- Competitor gap: web3-titled roles only (mixed employers; ownership-safe) ---
+    { board: 'capco', company: 'Capco', web3TitlesOnly: true },
+    { board: 'okta', company: 'Okta', web3TitlesOnly: 'strict' },
+    { board: 'metropolis', company: 'Metropolis', web3TitlesOnly: true },
+    { board: 'betsson', company: 'Betsson Group', web3TitlesOnly: true },
+    { board: 'project44', company: 'project44', web3TitlesOnly: true },
+    { board: 'akunacapital', company: 'Akuna Capital', web3TitlesOnly: true },
+    { board: 'sparksoftcorporation', company: 'Sparksoft Corporation', web3TitlesOnly: true },
+    { board: 'future', company: 'Future Works', web3TitlesOnly: true },
+    { board: 'disco', company: 'DISCO', web3TitlesOnly: true },
+    { board: 'ideo', company: 'IDEO CoLab Ventures', web3TitlesOnly: true },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -661,6 +675,17 @@ async function refreshJobsCache() {
         // Skip internal/hidden postings
         const dept = job.metadata?.find(m => m.name === 'Careersite Department (for job postings)')?.value;
         if (dept === 'Do Not Post') continue;
+
+        const bodyText = job.content ? load(job.content).text() : '';
+        if (
+          !passesWeb3TitleFilter(
+            (gh as { web3TitlesOnly?: boolean | 'strict' }).web3TitlesOnly,
+            title,
+            bodyText,
+          )
+        ) {
+          continue;
+        }
 
         if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title)) {
           const salary = job.content ? extractSalaryLabelFromContent(job.content) : undefined;
@@ -756,6 +781,10 @@ async function refreshJobsCache() {
     { board: 'Hivemapper', company: 'Hivemapper' },
     { board: 'AkashNetwork', company: 'Akash Network' },
     { board: 'plume', company: 'Plume Network' },
+    // --- Competitor gap pass (175-probe strict ingest, Nov 2026) ---
+    { board: 'hivemind-capital', company: 'Hivemind Capital' },
+    { board: 'overmind', company: 'Overmind' },
+    { board: 'xsolla', company: 'Xsolla', web3TitlesOnly: true },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -790,6 +819,16 @@ async function refreshJobsCache() {
         const date = posting.createdAt ? new Date(posting.createdAt).toISOString() : '';
           const content = combineLeverContent(posting);
           const salary = formatLeverSalaryRange(posting.salaryRange);
+
+        if (
+          !passesWeb3TitleFilter(
+            (lv as { web3TitlesOnly?: boolean | 'strict' }).web3TitlesOnly,
+            title,
+            content,
+          )
+        ) {
+          continue;
+        }
 
         if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title) && isUsableDescription(content)) {
           const candidate: CachedJob = {
@@ -871,6 +910,9 @@ async function refreshJobsCache() {
     { board: 'cointracker', company: 'CoinTracker' },
     { board: 'ledger', company: 'Ledger' },
     { board: 'arca', company: 'Arca' },
+    { board: '3commas', company: '3Commas' },
+    { board: 'geobrowser', company: 'Geo Browser' },
+    { board: 'aptosfoundation', company: 'Aptos Foundation' },
     { board: 'lightspark', company: 'Lightspark' },
     { board: 'cryptio', company: 'Cryptio' },
     { board: 'alpenlabs', company: 'Alpen Labs' },
@@ -1020,6 +1062,8 @@ async function refreshJobsCache() {
     { board: 'fin', company: 'Fin' },
     { board: 'liquid', company: 'Liquid' },
     { board: 'teameigen', company: 'EigenLayer' },
+    { board: 'meter', company: 'Meter', web3TitlesOnly: true },
+    { board: 'toogeza', company: 'Toogeza', web3TitlesOnly: true },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -1052,6 +1096,16 @@ async function refreshJobsCache() {
         const company = normalizeCompany(ab.company);
         const link = job.jobUrl;
         const date = job.publishedAt || '';
+        const bodyText = job.descriptionHtml ? load(job.descriptionHtml).text() : '';
+        if (
+          !passesWeb3TitleFilter(
+            (ab as { web3TitlesOnly?: boolean | 'strict' }).web3TitlesOnly,
+            title,
+            bodyText,
+          )
+        ) {
+          continue;
+        }
 
         if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title)) {
           const candidate: CachedJob = {
