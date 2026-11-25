@@ -186263,7 +186263,8 @@
       },
       "account": "channel:founders",
       "attemptId": "e0375f07-6a56-462b-917a-2dc1ec454368",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x00fd3b92abbfc8725aff0c4473ed4ba6853d3bed"
     }
   ]
 }
