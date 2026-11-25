@@ -83,6 +83,9 @@
   "https://www.marktechpost.com/2026/11/24/openai-cisco-shirudo-ebpf-linux-runtime/",
   "https://the-decoder.com/openai-warns-that-upcoming-ai-systems-could-outpace-safety-checks-and-urges-rivals-to-agree-on-shared-limits/",
   "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+  "https://siliconangle.com/2026/11/24/epochal-launches-with-100m-to-help-developers-train-predictive-ai-models/",
+  "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+  "https://siliconangle.com/2026/11/24/anthropics-siren-tests-whether-claude-models-will-break-out-of-an-insecure-sandbox/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -251,6 +254,12 @@
   "OpenAI warns that upcoming AI systems could outpace safety checks and urges rivals to agree on shared limits",
   "Tidal bans AI music and deletes 27 million tracks",
   "Tidal announces ban on AI-generated music; 27 million tracks will be deleted",
+  "Epochal launches with $100 million for AI training tools",
+  "Epochal launches with $100M to help developers train predictive AI models",
+  "ByteDance open-sources Laminar reinforcement learning framework",
+  "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+  "Anthropic releases Siren benchmark to evaluate AI sandbox escapes",
+  "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -334,5 +343,8 @@
   "fp:anthropic|automat|automatically|cod|deployment|determin|environment|final|generat|liv",
   "fp:activ|allow|autonomous|block|cisco|defend|defens|downtim|linux|open",
   "fp:agre|boundary|capability|check|chief|compet|establish|internal|jakub|laboratory",
-  "fp:27m|account|announc|ban|catalog|currently|delet|generat|music|percent"
+  "fp:27m|account|announc|ban|catalog|currently|delet|generat|music|percent",
+  "fp:100m|epochal|establish|former|infrastructur|learn|machin|predictiv|researcher",
+  "fp:async|asynchronous|benchmark|bytedanc|cod|framework|improv|laminar|learn|open",
+  "fp:anthropic|assign|autonomous|benchmark|breach|break|complet|comput|environment|escap"
 ]

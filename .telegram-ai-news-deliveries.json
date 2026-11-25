@@ -1068,7 +1068,7 @@
     "sentAt": "2026-11-24T18:46:53.782Z"
   },
   "5f760221-274a-47b5-9ecb-0815bd07a3db": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-25T11:58:06.596Z",
     "stories": [
       {
@@ -1102,6 +1102,8 @@
         "originalTitle": "Anthropic’s Siren tests whether Claude models will break out of an insecure sandbox"
       }
     ],
-    "slotKey": "2026-11-25:afternoon"
+    "slotKey": "2026-11-25:afternoon",
+    "messageId": 193580,
+    "sentAt": "2026-11-25T11:58:14.051Z"
   }
 }
