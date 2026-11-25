@@ -191222,7 +191222,8 @@
       },
       "account": "channel:dev",
       "attemptId": "6a9793d7-2533-4637-b8a7-2a4d0ac306ff",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x21ae9432c243a5ef71047c0b3c03872c0347b540"
     }
   ]
 }
