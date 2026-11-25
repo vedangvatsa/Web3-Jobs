@@ -187887,6 +187887,41 @@
       "attemptId": "5a9d222d-b1d1-42e6-a3dd-6a30ded6b118",
       "verification": "verified",
       "postId": "0x37bfad271250c88c09f6c3ab974b83b70cc4f823"
+    },
+    {
+      "slug": "sls432",
+      "company": "Rain",
+      "title": "Associate Account Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-11-25T13:30:57.089Z",
+      "expectedText": "Rain is hiring Associate Account Manager\n\nhttps://hashtagweb3.com/sls432/fc?og=7",
+      "snapshot": {
+        "id": "34a3f837-7fb5-492d-bf28-003e9dd26277",
+        "title": "Associate Account Manager",
+        "company": "Rain",
+        "link": "https://jobs.ashbyhq.com/rain/34a3f837-7fb5-492d-bf28-003e9dd26277",
+        "date": "2026-11-06T18:19:56.581+00:00",
+        "source": "Ashby: Rain [rain]",
+        "location": "Hybrid (New York, NY)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "GTM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls432"
+      },
+      "payload": {
+        "text": "Rain is hiring Associate Account Manager\n\nhttps://hashtagweb3.com/sls432/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls432/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "8037536f-24b0-4b2a-936e-1c4efa023357",
+      "verification": "creating"
     }
   ]
 }
