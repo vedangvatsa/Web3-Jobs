@@ -190891,6 +190891,35 @@
       "attemptId": "ca68e063-9f10-40cc-b465-9bc33a4d58e6",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "rasc",
+      "company": "Kalshi",
+      "title": "Regulatory Attorney - SEC/CFTC",
+      "platform": "facebook",
+      "postedAt": "2026-11-25T23:26:18.678Z",
+      "expectedText": "Kalshi is hiring Regulatory Attorney - SEC: https://hashtagweb3.com/rasc/fb?og=7",
+      "snapshot": {
+        "id": "4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "title": "Regulatory Attorney - SEC/CFTC",
+        "company": "Kalshi",
+        "link": "https://jobs.ashbyhq.com/kalshi/4b2a3d2b-101c-4ed0-8110-0ede90f7affe",
+        "date": "2026-11-09T19:57:32.112+00:00",
+        "source": "Ashby: Kalshi [kalshi]",
+        "location": "New York Office",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Legal",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rasc"
+      },
+      "payload": {
+        "message": "Kalshi is hiring Regulatory Attorney - SEC: https://hashtagweb3.com/rasc/fb?og=7",
+        "link": "https://hashtagweb3.com/rasc/fb?og=7"
+      },
+      "attemptId": "6dd33120-fc12-4de1-a3e0-3f9ded9623d2",
+      "verification": "creating"
     }
   ]
 }
