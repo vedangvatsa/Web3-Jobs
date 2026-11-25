@@ -185786,6 +185786,47 @@
       "attemptId": "b5970016-0350-4e52-9333-27dd01ec6c1d",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "dsf2",
+      "company": "Stripe",
+      "title": "Staff Data Scientist, Fraud",
+      "platform": "linkedin",
+      "postedAt": "2026-11-25T11:59:39.760Z",
+      "expectedText": "Stripe is hiring Staff Data Scientist: https://hashtagweb3.com/dsf2/li?og=7",
+      "snapshot": {
+        "id": "8323907",
+        "title": "Staff Data Scientist, Fraud",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8323907",
+        "date": "2026-11-20T15:40:04-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "N/A",
+        "department": "7112 Data Science",
+        "active": true,
+        "dateVerified": true,
+        "slug": "dsf2"
+      },
+      "payload": {
+        "text": "Stripe is hiring Staff Data Scientist: https://hashtagweb3.com/dsf2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/dsf2/li?og=7",
+          "title": "Staff Data Scientist, Fraud at Stripe | Hashtag Web3",
+          "description": "Join Stripe as Staff Data Scientist, Fraud. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/dsf2.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "ac77d51e-e9b1-4e98-9665-71d7d0343f19",
+      "verification": "creating"
     }
   ]
 }
