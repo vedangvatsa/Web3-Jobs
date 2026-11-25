@@ -2,7 +2,7 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-25T13:29:06.121Z",
+  "generatedAt": "2026-11-25T14:14:31.152Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
@@ -1884,12 +1884,6 @@
     {
       "url": "https://hashtagweb3.com/awma2",
       "lastmod": "2026-11-20",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/awmp2",
-      "lastmod": "2026-10-26",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -5024,6 +5018,12 @@
       "lastmod": "2026-11-01",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/cpc2",
+      "lastmod": "2026-11-24",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/cpps",
@@ -9076,6 +9076,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/franklin-templeton",
+      "lastmod": "2026-11-24",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/freelance-rates-by-industry",
       "lastmod": "2025-01-01",
       "changefreq": "monthly",
@@ -12598,12 +12604,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/mgr128",
-      "lastmod": "2026-11-02",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/mgr129",
       "lastmod": "2026-11-02",
       "changefreq": "daily",
@@ -13794,6 +13794,12 @@
     {
       "url": "https://hashtagweb3.com/mlro3",
       "lastmod": "2026-10-26",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/mlro5",
+      "lastmod": "2026-11-12",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -19660,12 +19666,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/sls330",
-      "lastmod": "2026-10-26",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/sls331",
       "lastmod": "2026-11-21",
       "changefreq": "daily",
@@ -22073,7 +22073,7 @@
     },
     {
       "url": "https://hashtagweb3.com/tir13",
-      "lastmod": "2026-10-27",
+      "lastmod": "2026-10-29",
       "changefreq": "daily",
       "priority": 0.8
     },

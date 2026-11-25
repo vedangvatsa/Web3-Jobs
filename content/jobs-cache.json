@@ -1,7 +1,7 @@
 [
   {
     "id": "5048174101",
-    "title": "IT - DevSecOps Engineer - London",
+    "title": "IT - Senior DevSecOps Engineer - London",
     "company": "B2C2",
     "link": "https://job-boards.eu.greenhouse.io/b2c2/jobs/5048174101",
     "date": "2026-11-25T07:13:22-05:00",
@@ -24,8 +24,8 @@
     "location": "Malaysia",
     "department": "AI Development",
     "active": true,
-    "slug": "eng882",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng882"
   },
   {
     "id": "4009948201",
@@ -38,8 +38,8 @@
     "location": "Singapore",
     "department": "AI Development",
     "active": true,
-    "slug": "eng881",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng881"
   },
   {
     "id": "46e87d8f-0232-47bc-8c86-721e6928cbfd",
@@ -53,8 +53,8 @@
     "workplaceType": "OnSite",
     "department": "Corporate Functions",
     "active": true,
-    "slug": "eng880",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "eng880"
   },
   {
     "id": "4010001201",
@@ -67,8 +67,8 @@
     "location": "Malaysia",
     "department": "Quality Assurance",
     "active": true,
-    "slug": "qa112",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "qa112"
   },
   {
     "id": "8288879",
@@ -496,8 +496,8 @@
     "workplaceType": "Hybrid",
     "applyUrl": "https://jobs.ashbyhq.com/openstandard/e484dfab-2bec-43a2-8883-56fbf0da7d14/application",
     "active": true,
-    "slug": "lp",
-    "dateVerified": true
+    "dateVerified": true,
+    "slug": "lp"
   },
   {
     "id": "ef6939bf-2f91-44fb-ae32-df9ba9272dc3",
@@ -1490,7 +1490,7 @@
     "dateSource": "Greenhouse.first_published",
     "source": "Greenhouse: Jane Street [janestreet]",
     "location": "Singapore",
-    "department": "Procurement",
+    "department": "Sourcing and Vendor Management",
     "active": true,
     "dateVerified": true,
     "slug": "ps11"
@@ -1755,7 +1755,7 @@
     "link": "https://apply.workable.com/j/DA99BEB44C",
     "date": "2026-11-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Poland",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -1782,6 +1782,21 @@
       "datePosted": "2026-11-24"
     },
     "slug": "infra96"
+  },
+  {
+    "id": "ft-869546",
+    "title": "Head of Franklin Crypto Private Credit",
+    "company": "Franklin Templeton",
+    "link": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/USA-NYOMA-New-York/Head-of-Franklin-Crypto-Private-Credit_869546",
+    "applyUrl": "https://franklintempleton.wd5.myworkdayjobs.com/Primary-External-1/job/USA-NYOMA-New-York/Head-of-Franklin-Crypto-Private-Credit_869546",
+    "date": "2026-11-24T00:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "Franklin Templeton Careers",
+    "source": "Phenom [franklin-templeton]",
+    "location": "USA-NYOMA-New York",
+    "type": "Full time",
+    "active": true,
+    "slug": "cpc2"
   },
   {
     "id": "2837985",
@@ -5019,7 +5034,7 @@
     "link": "https://apply.workable.com/j/079A6FCCD7",
     "date": "2026-11-19",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -5032,7 +5047,7 @@
     "link": "https://apply.workable.com/j/9A62718321",
     "date": "2026-11-19",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Bangkok, Thailand",
+    "location": "Poland",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -10999,6 +11014,20 @@
     "slug": "cmp165"
   },
   {
+    "id": "4a18faf8-2bee-4cf5-bd5f-9fed3d8eebb0",
+    "title": "Money Laundering Reporting Officer ( Kenya/Tanzania/EAC )",
+    "company": "Unlimit",
+    "link": "https://jobs.lever.co/unlimit/4a18faf8-2bee-4cf5-bd5f-9fed3d8eebb0",
+    "date": "2026-11-12T10:30:44.585Z",
+    "source": "Lever: Unlimit [unlimit]",
+    "location": "Nairobi",
+    "workplaceType": "onsite",
+    "department": "AML",
+    "active": true,
+    "dateVerified": true,
+    "slug": "mlro5"
+  },
+  {
     "id": "8928819002",
     "title": "Associate Implementation Consultant",
     "company": "ComplyAdvantage",
@@ -12432,19 +12461,6 @@
     "slug": "cdaw"
   },
   {
-    "id": "ey-1395968133",
-    "title": "Senior Consultant, Digital Assets, Capital Markets",
-    "company": "EY",
-    "link": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Digital-Assets%2C-Capital-Markets-E14-5EY/1395968133/",
-    "applyUrl": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Digital-Assets%2C-Capital-Markets-E14-5EY/1395968133/",
-    "date": "2026-11-11T02:00:00.000Z",
-    "dateVerified": true,
-    "dateSource": "EY Careers",
-    "source": "EY Careers [ey]",
-    "active": true,
-    "slug": "cdac"
-  },
-  {
     "id": "ey-1395970133",
     "title": "Manager, Digital Assets, Wealth and Asset Management",
     "company": "EY",
@@ -12456,6 +12472,19 @@
     "source": "EY Careers [ey]",
     "active": true,
     "slug": "mgr304"
+  },
+  {
+    "id": "ey-1395968133",
+    "title": "Senior Consultant, Digital Assets, Capital Markets",
+    "company": "EY",
+    "link": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Digital-Assets%2C-Capital-Markets-E14-5EY/1395968133/",
+    "applyUrl": "https://careers.ey.com/ey/job/London-Senior-Consultant%2C-Digital-Assets%2C-Capital-Markets-E14-5EY/1395968133/",
+    "date": "2026-11-11T02:00:00.000Z",
+    "dateVerified": true,
+    "dateSource": "EY Careers",
+    "source": "EY Careers [ey]",
+    "active": true,
+    "slug": "cdac"
   },
   {
     "id": "07263820-3c26-49b6-8e0b-5ed9f2a7f901",
@@ -15468,24 +15497,11 @@
     "link": "https://apply.workable.com/j/8BC3363A24",
     "date": "2026-11-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Poland",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
     "slug": "be113"
-  },
-  {
-    "id": "2D24C9E644",
-    "title": "Sr. Backend Engineer I - US Stocks",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/2D24C9E644",
-    "date": "2026-11-09",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Engineering",
-    "active": true,
-    "dateVerified": true,
-    "slug": "be101"
   },
   {
     "id": "BEBE6194ED",
@@ -15499,6 +15515,19 @@
     "active": true,
     "dateVerified": true,
     "slug": "be114"
+  },
+  {
+    "id": "2D24C9E644",
+    "title": "Sr. Backend Engineer I - US Stocks",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/2D24C9E644",
+    "date": "2026-11-09",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Jakarta, Indonesia",
+    "department": "Engineering",
+    "active": true,
+    "dateVerified": true,
+    "slug": "be101"
   },
   {
     "id": "7a4083b2fdfe",
@@ -16373,21 +16402,6 @@
     "slug": "infra71"
   },
   {
-    "id": "8197695003",
-    "title": "Senior Management, Platform & Infrastructure Audit",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/8197695003",
-    "date": "2026-11-06T11:41:51-05:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "San Jose, CA",
-    "department": "Internal Audit ",
-    "active": true,
-    "salary": "$171k – $257k/yr",
-    "dateVerified": true,
-    "slug": "infra94"
-  },
-  {
     "id": "8350923",
     "title": "Partner Development Manager, Ecosystem Partnerships",
     "company": "Stripe",
@@ -16444,6 +16458,21 @@
     "salary": "$208.0k – $218.9k/yr",
     "dateVerified": true,
     "slug": "eng660"
+  },
+  {
+    "id": "7996101003",
+    "title": "Senior Management, Platform & Infrastructure Audit",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7996101003",
+    "date": "2026-11-06T11:08:15-05:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "San Jose, CA",
+    "department": "Internal Audit ",
+    "active": true,
+    "salary": "$171k – $257k/yr",
+    "dateVerified": true,
+    "slug": "infra94"
   },
   {
     "id": "8301957",
@@ -19719,7 +19748,7 @@
     "link": "https://apply.workable.com/j/57E66C06BE",
     "date": "2026-11-04",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
+    "location": "Bangkok, Thailand",
     "department": "Engineering",
     "active": true,
     "dateVerified": true,
@@ -20829,33 +20858,11 @@
     "link": "https://apply.workable.com/j/82D0418695",
     "date": "2026-11-03",
     "source": "Workable: GoMining [gomining]",
-    "location": "Serbia",
+    "location": "Armenia",
     "department": "Support",
     "active": true,
     "dateVerified": true,
     "slug": "mgr226"
-  },
-  {
-    "id": "ae5736e5a901",
-    "title": "Director, AI Datacenter Construction",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
-    "date": "2026-11-03",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Remote (Austin, TX)",
-    "isRemote": true,
-    "department": "",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
-      "checkedAt": "2026-11-05T00:30:52.113Z",
-      "bodySha256": "f3a0bb1aacd1f2e7c359dd3227945d70d156b12db85dcfa0195b6d5d9a366841",
-      "provider": "breezy",
-      "datePosted": "2026-11-03"
-    },
-    "slug": "dadc"
   },
   {
     "id": "3e442852f8af",
@@ -20878,6 +20885,28 @@
       "datePosted": "2026-11-03"
     },
     "slug": "eng401"
+  },
+  {
+    "id": "ae5736e5a901",
+    "title": "Director, AI Datacenter Construction",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
+    "date": "2026-11-03",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Remote (Austin, TX)",
+    "isRemote": true,
+    "department": "",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/ae5736e5a901-director-ai-datacenter-construction",
+      "checkedAt": "2026-11-05T00:30:52.113Z",
+      "bodySha256": "f3a0bb1aacd1f2e7c359dd3227945d70d156b12db85dcfa0195b6d5d9a366841",
+      "provider": "breezy",
+      "datePosted": "2026-11-03"
+    },
+    "slug": "dadc"
   },
   {
     "id": "e8a7c1b900b1",
@@ -21712,20 +21741,6 @@
     "slug": "job40"
   },
   {
-    "id": "8327701",
-    "title": "Finance Manager",
-    "company": "Ripple",
-    "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
-    "date": "2026-11-02T02:44:13-05:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Ripple [ripple]",
-    "location": "Singapore",
-    "department": "Finance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "mgr128"
-  },
-  {
     "id": "5020051101",
     "title": "Financial Crime Manager",
     "company": "StraitsX",
@@ -21958,28 +21973,6 @@
     "slug": "be100"
   },
   {
-    "id": "dab20211c983",
-    "title": "AI Datacenter Construction Cost Lead",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
-    "date": "2026-11-02",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Columbus, OH",
-    "isRemote": false,
-    "department": "",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
-      "checkedAt": "2026-11-05T00:30:49.947Z",
-      "bodySha256": "0f2b8f1be757e7a977140a0d2825e1e6ba53173f24595e369f7b09b004260b50",
-      "provider": "breezy",
-      "datePosted": "2026-11-02"
-    },
-    "slug": "adcc"
-  },
-  {
     "id": "68ff9c2948ca",
     "title": "AI Datacenter Electrical / High Voltage Construction Manager",
     "company": "Bitdeer",
@@ -22022,6 +22015,28 @@
       "datePosted": "2026-11-02"
     },
     "slug": "mgr225"
+  },
+  {
+    "id": "dab20211c983",
+    "title": "AI Datacenter Construction Cost Lead",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
+    "date": "2026-11-02",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "Columbus, OH",
+    "isRemote": false,
+    "department": "",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/dab20211c983-ai-datacenter-construction-cost-lead",
+      "checkedAt": "2026-11-05T00:30:49.947Z",
+      "bodySha256": "0f2b8f1be757e7a977140a0d2825e1e6ba53173f24595e369f7b09b004260b50",
+      "provider": "breezy",
+      "datePosted": "2026-11-02"
+    },
+    "slug": "adcc"
   },
   {
     "id": "e89b32dd03f5",
@@ -24388,6 +24403,20 @@
     "slug": "aso85"
   },
   {
+    "id": "8066179003",
+    "title": "Head of Tax Information Reporting",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8066179003",
+    "date": "2026-10-29T03:19:19-04:00",
+    "dateSource": "Greenhouse.first_published",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "EMEA (Remote)",
+    "department": "Compliance",
+    "active": true,
+    "dateVerified": true,
+    "slug": "tir13"
+  },
+  {
     "id": "8333165",
     "title": "Staff Machine Learning Engineer, Compliance Automation (Platform)",
     "company": "Coinbase",
@@ -25794,28 +25823,6 @@
     "slug": "pcac"
   },
   {
-    "id": "62b347cbd2e2",
-    "title": "Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
-    "date": "2026-10-28",
-    "dateVerified": true,
-    "dateSource": "Breezy.JobPosting.datePosted",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "San Jose, CA",
-    "isRemote": false,
-    "department": "AI Cloud",
-    "active": true,
-    "dateEvidence": {
-      "url": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
-      "checkedAt": "2026-10-30T03:42:02.721Z",
-      "bodySha256": "fafb95c5acbbd42ab3afcb83ce080a94de074f745d29bb1db1ef9bc30fbaa681",
-      "provider": "breezy",
-      "datePosted": "2026-10-28"
-    },
-    "slug": "sls187"
-  },
-  {
     "id": "cee1769dc482",
     "title": "Regional Account Executive, GPUaaS (GPU as a Service) Sales",
     "company": "Bitdeer",
@@ -25836,6 +25843,28 @@
       "datePosted": "2026-10-28"
     },
     "slug": "sls189"
+  },
+  {
+    "id": "62b347cbd2e2",
+    "title": "Regional Account Executive, MaaS (Model as a Service) Sales Junior Middle",
+    "company": "Bitdeer",
+    "link": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
+    "date": "2026-10-28",
+    "dateVerified": true,
+    "dateSource": "Breezy.JobPosting.datePosted",
+    "source": "Breezy: Bitdeer [bitdeer]",
+    "location": "San Jose, CA",
+    "isRemote": false,
+    "department": "AI Cloud",
+    "active": true,
+    "dateEvidence": {
+      "url": "https://bitdeer.breezy.hr/p/62b347cbd2e2-regional-account-executive-maas-model-as-a-service-sales-junior-middle",
+      "checkedAt": "2026-10-30T03:42:02.721Z",
+      "bodySha256": "fafb95c5acbbd42ab3afcb83ce080a94de074f745d29bb1db1ef9bc30fbaa681",
+      "provider": "breezy",
+      "datePosted": "2026-10-28"
+    },
+    "slug": "sls187"
   },
   {
     "id": "605451fdfa56",
@@ -26063,20 +26092,6 @@
     "active": true,
     "dateVerified": true,
     "slug": "mgr210"
-  },
-  {
-    "id": "8046685003",
-    "title": "Head of Tax Information Reporting",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
-    "date": "2026-10-27T16:32:34-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "EMEA (Remote)",
-    "department": "Compliance",
-    "active": true,
-    "dateVerified": true,
-    "slug": "tir13"
   },
   {
     "id": "e8815463-ee2b-4fb8-bb18-4890866dc61a",
@@ -27439,56 +27454,5 @@
     "salary": "$180.4k – $212.2k/yr",
     "dateVerified": true,
     "slug": "pm329"
-  },
-  {
-    "id": "5016223101",
-    "title": "Business Development Specialist",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5016223101",
-    "date": "2026-10-26T09:51:35-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "LATAM - Remote",
-    "department": "Payment Business Unit",
-    "active": true,
-    "dateVerified": true,
-    "slug": "sls330"
-  },
-  {
-    "id": "gs-oracle-185231",
-    "title": "Asset & Wealth Management, Private Wealth Management, Private Wealth Advisor, Vice President, Cincinnati",
-    "company": "Goldman Sachs",
-    "link": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185231",
-    "applyUrl": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LateralHiring/job/185231",
-    "date": "2026-10-26T13:34:37+00:00",
-    "dateVerified": true,
-    "dateSource": "Oracle Recruiting",
-    "source": "Oracle CE [goldman-lateral]",
-    "location": "Cincinnati, OH, United States",
-    "type": "Full-time",
-    "department": "Goldman Sachs",
-    "skills": [
-      "Institutional",
-      "Banking",
-      "Digital Assets",
-      "Blockchain",
-      "Web3"
-    ],
-    "active": true,
-    "slug": "awmp2"
-  },
-  {
-    "id": "8324207",
-    "title": "Processing Cost Analyst",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8324207",
-    "date": "2026-10-26T09:24:50-04:00",
-    "dateSource": "Greenhouse.first_published",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "IN-Bengaluru",
-    "department": "4203 BFin - Accounting (SDC)",
-    "active": true,
-    "dateVerified": true,
-    "slug": "an109"
   }
 ]

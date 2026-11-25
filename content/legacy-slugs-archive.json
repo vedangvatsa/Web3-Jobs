@@ -160665,5 +160665,43 @@
     "link": "https://jobs.ashbyhq.com/trm-labs/990968db-cc8d-4658-b0cd-1c4387953c97",
     "title": "VP of Communications",
     "company": "TRM Labs"
+  },
+  "mkt142": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt192"
+  },
+  "cmp149": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp204"
+  },
+  "infra94": {
+    "id": "8197695003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8197695003",
+    "company": "OKX",
+    "title": "Senior Management, Platform & Infrastructure Audit"
+  },
+  "mgr128": {
+    "id": "8327701",
+    "link": "https://ripple.com/careers/all-jobs/job/8327701?gh_jid=8327701",
+    "company": "Ripple",
+    "title": "Finance Manager"
+  },
+  "tir13": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "company": "OKX",
+    "title": "Head of Tax Information Reporting"
+  },
+  "an109": {
+    "id": "8324207",
+    "link": "https://stripe.com/jobs/search?gh_jid=8324207",
+    "company": "Stripe",
+    "title": "Processing Cost Analyst"
   }
 }
