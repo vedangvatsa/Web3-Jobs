@@ -191650,6 +191650,46 @@
       "attemptId": "dea201a6-7242-4e69-abcb-31dc4a8b3e82",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "eng866",
+      "company": "dtcpay",
+      "title": "Application Support Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-25T23:30:53.014Z",
+      "expectedText": "dtcpay is hiring Application Support Engineer: https://hashtagweb3.com/eng866/li?og=7",
+      "snapshot": {
+        "id": "4009844201",
+        "title": "Application Support Engineer",
+        "company": "dtcpay",
+        "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009844201",
+        "date": "2026-11-20T06:31:44-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: dtcpay [dtcpay]",
+        "location": "Malaysia",
+        "department": "Production Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng866"
+      },
+      "payload": {
+        "text": "dtcpay is hiring Application Support Engineer: https://hashtagweb3.com/eng866/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng866/li?og=7",
+          "title": "Application Support Engineer at dtcpay | Hashtag Web3",
+          "description": "Join dtcpay as Application Support Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng866.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "6a49b0b3-deb7-447e-9ec7-5b2fe9eb730f",
+      "verification": "creating"
     }
   ]
 }
