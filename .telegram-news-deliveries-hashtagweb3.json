@@ -955,5 +955,36 @@
     "slotKey": "2026-11-25:afternoon",
     "messageId": 156499,
     "sentAt": "2026-11-25T12:00:17.350Z"
+  },
+  "81ddc08b-a7a1-44a8-9325-9349cf7bb8db": {
+    "status": "reserved",
+    "reservedAt": "2026-11-25T20:38:26.867Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "SBI, SMFG, and Solana Foundation Form Joint Venture",
+        "summary": "The new entity will focus on developing stablecoin payments and tokenizing financial assets.",
+        "link": "https://hashtagweb3.com/sbiglobal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SBI, SMFG and Solana Foundation begin operations of SBI Solana Global joint venture"
+      },
+      {
+        "index": -1,
+        "headline": "Telegram users generated 700,000 crypto wallets in 48 hours",
+        "summary": "Pavel Durov announced the increase as TON and Gram mini-app integrations expand across the platform.",
+        "link": "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Telegram adds 700,000 crypto wallets in 48 hours, Durov says"
+      },
+      {
+        "index": -1,
+        "headline": "Nigeria mandates local licensing for foreign stablecoin issuers",
+        "summary": "Foreign issuers must incorporate in Nigeria, hold 15 billion naira capital, and maintain a two percent reserve buffer.",
+        "link": "https://hashtagweb3.com/cbnstablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nigeria Requires Offshore Stablecoin Issuers to License Locally"
+      }
+    ],
+    "slotKey": "2026-11-25:evening"
   }
 }
