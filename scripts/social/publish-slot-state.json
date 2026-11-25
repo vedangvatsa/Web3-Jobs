@@ -1413,6 +1413,24 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-24T03:24:06.385Z"
       }
+    ],
+    "2026-11-25": [
+      {
+        "date": "2026-11-25",
+        "id": "45623166303-1",
+        "sourceCommit": "9588f8e6f2979deb4f4e75801cca56b0c3995eb5",
+        "jobsCheckedAt": "2026-11-25T14:14:35.971Z",
+        "newsCompletedAt": "2026-11-25T14:27:43.038Z",
+        "articleSlugs": [
+          "usdcforfeit",
+          "sbiglobal",
+          "cmudap"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-25T14:42:39.733Z",
+        "buildId": "daily-20261125-45623166303-1",
+        "rolloutId": "daily-20261125-45623166303-1"
+      }
     ]
   }
 }
