@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T11:39:02.663Z",
+  "generatedAt": "2026-11-25T12:44:52.728Z",
   "year": 2026,
   "snapshotLabel": "Q4 2026 Index",
   "totalEmployers": 100,
-  "totalActiveJobs": 1226,
-  "avgRemotePct": 40,
-  "avgSalaryTransparencyPct": 12,
+  "totalActiveJobs": 1233,
+  "avgRemotePct": 38,
+  "avgSalaryTransparencyPct": 13,
   "employers": [
     {
       "rank": 1,
@@ -65,17 +65,17 @@
       "website": "https://www.okx.com",
       "headquarters": "Seychelles",
       "founded": 2017,
-      "activeJobs": 66,
+      "activeJobs": 65,
       "departmentCount": 17,
       "remotePercentage": 12,
       "salaryTransparencyPct": 20,
       "salaryBenchmark": "$268.3k – $313.1k/yr",
       "scores": {
-        "hiringVolume": 59.8,
+        "hiringVolume": 59.6,
         "departmentBreadth": 20,
         "remoteFlexibility": 1.2,
         "salaryTransparency": 2,
-        "composite": 83
+        "composite": 82.8
       },
       "highlightBadges": [
         "Multi-Department"
@@ -400,22 +400,45 @@
       "category": "Security & Auditing",
       "website": "https://www.chainalysis.com",
       "headquarters": "Remote / Global",
-      "activeJobs": 23,
+      "activeJobs": 24,
       "departmentCount": 3,
-      "remotePercentage": 78,
+      "remotePercentage": 75,
       "salaryTransparencyPct": 0,
       "scores": {
-        "hiringVolume": 45.2,
+        "hiringVolume": 45.8,
         "departmentBreadth": 6,
-        "remoteFlexibility": 7.8,
+        "remoteFlexibility": 7.5,
         "salaryTransparency": 0,
-        "composite": 59
+        "composite": 59.3
       },
       "highlightBadges": [],
       "summary": "Chainalysis, founded in 2014 in New York by Michael Gronager, is the leading blockchain analytics platform used by 1,200+ governments and institutions to investigate crypto crime, comply with sanctions and measure market activity. Covering 15+ chains, its Reactor and KYT products traced flows in major cases. Valued at ..."
     },
     {
       "rank": 18,
+      "slug": "dtcpay",
+      "name": "dtcpay",
+      "category": "Fintech & Payments",
+      "website": "https://www.dtcpay.com",
+      "headquarters": "Remote / Global",
+      "activeJobs": 20,
+      "departmentCount": 14,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 43.3,
+        "departmentBreadth": 20,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 63.3
+      },
+      "highlightBadges": [
+        "Multi-Department"
+      ],
+      "summary": "dtcpay is a Singapore-based fintech providing fiat and crypto payment, wallet, and merchant acceptance services for businesses operating across Asia and digital-asset corridors. Licensed under MAS and related frameworks, dtcpay supports stablecoin settlement, card programs, and treasury accounts for enterprises that ne..."
+    },
+    {
+      "rank": 19,
       "slug": "bitpanda",
       "name": "Bitpanda",
       "category": "Exchanges & Custody",
@@ -438,7 +461,7 @@
       "summary": "Bitpanda, founded in 2014 in Vienna by Eric Demuth, Paul Klanschek and Christian Trummer as Coinimal, is a leading European investment platform offering stocks, exchange-traded funds, crypto and precious metals to millions of users. Regulated under European frameworks and licensed in Austria, the platform emphasizes re..."
     },
     {
-      "rank": 19,
+      "rank": 20,
       "slug": "ey",
       "name": "EY",
       "category": "AI & DePIN",
@@ -457,29 +480,6 @@
       },
       "highlightBadges": [],
       "summary": "EY provides assurance, consulting, tax, and strategy services with a global blockchain and digital assets practice spanning audit, custody, tokenization, and smart contract assurance."
-    },
-    {
-      "rank": 20,
-      "slug": "dtcpay",
-      "name": "dtcpay",
-      "category": "Fintech & Payments",
-      "website": "https://www.dtcpay.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 17,
-      "departmentCount": 12,
-      "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 41.1,
-        "departmentBreadth": 20,
-        "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 61.1
-      },
-      "highlightBadges": [
-        "Multi-Department"
-      ],
-      "summary": "dtcpay is a Singapore-based fintech providing fiat and crypto payment, wallet, and merchant acceptance services for businesses operating across Asia and digital-asset corridors. Licensed under MAS and related frameworks, dtcpay supports stablecoin settlement, card programs, and treasury accounts for enterprises that ne..."
     },
     {
       "rank": 21,
@@ -1201,24 +1201,28 @@
     },
     {
       "rank": 52,
-      "slug": "infosys",
-      "name": "Infosys",
-      "category": "Security & Auditing",
-      "website": "https://www.infosys.com",
-      "headquarters": "Bangalore, India",
-      "activeJobs": 7,
-      "departmentCount": 1,
+      "slug": "hifi",
+      "name": "HIFI",
+      "category": "Fintech & Payments",
+      "website": "https://www.hifi.com/",
+      "headquarters": "New York, USA",
+      "activeJobs": 6,
+      "departmentCount": 5,
       "remotePercentage": 0,
-      "salaryTransparencyPct": 0,
+      "salaryTransparencyPct": 83,
+      "salaryBenchmark": "$145,000–$210,000 per year (USD)",
       "scores": {
-        "hiringVolume": 29.6,
-        "departmentBreadth": 2,
+        "hiringVolume": 27.7,
+        "departmentBreadth": 10,
         "remoteFlexibility": 0,
-        "salaryTransparency": 0,
-        "composite": 31.6
+        "salaryTransparency": 8.3,
+        "composite": 46
       },
-      "highlightBadges": [],
-      "summary": "Infosys is a global digital services and consulting company that helps large enterprises modernize technology stacks, build cloud platforms, and deliver data and AI products. Its blockchain and Web3 practices support clients exploring tokenization, enterprise ledgers, digital identity, and regulated asset workflows alo..."
+      "highlightBadges": [
+        "Salary Transparency",
+        "Multi-Department"
+      ],
+      "summary": "HIFI builds stablecoin and payment infrastructure for developers who need programmable dollar accounts, issuance controls, and compliance-ready APIs. Its stack targets fintechs, payment platforms, and Web3 apps that want to move value on stablecoin rails without building banking integrations and policy engines from scr..."
     },
     {
       "rank": 53,
@@ -1422,6 +1426,30 @@
     },
     {
       "rank": 62,
+      "slug": "bnb-chain",
+      "name": "BNB Chain",
+      "category": "L1 / L2 Protocols",
+      "website": "https://www.bnbchain.org",
+      "headquarters": "Remote / Global",
+      "activeJobs": 5,
+      "departmentCount": 5,
+      "remotePercentage": 100,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 25.5,
+        "departmentBreadth": 10,
+        "remoteFlexibility": 10,
+        "salaryTransparency": 0,
+        "composite": 45.5
+      },
+      "highlightBadges": [
+        "100% Remote",
+        "Multi-Department"
+      ],
+      "summary": "BNB Chain is a community-driven, decentralized blockchain ecosystem powered by BNB. It consists of BNB Smart Chain (BSC), an EVM-compatible Layer 1, opBNB Layer 2 rollup, and BNB Greenfield decentralized storage. BNB Chain powers thousands of decentralized applications across DeFi, Gaming, AI, and Social, serving milli..."
+    },
+    {
+      "rank": 63,
       "slug": "chainlink-labs",
       "name": "Chainlink Labs",
       "category": "AI & DePIN",
@@ -1446,7 +1474,7 @@
       "summary": "Chainlink Labs, originally founded in 2014 in San Francisco as SmartContract.com by Sergey Nazarov and Steve Ellis, builds Chainlink, the industry-standard oracle network for decentralized finance. The network delivers Data Feeds, Cross-Chain Interoperability Protocol and Functions that let smart contracts access off-c..."
     },
     {
-      "rank": 63,
+      "rank": 64,
       "slug": "dv-trading",
       "name": "DV Trading",
       "category": "Trading & Quant",
@@ -1471,7 +1499,7 @@
       "summary": "DV Trading, founded in 2006 in Chicago as DV Group, is a proprietary trading firm active in commodities, equities and crypto via DV Chain, its institutional crypto desk providing liquidity and OTC services. With 400+ employees across Chicago, New York and London, DV combines market making, systematic strategies and ven..."
     },
     {
-      "rank": 64,
+      "rank": 65,
       "slug": "polygon-labs",
       "name": "Polygon Labs",
       "category": "L1 / L2 Protocols",
@@ -1495,7 +1523,7 @@
       "summary": "Polygon Labs, founded in 2017 as Matic Network by Sandeep Nailwal, Jaynti Kanani and Anurag Arjun in Mumbai and now headquartered in Dubai, London and New York, develops Ethereum scaling infrastructure. Its suite spans Polygon PoS, Polygon zkEVM and the AggLayer for aggregated liquidity, plus the Polygon CDK for builde..."
     },
     {
-      "rank": 65,
+      "rank": 66,
       "slug": "helius",
       "name": "Helius",
       "category": "Infrastructure & Tooling",
@@ -1518,7 +1546,7 @@
       "summary": "Helius, founded in 2022 by Mert Mumtaz, Liam Vovk and Nicolas Pennie in the United States, provides Solana-native developer infrastructure spanning RPC nodes, APIs, webhooks and indexing for high-performance crypto apps. Created during the bear market by former Coinbase and Amazon engineers who met at Queen's Universit..."
     },
     {
-      "rank": 66,
+      "rank": 67,
       "slug": "injective-labs",
       "name": "Injective Labs",
       "category": "AI & DePIN",
@@ -1541,7 +1569,7 @@
       "summary": "Injective Labs is the core research and engineering company behind the Injective blockchain, an open finance layer-1 built with Cosmos SDK for high-speed decentralized trading and on-chain financial applications. The team develops protocol implementations, core exchange modules, and ecosystem products such as Helix, In..."
     },
     {
-      "rank": 67,
+      "rank": 68,
       "slug": "merkle-science",
       "name": "Merkle Science",
       "category": "AI & DePIN",
@@ -1564,7 +1592,7 @@
       "summary": "Merkle Science, founded in 2018 in Singapore by Mriganka Pattnaik with co-founder Nirmal AK, builds blockchain forensics and compliance tools Compass, Tracker and Foresight used by regulators and exchanges to trace illicit flows and meet Travel Rule obligations. The platform covers many chains and decentralized finance..."
     },
     {
-      "rank": 68,
+      "rank": 69,
       "slug": "augustus",
       "name": "Augustus",
       "category": "Fintech & Payments",
@@ -1587,7 +1615,7 @@
       "summary": "Augustus is building a global dollar bank and stablecoin-native financial infrastructure for businesses and institutions that need regulated custody, issuance and treasury rails across borders. The company combines banking partnerships, compliance and on-chain settlement so customers can hold, move and deploy dollar li..."
     },
     {
-      "rank": 69,
+      "rank": 70,
       "slug": "fun-xyz",
       "name": "Fun.xyz",
       "category": "Exchanges & Custody",
@@ -1611,7 +1639,7 @@
       "summary": "Fun.xyz, founded in 2022 as FUN by Alex Fine and Mario Baxter in San Francisco, provides embedded wallet infrastructure that hides blockchain complexity. Its Fun Wallet stack offers instant, gasless, app-specific wallets via an SDK with account abstraction, session keys and a backend that sponsors fees, letting games a..."
     },
     {
-      "rank": 70,
+      "rank": 71,
       "slug": "hypernative",
       "name": "Hypernative",
       "category": "Security & Auditing",
@@ -1632,7 +1660,7 @@
       "summary": "Hypernative is the proactive onchain security platform for enterprises and institutions. Powered by battle-tested machine learning and real-time behavioral heuristics, Hypernative predicts, detects, and neutralizes zero-day exploits, financial manipulation, fraud, and economic threats before they materialize onchain. O..."
     },
     {
-      "rank": 71,
+      "rank": 72,
       "slug": "flow-traders",
       "name": "Flow Traders",
       "category": "Trading & Quant",
@@ -1653,7 +1681,7 @@
       "summary": "Flow Traders, founded in 2004 in Amsterdam and listed on Euronext (FLOW), is a leading global ETP market maker and crypto liquidity provider, trading $100B+ quarterly across equities, fixed income and digital assets. With 600+ employees across Amsterdam, New York, Hong Kong and Singapore, it provides tight spreads for ..."
     },
     {
-      "rank": 72,
+      "rank": 73,
       "slug": "prime-intellect",
       "name": "Prime Intellect",
       "category": "AI & DePIN",
@@ -1674,7 +1702,7 @@
       "summary": "Prime Intellect, founded in 2023 by Vincent Weisser and Johannes Hagemann in San Francisco, builds decentralized artificial intelligence compute infrastructure and open-source foundation model training networks. Its platform aggregates global GPU clusters from data centers, crypto miners and compute providers into a un..."
     },
     {
-      "rank": 73,
+      "rank": 74,
       "slug": "swissborg",
       "name": "SwissBorg",
       "category": "Exchanges & Custody",
@@ -1696,7 +1724,7 @@
       "summary": "SwissBorg, founded in 2017 by Cyrus Fazel and Anthony Lesoismier in Lausanne, Switzerland, is a leading European crypto wealth management app and investment platform. Operating under Swiss and European regulatory frameworks, SwissBorg provides millions of users across 100+ countries with its Smart Engine that aggregate..."
     },
     {
-      "rank": 74,
+      "rank": 75,
       "slug": "brave",
       "name": "Brave",
       "category": "Exchanges & Custody",
@@ -1718,7 +1746,28 @@
       "summary": "Brave, founded in 2015 by Brendan Eich, creator of JavaScript, and Brian Bondy in San Francisco, develops the privacy-focused Brave Browser and the Basic Attention Token (BAT) ecosystem. The browser blocks trackers and ads by default, offering private search, firewall-VPN and Brave Rewards that share ad revenue with us..."
     },
     {
-      "rank": 75,
+      "rank": 76,
+      "slug": "infosys",
+      "name": "Infosys",
+      "category": "Security & Auditing",
+      "website": "https://www.infosys.com",
+      "headquarters": "Bangalore, India",
+      "activeJobs": 5,
+      "departmentCount": 1,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 25.5,
+        "departmentBreadth": 2,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 27.5
+      },
+      "highlightBadges": [],
+      "summary": "Infosys is a global digital services and consulting company that helps large enterprises modernize technology stacks, build cloud platforms, and deliver data and AI products. Its blockchain and Web3 practices support clients exploring tokenization, enterprise ledgers, digital identity, and regulated asset workflows alo..."
+    },
+    {
+      "rank": 77,
       "slug": "ava-labs",
       "name": "Ava Labs",
       "category": "Infrastructure & Tooling",
@@ -1741,7 +1790,7 @@
       "summary": "Ava Labs, founded in 2018 by Emin Gün Sirer, Kevin Sekniqi and Maofan Ted Yin at Cornell and headquartered in Brooklyn and New York, is the core developer of Avalanche. The platform uses Snowman consensus for sub-second finality and high throughput, powering a primary network with distinct X, P and C chains and customi..."
     },
     {
-      "rank": 76,
+      "rank": 78,
       "slug": "certik",
       "name": "CertiK",
       "category": "Security & Auditing",
@@ -1765,7 +1814,7 @@
       "summary": "CertiK, founded in 2017 in New York by Ronghui Gu and Zhong Shao, professors at Columbia and Yale, is a leading Web3 security auditor specializing in formal verification, smart contract audits and on-chain monitoring. The company has audited thousands of projects including major layer-1 chains and DeFi protocols, secur..."
     },
     {
-      "rank": 77,
+      "rank": 79,
       "slug": "tempo",
       "name": "Tempo",
       "category": "Fintech & Payments",
@@ -1786,7 +1835,7 @@
       "summary": "Tempo, incubated in 2025 with support from Stripe and Paradigm in San Francisco, builds a payments-focused blockchain optimized for stablecoin settlement. Designed for high-throughput, low-fee transfers with built-in compliance and fiat on- and off-ramps, Tempo aims to bring internet-native money movement to merchants,..."
     },
     {
-      "rank": 78,
+      "rank": 80,
       "slug": "gsr-markets",
       "name": "GSR Markets",
       "category": "Trading & Quant",
@@ -1809,7 +1858,7 @@
       "summary": "GSR Markets, founded in 2013 by Cristian Gil and Richard Rosenblum in London, operates as a leading crypto market maker and liquidity provider for spot and derivatives. Its businesses span OTC trading, systematic market making and treasury management for exchanges, token projects and institutions, with coverage across ..."
     },
     {
-      "rank": 79,
+      "rank": 81,
       "slug": "flowdesk",
       "name": "Flowdesk",
       "category": "Trading & Quant",
@@ -1831,7 +1880,7 @@
       "summary": "Flowdesk, founded in 2020 by Guilhem Chaumont, Paul Michelet, François Cluzeau and Balthazar Giraux in Paris, is a leading digital asset market maker and algorithmic trading technology provider. Regulated as a Digital Asset Service Provider (DASP) in France by the AMF with offices in Paris, Singapore, and New York, Flo..."
     },
     {
-      "rank": 80,
+      "rank": 82,
       "slug": "coingecko",
       "name": "CoinGecko",
       "category": "AI & DePIN",
@@ -1852,7 +1901,7 @@
       "summary": "CoinGecko, founded in 2014 by TM Lee and Bobby Ong in Kuala Lumpur, Malaysia, operates the largest independent crypto data aggregator for prices, volumes and on-chain metrics. Its platform tracks millions of coins across 900+ exchanges, plus DeFi, NFT, derivatives and portfolio tools that serve consumers, institutions ..."
     },
     {
-      "rank": 81,
+      "rank": 83,
       "slug": "talos",
       "name": "Talos",
       "category": "Security & Auditing",
@@ -1873,7 +1922,7 @@
       "summary": "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds..."
     },
     {
-      "rank": 82,
+      "rank": 84,
       "slug": "fortitude-mining",
       "name": "Fortitude Mining",
       "category": "Web3 Infrastructure",
@@ -1894,7 +1943,7 @@
       "summary": "Fortitude, backed by DCG, is an institutional-scale, vertically integrated venture mining platform operating across the Proof-of-Work ecosystem and anchored in Zcash. The company pairs self-mining operations with an owned data center footprint, a diversified power portfolio backed by competitive long-term contracts, an..."
     },
     {
-      "rank": 83,
+      "rank": 85,
       "slug": "aave-labs",
       "name": "Aave Labs",
       "category": "DeFi Protocols",
@@ -1916,7 +1965,7 @@
       "summary": "Aave Labs, founded in 2017 by Stani Kulechov in London and Helsinki, develops the Aave protocol, one of DeFi's largest liquidity markets for borrowing and lending. Its products include Aave v3 with cross-chain portals, efficiency modes and GHO stablecoin, plus Lens-adjacent social experiments and developer tooling for ..."
     },
     {
-      "rank": 84,
+      "rank": 86,
       "slug": "coinflow",
       "name": "Coinflow",
       "category": "Fintech & Payments",
@@ -1937,7 +1986,28 @@
       "summary": "Coinflow, founded in 2022 in Chicago by Daniel Lev and Ben Meeder, provides instant settlement for crypto payments through coinflow.cash, converting card and wallet sales into stablecoins with fast finality and chargeback protection. Built for marketplaces and gaming, its products handle know-your-customer checks, frau..."
     },
     {
-      "rank": 85,
+      "rank": 87,
+      "slug": "yellow-card",
+      "name": "Yellow Card",
+      "category": "Fintech & Payments",
+      "website": "https://yellowcard.io",
+      "headquarters": "Remote / Global",
+      "activeJobs": 4,
+      "departmentCount": 3,
+      "remotePercentage": 0,
+      "salaryTransparencyPct": 0,
+      "scores": {
+        "hiringVolume": 22.9,
+        "departmentBreadth": 6,
+        "remoteFlexibility": 0,
+        "salaryTransparency": 0,
+        "composite": 28.9
+      },
+      "highlightBadges": [],
+      "summary": "Yellow Card is the largest Pan-African stablecoin and crypto on/off-ramp infrastructure company, operating in over 20 African nations to facilitate cross-border trade, remittances, and treasury management."
+    },
+    {
+      "rank": 88,
       "slug": "arca",
       "name": "Arca",
       "category": "Trading & Quant",
@@ -1958,7 +2028,7 @@
       "summary": "Arca is a Los Angeles-based digital asset investment firm founded in 2018, operating hedge funds, venture strategies, and an SEC-registered investment adviser focused on blockchain-native assets. The team combines trading, research, and compliance capabilities for institutions and qualified investors participating in c..."
     },
     {
-      "rank": 86,
+      "rank": 89,
       "slug": "aws",
       "name": "AWS",
       "category": "AI & DePIN",
@@ -1979,7 +2049,7 @@
       "summary": "Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. AWS powers global financial services, digital native businesses, and decentralized Web3 ecosystems with high-performance computing, managed blockchain infrastructure, and institutional-grade security."
     },
     {
-      "rank": 87,
+      "rank": 90,
       "slug": "coindesk",
       "name": "CoinDesk",
       "category": "Web3 Infrastructure",
@@ -2000,7 +2070,7 @@
       "summary": "CoinDesk is an independent news and data platform covering digital assets, blockchain infrastructure, and Web3 markets for institutional and professional audiences worldwide. Its newsroom reports on protocol development, markets, regulation, and culture, while CoinDesk Indices and research products support benchmarking..."
     },
     {
-      "rank": 88,
+      "rank": 91,
       "slug": "consensys",
       "name": "Consensys",
       "category": "Infrastructure & Tooling",
@@ -2026,7 +2096,7 @@
       "summary": "Consensys, founded in 2014 by Joseph Lubin, co-founder of Ethereum, in Brooklyn, builds core infrastructure for the Ethereum ecosystem. Its products include MetaMask, the most widely used self-custody wallet serving millions, Infura, the node and API suite powering most dApps, and Linea, a ZK-rollup for scaling. The co..."
     },
     {
-      "rank": 89,
+      "rank": 92,
       "slug": "0g-labs",
       "name": "0G Labs",
       "category": "AI & DePIN",
@@ -2049,7 +2119,7 @@
       "summary": "0G Labs, founded in 2023 by Michael Heinrich, Ming Wu, Fan Long and Thomas Yao in San Francisco, builds 0G, a modular decentralized AI chain designed as an operating system for AI. Its stack combines a high-throughput data availability and storage layer with compute and serving infrastructure, including 0G Storage, 0G ..."
     },
     {
-      "rank": 90,
+      "rank": 93,
       "slug": "morpho",
       "name": "Morpho",
       "category": "DeFi Protocols",
@@ -2072,7 +2142,7 @@
       "summary": "Morpho is a decentralized lending protocol on Ethereum and Base that optimizes interest rates for borrowers and lenders by matching supply and demand peer-to-peer while falling back on underlying liquidity pools like Compound and Aave. Known for its permissionless Morpho Blue primitives and vault architecture, Morpho p..."
     },
     {
-      "rank": 91,
+      "rank": 94,
       "slug": "spruce",
       "name": "Spruce",
       "category": "Web3 Infrastructure",
@@ -2095,7 +2165,7 @@
       "summary": "Spruce, founded in 2020 by Wayne Chang and Gregory Rocco in New York, builds open-source identity and data control infrastructure for Web3. Its products, SpruceID and Kepler, provide decentralized identifiers, credential wallets and storage that let users control authentication and data sharing across apps without cent..."
     },
     {
-      "rank": 92,
+      "rank": 95,
       "slug": "proof",
       "name": "Proof",
       "category": "Web3 Infrastructure",
@@ -2119,7 +2189,7 @@
       "summary": "Proof is a litigation services platform used by law firms to access a nationwide network of vetted process servers for document delivery and e-filing. Its about page describes Proof as a legal technology company reimagining efficiency with modern, automated solutions, and its structured data cites an on-demand process ..."
     },
     {
-      "rank": 93,
+      "rank": 96,
       "slug": "newton",
       "name": "Newton",
       "category": "Exchanges & Custody",
@@ -2142,7 +2212,7 @@
       "summary": "Newton Protocol, developed by Magic Labs founded in 2018 by Sean Li and Jaemin Jin in San Francisco with the Magic Newton Foundation established in October 2024, builds verifiable automation infrastructure for AI agents and on-chain actions. Its core protocol combines trusted execution environments with zero-knowledge ..."
     },
     {
-      "rank": 94,
+      "rank": 97,
       "slug": "anchorage-digital",
       "name": "Anchorage Digital",
       "category": "Infrastructure & Tooling",
@@ -2166,7 +2236,7 @@
       "summary": "Anchorage Digital, founded in 2017 in San Francisco by Diogo Mónica and Nathan McCauley, is the only federally chartered crypto bank in the United States through Anchorage Digital Bank N.A. regulated by the Office of the Comptroller of the Currency. Its custody uses biometric authentication and threshold cryptography, ..."
     },
     {
-      "rank": 95,
+      "rank": 98,
       "slug": "alchemy",
       "name": "Alchemy",
       "category": "Infrastructure & Tooling",
@@ -2190,7 +2260,7 @@
       "summary": "Alchemy, founded in 2017 in San Francisco by Nikil Viswanathan and Joe Lau, Stanford classmates and former teaching assistants, is a leading Web3 developer platform providing node infrastructure, Supernode and Notify APIs. The stack powers many top Ethereum applications and handles significant transaction volume for cu..."
     },
     {
-      "rank": 96,
+      "rank": 99,
       "slug": "arbitrum",
       "name": "Arbitrum",
       "category": "L1 / L2 Protocols",
@@ -2212,7 +2282,7 @@
       "summary": "Arbitrum, developed by Offchain Labs and governed by the Arbitrum DAO, is the leading Ethereum Layer 2 scaling suite, securing tens of billions in total value locked. Powered by Nitro technology, Arbitrum One and Arbitrum Nova deliver high-throughput, low-cost execution while inheriting Ethereum L1 cryptographic securi..."
     },
     {
-      "rank": 97,
+      "rank": 100,
       "slug": "falconx",
       "name": "FalconX",
       "category": "Trading & Quant",
@@ -2235,83 +2305,16 @@
         "Salary Transparency"
       ],
       "summary": "FalconX, founded in 2018 in San Mateo by Raghu Yarlagadda and Prabhakar Reddy, is an institutional prime brokerage combining trading, credit and custody for funds, corporates and protocols. Its over-the-counter and derivatives desk provides deep liquidity across many assets with post-trade settlement, treasury manageme..."
-    },
-    {
-      "rank": 98,
-      "slug": "uniswap-labs",
-      "name": "Uniswap Labs",
-      "category": "DeFi Protocols",
-      "website": "https://uniswap.org",
-      "headquarters": "Remote / Global",
-      "activeJobs": 3,
-      "departmentCount": 3,
-      "remotePercentage": 67,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.7,
-        "departmentBreadth": 6,
-        "remoteFlexibility": 6.7,
-        "salaryTransparency": 0,
-        "composite": 32.4
-      },
-      "highlightBadges": [],
-      "summary": "Uniswap Labs, founded in 2018 by Hayden Adams in New York, builds the leading decentralized exchange protocol and interfaces for Ethereum and EVM chains. Originating from the Uniswap v1 automated market maker, the Labs developed successive protocol versions including v2, v3 concentrated liquidity and v4 hooks, plus the..."
-    },
-    {
-      "rank": 99,
-      "slug": "cointracker",
-      "name": "CoinTracker",
-      "category": "Security & Auditing",
-      "website": "https://www.cointracker.com",
-      "headquarters": "Remote / Global",
-      "activeJobs": 3,
-      "departmentCount": 1,
-      "remotePercentage": 100,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.7,
-        "departmentBreadth": 2,
-        "remoteFlexibility": 10,
-        "salaryTransparency": 0,
-        "composite": 31.7
-      },
-      "highlightBadges": [
-        "100% Remote"
-      ],
-      "summary": "CoinTracker, founded in 2017 by Jon Lerner, Vera Tzekova and Chandan Lodha in San Francisco, provides crypto tax and portfolio software for consumers, accountants and enterprises. Its platform aggregates transactions from 500+ exchanges, wallets and chains to automate cost-basis, gains, transfers and tax forms with aud..."
-    },
-    {
-      "rank": 100,
-      "slug": "relay",
-      "name": "Relay",
-      "category": "Exchanges & Custody",
-      "website": "https://relay.link",
-      "headquarters": "San Francisco, USA",
-      "activeJobs": 3,
-      "departmentCount": 1,
-      "remotePercentage": 100,
-      "salaryTransparencyPct": 0,
-      "scores": {
-        "hiringVolume": 19.7,
-        "departmentBreadth": 2,
-        "remoteFlexibility": 10,
-        "salaryTransparency": 0,
-        "composite": 31.7
-      },
-      "highlightBadges": [
-        "100% Remote"
-      ],
-      "summary": "Relay, founded in 2021 and headquartered in Wilmington, Delaware as Relay Link and formerly Reservoir, builds cross-chain payments and bridging infrastructure for instant token movement. Its protocol aggregates bridges and solvers to route user intents into single-click transfers that settle across Ethereum, L2s and So..."
     }
   ],
   "sectors": [
     {
       "name": "Exchanges & Custody",
-      "count": 21
+      "count": 20
     },
     {
       "name": "Fintech & Payments",
-      "count": 18
+      "count": 20
     },
     {
       "name": "Trading & Quant",
@@ -2323,7 +2326,7 @@
     },
     {
       "name": "Security & Auditing",
-      "count": 9
+      "count": 8
     },
     {
       "name": "Web3 Infrastructure",
@@ -2334,15 +2337,15 @@
       "count": 7
     },
     {
-      "name": "DeFi Protocols",
-      "count": 4
-    },
-    {
       "name": "L1 / L2 Protocols",
-      "count": 4
+      "count": 5
     },
     {
       "name": "Venture & Research",
+      "count": 3
+    },
+    {
+      "name": "DeFi Protocols",
       "count": 3
     },
     {
