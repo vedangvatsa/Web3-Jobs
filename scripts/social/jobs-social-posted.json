@@ -189901,7 +189901,8 @@
       },
       "account": "channel:growth",
       "attemptId": "92aeff05-4814-42d1-a8c0-d7ff5fe87134",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7148926281297bd7aa09d9fec9df6445fa6b7ee7"
     }
   ]
 }
