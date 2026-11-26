@@ -1146,7 +1146,7 @@
     "sentAt": "2026-11-25T20:37:06.393Z"
   },
   "05414a40-dad5-4f08-9397-2601d70fbe68": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T04:50:56.888Z",
     "stories": [
       {
@@ -1178,6 +1178,8 @@
         "originalTitle": "Your AI agents can be fully authorized and still do damage"
       }
     ],
-    "slotKey": "2026-11-26:morning"
+    "slotKey": "2026-11-26:morning",
+    "messageId": 193585,
+    "sentAt": "2026-11-26T04:51:03.932Z"
   }
 }

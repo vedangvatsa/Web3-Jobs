@@ -89,6 +89,9 @@
   "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
   "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
   "https://the-decoder.com/anthropic-tops-700-million-monthly-mcp-sdk-downloads-and-expands-the-protocol-for-more-autonomous-ai-agents/",
+  "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+  "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+  "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -269,6 +272,12 @@
   "FCC signs off on SpaceX’s plan to put up to 1 million data center satellites into space",
   "Anthropic MCP reaches 700 million monthly downloads",
   "Anthropic tops 700 million monthly MCP SDK downloads and expands the protocol for more autonomous AI agents",
+  "US chip restrictions slow development at Chinese AI laboratories",
+  "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+  "OpenAI introduces private inference feature for enterprise data",
+  "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+  "Authorized AI agents can cause unintended enterprise security damage",
+  "Your AI agents can be fully authorized and still do damage",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -358,5 +367,8 @@
   "fp:anthropic|assign|autonomous|benchmark|breach|break|complet|comput|environment|escap",
   "fp:ban|buy|chatbot|children|christma|enact|exposur|failur|fiv|follow",
   "fp:agency|approv|authoriz|center|chip|comput|deployment|equipp|fcc|infrastructur",
-  "fp:700m|anthropic|autonomous|background|direct|download|fil|interfac|mcp|monthly"
+  "fp:700m|anthropic|autonomous|background|direct|download|fil|interfac|mcp|monthly",
+  "fp:access|already|anti|are|caus|chines|chip|control|curb|distillation",
+  "fp:access|allow|business|capability|inferenc|introduc|larg|look|not|openai",
+  "fp:authoriz|autonomous|bas|can|cannot|caus|damag|exist|framework|fully"
 ]
