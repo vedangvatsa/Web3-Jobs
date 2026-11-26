@@ -106,6 +106,21 @@ jobs:
         run: npx tsx scripts/ingest-ashby-board.ts succinct "Succinct Labs"
         continue-on-error: true
 
+      - name: Ingest Bastion Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts bastion Bastion
+        continue-on-error: true
+
+      - name: Ingest Tempo Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts tempo-xyz Tempo
+        continue-on-error: true
+
+      - name: Ingest Rain Ashby jobs
+        run: npx tsx scripts/ingest-ashby-board.ts rain Rain
+        continue-on-error: true
+
+      - name: Ingest Mesh Greenhouse jobs
+        run: npx tsx scripts/ingest-greenhouse-board.ts mesh Mesh
+        continue-on-error: true
 
       - name: Ingest Official CoinDCX job openings
         run: npx tsx scripts/ingest-coindcx-official.ts

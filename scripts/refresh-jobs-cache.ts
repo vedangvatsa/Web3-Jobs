@@ -891,6 +891,8 @@ async function refreshJobsCache() {
     { board: 'matter-labs', company: 'Matter Labs' },
     { board: 'solanalabs', company: 'Solana Labs' },
     { board: 'ether.fi', company: 'ether.fi' },
+    { board: 'bastion', company: 'Bastion' },
+    { board: 'openstandard', company: 'Open Standard' },
     { board: 'rain', company: 'Rain' },
     { board: 'tempo-xyz', company: 'Tempo' },
     { board: '0g', company: '0G Labs' },
