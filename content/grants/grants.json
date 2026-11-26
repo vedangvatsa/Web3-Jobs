@@ -19619,5 +19619,670 @@
         ]
       }
     ]
+  },
+  {
+    "id": "anthr-stu",
+    "name": "Anthropic Startup Program",
+    "provider": "Anthropic",
+    "category": "AI & Open Source",
+    "type": "Credits",
+    "amount": "API Credits",
+    "description": "The Anthropic Startup Program provides early-stage startups with Claude API credits, technical guidance, and access to Anthropic engineering resources to build and scale AI-powered products.",
+    "url": "https://www.claude.com/programs/startups",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "LLM",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "claude.com",
+    "logo": "https://www.google.com/s2/favicons?domain=claude.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Anthropic Startup Program provides early-stage startups with Claude API credits, technical guidance, and access to Anthropic engineering resources to build and scale AI-powered products.",
+          "Eligible teams can use Anthropic Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Anthropic startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "openai-stu",
+    "name": "OpenAI Startup Program",
+    "provider": "OpenAI",
+    "category": "AI & Open Source",
+    "type": "Credits",
+    "amount": "API Credits",
+    "description": "The OpenAI Startup Program supports early-stage companies building with OpenAI models through API credits, technical mentorship, and go-to-market resources.",
+    "url": "https://openai.com/startups/",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "LLM",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "openai.com",
+    "logo": "https://www.google.com/s2/favicons?domain=openai.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The OpenAI Startup Program supports early-stage companies building with OpenAI models through API credits, technical mentorship, and go-to-market resources.",
+          "Eligible teams can use OpenAI Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official OpenAI startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "toget-stu",
+    "name": "Together AI Startup Accelerator",
+    "provider": "Together AI",
+    "category": "AI & Open Source",
+    "type": "Accelerator",
+    "amount": "Compute & API Credits",
+    "description": "The Together AI Startup Accelerator equips AI startups with inference and training compute credits, model optimization support, and ecosystem mentorship.",
+    "url": "https://www.together.ai/startup-accelerator",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "Compute",
+      "Accelerator"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "together.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=together.ai&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Together AI Startup Accelerator equips AI startups with inference and training compute credits, model optimization support, and ecosystem mentorship.",
+          "Eligible teams can use Together AI Startup Accelerator to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Together AI startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "perp-stu",
+    "name": "Perplexity AI for Startups",
+    "provider": "Perplexity AI",
+    "category": "AI & Open Source",
+    "type": "Credits",
+    "amount": "API Credits",
+    "description": "Perplexity AI for Startups offers early-stage teams discounted or complimentary Sonar API credits and developer support to integrate real-time AI search into their applications.",
+    "url": "https://www.perplexity.ai/startups/",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "Search",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "perplexity.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=perplexity.ai&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Perplexity AI for Startups offers early-stage teams discounted or complimentary Sonar API credits and developer support to integrate real-time AI search into their applications.",
+          "Eligible teams can use Perplexity AI for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Perplexity AI startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exa-stu",
+    "name": "Exa Startup Program",
+    "provider": "Exa",
+    "category": "AI & Open Source",
+    "type": "Credits",
+    "amount": "API Credits",
+    "description": "The Exa Startup Program provides qualifying startups with neural search API credits to power AI agents, research workflows, and retrieval-augmented applications.",
+    "url": "https://exa.ai/startups",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "Search",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "exa.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=exa.ai&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Exa Startup Program provides qualifying startups with neural search API credits to power AI agents, research workflows, and retrieval-augmented applications.",
+          "Eligible teams can use Exa Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Exa startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "runw-grant",
+    "name": "Runware Grant Program",
+    "provider": "Runware",
+    "category": "AI & Open Source",
+    "type": "Grant",
+    "amount": "Compute Credits",
+    "description": "The Runware Grant Program supports builders and startups developing generative media and image inference applications with dedicated compute credits.",
+    "url": "https://runware.ai/grant-program",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "Inference",
+      "Grant"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "runware.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=runware.ai&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Runware Grant Program supports builders and startups developing generative media and image inference applications with dedicated compute credits.",
+          "Eligible teams can use Runware Grant Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Runware startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vercel-stu",
+    "name": "Vercel for Startups",
+    "provider": "Vercel",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Platform Credits",
+    "description": "Vercel for Startups provides eligible early-stage companies with platform credits for frontend hosting, serverless functions, and global edge deployments.",
+    "url": "https://vercel.com/startups/credits",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Frontend",
+      "Cloud",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "vercel.com",
+    "logo": "https://www.google.com/s2/favicons?domain=vercel.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Vercel for Startups provides eligible early-stage companies with platform credits for frontend hosting, serverless functions, and global edge deployments.",
+          "Eligible teams can use Vercel for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Vercel startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "supa-stu",
+    "name": "Supabase for Startups",
+    "provider": "Supabase",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Database Credits",
+    "description": "Supabase for Startups offers early-stage teams database and backend platform credits covering Postgres hosting, authentication, edge functions, and storage.",
+    "url": "https://supabase.com/solutions/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Database",
+      "Backend",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "supabase.com",
+    "logo": "https://www.google.com/s2/favicons?domain=supabase.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Supabase for Startups offers early-stage teams database and backend platform credits covering Postgres hosting, authentication, edge functions, and storage.",
+          "Eligible teams can use Supabase for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Supabase startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neon-stu",
+    "name": "Neon Startup Program",
+    "provider": "Neon",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Postgres Credits",
+    "description": "The Neon Startup Program provides serverless Postgres credits, database branching, and autoscaling infrastructure for fast-growing engineering teams.",
+    "url": "https://neon.com/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Database",
+      "Postgres",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "neon.com",
+    "logo": "https://www.google.com/s2/favicons?domain=neon.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Neon Startup Program provides serverless Postgres credits, database branching, and autoscaling infrastructure for fast-growing engineering teams.",
+          "Eligible teams can use Neon Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Neon startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "render-stu",
+    "name": "Render for Startups",
+    "provider": "Render",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Cloud Credits",
+    "description": "Render for Startups gives early-stage teams cloud hosting credits for web services, background workers, managed databases, and cron jobs.",
+    "url": "https://render.com/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Cloud",
+      "Hosting",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "render.com",
+    "logo": "https://www.google.com/s2/favicons?domain=render.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Render for Startups gives early-stage teams cloud hosting credits for web services, background workers, managed databases, and cron jobs.",
+          "Eligible teams can use Render for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Render startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mongo-stu",
+    "name": "MongoDB for Startups",
+    "provider": "MongoDB",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Atlas Credits",
+    "description": "MongoDB for Startups provides MongoDB Atlas cloud database credits, technical advisory, and architecture reviews for qualifying early-stage companies.",
+    "url": "https://www.mongodb.com/solutions/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Database",
+      "Cloud",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "mongodb.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mongodb.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "MongoDB for Startups provides MongoDB Atlas cloud database credits, technical advisory, and architecture reviews for qualifying early-stage companies.",
+          "Eligible teams can use MongoDB for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official MongoDB startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pscale-stu",
+    "name": "PlanetScale for Startups",
+    "provider": "PlanetScale",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Database Credits",
+    "description": "PlanetScale for Startups offers serverless MySQL database credits and high-availability scaling support for early-stage engineering teams.",
+    "url": "https://planetscale.com/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Database",
+      "MySQL",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "planetscale.com",
+    "logo": "https://www.google.com/s2/favicons?domain=planetscale.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "PlanetScale for Startups offers serverless MySQL database credits and high-availability scaling support for early-stage engineering teams.",
+          "Eligible teams can use PlanetScale for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official PlanetScale startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neo4j-stu",
+    "name": "Neo4j Startup Program",
+    "provider": "Neo4j",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Graph DB Credits",
+    "description": "The Neo4j Startup Program provides graph database credits and technical onboarding for startups building connected data, fraud detection, and AI knowledge graph applications.",
+    "url": "https://neo4j.com/startup-program/",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Database",
+      "Graph",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "neo4j.com",
+    "logo": "https://www.google.com/s2/favicons?domain=neo4j.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Neo4j Startup Program provides graph database credits and technical onboarding for startups building connected data, fraud detection, and AI knowledge graph applications.",
+          "Eligible teams can use Neo4j Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Neo4j startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nirv-stu",
+    "name": "Nirvana Labs Startup Credits",
+    "provider": "Nirvana Labs",
+    "category": "Web3 Ecosystem",
+    "type": "Credits",
+    "amount": "Web3 Infra Credits",
+    "description": "Nirvana Labs Startup Credits provides Web3 teams with dedicated blockchain node infrastructure, low-latency RPC access, and cloud compute credits.",
+    "url": "https://nirvanalabs.io/startup-credits",
+    "ecosystem": "Multi-chain",
+    "tags": [
+      "Web3",
+      "Infra",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "nirvanalabs.io",
+    "logo": "https://www.google.com/s2/favicons?domain=nirvanalabs.io&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Nirvana Labs Startup Credits provides Web3 teams with dedicated blockchain node infrastructure, low-latency RPC access, and cloud compute credits.",
+          "Eligible teams can use Nirvana Labs Startup Credits to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Nirvana Labs startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sentry-stu",
+    "name": "Sentry for Startups",
+    "provider": "Sentry",
+    "category": "DevTools & Security",
+    "type": "Credits",
+    "amount": "Monitoring Credits",
+    "description": "Sentry for Startups gives qualifying early-stage teams application error tracking, performance monitoring, and session replay credits.",
+    "url": "https://sentry.io/for/startups/",
+    "ecosystem": "Cloud",
+    "tags": [
+      "DevTooling",
+      "Monitoring",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "sentry.io",
+    "logo": "https://www.google.com/s2/favicons?domain=sentry.io&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Sentry for Startups gives qualifying early-stage teams application error tracking, performance monitoring, and session replay credits.",
+          "Eligible teams can use Sentry for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Sentry startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vanta-stu",
+    "name": "Vanta for Startups",
+    "provider": "Vanta",
+    "category": "DevTools & Security",
+    "type": "Credits",
+    "amount": "Compliance Credits",
+    "description": "Vanta for Startups supports early-stage companies automating SOC 2, ISO 27001, and security compliance readiness with startup-friendly pricing and credits.",
+    "url": "https://www.vanta.com/solutions/startup",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Security",
+      "Compliance",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "vanta.com",
+    "logo": "https://www.google.com/s2/favicons?domain=vanta.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Vanta for Startups supports early-stage companies automating SOC 2, ISO 27001, and security compliance readiness with startup-friendly pricing and credits.",
+          "Eligible teams can use Vanta for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Vanta startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mixp-stu",
+    "name": "Mixpanel for Startups",
+    "provider": "Mixpanel",
+    "category": "DevTools & Security",
+    "type": "Credits",
+    "amount": "Analytics Credits",
+    "description": "Mixpanel for Startups provides eligible early-stage companies with product analytics credits to track user retention, funnels, and feature adoption.",
+    "url": "https://mixpanel.com/startups-apply/",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Analytics",
+      "Product",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "mixpanel.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mixpanel.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Mixpanel for Startups provides eligible early-stage companies with product analytics credits to track user retention, funnels, and feature adoption.",
+          "Eligible teams can use Mixpanel for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Mixpanel startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "inter-stu",
+    "name": "Intercom Early Stage Program",
+    "provider": "Intercom",
+    "category": "DevTools & Security",
+    "type": "Credits",
+    "amount": "Discounted Credits",
+    "description": "The Intercom Early Stage Program offers qualifying startups steep discounts and credits on AI-first customer support and messaging tools.",
+    "url": "https://www.intercom.com/early-stage",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Support",
+      "SaaS",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "intercom.com",
+    "logo": "https://www.google.com/s2/favicons?domain=intercom.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Intercom Early Stage Program offers qualifying startups steep discounts and credits on AI-first customer support and messaging tools.",
+          "Eligible teams can use Intercom Early Stage Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official Intercom startup program page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "angel-stu",
+    "name": "AngelList for Startups",
+    "provider": "AngelList",
+    "category": "Startup Ecosystem",
+    "type": "Program",
+    "amount": "Fundraising & Ops",
+    "description": "AngelList for Startups provides founders with cap table management, equity administration, and fundraising tooling tailored to venture-backed teams.",
+    "url": "https://www.angellist.com/startups",
+    "ecosystem": "Multi-chain",
+    "tags": [
+      "Fundraising",
+      "Ops",
+      "Program"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "angellist.com",
+    "logo": "https://www.google.com/s2/favicons?domain=angellist.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "AngelList for Startups provides founders with cap table management, equity administration, and fundraising tooling tailored to venture-backed teams.",
+          "Eligible teams can use AngelList for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review eligibility requirements and submit an application directly through the official AngelList startup program page."
+        ]
+      }
+    ]
   }
 ]
