@@ -192664,6 +192664,38 @@
       "attemptId": "aa1978eb-4ee8-41e9-b631-087efd4850ae",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 25-Nov-26 20:50:05 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AO3m7xSE7o4QPslFDiOdBZX\"}"
+    },
+    {
+      "slug": "am2",
+      "company": "Bybit",
+      "title": "AMLO",
+      "platform": "bluesky",
+      "postedAt": "2026-11-26T04:49:52.221Z",
+      "expectedText": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/bsky?og=7",
+      "snapshot": {
+        "id": "5035471101",
+        "title": "AMLO",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5035471101",
+        "date": "2026-11-20T16:06:10-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "am2"
+      },
+      "payload": {
+        "text": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/am2/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/am2.png?v=7",
+        "company": "Bybit",
+        "title": "AMLO",
+        "description": "Join Bybit as AMLO. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e694f02b-6210-43d6-b05a-49959bbdf19f",
+      "verification": "creating"
     }
   ]
 }
