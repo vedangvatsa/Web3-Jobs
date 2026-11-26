@@ -1241,7 +1241,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://alephzero.org/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=alephzero.org&sz=128"
   },
   {
     "id": "algo-stu",
