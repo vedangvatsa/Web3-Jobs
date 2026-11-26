@@ -193332,6 +193332,46 @@
       "attemptId": "93ca7907-39ef-4476-8bd6-4c59599c5a20",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "am2",
+      "company": "Bybit",
+      "title": "AMLO",
+      "platform": "linkedin",
+      "postedAt": "2026-11-26T04:49:52.221Z",
+      "expectedText": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/li?og=7",
+      "snapshot": {
+        "id": "5035471101",
+        "title": "AMLO",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5035471101",
+        "date": "2026-11-20T16:06:10-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "am2"
+      },
+      "payload": {
+        "text": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/am2/li?og=7",
+          "title": "AMLO at Bybit | Hashtag Web3",
+          "description": "Join Bybit as AMLO. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/am2.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "49e4ffee-6692-41bc-94b8-69523d61bc01",
+      "verification": "creating"
     }
   ]
 }
