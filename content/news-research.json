@@ -218513,7 +218513,31 @@
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
       "attempts": 0,
       "expiresAt": "2026-11-28T12:25:15.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "articleSlug": "bithumbnotice",
+      "draftProgress": {
+        "id": "092faca440e7e6b1b762",
+        "day": "2026-11-26",
+        "articleSlug": "bithumbnotice",
+        "note": "Read Crypto Briefing and Bitcoin Magazine full text on the Nov. 25 updated Bithumb notice; CoinDesk returned 429. Draft and image pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/bithumb-october-breach-additional-data-exposed/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-26T02:26:30.414Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "2da2ddc2ce1d05ab23a0": {
       "source": "Decrypt",
