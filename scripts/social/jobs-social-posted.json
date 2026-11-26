@@ -196117,7 +196117,8 @@
       },
       "account": "profile",
       "attemptId": "8b2e28ad-817b-453c-a05a-9c97d16fbac7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8febb01b2bf160e174f32d9de27683460f616cb9"
     }
   ]
 }
