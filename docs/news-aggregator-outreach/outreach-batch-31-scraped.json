@@ -1,0 +1,26 @@
+{
+  "dispatchedAt": "2026-11-26T10:58:15.000Z",
+  "total": 3,
+  "delivered": 3,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Stripe Press",
+      "email": "jcr@jcrlicklider.com",
+      "deliveryId": "01a21781-8493-723b-9f7c-5c3ad6f16488",
+      "status": "delivered"
+    },
+    {
+      "name": "Column Blog",
+      "email": "marie@france.com",
+      "deliveryId": "01a21781-8779-73fb-be47-7026b4669dcf",
+      "status": "delivered"
+    },
+    {
+      "name": "Payments Culture",
+      "email": "matt@paymentsculture.com",
+      "deliveryId": "01a21781-8a49-70e7-979c-ea4467e352ed",
+      "status": "delivered"
+    }
+  ]
+}
