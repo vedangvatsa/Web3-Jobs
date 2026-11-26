@@ -1,0 +1,98 @@
+{
+  "dispatchedAt": "2026-11-26T10:48:36.000Z",
+  "total": 15,
+  "delivered": 15,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Fintech Global",
+      "email": "info@fintech.global",
+      "deliveryId": "01a21778-8146-75c4-b801-170b66b39d68",
+      "status": "delivered"
+    },
+    {
+      "name": "Independent Banker",
+      "email": "info@icba.org",
+      "deliveryId": "01a21778-8426-7698-a496-48115c091099",
+      "status": "delivered"
+    },
+    {
+      "name": "Payments Cards & Mobile",
+      "email": "info@paymentsii.com",
+      "deliveryId": "01a21778-86eb-7c75-a7ac-beb7466d6659",
+      "status": "delivered"
+    },
+    {
+      "name": "NZ FinTech",
+      "email": "info@fintechnz.org.nz",
+      "deliveryId": "01a21778-899a-71c4-af1a-03198aff0aef",
+      "status": "delivered"
+    },
+    {
+      "name": "IoT Business News",
+      "email": "contact@iotbusinessnews.com",
+      "deliveryId": "01a21778-8c58-7dc6-97c9-19f8308e6089",
+      "status": "delivered"
+    },
+    {
+      "name": "Electronics World",
+      "email": "data@datateam.co.uk",
+      "deliveryId": "01a21778-917d-7850-8015-31bb28a800f1",
+      "status": "delivered"
+    },
+    {
+      "name": "Machine Design",
+      "email": "bvavra@endeavorb2b.com",
+      "deliveryId": "01a21778-946a-7992-aab7-485e98a53eb5",
+      "status": "delivered"
+    },
+    {
+      "name": "Defense Electronics",
+      "email": "customerservice@militaryaerospace.com",
+      "deliveryId": "01a21778-996b-7bc5-acb0-f285a14c0b20",
+      "status": "delivered"
+    },
+    {
+      "name": "Microwaves & RF",
+      "email": "bwong@endeavorb2b.com",
+      "deliveryId": "01a21778-9c23-7ba9-9faf-3dffddcf03f3",
+      "status": "delivered"
+    },
+    {
+      "name": "Vision Systems Design",
+      "email": "customerservice@vision-systems.com",
+      "deliveryId": "01a21778-a359-75aa-914d-0587845dede0",
+      "status": "delivered"
+    },
+    {
+      "name": "HeyDesigner",
+      "email": "tamas@heydesigner.com",
+      "deliveryId": "01a21778-a623-78c2-b9d6-fcde52a82043",
+      "status": "delivered"
+    },
+    {
+      "name": "Sidebar.io",
+      "email": "hello@uxdesign.cc",
+      "deliveryId": "01a21778-aae1-7e0f-9651-e0c0e298c1db",
+      "status": "delivered"
+    },
+    {
+      "name": "Creative Bloq",
+      "email": "contact@creativebloq.com",
+      "deliveryId": "01a21778-add8-7951-a55c-1f3b11b99ed1",
+      "status": "delivered"
+    },
+    {
+      "name": "Design Milk",
+      "email": "info@design-milk.com",
+      "deliveryId": "01a21778-b089-7776-be09-f199b2d65955",
+      "status": "delivered"
+    },
+    {
+      "name": "UX Collective",
+      "email": "hello@uxdesign.cc",
+      "deliveryId": "01a21778-b313-7a1e-a915-61f4f84df440",
+      "status": "delivered"
+    }
+  ]
+}
