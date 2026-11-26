@@ -1,0 +1,104 @@
+{
+  "dispatchedAt": "2026-11-26T09:47:10.624Z",
+  "total": 16,
+  "delivered": 16,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Matter",
+      "email": "hello@getmatter.com",
+      "deliveryId": "01a21740-5309-79f9-bf01-6d119d12e3ff",
+      "status": "delivered"
+    },
+    {
+      "name": "Pinboard",
+      "email": "support@pinboard.in",
+      "deliveryId": "01a21740-5556-7b5e-9db4-f7e92d1c19ee",
+      "status": "delivered"
+    },
+    {
+      "name": "BazQux",
+      "email": "hello@bazqux.com",
+      "deliveryId": "01a21740-5772-7a57-ba3d-5daf9ab3ae1e",
+      "status": "delivered"
+    },
+    {
+      "name": "Kill the Newsletter",
+      "email": "kill-the-newsletter@leafac.com",
+      "deliveryId": "01a21740-59a7-7283-8140-1492828fd822",
+      "status": "delivered"
+    },
+    {
+      "name": "Meco",
+      "email": "edward@mecoinbox.com",
+      "deliveryId": "01a21740-5bc6-72b6-8d0d-8f5c6c423a2f",
+      "status": "delivered"
+    },
+    {
+      "name": "Stoop",
+      "email": "help@stoopteam.com",
+      "deliveryId": "01a21740-5e35-7516-b1c1-84e4af5a1099",
+      "status": "delivered"
+    },
+    {
+      "name": "Omnivore",
+      "email": "team@serpnames.com",
+      "deliveryId": "01a21740-6073-75f6-8dbc-b6b3bf2bd4a3",
+      "status": "delivered"
+    },
+    {
+      "name": "Marginalia",
+      "email": "contact@marginalia-search.com",
+      "deliveryId": "01a21740-63ef-7c38-a968-c6278f1deb7d",
+      "status": "delivered"
+    },
+    {
+      "name": "Swisscows",
+      "email": "info@swisscows.com",
+      "deliveryId": "01a21740-6675-7e55-8a41-47e492ecb541",
+      "status": "delivered"
+    },
+    {
+      "name": "Brave",
+      "email": "adsales@brave.com",
+      "deliveryId": "01a21740-68be-7ebb-9a58-cec8770b2fa5",
+      "status": "delivered"
+    },
+    {
+      "name": "Vivaldi",
+      "email": "team_vivaldi@vivaldi.com",
+      "deliveryId": "01a21740-6adb-704c-b55a-55373a895373",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard",
+      "email": "blogs@about.flipboard.com",
+      "deliveryId": "01a21740-6d2a-73d8-9e72-09c2de2a8bbb",
+      "status": "delivered"
+    },
+    {
+      "name": "Ground News",
+      "email": "ground-ed@ground.news",
+      "deliveryId": "01a21740-6fb2-7cb5-961f-06524feec486",
+      "status": "delivered"
+    },
+    {
+      "name": "Hashnode",
+      "email": "hello+support@hashnode.com",
+      "deliveryId": "01a21740-71fe-7eaa-8a78-8bdc00071bf2",
+      "status": "delivered"
+    },
+    {
+      "name": "Dev.to",
+      "email": "support@dev.to",
+      "deliveryId": "01a21740-7428-76ef-a247-07a175891913",
+      "status": "delivered"
+    },
+    {
+      "name": "Futurepedia",
+      "email": "contact@futurepedia.io",
+      "deliveryId": "01a21740-7654-72e6-b50b-fa8b0a9d0084",
+      "status": "delivered"
+    }
+  ]
+}
