@@ -1218,5 +1218,40 @@
     "slotKey": "2026-11-26:afternoon",
     "messageId": 193587,
     "sentAt": "2026-11-26T13:05:11.821Z"
+  },
+  "1f77e8e7-a811-426d-a463-c206dab9b445": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T20:27:56.414Z",
+    "stories": [
+      {
+        "index": 5,
+        "original_title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+        "headline": "Microsoft identifies AI framework used for automated cyberattacks",
+        "summary": "State-backed groups are using the ARTEX framework to execute specialized agent-driven cyberattacks with minimal human intervention.",
+        "event_rationale": "This covers a specific, documented security threat involving a named AI framework used in active cyber warfare, distinct from general AI security or data leak stories.",
+        "link": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+        "source": "The Decoder",
+        "originalTitle": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks"
+      },
+      {
+        "index": 30,
+        "original_title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+        "headline": "Maple secures funding for encrypted AI architecture",
+        "summary": "The startup raised $5.3 million to develop systems that prevent providers from accessing private user data during processing.",
+        "event_rationale": "This represents a specific funding event for a company focused on privacy-preserving AI infrastructure, distinct from general AI agent or model development.",
+        "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+        "source": "TechCrunch",
+        "originalTitle": "Maple raises $5.3M to build AI products that protect your data, even from itself"
+      },
+      {
+        "index": 1,
+        "headline": "Scott Aaronson says AI math breakthroughs have wide consequences",
+        "summary": "The researcher believes unreleased models can solve complex proofs, potentially affecting the economy and human safety.",
+        "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+        "source": "The Decoder",
+        "originalTitle": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it"
+      }
+    ],
+    "slotKey": "2026-11-26:evening"
   }
 }
