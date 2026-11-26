@@ -224,12 +224,22 @@ export interface FreeCryptoApiListing {
   keyRequired?: string;
   cardRequired?: string;
   chains?: string;
-  mcp?: { status: string };
-  x402?: { status: string };
+  chainList?: string[];
+  allChains?: boolean;
+  transports?: {
+    rest?: { status: string; sourceUrl?: string; notes?: string };
+    websocket?: { status: string; sourceUrl?: string; notes?: string };
+  };
+  mcp?: { status: string; docsUrl?: string | null; endpoint?: string | null; notes?: string | null };
+  x402?: { status: string; url?: string | null; notes?: string | null };
+  pricingUrl?: string;
   websiteUrl?: string;
+  xProfileUrl?: string;
   path: string;
   notes?: string;
   alsoServes?: string[];
+  verifiedOn?: string;
+  status?: string;
 }
 
 export interface GrantProgram {

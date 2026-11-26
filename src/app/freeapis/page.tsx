@@ -1,22 +1,31 @@
 import type { Metadata } from 'next';
 import { PageHeader } from '@/components/page-header';
 import { PageShell } from '@/components/page-shell';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
+import { LogoStrip } from '@/components/logo-strip';
 import { FreeCryptoApisBoard } from '@/components/free-crypto-apis/free-crypto-apis-board';
 import {
-  FREE_CRYPTO_APIS_SOURCE,
   freeCryptoApiDetailUrl,
   freeCryptoApiPageDescription,
   getFreeCryptoApiCategories,
   getFreeCryptoApisSync,
-  getFreeCryptoApisVerifiedOn,
 } from '@/lib/free-crypto-apis';
 import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
-const titleSegment = 'Free Crypto APIs';
+const titleSegment = 'Crypto APIs';
 const socialTitle = seoSocialTitle(titleSegment);
+
+const apiLogos = [
+  { name: 'Alchemy', src: '/logo/companies/alchemy.png', maxHeight: 22 },
+  { name: 'QuickNode', src: '/logo/companies/quicknode.webp', maxHeight: 22 },
+  { name: 'CoinGecko', src: '/logo/companies/coingecko.webp', maxHeight: 22 },
+  { name: 'CoinMarketCap', src: '/logo/companies/coinmarketcap.webp', maxHeight: 20 },
+  { name: 'Etherscan', src: '/logo/companies/etherscan.webp', maxHeight: 22 },
+  { name: 'Circle', src: '/logo/companies/circle.webp', maxHeight: 21 },
+];
 
 export function generateMetadata(): Metadata {
   const listings = getFreeCryptoApisSync();
@@ -52,7 +61,6 @@ export function generateMetadata(): Metadata {
 export default function FreeCryptoApisPage() {
   const listings = getFreeCryptoApisSync();
   const categories = getFreeCryptoApiCategories();
-  const verifiedOn = getFreeCryptoApisVerifiedOn();
   const total = listings.length;
   const siteUrl = 'https://hashtagweb3.com';
 
@@ -91,22 +99,9 @@ export default function FreeCryptoApisPage() {
       <div className="flex min-h-screen flex-col">
         <main className="flex-1" data-free-apis-page>
           <PageShell>
-            <PageHeader
-              title="Free Crypto APIs"
-              description="Free tiers of crypto data, RPC, and execution APIs for builders. Limits sourced from freecryptoAPIs and verified against official docs."
-            />
-            <p className="-mt-2 mb-6 text-center text-sm text-muted-foreground">
-              Directory data from{' '}
-              <a
-                href={`${FREE_CRYPTO_APIS_SOURCE}/directory`}
-                className="underline underline-offset-2 hover:text-foreground"
-                rel="noopener noreferrer"
-                target="_blank"
-              >
-                freecryptoAPIs
-              </a>
-              {verifiedOn ? ` (catalog verified ${verifiedOn})` : null}. Cards open the full listing on freecryptoAPIs.
-            </p>
+            <PageHeader title="Crypto APIs" />
+            <LogoStrip title="APIs and infrastructure from providers like:" logos={apiLogos} />
+            <CommunityFeedBanner variant="community" />
             <FreeCryptoApisBoard initialListings={listings} categories={categories} />
           </PageShell>
         </main>

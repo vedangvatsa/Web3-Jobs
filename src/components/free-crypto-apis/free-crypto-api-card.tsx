@@ -2,7 +2,8 @@
 
 import { ListingCard, ListingCardHeader, ListingCardTitle } from '@/components/listing-card';
 import type { FreeCryptoApiListing } from '@/types';
-import { freeCryptoApiDetailUrl } from '@/lib/free-crypto-apis';
+import { freeCryptoApiDetailUrl, getFreeCryptoApiLogo } from '@/lib/free-crypto-apis';
+import Link from 'next/link';
 import { useState } from 'react';
 
 const FREE_PATH_LABEL: Record<string, string> = {
@@ -36,30 +37,35 @@ export function FreeCryptoApiCard({ listing }: { listing: FreeCryptoApiListing }
   const initial = (listing.name || 'A').trim().charAt(0).toUpperCase();
   const subtitle = subtitleFor(listing);
 
-  const faviconUrls = domain
+  const localLogo = getFreeCryptoApiLogo(listing.slug);
+  const fallbackFavicons = domain
     ? [
         `https://icons.duckduckgo.com/ip3/${domain}.ico`,
         `https://www.google.com/s2/favicons?domain=${domain}&sz=64`,
       ]
     : [];
-  const currentFavicon = srcAttempt < faviconUrls.length ? faviconUrls[srcAttempt] : null;
+
+  const candidateSources = localLogo
+    ? [localLogo, ...fallbackFavicons]
+    : fallbackFavicons;
+
+  const currentLogo = srcAttempt < candidateSources.length ? candidateSources[srcAttempt] : null;
 
   return (
-    <a
+    <Link
       href={freeCryptoApiDetailUrl(listing)}
-      target="_blank"
-      rel="noopener noreferrer"
+      prefetch={false}
       className="block h-full min-w-0"
     >
       <ListingCard>
         <ListingCardHeader className="min-w-0">
           <div className="flex min-w-0 items-center gap-3">
             <div className="flex h-10 w-10 shrink-0 items-center justify-center overflow-hidden bg-transparent">
-              {currentFavicon ? (
+              {currentLogo ? (
                 <img
-                  key={currentFavicon}
-                  src={currentFavicon}
-                  alt=""
+                  key={currentLogo}
+                  src={currentLogo}
+                  alt={`${listing.name} logo`}
                   width={32}
                   height={32}
                   className="h-8 w-8 rounded-sm object-contain"
@@ -87,6 +93,6 @@ export function FreeCryptoApiCard({ listing }: { listing: FreeCryptoApiListing }
           </div>
         </ListingCardHeader>
       </ListingCard>
-    </a>
+    </Link>
   );
 }

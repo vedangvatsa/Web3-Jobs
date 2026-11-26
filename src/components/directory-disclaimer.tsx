@@ -18,6 +18,11 @@ type DirectoryDisclaimerProps =
       variant: 'grant';
       entityName: string;
       outboundUrl: string;
+    }
+  | {
+      variant: 'api';
+      entityName: string;
+      outboundUrl: string;
     };
 
 function formatHostPhrase(hostname: string, platformLabel: string | null): string {
@@ -38,7 +43,9 @@ export function DirectoryDisclaimer(props: DirectoryDisclaimerProps = {}) {
         ? 'This event is listed for information only. Hashtag Web3 is not the organizer. Verify the official link before you register; we are not responsible for third-party sites.'
         : variant === 'grant'
           ? 'This program is listed for information only. Hashtag Web3 does not administer the grant or run its application. Apply only via the official Details link; this page is not a form and will never ask for passwords, seed phrases, or wallet signatures.'
-          : 'Listings are for information only. Hashtag Web3 is not the employer or event organizer. Verify official links; we are not responsible for third-party sites.';
+          : variant === 'api'
+            ? 'This endpoint is listed for developer information only. Hashtag Web3 does not operate the API service or manage its infrastructure. Review official documentation before integrating into production; this directory will never ask for keys, seeds, or wallet signatures.'
+            : 'Listings are for information only. Hashtag Web3 is not the employer or event organizer. Verify official links; we are not responsible for third-party sites.';
 
   let outboundNote: string | null = null;
 
