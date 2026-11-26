@@ -19398,14 +19398,37 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "The 0G Apollo Accelerator supports engineering teams building decentralized AI applications, data availability tooling, and high-throughput Web3 infrastructure on 0G.",
-          "Selected cohorts receive access to ecosystem capital, technical mentorship, and cloud compute credits."
+          "The 0G Apollo Accelerator backs decentralized AI and Web3 infrastructure teams building on the 0G network, offering up to $20M in ecosystem funding alongside $200K in Google Cloud credits.",
+          "Backed by 0G Labs, 0G Apollo Accelerator supports builders, researchers, and engineering teams working across AI, Infra, Accelerator with Up to $20M funding + $200K cloud credits and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "0G Labs prioritizes proposals that create durable utility and measurable adoption across the 0G ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in AI, Infra, Accelerator.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to 0G Apollo Accelerator are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review program eligibility and submit an application directly through the official 0G Apollo Accelerator portal."
+          "Review the official 0G Labs program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
@@ -19433,14 +19456,37 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "1inch operates a continuous bug bounty program covering its smart contracts, swap routing engines, and limit order protocols.",
-          "Payouts are determined by vulnerability severity and potential impact."
+          "The 1inch Bug Bounty Program rewards security researchers for responsibly disclosing vulnerabilities across 1inch smart contracts, aggregation protocols, and core infrastructure.",
+          "The 1inch Bug Bounty Program is maintained by 1inch to strengthen protocol resilience across Security, DeFi, Bounty through responsible vulnerability disclosure.",
+          "Rewards are structured on a severity-based basis, scaling with the severity, exploitability, and potential impact of each verified finding."
+        ]
+      },
+      {
+        "heading": "Scope & covered assets",
+        "paragraphs": [
+          "Security researchers submitting to 1inch Bug Bounty Program should focus on production smart contracts, core protocol logic, and critical infrastructure maintained by 1inch."
+        ],
+        "bullets": [
+          "Smart contract vulnerabilities: Reentrancy, access control bypasses, logic errors, and accounting flaws.",
+          "Protocol & infrastructure risks: Oracle manipulation, cross-chain messaging issues, and denial-of-service vectors.",
+          "High-impact disclosures: Clear proof-of-concept reproductions demonstrating real-world exploit paths."
+        ]
+      },
+      {
+        "heading": "Eligibility & submission rules",
+        "paragraphs": [
+          "Submissions to 1inch Bug Bounty Program are evaluated by 1inch security engineers against strict responsible disclosure standards."
+        ],
+        "bullets": [
+          "Originality: Findings must be previously unreported and not publicly disclosed prior to triage.",
+          "Mainnet safety: Testing must be conducted on local forks or testnets without interacting with live user funds.",
+          "Reproducibility: Reports must include clear step-by-step reproduction instructions and impact analysis."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Follow the responsible disclosure guidelines on the official 1inch bug bounty page to submit a vulnerability report."
+          "Review the full scope, severity tiers, and responsible disclosure guidelines on the official 1inch security page before submitting a report."
         ]
       }
     ]
@@ -19468,14 +19514,37 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "The 1inch Foundation supports open-source initiatives, developer tooling, educational content, and ecosystem integrations that strengthen the 1inch Network.",
-          "Grants are awarded on a milestone basis aligned with deliverable progress."
+          "The 1inch Foundation Grants program funds developers, researchers, and community builders creating DeFi tooling, analytics, and integrations around the 1inch Network.",
+          "Backed by 1inch Foundation, 1inch Foundation Grants supports builders, researchers, and engineering teams working across DeFi, DevTooling, Community with Milestone-based and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "1inch Foundation prioritizes proposals that create durable utility and measurable adoption across the Ethereum ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in DeFi, DevTooling, Community.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to 1inch Foundation Grants are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Visit the official 1inch Foundation page to review grant tracks and submit a proposal."
+          "Review the official 1inch Foundation program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
@@ -19503,14 +19572,37 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "The AAIF Goose Grant Program funds contributors creating open-source MCP servers, developer workflows, and agentic capabilities for Goose.",
-          "Proposals are evaluated on technical quality, open-source licensing, and ecosystem utility."
+          "The AAIF Goose Grant Program supports open-source developers building extensions, integrations, and tooling for the Goose agentic AI framework.",
+          "Backed by Agentic AI Foundation, AAIF Goose Grant Program supports builders, researchers, and engineering teams working across AI, Open Source, DevTooling with Milestone-based and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "Agentic AI Foundation prioritizes proposals that create durable utility and measurable adoption across the Open Source ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in AI, Open Source, DevTooling.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to AAIF Goose Grant Program are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review the grant guidelines and submit a proposal via the official Goose documentation grants page."
+          "Review the official Agentic AI Foundation program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
@@ -19538,14 +19630,37 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Aave maintains active bug bounty programs covering Aave Core and Aave V4 protocol contracts.",
-          "Rewards scale based on vulnerability severity, exploitability, and impact on protocol funds."
+          "The Aave Bug Bounty Program rewards security researchers for identifying and responsibly disclosing vulnerabilities in Aave Core and Aave V4 smart contracts.",
+          "The Aave Bug Bounty Program is maintained by Aave to strengthen protocol resilience across Security, DeFi, Bounty through responsible vulnerability disclosure.",
+          "Rewards are structured on a severity-based basis, scaling with the severity, exploitability, and potential impact of each verified finding."
+        ]
+      },
+      {
+        "heading": "Scope & covered assets",
+        "paragraphs": [
+          "Security researchers submitting to Aave Bug Bounty Program should focus on production smart contracts, core protocol logic, and critical infrastructure maintained by Aave."
+        ],
+        "bullets": [
+          "Smart contract vulnerabilities: Reentrancy, access control bypasses, logic errors, and accounting flaws.",
+          "Protocol & infrastructure risks: Oracle manipulation, cross-chain messaging issues, and denial-of-service vectors.",
+          "High-impact disclosures: Clear proof-of-concept reproductions demonstrating real-world exploit paths."
+        ]
+      },
+      {
+        "heading": "Eligibility & submission rules",
+        "paragraphs": [
+          "Submissions to Aave Bug Bounty Program are evaluated by Aave security engineers against strict responsible disclosure standards."
+        ],
+        "bullets": [
+          "Originality: Findings must be previously unreported and not publicly disclosed prior to triage.",
+          "Mainnet safety: Testing must be conducted on local forks or testnets without interacting with live user funds.",
+          "Reproducibility: Reports must include clear step-by-step reproduction instructions and impact analysis."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review scope and disclosure rules on the official Aave security page before submitting a report."
+          "Review the full scope, severity tiers, and responsible disclosure guidelines on the official Aave security page before submitting a report."
         ]
       }
     ]
@@ -19573,14 +19688,37 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "This joint builder initiative provides compute credits, weather data access, and ecosystem support for teams building DePIN and AI applications.",
-          "Projects can leverage Aethir GPU infrastructure alongside WeatherXM sensor networks."
+          "The Aethir and WeatherXM partnership supports DePIN and AI builders combining decentralized GPU compute with real-world weather and environmental data.",
+          "Backed by Aethir & WeatherXM, Aethir x WeatherXM Partnership supports builders, researchers, and engineering teams working across DePIN, AI, Infra with Milestone-based and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "Aethir & WeatherXM prioritizes proposals that create durable utility and measurable adoption across the DePIN ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in DePIN, AI, Infra.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to Aethir x WeatherXM Partnership are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Visit the official WeatherXM Builders portal for Aethir partnership details and application steps."
+          "Review the official Aethir & WeatherXM program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
@@ -19608,14 +19746,37 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Mistral AI Ambassadors contribute technical guides, open-source integrations, and community workshops.",
-          "Accepted ambassadors receive API credits, early feature access, and direct collaboration with the Mistral team."
+          "The Mistral AI Ambassador Program supports developers, researchers, and community builders creating tutorials, open-source tools, and events around Mistral AI models.",
+          "Backed by Mistral AI, Mistral AI Ambassador Program supports builders, researchers, and engineering teams working across AI, Community, Open Source with Credits & Community Support and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "Mistral AI prioritizes proposals that create durable utility and measurable adoption across the AI ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in AI, Community, Open Source.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to Mistral AI Ambassador Program are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review program criteria and apply through the official Mistral AI documentation portal."
+          "Review the official Mistral AI program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
@@ -19644,13 +19805,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The Anthropic Startup Program provides early-stage startups with Claude API credits, technical guidance, and access to Anthropic engineering resources to build and scale AI-powered products.",
-          "Eligible teams can use Anthropic Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in AI & Open Source, Anthropic Startup Program helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive API Credits along with access to Anthropic onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Anthropic Startup Program can apply program benefits directly toward production workloads spanning AI, LLM, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: API Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Anthropic developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Anthropic Startup Program are reviewed by Anthropic based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Anthropic startup program page."
+          "Visit the official Anthropic startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19679,13 +19863,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The OpenAI Startup Program supports early-stage companies building with OpenAI models through API credits, technical mentorship, and go-to-market resources.",
-          "Eligible teams can use OpenAI Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in AI & Open Source, OpenAI Startup Program helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive API Credits along with access to OpenAI onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in OpenAI Startup Program can apply program benefits directly toward production workloads spanning AI, LLM, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: API Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to OpenAI developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for OpenAI Startup Program are reviewed by OpenAI based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official OpenAI startup program page."
+          "Visit the official OpenAI startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19714,13 +19921,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The Together AI Startup Accelerator equips AI startups with inference and training compute credits, model optimization support, and ecosystem mentorship.",
-          "Eligible teams can use Together AI Startup Accelerator to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Backed by Together AI, Together AI Startup Accelerator supports builders, researchers, and engineering teams working across AI, Compute, Accelerator with Compute & API Credits and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "Together AI prioritizes proposals that create durable utility and measurable adoption across the AI ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in AI, Compute, Accelerator.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to Together AI Startup Accelerator are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Together AI startup program page."
+          "Review the official Together AI program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
@@ -19749,13 +19979,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Perplexity AI for Startups offers early-stage teams discounted or complimentary Sonar API credits and developer support to integrate real-time AI search into their applications.",
-          "Eligible teams can use Perplexity AI for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in AI & Open Source, Perplexity AI for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive API Credits along with access to Perplexity AI onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Perplexity AI for Startups can apply program benefits directly toward production workloads spanning AI, Search, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: API Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Perplexity AI developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Perplexity AI for Startups are reviewed by Perplexity AI based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Perplexity AI startup program page."
+          "Visit the official Perplexity AI startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19784,13 +20037,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The Exa Startup Program provides qualifying startups with neural search API credits to power AI agents, research workflows, and retrieval-augmented applications.",
-          "Eligible teams can use Exa Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in AI & Open Source, Exa Startup Program helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive API Credits along with access to Exa onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Exa Startup Program can apply program benefits directly toward production workloads spanning AI, Search, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: API Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Exa developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Exa Startup Program are reviewed by Exa based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Exa startup program page."
+          "Visit the official Exa startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19819,13 +20095,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The Runware Grant Program supports builders and startups developing generative media and image inference applications with dedicated compute credits.",
-          "Eligible teams can use Runware Grant Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Backed by Runware, Runware Grant Program supports builders, researchers, and engineering teams working across AI, Inference, Grant with Compute Credits and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "Runware prioritizes proposals that create durable utility and measurable adoption across the AI ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in AI, Inference, Grant.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to Runware Grant Program are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Runware startup program page."
+          "Review the official Runware program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
@@ -19854,13 +20153,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Vercel for Startups provides eligible early-stage companies with platform credits for frontend hosting, serverless functions, and global edge deployments.",
-          "Eligible teams can use Vercel for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Cloud & Infra, Vercel for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Platform Credits along with access to Vercel onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Vercel for Startups can apply program benefits directly toward production workloads spanning Frontend, Cloud, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Platform Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Vercel developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Vercel for Startups are reviewed by Vercel based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Vercel startup program page."
+          "Visit the official Vercel startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19889,13 +20211,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Supabase for Startups offers early-stage teams database and backend platform credits covering Postgres hosting, authentication, edge functions, and storage.",
-          "Eligible teams can use Supabase for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Cloud & Infra, Supabase for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Database Credits along with access to Supabase onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Supabase for Startups can apply program benefits directly toward production workloads spanning Database, Backend, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Database Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Supabase developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Supabase for Startups are reviewed by Supabase based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Supabase startup program page."
+          "Visit the official Supabase startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19924,13 +20269,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The Neon Startup Program provides serverless Postgres credits, database branching, and autoscaling infrastructure for fast-growing engineering teams.",
-          "Eligible teams can use Neon Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Cloud & Infra, Neon Startup Program helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Postgres Credits along with access to Neon onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Neon Startup Program can apply program benefits directly toward production workloads spanning Database, Postgres, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Postgres Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Neon developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Neon Startup Program are reviewed by Neon based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Neon startup program page."
+          "Visit the official Neon startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19959,13 +20327,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Render for Startups gives early-stage teams cloud hosting credits for web services, background workers, managed databases, and cron jobs.",
-          "Eligible teams can use Render for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Cloud & Infra, Render for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Cloud Credits along with access to Render onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Render for Startups can apply program benefits directly toward production workloads spanning Cloud, Hosting, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Cloud Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Render developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Render for Startups are reviewed by Render based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Render startup program page."
+          "Visit the official Render startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -19994,13 +20385,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "MongoDB for Startups provides MongoDB Atlas cloud database credits, technical advisory, and architecture reviews for qualifying early-stage companies.",
-          "Eligible teams can use MongoDB for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Cloud & Infra, MongoDB for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Atlas Credits along with access to MongoDB onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in MongoDB for Startups can apply program benefits directly toward production workloads spanning Database, Cloud, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Atlas Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to MongoDB developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for MongoDB for Startups are reviewed by MongoDB based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official MongoDB startup program page."
+          "Visit the official MongoDB startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20029,13 +20443,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "PlanetScale for Startups offers serverless MySQL database credits and high-availability scaling support for early-stage engineering teams.",
-          "Eligible teams can use PlanetScale for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Cloud & Infra, PlanetScale for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Database Credits along with access to PlanetScale onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in PlanetScale for Startups can apply program benefits directly toward production workloads spanning Database, MySQL, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Database Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to PlanetScale developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for PlanetScale for Startups are reviewed by PlanetScale based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official PlanetScale startup program page."
+          "Visit the official PlanetScale startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20064,13 +20501,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The Neo4j Startup Program provides graph database credits and technical onboarding for startups building connected data, fraud detection, and AI knowledge graph applications.",
-          "Eligible teams can use Neo4j Startup Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Cloud & Infra, Neo4j Startup Program helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Graph DB Credits along with access to Neo4j onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Neo4j Startup Program can apply program benefits directly toward production workloads spanning Database, Graph, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Graph DB Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Neo4j developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Neo4j Startup Program are reviewed by Neo4j based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Neo4j startup program page."
+          "Visit the official Neo4j startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20099,13 +20559,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Nirvana Labs Startup Credits provides Web3 teams with dedicated blockchain node infrastructure, low-latency RPC access, and cloud compute credits.",
-          "Eligible teams can use Nirvana Labs Startup Credits to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in Web3 Ecosystem, Nirvana Labs Startup Credits helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Web3 Infra Credits along with access to Nirvana Labs onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Nirvana Labs Startup Credits can apply program benefits directly toward production workloads spanning Web3, Infra, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Web3 Infra Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Nirvana Labs developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Nirvana Labs Startup Credits are reviewed by Nirvana Labs based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Nirvana Labs startup program page."
+          "Visit the official Nirvana Labs startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20134,13 +20617,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Sentry for Startups gives qualifying early-stage teams application error tracking, performance monitoring, and session replay credits.",
-          "Eligible teams can use Sentry for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in DevTools & Security, Sentry for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Monitoring Credits along with access to Sentry onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Sentry for Startups can apply program benefits directly toward production workloads spanning DevTooling, Monitoring, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Monitoring Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Sentry developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Sentry for Startups are reviewed by Sentry based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Sentry startup program page."
+          "Visit the official Sentry startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20169,13 +20675,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Vanta for Startups supports early-stage companies automating SOC 2, ISO 27001, and security compliance readiness with startup-friendly pricing and credits.",
-          "Eligible teams can use Vanta for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in DevTools & Security, Vanta for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Compliance Credits along with access to Vanta onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Vanta for Startups can apply program benefits directly toward production workloads spanning Security, Compliance, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Compliance Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Vanta developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Vanta for Startups are reviewed by Vanta based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Vanta startup program page."
+          "Visit the official Vanta startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20204,13 +20733,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "Mixpanel for Startups provides eligible early-stage companies with product analytics credits to track user retention, funnels, and feature adoption.",
-          "Eligible teams can use Mixpanel for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in DevTools & Security, Mixpanel for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Analytics Credits along with access to Mixpanel onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Mixpanel for Startups can apply program benefits directly toward production workloads spanning Analytics, Product, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Analytics Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Mixpanel developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Mixpanel for Startups are reviewed by Mixpanel based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Mixpanel startup program page."
+          "Visit the official Mixpanel startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20239,13 +20791,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "The Intercom Early Stage Program offers qualifying startups steep discounts and credits on AI-first customer support and messaging tools.",
-          "Eligible teams can use Intercom Early Stage Program to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Designed for early-stage builders in DevTools & Security, Intercom Early Stage Program helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Discounted Credits along with access to Intercom onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Intercom Early Stage Program can apply program benefits directly toward production workloads spanning Support, SaaS, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Discounted Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Intercom developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Intercom Early Stage Program are reviewed by Intercom based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official Intercom startup program page."
+          "Visit the official Intercom startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
         ]
       }
     ]
@@ -20274,13 +20849,36 @@
         "heading": "Program overview",
         "paragraphs": [
           "AngelList for Startups provides founders with cap table management, equity administration, and fundraising tooling tailored to venture-backed teams.",
-          "Eligible teams can use AngelList for Startups to reduce early-stage infrastructure, tooling, or operational costs while scaling."
+          "Backed by AngelList, AngelList for Startups supports builders, researchers, and engineering teams working across Fundraising, Ops, Program with Fundraising & Ops and ecosystem resources.",
+          "The program is structured to help teams move from early prototype to production deployment with clear technical milestones."
+        ]
+      },
+      {
+        "heading": "Key focus areas & priorities",
+        "paragraphs": [
+          "AngelList prioritizes proposals that create durable utility and measurable adoption across the Multi-chain ecosystem."
+        ],
+        "bullets": [
+          "Core engineering & tooling: Open-source infrastructure, SDKs, and developer tooling in Fundraising, Ops, Program.",
+          "Production applications: User-facing products with clear technical architecture and real-world demand.",
+          "Ecosystem growth: Initiatives that expand developer onboarding, documentation, and community participation."
+        ]
+      },
+      {
+        "heading": "Eligibility & review criteria",
+        "paragraphs": [
+          "Proposals submitted to AngelList for Startups are evaluated on technical feasibility, team execution, and ecosystem alignment."
+        ],
+        "bullets": [
+          "Technical depth: Clear architecture, clean codebases, and realistic implementation plans.",
+          "Milestone clarity: Concrete deliverables with verifiable acceptance criteria.",
+          "Team capability: Relevant engineering or research track record to ship on schedule."
         ]
       },
       {
         "heading": "How to apply",
         "paragraphs": [
-          "Review eligibility requirements and submit an application directly through the official AngelList startup program page."
+          "Review the official AngelList program guidelines and submit your application directly through the linked portal."
         ]
       }
     ]
