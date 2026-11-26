@@ -191958,7 +191958,8 @@
       },
       "account": "channel:web3",
       "attemptId": "88caa381-2a80-4dca-be25-e2db0726e09f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xae1c2d4e7884938bd94834128a62343135cdca1e"
     }
   ]
 }
