@@ -194890,7 +194890,8 @@
       },
       "account": "channel:ai",
       "attemptId": "98a4ec8e-c704-4204-bc77-ed7720285bc4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x492e7e18e8b2e0ee336b9f620ccdcbafadb5a477"
     }
   ]
 }
