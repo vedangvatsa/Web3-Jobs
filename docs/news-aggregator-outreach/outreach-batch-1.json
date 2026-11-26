@@ -1,0 +1,3128 @@
+{
+  "dispatchedAt": "2026-11-26T08:55:52.373Z",
+  "total": 520,
+  "delivered": 520,
+  "failed": 0,
+  "results": [
+    {
+      "name": "CryptoPanic",
+      "email": "info@cryptopanic.com",
+      "deliveryId": "01a2170d-37ad-7d65-a5b2-1fe5762147d3",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko",
+      "email": "hello@coingecko.com",
+      "deliveryId": "01a2170d-39ec-7e64-88ca-c2499afd66aa",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap",
+      "email": "support@coinmarketcap.com",
+      "deliveryId": "01a2170d-3c26-7362-8a84-9b7e6a163a5d",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoSlate",
+      "email": "news@cryptoslate.com",
+      "deliveryId": "01a2170d-3dfa-789a-8bd8-52b240a7ce3e",
+      "status": "delivered"
+    },
+    {
+      "name": "Messari",
+      "email": "info@messari.io",
+      "deliveryId": "01a2170d-403a-7e86-8bd0-9b125123bb66",
+      "status": "delivered"
+    },
+    {
+      "name": "TokenTerminal",
+      "email": "info@tokenterminal.com",
+      "deliveryId": "01a2170d-426b-7d74-ab1f-46e0de30543f",
+      "status": "delivered"
+    },
+    {
+      "name": "Nansen",
+      "email": "info@nansen.ai",
+      "deliveryId": "01a2170d-4469-7171-8964-ae4fa9023292",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinPaprika",
+      "email": "support@coinpaprika.com",
+      "deliveryId": "01a2170d-4697-74d6-ad19-6ab8ebd47182",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinCodex",
+      "email": "info@coincodex.com",
+      "deliveryId": "01a2170d-4863-7dec-90a8-9b8fa8a748f3",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinCheckup",
+      "email": "info@coincheckup.com",
+      "deliveryId": "01a2170d-4a9c-7d24-a353-e55914f8c4c9",
+      "status": "delivered"
+    },
+    {
+      "name": "LiveCoinWatch",
+      "email": "info@livecoinwatch.com",
+      "deliveryId": "01a2170d-4ca0-71e9-842a-a052da290d32",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoCompare",
+      "email": "info@cryptocompare.com",
+      "deliveryId": "01a2170d-4e9f-7283-9c9e-3e851af1aba9",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinStats",
+      "email": "support@coinstats.app",
+      "deliveryId": "01a2170d-50d5-7157-9a23-0867aab04ce8",
+      "status": "delivered"
+    },
+    {
+      "name": "Delta App",
+      "email": "support@delta.app",
+      "deliveryId": "01a2170d-52d8-7870-b713-288c3a315acb",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinTracker",
+      "email": "support@cointracker.io",
+      "deliveryId": "01a2170d-550b-7594-93b9-be8d63ddc074",
+      "status": "delivered"
+    },
+    {
+      "name": "Blockfolio / FTX",
+      "email": "info@blockfolio.com",
+      "deliveryId": "01a2170d-56de-7c1b-8534-772060a15fd6",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly",
+      "email": "hello@feedly.com",
+      "deliveryId": "01a2170d-590c-7b76-a27e-d6c0344c131c",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard",
+      "email": "publishers@flipboard.com",
+      "deliveryId": "01a2170d-5b40-76f5-817e-a0df3036e182",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews",
+      "email": "publishers@smartnews.com",
+      "deliveryId": "01a2170d-5d47-7332-a284-c26161dc967f",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak",
+      "email": "publishers@newsbreak.com",
+      "deliveryId": "01a2170d-5f96-7c83-87be-2b4328a65bc0",
+      "status": "delivered"
+    },
+    {
+      "name": "Inoreader",
+      "email": "support@inoreader.com",
+      "deliveryId": "01a2170d-61d8-7635-a734-353ac24a9e2e",
+      "status": "delivered"
+    },
+    {
+      "name": "Ground News",
+      "email": "hello@ground.news",
+      "deliveryId": "01a2170d-63cd-7a5c-9f70-8ee24839b105",
+      "status": "delivered"
+    },
+    {
+      "name": "AllSides",
+      "email": "info@allsides.com",
+      "deliveryId": "01a2170d-65c5-746d-8319-2d60ef4aa153",
+      "status": "delivered"
+    },
+    {
+      "name": "Newsblur",
+      "email": "samuel@newsblur.com",
+      "deliveryId": "01a2170d-67f4-7b27-be86-a38b5b1078f0",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedbin",
+      "email": "support@feedbin.com",
+      "deliveryId": "01a2170d-6a25-7232-9c3c-c003dcf984c3",
+      "status": "delivered"
+    },
+    {
+      "name": "Pocket",
+      "email": "help@getpocket.com",
+      "deliveryId": "01a2170d-6c58-7e63-a5a8-e3109ac56ad0",
+      "status": "delivered"
+    },
+    {
+      "name": "Instapaper",
+      "email": "support@instapaper.com",
+      "deliveryId": "01a2170d-6e8d-7c80-87c5-adfe7d009964",
+      "status": "delivered"
+    },
+    {
+      "name": "Techmeme",
+      "email": "tips@techmeme.com",
+      "deliveryId": "01a2170d-70bc-7e01-b740-4a84677ff51c",
+      "status": "delivered"
+    },
+    {
+      "name": "Slashdot",
+      "email": "tips@slashdot.org",
+      "deliveryId": "01a2170d-72d0-76ad-a913-5f8bff886751",
+      "status": "delivered"
+    },
+    {
+      "name": "Hacker News",
+      "email": "hn@ycombinator.com",
+      "deliveryId": "01a2170d-7501-7072-983d-0bacbb36039b",
+      "status": "delivered"
+    },
+    {
+      "name": "Lobsters",
+      "email": "hello@lobste.rs",
+      "deliveryId": "01a2170d-777f-7df2-9009-f0b3cd45bbf4",
+      "status": "delivered"
+    },
+    {
+      "name": "Dev.to",
+      "email": "yo@dev.to",
+      "deliveryId": "01a2170d-798f-713d-9138-2a81fa6dcddc",
+      "status": "delivered"
+    },
+    {
+      "name": "Hashnode",
+      "email": "hello@hashnode.com",
+      "deliveryId": "01a2170d-7b96-7654-9085-6689d4ccc0df",
+      "status": "delivered"
+    },
+    {
+      "name": "Daily.dev",
+      "email": "hello@daily.dev",
+      "deliveryId": "01a2170d-7db6-7913-a002-5cd24aab34c2",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo Finance",
+      "email": "tips@yahoofinance.com",
+      "deliveryId": "01a2170d-7fe5-7b86-8c53-abf6b4727e06",
+      "status": "delivered"
+    },
+    {
+      "name": "Seeking Alpha",
+      "email": "info@seekingalpha.com",
+      "deliveryId": "01a2170d-81e1-72dd-b5bc-e5d8dfba3e13",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing.com",
+      "email": "info@investing.com",
+      "deliveryId": "01a2170d-83dd-797a-9601-2c3906b9f9e2",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView",
+      "email": "support@tradingview.com",
+      "deliveryId": "01a2170d-8612-7aab-a3d9-545bcadb3e1d",
+      "status": "delivered"
+    },
+    {
+      "name": "Benzinga",
+      "email": "newsdesk@benzinga.com",
+      "deliveryId": "01a2170d-8843-7829-ad02-18e74ece9be6",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN FR",
+      "email": "news@msn.fr",
+      "deliveryId": "01a2170d-8a8e-70f6-bb70-bb9f86a7cf37",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN CO.UK",
+      "email": "news@msn.co.uk",
+      "deliveryId": "01a2170d-8cd3-7abf-90e9-8b2662d33336",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN IT",
+      "email": "news@msn.it",
+      "deliveryId": "01a2170d-8ee1-718a-a217-ab0779cef641",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN NL",
+      "email": "news@msn.nl",
+      "deliveryId": "01a2170d-90bc-7337-8eb1-67b9c6bd2cbb",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN HU",
+      "email": "news@msn.hu",
+      "deliveryId": "01a2170d-92f6-75fe-88e6-62ad2f0ad3f8",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN FI",
+      "email": "news@msn.fi",
+      "deliveryId": "01a2170d-9502-70f9-9bc2-ae519196cfce",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN EE",
+      "email": "news@msn.ee",
+      "deliveryId": "01a2170d-9710-781f-827a-19dffc078773",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN HR",
+      "email": "news@msn.hr",
+      "deliveryId": "01a2170d-991d-7168-812f-dc4e3c4ef381",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN RS",
+      "email": "news@msn.rs",
+      "deliveryId": "01a2170d-9b47-7e64-9d86-2bde84dcdad7",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN COM.AU",
+      "email": "news@msn.com.au",
+      "deliveryId": "01a2170d-9d15-723c-81e5-8d4487050a1e",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN CO.NZ",
+      "email": "news@msn.co.nz",
+      "deliveryId": "01a2170d-9f15-7863-8598-72b83681caee",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN COM.NG",
+      "email": "news@msn.com.ng",
+      "deliveryId": "01a2170d-a155-717b-ac27-f2db52a950e5",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN CO.IL",
+      "email": "news@msn.co.il",
+      "deliveryId": "01a2170d-a32b-7c8d-85ee-baba8e114ec0",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo DE",
+      "email": "news@yahoo.de",
+      "deliveryId": "01a2170d-a567-7ecf-be2c-bbc9ab7a5f8e",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo FR",
+      "email": "news@yahoo.fr",
+      "deliveryId": "01a2170d-a770-71bf-ab2a-82df483a4731",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.UK",
+      "email": "news@yahoo.co.uk",
+      "deliveryId": "01a2170d-a97c-7986-b659-5380141aff03",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo ES",
+      "email": "news@yahoo.es",
+      "deliveryId": "01a2170d-ab8b-72d0-9fb3-f1b1c1ef9407",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo IT",
+      "email": "news@yahoo.it",
+      "deliveryId": "01a2170d-ad69-741c-8c5e-94d184fbd674",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo NL",
+      "email": "news@yahoo.nl",
+      "deliveryId": "01a2170d-af73-729e-bf7c-e79d7e54bc9a",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo BE",
+      "email": "news@yahoo.be",
+      "deliveryId": "01a2170d-b182-72e6-800c-5174e373bd66",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo AT",
+      "email": "news@yahoo.at",
+      "deliveryId": "01a2170d-b3c6-748f-9ab4-c82d38d777df",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CH",
+      "email": "news@yahoo.ch",
+      "deliveryId": "01a2170d-b59a-7cdd-83b7-c435bd054611",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo PL",
+      "email": "news@yahoo.pl",
+      "deliveryId": "01a2170d-b7aa-7edc-ae44-860eea6eca9d",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CZ",
+      "email": "news@yahoo.cz",
+      "deliveryId": "01a2170d-b9af-7666-b6b2-79e1c03fb144",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo SK",
+      "email": "news@yahoo.sk",
+      "deliveryId": "01a2170d-bbf7-718d-b61d-4be414132a2a",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo HU",
+      "email": "news@yahoo.hu",
+      "deliveryId": "01a2170d-bdf7-7043-83c1-d680ef5312b2",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo RO",
+      "email": "news@yahoo.ro",
+      "deliveryId": "01a2170d-bff5-72d9-a328-9102ee090a2c",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo BG",
+      "email": "news@yahoo.bg",
+      "deliveryId": "01a2170d-c227-776d-9a83-b784317dfd8d",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo GR",
+      "email": "news@yahoo.gr",
+      "deliveryId": "01a2170d-c455-7b09-a891-e891c93874a4",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo PT",
+      "email": "news@yahoo.pt",
+      "deliveryId": "01a2170d-c653-7a57-9003-df6b5eb00841",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo SE",
+      "email": "news@yahoo.se",
+      "deliveryId": "01a2170d-c853-7157-bd8c-2dede79a1236",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo NO",
+      "email": "news@yahoo.no",
+      "deliveryId": "01a2170d-ca54-76cc-a6f2-de5b8f4c549f",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo DK",
+      "email": "news@yahoo.dk",
+      "deliveryId": "01a2170d-cc80-7d06-81df-2be5f5892c4d",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo FI",
+      "email": "news@yahoo.fi",
+      "deliveryId": "01a2170d-ce79-7bc0-87da-a60494662b33",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo IE",
+      "email": "news@yahoo.ie",
+      "deliveryId": "01a2170d-d0a7-7098-8edb-dd5223bda644",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo LU",
+      "email": "news@yahoo.lu",
+      "deliveryId": "01a2170d-d2d5-7c32-9c4c-3b58411ae3f2",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo EE",
+      "email": "news@yahoo.ee",
+      "deliveryId": "01a2170d-d50f-7eac-acdb-c56067d73bd6",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo LT",
+      "email": "news@yahoo.lt",
+      "deliveryId": "01a2170d-d73c-7eeb-b4a7-9796ce0c5cfb",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo LV",
+      "email": "news@yahoo.lv",
+      "deliveryId": "01a2170d-d93f-78b6-be1f-0f46b7138936",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo HR",
+      "email": "news@yahoo.hr",
+      "deliveryId": "01a2170d-db05-72ae-a099-3c1f80f12bc1",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo SI",
+      "email": "news@yahoo.si",
+      "deliveryId": "01a2170d-dd34-7026-8826-89224ab72cad",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo RS",
+      "email": "news@yahoo.rs",
+      "deliveryId": "01a2170d-df5d-7261-bd31-97995994f36f",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo UA",
+      "email": "news@yahoo.ua",
+      "deliveryId": "01a2170d-e128-775f-9d85-b3a75ff57c7e",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo KZ",
+      "email": "news@yahoo.kz",
+      "deliveryId": "01a2170d-e326-701a-b54c-3a721a6a774d",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CA",
+      "email": "news@yahoo.ca",
+      "deliveryId": "01a2170d-e555-77a9-948d-d05807fdaab4",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.MX",
+      "email": "news@yahoo.com.mx",
+      "deliveryId": "01a2170d-e74f-772b-a165-fbff805dabb7",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.BR",
+      "email": "news@yahoo.com.br",
+      "deliveryId": "01a2170d-e97d-7284-bbbe-237516f1abac",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.AR",
+      "email": "news@yahoo.com.ar",
+      "deliveryId": "01a2170d-eb78-7b65-b01f-63e1ffbf28e2",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CL",
+      "email": "news@yahoo.cl",
+      "deliveryId": "01a2170d-ed7d-7be2-b0a6-aac799dbe58f",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.CO",
+      "email": "news@yahoo.com.co",
+      "deliveryId": "01a2170d-efb4-7b6e-89b9-41cbe2e31c22",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.PE",
+      "email": "news@yahoo.com.pe",
+      "deliveryId": "01a2170d-f1e5-7805-a2e2-186fd25a8ba8",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.EC",
+      "email": "news@yahoo.com.ec",
+      "deliveryId": "01a2170d-f410-7631-96f4-701b6c5b1388",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.UY",
+      "email": "news@yahoo.com.uy",
+      "deliveryId": "01a2170d-f67d-7082-b803-8e344d4f0490",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.PA",
+      "email": "news@yahoo.com.pa",
+      "deliveryId": "01a2170d-f889-7505-86cf-5e15d555c719",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.IN",
+      "email": "news@yahoo.co.in",
+      "deliveryId": "01a2170d-fab7-741f-a3cb-0a97f5fdb857",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.AU",
+      "email": "news@yahoo.com.au",
+      "deliveryId": "01a2170d-fcba-73d8-8876-f207867990fa",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.NZ",
+      "email": "news@yahoo.co.nz",
+      "deliveryId": "01a2170d-feb1-79a7-b73d-59357f93ad4e",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.SG",
+      "email": "news@yahoo.com.sg",
+      "deliveryId": "01a2170e-00d6-7907-8df2-7286bd2f04c8",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.MY",
+      "email": "news@yahoo.com.my",
+      "deliveryId": "01a2170e-029c-7a38-8fec-005501f04961",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.PH",
+      "email": "news@yahoo.com.ph",
+      "deliveryId": "01a2170e-04d5-73d2-bada-5ffb1e27d229",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.ID",
+      "email": "news@yahoo.co.id",
+      "deliveryId": "01a2170e-06cc-71c1-9adb-030609238200",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.TH",
+      "email": "news@yahoo.co.th",
+      "deliveryId": "01a2170e-08ee-7ac6-a568-78efcf8319c9",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.VN",
+      "email": "news@yahoo.com.vn",
+      "deliveryId": "01a2170e-0b0d-7e2c-8a04-2184694af276",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.HK",
+      "email": "news@yahoo.com.hk",
+      "deliveryId": "01a2170e-0cd3-7e96-a54e-77321873bfcb",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.TW",
+      "email": "news@yahoo.com.tw",
+      "deliveryId": "01a2170e-0edf-7d08-b477-63f93d0603ea",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.KR",
+      "email": "news@yahoo.co.kr",
+      "deliveryId": "01a2170e-111d-7374-8047-a8fd9b50c62b",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo PK",
+      "email": "news@yahoo.pk",
+      "deliveryId": "01a2170e-133d-7569-b149-865441ca2891",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo LK",
+      "email": "news@yahoo.lk",
+      "deliveryId": "01a2170e-1522-71e5-84ba-edabadab7bed",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo AE",
+      "email": "news@yahoo.ae",
+      "deliveryId": "01a2170e-1745-755a-8f6d-ccd68533363a",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo COM.SA",
+      "email": "news@yahoo.com.sa",
+      "deliveryId": "01a2170e-1967-737e-9eb5-0911c2e82560",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo TN",
+      "email": "news@yahoo.tn",
+      "deliveryId": "01a2170e-1b88-7ab7-97b6-0599115db365",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.ZA",
+      "email": "news@yahoo.co.za",
+      "deliveryId": "01a2170e-1d48-7510-9f4f-c430bebe700c",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.KE",
+      "email": "news@yahoo.co.ke",
+      "deliveryId": "01a2170e-1f72-7285-8620-76420143f64c",
+      "status": "delivered"
+    },
+    {
+      "name": "Yahoo CO.IL",
+      "email": "news@yahoo.co.il",
+      "deliveryId": "01a2170e-2194-79d9-a0fd-849dc846eb91",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow CO.UK",
+      "email": "news@newsnow.co.uk",
+      "deliveryId": "01a2170e-2393-78ed-8d92-04d1f038c18b",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow IT",
+      "email": "news@newsnow.it",
+      "deliveryId": "01a2170e-25b8-7c1f-a64f-72b1265c375f",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow CH",
+      "email": "news@newsnow.ch",
+      "deliveryId": "01a2170e-2776-728f-98e4-753eb3924c7d",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow SK",
+      "email": "news@newsnow.sk",
+      "deliveryId": "01a2170e-29b0-7a40-ad4c-d73480d43e0b",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow RO",
+      "email": "news@newsnow.ro",
+      "deliveryId": "01a2170e-2bbb-7293-b216-64fe788f871f",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow BG",
+      "email": "news@newsnow.bg",
+      "deliveryId": "01a2170e-2de1-7178-8764-ef547b9dc97e",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow GR",
+      "email": "news@newsnow.gr",
+      "deliveryId": "01a2170e-2fd8-7ec3-bc27-577e6b28fc55",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow CA",
+      "email": "news@newsnow.ca",
+      "deliveryId": "01a2170e-3377-7262-906c-266903370e8b",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow COM.BR",
+      "email": "news@newsnow.com.br",
+      "deliveryId": "01a2170e-36ca-7ba8-9722-83d929db4280",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow LK",
+      "email": "news@newsnow.lk",
+      "deliveryId": "01a2170e-38fe-73fc-8b92-e0353622e5f1",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow COM.NG",
+      "email": "news@newsnow.com.ng",
+      "deliveryId": "01a2170e-3afb-71ed-9229-b746fd2424aa",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow CO.IL",
+      "email": "news@newsnow.co.il",
+      "deliveryId": "01a2170e-3d2f-7869-84aa-e7a418d900ee",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday CO.UK",
+      "email": "news@upday.co.uk",
+      "deliveryId": "01a2170e-3f5b-7a29-8a57-8c5026754d4f",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday NL",
+      "email": "news@upday.nl",
+      "deliveryId": "01a2170e-41cd-7edb-9a1d-2ced26b55ae2",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday PL",
+      "email": "news@upday.pl",
+      "deliveryId": "01a2170e-43dd-7f14-9453-37def4bd124c",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday GR",
+      "email": "news@upday.gr",
+      "deliveryId": "01a2170e-45e3-7d71-a6bd-ea94a8d019a9",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday NO",
+      "email": "news@upday.no",
+      "deliveryId": "01a2170e-480c-7121-9f9b-c232c8ce3e26",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday COM.BR",
+      "email": "news@upday.com.br",
+      "deliveryId": "01a2170e-4a0a-7167-b664-baaf63d05a7e",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday CL",
+      "email": "news@upday.cl",
+      "deliveryId": "01a2170e-4c86-7bb2-8872-aaa420c47191",
+      "status": "delivered"
+    },
+    {
+      "name": "Upday JP",
+      "email": "news@upday.jp",
+      "deliveryId": "01a2170e-4e64-789c-b471-a99619a4055d",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard DE",
+      "email": "news@flipboard.de",
+      "deliveryId": "01a2170e-509e-7587-bab1-356821015d08",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard FR",
+      "email": "news@flipboard.fr",
+      "deliveryId": "01a2170e-5279-7221-b566-3b488b533df2",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard CO.UK",
+      "email": "news@flipboard.co.uk",
+      "deliveryId": "01a2170e-54b5-7d7f-8d47-03c9367a622c",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard ES",
+      "email": "news@flipboard.es",
+      "deliveryId": "01a2170e-56e2-72a1-ad23-22798fdc0a53",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard IT",
+      "email": "news@flipboard.it",
+      "deliveryId": "01a2170e-5908-7a8e-9937-e88c2ef3d0fd",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard PL",
+      "email": "news@flipboard.pl",
+      "deliveryId": "01a2170e-5b30-7c5b-a223-e036bc62de8d",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard DK",
+      "email": "news@flipboard.dk",
+      "deliveryId": "01a2170e-5cf5-7033-9b15-4faa7df03ddf",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard CA",
+      "email": "news@flipboard.ca",
+      "deliveryId": "01a2170e-5ef1-7db6-bbfd-c655560bcd6f",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard COM.AU",
+      "email": "news@flipboard.com.au",
+      "deliveryId": "01a2170e-60eb-7b61-a6ae-2f62ad203f27",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews DE",
+      "email": "press@news.google.de",
+      "deliveryId": "01a2170e-631d-7e2a-b25a-ec3cd50ecaaa",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews FR",
+      "email": "press@news.google.fr",
+      "deliveryId": "01a2170e-6541-7ed6-82d4-52d6650826b5",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.UK",
+      "email": "press@news.google.co.uk",
+      "deliveryId": "01a2170e-673c-76f4-9ff4-1a986f29123e",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews ES",
+      "email": "press@news.google.es",
+      "deliveryId": "01a2170e-696a-7d8a-8ec5-49e04e8d8eb2",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews IT",
+      "email": "press@news.google.it",
+      "deliveryId": "01a2170e-6b65-741a-be43-4aa7de8be07f",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews NL",
+      "email": "press@news.google.nl",
+      "deliveryId": "01a2170e-6d65-739f-84c2-71ee9fccb728",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews BE",
+      "email": "press@news.google.be",
+      "deliveryId": "01a2170e-6f2d-7156-8923-4686c0da85ac",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews AT",
+      "email": "press@news.google.at",
+      "deliveryId": "01a2170e-7132-7d94-8bd1-07a9e178b713",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CH",
+      "email": "press@news.google.ch",
+      "deliveryId": "01a2170e-736f-7350-8e03-e4ef4b0e0645",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews PL",
+      "email": "press@news.google.pl",
+      "deliveryId": "01a2170e-757d-7b7b-bd30-ba273626742b",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CZ",
+      "email": "press@news.google.cz",
+      "deliveryId": "01a2170e-7756-7a0e-9184-e07398e6914a",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews SK",
+      "email": "press@news.google.sk",
+      "deliveryId": "01a2170e-7960-7c48-9979-7752d2387932",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews HU",
+      "email": "press@news.google.hu",
+      "deliveryId": "01a2170e-7ba6-726c-92b5-3d174e9cbd11",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews RO",
+      "email": "press@news.google.ro",
+      "deliveryId": "01a2170e-7d99-77d3-82f3-0ebaea222665",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews BG",
+      "email": "press@news.google.bg",
+      "deliveryId": "01a2170e-7f93-7544-b1ee-e6b549901808",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews GR",
+      "email": "press@news.google.gr",
+      "deliveryId": "01a2170e-81c9-7630-9cb8-26f6ae46900e",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews PT",
+      "email": "press@news.google.pt",
+      "deliveryId": "01a2170e-841c-7504-af7a-be05bbb0e6a0",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews SE",
+      "email": "press@news.google.se",
+      "deliveryId": "01a2170e-869e-7275-bef1-c83c7bd6371a",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews NO",
+      "email": "press@news.google.no",
+      "deliveryId": "01a2170e-88cc-78de-9ec2-5c620f1bdca9",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews DK",
+      "email": "press@news.google.dk",
+      "deliveryId": "01a2170e-8a9a-726e-a232-3d8e65c01cb3",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews FI",
+      "email": "press@news.google.fi",
+      "deliveryId": "01a2170e-8ca9-7113-a845-d83f84c228b8",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews IE",
+      "email": "press@news.google.ie",
+      "deliveryId": "01a2170e-8ebb-7585-851a-69c0563e5253",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews LU",
+      "email": "press@news.google.lu",
+      "deliveryId": "01a2170e-90bd-701e-bf15-4c97e6d16cdb",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews EE",
+      "email": "press@news.google.ee",
+      "deliveryId": "01a2170e-92c3-7dcd-b3f7-1726abb817aa",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews LT",
+      "email": "press@news.google.lt",
+      "deliveryId": "01a2170e-950a-7cdd-b7b7-b90c6a6ed140",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews LV",
+      "email": "press@news.google.lv",
+      "deliveryId": "01a2170e-970a-736e-bc16-b4e23aecd405",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews HR",
+      "email": "press@news.google.hr",
+      "deliveryId": "01a2170e-9908-7191-b0e2-2e1479a38043",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews SI",
+      "email": "press@news.google.si",
+      "deliveryId": "01a2170e-9b33-7317-b20c-4c90f23bc855",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews RS",
+      "email": "press@news.google.rs",
+      "deliveryId": "01a2170e-9d0c-7458-b67e-7a41a757d1c9",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews UA",
+      "email": "press@news.google.ua",
+      "deliveryId": "01a2170e-9f0b-7eae-a81c-4167ee44a369",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews KZ",
+      "email": "press@news.google.kz",
+      "deliveryId": "01a2170e-a11c-7026-ad5a-259b669e172f",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CA",
+      "email": "press@news.google.ca",
+      "deliveryId": "01a2170e-a35e-7b0e-b8bb-b543b3f92b50",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.MX",
+      "email": "press@news.google.com.mx",
+      "deliveryId": "01a2170e-a581-7078-8775-c3b6f8b6f0aa",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.BR",
+      "email": "press@news.google.com.br",
+      "deliveryId": "01a2170e-a7a4-7ba3-bb8b-67b46afb17e0",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.AR",
+      "email": "press@news.google.com.ar",
+      "deliveryId": "01a2170e-a99b-7344-a9c9-7eb1bfa295c5",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CL",
+      "email": "press@news.google.cl",
+      "deliveryId": "01a2170e-ab5c-7609-aae2-8276b7c77435",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.CO",
+      "email": "press@news.google.com.co",
+      "deliveryId": "01a2170e-ad95-72c4-835d-e5ff3831653b",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.PE",
+      "email": "press@news.google.com.pe",
+      "deliveryId": "01a2170e-af86-739f-8f1e-02ee383ef31b",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.EC",
+      "email": "press@news.google.com.ec",
+      "deliveryId": "01a2170e-b1aa-7053-8897-07fb5ce259f7",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.UY",
+      "email": "press@news.google.com.uy",
+      "deliveryId": "01a2170e-b4c2-73cd-9976-cd3435c1d90c",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.PA",
+      "email": "press@news.google.com.pa",
+      "deliveryId": "01a2170e-b6d3-7219-bf72-5fa1068b9a3f",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.IN",
+      "email": "press@news.google.co.in",
+      "deliveryId": "01a2170e-b910-73b1-b70a-f33e39381773",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.AU",
+      "email": "press@news.google.com.au",
+      "deliveryId": "01a2170e-bae5-70b1-ad80-9bca1f22bd13",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.NZ",
+      "email": "press@news.google.co.nz",
+      "deliveryId": "01a2170e-bd29-730a-92f3-2d0833d9ee83",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.SG",
+      "email": "press@news.google.com.sg",
+      "deliveryId": "01a2170e-bf05-7d60-a2bd-96b929545b55",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.MY",
+      "email": "press@news.google.com.my",
+      "deliveryId": "01a2170e-c111-7abd-a1c6-5dd36f1239fc",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.PH",
+      "email": "press@news.google.com.ph",
+      "deliveryId": "01a2170e-c34c-7b72-ac5c-aafd5f500ca5",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.ID",
+      "email": "press@news.google.co.id",
+      "deliveryId": "01a2170e-c559-746f-bdea-f81515b360d4",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.TH",
+      "email": "press@news.google.co.th",
+      "deliveryId": "01a2170e-c734-7d71-a1f3-a27062a3bf96",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.VN",
+      "email": "press@news.google.com.vn",
+      "deliveryId": "01a2170e-c940-7e15-9690-3eb9ff96d20a",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.HK",
+      "email": "press@news.google.com.hk",
+      "deliveryId": "01a2170e-cb4b-7a39-b1b0-3812c861260d",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.TW",
+      "email": "press@news.google.com.tw",
+      "deliveryId": "01a2170e-cd8c-7d30-b7f4-005a65b0ca4a",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews JP",
+      "email": "press@news.google.jp",
+      "deliveryId": "01a2170e-cf66-74c5-baa9-5cb1505bfdbd",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.KR",
+      "email": "press@news.google.co.kr",
+      "deliveryId": "01a2170e-d172-7e8f-8397-eaa7061c0d86",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews PK",
+      "email": "press@news.google.pk",
+      "deliveryId": "01a2170e-d3b7-73ad-96c4-1da788f43c34",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews LK",
+      "email": "press@news.google.lk",
+      "deliveryId": "01a2170e-d5e4-7c4e-8228-b0215ef6772e",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews AE",
+      "email": "press@news.google.ae",
+      "deliveryId": "01a2170e-d7e3-7c78-8327-ccbeb5b41db4",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.SA",
+      "email": "press@news.google.com.sa",
+      "deliveryId": "01a2170e-da0d-7ad7-bf71-5538f7468bfd",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.EG",
+      "email": "press@news.google.com.eg",
+      "deliveryId": "01a2170e-dbdb-79d4-9f39-53280e30cd1b",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews MA",
+      "email": "press@news.google.ma",
+      "deliveryId": "01a2170e-de06-7676-b62d-2db02d5db286",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews TN",
+      "email": "press@news.google.tn",
+      "deliveryId": "01a2170e-e00b-7a47-986a-e80abb556e6f",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.ZA",
+      "email": "press@news.google.co.za",
+      "deliveryId": "01a2170e-e1f9-7059-873a-353ed4ed79e6",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews COM.NG",
+      "email": "press@news.google.com.ng",
+      "deliveryId": "01a2170e-e419-7cfb-9fcb-1f9d37e5afd8",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.KE",
+      "email": "press@news.google.co.ke",
+      "deliveryId": "01a2170e-e5ed-7b4b-8f88-769608ac7b48",
+      "status": "delivered"
+    },
+    {
+      "name": "GoogleNews CO.IL",
+      "email": "press@news.google.co.il",
+      "deliveryId": "01a2170e-e7fb-7f0c-94f0-e2c4f81af7da",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews DE",
+      "email": "news@opera.de",
+      "deliveryId": "01a2170e-ea38-7239-ab82-587248c611c5",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews FR",
+      "email": "news@opera.fr",
+      "deliveryId": "01a2170e-ec45-77f9-a580-7ccf37f487c3",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews CO.UK",
+      "email": "news@opera.co.uk",
+      "deliveryId": "01a2170e-ee45-767a-aced-1794ed7c16ec",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews ES",
+      "email": "news@opera.es",
+      "deliveryId": "01a2170e-f06b-71df-a604-a9d74c246989",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews NL",
+      "email": "news@opera.nl",
+      "deliveryId": "01a2170e-f29b-763e-8387-60d885cd7dac",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews BE",
+      "email": "news@opera.be",
+      "deliveryId": "01a2170e-f4c7-7c1a-b05f-e0e9856599ec",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews AT",
+      "email": "news@opera.at",
+      "deliveryId": "01a2170e-f6ca-7525-8c79-d596c9064102",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews PL",
+      "email": "news@opera.pl",
+      "deliveryId": "01a2170e-f8ec-7e27-bd28-c28004e51654",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews CZ",
+      "email": "news@opera.cz",
+      "deliveryId": "01a2170e-fab0-7c7f-99b0-63725e7cfce1",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews SK",
+      "email": "news@opera.sk",
+      "deliveryId": "01a2170e-fcd3-777c-93e6-ae7d0dd3347a",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews HU",
+      "email": "news@opera.hu",
+      "deliveryId": "01a2170e-fe99-7a64-84b5-72cc63d32e68",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews GR",
+      "email": "news@opera.gr",
+      "deliveryId": "01a2170f-00bd-7634-8e47-4471f75660f9",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews SE",
+      "email": "news@opera.se",
+      "deliveryId": "01a2170f-05a5-768e-a87d-80fb2f4c8c9a",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews DK",
+      "email": "news@opera.dk",
+      "deliveryId": "01a2170f-077d-74fc-ab25-4c714009c36a",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews FI",
+      "email": "news@opera.fi",
+      "deliveryId": "01a2170f-09cb-7b7b-965a-32ac2514d4e7",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews IE",
+      "email": "news@opera.ie",
+      "deliveryId": "01a2170f-0b9a-78b2-9674-4601f18990f7",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews LU",
+      "email": "news@opera.lu",
+      "deliveryId": "01a2170f-0de0-7bdc-8390-e6ed58ded1d4",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews EE",
+      "email": "news@opera.ee",
+      "deliveryId": "01a2170f-0ff0-72a7-bf6d-392f1faf7480",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews LT",
+      "email": "news@opera.lt",
+      "deliveryId": "01a2170f-15d3-74ab-9b5e-a4e912749c3a",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews LV",
+      "email": "news@opera.lv",
+      "deliveryId": "01a2170f-17e8-7610-896e-63cc3c7dc654",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews HR",
+      "email": "news@opera.hr",
+      "deliveryId": "01a2170f-1a2d-7dab-8c75-5e27456f2539",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews SI",
+      "email": "news@opera.si",
+      "deliveryId": "01a2170f-1c35-7e6a-9414-7040ff341980",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews CA",
+      "email": "news@opera.ca",
+      "deliveryId": "01a2170f-1e43-7197-b902-000c845a7366",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews COM.MX",
+      "email": "news@opera.com.mx",
+      "deliveryId": "01a2170f-2072-7307-8920-551233cc667d",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews COM.BR",
+      "email": "news@opera.com.br",
+      "deliveryId": "01a2170f-226a-7a54-a0c2-d878a2f24269",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews COM.AU",
+      "email": "news@opera.com.au",
+      "deliveryId": "01a2170f-246c-74d0-9a31-4ffa9a03e671",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews CO.TH",
+      "email": "news@opera.co.th",
+      "deliveryId": "01a2170f-2699-752e-ae4e-be9529617a01",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews COM.VN",
+      "email": "news@opera.com.vn",
+      "deliveryId": "01a2170f-28cb-797e-8e6c-05a167ba699a",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews COM.HK",
+      "email": "news@opera.com.hk",
+      "deliveryId": "01a2170f-2acb-7adf-a247-56f64b695212",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews JP",
+      "email": "news@opera.jp",
+      "deliveryId": "01a2170f-2cf8-7380-bbb3-b9b4fbcb6bcb",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews MA",
+      "email": "news@opera.ma",
+      "deliveryId": "01a2170f-2ef2-7d0c-bef7-c43e973bfc53",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews CO.ZA",
+      "email": "news@opera.co.za",
+      "deliveryId": "01a2170f-311e-716d-bce7-cdae620cff4c",
+      "status": "delivered"
+    },
+    {
+      "name": "OperaNews CO.KE",
+      "email": "news@opera.co.ke",
+      "deliveryId": "01a2170f-334d-73a1-be75-1f7a6ea2476d",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedspot DE",
+      "email": "support@feedspot.de",
+      "deliveryId": "01a2170f-3581-74c8-acdb-dcada043403a",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedspot GR",
+      "email": "support@feedspot.gr",
+      "deliveryId": "01a2170f-3782-7d8b-afff-edbd3b4935b7",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedspot SE",
+      "email": "support@feedspot.se",
+      "deliveryId": "01a2170f-397f-7435-92a9-ec23474b570d",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedspot CO.IN",
+      "email": "support@feedspot.co.in",
+      "deliveryId": "01a2170f-3bab-7ecf-9e00-2d31a7d21047",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedspot COM.NG",
+      "email": "support@feedspot.com.ng",
+      "deliveryId": "01a2170f-3e34-7070-b317-be546853cdf0",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop DE",
+      "email": "info@alltop.de",
+      "deliveryId": "01a2170f-4061-73ed-ad01-04f29094e714",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop CO.UK",
+      "email": "info@alltop.co.uk",
+      "deliveryId": "01a2170f-4289-74aa-a588-c8e00fc6f065",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop IT",
+      "email": "info@alltop.it",
+      "deliveryId": "01a2170f-475b-7d2f-9dff-47f94d62d9cc",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop NL",
+      "email": "info@alltop.nl",
+      "deliveryId": "01a2170f-494f-7e37-b149-4d12e8371950",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop BE",
+      "email": "info@alltop.be",
+      "deliveryId": "01a2170f-4b83-751e-a8ad-5e29a7052e8f",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop PL",
+      "email": "info@alltop.pl",
+      "deliveryId": "01a2170f-4d80-725e-a759-94f16236ac54",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop SK",
+      "email": "info@alltop.sk",
+      "deliveryId": "01a2170f-4f7c-7243-a9d5-e8936777c7e1",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop FI",
+      "email": "info@alltop.fi",
+      "deliveryId": "01a2170f-5146-752a-bae8-5ce4980d3958",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop CA",
+      "email": "info@alltop.ca",
+      "deliveryId": "01a2170f-534f-7200-a3c6-9626b94fd253",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop COM.BR",
+      "email": "info@alltop.com.br",
+      "deliveryId": "01a2170f-555a-7e97-8164-393627457bd0",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop CO.IN",
+      "email": "info@alltop.co.in",
+      "deliveryId": "01a2170f-576b-743b-a5e9-aa20f780fa77",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop COM.AU",
+      "email": "info@alltop.com.au",
+      "deliveryId": "01a2170f-59a2-76da-bbcc-b206e9358a9b",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop COM.MY",
+      "email": "info@alltop.com.my",
+      "deliveryId": "01a2170f-5bc8-7670-9da5-01987f4c14a5",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop COM.TW",
+      "email": "info@alltop.com.tw",
+      "deliveryId": "01a2170f-5db7-7915-8ccb-756922683dd6",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop CO.ZA",
+      "email": "info@alltop.co.za",
+      "deliveryId": "01a2170f-5fd8-76f9-8cd9-e8a34739fe53",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop CO.IL",
+      "email": "info@alltop.co.il",
+      "deliveryId": "01a2170f-61d1-74b9-a363-62fd9e28d226",
+      "status": "delivered"
+    },
+    {
+      "name": "TechReport DE",
+      "email": "news@techreport.de",
+      "deliveryId": "01a2170f-63a9-76ec-a604-019c75aeab88",
+      "status": "delivered"
+    },
+    {
+      "name": "TechReport CO.UK",
+      "email": "news@techreport.co.uk",
+      "deliveryId": "01a2170f-65b4-76be-9102-f179d4b12edc",
+      "status": "delivered"
+    },
+    {
+      "name": "TechReport NL",
+      "email": "news@techreport.nl",
+      "deliveryId": "01a2170f-67f3-7094-a8f3-92025f6daec2",
+      "status": "delivered"
+    },
+    {
+      "name": "TechReport CZ",
+      "email": "news@techreport.cz",
+      "deliveryId": "01a2170f-6a21-7848-9b5e-5769b1962274",
+      "status": "delivered"
+    },
+    {
+      "name": "TechReport RO",
+      "email": "news@techreport.ro",
+      "deliveryId": "01a2170f-6c51-7910-9a08-03d46b7794cf",
+      "status": "delivered"
+    },
+    {
+      "name": "TechReport CA",
+      "email": "news@techreport.ca",
+      "deliveryId": "01a2170f-6e7c-73f6-b637-614fe01e177b",
+      "status": "delivered"
+    },
+    {
+      "name": "TechReport CO.ZA",
+      "email": "news@techreport.co.za",
+      "deliveryId": "01a2170f-7048-7341-b41c-1444c76107fe",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CO.UK",
+      "email": "news@investing.co.uk",
+      "deliveryId": "01a2170f-7244-7dfe-97f4-7cf166826c4d",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing ES",
+      "email": "news@investing.es",
+      "deliveryId": "01a2170f-7471-7ea4-80a1-6d3b2a6020e8",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing IT",
+      "email": "news@investing.it",
+      "deliveryId": "01a2170f-763a-7c09-b68b-9ab56ed38907",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing NL",
+      "email": "news@investing.nl",
+      "deliveryId": "01a2170f-7868-775a-9da2-e28a4249466d",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing AT",
+      "email": "news@investing.at",
+      "deliveryId": "01a2170f-7a9a-7087-a029-8e0fb139e36b",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing PL",
+      "email": "news@investing.pl",
+      "deliveryId": "01a2170f-7cc8-741a-90d0-020f5fed1b60",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing HU",
+      "email": "news@investing.hu",
+      "deliveryId": "01a2170f-7ec3-7663-9855-df4ff9b4f1a6",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing GR",
+      "email": "news@investing.gr",
+      "deliveryId": "01a2170f-80f6-72fd-9210-aa59be331c10",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing PT",
+      "email": "news@investing.pt",
+      "deliveryId": "01a2170f-82ea-735b-bb42-32b2ba519b96",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing DK",
+      "email": "news@investing.dk",
+      "deliveryId": "01a2170f-84e3-780f-be7c-cc46cd0a36bd",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing FI",
+      "email": "news@investing.fi",
+      "deliveryId": "01a2170f-870e-74c7-b597-9e9565df08fd",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing LT",
+      "email": "news@investing.lt",
+      "deliveryId": "01a2170f-893a-73d9-a4fe-3435ffe7f3ba",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing LV",
+      "email": "news@investing.lv",
+      "deliveryId": "01a2170f-8b67-79ab-9516-e702983bd6a1",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing HR",
+      "email": "news@investing.hr",
+      "deliveryId": "01a2170f-8d6c-77c7-b741-638c0fb4ecf4",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing SI",
+      "email": "news@investing.si",
+      "deliveryId": "01a2170f-8f6e-745a-a25a-20b8d2345e19",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing RS",
+      "email": "news@investing.rs",
+      "deliveryId": "01a2170f-9310-7695-895d-c0854d35f188",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing KZ",
+      "email": "news@investing.kz",
+      "deliveryId": "01a2170f-9517-7721-ac7c-67054ba2dd57",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CA",
+      "email": "news@investing.ca",
+      "deliveryId": "01a2170f-9741-7e5c-b9b9-2b171687aa4d",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing COM.MX",
+      "email": "news@investing.com.mx",
+      "deliveryId": "01a2170f-9949-7827-9348-ee9892dde36e",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing COM.BR",
+      "email": "news@investing.com.br",
+      "deliveryId": "01a2170f-9b75-7cbd-b496-e8303b752fee",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CL",
+      "email": "news@investing.cl",
+      "deliveryId": "01a2170f-9da5-79a5-8731-30276255d996",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing COM.PE",
+      "email": "news@investing.com.pe",
+      "deliveryId": "01a2170f-9fa2-76f3-b5fb-0fffd14a421f",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing COM.AU",
+      "email": "news@investing.com.au",
+      "deliveryId": "01a2170f-a199-7aa8-a143-10ee1c9a17b3",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CO.ID",
+      "email": "news@investing.co.id",
+      "deliveryId": "01a2170f-a3f1-7333-9a02-8abfba01427c",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CO.TH",
+      "email": "news@investing.co.th",
+      "deliveryId": "01a2170f-a61e-76c0-b648-0f4651f5656a",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing COM.HK",
+      "email": "news@investing.com.hk",
+      "deliveryId": "01a2170f-a848-7d50-80eb-2df3ab444faf",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CO.KR",
+      "email": "news@investing.co.kr",
+      "deliveryId": "01a2170f-aaba-7833-98ec-ee19feaf009e",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing LK",
+      "email": "news@investing.lk",
+      "deliveryId": "01a2170f-ac95-7d37-a4a3-608fb27631d6",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing AE",
+      "email": "news@investing.ae",
+      "deliveryId": "01a2170f-aed5-7afb-aaaa-523c2fac2170",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing COM.NG",
+      "email": "news@investing.com.ng",
+      "deliveryId": "01a2170f-b0e1-7df4-a776-81704b0c73d6",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CO.KE",
+      "email": "news@investing.co.ke",
+      "deliveryId": "01a2170f-b313-747f-bfc4-6f493d915b2d",
+      "status": "delivered"
+    },
+    {
+      "name": "Investing CO.IL",
+      "email": "news@investing.co.il",
+      "deliveryId": "01a2170f-b515-7083-8b2f-20c33176221a",
+      "status": "delivered"
+    },
+    {
+      "name": "Digg",
+      "email": "tips@digg.com",
+      "deliveryId": "01a2170f-b74a-7822-a00a-4631cd30132c",
+      "status": "delivered"
+    },
+    {
+      "name": "Mix",
+      "email": "hello@mix.com",
+      "deliveryId": "01a2170f-b947-7bf2-b548-81c8aa477743",
+      "status": "delivered"
+    },
+    {
+      "name": "Fark",
+      "email": "news@fark.com",
+      "deliveryId": "01a2170f-bb74-70ce-b5a4-108b2dcbdc68",
+      "status": "delivered"
+    },
+    {
+      "name": "MetaFilter",
+      "email": "contact@metafilter.com",
+      "deliveryId": "01a2170f-bd44-76ad-bc0c-7e67f3d14c8a",
+      "status": "delivered"
+    },
+    {
+      "name": "Netvibes",
+      "email": "contact@netvibes.com",
+      "deliveryId": "01a2170f-bf73-7be6-a721-86bcd462de18",
+      "status": "delivered"
+    },
+    {
+      "name": "Protopage",
+      "email": "support@protopage.com",
+      "deliveryId": "01a2170f-c174-79c8-9c7a-659dc01f54fd",
+      "status": "delivered"
+    },
+    {
+      "name": "Symbaloo",
+      "email": "support@symbaloo.com",
+      "deliveryId": "01a2170f-c372-7745-8bea-29b469e1c923",
+      "status": "delivered"
+    },
+    {
+      "name": "Feeder.co",
+      "email": "support@feeder.co",
+      "deliveryId": "01a2170f-c59e-7e2a-a9f6-6f771cca8387",
+      "status": "delivered"
+    },
+    {
+      "name": "BazQux",
+      "email": "support@bazqux.com",
+      "deliveryId": "01a2170f-c7cd-7976-991a-0d8b15aba3fc",
+      "status": "delivered"
+    },
+    {
+      "name": "CommaFeed",
+      "email": "contact@commafeed.com",
+      "deliveryId": "01a2170f-ca19-7e27-8dcb-e667a46ae6c6",
+      "status": "delivered"
+    },
+    {
+      "name": "Miniflux",
+      "email": "contact@miniflux.app",
+      "deliveryId": "01a2170f-cc27-78f1-8762-c10652dc84ae",
+      "status": "delivered"
+    },
+    {
+      "name": "Newsify",
+      "email": "support@newsify.co",
+      "deliveryId": "01a2170f-ce2e-7c64-a2d7-2434ba4d07a2",
+      "status": "delivered"
+    },
+    {
+      "name": "Reeder",
+      "email": "support@reederapp.com",
+      "deliveryId": "01a2170f-d071-7965-955e-bc6190f32df2",
+      "status": "delivered"
+    },
+    {
+      "name": "Unread",
+      "email": "support@goldenhillsoftware.com",
+      "deliveryId": "01a2170f-d27e-7ca8-820f-ae630ae7c5f3",
+      "status": "delivered"
+    },
+    {
+      "name": "Fiery Feeds",
+      "email": "support@cocoacake.net",
+      "deliveryId": "01a2170f-d4ad-761c-bd59-410c1defc5e6",
+      "status": "delivered"
+    },
+    {
+      "name": "Brave News",
+      "email": "press@brave.com",
+      "deliveryId": "01a2170f-d6d8-7203-988d-77e1ea2c9992",
+      "status": "delivered"
+    },
+    {
+      "name": "Vivaldi",
+      "email": "press@vivaldi.com",
+      "deliveryId": "01a2170f-d904-7c6c-bf39-5da400f494f1",
+      "status": "delivered"
+    },
+    {
+      "name": "Startpage",
+      "email": "support@startpage.com",
+      "deliveryId": "01a2170f-db39-72b4-9158-489117257fcd",
+      "status": "delivered"
+    },
+    {
+      "name": "Ecosia",
+      "email": "info@ecosia.org",
+      "deliveryId": "01a2170f-dd0b-7d2c-87fb-2859dda58a88",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant",
+      "email": "contact@qwant.com",
+      "deliveryId": "01a2170f-df36-7506-b197-12eb5a2cf1c7",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo",
+      "email": "press@duckduckgo.com",
+      "deliveryId": "01a2170f-e165-7ab0-a11d-3e3a29660c21",
+      "status": "delivered"
+    },
+    {
+      "name": "News360",
+      "email": "support@news360.com",
+      "deliveryId": "01a2170f-e36a-7578-9923-1f267ccd0e16",
+      "status": "delivered"
+    },
+    {
+      "name": "Artifact / Yahoo",
+      "email": "news@yahoo.com",
+      "deliveryId": "01a2170f-e598-79e9-9518-f0432d89614b",
+      "status": "delivered"
+    },
+    {
+      "name": "MSN News",
+      "email": "news@msn.com",
+      "deliveryId": "01a2170f-e796-7cf1-88b8-ad4997790d8a",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing News",
+      "email": "news@bing.com",
+      "deliveryId": "01a2170f-e9c3-7ae6-b64d-8b42cbb09cf9",
+      "status": "delivered"
+    },
+    {
+      "name": "Apple News",
+      "email": "applenews@apple.com",
+      "deliveryId": "01a2170f-ec14-7107-841d-6ded084ee5b2",
+      "status": "delivered"
+    },
+    {
+      "name": "Google News",
+      "email": "news-support@google.com",
+      "deliveryId": "01a2170f-ee4f-7c14-a134-371d44aca591",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView CO.UK",
+      "email": "support@tradingview.co.uk",
+      "deliveryId": "01a2170f-f04d-7d5f-b104-2cedbf5ff09a",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView NL",
+      "email": "support@tradingview.nl",
+      "deliveryId": "01a2170f-f27a-77da-9a6d-4283881ce368",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView PL",
+      "email": "support@tradingview.pl",
+      "deliveryId": "01a2170f-f4b1-7979-810d-3be91e6d8990",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView CZ",
+      "email": "support@tradingview.cz",
+      "deliveryId": "01a2170f-f6b4-789a-ac4d-19507da5c9a3",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView LT",
+      "email": "support@tradingview.lt",
+      "deliveryId": "01a2170f-f8b2-7360-a4df-74ec595e4c72",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView RS",
+      "email": "support@tradingview.rs",
+      "deliveryId": "01a2170f-fae7-77a0-b5f4-8871ddad95ed",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView COM.MX",
+      "email": "support@tradingview.com.mx",
+      "deliveryId": "01a2170f-fcb6-7954-9a3d-f37ac7589f70",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView COM.BR",
+      "email": "support@tradingview.com.br",
+      "deliveryId": "01a2170f-fee2-753c-bc9b-520de773a29c",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView JP",
+      "email": "support@tradingview.jp",
+      "deliveryId": "01a21710-00aa-7d02-a3b8-6caae2ae2f5d",
+      "status": "delivered"
+    },
+    {
+      "name": "TradingView AE",
+      "email": "support@tradingview.ae",
+      "deliveryId": "01a21710-02db-74a6-ba48-4ccbc27f29a2",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko FR",
+      "email": "hello@coingecko.fr",
+      "deliveryId": "01a21710-0509-72ae-9677-2ef405c29eb1",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko CO.UK",
+      "email": "hello@coingecko.co.uk",
+      "deliveryId": "01a21710-0708-70d7-8401-649d3ae95b32",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko NL",
+      "email": "hello@coingecko.nl",
+      "deliveryId": "01a21710-08fc-79dc-8677-d4ce3b1be1aa",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko CH",
+      "email": "hello@coingecko.ch",
+      "deliveryId": "01a21710-0b2a-789f-9fbd-2a0786a12a7e",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko PL",
+      "email": "hello@coingecko.pl",
+      "deliveryId": "01a21710-0d55-776e-85c7-44c592e0e9ae",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko HU",
+      "email": "hello@coingecko.hu",
+      "deliveryId": "01a21710-0f54-7084-8ac1-3afeca49b5bd",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko GR",
+      "email": "hello@coingecko.gr",
+      "deliveryId": "01a21710-1150-775b-b299-768418eebb10",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko RS",
+      "email": "hello@coingecko.rs",
+      "deliveryId": "01a21710-137e-7033-89a7-afe559474fad",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko CA",
+      "email": "hello@coingecko.ca",
+      "deliveryId": "01a21710-15aa-764f-9a73-4f6b32961eff",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko COM.CO",
+      "email": "hello@coingecko.com.co",
+      "deliveryId": "01a21710-1774-7d63-a5c3-7f7b2660599e",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko CO.IN",
+      "email": "hello@coingecko.co.in",
+      "deliveryId": "01a21710-199f-781b-948d-b310122fb2eb",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap DE",
+      "email": "support@coinmarketcap.de",
+      "deliveryId": "01a21710-1b9b-7247-8429-5a372ba2e97a",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap CH",
+      "email": "support@coinmarketcap.ch",
+      "deliveryId": "01a21710-1d99-7404-a69c-35325b8af933",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap CZ",
+      "email": "support@coinmarketcap.cz",
+      "deliveryId": "01a21710-1fc6-716f-8644-e2c3f8433e8e",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap HU",
+      "email": "support@coinmarketcap.hu",
+      "deliveryId": "01a21710-21f3-7262-a1f8-3260ceff0c09",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap SE",
+      "email": "support@coinmarketcap.se",
+      "deliveryId": "01a21710-23f1-7d48-bfec-3767130a31ed",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap DK",
+      "email": "support@coinmarketcap.dk",
+      "deliveryId": "01a21710-2641-74c9-854b-c954e79c3fad",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap COM.MX",
+      "email": "support@coinmarketcap.com.mx",
+      "deliveryId": "01a21710-2884-71fb-bfc3-7ba255a60771",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap COM.CO",
+      "email": "support@coinmarketcap.com.co",
+      "deliveryId": "01a21710-2ab0-7942-aea1-33c1685914be",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap COM.TW",
+      "email": "support@coinmarketcap.com.tw",
+      "deliveryId": "01a21710-2c7d-7d7f-a230-e3e3931b1648",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap CO.KR",
+      "email": "support@coinmarketcap.co.kr",
+      "deliveryId": "01a21710-2eac-7899-a32e-1ed9b4482d71",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap CO.ZA",
+      "email": "support@coinmarketcap.co.za",
+      "deliveryId": "01a21710-30d6-7538-bfea-4a27425e6287",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly FR",
+      "email": "hello@feedly.fr",
+      "deliveryId": "01a21710-32d1-7e42-b1e5-46f4dc83d2ee",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly IT",
+      "email": "hello@feedly.it",
+      "deliveryId": "01a21710-34d3-79b7-993a-387b95b2dd3e",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly NL",
+      "email": "hello@feedly.nl",
+      "deliveryId": "01a21710-36d9-7198-bd5d-e926aad45ffb",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly CH",
+      "email": "hello@feedly.ch",
+      "deliveryId": "01a21710-38df-7eca-973b-65a7f2b376da",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly CZ",
+      "email": "hello@feedly.cz",
+      "deliveryId": "01a21710-3b09-79a0-9b23-2ab8be5c7d9a",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly COM.BR",
+      "email": "hello@feedly.com.br",
+      "deliveryId": "01a21710-3cda-7c7e-81ac-20dbb1af23dd",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly COM.AU",
+      "email": "hello@feedly.com.au",
+      "deliveryId": "01a21710-3f09-7ccb-b27f-4ddb66951e61",
+      "status": "delivered"
+    },
+    {
+      "name": "Inoreader PL",
+      "email": "support@inoreader.pl",
+      "deliveryId": "01a21710-4106-7c4d-9c00-319355b189cb",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews DE",
+      "email": "publishers@smartnews.de",
+      "deliveryId": "01a21710-4333-769f-909c-7dc8cb5668a3",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews FR",
+      "email": "publishers@smartnews.fr",
+      "deliveryId": "01a21710-4503-73d4-a2f0-1e325b38de47",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews IT",
+      "email": "publishers@smartnews.it",
+      "deliveryId": "01a21710-4718-7452-b58a-82573eb1c22c",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews NL",
+      "email": "publishers@smartnews.nl",
+      "deliveryId": "01a21710-4910-70c5-b950-bb760c9a3a68",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews BE",
+      "email": "publishers@smartnews.be",
+      "deliveryId": "01a21710-4b22-7c60-ad26-5e4872c35597",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews PL",
+      "email": "publishers@smartnews.pl",
+      "deliveryId": "01a21710-4d2d-7e78-9bf1-90864b9d3493",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews CZ",
+      "email": "publishers@smartnews.cz",
+      "deliveryId": "01a21710-4f69-7743-80b6-d1c81fa87b3d",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews SK",
+      "email": "publishers@smartnews.sk",
+      "deliveryId": "01a21710-5176-7e83-af51-345a20f31077",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews HU",
+      "email": "publishers@smartnews.hu",
+      "deliveryId": "01a21710-53a2-77c8-b3e7-8a0a400a49f2",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews BG",
+      "email": "publishers@smartnews.bg",
+      "deliveryId": "01a21710-55d5-76b3-b516-52acd653b9b4",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews NO",
+      "email": "publishers@smartnews.no",
+      "deliveryId": "01a21710-57a0-78fe-8f55-7d3cc6324a51",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews DK",
+      "email": "publishers@smartnews.dk",
+      "deliveryId": "01a21710-599d-7941-a116-4be5a174a446",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews FI",
+      "email": "publishers@smartnews.fi",
+      "deliveryId": "01a21710-5bca-7479-a7ed-f91d1caa616a",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews LU",
+      "email": "publishers@smartnews.lu",
+      "deliveryId": "01a21710-5dc7-71eb-9076-3eaa04f52164",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews LT",
+      "email": "publishers@smartnews.lt",
+      "deliveryId": "01a21710-5ff2-7786-b426-8e402da6eca0",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews LV",
+      "email": "publishers@smartnews.lv",
+      "deliveryId": "01a21710-61ba-753f-8e8c-fab8c8078e32",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews KZ",
+      "email": "publishers@smartnews.kz",
+      "deliveryId": "01a21710-63e5-7d63-bd80-a41898d806af",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews COM.BR",
+      "email": "publishers@smartnews.com.br",
+      "deliveryId": "01a21710-65ed-713b-a05d-f0e75029d99a",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews CO.IN",
+      "email": "publishers@smartnews.co.in",
+      "deliveryId": "01a21710-67fe-739c-961b-b7baa128133f",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews CO.ID",
+      "email": "publishers@smartnews.co.id",
+      "deliveryId": "01a21710-6a0a-7dba-98b6-2ad1cacc890f",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews JP",
+      "email": "publishers@smartnews.jp",
+      "deliveryId": "01a21710-6be8-74ca-adcf-13b748d1abb7",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews PK",
+      "email": "publishers@smartnews.pk",
+      "deliveryId": "01a21710-6df7-787a-ac6a-f646caedb1d7",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews AE",
+      "email": "publishers@smartnews.ae",
+      "deliveryId": "01a21710-7030-7c90-b703-fbcef5f95279",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak FR",
+      "email": "publishers@newsbreak.fr",
+      "deliveryId": "01a21710-723d-78c1-9dee-d7127827acd7",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak CO.UK",
+      "email": "publishers@newsbreak.co.uk",
+      "deliveryId": "01a21710-746e-7552-8a18-ab79d0dcc4b3",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak ES",
+      "email": "publishers@newsbreak.es",
+      "deliveryId": "01a21710-7668-72d2-bc32-76aed7bae184",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak IT",
+      "email": "publishers@newsbreak.it",
+      "deliveryId": "01a21710-7860-72f3-b427-71bb9655bcc4",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak CH",
+      "email": "publishers@newsbreak.ch",
+      "deliveryId": "01a21710-7a8b-778e-acd8-d82fa667a5a4",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak GR",
+      "email": "publishers@newsbreak.gr",
+      "deliveryId": "01a21710-7cba-7af5-9f2b-fe11bf845265",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak DK",
+      "email": "publishers@newsbreak.dk",
+      "deliveryId": "01a21710-7e89-7b0a-be0b-f74dfd588487",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak CA",
+      "email": "publishers@newsbreak.ca",
+      "deliveryId": "01a21710-80b5-7606-b745-bacdc2a136a8",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak COM.CO",
+      "email": "publishers@newsbreak.com.co",
+      "deliveryId": "01a21710-82b1-7761-81c9-e88bd96fe55f",
+      "status": "delivered"
+    },
+    {
+      "name": "Seznam CZ",
+      "email": "info@seznam.cz",
+      "deliveryId": "01a21710-84ad-71cd-9625-eed5decf6405",
+      "status": "delivered"
+    },
+    {
+      "name": "Onet PL",
+      "email": "redakcja@onet.pl",
+      "deliveryId": "01a21710-8686-7b66-9ae2-d4f68a2f9c07",
+      "status": "delivered"
+    },
+    {
+      "name": "WP PL",
+      "email": "redakcja@wp.pl",
+      "deliveryId": "01a21710-88c8-72ee-9475-dd6cd133d84b",
+      "status": "delivered"
+    },
+    {
+      "name": "Interia PL",
+      "email": "redakcja@interia.pl",
+      "deliveryId": "01a21710-8af4-7734-af5b-59761ae9174c",
+      "status": "delivered"
+    },
+    {
+      "name": "T-Online DE",
+      "email": "redaktion@t-online.de",
+      "deliveryId": "01a21710-8d22-799d-ac53-a4422b0ebabd",
+      "status": "delivered"
+    },
+    {
+      "name": "Web.de",
+      "email": "redaktion@web.de",
+      "deliveryId": "01a21710-8f55-7056-8811-c4585510023f",
+      "status": "delivered"
+    },
+    {
+      "name": "GMX DE",
+      "email": "redaktion@gmx.net",
+      "deliveryId": "01a21710-9151-744c-8e01-4b177f9146da",
+      "status": "delivered"
+    },
+    {
+      "name": "Orange FR",
+      "email": "contact@orange.fr",
+      "deliveryId": "01a21710-934c-7a0a-bd54-2e5db596dd52",
+      "status": "delivered"
+    },
+    {
+      "name": "Free FR",
+      "email": "contact@free.fr",
+      "deliveryId": "01a21710-9549-715d-9fa5-c66ff3a6b7dc",
+      "status": "delivered"
+    },
+    {
+      "name": "Libero IT",
+      "email": "redazione@libero.it",
+      "deliveryId": "01a21710-9775-74a2-aedb-36c2d4b3e463",
+      "status": "delivered"
+    },
+    {
+      "name": "Virgilio IT",
+      "email": "redazione@virgilio.it",
+      "deliveryId": "01a21710-9970-747e-bdc6-4189a78feda7",
+      "status": "delivered"
+    },
+    {
+      "name": "Terra BR",
+      "email": "contato@terra.com.br",
+      "deliveryId": "01a21710-9b6b-7c26-a180-d00ba64ce0b1",
+      "status": "delivered"
+    },
+    {
+      "name": "UOL BR",
+      "email": "contato@uol.com.br",
+      "deliveryId": "01a21710-9da0-7816-9221-64e214793c1a",
+      "status": "delivered"
+    },
+    {
+      "name": "Naver KR",
+      "email": "news@naver.com",
+      "deliveryId": "01a21710-9f69-7d1a-ac23-7e43b56f2704",
+      "status": "delivered"
+    },
+    {
+      "name": "Daum KR",
+      "email": "news@daum.net",
+      "deliveryId": "01a21710-a193-75a6-9657-ddf8b313a5ec",
+      "status": "delivered"
+    },
+    {
+      "name": "Nate KR",
+      "email": "news@nate.com",
+      "deliveryId": "01a21710-a35e-7384-b320-5630f4a455ea",
+      "status": "delivered"
+    },
+    {
+      "name": "Goo JP",
+      "email": "news@goo.ne.jp",
+      "deliveryId": "01a21710-a558-748a-adb4-344665ee674a",
+      "status": "delivered"
+    },
+    {
+      "name": "Nifty JP",
+      "email": "news@nifty.com",
+      "deliveryId": "01a21710-a786-74c2-b88c-486475a76da7",
+      "status": "delivered"
+    },
+    {
+      "name": "Biglobe JP",
+      "email": "news@biglobe.ne.jp",
+      "deliveryId": "01a21710-a996-7a75-9f4a-1a6041f91f23",
+      "status": "delivered"
+    },
+    {
+      "name": "Rediff IN",
+      "email": "news@rediff.com",
+      "deliveryId": "01a21710-ab93-7401-9b2b-4446e527ca21",
+      "status": "delivered"
+    },
+    {
+      "name": "Sify IN",
+      "email": "news@sify.com",
+      "deliveryId": "01a21710-adbf-7b45-93a4-1ff4003e907d",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing IT",
+      "email": "news@bing.it",
+      "deliveryId": "01a21710-af8b-7333-a479-55c0c76ffe95",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing NL",
+      "email": "news@bing.nl",
+      "deliveryId": "01a21710-b1bb-79d2-9379-7b3d8965807b",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing RO",
+      "email": "news@bing.ro",
+      "deliveryId": "01a21710-b3ec-7d2d-9acd-0595863701a6",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing FI",
+      "email": "news@bing.fi",
+      "deliveryId": "01a21710-b5b8-7c94-bcc1-43579cdaee7f",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing EE",
+      "email": "news@bing.ee",
+      "deliveryId": "01a21710-b7ad-7904-8503-f5246694ab7c",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing KZ",
+      "email": "news@bing.kz",
+      "deliveryId": "01a21710-b9eb-70c6-a16c-3ecce27206e9",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing TR",
+      "email": "news@bing.tr",
+      "deliveryId": "01a21710-bc17-7d1b-8605-53d02a5aece0",
+      "status": "delivered"
+    },
+    {
+      "name": "Bing CO.KR",
+      "email": "news@bing.co.kr",
+      "deliveryId": "01a21710-bde2-74cf-99c6-45880bdac574",
+      "status": "delivered"
+    },
+    {
+      "name": "Google DE",
+      "email": "news-support@google.de",
+      "deliveryId": "01a21710-c011-7280-bc12-ecc15a5ec511",
+      "status": "delivered"
+    },
+    {
+      "name": "Google FR",
+      "email": "news-support@google.fr",
+      "deliveryId": "01a21710-c20e-7cd3-9e77-e6e89f4fe784",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.UK",
+      "email": "news-support@google.co.uk",
+      "deliveryId": "01a21710-c43e-7c12-aa42-99c5adf43430",
+      "status": "delivered"
+    },
+    {
+      "name": "Google ES",
+      "email": "news-support@google.es",
+      "deliveryId": "01a21710-c670-72f1-ae21-43f47384d42c",
+      "status": "delivered"
+    },
+    {
+      "name": "Google IT",
+      "email": "news-support@google.it",
+      "deliveryId": "01a21710-c86e-7c42-ae4c-89c95eed8757",
+      "status": "delivered"
+    },
+    {
+      "name": "Google NL",
+      "email": "news-support@google.nl",
+      "deliveryId": "01a21710-ca9b-77d5-9e2d-ac8e8b569cfb",
+      "status": "delivered"
+    },
+    {
+      "name": "Google BE",
+      "email": "news-support@google.be",
+      "deliveryId": "01a21710-cc97-731c-9a1a-0892725b60e7",
+      "status": "delivered"
+    },
+    {
+      "name": "Google AT",
+      "email": "news-support@google.at",
+      "deliveryId": "01a21710-ce8d-77a8-8098-6ad627375504",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CH",
+      "email": "news-support@google.ch",
+      "deliveryId": "01a21710-d0ba-720a-a7a1-d4219f2698e8",
+      "status": "delivered"
+    },
+    {
+      "name": "Google PL",
+      "email": "news-support@google.pl",
+      "deliveryId": "01a21710-d285-7c52-a18b-d4bc66b5b7d9",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CZ",
+      "email": "news-support@google.cz",
+      "deliveryId": "01a21710-d4b1-7783-b33e-4fef5acbdfbc",
+      "status": "delivered"
+    },
+    {
+      "name": "Google SK",
+      "email": "news-support@google.sk",
+      "deliveryId": "01a21710-d6de-7546-aaf0-1dd85f21a4e6",
+      "status": "delivered"
+    },
+    {
+      "name": "Google HU",
+      "email": "news-support@google.hu",
+      "deliveryId": "01a21710-d8dd-7ca2-81cb-bdf5571aef97",
+      "status": "delivered"
+    },
+    {
+      "name": "Google RO",
+      "email": "news-support@google.ro",
+      "deliveryId": "01a21710-dae0-741e-9402-649ba8ba9410",
+      "status": "delivered"
+    },
+    {
+      "name": "Google BG",
+      "email": "news-support@google.bg",
+      "deliveryId": "01a21710-dcd5-775f-bac2-cf96f27d9a93",
+      "status": "delivered"
+    },
+    {
+      "name": "Google GR",
+      "email": "news-support@google.gr",
+      "deliveryId": "01a21710-def8-79c8-80b0-59a0b3910fc8",
+      "status": "delivered"
+    },
+    {
+      "name": "Google PT",
+      "email": "news-support@google.pt",
+      "deliveryId": "01a21710-e0c3-708b-a138-0776945e6835",
+      "status": "delivered"
+    },
+    {
+      "name": "Google SE",
+      "email": "news-support@google.se",
+      "deliveryId": "01a21710-e2ed-7e0c-b2fd-86dc2089b0a6",
+      "status": "delivered"
+    },
+    {
+      "name": "Google NO",
+      "email": "news-support@google.no",
+      "deliveryId": "01a21710-e51d-776a-a3dd-05beeb104c8f",
+      "status": "delivered"
+    },
+    {
+      "name": "Google DK",
+      "email": "news-support@google.dk",
+      "deliveryId": "01a21710-e6ef-707d-9bd7-c841b5b813c5",
+      "status": "delivered"
+    },
+    {
+      "name": "Google FI",
+      "email": "news-support@google.fi",
+      "deliveryId": "01a21710-e91e-7177-aade-83ed4d8dc203",
+      "status": "delivered"
+    },
+    {
+      "name": "Google IE",
+      "email": "news-support@google.ie",
+      "deliveryId": "01a21710-eb55-7f30-8309-5b74186041b4",
+      "status": "delivered"
+    },
+    {
+      "name": "Google LU",
+      "email": "news-support@google.lu",
+      "deliveryId": "01a21710-ed50-75ae-b8a2-ce4b760a4225",
+      "status": "delivered"
+    },
+    {
+      "name": "Google EE",
+      "email": "news-support@google.ee",
+      "deliveryId": "01a21710-ef1e-7c62-89c8-6b95ba2bb88a",
+      "status": "delivered"
+    },
+    {
+      "name": "Google LT",
+      "email": "news-support@google.lt",
+      "deliveryId": "01a21710-f114-763d-a730-1226365c8851",
+      "status": "delivered"
+    },
+    {
+      "name": "Google LV",
+      "email": "news-support@google.lv",
+      "deliveryId": "01a21710-f345-7ada-bca7-d3dfeee2f44d",
+      "status": "delivered"
+    },
+    {
+      "name": "Google HR",
+      "email": "news-support@google.hr",
+      "deliveryId": "01a21710-f573-75cc-97c4-cf5ab8f917e5",
+      "status": "delivered"
+    },
+    {
+      "name": "Google SI",
+      "email": "news-support@google.si",
+      "deliveryId": "01a21710-f770-7552-a530-b07ec9728504",
+      "status": "delivered"
+    },
+    {
+      "name": "Google RS",
+      "email": "news-support@google.rs",
+      "deliveryId": "01a21710-f965-72eb-a028-9915ccb83c9c",
+      "status": "delivered"
+    },
+    {
+      "name": "Google UA",
+      "email": "news-support@google.ua",
+      "deliveryId": "01a21710-fb74-7c3a-8442-e16cb0371825",
+      "status": "delivered"
+    },
+    {
+      "name": "Google KZ",
+      "email": "news-support@google.kz",
+      "deliveryId": "01a21710-fd6d-745e-9a17-e0aa558091ff",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CA",
+      "email": "news-support@google.ca",
+      "deliveryId": "01a21710-ff97-7916-8e1c-cc6605f93eb1",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.MX",
+      "email": "news-support@google.com.mx",
+      "deliveryId": "01a21711-019b-7953-a6ca-e1c7e56449f6",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.BR",
+      "email": "news-support@google.com.br",
+      "deliveryId": "01a21711-0393-7bad-b35f-45dde52b5443",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.AR",
+      "email": "news-support@google.com.ar",
+      "deliveryId": "01a21711-058f-7338-accc-898db926373d",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CL",
+      "email": "news-support@google.cl",
+      "deliveryId": "01a21711-07ba-7aed-8176-02f63af2f159",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.CO",
+      "email": "news-support@google.com.co",
+      "deliveryId": "01a21711-09d7-73fa-aed3-66d33e109520",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.PE",
+      "email": "news-support@google.com.pe",
+      "deliveryId": "01a21711-0c03-7484-ba76-11f2f636daf7",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.EC",
+      "email": "news-support@google.com.ec",
+      "deliveryId": "01a21711-0dd3-7b9b-b9f6-b70784e8847b",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.UY",
+      "email": "news-support@google.com.uy",
+      "deliveryId": "01a21711-0fd1-7ed7-bb23-2135da6085a8",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.PA",
+      "email": "news-support@google.com.pa",
+      "deliveryId": "01a21711-11c4-735e-b7cc-5df0efd14365",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.IN",
+      "email": "news-support@google.co.in",
+      "deliveryId": "01a21711-140a-7086-8c38-5b109fa64760",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.AU",
+      "email": "news-support@google.com.au",
+      "deliveryId": "01a21711-163b-716f-8ce8-9f433617223e",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.NZ",
+      "email": "news-support@google.co.nz",
+      "deliveryId": "01a21711-186c-766e-8002-ca9da98b58c0",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.SG",
+      "email": "news-support@google.com.sg",
+      "deliveryId": "01a21711-1a94-7835-83da-63830889bb32",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.MY",
+      "email": "news-support@google.com.my",
+      "deliveryId": "01a21711-1c92-7ed0-891a-888d5fef4a27",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.PH",
+      "email": "news-support@google.com.ph",
+      "deliveryId": "01a21711-1ec5-7e00-8a9f-8bd3bf95e74a",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.ID",
+      "email": "news-support@google.co.id",
+      "deliveryId": "01a21711-20be-7a49-a940-fc3315357ae4",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.TH",
+      "email": "news-support@google.co.th",
+      "deliveryId": "01a21711-22ee-75d6-af82-24054065474e",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.VN",
+      "email": "news-support@google.com.vn",
+      "deliveryId": "01a21711-24ea-7480-ab98-fcde18c023b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.HK",
+      "email": "news-support@google.com.hk",
+      "deliveryId": "01a21711-26e9-78d2-9230-b8ffa976ed68",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.TW",
+      "email": "news-support@google.com.tw",
+      "deliveryId": "01a21711-2920-7ef2-a6ba-1f5b02ac9dbd",
+      "status": "delivered"
+    },
+    {
+      "name": "Google JP",
+      "email": "news-support@google.jp",
+      "deliveryId": "01a21711-2ae6-7689-b44a-db2f1b8d3474",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.KR",
+      "email": "news-support@google.co.kr",
+      "deliveryId": "01a21711-2d14-7ec5-8dfb-c94099e965db",
+      "status": "delivered"
+    },
+    {
+      "name": "Google PK",
+      "email": "news-support@google.pk",
+      "deliveryId": "01a21711-2f12-7ddb-967d-df81cfafd13e",
+      "status": "delivered"
+    },
+    {
+      "name": "Google LK",
+      "email": "news-support@google.lk",
+      "deliveryId": "01a21711-3219-7b12-b653-fda60455f13c",
+      "status": "delivered"
+    },
+    {
+      "name": "Google AE",
+      "email": "news-support@google.ae",
+      "deliveryId": "01a21711-3602-7972-a25f-c64a501cc0af",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.SA",
+      "email": "news-support@google.com.sa",
+      "deliveryId": "01a21711-380e-7aef-bb23-a4c7ed830aae",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.EG",
+      "email": "news-support@google.com.eg",
+      "deliveryId": "01a21711-39e4-7bb4-b972-185ff66e2ead",
+      "status": "delivered"
+    },
+    {
+      "name": "Google MA",
+      "email": "news-support@google.ma",
+      "deliveryId": "01a21711-3bf5-7d9f-9468-df1ed219f62b",
+      "status": "delivered"
+    },
+    {
+      "name": "Google TN",
+      "email": "news-support@google.tn",
+      "deliveryId": "01a21711-3e2e-77eb-8826-196d213b8cd2",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.ZA",
+      "email": "news-support@google.co.za",
+      "deliveryId": "01a21711-4028-73aa-b759-9cd6e9351371",
+      "status": "delivered"
+    },
+    {
+      "name": "Google COM.NG",
+      "email": "news-support@google.com.ng",
+      "deliveryId": "01a21711-4221-752a-853a-24126a0b6c9d",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.KE",
+      "email": "news-support@google.co.ke",
+      "deliveryId": "01a21711-4425-7230-8261-c3b0aaede171",
+      "status": "delivered"
+    },
+    {
+      "name": "Google CO.IL",
+      "email": "news-support@google.co.il",
+      "deliveryId": "01a21711-465f-7b14-b902-7796fa837efc",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo FR",
+      "email": "press@duckduckgo.fr",
+      "deliveryId": "01a21711-486f-7119-9adc-8765e8a0e7d7",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo ES",
+      "email": "press@duckduckgo.es",
+      "deliveryId": "01a21711-4a78-7aab-80bf-51116d018d1d",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo AT",
+      "email": "press@duckduckgo.at",
+      "deliveryId": "01a21711-4c79-743d-a629-b4e77b2df84a",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo CZ",
+      "email": "press@duckduckgo.cz",
+      "deliveryId": "01a21711-4ea5-7e5e-aacd-6423d9e1560a",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo SK",
+      "email": "press@duckduckgo.sk",
+      "deliveryId": "01a21711-50d7-78aa-898f-1ef1f497ed43",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo PT",
+      "email": "press@duckduckgo.pt",
+      "deliveryId": "01a21711-52d4-749d-ae2e-a53373bf66fc",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo SE",
+      "email": "press@duckduckgo.se",
+      "deliveryId": "01a21711-5500-750f-ab41-2e8cc615e34e",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo KZ",
+      "email": "press@duckduckgo.kz",
+      "deliveryId": "01a21711-56fb-7676-925d-38ffda8b8e8d",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo TR",
+      "email": "press@duckduckgo.tr",
+      "deliveryId": "01a21711-58f9-7578-87b6-620283359de9",
+      "status": "delivered"
+    },
+    {
+      "name": "DuckDuckGo COM.AU",
+      "email": "press@duckduckgo.com.au",
+      "deliveryId": "01a21711-5af9-7ee0-8327-01b2eb20d792",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant DE",
+      "email": "contact@qwant.de",
+      "deliveryId": "01a21711-5cfd-767d-afb0-5ae248291130",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant FR",
+      "email": "contact@qwant.fr",
+      "deliveryId": "01a21711-5f2d-73f0-a9a7-ae777925cd7a",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant ES",
+      "email": "contact@qwant.es",
+      "deliveryId": "01a21711-60f8-76cd-a2f9-2ca175d830f9",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant IT",
+      "email": "contact@qwant.it",
+      "deliveryId": "01a21711-62f0-79f9-bf86-96b433132a61",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant NL",
+      "email": "contact@qwant.nl",
+      "deliveryId": "01a21711-651a-718d-99b4-8c11fc2a76ab",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant BE",
+      "email": "contact@qwant.be",
+      "deliveryId": "01a21711-6747-7846-86f0-e13c2f95452a",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant AT",
+      "email": "contact@qwant.at",
+      "deliveryId": "01a21711-6944-728c-8a5a-60b85024c9f3",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant CH",
+      "email": "contact@qwant.ch",
+      "deliveryId": "01a21711-6b43-777a-8837-dfd38fdc52af",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant CZ",
+      "email": "contact@qwant.cz",
+      "deliveryId": "01a21711-6d6d-78f5-bd7d-f9e152bcd8bb",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant SK",
+      "email": "contact@qwant.sk",
+      "deliveryId": "01a21711-6f6f-734b-8a61-8e4a9f1ff4d5",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant RO",
+      "email": "contact@qwant.ro",
+      "deliveryId": "01a21711-719c-7c6d-8903-b1ea6565b400",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant GR",
+      "email": "contact@qwant.gr",
+      "deliveryId": "01a21711-73c5-7c4e-bb94-1180022a5c4d",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant PT",
+      "email": "contact@qwant.pt",
+      "deliveryId": "01a21711-7591-789b-81fb-bd89a9185a46",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant NO",
+      "email": "contact@qwant.no",
+      "deliveryId": "01a21711-778a-744c-a1d0-c32d2e9cca4b",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant DK",
+      "email": "contact@qwant.dk",
+      "deliveryId": "01a21711-79b3-70b9-b586-fe613ee13742",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant IE",
+      "email": "contact@qwant.ie",
+      "deliveryId": "01a21711-7be3-73c0-8ca4-31977fbb332c",
+      "status": "delivered"
+    },
+    {
+      "name": "Qwant LU",
+      "email": "contact@qwant.lu",
+      "deliveryId": "01a21711-7e0c-7871-b074-5d42faab9c78",
+      "status": "delivered"
+    }
+  ]
+}
