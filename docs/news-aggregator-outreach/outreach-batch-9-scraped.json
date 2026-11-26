@@ -1,0 +1,104 @@
+{
+  "dispatchedAt": "2026-11-26T09:56:43.307Z",
+  "total": 16,
+  "delivered": 16,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Engadget",
+      "email": "staff@engadget.com",
+      "deliveryId": "01a21749-11bb-73cb-8edf-a2b0131da6b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Entrepreneur",
+      "email": "apphelp@entrepreneur.com",
+      "deliveryId": "01a21749-13e6-75cb-b7f1-841fe6ce2650",
+      "status": "delivered"
+    },
+    {
+      "name": "Nautilus",
+      "email": "art@nautil.us",
+      "deliveryId": "01a21749-16b3-79f5-b640-d7786dcf22c5",
+      "status": "delivered"
+    },
+    {
+      "name": "Aeon",
+      "email": "contact.video@aeon.co",
+      "deliveryId": "01a21749-18d7-74e6-9fd3-d6850ee8a66a",
+      "status": "delivered"
+    },
+    {
+      "name": "Rest of World",
+      "email": "hello@restofworld.org",
+      "deliveryId": "01a21749-1b18-75fc-9921-6d5e0a83eed2",
+      "status": "delivered"
+    },
+    {
+      "name": "Platformer",
+      "email": "casey@platformer.news",
+      "deliveryId": "01a21749-1d4c-7dbb-a2dd-c62ee10bb5c9",
+      "status": "delivered"
+    },
+    {
+      "name": "Stratechery",
+      "email": "contact@stratechery.com",
+      "deliveryId": "01a21749-1f75-703b-a74a-98f71bdfd7a5",
+      "status": "delivered"
+    },
+    {
+      "name": "404 Media",
+      "email": "emanuel@404media.co",
+      "deliveryId": "01a21749-21e8-7697-851d-3cb096ba8b79",
+      "status": "delivered"
+    },
+    {
+      "name": "EFF",
+      "email": "activist@eff.org",
+      "deliveryId": "01a21749-2413-7617-bf36-e319f81aee48",
+      "status": "delivered"
+    },
+    {
+      "name": "Apache",
+      "email": "apache@apache.org",
+      "deliveryId": "01a21749-2641-703a-9e73-0f6af5f11914",
+      "status": "delivered"
+    },
+    {
+      "name": "CNCF",
+      "email": "info@cncf.io",
+      "deliveryId": "01a21749-285f-78dc-a636-ef192fe43c1f",
+      "status": "delivered"
+    },
+    {
+      "name": "FSF",
+      "email": "campaigns@fsf.org",
+      "deliveryId": "01a21749-2a8b-7ea2-bb34-7de76af5ec34",
+      "status": "delivered"
+    },
+    {
+      "name": "Wikimedia",
+      "email": "answers@wikimedia.org",
+      "deliveryId": "01a21749-2cb0-721c-bdf8-cb610dc4459a",
+      "status": "delivered"
+    },
+    {
+      "name": "Tuta",
+      "email": "hello@tutao.de",
+      "deliveryId": "01a21749-2ed7-713f-95a0-ad46c75a70e9",
+      "status": "delivered"
+    },
+    {
+      "name": "Mastodon",
+      "email": "hello@joinmastodon.org",
+      "deliveryId": "01a21749-3138-769b-9244-f0e0026494a6",
+      "status": "delivered"
+    },
+    {
+      "name": "Micro.blog",
+      "email": "help@micro.blog",
+      "deliveryId": "01a21749-3358-7422-a26e-2ac671315b02",
+      "status": "delivered"
+    }
+  ]
+}
