@@ -139,7 +139,7 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       description: getGrantsOgDiscoverDescription(),
       ogImageUrl: STATIC_OG.grants,
     },
-    '/free-apis': {
+    '/freeapis': {
       title: normalizePreviewTitle('Free Crypto APIs'),
       description:
         'Browse crypto data, RPC, and execution APIs with documented free tiers. Filter by category, keyless access, MCP, and x402.',

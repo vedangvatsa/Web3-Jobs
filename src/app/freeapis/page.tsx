@@ -25,12 +25,12 @@ export function generateMetadata(): Metadata {
   return {
     title: seoTitleSegment(titleSegment),
     description: desc,
-    alternates: { canonical: 'https://hashtagweb3.com/free-apis' },
+    alternates: { canonical: 'https://hashtagweb3.com/freeapis' },
     openGraph: {
       type: 'website',
       title: socialTitle,
       description: desc,
-      url: 'https://hashtagweb3.com/free-apis',
+      url: 'https://hashtagweb3.com/freeapis',
       images: [
         {
           url: 'https://hashtagweb3.com/og-image-tools.png',
@@ -61,8 +61,8 @@ export default function FreeCryptoApisPage() {
     '@graph': [
       {
         '@type': 'WebPage',
-        '@id': `${siteUrl}/free-apis#page`,
-        url: `${siteUrl}/free-apis`,
+        '@id': `${siteUrl}/freeapis#page`,
+        url: `${siteUrl}/freeapis`,
         name: 'Free Crypto APIs Directory',
         description: freeCryptoApiPageDescription(total),
         isPartOf: { '@type': 'WebSite', url: siteUrl, name: 'Hashtag Web3' },
