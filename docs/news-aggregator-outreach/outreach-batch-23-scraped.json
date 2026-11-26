@@ -1,0 +1,110 @@
+{
+  "dispatchedAt": "2026-11-26T10:46:45.000Z",
+  "total": 17,
+  "delivered": 17,
+  "failed": 0,
+  "results": [
+    {
+      "name": "CyberScoop",
+      "email": "hello@cyberscoop.com",
+      "deliveryId": "01a21776-d190-76b1-a5ef-b628323735f9",
+      "status": "delivered"
+    },
+    {
+      "name": "Elastic Blog",
+      "email": "angelos@elastic.co",
+      "deliveryId": "01a21776-d492-77ff-bfde-498f0c62528f",
+      "status": "delivered"
+    },
+    {
+      "name": "Cybercrime Magazine",
+      "email": "info@cybersecurityventures.com",
+      "deliveryId": "01a21776-d735-7f2c-beac-c950fe5c9d1e",
+      "status": "delivered"
+    },
+    {
+      "name": "StateScoop",
+      "email": "hello@statescoop.com",
+      "deliveryId": "01a21776-da1e-7d2c-8674-f42a99a67a28",
+      "status": "delivered"
+    },
+    {
+      "name": "Federal News Network",
+      "email": "aamitchell@federalnewsnetwork.com",
+      "deliveryId": "01a21776-dccf-7ea7-9080-5bb8052b38d9",
+      "status": "delivered"
+    },
+    {
+      "name": "EdScoop",
+      "email": "hello@edscoop.com",
+      "deliveryId": "01a21776-dfc5-751a-8280-86fb74d978f4",
+      "status": "delivered"
+    },
+    {
+      "name": "Dynatrace News",
+      "email": "sales@dynatrace.com",
+      "deliveryId": "01a21776-e2ca-7462-bccf-da3f8ffc14e1",
+      "status": "delivered"
+    },
+    {
+      "name": "C4ISRNET",
+      "email": "tips@militarytimes.com",
+      "deliveryId": "01a21776-e57c-74f9-885b-de62ada6a559",
+      "status": "delivered"
+    },
+    {
+      "name": "Security Info Watch",
+      "email": "customerservice@securityinfowatch.com",
+      "deliveryId": "01a21776-e8fa-758f-9c43-ae7528c8c563",
+      "status": "delivered"
+    },
+    {
+      "name": "FedScoop",
+      "email": "hello@aiscoop.com",
+      "deliveryId": "01a21776-ebb7-705c-abc1-425016c3c368",
+      "status": "delivered"
+    },
+    {
+      "name": "Government Technology",
+      "email": "aboeger@govtech.com",
+      "deliveryId": "01a21776-eeaa-79d9-95c2-43b26ce0dbf6",
+      "status": "delivered"
+    },
+    {
+      "name": "Data Science Weekly",
+      "email": "team@datascienceweekly.org",
+      "deliveryId": "01a21776-f164-71a5-9c99-1ca4cd45fc2c",
+      "status": "delivered"
+    },
+    {
+      "name": "Nextgov",
+      "email": "feedback@govexec.com",
+      "deliveryId": "01a21776-f429-753d-a802-7fb2805d1dc1",
+      "status": "delivered"
+    },
+    {
+      "name": "Towards AI",
+      "email": "louis@towardsai.net",
+      "deliveryId": "01a21776-fa7b-7aac-87e4-585538f9a2be",
+      "status": "delivered"
+    },
+    {
+      "name": "Modal Labs Blog",
+      "email": "press@modal.com",
+      "deliveryId": "01a21776-fd8e-75fb-bd63-bddfffceac29",
+      "status": "delivered"
+    },
+    {
+      "name": "ClearML Blog",
+      "email": "pr@clear.ml",
+      "deliveryId": "01a21777-0056-76f3-ac3e-c7575a93e60f",
+      "status": "delivered"
+    },
+    {
+      "name": "Route Fifty",
+      "email": "feedback@govexec.com",
+      "deliveryId": "01a21777-02e8-7e8b-bdcc-828e8424ecaf",
+      "status": "delivered"
+    }
+  ]
+}
