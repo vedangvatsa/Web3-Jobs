@@ -287,7 +287,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://3327.io/contribute/"
-    }
+    },
+    "logo": "https://3327.io/wp-content/uploads/fbrfg/apple-touch-icon.png"
   },
   {
     "id": "aave-grants",

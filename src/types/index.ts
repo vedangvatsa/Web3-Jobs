@@ -213,6 +213,7 @@ export interface GrantProgram {
   description: string;
   url: string;
   domain?: string;
+  logo?: string;
   ecosystem?: string;
   tags: string[];
   deadline?: string;

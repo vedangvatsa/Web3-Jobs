@@ -28,7 +28,7 @@ export function GrantDetailView({ grant }: { grant: GrantProgram }) {
         return '';
       }
     })();
-  const faviconUrl = domain ? `https://icons.duckduckgo.com/ip3/${domain}.ico` : null;
+  const faviconUrl = grant.logo || (domain ? `https://icons.duckduckgo.com/ip3/${domain}.ico` : null);
   const initial = (grant.provider || grant.name || 'G').trim().charAt(0).toUpperCase();
   const breadcrumbsSchema = {
     '@context': 'https://schema.org',
