@@ -1,0 +1,92 @@
+{
+  "dispatchedAt": "2026-11-26T10:54:25.000Z",
+  "total": 14,
+  "delivered": 14,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Mix Magazine",
+      "email": "clive.young@futurenet.com",
+      "deliveryId": "01a2177d-e155-7bee-aeb5-10451613c8b3",
+      "status": "delivered"
+    },
+    {
+      "name": "CE Pro",
+      "email": "nicholas.boever@emeraldx.com",
+      "deliveryId": "01a2177d-e45f-7a1c-ad9a-777751886e66",
+      "status": "delivered"
+    },
+    {
+      "name": "Rave Pubs",
+      "email": "steph@ravepubs.com",
+      "deliveryId": "01a2177d-e72e-7bf3-8cf1-ab2d61d809a3",
+      "status": "delivered"
+    },
+    {
+      "name": "Digital Production Buzz",
+      "email": "cs@fun88.com",
+      "deliveryId": "01a2177d-ea12-7cdc-b126-c1910089e5a3",
+      "status": "delivered"
+    },
+    {
+      "name": "Inavate Magazine",
+      "email": "anna.mitchell@imlgroup.co.uk",
+      "deliveryId": "01a2177d-ed0f-740b-9796-0b6954077d24",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Ireland",
+      "email": "hello@fintechireland.com",
+      "deliveryId": "01a2177d-f001-7c91-9ab2-4e26f4f2390a",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Scotland",
+      "email": "contact@fintechscotland.com",
+      "deliveryId": "01a2177d-f32d-7034-a24c-a0a24b641c84",
+      "status": "delivered"
+    },
+    {
+      "name": "AV Magazine UK",
+      "email": "avnewsdesk@avmag.co.uk",
+      "deliveryId": "01a2177d-f7e8-7b38-99b5-9c19c09bea39",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech North",
+      "email": "info@fintechnorth.uk",
+      "deliveryId": "01a2177d-fad3-7559-b1e6-ace4b3faa583",
+      "status": "delivered"
+    },
+    {
+      "name": "Finance Innovation France",
+      "email": "communication@finance-innovation.org",
+      "deliveryId": "01a2177d-fd86-782f-94c3-932d00d79e41",
+      "status": "delivered"
+    },
+    {
+      "name": "MENA Fintech Association",
+      "email": "contact@mena-fintech.org",
+      "deliveryId": "01a2177e-0034-70c8-9836-8f590576e67e",
+      "status": "delivered"
+    },
+    {
+      "name": "Singapore FinTech Association",
+      "email": "kane.dowsett@cliffordchance.com",
+      "deliveryId": "01a2177e-02f8-75b4-abc6-52b96ce81f29",
+      "status": "delivered"
+    },
+    {
+      "name": "Latam Fintech Hub",
+      "email": "hola@latamfintech.co",
+      "deliveryId": "01a2177e-05be-7ef0-b332-673e2459e440",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Association of Japan",
+      "email": "info@fintechjapan.org",
+      "deliveryId": "01a2177e-0874-7bb5-ba66-0235e0650ab9",
+      "status": "delivered"
+    }
+  ]
+}
