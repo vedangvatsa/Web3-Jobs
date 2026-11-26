@@ -7805,7 +7805,7 @@
     "sentAt": "2026-11-26T20:24:39.163Z"
   },
   "f66c8399-a76b-4d79-842b-27407d8e97db": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T20:24:40.862Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -7925,6 +7925,8 @@
       }
     ],
     "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/mgr97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Commercial Contracts Manager</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/be128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Backend Development Engineer</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/eng856?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Threat Detection Engineer</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/cmp81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Regulatory Compliance Officer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls437?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Manager, Enterprise Platforms, France</a>",
-    "slotKey": "2026-11-26:evening"
+    "slotKey": "2026-11-26:evening",
+    "messageId": 223,
+    "sentAt": "2026-11-26T20:24:43.082Z"
   }
 }
