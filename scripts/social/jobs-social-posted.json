@@ -194042,7 +194042,8 @@
       },
       "account": "channel:ai",
       "attemptId": "32966eb9-7310-461a-9545-a39d8b7cc034",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x15e0cb8f30c24f194e11d42c0465bc8828d3e6d7"
     }
   ]
 }
