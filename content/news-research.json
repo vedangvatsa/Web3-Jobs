@@ -216540,7 +216540,35 @@
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
       "attempts": 0,
       "expiresAt": "2026-11-26T21:28:07.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "articleSlug": "megaspeedlist",
+      "draftProgress": {
+        "id": "4bb250ee11746f09695e",
+        "day": "2026-11-26",
+        "articleSlug": "megaspeedlist",
+        "note": "Read The Register full text and downloaded Federal Register Entity List rule PDF; extracting primary text; Crypto Briefing read; draft pending.",
+        "sourceChecks": [
+          {
+            "url": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cryptobriefing.com/us-blacklists-megaspeed-over-suspected-nvidia-ai-chip-diversion-to-china/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://public-inspection.federalregister.gov/2026-23999.pdf",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/frontier/regulation/us-plans-megaspeed-trade-blacklist-semafor-reports",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-26T02:31:18.801Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "41ea1eb6b1157712d6e0": {
       "source": "Crypto Briefing",
