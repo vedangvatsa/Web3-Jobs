@@ -196607,7 +196607,8 @@
       },
       "account": "channel:product",
       "attemptId": "71ace11a-7846-41f3-8fff-3087f13f4001",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x97954289bade73c8827b63b98abb1259f76d70a8"
     }
   ]
 }
