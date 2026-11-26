@@ -1054,5 +1054,36 @@
     "slotKey": "2026-11-26:afternoon",
     "messageId": 65857,
     "sentAt": "2026-11-26T13:05:24.986Z"
+  },
+  "1de541dd-4664-4b86-b5f0-10bd104fd769": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T20:30:46.594Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Standard Chartered: Japan bond tokenization could reach $2 trillion",
+        "summary": "Analysts estimate that digitizing Japanese debt will help the real-world asset market reach a $2 trillion valuation.",
+        "link": "https://hashtagweb3.com/stanchartjapanrwa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Standard Chartered projects Japan bond tokenization could drive RWAs to $2T"
+      },
+      {
+        "index": -1,
+        "headline": "US Regulators Query Banks Following Binance Security Incident",
+        "summary": "Officials asked banks about service disruptions following a $6.34 billion security incident at the Binance exchange.",
+        "link": "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack"
+      },
+      {
+        "index": -1,
+        "headline": "French Hill Wins Reelection but Loses Financial Services Chair",
+        "summary": "The Arkansas Republican will step down as committee head when Democrats take control of the House in January.",
+        "link": "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair"
+      }
+    ],
+    "slotKey": "2026-11-26:evening"
   }
 }
