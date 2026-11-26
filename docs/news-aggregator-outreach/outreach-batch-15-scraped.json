@@ -1,0 +1,122 @@
+{
+  "dispatchedAt": "2026-11-26T10:26:14.000Z",
+  "total": 19,
+  "delivered": 19,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Law.com",
+      "email": "customercare@alm.com",
+      "deliveryId": "01a21764-0379-766e-95f5-bd4013ac6947",
+      "status": "delivered"
+    },
+    {
+      "name": "Artificial Lawyer",
+      "email": "richard@artificiallawyer.com",
+      "deliveryId": "01a21764-0672-7793-8fbb-45a151e5bedc",
+      "status": "delivered"
+    },
+    {
+      "name": "Building Design+Construction",
+      "email": "adsales@bdcnetwork.com",
+      "deliveryId": "01a21764-0953-7c94-bcc6-e60aac613ea9",
+      "status": "delivered"
+    },
+    {
+      "name": "Dezeen",
+      "email": "awards@dezeen.com",
+      "deliveryId": "01a21764-0c87-79cf-85fb-2627babbdd60",
+      "status": "delivered"
+    },
+    {
+      "name": "Modern Retail",
+      "email": "help@modernretail.co",
+      "deliveryId": "01a21764-0f4c-7565-8587-0e015593fa2e",
+      "status": "delivered"
+    },
+    {
+      "name": "Food Navigator",
+      "email": "hello@eggschangesolutions.com",
+      "deliveryId": "01a21764-120e-7b86-a5fd-8f868782449b",
+      "status": "delivered"
+    },
+    {
+      "name": "AgFunderNews",
+      "email": "media@agfundernews.com",
+      "deliveryId": "01a21764-1504-7af0-a412-35fb28abe3a4",
+      "status": "delivered"
+    },
+    {
+      "name": "EdSurge",
+      "email": "tips@edsurge.com",
+      "deliveryId": "01a21764-1815-78a6-942f-82ca51a94f85",
+      "status": "delivered"
+    },
+    {
+      "name": "Education Week",
+      "email": "reprints@educationweek.org",
+      "deliveryId": "01a21764-1ae5-7634-812d-f9ff5bf05a96",
+      "status": "delivered"
+    },
+    {
+      "name": "HR Morning",
+      "email": "help@roverinsights.ai",
+      "deliveryId": "01a21764-1db4-7e53-9728-143cf0a649f0",
+      "status": "delivered"
+    },
+    {
+      "name": "HR Executive",
+      "email": "hre@subscription-team.com",
+      "deliveryId": "01a21764-20a2-76cf-afa9-8b215806afcf",
+      "status": "delivered"
+    },
+    {
+      "name": "Workforce Magazine",
+      "email": "sales@workforce.com",
+      "deliveryId": "01a21764-23c1-793e-9c01-1fbfb653b5de",
+      "status": "delivered"
+    },
+    {
+      "name": "Ere Media",
+      "email": "editor@ere.net",
+      "deliveryId": "01a21764-26b7-734e-a075-94aa6179596f",
+      "status": "delivered"
+    },
+    {
+      "name": "TLNT",
+      "email": "editor@ere.net",
+      "deliveryId": "01a21764-29db-7074-8fb2-27dee62b380e",
+      "status": "delivered"
+    },
+    {
+      "name": "Staffing Industry Analysts",
+      "email": "news@staffingindustry.com",
+      "deliveryId": "01a21764-2cad-777b-b71a-dcefd559a3b4",
+      "status": "delivered"
+    },
+    {
+      "name": "Skift",
+      "email": "forum@skift.com",
+      "deliveryId": "01a21764-2fa3-7258-9e42-fe45e0092a96",
+      "status": "delivered"
+    },
+    {
+      "name": "GamesIndustry.biz",
+      "email": "news@gamesindustry.biz",
+      "deliveryId": "01a21764-32b6-7616-893e-75a9973c920c",
+      "status": "delivered"
+    },
+    {
+      "name": "Game Developer",
+      "email": "news@gamedeveloper.com",
+      "deliveryId": "01a21764-357f-7324-86f3-46d35b7066c3",
+      "status": "delivered"
+    },
+    {
+      "name": "Pocket Gamer",
+      "email": "aaron.astle@steelmedianetwork.com",
+      "deliveryId": "01a21764-3843-795c-a05b-ed585e5bd7c4",
+      "status": "delivered"
+    }
+  ]
+}
