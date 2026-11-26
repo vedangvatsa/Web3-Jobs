@@ -7557,7 +7557,7 @@
     "sentAt": "2026-11-26T13:04:00.770Z"
   },
   "341b8694-2da7-4a4e-89fe-ca5ac2c9e96c": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T13:04:02.649Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -7675,6 +7675,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/des6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Motion Designer 3D, Stripe Identity</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/do28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- DFNS is hiring <a href=\"https://hashtagweb3.com/sec164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Security Engineer</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/ngs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Natural Gas Scheduler</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls344?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development Representative</a>",
-    "slotKey": "2026-11-26:afternoon"
+    "slotKey": "2026-11-26:afternoon",
+    "messageId": 222,
+    "sentAt": "2026-11-26T13:04:05.016Z"
   }
 }
