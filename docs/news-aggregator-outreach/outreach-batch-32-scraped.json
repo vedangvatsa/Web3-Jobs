@@ -1,0 +1,98 @@
+{
+  "dispatchedAt": "2026-11-26T11:01:41.000Z",
+  "total": 15,
+  "delivered": 15,
+  "failed": 0,
+  "results": [
+    {
+      "name": "E27 Community",
+      "email": "support@e27.co",
+      "deliveryId": "01a21784-7e9f-7239-93bb-145c314980d2",
+      "status": "delivered"
+    },
+    {
+      "name": "TechNode Global",
+      "email": "jangelo@technode.com",
+      "deliveryId": "01a21784-8160-7974-95dd-c63aeb7db552",
+      "status": "delivered"
+    },
+    {
+      "name": "Silicon Canals Media",
+      "email": "hello@siliconcanals.com",
+      "deliveryId": "01a21784-8436-7855-97bc-fc6e26571030",
+      "status": "delivered"
+    },
+    {
+      "name": "CB Insights Research",
+      "email": "info@cbinsights.com",
+      "deliveryId": "01a21784-872c-7261-82df-536de606efa5",
+      "status": "delivered"
+    },
+    {
+      "name": "TechCabal Media",
+      "email": "team@techcabal.com",
+      "deliveryId": "01a21784-8a00-79f9-bbb0-b81a8ace318a",
+      "status": "delivered"
+    },
+    {
+      "name": "Work at a Startup",
+      "email": "workatastartup@ycombinator.com",
+      "deliveryId": "01a21784-8f90-78f0-a9fc-1815e9d66d95",
+      "status": "delivered"
+    },
+    {
+      "name": "Jobspresso",
+      "email": "hello@jobspresso.co",
+      "deliveryId": "01a21784-9296-75ac-98e4-795c50b7d07a",
+      "status": "delivered"
+    },
+    {
+      "name": "We Work Remotely Blog",
+      "email": "matt@tinyboards.co",
+      "deliveryId": "01a21784-955c-738f-9a07-dacfb3214a80",
+      "status": "delivered"
+    },
+    {
+      "name": "Dynamite Jobs",
+      "email": "team@dynamitejobs.com",
+      "deliveryId": "01a21784-99d3-7c64-8aa1-38101cc4482d",
+      "status": "delivered"
+    },
+    {
+      "name": "Remotive",
+      "email": "hello@remotive.com",
+      "deliveryId": "01a21784-9cae-79cf-b6d4-861054e2656f",
+      "status": "delivered"
+    },
+    {
+      "name": "Himalayas Blog",
+      "email": "hi@himalayas.app",
+      "deliveryId": "01a21784-9f6c-728f-b5db-0e557750935b",
+      "status": "delivered"
+    },
+    {
+      "name": "DailyRemote",
+      "email": "contact@dailyremote.com",
+      "deliveryId": "01a21784-a1ff-73ed-aafb-b8beae36d844",
+      "status": "delivered"
+    },
+    {
+      "name": "JustRemote",
+      "email": "contact@justremote.co",
+      "deliveryId": "01a21784-a795-70e8-8153-e2f6368d21e8",
+      "status": "delivered"
+    },
+    {
+      "name": "TechRound",
+      "email": "3@kl.cx",
+      "deliveryId": "01a21784-aa4a-7054-9636-921e576a56c0",
+      "status": "delivered"
+    },
+    {
+      "name": "Otta Blog",
+      "email": "help@welcometothejungle.com",
+      "deliveryId": "01a21784-ad1b-7e80-bcae-42586ee5b286",
+      "status": "delivered"
+    }
+  ]
+}
