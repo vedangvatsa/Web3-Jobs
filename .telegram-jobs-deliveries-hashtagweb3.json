@@ -3833,5 +3833,121 @@
     "slotKey": "2026-11-26:afternoon",
     "messageId": 156521,
     "sentAt": "2026-11-26T13:04:14.175Z"
+  },
+  "f1aadaaf-dddd-4764-920c-34c7f85f6294": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T20:24:50.006Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "df5e48f0-f7a0-4cf3-a85b-9d4bb070b0d7",
+          "title": "Manager, Customer Activation Managers [Frontier Products]",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/df5e48f0-f7a0-4cf3-a85b-9d4bb070b0d7",
+          "date": "2026-11-19T20:35:41.185+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm428"
+        },
+        "key": "df5e48f0-f7a0-4cf3-a85b-9d4bb070b0d7",
+        "slug": "pm428",
+        "url": "https://hashtagweb3.com/pm428?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Manager, Customer Activation Managers [Frontier Products]"
+      },
+      {
+        "snapshot": {
+          "id": "4009922201",
+          "title": "Senior Transaction Monitoring Analyst (Fiat & Crypto)",
+          "company": "dtcpay",
+          "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009922201",
+          "date": "2026-11-23T05:50:21-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: dtcpay [dtcpay]",
+          "location": "Malaysia",
+          "department": "Transaction Monitoring",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an166"
+        },
+        "key": "4009922201",
+        "slug": "an166",
+        "url": "https://hashtagweb3.com/an166?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "dtcpay",
+        "title": "Senior Transaction Monitoring Analyst"
+      },
+      {
+        "snapshot": {
+          "id": "46e396ba-b056-4679-b4a4-c2984c346c6b",
+          "title": "[Fintech] Settlement Associate (Mandarin Speaking, Shifting Required)",
+          "company": "BTSE",
+          "link": "https://jobs.lever.co/BTSE/46e396ba-b056-4679-b4a4-c2984c346c6b",
+          "date": "2026-10-29T08:29:27.583Z",
+          "source": "Lever: BTSE [BTSE]",
+          "location": "Hybrid (Malaysia)",
+          "workplaceType": "hybrid",
+          "department": "BTSE",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "aso85"
+        },
+        "key": "46e396ba-b056-4679-b4a4-c2984c346c6b",
+        "slug": "aso85",
+        "url": "https://hashtagweb3.com/aso85?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BTSE",
+        "title": "[Fintech] Settlement Associate"
+      },
+      {
+        "snapshot": {
+          "id": "8357049",
+          "title": "Education Partnerships Coordinator",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8357049",
+          "date": "2026-11-09T07:18:38-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Dublin",
+          "department": "6250 Office of the Vice Chair",
+          "active": true,
+          "dateVerified": true,
+          "slug": "epc"
+        },
+        "key": "8357049",
+        "slug": "epc",
+        "url": "https://hashtagweb3.com/epc?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Education Partnerships Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "ey-1447979133",
+          "title": "Blockchain Consultant/ Architect",
+          "company": "EY",
+          "link": "https://careers.ey.com/ey/job/Tel-Aviv-Blockchain-Consultant-Architect-6706703/1447979133/",
+          "applyUrl": "https://careers.ey.com/ey/job/Tel-Aviv-Blockchain-Consultant-Architect-6706703/1447979133/",
+          "date": "2026-11-13T02:00:00.000Z",
+          "dateVerified": true,
+          "dateSource": "EY Careers",
+          "source": "EY Careers [ey]",
+          "active": true,
+          "slug": "arc54",
+          "location": "Not specified"
+        },
+        "key": "ey-1447979133",
+        "slug": "arc54",
+        "url": "https://hashtagweb3.com/arc54?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "EY",
+        "title": "Blockchain Consultant/ Architect"
+      }
+    ],
+    "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/pm428?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Customer Activation Managers</a>\n- dtcpay is hiring <a href=\"https://hashtagweb3.com/an166?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Transaction Monitoring Analyst</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/aso85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Settlement Associate</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/epc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Education Partnerships Coordinator</a>\n- EY is hiring <a href=\"https://hashtagweb3.com/arc54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Blockchain Consultant</a>",
+    "slotKey": "2026-11-26:evening"
   }
 }
