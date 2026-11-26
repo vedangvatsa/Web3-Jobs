@@ -195920,6 +195920,47 @@
       "attemptId": "f5efd8fc-abfd-46f4-9299-92b43327e927",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "pm409",
+      "company": "BVNK",
+      "title": "Senior Product Manager - Collections",
+      "platform": "linkedin",
+      "postedAt": "2026-11-26T13:12:43.582Z",
+      "expectedText": "BVNK is hiring Senior Product Manager: https://hashtagweb3.com/pm409/li?og=7",
+      "snapshot": {
+        "id": "5036629101",
+        "title": "Senior Product Manager - Collections",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5036629101",
+        "date": "2026-11-16T09:57:21-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm409"
+      },
+      "payload": {
+        "text": "BVNK is hiring Senior Product Manager: https://hashtagweb3.com/pm409/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm409/li?og=7",
+          "title": "Senior Product Manager - Collections at BVNK | Hashtag Web3",
+          "description": "Join BVNK as Senior Product Manager - Collections. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm409.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "08a9b67f-342c-4f55-be92-72493a5d98fd",
+      "verification": "creating"
     }
   ]
 }
