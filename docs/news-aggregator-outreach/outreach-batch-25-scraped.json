@@ -1,0 +1,20 @@
+{
+  "dispatchedAt": "2026-11-26T10:49:17.000Z",
+  "total": 2,
+  "delivered": 2,
+  "failed": 0,
+  "results": [
+    {
+      "name": "UserTesting Blog",
+      "email": "allreplies@usertesting.com",
+      "deliveryId": "01a21779-510f-7628-b0d3-78da8d5c111f",
+      "status": "delivered"
+    },
+    {
+      "name": "Interaction Design Foundation",
+      "email": "hello@ixdf.org",
+      "deliveryId": "01a21779-53f7-7ecb-878b-3d23529079d3",
+      "status": "delivered"
+    }
+  ]
+}
