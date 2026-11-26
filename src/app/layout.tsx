@@ -11,6 +11,7 @@ import type { WebSite, Organization } from 'schema-dts';
 import dynamic from 'next/dynamic';
 import { PostHogInit } from '@/components/posthog-init';
 import { ClarityInit } from '@/components/clarity-init';
+import { PromoPopup } from '@/components/telegram-popup';
 
 const inter = Inter({
  subsets: ['latin'],
@@ -227,6 +228,7 @@ export default async function RootLayout({
      {children}
     </div>
     <Toaster />
+    <PromoPopup />
 
     <Footer />
    </body>
