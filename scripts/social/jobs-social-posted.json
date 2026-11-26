@@ -193574,7 +193574,8 @@
       },
       "account": "profile",
       "attemptId": "39df60b6-fab1-4b8c-be0d-3fb4ad699004",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa33d2f05f4a1c3f633080a3004a3d7f5993264ef"
     }
   ]
 }
