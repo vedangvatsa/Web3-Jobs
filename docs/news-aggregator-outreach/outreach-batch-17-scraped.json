@@ -1,0 +1,98 @@
+{
+  "dispatchedAt": "2026-11-26T10:37:54.000Z",
+  "total": 15,
+  "delivered": 15,
+  "failed": 0,
+  "results": [
+    {
+      "name": "AI Trends",
+      "email": "webmaster@aitrends.com",
+      "deliveryId": "01a2176e-bbea-7117-8009-430711124505",
+      "status": "delivered"
+    },
+    {
+      "name": "Prompt Engineering Daily",
+      "email": "d@basicprompts.com",
+      "deliveryId": "01a2176e-c0a5-7590-9cc7-7c9bef4cdb9d",
+      "status": "delivered"
+    },
+    {
+      "name": "Anthropic News",
+      "email": "press@anthropic.com",
+      "deliveryId": "01a2176e-c3e0-7598-8f9a-f7e196ab6baa",
+      "status": "delivered"
+    },
+    {
+      "name": "There's An AI For That",
+      "email": "contact@theresanaiforthat.com",
+      "deliveryId": "01a2176e-c6cc-78b8-9c82-30aa4ed83488",
+      "status": "delivered"
+    },
+    {
+      "name": "Cohere Blog",
+      "email": "search@cohere.com",
+      "deliveryId": "01a2176e-c9ba-7a1f-9e0c-6f7ad6e878ce",
+      "status": "delivered"
+    },
+    {
+      "name": "Stability AI Blog",
+      "email": "press@stability.ai",
+      "deliveryId": "01a2176e-cc50-7480-9062-e9960f3abef7",
+      "status": "delivered"
+    },
+    {
+      "name": "AI Valley",
+      "email": "barsee@aivalley.ai",
+      "deliveryId": "01a2176e-cf20-7bc8-b4c8-3451484f1d64",
+      "status": "delivered"
+    },
+    {
+      "name": "FOSS Linux",
+      "email": "admin@fosslinux.com",
+      "deliveryId": "01a2176e-d263-7220-bdd6-6c10bae306cd",
+      "status": "delivered"
+    },
+    {
+      "name": "OMG! Ubuntu",
+      "email": "joey@ohso.io",
+      "deliveryId": "01a2176e-d4ff-737b-a448-95589c237dd0",
+      "status": "delivered"
+    },
+    {
+      "name": "Electronic Frontier Foundation",
+      "email": "info@eff.org",
+      "deliveryId": "01a2176e-d802-70b4-9dd2-99b2e11b54ee",
+      "status": "delivered"
+    },
+    {
+      "name": "Apache Software Foundation",
+      "email": "press@apache.org",
+      "deliveryId": "01a2176e-dacd-727b-a234-c68a800796a8",
+      "status": "delivered"
+    },
+    {
+      "name": "Coding Horror",
+      "email": "codinghorror@infosec.exchange",
+      "deliveryId": "01a2176e-ddc6-7778-8e6c-98bdd0385fbb",
+      "status": "delivered"
+    },
+    {
+      "name": "Linux Foundation",
+      "email": "info@sodafoundation.io",
+      "deliveryId": "01a2176e-e0c4-7906-973a-d9524e6d47a4",
+      "status": "delivered"
+    },
+    {
+      "name": "Software Engineering Daily",
+      "email": "editor@softwareengineeringdaily.com",
+      "deliveryId": "01a2176e-e383-7d66-a3e1-c44af466c159",
+      "status": "delivered"
+    },
+    {
+      "name": "Talk Python To Me",
+      "email": "contact@talkpython.fm",
+      "deliveryId": "01a2176e-e65b-7332-bf43-5071d3394b5c",
+      "status": "delivered"
+    }
+  ]
+}
