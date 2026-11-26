@@ -2502,14 +2502,14 @@
     }
   },
   {
-    "id": "arweave",
+    "id": "arweavegrants",
     "name": "Arweave",
     "provider": "Arweave",
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
     "description": "Arweave Open Web Grants provide non-dilutive funding, storage endowments, and technical guidance for developers building decentralized applications, permanent data archives, and AO compute agents.",
-    "url": "https://forms.gle/Q6UwKvCkvqxdngrQ8",
+    "url": "https://arweave.org/funding",
     "ecosystem": "Arweave",
     "tags": [
       "Development"
@@ -2571,7 +2571,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdvS-eyBhF3T15kyijCQkKvQbE52iMup0Q2aktfb5tUqnNHhQ/viewform?usp=send_form"
-    }
+    },
+    "logo": "https://arweave.org/favicon.ico"
   },
   {
     "id": "asan-stu",
