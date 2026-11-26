@@ -192413,7 +192413,8 @@
       },
       "account": "channel:design",
       "attemptId": "1018c739-519c-4a68-ae05-3094bcec37f6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb7274648da3a17d918bb92d210bf90e2ae74ac87"
     }
   ]
 }
