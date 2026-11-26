@@ -193612,6 +193612,41 @@
       "attemptId": "6099a57a-cded-4e16-aaec-b3e30f53285d",
       "verification": "verified",
       "postId": "0xa2b70fe7a686f4c7cf8ffa852b0c3f20ed59cbb5"
+    },
+    {
+      "slug": "sls559",
+      "company": "Block",
+      "title": "Strategic Account Manager, Toronto",
+      "platform": "farcaster",
+      "postedAt": "2026-11-26T04:53:42.894Z",
+      "expectedText": "Block is hiring Strategic Account Manager, Toronto\n\nhttps://hashtagweb3.com/sls559/fc?og=7",
+      "snapshot": {
+        "id": "5493512008",
+        "title": "Strategic Account Manager, Toronto",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5493512008?gh_jid=5493512008",
+        "date": "2026-11-24T11:37:27-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "20405 S&M - Sales - Square Account Management",
+        "active": true,
+        "salary": "$83.3k – $124.9k/yr",
+        "dateVerified": true,
+        "slug": "sls559"
+      },
+      "payload": {
+        "text": "Block is hiring Strategic Account Manager, Toronto\n\nhttps://hashtagweb3.com/sls559/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls559/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "645c6a96-46f9-41f6-be1c-a35f65d3de19",
+      "verification": "creating"
     }
   ]
 }
