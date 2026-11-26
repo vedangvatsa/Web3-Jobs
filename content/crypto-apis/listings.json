@@ -1,0 +1,4911 @@
+{
+  "verifiedOn": "2026-11-18",
+  "categories": {
+    "rpc": "RPC and node",
+    "wallet": "Wallet-level data",
+    "ecosystem": "Ecosystem and chain",
+    "market": "Market and prices",
+    "nft": "NFT",
+    "analytics": "Analytics and indexing",
+    "execution": "Swaps and execution",
+    "identity": "Identity and social",
+    "security": "Security and simulation",
+    "oracle": "Oracles",
+    "explorer": "Explorers"
+  },
+  "listings": [
+    {
+      "slug": "alchemy",
+      "name": "Alchemy",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [
+        "wallet",
+        "nft",
+        "market"
+      ],
+      "freeTier": "Free: 30M CU/month, 15 req/s, 5 apps and 5 webhooks.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://www.alchemy.com/docs/reference/nft-api-quickstart.md",
+          "notes": "Resource GETs in the NFT API are included on the Free Tier (Pricing Plans)."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://www.alchemy.com/docs/reference/pricing-plans.md",
+          "notes": "Free Tier explicitly includes Smart WebSockets."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "100+ including Ethereum, Solana, Base, Polygon, Arbitrum, Optimism",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://www.alchemy.com/docs/alchemy-mcp-server",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://www.alchemy.com/docs/alchemy-for-agents",
+        "notes": "Agentic Gateway: per-request USDC for standard APIs incl. Node RPC; wallet sign-in replaces the API key."
+      },
+      "pricingUrl": "https://www.alchemy.com/pricing",
+      "websiteUrl": "https://www.alchemy.com",
+      "xProfileUrl": "https://x.com/Alchemy",
+      "notes": "Also ships Portfolio, Transfers, Prices, NFT, and Wallet APIs under one key.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/alchemy"
+    },
+    {
+      "slug": "helius",
+      "name": "Helius",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [
+        "nft",
+        "wallet"
+      ],
+      "freeTier": "Free: 1M credits/month, 10 RPC req/s, 2 DAS req/s. No credit card or email required.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://www.helius.dev/docs/billing/credits",
+          "notes": "Parsed Events REST is available on all plans and uses 10 credits per request, plus any scan credits."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://www.helius.dev/docs/billing/plans",
+          "notes": "Free includes LaserStream WebSocket with standard Solana methods, not Helius extensions."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "Solana",
+      "chainList": [
+        "Solana"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://www.helius.dev/docs/agents/mcp",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.helius.dev/pricing",
+      "websiteUrl": "https://www.helius.dev",
+      "xProfileUrl": "https://x.com/Helius",
+      "notes": "DAS and parsed APIs cost more credits than plain RPC. First-party MCP is commonly run locally with a Helius API key.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/helius"
+    },
+    {
+      "slug": "jupiter",
+      "name": "Jupiter",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Free: $0 plan. The comparison table lists 1 req/s with unlimited credits; the $0 plan summary on the same page lists 25M credits and 10 req/s.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://developers.jup.ag/docs/swap",
+          "notes": "Swap quotes work keyless at 0.5 requests/sec; the free keyed tier allows 1 request/sec."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Solana",
+      "chainList": [
+        "Solana"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://developers.jup.ag/docs/ai/trading-mcp",
+        "endpoint": null,
+        "notes": "Trading MCP: quotes and swaps on Solana."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://developers.jup.ag/pricing",
+      "websiteUrl": "https://jup.ag",
+      "xProfileUrl": "https://x.com/JupiterExchange",
+      "notes": "The pricing page disagrees with itself; 1 req/s is the conservative table value. A free API key is said to raise limits.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/jupiter"
+    },
+    {
+      "slug": "uniswap-trading-api",
+      "name": "Uniswap trading API",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Free to use; each API key defaults to 6 requests per second.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://developers.uniswap.org/docs/trading/swapping-api/faqs",
+          "notes": "The trading API is free to use with a key; default limit is 6 requests/sec."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Uniswap-supported EVM chains",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Robinhood Chain",
+        "zkSync",
+        "Blast",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Celo"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://developers.uniswap.org/docs/trading/swapping-api/faqs",
+      "websiteUrl": "https://uniswap.org",
+      "xProfileUrl": "https://x.com/Uniswap",
+      "notes": "",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/uniswap-trading-api"
+    },
+    {
+      "slug": "privy",
+      "name": "Privy",
+      "category": "identity",
+      "categoryLabel": "Identity and social",
+      "alsoServes": [],
+      "freeTier": "Developer: free up to 500 MAU, 50K signatures and $1M transaction volume/month.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://www.privy.io/pricing",
+          "notes": "Developer Free includes direct APIs up to 500 MAU, with 50,000 signatures and $1M transaction volume monthly."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Privy documents webhooks for real-time wallet notifications."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "EVM, Solana, and other chains Privy wallets support; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cosmos",
+        "Stellar",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://github.com/privy-io/privy-mcp-server",
+        "endpoint": null,
+        "notes": "Local npx @privy-io/mcp-server: agent wallets and signing."
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.privy.io/pricing",
+      "websiteUrl": "https://www.privy.io",
+      "xProfileUrl": "https://x.com/privy_io",
+      "notes": "Wallet-auth and embedded-wallet infrastructure rather than an ENS-style naming API. Card requirement for the free Developer plan is not stated on the pricing page. Official X is @privy_io, not the smaller @privy or empty @Privyio accounts.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/privy"
+    },
+    {
+      "slug": "zerion-api",
+      "name": "Zerion API",
+      "category": "wallet",
+      "categoryLabel": "Wallet-level data",
+      "alsoServes": [
+        "analytics",
+        "market",
+        "nft"
+      ],
+      "freeTier": "Developer: $0 forever. 2,000 requests per day, up to 3 requests per second. DeFi positions, wallet portfolio charts, and wallet P&L share a 25% quota cap.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://zerion.io/api",
+          "notes": "Developer is $0 forever with an API key; some wallet endpoints are capped at 25% of the quota."
+        },
+        "websocket": {
+          "status": "no",
+          "sourceUrl": "https://developers.zerion.io/streaming",
+          "notes": "Zerion lists three access methods: REST, wallet webhooks, and Enterprise Kafka streams."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "41 chains: EVM and Solana",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://developers.zerion.io/build-with-ai/mcp",
+        "endpoint": null,
+        "notes": "Docs and OpenAPI search only, not wallet data."
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://developers.zerion.io/build-with-ai/x402",
+        "notes": null
+      },
+      "pricingUrl": "https://zerion.io/api",
+      "websiteUrl": "https://zerion.io",
+      "xProfileUrl": "https://x.com/zerion",
+      "notes": "Decoded wallet transaction history, token prices and charts, and NFT holdings with collection floor prices and wallet NFT portfolio value. Free key is generated instantly, no approval needed. Paid: Builder $149/mo, Startup $499/mo; USDC accepted.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/zerion-api"
+    },
+    {
+      "slug": "0x",
+      "name": "0x",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Free Tier: about 5 req/s across endpoints, in fixed 1-second windows.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.0x.org/docs/developer-resources/rate-limits",
+          "notes": "Free 0x API tier allows about 5 requests/sec with an API key."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Current cross-chain quote streaming uses SSE; WebSocket was mentioned in the old private beta."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "EVM; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Arc",
+        "Robinhood Chain",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Ink",
+        "Abstract",
+        "Sonic",
+        "Berachain",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.0x.org/_mcp/server",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.0x.org/docs/introduction/develop-with-ai/autonomous-agent-payments",
+        "notes": null
+      },
+      "pricingUrl": "https://docs.0x.org/docs/developer-resources/rate-limits.mdx",
+      "websiteUrl": "https://0x.org",
+      "xProfileUrl": "https://x.com/0xProject",
+      "notes": "Opening an SSE quotes stream counts as one request. Card requirement is not stated on the rate-limits doc.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/0x"
+    },
+    {
+      "slug": "1inch-business-api",
+      "name": "1inch Business API",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Dev Free: 100,000 calls/month, 60 req/min. x402 pay-per-call from $0.00018, $2 minimum USDC on Base.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://business.1inch.com/portal/documentation/overview/integration-paths#rest-apis--maximum-flexibility",
+          "notes": "Dev Free includes REST APIs: 100,000 calls/month and 60 requests/min."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://business.1inch.com/portal/documentation/apis/authentication#websocket",
+          "notes": "The Dev Free pricing table includes three WebSocket connections."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "EVM; confirm networks in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Unichain",
+        "Gnosis",
+        "Sonic"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": null,
+        "endpoint": "https://api.1inch.com/mcp/protocol",
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://business.1inch.com/portal/documentation/payment-methods/x402",
+        "notes": null
+      },
+      "pricingUrl": "https://business.1inch.com/pricing",
+      "websiteUrl": "https://business.1inch.com",
+      "xProfileUrl": "https://x.com/1inch",
+      "notes": "Exceeding rate limits returns 429, not overage charges. Card payments are listed as coming soon.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/1inch-business-api"
+    },
+    {
+      "slug": "a402-check-api",
+      "name": "A402 Check API",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [],
+      "freeTier": "Free Solana token mint summaries: 20 requests per IP per day, no API key or card.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://github.com/agent402-dev/agent402-toolkit/tree/main/packages/check-mcp#tools",
+          "notes": "Hosted GET mint summary, 20 requests per IP per day without a key."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Solana",
+      "chainList": [
+        "Solana"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://github.com/agent402-dev/agent402-toolkit/tree/main/packages/check-mcp#connect",
+        "endpoint": null,
+        "notes": "Local stdio MCP: the summary uses the free hosted API; the full check runs locally with your own Solana RPC."
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://github.com/agent402-dev/agent402-toolkit/tree/main/packages/check-mcp#tools",
+      "websiteUrl": "https://github.com/agent402-dev/agent402-toolkit/tree/main/packages/check-mcp",
+      "xProfileUrl": null,
+      "notes": "Returns mint, freeze and metadata update authorities and Token-2022 extensions with evidence addresses. It reports facts, not ratings.",
+      "verifiedOn": "2026-11-25",
+      "status": "live",
+      "path": "/api/a402-check-api"
+    },
+    {
+      "slug": "across",
+      "name": "Across",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Free API key by application only (team review, not self-serve). Rate limit enforced; number not published.",
+      "freePath": "unknown",
+      "transports": {
+        "rest": {
+          "status": "supported",
+          "sourceUrl": "https://docs.across.to/api-reference",
+          "notes": "The v1 transfer API requires a bearer key issued after review; public access pricing is not stated."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Transfer updates are documented via webhooks or REST polling."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Ethereum and supported L2s; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Blast",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.across.to",
+      "websiteUrl": "https://across.to",
+      "xProfileUrl": "https://x.com/AcrossProtocol",
+      "notes": "Intent-based bridge. The docs do not publish an API rate limit.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/across"
+    },
+    {
+      "slug": "allium",
+      "name": "Allium",
+      "category": "wallet",
+      "categoryLabel": "Wallet-level data",
+      "alsoServes": [
+        "analytics"
+      ],
+      "freeTier": "Free: 100 Explorer Units + 20,000 Developer Units on signup, then paid credits.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://app.allium.so/join",
+          "notes": "Sign-up grants 20,000 Developer Units; Allium's API Credits docs list REST wallet calls billed against them."
+        },
+        "websocket": {
+          "status": "supported",
+          "sourceUrl": "https://docs.allium.so/datastreams/websockets#apis-over-websockets",
+          "notes": "Developer API requests are available over WSS with an API key; signup credit eligibility is not specified."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Realtime APIs: 20+ chains incl. Solana; Explorer SQL: 100+ chains",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cosmos",
+        "Cardano",
+        "XRP Ledger",
+        "Stellar",
+        "Litecoin",
+        "Dogecoin",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.allium.so/ai/mcp/overview",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.allium.so/ai/machine-payments/x402",
+        "notes": "No key or signup: about $0.03 per wallet call in USDC, 3 req/s per wallet."
+      },
+      "pricingUrl": "https://app.allium.so/join",
+      "websiteUrl": "https://www.allium.so",
+      "xProfileUrl": "https://x.com/AlliumLabs",
+      "notes": "Also an analytics and data-warehouse platform. Signup needs a work email; personal email addresses are rejected.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/allium"
+    },
+    {
+      "slug": "alternative-me-fear-and-greed-index",
+      "name": "Alternative.me Fear and Greed Index",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Free keyless Fear & Greed Index API; attribution required next to displayed data, including commercial use. No numeric rate cap published on this page.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://alternative.me/crypto/fear-and-greed-index/#api",
+          "notes": "Public keyless GET /fng/; commercial use allowed with attribution next to the data."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Official docs describe the HTTP index endpoint and image widget."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Market-wide",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://alternative.me/crypto/fear-and-greed-index/",
+      "websiteUrl": "https://alternative.me/crypto/fear-and-greed-index/",
+      "xProfileUrl": null,
+      "notes": "Endpoint: https://api.alternative.me/fng/. No daily cap is published.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/alternative-me-fear-and-greed-index"
+    },
+    {
+      "slug": "ankr-web3-api",
+      "name": "Ankr Web3 API",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [
+        "wallet"
+      ],
+      "freeTier": "Public: about 1,800 req/min guaranteed. Freemium (sign in, no deposit): 200M API credits/month, Advanced API 50 req/min.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://www.ankr.com/docs/rpc-service/chains/chains-api/kava/cosmos-rest-methods/",
+          "notes": "Kava Cosmos LCD documents keyless GETs for account balances."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://www.ankr.com/docs/rpc-service/service-plans/",
+          "notes": "WebSocket is Premium-only; both Public and Freemium are HTTPS-only."
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Public 30+, Freemium 45+, Premium 80+",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "World Chain",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Polkadot",
+        "XRP Ledger",
+        "Stellar",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Sei",
+        "Monad",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://www.ankr.com/docs/agentic-rpc/agent-rpc-mcp/",
+        "endpoint": null,
+        "notes": "Agent RPC MCP: chain reads over Ankr RPC."
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://www.ankr.com/docs/agentic-rpc/agent-rpc-mcp/#pay-per-call-without-an-account",
+        "notes": null
+      },
+      "pricingUrl": "https://www.ankr.com/docs/rpc-service/service-plans/",
+      "websiteUrl": "https://www.ankr.com",
+      "xProfileUrl": "https://x.com/ankr",
+      "notes": "Public endpoints can slow under load. WebSocket is Premium only. An affiliate blog post describes points redeemable for credits, up to $100 per referral.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/ankr-web3-api"
+    },
+    {
+      "slug": "band-protocol",
+      "name": "Band Protocol",
+      "category": "oracle",
+      "categoryLabel": "Oracles",
+      "alsoServes": [],
+      "freeTier": "Free: read StdReferenceProxy price contracts on supported chains (gas only), or query BandChain's public REST endpoint with no key.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.bandchain.org/develop/band-cli-rest-endpoints",
+          "notes": "Public BandChain REST endpoints expose oracle requests, scripts, and price queries."
+        },
+        "websocket": {
+          "status": "supported",
+          "sourceUrl": "https://docs.bandchain.org/node-validators/yoda",
+          "notes": "BandChain uses the Tendermint RPC WebSocket for oracle transaction events."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "unknown",
+      "chains": "BandChain and supported consumer chains; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Cosmos",
+        "Celo",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.bandchain.org/develop/supported-blockchains",
+      "websiteUrl": "https://www.bandprotocol.com",
+      "xProfileUrl": "https://x.com/BandProtocol",
+      "notes": "",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/band-protocol"
+    },
+    {
+      "slug": "binance-public-market-data",
+      "name": "Binance public market data",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Public market data is keyless; REST limits are endpoint-weight-based per IP, not one universal request count. Query exchangeInfo for current limits.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://github.com/binance/binance-spot-api-docs/blob/master/faqs/market_data_only.md",
+          "notes": "The public market-data REST host requires no API key."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://github.com/binance/binance-spot-api-docs/blob/master/faqs/market_data_only.md",
+          "notes": "The public market-stream host is keyless; private user streams use a different host."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Binance venue markets",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://developers.binance.com/docs/binance-spot-api-docs/rest-api/limits",
+      "websiteUrl": "https://www.binance.com",
+      "xProfileUrl": "https://x.com/binance",
+      "notes": "Public tickers, books, and klines do not need a key. Trading and account endpoints do. Exchange terms apply.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/binance-public-market-data"
+    },
+    {
+      "slug": "birdeye",
+      "name": "Birdeye",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [
+        "wallet"
+      ],
+      "freeTier": "Standard (free): 30,000 CUs, 1 rps, limited data access, no overage.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://data.birdeye.so/docs/guides/payment/pricing",
+          "notes": "Standard includes a limited REST subset, 30,000 compute units per month, and 1 request per second."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://data.birdeye.so/docs/guides/payment/pricing",
+          "notes": "WebSocket starts at Premium in the documented plan comparison; Standard, Lite, and Starter exclude it."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Solana and other supported chains; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Sui",
+        "Aptos",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://data.birdeye.so/docs/agents/birdeye-mcp",
+        "endpoint": "https://mcp.birdeye.so/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://data.birdeye.so/docs/guides/payment/pricing",
+      "websiteUrl": "https://birdeye.so",
+      "xProfileUrl": "https://x.com/birdeye_data",
+      "notes": "Send the API key in the X-API-KEY header.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/birdeye"
+    },
+    {
+      "slug": "bitquery",
+      "name": "Bitquery",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [
+        "market",
+        "nft",
+        "wallet"
+      ],
+      "freeTier": "No standing free plan. Trial: 1,000 API points, 100 MCP credits, 2 streams, 17 stream-minutes, 0.2 GB. No card. Real-time only.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Pricing mentions REST; data endpoint docs show GraphQL, and the documented REST usage API is for billing."
+        },
+        "websocket": {
+          "status": "trial",
+          "sourceUrl": "https://docs.bitquery.io/docs/subscriptions/websockets/",
+          "notes": "Live GraphQL subscriptions; pricing lists a 7-day trial with up to two concurrent streams."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "40+ indexed; 10 core real-time chains on self-serve",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Arc",
+        "Robinhood Chain",
+        "Cosmos",
+        "Cardano",
+        "XRP Ledger",
+        "Litecoin",
+        "Dogecoin"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.bitquery.io/docs/mcp/mcp-server/",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://bitquery.io/pricing",
+      "websiteUrl": "https://bitquery.io",
+      "xProfileUrl": "https://x.com/Bitquery_io",
+      "notes": "Archive history is not in the trial. Trial length in days is not restated on the pricing hero. Partner program is application-only.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/bitquery"
+    },
+    {
+      "slug": "blockchair",
+      "name": "Blockchair",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "wallet",
+        "analytics",
+        "execution"
+      ],
+      "freeTier": "Free testing: 1,000 calls/day without an API key, for a few days; not documented as an unlimited-duration production tier.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://blockchair.com/api/plans",
+          "notes": "Keyless REST testing: 1,000 calls/day for a few days."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "unknown",
+      "chains": "Bitcoin, Bitcoin Cash, Litecoin, Dogecoin, Dash, Zcash, Ethereum, XRP Ledger, Cardano, Stellar and others; API docs and pricing disagree on total (14 vs 41)",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "TON",
+        "Polkadot",
+        "Cardano",
+        "XRP Ledger",
+        "Stellar",
+        "Litecoin",
+        "Dogecoin",
+        "Gnosis"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://blockchair.com/api",
+      "websiteUrl": "https://blockchair.com",
+      "xProfileUrl": "https://x.com/Blockchair",
+      "notes": "Keyless calls are for testing only, for a few days. A production free-plan cap is not published.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/blockchair"
+    },
+    {
+      "slug": "blockscout",
+      "name": "Blockscout",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "wallet",
+        "nft",
+        "rpc",
+        "analytics"
+      ],
+      "freeTier": "Free: 5 RPS, 100,000 credits/day. Default 20 credits/call, about 5,000 standard requests/day, reset midnight UTC.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.blockscout.com/rate-limits",
+          "notes": "Free key: 5 requests/s and 100,000 credits/day; most REST calls cost 20 credits."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://docs.blockscout.com/devs/apis/websocket-api#billing",
+          "notes": "Free-tier key works; 100 credits to connect, 10 per message. Disconnects when credits run out."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "100+ with one key",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Scroll",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Gnosis",
+        "Celo"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.blockscout.com/devs/mcp-server",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.blockscout.com/devs/x402-payments",
+        "notes": null
+      },
+      "pricingUrl": "https://docs.blockscout.com/rate-limits",
+      "websiteUrl": "https://www.blockscout.com",
+      "xProfileUrl": "https://x.com/blockscout",
+      "notes": "Get a key at https://dev.blockscout.com and call https://api.blockscout.com. Public explorer hosts can return a 403 bot challenge.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/blockscout"
+    },
+    {
+      "slug": "blockworks-data-api",
+      "name": "Blockworks Data API",
+      "category": "ecosystem",
+      "categoryLabel": "Ecosystem and chain",
+      "alsoServes": [
+        "analytics",
+        "market"
+      ],
+      "freeTier": "$100 (10,000 credits) for the REST API and MCP. One claim per account, expires after 30 days. No card or auto-renew.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://docs.blockworks.com/getting-started/data-api",
+          "notes": "The read-only REST API accepts the one-time credits; keyless catalog discovery does not include chain data queries."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "Multi-chain, including Solana and Hyperliquid; metrics vary by network.",
+      "chainList": [
+        "Solana",
+        "Hyperliquid"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.blockworks.com/mcp/overview",
+        "endpoint": "https://mcp.blockworks.com/mcp",
+        "notes": "Hosted MCP over HTTP. Sign in to connect; usage draws from the same credit balance as the API."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://app.blockworks.com/claim",
+      "websiteUrl": "https://blockworks.com/products/data",
+      "xProfileUrl": "https://x.com/Blockworks",
+      "notes": "Covers onchain activity, protocol fees and revenue, market data, fundraising, and token unlocks. Sign in to claim credits and get an API key. The public catalog is keyless, but queries for chain and asset data require a key.",
+      "verifiedOn": "2026-11-23",
+      "status": "live",
+      "path": "/api/blockworks-data-api"
+    },
+    {
+      "slug": "bloxroute-solana-aggregator",
+      "name": "bloXroute Solana Aggregator",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Free only on the public development endpoint (api-dev.blox.ag): no key or card, rate limited per IP. Production requires a paid, allowlisted bloXroute account and an authorization header.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.bloxroute.com/solana/aggregator",
+          "notes": "Free on https://api-dev.blox.ag only. The production API is paid and allowlisted."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Solana",
+      "chainList": [
+        "Solana"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": "https://docs.bloxroute.com/bloxroute-mcp",
+        "endpoint": null,
+        "notes": "Documentation MCP only; it does not return routes or execute swaps."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.bloxroute.com/solana/aggregator",
+      "websiteUrl": "https://bloxroute.com",
+      "xProfileUrl": "https://x.com/bloXroute",
+      "notes": "The development endpoint returns unsigned Solana swap transactions or instructions. No numeric development quota is published. Network and priority fees are separate; by default bloXroute charges no base swap fee and captures positive slippage.",
+      "verifiedOn": "2026-11-25",
+      "status": "live",
+      "path": "/api/bloxroute-solana-aggregator"
+    },
+    {
+      "slug": "chainalysis-sanctions-screening-api",
+      "name": "Chainalysis Sanctions Screening API",
+      "category": "security",
+      "categoryLabel": "Security and simulation",
+      "alsoServes": [],
+      "freeTier": "Sanctions screening API at public.chainalysis.com; API key required. Free access terms and a request cap are not confirmed on an official page.",
+      "freePath": "unknown",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "The 2022 launch post announced a free keyed API but did not document its HTTP interface."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Crypto addresses; chain-agnostic screening",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.chainalysis.com/product/address-screening/",
+      "websiteUrl": "https://www.chainalysis.com",
+      "xProfileUrl": "https://x.com/chainalysis",
+      "notes": "This is the sanctions screening surface, not the paid KYT or investigation suite. No official request cap is published.",
+      "verifiedOn": "2026-11-18",
+      "status": "live",
+      "path": "/api/chainalysis-sanctions-screening-api"
+    },
+    {
+      "slug": "chainlink",
+      "name": "Chainlink",
+      "category": "oracle",
+      "categoryLabel": "Oracles",
+      "alsoServes": [
+        "market"
+      ],
+      "freeTier": "Free: read Data Feeds contracts from any RPC with no key or signup; onchain reads cost only gas. Data Streams is a separate paid product.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Standard Data Feeds are read onchain; Data Streams is a separate product."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Standard Data Feeds are read onchain; Data Streams is a separate product."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Multi-chain feeds; confirm current list in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Starknet",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.chain.link/data-feeds/using-data-feeds",
+      "websiteUrl": "https://chain.link",
+      "xProfileUrl": "https://x.com/chainlink",
+      "notes": "Data Feeds are free to read onchain. Data Streams and Functions are separate products with their own pricing.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/chainlink"
+    },
+    {
+      "slug": "chainstack",
+      "name": "Chainstack",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [],
+      "freeTier": "Developer: 3,000,000 request units/month, 25 RPS, 1 project, $0.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.chainstack.com/reference/beacon-chain",
+          "notes": "Ethereum node deployments include Beacon REST; the Developer plan includes an Ethereum node."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://chainstack.com/pricing/",
+          "notes": "The Developer plan includes WebSocket endpoints."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "70+ chains",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Monad",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://chainstack.com/mcp/",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://chainstack.com/pricing/",
+      "websiteUrl": "https://chainstack.com",
+      "xProfileUrl": "https://x.com/ChainstackHQ",
+      "notes": "Referral 20% revenue share, reseller up to 30%: https://chainstack.com/partners/",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/chainstack"
+    },
+    {
+      "slug": "coinbase-cdp-node",
+      "name": "Coinbase CDP Node",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [],
+      "freeTier": "10M Billing Units free per month. After that, $0.50 per million BU. A payment method must be on file as of January 2026.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "CDP Node documents Base JSON-RPC; the broader CDP Data product has separate REST APIs."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Node Pricing lists eth_subscribe but does not identify a WebSocket transport."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "yes",
+      "chains": "Base Mainnet and Base Sepolia",
+      "chainList": [
+        "Base"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.cdp.coinbase.com/data/node/pricing",
+      "websiteUrl": "https://www.coinbase.com/developer-platform",
+      "xProfileUrl": "https://x.com/CoinbaseDev",
+      "notes": "The official pricing page lists 10M free Billing Units per month and requires a payment method on file. Standard methods cost 30 BU, enhanced 100 BU, advanced 500 BU.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/coinbase-cdp-node"
+    },
+    {
+      "slug": "coincap",
+      "name": "CoinCap",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Free: 500 credits/month, 5 API calls/min, no WebSocket; standard calls need an API key. Keyless agent endpoints pay per call via x402 (USDC on Base).",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://pro.coincap.io/api-docs",
+          "notes": "Free REST key includes 500 credits per month and 5 calls per minute, without expiry."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://pro.coincap.io/api-docs",
+          "notes": "WebSocket is included from Growth up and excluded on Free and Builder."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Market-wide",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://splash.coincap.io/mcp",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://rest.coincap.io/.well-known/x402.json",
+        "notes": "Keyless agent endpoints pay per call on Base mainnet."
+      },
+      "pricingUrl": "https://pro.coincap.io/api-docs",
+      "websiteUrl": "https://coincap.io",
+      "xProfileUrl": "https://x.com/CoinCap_io",
+      "notes": "",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/coincap"
+    },
+    {
+      "slug": "coingecko",
+      "name": "CoinGecko",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Demo: 10,000 call credits/month, 100 calls/min, attribution required. A keyless public API is also available at about 5 calls/min, shared by IP.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.coingecko.com/docs/keyless-public-api",
+          "notes": "Public market and onchain REST endpoints are keyless; a free Demo key raises limits."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://docs.coingecko.com/websocket",
+          "notes": "WebSocket requires a paid Basic plan or higher; free Demo is excluded."
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Market-wide; 360+ networks on paid plans",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.coingecko.com/ai-integration/mcp-server",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.coingecko.com/en/api/pricing",
+      "websiteUrl": "https://www.coingecko.com",
+      "xProfileUrl": "https://x.com/coingecko",
+      "notes": "Demo is not a full commercial licence.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/coingecko"
+    },
+    {
+      "slug": "coinmarketcap",
+      "name": "CoinMarketCap",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Basic: 15,000 credits/month, 50 req/min, no subscription, limited commercial use. Keyless public subset also exists.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://coinmarketcap.com/api/documentation/pro-api-reference/keyless-public-api",
+          "notes": "Keyless REST subset includes CEX and DEX market data, with shared IP-based limits."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://coinmarketcap.com/api/documentation/pro-api-websocket/overview/",
+          "notes": "WebSocket requires Startup or higher; the free Basic plan is excluded."
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "CEX and DEX market data",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://coinmarketcap.com/api/mcp/",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://coinmarketcap.com/api/documentation/ai-agent-hub/x402/",
+        "notes": null
+      },
+      "pricingUrl": "https://coinmarketcap.com/api/pricing/",
+      "websiteUrl": "https://coinmarketcap.com",
+      "xProfileUrl": "https://x.com/CoinMarketCap",
+      "notes": "Commercial use on Basic covers one product up to 100,000 users, no redistribution as a standalone data API. MCP and x402 are listed on official pages.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/coinmarketcap"
+    },
+    {
+      "slug": "coinpaprika",
+      "name": "Coinpaprika",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Free: 20,000 calls/month per IP, personal use only.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://coinpaprika.com/api/pricing",
+          "notes": "Keyless REST is free for personal use, up to 20,000 calls per month per IP."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://docs.coinpaprika.com/api-reference/streaming-api/streaming-introduction",
+          "notes": "Ticker WebSocket requires an Enterprise key; all other plans are excluded."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Market-wide, 2,000 assets on Free",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.coinpaprika.com/mcp-introduction",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://coinpaprika.com/api",
+      "websiteUrl": "https://coinpaprika.com",
+      "xProfileUrl": "https://x.com/coinpaprika",
+      "notes": "Commercial use starts at Starter $99/month. Fine for a personal hackathon project, not a commercial product on the free plan.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/coinpaprika"
+    },
+    {
+      "slug": "debridge",
+      "name": "deBridge",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Public DLN APIs: 50 requests per minute without a key; authenticated access: 300 requests per minute; each endpoint has a separate limit.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.debridge.com/dln-details/integration-guidelines/order-creation/authentication",
+          "notes": "Public DLN API allows 50 requests/min per endpoint without a key."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "unknown",
+      "chains": "Multi-chain; confirm current list in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "Linea",
+        "Abstract",
+        "Gnosis",
+        "Sonic",
+        "Berachain"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.debridge.com/dln-details/mcp/mcp-server",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.debridge.com/",
+      "websiteUrl": "https://debridge.com",
+      "xProfileUrl": "https://x.com/debridge",
+      "notes": "Cross-chain execution and bridging.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/debridge"
+    },
+    {
+      "slug": "defillama",
+      "name": "DefiLlama",
+      "category": "ecosystem",
+      "categoryLabel": "Ecosystem and chain",
+      "alsoServes": [
+        "market"
+      ],
+      "freeTier": "Keyless free API for many TVL endpoints. Numeric free rate limit not published. Yield /pools endpoints are deprecated and will shut down soon.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://api-docs.defillama.com/",
+          "notes": "The free API needs no key for GET /protocols and a subset of other resources."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Multi-chain protocols and chains",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": "Paid plan only: the MCP needs the DefiLlama API plan, not the keyless free API."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://api-docs.defillama.com/",
+      "websiteUrl": "https://defillama.com",
+      "xProfileUrl": "https://x.com/DefiLlama",
+      "notes": "MCP requires the API plan, not the keyless free API. Premium is listed at $300/month: https://defillama.com/subscription",
+      "verifiedOn": "2026-11-18",
+      "status": "live",
+      "path": "/api/defillama"
+    },
+    {
+      "slug": "dex-screener",
+      "name": "DEX Screener",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Keyless public API: pair lookup and pair search each documented at 300 requests/minute; profile, ads, boosts and paid-order endpoints at 60 requests/minute.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.dexscreener.com/api/reference",
+          "notes": "Public GET endpoints require no key; pair lookup and search are limited to 300 requests per minute."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://docs.dexscreener.com/api/websockets",
+          "notes": "Public WSS spec requires no key for token profiles, boosts, ads, and community takeovers."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Multi-chain DEX pairs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "no",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.dexscreener.com/api/reference",
+      "websiteUrl": "https://dexscreener.com",
+      "xProfileUrl": "https://x.com/dexscreener",
+      "notes": "",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/dex-screener"
+    },
+    {
+      "slug": "drpc",
+      "name": "dRPC",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [],
+      "freeTier": "Free: 50M CU/month, about 2.5M requests, 25 RPS. No archive, debug, or WebSocket on Free.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "paid",
+          "sourceUrl": "https://drpc.org/data-api",
+          "notes": "The REST Data API lists only paid PAYG and Enterprise options."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://drpc.org/docs/ethereum-api",
+          "notes": "Ethereum has a keyless public WebSocket. The separate account Free plan excludes WebSocket."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "Free is public nodes only; 120+ on paid plans",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cosmos",
+        "Polkadot",
+        "XRP Ledger",
+        "Stellar",
+        "Dogecoin",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://drpc.org/pricing",
+      "websiteUrl": "https://drpc.org",
+      "xProfileUrl": "https://x.com/dRPCorg",
+      "notes": "Free is a separate plan, not a fallback from paid.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/drpc"
+    },
+    {
+      "slug": "dune",
+      "name": "Dune",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [
+        "wallet"
+      ],
+      "freeTier": "Dashboards stay free. 7-day trial of paid features. Adding a card places a hold. Standing free API credits are not stated.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://docs.dune.com/api-reference/overview/billing",
+          "notes": "Data API access requires an active trial or paid plan; the free plan is view-only."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "WebSocket is documented for the separate Market Data Feeds product, not the analytics Data API."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "yes",
+      "chains": "Multi-chain; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Polkadot",
+        "Cardano",
+        "XRP Ledger",
+        "Stellar",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.dune.com/docs/agents/mcp",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://dune.com/pricing",
+      "websiteUrl": "https://dune.com",
+      "xProfileUrl": "https://x.com/Dune",
+      "notes": "Adding a card places a hold. No standing free API credit amount is published.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/dune"
+    },
+    {
+      "slug": "electric-capital-open-dev-data",
+      "name": "Electric Capital Open Dev Data",
+      "category": "ecosystem",
+      "categoryLabel": "Ecosystem and chain",
+      "alsoServes": [
+        "analytics"
+      ],
+      "freeTier": "Public Parquet datasets via opendevdata.org and the electric-capital/open-dev-data repo. This is downloadable data, not a documented REST API with a request quota.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "The product documents Parquet downloads, not a resource API."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Multi-ecosystem developer activity in the open datasets",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://opendevdata.org/",
+      "websiteUrl": "https://www.electriccapital.com",
+      "xProfileUrl": "https://x.com/ElectricCapital",
+      "notes": "There is no documented public REST API. This is an open dataset to download, not a call-ready endpoint.",
+      "verifiedOn": "2026-11-20",
+      "status": "datasets_only",
+      "path": "/api/electric-capital-open-dev-data"
+    },
+    {
+      "slug": "ens",
+      "name": "ENS",
+      "category": "identity",
+      "categoryLabel": "Identity and social",
+      "alsoServes": [],
+      "freeTier": "Free, no key: resolve names on-chain through any Ethereum RPC. ENS Labs' metadata service is free; no rate limit published.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.ens.domains/web/avatars/#the-metadata-service",
+          "notes": "ENS Labs runs a free, keyless avatar and NFT metadata service; core resolution is on-chain."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Ethereum",
+      "chainList": [
+        "Ethereum"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.ens.domains/web/avatars",
+      "websiteUrl": "https://ens.domains",
+      "xProfileUrl": "https://x.com/ensdomains",
+      "notes": "Resolution can go through public gateways or The Graph. No gateway rate limit is published.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/ens"
+    },
+    {
+      "slug": "envio",
+      "name": "Envio",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [
+        "wallet",
+        "rpc"
+      ],
+      "freeTier": "Free development: 3 indexers/org, 3 deployments/indexer; 30-day maximum lifetime and 20 GB hard storage limit. Soft deletion triggers at 100,000 events or 5 GB; 7-day grace then 24-hour warning. HyperSync Free uses a non-numeric fair-use rate limit; no monthly volume cap.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.envio.dev/docs/HyperSync/api-tokens",
+          "notes": "HyperSync has a keyless latest-block lookup; its Free package also issues tokens for JSON data queries."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://docs.envio.dev/docs/HyperIndex/websockets",
+          "notes": "WebSocket subscriptions work at your own risk on non-dedicated plans, including free Development."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "Any EVM-compatible chain, plus Solana and Fuel",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": "https://docs.envio.dev/mcp",
+        "endpoint": null,
+        "notes": "Documentation MCP only (docs search and fetch); it does not query blockchain data."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://envio.dev",
+      "websiteUrl": "https://envio.dev",
+      "xProfileUrl": "https://x.com/envio_indexer",
+      "notes": "Custom indexing and HyperSync data access.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/envio"
+    },
+    {
+      "slug": "ethbeat",
+      "name": "ETHBEAT (formerly L2BEAT)",
+      "category": "ecosystem",
+      "categoryLabel": "Ecosystem and chain",
+      "alsoServes": [
+        "analytics"
+      ],
+      "freeTier": "Free public JSON API, no key: scaling summary, TVS and activity. Rate limit not published.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://ethbeat.org/llms.txt",
+          "notes": "Public scaling summary, TVS, and activity resource endpoints are keyless."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Ethereum L2s and related Ethereum projects tracked by ETHBEAT",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Optimism",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://ethbeat.org/llms.txt",
+      "websiteUrl": "https://ethbeat.org",
+      "xProfileUrl": "https://x.com/ethbeat_org",
+      "notes": "L2BEAT rebranded as ETHBEAT on 4 Nov 2026. l2beat.com redirects to ethbeat.org. Official X account is @ethbeat_org.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/ethbeat"
+    },
+    {
+      "slug": "etherscan",
+      "name": "Etherscan",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "wallet",
+        "nft",
+        "rpc",
+        "market"
+      ],
+      "freeTier": "Free: 3 calls/s, 100,000 calls/day, selected chains, no PRO endpoints, no overage.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.etherscan.io/rate-limits",
+          "notes": "Free explorer API key: 3 calls/s, 100,000/day on selected chains; excludes PRO endpoints."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Selected chains only on Free",
+      "chainList": [
+        "Ethereum",
+        "Arbitrum",
+        "Polygon",
+        "Hyperliquid",
+        "Linea",
+        "Unichain",
+        "World Chain",
+        "Abstract",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.etherscan.io/build-with-ai/mcp",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.etherscan.io/rate-limits",
+      "websiteUrl": "https://etherscan.io",
+      "xProfileUrl": "https://x.com/etherscan",
+      "notes": "Daily cap enforcement note in the docs is dated 3 Nov 2026. Family explorers may differ.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/etherscan"
+    },
+    {
+      "slug": "fomoscan",
+      "name": "FomoScan",
+      "category": "identity",
+      "categoryLabel": "Identity and social",
+      "alsoServes": [
+        "wallet"
+      ],
+      "freeTier": "Official credits page: free credits after email verification, expire 30 days after claim, 60 req/min, no WebSockets. Wallet reveals on a free key are limited to a sample set of traders. The size of the free credit grant is not published on that page. Paid plans start at Starter $99/month and can be paid by card or crypto",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://docs.fomoscan.sh/concepts/credits",
+          "notes": "One-time credits expire in 30 days; sample wallet lookups cost no credits, but post-expiry access is unclear."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://docs.fomoscan.sh/concepts/credits#rate-limits-and-websocket-access",
+          "notes": "WebSocket requires Growth or higher on current plans; Free, Starter and Builder do not include it."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "Wallets and social-trading platforms FomoScan maps, including the FOMO app and Hyperliquid, plus others listed in docs",
+      "chainList": [
+        "Solana",
+        "Base",
+        "Hyperliquid",
+        "Robinhood Chain"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.fomoscan.sh/concepts/credits",
+      "websiteUrl": "https://www.fomoscan.sh",
+      "xProfileUrl": "https://x.com/fomoscansh",
+      "notes": "Not fomoscan.ai, which is a different trading-assistant site. The size of the free credit grant is not published. Check the partner terms before commercial use of the free credits.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/fomoscan"
+    },
+    {
+      "slug": "geckoterminal",
+      "name": "GeckoTerminal",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Official dex-api page: paid CoinGecko onchain plans raise limits 25x from 10 calls/min to 250 calls/min. Treat 10 calls/min as the public/free figure published on that page.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://api.geckoterminal.com/docs/index.html",
+          "notes": "Public onchain REST endpoints are keyless; the API reference states approximately 10 calls per minute."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "The public GeckoTerminal API documents HTTP endpoints; CoinGecko's WebSocket is a separate API."
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "DEXes on major chains covered by GeckoTerminal",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cardano",
+        "XRP Ledger",
+        "Stellar",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.geckoterminal.com/dex-api",
+      "websiteUrl": "https://www.geckoterminal.com",
+      "xProfileUrl": "https://x.com/GeckoTerminal",
+      "notes": "Same on-chain DEX data is also sold via CoinGecko API /onchain endpoints. Check attribution and licence terms on the official page before commercial use.",
+      "verifiedOn": "2026-11-18",
+      "status": "live",
+      "path": "/api/geckoterminal"
+    },
+    {
+      "slug": "getblock",
+      "name": "GetBlock",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [
+        "market",
+        "security"
+      ],
+      "freeTier": "Free: 50,000 CU/day, 20 RPS, 2 endpoints. Unused daily CUs do not roll over.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.getblock.io/api-reference/bitcoin-btc/bitcoin-rest-api/rest-block-notxdetails-bitcoin",
+          "notes": "Bitcoin resource GETs are included on the Free plan listed on the Bitcoin node page."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://getblock.io/pricing.md",
+          "notes": "The Free shared-node plan includes WebSockets on supported major networks."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "130+",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cosmos",
+        "Polkadot",
+        "Cardano",
+        "XRP Ledger",
+        "Stellar",
+        "Litecoin",
+        "Dogecoin",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.getblock.io/getting-started/getblock-mcp-server",
+        "endpoint": null,
+        "notes": "Manages RPC endpoints, tokens and account."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.getblock.io/getting-started/plans-and-limits/cu-and-rate-limits",
+      "websiteUrl": "https://getblock.io",
+      "xProfileUrl": "https://x.com/getblockio",
+      "notes": "Affiliate: up to 20% cash, $50 minimum withdrawal, https://getblock.io/affiliate-program/.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/getblock"
+    },
+    {
+      "slug": "goldrush",
+      "name": "GoldRush (Covalent)",
+      "category": "wallet",
+      "categoryLabel": "Wallet-level data",
+      "alsoServes": [
+        "nft",
+        "market",
+        "rpc"
+      ],
+      "freeTier": "14-day trial: 25,000 credits total, 4 req/s, no card. Then Vibe Coding is $10/month for 10,000 credits.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://goldrush.dev/pricing/",
+          "notes": "Foundational API has a 14-day trial with 25,000 credits and no card required."
+        },
+        "websocket": {
+          "status": "trial",
+          "sourceUrl": "https://goldrush.dev/docs/goldrush-hyperliquid/early-builders-program",
+          "notes": "Hyperliquid wallet fills over WSS; approved pre-revenue teams get credits redeemable over 12 months."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "100+",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Ink",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://goldrush.dev/docs/goldrush-mcp-server/",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://goldrush.dev/docs/goldrush-x402/overview",
+        "notes": "Base Sepolia testnet only; mainnet payments not yet supported."
+      },
+      "pricingUrl": "https://goldrush.dev/pricing/",
+      "websiteUrl": "https://goldrush.dev",
+      "xProfileUrl": "https://x.com/goldrushdev",
+      "notes": "Trial only, then paid. x402 pay-per-request is documented for Foundational endpoints on Base Sepolia (testnet only).",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/goldrush"
+    },
+    {
+      "slug": "goldsky",
+      "name": "Goldsky",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [
+        "rpc",
+        "wallet",
+        "market"
+      ],
+      "freeTier": "Official pricing: $100 one-time free credit for subgraphs, Turbo, and Feeds, no card to start. Starter subgraph rate limit 20 requests / 10 seconds. Credit does not reset monthly; infrastructure pauses when it runs out.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://docs.goldsky.com/feeds",
+          "notes": "REST access to Feeds is covered by the one-time $100 Starter credit (Goldsky pricing)."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Edge RPC explicitly uses HTTPS only; no WebSocket was verified for subgraphs, Turbo or Feeds."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "150+ chains on the Starter plan, per the pricing page",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "NEAR",
+        "Stellar",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.goldsky.com/mcp",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.goldsky.com/edge-rpc/capabilities/x402",
+        "notes": null
+      },
+      "pricingUrl": "https://goldsky.com/pricing",
+      "websiteUrl": "https://goldsky.com",
+      "xProfileUrl": "https://x.com/goldskyio",
+      "notes": "The 2 req/s figure is derived from the published 20 / 10s Starter subgraph limit. Compose is not in the free credit. This is a one-time credit, not an ongoing free plan.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/goldsky"
+    },
+    {
+      "slug": "goplus-security",
+      "name": "GoPlus Security",
+      "category": "security",
+      "categoryLabel": "Security and simulation",
+      "alsoServes": [],
+      "freeTier": "Free Version column: 150K CU/month, 30K CU/day, 150 CU/min. Batch not enabled on that column.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.gopluslabs.io/reference/tokensecurityusingget_1",
+          "notes": "Free Version on the Security API plan page covers single-token lookups; batch is excluded."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "unknown",
+      "chains": "EVM and Solana; confirm full list in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Abstract",
+        "Sui",
+        "TON",
+        "Gnosis",
+        "Sonic",
+        "Berachain",
+        "Cronos",
+        "Kaia",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://github.com/GoPlusSecurity/goplus-mcp",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.gopluslabs.io/reference/buy-cu-package.md",
+        "notes": null
+      },
+      "pricingUrl": "https://gopluslabs.io/en/security-api",
+      "websiteUrl": "https://gopluslabs.io",
+      "xProfileUrl": "https://x.com/GoPlusSecurity",
+      "notes": "The pricing table also lists a $199/month paid plan.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/goplus-security"
+    },
+    {
+      "slug": "growthepie",
+      "name": "growthepie",
+      "category": "ecosystem",
+      "categoryLabel": "Ecosystem and chain",
+      "alsoServes": [
+        "analytics",
+        "market"
+      ],
+      "freeTier": "Public keyless JSON API; usage guidance: do not exceed 10 calls/minute. Access/authentication rules may change.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.growthepie.com/api-reference/api/authentication",
+          "notes": "Keyless JSON GETs include chain and metric resources; public guidance is 10 calls/min."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Ethereum L2s tracked by growthepie",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Optimism",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Starknet"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.growthepie.com",
+      "websiteUrl": "https://www.growthepie.com",
+      "xProfileUrl": "https://x.com/growthepie_eth",
+      "notes": "Public-good L2 metrics.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/growthepie"
+    },
+    {
+      "slug": "hyperliquid",
+      "name": "Hyperliquid",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Public info endpoint is keyless. REST shares 1,200 weight/minute/IP: allMids/l2Book and certain account-state queries cost 2; userRole costs 60; other documented info queries cost 20, with response-size surcharges on listed history/trade endpoints and candleSnapshot.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "The public /info endpoint dispatches operations by JSON body type; it is not resource-style REST."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://hyperliquid.gitbook.io/hyperliquid-docs/for-developers/api/websocket",
+          "notes": "Public mainnet and testnet WSS support keyless market-data subscriptions."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Hyperliquid",
+      "chainList": [
+        "Hyperliquid"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "no",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://hyperliquid.gitbook.io/hyperliquid-docs/",
+      "websiteUrl": "https://hyperliquid.xyz",
+      "xProfileUrl": "https://x.com/HyperliquidX",
+      "notes": "Info and exchange endpoints are publicly documented.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/hyperliquid"
+    },
+    {
+      "slug": "infura",
+      "name": "Infura",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [],
+      "freeTier": "Core Free table: 3M credits/day, 500 credits/s, 1 key. FAQ on the same page still says 6M/day and 2,000 credits/s.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.infura.io/reference/gas-api/api-reference/",
+          "notes": "Infura Core Free pricing explicitly includes the Gas REST API."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://docs.infura.io/get-started/pricing/",
+          "notes": "WebSocket subscriptions and events draw from the daily credit quota, including Core Free."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "40+ networks",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "Starknet",
+        "Celo",
+        "Sei",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.infura.io/pricing",
+      "websiteUrl": "https://www.infura.io",
+      "xProfileUrl": "https://x.com/infura_io",
+      "notes": "The comparison table on the pricing page lists 3M credits/day and 500 credits/s; the FAQ on the same page still says 6M/day and 2,000 credits/s. Throughput is in credits per second, not raw requests.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/infura"
+    },
+    {
+      "slug": "ironflow",
+      "name": "Ironflow",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Non-commercial free access: keyless 30 requests/minute and 100 credits per rolling 24 hours per IP, with 24 hours of REST history. Free email key: 60 requests/minute, 1,000 credits per day and 3,000 credits per month, with 14 days of REST history. No card.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.ironflow.sh/concepts/rate-limits",
+          "notes": "Keyless and free-key REST access; trade and liquidation streams use Server-Sent Events."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Hyperliquid",
+      "chainList": [
+        "Hyperliquid"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.ironflow.sh/guides/ai-agents",
+        "endpoint": "https://mcp.ironflow.sh/mcp",
+        "notes": "Hosted MCP for Hyperliquid data; no key needed to start."
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.ironflow.sh/guides/pay-per-call",
+        "notes": "Optional paid per-call access in USDC on Base, separate from the free quotas."
+      },
+      "pricingUrl": "https://ironflow.sh/pricing",
+      "websiteUrl": "https://ironflow.sh",
+      "xProfileUrl": "https://x.com/ironflowsh",
+      "notes": "Hyperliquid trades, liquidations, funding, open interest and more. Keyless trades and liquidations are delayed 60 seconds. A standard read costs 1 credit, analytics 5, and SQL 10. Free-key SQL history is 30 days.",
+      "verifiedOn": "2026-11-25",
+      "status": "live",
+      "path": "/api/ironflow"
+    },
+    {
+      "slug": "kaiko",
+      "name": "Kaiko",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Enterprise custom pricing; request a trial/demo or quote from sales. No public self-serve free-tier quota verified.",
+      "freePath": "paid",
+      "transports": {
+        "rest": {
+          "status": "supported",
+          "sourceUrl": "https://docs.kaiko.com/rest-api/general/getting-started-new-api/authentication",
+          "notes": "REST requires a subscription-entitled key; Pricing and Licenses lists custom plans but no REST-specific trial terms."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Kaiko documents gRPC for its real-time streams."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "CEX and DEX venues covered by Kaiko; confirm in docs",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "no",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.kaiko.com",
+      "websiteUrl": "https://www.kaiko.com",
+      "xProfileUrl": "https://x.com/KaikoData",
+      "notes": "Institutional market-data vendor. No self-serve free plan is published.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/kaiko"
+    },
+    {
+      "slug": "kraken-public-market-data",
+      "name": "Kraken public market data",
+      "category": "market",
+      "categoryLabel": "Market and prices",
+      "alsoServes": [],
+      "freeTier": "Public REST/WebSocket market data requires no API key; rate limits depend on protocol/endpoint. Official CLI/MCP supports keyless market-data access.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://support.kraken.com/articles/360000919986-public-endpoint-examples-you-can-try-them-directly-in-a-web-browser-",
+          "notes": "Public historical and live REST market data requires no Kraken account."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://docs.kraken.com/exchange/api-reference/spot-websocket",
+          "notes": "Public spot market channels require no token; private channels use a separate authenticated host."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Kraken venue markets",
+      "chainList": [],
+      "allChains": true,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://github.com/krakenfx/kraken-cli",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.kraken.com/api/",
+      "websiteUrl": "https://www.kraken.com",
+      "xProfileUrl": "https://x.com/krakenfx",
+      "notes": "Exchange terms apply.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/kraken-public-market-data"
+    },
+    {
+      "slug": "kyberswap",
+      "name": "KyberSwap",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Public limits: Aggregator 3 requests/second, Limit Order 10/second, ZaaS 1/second, KyberCross 10 requests/10 seconds.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.kyberswap.com/developer-guide/start-here/rate-limits-and-client-id",
+          "notes": "Limit Order and ZaaS need no API key; public limits are 10 and 1 requests/sec, respectively."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Chains supported by KyberSwap; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "Sonic",
+        "Berachain",
+        "Monad",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.kyberswap.com/ai-agent-hub/mcp-server-for-hosted-agents",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.kyberswap.com",
+      "websiteUrl": "https://kyberswap.com",
+      "xProfileUrl": "https://x.com/KyberNetwork",
+      "notes": "The official X account is still @KyberNetwork.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/kyberswap"
+    },
+    {
+      "slug": "lens",
+      "name": "Lens",
+      "category": "identity",
+      "categoryLabel": "Identity and social",
+      "alsoServes": [],
+      "freeTier": "Lens API (api.lens.xyz/graphql) is free and keyless; numeric public limits not published, a Server API Key raises them. Lens Chain public RPC: 20/s, 2,000/min, 100,000/day.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "The documented Lens identity API uses GraphQL; Lens Chain RPC uses JSON-RPC."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://lens.xyz/docs/chain/resources/network-information",
+          "notes": "Keyless Lens Chain WebSocket RPC on mainnet and testnet; not the Lens identity API."
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Lens Chain (an Ethereum L2) and supported social apps",
+      "chainList": [
+        "Ethereum"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://lens.xyz/docs/chain/overview",
+      "websiteUrl": "https://www.lens.xyz",
+      "xProfileUrl": "https://x.com/LC",
+      "notes": "Official X account was renamed to @LC. The @LensProtocol handle now says 'Lens is now @LC' and is a redirect stub. Mask Network is stewarding Lens. Archived Aave-era materials are out of date.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/lens"
+    },
+    {
+      "slug": "li-fi",
+      "name": "LI.FI",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Standard: free to integrate, up to 200 req/min, free account required.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.li.fi/api-reference/rate-limits",
+          "notes": "Public routing endpoints work without a key; /quote allows 75 requests per two hours."
+        },
+        "websocket": {
+          "status": "supported",
+          "sourceUrl": "https://docs.li.fi/lifi-intents/for-solvers/orderflow#order-server-events",
+          "notes": "The Intents order stream has a keyless development demo; production access terms are unclear."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "Multi-chain DEX, solver, and bridge aggregation",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Sui",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Cronos",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.li.fi/mcp-server/overview",
+        "endpoint": "https://mcp.li.quest/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://li.fi/plans",
+      "websiteUrl": "https://li.fi",
+      "xProfileUrl": "https://x.com/lifiprotocol",
+      "notes": "Enterprise is about volume, support, and fee discounts, not a different API surface on the plans page.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/li-fi"
+    },
+    {
+      "slug": "mempool-space",
+      "name": "mempool.space",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "wallet",
+        "execution",
+        "analytics"
+      ],
+      "freeTier": "Free public REST and WebSocket API, no key. Rate limits enforced (HTTP 429); numbers not published.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://mempool.space/docs/api/rest",
+          "notes": "Public, keyless Bitcoin data endpoints; rate limits apply."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://mempool.space/docs/api/websocket",
+          "notes": "Public, keyless Bitcoin event socket; address tracking and other usage limits apply."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Bitcoin",
+      "chainList": [
+        "Bitcoin"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://mempool.space/docs/api/rest",
+      "websiteUrl": "https://mempool.space",
+      "xProfileUrl": "https://x.com/mempool",
+      "notes": "Excellent for Bitcoin fees, blocks, and addresses. Cache aggressively and do not hammer the public instance.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/mempool-space"
+    },
+    {
+      "slug": "mobula",
+      "name": "Mobula",
+      "category": "wallet",
+      "categoryLabel": "Wallet-level data",
+      "alsoServes": [
+        "market"
+      ],
+      "freeTier": "Free: 10,000 credits/month, 1 RPS. Keyless demo API (demo-api.mobula.io) for testing.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.mobula.io/pricing",
+          "notes": "Free API key includes 10,000 monthly credits at 1 request per second, including wallet REST calls."
+        },
+        "websocket": {
+          "status": "paid",
+          "sourceUrl": "https://docs.mobula.io/pricing",
+          "notes": "WSS feeds are listed only on Growth and Enterprise, not Free or Start-up."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Multi-chain; confirm current list in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "Abstract",
+        "Sui",
+        "TON",
+        "Gnosis",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "no",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.mobula.io/changelog",
+        "notes": "Agent endpoints under /agent/x402."
+      },
+      "pricingUrl": "https://docs.mobula.io/pricing",
+      "websiteUrl": "https://mobula.io",
+      "xProfileUrl": "https://x.com/Mobulaio",
+      "notes": "Also sells market and trading data.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/mobula"
+    },
+    {
+      "slug": "moralis",
+      "name": "Moralis",
+      "category": "wallet",
+      "categoryLabel": "Wallet-level data",
+      "alsoServes": [
+        "nft",
+        "rpc"
+      ],
+      "freeTier": "No standing free Data API plan. Request a trial. Paid API starts at $149/month (2M CU, 40 RPS).",
+      "freePath": "paid",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://docs.moralis.com/data-api/pricing",
+          "notes": "Data API has a request-only free trial and no self-serve free plan."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "The Wallet Data API uses REST. WebSocket is documented for the separate RPC Nodes product."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "All networks on API plans",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Robinhood Chain",
+        "Linea",
+        "Gnosis",
+        "Sei",
+        "Monad",
+        "Cronos"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "no",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "no",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://moralis.com/pricing",
+      "websiteUrl": "https://moralis.com",
+      "xProfileUrl": "https://x.com/moralisdevs",
+      "notes": "Data Feeds Starter is $10/month and does not include the Data API. The 30% lifetime offer is for Moralis Money, not this API.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/moralis"
+    },
+    {
+      "slug": "nansen",
+      "name": "Nansen",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [
+        "wallet"
+      ],
+      "freeTier": "Free: 100 one-time trial credits; thereafter a daily top-up restores included balance to 10 credits if below 10 (not an additive 10/day grant).",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.nansen.ai/getting-started/credits",
+          "notes": "Free plan starts with 100 credits, then tops up the included balance to 10 daily if lower."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "38 networks including Ethereum, Base, Arbitrum, BNB Chain and Solana; 14 retire Nov 25, 2026, six more Feb 1, 2027",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "TON",
+        "Sonic",
+        "Sei"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.nansen.ai/mcp/overview",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.nansen.ai/getting-started/agentic-payments/x402-payments",
+        "notes": null
+      },
+      "pricingUrl": "https://www.nansen.ai",
+      "websiteUrl": "https://www.nansen.ai",
+      "xProfileUrl": "https://x.com/nansen_ai",
+      "notes": "Research add-on for both analytics and wallet intelligence. Official handle is @nansen_ai. The @nansen account is a different person.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/nansen"
+    },
+    {
+      "slug": "neynar",
+      "name": "Neynar",
+      "category": "identity",
+      "categoryLabel": "Identity and social",
+      "alsoServes": [],
+      "freeTier": "Free: 10M credits/month, 600 RPM per endpoint, 1,000 RPM global, 10 webhooks, 5 apps (confirmed; Starter/Growth plans no longer sold, next tier Scale $249/mo)",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.neynar.com/reference/what-are-the-rate-limits-on-neynar-apis",
+          "notes": "Free includes read/write APIs, 10M credits/month and 600 requests/min per endpoint."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Real-time guides document webhooks and hub gRPC streaming, not WebSocket."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Farcaster, plus Ethereum and Solana address enrichment",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Optimism"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": "https://docs.neynar.com/mcp",
+        "endpoint": null,
+        "notes": "Docs-search MCP for building with Neynar, not a data-query MCP."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.neynar.com/reference/what-are-the-rate-limits-on-neynar-apis",
+      "websiteUrl": "https://neynar.com",
+      "xProfileUrl": "https://x.com/neynarxyz",
+      "notes": "Rate limits and credits are independent. Card requirement is not stated. Context also on https://neynar.com/developer",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/neynar"
+    },
+    {
+      "slug": "nownodes",
+      "name": "NOWNodes",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [
+        "wallet",
+        "market"
+      ],
+      "freeTier": "Start: 100,000 requests/month, 1 API key.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://nownodes.io/blockbook",
+          "notes": "Blockbook REST is included on Start; the NOWNodes FAQ says Start is free for one month."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://nownodes.io/public-endpoints",
+          "notes": "Keyless public WebSocket access is advertised; private WSS endpoints require a paid plan."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "120+ networks",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cosmos",
+        "Polkadot",
+        "Cardano",
+        "XRP Ledger",
+        "Stellar",
+        "Litecoin",
+        "Dogecoin",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://nownodes.io/llms.txt",
+        "endpoint": null,
+        "notes": "Docs, method discovery and request generation."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://nownodes.io/pricing",
+      "websiteUrl": "https://nownodes.io",
+      "xProfileUrl": "https://x.com/NOWNodes",
+      "notes": "MCP Servers appear in the pricing table; Start inclusion was not clear. Affiliate: 5% crypto or 10% credit for 6 months, https://nownodes.io/affiliate-program",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/nownodes"
+    },
+    {
+      "slug": "opensea",
+      "name": "OpenSea",
+      "category": "nft",
+      "categoryLabel": "NFT",
+      "alsoServes": [],
+      "freeTier": "Instant free-tier key, no signup: 600 reads/hour, 30 writes/hour, 5 fulfillments/min. Replace the key after 7 days.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.opensea.io/reference/api-keys",
+          "notes": "Instant REST keys are free, expire after 7 days, and can be replaced with another free key."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://docs.opensea.io/docs/stream-real-time-events",
+          "notes": "Marketplace stream accepts the instant key; API keys docs say to replace it after 7 days."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "OpenSea-supported chains; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Blast",
+        "Unichain",
+        "Zora",
+        "Abstract",
+        "Berachain",
+        "Sei"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.opensea.io/reference/mcp",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.opensea.io/docs/x402",
+        "notes": null
+      },
+      "pricingUrl": "https://docs.opensea.io/reference/api-keys",
+      "websiteUrl": "https://opensea.io",
+      "xProfileUrl": "https://x.com/opensea",
+      "notes": "Mint via POST https://api.opensea.io/api/v2/auth/keys. Honour rate-limit headers; group limits can be tighter. OpenSea recommends a full key for higher-throughput production use.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/opensea"
+    },
+    {
+      "slug": "publicnode",
+      "name": "PublicNode",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [],
+      "freeTier": "Free public RPC on 77 chains, no key or signup. Rate limits enforced (HTTP 429); numbers not published.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://cosmos.publicnode.com/",
+          "notes": "Cosmos has a keyless public REST endpoint."
+        },
+        "websocket": {
+          "status": "free",
+          "sourceUrl": "https://cosmos.publicnode.com/",
+          "notes": "Cosmos has a keyless public WebSocket endpoint."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Many networks, including Ethereum, Solana, Polygon and Base",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "Linea",
+        "Scroll",
+        "Mantle",
+        "Unichain",
+        "Ink",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "Cosmos",
+        "Polkadot",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Cronos"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.publicnode.com/terms",
+      "websiteUrl": "https://www.publicnode.com",
+      "xProfileUrl": "https://x.com/Allnodes",
+      "notes": "Operated by Allnodes. Useful as a backup public endpoint, not as a documented production SLA.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/publicnode"
+    },
+    {
+      "slug": "pyth",
+      "name": "Pyth",
+      "category": "oracle",
+      "categoryLabel": "Oracles",
+      "alsoServes": [
+        "market"
+      ],
+      "freeTier": "Free: sponsored push feeds on Ethereum, Solana, Sui, Optimism, Monad and others can be read onchain with no key, and update fees are 0. The Hermes API has required a Pyth API key since Aug 26, 2026, and free Hermes price API access is trial-only. Paid API plans start at $500/month.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.pyth.network/pro/api/rest#endpoints",
+          "notes": "Pyth Pro symbol lookup is keyless; Hermes price updates require a key from the trial or a paid plan."
+        },
+        "websocket": {
+          "status": "trial",
+          "sourceUrl": "https://docs.pyth.network/pro/acquire-api-key",
+          "notes": "The Pyth Terminal trial key works for Pro WebSocket; the ongoing free plan has no streaming API access."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "100+ chains (EVM, Solana, Sui and more); sponsored push feeds on select networks",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cosmos",
+        "Cardano",
+        "Stellar",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.pyth.network/pro/build-with-ai-agents",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.pyth.network/pricing",
+      "websiteUrl": "https://www.pyth.network",
+      "xProfileUrl": "https://x.com/PythNetwork",
+      "notes": "Pricing page: the Free plan is view-only in Pyth Terminal with no API access; Starter ($500/month) and Pro (from $2,500/month) include API keys. Pyth Pro has no hard rate limits; limits come from your subscription. Hosted MCP at mcp.pyth.network/mcp: feed search works without a key, price tools need a Pro key. Onchain contracts are permissionless.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/pyth"
+    },
+    {
+      "slug": "quicknode",
+      "name": "QuickNode",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [
+        "wallet",
+        "nft",
+        "analytics"
+      ],
+      "freeTier": "x402: 1M free API credits per wallet per month, shared with MPP. Standard RPC trial (1 month): 10M API credits, 15 req/s.",
+      "freePath": "trial",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://www.quicknode.com/docs/cosmos",
+          "notes": "Cosmos LCD REST is available through a node endpoint; pricing lists a one-month trial."
+        },
+        "websocket": {
+          "status": "trial",
+          "sourceUrl": "https://www.quicknode.com/docs/ethereum/eth_subscribe",
+          "notes": "Ethereum node WSS subscriptions are available on the one-month trial listed on pricing."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "75+ chains, including Ethereum, Solana, Base and Bitcoin",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "NEAR",
+        "Cosmos",
+        "Polkadot",
+        "XRP Ledger",
+        "Stellar",
+        "Litecoin",
+        "Dogecoin",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://www.quicknode.com/mcp",
+        "endpoint": null,
+        "notes": "Manages QuickNode infrastructure (endpoints, usage); not a market-data MCP."
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://www.quicknode.com/docs/build-with-ai/x402-payments#pricing",
+        "notes": "Each wallet gets 1 million free API credits per month, shared across x402 and MPP. A standard RPC call uses one credit; no QuickNode account or API key is required.",
+        "free": {
+          "summary": "x402: 1M free API credits per wallet per month, shared with MPP.",
+          "key": "no",
+          "card": "no"
+        }
+      },
+      "pricingUrl": "https://www.quicknode.com/pricing",
+      "websiteUrl": "https://www.quicknode.com",
+      "xProfileUrl": "https://x.com/Quicknode",
+      "notes": "",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/quicknode"
+    },
+    {
+      "slug": "redstone",
+      "name": "RedStone",
+      "category": "oracle",
+      "categoryLabel": "Oracles",
+      "alsoServes": [],
+      "freeTier": "Free to read push feeds already deployed onchain (gas only). The pull model needs a RedStone API key for its gateway; no public free quota is published.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "supported",
+          "sourceUrl": "https://docs.redstone.finance/docs/stage1-market-data/price-feeds/pull-model/#authenticated-gateways",
+          "notes": "Pull-model gateway serves signed data packages over HTTP; API key required, pricing not stated."
+        },
+        "websocket": {
+          "status": "supported",
+          "sourceUrl": "https://docs.redstone.finance/docs/stage1-market-data/live/api-reference/",
+          "notes": "RedStone Live streams prices and signed packages over WebSocket; key required, pricing not stated."
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "unknown",
+      "chains": "Multi-chain; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Hyperliquid",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "Ink",
+        "Starknet",
+        "Sui",
+        "Aptos",
+        "TON",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.redstone.finance/docs/stage1-market-data/price-feeds/pull-model/",
+      "websiteUrl": "https://www.redstone.finance",
+      "xProfileUrl": "https://x.com/redstone_defi",
+      "notes": "Limits depend on the integration path: push feeds are read onchain, the pull model goes through the RedStone gateway.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/redstone"
+    },
+    {
+      "slug": "relay",
+      "name": "Relay",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Default self-serve limits per App: quotes 50 requests/minute, requests 100/minute, and other listed endpoints 200/minute; the docs do not label these as a priced free tier.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.relay.link/references/api/get-chains",
+          "notes": "Chain and currency metadata are keyless; swap quotes require an API key."
+        },
+        "websocket": {
+          "status": "supported",
+          "sourceUrl": "https://docs.relay.link/references/api/api_guides/websockets#authentication",
+          "notes": "Intent status WebSocket uses an API key; WebSocket pricing is not stated."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Major EVM chains plus Bitcoin, Solana, Tron, Eclipse, and more.",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "Arc",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.relay.link/resources/developing-with-ai",
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.relay.link",
+      "websiteUrl": "https://relay.link",
+      "xProfileUrl": "https://x.com/RelayProtocol",
+      "notes": "Cross-chain execution API.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/relay"
+    },
+    {
+      "slug": "rift",
+      "name": "RIFT",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Keyless cross-chain swap API: 1 request/second, no card. RIFT adds no fee; network and execution costs still apply.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://www.rift.trade/docs/integration/quickstart",
+          "notes": "HTTP quotes and orders work without an API key at 1 request/second; executing a swap requires funding the order."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Ethereum, Bitcoin, Base, Arbitrum, Polygon, Hyperliquid, Robinhood Chain, Ink, Plasma",
+      "chainList": [
+        "Ethereum",
+        "Bitcoin",
+        "Base",
+        "Arbitrum",
+        "Polygon",
+        "Hyperliquid",
+        "Robinhood Chain",
+        "Ink",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.rift.trade/docs/faq",
+      "websiteUrl": "https://www.rift.trade",
+      "xProfileUrl": "https://x.com/rifthq",
+      "notes": "Quotes show estimated execution costs. Integrators can optionally charge their own fee; contact RIFT for an API key for higher limits.",
+      "verifiedOn": "2026-11-25",
+      "status": "live",
+      "path": "/api/rift"
+    },
+    {
+      "slug": "routescan",
+      "name": "Routescan",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "rpc",
+        "wallet",
+        "market",
+        "analytics"
+      ],
+      "freeTier": "Free keyless: 2 requests/s, 10,000 calls/day; registered Free: 5 requests/s, 100,000 calls/day. Free RPC key: eth_* only, 1 RU/s and 86,400 RU/day.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.routescan.io/plans-and-limits/rate-limits",
+          "notes": "Indexed data API: keyless 2 requests/s and 10,000/day; free key raises limits to 5/s and 100,000/day."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Archive RPC is explicitly HTTP-only; Streams documents webhooks, queues and storage destinations."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "EVM networks including Ethereum, Avalanche C-Chain, Mantle and FIFA Blockchain; coverage varies by product",
+      "chainList": [
+        "Ethereum",
+        "Avalanche",
+        "Mantle"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": null,
+        "endpoint": "https://mcp.routescan.io/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://routescan.io/documentation",
+      "websiteUrl": "https://routescan.io",
+      "xProfileUrl": "https://x.com/routescan_io",
+      "notes": "Use @routescan_io, not the empty @RouteScan stub.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/routescan"
+    },
+    {
+      "slug": "sns",
+      "name": "SNS (Solana Name Service)",
+      "category": "identity",
+      "categoryLabel": "Identity and social",
+      "alsoServes": [],
+      "freeTier": "Free, no key: use the SDK with any Solana RPC, or the experimental REST proxy. No rate limit published.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://github.com/SolanaNameService/sns-sdk/tree/main/sdk-proxy",
+          "notes": "SNS's experimental production REST proxy documents keyless domain, owner and record lookups."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Solana",
+      "chainList": [
+        "Solana"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://github.com/SolanaNameService/sns-sdk/tree/main/sdk-proxy",
+      "websiteUrl": "https://www.sns.id",
+      "xProfileUrl": "https://x.com/sns",
+      "notes": "Official X account is @sns (sns.sol). Bonfida historically built SNS; @bonfida still exists but is not the current official product handle.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/sns"
+    },
+    {
+      "slug": "socket-bungee",
+      "name": "Socket / Bungee",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Free. Public endpoint needs no key (shared limit, for testing). Free production key on request: 20 req/s.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.socket.tech/integrate/get-api-access#public-endpoint",
+          "notes": "Socket Swap V3 is keyless for testing and prototyping; production access is separate."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "Multi-chain bridges and DEX routes supported by Socket; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Robinhood Chain",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "Gnosis",
+        "Sonic"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.socket.tech/integrate/get-api-access",
+      "websiteUrl": "https://docs.socket.tech",
+      "xProfileUrl": "https://x.com/SOCKETProtocol",
+      "notes": "Socket is the API; Bungee is the consumer app (official X: @BungeeExchange).",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/socket-bungee"
+    },
+    {
+      "slug": "solscan",
+      "name": "Solscan",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "wallet",
+        "nft",
+        "market",
+        "analytics"
+      ],
+      "freeTier": "Free Level 1 key with a Solscan account: network and analytics endpoints plus a demo tool set, tight limits. Paid from $49/month.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://pro-api.solscan.io/pro-api-docs/v2.0/reference/chaininfo",
+          "notes": "Public chain-information REST endpoint is keyless; separate Pro endpoints use a key."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Solana",
+      "chainList": [
+        "Solana"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.solscan.io/build-with-ai/solscan-mcp",
+        "endpoint": "https://public-mcp.solscan.io/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.solscan.io",
+      "websiteUrl": "https://solscan.io",
+      "xProfileUrl": "https://x.com/solscanofficial",
+      "notes": "Use @solscanofficial. The bare @solscan handle was not found.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/solscan"
+    },
+    {
+      "slug": "sqd",
+      "name": "SQD",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [
+        "wallet",
+        "explorer"
+      ],
+      "freeTier": "Public Portal: free, no setup/key; 20 requests per 10 seconds. Published future Public plan: ~0.1 MB/s and ~50 MB/month; Testing: ~0.5 MB/s, ~1 GB/month, one chain. Billing is not live: future table is not the current enforced monthly quota. Non-commercial development/evaluation only.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.sqd.dev/en/portal/introduction/portal-api",
+          "notes": "Portal pricing lists a keyless, rate-limited Public plan for development and evaluation."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Portal streams JSON Lines over HTTP; the separately self-hosted Spray client is not Portal."
+        }
+      },
+      "keyRequired": "optional",
+      "cardRequired": "no",
+      "chains": "110+ networks: EVM, Solana, Substrate, Bitcoin, TRON, Hyperliquid",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Polkadot",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad",
+        "Cronos",
+        "Plasma"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.sqd.dev/en/ai/mcp-server",
+        "endpoint": "https://portal.sqd.dev/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.sqd.ai",
+      "websiteUrl": "https://www.sqd.ai",
+      "xProfileUrl": "https://x.com/helloSQD",
+      "notes": "Formerly Subsquid.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/sqd"
+    },
+    {
+      "slug": "subscan",
+      "name": "Subscan",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "wallet",
+        "analytics"
+      ],
+      "freeTier": "No new direct free keys. New free access is via eligible PubFi :free routes, with per-route live free_rate_limit; no universal current numeric free quota published in Subscan docs.",
+      "freePath": "paid",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://support.subscan.io/doc-360177",
+          "notes": "Eligible Subscan routes are free with a PubFi key and :free suffix; new direct Subscan keys require a paid plan."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Polkadot, Kusama, and other Substrate networks Subscan supports",
+      "chainList": [
+        "Polkadot"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": "https://support.subscan.io/doc-360177",
+        "endpoint": null,
+        "notes": "Documentation MCP only, not an onchain data MCP."
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://pro.subscan.io/pricing",
+        "notes": null
+      },
+      "pricingUrl": "https://support.subscan.io",
+      "websiteUrl": "https://www.subscan.io",
+      "xProfileUrl": "https://x.com/subscan_io",
+      "notes": "New free access uses a PubFi Bearer key and eligible :free gateway routes; Subscan no longer issues new direct free API keys. Direct Subscan paid plans use X-API-Key on network-specific hosts; credentials are not interchangeable.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/subscan"
+    },
+    {
+      "slug": "tatum",
+      "name": "Tatum",
+      "category": "rpc",
+      "categoryLabel": "RPC and node",
+      "alsoServes": [
+        "wallet",
+        "nft",
+        "market"
+      ],
+      "freeTier": "Free Plan: 100,000 lifetime credits, 3 req/s on full nodes, 2 API keys.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "trial",
+          "sourceUrl": "https://docs.tatum.io/reference/getting-started",
+          "notes": "Tatum REST calls use credits; Pricing lists 100K lifetime credits on the Free plan."
+        },
+        "websocket": {
+          "status": "supported",
+          "sourceUrl": "https://docs.tatum.io/docs/websocket-event-subscriptions",
+          "notes": "WebSocket messages use credits; the docs do not specify access on the Free plan."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "no",
+      "chains": "Named networks in the RPC support matrix, including Ethereum, Bitcoin, Solana and Polygon",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "TRON",
+        "Hyperliquid",
+        "zkSync",
+        "Unichain",
+        "Sui",
+        "TON",
+        "Cosmos",
+        "Polkadot",
+        "Cardano",
+        "XRP Ledger",
+        "Stellar",
+        "Litecoin",
+        "Dogecoin",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Monad",
+        "Cronos",
+        "Kaia"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://tatum.io/mcp",
+        "endpoint": null,
+        "notes": "Needs a Tatum API key."
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.tatum.io/docs/plans-limits",
+      "websiteUrl": "https://tatum.io",
+      "xProfileUrl": "https://x.com/tatum_io",
+      "notes": "Partner program exists; public commission rate was not published. https://tatum.io/partner-program",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/tatum"
+    },
+    {
+      "slug": "the-graph-subgraph-studio",
+      "name": "The Graph Subgraph Studio",
+      "category": "analytics",
+      "categoryLabel": "Analytics and indexing",
+      "alsoServes": [
+        "nft"
+      ],
+      "freeTier": "First 100,000 monthly queries are free, then $2 per 100,000.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "no",
+          "sourceUrl": "https://thegraph.com/docs/en/subgraphs/querying/from-an-application/",
+          "notes": "Studio exposes subgraph queries as GraphQL; the published Network query endpoint is GraphQL too."
+        },
+        "websocket": {
+          "status": "no",
+          "sourceUrl": "https://github.com/graphprotocol/graph-node/pull/5836",
+          "notes": "Subgraph subscriptions are unavailable on The Graph Network; Graph Node removed its WebSocket server."
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "60+ networks",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Bitcoin",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Arc",
+        "zkSync",
+        "Linea",
+        "Scroll",
+        "Blast",
+        "Mantle",
+        "Unichain",
+        "World Chain",
+        "Zora",
+        "Ink",
+        "Abstract",
+        "Starknet",
+        "NEAR",
+        "Gnosis",
+        "Celo",
+        "Sonic",
+        "Berachain",
+        "Sei",
+        "Monad"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://thegraph.com/docs/en/subgraphs/tooling/subgraph-mcp/introduction/",
+        "endpoint": null,
+        "notes": "Subgraph MCP: query subgraphs, not a general chain API."
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://thegraph.com/docs/en/subgraphs/tooling/x402-payments/",
+        "notes": null
+      },
+      "pricingUrl": "https://thegraph.com/studio-pricing/",
+      "websiteUrl": "https://thegraph.com",
+      "xProfileUrl": "https://x.com/graphprotocol",
+      "notes": "This is Studio query billing, not a general RPC. Card requirement is not stated. Pay by card or crypto.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/the-graph-subgraph-studio"
+    },
+    {
+      "slug": "tronscan",
+      "name": "TRONSCAN",
+      "category": "explorer",
+      "categoryLabel": "Explorers",
+      "alsoServes": [
+        "wallet",
+        "analytics",
+        "security"
+      ],
+      "freeTier": "An API key is required for Mainnet endpoints; keyless access is severely limited and not QPS-guaranteed. The numeric free-key quota is not published in the reviewed docs.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.tronscan.org/en/api/common-network-auth",
+          "notes": "Shasta and Nile REST are keyless. Mainnet docs require a key for normal access; some calls remain rate-limited without one."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "TRON",
+      "chainList": [
+        "TRON"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": null,
+        "endpoint": "https://mcp.tronscan.org/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://tronscan.org",
+      "websiteUrl": "https://tronscan.org",
+      "xProfileUrl": "https://x.com/TRONSCAN_ORG",
+      "notes": "",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/tronscan"
+    },
+    {
+      "slug": "uma",
+      "name": "UMA",
+      "category": "oracle",
+      "categoryLabel": "Oracles",
+      "alsoServes": [],
+      "freeTier": "Free: no API fees, key or signup. You post a bond plus gas when asserting data onchain; disputes are settled by UMA token holders.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Oracle interactions are onchain; UMA’s indexed data is available through a GraphQL subgraph."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "Oracle interactions are onchain; UMA’s indexed data is available through a GraphQL subgraph."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "Chains the optimistic oracle supports; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Blast",
+        "Gnosis"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "unknown",
+        "docsUrl": null,
+        "endpoint": null,
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://docs.uma.xyz",
+      "websiteUrl": "https://uma.xyz",
+      "xProfileUrl": "https://x.com/UMAprotocol",
+      "notes": "Useful for resolution and verification, including prediction markets. It is not a price-tick REST API.",
+      "verifiedOn": "2026-11-22",
+      "status": "live",
+      "path": "/api/uma"
+    },
+    {
+      "slug": "velora",
+      "name": "Velora (formerly ParaSwap)",
+      "category": "execution",
+      "categoryLabel": "Swaps and execution",
+      "alsoServes": [],
+      "freeTier": "Free tier: 1 request per second and 5,000 requests per day; no API key or signup required.",
+      "freePath": "keyless",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://www.velora.xyz/docs/integrate/rate-limits",
+          "notes": "Free REST tier allows 1 request/sec and 5,000 requests/day without a key."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": "The market-maker WebSocket is hosted by the integrator, not Velora."
+        }
+      },
+      "keyRequired": "no",
+      "cardRequired": "no",
+      "chains": "EVM chains supported by Velora; confirm in docs",
+      "chainList": [
+        "Ethereum",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Avalanche",
+        "Unichain",
+        "Gnosis",
+        "Sonic"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://www.velora.xyz/docs/for-agents/mcp-server/installation",
+        "endpoint": "https://ai.velora.xyz/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "unknown",
+        "url": null,
+        "notes": null
+      },
+      "pricingUrl": "https://www.velora.xyz/docs",
+      "websiteUrl": "https://www.velora.xyz",
+      "xProfileUrl": "https://x.com/VeloraDEX",
+      "notes": "ParaSwap rebranded as Velora. Use the current Velora docs and @VeloraDEX, not legacy ParaSwap-only materials, for limits.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/velora"
+    },
+    {
+      "slug": "webacy",
+      "name": "Webacy",
+      "category": "security",
+      "categoryLabel": "Security and simulation",
+      "alsoServes": [],
+      "freeTier": "Free Demo plan: 500 requests/month, 1 request/second, burst capacity 2; endpoint access depends on plan.",
+      "freePath": "ongoing",
+      "transports": {
+        "rest": {
+          "status": "free",
+          "sourceUrl": "https://docs.webacy.com/rate-limits",
+          "notes": "Free Demo API key: 500 requests per month, up to 1 request per second; endpoint access varies."
+        },
+        "websocket": {
+          "status": "unknown",
+          "sourceUrl": null,
+          "notes": null
+        }
+      },
+      "keyRequired": "yes",
+      "cardRequired": "unknown",
+      "chains": "Confirm current chain list in docs",
+      "chainList": [
+        "Ethereum",
+        "Solana",
+        "Base",
+        "BNB Chain",
+        "Arbitrum",
+        "Polygon",
+        "Optimism",
+        "Robinhood Chain",
+        "Sui",
+        "TON",
+        "Stellar"
+      ],
+      "allChains": false,
+      "mcp": {
+        "status": "yes",
+        "docsUrl": "https://docs.webacy.com/integrations/mcp-server",
+        "endpoint": "https://api.webacy.com/mcp",
+        "notes": null
+      },
+      "x402": {
+        "status": "yes",
+        "url": "https://docs.webacy.com/x402-payments.md",
+        "notes": null
+      },
+      "pricingUrl": "https://docs.webacy.com/introduction",
+      "websiteUrl": "https://www.webacy.com",
+      "xProfileUrl": "https://x.com/mywebacy",
+      "notes": "Wallet and address risk scoring.",
+      "verifiedOn": "2026-11-20",
+      "status": "live",
+      "path": "/api/webacy"
+    }
+  ]
+}

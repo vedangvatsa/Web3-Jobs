@@ -52,6 +52,11 @@ export const MAIN_NAV_LINKS: NavLinkItem[] = [
 export const SITELINK_NAVIGATION_ITEMS: { label: string; href: string; description: string }[] = [
   { label: 'Web3 Jobs', href: '/', description: 'Verified Web3, crypto, DeFi, and blockchain job openings.' },
   { label: 'Web3 Grants', href: '/grants', description: getGrantsSitelinkDescription() },
+  {
+    label: 'Free Crypto APIs',
+    href: '/free-apis',
+    description: 'Compare free tiers for RPC, market data, and swap APIs (from freecryptoAPIs).',
+  },
   { label: 'Web3 Companies', href: '/companies', description: 'Directory of top Web3 companies, protocols, and crypto startups.' },
   { label: 'Web3 Events', href: '/events', description: 'Global Web3 conferences, hackathons, and crypto summits.' },
   { label: 'Web3 News', href: '/news', description: 'Curated crypto news and blockchain industry developments.' },
@@ -65,6 +70,7 @@ export const RESOURCE_LINKS: NavLinkItem[] = [
   { href: '/developers', label: 'Developers & APIs', icon: Code2, description: 'OpenAPI, static /data catalogs, and RSS feeds for integrators.' },
   { href: '/resources', label: 'All Resources', icon: ListChecks },
   { href: '/grants', label: 'Grants & Perks', icon: DollarSign },
+  { href: '/free-apis', label: 'Free Crypto APIs', icon: Code2, description: 'Compare free tiers for RPC, market data, and execution APIs (via freecryptoAPIs).' },
   { href: '/top100', label: 'Top 100 Companies', icon: Trophy },
   { href: '/companies', label: 'Companies', icon: Building2 },
   { href: '/learn', label: 'Learn Web3', icon: GraduationCap },

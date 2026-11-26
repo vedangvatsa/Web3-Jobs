@@ -145,6 +145,7 @@ export default function ResourcesPage() {
                 <ToolCard href="/nomads" label="Digital Nomad Cities" description="Explore destinations, rank and compare cities, and find stays and workspaces on the map." />
                 <ToolCard href="/visas" label="Visas & passport entry" description="Browse longer-stay program references and short-visit passport requirements." />
                 <ToolCard href="/citizenship" label="Citizenship by investment" description="Compare selected investment routes, additional costs and official sources." />
+                <ToolCard href="/free-apis" label="Free Crypto APIs" description="Browse free tiers for RPC, market data, wallets, and swap APIs (from freecryptoAPIs)." />
               </div>
             </section>
             {/* For Job Seekers */}

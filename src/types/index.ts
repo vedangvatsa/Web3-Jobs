@@ -203,6 +203,35 @@ export interface GrantUrlLive {
   error?: string;
 }
 
+export interface FreeCryptoApiCategory {
+  slug: string;
+  label: string;
+}
+
+export interface FreeCryptoApiCatalog {
+  verifiedOn: string;
+  categories: FreeCryptoApiCategory[];
+  listings: FreeCryptoApiListing[];
+}
+
+export interface FreeCryptoApiListing {
+  slug: string;
+  name: string;
+  category: string;
+  categoryLabel: string;
+  freeTier: string;
+  freePath: string;
+  keyRequired?: string;
+  cardRequired?: string;
+  chains?: string;
+  mcp?: { status: string };
+  x402?: { status: string };
+  websiteUrl?: string;
+  path: string;
+  notes?: string;
+  alsoServes?: string[];
+}
+
 export interface GrantProgram {
   id: string;
   name: string;

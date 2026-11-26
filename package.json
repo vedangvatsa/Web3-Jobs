@@ -43,6 +43,7 @@
     "test:catalog-recovery": "tsx scripts/test-catalog-recovery.ts && tsx scripts/test-news-cache.ts && tsx scripts/test-job-by-slug-fallback.ts",
     "test:site-catalog-integrity": "tsx scripts/test-site-catalog-integrity.ts",
     "verify:grants-liveness": "tsx scripts/verify-grant-liveness.ts",
+    "sync:free-crypto-apis": "npx tsx scripts/sync-free-crypto-apis.ts",
     "prune:thin-grants": "tsx scripts/prune-thin-grants.ts",
     "prune:closed-grants": "tsx scripts/prune-closed-grants.ts",
     "verify:grant-applications": "tsx scripts/verify-grant-applications.ts",

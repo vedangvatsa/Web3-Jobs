@@ -139,6 +139,12 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
       description: getGrantsOgDiscoverDescription(),
       ogImageUrl: STATIC_OG.grants,
     },
+    '/free-apis': {
+      title: normalizePreviewTitle('Free Crypto APIs'),
+      description:
+        'Browse crypto data, RPC, and execution APIs with documented free tiers. Filter by category, keyless access, MCP, and x402.',
+      ogImageUrl: STATIC_OG.tools,
+    },
     '/blog': {
       title: `Web3 Career Playbook | ${SITE_NAME}`,
       description: 'Practical guides, salary data, and career advice for Web3 professionals.',
