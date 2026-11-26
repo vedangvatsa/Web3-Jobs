@@ -10772,5 +10772,19 @@
       "cryptomondays-bahamas-launch",
       "discovery-evt-pb7tg5mtkromfwr"
     ]
+  },
+  "luma-evt-hrybBLtJ4Gzmaba": {
+    "until": "2027-11-26T13:03:52.532Z",
+    "slugs": [
+      "ethereum-meetup-tokyo-vol-26",
+      "luma-evt-hrybbltj4gzmaba"
+    ]
+  },
+  "discovery-evt-angHOkD4gtGuepG": {
+    "until": "2027-11-26T13:03:52.532Z",
+    "slugs": [
+      "mariblock-house-moonshot-edition",
+      "discovery-evt-anghokd4gtguepg"
+    ]
   }
 }

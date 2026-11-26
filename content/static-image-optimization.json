@@ -309,10 +309,6 @@
       "sha256": "ace3a6fea9d7206adcb7baed756feb1bf9e6b1172d63e58cb61564c1481f6ed4",
       "status": "optimized"
     },
-    "/events/discovery-evt-anghokd4gtguepg-122f72e1.webp": {
-      "sha256": "4e54c532483a0d3f7696a792a0199ef18ec40dfdde1a2bb1015a6cc9c6303346",
-      "status": "optimized"
-    },
     "/events/discovery-evt-ay6cwqlqysslxar-747bb260.webp": {
       "sha256": "3cb09b5ef407e6249f37ec73b88960cb5e4d0d2a4afd724bc10316a5908e93b6",
       "status": "optimized"
@@ -5177,10 +5173,6 @@
       "sha256": "4df63c9183961568d287f3254e39a9810dab4b5ea10c05163d2e4315917ca602",
       "status": "optimized"
     },
-    "/events/luma-evt-hrybbltj4gzmaba-02df5745.webp": {
-      "sha256": "b82b28670640dca3bcdd2be420b4a1a249e170e4e81a20cdb38ea71849301e2e",
-      "status": "optimized"
-    },
     "/events/luma-evt-htsldg5t7f8behw-4f1f7e8c.webp": {
       "sha256": "8db5f43343babdabcf76df6577c47a5c42fd77fa3c98597a0a6c1cad3fb7208c",
       "status": "optimized"
@@ -6589,20 +6581,12 @@
       "sha256": "7f1f14f48ef9e49c2429dcfea0bdfa1dc1e7d6a43233fb2834fdff97a18e6db4",
       "status": "optimized"
     },
-    "/events/luma-host-evt-evt-tagdaghwfv42w8q-63cc849b.webp": {
-      "sha256": "c6631bdbf904aa1ec606eeb27ccefdcfee55d1af18f9ef0f6900914f931edabf",
-      "status": "optimized"
-    },
     "/events/luma-host-evt-evt-thsqqmrxcbu5xtp-7a1ce414.webp": {
       "sha256": "93fbd6f586438f29c26a38aa8c50bc751c3250ea28da4e867cb63303efe8c45c",
       "status": "optimized"
     },
     "/events/luma-host-evt-evt-ulpt5krflf0blpj-d43b73ff.webp": {
       "sha256": "fdb212ea7971c516e4726ffb8a19cb89561f12946f2412c5c4290b6095024885",
-      "status": "optimized"
-    },
-    "/events/luma-host-evt-evt-uzcnvxglxoq26if-1754ed95.webp": {
-      "sha256": "6600b7bc1036868baad396d28e61f5427688bf0a4487fbf663e3f3f5a8831fa1",
       "status": "optimized"
     },
     "/events/luma-host-evt-evt-vr1svuyrnt6x5ge-a72e63e0.webp": {
@@ -6623,10 +6607,6 @@
     },
     "/events/luma-host-evt-evt-wgbuddnjwj1bdrw-20e5aa8b.webp": {
       "sha256": "b1852b0bffcfa09820ab1f0aaa09e9249ae83c54be51bc41f095274ae7f89df4",
-      "status": "optimized"
-    },
-    "/events/luma-host-evt-evt-xdzrcpdha2tj2qu-5304594f.webp": {
-      "sha256": "2522b4707e3069012b05971033ac715c5bf78dae17c3a22196aa394182dda98d",
       "status": "optimized"
     },
     "/events/luma-host-evt-evt-xflgrc1xaitk7as-8988802e.webp": {
@@ -6668,14 +6648,6 @@
     "/events/ma-blockchain-futurist-conference-2027-f4df6639.webp": {
       "sha256": "347d6190a03bfb2d038505c857914bdbf02b06aa489d0d58082298e27fea1e9c",
       "status": "optimized"
-    },
-    "/events/ma-blockchain-life-2027-e20cf0e9.webp": {
-      "sha256": "9875f4d141db7d98bbb74f3792f6361632942c452cf2a08b642cfd6f25416501",
-      "status": "retained"
-    },
-    "/events/ma-blockchain-life-c96ab12f.webp": {
-      "sha256": "9875f4d141db7d98bbb74f3792f6361632942c452cf2a08b642cfd6f25416501",
-      "status": "retained"
     },
     "/events/ma-blockchain-rio-2027-d028793b.webp": {
       "sha256": "663b60d3c1d19bf278a60b45b72fc2d34bac84212d1a8e88d91020bc976df92a",
@@ -7063,10 +7035,6 @@
     },
     "/events/mu-317065057-7b0cdf1d.webp": {
       "sha256": "3753f52f2a0adf26c9569a49650f1a298e64b58bf55626d75a8ba32a179fb896",
-      "status": "retained"
-    },
-    "/events/mu-317065466-cbbb101f.webp": {
-      "sha256": "e678d7135e430a2c400c543a11ac58fae3a8c84312fa757f9f4d8e74b077de67",
       "status": "retained"
     },
     "/events/mu-317068147-b1b69d07.webp": {

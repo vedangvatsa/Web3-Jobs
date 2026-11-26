@@ -4593,44 +4593,6 @@
       }
     },
     {
-      "id": "luma-evt-hrybBLtJ4Gzmaba",
-      "name": "Ethereum Meetup Tokyo Vol.26",
-      "startDate": "2026-10-27T19:30:00+09:00",
-      "endDate": "2026-10-27T21:30:00+09:00",
-      "timezone": "Asia/Tokyo",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-hrybBLtJ4Gzmaba",
-      "url": "https://luma.com/lw4cn2jv",
-      "lane": "asia-africa",
-      "reason": "Source events-cache.json contains this exact event with an empty description; absent from runtime. Enrich the existing record rather than create a new identity.",
-      "evidence": [
-        {
-          "url": "https://luma.com/lw4cn2jv",
-          "fetchedAt": "2026-10-20T08:04:01.862Z",
-          "excerpt": "日時: 2026年10月27日 (火) 19:15 開場 / 19:30 開始 / 21:30 終了. 会場: Meets Port(東京都文京区後楽1-3-61 東京ドームシティ内). 参加費: 無料(事前登録制). 主催: Fracton Ventures. 受付時に名刺をご用意ください. Session A: Ethereum Protocol Update; Session B: DeFi Gateway (Nyx Foundation); 20:30 Q&A. event.visibility=public; geo_address_visibility=public.",
-          "representation": "Public primary-page copy and embedded event fields; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:45.116Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/16/98574691-1bbe-416f-a5ca-ccdf65c94d8e.png",
-        "fetchedAt": "2026-10-20T09:49:47.556Z",
-        "status": 200,
-        "local": "/events/luma-evt-hrybbltj4gzmaba-02df5745.webp",
-        "sourceSha256": "4916a82712342253e00b4c49bdf42210a68dc9d1df3c0c5b80310928d95733a6",
-        "sha256": "36927edffa7be779debbdc49536bd99520e5ebc6504638c89c13439b3c32ffb7",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 45442
-      }
-    },
-    {
       "id": "luma-evt-nRvFLfwAHjMqMTo",
       "name": "Bitcoin dev day in traditional Korea",
       "startDate": "2026-11-04T10:00:00+09:00",
@@ -4976,44 +4938,6 @@
         "width": 1600,
         "height": 1600,
         "bytes": 58926
-      }
-    },
-    {
-      "id": "discovery-evt-angHOkD4gtGuepG",
-      "name": "Mariblock House: Moonshot Edition",
-      "startDate": "2026-10-27T10:00:00+01:00",
-      "endDate": "2026-10-27T12:00:00+01:00",
-      "timezone": "Africa/Lagos",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-angHOkD4gtGuepG",
-      "url": "https://luma.com/1q9pykam",
-      "lane": "asia-africa",
-      "reason": "No inventory identity match. Primary verifies a public editorial event with approval-required attendance. Exact venue remains restricted.",
-      "evidence": [
-        {
-          "url": "https://luma.com/1q9pykam",
-          "fetchedAt": "2026-10-20T08:05:29.938Z",
-          "excerpt": "Mariblock House is a live news event where our editors interview the people shaping Africa's blockchain and digital-asset industry, on the record and on camera. Topics: crypto trading and exchanges; stablecoins, payments and access to dollars; liquidity; local-currency stablecoins and tokenization; investment and regulation. start_at=2026-10-27T09:00:00.000Z; end_at=2026-10-27T11:00:00.000Z; timezone=Africa/Lagos; visibility=public; geo_address_visibility=guests-only; require_approval=true.",
-          "representation": "Public primary-page copy and embedded event fields; selected excerpts"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:51.724Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/9s/1a2b366a-b93d-4f8b-a29a-00d9460cb962.png",
-        "fetchedAt": "2026-10-20T09:49:52.348Z",
-        "status": 200,
-        "local": "/events/discovery-evt-anghokd4gtguepg-122f72e1.webp",
-        "sourceSha256": "3f29f441418db963f33e1968e4ff96f658635298ba16ff42f523f52ff4933ae3",
-        "sha256": "0113a86045f458664a21df77119c5659c860302518b27f3a37d75911e1aa027e",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 70656
       }
     },
     {
@@ -9169,12 +9093,6 @@
       "lane": "asia-africa"
     },
     {
-      "url": "https://luma.com/lw4cn2jv",
-      "result": "verified-existing-unpublished",
-      "note": "Tokyo event has an empty source description; primary supplies agenda, venue and business-card requirement.",
-      "lane": "asia-africa"
-    },
-    {
       "url": "https://luma.com/1pmwtapp",
       "result": "verified-existing-unpublished",
       "note": "Seoul developer day has an empty source description; primary supplies talks, breakouts, cultural visit and public venue.",
@@ -9262,12 +9180,6 @@
       "url": "https://luma.com/n35ilz33",
       "result": "verified-new",
       "note": "31 October SuiHub/Linq technical and merchant-payment demonstrations; public registration.",
-      "lane": "asia-africa"
-    },
-    {
-      "url": "https://luma.com/1q9pykam",
-      "result": "verified-new",
-      "note": "27 October Mariblock editorial interviews on African digital assets; approval required, city only.",
       "lane": "asia-africa"
     },
     {

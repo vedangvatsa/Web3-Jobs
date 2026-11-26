@@ -973,7 +973,7 @@
     "country": "UAE",
     "location": "Festival Arena, Dubai, UAE",
     "url": "https://blockchain-life.com/",
-    "coverImage": "/events/ma-blockchain-life-c96ab12f.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "December 2026"
   },
@@ -2343,7 +2343,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3121,7 +3121,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -3240,7 +3240,7 @@
     "country": "UAE",
     "location": "Dubai, UAE",
     "url": "https://blockchain-life.com/",
-    "coverImage": "/events/ma-blockchain-life-2027-e20cf0e9.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "December 2027"
   },
@@ -3288,14 +3288,14 @@
   {
     "id": "luma-host-evt-evt-uZcNvXgLxoQ26if",
     "name": "Superteam India Poker Night",
-    "description": "Superteam India Poker Night\n\nJoin us for an evening of poker, competition, and community on Nomad Poker.\n\nCompete against fellow Superteam members for a prize pool worth 500 Devnet SOL and earn some serious bragging rights along the way.\n\n500 SOL (Devnet) Prize Pool + Free Pizza 🃏 Hosted on Nomad Poker (https://www.nomadpoker.fun/) Compete. Win. Claim the bragging rights.\n\nTry it here https://www.nomadpoker.fun/\n\nShuffle up. Deal in.",
-    "startDate": "2026-11-14T16:00:00.000Z",
-    "endDate": "2026-11-14T17:00:00.000Z",
+    "description": "",
+    "startDate": "2026-11-28T16:00:00.000Z",
+    "endDate": "2026-11-28T17:00:00.000Z",
     "city": "",
     "country": "",
     "location": "TBA",
     "url": "https://luma.com/stin-pokernight",
-    "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-1754ed95.webp",
+    "coverImage": "/events/luma-host-evt-evt-uzcnvxglxoq26if-1b3b957f.webp",
     "source": "luma-trusted",
     "month": "November 2026"
   },
@@ -4341,20 +4341,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-host-evt-evt-xdzRCPDhA2Tj2QU",
-    "name": "Superteam India Coworking Days (BOM)",
-    "description": "An IRL space for connecting, locking in, and building at the frontier of the Solana network, exclusively for Superteam India members, in collaboration with ALTR (https://bookaltr.com/).\n\nThese coworking days are for developers, founders, designers, and operators who are working in the Solana ecosystem. Every Wednesday in Mumbai. invite-only for select folks and Superteam India members.",
-    "startDate": "2026-10-27T07:00:00.000Z",
-    "endDate": "2026-10-27T12:30:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://luma.com/IRL-coworking",
-    "coverImage": "/events/luma-host-evt-evt-xdzrcpdha2tj2qu-5304594f.webp",
-    "source": "luma-trusted",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-aIh5owwCOVedwMw",
     "name": "Superteam Poland Co-work: Kraków",
     "description": "A Superteam Poland coworking session for working on projects alongside local developers, designers and Solana enthusiasts. Participants can exchange ideas and discuss grants, jobs and hackathons. Host approval is required.",
@@ -5030,82 +5016,6 @@
       "addressLocality": "Seattle",
       "addressCountry": "US",
       "location": "Big Time Brewery back room, 4133 University Wy NE, Seattle, WA 98105, USA"
-    }
-  },
-  {
-    "name": "Ethereum Meetup Tokyo Vol.26",
-    "description": "Fracton Ventures hosts a Japanese-language Ethereum meetup covering the Glamsterdam and Hegota upgrade plans, Soneium's proposed IP-licensing standard and institutional DeFi access. The announced schedule includes a protocol update, a Nyx Foundation session on DeFi Gateway, Q&A and informal discussion. Doors open at 19:15. Attendance is free with advance\n\nregistration, and the organizer requires a business card at check-in.",
-    "startDate": "2026-10-27T19:30:00+09:00",
-    "endDate": "2026-10-27T21:30:00+09:00",
-    "timezone": "Asia/Tokyo",
-    "city": "Tokyo",
-    "country": "Japan",
-    "location": "enXross DAO, Meets Port 4F, 1-3-61 Koraku, Bunkyo City, Tokyo, Japan",
-    "venueName": "enXross DAO, Meets Port 4F",
-    "streetAddress": "1-3-61 Koraku, Meets Port 4F",
-    "addressLocality": "Bunkyo City",
-    "addressRegion": "Tokyo",
-    "postalCode": "112-8575",
-    "addressCountry": "JP",
-    "organizer": {
-      "type": "Organization",
-      "name": "Fracton Ventures",
-      "url": "https://luma.com/fractonventures"
-    },
-    "approvalRequired": false,
-    "locationHidden": false,
-    "visibility": "public",
-    "attendanceMode": "offline",
-    "coverImage": "/events/luma-evt-hrybbltj4gzmaba-02df5745.webp",
-    "sourceVerification": {
-      "url": "https://luma.com/lw4cn2jv",
-      "eventId": "evt-hrybBLtJ4Gzmaba",
-      "fetchedAt": "2026-10-20T09:30:45.116Z",
-      "method": "luma-page"
-    },
-    "registrationAvailability": "open",
-    "price": "Free",
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/lw4cn2jv",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "hosts": [
-      "Fracton Ventures"
-    ],
-    "descriptionSource": {
-      "url": "https://luma.com/lw4cn2jv",
-      "fetchedAt": "2026-10-20T09:30:45.116Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Ethereum Meetup Tokyo Vol.26 · Luma",
-      "sha256": "78e95bb52443e11d189874ca2ee4484c9ed321179e7dbe0179db6a0f98e45b18",
-      "evidence": [
-        {
-          "url": "https://luma.com/lw4cn2jv",
-          "fetchedAt": "2026-10-20T09:30:45.116Z",
-          "sha256": "255ef26bd40001af919d784ae81b7a1ef8c1da4ad96c944ea079f67d26c6d970",
-          "retrievedVia": "Public primary HTTP response",
-          "representation": "html"
-        }
-      ]
-    },
-    "id": "luma-evt-hrybBLtJ4Gzmaba",
-    "url": "https://luma.com/lw4cn2jv",
-    "registrationUrl": "https://luma.com/lw4cn2jv",
-    "source": "curated-reviewed",
-    "venueAddressSource": {
-      "checkedAt": "2026-10-20T09:30:45.116Z",
-      "urls": [
-        "https://luma.com/lw4cn2jv"
-      ],
-      "venueName": "enXross DAO, Meets Port 4F",
-      "streetAddress": "1-3-61 Koraku, Meets Port 4F",
-      "addressLocality": "Bunkyo City",
-      "addressCountry": "JP",
-      "location": "enXross DAO, Meets Port 4F, 1-3-61 Koraku, Bunkyo City, Tokyo, Japan"
     }
   },
   {
@@ -10630,8 +10540,8 @@
     "city": "Dubai",
     "country": "United Arab Emirates",
     "location": "Dubai, United Arab Emirates",
-    "url": "https://luma.com/SolanaMuayThaiSupeweek",
-    "coverImage": "/events/luma-host-evt-evt-tagdaghwfv42w8q-63cc849b.webp",
+    "url": "https://luma.com/SolanaMuayThaiSuperweek",
+    "coverImage": "/events/luma-host-evt-evt-tagdaghwfv42w8q-21dae2e7.webp",
     "source": "luma-trusted",
     "month": "December 2026"
   },
@@ -17085,7 +16995,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
+    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -19090,21 +19000,21 @@
   {
     "id": "mu-317065466",
     "name": ".NET Conf 2026 Spokane",
-    "description": "The Spokane.\n\nNET User Group is hosting a local.\n\nNET Conf again to review the new features of C# and what you can look forward to!\n\nC# 15 is here, bringing new type‐system capabilities, safer patterns,",
+    "description": "The Spokane .NET User Group is hosting a local .NET Conf again to review the new features of C# and what you can look forward to!\n\nC# 15 is here, bringing new type‑system capabilities, safer patterns,",
     "startDate": "2026-12-01T17:00:00-08:00",
     "endDate": "2026-12-01T17:00:00-08:00",
     "city": "Spokane",
     "country": "us",
     "location": "Spokane, us",
     "url": "https://www.meetup.com/spokane-net-user-group/events/317065466/",
-    "coverImage": "/events/mu-317065466-cbbb101f.webp",
+    "coverImage": null,
     "source": "meetup",
     "month": "December 2026"
   },
   {
     "id": "mu-317454504",
     "name": "The Basics of Options: From Definitions to Your First Trade ",
-    "description": "Traders of all levels are welcome to join and learn! **Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
+    "description": "**Traders of all levels are welcome to join and learn!**\n\n**Options are the most strategic and dynamic product to trade because they allow the most flexibility and cost-efficiency. However, learning t",
     "startDate": "2026-12-05T08:00:00-08:00",
     "endDate": "2026-12-05T08:00:00-08:00",
     "city": "",
@@ -20234,16 +20144,19 @@
   {
     "id": "mu-317272174",
     "name": "ZK Learning Group: Wrap-up 2026, ZK order book matching",
-    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development. During the year we will systematically explore different aspects of zero",
+    "description": "ZK Learning Group: Wrap-up 2026, ZK order book matching\n\nA learning group for zero knowledge and SNARK application development.\nDuring the year we will systematically explore different aspects of zero",
     "startDate": "2026-12-10T09:00:00-08:00",
     "endDate": "2026-12-10T09:00:00-08:00",
     "city": "",
     "country": "",
     "location": "Online",
     "url": "https://www.meetup.com/lfdt-seattle-chapter/events/317272174/",
-    "coverImage": null,
+    "coverImage": "/events/mu-317272174-638b4a68.webp",
     "source": "meetup",
-    "month": "December 2026"
+    "month": "December 2026",
+    "speakers": [
+      "Daniel Szego"
+    ]
   },
   {
     "id": "luma-evt-Yb4F1Nl4DJrQJlC",
@@ -25818,5 +25731,19 @@
     "coverImage": "/events/eb-2005480199262-a3e81bfd.webp",
     "source": "eventbrite",
     "month": "January 2027"
+  },
+  {
+    "id": "luma-evt-3aU0Ml4AlQXlL3y",
+    "name": "Free Coworking Day & Open House at DCTRL – Connect with Vancouver AI & Blockchain Builders",
+    "description": "",
+    "startDate": "2026-11-27T17:00:00.000Z",
+    "endDate": "2026-11-28T01:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/5j6mdynj",
+    "coverImage": "/events/luma-evt-3au0ml4alqxll3y-985f1978.webp",
+    "source": "luma",
+    "month": "November 2026"
   }
 ]
