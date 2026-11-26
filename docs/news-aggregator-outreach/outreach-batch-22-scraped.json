@@ -1,0 +1,68 @@
+{
+  "dispatchedAt": "2026-11-26T10:44:55.000Z",
+  "total": 10,
+  "delivered": 10,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Bits & Pretzels",
+      "email": "hello@bitsandpretzels.com",
+      "deliveryId": "01a21775-3a03-72bb-a0b4-de8d3f181b8b",
+      "status": "delivered"
+    },
+    {
+      "name": "Slush News",
+      "email": "hello@slush.org",
+      "deliveryId": "01a21775-3d08-760a-882d-0f3d8dca0e50",
+      "status": "delivered"
+    },
+    {
+      "name": "South Summit",
+      "email": "info@southsummit.io",
+      "deliveryId": "01a21775-3fcb-7541-98df-43adec6f334e",
+      "status": "delivered"
+    },
+    {
+      "name": "TechChill",
+      "email": "info@techchill.co",
+      "deliveryId": "01a21775-4290-70fb-8bd3-352f870257db",
+      "status": "delivered"
+    },
+    {
+      "name": "Tech City News UK",
+      "email": "guestpostservices@newsfromwales.com",
+      "deliveryId": "01a21775-4562-706a-ae36-ed7088000a23",
+      "status": "delivered"
+    },
+    {
+      "name": "Latitude59",
+      "email": "enriko@visualency.ee",
+      "deliveryId": "01a21775-4881-79fb-b5c9-ff8e84d4de7d",
+      "status": "delivered"
+    },
+    {
+      "name": "Business Cloud",
+      "email": "news@businesscloud.co.uk",
+      "deliveryId": "01a21775-4b6e-7605-902f-056007ed49fe",
+      "status": "delivered"
+    },
+    {
+      "name": "Arctic15",
+      "email": "hello@arcticstartup.com",
+      "deliveryId": "01a21775-4e41-7d1f-b540-8955b47ab4e9",
+      "status": "delivered"
+    },
+    {
+      "name": "Channel Pro UK",
+      "email": "bobby.hellard@futurenet.com",
+      "deliveryId": "01a21775-5160-77ea-890d-c30f912c7e01",
+      "status": "delivered"
+    },
+    {
+      "name": "PCR Online",
+      "email": "054021lsencicle@datateam.co.uk",
+      "deliveryId": "01a21775-5433-7889-b01b-8ef6598cc956",
+      "status": "delivered"
+    }
+  ]
+}
