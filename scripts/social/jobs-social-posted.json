@@ -195801,7 +195801,8 @@
       },
       "account": "channel:design",
       "attemptId": "36ee56e2-582b-4d22-941f-81ac56b903da",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa75b6ba777b871d638b7f39778244cddd3920410"
     }
   ]
 }
