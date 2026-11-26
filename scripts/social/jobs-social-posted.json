@@ -196864,6 +196864,34 @@
       "attemptId": "b01afd9d-c0e1-4abf-b551-d30d4f0275c8",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "sec194",
+      "company": "dtcpay",
+      "title": "Security Operations Engineer",
+      "platform": "threads",
+      "postedAt": "2026-11-26T23:26:33.082Z",
+      "expectedText": "dtcpay is hiring Security Operations Engineer: https://hashtagweb3.com/sec194/th?og=7",
+      "snapshot": {
+        "id": "4009842201",
+        "title": "Security Operations Engineer",
+        "company": "dtcpay",
+        "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009842201",
+        "date": "2026-11-20T05:58:48-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: dtcpay [dtcpay]",
+        "location": "Singapore",
+        "department": "SOC",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec194"
+      },
+      "payload": {
+        "text": "dtcpay is hiring Security Operations Engineer: https://hashtagweb3.com/sec194/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/sec194/th?og=7"
+      },
+      "attemptId": "45ac2dd7-0d4c-4bce-bec1-3dc7a75fea95",
+      "verification": "creating"
     }
   ]
 }
