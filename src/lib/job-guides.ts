@@ -1721,36 +1721,31 @@ export function buildFeedDescription(job: Job, maxLen = 350): string {
  * block type (h3/h4/p/li): previously headings skipped this, leaking raw
  * `**bold**` markers into <h3> on dozens of pages (e.g. `**expanding**`).
  */
+function stripJobLinkLabel(label: string): string {
+  const trimmed = (label || '').trim();
+  if (!trimmed || /^https?:\/\//i.test(trimmed)) return '';
+  if (/^(?:learn more|read more|click here|apply here|here|more info|see more|view more|details)\.?$/i.test(trimmed)) {
+    return '';
+  }
+  return trimmed;
+}
+
 function renderInlineMd(escaped: string): string {
   return linkifyPlainCtaUrlsInEscapedText(escaped)
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
     .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
     .replace(/\*\*/g, '')
-    .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label, url) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
-    .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, url: string, label: string) => {
-      let display = label;
-      if (/^https?:\/\//i.test(display)) {
-        try {
-          const parsed = new URL(display);
-          display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
-        } catch {}
-      }
-      return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
-    })
-    .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => {
-      let display = url;
-      try {
-        const parsed = new URL(url);
-        display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
-      } catch {}
-      return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
-    })
+    .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label) => stripJobLinkLabel(label))
+    .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, _url: string, label: string) => stripJobLinkLabel(label))
+    .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, '')
     .replace(/⇧JOBBR⇩/g, '<br>')
     .replace(/[⇧⇩]/g, '')
+    .replace(/\(\s*\)/g, '')
     .replace(/\s+([,.:;!?])/g, '$1')
     .replace(/\(\s+/g, '(')
     .replace(/\s+\)/g, ')')
-    .replace(/\s+/g, ' ');
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
 /**
@@ -1863,27 +1858,15 @@ function formatJobContent(originalHtml: string): string {
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
       .replace(/\*\*/g, '')
-      .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label, url) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
-      .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url, label) => {
-        let display = label;
-        if (/^https?:\/\//i.test(display)) {
-          try {
-            const parsed = new URL(display);
-            display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
-          } catch {}
-        }
-        return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
-      })
-      .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, (_m, url: string) => {
-        let display = url;
-        try {
-          const parsed = new URL(url);
-          display = parsed.hostname.replace(/^www\./, '') + (parsed.pathname === '/' ? '' : parsed.pathname.replace(/\/$/, '')) + (parsed.search || '') + (parsed.hash || '');
-        } catch {}
-        return `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${display}</a>`;
-      })
+      .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label) => stripJobLinkLabel(label))
+      .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, _url, label) => stripJobLinkLabel(label))
+      .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, '')
       .replace(/⇧JOBBR⇩/g, '<br>')
-      .replace(/[⇧⇩]/g, '');
+      .replace(/[⇧⇩]/g, '')
+      .replace(/\(\s*\)/g, '')
+      .replace(/\s+([,.:;!?])/g, '$1')
+      .replace(/\s+/g, ' ')
+      .trim();
 
     // Check if block is a markdown heading that slipped into a paragraph
     if (block.type === 'p' && /^#{2,4}\s+/.test(text)) {
