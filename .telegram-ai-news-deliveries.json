@@ -1181,5 +1181,40 @@
     "slotKey": "2026-11-26:morning",
     "messageId": 193585,
     "sentAt": "2026-11-26T04:51:03.932Z"
+  },
+  "e7b4631d-e79f-48c6-903b-ef024540073e": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T13:05:06.373Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+        "headline": "Nvidia halts server shipments to four Southeast Asian countries",
+        "summary": "The decision follows stricter United States export rules targeting Chinese access to advanced artificial intelligence chips.",
+        "event_rationale": "Covers Nvidia pausing server deliveries in Southeast Asia due to expanded export restrictions.",
+        "link": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+        "source": "The Decoder",
+        "originalTitle": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls"
+      },
+      {
+        "index": 9,
+        "original_title": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+        "headline": "ElevenLabs seeks new funding at $33 billion valuation",
+        "summary": "The voice technology company is in early talks to raise capital in early 2027 from investors.",
+        "event_rationale": "Covers a major multi-billion dollar funding round negotiation for ElevenLabs.",
+        "link": "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation"
+      },
+      {
+        "index": 2,
+        "headline": "ZDNet Reviews Top Headphones for 2026",
+        "summary": "ZDNet published a guide selecting two top headphone models based on recent product testing.",
+        "link": "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
+        "source": "ZDNet",
+        "originalTitle": "ZDNET’s best headphones of 2026: These two pairs left us impressed"
+      }
+    ],
+    "slotKey": "2026-11-26:afternoon"
   }
 }
