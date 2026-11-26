@@ -192532,6 +192532,47 @@
       "attemptId": "3bb294bb-7924-4a79-bf9d-d6d575d2d453",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "sls534",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "linkedin",
+      "postedAt": "2026-11-26T02:21:50.140Z",
+      "expectedText": "Fireblocks is hiring Sales Director: https://hashtagweb3.com/sls534/li?og=7",
+      "snapshot": {
+        "id": "4725485006",
+        "title": "Sales Director",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4725485006",
+        "date": "2026-11-17T20:51:52-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Singapore",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls534"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director: https://hashtagweb3.com/sls534/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls534/li?og=7",
+          "title": "Sales Director at Fireblocks | Hashtag Web3",
+          "description": "Join Fireblocks as Sales Director. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls534.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "76026e9c-7a43-4f54-ba2f-2d2aa2495bb8",
+      "verification": "creating"
     }
   ]
 }
