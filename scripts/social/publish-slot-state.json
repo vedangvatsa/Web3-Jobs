@@ -1449,10 +1449,12 @@
           "bithumbnotice",
           "utahkalshidismiss"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-26T03:21:56.364Z",
         "buildId": "daily-20261126-45741575952-1",
-        "rolloutId": "daily-20261126-45741575952-1"
+        "rolloutId": "daily-20261126-45741575952-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-26T03:40:19.909Z"
       }
     ]
   }
