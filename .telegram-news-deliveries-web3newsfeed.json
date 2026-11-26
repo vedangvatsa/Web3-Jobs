@@ -1021,5 +1021,36 @@
     "slotKey": "2026-11-26:morning",
     "messageId": 65856,
     "sentAt": "2026-11-26T04:50:12.122Z"
+  },
+  "ee85f85d-df6d-4843-a6f8-a95ef517ed65": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T13:05:09.391Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Cross River Bank Launches Bitcoin-Collateralized Loans",
+        "summary": "The U.S. chartered institution offers up to $250,000 to eligible borrowers using Bitcoin as collateral.",
+        "link": "https://hashtagweb3.com/crossriverbtcloans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Cross River Bank enters Bitcoin-backed lending with $250K loans"
+      },
+      {
+        "index": -1,
+        "headline": "Ethereum Foundation Doubles Security Team for Post-Quantum Research",
+        "summary": "The non-profit expanded its engineering staff to accelerate research into quantum-resistant cryptography and protocol updates.",
+        "link": "https://hashtagweb3.com/ethpostquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Ethereum Foundation doubles security team for post-quantum overhaul"
+      },
+      {
+        "index": -1,
+        "headline": "SEC Staff Grants No-Action Letter to Molecule",
+        "summary": "Regulators will not recommend enforcement action regarding the company's biopharma Project Tokens.",
+        "link": "https://hashtagweb3.com/moleculedesci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "SEC staff grants no-action relief to biotech DeSci platform Molecule"
+      }
+    ],
+    "slotKey": "2026-11-26:afternoon"
   }
 }
