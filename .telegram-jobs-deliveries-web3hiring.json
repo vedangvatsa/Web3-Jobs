@@ -7432,5 +7432,126 @@
     "slotKey": "2026-11-26:morning",
     "messageId": 221,
     "sentAt": "2026-11-26T04:49:35.890Z"
+  },
+  "a387e3a6-db9e-470d-808f-24695d895027": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T13:03:52.756Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8265389",
+          "title": "Motion Designer 3D, Stripe Identity",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8265389",
+          "date": "2026-10-30T05:53:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Barcelona",
+          "department": "8113 Brand Studio",
+          "active": true,
+          "dateVerified": true,
+          "slug": "des6"
+        },
+        "key": "8265389",
+        "slug": "des6",
+        "url": "https://hashtagweb3.com/des6?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Motion Designer 3D"
+      },
+      {
+        "snapshot": {
+          "id": "5030438101",
+          "title": "Senior DevOps Engineer | New York",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5030438101",
+          "date": "2026-11-23T13:07:59-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "New York",
+          "department": "Infrastructure",
+          "active": true,
+          "salary": "$200k – $250k/yr",
+          "dateVerified": true,
+          "slug": "do28"
+        },
+        "key": "5030438101",
+        "slug": "do28",
+        "url": "https://hashtagweb3.com/do28?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Senior DevOps Engineer | New York"
+      },
+      {
+        "snapshot": {
+          "id": "deel-dfns-6da4368b-8eb6-43c5-890a-bb09f4a82a69",
+          "title": "Staff Product Security Engineer",
+          "company": "DFNS",
+          "link": "https://jobs.deel.com/dfns/job-details/6da4368b-8eb6-43c5-890a-bb09f4a82a69/overview",
+          "date": "2026-11-10T20:15:43.120Z",
+          "dateVerified": true,
+          "dateSource": "DFNS Careers on Deel",
+          "source": "Deel: DFNS [dfns]",
+          "location": "Remote",
+          "department": "Security",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "active": true,
+          "salary": "$150k – $250k/yr",
+          "minSalary": 150000,
+          "maxSalary": 250000,
+          "currency": "USD",
+          "slug": "sec164"
+        },
+        "key": "deel-dfns-6da4368b-8eb6-43c5-890a-bb09f4a82a69",
+        "slug": "sec164",
+        "url": "https://hashtagweb3.com/sec164?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DFNS",
+        "title": "Staff Product Security Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8958855002",
+          "title": "Natural Gas Scheduler",
+          "company": "Jane Street",
+          "link": "https://www.janestreet.com/join-jane-street/apply/8958855002?gh_jid=8958855002",
+          "date": "2026-11-25T12:31:48-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Jane Street [janestreet]",
+          "location": "New York, NY",
+          "department": "Quantitative Trading",
+          "active": true,
+          "slug": "ngs",
+          "dateVerified": true
+        },
+        "key": "8958855002",
+        "slug": "ngs",
+        "url": "https://hashtagweb3.com/ngs?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Jane Street",
+        "title": "Natural Gas Scheduler"
+      },
+      {
+        "snapshot": {
+          "id": "5479862008",
+          "title": "Business Development Representative",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5479862008?gh_jid=5479862008",
+          "date": "2026-11-25T13:28:46-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "London, United Kingdom",
+          "department": "20213 S&M - Sales - Square Outside",
+          "active": true,
+          "slug": "sls344",
+          "dateVerified": true
+        },
+        "key": "5479862008",
+        "slug": "sls344",
+        "url": "https://hashtagweb3.com/sls344?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Business Development Representative"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/des6?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Motion Designer 3D, Stripe Identity</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/do28?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior DevOps Engineer</a>\n- DFNS is hiring <a href=\"https://hashtagweb3.com/sec164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Security Engineer</a>\n- Jane Street is hiring <a href=\"https://hashtagweb3.com/ngs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Natural Gas Scheduler</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/sls344?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development Representative</a>",
+    "slotKey": "2026-11-26:afternoon"
   }
 }
