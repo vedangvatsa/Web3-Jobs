@@ -158,6 +158,60 @@ function renderEmployerDescriptionFallback(job: Job, raw: string): string {
   return cleanPublishHtml(html);
 }
 
+/**
+ * Strip all hyperlinks and raw URLs from job bodies while preserving grammatical completeness.
+ */
+export function stripHyperlinksFromJobHtml(html: string): string {
+  if (!html) return '';
+  let s = html;
+
+  // 1. Phrasing fixes for common link calls to action
+  s = s.replace(/<li[^>]*>\s*<h[1-6][^>]*>\s*関連リンク\s*<\/h[1-6]>[\s\S]*?<\/li>/gi, '');
+  s = s.replace(/<h[1-6][^>]*>\s*関連リンク\s*<\/h[1-6]>\s*(?:<ul[^>]*>[\s\S]*?<\/ul>)?/gi, '');
+  s = s.replace(/<a\b[^>]*>\s*地図で確認\s*<\/a>/gi, '');
+  s = s.replace(/<li[^>]*>\s*<a\b[^>]*>(?:キャリアサイト|Company Deck|Wantedly stories|公式X|公式Instagram)<\/a>[\s\S]*?<\/li>/gi, '');
+
+  s = s.replace(/All open roles are listed on our official careers page:\s*https?:\/\/\S+/gi, 'All open roles are listed on our official careers page.');
+  s = s.replace(/To learn more,\s*visit\s*https?:\/\/\S+/gi, 'To learn more, visit the official company website.');
+  s = s.replace(/Find out more about all of our perks &amp; benefits at\s*https?:\/\/\S+/gi, 'Find out more about all of our perks &amp; benefits on the company careers portal.');
+  s = s.replace(/How to Apply:\s*Apply online at\s*https?:\/\/\S+/gi, 'How to Apply: Apply online via the official portal.');
+
+  s = s.replace(/To view our benefits at a glance,\s*please visit the following link:\s*https?:\/\/\S+/gi, 'Benefits are available at a glance via the company portal.');
+  s = s.replace(/except as set forth within the following policy:\s*https?:\/\/\S+/gi, 'except as set forth within the official company policy.');
+  s = s.replace(/Learn more about how we work:\s*https?:\/\/\S+/gi, 'Learn more about how we work on the company portal.');
+
+  s = s.replace(/You can view the E-Verify poster\s*<\/em><a\b[^>]*><em>here<\/em><\/a><em>\s*and the Right to Work poster\s*<\/em><a\b[^>]*><em>here<\/em><\/a><em>\.?<\/em>/gi, 'E-Verify and Right to Work posters are available on official government portals.');
+  s = s.replace(/You can view the E-Verify poster\s*<a\b[^>]*>here<\/a>\s*and the Right to Work poster\s*<a\b[^>]*>here<\/a>\.?/gi, 'E-Verify and Right to Work posters are available on official government portals.');
+
+  s = s.replace(/Click\s+<a\b[^>]*>(?:here|this link)<\/a>\s+to\s+([a-z])/gi, 'To $1');
+  s = s.replace(/<a\b[^>]*>(?:here|this link)<\/a>\s+to\s+([a-z])/gi, 'to $1');
+  s = s.replace(/via\s+this\s+<a\b[^>]*>(?:form|link|portal)<\/a>/gi, 'via the official application portal');
+  s = s.replace(/through\s+this\s+<a\b[^>]*>(?:form|link|portal)<\/a>/gi, 'through the official form');
+  s = s.replace(/\b(?:learn more|read more|apply)\s+at\s+<a\b[^>]*>https?:\/\/[^<]+<\/a>/gi, 'learn more on the official company portal');
+
+  // 2. Convert remaining <a ...>Label</a> -> Label (or drop if label was a raw URL)
+  s = s.replace(/<a\b[^>]*>([\s\S]*?)<\/a>/gi, (_match, label) => {
+    const cleanLabel = label.replace(/<[^>]+>/g, '').trim();
+    if (/^https?:\/\//i.test(cleanLabel)) {
+      return '';
+    }
+    return cleanLabel;
+  });
+
+  // 3. Remove any remaining raw URLs in body copy
+  s = s.replace(/\(?\s*https?:\/\/[^\s<>"')\]]+[\s\)]*/gi, '');
+
+  // 4. Tidy hanging prepositions or punctuation left behind
+  s = s.replace(/\b(?:at|via|on|from|visit)\s*([.,;])/gi, '$1');
+  s = s.replace(/\s{2,}/g, ' ');
+  s = s.replace(/\s+([.,;:!?])/g, '$1');
+  s = s.replace(/([.,;])\s*([.,])/g, '$1');
+  s = s.replace(/<p[^>]*>\s*<\/p>/gi, '');
+  s = s.replace(/<li[^>]*>\s*<\/li>/gi, '');
+
+  return s;
+}
+
 const jobDetailHtmlInflight = new Map<string, Promise<string>>();
 
 /** Load shard (with ATS fallback) and render job detail HTML for the page. */
@@ -170,7 +224,8 @@ export async function buildJobDetailContentHtml(job: Job): Promise<string> {
     // HTML-safe strip: organizer Telegram/WhatsApp/Discord community links
     // never reach job pages (Safe Browsing social-engineering flag 2026-11-12).
     const raw = stripThirdPartyCommunityUrls(await getOrFetchRawJobContent(job));
-    return buildSynthesizedJobContent(job, raw);
+    const synthesized = buildSynthesizedJobContent(job, raw);
+    return stripHyperlinksFromJobHtml(synthesized);
   })();
 
   jobDetailHtmlInflight.set(slug, work);
