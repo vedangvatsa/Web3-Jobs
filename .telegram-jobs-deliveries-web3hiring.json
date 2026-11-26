@@ -7314,5 +7314,121 @@
     "slotKey": "2026-11-26:morning",
     "messageId": 16681,
     "sentAt": "2026-11-26T04:49:30.252Z"
+  },
+  "292a9cd7-20a0-46de-af1e-eb3ab3aec71b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T04:49:33.904Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5042010101",
+          "title": "Manager of Regional Total Rewards",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5042010101",
+          "date": "2026-11-23T02:45:39-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Jakarta, Indonesia",
+          "department": "STX - People & GA",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr281"
+        },
+        "key": "5042010101",
+        "slug": "mgr281",
+        "url": "https://hashtagweb3.com/mgr281?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Manager of Regional Total Rewards"
+      },
+      {
+        "snapshot": {
+          "id": "df8cc1ce-6850-4231-a5d0-97f55d9248a8",
+          "title": "Business Development, VIP Acquisition Lead",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/df8cc1ce-6850-4231-a5d0-97f55d9248a8",
+          "date": "2026-11-19T16:20:00.165+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Operations & Strategy",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls320"
+        },
+        "key": "df8cc1ce-6850-4231-a5d0-97f55d9248a8",
+        "slug": "sls320",
+        "url": "https://hashtagweb3.com/sls320?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "Business Development"
+      },
+      {
+        "snapshot": {
+          "id": "fde9bdbc-bac2-4816-8efa-af514d74e769",
+          "title": "Team Coordinator (aka Chief Acrobat) - Onsite Montreal",
+          "company": "Nascent",
+          "link": "https://jobs.ashbyhq.com/nascent/fde9bdbc-bac2-4816-8efa-af514d74e769",
+          "date": "2026-11-06T17:49:00.898+00:00",
+          "source": "Ashby: Nascent [Nascent]",
+          "location": "Onsite - Montreal, QC",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tcaa2"
+        },
+        "key": "fde9bdbc-bac2-4816-8efa-af514d74e769",
+        "slug": "tcaa2",
+        "url": "https://hashtagweb3.com/tcaa2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Nascent",
+        "title": "Team Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "5456605008",
+          "title": "Solutions Engineer",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5456605008?gh_jid=5456605008",
+          "date": "2026-11-16T19:39:52-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Bay Area, CA, United States of America",
+          "department": "20230 S&M - Sales - Commerce Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng801"
+        },
+        "key": "5456605008",
+        "slug": "eng801",
+        "url": "https://hashtagweb3.com/eng801?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Solutions Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4732010006",
+          "title": "VP Product Marketing",
+          "company": "Fireblocks",
+          "link": "https://www.fireblocks.com/careers/position?gh_jid=4732010006",
+          "date": "2026-11-24T13:36:46-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Fireblocks [fireblocks]",
+          "location": "San Francisco, CA",
+          "department": "Marketing",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm466"
+        },
+        "key": "4732010006",
+        "slug": "pm466",
+        "url": "https://hashtagweb3.com/pm466?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fireblocks",
+        "title": "VP Product Marketing"
+      }
+    ],
+    "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/mgr281?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager of Regional Total Rewards</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/sls320?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development</a>\n- Nascent is hiring <a href=\"https://hashtagweb3.com/tcaa2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Team Coordinator</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/eng801?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Engineer</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/pm466?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP Product Marketing</a>",
+    "slotKey": "2026-11-26:morning"
   }
 }
