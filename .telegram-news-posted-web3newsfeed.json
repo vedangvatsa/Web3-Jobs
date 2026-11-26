@@ -92,6 +92,9 @@
   "https://hashtagweb3.com/frenchsenate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/megaspeedlist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/usdcforfeit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/crossriverbtcloans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ethpostquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/moleculedesci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -278,6 +281,12 @@
   "US adds Megaspeed and six affiliates to Commerce Entity List",
   "DOJ Seeks Forfeiture of $1.1 Billion in Stolen USDC",
   "Justice Department files to forfeit $1.1B in USDC from Binance hack",
+  "Cross River Bank Launches Bitcoin-Collateralized Loans",
+  "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+  "Ethereum Foundation Doubles Security Team for Post-Quantum Research",
+  "Ethereum Foundation doubles security team for post-quantum overhaul",
+  "SEC Staff Grants No-Action Letter to Molecule",
+  "SEC staff grants no-action relief to biotech DeSci platform Molecule",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -370,5 +379,8 @@
   "fp:against|agency|bitget|block|complaint|criminal|december5|exchang|fil|government",
   "fp:000|against|amendment|asset|custodi|disclosur|euro|french|includ|larg",
   "fp:add|advanc|affiliat|blacklist|commerc|comput|concern|department|due|entity",
-  "fp:11b|agre|binanc|circl|department|doj|fil|forfeit|forfeitur|government"
+  "fp:11b|agre|binanc|circl|department|doj|fil|forfeit|forfeitur|government",
+  "fp:000|250|250k|back|bank|borrower|charter|collateral|collateraliz|cross",
+  "fp:accelerat|cryptography|doubl|engineer|foundation|non|overhaul|post|profit|protocol",
+  "fp:action|biopharma|biotech|desci|enforcement|grant|letter|molecul|not|project"
 ]
