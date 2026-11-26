@@ -1,0 +1,110 @@
+{
+  "dispatchedAt": "2026-11-26T10:41:40.000Z",
+  "total": 17,
+  "delivered": 17,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Bank Director",
+      "email": "info@bankdirector.com",
+      "deliveryId": "01a21772-28e4-71ac-9e3d-d49d2f820dfe",
+      "status": "delivered"
+    },
+    {
+      "name": "Credit Union Times",
+      "email": "credituniontimes@subscription-team.com",
+      "deliveryId": "01a21772-2bf6-7a28-9755-5ed0fce76030",
+      "status": "delivered"
+    },
+    {
+      "name": "American Banker",
+      "email": "%20carter.pape@arizent.com",
+      "deliveryId": "01a21772-2edd-7849-8940-ef1eb248dbd6",
+      "status": "delivered"
+    },
+    {
+      "name": "Yale Environment 360",
+      "email": "e360@yale.edu",
+      "deliveryId": "01a21772-3198-707e-bf10-c0cb577bc90d",
+      "status": "delivered"
+    },
+    {
+      "name": "Peer2Peer Finance News",
+      "email": "aysha@alternativecreditinvestor.com",
+      "deliveryId": "01a21772-34aa-7489-bda2-3efd2ec53502",
+      "status": "delivered"
+    },
+    {
+      "name": "Content Marketing Institute",
+      "email": "cmi@news.contentinstitute.com",
+      "deliveryId": "01a21772-3779-7105-8582-919cdd694af3",
+      "status": "delivered"
+    },
+    {
+      "name": "AdExchanger",
+      "email": "alyssa@adexchanger.com",
+      "deliveryId": "01a21772-3a1f-786c-b6f2-c26c7ec13226",
+      "status": "delivered"
+    },
+    {
+      "name": "ATM Marketplace",
+      "email": "editor@atmmarketplace.com",
+      "deliveryId": "01a21772-3f0d-7a70-b46d-0efb724f887c",
+      "status": "delivered"
+    },
+    {
+      "name": "Retail Customer Experience",
+      "email": "editor@retailcustomerexperience.com",
+      "deliveryId": "01a21772-41f0-7383-91e9-5776d8146782",
+      "status": "delivered"
+    },
+    {
+      "name": "ExchangeWire",
+      "email": "press@exchangewire.com",
+      "deliveryId": "01a21772-450a-7782-a70e-e67535a10fa8",
+      "status": "delivered"
+    },
+    {
+      "name": "Digital Signage Today",
+      "email": "editor@digitalsignagetoday.com",
+      "deliveryId": "01a21772-47cb-7ae0-b10c-e9a3e2cc7817",
+      "status": "delivered"
+    },
+    {
+      "name": "Mention Blog",
+      "email": "info@mention.com",
+      "deliveryId": "01a21772-4a9e-7de6-847a-8c06b4257053",
+      "status": "delivered"
+    },
+    {
+      "name": "Adweek",
+      "email": "pr@adweek.com",
+      "deliveryId": "01a21772-4d76-77b1-8e05-cb0975e9f1dd",
+      "status": "delivered"
+    },
+    {
+      "name": "Yoast SEO Blog",
+      "email": "support@yoast.com",
+      "deliveryId": "01a21772-5069-7588-9094-02bad3ee263e",
+      "status": "delivered"
+    },
+    {
+      "name": "MicroConf",
+      "email": "support@microconf.com",
+      "deliveryId": "01a21772-5364-705a-b2ec-43cc405f63bd",
+      "status": "delivered"
+    },
+    {
+      "name": "Failory",
+      "email": "nico@failory.com",
+      "deliveryId": "01a21772-5666-7353-b60d-8c1844961705",
+      "status": "delivered"
+    },
+    {
+      "name": "Sprout Social Insights",
+      "email": "pr@sproutsocial.com",
+      "deliveryId": "01a21772-5953-70a4-a49f-ee48fe33f238",
+      "status": "delivered"
+    }
+  ]
+}
