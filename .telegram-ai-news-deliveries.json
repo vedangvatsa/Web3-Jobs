@@ -1144,5 +1144,40 @@
     "slotKey": "2026-11-25:evening",
     "messageId": 193582,
     "sentAt": "2026-11-25T20:37:06.393Z"
+  },
+  "05414a40-dad5-4f08-9397-2601d70fbe68": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T04:50:56.888Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs",
+        "headline": "US chip restrictions slow development at Chinese AI laboratories",
+        "summary": "Export controls and hardware limitations have caused a nine-month development lag for major Chinese artificial intelligence research organizations.",
+        "event_rationale": "This covers the geopolitical impact of hardware export controls on global AI development, distinct from domestic infrastructure or model releases.",
+        "link": "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
+        "source": "The Decoder",
+        "originalTitle": "US chip-access curbs and anti-distillation measures are reportedly already slowing Chinese AI labs"
+      },
+      {
+        "index": 11,
+        "original_title": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
+        "headline": "OpenAI introduces private inference feature for enterprise data",
+        "summary": "The new capability allows businesses to process queries on large language models without the provider accessing underlying user data.",
+        "event_rationale": "This describes a specific technical deployment of privacy-preserving inference, distinct from general model updates or security research.",
+        "link": "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
+        "source": "The Decoder",
+        "originalTitle": "OpenAI wants companies to trust it with sensitive work by promising not to look at their data"
+      },
+      {
+        "index": 1,
+        "headline": "Authorized AI agents can cause unintended enterprise security damage",
+        "summary": "Existing security frameworks based on identity cannot fully prevent damage from authorized autonomous software.",
+        "link": "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
+        "source": "SiliconANGLE",
+        "originalTitle": "Your AI agents can be fully authorized and still do damage"
+      }
+    ],
+    "slotKey": "2026-11-26:morning"
   }
 }
