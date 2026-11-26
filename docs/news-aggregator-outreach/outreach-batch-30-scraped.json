@@ -1,0 +1,80 @@
+{
+  "dispatchedAt": "2026-11-26T10:57:55.000Z",
+  "total": 12,
+  "delivered": 12,
+  "failed": 0,
+  "results": [
+    {
+      "name": "InformationWeek",
+      "email": "informationweeksubmissions@informa.com",
+      "deliveryId": "01a21781-150e-7ac9-8ec4-3af45cc914b5",
+      "status": "delivered"
+    },
+    {
+      "name": "AI Business",
+      "email": "info@aibusiness.com",
+      "deliveryId": "01a21781-177f-7603-a070-ec49bb05d3ed",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Talents",
+      "email": "marketing@vcinnovations.co.uk",
+      "deliveryId": "01a21781-1a0c-782b-ab44-c9c92bea9117",
+      "status": "delivered"
+    },
+    {
+      "name": "Innovate Finance",
+      "email": "connect@innovatefinance.com",
+      "deliveryId": "01a21781-1f4e-7c7a-b66e-c4650879f5a9",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Alliance UK",
+      "email": "info@fintech-alliance.com",
+      "deliveryId": "01a21781-2502-7729-b655-995699b007d0",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Fringe",
+      "email": "events@fintechfringe.co",
+      "deliveryId": "01a21781-280b-7c7c-8044-6f99dd5adabf",
+      "status": "delivered"
+    },
+    {
+      "name": "Scottish Financial Enterprise",
+      "email": "jcurrie@sfe.org.uk",
+      "deliveryId": "01a21781-2ada-74c4-b533-35ed3104f247",
+      "status": "delivered"
+    },
+    {
+      "name": "FinTech West",
+      "email": "info@fintechwest.co.uk",
+      "deliveryId": "01a21781-2e53-7baf-8889-2f44912157b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Confidential Computing Consortium",
+      "email": "info@confidentialcomputing.io",
+      "deliveryId": "01a21781-3114-7b19-be4e-319214e85ec3",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Futures News",
+      "email": "info@fintechfutures.com",
+      "deliveryId": "01a21781-33ae-7c8f-938d-52b39d4fa73b",
+      "status": "delivered"
+    },
+    {
+      "name": "This Week in Fintech",
+      "email": "sponsor@thefnn.com",
+      "deliveryId": "01a21781-36cc-7e52-b5d7-520206a59177",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Business Weekly",
+      "email": "jason@fintechbusinessweekly.com",
+      "deliveryId": "01a21781-396f-7e67-a383-a7c8ba0bcdf5",
+      "status": "delivered"
+    }
+  ]
+}
