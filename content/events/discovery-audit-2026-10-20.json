@@ -48,23 +48,6 @@
       "descriptionSha256": "d5dde384b806b60c7bc2a837d89331f417615a6e4aaca0eacf898e41866999ba"
     },
     {
-      "id": "premier-hackmeridian",
-      "slug": "hackmeridian",
-      "aliases": [],
-      "startDate": "2026-10-25",
-      "endDate": "2026-10-26",
-      "descriptionSha256": "4112e41f94c49335f063d5d2273bccb558821064b505c7627717d657e59f5b3b"
-    },
-    {
-      "id": "luma-batch-evti0AaTIcicsFFO",
-      "slug": "xrp-sidekick-ny",
-      "aliases": [],
-      "startDate": "2026-10-26T22:00:00.000Z",
-      "endDate": "2026-10-27T01:00:00.000Z",
-      "timezone": "America/New_York",
-      "descriptionSha256": "eba0c5f347b3111bd8ae7dc1cec89e91d3cbdbc96997ed47b434cf2784d64e05"
-    },
-    {
       "id": "premier-swell-2026",
       "slug": "ripple-swell-2026",
       "aliases": [],
@@ -3020,45 +3003,6 @@
         "width": 940,
         "height": 470,
         "bytes": 38654
-      }
-    },
-    {
-      "id": "discovery-evt-pb7TG5mtKrOmFwr",
-      "name": "CryptoMondays Bahamas Launch",
-      "startDate": "2026-10-26T22:00:00.000Z",
-      "endDate": "2026-10-27T00:00:00.000Z",
-      "timezone": "America/Toronto",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-pb7TG5mtKrOmFwr",
-      "url": "https://luma.com/r6yn3i6o",
-      "lane": "americas",
-      "reason": "No inventory match. Public launch event linked by the official CryptoMondays calendar. No detailed program or named venue is published. Stock gallery cover omitted.",
-      "evidence": [
-        {
-          "url": "https://luma.com/r6yn3i6o",
-          "fetchedAt": "2026-10-20T08:11:27.935Z",
-          "excerpt": "CryptoMondays Bahamas Launch; evt-pb7TG5mtKrOmFwr; 2026-10-26T22:00:00.000Z to 2026-10-27T00:00:00.000Z; timezone America/Toronto as configured by organizer; West Bay Street, Nassau, The Bahamas. Host Rosalyn Brown. Public, registration open, require_approval true. Description empty.",
-          "sha256": "e49cb49b3f0e9aacd437f7b966c9be183c01cc6ed69919f4716ef159b4352314",
-          "representation": "html; __NEXT_DATA__"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:11.717Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/gallery-images/r8/6d051335-7887-48c1-9148-0ea2c9ed1a37",
-        "fetchedAt": "2026-10-20T09:49:23.871Z",
-        "status": 200,
-        "local": "/events/discovery-evt-pb7tg5mtkromfwr-99d8c4e4.webp",
-        "sourceSha256": "929da5e78eb73b221d6f9a6750d1d6c78ba720d61fd50f65a676ce0507cb4a3d",
-        "sha256": "3bff56d9f515b149c13b1cc56b22fa8f18a03a90306eb9537dcaad2459124285",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 131774
       }
     },
     {

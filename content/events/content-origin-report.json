@@ -40,35 +40,6 @@
       ]
     },
     {
-      "id": "premier-hackmeridian",
-      "slug": "hackmeridian",
-      "name": "HackMeridian 2026",
-      "status": "source-backed",
-      "source": {
-        "url": "https://meridian.stellar.org/",
-        "fetchedAt": "2026-09-22T12:14:29.000Z"
-      },
-      "sections": [
-        "Build something worth shipping",
-        "Alongside Meridian 2026",
-        "Scale"
-      ]
-    },
-    {
-      "id": "luma-batch-evti0AaTIcicsFFO",
-      "slug": "xrp-sidekick-ny",
-      "name": "XRP Sidekick - NY",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/xrp-sidekick-ny",
-        "fetchedAt": "2026-09-23T10:57:48.000Z"
-      },
-      "sections": [
-        "About the event",
-        "Sponsors"
-      ]
-    },
-    {
       "id": "premier-swell-2026",
       "slug": "ripple-swell-2026",
       "name": "Ripple Swell 2026",

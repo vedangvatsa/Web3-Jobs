@@ -114,11 +114,6 @@
     "method": "human-editorial-polish-conservative",
     "words": 136
   },
-  "premier-hackmeridian": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 62
-  },
   "premier-meridian": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
@@ -648,11 +643,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
     "words": 152
-  },
-  "discovery-evt-pb7TG5mtKrOmFwr": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 30
   },
   "discovery-evt-BqdpbfI1RojW350": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -3954,11 +3944,6 @@
     "method": "human-editorial-polish-conservative",
     "words": 255
   },
-  "luma-batch-evti0AaTIcicsFFO": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 159
-  },
   "luma-batch-evtSK22Vhvj9z3xv": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
@@ -5598,11 +5583,6 @@
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-v2",
     "words": 25
-  },
-  "mu-316877634": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 29
   },
   "mu-316859696": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",

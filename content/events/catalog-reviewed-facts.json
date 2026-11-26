@@ -70,51 +70,6 @@
       "method": "luma-page"
     }
   },
-  "luma-batch-evti0AaTIcicsFFO": {
-    "name": "XRP Sidekick - NY",
-    "startDate": "2026-10-26T22:00:00.000Z",
-    "endDate": "2026-10-27T01:00:00.000Z",
-    "timezone": "America/New_York",
-    "registrationUrl": "https://luma.com/xrp-sidekick-ny",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": false,
-    "city": "New York",
-    "country": "United States",
-    "location": "Barcade, 148 W 24th St, New York, NY 10011, USA",
-    "venueName": "Barcade",
-    "streetAddress": "148 W 24th St, New York",
-    "addressLocality": "New York",
-    "addressRegion": "New York",
-    "addressCountry": "US",
-    "neighborhood": "Chelsea",
-    "coordinates": {
-      "latitude": 40.7442657,
-      "longitude": -73.9945268
-    },
-    "hosts": [
-      "Lost Art",
-      "Endless Endeavors"
-    ],
-    "price": "USD 35",
-    "approvalRequired": false,
-    "ticketOffers": [
-      {
-        "name": "Early Bird",
-        "url": "https://luma.com/xrp-sidekick-ny",
-        "price": 35,
-        "priceCurrency": "USD",
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/xrp-sidekick-ny",
-      "eventId": "evt-i0AaTIcicsFFOEI",
-      "fetchedAt": "2026-10-12T11:25:14.991Z",
-      "method": "luma-page"
-    }
-  },
   "luma-crypto-Q9pqBMhbxoTeN4u": {
     "name": "Solana Indoor Skydiving",
     "startDate": "2026-10-28T09:30:00.000Z",
@@ -3851,15 +3806,6 @@
     "sourceReview": {
       "url": "https://www.globalblockchainshow.com/abu-dhabi/",
       "checkedAt": "2026-10-12T11:25:30.528Z",
-      "reason": "Primary page body checked against catalog-fact-revisions.json."
-    }
-  },
-  "premier-hackmeridian": {
-    "startDate": "2026-10-25",
-    "endDate": "2026-10-26",
-    "sourceReview": {
-      "url": "https://meridian.stellar.org/",
-      "checkedAt": "2026-10-12T11:25:14.072Z",
       "reason": "Primary page body checked against catalog-fact-revisions.json."
     }
   },

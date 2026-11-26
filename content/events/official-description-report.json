@@ -230,21 +230,6 @@
       "preview": "TOKEN2049 Dubai brings together the global Web3 industry, uniting entrepreneurs, investors, developers, industry insiders and global media, and creates unparalleled networking opportunities."
     },
     {
-      "id": "premier-hackmeridian",
-      "file": "curated-events.json",
-      "status": "source-backed",
-      "source": {
-        "url": "https://meridian.stellar.org/hackmeridian",
-        "fetchedAt": "2026-09-20T00:39:52.890Z",
-        "method": "official-section",
-        "pageTitle": "Meridian 2026 - HackMeridian",
-        "sha256": "34db854ee2a82f1da14fba5ee3041639ef0625191941d682b4831028c671c75c"
-      },
-      "previousStartDate": "2026-10-25T09:00:00+01:00",
-      "characters": 248,
-      "preview": "## Build something worth shipping.\n\nTwo days of building alongside developers, founders, designers, and technical teams in Lisbon. HackMeridian brings together builders from around the world to turn ambitious ideas into working products on Stellar."
-    },
-    {
       "id": "premier-meridian",
       "file": "curated-events.json",
       "status": "source-backed",

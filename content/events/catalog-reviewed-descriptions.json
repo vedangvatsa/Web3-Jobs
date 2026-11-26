@@ -279,24 +279,6 @@
       "sha256": "f66a393121648865f27eb4cda88f430fc83ce35e526b0cd77bea931e02d52204"
     }
   },
-  "premier-hackmeridian": {
-    "description": "HackMeridian is a two-day Stellar building event in Lisbon on October 25 and 26, 2026. Developers, founders, designers and technical teams work on products using the Stellar network.\n\nThe hackathon precedes the separate Meridian conference on October 28 and 29. Use HackMeridian's\n\nregistration link on the official Meridian website; the conference dates and conference pass should not be mistaken for hackathon admission.",
-    "descriptionSource": {
-      "url": "https://meridian.stellar.org/",
-      "fetchedAt": "2026-10-12T11:25:14.072Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "HackMeridian 2026",
-      "sha256": "39322a746b4e500339e0e842b070d2826d139014386754d2bb211984a772e2bc",
-      "evidence": [
-        {
-          "url": "https://meridian.stellar.org/",
-          "fetchedAt": "2026-10-12T11:25:14.072Z",
-          "sha256": "0d2c14b1cd59cf2606c637fcd783ff485fe218ade588d612e95358acab1e68de",
-          "representation": "html"
-        }
-      ]
-    }
-  },
   "premier-planx": {
     "description": "PlanX takes place at Grand Hyatt Dubai on November 25 and 26, 2026, for founders, operators, business owners and investors. The program covers customer growth, AI and operational systems, fundraising relationships and emerging business models. Announced sessions include founder stories, a discussion of scaling beyond product-market fit and practical approaches to delegation. Growth Access covers both conference days, workshops, the exhibition and the event app. Executive passes add benefits such as lunch, recordings and VIP spaces; investor access is by application and subject to approval. Prices exclude VAT. Check the organizer's current pass comparison for inclusions and workshop conditions\n\nEvent details\n\nDate: Nov 25 - 26, 2026, 00:00 Venue: Grand Hyatt Dubai Conference & Exhibition Centre Event page: https://planxconf.com/\n\nThis listing reflects the organizer's published information for PlanX Conference 2026 on Nov 25 - 26, 2026 in Dubai, United Arab Emirates. Register and confirm ticket inclusions on the official event page.",
     "descriptionSource": {
@@ -2165,16 +2147,6 @@
       "method": "reviewed-stored-organizer-copy",
       "pageTitle": "A Global Living Lab: Light DAO's Next International Gathering",
       "sha256": "80307a656487707be7c4ebbf4ba61ba1a3e6b88ff82c8546a751e811723d5682"
-    }
-  },
-  "luma-batch-evti0AaTIcicsFFO": {
-    "description": "Join us for a retro night with the XRP Community. Relax after a long journey to Ripple Swell, enjoy free merch, food, the arcade, and a couple cold ones on us.\n\nExclusive merch available for free to Early Bird ticket holders includes:\n- XRP Drawstring Bag\n- XRP Notebook\n- XRP Keychain\n- XRP Magnet\n- XRP Coaster (x2)\n- XRP 1 Troy Ounce Silver Coin Raffle Ticket\n\nSponsors\n- XRP Ledger Foundation\n- BURN\n- Wave of Innovation\n- Death Ranger\n- MyWeb3\n\nRegional Partner\n- XRP SoCal (United States, CA)\n\nHosted by Lost Art & Endless Endeavors\n\nAll attendees must be 21+ and bring a valid form of ID to gain admission to the venue. Admission is on a first-come, first-served basis and subject to venue capacity.\n\nFrequently Asked Questions:\n\nCan I bring a guest?\nNo, each attendee must register.\n\nHow far is The Shed (Ripple Swell)?\nRipple Swell is about a 7-minute drive from Barcade.",
-    "descriptionSource": {
-      "url": "https://luma.com/xrp-sidekick-ny",
-      "fetchedAt": "2026-10-12T11:25:14.991Z",
-      "method": "reviewed-stored-organizer-copy",
-      "pageTitle": "XRP Sidekick - NY",
-      "sha256": "8641b6c81431898ed1697a784ef5bd61327e25c7a7ec0984977f47f3590404f0"
     }
   },
   "curated-digital-assets-forum-new-york-2026-11-13": {

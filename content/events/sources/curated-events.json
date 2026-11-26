@@ -699,29 +699,6 @@
     }
   },
   {
-    "id": "premier-hackmeridian",
-    "slug": "hackmeridian",
-    "name": "HackMeridian 2026",
-    "description": "## Build something worth shipping.\n\nTwo days of building alongside developers, founders, designers, and technical teams in Lisbon. HackMeridian brings together builders from around the world to turn ambitious ideas into working products, with hands-on support from the Stellar ecosystem\n\nAlongside Meridian 2026\n\nHackMeridian runs with Meridian 2026, October 28-29 at Convento do Beato, Lisbon, Portugal: two days of insights, connections, and opportunities shaping the future of global finance. Meridian focuses on how the Stellar network is used in the real world, balancing learning, collaboration, and product discovery with direct access to the people and organizations behind it\n\nScale\n\nOver 1,000 attendees from 65 countries engaged in 60+ sessions with 115+ speakers at Meridian 2025, with world-class speakers across blockchain, finance, and policy - past speakers have included leaders from DTCC, Chainlink, PayPal, and Circle. Full access covers keynotes, fireside chats, technical sessions, workshops, and ecosystem showcases.",
-    "startDate": "2026-10-25T09:00:00+01:00",
-    "endDate": "2026-10-26T18:00:00+01:00",
-    "city": "Lisbon",
-    "country": "Portugal",
-    "location": "Lisbon, Portugal",
-    "url": "https://meridian.stellar.org/",
-    "website": "https://meridian.stellar.org/",
-    "coverImage": "/events/hackmeridian.webp",
-    "twitter": null,
-    "source": "curated-premier",
-    "descriptionSource": {
-      "url": "https://meridian.stellar.org/",
-      "fetchedAt": "2026-09-22T12:14:29.000Z",
-      "method": "reviewed-primary-sources",
-      "pageTitle": "Meridian 2026 - Meridian 2026",
-      "sha256": "1e06ced74801252e6d1693e51d94c95bfeff7045c8e07c4b46bfce1597d2a306"
-    }
-  },
-  {
     "id": "premier-meridian",
     "slug": "meridian",
     "name": "Meridian 2026",

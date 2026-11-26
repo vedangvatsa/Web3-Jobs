@@ -751,35 +751,6 @@
     }
   },
   {
-    "id": "luma-batch-evti0AaTIcicsFFO",
-    "slug": "xrp-sidekick-ny",
-    "name": "XRP Sidekick - NY",
-    "description": "Join us for a retro night with the XRP Community. Relax after a long journey to Ripple Swell, enjoy free merch, food, the arcade, and a couple cold ones on us.\n\nExclusive merch available for free to Early Bird ticket holders includes:\n- XRP Drawstring Bag\n- XRP Notebook\n- XRP Keychain\n- XRP Magnet\n- XRP Coaster (x2)\n- XRP 1 Troy Ounce Silver Coin Raffle Ticket\n\nSponsors\n- XRP Ledger Foundation\n- BURN\n- Wave of Innovation\n- Death Ranger\n- MyWeb3\n\nRegional Partner\n- XRP SoCal (United States, CA)\n\nHosted by Lost Art & Endless Endeavors\n\nAll attendees must be 21+ and bring a valid form of ID to gain admission to the venue. Admission is on a first-come, first-served basis and subject to venue capacity.\n\nFrequently Asked Questions:\n\nCan I bring a guest?\nNo, each attendee must register.\n\nHow far is The Shed (Ripple Swell)?\nRipple Swell is about a 7-minute drive from Barcade.",
-    "startDate": "2026-10-26T22:00:00.000Z",
-    "endDate": "2026-10-27T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "Barcade, Barcade, 148 W 24th St, New York, NY 10011, USA",
-    "url": "https://luma.com/xrp-sidekick-ny",
-    "registrationUrl": "https://luma.com/xrp-sidekick-ny",
-    "coverImage": "/events/luma-batch-evti0AaTIcicsFFO-235a70ea.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "timezone": "America/New_York",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "other",
-    "sourceVerification": {
-      "url": "https://luma.com/xrp-sidekick-ny",
-      "eventId": "evt-i0AaTIcicsFFOEI",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtSK22Vhvj9z3xv",
     "slug": "webflea",
     "name": "WEB FLEA",

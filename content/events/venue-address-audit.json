@@ -773,27 +773,6 @@
       "applied": false
     },
     {
-      "id": "premier-hackmeridian",
-      "status": "not-announced",
-      "evidence": [
-        {
-          "url": "https://meridian.stellar.org/hackmeridian",
-          "fetchedAt": "2026-10-19T19:54:04.602Z",
-          "claim": "event-to-venue unresolved: the current dedicated hackathon page announces Lisbon but no named venue",
-          "excerpt": "HACKMERIDIAN | OCTOBER 25–26, 2026 · LISBON, PORTUGAL. ... Two days of building alongside developers, founders, designers, and technical teams in Lisbon. ... Apply for HackMeridian."
-        },
-        {
-          "url": "https://meridian.stellar.org/event-details",
-          "fetchedAt": "2026-10-19T19:55:26.943Z",
-          "claim": "event identity: the organizer distinguishes the October 25–26 hackathon from the October 28–29 conference at Convento do Beato",
-          "excerpt": "Meridian 2026 is a two-day in-person conference taking place October 28–29, 2026 at Convento do Beato in Lisbon, Portugal. ... HackMeridian is the annual Meridian hackathon, running October 25–26, 2026 ... Register here now!"
-        }
-      ],
-      "note": "No named HackMeridian venue was announced on the accessible dedicated page or organizer FAQ. The conference's Convento do Beato location must not be transferred to this separate hackathon. The stated hackathon dates match the target. Application and registration conditions remain with the organizer.",
-      "name": "HackMeridian 2026",
-      "applied": false
-    },
-    {
       "id": "premier-meridian",
       "status": "verified",
       "patch": {

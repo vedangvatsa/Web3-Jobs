@@ -742,33 +742,6 @@
       }
     ]
   },
-  "premier-hackmeridian": {
-    "summaryLead": "HackMeridian stretches across nine days from October 25 to November 2 - a global hackathon series pushing builders to ship novel web3 applications through regional rounds before a grand finale gathers the strongest work from wherever it was built.",
-    "sections": [
-      {
-        "heading": "Nine days, several regions, one finale",
-        "content": [
-          "Most hackathons compress into a caffeine-fueled weekend and reward whoever lived closest to the venue. HackMeridian takes the opposite bet: a series running October 25 through November 2, structured as regional rounds feeding into a grand finale. Spreading the competition across regions means teams enter where they already are rather than flying somewhere first, and the finale collects the best output globally rather than the output that happened to be within taxi distance of one convention centre.",
-          "The brief, per the organizers, is novel web3 applications - emphasis on both halves of that phrase. Nine days sounds generous until you subtract work schedules, sleep, and the inevitable scope creep that arrives around day four. Treat the format less like a sprint and more like a compressed project cycle: build early, demo constantly, cut features without sentimentality. The teams that pace themselves across nine days consistently outperform the ones that burn out by the first weekend.",
-          "Watch the official HackMeridian channels for regional round specifics, judging criteria, deadlines, and finale logistics, since a series spanning multiple regions inevitably staggers its schedule."
-        ]
-      },
-      {
-        "heading": "What judges actually reward",
-        "content": [
-          "Novelty is the stated bar, which cuts against cloning whatever shipped last season. In multi-round formats, judges consistently favor entries that run end-to-end over ambitious half-built architectures - a small application that a stranger can use in ninety seconds outscores a protocol diagram no one can execute. Have the demo rehearsed before the final round, because presentation failures sink otherwise strong builds every single season.",
-          "Novel does not mean obscure, though. The winning pattern in recent hackathon cycles is usually a familiar problem solved through an unfamiliar mechanism: a payments flow nobody wired that way, an identity trick applied to a consumer case, a game mechanic that only works because the assets live on-chain. If your pitch requires five minutes of context before the demonstration starts, the idea is probably carrying too much theory. Judges remember demos, not decks - build accordingly, and spend your final hours polishing the path a reviewer takes through your product rather than adding one more feature nobody asked for."
-        ]
-      },
-      {
-        "heading": "Logistics beat inspiration",
-        "content": [
-          "Team formation early in round one matters more than most participants admit. Distributed rounds reward teams that settle roles immediately - who ships contracts, who owns the interface, who records and edits the demo video - because nine calendar days shrink fast once coordination overhead compounds across timezones. Solo entrants should pick scope accordingly; a polished single-feature submission beats a sprawling unfinished one without exception.",
-          "Working distributed also means writing things down. Decisions made verbally on a call evaporate by the next call, so keep a shared spec document from hour one and treat it as the single source of truth; teammates joining mid-round will thank you for it, and so will you on day six when someone proposes rebuilding the core. Agree early on how scope disagreements get settled, because someone always wants to rewrite everything once the deadline looms. And whatever you build, keep the repository clean and the commit history honest. Reviewers look, and a tidy history signals exactly the kind of builder who turns a hackathon project into something that survives long after the finale results are posted."
-        ]
-      }
-    ]
-  },
   "premier-meridian": {
     "summaryLead": "Meridian, the Stellar Development Foundation's annual flagship gathering, returns October 27-29 for three days centered on the network's home turf: payments, tokenization, and remittances - the problems Stellar was architected to solve.",
     "sections": [
