@@ -988,5 +988,36 @@
     "slotKey": "2026-11-25:evening",
     "messageId": 65855,
     "sentAt": "2026-11-25T20:42:02.002Z"
+  },
+  "1db98b84-97a0-478b-a58e-6722c1480701": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T04:50:06.582Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "French Senate rejects mandatory disclosure for large crypto wallets",
+        "summary": "Lawmakers voted against three tax amendments, including a requirement to report self-custodied assets worth over 100,000 euros.",
+        "link": "https://hashtagweb3.com/frenchsenate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Senate rejects 100,000 euro crypto wallet disclosure rule"
+      },
+      {
+        "index": -1,
+        "headline": "US Adds Seven Megaspeed-Linked Companies to Trade Blacklist",
+        "summary": "The Commerce Department restricted these firms due to concerns regarding the unauthorized transfer of advanced computing technology.",
+        "link": "https://hashtagweb3.com/megaspeedlist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US adds Megaspeed and six affiliates to Commerce Entity List"
+      },
+      {
+        "index": -1,
+        "headline": "DOJ Seeks Forfeiture of $1.1 Billion in Stolen USDC",
+        "summary": "The government filed to seize funds from the October Binance hack, with Circle agreeing to replace the tokens.",
+        "link": "https://hashtagweb3.com/usdcforfeit?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Justice Department files to forfeit $1.1B in USDC from Binance hack"
+      }
+    ],
+    "slotKey": "2026-11-26:morning"
   }
 }
