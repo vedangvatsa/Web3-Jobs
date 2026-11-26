@@ -19376,7 +19376,7 @@
     }
   },
   {
-    "id": "0g-apollo",
+    "id": "0gapollo",
     "name": "0G Apollo Accelerator",
     "provider": "0G Labs",
     "category": "Web3 Ecosystem",
@@ -19434,7 +19434,7 @@
     ]
   },
   {
-    "id": "1inch-bounty",
+    "id": "1inchbounty",
     "name": "1inch Bug Bounty Program",
     "provider": "1inch",
     "category": "Security & Audits",
@@ -19492,7 +19492,7 @@
     ]
   },
   {
-    "id": "1inch-grants",
+    "id": "1inchgrants",
     "name": "1inch Foundation Grants",
     "provider": "1inch Foundation",
     "category": "Web3 Ecosystem",
@@ -19550,7 +19550,7 @@
     ]
   },
   {
-    "id": "aaif-goose-g",
+    "id": "aaifgooseg",
     "name": "AAIF Goose Grant Program",
     "provider": "Agentic AI Foundation",
     "category": "AI & Open Source",
@@ -19608,7 +19608,7 @@
     ]
   },
   {
-    "id": "aave-bounty",
+    "id": "aavebounty",
     "name": "Aave Bug Bounty Program",
     "provider": "Aave",
     "category": "Security & Audits",
@@ -19666,7 +19666,7 @@
     ]
   },
   {
-    "id": "aethir-wxm",
+    "id": "aethirwxm",
     "name": "Aethir x WeatherXM Partnership",
     "provider": "Aethir & WeatherXM",
     "category": "Web3 Ecosystem",
@@ -19724,7 +19724,7 @@
     ]
   },
   {
-    "id": "mistral-amb",
+    "id": "mistralamb",
     "name": "Mistral AI Ambassador Program",
     "provider": "Mistral AI",
     "category": "AI & Open Source",
@@ -19782,7 +19782,7 @@
     ]
   },
   {
-    "id": "anthr-stu",
+    "id": "anthrstu",
     "name": "Anthropic Startup Program",
     "provider": "Anthropic",
     "category": "AI & Open Source",
@@ -19840,7 +19840,7 @@
     ]
   },
   {
-    "id": "openai-stu",
+    "id": "openaistu",
     "name": "OpenAI Startup Program",
     "provider": "OpenAI",
     "category": "AI & Open Source",
@@ -19898,7 +19898,7 @@
     ]
   },
   {
-    "id": "toget-stu",
+    "id": "togetstu",
     "name": "Together AI Startup Accelerator",
     "provider": "Together AI",
     "category": "AI & Open Source",
@@ -19956,7 +19956,7 @@
     ]
   },
   {
-    "id": "perp-stu",
+    "id": "perpstu",
     "name": "Perplexity AI for Startups",
     "provider": "Perplexity AI",
     "category": "AI & Open Source",
@@ -20014,7 +20014,7 @@
     ]
   },
   {
-    "id": "exa-stu",
+    "id": "exastu",
     "name": "Exa Startup Program",
     "provider": "Exa",
     "category": "AI & Open Source",
@@ -20072,7 +20072,7 @@
     ]
   },
   {
-    "id": "runw-grant",
+    "id": "runwgrant",
     "name": "Runware Grant Program",
     "provider": "Runware",
     "category": "AI & Open Source",
@@ -20130,7 +20130,7 @@
     ]
   },
   {
-    "id": "vercel-stu",
+    "id": "vercelstu",
     "name": "Vercel for Startups",
     "provider": "Vercel",
     "category": "Cloud & Infra",
@@ -20188,7 +20188,7 @@
     ]
   },
   {
-    "id": "supa-stu",
+    "id": "supastu",
     "name": "Supabase for Startups",
     "provider": "Supabase",
     "category": "Cloud & Infra",
@@ -20246,7 +20246,7 @@
     ]
   },
   {
-    "id": "neon-stu",
+    "id": "neonstu",
     "name": "Neon Startup Program",
     "provider": "Neon",
     "category": "Cloud & Infra",
@@ -20304,7 +20304,7 @@
     ]
   },
   {
-    "id": "render-stu",
+    "id": "renderstu",
     "name": "Render for Startups",
     "provider": "Render",
     "category": "Cloud & Infra",
@@ -20362,7 +20362,7 @@
     ]
   },
   {
-    "id": "mongo-stu",
+    "id": "mongostu",
     "name": "MongoDB for Startups",
     "provider": "MongoDB",
     "category": "Cloud & Infra",
@@ -20420,7 +20420,7 @@
     ]
   },
   {
-    "id": "pscale-stu",
+    "id": "pscalestu",
     "name": "PlanetScale for Startups",
     "provider": "PlanetScale",
     "category": "Cloud & Infra",
@@ -20478,7 +20478,7 @@
     ]
   },
   {
-    "id": "neo4j-stu",
+    "id": "neo4jstu",
     "name": "Neo4j Startup Program",
     "provider": "Neo4j",
     "category": "Cloud & Infra",
@@ -20536,7 +20536,7 @@
     ]
   },
   {
-    "id": "nirv-stu",
+    "id": "nirvstu",
     "name": "Nirvana Labs Startup Credits",
     "provider": "Nirvana Labs",
     "category": "Web3 Ecosystem",
@@ -20594,7 +20594,7 @@
     ]
   },
   {
-    "id": "sentry-stu",
+    "id": "sentrystu",
     "name": "Sentry for Startups",
     "provider": "Sentry",
     "category": "DevTools & Security",
@@ -20652,7 +20652,7 @@
     ]
   },
   {
-    "id": "vanta-stu",
+    "id": "vantastu",
     "name": "Vanta for Startups",
     "provider": "Vanta",
     "category": "DevTools & Security",
@@ -20710,7 +20710,7 @@
     ]
   },
   {
-    "id": "mixp-stu",
+    "id": "mixpstu",
     "name": "Mixpanel for Startups",
     "provider": "Mixpanel",
     "category": "DevTools & Security",
@@ -20768,7 +20768,7 @@
     ]
   },
   {
-    "id": "inter-stu",
+    "id": "interstu",
     "name": "Intercom Early Stage Program",
     "provider": "Intercom",
     "category": "DevTools & Security",
@@ -20826,7 +20826,7 @@
     ]
   },
   {
-    "id": "angel-stu",
+    "id": "angelstu",
     "name": "AngelList for Startups",
     "provider": "AngelList",
     "category": "Startup Ecosystem",
@@ -20884,7 +20884,7 @@
     ]
   },
   {
-    "id": "convex-stu",
+    "id": "convexstu",
     "name": "Convex for Startups",
     "provider": "Convex",
     "category": "Cloud & Infra",
@@ -20942,7 +20942,7 @@
     ]
   },
   {
-    "id": "turso-stu",
+    "id": "tursostu",
     "name": "Turso for Startups",
     "provider": "Turso",
     "category": "Cloud & Infra",
@@ -21000,7 +21000,7 @@
     ]
   },
   {
-    "id": "temp-stu",
+    "id": "tempstu",
     "name": "Temporal for Startups",
     "provider": "Temporal",
     "category": "Cloud & Infra",
@@ -21058,7 +21058,7 @@
     ]
   },
   {
-    "id": "incid-stu",
+    "id": "incidstu",
     "name": "incident.io for Startups",
     "provider": "incident.io",
     "category": "DevTools & Security",
@@ -21116,7 +21116,7 @@
     ]
   },
   {
-    "id": "mojo-stu",
+    "id": "mojostu",
     "name": "MojoAuth for Startups",
     "provider": "MojoAuth",
     "category": "DevTools & Security",
@@ -21174,7 +21174,7 @@
     ]
   },
   {
-    "id": "eleven-stu",
+    "id": "elevenstu",
     "name": "ElevenLabs Startup Grants",
     "provider": "ElevenLabs",
     "category": "AI & Open Source",
@@ -21232,7 +21232,7 @@
     ]
   },
   {
-    "id": "chgb-stu",
+    "id": "chgbstu",
     "name": "Chargebee for Startups",
     "provider": "Chargebee",
     "category": "Startup Ecosystem",
@@ -21290,7 +21290,7 @@
     ]
   },
   {
-    "id": "oyster-stu",
+    "id": "oysterstu",
     "name": "Oyster for Startups",
     "provider": "Oyster",
     "category": "Startup Ecosystem",
@@ -21348,7 +21348,7 @@
     ]
   },
   {
-    "id": "brevo-stu",
+    "id": "brevostu",
     "name": "Brevo for Startups",
     "provider": "Brevo",
     "category": "Startup Ecosystem",
@@ -21406,7 +21406,7 @@
     ]
   },
   {
-    "id": "mailazy-stu",
+    "id": "mailazystu",
     "name": "Mailazy Startup Program",
     "provider": "Mailazy",
     "category": "Startup Ecosystem",
