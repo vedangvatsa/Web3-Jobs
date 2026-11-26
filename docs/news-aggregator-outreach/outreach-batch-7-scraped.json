@@ -1,0 +1,92 @@
+{
+  "dispatchedAt": "2026-11-26T09:52:09.680Z",
+  "total": 14,
+  "delivered": 14,
+  "failed": 0,
+  "results": [
+    {
+      "name": "9to5Mac",
+      "email": "ads+contact@9to5mac.com",
+      "deliveryId": "01a21744-e2c6-7177-912f-49d2b740cb6a",
+      "status": "delivered"
+    },
+    {
+      "name": "9to5Google",
+      "email": "gtips@9to5g.com",
+      "deliveryId": "01a21744-e7ef-70e3-9183-2b5120556386",
+      "status": "delivered"
+    },
+    {
+      "name": "Electrek",
+      "email": "tip+contactpage@electrek.co",
+      "deliveryId": "01a21744-ec5f-7cce-b282-66b08b398736",
+      "status": "delivered"
+    },
+    {
+      "name": "Android Authority",
+      "email": "contact@androidauthority.com",
+      "deliveryId": "01a21744-eeba-7033-af71-9dcaf806fd53",
+      "status": "delivered"
+    },
+    {
+      "name": "LWN.net",
+      "email": "authors@lwn.net",
+      "deliveryId": "01a21744-f0da-7e4e-a2cb-629c9a5af623",
+      "status": "delivered"
+    },
+    {
+      "name": "GeeksforGeeks",
+      "email": "feedback@geeksforgeeks.org",
+      "deliveryId": "01a21744-f336-793e-8251-31421c5ae5f8",
+      "status": "delivered"
+    },
+    {
+      "name": "Tutorialspoint",
+      "email": "media@tutorialspoint.com",
+      "deliveryId": "01a21744-f5dd-7892-bead-caf59247b7e3",
+      "status": "delivered"
+    },
+    {
+      "name": "Cloudflare Blog",
+      "email": "press@cloudflare.com",
+      "deliveryId": "01a21744-f835-71e8-8d32-30cc806f59e3",
+      "status": "delivered"
+    },
+    {
+      "name": "ByteByteGo",
+      "email": "hi@bytebytego.com",
+      "deliveryId": "01a21744-fa60-7398-a74e-45e71d9c2cb9",
+      "status": "delivered"
+    },
+    {
+      "name": "Cohere",
+      "email": "support@cohere.com",
+      "deliveryId": "01a21744-fcd4-71e5-b9d3-537249a2390f",
+      "status": "delivered"
+    },
+    {
+      "name": "TokenPost",
+      "email": "info@tokenpost.com",
+      "deliveryId": "01a21744-ff2d-7b5a-bbd0-b293e2441efa",
+      "status": "delivered"
+    },
+    {
+      "name": "Blockhead",
+      "email": "hello@blockhead.co",
+      "deliveryId": "01a21745-014b-7d45-8894-bc65e9265411",
+      "status": "delivered"
+    },
+    {
+      "name": "Foresight News",
+      "email": "gary@foresightnews.pro",
+      "deliveryId": "01a21745-039a-7204-ba82-59dd06cbeea5",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoSlate News",
+      "email": "tips@cryptoslate.com",
+      "deliveryId": "01a21745-0645-7a19-ac58-6d2ecb8f34d8",
+      "status": "delivered"
+    }
+  ]
+}
