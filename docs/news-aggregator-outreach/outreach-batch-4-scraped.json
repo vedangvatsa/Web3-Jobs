@@ -1,0 +1,29 @@
+{
+  "dispatchedAt": "2026-11-26T09:38:10.207Z",
+  "results": [
+    {
+      "name": "Feedly",
+      "email": "care@feedly.com",
+      "deliveryId": "01a21738-2d90-7b16-b2d7-44d17cac7ebb",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBlur",
+      "email": "lyric@newsblur.com",
+      "deliveryId": "01a21738-3021-77d8-9af8-1e19f6e6f302",
+      "status": "delivered"
+    },
+    {
+      "name": "Daily.dev",
+      "email": "press@daily.dev",
+      "deliveryId": "01a21738-3251-7a16-a9e7-eec40005453d",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak",
+      "email": "correction@newsbreak.com",
+      "deliveryId": "01a21738-3724-72b5-b9ea-6fa90f3f0bae",
+      "status": "delivered"
+    }
+  ]
+}
