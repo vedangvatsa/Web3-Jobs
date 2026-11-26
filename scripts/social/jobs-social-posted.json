@@ -195079,6 +195079,47 @@
       "attemptId": "d8f65819-0de1-42d1-9f51-ec36ebb91d03",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "eng797",
+      "company": "Bitpanda",
+      "title": "Software Engineer, Java",
+      "platform": "linkedin",
+      "postedAt": "2026-11-26T13:06:36.847Z",
+      "expectedText": "Bitpanda is hiring Software Engineer, Java: https://hashtagweb3.com/eng797/li?og=7",
+      "snapshot": {
+        "id": "4963196101",
+        "title": "Software Engineer, Java",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963196101",
+        "date": "2026-11-16T14:41:41-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng797"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Software Engineer, Java: https://hashtagweb3.com/eng797/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/eng797/li?og=7",
+          "title": "Software Engineer, Java at Bitpanda | Hashtag Web3",
+          "description": "Join Bitpanda as Software Engineer, Java. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/eng797.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "b8150f67-e3dd-4d19-ae67-977f63dd192f",
+      "verification": "creating"
     }
   ]
 }
