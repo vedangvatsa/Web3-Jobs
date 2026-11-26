@@ -195962,6 +195962,34 @@
       "attemptId": "08a9b67f-342c-4f55-be92-72493a5d98fd",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "pm409",
+      "company": "BVNK",
+      "title": "Senior Product Manager - Collections",
+      "platform": "facebook",
+      "postedAt": "2026-11-26T13:12:43.582Z",
+      "expectedText": "BVNK is hiring Senior Product Manager: https://hashtagweb3.com/pm409/fb?og=7",
+      "snapshot": {
+        "id": "5036629101",
+        "title": "Senior Product Manager - Collections",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5036629101",
+        "date": "2026-11-16T09:57:21-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm409"
+      },
+      "payload": {
+        "message": "BVNK is hiring Senior Product Manager: https://hashtagweb3.com/pm409/fb?og=7",
+        "link": "https://hashtagweb3.com/pm409/fb?og=7"
+      },
+      "attemptId": "87a61bb7-c03f-4947-ac3d-8e985d651294",
+      "verification": "creating"
     }
   ]
 }
