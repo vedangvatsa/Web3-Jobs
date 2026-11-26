@@ -196893,6 +196893,38 @@
       "attemptId": "45ac2dd7-0d4c-4bce-bec1-3dc7a75fea95",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 26-Nov-26 15:26:46 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"Akzzp_-1F1zVeSrCLRyRA-Z\"}"
+    },
+    {
+      "slug": "sec194",
+      "company": "dtcpay",
+      "title": "Security Operations Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-11-26T23:26:33.082Z",
+      "expectedText": "dtcpay is hiring Security Operations Engineer: https://hashtagweb3.com/sec194/bsky?og=7",
+      "snapshot": {
+        "id": "4009842201",
+        "title": "Security Operations Engineer",
+        "company": "dtcpay",
+        "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009842201",
+        "date": "2026-11-20T05:58:48-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: dtcpay [dtcpay]",
+        "location": "Singapore",
+        "department": "SOC",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec194"
+      },
+      "payload": {
+        "text": "dtcpay is hiring Security Operations Engineer: https://hashtagweb3.com/sec194/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sec194/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sec194.png?v=7",
+        "company": "dtcpay",
+        "title": "Security Operations Engineer",
+        "description": "Join dtcpay as Security Operations Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "d7959d9d-d992-464e-b5cb-69cbfb006874",
+      "verification": "creating"
     }
   ]
 }
