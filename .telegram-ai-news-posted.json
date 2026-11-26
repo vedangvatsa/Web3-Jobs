@@ -95,6 +95,9 @@
   "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
   "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
   "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
+  "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+  "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+  "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -287,6 +290,12 @@
   "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
   "ZDNet Reviews Top Headphones for 2026",
   "ZDNET’s best headphones of 2026: These two pairs left us impressed",
+  "Microsoft identifies AI framework used for automated cyberattacks",
+  "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+  "Maple secures funding for encrypted AI architecture",
+  "Maple raises $5.3M to build AI products that protect your data, even from itself",
+  "Scott Aaronson says AI math breakthroughs have wide consequences",
+  "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -382,5 +391,8 @@
   "fp:authoriz|autonomous|bas|can|cannot|caus|damag|exist|framework|fully",
   "fp:access|advanc|asian|chines|chip|control|country|decision|export|follow",
   "fp:33b|capital|early|early2027|elevenlab|investor|reportedly|seek|talk|valuation",
-  "fp:bas|best|for2026|guid|headphon|impress|left|of2026|pair|publish"
+  "fp:bas|best|for2026|guid|headphon|impress|left|of2026|pair|publish",
+  "fp:are|artex|automat|back|cyberattack|detail|driven|execut|framework|group",
+  "fp:53m|access|architectur|develop|dur|encrypt|even|itself|mapl|prevent",
+  "fp:aaronson|affect|believ|breakthrough|can|complex|consequenc|economy|fact|former"
 ]

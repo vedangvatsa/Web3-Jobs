@@ -1220,7 +1220,7 @@
     "sentAt": "2026-11-26T13:05:11.821Z"
   },
   "1f77e8e7-a811-426d-a463-c206dab9b445": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T20:27:56.414Z",
     "stories": [
       {
@@ -1252,6 +1252,8 @@
         "originalTitle": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it"
       }
     ],
-    "slotKey": "2026-11-26:evening"
+    "slotKey": "2026-11-26:evening",
+    "messageId": 193589,
+    "sentAt": "2026-11-26T20:28:03.590Z"
   }
 }
