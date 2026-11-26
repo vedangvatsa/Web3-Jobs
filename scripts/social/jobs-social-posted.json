@@ -195418,6 +195418,40 @@
       "attemptId": "bc795156-f006-4f08-b259-2bab46171106",
       "verification": "verified",
       "postId": "0x6102cb1c1da5a45409ce3a7d209fbf1c3758ac60"
+    },
+    {
+      "slug": "pm409",
+      "company": "BVNK",
+      "title": "Senior Product Manager - Collections",
+      "platform": "farcaster",
+      "postedAt": "2026-11-26T13:12:43.582Z",
+      "expectedText": "BVNK is hiring Senior Product Manager\n\nhttps://hashtagweb3.com/pm409/fc?og=7",
+      "snapshot": {
+        "id": "5036629101",
+        "title": "Senior Product Manager - Collections",
+        "company": "BVNK",
+        "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5036629101",
+        "date": "2026-11-16T09:57:21-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BVNK [bvnk]",
+        "location": "London",
+        "department": "Product",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm409"
+      },
+      "payload": {
+        "text": "BVNK is hiring Senior Product Manager\n\nhttps://hashtagweb3.com/pm409/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm409/fc?og=7"
+          }
+        ],
+        "channel_id": "dev"
+      },
+      "account": "channel:dev",
+      "attemptId": "7bf75e8a-6a32-45bc-a8b4-45d6bc68eef8",
+      "verification": "creating"
     }
   ]
 }
