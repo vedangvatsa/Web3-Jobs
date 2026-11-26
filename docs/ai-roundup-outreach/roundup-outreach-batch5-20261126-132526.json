@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-26T13:25:26.000Z",
+  "total": 15,
+  "delivered": 15,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Fintech Weekly",
+      "email": "contact@fintechweekly.com",
+      "title": "Web3 and Blockchain Career Opportunities",
+      "url": "https://www.fintechweekly.com",
+      "deliveryId": "01a21808-0a33-72d2-ba50-d7814b017654",
+      "status": "delivered"
+    },
+    {
+      "name": "Blockchain Reporter",
+      "email": "info@blockchainreporter.net",
+      "title": "Web3 Job Boards and Industry Careers",
+      "url": "https://blockchainreporter.net",
+      "deliveryId": "01a21808-0f4d-7866-920b-d31845e5cfdf",
+      "status": "delivered"
+    },
+    {
+      "name": "Altcoin Buzz",
+      "email": "contact@altcoinbuzz.io",
+      "title": "How to Get Hired in Web3 and Crypto",
+      "url": "https://www.altcoinbuzz.io",
+      "deliveryId": "01a21808-143d-7692-8710-5c14dc0363f5",
+      "status": "delivered"
+    },
+    {
+      "name": "The Merkle Hash",
+      "email": "contact@themerkle.com",
+      "title": "Blockchain Careers and Hiring Platforms",
+      "url": "https://themerkle.com",
+      "deliveryId": "01a21808-16e8-7bd6-9d40-197a007a830e",
+      "status": "delivered"
+    },
+    {
+      "name": "Brave New Coin",
+      "email": "contact@bravenewcoin.com",
+      "title": "Crypto Jobs and Career Strategies",
+      "url": "https://bravenewcoin.com",
+      "deliveryId": "01a21808-1a04-7860-99e0-89e0ab3c47a9",
+      "status": "delivered"
+    },
+    {
+      "name": "DappRadar",
+      "email": "contact@dappradar.com",
+      "title": "Top Web3 Platforms and Developer Ecosystem",
+      "url": "https://dappradar.com/blog",
+      "deliveryId": "01a21808-1caf-7701-ac09-0ab61c8268c8",
+      "status": "delivered"
+    },
+    {
+      "name": "NFT Evening",
+      "email": "contact@nftevening.com",
+      "title": "Working in Web3: Best Career and Job Portals",
+      "url": "https://nftevening.com",
+      "deliveryId": "01a21808-2181-7eba-a353-26a051a3cfc8",
+      "status": "delivered"
+    },
+    {
+      "name": "NFT Now",
+      "email": "editorial@nftnow.com",
+      "title": "Web3 Creators and Career Opportunities",
+      "url": "https://nftnow.com",
+      "deliveryId": "01a21808-2694-7d72-92b6-3cb3a5f76cfc",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinCodex",
+      "email": "contact@coincodex.com",
+      "title": "Guide to Crypto Careers and Job Portals",
+      "url": "https://coincodex.com",
+      "deliveryId": "01a21808-29c8-72d5-9eba-d1b329f74bca",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoDaily",
+      "email": "hello@cryptodaily.co.uk",
+      "title": "How to Land a Web3 Job",
+      "url": "https://cryptodaily.co.uk",
+      "deliveryId": "01a21808-2f42-7bc4-8b65-250e28e38da0",
+      "status": "delivered"
+    },
+    {
+      "name": "Coinspeaker",
+      "email": "editorial@coinspeaker.com",
+      "title": "Careers in Blockchain and Top Job Boards",
+      "url": "https://www.coinspeaker.com",
+      "deliveryId": "01a21808-3496-7262-a43f-97120a9b477c",
+      "status": "delivered"
+    },
+    {
+      "name": "TechBullion",
+      "email": "editorial@techbullion.com",
+      "title": "Top Web3 Career Platforms and Resources",
+      "url": "https://techbullion.com/category/blockchain/",
+      "deliveryId": "01a21808-37b2-7979-a7a4-593fbe048032",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoGlobe",
+      "email": "contact@cryptoglobe.com",
+      "title": "Crypto Career Opportunities Guide",
+      "url": "https://www.cryptoglobe.com",
+      "deliveryId": "01a21808-3dae-7c7b-8345-1ef74d964708",
+      "status": "delivered"
+    },
+    {
+      "name": "Etherscan",
+      "email": "support@etherscan.io",
+      "title": "Web3 Ecosystem and Builder Opportunities",
+      "url": "https://info.etherscan.com",
+      "deliveryId": "01a21808-454f-7679-b66a-f559ad56583e",
+      "status": "delivered"
+    },
+    {
+      "name": "Biconomy",
+      "email": "support@biconomy.io",
+      "title": "Top Web3 Job Boards for Developers",
+      "url": "https://www.biconomy.io/post/top-web3-job-boards",
+      "deliveryId": "01a21808-47f0-79c8-84ae-56eed7e7610a",
+      "status": "delivered"
+    }
+  ]
+}
