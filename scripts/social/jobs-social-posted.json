@@ -193415,6 +193415,34 @@
       "attemptId": "579ba423-011d-49f4-8b87-dd0188c1c090",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "am2",
+      "company": "Bybit",
+      "title": "AMLO",
+      "platform": "facebook",
+      "postedAt": "2026-11-26T04:49:52.221Z",
+      "expectedText": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/fb?og=7",
+      "snapshot": {
+        "id": "5035471101",
+        "title": "AMLO",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5035471101",
+        "date": "2026-11-20T16:06:10-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "am2"
+      },
+      "payload": {
+        "message": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/fb?og=7",
+        "link": "https://hashtagweb3.com/am2/fb?og=7"
+      },
+      "attemptId": "6b53a547-d911-40f5-8c4e-df4e884adf46",
+      "verification": "creating"
     }
   ]
 }
