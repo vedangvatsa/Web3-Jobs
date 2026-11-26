@@ -1,0 +1,20 @@
+{
+  "dispatchedAt": "2026-11-26T11:07:50.000Z",
+  "total": 2,
+  "delivered": 2,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Creative Commons",
+      "email": "info@creativecommons.org",
+      "deliveryId": "01a2178a-4c98-740e-99e1-c42bd4d19a44",
+      "status": "delivered"
+    },
+    {
+      "name": "Django Software Foundation",
+      "email": "django@fosstodon.org",
+      "deliveryId": "01a2178a-4f95-720d-afab-cb3ba07847c2",
+      "status": "delivered"
+    }
+  ]
+}
