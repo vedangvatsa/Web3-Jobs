@@ -1,0 +1,158 @@
+{
+  "dispatchedAt": "2026-11-26T09:30:42.932Z",
+  "total": 25,
+  "delivered": 25,
+  "failed": 0,
+  "results": [
+    {
+      "name": "CoinMarketCal",
+      "email": "contact@coinmarketcal.com",
+      "deliveryId": "01a21731-3011-7ed0-9f11-bf5e5f8ead7b",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinLore",
+      "email": "contact@coinlore.com",
+      "deliveryId": "01a21731-3244-7783-8620-71ef39ebe7e0",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinRanking",
+      "email": "support@coinranking.com",
+      "deliveryId": "01a21731-346b-7ac0-957c-8f47627aed8f",
+      "status": "delivered"
+    },
+    {
+      "name": "Nomics / CoinLib",
+      "email": "support@coinlib.io",
+      "deliveryId": "01a21731-3698-7b4f-a00f-5e8cb287e5ec",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoRank",
+      "email": "support@cryptorank.io",
+      "deliveryId": "01a21731-389e-7ec1-8f56-70b91dfead6f",
+      "status": "delivered"
+    },
+    {
+      "name": "Dropstab",
+      "email": "support@dropstab.com",
+      "deliveryId": "01a21731-3a9a-7084-ba26-9c02a726a3c8",
+      "status": "delivered"
+    },
+    {
+      "name": "DeFiLlama",
+      "email": "contact@defillama.com",
+      "deliveryId": "01a21731-3c95-7132-8f74-e1a34a36ac3e",
+      "status": "delivered"
+    },
+    {
+      "name": "DappRadar",
+      "email": "support@dappradar.com",
+      "deliveryId": "01a21731-3ebd-7906-af5a-d3c0001f702c",
+      "status": "delivered"
+    },
+    {
+      "name": "GeckoTerminal",
+      "email": "support@geckoterminal.com",
+      "deliveryId": "01a21731-40e8-7129-91e6-90a938209a4c",
+      "status": "delivered"
+    },
+    {
+      "name": "DexScreener",
+      "email": "support@dexscreener.com",
+      "deliveryId": "01a21731-4314-7901-a8d3-2ab8d2d281d5",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsAggregators / Feeder",
+      "email": "hello@feeder.co",
+      "deliveryId": "01a21731-4589-7517-8f8d-dc3980de5d1c",
+      "status": "delivered"
+    },
+    {
+      "name": "RSSOwl / FeedReader",
+      "email": "support@feedreader.com",
+      "deliveryId": "01a21731-4789-7b21-a422-66cf24be030f",
+      "status": "delivered"
+    },
+    {
+      "name": "Curator.io",
+      "email": "support@curator.io",
+      "deliveryId": "01a21731-49af-71ab-8268-3be632be07ad",
+      "status": "delivered"
+    },
+    {
+      "name": "Taggbox",
+      "email": "support@taggbox.com",
+      "deliveryId": "01a21731-4bd9-7d10-a98a-3a9cfa7c4b6b",
+      "status": "delivered"
+    },
+    {
+      "name": "Walls.io",
+      "email": "support@walls.io",
+      "deliveryId": "01a21731-4e03-7682-ab2e-9e0bd4f6c8e3",
+      "status": "delivered"
+    },
+    {
+      "name": "Elfsight",
+      "email": "support@elfsight.com",
+      "deliveryId": "01a21731-5035-76af-8244-dbbe91656573",
+      "status": "delivered"
+    },
+    {
+      "name": "RSS.app",
+      "email": "support@rss.app",
+      "deliveryId": "01a21731-525f-7904-8fd7-039a964d54a3",
+      "status": "delivered"
+    },
+    {
+      "name": "Zapier",
+      "email": "press@zapier.com",
+      "deliveryId": "01a21731-545c-79ba-bbf4-1d4507cc519c",
+      "status": "delivered"
+    },
+    {
+      "name": "IFTTT",
+      "email": "support@ifttt.com",
+      "deliveryId": "01a21731-5681-7681-8cc1-8c047c3a6dad",
+      "status": "delivered"
+    },
+    {
+      "name": "Blogarama",
+      "email": "support@blogarama.com",
+      "deliveryId": "01a21731-5905-76d6-817a-8cfb5a7005b1",
+      "status": "delivered"
+    },
+    {
+      "name": "OnTopList",
+      "email": "support@ontoplist.com",
+      "deliveryId": "01a21731-5b47-771d-96f5-93a498f3f505",
+      "status": "delivered"
+    },
+    {
+      "name": "Technorati / Synacor",
+      "email": "support@synacor.com",
+      "deliveryId": "01a21731-5d6b-73ee-8bd2-bb33d1f9fe6e",
+      "status": "delivered"
+    },
+    {
+      "name": "Ahrefs",
+      "email": "support@ahrefs.com",
+      "deliveryId": "01a21731-5f67-7e29-87aa-1107e1c408ff",
+      "status": "delivered"
+    },
+    {
+      "name": "Exploding Topics",
+      "email": "support@explodingtopics.com",
+      "deliveryId": "01a21731-6190-7ab9-af4f-b24d16d97b7b",
+      "status": "delivered"
+    },
+    {
+      "name": "Product Hunt",
+      "email": "hello@producthunt.com",
+      "deliveryId": "01a21731-63e1-796c-8cd2-6f1682229fef",
+      "status": "delivered"
+    }
+  ]
+}
