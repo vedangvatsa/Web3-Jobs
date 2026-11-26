@@ -1,0 +1,80 @@
+{
+  "dispatchedAt": "2026-11-26T10:50:52.000Z",
+  "total": 12,
+  "delivered": 12,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Techregister UK",
+      "email": "info@techregister.co.uk",
+      "deliveryId": "01a2177a-a0da-77d7-8788-cd6412404f36",
+      "status": "delivered"
+    },
+    {
+      "name": "TechRound UK",
+      "email": "info@techround.co.uk",
+      "deliveryId": "01a2177a-a39c-7e7e-a4ba-42d75f8936c7",
+      "status": "delivered"
+    },
+    {
+      "name": "TM Forum Inform",
+      "email": "jtaaffe@tmforum.org",
+      "deliveryId": "01a2177a-a652-785d-8d19-0a6b14bb1031",
+      "status": "delivered"
+    },
+    {
+      "name": "FutureScot",
+      "email": "hamish@futurescot.com",
+      "deliveryId": "01a2177a-ac32-793a-9e1e-b1cfcab65b75",
+      "status": "delivered"
+    },
+    {
+      "name": "Digital Transformation World",
+      "email": "support@is.tmforum.org",
+      "deliveryId": "01a2177a-b109-7a23-b81c-1747d9f103a2",
+      "status": "delivered"
+    },
+    {
+      "name": "Billing & OSS World",
+      "email": "green@pipelinepub.com",
+      "deliveryId": "01a2177a-b401-73c4-b00c-27c8b17082b6",
+      "status": "delivered"
+    },
+    {
+      "name": "Pipeline Magazine",
+      "email": "green@pipelinepub.com",
+      "deliveryId": "01a2177a-b6cc-7391-8471-ffd72831d70c",
+      "status": "delivered"
+    },
+    {
+      "name": "UC Today",
+      "email": "conferences@arc-network.com",
+      "deliveryId": "01a2177a-b9e4-7dd7-b888-8532b0b5ffd2",
+      "status": "delivered"
+    },
+    {
+      "name": "Silicon Scotland",
+      "email": "editor@digit.fyi",
+      "deliveryId": "01a2177a-bc9e-7733-85bd-c2e3fda8f25c",
+      "status": "delivered"
+    },
+    {
+      "name": "Digit News",
+      "email": "editor@digit.fyi",
+      "deliveryId": "01a2177a-bf91-7532-89cc-85eb0d55b6cf",
+      "status": "delivered"
+    },
+    {
+      "name": "Smart Cities World",
+      "email": "hello@smartcitiesworld.net",
+      "deliveryId": "01a2177a-c296-7b74-af9a-7221fb79f547",
+      "status": "delivered"
+    },
+    {
+      "name": "Cities Today",
+      "email": "editorial@cities-today.com",
+      "deliveryId": "01a2177a-c815-73c2-b47e-a386a05cc3ce",
+      "status": "delivered"
+    }
+  ]
+}
