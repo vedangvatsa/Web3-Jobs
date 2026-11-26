@@ -191993,7 +191993,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "d98e0e0a-eb51-47d4-a7c3-9507f2768e92",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf25afb05d96da69a9a879b0649e41d14f1328d42"
     }
   ]
 }
