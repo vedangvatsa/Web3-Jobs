@@ -193790,7 +193790,8 @@
       },
       "account": "channel:developers",
       "attemptId": "e16bb911-8065-4a56-b16b-f8b68f178cba",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf34f4f818c8f685eb53cbcc6d24be50b0ec6a4f9"
     }
   ]
 }
