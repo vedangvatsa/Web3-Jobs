@@ -197520,6 +197520,46 @@
       "attemptId": "f44469a5-0779-429e-9e25-349813cb5bcb",
       "verification": "verified",
       "postId": "0xf7cfb26830743f551cf87be791c3451b06dc4585"
+    },
+    {
+      "slug": "sec194",
+      "company": "dtcpay",
+      "title": "Security Operations Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-11-26T23:26:33.082Z",
+      "expectedText": "dtcpay is hiring Security Operations Engineer: https://hashtagweb3.com/sec194/li?og=7",
+      "snapshot": {
+        "id": "4009842201",
+        "title": "Security Operations Engineer",
+        "company": "dtcpay",
+        "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009842201",
+        "date": "2026-11-20T05:58:48-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: dtcpay [dtcpay]",
+        "location": "Singapore",
+        "department": "SOC",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec194"
+      },
+      "payload": {
+        "text": "dtcpay is hiring Security Operations Engineer: https://hashtagweb3.com/sec194/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sec194/li?og=7",
+          "title": "Security Operations Engineer at dtcpay | Hashtag Web3",
+          "description": "Join dtcpay as Security Operations Engineer. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sec194.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "c4dd35ea-0e8b-40f5-8342-a68ec6ab4ffd",
+      "verification": "creating"
     }
   ]
 }
