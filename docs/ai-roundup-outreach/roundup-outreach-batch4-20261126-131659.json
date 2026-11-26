@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-11-26T13:16:59.000Z",
+  "total": 10,
+  "delivered": 10,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Metana",
+      "email": "info@metana.io",
+      "title": "Best Web3 Job Boards for Solidity Developers",
+      "url": "https://metana.io/blog/best-web3-job-boards/",
+      "deliveryId": "01a21800-6f46-79ee-a974-a41d7cdf0861",
+      "status": "delivered"
+    },
+    {
+      "name": "RareSkills",
+      "email": "contact@rareskills.io",
+      "title": "How to Get a Solidity Job: Top Job Sites",
+      "url": "https://www.rareskills.io/post/how-to-get-a-solidity-developer-job",
+      "deliveryId": "01a21800-724a-7267-8e0e-4cbb18731345",
+      "status": "delivered"
+    },
+    {
+      "name": "BitDegree",
+      "email": "hello@bitdegree.org",
+      "title": "How to Get a Job in Crypto: Best Job Sites",
+      "url": "https://www.bitdegree.org/crypto/tutorials/how-to-get-a-job-in-crypto",
+      "deliveryId": "01a21800-74f1-7df9-a50b-029ca25c5808",
+      "status": "delivered"
+    },
+    {
+      "name": "Springboard Blog",
+      "email": "hello@springboard.com",
+      "title": "How to Get a Web3 Job and Top Boards",
+      "url": "https://www.springboard.com/blog/software-engineering/web3-jobs/",
+      "deliveryId": "01a21800-77d1-79d1-a932-071e75767bdd",
+      "status": "delivered"
+    },
+    {
+      "name": "DataCamp Blog",
+      "email": "media@datacamp.com",
+      "title": "Web3 Careers and Where to Find Blockchain Jobs",
+      "url": "https://www.datacamp.com/blog/how-to-become-a-blockchain-developer",
+      "deliveryId": "01a21800-7ac1-7e6c-8801-137e2568c4eb",
+      "status": "delivered"
+    },
+    {
+      "name": "Flatiron School",
+      "email": "admissions@flatironschool.com",
+      "title": "How to Land a Web3 Developer Job",
+      "url": "https://flatironschool.com/blog/how-to-become-a-web3-developer/",
+      "deliveryId": "01a21800-7da4-7ccb-b9f3-5988c75b5a21",
+      "status": "delivered"
+    },
+    {
+      "name": "FintechNews Middle East",
+      "email": "editorial@fintechnews.ae",
+      "title": "Crypto Careers and Top Job Portals",
+      "url": "https://fintechnews.ae",
+      "deliveryId": "01a21800-80f2-7c2e-ba4d-6ca995e58978",
+      "status": "delivered"
+    },
+    {
+      "name": "FintechNews Asia",
+      "email": "editorial@fintechnews.sg",
+      "title": "Top Places to Find Web3 and Fintech Jobs",
+      "url": "https://fintechnews.sg",
+      "deliveryId": "01a21800-83dc-7564-a447-afaf9e73d419",
+      "status": "delivered"
+    },
+    {
+      "name": "Coincu",
+      "email": "info@coincu.com",
+      "title": "Top Platforms for Web3 Jobs and Careers",
+      "url": "https://coincu.com",
+      "deliveryId": "01a21800-86c5-778f-bba0-63ae1ef6adbd",
+      "status": "delivered"
+    },
+    {
+      "name": "TheMarketPeriodical",
+      "email": "contact@themarketperiodical.com",
+      "title": "Best Web3 Job Portals for Crypto Builders",
+      "url": "https://themarketperiodical.com",
+      "deliveryId": "01a21800-8bf0-77f1-bc96-742d4ad15c8d",
+      "status": "delivered"
+    }
+  ]
+}
