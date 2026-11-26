@@ -988,5 +988,36 @@
     "slotKey": "2026-11-25:evening",
     "messageId": 156506,
     "sentAt": "2026-11-25T20:38:31.136Z"
+  },
+  "727567b8-a87f-40ec-9168-ea4f68d91086": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T04:50:12.572Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "French Senate rejects mandatory crypto wallet disclosure rules",
+        "summary": "Lawmakers voted down three tax amendments, including a requirement to report self-custodied assets worth over 100,000 euros.",
+        "link": "https://hashtagweb3.com/frenchsenate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Senate rejects 100,000 euro crypto wallet disclosure rule"
+      },
+      {
+        "index": -1,
+        "headline": "US Adds Seven Megaspeed-Linked Firms to Trade Blacklist",
+        "summary": "The Commerce Department restricted these companies due to concerns regarding the illegal transfer of advanced computing technology.",
+        "link": "https://hashtagweb3.com/megaspeedlist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "US adds Megaspeed and six affiliates to Commerce Entity List"
+      },
+      {
+        "index": -1,
+        "headline": "Utah drops criminal charges against Kalshi after platform blocks users",
+        "summary": "The state attorney general requested dismissal after the exchange restricted access for residents within Utah.",
+        "link": "https://hashtagweb3.com/utahkalshidismiss?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Utah moves to drop 14 criminal charges against Kalshi after it blocks state users"
+      }
+    ],
+    "slotKey": "2026-11-26:morning"
   }
 }
