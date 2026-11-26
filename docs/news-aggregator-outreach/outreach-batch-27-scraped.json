@@ -1,0 +1,68 @@
+{
+  "dispatchedAt": "2026-11-26T10:53:24.000Z",
+  "total": 10,
+  "delivered": 10,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Console.dev",
+      "email": "hello@console.dev",
+      "deliveryId": "01a2177c-fe0b-7b91-ad2e-6bd104730a36",
+      "status": "delivered"
+    },
+    {
+      "name": "Versioning by SitePoint",
+      "email": "support@sitepoint.com",
+      "deliveryId": "01a2177d-00d2-71ff-8c56-5a544ea8f562",
+      "status": "delivered"
+    },
+    {
+      "name": "PerfPlanet",
+      "email": "announce@perfplanet.com",
+      "deliveryId": "01a2177d-03af-74a6-a7e7-5eff55b0d317",
+      "status": "delivered"
+    },
+    {
+      "name": "Automate.org",
+      "email": "address@dmain.com",
+      "deliveryId": "01a2177d-0667-7bb3-8ba4-e9d727745bbd",
+      "status": "delivered"
+    },
+    {
+      "name": "sUAS News",
+      "email": "gary@suasnews.com",
+      "deliveryId": "01a2177d-094b-7703-a4b3-6551ba20f022",
+      "status": "delivered"
+    },
+    {
+      "name": "Memfault Blog",
+      "email": "interrupt@memfault.com",
+      "deliveryId": "01a2177d-0c0c-7c62-9d2a-8e16188478a1",
+      "status": "delivered"
+    },
+    {
+      "name": "Drone Industry Insights",
+      "email": "info@droneii.com",
+      "deliveryId": "01a2177d-0ec4-7b18-82bf-4fdcf69b2442",
+      "status": "delivered"
+    },
+    {
+      "name": "RISC-V Blog",
+      "email": "info@riscv.org",
+      "deliveryId": "01a2177d-1153-7cff-a629-a0b6521e5d28",
+      "status": "delivered"
+    },
+    {
+      "name": "Shoot Online",
+      "email": "accounting@shootonline.com",
+      "deliveryId": "01a2177d-1404-7be3-b67f-37479a418be3",
+      "status": "delivered"
+    },
+    {
+      "name": "Digital Cinema Report",
+      "email": "neil@lakeshadowmedia.com",
+      "deliveryId": "01a2177d-1899-7bb0-9423-2b4ee502439e",
+      "status": "delivered"
+    }
+  ]
+}
