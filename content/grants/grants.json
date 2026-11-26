@@ -20882,5 +20882,585 @@
         ]
       }
     ]
+  },
+  {
+    "id": "convex-stu",
+    "name": "Convex for Startups",
+    "provider": "Convex",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Database Credits",
+    "description": "Convex for Startups provides early-stage engineering teams with reactive backend and database credits, real-time sync infrastructure, and developer support.",
+    "url": "https://www.convex.dev/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Database",
+      "Backend",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "convex.dev",
+    "logo": "https://www.google.com/s2/favicons?domain=convex.dev&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Convex for Startups provides early-stage engineering teams with reactive backend and database credits, real-time sync infrastructure, and developer support.",
+          "Designed for early-stage builders in Cloud & Infra, Convex for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Database Credits along with access to Convex onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Convex for Startups can apply program benefits directly toward production workloads spanning Database, Backend, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Database Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Convex developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Convex for Startups are reviewed by Convex based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official Convex startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turso-stu",
+    "name": "Turso for Startups",
+    "provider": "Turso",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Database Credits",
+    "description": "Turso for Startups offers edge-hosted libSQL database credits, per-tenant database scaling, and onboarding support for early-stage teams.",
+    "url": "https://turso.tech/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Database",
+      "SQLite",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "turso.tech",
+    "logo": "https://www.google.com/s2/favicons?domain=turso.tech&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Turso for Startups offers edge-hosted libSQL database credits, per-tenant database scaling, and onboarding support for early-stage teams.",
+          "Designed for early-stage builders in Cloud & Infra, Turso for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Database Credits along with access to Turso onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Turso for Startups can apply program benefits directly toward production workloads spanning Database, SQLite, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Database Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Turso developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Turso for Startups are reviewed by Turso based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official Turso startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "temp-stu",
+    "name": "Temporal for Startups",
+    "provider": "Temporal",
+    "category": "Cloud & Infra",
+    "type": "Credits",
+    "amount": "Cloud Credits",
+    "description": "Temporal for Startups gives qualifying teams Temporal Cloud credits to run durable execution workflows, background jobs, and resilient distributed systems.",
+    "url": "https://temporal.io/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Workflows",
+      "Infra",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "temporal.io",
+    "logo": "https://www.google.com/s2/favicons?domain=temporal.io&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Temporal for Startups gives qualifying teams Temporal Cloud credits to run durable execution workflows, background jobs, and resilient distributed systems.",
+          "Designed for early-stage builders in Cloud & Infra, Temporal for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Cloud Credits along with access to Temporal onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Temporal for Startups can apply program benefits directly toward production workloads spanning Workflows, Infra, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Cloud Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Temporal developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Temporal for Startups are reviewed by Temporal based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official Temporal startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incid-stu",
+    "name": "incident.io for Startups",
+    "provider": "incident.io",
+    "category": "DevTools & Security",
+    "type": "Credits",
+    "amount": "Platform Credits",
+    "description": "incident.io for Startups provides early-stage engineering teams with discounted credits on incident response, on-call scheduling, and status page tooling.",
+    "url": "https://incident.io/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "DevTooling",
+      "Ops",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "incident.io",
+    "logo": "https://www.google.com/s2/favicons?domain=incident.io&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "incident.io for Startups provides early-stage engineering teams with discounted credits on incident response, on-call scheduling, and status page tooling.",
+          "Designed for early-stage builders in DevTools & Security, incident.io for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Platform Credits along with access to incident.io onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in incident.io for Startups can apply program benefits directly toward production workloads spanning DevTooling, Ops, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Platform Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to incident.io developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for incident.io for Startups are reviewed by incident.io based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official incident.io startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mojo-stu",
+    "name": "MojoAuth for Startups",
+    "provider": "MojoAuth",
+    "category": "DevTools & Security",
+    "type": "Credits",
+    "amount": "Auth Credits",
+    "description": "MojoAuth for Startups offers passwordless authentication, passkey, and identity verification credits for early-stage web and mobile applications.",
+    "url": "https://mojoauth.com/startup/",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Security",
+      "Auth",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "mojoauth.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mojoauth.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "MojoAuth for Startups offers passwordless authentication, passkey, and identity verification credits for early-stage web and mobile applications.",
+          "Designed for early-stage builders in DevTools & Security, MojoAuth for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Auth Credits along with access to MojoAuth onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in MojoAuth for Startups can apply program benefits directly toward production workloads spanning Security, Auth, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Auth Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to MojoAuth developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for MojoAuth for Startups are reviewed by MojoAuth based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official MojoAuth startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "eleven-stu",
+    "name": "ElevenLabs Startup Grants",
+    "provider": "ElevenLabs",
+    "category": "AI & Open Source",
+    "type": "Grant",
+    "amount": "Voice AI Credits",
+    "description": "ElevenLabs Startup Grants equips AI startups with generous voice synthesis, conversational AI, and audio generation API credits.",
+    "url": "https://elevenlabs.io/startup-grants",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "Voice",
+      "Grant"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "elevenlabs.io",
+    "logo": "https://www.google.com/s2/favicons?domain=elevenlabs.io&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "ElevenLabs Startup Grants equips AI startups with generous voice synthesis, conversational AI, and audio generation API credits.",
+          "Designed for early-stage builders in AI & Open Source, ElevenLabs Startup Grants helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Voice AI Credits along with access to ElevenLabs onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in ElevenLabs Startup Grants can apply program benefits directly toward production workloads spanning AI, Voice, Grant."
+        ],
+        "bullets": [
+          "Direct cost relief: Voice AI Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to ElevenLabs developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for ElevenLabs Startup Grants are reviewed by ElevenLabs based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official ElevenLabs startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chgb-stu",
+    "name": "Chargebee for Startups",
+    "provider": "Chargebee",
+    "category": "Startup Ecosystem",
+    "type": "Credits",
+    "amount": "Billing Credits",
+    "description": "Chargebee for Startups provides subscription billing, invoicing, and revenue recognition credits for early-stage SaaS and AI companies.",
+    "url": "https://www.chargebee.com/startups/",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Billing",
+      "SaaS",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "chargebee.com",
+    "logo": "https://www.google.com/s2/favicons?domain=chargebee.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Chargebee for Startups provides subscription billing, invoicing, and revenue recognition credits for early-stage SaaS and AI companies.",
+          "Designed for early-stage builders in Startup Ecosystem, Chargebee for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Billing Credits along with access to Chargebee onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Chargebee for Startups can apply program benefits directly toward production workloads spanning Billing, SaaS, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Billing Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Chargebee developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Chargebee for Startups are reviewed by Chargebee based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official Chargebee startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "oyster-stu",
+    "name": "Oyster for Startups",
+    "provider": "Oyster",
+    "category": "Startup Ecosystem",
+    "type": "Credits",
+    "amount": "Global HR Credits",
+    "description": "Oyster for Startups gives distributed teams credits toward global Employer of Record hiring, international payroll, and contractor compliance.",
+    "url": "https://www.oysterhr.com/startups",
+    "ecosystem": "Cloud",
+    "tags": [
+      "HR",
+      "Remote",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "oysterhr.com",
+    "logo": "https://www.google.com/s2/favicons?domain=oysterhr.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Oyster for Startups gives distributed teams credits toward global Employer of Record hiring, international payroll, and contractor compliance.",
+          "Designed for early-stage builders in Startup Ecosystem, Oyster for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Global HR Credits along with access to Oyster onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Oyster for Startups can apply program benefits directly toward production workloads spanning HR, Remote, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Global HR Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Oyster developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Oyster for Startups are reviewed by Oyster based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official Oyster startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "brevo-stu",
+    "name": "Brevo for Startups",
+    "provider": "Brevo",
+    "category": "Startup Ecosystem",
+    "type": "Credits",
+    "amount": "Email Credits",
+    "description": "Brevo for Startups offers early-stage companies transactional email, CRM, and marketing automation credits to scale customer communications.",
+    "url": "https://www.brevo.com/startups/",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Messaging",
+      "Marketing",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "brevo.com",
+    "logo": "https://www.google.com/s2/favicons?domain=brevo.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Brevo for Startups offers early-stage companies transactional email, CRM, and marketing automation credits to scale customer communications.",
+          "Designed for early-stage builders in Startup Ecosystem, Brevo for Startups helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Email Credits along with access to Brevo onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Brevo for Startups can apply program benefits directly toward production workloads spanning Messaging, Marketing, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Email Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Brevo developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Brevo for Startups are reviewed by Brevo based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official Brevo startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mailazy-stu",
+    "name": "Mailazy Startup Program",
+    "provider": "Mailazy",
+    "category": "Startup Ecosystem",
+    "type": "Credits",
+    "amount": "Email API Credits",
+    "description": "The Mailazy Startup Program provides developers and early-stage teams with high-deliverability transactional email API credits.",
+    "url": "https://mailazy.com/",
+    "ecosystem": "Cloud",
+    "tags": [
+      "Email",
+      "API",
+      "Credits"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "mailazy.com",
+    "logo": "https://www.google.com/s2/favicons?domain=mailazy.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The Mailazy Startup Program provides developers and early-stage teams with high-deliverability transactional email API credits.",
+          "Designed for early-stage builders in Startup Ecosystem, Mailazy Startup Program helps teams offset core infrastructure and tooling expenses while shipping production software.",
+          "Qualified startups receive Email API Credits along with access to Mailazy onboarding documentation and developer support channels."
+        ]
+      },
+      {
+        "heading": "Key benefits & covered resources",
+        "paragraphs": [
+          "Accepted teams in Mailazy Startup Program can apply program benefits directly toward production workloads spanning Email, API, Credits."
+        ],
+        "bullets": [
+          "Direct cost relief: Email API Credits to subsidize early-stage usage and scale reliably.",
+          "Production-grade tooling: Full access to Mailazy developer platform features, APIs, and managed services.",
+          "Technical onboarding: Access to documentation, best-practice architectures, and startup support resources."
+        ]
+      },
+      {
+        "heading": "Eligibility & evaluation criteria",
+        "paragraphs": [
+          "Applications for Mailazy Startup Program are reviewed by Mailazy based on stage, product focus, and account standing."
+        ],
+        "bullets": [
+          "Early-stage status: Typically open to pre-seed, seed, or early-stage startups that have not previously redeemed program credits.",
+          "Active product build: Applicants should have a live company website, product roadmap, and active engineering team.",
+          "Good standing: A valid business email and clean billing account with the provider."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official Mailazy startup program page, confirm current cohort eligibility, and submit your company details through their application workflow."
+        ]
+      }
+    ]
   }
 ]
