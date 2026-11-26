@@ -1,0 +1,158 @@
+{
+  "dispatchedAt": "2026-11-26T09:10:14.806Z",
+  "total": 25,
+  "delivered": 25,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Feedspot",
+      "email": "anuj@feedspot.com",
+      "deliveryId": "01a2171e-6669-7366-af76-979c8c1fa52b",
+      "status": "delivered"
+    },
+    {
+      "name": "AllTop",
+      "email": "editor@alltop.com",
+      "deliveryId": "01a2171e-6a9c-7e35-9653-51abdccdbbd1",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsNow",
+      "email": "publishers@newsnow.co.uk",
+      "deliveryId": "01a2171e-6cc3-70be-aa2b-1813677c6659",
+      "status": "delivered"
+    },
+    {
+      "name": "Flipboard",
+      "email": "support@flipboard.com",
+      "deliveryId": "01a2171e-6f7a-71b2-822e-3de7ea2b6dd2",
+      "status": "delivered"
+    },
+    {
+      "name": "SmartNews",
+      "email": "support@smartnews.com",
+      "deliveryId": "01a2171e-71b1-74f1-8aef-d9a7d8707f45",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBreak",
+      "email": "support@newsbreak.com",
+      "deliveryId": "01a2171e-7414-7434-b9d1-5123196a30da",
+      "status": "delivered"
+    },
+    {
+      "name": "Feedly",
+      "email": "support@feedly.com",
+      "deliveryId": "01a2171e-76a5-7c7b-bd43-bea7fddeb5fd",
+      "status": "delivered"
+    },
+    {
+      "name": "Inoreader",
+      "email": "info@inoreader.com",
+      "deliveryId": "01a2171e-7911-7a1a-870b-fb8271a7f21d",
+      "status": "delivered"
+    },
+    {
+      "name": "Ground News",
+      "email": "feedback@ground.news",
+      "deliveryId": "01a2171e-7e2e-7755-b182-670ab2e3cb77",
+      "status": "delivered"
+    },
+    {
+      "name": "Pocket",
+      "email": "press@getpocket.com",
+      "deliveryId": "01a2171e-80f1-7953-a27b-ede155c1b773",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoPanic",
+      "email": "support@cryptopanic.com",
+      "deliveryId": "01a2171e-8348-7c25-930d-5d3660e02427",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGecko",
+      "email": "support@coingecko.com",
+      "deliveryId": "01a2171e-85fa-75c1-9f65-afad7f1675ff",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap",
+      "email": "api@coinmarketcap.com",
+      "deliveryId": "01a2171e-882f-71df-9307-ca7e34c76b2c",
+      "status": "delivered"
+    },
+    {
+      "name": "Messari",
+      "email": "research@messari.io",
+      "deliveryId": "01a2171e-8a9f-736b-801a-9f7c015a19b7",
+      "status": "delivered"
+    },
+    {
+      "name": "Daily.dev",
+      "email": "support@daily.dev",
+      "deliveryId": "01a2171e-8d4d-77db-979d-0755a5da1a80",
+      "status": "delivered"
+    },
+    {
+      "name": "Refind",
+      "email": "hello@refind.com",
+      "deliveryId": "01a2171e-9019-712c-bb54-1308316d8fbf",
+      "status": "delivered"
+    },
+    {
+      "name": "Pearltrees",
+      "email": "contact@pearltrees.com",
+      "deliveryId": "01a2171e-9286-75cf-9e5e-00069ed8cede",
+      "status": "delivered"
+    },
+    {
+      "name": "Scoop.it",
+      "email": "support@scoop.it",
+      "deliveryId": "01a2171e-9556-78d1-b8c5-1879a83cba7f",
+      "status": "delivered"
+    },
+    {
+      "name": "Paper.li",
+      "email": "support@paper.li",
+      "deliveryId": "01a2171e-97b7-7e01-8a04-10f21389b796",
+      "status": "delivered"
+    },
+    {
+      "name": "Bloglovin",
+      "email": "support@bloglovin.com",
+      "deliveryId": "01a2171e-9a15-792f-8b20-7ed53547628e",
+      "status": "delivered"
+    },
+    {
+      "name": "RSS.com",
+      "email": "support@rss.com",
+      "deliveryId": "01a2171e-9c83-7d86-9cc0-8ed2f0662737",
+      "status": "delivered"
+    },
+    {
+      "name": "FeedBurner / Google",
+      "email": "support@google.com",
+      "deliveryId": "01a2171e-9f5e-7277-b950-5a70d1f90036",
+      "status": "delivered"
+    },
+    {
+      "name": "Substack",
+      "email": "press@substack.com",
+      "deliveryId": "01a2171e-a1c4-7ad3-aa34-5b76d11f3ca0",
+      "status": "delivered"
+    },
+    {
+      "name": "Medium",
+      "email": "yourfriends@medium.com",
+      "deliveryId": "01a2171e-a420-7669-a121-d198c57152b3",
+      "status": "delivered"
+    },
+    {
+      "name": "HackerNoon",
+      "email": "stories@hackernoon.com",
+      "deliveryId": "01a2171e-a68c-7282-91f7-effe63e23540",
+      "status": "delivered"
+    }
+  ]
+}
