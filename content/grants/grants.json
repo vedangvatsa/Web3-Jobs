@@ -1688,7 +1688,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSdRj_S9oKgNRIJhVNyJV8sH1JaR-w2zQH7nrR3bFrQpbz9Fdg/viewform"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=applayer.com&sz=128"
   },
   {
     "id": "aptos-audit",
@@ -3326,7 +3327,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://www.avalanche.com/about/blog/research-grants-avalanche-network-economics"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=avalanche.com&sz=128"
   },
   {
     "id": "aws-activate",
@@ -3701,7 +3703,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://docs.google.com/forms/d/1gPJ-c4PdZg_bvVlaOn4dRcwJkCZxJbuouFheNysLlDs/viewform?pli=1&pli=1&edit_requested=true"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=believe.app&sz=128"
   },
   {
     "id": "bitd-g",
@@ -4056,7 +4059,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://projectcatalyst.io/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=projectcatalyst.io&sz=128"
   },
   {
     "id": "celo-agents",
@@ -5026,7 +5030,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://clr.fund/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=clr.fund&sz=128"
   },
   {
     "id": "cohe-stu",
@@ -6658,7 +6663,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://dydx.forum/t/drc-dydx-foundation-grants-proposal/3716"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=dydx.forum&sz=128"
   },
   {
     "id": "dydx-grants",
@@ -6802,7 +6808,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://github.com/edgeware-builders/construction-projects"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=edgeware.io&sz=128"
   },
   {
     "id": "eic-accel",
@@ -7031,7 +7038,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://docs.google.com/forms/d/e/1FAIpQLSd3FoQzfPpKE3X6x9MpbJoLDP86zvY5lUoRtqa2ojVnBnmLEA/viewform"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=endless.link&sz=128"
   },
   {
     "id": "eth-aud-subs",
@@ -8622,7 +8630,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://www.goat.network/builder-program"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=goat.network&sz=128"
   },
   {
     "id": "good-seas-5",
@@ -11118,7 +11127,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://www.lovetheamsterdam.com/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=lovetheamsterdam.com&sz=128"
   },
   {
     "id": "mina-prot-g",
@@ -11556,7 +11566,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://www.movemaker.xyz/en/grants-program"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=movemaker.xyz&sz=128"
   },
   {
     "id": "mozi-fell",
@@ -12225,7 +12236,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://grants.nosana.com/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=grants.nosana.com&sz=128"
   },
   {
     "id": "noti-stu",
@@ -12442,7 +12454,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://o-cei.eu/second-open-call/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=o-cei.eu&sz=128"
   },
   {
     "id": "ocea-prot-g",
@@ -12586,7 +12599,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://octant.app/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=octant.app&sz=128"
   },
   {
     "id": "op-season-9",
@@ -12747,7 +12761,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://www.orangedao.xyz/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=orangedao.xyz&sz=128"
   },
   {
     "id": "otf-freedom",
@@ -13692,7 +13707,8 @@
       "wordCount": 180,
       "method": "curated-official-summary",
       "pageTitle": "Propr Builders Grant"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=propr.xyz&sz=128"
   },
   {
     "id": "prot-lab-g",
@@ -15122,7 +15138,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://scrt.network/developers/grants/"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=scrt.network&sz=128"
   },
   {
     "id": "segm-stu",
@@ -15878,7 +15895,8 @@
       "status": 429,
       "finalUrl": "https://www.skale.space/",
       "error": "rate-limited-assumed-live"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=skale.space&sz=128"
   },
   {
     "id": "snow-stu",
@@ -17128,7 +17146,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://stellar.org/grants-and-funding/bug-bounty"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=stellar.org&sz=128"
   },
   {
     "id": "stelcommfund",
@@ -17277,7 +17296,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://giveth.typeform.com/StellarQFRound"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=stellar.org&sz=128"
   },
   {
     "id": "stel-g-fund",
@@ -17350,7 +17370,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://stellar.org/grants-and-funding"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=stellar.org&sz=128"
   },
   {
     "id": "stel-mkt-g",
@@ -17422,7 +17443,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://stellar.org/grants-and-funding/marketing-grants"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=stellar.org&sz=128"
   },
   {
     "id": "stelmafu",
@@ -17495,7 +17517,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://stellar.org/grants-and-funding/matching-fund"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=stellar.org&sz=128"
   },
   {
     "id": "ston-fi-dex",
@@ -18078,7 +18101,8 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://taiko.xyz/grant-program"
-    }
+    },
+    "logo": "https://www.google.com/s2/favicons?domain=taiko.xyz&sz=128"
   },
   {
     "id": "tall-stu",
