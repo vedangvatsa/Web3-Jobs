@@ -160742,5 +160742,290 @@
     "company": "HIFI",
     "title": "Compliance Officer",
     "newSlug": "cmp206"
+  },
+  "sls344": {
+    "id": "1012",
+    "link": "https://bitso.bamboohr.com/careers/1012",
+    "company": "Bitso",
+    "title": "Head of VIP Accounts",
+    "newSlug": "sls569"
+  },
+  "mkt150": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "company": "Ripio",
+    "title": "Marketing Operations & CRM Senior",
+    "newSlug": "mkt192"
+  },
+  "cmp151": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp208"
+  },
+  "aso113": {
+    "id": "2867a747-02ca-4656-9dfe-5e77634c0966",
+    "link": "https://jobs.ashbyhq.com/tempo-xyz/2867a747-02ca-4656-9dfe-5e77634c0966",
+    "company": "Tempo",
+    "title": "Executive Assistant (NYC)"
+  },
+  "dp": {
+    "id": "8387820",
+    "link": "https://stripe.com/jobs/search?gh_jid=8387820",
+    "company": "Stripe",
+    "title": "Deal Pricing"
+  },
+  "an123": {
+    "id": "6251713004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6251713004",
+    "company": "Alpaca",
+    "title": "Due Diligence Analyst - Americas"
+  },
+  "int52": {
+    "id": "6250062004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250062004",
+    "company": "Galaxy Digital",
+    "title": "2027 Risk Intern - NYC"
+  },
+  "sls425": {
+    "id": "5375610008",
+    "link": "http://block.xyz/careers/jobs/5375610008?gh_jid=5375610008",
+    "company": "Block",
+    "title": "Manager, Mid- Market Sales"
+  },
+  "cssl16": {
+    "id": "8346064",
+    "link": "https://www.coinbase.com/careers/positions/8346064?gh_jid=8346064",
+    "company": "Coinbase",
+    "title": "Customer Support Specialist ll"
+  },
+  "int51": {
+    "id": "8046730003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=8046730003",
+    "company": "a16z crypto",
+    "title": "Research Intern, Frontier"
+  },
+  "sls364": {
+    "id": "6238590004",
+    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6238590004",
+    "company": "Alpaca",
+    "title": "Accounting Senior Manager"
+  },
+  "dev37": {
+    "id": "8164666",
+    "link": "https://stripe.com/jobs/search?gh_jid=8164666",
+    "company": "Stripe",
+    "title": "Technical Curriculum Developer, Technical Enablement"
+  },
+  "sls345": {
+    "id": "d0894ed0-ac7b-4cfa-a27d-8d9edd4bc09c",
+    "link": "https://jobs.ashbyhq.com/grvt/d0894ed0-ac7b-4cfa-a27d-8d9edd4bc09c",
+    "company": "GRVT",
+    "title": "Head of BD"
+  },
+  "pbcm": {
+    "id": "408e9c29-24e6-460d-bbeb-5940d2a7181b",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/408e9c29-24e6-460d-bbeb-5940d2a7181b",
+    "company": "Chainlink Labs",
+    "title": "Partnerships Lead, Banking & Capital Markets"
+  },
+  "eng649": {
+    "id": "8325807",
+    "link": "https://stripe.com/jobs/search?gh_jid=8325807",
+    "company": "Stripe",
+    "title": "Technical Operations Engineer"
+  },
+  "pm443": {
+    "id": "5275719007",
+    "link": "https://boards.greenhouse.io/parallel/jobs/5275719007?gh_jid=5275719007",
+    "company": "Parallel",
+    "title": "Product Management Intern"
+  },
+  "be130": {
+    "id": "5275690007",
+    "link": "https://boards.greenhouse.io/parallel/jobs/5275690007?gh_jid=5275690007",
+    "company": "Parallel",
+    "title": "Software Engineering Intern (Embedded, Backend, Fullstack)"
+  },
+  "sec132": {
+    "id": "8312623",
+    "link": "https://www.coinbase.com/careers/positions/8312623?gh_jid=8312623",
+    "company": "Coinbase",
+    "title": "Regional Security Manager, APAC"
+  },
+  "mgr204": {
+    "id": "4468338009",
+    "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4468338009",
+    "company": "Ondo Finance",
+    "title": "Senior Event Manager"
+  },
+  "cwec": {
+    "id": "8039427003",
+    "link": "https://a16z.com/about/jobs/?gh_jid=8039427003",
+    "company": "a16z crypto",
+    "title": "Contractor, Workplace Experience Coordinator, New York City"
+  },
+  "sec131": {
+    "id": "8311695",
+    "link": "https://ripple.com/careers/all-jobs/job/8311695?gh_jid=8311695",
+    "company": "Ripple",
+    "title": "Internal Audit IT Manager"
+  },
+  "sec130": {
+    "id": "8319448",
+    "link": "https://www.coinbase.com/careers/positions/8319448?gh_jid=8319448",
+    "company": "Coinbase",
+    "title": "Senior Security Engineer, Corporate Security"
+  },
+  "des13": {
+    "id": "8045111003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8045111003",
+    "company": "OKX",
+    "title": "Senior Visual Designer"
+  },
+  "sec129": {
+    "id": "8319444",
+    "link": "https://www.coinbase.com/careers/positions/8319444?gh_jid=8319444",
+    "company": "Coinbase",
+    "title": "Security Engineer, Corporate Security"
+  },
+  "pm332": {
+    "id": "8257636",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8257636?t=gh_src=&gh_jid=8257636",
+    "company": "Robinhood",
+    "title": "Senior Product Manager, Money Movement Experiences"
+  },
+  "pm451": {
+    "id": "2774d90f-d04a-4e7a-92d3-6247a1426b1f",
+    "link": "https://jobs.ashbyhq.com/fomo-labs/2774d90f-d04a-4e7a-92d3-6247a1426b1f",
+    "company": "Fomo Labs",
+    "title": "Staff Product Designer"
+  },
+  "mtp3": {
+    "id": "08ccca7b-a99e-49a8-a4b4-be94359972c5",
+    "link": "https://jobs.ashbyhq.com/sapiom/08ccca7b-a99e-49a8-a4b4-be94359972c5",
+    "company": "Sapiom",
+    "title": "Member of Technical Staff (Payments)"
+  },
+  "sls343": {
+    "id": "5463933008",
+    "link": "http://block.xyz/careers/jobs/5463933008?gh_jid=5463933008",
+    "company": "Block",
+    "title": "Territory Account Executive, Halifax"
+  },
+  "pm331": {
+    "id": "ab942e1a-e976-4837-a666-d8ff24606829",
+    "link": "https://jobs.lever.co/offchainlabs/ab942e1a-e976-4837-a666-d8ff24606829",
+    "company": "Arbitrum",
+    "title": "Sr Product Marketing Manager"
+  },
+  "ops126": {
+    "id": "8895626002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8895626002",
+    "company": "BitGo",
+    "title": "Operations Specialist"
+  },
+  "ops125": {
+    "id": "8895667002",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/8895667002",
+    "company": "BitGo",
+    "title": "Operations Specialist, Part Time"
+  },
+  "be92": {
+    "id": "2985ccb1-d866-4b27-8e94-e7bf6ae71754",
+    "link": "https://jobs.ashbyhq.com/notabene/2985ccb1-d866-4b27-8e94-e7bf6ae71754",
+    "company": "Notabene",
+    "title": "Staff Backend Software Engineer"
+  },
+  "pm330": {
+    "id": "8044830003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8044830003",
+    "company": "OKX",
+    "title": "Senior Product Designer, Fiat/Earn"
+  },
+  "sls449": {
+    "id": "1fa53869-f9bc-42c5-926e-1a1ebcfc5da0",
+    "link": "https://jobs.eu.lever.co/coinspaid/1fa53869-f9bc-42c5-926e-1a1ebcfc5da0",
+    "company": "CoinsPaid",
+    "title": "Sales and GTM Operations Manager"
+  },
+  "ops124": {
+    "id": "1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
+    "link": "https://jobs.ashbyhq.com/ramp/1e3b5c1e-28aa-4a8b-9af6-785df4aacd5f",
+    "company": "Ramp",
+    "title": "KYB Operations Lead, UK"
+  },
+  "mlro3": {
+    "id": "6b8f241c-a5e4-407a-baab-37aa7cb84d77",
+    "link": "https://jobs.ashbyhq.com/ramp/6b8f241c-a5e4-407a-baab-37aa7cb84d77",
+    "company": "Ramp",
+    "title": "Money Laundering Reporting Officer, Canada"
+  },
+  "an110": {
+    "id": "50770187-f226-468a-823e-fe193287c59f",
+    "link": "https://jobs.ashbyhq.com/ramp/50770187-f226-468a-823e-fe193287c59f",
+    "company": "Ramp",
+    "title": "KYB/AML Analyst, Sweden"
+  },
+  "mgr203": {
+    "id": "9bdecd09-5a15-47d1-83bc-21cf86a54d02",
+    "link": "https://jobs.ashbyhq.com/ramp/9bdecd09-5a15-47d1-83bc-21cf86a54d02",
+    "company": "Ramp",
+    "title": "Senior Channel Partner Manager | Private Equity"
+  },
+  "mgr202": {
+    "id": "6234740004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6234740004",
+    "company": "Galaxy Digital",
+    "title": "VP, Technical Program Manager"
+  },
+  "mtp2": {
+    "id": "9da3433c-b1af-468d-ab1a-e6b044414749",
+    "link": "https://jobs.lever.co/anchorage/9da3433c-b1af-468d-ab1a-e6b044414749",
+    "company": "Anchorage Digital",
+    "title": "Member of Technical Staff, Protocols"
+  },
+  "pm472": {
+    "id": "c51ff8e5-914c-4bf4-a33f-351e119c2e06",
+    "link": "https://jobs.ashbyhq.com/hifi/c51ff8e5-914c-4bf4-a33f-351e119c2e06",
+    "company": "HIFI",
+    "title": "Product Manager, Cards",
+    "newSlug": "pm477"
+  },
+  "cmp204": {
+    "id": "351",
+    "link": "https://fasset.bamboohr.com/careers/351",
+    "company": "Fasset",
+    "title": "Compliance Operations Associate",
+    "newSlug": "cmp210"
+  },
+  "sls569": {
+    "id": "bnbchain-99384685",
+    "link": "https://jobs.bnbchain.org/companies/bnb-chain/jobs/99384685-institutional-business-development-lead",
+    "company": "BNB Chain",
+    "title": "Institutional Business Development Lead",
+    "newSlug": "sls572"
+  },
+  "cmp206": {
+    "id": "6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "link": "https://jobs.ashbyhq.com/hifi/6c4683cd-d6e6-4cf6-a021-5db9f3f7f82d",
+    "company": "HIFI",
+    "title": "Compliance Officer",
+    "newSlug": "cmp209"
+  },
+  "eng884": {
+    "id": "202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "link": "https://jobs.ashbyhq.com/hifi/202b2b8b-afe5-40b1-9c4b-2817d01419ca",
+    "company": "HIFI",
+    "title": "Software Engineer, Blockchain",
+    "newSlug": "eng899"
+  },
+  "eng885": {
+    "id": "keka-dcx-145832",
+    "link": "https://dcx.keka.com/careers/jobdetails/145832",
+    "company": "BitOasis",
+    "title": "Senior Software Engineer - Android",
+    "newSlug": "eng898"
   }
 }
