@@ -1435,6 +1435,25 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-25T15:10:21.797Z"
       }
+    ],
+    "2026-11-26": [
+      {
+        "date": "2026-11-26",
+        "id": "45741575952-1",
+        "sourceCommit": "724e1090e9ee50a2c5f936a44c9da409f38f0933",
+        "jobsCheckedAt": "2026-11-26T02:30:02.950Z",
+        "newsCompletedAt": "2026-11-26T03:21:04.267Z",
+        "articleSlugs": [
+          "megaspeedlist",
+          "frenchsenate",
+          "bithumbnotice",
+          "utahkalshidismiss"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-26T03:21:56.364Z",
+        "buildId": "daily-20261126-45741575952-1",
+        "rolloutId": "daily-20261126-45741575952-1"
+      }
     ]
   }
 }
