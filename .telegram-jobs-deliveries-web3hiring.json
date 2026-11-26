@@ -7316,7 +7316,7 @@
     "sentAt": "2026-11-26T04:49:30.252Z"
   },
   "292a9cd7-20a0-46de-af1e-eb3ab3aec71b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T04:49:33.904Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -7429,6 +7429,8 @@
       }
     ],
     "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/mgr281?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager of Regional Total Rewards</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/sls320?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development</a>\n- Nascent is hiring <a href=\"https://hashtagweb3.com/tcaa2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Team Coordinator</a>\n- Block is hiring <a href=\"https://hashtagweb3.com/eng801?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Solutions Engineer</a>\n- Fireblocks is hiring <a href=\"https://hashtagweb3.com/pm466?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP Product Marketing</a>",
-    "slotKey": "2026-11-26:morning"
+    "slotKey": "2026-11-26:morning",
+    "messageId": 221,
+    "sentAt": "2026-11-26T04:49:35.890Z"
   }
 }
