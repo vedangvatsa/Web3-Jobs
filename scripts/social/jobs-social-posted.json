@@ -196187,7 +196187,8 @@
       },
       "account": "channel:web3",
       "attemptId": "13a815f5-201f-4116-9a71-21225722aafe",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x980da3822715fa4e387732e15390ab3b55aaf7f8"
     }
   ]
 }
