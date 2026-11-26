@@ -194505,7 +194505,8 @@
       },
       "account": "channel:web3",
       "attemptId": "f00b319b-5f89-49d0-999d-829995d71c17",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9b73f1988d99b6fee02ea8fadcdabd32ccef498b"
     }
   ]
 }
