@@ -3716,5 +3716,120 @@
     "slotKey": "2026-11-26:morning",
     "messageId": 156515,
     "sentAt": "2026-11-26T04:49:42.693Z"
+  },
+  "36b45ce6-18fe-4394-9f8f-3c7b45e07ea9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T13:04:11.387Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5040734101",
+          "title": "Senior Site Reliability Engineer",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5040734101",
+          "date": "2026-11-17T18:27:55-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Bangkok, Thailand",
+          "department": "STX - Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng816"
+        },
+        "key": "5040734101",
+        "slug": "eng816",
+        "url": "https://hashtagweb3.com/eng816?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Senior Site Reliability Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "4749008005",
+          "title": "Back Office Developer",
+          "company": "DV Trading",
+          "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4749008005",
+          "date": "2026-10-29T15:43:23-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DV Trading [dvtrading]",
+          "location": "Chicago; New York",
+          "department": "Technology",
+          "active": true,
+          "salary": "$150k – $250k/yr",
+          "dateVerified": true,
+          "slug": "dev34"
+        },
+        "key": "4749008005",
+        "slug": "dev34",
+        "url": "https://hashtagweb3.com/dev34?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DV Trading",
+        "title": "Back Office Developer"
+      },
+      {
+        "snapshot": {
+          "id": "5019037101",
+          "title": "Trading | DeFi Trading Analyst | Dubai",
+          "company": "Flowdesk",
+          "link": "https://job-boards.eu.greenhouse.io/flowdesk/jobs/5019037101",
+          "date": "2026-10-28T10:55:15-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flowdesk [flowdesk]",
+          "location": "Dubai",
+          "department": "Liquidity Provision ",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an127"
+        },
+        "key": "5019037101",
+        "slug": "an127",
+        "url": "https://hashtagweb3.com/an127?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flowdesk",
+        "title": "Trading | DeFi Trading Analyst | Dubai"
+      },
+      {
+        "snapshot": {
+          "id": "7a6adb7d-3b92-45d2-9d5e-028b7f44a142",
+          "title": "Head of Security",
+          "company": "Helius",
+          "link": "https://talent.superteam.fun/jobs/head-of-security-at-helius-7a6adb7d-3b92-45d2-9d5e-028b7f44a142",
+          "date": "2026-11-04T21:29:30.300933+00:00",
+          "source": "Superteam: Helius [superteam]",
+          "location": "Remote · North America",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec151"
+        },
+        "key": "7a6adb7d-3b92-45d2-9d5e-028b7f44a142",
+        "slug": "sec151",
+        "url": "https://hashtagweb3.com/sec151?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Helius",
+        "title": "Head of Security"
+      },
+      {
+        "snapshot": {
+          "id": "b5bd9c30-4bc3-435e-aec1-43405474d317",
+          "title": "Associate, GTM Finance",
+          "company": "Ramp",
+          "link": "https://jobs.ashbyhq.com/ramp/b5bd9c30-4bc3-435e-aec1-43405474d317",
+          "date": "2026-11-23T18:02:43.597+00:00",
+          "source": "Ashby: Ramp [ramp]",
+          "location": "Hybrid (New York, NY (HQ))",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "aso114"
+        },
+        "key": "b5bd9c30-4bc3-435e-aec1-43405474d317",
+        "slug": "aso114",
+        "url": "https://hashtagweb3.com/aso114?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ramp",
+        "title": "Associate, GTM Finance"
+      }
+    ],
+    "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng816?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Site Reliability Engineer</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/dev34?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Back Office Developer</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/an127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DeFi Trading Analyst</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/sec151?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/aso114?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate, GTM Finance</a>",
+    "slotKey": "2026-11-26:afternoon"
   }
 }
