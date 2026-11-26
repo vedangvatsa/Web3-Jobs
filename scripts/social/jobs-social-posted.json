@@ -192941,6 +192941,40 @@
       "attemptId": "8eca4595-0744-4f43-91aa-6d49caad2cc3",
       "verification": "verified",
       "postId": "0xeafe1550fea7b95bb66487050bcede4b055fa83f"
+    },
+    {
+      "slug": "am2",
+      "company": "Bybit",
+      "title": "AMLO",
+      "platform": "farcaster",
+      "postedAt": "2026-11-26T04:49:52.221Z",
+      "expectedText": "Bybit is hiring AMLO\n\nhttps://hashtagweb3.com/am2/fc?og=7",
+      "snapshot": {
+        "id": "5035471101",
+        "title": "AMLO",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5035471101",
+        "date": "2026-11-20T16:06:10-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "am2"
+      },
+      "payload": {
+        "text": "Bybit is hiring AMLO\n\nhttps://hashtagweb3.com/am2/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/am2/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "f953824b-cea9-4502-9811-f3693fd371f7",
+      "verification": "creating"
     }
   ]
 }
