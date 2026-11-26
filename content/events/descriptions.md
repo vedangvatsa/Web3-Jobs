@@ -26174,74 +26174,6 @@ Here to help businesses get more capital and expertise as they need to scale up,
 
 Our message to international businesses and entrepreneurs is simple: attend our international events and get in touch well before. We want to help as many entrepreneurs as possible to get the investment and international opportunities via our trusted network. When your business and your community prospers, everyone prospers.
 
-<a id="event-1d6b8a299bf3b2f2"></a>
-
-## Aprende a usar Bitcoin desde cero
-
-- Record: `luma-batch-evt9rZ1FUZA2dW4u`
-- Source: [luma-batch-events.json](sources/luma-batch-events.json)
-- Starts: 2026-10-13T21:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2n764jm8>
-
-### About the event
-
-Actividad presencial gratuita, con cupos limitados a los primeros en confirmar su asistencia.
-
-Las personas interesadas serán contactadas por orden de inscripción para reconfirmar su asistencia a los 3 encuentros, ya que los cupos son limitados.
-
-Objetivo
-
-Comprender la esencia, el origen y funcionamiento de Bitcoin.
-
-Adquirir habilidades prácticas para usar Bitcoin y la auto custodia.
-
-Fomentar la proactividad en el uso diario de Bitcoin.
-
-Público objetivo
-
-El curso está destinado a todas las personas interesadas en iniciarse en el uso de Bitcoin de forma segura y práctica, sin necesidad de conocimientos técnicos previos.
-
-Certificado y Premios: Para quienes asistan a los 3 encuentros se otorgará certificado de asistencia. Además se entregarán importantes premios gracias al apoyo de Trezor Academy.
-
-Fecha y horario: Martes 13/10, 20/10 y 27/10 de 18:30 a 20:00 hs
-
-Modalidad: Actividad presencial gratuita con cupos limitados.
-
-Docente: Federico Andragnes: Es miembro del área de formación de la ONG Bitcoin Argentina, donde participa activamente en el Proyecto Escuelas y Bitcoin y en el Proyecto Bitcoin en las Universidades. Además, es speakers en eventos, meetups y webinars. Con toda su amplia experiencia y recorrido, difunde en charlas y conferencias los temas de bitcoin, blockchain y criptomonedas. También es voluntario en La Bitcoineta, camioneta que va recorriendo latinoamérica enseñando acerca de tecnologías descentralizadas. Es freelancer, Bitcoiner y emprendedor. Posee formación en informática, administración, economía y gestión de organizaciones.
-
-Contenidos a abordar
-
-Encuentro 1 - Por qué Bitcoin
-
-Historia del dinero
-
-Diferencias entre Bitcoin y dinero Fiat
-
-Funcionamiento de Bitcoin
-
-Minería y nodos de bitcoin
-
-Encuentro 2 - Cómo usar Bitcoin
-
-Billeteras Custodial, Auto Custodia y Hardware Wallets(Uso básico de Trezor)
-
-Transacciones y exploradores
-
-Principales aspectos de seguridad (Passphrase, cifrado, almacenamiento físico, prácticas de respaldo)
-
-Taller de billeteras
-
-Encuentro 3 - ¿Qué haría un Bitcoiner?
-
-Cómo obtener Bitcoins y DCA
-
-Herramientas para usar Bitcoins
-
-Consejos de prevención de estafas
-
-AMA Final
-
 <a id="event-5d1c94868d0d0d43"></a>
 
 ## BCNL x VBNL x PwC - CARF & DAC8 Roundtable
@@ -27881,30 +27813,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-ec86766ae50ffd9f"></a>
-
-## Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology
-
-- Record: `mu-316749553`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T17:30:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-ab41b15db0c5cebc"></a>
-
-## Bienvenidos a charla en Español.
-
-- Record: `mu-316890023`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T18:30:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/des-moines-spanish-conversation-group/events/316890023/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-f41f73b4aeab2bff"></a>
 
 ## Let's discuss Bitcoin and the Crypto Sector
@@ -27914,18 +27822,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T19:00:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/316890584/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-73779e11c1a31912"></a>
-
-## DeFi x RWA: Cocktail Hour
-
-- Record: `luma-evt-JpP8MdGtZvkFxnd`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T19:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/rqt96zxr>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -27950,18 +27846,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T22:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/meet-and-make-27>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e9d3d493f3992b55"></a>
-
-## From Silicon Valley to Langley: Fireside Chat with Nand Mulchandani
-
-- Record: `luma-evt-OO9kmUG5BAx6CMu`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T22:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/ry3qnzay>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

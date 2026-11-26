@@ -2343,7 +2343,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3121,7 +3121,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
+    "coverImage": null,
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -4284,20 +4284,6 @@
     "url": "https://luma.com/eqwsf08t",
     "coverImage": null,
     "month": "November 2026"
-  },
-  {
-    "id": "mu-316749553",
-    "name": "Fraud Detection on the Elliptic Bitcoin Dataset: Graphs, Leakage, and Topology",
-    "description": "Pyowa returns to Source Allies on\n\nTuesday, October 27th from 5:30-7pm with Dave Keller presenting a hands-on look at fraud detection, machine learning, and the importance of questioning results that s",
-    "startDate": "2026-10-27T17:30:00-05:00",
-    "endDate": "2026-10-27T17:30:00-05:00",
-    "city": "Urbandale",
-    "country": "us",
-    "location": "Urbandale, us",
-    "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
   },
   {
     "id": "mu-316859714",
@@ -6613,20 +6599,6 @@
     "month": "November 2026"
   },
   {
-    "id": "mu-316890023",
-    "name": "Bienvenidos a charla en Español.",
-    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
-    "startDate": "2026-10-27T18:30:00-05:00",
-    "endDate": "2026-10-27T18:30:00-05:00",
-    "city": "West Des Moines",
-    "country": "us",
-    "location": "West Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316890023/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "October 2026"
-  },
-  {
     "id": "mu-317090132",
     "name": "Post Quantum Cryptography on IBM LinuxONE",
     "description": "The quantum computing threat to current cryptographic systems is no longer theoretical - it's an imminent reality requiring immediate action. This session explores how IBM LinuxONE provides a unique pla",
@@ -7193,20 +7165,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-OO9kmUG5BAx6CMu",
-    "name": "From Silicon Valley to Langley: Fireside Chat with Nand Mulchandani",
-    "description": "",
-    "startDate": "2026-10-27T22:30:00.000Z",
-    "endDate": "2026-10-27T23:30:00.000Z",
-    "city": "Stanford",
-    "country": "United States",
-    "location": "Stanford, United States",
-    "url": "https://lu.ma/ry3qnzay",
-    "coverImage": "/events/luma-evt-oo9kmug5bax6cmu-548c8049.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-JXzfkwS2fWUDCBG",
     "name": "Buildathon: Las Rozas x NocodeHackers",
     "description": "",
@@ -7286,20 +7244,6 @@
     "location": "Austin, United States",
     "url": "https://lu.ma/mklrphpt",
     "coverImage": "/events/luma-evt-l2acvkyqgshvrxt-43c6f2c9.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "luma-evt-JpP8MdGtZvkFxnd",
-    "name": "DeFi x RWA: Cocktail Hour",
-    "description": "",
-    "startDate": "2026-10-27T19:00:00.000Z",
-    "endDate": "2026-10-27T23:00:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Lisboa, Portugal",
-    "url": "https://lu.ma/rqt96zxr",
-    "coverImage": "/events/luma-evt-jpp8mdgtzvkfxnd-84c67c00.webp",
     "source": "luma",
     "month": "October 2026"
   },

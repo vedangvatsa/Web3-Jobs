@@ -1245,36 +1245,6 @@
     ]
   },
   {
-    "id": "luma-batch-evt9rZ1FUZA2dW4u",
-    "slug": "2n764jm8",
-    "name": "Aprende a usar Bitcoin desde cero",
-    "description": "Actividad presencial gratuita, con cupos limitados a los primeros en confirmar su asistencia.\n\nLas personas interesadas serán contactadas por orden de inscripción para reconfirmar su asistencia a los 3 encuentros, ya que los cupos son limitados.\n\nObjetivo\n\nComprender la esencia, el origen y funcionamiento de Bitcoin.\n\nAdquirir habilidades prácticas para usar Bitcoin y la auto custodia.\n\nFomentar la proactividad en el uso diario de Bitcoin.\n\nPúblico objetivo\n\nEl curso está destinado a todas las personas interesadas en iniciarse en el uso de Bitcoin de forma segura y práctica, sin necesidad de conocimientos técnicos previos.\n\nCertificado y Premios: Para quienes asistan a los 3 encuentros se otorgará certificado de asistencia. Además se entregarán importantes premios gracias al apoyo de Trezor Academy.\n\nFecha y horario: Martes 13/10, 20/10 y 27/10 de 18:30 a 20:00 hs\n\nModalidad: Actividad presencial gratuita con cupos limitados.\n\nDocente: Federico Andragnes: Es miembro del área de formación de la ONG Bitcoin Argentina, donde participa activamente en el Proyecto Escuelas y Bitcoin y en el Proyecto Bitcoin en las Universidades. Además, es speakers en eventos, meetups y webinars. Con toda su amplia experiencia y recorrido, difunde en charlas y conferencias los temas de bitcoin, blockchain y criptomonedas. También es voluntario en La Bitcoineta, camioneta que va recorriendo latinoamérica enseñando acerca de tecnologías descentralizadas. Es freelancer, Bitcoiner y emprendedor. Posee formación en informática, administración, economía y gestión de organizaciones.\n\nContenidos a abordar\n\nEncuentro 1 - Por qué Bitcoin\n\nHistoria del dinero\n\nDiferencias entre Bitcoin y dinero Fiat\n\nFuncionamiento de Bitcoin\n\nMinería y nodos de bitcoin\n\nEncuentro 2 - Cómo usar Bitcoin\n\nBilleteras Custodial, Auto Custodia y Hardware Wallets(Uso básico de Trezor)\n\nTransacciones y exploradores\n\nPrincipales aspectos de seguridad (Passphrase, cifrado, almacenamiento físico, prácticas de respaldo)\n\nTaller de billeteras\n\nEncuentro 3 - ¿Qué haría un Bitcoiner?\n\nCómo obtener Bitcoins y DCA\n\nHerramientas para usar Bitcoins\n\nConsejos de prevención de estafas\n\nAMA Final",
-    "startDate": "2026-10-13T21:30:00.000Z",
-    "endDate": "2026-10-27T23:00:00.000Z",
-    "city": "Buenos Aires",
-    "country": "Argentina",
-    "location": "Vedia 3892, Vedia 3892, C1430CXD Cdad. Autónoma de Buenos Aires, Argentina",
-    "url": "https://luma.com/2n764jm8",
-    "registrationUrl": "https://luma.com/2n764jm8",
-    "coverImage": "/events/luma-batch-evt9rZ1FUZA2dW4u-39d6cd31.webp",
-    "source": "luma-batch",
-    "hosts": [
-      "Personal"
-    ],
-    "price": "Free",
-    "timezone": "America/Argentina/Buenos_Aires",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "eventType": "meetup",
-    "sourceVerification": {
-      "url": "https://luma.com/2n764jm8",
-      "eventId": "evt-9rZ1FUZA2dW4uzF",
-      "fetchedAt": "2026-09-23T10:57:48.000Z",
-      "method": "luma-page",
-      "apifyRunId": "sbhxusCJ6JIsbZQtg"
-    }
-  },
-  {
     "id": "luma-batch-evtxsQpQLAW6ikXL",
     "slug": "fd2jiski",
     "name": "Privacy,Technology,and Bitcoin",
