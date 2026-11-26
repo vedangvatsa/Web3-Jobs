@@ -6662,7 +6662,7 @@
   },
   {
     "id": "dydx-grants",
-    "name": "dydx Grants",
+    "name": "dYdX Grants",
     "provider": "dydx Grants",
     "category": "Web3 Ecosystem",
     "type": "Grant",
@@ -6680,7 +6680,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "dydx Grants is an ecosystem grant initiative powered by dydx, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across Ethereum. The program provides milestone-based tranches sized according to project scope to empower talented engineering teams building scalable onchain solutions.",
+          "dYdX Grants is an ecosystem grant initiative powered by dYdX, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across Ethereum. The program provides milestone-based tranches sized according to project scope to empower talented engineering teams building scalable onchain solutions.",
           "Grant capital is focused on high-priority infrastructure and use cases spanning Development, DeFi, helping teams move rapidly from prototype to production with direct technical and distribution support from dydx.",
           "Beyond capital, dydx Grants connects recipients with core network engineers, security auditors, and community stakeholders to ensure smooth mainnet deployment and sustained user adoption."
         ]
@@ -9449,7 +9449,7 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "iExec Grants is an ecosystem grant initiative powered by iExec, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across iExec ecosystem. The program provides capital awards structured up to $5,000 - $50,000 to empower talented engineering teams building scalable onchain solutions.",
+          "iExec Grants is an ecosystem grant initiative powered by iExec, designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across the iExec ecosystem. The program provides capital awards structured up to $5,000 - $50,000 to empower talented engineering teams building scalable onchain solutions.",
           "Grant capital is focused on high-priority infrastructure and use cases spanning AI, DeFi, Infra, Privacy & Security, helping teams move rapidly from prototype to production with direct technical and distribution support from iExec.",
           "Beyond capital, iExec Grants connects recipients with core network engineers, security auditors, and community stakeholders to ensure smooth mainnet deployment and sustained user adoption."
         ]

@@ -1388,5 +1388,10 @@
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 237
+  },
+  "arweavegrants": {
+    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
+    "method": "human-editorial-polish-v2",
+    "words": 189
   }
 }
