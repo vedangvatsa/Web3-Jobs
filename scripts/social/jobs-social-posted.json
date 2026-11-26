@@ -194279,6 +194279,35 @@
       "attemptId": "39701e55-e0b2-4976-94cf-fade27d6bd24",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "sls559",
+      "company": "Block",
+      "title": "Strategic Account Manager, Toronto",
+      "platform": "facebook",
+      "postedAt": "2026-11-26T04:53:42.894Z",
+      "expectedText": "Block is hiring Strategic Account Manager, Toronto: https://hashtagweb3.com/sls559/fb?og=7",
+      "snapshot": {
+        "id": "5493512008",
+        "title": "Strategic Account Manager, Toronto",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5493512008?gh_jid=5493512008",
+        "date": "2026-11-24T11:37:27-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "20405 S&M - Sales - Square Account Management",
+        "active": true,
+        "salary": "$83.3k – $124.9k/yr",
+        "dateVerified": true,
+        "slug": "sls559"
+      },
+      "payload": {
+        "message": "Block is hiring Strategic Account Manager, Toronto: https://hashtagweb3.com/sls559/fb?og=7",
+        "link": "https://hashtagweb3.com/sls559/fb?og=7"
+      },
+      "attemptId": "577f82c3-23e3-4876-9e02-f2791c380e34",
+      "verification": "creating"
     }
   ]
 }
