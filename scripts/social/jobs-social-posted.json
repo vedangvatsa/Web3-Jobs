@@ -197413,7 +197413,8 @@
       },
       "account": "channel:ai",
       "attemptId": "3761a08b-617b-40c3-89df-99e6fb1672cb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2cf92167ab09e74d0e0f8ac11cc2367a764346f4"
     }
   ]
 }
