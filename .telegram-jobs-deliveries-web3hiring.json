@@ -7803,5 +7803,128 @@
     "slotKey": "2026-11-26:evening",
     "messageId": 16684,
     "sentAt": "2026-11-26T20:24:39.163Z"
+  },
+  "f66c8399-a76b-4d79-842b-27407d8e97db": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T20:24:40.862Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "605451fdfa56",
+          "title": "Senior Commercial Contracts Manager",
+          "company": "Bitdeer",
+          "link": "https://bitdeer.breezy.hr/p/605451fdfa56-senior-commercial-contracts-manager",
+          "date": "2026-10-28",
+          "dateVerified": true,
+          "dateSource": "Breezy.JobPosting.datePosted",
+          "source": "Breezy: Bitdeer [bitdeer]",
+          "location": "San Jose, CA",
+          "isRemote": false,
+          "department": "Legal",
+          "active": true,
+          "dateEvidence": {
+            "url": "https://bitdeer.breezy.hr/p/605451fdfa56-senior-commercial-contracts-manager",
+            "checkedAt": "2026-10-29T03:36:53.778Z",
+            "bodySha256": "0c16bef912551153c7c4e5d30fb7c705f79d9312d195b670744b5813f0e5bc7a",
+            "provider": "breezy",
+            "datePosted": "2026-10-28"
+          },
+          "slug": "mgr97"
+        },
+        "key": "605451fdfa56",
+        "slug": "mgr97",
+        "url": "https://hashtagweb3.com/mgr97?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bitdeer",
+        "title": "Senior Commercial Contracts Manager"
+      },
+      {
+        "snapshot": {
+          "id": "5026150101",
+          "title": "Principal Backend Development Engineer",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5026150101",
+          "date": "2026-11-16T22:32:46-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Abu Dhabi, UAE; Hong Kong SAR; Kuala Lumpur, Malaysia",
+          "department": "Fiat R&D",
+          "active": true,
+          "dateVerified": true,
+          "slug": "be128"
+        },
+        "key": "5026150101",
+        "slug": "be128",
+        "url": "https://hashtagweb3.com/be128?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "Principal Backend Development Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "d5239a5d-5c16-47e1-a0ba-fa4a103af2fb",
+          "title": "Senior Threat Detection Engineer",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/d5239a5d-5c16-47e1-a0ba-fa4a103af2fb",
+          "date": "2026-11-20T21:33:00.994+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Remote (Virginia)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Corporate Functions",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng856"
+        },
+        "key": "d5239a5d-5c16-47e1-a0ba-fa4a103af2fb",
+        "slug": "eng856",
+        "url": "https://hashtagweb3.com/eng856?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Senior Threat Detection Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5024587101",
+          "title": "Sr. Regulatory Compliance Officer",
+          "company": "StraitsX",
+          "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5024587101",
+          "date": "2026-11-01T23:16:27-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: StraitsX [straitsx]",
+          "location": "Singapore",
+          "department": "STX - Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp81"
+        },
+        "key": "5024587101",
+        "slug": "cmp81",
+        "url": "https://hashtagweb3.com/cmp81?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "StraitsX",
+        "title": "Sr. Regulatory Compliance Officer"
+      },
+      {
+        "snapshot": {
+          "id": "8334554",
+          "title": "Sales Manager, Enterprise Platforms, France",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8334554",
+          "date": "2026-11-09T13:49:07-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Paris",
+          "department": "1180 GEO Sales HQ (EMEA)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls437"
+        },
+        "key": "8334554",
+        "slug": "sls437",
+        "url": "https://hashtagweb3.com/sls437?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Sales Manager"
+      }
+    ],
+    "message": "- Bitdeer is hiring <a href=\"https://hashtagweb3.com/mgr97?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Commercial Contracts Manager</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/be128?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal Backend Development Engineer</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/eng856?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Threat Detection Engineer</a>\n- StraitsX is hiring <a href=\"https://hashtagweb3.com/cmp81?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Regulatory Compliance Officer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls437?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Manager, Enterprise Platforms, France</a>",
+    "slotKey": "2026-11-26:evening"
   }
 }
