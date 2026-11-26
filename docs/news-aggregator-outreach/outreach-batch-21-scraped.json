@@ -1,0 +1,20 @@
+{
+  "dispatchedAt": "2026-11-26T10:42:10.000Z",
+  "total": 2,
+  "delivered": 2,
+  "failed": 0,
+  "results": [
+    {
+      "name": "CXL Blog",
+      "email": "andrewbnoblet@gmail.com",
+      "deliveryId": "01a21772-ce0d-77f0-93d7-268f21caa722",
+      "status": "delivered"
+    },
+    {
+      "name": "OpenView Insights",
+      "email": "hello@openviewpartners.com",
+      "deliveryId": "01a21772-d101-72cc-ba1a-6ffb940cb65e",
+      "status": "delivered"
+    }
+  ]
+}
