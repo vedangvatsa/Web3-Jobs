@@ -198271,7 +198271,8 @@
       },
       "account": "channel:ai",
       "attemptId": "68d83959-809a-4b58-a65a-7f1d8f8143fc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1cca63a392fc28aba9fbc154e28dedbe46d64b76"
     }
   ]
 }
