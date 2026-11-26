@@ -218116,9 +218116,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "debc8923aefa927c28ef",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T09:58:12.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "articleSlug": "frenchsenate",
@@ -218140,7 +218140,25 @@
         "updatedAt": "2026-11-26T02:23:27.307Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov. 24 Senate rejection of the 100,000-euro wallet disclosure amendment plus the stablecoin-swap and exit-tax amendments against Cointelegraph, Unchained and the Senate abridged record; no duplicate slug found.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/french-senate-rejects-crypto-exit-tax-stablecoin-swap-tax-and-wallet-declaration-rule/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.senat.fr/cra/s20261124/s20261124.pdf",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-26T02:25:45.595Z",
+      "lastReviewedDay": "2026-11-26"
     },
     "c1bd291f9af7cf21e3c2": {
       "source": "The Block",
@@ -436527,6 +436545,27 @@
             "Find independent reporting confirming the event in: Ukraine passes crypto market law, with $332 million revenue target",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "debc8923aefa927c28ef": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov. 24 Senate rejection of the 100,000-euro wallet disclosure amendment plus the stablecoin-swap and exit-tax amendments against Cointelegraph, Unchained and the Senate abridged record; no duplicate slug found.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/french-senate-rejects-crypto-exit-tax-stablecoin-swap-tax-and-wallet-declaration-rule/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.senat.fr/cra/s20261124/s20261124.pdf",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-26T02:25:45.595Z",
+          "articleSlug": "frenchsenate"
         }
       },
       "baselineSlugs": [
