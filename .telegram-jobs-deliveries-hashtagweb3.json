@@ -3835,7 +3835,7 @@
     "sentAt": "2026-11-26T13:04:14.175Z"
   },
   "f1aadaaf-dddd-4764-920c-34c7f85f6294": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T20:24:50.006Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3948,6 +3948,8 @@
       }
     ],
     "message": "- Ramp is hiring <a href=\"https://hashtagweb3.com/pm428?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Manager, Customer Activation Managers</a>\n- dtcpay is hiring <a href=\"https://hashtagweb3.com/an166?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Transaction Monitoring Analyst</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/aso85?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Settlement Associate</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/epc?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Education Partnerships Coordinator</a>\n- EY is hiring <a href=\"https://hashtagweb3.com/arc54?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Blockchain Consultant</a>",
-    "slotKey": "2026-11-26:evening"
+    "slotKey": "2026-11-26:evening",
+    "messageId": 156532,
+    "sentAt": "2026-11-26T20:24:55.564Z"
   }
 }
