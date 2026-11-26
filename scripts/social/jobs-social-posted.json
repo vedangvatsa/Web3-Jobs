@@ -195766,7 +195766,8 @@
       },
       "account": "channel:product",
       "attemptId": "149c8fa6-08a1-4616-879d-918abec4de50",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xdca1b0937b348a9862a36489b16c55f97cc4e1ff"
     }
   ]
 }
