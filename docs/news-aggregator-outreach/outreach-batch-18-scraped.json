@@ -1,0 +1,110 @@
+{
+  "dispatchedAt": "2026-11-26T10:39:22.000Z",
+  "total": 17,
+  "delivered": 17,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Kotlin Weekly",
+      "email": "mailinglist@kotlinweekly.net",
+      "deliveryId": "01a21770-0ba8-7e4e-a507-927b11c71829",
+      "status": "delivered"
+    },
+    {
+      "name": "DevOps Weekly",
+      "email": "gareth@morethanseven.net",
+      "deliveryId": "01a21770-0e65-721f-ab81-1b906e2c8b7b",
+      "status": "delivered"
+    },
+    {
+      "name": "Real Python",
+      "email": "info@realpython.com",
+      "deliveryId": "01a21770-115a-74c7-a437-879e7622e021",
+      "status": "delivered"
+    },
+    {
+      "name": "Dark Reading",
+      "email": "contactdarkreading@informa.com",
+      "deliveryId": "01a21770-141c-79fd-ac42-0686eb980c55",
+      "status": "delivered"
+    },
+    {
+      "name": "Troy Hunt",
+      "email": "troy@troyhunt.com",
+      "deliveryId": "01a21770-16e4-7a15-8026-db5910897f08",
+      "status": "delivered"
+    },
+    {
+      "name": "Daniel Miessler",
+      "email": "daniel@danielmiessler.com",
+      "deliveryId": "01a21770-19c9-71a9-aac7-5175b03eaf0f",
+      "status": "delivered"
+    },
+    {
+      "name": "Malwarebytes Labs",
+      "email": "press@malwarebytes.com",
+      "deliveryId": "01a21770-204c-7305-b15d-6ef6b9fdede8",
+      "status": "delivered"
+    },
+    {
+      "name": "Security Affairs",
+      "email": "pierluigi.paganini@securityaffairs.co",
+      "deliveryId": "01a21770-2342-7323-8911-578226bc21ac",
+      "status": "delivered"
+    },
+    {
+      "name": "Unit 42",
+      "email": "mops@paloaltonetworks.com",
+      "deliveryId": "01a21770-266a-7999-abc4-7b2ace8cb264",
+      "status": "delivered"
+    },
+    {
+      "name": "Data Center Frontier",
+      "email": "customerservice@datacenterfrontier.com",
+      "deliveryId": "01a21770-2933-73a7-91c6-5f53d2b9e8cc",
+      "status": "delivered"
+    },
+    {
+      "name": "Kaspersky Securelist",
+      "email": "vulnerability@kaspersky.com",
+      "deliveryId": "01a21770-2bed-73f4-a09d-afe0fdd1abb8",
+      "status": "delivered"
+    },
+    {
+      "name": "StorageReview",
+      "email": "info@storagereview.com",
+      "deliveryId": "01a21770-2edf-7c1d-bfe0-2decff2eded6",
+      "status": "delivered"
+    },
+    {
+      "name": "TweakTown",
+      "email": "news@tweaktown.com",
+      "deliveryId": "01a21770-31aa-78d0-a6f8-4c45abf81404",
+      "status": "delivered"
+    },
+    {
+      "name": "Data Center Knowledge",
+      "email": "dcksales@informa.com",
+      "deliveryId": "01a21770-34c8-725b-81fd-00b087566fc5",
+      "status": "delivered"
+    },
+    {
+      "name": "Schneier on Security",
+      "email": "daw@cs.berkeley.edu",
+      "deliveryId": "01a21770-379c-7a86-80d1-6c9b803d521b",
+      "status": "delivered"
+    },
+    {
+      "name": "Hackaday",
+      "email": "tips@hackaday.com",
+      "deliveryId": "01a21770-3a67-72d1-8986-986c78f27441",
+      "status": "delivered"
+    },
+    {
+      "name": "EEJournal",
+      "email": "steve@eejournal.com",
+      "deliveryId": "01a21770-3d65-7933-9c2e-14f57b09486c",
+      "status": "delivered"
+    }
+  ]
+}
