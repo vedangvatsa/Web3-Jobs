@@ -32,6 +32,11 @@ const GRAMMAR_FIXES: Array<[RegExp, string]> = [
   [/\bthe worlds\b/g, "the world's"],
   [/\bcitie\b/g, 'cities'],
   [/(?<=[a-z]),(?=[A-Za-z])/g, ', '],
+  [/\bU\.\s*\n+\s*S\./g, 'U.S.'],
+  [/\bG\.\s*\n+\s*D\.\s*\n+\s*F\.\s*\n+\s*R\./g, 'G.D.F.R.'],
+  [/\.\s*:\s*$/gm, ':'],
+  [/\.\s*,\s*/g, ', '],
+  [/\.\.(?!\.)/g, '.'],
 ];
 
 const WEEKDAY =

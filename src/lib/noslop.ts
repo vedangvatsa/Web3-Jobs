@@ -19,6 +19,9 @@ const PUNCT_REPLACEMENTS: Array<[RegExp, string]> = [
   [/•/g, '-'],
   [/·/g, '-'],
   [/\u200B|\u200C|\u200D|\uFEFF/g, ''], // zero-width
+  [/\.\.(?!\.)/g, '.'],
+  [/\.\s*:\s*$/gm, ':'],
+  [/\.\s*,\s*/g, ', '],
 ];
 
 // Emoji ranges - strip all pictographic symbols for clean job publishing
