@@ -1,0 +1,128 @@
+{
+  "dispatchedAt": "2026-11-26T10:03:26.000Z",
+  "total": 20,
+  "delivered": 20,
+  "failed": 0,
+  "results": [
+    {
+      "name": "MacRumors",
+      "email": "contact@stevemoser.org",
+      "deliveryId": "01a2174f-2033-787e-98e2-e959b696cdb9",
+      "status": "delivered"
+    },
+    {
+      "name": "Android Police",
+      "email": "editorial@androidpolice.com",
+      "deliveryId": "01a2174f-22e6-776a-a860-1c8c5a9345d4",
+      "status": "delivered"
+    },
+    {
+      "name": "XDA Developers",
+      "email": "editorial@xda-developers.com",
+      "deliveryId": "01a2174f-280d-78d1-a02b-3595267b972b",
+      "status": "delivered"
+    },
+    {
+      "name": "Linux Magazine",
+      "email": "payment@linuxnewmedia.com",
+      "deliveryId": "01a2174f-2ad9-7515-bf8b-549268fd4705",
+      "status": "delivered"
+    },
+    {
+      "name": "DevClass",
+      "email": "devclass@sitpub.com",
+      "deliveryId": "01a2174f-2dbc-7e9c-b027-6acaba774771",
+      "status": "delivered"
+    },
+    {
+      "name": "Blocks and Files",
+      "email": "cmellor@sitpub.com",
+      "deliveryId": "01a2174f-3078-70a0-9113-943033eebd49",
+      "status": "delivered"
+    },
+    {
+      "name": "Light Reading",
+      "email": "zte.press.release@zte.com.cn",
+      "deliveryId": "01a2174f-3341-74a4-b7ca-17040146382a",
+      "status": "delivered"
+    },
+    {
+      "name": "RCR Wireless",
+      "email": "editor@ardenmedia.com",
+      "deliveryId": "01a2174f-35ec-7f0a-acf9-4a404eb35887",
+      "status": "delivered"
+    },
+    {
+      "name": "The Decoder",
+      "email": "hello@the-decoder.com",
+      "deliveryId": "01a2174f-3874-704d-8281-4b8a4d55570a",
+      "status": "delivered"
+    },
+    {
+      "name": "KDnuggets",
+      "email": "editor1@kdnuggets.com",
+      "deliveryId": "01a2174f-3b4e-7490-bcea-ae3dd92bd033",
+      "status": "delivered"
+    },
+    {
+      "name": "Hugging Face Blog",
+      "email": "press@huggingface.co",
+      "deliveryId": "01a2174f-3ded-790a-969d-b71ab687cf0c",
+      "status": "delivered"
+    },
+    {
+      "name": "Superhuman AI",
+      "email": "admin@joinsuperhuman.io",
+      "deliveryId": "01a2174f-40cd-7a3e-add9-703a84c7ffab",
+      "status": "delivered"
+    },
+    {
+      "name": "The Rundown AI",
+      "email": "support@therundown.ai",
+      "deliveryId": "01a2174f-4358-7aae-9c6d-9f9f596fe4ac",
+      "status": "delivered"
+    },
+    {
+      "name": "SaaStr",
+      "email": "info@saastrinc.com",
+      "deliveryId": "01a2174f-4635-7057-a446-d065f8d5b040",
+      "status": "delivered"
+    },
+    {
+      "name": "Computerworld",
+      "email": "websites@foundryco.com",
+      "deliveryId": "01a2174f-492a-71cf-b129-ad829e1ff120",
+      "status": "delivered"
+    },
+    {
+      "name": "InfoWorld",
+      "email": "websites@foundryco.com",
+      "deliveryId": "01a2174f-4c05-7ac1-9d42-b983851df798",
+      "status": "delivered"
+    },
+    {
+      "name": "Network World",
+      "email": "websites@foundryco.com",
+      "deliveryId": "01a2174f-4f42-735c-ba75-f74d098ca992",
+      "status": "delivered"
+    },
+    {
+      "name": "CIO",
+      "email": "peter_sayer@idg.com",
+      "deliveryId": "01a2174f-51e1-752c-abb1-0a41029886e5",
+      "status": "delivered"
+    },
+    {
+      "name": "CSO Online",
+      "email": "websites@foundryco.com",
+      "deliveryId": "01a2174f-54da-78b0-8671-8ecedf13e5d3",
+      "status": "delivered"
+    },
+    {
+      "name": "SC Media",
+      "email": "cpe@cyberriskalliance.com",
+      "deliveryId": "01a2174f-59ba-7ddc-b660-703c6002908d",
+      "status": "delivered"
+    }
+  ]
+}
