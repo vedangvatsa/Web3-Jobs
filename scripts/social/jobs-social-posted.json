@@ -198381,6 +198381,47 @@
       "attemptId": "b75b5d17-ea1a-44b8-bc08-2fa7cb924c2c",
       "verification": "verified",
       "postId": "0x6676bfd290e655db9bdf927f99c4278521ffc552"
+    },
+    {
+      "slug": "ba",
+      "company": "Figure",
+      "title": "Borrower Advocate",
+      "platform": "linkedin",
+      "postedAt": "2026-11-26T23:31:23.825Z",
+      "expectedText": "Figure is hiring Borrower Advocate: https://hashtagweb3.com/ba/li?og=7",
+      "snapshot": {
+        "id": "8934107002",
+        "title": "Borrower Advocate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8934107002",
+        "date": "2026-11-19T16:16:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Servicing",
+        "active": true,
+        "salary": "$45.8k – $60k/yr",
+        "dateVerified": true,
+        "slug": "ba"
+      },
+      "payload": {
+        "text": "Figure is hiring Borrower Advocate: https://hashtagweb3.com/ba/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ba/li?og=7",
+          "title": "Borrower Advocate at Figure | Hashtag Web3",
+          "description": "Join Figure as Borrower Advocate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ba.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "8dd71098-de65-4428-b392-771910b84fc2",
+      "verification": "creating"
     }
   ]
 }
