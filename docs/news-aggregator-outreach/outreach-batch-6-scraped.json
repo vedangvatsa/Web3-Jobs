@@ -1,0 +1,92 @@
+{
+  "dispatchedAt": "2026-11-26T09:49:24.491Z",
+  "total": 14,
+  "delivered": 14,
+  "failed": 0,
+  "results": [
+    {
+      "name": "The Next Web",
+      "email": "conference@thenextweb.com",
+      "deliveryId": "01a21742-5fc0-7ccc-a1a5-ad9c6c8f1b60",
+      "status": "delivered"
+    },
+    {
+      "name": "Tom's Hardware",
+      "email": "andrew.freedman@futurenet.com",
+      "deliveryId": "01a21742-61fa-78a5-93c4-148e362142c6",
+      "status": "delivered"
+    },
+    {
+      "name": "Infosecurity Magazine",
+      "email": "alessandro.mascellino@protonmail.com",
+      "deliveryId": "01a21742-647c-7aff-a860-cbe54a29cdfc",
+      "status": "delivered"
+    },
+    {
+      "name": "Help Net Security",
+      "email": "press@helpnetsecurity.com",
+      "deliveryId": "01a21742-66aa-7921-90d3-544b008b1278",
+      "status": "delivered"
+    },
+    {
+      "name": "Changelog",
+      "email": "editors@changelog.com",
+      "deliveryId": "01a21742-68e0-712c-828e-6857260ee4f0",
+      "status": "delivered"
+    },
+    {
+      "name": "CSS-Tricks",
+      "email": "geoff@css-tricks.com",
+      "deliveryId": "01a21742-6b05-76dd-805f-5365b724c753",
+      "status": "delivered"
+    },
+    {
+      "name": "Webdesigner Depot",
+      "email": "info@webdesignerdepot.com",
+      "deliveryId": "01a21742-6d3d-74c0-b527-8175d7125bc6",
+      "status": "delivered"
+    },
+    {
+      "name": "AIthority",
+      "email": "contact@itechseries.com",
+      "deliveryId": "01a21742-6fb5-7126-a481-07a43bb1cd74",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinCu",
+      "email": "hello@coincu.com",
+      "deliveryId": "01a21742-7225-7479-94e2-101c8a753a14",
+      "status": "delivered"
+    },
+    {
+      "name": "NullTX",
+      "email": "contact@nulltx.com",
+      "deliveryId": "01a21742-745c-7a1e-a3a1-d85f0699cdd6",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinPedia",
+      "email": "info.coinpedia@gmail.com",
+      "deliveryId": "01a21742-7a5b-7e75-a9c0-7b2a06a29caf",
+      "status": "delivered"
+    },
+    {
+      "name": "Blockonomi",
+      "email": "hello@blockonomi.com",
+      "deliveryId": "01a21742-7c90-777f-b238-033c8566e7ab",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoNewsZ",
+      "email": "affiliate@cryptonewsz.com",
+      "deliveryId": "01a21742-7f11-75d4-8662-e1b19e2aecf3",
+      "status": "delivered"
+    },
+    {
+      "name": "Glassnode",
+      "email": "support@glassnode.com",
+      "deliveryId": "01a21742-8134-7bb6-bae3-18095a67360d",
+      "status": "delivered"
+    }
+  ]
+}
