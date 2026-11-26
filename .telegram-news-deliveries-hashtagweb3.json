@@ -1023,7 +1023,7 @@
     "sentAt": "2026-11-26T04:50:17.705Z"
   },
   "a4669a37-067f-4fc3-b3b8-ba44e479486a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T13:05:36.166Z",
     "stories": [
       {
@@ -1051,6 +1051,8 @@
         "originalTitle": "SEC staff grants no-action relief to biotech DeSci platform Molecule"
       }
     ],
-    "slotKey": "2026-11-26:afternoon"
+    "slotKey": "2026-11-26:afternoon",
+    "messageId": 156522,
+    "sentAt": "2026-11-26T13:05:39.115Z"
   }
 }

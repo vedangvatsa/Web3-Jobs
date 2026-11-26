@@ -92,6 +92,9 @@
   "https://hashtagweb3.com/frenchsenate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/megaspeedlist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/utahkalshidismiss?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/crossriverbtcloans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ethpostquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/moleculedesci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -278,6 +281,12 @@
   "US adds Megaspeed and six affiliates to Commerce Entity List",
   "Utah drops criminal charges against Kalshi after platform blocks users",
   "Utah moves to drop 14 criminal charges against Kalshi after it blocks state users",
+  "Cross River Bank Launches Bitcoin-Backed Loans",
+  "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+  "Ethereum Foundation Doubles Security Staff for Post-Quantum Upgrades",
+  "Ethereum Foundation doubles security team for post-quantum overhaul",
+  "SEC Issues No-Action Relief to Biotech Platform Molecule",
+  "SEC staff grants no-action relief to biotech DeSci platform Molecule",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -370,5 +379,8 @@
   "fp:15b|buffer|capital|foreign|incorporat|issuer|licens|local|locally|maintain",
   "fp:000|amendment|asset|custodi|disclosur|down|euro|french|includ|lawmaker",
   "fp:add|advanc|affiliat|blacklist|commerc|comput|concern|department|due|entity",
-  "fp:access|against|attorney|block|charg|criminal|dismissal|drop|drop14|exchang"
+  "fp:access|against|attorney|block|charg|criminal|dismissal|drop|drop14|exchang",
+  "fp:000|250|250k|access|allow|back|bank|borrower|charter|collateral",
+  "fp:additional|cryptography|doubl|engineer|foundation|network|overhaul|post|quantum|research",
+  "fp:action|biopharma|biotech|confirm|desci|enforcement|grant|issu|molecul|not"
 ]
