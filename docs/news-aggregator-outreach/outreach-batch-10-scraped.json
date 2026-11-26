@@ -1,0 +1,116 @@
+{
+  "dispatchedAt": "2026-11-26T10:00:48.000Z",
+  "total": 18,
+  "delivered": 18,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Wired",
+      "email": "garrett.graff@gmail.com",
+      "deliveryId": "01a2174c-bff3-736c-ac16-a701f532d7a1",
+      "status": "delivered"
+    },
+    {
+      "name": "MIT Technology Review",
+      "email": "customer-service@technologyreview.com",
+      "deliveryId": "01a2174c-c2a2-73e9-a659-26ab5ec9c07d",
+      "status": "delivered"
+    },
+    {
+      "name": "IEEE Spectrum",
+      "email": "cdarch@wiley.com",
+      "deliveryId": "01a2174c-c5de-700e-a258-07d8c1740501",
+      "status": "delivered"
+    },
+    {
+      "name": "ZDNet",
+      "email": "press@zdnet.com",
+      "deliveryId": "01a2174c-c8b6-7c34-81ec-6a4e53b39154",
+      "status": "delivered"
+    },
+    {
+      "name": "CNET",
+      "email": "brand_licensing@ziffdavis.com",
+      "deliveryId": "01a2174c-cb68-775e-9062-c89956bbe255",
+      "status": "delivered"
+    },
+    {
+      "name": "InfoQ",
+      "email": "editors@infoq.com",
+      "deliveryId": "01a2174c-ce10-75e6-9862-44a1c10121e4",
+      "status": "delivered"
+    },
+    {
+      "name": "Pragmatic Engineer",
+      "email": "hello@pragmaticengineer.com",
+      "deliveryId": "01a2174c-d0bc-73e8-a252-de02f14bb4ed",
+      "status": "delivered"
+    },
+    {
+      "name": "Semafor",
+      "email": "aakwagyiram@semafor.com",
+      "deliveryId": "01a2174c-d3a4-7072-8c29-277a8431e9a5",
+      "status": "delivered"
+    },
+    {
+      "name": "The Information",
+      "email": "aaron.tilley@theinformation.com",
+      "deliveryId": "01a2174c-d649-7f2f-9acc-dfa3aacdbbc3",
+      "status": "delivered"
+    },
+    {
+      "name": "Protocol",
+      "email": "team@coherence.com",
+      "deliveryId": "01a2174c-d8f8-7206-94ed-da9d9a40f41b",
+      "status": "delivered"
+    },
+    {
+      "name": "TechCrunch",
+      "email": "tips@techcrunch.com",
+      "deliveryId": "01a2174c-dbc2-76af-8a97-d5405bdbb538",
+      "status": "delivered"
+    },
+    {
+      "name": "Silicon Republic",
+      "email": "editorial@siliconrepublic.com",
+      "deliveryId": "01a2174c-de7a-73ec-969d-0b577faaf9f9",
+      "status": "delivered"
+    },
+    {
+      "name": "Sifted",
+      "email": "members@sifted.eu",
+      "deliveryId": "01a2174c-e12d-7764-8659-c03dd70bbe6d",
+      "status": "delivered"
+    },
+    {
+      "name": "Tech.eu",
+      "email": "name@provider.com",
+      "deliveryId": "01a2174c-e3f9-726e-84f2-62303b5b593c",
+      "status": "delivered"
+    },
+    {
+      "name": "e27",
+      "email": "name@yourcompany.com",
+      "deliveryId": "01a2174c-e6aa-702f-b9ef-f71584a574dc",
+      "status": "delivered"
+    },
+    {
+      "name": "YourStory",
+      "email": "careers@kutlerri.ai",
+      "deliveryId": "01a2174c-e96a-7e16-bdd0-5ea2387f5edc",
+      "status": "delivered"
+    },
+    {
+      "name": "Inc42",
+      "email": "editor@inc42.com",
+      "deliveryId": "01a2174c-ec18-7b6d-b3ba-8602f99e0d40",
+      "status": "delivered"
+    },
+    {
+      "name": "PYMNTS",
+      "email": "editorial@pymnts.com",
+      "deliveryId": "01a2174c-eee9-728c-ba6c-91660d6294a8",
+      "status": "delivered"
+    }
+  ]
+}
