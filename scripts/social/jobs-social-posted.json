@@ -192343,7 +192343,8 @@
       },
       "account": "channel:ai",
       "attemptId": "50f9882b-8dae-4eb3-8c17-7ccf2b9cd7fe",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xaed7a07b70942036de3699cc203fe8ee773bf20c"
     }
   ]
 }
