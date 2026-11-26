@@ -564,7 +564,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const eventImageUrl = resolveEventOgImageUrl(event, siteUrl);
     const eventSchema = buildGoogleEventSchema(event, {
       pageUrl: eventPageUrl,
-      imageUrl: event.coverImage ? eventImageUrl : undefined,
+      imageUrl: eventImageUrl,
     });
 
     // Schema.org Breadcrumbs
