@@ -49,6 +49,8 @@ import { DirectoryDisclaimer } from '@/components/directory-disclaimer';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { getGrantById } from '@/lib/grants';
 import { GrantDetailView } from '@/components/grants/grant-detail-view';
+import { getFreeCryptoApiBySlug } from '@/lib/free-crypto-apis';
+import { FreeCryptoApiDetailView } from '@/components/free-crypto-apis/free-crypto-api-detail-view';
 import { Button } from '@/components/ui/button';
 import { DetailPrimaryActionLink } from '@/components/primary-action-link';
 import { Calendar, MapPin, ExternalLink, ArrowRight } from 'lucide-react';
@@ -434,6 +436,44 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     }
   }
 
+  if (slugType === 'api') {
+    const api = getFreeCryptoApiBySlug(slug);
+    if (api) {
+      const siteUrl = 'https://hashtagweb3.com';
+      const canonicalUrl = `${siteUrl}/${api.slug}`;
+      const title = `${api.name} Free API Tier & Limits | Hashtag Web3`;
+      const description = `${api.name} free crypto API limits: ${api.freeTier}. Check access requirements, rate limits, network coverage, and endpoints.`;
+
+      return {
+        title,
+        description,
+        alternates: {
+          canonical: canonicalUrl,
+        },
+        openGraph: {
+          type: 'article',
+          title,
+          description,
+          url: canonicalUrl,
+          images: [
+            {
+              url: 'https://hashtagweb3.com/og-image-tools.png',
+              width: 647,
+              height: 296,
+              alt: `${api.name} Free Crypto API`,
+            },
+          ],
+        },
+        twitter: {
+          card: 'summary_large_image',
+          title,
+          description,
+          images: ['https://hashtagweb3.com/og-image-tools.png'],
+        },
+      };
+    }
+  }
+
   notFound();
 }
 
@@ -506,6 +546,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       permanentRedirect(`/${grant.id}`);
     }
     return <GrantDetailView grant={grant} />;
+  }
+
+  // API page
+  if (slugType === 'api') {
+    const api = getFreeCryptoApiBySlug(slug);
+    if (!api) notFound();
+    if (slug !== api.slug) {
+      permanentRedirect(`/${api.slug}`);
+    }
+    return <FreeCryptoApiDetailView listing={api} />;
   }
 
   // Event page

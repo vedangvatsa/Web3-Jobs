@@ -63,7 +63,7 @@ export function getFreeCryptoApiLogo(slug: string): string | null {
 }
 
 export function freeCryptoApiDetailUrl(listing: FreeCryptoApiListing): string {
-  return `/freeapis/${listing.slug}`;
+  return `/${listing.slug}`;
 }
 
 export function freeCryptoApiPageDescription(total: number): string {

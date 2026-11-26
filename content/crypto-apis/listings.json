@@ -15,7 +15,7 @@
   },
   "listings": [
     {
-      "slug": "alchemy",
+      "slug": "alchemyapi",
       "name": "Alchemy",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -96,7 +96,7 @@
       "path": "/api/alchemy"
     },
     {
-      "slug": "helius",
+      "slug": "heliusapi",
       "name": "Helius",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -145,7 +145,7 @@
       "path": "/api/helius"
     },
     {
-      "slug": "jupiter",
+      "slug": "jupiterapi",
       "name": "Jupiter",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -191,7 +191,7 @@
       "path": "/api/jupiter"
     },
     {
-      "slug": "uniswap-trading-api",
+      "slug": "uniswapapi",
       "name": "Uniswap trading API",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -250,7 +250,7 @@
       "path": "/api/uniswap-trading-api"
     },
     {
-      "slug": "privy",
+      "slug": "privyapi",
       "name": "Privy",
       "category": "identity",
       "categoryLabel": "Identity and social",
@@ -326,7 +326,7 @@
       "path": "/api/privy"
     },
     {
-      "slug": "zerion-api",
+      "slug": "zerionapi",
       "name": "Zerion API",
       "category": "wallet",
       "categoryLabel": "Wallet-level data",
@@ -399,7 +399,7 @@
       "path": "/api/zerion-api"
     },
     {
-      "slug": "0x",
+      "slug": "0xapi",
       "name": "0x",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -465,7 +465,7 @@
       "path": "/api/0x"
     },
     {
-      "slug": "1inch-business-api",
+      "slug": "1inchapi",
       "name": "1inch Business API",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -524,7 +524,7 @@
       "path": "/api/1inch-business-api"
     },
     {
-      "slug": "a402-check-api",
+      "slug": "a402checkapi",
       "name": "A402 Check API",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -570,7 +570,7 @@
       "path": "/api/a402-check-api"
     },
     {
-      "slug": "across",
+      "slug": "acrossapi",
       "name": "Across",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -633,7 +633,7 @@
       "path": "/api/across"
     },
     {
-      "slug": "allium",
+      "slug": "alliumapi",
       "name": "Allium",
       "category": "wallet",
       "categoryLabel": "Wallet-level data",
@@ -720,7 +720,7 @@
       "path": "/api/allium"
     },
     {
-      "slug": "alternative-me-fear-and-greed-index",
+      "slug": "alternativemeapi",
       "name": "Alternative.me Fear and Greed Index",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -764,7 +764,7 @@
       "path": "/api/alternative-me-fear-and-greed-index"
     },
     {
-      "slug": "ankr-web3-api",
+      "slug": "ankrapi",
       "name": "Ankr Web3 API",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -840,7 +840,7 @@
       "path": "/api/ankr-web3-api"
     },
     {
-      "slug": "band-protocol",
+      "slug": "bandapi",
       "name": "Band Protocol",
       "category": "oracle",
       "categoryLabel": "Oracles",
@@ -895,7 +895,7 @@
       "path": "/api/band-protocol"
     },
     {
-      "slug": "binance-public-market-data",
+      "slug": "binanceapi",
       "name": "Binance public market data",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -939,7 +939,7 @@
       "path": "/api/binance-public-market-data"
     },
     {
-      "slug": "birdeye",
+      "slug": "birdeyeapi",
       "name": "Birdeye",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -1001,7 +1001,7 @@
       "path": "/api/birdeye"
     },
     {
-      "slug": "bitquery",
+      "slug": "bitqueryapi",
       "name": "Bitquery",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -1067,7 +1067,7 @@
       "path": "/api/bitquery"
     },
     {
-      "slug": "blockchair",
+      "slug": "blockchairapi",
       "name": "Blockchair",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -1134,7 +1134,7 @@
       "path": "/api/blockchair"
     },
     {
-      "slug": "blockscout",
+      "slug": "blockscoutapi",
       "name": "Blockscout",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -1199,7 +1199,7 @@
       "path": "/api/blockscout"
     },
     {
-      "slug": "blockworks-data-api",
+      "slug": "blockworksapi",
       "name": "Blockworks Data API",
       "category": "ecosystem",
       "categoryLabel": "Ecosystem and chain",
@@ -1249,7 +1249,7 @@
       "path": "/api/blockworks-data-api"
     },
     {
-      "slug": "bloxroute-solana-aggregator",
+      "slug": "bloxrouteapi",
       "name": "bloXroute Solana Aggregator",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -1295,7 +1295,7 @@
       "path": "/api/bloxroute-solana-aggregator"
     },
     {
-      "slug": "chainalysis-sanctions-screening-api",
+      "slug": "chainalysisapi",
       "name": "Chainalysis Sanctions Screening API",
       "category": "security",
       "categoryLabel": "Security and simulation",
@@ -1339,7 +1339,7 @@
       "path": "/api/chainalysis-sanctions-screening-api"
     },
     {
-      "slug": "chainlink",
+      "slug": "chainlinkapi",
       "name": "Chainlink",
       "category": "oracle",
       "categoryLabel": "Oracles",
@@ -1417,7 +1417,7 @@
       "path": "/api/chainlink"
     },
     {
-      "slug": "chainstack",
+      "slug": "chainstackapi",
       "name": "Chainstack",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -1494,7 +1494,7 @@
       "path": "/api/chainstack"
     },
     {
-      "slug": "coinbase-cdp-node",
+      "slug": "coinbaseapi",
       "name": "Coinbase CDP Node",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -1540,7 +1540,7 @@
       "path": "/api/coinbase-cdp-node"
     },
     {
-      "slug": "coincap",
+      "slug": "coincapapi",
       "name": "CoinCap",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -1584,7 +1584,7 @@
       "path": "/api/coincap"
     },
     {
-      "slug": "coingecko",
+      "slug": "coingeckoapi",
       "name": "CoinGecko",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -1628,7 +1628,7 @@
       "path": "/api/coingecko"
     },
     {
-      "slug": "coinmarketcap",
+      "slug": "coinmarketcapapi",
       "name": "CoinMarketCap",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -1672,7 +1672,7 @@
       "path": "/api/coinmarketcap"
     },
     {
-      "slug": "coinpaprika",
+      "slug": "coinpaprikaapi",
       "name": "Coinpaprika",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -1716,7 +1716,7 @@
       "path": "/api/coinpaprika"
     },
     {
-      "slug": "debridge",
+      "slug": "debridgeapi",
       "name": "deBridge",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -1778,7 +1778,7 @@
       "path": "/api/debridge"
     },
     {
-      "slug": "defillama",
+      "slug": "defillamaapi",
       "name": "DefiLlama",
       "category": "ecosystem",
       "categoryLabel": "Ecosystem and chain",
@@ -1824,7 +1824,7 @@
       "path": "/api/defillama"
     },
     {
-      "slug": "dex-screener",
+      "slug": "dexscreenerapi",
       "name": "DEX Screener",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -1904,7 +1904,7 @@
       "path": "/api/dex-screener"
     },
     {
-      "slug": "drpc",
+      "slug": "drpcapi",
       "name": "dRPC",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -1989,7 +1989,7 @@
       "path": "/api/drpc"
     },
     {
-      "slug": "dune",
+      "slug": "duneapi",
       "name": "Dune",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -2076,7 +2076,7 @@
       "path": "/api/dune"
     },
     {
-      "slug": "electric-capital-open-dev-data",
+      "slug": "electriccapitalapi",
       "name": "Electric Capital Open Dev Data",
       "category": "ecosystem",
       "categoryLabel": "Ecosystem and chain",
@@ -2122,7 +2122,7 @@
       "path": "/api/electric-capital-open-dev-data"
     },
     {
-      "slug": "ens",
+      "slug": "ensapi",
       "name": "ENS",
       "category": "identity",
       "categoryLabel": "Identity and social",
@@ -2168,7 +2168,7 @@
       "path": "/api/ens"
     },
     {
-      "slug": "envio",
+      "slug": "envioapi",
       "name": "Envio",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -2246,7 +2246,7 @@
       "path": "/api/envio"
     },
     {
-      "slug": "ethbeat",
+      "slug": "ethbeatapi",
       "name": "ETHBEAT (formerly L2BEAT)",
       "category": "ecosystem",
       "categoryLabel": "Ecosystem and chain",
@@ -2308,7 +2308,7 @@
       "path": "/api/ethbeat"
     },
     {
-      "slug": "etherscan",
+      "slug": "etherscanapi",
       "name": "Etherscan",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -2372,7 +2372,7 @@
       "path": "/api/etherscan"
     },
     {
-      "slug": "fomoscan",
+      "slug": "fomoscanapi",
       "name": "FomoScan",
       "category": "identity",
       "categoryLabel": "Identity and social",
@@ -2423,7 +2423,7 @@
       "path": "/api/fomoscan"
     },
     {
-      "slug": "geckoterminal",
+      "slug": "geckoterminalapi",
       "name": "GeckoTerminal",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -2507,7 +2507,7 @@
       "path": "/api/geckoterminal"
     },
     {
-      "slug": "getblock",
+      "slug": "getblockapi",
       "name": "GetBlock",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -2598,7 +2598,7 @@
       "path": "/api/getblock"
     },
     {
-      "slug": "goldrush",
+      "slug": "goldrushapi",
       "name": "GoldRush (Covalent)",
       "category": "wallet",
       "categoryLabel": "Wallet-level data",
@@ -2674,7 +2674,7 @@
       "path": "/api/goldrush"
     },
     {
-      "slug": "goldsky",
+      "slug": "goldskyapi",
       "name": "Goldsky",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -2756,7 +2756,7 @@
       "path": "/api/goldsky"
     },
     {
-      "slug": "goplus-security",
+      "slug": "goplussecurityapi",
       "name": "GoPlus Security",
       "category": "security",
       "categoryLabel": "Security and simulation",
@@ -2827,7 +2827,7 @@
       "path": "/api/goplus-security"
     },
     {
-      "slug": "growthepie",
+      "slug": "growthepieapi",
       "name": "growthepie",
       "category": "ecosystem",
       "categoryLabel": "Ecosystem and chain",
@@ -2889,7 +2889,7 @@
       "path": "/api/growthepie"
     },
     {
-      "slug": "hyperliquid",
+      "slug": "hyperliquidapi",
       "name": "Hyperliquid",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -2935,7 +2935,7 @@
       "path": "/api/hyperliquid"
     },
     {
-      "slug": "infura",
+      "slug": "infuraapi",
       "name": "Infura",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -2999,7 +2999,7 @@
       "path": "/api/infura"
     },
     {
-      "slug": "ironflow",
+      "slug": "ironflowapi",
       "name": "Ironflow",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -3045,7 +3045,7 @@
       "path": "/api/ironflow"
     },
     {
-      "slug": "kaiko",
+      "slug": "kaikoapi",
       "name": "Kaiko",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -3089,7 +3089,7 @@
       "path": "/api/kaiko"
     },
     {
-      "slug": "kraken-public-market-data",
+      "slug": "krakenapi",
       "name": "Kraken public market data",
       "category": "market",
       "categoryLabel": "Market and prices",
@@ -3133,7 +3133,7 @@
       "path": "/api/kraken-public-market-data"
     },
     {
-      "slug": "kyberswap",
+      "slug": "kyberswapapi",
       "name": "KyberSwap",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -3198,7 +3198,7 @@
       "path": "/api/kyberswap"
     },
     {
-      "slug": "lens",
+      "slug": "lensapi",
       "name": "Lens",
       "category": "identity",
       "categoryLabel": "Identity and social",
@@ -3244,7 +3244,7 @@
       "path": "/api/lens"
     },
     {
-      "slug": "li-fi",
+      "slug": "lifiapi",
       "name": "LI.FI",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -3319,7 +3319,7 @@
       "path": "/api/li-fi"
     },
     {
-      "slug": "mempool-space",
+      "slug": "mempoolapi",
       "name": "mempool.space",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -3369,7 +3369,7 @@
       "path": "/api/mempool-space"
     },
     {
-      "slug": "mobula",
+      "slug": "mobulaapi",
       "name": "Mobula",
       "category": "wallet",
       "categoryLabel": "Wallet-level data",
@@ -3440,7 +3440,7 @@
       "path": "/api/mobula"
     },
     {
-      "slug": "moralis",
+      "slug": "moralisapi",
       "name": "Moralis",
       "category": "wallet",
       "categoryLabel": "Wallet-level data",
@@ -3502,7 +3502,7 @@
       "path": "/api/moralis"
     },
     {
-      "slug": "nansen",
+      "slug": "nansenapi",
       "name": "Nansen",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -3569,7 +3569,7 @@
       "path": "/api/nansen"
     },
     {
-      "slug": "neynar",
+      "slug": "neynarapi",
       "name": "Neynar",
       "category": "identity",
       "categoryLabel": "Identity and social",
@@ -3617,7 +3617,7 @@
       "path": "/api/neynar"
     },
     {
-      "slug": "nownodes",
+      "slug": "nownodesapi",
       "name": "NOWNodes",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -3698,7 +3698,7 @@
       "path": "/api/nownodes"
     },
     {
-      "slug": "opensea",
+      "slug": "openseaapi",
       "name": "OpenSea",
       "category": "nft",
       "categoryLabel": "NFT",
@@ -3756,7 +3756,7 @@
       "path": "/api/opensea"
     },
     {
-      "slug": "publicnode",
+      "slug": "publicnodeapi",
       "name": "PublicNode",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -3830,7 +3830,7 @@
       "path": "/api/publicnode"
     },
     {
-      "slug": "pyth",
+      "slug": "pythapi",
       "name": "Pyth",
       "category": "oracle",
       "categoryLabel": "Oracles",
@@ -3909,7 +3909,7 @@
       "path": "/api/pyth"
     },
     {
-      "slug": "quicknode",
+      "slug": "quicknodeapi",
       "name": "QuickNode",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -4004,7 +4004,7 @@
       "path": "/api/quicknode"
     },
     {
-      "slug": "redstone",
+      "slug": "redstoneapi",
       "name": "RedStone",
       "category": "oracle",
       "categoryLabel": "Oracles",
@@ -4076,7 +4076,7 @@
       "path": "/api/redstone"
     },
     {
-      "slug": "relay",
+      "slug": "relayapi",
       "name": "Relay",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -4151,7 +4151,7 @@
       "path": "/api/relay"
     },
     {
-      "slug": "rift",
+      "slug": "riftapi",
       "name": "RIFT",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -4205,7 +4205,7 @@
       "path": "/api/rift"
     },
     {
-      "slug": "routescan",
+      "slug": "routescanapi",
       "name": "Routescan",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -4258,7 +4258,7 @@
       "path": "/api/routescan"
     },
     {
-      "slug": "sns",
+      "slug": "snsapi",
       "name": "SNS (Solana Name Service)",
       "category": "identity",
       "categoryLabel": "Identity and social",
@@ -4304,7 +4304,7 @@
       "path": "/api/sns"
     },
     {
-      "slug": "socket-bungee",
+      "slug": "socketbungeeapi",
       "name": "Socket / Bungee",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -4365,7 +4365,7 @@
       "path": "/api/socket-bungee"
     },
     {
-      "slug": "solscan",
+      "slug": "solscanapi",
       "name": "Solscan",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -4416,7 +4416,7 @@
       "path": "/api/solscan"
     },
     {
-      "slug": "sqd",
+      "slug": "sqdapi",
       "name": "SQD",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -4492,7 +4492,7 @@
       "path": "/api/sqd"
     },
     {
-      "slug": "subscan",
+      "slug": "subscanapi",
       "name": "Subscan",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -4541,7 +4541,7 @@
       "path": "/api/subscan"
     },
     {
-      "slug": "tatum",
+      "slug": "tatumapi",
       "name": "Tatum",
       "category": "rpc",
       "categoryLabel": "RPC and node",
@@ -4619,7 +4619,7 @@
       "path": "/api/tatum"
     },
     {
-      "slug": "the-graph-subgraph-studio",
+      "slug": "thegraphapi",
       "name": "The Graph Subgraph Studio",
       "category": "analytics",
       "categoryLabel": "Analytics and indexing",
@@ -4694,7 +4694,7 @@
       "path": "/api/the-graph-subgraph-studio"
     },
     {
-      "slug": "tronscan",
+      "slug": "tronscanapi",
       "name": "TRONSCAN",
       "category": "explorer",
       "categoryLabel": "Explorers",
@@ -4744,7 +4744,7 @@
       "path": "/api/tronscan"
     },
     {
-      "slug": "uma",
+      "slug": "umaapi",
       "name": "UMA",
       "category": "oracle",
       "categoryLabel": "Oracles",
@@ -4797,7 +4797,7 @@
       "path": "/api/uma"
     },
     {
-      "slug": "velora",
+      "slug": "veloraapi",
       "name": "Velora (formerly ParaSwap)",
       "category": "execution",
       "categoryLabel": "Swaps and execution",
@@ -4852,7 +4852,7 @@
       "path": "/api/velora"
     },
     {
-      "slug": "webacy",
+      "slug": "webacyapi",
       "name": "Webacy",
       "category": "security",
       "categoryLabel": "Security and simulation",

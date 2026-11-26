@@ -28,7 +28,7 @@ export function FreeCryptoApiDetailView({ listing }: { listing: FreeCryptoApiLis
   const eventArticle = cryptoApiEditorialToEventArticle(editorial);
   const relatedApis = getRelatedCryptoApis(listing, 3);
   const siteUrl = 'https://hashtagweb3.com';
-  const canonicalUrl = `${siteUrl}/freeapis/${listing.slug}`;
+  const canonicalUrl = `${siteUrl}/${listing.slug}`;
 
   const domain = domainFromUrl(listing.websiteUrl);
   const localLogo = getFreeCryptoApiLogo(listing.slug);
