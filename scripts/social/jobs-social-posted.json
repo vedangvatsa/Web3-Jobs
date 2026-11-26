@@ -198091,7 +198091,8 @@
       },
       "account": "channel:founders",
       "attemptId": "682e7ce9-c3a9-452e-8934-058ec6b7a4bf",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7cf007e51085483c1cd57f8c618bbd2bfa6c66b2"
     }
   ]
 }
