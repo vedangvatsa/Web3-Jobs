@@ -196803,6 +196803,34 @@
       "attemptId": "573cdb18-9477-4351-b8a6-d1f7219ab6a1",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "eng875",
+      "company": "Stripe",
+      "title": "Analytics Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-11-26T20:26:12.183Z",
+      "expectedText": "Stripe is hiring Analytics Engineer: https://hashtagweb3.com/eng875/fb?og=7",
+      "snapshot": {
+        "id": "8415333",
+        "title": "Analytics Engineer",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8415333",
+        "date": "2026-11-24T17:35:42-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "New York",
+        "department": "9003 Privy - S&O",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng875"
+      },
+      "payload": {
+        "message": "Stripe is hiring Analytics Engineer: https://hashtagweb3.com/eng875/fb?og=7",
+        "link": "https://hashtagweb3.com/eng875/fb?og=7"
+      },
+      "attemptId": "f5be1aa5-45ac-45d6-b3cf-6cadd6bc46e3",
+      "verification": "creating"
     }
   ]
 }
