@@ -1,0 +1,176 @@
+{
+  "dispatchedAt": "2026-11-26T10:36:35.000Z",
+  "total": 28,
+  "delivered": 28,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Eurogamer",
+      "email": "contact@eurogamer.net",
+      "deliveryId": "01a2176d-55ae-71c6-b85a-47d389b92176",
+      "status": "delivered"
+    },
+    {
+      "name": "IGN",
+      "email": "ign@forkmediagroup.com",
+      "deliveryId": "01a2176d-5873-7554-850b-544653b7a3bb",
+      "status": "delivered"
+    },
+    {
+      "name": "VG247",
+      "email": "contact@vg247.com",
+      "deliveryId": "01a2176d-5d9e-7cf2-ba26-e1707abae370",
+      "status": "delivered"
+    },
+    {
+      "name": "Rock Paper Shotgun",
+      "email": "contact@rockpapershotgun.com",
+      "deliveryId": "01a2176d-65c5-7536-b09c-1b2406c02db4",
+      "status": "delivered"
+    },
+    {
+      "name": "No Film School",
+      "email": "editor@nofilmschool.com",
+      "deliveryId": "01a2176d-687f-7ead-8215-ce599b442737",
+      "status": "delivered"
+    },
+    {
+      "name": "Post Magazine",
+      "email": "contact@postmagazine.com",
+      "deliveryId": "01a2176d-6df7-78d9-83cb-641e5ffefd0f",
+      "status": "delivered"
+    },
+    {
+      "name": "Polygon",
+      "email": "username@website.com",
+      "deliveryId": "01a2176d-7349-73f4-9688-c876a8d1ecd2",
+      "status": "delivered"
+    },
+    {
+      "name": "RedShark News",
+      "email": "editor@redsharknews.com",
+      "deliveryId": "01a2176d-7654-7a4f-b197-174a5acbf060",
+      "status": "delivered"
+    },
+    {
+      "name": "Radio World",
+      "email": "futureplc@computerfulfillment.com",
+      "deliveryId": "01a2176d-7952-73fb-8d5e-99d18928b437",
+      "status": "delivered"
+    },
+    {
+      "name": "TV Tech",
+      "email": "adam.goldstein@futurenet.com",
+      "deliveryId": "01a2176d-7c5a-79fe-9ce1-80988830a17d",
+      "status": "delivered"
+    },
+    {
+      "name": "Animation Magazine",
+      "email": "animation@cambeywest.com",
+      "deliveryId": "01a2176d-7f14-7025-93ac-6f73b7621287",
+      "status": "delivered"
+    },
+    {
+      "name": "Mixonline",
+      "email": "adam.goldstein@futurenet.com",
+      "deliveryId": "01a2176d-8210-7e09-b38b-d4e9a470b567",
+      "status": "delivered"
+    },
+    {
+      "name": "Filmmaker Magazine",
+      "email": "rdvorin@thegotham.org",
+      "deliveryId": "01a2176d-8514-770a-8d6d-23c79f2ac7b5",
+      "status": "delivered"
+    },
+    {
+      "name": "MusicRadar",
+      "email": "contact@musicradar.com",
+      "deliveryId": "01a2176d-8829-762b-b1a1-0bd91cec88e0",
+      "status": "delivered"
+    },
+    {
+      "name": "Sound on Sound",
+      "email": "adsales@soundonsound.com",
+      "deliveryId": "01a2176d-8aec-764b-9338-2b1894ae150a",
+      "status": "delivered"
+    },
+    {
+      "name": "Pitchfork",
+      "email": "help@newyorker.com",
+      "deliveryId": "01a2176d-8faa-7361-89df-3363202bb5fa",
+      "status": "delivered"
+    },
+    {
+      "name": "DualShockers",
+      "email": "editorial@dualshockers.com",
+      "deliveryId": "01a2176d-931d-7800-a2ed-44de36286c75",
+      "status": "delivered"
+    },
+    {
+      "name": "Broadcast Now",
+      "email": "info@mbi.london",
+      "deliveryId": "01a2176d-95e2-7901-8cdf-6340dab7cf4d",
+      "status": "delivered"
+    },
+    {
+      "name": "Resident Advisor",
+      "email": "community@ra.co",
+      "deliveryId": "01a2176d-991c-74ef-b4fa-8e851bfdb63b",
+      "status": "delivered"
+    },
+    {
+      "name": "The Line of Best Fit",
+      "email": "hello@thelineofbestfit.com",
+      "deliveryId": "01a2176d-9bd7-77a0-a261-8f513912fa00",
+      "status": "delivered"
+    },
+    {
+      "name": "Stereogum",
+      "email": "bmeterp@gmail.com",
+      "deliveryId": "01a2176d-9e87-7246-83a8-264bdad5c64b",
+      "status": "delivered"
+    },
+    {
+      "name": "Dork",
+      "email": "editor@readdork.com",
+      "deliveryId": "01a2176d-a182-79d9-b69a-3748ebc146b1",
+      "status": "delivered"
+    },
+    {
+      "name": "Cinema5D CineD",
+      "email": "hello@mascha.info",
+      "deliveryId": "01a2176d-a427-7b66-9120-d0d3cf663efa",
+      "status": "delivered"
+    },
+    {
+      "name": "PopMatters",
+      "email": "editor@popmatters.com",
+      "deliveryId": "01a2176d-a784-7e58-a13c-d3c7fbda363b",
+      "status": "delivered"
+    },
+    {
+      "name": "Complex",
+      "email": "info@complex.com",
+      "deliveryId": "01a2176d-aa68-77d1-a908-5e565ee7b058",
+      "status": "delivered"
+    },
+    {
+      "name": "Consequence",
+      "email": "info@consequence.net",
+      "deliveryId": "01a2176d-ad63-71bd-9da3-8b5b5d56e1ce",
+      "status": "delivered"
+    },
+    {
+      "name": "The FADER",
+      "email": "pr@thefader.com",
+      "deliveryId": "01a2176d-b02e-733e-8040-74e49e5aa9ed",
+      "status": "delivered"
+    },
+    {
+      "name": "Hypebeast",
+      "email": "editorial@hypebeast.com",
+      "deliveryId": "01a2176d-b2ff-7e95-8739-82b7999eb44b",
+      "status": "delivered"
+    }
+  ]
+}
