@@ -121,15 +121,6 @@ function normalizeDescriptionParagraphBlocks(ownDescription: string): string[] {
       continue;
     }
     if (codeRun) { codeRun.push(line); continue; }
-    // "1 - Item" style numbered lines only form a list when 2+ run together,
-    // so quantities ("10 - 20 attendees"), years and times stay body copy.
-    if (
-      (/^\s*-\s+(?=[A-Z]{2,}[\sA-Z&'’\-])/i.test(line) && !/^\s*-\s+[A-Z][a-z]{2,}\s+[a-z]/.test(line))
-      || /^\s*-\s+[A-Z][\p{L}]+,\s*[A-Z][\p{L}]+/u.test(line)
-    ) {
-      blocks.push(line.trim().replace(/^\s*-\s+/, ''));
-      continue;
-    }
     const dashNumbered = /^\s*(\d{1,2})\s*[-–]\s+(\S.*)$/.exec(line);
     if (/^\s*\d{1,2}\s*[-–]\s+\S/.test(line) && !/^\s*\d{1,2}:\d{2}/.test(line) && !/^\s*\d{3,}/.test(line)) {
       flushBullets();
