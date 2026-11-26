@@ -195121,6 +195121,34 @@
       "attemptId": "b8150f67-e3dd-4d19-ae67-977f63dd192f",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "eng797",
+      "company": "Bitpanda",
+      "title": "Software Engineer, Java",
+      "platform": "facebook",
+      "postedAt": "2026-11-26T13:06:36.847Z",
+      "expectedText": "Bitpanda is hiring Software Engineer, Java: https://hashtagweb3.com/eng797/fb?og=7",
+      "snapshot": {
+        "id": "4963196101",
+        "title": "Software Engineer, Java",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963196101",
+        "date": "2026-11-16T14:41:41-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng797"
+      },
+      "payload": {
+        "message": "Bitpanda is hiring Software Engineer, Java: https://hashtagweb3.com/eng797/fb?og=7",
+        "link": "https://hashtagweb3.com/eng797/fb?og=7"
+      },
+      "attemptId": "60cf6dc1-9bdb-4b7b-8e35-442984845f51",
+      "verification": "creating"
     }
   ]
 }
