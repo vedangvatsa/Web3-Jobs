@@ -1,0 +1,104 @@
+{
+  "dispatchedAt": "2026-11-26T10:20:17.000Z",
+  "total": 16,
+  "delivered": 16,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Smashing Magazine",
+      "email": "mac@smashingmagazine.com",
+      "deliveryId": "01a2175e-99e9-78bc-aae3-8172b188e653",
+      "status": "delivered"
+    },
+    {
+      "name": "SitePoint",
+      "email": "example@gmail.com",
+      "deliveryId": "01a2175e-9d0b-796f-a680-efd9753e3756",
+      "status": "delivered"
+    },
+    {
+      "name": "A List Apart",
+      "email": "contact.us@alistapart.com",
+      "deliveryId": "01a2175e-9fd0-7f18-bcda-6d5b8af48f55",
+      "status": "delivered"
+    },
+    {
+      "name": "Broadband Breakfast",
+      "email": "broadbandbreakfast@mastodon.social",
+      "deliveryId": "01a2175e-a298-7188-a3fe-46553f480077",
+      "status": "delivered"
+    },
+    {
+      "name": "Telecompaper",
+      "email": "info@telecompaper.com",
+      "deliveryId": "01a2175e-a55f-7513-b329-cd0bec141885",
+      "status": "delivered"
+    },
+    {
+      "name": "Total Telecom",
+      "email": "info@totaltele.com",
+      "deliveryId": "01a2175e-a850-7d77-94a9-c8faba0c6925",
+      "status": "delivered"
+    },
+    {
+      "name": "Electronic Design",
+      "email": "bgweb@endeavorb2b.com",
+      "deliveryId": "01a2175e-ab73-779f-b073-9d1364ff1232",
+      "status": "delivered"
+    },
+    {
+      "name": "Design News",
+      "email": "max@clivemaxfield.com",
+      "deliveryId": "01a2175e-ae3c-7725-9af4-2599f19e0126",
+      "status": "delivered"
+    },
+    {
+      "name": "Robotics Business Review",
+      "email": "info@therobotreport.com",
+      "deliveryId": "01a2175e-b113-7d63-9217-09da8b47e715",
+      "status": "delivered"
+    },
+    {
+      "name": "The Robot Report",
+      "email": "info@therobotreport.com",
+      "deliveryId": "01a2175e-b410-7a33-a49c-9e3aee2abc03",
+      "status": "delivered"
+    },
+    {
+      "name": "Robohub",
+      "email": "info@robohub.org",
+      "deliveryId": "01a2175e-b9cc-7cbe-bf9a-8ad654341baf",
+      "status": "delivered"
+    },
+    {
+      "name": "STAT News",
+      "email": "subscribers@statnews.com",
+      "deliveryId": "01a2175e-bc8e-7b4c-99cb-6b8dbdc13eac",
+      "status": "delivered"
+    },
+    {
+      "name": "HealthTech Magazine",
+      "email": "catalog@cdw.com",
+      "deliveryId": "01a2175e-bf6d-7942-bbc5-208adf7630c2",
+      "status": "delivered"
+    },
+    {
+      "name": "CleanTechnica",
+      "email": "us_elite-300__-ac200l-3@1x.jpeg",
+      "deliveryId": "01a2175e-c25d-7cee-bf46-65fe411d563c",
+      "status": "delivered"
+    },
+    {
+      "name": "GreenBiz",
+      "email": "support@trellis.net",
+      "deliveryId": "01a2175e-c576-74cb-bc1e-825618ba9216",
+      "status": "delivered"
+    },
+    {
+      "name": "Smart Energy International",
+      "email": "exhibitor@enlit-europe.com",
+      "deliveryId": "01a2175e-c835-7808-8b7f-1200ffbbc71c",
+      "status": "delivered"
+    }
+  ]
+}
