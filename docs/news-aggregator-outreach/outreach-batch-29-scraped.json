@@ -1,0 +1,116 @@
+{
+  "dispatchedAt": "2026-11-26T10:56:11.000Z",
+  "total": 18,
+  "delivered": 18,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Netzwelt Germany",
+      "email": "redaktion@netzwelt.de",
+      "deliveryId": "01a2177f-7557-79e1-ae13-8a1c2cd2e362",
+      "status": "delivered"
+    },
+    {
+      "name": "Trending Topics SEE",
+      "email": "feedback@trendingtopics.at",
+      "deliveryId": "01a2177f-785c-79ec-9d05-d0401c7b0e01",
+      "status": "delivered"
+    },
+    {
+      "name": "Heise Online",
+      "email": "newstipps@heise.de",
+      "deliveryId": "01a2177f-7b04-7e51-ac45-d089b707d8cc",
+      "status": "delivered"
+    },
+    {
+      "name": "Caschys Blog",
+      "email": "gruenkohl.chiffre.01@icloud.com",
+      "deliveryId": "01a2177f-7ddc-73c6-b8b6-44781e144e88",
+      "status": "delivered"
+    },
+    {
+      "name": "Next INpact",
+      "email": "contact@next.ink",
+      "deliveryId": "01a2177f-80ae-70d6-9bd2-906830c15a18",
+      "status": "delivered"
+    },
+    {
+      "name": "Xataka Spain",
+      "email": "publicidad@webedia-group.com",
+      "deliveryId": "01a2177f-836d-7142-acf9-ca166fd558b2",
+      "status": "delivered"
+    },
+    {
+      "name": "Genbeta Spain",
+      "email": "publicidad@webedia-group.com",
+      "deliveryId": "01a2177f-8618-7ac8-aaec-49d674d3214e",
+      "status": "delivered"
+    },
+    {
+      "name": "Hipertextual Spain",
+      "email": "info@hipertextual.com",
+      "deliveryId": "01a2177f-88f7-731f-9d15-e8f4a2d3a533",
+      "status": "delivered"
+    },
+    {
+      "name": "iPhoned NL",
+      "email": "redactie@iphoned.nl",
+      "deliveryId": "01a2177f-8b92-7e16-95f3-ee37b637ea89",
+      "status": "delivered"
+    },
+    {
+      "name": "Tek.no Norway",
+      "email": "tips@tek.no",
+      "deliveryId": "01a2177f-8e4e-7b18-bfb0-d36bf8160ce1",
+      "status": "delivered"
+    },
+    {
+      "name": "Version2 Denmark",
+      "email": "support@ing.dk",
+      "deliveryId": "01a2177f-9104-7bad-bc21-dc87f38a269a",
+      "status": "delivered"
+    },
+    {
+      "name": "Digi.no Norway",
+      "email": "tips@digi.no",
+      "deliveryId": "01a2177f-93b0-762f-9f25-816c2e124fe4",
+      "status": "delivered"
+    },
+    {
+      "name": "Recordere Denmark",
+      "email": "jens@hummelmose.dk",
+      "deliveryId": "01a2177f-9681-7ca8-8e17-ba94f960641d",
+      "status": "delivered"
+    },
+    {
+      "name": "Tivi Finland",
+      "email": "anna.helakallio@almamedia.fi",
+      "deliveryId": "01a2177f-993c-7565-a7a9-c8038742c0ce",
+      "status": "delivered"
+    },
+    {
+      "name": "Muropaketti Finland",
+      "email": "asiakaspalvelu@otavamedia.fi",
+      "deliveryId": "01a2177f-9bb9-7e3b-b368-3d94ddb8bc0d",
+      "status": "delivered"
+    },
+    {
+      "name": "M3 Sweden",
+      "email": "andreas.bergsman@m3.se",
+      "deliveryId": "01a2177f-a029-7213-8289-47d1b44f4dc6",
+      "status": "delivered"
+    },
+    {
+      "name": "PCforAlla Sweden",
+      "email": "andreas@pcforalla.se",
+      "deliveryId": "01a2177f-a2db-7293-adb3-6b4793aa5a72",
+      "status": "delivered"
+    },
+    {
+      "name": "MacWorld Sweden",
+      "email": "andreas@macworld.se",
+      "deliveryId": "01a2177f-a5b1-7465-abff-d1938dbccf9c",
+      "status": "delivered"
+    }
+  ]
+}
