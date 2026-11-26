@@ -92,6 +92,9 @@
   "https://the-decoder.com/us-chip-access-curbs-and-anti-distillation-measures-are-reportedly-already-slowing-chinese-ai-labs/",
   "https://the-decoder.com/openai-wants-companies-to-trust-it-with-sensitive-work-by-promising-not-to-look-at-their-data/",
   "https://siliconangle.com/2026/11/25/your-ai-agents-can-be-fully-authorized-and-still-do-damage/",
+  "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+  "https://siliconangle.com/2026/11/25/voice-ai-startup-elevenlabs-reportedly-seeking-new-funding-at-33b-valuation/",
+  "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -278,6 +281,12 @@
   "OpenAI wants companies to trust it with sensitive work by promising not to look at their data",
   "Authorized AI agents can cause unintended enterprise security damage",
   "Your AI agents can be fully authorized and still do damage",
+  "Nvidia halts server shipments to four Southeast Asian countries",
+  "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+  "ElevenLabs seeks new funding at $33 billion valuation",
+  "Voice AI startup ElevenLabs reportedly seeking new funding at $33B valuation",
+  "ZDNet Reviews Top Headphones for 2026",
+  "ZDNET’s best headphones of 2026: These two pairs left us impressed",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -370,5 +379,8 @@
   "fp:700m|anthropic|autonomous|background|direct|download|fil|interfac|mcp|monthly",
   "fp:access|already|anti|are|caus|chines|chip|control|curb|distillation",
   "fp:access|allow|business|capability|inferenc|introduc|larg|look|not|openai",
-  "fp:authoriz|autonomous|bas|can|cannot|caus|damag|exist|framework|fully"
+  "fp:authoriz|autonomous|bas|can|cannot|caus|damag|exist|framework|fully",
+  "fp:access|advanc|asian|chines|chip|control|country|decision|export|follow",
+  "fp:33b|capital|early|early2027|elevenlab|investor|reportedly|seek|talk|valuation",
+  "fp:bas|best|for2026|guid|headphon|impress|left|of2026|pair|publish"
 ]

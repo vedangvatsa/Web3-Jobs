@@ -1183,7 +1183,7 @@
     "sentAt": "2026-11-26T04:51:03.932Z"
   },
   "e7b4631d-e79f-48c6-903b-ef024540073e": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T13:05:06.373Z",
     "stories": [
       {
@@ -1215,6 +1215,8 @@
         "originalTitle": "ZDNET’s best headphones of 2026: These two pairs left us impressed"
       }
     ],
-    "slotKey": "2026-11-26:afternoon"
+    "slotKey": "2026-11-26:afternoon",
+    "messageId": 193587,
+    "sentAt": "2026-11-26T13:05:11.821Z"
   }
 }
