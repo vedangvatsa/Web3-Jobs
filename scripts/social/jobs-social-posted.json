@@ -193507,6 +193507,39 @@
       "attemptId": "619850ef-4de3-43a2-b46a-2927e069d7cc",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Wednesday, 25-Nov-26 20:53:57 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A1NqNGcAEbP_OMUhxR_NjDh\"}"
+    },
+    {
+      "slug": "sls559",
+      "company": "Block",
+      "title": "Strategic Account Manager, Toronto",
+      "platform": "bluesky",
+      "postedAt": "2026-11-26T04:53:42.894Z",
+      "expectedText": "Block is hiring Strategic Account Manager, Toronto: https://hashtagweb3.com/sls559/bsky?og=7",
+      "snapshot": {
+        "id": "5493512008",
+        "title": "Strategic Account Manager, Toronto",
+        "company": "Block",
+        "link": "http://block.xyz/careers/jobs/5493512008?gh_jid=5493512008",
+        "date": "2026-11-24T11:37:27-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Block [block]",
+        "location": "Toronto, Ontario, Canada",
+        "department": "20405 S&M - Sales - Square Account Management",
+        "active": true,
+        "salary": "$83.3k – $124.9k/yr",
+        "dateVerified": true,
+        "slug": "sls559"
+      },
+      "payload": {
+        "text": "Block is hiring Strategic Account Manager, Toronto: https://hashtagweb3.com/sls559/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls559/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls559.png?v=7",
+        "company": "Block",
+        "title": "Strategic Account Manager, Toronto",
+        "description": "Join Block as Strategic Account Manager, Toronto. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "8c25c3b0-9454-4a08-9871-9bd3a06590cf",
+      "verification": "creating"
     }
   ]
 }
