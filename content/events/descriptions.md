@@ -3096,34 +3096,6 @@ Zcash Foundation's conference covers Zcash and privacy-preserving technologies, 
 
 ONG Bitcoin Argentina offers introductory sessions on Bitcoin, blockchain, mining, exchanges and decentralized finance at Universidad de Belgrano. The sessions take place on October 27 and November 2, each from 11 AM to 1 PM. The program also includes scam prevention, practical activities and questions with the instructors.
 
-<a id="event-87e8ab0d1fdcafc9"></a>
-
-## Road to ETHPrague
-
-- Record: `discovery-evt-RDHzi9B3vL2FkcZ`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-27T17:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/2ns5lk31>
-
-### About the event
-
-ETHPrague hosts an evening at FIT ČVUT to discuss plans for Devcon Mumbai and ideas for the next ETHPrague. Students, researchers and Ethereum builders can share feedback with the organizers. The meetup is in rooms 152/153.
-
-<a id="event-55f045e83a486f97"></a>
-
-## Linux Foundation Decentralized Trust (LFDT) Berlin Monthly Live Gathering
-
-- Record: `mu-316885523`
-- Source: [verified-discovery.json](sources/verified-discovery.json)
-- Starts: 2026-10-27T19:00:00+01:00
-- Description: Source-backed
-- Original page: <https://www.meetup.com/lfdt-berlin/events/316885523/>
-
-### About the event
-
-LFDT Berlin meets at BRLO Brwhouse for open discussion of decentralized-technology projects, implementation challenges and the LFDT ecosystem. The gathering has no formal agenda and welcomes both newcomers and people already working with these technologies.
-
 <a id="event-fe77b8efe48a0a0a"></a>
 
 ## Founders' Society Meetup
@@ -27861,18 +27833,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-54ab137ce5e7b952"></a>
-
-## Cypher Tank
-
-- Record: `w3v-cypher-tank`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-26T08:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://planbweek.com/events/cypher-tank>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-2009785e9361d4be"></a>
 
 ## Bittensor Builders House
@@ -27897,18 +27857,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-161e8a879852870b"></a>
-
-## Episodio 2: IA Generativa – Creando, Innovando y Acelerando con IA
-
-- Record: `mu-316870652`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T13:00:00-07:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/microsoft-reactor-redmond/events/316870652/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-3b53191040ff3c5c"></a>
 
 ## Swell 2026
@@ -27918,18 +27866,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T13:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://swell.ripple.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-679f6c19a1506859"></a>
-
-## Bitcoin Research Day After Hours - Amsterdam
-
-- Record: `luma-evt-XrLHWXomDDoNbwh`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T15:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/m21nnt2v>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -27954,30 +27890,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-10-27T17:30:00-05:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/pyowa-iowa-python-user-group/events/316749553/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-030969594352f9ee"></a>
-
-## The Infrastructure Decisions That Define Your Trajectory
-
-- Record: `luma-evt-pBN8PFNbolDb67Q`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T17:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/LondonAIHubxAIforGrowth>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-d71f325d699751b5"></a>
-
-## Riserva Lisbon \| Stablecoins over wine at Stellar Meridian
-
-- Record: `luma-evt-YzGzTQbu1dahJDa`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/8ph6fevz>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -35250,18 +35162,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-c21388b6cbbdc15e"></a>
-
-## CAD & Cure: 3D Design & Silicone Molding Workshop
-
-- Record: `luma-evt-f5dyVMHqx3GmqUT`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-16T17:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/6im7wujt>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-21c4e997403f7910"></a>
 
 ## Sports Meets Solana: The Future of Sports is On-chain ⚽
@@ -38518,18 +38418,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-8fa446ec72d02f04"></a>
-
-## Artistic Portrait Photowalk - Retrato artístico
-
-- Record: `luma-evt-DN4abuQ6sRJfFac`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-21T09:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/q6syo244>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-0ae0b631abe6e976"></a>
 
 ## (Maybe) Walk and (Definitely) Talk..coffee/snacks to follow
@@ -40653,18 +40541,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-83170563aa24af1e"></a>
-
-## Ctrl+Z al 2026: Deshaz el ruido. Quédate con lo que importa.
-
-- Record: `luma-evt-Buxm6a5mdIXHDfY`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-26T18:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/i4ixozgv>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-5aec04bbb9c862c4"></a>
 
 ## Tercer encuentro para migrantes hispanas en Madrid - Verónica Fernández & Daniela Goicoechea
@@ -40899,6 +40775,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e42e2693247a73f8"></a>
+
+## Codex Community Hackathon – Seoul
+
+- Record: `luma-evt-YNDUqSDLsxS3nNk`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T04:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/p8l79x8m>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-b84f8264ee306d80"></a>
 
 ## FLOQ × RLUSD × BBCC: Stablecoin, Peluang Baru di Era Keuangan Digital?
@@ -40944,6 +40832,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T07:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/oxb68ixr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-b53cad950e8a5896"></a>
+
+## Superteam India Coworking Days (BOM)
+
+- Record: `luma-host-evt-evt-xdzRCPDhA2Tj2QU`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T07:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/IRL-coworking>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -41028,6 +40928,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/cql2wtr2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-99981c563e292e45"></a>
+
+## Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK
+
+- Record: `luma-evt-oFdGICwjCTWsC5b`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T10:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/t7lb04mp>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -41127,6 +41039,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-c7f32f6180fed306"></a>
+
+## VirWave × Lovable 🦃 Friendsgiving Hackathon
+
+- Record: `luma-evt-Sz6JhAwLpdLiFNs`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/2p0zir0a>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-46ddbf7260a256a9"></a>
 
 ## Ignite the Night
@@ -41160,6 +41084,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-27T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/5j6mdynj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-93c49e8e54e7c6bd"></a>
+
+## WEB3 BUILDERS GATHERING
+
+- Record: `luma-evt-vEnX52fEZxXJZYZ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-27T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/4rymm7ak>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -41669,6 +41605,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-8fa446ec72d02f04"></a>
+
+## Artistic Portrait Photowalk - Retrato artístico
+
+- Record: `luma-evt-DN4abuQ6sRJfFac`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-28T09:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/q6syo244>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f762ee0368dadf62"></a>
+
+## Codex Community Hackathon – London
+
+- Record: `luma-evt-gGgy0hGFKKHRkEs`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-28T10:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pq9gt2z0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-20004d8b89a8eb2d"></a>
 
 ## 4M UNLEASHED - Bangkok Rooftop Takeover
@@ -41726,6 +41686,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-28T12:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/ynrd2ww2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-bd14c2c8edf65231"></a>
+
+## Ripple x Lovable: Build for a Stranger
+
+- Record: `luma-evt-DkSfmPhxBwt3aqU`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-28T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/0z9y6e67>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a13ef5ab8ba36491"></a>
+
+## Jewels of the Cosmos + Noel Pazarı 🎄\| Berlin
+
+- Record: `luma-evt-FiXQWbO5zNZxsl1`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-28T15:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/olvt4f29>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -41834,6 +41818,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-29T09:00:00-05:00
 - Description: Missing
 - Original page: <https://www.meetup.com/rockville-stitch-and-bitch/events/315813240/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9db969229b46df59"></a>
+
+## Meet Dapplewood Books: make a picture book for a kid you love
+
+- Record: `luma-evt-ZSDCip0grXrsT2C`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-29T09:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pam4txbi>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -42125,6 +42121,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-28f426f0ac116d6d"></a>
+
+## Founders Fight Club Berlin by Unicorn Bakery x fertig.ai x SDRs of Germany
+
+- Record: `luma-evt-IC4o7iTLCv10WuA`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-30T09:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/fight-club-nov-ber>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0a1dc482a69b2fb1"></a>
 
 ## Daos Week - Institutional & Stablecoins Summit
@@ -42206,6 +42214,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-30T17:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/58ujn1wc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c21388b6cbbdc15e"></a>
+
+## CAD & Cure: 3D Design & Silicone Molding Workshop
+
+- Record: `luma-evt-f5dyVMHqx3GmqUT`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-11-30T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/6im7wujt>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -42449,6 +42469,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-2fd6768d61094230"></a>
+
+## Project Harmonia Paris: Allfunds x Solana
+
+- Record: `luma-evt-b61UVucCWUGoXKN`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T16:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/Harmonia-Paris>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-4aead9e6aa8c8495"></a>
 
 ## .NET Conf 2026 Spokane
@@ -42461,6 +42493,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-f11c16364139f7ad"></a>
+
+## Silicon to Product: Inside the SpaceX Super Intelligence Stack
+
+- Record: `luma-evt-GXt5hikyRNgZ9dW`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T17:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/2b6a7mwk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-81b7aa775bcc45dc"></a>
 
 ## Perplexity x Serpico AI Phoenix Workshop
@@ -42470,6 +42514,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-01T17:30:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/317504250/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-87f36ced44798974"></a>
+
+## Behind the Build: Nicola Gunby, Founder of CLIQ
+
+- Record: `luma-evt-cUWZf5dzj7qQruE`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/ac47kd1w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-c4988a87e41d10d5"></a>
+
+## MMC x Wave (Founders Circle) - Forward Deployed Engineering in Practice
+
+- Record: `luma-evt-TnMyVT4MnJYQyFG`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-01T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/pqgj6p6g>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -42701,6 +42769,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-422e66460ce3456c"></a>
+
+## Bitcoin & Brews Port Moody
+
+- Record: `luma-evt-G1C4zD50kbNAajK`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T02:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/0eezdd6x>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-10c823bf5b1977e4"></a>
+
+## Hacker House 36 hours
+
+- Record: `luma-evt-QXN0uCxCmq5107A`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T08:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/48f5c33r>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-81eb3da6fcefe564"></a>
 
 ## Beyond the Mirror: A Path Forward on Mental Health and Homelessness
@@ -42761,6 +42853,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-b0165fc5f153e397"></a>
+
+## Project Harmonia Madrid: Allfunds x Solana
+
+- Record: `luma-evt-cLPymEYDEC2b7vU`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/Harmonia-Madrid>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-fb73431afd50e2a3"></a>
 
 ## Artnet Airwaves Podcast Festival
@@ -42785,15 +42889,15 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-af7f5e55c5a42a0c"></a>
+<a id="event-bea6d0b3836eb6fd"></a>
 
-## Coloquios A\|O: RCR + Idoia Cuesta
+## Neuroevolution with Geometric & ETH Zürich ASL
 
-- Record: `luma-evt-K3GJThLbkZmiF3m`
+- Record: `luma-evt-Y5osLGepYHZ4ecN`
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-02T17:30:00.000Z
 - Description: Missing
-- Original page: <https://lu.ma/zkfl5ct0>
+- Original page: <https://lu.ma/cas432vp>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -42830,6 +42934,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-02T18:00:00-07:00
 - Description: Unverified stored copy
 - Original page: <https://www.meetup.com/arizona-bitcoin-meetup/events/317489241/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a2a2de8f8147cb7b"></a>
+
+## Open Bitcoin Q&A chat!
+
+- Record: `mu-316047410`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-02T20:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/philadelphia-bitcoin-club/events/316047410/>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -43237,6 +43353,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e3501aecd433e1cb"></a>
+
+## Airwallex Team Germany & Friends
+
+- Record: `luma-evt-6ZB98NOWuaJUpw3`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T15:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/t4ihesm1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5f69c416ca7cb6d1"></a>
 
 ## NewCrits – Artnet Airwaves Podcast Festival
@@ -43261,6 +43389,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-023686e93f928ba8"></a>
+
+## pizzatech, 3 Dec Zurich Meetup \| Fireside chat with Marco Tranzatto, Gravis co-founder: building a physical AI unicorn
+
+- Record: `luma-evt-SRi7hkmOM4EzDPC`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/jbd6w9ol>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-83170563aa24af1e"></a>
+
+## Ctrl+Z al 2026: Deshaz el ruido. Quédate con lo que importa.
+
+- Record: `luma-evt-Buxm6a5mdIXHDfY`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/i4ixozgv>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6dbc26e717ade132"></a>
 
 ## haricot vert chicago pop-up at festive collective
@@ -43270,6 +43422,30 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-03T18:00:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/yypgq9ed>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5c1acb47d8debf46"></a>
+
+## Afterwork Web3 #02 — Paris Onchain
+
+- Record: `luma-evt-vHUJxbGZpr9RV6T`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T18:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/wi9ahudi>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7666e8d28e6dae65"></a>
+
+## Nvidia Tools & Tips @ Mila on Nemotron
+
+- Record: `luma-evt-gRrQi5mlE9T2WFH`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-03T18:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/9oz6f9li>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -43327,7 +43503,7 @@ An organizer description has not been verified for this record. Any previous cop
 
 - Record: `luma-evt-EyaPLoImp7bXWI6`
 - Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-12-03T22:00:00.000Z
+- Starts: 2026-12-03T21:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/rasl3edo>
 
@@ -43924,6 +44100,18 @@ ADFW is built for sovereign wealth and family-office principals, bank and asset-
 
 Passes, agendas, and venue updates are published on the official ADFW site at adfw.com. Speaker names and partner activations continue to be announced ahead of December 2026.
 
+<a id="event-57403855fdcd5d2a"></a>
+
+## Solana Superweek: UAE Edition
+
+- Record: `w3v-solana-superweek-uae-edition`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-07T05:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://uae.superteam.fun/superweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-37203d173fc562f4"></a>
 
 ## Solana Padel Match
@@ -43944,6 +44132,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-07T05:30:00.000Z
 - Description: Missing
+- Original page: <https://luma.com/SolanaPadelMatchSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-61d6d6533b14a1f2"></a>
+
+## Solana Padel Match
+
+- Record: `w3v-solana-padel-match`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-07T05:30:00.000Z
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaPadelMatchSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -44046,6 +44246,18 @@ Sponsorship:
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-07T15:00:00.000Z
 - Description: Missing
+- Original page: <https://luma.com/SolanaArcadeSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2c0464ca0b65f963"></a>
+
+## Solana Arcade Night
+
+- Record: `w3v-solana-arcade-night`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-07T15:00:00.000Z
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaArcadeSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -44238,6 +44450,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-08T08:00:00.000Z
 - Description: Missing
+- Original page: <https://luma.com/SolanaCoffeeConnectSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5fbcbf9459539b7f"></a>
+
+## Solana Coffee Connect
+
+- Record: `w3v-solana-coffee-connect`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T08:00:00.000Z
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaCoffeeConnectSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -44547,6 +44771,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-08T15:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/mx2359kr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-826adca028d78f6d"></a>
+
+## The Future of AI Engineering: Why Are Forward Deployed Engineers in Demand?
+
+- Record: `luma-evt-XHA0GMumKb2hlQ2`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-08T16:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/qajh67gn>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -45205,6 +45441,30 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-86464a4d34c51735"></a>
+
+## Solana Muay Thai
+
+- Record: `w3v-solana-muay-thai`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T06:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/SolanaMuayThaiSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-6a0c8910a3ab8ce7"></a>
+
+## SRC x STRONGER Women’s Run
+
+- Record: `luma-evt-wYbVPHmQ4m9LGpc`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T06:15:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/5g5kcx71>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-aa6d65f299f9e93f"></a>
 
 ## Introducing ThunderID: Open Source Identity for Humans, AI Agents, and Machines
@@ -45421,6 +45681,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-df9789ca98679eda"></a>
+
+## ZK Learning Group: Wrap-up 2026, ZK order book matching
+
+- Record: `mu-317272060`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T12:00:00-05:00
+- Description: Unverified stored copy
+- Original page: <https://www.meetup.com/lfdt-north-carolina/events/317272060/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6081909dd6f89f5e"></a>
 
 ## ZK Learning Group: Wrap-up 2026, ZK order book matching
@@ -45501,6 +45773,18 @@ Hosts The MENA Fintech Association. Founded in 2018, the MENA Fintech Associatio
 - Source: [events-cache.json](sources/events-cache.json)
 - Starts: 2026-12-10T15:00:00.000Z
 - Description: Missing
+- Original page: <https://luma.com/SolanaDemoDineSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1f15214d1206b017"></a>
+
+## Solana Demo & Dine
+
+- Record: `w3v-solana-demo--dine`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T15:00:00.000Z
+- Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaDemoDineSuperweek>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
@@ -45830,6 +46114,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-ee37c073e66a1726"></a>
+
+## Solana Yacht Cruise
+
+- Record: `w3v-solana-yacht-cruise-uae`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-12T12:00:00.000Z
+- Description: Unverified stored copy
+- Original page: <https://luma.com/SolanaYachtCruiseSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-aad7c90e9ea9eecd"></a>
 
 ## Merry & Iconic
@@ -46044,6 +46340,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-15T12:30:00.000Z
 - Description: Missing
 - Original page: <https://luma.com/zzlgvahg>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-af7f5e55c5a42a0c"></a>
+
+## Coloquios A\|O: RCR + Idoia Cuesta
+
+- Record: `luma-evt-K3GJThLbkZmiF3m`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-15T17:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/zkfl5ct0>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -46839,6 +47147,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-00adb27dee4feb57"></a>
+
+## Kick-off Vintage 2026 of ETH Spin-off and Start-up founders
+
+- Record: `luma-evt-uXgc3BsyYXTtdE6`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-12T16:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/itaaoz6f>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2851e90f0be5e4c8"></a>
 
 ## Blockchain and Business Networking - Long Island City
@@ -47142,6 +47462,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2027-01-26T00:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://blockdownfestival.com/>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-e45c4724530e25c0"></a>
+
+## Insider One Connect Zürich: Die Zukunft der Digital Customer Experience
+
+- Record: `luma-evt-aGMQhvz6Q5bOsKX`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-01-26T16:30:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/kubio6jc>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

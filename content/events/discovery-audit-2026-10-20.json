@@ -3747,45 +3747,6 @@
       }
     },
     {
-      "id": "discovery-evt-RDHzi9B3vL2FkcZ",
-      "name": "Road to ETHPrague",
-      "startDate": "2026-10-27T17:00:00.000Z",
-      "endDate": "2026-10-27T20:00:00.000Z",
-      "timezone": "Europe/Prague",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "sourceEventId": "evt-RDHzi9B3vL2FkcZ",
-      "url": "https://luma.com/2ns5lk31",
-      "lane": "europe",
-      "reason": "No matching source ID, URL or dated meetup identity in the supplied runtime/source/held/tombstone index. This is a local meetup, distinct from the annual ETHPrague conference.",
-      "evidence": [
-        {
-          "url": "https://luma.com/2ns5lk31",
-          "fetchedAt": "2026-10-20T08:04:16.136Z",
-          "excerpt": "Road to ETHPrague; startDate: 2026-10-27T18:00:00.000+01:00; endDate: 2026-10-27T21:00:00.000+01:00. Location: FIT ČVUT, Room 152/153. Come meet the Prague blockchain community and get a sneak peek at what we're planning for Devcon.",
-          "sha256": "4255067943a9e33c6f5d680f480729d223c37e95418e4a036600360cfb6a7300",
-          "representation": "Public HTML, JSON-LD and __NEXT_DATA__ field excerpts; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:26.336Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/event-covers/77/27e50d70-259f-43c0-9569-dd135104c559.jpg",
-        "fetchedAt": "2026-10-20T09:49:33.389Z",
-        "status": 200,
-        "local": "/events/discovery-evt-rdhzi9b3vl2fkcz-e1e59f9e.webp",
-        "sourceSha256": "aedc2d1250d4b56d869683ac15f80d09e15042df998711686b7d9b06c866a129",
-        "sha256": "f5c71eccc6c87c1b653451b91ad02cffb857c27550f36ba136645d6909700220",
-        "originalWidth": 1600,
-        "originalHeight": 985,
-        "width": 1600,
-        "height": 985,
-        "bytes": 101886
-      }
-    },
-    {
       "id": "mu-316962667",
       "name": "[DE] Bitcoin Beginner Workshops - Entdecke Bitcoin",
       "startDate": "2026-11-02T19:00:00+01:00",
@@ -3820,43 +3781,6 @@
         "width": 597,
         "height": 336,
         "bytes": 36036
-      }
-    },
-    {
-      "id": "mu-316885523",
-      "name": "Linux Foundation Decentralized Trust (LFDT) Berlin Monthly Live Gathering",
-      "startDate": "2026-10-27T19:00:00+01:00",
-      "endDate": "2026-10-27T21:00:00+01:00",
-      "disposition": "added",
-      "sourceFile": "verified-discovery.json",
-      "url": "https://www.meetup.com/lfdt-berlin/events/316885523/",
-      "lane": "europe",
-      "reason": "No matching ID, URL or name/date. This is an in-person Berlin gathering, not one of the LFDT global webinar cross-posts found in many cities.",
-      "evidence": [
-        {
-          "url": "https://www.meetup.com/lfdt-berlin/events/316885523/",
-          "fetchedAt": "2026-10-20T08:04:16.703Z",
-          "excerpt": "startDate: 2026-10-27T19:00:00+01:00; endDate: 2026-10-27T21:00:00+01:00. BRLO Brwhouse, Schöneberger Str. 16. Each month, we come together to share projects, discuss challenges, and exchange ideas on navigating the LFDT ecosystem.",
-          "sha256": "18a17ee108fe40e8ede17b2c722d5b126d74bd5dab9a9148f5f3c56b602ab0a8",
-          "representation": "Public HTML and Event JSON-LD field excerpts; SHA-256 of fetched HTML"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:30:28.797Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://secure.meetupstatic.com/photos/event/8/a/2/3/600_525515363.jpeg",
-        "fetchedAt": "2026-10-20T09:49:34.839Z",
-        "status": 200,
-        "local": "/events/mu-316885523-0a18da37.webp",
-        "sourceSha256": "3b143f291d9e1c8b004979546b52c222fb6d800bde56b160469296c74ce302e8",
-        "sha256": "160a241061675dc546f0d954f4dc30f135f6366fbe51a602a27c2eb6a9bedb1e",
-        "originalWidth": 600,
-        "originalHeight": 338,
-        "width": 600,
-        "height": 338,
-        "bytes": 19640
       }
     },
     {
@@ -8661,21 +8585,9 @@
       "lane": "europe"
     },
     {
-      "url": "https://luma.com/2ns5lk31",
-      "result": "verified-new",
-      "note": "Road to ETHPrague, October 27. Distinct from the annual conference.",
-      "lane": "europe"
-    },
-    {
       "url": "https://www.meetup.com/bitcoin-lab-berlin/events/316962667/",
       "result": "verified-new",
       "note": "November 2 workshop specifically covers Bitcoin inheritance.",
-      "lane": "europe"
-    },
-    {
-      "url": "https://www.meetup.com/lfdt-berlin/events/316885523/",
-      "result": "verified-new",
-      "note": "In-person local LFDT gathering, unlike the widely cross-posted online broadcasts.",
       "lane": "europe"
     },
     {

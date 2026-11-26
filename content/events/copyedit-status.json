@@ -724,20 +724,10 @@
     "method": "human-editorial-polish-conservative",
     "words": 149
   },
-  "discovery-evt-RDHzi9B3vL2FkcZ": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 36
-  },
   "mu-316962667": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-conservative",
     "words": 31
-  },
-  "mu-316885523": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-conservative",
-    "words": 35
   },
   "mu-316893847": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
@@ -4749,11 +4739,6 @@
     "method": "human-editorial-polish-v2",
     "words": 67
   },
-  "w3v-cypher-tank": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 19
-  },
   "luma-evt-2PiQbQ4qVHcWOzn": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-v2",
@@ -4850,11 +4835,6 @@
     "words": 28
   },
   "mu-316802686": {
-    "reviewedAt": "2026-11-25T09:12:37.453Z",
-    "method": "human-editorial-polish-v2",
-    "words": 28
-  },
-  "mu-316870652": {
     "reviewedAt": "2026-11-25T09:12:37.453Z",
     "method": "human-editorial-polish-v2",
     "words": 28
