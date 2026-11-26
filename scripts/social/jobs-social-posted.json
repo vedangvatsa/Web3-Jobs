@@ -197133,7 +197133,8 @@
       },
       "account": "channel:dev",
       "attemptId": "9f826866-dac8-4e1b-a7fe-26848ce20990",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc0670005fe6bbff1a196a80f9d5d13e65eed0f24"
     }
   ]
 }
