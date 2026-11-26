@@ -219937,11 +219937,34 @@
         "The Defiant"
       ],
       "id": "1ecad3a4aecc49a93013",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T13:15:47.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "reason": "source-blocked",
+      "note": "Read Crypto Briefing on the reported 29,825 ETH sale to repay Galaxy debt; The Defiant returned HTTP 403 and The Block HTTP 403, so a second independent site could not be opened for corroboration.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bit-digital-sells-29825-eth-to-halve-galaxy-debt/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/news/cefi/bit-digital-sells-29-825-eth-to-halve-galaxy-debt",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-26T02:34:57.936Z",
+      "retrySearches": [
+        "Find independent reporting confirming Bit Digital sold 29,825 ETH between Nov. 15-23, 2026 and halved its Galaxy Digital debt",
+        "Find a Bit Digital press release or SEC filing on the Galaxy debt repayment and ETH sale"
+      ],
+      "lastReviewedDay": "2026-11-26",
+      "nextReviewDate": "2026-11-27"
     },
     "e6af07bbd3f0f2173eef": {
       "source": "Crypto Briefing",
@@ -436704,6 +436727,30 @@
           ],
           "reviewedAt": "2026-11-26T02:34:13.799Z",
           "articleSlug": "megaspeedlist"
+        },
+        "1ecad3a4aecc49a93013": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Read Crypto Briefing on the reported 29,825 ETH sale to repay Galaxy debt; The Defiant returned HTTP 403 and The Block HTTP 403, so a second independent site could not be opened for corroboration.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bit-digital-sells-29825-eth-to-halve-galaxy-debt/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/news/cefi/bit-digital-sells-29-825-eth-to-halve-galaxy-debt",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-26T02:34:57.936Z",
+          "retrySearches": [
+            "Find independent reporting confirming Bit Digital sold 29,825 ETH between Nov. 15-23, 2026 and halved its Galaxy Digital debt",
+            "Find a Bit Digital press release or SEC filing on the Galaxy debt repayment and ETH sale"
+          ]
         }
       },
       "baselineSlugs": [
