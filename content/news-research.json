@@ -218509,9 +218509,9 @@
       ],
       "alsoCoveredBy": [],
       "id": "092faca440e7e6b1b762",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T12:25:15.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "articleSlug": "bithumbnotice",
@@ -218537,7 +218537,25 @@
         "updatedAt": "2026-11-26T02:26:30.414Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov. 25 updated Bithumb notice (15-day groupware access, 19 data categories, victim count past 7,159) against Crypto Briefing and Bitcoin Magazine full text; CoinDesk returned 429; distinct from the earlier bithumbraid article.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/bithumb-october-breach-additional-data-exposed/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-26T02:30:13.585Z",
+      "lastReviewedDay": "2026-11-26"
     },
     "2da2ddc2ce1d05ab23a0": {
       "source": "Decrypt",
@@ -436590,6 +436608,27 @@
           ],
           "reviewedAt": "2026-11-26T02:25:45.595Z",
           "articleSlug": "frenchsenate"
+        },
+        "092faca440e7e6b1b762": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov. 25 updated Bithumb notice (15-day groupware access, 19 data categories, victim count past 7,159) against Crypto Briefing and Bitcoin Magazine full text; CoinDesk returned 429; distinct from the earlier bithumbraid article.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/bithumb-october-breach-additional-data-exposed/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-26T02:30:13.585Z",
+          "articleSlug": "bithumbnotice"
         }
       },
       "baselineSlugs": [
