@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-25",
+  "deployed": "2026-11-26",
   "ingested": "2026-11-25",
   "dailyDeployments": {
     "2026-10-23": [
@@ -1449,12 +1449,14 @@
           "bithumbnotice",
           "utahkalshidismiss"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-26T03:21:56.364Z",
         "buildId": "daily-20261126-45741575952-1",
         "rolloutId": "daily-20261126-45741575952-1",
         "buildState": "READY",
-        "observedAt": "2026-11-26T03:40:19.909Z"
+        "observedAt": "2026-11-26T03:40:53.676Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-26T03:40:53.676Z"
       }
     ]
   }
