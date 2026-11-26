@@ -1425,5 +1425,56 @@
     "slotKey": "2026-11-26:morning",
     "messageId": 156514,
     "sentAt": "2026-11-26T04:49:29.507Z"
+  },
+  "2394173c-ae8d-4287-af70-6cfbd411658f": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T13:03:48.804Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-UvbEHrDSqYeArxj",
+        "slug": "proofofai",
+        "name": "Proof of AI: Bangkok Closing Night @ Binance Blockchain Week 2026",
+        "startDate": "2026-11-29T11:00:00.000Z",
+        "keys": [
+          "luma-crypto-uvbehrdsqyearxj",
+          "proof-ai-b",
+          "page:proofofai:2026-11-29",
+          "luma:evt-uvbehrdsqyearxj",
+          "luma-url:/wous244v",
+          "event:proofofaibangkokclosingnightbinanceblockchainweek2026:2026-11-29:bangkok"
+        ]
+      },
+      {
+        "id": "luma-crypto-xaWsUCCvz2zpu5B",
+        "slug": "bmnekoben",
+        "name": "BLOCK MONDAYS - NETWORK EVENT - KICK OFF - BLOCKCHAIN WEEK DUBAI BY ECOX NETWORK",
+        "startDate": "2026-11-30T02:30:00.000Z",
+        "keys": [
+          "luma-crypto-xawsuccvz2zpu5b",
+          "block-mondays-network",
+          "page:bmnekoben:2026-11-30",
+          "luma:evt-xawsuccvz2zpu5b",
+          "luma-url:/ecox-lnpi",
+          "event:blockmondaysnetworkeventkickoffblockchainweekdubaibyecoxnetwork:2026-11-30:"
+        ]
+      },
+      {
+        "id": "luma-crypto-qafoDafWDdBPxvY",
+        "slug": "cbcpc2",
+        "name": "Crypto Banya Dubai - Conclave Premium Club",
+        "startDate": "2026-11-30T11:00:00.000Z",
+        "keys": [
+          "luma-crypto-qafodafwddbpxvy",
+          "crypto-banya-dubai",
+          "page:cbcpc2:2026-11-30",
+          "luma:evt-qafodafwddbpxvy",
+          "luma-url:/uuufy824",
+          "event:cryptobanyadubaiconclavepremiumclub:2026-11-30:"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-26:afternoon"
   }
 }
