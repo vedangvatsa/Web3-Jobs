@@ -194150,7 +194150,8 @@
       },
       "account": "channel:growth",
       "attemptId": "58e43df7-9e9e-4324-8719-137ce0146dab",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31948ba36db2087122f2fe444929befba8072d10"
     }
   ]
 }
