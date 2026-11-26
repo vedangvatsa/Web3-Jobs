@@ -3600,7 +3600,7 @@
     "sentAt": "2026-11-25T20:36:34.138Z"
   },
   "4291d3b5-172b-4d5a-b09f-2d6f2e373632": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T04:49:40.204Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3713,6 +3713,8 @@
       }
     ],
     "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm163?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager, Subscriptions</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/cmp188?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Global Compliance Strategy and Policies</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/qa103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior QA Engineer</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/pm164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Product Marketing Manager, Government</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/infra79?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Tokenization &amp; Stablecoin Infrastructure</a>",
-    "slotKey": "2026-11-26:morning"
+    "slotKey": "2026-11-26:morning",
+    "messageId": 156515,
+    "sentAt": "2026-11-26T04:49:42.693Z"
   }
 }
