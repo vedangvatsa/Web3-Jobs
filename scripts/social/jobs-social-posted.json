@@ -198343,7 +198343,8 @@
       },
       "account": "channel:design",
       "attemptId": "aeea4d4e-2703-4274-8e79-0a103223fd9a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcba8a0e2b7be55cff06603afc72737b3edea7f21"
     }
   ]
 }
