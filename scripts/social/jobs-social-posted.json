@@ -191763,6 +191763,36 @@
       "attemptId": "269921f4-1744-457d-849e-a06c87984f29",
       "verification": "verified",
       "postId": "691827047618629_1157412620199305"
+    },
+    {
+      "slug": "sls534",
+      "company": "Fireblocks",
+      "title": "Sales Director",
+      "platform": "x",
+      "postedAt": "2026-11-26T02:21:50.140Z",
+      "expectedText": "Fireblocks is hiring Sales Director\n\nhttps://hashtagweb3.com/sls534/x?og=7",
+      "snapshot": {
+        "id": "4725485006",
+        "title": "Sales Director",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4725485006",
+        "date": "2026-11-17T20:51:52-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "Singapore",
+        "department": "Sales",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls534"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director\n\nhttps://hashtagweb3.com/sls534/x?og=7",
+        "channelId": "6ab62682ea19ca0bdee284bd"
+      },
+      "provider": "buffer",
+      "account": "hashtag_web3",
+      "attemptId": "f0782975-57b9-45ab-857f-3098994a69d3",
+      "verification": "creating"
     }
   ]
 }
