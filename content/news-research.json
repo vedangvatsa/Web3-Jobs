@@ -216536,9 +216536,9 @@
         "The Defiant"
       ],
       "id": "4bb250ee11746f09695e",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-24T01:57:39.856Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-26T21:28:07.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "articleSlug": "megaspeedlist",
@@ -216568,7 +216568,29 @@
         "updatedAt": "2026-11-26T02:31:18.801Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Verified the Nov. 23 Entity List addition of seven Megaspeed-linked entities against the Federal Register rule, The Register and Crypto Briefing; distinct from the earlier megaspeed article on Alice Huang's departure.",
+      "sourceChecks": [
+        {
+          "url": "https://public-inspection.federalregister.gov/2026-23999.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cryptobriefing.com/us-blacklists-megaspeed-over-suspected-nvidia-ai-chip-diversion-to-china/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://thedefiant.io/frontier/regulation/us-plans-megaspeed-trade-blacklist-semafor-reports",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-26T02:34:13.799Z",
+      "lastReviewedDay": "2026-11-26"
     },
     "41ea1eb6b1157712d6e0": {
       "source": "Crypto Briefing",
@@ -436657,6 +436679,31 @@
           ],
           "reviewedAt": "2026-11-26T02:30:13.585Z",
           "articleSlug": "bithumbnotice"
+        },
+        "4bb250ee11746f09695e": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Verified the Nov. 23 Entity List addition of seven Megaspeed-linked entities against the Federal Register rule, The Register and Crypto Briefing; distinct from the earlier megaspeed article on Alice Huang's departure.",
+          "sourceChecks": [
+            {
+              "url": "https://public-inspection.federalregister.gov/2026-23999.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theregister.com/systems/2026/11/24/us-blacklists-megaspeed-hours-after-jensen-huang-returns-to-nvidia/5311901",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cryptobriefing.com/us-blacklists-megaspeed-over-suspected-nvidia-ai-chip-diversion-to-china/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://thedefiant.io/frontier/regulation/us-plans-megaspeed-trade-blacklist-semafor-reports",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-26T02:34:13.799Z",
+          "articleSlug": "megaspeedlist"
         }
       },
       "baselineSlugs": [
