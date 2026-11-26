@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-26T17:37:59.476Z",
+  "generatedAt": "2026-11-26T20:24:35.550Z",
   "items": [
+    {
+      "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+      "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 20:05:18 +0000",
+      "creator": "Nate Kostar",
+      "contentSnippet": "Japan’s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "link": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 18:26:31 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Binance Launches VIP Status Match with Tier Upgrade Incentive",
+      "link": "https://blockchain.news/news/binance-vip-status-match-tier-upgrade",
+      "pubDate": "Thu, 26 Nov 2026 18:17:30 GMT",
+      "creator": "Blockchain.News",
+      "contentSnippet": "Binance introduces VIP Status Match, allowing traders to transfer VIP tiers from other platforms and receive a one-tier upgrade for 60 days. (Read Mor...",
+      "source": "Blockchain.News"
+    },
+    {
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "link": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "pubDate": "Thu, 26 Nov 2026 18:15:29 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+      "link": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 17:39:53 +0000",
+      "creator": "William Suberg",
+      "contentSnippet": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "link": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+      "pubDate": "Thu, 26 Nov 2026 17:32:00 +0000",
+      "creator": "Ian Devendorf",
+      "contentSnippet": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year’s progre...",
+      "source": "The Block"
+    },
     {
       "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
       "link": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
@@ -16,14 +64,6 @@
       "creator": "James Van Straten",
       "contentSnippet": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
       "source": "Coindesk"
-    },
-    {
-      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
-      "link": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
-      "pubDate": "Thu, 26 Nov 2026 16:43:02 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
-      "source": "Decrypt"
     },
     {
       "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
@@ -474,14 +514,6 @@
       "source": "Cointelegraph"
     },
     {
-      "title": "Bit Digital repays $50 million to Galaxy after selling 29,825 ETH",
-      "link": "https://www.theblock.co/news/business/2026-11-25-bit-digital-repays-50-million-to-galaxy-after-selling-29825-eth-446164",
-      "pubDate": "Wed, 25 Nov 2026 14:15:44 +0000",
-      "creator": "James Hunt",
-      "contentSnippet": "Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million.",
-      "source": "The Block"
-    },
-    {
       "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
       "link": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
       "pubDate": "Wed, 25 Nov 2026 13:41:38 +0000",
@@ -538,22 +570,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-      "link": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 25 Nov 2026 11:12:26 +0000",
-      "creator": "Helen Partz",
-      "contentSnippet": "US spot Bitcoin ETFs have recorded $4.94 billion in November net outflows, exceeding the previous monthly record of $4.51 billion set in June.",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Bitcoin price may fall below $53K if bear-market history repeats",
-      "link": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 25 Nov 2026 11:09:38 +0000",
-      "creator": "William Suberg",
-      "contentSnippet": "Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD.",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
       "link": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
       "pubDate": "Tue, 24 Nov 2026 21:16:02 +0000",
@@ -602,14 +618,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
-      "link": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
-      "pubDate": "Tue, 24 Nov 2026 17:43:03 +0000",
-      "creator": "Jose Antonio Lanz",
-      "contentSnippet": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem.",
-      "source": "Decrypt"
-    },
-    {
       "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
       "link": "https://dailyhodl.com/2026/11/24/bybit-introduces-tradfi-earn-unifying-access-to-global-etfs-and-rwa/",
       "pubDate": "Tue, 24 Nov 2026 16:09:20 +0000",
@@ -618,28 +626,12 @@
       "source": "Daily Hodl"
     },
     {
-      "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
-      "link": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
-      "pubDate": "Tue, 24 Nov 2026 16:00:44 +0000",
-      "creator": "Agent",
-      "contentSnippet": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services.",
-      "source": "Decrypt"
-    },
-    {
       "title": "Justice Department Pursues Forfeiture of $1,100,000,000 in USDC from Binance Hack",
       "link": "https://dailyhodl.com/2026/11/24/justice-department-pursues-forfeiture-of-1100000000-in-usdc-from-binance-hack/",
       "pubDate": "Tue, 24 Nov 2026 15:41:09 +0000",
       "creator": "Agent",
       "contentSnippet": "The U.S. Justice Department is filing to forfeit over $1.1 billion in USDC stolen by North Korean hackers from Binance in a theft exceeding $6 billion...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-      "link": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-      "pubDate": "Tue, 24 Nov 2026 13:46:03 +0000",
-      "creator": "Agent",
-      "contentSnippet": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.",
-      "source": "Decrypt"
     }
   ]
 }
