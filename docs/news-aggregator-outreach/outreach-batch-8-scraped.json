@@ -1,0 +1,74 @@
+{
+  "dispatchedAt": "2026-11-26T09:54:55.696Z",
+  "total": 11,
+  "delivered": 11,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Netzwelt DE",
+      "email": "aktuell@netzwelt.de",
+      "deliveryId": "01a21747-78bd-772d-bd60-43bcd5e6d12a",
+      "status": "delivered"
+    },
+    {
+      "name": "Xataka ES",
+      "email": "contacto@xataka.com",
+      "deliveryId": "01a21747-7af6-7085-bdd4-fad55a0fd372",
+      "status": "delivered"
+    },
+    {
+      "name": "Genbeta ES",
+      "email": "contacto@genbeta.com",
+      "deliveryId": "01a21747-7d13-746b-a0cf-38e803da2eef",
+      "status": "delivered"
+    },
+    {
+      "name": "WWWhatsNew ES",
+      "email": "contacto@wwwhatsnew.com",
+      "deliveryId": "01a21747-7f3f-7593-8559-1160942d7fc5",
+      "status": "delivered"
+    },
+    {
+      "name": "Spiders Web PL",
+      "email": "admin@spidersweb.pl",
+      "deliveryId": "01a21747-8157-7ddd-83ea-b79201a7dab1",
+      "status": "delivered"
+    },
+    {
+      "name": "Medianama IN",
+      "email": "nikhil@medianama.com",
+      "deliveryId": "01a21747-8371-7676-908d-a840a2c31888",
+      "status": "delivered"
+    },
+    {
+      "name": "Beebom",
+      "email": "contact@beebom.com",
+      "deliveryId": "01a21747-8645-7996-83b3-d2b2a04f05fd",
+      "status": "delivered"
+    },
+    {
+      "name": "Vulcan Post",
+      "email": "team@vulcanpost.com",
+      "deliveryId": "01a21747-8874-7c20-838a-be585f4c43e0",
+      "status": "delivered"
+    },
+    {
+      "name": "Canaltech BR",
+      "email": "redacao@canaltech.com.br",
+      "deliveryId": "01a21747-8aad-7f23-b47d-30c70c08b30e",
+      "status": "delivered"
+    },
+    {
+      "name": "FayerWayer",
+      "email": "info@metroworldnews.com",
+      "deliveryId": "01a21747-8cd2-7ba4-a392-fee8a19a3477",
+      "status": "delivered"
+    },
+    {
+      "name": "iProUP AR",
+      "email": "contacto@iproup.com",
+      "deliveryId": "01a21747-8ef7-7e5b-ac99-f8b0d6f1aaa8",
+      "status": "delivered"
+    }
+  ]
+}
