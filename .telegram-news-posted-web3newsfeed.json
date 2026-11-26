@@ -95,6 +95,9 @@
   "https://hashtagweb3.com/crossriverbtcloans?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ethpostquantum?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/moleculedesci?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/stanchartjapanrwa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -287,6 +290,12 @@
   "Ethereum Foundation doubles security team for post-quantum overhaul",
   "SEC Staff Grants No-Action Letter to Molecule",
   "SEC staff grants no-action relief to biotech DeSci platform Molecule",
+  "Standard Chartered: Japan bond tokenization could reach $2 trillion",
+  "Standard Chartered projects Japan bond tokenization could drive RWAs to $2T",
+  "US Regulators Query Banks Following Binance Security Incident",
+  "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack",
+  "French Hill Wins Reelection but Loses Financial Services Chair",
+  "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -382,5 +391,8 @@
   "fp:11b|agre|binanc|circl|department|doj|fil|forfeit|forfeitur|government",
   "fp:000|250|250k|back|bank|borrower|charter|collateral|collateraliz|cross",
   "fp:accelerat|cryptography|doubl|engineer|foundation|non|overhaul|post|profit|protocol",
-  "fp:action|biopharma|biotech|desci|enforcement|grant|letter|molecul|not|project"
+  "fp:action|biopharma|biotech|desci|enforcement|grant|letter|molecul|not|project",
+  "fp:analyst|asset|bond|charter|debt|digitiz|driv|estimat|japan|japanes",
+  "fp:634b|activity|ask|bank|binanc|contact|disruption|exchang|follow|hack",
+  "fp:arkansa|but|chair|committe|control|democrat|down|financial|french|head"
 ]

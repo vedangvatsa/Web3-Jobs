@@ -1056,7 +1056,7 @@
     "sentAt": "2026-11-26T13:05:24.986Z"
   },
   "1de541dd-4664-4b86-b5f0-10bd104fd769": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T20:30:46.594Z",
     "stories": [
       {
@@ -1084,6 +1084,8 @@
         "originalTitle": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair"
       }
     ],
-    "slotKey": "2026-11-26:evening"
+    "slotKey": "2026-11-26:evening",
+    "messageId": 65858,
+    "sentAt": "2026-11-26T20:30:56.384Z"
   }
 }
