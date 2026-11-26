@@ -197063,7 +197063,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "db69604c-56dd-411c-ba8b-7f6230fe1c90",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe8d2d60641a814ad290bef4b42685c0fa3a1dba0"
     }
   ]
 }
