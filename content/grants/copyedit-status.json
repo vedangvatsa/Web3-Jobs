@@ -39,11 +39,6 @@
     "method": "human-editorial-polish-v2",
     "words": 186
   },
-  "analog-grant": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 216
-  },
   "aptos-audit": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -199,25 +194,10 @@
     "method": "human-editorial-polish-v2",
     "words": 181
   },
-  "kava-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 174
-  },
   "lido-grants": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 184
-  },
-  "merge-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 187
-  },
-  "neo-grants": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 285
   },
   "nlnet-ngi": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -524,11 +504,6 @@
     "method": "human-editorial-polish-v2",
     "words": 188
   },
-  "chro-cont-g": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 249
-  },
   "circ-dev-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -613,16 +588,6 @@
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 286
-  },
-  "dececreasucc": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 255
-  },
-  "dece-dao-g": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 259
   },
   "deel-stu": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -909,21 +874,6 @@
     "method": "human-editorial-polish-v2",
     "words": 167
   },
-  "mult-g": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 186
-  },
-  "neo-eco-supp": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 285
-  },
-  "neon-op-src": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 329
-  },
   "node-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -1008,11 +958,6 @@
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 182
-  },
-  "prop-bld-g": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 180
   },
   "prot-lab-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -1128,11 +1073,6 @@
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 166
-  },
-  "snyk-stu": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 169
   },
   "sola-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
@@ -1264,11 +1204,6 @@
     "method": "human-editorial-polish-v2",
     "words": 171
   },
-  "bags-hack": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 183
-  },
   "dequ-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -1299,11 +1234,6 @@
     "method": "human-editorial-polish-v2",
     "words": 223
   },
-  "unic-bld": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 182
-  },
   "unis-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
@@ -1333,11 +1263,6 @@
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
     "method": "human-editorial-polish-v2",
     "words": 177
-  },
-  "worl-comm-g": {
-    "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
-    "method": "human-editorial-polish-v2",
-    "words": 172
   },
   "x1-ecoc-g": {
     "reviewedAt": "2026-11-25T09:56:39.129798+00:00",
