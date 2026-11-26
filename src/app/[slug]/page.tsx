@@ -417,7 +417,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
           url: canonicalUrl,
           images: [
             {
-              url: 'https://hashtagweb3.com/og-image-jobs.png',
+              url: 'https://hashtagweb3.com/og/pages/grants.png',
               width: 1200,
               height: 630,
               alt: grant.name,
@@ -428,7 +428,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
           card: 'summary_large_image',
           title: grantSocialTitle,
           description,
-          images: ['https://hashtagweb3.com/og-image-jobs.png'],
+          images: ['https://hashtagweb3.com/og/pages/grants.png'],
         },
       };
     }

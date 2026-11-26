@@ -27,6 +27,7 @@ type Manifest = Record<string, string>;
 
 /** slug + single big heading shown on the card. */
 const PAGE_CARDS: Array<{ slug: string; heading: string }> = [
+  { slug: 'grants', heading: 'Grants & Credits 2026' },
   { slug: 'popups', heading: 'Startup Societies' },
   { slug: 'events', heading: 'Web3 Events Calendar 2026' },
   { slug: 'community', heading: 'Web3 Community' },

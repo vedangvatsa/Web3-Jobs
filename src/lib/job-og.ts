@@ -21,6 +21,7 @@ export const STATIC_OG = {
   news: `${SITE_URL}/og-news.png`,
   companies: `${SITE_URL}/og-companies.png`,
   tools: `${SITE_URL}/og-image-tools.png`,
+  grants: `${SITE_URL}/og/pages/grants.png`,
   report: `${SITE_URL}/og/pages/web3-hiring-report.png`,
   top100: `${SITE_URL}/og/pages/top100.png`,
 } as const;

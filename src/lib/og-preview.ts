@@ -137,7 +137,7 @@ const PAGE_META: Record<string, Omit<OgPreviewMeta, 'canonicalUrl'>> = {
     '/grants': {
       title: normalizePreviewTitle('Grants & Credits 2026'),
       description: getGrantsOgDiscoverDescription(),
-      ogImageUrl: STATIC_OG.jobs,
+      ogImageUrl: STATIC_OG.grants,
     },
     '/blog': {
       title: `Web3 Career Playbook | ${SITE_NAME}`,

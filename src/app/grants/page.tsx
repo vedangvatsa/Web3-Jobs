@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     url: 'https://hashtagweb3.com/grants',
     images: [
       {
-        url: 'https://hashtagweb3.com/og-image-jobs.png',
+        url: 'https://hashtagweb3.com/og/pages/grants.png',
         width: 1200,
         height: 630,
         alt: 'Hashtag Web3 Grants & Credits',
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: grantsSocialTitle,
     description: grantsDesc,
-    images: ['https://hashtagweb3.com/og-image-jobs.png'],
+    images: ['https://hashtagweb3.com/og/pages/grants.png'],
   },
 };
 
