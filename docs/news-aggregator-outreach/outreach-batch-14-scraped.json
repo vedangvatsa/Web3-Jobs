@@ -1,0 +1,170 @@
+{
+  "dispatchedAt": "2026-11-26T10:24:30.000Z",
+  "total": 27,
+  "delivered": 27,
+  "failed": 0,
+  "results": [
+    {
+      "name": "The Paypers",
+      "email": "editor@thepaypers.com",
+      "deliveryId": "01a21762-5254-7954-870d-b9e11cc6061b",
+      "status": "delivered"
+    },
+    {
+      "name": "Crowdfund Insider",
+      "email": "info@crowdfundinsider.com",
+      "deliveryId": "01a21762-5571-73ff-998b-a5bb3a524079",
+      "status": "delivered"
+    },
+    {
+      "name": "LendIt Fintech",
+      "email": "editors@heyfuturenexus.com",
+      "deliveryId": "01a21762-582d-70ef-aa40-e59469dcf18a",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Nexus",
+      "email": "editors@heyfuturenexus.com",
+      "deliveryId": "01a21762-5afd-79f8-b3bd-ae7c54e31077",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Weekly",
+      "email": "contact@fintechweekly.com",
+      "deliveryId": "01a21762-5dbc-7eaf-bd9e-fac500f2bc6e",
+      "status": "delivered"
+    },
+    {
+      "name": "Fintech Magazine",
+      "email": "editor@fintechmagazine.com",
+      "deliveryId": "01a21762-60ae-7bce-9885-657a7c4b6ea5",
+      "status": "delivered"
+    },
+    {
+      "name": "Insurtech Insights",
+      "email": "contact@insurtechinsights.com",
+      "deliveryId": "01a21762-63d0-7e1a-8cfa-e7665853b677",
+      "status": "delivered"
+    },
+    {
+      "name": "Insurance Thought Leadership",
+      "email": "info@insurancethoughtleadership.com",
+      "deliveryId": "01a21762-66d6-74ea-bcb1-badd7b067306",
+      "status": "delivered"
+    },
+    {
+      "name": "Risk.net",
+      "email": "csqueries@infopro-digital.com",
+      "deliveryId": "01a21762-6bc6-7a3d-9532-38d69e8bd918",
+      "status": "delivered"
+    },
+    {
+      "name": "WatersTechnology",
+      "email": "customerservices@incisivemedia.com",
+      "deliveryId": "01a21762-6ec6-731c-8e6c-4a2a00ff2ded",
+      "status": "delivered"
+    },
+    {
+      "name": "Jalopnik",
+      "email": "staff@jalopnik.com",
+      "deliveryId": "01a21762-7222-7e83-8cc9-611b71679715",
+      "status": "delivered"
+    },
+    {
+      "name": "Car and Driver",
+      "email": "tips@caranddriver.com",
+      "deliveryId": "01a21762-7788-7e97-abcb-fd2f92469e1f",
+      "status": "delivered"
+    },
+    {
+      "name": "Road and Track",
+      "email": "pitches@roadandtrack.com",
+      "deliveryId": "01a21762-7a79-7340-9eed-1fc3fda742b6",
+      "status": "delivered"
+    },
+    {
+      "name": "Simple Flying",
+      "email": "editorial@simpleflying.com",
+      "deliveryId": "01a21762-7de7-7b23-8580-4f4a76c08787",
+      "status": "delivered"
+    },
+    {
+      "name": "Flying Mag",
+      "email": "team@thecode.co",
+      "deliveryId": "01a21762-8114-7c43-8e01-8d61545fe5df",
+      "status": "delivered"
+    },
+    {
+      "name": "AIN Online",
+      "email": "calcock@ainonline.com",
+      "deliveryId": "01a21762-8403-7a88-a8da-6fcd78885d0a",
+      "status": "delivered"
+    },
+    {
+      "name": "SpaceNews",
+      "email": "events@spacenews.com",
+      "deliveryId": "01a21762-86c5-7cd6-afc0-b3b8daa2b2f0",
+      "status": "delivered"
+    },
+    {
+      "name": "Aviation Today",
+      "email": "jgmilroy@accessintel.com",
+      "deliveryId": "01a21762-8959-76c2-afb0-f3d2b1553296",
+      "status": "delivered"
+    },
+    {
+      "name": "Air Cargo News",
+      "email": "customerdesk@promedia.co.uk",
+      "deliveryId": "01a21762-8ca5-71bb-a76b-5376160ec4ca",
+      "status": "delivered"
+    },
+    {
+      "name": "FreightWaves",
+      "email": "fergus@firecrown.com",
+      "deliveryId": "01a21762-8f7a-7b08-97ea-ef3e8f43c651",
+      "status": "delivered"
+    },
+    {
+      "name": "Material Handling & Logistics",
+      "email": "aselko@endeavorb2b.com",
+      "deliveryId": "01a21762-9229-79f5-9ab9-c4579281515b",
+      "status": "delivered"
+    },
+    {
+      "name": "Inbound Logistics",
+      "email": "27a7ac2f1ac13e28d35380b411cdc0a3@sentry.mgmt.global.xmtr.io",
+      "deliveryId": "01a21762-94f5-79e2-9de0-0a7679c6a778",
+      "status": "delivered"
+    },
+    {
+      "name": "Transport Topics",
+      "email": "circulation@ttnews.com",
+      "deliveryId": "01a21762-97de-71c4-b324-3b1628ccd36f",
+      "status": "delivered"
+    },
+    {
+      "name": "FleetOwner",
+      "email": "editor@fleetowner.com",
+      "deliveryId": "01a21762-9b00-753c-b5f3-8728535cb226",
+      "status": "delivered"
+    },
+    {
+      "name": "Heavy Duty Trucking",
+      "email": "ben.bobit@bobit.com",
+      "deliveryId": "01a21762-9dd5-71db-ae1c-9ebc3664aad6",
+      "status": "delivered"
+    },
+    {
+      "name": "Work Truck",
+      "email": "angela.reich@bobit.com",
+      "deliveryId": "01a21762-a0a9-72cc-9566-2ddaa183df4b",
+      "status": "delivered"
+    },
+    {
+      "name": "Automotive Logistics",
+      "email": "alistair.newton@ultimamedia.com",
+      "deliveryId": "01a21762-a374-72ff-b7b9-4642b1fa7d9c",
+      "status": "delivered"
+    }
+  ]
+}
