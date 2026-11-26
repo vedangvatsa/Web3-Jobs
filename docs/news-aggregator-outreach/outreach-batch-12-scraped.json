@@ -1,0 +1,188 @@
+{
+  "dispatchedAt": "2026-11-26T10:08:02.000Z",
+  "total": 30,
+  "delivered": 30,
+  "failed": 0,
+  "results": [
+    {
+      "name": "TechPowerUp",
+      "email": "w1zzard@techpowerup.com",
+      "deliveryId": "01a21753-3974-73f0-aa37-a8729d4178a1",
+      "status": "delivered"
+    },
+    {
+      "name": "VideoCardz",
+      "email": "maciej@videocardz.com",
+      "deliveryId": "01a21753-3cbc-7919-8258-d358769919e7",
+      "status": "delivered"
+    },
+    {
+      "name": "HotHardware",
+      "email": "news@hothardware.com",
+      "deliveryId": "01a21753-3f5e-7d75-a3f3-f647af51692e",
+      "status": "delivered"
+    },
+    {
+      "name": "Tom's Guide",
+      "email": "help@magazinesdirect.com",
+      "deliveryId": "01a21753-4234-7c1d-9ef5-28e04801ec3c",
+      "status": "delivered"
+    },
+    {
+      "name": "TechRadar",
+      "email": "news@techradar.com",
+      "deliveryId": "01a21753-44be-7e85-89cf-a927d0e699a9",
+      "status": "delivered"
+    },
+    {
+      "name": "PC Gamer",
+      "email": "editors@pcgamer.com",
+      "deliveryId": "01a21753-478f-704a-b92c-31091578bca4",
+      "status": "delivered"
+    },
+    {
+      "name": "Macworld",
+      "email": "ashleigh_macro@foundryco.com",
+      "deliveryId": "01a21753-4a7e-78af-8acd-d5acf5942e8b",
+      "status": "delivered"
+    },
+    {
+      "name": "Digital Trends",
+      "email": "editorial@digitaltrends.com",
+      "deliveryId": "01a21753-4d27-773b-9b48-7bf30a0c00f7",
+      "status": "delivered"
+    },
+    {
+      "name": "How-To Geek",
+      "email": "editorial@howtogeek.com",
+      "deliveryId": "01a21753-4fe7-7d3c-a66c-13e3081d9b43",
+      "status": "delivered"
+    },
+    {
+      "name": "MakeUseOf",
+      "email": "editorial@makeuseof.com",
+      "deliveryId": "01a21753-551e-7c30-a136-60a26a12895a",
+      "status": "delivered"
+    },
+    {
+      "name": "Thurrott",
+      "email": "help@thurrott.com",
+      "deliveryId": "01a21753-57f9-7525-8258-b3de73e00722",
+      "status": "delivered"
+    },
+    {
+      "name": "Windows Central",
+      "email": "help@magazinesdirect.com",
+      "deliveryId": "01a21753-5acc-7495-a80e-7307d11cebba",
+      "status": "delivered"
+    },
+    {
+      "name": "Cult of Mac",
+      "email": "info@cultofmac.com",
+      "deliveryId": "01a21753-5ef4-78ea-b988-a7ff48d103e5",
+      "status": "delivered"
+    },
+    {
+      "name": "Six Colors",
+      "email": "apps@sixcolors.com",
+      "deliveryId": "01a21753-61af-7a69-bbb0-38ec5bc6d178",
+      "status": "delivered"
+    },
+    {
+      "name": "512 Pixels",
+      "email": "stephen@hackett.fm",
+      "deliveryId": "01a21753-6422-7c62-8092-4a1253840b39",
+      "status": "delivered"
+    },
+    {
+      "name": "PopSci",
+      "email": "editorial@popsci.com",
+      "deliveryId": "01a21753-672c-706f-83de-db4913844692",
+      "status": "delivered"
+    },
+    {
+      "name": "Live Science",
+      "email": "community@livescience.com",
+      "deliveryId": "01a21753-69b6-776d-b370-5512247e9a22",
+      "status": "delivered"
+    },
+    {
+      "name": "Space.com",
+      "email": "help@magazinesdirect.com",
+      "deliveryId": "01a21753-6efd-7c16-b132-e9e9816930bc",
+      "status": "delivered"
+    },
+    {
+      "name": "Futurism",
+      "email": "contact@futurism.com",
+      "deliveryId": "01a21753-7207-7c8d-8e92-b5ed1a6fe5d3",
+      "status": "delivered"
+    },
+    {
+      "name": "Inverse",
+      "email": "hoaitran.bui@inverse.com",
+      "deliveryId": "01a21753-74ec-7437-9d49-2b4c0bea2452",
+      "status": "delivered"
+    },
+    {
+      "name": "Input Mag",
+      "email": "hello@inputmag.com",
+      "deliveryId": "01a21753-77ab-7d3a-a7e8-55320a91d78a",
+      "status": "delivered"
+    },
+    {
+      "name": "Aftermath",
+      "email": "tips@aftermath.site",
+      "deliveryId": "01a21753-7a36-7794-bd8a-31c0005329a6",
+      "status": "delivered"
+    },
+    {
+      "name": "Defector",
+      "email": "info@alley.co",
+      "deliveryId": "01a21753-7d15-7b5c-bd57-3bfed8c95a85",
+      "status": "delivered"
+    },
+    {
+      "name": "The Markup",
+      "email": "tips@themarkup.org",
+      "deliveryId": "01a21753-8054-7b98-8e15-4d5e835394fe",
+      "status": "delivered"
+    },
+    {
+      "name": "MIT News",
+      "email": "newsoffice@mit.edu",
+      "deliveryId": "01a21753-82d8-75d2-aa26-e5d09b458de8",
+      "status": "delivered"
+    },
+    {
+      "name": "Stanford HAI",
+      "email": "hai-education@stanford.edu",
+      "deliveryId": "01a21753-85cd-761f-9d99-0d4b4e90653a",
+      "status": "delivered"
+    },
+    {
+      "name": "Berkeley BAIR",
+      "email": "bair-admin@berkeley.edu",
+      "deliveryId": "01a21753-8886-7624-8b29-ea6ddfdeccf8",
+      "status": "delivered"
+    },
+    {
+      "name": "FOSS Force",
+      "email": "fossforce@fosstodon.org",
+      "deliveryId": "01a21753-8b40-7d61-81fa-46f649d7f234",
+      "status": "delivered"
+    },
+    {
+      "name": "DebugPoint",
+      "email": "contact@debugpoint.com",
+      "deliveryId": "01a21753-8dfb-7261-934b-aad51b81b90d",
+      "status": "delivered"
+    },
+    {
+      "name": "UbuntuPIT",
+      "email": "mehedi57@gmail.com",
+      "deliveryId": "01a21753-90bc-70ec-b554-966a9b92b761",
+      "status": "delivered"
+    }
+  ]
+}
