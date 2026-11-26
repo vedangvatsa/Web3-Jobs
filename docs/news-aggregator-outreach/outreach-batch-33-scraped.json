@@ -1,0 +1,14 @@
+{
+  "dispatchedAt": "2026-11-26T11:05:55.000Z",
+  "total": 1,
+  "delivered": 1,
+  "failed": 0,
+  "results": [
+    {
+      "name": "HackerRank Blog",
+      "email": "shloka.shah@hackerrank.com",
+      "deliveryId": "01a21788-8f66-72d2-a22b-9a26a190906d",
+      "status": "delivered"
+    }
+  ]
+}
