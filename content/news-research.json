@@ -221341,7 +221341,27 @@
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
       "attempts": 0,
       "expiresAt": "2026-11-27T18:01:58.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "articleSlug": "utahkalshidismiss",
+      "draftProgress": {
+        "id": "d5caf5b7b1d0a3efeb46",
+        "day": "2026-11-26",
+        "articleSlug": "utahkalshidismiss",
+        "note": "Read Utah AG primary release and Unchained report; The Block and The Defiant returned 403 via WebFetch.",
+        "sourceChecks": [
+          {
+            "url": "https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/utah-asks-court-to-toss-kalshi-criminal-case-but-the-charges-could-come-back/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-26T02:36:36.238Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "306496d44e9dc10d2725": {
       "source": "CoinDesk",
