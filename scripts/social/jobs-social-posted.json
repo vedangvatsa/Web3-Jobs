@@ -193291,6 +193291,46 @@
       "attemptId": "0484caa6-5cf2-4f77-8848-411bdec79b5e",
       "verification": "verified",
       "postId": "0xfc4b75a8ca76d88953c0f3f9d88dfe39d8dfbaa4"
+    },
+    {
+      "slug": "am2",
+      "company": "Bybit",
+      "title": "AMLO",
+      "platform": "linkedin",
+      "postedAt": "2026-11-26T04:49:52.221Z",
+      "expectedText": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/li?og=7",
+      "snapshot": {
+        "id": "5035471101",
+        "title": "AMLO",
+        "company": "Bybit",
+        "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5035471101",
+        "date": "2026-11-20T16:06:10-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bybit [bybit]",
+        "location": "Vienna, Austria",
+        "department": "Europe",
+        "active": true,
+        "dateVerified": true,
+        "slug": "am2"
+      },
+      "payload": {
+        "text": "Bybit is hiring AMLO: https://hashtagweb3.com/am2/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/am2/li?og=7",
+          "title": "AMLO at Bybit | Hashtag Web3",
+          "description": "Join Bybit as AMLO. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/am2.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "93ca7907-39ef-4476-8bd6-4c59599c5a20",
+      "verification": "creating"
     }
   ]
 }
