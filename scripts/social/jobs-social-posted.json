@@ -196292,7 +196292,8 @@
       },
       "account": "channel:dev",
       "attemptId": "fc56503e-f414-4794-98c1-0557d60a4279",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6ad0c2363c1d9062f9a9125339ab41098916fae1"
     }
   ]
 }
