@@ -198127,7 +198127,8 @@
       },
       "account": "channel:base",
       "attemptId": "1e09be26-a9e4-4ce7-acfe-837314c84ce9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb95d2f9b5566d8dea28103817d001eb252526eca"
     }
   ]
 }
