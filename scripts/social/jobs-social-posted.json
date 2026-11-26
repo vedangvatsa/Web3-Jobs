@@ -196085,6 +196085,39 @@
       "attemptId": "b12284e3-50ad-4878-b1a4-4852b036a30d",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n3aj37w7ak2m"
+    },
+    {
+      "slug": "eng875",
+      "company": "Stripe",
+      "title": "Analytics Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-26T20:26:12.183Z",
+      "expectedText": "Stripe is hiring Analytics Engineer\n\nhttps://hashtagweb3.com/eng875/fc?og=7",
+      "snapshot": {
+        "id": "8415333",
+        "title": "Analytics Engineer",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8415333",
+        "date": "2026-11-24T17:35:42-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "New York",
+        "department": "9003 Privy - S&O",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng875"
+      },
+      "payload": {
+        "text": "Stripe is hiring Analytics Engineer\n\nhttps://hashtagweb3.com/eng875/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng875/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "8b2e28ad-817b-453c-a05a-9c97d16fbac7",
+      "verification": "creating"
     }
   ]
 }
