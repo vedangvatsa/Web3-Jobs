@@ -197483,7 +197483,8 @@
       },
       "account": "channel:design",
       "attemptId": "f6f83de1-2b24-4d25-817b-12db4174e368",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfffe116352ac56471db024ab59c0594655d7c3d3"
     }
   ]
 }
