@@ -19374,5 +19374,250 @@
       "status": 200,
       "finalUrl": "https://www.zoom.com/en/lp/zoom-for-startups/?cms_guid=false"
     }
+  },
+  {
+    "id": "0g-apollo",
+    "name": "0G Apollo Accelerator",
+    "provider": "0G Labs",
+    "category": "Web3 Ecosystem",
+    "type": "Accelerator",
+    "amount": "Up to $20M funding + $200K cloud credits",
+    "description": "The 0G Apollo Accelerator backs decentralized AI and Web3 infrastructure teams building on the 0G network, offering up to $20M in ecosystem funding alongside $200K in Google Cloud credits.",
+    "url": "https://apollo.0g.ai/",
+    "ecosystem": "0G",
+    "tags": [
+      "AI",
+      "Infra",
+      "Accelerator"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "apollo.0g.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=apollo.0g.ai&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The 0G Apollo Accelerator supports engineering teams building decentralized AI applications, data availability tooling, and high-throughput Web3 infrastructure on 0G.",
+          "Selected cohorts receive access to ecosystem capital, technical mentorship, and cloud compute credits."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review program eligibility and submit an application directly through the official 0G Apollo Accelerator portal."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1inch-bounty",
+    "name": "1inch Bug Bounty Program",
+    "provider": "1inch",
+    "category": "Security & Audits",
+    "type": "Bounty",
+    "amount": "Severity-based",
+    "description": "The 1inch Bug Bounty Program rewards security researchers for responsibly disclosing vulnerabilities across 1inch smart contracts, aggregation protocols, and core infrastructure.",
+    "url": "https://1inch.com/blog/post/how-to-claim-a-1inch-bug-bounty",
+    "ecosystem": "Ethereum",
+    "tags": [
+      "Security",
+      "DeFi",
+      "Bounty"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "1inch.com",
+    "logo": "https://www.google.com/s2/favicons?domain=1inch.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "1inch operates a continuous bug bounty program covering its smart contracts, swap routing engines, and limit order protocols.",
+          "Payouts are determined by vulnerability severity and potential impact."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Follow the responsible disclosure guidelines on the official 1inch bug bounty page to submit a vulnerability report."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1inch-grants",
+    "name": "1inch Foundation Grants",
+    "provider": "1inch Foundation",
+    "category": "Web3 Ecosystem",
+    "type": "Grant",
+    "amount": "Milestone-based",
+    "description": "The 1inch Foundation Grants program funds developers, researchers, and community builders creating DeFi tooling, analytics, and integrations around the 1inch Network.",
+    "url": "https://1inch.network/foundation",
+    "ecosystem": "Ethereum",
+    "tags": [
+      "DeFi",
+      "DevTooling",
+      "Community"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "1inch.network",
+    "logo": "https://www.google.com/s2/favicons?domain=1inch.network&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The 1inch Foundation supports open-source initiatives, developer tooling, educational content, and ecosystem integrations that strengthen the 1inch Network.",
+          "Grants are awarded on a milestone basis aligned with deliverable progress."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official 1inch Foundation page to review grant tracks and submit a proposal."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aaif-goose-g",
+    "name": "AAIF Goose Grant Program",
+    "provider": "Agentic AI Foundation",
+    "category": "AI & Open Source",
+    "type": "Grant",
+    "amount": "Milestone-based",
+    "description": "The AAIF Goose Grant Program supports open-source developers building extensions, integrations, and tooling for the Goose agentic AI framework.",
+    "url": "https://goose-docs.ai/grants/",
+    "ecosystem": "Open Source",
+    "tags": [
+      "AI",
+      "Open Source",
+      "DevTooling"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "goose-docs.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=goose-docs.ai&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "The AAIF Goose Grant Program funds contributors creating open-source MCP servers, developer workflows, and agentic capabilities for Goose.",
+          "Proposals are evaluated on technical quality, open-source licensing, and ecosystem utility."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review the grant guidelines and submit a proposal via the official Goose documentation grants page."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aave-bounty",
+    "name": "Aave Bug Bounty Program",
+    "provider": "Aave",
+    "category": "Security & Audits",
+    "type": "Bounty",
+    "amount": "Severity-based",
+    "description": "The Aave Bug Bounty Program rewards security researchers for identifying and responsibly disclosing vulnerabilities in Aave Core and Aave V4 smart contracts.",
+    "url": "https://aave.com/security",
+    "ecosystem": "Ethereum",
+    "tags": [
+      "Security",
+      "DeFi",
+      "Bounty"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "aave.com",
+    "logo": "https://www.google.com/s2/favicons?domain=aave.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Aave maintains active bug bounty programs covering Aave Core and Aave V4 protocol contracts.",
+          "Rewards scale based on vulnerability severity, exploitability, and impact on protocol funds."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review scope and disclosure rules on the official Aave security page before submitting a report."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aethir-wxm",
+    "name": "Aethir x WeatherXM Partnership",
+    "provider": "Aethir & WeatherXM",
+    "category": "Web3 Ecosystem",
+    "type": "Grant",
+    "amount": "Milestone-based",
+    "description": "The Aethir and WeatherXM partnership supports DePIN and AI builders combining decentralized GPU compute with real-world weather and environmental data.",
+    "url": "https://builders.weatherxm.com/aethir",
+    "ecosystem": "DePIN",
+    "tags": [
+      "DePIN",
+      "AI",
+      "Infra"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "builders.weatherxm.com",
+    "logo": "https://www.google.com/s2/favicons?domain=builders.weatherxm.com&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "This joint builder initiative provides compute credits, weather data access, and ecosystem support for teams building DePIN and AI applications.",
+          "Projects can leverage Aethir GPU infrastructure alongside WeatherXM sensor networks."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Visit the official WeatherXM Builders portal for Aethir partnership details and application steps."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mistral-amb",
+    "name": "Mistral AI Ambassador Program",
+    "provider": "Mistral AI",
+    "category": "AI & Open Source",
+    "type": "Program",
+    "amount": "Credits & Community Support",
+    "description": "The Mistral AI Ambassador Program supports developers, researchers, and community builders creating tutorials, open-source tools, and events around Mistral AI models.",
+    "url": "https://docs.mistral.ai/resources/ambassadors",
+    "ecosystem": "AI",
+    "tags": [
+      "AI",
+      "Community",
+      "Open Source"
+    ],
+    "deadline": "Rolling / Always Open",
+    "featured": false,
+    "domain": "docs.mistral.ai",
+    "logo": "https://www.google.com/s2/favicons?domain=docs.mistral.ai&sz=128",
+    "sections": [
+      {
+        "heading": "Program overview",
+        "paragraphs": [
+          "Mistral AI Ambassadors contribute technical guides, open-source integrations, and community workshops.",
+          "Accepted ambassadors receive API credits, early feature access, and direct collaboration with the Mistral team."
+        ]
+      },
+      {
+        "heading": "How to apply",
+        "paragraphs": [
+          "Review program criteria and apply through the official Mistral AI documentation portal."
+        ]
+      }
+    ]
   }
 ]
