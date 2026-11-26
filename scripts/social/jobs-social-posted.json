@@ -195311,7 +195311,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "d59498f2-fd7f-4a57-9e13-fdf3615847b9",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe856c54a5486669c94b2ea6a1343f28a5ace1e23"
     }
   ]
 }
