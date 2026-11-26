@@ -198307,7 +198307,8 @@
       },
       "account": "channel:product",
       "attemptId": "344a2ace-29d8-409c-8b79-2d8ea37f6e5a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7bf915c61b6b82a1f63a3846d103e27beec28e5e"
     }
   ]
 }
