@@ -193079,7 +193079,8 @@
       },
       "account": "channel:ethereum",
       "attemptId": "f74cee14-ff16-46c9-abb9-930293bb2e81",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x44d63dc005d9120f1ee151016f610e709bedc5c4"
     }
   ]
 }
