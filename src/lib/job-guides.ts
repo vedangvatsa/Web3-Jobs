@@ -165,29 +165,52 @@ export function stripHyperlinksFromJobHtml(html: string): string {
   if (!html) return '';
   let s = html;
 
-  // 1. Phrasing fixes for common link calls to action
+  // 1. Phrasing fixes and removal of link calls-to-action & URL pointer lines
   s = s.replace(/<li[^>]*>\s*<h[1-6][^>]*>\s*関連リンク\s*<\/h[1-6]>[\s\S]*?<\/li>/gi, '');
   s = s.replace(/<h[1-6][^>]*>\s*関連リンク\s*<\/h[1-6]>\s*(?:<ul[^>]*>[\s\S]*?<\/ul>)?/gi, '');
   s = s.replace(/<a\b[^>]*>\s*地図で確認\s*<\/a>/gi, '');
   s = s.replace(/<li[^>]*>\s*<a\b[^>]*>(?:キャリアサイト|Company Deck|Wantedly stories|公式X|公式Instagram)<\/a>[\s\S]*?<\/li>/gi, '');
 
-  s = s.replace(/All open roles are listed on our official careers page:\s*https?:\/\/\S+/gi, 'All open roles are listed on our official careers page.');
-  s = s.replace(/To learn more,\s*visit\s*https?:\/\/\S+/gi, 'To learn more, visit the official company website.');
-  s = s.replace(/Find out more about all of our perks &amp; benefits at\s*https?:\/\/\S+/gi, 'Find out more about all of our perks &amp; benefits on the company careers portal.');
-  s = s.replace(/How to Apply:\s*Apply online at\s*https?:\/\/\S+/gi, 'How to Apply: Apply online via the official portal.');
+  // Strip standalone ATS / application URL paragraphs ("To apply for this position, please submit... [url]")
+  s = s.replace(/<p[^>]*>\s*To apply for this position,?\s*please submit your application through the following link:?\s*<\/p>\s*<p[^>]*>\s*[a-z0-9.-]+\.[a-z]{2,}\/[^\s<>]+\s*<\/p>(?:\s*<p[^>]*>\s*Only applications submitted through this link will be considered\.?\s*<\/p>)?/gi, '');
+  s = s.replace(/<p[^>]*>\s*(?:jobs\.ashbyhq\.com|keyrock\.com\/careers|[a-z0-9.-]+\.[a-z]{2,}\/careers)\/[^\s<>]*\s*<\/p>/gi, '');
+  s = s.replace(/<p[^>]*>\s*keyrock\.com\/careers\s*<\/p>/gi, '');
+  s = s.replace(/<li[^>]*>\s*(?:x\.com|fomo\.family)\/[^\s<>]+\s*<\/li>/gi, '');
 
-  s = s.replace(/To view our benefits at a glance,\s*please visit the following link:\s*https?:\/\/\S+/gi, 'Benefits are available at a glance via the company portal.');
+  // Strip sentences that direct users to external URLs, forms, or portals
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*All open roles are listed on our official careers page:[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*Official careers listing:\s*[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*To learn more,?\s*visit\s*https?:\/\/\S+(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*Explore more opportunities at:\s*[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*Only apply directly through our careers webpage\s*\([^)]*\)\s*or\s*[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*Find out more about all of our perks &amp; benefits at\s*[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*How to Apply:\s*Apply online at\s*[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*To view our benefits at a glance,?\s*please visit the following link:\s*[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*Learn more about how we work:\s*[^\n<]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*Learn about our commitment to [^.<]*at\s*[a-z0-9.-]+\.[a-z]{2,}\/[^\s<>]*(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*Learn more:\s*goldmansachs\.com\/careers\/footer\/disability-statement\.[a-z\s]+(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/Learn more at ey\.com\/us\/careers\.?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<li>)?\s*To learn more please visit:\s*coinspaid\.com\/about-us\s*&amp;\s*coinspaid\.com\/careers(?:<\/p>|<\/li>)?/gi, '');
+  s = s.replace(/\(RSVP here:\s*partiful\.com\/e\/[^\s)<>]+\)?/gi, '');
+
+  // Strip sentences that invite clicking or external link following
+  s = s.replace(/(?:^|(?<=[.!?]\s+))[^.!?]*\b(?:click here|click this link|apply online at|apply at https?|visit the following link|visit our careers page)\b[^.!?]*[.!?]?\s*/gi, '');
+  s = s.replace(/(?:^|(?<=[.!?]\s+))[^.!?]*\bthrough this (?:form|link|portal)\b[^.!?]*[.!?]?\s*/gi, '');
+
+  // Strip E-Verify and Right to Work poster lines
+  s = s.replace(/In addition, Uniswap Labs participates in E-Verify\.?\s*You can view the E-Verify poster[^.]*and the Right to Work poster[^.]*\./gi, '');
+  s = s.replace(/You can view the E-Verify poster[^.]*and the Right to Work poster[^.]*\./gi, '');
+
+  // Policy references
+  s = s.replace(/at\s+drw\.com\/(?:privacy-notice|california-privacy-notice)\.?/gi, 'on the official DRW privacy portal.');
+  s = s.replace(/at\s+GS\.com\/careers\.?/gi, 'on the Goldman Sachs careers portal.');
+  s = s.replace(/at\s+goldmansachs\.com\/[^\s<>"')]+\.?/gi, 'on the official Goldman Sachs website.');
   s = s.replace(/except as set forth within the following policy:\s*https?:\/\/\S+/gi, 'except as set forth within the official company policy.');
-  s = s.replace(/Learn more about how we work:\s*https?:\/\/\S+/gi, 'Learn more about how we work on the company portal.');
+  s = s.replace(/\b(?:careers|benefits|about-us)\s+at\s+[a-z0-9.-]+\.[a-z]{2,}\/[^\s<>"')]+/gi, 'via the official company portal');
+  s = s.replace(/paxos\.com\/careers/gi, 'the official Paxos careers site');
 
-  s = s.replace(/You can view the E-Verify poster\s*<\/em><a\b[^>]*><em>here<\/em><\/a><em>\s*and the Right to Work poster\s*<\/em><a\b[^>]*><em>here<\/em><\/a><em>\.?<\/em>/gi, 'E-Verify and Right to Work posters are available on official government portals.');
-  s = s.replace(/You can view the E-Verify poster\s*<a\b[^>]*>here<\/a>\s*and the Right to Work poster\s*<a\b[^>]*>here<\/a>\.?/gi, 'E-Verify and Right to Work posters are available on official government portals.');
-
-  s = s.replace(/Click\s+<a\b[^>]*>(?:here|this link)<\/a>\s+to\s+([a-z])/gi, 'To $1');
-  s = s.replace(/<a\b[^>]*>(?:here|this link)<\/a>\s+to\s+([a-z])/gi, 'to $1');
-  s = s.replace(/via\s+this\s+<a\b[^>]*>(?:form|link|portal)<\/a>/gi, 'via the official application portal');
-  s = s.replace(/through\s+this\s+<a\b[^>]*>(?:form|link|portal)<\/a>/gi, 'through the official form');
-  s = s.replace(/\b(?:learn more|read more|apply)\s+at\s+<a\b[^>]*>https?:\/\/[^<]+<\/a>/gi, 'learn more on the official company portal');
+  // Strip empty headers left orphaned by removed apply sections (e.g. <h3>How to Apply</h3> when body is removed)
+  s = s.replace(/<h[1-6][^>]*>\s*(?:How to Apply|Apply Now|Apply)\s*<\/h[1-6]>\s*(?=<h[1-6]|<\/div>|$)/gi, '');
 
   // 2. Convert remaining <a ...>Label</a> -> Label (or drop if label was a raw URL)
   s = s.replace(/<a\b[^>]*>([\s\S]*?)<\/a>/gi, (_match, label) => {
