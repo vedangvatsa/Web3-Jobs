@@ -197768,7 +197768,8 @@
         "description": "Join Figure as Borrower Advocate. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "037205dd-7b6a-4685-9c56-553ca4023a1d",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Bluesky post failed: {\"error\":\"UpstreamFailure\",\"message\":\"UpstreamFailure\"}"
     }
   ]
 }
