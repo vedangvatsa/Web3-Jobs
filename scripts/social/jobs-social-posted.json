@@ -194114,7 +194114,8 @@
       },
       "account": "channel:design",
       "attemptId": "0bcbb761-785c-4889-91bf-0a4549dc2a8c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbd08f813dcfd26201ec81908cba823ed7e2ae343"
     }
   ]
 }
