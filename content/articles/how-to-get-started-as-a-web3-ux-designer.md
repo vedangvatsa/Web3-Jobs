@@ -39,7 +39,9 @@ Transitioning from Web2 to Web3 requires a compelling [portfolio](/building-web3
 
 1. **Immerse Yourself as a User:** Before designing, experience Web3 as a user. Engage with [DeFi](/what-is-defi) protocols, buy [NFTs](/what-are-nfts), and learn from both positive and negative Web3 UX experiences.
 
-2. **The Redesign Project (Portfolio Centerpiece):**- Identify a popular dApp with a poor user experience.
+2. **The Redesign Project (Portfolio Centerpiece):**
+
+- Identify a popular dApp with a poor user experience.
  - Create a detailed case study that involves redesigning a specific user flow, such as the [staking](/how-to-become-a-web3-staking-specialist) process or a governance voting page.
  - Document your entire process: Define the problem, identify the user you aimed to help, and explain your design decisions.
  - Develop high-fidelity mockups in Figma.

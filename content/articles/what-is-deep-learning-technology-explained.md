@@ -138,7 +138,9 @@ Distributed Web3 teams operate at a rapid pace. The skills you develop directly 
 - Deliver products promptly (technical and communication).
 - Tackle ambiguity effectively (problem-solving and learning agility).
 - Establish trust with peers (emotional intelligence).
-- Influence without formal authority (communication and emotional intelligence).**In Career Progression
+- Influence without formal authority (communication and emotional intelligence).
+
+**In Career Progression:**
 
 The importance of these skills varies by career stage:
 - **Junior Level:** Technical skills dominate, but communication grows in significance.

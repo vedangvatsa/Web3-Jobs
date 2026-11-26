@@ -137,16 +137,22 @@ Skills play differentiated roles at various career levels:
 
 ### Resources for Continued Learning
 
-**Books:**- "Atomic Habits" by James Clear: Focused on consistent skill development.
+**Books:**
+
+- "Atomic Habits" by James Clear: Focused on consistent skill development.
 - "Thinking, Fast and Slow" by Daniel Kahneman: Insights into decision-making.
 - "Never Split the Difference" by Chris Voss: Techniques for negotiation and influence.
 
-**Online Resources:**- Platforms like Coursera and edX for technical skill acquisition.
+**Online Resources:**
+
+- Platforms like Coursera and edX for technical skill acquisition.
 - MasterClass for targeted skill development.
 - YouTube channels dedicated to your specific domain.
 - Podcasts featuring industry experts.
 
-**Communities:**- Web3-focused Discord channels.
+**Communities:**
+
+- Web3-focused Discord channels.
 - Reddit communities aligned with your skillset.
 - Local meetups and networking opportunities.
 - Online cohort-based courses for more interactive learning.

@@ -82,49 +82,49 @@ The competition for tech talent in Austin has led to salaries that rival those i
 
 ### Technical Roles **[Smart Contract](/what-are-smart-contracts) & Protocol Engineers ([Solidity](/best-programming-languages-for-blockchain-development), Rust):**
 
-- **Mid-Level (3-5 years):**Competitive salary range + equity
+- **Mid-Level (3-5 years):** Competitive salary range + equity
 - **Senior (5+ years):** Competitive salary range + substantial [token](/what-is-a-token)/equity packages
 - **Market Leaders:** Exceptional candidates can command salaries based on proven experience.
 
 **Full-Stack Web3 Engineer (React/Next.js + Web3 Libraries):**
 
-- **Mid-Level:**Competitive salary range + equity
+- **Mid-Level:** Competitive salary range + equity
 - **Senior:** Competitive salary range + equity **[Blockchain](/what-is-a-blockchain) Infrastructure/DevOps:**
 
-- **Mid-Level:**Competitive salary range
+- **Mid-Level:** Competitive salary range
 - **Senior:** Competitive salary range
 
 **Security/Auditing Roles:**
 
-- **Smart Contract Auditor:**Competitive salary range (varies by project)
+- **Smart Contract Auditor:** Competitive salary range (varies by project)
 - **Security Engineer:** Competitive salary range
 
 ### Product & Strategy Roles
 
 **Product Manager (Technical):**
 
-- **Mid-Level:**Competitive salary range
+- **Mid-Level:** Competitive salary range
 - **Senior:** Competitive salary range
 
 **Strategy/Partnerships:**
 
-- **Senior Level:**Competitive salary range
+- **Senior Level:** Competitive salary range
 
 **Business Development:**
 
-- **Mid-Level:**Competitive salary range
+- **Mid-Level:** Competitive salary range
 - **Senior:** Competitive salary range
 
 ### Marketing & Community Roles
 
 Austin's media and culture scene allows for competitive salaries in marketing roles:**Marketing/Growth Lead:**
 
-- **Manager Level:**Competitive salary range
+- **Manager Level:** Competitive salary range
 - **Senior Level:** Competitive salary range
 
 **Community Manager:**
 
-- **Mid-Level:**Competitive salary range
+- **Mid-Level:** Competitive salary range
 - **Senior Level:** Competitive salary range
 
 **Content Creator/Writer:**
@@ -159,12 +159,14 @@ Find these groups on Meetup.com or Twitter (#AustinWeb3).
 
 **Benefits of Attending:**
 
-- **Job Opportunities:**Local companies prefer hiring individuals they know.
+- **Job Opportunities:** Local companies prefer hiring individuals they know.
 - **Networking Potential:** Meet founders, investors, and potential colleagues.
 - **Knowledge Sharing:** Gain insights from knowledgeable community members.
 - **Reputation Building:** Attend regularly to establish your presence.
 
-**Networking Strategy:**- Attend at least one meetup each month.
+**Networking Strategy:**
+
+- Attend at least one meetup each month.
 - Introduce yourself authentically, avoiding a job-hunting approach.
 - Offer assistance with events to build rapport.
 - Follow up with individuals you meet to nurture connections.
@@ -175,21 +177,27 @@ Consensus is the premier crypto conference held annually in Austin, usually in M
 
 **Importance of Consensus:**
 
-- **Hiring Opportunities:**Major Web3 companies actively recruit at this event.
+- **Hiring Opportunities:** Major Web3 companies actively recruit at this event.
 - **Networking Goldmine:** Engage in valuable networking over three days.
 - **Competitive Advantage:** Attendees who purposefully connect have a higher chance of securing jobs.
 
 **Maximizing Your Experience:**
-**Before the Conference (3 months out):**- Identify companies of interest.
+**Before the Conference (3 months out):**
+
+- Identify companies of interest.
 - Research their leadership and open roles.
 - Prepare concise pitches for various audiences.
 
-**During the Conference:**- Prioritize networking over attending too many talks.
+**During the Conference:**
+
+- Prioritize networking over attending too many talks.
 - Spend significant time engaging with others in common areas.
 - Attend after-parties to build deeper conversations.
 - Aim for specific discussions about roles or companies.
 
-**After the Conference (1 week later):**- Send personalized follow-ups within 48 hours.
+**After the Conference (1 week later):**
+
+- Send personalized follow-ups within 48 hours.
 - Reference specific interactions in your messages.
 - Propose calls with interested parties to maintain momentum.
 
@@ -197,18 +205,22 @@ Consensus is the premier crypto conference held annually in Austin, usually in M
 
 Austin appreciates independent thinkers and builders. Develop a public profile through various platforms.
 
-**Visibility Benefits:**- Founders and hiring managers often scout talent on Twitter.
+**Visibility Benefits:**
+
+- Founders and hiring managers often scout talent on Twitter.
 - Your work serves as a portfolio, showcasing your skills to potential employers.
 - Establish a personal brand that stands out in the industry.
 
 **Content Strategies:**
 
-- **Twitter:**Share insights on Web3 trends and personal experiences.
+- **Twitter:** Share insights on Web3 trends and personal experiences.
 - **Blog:** Write technical articles, project updates, and industry analyses.
 - **GitHub:** Showcase your coding skills through public projects.
 - **Podcast:** Discuss Web3 topics if you prefer audio content.
 
-**Content Ideas:**- Technical tutorials and learnings.
+**Content Ideas:**
+
+- Technical tutorials and learnings.
 - Analysis of emerging protocols or trends.
 - Unique perspectives on Web3 challenges.
 - Updates on personal projects.
@@ -233,7 +245,9 @@ Understanding and engaging with Austin's culture can help you integrate into the
 
 **Work-Life Integration:** A flexible approach to work and personal life is typical, allowing for a blend of both.
 
-**Cultural Engagement Strategies:**- Participate in local events beyond professional networking.
+**Cultural Engagement Strategies:**
+
+- Participate in local events beyond professional networking.
 - Explore Austin's music, food, and outdoor activities.
 - Share your interests to build genuine connections.
 - Maintain direct and honest communication.
@@ -254,7 +268,9 @@ Understanding and engaging with Austin's culture can help you integrate into the
 
 Working for Austin Web3 companies does not require relocation. Many firms offer fully remote positions.
 
-**Remote Work Strategy:**- Secure a remote position with an Austin-based Web3 company.
+**Remote Work Strategy:**
+
+- Secure a remote position with an Austin-based Web3 company.
 - After establishing your value, consider relocating to Austin or remain remote.
 - Alternatively, move to Austin to network and then pursue remote roles elsewhere.
 
@@ -266,7 +282,9 @@ Austin's network and job opportunities provide advantages regardless of your loc
 
 The influx of talent into Austin has intensified the competition for roles. Standing out is important.
 
-**Competitive Strategies:**- Develop a strong portfolio and public presence.
+**Competitive Strategies:**
+
+- Develop a strong portfolio and public presence.
 - Network extensively within the community.
 - Specialize in high-demand areas.
 - Be prepared to take calculated risks.
@@ -306,7 +324,9 @@ As the city expands, rent and housing costs are rising. Stay informed about mark
 
 Austin's salaries are competitive but slightly lower than those in San Francisco and New York City. However, the lower cost of living enhances overall purchasing power.
 
-**Negotiation Tips:**- Research compensation on platforms like Levels.fyi and blind.com.
+**Negotiation Tips:**
+
+- Research compensation on platforms like Levels.fyi and blind.com.
 - Factor in equity or tokens, which can constitute a significant portion of total compensation.
 - Consider signing bonuses, frequently offered in competitive markets.
 - Remember that your salary stretches further in Austin.

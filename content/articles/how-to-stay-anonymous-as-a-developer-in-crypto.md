@@ -46,7 +46,9 @@ Your [blockchain](/what-is-a-blockchain) transactions are publicly accessible, m
 Off-chain activities can also expose your identity.
 
 - **[GitHub](/building-web3-portfolio):** Create a new GitHub account using your anonymous email. Be cautious when setting your Git configuration locally to prevent accidental commits under your real name.
- - **Command to check/set local git config:**- `git config user.name`
+ - **Command to check/set local git config:**
+
+- `git config user.name`
  - `git config user.email`
 - **Twitter (X):** Establish a new Twitter account to represent your pseudonymous identity.
 - **Discord:** Use a new Discord account. Be cautious about the servers you join, as they can reveal interests that may lead back to your real identity.

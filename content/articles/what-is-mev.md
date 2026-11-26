@@ -83,7 +83,9 @@ Some bots do not understand specific protocols at all. They copy any pending tra
 
 ### Pros and cons
 
-This is a trade-off system, not purely good or bad.**Where MEV helps**
+This is a trade-off system, not purely good or bad.
+
+**Where MEV helps**
 
 * Arbitrage keeps DEX prices consistent. Without it, users would get worse quotes across fragmented liquidity.
 * Fast liquidations keep lending markets solvent. Without searchers, bad debt would accumulate.
@@ -171,7 +173,9 @@ MEV is not illegal as a protocol mechanic. Arbitrage is widely seen as beneficia
 
 #### Does layer 2 remove MEV?
 
-No. Today most rollups use centralized sequencers that control ordering, which limits public sandwiching but centralizes MEV with the sequencer. As sequencers decentralize, layer 2 MEV will look more like mainnet. Use the same protections where available.**What is the simplest protection if I do nothing else?**
+No. Today most rollups use centralized sequencers that control ordering, which limits public sandwiching but centralizes MEV with the sequencer. As sequencers decentralize, layer 2 MEV will look more like mainnet. Use the same protections where available.
+
+**What is the simplest protection if I do nothing else?**
 Route swaps through Flashbots Protect, MEV Blocker, or CoW Swap. That one habit removes about 95 percent of sandwich exposure for a normal retail trader.
 
 MEV is a core part of how public blockchains work. You cannot avoid it by ignoring it, but you can choose routing and settings that keep price-correcting MEV for the market and keep sandwich MEV off your trades.

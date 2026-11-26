@@ -36,7 +36,7 @@ Korean gamers maintain exceptionally high expectations. They are accustomed to s
 
 **Consumer Preferences:**
 
-- **Competitive Drive:**Esports culture has deeply permeated South Korean society. Games that feature high skill ceilings and competitive player-versus-player (PvP) modes are particularly favored. Engagement mechanics such as leaderboards, tournaments, and guild competitions enhance player involvement.
+- **Competitive Drive:** Esports culture has deeply permeated South Korean society. Games that feature high skill ceilings and competitive player-versus-player (PvP) modes are particularly favored. Engagement mechanics such as leaderboards, tournaments, and guild competitions enhance player involvement.
 
 - **Community Engagement:** Gaming functions as a social activity in South Korea. Strong guild systems, integrated chat features, and community events are vital for success. A active community serves as a strong protective barrier for games.
 

@@ -226,7 +226,9 @@ A technical interview checks whether you can do the work, often by writing or re
 
 #### How do I handle salary or title questions in a behavioral round?
 
-Give a brief, direct answer and return to the behavioral prompt. For example: "My range based on market data for this role and location is X to Y, and I am flexible based on total scope. Happy to discuss details with the recruiter." Avoid long negotiation during a behavioral story.**What sources inform this guide?**
+Give a brief, direct answer and return to the behavioral prompt. For example: "My range based on market data for this role and location is X to Y, and I am flexible based on total scope. Happy to discuss details with the recruiter." Avoid long negotiation during a behavioral story.
+
+**What sources inform this guide?**
 
 * SHRM guidance on behavioral interviewing and the STAR method, including the principle that past behavior predicts future performance and that behavioral questions ask for specific work examples.
 * Harvard Business Review on the STAR method and situational versus behavioral questions, including the February 2025 update on using STAR.

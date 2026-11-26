@@ -27,20 +27,26 @@ The difference from general writing is context and risk. You explain systems whe
 
 ### Who it is for - and who it is not for
 
-**Good fit for the technical track if you:**- Like to take a complex system apart and explain it in plain steps
+**Good fit for the technical track if you:**
+
+- Like to take a complex system apart and explain it in plain steps
 - Write clearly and prefer accuracy over clever phrasing
 - Are comfortable reading code at a basic level, even if you do not ship production code
 - Can work async across time zones, ask engineers precise questions, and keep docs aligned with releases
 - Want a writing career that stays close to technology without becoming a full-time developer
 
-**Good fit for the content track if you:**- Like to turn research, protocol design, and ecosystem news into explainers and threads
+**Good fit for the content track if you:**
+
+- Like to turn research, protocol design, and ecosystem news into explainers and threads
 - Write quickly across formats: long-form, campaign copy, CRM, and video scripts
 - Are comfortable using performance data, SEO principles, and AI-assisted workflows to inform decisions
 - Can own work end to end across shifting priorities and tight deadlines
 
 Common backgrounds that transition well are technical support, QA, developer relations, content marketing for developer tools, English or communications majors with Git and API experience, and bootcamp graduates who liked docs more than feature code. For content roles, additional backgrounds include journalism, research communications, and editorial roles.
 
-**Poor fit if you:**- Dislike interviewing subject matter experts and testing steps yourself (technical track)
+**Poor fit if you:**
+
+- Dislike interviewing subject matter experts and testing steps yourself (technical track)
 - Want purely creative writing with no version control, style checks, or deadline pressure (both tracks)
 - Avoid detail work like checking that every endpoint, parameter, and code sample runs, or that every claim in a blog post links to a source
 
@@ -101,7 +107,9 @@ In Web3, a missing network ID, a wrong contract address, or an out-of-date insta
 
 ### Pay and demand in 2026 - verified ranges
 
-Treat salary as two layers: national payroll data for technical writers, then Web3-specific postings for this niche. All figures below are base salaries unless noted. Total compensation at funded companies often adds 15 to 30 percent via equity or tokens, but many Web3 posts list base only.**National baseline, United States**- U.S. Bureau of Labor Statistics, Occupational Outlook Handbook, last modified August 28, 2025: median pay for technical writers was $91,670 per year in May 2024. The lowest 10 percent earned less than $54,400 and the highest 10 percent earned more than $130,430. The same handbook reports about 56,400 jobs in 2024 with projected growth of 1 percent from 2024 to 2034, slower than average. Median for all workers in that release was $49,500 for comparison. Source: https://www.bls.gov/ooh/media-and-communication/technical-writers.htm
+Treat salary as two layers: national payroll data for technical writers, then Web3-specific postings for this niche. All figures below are base salaries unless noted. Total compensation at funded companies often adds 15 to 30 percent via equity or tokens, but many Web3 posts list base only.
+
+**National baseline, United States**- U.S. Bureau of Labor Statistics, Occupational Outlook Handbook, last modified August 28, 2025: median pay for technical writers was $91,670 per year in May 2024. The lowest 10 percent earned less than $54,400 and the highest 10 percent earned more than $130,430. The same handbook reports about 56,400 jobs in 2024 with projected growth of 1 percent from 2024 to 2034, slower than average. Median for all workers in that release was $49,500 for comparison. Source: https://www.bls.gov/ooh/media-and-communication/technical-writers.htm
 - The OEWS national estimate for the occupation shows the same median of $91,670. Your local market and level will differ, and remote tech-focused roles skew higher than the national median.
 
 **Web3 postings, August 2026 snapshot** Ranges below are from live boards as checked in August 2026. Filter by Remote and by posted date, and open the company site to confirm the listing still exists.

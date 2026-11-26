@@ -83,7 +83,9 @@ To discover the latest community, support, and development roles within the Phil
 - Expected Salary: PHP 50,000 - 80,000+/month.
 - Manage the entire community ecosystem.
 
-**Quick Wins:**- Apply for community grants for gaming projects.
+**Quick Wins:**
+
+- Apply for community grants for gaming projects.
 - Lead a guild to earn game rewards and tips.
 - Offer consulting services.
 
@@ -106,7 +108,9 @@ To discover the latest community, support, and development roles within the Phil
 **Months 19-20: Game Director/CTO**- Assume leadership of the entire game development team or founding team.
 - **Expected Compensation:** PHP 150,000 - 300,000+/month plus equity.
 
-**Quick Wins:**- Participate in game hackathons with prize pools.
+**Quick Wins:**
+
+- Participate in game hackathons with prize pools.
 - Seek grants for game development.
 - Offer consulting on game tokenomics.
 
@@ -129,7 +133,9 @@ To discover the latest community, support, and development roles within the Phil
 **Months 17-18: Co-Founder/Chief Economist**- Co-found a gaming studio or lead its game economics.
 - **Expected Compensation:** PHP 120,000 - 300,000/month plus equity.
 
-**Quick Wins:**- Offer game advisory services.
+**Quick Wins:**
+
+- Offer game advisory services.
 - Provide tokenomics consulting.
 - Speak at gaming conferences.
 
@@ -162,35 +168,49 @@ The Philippines presents a unique opportunity for talent in GameFi:
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Determine your career path (community, developer, or economist).
+**Week 1-2:**
+
+- [ ] Determine your career path (community, developer, or economist).
 - [ ] Establish profiles on GitHub, Twitter, and Discord.
 - [ ] Join 3-5 major Web3 gaming projects.
 - [ ] Start gaming by playing 2-3 top P2E titles.
 
-**Week 3-4:**- [ ] Complete foundational game development courses if pursuing a developer path.
+**Week 3-4:**
+
+- [ ] Complete foundational game development courses if pursuing a developer path.
 - [ ] Analyze 5 P2E games in-depth (focusing on mechanics and tokenomics).
 - [ ] Connect with over 30 Filipino gamers, developers, and guild leaders.
 - [ ] Actively engage in Discord communities.
 
-**Week 5-6:**- [ ] Create your first artifact: a game prototype, analysis article, or community initiative.
+**Week 5-6:**
+
+- [ ] Create your first artifact: a game prototype, analysis article, or community initiative.
 - [ ] Publish an article analyzing P2E trends.
 - [ ] Volunteer to assist 2-3 gaming projects.
 - [ ] Organize a local meetup or online event.
 
-**Week 7-8:**- [ ] Refine your second artifact for better quality.
+**Week 7-8:**
+
+- [ ] Refine your second artifact for better quality.
 - [ ] Apply for 5 community or developer roles.
 - [ ] Arrange five coffee meetings with industry leaders.
 - [ ] Publish a technical deep dive.
 
-**Week 9-10:**- [ ] Secure one paid opportunity (community, consulting, or role).
+**Week 9-10:**
+
+- [ ] Secure one paid opportunity (community, consulting, or role).
 - [ ] Grow your Twitter followers to 1,000+ within the gaming community.
 - [ ] Plan your next three months.
 
-**Week 11-12:**- [ ] Aim for one full-time role or significant consulting opportunity.
+**Week 11-12:**
+
+- [ ] Aim for one full-time role or significant consulting opportunity.
 - [ ] Reflect on your experiences as "3 Months in Philippine GameFi."
 - [ ] Prepare for the next phase of your career.
 
-**Expected Outputs After 90 Days:**- 2-3 projects/articles/initiatives on GitHub or a personal blog.
+**Expected Outputs After 90 Days:**
+
+- 2-3 projects/articles/initiatives on GitHub or a personal blog.
 - 1,000+ followers on social media.
 - A strong network in gaming and Web3.
 - At least one paid opportunity.

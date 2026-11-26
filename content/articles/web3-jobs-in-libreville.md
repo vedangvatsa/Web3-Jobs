@@ -89,7 +89,9 @@ While Libreville's cost of living is generally higher than many other African ci
 
 4. **Months 16-18: Establish Thought Leadership**- Publish research reports and consult with Central African governments on blockchain carbon accounting.
 
-**Quick Wins:**- Write analyses on top ReFi projects to gain visibility.
+**Quick Wins:**
+
+- Write analyses on top ReFi projects to gain visibility.
 - Participate in bug bounties for ReFi protocols.
 
 ### Path 2: Impact Investment / ReFi DAO Operator (Climate Finance Focus) (8-16 Month Timeline)
@@ -103,7 +105,9 @@ While Libreville's cost of living is generally higher than many other African ci
 
 4. **Months 11-16: Scale Impact**- Deploy capital to fund various environmental projects and track their impact metrics.
 
-**Quick Wins:**- Serve as an advisor for ReFi startups.
+**Quick Wins:**
+
+- Serve as an advisor for ReFi startups.
 
 ### Path 3: ReFi Data Scientist & MRV Specialist (8-14 Month Timeline)
 
@@ -115,7 +119,9 @@ While Libreville's cost of living is generally higher than many other African ci
 
 4. **Months 13-14: Secure a Senior Data Role**- Expect offers aligned with market standards.
 
-**Quick Wins:**- Participate in competitions focused on environmental data.
+**Quick Wins:**
+
+- Participate in competitions focused on environmental data.
 
 ## Challenges and Solutions
 

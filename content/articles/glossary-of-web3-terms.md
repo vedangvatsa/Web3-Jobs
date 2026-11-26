@@ -311,11 +311,15 @@ Mathematical proof that code meets a spec for certain properties. It is strong b
 
 ## Trade-offs: what learning the jargon helps with and where it can mislead
 
-**Where it helps:**- You read listings accurately and match your skills to what a team actually needs.
+**Where it helps:**
+
+- You read listings accurately and match your skills to what a team actually needs.
 - You ask sharper questions about security, fees, and data assumptions.
 - You ship faster by choosing the right stack: L2 vs sidechain, oracle vs manual feed, ERC-20 vs ERC-721.
 
-**Where it can mislead:**- Terms sound more definite than they are. TVL, APY, and TPS depend on method and time window.
+**Where it can mislead:**
+
+- Terms sound more definite than they are. TVL, APY, and TPS depend on method and time window.
 - Naming overlaps. "Bridge" and "rollup bridge" imply different trust models. "Staking" on a chain vs "staking" in a DeFi app are not the same action.
 - Knowing a word is not the same as handling failure. Gas spikes, oracle downtime, and bridge pauses are operational facts even when definitions look clean.
 

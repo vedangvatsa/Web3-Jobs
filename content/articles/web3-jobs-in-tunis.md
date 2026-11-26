@@ -79,7 +79,9 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 **Months 15-18: Establish Thought Leadership**- Become recognized as a top DeFi developer.
 - Pursue senior engineer or tech lead roles with higher-end compensation.
 
-**Quick Wins:**- Identify security vulnerabilities on Immunefi; earn competitive bounties.
+**Quick Wins:**
+
+- Identify security vulnerabilities on Immunefi; earn competitive bounties.
 - Publish a viral Twitter thread on "The 10 Most Critical DeFi Security Flaws."
 
 #### Path 2: Full-Stack Web3 Engineer (Frontend + Smart Contracts) (8-14 Month Timeline)
@@ -104,7 +106,9 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 
 **Expected Compensation:** Competitive salary.
 
-**Quick Wins:**- Create an open-source Web3 UI library and attract sponsorship from major protocols.
+**Quick Wins:**
+
+- Create an open-source Web3 UI library and attract sponsorship from major protocols.
 
 #### Path 3: Protocol Engineer & Core Infrastructure Specialist (12-20 Month Timeline)
 
@@ -124,7 +128,9 @@ The job market for Tunisian Web3 professionals primarily targets global and remo
 
 **Months 19-20: Achieve Thought Leadership**- Gain recognition as a core protocol engineer.
 
-**Quick Wins:**- Report bugs in major Layer 2 projects and earn competitive bounties.
+**Quick Wins:**
+
+- Report bugs in major Layer 2 projects and earn competitive bounties.
 
 ### Challenges & Solutions
 
@@ -142,36 +148,50 @@ Top Web3 positions often require fluency in English. Improve your language skill
 
 ### 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- Set up professional GitHub, Twitter, and LinkedIn profiles.
+**Week 1-2:**
+
+- Set up professional GitHub, Twitter, and LinkedIn profiles.
 - Enroll in Alchemy University and CryptoZombies.
 - Join five Solidity/Web3 Discord communities and participate actively.
 - Start tweeting three times a week about your learning progress.
 
-**Week 3-4:**- Complete the first two modules of Alchemy and deploy testnet contracts.
+**Week 3-4:**
+
+- Complete the first two modules of Alchemy and deploy testnet contracts.
 - Finish CryptoZombies and solidify your understanding of Solidity.
 - Publish your first article titled "Why Tunisian Developers Should Learn Web3."
 - Network with 30 Web3 developers on Twitter and LinkedIn.
 
-**Week 5-6:**- Build and deploy your first mainnet project on Polygon or Optimism.
+**Week 5-6:**
+
+- Build and deploy your first mainnet project on Polygon or Optimism.
 - Publish a second article with a deep technical dive on Solidity.
 - Apply to ten entry-level Web3 roles with customized applications.
 - Begin your first competitive audit on Code4rena.
 
-**Week 7-8:**- Create a second, more complex project (AMM, lending, NFT).
+**Week 7-8:**
+
+- Create a second, more complex project (AMM, lending, NFT).
 - Publish a technical Twitter thread detailing your project.
 - Join Upwork and apply for five smart contract development gigs.
 - Conduct informational interviews with five contacts you reached out to.
 
-**Week 9-10:**- Publish a third article focused on technical research or market analysis.
+**Week 9-10:**
+
+- Publish a third article focused on technical research or market analysis.
 - Complete your first Code4rena audit and submit your findings.
 - Aim for one paid Upwork contract, targeting competitive compensation.
 - Attend two online Web3 events and ask insightful questions.
 
-**Week 11-12:**- Contribute to an open-source project with the goal of one merged PR.
+**Week 11-12:**
+
+- Contribute to an open-source project with the goal of one merged PR.
 - Ship your third project, ensuring high code quality and documentation.
 - Target achieving 1,000+ Twitter followers.
 - Aim for 1-2 serious job interviews scheduled.
-- Reflect on your journey with a publication titled "3 Months in Web3: My Journey."**Outputs after 90 days:**- 3-4 deployed projects on GitHub.
+- Reflect on your journey with a publication titled "3 Months in Web3: My Journey."**Outputs after 90 days:**
+
+- 3-4 deployed projects on GitHub.
 - 3 published technical articles.
 - 1-2 paid contracts ranging from competitive compensation.
 - 1 Code4rena audit submitted.
@@ -241,7 +261,7 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Learning Platforms**
 
-- **Alchemy University:**A leading free Web3 development course.
+- **Alchemy University:** A leading free Web3 development course.
 - **CryptoZombies:** Interactive Solidity tutorials.
 - **OpenZeppelin:** Resources on smart contract security.
 - **Chainlink Documentation:** Advanced DeFi knowledge.
@@ -249,7 +269,7 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Communities & Networking**
 
-- **Twitter:**Follow influential figures in the Web3 space.
+- **Twitter:** Follow influential figures in the Web3 space.
 - **Discord:** Join channels for Ethereum, Aave, and other major protocols.
 - **Local Meetups:** Create or join a "Tunis Web3 Developers" group.
 - **Conferences:** Attend events like EthDubai and EthCC.
@@ -262,7 +282,7 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 
 **Hands-On Practice**
 
-- **Code4rena:**Participate in smart contract audits.
+- **Code4rena:** Participate in smart contract audits.
 - **Immunefi:** Report security vulnerabilities for bounties.
 - **EthGlobal Hackathons:** Compete, build, and network.
 

@@ -45,7 +45,7 @@ The job market for Argentinian talent operates on a global scale. Although local
 
 3. **Engage with the Buenos Aires Tech Community:**
 
-- **Attend Meetups:**Participate in frequent developer and community gatherings in Buenos Aires.
+- **Attend Meetups:** Participate in frequent developer and community gatherings in Buenos Aires.
  - **Join Major Conferences:** Engage in events like ETHLatam and other significant regional conferences. The local network is tight-knit, making personal connections essential.
 
 4. **Target Remote-First Global Companies:** Many of the best opportunities for Argentinian talent arise from international, remote-first companies eager to hire top talent. Position yourself as a top-tier engineer ready to compete globally. Fluency in English is a requirement for these roles.
@@ -88,7 +88,9 @@ To find the latest remote and local job openings in Argentina's strong Web3 ecos
 **Months 19-20: Transition to Expert/Founding Role**- Aim for chief architect or founding engineer positions.
 - **Expected Compensation:** Competitive plus equity or grants.
 
-**Quick Wins:**- Code4rena audits can yield competitive rewards.
+**Quick Wins:**
+
+- Code4rena audits can yield competitive rewards.
 - Bug bounties offer significant compensation per vulnerability.
 - Consulting roles can pay competitively.
 
@@ -110,7 +112,9 @@ To find the latest remote and local job openings in Argentina's strong Web3 ecos
 **Months 19-24: Lead Protocol Initiatives**- Take charge of protocol development or research projects.
 - **Expected Compensation:** Competitive plus grants.
 
-**Quick Wins:**- Obtain protocol grants.
+**Quick Wins:**
+
+- Obtain protocol grants.
 - Speaking engagements at conferences can yield visibility.
 - Research funding can vary.
 
@@ -133,21 +137,29 @@ To find the latest remote and local job openings in Argentina's strong Web3 ecos
 **Months 21-24: Assume Leadership Role**- Lead the funded company as CEO or CTO.
 - **Expected Compensation:** Competitive plus equity.
 
-**Quick Wins:**- Accelerator programs can provide funding.
+**Quick Wins:**
+
+- Accelerator programs can provide funding.
 - Grants can vary.
 - Angel investors may contribute.
 
 ## Why Argentina Stands Out
 
-**Global Talent Hub:**- Home to OpenZeppelin, Decentraland, and many esteemed developers.
+**Global Talent Hub:**
+
+- Home to OpenZeppelin, Decentraland, and many esteemed developers.
 - A proven track record of successful founders with exits and expertise in the field.
 - Cost-effective talent that remains productive at a lower cost than in many other regions.
 
-**Real-World Application:**- In Argentina, cryptocurrency is not speculative; it serves as a necessity amid capital controls and inflation.
+**Real-World Application:**
+
+- In Argentina, cryptocurrency is not speculative; it serves as a necessity amid capital controls and inflation.
 - Developers possess a deep understanding of the technology's value.
 - A mature market driven by passion and necessity.
 
-**Technical Excellence:**- Buenos Aires has a hacker culture focused on collaboration.
+**Technical Excellence:**
+
+- Buenos Aires has a hacker culture focused on collaboration.
 - A strong tradition of mathematics and engineering supports tech development.
 - An ethos committed to open-source collaboration builds innovation.
 
@@ -171,35 +183,49 @@ To find the latest remote and local job openings in Argentina's strong Web3 ecos
 
 ## 90-Day Action Plan for Quick Success
 
-**Weeks 1-2:**- [ ] Determine your career path (developer, researcher, or founder).
+**Weeks 1-2:**
+
+- [ ] Determine your career path (developer, researcher, or founder).
 - [ ] Evaluate your current expertise and GitHub portfolio.
 - [ ] Establish your GitHub, Twitter, and email accounts.
 - [ ] Enroll in Solidity fundamentals courses (e.g., Alchemy).
 
-**Weeks 3-4:**- [ ] Complete blockchain fundamentals training.
+**Weeks 3-4:**
+
+- [ ] Complete blockchain fundamentals training.
 - [ ] Deploy your first smart contract on a testnet.
 - [ ] Study OpenZeppelin code and three leading protocols.
 - [ ] Connect with over 20 Argentinian developers.
 
-**Weeks 5-6:**- [ ] Build your first project and make it publicly available on GitHub.
+**Weeks 5-6:**
+
+- [ ] Build your first project and make it publicly available on GitHub.
 - [ ] Publish one technical article.
 - [ ] Participate in Code4rena or a similar competition.
 - [ ] Contribute one pull request to an open-source protocol.
 
-**Weeks 7-8:**- [ ] Build a more complex second project.
+**Weeks 7-8:**
+
+- [ ] Build a more complex second project.
 - [ ] Participate in a hackathon or contest.
 - [ ] Arrange five coffee chats with developers for networking.
 - [ ] Apply for five remote Web3 roles.
 
-**Weeks 9-10:**- [ ] Secure one consulting or freelance role.
+**Weeks 9-10:**
+
+- [ ] Secure one consulting or freelance role.
 - [ ] Grow your Twitter following.
 - [ ] Develop a plan for the next three months.
 
-**Weeks 11-12:**- [ ] Aim to secure one full-time role or funding.
+**Weeks 11-12:**
+
+- [ ] Aim to secure one full-time role or funding.
 - [ ] Reflect on your progress with a document titled "Three Months Building Web3 in Argentina."
 - [ ] Outline your next steps.
 
-**Expected Outputs after 90 Days:**- 3+ projects showcased on GitHub.
+**Expected Outputs after 90 Days:**
+
+- 3+ projects showcased on GitHub.
 - 2+ published articles.
 - Participation in at least one Code4rena or hackathon event.
 - One job or consulting opportunity.

@@ -73,9 +73,11 @@ If you are a developer, consider contributing to an open-source project. Writers
 
 ### Step 7: Plan Your Return
 
-As your sabbatical nears its conclusion, start preparing for your return to work.**Update Your [Resume](/how-to-build-a-web3-resume-that-stands-out) and LinkedIn Profile.
+As your sabbatical nears its conclusion, start preparing for your return to work.
 
-**Reflect the new skills and experiences gained during your sabbatical.** Start Networking.
+**Update Your [Resume](/how-to-build-a-web3-resume-that-stands-out) and LinkedIn Profile:** Reflect the new skills and experiences gained during your sabbatical.
+
+**Start Networking:** Reach out to previous colleagues, recruiters, and contacts.
 
 **Inform your professional contacts that you will soon resume your job search.** Practice Your Narrative.
 
@@ -91,6 +93,8 @@ To determine your financial readiness, ensure you have sufficient savings to cov
 
 #### Is it more advantageous to take one long sabbatical or multiple shorter breaks?
 
-The choice between a long sabbatical and several shorter breaks depends on your personal goals. A lengthy sabbatical allows for immersive experiences like extensive travel or deep learning. In contrast, shorter breaks, often termed "mini-sabbaticals," can be easier to finance and less new to your career trajectory.**Will a sabbatical negatively impact my future job prospects?**
+The choice between a long sabbatical and several shorter breaks depends on your personal goals. A lengthy sabbatical allows for immersive experiences like extensive travel or deep learning. In contrast, shorter breaks, often termed "mini-sabbaticals," can be easier to finance and less new to your career trajectory.
+
+**Will a sabbatical negatively impact my future job prospects?**
 
 A well-planned sabbatical can actually enhance your job prospects. If you can articulate the skills and insights you gained, many employers will regard the sabbatical as a sign of initiative and self-awareness.

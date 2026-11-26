@@ -26,7 +26,9 @@ How do you handle payroll when your team spans the globe? What's your backup pla
 
 They partner with global employment platforms (like Deel, Remote.com, or Guidepoint) to handle international payroll and compliance. Many Web3 companies also use crypto payments (stablecoins) for a portion of compensation, which simplify cross-border payments and reduces currency conversion costs. But this introduces new complexity: employees need to understand how to receive crypto, convert it if needed, and handle the tax implications.
 
-**Best Practices:**- Create asynchronous handbooks and documentation for everything
+**Best Practices:**
+
+- Create asynchronous handbooks and documentation for everything
 - Establish "office hours" that rotate so people in all time zones can access leadership
 - Use video for relationship-building despite async communication
 - Partner with specialized global payroll providers who understand crypto
@@ -55,7 +57,9 @@ They work with crypto-specialized accounting firms to ensure tax compliance. The
 
 Many Web3 HR leaders also advocate for better token design that reduces tax complexity and improves employee experience. Some projects are experimenting with holding the tokens in trust or other structures to defer taxable events.
 
-**Best Practices:**- Create detailed compensation guides that explain token economics in plain language
+**Best Practices:**
+
+- Create detailed compensation guides that explain token economics in plain language
 - Partner with crypto tax professionals who can advise employees
 - Be transparent about token volatility and realistic value
 - Structure token grants with vesting that rewards long-term contribution
@@ -77,7 +81,9 @@ Onboarding is different: instead of HR sending a welcome package, the DAO provid
 
 Retention comes from community belonging, meaningful work, and clear paths to increased compensation and responsibility.
 
-**Best Practices:**- Create a clear bounty/contribution ladder from entry-level to significant projects
+**Best Practices:**
+
+- Create a clear bounty/contribution ladder from entry-level to significant projects
 - Use platforms that track contributions and build reputation transparently
 - Focus onboarding on community and mission, not company policy
 - Create clear channels for contributors to propose work and get funding

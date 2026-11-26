@@ -83,7 +83,9 @@ Explore opportunities in one of the world's most dynamic GameFi hubs by visiting
 **Months 19-24: Creative Lead or Founder**- Take on a creative director role or co-found a new venture.
 - **Expected Compensation:** Competitive.
 
-**Quick Wins:**- Participate in game hackathons with prizes.
+**Quick Wins:**
+
+- Participate in game hackathons with prizes.
 - Apply for studio grants.
 - Generate NFT revenue, earning a percentage of game profits.
 
@@ -103,7 +105,9 @@ Explore opportunities in one of the world's most dynamic GameFi hubs by visiting
 - Expected Salary: Competitive.
 - Build an ecosystem of sub-guilds.
 
-**Quick Wins:**- Earn a percentage of member rewards through a shared model.
+**Quick Wins:**
+
+- Earn a percentage of member rewards through a shared model.
 - Offer consulting services.
 - Speak at events with fees.
 
@@ -125,21 +129,29 @@ Explore opportunities in one of the world's most dynamic GameFi hubs by visiting
 **Months 19-20: Become an Architect or Co-Founder**- Assume the role of chief architect or co-founder.
 - **Expected Compensation:** Competitive.
 
-**Quick Wins:**- Perform contract audits.
+**Quick Wins:**
+
+- Perform contract audits.
 - Offer consulting services.
 - Earn bug bounties.
 
 ## Why Choose Vietnam for GameFi?
 
-**Gaming Heritage:**- The success of Axie Infinity serves as a strong proof of concept.
+**Gaming Heritage:**
+
+- The success of Axie Infinity serves as a strong proof of concept.
 - Vietnam has a deep-rooted traditional gaming culture.
 - The country boasts a pool of experienced game developers and a young, game-savvy population.
 
-**Community Strength:**- Vietnam has a massive, active player base.
+**Community Strength:**
+
+- Vietnam has a massive, active player base.
 - The guild ecosystem is sophisticated and resilient.
 - Strong community management expertise exists within Ho Chi Minh City's tech hub.
 
-**Talent Arbitrage:**- USD-paid roles combined with a low cost of living create an attractive environment.
+**Talent Arbitrage:**
+
+- USD-paid roles combined with a low cost of living create an attractive environment.
 - Affordable team-building opportunities are available.
 - High motivation and skill levels are prevalent among local professionals.
 
@@ -191,7 +203,9 @@ Explore opportunities in one of the world's most dynamic GameFi hubs by visiting
 - [ ] Reflect on your first three months in Vietnam's GameFi sector.
 - [ ] Plan your next career phase.
 
-**Expected Outcomes After 90 Days:**- Develop projects showcased on GitHub.
+**Expected Outcomes After 90 Days:**
+
+- Develop projects showcased on GitHub.
 - Publish articles in relevant domains.
 - Build a strong network within the gaming sector.
 - Secure at least one paid opportunity.

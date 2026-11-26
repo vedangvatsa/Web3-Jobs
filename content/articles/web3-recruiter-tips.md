@@ -29,7 +29,9 @@ Describe the specific event or idea that inspired you to pursue a career in Web3
 **Your contributions on [GitHub](/building-web3-portfolio), on-chain activities, public writing, or involvement in [DAOs](/what-is-a-dao) serve as evidence of your commitment. These aspects often hold more weight than your traditional [resume](/how-to-build-a-web3-resume-that-stands-out).
 - **Engage with insightful questions.
 
-**An [interview](/how-to-prepare-for-job-interview) is a two-way conversation. Asking detailed questions about a project's tokenomics, governance structure, or security measures indicates critical thinking and genuine interest.** Common red flags include:**- Lack of personal projects or public engagement in the space.
+**An [interview](/how-to-prepare-for-job-interview) is a two-way conversation. Asking detailed questions about a project's tokenomics, governance structure, or security measures indicates critical thinking and genuine interest.** Common red flags include:**
+
+- Lack of personal projects or public engagement in the space.
 - Inability to explain Web3 concepts clearly.
 - An excessive focus on salary during initial discussions.
 

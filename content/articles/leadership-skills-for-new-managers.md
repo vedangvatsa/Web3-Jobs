@@ -87,7 +87,7 @@ Successful communication hinges on active listening. During one-on-one meetings,
 
 9. **Common Mistakes to Avoid**
 
-- **Micromanaging:**This behavior stifles autonomy and growth. Remedy it by trusting your team's processes and concentrating on outcomes.
+- **Micromanaging:** This behavior stifles autonomy and growth. Remedy it by trusting your team's processes and concentrating on outcomes.
  - **Ignoring feedback:** Neglecting feedback erodes trust and creates a disconnect. Schedule regular feedback sessions and act on the responses received.
  - **Over-committing:** This leads to burnout and unmet deadlines. Prioritize effectively and decline low-impact requests.
  - **Failing to set clear goals:** Lack of clear goals results in misalignment and frustration. Use frameworks like OKRs or SMART goals to ensure everyone is aligned.

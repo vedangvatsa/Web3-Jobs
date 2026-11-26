@@ -55,7 +55,9 @@ Understanding the salary space and cost of living is essential for professionals
 | Mid-Level Developer (1-3 years) | Varies | Varies |
 | Senior Developer (3+ years) | Varies | Varies |
 
-**Remote (International):**- Compensation from international Web3 companies varies widely.
+**Remote (International):**
+
+- Compensation from international Web3 companies varies widely.
 - Freelance rates typically fall within a broad range.
 
 **Cost of Living Analysis for Remote Workers:** For a developer earning a competitive salary remotely:

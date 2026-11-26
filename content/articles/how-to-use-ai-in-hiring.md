@@ -311,7 +311,9 @@ Not by default. Those platforms offer ATS and AI features, but compliance depend
 
 #### How do we explain an AI screen to a rejected candidate?
 
-Keep it specific. State the stage, the job-related criteria used, that a human reviewed the decision, and how to request a re-evaluation or an accommodation. Do not cite a proprietary score alone. Point to the public audit summary and your notice page for more detail.**What record should we keep for an audit?**
+Keep it specific. State the stage, the job-related criteria used, that a human reviewed the decision, and how to request a re-evaluation or an accommodation. Do not cite a proprietary score alone. Point to the public audit summary and your notice page for more detail.
+
+**What record should we keep for an audit?**
 Data period and requisitions covered, total applicants and counts by group including unknown, selection rates and impact ratios by race or ethnicity and sex, auditor name and independence statement, model version, criteria used, notices sent with dates, human overrules with reasons, and next audit date. Keep version history so you can show what changed and when.
 
 *Sources and further reading: EEOC Technical Assistance on Assessing Adverse Impact under Title VII, May 18, 2023 and ADA guidance May 2022; NYC DCWP Automated Employment Decision Tools page and Rule and FAQ; 820 ILCS 42 Artificial Intelligence Video Interview Act and 775 ILCS 5/2-102 as amended by HB 3773; Maryland Labor and Employment Sec. 3-717; Colorado SB 24-205; Regulation (EU) 2024/1689 Annex III point 4 and Articles 5, 9 to 15, 26, 50, 99 on EUR-Lex; NIST AI Risk Management Framework 1.0 January 26, 2023 and Generative AI Profile NIST AI 600-1 July 2024 at nist.gov; SHRM Talent Trends February 2025 and March 2026 reports; Pew Research Center April 20, 2023 and 2025 to 2026 updates; HireVue Global Guide to AI in Hiring February 2025; LinkedIn Future of Recruiting 2025.*

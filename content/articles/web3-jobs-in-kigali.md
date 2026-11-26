@@ -59,7 +59,9 @@ The Web3 job market in Kigali is in its infancy but is expected to grow rapidly 
 - **Business Development**: RWF 2,000,000 - 4,000,000/month
 - **Enterprise Solutions Architect**: RWF 3,500,000 - 5,500,000+/month
 
-**Remote Opportunities:**- International Web3 companies: significant monthly compensation
+**Remote Opportunities:**
+
+- International Web3 companies: significant monthly compensation
 - Consulting: competitive hourly rates
 
 **Cost of Living Insights** A developer earning a competitive salary can expect the following expenses:

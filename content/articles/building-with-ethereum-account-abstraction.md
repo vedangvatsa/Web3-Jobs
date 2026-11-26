@@ -140,9 +140,9 @@ const hash = await bundlerClient.sendUserOperation({
 
 **A dapp can run a verifying paymaster that checks an API signature and sponsors onboarding transactions up to a budget. Or it can run an ERC-20 paymaster that pulls USDC from the user. With Pimlico the client sets `paymasterContext: { token: USDC }` and adds an approve for the paymaster in the same batch. The paymaster pre-charges the maximum cost based on oracle prices then refunds the excess in `postOp`. OpenZeppelin documents the pattern with a Chainlink ETH/USD and token/USD feed.
 
-For addresses, do not hardcode demo values for production. Read the paymaster address from your provider per chain.**Recovery and key rotation.
+For addresses, do not hardcode demo values for production. Read the paymaster address from your provider per chain.
 
-**Instead of a single seed phrase you register guardians. Safe with the Candide Social Recovery Module is a common setup. You enable the module and add guardians in one UserOperation, then a threshold of guardians can rotate the owner after a timelock.
+**Recovery and key rotation:** Instead of a single seed phrase you register guardians. Safe with the Candide Social Recovery Module is a common setup. You enable the module and add guardians in one UserOperation, then a threshold of guardians can rotate the owner after a timelock.
 
 Typical 2-of-3 setup: you list two family wallets and one hardware wallet, set threshold 2, and choose a delay such as 48 hours for Argent or 3 days for the Candide module. If you lose your phone, guardians sign a recovery proposal with EIP-712, the contract starts the timelock, the current owner can cancel if they still have access, and after the window anyone can finalize the rotation.
 

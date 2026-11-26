@@ -233,7 +233,9 @@ Yes, if your reply was professional and the new role is a genuine fit. Many Web3
 
 #### Will asking for feedback hurt my chances for a future role?
 
-No, when phrased as a low-pressure, optional ask. Hiring managers who are willing to help respond. Those who cannot, due to policy or bandwidth, simply do not reply. One polite request is treated as professionalism. Two or more follow-ups on the same request start to feel like pressure and can work against you.**How do I stay motivated after a streak of rejections?**
+No, when phrased as a low-pressure, optional ask. Hiring managers who are willing to help respond. Those who cannot, due to policy or bandwidth, simply do not reply. One polite request is treated as professionalism. Two or more follow-ups on the same request start to feel like pressure and can work against you.
+
+**How do I stay motivated after a streak of rejections?**
 
 Separate the two jobs: managing emotion and managing the search. For emotion, use the APA levers: stay connected to people outside the search, keep one daily movement and sleep routine, and practice a brief daily reflection that is not about jobs. For the search, set a small weekly system you can control: number of tailored applications, number of outreach messages, and one artifact improved. Celebrate inputs you control, like interviews completed and recruiter replies, not only offers.
 

@@ -211,5 +211,7 @@ No. An audit reduces the chance of generic bugs and shows a team paid for review
 
 #### What is impermanent loss in one sentence?
 
-It is the shortfall you get when the value of your share in a two-asset pool ends up less than the value of simply holding the two tokens outside the pool because prices moved apart while you were deposited.**Is DeFi regulated?**
+It is the shortfall you get when the value of your share in a two-asset pool ends up less than the value of simply holding the two tokens outside the pool because prices moved apart while you were deposited.
+
+**Is DeFi regulated?**
 Partially and unevenly. Smart contracts themselves are permissionless, but stablecoin issuers, front ends, and fiat on-ramps often face securities, lending, or anti-money laundering rules. Frameworks like MiCA in the EU and proposed stablecoin bills in the US are shaping what issuers and custodians must do, which affects which assets and interfaces are available in your region.

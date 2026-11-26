@@ -75,7 +75,9 @@ However, interest from enterprises and government sectors is increasing:
 
 **The Opportunity:** There is a strong demand for professionals capable of designing and implementing blockchain solutions in logistics and trade finance. Expertise in enterprise platforms like Hyperledger Fabric is highly sought after.
 
-**Role Description:**- Design blockchain systems for port operations
+**Role Description:**
+
+- Design blockchain systems for port operations
 - Implement smart contracts for automating trade finance
 - Ensure compliance with international maritime regulations
 - Collaborate with customs authorities and port operators
@@ -83,11 +85,13 @@ However, interest from enterprises and government sectors is increasing:
 
 **Compensation:**
 
-- **Local Hire (Djibouti-based):**Competitive annual salary
+- **Local Hire (Djibouti-based):** Competitive annual salary
 - **International Consultant/Senior Developer:** Project-based contracts often exceed typical rates for multi-month engagements
 - **Typical Structure:** Short-term pilot projects (3-6 months) rather than permanent roles
 
-**Required Skills:**- Proficiency in Hyperledger Fabric or similar frameworks
+**Required Skills:**
+
+- Proficiency in Hyperledger Fabric or similar frameworks
 - Smart contract development
 - Understanding of trade finance workflows
 - Knowledge of customs and maritime regulations
@@ -97,7 +101,9 @@ However, interest from enterprises and government sectors is increasing:
 
 **The Opportunity:** The most sought-after hire is someone already familiar with Djibouti's logistics ecosystem and eager to implement blockchain solutions.
 
-**Typical Background:**- 5+ years of experience in port operations, customs, or logistics
+**Typical Background:**
+
+- 5+ years of experience in port operations, customs, or logistics
 - Awareness of current challenges in maritime trade
 - Willingness to learn blockchain fundamentals
 
@@ -109,7 +115,9 @@ However, interest from enterprises and government sectors is increasing:
 
 **The Opportunity:** Product managers who grasp both trade finance and blockchain technology are essential for designing efficient solutions that digitize port operations.
 
-**Responsibilities:**- Map trade finance workflows to blockchain solutions
+**Responsibilities:**
+
+- Map trade finance workflows to blockchain solutions
 - Manage relationships with port authorities and banking partners
 - Design regulatory-compliant financial products
 - Oversee product launches in this emerging market
@@ -122,12 +130,16 @@ However, interest from enterprises and government sectors is increasing:
 
 **Salary Range:** Competitive annual salary, depending on experience and specialization
 
-**Advantages:**- Access to the global Web3 job market
+**Advantages:**
+
+- Access to the global Web3 job market
 - Opportunities to build a reputation in open-source communities
 - Higher earning potential compared to local-only roles
 - Freedom from geographic restrictions
 
-**Challenges:**- Internet reliability in Djibouti (although improving)
+**Challenges:**
+
+- Internet reliability in Djibouti (although improving)
 - Time zone differences with Western companies
 - Limited local Web3 community for support
 
@@ -144,7 +156,9 @@ However, interest from enterprises and government sectors is increasing:
 
 This process typically takes several days and involves multiple personnel from various agencies.
 
-**Blockchain Vision:**- Shippers submit digitized cargo information and certificates of origin via a blockchain interface
+**Blockchain Vision:**
+
+- Shippers submit digitized cargo information and certificates of origin via a blockchain interface
 - Smart contracts automatically verify documents against regulatory requirements
 - Tariff calculations execute automatically based on container contents
 - Payments settle instantly via tokenized currency
@@ -153,7 +167,9 @@ This process typically takes several days and involves multiple personnel from v
 
 **Result:** Processing time reduces significantly, eliminating corruption risks and cutting costs.
 
-**Jobs This Creates:**- Blockchain architects (design the system)
+**Jobs This Creates:**
+
+- Blockchain architects (design the system)
 - Smart contract developers (code automation)
 - Integration engineers (connect to existing port systems)
 - Regulatory specialists (ensure compliance)
@@ -170,7 +186,9 @@ This process typically takes several days and involves multiple personnel from v
 
 This process incurs banking fees based on the transaction value.
 
-**Blockchain Vision:**- The letter of credit is issued as a blockchain [token](/what-is-a-token).
+**Blockchain Vision:**
+
+- The letter of credit is issued as a blockchain [token](/what-is-a-token).
 - Smart contracts automatically verify shipping documents.
 - Upon delivery confirmation, payment settles automatically.
 - All parties (banks, exporters, importers, insurers) are visible on a shared ledger.
@@ -190,13 +208,17 @@ This process incurs banking fees based on the transaction value.
 
 This specialization aligns with Djibouti's unique advantages. Become an expert in how blockchain can transform logistics.
 
-**Concrete Actions:**- Study TradeLens (IBM/Maersk collaboration) and analyze its successes and challenges.
+**Concrete Actions:**
+
+- Study TradeLens (IBM/Maersk collaboration) and analyze its successes and challenges.
 - Research SWIFT's blockchain initiatives in trade finance.
 - Learn the workings of bills of lading (traditional maritime finance).
 - Understand HS codes, tariffs, and customs procedures.
 - Follow port industry news through sources like the Journal of Commerce, JOC, and FlexPort.
 
-**Project Ideas:**- Design a proof-of-concept blockchain system for the Port of Djibouti.
+**Project Ideas:**
+
+- Design a proof-of-concept blockchain system for the Port of Djibouti.
 - Analyze how specific trade routes (e.g., China to Ethiopia via Djibouti) could benefit from blockchain.
 - Model potential cost savings from eliminating intermediaries in a Djibouti export scenario.
 - Create a technical proposal for a blockchain trade finance system.
@@ -215,7 +237,9 @@ Focus your network on decision-makers within Djibouti's economy.
 - **National Chamber of Commerce**- Private sector.
 - **Port-related companies:** Maersk, MSC, CMA CGM (all operate in Djibouti).
 
-**Networking Tactics:**- Attend regional trade conferences (East Africa, Gulf regions).
+**Networking Tactics:**
+
+- Attend regional trade conferences (East Africa, Gulf regions).
 - Join online communities focused on port operations and shipping.
 - Publish articles about blockchain in maritime trade.
 - Reach out directly to DPFZA with specific proposals.
@@ -243,7 +267,9 @@ Opportunities in Djibouti center on B2B and government projects rather than cons
 4. **Port Operations**(container handling, logistics).
 5. **Regulatory Compliance**(AML/KYC for financial products).
 
-**How to Acquire These:**- Online: Take Hyperledger courses, edX, or Coursera for technical skills.
+**How to Acquire These:**
+
+- Online: Take Hyperledger courses, edX, or Coursera for technical skills.
 - Books: Read "Letters of Credit: A Complete Guide" (Cannon) and "Port Handbook" (various publishers).
 - Hands-on: Build proof-of-concept systems for port operations.
 - Networking: [Interview](/how-to-prepare-for-job-interview) professionals in shipping and port management.
@@ -260,13 +286,17 @@ The Web3 community is global; connect with the broader network while focusing on
 - **Blockchain supply chain conferences**- APEX, Blockchain Logistics Summit.
 - **Regional blockchain initiatives**- Arab Blockchain Association.
 
-**Online Participation:**- Join Discord servers focused on enterprise blockchain.
+**Online Participation:**
+
+- Join Discord servers focused on enterprise blockchain.
 - Contribute to open-source projects (such as Hyperledger).
 - Write and publish technical articles.
 - Attend virtual conferences and webinars.
 - Engage with relevant Twitter and LinkedIn communities.
 
-**In-Person Events:**- Attend Hyperledger conferences (annual gatherings).
+**In-Person Events:**
+
+- Attend Hyperledger conferences (annual gatherings).
 - Participate in trade finance conferences.
 - Join regional blockchain meetups (even remotely).
 - Attend port/logistics industry conferences.
@@ -283,7 +313,9 @@ The Web3 community is global; connect with the broader network while focusing on
 | Product Manager | 3+ years | Competitive |
 | International Consultant | Varies | Project-based |
 
-**Factors That Increase Salary:**- Hyperledger certification
+**Factors That Increase Salary:**
+
+- Hyperledger certification
 - Published research papers
 - Previous experience on similar projects
 - Fluency in English, French, and Arabic
@@ -296,7 +328,9 @@ For remote positions with international Web3 companies:
 - **Mid-Level:** Competitive
 - **Senior:** Competitive
 
-**Additional Compensation:**- Equity or token allocation (especially in startups)
+**Additional Compensation:**
+
+- Equity or token allocation (especially in startups)
 - Bonuses based on project completion
 - Professional development budgets
 - Support for conference attendance

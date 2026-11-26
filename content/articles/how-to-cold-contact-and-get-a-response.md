@@ -52,7 +52,7 @@ Use the following structure for your outreach message:
 2. **The "Value Nugget":** Your specific, insightful recommendation.
 3. **The "Soft Ask":** A low-pressure, open-ended question that invites dialogue.
 
-**Example of an Effective Cold DM**>**Subject:**Quick thought on AcmeFi staking flow
+**Example of an Effective Cold DM**>**Subject:** Quick thought on AcmeFi staking flow
 >
 > Hi [Founder's Name],
 >

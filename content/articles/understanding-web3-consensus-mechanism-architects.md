@@ -28,7 +28,9 @@ This is the
 
 **Byzantine Generals Problem**, formulated by Leslie Lamport in 1982. It's the foundational problem that all consensus mechanisms must solve.
 
-**In blockchain terms:**- Generals = Network nodes
+**In blockchain terms:**
+
+- Generals = Network nodes
 - Attack/Retreat = Transaction validity
 - Traitors = Malicious nodes or attackers
 - Messengers = Network communication
@@ -63,14 +65,16 @@ The harder challenge: What if multiple validators collude? What if there are net
 
 They design new consensus protocols or improve existing ones. This involves:**Exploring Different Models:**
 
-- **Proof-of-Work:**Solving computational puzzles to validate blocks (Bitcoin)
+- **Proof-of-Work:** Solving computational puzzles to validate blocks (Bitcoin)
 - **Proof-of-Stake:** Validators risk their own coins ([Ethereum](/what-is-ethereum) 2.0)
 - **Proof-of-Authority:** Designated validators (used in some private blockchains)
 - **Proof-of-History:** Proving that events occurred at specific times (Solana)
 - **Proof-of-Capacity:** Using hard drive space instead of computation (Chia)
 - **Hybrid Models:** Combining multiple approaches
 
-**Trade-off Analysis:**- Speed vs. Decentralization
+**Trade-off Analysis:**
+
+- Speed vs. Decentralization
 - Security vs. Efficiency
 - Finality time vs. Throughput
 
@@ -86,11 +90,15 @@ A consensus mechanism is ultimately a game. The architect must analyze all the s
 
 ### 3. Formal Verification and Modeling
 
-They use mathematical proofs and simulation to verify security properties:**Proofs:**- Can the system resist a 51% attack?
+They use mathematical proofs and simulation to verify security properties:**Proofs:**
+
+- Can the system resist a 51% attack?
 - Is there a path to finality (irreversible transactions)?
 - Can the system survive network partitions?
 
-**Simulation:**- Test the protocol against thousands of scenarios
+**Simulation:**
+
+- Test the protocol against thousands of scenarios
 - Model realistic network conditions (delays, packet loss)
 - Test for edge cases and failure modes
 
@@ -98,7 +106,9 @@ They use mathematical proofs and simulation to verify security properties:**Proo
 
 ### 4. Whitepaper Authoring
 
-They write detailed, academic-style whitepapers that describe the protocol's workings:**Typical Contents:**- Problem statement and motivation
+They write detailed, academic-style whitepapers that describe the protocol's workings:**Typical Contents:**
+
+- Problem statement and motivation
 - High-level protocol description
 - Detailed algorithm specification
 - Security analysis
@@ -113,7 +123,9 @@ See also:**[Account Abstraction Explained](account-abstraction-explained)**- How
 
 ### 1. Deep Expertise in Distributed Systems
 
-**Topics:**- Byzantine Fault Tolerance algorithms (PBFT, Tendermint, Hotstuff)
+**Topics:**
+
+- Byzantine Fault Tolerance algorithms (PBFT, Tendermint, Hotstuff)
 - Consensus algorithms (Paxos, Raft)
 - Network communication and synchronization
 - Handling asynchrony and network failures
@@ -123,7 +135,9 @@ See also:**[Account Abstraction Explained](account-abstraction-explained)**- How
 
 ### 2. Advanced Cryptography and Mathematics
 
-**Topics:**- Hash functions and their properties
+**Topics:**
+
+- Hash functions and their properties
 - Digital signatures
 - Merkle trees and proofs
 - Elliptic curve cryptography
@@ -135,7 +149,9 @@ See also:**[Account Abstraction Explained](account-abstraction-explained)**- How
 
 ### 3. Game Theory
 
-**Topics:**- Nash equilibrium
+**Topics:**
+
+- Nash equilibrium
 - Dominant strategies
 - Mechanism design
 - Incentive compatibility
@@ -148,7 +164,9 @@ Most professionals in this role have advanced degrees (Master's or PhD) in relat
 - Computer Science
 - Mathematics
 - Physics (some overlap with statistical mechanics)
-- Economics (for mechanism design) **What This Provides:**- Training in rigorous proof and analysis
+- Economics (for mechanism design) **What This Provides:**
+
+- Training in rigorous proof and analysis
 - Experience publishing peer-reviewed research
 - Familiarity with academic literature
 - Collaborative research experience
@@ -198,7 +216,9 @@ Related:**[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-rollu
 
 **Problem:** In pure PoS, validators have no cost to validating multiple forks. They could validate all forks simultaneously to maximize rewards.
 
-**Solutions:**- Slashing conditions: Validators lose stake for bad behavior
+**Solutions:**
+
+- Slashing conditions: Validators lose stake for bad behavior
 - Finality gadgets: Creating irreversible checkpoints
 - Hybrid approaches: Combining PoS with other mechanisms
 
@@ -206,7 +226,9 @@ Related:**[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-rollu
 
 **Problem:** An attacker with historical stake could potentially rewrite history if they accumulate enough old stake.
 
-**Solutions:**- Weak subjectivity: Require clients to periodically validate recent history
+**Solutions:**
+
+- Weak subjectivity: Require clients to periodically validate recent history
 - State rent: Making it costly to hold old stake
 - Proof-of-work backups: Use PoW as a finality layer
 
@@ -214,7 +236,9 @@ Related:**[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-rollu
 
 **Problem:** Large validators (or mining pools) can accumulate disproportionate power.
 
-**Solutions:**- Incentivizing smaller validators
+**Solutions:**
+
+- Incentivizing smaller validators
 - Limiting validator power
 - Economic mechanisms making it profitable to decentralize
 - Social consensus on validator selection
@@ -223,7 +247,9 @@ Related:**[A Deep Dive into Rollups for Ethereum Scaling](a-deep-dive-into-rollu
 
 **Problem:** Proof-of-Work consumes enormous energy.
 
-**Solutions:**- Proof-of-Stake (Ethereum's solution)
+**Solutions:**
+
+- Proof-of-Stake (Ethereum's solution)
 - Proof-of-Work optimizations
 - Layer-2 solutions reducing on-chain computation
 
@@ -235,7 +261,9 @@ Work for Ethereum, Solana, Polygon, or other Layer-1s on core consensus improvem
 
 **Salary:** Varies significantly depending on experience and location
 
-**Requirements:**- PhD or Master's in CS/Math
+**Requirements:**
+
+- PhD or Master's in CS/Math
 - Published research papers
 - Deep consensus knowledge
 
@@ -308,7 +336,9 @@ Working correctly even when network timing assumptions fail.
 
 Designing incentives that actually work long-term.
 
-**Challenges:**- Validator economics
+**Challenges:**
+
+- Validator economics
 - Reward sustainability
 - Reducing centralization
 

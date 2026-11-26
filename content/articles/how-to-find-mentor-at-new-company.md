@@ -47,7 +47,9 @@ See also: [First 90 Days in a New Job Strategy](first-90-days-in-new-job-strateg
 
 ### Pros and Cons of Finding a Mentor Early
 
-**What a mentor can do:**- Explain context that docs do not cover, such as how decisions are made, who needs to be consulted, and which norms are flexible
+**What a mentor can do:**
+
+- Explain context that docs do not cover, such as how decisions are made, who needs to be consulted, and which norms are flexible
 - Help you avoid common early mistakes, like proposing changes before you understand why a process exists
 - Connect you to people outside your immediate team, which widens your network when you need help
 - Offer candid feedback without the weight of a performance rating
@@ -55,7 +57,9 @@ See also: [First 90 Days in a New Job Strategy](first-90-days-in-new-job-strateg
 
 Evidence for benefits is consistent but modest. A multidisciplinary meta-analysis that compared mentored and non-mentored individuals across youth, academic, and workplace studies found favorable links to behavioral, attitudinal, and career outcomes, but effect sizes were generally small (Eby et al., 2008). A Harvard Business Review Analytic Services survey of 665 business leaders sponsored by Torch in 2023 found that 40% of organizations saw better retention for employees who received coaching or mentoring. New hires with support during onboarding also report higher satisfaction in several employer surveys. These results point in the same direction, even if no single study proves causation.
 
-**Limits and trade-offs:**- A mentor does not replace your manager. They cannot set your goals or influence your review directly unless they also advocate for you.
+**Limits and trade-offs:**
+
+- A mentor does not replace your manager. They cannot set your goals or influence your review directly unless they also advocate for you.
 - Time is limited. Senior people often mentor several people or have no capacity. Expect to contact more than one person.
 - Advice is personal. What worked for them in one team or market may not fit your role.
 - Chemistry matters. A good resume does not guarantee a good mentoring fit.

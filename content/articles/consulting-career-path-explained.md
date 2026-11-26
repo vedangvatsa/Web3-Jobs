@@ -21,7 +21,9 @@ This article outlines the consulting career ladder, detailing the journey from a
 The Analyst role serves as the entry-level position for recent graduates, typically lasting two to three years. This role functions as a foundational training program in consulting fundamentals.
 
 - **Primary Role:** Data collection and analysis. Analysts form the engine of the project team.
-- **Key Responsibilities:**- Conducting market research and gathering relevant data.
+- **Key Responsibilities:**
+
+- Conducting market research and gathering relevant data.
  - Building financial models and analyzing data in Excel.
  - Creating presentations in PowerPoint.
  - Documenting notes during client meetings and interviews.
@@ -36,7 +38,9 @@ After two to three years, top-performing Analysts either advance to the next lev
 Consultants typically occupy this post-MBA or post-promotion level. This role marks a shift from pure analysis to managing specific project components and client relationships.
 
 - **Primary Role:** Leading a specific "workstream" within the project.
-- **Key Responsibilities:**- Structuring problems for the workstream and developing analysis plans.
+- **Key Responsibilities:**
+
+- Structuring problems for the workstream and developing analysis plans.
  - Managing Analysts working on the workstream, guiding their analysis and reviewing their outputs.
  - Presenting findings for the workstream to the client.
  - Building relationships with client counterparts at the managerial level.
@@ -49,7 +53,9 @@ Consultants typically occupy this post-MBA or post-promotion level. This role ma
 After two to three years in the Consultant role, high-performing individuals can be promoted to Manager. This advancement involves significant increases in responsibility, as Managers oversee entire projects and daily team management.
 
 - **Primary Role:** Managing the entire project lifecycle.
-- **Key Responsibilities:**- Acting as the primary contact for the client.
+- **Key Responsibilities:**
+
+- Acting as the primary contact for the client.
  - Developing project plans and timelines.
  - Leading teams of Consultants and Analysts, ensuring quality and professional growth.
  - Managing the project budget and timeline.
@@ -62,7 +68,9 @@ After two to three years in the Consultant role, high-performing individuals can
 As a Principal, individuals transition from project delivery to business development, marking the final step before becoming a full Partner.
 
 - **Primary Role:** Overseeing multiple projects and building client relationships.
-- **Key Responsibilities:**- Managing several project teams while serving as a senior advisor to Engagement Managers.
+- **Key Responsibilities:**
+
+- Managing several project teams while serving as a senior advisor to Engagement Managers.
  - Building strong relationships with senior clients to identify opportunities for new projects.
  - Leading proposal creation and sales efforts for new work.
  - Developing industry-specific expertise, such as in healthcare or marketing strategy.
@@ -73,7 +81,9 @@ As a Principal, individuals transition from project delivery to business develop
 The Partner role represents the apex of the consulting career path. As a Partner, you assume co-ownership of the firm.
 
 - **Primary Role:** Selling projects and overseeing firm operations.
-- **Key Responsibilities:**- Managing relationships with C-suite executives at major client organizations.
+- **Key Responsibilities:**
+
+- Managing relationships with C-suite executives at major client organizations.
  - Establishing strategic direction for practice areas.
  - Meeting revenue targets, which can involve selling significant amounts in consulting work annually.
  - Mentoring junior firm members.

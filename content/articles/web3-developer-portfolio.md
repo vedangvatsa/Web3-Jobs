@@ -30,7 +30,9 @@ Follow this structured progression to enhance your skills while building your po
 - **Description:** A fungible cryptocurrency that conforms to the ERC-20 standard.
 - **Significance:** This project serves as the foundational entry point into smart contract development. It illustrates your understanding of [token](/what-is-a-token) standards, your ability to work with established interfaces (e.g., OpenZeppelin's ERC20 implementation), and your skills in basic [Solidity](/solidity-for-beginners).
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, Hardhat/Foundry.
-- **Bonus Steps:**- Deploy your token to a public testnet, such as Sepolia.
+- **Bonus Steps:**
+
+- Deploy your token to a public testnet, such as Sepolia.
  - Develop a simple React frontend using Ethers.js, allowing users to connect their [wallet](/how-to-choose-a-crypto-wallet) and view their token balance.
 
 #### Project 2: An NFT Collection
@@ -38,7 +40,9 @@ Follow this structured progression to enhance your skills while building your po
 - **Description:** A collection of unique [non-fungible tokens](/what-are-nfts) that adheres to the ERC-721 standard.
 - **Significance:** This project demonstrates your understanding of another major token standard and your ability to work with metadata, which is vital in the [NFT](/what-are-nfts) space. It also provides an opportunity to exhibit creativity.
 - **Tech Stack:** Solidity, OpenZeppelin Contracts, IPFS (for metadata storage), Hardhat/Foundry.
-- **Bonus Steps:**- Create generative art and host the images on IPFS.
+- **Bonus Steps:**
+
+- Create generative art and host the images on IPFS.
  - Implement a minting function with a set price.
  - Build a frontend that enables users to connect their wallet and mint one of your NFTs.
 
@@ -47,7 +51,9 @@ Follow this structured progression to enhance your skills while building your po
 - **Description:** A decentralized application where users can "[stake](/how-to-become-a-web3-staking-specialist)" the ERC-20 token from Project 1 and earn additional tokens as rewards over time.
 - **Significance:** This project represents a foundational [DeFi](/what-is-defi) primitive. It's your initial true full-stack effort, integrating a custom smart contract with a user-facing frontend. It reflects your understanding of incentive mechanisms and state management in a more complex manner.
 - **Tech Stack:** Solidity, React, Ethers.js/Viem, Hardhat/Foundry.
-- **Key Features to Implement:**- A `stake(uint256 amount)` function.
+- **Key Features to Implement:**
+
+- A `stake(uint256 amount)` function.
  - A `withdraw(uint256 amount)` function.
  - A mechanism to calculate and distribute rewards based on the amount staked and elapsed time.
  - A frontend that displays the user's staked balance, earned rewards, and buttons to stake and withdraw.
@@ -58,7 +64,7 @@ Follow this structured progression to enhance your skills while building your po
 - **Significance:** This capstone project distinguishes you from other junior developers, demonstrating your capability to manage more complex logic.
 - **Project Ideas:**
 
-- **On-Chain Voting/DAO System:**Users stake your ERC-20 token to vote on proposals.
+- **On-Chain Voting/DAO System:** Users stake your ERC-20 token to vote on proposals.
  - **Crowdfunding/Kickstarter dApp:** Users create campaigns, and others contribute ETH. Funds are released only to the creator if a goal is met by a specified deadline.
  - **Basic Dutch Auction Contract:** An auction where the price of an NFT begins high and decreases over time until purchased.
 

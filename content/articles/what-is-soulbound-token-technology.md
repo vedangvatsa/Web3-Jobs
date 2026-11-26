@@ -11,7 +11,7 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-15"
 ---
-The field of **[NFTs](/what-are-nfts) ** has primarily focused on transferability. The value of an NFT stems from its ability to be bought and sold in an open market. However, a paper co-authored by [Ethereum](/what-is-ethereum) founder Vitalik Buterin introduced a novel concept:**Soulbound [Tokens](/what-is-a-token) (SBTs)**.
+The field of **[NFTs](/what-are-nfts) ** has primarily focused on transferability. The value of an NFT stems from its ability to be bought and sold in an open market. However, a paper co-authored by [Ethereum](/what-is-ethereum) founder Vitalik Buterin introduced a novel concept:** Soulbound [Tokens](/what-is-a-token) (SBTs)**.
 
 An SBT represents a unique type of [NFT](/what-are-nfts) that is **non-transferable**. Once assigned to a specific [wallet](/how-to-choose-a-crypto-wallet), referred to as a "Soul", it remains permanently bound to that wallet. This key distinction opens new avenues for representing an individual's identity, reputation, and affiliations on the [blockchain](/what-is-a-blockchain).
 

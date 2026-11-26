@@ -20,7 +20,9 @@ The [Web3](/what-is-web3) industry stands out for its rapid innovation and compe
 
 Smart contract security auditors are important for safeguarding assets worth millions. Their expertise in identifying vulnerabilities prevents catastrophic financial losses. With a deep understanding of the Ethereum Virtual Machine (EVM) and programming language [Solidity](/best-programming-languages-for-blockchain-development), these specialists are in high demand. The scarcity of qualified auditors allows them to command substantial salaries for top freelancers.
 
-**Essential Skills:**- Mastery of Solidity and EVM fundamentals
+**Essential Skills:**
+
+- Mastery of Solidity and EVM fundamentals
 - Familiarity with common vulnerabilities (e.g., reentrancy, oracle manipulation)
 - Experience with security tools like Slither and Mythril
 - Detail-oriented and analytical mindset
@@ -31,7 +33,9 @@ Smart contract security auditors are important for safeguarding assets worth mil
 
 Protocol engineers build the foundational infrastructure of blockchains, including Layer 1 and Layer 2 systems. This work demands a thorough understanding of distributed systems, cryptography, and consensus mechanisms. Engineers in this role are responsible for creating the underlying architecture that supports decentralized applications.
 
-**Essential Skills:**- Proficiency in low-level programming languages such as Rust or Go
+**Essential Skills:**
+
+- Proficiency in low-level programming languages such as Rust or Go
 - Strong grasp of computer science principles, particularly distributed systems and networking
 - In-depth knowledge of blockchain architecture and cryptographic protocols
 
@@ -41,7 +45,9 @@ Protocol engineers build the foundational infrastructure of blockchains, includi
 
 ZK-proofs represent an advanced area of cryptography that enables scalability and privacy within blockchain systems. The complexity of this field requires advanced mathematical skills combined with low-level programming expertise. The limited number of professionals capable of developing ZK systems results in high demand and substantial compensation.
 
-**Essential Skills:**- Strong foundation in advanced mathematics and cryptography
+**Essential Skills:**
+
+- Strong foundation in advanced mathematics and cryptography
 - Experience with ZK-specific programming languages like Circom or Cairo
 - Proficiency in programming languages such as Rust or C++
 
@@ -51,7 +57,9 @@ ZK-proofs represent an advanced area of cryptography that enables scalability an
 
 Senior smart contract developers not only excel in Solidity but also possess a deep understanding of financial primitives and economic security concepts. They design and construct complex [DeFi](/what-is-defi) protocols that manage substantial financial assets. Their expertise in creating secure and efficient economic systems is highly sought after.
 
-**Essential Skills:**- Mastery of Solidity and smart contract development
+**Essential Skills:**
+
+- Mastery of Solidity and smart contract development
 - Knowledge of DeFi concepts (e.g., AMMs, lending protocols, derivatives)
 - Understanding of tokenomics and security principles
 
@@ -61,7 +69,9 @@ Senior smart contract developers not only excel in Solidity but also possess a d
 
 Quantitative researchers model the financial risks and incentives associated with DeFi protocols. They perform sophisticated data analysis and mathematical modeling to ensure the safety and efficiency of these systems, particularly during periods of market volatility. This role is prevalent among top DeFi protocols, crypto hedge funds, and market-making firms.
 
-**Essential Skills:**- Advanced degree (PhD or Master's) in a quantitative discipline (e.g., mathematics, statistics, economics)
+**Essential Skills:**
+
+- Advanced degree (PhD or Master's) in a quantitative discipline (e.g., mathematics, statistics, economics)
 - Expertise in programming languages such as Python or R for data analysis
 - In-depth knowledge of financial modeling and blockchain data analysis
 

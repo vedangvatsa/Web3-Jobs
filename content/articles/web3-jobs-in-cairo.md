@@ -51,7 +51,7 @@ The demand for Web3 talent in Cairo is on the rise, especially for skilled devel
 
 4. **Engage in Networking Opportunities:**
 
-- **Local Meetups:**Actively participate in Cairo's Web3 meetups to build connections within the community.
+- **Local Meetups:** Actively participate in Cairo's Web3 meetups to build connections within the community.
  - **Regional Conferences:** Attend major Web3 events in the MENA region, particularly in Dubai, to expand your network and connect with hiring companies.
 
 ### Taking the Next Step: Finding a Web3 Job

@@ -52,7 +52,7 @@ Transactions entered into a blockchain are permanent and cannot be modified or e
 
 Blockchains like Ethereum introduced **[smart contracts](/what-are-smart-contracts)**, which are self-executing programs that operate on the blockchain.
 
-- **Automated Systems:**[Smart contracts](/what-are-smart-contracts) form the foundation of Web3 applications. They enable the development of complex, automated systems that can function without intermediaries. They act as the "backend" for decentralized web applications.
+- **Automated Systems:** [Smart contracts](/what-are-smart-contracts) form the foundation of Web3 applications. They enable the development of complex, automated systems that can function without intermediaries. They act as the "backend" for decentralized web applications.
 - **DeFi Applications:** The entire [DeFi](/what-is-defi) ecosystem relies on smart contracts. For example, the lending protocol Aave uses smart contracts to automate lending and borrowing processes, enforcing rules around collateral and interest rates without requiring a bank.
 
 #### 4. Native Digital Value

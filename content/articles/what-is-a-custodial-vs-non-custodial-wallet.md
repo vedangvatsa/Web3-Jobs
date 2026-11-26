@@ -70,7 +70,7 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 
 **Examples of Non-Custodial Wallets:**
 
-- **Software Wallets (Hot Wallets):**Examples include [MetaMask](/what-is-a-browser-extension-wallet), Rabby, and Phantom. These are typically browser extensions or mobile applications.
+- **Software Wallets (Hot Wallets):** Examples include [MetaMask](/what-is-a-browser-extension-wallet), Rabby, and Phantom. These are typically browser extensions or mobile applications.
 - **Hardware Wallets (Cold Wallets):** Examples include [Ledger](/understanding-hardware-wallets-for-crypto-security) and Trezor. These physical devices store your private keys offline, providing maximum security.
 
 **Best for:** Individuals committed to participating in the Web3 ecosystem and desiring true ownership of their digital assets.

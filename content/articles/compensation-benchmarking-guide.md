@@ -59,7 +59,9 @@ Token and equity value depends on schedule. The standard that has become the con
 
 ### Verified salary bands for 2026
 
-These ranges use official and widely cited sources as of early 2026. They are base unless noted as total compensation. Token grants are separate and noted after the table.**U.S. national baselines**
+These ranges use official and widely cited sources as of early 2026. They are base unless noted as total compensation. Token grants are separate and noted after the table.
+
+**U.S. national baselines**
 
 BLS, Occupational Outlook Handbook August 2025 update with May 2024 data:
 
@@ -203,5 +205,7 @@ At established protocols, token grants often add 20 to 50 percent on top of base
 
 #### Which location should I use to benchmark a remote offer?
 
-Ask the company if the band is global or location adjusted. If global, benchmark to U.S. median. If location adjusted, apply the stated percent. Regional 2026 baselines for mid-level blockchain developers are Western Europe $90,000 to $140,000, Eastern Europe and LATAM $60,000 to $100,000, Southeast Asia $45,000 to $85,000, remote global $90,000 to $250,000 across levels per web3vacancy. BLS state medians show California $170,910 and Washington $166,910 at the top.**Should I still benchmark if I am not an engineer?**
+Ask the company if the band is global or location adjusted. If global, benchmark to U.S. median. If location adjusted, apply the stated percent. Regional 2026 baselines for mid-level blockchain developers are Western Europe $90,000 to $140,000, Eastern Europe and LATAM $60,000 to $100,000, Southeast Asia $45,000 to $85,000, remote global $90,000 to $250,000 across levels per web3vacancy. BLS state medians show California $170,910 and Washington $166,910 at the top.
+
+**Should I still benchmark if I am not an engineer?**
 Yes. Use the same method for product, design, data, marketing, and community roles, but pick the right source family. Glassdoor and Payscale cover non-tech well. Levels.fyi is engineering heavy. For Web3 non-technical roles, funded companies still add token grants, so price the token schedule the same way.

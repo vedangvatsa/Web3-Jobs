@@ -29,7 +29,7 @@ Traditional finance relies heavily on intermediaries such as banks. The **[DeFi]
 
 ### 3. Community-Owned and Governed Platforms (DAOs)
 
-Web2 is characterized by corporate-owned platforms. Conversely,**[Web3](/what-is-web3)** introduces a model where platforms are owned and governed by their communities.
+Web2 is characterized by corporate-owned platforms. Conversely, **[Web3](/what-is-web3)** introduces a model where platforms are owned and governed by their communities.
 
 - **The Change:** **[Decentralized Autonomous Organizations (DAOs)](/what-is-a-dao)** function as collective entities managed by their members. Governance tokens enable members to vote on various decisions, including product development and financial management.
 - **The Impact:** This structure aligns the interests of users and creators. Instead of being passive participants, users can become co-owners and have a real influence on the platform's direction. This shift promotes a culture of digital democracy over corporate control.

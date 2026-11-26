@@ -80,7 +80,9 @@ For experienced project managers from the Web2 world, the transition is very ach
 - Known for: clear communication, smart prioritization
 - **Expected Compensation:** Competitive salary range
 
-**Quick Wins:**- DAO grants: $110,000 - $175,000 + token incentives for organizing working groups
+**Quick Wins:**
+
+- DAO grants: $110,000 - $175,000 + token incentives for organizing working groups
 - Protocol bounties: $110,000 - $175,000 + token incentives for governance work
 
 ### Path 2: DAO Operations Manager (Community & Governance) (8-14 Month Timeline)
@@ -102,7 +104,9 @@ For experienced project managers from the Web2 world, the transition is very ach
 **Months 13-14: Leadership**- Chief Operations Officer or Executive Director
 - **Expected Compensation:** Competitive salary range + equity
 
-**Quick Wins:**- Grants for organizing: $110,000 - $175,000 + token incentives
+**Quick Wins:**
+
+- Grants for organizing: $110,000 - $175,000 + token incentives
 - Governance participation: token rewards
 
 ### Path 3: Web3 Startup PM (Building Applications) (8-14 Month Timeline)
@@ -125,7 +129,9 @@ For experienced project managers from the Web2 world, the transition is very ach
 **Months 13-14: Advancement**- Senior PM or head of product
 - **Expected Compensation:** Competitive salary range + equity
 
-**Quick Wins:**- Startup equity: potential massive upside
+**Quick Wins:**
+
+- Startup equity: potential massive upside
 - Investor interest: if product succeeds
 
 ## Challenges & Solutions
@@ -148,29 +154,41 @@ For experienced project managers from the Web2 world, the transition is very ach
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Get PM foundation: CSM (Scrum Master) certification or Agile training
+**Week 1-2:**
+
+- [ ] Get PM foundation: CSM (Scrum Master) certification or Agile training
 - [ ] Choose path: protocol, DAO, or startup
 - [ ] Join 5+ DAOs as active member
-- [ ] Set up Twitter, Discord, [GitHub](/building-web3-portfolio) **Week 3-4:**- [ ] Complete CSM (or take Agile basics course)
+- [ ] Set up Twitter, Discord, [GitHub](/building-web3-portfolio) **Week 3-4:**
+
+- [ ] Complete CSM (or take Agile basics course)
 - [ ] Deep dive: read whitepapers, governance docs
 - [ ] Attend: 2 DAO governance calls
 - [ ] Contribute: 1 community forum post or proposal
 
-**Week 5-6:**- [ ] Lead small DAO initiative (working group, doc, process)
+**Week 5-6:**
+
+- [ ] Lead small DAO initiative (working group, doc, process)
 - [ ] Publish 1 article on Web3 management/governance
 - [ ] Network: 15 DAO/protocol/startup leaders
 - [ ] Apply: 5 DAO bounties or initiatives
 
-**Week 7-8:**- [ ] Lead 2nd initiative
+**Week 7-8:**
+
+- [ ] Lead 2nd initiative
 - [ ] Publish: operations guide or case study
 - [ ] Network: 5 coffee chats with PMs
 - [ ] Apply: 5 DAO/startup roles
 
-**Week 9-10:**- [ ] Land: 1st paid role (grant, salary, or consulting)
+**Week 9-10:**
+
+- [ ] Land: 1st paid role (grant, salary, or consulting)
 - [ ] Twitter/community: 1,000+ followers
 - [ ] Apply: dream roles at protocols/DAOs
 
-**Week 11-12:**- [ ] Target: full-time PM offer
+**Week 11-12:**
+
+- [ ] Target: full-time PM offer
 - [ ] Reflection: "3 Months Building Web3 PM Career"
 - [ ] Plan: next role, growth path
 

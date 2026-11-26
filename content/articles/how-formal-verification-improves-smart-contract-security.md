@@ -33,7 +33,9 @@ The formal verification process encompasses two main components:
 
 1. **The Specification (The Rules):** This step requires defining the "properties" or "invariants" that must always hold true for the smart contract. These specifications are articulated in a formal language.
 
-**Examples of properties include:**- The total supply of an ERC-20 [token](/what-is-a-token) must remain constant.
+**Examples of properties include:**
+
+- The total supply of an ERC-20 [token](/what-is-a-token) must remain constant.
  - Only an address with the `ADMIN_ROLE` can execute the `pause()` function.
  - The sum of all user balances in a lending pool must equal the total amount of assets held by the contract.
  - An attacker should not be able to re-enter the `withdraw()` function.

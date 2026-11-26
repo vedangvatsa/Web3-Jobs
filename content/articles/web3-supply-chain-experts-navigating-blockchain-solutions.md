@@ -186,7 +186,9 @@ The QR encodes a GS1 Digital Link with GTIN plus serial or lot. Scanning resolve
 
 #### Do I need a token to run this?
 
-On Fabric no. On OriginTrail the DKG uses TRAC with a 500 million fixed supply to pay and collateralize nodes. On public chains you need the chain's gas token for writes even if your product token is separate.**What scale of counterfeiting does this compete with?**
+On Fabric no. On OriginTrail the DKG uses TRAC with a 500 million fixed supply to pay and collateralize nodes. On public chains you need the chain's gas token for writes even if your product token is separate.
+
+**What scale of counterfeiting does this compete with?**
 
 The OECD mapping for 2021 put counterfeit and pirated goods at about 467 billion US dollars, 2.3 percent of global imports, with small parcels and mail as the dominant channel. Any solution that only tracks bulk freight misses a large share.
 

@@ -23,11 +23,15 @@ Public blockchains mean your work can be checked. A contract you deployed is on 
 
 ### Who this guide is for - and who it is not for
 
-**Good fit if you:**- Have a skill that maps to a real gap in 2026. Examples are Solidity or Rust engineering, security review, compliance and legal, AI and crypto hybrid work, trading support, and developer relations. Tiger Research counted 2,932 active postings as of June 18, 2026, and found engineering at 34.1 percent and compliance and legal at 10.4 percent. Exchanges alone were 30.8 percent of postings. Source: https://www.coingecko.com/learn/crypto-hiring-trends-h1-2026 and https://reports.tiger-research.com/p/h1-2026-global-crypto-hiring-market-eng
+**Good fit if you:**
+
+- Have a skill that maps to a real gap in 2026. Examples are Solidity or Rust engineering, security review, compliance and legal, AI and crypto hybrid work, trading support, and developer relations. Tiger Research counted 2,932 active postings as of June 18, 2026, and found engineering at 34.1 percent and compliance and legal at 10.4 percent. Exchanges alone were 30.8 percent of postings. Source: https://www.coingecko.com/learn/crypto-hiring-trends-h1-2026 and https://reports.tiger-research.com/p/h1-2026-global-crypto-hiring-market-eng
 - Can ship public proof in 60 to 90 days without quitting your current job
 - Want remote work with location flexibility, and can handle async coordination and time zone changes
 
-**Poor fit right now if you:**- Want only marketing or community growth roles tied to token hype. Gaming and NFTs were 2.4 percent of active postings in the same June 2026 set, below market making at 3.4 percent. Speculative community roles have shrunk since 2022. Source: same Tiger Research data set
+**Poor fit right now if you:**
+
+- Want only marketing or community growth roles tied to token hype. Gaming and NFTs were 2.4 percent of active postings in the same June 2026 set, below market making at 3.4 percent. Speculative community roles have shrunk since 2022. Source: same Tiger Research data set
 - Will not use crypto products yourself. Almost every hiring signal now expects you to have held a wallet, done a swap, or voted in a forum
 - Need only on-site work in a city with few crypto employers. About 40.2 percent of active postings in the Tiger set were remote. Other boards report higher remote shares. You do better if you are open to remote.
 
@@ -67,10 +71,10 @@ Treat pay as two views: market reports that track live boards, and averages from
 - gm.careers Q2 2026 forecast, from its board data of about 5,860 active postings in Q1 2026: senior bands were smart contract engineer in Solidity $185,000 to $260,000, security engineer or auditor $200,000 to $310,000, AI and ML engineer in crypto $190,000 to $280,000, Rust systems engineer $180,000 to $270,000, ZK engineer $200,000 to $320,000, compliance officer $160,000 to $240,000, with time to fill for engineering at 42 days versus 47 in Q4 2025. Source: https://gm.careers/blog/crypto-job-market-q2-2026
 
 **How to read the spread**-entry range on boards often shows $50,000 to $75,000 for support, community, or junior ops. 
--mid-level tech roles cluster near $135,000 to $185,000 in most data sets. 
--senior protocol, security, ZK, and trading infra bands push above $200,000. 
--compliance and legal now command the highest medians in the Plexus set at about $240,000, which matches the demand signal in Tiger at 10.4 percent of postings. 
--security auditor pay grew fastest in Aipplify at plus 22 percent.
+- mid-level tech roles cluster near $135,000 to $185,000 in most data sets. 
+- senior protocol, security, ZK, and trading infra bands push above $200,000. 
+- compliance and legal now command the highest medians in the Plexus set at about $240,000, which matches the demand signal in Tiger at 10.4 percent of postings. 
+- security auditor pay grew fastest in Aipplify at plus 22 percent.
 
 ### Pros and cons - honest assessment
 
@@ -99,7 +103,9 @@ Create a separate X account for crypto. Follow 15 to 25 builders and researchers
 
 #### Weeks 4 to 7: ship three public artifacts for that lane
 
-Proof of work means different artifacts by role, but all must be public and linked.**For engineers**- Complete CryptoZombies at cryptozombies.io. Lesson 1 runs in one sitting. It reports 400k registered users and 1M classes completed, and it covers Solidity basics in the browser
+Proof of work means different artifacts by role, but all must be public and linked.
+
+**For engineers**- Complete CryptoZombies at cryptozombies.io. Lesson 1 runs in one sitting. It reports 400k registered users and 1M classes completed, and it covers Solidity basics in the browser
 - Build Speed Run Ethereum Challenge 0. Use Scaffold-ETH 2 at scaffoldeth.io to compile a contract, wire a React frontend, deploy locally, then deploy an NFT to a public testnet like Base Sepolia or Sepolia and verify it on the explorer. Each challenge becomes a linked portfolio item. Source: https://speedrunethereum.com
 - Fork one reputable repo (Uniswap, Aave, OpenZeppelin, Foundry, viem) on GitHub. Fix one small thing. Add a test or clearer README step. Open a draft pull request and ask for review in that project's Discord. Small and reviewable beats large and ignored. Source: https://gm.careers/blog/web3-portfolio-guide
 
@@ -203,7 +209,9 @@ Pay structure matters. Some DAOs and protocols pay in stablecoins like USDC or D
 
 #### What does not help?
 
-Listing tools you tried once, pinning tutorial clones without a write-up, hiding work behind permission walls, or mass applying with the same letter. Teams check whether a reviewer can clone a repo and verify a contract or reproduce a result. If you state prerequisites, tool versions, chain and network, and where your guide fails, you stand out.**What common mistakes should I avoid?**
+Listing tools you tried once, pinning tutorial clones without a write-up, hiding work behind permission walls, or mass applying with the same letter. Teams check whether a reviewer can clone a repo and verify a contract or reproduce a result. If you state prerequisites, tool versions, chain and network, and where your guide fails, you stand out.
+
+**What common mistakes should I avoid?**
 
 Writing tokens from scratch instead of using Audited code like OpenZeppelin, skipping tests for access control, ignoring gas costs for storage, treating a testnet deploy as mainnet ready, committing a private key to Git, and sending cold DMs that ask for a referral before you share any work.
 

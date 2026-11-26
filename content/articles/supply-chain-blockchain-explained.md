@@ -218,7 +218,9 @@ The QR code encodes a GS1 identifier, often a Digital Link that includes the GTI
 
 #### Do I need a token to run a supply chain blockchain?
 
-On Fabric you do not. Chaincode is called by enrolled clients and ordered by the ordering service without a token. On OriginTrail the DKG uses TRAC for paying node runners, staking as collateral, and delegation, with a fixed supply of 500 million. On public chains you need the chain's gas token for writes, even if your product token is separate.**What should I watch for with counterfeits?**
+On Fabric you do not. Chaincode is called by enrolled clients and ordered by the ordering service without a token. On OriginTrail the DKG uses TRAC for paying node runners, staking as collateral, and delegation, with a fixed supply of 500 million. On public chains you need the chain's gas token for writes, even if your product token is separate.
+
+**What should I watch for with counterfeits?**
 
 The OECD and European Union Intellectual Property Office estimated in Mapping Global Trade in Fakes 2025 that counterfeit and pirated goods were about 467 billion US dollars in 2021, which is 2.3 percent of global imports. About 60 percent of seized items arrived by mail and small parcels are the dominant channel. That means any solution that only tracks bulk shipments will miss a large part of illicit flow.
 

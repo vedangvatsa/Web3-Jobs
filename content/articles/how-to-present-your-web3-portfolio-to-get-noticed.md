@@ -22,21 +22,23 @@ Avoid sending just a link to your GitHub profile. Create a central "hub" that or
 
 **A Clear "Hero" Section:**
 
-- **Your Name and Title:**For example, "Jane Doe - [Smart Contract](/what-are-smart-contracts) Developer & [DeFi](/what-is-defi) Enthusiast."
+- **Your Name and Title:** For example, "Jane Doe - [Smart Contract](/what-are-smart-contracts) Developer & [DeFi](/what-is-defi) Enthusiast."
  - **A Compelling One-Liner:** Summarize your work in a brief sentence, such as "I build secure and efficient decentralized financial primitives."
  - **Clear Links:** Feature links to your GitHub, Twitter, and personal blog prominently.
 
 2. **A Curated "Projects" Section:**
 
-- **Selectivity Matters:**Choose 3-4 of your best projects. Quality is more important than quantity.
+- **Selectivity Matters:** Choose 3-4 of your best projects. Quality is more important than quantity.
  - **Project Cards Should Include:**
 
-- **Project Name:**Ensure clarity and conciseness.
+- **Project Name:** Ensure clarity and conciseness.
  - **Short Description:** Include 1-2 sentences explaining the project and its problem-solving capabilities.
  - **Tech Stack:** List key technologies used, such as [Solidity](/best-programming-languages-for-blockchain-development), Foundry, React, and The Graph.
  - **Clear CTAs:** Provide buttons linking to the "Live Demo" and "Source Code" on GitHub.
 
-3. **An "About Me" Section That Tells Your Story:**- Instead of merely listing your skills, narrate your journey. Discuss your "rabbit hole" story, what excites you about Web3, and what you're currently learning. This provides a glimpse into your personality and passion.
+3. **An "About Me" Section That Tells Your Story:**
+
+- Instead of merely listing your skills, narrate your journey. Discuss your "rabbit hole" story, what excites you about Web3, and what you're currently learning. This provides a glimpse into your personality and passion.
 
 **Practical Tip:** Consider using a Web3-native domain for your website, such as an ENS name (`yourname.[eth](/what-is-ethereum)`). You can resolve it to a traditional website using services like eth.limo, signaling your commitment to the ecosystem.
 
@@ -52,7 +54,9 @@ Your personal website acts as a brochure, while your GitHub serves as a detailed
  - **How to run it:** Include step-by-step instructions for setting up the project and running tests locally.
  - **Include Visuals:** Add screenshots, GIFs, or videos showcasing the dApp in action.
 
-3. **Maintain a Clean Profile:**- Use a professional profile picture.
+3. **Maintain a Clean Profile:**
+
+- Use a professional profile picture.
  - Write a concise bio that includes links to your personal website and Twitter.
  - Keep your activity graph active with consistent contributions.
 

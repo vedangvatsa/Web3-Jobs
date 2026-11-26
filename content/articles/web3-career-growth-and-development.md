@@ -272,11 +272,15 @@ Someone you assisted years ago may invite you to collaborate on their next proje
 
 **Timeline:** 2-4 years per level
 
-**Progression:**- Senior IC: Technical leadership without direct reports; high compensation.
+**Progression:**
+
+- Senior IC: Technical leadership without direct reports; high compensation.
 - Principal IC: Define industry standards and direct technical strategies.
 - Distinguished IC: Recognized as an expert within the industry.
 
-**Requirements:**- Deep specialization.
+**Requirements:**
+
+- Deep specialization.
 - Public portfolio and reputation.
 - Mentoring skills, even without formal titles.
 - Significant impact on product or protocol.
@@ -289,11 +293,15 @@ Someone you assisted years ago may invite you to collaborate on their next proje
 
 **Timeline:** 3-5 years per level
 
-**Progression:**- Manager: Supervise 3-5 direct reports.
+**Progression:**
+
+- Manager: Supervise 3-5 direct reports.
 - Senior Manager/Director: Oversee 10-20+ reports and strategic direction.
 - VP/Head: Lead entire departments.
 
-**Requirements:**- Technical credibility as a former strong IC.
+**Requirements:**
+
+- Technical credibility as a former strong IC.
 - Skills in people development.
 - Strategic thinking capabilities.
 - Strong communication and judgment.
@@ -306,12 +314,16 @@ Someone you assisted years ago may invite you to collaborate on their next proje
 
 **Timeline:** 5-10 years
 
-**Progression:**- Build deep expertise and establish a public reputation.
+**Progression:**
+
+- Build deep expertise and establish a public reputation.
 - Advise multiple companies as a recognized expert.
 - Invest in or help fund early-stage projects.
 - Join boards of major initiatives.
 
-**Requirements:**- Credibility and relationships within the industry.
+**Requirements:**
+
+- Credibility and relationships within the industry.
 - Strong judgment and pattern recognition.
 - Capital, even in small amounts.
 - Ability to provide value beyond monetary investment.
@@ -324,7 +336,9 @@ Someone you assisted years ago may invite you to collaborate on their next proje
 
 **Timeline:** Varies, typically 3-5+ years of experience before founding.
 
-**Requirements:**- Extensive domain expertise.
+**Requirements:**
+
+- Extensive domain expertise.
 - Strong team-building and leadership qualities.
 - Capital or fundraising capability.
 - Clear vision and conviction.

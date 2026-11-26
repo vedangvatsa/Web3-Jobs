@@ -236,5 +236,7 @@ No. Ethereum is pseudonymous. Every transaction is tied to an address and is vis
 
 #### Is yield farming still profitable?
 
-It can be, but profit depends on net yield after fees, gas, impermanent loss, and taxes. In mid-2026, with DeFi TVL near 70 to 80 billion and daily DEX volume near 7 billion, fees exist to pay LPs and suppliers. The profitable participants are usually those who pick sustainable revenue sources, size positions to survive volatility, and avoid overstacking layers of smart contract risk to chase a few extra basis points.**Where can I verify the numbers in this guide?**
+It can be, but profit depends on net yield after fees, gas, impermanent loss, and taxes. In mid-2026, with DeFi TVL near 70 to 80 billion and daily DEX volume near 7 billion, fees exist to pay LPs and suppliers. The profitable participants are usually those who pick sustainable revenue sources, size positions to survive volatility, and avoid overstacking layers of smart contract risk to chase a few extra basis points.
+
+**Where can I verify the numbers in this guide?**
 Check supply and borrow APY on the official Aave app at app.aave.com, pool fees and impermanent loss math in the Uniswap docs at docs.uniswap.org, CRV emissions and gauges in the Curve docs at docs.curve.fi, Yearn v3 fee and vault docs at docs.yearn.fi, and TVL, fees, and volume on DeFiLlama at defillama.com. Confirm contract addresses on Etherscan or the relevant chain explorer before you deposit.

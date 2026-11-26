@@ -64,74 +64,120 @@ The formal Web3 job market in Algiers is currently limited. The most significant
 
 #### Path 1: Mobile-First DeFi Developer (8-16 Month Timeline)
 
-**Foundation & Portfolio (Months 1-3):**- Set up GitHub and complete your profile with several small Web3 projects, including [Solidity](/best-programming-languages-for-blockchain-development) tutorials and Web3.js mini-dApps.
+**Foundation & Portfolio (Months 1-3):**
+
+- Set up GitHub and complete your profile with several small Web3 projects, including [Solidity](/best-programming-languages-for-blockchain-development) tutorials and Web3.js mini-dApps.
 - Complete Alchemy University's Web3 Developer program.
 - Build a trading bot using the Uniswap API and deploy it on Polygon.
 - Create your first public portfolio project focused on a simple [DeFi](/what-is-defi) aggregator.
 
-**Specialization & Job Search (Months 4-8):**- Focus on Solidity security and audit a public contract.
+**Specialization & Job Search (Months 4-8):**
+
+- Focus on Solidity security and audit a public contract.
 - Develop a production-quality project, such as a mobile [wallet](/how-to-choose-a-crypto-wallet) interface for DeFi.
 - Apply to numerous remote Web3 companies and engage in hackathons.
 
-**Senior Specialization (Months 9-16):**- Contribute to major protocols and establish a reputation for optimizing mobile UX.
+**Senior Specialization (Months 9-16):**
+
+- Contribute to major protocols and establish a reputation for optimizing mobile UX.
 - Transition to a full-time senior role or a founding opportunity in a startup.
 
-**Expected Compensation:**- Early roles: Competitive monthly compensation
+**Expected Compensation:**
+
+- Early roles: Competitive monthly compensation
 - Later roles: Significant monthly compensation or equity in a startup.
 
 #### Path 2: MENA Regional Growth Lead (6-14 Month Timeline)
 
-**Build Regional Expertise (Months 1-3):**- Study the crypto sector in MENA and connect with professionals in the Web3 space.
+**Build Regional Expertise (Months 1-3):**
+
+- Study the crypto sector in MENA and connect with professionals in the Web3 space.
 - Produce a detailed market analysis and establish connections.
 
-**Create Proof of Work (Months 4-6):**- Author in-depth reports on DeFi and regulatory roadmaps for MENA.
+**Create Proof of Work (Months 4-6):**
+
+- Author in-depth reports on DeFi and regulatory roadmaps for MENA.
 - Launch a podcast or newsletter to engage with the community.
 
-**Land a Growth Role (Months 7-10):**- Apply to protocols and pitch partnerships to regional exchanges.
+**Land a Growth Role (Months 7-10):**
 
-**Expected Compensation:**- Initial roles: Competitive monthly compensation 
+- Apply to protocols and pitch partnerships to regional exchanges.
+
+**Expected Compensation:**
+
+- Initial roles: Competitive monthly compensation 
 - Senior roles: Significant monthly compensation.
 
 #### Path 3: Smart Contract Auditor & Security Specialist (10-18 Month Timeline)
 
-**Deepen Security Knowledge (Months 1-4):**- Complete relevant security and auditing courses.
+**Deepen Security Knowledge (Months 1-4):**
+
+- Complete relevant security and auditing courses.
 - Familiarize yourself with common vulnerabilities in smart contracts.
 
-**Hands-On Auditing (Months 5-8):**- Participate in competitive audits and responsibly disclose vulnerabilities.
+**Hands-On Auditing (Months 5-8):**
 
-**Specialize in MENA/FinTech (Months 9-12):**- Audit regional FinTech blockchain projects and become recognized for your expertise.
+- Participate in competitive audits and responsibly disclose vulnerabilities.
 
-**Expected Compensation:**- Full-time roles: Competitive monthly compensation 
+**Specialize in MENA/FinTech (Months 9-12):**
+
+- Audit regional FinTech blockchain projects and become recognized for your expertise.
+
+**Expected Compensation:**
+
+- Full-time roles: Competitive monthly compensation 
 - Freelance opportunities could yield significant compensation per audit.
 
 ### Challenges and Solutions
 
-**Regulatory Uncertainty in Algeria:**- The government has not clearly defined the legal status of cryptocurrencies. Work remotely for international companies and maintain a low profile regarding crypto activities.
+**Regulatory Uncertainty in Algeria:**
 
-**Limited Local Tech Infrastructure:**- Internet reliability may not meet global standards. Use VPNs for secure access and stablecoins for transactions.
+- The government has not clearly defined the legal status of cryptocurrencies. Work remotely for international companies and maintain a low profile regarding crypto activities.
 
-**Language and Regional Isolation:**- Language skills in Arabic, French, and English are assets. Use them to bridge the gap between local and global ecosystems.
+**Limited Local Tech Infrastructure:**
 
-**Low Local Salaries Compared to International Expectations:**- Focus exclusively on remote roles to maximize earning potential.
+- Internet reliability may not meet global standards. Use VPNs for secure access and stablecoins for transactions.
 
-**Building Credibility Without Prestigious Backgrounds:**- Shift the focus from credentials to actual work and projects. A strong GitHub profile and active contributions can outweigh a conventional resume.
+**Language and Regional Isolation:**
+
+- Language skills in Arabic, French, and English are assets. Use them to bridge the gap between local and global ecosystems.
+
+**Low Local Salaries Compared to International Expectations:**
+
+- Focus exclusively on remote roles to maximize earning potential.
+
+**Building Credibility Without Prestigious Backgrounds:**
+
+- Shift the focus from credentials to actual work and projects. A strong GitHub profile and active contributions can outweigh a conventional resume.
 
 ### 90-Day Action Plan
 
-**Weeks 1-2:**- Set up professional GitHub, Twitter, and LinkedIn accounts.
+**Weeks 1-2:**
+
+- Set up professional GitHub, Twitter, and LinkedIn accounts.
 - Enroll in an introductory Web3 developer course and join relevant local communities.
 
-**Weeks 3-4:**- Complete initial course modules and develop small smart contracts.
+**Weeks 3-4:**
+
+- Complete initial course modules and develop small smart contracts.
 - Publish your first blog post on a relevant topic.
 
-**Weeks 5-6:**- Finish the course and complete your first mainnet project.
+**Weeks 5-6:**
+
+- Finish the course and complete your first mainnet project.
 - Create public GitHub repositories to showcase your work.
 
-**Weeks 7-8:**- Work on a more substantial project and apply for internships or entry-level remote roles.
+**Weeks 7-8:**
 
-**Weeks 9-10:**- Network at online events and analyze competitor profiles for insights.
+- Work on a more substantial project and apply for internships or entry-level remote roles.
 
-**Weeks 11-12:**- Aim for a paid contract or serious job interview and publish a reflection post on your journey.
+**Weeks 9-10:**
+
+- Network at online events and analyze competitor profiles for insights.
+
+**Weeks 11-12:**
+
+- Aim for a paid contract or serious job interview and publish a reflection post on your journey.
 
 ### Frequently Asked Questions
 
@@ -192,14 +238,14 @@ A: Focus on building a sustainable income first. Once you have experience and a 
 
 **Learning Platforms:**
 
-- **Alchemy University:**Offers a free Web3 developer course.
+- **Alchemy University:** Offers a free Web3 developer course.
 - **Cryptozombies:** Interactive Solidity tutorials.
 - **OpenZeppelin Learning:** Focus on smart contract security.
 - **Chainlink Documentation:** Learn about oracles and DeFi integration.
 
 **Communities and Networking:**
 
-- **Twitter:**Follow key industry figures and engage with their content.
+- **Twitter:** Follow key industry figures and engage with their content.
 - **Discord:** Join relevant communities to expand your network.
 - **Local Meetups:** Participate in or create local Web3 groups.
 
@@ -210,7 +256,7 @@ A: Focus on building a sustainable income first. Once you have experience and a 
 
 **Hands-On Practice:**
 
-- **Code4rena:**Participate in competitive smart contract auditing.
+- **Code4rena:** Participate in competitive smart contract auditing.
 - **Sherlock and Immunefi:** Engage in security bounties.
 
 **Deep-Dive Reading:**

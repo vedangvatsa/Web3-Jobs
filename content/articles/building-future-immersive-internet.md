@@ -253,7 +253,9 @@ You can build an inline 3D view with model-viewer and a USDZ Quick Look escape h
 
 #### Is WebXR fast enough for production?
 
-For product visualization, education, training and showrooms, yes, when you stay within the budgets above. For large multiplayer worlds or graphics that need custom compute passes, expect to trade fidelity for reach or ship a native companion.**Where should I track changes?**
+For product visualization, education, training and showrooms, yes, when you stay within the budgets above. For large multiplayer worlds or graphics that need custom compute passes, expect to trade fidelity for reach or ship a native companion.
+
+**Where should I track changes?**
 Follow the Immersive Web Working Group at www.w3.org/immersive-web, the WebXR spec history at www.w3.org/TR/webxr/history, the Khronos glTF GitHub at github.com/KhronosGroup/glTF, the OpenXR spec at registry.khronos.org/OpenXR/specs/1.1/html/xrspec.html, and the Metaverse Standards Forum at metaverse-standards.org which now hosts the Open Metaverse Browser Initiative with the Sneeze engine.
 
 ## A short reading list you can verify

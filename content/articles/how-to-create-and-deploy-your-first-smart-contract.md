@@ -48,7 +48,9 @@ contract HelloWorld {
  message = newMessage;
  }
 }
-```**Code Breakdown:**- `pragma solidity ^0.8.20;`: This specifies the Solidity compiler version to use.
+```**Code Breakdown:**
+
+- `pragma solidity ^0.8.20;`: This specifies the Solidity compiler version to use.
 - `contract HelloWorld { ... }`: This defines the smart contract.
 - `string public message;`: This declares a public state variable named `message` of type `string`. Its public visibility ensures that Remix generates a "getter" function for reading its value.
 - `constructor()`: This function runs once when the contract is deployed, initializing the `message`.

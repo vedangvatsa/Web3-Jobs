@@ -161,37 +161,51 @@ Salaries in Pretoria reflect the city's focus on government and enterprise, cont
 
 ### 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- Set up professional profiles on GitHub, Twitter, and LinkedIn.
+**Weeks 1-2:**
+
+- Set up professional profiles on GitHub, Twitter, and LinkedIn.
 - Assess your background: government, legal, corporate, or technical?
 - Network with 20 professionals in Pretoria's blockchain sector.
 - Subscribe to updates from the SARB and FSCA.
 
-**Weeks 3-4:**- Study the basics of the CBDC project and South African digital asset regulations.
+**Weeks 3-4:**
+
+- Study the basics of the CBDC project and South African digital asset regulations.
 - Publish an article on a relevant topic, such as "South Africa's Path to Digital Assets."
 - Network through 25 warm outreach attempts to government and corporate professionals.
 - Connect with 10 individuals from CSIR and the University of Pretoria.
 
-**Weeks 5-6:**- Develop your first project focused on digital identity or government verification.
+**Weeks 5-6:**
+
+- Develop your first project focused on digital identity or government verification.
 - Publish a technical article detailing a blockchain use case.
 - Apply to five government innovation initiatives or corporate positions.
 - Attend a government or corporate tech event.
 
-**Weeks 7-8:**- Build a second government-focused project.
+**Weeks 7-8:**
+
+- Build a second government-focused project.
 - Arrange five coffee meetings with key figures in the industry.
 - Submit five additional applications for consulting, corporate, or government roles.
 - Monitor CSIR and government initiatives closely.
 
-**Weeks 9-10:**- Publish a third article or research piece.
+**Weeks 9-10:**
+
+- Publish a third article or research piece.
 - Secure your first consulting engagement focused on blockchain strategy.
 - Apply to think tanks, consulting firms, or government positions.
 - Aim for 1,000 followers on Twitter.
 
-**Weeks 11-12:**- Complete a research project or case study.
+**Weeks 11-12:**
+
+- Complete a research project or case study.
 - Target 1-2 serious interviews.
 - Reflect on your three-month journey building a Web3 career in Pretoria.
 - Plan your next steps based on identified career paths.
 
-**Outputs after 90 Days:**- 2-3 completed projects showcased on GitHub.
+**Outputs after 90 Days:**
+
+- 2-3 completed projects showcased on GitHub.
 - 3 published articles to demonstrate expertise.
 - At least one consulting engagement.
 - A strong network of over 20 government and corporate contacts.

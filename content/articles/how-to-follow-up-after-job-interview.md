@@ -85,6 +85,8 @@ If your communication has primarily been with a recruiter, send your thank-you n
 
 #### Should I connect with the interviewer on LinkedIn?
 
-Sending a LinkedIn connection request after the interview is generally advisable. Include a personalized note that references your conversation. This provides an additional professional way to remain on their radar.**What if I realize I made a mistake in the interview?**
+Sending a LinkedIn connection request after the interview is generally advisable. Include a personalized note that references your conversation. This provides an additional professional way to remain on their radar.
+
+**What if I realize I made a mistake in the interview?**
 
 If you recognize that you made an error during the interview, use your thank-you email to briefly and gracefully correct it. For example, "After our conversation, I reflected on your question about [topic]. I wanted to clarify that [brief, corrected answer]." Keep this correction concise and confident. Avoid dwelling on the mistake.

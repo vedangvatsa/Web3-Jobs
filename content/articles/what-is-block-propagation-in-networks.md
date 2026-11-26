@@ -68,7 +68,9 @@ Given the importance of propagation speed, developers have introduced several in
 
 #### Compact Blocks (BIP 152)
 
-Instead of transmitting the entire block, which might contain thousands of transactions, nodes can send a much smaller "compact block."**How it Works:**- When a node creates a new block, it shares only the block header and a list of shortened transaction identifiers with its peers.
+Instead of transmitting the entire block, which might contain thousands of transactions, nodes can send a much smaller "compact block."**How it Works:**
+
+- When a node creates a new block, it shares only the block header and a list of shortened transaction identifiers with its peers.
 - The receiving node checks its mempool (the list of pending transactions) to see if it possesses most of these transactions.
 - It reconstructs the block locally using the transactions it already knows. If it lacks a few, it can request only those specific transactions from its peer.
 

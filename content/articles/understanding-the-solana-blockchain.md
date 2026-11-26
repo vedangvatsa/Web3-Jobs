@@ -132,5 +132,7 @@ A small random validator sample with repeated voting is how Avalanche reaches co
 
 #### What caused past outages?
 
-Past halts were tied to overload and software bugs, with the February 2024 case tied to the LoadedPrograms cache. Recent work includes local fee markets for hot accounts and a second validator client, Firedancer, which reached mainnet in late 2025. Recurrence is still possible.**What do I need to write a Solana program?**
+Past halts were tied to overload and software bugs, with the February 2024 case tied to the LoadedPrograms cache. Recent work includes local fee markets for hot accounts and a second validator client, Firedancer, which reached mainnet in late 2025. Recurrence is still possible.
+
+**What do I need to write a Solana program?**
 Rust is the main language, plus C where needed. Anchor covers account handling, instruction routing, and client IDL generation. Experience with ownership, lifetimes, and the Solana account model helps.

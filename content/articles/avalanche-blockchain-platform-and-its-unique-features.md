@@ -160,5 +160,7 @@ Cap is 720 million AVAX. 360 million at genesis, remainder as staking issuance. 
 
 #### When should I choose C-Chain versus my own L1?
 
-Start on the C-Chain if your transaction rate is modest, you want immediate access to stablecoins, custody, wallets, and DeFi liquidity, and you do not need custom compliance. Move to an L1 when you need your own gas token, predictable fees under your own load, permissioning, privacy, or VM changes that the C-Chain cannot provide.**Where can I verify these details?**
+Start on the C-Chain if your transaction rate is modest, you want immediate access to stablecoins, custody, wallets, and DeFi liquidity, and you do not need custom compliance. Move to an L1 when you need your own gas token, predictable fees under your own load, permissioning, privacy, or VM changes that the C-Chain cannot provide.
+
+**Where can I verify these details?**
 Primary Network and consensus docs at build.avax.network/docs/primary-network and docs/avax-consensus, staking guide at build.avax.network/docs/primary-network/validate, ICM at build.avax.network/docs/cross-chain/avalanche-warp-messaging, Etna changes at avax.network/about/blog/etna-enhancing-the-sovereignty-of-avalanche-l1-networks, and live network stats at explorer.avax.network, status.avax.network, and avascan.info.

@@ -32,7 +32,7 @@ This initial phase emphasizes immersion and establishing a solid understanding o
 
 **Engage with Foundational Materials:**
 
-- **Read Essential Texts:**Familiarize yourself with the [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) whitepapers. Explore influential articles such as "Why Decentralization Matters" by Chris Dixon.
+- **Read Essential Texts:** Familiarize yourself with the [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) whitepapers. Explore influential articles such as "Why Decentralization Matters" by Chris Dixon.
  - **Curate Information Sources:** Listen to daily podcasts like Bankless and Unchained. Follow leading thinkers and builders on Twitter to stay updated.
 
 2. **Become Proficient with Tools:**
@@ -43,7 +43,7 @@ This initial phase emphasizes immersion and establishing a solid understanding o
 
 3. **Learn Technical and Economic Basics:**
 
-- **Technical Literacy:**While coding is not mandatory, grasping fundamental concepts is essential. Understand the Ethereum Virtual Machine (EVM), gas mechanics, Layer 2 solutions, and the distinctions between `call` and `delegatecall`.
+- **Technical Literacy:** While coding is not mandatory, grasping fundamental concepts is essential. Understand the Ethereum Virtual Machine (EVM), gas mechanics, Layer 2 solutions, and the distinctions between `call` and `delegatecall`.
  - **Tokenomics Essentials:** Study the principles of [tokenomics](/understanding-tokenomics). Familiarize yourself with supply and demand dynamics, vesting schedules, and various utility models such as governance and [staking](/how-to-become-a-web3-staking-specialist).
 
 ### Phase 2: Building Your "Proof of Work" Portfolio (Next 6 Months)
@@ -56,14 +56,16 @@ In Web3, your public contributions serve as your [resume](/how-to-build-a-web3-r
 
 **Become an Informed Analyst:**
 
-- **Conduct Product Evaluations:**Select a well-known dApp and write a detailed critique. Assess its user experience, growth strategies, and tokenomics. Suggest new features based on your analysis. Share your findings on platforms like Mirror or Substack.
+- **Conduct Product Evaluations:** Select a well-known dApp and write a detailed critique. Assess its user experience, growth strategies, and tokenomics. Suggest new features based on your analysis. Share your findings on platforms like Mirror or Substack.
  - **Create a Dune Dashboard:** Acquire basic SQL skills and use Dune Analytics to develop a dashboard for a protocol you admire. Monitor metrics like user retention, transaction volume, and feature engagement. Share insights on Twitter.
 
 2. **Actively Contribute to a [DAO](/what-is-a-dao):** This represents one of the best avenues for gaining practical experience.
  - **Transition from Observer to Contributor:** Start offering thoughtful comments on governance proposals in the DAO you joined earlier.
  - **Draft a Proposal:** Writing a well-researched proposal to address a specific issue within the DAO exemplifies PM skills. Securing approval for your proposal signals your capability to future employers.
 
-3. **Network Through Value Creation:**- Engage with PMs and founders on Twitter and Farcaster. Instead of asking for job opportunities, seek feedback on your product analyses or proposals.
+3. **Network Through Value Creation:**
+
+- Engage with PMs and founders on Twitter and Farcaster. Instead of asking for job opportunities, seek feedback on your product analyses or proposals.
  - Attend hackathons, such as ETHGlobal, to provide your product thinking expertise to development teams.
 
 ### Phase 3: Securing Your First Web3 PM Position
@@ -74,7 +76,9 @@ With a solid foundation of knowledge and a portfolio of work, you are prepared t
 
 **Key Actions:** 1.
 
-**Craft a Web3-Centric Resume:**- Begin with a summary that narrates your "rabbit hole" journey.
+**Craft a Web3-Centric Resume:**
+
+- Begin with a summary that narrates your "rabbit hole" journey.
  - Include a section titled "Web3 Contributions" above your traditional work experience. Link to your blog posts, Dune dashboards, and governance proposals.
  - Reframe your Web2 experience. For instance, "Managed a team of 5 engineers" transforms into "Led a remote-first, cross-functional team."
 

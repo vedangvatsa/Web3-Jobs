@@ -49,15 +49,21 @@ The most promising opportunities for Zimbabwean professionals lie in remote posi
 
 ### Salary Breakdown
 
-- **Developer Compensation:**- Junior DeFi Developer (0-1 year): Competitive (remote)
+- **Developer Compensation:**
+
+- Junior DeFi Developer (0-1 year): Competitive (remote)
  - Mid-Level Developer (1-3 years): Competitive (remote)
  - Senior Developer (3+ years): Competitive (remote)
 
-- **Growth & Community Roles:**- Community Manager (Africa Focus): Competitive (remote)
+- **Growth & Community Roles:**
+
+- Community Manager (Africa Focus): Competitive (remote)
  - Growth Lead: Competitive (remote)
  - Product Manager: Competitive (remote)
 
-- **[Freelance](/how-to-start-freelancing-for-beginners)/Consulting Rates:**- Smart contract audit: Competitive per contract
+- **[Freelance](/how-to-start-freelancing-for-beginners)/Consulting Rates:**
+
+- Smart contract audit: Competitive per contract
  - DeFi consulting: Competitive per hour
  - On-chain analysis: Competitive per hour
 

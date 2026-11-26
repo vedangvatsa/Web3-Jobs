@@ -53,7 +53,9 @@ To illustrate the Intention Economy's benefits, consider the process of booking 
 4. They send tailored offers directly to your wallet, eliminating the need for you to browse their sites.
 5. You review the offers and select the best one, confirming the purchase directly from your wallet.
 
-**Key Differences:**- You maintain control over the process.
+**Key Differences:**
+
+- You maintain control over the process.
 - Your intent remains specific and private, without leaking data to third parties.
 - Providers compete for your business, ensuring you receive the best price.
 

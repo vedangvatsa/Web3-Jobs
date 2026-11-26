@@ -28,14 +28,18 @@ In Web3 this looks like a centralized exchange, custodian, or large infrastructu
 
 ### Who each path fits
 
-**Consider a startup if you:**- Learn best by building and shipping, even when requirements are unclear.
+**Consider a startup if you:**
+
+- Learn best by building and shipping, even when requirements are unclear.
 - Want broad exposure early. You can test product, support, and go-to-market work in one year.
 - Can handle income volatility and unclear job titles in exchange for faster responsibility.
 - Are comfortable with direct feedback from founders and customers with little buffer.
 
 Good early signals: you enjoy owning a problem end to end, you stay calm when the plan changes, and you can explain trade-offs to non-technical teammates.
 
-**Consider a corporation if you:**- Prefer clear scope, mentorship structure, and a defined learning plan.
+**Consider a corporation if you:**
+
+- Prefer clear scope, mentorship structure, and a defined learning plan.
 - Want to go deep in one skill, such as security research, data engineering, or enterprise sales.
 - Value predictable pay, formal benefits, and a documented path to promotion.
 - Do better with process, review, and shared ownership instead of constant context switching.
@@ -111,7 +115,9 @@ Cons:
 - Lower or volatile cash pay, especially at seed to Series A.
 - Equity may be worth nothing and is hard to value before liquidity.
 - Longer or less predictable hours around launches or incidents.
-- Fewer formal mentors, lighter documentation, and more context switching.**Corporation
+- Fewer formal mentors, lighter documentation, and more context switching.
+
+**Corporation**
 
 Pros:
 
@@ -180,5 +186,7 @@ Both work. Newcomers who need structure often start at a larger company or a fun
 
 #### How long should I stay in my first choice?
 
-Plan for at least twelve to eighteen months. That is enough to finish a full cycle, show measured impact, and earn the part of your equity that vests after the cliff. Leave earlier only if the role misrepresents scope, pay, or ethics.**What if I want both breadth and depth over time?**
+Plan for at least twelve to eighteen months. That is enough to finish a full cycle, show measured impact, and earn the part of your equity that vests after the cliff. Leave earlier only if the role misrepresents scope, pay, or ethics.
+
+**What if I want both breadth and depth over time?**
 Many people do. A common sequence is to start where you need structure, build a portable skill, then join a smaller team to apply it broadly. Others start broad and then join a larger team to formalize the same skills at scale. Sequence matters more than the first logo.

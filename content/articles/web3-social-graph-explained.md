@@ -32,14 +32,14 @@ A Web3 social graph protocol distinguishes between the data layer and the applic
 
 Two prominent projects are leading the charge in building the open social graph:**1. Farcaster**
 
-- **Architecture:**Farcaster employs a hybrid approach that balances decentralization. Your identity exists as an [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network called Optimism. Posts, likes, and follows are stored off-chain within a peer-to-peer network of servers known as "Hubs."
+- **Architecture:** Farcaster employs a hybrid approach that balances decentralization. Your identity exists as an [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network called Optimism. Posts, likes, and follows are stored off-chain within a peer-to-peer network of servers known as "Hubs."
 - **Ecosystem:** This structure enables a rich ecosystem of clients.
 
 **Warpcast** stands out as the most popular client, but many others offer distinct user experiences.
 
 **2. Lens Protocol**
 
-- **Architecture:**Built on the Polygon blockchain, Lens adopts a fully on-chain methodology. Everything is represented as an NFT, including your profile. Following someone involves minting a "Follower NFT," and posting content allows you to "collect" it as an NFT.
+- **Architecture:** Built on the Polygon blockchain, Lens adopts a fully on-chain methodology. Everything is represented as an NFT, including your profile. Following someone involves minting a "Follower NFT," and posting content allows you to "collect" it as an NFT.
 - **Composability:** Each social action is an on-chain [token](/what-is-a-token), making the entire graph highly composable or programmable. Developers can create new applications that use this on-chain social data, such as a lending protocol that offers favorable loan terms based on your on-chain reputation.
 
 ### Why Does This Matter?
@@ -82,7 +82,9 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 - Transition to a senior engineer or protocol architect role.
 - **Expected Compensation:** Competitive salary range.
 
-**Quick Wins:**- Apply for protocol grants from Lens and Farcaster foundations.
+**Quick Wins:**
+
+- Apply for protocol grants from Lens and Farcaster foundations.
 - Participate in bug bounty programs, earning rewards for security findings.
 
 ### Path 2: Social App Developer (Building on Graph) (8-14 Month Timeline)
@@ -105,7 +107,9 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 **Months 13-14: Move into Leadership**- Ascend to CEO of your social app or VP of Product.
 - **Expected Compensation:** Competitive salary range.
 
-**Quick Wins:**- Access protocol grants available for app developers.
+**Quick Wins:**
+
+- Access protocol grants available for app developers.
 - Pursue venture funding from seed rounds or accelerators.
 
 ### Path 3: Community & Growth Lead (Building Ecosystem) (6-12 Month Timeline)
@@ -127,7 +131,9 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 **Months 11-12: Attain Leadership Position**- Move into a Chief Community Officer or VP of Growth role.
 - **Expected Compensation:** Competitive salary range.
 
-**Quick Wins:**- Obtain grants for community-building programs.
+**Quick Wins:**
+
+- Obtain grants for community-building programs.
 - Explore revenue-sharing models through affiliate partnerships.
 
 ## Why Now: The Social Graph Opportunity
@@ -156,21 +162,29 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Choose your path (protocol developer, app builder, or community leader).
+**Week 1-2:**
+
+- [ ] Choose your path (protocol developer, app builder, or community leader).
 - [ ] Set up accounts on GitHub, Twitter, and Discord.
 - [ ] Enroll in Alchemy University.
 - [ ] Join Farcaster (using Warpcast) and Lens.
 
-**Week 3-4:**- [ ] Complete Alchemy modules.
+**Week 3-4:**
+
+- [ ] Complete Alchemy modules.
 - [ ] Deploy your first project on a testnet.
 - [ ] Follow over 50 social graph builders.
 - [ ] Participate in Discord communities.
 
-**Week 5-6:**- [ ] Build your first social app or contribute to a protocol.
+**Week 5-6:**
+
+- [ ] Build your first social app or contribute to a protocol.
 - [ ] Publish an article on the social graph opportunity.
 - [ ] Network with at least 10 builders or developers.
 
-**Week 7-12:**- [ ] Create 2-3 additional projects.
+**Week 7-12:**
+
+- [ ] Create 2-3 additional projects.
 - [ ] Contribute to a protocol (e.g., PRs).
 - [ ] Network with 20 key individuals in the space.
 - [ ] Aim for a job offer, app funding, or grant opportunity.

@@ -85,7 +85,9 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
 - **Months 19-20: Aim for Principal/CTO Roles**- Target positions as chief architect or CTO.
  - **Expected Compensation:** Competitive plus equity.
 
-**Quick Wins:**- Infrastructure grants vary.
+**Quick Wins:**
+
+- Infrastructure grants vary.
 - Consulting rates can be substantial.
 - Form partnerships with protocols for revenue opportunities.
 
@@ -108,7 +110,9 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
 - **Months 21-24: Become a Creative Director/Founder**- Assume the position of creative director or co-founder of a studio.
  - **Expected Compensation:** Competitive plus equity.
 
-**Quick Wins:**- Participate in game hackathons with rewards.
+**Quick Wins:**
+
+- Participate in game hackathons with rewards.
 - Seek studio grants.
 - Explore revenue-sharing opportunities from NFT launches.
 
@@ -131,7 +135,9 @@ There are various career paths one can pursue in Seattle's Web3 ecosystem, each 
 - **Months 17-18: Transition to VP Engineering/Founder**- Aim for a role as VP engineering or co-founder.
  - **Expected Compensation:** Competitive plus equity.
 
-**Quick Wins:**- Compete in hackathons for awards.
+**Quick Wins:**
+
+- Compete in hackathons for awards.
 - Apply for grants.
 - Explore partnerships with protocols for revenue opportunities.
 

@@ -97,7 +97,9 @@ Success hinges on more than just a marketing budget. Projects must invest in loc
 
 **Expected Compensation:** Within the local salary range.
 
-**Quick Wins:**- Freelance community management can yield varying amounts per project.
+**Quick Wins:**
+
+- Freelance community management can yield varying amounts per project.
 - Consulting for project launches in Brazil may generate substantial income per engagement.
 
 ### Path 2: Content Creator & Influencer Strategist (Portuguese Media Specialist) (8-14 Month Timeline)
@@ -118,7 +120,9 @@ Success hinges on more than just a marketing budget. Projects must invest in loc
 
 **Expected Compensation:** Within the local salary range.
 
-**Quick Wins:**- YouTube monetization can yield varying amounts with a growing audience.
+**Quick Wins:**
+
+- YouTube monetization can yield varying amounts with a growing audience.
 - Consulting and sponsorships can significantly increase income.
 
 ### Path 3: Growth Marketing Manager (Data-Driven Acquisition) (6-12 Month Timeline)
@@ -142,7 +146,9 @@ Success hinges on more than just a marketing budget. Projects must invest in loc
 
 **Expected Compensation:** Within the local salary range.
 
-**Quick Wins:**- Growth consulting can earn competitive hourly rates.
+**Quick Wins:**
+
+- Growth consulting can earn competitive hourly rates.
 - Launching optimization projects may generate substantial income per engagement.
 
 ## Challenges & Solutions
@@ -169,31 +175,43 @@ Success hinges on more than just a marketing budget. Projects must invest in loc
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Assess your fluency in Brazilian Portuguese. Enroll in an intensive course if necessary.
+**Week 1-2:**
+
+- [ ] Assess your fluency in Brazilian Portuguese. Enroll in an intensive course if necessary.
 - [ ] Establish professional profiles on platforms such as [GitHub](/building-web3-portfolio), Twitter, and LinkedIn.
 - [ ] Join multiple Brazilian Web3 Telegram/Discord communities to network and learn.
 - [ ] Subscribe to Brazilian crypto news sources.
 
-**Week 3-4:**- [ ] Create and publish your first educational article in Portuguese, targeting a substantial word count.
+**Week 3-4:**
+
+- [ ] Create and publish your first educational article in Portuguese, targeting a substantial word count.
 - [ ] Conduct outreach to Brazilian Web3 professionals for networking.
 - [ ] Engage daily in Brazilian crypto communities through thoughtful comments.
 - [ ] If pursuing the content creator path, start your YouTube channel or finalize your growth marketing toolkit.
 
-**Week 5-6:**- [ ] Publish your second piece of content.
+**Week 5-6:**
+
+- [ ] Publish your second piece of content.
 - [ ] Apply for community manager or growth marketing roles.
 - [ ] Launch a webinar or Twitter space focused on the Brazilian community.
 
-**Week 7-8:**- [ ] Publish your third content piece.
+**Week 7-8:**
+
+- [ ] Publish your third content piece.
 - [ ] Schedule coffee chats with influential Brazilian Web3 figures.
 - [ ] Apply for additional roles.
 - [ ] Attend at least one virtual or in-person Brazilian Web3 event.
 
-**Week 9-10:**- [ ] Secure your first freelance or consulting engagement, aiming for a competitive income.
+**Week 9-10:**
+
+- [ ] Secure your first freelance or consulting engagement, aiming for a competitive income.
 - [ ] Grow your Twitter following.
 - [ ] Apply to agencies or larger projects.
 - [ ] Publish a market analysis or research piece.
 
-**Week 11-12:**- [ ] Finalize negotiations for a job offer or consulting contract.
+**Week 11-12:**
+
+- [ ] Finalize negotiations for a job offer or consulting contract.
 - [ ] Target serious interviews or a consulting engagement.
 - [ ] Reflect on your three-month journey building a Web3 career in Brazil.
 - [ ] Plan your next steps, focusing on your chosen career path.

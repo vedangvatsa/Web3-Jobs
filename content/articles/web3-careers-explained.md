@@ -30,7 +30,7 @@ Smart contract developers are vital to Web3 engineering. They create the code th
 
 - **Primary Skill:** Proficiency in **[Solidity](/best-programming-languages-for-blockchain-development)**, the primary programming language for the [Ethereum](/what-is-ethereum) Virtual Machine (EVM).
 - **Core Focus:** Security and gas optimization. Their code is immutable and often secures significant value, necessitating a security-first approach.
-- **Learn More:**[How to Become a Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)
+- **Learn More:** [How to Become a Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)
 
 ### 2. Frontend / Full-Stack Web3 Developer
 
@@ -57,7 +57,7 @@ Protocol engineers play an important role in building the blockchains themselves
 
 **Go**. A strong academic background in computer science, particularly in distributed systems and cryptography, is often required.
 - **Core Focus:** Enhancing the performance, security, and decentralization of core blockchain infrastructure.
-- **Learn More:**[Building a Career as a Blockchain Infrastructure Engineer](/building-a-career-as-a-web3-blockchain-infrastructure-engineer)
+- **Learn More:** [Building a Career as a Blockchain Infrastructure Engineer](/building-a-career-as-a-web3-blockchain-infrastructure-engineer)
 
 ### 4. Security Researcher / Auditor
 
@@ -65,7 +65,7 @@ These cybersecurity specialists focus on identifying vulnerabilities in smart co
 
 - **Primary Skills:** Extensive knowledge of the EVM and common smart contract attack vectors, such as reentrancy. They excel in debugging and security analysis tools.
 - **Core Focus:** Safeguarding user funds and maintaining protocol integrity. This role ranks among the [highest-paying roles](/highest-paying-web3-jobs) in the industry.
-- **Learn More:**[How to Break into Smart Contract Auditing](/how-to-break-into-web3-smart-contract-auditing)
+- **Learn More:** [How to Break into Smart Contract Auditing](/how-to-break-into-web3-smart-contract-auditing)
 
 ## Non-Technical Career Paths
 
@@ -77,7 +77,7 @@ The community manager holds significant importance in the Web3 space. In a decen
 
 - **Primary Skills:** Strong emotional intelligence, excellent written communication, and the ability to build a positive and engaging online culture.
 - **Core Focus:** Managing Discord and Telegram channels, organizing community events, and serving as the critical link between users and the core team.
-- **Learn More:**[The Web3 Community Manager Career Guide](/web3-community-manager-career)
+- **Learn More:** [The Web3 Community Manager Career Guide](/web3-community-manager-career)
 
 ### 2. Marketing & Growth Manager
 
@@ -85,7 +85,7 @@ Web3 marketing focuses on authentic storytelling, educating the market, and buil
 
 - **Primary Skills:** Exceptional writing abilities, a solid understanding of crypto culture and memes, and experience with content marketing on platforms like Twitter and Mirror.
 - **Core Focus:** Crafting a project's narrative, managing social media presence, and developing partnerships to support organic growth.
-- **Learn More:**[Crypto Marketing Jobs: A Career Guide](/crypto-marketing-jobs)
+- **Learn More:** [Crypto Marketing Jobs: A Career Guide](/crypto-marketing-jobs)
 
 ### 3. Product Manager
 
@@ -93,7 +93,7 @@ Web3 product managers define the vision and roadmap for decentralized products. 
 
 - **Primary Skills:** A blend of technical knowledge, economic insight, and deep user empathy. Consensus-building in a community is essential.
 - **Core Focus:** Translating community feedback and market demands into a coherent product strategy while collaborating with developers to implement it.
-- **Learn More:**[The Web3 Product Manager Career Guide](/web3-product-manager-jobs)
+- **Learn More:** [The Web3 Product Manager Career Guide](/web3-product-manager-jobs)
 
 ### 4. Data Analyst (On-Chain)
 

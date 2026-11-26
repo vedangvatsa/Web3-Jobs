@@ -183,30 +183,40 @@ The most lucrative opportunities arise with international, remote-first companie
 - [ ] Enroll in Alchemy University (free).
 - [ ] Read *Mastering Ethereum* and relevant protocol whitepapers.
 
-**Week 3-4:**- [ ] Complete Alchemy modules.
+**Week 3-4:**
+
+- [ ] Complete Alchemy modules.
 - [ ] Deploy your first smart contract (testnet).
 - [ ] Write a technical article.
 - [ ] Network: Follow 50+ developers in the global Web3 community.
 
-**Week 5-6:**- [ ] Build your first project (real and deployable).
+**Week 5-6:**
+
+- [ ] Build your first project (real and deployable).
 - [ ] If Path 1: Make your first pull request to a major protocol.
 - [ ] If Path 2: Start practicing on Ethernaut or Code4rena.
 - [ ] If Path 3: Develop your portfolio DApp.
 - [ ] Publish a walkthrough or article.
 
-**Week 7-8:**- [ ] Build a second project (more sophisticated).
+**Week 7-8:**
+
+- [ ] Build a second project (more sophisticated).
 - [ ] If Path 1: Make 3-5 additional pull requests to the protocol.
 - [ ] If Path 2: Enter your first Code4rena contest (or Ethernaut challenge).
 - [ ] If Path 3: Build a second DApp.
 - [ ] Network: Schedule 10 coffee chats with developers.
 
-**Week 9-10:**- [ ] If Path 1: Achieve 5+ merged PRs; gain visibility in the community.
+**Week 9-10:**
+
+- [ ] If Path 1: Achieve 5+ merged PRs; gain visibility in the community.
 - [ ] If Path 2: Earn income from your first Code4rena contest or bug bounty.
 - [ ] If Path 3: Apply to five companies with your portfolio.
 - [ ] Publish your second or third technical article.
 - [ ] Twitter: Aim for 500+ followers.
 
-**Week 11-12:**- [ ] If Path 1: Engage with protocol teams about potential opportunities.
+**Week 11-12:**
+
+- [ ] If Path 1: Engage with protocol teams about potential opportunities.
 - [ ] If Path 2: Generate consistent Code4rena income; target competitive earnings per contest.
 - [ ] If Path 3: Participate in 1-2 serious interviews.
 - [ ] Reflect on your progress: "3 Months Building My Web3 Engineering Career."

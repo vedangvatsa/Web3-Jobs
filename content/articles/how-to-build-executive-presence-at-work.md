@@ -90,6 +90,8 @@ Confidence forms a part of executive presence but does not encompass the entiret
 
 #### What's a quick tip I can use in my next meeting?
 
-Identify one key point to communicate and gather supporting evidence. When the opportunity arises, present your point clearly and succinctly. After speaking, pause and listen. Avoid filling any silence; this demonstrates thoughtfulness and confidence in your input.**How long does it take to develop executive presence?**
+Identify one key point to communicate and gather supporting evidence. When the opportunity arises, present your point clearly and succinctly. After speaking, pause and listen. Avoid filling any silence; this demonstrates thoughtfulness and confidence in your input.
+
+**How long does it take to develop executive presence?**
 
 The timeline varies for individuals. Developing executive presence is not an overnight process; it requires building habits over time. Focus on making incremental improvements and seek regular feedback from a trusted mentor or manager. Celebrate small victories, such as delivering a presentation without filler words or effectively managing a challenging conversation. Consistency is key to your progress.

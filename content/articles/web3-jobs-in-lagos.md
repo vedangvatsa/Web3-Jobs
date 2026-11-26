@@ -78,7 +78,9 @@ Here is an overview of in-demand positions along with their salary ranges:
 4. **Months 15-16: Transition to Leadership**- Move into senior engineering or team lead roles, specializing in emerging markets FinTech.
  - **Expected Compensation:** Competitive.
 
-**Quick Wins:**- Consult for Nigerian startups at competitive rates.
+**Quick Wins:**
+
+- Consult for Nigerian startups at competitive rates.
 - Publish impactful content to gain visibility.
 - Secure grants for focused projects.
 
@@ -99,7 +101,9 @@ Here is an overview of in-demand positions along with their salary ranges:
 4. **Months 11-12: Formalize Your Role**- Secure a full-time growth/business development position.
  - **Expected Compensation:** Competitive or equity.
 
-**Quick Wins:**- Establish ambassador programs for major protocols.
+**Quick Wins:**
+
+- Establish ambassador programs for major protocols.
 - Generate income through speaking engagements and content creation.
 
 #### Path 3: Community Organizer & Technical Educator (6-12 Month Timeline)
@@ -119,7 +123,9 @@ Here is an overview of in-demand positions along with their salary ranges:
 4. **Months 11-12: Formalize Your Role**- Shift to a full-time education or community lead position.
  - **Expected Compensation:** Competitive or equity.
 
-**Quick Wins:**- Secure grants for educational initiatives.
+**Quick Wins:**
+
+- Secure grants for educational initiatives.
 - Create a substantial online presence through sponsorships.
 
 ### Addressing Challenges with Solutions
@@ -138,25 +144,39 @@ With the prevalence of scams, focus on building credible projects and educating 
 
 ### 90-Day Quick Start Action Plan
 
-**Weeks 1-2:**- Establish professional profiles on GitHub, Twitter, and LinkedIn.
+**Weeks 1-2:**
+
+- Establish professional profiles on GitHub, Twitter, and LinkedIn.
 - Enroll in Alchemy University.
 - Attend local meetups and join Web3 Discord communities.
 
-**Weeks 3-4:**- Complete initial Alchemy modules and publish your first article.
+**Weeks 3-4:**
+
+- Complete initial Alchemy modules and publish your first article.
 - Network with local Web3 professionals.
 
-**Weeks 5-6:**- Deploy your first mainnet project.
+**Weeks 5-6:**
+
+- Deploy your first mainnet project.
 - Apply for entry-level remote Web3 roles.
 
-**Weeks 7-8:**- Finish projects with thorough documentation.
+**Weeks 7-8:**
+
+- Finish projects with thorough documentation.
 - Attend meetups and build connections.
 
-**Weeks 9-10:**- Publish additional articles and participate in online events.
+**Weeks 9-10:**
+
+- Publish additional articles and participate in online events.
 - Secure freelance contracts.
 
-**Weeks 11-12:**- Target key milestones, such as project completions and networking outcomes.
+**Weeks 11-12:**
 
-**Outputs after 90 days:**- Multiple shipped projects, published articles, and solid networking connections.
+- Target key milestones, such as project completions and networking outcomes.
+
+**Outputs after 90 days:**
+
+- Multiple shipped projects, published articles, and solid networking connections.
 
 ### Frequently Asked Questions
 

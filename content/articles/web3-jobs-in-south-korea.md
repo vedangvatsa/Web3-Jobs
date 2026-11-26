@@ -89,7 +89,9 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 - Transition to a senior game developer or tech lead role.
 - **Expected Compensation:** Significant value.
 
-**Quick Wins:**- Participate in game jam competitions for exposure and prizes.
+**Quick Wins:**
+
+- Participate in game jam competitions for exposure and prizes.
 - Offer consulting services for international studios focused on the Korean market.
 - Engage as a speaker at gaming events.
 
@@ -114,7 +116,9 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 **Months 15-16: Principal or Lead Role**- Transition to positions such as Chief Technology Officer or head of protocol development.
 - **Expected Compensation:** Significant value.
 
-**Quick Wins:**- Compete in hackathons to win regional or national competitions.
+**Quick Wins:**
+
+- Compete in hackathons to win regional or national competitions.
 - Participate in bug bounty programs for Korean protocols.
 - Provide consulting services.
 
@@ -140,7 +144,9 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 **Months 17-18: Executive Role**- Target positions such as Vice President of Business Development or Chief Strategy Officer.
 - **Expected Compensation:** Significant value.
 
-**Quick Wins:**- Enable partnerships between K-pop/IP and crypto sectors, earning significant value per deal.
+**Quick Wins:**
+
+- Enable partnerships between K-pop/IP and crypto sectors, earning significant value per deal.
 - Consult for international companies entering Korea.
 - Participate as a speaker at business events.
 
@@ -196,7 +202,9 @@ The demand for skilled talent in South Korea remains strong, particularly for in
 - [ ] Reflect on your progress with a piece titled "3 Months Building My Web3 Career in Korea."
 - [ ] Plan your next career moves based on your chosen path.
 
-**Expected Outputs After 90 Days:**- 3+ projects or prototypes completed.
+**Expected Outputs After 90 Days:**
+
+- 3+ projects or prototypes completed.
 - 2+ articles published.
 - 1+ consulting engagements secured.
 - 20+ strong contacts in the Korean Web3 sector.

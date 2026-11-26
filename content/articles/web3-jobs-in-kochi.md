@@ -145,32 +145,44 @@ The demand for [Blockchain Developers](/how-to-become-a-blockchain-developer) sp
 
 ## 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn accounts.
+**Weeks 1-2:**
+
+- Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn accounts.
 - Enroll in Alchemy University (free) or explore KBA programs.
 - Connect with local professionals at KBA and Infopark.
 - Join Web3 communities.
 
-**Weeks 3-4:**- Complete initial Alchemy modules or start KBA coursework.
+**Weeks 3-4:**
+
+- Complete initial Alchemy modules or start KBA coursework.
 - Publish your first article titled "Why Kochi Should Be India's Blockchain Hub."
 - Network with contacts in the Kochi tech scene.
 - Attend a local tech or startup event.
 
-**Weeks 5-6:**- Deploy a mainnet project (using Polygon, Optimism).
+**Weeks 5-6:**
+
+- Deploy a mainnet project (using Polygon, Optimism).
 - Publish a second article that offers a technical deep dive.
 - Apply to local or remote roles.
 - Start the KBA application process if pursuing that path.
 
-**Weeks 7-8:**- Build a second project.
+**Weeks 7-8:**
+
+- Build a second project.
 - Apply to remote Web3 roles.
 - Schedule coffee meetings with local connections.
 - Attend an online or local meetup.
 
-**Weeks 9-10:**- Publish a third article or contribute to an open-source project.
+**Weeks 9-10:**
+
+- Publish a third article or contribute to an open-source project.
 - Secure your first freelance contract or consulting gig.
 - Explore consulting firms or startup opportunities.
 - Aim for a goal of growing your social media presence.
 
-**Weeks 11-12:**- Complete your third project.
+**Weeks 11-12:**
+
+- Complete your third project.
 - Target growing your social media following.
 - Aim for serious job interviews.
 - Reflect on your experiences with "3 Months Building Web3 in Kochi."

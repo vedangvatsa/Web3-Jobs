@@ -38,13 +38,17 @@ You do not need to be a developer. DAOs pay for non-technical work that moves th
 
 ## Who it is for and who it is not for
 
-**Good fit:**- Writers, researchers, and analysts who can document protocols, summarize governance calls, or build Dune dashboards that make treasury activity readable.
+**Good fit:**
+
+- Writers, researchers, and analysts who can document protocols, summarize governance calls, or build Dune dashboards that make treasury activity readable.
 - Designers and video editors who can produce educational content and social assets for a single protocol you follow closely.
 - Community operators who can answer support questions, moderate Discord, and onboard new members consistently.
 - Developers and data analysts who can fix issues tracked in GitHub, build small tooling, or review governance proposals for risks.
 - People who can work async, show work in public, and handle variable pay that may include volatile tokens.
 
-**Poor fit:**- People who need a fixed salary from day one, employer benefits, or a manager who assigns a clear backlog. Early DAO income is task-based and irregular.
+**Poor fit:**
+
+- People who need a fixed salary from day one, employer benefits, or a manager who assigns a clear backlog. Early DAO income is task-based and irregular.
 - People who cannot tolerate public work. Your Discord posts, forum comments, and completed bounties are your resume. Private credentials count less here.
 - People who need fast decisions on every spend. Even small treasury moves can take 14 to 30 days when they require forum discussion, a Snapshot check, an on-chain vote, and a timelock.
 - People who cannot manage self-custody. You will receive USDC, ETH, or governance tokens to a wallet you control and you are responsible for gas, bridges, and taxes.
@@ -234,5 +238,7 @@ Never pay to join a DAO or to receive a job. Verify the treasury on-chain via it
 
 #### What is the difference between Snapshot and an on-chain vote?
 
-Snapshot votes are signed messages verified off-chain at a specific block. They cost no gas and signal sentiment, but they do not move funds by themselves. On-chain votes are transactions that, if they pass quorum and majority and clear the timelock, execute automatically. DAOs often use Snapshot first to test support, then an on-chain vote for binding treasury moves.**Can a DAO's treasury disappear?**
+Snapshot votes are signed messages verified off-chain at a specific block. They cost no gas and signal sentiment, but they do not move funds by themselves. On-chain votes are transactions that, if they pass quorum and majority and clear the timelock, execute automatically. DAOs often use Snapshot first to test support, then an on-chain vote for binding treasury moves.
+
+**Can a DAO's treasury disappear?**
 Not silently. Treasury moves are public. The risks are concentration in the native token, which can fall sharply; mispriced bounties or grants; and smart contract bugs or governance attacks. Check holder concentration, stablecoin allocation, audit history, and whether the DAO uses a timelock and multisig threshold that fits its size.

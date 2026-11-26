@@ -44,7 +44,7 @@ Since APY accounts for compounding, it will always be higher than APR for the sa
 Yields in DeFi originate from various sources, including:
 
 - **Lending Interest:** Users lending assets on platforms like [Aave](/what-is-defi) earn interest from borrowers.
-- **Trading Fees:**[Liquidity Providers](/what-is-yield-farming) on decentralized exchanges (DEX), such as Uniswap, earn a share of fees from trades executed in their pool.
+- **Trading Fees:** [Liquidity Providers](/what-is-yield-farming) on decentralized exchanges (DEX), such as Uniswap, earn a share of fees from trades executed in their pool.
 - **[Token](/what-is-a-token) Rewards (Inflation):** Many new protocols offer high yields through inflationary token rewards, incentivizing users to provide liquidity or [stake](/how-to-become-a-web3-staking-specialist) their assets. This reward can be volatile.
 
 ### Yield Sources Table

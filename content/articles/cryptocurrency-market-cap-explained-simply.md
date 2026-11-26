@@ -16,7 +16,7 @@ When you examine cryptocurrency listings on platforms like CoinGecko or CoinMark
 
 Calculating market cap involves a simple formula:**Market Cap = Current Price of a single coin * Circulating Supply**
 
-- **Current Price:**This is the trading price of the cryptocurrency across exchanges.
+- **Current Price:** This is the trading price of the cryptocurrency across exchanges.
 - **Circulating Supply:** This number reflects the total number of coins that have been issued and are available to the public.
 
 **Example Calculation:**

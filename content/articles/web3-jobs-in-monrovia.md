@@ -91,7 +91,9 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 **Months 13-14: Transition to Senior Role**- Aim to become a technical lead or founding engineer.
 - **Expected Compensation:** Competitive income.
 
-**Quick Wins:**- Contribute to open-source impact projects for sponsorship.
+**Quick Wins:**
+
+- Contribute to open-source impact projects for sponsorship.
 - Secure grants from social impact funds.
 - Consult for NGOs on blockchain pilots at competitive rates.
 
@@ -117,7 +119,9 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 - Alternatively, launch your own social impact startup.
 - **Expected Compensation:** Competitive income or equity.
 
-**Quick Wins:**- Secure grants from development funds.
+**Quick Wins:**
+
+- Secure grants from development funds.
 - Speak at impact conferences for fees.
 - Consult with major organizations for competitive rates.
 
@@ -144,7 +148,9 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 - Alternatively, launch your own Web3 education nonprofit.
 - **Expected Compensation:** Competitive income or equity.
 
-**Quick Wins:**- Join a protocol ambassador program for competitive compensation.
+**Quick Wins:**
+
+- Join a protocol ambassador program for competitive compensation.
 - Monetize your YouTube channel with sponsorships.
 - Earn speaking fees for events.
 - Access grant funding.
@@ -153,57 +159,69 @@ Currently, Monrovia lacks a formal Web3 job market. Most career opportunities fo
 
 **Challenge 1: Limited Local Job Market**
 
-- **Reality:**There are virtually no Web3 jobs in Monrovia; remote work is essential.
+- **Reality:** There are virtually no Web3 jobs in Monrovia; remote work is essential.
 - **Solution:** Use remote opportunities. With a favorable cost of living, you can earn a global salary and save significantly.
 
 **Challenge 2: Inconsistent Internet Infrastructure**
 
-- **Reality:**Internet reliability is often low; power outages are common.
+- **Reality:** Internet reliability is often low; power outages are common.
 - **Solution:** Use a dual ISP setup with a mobile hotspot. Invest in an uninterruptible power supply (UPS) for your computer. Work with asynchronous teams, which is common in Monrovia.
 
 **Challenge 3: Absence of a Local Crypto Ecosystem**
 
-- **Reality:**Networking opportunities are scarce, and local expertise is limited.
+- **Reality:** Networking opportunities are scarce, and local expertise is limited.
 - **Solution:** Build a global Twitter community. Engage with online forums daily and contribute to open-source projects.
 
 **Challenge 4: Competing in a Global Market**
 
-- **Reality:**Competing against developers worldwide means Monrovia does not carry the same prestige.
+- **Reality:** Competing against developers worldwide means Monrovia does not carry the same prestige.
 - **Solution:** Build an exceptional portfolio. Focus on impact-driven projects and prepare as a developer addressing real-world issues in Liberia.
 
 **Challenge 5: Trust and Safety Concerns**
 
-- **Reality:**The risk of scams is high. Banks are restrictive regarding cryptocurrency. Social trust remains fragile.
+- **Reality:** The risk of scams is high. Banks are restrictive regarding cryptocurrency. Social trust remains fragile.
 - **Solution:** Work only with established companies or protocols. Use reputable exchanges and help your community identify and avoid scams.
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Set up GitHub, Twitter, and LinkedIn profiles.
+**Week 1-2:**
+
+- [ ] Set up GitHub, Twitter, and LinkedIn profiles.
 - [ ] Enroll in Alchemy University (free).
 - [ ] Join impact-focused Web3 communities.
 - [ ] Reach out to Web3 developers on Twitter.
 
-**Week 3-4:**- [ ] Complete initial Alchemy modules and deploy a testnet project.
+**Week 3-4:**
+
+- [ ] Complete initial Alchemy modules and deploy a testnet project.
 - [ ] Publish your first article: "Why Blockchain Can Help Liberia."
 - [ ] Develop your first project: a remittance or identity dApp.
 - [ ] Network with outreach contacts.
 
-**Week 5-6:**- [ ] Deploy a mainnet project on platforms.
+**Week 5-6:**
+
+- [ ] Deploy a mainnet project on platforms.
 - [ ] Publish a second article, either technical or market analysis.
 - [ ] Apply for gigs on Upwork.
 - [ ] Launch your YouTube channel and post videos.
 
-**Week 7-8:**- [ ] Build a second project.
+**Week 7-8:**
+
+- [ ] Build a second project.
 - [ ] Secure your first Upwork contract.
 - [ ] Host the first community meetup.
 - [ ] Conduct coffee chats with outreach contacts.
 
-**Week 9-10:**- [ ] Publish a third article.
+**Week 9-10:**
+
+- [ ] Publish a third article.
 - [ ] Attend online Web3 events, aiming to speak if possible.
 - [ ] Grow your YouTube channel.
 - [ ] Secure a second Upwork contract or consulting gig.
 
-**Week 11-12:**- [ ] Complete a third project or contribute to an open-source initiative.
+**Week 11-12:**
+
+- [ ] Complete a third project or contribute to an open-source initiative.
 - [ ] Host a second meetup.
 - [ ] Aim for a significant number of Twitter followers.
 - [ ] Target job interviews.

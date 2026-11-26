@@ -41,7 +41,7 @@ Engaging in the Dar es Salaam Web3 ecosystem requires strategic actions. Here ar
 2. **Prioritize Mobile-First Solutions:** Ensure your [portfolio](/building-web3-portfolio) showcases mobile-first projects. Build dApps that are lightweight, user-friendly, and functional in low-bandwidth environments. This focus demonstrates your capability to cater to the African mobile user.
 3. **Engage with Local Communities:**
 
-- **Participate in Meetups:**Be an active participant at Web3 meetups in Dar es Salaam.
+- **Participate in Meetups:** Be an active participant at Web3 meetups in Dar es Salaam.
  - **Connect with Tech Hubs:** Build relationships with local tech hubs and innovation centers that are incubating the next wave of startups.
 4. **Secure a [Remote Job](/remote-work-in-web3) and Build Locally:** The most lucrative pathway often involves acquiring a remote role with a well-funded international protocol. Use your position and knowledge to contribute to building and expanding the local Tanzanian ecosystem.
 
@@ -79,7 +79,9 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 **Months 17-18: Transition to Founder or VP of Mobile**- Start your own mobile DeFi venture or lead a team.
 - **Expected compensation:** Significant value per month, with equity options.
 
-**Quick Wins:**- Hackathon prizes ranging from significant value.
+**Quick Wins:**
+
+- Hackathon prizes ranging from significant value.
 - Protocol grants between significant values.
 - [Freelance](/how-to-start-freelancing-for-beginners) or consulting fees of significant value.
 
@@ -99,7 +101,9 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 - Expected salary: Significant value per month.
 - Launch an educational platform or course.
 
-**Quick Wins:**- Protocol education grants from significant value.
+**Quick Wins:**
+
+- Protocol education grants from significant value.
 - Speaking fees from significant value per talk.
 - Consulting fees of significant value.
 
@@ -122,18 +126,24 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 **Months 17-18: Transition to Founder or CTO**- Start an on-ramp company or lead a division.
 - **Expected compensation:** Significant value per month, plus equity.
 
-**Quick Wins:**- Fintech grants ranging from significant value.
+**Quick Wins:**
+
+- Fintech grants ranging from significant value.
 - Protocol partnerships valued at significant value.
 - Consulting fees of significant value.
 
 ## The Advantages of Dar es Salaam
 
-**Opportunity:**- A mobile-first continent requires mobile-first solutions.
+**Opportunity:**
+
+- A mobile-first continent requires mobile-first solutions.
 - A strong community supports grassroots adoption.
 - Dar es Salaam serves as a gateway to East Africa, with connections to Kenya, Uganda, and Rwanda.
 - There are real challenges in fintech that require new solutions.
 
-**Advantage:**- Swahili-speaking Web3 expertise is scarce and therefore highly valuable.
+**Advantage:**
+
+- Swahili-speaking Web3 expertise is scarce and therefore highly valuable.
 - Existing mobile money infrastructure offers on-ramp opportunities.
 - An expanding pool of tech talent is available.
 - The government shows increasing openness toward fintech and CBDCs.
@@ -158,31 +168,43 @@ If you are ready to join a grassroots movement shaping the future of finance in 
 
 ## 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- [ ] Choose your path (mobile developer, educator, or on-ramp specialist).
+**Weeks 1-2:**
+
+- [ ] Choose your path (mobile developer, educator, or on-ramp specialist).
 - [ ] Set up GitHub, Twitter, and YouTube (if pursuing education).
 - [ ] Enroll in Alchemy University for blockchain basics.
 - [ ] Join local Dar es Salaam Web3 communities.
 
-**Weeks 3-4:**- [ ] Complete blockchain fundamentals.
+**Weeks 3-4:**
+
+- [ ] Complete blockchain fundamentals.
 - [ ] Deploy your first smart contract on a testnet.
 - [ ] Study mobile development frameworks and fintech applications.
 - [ ] Network with at least 20 local developers and tech professionals.
 
-**Weeks 5-6:**- [ ] Build your first project and make it public on GitHub.
+**Weeks 5-6:**
+
+- [ ] Build your first project and make it public on GitHub.
 - [ ] Start your YouTube channel or blog (if on the educator path).
 - [ ] Publish one article in English or Swahili.
 - [ ] Host your first meetup or workshop.
 
-**Weeks 7-8:**- [ ] Build a second, more ambitious project.
+**Weeks 7-8:**
+
+- [ ] Build a second, more ambitious project.
 - [ ] Grow your audience (if on the educator path).
 - [ ] Schedule five coffee chats with tech leads.
 - [ ] Apply for five remote Web3 roles.
 
-**Weeks 9-10:**- [ ] Secure your first freelance, grant, or consulting opportunity.
+**Weeks 9-10:**
+
+- [ ] Secure your first freelance, grant, or consulting opportunity.
 - [ ] Publish a technical article.
 - [ ] Plan your next three months of activities.
 
-**Weeks 11-12:**- [ ] Aim for one paid role or significant attendees at a workshop.
+**Weeks 11-12:**
+
+- [ ] Aim for one paid role or significant attendees at a workshop.
 - [ ] Reflect on "Building Web3 in Dar."
 - [ ] Create a plan for the next phase of your career.
 

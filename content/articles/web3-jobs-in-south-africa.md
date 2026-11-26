@@ -48,7 +48,7 @@ The demand for Web3 professionals in South Africa continues to grow, with compet
 
 2. **Engage with the Local Community:**
 
-- **Attend Meetups:**Participate in local Web3 meetups in Cape Town and Johannesburg to network with founders and other professionals.
+- **Attend Meetups:** Participate in local Web3 meetups in Cape Town and Johannesburg to network with founders and other professionals.
  - **Connect with Local Leaders:** Follow and engage with South African Web3 builders, investors, and community leaders on Twitter and LinkedIn.
 
 3. **Develop a Strong Portfolio:** Many high-paying roles are remote positions with international firms. Ensure your portfolio, including GitHub contributions and relevant writing, reflects high-quality work to compete globally.

@@ -47,7 +47,9 @@ The most significant evidence against the "abandoned project" narrative is the s
 
 MWEB allows users to opt-in to confidential transactions, where the amount being sent is hidden from the public [blockchain](/what-is-a-blockchain). The sender and receiver addresses remain visible, but the transaction amount itself is private. This was not a flashy, hype-driven feature, but a fundamental improvement to Litecoin's utility as a currency. A currency where transaction amounts are public is less useful for sensitive financial transactions.
 
-**Why MWEB Matters:**- It took years to research, implement, and test carefully.
+**Why MWEB Matters:**
+
+- It took years to research, implement, and test carefully.
 - It required consensus from the community and miners before activation.
 - It was deployed cautiously with extensive testing on testnet.
 - It demonstrates that Litecoin's development team is not inactive, but rather deliberate and focused on long-term value.

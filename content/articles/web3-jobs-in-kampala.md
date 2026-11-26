@@ -57,7 +57,9 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 | Mid-Level Developer (1-3 years) | 3,500,000 - 6,500,000 | Competitive |
 | Senior Developer (3+ years) | 6,500,000 - 10,000,000+ | Competitive |
 
-**Remote (International):**- International Web3 roles offer salaries from significant amounts per month.
+**Remote (International):**
+
+- International Web3 roles offer salaries from significant amounts per month.
 - Freelance opportunities range from competitive hourly rates.
 
 **Cost of Living Analysis for a Remote Developer Earning a Competitive Salary:**

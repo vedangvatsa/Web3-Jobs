@@ -261,18 +261,26 @@ Send a short thank you within 24 hours. Restate one specific topic you discussed
 
 ## Pros and cons to weigh
 
-**Pros of the standard product loop:**- Shows how you think and collaborate under time pressure, which predicts close work on the job
+**Pros of the standard product loop:**
+
+- Shows how you think and collaborate under time pressure, which predicts close work on the job
 - Tests distinct skills separately, so a hiring committee gets a fuller picture than a single long case
 - Rubrics make scoring more consistent than gut feel
 
-**Cons:**- Rewards recall and speed, which can favor recent interview prep over seasoned building
+**Cons:**
+
+- Rewards recall and speed, which can favor recent interview prep over seasoned building
 - Small slips in one round can be over-scored if the rubric is weak or the interviewer is rushed
 - Web3 governance and security trade-offs are hard to assess in 45 minutes, so strong candidates can be cut on a narrow prompt
 
-**Pros of more open Web3-heavy loops:**- Closer to real work: you read proposals, check on-chain data, and write a clear recommendation for a community
+**Pros of more open Web3-heavy loops:**
+
+- Closer to real work: you read proposals, check on-chain data, and write a clear recommendation for a community
 - Lets you show community work: forum posts, Dune dashboards, and grant or governance contributions count as proof
 
-**Cons:**- Takes more unpaid time and is easier to delegate to tools, so reviewers now probe harder in a live follow-up where you must defend your take without notes
+**Cons:**
+
+- Takes more unpaid time and is easier to delegate to tools, so reviewers now probe harder in a live follow-up where you must defend your take without notes
 - Public scrutiny is higher. Your past posts and votes are visible, which helps if they are thoughtful and hurts if they are shallow
 
 ## FAQ

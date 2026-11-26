@@ -55,7 +55,7 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 
 **Months 1-3: [Learn Web3](/from-web2-to-web3-developer-career-guide) + NFT Mechanics**
 
-- **Weeks 1-2:**Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn; focus on learning smart contracts, particularly NFT standards like ERC-721 and ERC-1155.
+- **Weeks 1-2:** Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn; focus on learning smart contracts, particularly NFT standards like ERC-721 and ERC-1155.
 - **Weeks 3-4:** Develop three simple NFT projects: a basic token, an NFT collection, and a marketplace.
 - **Month 2:** Engage with Accra's artist community to understand their needs.
 - **Month 3:** Launch your first NFT project, either by creating the technical infrastructure or as an artist.
@@ -75,7 +75,9 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 **Months 11-12: Scale & Formalize**- Obtain a full-time position at a protocol, platform, or NFT marketplace, with an expected salary of $3,000-$5,000/month.
 - Alternatively, continue freelancing and securing sponsorships, with potential earnings of $2,500-$5,000/month.
 
-**Quick Wins:**- Launch your own NFT collection and sell it for a competitive price.
+**Quick Wins:**
+
+- Launch your own NFT collection and sell it for a competitive price.
 - Conduct NFT workshops for artists, charging competitive rates per session.
 - Create open-source tools for NFT creators and seek sponsorships from protocols.
 
@@ -100,7 +102,9 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 - This specialization can lead to a senior or founding role.
 - **Expected Compensation:** Competitive monthly income.
 
-**Quick Wins:**- Win Code4rena audits and earn competitive rewards per win.
+**Quick Wins:**
+
+- Win Code4rena audits and earn competitive rewards per win.
 - Provide consulting services for Web3 startups at competitive rates.
 - Publish security research to increase visibility and job prospects.
 
@@ -128,7 +132,9 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 **Months 11-12: Strategic Role**- Secure a full-time position at a protocol or Web3 education startup.
 - **Expected Compensation:** Competitive monthly income or equity.
 
-**Quick Wins:**- Generate YouTube sponsorships ranging from competitive amounts.
+**Quick Wins:**
+
+- Generate YouTube sponsorships ranging from competitive amounts.
 - Establish an ambassador program for major protocols, earning competitive amounts plus bonuses.
 - Command speaking fees at conferences, ranging from competitive amounts per talk.
 - Launch a Substack newsletter with a significant subscriber base.
@@ -157,32 +163,44 @@ The demand for Web3 talent in Accra is on the rise, especially for developers an
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Establish a professional GitHub, Twitter, and LinkedIn profile.
+**Week 1-2:**
+
+- [ ] Establish a professional GitHub, Twitter, and LinkedIn profile.
 - [ ] Enroll in Alchemy University (free course).
 - [ ] Join five Web3 Discord communities.
 - [ ] Connect with over 10 local Web3 professionals on Twitter.
 
-**Week 3-4:**- [ ] Complete initial Alchemy modules and deploy testnet projects.
+**Week 3-4:**
+
+- [ ] Complete initial Alchemy modules and deploy testnet projects.
 - [ ] Publish your first article titled "Why Accra Should Be Africa's Web3 Capital" (target 2,000+ words).
 - [ ] Engage with 20 Web3 developers through authentic interactions.
 - [ ] Attend your first Accra Web3 meetup or plan to initiate one.
 
-**Week 5-6:**- [ ] Deploy your first mainnet project (using Polygon or Optimism).
+**Week 5-6:**
+
+- [ ] Deploy your first mainnet project (using Polygon or Optimism).
 - [ ] Create a second, more complex project.
 - [ ] Write a second article, focusing on a technical deep-dive or market analysis.
 - [ ] Apply to 10 entry-level Web3 positions.
 
-**Week 7-8:**- [ ] Finalize your projects with excellent documentation on GitHub.
+**Week 7-8:**
+
+- [ ] Finalize your projects with excellent documentation on GitHub.
 - [ ] Initiate your own meetup or online community.
 - [ ] Register on Upwork and apply for five blockchain gigs.
 - [ ] Conduct five coffee meetings with individuals you previously reached out to.
 
-**Week 9-10:**- [ ] Publish your third article.
+**Week 9-10:**
+
+- [ ] Publish your third article.
 - [ ] Attend two online Web3 events.
 - [ ] Secure your first Upwork contract (competitive amount).
 - [ ] Host your second meetup, aiming for 30+ attendees.
 
-**Week 11-12:**- [ ] Complete a third project or contribute to open-source initiatives.
+**Week 11-12:**
+
+- [ ] Complete a third project or contribute to open-source initiatives.
 - [ ] Target 1,000+ Twitter followers.
 - [ ] Aim for 1-2 job interviews.
 - [ ] Write a reflective piece titled "3 Months in Web3."

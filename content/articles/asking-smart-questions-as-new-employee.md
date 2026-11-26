@@ -127,12 +127,16 @@ Advanced move: turn a question into a contribution. If docs were missing, offer 
 
 ## Pros and cons
 
-**Pros of asking well:**- You learn context, not just steps, so you make fewer repeated errors. Gallup data shows clear expectations and strong partnerships strongly predict exceptional onboarding (4.7x and 1.9x effects).
+**Pros of asking well:**
+
+- You learn context, not just steps, so you make fewer repeated errors. Gallup data shows clear expectations and strong partnerships strongly predict exceptional onboarding (4.7x and 1.9x effects).
 - You build rapport. Brooks and John found thoughtful questioning builds trust and helps teams exchange ideas and improve performance.
 - You surface risks earlier. Asking interpretive questions often reveals outdated assumptions.
 - You signal humility and engagement without over-apologizing.
 
-**Cons and trade-offs:**- Asking before you try wastes goodwill and suggests you do not value the other person's time. Passive reading alone is not enough per SHRM, but you still need to show effort.
+**Cons and trade-offs:**
+
+- Asking before you try wastes goodwill and suggests you do not value the other person's time. Passive reading alone is not enough per SHRM, but you still need to show effort.
 - Batching can slow you down if you sit on a blocking question too long. Separate blocking from learning questions and ask blocking ones without delay.
 - Asking in public can feel exposing. In the first weeks, use private channels for role-specific gaps until you learn team norms.
 - Over-asking follow-ups in one thread can feel like an interrogation. Pause, summarize what you heard, and confirm understanding: "So I should do X when Y is true, correct?"
@@ -188,5 +192,7 @@ A: Adjust the method, not the goal. Check if you skipped the homework step, aske
 
 #### Q: How do I move from basic to more useful questions over time?
 
-A: Weeks 1 to 4, focus on how work gets done. Weeks 5 to 12, ask more why and trade-off questions. After month 4, propose and test ideas: "I see we do X. Have we considered Y because of Z? I drafted a small example, would feedback help?" This progression matches the 12-month ramp Gallup describes and shows growing judgment.**Q: How often should I meet a buddy or mentor?**
+A: Weeks 1 to 4, focus on how work gets done. Weeks 5 to 12, ask more why and trade-off questions. After month 4, propose and test ideas: "I see we do X. Have we considered Y because of Z? I drafted a small example, would feedback help?" This progression matches the 12-month ramp Gallup describes and shows growing judgment.
+
+**Q: How often should I meet a buddy or mentor?**
 A: Use the Microsoft pattern as a guide. Meet at least once in the first two weeks, then aim for brief check-ins two to three times in the first 90 days if you can. More frequent short meetings correlated with higher perceived productivity in the Microsoft study, up to more than eight meetings for the highest rate. Keep each meeting focused with a short list and action items.

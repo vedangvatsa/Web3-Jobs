@@ -79,9 +79,11 @@ A lighter Ethereum Swift API with support for smart contracts, ENS, and ERC20. A
 .package(url: "https://github.com/argentlabs/web3.swift", from: "1.1.0")
 ```
 
-You provide an `EthereumKeyStorage` conformer for your key, create an `EthereumHttpClient` or `EthereumWebSocketClient` for RPC, then generate typed contract calls from an ABI.**EvmKit.Swift (horizontalsystems/EvmKit.Swift).
+You provide an `EthereumKeyStorage` conformer for your key, create an `EthereumHttpClient` or `EthereumWebSocketClient` for RPC, then generate typed contract calls from an ABI.
 
-**A native Swift toolkit for EVM chains used in Unstoppable Wallet. It handles account and transaction sync over HTTP or WebSocket, stores ETH balances and transactions locally, supports mnemonic, BIP39 seed, private key, or watch address restore, ENS, EIP-1559 gas with live updates, and RxSwift reactive APIs. It supports Ethereum, BNB Chain, Polygon, Arbitrum One, Optimism, and Avalanche C-Chain. Together with Eip20Kit, NftKit, UniswapKit, and OneInchKit it adds DeFi features without WalletConnect.** ZKsync Era Swift SDK (zksync-sdk/zksync2-swift).
+**EvmKit.Swift (horizontalsystems/EvmKit.Swift):** A native Swift toolkit for EVM chains used in Unstoppable Wallet. It handles account and transaction sync over HTTP or WebSocket, stores ETH balances and transactions locally, supports mnemonic, BIP39 seed, private key, or watch address restore, ENS, EIP-1559 gas with live updates, and RxSwift reactive APIs. It supports Ethereum, BNB Chain, Polygon, Arbitrum One, Optimism, and Avalanche C-Chain. Together with Eip20Kit, NftKit, UniswapKit, and OneInchKit it adds DeFi features without WalletConnect.
+
+**ZKsync Era Swift SDK (zksync-sdk/zksync2-swift):**
 
 **A web3swift-based SDK for ZKsync Era. It ports most web3swift APIs and adds ZKsync-specific fields for account abstraction and contract deployment. It exposes `ZkSyncClient` for chain queries and `Wallet` with `WalletL1` and `WalletL2` for deposits, withdrawals, and transfers. Minimums listed: iOS 13 and macOS 11.** Aptos Swift SDK (aptos-labs/aptos-swift-sdk).
 

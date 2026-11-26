@@ -35,7 +35,9 @@ Lome is centrally located in Francophone West Africa:
 - Lome serves as a gateway to Anglophone Nigeria, with a large population.
 - Historical and linguistic connections to France, Belgium, and Luxembourg enhance its appeal.
 
-**Implications:**- European investments in African FinTech often flow through Francophone hubs.
+**Implications:**
+
+- European investments in African FinTech often flow through Francophone hubs.
 - Regulatory frameworks within the WAEMU region are harmonized, enabling smoother operations for companies.
 - Developers in Lome can access the entire West African market.
 - A French-speaking talent pool is available from both Europe and Africa.
@@ -82,7 +84,9 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Opportunity:** The demand for developers who can create secure and scalable mobile payment applications that integrate blockchain technology is high.
 
-**Typical Projects:**- Mobile wallets optimized for USSD (a basic phone SMS protocol)
+**Typical Projects:**
+
+- Mobile wallets optimized for USSD (a basic phone SMS protocol)
 - Payment applications incorporating stablecoins
 - Blockchain-based remittance platforms
 - CBDC pilot applications
@@ -93,10 +97,14 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 - **Mid-Level (2-5 years):** $40,00,000 - $85,000 USD
 - **Senior (5+ years):** $40,00,000 - $85,000 USD
 
-**Local vs. Remote:**- Local companies in Lome typically offer competitive salaries.
+**Local vs. Remote:**
+
+- Local companies in Lome typically offer competitive salaries.
 - Remote positions with international companies command significantly higher salaries (based on international market rates).
 
-**Required Skills:**- Proficiency in React Native or Flutter for mobile development
+**Required Skills:**
+
+- Proficiency in React Native or Flutter for mobile development
 - Familiarity with Web3.js or Ethers.js for blockchain integration
 - Understanding of payment system architecture
 - Knowledge of USSD protocols for SMS-based payments
@@ -106,7 +114,9 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Opportunity:** Product managers capable of designing and managing large-scale digital payment or identity projects are in high demand, especially for roles involving NGOs or government initiatives.
 
-**Typical Background:**- Experience in FinTech product management
+**Typical Background:**
+
+- Experience in FinTech product management
 - Understanding of payment systems within emerging markets
 - Familiarity with NGO and government workflows
 - Basic knowledge of blockchain technology
@@ -123,7 +133,9 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Opportunity:** Professionals who can cultivate and manage local communities, develop educational content, and provide user support in local languages are essential for grassroots adoption.
 
-**Responsibilities:**- Organizing meetups and workshops in French and Ewe
+**Responsibilities:**
+
+- Organizing meetups and workshops in French and Ewe
 - Creating educational content for platforms like YouTube, WhatsApp, and TikTok
 - Conducting user testing and collecting feedback
 - Educating communities about the risks and benefits of blockchain technology
@@ -131,7 +143,7 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 
 **Compensation:**
 
-- **Self-initiated roles:**Start at a variable range; can increase as credibility builds.
+- **Self-initiated roles:** Start at a variable range; can increase as credibility builds.
 - **NGO-funded positions:** $40,00,000 - $85,000 USD
 - **Grants from DAOs:** Variable range for specific initiatives
 
@@ -147,7 +159,9 @@ Refer to **[Web3 Career Growth and Development](web3-career-growth-and-developme
 - **Mid-Level Developers:** $40,00,000 - $85,000 USD
 - **Senior Developers:** $40,00,000 - $85,000 USD
 
-**Required Skills:**- Proficiency in Solidity or Rust
+**Required Skills:**
+
+- Proficiency in Solidity or Rust
 - Understanding of smart contract security
 - Knowledge of DeFi protocols
 - Experience in payment system design
@@ -229,7 +243,9 @@ During the COVID-19 pandemic, Togo effectively implemented emergency cash transf
 | Community Lead | $40,00,000 - $85,000 USD | $40,00,000 - $85,000 USD | Smaller salary disparity |
 | Protocol Developer | $40,00,000 - $85,000 USD | $40,00,000 - $85,000 USD | 2-3x salary difference |
 
-**Cost of Living in Lome:**- Rent for a decent apartment: $300 - $600 / month
+**Cost of Living in Lome:**
+
+- Rent for a decent apartment: $300 - $600 / month
 - Average food expenses: $300 - $600 / month
 - Overall living costs: Generally lower than in most global cities.
 - A remote job significantly improves living standards.
@@ -248,32 +264,44 @@ The formal Web3 job market in Lome is still in its infancy. Most opportunities c
 
 ### 2. Internet Infrastructure
 
-**Current Infrastructure:**- Average speeds are sufficient for development.
+**Current Infrastructure:**
+
+- Average speeds are sufficient for development.
 - Generally reliable internet connectivity in central Lome.
 - Monthly costs for decent connections are reasonable.
 - Having a 4G mobile hotspot can provide necessary backup.
 
-**Implications:**- The internet is reliable enough for remote work.
+**Implications:**
+
+- The internet is reliable enough for remote work.
 - Video conferencing typically functions well.
 - Be prepared for occasional outages and factor this into project timelines.
 
 ### 3. Language Dynamics
 
-**Advantages:**- Proficiency in French opens doors to other Francophone countries.
+**Advantages:**
+
+- Proficiency in French opens doors to other Francophone countries.
 - Knowledge of Ewe or other local languages aids in community engagement.
 - Lower competition, as many international firms prioritize English speakers.
 
-**Disadvantages:**- A majority of Web3 documentation is in English.
+**Disadvantages:**
+
+- A majority of Web3 documentation is in English.
 - Translation of learning materials may be necessary.
 - Additional language acquisition could be required.
 
 ### 4. Regulatory Uncertainty
 
-**Current Environment:**- Togo is supportive of FinTech but lacks specific regulations for cryptocurrencies.
+**Current Environment:**
+
+- Togo is supportive of FinTech but lacks specific regulations for cryptocurrencies.
 - The CBDC exploration is underway, but a clear timeline remains uncertain.
 - Regulatory conditions could change rapidly, for better or worse.
 
-**Navigational Strategies:**- Stay updated on government announcements regarding regulations.
+**Navigational Strategies:**
+
+- Stay updated on government announcements regarding regulations.
 - Engage with the Ministry of Digital Economy to remain informed.
 - Focus on projects within regulated frameworks, such as CBDC pilots and NGO initiatives.
 - Steer clear of speculative or gambling-related projects.

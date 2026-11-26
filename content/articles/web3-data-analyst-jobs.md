@@ -18,7 +18,9 @@ Unlike traditional data analysts who work with private datasets, Web3 analysts u
 
 Web3 data analysts address essential business questions by directly querying the [blockchain](/what-is-a-blockchain). Their contributions are vital for making informed decisions in a decentralized context.
 
-**Examples of questions a Web3 analyst might tackle include:**- What is the actual user retention rate of our protocol?
+**Examples of questions a Web3 analyst might tackle include:**
+
+- What is the actual user retention rate of our protocol?
 - Which new [NFT](/what-are-nfts) collections are attracting significant interest from high-value wallets?
 - How did our recent feature launch affect trading volumes on our [DEX](/what-is-a-decentralized-exchange-dex)?
 - What demographic trends appear among users participating in governance votes?

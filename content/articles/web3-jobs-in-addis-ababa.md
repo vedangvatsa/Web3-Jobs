@@ -114,12 +114,16 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 
 ## Why Addis Ababa?
 
-**Opportunity:**- Early-stage market with minimal competition.
+**Opportunity:**
+
+- Early-stage market with minimal competition.
 - A vast addressable market of over 100 million people.
 - Government engagement and international development funding support.
 - Favorable demographic trends with a young population.
 
-**Advantages:**- Availability of English-speaking tech professionals.
+**Advantages:**
+
+- Availability of English-speaking tech professionals.
 - Growing tech infrastructure, exemplified by hubs like IceAddis and numerous universities.
 - Strategic position as a gateway to East Africa, including connections to Kenya and Tanzania.
 - Urgent real-world issues to address, such as identity management, agricultural challenges, and financial services.
@@ -144,36 +148,50 @@ Are you ready to become a pioneer in one of Africa's emerging markets? Our [Web3
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Choose your career path (educator, developer, or policy bridge).
+**Week 1-2:**
+
+- [ ] Choose your career path (educator, developer, or policy bridge).
 - [ ] Set up your GitHub, Twitter, and YouTube (if pursuing the educator path).
 - [ ] Enroll in a blockchain basics course (e.g., Alchemy University).
 - [ ] Join Addis Ababa Web3 communities (on platforms like Discord or Telegram).
 
-**Week 3-4:**- [ ] Complete the blockchain fundamentals course.
+**Week 3-4:**
+
+- [ ] Complete the blockchain fundamentals course.
 - [ ] Deploy your first smart contract (on testnet).
 - [ ] Conduct research on Ethiopian problems that blockchain can address.
 - [ ] Network with local tech professionals.
 
-**Week 5-6:**- [ ] Build your first project and make it public on GitHub.
+**Week 5-6:**
+
+- [ ] Build your first project and make it public on GitHub.
 - [ ] Start your YouTube channel or blog (if pursuing the educator path).
 - [ ] Publish your first article.
 - [ ] Host your first meetup or workshop (5-20 attendees).
 
-**Week 7-8:**- [ ] Develop your second project (aim for something more ambitious).
+**Week 7-8:**
+
+- [ ] Develop your second project (aim for something more ambitious).
 - [ ] Grow your audience on YouTube/Twitter.
 - [ ] Schedule coffee chats with government, NGO, and tech leads.
 - [ ] Apply for remote Web3 roles.
 
-**Week 9-10:**- [ ] Secure your first consulting engagement or grant.
+**Week 9-10:**
+
+- [ ] Secure your first consulting engagement or grant.
 - [ ] Publish a technical deep-dive article.
 - [ ] Plan for scaling your efforts over the next three months.
 - [ ] Connect with additional professionals.
 
-**Week 11-12:**- [ ] Target securing either a paid role/grant or a significant number of attendees at weekly workshops.
+**Week 11-12:**
+
+- [ ] Target securing either a paid role/grant or a significant number of attendees at weekly workshops.
 - [ ] Reflect on your journey: "early Web3 in Ethiopia."
 - [ ] Outline your next phase.
 
-**Expected Outputs after 90 Days:**- Several projects showcased on GitHub.
+**Expected Outputs after 90 Days:**
+
+- Several projects showcased on GitHub.
 - A growing audience (if you chose the educator path).
 - A local and international network.
 - At least one paid opportunity (role, grant, or consulting).

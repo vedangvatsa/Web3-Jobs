@@ -68,7 +68,9 @@ The following table summarizes expected salaries for various positions in Bamako
 | Operations Manager | Significant monthly compensation |
 | Content Strategist | Significant monthly compensation |
 
-**Freelance Rates:**- Smart contract audit: Varies based on project complexity
+**Freelance Rates:**
+
+- Smart contract audit: Varies based on project complexity
 - Full-stack dApp development: Varies based on project complexity
 - Consulting (impact/finance): Varies based on project scope
 

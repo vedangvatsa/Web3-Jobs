@@ -152,5 +152,7 @@ Early outages came from overload and bugs under high throughput. The network has
 
 #### What language do Solana programs use?
 
-Rust is the primary language, with C also supported. Most teams use Anchor, which handles account validation, instruction dispatch, and IDL generation.**Where can I learn more?**
+Rust is the primary language, with C also supported. Most teams use Anchor, which handles account validation, instruction dispatch, and IDL generation.
+
+**Where can I learn more?**
 Start with solana.com/learn/what-is-solana for an official overview and solana.com/docs/core/fees for fee details. For validator setup, see docs.anza.xyz operations pages. For live stats, check Solana Compass, Chainspect, or Solana Explorer.

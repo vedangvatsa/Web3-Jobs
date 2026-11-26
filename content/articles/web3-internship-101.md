@@ -53,11 +53,13 @@ Standing out requires tangible evidence of your skills.
 
 **For Aspiring Non-Technical Interns (Marketing, Community, Product):**
 
-- **Start a Blog or Twitter Account:**Use this platform as your portfolio.
+- **Start a Blog or Twitter Account:** Use this platform as your portfolio.
  - Write an analysis of a project's marketing strategy.
  - Create a Twitter thread breaking down a complex topic, such as miner extractable value (MEV), into simpler terms.
  - Launch a newsletter curating significant governance proposals weekly.
-- **Contribute to a DAO:**- Attend community calls and take detailed public notes.
+- **Contribute to a DAO:**
+
+- Attend community calls and take detailed public notes.
  - Identify projects with unclear documentation and offer to rewrite them for clarity.
 
 #### Step 3: Finding Internship Opportunities

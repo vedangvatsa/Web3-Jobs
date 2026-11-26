@@ -77,12 +77,16 @@ Freelancing offers self-employment opportunities, allowing individuals to work o
 
 Choosing between freelancing and full-time employment hinges on your values and priorities.
 
-**Consider a full-time job if you:**- Value a consistent income and financial stability.
+**Consider a full-time job if you:**
+
+- Value a consistent income and financial stability.
 - Prefer a structured daily routine.
 - Seek benefits such as health insurance and retirement plans.
 - Enjoy teamwork and collaborative projects.
 
-**Consider freelancing if you:**- Desire flexibility in your work schedule and location.
+**Consider freelancing if you:**
+
+- Desire flexibility in your work schedule and location.
 - Are self-motivated and able to manage your own time effectively.
 - Enjoy working on diverse projects that challenge you.
 - Are comfortable handling the uncertainty of income fluctuations.

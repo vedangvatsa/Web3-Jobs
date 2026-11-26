@@ -97,7 +97,9 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 **Month 14: Scale & Specialize**- Become a mobile-specific expert for a major protocol.
 - **Expected Compensation:** Competitive salary.
 
-**Quick Wins:**- Consult for Mozambican startups at competitive hourly rates.
+**Quick Wins:**
+
+- Consult for Mozambican startups at competitive hourly rates.
 - Publish mobile development guides with sponsorship.
 - Secure grants from protocols focused on Africa.
 
@@ -123,7 +125,9 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 **Months 11-12: Formalize the Role**- Establish a full-time creative Web3 platform or become the Chief Community Officer for an NFT protocol.
 - **Expected Compensation:** Competitive salary or potential equity.
 
-**Quick Wins:**- Earn revenue shares from artist NFT sales.
+**Quick Wins:**
+
+- Earn revenue shares from artist NFT sales.
 - Develop an ambassador program for creative protocols.
 - Speak at art and tech conferences, earning competitive fees.
 - Pursue grant funding for the creative DAO.
@@ -150,7 +154,9 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 **Months 13-14: Scale Impact**- Secure a full-time regional lead position with a major protocol.
 - **Expected Compensation:** Competitive salary or equity.
 
-**Quick Wins:**- Speak at regional conferences for competitive fees.
+**Quick Wins:**
+
+- Speak at regional conferences for competitive fees.
 - Start a newsletter or Substack with a growing subscriber base.
 - Obtain sponsorships for content creation.
 - Pursue grant funding.
@@ -179,32 +185,44 @@ The formal Web3 job market in Maputo is still nascent. Local talent should focus
 
 ### 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Set up GitHub, Twitter, and LinkedIn accounts. 
+**Week 1-2:**
+
+- [ ] Set up GitHub, Twitter, and LinkedIn accounts. 
 - [ ] Enroll in online courses. 
 - [ ] Join five Web3 and creative communities. 
 - [ ] Connect with Lusophone Web3 professionals.
 
-**Week 3-4:**- [ ] Complete online modules and deploy a testnet project. 
+**Week 3-4:**
+
+- [ ] Complete online modules and deploy a testnet project. 
 - [ ] Publish the first article titled "Why Maputo Should Lead Lusophone Web3." 
 - [ ] Conduct outreach to Web3 builders. 
 - [ ] Connect with local creatives in Maputo.
 
-**Week 5-6:**- [ ] Deploy the first mainnet project. 
+**Week 5-6:**
+
+- [ ] Deploy the first mainnet project. 
 - [ ] Publish a second article, focusing on a technical or market analysis. 
 - [ ] Apply for freelance gigs related to mobile and Web3. 
 - [ ] Start outreach to creators for NFT education workshops.
 
-**Week 7-8:**- [ ] Build a second project focusing on mobile or creative aspects. 
+**Week 7-8:**
+
+- [ ] Build a second project focusing on mobile or creative aspects. 
 - [ ] Secure the first freelance contract. 
 - [ ] Host the first meetup or online event. 
 - [ ] Conduct networking chats with contacts from outreach efforts.
 
-**Week 9-10:**- [ ] Publish a third article. 
+**Week 9-10:**
+
+- [ ] Publish a third article. 
 - [ ] Attend online Web3 events, aiming to speak if possible. 
 - [ ] Secure a second freelance contract or consulting gig. 
 - [ ] Assist local artists in minting NFTs.
 
-**Week 11-12:**- [ ] Deliver the third project. 
+**Week 11-12:**
+
+- [ ] Deliver the third project. 
 - [ ] Host a second event, targeting a larger audience. 
 - [ ] Achieve a goal of a growing social media following. 
 - [ ] Target serious job interviews. 

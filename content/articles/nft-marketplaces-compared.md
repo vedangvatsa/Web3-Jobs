@@ -104,7 +104,9 @@ Curated venues such as SuperRare filter who can mint. Only invited artists can m
 
 OpenSea launched in December 2017 by Devin Finzer and Alex Atallah, went through Y Combinator Winter 2018, and became the largest NFT venue by volume. After Blur took daily volume share in early 2023, OpenSea rebuilt the platform as OS2, launched in beta January 26, 2025 and opened publicly in February to May 2025, cut fees, added token trading, and expanded chain coverage.
 
-**Verified fees and chains as of 2026:**- 1% fee for selling NFTs, 10% fee for minting an NFT in a primary drop through OpenSea, 0% for swaps, with private listings typically at 0% at this time. Source: support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea, updated May 12, 2026.
+**Verified fees and chains as of 2026:**
+
+- 1% fee for selling NFTs, 10% fee for minting an NFT in a primary drop through OpenSea, 0% for swaps, with private listings typically at 0% at this time. Source: support.opensea.io/en/articles/8867091-what-fees-do-i-pay-on-opensea, updated May 12, 2026.
 - Fee timeline: 2.5% original, then 0.5% during OS2 beta, then a 0% promotion around the planned SEA token window, then 1% from September 15, 2025 for all chains as final phase of rewards. Source: docs.opensea.io/changelog/opensea-fee-update, September 9, 2025.
 - Chain coverage: over 20 chains after OS2, including Ethereum, Base, Polygon, Arbitrum, Optimism, Avalanche, Zora, Blast, Sei, Berachain, Ronin, and others. Solana and Bitcoin assets can be browsed, but full trading is EVM-focused. The May 2025 OS2 launch listed 14 chains at first, then expanded. Sources: support.opensea.io and thenftbuzz.com summary of OS2 February 13, 2025 launch.
 - Creator earnings: optional by default. Enforced only if you deploy through OpenSea Studio after April 2, 2024 at 10:00 a.m. PT or use an ERC721-C or ERC1155-C compatible contract with enforcement turned on via Seaport 1.6 and Payment Processor support. Max 10%.
@@ -119,7 +121,9 @@ OpenSea launched in December 2017 by Devin Finzer and Alex Atallah, went through
 
 Blur launched in October 2022, backed by a seed round led by model, and went live with the BLUR token in February 2023. It targets professional traders.
 
-**Verified fees and chains as of 2026:**- 0% marketplace fee. That has been the model since launch. A governance proposal to add a 0.5% protocol fee did not pass as of mid-2026. Sources: blockchainreporter.net review May 27, 2026 and spark.money fee comparison mid-2026.
+**Verified fees and chains as of 2026:**
+
+- 0% marketplace fee. That has been the model since launch. A governance proposal to add a 0.5% protocol fee did not pass as of mid-2026. Sources: blockchainreporter.net review May 27, 2026 and spark.money fee comparison mid-2026.
 - Minimum 0.5% creator royalty enforced on standard orders, and full royalty enforcement for collections that block trading on OpenSea, per Blur docs at mirror.xyz/blurdao.
 - Ethereum only as of May 2026. No Solana or multi-chain trading.
 - Blend is a peer-to-peer perpetual NFT lending protocol with no fixed expiry and no fixed fee, where a holder can borrow ETH against an NFT. Blend processed 169,900 ETH in its first 22 days in 2023 and saw liquidation waves in 2024 when floors fell.
@@ -133,7 +137,9 @@ Blur launched in October 2022, backed by a seed round led by model, and went liv
 
 Magic Eden launched in 2021 on Solana and later expanded to Ethereum, Polygon, and Bitcoin Ordinals. In early 2026 it refocused.
 
-**Verified fees and chains as of 2026:**- 2% per transaction. Help articles updated March 8 to 9, 2026 state Magic Eden takes 2% on all transactions and that royalties are honored if set in metadata. Source: help.magiceden.us/en/articles/5858632-what-fees-will-i-pay-to-list-or-sell-nfts-on-magic-eden and breakingnft.news March 16, 2026 overview.
+**Verified fees and chains as of 2026:**
+
+- 2% per transaction. Help articles updated March 8 to 9, 2026 state Magic Eden takes 2% on all transactions and that royalties are honored if set in metadata. Source: help.magiceden.us/en/articles/5858632-what-fees-will-i-pay-to-list-or-sell-nfts-on-magic-eden and breakingnft.news March 16, 2026 overview.
 - Chain coverage: marketplace discovery lists Solana, Bitcoin, Ethereum, Base, Polygon and others, but operational wallet and app support narrowed in 2026. Spark.money notes that Magic Eden shut down its Bitcoin Ordinals and EVM marketplaces on March 9, 2026 to focus on Solana and its Dicey gaming platform. The largest Bitcoin marketplace role moved to UniSat after that date. Verify on magiceden.io before you plan a Bitcoin mint.
 - Accepted chains and currencies include SOL for Solana NFTs and ETH for Ethereum NFTs, with fiat via Crossmint conversion, per help.magiceden.us/en/articles/6483913-supported-currencies-and-blockchains-for-nft-transactions-on-magic-eden, March 9, 2026.
 - Rewards: staking $ME gives staking power and governance rights, per help.magiceden.io/articles/12151516 and 10256546. Rewards can add a small boost for frequent trading but should not drive sizing.
@@ -154,7 +160,9 @@ Tensor is a Solana-native venue for active traders. Official fee schedule is 2% 
 
 Rarible is a multichain marketplace and an aggregator that surfaces native and external listings. It also ships the Rarible Protocol, an open source SDK for teams that want to run their own marketplace with indexing, order, and royalty handling.
 
-**Verified fees and chains as of 2026:**- About 1% buyer fee and 1% seller fee. Several guides list 1% per side, with listing free and lazy minting available so the buyer pays gas on purchase. Source: plisio.net rarible guide August 24, 2026 and milkroad.com review May 28, 2026. Some fee comparisons show a sliding scale of 0.5% to 7.5% per side based on size, with RARI stakers able to reach 0%. Use the checkout summary for the exact split. Overall about 2% combined is the planning number.
+**Verified fees and chains as of 2026:**
+
+- About 1% buyer fee and 1% seller fee. Several guides list 1% per side, with listing free and lazy minting available so the buyer pays gas on purchase. Source: plisio.net rarible guide August 24, 2026 and milkroad.com review May 28, 2026. Some fee comparisons show a sliding scale of 0.5% to 7.5% per side based on size, with RARI stakers able to reach 0%. Use the checkout summary for the exact split. Overall about 2% combined is the planning number.
 - Chain list published July 30, 2025 at help.rarible.com/hc/en-us/articles/10457638858253-which-blockchains-does-rarible-support includes RARI Chain, Ethereum, Polygon, Immutable X, zkSync Era, Base, Arbitrum, Celo, Moonbeam, Etherlink, Lisk, Palm, Aptos, Aleph Zero, Shape, Telos, Matchain, Abstract, Hedera EVM, and Goat Network. That is over 20 networks.
 - Creator setting: creators can set royalties up to 50% in the tooling, and Rarible supports ERC721-C workflows. Royalties are configurable per collection.
 - RARI Chain is a Layer 3 built with Arbitrum Orbit that enforces royalties at the chain level. If you set 5%, every sale on RARI Chain pays 5% regardless of marketplace. Adoption is early.
@@ -168,7 +176,9 @@ Rarible is a multichain marketplace and an aggregator that surfaces native and e
 
 SuperRare launched in 2018 with founders John Crain, Charles Crain, and Jonathan Perkins. It is a curated Ethereum marketplace for single-edition art.
 
-**Verified fees and chains as of 2026:**- Primary sale: artist receives 85%, SuperRare DAO Community Treasury receives 15%. Source: help.superrare.com/en/articles/10629742-offers-auctions-and-pricing, March 17, 2025.
+**Verified fees and chains as of 2026:**
+
+- Primary sale: artist receives 85%, SuperRare DAO Community Treasury receives 15%. Source: help.superrare.com/en/articles/10629742-offers-auctions-and-pricing, March 17, 2025.
 - Secondary sale: seller receives 90%, original artist receives 10% as royalty. This contract-level royalty is enforced on SuperRare.
 - Marketplace fee: 3% added on top of the sale price and paid by the buyer on all sales. It goes to the Treasury. Auctions do not show it in the list price but it still applies. Source: same SuperRare help article.
 - Ethereum only. Payment in ETH. Curation requires application and review. A 15% primary commission is higher than the 1% to 2% on open venues. RARE token is used for governance and staking.
@@ -181,7 +191,9 @@ SuperRare launched in 2018 with founders John Crain, Charles Crain, and Jonathan
 
 Zora started as an NFT marketplace around 2020 and now runs as a Layer 2 network on OP Stack integrated with Base. It promotes content coins and creator coins, where posts can become tradable tokens paired with $ZORA.
 
-**Verified fees and chains as of 2026:**- 0.000777 ETH per mint for NFTs created through Zora, about $1.40 at the time of the 2023 change, per CoinDesk and Binance coverage of the August 3, 2023 Zora announcement.
+**Verified fees and chains as of 2026:**
+
+- 0.000777 ETH per mint for NFTs created through Zora, about $1.40 at the time of the 2023 change, per CoinDesk and Binance coverage of the August 3, 2023 Zora announcement.
 - Revenue split: creators get at least 42.9% of mint fees from free mints and 100% from paid mints, with the rest to protocol and referrers. Zora docs describe this split at docs.zora.co.
 - Chains: Zora Network, Base, and Ethereum. Minting on Zora L2 is low cost, and Zora no longer charges a creation or listing fee.
 - Token: $ZORA launched in April 2025 after a surge in activity. DappRadar and CreatorEconomyTools summaries place the mint fee and split as above, with $ZORA used for trading fees and referrals.
@@ -344,6 +356,8 @@ Copy the contract address from the official project site or verified social acco
 
 #### Are NFTs still a viable path in 2026?
 
-There are durable uses such as art provenance, passes, and in-game items, but speculative volume is far below 2021. Developers who know Solidity and standards, designers who can ship coherent series, and traders who manage fee drag and inventory still find work. As a solo creator, treat the first six months as testing and community building with modest sales expectations and low chain costs.**What should I read next on this site?**
+There are durable uses such as art provenance, passes, and in-game items, but speculative volume is far below 2021. Developers who know Solidity and standards, designers who can ship coherent series, and traders who manage fee drag and inventory still find work. As a solo creator, treat the first six months as testing and community building with modest sales expectations and low chain costs.
+
+**What should I read next on this site?**
 
 Start with /what-are-nfts for standards, /what-is-a-blockchain for ledger basics, /what-are-smart-contracts for execution, and /how-to-create-and-sell-nfts for the mint to listing flow. For wallet choice, see /how-to-choose-a-crypto-wallet. For hands-on marketplace building, see /how-to-get-started-as-a-web3-nft-marketplace-developer.

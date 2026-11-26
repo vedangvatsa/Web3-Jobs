@@ -148,32 +148,44 @@ The cost of living in Luanda is among the highest in Africa, with estimates of s
 
 ### 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- [ ] Establish professional profiles on GitHub, Twitter, and LinkedIn.
+**Weeks 1-2:**
+
+- [ ] Establish professional profiles on GitHub, Twitter, and LinkedIn.
 - [ ] Enroll in the Alchemy University Web3 Developer course.
 - [ ] Research Angola's FinTech and supply chain challenges.
 - [ ] Join five major Web3 Discord servers.
 
-**Weeks 3-4:**- [ ] Complete initial modules of the Alchemy course; deploy contracts.
+**Weeks 3-4:**
+
+- [ ] Complete initial modules of the Alchemy course; deploy contracts.
 - [ ] Study how major protocols operate in emerging markets.
 - [ ] Publish an article on why Angola needs Web3.
 - [ ] Network with 20 professionals on Twitter and LinkedIn.
 
-**Weeks 5-6:**- [ ] Finish the Alchemy course; deploy a mainnet project.
+**Weeks 5-6:**
+
+- [ ] Finish the Alchemy course; deploy a mainnet project.
 - [ ] Build a second project, focusing on local challenges.
 - [ ] Publish another article addressing a specific problem with blockchain.
 - [ ] Apply for 10 remote Web3 roles with tailored applications.
 
-**Weeks 7-8:**- [ ] Finalize your second project; upload it to GitHub.
+**Weeks 7-8:**
+
+- [ ] Finalize your second project; upload it to GitHub.
 - [ ] Create a Twitter thread about your project and publish it.
 - [ ] Join Upwork; apply for blockchain consulting roles.
 - [ ] Arrange 1-on-1 meetings with contacts you previously reached out to.
 
-**Weeks 9-10:**- [ ] Publish a third article on a technical topic or market analysis.
+**Weeks 9-10:**
+
+- [ ] Publish a third article on a technical topic or market analysis.
 - [ ] Attend two online Web3 events, aiming to engage with the audience.
 - [ ] Obtain your first Upwork contract and deliver it successfully.
 - [ ] Identify your specialization within the Web3 space.
 
-**Weeks 11-12:**- [ ] Ship a third project or contribute to an open-source initiative.
+**Weeks 11-12:**
+
+- [ ] Ship a third project or contribute to an open-source initiative.
 - [ ] Aim for a growing social media following and professional connections.
 - [ ] Target job interviews scheduled.
 - [ ] Reflect on your first three months in Web3 and outline next steps.

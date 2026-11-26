@@ -137,11 +137,15 @@ As you advance in your career, the importance of these skills evolves:
 
 ## Resources for Continued Learning
 
-**Books:**- "Atomic Habits" by James Clear: Focuses on consistent skill development.
+**Books:**
+
+- "Atomic Habits" by James Clear: Focuses on consistent skill development.
 - "Thinking, Fast and Slow" by Daniel Kahneman: Explores decision-making processes.
 - "Never Split the Difference" by Chris Voss: Provides insights on negotiation and influence.
 
-**Online Resources:**- Platforms like Coursera and edX for technical skill acquisition.
+**Online Resources:**
+
+- Platforms like Coursera and edX for technical skill acquisition.
 - MasterClass for targeted skill development.
 - YouTube channels specializing in your field.
 - Podcasts featuring industry experts sharing their knowledge.

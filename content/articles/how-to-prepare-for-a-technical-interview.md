@@ -211,16 +211,24 @@ Prepare five stories that cover: a bug you caught before deploy, a time you simp
 
 ## Pros and cons to weigh
 
-**Pros of a live coding round:**- Shows how you think and collaborate under time pressure, which predicts close collaboration on the job
+**Pros of a live coding round:**
+
+- Shows how you think and collaborate under time pressure, which predicts close collaboration on the job
 - Harder to delegate to tools without being noticed
 
-**Cons:**- Rewards speed and recall, which favors recent graduates over experienced builders
+**Cons:**
+
+- Rewards speed and recall, which favors recent graduates over experienced builders
 - Small syntax slips can be over-scored if the rubric is weak
 
-**Pros of a take-home:**- Shows real craftsmanship: tests, docs, and product thinking
+**Pros of a take-home:**
+
+- Shows real craftsmanship: tests, docs, and product thinking
 - Mirrors how you will actually work
 
-**Cons:**- Takes 6 to 12 hours of unpaid time across a pipeline, and is easier to delegate to AI, so reviewers now look harder at your explanation round
+**Cons:**
+
+- Takes 6 to 12 hours of unpaid time across a pipeline, and is easier to delegate to AI, so reviewers now look harder at your explanation round
 
 If you are applying to both formats at once, keep two prep tracks: daily timed coding for live rounds, and a polished repo template for take-homes with tests, lint, and deploy scripts ready to copy.
 
@@ -280,7 +288,9 @@ Start with Foundry. Tests are in Solidity, fuzz is built in, and it is fast. Kee
 
 #### Which testnet should I use?
 
-Sepolia. Chain ID 11155111. It is the Ethereum general application testnet with broad faucet and tooling support. Hoodi is for validator testing, not general dApps. Holesky was shut down in September 2025.**What if I get stuck on a question?**
+Sepolia. Chain ID 11155111. It is the Ethereum general application testnet with broad faucet and tooling support. Hoodi is for validator testing, not general dApps. Holesky was shut down in September 2025.
+
+**What if I get stuck on a question?**
 Pause and state what you know. Ask for a hint. It is better to say "I do not have direct experience with that opcode, here is how I would approach it and test it" than to invent an answer. Interviewers want to see debugging, not bluffing.
 
 ## Further reading

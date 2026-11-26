@@ -27,7 +27,9 @@ Your ideal niche lies at the intersection of what you excel at, what you enjoy, 
 
 ### 2. Build Your Portfolio
 
-A [portfolio](/building-web3-portfolio) showcases your best work and serves as your primary marketing tool as a freelancer. It demonstrates your capabilities to potential clients.**Creating Your Portfolio Without Experience** 
+A [portfolio](/building-web3-portfolio) showcases your best work and serves as your primary marketing tool as a freelancer. It demonstrates your capabilities to potential clients.
+
+**Creating Your Portfolio Without Experience** 
 Many beginners face the challenge of lacking client work to display. If you find yourself in this position, consider creating your own projects:
 * **Writers:** Launch a blog focused on a topic you are passionate about.
 * **Designers:** Redesign an existing website or conceptualize a brand identity for a fictional company.

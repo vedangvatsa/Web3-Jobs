@@ -38,7 +38,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** Strong writers with high emotional intelligence who enjoy being online across time zones and who can stay calm when markets move and FUD spreads.
 
-**What you do each day:**- Welcome new members in a layered way: a pinned start-here message, an introductions channel, and a support channel with ticket bots so questions do not get buried in general chat
+**What you do each day:**
+
+- Welcome new members in a layered way: a pinned start-here message, an introductions channel, and a support channel with ticket bots so questions do not get buried in general chat
 - Answer questions, de-escalate conflicts, and enforce rules that have clear enforcement steps
 - Run recurring rituals: weekly AMAs, bi-weekly governance calls, contests, and ambassador programs
 - Route signal to the team: summarize top questions, bugs, and sentiment for product and marketing
@@ -48,11 +50,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** web3.career listed the average for Community Manager at $85k in August 2026, with observed bands from $50k to $180k. FindFi's salary guide for 2025-2026 puts the full ladder at $40k to $60k for junior, $60k to $100k for mid-level, $80k to $140k for senior, and $120k to $180k for lead. Remote roles often pay 10 to 20 percent below Bay Area numbers, and base pay is often paired with token grants that vest over about four years with a one-year cliff.
 
-**How teams measure you:**- Daily active members and DAU/MAU ratio. Healthy communities aim for 15 to 25 percent. Below 10 percent is a warning.
+**How teams measure you:**
+
+- Daily active members and DAU/MAU ratio. Healthy communities aim for 15 to 25 percent. Below 10 percent is a warning.
 - Retention at 30 days, message volume, AMA attendance, and conversion to on-chain actions such as testing a feature or voting
 - Sentiment and response time. Teams track response under 10 minutes versus over 60 minutes, which correlates with higher sentiment scores
 
-**How to break in:**- Pick one project you actually use. Answer questions in its Discord for two weeks. Post a recap of a community call on its forum with clear notes and next steps. That single thread is a portfolio piece hiring managers ask for.
+**How to break in:**
+
+- Pick one project you actually use. Answer questions in its Discord for two weeks. Post a recap of a community call on its forum with clear notes and next steps. That single thread is a portfolio piece hiring managers ask for.
 - Volunteer for one ambassador task or bounty that you can ship in under 10 hours, such as an onboarding guide or FAQ update. Ship with a short write-up and a link.
 
 **Trade-offs:** You get fast access to core teams and visible impact. You also work odd hours, face constant scam pressure, and need real operational discipline. Burnout is common without clear moderation shifts and playbooks.
@@ -63,7 +69,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** Content strategists, lifecycle marketers, and growth analysts who can write clearly, run experiments, and read both off-chain and on-chain signals.
 
-**What you do each day:**- Ship a launch plan for a feature, upgrade, or ecosystem program with positioning, educational threads, and partner co-marketing
+**What you do each day:**
+
+- Ship a launch plan for a feature, upgrade, or ecosystem program with positioning, educational threads, and partner co-marketing
 - Create explainers, tutorials, and case studies that make gas fees, bridging, and staking understandable for new users
 - Coordinate X, Discord, Telegram, and email so voice and timing match across channels
 - Structure experiments: referral flows, quests, airdrop eligibility checks, onboarding incentives, and liquidity campaigns
@@ -73,11 +81,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** web3.career averaged Marketing at $130k with bands from $79k to $227k, and Growth-related hires often track higher at funded teams. FindFi's 2025-2026 bands put Marketing Lead at $60k to $90k junior, $90k to $140k mid-level, $120k to $180k senior, and $150k to $250k lead. Projects that cite "growth" separately often pay $120k to $200k or more for experienced specialists, depending on stage and location.
 
-**How teams measure you:**- Organic growth not driven by unsustainable incentives, activation rate for new wallets, and retention by cohort
+**How teams measure you:**
+
+- Organic growth not driven by unsustainable incentives, activation rate for new wallets, and retention by cohort
 - Brand narrative strength measured by mentions from credible accounts, press, and builder adoption
 - Partnership and campaign ROI, not just impressions. Teams want to see funnel improvement from content to on-chain action
 
-**How to break in:**- Build a public brand on X by analyzing one protocol deeply. Write two threads a month that teach, not hype. Include a Dune chart or concrete numbers. Hiring managers review your threads as a marketing portfolio.
+**How to break in:**
+
+- Build a public brand on X by analyzing one protocol deeply. Write two threads a month that teach, not hype. Include a Dune chart or concrete numbers. Hiring managers review your threads as a marketing portfolio.
 - Publish one launch recap that names what worked, what did not, and what you would test next. Include a simple KPI plan with a hypothesis and success metric.
 
 **Trade-offs:** You can move fast from signal to published content and see direct impact. You also understand ad restrictions, compliance review for token language, and volatile cycles that change messaging priorities quickly.
@@ -88,7 +100,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** Clear writers and researchers who can interview engineers and translate details without losing accuracy. You do not need to ship smart contracts, but you need enough blockchain literacy to ask good questions and avoid errors.
 
-**What you do each day:**- Write feature explainers, API references, and "how to" guides using the actual app, not just press materials
+**What you do each day:**
+
+- Write feature explainers, API references, and "how to" guides using the actual app, not just press materials
 - Test the product and record the steps: wallet setup, bridging, signing, and recovering from failed transactions
 - Build a content calendar that pairs product releases with educational pieces and partner announcements
 - Track content performance by views, shares, and by the drop in repeated support questions after a doc ships
@@ -97,11 +111,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** Most teams hire this as freelance first, then convert. Full-time listings often bundle it under Marketing. Web3.career averages for adjacent roles give a useful anchor: Marketing $130k, Social Media $87k, with many writer roles paid per deliverable until proven. Senior writers at funded protocols can reach the low six figures plus token grants.
 
-**How teams measure you:**- Content engagement and consistency of narrative across surfaces
+**How teams measure you:**
+
+- Content engagement and consistency of narrative across surfaces
 - Documentation clarity, often measured by fewer repeat tickets and faster developer onboarding
 - Accuracy. Errors about token flows or security assumptions cost trust immediately
 
-**How to break in:**- Pick a protocol you use. Write one explainer that answers a real user question, for example how its liquid staking flow handles unstaking delays. Publish on Mirror or Substack and post a summary thread on X.
+**How to break in:**
+
+- Pick a protocol you use. Write one explainer that answers a real user question, for example how its liquid staking flow handles unstaking delays. Publish on Mirror or Substack and post a summary thread on X.
 - File one docs improvement as a pull request or forum suggestion with a before and after. Teams remember people who fix their docs.
 
 **Trade-offs:** Strong writers are scarce in crypto, so good work gets noticed. The bar for accuracy is high, and AI-assisted drafts still need careful fact checking and crypto-native editing.
@@ -112,7 +130,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** People who can source, structure, and close deals and who can also explain why an integration helps users, not just partners.
 
-**What you do each day:**- Map synergies: for example, a lending protocol exploring whether to accept a liquid staking derivative as collateral and what risk parameters make sense
+**What you do each day:**
+
+- Map synergies: for example, a lending protocol exploring whether to accept a liquid staking derivative as collateral and what risk parameters make sense
 - Source counterparties among protocols, wallets, exchanges, custodians, analytics providers, and Web2 brands
 - Structure terms that include technical timelines, incentive tranches, and joint go-to-market steps so the partnership becomes an integration, not just an announcement
 - Keep stakeholders aligned across DAOs, market makers, and internal product and legal teams
@@ -121,11 +141,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** web3.career averaged Sales at $145k and showed active Business Development Manager listings from $180k to $200k at US companies in August 2026. FindFi's bands put Business Development at $60k to $90k junior, $90k to $140k mid-level, $120k to $200k senior, and $160k to $280k lead, with token upside on top. BD and operations are frequently cited as hard-to-fill roles, which supports higher base for candidates with both deal experience and credible blockchain literacy.
 
-**How teams measure you:**- Integration volume and retained usage generated through partnerships
+**How teams measure you:**
+
+- Integration volume and retained usage generated through partnerships
 - Strategic alignment of partners with the roadmap, and the share of integrations that actually ship
 - Ecosystem footprint in [DeFi](/what-is-defi) or other verticals, measured by real usage rather than press hits
 
-**How to break in:**- Attend two virtual or in-person conferences with a plan: research ten target teams, read their docs and governance forum for 30 minutes each, then ask specific integration questions rather than generic intros.
+**How to break in:**
+
+- Attend two virtual or in-person conferences with a plan: research ten target teams, read their docs and governance forum for 30 minutes each, then ask specific integration questions rather than generic intros.
 - Write a one-page partnership memo for a deal you would propose, with user benefit, technical sketch, risks, and success metrics. Share it with the relevant team as a conversation starter, not a pitch deck.
 
 **Trade-offs:** You get broad exposure and direct revenue or TVL impact. You also understand slow governance cycles on the counterparty side and deals that stall when token or incentive terms cannot be agreed.
@@ -136,7 +160,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** Experienced PMs who can learn protocol mechanics quickly, reason about token incentives, and persuade a community in public.
 
-**What you do each day:**- Use on-chain data to understand behavior: where users drop off between wallet connection and first transaction, which cohorts retain after bridging or staking
+**What you do each day:**
+
+- Use on-chain data to understand behavior: where users drop off between wallet connection and first transaction, which cohorts retain after bridging or staking
 - Write specs for features that touch wallets, signing flows, gas, and permissions
 - Draft governance proposals and forum posts that explain trade-offs and invite debate before a Snapshot or on-chain vote
 - Coordinate audits, timelocks, and rollout plans with engineering
@@ -145,11 +171,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** web3.career averaged Product Manager at $180k with bands from $115k to $264k, the highest among sampled non-tech specialties. FindFi's ladder puts Product Manager at $80k to $110k junior, $110k to $160k mid-level, $140k to $220k senior, and $180k to $280k lead. CoinEdition's market overview for 2026 noted that good Web3 product managers are scarce, which strengthens their position in negotiations.
 
-**How teams measure you:**- Sustained engagement in core metrics, not just a launch spike
+**How teams measure you:**
+
+- Sustained engagement in core metrics, not just a launch spike
 - Governance success: whether substantial proposals pass and ship without needing a revert
 - Developer velocity measured by features shipped safely and on time
 
-**How to break in:**- Become a power user and analyst of one protocol. Publish one governance improvement post on its forum that identifies a clear problem, proposes a scoped change, and lists risks and metrics.
+**How to break in:**
+
+- Become a power user and analyst of one protocol. Publish one governance improvement post on its forum that identifies a clear problem, proposes a scoped change, and lists risks and metrics.
 - Ship a small Dune dashboard that visualizes the protocol's activation or retention and link it in your application. Teams invite people who already show product sense in public.
 
 **Trade-offs:** You work at the intersection of users, engineers, and governance voters, which is high influence. You also have fewer private user data sets than in Web2, so you must read pseudonymous on-chain signals carefully and manage public debate.
@@ -160,7 +190,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** Organizers with policy, political science, or community process backgrounds who can write clearly, run fair discussions, and keep records others can trust.
 
-**What you do each day:**- Organize weekly governance calls, take notes, and publish summaries that non-technical holders can follow
+**What you do each day:**
+
+- Organize weekly governance calls, take notes, and publish summaries that non-technical holders can follow
 - Coach proposal authors on structure, scope, and risk disclosure so proposals are comparable and reviewable
 - Manage the lifecycle from forum discussion to Snapshot signal vote to on-chain execution, often using tools like Safe with timelocks or Zodiac modules
 - Track participation, proposal velocity, and clarity of process so members know how to engage
@@ -169,11 +201,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** Many DAOs pay through treasury-funded grants that range from part-time stipends to full-time salaries aligned with senior operations roles. As a reference point, web3.career governance-related non-tech listings in mid-2026 clustered around five to low six figures for contributors and higher for leads at large treasuries. Reliability and reputational trust raise pay quickly.
 
-**How teams measure you:**- Governance participation measured by share of tokens voting without vote buying
+**How teams measure you:**
+
+- Governance participation measured by share of tokens voting without vote buying
 - Time from well-formed idea to decision, and the rate of proposals that need redrafting
 - Process clarity, measured by whether newcomers can complete a full participation path without asking for private help
 
-**How to break in:**- Act as a governance delegate for one serious protocol. Vote consistently and publish short rationales for each vote. Link that history in applications.
+**How to break in:**
+
+- Act as a governance delegate for one serious protocol. Vote consistently and publish short rationales for each vote. Link that history in applications.
 - Summarize one complex active proposal in plain language and post it on the forum. Teams promote people who make governance accessible.
 
 **Trade-offs:** You build real institutional skill that transfers across DAOs and networks. You also face voter apathy and concentration among large holders, so progress can feel slow without good incentive design and clear documentation.
@@ -184,7 +220,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** Recruiters who understand crypto-native signals and who can vet both skill and community fit.
 
-**What you do each day:**- Source beyond LinkedIn: Devpost hackathon submissions, GitHub code for wallet or contract work, Mirror posts, and active Discord contributors
+**What you do each day:**
+
+- Source beyond LinkedIn: Devpost hackathon submissions, GitHub code for wallet or contract work, Mirror posts, and active Discord contributors
 - Screen for crypto literacy and community behavior, not just past titles
 - Manage pipelines with clear slates, structured interviews, and reference checks that account for remote and global teams
 - Advise hiring managers on compensation that mixes base in fiat or stablecoins with token grants, vesting, and lockups
@@ -193,11 +231,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** web3.career averaged Recruiter at $135k with bands from $75k to $242k in August 2026. Active recruiter listings that month included roles such as Recruiting Operations and Programs Manager at Ripple at $144k to $180k base, which helps anchor senior comp for ops-heavy recruiting work. Protocol-stage startups often add token grants and placement bonuses.
 
-**How teams measure you:**- Time to hire for critical roles and retention of hires past six and twelve months
+**How teams measure you:**
+
+- Time to hire for critical roles and retention of hires past six and twelve months
 - Source quality, measured by the share of hires from crypto-native channels versus generic inbound
 - Candidate experience and hiring manager satisfaction, which matter more in a market driven by referrals
 
-**How to break in:**- If you come from Web2 recruiting, spend four weeks learning in public: follow twenty protocol and founder accounts, join three Discord servers, read two governance forums for 30 minutes each before posting, and build a network by adding value, not by asking for jobs.
+**How to break in:**
+
+- If you come from Web2 recruiting, spend four weeks learning in public: follow twenty protocol and founder accounts, join three Discord servers, read two governance forums for 30 minutes each before posting, and build a network by adding value, not by asking for jobs.
 - Create one talent map for a hard role, for example a Solidity auditor or a BD lead, with ten real profiles, why each is credible, and how you would approach them. Share a redacted version as a work sample.
 
 **Trade-offs:** You become a central node in a referral-driven market. You also compete for scarce senior profile types, and cycles change urgency quickly, so pipeline planning needs to be continuous, not episodic.
@@ -208,7 +250,9 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **Who it is for:** Highly organized generalists with startup or consulting fluency who can turn ambiguous needs into clear playbooks.
 
-**What you do each day:**- Execute DAO-approved payments from a Safe multisig, enforce threshold rules, and keep an auditable record
+**What you do each day:**
+
+- Execute DAO-approved payments from a Safe multisig, enforce threshold rules, and keep an auditable record
 - Coordinate with legal on structure, agreements, and regulatory review, including areas shaped by frameworks such as the EU's MiCA and by KYC and AML requirements
 - Manage grants and bounties from proposal to payout, including milestones and reporting
 - Keep the operating calendar aligned across business development, ecosystem, marketing, and engineering, including conference execution for events such as ETHDenver
@@ -217,11 +261,15 @@ Teams hire people who have already contributed. A short analysis, a DAO bounty, 
 
 **What pay looks like:** web3.career does not break out Operations Manager as a single line item in the public non-tech averages, but adjacent leadership and operations roles with salary data point to $120k to $200k for experienced operators and higher for heads of operations at larger protocols. Listings for operations managers and heads of operations at exchanges and infrastructure firms in 2026 frequently showed $132k to $215k ranges, with variance by scope and risk ownership. Token incentives are common for roles that handle treasury and high-trust execution.
 
-**How teams measure you:**- Operational reliability: payments on time, clean records, and no missed governance deadlines
+**How teams measure you:**
+
+- Operational reliability: payments on time, clean records, and no missed governance deadlines
 - Treasury accuracy and security, including correct multisig thresholds and timely transparency reports
 - Team coordination quality, measured by whether cross-functional initiatives hit their intended sequence without rework
 
-**How to break in:**- Contribute to one DAO's operations in a scoped way: organize a small grant round, rebuild an onboarding checklist, or reconcile a month of treasury transactions with a clear report. Publish the before and after.
+**How to break in:**
+
+- Contribute to one DAO's operations in a scoped way: organize a small grant round, rebuild an onboarding checklist, or reconcile a month of treasury transactions with a clear report. Publish the before and after.
 - Learn Safe setup at the conceptual level: M-of-N thresholds, the role of timelocks or delay modules, and the two-step pattern of Snapshot vote followed by multisig execution. Teams expect you to explain why a 3-of-5 versus 5-of-9 makes sense for different treasury sizes.
 
 **Trade-offs:** You gain wide context and high trust quickly. You also carry real responsibility for funds and compliance, so rigor and documentation matter every day.

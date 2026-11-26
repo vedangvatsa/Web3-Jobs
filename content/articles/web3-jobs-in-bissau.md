@@ -50,11 +50,11 @@ Currently, Bissau lacks a formal job market for Web3 positions. Career opportuni
 
 **Developer Roles:**
 
-- **Junior Web3 Developer (0-1 year):**Significant monthly compensation (remote)
+- **Junior Web3 Developer (0-1 year):** Significant monthly compensation (remote)
 - **Mid-Level Developer (1-3 years):** Significant monthly compensation (remote)
 - **Senior Developer (3+ years):** Significant monthly compensation (remote) **Impact & Consulting Roles:**
 
-- **Impact Project Manager:**Significant monthly compensation (contract)
+- **Impact Project Manager:** Significant monthly compensation (contract)
 - **Development Consultant:** Hourly rates vary
 - **Education/Community Manager:** Significant monthly compensation (remote) **Opportunities in Lisbon/Portugal:** Consider relocating to Lisbon, where Web3 salaries are generally higher for mid-level positions. Being a Portuguese speaker provides a competitive advantage in Lusophone Web3 projects.
 
@@ -198,5 +198,7 @@ A: Yes, with a focused approach, it is achievable within 8-12 months through lea
 
 #### Q: What's the biggest risk?
 
-A: The greatest risk lies in not starting or quitting prematurely. Persistence is essential to overcoming challenges.**Q: Can I start a Web3 company in Bissau?**
+A: The greatest risk lies in not starting or quitting prematurely. Persistence is essential to overcoming challenges.
+
+**Q: Can I start a Web3 company in Bissau?**
 A: Yes. Consider applying for global grants and focusing on international users while operating from Bissau to maximize your runway.

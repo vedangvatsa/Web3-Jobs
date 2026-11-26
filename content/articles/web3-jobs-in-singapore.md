@@ -90,22 +90,22 @@ The job market in Singapore is sophisticated and demands highly skilled professi
 
 1. **Smart Contract & Protocol Engineers:**
 
-- **Requirements:**3-5 years of software development experience, in-depth knowledge of Solidity or Rust, and a security-focused mindset.
+- **Requirements:** 3-5 years of software development experience, in-depth knowledge of Solidity or Rust, and a security-focused mindset.
  - **Compensation:** Mid-level positions range from SGD 120,000 to 180,000 annually, while senior roles can command between SGD 180,000 and SGD 280,000+. Lead positions often exceed SGD 300,000.
 
 2. **Quantitative Analysts & Researchers (DeFi):**
 
-- **Requirements:**Strong mathematical and statistical skills, experience in financial modeling, and proficiency in programming languages like Python or C++.
+- **Requirements:** Strong mathematical and statistical skills, experience in financial modeling, and proficiency in programming languages like Python or C++.
  - **Compensation:** Mid-level salaries range from SGD 150,000 to 220,000, while senior positions can reach SGD 220,000 to SGD 350,000+, with potential performance bonuses based on fund performance.
 
 3. **Legal & Compliance Officers:**
 
-- **Requirements:**Legal or compliance background, familiarity with MAS regulations, and experience in international financial services.
+- **Requirements:** Legal or compliance background, familiarity with MAS regulations, and experience in international financial services.
  - **Compensation:** Experienced professionals can earn between SGD 140,000 and 250,000, with upper-level compliance roles potentially exceeding SGD 280,000.
 
 4. **Business Development & Institutional Sales:**
 
-- **Requirements:**Strong sales background, experience in the financial sector, and understanding of institutional client needs.
+- **Requirements:** Strong sales background, experience in the financial sector, and understanding of institutional client needs.
  - **Compensation:** Salaries for experienced professionals range from SGD 130,000 to 220,000+, with commissions or bonuses frequently enhancing overall compensation.
 
 ### Pathway to Securing a Web3 Job in Singapore
@@ -159,11 +159,15 @@ The job market in Singapore is sophisticated and demands highly skilled professi
 
 **2,700 - 5,100/month**|
 
-**Salary vs. Cost of Living:**- A junior role with a salary of SGD 120,000 translates to SGD 10,000 monthly gross, allowing for a comfortable living.
+**Salary vs. Cost of Living:**
+
+- A junior role with a salary of SGD 120,000 translates to SGD 10,000 monthly gross, allowing for a comfortable living.
 - A mid-level position earning SGD 200,000 results in SGD 16,667 monthly gross, enabling significant savings.
 - Senior roles commanding over SGD 300,000 provide a very high standard of living with potential for major savings.
 
-**Comparison with US Salaries:**- Salaries in Singapore may be slightly lower than in the US. However, the cost of living is lower, and there is no state income tax. Thus, the effective purchasing power can be higher in Singapore compared to cities like San Francisco or New York.
+**Comparison with US Salaries:**
+
+- Salaries in Singapore may be slightly lower than in the US. However, the cost of living is lower, and there is no state income tax. Thus, the effective purchasing power can be higher in Singapore compared to cities like San Francisco or New York.
 
 ### Your Roadmap to Web3 Careers in Singapore
 

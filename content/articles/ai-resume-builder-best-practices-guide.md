@@ -84,12 +84,16 @@ No builder verifies truth. Dates, tool proficiency, and metrics come from you. I
 
 ### Pros and cons
 
-**Where builders help:**- Faster tailoring per job. You reuse one master file and generate a targeted version in minutes instead of rewriting from scratch.
+**Where builders help:**
+
+- Faster tailoring per job. You reuse one master file and generate a targeted version in minutes instead of rewriting from scratch.
 - Keyword coverage. You see which required terms are absent and where to add them naturally in achievement statements, not just in a skills list.
 - Formatting discipline. Single-column templates, left alignment, and standard headings avoid the table and column errors that DOL and CareerOneStop warn about.
 - Writing prompts. Rewrites can turn "Responsible for social media" into a bullet that starts with an action verb and includes a result.
 
-**Limits and trade-offs:**- They do not know your facts. Any metric they produce from vague input is a hallucination until you verify it.
+**Limits and trade-offs:**
+
+- They do not know your facts. Any metric they produce from vague input is a hallucination until you verify it.
 - Scoring is directional, not a guarantee. A match rate compares your text to one job description. It is not the same as the score inside Workday, Greenhouse, Lever, iCIMS, or Taleo, where each employer configures filters differently.
 - Generic voice. Unedited AI bullets often repeat the same verbs ("orchestrated," "spearheaded") and read as templated. Recruiters notice uniform sentence structure.
 - Design limits. The most parse-safe templates look plain. Keep a separate visually designed version for portfolio sites or direct email, and use the plain version for ATS submissions.

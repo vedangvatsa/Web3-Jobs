@@ -344,7 +344,9 @@ Mostly yes, with exceptions noted in postings for compliance, trading, and custo
 
 #### How do I avoid scams?
 
-Check the posting on the company's official domain, confirm the poster on LinkedIn with verifiable history, look for an active GitHub and real users, and search the posting text plus scam. Never share a seed phrase or pay to apply. Those checks match Blockchain Council and EarnifyHub warnings for 2026 applicants.**What should I build first if I am unsure of track?** Build two small artifacts that share tools. A wallet-connected page and a Dune dashboard cover dApp, product sense, and data at once. Both are demoable in an interview and both reuse React or SQL you already have. Pick your deeper track after you see which work you want to repeat.
+Check the posting on the company's official domain, confirm the poster on LinkedIn with verifiable history, look for an active GitHub and real users, and search the posting text plus scam. Never share a seed phrase or pay to apply. Those checks match Blockchain Council and EarnifyHub warnings for 2026 applicants.
+
+**What should I build first if I am unsure of track?** Build two small artifacts that share tools. A wallet-connected page and a Dune dashboard cover dApp, product sense, and data at once. Both are demoable in an interview and both reuse React or SQL you already have. Pick your deeper track after you see which work you want to repeat.
 
 ## Where to go next
 

@@ -21,7 +21,9 @@ This guide outlines the career path of an on-chain analyst, detailing key respon
 
 Web3 data analysts address critical business and strategic questions by querying the [blockchain](/what-is-a-blockchain) directly. Their analyses provide the foundation for data-driven decisions in decentralized environments.
 
-**Key questions an analyst might explore include:**- What is our protocol's true user retention rate?
+**Key questions an analyst might explore include:**
+
+- What is our protocol's true user retention rate?
 - Which new [NFT](/what-are-nfts) collections are attracting 'smart money' wallets?
 - How did our latest feature launch affect trading volume on our [DEX](/what-is-a-decentralized-exchange-dex)?
 - What demographic characteristics define users participating in our governance votes?

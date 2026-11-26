@@ -95,7 +95,9 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 **Months 19-20: Move to Senior/Founding Role**- Target senior operations roles at major funds or consider launching your own fund.
 - **Expected Compensation**: Significant value.
 
-**Quick Wins:**- Multi-fund operations: MUR 500,000-MUR 2,000,000 per engagement.
+**Quick Wins:**
+
+- Multi-fund operations: MUR 500,000-MUR 2,000,000 per engagement.
 - Consulting for crypto firms on fund structures: Significant value.
 - Speaking at finance events for visibility and authority.
 
@@ -117,7 +119,9 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 **Month 16: Step into Thought Leadership**- Target general counsel or head of legal roles at crypto companies or funds.
 - **Expected Compensation**: Significant value.
 
-**Quick Wins:**- Consulting on VASP licensing: MUR 500,000-MUR 3,000,000 per engagement.
+**Quick Wins:**
+
+- Consulting on VASP licensing: MUR 500,000-MUR 3,000,000 per engagement.
 - Speaking engagements at compliance events: Significant value.
 - Publish research to build reputation and attract job offers.
 
@@ -139,7 +143,9 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 **Months 13-14: Move to Leadership or Founding Role**- Aim for Chief Product Officer roles or founding PM positions in crypto companies.
 - **Expected Compensation**: Significant value.
 
-**Quick Wins:**- Consulting on product strategy: Significant value.
+**Quick Wins:**
+
+- Consulting on product strategy: Significant value.
 - Speaking at FinTech conferences: Significant value.
 - Publish product insights to enhance visibility.
 
@@ -167,37 +173,51 @@ Salaries in Mauritius are premium due to its status as a regulated financial cen
 
 ### 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- [ ] Create a professional LinkedIn, GitHub (for tech roles), and Twitter profile.
+**Weeks 1-2:**
+
+- [ ] Create a professional LinkedIn, GitHub (for tech roles), and Twitter profile.
 - [ ] Evaluate your finance/legal background and begin foundational learning if needed.
 - [ ] Connect with 20 professionals in Mauritius's finance and crypto sectors.
 - [ ] Join three relevant finance and crypto communities.
 
-**Weeks 3-4:**- [ ] Study the FSC VASP framework using official documentation.
+**Weeks 3-4:**
+
+- [ ] Study the FSC VASP framework using official documentation.
 - [ ] Write and publish your first article on topics like "Why Mauritius is the Perfect Crypto Hub" or "VASP Licensing Guide."
 - [ ] Network with 25 warm outreach messages to finance and crypto professionals.
 - [ ] Establish connections with 10 crypto fund managers or compliance professionals.
 
-**Weeks 5-6:**- [ ] Conduct an in-depth study of crypto fund structures and AML/CFT requirements.
+**Weeks 5-6:**
+
+- [ ] Conduct an in-depth study of crypto fund structures and AML/CFT requirements.
 - [ ] Create a case study on structuring a crypto fund in Mauritius.
 - [ ] Submit applications for five roles at crypto funds and FinTech companies.
 - [ ] Review FSC regulations and international standards (FATF).
 
-**Weeks 7-8:**- [ ] Publish your second article, focusing on a technical aspect of compliance or fund structure.
+**Weeks 7-8:**
+
+- [ ] Publish your second article, focusing on a technical aspect of compliance or fund structure.
 - [ ] Conduct five coffee chats with finance and crypto professionals.
 - [ ] Apply for five more positions or consulting opportunities.
 - [ ] Attend one online FinTech event.
 
-**Weeks 9-10:**- [ ] Publish your third article or research piece.
+**Weeks 9-10:**
+
+- [ ] Publish your third article or research piece.
 - [ ] Secure your first consulting engagement focused on fund structure or compliance.
 - [ ] Apply to FinTech startups or major banks' crypto divisions.
 - [ ] Aim for a significant social media following.
 
-**Weeks 11-12:**- [ ] Complete a research project or case study.
+**Weeks 11-12:**
+
+- [ ] Complete a research project or case study.
 - [ ] Set a goal to achieve 1-2 serious interviews.
 - [ ] Reflect on your three-month journey building a Web3 career in Mauritius.
 - [ ] Outline your next steps based on your chosen path (fund operations, compliance, or FinTech).
 
-**Expected Outputs After 90 Days:**- Three published articles.
+**Expected Outputs After 90 Days:**
+
+- Three published articles.
 - One or more consulting engagements.
 - A strong professional network (20+ finance/crypto contacts).
 - An established social media presence.

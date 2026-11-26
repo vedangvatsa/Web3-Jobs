@@ -16,7 +16,7 @@ This article examines the nature of shilling, its prevalence, and its detrimenta
 
 ### Understanding Shilling
 
-In the crypto field,**[shilling](/what-is-shilling-in-crypto)** refers to the enthusiastic promotion of a cryptocurrency or [NFT](/what-are-nfts) project for personal profit, often without disclosing the financial incentives behind such endorsements. This marketing strategy creates confusion between genuine excitement and paid promotion.
+In the crypto field, **[shilling](/what-is-shilling-in-crypto)** refers to the enthusiastic promotion of a cryptocurrency or [NFT](/what-are-nfts) project for personal profit, often without disclosing the financial incentives behind such endorsements. This marketing strategy creates confusion between genuine excitement and paid promotion.
 
 - **Objective:** Shillers typically invest early in a project, aiming to inflate its price by generating public enthusiasm and fear of missing out (FOMO). Their goal is to "pump" the price and then "dump" their holdings on new investors.
 - **Methods:** Shilling thrives on social media platforms, particularly Twitter (X). It often involves posting overly optimistic content, making unrealistic price projections, and flooding comment sections. Influencers with large followings may accept undisclosed payments to promote a new [token](/what-is-a-token) or NFT collection.

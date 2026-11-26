@@ -377,5 +377,7 @@ Install Rust via https://rustup.rs and work through basic Rust first. Then read 
 
 #### Can I switch chains later?
 
-Yes. Solidity and the EVM have the most tutorials and shared tooling. If you learn Remix or Hardhat first, that knowledge transfers to other EVM chains. Anchor and Solana are a separate stack with Rust and a different account model. Treat them as a second track after you finish a few EVM projects.**Which VS Code extension should I install for Solidity?**
+Yes. Solidity and the EVM have the most tutorials and shared tooling. If you learn Remix or Hardhat first, that knowledge transfers to other EVM chains. Anchor and Solana are a separate stack with Rust and a different account model. Treat them as a second track after you finish a few EVM projects.
+
+**Which VS Code extension should I install for Solidity?**
 Install Solidity by Nomic Foundation with marketplace ID `NomicFoundation.hardhat-solidity`. It gives syntax highlighting, inline errors, completion, and go to definition for both Hardhat and Foundry projects. Turn off other Solidity extensions to avoid duplicate diagnostics.

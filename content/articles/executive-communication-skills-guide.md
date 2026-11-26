@@ -48,7 +48,7 @@ Clarity involves making your message understandable to those unfamiliar with you
 
 **Practical Techniques for Clarity:**
 
-- **Avoid Jargon and Acronyms:**Don't assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
+- **Avoid Jargon and Acronyms:** Don't assume familiarity with specialized terms. For example, rather than saying, "We need to refactor the authentication service," say, "We need to update our login system to improve security and page load speed."
 
 - **Use Visuals:** Charts or graphs often convey trends more effectively than paragraphs of text. Ensure visuals can be interpreted within ten seconds.
 
@@ -183,11 +183,15 @@ The importance of these skills increases at each career level:
 
 ## Resources for Continued Learning
 
-**Books:**- "Atomic Habits" by James Clear: Focuses on consistent skill development.
+**Books:**
+
+- "Atomic Habits" by James Clear: Focuses on consistent skill development.
 - "Thinking, Fast and Slow" by Daniel Kahneman: Offers insights into decision-making.
 - "Never Split the Difference" by Chris Voss: Provides strategies for negotiation and influence.
 
-**Online Resources:**- Platforms like Coursera and edX for technical training.
+**Online Resources:**
+
+- Platforms like Coursera and edX for technical training.
 - MasterClass for specialized skill enhancement.
 - YouTube channels covering your areas of interest.
 - Podcasts from industry experts for ongoing insights.

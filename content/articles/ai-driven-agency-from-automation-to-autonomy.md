@@ -247,5 +247,7 @@ At minimum: the user goal, the plan, every tool call and argument, retrieved con
 
 #### When should an agent not move funds?
 
-When its confidence is low, when data sources disagree, when gas is unusually high, or when it encounters a contract or pool it has not seen before. A safe policy is to pause and ask for approval in any of those cases, and to have a global pause that any operator can trigger.**What is the most common mistake teams make?**
+When its confidence is low, when data sources disagree, when gas is unusually high, or when it encounters a contract or pool it has not seen before. A safe policy is to pause and ask for approval in any of those cases, and to have a global pause that any operator can trigger.
+
+**What is the most common mistake teams make?**
 Granting broad key permissions before they have defined how to measure task success and before they have tested failure paths. Start narrow, measure accuracy and cost per task, introduce adversarial tests, and only then widen the permission set.

@@ -50,7 +50,9 @@ The demand for Web3 talent in Nairobi is increasing rapidly, particularly for de
 | Mid-Level Developer (1-3 years) | 250,000 - 450,000 | Varies |
 | Senior Developer (3+ years) | 450,000 - 700,000+ | Varies |
 
-**Remote (International):**- International Web3 companies typically offer salaries that can vary significantly based on experience and role.
+**Remote (International):**
+
+- International Web3 companies typically offer salaries that can vary significantly based on experience and role.
 - Freelance and consulting roles can pay varying hourly rates.
 
 **Real Cost of Living Example:** A developer earning a competitive salary remotely can expect the following expenses in Nairobi:

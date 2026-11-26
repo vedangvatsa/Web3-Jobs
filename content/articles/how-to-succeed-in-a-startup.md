@@ -29,12 +29,16 @@ If you do those three consistently, you are useful even when strategy shifts.
 
 ### Who this path fits and who it does not
 
-**You are likely to do well if:**- You like figuring out unclear work with little direction and can ask for help without waiting to be told.
+**You are likely to do well if:**
+
+- You like figuring out unclear work with little direction and can ask for help without waiting to be told.
 - You can switch context. Many days combine building, customer contact, and internal upkeep.
 - You tolerate income risk. Early startups often pay less in cash and use equity that may be worth zero.
 - You stay steady when plans change. Founders adjust based on funding, customer calls, or market moves.
 
-**It is a weaker fit if:**- You need clear scope, regular mentorship, and defined training to learn.
+**It is a weaker fit if:**
+
+- You need clear scope, regular mentorship, and defined training to learn.
 - You need stable hours and a hard boundary between work and personal time.
 - You rely on formal process to feel confident. Startups often lack that structure at first.
 

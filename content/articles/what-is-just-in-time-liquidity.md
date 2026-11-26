@@ -40,7 +40,9 @@ To grasp JIT liquidity, one must first understand the innovation of concentrated
  - **Action 2: The Victim's Swap**: The block producer, incentivized by the higher gas fee, positions Carol's transaction directly after the bot's. As Carol's swap executes, it moves through the bot's concentrated liquidity position.
  - **Action 3: `removeLiquidity`**: The bot submits a final transaction to withdraw its liquidity and collected fees immediately after Carol's transaction.
 
-**The Result:**- Within a single block, the bot has added liquidity, captured nearly all fees from Carol's trade, and removed its capital.
+**The Result:**
+
+- Within a single block, the bot has added liquidity, captured nearly all fees from Carol's trade, and removed its capital.
 - The bot generates substantial trading fees without facing impermanent loss, as the entry and exit prices remained effectively unchanged.
 - Fees that would typically benefit long-term, passive LPs are instead appropriated by the JIT bot.
 

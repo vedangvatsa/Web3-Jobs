@@ -24,15 +24,21 @@ Web3 startups encompass a range of traditional roles, but several stand out due 
 
 The Community Manager role is vital in any Web3 project. In a decentralized framework, the community serves as the product, marketing team, and support system. 
 
-- **Responsibilities:**- Engage with users on platforms like Discord and Telegram
+- **Responsibilities:**
+
+- Engage with users on platforms like Discord and Telegram
  - Build a positive community culture
  - Organize events such as AMAs and contests
  - Serve as a liaison between users and the development team
 
-- **Ideal Candidate:**- Individuals with high emotional intelligence and strong written communication skills
+- **Ideal Candidate:**
+
+- Individuals with high emotional intelligence and strong written communication skills
  - Experience in social media management or customer support is advantageous
 
-- **Crypto-Specific Skills:**- Deep understanding of the protocol
+- **Crypto-Specific Skills:**
+
+- Deep understanding of the protocol
  - Ability to address FUD (Fear, Uncertainty, and Doubt) during market fluctuations
  - Availability across global time zones is essential
 
@@ -40,50 +46,72 @@ The Community Manager role is vital in any Web3 project. In a decentralized fram
 
 Marketing in Web3 requires a departure from traditional strategies. It emphasizes authentic storytelling, education, and cultural relevance rather than paid advertisements.
 
-- **Responsibilities:**- Develop engaging content such as blog posts, Twitter threads, and tutorials
+- **Responsibilities:**
+
+- Develop engaging content such as blog posts, Twitter threads, and tutorials
  - Manage social media presence, particularly on Twitter
  - Build relationships with influencers and establish partnerships with other projects
 
-- **Ideal Candidate:**- Marketing generalists and content strategists with exceptional writing skills
+- **Ideal Candidate:**
+
+- Marketing generalists and content strategists with exceptional writing skills
  - Understanding of the unique "meme-driven" culture of crypto is important
 
-- **Crypto-Specific Skills:**- Success metrics include community engagement and on-chain statistics
+- **Crypto-Specific Skills:**
+
+- Success metrics include community engagement and on-chain statistics
  - Ability to build a brand that emphasizes authenticity in a trustless environment. For further insights, refer to our [guide to Web3 marketing](/web3-marketing).
 
 #### 3. Product Manager (PM)
 
 The [Product Manager's role](/web3-product-manager-jobs) in Web3 is particularly challenging. They must balance product vision with the necessity of gaining consensus among a decentralized community of [token](/what-is-a-token) holders.
 
-- **Responsibilities:**- Conduct user research with pseudonymous individuals
+- **Responsibilities:**
+
+- Conduct user research with pseudonymous individuals
  - Convert community feedback into a coherent product roadmap
  - Draft detailed specifications for new features
 
-- **Ideal Candidate:**- Experienced PMs from Web2 who can quickly grasp complex technical and economic concepts
+- **Ideal Candidate:**
 
-- **Crypto-Specific Skills:**- Use on-chain analytics tools to analyze user behavior
+- Experienced PMs from Web2 who can quickly grasp complex technical and economic concepts
+
+- **Crypto-Specific Skills:**
+
+- Use on-chain analytics tools to analyze user behavior
  - Manage public governance votes for major roadmap decisions requires strong persuasion skills
 
 #### 4. UX/UI Designer
 
 One of the significant hurdles to Web3 adoption lies in its often subpar user experience. Designers who can simplify the complexities of blockchain technology are in high demand.
 
-- **Responsibilities:**- Create intuitive and aesthetically pleasing interfaces for dApps
+- **Responsibilities:**
+
+- Create intuitive and aesthetically pleasing interfaces for dApps
  - Develop user flows that simplify complex actions such as wallet connections and transaction confirmations
 
-- **Ideal Candidate:**- Experienced UX/UI designers with a strong [portfolio](/building-web3-portfolio) and a deep understanding of user empathy
+- **Ideal Candidate:**
 
-- **Crypto-Specific Skills:**- Design for novel user interactions, such as "wallet connected" and "transaction pending"
+- Experienced UX/UI designers with a strong [portfolio](/building-web3-portfolio) and a deep understanding of user empathy
+
+- **Crypto-Specific Skills:**
+
+- Design for novel user interactions, such as "wallet connected" and "transaction pending"
  - Focus on security and trust to help users avoid scams and phishing attacks. For best practices, see our [Web3 UX Design Best Practices](/web3-ux-design).
 
 #### 5. Operations & Strategy (BizOps)
 
 As [DAOs](/what-is-a-dao) and Web3 startups grow, they require organized, strategic thinkers to manage operations.
 
-- **Responsibilities:**- Oversee project roadmaps and assist with financial planning
+- **Responsibilities:**
+
+- Oversee project roadmaps and assist with financial planning
  - Coordinate activities across different working groups in a DAO
  - Support recruiting and HR efforts
 
-- **Ideal Candidate:**- Highly organized generalists who thrive in ambiguous environments
+- **Ideal Candidate:**
+
+- Highly organized generalists who thrive in ambiguous environments
  - Experience in startups, consulting, or finance is highly regarded
 
 ### Transitioning into Web3: Building Your Portfolio

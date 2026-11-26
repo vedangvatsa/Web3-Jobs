@@ -41,7 +41,7 @@ The critical innovation of DLT is the consensus mechanism, the rules that allow 
 
 **Proof of [Stake](/how-to-become-a-web3-staking-specialist) (PoS):** Participants (validators) put up collateral (stake) and get randomly selected to propose blocks. If they act dishonestly, they lose their stake. This is more energy-efficient than PoW but requires new economic security models. Ethereum currently uses PoS, as do Cardano and Polkadot.
 
-**Delegated Proof of Stake (DPoS):**[Token](/what-is-a-token) holders vote for a smaller set of delegates who validate transactions. This is faster and more efficient but introduces centralization risk, voters might not pay attention or may vote for popular personalities over capable validators.
+**Delegated Proof of Stake (DPoS):** [Token](/what-is-a-token) holders vote for a smaller set of delegates who validate transactions. This is faster and more efficient but introduces centralization risk, voters might not pay attention or may vote for popular personalities over capable validators.
 
 **Byzantine Fault Tolerance:** Rather than relying on energy expenditure or stake, validators use complex voting algorithms to reach consensus even if some nodes are dishonest. This is faster but requires sophisticated cryptography and is used in systems like Hyperledger Fabric.
 

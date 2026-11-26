@@ -211,5 +211,7 @@ A properly operating rollup that posts data to Ethereum and enforces fraud or va
 
 #### What are blobs and how long do they stay?
 
-Blobs are 128 KiB binary fields carried in type 3 transactions. They are not kept in Ethereum's execution state. Consensus nodes hold them for about 18 days, then prune. Rollup operators and indexers that need longer history must store and serve the data themselves.**Which rollup should I pick today?**
+Blobs are 128 KiB binary fields carried in type 3 transactions. They are not kept in Ethereum's execution state. Consensus nodes hold them for about 18 days, then prune. Rollup operators and indexers that need longer history must store and serve the data themselves.
+
+**Which rollup should I pick today?**
 Pick by your constraint. If you need the fewest code changes and broad tooling, use an optimistic rollup like Arbitrum One or an OP Stack chain. If you need faster canonical exits and can handle zk tooling or Cairo, use a ZK-rollup like zkSync Era or Starknet. Check current fees on an L2 fee tracker, and verify the rollup's data availability is on Ethereum, not external.

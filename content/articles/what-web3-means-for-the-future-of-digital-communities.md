@@ -13,7 +13,7 @@ lastUpdated: "2026-09-15"
 ---
 Digital communities have long existed within centralized platforms. Facebook Groups, subreddits, Discord servers, and WhatsApp chats have dominated online interactions, but these environments are built on rented land. The platforms control the infrastructure, own the data, and can alter the rules or shut down communities at any time. **[Web3](/what-is-web3)** is introducing a new framework for digital communities, changing members from mere users into co-owners of their digital spaces.
 
-By using **[DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao)**,**[NFTs](/what-are-nfts)**, and social tokens, [Web3](/what-is-web3) supports the creation of communities that are more resilient, economically aligned, and self-governed. This shift is not only technological but also social and political, altering the concept of community in the digital era.
+By using **[DAOs (Decentralized Autonomous Organizations)](/what-is-a-dao)**, **[NFTs](/what-are-nfts)**, and social tokens, [Web3](/what-is-web3) supports the creation of communities that are more resilient, economically aligned, and self-governed. This shift is not only technological but also social and political, altering the concept of community in the digital era.
 
 ### Challenges of Web2 Communities
 

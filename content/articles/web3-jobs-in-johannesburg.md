@@ -80,7 +80,9 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 **Months 17-18: Transition to Leadership**- Aim for a Chief Compliance Officer or advisory role.
 - **Expected Compensation:** Competitive plus equity.
 
-**Quick Wins:**- Consulting opportunities.
+**Quick Wins:**
+
+- Consulting opportunities.
 - Speaking engagements at fintech/crypto conferences.
 - Advisory roles.
 
@@ -102,7 +104,9 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 **Months 19-20: Ascend to Chief Architect/CTO**- Become the chief architect of an enterprise blockchain division.
 - **Expected Compensation:** Competitive.
 
-**Quick Wins:**- Consulting on enterprise solutions.
+**Quick Wins:**
+
+- Consulting on enterprise solutions.
 - Engaging in enterprise blockchain projects.
 - Speaking or training.
 
@@ -122,18 +126,24 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 **Months 15-16: Move into Leadership**- Aim for a position as Head of Institutional Sales or VP of Business Development.
 - **Expected Compensation:** Competitive along with significant commissions.
 
-**Quick Wins:**- Earn sales commissions on institutional deals.
+**Quick Wins:**
+
+- Earn sales commissions on institutional deals.
 - Speak at institutional events.
 - Advisory roles.
 
 ## Why Choose Johannesburg?
 
-**Opportunities:**- The institutional market requires blockchain solutions.
+**Opportunities:**
+
+- The institutional market requires blockchain solutions.
 - Regulatory clarity from the FSCA framework enables new business launches.
 - Corporate adoption of blockchain technologies is accelerating.
 - Specialized roles offer premium compensation.
 
-**Advantages:**- Access to a deep talent pool from traditional finance sectors (banking, legal, asset management).
+**Advantages:**
+
+- Access to a deep talent pool from traditional finance sectors (banking, legal, asset management).
 - Proximity to FSCA enhances regulatory engagement.
 - Numerous corporate headquarters and partnerships with the Johannesburg Stock Exchange create networking opportunities.
 
@@ -157,35 +167,49 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 
 ## 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- [ ] Choose a career path (compliance, enterprise architect, or institutional sales).
+**Weeks 1-2:**
+
+- [ ] Choose a career path (compliance, enterprise architect, or institutional sales).
 - [ ] Create profiles on GitHub, Twitter, and LinkedIn.
 - [ ] Evaluate current expertise (legal, banking, technology).
 - [ ] Study the FSCA licensing framework and crypto regulations.
 
-**Weeks 3-4:**- [ ] Complete one compliance or enterprise blockchain course.
+**Weeks 3-4:**
+
+- [ ] Complete one compliance or enterprise blockchain course.
 - [ ] Network with professionals in banking, law, or technology.
 - [ ] Research major enterprises focusing on blockchain initiatives.
 - [ ] Subscribe to updates on FinTech and crypto regulations.
 
-**Weeks 5-6:**- [ ] Publish an article on South African blockchain regulation or enterprise solutions.
+**Weeks 5-6:**
+
+- [ ] Publish an article on South African blockchain regulation or enterprise solutions.
 - [ ] Arrange meetings with bankers or CTOs.
 - [ ] Apply for entry-level positions.
 - [ ] Create one proof-of-concept if pursuing the architect path.
 
-**Weeks 7-8:**- [ ] Secure one consulting engagement or contract role.
+**Weeks 7-8:**
+
+- [ ] Secure one consulting engagement or contract role.
 - [ ] Publish a technical or regulatory analysis.
 - [ ] Connect with additional industry professionals.
 - [ ] Target dream roles in major enterprises or fintechs.
 
-**Weeks 9-10:**- [ ] Finalize one consulting engagement or secure a role.
+**Weeks 9-10:**
+
+- [ ] Finalize one consulting engagement or secure a role.
 - [ ] Grow Twitter following in the crypto and enterprise space.
 - [ ] Plan for the next three months of career development.
 
-**Weeks 11-12:**- [ ] Aim for one paid role or establish a consulting pipeline.
+**Weeks 11-12:**
+
+- [ ] Aim for one paid role or establish a consulting pipeline.
 - [ ] Reflect on progress: "Three Months of Building Enterprise Web3 in Johannesburg."
 - [ ] Outline plans for the next phase of career development.
 
-**Outputs after 90 Days:**- One or more published articles or regulatory analyses.
+**Outputs after 90 Days:**
+
+- One or more published articles or regulatory analyses.
 - A strong network within traditional finance and enterprise sectors.
 - One or more consulting or full-time opportunities.
 - Recognition within the industry.

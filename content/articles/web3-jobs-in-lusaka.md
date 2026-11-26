@@ -77,7 +77,9 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 
 **Months 15-16: Scaling and Thought Leadership**- Establish yourself as a mobile-first DeFi expert in Africa, with potential for senior roles or co-founding a startup.
 
-**Quick Wins:**- Consult for Zambian fintech startups at competitive rates.
+**Quick Wins:**
+
+- Consult for Zambian fintech startups at competitive rates.
 - Create an open-source mobile DeFi library and seek sponsorship.
 - Speak at tech conferences to increase visibility.
 
@@ -90,7 +92,9 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 **Months 9-15: Networking and Full-Time Role**- Pitch blockchain solutions to local agricultural companies and international organizations.
 - Transition to a role specializing in AgriTech and DeFi, earning competitive salaries.
 
-**Quick Wins:**- Publish research papers on blockchain's impact on agriculture.
+**Quick Wins:**
+
+- Publish research papers on blockchain's impact on agriculture.
 - Secure grants for agricultural projects from relevant organizations.
 
 **Path 3: Community Builder and Web3 Educator**(6-12 Month Timeline)**Months 1-3: Establish Community Foundation**- Organize weekly Web3 meetups and create a YouTube channel focused on Web3 topics in Zambia.
@@ -102,37 +106,61 @@ The Web3 job market in Lusaka is small but expanding. Significant roles often in
 **Months 7-12: Expand Influence**- Scale your meetup and YouTube channel, hosting larger events.
 - Establish yourself as a thought leader in Web3 education.
 
-**Quick Wins:**- Seek sponsorships for your YouTube channel and create a newsletter.
+**Quick Wins:**
+
+- Seek sponsorships for your YouTube channel and create a newsletter.
 
 ## Challenges and Solutions
 
-**Limited Local Web3 Market:**- The Web3 scene in Lusaka remains small. To overcome this, focus on remote opportunities that allow you to earn in USD while benefiting from the lower cost of living in Zambia.
+**Limited Local Web3 Market:**
 
-**Internet Infrastructure Issues:**- The internet can be unreliable and expensive. Establish a backup system with a 4G hotspot and choose to work with async-first companies that accommodate flexible working conditions.
+- The Web3 scene in Lusaka remains small. To overcome this, focus on remote opportunities that allow you to earn in USD while benefiting from the lower cost of living in Zambia.
 
-**Credibility Challenges:**- Without a significant tech background, it may be hard to gain local recognition. Focus on building a digital footprint through GitHub and social media, as this will attract global attention.
+**Internet Infrastructure Issues:**
 
-**Access to Capital and Scam Risks:**- Initially, avoid speculating with personal funds. Concentrate on generating income first and invest wisely only after establishing financial stability.
+- The internet can be unreliable and expensive. Establish a backup system with a 4G hotspot and choose to work with async-first companies that accommodate flexible working conditions.
 
-**Brain Drain Pressure:**- Talented individuals often migrate for better opportunities. Remote work allows you to stay in Lusaka while accessing global jobs, providing an avenue to build wealth without relocating.
+**Credibility Challenges:**
+
+- Without a significant tech background, it may be hard to gain local recognition. Focus on building a digital footprint through GitHub and social media, as this will attract global attention.
+
+**Access to Capital and Scam Risks:**
+
+- Initially, avoid speculating with personal funds. Concentrate on generating income first and invest wisely only after establishing financial stability.
+
+**Brain Drain Pressure:**
+
+- Talented individuals often migrate for better opportunities. Remote work allows you to stay in Lusaka while accessing global jobs, providing an avenue to build wealth without relocating.
 
 ## 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- Set up professional profiles on GitHub, Twitter, and LinkedIn.
+**Weeks 1-2:**
+
+- Set up professional profiles on GitHub, Twitter, and LinkedIn.
 - Enroll in relevant Web3 developer courses.
 - Join five Web3 Discord communities to network.
 
-**Weeks 3-4:**- Complete initial modules of the course and deploy testnet projects.
+**Weeks 3-4:**
+
+- Complete initial modules of the course and deploy testnet projects.
 - Start writing articles on the relevance of Web3 for Zambia.
 
-**Weeks 5-6:**- Finish the course and launch your first mainnet project.
+**Weeks 5-6:**
+
+- Finish the course and launch your first mainnet project.
 - Apply for entry-level remote Web3 roles.
 
-**Weeks 7-8:**- Host your first Lusaka Web3 meetup and secure freelance projects.
+**Weeks 7-8:**
 
-**Weeks 9-10:**- Publish articles and attend online Web3 events to broaden your network.
+- Host your first Lusaka Web3 meetup and secure freelance projects.
 
-**Weeks 11-12:**- Ship additional projects, aim for a significant social media following, and prepare for job interviews.
+**Weeks 9-10:**
+
+- Publish articles and attend online Web3 events to broaden your network.
+
+**Weeks 11-12:**
+
+- Ship additional projects, aim for a significant social media following, and prepare for job interviews.
 
 **Outputs after 90 days:**
 - Three completed projects on GitHub.

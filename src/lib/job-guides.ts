@@ -1192,6 +1192,20 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     $(el).replaceWith(t ? `${t}\n` : '\n');
   });
 
+  // Format pay transparency containers (e.g. Greenhouse .content-pay-transparency)
+  // so "Pay Range" and the range amount become a clean bold labeled line.
+  $('.content-pay-transparency, .pay-input').each((_, el) => {
+    const $el = $(el);
+    const $title = $el.find('.title');
+    const $range = $el.find('.pay-range');
+    if ($title.length && $range.length) {
+      const title = $title.text().trim() || 'Pay Range';
+      let range = $range.text().trim().replace(/[—–]/g, ' - ').replace(/\s+-\s+/g, ' - ');
+      $title.remove();
+      $range.replaceWith(`\n**${title}:** ${range}\n`);
+    }
+  });
+
   // Normalize styled bold spans (e.g. BambooHR, Greenhouse inline span styles) to <strong>
   $('span').each((_, el) => {
     const style = $(el).attr('style') || '';
@@ -1530,8 +1544,8 @@ function extractJobBlocks($: cheerio.CheerioAPI, html: string, job?: Job): Array
     if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
-    // Bullet item
-    const bulletMatch = line.match(/^[-*•·▪–—\u2010-\u2015]\s*(.*)$/);
+    // Bullet item (exclude markdown bold `**` lines from matching single `*` bullet)
+    const bulletMatch = line.match(/^(?:(?!\*\*)[-*•·▪–—\u2010-\u2015])\s*(.*)$/);
     if (bulletMatch) {
       const bulletItems = bulletMatch[1]
         .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|(?<=\.)\s+[-*•·▪–—\u2010-\u2015]\s+(?=[A-Z])/)

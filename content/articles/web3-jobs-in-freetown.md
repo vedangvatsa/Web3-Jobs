@@ -58,17 +58,19 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 **Developer Compensation:**
 
-- **Junior DID Developer (0-1 year):**Competitive
+- **Junior DID Developer (0-1 year):** Competitive
 - **Mid-Level Identity/Security Developer (1-3 years):** Competitive
 - **Senior/Lead Developer (3+ years):** Competitive
 
 **GovTech and Project Management:**
 
-- **Project Manager:**Competitive
+- **Project Manager:** Competitive
 - **Product Manager (Identity):** Competitive
 - **Security/Cryptography Expert:** Competitive
 
-**Remote Work:**- International company roles: Competitive
+**Remote Work:**
+
+- International company roles: Competitive
 - Consulting/contract: Competitive
 
 **Cost of Living Insight** A mid-level developer earning a competitive salary in Freetown can expect the following expenses:

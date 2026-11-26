@@ -75,7 +75,7 @@ Once you have a solid portfolio and skill set:
 
 - **Use Remote Job Boards:** Explore platforms such as LinkedIn, AngelList, We Work Meteor, and CryptoJobs for opportunities.
 - **Network Actively:** Engage with Web3 communities on Discord, Telegram, and Twitter. Connect directly with founders and hiring managers.
-- **Apply to Decentralized Organizations:**[DAO](/what-is-a-dao) treasuries and decentralized companies often seek remote talent, offering flexibility in location.
+- **Apply to Decentralized Organizations:** [DAO](/what-is-a-dao) treasuries and decentralized companies often seek remote talent, offering flexibility in location.
 - **Consider Freelancing First:** Platforms like Upwork and Fiverr can lead to full-time remote roles.
 
 ## The Energy Sector Advantage

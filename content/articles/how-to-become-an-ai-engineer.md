@@ -95,7 +95,9 @@ While degrees and certificates are valuable, a well-crafted [portfolio](/buildin
 
 #### Step 5: Acquire Engineering and Deployment Skills (MLOps)
 
-| This knowledge differentiates a Machine Learning Engineer from a Data Scientist. You must understand how to transition your model into a production environment.**What to Learn** | Skill | Description |
+| This knowledge differentiates a Machine Learning Engineer from a Data Scientist. You must understand how to transition your model into a production environment.
+
+**What to Learn** | Skill | Description |
 | --- | --- | --- |
 | APIs | Learn to wrap your model in a simple API using frameworks like Flask or FastAPI. |  |
 | Containerization | Understand how to use Docker to package your application and its dependencies into containers. |  |

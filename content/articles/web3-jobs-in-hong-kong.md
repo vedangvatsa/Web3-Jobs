@@ -150,35 +150,49 @@ While Mandarin or Cantonese fluency can be beneficial, English proficiency is su
 
 ## 90-Day Quick-Start Action Plan
 
-**Week 1-2:**- [ ] Choose your career path: compliance, quantitative trading, or sales.
+**Week 1-2:**
+
+- [ ] Choose your career path: compliance, quantitative trading, or sales.
 - [ ] Set up professional profiles on GitHub, Twitter, and LinkedIn.
 - [ ] Assess your existing background in finance, technology, or quantitative analysis.
 - [ ] Study the SFC Virtual Asset Service Provider framework.
 
-**Week 3-4:**- [ ] Complete one relevant course, focusing on compliance, crypto trading, or institutional finance.
+**Week 3-4:**
+
+- [ ] Complete one relevant course, focusing on compliance, crypto trading, or institutional finance.
 - [ ] Network with over 20 professionals in your chosen field.
 - [ ] Research five major crypto companies operating in Hong Kong.
 - [ ] Subscribe to updates on Hong Kong regulatory changes.
 
-**Week 5-6:**- [ ] Publish one article on the Hong Kong crypto market or the SFC framework.
+**Week 5-6:**
+
+- [ ] Publish one article on the Hong Kong crypto market or the SFC framework.
 - [ ] Arrange five coffee chats with industry leaders.
 - [ ] Apply for five entry-level or consulting roles.
 - [ ] Build a relevant [portfolio](/building-web3-portfolio) or analysis.
 
-**Week 7-8:**- [ ] Secure one consulting or contractor role.
+**Week 7-8:**
+
+- [ ] Secure one consulting or contractor role.
 - [ ] Publish a technical deep-dive article.
 - [ ] Connect with ten additional professionals.
 - [ ] Apply for your ideal roles at top firms.
 
-**Week 9-10:**- [ ] Finalize your consulting engagement or secure a full-time role.
+**Week 9-10:**
+
+- [ ] Finalize your consulting engagement or secure a full-time role.
 - [ ] Aim for a strong following in the Hong Kong crypto space.
 - [ ] Plan your next three months strategically.
 
-**Week 11-12:**- [ ] Target one full-time role or proven consulting opportunity.
+**Week 11-12:**
+
+- [ ] Target one full-time role or proven consulting opportunity.
 - [ ] Reflect on your first three months in the Hong Kong Web3 market.
 - [ ] Prepare a plan for the next phase of your career.
 
-**Expected Outputs after 90 Days:**- At least one published article.
+**Expected Outputs after 90 Days:**
+
+- At least one published article.
 - A strong professional network in Hong Kong.
 - At least one paid opportunity, whether a role or consulting.
 - Recognition within the industry.

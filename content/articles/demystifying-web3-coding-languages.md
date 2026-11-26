@@ -24,7 +24,9 @@ Solidity is the primary language associated with Web3 development.
 - **Usage:** Solidity serves as the most widely adopted language for writing smart contracts on Ethereum and all EVM-compatible chains. This includes a vast ecosystem of Layer 1 and Layer 2 blockchains such as Polygon, Avalanche, BNB Smart Chain, Arbitrum, and Optimism.
 - **Importance:** Proficiency in Solidity is essential for aspiring smart contract developers. Most decentralized finance (DeFi) protocols, non-fungible token (NFT) projects, and decentralized autonomous organizations (DAOs) use Solidity. The tooling, documentation, and community support surrounding this language are the most developed in the industry.
 
-**Key Characteristics:**- Statically typed language.
+**Key Characteristics:**
+
+- Statically typed language.
 - Supports inheritance, libraries, and user-defined types.
 - Offers built-in functions for blockchain interaction (e.g., `msg.sender`, `block.timestamp`).
 
@@ -36,7 +38,9 @@ While Solidity leads in the EVM domain, Rust has gained traction as the preferre
 - **Usage:** Rust serves as the main language for writing smart contracts on blockchain platforms like Solana, Near, and Polkadot. It is also instrumental in developing core clients for these blockchains.
 - **Importance:** Rust's focus on safety and performance makes it a strong choice for building secure, high-throughput protocols. As ecosystems such as Solana expand, the demand for skilled Rust developers continues to rise.
 
-**Key Characteristics:**- Prioritizes memory safety without a garbage collector, achieved via its unique ownership and borrowing system.
+**Key Characteristics:**
+
+- Prioritizes memory safety without a garbage collector, achieved via its unique ownership and borrowing system.
 - High performance, comparable to C++.
 - Strong type system and a powerful compiler that identifies many errors at compile time.
 

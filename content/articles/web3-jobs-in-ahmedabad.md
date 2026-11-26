@@ -135,32 +135,44 @@ The job market in Ahmedabad currently favors developers with a solid foundation 
 
 ### Quick-Start Action Plan for the Next 90 Days
 
-**Weeks 1-2:**- [ ] Establish a professional GitHub, Twitter, and LinkedIn.
+**Weeks 1-2:**
+
+- [ ] Establish a professional GitHub, Twitter, and LinkedIn.
 - [ ] Enroll in free courses like Alchemy University.
 - [ ] Become a member of Web3 and local developer communities.
 - [ ] Connect with professionals in Ahmedabad's tech sector.
 
-**Weeks 3-4:**- [ ] Complete initial Alchemy modules and deploy a testnet project.
+**Weeks 3-4:**
+
+- [ ] Complete initial Alchemy modules and deploy a testnet project.
 - [ ] Publish the first article titled "Why Ahmedabad Can Be India's Web3 Hub."
 - [ ] Network by reaching out to Web3 builders.
 - [ ] Attend a local tech or startup event.
 
-**Weeks 5-6:**- [ ] Launch your first mainnet project using platforms like Polygon or Optimism.
+**Weeks 5-6:**
+
+- [ ] Launch your first mainnet project using platforms like Polygon or Optimism.
 - [ ] Write a second article that provides a technical deep-dive or use case analysis.
 - [ ] Apply for remote Web3 roles.
 - [ ] Begin planning an Ahmedabad meetup.
 
-**Weeks 7-8:**- [ ] Complete a second project.
+**Weeks 7-8:**
+
+- [ ] Complete a second project.
 - [ ] Apply for roles at local startups or enterprises.
 - [ ] Host the first meetup, aiming for attendees.
 - [ ] Conduct coffee chats with individuals you have reached out to.
 
-**Weeks 9-10:**- [ ] Publish a third article.
+**Weeks 9-10:**
+
+- [ ] Publish a third article.
 - [ ] Land your first consulting gig or Upwork contract.
 - [ ] Plan a bootcamp or course offering.
 - [ ] Attend online Web3 events and aim to speak at one.
 
-**Weeks 11-12:**- [ ] Finalize a third project.
+**Weeks 11-12:**
+
+- [ ] Finalize a third project.
 - [ ] Host a second meetup, targeting attendees.
 - [ ] Aim for a substantial number of Twitter followers.
 - [ ] Secure serious job interviews or prepare to launch your bootcamp.

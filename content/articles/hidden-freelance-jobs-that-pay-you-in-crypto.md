@@ -47,7 +47,7 @@ Bounties represent a primary entry point into the Web3 gig economy. A bounty is 
 
 **How to Succeed with Bounties:**
 
-- **Start Small:**Avoid large, complex tasks initially. Choose manageable bounties to build confidence and reputation.
+- **Start Small:** Avoid large, complex tasks initially. Choose manageable bounties to build confidence and reputation.
 - **Communicate Clearly:** Clarify deliverables and expectations with the bounty issuer before starting.
 - **Deliver High-Quality Work:** Submit work you are proud of; your reputation depends on it.
 - **Meet Deadlines:** Reliability is highly valued in decentralized environments.

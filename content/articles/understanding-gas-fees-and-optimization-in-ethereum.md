@@ -285,7 +285,9 @@ It can be, if you are not time-sensitive. Your transaction will sit in the mempo
 
 #### Do gas tokens or refunds help me now?
 
-No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.**Where should I track fees and burn?**
+No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.
+
+**Where should I track fees and burn?**
 
 Use ethereum.org/developers/docs/gas for mechanics, eips.ethereum.org/EIPS/eip-1559 and EIP-2929 for spec details, and a live tracker such as Etherscan Gas Tracker for current base fee and tip. For burn and supply, Ultrasound.money and Glassnode publish cumulative burn and supply charts.
 

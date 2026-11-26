@@ -148,38 +148,52 @@ Several career paths can lead to earnings exceeding $5,000 per month in Dakar. B
 
 ### 90-Day Quick-Start Action Plan
 
-**Weeks 1-2:**- [ ] Establish a professional GitHub, Twitter, and LinkedIn profile.
+**Weeks 1-2:**
+
+- [ ] Establish a professional GitHub, Twitter, and LinkedIn profile.
 - [ ] Enroll in Alchemy University (free).
 - [ ] Join five Web3 Discord communities.
 - [ ] Reach out to individuals in the Senegalese/Francophone Web3 space on Twitter.
 
-**Weeks 3-4:**- [ ] Complete initial Alchemy modules and deploy on the testnet.
+**Weeks 3-4:**
+
+- [ ] Complete initial Alchemy modules and deploy on the testnet.
 - [ ] Publish your first article (in French and English): "Why Senegal Should Lead Francophone Web3."
 - [ ] Expand your network by reaching out to Web3 builders.
 - [ ] Attend your first Web3 or startup event in Dakar.
 
-**Weeks 5-6:**- [ ] Deploy your first mainnet project (on Polygon or Optimism).
+**Weeks 5-6:**
+
+- [ ] Deploy your first mainnet project (on Polygon or Optimism).
 - [ ] Create a second project addressing a local issue in Senegal/UEMOA.
 - [ ] Publish a second technical article or market analysis (preferably bilingual).
 - [ ] Apply for entry-level remote Web3 positions.
 
-**Weeks 7-8:**- [ ] Finalize your projects with excellent documentation.
+**Weeks 7-8:**
+
+- [ ] Finalize your projects with excellent documentation.
 - [ ] Join Upwork and apply for blockchain consulting gigs.
 - [ ] Start a weekly Twitter Spaces session discussing a Web3 topic.
 - [ ] Have coffee chats with individuals you reached out to.
 
-**Weeks 9-10:**- [ ] Publish a third article (research, analysis, or personal reflection).
+**Weeks 9-10:**
+
+- [ ] Publish a third article (research, analysis, or personal reflection).
 - [ ] Land your first Upwork contract.
 - [ ] Attend online Web3 events and speak if possible.
 - [ ] Organize your first meetup or online community event.
 
-**Weeks 11-12:**- [ ] Deliver a third project or contribute to an open-source project.
+**Weeks 11-12:**
+
+- [ ] Deliver a third project or contribute to an open-source project.
 - [ ] Host your first meetup or community event with a goal of attendees.
 - [ ] Aim for a significant Twitter following.
 - [ ] Schedule job interviews.
 - [ ] Publish a reflective piece on your first three months in Web3 in Dakar.
 
-**Expected Outputs After 90 Days:**- 3-4 completed projects (GitHub); 1-2 mainnet.
+**Expected Outputs After 90 Days:**
+
+- 3-4 completed projects (GitHub); 1-2 mainnet.
 - 3 published articles (preferably bilingual).
 - 1-2 paid Upwork contracts.
 - A significant Twitter following.
@@ -238,7 +252,7 @@ Begin with these roles to generate income, and consider learning to code later i
 
 **How can I find Dakar-specific Web3 opportunities?**
 
-- **Meetups:**Attend startup and tech events in Dakar to connect with others in the field.
+- **Meetups:** Attend startup and tech events in Dakar to connect with others in the field.
 - **Twitter:** Engage with the Senegalese and Francophone Web3 communities.
 - **Job boards:** Use specialized job boards for remote and African roles.
 - **LinkedIn:** Search for "Web3 Remote" opportunities and connect with hiring managers.
@@ -257,7 +271,7 @@ Realistic salary expectations are as follows:
 
 **How can I network across UEMOA?**
 
-- **Twitter:**Connect with developers from UEMOA countries.
+- **Twitter:** Connect with developers from UEMOA countries.
 - **Events:** Attend major conferences where pan-African professionals gather.
 - **Online:** Establish an online "Web3 UEMOA" community inviting participants from all eight countries.
 - **Travel:** Attend regional events each year to expand your network.

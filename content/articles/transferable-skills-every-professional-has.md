@@ -68,14 +68,20 @@ Self-reflection is essential in discovering your transferable skills. Review you
 
 Once you identify your transferable skills, make them visible to employers.
 
-- **On Your [Resume](/how-to-build-a-web3-resume-that-stands-out):**- Incorporate a "Summary" or "Professional Profile" at the top of your resume that emphasizes your top 3-4 transferable skills and their relevance to the desired role.
+- **On Your [Resume](/how-to-build-a-web3-resume-that-stands-out):**
+
+- Incorporate a "Summary" or "Professional Profile" at the top of your resume that emphasizes your top 3-4 transferable skills and their relevance to the desired role.
  - Integrate these skills into your work experience bullet points. Focus on accomplishments rather than merely listing duties. Our guide on [how to showcase skills without experience](/how-to-showcase-skills-without-experience) provides practical examples.
  - Use keywords from the job description, as many companies use Applicant Tracking Systems (ATS) that scan for these terms.
 
-- **In Your Cover Letter:**- Your cover letter serves as an opportunity to connect your experience to the needs of the new role. Clearly state how your past experiences translate to the new position.
+- **In Your Cover Letter:**
+
+- Your cover letter serves as an opportunity to connect your experience to the needs of the new role. Clearly state how your past experiences translate to the new position.
  - Example: "While my background has been in retail management, I developed skills in team leadership, budget management, and customer satisfaction improvement that directly relate to project management and client relations in this role."
 
-- **In Your [Interview](/how-to-prepare-for-job-interview):**- Use the STAR method (Situation, Task, Action, Result) to answer behavioral questions. For example, when asked about a challenging problem you resolved, draw from diverse experiences, ensuring you clearly articulate how the skills you used are relevant.
+- **In Your [Interview](/how-to-prepare-for-job-interview):**
+
+- Use the STAR method (Situation, Task, Action, Result) to answer behavioral questions. For example, when asked about a challenging problem you resolved, draw from diverse experiences, ensuring you clearly articulate how the skills you used are relevant.
  - Maintain confidence in your narrative. Do not apologize for a non-traditional background; instead, frame it as a unique strength that offers a fresh perspective.
 
 Understanding and articulating your transferable skills enables you to pursue a broader range of opportunities. You are not limited to job titles; you possess a collection of valuable abilities. Effectively marketing these skills is important for your next career move.
@@ -162,11 +168,15 @@ As you advance in your career, the importance of these skills increases:
 
 ### Resources for Ongoing Development
 
-**Books:**- "Atomic Habits" by James Clear focuses on consistent skill development.
+**Books:**
+
+- "Atomic Habits" by James Clear focuses on consistent skill development.
 - "Thinking, Fast and Slow" by Daniel Kahneman offers insights into decision-making processes.
 - "Never Split the Difference" by Chris Voss teaches negotiation and influence tactics.
 
-**Online Resources:**- Platforms like Coursera and edX provide courses for technical skill enhancement.
+**Online Resources:**
+
+- Platforms like Coursera and edX provide courses for technical skill enhancement.
 - MasterClass offers specialized skill development.
 - YouTube channels and podcasts feature industry experts sharing valuable insights.
 
