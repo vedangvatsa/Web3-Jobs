@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-11-26T14:11:33.334261+00:00",
+  "total": 15,
+  "delivered": 15,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Cointelegraph Magazine",
+      "email": "editor@cointelegraph.com",
+      "title": "How to Get a Job in Crypto & Web3 Careers Guide",
+      "url": "https://cointelegraph.com/magazine/",
+      "deliveryId": "01a21832-5126-733c-83a2-fcd3ad018bb7",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinMarketCap Academy",
+      "email": "media@coinmarketcap.com",
+      "title": "Crypto Career Guide and Web3 Job Market",
+      "url": "https://coinmarketcap.com/academy/",
+      "deliveryId": "01a21832-54c8-77ed-8fba-9a39fecc3592",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinLedger",
+      "email": "support@coinledger.io",
+      "title": "Guide to Top Crypto and Web3 Job Boards",
+      "url": "https://coinledger.io/blog/crypto-job-boards",
+      "deliveryId": "01a21832-5a0c-7144-914e-6637f4d9fd13",
+      "status": "delivered"
+    },
+    {
+      "name": "OpenZeppelin",
+      "email": "contact@openzeppelin.com",
+      "title": "Smart Contract Security and Web3 Developer Guides",
+      "url": "https://blog.openzeppelin.com",
+      "deliveryId": "01a21832-5f70-72cb-bf2e-dfab97abbcac",
+      "status": "delivered"
+    },
+    {
+      "name": "Immunefi",
+      "email": "press@immunefi.com",
+      "title": "Web3 Security and Bug Bounty Career Paths",
+      "url": "https://immunefi.com/blog/",
+      "deliveryId": "01a21832-62cc-7c8f-8f24-2c13966c2dd8",
+      "status": "delivered"
+    },
+    {
+      "name": "Ethereum Foundation",
+      "email": "press@ethereum.org",
+      "title": "Ethereum Community and Developer Ecosystem",
+      "url": "https://ethereum.org/en/community/",
+      "deliveryId": "01a21832-65ac-7289-a493-e7cc07606bfe",
+      "status": "delivered"
+    },
+    {
+      "name": "Avalanche (Ava Labs)",
+      "email": "press@avalabs.org",
+      "title": "Avalanche Builder Ecosystem and Career Opportunities",
+      "url": "https://www.avax.network/blog",
+      "deliveryId": "01a21832-6905-7ef1-9be9-d4f0bd5263af",
+      "status": "delivered"
+    },
+    {
+      "name": "Chainlink Labs",
+      "email": "press@chain.link",
+      "title": "Chainlink Ecosystem and Web3 Developer Opportunities",
+      "url": "https://blog.chain.link",
+      "deliveryId": "01a21832-6bee-7a17-9947-f26d43036da3",
+      "status": "delivered"
+    },
+    {
+      "name": "Chainalysis",
+      "email": "press@chainalysis.com",
+      "title": "Blockchain Intelligence & Web3 Ecosystem Insights",
+      "url": "https://www.chainalysis.com/blog/",
+      "deliveryId": "01a21832-6f26-76e5-bb85-016882c84dda",
+      "status": "delivered"
+    },
+    {
+      "name": "Elliptic",
+      "email": "press@elliptic.co",
+      "title": "Crypto Compliance and Blockchain Ecosystem Guides",
+      "url": "https://www.elliptic.co/blog",
+      "deliveryId": "01a21832-7205-7b4c-a6db-146508584577",
+      "status": "delivered"
+    },
+    {
+      "name": "TRM Labs",
+      "email": "press@trmlabs.com",
+      "title": "Web3 Intelligence and Career Opportunities",
+      "url": "https://www.trmlabs.com/blog",
+      "deliveryId": "01a21832-753f-755c-afe7-24f83b0ea172",
+      "status": "delivered"
+    },
+    {
+      "name": "CertiK",
+      "email": "press@certik.com",
+      "title": "Web3 Security Leader Insights and Careers",
+      "url": "https://www.certik.com/resources",
+      "deliveryId": "01a21832-7840-7648-9e35-5e45b94ffd1a",
+      "status": "delivered"
+    },
+    {
+      "name": "Halborn",
+      "email": "contact@halborn.com",
+      "title": "Blockchain Security and Web3 Engineering Careers",
+      "url": "https://www.halborn.com/blog",
+      "deliveryId": "01a21832-7b74-78de-aff2-9f51ea8ea01c",
+      "status": "delivered"
+    },
+    {
+      "name": "Hacken",
+      "email": "info@hacken.io",
+      "title": "Web3 Security Careers and Ecosystem Insights",
+      "url": "https://hacken.io/insights/",
+      "deliveryId": "01a21832-7e2f-7b0d-a5d0-633112bac6b3",
+      "status": "delivered"
+    },
+    {
+      "name": "Cyfrin",
+      "email": "contact@cyfrin.io",
+      "title": "Solidity and Smart Contract Security Career Tracks",
+      "url": "https://www.cyfrin.io/blog",
+      "deliveryId": "01a21832-8196-704a-8347-fb9e2169e723",
+      "status": "delivered"
+    }
+  ]
+}
