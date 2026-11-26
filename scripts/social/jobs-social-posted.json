@@ -197803,7 +197803,8 @@
       },
       "account": "profile",
       "attemptId": "6b313ce1-cfc5-4525-87ca-1b57e9d1bf88",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x360171ac4a12208d023057097fae9c78dfb467c5"
     }
   ]
 }
