@@ -1,0 +1,64 @@
+{
+  "timestamp": "2026-11-26T12:57:35.000Z",
+  "total": 8,
+  "delivered": 8,
+  "failed": 0,
+  "results": [
+    {
+      "name": "UseTheBitcoin",
+      "email": "editor@usethebitcoin.com",
+      "article": "Top 6 Crypto and Web3 Job Boards Ranked (https://usethebitcoin.com/crypto/top-6-crypto-and-web3-job-boards-ranked-2026-edition/)",
+      "deliveryId": "01a217ee-aad8-7508-a8c6-78bc5ded160d",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinGape",
+      "email": "contact@coingape.com",
+      "article": "10 Best Crypto Job Portals and Websites (https://coingape.com/10-best-crypto-job-portals-and-websites-2023-career-in-blockchain/)",
+      "deliveryId": "01a217ee-ae20-76b8-98ac-38faf86d5edb",
+      "status": "delivered"
+    },
+    {
+      "name": "RiseWorks",
+      "email": "hello@riseworks.io",
+      "article": "Where Should You Search for Crypto Jobs? (https://www.riseworks.io/blog/where-should-you-search-for-crypto-jobs)",
+      "deliveryId": "01a217ee-b60a-79fb-be5b-c4ccdc0c89a9",
+      "status": "delivered"
+    },
+    {
+      "name": "Coinweb",
+      "email": "info@coinweb.com",
+      "article": "Top Web3 Job Boards (https://coinweb.com/top-web3-job-boards/)",
+      "deliveryId": "01a217ee-b947-7d80-adde-1fddce380186",
+      "status": "delivered"
+    },
+    {
+      "name": "99Bitcoins",
+      "email": "contact@99bitcoins.com",
+      "article": "How to Get a Crypto Job & Top Job Platforms (https://99bitcoins.com/guides-and-tutorials/how-to-get-crypto-job/)",
+      "deliveryId": "01a217ee-bc96-727f-bd7b-d42ddf3eb391",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinTracking",
+      "email": "support@cointracking.freshdesk.com",
+      "article": "Find Crypto Jobs: The 20 Best Websites (https://cointracking.info/blog/find-crypto-jobs-the-20-best-websites-2023/)",
+      "deliveryId": "01a217ee-c2ec-7e77-b23b-d9d89b266f35",
+      "status": "delivered"
+    },
+    {
+      "name": "Coinbound",
+      "email": "ty@coinbound.io",
+      "article": "Top Web3 Job Boards for Hiring Talent (https://coinbound.io/top-web3-job-boards/)",
+      "deliveryId": "01a217ee-c662-74ad-ac52-492d972c38d8",
+      "status": "delivered"
+    },
+    {
+      "name": "HackerNoon Editorial",
+      "email": "editor@hackernoon.com",
+      "article": "Where to Find Jobs in Crypto and Web3 (https://hackernoon.com/so-you-want-to-work-in-crypto-where-to-find-jobs-and-whos-getting-paid-the-most)",
+      "deliveryId": "01a217ee-c9cf-7b96-b4f9-7566db7fa825",
+      "status": "delivered"
+    }
+  ]
+}
