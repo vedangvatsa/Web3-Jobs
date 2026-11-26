@@ -3598,5 +3598,121 @@
     "slotKey": "2026-11-25:evening",
     "messageId": 156505,
     "sentAt": "2026-11-25T20:36:34.138Z"
+  },
+  "4291d3b5-172b-4d5a-b09f-2d6f2e373632": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T04:49:40.204Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8331124",
+          "title": "Product Marketing Manager, Subscriptions",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8331124",
+          "date": "2026-10-28T11:28:30-04:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "New York, San Francisco, Seattle, Remote",
+          "department": "2317 Marketing - PMM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm163"
+        },
+        "key": "8331124",
+        "slug": "pm163",
+        "url": "https://hashtagweb3.com/pm163?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "306d5afc-5dfc-47bb-8f53-f0817e32bb44",
+          "title": "Senior Manager, Global Compliance Strategy and Policies (UK)",
+          "company": "Crypto.com",
+          "link": "https://jobs.lever.co/crypto/306d5afc-5dfc-47bb-8f53-f0817e32bb44",
+          "date": "2026-11-19T09:38:47.718Z",
+          "source": "Lever: Crypto.com [crypto]",
+          "location": "Hybrid (London)",
+          "workplaceType": "hybrid",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cmp188"
+        },
+        "key": "306d5afc-5dfc-47bb-8f53-f0817e32bb44",
+        "slug": "cmp188",
+        "url": "https://hashtagweb3.com/cmp188?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Crypto.com",
+        "title": "Senior Manager"
+      },
+      {
+        "snapshot": {
+          "id": "1902068b-6097-43aa-966c-7af035cc6998",
+          "title": "Senior QA Engineer",
+          "company": "BTSE",
+          "link": "https://jobs.lever.co/BTSE/1902068b-6097-43aa-966c-7af035cc6998",
+          "date": "2026-11-04T09:02:47.570Z",
+          "source": "Lever: BTSE [BTSE]",
+          "location": "Remote (Southeast Asia)",
+          "workplaceType": "remote",
+          "department": "BTSE",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "qa103"
+        },
+        "key": "1902068b-6097-43aa-966c-7af035cc6998",
+        "slug": "qa103",
+        "url": "https://hashtagweb3.com/qa103?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BTSE",
+        "title": "Senior QA Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "acb89ce6-040d-4cdb-8d01-451cb2d07702",
+          "title": "Sr. Product Marketing Manager, Government",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/acb89ce6-040d-4cdb-8d01-451cb2d07702",
+          "date": "2026-10-28T15:29:04.143+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Remote (London)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm164"
+        },
+        "key": "acb89ce6-040d-4cdb-8d01-451cb2d07702",
+        "slug": "pm164",
+        "url": "https://hashtagweb3.com/pm164?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Sr. Product Marketing Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8932849002",
+          "title": "Senior Product Manager - Tokenization & Stablecoin Infrastructure",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8932849002",
+          "date": "2026-11-11T20:03:35-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "Toronto, Ontario, Canada",
+          "department": "Product",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra79"
+        },
+        "key": "8932849002",
+        "slug": "infra79",
+        "url": "https://hashtagweb3.com/infra79?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Senior Product Manager"
+      }
+    ],
+    "message": "- Stripe is hiring <a href=\"https://hashtagweb3.com/pm163?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Product Marketing Manager, Subscriptions</a>\n- Crypto​.com is hiring <a href=\"https://hashtagweb3.com/cmp188?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Manager, Global Compliance Strategy and Policies</a>\n- BTSE is hiring <a href=\"https://hashtagweb3.com/qa103?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior QA Engineer</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/pm164?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sr. Product Marketing Manager, Government</a>\n- BitGo is hiring <a href=\"https://hashtagweb3.com/infra79?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager - Tokenization &amp; Stablecoin Infrastructure</a>",
+    "slotKey": "2026-11-26:morning"
   }
 }
