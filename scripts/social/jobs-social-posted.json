@@ -194341,6 +194341,34 @@
       "attemptId": "33ef3c68-bfa6-4636-8c5d-a06d27d1b2db",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "eng797",
+      "company": "Bitpanda",
+      "title": "Software Engineer, Java",
+      "platform": "threads",
+      "postedAt": "2026-11-26T13:06:36.847Z",
+      "expectedText": "Bitpanda is hiring Software Engineer, Java: https://hashtagweb3.com/eng797/th?og=7",
+      "snapshot": {
+        "id": "4963196101",
+        "title": "Software Engineer, Java",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963196101",
+        "date": "2026-11-16T14:41:41-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng797"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Software Engineer, Java: https://hashtagweb3.com/eng797/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/eng797/th?og=7"
+      },
+      "attemptId": "c8ef9d1c-45e9-4095-bd1d-c805032db708",
+      "verification": "creating"
     }
   ]
 }
