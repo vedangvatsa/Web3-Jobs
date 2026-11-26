@@ -1987,7 +1987,7 @@
     "category": "Web3 Ecosystem",
     "type": "Grant",
     "amount": "Milestone-based",
-    "description": "The Arbitrum D.A.O. Grant Program, managed through Questbook, provides domain-specific decentralized grant funding across gaming, developer tooling, and novel protocol mechanics on Arbitrum One and Nova.",
+    "description": "The Arbitrum D.A.O. (Domain Allocator Offering) grant program is a 1-year program divided into five domains, designed as the entry point for grants in the Arbitrum ecosystem to support builders aligned with the vision of the DAO.",
     "url": "https://arbitrum.questbook.app/",
     "ecosystem": "Ethereum",
     "tags": [
@@ -2004,41 +2004,20 @@
       {
         "heading": "Program overview",
         "paragraphs": [
-          "Arbitrum D.A.O. Grant Program is an ecosystem grant initiative powered by Arbitrum D.A.O. designed to accelerate the development of critical protocols, developer tooling, and decentralized applications across Ethereum. The program provides milestone-based tranches sized according to project scope to empower talented engineering teams building scalable onchain solutions.",
-          "Grant capital is focused on high-priority infrastructure and use cases spanning Education, Events, Community, DevTooling, helping teams move rapidly from prototype to production with direct technical and distribution support from Arbitrum D.A.O.",
-          "Beyond capital, Arbitrum D.A.O. Grant Program connects recipients with core network engineers, security auditors, and community stakeholders to ensure smooth mainnet deployment and sustained user adoption."
+          "The Arbitrum D.A.O. 3.0 is a one-year grant program with a total budget of $6.75M across five domains: New Protocols and Ideas ($1.5M), Dev Tooling on Arbitrum One and Stylus ($1.5M), Gaming ($1.5M), Education and Events ($1.5M), and an Orbit domain ($750K).",
+          "The program continues the partnership between Arbitrum DAO and Questbook to support and grow the Arbitrum ecosystem."
         ]
       },
       {
-        "heading": "Key focus areas & strategic priorities",
+        "heading": "Program details",
         "paragraphs": [
-          "The technical steering committee for Arbitrum D.A.O. Grant Program seeks proposals that deliver tangible utility and measurable onchain traction to Ethereum. Priority categories include:."
-        ],
-        "bullets": [
-          "Decentralized protocol engineering: Implementing secure smart contracts, state transition logic, and liquidity protocols tailored to Ethereum.",
-          "Developer frameworks & SDKs: Building open-source client libraries, testing suites, local testnets, and developer documentation that streamline onboarding.",
-          "Data availability & indexing infrastructure: Engineering high-throughput oracles, event indexers, and subgraphs for real-time protocol telemetry.",
-          "User-facing applications & interfaces: Launching accessible frontends, decentralized identity integrations, and automated agent workflows for global users."
+          "The Arbitrum grants, administered via D.A.O. by Questbook and four domain allocators, launched with a $4M grants budget across four domains, including Arbitrum Dev Tooling on One and Nova."
         ]
       },
       {
-        "heading": "Eligibility, evaluation & review criteria",
+        "heading": "How to apply",
         "paragraphs": [
-          "Proposals for Arbitrum D.A.O. Grant Program are reviewed by core engineers and ecosystem evaluators using four primary criteria:."
-        ],
-        "bullets": [
-          "Architectural rigor and code quality: Well-structured GitHub repositories featuring clean commit histories, modular contracts, and comprehensive unit tests.",
-          "Clear ecosystem alignment: A focused value proposition that solves tangible technical bottlenecks or drives sustained transaction activity on Ethereum.",
-          "Team capability: Proven track record in software engineering, cryptography, or distributed systems capable of shipping complex deliverables on schedule.",
-          "Milestone feasibility: A well-defined work breakdown structure with concrete, verifiable acceptance criteria for each development sprint."
-        ]
-      },
-      {
-        "heading": "How to apply & milestone delivery",
-        "paragraphs": [
-          "Founders and engineering teams can initiate their proposal via the official Arbitrum D.A.O. Grant Program portal. Submissions must include an architectural overview, link to public or private repositories, deliverable milestones, and budget allocation breakdown.",
-          "Applications are reviewed on a rolling intake cadence. Shortlisted teams participate in a technical discovery interview with Arbitrum D.A.O.'s engineering committee to refine project milestones and security specifications.",
-          "Disbursements are milestone-gated: an initial tranche (25-30%) is provided upon onboarding, followed by milestone releases upon testnet deployment, successful smart contract audits, and production mainnet launch."
+          "Review eligibility on the official program page linked above, then submit using the application channel the operator publishes."
         ]
       }
     ],
