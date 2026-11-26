@@ -198508,6 +198508,35 @@
       "attemptId": "e895d9be-9034-4d7a-85a4-e73eda3ebefb",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "ba",
+      "company": "Figure",
+      "title": "Borrower Advocate",
+      "platform": "facebook",
+      "postedAt": "2026-11-26T23:31:23.825Z",
+      "expectedText": "Figure is hiring Borrower Advocate: https://hashtagweb3.com/ba/fb?og=7",
+      "snapshot": {
+        "id": "8934107002",
+        "title": "Borrower Advocate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8934107002",
+        "date": "2026-11-19T16:16:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Servicing",
+        "active": true,
+        "salary": "$45.8k – $60k/yr",
+        "dateVerified": true,
+        "slug": "ba"
+      },
+      "payload": {
+        "message": "Figure is hiring Borrower Advocate: https://hashtagweb3.com/ba/fb?og=7",
+        "link": "https://hashtagweb3.com/ba/fb?og=7"
+      },
+      "attemptId": "4c923f0b-4bf8-4a33-8e56-ecf31171d324",
+      "verification": "creating"
     }
   ]
 }
