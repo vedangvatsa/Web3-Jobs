@@ -197706,6 +197706,35 @@
       "attemptId": "aa18e7a1-1ea5-49c2-b5d3-b5bafa1aeae9",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "ba",
+      "company": "Figure",
+      "title": "Borrower Advocate",
+      "platform": "threads",
+      "postedAt": "2026-11-26T23:31:23.825Z",
+      "expectedText": "Figure is hiring Borrower Advocate: https://hashtagweb3.com/ba/th?og=7",
+      "snapshot": {
+        "id": "8934107002",
+        "title": "Borrower Advocate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8934107002",
+        "date": "2026-11-19T16:16:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Servicing",
+        "active": true,
+        "salary": "$45.8k – $60k/yr",
+        "dateVerified": true,
+        "slug": "ba"
+      },
+      "payload": {
+        "text": "Figure is hiring Borrower Advocate: https://hashtagweb3.com/ba/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/ba/th?og=7"
+      },
+      "attemptId": "a2e2035e-d591-4d60-a1c0-c383d79b02e7",
+      "verification": "creating"
     }
   ]
 }
