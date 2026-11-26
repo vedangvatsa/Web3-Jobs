@@ -194927,6 +194927,40 @@
       "attemptId": "5c92a458-e036-48f8-9cc7-173d3aa79a0c",
       "verification": "verified",
       "postId": "0x0e65d06557667f3f91c2b50646860f8d4368bfe4"
+    },
+    {
+      "slug": "eng797",
+      "company": "Bitpanda",
+      "title": "Software Engineer, Java",
+      "platform": "farcaster",
+      "postedAt": "2026-11-26T13:06:36.847Z",
+      "expectedText": "Bitpanda is hiring Software Engineer, Java\n\nhttps://hashtagweb3.com/eng797/fc?og=7",
+      "snapshot": {
+        "id": "4963196101",
+        "title": "Software Engineer, Java",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963196101",
+        "date": "2026-11-16T14:41:41-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "Vienna, Austria",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng797"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Software Engineer, Java\n\nhttps://hashtagweb3.com/eng797/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng797/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "adbeef2e-5c32-4b3d-a172-3930cabeed29",
+      "verification": "creating"
     }
   ]
 }
