@@ -195276,7 +195276,8 @@
       },
       "account": "profile",
       "attemptId": "f883a4fa-a8b2-434f-aca9-e278045502de",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7fd970d16a5100d55e1bcbc0157443d1751b2f36"
     }
   ]
 }
