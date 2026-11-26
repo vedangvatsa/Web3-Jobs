@@ -192695,7 +192695,8 @@
         "description": "Join Bybit as AMLO. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "e694f02b-6210-43d6-b05a-49959bbdf19f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n36urcvo2p2g"
     }
   ]
 }
