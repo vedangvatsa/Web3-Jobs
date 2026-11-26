@@ -191923,7 +191923,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "b5618a81-f025-43f1-b7c3-07f5a4b70040",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfcff2229a1239c18cff9d4bd9107d73b47b6b081"
     }
   ]
 }
