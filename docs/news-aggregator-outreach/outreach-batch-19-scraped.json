@@ -1,0 +1,128 @@
+{
+  "dispatchedAt": "2026-11-26T10:40:21.000Z",
+  "total": 20,
+  "delivered": 19,
+  "failed": 1,
+  "results": [
+    {
+      "name": "Startups.co.uk",
+      "email": "hello@startups.co.uk",
+      "deliveryId": "01a21770-eafa-7639-96f0-7c222b8f69ec",
+      "status": "delivered"
+    },
+    {
+      "name": "KrASIA",
+      "email": "hello@kr-asia.com",
+      "deliveryId": "01a21770-efb3-74d4-ac24-6f872cb262b0",
+      "status": "delivered"
+    },
+    {
+      "name": "Maddyness",
+      "email": "adresse@mail.com",
+      "deliveryId": "01a21770-f2a4-791d-8291-24f0dc619167",
+      "status": "delivered"
+    },
+    {
+      "name": "UK Tech News",
+      "email": "news@newsfromwales.com",
+      "deliveryId": "01a21770-f566-7597-ad54-69658b0abd13",
+      "status": "delivered"
+    },
+    {
+      "name": "Australian Financial Review Tech",
+      "email": "bonnie.campbell@afr.com",
+      "deliveryId": "01a21770-f820-701d-8786-03a12ffc1515",
+      "status": "delivered"
+    },
+    {
+      "name": "Silicon Canals",
+      "email": "editorial@siliconcanals.com",
+      "deliveryId": "01a21770-fcbc-7730-9664-436dd877c2ad",
+      "status": "delivered"
+    },
+    {
+      "name": "TechNode",
+      "email": "contact@technode.com",
+      "deliveryId": "01a21770-ffb0-77f4-838a-248cbc8ba66a",
+      "status": "delivered"
+    },
+    {
+      "name": "StartupDaily",
+      "email": "very.unusual.@.unusual.com",
+      "error": "HTTP 422: {\"message\":\"Invalid `to` field. The email address needs to follow the `email@example.com` or `Name <email@example.com>` format.\",\"name\":\"validation_error\",\"statusCode\":422}",
+      "status": "failed"
+    },
+    {
+      "name": "Ventureburn",
+      "email": "contact@ventureburn.com",
+      "deliveryId": "01a21771-058f-70e2-8807-ac8963ea6f0e",
+      "status": "delivered"
+    },
+    {
+      "name": "TechCabal",
+      "email": "editor@techcabal.com",
+      "deliveryId": "01a21771-0845-798e-b68f-beb7cd624d4f",
+      "status": "delivered"
+    },
+    {
+      "name": "Techpoint Africa",
+      "email": "info@techpoint.africa",
+      "deliveryId": "01a21771-0b3d-7de3-91fc-c6dd3abece1e",
+      "status": "delivered"
+    },
+    {
+      "name": "Discover Magazine",
+      "email": "editorial@discovermagazine.com",
+      "deliveryId": "01a21771-0df1-7770-8654-08f8592f0572",
+      "status": "delivered"
+    },
+    {
+      "name": "Scientific American",
+      "email": "editors@sciam.com",
+      "deliveryId": "01a21771-1084-72dd-bce1-29a4aaaad4a6",
+      "status": "delivered"
+    },
+    {
+      "name": "New Scientist",
+      "email": "press@newscientist.com",
+      "deliveryId": "01a21771-1376-7211-ae13-7fc65901cd25",
+      "status": "delivered"
+    },
+    {
+      "name": "Popular Mechanics",
+      "email": "editor@popularmechanics.com",
+      "deliveryId": "01a21771-1614-7a55-b4d0-e9a2997b8d33",
+      "status": "delivered"
+    },
+    {
+      "name": "Nautilus Science",
+      "email": "newsletters@nautil.us",
+      "deliveryId": "01a21771-190b-7958-961a-17eff6f5fc5e",
+      "status": "delivered"
+    },
+    {
+      "name": "PV Tech",
+      "email": "info@wallkit.com",
+      "deliveryId": "01a21771-1bfa-7970-b0b4-163e6a5dfb63",
+      "status": "delivered"
+    },
+    {
+      "name": "Energy Storage News",
+      "email": "info@wallkit.com",
+      "deliveryId": "01a21771-1f0a-79c1-b21a-dbbf9c830dcb",
+      "status": "delivered"
+    },
+    {
+      "name": "Nature Machine Intelligence",
+      "email": "press@nature.com",
+      "deliveryId": "01a21771-21d5-763b-a256-1ea487caa75b",
+      "status": "delivered"
+    },
+    {
+      "name": "Nature Biotechnology",
+      "email": "press@nature.com",
+      "deliveryId": "01a21771-246f-798c-97a2-7966dfb270d6",
+      "status": "delivered"
+    }
+  ]
+}
