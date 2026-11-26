@@ -1056,7 +1056,7 @@
     "sentAt": "2026-11-26T13:05:39.115Z"
   },
   "f4ff6e27-09f0-47b2-a302-7ce363320f74": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T20:35:27.771Z",
     "stories": [
       {
@@ -1085,6 +1085,8 @@
         "originalTitle": "Japan weighs tighter oversight of DeFi, self-custodial wallets"
       }
     ],
-    "slotKey": "2026-11-26:evening"
+    "slotKey": "2026-11-26:evening",
+    "messageId": 156533,
+    "sentAt": "2026-11-26T20:35:32.776Z"
   }
 }
