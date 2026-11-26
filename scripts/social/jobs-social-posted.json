@@ -194960,7 +194960,8 @@
       },
       "account": "channel:design",
       "attemptId": "adbeef2e-5c32-4b3d-a172-3930cabeed29",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf37e6256508caf95d351ba69441c15dcb44d8b54"
     }
   ]
 }
