@@ -221337,9 +221337,9 @@
         "Unchained"
       ],
       "id": "d5caf5b7b1d0a3efeb46",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-27T18:01:58.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "articleSlug": "utahkalshidismiss",
@@ -221361,7 +221361,29 @@
         "updatedAt": "2026-11-26T02:36:36.238Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the Utah AG primary release, Unchained, KUTV and Cointelegraph reports; verified the Nov. 23 dismissal motion, the 14 charges, the 177,000 Utah users figure and the civil suit fee estimate. The Block and The Defiant returned 403.",
+      "sourceChecks": [
+        {
+          "url": "https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://unchainedcrypto.com/utah-asks-court-to-toss-kalshi-criminal-case-but-the-charges-could-come-back/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://kutv.com/news/local/utah-moves-to-drop-kalshi-gambling-case-after-company-blocks-state-users",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-26T02:41:26.133Z",
+      "lastReviewedDay": "2026-11-26"
     },
     "306496d44e9dc10d2725": {
       "source": "CoinDesk",
@@ -436771,6 +436793,31 @@
             "Find independent reporting confirming Bit Digital sold 29,825 ETH between Nov. 15-23, 2026 and halved its Galaxy Digital debt",
             "Find a Bit Digital press release or SEC filing on the Galaxy debt repayment and ETH sale"
           ]
+        },
+        "d5caf5b7b1d0a3efeb46": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Utah AG primary release, Unchained, KUTV and Cointelegraph reports; verified the Nov. 23 dismissal motion, the 14 charges, the 177,000 Utah users figure and the civil suit fee estimate. The Block and The Defiant returned 403.",
+          "sourceChecks": [
+            {
+              "url": "https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/utah-asks-court-to-toss-kalshi-criminal-case-but-the-charges-could-come-back/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://kutv.com/news/local/utah-moves-to-drop-kalshi-gambling-case-after-company-blocks-state-users",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-26T02:41:26.133Z",
+          "articleSlug": "utahkalshidismiss"
         }
       },
       "baselineSlugs": [
