@@ -117,7 +117,7 @@ export function FreeCryptoApiDetailView({ listing }: { listing: FreeCryptoApiLis
               }
               actions={
                 <DetailPrimaryActionLink href={actionUrl} target="_blank" rel="noopener noreferrer nofollow">
-                  Official Docs &amp; Pricing
+                  Details
                   <ExternalLink className="h-4 w-4" aria-hidden="true" />
                 </DetailPrimaryActionLink>
               }
