@@ -1054,5 +1054,37 @@
     "slotKey": "2026-11-26:afternoon",
     "messageId": 156522,
     "sentAt": "2026-11-26T13:05:39.115Z"
+  },
+  "f4ff6e27-09f0-47b2-a302-7ce363320f74": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T20:35:27.771Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "UK bans crypto exchanges from market making on their platforms",
+        "summary": "New regulations prevent centralized exchanges from trading on their own venues to avoid conflicts of interest.",
+        "link": "https://hashtagweb3.com/ukexchangemarketmaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK bars crypto exchanges from market making on their own platforms"
+      },
+      {
+        "index": -1,
+        "headline": "French Hill Wins Reelection but Loses Financial Services Chair",
+        "summary": "The Arkansas Republican loses his committee leadership role as Democrats gain the House majority in January.",
+        "link": "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair"
+      },
+      {
+        "index": 1,
+        "headline": "Japan financial regulator considers tighter oversight of decentralized finance",
+        "summary": "Japan is exploring new regulatory measures to mitigate illicit finance risks associated with decentralized finance and self-custodial wallets.",
+        "event_rationale": "This covers a specific new regulatory policy development in Japan regarding decentralized finance oversight, which is distinct from all other listed regulatory or protocol events.",
+        "link": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Japan weighs tighter oversight of DeFi, self-custodial wallets"
+      }
+    ],
+    "slotKey": "2026-11-26:evening"
   }
 }
