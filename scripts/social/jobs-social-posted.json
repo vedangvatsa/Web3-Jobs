@@ -196023,6 +196023,34 @@
       "attemptId": "c00c5103-a697-479b-9c3e-33386941e640",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "eng875",
+      "company": "Stripe",
+      "title": "Analytics Engineer",
+      "platform": "threads",
+      "postedAt": "2026-11-26T20:26:12.183Z",
+      "expectedText": "Stripe is hiring Analytics Engineer: https://hashtagweb3.com/eng875/th?og=7",
+      "snapshot": {
+        "id": "8415333",
+        "title": "Analytics Engineer",
+        "company": "Stripe",
+        "link": "https://stripe.com/jobs/search?gh_jid=8415333",
+        "date": "2026-11-24T17:35:42-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Stripe [stripe]",
+        "location": "New York",
+        "department": "9003 Privy - S&O",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng875"
+      },
+      "payload": {
+        "text": "Stripe is hiring Analytics Engineer: https://hashtagweb3.com/eng875/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/eng875/th?og=7"
+      },
+      "attemptId": "1434c1aa-aa48-472a-abfd-b347ba5c0238",
+      "verification": "creating"
     }
   ]
 }
