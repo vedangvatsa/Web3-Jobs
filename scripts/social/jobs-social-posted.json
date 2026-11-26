@@ -194470,7 +194470,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "6e7b8c77-54b0-4c70-94b3-3f566dd5cabc",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x762c097553b93f89b36104bf91bfd097169754ea"
     }
   ]
 }
