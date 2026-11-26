@@ -1,0 +1,144 @@
+{
+  "timestamp": "2026-11-26T13:05:34.000Z",
+  "total": 17,
+  "delivered": 17,
+  "failed": 0,
+  "results": [
+    {
+      "name": "BeInCrypto",
+      "email": "editorinchief@beincrypto.com",
+      "title": "Crypto and Web3 Career Guide",
+      "url": "https://beincrypto.com/learn/",
+      "deliveryId": "01a217f5-d83e-79b0-8ff5-868071ae16aa",
+      "status": "delivered"
+    },
+    {
+      "name": "Consensys",
+      "email": "press@consensys.com",
+      "title": "Web3 Developer and Career Resources",
+      "url": "https://consensys.io/blog",
+      "deliveryId": "01a217f5-db51-784c-832f-1e95af936ce9",
+      "status": "delivered"
+    },
+    {
+      "name": "Blockworks",
+      "email": "editorial@blockworks.co",
+      "title": "Crypto Industry and Career Guides",
+      "url": "https://blockworks.co",
+      "deliveryId": "01a217f5-e00f-7816-8b42-a011a5aa3b70",
+      "status": "delivered"
+    },
+    {
+      "name": "Decrypt",
+      "email": "editor@decrypt.co",
+      "title": "Decrypt Web3 and Career Guides",
+      "url": "https://decrypt.co",
+      "deliveryId": "01a217f5-e2ed-7226-9f35-539f90780eee",
+      "status": "delivered"
+    },
+    {
+      "name": "CoinBureau",
+      "email": "media@coinbureau.com",
+      "title": "How to Get Started and Work in Crypto",
+      "url": "https://coinbureau.com/guides/",
+      "deliveryId": "01a217f5-e5ce-7246-b16d-056b34fc0e9e",
+      "status": "delivered"
+    },
+    {
+      "name": "Bankless",
+      "email": "contact@bankless.com",
+      "title": "Bankless Web3 Resources and Guides",
+      "url": "https://www.bankless.com",
+      "deliveryId": "01a217f5-e8f3-79ef-a163-8d64915f1bd6",
+      "status": "delivered"
+    },
+    {
+      "name": "NewsBTC",
+      "email": "editor@newsbtc.com",
+      "title": "Cryptocurrency and Blockchain Guides",
+      "url": "https://www.newsbtc.com",
+      "deliveryId": "01a217f5-ebdb-76c4-803f-d5720de3309a",
+      "status": "delivered"
+    },
+    {
+      "name": "Bitcoinist",
+      "email": "editor@bitcoinist.com",
+      "title": "Blockchain Industry and Career Resources",
+      "url": "https://bitcoinist.com",
+      "deliveryId": "01a217f5-ef4e-748e-891a-58def3822c76",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoPotato",
+      "email": "contact@cryptopotato.com",
+      "title": "Crypto and Blockchain Guides",
+      "url": "https://cryptopotato.com",
+      "deliveryId": "01a217f5-f23f-7784-8377-35df78b841aa",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoSlate",
+      "email": "editorial@cryptoslate.com",
+      "title": "Crypto Companies and Career Directory",
+      "url": "https://cryptoslate.com",
+      "deliveryId": "01a217f5-faaf-74b3-819e-36fad1ca004e",
+      "status": "delivered"
+    },
+    {
+      "name": "Foresight News",
+      "email": "gary@foresightnews.pro",
+      "title": "Foresight News Industry Resources",
+      "url": "https://foresightnews.pro",
+      "deliveryId": "01a217f6-0058-7cff-908e-c28aab9c91c9",
+      "status": "delivered"
+    },
+    {
+      "name": "Techflow Post",
+      "email": "support@techflowpost.com",
+      "title": "Techflow Web3 Ecosystem Directory",
+      "url": "https://www.techflowpost.com",
+      "deliveryId": "01a217f6-0450-7391-8981-c94c3ca91288",
+      "status": "delivered"
+    },
+    {
+      "name": "Odaily Planet Daily",
+      "email": "contact@odaily.news",
+      "title": "Odaily Blockchain Industry Guide",
+      "url": "https://www.odaily.news",
+      "deliveryId": "01a217f6-07e3-7873-a8f8-4dfa6101ab4b",
+      "status": "delivered"
+    },
+    {
+      "name": "Blocktempo",
+      "email": "editorial@blocktempo.com",
+      "title": "Blocktempo Web3 Industry and Career Resources",
+      "url": "https://www.blocktempo.com",
+      "deliveryId": "01a217f6-0cb3-7bc9-ae28-b06824668ad9",
+      "status": "delivered"
+    },
+    {
+      "name": "Outlier Ventures",
+      "email": "hello@outlierventures.io",
+      "title": "Outlier Ventures Ecosystem and Career Guides",
+      "url": "https://outlierventures.io",
+      "deliveryId": "01a217f6-1275-708d-a90e-22f2c9796597",
+      "status": "delivered"
+    },
+    {
+      "name": "Alchemy",
+      "email": "media@alchemy.com",
+      "title": "Alchemy Web3 Developer and Career Resources",
+      "url": "https://www.alchemy.com",
+      "deliveryId": "01a217f6-1588-7c22-ba3c-a6523e99249e",
+      "status": "delivered"
+    },
+    {
+      "name": "QuickNode",
+      "email": "press@quicknode.com",
+      "title": "QuickNode Blockchain Guides and Resources",
+      "url": "https://www.quicknode.com",
+      "deliveryId": "01a217f6-1874-76ad-9cc6-e7eebd866dea",
+      "status": "delivered"
+    }
+  ]
+}
