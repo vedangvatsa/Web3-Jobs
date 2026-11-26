@@ -990,7 +990,7 @@
     "sentAt": "2026-11-25T20:38:31.136Z"
   },
   "727567b8-a87f-40ec-9168-ea4f68d91086": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T04:50:12.572Z",
     "stories": [
       {
@@ -1018,6 +1018,8 @@
         "originalTitle": "Utah moves to drop 14 criminal charges against Kalshi after it blocks state users"
       }
     ],
-    "slotKey": "2026-11-26:morning"
+    "slotKey": "2026-11-26:morning",
+    "messageId": 156516,
+    "sentAt": "2026-11-26T04:50:17.705Z"
   }
 }

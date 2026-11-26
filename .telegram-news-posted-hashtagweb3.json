@@ -89,6 +89,9 @@
   "https://hashtagweb3.com/sbiglobal?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/telegramwallets?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cbnstablecoin?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/frenchsenate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/megaspeedlist?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/utahkalshidismiss?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -269,6 +272,12 @@
   "Telegram adds 700,000 crypto wallets in 48 hours, Durov says",
   "Nigeria mandates local licensing for foreign stablecoin issuers",
   "Nigeria Requires Offshore Stablecoin Issuers to License Locally",
+  "French Senate rejects mandatory crypto wallet disclosure rules",
+  "French Senate rejects 100,000 euro crypto wallet disclosure rule",
+  "US Adds Seven Megaspeed-Linked Firms to Trade Blacklist",
+  "US adds Megaspeed and six affiliates to Commerce Entity List",
+  "Utah drops criminal charges against Kalshi after platform blocks users",
+  "Utah moves to drop 14 criminal charges against Kalshi after it blocks state users",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -358,5 +367,8 @@
   "fp:and15|annual|defi|euro|exceeding500|face10|gain|greec|incom|incurs15",
   "fp:asset|begin|develop|entity|financial|focus|form|foundation|global|joint",
   "fp:000|adds700|announc|app|durov|generated700|gram|hour|in48|increas",
-  "fp:15b|buffer|capital|foreign|incorporat|issuer|licens|local|locally|maintain"
+  "fp:15b|buffer|capital|foreign|incorporat|issuer|licens|local|locally|maintain",
+  "fp:000|amendment|asset|custodi|disclosur|down|euro|french|includ|lawmaker",
+  "fp:add|advanc|affiliat|blacklist|commerc|comput|concern|department|due|entity",
+  "fp:access|against|attorney|block|charg|criminal|dismissal|drop|drop14|exchang"
 ]
