@@ -1721,31 +1721,44 @@ export function buildFeedDescription(job: Job, maxLen = 350): string {
  * block type (h3/h4/p/li): previously headings skipped this, leaking raw
  * `**bold**` markers into <h3> on dozens of pages (e.g. `**expanding**`).
  */
+const STRIPPED_LINK_MARKER = '⇧STRIPPED_LINK⇩';
+
 function stripJobLinkLabel(label: string): string {
   const trimmed = (label || '').trim();
-  if (!trimmed || /^https?:\/\//i.test(trimmed)) return '';
+  if (!trimmed || /^https?:\/\//i.test(trimmed)) return STRIPPED_LINK_MARKER;
   if (/^(?:learn more|read more|click here|apply here|here|more info|see more|view more|details)\.?$/i.test(trimmed)) {
-    return '';
+    return STRIPPED_LINK_MARKER;
   }
   return trimmed;
 }
 
-function renderInlineMd(escaped: string): string {
-  return linkifyPlainCtaUrlsInEscapedText(escaped)
-    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-    .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
-    .replace(/\*\*/g, '')
-    .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label) => stripJobLinkLabel(label))
-    .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, _url: string, label: string) => stripJobLinkLabel(label))
-    .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, '')
-    .replace(/⇧JOBBR⇩/g, '<br>')
-    .replace(/[⇧⇩]/g, '')
+function cleanStrippedLinks(text: string): string {
+  return text
+    // Remove entire sentences that are just CTAs pointing to a stripped link/URL
+    .replace(/(?:^|(?<=[.!?]\s+))[^.!?]*\b(?:click|visit|apply|see|read|learn|check|view|find out|for more (?:info|information|details))\b[^.!?]*⇧STRIPPED_LINK⇩[^.!?]*[.!?]?/gi, '')
+    // Remove dangling prepositions/connectors immediately before a stripped link
+    .replace(/(?:,\s*|\s+)(?:at|on|via|through|from|to|in|by)\s*⇧STRIPPED_LINK⇩/gi, '')
+    .replace(/⇧STRIPPED_LINK⇩/g, '')
     .replace(/\(\s*\)/g, '')
+    .replace(/,\s*([.!?])/g, '$1')
     .replace(/\s+([,.:;!?])/g, '$1')
     .replace(/\(\s+/g, '(')
     .replace(/\s+\)/g, ')')
     .replace(/\s+/g, ' ')
     .trim();
+}
+
+function renderInlineMd(escaped: string): string {
+  const replaced = linkifyPlainCtaUrlsInEscapedText(escaped)
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
+    .replace(/\*\*/g, '')
+    .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label) => stripJobLinkLabel(label))
+    .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, _url: string, label: string) => stripJobLinkLabel(label))
+    .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, STRIPPED_LINK_MARKER)
+    .replace(/⇧JOBBR⇩/g, '<br>')
+    .replace(/[⇧⇩]/g, (m) => (m === '⇧' || m === '⇩' ? m : ''));
+  return cleanStrippedLinks(replaced).replace(/[⇧⇩]/g, '');
 }
 
 /**
@@ -1860,13 +1873,9 @@ function formatJobContent(originalHtml: string): string {
       .replace(/\*\*/g, '')
       .replace(/\[([^\]\n]+)\]\((https?:\/\/[^\s)]+)\)/g, (_m, label) => stripJobLinkLabel(label))
       .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, _url, label) => stripJobLinkLabel(label))
-      .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, '')
-      .replace(/⇧JOBBR⇩/g, '<br>')
-      .replace(/[⇧⇩]/g, '')
-      .replace(/\(\s*\)/g, '')
-      .replace(/\s+([,.:;!?])/g, '$1')
-      .replace(/\s+/g, ' ')
-      .trim();
+      .replace(/[^\s<>]*⁄(https?:\/\/[^\s<>]+)⇩/g, STRIPPED_LINK_MARKER)
+      .replace(/⇧JOBBR⇩/g, '<br>');
+    text = cleanStrippedLinks(text).replace(/[⇧⇩]/g, '');
 
     // Check if block is a markdown heading that slipped into a paragraph
     if (block.type === 'p' && /^#{2,4}\s+/.test(text)) {
