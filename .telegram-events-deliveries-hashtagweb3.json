@@ -1372,5 +1372,56 @@
     "slotKey": "2026-11-25:evening",
     "messageId": 156504,
     "sentAt": "2026-11-25T20:36:15.912Z"
+  },
+  "364456d9-3829-4398-8e76-d1239504f99b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T04:49:21.515Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-UTPHjGo6CEUAFhg",
+        "slug": "antifragile",
+        "name": "Anti-fragile Bitcoin / AI時代のセキュリティ危機とビットコインの反脆弱性",
+        "startDate": "2026-11-29T04:00:00.000Z",
+        "keys": [
+          "luma-crypto-utphjgo6ceuafhg",
+          "anti-fragi",
+          "page:antifragile:2026-11-29",
+          "luma:evt-utphjgo6ceuafhg",
+          "luma-url:/i1ghcdwz",
+          "event:antifragilebitcoinai時代のセキュリティ危機とビットコインの反脆弱性:2026-11-29:shinjuku"
+        ]
+      },
+      {
+        "id": "luma-crypto-uH6u5jf6PJjmDlS",
+        "slug": "catfooding2",
+        "name": "Day 2 \\\\ Catfooding x Team1 Picnic in the Park \\\\ Binance Blockchain Week",
+        "startDate": "2026-11-29T05:00:00.000Z",
+        "keys": [
+          "luma-crypto-uh6u5jf6pjjmdls",
+          "day-2-catf",
+          "page:catfooding2:2026-11-29",
+          "luma:evt-uh6u5jf6pjjmdls",
+          "luma-url:/rmtce2gu",
+          "event:day2catfoodingxteam1picnicintheparkbinanceblockchainweek:2026-11-29:bangkok"
+        ]
+      },
+      {
+        "id": "luma-crypto-jkeJHkim9eeT4yG",
+        "slug": "cbcpc",
+        "name": "Crypto Brunch Dubai - Conclave Premium Club",
+        "startDate": "2026-11-29T09:00:00.000Z",
+        "keys": [
+          "luma-crypto-jkejhkim9eet4yg",
+          "crypto-brunch-dubai",
+          "page:cbcpc:2026-11-29",
+          "luma:evt-jkejhkim9eet4yg",
+          "luma-url:/ridrv9vf",
+          "event:cryptobrunchdubaiconclavepremiumclub:2026-11-29:"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-26:morning"
   }
 }
