@@ -3718,7 +3718,7 @@
     "sentAt": "2026-11-26T04:49:42.693Z"
   },
   "36b45ce6-18fe-4394-9f8f-3c7b45e07ea9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-26T13:04:11.387Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -3830,6 +3830,8 @@
       }
     ],
     "message": "- StraitsX is hiring <a href=\"https://hashtagweb3.com/eng816?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Site Reliability Engineer</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/dev34?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Back Office Developer</a>\n- Flowdesk is hiring <a href=\"https://hashtagweb3.com/an127?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">DeFi Trading Analyst</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/sec151?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security</a>\n- Ramp is hiring <a href=\"https://hashtagweb3.com/aso114?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Associate, GTM Finance</a>",
-    "slotKey": "2026-11-26:afternoon"
+    "slotKey": "2026-11-26:afternoon",
+    "messageId": 156521,
+    "sentAt": "2026-11-26T13:04:14.175Z"
   }
 }
