@@ -1478,5 +1478,56 @@
     "slotKey": "2026-11-26:afternoon",
     "messageId": 156520,
     "sentAt": "2026-11-26T13:03:51.913Z"
+  },
+  "283e21e2-82bd-4ca6-91d2-09c885e36fef": {
+    "status": "reserved",
+    "reservedAt": "2026-11-26T20:24:19.371Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-2dnCQwwxqTcJQnQ",
+        "slug": "aztechcomm",
+        "name": "Tech Community Meetup - Arizona Crypto & Blockchain Builders - Phoenix - November 30",
+        "startDate": "2026-12-01T01:00:00.000Z",
+        "keys": [
+          "luma-crypto-2dncqwwxqtcjqnq",
+          "tech-commu",
+          "page:aztechcomm:2026-11-30",
+          "luma:evt-2dncqwwxqtcjqnq",
+          "luma-url:/jocb16z4",
+          "event:techcommunitymeetuparizonacryptoblockchainbuildersphoenixnovember30:2026-11-30:tempe"
+        ]
+      },
+      {
+        "id": "luma-crypto-4ENBNInWFgB3EuQ",
+        "slug": "blockcha3",
+        "name": "Blockchain Life 2026 Day 1",
+        "startDate": "2026-12-01T04:00:00.000Z",
+        "keys": [
+          "luma-crypto-4enbninwfgb3euq",
+          "blockchain-life-day-1",
+          "page:blockcha3:2026-12-01",
+          "luma:evt-4enbninwfgb3euq",
+          "luma-url:/x8uxj7j0",
+          "event:blockchainlife2026day1:2026-12-01:"
+        ]
+      },
+      {
+        "id": "luma-crypto-jgc3gFq0DbBTCxl",
+        "slug": "bornup2",
+        "name": "BORN UP - Blockchain Life Dubai Community Networking Meetup",
+        "startDate": "2026-12-01T07:30:00.000Z",
+        "keys": [
+          "luma-crypto-jgc3gfq0dbbtcxl",
+          "born-up-blockchain-life",
+          "page:bornup2:2026-12-01",
+          "luma:evt-jgc3gfq0dbbtcxl",
+          "luma-url:/w4871eeb",
+          "event:bornupblockchainlifedubaicommunitynetworkingmeetup:2026-12-01:"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-26:evening"
   }
 }
