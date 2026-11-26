@@ -193826,7 +193826,8 @@
       },
       "account": "channel:build",
       "attemptId": "fcb353c3-1586-4061-9715-20c1e7c2136f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2e09d1d7e8c6b0e2266b5a8ddb89293591da78c6"
     }
   ]
 }
