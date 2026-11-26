@@ -198055,7 +198055,8 @@
       },
       "account": "channel:build",
       "attemptId": "82986295-33b7-4e3f-b5d8-6f9c7749ef7b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2dfbe91367906c1d27557676d1475c3e5eb37a83"
     }
   ]
 }
