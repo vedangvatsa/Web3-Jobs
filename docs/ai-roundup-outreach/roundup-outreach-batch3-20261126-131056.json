@@ -1,0 +1,112 @@
+{
+  "timestamp": "2026-11-26T13:10:56.000Z",
+  "total": 13,
+  "delivered": 13,
+  "failed": 0,
+  "results": [
+    {
+      "name": "Bitget Academy",
+      "email": "customersupport@bitget.com",
+      "title": "Top Crypto Job Boards to Launch Your Career in Web3",
+      "url": "https://www.bitget.com/academy/top-crypto-job-boards",
+      "deliveryId": "01a217fa-d6e1-7ba7-b3c4-76da932bce41",
+      "status": "delivered"
+    },
+    {
+      "name": "Moralis Blog",
+      "email": "hello@moralis.io",
+      "title": "How to Find Web3 Jobs: Top Web3 Job Sites",
+      "url": "https://moralis.io/blog/how-to-find-web3-jobs/",
+      "deliveryId": "01a217fa-dc6d-7e68-bb2d-469362472b9b",
+      "status": "delivered"
+    },
+    {
+      "name": "CryptoNewsZ",
+      "email": "press-release@cryptonewsz.com",
+      "title": "Best Crypto Job Boards & Websites",
+      "url": "https://www.cryptonewsz.com/best-crypto-job-boards/",
+      "deliveryId": "01a217fa-df84-7edd-b7bd-edca44e248e1",
+      "status": "delivered"
+    },
+    {
+      "name": "Coindoo",
+      "email": "contact@coindoo.com",
+      "title": "Top Crypto Job Boards and Careers",
+      "url": "https://coindoo.com/guides/",
+      "deliveryId": "01a217fa-e335-7285-8984-05506830d442",
+      "status": "delivered"
+    },
+    {
+      "name": "DailyCoin",
+      "email": "editorial@dailycoin.com",
+      "title": "How to Get Hired in Web3: Best Job Sites",
+      "url": "https://dailycoin.com",
+      "deliveryId": "01a217fa-e642-7cd8-88f4-d0a448213c35",
+      "status": "delivered"
+    },
+    {
+      "name": "Blockonomi",
+      "email": "hello@blockonomi.com",
+      "title": "Guide to Finding Jobs in Crypto & Best Job Boards",
+      "url": "https://blockonomi.com",
+      "deliveryId": "01a217fa-e953-7abc-84cd-85ba282746fa",
+      "status": "delivered"
+    },
+    {
+      "name": "Coinpedia",
+      "email": "info.coinpedia@gmail.com",
+      "title": "Best Web3 and Crypto Career Portals",
+      "url": "https://coinpedia.org",
+      "deliveryId": "01a217fa-ec66-740b-88d4-453bd67dc6e3",
+      "status": "delivered"
+    },
+    {
+      "name": "ZyCrypto",
+      "email": "contact@zycrypto.com",
+      "title": "Working in Blockchain: Where to Find Web3 Roles",
+      "url": "https://zycrypto.com",
+      "deliveryId": "01a217fa-ef70-7311-8418-01dbab348e50",
+      "status": "delivered"
+    },
+    {
+      "name": "NullTX",
+      "email": "contact@nulltx.com",
+      "title": "Web3 and Blockchain Career Guide & Job Boards",
+      "url": "https://nulltx.com",
+      "deliveryId": "01a217fa-f488-7123-ba3c-d553543096dc",
+      "status": "delivered"
+    },
+    {
+      "name": "InsideBitcoins",
+      "email": "hello@insidebitcoins.com",
+      "title": "Best Places to Find Crypto Jobs",
+      "url": "https://insidebitcoins.com",
+      "deliveryId": "01a217fa-f99f-77f4-9750-0799b480eeb2",
+      "status": "delivered"
+    },
+    {
+      "name": "CaptainAltcoin",
+      "email": "info@captainaltcoin.com",
+      "title": "How to Land a Job in Web3: Best Job Boards",
+      "url": "https://captainaltcoin.com",
+      "deliveryId": "01a217fa-fc95-7505-83ab-5b685f90d641",
+      "status": "delivered"
+    },
+    {
+      "name": "Bitira",
+      "email": "info@bitira.com",
+      "title": "Blockchain and Crypto Careers: Top Job Boards",
+      "url": "https://www.bitira.com/blog/",
+      "deliveryId": "01a217fa-ffd7-7470-9214-b39c1a0d0e6c",
+      "status": "delivered"
+    },
+    {
+      "name": "Dune Blog",
+      "email": "support@dune.com",
+      "title": "Web3 Data and Developer Careers",
+      "url": "https://dune.com/blog",
+      "deliveryId": "01a217fb-02b3-7e48-ad13-4ba4e7825c01",
+      "status": "delivered"
+    }
+  ]
+}
