@@ -197275,6 +197275,40 @@
       "attemptId": "cca83383-7455-4130-9186-ca19ae737c36",
       "verification": "verified",
       "postId": "0x1e6b17a966cbc65415b2ec83b655ca65b52621c1"
+    },
+    {
+      "slug": "sec194",
+      "company": "dtcpay",
+      "title": "Security Operations Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-26T23:26:33.082Z",
+      "expectedText": "dtcpay is hiring Security Operations Engineer\n\nhttps://hashtagweb3.com/sec194/fc?og=7",
+      "snapshot": {
+        "id": "4009842201",
+        "title": "Security Operations Engineer",
+        "company": "dtcpay",
+        "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009842201",
+        "date": "2026-11-20T05:58:48-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: dtcpay [dtcpay]",
+        "location": "Singapore",
+        "department": "SOC",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sec194"
+      },
+      "payload": {
+        "text": "dtcpay is hiring Security Operations Engineer\n\nhttps://hashtagweb3.com/sec194/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sec194/fc?og=7"
+          }
+        ],
+        "channel_id": "ethereum"
+      },
+      "account": "channel:ethereum",
+      "attemptId": "7c8846df-ed0e-4a1e-9328-f7ee3cf2d994",
+      "verification": "creating"
     }
   ]
 }
