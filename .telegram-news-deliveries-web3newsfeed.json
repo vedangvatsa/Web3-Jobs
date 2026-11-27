@@ -1089,7 +1089,7 @@
     "sentAt": "2026-11-26T20:30:56.384Z"
   },
   "37e58847-1765-43ac-bf0f-c8c920bff063": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T04:55:32.917Z",
     "stories": [
       {
@@ -1117,6 +1117,8 @@
         "originalTitle": "UK Court Enters Default Judgment Against Two in X Bitcoin Account Case"
       }
     ],
-    "slotKey": "2026-11-27:morning"
+    "slotKey": "2026-11-27:morning",
+    "messageId": 65859,
+    "sentAt": "2026-11-27T04:55:40.512Z"
   }
 }

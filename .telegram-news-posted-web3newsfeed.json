@@ -98,6 +98,9 @@
   "https://hashtagweb3.com/stanchartjapanrwa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/bankchecks?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/hashratehijack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/swisscarf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xbotsued?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -296,6 +299,12 @@
   "Fed and OCC Contact Banks About Unusual Activity After the Binance Hack",
   "French Hill Wins Reelection but Loses Financial Services Chair",
   "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair",
+  "Braiins reports mass traffic rerouting affecting bitcoin mining sites",
+  "Braiins Says Bitcoin Mining Hijacks Hit More Than 1,000 Sites at Once",
+  "Switzerland to Exchange Crypto Tax Data With 57 Partners",
+  "Swiss Federal Council approves 57 partners for crypto tax data exchange from 2028",
+  "UK Court Rules Against Two Individuals in X Fraud Case",
+  "UK Court Enters Default Judgment Against Two in X Bitcoin Account Case",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -394,5 +403,8 @@
   "fp:action|biopharma|biotech|desci|enforcement|grant|letter|molecul|not|project",
   "fp:analyst|asset|bond|charter|debt|digitiz|driv|estimat|japan|japanes",
   "fp:634b|activity|ask|bank|binanc|contact|disruption|exchang|follow|hack",
-  "fp:arkansa|but|chair|committe|control|democrat|down|financial|french|head"
+  "fp:arkansa|but|chair|committe|control|democrat|down|financial|french|head",
+  "fp:000|600|affect|attacker|braiin|connection|episod|four|hijack|hit",
+  "fp:approves57|begin|council|cryptocurrency|exchang|federal|from2028|government|in2028|information",
+  "fp:account|against|cas|claim|court|creator|default|defendant|enter|fail"
 ]
