@@ -200346,7 +200346,8 @@
       },
       "account": "profile",
       "attemptId": "d225af0f-de6d-4ee5-af0c-a5470484194a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x52996edacd1ea610297f4a7b251c62f3432ee91c"
     }
   ]
 }
