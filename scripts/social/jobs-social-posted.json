@@ -200030,7 +200030,8 @@
       },
       "account": "channel:design",
       "attemptId": "07b3cd10-3d5a-492d-8b4f-bcd262f0d2c6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb31cc7c0f7ff23d3cd7ce7e701e84f010215d850"
     }
   ]
 }
