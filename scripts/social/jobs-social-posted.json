@@ -207027,7 +207027,8 @@
       },
       "account": "channel:base",
       "attemptId": "5ff04689-b679-417e-83c8-9b1fbca80e93",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd42b0b57bafb44de2d08f98ef8000cc884105b8a"
     }
   ]
 }
