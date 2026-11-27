@@ -207396,7 +207396,8 @@
       "account": "urn:li:person:tf1Ssn_dQv",
       "provider": "linkedin-direct",
       "attemptId": "4057782c-1272-4b17-ac04-afc1d2b84377",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
     }
   ]
 }
