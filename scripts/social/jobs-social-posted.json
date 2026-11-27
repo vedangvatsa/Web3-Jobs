@@ -199890,7 +199890,8 @@
       },
       "account": "channel:solana",
       "attemptId": "589f72c6-3898-4a28-a094-4e5dff7ef80a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd62ae4c3158d075faea94c0b5ae33875d181f819"
     }
   ]
 }
