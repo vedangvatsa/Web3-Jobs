@@ -202655,6 +202655,46 @@
       "attemptId": "e167c7c1-0764-42fb-b02e-9a33027db6f6",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "pm376",
+      "company": "BitGo",
+      "title": "Head of Design, Product Design",
+      "platform": "linkedin",
+      "postedAt": "2026-11-27T13:02:53.862Z",
+      "expectedText": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm376/li?og=7",
+      "snapshot": {
+        "id": "8934163002",
+        "title": "Head of Design, Product Design",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934163002",
+        "date": "2026-11-06T19:57:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "New York, NY",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm376"
+      },
+      "payload": {
+        "text": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm376/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm376/li?og=7",
+          "title": "Head of Design, Product Design at BitGo | Hashtag Web3",
+          "description": "Join BitGo as Head of Design, Product Design. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm376.png?v=7"
+        },
+        "target": {
+          "channelId": "6a134180c687a22dd420e089",
+          "name": "cvinbio",
+          "label": "CVin.Bio"
+        }
+      },
+      "account": "6a134180c687a22dd420e089",
+      "provider": "buffer",
+      "attemptId": "0f54ffc5-6ac0-4311-8dba-afd5711cf010",
+      "verification": "creating"
     }
   ]
 }
