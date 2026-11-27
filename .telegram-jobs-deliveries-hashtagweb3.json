@@ -3953,7 +3953,7 @@
     "sentAt": "2026-11-26T20:24:55.564Z"
   },
   "9bbb7680-90f6-4ef2-8484-ab8c972c6692": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T04:54:23.516Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4063,6 +4063,8 @@
       }
     ],
     "message": "- dtcpay is hiring <a href=\"https://hashtagweb3.com/sec194?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations Engineer</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/wr12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Copywriter</a>\n- bitbank is hiring <a href=\"https://hashtagweb3.com/job41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">売買審査担当</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng812?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integration Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/infra89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer, Machine Learning &amp; Data Infrastructure</a>",
-    "slotKey": "2026-11-27:morning"
+    "slotKey": "2026-11-27:morning",
+    "messageId": 156537,
+    "sentAt": "2026-11-27T04:54:25.833Z"
   }
 }

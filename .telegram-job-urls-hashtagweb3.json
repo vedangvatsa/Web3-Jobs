@@ -295,6 +295,14 @@
     "lastUrl": "https://hashtagweb3.com/mkt173",
     "updatedAt": "2026-11-25T11:58:19.115Z"
   },
+  "8405596": {
+    "slugs": [
+      "eng812"
+    ],
+    "lastSlug": "eng812",
+    "lastUrl": "https://hashtagweb3.com/eng812",
+    "updatedAt": "2026-11-27T04:54:25.833Z"
+  },
   "97930174": {
     "slugs": [
       "peo2"
@@ -302,6 +310,14 @@
     "lastSlug": "peo2",
     "lastUrl": "https://hashtagweb3.com/peo2",
     "updatedAt": "2026-11-16T19:32:56.218Z"
+  },
+  "4009842201": {
+    "slugs": [
+      "sec194"
+    ],
+    "lastSlug": "sec194",
+    "lastUrl": "https://hashtagweb3.com/sec194",
+    "updatedAt": "2026-11-27T04:54:25.833Z"
   },
   "4009922201": {
     "slugs": [
@@ -1318,5 +1334,29 @@
     "lastSlug": "arc54",
     "lastUrl": "https://hashtagweb3.com/arc54",
     "updatedAt": "2026-11-26T20:24:55.564Z"
+  },
+  "18e009e5-0c76-45e2-85ae-dc5726849c0d": {
+    "slugs": [
+      "wr12"
+    ],
+    "lastSlug": "wr12",
+    "lastUrl": "https://hashtagweb3.com/wr12",
+    "updatedAt": "2026-11-27T04:54:25.833Z"
+  },
+  "0000326": {
+    "slugs": [
+      "job41"
+    ],
+    "lastSlug": "job41",
+    "lastUrl": "https://hashtagweb3.com/job41",
+    "updatedAt": "2026-11-27T04:54:25.833Z"
+  },
+  "8206913003": {
+    "slugs": [
+      "infra89"
+    ],
+    "lastSlug": "infra89",
+    "lastUrl": "https://hashtagweb3.com/infra89",
+    "updatedAt": "2026-11-27T04:54:25.833Z"
   }
 }
