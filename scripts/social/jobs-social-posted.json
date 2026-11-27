@@ -202897,7 +202897,8 @@
       },
       "account": "profile",
       "attemptId": "4f1d1f8f-7160-4d92-8489-655b02efbb00",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x37bae7e99ee43871a618178cdb119a364717dc78"
     }
   ]
 }
