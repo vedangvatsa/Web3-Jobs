@@ -1255,5 +1255,38 @@
     "slotKey": "2026-11-26:evening",
     "messageId": 193589,
     "sentAt": "2026-11-26T20:28:03.590Z"
+  },
+  "b56a3b4a-95b6-4b07-96db-7d34e3e34dde": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T04:56:07.246Z",
+    "stories": [
+      {
+        "index": 6,
+        "original_title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+        "headline": "Chinese AI developers seek alternative training data sources",
+        "summary": "Companies are shifting data acquisition strategies toward open-weight models after being blocked from accessing major US-based proprietary model data.",
+        "event_rationale": "This reports on a significant industry shift in AI supply chain and training data access, distinct from hardware export control news.",
+        "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+        "source": "The Decoder",
+        "originalTitle": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead"
+      },
+      {
+        "index": 1,
+        "headline": "Nexos.ai launches gateway for 200 AI models with governance",
+        "summary": "Users can manage various artificial intelligence providers through one portal while enforcing spending caps and usage policies.",
+        "link": "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+        "source": "MarkTechPost",
+        "originalTitle": "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in"
+      },
+      {
+        "index": 2,
+        "headline": "Tencent Releases DFly2 to Improve Large Language Model Speed",
+        "summary": "This open-source tool increases text generation throughput by reusing existing memory structures in sparse-attention models.",
+        "link": "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+        "source": "MarkTechPost",
+        "originalTitle": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache"
+      }
+    ],
+    "slotKey": "2026-11-27:morning"
   }
 }
