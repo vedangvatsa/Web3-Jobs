@@ -1458,6 +1458,25 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-26T03:40:53.676Z"
       }
+    ],
+    "2026-11-27": [
+      {
+        "date": "2026-11-27",
+        "id": "45927514407-1",
+        "sourceCommit": "c12b85c1436961bfa4019d2e604ff9ebba303cb6",
+        "jobsCheckedAt": "2026-11-26T02:30:02.950Z",
+        "newsCompletedAt": "2026-11-27T03:29:47.138Z",
+        "articleSlugs": [
+          "xbotsued",
+          "swisscarf",
+          "hashratehijack",
+          "bbitlisting"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-27T03:30:51.026Z",
+        "buildId": "daily-20261127-45927514407-1",
+        "rolloutId": "daily-20261127-45927514407-1"
+      }
     ]
   }
 }
