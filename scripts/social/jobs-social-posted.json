@@ -206647,6 +206647,38 @@
       "attemptId": "c21cf124-5c49-4cd6-acab-f49fad13da93",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 27-Nov-26 15:07:42 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A9_u8ZBC8kNj49DPziOl6LF\"}"
+    },
+    {
+      "slug": "eng783",
+      "company": "StraitsX",
+      "title": "Site Reliability Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-11-27T23:07:31.956Z",
+      "expectedText": "StraitsX is hiring Site Reliability Engineer: https://hashtagweb3.com/eng783/bsky?og=7",
+      "snapshot": {
+        "id": "5026840101",
+        "title": "Site Reliability Engineer",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5026840101",
+        "date": "2026-11-13T01:25:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng783"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Site Reliability Engineer: https://hashtagweb3.com/eng783/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng783/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng783.png?v=7",
+        "company": "StraitsX",
+        "title": "Site Reliability Engineer",
+        "description": "Join StraitsX as Site Reliability Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "e7e29b4c-df8e-406a-bd59-b95d6f82c101",
+      "verification": "creating"
     }
   ]
 }
