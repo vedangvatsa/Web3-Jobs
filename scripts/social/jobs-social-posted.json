@@ -199960,7 +199960,8 @@
       },
       "account": "channel:ai",
       "attemptId": "07c47ad7-f27a-47c7-bb32-bac52b95fd37",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x647ca983f7620ab3d013c4171d2e94085c5c3027"
     }
   ]
 }
