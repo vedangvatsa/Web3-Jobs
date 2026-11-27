@@ -219724,30 +219724,35 @@
       ],
       "alsoCoveredBy": [],
       "id": "3967342b457be143ca6a",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T12:14:27.000Z",
       "lastSeenAt": "2026-11-27T02:19:28.239Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case\": https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Read the sealed High Court order PDF, Decrypt's report and crypto.news's independent report; drafted xbotsued with self-hosted Wikimedia photo of X's San Francisco headquarters; quality, formatting, duplicates and image audits clean for the file; all four links return HTTP 200.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-25T13:26:08.027Z"
+          "url": "https://transparency.x.com/assets/legal/2026-11-23-X-v-Sen-and-Sherpa-Judgment.pdf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+          "outcome": "read"
+        },
+        {
+          "url": "https://crypto.news/x-wins-bitcoin-creator-payout-fraud-lawsuit/",
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-25T13:26:32.262Z",
+      "reviewedAt": "2026-11-27T02:43:40.451Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: ‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
         "Find independent reporting confirming the event in: ‘Don’t mess with X,’ Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-25",
-      "nextReviewDate": "2026-11-26"
+      "lastReviewedDay": "2026-11-27",
+      "articleSlug": "xbotsued"
     },
     "fe53a86fd03076fda0a3": {
       "source": "CryptoSlate",
@@ -444873,6 +444878,27 @@
           ],
           "reviewedAt": "2026-11-27T02:39:18.160Z",
           "articleSlug": "hashratehijack"
+        },
+        "3967342b457be143ca6a": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the sealed High Court order PDF, Decrypt's report and crypto.news's independent report; drafted xbotsued with self-hosted Wikimedia photo of X's San Francisco headquarters; quality, formatting, duplicates and image audits clean for the file; all four links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://transparency.x.com/assets/legal/2026-11-23-X-v-Sen-and-Sherpa-Judgment.pdf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+              "outcome": "read"
+            },
+            {
+              "url": "https://crypto.news/x-wins-bitcoin-creator-payout-fraud-lawsuit/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-27T02:43:40.451Z",
+          "articleSlug": "xbotsued"
         }
       },
       "baselineSlugs": [
