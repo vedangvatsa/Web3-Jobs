@@ -200032,6 +200032,40 @@
       "attemptId": "07b3cd10-3d5a-492d-8b4f-bcd262f0d2c6",
       "verification": "verified",
       "postId": "0xb31cc7c0f7ff23d3cd7ce7e701e84f010215d850"
+    },
+    {
+      "slug": "mkt146",
+      "company": "Alpaca",
+      "title": "Marketing Manager - Market Data",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T02:24:36.335Z",
+      "expectedText": "Alpaca is hiring Marketing Manager\n\nhttps://hashtagweb3.com/mkt146/fc?og=7",
+      "snapshot": {
+        "id": "6254813004",
+        "title": "Marketing Manager - Market Data",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6254813004",
+        "date": "2026-11-11T16:42:22-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Europe",
+        "department": "Market Data",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mkt146"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Marketing Manager\n\nhttps://hashtagweb3.com/mkt146/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/mkt146/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "fdbcc19c-87a6-44ff-a8c3-2a48fa401b0d",
+      "verification": "creating"
     }
   ]
 }
