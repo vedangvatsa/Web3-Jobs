@@ -199505,7 +199505,8 @@
       },
       "account": "profile",
       "attemptId": "15faabaf-10b1-41f7-9281-f1cfbb70a00c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x25f6615314e3690f8f8aada7bead9bffecccd8f0"
     }
   ]
 }
