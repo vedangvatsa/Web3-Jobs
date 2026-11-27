@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-27T17:19:17.624Z",
+  "generatedAt": "2026-11-27T20:11:09.500Z",
   "items": [
+    {
+      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+      "link": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+      "pubDate": "Fri, 27 Nov 2026 19:46:02 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors antic...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+      "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 19:23:00 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
+      "source": "Cointelegraph"
+    },
+    {
+      "title": "$7 Billion in Bitcoin Options Just Expired: Here’s What It Means",
+      "link": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+      "pubDate": "Fri, 27 Nov 2026 18:16:03 +0000",
+      "creator": "Jose Antonio Lanz",
+      "contentSnippet": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potentia...",
+      "source": "Decrypt"
+    },
+    {
+      "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+      "link": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+      "pubDate": "Fri, 27 Nov 2026 18:13:45 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
+      "source": "The Block"
+    },
+    {
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "link": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 17:37:23 +0000",
+      "creator": "Isabelle Castro",
+      "contentSnippet": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
+      "source": "Cointelegraph"
+    },
     {
       "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
       "link": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -426,14 +466,6 @@
       "source": "Coindesk"
     },
     {
-      "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-      "link": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 26 Nov 2026 09:42:34 +0000",
-      "creator": "Ezra Reguerra",
-      "contentSnippet": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billio...",
-      "source": "Cointelegraph"
-    },
-    {
       "title": "Switzerland approves 57 jurisdictions for crypto data exchange from 2028",
       "link": "https://www.theblock.co/news/regulation/2026-11-26-switzerland-approves-57-jurisdictions-for-crypto-data-exchange-from-2028-446821",
       "pubDate": "Thu, 26 Nov 2026 09:40:41 +0000",
@@ -448,14 +480,6 @@
       "creator": "Timmy Shen",
       "contentSnippet": "Spot bitcoin ETFs have already hit record monthly net outflows of $5.39 billion in November, with several trading days remaining.",
       "source": "The Block"
-    },
-    {
-      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-      "link": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-      "pubDate": "Thu, 26 Nov 2026 08:01:33 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Bitcoin options positioning has flipped bearish ahead of Friday’s $7 billion expiry, with traders piling into downside protection as volatility rises.",
-      "source": "Coindesk"
     },
     {
       "title": "Europe’s only spot bitcoin ETF starts trading in Switzerland, BIT says",
@@ -530,14 +554,6 @@
       "source": "Decrypt"
     },
     {
-      "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic ‘largest ever crackdown’",
-      "link": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
-      "pubDate": "Wed, 25 Nov 2026 18:05:18 +0000",
-      "creator": "Sarah Wynn",
-      "contentSnippet": "Following President Trump’s directive to crack down on fraud, the Justice Department announced what it called its “largest-ever crackdown.\"",
-      "source": "The Block"
-    },
-    {
       "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
       "link": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
       "pubDate": "Wed, 25 Nov 2026 16:52:50 +0000",
@@ -576,22 +592,6 @@
       "creator": "Agent",
       "contentSnippet": "The Ethereum Foundation is elevating cryptography upgrades to its top priority after determining that AI poses a more urgent risk to the network than ...",
       "source": "Daily Hodl"
-    },
-    {
-      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-      "link": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
-      "pubDate": "Wed, 25 Nov 2026 11:52:06 +0000",
-      "creator": "Agent",
-      "contentSnippet": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal.",
-      "source": "Decrypt"
-    },
-    {
-      "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-      "link": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
-      "pubDate": "Wed, 25 Nov 2026 11:23:57 +0000",
-      "creator": "Agent",
-      "contentSnippet": "HYPE fell more than 8% after Abraxas Capital pulled out of Hyperliquid, while U.S. Bitcoin ETFs' November outflows passed $4.9 billion.",
-      "source": "Decrypt"
     },
     {
       "title": "Bybit Introduces TradFi Earn, Unifying Access to Global ETFs and RWA",
