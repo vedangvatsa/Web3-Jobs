@@ -205540,7 +205540,8 @@
       },
       "account": "channel:web3",
       "attemptId": "df247ea5-1d28-4af2-bfc1-b9d3cc21cd4b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x935428fa19aa5580251e6e0aa950d844ac8f456f"
     }
   ]
 }
