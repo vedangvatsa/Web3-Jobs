@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_cente
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-29'
-lastUpdated: '2026-10-29'
+lastUpdated: '2026-11-27'
 ---
 
 A security researcher known as KillaBoi won about $2,021 in bitcoin from the Steal My Bitcoin challenge on Oct. 25, showing that the critical PHP vulnerabilities patched four days earlier can be turned into remote command execution on a server running an unpatched build. The challenge site [records the win](https://stealmybitcoin.com/) at 15:47 UTC with a prize pot of 0.02511679 BTC and a total elapsed time of 19.28 hours. The page now reads that the bitcoin was stolen and that more challenges may appear in the future.

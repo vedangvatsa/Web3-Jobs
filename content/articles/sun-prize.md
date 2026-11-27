@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pure-mathematics-formul%
 category: News
 data-ai-hint: blackboard with mathematics formulas
 publishedDate: '2026-09-17'
-lastUpdated: '2026-09-17'
+lastUpdated: '2026-11-27'
 ---
 
 TRON founder Justin Sun announced a new mathematics prize on Sept. 16, 2026 offering up to $1 million for solutions to hard open problems, provided the proofs can be checked by machine. [The Cryptonomist](https://en.cryptonomist.ch/2026/09/16/justin-sun-mathematics-prize/) reported that Sun made the announcement on X. The prize site stamps its launch message [ANNOUNCEMENT SEP 16, 2026](https://www.hejustinsun.com/prize).

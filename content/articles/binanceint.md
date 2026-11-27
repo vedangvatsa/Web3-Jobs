@@ -9,7 +9,7 @@ image: /images/news/fakeinterview.jpg
 category: News
 data-ai-hint: job interview
 publishedDate: '2026-11-05'
-lastUpdated: '2026-11-05'
+lastUpdated: '2026-11-27'
 imageCaption: "A job interview in progress. Photo: Alan Cleaver via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Job_interview.jpg
 ---

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(3
 category: News
 data-ai-hint: conference stage speakers
 publishedDate: '2026-11-23'
-lastUpdated: '2026-11-23'
+lastUpdated: '2026-11-27'
 ---
 
 Coinbase is aiming to start offering its own prediction market contracts to U.S. customers in the first half of 2027, Bloomberg reported on Nov. 20, citing a person familiar with the plans. [Decrypt reported](https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report) that the contracts would be offered to both retail and institutional customers, and [Unchained described](https://unchainedcrypto.com/coinbase-sets-mid-2027-goal-to-write-its-own-event-contracts-bloomberg-reports/) the same target date, also citing Bloomberg.

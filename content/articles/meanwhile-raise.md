@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The%20Bermuda%20Sloop%20
 category: News
 data-ai-hint: bermuda harbour sailing boat
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Bitcoin life insurer Meanwhile raised $37.5 million in new funding from its existing investors, with Bain Capital Crypto leading the round, the company announced Oct. 8 from Hamilton, Bermuda. Total backing has now passed $180 million.

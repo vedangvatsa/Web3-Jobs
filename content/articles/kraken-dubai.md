@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dubai_Marina_Skyline.jpg
 category: News
 data-ai-hint: dubai marina skyline towers
 publishedDate: '2026-10-13'
-lastUpdated: '2026-10-13'
+lastUpdated: '2026-11-27'
 ---
 
 Payward, the parent company of crypto exchange Kraken, has received Full Market Approval from Dubai's Virtual Assets Regulatory Authority, the final stage of the emirate's licensing process. Kraken plans to start serving clients in the United Arab Emirates in the coming weeks, Fintech News UAE [reported](https://fintechnews.ae/34163/crypto/kraken-uae-launch-vara-approval-dubai/) on Oct. 12.

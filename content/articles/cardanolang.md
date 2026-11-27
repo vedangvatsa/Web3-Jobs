@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor
 category: News
 data-ai-hint: source code on monitor
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Charles Hoskinson is writing a new programming language for Cardano, and he is doing it himself. The Cardano founder said in an Oct. 18 reply on X that he is "personally developing a programming language for Cardano," calling it "the first of its kind, enabling intents and PCD via Groth16 proofs." He named one collaborator: the developer behind the handle @rvcas.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: stock exchange facade
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 Payward, the parent company of crypto exchange Kraken, tokenized more than 200 stocks listed in the United Kingdom and European Union through its xStocks platform, the company said on Nov. 11.

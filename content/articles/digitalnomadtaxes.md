@@ -6,6 +6,7 @@ image: /images/articles/digital-nomad-visas-tax-vs-income.png
 category: Career Guides
 data-ai-hint: digital nomad tax residency 183 day rule double taxation guide
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Taxation is the most misunderstood and legally risky aspect of the digital nomad lifestyle. Many remote workers assume that because they travel on tourist stamps or hold remote foreign contracts, they are automatically exempt from paying taxes anywhere.

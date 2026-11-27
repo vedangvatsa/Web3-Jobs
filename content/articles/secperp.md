@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20U.S.
 category: News
 data-ai-hint: SEC headquarters facade
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 The SEC has entered the court fight over who regulates perpetual futures on individual U.S. stocks, filing an amicus brief that supports the Commodity Futures Trading Commission in a lawsuit brought by an industry group whose members include Cboe and Citadel Securities.

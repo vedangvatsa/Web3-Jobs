@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vilnius%20Old%20Town%20S
 category: News
 data-ai-hint: Vilnius old town skyline
 publishedDate: '2026-10-15'
-lastUpdated: '2026-10-15'
+lastUpdated: '2026-11-27'
 ---
 
 Payward, the parent company of crypto exchange Kraken, [said on Oct. 14](https://www.payward.com/press-release/payward-acquires-saldo-bank) it signed a definitive agreement to acquire Saldo Bank, a digital-first bank licensed in Lithuania. The deal gives Payward a route to offer bank deposits, loans and payment services across the European Union once regulators approve the purchase.

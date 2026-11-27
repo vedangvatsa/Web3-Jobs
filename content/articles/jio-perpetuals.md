@@ -9,7 +9,7 @@ imageFit: contain
 category: News
 data-ai-hint: official bitget jio pre-market perpetual futures announcement
 publishedDate: '2026-10-15'
-lastUpdated: '2026-10-15'
+lastUpdated: '2026-11-27'
 ---
 
 Bitget has opened a derivatives market tied to Jio Platforms ahead of the Indian company's initial public offering. CEO Gracy Chen [said on October 15](https://x.com/GracyBitget/status/2110561653758816627) that JIOUSDT pre-IPO perpetuals were live, following an October 14 announcement from the exchange's TradFi account. Jio's public share offering is scheduled for October 21-23, according to a [Reliance Industries filing](https://www.bseindia.com/xml-data/corpfiling/AttachLive/9f9c9b25-75e8-45ba-83a4-e230e7657f54.pdf).

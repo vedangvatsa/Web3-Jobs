@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Argo%20Blockchain%20Mira
 category: News
 data-ai-hint: bitcoin mining facility
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Strategy added 485 bitcoin for $33.4 million in the week to Nov. 15, lifting its holdings to 850,849 BTC, according to the company's [SEC filing](https://www.sec.gov/Archives/edgar/data/1050446/000119312526462151/mstr-20261116.htm) on Monday. The purchase averaged $68,887 a coin, and the company has paid $64.20 billion for its stack, an average of $75,452, the filing shows.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hand%20holding%20smartph
 category: News
 data-ai-hint: ChatGPT app on a phone
 publishedDate: '2026-11-16'
-lastUpdated: '2026-11-16'
+lastUpdated: '2026-11-27'
 ---
 
 OpenAI introduced ChatGPT Wallet on Friday, a payment feature that lets its AI agents buy products inside ChatGPT using American Express, Mastercard and Visa cards, [Cointelegraph reported](https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex) on Nov. 13. The launch targets ChatGPT Pro subscribers in the United States with eligible U.S.-issued cards, and every purchase currently needs the user's approval.

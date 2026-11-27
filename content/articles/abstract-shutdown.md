@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Suite_Hallway.jpg
 category: News
 data-ai-hint: data center server corridor
 publishedDate: '2026-10-07'
-lastUpdated: '2026-10-07'
+lastUpdated: '2026-11-27'
 ---
 
 Abstract, the Ethereum layer-2 network built by Pudgy Penguins parent company Igloo Inc., will shut down on Dec. 15. The team [announced](https://x.com/AbstractChain/status/2107554632675340420) the date on X on Oct. 6, telling users to move assets off the network before then or lose access to them.

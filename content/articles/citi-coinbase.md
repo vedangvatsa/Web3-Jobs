@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Citigroup_Center_August_
 category: News
 data-ai-hint: Citigroup Center office tower
 publishedDate: '2026-09-29'
-lastUpdated: '2026-09-29'
+lastUpdated: '2026-11-27'
 ---
 
 Citigroup and Coinbase said on September 28 that businesses processing payments through Citi will be able to accept stablecoins at checkout and still settle in fiat. The two companies [announced](https://www.citigroup.com/global/news/press-release/2026/citi-coinbase-expand-collaboration-connect-digital-fiat-payments-corporations-consumers) the expanded collaboration on Monday, pairing Citi's regulated banking rails with Coinbase payments infrastructure.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:White_House_lawn.jpg
 category: News
 data-ai-hint: White House building
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 President Donald Trump planned to use a White House event on Oct. 21 to highlight his administration's efforts against foreign criminal networks that lure Americans into fake crypto investments, according to a White House official who spoke with Reuters, as [Bitcoin Magazine](https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown) and [CoinDesk](https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event) reported.

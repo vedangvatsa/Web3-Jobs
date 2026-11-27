@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:2022-09-04_01_ACADIAN_-_
 category: News
 data-ai-hint: oil tanker at sea
 publishedDate: '2026-09-18'
-lastUpdated: '2026-09-18'
+lastUpdated: '2026-11-27'
 ---
 
 The US Department of the Treasury on Sept. 17, 2026 [designated](https://home.treasury.gov/news/press-releases/sb0632/) Tehran crypto exchange BitBank as part of a sanctions action against Iranian digital asset infrastructure. The department named the exchange, its software developer and three men tied to financier Babak Zanjani. It said the network moved hundreds of millions of dollars in bitcoin to the Islamic Revolutionary Guard Corps.

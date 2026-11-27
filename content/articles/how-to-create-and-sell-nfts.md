@@ -10,7 +10,7 @@ description: >-
   sale, handle royalties, and avoid common gas and rights mistakes.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 ## What is creating and selling an NFT
 

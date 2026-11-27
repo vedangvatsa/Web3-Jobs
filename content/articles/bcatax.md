@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_at_Dusk_2.jpg
 category: News
 data-ai-hint: United States Capitol dome
 publishedDate: '2026-10-24'
-lastUpdated: '2026-10-24'
+lastUpdated: '2026-11-27'
 ---
 
 The Blockchain Association sent an Oct. 22 letter to Senate Majority Leader John Thune, Senate Minority Leader Chuck Schumer, House Speaker Mike Johnson and House Minority Leader Hakeem Jeffries, asking them to advance bipartisan digital asset tax legislation, the group said in its [press release](https://theblockchainassociation.org/posts/blockchain-association-urges-congressional-leaders-to-advance-bipartisan-digital-asset-tax-legislation-launches-taxclarityforamericacom).

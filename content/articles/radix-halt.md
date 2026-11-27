@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Duga-1%20radar%20data%20
 category: News
 data-ai-hint: server racks data center corridor
 publishedDate: '2026-09-18'
-lastUpdated: '2026-09-18'
+lastUpdated: '2026-11-27'
 ---
 
 The Radix Foundation on Sept. 17, 2026 published its account of an Aug. 31 attack that drained roughly $1.3 million from third-party vaults and left the Radix network unable to process transactions for 10 days. The [incident report](https://www.radixdlt.com/blog/public-incident-report-vault-authorisation-vulnerability-2026), reference RDX-INC-2026-0831, pins the cause on a defect introduced during a routine code tidy-up in June 2023 by RDX Works, the company then contracted to develop the protocol.

@@ -5,7 +5,7 @@ description: The Ethereum Foundation has doubled its dedicated security engineer
 image: /og-news.png
 category: News
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 The Ethereum Foundation has doubled the size of its internal security team as part of a multi-year effort to prepare the Ethereum protocol for post-quantum cryptography.

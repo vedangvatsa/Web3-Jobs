@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:CFTC%20lobby%20Washingto
 category: News
 data-ai-hint: cftc lobby washington trading commission
 publishedDate: '2026-11-24'
-lastUpdated: '2026-11-24'
+lastUpdated: '2026-11-27'
 ---
 
 Staff at the Commodity Futures Trading Commission said on Nov. 23 that swap execution facilities, designated contract markets and derivatives clearing organizations may count bitcoin, ether and payment stablecoins toward the financial resources they are required to hold. The [staff advisory](https://www.cftc.gov/PressRoom/PressReleases/9331-26) from the Division of Market Oversight and the Division of Clearing and Risk addresses the requirement that those venues keep resources covering at least one year of operating costs.

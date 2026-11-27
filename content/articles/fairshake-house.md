@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol%20Building%20Ful
 category: News
 data-ai-hint: us capitol washington dc
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 The crypto industry's leading political spending network will back 32 House incumbents in the November midterms, split between 19 Republicans and 13 Democrats. Fairshake and its affiliated super PACs [announced the slate Monday](https://www.cnbc.com/2026/10/05/fairshake-crypto-super-pac-house-races.html), less than a month before elections that decide control of the House and Senate.

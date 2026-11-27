@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Central%20Bank%20of%20Ni
 category: News
 data-ai-hint: central bank headquarters building
 publishedDate: '2026-11-09'
-lastUpdated: '2026-11-09'
+lastUpdated: '2026-11-27'
 ---
 
 Stablecoin issuers based outside Nigeria can no longer serve local users on the strength of a foreign license. The Central Bank of Nigeria brought a 169-page rulebook into force on Nov. 5 that requires any company issuing a dollar-pegged or naira-pegged token to Nigerians to be incorporated in Nigeria and licensed by the bank, according to the [regulations published on the bank's website](https://www.cbn.gov.ng/Out/2026/CCD/REGULATIONS%20FOR%20THE%20OPERATIONS%20OF%20NON-SECURITY%20VIRTUAL%20ASSETS%20IN%20NIGERIA.pdf). The text states plainly that "there is no offshore issuer exemption from incorporation, licensing or capital," and that a foreign license, registration or arrangement with a Nigerian intermediary "shall not substitute for that licence or for Token Approval."

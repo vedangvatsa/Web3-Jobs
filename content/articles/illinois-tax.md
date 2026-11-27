@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Skyline%20de%20Chicago%2
 category: News
 data-ai-hint: chicago skyline
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Illinois officials joined crypto industry groups in a joint motion filed Oct. 1 asking a Sangamon County court to push the start of the state's 0.2% Digital Asset Tax from Jan. 1 to July 1, 2027. Revenue Director David Harris and Attorney General Kwame Raoul signed onto the request alongside The Digital Chamber and the Illinois Blockchain Association, even as the state continues to dispute the legal challenge against the levy, according to [CryptoSlate's Oct. 5 report](https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/). The court had not confirmed entry of the order as of Oct. 4, so the delay remains a request rather than a settled outcome.

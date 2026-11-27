@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Fediverse_smartphone_app
 category: News
 data-ai-hint: smartphone application icons
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 More than 700,000 cryptocurrency wallets were created across Telegram within a 48-hour window following new ecosystem deployments, according to metrics disclosed by Telegram founder and chief executive Pavel Durov on [his official channel](https://t.me/durov). The rapid influx highlights expanding retail adoption of digital assets embedded directly into messaging environments.

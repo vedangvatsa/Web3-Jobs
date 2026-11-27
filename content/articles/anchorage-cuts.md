@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:San%20Francisco%20from%2
 category: News
 data-ai-hint: San Francisco skyline
 publishedDate: '2026-10-04'
-lastUpdated: '2026-10-04'
+lastUpdated: '2026-11-27'
 ---
 
 Anchorage Digital, the federally chartered crypto bank valued at $4.2 billion earlier this year, has cut 17 percent of its workforce. Chief executive Nathan McCauley informed employees of the reduction this week, people familiar with the matter told [The Information](https://www.theinformation.com/briefings/exclusive-crypto-custodian-anchorage-digital-lays-17-staff), in a report published Friday and [covered by Cointelegraph](https://cointelegraph.com/news/anchorage-digital-cuts-workforce-report) on Oct. 2. Yahoo Finance [carried the same figures](https://finance.yahoo.com/markets/crypto/articles/crypto-bank-anchorage-digital-lays-193500877.html) the same day.

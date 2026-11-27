@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Commodities_futures_trad
 category: News
 data-ai-hint: futures trading floor
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 Backpack said Wednesday that the National Futures Association approved it to operate as a futures commission merchant, the third US regulatory approval the crypto exchange has collected in a week and the last one it says it needs before offering leveraged perpetual futures to American customers.

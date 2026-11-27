@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The%20Office%20of%20the%
 category: News
 data-ai-hint: OCC headquarters building
 publishedDate: '2026-09-19'
-lastUpdated: '2026-09-19'
+lastUpdated: '2026-11-27'
 ---
 
 The Office of the Comptroller of the Currency has granted Bastion preliminary conditional approval for a national trust bank charter, the stablecoin infrastructure company said in a [release](https://markets.businessinsider.com/news/stocks/bastion-receives-conditional-occ-approval-for-a-national-trust-bank-charter-1036558301) on Sept. 18. Licensed as Bastion Platforms National Trust Company, the proposed bank would put custody, payments, and white-label stablecoin issuance under one federally supervised entity. Cointelegraph [reported](https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter) the approval on Sept. 19.

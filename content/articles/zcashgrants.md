@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Equus%20quagga%20%28Namu
 category: News
 data-ai-hint: plains zebra
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 Grayscale said on Nov. 10 it plans to direct $1 million to nonprofits and initiatives that support the Zcash ecosystem, funded by fees from its Zcash ETF, and has already awarded the first $400,000 in equal grants to four organizations. The asset manager also launched an educational site and a national advertising campaign the same day.

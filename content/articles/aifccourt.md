@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bilingual_sign,_Astana_(
 category: News
 data-ai-hint: Astana city signage district
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 A court serving the Astana International Financial Centre (AIFC) issued injunctions against six crypto exchanges for offering unlicensed services inside the financial free zone, the AIFC's financial regulator said in an [announcement](https://aifc.kz) dated Oct. 20. The Astana Financial Services Authority (AFSA) said the judgment, dated Sept. 15 and amended Sept. 18 to remove LBank, covers BingX, Bitcoin.com, Huobi Global/HTX, BitMart, Coinbase and WEEX.

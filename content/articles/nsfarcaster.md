@@ -9,7 +9,7 @@ imageFit: contain
 category: News
 data-ai-hint: rish official network school farcaster acquisition announcement
 publishedDate: '2026-10-15'
-lastUpdated: '2026-10-15'
+lastUpdated: '2026-11-27'
 ---
 
 Network School, led by Balaji Srinivasan, has acquired Farcaster from Neynar. In an [October 15 announcement](https://farcaster.xyz/rish/0x5d479754), Neynar co-founder Rish said the transfer covers the Farcaster app, protocol repositories and related products. The handover comes with a new participation agreement for the main app, while Network School says the underlying protocol will remain open.

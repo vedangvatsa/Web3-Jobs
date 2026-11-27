@@ -9,7 +9,7 @@ description: >-
   fit in.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---## What Polygon is
 
 Polygon is an EVM-compatible blockchain anchored to Ethereum that executes transactions off Ethereum mainnet and periodically posts state to Ethereum for security. It started as Matic Network in 2017 and rebranded to Polygon in 2021. Today Polygon Chain (often still called Polygon PoS) is the live production network, while Polygon Labs builds related infrastructure around it.

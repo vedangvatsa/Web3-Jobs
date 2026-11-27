@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin_ATM_at_the_Prime
 category: News
 data-ai-hint: bitcoin atm machine
 publishedDate: '2026-11-07'
-lastUpdated: '2026-11-07'
+lastUpdated: '2026-11-27'
 ---
 
 Hackers who drained $6.4 billion from Binance have started converting the stolen XRP into bitcoin. About 42 million XRP, roughly $50 million, has been swapped since the afternoon of Nov. 5, mostly through the THORChain cross-chain service, blockchain analytics firm [Elliptic](https://www.elliptic.co/insights/how-north-korea-is-laundering-the-6-4-billion-stolen-from-binance/) said in an [update](https://www.elliptic.co/insights/how-north-korea-is-laundering-the-6-4-billion-stolen-from-binance/) published Nov. 6. About 192 million XRP, around $226 million, remains in addresses linked to the theft, the update shows.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Capitol%20east%20si
 category: News
 data-ai-hint: united states capitol
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 A Zcash-focused advocacy group has formally entered Washington's lobbying rolls, naming its executive director as its first registered lobbyist. Pretty Good Policy for Zcash, known as PGPZ, filed a Lobbying Disclosure Act registration with an effective date of Oct. 1, 2026, listing Divij Pandya as its sole lobbyist, as shown in [the public filing](https://lda.gov/filings/public/filing/47b11898-84df-460d-8319-22411a1a14a9/print/). [CoinTelegraph reported the registration](https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy) on Oct. 5, and [Crypto Briefing covered the move](https://cryptobriefing.com/zcash-advocacy-group-registers-first-lobbyist/) on Oct. 4.

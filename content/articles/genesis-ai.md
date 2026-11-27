@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Suite_Hallway.jpg
 category: News
 data-ai-hint: data center server hallway
 publishedDate: '2026-10-13'
-lastUpdated: '2026-10-13'
+lastUpdated: '2026-11-27'
 ---
 
 SWI Group, the Euronext Amsterdam-listed investment firm that controls the former FTX-backed miner Genesis Digital Assets, has raised 800 million euros to convert mining sites into AI data centers. The company [announced](https://swi.com/wp-content/uploads/SWI-Group-Announces-E800-million-Capital-Increase.pdf) on Oct. 12 a capital increase backed by institutional investors that values the group at 6.1 billion euros and brings total equity raised since March above 1 billion euros.

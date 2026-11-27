@@ -6,6 +6,7 @@ image: /images/articles/digital-nomad-visas-tax-vs-income.png
 category: Career Guides
 data-ai-hint: croatia digital nomad permit zero local tax application guide
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Croatia was one of the earliest countries in Europe to officially welcome digital nomads. In early 2021, the Croatian parliament passed amendments to its Aliens Act and Income Tax Act, establishing a dedicated temporary residence permit for non-EU remote knowledge workers.

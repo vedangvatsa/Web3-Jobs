@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Roulette_casino.JPG
 category: News
 data-ai-hint: casino roulette wheel
 publishedDate: '2026-09-26'
-lastUpdated: '2026-09-26'
+lastUpdated: '2026-11-27'
 ---
 
 Crypto casino Duelbits confirmed on September 24 that attackers drained roughly $7 million from its hot wallets and took its site offline. "Confirming a ~$7M hack. Still investigating exactly what happened and how," co-founder Joe wrote on X, adding that user funds are safe, in posts [reported by CoinDesk](https://www.coindesk.com/business/2026/09/24/crypto-casino-duelbits-goes-offline-after-usd7m-hot-wallet-hack).

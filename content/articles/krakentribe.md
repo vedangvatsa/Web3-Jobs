@@ -6,7 +6,7 @@ image: /images/news/krakentribe.jpg
 category: News
 data-ai-hint: menlo park downtown
 publishedDate: '2026-11-20'
-lastUpdated: '2026-11-20'
+lastUpdated: '2026-11-27'
 imageCaption: "Downtown Menlo Park, California, where Tribe Capital is headquartered. Photo: LPS.1 via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Downtown_Menlo_Park_California.jpg
 ---

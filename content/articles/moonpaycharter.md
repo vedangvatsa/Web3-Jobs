@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Miami_skyline_from_the_o
 category: News
 data-ai-hint: occ federal building
 publishedDate: '2026-11-22'
-lastUpdated: '2026-11-22'
+lastUpdated: '2026-11-27'
 ---
 
 MoonPay has applied to the Office of the Comptroller of the Currency for a national trust bank charter that would let the crypto payments firm offer stablecoin issuance and redemption, reserve management and digital asset custody under federal supervision. The company submitted its application on November 17, 2026 to establish MoonPay National Trust Bank, a non-depository institution headquartered in Miami Beach, Florida, according to an [OCC filing reported by Cointelegraph](https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services).

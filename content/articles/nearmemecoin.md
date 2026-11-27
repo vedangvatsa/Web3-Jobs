@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pyongyang%20Metro.JPG
 category: News
 data-ai-hint: metro station platform
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 North Korean launderers are minting their own worthless meme coins to move money stolen from Binance, according to a report blockchain analytics firm [Elliptic published on Nov. 9](https://www.elliptic.co/insights/north-korea-meme-coins-binance-hack/).

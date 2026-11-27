@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician_with_laptop_w
 category: News
 data-ai-hint: san francisco skyline
 publishedDate: '2026-09-22'
-lastUpdated: '2026-09-22'
+lastUpdated: '2026-11-27'
 ---
 
 ZetaChain token holders approved Proposal 68 on Sept. 20, 2026, authorizing the project to wind down its Cosmos-based layer-1 and migrate ZETA to Solana as a native SPL token. Solana Compass [reported](https://solanacompass.com/news/zetachain-proposal-68-passes-with-994-support-zeta-to-migrate-to-solana-spl) that the vote closed at 14:58 UTC with 99.4% in favor, 0.3% against, and 0.3% abstaining, on 58% turnout against a 40% quorum requirement.

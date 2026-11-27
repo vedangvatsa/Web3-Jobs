@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Physical_bitcoin_statist
 category: News
 data-ai-hint: physical bitcoin coin
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Bitcoin Lightning developer ACINQ urged node operators to upgrade Eclair after patching security flaws that malicious peers could exploit, releasing version 0.14.5 on Oct. 20, its second security-focused update in five days, [CryptoSlate reported](https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/).

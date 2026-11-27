@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Los_Angeles_Pollution.jp
 category: News
 data-ai-hint: downtown los angeles skyline
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Adam Iza, the 26-year-old who called himself "The Godfather," was sentenced Monday to 78 months in federal prison for hiring off-duty Los Angeles sheriff's deputies to harass his rivals, stealing more than $37 million from Meta, and hiding the proceeds to avoid tax. U.S. District Judge Percy Anderson also ordered him to pay $23,402,766 in restitution, the U.S. Attorney's Office for the Central District of California said, as Decrypt [reported](https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud).

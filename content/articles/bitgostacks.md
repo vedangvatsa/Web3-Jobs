@@ -9,7 +9,7 @@ image: /images/news/bitgostacks.jpg
 category: News
 data-ai-hint: hardware wallet bitcoin
 publishedDate: '2026-11-05'
-lastUpdated: '2026-11-05'
+lastUpdated: '2026-11-27'
 imageCaption: "A Ledger hardware wallet displaying a Bitcoin transaction. Photo: FlippyFlink via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:An_actual_Bitcoin_transaction_from_the_Kraken_cryptocurrency_exchange_to_a_hardware_LedgerWallet.jpg
 ---

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cash_Registers.JPG
 category: News
 data-ai-hint: retail checkout cash registers
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Visa is wiring crypto wallets into its card network through a partnership with Mesh, the companies announced Monday. Users of participating wallets would spend cryptocurrency and stablecoin balances directly at more than 175 million merchant locations in over 200 countries and territories, without moving funds to a bank account and without applying for a separate crypto card.

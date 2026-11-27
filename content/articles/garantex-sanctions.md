@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Minato%20City%2C%20Tokyo
 category: News
 data-ai-hint: Tokyo skyline
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Japan placed crypto exchange Garantex under its Russia sanctions regime in an expanded package that took effect on Oct. 2, 2026. The designation appeared in a [joint statement](https://www.mof.go.jp/policy/international_policy/gaitame_kawase/gaitame/economic_sanctions/20261001212931.html) from the Ministry of Foreign Affairs, the Ministry of Finance and the Ministry of Economy, Trade and Industry dated Oct. 2, which said the step followed a Cabinet understanding reached the same day. Cointelegraph [reported](https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war) on Oct. 4 that the move added a crypto trading venue to sanctions tied to the war in Ukraine.

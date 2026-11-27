@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sergey_Nazarov_Chainlink
 category: News
 data-ai-hint: Chainlink co-founder portrait
 publishedDate: '2026-09-29'
-lastUpdated: '2026-09-29'
+lastUpdated: '2026-11-27'
 ---
 
 Chainlink on September 28 released CCIP 2.0, a new version of its cross-chain transfer protocol that lets banks and asset issuers run their own security checks on transfers between blockchains. The company [announced](https://chain.link/blog/introducing-ccip-2-0) the upgrade on Monday, and Decrypt [reported](https://decrypt.co/379463/chainlink-institutions-add-bridge-checks-kelp-hack) the launch the same day.

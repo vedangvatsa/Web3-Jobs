@@ -6,6 +6,7 @@ image: /images/articles/citizenship-by-investment-capital-vs-speed.png
 category: Career Guides
 data-ai-hint: citizenship by investment capital vs speed chart
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Global mobility restrictions, shifting international tax laws, and banking compliance headaches have fundamentally changed how international entrepreneurs view passports. For digital nomads, remote founders, and cryptocurrency investors, holding a single passport is an operational single point of failure. If your home government delays passport renewals, cancels visa-free treaties, or introduces restrictive financial rules, your ability to travel, open bank accounts, and run a cross-border business can freeze overnight.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Datacenter%20Server%20Ra
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 A developer at Anza has filed a formal proposal to remove durable nonces from Solana, the feature that keeps a signed transaction valid indefinitely instead of tying it to a recent blockhash. The draft, [SIMD-0723, opened on GitHub on Nov. 5](https://github.com/solana-foundation/solana-improvement-documents/pull/723) under the name grod220, would require every transaction to carry a fresh blockhash and would disable the System Program instructions that initialize, advance and upgrade nonce accounts.

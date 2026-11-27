@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: stock exchange facade
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 Formation Securities LLC notified the U.S. Securities and Exchange Commission on Nov. 9 that it intends to operate a tokenized securities venue on Solana, the company said in a [press release](https://www.prnewswire.com/news-releases/formation-securities-notifies-sec-of-intent-to-operate-first-tokenized-securities-venue-on-solana-302932902.html) distributed Monday morning. Trading is expected to begin in early 2027, with tokenized shares of Exodus Movement, Forward Industries and Galaxy Digital anticipated at launch.

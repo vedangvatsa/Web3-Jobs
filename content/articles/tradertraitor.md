@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:CZ_at_Vietnam_NFT_Summit
 category: News
 data-ai-hint: entrepreneur speaking at summit
 publishedDate: '2026-11-01'
-lastUpdated: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Chainalysis attributed the $6.4 billion theft from Binance to North Korea's TraderTraitor in a [blog post published Oct. 30](https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/), joining TRM Labs in naming the group behind what it called the largest theft in crypto history. The firm said its assessment rests on the on-chain activity its investigators observed in the hours after the breach.

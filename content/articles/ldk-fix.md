@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Lightning_over_ESO_Headq
 category: News
 data-ai-hint: lightning storm night sky
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 The Lightning Development Kit has patched a flaw that let a malicious channel peer steal the value of a forwarded payment by lying after reconnecting. The Oct. 1 security releases v0.2.7 and v0.1.13 close the hole on the 0.2 and 0.1 branches, with details published in the Bitcoin Optech [newsletter](https://bitcoinops.org/en/newsletters/2026/10/09/) on Oct. 9. Application developers must build the patched library into the software they ship before their users are protected.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_at_Dusk_2.jpg
 category: News
 data-ai-hint: capitol dome evening
 publishedDate: '2026-10-31'
-lastUpdated: '2026-10-31'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission held its inaugural Frontier Forum in Washington on Oct. 28, devoting an afternoon to questions about how existing trading laws apply to autonomous software. Chairman Michael Selig opened the event by asking whether current regulations can keep up with AI trading agents that analyze markets and execute transactions on behalf of users.

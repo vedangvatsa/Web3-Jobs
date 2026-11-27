@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bridge-gadget-hand-iPhon
 category: News
 data-ai-hint: hand holding iphone
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 Security firm iVerify has disclosed a new iPhone spyware variant that searches infected phones for cryptocurrency wallets and pulls their data. The company [described](https://www.iverify.com/blog/darksword-variant-threat-research) P7 DarkSword on Oct. 8 after investigating an infection found on a customer's device in August. The name comes from the attacker's use of a p7_ prefix on variables in modified code.

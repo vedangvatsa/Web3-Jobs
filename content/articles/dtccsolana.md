@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wall%20Street%20by%20Pau
 category: News
 data-ai-hint: Wall Street street scene
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 The Depository Trust & Clearing Corporation plans to connect its tokenization service to Solana, opening a path for assets held at its Depository Trust Company subsidiary to be converted into tokens on the network in the second half of 2027. The firm [announced the plan on Nov. 12](https://www.dtcc.com/press-releases/2026/dtcc-tokenization-service-to-connect-with-solana), calling it a further step in a multi-chain strategy for the DTCC Tokenization Service.

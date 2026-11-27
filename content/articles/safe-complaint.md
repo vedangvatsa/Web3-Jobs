@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bern%20Parliament%20Plaz
 category: News
 data-ai-hint: parliament square bern switzerland
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Greenfield Capital has filed a supervisory complaint with Switzerland's Federal Supervisory Authority for Foundations over the governance of the Safe Ecosystem Foundation, the Zug-based nonprofit behind the Safe smart-wallet protocol. Founding partner Jascha Samadi disclosed the filing in an [open letter to the Safe community](https://forum.safefoundation.org/t/an-open-letter-to-the-safe-community/7149) published Oct. 4, saying months of private engagement had failed to fix the problems.

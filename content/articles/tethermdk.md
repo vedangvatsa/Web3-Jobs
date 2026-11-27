@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Avalon-An_ASIC_base_bitc
 category: News
 data-ai-hint: ASIC Bitcoin miner
 publishedDate: '2026-10-26'
-lastUpdated: '2026-10-26'
+lastUpdated: '2026-11-27'
 ---
 
 Fifteen Bitcoin mining companies, ASIC manufacturers and mining pools have committed to build and maintain integrations with Tether's Mining Development Kit, the company said in an [announcement dated Oct. 24](https://tether.io/news/tethers-mdk-gains-broad-industry-backing-to-accelerate-the-next-generation-of-bitcoin-mining-automation/). The MDK is an open-source framework that gives mining hardware, pools and applications a common interface, so software written once can reach machines from different vendors.

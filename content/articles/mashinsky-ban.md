@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20State%20Sup
 category: News
 data-ai-hint: manhattan courthouse building
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Former Celsius Network CEO Alex Mashinsky accepted a permanent bar from the securities, commodities and cryptocurrency industries under a settlement announced Oct. 9 by New York Attorney General Letitia James, with payments of up to $35 million conditioned on his federal forfeiture and prison term.

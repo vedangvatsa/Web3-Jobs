@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers%20data%20c
 category: News
 data-ai-hint: data center server room
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Cysic suspended its cross-chain bridge after an attacker minted 10 million CYS tokens without authorization on BNB Smart Chain on Oct. 17. The Cysic Foundation said in an [incident report](https://x.com/cysic_fdn/status/2111761749116637687) that the mint occurred at 12:31:38 UTC and that the recipient address was blacklisted at 13:47:52 UTC.

@@ -8,7 +8,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man smile
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 
 Chris Dixon is a general partner at Andreessen Horowitz and founder and leader of a16z crypto, the firm's crypto investment practice. His case for Web3 is not mainly that a token price will rise. It is that blockchains can give internet services rules and ownership structures that are not controlled by one company. He develops that case in his 2024 book, *Read Write Own: Building the Next Era of the Internet*.

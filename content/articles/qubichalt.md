@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wikimedia%20Foundation%2
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Qubic halted its mainnet on Oct. 18 after an attacker drained 1,404 wallets holding about 2.94 trillion QU. The project said in a [statement](https://x.com/_qubic_/status/2111796725677715474) that Computors, the operators who run the network, coordinated a protective halt and that no transactions are processing while the loss is handled.

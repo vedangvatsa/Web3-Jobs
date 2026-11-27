@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY%20stock%20exchange%20
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-09-15'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 
 Binance launched a wealth management service on Sept. 15 that gives users access to 11 US-listed exchange-traded funds tied to short-term US Treasurys and investment-grade bonds. The product, called ETF Wealth Management, sits inside Binance Earn and groups the funds into cash management, steady income and yield enhancement buckets based on holding periods from under six months to more than a year, [Cointelegraph reported](https://cointelegraph.com/news/binance-adds-11-us-listed-etfs-to-wealth-management-offering). It is the exchange's latest step into traditional finance products for its crypto-native customer base.

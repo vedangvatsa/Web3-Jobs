@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_
 category: News
 data-ai-hint: london high court building
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Two companies tied to market maker DWF Labs sued crypto custodian BitGo for $141 million in London's High Court, alleging BitGo sold tokens it had agreed to keep locked. The claimants are DWF Maas, based in the British Virgin Islands, and Panama-based Falcon Digital, [Unchained reported](https://unchainedcrypto.com/market-maker-dwf-labs-affiliates-sue-bitgo-for-141-million-over-alleged-early-token-sales/).

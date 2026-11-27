@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:335%20Pioneer%20Way.jpg
 category: News
 data-ai-hint: office building exterior
 publishedDate: '2026-11-01'
-lastUpdated: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Y Combinator has published an October Crypto Request for Startups that asks founders to build blockchain infrastructure for raising AI capital, dollar stablecoins aimed at customers existing providers miss, tokenized assets and trading tools for autonomous software agents. Visiting partner Nemil Dalal shared the document in an Oct. 28 post on X, [CryptoSlate reported Oct. 30](https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/). The request sets out where the accelerator wants to fund crypto companies over the next six months.

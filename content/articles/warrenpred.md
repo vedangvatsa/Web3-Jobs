@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Elizabeth%20Warren%20Twi
 category: News
 data-ai-hint: elizabeth warren senate podium speech
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 Sen. Elizabeth Warren plans to use the Senate Banking Committee's investigative powers against prediction markets and election betting platforms once she takes the panel's gavel in January, a banking committee aide told Punchbowl News. [Bitcoin Magazine reported](https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown) on Monday that Warren wants to stop what the aide called the sector's "Wild West-style lack of oversight."

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:CFTC_lobby_Washington_DC
 category: News
 data-ai-hint: cftc lobby interior
 publishedDate: '2026-10-30'
-lastUpdated: '2026-10-30'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission will host an industry roundtable on Dec. 15 to discuss whether U.S. derivatives markets can move to 24-hour, seven-day trading, the agency [announced on Oct. 28](https://www.cftc.gov/PressRoom/PressReleases/9318-26). The session will take place at the commission's headquarters in Washington and will be open to the public and livestreamed on CFTC.gov.

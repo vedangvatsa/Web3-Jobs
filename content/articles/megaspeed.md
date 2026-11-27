@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Jensen_huang_stanford_20
 category: News
 data-ai-hint: Jensen Huang campus talk
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Megaspeed International issued its first direct statement about Alice Huang on Nov. 15, 2026, saying she left the company effective Aug. 30, 2025 and holds no role today. The Singapore-based cloud firm and Nvidia customer said it would not comment on her "personal and private matters", according to [the Guardian](https://www.theguardian.com/technology/2026/nov/16/megaspeed-company-breaks-slience-nvidia-jensen-huang-alice-huang), which reported the statement along with the Associated Press.

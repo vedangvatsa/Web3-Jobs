@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Besiktas%20I%2C%20Istanb
 category: News
 data-ai-hint: Besiktas Istanbul street
 publishedDate: '2026-10-15'
-lastUpdated: '2026-10-15'
+lastUpdated: '2026-11-27'
 ---
 
 Turkish police detained HEX founder Richard Heart in Istanbul on Oct. 14. Daily Sabah [reported that day](https://www.dailysabah.com/business/tech/turkiye-nabs-interpol-wanted-crypto-fugitive-in-istanbul-operation) that the National Intelligence Organization and police teams captured Richard James Schueler, known as Richard Heart, along with his wife, identified only as A.K. The operation took place on Wednesday morning after surveillance of an address in the Besiktas district.

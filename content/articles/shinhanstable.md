@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_
 category: News
 data-ai-hint: credit card payment terminal
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 South Korea's Shinhan Card announced Wednesday that it signed an agreement with Japan's SBI VC Trade and SBI XDC Network APAC to test yen-backed stablecoin payments for travelers and cross-border trade settlement, [Cointelegraph reported](https://cointelegraph.com/news/shinhan-sbi-japan-korea-travel-yen-stablecoin).

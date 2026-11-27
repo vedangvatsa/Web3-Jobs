@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:CFTC%20lobby%20Washingto
 category: News
 data-ai-hint: CFTC lobby interior
 publishedDate: '2026-10-24'
-lastUpdated: '2026-10-24'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Markets Council asked the U.S. Commodity Futures Trading Commission to reject Kalshi's proposed perpetual crude oil futures contract, about two days after the prediction market platform filed it. The trade group argued the product risks market integrity and asked the regulator to withhold approval, [Crypto Briefing reported on Oct. 22](https://cryptobriefing.com/cmc-urges-cftc-block-kalshi-oil-futures/). [CoinGape described the same push](https://coingape.com/derivative-exchanges-urge-cftc-to-deny-kalshis-request-to-offer-oil-perpetuals) that day and attributed the underlying account to Bloomberg.

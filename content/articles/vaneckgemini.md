@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_NY_20
 category: News
 data-ai-hint: winklevoss twins portrait
 publishedDate: '2026-11-22'
-lastUpdated: '2026-11-22'
+lastUpdated: '2026-11-27'
 ---
 
 VanEck plans to terminate its custody and clearing agreements with Gemini for three crypto exchange-traded funds, according to filings with the Securities and Exchange Commission on November 19, 2026. The asset manager notified Gemini on November 16 that the agreements for its Bitcoin ETF (HODL), Ether ETF (ETHV) and Solana ETF (VSOL) would end "on or about" February 16, 2027, [Crypto Briefing reported](https://cryptobriefing.com/solana-contract-vaneck-etf-gemini-termination-2026-11/).

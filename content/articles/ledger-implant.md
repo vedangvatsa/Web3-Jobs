@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:An%20actual%20Bitcoin%20
 category: News
 data-ai-hint: hardware wallet device
 publishedDate: '2026-10-11'
-lastUpdated: '2026-10-11'
+lastUpdated: '2026-11-27'
 ---
 
 Hardware wallet maker Ledger confirmed on Oct. 10 that one device sold by Southeast Asian reseller CryptoBilis contained an [unauthorized hardware implant](https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m), after days of user reports about drained wallets.

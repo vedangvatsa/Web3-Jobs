@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ashikaga%20Bank%20Automa
 category: News
 data-ai-hint: bank automated teller machine
 publishedDate: '2026-10-01'
-lastUpdated: '2026-10-01'
+lastUpdated: '2026-11-27'
 ---
 
 The Treasury Department on Sept. 30 sanctioned 10 people and companies tied to Tren de Aragua, saying a crew built around ATM thefts had become a funding stream for the group. The department [said](https://home.treasury.gov/news/press-releases/sb0640) the network is run by Anibal Alexander Canelon Aguirre, known as Prometheus, a fugitive on the FBI's Ten Most Wanted list.

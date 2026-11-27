@@ -12,7 +12,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Anatoly_Yakovenko_(TechC
 category: News
 data-ai-hint: Solana co-founder at conference
 publishedDate: '2026-10-30'
-lastUpdated: '2026-10-30'
+lastUpdated: '2026-11-27'
 ---
 
 Solflare said on Oct. 27 that a security incident at its staking provider halted rewards for users delegated to the Solflare validator, and that it is preparing a migration to a new validator with compensation for stakers who move. The non-custodial Solana wallet said user funds were not affected.

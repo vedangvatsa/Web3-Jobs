@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Secretary%20Pompeo%20Rec
 category: News
 data-ai-hint: officials exchanging photographs
 publishedDate: '2026-11-03'
-lastUpdated: '2026-11-03'
+lastUpdated: '2026-11-27'
 ---
 
 Kim Yo Jong, a senior official of North Korea's ruling Workers' Party, rejected the FBI's finding that North Korean hackers stole more than $6 billion from Binance, and suggested the international community should look at who ends up with the crypto once it is recovered. The statement, released Nov. 2 through the Korean Central News Agency, was Pyongyang's first comment on the incident, [according to South Korean broadcaster SBS](https://news.sbs.co.kr/english/article.do?news_id=N1008827368).

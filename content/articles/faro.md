@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Goldman_Sachs_New_World_
 category: News
 data-ai-hint: bank headquarters tower
 publishedDate: '2026-11-11'
-lastUpdated: '2026-11-11'
+lastUpdated: '2026-11-27'
 ---
 
 A group of global banks building a joint dollar stablecoin has put about $270 million behind the effort, according to a report [Decrypt](https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants) published Tuesday. Goldman Sachs, Citigroup, Banco Santander and Deutsche Bank are among the institutions committing the money, which is meant to cover five years of operations for a planned U.S. company that would issue the token.

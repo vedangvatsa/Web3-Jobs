@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dogecoin%20to%20the%20mo
 category: News
 data-ai-hint: dogecoin street sticker
 publishedDate: '2026-10-26'
-lastUpdated: '2026-10-26'
+lastUpdated: '2026-11-27'
 ---
 
 The Dogecoin Foundation and House of Doge terminated their exclusive trademark license by mutual agreement, effective Oct. 19, 2026. The Nasdaq-listed parent, House of Doge Inc. (HODO), and its subsidiary House of Doge (U.S.) Inc. each agreed to change their corporate names and stop using the DOGECOIN and DOGE marks in those names before Dec. 31, 2026, the company said in an [8-K](https://www.sec.gov/Archives/edgar/data/1903595/000121390026112135/ea0309463-8k_house.htm) filed Oct. 23.

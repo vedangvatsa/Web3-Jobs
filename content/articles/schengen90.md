@@ -6,6 +6,7 @@ image: /images/articles/digital-nomad-visas-income-vs-duration.png
 category: Career Guides
 data-ai-hint: schengen 90 180 day rule digital nomad rotation guide
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 For remote workers holding passports from the United States, Canada, the United Kingdom, Australia, or New Zealand, traveling across Europe on tourist status comes with one strict constraint: the Schengen 90/180-day rule.

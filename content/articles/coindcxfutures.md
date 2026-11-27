@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:National%20Stock%20excha
 category: News
 data-ai-hint: stock exchange building exterior
 publishedDate: '2026-10-31'
-lastUpdated: '2026-10-31'
+lastUpdated: '2026-11-27'
 ---
 
 CoinDCX moved its futures market into reduce-only mode on Oct. 30 and told users the change followed "recent developments impacting a global liquidity provider." The mode blocks new futures positions and increases to existing long and short bets, while leaving closes, margin adjustments and open orders available. The exchange said deposits, withdrawals and customer funds were unaffected, and it did not give a timetable for returning to normal trading. [InvestIn.News](https://investin.news/originals/coindcx-paused-futures-after-binance-liquidity-disruption) reviewed the posts announcing the change.

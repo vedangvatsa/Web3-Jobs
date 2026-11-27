@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dirksen_Senate_Office_Bu
 category: News
 data-ai-hint: Dirksen Senate Office Building
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 The Senate Agriculture Committee held a confirmation hearing Tuesday for President Donald Trump's two nominees to the Commodity Futures Trading Commission, spending much of the session on the agency's fight with states and tribes over prediction markets. The panel met at 3 p.m. Eastern in Room 106 of the [Dirksen Senate Office Building](https://www.agriculture.senate.gov/hearings/nomination-hearing-11-17-2026), and the nominees were Nathan Anonick, a Republican from Virginia, and Matthew Rowland, a Democrat from the District of Columbia, [Bitcoin Magazine reported](https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday).

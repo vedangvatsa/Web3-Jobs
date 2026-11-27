@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrun
 category: News
 data-ai-hint: ethereum founder speaking at conference
 publishedDate: '2026-10-24'
-lastUpdated: '2026-10-24'
+lastUpdated: '2026-11-27'
 ---
 
 The Ethereum Foundation postponed the Glamsterdam upgrade on the Hoodi testnet on Oct. 22, four days before the activation scheduled for Oct. 26 at 17:42:48 UTC, epoch 132,352. No new activation date has been set, the Foundation said in its [postponement notice](https://blog.ethereum.org/2026/10/22/glamsterdam-hoodi-delay), which supersedes the schedule and activation instructions published in the Oct. 16 Hoodi announcement.

@@ -5,7 +5,7 @@ image: /images/articles/charts/advanced-oracle-use-cases.svg
 description: An in-depth technical examination of advanced blockchain oracle applications, exploring Proof of Reserve, Verifiable Randomness, parametric insurance, and cross-chain messaging.
 category: Technology Deep Dives
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 tags:
   - Oracles
   - Proof of Reserve

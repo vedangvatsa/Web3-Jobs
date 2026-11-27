@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pont%20de%20la%20Concord
 category: News
 data-ai-hint: Palais Bourbon French parliament
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 France's National Assembly adopted a crypto tax amendment on Friday that would make swaps from crypto into certain stablecoins taxable events from 2027. The chamber backed Amendment I-3898 with 38 votes in favor, 37 against and 25 abstentions, according to the [official vote record](https://www.assemblee-nationale.fr/dyn/17/scrutins/8836).

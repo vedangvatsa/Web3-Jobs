@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bank%20of%20England%20Th
 category: News
 data-ai-hint: bank of england london
 publishedDate: '2026-10-23'
-lastUpdated: '2026-10-23'
+lastUpdated: '2026-11-27'
 ---
 
 Britain's Financial Conduct Authority on Oct. 21, 2026 opened two consultations that together set how decentralised finance interfaces and related intermediaries will be treated under the incoming UK crypto regime. Guidance Consultation GC26/7 asks for feedback on non-Handbook guidance for firms that provide financial services using DeFi, while Consultation Paper CP26/36 proposes perimeter guidance on new statutory exclusions from the regulated cryptoasset activities. Both windows close on Nov. 18, 2026, and the FCA aims to publish final guidance in January 2027, according to the regulator's [GC26/7 page](https://www.fca.org.uk/publications/guidance-consultations/gc26-7-decentralised-finance-guidance) and [CP26/36 page](https://www.fca.org.uk/publications/consultation-papers/cp26-36-cryptoasset-perimeter-guidance).

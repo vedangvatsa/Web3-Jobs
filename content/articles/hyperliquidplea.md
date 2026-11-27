@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Daniel_Patrick_Moynihan_
 category: News
 data-ai-hint: federal courthouse facade
 publishedDate: '2026-11-17'
-lastUpdated: '2026-11-17'
+lastUpdated: '2026-11-27'
 ---
 
 Huaisong Xiang, a former Robinhood software engineer, pleaded guilty on Monday to one count of wire fraud, admitting that he used confidential information about upcoming crypto listings to place trades on the decentralized exchange Hyperliquid before those listings were announced. Xiang, 30, of Jersey City, New Jersey, entered the plea before U.S. District Judge Colleen McMahon in Manhattan and agreed to forfeit $125,523 in proceeds from the scheme, according to [TokenPost](https://www.tokenpost.com/news/regulation/58827).

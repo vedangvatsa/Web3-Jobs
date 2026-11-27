@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wikimedia%20Foundation%2
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 The Drift Foundation opened claims and redemptions for DFX on Oct. 1, giving victims of its April 1 exploit a first path to cash recoveries, the foundation said in its launch announcement. Each DFX maps to one USDT of verified loss, and redeeming it burns the token while paying USDT from a Recovery Pool that held about 3.1 million at launch.

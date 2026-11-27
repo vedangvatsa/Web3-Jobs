@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Potter%20Stewart%20Unite
 category: News
 data-ai-hint: federal courthouse Cincinnati Ohio
 publishedDate: '2026-09-27'
-lastUpdated: '2026-09-27'
+lastUpdated: '2026-11-27'
 ---
 
 Prediction market Kalshi lost its appeal when the Sixth U.S. Circuit Court of Appeals ruled that Ohio and Tennessee can enforce their gambling laws against its sports-event contracts. A three-judge panel decided unanimously Friday that the company failed to show the contracts are swaps under the Commodity Futures Trading Commission's exclusive jurisdiction, [Cointelegraph reported](https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case).

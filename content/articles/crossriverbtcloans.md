@@ -5,7 +5,7 @@ description: U.S. chartered Cross River Bank has launched a Bitcoin-backed lendi
 image: /og-news.png
 category: News
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 Cross River Bank, a U.S. state-chartered bank known for powering fintech infrastructure, has entered the digital asset credit market with a Bitcoin-backed lending product offering loans of up to $250,000.

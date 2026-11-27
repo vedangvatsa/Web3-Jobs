@@ -8,7 +8,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.webp
 category: Industry Insights
 data-ai-hint: man thinking
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 
 Naval Ravikant's crypto commentary connects two claims: Bitcoin introduced money that can operate without a central issuer, and public blockchains make it possible to create markets around software. He has been enthusiastic about both ideas, but he has also described the space as early, speculative, and difficult to use. That combination is often lost when individual aphorisms are treated as a complete investment thesis.

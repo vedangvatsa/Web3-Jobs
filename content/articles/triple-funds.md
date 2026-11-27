@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Chicago%20Board%20of%20T
 category: News
 data-ai-hint: Chicago Board of Trade building
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 The Securities and Exchange Commission approved listing rules for six 3x Volatility Shares commodity trusts on Oct. 2, 2026, including funds tied to bitcoin and ether futures. The approval came in Release No. 34-106577 under File No. SR-CboeBZX-2026-065, which covers a Cboe BZX rule change for the six products. Unchained [reported](https://unchainedcrypto.com/sec-clears-cboe-to-list-volatility-shares-3x-bitcoin-and-ether-funds/) on Oct. 5 that the order clears the exchange-listing hurdle without authorizing trading itself.

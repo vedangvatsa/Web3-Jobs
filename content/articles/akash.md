@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Ser
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-27'
-lastUpdated: '2026-10-27'
+lastUpdated: '2026-11-27'
 ---
 
 Akash Network opened voting on October 26 on Governance Proposal 346, which would move the decentralized cloud marketplace off its sovereign Cosmos chain akashnet-2 and rebuild it as native programs on Solana mainnet. Voting runs through November 2, and early tallies showed roughly 98% support, according to [Crypto Briefing](https://cryptobriefing.com/akash-network-migrates-solana-akt-spl-token/).

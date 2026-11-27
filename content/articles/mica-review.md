@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:European%20Parliament%20
 category: News
 data-ai-hint: european parliament hemicycle strasbourg
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Circle published its response to the European Commission targeted review of the Markets in Crypto-Assets Regulation on Oct. 1, with EU strategy and policy director Patrick Hansen listed as author, according to the [post](https://circle.com/blog/circles-response-to-the-european-commissions-mica-review-consultation). The filing draws on two years of operating as a MiCA-authorised e-money token issuer, the response says, and presents changes intended to keep global stablecoin activity inside EU supervision.

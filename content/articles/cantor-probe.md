@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wall%20Street%20-%20New%
 category: News
 data-ai-hint: wall street stock exchange building
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Senator Richard Blumenthal asked Cantor Fitzgerald to hand over records on its business relationship with Tether and on how much Commerce Secretary Howard Lutnick's family has earned from it. The Oct. 8 letter to chairman Brandon Lutnick lists 13 requests with responses due Oct. 23, and it asks the firm to preserve every related document in the meantime.

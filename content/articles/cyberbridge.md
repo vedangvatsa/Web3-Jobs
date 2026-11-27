@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Upbit_Entrence.jpg
 category: News
 data-ai-hint: office entrance
 publishedDate: '2026-11-24'
-lastUpdated: '2026-11-24'
+lastUpdated: '2026-11-27'
 ---
 
 South Korean exchanges Upbit and Bithumb suspended deposits and withdrawals of the CYBER token on Nov. 22, hours after the Cyber project said it was investigating unexpected token minting on Solana and a transfer of tokens out of its bridge's Ethereum lockbox. Upbit posted its notice at 2:08 a.m. Korea Standard Time and Bithumb followed at 2:18 a.m., both citing circumstances around a suspected security incident, according to [crypto.news](https://crypto.news/upbit-bithumb-halt-cyber-transfers-bridge).

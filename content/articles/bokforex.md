@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_Bank_of_Korea_Chungb
 category: News
 data-ai-hint: bank of korea branch building
 publishedDate: '2026-10-25'
-lastUpdated: '2026-10-25'
+lastUpdated: '2026-11-27'
 ---
 
 The Bank of Korea will prepare an amendment to the Foreign Exchange Transactions Act with the government this year that would regulate stablecoins as a means of payment, a written report the central bank filed for the National Assembly's annual audit on Oct. 22 shows. Korean outlet [Digital Asset published the filing's contents](https://www.digitalasset.works/news/articleView.html?idxno=43792) on Oct. 23.

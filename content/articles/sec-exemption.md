@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade_of_the_U.S._Secur
 category: News
 data-ai-hint: sec headquarters washington dc
 publishedDate: '2026-09-17'
-lastUpdated: '2026-09-17'
+lastUpdated: '2026-11-27'
 ---
 
 The U.S. Securities and Exchange Commission on Sept. 17, 2026 granted a five-year exemption that lets blockchain venues list and trade tokenized stocks without registering as national securities exchanges. [CoinDesk reported](https://www.coindesk.com/policy/2026/09/17/sec-rolls-out-long-awaited-innovation-exemption-for-tokenized-securities-venues) the move on Sept. 17 as a conditional exemption for so-called tokenized securities venues. The order covers venues that run automated market makers and liquidity pools for tokens tied to listed shares, [Unchained wrote](https://unchainedcrypto.com/sec-grants-five-year-innovation-exemption-for-onchain-trading-of-tokenized-stocks-unchained/) the same day.

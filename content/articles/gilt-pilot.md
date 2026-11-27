@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:1066103_II_Star_New_Gove
 category: News
 data-ai-hint: hm treasury building whitehall london
 publishedDate: '2026-10-07'
-lastUpdated: '2026-10-07'
+lastUpdated: '2026-11-27'
 ---
 
 The UK government has appointed six banks as joint lead managers for its first digitally native government bond. Barclays, HSBC, Lloyds, Morgan Stanley, NatWest and RBC Capital Markets won the mandates after a competitive procurement, HM Treasury [said](https://www.gov.uk/government/news/uk-takes-next-step-towards-first-digitally-native-government-bond) on Oct. 6.

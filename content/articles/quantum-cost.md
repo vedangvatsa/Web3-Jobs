@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NVIDIA%20RTX%204090%20Fo
 category: News
 data-ai-hint: Nvidia RTX 4090 graphics hardware packaging
 publishedDate: '2026-09-24'
-lastUpdated: '2026-09-24'
+lastUpdated: '2026-11-27'
 ---
 
 StarkWare said on September 23 that an open software-optimization competition had reduced the estimated GPU cost of preparing a quantum-safe Bitcoin transaction to about $67, down from roughly $320. The [company's week-one update](https://starkware.co/blog/ai-research-competition-cut-quantum-safe-bitcoin-costs-by-79-in-a-week/) puts the reduction at about 79%, while cautioning that the benchmark improvements still need to be measured in the production transaction-building software.

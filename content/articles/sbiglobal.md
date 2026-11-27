@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:SMBC_Osaka_Headquarters_
 category: News
 data-ai-hint: Osaka headquarters building of SMBC
 publishedDate: '2026-11-25'
-lastUpdated: '2026-11-25'
+lastUpdated: '2026-11-27'
 ---
 
 SBI Holdings, Sumitomo Mitsui Financial Group and the Solana Foundation said on Nov 25 they had completed a series of agreements to move SBI R3 Japan into a three-party joint venture structure, and that the company has begun full-scale operations as SBI Solana Global Co., Ltd. The joint [release](https://www.sbigroup.co.jp/english/news/pdf/2026/1125_a_en.pdf), dated Nov 25, sets out a business built around stablecoin payments, tokenization and on-chain asset management. Sumitomo Mitsui Financial Group's group companies operate under the SMBC Group name, the release said. The company aims to create an on-chain digital economy originating in Japan and expand the business across Asia and global markets, and said it will seek to broaden Japan-originated on-chain financial markets by connecting digital services and assets from Japan with markets across Asia and globally.

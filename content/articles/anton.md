@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter
 category: News
 data-ai-hint: Anthropic office visit
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 Crypto platforms started selling exposure to Anthropic stock the day before the AI company's Nasdaq debut, with Ondo announcing a token that goes live when trading opens and Binance Wallet's $500 million subscription for tokenized Anthropic closing early after hitting its cap.

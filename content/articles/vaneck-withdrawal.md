@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exc
 category: News
 data-ai-hint: New York Stock Exchange facade
 publishedDate: '2026-10-15'
-lastUpdated: '2026-10-15'
+lastUpdated: '2026-11-27'
 ---
 
 VanEck will not go ahead with its Lido staked ether exchange-traded fund. VanEck Digital Assets [said in an SEC filing on Oct. 14](https://www.sec.gov/Archives/edgar/data/2091159/000209115926000005/vanecklidostakedethereumet.htm) that it does not intend to proceed with the planned distribution of the trust shares. Cointelegraph [reported the move on Oct. 15](https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf) as a decision to shelve the product built around the liquid staking token.

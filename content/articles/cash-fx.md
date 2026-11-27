@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tampa%20Classic%20Federa
 category: News
 data-ai-hint: federal courthouse Tampa Florida
 publishedDate: '2026-09-27'
-lastUpdated: '2026-09-27'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission is suing Cash FX Group and three individuals over what it calls a $950 million foreign-exchange Ponzi scheme built on multilevel marketing. The agency [announced](https://www.cftc.gov/PressRoom/PressReleases/9304-26) the complaint Friday, filing it in the U.S. District Court for the Middle District of Florida.

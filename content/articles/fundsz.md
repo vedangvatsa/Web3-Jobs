@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Gold%20bullion%20bars.jp
 category: News
 data-ai-hint: gold bullion bars
 publishedDate: '2026-10-01'
-lastUpdated: '2026-10-01'
+lastUpdated: '2026-11-27'
 ---
 
 A federal court in Florida ordered two operators of the Fundsz scheme to pay more than $31 million for fraud involving digital assets and precious metals. The Commodity Futures Trading Commission [announced](https://www.cftc.gov/PressRoom/PressReleases/9305-26) the default judgment on Sept. 30, resolving the last open claims in a case it first filed in 2023.

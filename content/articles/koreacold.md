@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seoul%20centre%20004.JPG
 category: News
 data-ai-hint: city skyline buildings
 publishedDate: '2026-11-05'
-lastUpdated: '2026-11-05'
+lastUpdated: '2026-11-27'
 ---
 
 South Korea's Financial Services Commission has urged domestic crypto exchanges to increase the share of assets they hold in offline wallets after the $6.3 billion attack on Binance last week. In a statement Monday, the regulator said it held an emergency meeting with the Financial Supervisory Service, the Financial Security Institute, the Digital Asset eXchange Alliance (DAXA) and major crypto service providers to review the impact of the Binance hack on South Korea's market and to review exchanges' security measures, [Cointelegraph reported](https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack).

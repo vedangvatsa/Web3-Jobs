@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:United%20States%20Bankru
 category: News
 data-ai-hint: federal courthouse Arkansas
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 The United States and the Commodity Futures Trading Commission sued Arkansas on Nov. 12, asking a federal judge to stop the state's case against prediction-market operator Kalshi and to block similar state action against other federally regulated exchanges. The complaint was filed in the U.S. District Court for the Eastern District of Arkansas, with Department of Justice lawyers representing the United States and CFTC lawyers representing the agency, according to [Unchained](https://unchainedcrypto.com/kalshi-gets-doj-backing-against-arkansas-amid-prediction-markets-turf-war/).

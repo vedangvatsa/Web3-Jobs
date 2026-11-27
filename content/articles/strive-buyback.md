@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Holding_Bitcoin_cryptocu
 category: News
 data-ai-hint: hand holding physical bitcoin coin
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Strive bought 2,000 bitcoin between Sept. 28 and Oct. 2 at an average of about $84,422 per coin including fees and expenses, lifting its holdings to 29,462 BTC. The Dallas company disclosed the purchase in a Form 8-K filed Oct. 5, Unchained reported in an Oct. 5 [account](https://unchainedcrypto.com/strive-buys-2000-bitcoin-and-discloses-a-buyback-facility-for-its-preferred-stock/).

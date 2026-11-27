@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Commodity%20Futures
 category: News
 data-ai-hint: government building facade
 publishedDate: '2026-10-29'
-lastUpdated: '2026-10-29'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission is investigating whether prediction market platform Polymarket violated a 2022 settlement that required it to keep US users off its offshore market, a person familiar with the matter [told CNBC](https://www.cnbc.com/2026/10/27/cftc-probes-polymarket-over-2022-settlement.html) Tuesday. The inquiry covers the controls Polymarket used to detect where customers were located, its advertising in the United States, and the onboarding and customer protection measures on the US platform the company launched in late December, the person said.

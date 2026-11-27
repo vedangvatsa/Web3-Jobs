@@ -6,7 +6,7 @@ image: /images/news/china-p2p.jpg
 category: News
 data-ai-hint: shanghai street at night
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "A street in Shanghai at night. Chainalysis estimates China's crypto economy ran largely through peer-to-peer transfers. Photo: Mstyslav Chernov via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Streets_of_Shanghai_at_night,_China,_East_Asia.jpg
 ---

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_World_Bank_Group.jpg
 category: News
 data-ai-hint: World Bank headquarters sign
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 The World Bank Group said Tuesday it will explore using Circle's USDC and blockchain-based payment rails, alongside Citi's banking connections, to disburse development funds faster and more cheaply than correspondent banking allows. The institution's [press release](https://www.worldbank.org/en/news/press-release/2026/11/17/world-bank-group-explores-regulated-stablecoins-to-modernize-payments-redirect-res) describes "a commitment to explore regulated stablecoin infrastructure" and names Citi's existing connections to banking rails and Circle's payments infrastructure to mint and settle funds in USDC as central to the initiative.

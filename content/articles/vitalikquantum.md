@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrun
 category: News
 data-ai-hint: developer speaking conference
 publishedDate: '2026-11-17'
-lastUpdated: '2026-11-17'
+lastUpdated: '2026-11-27'
 ---
 
 Ethereum co-founder Vitalik Buterin publicly endorsed leanPCS on Nov. 16 as the quickest route to a quantum-safe Ethereum, reversing his earlier skepticism in a long thread about a draft proposal he co-wrote.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sloping%20green%20roof%2
 category: News
 data-ai-hint: BC Supreme Court building Vancouver
 publishedDate: '2026-09-27'
-lastUpdated: '2026-09-27'
+lastUpdated: '2026-11-27'
 ---
 
 Evercrest Technologies, the company behind KelpDAO, has sued LayerZero Labs, its Canadian affiliate and chief executive Bryan Pellegrino in British Columbia over the April exploit that drained 116,500 rsETH, worth about $292 million, from Kelp's bridge. KelpDAO announced the filing on Thursday, and the notice of civil claim landed in the Supreme Court of British Columbia, [CoinDesk wrote](https://www.coindesk.com/business/2026/09/25/kelpdao-sues-layerzero-for-the-largest-exploit-2026-has-seen-so-far).

@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exc
 category: News
 data-ai-hint: new york stock exchange facade
 publishedDate: '2026-09-15'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 
 Kamino named Michael Weisz as its chief executive on Sept. 15, bringing in the Yieldstreet co-founder to run the Solana lending protocol as it sets up a New York headquarters and courts Wall Street firms. [CoinDesk reported](https://www.coindesk.com/business/2026/09/15/solana-lender-kamino-taps-yieldstreet-co-founder-as-ceo-in-wall-street-expansion) the appointment on Tuesday, describing a push that pairs a physical move to New York with growth in lending against tokenized real-world assets. Crypto Briefing [said](https://cryptobriefing.com/kamino-appoints-michael-weisz-ceo/) the appointment took effect Sept. 15 and aims to speed up institutional growth and widen the protocol's business in the United States.

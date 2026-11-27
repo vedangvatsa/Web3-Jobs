@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20U.S.
 category: News
 data-ai-hint: SEC headquarters building
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 Twenty One Capital (XXI) reported third-quarter net income of $1.087 billion, almost entirely from $1.093 billion in fair-value gains on its bitcoin holdings, [The Block reported](https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711), citing an SEC filing. The Tether-backed company held 43,514 BTC as of Sept. 30, valued at roughly $83,700 per bitcoin, plus $102.8 million in cash and cash equivalents.

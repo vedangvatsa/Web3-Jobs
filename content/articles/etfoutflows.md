@@ -12,7 +12,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-11-02'
-lastUpdated: '2026-11-02'
+lastUpdated: '2026-11-27'
 ---
 
 United States spot bitcoin ETFs recorded 643.2 million dollars of net redemptions on Friday, Oct. 30, their largest single-day outflow of October and the first full session after attackers began draining about 6.4 billion dollars from Binance, according to Decrypt's [ETF tracker](https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack). The theft started at 4:05 p.m. ET on Thursday, after United States markets had closed, so Friday was the first chance for fund investors to price it.

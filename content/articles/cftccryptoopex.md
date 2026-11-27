@@ -5,7 +5,7 @@ description: CFTC staff issued an advisory permitting registered derivatives fir
 image: /og-news.png
 category: News
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 Staff at the U.S. Commodity Futures Trading Commission issued a formal advisory permitting registered derivatives clearing organizations (DCOs) and futures commission merchants (FCMs) to count qualifying crypto assets, including Bitcoin and Ether, toward their financial resource and operating expense requirements.

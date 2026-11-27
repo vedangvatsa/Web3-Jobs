@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Singapore%20Marina%20Bay
 category: News
 data-ai-hint: singapore marina bay skyline at dusk
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 OKX has raised an undisclosed sum at a $25 billion pre-money valuation from Circle, Ripple, Qube Research and Technologies and SC Ventures, the venture arm of Standard Chartered. The round extends a March investment led by Intercontinental Exchange at the same valuation, Cointelegraph reported in its Oct. 6 [coverage](https://cointelegraph.com/news/okx-exchange-raises-capital-25b-valuation).

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_cente
 category: News
 data-ai-hint: data center servers
 publishedDate: '2026-10-29'
-lastUpdated: '2026-10-29'
+lastUpdated: '2026-11-27'
 ---
 
 BitGo and Jupiter launched the Jupiter x BitGo validator on Oct. 28, letting eligible BitGo institutional clients stake SOL directly from their existing custody accounts. In its [announcement](https://www.bitgo.com/resources/blog/bitgo-and-jupiter-enable-institutional-sol-staking-directly-from-regulated-custody/), BitGo said clients can delegate SOL to Jupiter's validator without transferring assets to an external staking provider. The coins stay inside BitGo custody while they earn protocol rewards.

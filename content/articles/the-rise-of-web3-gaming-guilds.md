@@ -9,7 +9,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: people gaming
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 ## Introduction: More Than Just a Clan
 

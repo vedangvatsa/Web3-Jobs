@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Civic_Center,_Manhattan_
 category: News
 data-ai-hint: manhattan civic center courthouses
 publishedDate: '2026-10-07'
-lastUpdated: '2026-10-07'
+lastUpdated: '2026-11-27'
 ---
 
 Cross-border payments company Conduit Technology sued Tether in New York federal court over $2.76 million in USDT that has been frozen for more than a year. The [complaint](https://storage.courtlistener.com/recap/gov.uscourts.nysd.674398/gov.uscourts.nysd.674398.1.0.pdf) was filed Monday in the U.S. District Court for the Southern District of New York, according to three separate Oct. 6 reports on the case.

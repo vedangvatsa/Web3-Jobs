@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: New York Stock Exchange facade
 publishedDate: '2026-10-28'
-lastUpdated: '2026-10-28'
+lastUpdated: '2026-11-27'
 ---
 
 VanEck has launched an actively managed exchange-traded fund that combines stocks, bonds, gold and a targeted slice of bitcoin exposure in a single product. The fund invests in both VanEck and third-party ETFs and trades on the New York Stock Exchange under the ticker WBMO, [Cointelegraph reported](https://cointelegraph.com/news/vaneck-launches-diversified-etf-combining-stocks-bonds-and-bitcoin-exposure).

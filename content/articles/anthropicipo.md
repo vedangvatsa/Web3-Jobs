@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Secretary_of_State_Peter
 category: News
 data-ai-hint: technology office interior visit
 publishedDate: '2026-11-11'
-lastUpdated: '2026-11-11'
+lastUpdated: '2026-11-27'
 ---
 
 Anthropic launched the roadshow for its proposed initial public offering of Class A common stock on November 10. The offering consists of 825,000,000 shares, of which 801,351,354 are offered by Anthropic and 23,648,646 by certain existing stockholders. The initial public offering price is expected between $70.00 and $78.00 per share, and the company has applied to list on the Nasdaq Global Select Market under the symbol ANT, [the company said](https://www.anthropic.com/news/roadshow-launch).

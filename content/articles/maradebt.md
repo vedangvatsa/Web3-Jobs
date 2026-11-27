@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mobile_natural_gas-fired
 category: News
 data-ai-hint: gas power plant industrial
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 MARA Holdings priced a $185 million debt offering on November 17 to help pay for its $1.5 billion purchase of Long Ridge Energy & Power, a company that runs a 485-megawatt natural gas power plant in Ohio. The notes carry an 8.750% coupon and mature in 2032, [the company said in a Form 8-K filed with the Securities and Exchange Commission](https://ir.mara.com/sec-filings/all-sec-filings/content/0000950142-26-003100/eh260856708_8k.htm).

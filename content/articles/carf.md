@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_
 category: News
 data-ai-hint: hong kong harbour skyline
 publishedDate: '2026-11-08'
-lastUpdated: '2026-11-08'
+lastUpdated: '2026-11-27'
 ---
 
 Hong Kong's Legislative Council voted on Wednesday, Nov. 4, to pass a bill writing the OECD's Crypto-Asset Reporting Framework into the city's tax law, the government [said in a statement](https://www.info.gov.hk/gia/general/202611/04/P2026110400310.htm) that day. The measure, formally the Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Bill 2026, gives legal force to a schedule the government laid out in May.

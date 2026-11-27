@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Illinois_State_Capitol_p
 category: News
 data-ai-hint: "Illinois capitol building"
 publishedDate: '2026-11-15'
-lastUpdated: '2026-11-15'
+lastUpdated: '2026-11-27'
 ---
 
 Eighteen crypto groups asked an Illinois court on Nov. 11 for permission to file a brief arguing that the state's Digital Asset Tax Act is unlawful and cannot be enforced as written. The DeFi Education Fund led the request, joined by 17 other organizations and companies that include venture firm Andreessen Horowitz and Uniswap Labs, which contributes to the development of the Uniswap Protocol, according to [Unchained's Nov. 12 report](https://unchainedcrypto.com/18-crypto-firms-seek-to-join-court-fight-over-illinois-0-2-crypto-tax/). The plaintiffs in the consolidated cases do not oppose the request, and the DeFi Education Fund announced it the following day, but Unchained found no court order granting leave as of its report.

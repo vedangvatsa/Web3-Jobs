@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bank_of_Canada_building_
 category: News
 data-ai-hint: central bank building
 publishedDate: '2026-10-27'
-lastUpdated: '2026-10-27'
+lastUpdated: '2026-11-27'
 ---
 
 Canada's Department of Finance published draft stablecoin regulations in the Canada Gazette on October 24, opening a 60-day public consultation that runs until roughly December 23. The [proposed Stablecoin Regulations](https://gazette.gc.ca/rp-pr/p1/2026/2026-10-24/html/reg1-eng.html) would bring the Stablecoin Act, which received royal assent in March 2026, into force and prescribe how issuers register with the Bank of Canada and hold reserves.

@@ -6,6 +6,7 @@ image: /images/articles/global-passports-mobility-vs-cost.png
 category: Career Guides
 data-ai-hint: us citizens state taxes feie foreign earned income exclusion guide
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 For United States citizens and permanent residents (green card holders), location independence comes with a unique legal reality: citizenship-based taxation. 

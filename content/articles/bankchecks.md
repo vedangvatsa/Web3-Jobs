@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Marriner_S._Eccles_Feder
 category: News
 data-ai-hint: federal reserve building facade
 publishedDate: '2026-11-08'
-lastUpdated: '2026-11-08'
+lastUpdated: '2026-11-27'
 ---
 
 Federal Reserve and Office of the Comptroller of the Currency officials contacted banks on Monday, Nov. 2, to ask whether they had seen unusual activity or service disruptions tied to Binance's Oct. 29 security incident, Reuters reported Thursday, citing people familiar with the matter. The inquiries, [as Cointelegraph summarized them](https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks), could be followed by closer attention to how banks manage crypto-related risks such as custody, counterparty exposure and incident response.

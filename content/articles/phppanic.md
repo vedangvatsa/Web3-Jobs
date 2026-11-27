@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Damage_Control_Drills_(2
 category: News
 data-ai-hint: emergency damage control
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 PHP released emergency security patches on Wednesday, Oct. 21, fixing two critical vulnerabilities rated 9.2 out of 10 that allow unauthenticated remote code execution on affected servers, after governments in Europe took websites offline as a precaution and Cloudflare reported attacks hours before the fix shipped.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hut_8_Medicine_Hat_box_1
 category: News
 data-ai-hint: bitcoin mining container
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Luxor, a Bitcoin mining services company, said attackers broke into its Commander fleet-management software and redirected computing power from more than a dozen customer accounts to a different mining pool, a breach the company confirmed on Nov. 15. The intrusion started at about 6:00 PM PDT on Nov. 14, [Crypto Briefing reported](https://cryptobriefing.com/luxor-ceo-warns-ai-cyberattacks-mining-hijack/), and pointed the hashrate of affected accounts to the OCEAN pool, so the machines kept running while the rewards went elsewhere.

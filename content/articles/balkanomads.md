@@ -6,6 +6,7 @@ image: /images/articles/the-nomad-value-index.png
 category: Career Guides
 data-ai-hint: why the balkans top digital nomad region europe analysis
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Over the past five years, the center of gravity for European digital nomads has steadily shifted. While traditional western capitals like London, Paris, and Amsterdam struggle with severe housing crises and soaring living expenses, and Mediterranean hubs like Barcelona and Lisbon face local pushback against overtourism, Southeastern Europe and the Balkan peninsula have emerged as Europe's premier remote work haven.

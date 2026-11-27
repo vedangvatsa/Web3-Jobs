@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NBA_basketball,_Raptors_
 category: News
 data-ai-hint: basketball arena game
 publishedDate: '2026-10-28'
-lastUpdated: '2026-10-28'
+lastUpdated: '2026-11-27'
 ---
 
 The National Basketball Association signed a memorandum of understanding with the Commodity Futures Trading Commission on Oct. 26, joining Major League Baseball and the National Hockey League in a formal data-sharing arrangement with the federal derivatives regulator over prediction markets. The league announced the same day that it had designated Kalshi and Polymarket as its Preferred Prediction Market Exchanges, giving both platforms commercial rights and binding both to integrity obligations on NBA-related contracts.

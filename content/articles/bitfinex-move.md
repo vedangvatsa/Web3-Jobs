@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Department_of_Justi
 category: News
 data-ai-hint: justice department headquarters building
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Wallets linked to the US government moved 12,267 bitcoin, worth about $1.01 billion, on Thursday, Oct. 8, according to data from blockchain intelligence firm Arkham. The coins left a wallet holding funds seized in the 2016 Bitfinex hack and went to new unlabeled addresses, with no exchange deposit recorded, a pattern more consistent with reshuffling than a sale, [as reported Oct. 8](https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated). That version's dek frames the prior day's $383 million at Coinbase Prime as the setup leg for the billion-dollar move.

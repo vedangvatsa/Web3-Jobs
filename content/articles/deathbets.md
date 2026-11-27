@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Capitol%20east%20si
 category: News
 data-ai-hint: capitol building exterior
 publishedDate: '2026-11-21'
-lastUpdated: '2026-11-21'
+lastUpdated: '2026-11-27'
 ---
 
 The US Senate passed the DEATH BETS Act on November 19, 2026, by voice vote, sending the House a bill that would bar exchanges and clearinghouses registered with the Commodity Futures Trading Commission from listing contracts tied to war, terrorism, assassination, US military operations, or events expected to be settled by a person's death. The official engrossed text of [S. 4035](https://www.govinfo.gov/content/pkg/BILLS-119s4035es/html/BILLS-119s4035es.htm) carries the line "Passed the Senate November 19, 2026."

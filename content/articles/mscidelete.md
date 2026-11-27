@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Toronto_Financial_Distri
 category: News
 data-ai-hint: financial district towers
 publishedDate: '2026-11-12'
-lastUpdated: '2026-11-12'
+lastUpdated: '2026-11-27'
 ---
 
 MSCI confirmed that Strategy will be deleted from its global equity indexes, publishing the final list of affected securities in its November index review and setting the changes to take effect after the market close on Nov. 30. The list marks "STRATEGY A" with the action "Deleted," [Cointelegraph reported](https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november).

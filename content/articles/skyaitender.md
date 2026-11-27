@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Stock_Certficate_SKF_191
 category: News
 data-ai-hint: vintage stock certificate
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 SkyAI is out of the Solana treasury business. The company formerly known as Sharps Technology has liquidated its entire SOL position and is offering to buy back up to $201.3 million of its own shares and warrants, according to a [SEC exhibit](https://www.sec.gov/Archives/edgar/data/1737995/000149315226047520/ex99-1.htm) filed Monday and covered by [Cointelegraph](https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback) and [Crypto Briefing](https://cryptobriefing.com/skyai-sells-solana-treasury-initiates-201m-tender-offer/).

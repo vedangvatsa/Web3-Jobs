@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vista%20general%20del%20
 category: News
 data-ai-hint: Moscow Kremlin
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 A number of staff at Russia's Finance Ministry first received wages in digital rubles on Oct. 1, 2026. The ministry [announced](https://minfin.gov.ru/ru/press-center/?id_4=40662-v_minfine_rossii_nachalas_vyplata_zarabotnoi_platy_v_tsifrovykh_rublyakh) the step on Oct. 2, saying employees had opened digital-ruble accounts on the Bank of Russia platform used for budget payments. Cointelegraph [reported](https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time) on Oct. 4 that the payments were the ministry's first payroll run in the central bank digital currency.

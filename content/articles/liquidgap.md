@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Casascius_coin.jpg
 category: News
 data-ai-hint: bitcoin physical coin
 publishedDate: '2026-10-29'
-lastUpdated: '2026-10-29'
+lastUpdated: '2026-11-27'
 ---
 
 A test deposit of 2.53048101 BTC reached the Liquid federation wallet on Oct. 27, leaving the sidechain's bitcoin reserve roughly 600 BTC behind the L-BTC tokens in circulation. After the transfer, the federation wallet held about 3,649 BTC against 4,249 L-BTC, coverage of roughly 85.88%, [Crypto Briefing reported](https://cryptobriefing.com/samson-mow-liquid-600-btc-shortfall/). Samson Mow, CEO of JAN3 and a member of the Liquid Federation, said the remaining shortfall will be filled in the coming days.

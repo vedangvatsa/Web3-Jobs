@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:15_Broad_Street_August_2
 category: News
 data-ai-hint: financial district building facade Manhattan
 publishedDate: '2026-09-20'
-lastUpdated: '2026-09-20'
+lastUpdated: '2026-11-27'
 ---
 
 Polymarket faced an attempted theft of at least $10 million through stolen debit cards on its U.S. platform in February, the Wall Street Journal [reported](https://crypto.news/polymarket-hit-by-alleged-10m-stolen-card-fraud) on Sept. 19. Criminals linked stolen cards to thousands of Polymarket US accounts, funded them and tried to move the money through trading before withdrawing it, [according to the detailed account](https://crypto.news/polymarket-hit-by-alleged-10m-stolen-card-fraud) crypto.news published Sept. 20.

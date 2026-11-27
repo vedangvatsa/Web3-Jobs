@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician_with_laptop_w
 category: News
 data-ai-hint: server rack technician hardware
 publishedDate: '2026-09-17'
-lastUpdated: '2026-09-17'
+lastUpdated: '2026-11-27'
 ---
 
 Ethereum's coming Glamsterdam upgrade kept confirming blocks under new block-building rules this week, clearing a key rehearsal before a proposed Oct. 6 deployment on the Sepolia public test network, [CoinDesk reported](https://www.coindesk.com/tech/2026/09/17/ethereum-s-upcoming-glamsterdam-upgrade-clears-rehearsal-for-a-big-jump-in-capacity). The test network raised its limit on work per block toward 200 million gas as developers prepare for that public test.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Visa_headquarters_-_Augu
 category: News
 data-ai-hint: Visa headquarters building
 publishedDate: '2026-10-23'
-lastUpdated: '2026-10-23'
+lastUpdated: '2026-11-27'
 ---
 
 Fireblocks denied a report that Visa is in late-stage talks to acquire the crypto custody and stablecoin infrastructure company for about $2.5 billion. "We are aware of the rumors about a possible acquisition of Fireblocks by Visa. This is news to us, and not true at present time," a Fireblocks spokesperson said, quoted by [CoinDesk](https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa).

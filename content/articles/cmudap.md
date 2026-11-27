@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong%20Kong%20Monetary%2
 category: News
 data-ai-hint: Hong Kong Monetary Authority headquarters
 publishedDate: '2026-11-25'
-lastUpdated: '2026-11-25'
+lastUpdated: '2026-11-27'
 ---
 
 The Hong Kong Monetary Authority launched the CMU Digital Asset Platform on Nov 25, a distributed-ledger system for issuing, clearing and settling debt securities around the clock. The platform, called CMU DAP, was developed and operated by CMU OmniClear Limited on behalf of the HKMA, the regulator said in its [press release](https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/11/20261125-3/). It runs on the Central Moneymarkets Unit, Hong Kong's central securities depository.

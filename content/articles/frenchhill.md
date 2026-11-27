@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:French_Hill_-_5.5.20.jpg
 category: News
 data-ai-hint: congressman official portrait
 publishedDate: '2026-11-08'
-lastUpdated: '2026-11-08'
+lastUpdated: '2026-11-27'
 ---
 
 Republican French Hill won another term representing Arkansas' 2nd Congressional District, a race the Associated Press called on Thursday, roughly 40 hours after polls closed. With all eight counties reporting, Hill's campaign led by more than 4,000 votes, the congressman said in a statement [KATV published](https://katv.com/news/local/ap-calls-french-hill-winner-in-arkansas-2nd-district-race-edging-chris-jones). The same report put the totals at 127,000 votes for Hill and 123,032 for Democrat Chris Jones.

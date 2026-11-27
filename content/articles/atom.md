@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:An%20actual%20Bitcoin%20
 category: News
 data-ai-hint: hardware wallet device
 publishedDate: '2026-10-16'
-lastUpdated: '2026-10-16'
+lastUpdated: '2026-11-27'
 ---
 
 Ledger unveiled a new touchscreen device called Atom on Oct. 15 at its [Op3n conference in Paris](https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device), pitching it as a device that runs everyday apps while signing crypto transactions inside isolated hardware.

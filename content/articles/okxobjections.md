@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Building92microsoft.jpg
 category: News
 data-ai-hint: New York Stock Exchange building facade
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 OKXICE, the tokenized stock venue planned by crypto exchange OKX and Intercontinental Exchange, said in a public notice dated Oct. 19 that 16 listed companies have objected to having their shares traded on the platform, up from nine four days earlier.

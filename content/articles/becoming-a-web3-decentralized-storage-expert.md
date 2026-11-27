@@ -5,7 +5,7 @@ image: /images/articles/charts/decentralized-storage-matrix.svg
 description: A comprehensive career and technical roadmap for becoming a Web3 decentralized storage expert, examining IPFS, Arweave, Filecoin, erasure coding, and infrastructure engineering.
 category: Career Guides
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 tags:
   - Decentralized Storage
   - Web3 Careers

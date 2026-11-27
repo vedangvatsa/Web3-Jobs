@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_So
 category: News
 data-ai-hint: Paris palace senate facade
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 French senators rejected a proposal on Nov. 24 that would have required taxpayers to declare self-custodied crypto holdings worth at least 100,000 euros (about $109,600) to tax authorities, according to the chamber's [official abridged record](https://www.senat.fr/cra/s20261124/s20261124.pdf) of the sitting. The vote came as the Senate debated the revenue section of France's 2027 budget, and it was one of three crypto tax amendments defeated that day.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptocurrency%20Cachet%
 category: News
 data-ai-hint: Brian Armstrong Coinbase panel 2017
 publishedDate: '2026-10-01'
-lastUpdated: '2026-10-01'
+lastUpdated: '2026-11-27'
 ---
 
 Base activated its Cobalt upgrade on mainnet on Sept. 30, the third network upgrade of 2026 for the Coinbase-incubated Ethereum layer 2. The release brings Validity Transactions for traders and three additions to the chain's B20 token standard, [the Base engineering team wrote](https://blog.base.dev/cobalt).

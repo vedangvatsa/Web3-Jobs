@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_
 category: News
 data-ai-hint: hong kong victoria harbour night skyline
 publishedDate: '2026-09-16'
-lastUpdated: "2026-09-16"
+lastUpdated: '2026-11-27'
 ---
 
 CoinEx, the Hong Kong-founded cryptocurrency exchange, said this week it will cease operations and wind down in stages. The shutdown ends on Dec. 22, 2026, nine years to the day after the exchange went live in December 2017, and users have until that date to withdraw their funds, [CoinEx said in its announcement](https://x.com/coinexcom/article/2099680522758721756).

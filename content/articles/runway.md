@@ -6,6 +6,7 @@ image: /images/articles/the-nomad-value-index.png
 category: Career Guides
 data-ai-hint: startup founder runway cost of living under 1500 chart
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 When bootstrapping a technology startup or transitioning to full-time remote consulting, your most precious asset is runway. Every additional month of operating runway gives you thirty more days to build software, test go-to-market channels, close client contracts, or find product-market fit without taking predatory investment terms.

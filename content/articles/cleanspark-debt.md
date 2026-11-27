@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wikimedia%20Foundation%2
 category: News
 data-ai-hint: rows of servers in data center
 publishedDate: '2026-09-27'
-lastUpdated: '2026-09-27'
+lastUpdated: '2026-11-27'
 ---
 
 CleanSpark closed a $2.276 billion sale of senior secured notes on Sept. 25 to pay for its data center campus in Sandersville, Georgia. The notes carry yearly interest of 7.875 percent and come due in 2031, [the company announced](https://www.morningstar.com/news/pr-newswire/20260925la57369/cleanspark-inc-announces-closing-of-2276-billion-of-senior-secured-notes).

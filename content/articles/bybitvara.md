@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dubai_skyline_unsplash.j
 category: News
 data-ai-hint: Dubai skyline
 publishedDate: '2026-10-26'
-lastUpdated: '2026-10-26'
+lastUpdated: '2026-11-27'
 ---
 
 Bybit Fintech FZE, the exchange's Dubai entity, holds a virtual asset service provider license from Dubai's Virtual Assets Regulatory Authority for exchange services including spot trading, and is permitted to serve retail, qualified and institutional investors, [the regulator's public register shows](https://www.vara.ae/en/licenses-and-register/public-register/bybit-fintech-fze-bybit/). The entry, reference VL/26/10/003, lists the licence as issued on Oct. 20, 2026, with an active status and a registered office at One Central in the Dubai World Trade Centre.

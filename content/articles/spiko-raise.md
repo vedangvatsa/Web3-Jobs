@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Panorama%20La%20D%C3%A9f
 category: News
 data-ai-hint: la defense business district near paris
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Spiko, a Paris startup that puts money market fund shares on public blockchains, closed a $90 million Series B on Oct. 6 led by New Enterprise Associates. Total funding since its 2023 founding now stands at about $120 million, Crypto Briefing reported in Oct. 6 [coverage](https://cryptobriefing.com/spiko-raises-90m-tokenized-cash-funds/).

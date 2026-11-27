@@ -6,6 +6,7 @@ image: /images/articles/where-to-work-cost-vs-speed.png
 category: Career Guides
 data-ai-hint: digital nomad cities cost vs internet speed chart
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 When you work remotely as a software engineer, technical writer, or startup founder, choosing where to live comes down to two numbers: how much money you spend each month, and how fast and stable your internet connection is. 

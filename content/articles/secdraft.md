@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20U.S.
 category: News
 data-ai-hint: government office building facade
 publishedDate: '2026-11-09'
-lastUpdated: '2026-11-09'
+lastUpdated: '2026-11-27'
 ---
 
 The Securities and Exchange Commission has sent a draft rule on crypto assets to the White House regulatory review office, which logged it on Nov. 3. The [federal review record](https://www.reginfo.gov/public/do/eoDetails?rrid=1571318) lists the item as "Amendments to Broker-Dealer Financial Responsibility and Recordkeeping and Reporting Rules Regarding Crypto Assets" at the proposed rule stage, marks it economically significant and shows no legal deadline for action. The Office of Information and Regulatory Affairs sits inside the White House Office of Management and Budget and reviews draft federal rules before they are published. The record flags no impacts under the Affordable Care Act or the Dodd-Frank Act.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Kevin%20Warsh%20webtake.
 category: News
 data-ai-hint: "Federal Reserve chair portrait"
 publishedDate: '2026-11-15'
-lastUpdated: '2026-11-15'
+lastUpdated: '2026-11-27'
 ---
 
 Federal Reserve Chair Kevin Warsh will deliver opening remarks at a San Francisco conference Monday that brings together technology executives, economists and employers to examine how artificial intelligence is changing inflation, productivity and hiring, according to the [San Francisco Fed's event page](https://www.frbsf.org/news-and-media/events/2026/11/productivity-and-jobs-task-force-conference). The conference, hosted by the Federal Reserve Board and the San Francisco Fed, runs from 9:00 a.m. to 12:15 p.m. Pacific at the bank's San Francisco campus, and the public can watch it on a livestream on the same page. In-person attendance is limited and by invitation only.

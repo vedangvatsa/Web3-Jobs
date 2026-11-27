@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Angela_Alsobrooks%2C_Lis
 category: News
 data-ai-hint: senators at Capitol
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Four Democratic senators asked Securities and Exchange Commission Chairman Paul Atkins to explain how anti-money-laundering rules apply to tokenized stock trading, warning that shares bought by verified investors can end up in unverified or offshore wallets. The senators want answers within 30 days, according to the [Nov. 16 press release](https://www.alsobrooks.senate.gov/news/press-releases/alsobrooks-leads-colleagues-in-pushing-sec-for-answers-transparency-on-tokenized-stock-change/) from Senator Angela Alsobrooks' office.

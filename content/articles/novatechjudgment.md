@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Letitia%20James%20at%20M
 category: News
 data-ai-hint: attorney general portrait
 publishedDate: '2026-10-25'
-lastUpdated: '2026-10-25'
+lastUpdated: '2026-11-27'
 ---
 
 New York Attorney General Letitia James's office asked a state court on Thursday to order NovaTech founders Cynthia and Eddy Petion and their companies to pay $1.37 billion over the collapse of the crypto and forex trading platform, according to a [court filing](https://ag.ny.gov/sites/default/files/settlements-agreements/new-york-v-nova-tech-ltd-et-al-affirmation-2026.pdf) and the [attorney general's announcement](https://ag.ny.gov/press-release/2026/attorney-general-james-secures-nearly-6-million-crypto-scammers-who-targeted) the same day.

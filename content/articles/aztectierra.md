@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Spanish%3F%20Artifact%20
 category: News
 data-ai-hint: aztec ruins temple
 publishedDate: '2026-11-06'
-lastUpdated: '2026-11-06'
+lastUpdated: '2026-11-27'
 ---
 
 The Aztec Foundation released Aztec Tierra, an upgrade designated Alpha V6, on Tuesday. The [announcement](https://aztec.network/blog/introducing-aztec-tierra) said the upgrade delivers stronger security, formal verification of the proving system and faster deposits from Ethereum, alongside a new set of private applications and a refreshed website.

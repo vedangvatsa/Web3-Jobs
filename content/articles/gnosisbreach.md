@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_
 category: News
 data-ai-hint: credit card payment terminal
 publishedDate: '2026-11-09'
-lastUpdated: '2026-11-09'
+lastUpdated: '2026-11-27'
 ---
 
 Gnosis Pay disclosed on Nov. 6 that its monitoring systems detected unauthorized access to the system powering its Gnosis Pay-branded consumer cards three days earlier, on Nov. 3, exposing certain customer information. In its [blog post](https://gnosispay.com/blog/data-breach-legacy-system-gnosis-pay-branded-cards), the crypto debit card provider said containment began within two hours of detection, and that it replaced the affected security credentials and addressed the vulnerability.

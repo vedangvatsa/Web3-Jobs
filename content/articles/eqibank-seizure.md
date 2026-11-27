@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Courthouse_%26_Fede
 category: News
 data-ai-hint: federal courthouse building
 publishedDate: '2026-09-26'
-lastUpdated: '2026-09-26'
+lastUpdated: '2026-11-27'
 ---
 
 The US Department of Justice wants to keep $84.2 million that, in its account, moved through accounts used to process payments for Tether. A civil forfeiture complaint filed July 15 in the Eastern District of California before Judge Dale A. Drozd targets Capstone Ltd., a Montana-based payments firm, [Decrypt reported](https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex).

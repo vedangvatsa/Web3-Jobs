@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:2017-12-29_Zooko_Wilcox-
 category: News
 data-ai-hint: speaker at technology conference
 publishedDate: '2026-10-28'
-lastUpdated: '2026-10-28'
+lastUpdated: '2026-11-27'
 ---
 
 Zcash co-founder Sean Bowe has proposed ending the automatic allocation of 8% of newly created ZEC to Zcash Community Grants, arguing the program's treasury is large enough to fund years of spending without further protocol inflows. Bowe published a draft ZIP on Oct. 26 on a branch of the zcash/zips repository.

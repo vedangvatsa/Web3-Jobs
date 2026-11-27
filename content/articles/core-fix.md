@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin%20BTC%20Golden%2
 category: News
 data-ai-hint: golden bitcoin coins
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Bitcoin Core maintainers merged a signing fix into the master branch on Sept. 25, 2026, closing a narrow gap that left some partially signed transactions exposed to output substitution. The change, titled "skip signing SIGHASH_SINGLE inputs with no corresponding output," appears on [the pull request page](https://github.com/bitcoin/bitcoin/pull/35984), which names furszy as author and achow101 as the maintainer who merged it. [Bitcoin Optech flagged the update](https://bitcoinops.org/en/newsletters/2026/10/02/) in newsletter #425, published Oct. 2, and [CryptoSlate described the risk](https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/) in an Oct. 4 report.

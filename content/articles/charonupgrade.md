@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Close-up_of_a_physical_E
 category: News
 data-ai-hint: physical Ethereum coin
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Obol Network shipped Charon v1.11.2 on Oct. 21, an urgent patch for its distributed-validator middleware after intermediate certificates issued by certificate authority eMudhra were found to use weak private keys, [Crypto Briefing reported](https://cryptobriefing.com/obol-charon-upgrade-ca-key-compromise/).

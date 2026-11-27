@@ -8,7 +8,7 @@ imageCaption: "Server racks in a data center. Validators run XRP Ledger servers 
 category: News
 data-ai-hint: server racks data center
 publishedDate: '2026-09-19'
-lastUpdated: '2026-09-19'
+lastUpdated: '2026-11-27'
 ---
 
 The XRP Ledger has entered the final countdown to its next payments upgrade, a rebuilt amendment that would let users settle several linked transactions as a single unit. The activation clock for Batch V1.1 started on Sept. 15 at 14:06:41 UTC, and the change is projected to take effect shortly after the same time on Sept. 29, provided validator support stays at or above 80 percent for the full 14-day window, [CoinDesk reported](https://www.coindesk.com/tech/2026/09/19/ripple-says-asset-managers-are-preparing-for-xrp-ledger-s-next-payments-upgrade).

@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tel_Aviv_Skyline_03.jpg
 category: News
 data-ai-hint: tel aviv skyline
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ogTitle: STARKNET SHIPS FEE OVERHAUL, PRIVACY ENGINE
 ---
 

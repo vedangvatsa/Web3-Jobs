@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:A%20view%20of%20the%20se
 category: News
 data-ai-hint: data center server room
 publishedDate: '2026-11-16'
-lastUpdated: '2026-11-16'
+lastUpdated: '2026-11-27'
 ---
 
 MEGA, the organization behind the Ethereum layer-2 network MegaETH, has cut 20% of its workforce after months of restructuring, days after it adopted the new name and set aside $30 million to build products on its own chain. Co-founder Shuyao Kong [disclosed](https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push) the reduction on Nov. 14, following her Nov. 13 post on X that [crypto.news](https://crypto.news/mega-cuts-20-percent-staff-ai-restructuring) reported the same day.

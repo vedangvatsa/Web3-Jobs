@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Jensen%20huang%20stanfor
 category: News
 data-ai-hint: Jensen Huang portrait
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 Nvidia's board has approached Arm chief executive Rene Haas as a potential successor to Jensen Huang, the Financial Times reported on Friday, while employees inside the chipmaker campaign for the co-founder's return. Haas is one of several people under consideration, people familiar with the matter told the FT, and there is no guarantee he will receive an offer or accept one, [Decrypt reported](https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang) in its account of the story.

@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Rapee%20Sucharitakul%2C%
 category: News
 data-ai-hint: thailand securities exchange commission secretary speech
 publishedDate: '2026-11-09'
-lastUpdated: '2026-11-09'
+lastUpdated: '2026-11-27'
 ---
 
 Thailand's Securities and Exchange Commission filed a criminal complaint on Nov. 5 against BG Limited, the operator of crypto exchange Bitget, alleging it ran an unlicensed digital-asset exchange for Thai users from 2022 to 2025. The regulator also notified the government to block access to the platform from Dec. 5. [Bitcoin Magazine](https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5) reported that the complaint was lodged with the Economic Crime Suppression Division.

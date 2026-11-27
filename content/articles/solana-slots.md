@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician%20with%20lapt
 category: News
 data-ai-hint: server racks data center
 publishedDate: '2026-09-19'
-lastUpdated: '2026-09-19'
+lastUpdated: '2026-11-27'
 ---
 
 Solana cut its target slot time from 300 milliseconds to 250 milliseconds on Sept. 18, making blocks arrive nearly 17 percent faster. Anza, the developer house behind the Agave validator client, confirmed the change was pending on mainnet and scheduled to go live at the epoch 1037 boundary, at about 05:01 UTC on Friday, [Solana Compass wrote](https://solanacompass.com/news/solana-250ms-slot-time-activation-now-pending-on-mainnet-goes-live-at-epoch-1037) on Sept. 16. Decrypt [reported](https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade) the activation on Sept. 19.

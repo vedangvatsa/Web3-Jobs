@@ -6,7 +6,7 @@ image: /images/news/zecetf.jpg
 category: News
 data-ai-hint: dallas skyline
 publishedDate: '2026-11-20'
-lastUpdated: '2026-11-20'
+lastUpdated: '2026-11-27'
 imageCaption: "Downtown Dallas, home of the Texas Stock Exchange, the venue Bitwise named in its Zcash ETF filing. Photo: Gattacal via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Downtown_Dallas_Skyline.jpg
 ---

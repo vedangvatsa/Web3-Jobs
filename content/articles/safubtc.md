@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin%20Medallion%20in
 category: News
 data-ai-hint: bitcoin medallion in wallet
 publishedDate: '2026-11-05'
-lastUpdated: '2026-11-05'
+lastUpdated: '2026-11-27'
 ---
 
 Binance's publicly disclosed emergency wallet held about 7,500 bitcoin on Monday, worth roughly $583 million, after the exchange confirmed a transfer of 7,499 BTC out of the fund on Saturday. The movement was a partial deployment of the Secure Asset Fund for Users, the reserve Binance keeps to absorb customer losses, and it cut the wallet's balance to about half of the close to 15,000 BTC it held beforehand, [Cointelegraph reported](https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear). Binance tapped the reserve to help cover losses from the $6.3 billion hack carried out on Thursday, the largest such theft in cryptocurrency history, which pushed the exchange to suspend withdrawals while it worked to replace what was taken.

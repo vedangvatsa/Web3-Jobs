@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Capitol_east_side.JPG
 category: News
 data-ai-hint: us capitol east front washington dc
 publishedDate: '2026-09-17'
-lastUpdated: '2026-09-17'
+lastUpdated: '2026-11-27'
 ---
 
 The House Financial Services Committee voted 28-21 on Sept. 16, 2026 to report the American Reserve Modernization Act of 2026 to the full House, giving the first full-committee approval to a bill that would write a federal Strategic Bitcoin Reserve into law. [Cointelegraph](https://cointelegraph.com/news/us-bitcoin-reserve-bill-passes-house-committee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound) reported the tally on Sept. 17. [The Crypto Times](https://www.cryptotimes.io/2026/09/17/us-house-passes-strategic-bitcoin-reserve-bill-28-21-with-20-year-lock/) recorded the same 28-21 margin on the motion to report H.R. 8957 as amended.

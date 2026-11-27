@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Mai
 category: News
 data-ai-hint: Frankfurt skyline
 publishedDate: '2026-11-12'
-lastUpdated: '2026-11-12'
+lastUpdated: '2026-11-27'
 ---
 
 Deutsche Bank launched its digital asset custody service on Wednesday for paying institutional and corporate clients in Europe, opening the service after years of preparation and a license under the European Union's Markets in Crypto-Assets regulation. The bank manages wallets and private keys on clients' behalf, [Cointelegraph reported](https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu).

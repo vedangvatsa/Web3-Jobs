@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Panorama_of_United_State
 category: News
 data-ai-hint: supreme court building columns
 publishedDate: '2026-11-17'
-lastUpdated: '2026-11-17'
+lastUpdated: '2026-11-27'
 ---
 
 The U.S. Supreme Court declined on Monday to hear Custodia Bank's appeal over its rejected application for a Federal Reserve master account, ending the Wyoming bank's years-long court fight for direct access to the central bank's payment rails. The docket for No. 26-62, Custodia Bank, Inc. v. Federal Reserve Board of Governors, records "Petition DENIED" on Nov. 16, 2026 after the case was distributed for the court's Nov. 13 conference.

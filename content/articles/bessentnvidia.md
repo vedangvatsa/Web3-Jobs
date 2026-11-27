@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tim_Scott_and_Scott_Bess
 category: News
 data-ai-hint: treasury secretary portrait
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Treasury Secretary Scott Bessent gave Nvidia's board 10 days on Sunday to explain potential export-control failures, putting the chipmaker's handling of alleged diversions of advanced AI chips to China under direct federal scrutiny. The demand, made on Nov. 15, centers on allegations that Nvidia chips reached China through Megaspeed, a company based in Singapore, and the board's response is due within 10 days of that date.

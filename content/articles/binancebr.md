@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sao_Paulo_Stock_Exchange
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-10-28'
-lastUpdated: '2026-10-28'
+lastUpdated: '2026-11-27'
 ---
 
 Binance has applied for a cryptocurrency service provider license in Brazil, seeking to keep operating in one of Latin America's largest crypto markets ahead of a regulatory deadline on Friday, Oct. 30. The exchange submitted its application to the Central Bank of Brazil on Oct. 23 through BBrasil Sociedade Prestadora de Serviços de Ativos Virtuais Ltda., its local entity, according to a statement [shared with Cointelegraph](https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline). The application is pending, and a filing is not an authorization.

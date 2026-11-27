@@ -12,7 +12,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:RichardTeng%20BBW2023%20
 category: News
 data-ai-hint: conference speaker on stage
 publishedDate: '2026-10-31'
-lastUpdated: '2026-10-31'
+lastUpdated: '2026-11-27'
 ---
 
 Binance said on Friday it has reserved more than $6.34 billion in company funds to restore customer balances after attackers stole an estimated $6.3 billion in the largest such theft on record. About $5 billion of that reserve is already held in the exact tokens taken, including USDC, USDT, bitcoin, ether and BNB, CEO Richard Teng said in a [video address](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe), which [Decrypt reported](https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe). The exchange is buying the rest through market and over-the-counter channels, he said.

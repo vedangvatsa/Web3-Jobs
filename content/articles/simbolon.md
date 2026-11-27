@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Frankfurt,_Europaturm_un
 category: News
 data-ai-hint: central bank tower
 publishedDate: '2026-11-17'
-lastUpdated: '2026-11-17'
+lastUpdated: '2026-11-27'
 ---
 
 The Monetary Authority of Singapore (MAS) and the Deutsche Bundesbank said on Monday they have tested payment-versus-payment settlement of euro-Singapore dollar trades using wholesale central bank digital currencies running in separate test environments on either side of the world. The exercise, named Project Simbolon, is the first major milestone under a memorandum of understanding the two central banks signed in November 2025 on tokenization and cross-border settlement, [the announcement](https://www.mas.gov.sg/news/media-releases/2026/mas-and-deutsche-bundesbank-advance-cross-border-digital-asset-settlement-connectivity) said.

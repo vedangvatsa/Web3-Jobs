@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Comptroller_of_the_Curre
 category: News
 data-ai-hint: OCC building sign
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 The Office of the Comptroller of the Currency issued its final rule implementing the GENIUS Act on Wednesday, Oct. 21, setting out the requirements that payment stablecoin issuers under its oversight will have to meet when the law takes effect on Jan. 18, 2027, the banking regulator [announced](https://occ.gov/news-issuances/news-releases/2026/nr-occ-2026-92.html).

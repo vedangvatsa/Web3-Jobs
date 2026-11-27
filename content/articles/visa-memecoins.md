@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:HK_CWB_%E9%8A%85%E9%91%B
 category: News
 data-ai-hint: visa card payment at store counter
 publishedDate: '2026-09-20'
-lastUpdated: '2026-09-20'
+lastUpdated: '2026-11-27'
 ---
 
 Visa is moving to close a checkout loophole that let buyers earn ordinary credit card rewards on meme coin purchases, Eleanor Terrett [reported](https://decrypt.co/378697/visa-close-meme-coin-credit-card-rewards-loophole) in Decrypt on Sept. 20. The workaround ran through Crossmint, a crypto payments infrastructure company, and coded Visa credit card buys of meme coins under a merchant category meant for ordinary digital media.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Server_Rack_with_Spaghet
 category: News
 data-ai-hint: server rack network cables
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 Across Protocol said on Nov. 11 it had taken back control of its across.to website after attackers redirected the domain to a phishing page, and an investigation published by blockchain analytics firm Bitquery put the haul at $401,900 from nine wallets. The cross-chain bridge blamed a social engineering attack on its domain registrar, Namecheap.

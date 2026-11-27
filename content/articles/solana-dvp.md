@@ -6,7 +6,7 @@ image: /images/news/solana-dvp.jpg
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "Traders work on the floor of the New York Stock Exchange. Solana Foundation pitched its new settlement program to similar institutions. Photo: Thomas J. O'Halloran via Wikimedia Commons (Public domain)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY_stock_exchange_traders_floor_LC-U9-10548-6.jpg
 ---

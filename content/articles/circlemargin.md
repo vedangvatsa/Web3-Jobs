@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:United%20States%20one-hu
 category: News
 data-ai-hint: United States dollar banknotes
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Circle issued a breakdown of where its revenue goes, saying it kept about 7 cents of net profit for each dollar earned in the first half of 2026 after paying partners and funding its own operations. Chief Commercial Officer Kash Razzaghi published the figures in an [Oct. 16 blog post](https://www.circle.com/blog/the-economics-of-usdc-and-why-our-partners-win) titled "The Economics of USDC and Why Our Partners Win."

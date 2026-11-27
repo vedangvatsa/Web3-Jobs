@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_
 category: News
 data-ai-hint: royal courts of justice london
 publishedDate: '2026-09-22'
-lastUpdated: '2026-09-22'
+lastUpdated: '2026-11-27'
 ---
 
 X Corp and related entities sued Vivek Kumar Sen, Zamyang Sherpa, and unidentified account operators in the High Court of England and Wales on Sept. 17, 2026, alleging a coordinated network of Bitcoin-focused accounts fraudulently drew creator revenue-sharing payouts. Cointelegraph [reported](https://cointelegraph.com/news/x-lawsuit-bitcoin-accounts-alleged-scheme) Monday that the filing seeks recovery of at least 207,384 British pounds, which the outlet converted to about $278,000, plus expected investigation costs.

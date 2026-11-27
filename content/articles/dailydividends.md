@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Aerial_shot_of_Tysons_Co
 category: News
 data-ai-hint: aerial skyline office district
 publishedDate: '2026-10-29'
-lastUpdated: '2026-10-29'
+lastUpdated: '2026-11-27'
 ---
 
 Strategy shareholders approved amendments on Oct. 28 that let the bitcoin treasury company pay dividends on four preferred stocks every business day, moving off the semi-monthly and quarterly schedules the securities ran on before. The company said preliminary results showed 99.3% of votes cast in favor, and it disclosed the outcome in a [Form 8-K](https://assets.contentstack.io/v3/assets/bltf8d808d9b8cebd37/blt8000bc44efef681a/6ae1cf3c332c2f6a32a5de85/form-8-k_10-28-2026.pdf) filed the same day.

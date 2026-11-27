@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20U.S.
 category: News
 data-ai-hint: sec headquarters facade
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 The Securities and Exchange Commission's Division of Corporation Finance issued a no-action letter to decentralized science platform Molecule AG and its U.S. subsidiary LabsCo, confirming staff will not recommend enforcement action if the company sells utility-focused biopharma Project Tokens without federal securities registration.

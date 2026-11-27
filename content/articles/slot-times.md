@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_cente
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Solana cut its slot time to 200 milliseconds on Oct. 9, the fourth and final step of a rollout that halved block times from 400 milliseconds. The change took effect at epoch 1053, slot 454,896,000, at about 14:35 UTC, according to Solana's [upgrade page](https://solana.com/upgrades/reduced-slot-times).

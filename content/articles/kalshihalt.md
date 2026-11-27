@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Commodity%20Futures
 category: News
 data-ai-hint: CFTC agency offices
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission ordered a temporary halt to Kalshi prediction markets that let traders bet on words or phrases President Donald Trump might say, and the exchange has until Dec. 11 to respond. In a Nov. 13 order, the regulator stayed Kalshi's "What nicknames will Trump say before 2027?" market and its TRUMPSAY contract series, [Cointelegraph reported](https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review). The agency confirmed to the outlet that it had stayed the listing of certain mention markets pending further proceedings, with no final determination yet on whether the contracts comply with federal law.

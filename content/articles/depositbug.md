@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vitalik_Buterin_TechCrun
 category: News
 data-ai-hint: ethereum founder at conference
 publishedDate: '2026-10-28'
-lastUpdated: '2026-10-28'
+lastUpdated: '2026-11-27'
 ---
 
 Ethereum developers merged a fix on Oct. 26 for a flaw in the coming Glamsterdam upgrade that could have let a block builder receive ETH that staking services deposited to start new validators. The change, [pull request 5736](https://github.com/ethereum/consensus-specs/pull/5736) in the ethereum/consensus-specs repository, was authored by researcher avsetsin and merged by specification maintainer Justin Traglia after an initial rejection a week earlier.

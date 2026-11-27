@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Frankfurt_Stock_Exchange
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-11-17'
-lastUpdated: '2026-11-17'
+lastUpdated: '2026-11-27'
 ---
 
 Coinbase and Broadridge published a jointly developed open standard on Nov. 16 that gives digital wallets holding tokenized shares a common format for shareholder notices, and the companies submitted the proposal for review as an Ethereum Improvement Proposal. Broadridge announced a supporting data oracle the same morning, designed to help participating firms show, in aggregate, that notices were distributed.

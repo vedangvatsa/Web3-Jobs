@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Store%20Wuppertal.jpg
 category: News
 data-ai-hint: electronics store interior
 publishedDate: '2026-10-16'
-lastUpdated: '2026-10-16'
+lastUpdated: '2026-11-27'
 ---
 
 Trezor will shrink its authorized reseller network on Jan. 1, 2027, days after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that steals recovery phrases.

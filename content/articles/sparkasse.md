@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Skyline_Frankfurt_am_Mai
 category: News
 data-ai-hint: frankfurt bank skyline
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Germany's largest retail banking network started selling crypto on Monday. Sparkasse savings banks switched on a service called Krypto, powered by Deka, that lets customers buy and sell Bitcoin, Ether, XRP, Solana, and Polygon's POL token from inside the familiar Sparkasse banking app, [Crypto Briefing reported](https://cryptobriefing.com/germanys-sparkasse-bank-begins-crypto-services-rollout-for-50m-customers/) and [crypto.news confirmed](https://crypto.news/sparkassen-crypto-trading-launch/), citing DekaBank's own product page.

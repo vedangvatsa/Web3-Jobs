@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Commodity%20Futures
 category: News
 data-ai-hint: CFTC building Washington DC
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 President Trump sent four nominations to the Senate on Nov. 12 to fill open seats at the Securities and Exchange Commission and the Commodity Futures Trading Commission, agencies whose decisions help shape US cryptocurrency regulation, according to the [White House nominations list](https://www.whitehouse.gov/presidential-actions/2026/11/nominations-sent-to-the-senate-16a6). The slate pairs two Republicans with two Democrats, the first nominations to either agency this administration has made across party lines, Unchained [reported](https://unchainedcrypto.com/trump-nominates-ex-cftc-commissioner-kristin-johnson-and-three-others-to-sec-cftc/).

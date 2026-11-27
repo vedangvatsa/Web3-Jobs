@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Datacenter.jpg
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Ethereum's next major upgrade gets its third public test on Oct. 26. Glamsterdam activates on the Hoodi testnet at 17:42:48 UTC that day, giving node operators a one-week software deadline and pushing the test network's block gas target to 200 million, [CryptoSlate reported](https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/). The date was earlier flagged by WuBlockchain and covered by [Crypto Briefing](https://cryptobriefing.com/ethereum-sets-october-26-for-glamsterdam-upgrade-on-hoodi-testnet/). Hoodi sits between the small developer networks and the big public tests, which makes it a useful place to rehearse client updates before mainnet forks follow.

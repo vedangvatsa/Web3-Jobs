@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seat_of_the_European_Cen
 category: News
 data-ai-hint: european central bank towers frankfurt dawn
 publishedDate: '2026-09-21'
-lastUpdated: '2026-09-21'
+lastUpdated: '2026-11-27'
 ---
 
 The Eurosystem launched Pontes on Sept. 21, a new platform that lets banks settle wholesale tokenised asset trades in central bank money. The European Central Bank announced the go-live in [a press release](https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html) titled "Eurosystem brings central bank money to tokenised finance."

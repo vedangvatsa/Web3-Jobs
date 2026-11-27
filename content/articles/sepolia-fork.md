@@ -6,7 +6,7 @@ image: /images/news/sepolia-fork.jpg
 category: News
 data-ai-hint: small computer server hardware
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "A compact server unit used for testing software. Sepolia gives developers a public network to test the Glamsterdam rules. Photo: https://www.flickr.com/photos/jm3 via Wikimedia Commons (CC BY-SA 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Custom_Miniature_Linux_Server_%282005%29.jpeg
 ---

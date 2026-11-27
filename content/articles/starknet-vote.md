@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Quantum-computer-Chalmer
 category: News
 data-ai-hint: quantum computer hardware
 publishedDate: '2026-10-16'
-lastUpdated: '2026-10-16'
+lastUpdated: '2026-11-27'
 ---
 
 Starknet opened a seven-day poll on Oct. 15 asking STRK holders whether the network should research becoming an independent post-quantum layer 1, a step that would loosen its dependence on Ethereum's upgrade schedule for quantum security.

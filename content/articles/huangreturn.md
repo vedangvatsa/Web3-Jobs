@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Jensen%20huang%20stanfor
 category: News
 data-ai-hint: Jensen Huang portrait
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Nvidia's board of directors is not considering bringing back co-founder Jensen Huang as chief executive, a person familiar with the matter [told CNBC](https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html). The person, who spoke on condition of anonymity to discuss internal matters, said the directors were not discussing a return and remained focused on the investigation the company handed to Wachtell, Lipton, Rosen & Katz. [Cointelegraph reported](https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return) that the chipmaker's shares fell 4.1% on Monday alongside the account, and that ABC News separately confirmed the same no-return position with its own source familiar with the matter.

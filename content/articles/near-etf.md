@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: New York Stock Exchange facade
 publishedDate: '2026-09-29'
-lastUpdated: '2026-09-29'
+lastUpdated: '2026-11-27'
 ---
 
 The United States Securities and Exchange Commission declared the registration statement for the Bitwise NEAR ETF effective on September 24, clearing the key federal step for a spot fund tied to the NEAR Protocol token. Bitwise also filed Form 8-A to register the fund's common shares for listing on NYSE Arca under the ticker NRR, FXStreet [reported](https://www.fxstreet.com/cryptocurrencies/news/near-reclaims-5-as-bitwise-etf-clears-key-regulatory-hurdle-202609260149) on September 26, linking the [SEC effectiveness notice](https://www.sec.gov/Archives/edgar/data/2067111/999999999526003049/xslEFFECTX01/primary_doc.xml) directly.

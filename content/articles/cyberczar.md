@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sanae_Takaichi_and_Lee_J
 category: News
 data-ai-hint: two heads of state walking together
 publishedDate: '2026-11-06'
-lastUpdated: '2026-11-06'
+lastUpdated: '2026-11-27'
 ---
 
 South Korean President Lee Jae Myung has ordered officials to study the creation of a cybersecurity czar agency that would coordinate security work now scattered across the government. The instruction came at a Cabinet meeting in Seoul on Tuesday, days after hackers stole more than $6 billion from Binance and as a run of breaches hit domestic banks, brokerages and exchanges.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Breakfast_table_with_pan
 category: News
 data-ai-hint: stack of pancakes breakfast
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 PancakeSwap's governance vote on a fee-sharing overhaul called The Flip opened Oct. 21 and runs until Oct. 24 at 08:07 UTC. As of Oct. 22, about 98% of the voting weight cast sits against the proposal on [the exchange's voting page](https://pancakeswap.finance/voting/proposal/0x177e9b0ea5955a01ea832dd36cf3ad7bcbbb24c14d6e7e74656b736fc57ce251?chain=bsc), which is served by Snapshot.

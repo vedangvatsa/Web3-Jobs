@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Technician_with_laptop_w
 category: News
 data-ai-hint: server rack technician
 publishedDate: '2026-11-02'
-lastUpdated: '2026-11-02'
+lastUpdated: '2026-11-27'
 ---
 
 Anza, the team that maintains Solana's Agave validator client, told mainnet-beta validators on Nov. 1 to act on a critical Linux kernel vulnerability, warning operators running Ubuntu to restrict incoming connections and disable two networking features while a corrected kernel is pending. [TokenPost reported](https://www.tokenpost.com/news/technology/46026) the alert, published Nov. 1 at 7:26 p.m. EST, and said it calls for those temporary changes on Ubuntu machines used by Solana validators.

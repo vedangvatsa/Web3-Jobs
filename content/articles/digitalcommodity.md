@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade_of_the_U.S._Secur
 category: News
 data-ai-hint: SEC headquarters building
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Six blockchain organizations filed a joint comment letter dated Oct. 20 asking the U.S. Securities and Exchange Commission to write its digital commodity classification into the operative text of the proposed Regulation Crypto Assets rule, rather than leave the definition only in interpretive guidance that can be revised more easily.

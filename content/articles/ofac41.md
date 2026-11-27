@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg
 category: News
 data-ai-hint: treasury department building facade
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 The U.S. Treasury sanctioned four individuals and 41 entities on Nov. 5 that it says sustained Prince Group's transnational criminal organization after earlier designations hit its leadership. The action, [published by the Office of Foreign Assets Control](https://home.treasury.gov/news/press-releases/sb0683), targets the offshore corporate scaffolding that the department believes let the group keep moving money.

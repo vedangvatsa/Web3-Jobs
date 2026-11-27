@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:400-oz-Gold-Bars-AB-01.j
 category: News
 data-ai-hint: gold bullion bars
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 Tether said on Nov. 12 that KPMG's U.S. firm completed an independent audit of TG Commodities, the company that issues its gold-backed token Tether Gold (XAUT), and issued an unqualified opinion on the financial statements for the year ended Dec. 31, 2025. The [announcement](https://tether.io/news/tether-gold-xaut-becomes-tethers-second-stablecoin-to-complete-a-big-four-audit/) said the audited statements show the token fully backed by allocated physical gold.

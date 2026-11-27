@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:CFTC_headquarters,_Lafay
 category: News
 data-ai-hint: cftc headquarters facade
 publishedDate: '2026-11-08'
-lastUpdated: '2026-11-08'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission told US futures exchanges on Nov. 5 that they must stop sorting traders by where they live inside the United States, giving them 30 days to remove those limits or put their reasons for keeping them on the record. The agency [issued an interpretation](https://www.cftc.gov/PressRoom/PressReleases/9323-26) of Commission Regulation 38.151(b), the impartial access requirement that obliges designated contract markets to provide competitive, open, fair, and impartial access to their members and persons with trading privileges.

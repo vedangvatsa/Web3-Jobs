@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Times%20Square%20Ball%20
 category: News
 data-ai-hint: times square new york city
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Rep. Don Davis of North Carolina on Monday introduced a bill that would bar federal candidates from trading prediction-market contracts on their own elections. The No Betting on Your Own Race Act would make each trade a civil offense carrying a fine of $10,000, or three times any profit, whichever is greater, according to the [press release](https://dondavis.house.gov/media/press-releases/congressman-don-davis-introduces-bill-ban-federal-candidates-betting-their-own) from Davis's office.

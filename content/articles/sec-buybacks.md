@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_Vi
 category: News
 data-ai-hint: U.S. Capitol building
 publishedDate: '2026-09-26'
-lastUpdated: '2026-09-26'
+lastUpdated: '2026-11-27'
 ---
 
 Staff at the Securities and Exchange Commission gave crypto teams an answer on September 25 to a question that had hung over a growing tactic: whether announcing a token buyback risks turning the token into a security. Where a crypto system already works, the Division of Corporation Finance wrote in new [FAQs](https://unchainedcrypto.com/sec-staff-clear-token-buybacks-on-working-networks-with-a-warning-for-unfinished-ones/), an issuer's announcement of a buyback of a non-security crypto asset "would not constitute a representation or promise to undertake essential managerial efforts."

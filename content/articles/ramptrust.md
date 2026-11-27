@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg
 category: News
 data-ai-hint: treasury building columns
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Ramp wants a federal charter for the parts of its business that touch assets directly. The corporate payments and fintech company said Monday it applied to the Office of the Comptroller of the Currency on Oct. 16 to establish Ramp National Trust Bank, an entity that would offer fiduciary investment management and custody of digital assets under one federal framework.

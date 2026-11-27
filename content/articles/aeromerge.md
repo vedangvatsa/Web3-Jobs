@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_cente
 category: News
 data-ai-hint: data center servers
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Aerodrome and Velodrome upgraded together into Aero on Oct. 21 at 8:00 p.m. EDT, forming a single decentralized exchange that went live across seven networks: Ethereum mainnet, Base, Arbitrum, OP Mainnet, Ink, Arc and Robinhood Chain, according to [CoinMarketCap](https://coinmarketcap.com/academy/article/aerodrome-velodrome-merge-aero), which cited Dromos Labs, the exchange's core development company. [The project's launch hub](https://aero.xyz/aero-upgrade/) set the same timeline.

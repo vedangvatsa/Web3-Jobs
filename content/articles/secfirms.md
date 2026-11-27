@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade_of_the_U.S._Secur
 category: News
 data-ai-hint: sec headquarters facade
 publishedDate: '2026-11-22'
-lastUpdated: '2026-11-22'
+lastUpdated: '2026-11-27'
 ---
 
 The Securities and Exchange Commission charged eight Colorado-based entities on November 19, 2026 with defrauding US investors out of more than $37 million through fake investment advisers and fake crypto asset trading platforms that the agency said were "simply fronts to steal investor money." The [SEC press release](https://www.sec.gov/newsroom/press-releases/2026-115-sec-eight-entities-used-fake-crypto-asset-trading-platforms-steal-more-37-million-us-investors) says the defendants are likely operated by individuals located overseas.

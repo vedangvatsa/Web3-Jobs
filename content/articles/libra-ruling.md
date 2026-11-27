@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Milei%20Casa%20Rosada%20
 category: News
 data-ai-hint: Javier Milei at the Casa Rosada
 publishedDate: '2026-10-04'
-lastUpdated: '2026-10-04'
+lastUpdated: '2026-11-27'
 ---
 
 A federal judge has dismissed the class action over the LIBRA and M3M3 memecoin launches, closing the case with prejudice after rejecting the plaintiffs' request to amend their complaint again. Judge Jennifer L. Rochon of the Southern District of New York granted the defendants' dismissal motions on Sept. 29 in Hurlock v. Kelsier Ventures, No. 1:25-cv-03891, and directed the clerk to close the case, [CryptoSlate reported](https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/) on Oct. 3. CryptoAdventure [published the same case number and date](https://cryptoadventure.com/judge-dismisses-libra-and-m3m3-memecoin-lawsuit-with-prejudice/) on Oct. 1.

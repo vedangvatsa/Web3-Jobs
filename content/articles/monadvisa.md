@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Credit_card_terminal_in_
 category: News
 data-ai-hint: credit card payment terminal
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 Participating Visa issuers and acquirers can now settle obligations in stablecoins on Monad, the [Monad Foundation announced on Nov. 10](https://monad.xyz/newsroom/press-releases/visa-stablecoin-settlement-monad), adding a new network option to the payment network's stablecoin settlement program.

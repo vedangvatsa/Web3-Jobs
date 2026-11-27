@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol%20Building%20Ful
 category: News
 data-ai-hint: United States Capitol full view
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 The Treasury Department's Office of Foreign Assets Control on Oct. 2 designated five Hamas-linked targets accused of running a multi-year financing scheme through sham charities and crypto transfers, the department said in its [press release](https://home.treasury.gov/news/press-releases/sb0647). The action names two France-based fundraisers, two associated entities and one Gaza-based Hamas operative. CryptoSlate [reported](https://cryptoslate.com/us-expands-hamas-sanctions-after-tracing-crypto-transfers-from-france/) that the designations expand the screening list for exchanges and payment firms subject to US rules.

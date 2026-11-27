@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Moscow_International_Bus
 category: News
 data-ai-hint: moscow city towers
 publishedDate: '2026-11-06'
-lastUpdated: '2026-11-06'
+lastUpdated: '2026-11-27'
 ---
 
 Moscow Exchange plans to open Russia's first organized digital currency market on Dec. 1, starting with bitcoin, ether and Tether's USDT. The exchange [announced the date](https://www.moex.com/n105654) in a press release on Monday, saying pilot trades will begin as financial market participants connect to the new venue one by one.

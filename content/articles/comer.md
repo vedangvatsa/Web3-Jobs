@@ -12,7 +12,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:2025_James_Comer_(croppe
 category: News
 data-ai-hint: congressman speaking podium
 publishedDate: '2026-10-31'
-lastUpdated: '2026-10-31'
+lastUpdated: '2026-11-27'
 ---
 
 Rep. James Comer, chair of the House Committee on Oversight and Government Reform, has opened an investigation into Delaware's plan to create a corporate entity run by an artificial intelligence agent, asking Gov. Matt Meyer's administration for documents and communications by Nov. 9. Comer, R-Ky., sent the letter Oct. 26, the committee said, and [Decrypt reported](https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies) on the inquiry.

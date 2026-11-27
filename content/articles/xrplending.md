@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Legal_Contract_%26_Signa
 category: News
 data-ai-hint: signed loan contract
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 The XRP Ledger is fixing a feature that has not launched yet. A package of bug fixes is scheduled to take effect around 09:34 UTC on Friday, Oct. 23, after securing the 29 validator votes required for approval, [CoinDesk reported](https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it). Among the targets: the design of Ripple's proposed uncollateralized lending system, which is still waiting in the amendment queue and has never processed a loan.

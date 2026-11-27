@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:American_Fork_Police_Dep
 category: News
 data-ai-hint: Utah courthouse building
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Utah Attorney General Derek Brown announced a lawsuit on Oct. 20 against KalshiEX, Kalshi Trading and two Susquehanna International Group entities, alleging that the prediction market has run illegal betting in the state since 2024. The civil complaint was filed in Utah's Third District Court. Brown said at a Tuesday press briefing that Utah officials petitioned the court to compel the companies to return about $30 million to $60 million in profits from allegedly illegal event contracts.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Commodities_futures_trad
 category: News
 data-ai-hint: commodities futures trading floor
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Grvt, a hybrid exchange running on its own ZKsync-based Ethereum layer 2, launched Stable Funding Perps on Nov. 17, 2026. The new perpetual contracts open with seven commodity markets and set funding from what market makers pay to finance positions in traditional markets rather than from the gap between the perp price and an index.

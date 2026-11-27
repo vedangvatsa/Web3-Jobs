@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitget_event_(1).jpg
 category: News
 data-ai-hint: Bitget exchange exhibition stand
 publishedDate: '2026-09-24'
-lastUpdated: '2026-09-24'
+lastUpdated: '2026-11-27'
 ---
 
 Bitget confirmed on September 24 that unauthorized transfers affected approximately $351.6 million in assets and said it had temporarily suspended withdrawals. In its [official security notice](https://x.com/bitget/status/2103236552482848927), the exchange said its systems detected the transfers at 18:31 UTC and that the incident involved a limited number of hot wallets.

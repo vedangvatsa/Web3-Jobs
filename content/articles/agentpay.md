@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:2000PurchaseSt-USGS.jpg
 category: News
 data-ai-hint: payment card terminal desk
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Mastercard opened early access on Oct. 20 to Agent Pay for Machines, a payments service that lets autonomous software agents buy data, models and computing power inside spending limits set by a business. The company demonstrated the system at Cloudflare's Connect conference, where chief product officer Jorn Lambert showed an agent running a marketing campaign across nine payments to two merchants on a single approved budget.

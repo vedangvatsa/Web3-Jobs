@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Representation_Europeenn
 category: News
 data-ai-hint: European Commission office flags
 publishedDate: '2026-09-24'
-lastUpdated: '2026-09-24'
+lastUpdated: '2026-11-27'
 ---
 
 The European Banking Authority on September 24 recommended bringing crypto-asset lending into the scope of EU regulation, including services that give customers access to decentralized lending protocols. The recommendation forms part of the authority's [response to the European Commission's review of the Markets in Crypto-Assets Regulation](https://www.eba.europa.eu/publications-and-media/press-releases/eba-identifies-priorities-review-mica), known as MiCA.

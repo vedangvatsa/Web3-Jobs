@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Kalshi Prime customers can now borrow against bitcoin, ether and eligible stablecoins to fund margin positions on the exchange's perpetual futures, according to reporting by [Bitcoin Magazine](https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives) and a separate write-up by [iCoin Market](https://icoinmarket.com/nfts/kalshi-and-bitgo-launch-btc-and-eth-backed-loans-for-futures/).

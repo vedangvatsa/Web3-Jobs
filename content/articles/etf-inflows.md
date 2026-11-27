@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin%20BTC%20Golden%2
 category: News
 data-ai-hint: physical bitcoin coins close up
 publishedDate: '2026-09-22'
-lastUpdated: '2026-09-22'
+lastUpdated: '2026-11-27'
 ---
 
 United States-listed spot bitcoin ETFs pulled in a net 998.95 million dollars on Monday, Sept. 21, their largest single-day haul since Oct. 6, 2025 and the ninth-largest since the funds began trading in January 2024, CoinDesk [reported](https://www.coindesk.com/markets/2026/09/22/spot-bitcoin-etfs-attracted-nearly-usd1-billion-on-monday-the-9th-largest-inflow-ever), citing SoSoValue data. The intake beat the previous 2026 best of 844 million dollars set on Jan. 14. Cointelegraph [put](https://cointelegraph.com/markets/bitcoin-etf-biggest-inflow-october-2025) the same Monday total at 998.9 million dollars, also citing SoSoValue, and called it the biggest daily figure of the year.

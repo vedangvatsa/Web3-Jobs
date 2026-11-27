@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_cente
 category: News
 data-ai-hint: server racks data center
 publishedDate: '2026-10-03'
-lastUpdated: '2026-10-03'
+lastUpdated: '2026-11-27'
 ---
 
 Blast, an Ethereum layer 2 network built by Blur founder Tieshun Roquerre, said on Oct. 2, 2026 that it will shut down because running the chain costs more than it earns. The team published the decision in a [post on X](https://x.com/blast/status/2106032805280891073), writing that it sees no credible path to making the network economically sustainable. The shutdown ends a run that once placed Blast among the largest layer 2 networks by deposits.

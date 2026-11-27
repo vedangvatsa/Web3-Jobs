@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:White%20House%20lawn.jpg
 category: News
 data-ai-hint: white house lawn washington dc
 publishedDate: '2026-09-18'
-lastUpdated: '2026-09-19'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission sent a crypto market rulemaking to the White House for review this week, opening a federal review step days after the Senate refused to advance market structure legislation. The Block [reported](https://www.theblock.co/news/regulation/2026-09-18-cftc-files-crypto-asset-rulemaking-with-white-house-pressing-ahead-without-congress-415510) on Sept. 18 that the agency filed an action titled "Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets" with the Office of Information and Regulatory Affairs, the White House office that examines agency rules before publication.

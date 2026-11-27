@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Nasdaq_MarketSite_(51494
 category: News
 data-ai-hint: nasdaq market site tower
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Super League Enterprise stockholders approved every proposal tied to Metaplanet's bitcoin investment at the company's annual meeting on Friday, the company disclosed Monday morning. The vote clears the path for the Nasdaq-listed gaming and media firm to take 2,100 bitcoin and $2.5 million from the Japanese treasury company, rename itself Superplanet, and trade under the ticker SUPA.

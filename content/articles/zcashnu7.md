@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Datacenter_Server_Racks_
 category: News
 data-ai-hint: server racks data center
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Zcash developers fixed the mainnet activation height for the NU7 upgrade at block 3,543,405, expected around Nov. 5, and merged the change into the protocol's ZIP repository on Oct. 21. [The pull request](https://github.com/zcash/zips/pull/1405), filed by developer Sean Bowe after a ZIP editor meeting, shows as merged with the height set in ZIP 259.

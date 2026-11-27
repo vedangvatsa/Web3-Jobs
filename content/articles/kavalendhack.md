@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seoul_Tower_View.jpg
 category: News
 data-ai-hint: Seoul tower city view
 publishedDate: '2026-11-15'
-lastUpdated: '2026-11-15'
+lastUpdated: '2026-11-27'
 ---
 
 Kava's KAVA token lost about 40% of its value on Nov. 14 after attackers drained its Kava Lend borrowing protocol, and South Korea's three largest crypto exchanges froze transfers of the coin. Upbit, Bithumb and Coinone suspended KAVA deposits and withdrawals while assessing the situation, [Crypto Briefing reported](https://cryptobriefing.com/kava-token-incident-bridge-shutdown/). Upbit issued a caution notice and put the token on its delisting watchlist; Bithumb and Coinone halted transfers as a precaution.

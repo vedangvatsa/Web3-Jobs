@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Argo%20Blockchain%20Mira
 category: News
 data-ai-hint: bitcoin mining facility hardware
 publishedDate: '2026-11-24'
-lastUpdated: '2026-11-24'
+lastUpdated: '2026-11-27'
 ---
 
 A lone Bitcoin miner solved block 977057 on Nov. 22, collecting a reward of 3.1287 BTC, or about $191,000, from a machine contributing roughly one-millionth of a percent of the network's computing power. The block was found through the Solo CKPool service at about 7:54 a.m. ET, [Bitcoin Magazine reported](https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward).

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Conde%20Nast%20Building,
 category: News
 data-ai-hint: times square skyscraper at night
 publishedDate: '2026-11-07'
-lastUpdated: '2026-11-07'
+lastUpdated: '2026-11-27'
 ---
 
 Canton Strategic Holdings, Inc. (NASDAQ: CNTN) said on Nov. 4 that it had completed the first trades of its issuer-sponsored tokenized common stock on TSV LLC, a permissioned venue for tokenized National Market System stocks on the Canton Network. The company called them the first trades of their kind under the [SEC's Innovation Exemption](https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment), the conditional relief the commission issued on Sept. 17 for venues trading tokenized U.S. stocks through permissioned automated market maker pools.

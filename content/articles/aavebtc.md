@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Close-up_of_a_physical_E
 category: News
 data-ai-hint: physical ethereum coin closeup
 publishedDate: '2026-10-30'
-lastUpdated: '2026-10-30'
+lastUpdated: '2026-11-27'
 ---
 
 Aave raised borrowing limits for bitcoin- and ether-linked collateral across its V3 and V4 markets on Oct. 28, lifting the maximum loan-to-value ratio for WBTC and cbBTC on the V3 Ethereum Core market to 81% from 73%. The changes took effect through governance proposal 536, authored by risk provider LlamaRisk and implemented by Aave Labs, [according to a Defiant report carried by KuCoin](https://www.kucoin.com/news/flash/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-on-v3-and-v4).

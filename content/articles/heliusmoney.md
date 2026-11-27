@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wikimedia%20Foundation%2
 category: News
 data-ai-hint: data center servers
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 Decrypt has partnered with Solana infrastructure company Helius to add confidential transfers to the Decrypt Money Account, using Helius' Solana Privacy Rings system, the two companies said on Nov. 10. Users of the account will be able to send funds without the amounts showing on Solana's public ledger.

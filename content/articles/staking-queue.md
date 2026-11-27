@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:A%20view%20of%20the%20se
 category: News
 data-ai-hint: server room rows
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Ethereum validator queues reached their longest waits of 2026 on Oct. 5 snapshots, with the exit and entry lines moving for different reasons. About 786,000 ETH, worth just over 2 billion dollars, waited to leave staking with an estimated delay near 14 days, while about 1.5 million ETH, worth roughly 4 billion dollars, waited to start staking with an estimated delay near 25 days, CoinDesk reported in its Oct. 5 [analysis](https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line).

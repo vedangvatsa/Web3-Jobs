@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hut_8_Medicine_Hat_box_1
 category: News
 data-ai-hint: bitcoin mining facility
 publishedDate: '2026-11-02'
-lastUpdated: '2026-11-02'
+lastUpdated: '2026-11-27'
 ---
 
 An attacker drained about 97 million CORE, worth 1.47 million dollars, from b14g, a Bitcoin staking app on the Core chain, on Saturday, Oct. 31, by sending the protocol withdrawal requests for zero tokens that Core's staking code read as a demand for everything, Bitquery's [on-chain investigation](https://bitquery.io/investigations/b14g-hack) found. The single transaction emptied 91 staking positions at 09:29:51 UTC.

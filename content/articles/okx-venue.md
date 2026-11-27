@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exc
 category: News
 data-ai-hint: new york stock exchange facade
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 OKXICE LLC, the 50-50 venture of crypto exchange OKX and New York Stock Exchange parent Intercontinental Exchange, published a notice dated Oct. 4 saying it intends to launch a 24-7 Tokenized Securities Venue under the SEC Innovation Exemption. Co-chair Andrew Cuomo announced the filing on X on Oct. 5, calling it a landmark step toward round-the-clock trading, Decrypt reported in its Oct. 5 [coverage](https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption).

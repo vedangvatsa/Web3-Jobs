@@ -6,7 +6,7 @@ image: /images/news/binanceorder.jpg
 category: News
 data-ai-hint: abu dhabi skyline
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 imageCaption: "The Abu Dhabi skyline. The Abu Dhabi Global Market courts issued the order Binance disclosed. Photo: Wadiia via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Abu_dhabi_skylines_2014.jpg
 ---

@@ -6,7 +6,7 @@ image: /images/news/hashsmash.jpg
 category: News
 data-ai-hint: computer microprocessor chip closeup
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "A close view of a microprocessor. HashSmash invites AI agents to study attacks on widely used hash functions. Photo: Mister rf via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:A80386DX-25_SX218.jpg
 ---

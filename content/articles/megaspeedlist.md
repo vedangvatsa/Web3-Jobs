@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:United_States_Department
 category: News
 data-ai-hint: Washington government building facade
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 The US Commerce Department's Bureau of Industry and Security added Megaspeed International and six affiliated companies to the Entity List on Nov. 23, restricting their access to American technology amid an investigation into suspected diversion of advanced AI chips to China. The [final rule](https://public-inspection.federalregister.gov/2026-23999.pdf), filed Monday afternoon and scheduled for Federal Register publication on Nov. 25, names seven businesses across Singapore, Malaysia and Thailand.

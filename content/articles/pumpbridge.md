@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vasco%20da%20Gama%20Brid
 category: News
 data-ai-hint: bridge over water
 publishedDate: '2026-10-25'
-lastUpdated: '2026-10-25'
+lastUpdated: '2026-11-27'
 ---
 
 Pump.fun switched its app to an in-house crosschain router on Oct. 21, making Pump Bridge the default path for trades that cross chains and dropping Relay, the outside provider it had used since adding swaps in May. [Crypto Briefing](https://cryptobriefing.com/pumpfun-pump-bridge-replaces-relay/) reported the change the same day, and Pump.fun's own test data put buys through the new route at about twice the speed with 92% fewer errors.

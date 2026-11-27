@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: coinbase headquarters sign
 publishedDate: '2026-09-22'
-lastUpdated: '2026-09-22'
+lastUpdated: '2026-11-27'
 ---
 
 Coinbase said Monday that eligible US retail customers can request allocations in Oura Inc.'s initial public offering before the wearable maker's shares begin trading on Nasdaq. The exchange [announced](https://www.coinbase.com/blog/ipo-access) the IPO Access program in a Sept. 21 post and opened the first deal with Oura's offering the same week.

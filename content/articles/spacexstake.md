@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:CZ_at_Vietnam_NFT_Summit
 category: News
 data-ai-hint: conference speaker on stage
 publishedDate: '2026-10-31'
-lastUpdated: '2026-10-31'
+lastUpdated: '2026-11-27'
 ---
 
 Changpeng Zhao asked Elon Musk to stop joking about the $6.3 billion Binance hack on Friday, pointing to the exchange's stake in Musk's own empire as a reason for support. "Elon, have a lot of respect for you, but bad time to troll. Please stop," [Zhao wrote on X](https://news.bitcoin.com/featured/cz-tells-elon-musk-stop-trolling-6-3b-binance-hack-binance-spacex/).

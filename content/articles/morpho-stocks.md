@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exc
 category: News
 data-ai-hint: new york stock exchange lower manhattan
 publishedDate: '2026-09-19'
-lastUpdated: '2026-09-19'
+lastUpdated: '2026-11-27'
 ---
 
 Decentralized lending protocol [Morpho](https://morpho.org/) deployed isolated lending markets on the [Base](https://base.org/) network that enable investors to borrow USDC against tokenized representations of major corporate equities. The newly activated pools accept tokenized shares of Apple, Alphabet, Nvidia, Meta Platforms, and SpaceX issued through Coinbase, allowing holders in self-custodial wallets to draw dollar liquidity without liquidating underlying stock positions.

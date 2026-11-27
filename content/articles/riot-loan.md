@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cell%20BiXBiT.jpg
 category: News
 data-ai-hint: bitcoin mining hardware in cooling cell
 publishedDate: '2026-09-28'
-lastUpdated: '2026-09-28'
+lastUpdated: '2026-11-27'
 ---
 
 Riot Platforms (NASDAQ: RIOT) has repaid a $200 million credit facility from Coinbase Credit in full, releasing the collateral that secured it. The bitcoin miner and data-center developer completed the voluntary repayment of all outstanding principal and accrued interest on Monday, September 21, and disclosed it in a [filing](https://www.sec.gov/Archives/edgar/data/1167419/000110465926111003/riot-20260921x8k.htm) with the US Securities and Exchange Commission on Friday, September 25, as [Cointelegraph reported](https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral).

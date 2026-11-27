@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:HK%20Kwun%20Tong%20223%2
 category: News
 data-ai-hint: hong kong office towers
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 The Hong Kong Monetary Authority said on Nov. 16, 2026, that it had deepened its collaboration with Swift to explore cross-border payments that use tokenized bank deposits. The work will examine links between Swift's blockchain-based ledger and the settlement layer of Project Ensemble, the HKMA's tokenization initiative for wholesale payments.

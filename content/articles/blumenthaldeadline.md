@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Senator%20Richard%20Blum
 category: News
 data-ai-hint: two senators standing together
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 Senator Richard Blumenthal gave Binance, Tether and two Trump-linked crypto firms until Jan. 4, 2027, to hand over records sought in Senate inquiries, warning that the subcommittee would look for other ways to obtain them if the companies stay quiet.

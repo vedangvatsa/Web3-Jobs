@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:A_view_of_the_server_roo
 category: News
 data-ai-hint: server room racks
 publishedDate: '2026-11-23'
-lastUpdated: '2026-11-23'
+lastUpdated: '2026-11-27'
 ---
 
 XMR1, a wrapped Monero token issued by the cross-chain service Wagyu and traded on Hyperliquid, lost more than 99% of its value on Nov. 20 after a wallet linked to the token's deployer sold about $13.5 million of the asset. [Cointelegraph reported](https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit) that the token fell from roughly $500 to $1 in about 30 minutes, a 99.8% decline, citing blockchain analytics firm Bitquery.

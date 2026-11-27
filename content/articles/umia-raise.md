@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Close-up%20of%20a%20phys
 category: News
 data-ai-hint: close-up of physical ethereum coin
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Umia, a platform for launching and governing token-native projects, said on Oct. 5 it raised $6 million by auctioning its own UMIA token on Base. Ten funds and nearly 700 individual bidders took part in the seven-day sale, with Galaxy Ventures, DCG and Draper Associates among the funds, in the company [announcement](https://chainwire.org/2026/10/05/umia-raises-6-million-to-build-the-onchain-formation-platform-for-token-native-projects-joined-by-galaxy-ventures-dcg-and-draper-associates/).

@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Keishicho.jpg
 category: News
 data-ai-hint: tokyo police headquarters building
 publishedDate: '2026-09-21'
-lastUpdated: '2026-09-21'
+lastUpdated: '2026-11-27'
 ---
 
 Police and intelligence agencies in Japan, the United States, Australia and Germany say a North Korean hacking crew stole at least $10.7 million in cryptocurrency by posing as recruiters and infecting job seekers' computers with malware. The joint cybersecurity advisory, published Sept. 18, names the actor WaterPlum and puts the damage at more than 30,000 compromised devices across 100-plus countries. BleepingComputer [reported](https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/) the figures Sept. 19, citing the multi-agency notice.

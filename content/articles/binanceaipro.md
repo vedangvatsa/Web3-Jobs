@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Backlit_keyboard.jpg
 category: News
 data-ai-hint: backlit keyboard typing
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Binance took the training wheels off its AI strategy product Monday. AI Pro, a no-code agent that turns plain-language trading ideas into automated strategies, is now available to all Binance users with a free tier attached, the exchange announced in a blog post covered by [Unchained](https://unchainedcrypto.com/binance-lets-all-users-run-ai-built-trading-strategies-following-successful-beta/) and [CryptoSlate](https://cryptoslate.com/binance-opens-free-ai-trading-yet-user-liability-remains-100/). The paid beta that ran from March 25 continues for existing subscribers, who keep their current terms.

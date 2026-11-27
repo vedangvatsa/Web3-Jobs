@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg
 category: News
 data-ai-hint: us treasury building washington
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 The Financial Crimes Enforcement Network said on Oct. 5 it is withdrawing two proposed crypto rules covering convertible virtual currencies, ending a fight that began in the final weeks of President Trump's first term. The [announcement](https://www.fincen.gov/news/news-releases/fincen-announces-withdrawals-proposed-digital-asset-related-rules) pulls a December 2020 proposal on transactions with self-custodied wallets and a 2023 proposal that would have treated crypto mixing as a top-tier money-laundering risk.

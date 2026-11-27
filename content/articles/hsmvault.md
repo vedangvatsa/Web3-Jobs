@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Adam_Back_2014.jpg
 category: News
 data-ai-hint: portrait of technology founder
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 Blockstream launched an institutional Bitcoin custody product on Friday built with French technology group Thales, pairing Thales hardware security modules with Blockstream's Secure-MPC signing so that transaction approval happens inside dedicated security hardware. The combination lets institutions authorize transactions while keeping sensitive cryptographic operations inside the hardware, according to the company. Blockstream announced the product on Nov. 13, the same day it walked through the architecture at the Digital Assets Forum in New York, according to [Crypto Briefing](https://cryptobriefing.com/blockstream-thales-bitcoin-custody-offline-security/).

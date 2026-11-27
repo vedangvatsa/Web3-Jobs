@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20U.S.
 category: News
 data-ai-hint: SEC headquarters facade Washington
 publishedDate: '2026-09-27'
-lastUpdated: '2026-09-27'
+lastUpdated: '2026-11-27'
 ---
 
 SEC Commissioner Hester Peirce has submitted her formal resignation, effective Oct. 2, ending about eight years on the commission including a stint leading its Crypto Task Force. She posted a copy of the resignation letter on her X account Friday, [Cointelegraph reported](https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2).

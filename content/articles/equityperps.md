@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Daniel_Patrick_Moynihan_
 category: News
 data-ai-hint: federal courthouse exterior
 publishedDate: '2026-11-06'
-lastUpdated: '2026-11-06'
+lastUpdated: '2026-11-27'
 ---
 
 Perpetual futures tied to individual stocks can begin trading on US exchanges for the first time, the Commodity Futures Trading Commission said on Tuesday, and an industry coalition sued the agency the same day to undo the decision.

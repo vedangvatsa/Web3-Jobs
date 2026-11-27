@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:PDC_server_room.jpg
 category: News
 data-ai-hint: server room racks datacenter
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Qubic restarted its mainnet on Oct. 19 at 8:00 p.m. UTC, resuming at tick 85371952, roughly two days after an attacker drained about 2.94 trillion QU, worth roughly $1.3 million to $1.4 million, from 1,404 accounts. Recovery claims are open until May 1, 2027, under a plan approved by the network's Computor validators.

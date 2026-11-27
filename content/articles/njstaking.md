@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20Jersey%20State%20H
 category: News
 data-ai-hint: state capitol building
 publishedDate: '2026-11-03'
-lastUpdated: '2026-11-03'
+lastUpdated: '2026-11-27'
 ---
 
 New Jersey's Bureau of Securities rescinded its June 2023 summary penalty and cease-and-desist order against Coinbase on Oct. 30, 2026, lifting a ban that had stopped state residents from staking new funds on the exchange for more than three years. The [notice of rescission](https://assets.ctfassets.net/sygt3q11s4a9/UP8DDH65wMBLgeI2RbWRR/90945f6360884dfa75aadcbac57d4f9f/Coinbase_Withdrawal_Order_10_30_26.pdf), signed by Acting Bureau Chief Keith A. Alt, withdraws the order without prejudice and without an adjudication on its merits, and it does not foreclose the bureau from bringing a fresh enforcement action later.

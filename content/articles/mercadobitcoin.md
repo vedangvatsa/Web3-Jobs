@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sao_Paulo_Brazil_Skyline
 category: News
 data-ai-hint: sao paulo skyline
 publishedDate: '2026-11-05'
-lastUpdated: '2026-11-05'
+lastUpdated: '2026-11-27'
 ---
 
 Brazilian crypto exchange Mercado Bitcoin said it will start restoring customer account access on Monday, a week after hackers pulled funds out of its hot wallets and customer deposit addresses. In a statement to [Cointelegraph](https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses), published Nov. 4, the exchange said customers would first regain access through its website to view balances, statements, holdings and investments. Transfers, withdrawals and trading will resume in later phases, subject to independent security testing.

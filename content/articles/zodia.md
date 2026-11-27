@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:HK_Kwun_Tong_223_View_Fr
 category: News
 data-ai-hint: Hong Kong skyline financial district
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Standard Chartered signed definitive agreements on Wednesday, Oct. 21, to acquire Zodia Custody's regulated operating entities, advancing a transaction first announced in May when Zodia's shareholders accepted the bank's non-binding offer, [Cointelegraph reported](https://cointelegraph.com/news/standard-chartered-acquire-zodia-custody-uk).

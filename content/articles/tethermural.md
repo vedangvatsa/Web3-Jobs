@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Payment_terminal.jpg
 category: News
 data-ai-hint: payment terminal retail
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Tether led a $15 million Series A in Mural, a New York financial infrastructure startup that builds accounts, payments and compliance tools for fintechs and platforms, the company [announced Oct. 20](https://muralpay.com/blog/28-million-raised). North Island Ventures joined existing investors, bringing Mural's total funding to $28 million.

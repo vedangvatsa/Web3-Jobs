@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S.%20Department%20of%2
 category: News
 data-ai-hint: Department of Justice headquarters
 publishedDate: '2026-11-25'
-lastUpdated: '2026-11-25'
+lastUpdated: '2026-11-27'
 ---
 
 The Justice Department announced on Nov 23 that it has filed a civil forfeiture action to take control of more than $1.1 billion in USDC that North Korean actors obtained from Binance, moving the seized funds from a court restraint toward a permanent transfer of title. The department said the claim covers stablecoin proceeds and laundered funds from the theft from Binance on or about Oct. 29, and that it forms part of a wider effort to help the exchange recover more than $6 billion in stolen assets.

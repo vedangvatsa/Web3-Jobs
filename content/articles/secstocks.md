@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Securities_and_Exch
 category: News
 data-ai-hint: sec headquarters building
 publishedDate: '2026-10-23'
-lastUpdated: '2026-10-23'
+lastUpdated: '2026-11-27'
 ---
 
 The Securities and Exchange Commission said on Wednesday that three companies have notified it of plans to operate tokenized securities venues under the agency's five-year innovation exemption: Tokenized Stock Venue operator TSV LLC, the OKX and Intercontinental Exchange venture OKXICE, and Kephas Corp, the Delaware subsidiary of Perpetuals.com that does business as Perpetuals.com, according to a [Bitcoin Magazine report](https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks) of the announcement. The SEC stressed that appearing on the list does not mean a firm meets all conditions of the exemption.

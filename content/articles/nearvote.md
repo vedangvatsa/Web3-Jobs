@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Parliament_to_vote_on_ne
 category: News
 data-ai-hint: hand dropping ballot into box
 publishedDate: '2026-11-06'
-lastUpdated: '2026-11-06'
+lastUpdated: '2026-11-27'
 ---
 
 NEAR's House of Stake has approved proposal HSP-029, which cuts the network's maximum annual token issuance from 2.5% to 1.6% over 24 months. The ballot closed on Nov. 2 and the result was announced by NEAR the same day, but the lower ceiling does not bind the chain until validators adopt it through a protocol upgrade.

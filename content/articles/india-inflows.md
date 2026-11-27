@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mumbai%20Skyline%20at%20
 category: News
 data-ai-hint: Mumbai skyline at night
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Chainalysis said in its [Central and Southeast Asia and Oceania chapter](https://www.chainalysis.com/blog/central-southeast-asia-oceania-crypto-adoption-2026/), published Sept. 30, that exchange inflows attributed to India-based users reached $88.4 billion between July 2025 and June 2026, while domestic platforms received 0.7% of that value. The pairing separates national participation from the business captured at home, since funds counted toward India can land on venues based abroad.

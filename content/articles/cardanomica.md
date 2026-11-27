@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Berlaymont_building.jpg
 category: News
 data-ai-hint: European Commission building
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 The Cardano Foundation has urged the European Union not to create standalone regulations for decentralized finance and staking, arguing that existing financial laws should apply based on an activity's function and risk rather than the technology behind it.

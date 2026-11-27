@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Jensen%20huang%20stanfor
 category: News
 data-ai-hint: tech executive portrait
 publishedDate: '2026-11-16'
-lastUpdated: '2026-11-16'
+lastUpdated: '2026-11-27'
 ---
 
 Jensen Huang is discussing a return to Nvidia as chief executive, days after he resigned from the company, the Financial Times reported on Nov. 15, citing multiple people familiar with the matter. Huang has raised the possibility of coming back with confidants, and one ally told the newspaper that supporters are putting together a "war room" of Silicon Valley executives to lobby for his reinstatement and seek support from the White House. "Everyone that matters in tech outside the frontier labs loves Jensen," the ally said, [according to](https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit) Cointelegraph's account of the report.

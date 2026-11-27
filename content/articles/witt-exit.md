@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:White%20House%20lawn.jpg
 category: News
 data-ai-hint: White House lawn
 publishedDate: '2026-10-15'
-lastUpdated: '2026-10-15'
+lastUpdated: '2026-11-27'
 ---
 
 Patrick Witt is leaving his post as executive director of the White House crypto council. Witt [wrote on X on Thursday](https://x.com/patrickjwitt/status/2110579591073104355) that serving in the administration had been the privilege of a lifetime, and said he looks forward to supporting American technology work in the private sector. Cointelegraph [reported the exit on Oct. 15](https://cointelegraph.com/news/white-house-crypto-council-director-steps-down) as a move to a new private-sector opportunity.

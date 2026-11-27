@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Consensus_2026_-_Tom_Lee
 category: News
 data-ai-hint: Tom Lee conference photo
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Bitmine bought 7,653 ETH over the week ending Nov. 15, 2026 and now holds 6,077,745 ether, the company said in a press release on Nov. 16. At the reference price of $1,823 per coin that the release used, the stack is worth about $11.1 billion, and the company's crypto, cash, marketable securities and small equity positions together total $11.8 billion.

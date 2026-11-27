@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:London%20Skyline%20(1255
 category: News
 data-ai-hint: london skyline financial district
 publishedDate: '2026-10-13'
-lastUpdated: '2026-10-13'
+lastUpdated: '2026-11-27'
 ---
 
 Standard Chartered now holds Ripple's dollar-pegged RLUSD stablecoin for institutional clients in Dubai and plans to let them use it as trading collateral without moving the tokens to an exchange. The bank [announced](https://www.sc.com/en/press-release/standard-chartered-launches-rlusd-custody-and-joins-planned-collateral-integration-with-ripple-and-lmax-group/) on Oct. 12 that custody of RLUSD issued on the XRP Ledger is live through its DIFC branch, which is regulated by the Dubai Financial Services Authority.

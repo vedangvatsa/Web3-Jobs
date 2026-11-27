@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Chicago_Board_of_Trade_B
 category: News
 data-ai-hint: chicago board of trade building
 publishedDate: '2026-09-30'
-lastUpdated: '2026-09-30'
+lastUpdated: '2026-11-27'
 ---
 
 Coinbase can now clear parts of its regulated United States derivatives business itself after the Commodity Futures Trading Commission registered Coinbase Clearing LLC as a derivatives clearing organization on September 28. The CFTC's [filing record](https://www.cftc.gov/IndustryOversight/IndustryFilings/ClearingOrganizations/64361) shows the new clearinghouse with a Registered status and permission to clear fully collateralized futures, options on futures and swaps. Bankless [described](https://www.bankless.com/read/news/coinbase-completes-u-s-derivatives-stack-with-cftc-approval) the approval as the final piece Coinbase needed to run nearly its entire derivatives business in house.

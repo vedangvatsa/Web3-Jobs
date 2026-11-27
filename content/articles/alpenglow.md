@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Datacenter%20Server%20Ra
 category: News
 data-ai-hint: server racks in data center
 publishedDate: '2026-10-15'
-lastUpdated: '2026-10-15'
+lastUpdated: '2026-11-27'
 ---
 
 Solana will switch its consensus system on Oct. 21, 2026. The [Solana Foundation said](https://solana.com/upgrades/alpenglow) Alpenglow activates on mainnet in epoch 1064, which starts that Wednesday at about 15:00 UTC. The change replaces TowerBFT, the voting system Solana has used since launch.

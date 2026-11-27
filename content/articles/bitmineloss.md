@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Consensus%202026%20-%20T
 category: News
 data-ai-hint: Tom Lee conference photo
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 Bitmine Immersion Technologies reported a net loss of $6.31 billion for the fiscal year ended Aug. 31, 2026, down from net income of $348.6 million the prior year, its Form 10-K shows. Falling ether prices drove most of the hit: the company recorded a $6.2 billion unrealized loss on digital assets, [Cointelegraph reported](https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings).

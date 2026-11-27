@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:An_actual_Bitcoin_transa
 category: News
 data-ai-hint: hardware wallet device
 publishedDate: '2026-10-27'
-lastUpdated: '2026-10-27'
+lastUpdated: '2026-11-27'
 ---
 
 Hardware wallet maker Keystone said it will destroy almost 19,000 unshipped devices and suspend shipping after an attacker who broke into its online store also obtained the WebAuth key the company uses to verify that a device is genuine. The disclosure followed a customer-data breach first confirmed on Oct. 24 that exposed names, shipping addresses and order details.

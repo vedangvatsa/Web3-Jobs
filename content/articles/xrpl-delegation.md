@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bank_of_England_Building
 category: News
 data-ai-hint: central bank building facade
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 The XRP Ledger switched on account delegation on Oct. 8. The PermissionDelegationV1_1 amendment went live at ledger 107,524,865, listed at 5:29 p.m. ET, [Unchained reported](https://unchainedcrypto.com/xrp-ledger-enables-account-delegation-as-a-token-minting-fix-lacks-two-validator-votes/). CoinDesk matched the date and the ledger number against the XRPL Dashboard tracker, in its [Oct. 9 report](https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds).

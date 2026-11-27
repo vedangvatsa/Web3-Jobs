@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Kompleks_Sejmu_w_latach_
 category: News
 data-ai-hint: Sejm parliament building
 publishedDate: '2026-11-11'
-lastUpdated: '2026-11-11'
+lastUpdated: '2026-11-27'
 ---
 
 Poland's lower house of parliament passed a government-backed sanctions bill on November 6 that would let authorities freeze crypto assets, approving the measure by 240 votes to 202 with one abstention. The Sejm forwarded the Act on Restrictive Measures to the Senate on Monday, according to the [parliamentary records cited by Cointelegraph](https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets).

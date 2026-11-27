@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mobile%20Payment.jpg
 category: News
 data-ai-hint: customer paying with smartphone at terminal
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 OKX introduced OKX Money on Oct. 6, a standalone app that lets people save, send and spend dollar-backed stablecoins without touching an exchange order book. The company pitched it as digital dollars for daily life, in its launch [announcement](https://www.okx.com/en-gb/learn/okx-money-launch-select-markets).

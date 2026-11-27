@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_Financial_District_o
 category: News
 data-ai-hint: new york financial district skyline
 publishedDate: '2026-09-17'
-lastUpdated: '2026-09-17'
+lastUpdated: '2026-11-27'
 ---
 
 S&P Global said on Sept. 17, 2026 it had entered an agreement to acquire OpenZeppelin, the smart contract security company whose open source code underpins much of the stablecoin and tokenized fund market. [CoinDesk reported](https://www.coindesk.com/business/2026/09/17/ratings-giant-s-and-p-global-acquires-openzeppelin-in-tokenized-finance-risk-push) the deal on Sept. 17, citing the morning announcement. Financial terms were not disclosed, [the company said](https://press.spglobal.com/2026-09-17-S-P-Global-Announces-Agreement-to-Acquire-OpenZeppelin) in its press release.

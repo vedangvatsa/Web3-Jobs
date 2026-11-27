@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:White%20House%20lawn.jpg
 category: News
 data-ai-hint: white house lawn
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 President Donald Trump announced on Truth Social on Sunday, Oct. 4, that he was creating a Super Intelligence Force to coordinate federal artificial-intelligence policy, naming Director of National Intelligence Jay Clayton as its head, Decrypt reported. Clayton, the former Securities and Exchange Commission chair who sued Ripple in December 2020, has been described across Washington coverage as the administration's new AI czar.

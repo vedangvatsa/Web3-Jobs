@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Manhattan%20from%20Weeha
 category: News
 data-ai-hint: manhattan skyline new york
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Rain, a stablecoin payments infrastructure company, has applied to the Office of the Comptroller of the Currency to establish Rain National Trust Bank, a national trust bank headquartered in New York. The company [announced the filing](https://www.prnewswire.com/news-releases/rain-files-application-with-the-occ-to-establish-rain-national-trust-bank-302898950.html) on Oct. 5, saying approval would bring the custody, reserve management and stablecoin issuance behind its partners' programs under one federal supervisor.

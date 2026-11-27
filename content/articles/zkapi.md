@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ethereum%20price.webp
 category: News
 data-ai-hint: ethereum price chart
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 The Ethereum Foundation [announced on Oct. 1](https://blog.ethereum.org/2026/10/01/introducing-zkapi) that zkAPI, a system for paying metered APIs without linking requests to payer identity, is live on Ethereum mainnet. The design was co-authored by Davide Crapis and Vitalik Buterin, and the Open Anonymity Project built the client, server and contracts with the Foundation.

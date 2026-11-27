@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:CreditRich_Nasdaq_Tower_
 category: News
 data-ai-hint: nasdaq tower new york
 publishedDate: '2026-10-03'
-lastUpdated: '2026-10-03'
+lastUpdated: '2026-11-27'
 ---
 
 Evernorth, an XRP treasury company backed by Ripple, cleared its last shareholder hurdle on Sept. 30, 2026 and expects to start trading on Nasdaq under the ticker XRPN on Oct. 8. Shareholders of Armada Acquisition Corp. II approved the merger at an extraordinary general meeting, the two companies said in an [announcement](https://www.prnewswire.com/news-releases/shareholders-approve-evernorth-business-combination-transaction-and-related-private-placements-have-raised-over-1-billion-nasdaq-trading-under-xrpn-expected-to-begin-on-october-8-302895260.html) on Oct. 1. Closing is set for Oct. 7 if the remaining conditions are met or waived.

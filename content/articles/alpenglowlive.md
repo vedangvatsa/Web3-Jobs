@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Solana_cryptocurrency_tw
 category: News
 data-ai-hint: Solana physical coins
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Solana's Alpenglow consensus protocol went live on mainnet-beta on Wednesday, Oct. 21, replacing TowerBFT at slot 459,653,000 and cutting the time it takes for a transaction to become irreversible from about 12.8 seconds to roughly 150 milliseconds, core engineering team Anza said. The activation was confirmed on the [Solana Foundation's Alpenglow dashboard](https://solana.com/upgrades/alpenglow/dashboard) at around 1:54 p.m. UTC, [Cointelegraph reported](https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality).

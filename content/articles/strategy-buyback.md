@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Casascius%20coin.jpg
 category: News
 data-ai-hint: physical bitcoin coin token
 publishedDate: '2026-10-13'
-lastUpdated: '2026-10-13'
+lastUpdated: '2026-11-27'
 ---
 
 Strategy put nearly nine times as much money into buying back its own preferred stock as into bitcoin last week. The company [said](https://unchainedcrypto.com/strategy-spends-192-million-buying-back-its-preferred-stock-nearly-nine-times-its-bitcoin-buy/) on Oct. 12 that it repurchased 1,932,145 shares of its STRC preferred stock for 192.4 million dollars between Oct. 5 and Oct. 11, while buying 250 BTC for 21.5 million dollars.

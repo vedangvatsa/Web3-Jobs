@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_cente
 category: News
 data-ai-hint: data center servers
 publishedDate: '2026-10-26'
-lastUpdated: '2026-10-26'
+lastUpdated: '2026-11-27'
 ---
 
 One account on Initia created $7.48 million in tokens out of nothing in 13 seconds on Oct. 23, then cashed $2.73 million of real coins out of the bridges that back assets on the chain, according to an [on-chain investigation by Bitquery](https://bitquery.io/investigations/initia-hack). The attack emptied Noble's USDC reserve from $1.09 million to $63 in 36 minutes, and ordinary users' USDC withdrawals began failing as the reserve ran dry.

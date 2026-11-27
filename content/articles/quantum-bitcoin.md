@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:IBM_Quantum_System_One.j
 category: News
 data-ai-hint: ibm quantum computer dilution refrigerator
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ogTitle: NEW PREPRINT REASSESSES BITCOIN QUANTUM RISK
 ---
 

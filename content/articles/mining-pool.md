@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Butterfly_Labs_60GH_Bitc
 category: News
 data-ai-hint: bitcoin mining hardware unit
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 Binance will shut down its bitcoin mining pool and related services on Nov. 10, ending an operation it has run since April 2020. The exchange [said](https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool) Tuesday that Binance Pool, Pool Savings, Cloud Mining and Transaction Accelerator will all go offline at 07:00 UTC on that date. Stratum URLs and mining endpoints will be disabled at the same time, and hashrate or shares submitted afterward will no longer be accepted, processed or credited.

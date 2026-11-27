@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Adam%20Back%202014.jpg
 category: News
 data-ai-hint: adam back portrait
 publishedDate: '2026-11-06'
-lastUpdated: '2026-11-06'
+lastUpdated: '2026-11-27'
 ---
 
 The Liquid Federation said on Nov. 3 that the network's bitcoin reserves have been fully restored, "reestablishing 1:1 BTC backing for all LBTC," two months after an exploit drained most of the reserve. In its [announcement](https://x.com/Liquid_BTC/status/2117407283391214047), posted at 12:03 AM UTC, the federation said the milestone follows the restoration of BTC-to-LBTC swaps several weeks earlier through participating swap providers, and that node operators can verify its proof of reserves directly while balances appear on the public dashboard at liquid.network.

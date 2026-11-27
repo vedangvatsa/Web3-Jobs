@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Daniel%20Patrick%20Moyni
 category: News
 data-ai-hint: Manhattan federal courthouse
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 A federal judge refused to let the Winklevoss-owned crypto exchange Gemini walk back a $5 million settlement with the Commodity Futures Trading Commission, the federal agency that oversees U.S. derivatives markets, even though the regulator joined the exchange in asking him to toss it out.

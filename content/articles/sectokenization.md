@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Facade%20of%20the%20U.S.
 category: News
 data-ai-hint: sec headquarters facade
 publishedDate: '2026-10-25'
-lastUpdated: '2026-10-25'
+lastUpdated: '2026-11-27'
 ---
 
 The SEC's Division of Examinations published its [fiscal 2027 examination priorities](https://www.sec.gov/newsroom/press-releases/2026-109-sec-announces-fiscal-year-2027-examination-priorities) on Friday, Oct. 23, and the document names tokenization in two separate places: among the high-risk areas examiners will weigh at clearing agencies, and again as an emerging trend under Regulation Systems Compliance and Integrity.

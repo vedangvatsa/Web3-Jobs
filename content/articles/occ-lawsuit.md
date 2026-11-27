@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Us-treasury-building.jpg
 category: News
 data-ai-hint: US Treasury building
 publishedDate: '2026-10-04'
-lastUpdated: '2026-10-04'
+lastUpdated: '2026-11-27'
 ---
 
 The Independent Community Bankers of America has sued the Office of the Comptroller of the Currency, asking a federal court to throw out the rule that opened national trust bank charters to crypto firms. The trade group [filed the complaint](https://www.icba.org/web/payments/w/occ-release-oct-2026) on Oct. 2 in the U.S. District Court for the District of Columbia under the Administrative Procedure Act. American Banker [first reported the suit](https://www.americanbanker.com/news/exclusive-icba-sues-occ-over-trust-charters) on Oct. 2 from a copy of the filing it obtained.

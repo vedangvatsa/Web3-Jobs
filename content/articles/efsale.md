@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Vitalik%20Buterin%20Tech
 category: News
 data-ai-hint: ethereum founder speaking
 publishedDate: '2026-11-16'
-lastUpdated: '2026-11-16'
+lastUpdated: '2026-11-27'
 ---
 
 A wallet linked to the Ethereum Foundation sold 1,000 ETH on Nov. 10 and another 1,000 ETH the following day, according to on-chain analytics firm Lookonchain, which has tracked the address through a series of sales since October. Both batches were swapped through CoW Protocol for the USDS stablecoin rather than routed to a centralized exchange.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Michel%20de%20l'Hospital
 category: News
 data-ai-hint: paris parliament statue
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 France's 2027 budget debate produced two adopted crypto tax amendments and then erased them within 48 hours. The finance committee backed a stablecoin-swap tax on Oct. 7 and an exit tax on large holders on Oct. 8, then rejected the budget's entire revenue section on the evening of Oct. 9 by 31 votes to 3 with 2 abstentions. Nothing is law, and backers must table the measures again for floor debate starting Oct. 13.

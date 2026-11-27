@@ -9,7 +9,7 @@ description: >-
   without wasting gas or rights.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---## What is a Web3 NFT artist
 
 A Web3 NFT artist prepares artwork or media, publishes it through a smart contract as a non-fungible token, and sells that token with verifiable ownership on a blockchain. The token is the on-chain record, a contract address plus a tokenId, that points to metadata and to a media file stored elsewhere, not the image file inside the blockchain.

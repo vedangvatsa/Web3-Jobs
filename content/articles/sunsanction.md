@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Justin_Sun-1_(cropped).j
 category: News
 data-ai-hint: cryptocurrency entrepreneur headshot
 publishedDate: '2026-11-05'
-lastUpdated: '2026-11-05'
+lastUpdated: '2026-11-27'
 ---
 
 Justin Sun wants a federal judge to penalize World Liberty Financial and the venture's lawyers over how long it took the Trump family-backed company to disclose that its ownership chain includes United Arab Emirates citizens. Sun said on X that his team filed the motion Monday night and announced it Tuesday. Cointelegraph reported the request totals $263,821.20, covering the fees four attorneys billed fighting the company's bid to send the case to arbitration.

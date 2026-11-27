@@ -6,6 +6,7 @@ image: /images/articles/digital-nomad-visas-tax-vs-income.png
 category: Career Guides
 data-ai-hint: digital nomad visas tax vs income chart
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Over the past four years, more than sixty governments have launched official digital nomad visas. These programs give remote employees, contractors, and online founders a legal way to live abroad without working illegally on standard ninety-day tourist stamps.

@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Flagship%20Branch%20of%2
 category: News
 data-ai-hint: hana bank branch building
 publishedDate: '2026-09-21'
-lastUpdated: '2026-09-21'
+lastUpdated: '2026-11-27'
 ---
 
 Hana Bank said Monday it had issued a $100 million five-year foreign-currency digital bond on Euroclear's blockchain platform, with bond allocation and payment completed the same day. Yonhap [reported](https://www.yna.co.kr/amp/view/AKR20260921027800002) the bank's announcement, which described the deal as the first digital bond sale in South Korea to run directly on Euroclear's own blockchain infrastructure.

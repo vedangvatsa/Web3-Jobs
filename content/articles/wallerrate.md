@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Waller%20FOMC%20Swearing
 category: News
 data-ai-hint: Federal Reserve governor portrait
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 Federal Reserve Governor Christopher Waller told a payments conference in New York that traditional settlement rails and central bank money will keep a central role as financial assets move onto blockchains. Speaking at The Clearing House's annual conference on Nov. 17, Waller said that central bank money "need not be used in every transaction or on every platform, but its presence at the foundation of the system is essential," according to the text of the [speech posted by the Federal Reserve](https://www.federalreserve.gov/newsevents/speech/waller20261117a.htm).

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ohio_Statehouse,_October
 category: News
 data-ai-hint: Ohio Statehouse building exterior
 publishedDate: '2026-10-23'
-lastUpdated: '2026-10-23'
+lastUpdated: '2026-11-27'
 ---
 
 Polymarket's U.S. exchange sued Ohio's attorney general and casino regulators in federal court on Oct. 16, the same day the state's deadline expired for operators to stop offering sports event contracts without an Ohio license. The company argues the state's demand reaches beyond its authority and conflicts with federal commodities rules, [Unchained reported](https://unchainedcrypto.com/polymarket-takes-ohio-to-federal-court-citing-new-cftc-rules-after-kalshis-appeals-loss/) on Oct. 21.

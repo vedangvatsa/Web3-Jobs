@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Icarus_Bitcoin_Mining_ri
 category: News
 data-ai-hint: cryptocurrency mining rig hardware
 publishedDate: '2026-09-16'
-lastUpdated: '2026-09-16'
+lastUpdated: '2026-11-27'
 ---
 
 Holders of the privacy token zcash voted overwhelmingly for faster transactions and keeping the network's bitcoin-style halving schedule in a governance vote that drew roughly two-thirds of the ZEC eligible to take part, [CoinDesk reported](https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings).

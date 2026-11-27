@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pont%20de%20Brooklyn%20d
 category: News
 data-ai-hint: Brooklyn Bridge at night
 publishedDate: '2026-10-16'
-lastUpdated: '2026-10-16'
+lastUpdated: '2026-11-27'
 ---
 
 Brooklyn prosecutors and the FBI dismantled the online infrastructure of a multinational crypto investment scam that targeted Russian speakers in the United States, seizing and disrupting 241 web domains and 112 servers.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Yeouido_Skyscrapers_from
 category: News
 data-ai-hint: Seoul island skyscrapers
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 Bithumb published an updated notice on Nov. 25 saying an October hack of its internal groupware system exposed more people and far more personal data than it first disclosed, including passport numbers, bank account numbers and crypto wallet addresses. The South Korean exchange also said the intruder had access for about 15 days before being shut out, not the roughly one hour it reported last month.

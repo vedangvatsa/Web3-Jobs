@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The%20Hellenic%20Parliam
 category: News
 data-ai-hint: hellenic parliament athens greece
 publishedDate: '2026-09-18'
-lastUpdated: '2026-09-18'
+lastUpdated: '2026-11-27'
 ---
 
 European Central Bank President Christine Lagarde personally stepped in to stop crypto exchange Binance from winning a European Union crypto license in Greece, The Wall Street Journal reported on Sept. 18, citing people familiar with the process. The [write-up summarizing the story](https://www.coindesk.com/policy/2026/09/18/ecb-president-christine-lagarde-intervened-to-block-binance-s-eu-mica-license-wsj) describes high-level pressure behind a licensing decision that Greek officials had reportedly been ready to approve.

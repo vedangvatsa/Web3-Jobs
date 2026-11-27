@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dogecoin_gold_coin_black
 category: News
 data-ai-hint: physical Dogecoin coin
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Dogecoin Labs launched Tuesday in partnership with the Dogecoin Foundation, consolidating the meme coin's largest consumer products, intellectual property, and development teams into a single independent company led by MyDoge founder Jordan Jefferson as CEO.

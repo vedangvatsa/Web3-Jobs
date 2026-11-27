@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Daniel%20Patrick%20Moyni
 category: News
 data-ai-hint: Manhattan courthouse building facade
 publishedDate: '2026-09-25'
-lastUpdated: '2026-09-25'
+lastUpdated: '2026-11-27'
 ---
 
 New York sued Polymarket's U.S. business on September 24, accusing it of running an illegal gambling operation in the state. Attorney General Letitia James and Governor Kathy Hochul [announced](https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-announce-lawsuit-against-polymarket) the case against QCX LLC, which does business as Polymarket US.

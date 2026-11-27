@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Kings%20County%20Supreme
 category: News
 data-ai-hint: Brooklyn Kings County courthouse
 publishedDate: '2026-09-24'
-lastUpdated: '2026-09-24'
+lastUpdated: '2026-11-27'
 ---
 
 Ronald Spektor, a Brooklyn resident who impersonated Coinbase staff to steal cryptocurrency from about 100 users, was sentenced on September 23 to four to 12 years in prison. The [Brooklyn District Attorney's Office announced](https://www.brooklynda.org/2026/09/23/brooklyn-man-sentenced-to-up-to-12-years-in-prison-for-stealing-nearly-16-million-in-fraudulent-cryptocurrency-scheme/) the sentence after Spektor pleaded guilty to all 31 counts of an indictment involving nearly $16 million in losses.

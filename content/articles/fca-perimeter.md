@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:London%2C_Canary_Wharf_-
 category: News
 data-ai-hint: canary wharf london towers
 publishedDate: '2026-09-18'
-lastUpdated: '2026-09-18'
+lastUpdated: '2026-11-27'
 ---
 
 Britain's Financial Conduct Authority on Sept. 16, 2026 published final guidance explaining which cryptoasset activities will need its authorisation, including when an offshore platform serving British consumers falls inside the incoming regime. The [policy statement](https://www.fca.org.uk/publications/policy-statements/ps26-18-cryptoasset-perimeter-guidance), numbered PS26/18, arrives two weeks before the authorisation application window opens on Sept. 30.

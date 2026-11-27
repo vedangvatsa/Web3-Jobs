@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:1%20singapore%20national
 category: News
 data-ai-hint: Singapore Marina Bay skyline
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 DBS and JPMorgan launched a service on Nov. 16 that lets institutional clients move tokenized US dollar deposits between Singapore and the United States at any hour, the banks said. The connection links DBS Token Services with JPMorgan's Kinexys platform, and Ant International became the first client to use it for cross-market cash management, according to [Cointelegraph's report](https://cointelegraph.com/news/dbs-jpmorgans-kinexys-launch-tokenized-transfers) on the announcement.

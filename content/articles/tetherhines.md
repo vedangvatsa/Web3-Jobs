@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Richard%20Blumenthal%20a
 category: News
 data-ai-hint: senator portrait outdoors
 publishedDate: '2026-10-23'
-lastUpdated: '2026-10-23'
+lastUpdated: '2026-11-27'
 ---
 
 Senator Richard Blumenthal sent letters on Oct. 22 to Tether chief executive Paolo Ardoino and to Todd Hines, the chief executive of Nxum Group, demanding all records of contracts, payments, communications and lobbying between the stablecoin issuer and the consulting firm co-founded by his son, Bo Hines. The letter addressed to Nxum sets a Nov. 3 deadline for a response, and the letter to Tether gives the company until Nov. 6, [the Senate press release shows](https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-investigates-tethers-multimillion-dollar-payment-to-consulting-firm-owned-by-white-house-official-who-previously-led-crypto-policy).

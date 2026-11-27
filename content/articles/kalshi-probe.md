@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:White_House_lawn.jpg
 category: News
 data-ai-hint: white house lawn building
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Kalshi has opened an investigation into suspicious trades tied to the selection of Katie Zacharia as White House press secretary, after at least three small wagers placed before the news emerged positioned traders for thousands of dollars in profits.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:AP%20of%20Missouri%20Sta
 category: News
 data-ai-hint: Missouri State Capitol building
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Novig and Crypto.com's U.S. derivatives exchange filed separate federal lawsuits on Oct. 16 asking judges to stop Missouri from treating their sports event contracts as unlicensed gambling, [Unchained reported](https://unchainedcrypto.com/novig-and-crypto-coms-exchange-ask-federal-courts-to-shield-them-from-missouri-enforcement/).

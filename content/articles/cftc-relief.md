@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Commodity_Futures_Tra
 category: News
 data-ai-hint: cftc headquarters building washington
 publishedDate: '2026-09-17'
-lastUpdated: '2026-09-17'
+lastUpdated: '2026-11-27'
 ---
 
 The Market Participants Division of the Commodity Futures Trading Commission on Sept. 17, 2026 issued a no-action letter that extends broker-registration relief to any provider of passive trading software that meets its terms. Staff said the division will not recommend enforcement against such a provider, or its relevant personnel, for failing to register as an introducing broker or an associated person, [according to the division's release](https://www.cftc.gov/PressRoom/PressReleases/9300-26). The release describes the position, Staff Letter 26-25, as similar to relief granted in Staff Letter 26-09 and now broadly available to qualifying providers.

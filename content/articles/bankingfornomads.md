@@ -6,6 +6,7 @@ image: /images/articles/digital-nomad-visas-tax-vs-income.png
 category: Career Guides
 data-ai-hint: international banking multi-currency guide for digital nomads
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 When you earn income in US dollars, pay rent in Thai Baht, buy plane tickets in euros, and hold savings in Swiss Francs or stablecoins, traditional retail banking quickly breaks down. 

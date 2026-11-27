@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Canary%20Wharf%20from%20
 category: News
 data-ai-hint: london financial district towers
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Britain sanctioned three crypto exchanges and two payment platforms it says Russia used to evade financial restrictions, part of a 38-designation package the Foreign, Commonwealth and Development Office announced on Oct. 8.

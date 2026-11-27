@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US_Commodity_Futures_Tra
 category: News
 data-ai-hint: CFTC agency building exterior
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission filed a court brief on Oct. 17 arguing that CME Group lacks standing to challenge the agency's perpetual futures policy, because the exchange has not plausibly alleged imminent financial injury from the new market.

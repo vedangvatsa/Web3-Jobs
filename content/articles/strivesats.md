@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Casascius_coin.jpg
 category: News
 data-ai-hint: physical bitcoin coin token
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Strive bought 1,223 bitcoin between Oct. 14 and Oct. 16 for roughly $100 million, lifting its treasury to 36,818 BTC as a $700 million preferred stock offering approaches settlement. The company [disclosed](https://unchainedcrypto.com/strive-lifts-bitcoin-holdings-to-36818-btc-ahead-of-700-million-sats-settlement/) the purchase in a Form 8-K filed Monday, saying it paid about $81,734 per coin, fees and expenses included.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Argo_Blockchain_Mirabel_
 category: News
 data-ai-hint: bitcoin mining hardware racks
 publishedDate: '2026-10-28'
-lastUpdated: '2026-10-28'
+lastUpdated: '2026-11-27'
 ---
 
 Luxor Technology raised $16 million in a strategic round led by CMT Digital, with participation from mining-hardware makers Canaan and MicroBT, as well as Halo, Steelhead and angel investors, the company announced on Oct. 27. The round mixes primary and secondary capital, and Luxor described each backer as an operating partner already embedded in the compute supply chain it serves, spanning hardware, capital and power, according to [the press release](https://www.prnewswire.com/news-releases/luxor-technology-raises-16-million-strategic-round-led-by-cmt-digital-to-scale-ai-compute-trading-and-hardware-302920538.html).

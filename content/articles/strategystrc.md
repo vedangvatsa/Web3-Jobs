@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Michael%20Saylor%20Keyno
 category: News
 data-ai-hint: Michael Saylor keynote stage
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Strategy raised the ceiling on its preferred stock buyback program to $3 billion from $2 billion after spending $193.1 million repurchasing STRC shares in the week to Oct. 18. The company, the largest publicly traded corporate bitcoin holder, also bought 267 bitcoin for $22.1 million during the same period, [according to Cointelegraph](https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million), which cited the company's Monday SEC filing.

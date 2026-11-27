@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Singapore_Marina_Bay_Dus
 category: News
 data-ai-hint: singapore marina bay skyline
 publishedDate: '2026-09-18'
-lastUpdated: '2026-09-18'
+lastUpdated: '2026-11-27'
 ---
 
 Singapore payments company dtcpay said on Sept. 18, 2026 it had closed a $25 million Series A funding round with a strategic investment from Japan's SBI Group. The round was led by Vertex Ventures Southeast Asia and India in April and now adds SBI alongside Genedant Capital and existing backer Kwee Liong Tek. The money will go toward an enterprise portal, app upgrades and a larger merchant network.

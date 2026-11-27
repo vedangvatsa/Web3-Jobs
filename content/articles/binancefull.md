@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:RichardTeng%20BBW2023%20
 category: News
 data-ai-hint: conference speaker on stage
 publishedDate: '2026-11-15'
-lastUpdated: '2026-11-15'
+lastUpdated: '2026-11-27'
 ---
 
 Binance said on Thursday it has completed coverage of the $6.34 billion hacked on October 29, replacing the affected customer tokens with company funds two weeks after the largest crypto theft on record. In its announcement, the exchange wrote that it "has completed coverage of assets impacted in the security incident" and published a [new proof-of-reserves snapshot](https://bitcoinmagazine.com/news/binance-covers-6-34-billion-hack), repeating the message on X.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cantor%20Fitzgerald%20(5
 category: News
 data-ai-hint: cantor fitzgerald building
 publishedDate: '2026-10-26'
-lastUpdated: '2026-10-26'
+lastUpdated: '2026-11-27'
 ---
 
 Evernorth Holdings signed a Common Stock Purchase Agreement with CF Principal Investments LLC, an affiliate of Cantor Fitzgerald, on Oct. 23. The deal gives the Nasdaq-listed XRP treasury company the right to sell up to 5,218,935 newly issued Class A shares to Cantor over about 14 months, the company said in an [8-K](https://www.sec.gov/Archives/edgar/data/2092592/000162828026067061/evernorth-elocx8xk.htm) filed with the Securities and Exchange Commission.

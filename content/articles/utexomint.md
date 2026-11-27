@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Casascius_coin.jpg
 category: News
 data-ai-hint: physical bitcoin coin
 publishedDate: '2026-10-24'
-lastUpdated: '2026-10-24'
+lastUpdated: '2026-11-27'
 ---
 
 Utexo opened early access to Utexo Mint on Oct. 22, letting professional operators test a bridged version of USDT on the Bitcoin Signet test network ahead of a public launch the company has scheduled for Nov. 28.

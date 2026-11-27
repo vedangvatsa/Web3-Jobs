@@ -8,7 +8,7 @@ imageCreditUrl: https://www.coindesk.com/business/2026/09/24/solana-foundation-h
 category: News
 data-ai-hint: Rachel Conlan Jamal Raees Solana Foundation
 publishedDate: '2026-09-24'
-lastUpdated: '2026-09-24'
+lastUpdated: '2026-11-27'
 ---
 
 The Solana Foundation appointed Rachel Conlan as chief strategy officer and Jamal Raees as general manager of payments on September 24, adding executives from Binance and Polygon Labs to its institutional and payments work. [The Block reported the appointments](https://www.theblock.co/news/ecosystems/2026-09-24-solana-foundation-taps-binance-polygon-vets-to-drive-institutional-adoption-and-payments-416254), citing the foundation's announcement, while [CoinDesk separately detailed](https://www.coindesk.com/business/2026/09/24/solana-foundation-hires-binance-polygon-veterans-as-it-ramps-up-tokenized-finance-push) the two executives' responsibilities and previous roles.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitget_event_%282%29.jpg
 category: News
 data-ai-hint: Bitget exhibition stand at a public event
 publishedDate: '2026-09-29'
-lastUpdated: '2026-09-29'
+lastUpdated: '2026-11-27'
 ---
 
 NEAR Intents says it froze approximately $503,000 in assets linked to Bitget's September 24 hack after stopping transactions during execution. Alex Shevchenko, general manager of the cross-chain trading service, disclosed the intervention in a [September 28 account](https://x.com/AlexAuroraDev/status/2104554958754357482) of how its SHIELD risk system responded to the theft.

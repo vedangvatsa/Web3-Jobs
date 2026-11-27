@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Commodity%20Futures
 category: News
 data-ai-hint: government building facade
 publishedDate: '2026-11-01'
-lastUpdated: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 CFTC Chairman Michael Selig said the record Binance hack makes the case for bringing offshore crypto exchanges under US federal rules, using the roughly $6.4 billion theft to press a rulemaking push his agency advanced while Congress stalls on market-structure legislation. Selig made the argument in a Friday appearance on CNBC's Squawk on the Street, two days after attackers drained the exchange's hot wallets in the largest crypto theft on record.

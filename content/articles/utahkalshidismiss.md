@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:2010_Utah_State_Capitol_
 category: News
 data-ai-hint: Utah State Capitol building
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 Utah's attorney general filed a motion Monday to dismiss the 14 criminal charges against Kalshi and its co-founders, after the prediction market blocked users in the state from trading. The [Office of the Utah Attorney General](https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/) said the motion, filed in Third District Court, asks that the case be dropped without prejudice, which leaves the state free to refile every count if Kalshi returns to Utah.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sherrod%20Brown%20and%20
 category: News
 data-ai-hint: former senator sherrod brown portrait
 publishedDate: '2026-09-21'
-lastUpdated: '2026-09-21'
+lastUpdated: '2026-11-27'
 ---
 
 The crypto industry super PAC Fairshake has committed $30 million to defeat Sherrod Brown as the Democrat seeks a return to the Senate from Ohio, the group confirmed on Sept. 21. The commitment, [first reported by the New York Times](https://www.coindesk.com/news-analysis/2026/09/21/crypto-s-fairshake-repeats-history-with-usd30-million-to-oppose-sherrod-brown-senate-bid), covers television advertising and direct mail in the Ohio race and starts this week.

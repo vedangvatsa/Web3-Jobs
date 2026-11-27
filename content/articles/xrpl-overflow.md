@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor
 category: News
 data-ai-hint: computer code on screen
 publishedDate: '2026-10-11'
-lastUpdated: '2026-10-11'
+lastUpdated: '2026-11-27'
 ---
 
 XRP Ledger developers disclosed on Oct. 9 a payment-engine flaw that could have let an attacker create about 18 trillion XRP in a single transaction, roughly 180 times the token fixed supply of 100 billion, according to the [vulnerability report](https://xrpl.org/blog/2026/vulnerabilitydisclosurereport-bug-20261009).

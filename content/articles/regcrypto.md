@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Securities_and_Exch
 category: News
 data-ai-hint: SEC headquarters entrance flags
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 The public comment period on the Securities and Exchange Commission's proposed Regulation Crypto Assets closed on Oct. 20 after roughly 140 submissions, and the agency is still taking letters. An SEC spokesperson said the commission would keep accepting comments after the period ends, [TokenPost reported](https://www.tokenpost.com/news/regulation/36529) on Oct. 21. That report drew a distinction worth keeping straight: Oct. 20 marked the end of the stated comment period, not a bar on feedback reaching the staff. [Crypto Briefing](https://cryptobriefing.com/sec-reg-crypto-comments-after-deadline/) reported the same day that research into the rulemaking file found no formal extension of the comment period had been noticed, which means late letters arrive outside a noticed window rather than inside a prolonged one.

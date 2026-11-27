@@ -6,6 +6,7 @@ image: /images/articles/digital-nomad-visas-income-vs-duration.png
 category: Career Guides
 data-ai-hint: portugal d8 digital nomad visa requirements application guide
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Between 2020 and 2023, Portugal established itself as the undisputed digital nomad capital of Europe. Tens of thousands of international software developers, cryptocurrency builders, and creative professionals relocated to the historic hills of Lisbon, the riverside avenues of Porto, and the sub-tropical cliffs of Madeira.

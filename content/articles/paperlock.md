@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Tickers_(8085342806).jpg
 category: News
 data-ai-hint: stock exchange ticker boards
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Papertrade, the HyperEVM perpetual futures protocol that launched on Oct. 10, said on Oct. 19 that its PAPER reward token will remain locked inside its smart contract with no off-contract transfers, no exchange listings and no release date. Holders can stake PAPER for USDC distributions but cannot move it between wallets.

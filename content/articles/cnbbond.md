@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Czech%20National%20Bank%
 category: News
 data-ai-hint: czech national bank building prague
 publishedDate: '2026-11-16'
-lastUpdated: '2026-11-16'
+lastUpdated: '2026-11-27'
 ---
 
 The Czech National Bank (CNB) has successfully concluded pilot trials of tokenized digital bonds, evaluating the mechanics of distributed ledger technology for debt issuance, secondary trading, and delivery-versus-payment settlement.

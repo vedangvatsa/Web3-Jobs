@@ -6,7 +6,7 @@ description: >-
   from networking strategies to maintaining long-term connections that support.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 ## Why Relationships Matter in Web3
 

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Nashville,_TN_skyline.jp
 category: News
 data-ai-hint: city skyline
 publishedDate: '2026-11-16'
-lastUpdated: '2026-11-16'
+lastUpdated: '2026-11-27'
 ---
 
 Nakamoto Inc. signed an amendment on Nov. 11 that pushes 60 million USDT of principal on its Kraken loan out to December 2027, leaving none of the 165 million USDT balance scheduled to mature this year, according to an [8-K filing with the SEC](https://www.sec.gov/Archives/edgar/data/1946573/000149315226051437/form8-k.htm). The Bitcoin treasury company, which trades on Nasdaq as NAKA, entered the Second Amendment to its Master Loan Agreement with Payward Interactive, which operates Kraken.

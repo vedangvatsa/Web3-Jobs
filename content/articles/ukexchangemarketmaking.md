@@ -5,7 +5,7 @@ description: UK regulators have introduced rules prohibiting centralized crypto 
 image: /og-news.png
 category: News
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 United Kingdom financial regulators have moved to prohibit centralized cryptocurrency exchanges from operating proprietary market-making desks on their own trading platforms.

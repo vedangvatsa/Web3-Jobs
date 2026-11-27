@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mobile%20payment%2003.JP
 category: News
 data-ai-hint: contactless card payment terminal
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Stablecoin payments reached $482 billion in the first nine months of 2026, up 45% from a year earlier, while the total value of stablecoins in circulation barely moved, according to a [report from analytics firm Allium](https://www.allium.so/reports/state-of-stablecoins-and-payments-q3-2026).

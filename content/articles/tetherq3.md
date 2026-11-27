@@ -12,7 +12,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:1969%20%24100K%20Treasur
 category: News
 data-ai-hint: treasury bill certificate
 publishedDate: '2026-11-01'
-lastUpdated: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 Tether published its third-quarter 2026 attestation on Oct. 30, reporting about $1.5 billion in net operating profit and a reserve buffer of $7.95 billion, nearly double the $4.1 billion it reported at the end of June. The stablecoin issuer's [own release](https://tether.io/news/tether-generates-1-5-billion-in-q3-net-operating-profit-as-reserve-buffer-doubles-to-almost-8-billion/) said the figures come from a report prepared by BDO covering the company's financial position as of Sept. 30.

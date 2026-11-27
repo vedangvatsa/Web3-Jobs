@@ -6,7 +6,7 @@ image: /images/news/arbitrum-usdg.jpg
 category: News
 data-ai-hint: federal reserve building stone detail
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "Stone detail on a Federal Reserve building. Arbitrum joined a Paxos-led network built around a dollar-backed stablecoin. Photo: Benji the Pen via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Federal_Reserve_building_cornerstone_2017.jpg
 ---

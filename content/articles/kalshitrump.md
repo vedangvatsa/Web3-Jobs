@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Donald_Trump,_Jr._(55021
 category: News
 data-ai-hint: Donald Trump Jr speaking
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 Prediction market Kalshi has ended its advisory relationship with Donald Trump Jr. after his venture firm increased its investment in rival Polymarket, a Kalshi spokesperson told Reuters on Thursday. [Cointelegraph reported](https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment) the decision was mutual and followed 1789 Capital's lead on Polymarket's funding round, with the spokesperson denying that political considerations played any role.

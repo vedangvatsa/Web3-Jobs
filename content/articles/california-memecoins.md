@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:California%20State%20Cap
 category: News
 data-ai-hint: California State Capitol dome
 publishedDate: '2026-09-28'
-lastUpdated: '2026-09-28'
+lastUpdated: '2026-11-27'
 ---
 
 California Governor Gavin Newsom signed Assembly Bill 2409 on Sunday, a law that prohibits state and local public officials from issuing memecoins. The governor's office announced the signing on September 27 in a [press release](https://www.gov.ca.gov/2026/09/27/the-opposite-of-trump-governor-newsom-signs-bills-to-crack-down-on-corruption-including-meme-coins-by-public-officials/) covering a package of accountability and consumer-protection bills.

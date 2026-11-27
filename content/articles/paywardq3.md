@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seattle%20I-5%20skyline%
 category: News
 data-ai-hint: Seattle skyline
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 Payward, the parent company of crypto exchange Kraken, reported third-quarter adjusted EBITDA of $60 million on Friday, down 66% from $178.6 million a year earlier though up from $23 million in the second quarter, [Cointelegraph reported](https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings). Total platform transaction volume was $353 billion, 30% below the year-ago quarter and 22% above the second quarter, according to the company's [Q3 financial highlights](https://www.payward.com/press-release/payward-q3-2026-financial-highlights).

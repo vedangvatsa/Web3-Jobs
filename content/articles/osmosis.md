@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:A_view_of_the_server_roo
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-27'
-lastUpdated: '2026-10-27'
+lastUpdated: '2026-11-27'
 ---
 
 Osmosis governance passed Proposal 1053, titled End OSMO Inflationary Emissions, ending inflationary emissions of the OSMO token. The [proposal text on the chain's governance explorer](https://www.mintscan.io/osmosis/proposals/1053) states that the mint module stops issuing new OSMO, staking rewards from issuance and the community pool allocation end, and staking rewards come entirely from protocol revenue. The daily developer vesting release, which runs through the same mint mechanism, pauses with it.

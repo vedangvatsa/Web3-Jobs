@@ -6,7 +6,7 @@ image: /images/news/zec-etf.jpg
 category: News
 data-ai-hint: times square at night
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "Times Square in New York, home to the Nasdaq MarketSite where the proposed WINK fund would list. Photo: Anthony Quintano via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Times_Square_Ball_from_above.jpg
 ---

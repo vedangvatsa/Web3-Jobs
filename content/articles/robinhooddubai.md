@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Dubai%20skyline%20unspla
 category: News
 data-ai-hint: Dubai skyline waterfront
 publishedDate: '2026-10-23'
-lastUpdated: '2026-10-23'
+lastUpdated: '2026-11-27'
 ---
 
 Robinhood Markets received authorization from the Dubai Financial Services Authority to offer retail trading and custody in the Middle East, the company said on Oct. 22, and it plans to launch its product suite in the region in 2027. The approval covers all 10 asset classes the DFSA permits, among them equities, cryptocurrencies, exchange-traded funds and investment tokens, [The National reported](https://www.thenationalnews.com/business/markets/2026/10/22/robinhood-picks-difc-for-middle-east-debut-and-targets-2027-launch/). Robinhood will run the business from the Dubai International Financial Centre, which will serve as its headquarters for the Middle East and North Africa.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers%20data%20c
 category: News
 data-ai-hint: data center server hall
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Decentralized derivatives exchange Lighter paused all withdrawals on Nov. 16 after an attacker pulled 10.39 million USDC out of its Ethereum contract, then reopened them the same day after recovering about $5 million for the affected trader. Lighter said a leaked API key for one trader's account caused the incident and that its protocol and smart contracts were never touched, according to [Cointelegraph's updated report](https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit) on the incident.

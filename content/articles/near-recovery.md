@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Playing-video-game-on-la
 category: News
 data-ai-hint: person coding on laptop
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 NEAR Intents confirmed on Oct. 2 that the full $3.8 million drained a day earlier had been sent back, and closed its investigation. General manager Alex Shevchenko [wrote on X](https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum), in a post quoted by Decrypt on Oct. 4, "The funds from the $3.8M NEAR Intents hack were sent back in full. We are stopping the investigation."

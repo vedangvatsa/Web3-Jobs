@@ -5,7 +5,7 @@ description: Standard Chartered analysts estimate that tokenized Japanese govern
 image: /og-news.png
 category: News
 publishedDate: '2026-11-26'
-lastUpdated: '2026-11-26'
+lastUpdated: '2026-11-27'
 ---
 
 Standard Chartered analysts project that Japan's push into tokenized government and corporate bonds could serve as a major catalyst for the global real-world asset (RWA) market, helping drive total tokenized asset value toward $2 trillion.

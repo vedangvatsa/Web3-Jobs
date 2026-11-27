@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Call_center_PV.jpg
 category: News
 data-ai-hint: call center staff
 publishedDate: '2026-11-16'
-lastUpdated: '2026-11-16'
+lastUpdated: '2026-11-27'
 ---
 
 South Korean crypto exchange Coinone told customers on Sunday that an attacker reached the servers of MetaM, the contractor that runs its customer support, and viewed or took records of conversations in which people had shared sensitive details. The exchange warned of phishing and identity theft risk and said the potentially exposed data includes passwords, bank account numbers, national identification numbers and crypto wallet addresses, [according to Cointelegraph](https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information).

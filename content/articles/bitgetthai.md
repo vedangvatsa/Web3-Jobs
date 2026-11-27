@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bangkok_Genomics_Innovat
 category: News
 data-ai-hint: Bangkok stock exchange listing event
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Bitget said on Oct. 20 that it plans to acquire GMO-Z.com Cryptonomics (Thailand), the licensed Bangkok exchange and brokerage owned by Japan's GMO Internet, and use the purchase to bring its trading platform to Thai users. Completion depends on regulatory approval and other closing conditions, the company said.

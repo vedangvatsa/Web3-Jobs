@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_Building_Full_Vi
 category: News
 data-ai-hint: united states capitol building
 publishedDate: '2026-09-30'
-lastUpdated: '2026-09-30'
+lastUpdated: '2026-11-27'
 ---
 
 House Oversight Chairman James Comer is expanding an investigation into insider trading on prediction markets, sending new letters on September 29 to three more platforms. The committee [said in its release](https://oversight.house.gov/release/comer-continues-investigation-into-insider-trading-on-online-prediction-market-platforms/) that Comer wrote to the chief executives of Hyperliquid Labs, Crypto.com and Aristotle Exchange, which owns PredictIt, seeking documents on how they verify account owners and how they find and stop insider trading. CNBC [reported](https://www.cnbc.com/2026/09/29/comer-house-prediction-market-insider-trading.html) that the letters were first shared with its newsroom.

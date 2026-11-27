@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Paying_with_a_Credit_Car
 category: News
 data-ai-hint: customer paying credit card
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Mastercard is putting a risk score in front of stablecoin payments. Unveiled Monday at the Money20/20 conference in Las Vegas, the product called Stablecoin Security lets banks and payment providers screen dollar-token transfers for fraud, scams, and sanctions exposure before funds move, the company said in a Monday release covered by [Decrypt](https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments) and [Cointelegraph](https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments).

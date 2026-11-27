@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Central_Bank_of_Malaysia
 category: News
 data-ai-hint: central bank building Malaysia
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Bank Negara Malaysia launched SSDS+ on Oct. 20, a next-generation platform for the issuance, depository and safekeeping of tokenized bonds and Islamic sukuk, the central bank said in a [press release](https://www.bnm.gov.my/-/ssdsplus) embargored for 17:00 local time that day.

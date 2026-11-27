@@ -6,7 +6,7 @@ image: /images/news/masbills.jpg
 category: News
 data-ai-hint: singapore skyline evening
 publishedDate: '2026-11-20'
-lastUpdated: '2026-11-20'
+lastUpdated: '2026-11-27'
 imageCaption: "Singapore's central business district in the evening, where MAS is based. Photo: Basile Morin via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Skyline_of_the_Central_Business_District_of_Singapore_with_Esplanade_Bridge_in_the_evening.jpg
 ---

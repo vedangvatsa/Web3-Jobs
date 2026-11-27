@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:2022%20-%20Press%20Confe
 category: News
 data-ai-hint: entrepreneur speaking at conference
 publishedDate: '2026-11-09'
-lastUpdated: '2026-11-09'
+lastUpdated: '2026-11-27'
 ---
 
 Security Alliance, the nonprofit security group that runs SEAL, estimated in a [report published Nov. 5](https://radar.securityalliance.org/tradertraitor-vs-contagious-interview-a-look-at-binances-initial-incident-report/) that North Korea-linked hackers compromised a Binance software engineer's device in September through a fake recruitment approach, roughly eight weeks before the exchange's Oct. 29 exploit. The estimate covers the September foothold to the day of the theft, not the start of the wider campaign Binance has described.

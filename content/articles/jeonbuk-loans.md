@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Jeonju%20City%20Hall%202
 category: News
 data-ai-hint: city hall building jeonju
 publishedDate: '2026-10-13'
-lastUpdated: '2026-10-13'
+lastUpdated: '2026-11-27'
 ---
 
 Jeonbuk Bank, a regional lender owned by JB Financial Group, has extended a corporate loan in won secured by [bitcoin](https://unchainedcrypto.com/south-koreas-jeonbuk-bank-lends-won-against-bitcoin-using-court-sales-for-defaults/), the first loan of its kind from a South Korean bank. Local outlet Edaily [first reported](https://en.edaily.co.kr/news/eda202610115094/) the loan on Oct. 12, and a bank spokesperson confirmed to Jaekyung Ilbo that a loan had been made while declining to name the borrower.

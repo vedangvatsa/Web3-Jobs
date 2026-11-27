@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin_ATM_Prague.jpg
 category: News
 data-ai-hint: bitcoin atm machine
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Tether blacklisted four THORChain vault addresses on the Tron network on Oct. 9, freezing a combined balance of about 1.45 million USDT, then lifted the block the same afternoon with funds intact. The four vaults held 93 percent of the protocol's Tron USDT, forcing a pause in Tron swaps, signing and liquidity-provider operations until the blacklist cleared.

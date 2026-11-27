@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:European%20Union%20Flags
 category: News
 data-ai-hint: european union flags row
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Europe's securities regulator told national authorities on Oct. 8 that licensed crypto platforms must stop serving stablecoins lacking authorization under EU rules, with any leftover customer exposure cleaned up within three months, by about Jan. 8, 2027.

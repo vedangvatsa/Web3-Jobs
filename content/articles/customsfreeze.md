@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Reichstag%20building%20B
 category: News
 data-ai-hint: Reichstag parliament building
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Germany's lower house of parliament has passed a customs reform bill that would let authorities freeze cryptocurrency and other high-value assets suspected of having unlawful origins before any criminal investigation is opened. The Bundestag approved the Customs Financial Justice Act on Nov. 12, according to the German government, as [Decrypt reported](https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin). [Cointelegraph's Nov. 16 account](https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases) of the same vote said the bill explicitly mentions cryptocurrencies and forms part of a wider push against money laundering and organized crime.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Mankato%20Federal%20Cour
 category: News
 data-ai-hint: federal courthouse exterior
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 U.S. District Judge Jessica G. L. Clarke acquitted Anton and James Peraire-Bueno on all remaining counts on Nov. 16, 2026, ruling that the government never proved the material misrepresentation that wire fraud requires. The order ends the criminal case against the MIT-educated brothers over an April 2023 Ethereum exploit that prosecutors said took about $25 million from automated trading bots in roughly 12 seconds.

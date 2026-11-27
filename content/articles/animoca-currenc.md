@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong%20Kong%20Skyline%20
 category: News
 data-ai-hint: hong kong skyline victoria harbour
 publishedDate: '2026-09-22'
-lastUpdated: '2026-09-22'
+lastUpdated: '2026-11-27'
 ---
 
 Animoca Brands and Currenc Group have mutually suspended talks on a proposed reverse merger that would have returned the Hong Kong crypto gaming and investment company to public markets through a Nasdaq listing, Animoca [announced](https://www.animocabrands.com/announcement/animoca-brands-and-currenc-group-suspend-merger-discussions) on Sept. 22, 2026. The two companies said the expected time needed to close the deal no longer fit their short- and medium-term goals after a review of projected timelines and market conditions. The announcement added that the parties may revisit the combination if conditions permit.

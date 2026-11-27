@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:EU_cyber_security_confer
 category: News
 data-ai-hint: cyber security conference
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Major technology companies deployed emergency blocks this week against eight vulnerable intermediate certificates issued by India-based certificate authority eMudhra Limited after discovering that their private keys were insufficiently secure, with [CertiK warning](https://cointelegraph.com/news/certik-warning-crypto-emudhra-flaw-risks) that crypto trading bots and exchange applications may remain exposed.

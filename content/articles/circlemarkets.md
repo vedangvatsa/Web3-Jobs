@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bangkok%20skyline%20Sept
 category: News
 data-ai-hint: Bangkok skyline Thailand
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Circle is preparing to enter roughly 40 emerging and developing markets, chief executive Jeremy Allaire said, pointing to demand from people and businesses in Southeast Asia, Latin America, Africa and the Middle East. Allaire made the comments to Reuters on the sidelines of the IMF and World Bank meetings in Bangkok, [Decrypt reported](https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream).

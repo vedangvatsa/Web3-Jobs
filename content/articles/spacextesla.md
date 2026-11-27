@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_Teslas_at_the_factor
 category: News
 data-ai-hint: Tesla vehicles at factory
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Elon Musk said on SpaceX's third-quarter earnings call Oct. 21 that the boards of Tesla and SpaceX have formed special committees of independent directors to weigh a merger that would combine the companies' 30,221 bitcoin onto a single balance sheet. [Decrypt reported](https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth) the treasury implications; [CoinDesk](https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin) reported the call and the ownership stakes involved.

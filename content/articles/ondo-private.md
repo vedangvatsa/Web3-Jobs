@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bowling%20Green%20td%20(
 category: News
 data-ai-hint: charging bull statue near wall street
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Ondo Finance introduced Ondo Private Markets on Oct. 5, a venue giving eligible investors tokenized exposure to private companies starting with a pre-IPO artificial intelligence firm. The first market is set to begin secondary trading within the week, with round-the-clock permissionless trading to follow, the company said in its launch [post](https://ondo.finance/blog/introducing-ondo-private-markets).

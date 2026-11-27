@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Frances%20Perkins%20Buil
 category: News
 data-ai-hint: department of labor building exterior
 publishedDate: '2026-11-09'
-lastUpdated: '2026-11-09'
+lastUpdated: '2026-11-27'
 ---
 
 A final Department of Labor rule that would make it easier for 401(k) plans to offer crypto and other alternative assets arrived at the White House on Nov. 5 for review, a procedural step that usually precedes public release. The Office of Information and Regulatory Affairs logged the package that day under the title "Fiduciary Duties in Selecting Designated Investment Alternatives," RIN 1210-AC38, [the government filing shows](https://www.reginfo.gov/public/do/eoDetails?rrid=1591871). [Bitcoin Magazine](https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review) reported the arrival, citing Bloomberg Law.

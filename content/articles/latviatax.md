@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Riga%20Skyline%20Panoram
 category: News
 data-ai-hint: Riga Latvia skyline
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Latvia's parliament adopted urgent amendments to the personal income tax law on Oct. 15, creating a one-time window for residents to declare crypto holdings at a flat rate and moving future taxes onto an investment-account model.

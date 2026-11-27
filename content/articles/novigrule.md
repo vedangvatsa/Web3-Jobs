@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Daniel%20Patrick%20Moyni
 category: News
 data-ai-hint: Manhattan federal courthouse facade
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 U.S. District Judge Colleen McMahon denied Novig's request for a preliminary injunction against New York on Nov. 10, leaving the state free to require the prediction market to obtain a gambling license or stop listing sports contracts. In a 35-page opinion, she found that Novig was unlikely to show that its sports event contracts are swaps under the Commodity Exchange Act, which is the claim the company used to argue that federal law overrides New York's gambling rules. The [opinion and order](https://storage.courtlistener.com/recap/gov.uscourts.nysd.669887/gov.uscourts.nysd.669887.73.0.pdf) came in Ludlow Exchange, LLC v. James, case number 26-cv-6676 in the Southern District of New York.

@@ -9,7 +9,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bogota,_Colombia_(366687
 category: News
 data-ai-hint: bogota colombia cityscape
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ogTitle: MONEYGRAM LAUNCHES STABLECOIN VISA CARD IN COLOMBIA
 ---
 

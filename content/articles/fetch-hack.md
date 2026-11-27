@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:A_view_of_the_server_roo
 category: News
 data-ai-hint: server racks in data center
 publishedDate: '2026-09-20'
-lastUpdated: '2026-09-20'
+lastUpdated: '2026-11-27'
 ---
 
 The same attacker hit two AI-focused crypto projects on Sept. 19, draining funds from Fetch.ai and minting new tokens through NuNet in incidents that security firms value at close to $2 million combined, [Coinpedia reported](https://coinpedia.org/news/hacker-steals-2-million-from-fetch-ai-nunet-in-single-attack/) on Sept. 20.

@@ -6,6 +6,7 @@ image: /images/articles/where-to-live-safely-cost-vs-safety.png
 category: Career Guides
 data-ai-hint: nomad cities cost vs safety and walkability chart
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 When remote workers plan to relocate to a new city, headline rental figures and grocery estimates often dominate the spreadsheet. But relying only on basic cost of living numbers leads to poor decisions. An apartment that costs 800 dollars a month in a suburban neighborhood quickly loses its appeal if you have to spend 400 dollars on rideshares, wait in highway traffic every day, or worry about street crime after dark.

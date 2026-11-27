@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Casascius_coin.jpg
 category: News
 data-ai-hint: physical bitcoin coin macro
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Nectar Group, the Delaware company developing HoneyB, announced a $5 million seed round led by Portal Ventures and Peer Ventures on Oct. 21, with participation from Anchorage Digital Ventures, family offices and angel investors, according to the [company announcement carried by Markets Insider](https://markets.businessinsider.com/news/currencies/nectar-group-inc-raises-5-million-to-build-honeyb-the-income-orchestration-layer-for-bitcoin-1036649332). The company said it will use the money to build an orchestration layer connecting Bitcoin with institutional income strategies.

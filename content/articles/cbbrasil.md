@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Edif%C3%ADcio_sede_do_Ba
 category: News
 data-ai-hint: central bank building brasilia
 publishedDate: '2026-10-30'
-lastUpdated: '2026-10-30'
+lastUpdated: '2026-11-27'
 ---
 
 Coinbase submitted a license application to the Central Bank of Brazil on Wednesday, two days before the country's Oct. 30 deadline for crypto service providers to file in order to keep operating during regulatory review. The U.S. exchange applied under Brazil's virtual asset service provider framework, which the country formally calls SPSAV, [according to a statement shared with Cointelegraph](https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected).

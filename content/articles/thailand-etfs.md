@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bangkok%20Genomics%20Inn
 category: News
 data-ai-hint: stock exchange listing board
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Thailand's Securities and Exchange Commission issued 11 notifications on Oct. 8 setting the framework for locally listed crypto ETFs, with the rules taking effect Oct. 16. Bitcoin and ether are the only eligible assets at launch, and every fund must list and trade exclusively on the Stock Exchange of Thailand.

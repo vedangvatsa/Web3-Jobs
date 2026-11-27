@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Representation_Europeenn
 category: News
 data-ai-hint: European Union flags Paris
 publishedDate: '2026-09-24'
-lastUpdated: '2026-09-24'
+lastUpdated: '2026-11-27'
 ---
 
 The European Securities and Markets Authority announced on September 23 that artificial intelligence and tokenization will be the initial focus of a new EU supervisory priority starting in 2027. Under the program, national regulators will map how financial firms use those technologies in activities affecting clients and begin checks on selected businesses, according to [ESMA's announcement](https://www.esma.europa.eu/press-news/esma-news/esma-sets-new-supervisory-priority-digital-innovation-2027) and its accompanying factsheet.

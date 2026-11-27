@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Skylines%20of%20the%20Ce
 category: News
 data-ai-hint: Singapore skyline at dusk
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Payward, the company behind crypto exchange Kraken, has integrated Singapore Gulf Bank's real-time clearing network to settle institutional digital-asset trades around the clock, the companies said in an Oct. 4 announcement [covered](https://www.coindesk.com/business/2026/10/05/kraken-operator-payward-and-singapore-gulf-bank-platform-for-24-7-institutional-crypto-settlement) by CoinDesk. The service runs on SGB Net and makes deposited funds immediately available for trading. Cointelegraph [reported](https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement) that the rollout starts with US dollars for a select group of clients.

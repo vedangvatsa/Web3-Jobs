@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_at_Dusk_2.jpg
 category: News
 data-ai-hint: United States Capitol building
 publishedDate: '2026-11-20'
-lastUpdated: '2026-11-20'
+lastUpdated: '2026-11-27'
 ---
 
 Six senators asked Treasury Secretary Scott Bessent on November 17 to extend safe harbor protection under section 3 of the GENIUS Act to stablecoin issuers licensed by states, arguing the department's proposed rule shields some federal applicants but leaves state issuers exposed. The letter was [released by Senator Cynthia Lummis's office on November 18](https://www.lummis.senate.gov/press-releases/lummis-gillibrand-colleagues-urge-treasury-to-give-state-stablecoin-issuers-equal-footing-with-federal-issuers/).

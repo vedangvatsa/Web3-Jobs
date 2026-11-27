@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Zooko%20Wilcox%20on%20Pa
 category: News
 data-ai-hint: zooko wilcox zcash payment privacy
 publishedDate: '2026-09-19'
-lastUpdated: '2026-09-19'
+lastUpdated: '2026-11-27'
 ---
 
 Zcash coinholders voted to keep the network's quadrennial halving schedule and delay returning burned transaction fees to block rewards until February 2031. The advisory ballot covered five architectural questions for NU7, the privacy chain's next major network upgrade. Between 2.399 million and 2.404 million ZEC participated in each question, with all five easily surpassing the one-million coin threshold required for the vote to be recognized as representative under the [poll rules](https://forum.zcashcommunity.com/t/nu7-coinholder-vote/56912).

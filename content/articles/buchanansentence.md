@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Full-size_SIM_card_with_
 category: News
 data-ai-hint: SIM card close-up
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 Tyler Robert Buchanan, a 24-year-old hacker tied to the Scattered Spider collective, was sentenced Tuesday to six years in U.S. federal prison for a phishing and SIM-swapping scheme that stole at least $11.6 million in crypto. U.S. District Judge John W. Holcomb handed down the 72-month sentence in Santa Ana, California, and set a restitution hearing for Dec. 11, when the judge will determine the amount, [Decrypt reported](https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto), citing the U.S. Attorney's Office for the Central District of California. The office announced the outcome in a [post](https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto) describing a "British national sentenced to six years in federal prison for hacking into companies and stealing at least $11 million in virtual currency." Buchanan is the fifth and final defendant to be sentenced in the case, [Bitcoin Magazine wrote](https://bitcoinmagazine.com/news/scattered-spider-hacker-six-years-crypto-theft).

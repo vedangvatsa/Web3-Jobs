@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Terry_Duffy_CME_Group.jp
 category: News
 data-ai-hint: terry duffy cme
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 CME Group will not decide whether to list cryptocurrency perpetual futures until its court fight with the Commodity Futures Trading Commission is resolved, chairman and chief executive Terry Duffy said on the company's third-quarter earnings call Wednesday. On that call he argued a perpetual's funding rate should be treated as a swap rather than a futures contract under United States law, while the company's general counsel said the case is on track to be fully briefed to the judge in December.

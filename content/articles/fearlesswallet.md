@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Lock_it_down_(4040440).j
 category: News
 data-ai-hint: padlock laptop security
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 The Polkadot Community Foundation published a security notice on Oct. 21 telling anyone who used the Fearless Wallet browser extension since February 2025 to treat every account in that extension as compromised, create a new keypair in a different wallet, and move funds immediately.

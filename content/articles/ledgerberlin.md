@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ledger_HW.1_(29165329233
 category: News
 data-ai-hint: hardware wallet device
 publishedDate: '2026-11-19'
-lastUpdated: '2026-11-19'
+lastUpdated: '2026-11-27'
 ---
 
 Hardware wallet maker Ledger said Wednesday it has confirmed tampered devices in Berlin and is investigating two suspected units in Dubai, extending a probe that began with a Southeast Asian reseller in October. Customers who bought a Ledger device in Berlin since January 2026 should contact the company's support team, [Cointelegraph reported](https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation).

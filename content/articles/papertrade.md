@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY_stock_exchange_trader
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 Papertrade, a perpetuals venue offering up to 1000x on every trade, opened on HyperEVM on Oct. 10 at 10 a.m. ET. The launch drew outsized early flows and staker payouts, then an allegation of oracle manipulation and a round of tighter limits within 48 hours.

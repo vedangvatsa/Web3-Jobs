@@ -6,7 +6,7 @@ image: /images/news/shib-solana.jpg
 category: News
 data-ai-hint: akita dog portrait
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "An Akita Inu dog, a Japanese breed close in looks to the Shiba Inu behind the SHIB token. Photo: Biser Yanev via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Akita_Inu_dog.jpg
 ---

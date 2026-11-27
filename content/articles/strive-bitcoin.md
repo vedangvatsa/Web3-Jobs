@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Casascius_coin.jpg
 category: News
 data-ai-hint: physical bitcoin coin
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 Strive bought 3,311 bitcoin between Oct. 5 and Oct. 9 for roughly $280 million, its largest purchase since January, lifting its treasury to 32,773 BTC. The Nasdaq-listed company [disclosed](https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months) the buy in a filing on Monday, saying it paid an average of about $84,500 per coin including fees. The purchase took its stack from 29,462 BTC on Oct. 2 to 32,773 BTC a week later, worth roughly $2.73 billion at current prices.

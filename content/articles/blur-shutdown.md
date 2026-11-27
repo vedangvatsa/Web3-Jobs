@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptopunks.png
 category: News
 data-ai-hint: cryptopunks mural street art
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 Blur will shut down its NFT marketplace website on Nov. 12, closing the main door to a venue that once handled most Ethereum NFT trading. The team [said](https://x.com/blur_io/status/2109735810857861203) Monday on X that the blur.io frontend will be deprecated on that date. The marketplace protocol itself will keep running onchain, and the BLUR token will keep control of its fee switch, the post said.

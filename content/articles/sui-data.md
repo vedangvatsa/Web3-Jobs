@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Seoul%20(175734251).jpeg
 category: News
 data-ai-hint: seoul city skyline night
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 The Sui Foundation is investing $30 million in DATA Network as the AI training-data protocol retires its independent chain and rebuilds natively on Sui. The investment makes the foundation the network's largest institutional holder, alongside continuing holdings of PIP Labs and the DATA Foundation, according to the [joint announcement](https://www.sui.io/blog/data-network-joins-sui-walrus) dated Oct. 12.

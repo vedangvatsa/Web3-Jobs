@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cyber_Shield_2016_160428
 category: News
 data-ai-hint: cybersecurity operations center
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 OKX said on Oct. 20 that its Shield security reimbursement program is now open to eligible US customers, offering up to $100,000 in coverage for qualifying account takeovers. VIP tiers 1 through 3 can receive up to $250,000, and VIP 4 and above up to $500,000, with no subscription or activation fee.

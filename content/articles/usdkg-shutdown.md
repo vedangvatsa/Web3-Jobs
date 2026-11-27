@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bishkek,_Kyrgyzstan_(446
 category: News
 data-ai-hint: bishkek city street view
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 Kyrgyzstan is shutting down two pillars of its state-backed crypto push less than a year after launching them. On Aug. 20 the Cabinet of Ministers issued Order No. 639-t, which mandates the liquidation of OJSC EVA, the issuer of the gold-backed USDKG stablecoin, and OJSC Coin Nomad Exchange, the country's first state-owned digital-asset venue. Crypto Briefing [reported](https://cryptobriefing.com/kyrgyzstan-liquidates-usdkg-coin-nomad-exchange/) the order on Oct. 11, days after local outlet Akchabar traced the paperwork.

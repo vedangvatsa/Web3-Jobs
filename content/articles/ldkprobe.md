@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:High%20Quality%20Lightni
 category: News
 data-ai-hint: lightning night sky
 publishedDate: '2026-11-06'
-lastUpdated: '2026-11-06'
+lastUpdated: '2026-11-27'
 ---
 
 The Lightning Development Kit, the software library teams use to build Bitcoin Lightning applications, has merged a change that blocks an onion-message probe capable of linking an unannounced channel to the Bitcoin output that funds it. Bitcoin Optech [described the fix](https://bitcoinops.org/en/newsletters/2026/10/30) in its Oct. 30 newsletter, and CryptoSlate [covered it](https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/) on Nov. 3.

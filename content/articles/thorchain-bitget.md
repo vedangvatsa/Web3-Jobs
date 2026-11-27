@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitget%20event%20(2).jpg
 category: News
 data-ai-hint: Bitget exchange exhibition stand
 publishedDate: '2026-09-28'
-lastUpdated: '2026-09-28'
+lastUpdated: '2026-11-27'
 ---
 
 THORChain has refused a formal request from Bitget chief executive Gracy Chen to block wallets tied to the theft of about $387.5 million from the exchange on September 24. The cross-chain network said it is decentralized and permissionless, comparing itself to Bitcoin, in a [reply](https://x.com/THORChain/status/2103911825490203083?s=20) to Chen's appeal.

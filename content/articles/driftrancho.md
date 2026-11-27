@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptocurrency_Theft_and
 category: News
 data-ai-hint: cryptocurrency theft illustration
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Wallets linked to the April 1 Drift Protocol exploit moved 25,700 Ethereum, worth about $61.56 million, into Tornado Cash on Oct. 20, ending a roughly two-month quiet period. [Decrypt](https://decrypt.co/381450/drift-exploiter-used-tornado-cash) reported the deposits, citing Arkham Intelligence transfer data.

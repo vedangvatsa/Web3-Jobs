@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:%D0%91%D1%83%D0%B4%D0%B8
 category: News
 data-ai-hint: ukraine central bank building
 publishedDate: '2026-11-08'
-lastUpdated: '2026-11-08'
+lastUpdated: '2026-11-27'
 ---
 
 Ukraine's National Bank said on Nov. 4 that it cannot support Draft Law No. 10225-d on the circulation of virtual assets in its current form, hours after the Verkhovna Rada's Finance, Tax and Customs Policy committee cleared the bill for adoption in the second reading and as a whole. The bank said it received the final text only late the evening before the committee vote and that the process "was not sufficiently transparent," [Bitcoin Magazine reported](https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill).

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: new york stock exchange facade
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 Intercontinental Exchange, the parent corporation of the New York Stock Exchange, has selected the Avalanche blockchain to handle trade clearing and atomic settlement for its upcoming round-the-clock tokenized equities venue, according to statements confirmed by Ava Labs and reported by [Unchained](https://unchainedcrypto.com/avalanche-lands-a-role-in-nyses-planned-tokenized-stock-venue-ava-labs-says/). The initiative marks one of the most substantial commitments to public blockchain infrastructure by a major global exchange operator to date.

@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_Stock_Exchange_
 category: News
 data-ai-hint: new york stock exchange facade
 publishedDate: '2026-09-22'
-lastUpdated: '2026-09-22'
+lastUpdated: '2026-11-27'
 ---
 
 Ondo Finance said Monday that approved institutions can mint and redeem Ondo Stocks by contributing underlying shares instead of cash, adding a second primary-market path beside its existing cash-funded flow. The company [announced](https://ondo.finance/blog/convert-shares-to-tokenized-stocks) the in-kind conversion feature in a blog post dated Sept. 21, 2026, and issued a matching [press release](https://www.prnewswire.com/news-releases/ondo-finance-launches-in-kind-conversion-letting-institutions-convert-underlying-shares-directly-into-tokenized-stocks-302884764.html) the same day.

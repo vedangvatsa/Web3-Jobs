@@ -6,7 +6,7 @@ image: /images/news/coinbaseagent.jpg
 category: News
 data-ai-hint: elon musk portrait
 publishedDate: '2026-11-20'
-lastUpdated: '2026-11-20'
+lastUpdated: '2026-11-27'
 imageCaption: "Elon Musk, whose likeness appeared in the fake livestream the scammer account used. Photo: Steve Jurvetson via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Elon_Musk_and_the_Neuralink_Future.jpg
 ---

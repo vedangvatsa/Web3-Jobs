@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_
 category: News
 data-ai-hint: royal courts justice london facade
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 London's High Court has ruled that Chinese law will decide whether alleged victims of a large Ponzi scheme own any share of more than 61,000 bitcoin seized in Britain, a holding worth about $5 billion. Mr Justice Mark Turner handed down the [judgment](https://caselaw.nationalarchives.gov.uk/ewhc/kb/2026/2509) on Oct. 12 after hearings in July, siding with the Director of Public Prosecutions against thousands of claimants who wanted English law to apply. The ruling awards the coins to no one, but it narrows the victims' path to recovery and [CoinDesk reported](https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin) that it strengthens the government's chances of keeping most of them.

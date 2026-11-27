@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Scott_M._Matheson_Courth
 category: News
 data-ai-hint: federal courthouse building
 publishedDate: '2026-10-28'
-lastUpdated: '2026-10-28'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission announced on Oct. 27 that it had filed a federal lawsuit against Utah, asking a judge to bar the state from treating CFTC-registered prediction markets as illegal gambling and to halt the attorney general's week-old case against Kalshi. The complaint, filed in federal court in Utah with the United States and the CFTC as plaintiffs and the State of Utah and Attorney General Derek Brown as defendants, argues that the Commodity Exchange Act overrides Utah's gambling and election-betting laws whenever they reach event contracts on federally registered exchanges.

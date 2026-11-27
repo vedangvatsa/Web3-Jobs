@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Lascar_Hellenic_Parliame
 category: News
 data-ai-hint: Hellenic Parliament Athens building
 publishedDate: '2026-11-09'
-lastUpdated: '2026-11-09'
+lastUpdated: '2026-11-27'
 ---
 
 Greece's parliament approved a bill on Nov. 5 that imposes a 10% capital gains tax on cryptocurrency profits, the first comprehensive legal framework for taxing crypto assets in the country. The rules take effect Jan. 1, 2027.

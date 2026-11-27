@@ -6,7 +6,7 @@ image: /images/news/etherfi-stablecoin.jpg
 category: News
 data-ai-hint: contactless payment card
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "A contactless payment card opened to show its antenna. Ether.fi ties its new dollar token to its Cash card business. Photo: AmarinderBrar via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Contactless_Payment_Card_opened_to_show_RF_antenna.jpg
 ---

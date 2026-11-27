@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cathie_Wood_ARK_Invest_P
 category: News
 data-ai-hint: Cathie Wood portrait
 publishedDate: '2026-09-25'
-lastUpdated: '2026-09-25'
+lastUpdated: '2026-11-27'
 ---
 
 ARK Invest will offer its venture fund through blockchain infrastructure built by Securitize, the two firms said on September 24. Tokenized interests in the ARK Venture Fund, known as ARKVX, will be available on Ethereum at release, with Securitize handling onchain issuance and the investor experience, [the announcement states](https://www.prnewswire.com/news-releases/ark-invest-tokenizes-ark-venture-fund-arkvx-with-securitize-302888300.html).

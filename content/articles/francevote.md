@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Pont%20de%20la%20Concord
 category: News
 data-ai-hint: palais bourbon parliament
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 France's National Assembly has set the solemn vote on the first part of the 2027 budget for the afternoon of Nov. 3, after a floor debate that runs Oct. 27 to Nov. 2, according to the [chamber's own schedule](https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027). The first part of a French finance law covers revenue. Examination began Oct. 13 and ran through Oct. 19 before the current pause. The date matters because the budget's revenue section now carries an amendment that would tax swaps from cryptocurrency into euro- and dollar-backed stablecoins, a measure lawmakers backed on Oct. 16 by a single vote.

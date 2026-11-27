@@ -6,7 +6,7 @@ image: /images/news/ripple-prime.jpg
 category: News
 data-ai-hint: city of london dragon statue
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "A City of London dragon marking the financial district, home to investment manager Brevan Howard. Photo: traveljunction via Wikimedia Commons (CC BY-SA 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_City_of_London_dragon._This_marks_one_of_the_boundaries_of_the_official_Square_Mile_of_London%27s_financial_district.jpg
 ---

@@ -9,7 +9,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New_York_City_(New_York,
 category: News
 data-ai-hint: wall street new york stock exchange
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ogTitle: POLYMARKET APPOINTS WARREN JENSON AS CFO
 ---
 

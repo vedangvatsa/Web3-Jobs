@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(3
 category: News
 data-ai-hint: cryptocurrency hardware cachet
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 The Office of the Comptroller of the Currency has granted final approval for Coinbase to operate Coinbase National Trust Company under a federal banking charter, according to regulatory filings reported by [Bankless](https://www.bankless.com/read/news/coinbase-secures-final-occ-approval-for-its-national-trust-bank). The decision concludes an application process that began more than a year ago and establishes Coinbase alongside Circle and Ripple among crypto-native firms operating under direct federal banking oversight.

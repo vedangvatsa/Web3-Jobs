@@ -6,7 +6,7 @@ image: /images/news/polymarket-v2.jpg
 category: News
 data-ai-hint: financial trading charts and hands
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "A trader studies market charts on screens. Polymarket plans to move new prediction markets onto rebuilt contracts. Photo: forextime.com via Wikimedia Commons (CC BY 2.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:CFD_trading_concept_image.jpg
 ---

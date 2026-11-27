@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ballot_dropped_into_ball
 category: News
 data-ai-hint: hand dropping ballot into box
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 NEAR's House of Stake is voting on [HSP-029](https://gov.near.org/t/hsp-029-establish-a-24-month-issuance-ramp-to-a-1-6-target-rate-of-near-token-emissions/42644), a proposal that would cut the blockchain's maximum annual token issuance from 2.5% to 1.6% over 24 months. [Foresight News](https://foresightnews.pro/news/detail/115622) reported that voting has opened and closes on Nov. 2, and the forum thread lists the proposal's status as Voting.

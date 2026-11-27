@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Moscow%2C_Gagarina_Squar
 category: News
 data-ai-hint: sberbank building moscow facade
 publishedDate: '2026-10-14'
-lastUpdated: '2026-10-14'
+lastUpdated: '2026-11-27'
 ---
 
 Russia's largest bank can now run a crypto exchange business. The Bank of Russia put Sberbank on its register of cryptocurrency exchange operators on Oct. 12, [according to](https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto) an Interfax report cited by CoinDesk. The listing came days after the bank joined the digital depository register earlier this month, giving it both of the new licensed roles under Russia's crypto framework.

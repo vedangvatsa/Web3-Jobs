@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:2025%20Texas%20State%20C
 category: News
 data-ai-hint: texas state capitol dome
 publishedDate: '2026-10-24'
-lastUpdated: '2026-10-24'
+lastUpdated: '2026-11-27'
 ---
 
 Digital Freedom Fund, the super political action committee launched by Gemini co-founders Cameron and Tyler Winklevoss in 2025, made its first Texas spending of the 2026 cycle, reporting more than $81,000 in direct mail to support Republican Ken Paxton and oppose Democrat James Talarico in the state's Senate race.

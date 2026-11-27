@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Capitol_at_Dusk_2.jpg
 category: News
 data-ai-hint: united states capitol building
 publishedDate: '2026-10-12'
-lastUpdated: '2026-10-12'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission took two matching actions on Oct. 9 to draw the federal line between prediction markets and gambling. One proposal would expressly define event contracts as swaps. The other, an interim final rule, codifies that casino-style wagers are not.

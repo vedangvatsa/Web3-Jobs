@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NYSE%20Advanced%20Tradin
 category: News
 data-ai-hint: NYSE trading floor
 publishedDate: '2026-11-14'
-lastUpdated: '2026-11-14'
+lastUpdated: '2026-11-27'
 ---
 
 OKXICE, the joint venture between crypto exchange OKX and New York Stock Exchange parent Intercontinental Exchange, will open its tokenized securities venue for trading at 9 a.m. ET on Nov. 23, [Unchained reported](https://unchainedcrypto.com/okxice-tokenized-stock-venue-to-open-nov-23-circle-coinbase-robinhood-among-70-assets/). The venture said it has confirmed more than 70 assets, though a representative said not all of them may trade on opening day.

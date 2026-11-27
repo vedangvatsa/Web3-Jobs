@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Market_data_on_display_a
 category: News
 data-ai-hint: stock market data display
 publishedDate: '2026-10-23'
-lastUpdated: '2026-10-23'
+lastUpdated: '2026-11-27'
 ---
 
 Binance excluded nearly three hours of premium index data from one funding settlement for its perpetual futures tied to United States equities after an overnight trading halt at Blue Ocean, the largest US alternative trading system focused on extended-hours stock trading. In a post on Binance Square at 07:21 UTC on Oct. 21, the exchange's official news account said it would drop the premium index for the affected window only from the 08:00 UTC funding rate calculation that day, for TradFi Perps referencing any US equity, Unchained [reported](https://unchainedcrypto.com/binance-adjusts-us-stock-perp-funding-after-blue-oceans-overnight-trading-halt/) on Oct. 21. The account tied the move to intermittent network connectivity issues affecting one of the largest US overnight alternative trading systems, which lasted from 03:46 to 06:30 UTC, that report said.

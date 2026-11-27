@@ -6,7 +6,7 @@ image: /images/news/eez-atomic.jpg
 category: News
 data-ai-hint: code on a computer monitor
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "Code displayed on a computer monitor. Developers tested a cross-layer call that links Ethereum with a layer-2 network. Photo: Markus Spiske markusspiske via Wikimedia Commons (CC0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Code_on_computer_monitor_%28Unsplash%29.jpg
 ---

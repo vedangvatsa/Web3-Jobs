@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exc
 category: News
 data-ai-hint: New York Stock Exchange building
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Nine US-listed companies have objected to having their shares offered in tokenized form on OKXICE, the venue planned by crypto exchange OKX and Intercontinental Exchange (ICE), the parent of the New York Stock Exchange. The objections appear in an OKXICE [public notice](https://www.okx.com/cdn/assets/files/2610/F085D8D65135AB9C.pdf) dated Oct. 15.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Washington_DC_ESA385709.
 category: News
 data-ai-hint: satellite city view
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission approved a designated contract market and a derivatives clearing organization built on blockchain infrastructure on Nov. 16, and crypto exchange Backpack said the same day that the approvals cover its US derivatives exchange and clearing operations. Chairman Michael Selig said the decisions show that [a regulated pathway exists for a new generation of market infrastructure built using blockchain technology](https://www.cftc.gov/PressRoom/SpeechesTestimony/seligstatement111626).

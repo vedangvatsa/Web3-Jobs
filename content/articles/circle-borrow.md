@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Child_holding_bitcoin_ne
 category: News
 data-ai-hint: bitcoin token on keyboard
 publishedDate: '2026-09-22'
-lastUpdated: '2026-09-22'
+lastUpdated: '2026-11-27'
 ---
 
 Circle said Monday that eligible Circle Mint customers can borrow USDC against bitcoin without selling their BTC holdings, routing collateral through third-party lending markets on Arc and Ethereum. The stablecoin issuer [announced](https://www.circle.com/blog/digital-asset-backed-borrowing-is-now-available-in-circle-mint) Digital Asset-Backed Borrowing in a Sept. 21, 2026 blog post and tied the rollout to cirBTC going live on Arc the same day.

@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Bitcoin%20currency%20sta
 category: News
 data-ai-hint: stack of bitcoin coins
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 The Mt. Gox rehabilitation trustee extended the deadline for creditor repayments by a year, from Oct. 31, 2026, to Oct. 31, 2027, after a Japanese court approved the change. Trustee Nobuaki Kobayashi set out the new deadline in an [Oct. 16 notice](https://www.mtgox.com/img/pdf/20261016_b3a13e0f-55f6-4653-913b-be80762390e8_announcement_en.pdf).

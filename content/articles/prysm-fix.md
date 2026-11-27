@@ -6,7 +6,7 @@ image: /images/news/prysm-fix.jpg
 category: News
 data-ai-hint: computer servers in a row
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "Rows of servers in a data facility. Ethereum validators run similar machines to propose and check blocks. Photo: Victorgrigas via Wikimedia Commons (CC BY-SA 3.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wikimedia_Foundation_Servers-8055_13.jpg
 ---

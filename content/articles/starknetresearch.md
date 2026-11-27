@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Quantum-computer-Chalmer
 category: News
 data-ai-hint: quantum computer hardware
 publishedDate: '2026-10-24'
-lastUpdated: '2026-10-24'
+lastUpdated: '2026-11-27'
 ---
 
 Starknet's community poll on becoming an independent layer 1 closed on Oct. 22 with 93.52% of voting power in favor of researching the move, and StarkWare and the Starknet Foundation say they have started joint work on what such a transition would require.

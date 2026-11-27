@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sky%20Lobby%20in%20JPMor
 category: News
 data-ai-hint: JPMorgan Chase tower interior
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 JPMorgan deployed JPM Coin on Ethereum mainnet on Monday and made the deposit token available to institutional clients, expanding it beyond the Base network. The bank said the token represents dollar deposits held at JPMorgan and can be used for payments, collateral and settlement of tokenized assets, [CoinDesk reported](https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg).

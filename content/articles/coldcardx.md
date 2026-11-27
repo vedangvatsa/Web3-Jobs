@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Coinkite%20Coldcard%20Ha
 category: News
 data-ai-hint: bitcoin hardware wallet
 publishedDate: '2026-10-11'
-lastUpdated: '2026-10-11'
+lastUpdated: '2026-11-27'
 ---
 
 Bitcoin hardware wallet maker Coldcard said an unauthorized phishing link appeared Oct. 11 on its official X account, and the company asked X to investigate how the deleted post was published, [Cointelegraph reported](https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account).

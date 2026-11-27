@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:NY%20stock%20exchange%20
 category: News
 data-ai-hint: stock exchange trading floor
 publishedDate: '2026-10-16'
-lastUpdated: '2026-10-16'
+lastUpdated: '2026-11-27'
 ---
 
 Index provider MSCI said on Oct. 15 that it will treat non-operating companies as ineligible for its Global Investable Market Indexes, a decision that could push Strategy and other crypto treasury firms out of benchmarks tracked by index funds worldwide.

@@ -8,7 +8,7 @@ description: >-
   Learn how to manage your finances, focus on skill development, and find.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---If you have chosen a career in [Web3](/what-is-web3), you must prepare for volatility, a defining aspect of this sector. The crypto markets experience extreme fluctuations, with euphoric bull runs followed by severe bear markets. During a bull market, job opportunities surge, salaries rise, and the value of your [token](/what-is-a-token) compensation seems to increase daily.
 
 However, bear markets present a stark contrast. Prices can plummet significantly from their peaks. Projects once perceived as invincible may exhaust their financial resources. Layoffs become widespread, and the narrative shifts from "Web3 is the future" to "[Is Web3 Dead?](/is-web3-dead)". For professionals in the industry, a bear market tests conviction and resilience. While it can be daunting, it also offers an important time for significant work and career advancement.

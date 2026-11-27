@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Finma_Building_Entrance_
 category: News
 data-ai-hint: Swiss regulator building facade
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Switzerland's Financial Market Supervisory Authority (FINMA) approved a bitcoin-only investment fund for retail investors, clearing the path for the country's first spot bitcoin ETF open beyond qualified purchasers. The decision was published on the regulator's site on Oct. 20.

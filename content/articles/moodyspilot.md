@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Lower%20Manhattan%20from
 category: News
 data-ai-hint: Lower Manhattan skyline
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 Moody's Ratings and Chainlink said on Nov. 10 they completed a pilot that sent credit ratings from the ratings agency to several blockchains at the same time, using Chainlink's Cross-Chain Interoperability Protocol, known as CCIP. The test showed how Moody's Ratings Token Integration Engine, or TIE, could distribute ratings simultaneously across permissioned and permissionless networks, according to the [joint release distributed through PR Newswire](https://www.prnewswire.com/news-releases/chainlink-facilitates-simultaneous-multi-chain-pilot-distribution-of-moodys-ratings-credit-insights-302934925.html).

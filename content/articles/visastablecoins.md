@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cash_Registers.JPG
 category: News
 data-ai-hint: payment terminal card checkout
 publishedDate: '2026-10-31'
-lastUpdated: '2026-10-31'
+lastUpdated: '2026-11-27'
 ---
 
 Visa reported that its stablecoin settlement business surpassed an annualized run rate of $25 billion during its fiscal fourth-quarter 2026 earnings call, marking a tenfold increase compared to the prior year.

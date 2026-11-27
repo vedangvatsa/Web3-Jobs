@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptocurrency_Cachet_(3
 category: News
 data-ai-hint: Brian Armstrong Coinbase CEO
 publishedDate: '2026-11-18'
-lastUpdated: '2026-11-18'
+lastUpdated: '2026-11-27'
 ---
 
 Coinbase launched an official plugin for ChatGPT on Tuesday that lets users connect a Coinbase account and trade bitcoin, other cryptocurrencies, stocks and derivatives without leaving the conversation, provided they approve every order. The company said the tool puts trading "in the same chat you use for everything else." Users can connect an account, review a portfolio and place orders from ChatGPT on the web, on mobile or on desktop. Chief executive Brian Armstrong wrote that "starting today anyone with ChatGPT can connect their Coinbase account" and can "trade right inside your Coinbase account." [Coinbase posted a link to the official plugin](https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading) in ChatGPT's directory.

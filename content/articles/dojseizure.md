@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:U.S._Department_of_Justi
 category: News
 data-ai-hint: justice department building
 publishedDate: '2026-11-13'
-lastUpdated: '2026-11-13'
+lastUpdated: '2026-11-27'
 ---
 
 The U.S. Department of Justice said on Nov. 12 that it obtained court authorization to seize or restrain more than $1.2 billion of the cryptocurrency stolen from Binance, and that federal agents disrupted cloud infrastructure behind "FaceStealer," a North Korean social engineering campaign tied to more than $400 million in theft over 18 months.

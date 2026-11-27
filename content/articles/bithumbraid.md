@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Skyline_view_from_Seoul_
 category: News
 data-ai-hint: city skyline river
 publishedDate: '2026-10-29'
-lastUpdated: '2026-10-29'
+lastUpdated: '2026-11-27'
 ---
 
 South Korea's Financial Services Commission said it opened on-site inspections at Bithumb on Oct. 28, hours after the crypto exchange reported that abnormal external access had leaked information belonging to its employees. The regulator [published the notice](https://www.fsc.go.kr/no010101/88010) under the headline "Responding closely and swiftly to hacking incidents at major virtual asset businesses such as Bithumb."

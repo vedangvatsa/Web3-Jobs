@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Cryptocurrency%20Mining%
 category: News
 data-ai-hint: cryptocurrency mining farm
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 Zcash switched on its NU7 network upgrade on the public testnet at block 4,465,026 on Oct. 4, cutting the target time between blocks to 25 seconds from 75 seconds, the foundation said in its [release notes](https://zfnd.org/zebra-7-0-0-rc-0-nu7-arrives-on-testnet/). The activation starts a live trial about a month before a planned Nov. 5 mainnet upgrade. CoinDesk [reported](https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule) that the new rules now show as active on public testnet, while an earlier separate testing network has been shut down.

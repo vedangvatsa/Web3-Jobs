@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:White%20House%20lawn.jpg
 category: News
 data-ai-hint: white house washington dc
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 The Commodity Futures Trading Commission on Oct. 5 published an [advance notice](https://www.cftc.gov/PressRoom/PressReleases/9307-26), Release No. 9307-26, seeking public comment on two linked rulemakings for retail crypto trading. The notice outlines Regulation Crypto Asset Transactions, or Regulation CTX, and Regulation Crypto Asset Markets, or Regulation CAM, under section 2(c)(2)(D) of the Commodity Exchange Act, the provision that governs retail commodity transactions.

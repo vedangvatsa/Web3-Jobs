@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Paolo_Ardoino_by_Gage_Sk
 category: News
 data-ai-hint: executive speaking at conference
 publishedDate: '2026-11-04'
-lastUpdated: '2026-11-04'
+lastUpdated: '2026-11-27'
 ---
 
 Tether CEO Paolo Ardoino said the company holds about 150,000 bitcoin, a figure that exceeds the holdings implied by its latest reserve attestation by roughly 50,000 coins. "We have give or take 150,000 bitcoin ourselves. It's not much, but it's honest work," Ardoino said during a keynote at the Plan ₿ Forum in Lugano, Switzerland, according to [Decrypt](https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says).

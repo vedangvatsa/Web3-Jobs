@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Nintendo-Switch-Pro-Cont
 category: News
 data-ai-hint: game controller entertainment
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 Sophon told users Monday to empty their wallets by Nov. 25. The entertainment-focused Ethereum layer 2 will begin retiring key infrastructure and related websites that day, and the mainnet itself goes dark five days later, on Nov. 30. Any assets still on Sophon after the shutdown risk becoming permanently inaccessible, the project [said on X](https://x.com/Sophon/status/2112253258030882831) and [Cointelegraph reported](https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown).

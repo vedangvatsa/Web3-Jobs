@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:New%20York%20Stock%20Exc
 category: News
 data-ai-hint: new york stock exchange facade
 publishedDate: '2026-09-19'
-lastUpdated: '2026-09-19'
+lastUpdated: '2026-11-27'
 ---
 
 Grayscale plans a 3-for-1 forward share split of its Zcash exchange-traded fund after the product gathered about $900 million in assets in less than a month on the market. Shareholders of record at the close of trading on Sept. 28 will receive two additional shares for each share they hold, according to [Decrypt](https://decrypt.co/378675/grayscale-zcash-etf-more-affordable-split), which cited the fund filing with the U.S. Securities and Exchange Commission. [CryptoSlate](https://cryptoslate.com/zecs-100-rally-above-1500-sends-grayscales-zcash-etf-within-85-million-of-1-billion/) confirmed the same timetable from the company announcement dated Sept. 18.

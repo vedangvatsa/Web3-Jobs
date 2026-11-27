@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Ethereum_was_invented_he
 category: News
 data-ai-hint: blue Ethereum plaque brick wall
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Bitwise published its Q4 2026 Staking Report on Oct. 20, and the headline Ethereum figure is a record. Active validators held 43.80 million ETH at the end of the third quarter, equal to 35.9% of total supply, up from 40.24 million ETH and 33.0% three months earlier. The [report](https://s3.us-east-1.amazonaws.com/static.bitwiseinvestments.com/Research/Bitwise-Staking-Report-Q4-2026.pdf) puts the gross annualized staking yield at 2.63%, down from 2.81% in the second quarter.

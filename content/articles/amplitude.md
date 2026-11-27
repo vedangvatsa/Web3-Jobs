@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BalticServers_data_cente
 category: News
 data-ai-hint: data center server racks
 publishedDate: '2026-10-30'
-lastUpdated: '2026-10-30'
+lastUpdated: '2026-11-27'
 ---
 
 Coinbase said a security incident at Amplitude, a third-party analytics provider, exposed contact data belonging to a small subset of its customers, and the exchange said its own systems were not accessed without authorization. Customer funds were not affected, the company said.

@@ -11,7 +11,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:US%20Federal%20Reserve%2
 category: News
 data-ai-hint: federal reserve building facade
 publishedDate: '2026-09-25'
-lastUpdated: '2026-09-25'
+lastUpdated: '2026-11-27'
 ---
 
 The Federal Reserve asked for public comment on September 24 on two proposals that would set the regulatory framework for the stablecoin issuers it supervises under the GENIUS Act. The [announcement](https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm) opens 60-day comment periods that run from publication in the Federal Register.

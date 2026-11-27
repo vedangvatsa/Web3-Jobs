@@ -10,7 +10,7 @@ description: >-
   OpenSea Studio or Manifold without wasting gas or rights.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ---
 ## What is an NFT collection
 

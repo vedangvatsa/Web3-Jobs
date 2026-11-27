@@ -6,7 +6,7 @@ image: /images/news/hong-kong.jpg
 category: News
 data-ai-hint: hong kong harbour at night
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 imageCaption: "Hong Kong Harbour at night. The city plans a bill this year for virtual asset licenses. Photo: Benh LIEU SONG (Flickr) via Wikimedia Commons (CC BY-SA 4.0)."
 imageCreditUrl: https://commons.wikimedia.org/wiki/File:Hong%20Kong%20Harbour%20Night%202019-06-11.jpg
 ---

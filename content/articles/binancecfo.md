@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Binance_t-shirt_and_bag_
 category: News
 data-ai-hint: branded t-shirt and bag
 publishedDate: '2026-11-10'
-lastUpdated: '2026-11-10'
+lastUpdated: '2026-11-27'
 ---
 
 Binance Chief Financial Officer Kaiser Ng is stepping down from the cryptocurrency exchange after steering the company's financial operations through significant regulatory restructuring, with senior finance executive Justin Yek appointed as his successor, according to corporate announcements reported by [Cointelegraph](https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says).

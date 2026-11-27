@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Shinjuku%20skyline%2C%20
 category: News
 data-ai-hint: shinjuku skyline in tokyo
 publishedDate: '2026-10-06'
-lastUpdated: '2026-10-06'
+lastUpdated: '2026-11-27'
 ---
 
 Startale Japan announced on Oct. 6 a digital corporate bond that pays both scheduled interest and final principal redemption in JPYSC, a yen-denominated stablecoin. The company presents it as Japan's first bond of this kind, in a Tokyo [statement](https://chainwire.org/2026/10/06/startale-japan-launches-japans-first-digital-corporate-bond-paid-in-jpysc/) carried by Chainwire.

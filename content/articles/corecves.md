@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Argo_Blockchain_Mirabel_
 category: News
 data-ai-hint: bitcoin mining facility
 publishedDate: '2026-11-12'
-lastUpdated: '2026-11-12'
+lastUpdated: '2026-11-27'
 ---
 
 Bitcoin Core published security advisories on Nov. 10 for three bugs in the software that runs most of the network's nodes, including one high-severity flaw that could stop a mining node from producing blocks. The fixes shipped more than a year earlier, and the project held the details back until its last vulnerable release line reached end of life, [Unchained reported](https://unchainedcrypto.com/bitcoin-core-discloses-bugs-that-could-freeze-mining-nodes/).

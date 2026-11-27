@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Quantum-computer-Chalmer
 category: News
 data-ai-hint: quantum computer laboratory
 publishedDate: '2026-10-19'
-lastUpdated: '2026-10-19'
+lastUpdated: '2026-11-27'
 ---
 
 Zakura, a team that builds Zcash full node and wallet software, published a design to give every shielded address posted during a swap through NEAR Intents its own viewing key, limiting what a future quantum computer could learn from any single address.

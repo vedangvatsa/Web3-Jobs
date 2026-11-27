@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Argo%20Blockchain%20Mira
 category: News
 data-ai-hint: bitcoin mining facility containers
 publishedDate: '2026-10-05'
-lastUpdated: '2026-10-05'
+lastUpdated: '2026-11-27'
 ---
 
 The International Monetary Fund completed the second and third reviews of El Salvador's 40-month Extended Fund Facility on Oct. 1, clearing an immediate disbursement of SDR 101.96 million, or about 138 million dollars, Securities.io reported, citing the fund's Press Release No. 26/316. The board also granted waivers for performance criteria the country missed, including limits on Bitcoin accumulation, after the authorities took corrective steps and renewed their pledges.

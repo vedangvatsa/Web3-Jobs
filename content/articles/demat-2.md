@@ -10,7 +10,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:BSE_-_Bombay_Stock_Excha
 category: News
 data-ai-hint: bombay stock exchange building
 publishedDate: '2026-09-12'
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 ogTitle: SEBI LAUNCHES DEMAT 2.0 TOKENISED BOND PILOT
 ---
 

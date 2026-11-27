@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:The_Bank_of_Korea_Chungb
 category: News
 data-ai-hint: Korean bank branch building
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 Injective signed a memorandum of understanding with BDACS, a South Korean digital asset custodian, to bring a won-backed stablecoin named KRW1 to its tokenized asset markets. Under the agreement, KRW1 would serve as the exclusive won-denominated settlement asset for real-world assets on Injective, letting institutions settle transactions without relying on US dollar stablecoins.

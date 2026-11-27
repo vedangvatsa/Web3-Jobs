@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Gibraltar_Harbour_03.jpg
 category: News
 data-ai-hint: Gibraltar harbour waterfront
 publishedDate: '2026-10-21'
-lastUpdated: '2026-10-21'
+lastUpdated: '2026-11-27'
 ---
 
 The Gibraltar Financial Services Commission granted Revolut Global Digital Assets Limited a Distributed Ledger Technology provider licence on Oct. 19, authorizing the newly formed subsidiary to offer crypto services under Gibraltar's DLT framework.

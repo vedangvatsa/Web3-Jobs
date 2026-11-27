@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Rapee_Sucharitakul,_Secr
 category: News
 data-ai-hint: regulator speaking at conference podium
 publishedDate: '2026-10-24'
-lastUpdated: '2026-10-24'
+lastUpdated: '2026-11-27'
 ---
 
 Thailand's Securities and Exchange Commission has not received a single application to launch a spot crypto exchange-traded fund, even though several asset managers have come to it with questions about the product.

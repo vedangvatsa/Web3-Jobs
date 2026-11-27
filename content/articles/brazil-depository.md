@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Sometimes_I_just_love_th
 category: News
 data-ai-hint: sao paulo historic exchange building
 publishedDate: '2026-09-30'
-lastUpdated: '2026-09-30'
+lastUpdated: '2026-11-27'
 ---
 
 CSD BR, a Brazilian central securities depository with more than 22 trillion reais in registered assets, will begin keeping a copy of fund ownership records on the public XRP Ledger under a partnership with Ripple announced on September 29. The companies [said in the announcement](https://ripple.com/ripple-press/csdbr-and-ripple-use-the-xrpl-blockchain-to-expand-brazils-financial-market-infrastructure/) that the depository will mirror securities ownership on the ledger while its own systems stay the official source of record for registration, deposit and settlement. Unchained [put the registered-asset figure](https://unchainedcrypto.com/brazilian-depository-with-4-2-trillion-in-assets-taps-xrp-ledger-to-mirror-fund-shares/) at about 4.2 trillion dollars.

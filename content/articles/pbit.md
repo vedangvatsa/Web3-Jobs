@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Wall_Street_-_New_York_S
 category: News
 data-ai-hint: wall street stock exchange facade
 publishedDate: '2026-10-20'
-lastUpdated: '2026-10-20'
+lastUpdated: '2026-11-27'
 ---
 
 BlackRock filed on Monday with the U.S. Securities and Exchange Commission to launch a third U.S. bitcoin exchange-traded fund, this one built to hold most of a bad year while giving away part of a good one. The filing, a Form 485APOS under Securities Act file number 333-92935, lists the fund as the iShares Bitcoin Managed Protection ETF with the proposed ticker PBIT, according to the [SEC filing](https://www.sec.gov/Archives/edgar/data/1100663/000119312526425335/d144515d485apos.htm) and contemporaneous coverage from [Unchained](https://unchainedcrypto.com/blackrock-files-for-bitcoin-etf-that-trades-capped-gains-for-a-10-loss-floor/).

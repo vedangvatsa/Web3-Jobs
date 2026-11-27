@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:MIT_Main_Campus_Aerial.j
 category: News
 data-ai-hint: mit campus aerial
 publishedDate: '2026-10-22'
-lastUpdated: '2026-10-22'
+lastUpdated: '2026-11-27'
 ---
 
 Optimum said its mump2p data propagation protocol went live on Ethereum mainnet on Oct. 20, with 16 node operators running the software across roughly 22,000 validator keys holding more than 1.4 million ETH in active stake. The company put the total value boosted at about $3.4 billion and described the launch as the first production deployment of its networking architecture, in a [Chainwire release carried by CryptoSlate](https://cryptoslate.com/press-releases/optimum-launches-on-ethereum-mainnet-reaching-3-4b-in-total-value-boosted-across-leading-validators/). Independent coverage [from Cryptonomist](https://en.cryptonomist.ch/2026/10/20/ethereum-block-propagation-mump2p/) the same day put the speedup at a more conservative figure and added operational caveats the release did not include.

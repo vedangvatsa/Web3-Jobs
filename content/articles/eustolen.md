@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:European%20Union%20Flags
 category: News
 data-ai-hint: flags outside building
 publishedDate: '2026-11-05'
-lastUpdated: '2026-11-05'
+lastUpdated: '2026-11-27'
 ---
 
 An unidentified entity in the European Union may have lost more than $106 million from accounts at multiple cryptocurrency exchanges on Sunday, according to blockchain investigator ZachXBT, who laid out the case in a Monday post to his Telegram channel. The funds were withdrawn as USDC and USDT stablecoins from several centralized exchange accounts on Nov. 1, [Cointelegraph reported](https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain), and the affected entity and the exchanges involved have not been publicly named.

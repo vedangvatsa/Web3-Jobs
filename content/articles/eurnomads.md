@@ -6,6 +6,7 @@ image: /images/articles/city-walkability-vs-cost.png
 category: Career Guides
 data-ai-hint: walkable european nomad cities low monthly living costs
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 One of the greatest appeals of living in Europe is the pedestrian urban fabric. Historic European cities were constructed centuries before the invention of the automobile. As a result, daily life is centered around human-scale streets, public plazas, corner bakeries, dedicated bicycle paths, and integrated tram and metro networks.

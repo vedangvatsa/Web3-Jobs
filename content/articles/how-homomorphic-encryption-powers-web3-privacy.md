@@ -5,7 +5,7 @@ image: /images/articles/charts/homomorphic-encryption-pipeline.svg
 description: An in-depth technical analysis of homomorphic encryption in decentralized networks, examining RLWE lattice mathematics, noise bootstrapping, fhEVM confidential smart contracts, and threshold decryption architectures.
 category: Technology Deep Dives
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-15"
+lastUpdated: '2026-11-27'
 tags:
   - Homomorphic Encryption
   - FHE

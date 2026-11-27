@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:President_Trump_Particip
 category: News
 data-ai-hint: sec chair swearing-in white house
 publishedDate: '2026-10-02'
-lastUpdated: '2026-10-02'
+lastUpdated: '2026-11-27'
 ---
 
 The U.S. Securities and Exchange Commission on Oct. 1, 2026 proposed rules that would let investment advisers hold client crypto assets themselves when no eligible custodian is available, and would open the door for state trust companies to act as crypto custodians. Cointelegraph [reported](https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto) the proposal on Oct. 2 as an effort to remove a custody hurdle that has kept some advisers from offering digital asset investments to clients.

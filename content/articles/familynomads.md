@@ -6,6 +6,7 @@ image: /images/articles/city-walkability-vs-cost.png
 category: Career Guides
 data-ai-hint: best digital nomad hubs for families with kids co-schooling
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 The digital nomad movement began with solo backpackers and twenty-something software developers. Today, an increasing percentage of remote workers are married couples and families with young children. 

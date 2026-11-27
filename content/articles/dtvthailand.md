@@ -6,6 +6,7 @@ image: /images/articles/digital-nomad-visas-income-vs-duration.png
 category: Career Guides
 data-ai-hint: destination thailand visa dtv guide digital nomads requirements
 publishedDate: '2026-11-01'
+lastUpdated: '2026-11-27'
 ---
 
 For more than a decade, Thailand has been the spiritual home of the global digital nomad community. Hundreds of thousands of remote workers, software engineers, and online founders have spent seasons working from the cafes of Chiang Mai, the coworking high-rises of Bangkok, or the beaches of Koh Samui and Koh Phangan.

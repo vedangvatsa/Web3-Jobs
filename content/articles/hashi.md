@@ -8,7 +8,7 @@ imageCreditUrl: https://commons.wikimedia.org/wiki/File:Physical_bitcoin_statist
 category: News
 data-ai-hint: physical bitcoin token
 publishedDate: '2026-11-20'
-lastUpdated: '2026-11-20'
+lastUpdated: '2026-11-27'
 ---
 
 Hashi, the Bitcoin finance protocol built for Sui, went live on mainnet on November 19 with more than 20 custody, retail and DeFi partners, according to the [Sui Foundation announcement](https://www.sui.io/blog/hashi-mainnet-is-live). The launch opens bitcoin-backed borrowing and managed vaults on Sui while the coins themselves stay on the Bitcoin network.
