@@ -205887,7 +205887,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "2ee00a97-a2d2-4db6-9d29-2367101ed310",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x49763042322db6b22ee6d811cee18c859e685aa9"
     }
   ]
 }
