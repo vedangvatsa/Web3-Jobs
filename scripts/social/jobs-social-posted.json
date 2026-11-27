@@ -201299,7 +201299,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "066db8b5-1dd0-4888-8b7d-7fa6cde5e565",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4a99c88132b0282ae20c31a6d1ab7bff2d6ecb80"
     }
   ]
 }
