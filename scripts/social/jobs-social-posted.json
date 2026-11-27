@@ -204340,6 +204340,47 @@
       "attemptId": "5218182f-5bbd-4ac2-a47c-b22a54172a73",
       "verification": "verified",
       "postId": "0xf4f90ffcf83a71b3fd4327eeca67c8e97f1cfdb9"
+    },
+    {
+      "slug": "rsa",
+      "company": "Ripple",
+      "title": "RFP Specialist (Americas)",
+      "platform": "linkedin",
+      "postedAt": "2026-11-27T17:20:39.478Z",
+      "expectedText": "Ripple is hiring RFP Specialist: https://hashtagweb3.com/rsa/li?og=7",
+      "snapshot": {
+        "id": "8349630",
+        "title": "RFP Specialist (Americas)",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8349630?gh_jid=8349630",
+        "date": "2026-11-16T10:24:57-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Chicago, IL",
+        "department": "Sales",
+        "active": true,
+        "salary": "$92k – $110k/yr",
+        "dateVerified": true,
+        "slug": "rsa"
+      },
+      "payload": {
+        "text": "Ripple is hiring RFP Specialist: https://hashtagweb3.com/rsa/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rsa/li?og=7",
+          "title": "RFP Specialist (Americas) at Ripple | Hashtag Web3",
+          "description": "Join Ripple as RFP Specialist. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rsa.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "c5ab1118-3413-4a15-9df9-05094d6f4bf6",
+      "verification": "creating"
     }
   ]
 }
