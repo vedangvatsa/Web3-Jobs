@@ -207398,6 +207398,34 @@
       "attemptId": "4057782c-1272-4b17-ac04-afc1d2b84377",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "eng783",
+      "company": "StraitsX",
+      "title": "Site Reliability Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T23:07:31.956Z",
+      "expectedText": "StraitsX is hiring Site Reliability Engineer: https://hashtagweb3.com/eng783/fb?og=7",
+      "snapshot": {
+        "id": "5026840101",
+        "title": "Site Reliability Engineer",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5026840101",
+        "date": "2026-11-13T01:25:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng783"
+      },
+      "payload": {
+        "message": "StraitsX is hiring Site Reliability Engineer: https://hashtagweb3.com/eng783/fb?og=7",
+        "link": "https://hashtagweb3.com/eng783/fb?og=7"
+      },
+      "attemptId": "70392dbf-08e7-439f-aa02-44d6326278ce",
+      "verification": "creating"
     }
   ]
 }
