@@ -203762,7 +203762,8 @@
       },
       "account": "profile",
       "attemptId": "eee656c9-1615-4d13-8b50-9c27e584067b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5315feb09c8dc791e69165aeae8e1312894a6da8"
     }
   ]
 }
