@@ -5323,5 +5323,473 @@
   "coinpedia-bitmart-dw-features-one": {
     "slug": "bitmart-dw-features-one",
     "aliases": []
+  },
+  "premier-ai-igaming-summit": {
+    "slug": "ai-igaming-summit-vienna",
+    "aliases": []
+  },
+  "premier-gitex-ai-vietnam": {
+    "slug": "gitex-ai-vietnam-marrakech",
+    "aliases": []
+  },
+  "premier-fma-fintech-day": {
+    "slug": "fma-fintech-day-vienna",
+    "aliases": []
+  },
+  "premier-ai-revolution-summit-philippines": {
+    "slug": "ai-revolution-summit-philippines-manila",
+    "aliases": []
+  },
+  "premier-dev3pack-global-hackathon": {
+    "slug": "dev3pack-global-hackathon-2026",
+    "aliases": []
+  },
+  "premier-dakar-bitcoin-days-iv": {
+    "slug": "dakar-bitcoin-days-iv-2026",
+    "aliases": []
+  },
+  "premier-aibt2026": {
+    "slug": "aibt2026-2026",
+    "aliases": []
+  },
+  "premier-australian-digital-economy-awards": {
+    "slug": "australian-digital-economy-awards-sydney",
+    "aliases": []
+  },
+  "premier-hack-days-georgia": {
+    "slug": "hack-days-georgia-tbilisi",
+    "aliases": []
+  },
+  "premier-blockies": {
+    "slug": "blockies-melbourne",
+    "aliases": []
+  },
+  "premier-mymoney-expo": {
+    "slug": "mymoney-expo-sydney",
+    "aliases": []
+  },
+  "premier-international-business-magazine": {
+    "slug": "international-business-magazine-dubai",
+    "aliases": []
+  },
+  "premier-clo-summit": {
+    "slug": "clo-summit-dana-point",
+    "aliases": []
+  },
+  "premier-dealmakers-club-f-matching": {
+    "slug": "dealmakers-club-f-matching-milan",
+    "aliases": []
+  },
+  "premier-fintech-poland-expo": {
+    "slug": "fintech-poland-expo-warsaw",
+    "aliases": []
+  },
+  "premier-global-banking-summit": {
+    "slug": "global-banking-summit-2026",
+    "aliases": []
+  },
+  "premier-education-2-0-conference-singapore": {
+    "slug": "education-2-0-conference-singapore-2026",
+    "aliases": []
+  },
+  "premier-finwell-summit": {
+    "slug": "finwell-summit-berlin",
+    "aliases": []
+  },
+  "premier-enterprise-ai-expo": {
+    "slug": "enterprise-ai-expo-muscat",
+    "aliases": []
+  },
+  "premier-ai-digital-tech-blockchain-revolution-summit": {
+    "slug": "ai-digital-tech-blockchain-revolution-summit-bergamo",
+    "aliases": []
+  },
+  "premier-insurtech-insights-asia": {
+    "slug": "insurtech-insights-asia-2026",
+    "aliases": []
+  },
+  "premier-koncept-conference": {
+    "slug": "koncept-conference-pa-tong",
+    "aliases": []
+  },
+  "premier-blockchain-confluence": {
+    "slug": "blockchain-confluence-alcobaca",
+    "aliases": []
+  },
+  "premier-africa-fintech-meetup": {
+    "slug": "africa-fintech-meetup-addis-ababa",
+    "aliases": []
+  },
+  "premier-lottery-cx-summit": {
+    "slug": "lottery-cx-summit-vienna",
+    "aliases": []
+  },
+  "premier-crypto-conference-miami": {
+    "slug": "crypto-conference-miami-2026",
+    "aliases": []
+  },
+  "premier-global-tech-weekend-launch-event": {
+    "slug": "global-tech-weekend-launch-event-tbilisi",
+    "aliases": []
+  },
+  "premier-us-banktech-summit": {
+    "slug": "us-banktech-summit-oak-brook",
+    "aliases": []
+  },
+  "premier-solana-economic-zone-dubai": {
+    "slug": "solana-economic-zone-dubai-2026",
+    "aliases": []
+  },
+  "premier-ftt-fintech-festival": {
+    "slug": "ftt-fintech-festival-clarksville",
+    "aliases": []
+  },
+  "premier-international-conference-regtech-compliance-financial-technology": {
+    "slug": "international-conference-regtech-compliance-financial-technology-las-vegas",
+    "aliases": []
+  },
+  "premier-gitex-global-dubai": {
+    "slug": "gitex-global-dubai-2026",
+    "aliases": []
+  },
+  "premier-seg3-los-angeles": {
+    "slug": "seg3-los-angeles-2026",
+    "aliases": []
+  },
+  "premier-ai-business-fintech-summit-dubai": {
+    "slug": "ai-business-fintech-summit-dubai-2026",
+    "aliases": []
+  },
+  "premier-webrazzi-fintech": {
+    "slug": "webrazzi-fintech-2026",
+    "aliases": []
+  },
+  "premier-ai-web3-healthcare-forum": {
+    "slug": "ai-web3-healthcare-forum-tbilisi",
+    "aliases": []
+  },
+  "premier-affiliate-world-asia": {
+    "slug": "affiliate-world-asia-dubai",
+    "aliases": []
+  },
+  "premier-private-wealth-funds-forum": {
+    "slug": "private-wealth-funds-forum-abu-dhabi",
+    "aliases": []
+  },
+  "premier-tech-x-summit-global": {
+    "slug": "tech-x-summit-global-singapore",
+    "aliases": []
+  },
+  "premier-crypto-mining-guild": {
+    "slug": "crypto-mining-guild-abu-dhabi",
+    "aliases": []
+  },
+  "premier-colombia-blockchain-week": {
+    "slug": "colombia-blockchain-week-cali",
+    "aliases": []
+  },
+  "premier-crypto-polo-cup": {
+    "slug": "crypto-polo-cup-dubai",
+    "aliases": []
+  },
+  "premier-money-alpha-360": {
+    "slug": "money-alpha-360-greater-noida",
+    "aliases": []
+  },
+  "premier-xarr-untold-onchain-edition-01-premiere": {
+    "slug": "xarr-untold-onchain-edition-01-premiere-mumbai",
+    "aliases": []
+  },
+  "premier-peer-summit": {
+    "slug": "peer-summit-sundance",
+    "aliases": []
+  },
+  "premier-bitcoinday-naples": {
+    "slug": "bitcoinday-naples-2027",
+    "aliases": []
+  },
+  "premier-digital-asset-yield-summit-zurich": {
+    "slug": "digital-asset-yield-summit-zurich-opfikon",
+    "aliases": []
+  },
+  "premier-web3-hub-davos": {
+    "slug": "web3-hub-davos-2027",
+    "aliases": []
+  },
+  "premier-pyth-davos-finance-elevated": {
+    "slug": "pyth-davos-finance-elevated-2027",
+    "aliases": []
+  },
+  "premier-bii-connect-tech-uae-edition": {
+    "slug": "bii-connect-tech-uae-edition-dubai",
+    "aliases": []
+  },
+  "premier-financial-club-retreat": {
+    "slug": "financial-club-retreat-san-francisco",
+    "aliases": []
+  },
+  "premier-satoshi-roundtable": {
+    "slug": "satoshi-roundtable-san-juan",
+    "aliases": []
+  },
+  "premier-global-software-testing-awards": {
+    "slug": "global-software-testing-awards-las-vegas",
+    "aliases": []
+  },
+  "premier-web-summit-qatar": {
+    "slug": "web-summit-qatar-doha",
+    "aliases": []
+  },
+  "premier-big-africa-summit": {
+    "slug": "big-africa-summit-gaborone",
+    "aliases": []
+  },
+  "premier-step-dubai": {
+    "slug": "step-dubai-2027",
+    "aliases": []
+  },
+  "premier-fintech-revolution-summit-bahrain": {
+    "slug": "fintech-revolution-summit-bahrain-web3-event",
+    "aliases": []
+  },
+  "premier-sovereign-summit": {
+    "slug": "sovereign-summit-miami-beach",
+    "aliases": []
+  },
+  "premier-digital-assets-week-dubai": {
+    "slug": "digital-assets-week-dubai-2027",
+    "aliases": []
+  },
+  "premier-developerweek": {
+    "slug": "developerweek-santa-clara",
+    "aliases": []
+  },
+  "premier-itexpo": {
+    "slug": "itexpo-fort-lauderdale",
+    "aliases": []
+  },
+  "premier-bharat-fintech-summit": {
+    "slug": "bharat-fintech-summit-mumbai",
+    "aliases": []
+  },
+  "premier-africa-tech-summit": {
+    "slug": "africa-tech-summit-nairobi",
+    "aliases": []
+  },
+  "premier-australia-nextgen-payments-regtech-forum": {
+    "slug": "australia-nextgen-payments-regtech-forum-sydney",
+    "aliases": []
+  },
+  "premier-money-expo-mexico": {
+    "slug": "money-expo-mexico-mexico-city",
+    "aliases": []
+  },
+  "premier-fintech-meetup": {
+    "slug": "fintech-meetup-las-vegas",
+    "aliases": []
+  },
+  "premier-industrial-metaverse-conference": {
+    "slug": "industrial-metaverse-conference-heilbronn",
+    "aliases": []
+  },
+  "premier-gftn-forum-japan": {
+    "slug": "gftn-forum-japan-chuo-city",
+    "aliases": []
+  },
+  "premier-digital-transformation-summit-india": {
+    "slug": "digital-transformation-summit-india-mumbai",
+    "aliases": []
+  },
+  "premier-mega-mexico-gaming": {
+    "slug": "mega-mexico-gaming-mexico-city",
+    "aliases": []
+  },
+  "premier-finai-banking-summit": {
+    "slug": "finai-banking-summit-denver",
+    "aliases": []
+  },
+  "premier-enclave-presented-tie": {
+    "slug": "enclave-presented-tie-punta-cana",
+    "aliases": []
+  },
+  "premier-moneylive-summit": {
+    "slug": "moneylive-summit-2027",
+    "aliases": []
+  },
+  "premier-world-financial-innovation-series-kenya": {
+    "slug": "world-financial-innovation-series-kenya-nairobi",
+    "aliases": []
+  },
+  "premier-digital-assets-week-hong-kong": {
+    "slug": "digital-assets-week-hong-kong-dubai",
+    "aliases": []
+  },
+  "premier-28th-nextgen-payments-regtech-forum": {
+    "slug": "28th-nextgen-payments-regtech-forum-zurich",
+    "aliases": []
+  },
+  "premier-merchant-payment-ecosystem": {
+    "slug": "merchant-payment-ecosystem-marne",
+    "aliases": []
+  },
+  "premier-money-motion": {
+    "slug": "money-motion-zagreb",
+    "aliases": []
+  },
+  "premier-instant-payments-summit-usa": {
+    "slug": "instant-payments-summit-usa-atlanta",
+    "aliases": []
+  },
+  "premier-inclusive-fintech-forum": {
+    "slug": "inclusive-fintech-forum-kigali",
+    "aliases": []
+  },
+  "premier-fintech-americas-miami": {
+    "slug": "fintech-americas-miami-miami-beach",
+    "aliases": []
+  },
+  "premier-ftt-lending-london": {
+    "slug": "ftt-lending-london-austin",
+    "aliases": []
+  },
+  "premier-t3-technology-conference": {
+    "slug": "t3-technology-conference-las-vegas",
+    "aliases": []
+  },
+  "premier-mining-disrupt-bitcoin-mining-expo": {
+    "slug": "mining-disrupt-bitcoin-mining-expo-irving",
+    "aliases": []
+  },
+  "premier-convergence-india-expo": {
+    "slug": "convergence-india-expo-delhi-ncr",
+    "aliases": []
+  },
+  "premier-global-ai-show-abu-dhabi": {
+    "slug": "global-ai-show-abu-dhabi-2027",
+    "aliases": []
+  },
+  "premier-fintech-india-expo": {
+    "slug": "fintech-india-expo-delhi-ncr",
+    "aliases": []
+  },
+  "premier-global-game-connect": {
+    "slug": "global-game-connect-colombo",
+    "aliases": []
+  },
+  "premier-bitblockboom": {
+    "slug": "bitblockboom-fort-worth",
+    "aliases": []
+  },
+  "premier-fintech-week-sf": {
+    "slug": "fintech-week-sf-san-francisco",
+    "aliases": []
+  },
+  "premier-fibe-fintech-festival-berlin": {
+    "slug": "fibe-fintech-festival-berlin-2027",
+    "aliases": []
+  },
+  "premier-unblock": {
+    "slug": "unblock-riga",
+    "aliases": []
+  },
+  "premier-crosstech-fintech-fest": {
+    "slug": "crosstech-fintech-fest-miami",
+    "aliases": []
+  },
+  "premier-ethglobal-cannes": {
+    "slug": "ethglobal-cannes-2027",
+    "aliases": []
+  },
+  "premier-pragma-cannes": {
+    "slug": "pragma-cannes-2027",
+    "aliases": []
+  },
+  "premier-uk-fintech-week": {
+    "slug": "uk-fintech-week-2027",
+    "aliases": []
+  },
+  "premier-tokenfest-dubai": {
+    "slug": "tokenfest-dubai-2027",
+    "aliases": []
+  },
+  "premier-mexico-finance-fintech-summit": {
+    "slug": "mexico-finance-fintech-summit-mexico-city",
+    "aliases": []
+  },
+  "premier-money-expo-abu-dhabi": {
+    "slug": "money-expo-abu-dhabi-2027",
+    "aliases": []
+  },
+  "premier-money2020-asia": {
+    "slug": "money2020-asia-2027",
+    "aliases": []
+  },
+  "premier-africa-blockchain-defi-web3-summit": {
+    "slug": "africa-blockchain-defi-web3-summit-lagos",
+    "aliases": []
+  },
+  "premier-west-africa-gaming-convention": {
+    "slug": "west-africa-gaming-convention-lagos",
+    "aliases": []
+  },
+  "premier-sigma-euro-med": {
+    "slug": "sigma-euro-med-attard",
+    "aliases": []
+  },
+  "premier-6th-fintech-week-expo": {
+    "slug": "6th-fintech-week-expo-tille",
+    "aliases": []
+  },
+  "premier-cyprus-fintech-week": {
+    "slug": "cyprus-fintech-week-geroskipou",
+    "aliases": []
+  },
+  "premier-fintech-revolution-summit-philippines": {
+    "slug": "fintech-revolution-summit-philippines-manila",
+    "aliases": []
+  },
+  "premier-international-conference-ai-blockchain-cybersecurity": {
+    "slug": "international-conference-ai-blockchain-cybersecurity-funabashi",
+    "aliases": []
+  },
+  "premier-digital-money-summit": {
+    "slug": "digital-money-summit-2027",
+    "aliases": []
+  },
+  "premier-milano-blockchain-week": {
+    "slug": "milano-blockchain-week-2027",
+    "aliases": []
+  },
+  "premier-wfis-vietnam": {
+    "slug": "wfis-vietnam-nairobi",
+    "aliases": []
+  },
+  "premier-bitcoin-treasuries-conference-uk": {
+    "slug": "bitcoin-treasuries-conference-uk-new-york",
+    "aliases": []
+  },
+  "premier-money-expo-hong-kong": {
+    "slug": "money-expo-hong-kong-mexico-city",
+    "aliases": []
+  },
+  "premier-financial-grc-summit": {
+    "slug": "financial-grc-summit-oak-brook",
+    "aliases": []
+  },
+  "premier-paris-blockchain-week": {
+    "slug": "paris-blockchain-week-2027",
+    "aliases": []
+  },
+  "premier-credit-collections-summit-asia": {
+    "slug": "credit-collections-summit-asia-amsterdam",
+    "aliases": []
+  },
+  "premier-cyberx-bahrain": {
+    "slug": "cyberx-bahrain-manama",
+    "aliases": []
+  },
+  "premier-usa-fintech-conference": {
+    "slug": "usa-fintech-conference-milan",
+    "aliases": []
   }
 }
