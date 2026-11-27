@@ -205542,6 +205542,41 @@
       "attemptId": "df247ea5-1d28-4af2-bfc1-b9d3cc21cd4b",
       "verification": "verified",
       "postId": "0x935428fa19aa5580251e6e0aa950d844ac8f456f"
+    },
+    {
+      "slug": "ec5",
+      "company": "Rain",
+      "title": "Events Coordinator",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T20:12:58.627Z",
+      "expectedText": "Rain is hiring Events Coordinator\n\nhttps://hashtagweb3.com/ec5/fc?og=7",
+      "snapshot": {
+        "id": "43904e24-639b-4e46-8988-85a90ec1357a",
+        "title": "Events Coordinator",
+        "company": "Rain",
+        "link": "https://jobs.ashbyhq.com/rain/43904e24-639b-4e46-8988-85a90ec1357a",
+        "date": "2026-11-05T21:54:19.096+00:00",
+        "source": "Ashby: Rain [rain]",
+        "location": "New York, NY",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "GTM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ec5"
+      },
+      "payload": {
+        "text": "Rain is hiring Events Coordinator\n\nhttps://hashtagweb3.com/ec5/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ec5/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "64452de9-dc3e-44b8-a090-0f21c6547c39",
+      "verification": "creating"
     }
   ]
 }
