@@ -203221,7 +203221,8 @@
       },
       "account": "channel:base",
       "attemptId": "d62bd129-4a3e-47ee-84d4-04a9defd52c5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7f1bfea0f18daba02516ec20e5d508294efe4576"
     }
   ]
 }
