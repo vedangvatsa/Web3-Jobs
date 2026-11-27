@@ -201407,7 +201407,8 @@
       },
       "account": "channel:developers",
       "attemptId": "ad59ee8b-6f89-4b18-8a93-fbe3a6118424",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb3ed9f7a5c80252bb0974683c12c5b8419d8cd52"
     }
   ]
 }
