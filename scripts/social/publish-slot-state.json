@@ -8,7 +8,7 @@
     "afternoon": "2026-10-30",
     "evening": "2026-10-31"
   },
-  "deployed": "2026-11-26",
+  "deployed": "2026-11-27",
   "ingested": "2026-11-26",
   "dailyDeployments": {
     "2026-10-23": [
@@ -1472,12 +1472,14 @@
           "hashratehijack",
           "bbitlisting"
         ],
-        "phase": "rolling-out",
+        "phase": "succeeded",
         "startedAt": "2026-11-27T03:30:51.026Z",
         "buildId": "daily-20261127-45927514407-1",
         "rolloutId": "daily-20261127-45927514407-1",
         "buildState": "READY",
-        "observedAt": "2026-11-27T04:04:34.621Z"
+        "observedAt": "2026-11-27T04:05:08.585Z",
+        "rolloutState": "SUCCEEDED",
+        "confirmedAt": "2026-11-27T04:05:08.585Z"
       }
     ]
   }
