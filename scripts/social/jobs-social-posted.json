@@ -200416,7 +200416,8 @@
       },
       "account": "channel:web3",
       "attemptId": "0b40700c-1d62-4b74-8026-665f04e43453",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x31fc5deb17d6dff7301463dfb0f7111d5b310dfb"
     }
   ]
 }
