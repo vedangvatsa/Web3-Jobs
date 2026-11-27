@@ -204833,7 +204833,8 @@
       },
       "account": "channel:developers",
       "attemptId": "a77bc6ae-ffc6-479e-8236-020b5acb8fff",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfdf0396a614026bf694f2cf82e8b7136a5c38e70"
     }
   ]
 }
