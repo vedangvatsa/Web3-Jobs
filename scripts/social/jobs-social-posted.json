@@ -200312,7 +200312,8 @@
         "description": "Join Hut 8 as Principal, Chief of Staff. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "902cacd7-224d-40a0-aac1-0061a9489b30",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n3bfi26shc2l"
     }
   ]
 }
