@@ -82,6 +82,17 @@ async function main() {
     }
   }
 
+  const apisFile = path.join(process.cwd(), 'content', 'crypto-apis', 'listings.json');
+  const apisData = fs.existsSync(apisFile)
+    ? JSON.parse(fs.readFileSync(apisFile, 'utf-8'))
+    : { listings: [] };
+  const apiSlugs = new Set<string>();
+  if (Array.isArray(apisData?.listings)) {
+    for (const a of apisData.listings) {
+      if (a.slug) apiSlugs.add(a.slug.toLowerCase().trim());
+    }
+  }
+
   const grantsMetaFile = path.join(process.cwd(), 'content', 'grants-meta.json');
   fs.writeFileSync(
     grantsMetaFile,
@@ -114,6 +125,7 @@ async function main() {
     articles: Array.from(articleSlugs),
     popups: Array.from(popupSlugs),
     grants: Array.from(grantSlugs).sort(),
+    apis: Array.from(apiSlugs).sort(),
     jobs: Array.from(jobSlugs).sort(),
     staticPages: Array.from(staticPageSlugs).sort(),
     pages: Array.from(pageSlugs).sort(),

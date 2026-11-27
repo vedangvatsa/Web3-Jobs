@@ -141,6 +141,7 @@ export const PREBUILD_DATA_STEPS: PrebuildStep[] = [
       'content/events/redirects.json',
       'content/image-redirects.json',
       'content/articles/legacy-slugs.json',
+      'content/crypto-apis/listings.json',
     ],
     outputs: ['content/slug-types.json'],
     command: 'npx tsx scripts/generate-slug-types.ts',
