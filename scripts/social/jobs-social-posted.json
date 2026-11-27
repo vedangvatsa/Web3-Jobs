@@ -204467,6 +204467,35 @@
       "attemptId": "7a1e25f6-e23f-4087-8e1a-ad42a17c07db",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "rsa",
+      "company": "Ripple",
+      "title": "RFP Specialist (Americas)",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T17:20:39.478Z",
+      "expectedText": "Ripple is hiring RFP Specialist: https://hashtagweb3.com/rsa/fb?og=7",
+      "snapshot": {
+        "id": "8349630",
+        "title": "RFP Specialist (Americas)",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8349630?gh_jid=8349630",
+        "date": "2026-11-16T10:24:57-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Chicago, IL",
+        "department": "Sales",
+        "active": true,
+        "salary": "$92k – $110k/yr",
+        "dateVerified": true,
+        "slug": "rsa"
+      },
+      "payload": {
+        "message": "Ripple is hiring RFP Specialist: https://hashtagweb3.com/rsa/fb?og=7",
+        "link": "https://hashtagweb3.com/rsa/fb?og=7"
+      },
+      "attemptId": "9ed460e1-f463-4af0-b488-87de237e070b",
+      "verification": "creating"
     }
   ]
 }
