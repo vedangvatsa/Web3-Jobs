@@ -202738,6 +202738,34 @@
       "attemptId": "c7105609-623c-4402-9627-eb9277162eb4",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "pm376",
+      "company": "BitGo",
+      "title": "Head of Design, Product Design",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T13:02:53.862Z",
+      "expectedText": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm376/fb?og=7",
+      "snapshot": {
+        "id": "8934163002",
+        "title": "Head of Design, Product Design",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934163002",
+        "date": "2026-11-06T19:57:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "New York, NY",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm376"
+      },
+      "payload": {
+        "message": "BitGo is hiring Head of Design: https://hashtagweb3.com/pm376/fb?og=7",
+        "link": "https://hashtagweb3.com/pm376/fb?og=7"
+      },
+      "attemptId": "3200e527-ce1f-4e78-bdbc-f7a4e86f6991",
+      "verification": "creating"
     }
   ]
 }
