@@ -767,6 +767,10 @@ jobs:
       - name: Enrich event speakers from official pages
         run: node scripts/enrich-event-speakers.mjs
         continue-on-error: true
+
+      - name: Enrich short event descriptions to 100+ words with official copy
+        run: npx tsx scripts/enrich-event-descriptions-100w.ts --apply --limit=50
+        continue-on-error: true
       - name: Validate event description formatting
         run: npx tsx scripts/test-event-formatting.ts
       - name: Precompute and verify event catalogs

@@ -79,7 +79,7 @@ export function buildFactLines(facts: EventFacts): string[] {
   if (facts.price) lines.push(`Tickets: ${facts.price}`);
   if (facts.approvalRequired) lines.push('Registration: requires approval from the organiser');
   else if (facts.registration) lines.push(`Registration: ${facts.registration}`);
-  if (facts.sourceUrl) lines.push(`Event page: ${facts.sourceUrl}`);
+
   return lines;
 }
 

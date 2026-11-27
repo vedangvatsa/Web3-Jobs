@@ -290,7 +290,14 @@ async function main() {
       return;
     }
 
-    event.description = composed.description;
+        // Strictly strip all hyperlinks or raw URLs before saving
+    let cleanedDesc = composed.description
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+      .replace(/\s*\(https?:\/\/[^)]+\)/gi, '')
+      .replace(/https?:\/\/[^\s)\]]+/gi, '')
+      .replace(/[ \t]+/g, ' ')
+      .trim();
+    event.description = cleanedDesc;
     const fetchedAt = new Date().toISOString();
     event.descriptionSource = {
       url: sourceUrl,
