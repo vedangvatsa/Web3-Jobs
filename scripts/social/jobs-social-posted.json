@@ -202367,7 +202367,8 @@
       },
       "account": "channel:base",
       "attemptId": "1b11e233-21a8-40a3-8cfd-e2625d35a801",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x108590cdbad3346cdc3375ff5a82b17d3b2a2866"
     }
   ]
 }
