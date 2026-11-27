@@ -1120,5 +1120,36 @@
     "slotKey": "2026-11-27:morning",
     "messageId": 65859,
     "sentAt": "2026-11-27T04:55:40.512Z"
+  },
+  "7fd24d2d-374a-4437-8d6c-553d36c717bf": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T13:04:43.337Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "First Swiss Spot Bitcoin ETF Begins Trading on SIX",
+        "summary": "Following FINMA approval in October, BIT Asset Management's fund debuted with 350 bitcoin in assets.",
+        "link": "https://hashtagweb3.com/bbitlisting?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Switzerland's first spot Bitcoin ETF starts trading on SIX"
+      },
+      {
+        "index": -1,
+        "headline": "UK bans crypto exchanges from internal market making",
+        "summary": "New rules prevent centralized trading platforms from providing liquidity to their own venues to avoid conflicts of interest.",
+        "link": "https://hashtagweb3.com/ukexchangemarketmaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK bars crypto exchanges from market making on their own platforms"
+      },
+      {
+        "index": -1,
+        "headline": "Fed Governor Waller backs traditional payments for tokenized markets",
+        "summary": "Waller says existing payment systems and central bank money will continue to support the growth of tokenized finance.",
+        "link": "https://hashtagweb3.com/wallerrate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Fed's Waller Backs Traditional Rails for Tokenized Markets in TCH Speech"
+      }
+    ],
+    "slotKey": "2026-11-27:afternoon"
   }
 }
