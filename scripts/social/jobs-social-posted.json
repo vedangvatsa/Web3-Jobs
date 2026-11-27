@@ -202087,7 +202087,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "4883a3f7-f3ec-471d-87e7-caa99851ab29",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x23eac5fd8fbdfc766834199304995b7dbbbcb162"
     }
   ]
 }
