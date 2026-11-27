@@ -202089,6 +202089,40 @@
       "attemptId": "4883a3f7-f3ec-471d-87e7-caa99851ab29",
       "verification": "verified",
       "postId": "0x23eac5fd8fbdfc766834199304995b7dbbbcb162"
+    },
+    {
+      "slug": "pm376",
+      "company": "BitGo",
+      "title": "Head of Design, Product Design",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T13:02:53.862Z",
+      "expectedText": "BitGo is hiring Head of Design\n\nhttps://hashtagweb3.com/pm376/fc?og=7",
+      "snapshot": {
+        "id": "8934163002",
+        "title": "Head of Design, Product Design",
+        "company": "BitGo",
+        "link": "https://job-boards.greenhouse.io/bitgo/jobs/8934163002",
+        "date": "2026-11-06T19:57:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: BitGo [bitgo]",
+        "location": "New York, NY",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm376"
+      },
+      "payload": {
+        "text": "BitGo is hiring Head of Design\n\nhttps://hashtagweb3.com/pm376/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm376/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "45c235d7-90d1-499b-9788-ed74ef605d2e",
+      "verification": "creating"
     }
   ]
 }
