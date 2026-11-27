@@ -206618,6 +206618,34 @@
       "attemptId": "92c09327-cf06-42e5-b34c-e5280c3ae204",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "eng783",
+      "company": "StraitsX",
+      "title": "Site Reliability Engineer",
+      "platform": "threads",
+      "postedAt": "2026-11-27T23:07:31.956Z",
+      "expectedText": "StraitsX is hiring Site Reliability Engineer: https://hashtagweb3.com/eng783/th?og=7",
+      "snapshot": {
+        "id": "5026840101",
+        "title": "Site Reliability Engineer",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5026840101",
+        "date": "2026-11-13T01:25:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng783"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Site Reliability Engineer: https://hashtagweb3.com/eng783/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/eng783/th?og=7"
+      },
+      "attemptId": "c21cf124-5c49-4cd6-acab-f49fad13da93",
+      "verification": "creating"
     }
   ]
 }
