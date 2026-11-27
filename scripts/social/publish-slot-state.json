@@ -1472,10 +1472,12 @@
           "hashratehijack",
           "bbitlisting"
         ],
-        "phase": "building",
+        "phase": "rolling-out",
         "startedAt": "2026-11-27T03:30:51.026Z",
         "buildId": "daily-20261127-45927514407-1",
-        "rolloutId": "daily-20261127-45927514407-1"
+        "rolloutId": "daily-20261127-45927514407-1",
+        "buildState": "READY",
+        "observedAt": "2026-11-27T04:04:34.621Z"
       }
     ]
   }
