@@ -203834,7 +203834,8 @@
       },
       "account": "channel:web3",
       "attemptId": "d2f15b17-4724-4501-9a22-d12891b638e4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf55a57b7760245378288dea07ef2d571317452fe"
     }
   ]
 }
