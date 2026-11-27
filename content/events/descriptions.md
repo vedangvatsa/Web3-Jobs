@@ -4286,6 +4286,28 @@ Event Highlights Curated Leadership Conversations Exclusive Networking Innovatio
 
 Meet an exclusive community of blockchain, Web3, and AI professionals Discover fresh perspectives on decentralized innovation and emerging technologies Build valuable relationships with founders, investors, and decision-makers Explore collaboration opportunities across business, research, and social impact Enjoy a unique combination of professional discussions, wellness, and mountain activities Don't miss PEER Summit 2027 and experience a unique blend of innovation, collaboration, and mountain activities, and connect with the people shaping the future of blockchain and AI.
 
+<a id="event-72db9a40391eccc1"></a>
+
+## CfC St. Moritz 2027
+
+- Record: `premier-cfc-stmoritz-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-13T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://cfc-stmoritz.com/>
+- Original page: <https://cfc-stmoritz.com/apply>
+
+### High-Level Digital Assets & Private Wealth Gathering in the Swiss Alps
+
+CfC St. Moritz is an exclusive, invitation-only conference for sophisticated private investors, family offices, fund managers, financial institutions, and digital asset leaders. Set in the Engadin valley, the event provides a high-trust forum for in-depth dialogue on global digital asset regulation, macro investment strategies, decentralized finance, and digital asset custody.
+
+### Programme and Discussion Pillars
+
+- Institutional Digital Assets: Allocation strategies, market infrastructure, liquidity, and prime brokerage solutions.
+- Global Regulation and Compliance: Evolving international frameworks, cross-border digital asset standards, and institutional risk management.
+- Blockchain Infrastructure and Innovation: Layer-1 scalability, modular ecosystems, privacy architectures, and real-world asset tokenization.
+- Private Wealth and Family Office Roundtables: Confidential Chatham House style sessions connecting family principals and leading asset managers.
+
 <a id="event-f882224b328413ab"></a>
 
 ## BitcoinDay Naples 2027
@@ -5270,6 +5292,27 @@ Key Themes Generative AI and Agentic AI Enterprise AI Adoption and Automation AI
 
 Amal Abdulrahim - Chief AI Officer, Ministry of Climate Change and Environment. Eng. Mozah Mohamed Alnuaimi - Chief AI Officer, Ministry of Energy and Infrastructure (MOEI), UAE. Dr. Saeed Al Mansoori - Director, Remote Sensing Department, Mohammed Bin Rashid Space Centre. Don't miss the Global AI Show Abu Dhabi 2027 to join the AI revolution and meet the entrepreneurs, financiers, and decision-makers creating the intelligent world of the future. Explore the latest developments, find new chances, and attend one of the fascinating artificial intelligence conferences in Abu Dhabi in 2027.
 
+<a id="event-707a6a2c7b7f018a"></a>
+
+## ETHDenver 10
+
+- Record: `premier-ethdenver-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-24T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://ethdenver.com/>
+
+### The Community-Owned Ethereum & Web3 Festival in the Mile High City
+
+ETHDenver celebrates its milestone 10th edition in Denver, Colorado. As one of the world largest gatherings of Ethereum builders, open-source developers, and decentralized technology innovators, ETHDenver unites engineers, designers, founders, and community organizers for two days of keynotes, hackathons, and community-led workshops.
+
+### Focus Areas and Festival Highlights
+
+- Ethereum Core Protocol: Layer-1 upgrades, account abstraction, statelessness, and consensus advancements.
+- Layer-2 Scaling & Modular Infrastructure: Optimistic and zero-knowledge rollups, shared sequencing, and cross-chain interoperability.
+- Decentralized Applications & Tooling: Smart contract security, developer tooling, decentralized storage, and on-chain governance.
+- Open Community & Builder Culture: Collaborative hack spaces, open-source mentoring, and ecosystem showcases for teams shaping decentralized infrastructure.
+
 <a id="event-bf5d9f0d968ca38f"></a>
 
 ## GLOBAL GAME CONNECT 2027
@@ -5515,6 +5558,27 @@ No Parallel Sessions: Everyone shares the same event experience Invite Only: A c
 ### About the event
 
 The 5th annual Hong Kong Web3 Festival, co-hosted by Wanxiang Blockchain Labs and HashKey Group and organized by W3ME at the Hong Kong Convention and Exhibition Centre (HKCEC). As one of the largest cryptocurrency and blockchain summits in Asia, the festival convenes industry leaders, builders, policymakers, and venture capitalists to discuss Layer-2 scaling, open finance, digital asset regulation, decentralized AI, and institutional blockchain adoption across global markets.
+
+<a id="event-5d73f7e7cd59d5ca"></a>
+
+## Hong Kong Web3 Festival 2027
+
+- Record: `premier-hong-kong-web3-festival-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-19T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.web3festival.org/>
+
+### Asia Premier Web3 & OnChain Finance Gathering
+
+Co-hosted by Wanxiang Blockchain Labs and HashKey Group, the Hong Kong Web3 Festival returns to the Hong Kong Convention and Exhibition Centre (HKCEC). As one of Asia flagship digital asset gatherings, the festival brings together thousands of industry leaders, financial institutions, developers, and regulators to explore the future of on-chain finance, tokenized capital markets, and decentralized infrastructure across the Asia-Pacific region.
+
+### Main Stages and Key Themes
+
+- OnChain Finance & Institutional Leadership: Real-world asset (RWA) tokenization, institutional digital asset custody, compliant settlement, and capital market transformation.
+- Web3 Infrastructure & Cryptography: High-throughput blockchain architectures, zero-knowledge proofs, decentralized identity, and cross-border payment networks.
+- Policy, Licensing & Regulation: Regulatory pathways in Hong Kong, international licensing standards, and global compliance for virtual asset platforms.
+- Community & Ecosystem Demos: Hands-on technical demos, developer workshops, and project showcases featuring foundational Web3 protocols.
 
 <a id="event-b0ba1c3446ba333e"></a>
 
@@ -5812,18 +5876,6 @@ Participate in pre-scheduled one-to-one meetings with potential clients and busi
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-245292a9057b020f"></a>
-
-## ETHPrague 2027
-
-- Record: `premier-ethprague-2027`
-- Source: [curated-events.json](sources/curated-events.json)
-- Starts: 2027-05-14T09:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://ethprague.com>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-e29b4024b2ed8ed3"></a>
 
 ## International Conference on AI Blockchain and Cybersecurity 2027
@@ -5935,6 +5987,27 @@ Bitcoin Treasuries Conference UK 2027 is an excellent opportunity to get insight
 2. Institutional Custody: Learn how companies can secure their Bitcoin by using institutional custody options. 3. Capital Markets and Investor Perspectives: Understand how capital is allocated; what investors expect; and what the market thinks. 4. Bitcoin as Digital Capital: Understand how organisations are assessing Bitcoin as a capital asset. Understand how it could be used within balance sheets and capital strategies. Don't miss Bitcoin Treasuries Conference UK 2027, taking place on 28 May 2027 in Bristol, United Kingdom.
 
 Explore how businesses are integrating Bitcoin into their financial strategies, learn about institutional investment and Bitcoin treasury management, and connect with professionals shaping the future of corporate Bitcoin adoption.
+
+<a id="event-245292a9057b020f"></a>
+
+## ETHPrague 2027
+
+- Record: `premier-ethprague-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-28T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://ethprague.com/>
+
+### Future-Facing Ethereum Conference & Hackathon
+
+ETHPrague brings together Cypherpunks, Ethereum researchers, protocol engineers, and decentralized tech builders in the historic capital of the Czech Republic. The event challenges conventional assumptions and focuses on the long-term future of decentralized coordination, permissionless infrastructure, and human freedom enabled by cryptography.
+
+### Core Tracks and Focus Areas
+
+- Cryptography & Privacy Tech: Zero-knowledge proofs, multiparty computation, censorship-resistance, and private transactions.
+- Governance & Decentralized Coordination: Novel voting mechanisms, public goods funding, decentralized autonomous organizations, and resilient communities.
+- Open-Source Protocol Engineering: Virtual machine design, consensus research, Layer-2 innovations, and decentralized identity.
+- Builders Hackathon & Workshops: Three days of intensive collaboration, building privacy-preserving and sovereign tools for the open web.
 
 <a id="event-f61ed6df356a6973"></a>
 
@@ -6191,6 +6264,27 @@ Passes The 2027 General Admission pass is listed at $69 and covers two-day acces
 The Whale Pass is $1,499 and includes backstage deep sessions with speakers, all-inclusive food and drinks, access to Whale Night side events and the after-party, The Deep private lounge, priority seating and a VIP gift bag.  Groups and companies can request a tailored package
 
 Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder, Network School), Dr Hon Johnny Ng and Kit Chong MH (Hong Kong Legislative Council), David Bailey (CEO and chairman, Nakamoto Inc.), Simon Gerovich (CEO, Metaplanet), Justin Sun (advisor, WBTC), Aj Scaramucci (founder and CEO, Treasure Trove), Jack Kong (founder and board member, Nano Labs and Hong Kong Cyberport), Bonnie Chang (founder and host, Bonnie Blockchain) and Bilal Bin Saqib (chairman, Pakistan Virtual Assets Regulatory Authority). Bitcoin Asia is published by BTC Inc, a subsidiary of Nakamoto Inc. (NASDAQ: NAKA).
+
+<a id="event-261c825033bd2f01"></a>
+
+## European Blockchain Convention 2027
+
+- Record: `premier-ebc-barcelona-2027`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-09-23T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://eblockchainconvention.com/>
+
+### Europe Influential Blockchain & Web3 Summit in Barcelona
+
+The European Blockchain Convention (EBC13) returns to Barcelona, uniting more than 6,000 attendees, 300 speakers, and industry executives from across the global Web3 ecosystem. The two-day event features three stages covering real-world assets, decentralized finance, crypto regulations, gaming, and artificial intelligence.
+
+### Conference Agenda & Industry Stages
+
+- Institutional Digital Assets & Tokenization: Traditional financial institutions exploring on-chain settlement, treasury tokenization, and digital fund structures.
+- DeFi, Liquidity & Stablecoins: Next-generation lending markets, algorithmic and fiat-backed stablecoins, and liquidity optimization.
+- European Regulation & MiCA Implementation: In-depth discussions on the regulatory environment in the EU, licensing obligations, and investor protections.
+- Web3 Startup Discovery & Investor Pitching: 100+ innovative startups showcasing solutions to European and international venture capital funds.
 
 <a id="event-c41a4f3f27dd9d5c"></a>
 

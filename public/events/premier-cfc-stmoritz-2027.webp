@@ -1,0 +1,266 @@
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CfC St. Moritz | Error</title>
+    <link rel="shortcut icon" type="image/png" href="https://cfc-stmoritz.com/assets/favicon.png?v=1786544807" />
+        <meta name="author" content="CfC St. Moritz">
+    <meta name="copyright" content="CfC St. Moritz">
+    <meta name="description" content="Highly curated digital assets and blockchain conference for investors and decision-makers, set in the breathtaking scenery of the Swiss Alps.">
+    <meta property="og:url" content="https://cfc-stmoritz.com/error">
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="CfC St. Moritz | Error" />
+    <meta property="og:site_name" content="CfC St. Moritz" />
+    <meta property="og:description" content="Highly curated digital assets and blockchain conference for investors and decision-makers, set in the breathtaking scenery of the Swiss Alps." />
+    <meta name="image" content="https://cfc-stmoritz.com/media/site/4837056d5c-1786544811/social_share.webp">
+    <meta property="og:image" content="https://cfc-stmoritz.com/media/site/4837056d5c-1786544811/social_share.webp">
+    <meta property="twitter:image" content="https://cfc-stmoritz.com/media/site/4837056d5c-1786544811/social_share.webp">
+
+    <link rel="preload" href="https://cfc-stmoritz.com/assets/dist/main.css?v=1793108960" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <script defer type="text/javascript" src="https://cfc-stmoritz.com/assets/dist/main.js?v=1793108960"></script>
+            <meta name="google-site-verification" content="hsXIeOA-qaLtHyNoZFz2QZavdFrA6SerkFYOBJJz3uE" />
+        <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-CNLQS0JGGK"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-CNLQS0JGGK');
+</script>
+<!-- End Google Tag Manager -->
+
+
+<script type="text/javascript">
+    _linkedin_partner_id = "414740";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script>
+
+<script type="text/javascript">
+    (function(l) {
+        if (!l) {
+            window.lintrk = function(a, b) {
+                window.lintrk.q.push([a, b])
+            };
+            window.lintrk.q = []
+        }
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+    })(window.lintrk);
+</script>    </head>
+
+<body class="page_Gc9jXsLyi3XVHKc1 relative error" data-controller="nav burger" data-template="error">
+    
+    <div class="flex flex-col min-h-[100vh]">
+        
+<nav class="text-white z-30 fixed left-0 w-full" data-nav-target="navElement">
+    <div class="underlay absolute-fill bg-black opacity-0" data-nav-target="underlay"></div>
+    <div class="relative z-20 flex h-16 md:h-24 items-center justify-center contained-xl">
+                    <div class="logo w-12 md:w-20" data-nav-target="logo">
+                <a href="/">
+                    <div class=""><picture><source sizes="100vw" srcset="https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-300x.webp 320w, https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-640x.webp 640w, https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-1024x.webp 1024w, https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-1440x.webp 1440w" type="image/webp"><img alt="CfC St. Moritz" class="" height="1224" sizes="100vw" src="https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-300x.png" srcset="https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-300x.png 320w, https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-640x.png 640w, https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-1024x.png 1024w, https://cfc-stmoritz.com/media/site/800f06c9ba-1786544808/cfc_logo-1440x.png 1440w" width="1224"></picture></div>                </a>
+            </div>
+                <div class="grow middle"></div>
+        <div class="menu">
+            
+
+<div class="hidden md:flex items-center justify-center">
+    <ul class="flex pr-10 items-center justify-center">
+                                <li class="group pl-8 first:pl-0 text-xs uppercase leading-none relative max-w-[1500px]">
+                <a class="cursor-pointer text-white opacity-70 hover:opacity-100m" href="https://cfc-stmoritz.com/speakers">Speakers</a>                            </li>
+                                <li class="group pl-8 first:pl-0 text-xs uppercase leading-none relative max-w-[1500px]">
+                <a class="cursor-pointer text-white opacity-70 hover:opacity-100m" href="https://cfc-stmoritz.com/agenda">Agenda</a>                            </li>
+                                <li class="group pl-8 first:pl-0 text-xs uppercase leading-none relative max-w-[1500px]">
+                <a class="cursor-pointer text-white opacity-70 hover:opacity-100m" href="https://cfc-stmoritz.com/partners">Partners</a>                            </li>
+                                <li class="group pl-8 first:pl-0 text-xs uppercase leading-none relative max-w-[1500px]">
+                <a class="cursor-pointer text-white opacity-70 hover:opacity-100m" href="https://cfc-stmoritz.com/error">About</a>                                    <div class="hidden pt-2 group-hover:block hover:block whitespace-nowrap  absolute left-0">
+                        <ul class="bg-white border shadow py-2 ">
+                                                            <li class="leading-none py-2 px-4">
+
+                                    <a class="text-black" href="https://cfc-stmoritz.com/how-to-join">How to Join</a>                                </li>
+                                                            <li class="leading-none py-2 px-4">
+
+                                    <a class="text-black" href="https://cfc-stmoritz.com/behind-the-scenes">Behind the Scenes</a>                                </li>
+                                                            <li class="leading-none py-2 px-4">
+
+                                    <a class="text-black" href="https://cfc-stmoritz.com/media-corner">Media Corner</a>                                </li>
+                                                            <li class="leading-none py-2 px-4">
+
+                                    <a class="text-black" href="https://cfc-stmoritz.com/newsletter">Newsletter</a>                                </li>
+                                                            <li class="leading-none py-2 px-4">
+
+                                    <a class="text-black" href="https://cfc-stmoritz.com/knowledge-center">Knowledge Center</a>                                </li>
+                                                            <li class="leading-none py-2 px-4">
+
+                                    <a class="text-black" href="https://cfc-stmoritz.com/past-events">Past Events</a>                                </li>
+                                                    </ul>
+                    </div>
+                            </li>
+                                <li class="group pl-8 first:pl-0 text-xs uppercase leading-none relative max-w-[1500px]">
+                <a class="cursor-pointer text-white opacity-70 hover:opacity-100m" href="https://industry-days.com/" target="_blank">Industry Days</a>                            </li>
+            </ul>
+            <div class="py-1 relative -translate-y-[0.2rem]">
+            
+<a class="bg-gold hover:bg-goldHover text-black py-3 px-6 font-bold uppercase cursor-pointer outline-none border-none rounded-3xl text-xs no-underline " href="/apply">apply</a>        </div>
+    </div>            <div class="md:hidden">
+                <a class="text-3xl navOpen active animate-flipInY" data-burger-target="navOpen" data-action="burger#open"><i class="ri-menu-line"></i></a>
+                <a class="text-3xl navClose animate-flipInY" data-burger-target="navClose" data-action="burger#close"><i class="ri-close-large-line"></i></a>
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="drawer animate-fadeInLeft bg-black fixed left-0 w-full z-30 top-[4rem]  md:top-[6rem] h-[calc(100vh_-_4rem)] md:h-[calc(100vh_-_6rem)]" data-burger-target="nav">
+    <div class="scroll menu  inverse flex flex-col h-screen" data-burger-target="menu">
+        <div class="contained">
+            <ul class="text-white">
+                                                        <li class="text-sm font-brown_bold text-white uppercase py-6 border-b-2 border-white last:border-b-0 border-opacity-30">
+                        <a class="" href="https://cfc-stmoritz.com/speakers">Speakers</a>                                            </li>
+                                                        <li class="text-sm font-brown_bold text-white uppercase py-6 border-b-2 border-white last:border-b-0 border-opacity-30">
+                        <a class="" href="https://cfc-stmoritz.com/agenda">Agenda</a>                                            </li>
+                                                        <li class="text-sm font-brown_bold text-white uppercase py-6 border-b-2 border-white last:border-b-0 border-opacity-30">
+                        <a class="" href="https://cfc-stmoritz.com/partners">Partners</a>                                            </li>
+                                                        <li class="text-[0.7rem] opacity-80  text-white uppercase py-6 border-b-2 border-white last:border-b-0 border-opacity-30">
+                        <a class="" href="https://cfc-stmoritz.com/error">About</a>                                                    <ul class="pt-2">
+                                                                    <li class="text-white text-sm uppercase py-2">
+                                        <a class="" href="https://cfc-stmoritz.com/how-to-join">How to Join</a>                                    </li>
+                                                                    <li class="text-white text-sm uppercase py-2">
+                                        <a class="" href="https://cfc-stmoritz.com/behind-the-scenes">Behind the Scenes</a>                                    </li>
+                                                                    <li class="text-white text-sm uppercase py-2">
+                                        <a class="" href="https://cfc-stmoritz.com/media-corner">Media Corner</a>                                    </li>
+                                                                    <li class="text-white text-sm uppercase py-2">
+                                        <a class="" href="https://cfc-stmoritz.com/newsletter">Newsletter</a>                                    </li>
+                                                                    <li class="text-white text-sm uppercase py-2">
+                                        <a class="" href="https://cfc-stmoritz.com/knowledge-center">Knowledge Center</a>                                    </li>
+                                                                    <li class="text-white text-sm uppercase py-2">
+                                        <a class="" href="https://cfc-stmoritz.com/past-events">Past Events</a>                                    </li>
+                                                            </ul>
+                                            </li>
+                                                        <li class="text-sm font-brown_bold text-white uppercase py-6 border-b-2 border-white last:border-b-0 border-opacity-30">
+                        <a class="" href="https://industry-days.com/">Industry Days</a>                                            </li>
+                            </ul>
+
+                            <div class="relative -translate-x-2">
+                    
+<a class="bg-gold hover:bg-goldHover text-black py-3 px-6 font-bold uppercase cursor-pointer outline-none border-none rounded-3xl text-xs no-underline " href="/apply">apply</a>                </div>
+                    </div>
+    </div>
+    <div class="scroll pb-24 h-screen overflow-y-scroll modal flex flex-col bg-white" data-burger-target="modal">
+        <div class="close-corner absolute top-8 right-8">
+            <a class="burger-toggle text-3xl text-black cursor-pointer" data-burger-target="navClose" data-action="burger#close">
+                <i class="ri-close-large-line"></i>
+            </a>
+        </div>
+        <div class="content contained small py-8" data-burger-target="modalContent"></div>
+        <div class="w-full text-center mt-4 mb-8">
+            <a class="button black" data-action="burger#close">close</a>
+        </div>
+    </div>
+</div>                    
+<header class="relative flex flex-col justify-end overflow-hidden bg-black h-[14rem] md:h-[24rem]">
+    <div class="absolute bg-black top-[4rem] md:top-[6rem] left-0 bottom-0 right-0 w-full">
+        <div class=""><picture><source sizes="100vw" srcset="https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-300x.webp 320w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-640x.webp 640w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1024x.webp 1024w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1440x.webp 1440w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1920x.webp 1920w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-2560x.webp 2560w" type="image/webp"><img class="object-cover object-left-top h-[24rem] opacity-70 w-full hidden md:block" height="1214" sizes="100vw" src="https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-2560x.png" srcset="https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-300x.png 320w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-640x.png 640w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1024x.png 1024w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1440x.png 1440w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1920x.png 1920w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-2560x.png 2560w" width="5366"></picture></div>        <div class=""><picture><source sizes="100vw" srcset="https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-300x.webp 320w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-640x.webp 640w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1024x.webp 1024w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1440x.webp 1440w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1920x.webp 1920w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-2560x.webp 2560w" type="image/webp"><img class="object-cover object-left-top h-[14rem] opacity-70 md:hidden" height="999" sizes="100vw" src="https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-2560x.png" srcset="https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-300x.png 320w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-640x.png 640w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1024x.png 1024w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1440x.png 1440w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1920x.png 1920w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-2560x.png 2560w" width="1248"></picture></div>    </div>
+    <div class="relative z-10 contained">
+        <div class="mb-8 md:mb-20">
+            <h1 class="text-white text-[2rem] md:text-[3rem] font-brown_bold">Error</h1>
+        </div>
+    </div>
+</header>                <main class="min-h-screen ">
+                            
+<div class="pt-8 md:pt-16 pb-8 md:pb-16  ">
+            <section class="group relative   pt-0 pb-0 md:pb-0 light-background text-left" id="75fc1370-ac7c-4a97-8750-a5946cdd2fc0">
+            <div class="md:flex  gap-8 contained ">
+                                    <div class="column columns-1 flex-[1]" style="">
+                                                                                <div class="block block-type-heading  " id="bb44db2ae-b0a7-4e29-ab38-94e721ad884e">
+                                <h2>404 - Not Found</h2>
+                            </div>
+                                                                                <div class="block block-type-text  " id="b42d222c7-cb77-44f7-ada1-ed9f39ba635d">
+                                <div class="prose">
+    <p>The requested page cannot be found. </p><p>If you believe you are seeing this message in error, please contact us at <a href="mailto:info@cfc-stmoritz.com">info@cfc-stmoritz.com</a></p></div>                            </div>
+                                            </div>
+                            </div>
+        </section>
+    </div>                    </main>
+        <footer>
+            <div class="relative overflow-x-hidden bg-black text-white w-full flex flex-col items-center">
+    <div class="contained">
+        <div class="flex justify-center h-32 my-8 md:my-16 md:h-40">
+            <div class="flex border-l border-white"></div>
+            <div class="flex border-r border-white"></div>
+        </div>
+        <div class="inline-flex w-full justify-center items-center flex-row">
+                            
+                <a href="https://twitter.com/CFCstmoritz" target="_blank" class="ml-4 md:ml-8 first:ml-0 text-xl leading-none p-2 flex items-center justify-center rounded-full bg-white text-black">
+                    <i class="ri-twitter-x-fill"></i>
+                </a>
+
+
+
+                            
+                <a href="https://www.linkedin.com/company/cryptofinanceconference/" target="_blank" class="ml-4 md:ml-8 first:ml-0 text-xl leading-none p-2 flex items-center justify-center rounded-full bg-white text-black">
+                    <i class="ri-linkedin-fill"></i>
+                </a>
+
+
+
+                            
+                <a href="https://instagram.com/cfcstmoritz" target="_blank" class="ml-4 md:ml-8 first:ml-0 text-xl leading-none p-2 flex items-center justify-center rounded-full bg-white text-black">
+                    <i class="ri-instagram-line"></i>
+                </a>
+
+
+
+                            
+                <a href="https://www.youtube.com/channel/UClExpOgMY52pOc3OWGkXoeg" target="_blank" class="ml-4 md:ml-8 first:ml-0 text-xl leading-none p-2 flex items-center justify-center rounded-full bg-white text-black">
+                    <i class="ri-youtube-fill"></i>
+                </a>
+
+
+
+                    </div>
+        <div class="leading-loose my-16 text-xs text-center">
+            Copyright © 2026 cfcstmoritz <br />
+            All rights reserved
+        </div>
+        <ul class="my-16 md:flex w-full flex-wrap justify-center md:px-24">
+                            <li class="my-4 md:my-0 text-center grow">
+                    <a class="text-gold uppercase text-xs" href="https://cfc-stmoritz.com/disclaimer">Disclaimer</a>                </li>
+                            <li class="my-4 md:my-0 text-center grow">
+                    <a class="text-gold uppercase text-xs" href="https://cfc-stmoritz.com/contact">Contact</a>                </li>
+                            <li class="my-4 md:my-0 text-center grow">
+                    <a class="text-gold uppercase text-xs" href="https://cfc-stmoritz.com/newsletter">Newsletter</a>                </li>
+                            <li class="my-4 md:my-0 text-center grow">
+                    <a class="text-gold uppercase text-xs" href="https://cfc-stmoritz.com/toa">Terms of Attendance</a>                </li>
+                            <li class="my-4 md:my-0 text-center grow">
+                    <a class="text-gold uppercase text-xs" href="https://cfc-stmoritz.com/dpp">Data Protection Policy</a>                </li>
+                    </ul>
+    </div>
+    <div>
+        <div class=""><picture><source sizes="100vw" srcset="https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-300x.webp 320w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-640x.webp 640w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1024x.webp 1024w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1440x.webp 1440w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1920x.webp 1920w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-2560x.webp 2560w" type="image/webp"><img class="hidden md:block" height="1214" sizes="100vw" src="https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-2560x.png" srcset="https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-300x.png 320w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-640x.png 640w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1024x.png 1024w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1440x.png 1440w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-1920x.png 1920w, https://cfc-stmoritz.com/media/site/f66a80a3e5-1786544809/mountain-color-1-2560x.png 2560w" width="5366"></picture></div>        <div class=""><picture><source sizes="100vw" srcset="https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-300x.webp 320w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-640x.webp 640w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1024x.webp 1024w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1440x.webp 1440w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1920x.webp 1920w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-2560x.webp 2560w" type="image/webp"><img class="md:hidden" height="999" sizes="100vw" src="https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-2560x.png" srcset="https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-300x.png 320w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-640x.png 640w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1024x.png 1024w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1440x.png 1440w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-1920x.png 1920w, https://cfc-stmoritz.com/media/site/f22b6c6528-1786544809/mountain-mobile-color-1-2560x.png 2560w" width="1248"></picture></div>
+    </div>
+</div>        </footer>
+    </div>
+    
+<div class="cookie-consent animated inverse fadeInUp" data-controller="cookie-consent">
+    <div class="inner">
+        <div class="left paragraph">
+            <p>We use cookies and similar technologies to improve the user experience on our websites, analyze our traffic, personalize content and advertising, and provide social media features. By continuing to use this website, you consent to our use of cookies and similar technologies. Learn more <a href="https://cfc-stmoritz.com/dpp" rel="noreferrer" target="_blank">here</a>.</p>        </div>
+        <div class="right">
+            <a data-action="cookie-consent#ok" class="button black">OK</a>
+        </div>
+    </div>
+</div>    </body>
+
+</html>

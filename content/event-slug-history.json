@@ -5791,5 +5791,17 @@
   "premier-usa-fintech-conference": {
     "slug": "usa-fintech-conference-milan",
     "aliases": []
+  },
+  "premier-cfc-stmoritz-2027": {
+    "slug": "cfc-st-moritz-2027",
+    "aliases": []
+  },
+  "premier-ethdenver-2027": {
+    "slug": "ethdenver-2027",
+    "aliases": []
+  },
+  "premier-ebc-barcelona-2027": {
+    "slug": "european-blockchain-convention-2027",
+    "aliases": []
   }
 }

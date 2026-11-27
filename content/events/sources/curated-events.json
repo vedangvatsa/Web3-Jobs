@@ -97,19 +97,26 @@
   },
   {
     "id": "premier-ethprague-2027",
-    "slug": "ethprague",
+    "slug": "ethprague-2027",
     "name": "ETHPrague 2027",
-    "description": "Three days of talks, workshops, and hands-on hacking exploring Ethereum, cypherpunk values, scalability, zero-knowledge proofs, and decentralized coordination.",
-    "startDate": "2027-05-14T09:00:00.000Z",
-    "endDate": "2027-05-16T18:00:00.000Z",
+    "description": "## Future-Facing Ethereum Conference & Hackathon\n\nETHPrague brings together Cypherpunks, Ethereum researchers, protocol engineers, and decentralized tech builders in the historic capital of the Czech Republic. The event challenges conventional assumptions and focuses on the long-term future of decentralized coordination, permissionless infrastructure, and human freedom enabled by cryptography.\n\n## Core Tracks and Focus Areas\n\n- Cryptography & Privacy Tech: Zero-knowledge proofs, multiparty computation, censorship-resistance, and private transactions.\n\n- Governance & Decentralized Coordination: Novel voting mechanisms, public goods funding, decentralized autonomous organizations, and resilient communities.\n\n- Open-Source Protocol Engineering: Virtual machine design, consensus research, Layer-2 innovations, and decentralized identity.\n\n- Builders Hackathon & Workshops: Three days of intensive collaboration, building privacy-preserving and sovereign tools for the open web.",
+    "startDate": "2027-05-28T09:00:00.000Z",
+    "endDate": "2027-05-30T18:00:00.000Z",
     "city": "Prague",
     "country": "Czech Republic",
-    "location": "Municipal House, Prague, Czech Republic",
-    "url": "https://ethprague.com",
-    "website": "https://ethprague.com",
-    "coverImage": "/events/ethprague-8cf1e3ba.webp",
-    "twitter": null,
-    "source": "curated-premier"
+    "location": "Prague, Czech Republic",
+    "url": "https://ethprague.com/",
+    "website": "https://ethprague.com/",
+    "registrationUrl": "https://ethprague.com/",
+    "coverImage": "/events/premier-ethprague-2027.webp",
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://ethprague.com/",
+      "fetchedAt": "2026-11-27T12:00:00.000Z",
+      "method": "official-section",
+      "pageTitle": "ETHPrague 2027 | Ethereum Builders Conference & Hackathon",
+      "sha256": "b1b2e355183cc9172c069ebda2ed788bc4a2ac34e364181411af9f90f27729f6"
+    }
   },
   {
     "id": "premier-ethdam-2027",
@@ -6528,6 +6535,101 @@
       "method": "official-section",
       "pageTitle": "The Blockies 2026",
       "sha256": "536addafd3f59441560d4dd951c823313a4eeda7e2a8368f7ea964b8e6633e92"
+    }
+  },
+  {
+    "id": "premier-cfc-stmoritz-2027",
+    "slug": "cfc-st-moritz-2027",
+    "name": "CfC St. Moritz 2027",
+    "description": "## High-Level Digital Assets & Private Wealth Gathering in the Swiss Alps\n\nCfC St. Moritz is an exclusive, invitation-only conference for sophisticated private investors, family offices, fund managers, financial institutions, and digital asset leaders. Set in the Engadin valley, the event provides a high-trust forum for in-depth dialogue on global digital asset regulation, macro investment strategies, decentralized finance, and digital asset custody.\n\n## Programme and Discussion Pillars\n\n- Institutional Digital Assets: Allocation strategies, market infrastructure, liquidity, and prime brokerage solutions.\n\n- Global Regulation and Compliance: Evolving international frameworks, cross-border digital asset standards, and institutional risk management.\n\n- Blockchain Infrastructure and Innovation: Layer-1 scalability, modular ecosystems, privacy architectures, and real-world asset tokenization.\n\n- Private Wealth and Family Office Roundtables: Confidential Chatham House style sessions connecting family principals and leading asset managers.",
+    "startDate": "2027-01-13T09:00:00.000Z",
+    "endDate": "2027-01-15T18:00:00.000Z",
+    "city": "St. Moritz",
+    "country": "Switzerland",
+    "location": "Suvretta House, Via Chasellas 1, 7500 St. Moritz, Switzerland",
+    "venueName": "Suvretta House",
+    "url": "https://cfc-stmoritz.com/",
+    "website": "https://cfc-stmoritz.com/",
+    "registrationUrl": "https://cfc-stmoritz.com/apply",
+    "coverImage": "/events/premier-cfc-stmoritz-2027.webp",
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://cfc-stmoritz.com/",
+      "fetchedAt": "2026-11-27T12:00:00.000Z",
+      "method": "official-section",
+      "pageTitle": "CfC St. Moritz 2027 | High-Trust Digital Asset Gathering",
+      "sha256": "e72934eb05171bbf216ab3755b3fb9a6feb578abba090717a2ac119b00781155"
+    }
+  },
+  {
+    "id": "premier-ethdenver-2027",
+    "slug": "ethdenver-2027",
+    "name": "ETHDenver 10",
+    "description": "## The Community-Owned Ethereum & Web3 Festival in the Mile High City\n\nETHDenver celebrates its milestone 10th edition in Denver, Colorado. As one of the world largest gatherings of Ethereum builders, open-source developers, and decentralized technology innovators, ETHDenver unites engineers, designers, founders, and community organizers for two days of keynotes, hackathons, and community-led workshops.\n\n## Focus Areas and Festival Highlights\n\n- Ethereum Core Protocol: Layer-1 upgrades, account abstraction, statelessness, and consensus advancements.\n\n- Layer-2 Scaling & Modular Infrastructure: Optimistic and zero-knowledge rollups, shared sequencing, and cross-chain interoperability.\n\n- Decentralized Applications & Tooling: Smart contract security, developer tooling, decentralized storage, and on-chain governance.\n\n- Open Community & Builder Culture: Collaborative hack spaces, open-source mentoring, and ecosystem showcases for teams shaping decentralized infrastructure.",
+    "startDate": "2027-03-24T09:00:00.000Z",
+    "endDate": "2027-03-25T19:00:00.000Z",
+    "city": "Denver",
+    "country": "United States",
+    "location": "Denver, Colorado, United States",
+    "url": "https://ethdenver.com/",
+    "website": "https://ethdenver.com/",
+    "registrationUrl": "https://ethdenver.com/",
+    "coverImage": "/events/premier-ethdenver-2027.webp",
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://ethdenver.com/",
+      "fetchedAt": "2026-11-27T12:00:00.000Z",
+      "method": "official-section",
+      "pageTitle": "ETHDenver 10 · The Original Blockchain Festival",
+      "sha256": "bda76e7398392cbbeaccce8b4ad10b9b1eae4c9de7073d9c057f410faec885c0"
+    }
+  },
+  {
+    "id": "premier-hong-kong-web3-festival-2027",
+    "slug": "hong-kong-web3-festival-2027",
+    "name": "Hong Kong Web3 Festival 2027",
+    "description": "## Asia Premier Web3 & OnChain Finance Gathering\n\nCo-hosted by Wanxiang Blockchain Labs and HashKey Group, the Hong Kong Web3 Festival returns to the Hong Kong Convention and Exhibition Centre (HKCEC). As one of Asia flagship digital asset gatherings, the festival brings together thousands of industry leaders, financial institutions, developers, and regulators to explore the future of on-chain finance, tokenized capital markets, and decentralized infrastructure across the Asia-Pacific region.\n\n## Main Stages and Key Themes\n\n- OnChain Finance & Institutional Leadership: Real-world asset (RWA) tokenization, institutional digital asset custody, compliant settlement, and capital market transformation.\n\n- Web3 Infrastructure & Cryptography: High-throughput blockchain architectures, zero-knowledge proofs, decentralized identity, and cross-border payment networks.\n\n- Policy, Licensing & Regulation: Regulatory pathways in Hong Kong, international licensing standards, and global compliance for virtual asset platforms.\n\n- Community & Ecosystem Demos: Hands-on technical demos, developer workshops, and project showcases featuring foundational Web3 protocols.",
+    "startDate": "2027-04-19T09:00:00.000Z",
+    "endDate": "2027-04-21T18:00:00.000Z",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "location": "Hong Kong Convention and Exhibition Centre (HKCEC), 1 Expo Dr, Wan Chai, Hong Kong",
+    "venueName": "Hong Kong Convention and Exhibition Centre",
+    "url": "https://www.web3festival.org/",
+    "website": "https://www.web3festival.org/",
+    "registrationUrl": "https://www.web3festival.org/",
+    "coverImage": "/events/premier-hong-kong-web3-festival-2027.webp",
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://www.web3festival.org/",
+      "fetchedAt": "2026-11-27T12:00:00.000Z",
+      "method": "official-section",
+      "pageTitle": "Hong Kong Web3 Festival 2027 | OnChain Finance & Digital Asset Innovation",
+      "sha256": "6bf200e98e18f4aaab2bec27c5b50f521f7c742d8391d3b1b3b528494dc905b4"
+    }
+  },
+  {
+    "id": "premier-ebc-barcelona-2027",
+    "slug": "european-blockchain-convention-2027",
+    "name": "European Blockchain Convention 2027",
+    "description": "## Europe Influential Blockchain & Web3 Summit in Barcelona\n\nThe European Blockchain Convention (EBC13) returns to Barcelona, uniting more than 6,000 attendees, 300 speakers, and industry executives from across the global Web3 ecosystem. The two-day event features three stages covering real-world assets, decentralized finance, crypto regulations, gaming, and artificial intelligence.\n\n## Conference Agenda & Industry Stages\n\n- Institutional Digital Assets & Tokenization: Traditional financial institutions exploring on-chain settlement, treasury tokenization, and digital fund structures.\n\n- DeFi, Liquidity & Stablecoins: Next-generation lending markets, algorithmic and fiat-backed stablecoins, and liquidity optimization.\n\n- European Regulation & MiCA Implementation: In-depth discussions on the regulatory environment in the EU, licensing obligations, and investor protections.\n\n- Web3 Startup Discovery & Investor Pitching: 100+ innovative startups showcasing solutions to European and international venture capital funds.",
+    "startDate": "2027-09-23T09:00:00.000Z",
+    "endDate": "2027-09-24T18:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Palau de Congressos de Catalunya, Avinguda Diagonal 661-671, Les Corts, 08028 Barcelona, Spain",
+    "venueName": "Palau de Congressos de Catalunya",
+    "url": "https://eblockchainconvention.com/",
+    "website": "https://eblockchainconvention.com/",
+    "registrationUrl": "https://eblockchainconvention.com/",
+    "coverImage": "/events/premier-ebc-barcelona-2027.webp",
+    "source": "curated-premier",
+    "descriptionSource": {
+      "url": "https://eblockchainconvention.com/",
+      "fetchedAt": "2026-11-27T12:00:00.000Z",
+      "method": "official-section",
+      "pageTitle": "European Blockchain Convention 2027 | 23 - 24 SEPT 2027 | Barcelona",
+      "sha256": "d8b875ebf30185468f5123c461cec3c26fca5ce8866824922c736439f1cbf6b8"
     }
   }
 ]

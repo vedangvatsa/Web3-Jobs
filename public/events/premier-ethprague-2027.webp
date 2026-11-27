@@ -1,0 +1,40 @@
+<!DOCTYPE html><html  lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>ETHPrague Conference and Hackathon 2026</title><link rel="stylesheet" href="/_nuxt/entry.Cr1E6lvP.css" crossorigin><link rel="modulepreload" as="script" crossorigin href="/_nuxt/CIdzY4lN.js"><link rel="prefetch" as="image" type="image/svg+xml" href="/_nuxt/luma.-jnSiOZZ.svg"><link rel="prefetch" as="image" type="image/webp" href="/_nuxt/eth-diamond-for-right-side.-E8szI3H.webp"><link rel="prefetch" as="image" type="image/svg+xml" href="/_nuxt/pwn-white.BwKlnVtg.svg"><meta name="title" content="ETHPrague Conference and Hackathon 2026"><meta name="description" content="ETHPrague 2026 — Ethereum conference and hackathon, May 8–10 at Municipal House Prague. Three days of talks, workshops, and hacking focused on Ethereum's future."><meta name="keywords" content="ethereum, prague, blockchain, web3, crypto, conference, hackathon, ethereum conference, ethereum prague, blockchain prague, web3 prague"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><meta name="author" content="ETHPrague Team"><meta name="language" content="English"><meta name="revisit-after" content="7 days"><meta name="format-detection" content="telephone=no"><meta property="og:title" content="ETHPrague Conference and Hackathon 2026"><meta property="og:description" content="ETHPrague 2026 — Ethereum conference and hackathon, May 8–10 at Municipal House Prague. Three days of talks, workshops, and hacking focused on Ethereum's future."><meta property="og:image" content="https://ethprague.com/ETHPrague_soc_share_2026.png"><meta property="og:image:type" content="image/png"><meta property="og:image:secure_url" content="https://ethprague.com/ETHPrague_soc_share_2026.png"><meta property="og:url" content="https://ethprague.com"><meta property="og:type" content="event"><meta property="og:site_name" content="ETHPrague"><meta property="og:locale" content="en_US"><meta property="og:locale:alternate" content="cs_CZ"><meta property="og:image:width" content="1920"><meta property="og:image:height" content="1080"><meta property="og:image:alt" content="ETHPrague Conference and Hackathon 2026"><meta property="event:start_time" content="2026-05-08T09:00:00+02:00"><meta property="event:end_time" content="2026-05-10T18:00:00+02:00"><meta name="twitter:title" content="ETHPrague Conference and Hackathon 2026"><meta name="twitter:description" content="ETHPrague 2026 — Ethereum conference and hackathon, May 8–10 at Municipal House Prague. Three days of talks, workshops, and hacking focused on Ethereum's future."><meta name="twitter:image" content="https://ethprague.com/ETHPrague_soc_share_2026.png"><meta name="twitter:image:alt" content="ETHPrague Conference and Hackathon 2026"><meta name="twitter:site" content="@EthPrague"><meta name="twitter:creator" content="@EthPrague"><meta name="twitter:card" content="summary_large_image"><meta name="theme-color" content="#26464B"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="canonical" href="https://ethprague.com"><link rel="alternate" hreflang="en" href="https://ethprague.com"><link rel="alternate" hreflang="x-default" href="https://ethprague.com"><link rel="sitemap" type="application/xml" href="https://ethprague.com/sitemap.xml"><script type="module" src="/_nuxt/CIdzY4lN.js" crossorigin></script><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"ETHPrague","url":"https://ethprague.com","logo":"https://ethprague.com/ETHPrague_soc_share_2026.png","sameAs":["https://twitter.com/EthPrague","https://t.me/ethprague","https://lu.ma/ethprague","https://devfolio.co/ethprague"],"contactPoint":{"@type":"ContactPoint","email":"contact@ethprague.com","contactType":"Customer Service"}}</script><script id="unhead:payload" type="application/json">{"title":"ETHPrague Conference and Hackathon 2026","titleTemplate":"%s"}</script></head><body><div id="__nuxt"></div><div id="teleports"></div><script>window.__NUXT_SITE_CONFIG__=(function(a){return {_priority:{name:a,env:a,url:-3},env:"production",name:"repo",url:"https:\u002F\u002Fethprague.com"}}(-15))</script><script src="https://www.googletagmanager.com/gtag/js?id=G-P6BDXC4LL7" async></script><script>window.__NUXT__={};window.__NUXT__.config={public:{siteUrl:"https://ethprague.com",wayfinder:{preferredGateway:"https://turbo-gateway.com",pingTimeoutMs:1000},sentry:{dsn:"https://45e19d897e6d778baa12a4cc14656e5b@o1277276.ingest.us.sentry.io/4507192683266048",environment:"production"}},app:{baseURL:"/",buildId:"f4f2989f-75e5-43c7-9b6f-28928724d55d",buildAssetsDir:"/_nuxt/",cdnURL:""}}</script><script>
+            (function () {
+              globalThis.crypto = globalThis.crypto || {};
+              if (typeof globalThis.crypto.randomUUID === 'function') return;
+              globalThis.crypto.randomUUID = function () {
+                if (typeof globalThis.crypto.getRandomValues !== 'function') {
+                  return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                    var r = Math.random() * 16;
+                    var v = c === 'x' ? r : (r % 4) + 8;
+                    return Math.floor(v).toString(16);
+                  });
+                }
+                var bytes = new Uint8Array(16);
+                globalThis.crypto.getRandomValues(bytes);
+                bytes[6] = (bytes[6] & 0x0f) | 0x40;
+                bytes[8] = (bytes[8] & 0x3f) | 0x80;
+                var hex = Array.prototype.map.call(bytes, function (b) {
+                  return b.toString(16).padStart(2, '0');
+                });
+                return (
+                  hex[0] + hex[1] + hex[2] + hex[3] + '-' +
+                  hex[4] + hex[5] + '-' +
+                  hex[6] + hex[7] + '-' +
+                  hex[8] + hex[9] + '-' +
+                  hex[10] + hex[11] + hex[12] + hex[13] + hex[14] + hex[15]
+                );
+              };
+            })();
+          </script><script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-P6BDXC4LL7');
+          </script><script type="text/javascript">
+            (function(c,l,a,r,i,t,y){
+                c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "v3zc8x2qu8");
+          </script><script type="application/json" data-nuxt-data="nuxt-app" data-ssr="false" id="__NUXT_DATA__">[{"prerenderedAt":1,"serverRendered":2},1779100885158,false]</script></body></html>
