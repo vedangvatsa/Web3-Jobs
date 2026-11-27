@@ -27,7 +27,7 @@ const catalog: FreeCryptoApiCatalog = {
   listings: raw.listings,
 };
 
-export const FREE_CRYPTO_APIS_SOURCE = 'https://hashtagweb3.com/freeapis';
+export const FREE_CRYPTO_APIS_SOURCE = 'https://hashtagweb3.com/cryptoapis';
 
 export function getFreeCryptoApiCatalogSync(): FreeCryptoApiCatalog {
   return catalog;

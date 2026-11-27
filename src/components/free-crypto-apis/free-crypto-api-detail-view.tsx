@@ -40,7 +40,7 @@ export function FreeCryptoApiDetailView({ listing }: { listing: FreeCryptoApiLis
     '@type': 'BreadcrumbList',
     itemListElement: [
       { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
-      { '@type': 'ListItem', position: 2, name: 'Crypto APIs', item: `${siteUrl}/freeapis` },
+      { '@type': 'ListItem', position: 2, name: 'Crypto APIs', item: `${siteUrl}/cryptoapis` },
       { '@type': 'ListItem', position: 3, name: listing.name, item: canonicalUrl },
     ],
   };
@@ -66,7 +66,7 @@ export function FreeCryptoApiDetailView({ listing }: { listing: FreeCryptoApiLis
     },
   };
 
-  const actionUrl = listing.pricingUrl || listing.websiteUrl || 'https://hashtagweb3.com/freeapis';
+  const actionUrl = listing.pricingUrl || listing.websiteUrl || 'https://hashtagweb3.com/cryptoapis';
 
   return (
     <>
@@ -79,7 +79,7 @@ export function FreeCryptoApiDetailView({ listing }: { listing: FreeCryptoApiLis
             <DetailPageHeader
               breadcrumbs={[
                 { href: '/', label: 'Home' },
-                { href: '/freeapis', label: 'Crypto APIs' },
+                { href: '/cryptoapis', label: 'Crypto APIs' },
               ]}
               icon={
                 <div className="flex h-full w-full items-center justify-center rounded-md border border-border/60 bg-muted/40 p-2">
@@ -145,7 +145,7 @@ export function FreeCryptoApiDetailView({ listing }: { listing: FreeCryptoApiLis
                 <div className="flex items-center justify-between">
                   <h2 className="text-xl font-bold text-foreground">Related Free Crypto APIs</h2>
                   <Button asChild variant="ghost" size="sm" className="text-xs text-muted-foreground hover:text-foreground">
-                    <Link href="/freeapis" prefetch={false} className="flex items-center gap-1">
+                    <Link href="/cryptoapis" prefetch={false} className="flex items-center gap-1">
                       <span>All APIs</span>
                       <ArrowRight className="h-3.5 w-3.5" />
                     </Link>

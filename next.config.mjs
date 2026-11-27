@@ -148,7 +148,8 @@ const nextConfig = {
       },
       // Same jobs RSS as /jobs/feed.xml (legacy short URL)
       { source: '/feed.xml', destination: '/jobs/feed.xml', permanent: true },
-      { source: '/free-apis', destination: '/freeapis', permanent: true },
+      { source: '/free-apis', destination: '/cryptoapis', permanent: true },
+      { source: '/freeapis', destination: '/cryptoapis', permanent: true },
       ...Object.entries(PUBLIC_PAGE_ALIASES).map(([source, destination]) => ({
         source,
         destination,
