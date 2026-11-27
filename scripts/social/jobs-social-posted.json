@@ -200990,6 +200990,47 @@
       "attemptId": "01b0840c-d75c-4bfa-91b9-41a21cde4e54",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "pri",
+      "company": "Hut 8",
+      "title": "Principal, Chief of Staff",
+      "platform": "linkedin",
+      "postedAt": "2026-11-27T04:54:31.000Z",
+      "expectedText": "Hut 8 is hiring Principal, Chief of Staff: https://hashtagweb3.com/pri/li?og=7",
+      "snapshot": {
+        "id": "5457213008",
+        "title": "Principal, Chief of Staff",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457213008",
+        "date": "2026-11-10T09:48:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami",
+        "department": "Office of the CEO",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pri"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Chief of Staff: https://hashtagweb3.com/pri/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pri/li?og=7",
+          "title": "Principal, Chief of Staff at Hut 8 | Hashtag Web3",
+          "description": "Join Hut 8 as Principal, Chief of Staff. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pri.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "cfa16ec8-ec14-41d5-a1f5-d325f0649d20",
+      "verification": "creating"
     }
   ]
 }
