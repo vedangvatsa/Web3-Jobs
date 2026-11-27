@@ -205113,7 +205113,8 @@
       },
       "account": "channel:product",
       "attemptId": "233933b3-624f-4a39-bedc-8c8f8298686b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x82c5d5b42ca33d01800076297b1cc1c4f861fbda"
     }
   ]
 }
