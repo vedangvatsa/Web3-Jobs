@@ -223764,9 +223764,9 @@
         "The Defiant"
       ],
       "id": "744d657df17de23a69fe",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T21:22:19.000Z",
       "lastSeenAt": "2026-11-27T02:19:28.239Z",
       "articleSlug": "hashratehijack",
@@ -223788,7 +223788,25 @@
         "updatedAt": "2026-11-27T02:34:46.983Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read the Braiins primary security report, Cointelegraph's independent coverage and Cointelegraph's Luxor report; drafted hashratehijack with self-hosted Wikimedia mining rig photo; quality, images, duplicates and formatting audits clean for the file and all four links return HTTP 200.",
+      "sourceChecks": [
+        {
+          "url": "https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-27T02:39:18.160Z",
+      "lastReviewedDay": "2026-11-27"
     },
     "e2c13cc5dddecdd6dc0e": {
       "source": "The Defiant",
@@ -444834,6 +444852,27 @@
           ],
           "reviewedAt": "2026-11-27T02:32:10.200Z",
           "articleSlug": "bbitlisting"
+        },
+        "744d657df17de23a69fe": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read the Braiins primary security report, Cointelegraph's independent coverage and Cointelegraph's Luxor report; drafted hashratehijack with self-hosted Wikimedia mining rig photo; quality, images, duplicates and formatting audits clean for the file and all four links return HTTP 200.",
+          "sourceChecks": [
+            {
+              "url": "https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-27T02:39:18.160Z",
+          "articleSlug": "hashratehijack"
         }
       },
       "baselineSlugs": [
