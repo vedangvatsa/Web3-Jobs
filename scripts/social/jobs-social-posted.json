@@ -200067,6 +200067,46 @@
       "attemptId": "fdbcc19c-87a6-44ff-a8c3-2a48fa401b0d",
       "verification": "verified",
       "postId": "0x6116d7150b0cfa9380632446451fd874851928db"
+    },
+    {
+      "slug": "mkt146",
+      "company": "Alpaca",
+      "title": "Marketing Manager - Market Data",
+      "platform": "linkedin",
+      "postedAt": "2026-11-27T02:24:36.335Z",
+      "expectedText": "Alpaca is hiring Marketing Manager: https://hashtagweb3.com/mkt146/li?og=7",
+      "snapshot": {
+        "id": "6254813004",
+        "title": "Marketing Manager - Market Data",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6254813004",
+        "date": "2026-11-11T16:42:22-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Europe",
+        "department": "Market Data",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mkt146"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Marketing Manager: https://hashtagweb3.com/mkt146/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/mkt146/li?og=7",
+          "title": "Marketing Manager - Market Data at Alpaca | Hashtag Web3",
+          "description": "Join Alpaca as Marketing Manager - Market Data. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/mkt146.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "bf9cd991-30c9-4e75-a710-95c89ffa5fec",
+      "verification": "creating"
     }
   ]
 }
