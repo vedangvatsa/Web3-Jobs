@@ -4066,5 +4066,123 @@
     "slotKey": "2026-11-27:morning",
     "messageId": 156537,
     "sentAt": "2026-11-27T04:54:25.833Z"
+  },
+  "e23f3041-e5c4-4371-b0ea-41527a3d8905": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T13:01:35.640Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "c4193604-e952-4203-a691-fa4c51d7701b",
+          "title": "Treasury Program Manager - Capital Allocation",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/c4193604-e952-4203-a691-fa4c51d7701b",
+          "date": "2026-11-24T13:20:50.819+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United States)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Finance & Accounting",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr296"
+        },
+        "key": "c4193604-e952-4203-a691-fa4c51d7701b",
+        "slug": "mgr296",
+        "url": "https://hashtagweb3.com/mgr296?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Treasury Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "1a848261-5b5b-414b-9771-0dad2d45300c",
+          "title": "Partnerships Manager",
+          "company": "Sardine",
+          "link": "https://jobs.ashbyhq.com/sardine/1a848261-5b5b-414b-9771-0dad2d45300c",
+          "date": "2026-10-30T19:49:10.401+00:00",
+          "source": "Ashby: Sardine [Sardine]",
+          "location": "Remote (London, UK)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Partnerships",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr218"
+        },
+        "key": "1a848261-5b5b-414b-9771-0dad2d45300c",
+        "slug": "mgr218",
+        "url": "https://hashtagweb3.com/mgr218?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Sardine",
+        "title": "Partnerships Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8200144003",
+          "title": "Team Lead, Financial Crime Compliance QA",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8200144003",
+          "date": "2026-11-10T01:29:25-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Compliance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "qa102"
+        },
+        "key": "8200144003",
+        "slug": "qa102",
+        "url": "https://hashtagweb3.com/qa102?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Team Lead"
+      },
+      {
+        "snapshot": {
+          "id": "91b4ef76-0f1c-4847-bb10-a26b4514e73b",
+          "title": "Head of Security Engineering",
+          "company": "Ledger",
+          "link": "https://jobs.ashbyhq.com/ledger/91b4ef76-0f1c-4847-bb10-a26b4514e73b",
+          "date": "2026-11-16T16:36:34.586+00:00",
+          "source": "Ashby: Ledger [ledger]",
+          "location": "Hybrid (Paris, France)",
+          "isRemote": true,
+          "workplaceType": "Hybrid",
+          "department": "Tech",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec189"
+        },
+        "key": "91b4ef76-0f1c-4847-bb10-a26b4514e73b",
+        "slug": "sec189",
+        "url": "https://hashtagweb3.com/sec189?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ledger",
+        "title": "Head of Security Engineering"
+      },
+      {
+        "snapshot": {
+          "id": "ec7277f7-4757-4863-967c-eecaee0d0740",
+          "title": "AI Platform Engineer",
+          "company": "Polygon Labs",
+          "link": "https://jobs.ashbyhq.com/polygon-labs/ec7277f7-4757-4863-967c-eecaee0d0740",
+          "date": "2026-11-12T23:50:17.718+00:00",
+          "source": "Ashby: Polygon Labs [polygon-labs]",
+          "location": "EMEA - Remote",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng779"
+        },
+        "key": "ec7277f7-4757-4863-967c-eecaee0d0740",
+        "slug": "eng779",
+        "url": "https://hashtagweb3.com/eng779?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Polygon Labs",
+        "title": "AI Platform Engineer"
+      }
+    ],
+    "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr296?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Program Manager</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/mgr218?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partnerships Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/qa102?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Team Lead</a>\n- Ledger is hiring <a href=\"https://hashtagweb3.com/sec189?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security Engineering</a>\n- Polygon Labs is hiring <a href=\"https://hashtagweb3.com/eng779?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Platform Engineer</a>",
+    "slotKey": "2026-11-27:afternoon"
   }
 }
