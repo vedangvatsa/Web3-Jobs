@@ -33,6 +33,7 @@ import { EventGuideContent } from '../src/components/event-guide-content';
 const root = process.cwd();
 const messaging: Array<{ scope: string; id: string; detail: string }> = [];
 const junk: Array<{ id: string; issues: string[] }> = [];
+const hyperlinks: Array<{ scope: string; id: string; detail: string }> = [];
 
 async function audit(): Promise<void> {
 // ── 1. Committed source records: no messaging-community links anywhere. ──
@@ -48,6 +49,16 @@ for (const file of sourceFiles) {
   }
   const hit = findEventMessagingCommunityLink(parsed, file);
   if (hit) messaging.push({ scope: 'sources', id: file, detail: `${hit.path} → ${hit.url}` });
+  if (Array.isArray(parsed)) {
+    for (const item of parsed) {
+      if (item && typeof item === 'object' && typeof item.description === 'string') {
+        const md = /\[([^\]]+)\]\(([^)]+)\)/.exec(item.description);
+        const url = /https?:\/\/[^\s)\]]+/.exec(item.description);
+        if (md) hyperlinks.push({ scope: 'sources', id: `${file}:${item.id || 'unknown'}`, detail: `markdown link: ${md[0]}` });
+        else if (url) hyperlinks.push({ scope: 'sources', id: `${file}:${item.id || 'unknown'}`, detail: `raw URL: ${url[0]}` });
+      }
+    }
+  }
 }
 
 // ── 2. Runtime: the built listing must be clean end to end. ──
@@ -55,6 +66,12 @@ const runtime = await buildEventsListing();
 for (const event of runtime) {
   const hit = findEventMessagingCommunityLink(event, 'runtime');
   if (hit) messaging.push({ scope: 'runtime', id: event.id, detail: `${hit.path} → ${hit.url}` });
+  if (typeof event.description === 'string') {
+    const md = /\[([^\]]+)\]\(([^)]+)\)/.exec(event.description);
+    const url = /https?:\/\/[^\s)\]]+/.exec(event.description);
+    if (md) hyperlinks.push({ scope: 'runtime', id: event.id, detail: `markdown link: ${md[0]}` });
+    else if (url) hyperlinks.push({ scope: 'runtime', id: event.id, detail: `raw URL: ${url[0]}` });
+  }
 }
 
 // ── 3. Published descriptions: no junk-formatting signatures. ──
@@ -88,15 +105,16 @@ for (const event of runtime) {
   }
 }
 
-if (messaging.length || junk.length) {
-  console.error(`Event catalog safety audit FAILED: ${messaging.length} messaging finding(s), ${junk.length} junky description(s).`);
+if (messaging.length || junk.length || hyperlinks.length) {
+  console.error(`Event catalog safety audit FAILED: ${messaging.length} messaging finding(s), ${hyperlinks.length} forbidden hyperlink(s), ${junk.length} junky description(s).`);
   for (const finding of messaging) console.error(`  [messaging] ${finding.scope} ${finding.id}: ${finding.detail}`);
+  for (const finding of hyperlinks) console.error(`  [hyperlink] ${finding.scope} ${finding.id}: ${finding.detail}`);
   for (const finding of junk) console.error(`  [junk] ${finding.id}: ${finding.issues.join(', ')}`);
   if (warnings.length) console.error(`  (also ${warnings.length} soft junk-run warning(s) — operator review, not blocking)`);
   process.exit(1);
 }
 for (const warning of warnings.slice(0, 10)) console.log(`  [warning] ${warning.id}: ${warning.issues.join(', ')}`);
-console.log(`Event catalog safety audit passed: ${sourceFiles.length} source files, ${runtime.length} runtime events — no messaging-community links, no junk formatting signatures.${warnings.length ? ` ${warnings.length} soft junk-run warning(s) logged for review.` : ''}`);
+console.log(`Event catalog safety audit passed: ${sourceFiles.length} source files, ${runtime.length} runtime events — no messaging-community links, strictly zero hyperlinks in descriptions, no junk formatting signatures.${warnings.length ? ` ${warnings.length} soft junk-run warning(s) logged for review.` : ''}`);
 }
 
 void audit().catch((error) => {

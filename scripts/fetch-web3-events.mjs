@@ -21,6 +21,21 @@ function hasDirectEventDestination(url) {
   }
 }
 
+
+// Strip all hyperlinks, markdown links, and raw URLs from description
+function stripHyperlinks(text) {
+  if (!text || typeof text !== 'string') return '';
+  let out = text;
+  // Convert markdown links [label](url) -> label
+  out = out.replace(/\[([^\]]+)\]\([^)]+\)/g, '$1');
+  // Remove parenthetical URLs (https://...)
+  out = out.replace(/\s*\(https?:\/\/[^)]+\)/gi, '');
+  // Remove bare URLs
+  out = out.replace(/https?:\/\/[^\s)\]]+/gi, '');
+  // Clean multiple whitespace
+  return out.replace(/[ 	]+/g, ' ').trim();
+}
+
 // Fetch with retry/backoff for 429 (Luma rate-limits aggressively).
 async function fetchWithBackoff(url, options = {}, attempts = 3) {
   for (let attempt = 0; attempt < attempts; attempt++) {
@@ -423,6 +438,25 @@ const LUMA_COMMUNITIES = [
 
   // ── Calendar URLs ──
   'calendar/cal-EjxsY533E9N5pz2',
+
+  // ── Major Conferences, Side-Event & City Hub Calendars ──
+  'binance-blockchain-week', 'token2049-dubai', 'blockchain-life', 'art-basel-miami',
+  'auscryptocon', 'bitcoin-asia', 'ethconf', 'bc4eu-summit-2026', 'hkweb3', 'rwaweek', 'crypto',
+
+  // ── Ecosystem, Foundations & Community Calendars ──
+  'BNBChainEvents', 'MonadFoundation', 'NEAR-community', 'SuperteamGermany',
+  'SuperteamIE', 'superteam-UAE', 'Team1LatAm', 'Team1Turkiye', 'Team1Nigeria',
+  'team1uk', 'xrpl-commons', 'nounsdao',
+
+  // ── Key Regional & Metro Web3 Hub Calendars ──
+  'cryptocanal', 'CryptoWomenCollective', 'DWFLabsHaus', 'aspectblockchain', 'daoshub',
+  'ecox', 'nadmah', 'coinrabbit', 'shardlab', 'elephantsinc', 'flapdotsh', 'house-of-sol',
+  'antidote-london', 'raylsmeetup', 'thevault.inc', 'bitcoinorghk', 'thewhalelounge',
+  'techub', 'LTPevent', 'W3Hevents', 'hkghh', 'cryptovalley', 'CVVC',
+  'wiw3ch', 'web3dc', 'dc_dao', 'bitcoindistrict', 'web3privacy', 'bitspace',
+  'blockchainireland', 'altcointurk', 'the-space-events', 'cybrid', 'Bitcoinindo21',
+  'stablecoin-icecream',
+
 
   // ── Luma Short-Code Communities (from ethereum.org) ──
   'jnwjc3gr', 'c22o9tcz', 'zbiimfx9', 'zph1l8hh', '4zexoksb',
@@ -1372,6 +1406,13 @@ async function fetchWeb3Events() {
     log: console.log,
   });
   console.log(`[Local Covers] Saved ${okCount} local, deferred ${rateLimited} (rate-limited), failed ${failed}.`);
+
+    // Ensure strictly 0 hyperlinks or raw URLs exist in any event description
+  for (const e of validEvents) {
+    if (e.description) {
+      e.description = stripHyperlinks(e.description);
+    }
+  }
 
   const cacheEvents = validEvents.filter((e) => !isWasetIcbtDuplicateEvent(e));
   const icbtDropped = validEvents.length - cacheEvents.length;

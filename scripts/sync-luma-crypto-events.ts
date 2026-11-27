@@ -228,6 +228,29 @@ function lumaVirtualLocationLabel(e: LumaApiEvent): string | null {
   return LUMA_VIRTUAL_LOCATION[type] ?? null;
 }
 
+// Clean and format text into proper Markdown sections with strictly NO hyperlinks
+function stripHyperlinks(text: string): string {
+  if (!text) return "";
+  let out = text;
+  // Convert markdown links [label](url) -> label
+  out = out.replace(/\[([^\]]+)\]\([^)]+\)/g, "$1");
+  // Remove parenthetical URLs (https://...)
+  out = out.replace(/\s*\(https?:\/\/[^)]+\)/gi, "");
+  // Remove bare URLs
+  out = out.replace(/https?:\/\/[^\s)\]]+/gi, "");
+  return out.replace(/[ \t]+/g, " ").trim();
+}
+
+function cleanMarkdownFormatting(text: string): string {
+  if (!text) return "";
+  let cleaned = stripHyperlinks(text);
+  // Normalize line endings
+  cleaned = cleaned.replace(/\r\n/g, "\n");
+  // Collapse excessive blank lines
+  cleaned = cleaned.replace(/\n{3,}/g, "\n\n");
+  return cleaned.trim();
+}
+
 function buildDescription(e: LumaApiEvent): string {
   const headline = e.name.split(/[|·]/)[0].trim();
   const virtual = lumaVirtualLocationLabel(e);
@@ -392,6 +415,24 @@ async function fetchCalendarPageEvents(slug: string): Promise<LumaApiEvent[]> {
   return [...byId.values()];
 }
 
+const CURATED_COMMUNITY_CALENDARS = [
+    // Major Conferences, Side-Event & City Hub Calendars
+    "binance-blockchain-week", "token2049-dubai", "blockchain-life", "art-basel-miami",
+    "auscryptocon", "bitcoin-asia", "ethconf", "bc4eu-summit-2026", "hkweb3", "rwaweek", "crypto",
+    // Ecosystem, Foundations & Community Calendars
+    "BNBChainEvents", "MonadFoundation", "NEAR-community", "superteam", "SuperteamGermany",
+    "SuperteamIE", "superteam-UAE", "Team1LatAm", "Team1Turkiye", "Team1Nigeria",
+    "team1uk", "xrpl-commons", "encode-club", "nounsdao",
+    // Key Regional & Metro Web3 Hub Calendars
+    "cryptocanal", "CryptoWomenCollective", "DWFLabsHaus", "aspectblockchain", "daoshub",
+    "ecox", "nadmah", "coinrabbit", "shardlab", "elephantsinc", "flapdotsh", "house-of-sol",
+    "antidote-london", "raylsmeetup", "thevault.inc", "bitcoinorghk", "thewhalelounge",
+    "techub", "LTPevent", "W3Hevents", "hkghh", "cryptovalley", "DecentralHouse", "CVVC",
+    "wiw3ch", "web3dc", "dc_dao", "bitcoindistrict", "web3privacy", "bitspace",
+    "blockchainireland", "altcointurk", "the-space-events", "cybrid", "Bitcoinindo21",
+    "stablecoin-icecream"
+  ];
+
 async function main() {
   const dryRun = process.argv.includes('--dry-run');
   const knownUrls = loadKnownUrls();
@@ -418,11 +459,16 @@ async function main() {
   }
 
   const hubSlugs = await fetchHubCalendars();
-  console.log(`Hub calendars: ${hubSlugs.length}`);
-  for (const slug of hubSlugs) {
-    const events = await fetchCalendarPageEvents(slug);
-    for (const e of events) merged.set(e.api_id, e);
-    await new Promise((r) => setTimeout(r, 100));
+  const allCalendarSlugs = [...new Set([...hubSlugs, ...CURATED_COMMUNITY_CALENDARS])];
+  console.log(`Hub and community calendars to crawl: ${allCalendarSlugs.length}`);
+  for (const slug of allCalendarSlugs) {
+    try {
+      const events = await fetchCalendarPageEvents(slug);
+      for (const e of events) merged.set(e.api_id, e);
+    } catch (err) {
+      console.warn(`[sync-luma-crypto] calendar ${slug} fetch failed: ${(err as Error).message}`);
+    }
+    await new Promise((r) => setTimeout(r, 80));
   }
 
   const directSlugs = [
@@ -483,7 +529,7 @@ async function main() {
       id,
       slug,
       name: e.name.trim(),
-      description: prev?.description || buildDescription(e),
+      description: cleanMarkdownFormatting(prev?.description || buildDescription(e)),
       startDate: e.start_at,
       endDate: e.end_at || e.start_at,
       city: city || undefined,

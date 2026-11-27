@@ -754,6 +754,10 @@ jobs:
         if: ${{ steps.token2049.outcome == 'failure' }}
         run: echo '::warning::TOKEN2049 discovery failed; retaining the previously verified event source. Telegram delivery is independent.'
 
+      - name: Sync Luma Crypto events across global hubs
+        run: npx tsx scripts/sync-luma-crypto-events.ts
+        continue-on-error: true
+
       - name: Fetch Web3 Events from Luma
         run: node scripts/fetch-web3-events.mjs
         continue-on-error: true
