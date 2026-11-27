@@ -7928,5 +7928,118 @@
     "slotKey": "2026-11-26:evening",
     "messageId": 223,
     "sentAt": "2026-11-26T20:24:43.082Z"
+  },
+  "ab46842e-8340-4cef-b26e-633ed3d8e50b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T04:54:12.242Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8372917",
+          "title": "Senior Treasury Manager - Liquidity Management",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8372917?gh_jid=8372917",
+          "date": "2026-11-10T13:51:29-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "São Paulo, Brazil",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr250"
+        },
+        "key": "8372917",
+        "slug": "mgr250",
+        "url": "https://hashtagweb3.com/mgr250?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Treasury Manager"
+      },
+      {
+        "snapshot": {
+          "id": "37d3deb4-a475-4a2f-aea9-78aeeefd34e6",
+          "title": "Technical Recruiter",
+          "company": "Helius",
+          "link": "https://talent.superteam.fun/jobs/technical-recruiter-at-helius-37d3deb4-a475-4a2f-aea9-78aeeefd34e6",
+          "date": "2026-11-09T20:47:34.769262+00:00",
+          "source": "Superteam: Helius [superteam]",
+          "location": "Remote",
+          "department": "Full-Time",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec36"
+        },
+        "key": "37d3deb4-a475-4a2f-aea9-78aeeefd34e6",
+        "slug": "rec36",
+        "url": "https://hashtagweb3.com/rec36?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Helius",
+        "title": "Technical Recruiter"
+      },
+      {
+        "snapshot": {
+          "id": "8352122",
+          "title": "Senior HR Business Partner",
+          "company": "Flow Traders",
+          "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8352122",
+          "date": "2026-11-04T07:27:20-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Flow Traders [flowtraders]",
+          "location": "Amsterdam",
+          "department": "HR & Recruitment",
+          "active": true,
+          "dateVerified": true,
+          "slug": "rec63"
+        },
+        "key": "8352122",
+        "slug": "rec63",
+        "url": "https://hashtagweb3.com/rec63?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Flow Traders",
+        "title": "Senior HR Business Partner"
+      },
+      {
+        "snapshot": {
+          "id": "335712fd-15cb-48b6-bb06-a84a4f227055",
+          "title": "Head of GTM Engineering",
+          "company": "Fun.xyz",
+          "link": "https://jobs.lever.co/funxyz/335712fd-15cb-48b6-bb06-a84a4f227055",
+          "date": "2026-11-13T18:19:17.127Z",
+          "source": "Lever: Fun.xyz [funxyz]",
+          "location": "Hybrid (San Francisco)",
+          "workplaceType": "hybrid",
+          "department": "GTM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng596"
+        },
+        "key": "335712fd-15cb-48b6-bb06-a84a4f227055",
+        "slug": "eng596",
+        "url": "https://hashtagweb3.com/eng596?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Fun.xyz",
+        "title": "Head of GTM Engineering"
+      },
+      {
+        "snapshot": {
+          "id": "bf04ec46-c232-49fe-85f9-091f915faff4",
+          "title": "Member of Global Risk Management, Market Risk",
+          "company": "Anchorage Digital",
+          "link": "https://jobs.lever.co/anchorage/bf04ec46-c232-49fe-85f9-091f915faff4",
+          "date": "2026-11-05T22:39:49.468Z",
+          "source": "Lever: Anchorage Digital [anchorage]",
+          "location": "Remote (United States)",
+          "workplaceType": "remote",
+          "department": "Finance",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mrmm"
+        },
+        "key": "bf04ec46-c232-49fe-85f9-091f915faff4",
+        "slug": "mrmm",
+        "url": "https://hashtagweb3.com/mrmm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Anchorage Digital",
+        "title": "Member of Global Risk Management"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr250?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Treasury Manager</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/rec36?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/rec63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior HR Business Partner</a>\n- Fun​.xyz is hiring <a href=\"https://hashtagweb3.com/eng596?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of GTM Engineering</a>\n- Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/mrmm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Global Risk Management</a>",
+    "slotKey": "2026-11-27:morning"
   }
 }
