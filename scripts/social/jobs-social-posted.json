@@ -199680,7 +199680,8 @@
       },
       "account": "channel:dev",
       "attemptId": "8ddf295c-7902-4e36-8395-998b90e94541",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7115afcc0567afeb9443867a8e8d9f283d7f2503"
     }
   ]
 }
