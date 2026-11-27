@@ -200661,7 +200661,8 @@
       },
       "account": "channel:base",
       "attemptId": "a03d6923-1ec9-4d8c-828e-c8d23bff0636",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x542204701af0d924f673975bfb00445fe1a29683"
     }
   ]
 }
