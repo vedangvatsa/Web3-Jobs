@@ -205684,7 +205684,8 @@
       },
       "account": "channel:developers",
       "attemptId": "becc879e-e05e-4df6-a68b-b44d74f91b78",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8832c952458c8e950f73ab0783aed96df5240065"
     }
   ]
 }
