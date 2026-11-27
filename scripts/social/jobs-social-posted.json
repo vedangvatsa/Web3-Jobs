@@ -204623,7 +204623,8 @@
       },
       "account": "profile",
       "attemptId": "09887f41-9769-4fe4-b6ae-4315fbf0b1b4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x286886a51033ff05d22258b1ed69b4cd1fa9ce6d"
     }
   ]
 }
