@@ -200836,7 +200836,8 @@
       },
       "account": "channel:product",
       "attemptId": "14f2a55f-fbd7-4e6c-a378-1f3da1cb96c4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x64fef3e3d11a05aa0b6a9264beeaea66e4641aa2"
     }
   ]
 }
