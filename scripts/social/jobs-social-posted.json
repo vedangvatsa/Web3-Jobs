@@ -204903,7 +204903,8 @@
       },
       "account": "channel:founders",
       "attemptId": "5d909db3-2436-4994-9e4a-c4ea34cec4e2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8e19799481e98ccf8a72c9f78e5112f04a0ff813"
     }
   ]
 }
