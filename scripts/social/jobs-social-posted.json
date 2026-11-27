@@ -204693,7 +204693,8 @@
       },
       "account": "channel:web3",
       "attemptId": "3bff064b-1de9-4350-b3c9-62daa3fe62ae",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb321106dd1c5e1d2e4748ec2bd0a69162efe42b1"
     }
   ]
 }
