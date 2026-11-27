@@ -27843,30 +27843,6 @@ Registration and admission
 
 Participation is free with application review required. Applications are evaluated based on project proposals, GitHub contributions, and community impact. Confirmed guests receive onboarding packages and arrival instructions.
 
-<a id="event-0e853ee2f7553120"></a>
-
-## Silicon Valley Physical AI Workshop and Meetup
-
-- Record: `luma-evt-N35yh92yXHm4L30`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T00:30:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/silicon-valley-physical-ai-workshop-and-meetup-oct>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-fe9f49aacfdd579d"></a>
-
-## Burnaby Bitcoin Meetup
-
-- Record: `luma-evt-LOxi4YunYKGdWKz`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T01:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/q9bvajzz>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-cbf60747df48c357"></a>
 
 ## Expat Mums Dubai \| Halloween Special 🎃 Coffee & Play Club @Lemonade Play

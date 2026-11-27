@@ -3037,7 +3037,7 @@
     "country": "Japan",
     "location": "Tokyo Big Sight, Tokyo, Japan",
     "url": "https://2027.webx-asia.com/",
-    "coverImage": null,
+    "coverImage": "/events/ma-webx-2027-53a0cfdb.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -6734,20 +6734,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-N35yh92yXHm4L30",
-    "name": "Silicon Valley Physical AI Workshop and Meetup",
-    "description": "",
-    "startDate": "2026-10-28T00:30:00.000Z",
-    "endDate": "2026-10-28T03:30:00.000Z",
-    "city": "Menlo Park",
-    "country": "United States",
-    "location": "Menlo Park, United States",
-    "url": "https://lu.ma/silicon-valley-physical-ai-workshop-and-meetup-oct",
-    "coverImage": "/events/luma-evt-n35yh92yxhm4l30-804e9aca.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-the-local-wmc---breakpointdas-edition",
     "name": "The LOCAL W.M.C - Breakpoint/DAS Edition",
     "description": "The LOCAL W.\n\nM.\n\nC: an East London crypto party by LO:TECH and Superteam UK with free drinks, prizes, DJ sets and a live band.",
@@ -7520,20 +7506,6 @@
     "url": "https://herhack.devpost.com",
     "coverImage": "/events/w3v-herhack-2026-f1a1d345.webp",
     "month": "November 2026"
-  },
-  {
-    "id": "luma-evt-LOxi4YunYKGdWKz",
-    "name": "Burnaby Bitcoin Meetup",
-    "description": "",
-    "startDate": "2026-10-28T01:00:00.000Z",
-    "endDate": "2026-10-28T03:00:00.000Z",
-    "city": "Burnaby",
-    "country": "Canada",
-    "location": "Burnaby, Canada",
-    "url": "https://lu.ma/q9bvajzz",
-    "coverImage": "/events/luma-evt-loxi4yunykgdwkz-3faedc9f.webp",
-    "source": "luma",
-    "month": "October 2026"
   },
   {
     "id": "luma-evt-57DpPjU8L0Bt0hD",
@@ -16828,7 +16800,7 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -16856,7 +16828,7 @@
     "country": "Portugal",
     "location": "Lisbon, Portugal",
     "url": "https://ethglobal.com/events",
-    "coverImage": "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp",
+    "coverImage": "/events/ma-ethglobal-tokyo-2027-9770e9d1.webp",
     "source": "marketacross",
     "month": "October 2027"
   },

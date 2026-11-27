@@ -5413,10 +5413,6 @@
       "sha256": "a7f3b6a32722b110acb0e6052adeba30eac3184d1be2fa1df06de92ba61d39dc",
       "status": "optimized"
     },
-    "/events/luma-evt-loxi4yunykgdwkz-3faedc9f.webp": {
-      "sha256": "910359ae81e6a2271a50467e73366e53d085c9e0898ba2c82e4db1cfb0e05914",
-      "status": "optimized"
-    },
     "/events/luma-evt-lt6bjkpa48lfarp-5c61a784.webp": {
       "sha256": "0a9b7b002ec133c702337b320fc8d7c50e7fb77a729923d33e92821aec19ebf8",
       "status": "optimized"
@@ -5499,10 +5495,6 @@
     },
     "/events/luma-evt-n2tv15fglvm7qwn-b06f29cb.webp": {
       "sha256": "7a685f70906f6dc9d34d339f8249b20b2dd3c40aa4bb051f65a4bdbafe78c4a2",
-      "status": "optimized"
-    },
-    "/events/luma-evt-n35yh92yxhm4l30-804e9aca.webp": {
-      "sha256": "fa1b417aac0650cb3e52df14d65e9fc6bbbc45aafdf74abb73021bc840d27e10",
       "status": "optimized"
     },
     "/events/luma-evt-n4oeau3jgtgsj8t-97035e43.webp": {
@@ -6683,10 +6675,6 @@
     },
     "/events/ma-ethdenver-2027-58619be7.webp": {
       "sha256": "3284c8176e8d729bd8faf014dfd922e201b58af33f2682006542d976c29985c0",
-      "status": "optimized"
-    },
-    "/events/ma-ethglobal-lisbon-2027-73dc9c1a.webp": {
-      "sha256": "3d0edcfbe99afda5a939e5b39682f717d7d6810d59337625f37a067a40cb56a2",
       "status": "optimized"
     },
     "/events/ma-ethprague-2027-7404011b.webp": {
