@@ -201227,7 +201227,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "c070aa86-339e-4225-8a91-212410db580a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe7f9681cc3786cb3c8022bb96c4e5a9222b7c789"
     }
   ]
 }
