@@ -206747,7 +206747,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "806907be-23db-4e39-a570-1274f1de7eca",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc214feabe5c78724fdbe30d052c5aa2acb7f5927"
     }
   ]
 }
