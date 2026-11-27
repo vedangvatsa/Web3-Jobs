@@ -205309,6 +205309,34 @@
       "attemptId": "4a265110-ef3e-4bef-8708-f2122fc4d666",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "aso99",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T17:24:13.347Z",
+      "expectedText": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso99/fb?og=7",
+      "snapshot": {
+        "id": "8791969002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8791969002",
+        "date": "2026-11-17T15:20:27-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Reno, NV",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso99"
+      },
+      "payload": {
+        "message": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso99/fb?og=7",
+        "link": "https://hashtagweb3.com/aso99/fb?og=7"
+      },
+      "attemptId": "ebdef380-7e78-4b46-8b27-ecf95ce65341",
+      "verification": "creating"
     }
   ]
 }
