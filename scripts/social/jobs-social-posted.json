@@ -201731,7 +201731,8 @@
       },
       "account": "channel:design",
       "attemptId": "214e1724-4786-48a5-bd1b-9146015239e3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd9e0aa2888e02acdbc325fdc80834463e9a118ba"
     }
   ]
 }
