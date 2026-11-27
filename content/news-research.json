@@ -225847,9 +225847,9 @@
         "The Defiant"
       ],
       "id": "a79b8269085e849faa0d",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T09:18:15.000Z",
       "lastSeenAt": "2026-11-27T02:19:28.239Z",
       "articleSlug": "bbitlisting",
@@ -225875,7 +225875,33 @@
         "updatedAt": "2026-11-27T02:27:38.176Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Cointelegraph's debut report, the BIT pressroom release and the SIX media release; 699 words, self-hosted Wikimedia hero, quality/formatting/duplicate checks clean, all links 200.",
+      "sourceChecks": [
+        {
+          "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.bit.com/pressroom/six-listing",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.six-group.com/en/newsroom/media-releases/2026/20261126-bit-etf-issuer.html",
+          "outcome": "read"
+        },
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+          "outcome": "blocked"
+        },
+        {
+          "url": "https://thedefiant.io/converge/tradfi-and-fintech/six-lists-switzerland-s-first-spot-bitcoin-etf",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-27T02:32:10.200Z",
+      "lastReviewedDay": "2026-11-27"
     },
     "320f32a0ae5a3f761089": {
       "source": "CoinDesk",
@@ -444759,6 +444785,35 @@
           ],
           "reviewedAt": "2026-11-27T02:26:14.480Z",
           "articleSlug": "swisscarf"
+        },
+        "a79b8269085e849faa0d": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Cointelegraph's debut report, the BIT pressroom release and the SIX media release; 699 words, self-hosted Wikimedia hero, quality/formatting/duplicate checks clean, all links 200.",
+          "sourceChecks": [
+            {
+              "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.bit.com/pressroom/six-listing",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.six-group.com/en/newsroom/media-releases/2026/20261126-bit-etf-issuer.html",
+              "outcome": "read"
+            },
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+              "outcome": "blocked"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/six-lists-switzerland-s-first-spot-bitcoin-etf",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-27T02:32:10.200Z",
+          "articleSlug": "bbitlisting"
         }
       },
       "baselineSlugs": [
