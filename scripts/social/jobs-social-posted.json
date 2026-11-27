@@ -206103,7 +206103,8 @@
       },
       "account": "channel:build",
       "attemptId": "f83c70fa-5446-4f64-8d53-1faf44bb6192",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x284a29103e87ba3a63ecd680e523fc854c2785f6"
     }
   ]
 }
