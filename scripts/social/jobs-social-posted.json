@@ -205267,6 +205267,47 @@
       "attemptId": "d370adff-1f33-4c30-ab84-622948b8f4f5",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "aso99",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-11-27T17:24:13.347Z",
+      "expectedText": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso99/li?og=7",
+      "snapshot": {
+        "id": "8791969002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8791969002",
+        "date": "2026-11-17T15:20:27-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Reno, NV",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso99"
+      },
+      "payload": {
+        "text": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso99/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/aso99/li?og=7",
+          "title": "Customer Success Associate at Figure | Hashtag Web3",
+          "description": "Join Figure as Customer Success Associate. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/aso99.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "4a265110-ef3e-4bef-8708-f2122fc4d666",
+      "verification": "creating"
     }
   ]
 }
