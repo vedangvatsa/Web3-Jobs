@@ -1292,7 +1292,7 @@
     "sentAt": "2026-11-27T04:56:15.292Z"
   },
   "08897b2a-903a-4151-94ad-14bae16fde92": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T13:03:24.495Z",
     "stories": [
       {
@@ -1324,6 +1324,8 @@
         "originalTitle": "Our 2027 Innovators Under 35 competition is now open"
       }
     ],
-    "slotKey": "2026-11-27:afternoon"
+    "slotKey": "2026-11-27:afternoon",
+    "messageId": 193593,
+    "sentAt": "2026-11-27T13:03:32.141Z"
   }
 }

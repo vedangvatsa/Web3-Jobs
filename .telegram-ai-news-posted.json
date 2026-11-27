@@ -101,6 +101,9 @@
   "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
   "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
   "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+  "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/",
+  "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+  "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -305,6 +308,12 @@
   "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
   "Tencent Releases DFly2 to Improve Large Language Model Speed",
   "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
+  "SAP plans 10,000 layoffs in major AI restructuring",
+  "SAP reportedly plans to lay off 10,000+ employees amid AI push",
+  "S&P considers downgrading Nvidia credit rating over governance",
+  "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+  "MIT Technology Review opens 2027 Innovators Under 35 nominations",
+  "Our 2027 Innovators Under 35 competition is now open",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -406,5 +415,8 @@
   "fp:aaronson|affect|believ|breakthrough|can|complex|consequenc|economy|fact|former",
   "fp:access|acquisition|alternativ|anthropic|are|bas|block|chines|door|googl",
   "fp:adoption|behind|budget|built|can|cap|enforc|for200|gateway|governanc",
-  "fp:attention|cach|decod|dfly2|exist|generation|improv|increas|larg|memory"
+  "fp:attention|cach|decod|dfly2|exist|generation|improv|increas|larg|memory",
+  "fp:000|cutt|employe|global|initiativ|lay|layoff|major|nin|off10",
+  "fp:agency|board|chipmaker|concentration|concern|consider|credit|cut|downgrad|due",
+  "fp:annual|competition|founder|innovator|list|mit|nomination|now|open|opens2027"
 ]
