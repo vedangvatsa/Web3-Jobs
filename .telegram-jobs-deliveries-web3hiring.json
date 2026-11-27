@@ -8280,7 +8280,7 @@
     "sentAt": "2026-11-27T13:01:19.440Z"
   },
   "88edab76-4de7-4dcf-9f3f-b931d9304613": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T13:01:28.327Z",
     "chatId": "@jobsweb3",
     "jobs": [
@@ -8395,6 +8395,8 @@
       }
     ],
     "message": "- BVNK is hiring <a href=\"https://hashtagweb3.com/pm322?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager</a>\n- Tempo is hiring <a href=\"https://hashtagweb3.com/gtm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">APAC GTM Lead</a>\n- Groma is hiring <a href=\"https://hashtagweb3.com/pcs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Pest Control Specialist</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm362?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Designer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ds20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deal Strategist</a>",
-    "slotKey": "2026-11-27:afternoon"
+    "slotKey": "2026-11-27:afternoon",
+    "messageId": 225,
+    "sentAt": "2026-11-27T13:01:31.700Z"
   }
 }
