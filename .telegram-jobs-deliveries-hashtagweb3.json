@@ -4068,7 +4068,7 @@
     "sentAt": "2026-11-27T04:54:25.833Z"
   },
   "e23f3041-e5c4-4371-b0ea-41527a3d8905": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T13:01:35.640Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4183,6 +4183,8 @@
       }
     ],
     "message": "- Kraken is hiring <a href=\"https://hashtagweb3.com/mgr296?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Treasury Program Manager</a>\n- Sardine is hiring <a href=\"https://hashtagweb3.com/mgr218?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Partnerships Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/qa102?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Team Lead</a>\n- Ledger is hiring <a href=\"https://hashtagweb3.com/sec189?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Security Engineering</a>\n- Polygon Labs is hiring <a href=\"https://hashtagweb3.com/eng779?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Platform Engineer</a>",
-    "slotKey": "2026-11-27:afternoon"
+    "slotKey": "2026-11-27:afternoon",
+    "messageId": 156543,
+    "sentAt": "2026-11-27T13:01:38.866Z"
   }
 }
