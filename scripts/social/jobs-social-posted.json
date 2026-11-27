@@ -198909,7 +198909,8 @@
       },
       "account": "channel:build",
       "attemptId": "4abdf5fb-ad62-4dbc-b6e5-e85bd32d0b08",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8857874cad9c1aa60914ec352253166daf0ec962"
     }
   ]
 }
