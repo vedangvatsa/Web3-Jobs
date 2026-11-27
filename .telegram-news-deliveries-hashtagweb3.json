@@ -1158,7 +1158,7 @@
     "sentAt": "2026-11-27T13:06:11.902Z"
   },
   "bd6a8550-40a3-4acd-97c1-9011811de0c1": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T20:15:05.410Z",
     "stories": [
       {
@@ -1186,6 +1186,8 @@
         "originalTitle": "Bitcoin whales pile into BTC despite shrinking profit cushion"
       }
     ],
-    "slotKey": "2026-11-27:evening"
+    "slotKey": "2026-11-27:evening",
+    "messageId": 156547,
+    "sentAt": "2026-11-27T20:15:10.490Z"
   }
 }
