@@ -1121,5 +1121,38 @@
     "slotKey": "2026-11-27:morning",
     "messageId": 156538,
     "sentAt": "2026-11-27T04:56:09.345Z"
+  },
+  "6e277a34-f5d4-4bd7-ad7b-4e0e351e685b": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T13:06:00.170Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "First Swiss Spot Bitcoin ETF Begins Trading on SIX",
+        "summary": "Following FINMA approval in October, BIT Asset Management launched the fund with 350 bitcoin in assets.",
+        "link": "https://hashtagweb3.com/bbitlisting?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Switzerland's first spot Bitcoin ETF starts trading on SIX"
+      },
+      {
+        "index": 30,
+        "headline": "Fidelity files for spot Chainlink exchange-traded fund",
+        "summary": "The asset manager submitted a proposal to the US securities regulator to launch an investment vehicle tracking Chainlink's price.",
+        "event_rationale": "This covers a new institutional investment product filing for a major crypto asset by a global financial firm.",
+        "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-fidelity-chainlink-etf-musk-x-ruling-alleged-bitcoin-content-farm-case-more-crypto-news-446755",
+        "source": "The Block",
+        "originalTitle": "Fidelity files for Chainlink ETF, Musk’s X wins ruling in alleged bitcoin content-farm case, and more"
+      },
+      {
+        "index": 6,
+        "headline": "Incoming European Central Bank chief supports tokenized bank deposits",
+        "summary": "Pablo Hernández de Cos expressed preference for blockchain-based commercial bank money over stablecoins and private digital currencies.",
+        "event_rationale": "This covers a leadership change and policy shift at a major central bank regarding blockchain-based financial infrastructure.",
+        "link": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+        "source": "CoinDesk",
+        "originalTitle": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin"
+      }
+    ],
+    "slotKey": "2026-11-27:afternoon"
   }
 }
