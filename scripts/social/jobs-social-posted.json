@@ -204529,6 +204529,34 @@
       "attemptId": "95a929e0-5123-469f-aaed-76deaf0af5fd",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "aso99",
+      "company": "Figure",
+      "title": "Customer Success Associate",
+      "platform": "threads",
+      "postedAt": "2026-11-27T17:24:13.347Z",
+      "expectedText": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso99/th?og=7",
+      "snapshot": {
+        "id": "8791969002",
+        "title": "Customer Success Associate",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8791969002",
+        "date": "2026-11-17T15:20:27-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Reno, NV",
+        "department": "Customer Support Center",
+        "active": true,
+        "dateVerified": true,
+        "slug": "aso99"
+      },
+      "payload": {
+        "text": "Figure is hiring Customer Success Associate: https://hashtagweb3.com/aso99/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/aso99/th?og=7"
+      },
+      "attemptId": "d40214dd-337e-4f36-be73-ab92d57ce940",
+      "verification": "creating"
     }
   ]
 }
