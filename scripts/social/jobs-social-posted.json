@@ -203365,7 +203365,8 @@
       },
       "account": "channel:ai",
       "attemptId": "eb0ce067-69b5-4f62-976c-3e87621c1758",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x4b16dbaa83518eca82f0acceaea9f04a71f0a8f8"
     }
   ]
 }
