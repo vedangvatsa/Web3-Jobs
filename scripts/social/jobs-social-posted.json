@@ -205401,6 +205401,39 @@
       "attemptId": "79d2ff8b-7af8-4bb8-9222-41202883bf0a",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 27-Nov-26 12:13:12 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A9ra2rAkOtiNtcnuzJO226B\"}"
+    },
+    {
+      "slug": "ec5",
+      "company": "Rain",
+      "title": "Events Coordinator",
+      "platform": "bluesky",
+      "postedAt": "2026-11-27T20:12:58.627Z",
+      "expectedText": "Rain is hiring Events Coordinator: https://hashtagweb3.com/ec5/bsky?og=7",
+      "snapshot": {
+        "id": "43904e24-639b-4e46-8988-85a90ec1357a",
+        "title": "Events Coordinator",
+        "company": "Rain",
+        "link": "https://jobs.ashbyhq.com/rain/43904e24-639b-4e46-8988-85a90ec1357a",
+        "date": "2026-11-05T21:54:19.096+00:00",
+        "source": "Ashby: Rain [rain]",
+        "location": "New York, NY",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "GTM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ec5"
+      },
+      "payload": {
+        "text": "Rain is hiring Events Coordinator: https://hashtagweb3.com/ec5/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ec5/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ec5.png?v=7",
+        "company": "Rain",
+        "title": "Events Coordinator",
+        "description": "Join Rain as Events Coordinator. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "5ae1a300-9513-4988-9b01-e4ecd774d359",
+      "verification": "creating"
     }
   ]
 }
