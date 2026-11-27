@@ -225851,7 +225851,31 @@
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
       "attempts": 0,
       "expiresAt": "2026-11-29T09:18:15.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "articleSlug": "bbitlisting",
+      "draftProgress": {
+        "id": "a79b8269085e849faa0d",
+        "day": "2026-11-27",
+        "articleSlug": "bbitlisting",
+        "note": "Read Cointelegraph's debut report (1,601 shares first hour, CHF 8 open, 0.6% rise). The Block and The Defiant return 403. Next: open SIX media release and BIT pressroom (found via search, not yet read) as second and primary sources, then draft.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/markets/bit-debuts-switzerlands-first-spot-bitcoin-etf",
+            "outcome": "read"
+          },
+          {
+            "url": "https://www.theblock.co/news/markets/2026-11-26-swiss-bitcoin-etf-bbit-begins-trading-europes-only-446724",
+            "outcome": "blocked"
+          },
+          {
+            "url": "https://thedefiant.io/converge/tradfi-and-fintech/six-lists-switzerland-s-first-spot-bitcoin-etf",
+            "outcome": "blocked"
+          }
+        ],
+        "updatedAt": "2026-11-27T02:27:38.176Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "320f32a0ae5a3f761089": {
       "source": "CoinDesk",
