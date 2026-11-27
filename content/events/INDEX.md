@@ -66,35 +66,35 @@ Each entry links to its formatted description and original source file. All stor
 | [KOL Table by Lendary](descriptions.md#event-ccbacb6f4e1b1676) | 2026-11-26 | Source-backed (855 chars) |
 | [Spin & Dine](descriptions.md#event-9f99c40faeef461b) | 2026-11-26 | Source-backed (821 chars) |
 | [Moon Voyage](descriptions.md#event-88911c7558277d39) | 2026-11-26 | Source-backed (837 chars) |
-| [FINNEX Digital Assets & Technology Summit 2026](descriptions.md#event-68e6276c41039ddc) | 2026-11-27 | Source-backed (891 chars) |
-| [Bangkok Convergence II (Brunch)](descriptions.md#event-8acb98c6846c4b44) | 2026-11-27 | Source-backed (855 chars) |
+| [FINNEX Digital Assets & Technology Summit 2026](descriptions.md#event-68e6276c41039ddc) | 2026-11-27 | Source-backed (1617 chars) |
+| [Bangkok Convergence II (Brunch)](descriptions.md#event-8acb98c6846c4b44) | 2026-11-27 | Source-backed (1358 chars) |
 | [The Future Is Tokenized — Private Lunch](descriptions.md#event-7fdb2ef2a59df7ee) | 2026-11-27 | Source-backed (1004 chars) |
 | [The Long Table: Lunch with CoinMarketCap, Bangkok](descriptions.md#event-fa755d8281a6fc78) | 2026-11-27 | Source-backed (1183 chars) |
-| [Builders Brunch Bangkok](descriptions.md#event-9a029a74eb7534fb) | 2026-11-27 | Source-backed (705 chars) |
+| [Builders Brunch Bangkok](descriptions.md#event-9a029a74eb7534fb) | 2026-11-27 | Source-backed (1172 chars) |
 | [GemDeFi RWA Connect — Beyond the Token](descriptions.md#event-7b4ca4d1e6a37178) | 2026-11-27 | Source-backed (1024 chars) |
 | [021Lab × UPrising Network \| Bangkok Coffee Meetup](descriptions.md#event-83ed697294932cb9) | 2026-11-27 | Source-backed (918 chars) |
-| [Tom Yum & Drinks: FinTax Bangkok Meetup](descriptions.md#event-b786eb74c9a2b8e3) | 2026-11-27 | Source-backed (767 chars) |
+| [Tom Yum & Drinks: FinTax Bangkok Meetup](descriptions.md#event-b786eb74c9a2b8e3) | 2026-11-27 | Source-backed (1219 chars) |
 | [BNB Demo Night: Bangkok](descriptions.md#event-28ed161ff6da6498) | 2026-11-27 | Source-backed (874 chars) |
-| [Open Interest by RISEx](descriptions.md#event-ab7884da00ed01bb) | 2026-11-27 | Source-backed (723 chars) |
-| [WING IT: Flap x fomo Networking Night](descriptions.md#event-9f38498a7bd65c23) | 2026-11-27 | Source-backed (687 chars) |
+| [Open Interest by RISEx](descriptions.md#event-ab7884da00ed01bb) | 2026-11-27 | Source-backed (1146 chars) |
+| [WING IT: Flap x fomo Networking Night](descriptions.md#event-9f38498a7bd65c23) | 2026-11-27 | Source-backed (1097 chars) |
 | [The Bangkok Banquet — Exclusive Dinner](descriptions.md#event-f2553202d5023442) | 2026-11-27 | Source-backed (4370 chars) |
-| [GMGN x Velio Genesis Night](descriptions.md#event-1249715d7b7e357c) | 2026-11-27 | Source-backed (749 chars) |
-| [AfterX Bangkok](descriptions.md#event-d83aef4350f9f944) | 2026-11-27 | Source-backed (634 chars) |
-| [Bullish on Seafood: Dinner's on VPERP](descriptions.md#event-d462b43d27b80142) | 2026-11-27 | Source-backed (643 chars) |
-| [Coinfest Asia: Tuk Fast, Tuk Curious](descriptions.md#event-cdbb3c69d39a97c0) | 2026-11-28 | Source-backed (806 chars) |
+| [GMGN x Velio Genesis Night](descriptions.md#event-1249715d7b7e357c) | 2026-11-27 | Source-backed (1027 chars) |
+| [AfterX Bangkok](descriptions.md#event-d83aef4350f9f944) | 2026-11-27 | Source-backed (1003 chars) |
+| [Bullish on Seafood: Dinner's on VPERP](descriptions.md#event-d462b43d27b80142) | 2026-11-27 | Source-backed (1065 chars) |
+| [Coinfest Asia: Tuk Fast, Tuk Curious](descriptions.md#event-cdbb3c69d39a97c0) | 2026-11-28 | Source-backed (1180 chars) |
 | [WalletConnect Pop Up @ BBW, Bangkok](descriptions.md#event-378498d55d42f645) | 2026-11-28 | Source-backed (1432 chars) |
 | [BORN UP — Binance Blockchain Week Bangkok Community Networking Meetup](descriptions.md#event-033cb820c4409ff7) | 2026-11-28 | Source-backed (1848 chars) |
 | [Protocol Camp Mid Demo](descriptions.md#event-8c5571a38f2d2711) | 2026-11-28 | Source-backed (5312 chars) |
 | [Binance Blockchain Week 2026](descriptions.md#event-c1053a9caacfabc8) | 2026-11-28 | Source-backed (2330 chars) |
 | [CryptoCon Sydney 2026](descriptions.md#event-99a91ef39510a040) | 2026-11-28 | Source-backed (4399 chars) |
-| [Kraken Pro: Beneath the Surface](descriptions.md#event-80d652c5137f18d4) | 2026-11-28 | Source-backed (779 chars) |
+| [Kraken Pro: Beneath the Surface](descriptions.md#event-80d652c5137f18d4) | 2026-11-28 | Source-backed (1100 chars) |
 | [Next Builders: Bangkok Afterparty](descriptions.md#event-2e3b9313d28e170c) | 2026-11-28 | Source-backed (5015 chars) |
-| [The SiFi Table: Bangkok Edition](descriptions.md#event-b50178265e7f2e86) | 2026-11-28 | Source-backed (744 chars) |
+| [The SiFi Table: Bangkok Edition](descriptions.md#event-b50178265e7f2e86) | 2026-11-28 | Source-backed (1113 chars) |
 | [Milady Rave Binance Week](descriptions.md#event-f9d4fc1ec17b84a0) | 2026-11-28 | Source-backed (1099 chars) |
-| [Plearn Community Meetup](descriptions.md#event-a7ed5ecc21e81c38) | 2026-11-28 | Source-backed (681 chars) |
+| [Plearn Community Meetup](descriptions.md#event-a7ed5ecc21e81c38) | 2026-11-28 | Source-backed (1112 chars) |
 | [Satoshi Dinner Club Bangkok](descriptions.md#event-03d9704a0fa4f0e7) | 2026-11-28 | Source-backed (1059 chars) |
-| [Founders Running Club: Bangkok](descriptions.md#event-62b26caa8f83845a) | 2026-11-29 | Source-backed (594 chars) |
-| [Crypto Quant Capital Assembly](descriptions.md#event-cfbaf590f1cf5d86) | 2026-11-29 | Source-backed (767 chars) |
+| [Founders Running Club: Bangkok](descriptions.md#event-62b26caa8f83845a) | 2026-11-29 | Source-backed (1041 chars) |
+| [Crypto Quant Capital Assembly](descriptions.md#event-cfbaf590f1cf5d86) | 2026-11-29 | Source-backed (1122 chars) |
 | [Picnic in the Park](descriptions.md#event-db705bb7ed165bc5) | 2026-11-29 | Source-backed (1066 chars) |
 | [Health is Wealth — Padel & Networking](descriptions.md#event-10aa428cd19d2274) | 2026-11-29 | Source-backed (983 chars) |
 | [Traders Night](descriptions.md#event-e17f3ec1f7be1115) | 2026-11-29 | Source-backed (900 chars) |
@@ -102,16 +102,16 @@ Each entry links to its formatted description and original source file. All stor
 | [FutureZonic — Web3 Networking Party](descriptions.md#event-864baf488740d267) | 2026-11-29 | Source-backed (999 chars) |
 | [MasterChef Kitchen: Bangkok Private Dinner](descriptions.md#event-412ade100dc5267a) | 2026-11-29 | Source-backed (1028 chars) |
 | [The Alpha Table, BNB and Beyond — Private Thai Dinner](descriptions.md#event-2d3fb1f1f7aa2233) | 2026-11-29 | Source-backed (1020 chars) |
-| [Payments Night: Bangkok](descriptions.md#event-9ca52ff050e4f31f) | 2026-11-29 | Source-backed (569 chars) |
-| [Web3 Networking Night Bangkok](descriptions.md#event-b27c84b165b3e207) | 2026-11-29 | Source-backed (518 chars) |
-| [Hot Pot After Hours](descriptions.md#event-1c817aa86bda6cf1) | 2026-11-29 | Source-backed (579 chars) |
+| [Payments Night: Bangkok](descriptions.md#event-9ca52ff050e4f31f) | 2026-11-29 | Source-backed (974 chars) |
+| [Web3 Networking Night Bangkok](descriptions.md#event-b27c84b165b3e207) | 2026-11-29 | Source-backed (1008 chars) |
+| [Hot Pot After Hours](descriptions.md#event-1c817aa86bda6cf1) | 2026-11-29 | Source-backed (1042 chars) |
 | [Web3India Coffee Meetup @ Binance Blockchain Week Bangkok 2026](descriptions.md#event-53168b6537c6e394) | 2026-11-30 | Source-backed (1061 chars) |
 | [Bangkok Convergence — Private Thai Fine-Dining Brunch](descriptions.md#event-c8f799877b38defd) | 2026-11-30 | Source-backed (938 chars) |
 | [Investor Innovator Networking](descriptions.md#event-1ef9074153706f2d) | 2026-11-30 | Source-backed (1541 chars) |
-| [RFC Official Launch 2026](descriptions.md#event-b3f42b7f040846fb) | 2026-11-30 | Source-backed (668 chars) |
+| [RFC Official Launch 2026](descriptions.md#event-b3f42b7f040846fb) | 2026-11-30 | Source-backed (1074 chars) |
 | [The Institutional House: Where RWAs, Stablecoins & AI Meet Onchain Liquidity](descriptions.md#event-04074aeb89770a76) | 2026-11-30 | Source-backed (1021 chars) |
 | [Web3 FOMO Fest — After Party](descriptions.md#event-010b6dd7fa3e2aec) | 2026-11-30 | Source-backed (923 chars) |
-| [Watch Fun Creators Meetup](descriptions.md#event-6bc54251a7056387) | 2026-11-30 | Source-backed (642 chars) |
+| [Watch Fun Creators Meetup](descriptions.md#event-6bc54251a7056387) | 2026-11-30 | Source-backed (1083 chars) |
 | [Tokenize: LDN 2026](descriptions.md#event-4771f65c123f7087) | 2026-12-01 | Source-backed (3131 chars) |
 | [Blockchain Life 2026](descriptions.md#event-868f2327eef135c3) | 2026-12-01 | Source-backed (8121 chars) |
 | [Africa Bitcoin Conference 2026](descriptions.md#event-850e9a2b8df1c561) | 2026-12-02 | Source-backed (4238 chars) |
