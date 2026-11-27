@@ -4186,5 +4186,121 @@
     "slotKey": "2026-11-27:afternoon",
     "messageId": 156543,
     "sentAt": "2026-11-27T13:01:38.866Z"
+  },
+  "56c3900b-4292-4806-8116-108f84b8504a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T20:11:17.346Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "fbc94a68-6758-4af1-b5d0-a3b5028708a5",
+          "title": "VP, Community & Sustainability",
+          "company": "Riot Platforms",
+          "link": "https://ats.rippling.com/riot-platforms-careers/jobs/fbc94a68-6758-4af1-b5d0-a3b5028708a5",
+          "date": "2026-11-09T10:07:41.439000-08:00",
+          "source": "Rippling: Riot Platforms [riot-platforms-careers]",
+          "location": "Denver, CO - Hybrid",
+          "department": "Marketing & Program Management",
+          "active": true,
+          "dateVerified": true,
+          "slug": "cm14"
+        },
+        "key": "fbc94a68-6758-4af1-b5d0-a3b5028708a5",
+        "slug": "cm14",
+        "url": "https://hashtagweb3.com/cm14?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Riot Platforms",
+        "title": "VP, Community & Sustainability"
+      },
+      {
+        "snapshot": {
+          "id": "8187581003",
+          "title": "Staff Engineer, Machine Learning & Data Infrastructure",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8187581003",
+          "date": "2026-11-04T00:17:16-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "San Jose, CA",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$214.7k – $322.0k/yr",
+          "dateVerified": true,
+          "slug": "infra64"
+        },
+        "key": "8187581003",
+        "slug": "infra64",
+        "url": "https://hashtagweb3.com/infra64?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Staff Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5487073008",
+          "title": "Business Development, AI solutions",
+          "company": "D3 Global",
+          "link": "https://job-boards.greenhouse.io/d3/jobs/5487073008",
+          "date": "2026-11-18T16:10:15-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: D3 Global [d3]",
+          "location": "Los Angeles, CA",
+          "department": "Commercial",
+          "active": true,
+          "salary": "$40k – $75k/yr",
+          "dateVerified": true,
+          "slug": "sls539"
+        },
+        "key": "5487073008",
+        "slug": "sls539",
+        "url": "https://hashtagweb3.com/sls539?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "D3 Global",
+        "title": "Business Development"
+      },
+      {
+        "snapshot": {
+          "id": "8934097002",
+          "title": "Senior Data Scientist",
+          "company": "Figure",
+          "link": "https://job-boards.greenhouse.io/figure/jobs/8934097002",
+          "date": "2026-11-12T18:18:33-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Figure [figure]",
+          "location": "Remote",
+          "department": "Data Engineering",
+          "active": true,
+          "salary": "$132k – $198k/yr",
+          "dateVerified": true,
+          "slug": "ds21"
+        },
+        "key": "8934097002",
+        "slug": "ds21",
+        "url": "https://hashtagweb3.com/ds21?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Figure",
+        "title": "Senior Data Scientist"
+      },
+      {
+        "snapshot": {
+          "id": "8351589",
+          "title": "Japan Enterprise Account Manager",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8351589",
+          "date": "2026-11-16T20:52:28-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Tokyo",
+          "department": "1195 Account Executives (APAC)",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls518"
+        },
+        "key": "8351589",
+        "slug": "sls518",
+        "url": "https://hashtagweb3.com/sls518?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Japan Enterprise Account Manager"
+      }
+    ],
+    "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/cm14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Community &amp; Sustainability</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/infra64?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer, Machine Learning &amp; Data Infrastructure</a>\n- D3 Global is hiring <a href=\"https://hashtagweb3.com/sls539?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/ds21?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Scientist</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls518?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Japan Enterprise Account Manager</a>",
+    "slotKey": "2026-11-27:evening"
   }
 }
