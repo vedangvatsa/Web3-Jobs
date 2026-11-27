@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-11-27T10:41:36.724Z",
+  "generatedAt": "2026-11-27T10:49:40.294Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4078,
+  "count": 4094,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -330,6 +330,12 @@
     {
       "url": "https://hashtagweb3.com/afterhours",
       "lastmod": "2026-12-10",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/afterxbkk",
+      "lastmod": "2026-11-27",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -2746,6 +2752,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/bkkconvergence2",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/bkkfounders",
       "lastmod": "2026-11-27",
       "changefreq": "weekly",
@@ -3247,6 +3259,12 @@
       "url": "https://hashtagweb3.com/buenos-aires",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/buildersbrunch",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
       "priority": 0.6
     },
     {
@@ -4552,6 +4570,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/coinfestasiatuk",
+      "lastmod": "2026-11-28",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/coinfinity",
       "lastmod": "2026-10-14",
       "changefreq": "weekly",
@@ -5090,6 +5114,12 @@
       "lastmod": "2026-11-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/cryptoquant",
+      "lastmod": "2026-11-29",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/cs14",
@@ -5982,12 +6012,6 @@
     {
       "url": "https://hashtagweb3.com/dmb",
       "lastmod": "2026-12-03",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/dmcc",
-      "lastmod": "2026-11-27",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8662,6 +8686,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/finnexsummit",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/finnovation",
       "lastmod": "2027-04-28",
       "changefreq": "weekly",
@@ -8676,6 +8706,12 @@
     {
       "url": "https://hashtagweb3.com/finst",
       "lastmod": "2026-10-14",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/fintaxbkk",
+      "lastmod": "2026-11-27",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -8832,6 +8868,12 @@
     {
       "url": "https://hashtagweb3.com/fortitude-mining",
       "lastmod": "2026-11-20",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/founders-running-club-bangkok",
+      "lastmod": "2026-11-29",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -9196,12 +9238,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/gemdefi",
-      "lastmod": "2026-11-27",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/gemini",
       "lastmod": "2026-11-02",
       "changefreq": "weekly",
@@ -9338,6 +9374,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.5
+    },
+    {
+      "url": "https://hashtagweb3.com/gmgnvelio",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/gnosisbreach",
@@ -9674,6 +9716,12 @@
       "lastmod": "2026-11-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/hotpotafter",
+      "lastmod": "2026-11-29",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/house-probe",
@@ -11522,6 +11570,12 @@
       "lastmod": "2026-11-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/krakenprobkk",
+      "lastmod": "2026-11-28",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/krakentribe",
@@ -13852,12 +13906,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/nextunicorn",
-      "lastmod": "2026-11-27",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
       "url": "https://hashtagweb3.com/nfcsummit",
       "lastmod": "2027-05-27",
       "changefreq": "weekly",
@@ -14956,6 +15004,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/paymentsnight-bangkok",
+      "lastmod": "2026-11-29",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/paymium",
       "lastmod": "2026-10-14",
       "changefreq": "weekly",
@@ -15145,6 +15199,12 @@
       "url": "https://hashtagweb3.com/playa-del-carmen",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/plearnmeetup",
+      "lastmod": "2026-11-28",
+      "changefreq": "weekly",
       "priority": 0.6
     },
     {
@@ -17320,6 +17380,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/rfclaunch",
+      "lastmod": "2026-11-30",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/riga",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
@@ -17354,6 +17420,12 @@
       "lastmod": "2026-11-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/risexoi",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/river-financial",
@@ -17780,6 +17852,12 @@
       "lastmod": "2026-11-16",
       "changefreq": "daily",
       "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/seafoodvperp",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/seavslatam",
@@ -18709,6 +18787,12 @@
       "url": "https://hashtagweb3.com/siem-reap",
       "lastmod": "2026-10-02",
       "changefreq": "monthly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/sifitable",
+      "lastmod": "2026-11-28",
+      "changefreq": "weekly",
       "priority": 0.6
     },
     {
@@ -20286,12 +20370,6 @@
     {
       "url": "https://hashtagweb3.com/solanaarcade",
       "lastmod": "2026-12-07",
-      "changefreq": "weekly",
-      "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/solanaboot",
-      "lastmod": "2026-11-27",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -22522,6 +22600,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/watchfunbkk",
+      "lastmod": "2026-11-30",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/waterplum",
       "lastmod": "2026-11-27",
       "changefreq": "monthly",
@@ -23374,6 +23458,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/web3netnight",
+      "lastmod": "2026-11-29",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/web3undergr",
       "lastmod": "2026-12-09",
       "changefreq": "weekly",
@@ -24026,6 +24116,12 @@
       "lastmod": "2026-11-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/wingitbkk",
+      "lastmod": "2026-11-27",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/winklevosspac",

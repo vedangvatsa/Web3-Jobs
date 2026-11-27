@@ -5503,45 +5503,6 @@
       }
     },
     {
-      "id": "luma-evt-jfJFCNApP1oVyb2",
-      "name": "India OnChain Tour #50 - Haryana Edition",
-      "startDate": "2026-10-28T08:00:00.000Z",
-      "endDate": "2026-10-28T09:00:00.000Z",
-      "timezone": "Asia/Kolkata",
-      "disposition": "recovered",
-      "sourceFile": "events-cache.json",
-      "sourceEventId": "evt-jfJFCNApP1oVyb2",
-      "url": "https://luma.com/0srsltaq",
-      "lane": "india",
-      "reason": "The same evt-jfJFCNApP1oVyb2 appears as luma-evt-jfJFCNApP1oVyb2 and luma-batch-evtjfJFCNApP1oVy. The older batch record has a September date; primary and newer source agree on October 28. No active runtime, hold or tombstone match.",
-      "evidence": [
-        {
-          "url": "https://luma.com/0srsltaq",
-          "fetchedAt": "2026-10-20T08:56:20.285Z",
-          "excerpt": "Sikka.fun India On-Chain Tour #50, Haryana Edition. Introduction to creator coins; launching a coin on Sikka.fun; fair launches, on-chain referrals, token economies and digital ownership. start_at 2026-10-28T08:00:00.000Z; end_at 2026-10-28T09:00:00.000Z; Asia/Kolkata; visibility public; public location YMCA University Campus Street, Sector 6, Faridabad, Haryana 121006; require_approval false.",
-          "sha256": "b1072dba70b9057fb512255361bd8a20cbb02499ec1e36fff6accd7d33b00b9c",
-          "representation": "HTTP response HTML and public embedded event data"
-        }
-      ],
-      "primaryCheck": {
-        "fetchedAt": "2026-10-20T09:31:12.318Z",
-        "status": 200
-      },
-      "coverEvidence": {
-        "sourceUrl": "https://images.lumacdn.com/uploads/jh/a2ec4e3b-f875-4fab-8474-8e9c8803bd70.png",
-        "fetchedAt": "2026-10-20T09:50:08.423Z",
-        "status": 200,
-        "local": "/events/luma-evt-jfjfcnapp1ovyb2-e587e6ea.webp",
-        "sourceSha256": "0bcdbe804d3df5320b67154defe329d32c6319df6b31f3717151cdd07fe59d09",
-        "sha256": "15284abf2a6a1570a431bb0279babf314d846acc54c9dd73bf18acd378867382",
-        "originalWidth": 1600,
-        "originalHeight": 1600,
-        "width": 1600,
-        "height": 1600,
-        "bytes": 69224
-      }
-    },
-    {
       "id": "luma-evt-szEAISbh7eCdngg",
       "name": "ICONX New Delhi",
       "startDate": "2026-11-01T09:30:00.000Z",
@@ -9790,12 +9751,6 @@
       "url": "https://luma.com/04valfwl",
       "result": "held-date-and-relevance",
       "note": "NEARVANA structured dates are November 28-29, but body says exact dates only after acceptance. AI, culture and privacy residency lacks a substantive blockchain program.",
-      "lane": "india"
-    },
-    {
-      "url": "https://luma.com/0srsltaq",
-      "result": "verified-existing-unpublished",
-      "note": "India OnChain Tour #50. Two source records exist for the same event ID, one with a stale September date. Current primary is October 28.",
       "lane": "india"
     },
     {

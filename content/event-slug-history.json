@@ -1074,10 +1074,6 @@
     "slug": "superteam-poland-co-work-krakow-2026-10-28",
     "aliases": []
   },
-  "luma-evt-jfJFCNApP1oVyb2": {
-    "slug": "india-onchain-tour-50-haryana-edition",
-    "aliases": []
-  },
   "discovery-evt-1DcDrdOjAH9DBML": {
     "slug": "future-value-ai-tokenised-assets",
     "aliases": []
@@ -4775,5 +4771,87 @@
     "aliases": [
       "dabao-open-hardware-hackathon"
     ]
+  },
+  "luma-fashp75d": {
+    "slug": "finnexsummit",
+    "aliases": []
+  },
+  "luma-s7ubheq0": {
+    "slug": "fintaxbkk",
+    "aliases": []
+  },
+  "luma-kbz0zy6x": {
+    "slug": "risexoi",
+    "aliases": []
+  },
+  "luma-tiv9zsrw": {
+    "slug": "wingitbkk",
+    "aliases": []
+  },
+  "luma-oyyb9m4j": {
+    "slug": "afterxbkk",
+    "aliases": []
+  },
+  "luma-mcy6vi30": {
+    "slug": "gmgnvelio",
+    "aliases": []
+  },
+  "luma-jrlsp5ke": {
+    "slug": "seafoodvperp",
+    "aliases": []
+  },
+  "luma-ba856ek2": {
+    "slug": "coinfestasiatuk",
+    "aliases": []
+  },
+  "luma-kraken-pro-bangkok": {
+    "slug": "krakenprobkk",
+    "aliases": []
+  },
+  "luma-vk3p3rly": {
+    "slug": "plearnmeetup",
+    "aliases": []
+  },
+  "luma-aup93ou4": {
+    "slug": "sifitable",
+    "aliases": []
+  },
+  "luma-j08g4dc0": {
+    "slug": "founders-running-club-bangkok",
+    "aliases": [
+      "frcbkk"
+    ]
+  },
+  "luma-ufucjl00": {
+    "slug": "cryptoquant",
+    "aliases": []
+  },
+  "luma-w4squx8i": {
+    "slug": "web3netnight",
+    "aliases": []
+  },
+  "luma-ihlfvyzf": {
+    "slug": "paymentsnight-bangkok",
+    "aliases": []
+  },
+  "curated-hot-pot-after-hours": {
+    "slug": "hotpotafter",
+    "aliases": []
+  },
+  "connect-rfc-official-launch-2026": {
+    "slug": "rfclaunch",
+    "aliases": []
+  },
+  "luma-superteam-s8zl": {
+    "slug": "watchfunbkk",
+    "aliases": []
+  },
+  "curated-bkkconvergence2": {
+    "slug": "bkkconvergence2",
+    "aliases": []
+  },
+  "luma-ifqbyexx": {
+    "slug": "buildersbrunch",
+    "aliases": []
   }
 }

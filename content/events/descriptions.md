@@ -1446,6 +1446,55 @@ Moon Voyage is an exclusive private yacht cruise along the Chao Phraya River in 
 
 Attendance is strictly by invitation only, limited to 30 executive participants. Inquiries and partner participation are coordinated directly through the Phill Club Collective curation team.
 
+<a id="event-68e6276c41039ddc"></a>
+
+## FINNEX Digital Assets & Technology Summit 2026
+
+- Record: `luma-fashp75d`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T01:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/fashp75d>
+
+### About the event
+
+FINNEX Digital Assets & Technology Summit 2026 is an executive full-day summit hosted by 9 CAT Group and Airova on Friday, November 27, 2026, during Binance Blockchain Week in Bangkok. The conference brings together institutional investors, Web3 founders, digital asset funds, and AI pioneers to explore next-generation financial architectures, decentralized intelligence, and on-chain capital allocation.
+
+### Summit Agenda & Tracks
+
+- Institutional Digital Asset Adoption & Market Structures in Southeast Asia
+- The Convergence of AI Agents and Decentralized Finance
+- Regulatory Compliance, Custody, and Security Architectures
+- Capital Formation, VC Dealmaking, and Strategic Networking Salon
+
+### Venue
+
+Grand Mercure Bangkok Atrium, 1880 New Petchaburi Road, Bang Kapi, Huai Khwang, Bangkok 10310, Thailand. Pre-registration and host approval are required for admission.
+
+<a id="event-8acb98c6846c4b44"></a>
+
+## Bangkok Convergence II (Brunch)
+
+- Record: `curated-bkkconvergence2`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://hashtagweb3.com/bkkconvergence2>
+
+### About the event
+
+Bangkok Convergence II is an exclusive executive networking brunch hosted by DTC Group on Friday, November 27, 2026. Convening at the Four Seasons Hotel Bangkok, the private gathering brings together venture capitalists, institutional fund managers, and leading protocol founders for high-level discussions on digital asset investments and regional market expansion during Binance Blockchain Week.
+
+### Highlights
+
+- Fine-dining multi-course Thai brunch experience
+- Curated roundtables covering investment trends, infrastructure, and token liquidity
+- High-level bilateral investor and founder networking salon
+
+### Venue
+
+Hosted at the Four Seasons Hotel Bangkok at Chao Phraya River, 300/1 Charoen Krung Road, Yannawa, Sathon, Bangkok 10120. Attendance is strictly limited to pre-approved fund managers, partners, and invited executives.
+
 <a id="event-7fdb2ef2a59df7ee"></a>
 
 ## The Future Is Tokenized — Private Lunch
@@ -1508,6 +1557,30 @@ RSVP: By 23 November, 2026. Seats are limited.
 
 We'd love to see you at the table!
 
+<a id="event-9a029a74eb7534fb"></a>
+
+## Builders Brunch Bangkok
+
+- Record: `luma-ifqbyexx`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T05:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ifqbyexx>
+
+### About the event
+
+Builders Brunch Bangkok is a focused midday community gathering hosted by Buildify on Friday, November 27, 2026, alongside Binance Blockchain Week. The session connects smart-contract engineers, open-source developers, Web3 product designers, and technical founders for collaborative networking over brunch.
+
+### What to Expect
+
+- Informal engineering roundtables on developer tooling, account abstraction, and EVM scaling
+- Project feedback and live developer demos in an intimate setting
+- Brunch food, artisan coffee, and developer networking
+
+### Admission
+
+Registration approval is required. Open to active builders, developers, and founders participating in Bangkok blockchain events.
+
 <a id="event-7b4ca4d1e6a37178"></a>
 
 ## GemDeFi RWA Connect — Beyond the Token
@@ -1559,6 +1632,30 @@ Central Bangkok café location close to the BBW main venue. Address provided upo
 
 This listing reflects the organizer's published information for 021Lab × UPrising Network | Bangkok Coffee Meetup on Nov 27, 2026 in Bangkok, Thailand. Register and confirm ticket inclusions on the official event page.
 
+<a id="event-b786eb74c9a2b8e3"></a>
+
+## Tom Yum & Drinks: FinTax Bangkok Meetup
+
+- Record: `luma-s7ubheq0`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/s7ubheq0>
+
+### About the event
+
+Tom Yum & Drinks: FinTax Bangkok Meetup is a casual afternoon networking event hosted by FinTax and Danny's Substack on Friday, November 27, 2026, during Binance Blockchain Week. Taking place at JustCo in Samyan Mitrtown, the meetup unites crypto tax specialists, compliance advisors, CFOs, and Web3 finance operators.
+
+### Program
+
+- Practical discussions on international crypto tax compliance, reporting standards, and cross-border accounting
+- Informal networking over traditional Thai snacks, Tom Yum bites, and drinks
+- Community exchange on digital asset taxation frameworks in Asia-Pacific
+
+### Venue
+
+JustCo at Samyan Mitrtown, 944 Rama IV Road, Wang Mai, Pathum Wan, Bangkok 10330, Thailand. Admission is free with host registration approval.
+
 <a id="event-28ed161ff6da6498"></a>
 
 ## BNB Demo Night: Bangkok
@@ -1584,6 +1681,54 @@ BNB Chain Demo Night is the grand closing celebration of the BNB Hack: Bangkok, 
 ### Venue
 
 Park Hyatt Bangkok, Central Embassy, 88 Wireless Road, Lumphini, Pathum Wan, Bangkok 10330.
+
+<a id="event-ab7884da00ed01bb"></a>
+
+## Open Interest by RISEx
+
+- Record: `luma-kbz0zy6x`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kbz0zy6x>
+
+### About the event
+
+Open Interest by RISEx is an evening traders salon hosted by RISEx on Friday, November 27, 2026, at Area Zero by Cryptomind Group in Bangkok. The event brings together on-chain and off-chain market participants, including perpetual contract traders, algorithmic trading firms, FX/CFD desks, and prop traders.
+
+### Event Program
+
+- Keynote brief from the RISE team on on-chain liquidity architecture and high-performance perp execution
+- Trader roundtables on order-flow dynamics, funding rates, and risk management strategies
+- Catered drinks, gourmet food, and dedicated market-maker networking
+
+### Venue
+
+Area Zero by Cryptomind Group, Dragon Town (Samyan), Bangkok. Free entry with advance host approval.
+
+<a id="event-9f38498a7bd65c23"></a>
+
+## WING IT: Flap x fomo Networking Night
+
+- Record: `luma-tiv9zsrw`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/tiv9zsrw>
+
+### About the event
+
+WING IT: Flap x fomo Networking Night is an evening social gathering co-hosted by FLAP and fomo on Friday, November 27, 2026, during Binance Blockchain Week Bangkok. Hosted in the Sathon district, the meetup unites crypto traders, Key Opinion Leaders (KOLs), growth marketers, and Web3 community members for a vibrant night of casual connections.
+
+### Features
+
+- Relaxed evening atmosphere with complimentary beverages and music
+- Informal discussions on meme ecosystems, community building, and viral growth
+- High-energy networking across trading and builder circles
+
+### Details
+
+Location in Sathon disclosed upon ticket approval. Free registration with host approval.
 
 <a id="event-f2553202d5023442"></a>
 
@@ -1660,6 +1805,103 @@ X: @DTCgroup_
 Website: dtcgroup.xyz
 
 Hosts Optimism Events - Programmable Financial Infrastructure for enterprises. Built by Ethereum's earliest scaling researchers. BitGo Events - BitGo (NYSE: BTGO) is the digital asset infrastructure company delivering custody, wallets, staking, trading, financing and more since 2013. Ploy B. - TH/Indochina Country Manager (Expansion) | Tether
+
+<a id="event-1249715d7b7e357c"></a>
+
+## GMGN x Velio Genesis Night
+
+- Record: `luma-mcy6vi30`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/mcy6vi30>
+
+### About the event
+
+GMGN x Velio Genesis Night marks the first official collaborative evening hosted by GMGN and Velio on Friday, November 27, 2026. Held atop the 38th-floor rooftop of the Bangkok Marriott Marquis Queen's Park, the gathering unites active on-chain traders, Web3 founders, technical builders, and prominent KOLs.
+
+### Schedule
+
+- 19:00 - 20:00: Guest reception and welcome cocktails
+- 20:10 - 20:45: Fireside Chat featuring Haze (GMGN) and Dave (Velio) on trading analytics and automation
+- 20:45 - 21:00: Genesis community lucky draw
+- 21:00 - 23:00: Rooftop networking and panoramic skyline social
+
+### Venue
+
+Bangkok Marriott Marquis Queen's Park (38F Rooftop), 199 Sukhumvit Soi 22, Bangkok. Free admission with registration approval.
+
+<a id="event-d83aef4350f9f944"></a>
+
+## AfterX Bangkok
+
+- Record: `luma-oyyb9m4j`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/oyyb9m4j>
+
+### About the event
+
+AfterX Bangkok is a high-profile evening networking reception hosted by AfterX (CoinFerenceX) on Friday, November 27, 2026. Designed with no formal speeches, pitches, or panel lectures, the event focuses 100% on high-value human connection across founders, venture capitalists, tier-1 exchange operators, market makers, and trading desks.
+
+### Highlights
+
+- Open-bar drinks, curated finger food, and premium networking
+- Exclusive partner giveaways and merchandise
+- Live DJ set kicking off from 21:30 through closing
+
+### Registration
+
+Shared privately with approved guests. Free registration subject to host approval.
+
+<a id="event-d462b43d27b80142"></a>
+
+## Bullish on Seafood: Dinner's on VPERP
+
+- Record: `luma-jrlsp5ke`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T13:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/jrlsp5ke>
+
+### About the event
+
+Bullish on Seafood is an intimate VIP seafood dinner hosted by VPERP and APRO on Friday, November 27, 2026, during Binance Blockchain Week. The private dinner convenes quantitative traders, perps specialists, liquidity providers, and derivative exchange operators for an evening of fresh Thai seafood and trading discussion.
+
+### Highlights
+
+- Authentic multi-course Thai seafood banquet
+- In-depth discussions on perpetual futures DEX architecture, cross-chain collateral, and oracle infrastructure
+- Private trader networking
+
+### Attendance
+
+Strictly limited seating. Free admission for approved guests and protocol partners.
+
+<a id="event-cdbb3c69d39a97c0"></a>
+
+## Coinfest Asia: Tuk Fast, Tuk Curious
+
+- Record: `luma-ba856ek2`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-28T03:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ba856ek2>
+
+### About the event
+
+Coinfest Asia: Tuk Fast, Tuk Curious is an innovative interview series hosted by Coinfest Asia across Saturday and Sunday, November 28-29, 2026, at Queen Sirikit National Convention Center (QSNCC). Stationed right at the main Binance Blockchain Week venue, the activation invites founders and crypto visionaries for rapid-fire video conversations inside an iconic customized Thai tuk-tuk.
+
+### Activation Format
+
+- High-energy, short-format recorded interviews exploring founder journeys, thesis shifts, and market insights
+- Broadcast across Coinfest Asia's global social and media network
+- Unique cultural intersection of Web3 technology and Bangkok urban street culture
+
+### Venue
+
+Queen Sirikit National Convention Center (QSNCC), Bangkok. Approval required for interview participation.
 
 <a id="event-378498d55d42f645"></a>
 
@@ -1927,6 +2169,30 @@ VIP event experience Premium hospitalityExclusive networking opportunitiesSuper 
 
 - $139Connect with the people shaping the future of crypto at CryptoCon's dedicated Industry Networking Event. Meet founders, executives, investors, partners and industry leaders in a premium networking environment designed for meaningful connections.2-Day Event PassAccess to all speaker sessionsNetworking AppAccess to the Industry Networking Event, Sat 28th NovConnect with founders, executives & industry leaders
 
+<a id="event-80d652c5137f18d4"></a>
+
+## Kraken Pro: Beneath the Surface
+
+- Record: `luma-kraken-pro-bangkok`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-28T11:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/kraken-pro-bangkok>
+
+### About the event
+
+Kraken Pro: Beneath the Surface is an exclusive evening social hosted by Kraken on Saturday, November 28, 2026, at Goji Kitchen+Bar inside the Bangkok Marriott Marquis Queen's Park. Designed as an informal, relaxed gathering during Binance Blockchain Week, the evening features no formal panels, speeches, or slides - just high-quality food, craft drinks, and open conversations.
+
+### Highlights
+
+- Premium international culinary experience hosted at Goji Kitchen+Bar
+- Open networking with Kraken Pro executives, institutional liquidity providers, algorithmic traders, and ecosystem partners
+- Relaxed, conversation-first atmosphere
+
+### Venue & Admission
+
+Goji Kitchen+Bar, Bangkok Marriott Marquis Queen's Park, Bangkok. Free admission upon approved registration.
+
 <a id="event-2e3b9313d28e170c"></a>
 
 ## Next Builders: Bangkok Afterparty
@@ -2015,6 +2281,30 @@ See you in Bangkok.
 
 About the organiser: ShardLab is the innovation arm of Hashed, a leading global Web3 venture capital firm based in Asia.
 
+<a id="event-b50178265e7f2e86"></a>
+
+## The SiFi Table: Bangkok Edition
+
+- Record: `luma-aup93ou4`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-28T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/aup93ou4>
+
+### About the event
+
+The SiFi Table: Bangkok Edition is a private-chef dining experience co-hosted by Michael Huynh, TheDegenBoii, and Lumia on Saturday, November 28, 2026. The curated dinner convenes 20 select founders, researchers, and operators working at the frontier of artificial intelligence, autonomous on-chain agents, and real-world asset (RWA) tokenization.
+
+### Dinner Philosophy
+
+- Zero pitches, zero sponsored slides, and zero keynote lectures
+- Deep dialogue on autonomous agent commerce, cryptographic verification, and tokenized real estate/credit
+- Specially designed gourmet multi-course culinary tasting menu
+
+### Admission
+
+Private dining venue disclosed to confirmed guests. Application required detailing current project build.
+
 <a id="event-f9d4fc1ec17b84a0"></a>
 
 ## Milady Rave Binance Week
@@ -2045,6 +2335,30 @@ Ourbit - trade everything on the green exchange.
 
 Onramp.xyz - is building the next generation of consumer finance: always-on global markets, personalized to you. Trade 100+ markets across crypto, stocks and commodities with leverage, and access yield strategies through one intuitive mobile app, while keeping control of your assets. Early access codes will available at the event.
 
+<a id="event-a7ed5ecc21e81c38"></a>
+
+## Plearn Community Meetup
+
+- Record: `luma-vk3p3rly`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-28T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/vk3p3rly>
+
+### About the event
+
+Plearn Community Meetup is an evening project showcase and pitching night hosted by PLEARN Finance on Saturday, November 28, 2026, at the Phill Club in Bangkok. The event brings together community stakeholders, token holders, and Web3 developers for an intimate review of ecosystem milestones and upcoming features.
+
+### Program
+
+- PLEARN Finance roadmap updates, liquidity metrics, and governance briefings
+- Project pitch session spotlighting emerging builders within the ecosystem
+- Social hour with refreshments and community networking
+
+### Venue & Admission
+
+Phill Club Bangkok. Free admission for verified community holders; guest tickets priced at THB 3,500.
+
 <a id="event-03d9704a0fa4f0e7"></a>
 
 ## Satoshi Dinner Club Bangkok
@@ -2068,6 +2382,55 @@ With no stage, sponsors, or prepared presentations, the evening focuses on authe
 Hosted at a private luxury dining residence in Bangkok. Invitations are personalized, non-transferable, and confirmed upon individual review.
 
 This listing reflects the organizer's published information for Satoshi Dinner Club Bangkok on Nov 28, 2026 in Bangkok, Thailand. Register and confirm ticket inclusions on the official event page.
+
+<a id="event-62b26caa8f83845a"></a>
+
+## Founders Running Club: Bangkok
+
+- Record: `luma-j08g4dc0`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-29T01:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/j08g4dc0>
+
+### About the event
+
+Founders Running Club: Bangkok is a Sunday morning community run on November 29, 2026, organized for Web3 founders, developers, and conference attendees looking to start their day with fitness and fresh air during Binance Blockchain Week.
+
+### Details
+
+- 5km conversational-pace run open to runners and joggers of all fitness levels
+- Post-run refreshments, fresh coconuts, and coffee networking
+- A healthy way to connect with startup peers outside the conference hall
+
+### Registration
+
+Free and open community registration. Exact park meeting point provided upon registration.
+
+<a id="event-cfbaf590f1cf5d86"></a>
+
+## Crypto Quant Capital Assembly
+
+- Record: `luma-ufucjl00`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-29T04:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ufucjl00>
+
+### About the event
+
+Crypto Quant Capital Assembly is an afternoon institutional summit hosted by Axiom Digital on Sunday, November 29, 2026, during Binance Blockchain Week Bangkok. The salon bridges quantitative trading teams, algorithmic strategy developers, market makers, and institutional investment managers.
+
+### Assembly Topics
+
+- Statistical arbitrage, latency optimization, and automated liquidity provision
+- Risk modelling in decentralized derivatives and perpetual swap architecture
+- Institutional capital allocation into crypto hedge strategies
+- Evening private networking dinners for confirmed funds and trading executives
+
+### Location
+
+Venue details shared upon registration review. Free admission for accredited quantitative operators and fund managers.
 
 <a id="event-db705bb7ed165bc5"></a>
 
@@ -2272,6 +2635,78 @@ Seating is strictly by invitation and confirmed RSVP to maintain an executive-le
 
 This listing reflects the organizer's published information for The Alpha Table, BNB and Beyond. Private Thai Dinner on Nov 29, 2026 in Bangkok, Thailand. Register and confirm ticket inclusions on the official event page.
 
+<a id="event-9ca52ff050e4f31f"></a>
+
+## Payments Night: Bangkok
+
+- Record: `luma-ihlfvyzf`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-29T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/ihlfvyzf>
+
+### About the event
+
+Payments Night: Bangkok is an executive evening forum hosted by Orviq Labs on Sunday, November 29, 2026. The event convenes fintech entrepreneurs, payment service providers (PSPs), fiat-on/off-ramp architects, and stablecoin payment networks.
+
+### Discussion Highlights
+
+- Global stablecoin settlement and merchant processing rails
+- Regulatory compliance and licensing standards across Southeast Asia
+- Cross-border business-to-business crypto payments and FX optimization
+
+### Venue
+
+Venue details released to confirmed guests upon registration review.
+
+<a id="event-b27c84b165b3e207"></a>
+
+## Web3 Networking Night Bangkok
+
+- Record: `luma-w4squx8i`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-29T12:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/w4squx8i>
+
+### About the event
+
+Web3 Networking Night Bangkok is a Sunday evening social mixer on November 29, 2026, bringing together developers, creators, marketers, and crypto enthusiasts during the final evening of Binance Blockchain Week.
+
+### Event Focus
+
+- Open, informal mingling across ecosystems (EVM, Solana, Move, Bitcoin Layer-2s)
+- Opportunities to connect with prospective employers, co-founders, and collaborators
+- Drinks, music, and casual networking
+
+### Admission
+
+Free admission with advance registration approval.
+
+<a id="event-1c817aa86bda6cf1"></a>
+
+## Hot Pot After Hours
+
+- Record: `curated-hot-pot-after-hours`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-29T13:30:00.000Z
+- Description: Source-backed
+- Original page: <https://hashtagweb3.com/hotpotafter>
+
+### About the event
+
+Hot Pot After Hours is a private late-night supper gathering hosted by NeoSoul, UXUY, and VPERP on Sunday night, November 29, 2026. Taking place following the conclusion of Binance Blockchain Week, the casual feast offers a relaxing hot pot environment for friends, founders, and traders to unwind.
+
+### Features
+
+- Authentic Sichuan and Thai hot pot banquet
+- Intimate, late-night conversations celebrating the close of conference week
+- Private community gathering
+
+### Admission
+
+Attendance strictly limited to invited guests and confirmed friends of the hosts.
+
 <a id="event-53168b6537c6e394"></a>
 
 ## Web3India Coffee Meetup @ Binance Blockchain Week Bangkok 2026
@@ -2366,6 +2801,30 @@ This event is intended to facilitate networking and collaboration between invest
 
 The venue is located inside the mall. Take the escalator to the 3rd floor.
 
+<a id="event-b3f42b7f040846fb"></a>
+
+## RFC Official Launch 2026
+
+- Record: `connect-rfc-official-launch-2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-30T07:00:00.000Z
+- Description: Source-backed
+- Original page: <https://connectingthedot.xyz/events/rfc-official-launch-2026-20261118111130>
+
+### About the event
+
+RFC Official Launch 2026 is the inaugural unveiling event for the RFC Club on Monday, November 30, 2026, at The Livehouse by ATLAS in Bangkok. The afternoon gathers Web3 builders, digital community leads, and creators for the formal presentation of RFC's roadmap, governance model, and partnership ecosystem.
+
+### Event Schedule
+
+- Keynote unveiling of RFC Club mission, platform tooling, and member benefits
+- Collaborative builder showcases and partner panels
+- Evening music, live performances, and community celebration
+
+### Venue
+
+The Livehouse by ATLAS, Ratchadaphisek Soi 4, Huai Khwang, Bangkok 10310, Thailand. Free admission with registration.
+
 <a id="event-04074aeb89770a76"></a>
 
 ## The Institutional House: Where RWAs, Stablecoins & AI Meet Onchain Liquidity
@@ -2412,6 +2871,30 @@ The celebration kicks off on the evening of November 30 at 17:00 and continues t
 ### Venue & Access
 
 Hosted at Muin Bangkok Club, one of the city's premier entertainment nightlife destinations. Entry requires advance RSVP verification or VIP partner guest accreditation.
+
+<a id="event-6bc54251a7056387"></a>
+
+## Watch Fun Creators Meetup
+
+- Record: `luma-superteam-s8zl`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-30T10:30:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/superteam-s8zl>
+
+### About the event
+
+Watch Fun Creators Meetup is a dedicated creator-economy networking evening hosted by Superteam Thailand, Watchfun, and OnlyFounders on Monday, November 30, 2026. Taking place at Superteam Thailand HQ in Bangkok, the event connects Web3 video creators, streamers, artists, and growth marketers.
+
+### Evening Activities
+
+- Interactive 'Rip Gacha' unboxing and community challenges
+- Discussions on Web3 creator monetization, content distribution, and brand sponsorships
+- Networking with fellow content producers, no follower minimum required
+
+### Venue
+
+Superteam Thailand HQ, Bangkok. Admission free upon application approval.
 
 <a id="event-4771f65c123f7087"></a>
 
@@ -27806,20 +28289,6 @@ The hacker house runs in Goa from October 31 to November 4, 2026. The exact resi
 Registration and admission
 
 Participation is free with application review required. Applications are evaluated based on project proposals, GitHub contributions, and community impact. Confirmed guests receive onboarding packages and arrival instructions.
-
-<a id="event-d8f9221c78629242"></a>
-
-## India OnChain Tour #50 - Haryana Edition
-
-- Record: `luma-evt-jfJFCNApP1oVyb2`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T08:00:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/0srsltaq>
-
-### About the event
-
-Sikka.fun's community session covers creator coins, token economies, digital ownership and launching an onchain community coin. The program is aimed at students, creators and Web3 builders.
 
 <a id="event-e7ddea65e7c8cd0b"></a>
 
