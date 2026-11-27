@@ -8278,5 +8278,123 @@
     "slotKey": "2026-11-27:afternoon",
     "messageId": 16686,
     "sentAt": "2026-11-27T13:01:19.440Z"
+  },
+  "88edab76-4de7-4dcf-9f3f-b931d9304613": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T13:01:28.327Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5033640101",
+          "title": "Senior Product Manager - Reconciliation",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5033640101",
+          "date": "2026-11-18T02:27:35-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "United Kingdom",
+          "department": "Product",
+          "active": true,
+          "salary": "€75k – €100k/yr",
+          "dateVerified": true,
+          "slug": "pm322"
+        },
+        "key": "5033640101",
+        "slug": "pm322",
+        "url": "https://hashtagweb3.com/pm322?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Senior Product Manager"
+      },
+      {
+        "snapshot": {
+          "id": "1f015e8e-c684-45dc-8817-603edbf35d45",
+          "title": "APAC GTM Lead",
+          "company": "Tempo",
+          "link": "https://jobs.ashbyhq.com/tempo-xyz/1f015e8e-c684-45dc-8817-603edbf35d45",
+          "date": "2026-11-10T23:54:11.541+00:00",
+          "source": "Ashby: Tempo [tempo-xyz]",
+          "location": "Remote (Singapore)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "GTM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "gtm"
+        },
+        "key": "1f015e8e-c684-45dc-8817-603edbf35d45",
+        "slug": "gtm",
+        "url": "https://hashtagweb3.com/gtm?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Tempo",
+        "title": "APAC GTM Lead"
+      },
+      {
+        "snapshot": {
+          "id": "4752656005",
+          "title": "Pest Control Specialist",
+          "company": "Groma",
+          "link": "https://job-boards.greenhouse.io/groma/jobs/4752656005",
+          "date": "2026-11-09T10:51:18-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Groma [groma]",
+          "location": "Boston, MA",
+          "department": "Property Operations",
+          "active": true,
+          "salary": "$25 – $35/hr",
+          "dateVerified": true,
+          "slug": "pcs"
+        },
+        "key": "4752656005",
+        "slug": "pcs",
+        "url": "https://hashtagweb3.com/pcs?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Groma",
+        "title": "Pest Control Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb",
+          "title": "Staff Product Designer - AI Products",
+          "company": "Kraken",
+          "link": "https://jobs.ashbyhq.com/kraken.com/5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb",
+          "date": "2026-11-03T17:32:17.961+00:00",
+          "source": "Ashby: Kraken [kraken.com]",
+          "location": "Remote (United Kingdom)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Design",
+          "active": true,
+          "dateVerified": true,
+          "slug": "pm362"
+        },
+        "key": "5f7c8bb0-810a-4ea4-ad6a-2d7c2e2dbdcb",
+        "slug": "pm362",
+        "url": "https://hashtagweb3.com/pm362?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Kraken",
+        "title": "Staff Product Designer"
+      },
+      {
+        "snapshot": {
+          "id": "8336062",
+          "title": "Deal Strategist, APAC",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8336062",
+          "date": "2026-11-01T09:40:06-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Singapore",
+          "department": "1510 Global Business Services",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ds20"
+        },
+        "key": "8336062",
+        "slug": "ds20",
+        "url": "https://hashtagweb3.com/ds20?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Deal Strategist"
+      }
+    ],
+    "message": "- BVNK is hiring <a href=\"https://hashtagweb3.com/pm322?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Product Manager</a>\n- Tempo is hiring <a href=\"https://hashtagweb3.com/gtm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">APAC GTM Lead</a>\n- Groma is hiring <a href=\"https://hashtagweb3.com/pcs?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Pest Control Specialist</a>\n- Kraken is hiring <a href=\"https://hashtagweb3.com/pm362?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Product Designer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ds20?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Deal Strategist</a>",
+    "slotKey": "2026-11-27:afternoon"
   }
 }
