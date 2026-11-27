@@ -201515,7 +201515,8 @@
       },
       "account": "channel:base",
       "attemptId": "cdda8900-2a9a-4701-ab81-747d2c114075",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x495effdad62c32a02cde725a575e60cbd98461ff"
     }
   ]
 }
