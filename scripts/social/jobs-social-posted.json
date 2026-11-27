@@ -200252,6 +200252,34 @@
       "attemptId": "9633fa88-6af9-4abe-b5e9-1f400fe58080",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "pri",
+      "company": "Hut 8",
+      "title": "Principal, Chief of Staff",
+      "platform": "threads",
+      "postedAt": "2026-11-27T04:54:31.000Z",
+      "expectedText": "Hut 8 is hiring Principal, Chief of Staff: https://hashtagweb3.com/pri/th?og=7",
+      "snapshot": {
+        "id": "5457213008",
+        "title": "Principal, Chief of Staff",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457213008",
+        "date": "2026-11-10T09:48:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami",
+        "department": "Office of the CEO",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pri"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Chief of Staff: https://hashtagweb3.com/pri/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/pri/th?og=7"
+      },
+      "attemptId": "463fabd8-6d48-4ce0-b6ae-42fa001e5914",
+      "verification": "creating"
     }
   ]
 }
