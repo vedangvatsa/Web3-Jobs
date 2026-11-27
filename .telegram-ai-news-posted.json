@@ -98,6 +98,9 @@
   "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
   "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
   "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+  "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+  "https://www.marktechpost.com/2026/11/26/nexos-ai-ai-gateway-200-models-governance/",
+  "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -296,6 +299,12 @@
   "Maple raises $5.3M to build AI products that protect your data, even from itself",
   "Scott Aaronson says AI math breakthroughs have wide consequences",
   "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+  "Chinese AI developers seek alternative training data sources",
+  "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+  "Nexos.ai launches gateway for 200 AI models with governance",
+  "nexos.ai AI Adoption Platform puts 200+ models behind one AI Gateway, with budget limits and governance built in",
+  "Tencent Releases DFly2 to Improve Large Language Model Speed",
+  "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -394,5 +403,8 @@
   "fp:bas|best|for2026|guid|headphon|impress|left|of2026|pair|publish",
   "fp:are|artex|automat|back|cyberattack|detail|driven|execut|framework|group",
   "fp:53m|access|architectur|develop|dur|encrypt|even|itself|mapl|prevent",
-  "fp:aaronson|affect|believ|breakthrough|can|complex|consequenc|economy|fact|former"
+  "fp:aaronson|affect|believ|breakthrough|can|complex|consequenc|economy|fact|former",
+  "fp:access|acquisition|alternativ|anthropic|are|bas|block|chines|door|googl",
+  "fp:adoption|behind|budget|built|can|cap|enforc|for200|gateway|governanc",
+  "fp:attention|cach|decod|dfly2|exist|generation|improv|increas|larg|memory"
 ]

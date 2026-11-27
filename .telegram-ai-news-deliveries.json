@@ -1257,7 +1257,7 @@
     "sentAt": "2026-11-26T20:28:03.590Z"
   },
   "b56a3b4a-95b6-4b07-96db-7d34e3e34dde": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T04:56:07.246Z",
     "stories": [
       {
@@ -1287,6 +1287,8 @@
         "originalTitle": "Tencent Open-Sources DFly2: Speculative Decoding That Reuses the Target’s Sparse KV Cache"
       }
     ],
-    "slotKey": "2026-11-27:morning"
+    "slotKey": "2026-11-27:morning",
+    "messageId": 193591,
+    "sentAt": "2026-11-27T04:56:15.292Z"
   }
 }
