@@ -1327,5 +1327,42 @@
     "slotKey": "2026-11-27:afternoon",
     "messageId": 193593,
     "sentAt": "2026-11-27T13:03:32.141Z"
+  },
+  "fcf13414-ff35-49ef-ad03-8ee1583082e3": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T20:11:21.245Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "[The Decoder] OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+        "headline": "OpenAI countersues Apple over trade secret theft",
+        "summary": "The legal action alleges proprietary technology theft and supplier coercion as competition between both technology developers intensifies.",
+        "event_rationale": "Covers OpenAI filing a trade secret countersuit against Apple, distinct from previous legal cases.",
+        "link": "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+        "source": "The Decoder",
+        "originalTitle": "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers"
+      },
+      {
+        "index": 3,
+        "original_title": "[The Decoder] Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+        "headline": "Nvidia Blackwell chips discovered in Shanghai data center",
+        "summary": "An investigation revealed prohibited advanced processors operating in China, demonstrating ongoing evasion of United States trade restrictions.",
+        "event_rationale": "Covers illicit Nvidia hardware found inside China, distinct from general export rules or Southeast Asian shipment pauses.",
+        "link": "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+        "source": "The Decoder",
+        "originalTitle": "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports"
+      },
+      {
+        "index": 20,
+        "original_title": "[The Verge] 42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "headline": "Forty-two states act to block Character.AI chat data sale",
+        "summary": "State officials petitioned a bankruptcy court to prevent the conversational platform from auctioning private user message logs to buyers.",
+        "event_rationale": "Covers legal opposition to Character.AI selling user data during bankruptcy, distinct from previous state AG lawsuits against SpaceX.",
+        "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "source": "The Verge",
+        "originalTitle": "42 state AGs are trying to stop Character.AI from selling users’ chats"
+      }
+    ],
+    "slotKey": "2026-11-27:evening"
   }
 }
