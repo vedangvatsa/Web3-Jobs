@@ -198599,6 +198599,38 @@
       "attemptId": "4833a662-4ffe-43a4-9c01-673c39d37030",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 26-Nov-26 18:21:10 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AtQU5jyyAIuUlzcjvjaNC4H\"}"
+    },
+    {
+      "slug": "eng789",
+      "company": "Bitpanda",
+      "title": "Senior Engineer, Golang",
+      "platform": "bluesky",
+      "postedAt": "2026-11-27T02:20:59.119Z",
+      "expectedText": "Bitpanda is hiring Senior Engineer, Golang: https://hashtagweb3.com/eng789/bsky?og=7",
+      "snapshot": {
+        "id": "4979476101",
+        "title": "Senior Engineer, Golang",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4979476101",
+        "date": "2026-11-16T08:49:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "București, Bucharest, Romania",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng789"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior Engineer, Golang: https://hashtagweb3.com/eng789/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/eng789/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/eng789.png?v=7",
+        "company": "Bitpanda",
+        "title": "Senior Engineer, Golang",
+        "description": "Join Bitpanda as Senior Engineer, Golang. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "7677fff5-eb36-4486-a119-e7a9756fbfb5",
+      "verification": "creating"
     }
   ]
 }
