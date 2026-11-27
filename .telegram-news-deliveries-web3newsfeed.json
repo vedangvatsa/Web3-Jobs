@@ -1087,5 +1087,36 @@
     "slotKey": "2026-11-26:evening",
     "messageId": 65858,
     "sentAt": "2026-11-26T20:30:56.384Z"
+  },
+  "37e58847-1765-43ac-bf0f-c8c920bff063": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T04:55:32.917Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Braiins reports mass traffic rerouting affecting bitcoin mining sites",
+        "summary": "Attackers targeted unsecured mining connections in twenty-four incidents, affecting up to 1,600 sites per episode on November 20.",
+        "link": "https://hashtagweb3.com/hashratehijack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Braiins Says Bitcoin Mining Hijacks Hit More Than 1,000 Sites at Once"
+      },
+      {
+        "index": -1,
+        "headline": "Switzerland to Exchange Crypto Tax Data With 57 Partners",
+        "summary": "The Swiss government will begin sharing cryptocurrency tax information with 57 jurisdictions starting in 2028.",
+        "link": "https://hashtagweb3.com/swisscarf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Swiss Federal Council approves 57 partners for crypto tax data exchange from 2028"
+      },
+      {
+        "index": -1,
+        "headline": "UK Court Rules Against Two Individuals in X Fraud Case",
+        "summary": "The High Court issued a default judgment after the defendants failed to respond to claims regarding creator-payout fraud.",
+        "link": "https://hashtagweb3.com/xbotsued?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "UK Court Enters Default Judgment Against Two in X Bitcoin Account Case"
+      }
+    ],
+    "slotKey": "2026-11-27:morning"
   }
 }
