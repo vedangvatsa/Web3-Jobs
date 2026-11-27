@@ -1637,5 +1637,56 @@
     "slotKey": "2026-11-27:afternoon",
     "messageId": 156542,
     "sentAt": "2026-11-27T13:01:22.694Z"
+  },
+  "a6550adb-b6e3-4312-872c-ac9a24786479": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T20:11:18.537Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-pNPUYSXtXzsRHT9",
+        "slug": "genevaetf",
+        "name": "Geneva Investor Briefing - Why Choose an ETF for Institutional Bitcoin Exposure?",
+        "startDate": "2026-12-03T08:00:00.000Z",
+        "keys": [
+          "luma-crypto-pnpuysxtxzsrht9",
+          "geneva-inv",
+          "page:genevaetf:2026-12-03",
+          "luma:evt-pnpuysxtxzsrht9",
+          "luma-url:/3rabq1xm",
+          "event:genevainvestorbriefingwhychooseanetfforinstitutionalbitcoinexposure:2026-12-03:geneva"
+        ]
+      },
+      {
+        "id": "luma-crypto-x2YUENTlvkUt4TX",
+        "slug": "headsuphack",
+        "name": "Heads Up Hackathon: Demo Day & Awards",
+        "startDate": "2026-12-03T10:00:00.000Z",
+        "keys": [
+          "luma-crypto-x2yuentlvkut4tx",
+          "heads-up-h",
+          "page:headsuphack:2026-12-03",
+          "luma:evt-x2yuentlvkut4tx",
+          "luma-url:/inbw26dh",
+          "event:headsuphackathondemodayawards:2026-12-03:dubai"
+        ]
+      },
+      {
+        "id": "luma-crypto-F2Xabi0c6pHFKZV",
+        "slug": "bmbdjpbdg",
+        "name": "Bitcoin meetup #30: Bitcoinové dědictví: jak předat bitcoiny další generaci",
+        "startDate": "2026-12-03T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-f2xabi0c6phfkzv",
+          "bitcoin-me-prague",
+          "page:bmbdjpbdg:2026-12-03",
+          "luma:evt-f2xabi0c6phfkzv",
+          "luma-url:/ji03ut7a",
+          "event:bitcoinmeetup30bitcoinovédědictvíjakpředatbitcoinydalšígeneraci:2026-12-03:prague"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-27:evening"
   }
 }
