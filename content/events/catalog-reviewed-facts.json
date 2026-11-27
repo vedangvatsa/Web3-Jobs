@@ -70,43 +70,6 @@
       "method": "luma-page"
     }
   },
-  "luma-crypto-Q9pqBMhbxoTeN4u": {
-    "name": "Solana Indoor Skydiving",
-    "startDate": "2026-10-28T09:30:00.000Z",
-    "endDate": "2026-10-28T12:00:00.000Z",
-    "timezone": "Asia/Dubai",
-    "registrationUrl": "https://luma.com/solanaskydiving",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "country": "United Arab Emirates",
-    "location": "United Arab Emirates",
-    "hosts": [
-      "Superteam Middle East"
-    ],
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Middle East",
-      "url": "https://uae.superteam.fun/"
-    },
-    "price": "Free",
-    "approvalRequired": true,
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/solanaskydiving",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/solanaskydiving",
-      "eventId": "evt-Q9pqBMhbxoTeN4u",
-      "fetchedAt": "2026-10-12T11:25:15.646Z",
-      "method": "luma-page"
-    }
-  },
   "luma-batch-evtMJacaICJiBqTU": {
     "name": "BCNL x VBNL x PwC - CARF & DAC8 Roundtable",
     "startDate": "2026-10-28T14:30:00.000Z",

@@ -25,6 +25,36 @@ registration route. The main tour page describes the series as a whole rather th
 
 Date: Sep 26 - Nov 22, 2026, 04:30 Venue: India Event page:
 
+<a id="event-56090bce09138d03"></a>
+
+## AI in iGaming Summit 2026
+
+- Record: `coinpedia-ai-igaming-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-10-03T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.eventus-international.com/ai-in-igaming>
+
+### About the event
+
+Step into the future of smarter gaming at The AI in iGaming Summit 2026 from 3-4 December 2026 in Vienna, Austria. Bring together gaming operators, regulators, compliance leaders, technology experts, and AI innovators for two days of practical insights and connections. This conference explores how iGaming companies can turn AI innovation into responsible and sustainable growth as it affects player experiences, fraud detection, automation, risk management, and business intelligence.
+
+Organised By Eventus International is a worldwide event organizer and expo company that is renowned for bringing together professionals in the field through innovative summits that include market development, best practices, insightful information, and excellent networking. Event Highlights Explore how AI is moving into large-scale commercial and iGaming. Examine AI-powered fraud detection, risk management, automation, personalisation, and player engagement. Understand the impact of the EU AI Act, governance requirements, accountability, and responsible AI adoption. Discover practical strategies for scaling AI. Why Attend? Learn useful tips from regional and global iGaming and AI experts.
+
+Find new opportunities in analytics, compliance, fraud protection, and AI automation. Make connections with technology companies, AI inventors, regulators, compliance leaders, and gaming operators. Build beneficial connections and find technology that can provide you with an advantage in the future.  Agenda Preview Day 1 -
+
+3 December 2026
+
+- 10:00 - Registration & Refreshments
+- 10:30-16:00 - Conference & Expo
+- 16:30-21:00 - The "Coolest" iGaming Welcoming Evening Day 2 -
+
+4 December 2026
+
+- 10:00 - Registration & Refreshments
+- 10:30-17:00 - Conference & Expo
+- 16:30-18:00 - Farewell Drinks Don't miss the AI in iGaming Summit 2026 offers an exciting opportunity to interact, learn, and shape the future of AI-powered iGaming, from responsible innovation to intelligent automation.
+
 <a id="event-53bf92ec5c54fb9d"></a>
 
 ## Edge City India 2026
@@ -1446,6 +1476,28 @@ Moon Voyage is an exclusive private yacht cruise along the Chao Phraya River in 
 
 Attendance is strictly by invitation only, limited to 30 executive participants. Inquiries and partner participation are coordinated directly through the Phill Club Collective curation team.
 
+<a id="event-8abbafc129ceb75a"></a>
+
+## Gitex AI Vietnam 2026
+
+- Record: `coinpedia-gitex-ai-vietnam`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-26T17:42:00.000Z
+- Description: Source-backed
+- Original page: <https://gitexvietnam.com/>
+
+### About the event
+
+Join the Gitex AI Vietnam 2026, held from 26th to 27th November 2026, in Vietnam. Is a first-rate worldwide technology exhibition and convention with a view to taking place in Hanoi, Vietnam, bringing together worldwide generation corporations, startups, investors, policymakers, and innovators. As part of the globally diagnosed GITEX event series, the event focuses on advancing digital transformation and strengthening Southeast Asia's tech atmosphere. It hosts exhibitions, keynote classes, and networking opportunities showcasing rising technologies which include artificial intelligence, cybersecurity, cloud computing, fintech, semiconductors, records infrastructure, and Industry 4.
+
+0. Organized by way of KAOUN International and the Dubai World Trade Centre in partnership with the Vietnam National Innovation Center, the occasion aims to showcase innovation, foster collaboration, and support Vietnam's rapidly growing digital economy and startup landscape. Organized By Kaoun International is known as an international event organizer that operates from the Dubai World Trade Centre. It is focused on providing great connections all across the global industries and financial markets. Its mission is to build limitless networks in the space where they tend to serve.
+
+Event Highlights Connect 20000+ tech executives More than 75 countries are participating More than 850 enterprises and startups Gain insights from 200+ global speakers 150+ active investors and VCs Key Points Focus on Vietnam's Digital Future - GITEX Vietnam aims to drive technological transformation in the country. Supports National Digital Goals - Contributes to progress in digital infrastructure, economy, government, data development, digital skills, and cybersecurity. Platform for Innovation - Showcases emerging technologies and solutions. Key Technology Areas - Includes AI, cybersecurity, data centers, cloud computing, quantum technology, fintech, and more.
+
+Impact-Driven Event - Designed to encourage innovation, youth participation, and economic growth. Tech Sectors AI, Big Data, and Quantum: AI boom rising with help from the foremost tech companies. Edutech: Gradually increasing via schooling and studies projects. Cloud & Connectivity: Fast-developing cloud market driven by way of 5G and virtual financial system. IoT & Industry four.0: Smart factories, automation, and robotics are boosting the commercial boom. Digital Infrastructure: 5G enlargement and records facilities strengthening virtual competencies. Agritech: Smart farming and AI enhancing agricultural productivity. Cybersecurity: A growing call for more potent rules and safety gear.
+
+Semiconductor: Emerging hub for chip layout and production. Green and Climate Tech: Rising innovation in renewables and internet-0 technology. Fintech and Web3: One of the most lively crypto markets. Digital Health: Rapid healthcare digitization with telemedicine and AI answers. GITEX AI Vietnam 2026 brings together global innovators, investors, and tech leaders to accelerate digital transformation and support the growth of Vietnam's tech ecosystem.
+
 <a id="event-68e6276c41039ddc"></a>
 
 ## FINNEX Digital Assets & Technology Summit 2026
@@ -1698,6 +1750,117 @@ BNB Chain Demo Night is the grand closing celebration of the BNB Hack: Bangkok, 
 
 Park Hyatt Bangkok, Central Embassy, 88 Wireless Road, Lumphini, Pathum Wan, Bangkok 10330.
 
+<a id="event-317b1175f9ea81a4"></a>
+
+## FMA Fintech Day 2026
+
+- Record: `coinpedia-fma-fintech-day`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://www.eventbrite.at/e/fma-fintech-day-2026-tickets-2002991846532>
+
+### About the event
+
+Get ready to explore the future of financial innovation at FMA Fintech Day 2026, scheduled for
+
+November 27, 2026, in Vienna, Austria. This fintech event will bring together financial experts, technology innovators, policymakers, and regulatory professionals to discuss the European financial industry. From artificial intelligence and post-quantum encryption to stablecoins and cryptocurrency regulations, the conference will explore how new technologies are influencing the future of financial services. Organised By Fintech Austria, an organisation that supports Austria's fintech industry, aims to foster partnership and expansion in the digital finance sector by bringing together financial technology firms, industry experts, and innovators.
+
+As part of FinTechWeek Vienna, the Austrian Financial Market Authority (FMA) and the Oesterreichische Nationalbank (OeNB) are hosting the event in collaboration with Fintech Austria, Bankenverband, and Wirtschaftsagentur Wien. Event Highlights Future of MiCAR Stablecoin Development Post-Quantum Encryption Event Language: English AI in Financial Markets Expert Discussions Why Attend FMA Fintech Day 2026? Learn about upcoming European crypto regulations and market developments. Understand the growing role of stablecoins in digital finance. Explore innovative solutions for cybersecurity and post-quantum encryption.
+
+Connect with fintech founders, financial institutions, regulators, and technology experts. Gain valuable industry knowledge through keynote presentations and interactive panel discussions.  Agenda Highlights
+
+- 08:30 -
+- 09:00: Admission and Registration
+- 09:00 -
+- 09:15: Welcome Address
+- 09:15 -
+- 09:25: Keynote - MiCAR's Next Chapter: Building a Competitive and Integrated European Crypto Market
+- 09:25 -
+- 10:15: Panel Discussion - MiCAR at a Crossroads: Regulation, Supervision and the Future of Stablecoins
+- 10:15 -
+- 11:00: Networking Corners on Selected Topics
+- 11:00 -
+- 11:10: Keynote - Post-Quantum Encryption
+- 11:10 -
+- 12:00: Panel Discussion - Between Innovation and Stability: AI and Post-Quantum Challenges for Financial Markets
+- 12:00 -
+- 13:30: Closing and Networking Pre-registration does not guarantee admission. Do not miss the FMA Fintech Day 2026 to learn about the future of stablecoins, artificial intelligence, European crypto regulation, fintech innovation, and the future of digital finance.
+
+<a id="event-c945d82a9ad68c99"></a>
+
+## AI Revolution Summit Philippines 2026
+
+- Record: `coinpedia-ai-revolution-summit-philippines`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.airevolutionsummit.com/philippines/>
+
+### About the event
+
+Get ready to explore the future of technological innovation at the AI Revolution Summit Philippines 2026, on 27th November 2026 at Century Park Hotel, Manila, Philippines. This premier artificial intelligence summit will bring together technology innovators, business leaders, policymakers, and industry experts to discuss how AI is transforming businesses and shaping the digital future. With 200+ attendees, 100+ leading organizations, and 25+ solution providers, the summit will offer valuable insights into generative AI, business automation, digital transformation, and emerging AI solutions.
+
+Join industry leaders and technology experts to discover how AI can create new possibilities for businesses and society. Organised By TraiCon India is a top supplier of international training programs, B2B events, and management consulting services, helping companies in a variety of industries to discover new opportunities and creating beneficial commercial relationships. Event Highlights Business Networking Expert Discussions Technology Showcase Industry Connections Business Opportunities Why Attend AI Revolution Summit Philippines?
+
+Discover New Business Opportunities Gain practical knowledge from experienced AI professionals and technology decision-makers Understand how generative AI, predictive analytics, automation, and cloud infrastructure are changing industries Meet enterprise buyers, government representatives, technology providers, and investors Discover innovative AI strategies that can improve business performance and support digital growth Event Themes The summit will cover several important areas of artificial intelligence, including: AI in Government, Smart Governance, and Digital Public Services Generative AI, Predictive Analytics, and Enterprise AI Solutions AI in Banking, Finance, Fintech, and RegTech AI Ethics, Cybersecurity, Responsible Innovation, and Data Governance AI in Healthcare, Education, Smart Cities, Sustainability, and Future Workforce Development Featured Speakers The summit will welcome experienced professionals sharing their knowledge and industry perspectives.
+
+Joseph Anthony Mendoza Cruz - Digital Platforms Head - Vice President, Security Bank Corporation Mel Valerio - VP and Head of Data and AI Governance, Maya Philippines, Inc Jania Fortes Ma&ntilde;alac - SVP2, Data Science & Analytics Head, UnionBank of the Philippines Leonardo Sacamos Jr. - Chief Information Officer, FAST Logistics Group Devendra Pratap Singh - Chief Information Officer, AG&P Attend the AI Revolution Summit Philippines 2026, a top AI event in the Philippines, to learn more about the future of digital transformation, enterprise innovation, and artificial intelligence.
+
+<a id="event-880dd8bdecdd06c8"></a>
+
+## Dakar Bitcoin Days IV
+
+- Record: `coinpedia-dakar-bitcoin-days-iv`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://dakarbitcoindays.com/>
+
+### About the event
+
+Get ready to attend the Dakar Bitcoin Days IV, from November 27-28, 2026, in Dakar, Senegal. This exciting Bitcoin conference brings together developers, entrepreneurs, policymakers, investors, and Bitcoin enthusiasts for two days of practical learning and meaningful discussions. With encouraging attendees to register using Sats or CFA, the event makes Bitcoin a practical tool rather than only a concept. Organized By Dakar Bitcoin Days is an annual community-driven event that has been bringing together Bitcoin enthusiasts, developers, and companies around Africa since 2022. Event Highlights 1,000+ participants 350+ attendees per edition and hundreds joining via YouTube.
+
+40+ Senegalese and international speakers 10+ countries 3 language sessions in French, English, and Wolof Why Attend Dakar Bitcoin Days IV? Learn how Bitcoin wallets and transactions work through hands-on experiences. Network with developers, startups, regulators, and industry leaders. Discover Bitcoin's growing role in Africa's digital economy. Explore practical solutions for cross-border payments and financial inclusion. Key Themes Day 1: Institutional Approach to Crypto-Assets Regulatory frameworks and public policy discussions. CBDCs and government perspectives on digital assets. Bitcoin's role in economic and geopolitical strategies.
+
+Day 2: Decentralized Cross-Border Payments Bitcoin's impact on AfCFTA trade opportunities. Lower-cost and faster international transactions. Balancing innovation, compliance, and trust. Featured Speakers Abdoulaye Cisse - Executive Director, CGF Bourse. Charlene Fadirepo - Founder & CEO, Mango Digital Strategies. Mouhamadou Kouta - Senior Project Manager & Entrepreneur. Colonel Aly Mime - Director General of Cryptography and Information Systems Security. Dr. Abdoulaye Ndiaye - Economist and Professor at NYU. Don't miss Dakar Bitcoin Days IV, where innovation, education, and collaboration meet at one of Africa's most exciting Bitcoin conferences.
+
+<a id="event-948fc4e40fb23b59"></a>
+
+## Dev3pack Global Hackathon
+
+- Record: `coinpedia-dev3pack-global-hackathon`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://hack.dev3pack.xyz/>
+
+### About the event
+
+Explore the future of Web3! The Dev3pack Global Hackathon, scheduled from 27-29 November 2026, is a three-day hybrid event. where students from universities all over the world may create innovative blockchain applications on Solana at local build stations or online. It provides an exciting chance to transform original concepts into practical solutions. Organised By The Solana Foundation supports the growth of the Solana blockchain industry by empowering developers, encouraging innovation, and helping builders create fast, scalable, and accessible blockchain applications.
+
+Event Highlights Students from 89 countries Network spanning 1,700+ universities Three Days of Building Solana Rust Bootcamp free English and Spanish sessions Local Build Stations Bridge Accelerator Benefits of the Dev3pack Global Hackathon Learn New Skills: Gain practical experience in blockchain development, Rust programming, and Web3 technologies. Build Real Projects: Turn your ideas into working products with hands-on development. Expand Your Network: Meet student developers, mentors, and industry professionals from around the world. Gain Global Exposure: Showcase your creativity and technical skills in an international university hackathon.
+
+Explore Startup Opportunities: Take promising ideas further through the Bridge Accelerator opportunity. Don't miss the Dev3pack Global Hackathon 2026 to build, learn, and connect with the future of blockchain innovators.
+
+<a id="event-814f6621c05b93f1"></a>
+
+## AIBT2026
+
+- Record: `coinpedia-aibt2026`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.aibt.net/>
+
+### About the event
+
+Attend the AIBT2026 International Conference on Artificial Intelligence and Blockchain Technology from November 27-29, 2026, in Shanghai, China. This international AI and Blockchain conference brings together researchers, professors, industry experts, and technology innovators to explore how AI and Blockchain to change the future of digital systems.
+
+The event offers an exciting platform for education, collaboration, and international networking. Organized By AIBT2026 is co-sponsored by East China Normal University and Southwest Jiaotong University, two renowned academic institutions committed to advancing research and innovation in AI and Blockchain technologies. Why Attend AIBT2026? To connect with researchers, professors, and technology leaders. Discover practical applications of AI and Blockchain across finance, healthcare, smart cities, and supply chains. Learn about new Large Language Models, Trusted AI, and Cross-chain technologies. Build valuable academic and research collaborations for future projects.
+
+Key Topics AI Foundations Blockchain Systems AI for Blockchain Blockchain for AI Emerging Applications Systems & Experiments Invited Speakers Prof. Athakorn Kengpol - King Mongkut's University of Technology North Bangkok, Thailand Prof. Jinping Liu - Hunan Normal University, China Prof. Mohd Nazri Bin Ismail - National Defence University of Malaysia, Malaysia Assoc. Prof. Weiwei Jiang - Beijing University of Posts and Telecommunications, China Don't miss these AI and Blockchain conferences where research, innovation, and international cooperation gather to shape the intelligent world.
+
 <a id="event-ab7884da00ed01bb"></a>
 
 ## Open Interest by RISEx
@@ -1908,6 +2071,85 @@ Hosted at a private seafood dining venue in Bangkok from 20:00 to 22:00 ICT.
 
 Strictly limited seating. Complimentary admission reserved exclusively for confirmed traders, protocol partners, and invited guests.
 
+<a id="event-5b1ec5a6198a8fab"></a>
+
+## Australian Digital Economy Awards 2026
+
+- Record: `coinpedia-australian-digital-economy-awards`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.digis.com.au/>
+
+### About the event
+
+Celebrate with Australia's leading technology professionals at the Australian Digital Economy Awards 2026 (The DIGIs), from November 27, 2026, at Doltone House, 181 Elizabeth Street, Sydney, Australia. This awards ceremony will bring together entrepreneurs, business leaders, innovators, investors and technology professionals who are shaping the future of Australia's digital economy. The DIGIs will honor the individuals and institutions using technology to bring about significant change, from blockchain and digital assets to artificial intelligence, fintech, and digital infrastructure.
+
+Organised By The Digital Economy Council of Australia (DECA) is the national voice for Australian businesses and innovators working across blockchain, Web3, distributed ledger technology and digital assets. Award Highlights Recognising Industry Excellence: Celebrate outstanding individuals, businesses and projects contributing to Australia's digital economy. Leadership and Innovation: Honour leaders introducing new ideas and transforming the technology and financial sectors. Digital Economy Achievements: Recognise progress in blockchain, Web3, digital finance, AI and digital infrastructure.
+
+Independent Judging: Nominations are reviewed by an independent panel of experienced industry experts and leaders. Awards Ceremony and Afterparty: Enjoy an exciting evening of recognition, celebration and networking with industry professionals. Reasons to Attend Australian Digital Economy Awards 2026 Celebrate Success: Be part of an event recognising the achievements of Australia's digital economy leaders. Build Valuable Connections: Meet entrepreneurs, investors, executives and technology professionals. Discover Industry Innovation: Explore the latest developments in digital assets, fintech, blockchain and emerging technologies.
+
+Gain Industry Recognition: Celebrate the achievements of businesses and individuals making a meaningful impact. Enjoy Networking Opportunities: Connect with influential people during the awards ceremony and after-party. ABOUT THE DIGIs The DIGIs are Australia's leading digital economy awards, presented by the Digital Economy Council of Australia. Running for more than a decade and previously known as The Blockies, these awards recognise individuals, organisations and projects advancing Australia's digital future.
+
+Blockchain, digital assets, digital finance, artificial intelligence, payments, cybersecurity, data, identification, and digital infrastructure are just a few of the many areas that are covered by the awards. Recognizing innovation, promoting responsible growth, and honouring those contributing to a more robust digital economy are their goals. AWARD CATEGORIES The DIGIs recognise excellence across two main award groups: Business: Celebrating companies, organisations and projects delivering innovation, growth and positive industry impact. Individual: Honouring outstanding professionals, entrepreneurs and leaders making valuable contributions to the digital economy.
+
+Celebrate the people shaping tomorrow's technology and financial landscape at The DIGIs 2026. Be part of this exciting gathering and discover why the Australian Digital Economy Awards are an important highlight on Australia's blockchain, fintech and Web3 events calendar.
+
+<a id="event-236ba7bce4139634"></a>
+
+## Hack Days Georgia 2026
+
+- Record: `coinpedia-hack-days-georgia`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/dgf-8sz3>
+
+### About the event
+
+Join Hack Days Georgia 2026, from November 27-29, 2026, in Tbilisi, Georgia. This exciting three-day hackathon will bring together developers, designers, students, entrepreneurs, founders, and technology enthusiasts to build creative solutions, test new ideas, and develop working prototypes. Participants will have the opportunity to turn their ideas into practical technological solutions with eight exciting challenge categories, professional coaching, teamwork, and a USD 10,000 prize fund.
+
+Organised By DGFI is a leading platform that connects financial institutions, regulators, technological innovators, and business leaders to shape the future of digital banking throughout the Caucasus and Central Asia. Event Highlights USD 10,000 Prize Pool: Compete for exciting cash prizes Eight Challenge Categories Expert Mentorship Live Project Demonstrations Why Attend Hack Days Georgia 2026? Turn your creative ideas into practical technology solutions. Connect with talented developers, designers, founders, and entrepreneurs. Receive valuable feedback and technical guidance from experienced mentors. Explore emerging technologies, including AI, blockchain, Web3, and robotics.
+
+Gain industry exposure, showcase your skills, and compete for exciting prizes.  Main Topics and Challenges Web3 / Fintech: Develop solutions around digital payments, stablecoins, trading, and blockchain applications Agentic Consumer: Create AI-powered applications that complete everyday tasks independently Agentic Infrastructure: Build tools and infrastructure that support AI agents and developers Gaming: Develop engaging games featuring AI-powered mechanics and interactive experiences Content and Social Media: Create tools for content production, digital engagement, and creator monetisation Simulation: Explore digital twins, world models, and AI-powered simulations Deep Tech: Work on innovative technologies involving robotics, hardware, energy, biology, space, and quantum computing Cybersecurity: Develop solutions for fraud prevention, AI security, digital threats, and online protection Agenda Highlights Friday, November 27 - Kickoff & Build
+
+- 17:00 - Registration and check-in
+- 17:45 - Welcome and tribute to Niko Kvaratskhelia
+- 18:00 - Official hackathon kickoff and challenge briefing
+- 18:10-18:35 - Mentor session: From Idea to Execution
+- 18:35-20:00 - Networking, team matching, and team registration Saturday, November 28 - Build, Create & Innovate
+- 10:00-12:00 - Building and technical mentoring
+- 12:00-14:00 - Project development and collaboration
+- 14:00-15:00 - Product and industry mentor sessions
+- 15:00 - Progress checkpoint and feedback Rest of the day - Continued project development Sunday, November 29 - The Big Finale
+- 10:00-12:00 - Final building and mentor support
+- 15:00 - Project submission deadline and jury review
+- 15:00-17:00 - Pitch preparation and rehearsals
+- 17:00 - Final pitches, live demos, and jury Q&A
+- 20:00 - Awards ceremony and closing Bring your creativity, technical skills, and ideas to Tbilisi to join Hack Days Georgia 2026 and become part of an exciting technology and innovation hackathon.
+
+<a id="event-1b973af124216ad2"></a>
+
+## The Blockies 2026
+
+- Record: `coinpedia-blockies`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-27T21:36:00.000Z
+- Description: Source-backed
+- Original page: <https://www.blockies.com.au/>
+
+### About the event
+
+Participate in The Blockies 2026, Australia's premier awards event celebrating excellence, innovation, and leadership in the blockchain, held on 27th November 2026, in Sydney.
+
+The event brings blockchain founders, fintech innovators, investors, enterprise executives, and policymakers to recognize awesome achievements in regions that include AI, blockchain, digital finance, and network effects. Alongside the formal awards ceremony, The Blockies offers networking opportunities, keynote shows, and a distinctive afterparty, imparting attendees with a platform to build expert connections and explore collaboration opportunities.
+
+Hosted by the Digital Economy Council of Australia, the event highlights real accomplishments, fosters industry growth, and strengthens the visibility of pioneering projects and leaders within Australia's digital financial system. Organized By The Digital Economy Council of Australia (DECA) serves as the national voice for Australian businesses and innovators who use blockchain and distributed ledger technologies. Event Highlight Australia's premier blockchain and digital asset industry awards ceremony. Honors excellence, innovation, leadership, and community impact in blockchain, DLT, and virtual belongings.
+
+Includes a proper awards ceremony plus a one-of-a-kind after-birthday celebration with networking, song, and amusement. Features numerous award classes judged by industry specialists. Why Attend Celebrate top contributors and breakthrough projects in blockchain and Web3. Meet and network with industry leaders, innovators, and professionals. Gain visibility and insights into cutting-edge developments in the digital economy. Benefits Recognition of achievements and leadership in blockchain tech. Opportunity to connect with peers, potential partners, and key stakeholders. Enjoy the industry celebration in a relaxed social setting post-awards. Who Should Attend?
+
+Blockchain and Web3 founders Fintech and AI innovators Investors and venture capitalists Enterprise executives Policymakers and regulators Developers and solution providers Media and industry analysts Nomination and Judging Process Open nominations for eligible individuals and organizations Self-nominations and third-party nominations accepted Submissions reviewed by an expert jury panel Evaluation based on innovation, impact, scalability, and leadership Final winners announced during the awards ceremony The Blockies 2026 is the ultimate celebration of blockchain innovation, leadership, and community impact in Australia.
+
 <a id="event-cdbb3c69d39a97c0"></a>
 
 ## Coinfest Asia: Tuk Fast, Tuk Curious
@@ -2099,6 +2341,26 @@ Bitkub Capital Group Holdings is a Thailand-based technology group building digi
 Learn more
 
 About the organiser: ShardLab is the innovation arm of Hashed, a leading global Web3 venture capital firm based in Asia.
+
+<a id="event-4229390203cdb626"></a>
+
+## MyMoney Expo 2026
+
+- Record: `coinpedia-mymoney-expo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-28T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://mymoneyexpo.com/>
+
+### About the event
+
+Have a great chance to attend the MyMoney Expo 2026, from 28-29 November 2026 at ICC Sydney, Australia. This two-day event will gather investors, finance professionals, property experts, business owners, and leading financial brands to explore the future of money and wealth creation. The expo provides an excellent chance to find new investment ideas and make better investments with its expert workshops, useful insights, and helpful networking opportunities. Organised By Web3 Australia Group is an Australian event organiser that builds industry-focused conferences and gatherings across digital assets, investing, blockchain, and emerging technologies.
+
+Event Highlights 40+ Speakers across finance, investing, property, and wealth management 50+ Sessions and practical investment strategies 300+ Companies, leading brands across fintech, trading, property, and wealth 30+ Exhibitors and innovative solutions. Multiple Finance Sectors and financial planning under one roof. Why Attend MyMoney Expo 2026? Learn from Experts: Gain practical knowledge from industry professionals and experienced investors. Discover Investment Opportunities: Explore new products, platforms, and financial services. Build Valuable Connections: Meet investors, founders, financial advisers, and business leaders.
+
+Improve Financial Confidence: Understand different investment options and money management strategies. Plan for the Future: Discover approaches to wealth creation, retirement planning, and long-term financial growth. What You'll Learn Understand share markets, market movements, and investment portfolios. Explore retirement planning and long-term financial security. Learn about property opportunities, financing, and investment strategies. Learn foreign exchange markets and commodity investing. Investment Management and risk management. Explore financial planning, goals, and making informed money decisions.
+
+Featured Speakers Thomas Atkinson - Founder: Shares perspectives on investing and trading. Bliss Grayson - Lead Agent: Brings insights into the real estate sector. Jack Henderson - Founder: Offers perspectives on property and real estate opportunities. Steve Hui - CEO & Co-Founder: Shares knowledge and insights on money management through Money Hacks. David Bird - Founder: Brings experience in investing and trading. MyMoney Expo 2026 is a must-attend Australian finance and investment event where you can learn new financial insights, network with industry leaders, and discover smarter ways to increase your wealth.
 
 <a id="event-c1053a9caacfabc8"></a>
 
@@ -2518,6 +2780,26 @@ Padel, live DJ sets and brand activations with Superteam Thailand and Pudgy Peng
 ### Team1 × Pudgy Padel Night
 
 Invite-only creator night with Pudgy Penguins, supported by Bitkub.
+
+<a id="event-6de369207b26937e"></a>
+
+## International Business Magazine 2026
+
+- Record: `coinpedia-international-business-magazine`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-11-29T10:46:00.000Z
+- Description: Source-backed
+- Original page: <https://intlbm.com/events-2026/>
+
+### About the event
+
+Join the International Business Magazine 2026, held on 29th November 2026, in Dubai, UAE. These event convey collectively C-diploma executives, marketers, traders, and innovators collectively from over 30+ nations, creating a platform for popularity, networking, and employer collaboration. Along with award ceremonies, attendees can attend gala dinners, media publicity, and possibilities to establish partnerships, making it a immoderate-profile surroundings for showcasing achievements and connecting with international decision-makers. Organized By International Business Magazine is a UAE-based global business media company headquartered in Dubai.
+
+Founded in 2018, it delivers online coverage of global business, finance, and emerging markets across the Middle East, Africa, Asia, Europe, and the Americas. Event Highlights More than 100 award categories. Connect with 20+ Industry sectors. Take part in 4 hours of Networking and Entertainment. More than 70 companies. Engage with 30+ Nations. More than 200 high-profile business personalities. What To Expect Nominations are open worldwide for the Annual Awards Ceremony. Participants from the Middle East, Africa, Europe, Asia, and the Americas The 2026 version is expected to surpass the 2025 event.
+
+Over two hundred global enterprise leaders are anticipated to attend Attendees consist of policymakers, enterprise leaders, and C-suite executives. Focus on global recognition, networking, and industry excellence. Event Schedule Registration Networking sessions Welcome note Keynote speech 01 Award round 01 Performance 01 Keynote speech 02 Award round 02 Performance 02 Keynote speech 03 Award final round Guests' honour, group photo sessions How To Get Recognition Submit your organisation or business leader for an award. Category suggestions are allowed. Nominations are reviewed by an independent, neutral jury panel. Awards recognize outstanding achievement, service, or contribution.
+
+Covers more than one industry sector. Focus on excessive performance, innovation, and effective impact. The International Business Magazine 2026 event offers a prestigious global platform to advance reputation, build powerful connections, and exhibit excellence amongst top commercial enterprise leaders.
 
 <a id="event-10aa428cd19d2274"></a>
 
@@ -2965,6 +3247,86 @@ Superteam Thailand HQ, Bangkok, Thailand. The hub provides a dedicated creative 
 
 Free admission with host registration approval. Targeted at active creators, community storytellers, and streaming hosts.
 
+<a id="event-ab1f5e12b3aa93e5"></a>
+
+## CLO Summit 2026
+
+- Record: `coinpedia-clo-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-01T08:49:00.000Z
+- Description: Source-backed
+- Original page: <https://opalgroup.net/finance/clo-summit-2026/>
+
+### About the event
+
+Join the CLO Summit 2026 is a flagship finance industry conference, held from 1st to 3rd December 2026, in California, USA. It's an in-depth educational forum centered on the Collateralized Loan Obligation (CLO) marketplace, bringing together buyers, issuers, underwriters, score businesses, criminal and accounting specialists to trade insights on cutting-edge trends, regulatory traits, rating methodologies, felony and tax issues, and structural concerns shaping this dynamic segment of asset-sponsored finance.
+
+The summit blends expert-led discussions with possibilities for dialogue amongst contributors, imparting practical strategies for maximizing returns and managing hazard whilst staying ahead in a competitive market - making it one of the "must-attend" CLO events of 2026 for industry stakeholders. Organized By Opal Group is a global conference organizer that hosts large meetings and conferences, bringing together people from different countries. The meetups help business leaders, experts, and decision makers share ideas, make connections, and learn new things.
+
+Event Highlights Focused forum on the global CLO (Collateralized Loan Obligation) market Insights on regulation, risk management, and ratings updates Strategies to maximize returns in structured credit Market outlook for U.S. and European CLOs Expert panels, roundtables, and high-level networking opportunities Why Attend Gain up-to-date insights on navigating the evolving CLO market. Understand key drivers affecting returns and hazard exposure. Connect with investors, issuers, underwriters, rating groups, and criminal and accounting professionals. Participate in open discussions addressing real-world demanding situations.
+
+Benefits of Attending Practical tools and strategies to stay ahead in Asset-Backed Finance. Better potential to maximise returns and decrease risk publicity. Networking with enterprise leaders and ability partners. Deeper information on felony, tax, and structural considerations shaping the CLO panorama. The CLO Summit 2026 brings finance professionals together for insights, networking, and success in the global CLO market.
+
+<a id="event-bcad7439a04e6723"></a>
+
+## DealMakers Club F Matching
+
+- Record: `coinpedia-dealmakers-club-f-matching`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-01T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://fintech24h.com/dealmakers/ss3/>
+
+### About the event
+
+Unlock new opportunities and build valuable partnerships at DealMakers' Club: F-Matching, running from 1 December 2026 to 30 March 2027, entirely online. This business networking forum, which aims for entrepreneurs, investors, exchanges, and Web3 experts, establishes a safe environment where the proper individuals can find one another, investigate opportunities, and form strategic partnerships. The platform makes business networking more specific, efficient, and goal-oriented with verified members, regulated introductions, and official deal flow.
+
+Organized By FINTECH24h Blockchain Marketing Agency & More helps projects find the proper partners and investigate new market prospects by offering marketing, business development, and growth solutions for blockchain and Web3 firms. Event Highlights Curated Business Network across the Web3 and fintech industries Verified Decision-Makers Moderated introductions after receiving consent from both parties. Clear Business Opportunities, helping others understand their business needs. Featured DealMaker Package Why Attend DealMakers' Club: F-Matching?
+
+Build Strategic Partnerships and collaborators who match your goals Explore Investment Opportunities and discover promising fundraising opportunities Save Time on Networking and focus on meaningful business conversations Expand Global Connections across Vietnam, Southeast Asia, and international markets Create Real Business Value and long-term partnerships Don't miss this virtual DealMakers' Club: F-Matching, where trusted connections, qualified deal flow, and strategic Web3 networking bring business opportunities closer.
+
+<a id="event-b3fb72688f9b50b4"></a>
+
+## FINTECH Poland Expo 2026
+
+- Record: `coinpedia-fintech-poland-expo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-01T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://fintechexpopoland.com/en/>
+
+### About the event
+
+Get ready to explore the Future of Digital Finance and Financial Technology at FINTECH Poland Expo 2026, from 1-3 December 2026 at Ptak Warsaw Expo, Hall E, Warsaw, Poland. Financial professionals, technology suppliers, banking specialists, fintech firms, and company executives will all be present at this exciting trade show to learn about the most recent advancements in digital finance.
+
+The event will highlight innovations that are revolutionizing the contemporary financial sector, ranging from mobile payments and electronic banking to artificial intelligence, financial cybersecurity, and fraud prevention. Organised By Ptak Warsaw Expo is a leading exhibition and trade fair organiser that connects businesses, industry professionals and innovators through international business events and networking opportunities.
+
+Event Highlights Discover the newest developments in digital banking, mobile payments, and electronic financial services Learn how AI is enhancing corporate operations, consumer experiences, and financial services Discover how to safeguard financial data, avoid fraud, and use contemporary security solutions Take advantage of 15,000 square meters of exhibition space to interact with 90 exhibitors presenting cutting-edge goods and services Attend professional talks on digital finance, payment methods, banking breakthroughs, and the direction of financial technology at the Financial Technology Conference Why Attend FINTECH Poland Expo 2026?
+
+Discover emerging fintech trends and innovative financial solutions Connect with banking leaders, fintech experts and technology providers Explore business opportunities and build valuable industry partnerships Learn about AI-powered banking, regulatory technology and payment innovations Gain industry knowledge through expert presentations and discussions Event Details Date: 1-3 December 2026 Venue: Ptak Warsaw Expo, Hall E Address: Al.
+
+Katowicka 62, 05-830 Nadarzyn, Warsaw, Poland Time: 10:00 AM - 5:00 PM Visitors: 5,000 expected Exhibitors: 90 Exhibition Space: 15,000 m&sup2; Parking: Free parking available Don't miss the FINTECH Poland Expo 2026 to learn about the partnerships, innovations, and fintech solutions shaping the next wave of digital banking and financial services.
+
+<a id="event-53b49adb68aa0274"></a>
+
+## Global Banking Summit 2026
+
+- Record: `coinpedia-global-banking-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-01T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://banking.live.ft.com/>
+
+### About the event
+
+To shape the future of financial services at the Global Banking Summit 2026 from 1-3 December 2026 at Convene Sancroft, St Paul's, London, in both in-person and digital formats. This three-day international gathering will bring together leading banking executives, policymakers, investors, economists and technology experts to discuss the biggest changes shaping global finance. The summit will explore how financial institutions can maintain their competitiveness and grow their operations, from security threats and economic risks to artificial intelligence and digital banking.
+
+Organised By FT Live is the global conferences and events division of the Financial Times Group, connecting senior business leaders and industry experts through valuable discussions, insights and international networking opportunities. Event Highlights 1,000+ Attendees from global, retail and investment banking institutions 120+ Speakers and Moderators 75 sessions on banking performance, economic trends, regulation, technology and organisational change 7 stages, including CEO interviews, policy discussions and more focused sessions AI and Digital Banking operations, risk management and customer experiences Why Attend Global Banking Summit 2026?
+
+Understand global economic developments, changing regulations and financial market trends Network with banking executives, investors, technology leaders and industry peers Practical strategies from leading CEOs and financial specialists Discover opportunities in AI, digital banking and financial infrastructure Exchange ideas, develop strategies and explore partnerships to strengthen business growth Featured Speakers The summit will feature prominent banking and financial industry leaders, including: Rob Kaplan - Vice Chairman, Goldman Sachs C.S. Venkatakrishnan - CEO, Barclays Charlie Nunn - CEO, Lloyds Banking Group Dame Debbie Crosbie - CEO, Nationwide Diana Layfield - Group CEO, Monzo Don't miss the Global Banking Summit 2026 in London to explore the future of banking, AI-driven financial innovation, digital transformation, and global financial leadership.
+
+Participate in the discussions shaping the financial environment of the future.
+
 <a id="event-4771f65c123f7087"></a>
 
 ## Tokenize: LDN 2026
@@ -3134,6 +3496,115 @@ Official Afterparty at the luxury Privilege Club (food, drinks included) on Dece
 
 JETS CAPITAL - an investment fund focused on cryptocurrencies and digital assets
 
+<a id="event-bbe79b5ce292157f"></a>
+
+## Education 2 0 Conference Singapore 2026
+
+- Record: `coinpedia-education-2-0-conference-singapore`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-02T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.education2conf.com/>
+
+### About the event
+
+Join the Education 2.0 Conference Singapore 2026, held from 2-4 December 2026 at the Marina Bay Sands Singapore. This premier global education summit positions artificial intelligence and innovation at the heart of education, transformation, bringing together educators, academic leaders, and ed tech professionals to explore how intelligent technologies are reshaping teaching, learning, and institutional growth. Across three dynaic days, attendees will engage in high-impact keynotes, panel discussions, interactive sessions and networking opportunities focused on AI based education models, and networking opportunities.
+
+Organized by Education2Conf is a global event platform dedicated to education transformation, uniting leaders from the education sector to share ideas Event Highlights: A 3 day global education summit in Dubai, bringing together changemakers from schools, and edtech. High- impact keynotes and panel dicussions from leading educators. Personalized learning and digital transformation strategies. Networking with global leaders and peers Practical sessions on topics like equity, and real word implementation.  Event Agenda:
+
+- 8:00 AM -
+- 9:15 AM- Initiate Day 1 by finishing your registration and settling into the morning with freshly brewed coffee refreshments.
+- 9:15 AM -
+- 9:30 AM - Opening Note
+- 9:30 AM -
+- 10:20 AM - Panel Discussion: When Instructors Prosper, Students Succeed: Creating Caring Cultures
+- 10:20 AM -
+- 10:50 AM - Headliner: To Be Determined
+- 10:50 AM -
+- 11:40 AM - Panel Discussion: Shifting Classrooms Into Creativity Labs Instead Of Test-Preparation Centers
+- 11:40 AM -
+- 12:00 PM - Recognition Session
+- 12:00 PM -
+- 1:30 PM - Lunch and Networking
+- 1:30 PM -
+- 2:00 PM - Keynote: To Be Determined
+- 2:00 PM -
+- 2:45 PM - Panel Discussion: The Growing Concern Of Student Anxiety - What Schools Must Alter Now
+- 2:45 PM -
+- 3:30 PM - Panel Discussion: Envisioning Learning Spaces As Sanctuaries For Vulnerability And Growth
+- 3:30 PM -
+- 4:15 PM Panel Discussion- The Heart Of A Trailblazer: Students Who Take Initiative, Lead, And Innovate
+- 4:15 PM -
+- 5:00 PM Panel Discussion- Ensuring Humanity Remains At The Core Of Learning Intelligence
+- 5:00 PM -
+- 5:30 PM - Recognition Session
+- 5:30 PM -
+- 6:00 PM- Networking Hour Why Attend? Learn from Global Leaders Discover AI based strategies that help improve student outcomes. Network with educators, policymakers and ed techs. Explore innovative tools and insights that can be implemented in your classrooms. Secure your place at the leading global education summit shaping the future of learning.
+
+<a id="event-0de0d0bc75a8b2d9"></a>
+
+## FinWell Summit 2026
+
+- Record: `coinpedia-finwell-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-02T08:15:00.000Z
+- Description: Source-backed
+- Original page: <https://finwell-summit.com/>
+
+### About the event
+
+Get ready to attend FinWell Summit 2026 on 2 December 2026 in Berlin, Germany, bringing together banking, fintech, and financial services professionals to explore financial wellbeing, AI-powered advice, and innovative solutions for better financial outcomes. Organised By House of Finance and Tech Berlin (HoFT). It focuses on practical ways to help people make better financial decisions and manage their money more effectively. Event Highlights AI and Financial Advice: explore the ways artificial intelligence could assist more people in receiving financial advice.
+
+Saving and Investing: discuss approaches that could help people increase their savings and make the right decisions regarding investing. Banking innovation: learn to find out how banks and other financial institutions can do something for their clients. Financial Wellbeing: Explore ways to reduce money stress and improve financial wellbeing. Networking: connect & network with bank executives, fintech entrepreneurs, employers and policymakers. Why Attend the FinWell Summit 2026? The summit offers an opportunity to understand how financial wellbeing can benefit both individuals and businesses.
+
+Attendees can exchange new ideas, learn about new financial technologies, and explore practical approaches to improving financial products and services. Agenda Highlights AI-Driven Financial Guidance - Learn how AI can make financial advice related to finance can be more accessible to customers and more personalized to their needs. Customer Savings - Discuss ways that can help people save money and improve their situation. Debt Avoidance - Find out about methods to eliminate debts and reduce problems. Retirement Preparation - Get familiar with plans that will ensure security and prepare for retirement.
+
+Financial Rules and Connections - Look into rules, attend workshops and meet with bank and technology finance experts Featured Speakers 1. Prof. Dr. Tabea Bucher-Koenen, Head of the Pension Provision and Sustainable Financial Markets Research Unit, ZEW Mannheim. 2. Milos Spiridonovic, Managing Director, New Economy Coverage, Deutsche Bank. 3. Martin Daut CEO, Quirion AG. 4. Thomas Matis Partner, Financial Services, KPMG. 5. Dr. Susanne Groh&eacute; Partner, Annerton. 6. Dr. Sebastian Schaefer CEO, House of Finance & Tech Berlin (HoFT). Discover practical ideas for better financial outcomes at FinWell Summit 2026 in Berlin.
+
+Don't miss the chance to connect, learn, and shape the future of financial wellbeing!
+
+<a id="event-450614bd1a1660a6"></a>
+
+## AI Digital Tech and Blockchain Revolution Summit 2026
+
+- Record: `coinpedia-ai-digital-tech-blockchain-revolution-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-02T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.blockchainrevolution.it/>
+
+### About the event
+
+Attend the 6th Edition of AI Digital Tech and Blockchain Revolution Summit 2026 from 2-3 December 2026 at Bergamo Fair, Italy. Italy's leading B2B digital transformation event brings together business leaders, technology innovators, policymakers, developers, and industry experts to explore how AI, blockchain, automation, and emerging digital technologies are transforming modern enterprises. From AI applications to secure supply chain solutions, the blockchain event presents useful insights, live shows, and networking opportunities to accelerate industrial innovation.
+
+Organized By The Blockchain Revolution Summit is a leading platform that connects government organizations, businesses, and tech innovators to promote digital transformation across industries through major B2B events. Event Highlights 2026 Explore real-world AI and blockchain solutions transforming manufacturing and enterprise operations. Connect through exclusive B2B business matching sessions with technology providers and buyers. Experience live technology demonstrations in the interactive exhibition zone. Participate in policy-driven discussions shaping Italy's 2027 digital transformation roadmap.
+
+Strategic Content Pillars AI & Industrial Automation: Use predictive decision-making and intelligent automation to increase production productivity. Supply Chain Tracking: Use transparent, blockchain-driven tracking solutions to guarantee product authenticity. Smart Contracts & Governance: Reduce paperwork and operational delays by automating enterprise agreements. White Paper 2027 Initiative: Work together to develop national digital standards for Italian industries prepared for the future. Featured Speakers Francesco Buffa - CEO & Co-Founder, Alps Blockchain S.r.l. Jacopo Fracassi - Researcher, Osservatorio Blockchain & Distributed Ledger, Politecnico di Milano.
+
+Giuseppe Coletti - CEO & Co-Founder, Authentico. Gianluca Mazza - CTO, Scaling Parrots. Don't miss Italy's premier AI and Blockchain Summit 2026 to connect with industry leaders, discover enterprise-ready digital transformation solutions, and accelerate your organization's innovation journey.
+
+<a id="event-d0b92da95d4fb069"></a>
+
+## Enterprise AI Expo 2026
+
+- Record: `coinpedia-enterprise-ai-expo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-02T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://aienterpriseexpo.com/>
+
+### About the event
+
+Get ready to attend The Enterprise AI Expo, from 2-3 December 2026 at the Sheraton, Muscat, Oman. The expo will bring together AI experts, business leaders, technology innovators, policymakers, and decision-makers to explore the role of artificial intelligence in modern enterprises.
+
+This event, which is in line with Oman Vision 2040, will demonstrate how companies can use AI to boost security, increase efficiency, automate processes, and make better decisions. Organised By The Future Event is a global event orgnizing company established in 2019 by Amby Ambreen K, specialising in B2B summits, exhibitions, and corporate awards, with a strong focus on credit and collections, fintech, banking, credit risk, and cybersecurity. Event Highlights 3,000+ visitors, business leaders, technology professionals, and AI enthusiasts. 100+ Exhibitors from AI solutions, enterprise technologies, and business applications. 70+ speakers, experts, and experienced technology leaders.
+
+40+ international connections. 20+ workshops to gain practical knowledge of artificial intelligence, cybersecurity, cloud computing, and data science. Why Attend Enterprise AI Expo? Learn useful AI solutions for expanding businesses. Make connections with decision-makers, technology suppliers, and AI specialists around the world. Discover how to use AI in a safe and responsible manner. Explore opportunities for partnerships and networking. Understand how AI can enhance customer satisfaction and productivity. Key Topics to Be Covered Digital sovereignty and responsible AI adoption. Building an AI-ready enterprise framework. Scaling AI from pilot projects to business-wide deployment.
+
+Conversational AI for business productivity. AI-driven operations and intelligent automation. Generative AI for enterprise innovation. Hybrid cloud architectures and edge AI. AI democratisation through low-code and no-code tools. Speakers Dr Talal Al-Saadi: Director of the Office of the Undersecretary of the Ministry of Interior. Saud Al Zakwani: Vice President, Information Digital Solution & Continuous Improvement at OQ Exploration & Production. Hussain Sajjad Ali Al Lawati: Head of IT Applications & Innovation at National Bank of Oman. Dr. Haitham Al Hajri: Chief Information Security Officer at Oman Housing Bank.
+
+Artur Kiulian: Founder of Radical Philanthropies, featured in publications including Forbes and The Wall Street Journal. Why Oman? Strategic location connecting global business markets Stable political and business environment Growing economy focused on innovation and investment Rich cultural heritage combined with modern development goals Join the enterprise AI revolution and learn about the concepts, innovations, and collaborations influencing businesses of the future at this premier AI and technology show in Muscat.
+
 <a id="event-850e9a2b8df1c561"></a>
 
 ## Africa Bitcoin Conference 2026
@@ -3180,6 +3651,415 @@ Be part of the flagship event shaping the future of Bitcoin in Africa! By sponso
 - "Bitcoin can lose this battle, but with the help of the Global South, regions living under authoritarian regimes and dictatorships, and especially with the help of Africa and Africans, Bitcoin can and will win."Obi NwosuFedi
 - "The most powerful thing that comes from Bitcoin is the fact that it is decentralized.anything that increases that decentralization contributes to making it a much stronger and more resilient network."Jack DorseyBlock
 - "Human rights are good for business. Freedom, democracy, freedom of expression, and freedom of association are crucial for innovation and prosperity."Mike BrockTBD
+
+<a id="event-47aca1b2a24ef258"></a>
+
+## Insurtech Insights Asia 2026
+
+- Record: `coinpedia-insurtech-insights-asia`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-02T16:23:00.000Z
+- Description: Source-backed
+- Original page: <https://www.insurtechinsights.com/asia/>
+
+### About the event
+
+Join the Insurtech Insights Asia 2026, Asia's largest insurance technology conference, held from 2nd to 3rd December 2026, in Hong Kong.
+
+This event brings thousands of coverage executives, innovators, tech entrepreneurs, investors, and industry leaders in Hong Kong to discover how rising technology and digital strategies are reshaping the destiny of insurance.
+
+Hosted by means of the global Insurtech Insights community, the event offers great keynotes, panel discussions, workshops, and networking possibilities targeted on subjects such as artificial intelligence, data analytics, IoT, blockchain, digital distribution, and innovation in insurance operations. With 5,000+ attendees and hundreds of professional speakers, the convention serves as a prime platform for sharing insights, forging strategic partnerships, and riding virtual transformation across the insurance ecosystem in Asia and beyond.
+
+Organized By Insurtech uses digital technology to make insurance faster, smarter, and more customer-friendly by improving policy management, pricing, and claims services. Event Highlights Network with more than 5000 leaders Gain knowledge from 300+ speakers More than 20000 meetings 97% recommend Insights Become more knowledgeable about difficult and important issues that affect any kind of company. Keep up with emerging trends and take advantage of fresh chances. Increase your toolkit to effectively address today's and tomorrow's challenges. Inspiration Challenge your way of thinking with new viewpoints Meet and hear from top insurance experts to broaden your professional horizons.
+
+Equip yourself with ideas and knowledge that will benefit you, your team, and your organization. Networking Meet with over 5,000 CEOs, business owners, and investors worldwide to broaden your network. Make new opportunities that will strengthen and expand the network. Engage with and draw in tomorrow's talent Attendees in Number 54% insurers 21% insurtechs 6% investors 19% other Insurtech Insights Asia 2026 connects insurance leaders and innovators to shape the future of digital insurance.
+
+<a id="event-66c552a6b4f64e2b"></a>
+
+## Africa Fintech Meetup 2026
+
+- Record: `coinpedia-africa-fintech-meetup`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-03T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://africafintechmeetup.com/>
+
+### About the event
+
+Mark your calendar for Africa Fintech Meetup 2026 on December 3rd, 2026, at the Addis International Convention Centre (AICC), Addis Ababa, Ethiopia. This one-day fintech gathering will, under the theme "Reimagining African Banking for a more Digital, Connected and Investment-Ready Future," bring together banking leaders, fintech founders, regulators, investors, technology experts, and financial services professionals to explore the future of Africa's digital financial ecosystem.
+
+Organized By Africa Fintech Meetup is a leading event platform dedicated to connecting fintech innovators, financial institutions, policymakers, and investors to accelerate digital finance and financial inclusion across Africa. Event Highlights Two dedicated tracks covering BFSI and Blockchain & Web3. Keynotes, panels, fireside chats, and interactive workshops. Business matchmaking with curated networking opportunities. Exhibition and Demo Zone featuring innovative fintech solutions. Why Attend Africa Fintech Meetup 2026? Connect with senior bankers, fintech founders, and investors. Learn about AI, blockchain, and digital payments from industry experts.
+
+Build valuable partnerships through structured networking. Gain insights into Africa's evolving fintech regulations. Discover emerging technologies transforming financial services. Objectives Foster collaboration across Africa's fintech ecosystem. Accelerate financial inclusion through innovative solutions. Showcase AI, blockchain, and digital identity technologies. Enable productive dialogue between innovators and regulators. Connect promising startups with investors and growth opportunities.  Agenda Highlights
+
+- 08:00-09:00: Registration & Networking
+- 09:00-09:30: Opening Keynote - African Banking at a Turning Point
+- 09:30-10:30: Executive Panel - Can African Banks Transform Fast Enough?
+- 10:30-11:00: Fireside Chat - Banks, Fintechs & Telecoms
+- 11:30-12:20: Payments Panel - Ethiopia's Interoperable Digital Economy
+- 12:20-12:50: Interview - AI, Data & African Banking
+- 14:30-15:20: Deep Dive - Tokenisation, Stablecoins & Digital Securities
+- 15:20-16:00: Fireside Chat - Ethiopia as a Gateway for Financial Investment Featured Speakers Dana Mincey-Breaux - Managing Director, Fenix Capital Thato Lesetla - Lead Technology Payments, Capitec Bank Dennis Kevogo - Founding Member, Prescott Data Dr. Assjad Alkazem - Founder & CEO, ASD Solutions Shiku Njathi - Marketing Manager, AZA Finance Don't miss Africa's connected financial future at Africa Fintech Meetup 2026, where innovation, investment, and collaboration come together to define the future of African fintech and digital banking.
+
+<a id="event-a3c98fddf510dd6f"></a>
+
+## Blockchain Confluence 2026
+
+- Record: `coinpedia-blockchain-confluence`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-03T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.blockchainconfluence2026.com/>
+
+### About the event
+
+Attend the Blockchain Confluence 2026 on December 3-4, 2026, in Alcoba&ccedil;a, Portugal. Blockchain researchers, tech experts, company executives, investors, legislators, and Web3 innovators will all be gathered under one roof for this two-day event. The event will explore the advancements in blockchain adoption, digital assets, stablecoins, Real-World Assets (RWA), artificial intelligence, and decentralized technologies. Its goal is to connect academic research with practical business opportunities.
+
+Alongside the 2nd IEEE International Conference on Distributed Ledger Technologies (ICDLT 2026), it will establish an exciting forum for industry talks, investment opportunities, project demos, and information exchange. Organized By The Blockchain Lab at NOVA IMS is a leading research institution that uses data science and blockchain technologies to produce skilled employees and encourage innovation in the digital economy. Event Highlights 1. Academic Presentations through selected IEEE ICDLT 2026 paper presentations 2. Industry Panels on blockchain adoption and industry challenges 3. Startup Pitch Competition, live demonstrations and startup presentations 4. Investor Networking 5.
+
+Emerging Technologies on blockchain, AI, quantum computing, stablecoins, and digital assets Why Attend Blockchain Confluence 2026?  Learn from Industry Experts across blockchain, finance, and technology Build Valuable Connections from different industries Discover Investment Opportunities and connect with venture capital investors Explore the future of tokenization, stablecoins, blockchain regulations, and decentralized finance Support Blockchain Innovation and solutions shaping Portugal's growing blockchain ecosystem Agenda Highlights Day 1 - Thursday,
+
+December 3, 2026 Theme: Where Academia Meets Industry
+
+- 9:00-10:00 AM: Welcome Coffee and Registration
+- 10:15-11:30 AM: Keynote by Diogo M&oacute;nica
+- 11:30 AM-1:00 PM: IEEE ICDLT Paper Presentations and Pitch Competition
+- 2:00-3:00 PM: Debate on Stablecoins and Real-World Assets (RWA)
+- 5:00-6:00 PM: Moon Talks - Blockchain, AI and Quantum Computing Day 2 - Friday,
+
+December 4, 2026 Theme: Where Projects Match Capital
+
+- 10:15-11:30 AM: Keynote Sessions
+- 11:30 AM-1:00 PM: Debate on Blockchain Standards and Regulations
+- 2:00-3:00 PM: Debate on Public and Private Funding
+- 3:30-5:00 PM: IEEE ICDLT Paper Presentations and Pitch Competition
+- 5:00-6:00 PM: Moon Talks - Why Are You Still Here? Featured Speakers 1. Patr&iacute;cia Santos - Token Trust: Bringing insights into blockchain innovation and digital asset opportunities. 2. Pedro Dominguinhos - President, CNA-PRR: Sharing perspectives on institutional development and innovation. 3. Nuno Cortes&atilde;o - Zharta: Representing the blockchain and Web3 business ecosystem. 4. Nuno Lima Luz - EY: Bringing professional insights into technology, business, and digital transformation. 5. Prof. Miguel Pupo Correia - Instituto Superior T&eacute;cnico: Sharing academic expertise in distributed ledger technologies. Do not miss this chance attend Blockchain Confluence 2026 in Portugal to discover blockchain innovations, build valuable industry connections, and explore new opportunities across the global blockchain, Web3, and digital asset ecosystem.
+
+<a id="event-816c7ce93e442f3d"></a>
+
+## Koncept Conference 2026
+
+- Record: `coinpedia-koncept-conference`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-03T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.konceptconference.com/>
+
+### About the event
+
+Get ready to connect with global innovators at The Koncept Conference 2026, from 3-4 December 2026 in Phuket, Thailand. This global technology conference will bring together industry leaders, developers, entrepreneurs, researchers, and technology enthusiasts to discuss the innovations shaping the future of business and society. With 250+ attendees, 30+ speakers, 10+ exhibitors, and participants from 50+ countries, the event will offer an exciting platform for knowledge sharing, networking, and cross-industry collaboration.
+
+Organised By Koncept Conference brings together curious minds, passionate innovators, and technology leaders through global events that encourage collaboration, inspire fresh thinking, and support innovation across different industries. Event Highlights Global Industry Speakers: Meet 30+ international speakers Knowledge-Packed Sessions: Explore 25+ insight sessions and 12+ live dialogues International Networking: Connect with 250+ attendees Innovation and Research Showcases: Research developments, and innovative projects Why Attend Koncept Conference 2026? Learn from Industry Experts: Gain practical insights from experienced technology leaders, entrepreneurs, and researchers.
+
+Build Valuable Connections: Network with international delegates, potential partners, investors, and business professionals. Explore Future Technologies: Understand how AI, cloud computing, cybersecurity, and emerging innovations are transforming industries. Discover Business Opportunities: Find new ideas, investment possibilities, and collaboration opportunities for business growth. Understand Responsible Innovation: Learn about AI governance, digital trust, sustainability, and the ethical use of technology.
+
+Key Themes and Focus Areas Cloud, Data and Security Emerging Technologies Future of Work AI Governance Cybersecurity and Trust Startups, Investment and Digital Transformation Featured Speakers Meet experienced professionals sharing their industry knowledge and perspectives: Szilard Szurdok - Founder, Owner and CEO, Weev AG. Oreste Pozzoli - CEO and Founder, Pozzoli Holding SA. Dr. Kendall Wilson - Founder, DigitAlchemy&reg; Tech Limited. Goran Zivkovic - Managing Director, SeaQuest Shipmanagement.
+
+Participate in The Koncept Conference 2026 in Phuket to discover fresh perspectives, build meaningful partnerships, and explore the innovations shaping future at this exciting international technology and innovation conference.
+
+<a id="event-6f64173476253c00"></a>
+
+## Lottery CX Summit 2026
+
+- Record: `coinpedia-lottery-cx-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-03T19:43:00.000Z
+- Description: Source-backed
+- Original page: <https://www.eventus-international.com/lottery-cx>
+
+### About the event
+
+Join the Lottery CX Summit 2026 is a focused global conference, held from 3rd to 4th December 2026, in Vienna, Austria. It brings operators, regulators, generation carriers, and different enterprise leaders to address today's key demanding situations-including opposition from personal and gray-market operators, regulatory pressures, and moving client expectations-through insightful keynotes, expert panels, and networking opportunities.
+
+The event emphasises improving the purchaser experience (CX), enhancing player engagement and loyalty, navigating regulatory environments, and sharing strategic insights to help lotteries innovate and strengthen their marketplace positions. Attendees additionally gain from casual networking activities designed to foster relationship building and collaboration throughout the arena. Organized By Eventus International is a popular event organizer and expo company that brings together experts and creates a chance for reality. Event Highlights Focused on lottery customer experience. Expert keynotes and panel discussions. Topics: player engagement, retention, regulation, innovation.
+
+High-level networking with lottery leaders. Why Attend Learn the latest CX strategies in the lottery industry. Understand regulatory and market trends. Hear real-world case studies and insights. Connect with decision-makers and experts. Benefits of This Event Improve player engagement and loyalty. Gain practical ideas for business growth. Build valuable industry connections. Stay competitive in a rapidly evolving lottery market.
+
+Event Agenda Day 1 Registration and check-in Networking event with iGaming DACH, Lottery CX, and Player Protection in a relaxed setting Day 2 Morning registration Welcome / Chairman's opening remarks Keynote speeches on industry trends and future direction Panel discussions on regulatory comparison & market strategy Discussions on identifying new products and lottery trends Topics like preventing unlicensed market entry Evening networking drinks with iGaming DACH, Lottery CX, and Player Protection Lottery CX Summit 2026 wraps up by uniting lottery leaders to strengthen CX, innovation, and regulatory strategy.
+
+<a id="event-1fc98cac470c42f2"></a>
+
+## Crypto Conference Miami 2026
+
+- Record: `coinpedia-crypto-conference-miami`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-04T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://futurewealthmia.com/crypto-conference-miami>
+
+### About the event
+
+Attend the Crypto Conference Miami 2026, from December 4-6, 2026, at the Hyatt Regency Miami, Florida, USA. This three-day event will explore how digital assets are transforming traditional finance and creating new investment opportunities by bringing together investors, financial experts, crypto professionals, and technology leaders. The conference will provide insightful discussions on cryptocurrencies, blockchain technology, tokenization, stablecoins, ETFs, and on-chain finance with 39 confirmed speakers, two stages, and four investing sessions. Attendees can hear about the future of investing strategies and wealth management, and how institutions are implementing digital assets.
+
+Organized By Future Wealth brings together experts and forward-thinking professionals to discuss investment opportunities, emerging technologies, and the changing global financial landscape. Event Highlights 1. 39 Confirmed Speakers: Hear from experienced leaders in digital assets, investment management, traditional finance, and technology. 2. Two Dedicated Stages: Explore expert keynotes, panel discussions, interviews, and practical learning sessions. 3. Four Investment Tracks: Discover digital assets, public markets, real estate, and compute, data, and energy. 4. Digital Asset Insights: Learn about tokenization, stablecoins, institutional adoption, crypto ETFs, and on-chain finance.
+
+5. Networking Opportunities: Connect with investors, family offices, financial institutions, entrepreneurs, and industry professionals. Why Attend Crypto Conference Miami 2026? 1. Understand how blockchain technology and tokenization are transforming traditional financial markets. 2. Learn how banks, funds, and family offices approach cryptocurrency investments. 3. Explore crypto ETFs, exchange-traded products, digital asset custody, and portfolio management. 4. Gain practical knowledge about investment strategies, risk management, and market opportunities. 5. Build valuable connections with global investors, financial experts, and blockchain innovators.
+
+The conference features experienced professionals from the financial and digital asset industries, including: 1. Jake Claver - Chairman and Principal of DAG and Founder of Syndicately. 2. Brian Ford - Vice President and Head of Business Solutions and Digital Assets at ATB Financial. 3. Eli&eacute;zer Ndinga - Global Head of Research and Founding Venture Partner at 21Shares. 4. Bilal Little - Global ETF Strategist at Direxion. 5. Caleb Silver - Editor-in-Chief and SVP of Content at Investopedia. Agenda Highlights December 4, 2026 - Friday - Registration, networking, and opening activities. - Introduction to future investment opportunities. - Discussions on emerging financial trends.
+
+December 5, 2026 - Saturday - The Domino Strategy: How One Move Forces the Next. - Beyond the Hype: When Traditional Finance Goes On-Chain. - Agentic Investing and the Next Platform Shift. - Digital assets, real estate, and future market opportunities. December 6, 2026 - Sunday - The Wrapper Wars: How Institutions Buy the Future. - Derivatives and Modern Portfolio Construction. - Investing in the Intelligence Economy. - Closing keynote: Three Days. One Future. Don't miss the Crypto Conference Miami 2026 to learn about new investment options, gain insight into the future of digital assets and blockchain, and establish connections with those influencing the next wave of global finance.
+
+Attend this fascinating blockchain and cryptocurrency conference in Miami in 2026.
+
+<a id="event-249b2f2084b99931"></a>
+
+## Global Tech Weekend 2027 Launch Event
+
+- Record: `coinpedia-global-tech-weekend-launch-event`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-05T16:00:00.000Z
+- Description: Source-backed
+- Original page: <https://gtwt.ge/>
+
+### About the event
+
+Get ready to attend the Global Tech Weekend 2027 Launch Event, on 5 December 2026 at Mtatsminda Hall, Tbilisi, Georgia. Celebrating the theme of The Largest Decentralized Tech Movement, this special event will bring together startup founders, venture capitalists, investors, technology leaders, entrepreneurs, and innovation experts. Additionally, the event will present Global Tech Weekend 2027's vision, growth goals, collaborations, and worldwide calendar, opening up new avenues for business collaboration, startup funding, and international networking.
+
+Organised By Global Tech Weekend is a decentralized technology conference network that was established in 2024 with the goal of creating a worldwide platform for business, innovation, and technology communities by linking a single major conference with numerous side events around Tbilisi, Georgia. Event Highlights Pitch in a Ferris Wheel inside Ferris Wheel cabins Official GTW 2027 Launch Startup Pitch Award celebrate the winning startup at the awards ceremony Global Networking Opportunities Strategic Partnerships across different industries Why Attend Global Tech Weekend 2027 Launch Event? Get to know foreign investors and look into possible funding sources for creative enterprises.
+
+Learn about new technological advancements and trends that are influencing the global IT landscape. Use a special pitching experience over Tbilisi to share your startup ideas. Create beneficial relationships with entrepreneurs, executives, and specialists in innovation. Learn about the future of Global Tech Weekend and its expanding global network. Who Attends?
+
+The event expects 500+ guests from 10+ industry sectors, including: Venture capital funds and angel investors Startup founders and entrepreneurs Global technology leaders Corporate executives and decision-makers International organizations Innovation and ecosystem builders Creative industry leaders and media professionals Event Features 1. Exclusive startup pitching inside the Mtatsminda Ferris Wheel. 2. Live-streamed startup presentations. 3. Official Global Tech Weekend 2027 announcement. 4. Interactive experience zones and partner activations. 5. Startup Pitch Awards Ceremony followed by a networking after-party. Don't miss the Global Tech Weekend 2027 Launch Event.
+
+Connect with global investors, discover promising startups, and explore new opportunities at the most exciting global technology networking events in Tbilisi, Georgia.
+
+<a id="event-779ebbdf36593fc4"></a>
+
+## US BankTech Summit 2026
+
+- Record: `coinpedia-us-banktech-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-07T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://usbanktechsummit.com/>
+
+### About the event
+
+Get ready to shape the future of banking at U.S. BankTech Summit 2026 from 7-9 December 2026 in Oak Brook, Illinois. This three-day banking technology conference brings together senior leaders from banks, credit unions, and fintech companies for practical discussions, networking, and new strategies.
+
+The event session aims to foster discussions about digital banking, AI, payments innovation, compliance, and core upgrades rather than traditional presentations, helping decision-makers create a stronger roadmap for 2027. Organized By Converge Events is a top event production company that specializes in holding B2B conferences that encourage deep discussion between executives in the banking, treasury, fintech, credit union, and regulatory sectors. Event Highlights Zero slide presentations and no sales pitches. 8+ hours of peer-to-peer strategy sessions on AI, compliance, and digital transformation. Expert panel discussions on banking technology.
+
+5+ hours of networking with industry leaders and fintech innovators. Why Attend U.S. BankTech Summit 2026? Learn strategies for the latest banking technology. Connect with senior executives from banks, credit unions, and fintech companies. Discover real-world approaches to AI, cybersecurity, and digital banking innovation. Build valuable partnerships that support long-term growth and transformation. Key Topics on the 2026 Conference Agenda Modernizing legacy core banking systems. Real-time payments with RTP and FedNow. AI adoption from pilot projects to production. Banking cybersecurity and third-party risk management. RegTech and compliance automation.
+
+Embedded finance and strategic partnerships. Cloud transformation for greater agility and innovation. What's Included in Registration Full admission for 7-9 December. Opening reception with refreshments and appetizers. Executive networking events throughout the summit. Keynote panel discussions and peer roundtables. Event app access and continuing education credits. Lunch buffet, all-day coffee, and on-site support. The 2026 U.S. BankTech Awards Recognition through the BankTech Growth Award and BankTech Innovation Award. Two VIP passes with formal dinner and lounge access. Live trophy presentation and on-stage recognition. Red carpet photos, website spotlight, and social media promotion.
+
+Don't miss the banking technology conference for innovation, digital transformation, and executive networking by participating in the discussions shaping the financial sector of the future.
+
+<a id="event-43a507b6e00b18e0"></a>
+
+## Solana Economic Zone Dubai 2026
+
+- Record: `coinpedia-solana-economic-zone-dubai`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-07T14:03:00.000Z
+- Description: Source-backed
+- Original page: <https://sezdubai.com/>
+
+### About the event
+
+Join the Solana Economic Zone Dubai 2026, a major week‑long Web3 and blockchain gathering held from 7 th to 12th December 2026, in Dubai, UAE.
+
+The event features an established time table with themed days masking topics including virtual asset coverage and law, buying and selling, and DeFi, institutional adoption and real‑global asset tokenization, payments and infrastructure, plus hands-on AI & crypto workshops and a Demo Day showcasing tasks and pitches to traders. Designed as a combination of deep‑dive classes, collaboration, and networking possibilities, SEZ Dubai aims to foster connections, catalyze product development, and position the UAE as a thriving hub for blockchain innovation.
+
+Organized By Superteam UAE is an event organizer community based in the United Arab Emirates established in the year 2023 dedicated to support blockchain adoption in the Middle East through events, workshops, hackathons, and corporate support programs.
+
+Event Highlights Daily themes: Policy, Trading, Institutional, Payments, AI, and Demos Workshops and deep dives on blockchain and AI Networking and pitch opportunities Community events and collaborations Focus: DeFi, RWA tokenization, regulation, AI integration Agenda 20 April Policy & Regulation UAE regulations on digital assets MiCA adherence and international regulatory congruence Best practices and licensing requirements Panel: Views of the Government on Crypto Regulation 21 April TRADING DAY Making the market and providing liquidity Decentralized exchanges and DeFi protocols Infrastructure for trading on Solana Market dynamics and risk management 22 April INSTITUTIONAL DAY Blockchain technology is used by institutions Security frameworks and custody solutions ⁠Tokenization of real-world assets Case studies: Solana banks and businesses 23 April PAYMENTS & INFRA ⁠Use cases and the infrastructure of stablecoins Solutions for cross-border payments Rails for payments on Solana Integration with conventional financial systems 24 April AI & CRYPTO + DEMO DAY Practical: Constructing AI bots on Solana ⁠On-chain analytics using machine learning Automation and trading tactics driven by AI Workshop: Combining Decentralized Applications with AI Evening: Day of Demo Watch live presentations of the most promising Web3 projects in the area.
+
+Investors and judges from all over the Solana ecosystem Winners were declared that evening. April 25 and 26 Weekend Activities Kindly submit separate applications for each of these. Why Attend? Connect with more than 400 attendees. Prepare your investor pitch. Display your product at Demo Day. Take advantage of our Tech Deep Dives to Learn from Experts Speakers Kash Dhanda - Jupiter Mert Mumtaz - Helius Irina Heaver - Neoslegal Akshay BD - Superteam Member Alex Scott - Superteam UAE SEZ Dubai 2026 unites Web3 innovators, investors, and experts in a week of learning, networking, and showcasing blockchain and AI advancements.
+
+<a id="event-357230a7ddbd3000"></a>
+
+## FTT Fintech Festival 2026
+
+- Record: `coinpedia-ftt-fintech-festival`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-08T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.fintechtalents.com/events/north-america/ftt-fintech-festival/>
+
+### About the event
+
+Get ready to explore the FTT Fintech Festival 2026, from December 8-9, 2026, in Austin, Texas, USA. This fintech event will bring together financial institutions, technology providers, fintech startups, investors, and industry leaders to discuss how innovation is transforming financial services. The festival provides an excellent setting for exploring new ideas and shaping the direction of finance with its expert talks, networking opportunities, and insights into AI, digital payments, embedded finance, and new financial technology. Organized By Fintech Talents is an event management company focused on the fintech industry.
+
+It connects 200,000+ digital transformation leaders through engaging events to encourage collaboration, creativity, and business growth.
+
+Event Highlights 100+ Innovative Speakers 450+ High-Level Attendees Two Stages of Content Networking Opportunities Co-Located Future Identity Festival Why Attend the FTT Fintech Festival 2026?  Learn how AI, blockchain, stablecoins, and real-time payments are changing financial services Meet influential fintech leaders, banking executives, technology experts, and entrepreneurs Identify potential partnerships, new markets, and innovative solutions for business growth Understand how financial institutions are improving customer experiences, managing risks, and modernizing operations Discover strategies for adapting to changing customer expectations, regulations, and digital transformation Agenda Highlights Day 1 -
+
+December 8, 2026
+
+- 9:10 AM -
+- 9:45 AM: A Continent of Fintech Opportunity
+- 9:45 AM -
+- 10:20 AM: Moving at the Speed of AI
+- 10:20 AM -
+- 10:55 AM: Building on Flexible Foundations - The Future of Financial Services Infrastructure
+- 2:00 PM -
+- 2:35 PM: Rules of the Road: Fintech and Finance Across North America
+- 3:40 PM -
+- 4:15 PM: Stablecoins at the Crossroads: The Future of Digital Money Day 2 -
+
+December 9, 2026
+
+- 10:10 AM -
+- 10:45 AM: Beyond Payments - Key Trends in Embedded Finance
+- 11:15 AM -
+- 11:50 AM: Beyond Debate: The Features of Lasting Embedded Finance Partnerships
+- 11:50 AM -
+- 12:25 PM: AI Agents and Autonomous Payments - Who Is in Charge?
+- 1:25 PM -
+- 2:00 PM: The B2B Payment Challenge - Are Stablecoins the Solution?
+- 3:00 PM -
+- 3:35 PM: The Curious Case of Open Banking in North America Key Themes Fintech for the Road Ahead: Building resilient, efficient, and customer-focused financial services Fintech from North to South: Exploring opportunities across North America's diverse financial ecosystems AI in Financial Services: Applying artificial intelligence and machine learning to credit, risk, personalization, and operations The Next Wave of Financial Technologies: Examining blockchain, stablecoins, biometrics, and privacy-focused innovation Payments Leading Innovation: Understanding real-time payments, digital wallets, cross-border transactions, and programmable money Embedded Finance: Integrating banking, lending, insurance, and payments into everyday digital platforms Featured Speakers Laurie Stewart - CEO, Sound Community Bank Nimi Natan - President & CEO, Gulf Coast Small Business Lending Brian Waldron - President & CEO, Dort Financial Credit Union Mary Joseph - Senior Vice President, Strategic Investments, Citi Heather Kesner - Executive VP and Head of Small Business Banking Don't miss this innovative financial innovations, form key partnerships, and learn about the future of digital banking, payments, and financial services in North America by attending the FTT Fintech Festival 2026.
+
+<a id="event-3faed260aa1b75f3"></a>
+
+## International Conference on RegTech and Compliance in Financial Technology
+
+- Record: `coinpedia-international-conference-regtech-compliance-financial-technology`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-08T13:03:00.000Z
+- Description: Source-backed
+- Original page: <https://www.aspher.net/conf/index.php?id=100909168>
+
+### About the event
+
+Join the International Conference on RegTech and Compliance in Financial Technology, held from 8th to 9th December 2026, in Las Vegas, USA. Is a specialized global forum focused on regulatory technology (RegTech) and compliance within the fintech landscape. The conference brings together industry experts, lecturers, researchers, and practitioners to share information, present research findings, and discuss progressive answers to demanding situations on the intersection of regulation, compliance, and financial technology.
+
+Through keynote periods, technical shows, and networking possibilities, members will discover rising trends in RegTech, compliance techniques, risk control, and era adoption even as building expert connections and contributing to multi-disciplinary collaboration. Organized By The Asian Society for Publication, Higher Education & Research (ASPHER) is a professional academic organization focused on advancing scholarly excellence and fostering collaboration across Asia and beyond. Event Highlights Encourage Collaboration: Build robust academic and professional connections. Advance Innovation: Showcase authentic research and new technologies.
+
+Promote Inclusion: Support equal participation from various students and researchers. Strengthen Networks: Create lasting partnerships between academia and enterprise. Key Features Inspiring Keynote Sessions. Skill-Building Workshops. International Networking. Publication Opportunities. Recognition of Excellence. Why Attend? Cutting-Edge Insights Global Networking Publication Pathways Skill Development Career Advancement Interdisciplinary Collaboration Inspirational Keynotes Cultural Exchange What To Expect Advance Scholarship: Strengthen new ideas and theories in key focus areas. Unify Fields: Encourage cross-disciplinary dialogue and collaboration.
+
+Foster Collaboration: Enable paper presentations, networking, and knowledge sharing. Maximize Impact: Publish and promote research for wider reach Inspire and Connect: Build new ideas and lasting professional partnerships. Aim of This Event Strengthen Global Collaboration: Build research partnerships across regions and disciplines. Expand Networking: Connect pupils, professionals, and industry leaders. Boost Economic Growth: Support innovation and information transfer Empower Researchers: Provide structures to decorate instructional work Encourage Lifelong Learning: Share new ideas and methodologies. Advance Technology: Highlight and apply modern developments.
+
+Promote Cross-Border Ideas: Exchange various perspectives and excellent practices. Widen Knowledge Sharing: Disseminate research thru publications and outreach. A global event uniting academia and industry to advance RegTech and fintech compliance.
+
+<a id="event-2f79f0fc6a7bf099"></a>
+
+## Gitex Global 2026 Dubai
+
+- Record: `coinpedia-gitex-global-dubai`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-08T15:28:00.000Z
+- Description: Source-backed
+- Original page: <https://www.gitex.com/gitex-global-2026>
+
+### About the event
+
+Join the Gitex Global 2026 Dubai, scheduled from 8 th to 10th December 2026, in Dubai, UAE.
+
+This event marks a historical milestone as the region's biggest purpose-built indoor activities venue, backed by $2.7 billion in funding to enhance networking and dealmaking.
+
+The event converges GITEX GLOBAL and Expand North Star underneath one roof, uniting tech ecosystems, startups, and go-to-market audiences focused on future-vital industries like Quantum, Data Centres, Digital Health, and Web3.0. Strategically positioned near Dubai's new worldwide airport with seamless connectivity, international-magnificence services, metro access, and over 20,000 parking spaces, it positions Dubai as an international MICE hub for innovation, collaboration, and high-end business possibilities. Organized By Dubai World Trade Centre is a space for the region's growing tailor-made exhibition centre.
+
+It provides a platform for connecting audiences, products, creativity, and ideas from across the globe via a unique international trade exhibition. Event Highlights On 7th Summit and a 4-day expo from 8th to 11th Explore its entirely new dimension in this event This event is unmatched in scale and influence It's the world's largest tech, startup, and AI event Discover the pace of global tech growth About The Venue It's the world's largest indoor events venue - 2.2M sq at prime space Be part of the $2.
+
+7 B expansion More than 20,000 packaging spots Access beside the future world's largest airport Summit and Expo Details Expand your connection at the Gitex Scale Summit Deep dive into the biggest tech trends In expo, explore high-value dealmaking What To Expect Connect with founders, tech leaders, and investors Collaborate, connect and shape the next big breakthrough Enjoy the cooler weather, curated experience, and peak season Networking with the city's vibrant lifestyle Be part of this Summit and Expo event to learn, connect and enjoy the beauty of Dubai city.
+
+<a id="event-6de20e0d09735979"></a>
+
+## SEG3 Los Angeles 2026
+
+- Record: `coinpedia-seg3-los-angeles`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-08T18:21:00.000Z
+- Description: Source-backed
+- Original page: <https://www.seg3.com/seg3-la>
+
+### About the event
+
+Participate in the SEG3 Los Angeles 2026, held from 8th to 9th December 2026, in Los Angeles, US.
+
+This event brings together innovators from sports activities, entertainment, gaming, and technology to explore how subcultures and rising technology are reworking virtual studies and fan engagement. Held in Los Angeles-the global hub of enjoyment the occasion connects emblem leaders, entrepreneurs, technologists, and creators to talk about new systems, strategies, and technology shaping the destiny of media and fandom. Through keynote talks, panel discussions, and networking possibilities, SEG3 LA gives insights into building next-generation virtual merchandise, strengthening target market relationships, and using innovation across fan-pushed industries.
+
+Organized By SEG3 is a London-based conference and media company focused on the intersection of culture and emerging technology. Event Highlights Connect with global innovators from sports, entertainment, gaming, consumer, and technology brands. Insights into the convergence of cultural industries. Learn how to destiny-proof organizations using rising technologies and platforms. Discover strategies to construct better virtual products and stories. Designed for experts in virtual, generation, industrial, logo, method, marketing, boom, and product roles. Focus on innovation, boom, and enterprise transformation. Why Attend? Highly curated, enjoy bringing together revolutionary minds.
+
+Provides industry information and insights. Helps construct valuable relationships and networking possibilities. Supports experts to power trade inside their organizations. Event Agenda Opening keynote and enterprise insights on the future of tradition and era. Scaling IP and Franchises within the Digital Age. The Convergence of Sports, Gaming, and Culture. Web3, Blockchain, and the New Consumer Economy. AI, Immersive Experiences, and the Future of Storytelling. Panels with leaders from media, sports activities, gaming, and tech industries. Networking classes and collaboration possibilities with innovators and creators.
+
+SEG3 Los Angeles 2026 concludes as a key platform where leaders explore how AI, Web3, and Blockchain are shaping digital experiences and fan engagement.
+
+<a id="event-f041491fad3330b9"></a>
+
+## AI Business and FinTech Summit Dubai
+
+- Record: `coinpedia-ai-business-fintech-summit-dubai`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-09T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://business.clsconf.com/dubai/>
+
+### About the event
+
+The AI Business and FinTech Summit Dubai on December 9, 2026, at Al Khoory Sky Garden Hotel, Dubai, will bring together global innovators, business leaders, and fintech leaders for a day of conversations and practical insights. This Dubai AI and FinTech conference offers the perfect platform to explore new technologies, connect with decision-makers, and discover how AI is changing industries worldwide. Organized By CLS Event and Publication Ltd is a UK-based organiser delivering international conferences, exhibitions, and scientific publishing initiatives that connect experts, researchers, and industry leaders worldwide.
+
+Event Highlights 120+ global delegates 50+ countries representing 20+ industries 70% senior decision-makers 30% C-level executives Why Attend AI Business and FinTech Summit Dubai? Learn practical AI strategies from global business and fintech leaders. Build valuable connections with CXOs, investors, startups, and policymakers. Discover real-world success stories in AI-powered business transformation. Stay updated with the latest AI, fintech, and digital innovation trends.
+
+Conference Sessions AI Strategy & Business Transformation Generative AI & Enterprise Innovation AI in Finance, Risk Management & Compliance AI for Marketing, Sales & Customer Experience AI Governance, Ethics & Security FinTech Startups & Financial Innovation Be part of the conversation shaping tomorrow's economy and discover the ideas, connections, and technologies defining the next AI and FinTech business landscape.
+
+<a id="event-a957e8104a463d4c"></a>
+
+## Webrazzi Fintech 2026
+
+- Record: `coinpedia-webrazzi-fintech`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-09T13:53:00.000Z
+- Description: Source-backed
+- Original page: <https://webrazzi.com/en/etkinlik/2026/fintech/>
+
+### About the event
+
+Join the Webrazzi Fintech 2026, which is T&uuml;rkiye's premier fintech conference, held on 9th December 2026, in Turkiye. It celebrating the 20th anniversary of Webrazzi a main digital media platform in technology and startups - this event brings together industry leaders, entrepreneurs, and innovators to discover how financial technologies are reshaping the destiny of finance. The convention will cover key topics along with the evolving wishes of purchasers, banking transformation, blockchain integration, open banking, digital bills, virtual banks, and AI-driven financial programs.
+
+Attendees will also have the opportunity to sign up for hands-on classes and workshops to deepen their expertise, connect with friends, and engage in discussions on the present-day developments and opportunities shaping the fintech ecosystem. Organizer By Webrazzi is the top digital media platform in Turkey and was established in 2006 by Arda Kutsal. It influences business in the areas of technology, entrepreneurship, and investment. Event Highlights Focus on fintech trends, digital banking, payments, AI, and blockchain Includes professional training, hands-on activities, and talks with leaders and entrepreneurs.
+
+Networking tools via the Webrazzi Events app (QR ticket entry, schedule planner, messaging, networking). Why Attend Hear from pioneers and leaders influencing the direction of fintech. Stay up to date with emerging trends like AI in finance, open banking, digital payments, and blockchain tech. Expand professional knowledge with workshops and expert presentations. Connect and network with fintech professionals, entrepreneurs, and investors. Benefits of This Event Gain a clear view of where financial technology is heading next. Hands-on learning and workshops to deepen expertise. Tools and features to build valuable business connections.
+
+This is a key event to stay ahead in fintech, gain practical insights, and connect with leaders in T&uuml;rkiye's fast-growing financial technology ecosystem.
+
+<a id="event-79260066fe088389"></a>
+
+## AI and Web3 in Healthcare Forum
+
+- Record: `coinpedia-ai-web3-healthcare-forum`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-09T15:00:00.000Z
+- Description: Source-backed
+- Original page: <https://blockchaininhealthcare.net/virtual/>
+
+### About the event
+
+Explore healthcare innovation at the AI & Web3 in Healthcare Forum, virtually on 9 December 202 6, from 3:00 PM to 8:00 PM GST (UTC+4). This global virtual forum will bring together healthcare professionals, technology innovators, researchers, investors and policymakers to explore how AI and Web3 technologies can work together to transform the healthcare industry.
+
+The event will present workable solutions influencing the future of connected, safe, and intelligent healthcare with talks on clinical AI, blockchain, healthcare data, digital identification, and decentralized research. Organised By FluXPO is a leading event management and digital marketing company focused on sustainable development. It creates engaging marketing experiences, networking opportunities and business growth platforms while helping sponsors and stakeholders achieve strong returns on investment.
+
+Event Highlights AI-Powered Healthcare Innovation Web3 and Blockchain Applications Global Industry Networking Real-World Case Studies Innovation and Collaboration Why Attend the AI & Web3 in Healthcare Forum? 1. Gain valuable insights into emerging healthcare technologies and digital transformation. 2. Learn how AI and Web3 can improve patient experiences, medical research and healthcare services. 3. Understand important topics such as data privacy, cybersecurity, digital identity and healthcare regulations. 4. Discover opportunities for investment, business development and cross-border partnerships. 5. Attend a global healthcare technology event from anywhere without travel expenses.
+
+Confirmed Speakers 1. Scott Itepu - Founder, Merigen Sciences; Convener, DeSci Lagos 2. Dr. Hosna Salmani, PhD - Technical and Strategic Advisory Group Expert, WHO 3. Dr. Ang Yee Gary - Public Health Specialist and Family Physician, Woodlands Polyclinic, National Healthcare Group Polyclinics, Singapore. 4. Savva Kerdemelidis - Founder and CEO, Public Good Pharma, New Zealand. 5. Dr. Sherif Hassan, MD - Physician, Healthspan Intelligence Innovator and Founder, SCHWA, USA. Program Tracks The forum will cover 10 important topics connecting healthcare, artificial intelligence and Web3: 1. AI in Healthcare: Clinical AI, diagnostics, generative AI and intelligent care delivery.
+
+2. Federated and Privacy-Preserving AI: Secure computation, federated learning and data privacy. 3. Health Data, Identity and Interoperability: Patient data ownership, digital identity and trusted data exchange. 4. Blockchain and Trusted Health Infrastructure: Smart contracts, data integrity and decentralized access. 5. Tokenization and New Business Models: Digital ownership, patient incentives and tokenized healthcare services. 6. Healthcare Payments and Financial Infrastructure: AI-powered insurance claims, stablecoins and cross-border payments. 7. DeSci, DAOs and Decentralized Research: Community-funded research, open science and decentralized governance.
+
+8. Pharma, Biotech and Precision Medicine: AI drug discovery, genomics and personalized treatment. 9. Supply Chains and Connected Healthcare: Drug traceability, medical devices and remote patient monitoring. 10. Governance, Cybersecurity and Digital Sovereignty: Healthcare regulation, privacy, accountability and ethical AI. Don't miss the AI & Web3 in Healthcare Forum 2026 to explore new ideas, build meaningful partnerships and discover the future of AI-powered healthcare innovation and blockchain technology.
+
+<a id="event-98195fd71212c78a"></a>
+
+## Affiliate World Asia 2026
+
+- Record: `coinpedia-affiliate-world-asia`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-09T19:38:00.000Z
+- Description: Source-backed
+- Original page: <https://affiliateworldconferences.com/asia>
+
+### About the event
+
+Attend the Affiliate World Asia 2026, which is a major international performance marketing and affiliate marketing conference, held from 9 to 10 December 2026, in Bangkok.
+
+This event brings together lots of entrepreneurs, advertisers, associates, e-commerce professionals, networks, and visitors from over a hundred and ten nations. Over the course of two days, attendees can participate in professional-led talks and panels protecting today's traits and strategies throughout AI advertising, social media, search marketing, e-commerce boom, and overall performance optimization.
+
+The event additionally functions as a huge exhibition corridor with masses of exhibitors, imparting adequate possibilities for networking, business offers, and partnerships with enterprise leaders. Beyond the formal classes, there are social events, mixers, social hours, and casual gatherings in which people can be part of, share thoughts, and assemble relationships that help them increase their corporations and campaigns. Organized By Affiliate World is the main global occasion for affiliate marketers, e-commerce enterprise owners, and virtual advertising and marketing professionals.
+
+Founded in 2015 and centered in Hong Kong, the business enterprise holds flagship conferences in locations such as Bangkok and Budapest, wherein thousands of industry executives discuss ideas, approaches, and improvements in performance advertising and marketing.
+
+Event Highlights Connect with 7000+ attendees from 110+ countries Gain valuable insights from 35+ speakers Network with 120+ advertisers More than 40 traffic sources More than 170 affiliate networks What to Expect Connect with $1M+ per month advertisers Explore fastest growing traffic sources Network with 54% marketers who generate over $100K per month Discover fastest growing sgopify stores Engage with lead gen advertisers in solar, finance, health, and many more Why Attend Opportunity to network with top industry experts Features mastermind-level content and expert speakers Focus on data-driven strategies and innovative ideas Large exhibition hall with business and career opportunities Includes networking perks like happy hours and nightlife events Helps attendees grow skills, connections, and career prospects Affiliate World Asia 2026 is a premier event for learning, networking, and scaling your affiliate and performance marketing success.
 
 <a id="event-f9842414b1d3da51"></a>
 
@@ -3228,6 +4108,68 @@ Standard, Business and VIP passes have different inclusions. Compare the officia
 
 This listing reflects the organizer's published information for Global Trading Show 2026 on Dec 10 - 11, 2026 in Abu Dhabi, UAE. Register and confirm ticket inclusions on the official event page.
 
+<a id="event-da087f5dc498e9bb"></a>
+
+## Private Wealth and Funds Forum 2026
+
+- Record: `coinpedia-private-wealth-funds-forum`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-10T08:30:00.000Z
+- Description: Source-backed
+- Original page: <https://www.qubevents.com/privatewealthandfunds>
+
+### About the event
+
+The Private Wealth and Funds Forum 2026 is a high‑level global finance event, held on 10th December 2026, Abu Dhabi, UAE. The Private Wealth and Funds Forum 2026 is a high‑level international finance event, held on 10th December 2026, Abu Dhabi, UAE. The discussion board specializes in the state-of-the-art traits and challenges in wealth and fund management, which include portfolio resilience, opportunity investments, property planning and succession, virtual transformation in wealth offerings, and governance throughout jurisdictions.
+
+Through a mixture of keynote speeches, panel discussions, and curated networking classes, senior selection‑makers discover rising investment techniques, risk management techniques, and innovative solutions such as AI and tokenisation to assist grow, hold, and transfer wealth throughout generations.
+
+The event affords an one of a one-of-a-kind environment for forging global partnerships, gaining actionable insights, and connecting with key stakeholders shaping the future of private wealth and fund ecosystems. Organized By Qube Events is an evolving event organizer focused on providing authentic platforms for business leaders, innovators, and investors to connect, collaborate, and grow. Event Highlights Exclusive forum for private wealth managers, fund managers, and family offices. Keynotes, panels, and networking with global decision-makers. Focus on investment trends, digital transformation, and wealth preservation.
+
+Why Attend Learn the latest trends in wealth management and alternative investments. Hear insights from top industry experts. Build high-value professional connections. Benefits Gain knowledge on market strategies and regulatory updates. Network with senior executives and potential clients. Explore investment opportunities and emerging tech in finance. Agenda Morning: Keynotes and panels on portfolio strategies and AI in wealth management. Midday: Discussions on estate planning, tax, and family office models. Afternoon: Panels on digital assets, insurance, and portfolio diversification. Closing: Networking and drinks reception.
+
+The Private Wealth and Funds Forum 2026 wraps up as a key platform for insights, innovation, and networking in wealth management.
+
+<a id="event-8cad028e59f54c55"></a>
+
+## Crypto Mining Guild 2026
+
+- Record: `coinpedia-crypto-mining-guild`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-10T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.cryptominingguild.com/>
+
+### About the event
+
+Attend the Crypto Mining Guild 2026 on 10 December 2026 in Abu Dhabi, UAE. This one-day side event of the Global Blockchain Show focuses on the infrastructure, energy, and technology that keep blockchain networks running effectively. From AI-powered optimization and data center innovations to sustainable mining methods, attendees will gain practical skills, unlock new opportunities, and build connections with web3 experts. Organized By VAP Group is a dedicated platform that brings together blockchain infrastructure leaders, mining experts, technology innovators, and investors to foster meaningful collaboration, technical learning, and sustainable growth. What to Expect?
+
+Expert-led sessions on mining efficiency, regulatory developments, sustainability, and the future of decentralized infrastructure. Technical insights into green mining, AI-powered optimization, advanced data centers, and next-generation mining technologies. Meaningful networking with crypto mining firms, hardware providers, blockchain innovators, founders, investors, and Web3 developers. Ecosystem showcases featuring emerging blockchain projects, infrastructure innovations, and practical solutions. Why Crypto Mining Guild 2026? Gain practical insights into sustainable and energy-efficient crypto mining. Discover emerging blockchain infrastructure projects and ecosystem trends.
+
+Build meaningful connections with global founders, investors, and technical experts. Learn from real-world case studies focused on scalable Web3 infrastructure. Don't miss Crypto Mining Guild 2026 to share information, work together, and engage in high-value networking with the innovators shaping blockchain infrastructure, crypto mining, and decentralized technology.
+
+<a id="event-006588802d87b484"></a>
+
+## Tech X Summit Global 2026
+
+- Record: `coinpedia-tech-x-summit-global`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-10T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.techxsummitglobal.com/>
+
+### About the event
+
+Get ready to attend the Tech X Summit Global 2026 on 10 December 2026 at Marina Bay Sands Expo & Convention Centre, Singapore. This technology conference will bring together industry leaders, entrepreneurs, investors, startup founders, and technology leaders to discuss the future of digital innovation. The summit will focus on AI, FinTech, Cybersecurity, Robotics, and Cloud Computing, new opportunities, sharing expertise, and significant business partnerships. Organised By Tech X Summit is a technology event organizer that connects global innovators, business leaders, and professionals to share insights, encourage collaboration, technological progress.
+
+Event Highlights Latest developments in AI, FinTech, Robotics, Cybersecurity, and Cloud Computing Keynote sessions, interactive panels, and industry conversations Connect with technology leaders, investors, entrepreneurs, and decision-makers Innovative solutions, business ideas, and potential investment opportunities Speaking, sponsorship, exhibition, and award opportunities Why Attend Tech X Summit Global 2026?
+
+Learn technology trends and their impact on businesses Connect with industry leaders and potential business partners Discover investment opportunities and innovative startup solutions Gain practical insights from experienced professionals and technology experts Build valuable relationships that can support business growth and digital transformation What to Expect?
+
+Engaging keynote presentations and expert-led panel discussions Workshops and technology demonstrations Insights into AI-driven solutions and the future of digital business Connect with investors, founders, and technology professionals Networking experiences to encourage collaboration and innovation Featured Speakers Anmol Goel: CEO and Investor at GACS Family Office, Arya VC, and Gacsym Ventures, and an advisor. Aaron Su: Head of Marketing, Asia, at IMD. Jonathan Chew: Founder of AI Minimalist and Chief AI Officer of BrandRev.ai. Ms. Suchi: CEO of Hal Glow-Bal's Pte Ltd. Aaron Zalv: Founder of Lleumeria and AIVA.
+
+Participate in the Tech X Summit Global 2026 in Singapore to shape the future of technology, AI innovation, and the global digital economy.
+
 <a id="event-b3688887bea35093"></a>
 
 ## Messari Mainnet 2026
@@ -3239,6 +4181,292 @@ This listing reflects the organizer's published information for Global Trading S
 - Original page: <https://mainnet.events>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-98f1357a7b996d6c"></a>
+
+## COLOMBIA BLOCKCHAIN WEEK 2026
+
+- Record: `coinpedia-colombia-blockchain-week`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-11T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://colombiablockchainweek.com/>
+
+### About the event
+
+Have a great chance to attend COLOMBIA BLOCKCHAIN WEEK 2026, taking place on 11-12 December 2026 in Medell&iacute;n, Colombia, with the InterContinental Hotel serving as the event headquarters. The two-day gathering will bring together crypto enthusiasts, blockchain professionals, investors, traders, fintech companies, and Web3 innovators. The programme includes a private welcome drink on December 11, followed by the main conference day on December 12. Organised By LATAM Blockchain Events LLC is a US-registered event production company that focuses on Latin American financial markets, blockchain, cryptocurrency, and trade events.
+
+It connects key local markets with foreign companies, exchanges, brokers, investors, and industry leaders. Event Highlights 50+ Industry Speakers 4,000+ Attendees 30+ Sponsors 100+ Alliances Multiple Networking Environments Exclusive Welcome Drink Why Attend Colombia Blockchain Week 2026? Meet crypto founders, investors, traders, fintech professionals, and potential business partners. Gain practical knowledge about blockchain adoption, cryptocurrency trading, digital assets, and financial markets. Explore innovative platforms, products, services, and potential partnerships. Learn about tokenization, stablecoins, DeFi, artificial intelligence, and Web3 developments.
+
+Connect with international companies and professionals interested in the growing Latin American blockchain market.
+
+Confirmed Speakers Daniel Acosta - Director Regional - Am&eacute;rica Latina, Binance Pedro Gutierrez - Senior BD Strategic Markets - LATAM, KX Leonardo Fiorenza - Marketing Manager, Bybit LATAM Pedro Rojas - P2P Operation Manager - LATAM, MEXC Lesme Hernandez - Regional Brand Manager LATAM, BingX Main Event Topics The conference will explore 10 important areas shaping the future of blockchain and digital finance: Blockchain, Bitcoin, Cryptocurrencies and TradFi Forex, Investments and Financial Markets Cryptocurrency Exchanges and Brokers Digital Assets, Stablecoins, OTC, P2P, Liquidity, Wallets and Digital Payments Tokenization, Real-World Assets (RWA), Web3, Fintech and Startups Custody, Institutional Services and B2B Solutions DeFi, Regulation and Legal Frameworks in Latin America Financial Education and Web3 Artificial Intelligence and Emerging Technologies Security, Compliance and Blockchain Analytics Don't miss the Colombia Blockchain Week 2026 in Medell&iacute;n and connect with the people, ideas, and opportunities driving the future of blockchain, cryptocurrency, and Web3 in Latin America.
+
+Be part of the conversations to shape the future of the digital economy.
+
+<a id="event-6c560c2d5caa5018"></a>
+
+## Crypto Polo Cup 2026
+
+- Record: `coinpedia-crypto-polo-cup`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-11T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.cryptopolocup.com/>
+
+### About the event
+
+Get ready to attend Crypto Polo Cup 2026, which will take place on December 11, 2026, at Al Habtoor Polo Resort in Dubai, UAE.
+
+The event brings together people from the cryptocurrency, blockchain, investment, and emerging technology sectors for a day of professional polo and networking.
+
+The event gives a chance for people who work in the industry investors, entrepreneurs and technology leaders to meet each other in a place that is not like regular business conferences. Organised By The Crypto Polo Cup, powered by Luna Media Corp and connected to Luna PR is a top-tier event that brings together web3 innovation and luxury sports. It is a leading networking space where global blockchain founders, investors and digital asset leaders come together at high-level polo matches.
+
+This event connects people from across the world in a setting that blends sport with cutting-edge technology. Event Highlights Professional Polo: Get into the spirit of the polo game at an event that bridges the crypto and technology worlds. Networking within industry: Meet and engage with professionals from the world's of cryptocurrency, blockchain, investments and technologies. Business connections: Meet entrepreneurs, investors and businessmen.build partnerships, along with sharing ideas and open up new avenues for business. Private Event: A Networking gathering will be held at the Al Habtoor Polo Resort, Dubai. Why Attend Crypto Polo Cup 2026?
+
+Crypto Polo Cup provides an alternative venue for individuals working within the digital asset field to network and develop professional connections. In contrast to a regular conference, Crypto Polo Cup combines polo and networking activities at a resort. Participants will be able to use the conference for networking and making business connections in the field of cryptocurrency and innovation. The main purpose of the conference is polo and networking. Participants will be given an opportunity to network with experts from the industry informally. Key Figures 1. Charles Hoskinson, co-founder of Ethereum 2. Rachel Conlan, Global Chief Marketing Officer of Binance 3.
+
+Tristan Thompson, NBA champion 4. Yana Prikhodchenko, CEO -Cointelegraph Global Tickets and Registration Crypto Polo Cup is described as an invitation-only event. Don't Miss This Opportunity.Crypto Polo Cup 2026 will see attendees from the crypto, blockchain, investment, and innovative technology sectors gather on December 11, 2026, at Al Habtoor Polo Resort, Dubai. Focusing on polo and networking, this event presents participants with the chance to forge relationships outside the traditional conference setting.
+
+<a id="event-bff600caa9852511"></a>
+
+## Money Alpha 360 2026
+
+- Record: `coinpedia-money-alpha-360`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-17T20:18:00.000Z
+- Description: Source-backed
+- Original page: <https://moneyalpha360.com/main/>
+
+### About the event
+
+Attend the Money Alpha 360 2026, a comprehensive finance and innovation summit, held from 17th to 19th December 2026, in Delhi, India.
+
+This event unites leaders from across the financial atmospher including fintech, wealth management, digital assets, AI-pushed finance, and investment sectors at the India Expo Centre and Mart in Greater Noida, Delhi/NCR.
+
+The event blends big-scale exhibitions, multi-music conferences, live product demos, investor and VC networking hubs, startup innovation zones, and an awards night to understand industry excellence. It's designed to drive business growth, foster partnerships, exhibit cutting-edge financial technologies, and spark meaningful conversations on the future of money, markets, and generations. Organized By India Expo Centre and Mart is considered one of India's main exhibition and conference venues. It is a world-class integrated exhibition and convention centre located in Greater Noida, Uttar Pradesh.
+
+Event Highlights Connect with 100+ exhibitors Engage with 12000+ industry visitors Get a live technology demonstration Connect with investors and business tycoons in the Networking zone Take part in product talks and demo sessions MSME/Startup Pavilion - Innovation Spotlight Alpha Themes: AI impact on Fintech, WealthTech, InvestTech, CryptoTech How Money Alpha 360&deg; Stands Apart? Unified Financial Ecosystem: FinTech, banking, wealth, insurance, digital assets, and investors in one place. Beyond Traditional Events: Multiple finance sectors combined under one platform. Future-Ready Focus: Insights into next-gen financial innovations.
+
+360&deg; Industry View: Technology, markets, regulation, and assets together. Collaboration Platform: Connects leaders, innovators, and investors. Focus Area FinTech. Wealth Tech. Invest Tech. Digital Assets. Blockchain. AI. Deep Tech. Trading. Start-Up's. Networking & Engagement Zones Leadership Lounge. Investor and VC's Zone. Buyer-Seller Rooms. Startup Pitch Pod. Innovation Showcase. Match-making Hub. Networking Mixer. Money Alpha 360&deg; India 2026 unites finance leaders to drive innovation, collaboration, and the future of money.
+
+<a id="event-72bb164d1ff76673"></a>
+
+## XARR Untold Onchain Edition 01 premiere
+
+- Record: `coinpedia-xarr-untold-onchain-edition-01-premiere`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2026-12-22T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://xarr.io/untold>
+
+### About the event
+
+Get ready to discover inspiring stories and real journeys at XARR Untold Onchain, Edition 01, premiere on 22 December 2026, live on X Spaces. The Web3 edition of XARR Untold, a year-end storytelling series that showcases entrepreneurs and builders using blockchain technology to create real solutions, is introduced in this special premiere.
+
+The event highlights the people, issues, ideas, and successes behind onchain enterprises rather than token pricing or investment promises. Every brand has a strong story to tell. XARR Untold Onchain offers Web3 creators to share their stories and reach a larger audience, from early challenges to significant achievements. Organised By XARR is a platform for African brands and creators to thrive, assisting them with campaign activation, reach expansion, and creator payment management. Event Highlights Web3 Founder Stories Creator-Led Storytelling Onchain Proof Eight Industry Sectors Brand Visibility Why Attend XARR Untold Onchain, Edition 01 Premiere?
+
+Discover innovative African Web3 startups and blockchain projects. Learn how founders overcome challenges and solve real-world problems. Explore authentic blockchain adoption stories without price speculation. Connect with the growing Web3 creator and founder community. Gain fresh insights into the future of onchain innovation and digital businesses. Be part of a new storytelling movement that celebrates the people and ideas shaping Africa's digital future. Join XARR Untold Onchain, Edition 01, and discover inspiring Web3 stories, blockchain innovation and African startup journeys.
+
+<a id="event-68a724a980a0f6fd"></a>
+
+## PEER Summit 2027
+
+- Record: `coinpedia-peer-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-08T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://peersummit.co/>
+
+### About the event
+
+Attend the 9th Annual PEER Summit 2027, from January 8-10, 2027, at Sundance Resort, Utah, USA. This exclusive, invite-only retreat brings together visionary leaders, entrepreneurs, founders, authors, artists, and change-makers to explore the future of blockchain, artificial intelligence, and decentralized technology. The summit, which is set against Sundance's beautiful mountain backdrop, offers a special blend of outdoor adventures, significant networking, and thought-provoking conversations. Organized By PEER VC is an early-stage venture capital firm. It invests in blockchain, Web3 infrastructure, decentralized assets, and AI-driven companies shaping the next generation of technology.
+
+Event Highlights Curated Leadership Conversations Exclusive Networking Innovation and Research Mountain and Snow Activities Social and Culinary Experiences Why Attend PEER Summit 2027?
+
+Meet an exclusive community of blockchain, Web3, and AI professionals Discover fresh perspectives on decentralized innovation and emerging technologies Build valuable relationships with founders, investors, and decision-makers Explore collaboration opportunities across business, research, and social impact Enjoy a unique combination of professional discussions, wellness, and mountain activities Don't miss PEER Summit 2027 and experience a unique blend of innovation, collaboration, and mountain activities, and connect with the people shaping the future of blockchain and AI.
+
+<a id="event-55366949b7b749ec"></a>
+
+## BitcoinDay Naples 2027
+
+- Record: `coinpedia-bitcoinday-naples`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-16T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://bitcoinday.io/>
+
+### About the event
+
+Have a great chance to attend the BitcoinDay Naples 2027 on 16th January 2027 at the Naples Beach Club, A Four Seasons Resort, Naples, USA. This exclusive Bitcoin conference offers learning, networking, and meaningful discussions, designed for investors, entrepreneurs, developers, and Bitcoin enthusiasts.
+
+The event offers a unique opportunity to explore Bitcoin adoption, blockchain innovation, crypto investing, digital assets, decentralized finance, and the future of financial technology. Organized By Bitcoin Day is an event organizer for educational Bitcoin events in the United States, connecting beginners, developers, investors, and industry experts through learning experiences and networking opportunities. Event Highlights Premium one-day Bitcoin conference in a luxury beachfront venue. Inspirational keynote speeches from renowned Bitcoin leaders worldwide. Networking with about 200 attendees who have been carefully selected.
+
+Expert talks about acceptance, infrastructure, mining, and strategy for Bitcoin. Meaningful discussions about cooperation, investment, and Bitcoin innovation. Why Attend BitcoinDay Naples 2027? Learn from Experts - Gain practical insights from respected Bitcoin leaders. Discover Market Trends - Understand Bitcoin's evolving global ecosystem confidently. Experience Premium Networking - Connect in an exclusive luxury conference environment.
+
+Featured Speakers Lawrence Lepard - Author, The Big Print Bob Burnett - Barefoot Mining Nico Moran - Simply Bitcoin Himanshu Sahay - Arch Lending Don't miss BitcoinDay Naples 2027 - the most exclusive Bitcoin networking event to discover market insights, build useful connections, and shape the future of Bitcoin, blockchain innovation, and digital finance.
+
+<a id="event-32bb0099d01e4bc3"></a>
+
+## Digital Asset Yield Summit Zurich 2027
+
+- Record: `coinpedia-digital-asset-yield-summit-zurich`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-18T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://daysevent.com/>
+
+### About the event
+
+Be prepared for the Digital Asset Yield Summit Zurich 2027, which will take place on January 18, 2027, in Zurich, Switzerland.
+
+This event aims to bring together institutional investors, financial industry participants, asset managers, and digital asset companies that are interested in the development of financial instruments based on blockchain technology. Organised By Staking Rewards is a platform and data provider focused on the staking ecosystem within the Crypto and Blockchain industry. Founded in 2018, it provides detailed information, analytics, and research on Proof-of-Stake (PoS) networks and staking opportunities. Event Highlights Digital Asset Yield: Learn Strategies to generate yield from digital assets Staking Opportunities: Discuss staking for institutional investors.
+
+DeFi : Understand how DeFi products have inter-relatedness with the traditional financial market. Stablecoins & tokenisation: Understand current trends in digital currency and tokenised assets. Network building: Create networks of investors, financial institutions and digital asset firms. Why Attend Digital Asset Yield Summit Zurich 2027? The conference is pertinent for professionals who are researching the role of digital assets in investments. This conference will allow investors and asset managers to discuss their views regarding yield prospects. Financial institutions will get an opportunity to understand staking, DeFi, and tokenized financial products.
+
+The curation of the conference will allow networking among capital providers and digital asset companies. Agenda Highlights Yield generation for digital assets and investment techniques. Institutional staking options. Stablecoins and decentralized finance. Tokenisation and on-chain finance. Regulatory issues of digital assets and institutional participation. Discover the new world of institutional investments in digital assets in Zurich. Do not miss Digital Asset Yield Summit Zurich 2027 - meet the movers and shakers behind on-chain finance!
+
+<a id="event-67c457ce1e9fc8fc"></a>
+
+## WEB3 HUB DAVOS 2027
+
+- Record: `coinpedia-web3-hub-davos`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-18T13:38:00.000Z
+- Description: Source-backed
+- Original page: <https://web3hubdavos.com/#what-is-the-web3-hub-davos>
+
+### About the event
+
+Participate in the WEB3 HUB DAVOS 2027, held from 18th to 21st January 2027, in Davos, Switzerland. It serves as a leading platform for exploring the latest in decentralized technology, bringing together visionary entrepreneurs, investors, policymakers, and global leaders to discuss innovation in Web3, blockchain, AI, digital assets, and fintech.
+
+The program features thought‑provoking keynotes, panel discussions, and curated networking opportunities designed to foster insight and collaboration among industry decision‑makers, with a focus on transformative technologies and the future of the decentralized economy Organized By Crypto Valley Labs (CV Labs) is an event organizer, blockchain accelerator, and co-working environment that promotes creativity, collaboration, and advancement in the blockchain field. Event Highlights Thought-provoking content. Dynamic networking opportunities. Invaluable learning experiences. What is the Web3 Hub Davos?
+
+Web3 Hub Davos is the premier venue for the latest developments and insights in the decentralized world. Takes place during one of the most important weeks in global affairs. Five days of thought-provoking content, dynamic networking, and invaluable learning opportunities. Why Join? Web3 Hub Davos is for leaders, visionary entrepreneurs, investors, and decision-makers. Helps attendees understand and shape emerging technologies. Features exclusive, invite-only sessions. Offers curated networking experiences. Enables the exchange of insights and engagement with innovations, driving digital transformation. Who is Attending? Executives from global financial institutions and other industries.
+
+Blockchain founders and other new tech innovators. Institutional investors and VCs. Policymakers, academics, and regulators. What to Expect Attendees can join keynotes and panel discussions. Opportunities to network with industry leaders. Focus on Web3, blockchain, AI, and FinTech. Exploring the transformative impact on the future of innovation. Web3 Hub Davos 2027 is a top Swiss event where global leaders and innovators explore the future of Web3, blockchain, AI, and digital assets.
+
+<a id="event-24bdde25721e03d9"></a>
+
+## Pyth at Davos Finance Elevated
+
+- Record: `coinpedia-pyth-davos-finance-elevated`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-20T14:00:00.000Z
+- Description: Source-backed
+- Original page: <https://luma.com/pyth-a5m7>
+
+### About the event
+
+Attend the Pyth at Davos: Finance, Elevated, on January 20, 2027, in Davos, Switzerland, to experience an exclusive afternoon of luxury, networking and fresh financial insights. This invitation-only event will bring together top CEOs, investors, financial experts, and senior decision-makers in a private mountain location during World Economic Forum (WEF) week. With beautiful views of the Alps, first-rate hospitality, live music, and insightful discussions, the event provides a rare chance to meet the people influencing the direction of international banking.
+
+Organized By Pyth provides real-time financial market data across multiple asset classes, sourced directly from institutional publishers and delivered through a single API. Event Highlights Exclusive networking with finance leaders, CEOs and global investors Private mountain terrace featuring panoramic views of Davos Live music followed by an exciting DJ performance Special announcement from Pyth during the afternoon Premium hospitality and meaningful conversations in an elegant setting Why Attend Pyth at Davos: Finance, Elevated? Make connections with powerful figures in market infrastructure and international finance. During WEF week, cultivate important business connections.
+
+Examine novel concepts influencing digital finance and financial markets. Take advantage of a unique networking opportunity away from the hectic convention circuit. Be one of the first to learn about a significant news from Pyth. Participate in this unique event to network, share ideas, and find new chances influencing the direction of global market infrastructure, financial technology, and finance.
+
+<a id="event-2c4bb412dcd9159c"></a>
+
+## BII Connect Tech UAE Edition
+
+- Record: `coinpedia-bii-connect-tech-uae-edition`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-21T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://biiconnect.us/>
+
+### About the event
+
+Mark your calendar for BII Connect Tech - UAE Edition on 21 January 2027 in Dubai, UAE. This technology summit brings together CIOs, CISOs, CTOs, digital transformation leaders, and procurement executives for a day focused on business results. Unlike traditional networking events, BII Connect Tech uses AI-powered matchmaking and pre-scheduled meetings to connect technology providers with verified enterprise buyers actively exploring new solutions. Organized By BII Global is an international business events organizer that creates high-impact networking platforms, connecting enterprise leaders, innovators, investors, and technology providers through business meetings and conferences.
+
+Event Highlights 150+ enterprise and government leaders 40+ global speakers 300+ curated B2B meetings Representation from BFSI, government, healthcare, manufacturing, retail, logistics, energy, and FMCG sectors. Why Attend BII Connect Tech - UAE Edition? Meet decision-makers actively evaluating technology investments. Build valuable partnerships through 20-minute pre-scheduled business meetings. Discover enterprise solutions shaping digital transformation across the UAE and beyond. Learn from real-world case studies presented by industry experts. Network with influential leaders, innovators, and strategic partners. Who Will You Meet Here?
+
+Enterprise Decision-Makers: CIOs, CTOs, CISOs, and procurement leaders. Technology Leaders: Experts driving AI, cloud, cybersecurity, and digital transformation. Government Representatives: Ministries, smart city leaders, and public sector innovators. Industry Executives: Leaders from banking, healthcare, manufacturing, logistics, retail, and energy. Featured Speakers Binoo Joseph - Chief Digital Officer, Cenomi Centers Dr. Hussein Salloum - VP Operations, Al Ghurair Krishnan Gopi - Chief Transformation Officer, Apparel Group Sri Lakshmi - Group Chief Information Officer, Switz Group Dr.
+
+Jassim Al Awadhi - Executive Director, Enterprise Platforms, Emirates NBD Don't miss the BII Connect Tech - UAE Edition 2027, where conversations become collaborations and enterprise technology partnerships create lasting business impact in Dubai's innovation industry.
+
+<a id="event-2c107a955189d8e5"></a>
+
+## Financial Club Retreat 2027
+
+- Record: `coinpedia-financial-club-retreat`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-25T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://financialclub.com/retreats>
+
+### About the event
+
+Attend the Financial Club Retreat 2027 on January 25, 2027, in San Francisco, California. 175 key leaders from fintech, banking, digital assets, artificial intelligence, financial infrastructure, investment, policy, risk, and compliance will attend this exclusive event. Designed as a private, relationship-focused retreat, it provides an ideal platform for idea sharing, market research, and the development of strong business relationships. Organized By The Financial Club is a professional network connecting leaders from the financial and technology sectors through industry gatherings, knowledge sharing, and meaningful business collaboration.
+
+Event Highlights Networking with 175 senior leaders Expert briefing discussions about the future of finance and technology. Focused Roundtables under the Chatham House Rule. Industry Hot Seat, a 45-minute panel and open Q&A Exclusive Format and traditional conference sessions Why Attend the Financial Club Retreat?
+
+Connect with influential leaders across the financial ecosystem Understand emerging trends in fintech, AI, digital assets, and financial infrastructure Exchange practical ideas and experiences with industry experts Explore potential partnerships, investment opportunities, and business collaborations Gain fresh perspectives through open discussions and senior-level insights 2027 Guests Include Gavin Michael - CEO, Varo Bank Dan Roesberry - Vice President, Global Onchain Partnerships & GTM, Visa Minakshi Yerra - Global Chief Compliance Officer, Corpay Ravi Adusumilli - CRO, Money Management, Stripe Leigh Amaro - CEO Americas, Swift Don't miss The Financial Club Retreat 2027, a valuable fintech networking event for leaders looking to build connections, share insights, and explore the future of finance.
+
+<a id="event-59c5311bfa74cc72"></a>
+
+## Global Software Testing Awards
+
+- Record: `coinpedia-global-software-testing-awards`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-25T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://globalsoftwaretestingawards.com/global-awards/>
+
+### About the event
+
+Join the Global Software Testing Awards, held on 25th January 2027, in Las Vegas, US. It's a major international awards programme celebrating excellence, innovation, and leadership in the field of software testing and quality engineering. Organised by Test Associates, the event brings together top companies, teams, and individuals from around the world to recognise outstanding achievements across numerous categories-such as best agile project, innovative use of technology, test automation success, diversity and inclusion, and team or leader of the year.
+
+Participants submit entries that are evaluated by an expert judging panel based on strict criteria, and finalists and winners are announced annually, highlighting the best practices and most impactful contributions in the software testing industry. In addition to regional events like the European, North American, and Asia Pacific Software Testing Awards, the Global Awards aim to unite the highest‑scoring finalists on an international stage, offering networking opportunities and industry recognition for quality engineering excellence.
+
+Organized By Test Associates hosts the event to bring together software testing, quality assurance, and quality engineering professionals to discuss emerging tools, technologies, and best practices in the testing industry. Event Highlights Global Software Testing Awards honours the best in software testing and quality engineering worldwide. Entry is reserved for finalists and winners of regional awards in the last 24 months. It is the largest and most prestigious global recognition event in its field.
+
+The event gathers senior leaders, innovative companies, and creative minds. Hundreds of contenders will compete across 13 categories. The ultimate prize is the Global Software Testing Award.
+
+Key Dates 2nd March 2026 - Entries Open 29th May 2026 - End of exclusive launch offer 25th January 2027 - Final day to submit ALL projects 30th January 2027 - ALL projects SENT to judges 7th Febuary 2027 - Judges review shortlist 8th Febuary 2027 - Finalists are announced from the shortlist 18th March 2027 - Final day to book tables 7th April 2027 - Inaugural Global Software Testing Awards 2027 Event Agenda Drinks and Networking Call for Seating Welcome Speech Speech from the chair of the judging panel First half of awards Three-course meal, followed by coffee & petit fours Second half of the awards Drinks, Networking, and DJ Close Judging Panel Abhishek Vijayvargiya - Vice President of Quality Engineering Ganesh Practoor - Head of Quality Engineering and Testing CoE Joanna Loeffler - Director of Software Quality Engineering Chethan Jayadev - Associate Vice President Michelle Christmas - Senior Quality Engineering Leader The Global Software Testing Awards 2027 honour top software testing talent worldwide, celebrating excellence, innovation, and leadership in quality engineering.
+
+<a id="event-5a3c9896e32b3c1b"></a>
+
+## Satoshi Roundtable 2027
+
+- Record: `coinpedia-satoshi-roundtable`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-25T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://satoshiroundtable.org/>
+
+### About the event
+
+Attend the Satoshi Roundtable 2027, held from 25th -28th January, in Puerto Rico. It's an annual, highly exclusive, invitation‑only fintech and Bitcoin industry event that brings together leading developers, founders, CEOs, investors, academics, and other top thinkers in the blockchain and digital asset space for in‑depth discussion and collaboration. It's held at a private resort or secure venue with a full hotel buy‑out to ensure privacy, security, and a focused environment.
+
+Unlike conventional meetings, it follows an unconference format where contributors help shape the timetable, and there may be no press, no media, and no sales pitches, taking into account off‑the‑document conversations, networking, and meaningful communication. Spanning numerous days, the event mixes dependent periods with informal breakouts, strategic conversations, and social activities, all geared toward fostering collaboration, getting to know, and high‑degree relationships, constructing the various people shaping the destiny of Bitcoin and decentralized technologies.
+
+Organized By The Satoshi Roundtable is a C-level gathering that also plays the role of event organizer, which focuses on uniting impactful people in blockchain technology. What is the Roundtable? Limited length to consist of the main enterprise participants. Meals, activities, and intensive communication in an all-inclusive lodge No press. No media. Not a single pitch. Every conversation is personal. Networking, relaxation, and enjoyment. Organic, decentralized agenda established by you, the participants. Event Structure Unique, interactive, organic, decentralized discussion format. Combines formal and informal sessions. Uses unconference style and decentralized learning.
+
+Benefits Supports private meetings, breakaway periods, and facet discussions Leverages the diverse know-how and experience of attendees The Satoshi Roundtable 2027 in Puerto Rico is an exclusive, off-the-record event for top Bitcoin and blockchain innovators to network, collaborate, and share insights.
+
+<a id="event-bfc6b2905b99a38b"></a>
+
+## Web Summit Qatar 2027
+
+- Record: `coinpedia-web-summit-qatar`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-01-31T18:25:00.000Z
+- Description: Source-backed
+- Original page: <https://qatar.websummit.com/>
+
+### About the event
+
+Join the Web Summit Qatar 2027, held from January 31st to Febuary 3rd, 2027, in Qatar. Is a major global technology conference held yearly in Doha that brings collectively thousands of entrepreneurs, startups, buyers, tech leaders, and policymakers from around the arena.
+
+The event makes a speciality of the modern traits in regions including artificial intelligence, startups, virtual innovation, task capital, and emerging technologies. With huge-scale exhibitions, keynote talks, panel discussions, and networking possibilities, Web Summit Qatar presents a platform for innovators and groups to exhibit thoughts, construct partnerships, appeal to investment, and discover the traits shaping the future of the global technology environment. Organized By Web Summit is a web3 event organizer that provides a platform to host global events. Renowned for managing the world's leading tech conference.
+
+Event Highlights Web Summit Qatar Meetups help attendees connect with the right people. AI-powered matchmaking connects participants based on shared interests, industries, and goals.
+
+The event hosts 30,000+ attendees, creating large networking opportunities. Networking continues beyond daily sessions. Night Summit offers exclusive evening events for attendees. Held at DECC Park, providing a relaxed networking environment. Attendees can experience Qatar's culture while networking. Night Summit access is included with the Web Summit Qatar ticket. Why Attend?
+
+Connect with expert leads and future-focused people Find your people with the same interests Learn about the future aspects Explore content tracks Close your deals Find Your Community Meet your peers Meaningful connections AI-powered meetups Night Summit Doha offers natural beauty, historic architecture, and a modern cityscape. A great environment for networking and connection. Known for its exceptional hospitality. Held every night from 6:00 PM to 10:00 PM. Included with a Web Summit Qatar ticket.
+
+What to Expect at Night Summit Everywhere you go, it's buzzing, and it's electric Best tech conference on earth Deals get done Content Tracks AI summit: Designing intelligence, disrupting society Fintech summit: Digital payments, scaling, regulation Marketing summit: Data-driven and personal marketing New energy summit: Navigating transition in a divided world New venture summit: Less in more and AI reigns supreme Corporate innovation summit: Rapid technological advancement New media summit: Where culture, content, and technology collide Machine summit: The hard things about hardtech Sport summit: The new playbook for elite sport Experience summit: The stage is yours, get involved Government summit: Politics, innovation, regulation Growth summit: Leadership, growth, resilience Startup university: Funding, scalability, longevity Health summit: Innovations shaping tomorrow's care Web Summit Qatar 2027 concludes as a global tech event where startups, investors, and innovators connect to explore emerging technologies and shape the digital future.
 
 <a id="event-2e48a53a0f4ca41f"></a>
 
@@ -3264,6 +4492,351 @@ Consensus Hong Kong unites senior executives, institutional investors, protocol 
 - **AI & the Agentic Economy:** Autonomous economic agents, decentralized AI model training, and compute verification.
 - **RWA Tokenization:** Bringing government bonds, private credit, and commercial real estate on-chain.
 - **Asian Regulatory Regimes:** Licensing frameworks and cross-border stablecoin corridors across Hong Kong, Singapore, and Tokyo.
+
+<a id="event-9b03be9ad85fefee"></a>
+
+## BiG Africa Summit 2027
+
+- Record: `coinpedia-big-africa-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-01T17:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.bigafricasummit.com/big-africa-summit>
+
+### About the event
+
+Celebrating its 13th Annual Edition BiG Africa Summit 2027, from 1-4 February 2027 in Gaborone, Botswana, to discover the future of gaming. This leading iGaming event brings together industry professionals, business leaders, gaming operators, investors, and technology providers from across Africa and worldwide. The summit offers an important forum for discussing the expansion of legal online gaming and sports betting throughout the African continent due to its 10+ years of industry experience. Organised By Eventus International is a worldwide event and expo organizer that connects professionals in the industry through innovative conferences, business networking, and knowledge sharing.
+
+Event Highlights 13th Annual Edition: Celebrate over a decade of supporting and developing Africa's iGaming industry Industry Insights: Explore the latest trends in online gaming, sports betting, and remote gaming regulations Expert Connections: Meet leading gaming professionals, decision-makers, and international delegates Business Innovation: Discover new gaming technologies, payment solutions, and software platforms Why Attend BiG Africa Summit 2027? 1. Gain valuable knowledge from experienced iGaming leaders and industry experts 2. Understand Africa's changing gaming market, business opportunities, and regulatory landscape 3. Connect with existing and potential business partners 4.
+
+Explore innovative gaming technologies, payment systems, and software solutions 5. Meet C-level executives and decision-makers at a focused industry networking event Participate in the discussions influencing iGaming, online gambling, and gaming technology in Africa by attending the BiG Africa Summit 2027.
+
+<a id="event-e36e8609317353bb"></a>
+
+## Fintech Revolution Summit Bahrain 2027
+
+- Record: `coinpedia-fintech-revolution-summit-bahrain`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-03T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://fintechrevolutionseries.com/bahrain/>
+
+### About the event
+
+Attend the Fintech Revolution Summit Bahrain 2027 on 3 February 2027 in Manama, Bahrain, to explore Financial Innovation, Digital Transformation, and Growth in Bahrain's BFSI Future.
+
+This event will gather banking leaders, fintech innovators, technology providers, investors, and financial decision-makers to explore the future of financial services. Focusing on digital transformation, safe payments, modern banking, and AI, the conference will help companies find new approaches and partnerships. Organised By TraiCon India is an international event management company that hosts B2B events and training. They help different industries reach the right audience and scale opportunities. TraiCon focuses on maximising return on investment and fostering.
+
+Event Highlights and Features 300+ Pre-Screened Decision-Makers Pre-Scheduled Business Meetings Expert Sessions and Panels Product Showcase FT Leaders Awards and Gala Night Why Attend the Fintech Revolution Summit Bahrain 2027? Networking with banking leaders, fintech founders, investors, and technology experts Generate Business Leads and discover clients and new business opportunities Build strategic partnerships and encourage collaboration Gain brand visibility through speaking opportunities and product shows Learn about how AI, automation, cybersecurity, and digital finance are changing banking Agenda Highlights Registration, coffee, and networking. Inauguration and opening performance.
+
+Singapore's financial future and intelligent finance. AI-powered banking and intelligent digital services. The next generation of digital payments and interoperability. Agentic AI, open finance, and embedded finance. Core banking modernisation, cloud infrastructure, and AI-driven credit decisions. Evening FT Leaders Awards and Gala Dinner, celebrating financial technology excellence.
+
+Key Themes AI in Finance and Banking Core Banking Modernisation Digital Payments and Cross-Border Remittances Open Banking and Embedded Finance KYC, AML, Risk Management, and Fraud Prevention Cybersecurity, Cloud, APIs, and Data Infrastructure Digital Lending, WealthTech, and RegTech Be part of this fintech event to connect, showcase, and collaborate with industry leaders, driving innovation and growth in Bahrain's fintech industry.
+
+<a id="event-c34084c0d4e34f1b"></a>
+
+## Step Dubai 2027
+
+- Record: `coinpedia-step-dubai`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-03T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://stepconference.com/dubai/2027>
+
+### About the event
+
+Explore new business opportunities at Step Dubai 2027, from February 3-4, 2027, at Dubai Internet City, Dubai, UAE. More than 8,000 founders, investors, technology experts, and entrepreneurs from the UAE, the global MENA region, and throughout the world will attend this two-day technology and startup conference. With 200+ speakers, 300 startups, investor meetings, and exciting networking opportunities, the event will offer a platform to learn about new technologies, build partnerships, and explore the future of business. It focuses on bringing together investors, reputable companies, and industry experts with the startup community.
+
+In addition, it holds events in other places, such as San Francisco. Organized By Step Conference is a media and event platform that hosts startup and technology conferences in the Middle East and worldwide. It shares the latest developments in technology and business while connecting entrepreneurs, investors, and tech experts through its events and Stepfeed media platform.
+
+Event Highlights 200+ Industry Speakers: Experienced founders, investors and technology leaders 300 Startup Showcase: Explore new products and connect with new businesses Investor Meetings Lounge: Take part in pre-arranged one-to-one meetings Startup Pitch Competition: Watch promising entrepreneurs present their business ideas Step Week Activities: Enjoy additional meetups, networking dinners, demo nights Why Attend Step Dubai 2027? Connect with venture capitalists, angel investors and corporate investment teams. Explore developments in AI, fintech, climate technology, infrastructure and other emerging sectors.
+
+Build valuable relationships with founders, business leaders and potential partners. Discover collaborations, investment possibilities and new markets across the MENA region. Learn from experienced professionals and understand the latest startup and technology trends.
+
+Speakers The conference features experienced professionals and business leaders, including: Mohamed El Sheakh - General Manager, Middle East, North Africa and T&uuml;rkiye, Roblox Amadou Diallo - Group CEO, Aramex International LLC Dubai Basil Fateen - Head of Startups and VC, NVIDIA Aiden Blake - Head of Startup Sales EMEA, Anthropic Reim El Houni - CEO, Ti22 Films Don't miss Step Dubai 2027 to discover new ideas, build meaningful connections and explore exciting opportunities at the leading startup and technology conferences in Dubai.
+
+<a id="event-f77dca2d81b2f0ea"></a>
+
+## Digital Assets Week Dubai 2027
+
+- Record: `coinpedia-digital-assets-week-dubai`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-04T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://daweek.org/dubai/>
+
+### About the event
+
+Attend Digital Assets Week Dubai 2027 on 4 February 2027 at the Dubai Exhibition Centre, Dubai, UAE. This leading institutional conference will gather financial institutions, investors, technology providers, exchanges, and industry leaders to explore how tokenisation is transforming capital markets.
+
+The event offers insights into the future of financial services, from blockchain technology and digital assets to custody, liquidity, and regulatory developments. Organised By Juliet Summits is a B2B conference organizer that connects professionals across banking, technology, and telecommunications through industry events, expert discussions, research reports, and interviews. Event Highlights Asset Tokenisation Capital Markets Innovation Digital Asset Regulation Institutional Adoption Industry Networking Why Attend Digital Assets Week Dubai 2027?
+
+Understand the growing role of tokenisation in global financial markets Gain insights into digital asset regulations and institutional adoption Connect with financial institutions, private equity firms, and venture capital investors Explore opportunities in blockchain infrastructure, digital custody, and liquidity Build valuable business relationships through focused, in-person networking Venue Information The Dubai Exhibition Center, Boulevard 2020, Dubai South, UAE, will host the event. The site, which is close to Expo City Dubai, provides contemporary amenities, first-rate connection, metro access, and easy food alternatives.
+
+Don't miss the Digital Assets Week Dubai 2027 and discover the opportunities shaping the future of digital assets, blockchain innovation, and institutional tokenisation.
+
+<a id="event-ebd46b326ee70f93"></a>
+
+## The Sovereign Summit 2027
+
+- Record: `coinpedia-sovereign-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-04T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://thesovereignsummit.com/>
+
+### About the event
+
+The Sovereign Summit 2027 will occur between 4 - 7 February 2027 at Fontainebleau Miami Beach, Miami Beach, Florida, USA. The summit itself will occur on 5 and 6 February and will feature speakers, entrepreneurs, investors, and technology experts discussing ideas that will shape the future. The summit will have a variety of different themes, including Bitcoin and money systems, artificial intelligence, energy systems, robots, and open-source technologies, among others. The main theme of the summit will be the ways these advances could help make humanity thrive. Organised By Sovereign Summit will gather enthusiasts of Bitcoin, AI, energy, financial systems, and new technologies.
+
+The organizers want to provide an environment for attendees to learn from industry experts, share their ideas, and establish professional connections. Event Highlights Bitcoin and Finance: Learn more about Bitcoin, stablecoins, new economic conditions in the world and new ways to handle money. AI: Discover sovereign AI, open-source algorithms and the latest technologies of intelligence. New Technologies: Understand how new technologies are being developed in robotics, space, longevity, education and defence. Networking Opportunities: Connect with entrepreneurs, investors, researchers, developers and technologists.
+
+Hands‑on workshops: Hands‑on workshops and open source projects encourage people to build and share. Why Attend The Sovereign Summit 2027? Experience how innovation is shaping both the financial, tech and energy sectors at the Sovereign Summit. Gain insights into Bitcoin, AI infrastructure and innovative business ideas. Programmers and academics will also learn more about innovative technologies and open-source projects from a range of industry professionals. Through the amalgamation of conversations surrounding Bitcoin and digital currencies, AI technology, energy innovations, and financial liberation, the conference allows participants to ponder how these trends might impact the future.
+
+Agenda Highlights 1. Bitcoin & money of the future Explore the world of Bitcoin, stablecoins, currencies and how the world economy is changing. 2. AI & Open Source Explore new developments in AI, state-owned AI and open source. This will be interesting for developers, businesses and researchers. 3. Energy & Bitcoin Mining Explore how energy is being created and used in Bitcoin Mining. The discussions will give insight into the issues and opportunities related to AI and increased computing requirements. 4. Robotics, Space and New Industries This section will explore technological innovations outside of finance and AI. From robotics, space, longevity, education and defence.
+
+5. Personal Sovereignty and Technology Learn about personal sovereignty concepts, how technology can be used to gain financial freedom, open source and personal liberation.
+
+Featured Speakers Michael Saylor - Founder & Executive Chairman, Strategy Natalie Brunell - Author and Host of Coin Stories Podcast Jeff Booth - General Partner, Ego Death Capital; Author of The Price of Tomorrow Jordan Schachtel - Publisher of The Dossier; Senior Policy Adviser, Innovation Council Sam Callahan - Director of Strategy & Research, OranjeBTC Eric Yakes - Founder & Managing Partner, Epoch Ventures Terence Michael - Educator and Host, Proof of Money and Bitcoin Today Don't miss out on The Sovereign Summit 2027 to gain a new perspective, share ideas and make meaningful professional connections.
+
+<a id="event-f5c431d870367bae"></a>
+
+## DeveloperWeek
+
+- Record: `coinpedia-developerweek`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-09T12:42:00.000Z
+- Description: Source-backed
+- Original page: <https://www.developerweek.com/>
+
+### About the event
+
+Join the DeveloperWeek, held from 9th to 11th February 2027, in Santa Clara, California.
+
+This event brings together the main researchers, healthcare professionals, pharmaceutical executives, and AI innovators to explore how synthetic intelligence is reworking present-day healthcare systems. The summit specializes in real-world programs of AI and systems, gaining knowledge in areas including clinical imaging, drug discovery, scientific decision support, and personalized medication. Through keynote shows, expert panels, and networking classes, members gain insights into rising technology, ethical considerations, and realistic strategies for implementing AI in healthcare and pharmaceutical industries.
+
+The occasion serves as a collaborative platform wherein industry leaders share case research, talk about challenges, and show off modern solutions that enhance patient care, boost studies, and advance digital fitness transformation. Organized By RE&bull;WORK creates and manages international AI events that bring together researchers, industry leaders, startups, and technology professionals to discuss the latest developments and real-world applications of AI.
+
+Event Highlights Day 1 pro workshop Day 2 conference and expo Connect with 100+ sponsors and partners Gain insights from 250+ expert speakers 2000+ participating companies 115+ countries represented Tracks And Topics APIs and Microservices Blockchain and Web3 Data Engineering Dev Career Developer Experience (DX) Developer Tools DevOps Enterprise Gen AI / LLMs Technical Leadership and Management Open Source Strategy Platform Engineering Who Attends C-level executives and industry leaders AI/ML engineers and data scientists healthcare professionals and researchers innovation and technology leaders DeveloperWeek 2027 brings together developers, tech leaders, and innovators to explore emerging technologies and collaborate on the future of software development.
+
+<a id="event-92905cc8ce00afa0"></a>
+
+## ITEXPO 2027
+
+- Record: `coinpedia-itexpo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-10T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.itexpo.com/east/>
+
+### About the event
+
+The Digital infrastructure landscape is gearing up for expansion as ITEXPO East 2027 officially prepares for its next industry-defining staging. Scheduled to take place from February 9 to February 11 2027, at the Greater Fort Lauder dale/Broward County Convention Center in Florida. This premier three-day enterprise communications conference and expo serves as the definitive global platform for applied marketplace technology. Organized by : ITEXPO, conference's programming is focused on enhancing your productivity, cutting costs, and increasing efficiency.
+
+Event Highlights and What to Expect: Watch early-stage technology disrupters take the stage live to pitch their innovative communication software solutions or hardware frameworks. Move seamlessly from structured business meetings on the expo floor to high-value networking mixers, beach side receptions, and nightly peer-to-peer gatherings designed to facilitate organic B2B deal flow. Explore an expansive, hands-on exhibition floor displaying market-ready applications. Topic to be Discussed: Cloud Communications & UCaaS, MSP Business & Operational Strategy, Enterprise Cyber security, Risk, & Compliance and more.
+
+Book Your Space Now With thousands of tech professionals and hundreds of industry-leading organizations expected on the main floor, space at the Broward County Convention Center. lock in your priority delegate pass, secure your group corporate discount, or register as an official exhibitor.
+
+<a id="event-5a7709692de68bbb"></a>
+
+## Bharat Fintech Summit 2027
+
+- Record: `coinpedia-bharat-fintech-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-10T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://bharatfintechsummit.com/>
+
+### About the event
+
+To explore the future of financial innovation at the Bharat Fintech Summit 2027, from 10-11 February 2027 in Mumbai, India. This fintech gathering will bring together banking leaders, technology experts, fintech founders, investors, and financial institutions to discuss the future of digital finance. The summit will focus on the technologies and strategies revolutionising India's financial services sector, ranging from digital payments and artificial intelligence to open banking, embedded finance, and financial inclusion.
+
+Expert talks, startup investment opportunities, and industry recognition make this event a great way to find new ideas, make important connections, and learn about the future of fintech. Organised By The Digital Fifth is a digital finance consulting firm that provides strategic, business, and technical advisory services to help businesses and financial institutions understand new trends and adapt to the expanding fintech sector. Event Highlights Industry-Leading Discussions Investment Day explores investment opportunities Fintech & Digital Excellence Awards 2027 Emerging Technology Insights Networking Opportunities Why Attend Bharat Fintech Summit 2027?
+
+Discover industry trends like digital banking, AI, open finance, and financial technology. Connect with Decision-Makers, experts, business leaders, investors, and potential partners. Explore Investment Opportunities and connect with venture capitalists. Learn Practical Strategies, experience, digital transformation, and financial services innovation. Celebrate Excellence and achievements of organisations shaping India's fintech ecosystem.
+
+Key Themes & Focus Areas AI & Agentic Systems Digital Public Infrastructure & Open Finance MSME & Supply Chain Finance Regulation & Compliance Next-Generation Payments & Credit Speakers at Bharat Fintech Summit 2027 Noopur Chaturvedi - MD & CEO, NPCI Bharat BillPay Limited (NBBL). Lalitha Nataraj - Managing Director and CEO, NPCI BHIM Services Limited. Nitin Chugh - MD & Group CEO, Perfios. Dr. Raj P. Narayanam - Founder & Executive Chairman, Zaggle. GPJ Gupta - Chief Operations Officer, Aditya Birla Capital - NBFC.
+
+Don't miss the Bharat Fintech Summit 2027 in Mumbai to discover, build strategic partnerships, and explore the future of fintech innovation, digital banking, and financial technology in India.
+
+<a id="event-b5aa8165e9e066dc"></a>
+
+## Africa Tech Summit 2027
+
+- Record: `coinpedia-africa-tech-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-10T18:34:00.000Z
+- Description: Source-backed
+- Original page: <https://www.africatechsummit.com/nairobi/>
+
+### About the event
+
+Join the Africa Tech Summit 2027, held from 10th to 11th February 2027, in Nairobi. This summit brings together key players from across the African tech ecosystem and the worldwide level - inclusive of tech executives, startups, buyers, regulators, cell operators, and fintech and crypto ventures - to discover commercial enterprise possibilities, gain insights, and drive investment and increase in generation across the continent.
+
+Attendees can assume a dynamic schedule with professional speakers, networking classes, panels, and deep‑dive tracks masking the most important issues like virtual finance, AI and virtual innovation, weather tech, and startup development, all designed to foster collaboration, connection, and investment in Africa's tech landscape Organize By Africa Tech Summit is an events organizing company focused on African tech and investment with Summits globally. Africa Tech Summit London and Kigali 2018 will provide unrivaled insight, networking, and business opportunities Why Attend? Africa Tech Summit Nairobi connects African tech leaders with international players.
+
+Brings together tech corporates, mobile operators, fintechs, DeFi & crypto ventures, investors, and start-ups. Provides opportunities to network with regulators and key industry stakeholders. Focuses on driving business growth and investment in the African tech ecosystem. After a successful 2026 edition, the 9th edition will take place in Nairobi, Kenya in 2027.
+
+What to Expect Africa money and DeFi summit Africa AI and digital summit Africa Startup Summit Africa climate tech and investment summit Where to Stay Sankara Nairobi IBIS Nairobi Bidwood Suits Speakers Wole Ayodele - CEO Fincra Tolulope Obianwu - Group Head of Core Operations and Customer Support Farzam Ehsani - Co-Founder and CEO Neanda Salvaterra - Senior Reporter Erik Hersman - CEO, Gridless The Africa Tech Summit 2027 in Nairobi unites African and global tech leaders to drive innovation, investment, and collaboration across the continent.
+
+<a id="event-afdbdc20b72bb5ca"></a>
+
+## Australia NextGen Payments and RegTech Forum 2027
+
+- Record: `coinpedia-australia-nextgen-payments-regtech-forum`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-11T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.qubevents.com/nextgen-payments-regtech-australia>
+
+### About the event
+
+Attend the Australia NextGen Payments and RegTech Forum 2027 at the Hilton Hotel in Sydney, Australia, on February 11, 2027, to explore the future of digital payments and technology. This one-day event will gather banking leaders, fintech innovators, payment professionals, regulators, technology experts, and financial institutions under one roof to explore AI, real-time payments, Open Banking, cybersecurity, digital identity, fraud prevention, and financial compliance to shape a smarter, safer financial industry.
+
+Organised By QUBE Events is an evolving crypto and blockchain event organizer connects business leaders, innovators, and investors through networking opportunities and high-impact industry events. Event Highlights Expert insights into Australia's evolving payments landscape Discussions on AI, Open Banking, and digital transformation Strategies for regulatory compliance and operational resilience Innovative approaches to fraud prevention and cybersecurity Networking with senior financial services professionals Why attend Australia NextGen Payments and RegTech Forum 2027?
+
+Learn from experienced payments, banking, and regulatory professionals Explore Emerging Technologies like AI, automation, and digital assets in financial services Discover compliance requirements and evolving financial regulations Practical sessions on fraud prevention, scam protection, and cybersecurity Connect with fintech founders, technology providers, and financial institutions Agenda Themes Artificial Intelligence and Intelligent Financial Services Australia's Payments Modernisation Journey Consumer Data Right (CDR) and Open Banking Real-Time Payments and Cross-Border Innovation Digital Identity and Trusted Authentication Operational Resilience and APRA CPS 230 Cybersecurity, Scam Prevention, and Financial Crime Digital Assets, Tokenisation, and Embedded Finance Key Discussion Topics The forum will explore the main topics to discuss on AI in finance, Open Finance, Australia's New Payments Platform (NPP), cross-border payment innovation, digital identity, regulatory technology, fraud detection, cybersecurity strategy, operational resilience, embedded finance, and the future of Australia's financial ecosystem.
+
+What's Coming Up? Open Banking, Data and Customer Trust Intelligent Payments and Digital Innovation Resilience, Regulation and Cybersecurity Shaping tomorrow's financial industry. Then join the Australia NextGen Payments and RegTech Forum 2027 in Sydney and explore payment solutions, strengthen regulatory readiness, and build valuable connections across Australia's fintech industry.
+
+<a id="event-76c0b3f4b3e0d14a"></a>
+
+## Money Expo Mexico 2027
+
+- Record: `coinpedia-money-expo-mexico`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-17T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://moneyexpoglobal.com/mexico/en>
+
+### About the event
+
+Connecting the Future of Finance and Fintech at Money Expo Mexico 2027, from 17-18 February 2027 at Centro Banamex, Mexico City. Over 6,000 investors, traders, fintech workers, and financial specialists will be present at this two-day financial exhibition and conference.
+
+The event will provide insightful information about Forex trading, equities, blockchain, wealth management, digital payments, and investment prospects, with more than fifty international firms displaying their newest goods and services. Organised By HQMENA is a top fintech event organizer that gathers firms, innovators, and industry experts through events, fostering networking, cooperation, and expansion in the global financial sector.
+
+Event Highlights 50+ global brands' financial products, trading platforms, and fintech solutions from leading companies 6,000+ Attendees from worldwide Expert-Led Conference industry presentations Financial Technology Showcase Business Networking and financial service providers What Is Money Expo Mexico 2027? Money Expo Mexico is a leading financial exhibition and conference designed to bring the traditional finance and fintech communities together. It provides a platform to explore new investment opportunities, understand changing market trends, and discover innovative financial technologies.
+
+The exhibition will feature companies from banking, wealth management, payment gateways, stock brokerage, Forex trading, and blockchain industries. Alongside the exhibition, attendees can participate in informative conference sessions, topical workshops, and business discussions. Why Attend Money Expo Mexico 2027?
+
+Networking with foreign brokers, traders, investors, and fintech leaders Explore new developments in blockchain technology, digital banking, and payment methods Learn practical knowledge about stocks, commodities, ETFs, Forex, and investment techniques Investigate Company Opportunities: Get to know possible clients, investors, and company partners Explore new financial technologies and growing international investment opportunities Don't miss the Money Expo Mexico 2027 to shape the future of global finance, fintech innovation, and investment opportunities.
+
+<a id="event-c40b5d6963fcf372"></a>
+
+## Fintech Meetup 2027
+
+- Record: `coinpedia-fintech-meetup`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-22T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.fintechmeetup.com/>
+
+### About the event
+
+Get ready to attend the annual Fintech Meetup 2027 from 22-24 February 2027 at The Venetian, Las Vegas. The event, which brings together senior executives from banks, credit unions, fintechs, investors, retailers, regulators, and technology providers, is focused on deep discussions, business partnerships, and the future of financial services. Organized By Fintech Meetup is a top fintech event organizer that connects financial institutions, investors, and fintech innovators with business meetings, high-impact networking events, and collaborative industry events.
+
+Event Highlights 50,000+ curated one-to-one meetings 1,000+ CEOs, founders, investors, and senior decision-makers Three Days of Fintech Insights Stages & Tracks: Main Stage, The Pulse, Banking, Payments, and Lending Why Attend Fintech Meetup 2027? Build valuable partnerships with banks, fintech companies, merchants, and investors. Learn how AI, trust, identity verification, and real-time payments are reshaping financial services. Discover innovative solutions from startups and established industry leaders. Expand your network through curated meetings that maximize every conversation.  Agenda Highlights
+
+22 February
+
+- 9:15 AM: Welcome to Fintech Meetup 2027
+- 9:35 AM: Senior Regulatory Keynote
+- 10:15 AM: Technology Pioneer's Outlook
+- 1:00 PM: Startup Pitch Competition Round 1
+
+23 February
+
+- 9:15 AM: Startup Pitch Competition Finale
+- 9:35 AM: Operating the Digital Economy
+- 12:15 PM: Tech Spotlight - The Builders' Toolkit
+- 1:45 PM: Strengthening Fraud Defences Across the Enterprise
+
+24 February
+
+- 9:15 AM: Fintech Feud 2.0
+- 9:55 AM: Keynote - The Future of Money Movement
+- 12:15 PM: Regulating Innovation Without Slowing It Down
+- 1:00 PM: Defending Real-Time Payments Through Smarter Risk Strategies Featured Speakers Alex Johnson - Founder, Fintech Takes Alex Preece - Co-Founder & CEO, Tillo Ana Liza Grandner - Chief Payments Officer, First Bank of the Lake Andrea Valentin - Chief Risk Officer, Maxwell State Bank Bart Willaert - Executive Vice President, Open Finance for the Americas, Mastercard Don't miss Fintech Meetup 2027, the premier fintech networking event where the future of financial services is shaped by innovation, trust, and meaningful connections.
+
+<a id="event-c803190063849dde"></a>
+
+## Industrial Metaverse Conference 2027
+
+- Record: `coinpedia-industrial-metaverse-conference`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-23T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.industrial-metaverse-conference.com/>
+
+### About the event
+
+Step into the future of industrial innovation at the Industrial Metaverse Conference 2027, from February 23 to 24, 2027, at the Heilbronn Education Campus, Germany. The two-day Metaverse conference explores how digital twins, simulation, XR, industrial platforms, robots, and physical AI change how industries create, produce, and function. It brings together industry leaders, technology experts, researchers, and innovators. #IMC27 provides a chance to learn about the future of the Industrial Metaverse and how built-in AI could shape the next industrial stage, with a strong focus on practical applications and innovative technologies.
+
+Organised By Ultima Media Germany GmbH is a Munich- and Landsberg am Lech-based B2B event organiser and media company specialising in professional congresses, conferences, and seminars for industrial and technology-focused audiences.
+
+Event Highlights Industrial Metaverse in Practice Digital Twins & Simulation Physical AI & Robotics Real-World Industry Exchange Event Main Topics Industrial Metaverse use cases and measurable business value Digital twins, simulation, omniverse technologies, and factory planning Embodiment of AI, physical AI, robotics, and intelligent machines Chips, sensors, world models, dexterity, and AI learning systems Industrial platforms, ecosystems, collaboration, and digital transformation Reasons to Attend the Industrial Metaverse Conference Learn from Industry Experts: Hear practical insights and experiences from leading professionals.
+
+Explore Emerging Technologies: Discover the latest developments in industrial AI and immersive technologies. Build Valuable Connections: Meet decision-makers, innovators, researchers, and technology providers. Join the Community: Become part of a growing network focused on the future of industrial innovation. Network Beyond the Stage: Take part in an evening event designed for relaxed conversations and new connections. Event Team Franziska Blume - Project Manager: Contact for general project-related support.
+
+Torben Theobald - Event Organisation & Speakers Jessica Schmitz-Nellen - Sales Manager Exhibition & Sponsorship Yvonne Piche - Sales Manager Exhibition & Sponsorship Dont miss this Industrial Metaverse Conference 2027 and explore how the Industrial Metaverse, physical AI, and intelligent robotics are using the future of manufacturing and industrial transformation.
+
+<a id="event-7c6098234bc7cf8b"></a>
+
+## Digital Transformation Summit India 2027
+
+- Record: `coinpedia-digital-transformation-summit-india`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-24T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://digitransformationsummit.com/india/>
+
+### About the event
+
+Attend the 53rd edition of Digital Transformation Summit India 2027 on 24th February 2027, from 09:00 AM to 05:00 PM in Mumbai, India. More than 200 C-level executives, CIOs, CTOs, CISOs, directors, and technology decision-makers will attend this premier technology summit to discuss how companies can become AI-first companies. The summit's main theme, "The AI-First Enterprise: From Pilots to P&L," will concentrate on advancing from AI creativity to widespread adoption and specific commercial outcomes. Agentic AI, enterprise AI governance, cybersecurity, intelligent automation, data privacy, IT modernization, and digital transformation strategies will all be major topics of discussion.
+
+Organised By Exito is a business solutions company focused on creating bespoke platforms and opportunities, bringing together innovative communities and industry leaders to drive meaningful business connections and success. Event Highlights 200+ Senior Technology Leaders AI-First Enterprise Strategies Expert-Led Discussions Business-Focused Networking Why Attend Digital Transformation Summit India 2027? Discover practical strategies for adopting AI across business operations. Understand how to improve productivity, profitability, and operational efficiency. Explore cybersecurity, data privacy, and digital trust practices.
+
+Learn from technology leaders about IT modernisation and future-ready operating models. Build valuable connections with senior decision-makers and industry experts. Event Theme - Key Discussion Areas 1. The AI-First Enterprise: Moving from isolated AI experiments to enterprise-wide adoption and business value. 2. Agentic AI in Production: Understanding AI agents, human oversight, governance, and enterprise ROI. 3. Enterprise AI Economy: Connecting AI investments with business growth, productivity, and profitability. 4. Digital Trust by Design: Building stronger cybersecurity, data privacy, and responsible AI governance.
+
+5. Modernising Legacy Systems: Improving IT infrastructure and automation without disrupting business operations. 6. The 2030 Enterprise: Preparing organisations for future technology trends, changing operating models, and competitive advantage. Don't miss the Digital Transformation Summit India 2027 to discover how AI, enterprise technology, and digital innovation will help to build smarter, stronger, and more competitive businesses.
+
+<a id="event-e2cf3d99f9373aa1"></a>
+
+## GFTN Forum Japan 2027
+
+- Record: `coinpedia-gftn-forum-japan`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-24T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://gftnforum.jp/>
+
+### About the event
+
+Get ready to attend the GFTN Forum, Japan 2027, from February 24-26, 2027, in Japan. This three-day conference will explore how artificial intelligence, digital money, tokenization, and emerging technologies are changing Japan's financial system. It will bring together financial leaders, technology experts, investors, regulators, and fintech innovators.
+
+The event's theme, "Japan's Next Financial System: Evolution or Reinvention?" will highlight new financial opportunities, changing investment trends, and banking's future. Also, it will show how Japan can enhance its position in the world of financial technology. Organised By GFTN is a Singapore organisation focused on using technology, innovation, and global collaboration to build efficient, resilient, inclusive, and sustainable financial systems. Event Highlights 1. AI and the Future of Banking 2. Programmable Money and Tokenisation 3. Japanese Capital and Global Corridors 4. Longevity and the Wealth Transition 5. Quantum Readiness Why Attend GFTN Forum, Japan 2027?
+
+1. Connect with global financial leaders, investors, regulators and fintech professionals. 2. Discover emerging opportunities in AI-powered banking and digital finance. 3. Understand Japan's growing role in global financial infrastructure. 4. Explore partnerships, investment opportunities and cross-border business connections. 5. Gain valuable insights into future technologies shaping the financial industry. Main Theme of the Event The five major discussion areas include: 1. AI-powered banking and financial transformation. 2. Programmable money, digital currencies and asset tokenisation. 3. Japanese capital and international financial partnerships.
+
+4. Wealth management, longevity and demographic changes. 5. Quantum technology and the next generation of financial security. Don't miss the GFTN Forum in Japan 2027 to shape the financial environment of the future. Learn new concepts, form beneficial partnerships, and explore the future of digital assets, international financial technology, and fintech innovation.
+
+<a id="event-73d0d283ac3c1a01"></a>
+
+## MEGA Mexico Gaming 2027
+
+- Record: `coinpedia-mega-mexico-gaming`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-02-24T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.eventus-international.com/mega>
+
+### About the event
+
+Get ready to explore the future of gaming at MEGA Mexico Gaming 2027, from 24-26 February 2027 in Mexico City, Mexico. To learn about the rapidly expanding Mexican iGaming market, industry experts, gaming operators, investors, technology providers, regulators, and business professionals will attend this exciting international gaming summit. MEGA 2027 will establish a useful platform for bringing together regional and global players with a strong emphasis on innovation, market expansion, and company development. Participants can learn about new trends, understand shifting player attitudes, and investigate fresh investment opportunities in Mexico and the larger Latin American gaming sector.
+
+Organised By Eventus International is an international conference and event management company that unites professionals in the field through innovative summits, learning sessions, and beneficial networking opportunities. Event Highlights Growing Mexican Gaming Market Industry networking with international decision-makers Market Trends and Insights Regulatory Updates and the opportunities and challenges shaping the market Sponsorship and Exhibition Opportunities Why Attend MEGA Mexico Gaming 2027? Explore new ideas in Mexico's quickly growing online gambling and sports gambling industries. Develop deep relationships with regional and global gaming experts.
+
+Learn important information about player behaviour, technology, legislation, and market expansion. Explore investment prospects and commercial alliances throughout Latin America. Discover Mexico City while interacting with top professionals and executives from the international gaming sector. Don't miss MEGA Mexico Gaming 2027 to discover exciting opportunities for the future of gaming. Discover why this is a significant gaming and iGaming industry event in Mexico, network with industry experts, and discover new markets.
 
 <a id="event-3af1ab46a7509946"></a>
 
@@ -3313,6 +4886,276 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-d4d7778ccdf9bab6"></a>
+
+## FinAi Banking Summit
+
+- Record: `coinpedia-finai-banking-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-01T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://finai.events/banking/>
+
+### About the event
+
+Explore intelligent banking at the FinAi Banking Summit, from March 1-2, 2027, at The Westin Denver.
+
+This event brings together banking executives, technology leaders, fintech innovators, and solution providers to explore how AI is reshaping financial services. The summit offers a useful platform for learning what is working now and what will happen next, from AI-powered lending and fraud protection to better payments, automation, customer experience, and intelligent decision-making.
+
+Organised By FinAi News, known as Bank Automation News, is a New York-based financial technology news and information company helping banking technology professionals understand emerging innovations Event Highlights Real-World AI Strategies Practical Banking Use Cases Executive-Level Networking The Future of Intelligent Banking Top 5 Reasons to Attend FinAi Banking Summit Learn from Banking Leaders - Hear practical lessons from executives implementing AI across financial institutions. Discover Real-World Use Cases - See how AI is solving challenges in fraud prevention, lending, payments, and operations.
+
+Connect with Decision-Makers - Build valuable relationships with banking executives, fintech leaders, and technology providers. Explore What's Next in AI - Gain insight into agentic AI, AI governance, automation, and emerging innovations. Take Away Actionable Strategies - Leave with ideas, frameworks, and insights that can be applied within your organization.
+
+Leaders Who Took the Stage in 2026 Whitney McDonald - Editor, FinAi News JJ Hornblass - Chief Executive Officer, FinAi News Vaidik Trivedi - Associate Editor, FinAi News Mike Reynolds - Business Technology Executive, KeyBank The FinAi Banking Summit 2027 is also welcoming speaker applications from banking executives, fintech leaders, and technology innovators. For solution providers, the summit offers an opportunity to engage directly with senior banking leaders investing in AI, automation, payments, risk management, and digital transformation. Don't miss the opportunity to connect, learn, and shape the future of AI-powered banking and financial services innovation.
+
+<a id="event-0278df7c7b6beafa"></a>
+
+## The Enclave Presented by The Tie 2027
+
+- Record: `coinpedia-enclave-presented-tie`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-01T10:00:00.000Z
+- Description: Source-backed
+- Original page: <https://enclave.thetie.io/>
+
+### About the event
+
+Participate in the invitation-only crypto event, The Enclave Presented by The Tie 2027, from March 1-4, 2027, in Punta Cana, Dominican Republic. This gathering will bring together 250 influential leaders from the institutional digital assets industry for meaningful conversations, high-level networking, and valuable business connections in a private Caribbean environment. Organised By The Tie is a provider of digital asset information and matchmaking services that offers token services, data exchange, and institutional services. Also, it hosts unique cryptocurrency events that bring together industry professionals, institutional leaders, and investors.
+
+Event Highlights Connect with 250 influential leaders in institutional digital assets Institutional Crypto Focus Build relationships with senior decision-makers, fund managers Private Caribbean Retreat Outcome-Driven Experience Why Attend The Enclave 2027? Meet Industry Leaders: Connect with institutional investors, fund managers, and digital asset executives. Explore New Opportunities: Discover potential partnerships and investment opportunities. Share Industry Insights: Discuss emerging trends shaping institutional crypto adoption. Build Valuable Relationships: Develop connections that can support long-term business growth.
+
+Enjoy Exclusive Access: Experience a private event designed for senior professionals in the digital asset ecosystem.  Agenda Highlights
+
+March 1, 2027 - Arrival and Welcome Check-in: Time to be announced. Welcome Reception: Connect with fellow attendees.
+
+March 2, 2027 - Main Programming
+
+- 10:00 AM: Event programming to be announced.
+- 5:00 PM: Scheduled programming concludes.
+
+March 3, 2027 - Main Programming
+
+March 4, 2027 - Departure Guest departures. End of the private retreat. Join The Enclave 2027 to explore institutional crypto opportunities, connect with the leaders and shape the future of digital assets at an institutional crypto networking event.
+
+<a id="event-3c812c6b0af76826"></a>
+
+## MoneyLIVE Summit 2027
+
+- Record: `coinpedia-moneylive-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-02T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://marketforcelive.com/insurance-innovators/events/munich/>
+
+### About the event
+
+Get ready to connect and shape financial services at MoneyLIVE Summit 2027, from 2-3 March 2027 at the Business Design Centre, London. Recognised as one of Europe's most senior banking and payments conferences, the summit brings together decision-makers from banking, fintech and payments. The MoneyLIVE Summit, which focuses on AI-powered banking, payments innovation, open finance, digital identification, and financial technology. Organised By MarketforceLive is an established B2B events and marketing specialist with 30+ years of experience creating conferences, content and business connections in banking, technology, finance and other major industries.
+
+Summit Highlights 2,000+ attendees with 75%+ C-level, Director, VP and Head-level professionals. 200+ industry speakers sharing practical insights and future-focused strategies. 60%+ financial institutions, creating a powerful banking and payments ecosystem. Direct access to fintechs, banks, investors, startups and technology innovators. Why Attend MoneyLIVE Summit 2027? Pre-arranged 1-to-1 meetings designed to create meaningful business opportunities. Use direct messaging to connect with attendees and build business relationships. Join peer meet-ups and roundtables focused on real-world banking and payments challenges.
+
+Discover fintechs, startups, scale-ups and technology partners driving financial transformation. Exchange ideas with senior professionals shaping the future of banking, payments and financial services. Continue conversations at the official after-party in a relaxed environment designed for networking. Agenda Highlights 2 March 2027 - Day 1 Explore the future of banking, Agentic AI and next-generation customer experience. Discuss counter-fraud, AML, fraud, financial crime, risk and resilience. Explore core banking in the age of AI, AI-powered banks, digital identity and business banking innovation.
+
+3 March 2027 - Day 2 Discover new frontiers of innovation and technological disruption across banking. Explore wallets, cards and the evolution of digital payments. Discuss digital currencies and emerging opportunities in modern financial services. Speakers Harriet Rees - Group Chief Information Officer, Starling Bank Stuart Haire - Group Chief Executive Officer, Skipton Group Andrew Rankin - Chief Payments Officer, HSBC Pavel Nesterov - Executive Director, Data Science and AI, Revolut Paul Horlock - Chief Payments Officer, Santander Don't miss the opportunity to join the banking and payments conference to shape the future of banking and payments innovation.
+
+<a id="event-a031b6201a39861a"></a>
+
+## World Financial innovation Series Kenya 2027
+
+- Record: `coinpedia-world-financial-innovation-series-kenya`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-02T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://kenya.worldfis.com/>
+
+### About the event
+
+The World Financial innovation Series Kenya 2027 is east Africa's premier financial technology and smart banking summit happening on 2 March 2027 at Edge Convention Centre, Nairobi.
+
+The event gather over 500 decision makers, technology pioneers, regulators, and enterprise software vendors to explore the future of banking digital infrastructure, financial inclusion and fintech scaling across sub saharan africa. Meet Authorities steering compliance, data privacy, AML, and national digital infrastructure standards.
+
+The event focuses on how kenya's national payment strategy and sandboxes support innovation. Organized by : Trade pass is a company that hosts events covering the topics of AI, Finance, and cyber security, to new forms of diversity, knowledge, experience, and digital transformation.
+
+Key Discussion Pillars & Topics Inclusive Growth & Regulatory Frameworks Digital Payment Rails to Capital Markets Enterprise AI & GenAI Governance Cloud Architecture & FinOps Biometrics, Digital ID, & Cybersecurity Featured Speakers Samuel Ruugia - Chief Information Officer Kenya Reinsurance Corporation Amon Ngechu - Chief Technology Officer NCBA Group / LOOP DFS Philip Galego Kutswa- Chief Data Officer Diamond Trust Bank Hartnell Ndungi - Chief Data Officer Absa Group Duncan Omani - Chief Information Security Officer Access Bank Plc Event Highlights 40+ Industry Speakers & Keynotes Solution Expo & Live Demos WFIS Awards & Gala Dinner Who Should Attend?
+
+Banking Executives & C-Suite Officers: Fintech Founders & Product Directors Regulators & Policy Directors Venture Capitalists & Financial Investors Claim your delegate pass for East Africa's leading financial innovation summit.
+
+<a id="event-8bb6d97d78b58a2c"></a>
+
+## Digital Assets Week Hong Kong 2027
+
+- Record: `coinpedia-digital-assets-week-hong-kong`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-03T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://daweek.org/hong-kong/>
+
+### About the event
+
+Get ready to explore the future of finance at Digital Assets Week Hong Kong 2027, on 3 March 2027 at The GalaMuse, Victoria Dockside, Hong Kong. This exclusive event gathers financial institutions, institutional investors, technology providers, and regulatory experts to discuss the growing role of digital assets, digital securities, and blockchain technology. Through asset tokenization, institutional cryptocurrency adoption, and financial innovation, the conference aims to bridge the gap between traditional and digital finance.
+
+Organised By Juliet Summits is a B2B conference organizer that connects professionals across banking, technology, and telecommunications through industry events, expert discussions, research reports, and interviews.
+
+Event Highlights Explore the latest developments in digital securities, tokenization, and institutional crypto Discover how banks, investment funds, and financial institutions are adopting digital assets Understand important regulatory developments shaping the digital asset industry Connect with investors, venture capitalists, exchanges, and infrastructure providers Exchange ideas on blockchain adoption, digital finance, and the future of institutional investments Why Attend Digital Assets Week Hong Kong 2027? Meet key decision-makers from traditional finance and the digital asset ecosystem. Learn about emerging opportunities in asset tokenization and institutional crypto.
+
+Understand regulatory trends and their impact on digital asset markets. Build valuable connections with investors, financial institutions, and technology providers. Discover innovative solutions shaping the future of financial services. Don't miss Digital Assets Week Hong Kong 2027 to build strategic partnerships and explore the future of digital finance at a leading digital assets and blockchain conference in Hong Kong.
+
+<a id="event-18ebb5d30c40f9c7"></a>
+
+## 28th NextGen Payments and RegTech Forum 2027
+
+- Record: `coinpedia-28th-nextgen-payments-regtech-forum`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-04T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.qubevents.com/nextgen-payments-regtech-zurich>
+
+### About the event
+
+Explore the future of financial innovation at the 28th NextGen Payments & RegTech Forum 2027, on
+
+4 March 2027 at the Marriott Hotel in Zurich, Switzerland. Banking executives, fintech experts, payment specialists, regulators, technology suppliers, and compliance specialists will all be present at this premier industry event to explore the future shaping financial services. The event will showcase new opportunities and practical ideas for the future of finance, from digital assets and artificial intelligence to quick payments, Open Finance, and regulatory technologies. Organised By QUBE Events is a global event organizer that develops useful networking platforms for investors, company executives, and innovators in the fintech, blockchain, Web3, and digital assets sectors.
+
+Event Highlights Explore the latest innovations in digital payments, instant transactions, and financial technology Discover how AI, stablecoins, tokenisation, and digital assets are transforming financial services Understand changing regulatory requirements and modern compliance solutions Cybersecurity, fraud prevention, AML, and operational resilience Connect with senior executives, regulators, fintech leaders, and technology experts Why Attend 28th NextGen Payments & RegTech Forum 2027?
+
+Learn useful tips from seasoned financial services experts Learn about new RegTech solutions and payment technology Recognize the most recent banking regulations in Switzerland and Europe Develop beneficial business connections through private meetings and carefully chosen networking Explore methods for improving client trust, security, and operational effectiveness What's Coming in the 2027 Forum?  Intelligent Finance: AI-powered financial services and automated decision-making Digital Money: Stablecoins, tokenised deposits, and digital assets Open Finance: Embedded banking, agentic payments, and customer consent Regulation and Resilience: Compliance innovation, cyber readiness, and risk management Trust and Security: Digital identity, fraud prevention, and financial crime intelligence Agenda Highlights -
+
+4 March 2027
+
+- 08:30-09:00: Registration and Welcome Coffee
+- 09:00-09:10: Welcome Address and Opening Remarks
+- 09:10-09:35: Opening Keynote - Intelligent Finance in 2027
+- 09:35-10:05: Panel - Swiss Instant Payments: From Reachability to Real Adoption
+- 10:05-10:35: Keynote - Swiss AML and Beneficial Ownership Reform
+- 10:35-11:05: Panel - Digital Fraud and Financial Crime Prevention
+- 11:05-11:35: Networking Coffee Break and One-to-One Meetings
+- 11:35-12:05: Panel - Wallets, Digital Identity and Authentication
+- 12:05-12:35: Panel - Cross-Border Payments, Liquidity and FX
+- 12:35-13:00: Keynote - Open Finance and Agentic Payments
+- 14:00-14:30: Panel - AI in Swiss Finance: Governance, Risk and Results
+- 14:30-15:00: Panel - Operational Resilience, Cyber Risk and Third Parties Don't miss the 28th NextGen Payments & RegTech Forum, shaping the future of the financial ecosystem and exploring the future of fintech, digital banking, and regulatory technology.
+
+<a id="event-d7b1bcb2a50dbce8"></a>
+
+## Merchant Payment Ecosystem 2027
+
+- Record: `coinpedia-merchant-payment-ecosystem`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-09T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.merchantpaymentsecosystem.com/>
+
+### About the event
+
+The Merchant Payment Ecosystem (MPE) 2027 returns for its milestone 20th edition from March 9-11, 2027. Europe's largest payment event, MPE brings together the people and technologies transforming merchant payments, creating an energetic meeting point for merchants, fintech leaders, payment providers, banks, networks, regulators, and technology innovators.
+
+The event offers three days packed with insight, collaboration, and business opportunities. Organised By Merchant Payment Ecosystem (MPE) is creating a powerful platform for knowledge exchange, networking, innovation, and partnerships across the European payments industry. Event Highlights 1,600+ fintech leaders 500+ merchants 170+ expert speakers 10,000+ business meetings 15 award categories Why Attend MPE 2027? Explore emerging trends in AI in payments, tokenization, stablecoins, Open Finance, and digital wallets. Recognize how PSD3, quick payments, cross-border payments, and B2B payments are changing.
+
+Learn useful strategies for payment management, cybersecurity, authentication, and fraud prevention. Make beneficial connections with technology suppliers, merchants, innovators, and decision-makers. Who Attends? Merchants and commerce leaders PSPs, acquirers, gateways, and payment networks Banks, fintechs, investors, and technology providers Regulators and professionals shaping the future of payments Spotlight on Conference Formats Expert Keynotes & Strategic Talks Merchant Room Workshops Roundtable Discussions Innovation Hub Accelerator Experience MPE MPE Deal Engine: Pre-arranged contacts that facilitate meeting the appropriate individuals before the event begins.
+
+Roundtables: Small-group discussions centered on practical issues. MPE NXT: A specialized area investigating AI, payments, next-generation commerce, and customer experience. Awards Gala Dinner: Honor exceptional achievement, innovation, and leadership throughout the ecosystem. Formats for networking: organized events, parties, and casual discussions Don't miss MPE 2027, where the international merchant payments industry collaborates, develops, and influences how payments will be handled in the future.
+
+<a id="event-9a09ee06906973f1"></a>
+
+## Money Motion 2027
+
+- Record: `coinpedia-money-motion`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-10T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.money-motion.eu/>
+
+### About the event
+
+Attend Money Motion 2027, from 10-11 March 2027 at Zagreb Fair, Croatia, the largest FinTech event in Central and Eastern Europe (CEE). This two-day gathering will bring together financial leaders, technology experts, investors, startups, regulators, and entrepreneurs.
+
+The event will offer opportunities to discover new technologies, explore business partnerships, exchange ideas, and understand the future of money. Money Motion 2027 is scheduled to be an important event for the international FinTech community, with five dedicated stages, a sizable exhibition space, and an impressive lineup of business leaders. Organised By UBIK Association is a dynamic organisation focused on improving public understanding through educational initiatives, workshops, and knowledge-sharing activities.
+
+Event Highlights 9,500+ Visitors Five Dedicated Stages 2,000 m&sup2; Expo Area Startup Opportunities 18 startup showcases Industry Networking and build valuable business connections Why Attend Money Motion 2027? Learn from FinTech pioneers and industry experts through informative discussions and practical insights. Discover emerging trends in digital banking, AI-powered finance, blockchain, and payment technologies. Connect with investors, financial institutions, founders, and potential business partners.
+
+Showcase your products and services to an international audience of financial decision-makers Explore new investment opportunities, partnerships, and business growth possibilities across the CEE region Main Themes of the Event Future of Banking and Payments: Banking 2030, digital euro, open banking, and next-generation payment solutions. AI and Financial Innovation: AI, agentic payments, embedded finance, and financial automation. Digital Assets and Blockchain: Stablecoins, tokenisation, programmable money, and the future of crypto. Investment and Wealth Management: ETFs, private equity, venture capital, institutional investments, and digital trading.
+
+Regulation and Financial Security: PSD3, digital identity, financial crime prevention, cybersecurity, and sustainable FinTech. Featured speakers include: Cosmin Ochisor - Partner at GapMinder VC. Raluca Micu - CEO at NETOPIA Payments. Božidar Pavlović - Partner at AYMO Ventures. Panagiotis Kriaris - Senior Advisor in FinTech, Payments, and Banking. Alojzije Janković - Chess Grandmaster, commentator, economist, and professional sports management specialist. Join Money Motion 2027, the leading FinTech event in Central and Eastern Europe, and be part of the conversations shaping tomorrow's financial ecosystem.
+
+<a id="event-d0cb3c0305d2a910"></a>
+
+## Instant Payments Summit USA 2026
+
+- Record: `coinpedia-instant-payments-summit-usa`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-11T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://kinfos.events/ipsus/>
+
+### About the event
+
+Get ready to explore the future of money movement at Instant Payments Summit USA 2027, on 11th March 2027 in Atlanta, USA. This one-day leadership summit will bring together leading banking professionals, payment experts, fintech innovators, regulators, and technology providers to discuss how instant payments are transforming the financial industry.
+
+The event will provide important insights into the evolving payments landscape with an emphasis on real-time transactions, digital banking, AI-driven payments, and next-generation financial infrastructure. Organized By Kinfos Events is a professional business conference organizer known for hosting industry-focused events worldwide. The company connects experts and business leaders through credible information, knowledge sharing, and valuable networking opportunities.
+
+Event Highlights 30+ Industry Speakers 150+ Senior Decision-Makers: Explore developments in FedNow, RTP, Open Banking, and instant payment systems Fraud Prevention and Security AI and Future Payment Technologies Why Attend Instant Payments Summit USA 2027? Gain practical knowledge from senior executives and payment specialists Network with banking leaders, fintech founders, regulators, and technology providers Understand new trends in digital payments, tokenized deposits, and cross-border transactions Learn about fraud prevention, identity verification, authentication, and risk management. Discover how AI-powered transactions and real-time financial infrastructure are changing the industry.
+
+Main Themes The New Settlement Layer: Tokenized deposits, stablecoins, Fed payment accounts, and settlement infrastructure. Access, Regulation and the Future of Money: Regulatory access, banking policies, and financial market oversight. Instant Payments, Risk and Fraud: APP fraud, payee verification, mule accounts, liability, and dispute management. The Cross-Border Payment Reset: Account-to-account payments, instant connectivity, foreign exchange, and tokenized settlement. The Treasury Transformation: Real-time liquidity, cash management, working capital, and settlement risk.
+
+The Rise of Agentic Commerce: AI agents, autonomous transactions, digital identity, authentication, and consumer protection. Don't miss the Instant Payments Summit USA 2027 to exchange ideas, build meaningful partnerships, and discover the innovations shaping the future of real-time payments and digital financial infrastructure.
+
+<a id="event-403caf7f2080f319"></a>
+
+## Fintech Americas Miami 2027
+
+- Record: `coinpedia-fintech-americas-miami`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-16T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.fintechamericas.co/en/attend>
+
+### About the event
+
+Get ready to attend Fintech Americas Miami 2027 from March 16-18, 2027, at the Miami Beach Convention Center, Miami, USA. This three-day fintech event is the most significant banking, finance, insurance, payments, and fintech conference in the Americas and will bring together financial institutions, technology innovators, fintech entrepreneurs, and industry executives. It will offer a great forum for exploring new financial technology, talking about industry issues, finding business prospects, and establishing beneficial relationships throughout Latin America, the US, and the Caribbean.
+
+Organized By Fintech Americas is a learning and community-building organization that links businesses and financial professionals through industry knowledge, data, creativity, and significant networking opportunities. Event Highlights 2,400+ Participants 300+ Financial Institutions 250+ Fintech Companies Industry-Leading Speakers to shape the future of finance Fintech Americas Awards celebrate financial institutions and leaders Why Attend Fintech Americas Miami 2027? Make connections with financial leaders and decision-makers in the Americas. Learn useful information through engaging presentations, debates, and real-world case studies.
+
+Explore advancements in Web3, AI, digital banking, payments, and financial infrastructure. Get to know possible clients, investors, partners, and technology suppliers. Understand the organizations and people bringing about significant financial improvement. Event Features Main conference sessions, keynote presentations, and industry discussions. RiseUp - A dedicated experience celebrating women in fintech and leadership. Money Pot - A podcast station featuring open and engaging conversations. SmartMeet - Structured networking to create valuable professional connections. Insure Americas - Discussions exploring the future of insurance and digital transformation.
+
+Leader Track and Founders Americas - Special programs for senior executives and fintech founders. LIV Party - A social networking experience bringing attendees together in Miami. Speakers Michael Saylor - Founder & Executive Chairman, Strategy. Julia Canalini - Head of Brazil, Tether. David Goldschmidt - SVP, Global Head of P2P, Mastercard. Ana Margarita Albir Sarmiento - President, ADL Digital Lab. Germana Cruz - CEO, Standard Chartered Bank. Don't miss Fintech Americas Miami 2027 to meet the financial executives, investors, and innovators influencing the financial future. Experience the future of fintech innovation in the Americas and learn about new opportunities.
+
+<a id="event-36e3baa7e813f52e"></a>
+
+## Inclusive FinTech Forum 2027
+
+- Record: `coinpedia-inclusive-fintech-forum`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-16T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.inclusivefintechforum.com/>
+
+### About the event
+
+Be part of the annual Inclusive FinTech Forum 2027, from 16-18 March 2027 at the Kigali Convention Centre in Kigali, Rwanda. This global event will bring together fintech leaders, investors, policymakers, startups, and financial experts to discuss how technology can make financial services more accessible and affordable for everyone. The forum's goals are to foster innovation, advance financial inclusion, and open up new avenues for collaboration throughout the global fintech sector. Organized By GFTN is a Singapore organisation focused on using technology, innovation, and global collaboration to build efficient, resilient, inclusive, and sustainable financial systems.
+
+Event Highlights and Features Global FinTech Networking with financial industry leaders Explore digital public infrastructure, inclusive instant payments, and innovative solutions to financial services Participate in keynote sessions, expert panels, and roundtables covering financial technology, regulation, data privacy, and cross-border payments Discover the Deal Room, explore potential partnerships, funding, and business opportunities Learn from Rwanda's fintech developments, including initiatives such as the Rwanda FinTech Centre and advancements in inclusive financial services The previous forum recorded 4,144 registrations from 89 countries, with 280 speakers Why Attend the Inclusive FinTech Forum 2027?
+
+Get to know financial technology experts, investors, entrepreneurs, and decision-makers Recognize the latest advancements in fintech innovation, financial inclusion, and digital payments Find new partners, clients, investors, and collaborators Discover how laws, rules, and technological advancements will affect the financial industry in the future Find useful strategies to increase underprivileged groups' access to financial services Don't miss the Inclusive FinTech Forum 2027 in Kigali for new ideas, to build partnerships, and shape the future of financial inclusion, digital finance, and fintech innovation.
+
+<a id="event-423ef9273b89ad90"></a>
+
+## FTT Lending London 2027
+
+- Record: `coinpedia-ftt-lending-london`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-17T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.fintechtalents.com/events/europe/ftt-lending/>
+
+### About the event
+
+Attend the FTT Lending London 2027, scheduled for 17 March 2027 at etc.venues by Convene, County Hall, London, UK. Banking executives, lending experts, fintech innovators, and technology leaders will gather at this premier fintech event to talk about how consumer and commercial lending is changing. The seminar will explore how technology influences the lending business, from digital lending solutions and new risk management techniques to AI-powered credit decisioning and improved screening.
+
+Organised By Fintech Talents is a top fintech event organizer and community platform that connects over 200,000 leaders in digital transformation through networking, industry events, information, and cooperative experiences. Event Highlights 700+ attendees and decision-makers across three events 300+ Lenders 120+ Speakers 4 Content Stages Why Attend FTT Lending London 2027 ? 1. Understand changing borrower expectations, market competition and new opportunities for sustainable lending growth. 2. Learn about affordability, responsible lending, mortgage regulations and evolving credit products.
+
+3. Explore alternative finance, specialist lending and innovative approaches to supporting small businesses. 4. Discover how AI is improving credit decisioning, underwriting, lending operations and customer experiences. 5. Gain insights into AI governance, model explainability, regulatory compliance and responsible lending. 6. Participate in networking sessions, drinks receptions and VIP hosted meetings with lenders, fintech companies and technology providers.
+
+Early Confirmed Speakers Tony Hall - Head of Business Development, Saffron Building Society Thorsten Seeger - Board Member - Management Board, SME Bank Ruth Spratt - V.P. UK Country Manager, Affirm Rahul Duseja - Chief Credit Officer, Zempler Bank Nicholas Moss - Chief Commercial & Product Officer, Birmingham Bank Don't miss FTT Lending London 2027, learn about new opportunities in digital lending, build connections with industry experts changing financial services, and gain insightful knowledge about the direction of credit innovation.
+
 <a id="event-06b4b58d7de01609"></a>
 
 ## ETHBucharest 2027
@@ -3325,6 +5168,142 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-59d308d2e2ddd803"></a>
+
+## Mining Disrupt Bitcoin Mining Expo 2027
+
+- Record: `coinpedia-mining-disrupt-bitcoin-mining-expo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-22T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://miningdisrupt.com/>
+
+### About the event
+
+Get ready to attend The Mining Disrupt Bitcoin Mining Expo 2027 from March 22-24, 2027, in Dallas, Texas. Brings together the people, technologies, and ideas driving the global Bitcoin mining industry. The annual Bitcoin conference aims to provide a major meeting place for miners, investors, energy experts, hardware suppliers, tech companies, and blockchain inventors, for discussions that lead to collaborations, deals, and new opportunities. Organised By Mining Disrupt is a global events company established in 2019 and a leading platform for Bitcoin mining conferences, education, collaboration, and business across the worldwide mining ecosystem.
+
+Event Highlights Explore the Mining Expo Floor Meet Global Mining Leaders Hear Industry-Shaping Conversations Deals, Demos & Business Opportunities Why Attend Mining Disrupt Bitcoin Mining Expo 2027? Expand your network by connecting with miners, suppliers, investors, founders, and technology leaders. Discover innovative solutions that can support more efficient and scalable Bitcoin mining operations. Build valuable business relationships with companies actively shaping the mining and digital asset infrastructure landscape. Stay industry-ready with fresh insights into Bitcoin mining technology, energy markets, market cycles, and emerging opportunities.
+
+Mining Disrupt Bitcoin Mining Expo 2027 is where the global Bitcoin mining community connects, collaborates, and creates what comes next-don't miss this premier Bitcoin mining event in Dallas.
+
+<a id="event-fca87bae5820ed03"></a>
+
+## T3 Technology Conference 2027
+
+- Record: `coinpedia-t3-technology-conference`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-22T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://t3conferences.com/>
+
+### About the event
+
+Get ready to experince the financial technology at the T3 Technology Conference 2027, from March 22-25, 2027, in Las Vegas, USA. This four-day event, which will bring together 1,000+ financial advisers, wealth management specialists, fintech executives, technology suppliers, and industry experts, will explore the latest developments shaping financial services. The conference's theme, "From Knowledge to Wisdom: The AI-Augmented Advisor," will emphasize how AI may enhance financial advice, improve customer relationships, and increase business efficiency.
+
+Attendees can learn about innovative wealthtech solutions, take part in expert-led workshops, watch live technological demonstrations, and find useful applications of AI in daily life. Organized By Technology Tools for Today (T3) supports financial organizations through practice management resources, technology insights, industry research, news, and conferences that help financial professionals stay ahead of changing industry trends.
+
+Event Highlights Expert Keynotes and Session Latest Wealthtech Solutions for financial advisors and wealth management firms AI University 2027 for practical AI education and hands-on learning Live Technology Demonstrations Networking Opportunities with 1,000+ professionals, executives, advisors, and innovators Why Attend T3 Technology Conference 2027?
+
+Discover the latest fintech and wealth management technology trends Learn how AI can improve financial planning and advisory services Find practical technology solutions to increase business efficiency Connect with industry leaders, potential partners, and technology providers Gain valuable insights to strengthen your firm's competitive position in 2027 and beyond Key Themes Artificial Intelligence and AI-Augmented Financial Advisors Wealth Management Technology and Digital Transformation Financial Advisor Productivity and Practice Management Client Relationships and Technology-Driven Financial Advice Emerging Fintech Solutions and Business Innovation Don't miss the T3 Technology Conference 2027 in Las Vegas and discover how AI, wealthtech, and financial innovation are transforming the future of financial services.
+
+<a id="event-6cf8a1e9e705e5a7"></a>
+
+## Convergence India Expo 2027
+
+- Record: `coinpedia-convergence-india-expo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-23T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.convergenceindia.org/>
+
+### About the event
+
+Attend India's Biggest Technology Expo, Convergence India Expo 2027, from 23-25 March 2027 at Bharat Mandapam, New Delhi, India. This three-day event, which is regarded as India's largest technology exhibition, will unite industry professionals, government representatives, startups, investors, and technology leaders under one roof. Convergence India Expo has a 34-year history of showcasing the technology influencing the future and opening up new business prospects. The exhibition provides an extensive platform to learn about the future of digital transformation, including blockchain, fintech, IoT, cybersecurity, robots, smart city solutions, 5G and 6G networks, and AI.
+
+Organised By Exhibitions India Group (EIG) is a top trade marketing and event management company that uses international conferences and exhibitions to link academia, business, government, and the media. Event Highlights 34-Year Industry Legacy: Discover significant and popular technology shows in India Discover advancements in AI, 5G, 6G, IoT, finance, blockchain, cloud computing, cybersecurity, and robots at this advanced technology showcase Opportunities for Business Networking: Make connections with startups, industry experts, investors, technology businesses, and decision-makers Global Industry Participation: With a digital reach of 1.
+
+5 billion, the 2026 edition attracted 41,250 people, 1,022 participants, 23 nations, 200 startups, and 280 speakers Why Attend Convergence India Expo 2027?
+
+Experience the latest developments in AI, smart devices, telecommunications, and digital infrastructure Meet potential clients, partners, investors, and technology buyers Identify emerging trends and business opportunities across India's growing technology market Interact with innovators, government representatives, and experienced professionals Promote Your Brand: Showcase products, launch new solutions, and reach potential customers through dedicated product sectors Be part of India's leading technology exhibition Convergence India Expo 2027 offers an excellent opportunity to connect, learn, grow and discover new opportunities in the world of digital innovation.
+
+<a id="event-edaf527e786e2383"></a>
+
+## Fintech India Expo 2027
+
+- Record: `coinpedia-fintech-india-expo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-23T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.fintechindiaexpo.com/>
+
+### About the event
+
+Get ready to attend Fintech India Expo 2027 from 23-25 March 2027 at Bharat Mandapam, New Delhi. Fintech innovators, financial institutions, policymakers, technology experts, entrepreneurs, and investors will gather together under the theme "Powering India's Fintech Future" to discuss the concepts shaping the future of finance.
+
+The event provides an exciting platform to learn about the latest developments in financial technology, from digital payments and SaaS to generative AI, blockchain, CBDCs, Web3, cybersecurity, and personalized banking. Organised By Exhibitions India Group (EIG) is a top trade promotion organisation with over 100 international trade events under its control that links government, business, industry, media, and academics through conferences, exhibitions, publishing, digital marketing, and business solutions. Event Highlights Future of Fintech: Explore digital banking, payment technology, blockchain, InsurTech, AI in fintech, CPaaS, and emerging financial solutions.
+
+Insightful Conference: Hear keynotes and interactive discussions on cybersecurity, regulation, CBDCs, Web3, and digital finance. Business & Networking: Meet investors, fintech founders, financial institutions, technology providers, and decision-makers. Innovation Showcase: Discover products and services designed to make finance more secure, transparent, efficient, and customer-focused. Global Ecosystem: Build connections across India's rapidly evolving fintech landscape and international technology markets. Why Attend Fintech India Expo 2027? Discover practical fintech innovations and emerging technologies. Connect with senior professionals, investors, policymakers, and potential partners.
+
+Understand changing financial regulations and digital asset developments. Explore new opportunities across banking, payments, InsurTech, AI, blockchain, and Web3. Gain fresh ideas, market insights, and connections to support business growth.
+
+Speakers Suvendu Pati - Chief General Manager, FinTech, Reserve Bank of India Sanjiv Bajaj - Managing Director, Bajaj Capital Prabhat Chaturvedi - CEO, National Urban Cooperative Finance & Development Corporation (NUCFDC) Ashish Mehrotra - CEO & Managing Director, Northern Arc Capital Joseph Joshy - CGM & CTO, International Financial Services Centres Authority (IFSCA) Don't miss this annual Fintech India Expo 2027 is where bold ideas, breakthrough technology, and meaningful business connections come together to shape the future of financial technology.
+
+<a id="event-140e544c9dc7ee3d"></a>
+
+## Global AI Show Abu Dhabi 2027
+
+- Record: `coinpedia-global-ai-show-abu-dhabi`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-23T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.globalaishow.com/abu-dhabi/>
+
+### About the event
+
+Get ready to explore the Global AI Show Abu Dhabi 2027, from 23-24 March 2027 at Space42 Arena, Abu Dhabi, UAE. Under the theme "AI: 2031 - Accelerating Intelligent Futures," Global AI leaders, technological pioneers, corporate executives, investors, researchers, and government representatives will all be present at this two-day event. With more than 6,000 expected attendees, 150+ speakers and 100+ exhibiting brands, the event will highlight how AI is transforming businesses, industries and everyday life.
+
+Participants will learn about new technologies, useful applications, and opportunities influencing the future of artificial intelligence, ranging from robotics, intelligent infrastructure, and enterprise AI solutions to generative AI and agentic systems. Organised By VAP Group is a leading player in blockchain and Web3 solutions, and the event highlights in-depth knowledge of rapidly evolving digital fields and community development. Event Highlights 6,000+ Global Attendees from around the world 150+ Expert Speakers and AI innovators across two stages 100+ Exhibitors from leading brands Live AI Demonstrations Business Networking Why Attend Global AI Show Abu Dhabi 2027?
+
+Learn from AI Leaders: Get knowledge from professionals creating and deploying innovative AI technologies. Meet Key Decision-Makers: Connect with investors, government representatives, C-level executives, and business leaders. Find Business Opportunities: Investigate joint ventures, funding options, and novel approaches to AI implementation. Discover Smart Networking: Use the AI-powered matchmaking tool to connect with potential partners, clients, and investors. Keep Up with AI Trends: Recognize the most recent advancements in automation, enterprise applications, and AI infrastructure.
+
+Key Themes Generative AI and Agentic AI Enterprise AI Adoption and Automation AI Infrastructure and Computing Power Robotics and Intelligent Systems Brain-Machine Interfaces AI in Finance, Healthcare and Energy Government AI Strategies and Digital Transformation AI Investment and Future Technologies Featured Speakers The 2027 speaker lineup features influential professionals and technology leaders, including: H.E. Younus Al Nasser - Chief Executive Officer, Dubai Data & Statistics Establishment, Digital Dubai. Dr. Bushra AlBlooshi - Director, Cybersecurity Governance Risk Management, Dubai Electronic Security Center. H.E. Eng.
+
+Amal Abdulrahim - Chief AI Officer, Ministry of Climate Change and Environment. Eng. Mozah Mohamed Alnuaimi - Chief AI Officer, Ministry of Energy and Infrastructure (MOEI), UAE. Dr. Saeed Al Mansoori - Director, Remote Sensing Department, Mohammed Bin Rashid Space Centre. Don't miss the Global AI Show Abu Dhabi 2027 to join the AI revolution and meet the entrepreneurs, financiers, and decision-makers creating the intelligent world of the future. Explore the latest developments, find new chances, and attend one of the fascinating artificial intelligence conferences in Abu Dhabi in 2027.
+
+<a id="event-44bfa3ed54223cc3"></a>
+
+## GLOBAL GAME CONNECT 2027
+
+- Record: `coinpedia-global-game-connect`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-03-24T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://ggcgame.com/zh-tw/>
+
+### About the event
+
+Attend the GLOBAL GAME CONNECT 2027 from March 24-25, 2027, at Cinnamon Life at City of Dreams, Colombo, Sri Lanka. This international B2B gaming exhibition will bring together iGaming professionals, game developers, operators, investors, and technology providers. Emerging gaming markets, corporate collaborations, industry trends, and the expanding use of blockchain and AI in the gaming industry will all be covered at the event.
+
+Organised By Global Game Connect is a global iGaming event and business networking platform that brings together gaming professionals, developers, operators, and innovators to talk about market expansion, technological advancements, regulatory changes, and business futures. Event Highlights 5,000+ Industry Participants 150+ Exhibitors Industry decision-makers Gaming Innovation Why Attend GLOBAL GAME CONNECT 2027?
+
+Build valuable connections with international gaming companies, operators, and industry professionals Discover partnerships, investment possibilities, and new market expansion opportunities Learn about blockchain gaming, AI-powered solutions, and modern gaming platforms Attend expert sessions covering market developments, business strategies, and regulatory compliance Interact with game operators, traffic marketers, exhibitors, and senior executives Attend the GGC Awards Ceremony and recognise outstanding contributions to the gaming industry.  Special Guests Erika Lanka - Official Ambassador, GGC 2027 William Haynes - Strategic Partnership Manager Lucas Mendez - Senior Sales Executive Daniel Brooks - Performance Marketing Manager Schedule Highlights
+
+March 24, 2027 - Day 1: Opening Ceremony and Keynote Sessions
+
+- 08:00 - Pre-registration: Collect exhibition badges and complete registration.
+- 10:00 - Exhibition Opens: Explore gaming products, technologies, and business solutions.
+- 11:00 - Opening Remarks: Welcome industry representatives and mark the official beginning of the event.
+- 14:00 - Live Speeches: Hear expert insights on gaming trends, market developments, and innovation.
+
+March 25, 2027 - Day 2: Exhibition and Awards
+
+- 10:00 - Exhibition Opens: Discover innovative gaming solutions and connect with exhibitors.
+- 12:00 - Lunch Break: Network and exchange ideas with industry partners.
+- 15:00 - Live Speeches: Explore industry experiences, strategies, and future opportunities.
+- 21:00 - GGC Awards Ceremony: Celebrate outstanding companies and innovative achievements. Additional Arrival Activities: Exhibitor arrivals,
+- 08:00 pre-registration, and the
+- 21:00 Welcome Cocktail Party & Elite Night are also featured in the event programme. Participate in GLOBAL GAME CONNECT 2027, one of the top iGaming conferences and gaming industry exhibitions in Colombo, Sri Lanka, to learn about innovation, technology, and business opportunities.
+
 <a id="event-64fa2736958a3cb5"></a>
 
 ## ETHSeoul 2027
@@ -3336,6 +5315,94 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://ethseoul.org>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-824b586c50c3cc6a"></a>
+
+## BitBlockBoom 2027
+
+- Record: `coinpedia-bitblockboom`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-01T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.bitblockboom.com/>
+
+### About the event
+
+Attend BitBlockBoom 2027, which will be held from 1 to 4 April 2027 at Fort Worth Stockyards Station in Fort Worth, Texas, USA. The programme includes conference sessions and community activities throughout the four days. This conference is held annually and gathers Bitcoin enthusiasts, developers, entrepreneurs, investors and industry professionals to discuss Bitcoin and its growing role in the financial world. BitBlockBoom offers chances to learn about Bitcoin technology, explore Bitcoin development, meet Bitcoin industry trend experts and connect with people who share an interest in the Bitcoin ecosystem. Organised By BitBlockBoom is a Bitcoin-focused conference organised by Gary Leland.
+
+It focuses on understanding Bitcoin, discussing its development, and exploring its potential applications. Event Highlights Bitcoin and Financial Services: Discover all about Bitcoin, its significance to Bitcoin financial innovation. Bitcoin Technologies: Discover everything about Bitcoin development, technologies, security, and software of the Bitcoin network. Industry Speakers: Listen to the speeches delivered by industry experts like Bitcoin developers, entrepreneurs, educators, etc. Networking Sessions: Meet and interact with other Bitcoin fans, investors, entrepreneurs, technologists, etc.
+
+Community Events: Join community events such as the welcoming dinner, barbecue event, and Bitcoin brunch. Why Attend BitBlockBoom 2027? Participants in BitBlockBoom 2027 will be able to get an opportunity to gain knowledge about Bitcoin and meet people who work with Bitcoin every day. Beginners will be able to learn about Bitcoin, while developers and experts will have the opportunity to share their knowledge. Discussion about new technological developments. Entrepreneurs and investors will be able to meet other individuals who are developing businesses and projects based on Bitcoin.
+
+Through participation in the conference sessions and meetings, attendees will be able to look at the possibilities of Bitcoin and its future development. Agenda Highlights 1. Bitcoin and the Future of Money: A great opportunity to find out more about Bitcoin and its connection to the world's financial system. Find out how it can provide financial freedom, digital payments and more. 2. Bitcoin and Technology: Find out about software development, network enhancements and utilities related to Bitcoin. 3. Adoption and Education: See how individuals and companies are adopting Bitcoin and driving its adoption.
+
+There will also be discussions to help give new users an understanding of how Bitcoin works. 4. Industry Talks and Networking: Networking with Bitcoin developers, entrepreneurs, investors and enthusiasts. Discuss & learn from others and look at ways to form new professional relationships. 5.  Social Activities: There will be extra activities throughout the conference, including a welcome dinner on Thursday, a BBQ and party on
+
+Friday evening and a Bitcoin Brunch on Sunday. Featured Speakers Parker Lewis - Zaprite Jon Gordon - Co-Founder, Sound HSA Gary Leland - Host and Emcee of BitBlockBoom George Bodine - Artist Mike Schmidt - Co-Founder, Bitcoin Brink Don't let this opportunity to attend BitBlockBoom 2027 pass you by; the event will be held on April 1-4, 2027, at Fort Worth Stockyards Station, Fort Worth, Texas, United States. Join a community that shares your passion for Bitcoin.
+
+<a id="event-0c993479452667d5"></a>
+
+## Fintech Week SF 2027
+
+- Record: `coinpedia-fintech-week-sf`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-04T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://fintechweek.xyz/sf>
+
+### About the event
+
+Get ready to explore financial technology at Fintech Week SF 2027, from April 4-9, 2027, in San Francisco, California, USA. This city-wide fintech event gathers banking leaders, fintech founders, investors, technology experts, and Web3 innovators to explore the future of financial services.
+
+The event offers a platform for networking, sharing ideas, discovering new technologies, and building business partnerships. Organised By The Financial Club is a professional network that brings together experts from the financial and technology sectors. It provides a range of features designed to improve member engagement and industry collaboration. Event Highlights City-Wide Networking AI-Powered Finance Stablecoins and Digital Assets Business Partnerships Smart Event Platform Why Attend Fintech Week SF 2027?
+
+Develop key connections with decision-makers in technology and finance Learn about new fintech developments and useful business opportunities Explore collaborations in the areas of digital assets, blockchain, AI, and payments Through targeted conversations and networking gatherings, share ideas with specialists in the field Learn about the strategies and technology influencing financial services in the future Key Themes AI x Fintech: Agentic AI, automated financial operations, fraud detection, and intelligent payments. Digital Assets and Stablecoins: Tokenization, programmable money, digital asset infrastructure, and settlement solutions.
+
+Payments Innovation: Real-time payments, embedded finance, and next-generation payment systems Financial Infrastructure: Banking technology, enterprise treasury, compliance, and scalable financial platforms. The Future of Finance: The intersection of AI, blockchain, digital identity, and secure financial transactions. Don't miss Fintech Week SF 2027 to discover new opportunities at the exciting fintech networking events in San Francisco.
+
+<a id="event-c99a32782f8419f0"></a>
+
+## FIBE 2027 Fintech Festival Berlin
+
+- Record: `coinpedia-fibe-fintech-festival-berlin`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-07T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.fibe-berlin.com/en>
+
+### About the event
+
+Experience the future of finance at FIBE 2027 Fintech Festival Berlin, from April 7-8, 2027, at CityCube Berlin, Germany. FIBE 2027 will provide a platform for discussing the current innovations in European financial services by bringing together top fintech innovators, startup founders, investors, banking experts, regulators, and technology experts. The festival offers two days of innovative ideas, valuable connections, and business opportunities. By combining a conference, networking opportunities, an exhibition, and lifestyle events, FIBE aims to expand access, drive innovation, and strengthen collaboration in finance.
+
+Organised By Messe Berlin is the world's leading trade fair company, organising international exhibitions, conventions and business events, with a network of 90 foreign offices reaching 170+ countries. Event Highlights 2,000+ C-Level Participants 214 speakers, industry experts 100+ Partners explore business collaborations 47 Countries connect with participants and organisations Experience keynotes, startup pitches, expert discussions and practical masterclasses Why Attend FIBE 2027?
+
+Meet investors, banks, fintech founders and potential business partners Explore new financial technologies, digital payments and innovative fintech solutions Learn from industry leaders and discover the trends shaping European finance Present your company, connect with customers and attract potential investors Discover new ideas, investment possibilities and collaborations across the fintech industry Main Topics at FIBE 2027 Explore changing financial platforms, corporate profit margins, and the upcoming consumer finance cycle in The Great Rebuilding.
+
+Learn about the future of payment technology, artificial intelligence, and agentic commerce Talk about Europe's financial expansion, profitability, and fintech integration Explore new payment options and changing financial infrastructure in the context of digital payments and financial innovation Identify how technology providers, banks, investors, and entrepreneurs can collaborate What Happens at FIBE?
+
+Conference: Take in insightful keynote speeches, informative presentations, and business thoughts on the direction of finance Networking: Get to know people in the field and create lasting business connections Expo: Learn about innovative products, finance systems, and technological solutions Lifestyle & Fun: Take part in fun activities and informal talks in a festival-style environment Interactive Sessions: Take part in four stages of expert conversations, startup pitches, and hands-on workshops Why Berlin? For fintech, technology, and entrepreneurship, Berlin is an interesting city in Europe.
+
+The city attracts creative entrepreneurs, investors, reputable financial institutions, and foreign expertise since it is a significant financial technology hub. The opportunity to interact with the individuals and institutions influencing the direction of European finance is provided by hosting FIBE 2027 in Berlin. Don't miss this great chance to attend FIBE 2027 and experience one of Europe's fintech networking events in Berlin! Be part of the conversations, connections and innovations transforming financial services.
+
+<a id="event-1cbc2a1ea4e76b8f"></a>
+
+## UNBLOCK 2027
+
+- Record: `coinpedia-unblock`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-07T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://unblockeurope.com/>
+
+### About the event
+
+Get ready to attend the UN:BLOCK 2027, from April 7-8, 2027, in Riga, Latvia. This exciting event will gather fintech leaders, blockchain innovators, AI experts, investors, regulators, and entrepreneurs to discuss new technologies and the future of digital finance.
+
+The event offers an exciting platform for learning, networking, and business growth. Organised By Unblocked is a leading event organising platform for blockchain events, education, and industry knowledge, helping decision-makers and business professionals understand and adopt blockchain technology. Event Highlights 3,000+ Attendees 700+ Companies 100+ Speakers 50+ Countries 7+ Side Events Why Attend UN:BLOCK 2027?
+
+Explore the latest trends in digital assets, AI, payments, and blockchain technology Meet founders, investors, regulators, and business decision-makers Find potential clients, partners, and investors Understand real-world challenges and practical technology solutions Explore how new technologies are transforming financial services Agenda Highlights Day 1: Blockchain, cryptocurrency, digital assets, AI, and emerging technologies Day 2: Fintech, digital payments, banking, regulation, and financial infrastructure Expert Sessions: Hear from industry leaders and technology innovators Practical Discussions: Explore real-world use cases, challenges, and business strategies Networking Opportunities: Connect with professionals from across the global tech industry Main Themes Blockchain & Crypto: Decentralized systems, digital assets, and regulation.
+
+Fintech & Payments: Modern payment solutions and financial innovation. AI & Agents: Intelligent automation and AI-powered business applications. Financial Infrastructure: Digital banking, embedded finance, and next-generation financial services. Don't miss UN:BLOCK 2027 to build connections and explore the future of finance at a leading fintech, blockchain, and AI event in Europe.
 
 <a id="event-c0c670d0835b0be1"></a>
 
@@ -3377,6 +5444,84 @@ EthCC[10] is taking place at the Palais des Festivals et des Congrès in Cannes,
 
 The venue address: 1 Boulevard de la Croisette 06400 Cannes France
 
+<a id="event-d80771ffaf9103e0"></a>
+
+## CrossTech Fintech Fest 2027
+
+- Record: `coinpedia-crosstech-fintech-fest`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-14T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://crosstechpayments.com/fintech-fest-2027/>
+
+### About the event
+
+Attend the CrossTech Fintech Fest 2027, taking place on April 14-15, 2027, at Miami Ironside, Miami, USA, to explore new ideas and connect with the people shaping the future of the financial world. This exciting fintech event will gather startup founders, payment professionals, investors, financial institutions, and technology innovators to discuss the next generation of financial services and cross-border payments. The festival focuses on the businesses and technologies transforming how money moves, how customers interact with financial services, and how new markets develop.
+
+Attendees can learn about opportunities in artificial intelligence, digital identification, automated payments, financial infrastructure, and innovative business models through expert talks, networking events, hands-on workshops, and a startup showcase. Organized By CrossTech is a global fintech and cross-border payments event organizer that connects financial institutions, fintech companies, payment providers, and industry leaders. Event Highlights Explore new trends in AI-powered finance, automated money movement, digital identity, and payment innovation.
+
+Nine selected pre-seed and seed-stage startups Participate in focused workshops covering new financial technologies and business opportunities Connect with founders, investors, banks, infrastructure providers, and fintech professionals AI-driven financial services, digital rights, liquidity markets, and cross-border payments Why Attend CrossTech Fintech Fest 2027?
+
+Meet fintech founders, investors, payment specialists, and potential business partners Discover innovative startups and explore emerging investment opportunities Learn how AI agents and automation could transform financial services Build valuable connections through dedicated networking sessions and the Welcome Reception Gain practical insights into the future of fintech, digital payments, and financial infrastructure Agenda Highlights Day 1 - April 14, 2027: Workshops and Welcome Reception Opening discussions on emerging opportunities and the next generation of financial businesses AI agents, automated money movement, and customer loyalty Shared AI risk, performance guarantees, and financial innovation Practical workshop sessions for fintech professionals and founders Opportunities to exchange ideas and develop business connections Welcome Reception for registered festival attendees.
+
+Day 2 - April 15, 2027: Fintech Fest Startup Showcase featuring nine selected early-stage fintech companies Liquidity markets and funding solutions for 24/7 financial systems Financial services for creator income, AI work, and digital rights Digital identity, reusable credentials, and online verification AI computing finance, lending, and parametric insurance The Ledger: Industry predictions, networking, and closing social Join CrossTech Fintech Fest 2027 to discover new opportunities and connect with the global fintech and cross-border payments community.
+
+<a id="event-10f4b71696897bfe"></a>
+
+## ETHGlobal Cannes 2027
+
+- Record: `coinpedia-ethglobal-cannes`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-14T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://ethglobal.com/events/cannes2027>
+
+### About the event
+
+Get ready to explore, experiment, and innovate at ETHGlobal Cannes 2027, from April 14-16, 2027, in Cannes, France. Developers, blockchain enthusiasts, entrepreneurs, and creative minds will come together for this exciting Web3 hackathon to create new solutions for the decentralized future. In addition to connecting with those shaping the future of the internet, participants will have the chance to check out the latest Ethereum technologies. Organized By ETHGlobal is a global Web3 community that hosts developer events and hackathons to encourage the expansion of the Ethereum ecosystem, helping developers learn, build, collaborate, and connect with blockchain leaders around the world.
+
+Event Highlights 800+ expected attendees from the global Web3 community. 10+ protocols to explore and build with. 29+ workshops offering practical learning opportunities. Beginner-friendly environment with mentorship and networking. Why Attend ETHGlobal Cannes 2027?
+
+Build innovative decentralized applications Learn directly from experienced technical mentors Explore the latest Ethereum and Web3 technologies Network with global blockchain developers and industry experts Turn creative ideas into real-world blockchain projects Discover collaboration and career opportunities in the Web3 ecosystem Event Themes Ethereum Development and Smart Contracts Decentralized Finance (DeFi) Web3 Applications and Infrastructure Blockchain Security and Scalability Decentralized Identity and Digital Ownership Don't miss ETHGlobal Cannes 2027, a must-attend Ethereum hackathon and Web3 innovation event, to share your ideas, meet bright minds, and contribute to the development of the internet of the future.
+
+<a id="event-54e7ba81a506ae5d"></a>
+
+## Pragma Cannes 2027
+
+- Record: `coinpedia-pragma-cannes`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-15T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://ethglobal.com/events/pragma-cannes2027>
+
+### About the event
+
+Explore the future of Web3 at Pragma Cannes 2027, on April 15, 2027, in Cannes, France. A specially selected group of founders, developers, and blockchain leaders will come together for a private one-day event to have important discussions regarding Ethereum's future and the Web3 platform. Organized By ETHGlobal is a global community that supports the Ethereum industry through hackathons, developer events, and networking opportunities, helping builders turn innovative ideas into reality.
+
+Event Highlights Discussions on the future of Web3 and blockchain technology Insights from leading founders and experienced builders Connect with key people in the Ethereum ecosystem Conversations about past developments and future opportunities What Makes Pragma Special?
+
+No Parallel Sessions: Everyone shares the same event experience Invite Only: A carefully selected audience of participants Top Founders: Connect with leading Web3 entrepreneurs Curated Content: Focused discussions and valuable insights Beginner-friendly: Welcoming to people exploring Web3 Intimate Discussions: Meaningful conversations and networking Attend Pragma Cannes 2027 to discover new opportunities in the blockchain and Web3 arena, exchange innovative ideas, and form beneficial contacts. Participate in a unique Web3 conference in Cannes that promotes innovation and deep discussions.
+
+<a id="event-095fdd7381fb38a2"></a>
+
+## UK FinTech Week 2027
+
+- Record: `coinpedia-uk-fintech-week`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-19T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.innovatefinance.com/ukfintechweek/>
+
+### About the event
+
+Get ready to connect, discover, and experience the next wave of financial innovation at UK FinTech Week 2027, taking place from 19th April to 23rd April 2027 across the UK, with its flagship event, Innovate Finance Global Summit (IFGS), hosted at Guildhall, London, on 20th April. This five-day celebration will bring together leading minds from the global financial technology industry to explore new ideas, discuss industry challenges, and discover opportunities shaping the future of finance. UK FinTech Week will feature a curated programme of events, expert discussions, networking sessions, and exciting startup activities.
+
+From digital banking and payments to artificial intelligence, financial inclusion, and regulatory developments, the week will highlight the latest trends transforming financial services. Organised By Innovate Finance is a leading organisation supporting the UK's fintech industry. It connects startups, investors, established financial institutions, and policymakers to encourage collaboration and make financial services more innovative, accessible, and efficient.
+
+Event Highlights Meet over 1,500 attendees Representatives from 70+ countries Watch ten innovative fintech companies present their business ideas Explore important topics Global Networking Official Closing Party Why Attend UK FinTech Week 2027?
+
+Discover the latest fintech trends, technologies, and business opportunities Learn from industry leaders and experts shaping the future of financial services Build valuable connections with international investors, entrepreneurs, and financial institutions Explore startup innovations and discover promising fintech companies Understand upcoming financial regulations, industry developments, and emerging market opportunities Don't miss this important fintech conference and networking event: UK FinTech Week 2027. Connect with global leaders, explore emerging technologies, and discover why London remains a leading destination for the global fintech ecosystem!
+
 <a id="event-47c5edb1a8153240"></a>
 
 ## Hong Kong Web3 Festival 2027
@@ -3390,6 +5535,26 @@ The venue address: 1 Boulevard de la Croisette 06400 Cannes France
 ### About the event
 
 The 5th annual Hong Kong Web3 Festival, co-hosted by Wanxiang Blockchain Labs and HashKey Group and organized by W3ME at the Hong Kong Convention and Exhibition Centre (HKCEC). As one of the largest cryptocurrency and blockchain summits in Asia, the festival convenes industry leaders, builders, policymakers, and venture capitalists to discuss Layer-2 scaling, open finance, digital asset regulation, decentralized AI, and institutional blockchain adoption across global markets.
+
+<a id="event-91f6b20e7f7d4caa"></a>
+
+## TokenFest Dubai 2027
+
+- Record: `coinpedia-tokenfest-dubai`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-20T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.tokenfest.ae/>
+
+### About the event
+
+TokenFest Dubai 2027 will be held on 20 April 2027 at Dubai Marina, United Arab Emirates. TokenFest is an international conference on cryptocurrency and blockchain that features the founders of cryptocurrencies, investors, developers, exchanges, banks, and other professionals in the industry.TokenFest is concerned with areas such as digital assets, stablecoins, tokenisation of real-world assets (RWA), DeFi, and blockchain infrastructure. Organised By TokenFest is a global crypto conference that brings together startups, corporates, investors, tech providers and experts.
+
+Event Highlights Cryptocurrency Markets: Learn about cryptocurrency markets, trading, derivatives, institutional investing and emerging markets Payments: Learn about the effect that stablecoins have on how money moves and gets settled. RWA Tokenization: Learn how real-world assets, like shares, are turned into tokens using blockchain technology. Blockchain and AI: Gain an understanding of blockchain, artificial intelligence, DeFi and other related topics. Networking: Meet investors, startup creators, trading platforms, banks and people who work in the cryptocurrency industry. Why Attend TokenFest Dubai 2027?
+
+TokenFest gives people a chance to learn about the changes in cryptocurrency, Web3 and digital finance. Visitors can check out projects, connect with possible investors, see fresh products and make valuable business connections in the worldwide crypto world. Agenda Highlights Stable Coins and Payments: Learn more about how stable coins can be utilised and blockchain-powered payment solutions. DeFi & Tokenisation: Learn more about what DeFi is and how real world assets can be tokenized. Investments: Explore ways to invest in assets and institutions and you will discover new opportunities. Blockchain: See where AI meets crypto. You will grasp the synergy.
+
+Trading and Derivatives: Try asset trading, prediction markets and perpetual futures and you will sharpen your skills. Don't miss TokenFest Dubai 2027, taking place on 20 April 2027 in Dubai, UAE. Connect and discover opportunities across the digital asset industry with global crypto professionals, exploring blockchain innovation.
 
 <a id="event-cbcb72990157ab61"></a>
 
@@ -3408,6 +5573,139 @@ TOKEN2049 Dubai takes place at Madinat Jumeirah on April 21 and 22, 2027. The tw
 The premier crypto event bringing together 15,000+ attendees from 4,000+ companies and 160+ countries for a two-day gathering featuring 200+ speakers, 200+ exhibitors, and over 500 side events.
 
 This listing reflects the organizer's published information for TOKEN2049 Dubai 2027 on Apr 21 - 22, 2027 in Dubai, AE. Register and confirm ticket inclusions on the official event page.
+
+<a id="event-21efd0d470e91f5f"></a>
+
+## Mexico Finance and Fintech Summit 2027
+
+- Record: `coinpedia-mexico-finance-fintech-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-21T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://mexicobusiness.events/finance/2027/04>
+
+### About the event
+
+Get ready to explore financial innovation at the Mexico Finance and Fintech Summit 2027, on
+
+April 21, 2027, in Mexico City, Mexico. Currently in its fifth edition, this high-level conference will bring together fintech CEOs, payment specialists, technology providers, decision-makers, and finance professionals to explore the trends influencing Mexico's payments and financial services industry. Organized By Mexico Business Events is a B2B event organiser that hosts 10 exclusive, high-level conferences across key industries. Through in-person, virtual, and hybrid events, it connects business leaders with industry experts through quality networking, AI-powered matchmaking, and insightful speaker sessions.
+
+Event Highlights 250+ High-Level Attendees 30+ Expert Speakers 5th Edition: Mexico's finance and fintech ecosystem AI-based matchmaking builds meaningful professional relationships Why Attend Mexico Finance and Fintech 2027? Explore the latest developments in Mexico's financial services and digital payments industry. Understand how financial data standards can improve collaboration between public and private organizations. Learn how financial institutions can adapt to rapid technological changes. Discover innovative solutions to payment fragmentation and operational challenges. Explore digital identity frameworks that support secure financial inclusion.
+
+Connect with banking executives, fintech founders, investors, and technology providers. Build valuable business relationships through dedicated networking sessions and AI-powered matchmaking.  Program Highlights
+
+- 8:00 -
+- 9:00 AM: Networking Breakfast and AI-Based Matchmaking.
+- 9:00 -
+- 10:00 AM: Opening Presentation and Industry Panel Discussion.
+- 10:00 -
+- 11:50 AM: Networking Coffee Break followed by two expert panel discussions
+- 11:50 AM -
+- 1:20 PM: Coffee Networking, Panel Discussion, and Industry Presentation.
+- 1:20 -
+- 2:30 PM: Networking Lunch and AI-Based Matchmaking.
+- 2:30 -
+- 4:00 PM: Expert Presentation, Panel Discussion, and Networking Cocktail. Dont miss Mexico's growing financial innovation journey at Mexico Finance and Fintech 2027, where industry knowledge, fintech innovation, digital payments, and meaningful business connections come together to shape the future of financial services.
+
+<a id="event-482e9ee5579e4386"></a>
+
+## Money Expo Abu Dhabi 2027
+
+- Record: `coinpedia-money-expo-abu-dhabi`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-21T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://moneyexpoglobal.com/abudhabi/en>
+
+### About the event
+
+Get ready to connect, discover, and grow at Money Expo Abu Dhabi 2027, from 21-22 April 2027 at ADNEC Centre Abu Dhabi, UAE. This two-day event will bring together financial professionals, global investors, traders, fintech innovators, and industry leaders under one roof. The expo will offer a forum to explore novel concepts and comprehend the evolving financial landscape, with a focus on online trading, financial technology, blockchain, and investment opportunities.
+
+Organised By Money Expo Abu Dhabi 2027 is organised by HQMENA, an international event management and exhibition company that delivers professional business events, conferences, and marketing solutions across the Middle East, Africa, Asia, the Americas, and LATAM. Event Highlights 4,500+ Attendees 500+ B2B Visitors 50+ Exhibitors 50+ Speakers 10+ Countries Why Attend Money Expo Abu Dhabi 2027?
+
+Learn about the latest financial market trends, online trading strategies, and investment developments Connect with brokers, investors, financial institutions, and fintech companies Take part in educational workshops, live demonstrations, and engaging discussions Discover emerging opportunities in forex, digital assets, fintech, and financial services Understand how blockchain, artificial intelligence, and new financial technologies are transforming the industry Participate in Money Expo Abu Dhabi 2027, one of the most interesting financial and fintech events in the United Arab Emirates, to learn about emerging opportunities.
+
+<a id="event-2e04d04d5d068cd1"></a>
+
+## Money2020 Asia 2027
+
+- Record: `coinpedia-money2020-asia`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-27T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://bit.ly/m2020asia>
+
+### About the event
+
+Step into the future of finance at Money20/20 Asia 2027, from 27-29 April 2027 at the Queen Sirikit National Convention Center in Bangkok, Thailand. This fintech event, which is back for its fourth edition, brings together the individuals, concepts, technology, and companies influencing the future of money in the Asia-Pacific region.
+
+The event offers three action-packed days of insights, innovation, deal-making, and high-value networking. Organised By Money20/20 is the world's leading premium content, sales, and networking platform for the global money ecosystem, connecting influential leaders and businesses through world-class insights, conversations, and opportunities. Event Highlights 5,000+ senior-level attendees 1,900+ companies from more than 95 countries 360+ industry-leading speakers 200+ sponsors and 150+ regional and global banks Policy20 and Intersection return Why Attend Money20/20 Asia 2027?
+
+Accelerate business growth: Meet C-suite executives, investors, financial institutions, and decision-makers ready to build meaningful partnerships. Unlock APAC opportunities: Explore Asia's rapidly evolving fintech markets and discover opportunities for regional and cross-border expansion. Stay ahead of innovation: Gain fresh perspectives on payments, banking, digital assets, AI, embedded finance, and financial infrastructure. Build valuable connections: Turn three days of smart networking into long-term relationships, investment opportunities, and business success.
+
+Featured Speakers David Roi Hardoon - Managing Director & Head, Advanced AI, Southeast Asia, Accenture Cindy Xu - Managing Director, Head of Asia Fintech and China Financial Institutions, J.P. Morgan Helen Shen - Group Head of Products, Singapore Life Limited Dwaipayan Sadhu - Chief Executive Officer, Trust Bank Jessica Lam - Group Chief Strategy Officer, WeLab Don't miss Money20/20 Asia 2027-participate in the discussion, form new partnerships, and learn about the fintech innovations influencing APAC's financial future.
+
+<a id="event-2715dc41e69d274d"></a>
+
+## The Africa Blockchain DeFi and Web3 Summit
+
+- Record: `coinpedia-africa-blockchain-defi-web3-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-28T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.abds.com.ng/>
+
+### About the event
+
+Step into Africa's future of digital revolution. The Africa Blockchain, DeFi and Web3 Summit (ABDS) 2027, from 28 April to 1 May 2027 across three venues in Victoria Island, Lagos, Nigeria. This four-day event will bring together blockchain experts, Web3 innovators, investors, regulators, IT leaders, and business decision-makers during Africa Blockchain Week. The conference provides an exciting forum to explore the future of Africa's digital economy through keynote topics, expert talks, exhibitions, startup showcases, and exclusive networking.
+
+Organized By TUA Events LTD is a Nigeria-based event management company specializing in conferences, seminars, B2B and B2C events, business gatherings and professional networking experiences. What Is ABDS? ABDS is a leading gathering for Africa's blockchain, DeFi and Web3 communities. It brings together innovators and leaders in the business to share ideas, investigate prospects, and talk about the technologies shaping the digital future of the country. The West Africa Gaming Convention (WAGCON 2027) will be held in 2027, connecting the gaming, esports, and blockchain communities.
+
+Event Highlights 60+ Speakers Conference and Exhibition Startup Showcases Expert Networking Gaming Meets Blockchain Why Attend Africa Blockchain, DeFi and Web3 Summit? Learn about new blockchain and decentralized finance trends Build valuable connections with Africa's Web3 community Discover investment, partnership and business opportunities Explore blockchain-powered gaming and digital asset ownership Gain insights into regulations, funding and technology across Africa The ABDS 2027 Experience Executive Dinner - 28 April: An invitation-only gathering for senior founders, investors and leaders at Four Points by Sheraton.
+
+Conference and Exhibitions - 29-30 April: Two days of keynotes, bootcamps, expert panels, startup pitches and exhibitions at Lagos Oriental Hotel. After Dark - 1 May: An industry celebration and networking evening at La Maison de Fahrenheit. Cross-Industry Connections: Meet professionals from both ABDS and WAGCON and explore opportunities across gaming and Web3.
+
+Main Key Tracks Blockchain Adoption and Web3 Infrastructure Decentralized Finance and Digital Payments GameFi, Gaming and Esports Innovation Digital Asset Ownership and Tokenization Regulation, Investment and Startup Growth Don't miss ABDS 2027 and connect with the innovators shaping the next chapter of the African blockchain and Web3 ecosystem.
+
+<a id="event-8d211bda6ac3a94a"></a>
+
+## West Africa Gaming Convention 2027
+
+- Record: `coinpedia-west-africa-gaming-convention`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-04-28T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://wagconvention.com/>
+
+### About the event
+
+Experince the gaming experience at the West Africa Gaming Convention 2027 (WAGCON), from 28 April to 1 May 2027 in Victoria Island, Lagos, Nigeria. Gaming experts, esports competitors, game developers, iGaming operators, investors, and tech innovators will gather for this four-day event to discuss the future of Africa's gaming sector. WAGCON 2027 offers an engaging mix of conferences, exhibitions, esports competitions, networking events, and industry celebrations, providing a venue for finding new prospects, showcasing innovations, and building valuable business partnerships.
+
+The event will also be co-located with ABDS 2027 - Africa Blockchain Week. Organised By TUA Events Ltd is an event management company with headquarters in Nigeria that specializes in planning business events, conferences, seminars, B2B and B2C meetings, and networking opportunities. WHAT IS WAGCON? West Africa Gaming Convention is a major gaming, esports, and interactive entertainment event focused on Africa's growing digital entertainment industry. It connects game studios, esports organizations, iGaming operators, investors, technology providers, and content creators to share ideas, explore new technologies, and build partnerships.
+
+The 2027 edition expects over 2,400 delegates, 80+ speakers, and 120+ exhibiting brands and studios from more than 25 countries. Event Highlights 2,400+ Expected Delegates from over 25 countries 80+ Speakers from gaming, esports and iGaming 120+ Exhibiting Brands Live Esports Action, gaming and industry showcases B2B Networking and potential business partners Why Attend WEST AFRICA GAMING CONVENTION 2027?
+
+Build valuable connections with industry decision-makers Explore business opportunities in Africa's growing gaming market Discover innovations in Web3 gaming, AI and betting technology Present products and services to a targeted industry audience Learn about investment, regulation and market expansion THE WAGCON 2027 EXPERIENCE VIP Leaders Dinner - 28 April: An exclusive networking dinner at Four Points by Sheraton Conference & Exhibition - 29-30 April: Two days of sessions, panels, exhibitions, esports and startup showcases at Lagos Oriental Hotel Industry After Party - 1 May: Celebrate and network at La Maison de Fahrenheit Co-located Industry Programme: Connect gaming opportunities with blockchain and digital assets Main Key Tracks WAGCON 2027 will cover 14 key content tracks, including: Mobile Gaming and Game Development Esports and Competitive Gaming iGaming and Sports Betting Technology Regulation, Licensing, and Policy Web3 and Blockchain Gaming Betting Payments and FinTech Game Publishing and Distribution AI in Gaming and Odds Analytics AR/VR and Immersive Technology Indie Studios and African Intellectual Property Gaming Investment and Venture Capital Monetization and Player Retention Community and Creator Economy African Gaming Studios and Global Markets Don't miss West Africa Gaming Convention 2027, an essential gaming, esports, and Web3 technology event in Africa, discover new prospects, network with international innovators, and experience the future of African digital gaming.
+
+<a id="event-03e408fcb190ab04"></a>
+
+## SiGMA Euro Med 2027
+
+- Record: `coinpedia-sigma-euro-med`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-03T12:51:00.000Z
+- Description: Source-backed
+- Original page: <https://sigma.world/euro-med/>
+
+### About the event
+
+Join the SiGMA Euro-Med 2027, scheduled from 3rd to 5th May 2027, in Valletta, Malta. It gathers over 12,000 delegates, 400+ professional audio systems, and four hundred+ sponsors and exhibitors from the worldwide gaming enterprise.
+
+The event offers prestigious gaming awards, charity auctions, VIP lounges, startup pitch competitions, and networking activities like tournaments and dinners. Positioned in early spring, SiGMA Euro-Med gives a strategic Q1 timing to revel in Malta's pleasant climate and rich lifestyle at the same time as avoiding top season crowds.
+
+The event emphasises accessibility with improved international flight connectivity and aims to create a future-focused platform for the gaming and technology community to connect and innovate. Organized By SiGMA World is a popular event organizer and iGaming platform that focuses on fintech, blockchain, AI, responsible gaming, and regulation. As a platform It offers news, analysis, and expert opinion in eleven languages, including English, French, Spanish, Mandarin, and Hindi.
+
+Event Highlights More than 400 sponsors and exhibitors 12,000 delegates More than 400 knowledgeable speakers Charity auction and prestigious gaming awards Held at the recently renovated MFCC Networking spaces, relaxation areas, and VIP lounges Two startup pitch competitions Activities for networking: dinners, sporting activities, and tournaments Agenda Day 1 Delegates arrival Exhibitors pre-registration C-level golf tournament Delegates pre-registration Welcome reception Activity - a signature sigma experience SiGMA awards Day 2 Exhibition - Day 1 Conference - Euri-med 2027 Networking drinks SiGMA poker tour iGahering dinner Day 3 Exhibition - Day 2 Conference - Euri-med 2027 Networking drinks Exclusive networking reception SiGMA official celebration Day 4 Delegates departure Startup Pitch Benefits Startup lounge access Presentation for 6 finalists Premium networking opportunity PR from magazines, websites, email newsletters, and interviews Award Ceremony Special Gala Celebration World Class Entertainment Motivating Charity Auction A Select Group of Prominent Leaders and C-Level Executives SiGMA Euro-Med 2027 stands as Malta's premier iGaming summit, uniting 12,000+ delegates for innovation, awards, and unmatched Mediterranean networking.
 
 <a id="event-a789ceddb778530b"></a>
 
@@ -3434,6 +5732,74 @@ Over three days, Consensus Miami convenes more than 15,000 attendees spanning en
 - **Town Halls & Policy Debates:** Open forums with policymakers addressing securities law, stablecoin standards, and custody regulations in the United States.
 - **Exhibition & Startup Pitch Competitions:** Showcases highlighting early-stage Web3 innovations across DeFi, DePIN, and on-chain gaming.
 
+<a id="event-2991df166f6b68b5"></a>
+
+## 6th FinTech Week and Expo 2027
+
+- Record: `coinpedia-6th-fintech-week-expo`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-04T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://eufintechweek.com/>
+
+### About the event
+
+Have a great chance to attend the 6th FinTech Week and Expo 2027, from May 4-5, 2027, in Paris, France. The theme is "The Future of European Finance: AI, Instant Payments & Digital Trust." This international event will gather fintech founders, banking executives, investors, regulators, and technology experts.
+
+The event will explore the latest developments in AI, digital payments, cybersecurity, open finance, and financial technology. Organised By The People Events is a global B2B event organiser that hosts conferences, expos, and exhibitions across science, technology, business, sustainability, and high-growth industries. Event Highlights 20+ Expert Sessions 500+ Attendees 70+ Expert Speakers Global Networking Fintech Exhibition Why Attend FinTech Week & Expo 2027?
+
+Learn about emerging technologies transforming European and global finance Connect with fintech entrepreneurs, banking leaders, investors, and regulators Discover practical solutions for payments, fraud prevention, and financial security Generate business leads and explore strategic partnerships Gain fresh ideas to improve financial services and support business growth Main Themes and Topics AI in Finance: AI-powered banking and automated financial services Instant and Cross-Border Payments: Faster transactions and modern payment infrastructure Digital Trust and Identity: Secure digital identities, data protection, and customer confidence Open Finance and Tokenisation: New opportunities for connected financial services and digital assets Cybersecurity and Regulatory Innovation: Fraud prevention, financial crime compliance, and evolving regulations Event Features Take the Stage: Share expertise through keynote presentations, panel discussions, and fireside chats Connect and Generate Leads: Meet potential clients, partners, and industry decision-makers Showcase Your Solutions: Present fintech products and services to an interested professional audience Expert-Led Discussions: Exchange knowledge and explore real-world financial challenges Strategic Networking: Build relationships across the banking, fintech, and technology industry Confirmed World-Class Speakers Boris A. Strucken - Vice President and Managing Director, FIS GmbH & FIS Operations GmbH; Solution Leader, Product, Germany.
+
+Lea Cys - Director of Growth and Partnerships DACH, finperks GmbH, Germany Jakub Więcław - Chairman of the Board, Magnetiq Bank, Latvia Luis Miguel Escudeiro - Head of Banking and VP Solutions, Skaleet, France Fred Hesse - Head of Partnerships - DACH, Wise Platform, UK Don't miss the 6th FinTech Week & Expo 2027 in Paris to discover new ideas, build meaningful business connections, and explore the future of AI-driven finance, digital payments, and financial innovation at a leading fintech networking event.
+
+<a id="event-7a10f790f46111b9"></a>
+
+## Cyprus FinTech Week 2027
+
+- Record: `coinpedia-cyprus-fintech-week`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-05T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://cyprusfintechweek.com/>
+
+### About the event
+
+Get ready to explore new opportunities, exchange ideas, and connect with global financial leaders at Cyprus FinTech Week 2027, taking place on May 5th, 2027, at the Cypria Maris, Paphos, Cyprus. This one-day event aims to bring together professionals from the FinTech, banking, trading, and digital finance industries as the first worldwide FinTech experience in Cyprus. With a focus on innovation and teamwork, the event will establish Cyprus as a developing hub connecting Europe, the Middle East, and Asia while providing a forum for talking about the future of financial technology.
+
+Organised By XValley Technologies offers innovative features that make trading operations simpler and more effective, such as web and mobile trading platforms, real-time risk management systems, and client relationship facilities. Event Highlights Global FinTech Conference and financial infrastructure 200+ Senior Executives International Networking VIP Experiences Trading Competitions and Exhibitions Why Attend Cyprus FinTech Week 2027?
+
+Learn about the latest FinTech trends and developments shaping the financial industry Meet investors, business leaders, brokers, traders, and technology professionals Discover new opportunities in digital assets, payment technologies, and financial services Exchange ideas with industry experts and gain practical business insights Explore partnerships and expand your professional network in the international FinTech market Featured Speakers Christiana Aristidou - Founder Partner and Director, The Hybrid LawTech Xenia Neophytou - Founder, CX Financia: Leads a boutique advisory Angelos Kleanthous - Founder, HugeOne: An experienced entrepreneur Don't miss the future at Cyprus FinTech Week 2027.
+
+Attend this fascinating FinTech networking and innovation event in Cyprus to learn new concepts, form strong relationships, and experience the future of financial technology.
+
+<a id="event-168c229b706e342a"></a>
+
+## Fintech Revolution Summit Philippines 2027
+
+- Record: `coinpedia-fintech-revolution-summit-philippines`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-05T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.fintechrevolutionseries.com/philippines/>
+
+### About the event
+
+Get ready to attend Fintech Revolution Summit Philippines 2027 on
+
+May 5, 2027, in Manila, Philippines. The summit's main theme is "Philippines FSI Evolution: From Access to Digital-First Finance. The summit will bring together banking leaders, fintech innovators, technology providers, financial institutions, and decision-makers to explore the future of financial services. The event will highlight AI-powered banking, digital payments, financial inclusion, e-money, cybersecurity, and next-generation banking infrastructure as the Philippines transitions to a more interconnected and digital-first economy. It will provide a forum for discussing ideas, finding creative solutions, and forming significant commercial partnerships.
+
+Organized By TraiCon India is a global B2B event management and training company that hosts summits and conferences with an industry focus. Through networking, knowledge exchange, and commercial prospects, it links companies, experts, and technology providers. Event Highlights 300+ Pre-Screened Decision-Makers and potential business partners 200+ Leading Organisations and technology businesses 20+ Solution Providers and financial technology solutions 100+ Customized Business Meetings encourage partnerships and business growth Why Attend Fintech Revolution Summit Philippines 2027? Connect with C-suite executives, founders, banking professionals, investors, and technology decision-makers.
+
+Participate in pre-scheduled one-to-one meetings with potential clients and business partners. Explore Fintech Innovations in AI banking, digital lending, payment solutions, open banking, and automation. Present your products, services, and technologies to a targeted audience of financial services professionals. Attend keynote sessions, panel discussions, and fireside chats covering the future of Philippine financial services. Join the FT Leaders Awards and Gala Night celebrating outstanding financial technology leaders and industry achievements.  Programme Highlights -
+
+- 08:00-08:50 AM: Registration, Check-in & Networking with Coffee -
+- 08:50-09:00 AM: Inauguration, Ribbon Cutting & Opening Performance -
+- 09:00-09:20 AM: Beyond Digital: Building the Philippines' Intelligent Financial Future -
+- 09:20-09:35 AM: The AI-Powered Bank: Moving from Digital Banking to Intelligent Banking -
+- 09:35-09:50 AM: The Next Era of Digital Payments: Speed, Trust and Interoperability -
+- 09:50-10:05 AM: From Data Sprawl to Agentic AI: Simplifying Operational Data for Modern Financial Services -
+- 10:05-10:35 AM: Open Finance, Embedded Finance & Next-Generation Banking Infrastructure Don't miss the Fintech Revolution Summit Philippines 2027, an exciting opportunity to explore new technologies, strengthen industry connections, and discover the future of fintech events in the Philippines.
+
 <a id="event-170a366959037179"></a>
 
 ## ETHDam Amsterdam 2027
@@ -3457,6 +5823,138 @@ An organizer description has not been verified for this record. Any previous cop
 - Original page: <https://ethprague.com>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ccc3b78d9b41d5e6"></a>
+
+## International Conference on AI Blockchain and Cybersecurity 2027
+
+- Record: `coinpedia-international-conference-ai-blockchain-cybersecurity`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-17T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://cognitionconferences.com/cybersecurity/>
+
+### About the event
+
+Explore the future of digital security and intelligent technologies at the International Conference on AI, Blockchain and Cybersecurity 2027, May 17-19, 2027, in Tokyo, Japan. The main theme of the conference is "Securing the Digital Future Through AI, Blockchain and Intelligent Cyber Defence Technologies.
+
+The event will focus on the latest developments in AI, blockchain security, data protection, cyber risk management, and intelligent defence systems. It will offer a useful forum for sharing information, discussing new threats, and investigating viable options for creating a more secure and safe online experience. Organised By Cognition Conferences is a global scientific conference organizer that connects researchers, academicians, industry experts, and professionals to encourage knowledge sharing, research excellence, and technological innovation across different disciplines.
+
+Event Highlights Discover the most recent advancements in intelligent defense and cybersecurity solutions driven by AI. Learn about advanced digital trust frameworks, data protection, and blockchain security. Take part in interactive seminars, research presentations, and expert-led conversations. Make connections with global scholars, legislators, IT pioneers, and cybersecurity experts. Why Attend the 2nd International Conference on AI, Blockchain and Cybersecurity? Learn from Global Experts: Gain valuable insights from international cybersecurity specialists, researchers, and technology leaders.
+
+Explore AI Innovations: Understand how artificial intelligence and machine learning are improving threat detection and prevention. Discover Blockchain Security: Learn about secure blockchain frameworks, decentralized technologies, and digital identity protection. Understand Emerging Threats: Explore cyber risk management, privacy protection, and advanced security challenges. Present Your Research: Share scientific findings through oral and poster presentations and connect with the global research community. Build Professional Connections: Network with industry professionals, academic institutions, government representatives, and technology experts.
+
+Key Benefits for Attendees Gain practical knowledge of modern cybersecurity strategies and digital defence. Discover emerging technologies and future cybersecurity research. Participate in interactive discussions, workshops, and expert presentations. Explore opportunities for academic collaboration and industry partnerships. Improve professional knowledge of cyber resilience, risk mitigation, and secure digital transformation. Aim of the Conference Encourage international knowledge sharing and interdisciplinary cybersecurity research. Connect academic research with industry practices and technology development. Promote intelligent, secure, and resilient digital ecosystems.
+
+Support the development of trustworthy and future-ready digital infrastructure. Don't miss the 2nd International Conference on AI, Blockchain and Cybersecurity 2027 to discover new opportunities in AI, blockchain, and digital protection at cybersecurity conferences in Japan in 2027.
+
+<a id="event-229baa78b2830d32"></a>
+
+## Digital Money Summit 2027
+
+- Record: `coinpedia-digital-money-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-18T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.omfif.org/dms2027/>
+
+### About the event
+
+Discover more about the future of money at Digital Money Summit 2027, from 18-19 May 2027 in London, UK. This summit will focus on how digital money impacts the global financial system by bringing together top experts from central banking, government, financial services, and technology.
+
+The event will focus on new opportunities, increasing issues, and practical solutions for creating a secure, accessible, and regulated digital financial future, from tokenized accounts and stablecoins to blockchain payments and digital currencies. Organised By The Official Monetary and Financial Institutions Forum (OMFIF) is an independent platform that offers analysis, research, and insights on economic policy and international finance. Through gatherings, conversations, and publications, it connects central banks, financial institutions, governments, and business executives.
+
+Event Highlights Future of digital money, stablecoins and tokenised deposits Insights into central bank digital currencies (CBDCs) and their development Blockchain technology and its role in payments and financial markets Conversations about cryptoasset regulation, financial security and compliance Expert perspectives on creating inclusive and innovative digital financial systems Why Attend Digital Money Summit 2027?
+
+Make connections with policymakers, technological specialists, financial leaders, and central bankers Learn about the developments in financial innovation and digital currencies Understand how changing regulations affect digital money Discuss business opportunities and share ideas with leaders in the field Learn useful information on how payments and financial infrastructure will develop in the future Previous Speakers The 2026 edition featured experienced professionals from leading financial institutions, including: Nora Albakr - Deputy Governor for Financial Innovation, Saudi Central Bank. Isadora Arredondo - Vice President, Global Policy, Hedera.
+
+Emma Butterworth - Head of Financial Market Infrastructure Innovation and Payments Policy, Bank of England. Carla Carriveau - Head of Office of International Affairs and Senior Adviser to the Acting Superintendent, New York Department of Financial Services. Austin Elwood - Digital Assets Industry Lead, NatWest Group. Be part of the Digital Money Summit 2027 in London to connect with global financial leaders, discover new innovations and explore the opportunities shaping the future of digital money and financial services.
+
+<a id="event-44ce3605e235ba0a"></a>
+
+## MILANO BLOCKCHAIN WEEK 2027
+
+- Record: `coinpedia-milano-blockchain-week`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-20T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://milanoblockchainweek.com/>
+
+### About the event
+
+Get ready to explore the future of blockchain innovation at MILANO BLOCKCHAIN WEEK 2027 from 20-22 May 2027 at Museo della Scienza e della Tecnologia Leonardo da Vinci, Milan, Italy. This three-day event will build an exciting environment for learning, networking, and collaboration by bringing together blockchain enthusiasts, Web3 developers, institutional investors, business executives, and technological innovators. The conference will cover the most recent advancements in Bitcoin, Ethereum, DeFi, tokenization, stablecoins, and digital finance, with three days set aside for builders, financial institutions, and the general public.
+
+Organised By The event, which is organized by the team behind ETHMilan, aims to expand the Web3 and Ethereum community in Italy while increasing accessibility to blockchain innovation and knowledge Event Highlights 1. Builders Day - 20 May: Technical talks, workshops, and discussions covering blockchain infrastructure, DeFi, and Web3 development. 2. Institutional Day - 21 May: Explore stablecoins, digital assets, regulation, tokenisation, payments, and custody solutions. 3. Community Day - 22 May: Interactive workshops, mentoring sessions, and learning opportunities for students and newcomers.
+
+4. Global Industry Participation: Connect with developers, founders, financial institutions, investors, and policymakers from different countries. 5. Major Industry Scale: The event highlights a projected platform of 3,600+ attendees, 366 speakers, 87 sponsors, and participants from 62 countries. Why Attend MILANO BLOCKCHAIN WEEK 2027? Get to know top Web3 founders, blockchain developers, and tech experts. Learn about fresh prospects in digital assets, Ethereum, DeFi, and cryptocurrencies. Recognize how blockchain is changing conventional financial services and banking. Develop beneficial commercial relationships with institutions, investors, and international IT firms.
+
+Participate in seminars, expert talks, and community events to acquire practical knowledge. Event Themes 1. Blockchain Infrastructure and Ethereum Development 2. Decentralised Finance (DeFi) and Web3 Applications 3. Stablecoins, Tokenisation, and Digital Assets 4. Blockchain Regulation and Institutional Adoption 5. Cryptocurrency Payments, Custody, and Financial Innovation MILANO BLOCKCHAIN WEEK 2027 is an exciting chance to meet the individuals creating the digital economy of the future. Become part of the growing Web3 and cryptocurrency community in Europe by attending this premier blockchain event in Italy.
+
+<a id="event-ac0e0a877df6c53d"></a>
+
+## WFIS Vietnam 2027
+
+- Record: `coinpedia-wfis-vietnam`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-25T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://vietnam.worldfis.com/>
+
+### About the event
+
+Get ready to explore the future of financial innovation at WFIS Vietnam 2027, from 25-26 May 2027, at Meli&aacute; Hanoi, Vietnam. This two-day fintech conference will gather 600+ pre-qualified delegates, 250+ leading organisations, 40+ industry speakers, and 25+ solution providers to discuss how technology is transforming banking and financial services. WFIS Vietnam 2027 will offer valuable insights, networking opportunities, and practical solutions for building a smarter financial ecosystem, from AI and digital payments to cloud banking and financial inclusion.
+
+Organised By Tradepass is a global business organiser that connects technology buyers with industry experts, investors, and solution providers through events and business networking opportunities across Asia, the Middle East, Africa, and Europe. Event Highlights 600+ Pre-Qualified Delegates 40+ Industry Speakers 25+ Solution Providers Business-Focused Exhibition Awards, Gala and After-Hours Networking Why Attend WFIS Vietnam 2027? Discover Fintech Innovations: Learn how AI, automation, APIs, and big data are improving financial services. Build Strategic Partnerships: Meet banking leaders, technology providers, investors, and potential business partners.
+
+Explore Business Opportunities: Identify solutions that support digital transformation and business growth. Gain Industry Knowledge: Understand emerging trends in digital banking, cashless payments, and customer experience. Expand Professional Networks: Participate in focused networking sessions and connect with important industry stakeholders. Key Highlights Hosted Buyer Programme: Selected senior buyers can access curated one-to-one meetings with solution providers, subject to programme eligibility and confirmation. Exclusive Buyer Benefits: Eligible hosted buyers may receive complimentary flights, five-star accommodation, and access to the Hosted Buyers Lounge.
+
+Technology Exhibition: Explore solutions designed for banks, fintech companies, and financial service providers. Expert-Led Discussions: Learn about emerging technologies, industry challenges, and opportunities in financial services. Awards and Gala: Recognise outstanding talent, innovative products, and organisations driving industry progress. After-Hours Networking: Build connections and exchange ideas in a relaxed professional setting. Who Should Attend?
+
+Banking executives and senior banking professionals Fintech founders, CEOs, and business leaders Chief Information Officers (CIOs) and CTOs Digital transformation and innovation managers Technology providers and fintech solution vendors Regulators, financial consultants, and industry investors Main Themes of the Event Banking-as-a-Service (BaaS) and modular banking AI, automation, and digital customer onboarding APIs and connected financial ecosystems Mobile banking and customer-centric retail banking Big data and data-driven financial services Digital payments and cashless transactions Cloud transformation and information security Financial inclusion and digital banking innovation Be part of WFIS Vietnam 2027 and discover how emerging technologies are reshaping banking, payments, and financial services.
+
+Explore innovative fintech solutions and unlock new opportunities at one of Vietnam's important financial technology networking events.
+
+<a id="event-eca0ab502fdfcec3"></a>
+
+## Bitcoin treasuries conference UK 2027
+
+- Record: `coinpedia-bitcoin-treasuries-conference-uk`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-28T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.smarterwebcompany.co.uk/bitcoin-treasuries-conference-uk-2027/>
+
+### About the event
+
+Join the Bitcoin Treasuries Conference UK 2027, which will be held on Friday 28 May 2027 in Bristol, United Kingdom. This one-day event brings together senior executives, business leaders, institutional investors and professionals looking at the increasing use of Bitcoin within corporate finance. Organised By BitcoinTreasuries.net is a financial research centre and analytics tool that monitors and evaluates institutional Bitcoin use. It provides information on corporate Bitcoin treasury strategies by tracking Bitcoin holdings in public firms, private companies, ETFs, and sovereign governments.
+
+Event Highlights Corporate Bitcoin Treasury: Understand how companies are adding Bitcoin to their balance sheets, developing long-term Bitcoin treasury strategies. Investing in Bitcoin as an Institution: How institutional investors, public companies and finance professionals are looking at investing in Bitcoin for the long term. Bitcoin Custody: Discover how companies can safely hold their Bitcoin through institutional custodians. Networking: Connect with company executives, investors, Bitcoin treasurers and industry professionals. Why Attend Bitcoin Treasuries Conference UK 2027?
+
+Bitcoin Treasuries Conference UK 2027 is an excellent opportunity to get insight into how businesses are thinking about Bitcoin. Holding Bitcoin within a business balance sheet has many considerations beyond just buying it. Businesses need to think about accounting, governance, security, reporting and how investors will react. This conference brings together Bitcoin security and digital asset management. Agenda Highlights 1. Corporate Bitcoin Treasury Strategy: Learn how to allocate capital to Bitcoin, plus look at some real-world examples of building a long-term Bitcoin treasury strategy.
+
+2. Institutional Custody: Learn how companies can secure their Bitcoin by using institutional custody options. 3. Capital Markets and Investor Perspectives: Understand how capital is allocated; what investors expect; and what the market thinks. 4. Bitcoin as Digital Capital: Understand how organisations are assessing Bitcoin as a capital asset. Understand how it could be used within balance sheets and capital strategies. Don't miss Bitcoin Treasuries Conference UK 2027, taking place on 28 May 2027 in Bristol, United Kingdom.
+
+Explore how businesses are integrating Bitcoin into their financial strategies, learn about institutional investment and Bitcoin treasury management, and connect with professionals shaping the future of corporate Bitcoin adoption.
+
+<a id="event-d8008ebf5679d6ec"></a>
+
+## Money Expo Hong Kong 2027
+
+- Record: `coinpedia-money-expo-hong-kong`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-05-29T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://moneyexpoglobal.com/hongkong/en>
+
+### About the event
+
+Be part of the Money Expo Hong Kong 2027, from 29-30 May 2027 in Hong Kong. This two-day financial show will bring together brokers, banks, fintech startups, investors, technology suppliers, and financial experts from worldwide as part of the expanding Money Expo Global series.
+
+The event will give companies the chance to interact with decision-makers, discover new markets, and form beneficial partnerships throughout Asia and beyond, with a focus on global finance, online trading, payment solutions, and financial technology. Organised By HQMENA is a global financial event platform that brings industry leaders, innovators, and businesses together through international exhibitions and conferences.
+
+Event Highlights Global Financial Exhibition fintech companies, and financial service providers Expert-Led Conference Sessions and financial innovations 40+ Exhibitors and financial services 40+ Industry Speakers and financial market leaders Connect with 5,000+ attendees and professionals from 15+ countries Why Attend Money Expo Hong Kong 2027?
+
+Meet brokers, IBs, affiliates, investors, and financial decision-makers Discover business expansion opportunities across Greater China, Southeast Asia, and international markets Learn about the latest trading platforms, fintech products, payment systems, and liquidity solutions Understand new trends in online trading, financial markets, and regulatory developments Connect with potential business partners, clients, and technology providers Speakers The event features experienced professionals from leading financial organisations, including: Allan Song - Head of Data & Digital, Financing & Securities Services, Standard Chartered Bank Aman Mehta - Head of Client Development for Greater China, BNP Paribas Andrew Crawford - Executive Chairman, Trade3 Bj&ouml;rn Wahlstr&ouml;m - Chief Executive Officer, Sphere State Group Bobby Winters - Co-Founder of FXIFY and COO, Alchemy Markets Don't miss the Money Expo Hong Kong 2027, where global finance, fintech innovation, and online trading come together to shape the future of the financial industry.
 
 <a id="event-d8dfb9ec12d44c85"></a>
 
@@ -3505,6 +6003,48 @@ Tickets include talks, panels, workshops, meals and refreshments. The page's age
 - Original page: <https://ethbelgrade.rs>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-47dc15feb7de366d"></a>
+
+## Financial GRC Summit 2027
+
+- Record: `coinpedia-financial-grc-summit`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-06-08T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://financialgrcsummit.com/>
+
+### About the event
+
+Attend the Financial GRC Summit 2027, from June 8-10, 2027, in Oak Brook, Chicago, Illinois, USA. This conference will bring together senior leaders from financial institutions, fintech companies, regulatory organizations, and technology providers to discuss emerging risks, regulatory changes, and smarter ways to manage compliance. Attendees will gain useful insights to improve risk management and create more resilient financial organizations through expert panels, interactive conversations, and strategic networking.
+
+Organised By Converge Events is an event organiser that provides B2B conferences to connect leaders across fintech, banking, technology, and credit unions through meaningful discussions, industry insights, and valuable business relationships. Event Highlights AI Governance and Risk Management Integrated GRC Frameworks Fraud Prevention and Financial Crime Expert Speakers and Executive Discussions Strategic Networking and Technology Discovery Why Attend Financial GRC Summit 2027? Learn from Industry Leaders: Gain practical knowledge from experienced executives and GRC professionals.
+
+Understand Emerging Regulations: Discover how to adapt to changing compliance requirements and regulatory expectations. Improve Risk Visibility: Explore modern tools and strategies for continuous risk monitoring and stronger internal controls. Explore AI and Financial Technology: Understand how artificial intelligence is transforming governance, compliance, and fraud prevention. Build Valuable Connections: Participate in executive roundtables, curated meetings, and networking sessions with industry peers. Discover Innovative Solutions: Meet technology providers and explore tools that can improve operational efficiency and compliance management.  Agenda Highlights Tuesday,
+
+June 8, 2027
+
+- 4:00-6:00 PM: VIP Early Registration
+- 5:00-6:00 PM: General Registration
+- 6:00-8:00 PM: Opening Evening Reception Evening: Connect with senior GRC leaders, sponsors, and financial technology professionals. Wednesday,
+
+June 9, 2027
+
+- 10:00 AM-1:00 PM: GRC Leadership Exchange and Strategy Roundtables
+- 1:00-1:50 PM: Panel Discussion on AI Governance in 2027
+- 2:00-2:50 PM: Peer Discussions on Enterprise GRC and Third-Party Risk
+- 3:30-4:30 PM: Panel Discussion on AI-Driven Fraud Prevention
+- 5:00-7:30 PM: VIP Private Networking Dinner (VIP upgrade required) Thursday,
+
+June 10, 2027
+
+- 8:45-9:00 AM: Financial GRC Excellence Award Ceremony
+- 9:00-9:50 AM: Panel Discussion on Compliance as a Growth Engine
+- 10:00-10:50 AM: Sessions on Continuous Risk Monitoring and Data Governance
+- 11:00-11:50 AM: Discussions on GRC Technology and Cross-Industry Risk
+- 12:00-1:00 PM: Executive Networking Lunch
+- 1:00-1:50 PM: Sessions on Board-Level Risk and Scalable Compliance
+- 2:30-3:30 PM: Panel Discussion on the Future of Unified GRC Award winners will receive: Two VIP passes with formal dinner and lounge access On-stage recognition during the awards ceremony A custom trophy presented at the event Red carpet photography, website recognition, and social media promotion What Makes the Summit Different? The Financial GRC Summit emphasizes meaningful conversations rather than lengthy presentations. Attendees can participate in more than eight hours of peer-to-peer strategy sessions, over 4.5 hours of expert-led panels, five-plus hours of strategic networking, and more than 12 hours of exhibit hall access. Qualified VIP attendees can also benefit from exclusive executive discussions and private dining experiences. Don't miss the Financial GRC Summit 2027 to explore the future of governance, risk management, and compliance at one of the key financial GRC conferences for industry professionals.
 
 <a id="event-8c8b9a2333f8493d"></a>
 
@@ -3560,6 +6100,52 @@ Participation
 
 Participants span digital-asset native builders, TradFi and fintech institutions deploying at scale, AI-for-finance providers and ecosystem partners. Founding partnerships for Signal Week 2027 are open.
 
+<a id="event-1c30318e0ce95fa8"></a>
+
+## Paris Blockchain Week 2027
+
+- Record: `coinpedia-paris-blockchain-week`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-07-06T19:38:00.000Z
+- Description: Source-backed
+- Original page: <https://www.theblock.co/press-releases/397583/paris-blockchain-week-becomes-signal-week-europes-premier-institutional-digital-assets-summit-announces-strategic-elevation-and-new-identity>
+
+### About the event
+
+Participate in the Paris Blockchain Week 2027, held from 6th to 7th July 2027, in Paris.
+
+This event is Europe's greatest institutional virtual property summit, reflecting the fast evolution of blockchain from a spot innovation into a middle pillar of global finance. The rebranding marks a strategic elevation of the occasion, aligning it more closely with institutional adoption, wherein banks, asset managers, policymakers, and era leaders actively shape the destiny of digital markets. Scheduled to take region on the Palais des Congr&egrave;s de Paris, the occasion is designed as a high-stage gathering targeted on decision-making, infrastructure, and capital deployment within the digital asset economy.
+
+It emphasizes the convergence of traditional finance and blockchain, highlighting regions consisting of tokenization, regulatory frameworks, and institutional-scale investment. Building on its legacy of hosting lots of senior executives and industry leaders, Signal Week aims to transport past conversations into actionable effects, positioning itself as a defining platform where the following section of institutional finance and digital belongings is actively built. Organized By Paris Blockchain Week Summit provides and organizes the biggest Blockchain and Digital Assets event. The events and conferences led to the blockchain and digital assets summit.
+
+It is the first international blockchain conference gathering in a summit with over 4000 attendees and 240+ speakers, 190+ sponsors, 355 media partners, and journalists.
+
+Event Highlights Gain access to one of Europe's most credible and dependable institutional digital assets gatherings Be part of a high-impact occasion website hosting 10,000+ contributors over days Connect in an environment where 70% of attendees are C-suite executives, founders, policymakers, and asset managers Experience direct exposure to $50T+ in belongings under control (AUM) represented on the event Network with 250+ worldwide banks and monetary institutions Engage with 70+ government officers and policymakers Experience a unique combo of huge-scale participation and meaningful industry insights Why Attend Understand why institutional Crypto is now real Learn how $100B+ is already onchain See how ~15% of trading settles on Blockchain Discover stablecoins as a $150B+ settlement layer Explore the $400 T tokenisation opportunity Get insights from BlackRock, Fidelity ETF momentum Learn strategies from JPMorgan Chase, BNP Paribas, Soci&eacute;t&eacute; G&eacute;n&eacute;rale, BBVA, BPCE See real use of tokenisation, custody, and onchain settlement Connect with builders driving adoption Be where institutional Crypto meets real capital What To Expect Discover onchain infrastructure + AI automation shaping institutional finance Understand how digital assets scale for institutions Explore agentic compliance and AI risk management Experience co-location with RAISE AI Summit 2026 at Palais des Congr&egrave;s de Paris Access two parallel events with distinct stages and audiences Network with 9,000+ AI leaders and executives Hear from Mark Cuban, Yann LeCun, Vlad Tenev, Nelson Griggs, Lin Qiao, and Anton Osika Dive into AI infrastructure and enterprise adoption Connect AI + Blockchain innovations Paris Blockchain Week 2027 stands as a decisive platform where institutional Crypto, Blockchain innovation, and real capital converge to actively shape the future of global finance.
+
+<a id="event-884a29389f525201"></a>
+
+## Credit and Collections Summit Asia 2027
+
+- Record: `coinpedia-credit-collections-summit-asia`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-07-21T09:00:00.000Z
+- Description: Source-backed
+- Original page: <https://asia.collectionsummit.com/>
+
+### About the event
+
+Have a great chance to attend The Credit and Collections Summit Asia 2027 from 21-22 July 2027 at 25hours Hotel Jakarta, Indonesia.
+
+The event will bring together senior leaders, banking professionals, lenders, fintech innovators, and credit risk experts. This two-day Credit and Collections Summit will focus on modernising credit management, improving debt recovery, reducing loan delinquencies, and adopting digital solutions across Asia-Pacific's evolving financial landscape. Organized By The Future Event is a global event orgnizing company established in 2019 by Amby Ambreen K, specialising in B2B summits, exhibitions, and corporate awards, with a strong focus on credit and collections, fintech, banking, credit risk, and cybersecurity. Event Highlights 500+ Attendees across Southeast Asia.
+
+45+ Expert Speakers from industry leaders and financial innovators. 40+ Solution Providers 100+ Prescheduled Meetings 20+ Exclusive Exhibitors Why Attend The Credit and Collections Summit Asia 2027?
+
+Connect with senior leaders from banks, fintech companies, NBFCs, and financial institutions Discover practical strategies for better credit and collections management Explore innovative technologies for fraud prevention and digital debt recovery Understand changing regulations and cross-border compliance across Southeast Asia Build partnerships with industry leaders and solution providers What to Expect CXO Fireside Chats: Hear strategic insights from leading financial executives and experts Expert Discussions: Explore credit risk, compliance, BNPL, and alternative lending models Industry Exhibition: Discover the latest solutions from technology providers and vendors Networking Opportunities: Connect with professionals across banking, telecom, retail, and fintech Speakers Dapot Parasian Sukoco Sinaga - Acting President Director, PT Mandiri Utama Finance Anton K. Adiwibowo - President Director, Credit Bureau Indonesia Ir.
+
+Arif Ilham Adnan - Co-Chairman, Association of Digital Leaders Indonesia, and Chairperson of the Permanent Committee, Jakarta Chamber of Commerce and Industry Iona Mayo - Chief Collection Executive, UnionDigital Bank Sigit Prihatmoko - VP - Head of Corporate Innovation Centre, PT Bank Negara Indonesia Tbk (BNI) Awards of Excellence The Awards of Excellence will celebrate banks, financial institutions, and professionals setting new standards in credit risk and collections. The awards provide leadership, innovative recovery strategies, and technology-driven solutions to support sustainable financial growth.
+
+Be part of the Credit and Collections Summit Asia 2027 and explore the future of credit risk management, debt collection, and fintech in Southeast Asia.
+
 <a id="event-11106a1e3d6efa56"></a>
 
 ## WebX 2027 Tokyo
@@ -3605,6 +6191,74 @@ Passes The 2027 General Admission pass is listed at $69 and covers two-day acces
 The Whale Pass is $1,499 and includes backstage deep sessions with speakers, all-inclusive food and drinks, access to Whale Night side events and the after-party, The Deep private lounge, priority seating and a VIP gift bag.  Groups and companies can request a tailored package
 
 Past speakers Previous editions featured CZ, Balaji Srinivasan (CEO and founder, Network School), Dr Hon Johnny Ng and Kit Chong MH (Hong Kong Legislative Council), David Bailey (CEO and chairman, Nakamoto Inc.), Simon Gerovich (CEO, Metaplanet), Justin Sun (advisor, WBTC), Aj Scaramucci (founder and CEO, Treasure Trove), Jack Kong (founder and board member, Nano Labs and Hong Kong Cyberport), Bonnie Chang (founder and host, Bonnie Blockchain) and Bilal Bin Saqib (chairman, Pakistan Virtual Assets Regulatory Authority). Bitcoin Asia is published by BTC Inc, a subsidiary of Nakamoto Inc. (NASDAQ: NAKA).
+
+<a id="event-f6eaeee3d12b575c"></a>
+
+## Coinpedia Web3 Builders Conference 2026
+
+- Record: `coinpedia-coinpedia-web3-builders-conference`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-10-12T10:38:00.000Z
+- Description: Source-backed
+- Original page: <https://www.web3buildersconf.com>
+
+### About the event
+
+Join founders, developers and investors for two days of talks, panels and hands-on workshops on the future of Web3. The Coinpedia Web3 Builders Conference brings together teams working on DeFi, infrastructure, tooling and real-world assets, with sessions on security, token design and scaling. Attendees can meet speakers, explore sponsor booths and network with the community. Whether you are launching a project or looking for your next opportunity, this event is built for you.
+
+<a id="event-244343cd98076421"></a>
+
+## CyberX Bahrain 2027
+
+- Record: `coinpedia-cyberx-bahrain`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-11-10T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://www.bahrain.cyberxglobal.com/>
+
+### About the event
+
+Learn more about the future of digital security at CyberX Bahrain 2027, on 10 November 2027, in Manama, Bahrain. Under the theme "Fortifying the Gulf's Digital Frontiers: Bahrain's Cybersecurity Roadmap for 2030 & Beyond. This cybersecurity conference will bring together industry leaders, cybersecurity experts, technology providers, and decision-makers to discuss emerging cyber threats and innovative security solutions.
+
+The event will focus on improving digital security around Bahrain and the wider Middle East with expert discussions, networking opportunities, and technology shows. Organised By BConnect Global is an international event organizer delivers conferences, exhibitions, roundtables, and awards to connect industry professionals, encourage innovation, and build business relationships.
+
+Event Highlights Learn from 25+ industry experts Professional Networking with 150+ delegates and cybersecurity professionals Security products and services from 20+ solution providers Explore ransomware, identity security, network security, generative AI, cloud security, and more Celebrate CyberX Global Awards - Bahrain Edition Why Attend CyberX Bahrain 2026?
+
+Gain insights into AI-powered cyberattacks, threat intelligence, and modern defence strategies Discover advanced cloud security, application security, and managed IT solutions Meet potential clients, technology partners, investors, and industry decision-makers Explore cybersecurity priorities across banking, fintech, energy, oil and gas, and government sectors Learn how to improve cyber resilience, protect sensitive data, and prepare for future digital risks Agenda Highlights The supplied programme outlines a full day of learning and networking: Opening Keynote: Explore Bahrain's cybersecurity vision for 2030 and opportunities for GCC collaboration Leadership Panel: Discuss AI-driven attacks, digital banking security, cloud adoption, and cybersecurity skills Technical Sessions: Discover strategies for combating ransomware, advanced persistent threats, and digital payment fraud Critical Infrastructure Discussions: Examine security challenges affecting oil and gas, banking, energy, utilities, and transport Awards and Networking: Celebrate cybersecurity excellence, explore partner demonstrations, and build professional connections Don't miss CyberX Bahrain to discover innovative cybersecurity solutions, strengthen digital trust, and connect with the professionals shaping a safer digital future for Bahrain and the Middle East.
+
+<a id="event-0cff3619ebbca986"></a>
+
+## USA Fintech Conference 2027
+
+- Record: `coinpedia-usa-fintech-conference`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2027-12-02T08:00:00.000Z
+- Description: Source-backed
+- Original page: <https://usafintechconf.com/>
+
+### About the event
+
+Have a great chance to attend the USA Fintech Conference 2027 on 2 December 2027 as a virtual event, broadcast from the United States. This one-day online conference will bring together fintech leaders, financial experts, technology innovators, entrepreneurs, and industry professionals to discuss the latest developments transforming the global financial industry. With a strong focus on digital payments, modern banking, artificial intelligence, and financial technology, the event offers a platform to exchange ideas, discover new opportunities, and build connections. The conference aims to create meaningful conversations around the next era of finance.
+
+Participants can learn about new fintech trends, understand industry issues, and find creative solutions to financial services through expert conversations, live presentations, interactive Q&A, and virtual networking. Organised By The USA Fintech Conference is presented by a team associated with the USA AI Summit, which brings together global technology leaders, innovators, researchers, and businesses to explore emerging technologies and future opportunities. Event Highlights 1. Expert-Led Sessions 2. Virtual Networking 3. Live Q&A Sessions 4. On-Demand Recordings 5. Exclusive Roundtables and VIP small-group discussions Why Attend the USA Fintech Conference?
+
+Discover the latest fintech innovations and new financial technology trends Find out how automation and artificial intelligence are changing banking and financial services Create beneficial relationships with international fintech experts Explore potential corporate ventures, partnerships, and industry cooperation Learn useful information on the future of digital banking, payments, and financial technology Summit Main Focus Areas 1. Future of Payments: Explore real-time payments, digital transactions, and global payment infrastructure. 2. Banking Reimagined: Discover new banking models, customer experiences, and digital financial products.
+
+3. AI & Trust: Understand AI applications in credit, risk management, financial advice, and responsible technology. 4. Financial Technology & Innovation: Discuss emerging fintech solutions, digital transformation, and industry partnerships. Don't miss the USA Fintech Conference 2027 to join the financial revolution and meet the leaders influencing digital banking, fintech, and international financial services.
+
+<a id="event-a68c0537d9bca617"></a>
+
+## BitMart DW Features ONE
+
+- Record: `coinpedia-bitmart-dw-features-one`
+- Source: [curated-events.json](sources/curated-events.json)
+- Starts: 2030-01-08T10:19:00.000Z
+- Description: Source-backed
+- Original page: <https://coinmarketcal.com/en/event/>
+
+### About the event
+
+Crypto conferences are a great way to learn about the latest trends and developments in the crypto sphere, given that they're prone to significant changes. Aside from gaining valuable insights from industry experts, these gatherings also help you build or expand your network, drive professional development, uncover new strategies, discuss ideas, and showcase your latest projects. Plus, they're wonderful platforms that offer plenty of opportunities for growth, connect you with potential investors, unlock job opportunities, and help build your credibility and authority.
 
 <a id="event-1a642738c94d4e6c"></a>
 
@@ -9831,54 +12485,6 @@ The dinner takes place at a private dining room in central Mumbai on Thursday ev
 ### Registration and admission
 
 Registration is strictly approval-based with a hard ceiling on attendance. Inquiries and RSVPs are verified privately to maintain confidentiality. Approved guests receive private venue details.
-
-<a id="event-cf8073cb4c140b56"></a>
-
-## Solana Indoor Skydiving
-
-- Record: `luma-crypto-Q9pqBMhbxoTeN4u`
-- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
-- Starts: 2026-10-28T09:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/solanaskydiving>
-
-### About the event
-
-Solana Indoor Skydiving
-
-Date: Wednesday, 28 October
-
-Time: 1:30 PM - 4:00 PM
-
-Venue: Details will be shared upon approval
-
-Gravity takes the day off. Join the Solana community for an afternoon that combines indoor skydiving with real networking, no jump required, just pure adrenaline in a wind tunnel built for it.
-
-Once the adrenaline settles, the conversation takes over, so come ready to connect with the community over food and drinks
-
-- Indoor skydiving session
-
-Food & drinks
-
-Curated group of attendees
-
-Fun, casual networking
-
-### Please Note
-
-This is an invite-only event. RSVP required - no +1s, no walk-ins.
-
-This event has limited capacity and follows a first-come, first-served policy.
-
-Kindly arrive on time to secure your spot.
-
-Dress Code: Wear something comfortable you can move in.
-
-Photos will be taken during the event. By participating, you agree to their use for promotional purposes.
-
-Follow us on X: @SuperteamAE
-
-Come fly. Leave with a network that has your back on the ground.
 
 <a id="event-3b04d115a5440a59"></a>
 
@@ -29344,30 +31950,6 @@ A Superteam Poland coworking session for working on projects alongside local dev
 - Starts: 2026-10-28T09:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://b2c-conference.com/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-75c1cbba70e7dad1"></a>
-
-## Solana Indoor Skydiving
-
-- Record: `luma-evt-Q9pqBMhbxoTeN4u`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T09:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lu.ma/SolanaSkydiving>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-fcbad6bc905b5fd5"></a>
-
-## Solana Indoor Skydiving
-
-- Record: `luma-host-evt-evt-Q9pqBMhbxoTeN4u`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T09:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/SolanaSkydiving>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

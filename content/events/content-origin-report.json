@@ -72,21 +72,6 @@
       ]
     },
     {
-      "id": "luma-crypto-Q9pqBMhbxoTeN4u",
-      "slug": "sis",
-      "name": "Solana Indoor Skydiving",
-      "status": "source-backed",
-      "source": {
-        "url": "https://luma.com/solanaskydiving",
-        "fetchedAt": "2026-09-19T23:54:05.539Z"
-      },
-      "sections": [
-        "About the event",
-        "What to Expect",
-        "Please Note"
-      ]
-    },
-    {
       "id": "luma-batch-evtMJacaICJiBqTU",
       "slug": "oz4zmqjc",
       "name": "BCNL x VBNL x PwC - CARF & DAC8 Roundtable",

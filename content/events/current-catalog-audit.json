@@ -79,23 +79,6 @@
       }
     },
     {
-      "id": "luma-crypto-Q9pqBMhbxoTeN4u",
-      "oldSlug": "sis",
-      "slug": "solana-indoor-skydiving",
-      "candidate": false,
-      "outcome": "reviewed-no-change",
-      "descriptionChanged": false,
-      "previousCharacters": 1063,
-      "characters": 1063,
-      "factChanges": {},
-      "source": {
-        "url": "https://luma.com/solanaskydiving",
-        "fetchedAt": "2026-10-12T11:25:15.646Z",
-        "status": 200,
-        "sha256": "52851b1191b7677762462d291ecfef2fcfed65c233091b4db4b84b0814127597"
-      }
-    },
-    {
       "id": "luma-batch-evtMJacaICJiBqTU",
       "oldSlug": "oz4zmqjc",
       "slug": "bcnl-vbnl-pwc-carf-dac8-roundtable",

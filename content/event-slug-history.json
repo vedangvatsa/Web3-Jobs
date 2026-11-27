@@ -68,12 +68,6 @@
     "slug": "meridian",
     "aliases": []
   },
-  "luma-crypto-Q9pqBMhbxoTeN4u": {
-    "slug": "sis",
-    "aliases": [
-      "solana-indoor-skydiving"
-    ]
-  },
   "luma-batch-evtMJacaICJiBqTU": {
     "slug": "oz4zmqjc",
     "aliases": [
@@ -4852,6 +4846,482 @@
   },
   "luma-ifqbyexx": {
     "slug": "buildersbrunch",
+    "aliases": []
+  },
+  "coinpedia-ai-igaming-summit": {
+    "slug": "ai-igaming-summit",
+    "aliases": []
+  },
+  "coinpedia-gitex-ai-vietnam": {
+    "slug": "gitex-ai-vietnam",
+    "aliases": []
+  },
+  "coinpedia-fma-fintech-day": {
+    "slug": "fma-fintech-day",
+    "aliases": []
+  },
+  "coinpedia-ai-revolution-summit-philippines": {
+    "slug": "ai-revolution-summit-philippines",
+    "aliases": []
+  },
+  "coinpedia-dev3pack-global-hackathon": {
+    "slug": "dev3pack-global-hackathon",
+    "aliases": []
+  },
+  "coinpedia-dakar-bitcoin-days-iv": {
+    "slug": "dakar-bitcoin-days-iv",
+    "aliases": []
+  },
+  "coinpedia-aibt2026": {
+    "slug": "aibt2026",
+    "aliases": []
+  },
+  "coinpedia-australian-digital-economy-awards": {
+    "slug": "australian-digital-economy-awards",
+    "aliases": []
+  },
+  "coinpedia-hack-days-georgia": {
+    "slug": "hack-days-georgia",
+    "aliases": []
+  },
+  "coinpedia-blockies": {
+    "slug": "blockies",
+    "aliases": []
+  },
+  "coinpedia-mymoney-expo": {
+    "slug": "mymoney-expo",
+    "aliases": []
+  },
+  "coinpedia-international-business-magazine": {
+    "slug": "international-business-magazine",
+    "aliases": []
+  },
+  "coinpedia-clo-summit": {
+    "slug": "clo-summit",
+    "aliases": []
+  },
+  "coinpedia-dealmakers-club-f-matching": {
+    "slug": "dealmakers-club-f-matching",
+    "aliases": []
+  },
+  "coinpedia-fintech-poland-expo": {
+    "slug": "fintech-poland-expo",
+    "aliases": []
+  },
+  "coinpedia-global-banking-summit": {
+    "slug": "global-banking-summit",
+    "aliases": []
+  },
+  "coinpedia-education-2-0-conference-singapore": {
+    "slug": "education-2-0-conference-singapore",
+    "aliases": []
+  },
+  "coinpedia-finwell-summit": {
+    "slug": "finwell-summit",
+    "aliases": []
+  },
+  "coinpedia-enterprise-ai-expo": {
+    "slug": "enterprise-ai-expo",
+    "aliases": []
+  },
+  "coinpedia-ai-digital-tech-blockchain-revolution-summit": {
+    "slug": "ai-digital-tech-blockchain-revolution-summit",
+    "aliases": []
+  },
+  "coinpedia-insurtech-insights-asia": {
+    "slug": "insurtech-insights-asia",
+    "aliases": []
+  },
+  "coinpedia-koncept-conference": {
+    "slug": "koncept-conference",
+    "aliases": []
+  },
+  "coinpedia-blockchain-confluence": {
+    "slug": "blockchain-confluence",
+    "aliases": []
+  },
+  "coinpedia-africa-fintech-meetup": {
+    "slug": "africa-fintech-meetup",
+    "aliases": []
+  },
+  "coinpedia-lottery-cx-summit": {
+    "slug": "lottery-cx-summit",
+    "aliases": []
+  },
+  "coinpedia-crypto-conference-miami": {
+    "slug": "crypto-conference-miami",
+    "aliases": []
+  },
+  "coinpedia-global-tech-weekend-launch-event": {
+    "slug": "global-tech-weekend-launch-event",
+    "aliases": []
+  },
+  "coinpedia-us-banktech-summit": {
+    "slug": "us-banktech-summit",
+    "aliases": []
+  },
+  "coinpedia-solana-economic-zone-dubai": {
+    "slug": "solana-economic-zone-dubai",
+    "aliases": []
+  },
+  "coinpedia-ftt-fintech-festival": {
+    "slug": "ftt-fintech-festival",
+    "aliases": []
+  },
+  "coinpedia-international-conference-regtech-compliance-financial-technology": {
+    "slug": "international-conference-regtech-compliance-financial-technology",
+    "aliases": []
+  },
+  "coinpedia-gitex-global-dubai": {
+    "slug": "gitex-global-dubai",
+    "aliases": []
+  },
+  "coinpedia-seg3-los-angeles": {
+    "slug": "seg3-los-angeles",
+    "aliases": []
+  },
+  "coinpedia-ai-business-fintech-summit-dubai": {
+    "slug": "ai-business-fintech-summit-dubai",
+    "aliases": []
+  },
+  "coinpedia-webrazzi-fintech": {
+    "slug": "webrazzi-fintech",
+    "aliases": []
+  },
+  "coinpedia-ai-web3-healthcare-forum": {
+    "slug": "ai-web3-healthcare-forum",
+    "aliases": []
+  },
+  "coinpedia-affiliate-world-asia": {
+    "slug": "affiliate-world-asia",
+    "aliases": []
+  },
+  "coinpedia-private-wealth-funds-forum": {
+    "slug": "private-wealth-funds-forum",
+    "aliases": []
+  },
+  "coinpedia-tech-x-summit-global": {
+    "slug": "tech-x-summit-global",
+    "aliases": []
+  },
+  "coinpedia-crypto-mining-guild": {
+    "slug": "crypto-mining-guild",
+    "aliases": []
+  },
+  "coinpedia-colombia-blockchain-week": {
+    "slug": "colombia-blockchain-week",
+    "aliases": []
+  },
+  "coinpedia-crypto-polo-cup": {
+    "slug": "crypto-polo-cup",
+    "aliases": []
+  },
+  "coinpedia-money-alpha-360": {
+    "slug": "money-alpha-360",
+    "aliases": []
+  },
+  "coinpedia-xarr-untold-onchain-edition-01-premiere": {
+    "slug": "xarr-untold-onchain-edition-01-premiere",
+    "aliases": []
+  },
+  "coinpedia-peer-summit": {
+    "slug": "peer-summit",
+    "aliases": []
+  },
+  "coinpedia-bitcoinday-naples": {
+    "slug": "bitcoinday-naples",
+    "aliases": []
+  },
+  "coinpedia-digital-asset-yield-summit-zurich": {
+    "slug": "digital-asset-yield-summit-zurich",
+    "aliases": []
+  },
+  "coinpedia-web3-hub-davos": {
+    "slug": "web3-hub-davos",
+    "aliases": []
+  },
+  "coinpedia-pyth-davos-finance-elevated": {
+    "slug": "pyth-davos-finance-elevated",
+    "aliases": []
+  },
+  "coinpedia-bii-connect-tech-uae-edition": {
+    "slug": "bii-connect-tech-uae-edition",
+    "aliases": []
+  },
+  "coinpedia-financial-club-retreat": {
+    "slug": "financial-club-retreat",
+    "aliases": []
+  },
+  "coinpedia-satoshi-roundtable": {
+    "slug": "satoshi-roundtable",
+    "aliases": []
+  },
+  "coinpedia-global-software-testing-awards": {
+    "slug": "global-software-testing-awards",
+    "aliases": []
+  },
+  "coinpedia-web-summit-qatar": {
+    "slug": "web-summit-qatar",
+    "aliases": []
+  },
+  "coinpedia-big-africa-summit": {
+    "slug": "big-africa-summit",
+    "aliases": []
+  },
+  "coinpedia-step-dubai": {
+    "slug": "step-dubai",
+    "aliases": []
+  },
+  "coinpedia-fintech-revolution-summit-bahrain": {
+    "slug": "fintech-revolution-summit-bahrain",
+    "aliases": []
+  },
+  "coinpedia-sovereign-summit": {
+    "slug": "sovereign-summit",
+    "aliases": []
+  },
+  "coinpedia-digital-assets-week-dubai": {
+    "slug": "digital-assets-week-dubai",
+    "aliases": []
+  },
+  "coinpedia-developerweek": {
+    "slug": "developerweek",
+    "aliases": []
+  },
+  "coinpedia-itexpo": {
+    "slug": "itexpo",
+    "aliases": []
+  },
+  "coinpedia-bharat-fintech-summit": {
+    "slug": "bharat-fintech-summit",
+    "aliases": []
+  },
+  "coinpedia-africa-tech-summit": {
+    "slug": "africa-tech-summit",
+    "aliases": []
+  },
+  "coinpedia-australia-nextgen-payments-regtech-forum": {
+    "slug": "australia-nextgen-payments-regtech-forum",
+    "aliases": []
+  },
+  "coinpedia-money-expo-mexico": {
+    "slug": "money-expo-mexico",
+    "aliases": []
+  },
+  "coinpedia-fintech-meetup": {
+    "slug": "fintech-meetup",
+    "aliases": []
+  },
+  "coinpedia-industrial-metaverse-conference": {
+    "slug": "industrial-metaverse-conference",
+    "aliases": []
+  },
+  "coinpedia-gftn-forum-japan": {
+    "slug": "gftn-forum-japan",
+    "aliases": []
+  },
+  "coinpedia-digital-transformation-summit-india": {
+    "slug": "digital-transformation-summit-india",
+    "aliases": []
+  },
+  "coinpedia-mega-mexico-gaming": {
+    "slug": "mega-mexico-gaming",
+    "aliases": []
+  },
+  "coinpedia-finai-banking-summit": {
+    "slug": "finai-banking-summit",
+    "aliases": []
+  },
+  "coinpedia-enclave-presented-tie": {
+    "slug": "enclave-presented-tie",
+    "aliases": []
+  },
+  "coinpedia-moneylive-summit": {
+    "slug": "moneylive-summit",
+    "aliases": []
+  },
+  "coinpedia-world-financial-innovation-series-kenya": {
+    "slug": "world-financial-innovation-series-kenya",
+    "aliases": []
+  },
+  "coinpedia-digital-assets-week-hong-kong": {
+    "slug": "digital-assets-week-hong-kong",
+    "aliases": []
+  },
+  "coinpedia-28th-nextgen-payments-regtech-forum": {
+    "slug": "28th-nextgen-payments-regtech-forum",
+    "aliases": []
+  },
+  "coinpedia-merchant-payment-ecosystem": {
+    "slug": "merchant-payment-ecosystem",
+    "aliases": []
+  },
+  "coinpedia-money-motion": {
+    "slug": "money-motion",
+    "aliases": []
+  },
+  "coinpedia-instant-payments-summit-usa": {
+    "slug": "instant-payments-summit-usa",
+    "aliases": []
+  },
+  "coinpedia-inclusive-fintech-forum": {
+    "slug": "inclusive-fintech-forum",
+    "aliases": []
+  },
+  "coinpedia-fintech-americas-miami": {
+    "slug": "fintech-americas-miami",
+    "aliases": []
+  },
+  "coinpedia-ftt-lending-london": {
+    "slug": "ftt-lending-london",
+    "aliases": []
+  },
+  "coinpedia-t3-technology-conference": {
+    "slug": "t3-technology-conference",
+    "aliases": []
+  },
+  "coinpedia-mining-disrupt-bitcoin-mining-expo": {
+    "slug": "mining-disrupt-bitcoin-mining-expo",
+    "aliases": []
+  },
+  "coinpedia-convergence-india-expo": {
+    "slug": "convergence-india-expo",
+    "aliases": []
+  },
+  "coinpedia-global-ai-show-abu-dhabi": {
+    "slug": "global-ai-show-abu-dhabi",
+    "aliases": []
+  },
+  "coinpedia-fintech-india-expo": {
+    "slug": "fintech-india-expo",
+    "aliases": []
+  },
+  "coinpedia-global-game-connect": {
+    "slug": "global-game-connect",
+    "aliases": []
+  },
+  "coinpedia-bitblockboom": {
+    "slug": "bitblockboom",
+    "aliases": []
+  },
+  "coinpedia-fintech-week-sf": {
+    "slug": "fintech-week-sf",
+    "aliases": []
+  },
+  "coinpedia-fibe-fintech-festival-berlin": {
+    "slug": "fibe-fintech-festival-berlin",
+    "aliases": []
+  },
+  "coinpedia-unblock": {
+    "slug": "unblock",
+    "aliases": []
+  },
+  "coinpedia-crosstech-fintech-fest": {
+    "slug": "crosstech-fintech-fest",
+    "aliases": []
+  },
+  "coinpedia-ethglobal-cannes": {
+    "slug": "ethglobal-cannes",
+    "aliases": []
+  },
+  "coinpedia-pragma-cannes": {
+    "slug": "pragma-cannes",
+    "aliases": []
+  },
+  "coinpedia-uk-fintech-week": {
+    "slug": "uk-fintech-week",
+    "aliases": []
+  },
+  "coinpedia-tokenfest-dubai": {
+    "slug": "tokenfest-dubai",
+    "aliases": []
+  },
+  "coinpedia-mexico-finance-fintech-summit": {
+    "slug": "mexico-finance-fintech-summit",
+    "aliases": []
+  },
+  "coinpedia-money-expo-abu-dhabi": {
+    "slug": "money-expo-abu-dhabi",
+    "aliases": []
+  },
+  "coinpedia-money2020-asia": {
+    "slug": "money2020-asia",
+    "aliases": []
+  },
+  "coinpedia-africa-blockchain-defi-web3-summit": {
+    "slug": "africa-blockchain-defi-web3-summit",
+    "aliases": []
+  },
+  "coinpedia-west-africa-gaming-convention": {
+    "slug": "west-africa-gaming-convention",
+    "aliases": []
+  },
+  "coinpedia-sigma-euro-med": {
+    "slug": "sigma-euro-med",
+    "aliases": []
+  },
+  "coinpedia-6th-fintech-week-expo": {
+    "slug": "6th-fintech-week-expo",
+    "aliases": []
+  },
+  "coinpedia-cyprus-fintech-week": {
+    "slug": "cyprus-fintech-week",
+    "aliases": []
+  },
+  "coinpedia-fintech-revolution-summit-philippines": {
+    "slug": "fintech-revolution-summit-philippines",
+    "aliases": []
+  },
+  "coinpedia-international-conference-ai-blockchain-cybersecurity": {
+    "slug": "international-conference-ai-blockchain-cybersecurity",
+    "aliases": []
+  },
+  "coinpedia-digital-money-summit": {
+    "slug": "digital-money-summit",
+    "aliases": []
+  },
+  "coinpedia-milano-blockchain-week": {
+    "slug": "milano-blockchain-week",
+    "aliases": []
+  },
+  "coinpedia-wfis-vietnam": {
+    "slug": "wfis-vietnam",
+    "aliases": []
+  },
+  "coinpedia-bitcoin-treasuries-conference-uk": {
+    "slug": "bitcoin-treasuries-conference-uk",
+    "aliases": []
+  },
+  "coinpedia-money-expo-hong-kong": {
+    "slug": "money-expo-hong-kong",
+    "aliases": []
+  },
+  "coinpedia-financial-grc-summit": {
+    "slug": "financial-grc-summit",
+    "aliases": []
+  },
+  "coinpedia-paris-blockchain-week": {
+    "slug": "paris-blockchain-week",
+    "aliases": []
+  },
+  "coinpedia-credit-collections-summit-asia": {
+    "slug": "credit-collections-summit-asia",
+    "aliases": []
+  },
+  "coinpedia-coinpedia-web3-builders-conference": {
+    "slug": "coinpedia-web3-builders-conference",
+    "aliases": []
+  },
+  "coinpedia-cyberx-bahrain": {
+    "slug": "cyberx-bahrain",
+    "aliases": []
+  },
+  "coinpedia-usa-fintech-conference": {
+    "slug": "usa-fintech-conference",
+    "aliases": []
+  },
+  "coinpedia-bitmart-dw-features-one": {
+    "slug": "bitmart-dw-features-one",
     "aliases": []
   }
 }

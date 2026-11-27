@@ -73,17 +73,6 @@
       "descriptionSha256": "c0e9757e0328ef97908e8019cc99bf5fd0de9ee002f9e8e89e67057839c88d03"
     },
     {
-      "id": "luma-crypto-Q9pqBMhbxoTeN4u",
-      "slug": "solana-indoor-skydiving",
-      "aliases": [
-        "sis"
-      ],
-      "startDate": "2026-10-28T09:30:00.000Z",
-      "endDate": "2026-10-28T12:00:00.000Z",
-      "timezone": "Asia/Dubai",
-      "descriptionSha256": "903f337e33785e9932c11f4698699249ec26bab07dd00fbcdb5b83319e2393eb"
-    },
-    {
       "id": "luma-batch-evtMJacaICJiBqTU",
       "slug": "bcnl-vbnl-pwc-carf-dac8-roundtable",
       "aliases": [

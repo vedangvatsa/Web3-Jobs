@@ -2198,22 +2198,6 @@
       "applied": false
     },
     {
-      "id": "luma-crypto-Q9pqBMhbxoTeN4u",
-      "url": "https://luma.com/solanaskydiving",
-      "fetchedAt": "2026-10-19T20:14:24.902Z",
-      "sourceEventId": "evt-Q9pqBMhbxoTeN4u",
-      "sourceName": "Solana Indoor Skydiving",
-      "sourceStartDate": "2026-10-28T09:30:00.000Z",
-      "sourceEndDate": "2026-10-28T12:00:00.000Z",
-      "sourceTimezone": "Asia/Dubai",
-      "sha256": "efd0e537fbff86f6ab2d099c48c3ca214119951775854df584d165a633c55b77",
-      "status": "hidden",
-      "note": "Organizer withholds the address from anonymous visitors; no map or API inference attempted.",
-      "evidence": [],
-      "name": "Solana Indoor Skydiving",
-      "applied": false
-    },
-    {
       "id": "luma-batch-evtMJacaICJiBqTU",
       "url": "https://luma.com/oz4zmqjc",
       "fetchedAt": "2026-10-19T20:14:25.668Z",

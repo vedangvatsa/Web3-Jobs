@@ -1,49 +1,5 @@
 [
   {
-    "id": "luma-crypto-Q9pqBMhbxoTeN4u",
-    "slug": "sis",
-    "name": "Solana Indoor Skydiving",
-    "description": "Solana Indoor Skydiving\n\n🗓 Date: Wednesday, 28 October\n🕗 Time: 1:30 PM – 4:00 PM\n📍 Venue: Details will be shared upon approval\n\nGravity takes the day off. Join the Solana community for an afternoon that combines indoor skydiving with real networking, no jump required, just pure adrenaline in a wind tunnel built for it.\n\nOnce the adrenaline settles, the conversation takes over, so come ready to connect with the community over food and drinks\n\n:\n- 🪂 Indoor skydiving session\n🍕 Food & drinks\n🤝 Curated group of attendees\n🎯 Fun, casual networking\n\nPlease Note:\n🔸 This is an invite-only event. RSVP required – no +1s, no walk-ins.\n🔸 This event has limited capacity and follows a first-come, first-served policy.\n🔸 Kindly arrive on time to secure your spot.\n🔸 Dress Code: Wear something comfortable you can move in.\n\n📸 Photos will be taken during the event. By participating, you agree to their use for promotional purposes.\n\nFollow us on X: @SuperteamAE\n\nCome fly. Leave with a network that has your back on the ground.",
-    "startDate": "2026-10-28T09:30:00.000Z",
-    "endDate": "2026-10-28T12:00:00.000Z",
-    "country": "United Arab Emirates",
-    "location": "United Arab Emirates",
-    "url": "https://luma.com/solanaskydiving",
-    "registrationUrl": "https://luma.com/solanaskydiving",
-    "coverImage": "/events/luma-crypto-q9pqbmhbxoten4u-6568778e.webp",
-    "source": "luma-crypto",
-    "hosts": [
-      "Superteam Middle East"
-    ],
-    "price": "Free",
-    "approvalRequired": true,
-    "timezone": "Asia/Dubai",
-    "attendanceMode": "offline",
-    "visibility": "public",
-    "locationHidden": true,
-    "organizer": {
-      "type": "Organization",
-      "name": "Superteam Middle East",
-      "url": "https://uae.superteam.fun/"
-    },
-    "ticketOffers": [
-      {
-        "name": "Standard",
-        "url": "https://luma.com/solanaskydiving",
-        "price": 0,
-        "availability": "InStock"
-      }
-    ],
-    "registrationAvailability": "open",
-    "sourceVerification": {
-      "url": "https://luma.com/solanaskydiving",
-      "eventId": "evt-Q9pqBMhbxoTeN4u",
-      "fetchedAt": "2026-09-19T23:54:05.539Z",
-      "method": "luma-api",
-      "apifyRunId": "uAC0NtYT5fM5WLkuu"
-    }
-  },
-  {
     "id": "luma-crypto-5FMmAfCas90BSxo",
     "slug": "ccm1tyj",
     "name": "☕️ Codex Community Meetup-San Francisco #11",
