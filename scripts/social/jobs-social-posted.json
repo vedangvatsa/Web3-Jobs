@@ -202507,7 +202507,8 @@
       },
       "account": "channel:ai",
       "attemptId": "13b40161-b3d1-4e26-a256-c5884cb96a27",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x75f2cdb48a36bea40b96d84d83404147baee97ed"
     }
   ]
 }
