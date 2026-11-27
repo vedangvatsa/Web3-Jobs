@@ -203187,6 +203187,41 @@
       "attemptId": "520f402a-5b54-40b4-b7ba-0f00a1155644",
       "verification": "verified",
       "postId": "0x3e9cba63b6663d56170c15ce2dfc3c5bfbfae6e9"
+    },
+    {
+      "slug": "rc8",
+      "company": "TRM Labs",
+      "title": "Lead Recruiting Coordinator",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T13:08:00.460Z",
+      "expectedText": "TRM Labs is hiring Lead Recruiting Coordinator\n\nhttps://hashtagweb3.com/rc8/fc?og=7",
+      "snapshot": {
+        "id": "626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "title": "Lead Recruiting Coordinator",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "date": "2026-11-17T16:56:42.671+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Portland, OR",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc8"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Lead Recruiting Coordinator\n\nhttps://hashtagweb3.com/rc8/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rc8/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "d62bd129-4a3e-47ee-84d4-04a9defd52c5",
+      "verification": "creating"
     }
   ]
 }
