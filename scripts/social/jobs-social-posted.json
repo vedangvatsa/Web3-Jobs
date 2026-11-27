@@ -202800,6 +202800,35 @@
       "attemptId": "07c08898-2a19-4922-b762-ff4a31cf63a0",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "rc8",
+      "company": "TRM Labs",
+      "title": "Lead Recruiting Coordinator",
+      "platform": "threads",
+      "postedAt": "2026-11-27T13:08:00.460Z",
+      "expectedText": "TRM Labs is hiring Lead Recruiting Coordinator: https://hashtagweb3.com/rc8/th?og=7",
+      "snapshot": {
+        "id": "626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "title": "Lead Recruiting Coordinator",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "date": "2026-11-17T16:56:42.671+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Portland, OR",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc8"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Lead Recruiting Coordinator: https://hashtagweb3.com/rc8/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/rc8/th?og=7"
+      },
+      "attemptId": "b87d2254-0b3e-4d0b-987b-221af05f1acf",
+      "verification": "creating"
     }
   ]
 }
