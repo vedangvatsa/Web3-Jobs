@@ -201695,7 +201695,8 @@
       },
       "account": "channel:product",
       "attemptId": "0f5a65f2-841a-42a2-ae71-b3d380230b85",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xaf965d20f68081c8b819e18adaaa15393a9e5be7"
     }
   ]
 }
