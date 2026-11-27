@@ -199350,6 +199350,34 @@
       "attemptId": "abced75f-5e61-4462-8bf9-41bbd173752c",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "eng789",
+      "company": "Bitpanda",
+      "title": "Senior Engineer, Golang",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T02:20:59.119Z",
+      "expectedText": "Bitpanda is hiring Senior Engineer, Golang: https://hashtagweb3.com/eng789/fb?og=7",
+      "snapshot": {
+        "id": "4979476101",
+        "title": "Senior Engineer, Golang",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4979476101",
+        "date": "2026-11-16T08:49:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "București, Bucharest, Romania",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng789"
+      },
+      "payload": {
+        "message": "Bitpanda is hiring Senior Engineer, Golang: https://hashtagweb3.com/eng789/fb?og=7",
+        "link": "https://hashtagweb3.com/eng789/fb?og=7"
+      },
+      "attemptId": "ccc85548-1a1a-4bb7-bf98-a3d6ad798db1",
+      "verification": "creating"
     }
   ]
 }
