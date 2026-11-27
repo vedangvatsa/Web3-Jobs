@@ -202933,7 +202933,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "513debf2-1404-4658-8118-84162689fad5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe194b2ae4acd68997958d8d3879f695973e303a9"
     }
   ]
 }
