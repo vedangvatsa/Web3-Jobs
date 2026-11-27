@@ -202332,7 +202332,8 @@
       },
       "account": "channel:founders",
       "attemptId": "35d8c467-7166-4481-b0c8-5bd19d2fc879",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6360fb183ba0932b02cb4ed056e1900dd51aef7a"
     }
   ]
 }
