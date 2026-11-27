@@ -203437,7 +203437,8 @@
       },
       "account": "channel:design",
       "attemptId": "fe2e2992-3bba-44b0-a72d-da073b9f444a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xa0cfe2b71e11c7028f59490ad3ea2c6ef1b9eeea"
     }
   ]
 }
