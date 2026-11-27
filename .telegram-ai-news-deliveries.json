@@ -1290,5 +1290,40 @@
     "slotKey": "2026-11-27:morning",
     "messageId": 193591,
     "sentAt": "2026-11-27T04:56:15.292Z"
+  },
+  "08897b2a-903a-4151-94ad-14bae16fde92": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T13:03:24.495Z",
+    "stories": [
+      {
+        "index": 5,
+        "original_title": "SAP reportedly plans to lay off 10,000+ employees amid AI push",
+        "headline": "SAP plans 10,000 layoffs in major AI restructuring",
+        "summary": "The enterprise software vendor is cutting over nine percent of its global workforce to fund artificial intelligence initiatives.",
+        "event_rationale": "Covers workforce restructuring at SAP driven by artificial intelligence adoption, distinct from any previously reported corporate restructuring.",
+        "link": "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/",
+        "source": "SiliconANGLE",
+        "originalTitle": "SAP reportedly plans to lay off 10,000+ employees amid AI push"
+      },
+      {
+        "index": 13,
+        "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "headline": "S&P considers downgrading Nvidia credit rating over governance",
+        "summary": "The agency warned it may cut the chipmaker's rating due to leadership concentration and internal board oversight concerns.",
+        "event_rationale": "Covers a potential S&P credit rating downgrade for Nvidia, distinct from previous hardware releases or export restriction stories.",
+        "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "source": "TechCrunch",
+        "originalTitle": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+      },
+      {
+        "index": 1,
+        "headline": "MIT Technology Review opens 2027 Innovators Under 35 nominations",
+        "summary": "The publication seeks researchers and founders for its annual list of top young technical talent.",
+        "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+        "source": "MIT Tech Review",
+        "originalTitle": "Our 2027 Innovators Under 35 competition is now open"
+      }
+    ],
+    "slotKey": "2026-11-27:afternoon"
   }
 }
