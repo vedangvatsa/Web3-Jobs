@@ -206067,7 +206067,8 @@
       },
       "account": "channel:developers",
       "attemptId": "0dcc71f2-b9ef-4800-92d4-da8dc9974110",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xbd817083aea913742200942fd32f9c68920d7b57"
     }
   ]
 }
