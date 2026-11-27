@@ -1531,5 +1531,56 @@
     "slotKey": "2026-11-26:evening",
     "messageId": 156531,
     "sentAt": "2026-11-26T20:24:22.257Z"
+  },
+  "36acc67f-77cb-40f5-abf2-da4351cede49": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T04:54:03.742Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-5MRpiW5RUXHjX4S",
+        "slug": "daosrwa",
+        "name": "Daos Week - RWAs & Onchain Finance Day",
+        "startDate": "2026-12-01T10:00:00.000Z",
+        "keys": [
+          "luma-crypto-5mrpiw5ruxhjx4s",
+          "daos-weekdao",
+          "page:daosrwa:2026-12-01",
+          "luma:evt-5mrpiw5ruxhjx4s",
+          "luma-url:/daosweek-day2",
+          "event:daosweekrwasonchainfinanceday:2026-12-01:dubai"
+        ]
+      },
+      {
+        "id": "luma-crypto-G1C4zD50kbNAajK",
+        "slug": "bitcoinbrews",
+        "name": "Bitcoin & Brews Port Moody",
+        "startDate": "2026-12-02T02:00:00.000Z",
+        "keys": [
+          "luma-crypto-g1c4zd50kbnaajk",
+          "bitcoin-br",
+          "page:bitcoinbrews:2026-12-01",
+          "luma:evt-g1c4zd50kbnaajk",
+          "luma-url:/0eezdd6x",
+          "event:bitcoinbrewsportmoody:2026-12-01:port moody"
+        ]
+      },
+      {
+        "id": "luma-crypto-Yte2tcrkipkopII",
+        "slug": "blockcha32",
+        "name": "Blockchain Life 2026 Day 2",
+        "startDate": "2026-12-02T04:30:00.000Z",
+        "keys": [
+          "luma-crypto-yte2tcrkipkopii",
+          "blockchain-life-day-2",
+          "page:blockcha32:2026-12-02",
+          "luma:evt-yte2tcrkipkopii",
+          "luma-url:/8dz0qkce",
+          "event:blockchainlife2026day2:2026-12-02:"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-27:morning"
   }
 }
