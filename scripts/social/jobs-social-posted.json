@@ -198570,6 +198570,34 @@
       "attemptId": "a559f864-9121-4d7f-869e-56160f15aa7c",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "eng789",
+      "company": "Bitpanda",
+      "title": "Senior Engineer, Golang",
+      "platform": "threads",
+      "postedAt": "2026-11-27T02:20:59.119Z",
+      "expectedText": "Bitpanda is hiring Senior Engineer, Golang: https://hashtagweb3.com/eng789/th?og=7",
+      "snapshot": {
+        "id": "4979476101",
+        "title": "Senior Engineer, Golang",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4979476101",
+        "date": "2026-11-16T08:49:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "București, Bucharest, Romania",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng789"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior Engineer, Golang: https://hashtagweb3.com/eng789/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/eng789/th?og=7"
+      },
+      "attemptId": "4833a662-4ffe-43a4-9c01-673c39d37030",
+      "verification": "creating"
     }
   ]
 }
