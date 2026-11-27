@@ -200383,6 +200383,40 @@
       "attemptId": "51c997a0-ed85-496b-979d-499d5600d90a",
       "verification": "verified",
       "postId": "0xc74366753cd02ab76f0f6b2766f6ba86e3820575"
+    },
+    {
+      "slug": "pri",
+      "company": "Hut 8",
+      "title": "Principal, Chief of Staff",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T04:54:31.000Z",
+      "expectedText": "Hut 8 is hiring Principal, Chief of Staff\n\nhttps://hashtagweb3.com/pri/fc?og=7",
+      "snapshot": {
+        "id": "5457213008",
+        "title": "Principal, Chief of Staff",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457213008",
+        "date": "2026-11-10T09:48:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami",
+        "department": "Office of the CEO",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pri"
+      },
+      "payload": {
+        "text": "Hut 8 is hiring Principal, Chief of Staff\n\nhttps://hashtagweb3.com/pri/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pri/fc?og=7"
+          }
+        ],
+        "channel_id": "web3"
+      },
+      "account": "channel:web3",
+      "attemptId": "0b40700c-1d62-4b74-8026-665f04e43453",
+      "verification": "creating"
     }
   ]
 }
