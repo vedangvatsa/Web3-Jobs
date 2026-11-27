@@ -205923,7 +205923,8 @@
       },
       "account": "channel:web3",
       "attemptId": "15d1b010-369d-4cde-a819-d6b6651a9fa1",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb49c7a479c43d6eff963ebd6f51b95a7d6e9919b"
     }
   ]
 }
