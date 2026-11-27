@@ -201124,6 +201124,39 @@
       "attemptId": "df8eb93c-25ea-48b9-bba5-b78f8fc23911",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Thursday, 26-Nov-26 20:57:49 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AF8m6sVUVQcqmChiOtx4Vhn\"}"
+    },
+    {
+      "slug": "int68",
+      "company": "Ledger",
+      "title": "Consolidation Intern",
+      "platform": "bluesky",
+      "postedAt": "2026-11-27T04:57:40.288Z",
+      "expectedText": "Ledger is hiring Consolidation Intern: https://hashtagweb3.com/int68/bsky?og=7",
+      "snapshot": {
+        "id": "a2e9f3c2-10c8-4e42-8849-c470d7d1c4e1",
+        "title": "Consolidation Intern",
+        "company": "Ledger",
+        "link": "https://jobs.ashbyhq.com/ledger/a2e9f3c2-10c8-4e42-8849-c470d7d1c4e1",
+        "date": "2026-11-06T18:20:33.265+00:00",
+        "source": "Ashby: Ledger [ledger]",
+        "location": "Paris, France",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "int68"
+      },
+      "payload": {
+        "text": "Ledger is hiring Consolidation Intern: https://hashtagweb3.com/int68/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/int68/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/int68.png?v=7",
+        "company": "Ledger",
+        "title": "Consolidation Intern",
+        "description": "Join Ledger as Consolidation Intern. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "64375c16-2262-40a4-914f-36bafab6a37a",
+      "verification": "creating"
     }
   ]
 }
