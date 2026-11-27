@@ -8515,5 +8515,120 @@
     "slotKey": "2026-11-27:evening",
     "messageId": 16688,
     "sentAt": "2026-11-27T20:11:06.877Z"
+  },
+  "3747b481-9751-4a63-aed1-7cad0a9820ec": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T20:11:08.431Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8944293002",
+          "title": "Recruitment Coordinator - Intern (6 Months)",
+          "company": "BitGo",
+          "link": "https://job-boards.greenhouse.io/bitgo/jobs/8944293002",
+          "date": "2026-11-16T03:33:21-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BitGo [bitgo]",
+          "location": "India",
+          "department": "People",
+          "active": true,
+          "dateVerified": true,
+          "slug": "int60"
+        },
+        "key": "8944293002",
+        "slug": "int60",
+        "url": "https://hashtagweb3.com/int60?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BitGo",
+        "title": "Recruitment Coordinator"
+      },
+      {
+        "snapshot": {
+          "id": "8237533",
+          "title": "Implementation Consultant",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8237533",
+          "date": "2026-11-05T14:09:50-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Toronto, Canada",
+          "department": "1141 AMER Delivery",
+          "active": true,
+          "dateVerified": true,
+          "slug": "ic3"
+        },
+        "key": "8237533",
+        "slug": "ic3",
+        "url": "https://hashtagweb3.com/ic3?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Implementation Consultant"
+      },
+      {
+        "snapshot": {
+          "id": "5457271008",
+          "title": "Principal, Data Engineering (Data Ops)",
+          "company": "Hut 8",
+          "link": "https://job-boards.greenhouse.io/hut8/jobs/5457271008",
+          "date": "2026-11-10T15:31:40-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Hut 8 [hut8]",
+          "location": "Miami",
+          "department": "Managed Services / Digital Technology",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng750"
+        },
+        "key": "5457271008",
+        "slug": "eng750",
+        "url": "https://hashtagweb3.com/eng750?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Hut 8",
+        "title": "Principal, Data Engineering"
+      },
+      {
+        "snapshot": {
+          "id": "e41dd011-021e-4d47-bc62-49734e78475b",
+          "title": "Customer Success Manager",
+          "company": "CoinsPaid",
+          "link": "https://jobs.eu.lever.co/coinspaid/e41dd011-021e-4d47-bc62-49734e78475b",
+          "date": "2026-10-30T16:25:24.855Z",
+          "source": "Lever: CoinsPaid [coinspaid]",
+          "location": "Hybrid (Remote - European Region)",
+          "workplaceType": "hybrid",
+          "department": "Revenue Division",
+          "active": true,
+          "dateVerified": true,
+          "dateSource": "Lever.createdAt",
+          "slug": "mgr239"
+        },
+        "key": "e41dd011-021e-4d47-bc62-49734e78475b",
+        "slug": "mgr239",
+        "url": "https://hashtagweb3.com/mgr239?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "CoinsPaid",
+        "title": "Customer Success Manager"
+      },
+      {
+        "snapshot": {
+          "id": "4009916201",
+          "title": "Senior Transaction Monitoring Analyst (Fiat & Crypto)",
+          "company": "dtcpay",
+          "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009916201",
+          "date": "2026-11-23T05:13:46-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: dtcpay [dtcpay]",
+          "location": "Singapore",
+          "department": "Transaction Monitoring",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an165"
+        },
+        "key": "4009916201",
+        "slug": "an165",
+        "url": "https://hashtagweb3.com/an165?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "dtcpay",
+        "title": "Senior Transaction Monitoring Analyst"
+      }
+    ],
+    "message": "- BitGo is hiring <a href=\"https://hashtagweb3.com/int60?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Recruitment Coordinator</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/ic3?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Implementation Consultant</a>\n- Hut 8 is hiring <a href=\"https://hashtagweb3.com/eng750?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Principal, Data Engineering</a>\n- CoinsPaid is hiring <a href=\"https://hashtagweb3.com/mgr239?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Customer Success Manager</a>\n- dtcpay is hiring <a href=\"https://hashtagweb3.com/an165?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Transaction Monitoring Analyst</a>",
+    "slotKey": "2026-11-27:evening"
   }
 }
