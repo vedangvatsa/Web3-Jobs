@@ -202830,6 +202830,39 @@
       "attemptId": "b87d2254-0b3e-4d0b-987b-221af05f1acf",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 27-Nov-26 05:08:12 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AbFWdG-KTOw-RvWq2r0Ek_J\"}"
+    },
+    {
+      "slug": "rc8",
+      "company": "TRM Labs",
+      "title": "Lead Recruiting Coordinator",
+      "platform": "bluesky",
+      "postedAt": "2026-11-27T13:08:00.460Z",
+      "expectedText": "TRM Labs is hiring Lead Recruiting Coordinator: https://hashtagweb3.com/rc8/bsky?og=7",
+      "snapshot": {
+        "id": "626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "title": "Lead Recruiting Coordinator",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "date": "2026-11-17T16:56:42.671+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Portland, OR",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc8"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Lead Recruiting Coordinator: https://hashtagweb3.com/rc8/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/rc8/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/rc8.png?v=7",
+        "company": "TRM Labs",
+        "title": "Lead Recruiting Coordinator",
+        "description": "Join TRM Labs as Lead Recruiting Coordinator. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "9047b080-0fca-406e-a668-57a1c91a0e82",
+      "verification": "creating"
     }
   ]
 }
