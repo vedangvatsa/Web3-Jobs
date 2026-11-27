@@ -201371,7 +201371,8 @@
       },
       "account": "channel:dev",
       "attemptId": "136fc7aa-548d-4128-a0b5-1d8b20c915d6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xea9306ef1cb418d6c0c3bfcda1b622fb01d4ffa8"
     }
   ]
 }
