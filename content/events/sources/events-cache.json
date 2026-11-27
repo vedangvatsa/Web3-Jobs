@@ -2343,7 +2343,7 @@
     "country": "UK",
     "location": "London, UK",
     "url": "https://eblockchainconvention.com/digital-assets-forum/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/11/Digital-Assets-Forum-scaled.jpg",
     "source": "marketacross",
     "month": "February 2027",
     "descriptionSource": {
@@ -3037,7 +3037,7 @@
     "country": "Japan",
     "location": "Tokyo Big Sight, Tokyo, Japan",
     "url": "https://2027.webx-asia.com/",
-    "coverImage": "/events/ma-webx-2027-53a0cfdb.webp",
+    "coverImage": null,
     "source": "marketacross",
     "month": "August 2027"
   },
@@ -3121,7 +3121,7 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com/",
-    "coverImage": null,
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2025/08/EBC-Best-Foto.jpg",
     "source": "marketacross",
     "month": "September 2027"
   },
@@ -6557,20 +6557,6 @@
     "month": "November 2026"
   },
   {
-    "id": "luma-evt-x1U2RBrqcnEBlTt",
-    "name": "Meet & Make #27 – Tricot 🧶",
-    "description": "",
-    "startDate": "2026-10-27T22:00:00.000Z",
-    "endDate": "2026-10-28T00:00:00.000Z",
-    "city": "Montréal",
-    "country": "Canada",
-    "location": "Montréal, Canada",
-    "url": "https://lu.ma/meet-and-make-27",
-    "coverImage": "/events/luma-evt-x1u2rbrqcnebltt-5b954a5a.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-host-evt-evt-QDHRipbLQ3B980D",
     "name": "An Evening with Solana NYC | Presented by the Incubator",
     "description": "",
@@ -7234,20 +7220,6 @@
     "month": "October 2026"
   },
   {
-    "id": "luma-evt-l2AcVKYqGsHVrxT",
-    "name": "ICON - Private Tour (Principled Business Summit)",
-    "description": "",
-    "startDate": "2026-10-27T22:00:00.000Z",
-    "endDate": "2026-10-28T00:00:00.000Z",
-    "city": "Austin",
-    "country": "United States",
-    "location": "Austin, United States",
-    "url": "https://lu.ma/mklrphpt",
-    "coverImage": "/events/luma-evt-l2acvkyqgshvrxt-43c6f2c9.webp",
-    "source": "luma",
-    "month": "October 2026"
-  },
-  {
     "id": "luma-evt-DQb4cHdgCuOFzGM",
     "name": "Inovamente | IA e psicologia, na prática com Francisco Valente Gonçalves (Rumo)",
     "description": "",
@@ -7259,20 +7231,6 @@
     "url": "https://lu.ma/a0fjio4u",
     "coverImage": "/events/luma-evt-dqb4chdgcuofzgm-db8a2ba1.webp",
     "source": "luma",
-    "month": "October 2026"
-  },
-  {
-    "id": "mu-316890584",
-    "name": "Let's discuss Bitcoin and the Crypto Sector",
-    "description": "Join us at Austin Bitcoin Meetup for an insightful discussion on Bitcoin, the market, crypto projects and protocols... as well as other topics that may or may not impact crypto. Take your chance to be",
-    "startDate": "2026-10-27T19:00:00-05:00",
-    "endDate": "2026-10-27T19:00:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/austin-bitcoin-meetup/events/316890584/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "October 2026"
   },
   {
@@ -26100,5 +26058,47 @@
     "coverImage": "/events/luma-evt-agmqhvz6q5boskx-5364cc44.webp",
     "source": "luma",
     "month": "January 2027"
+  },
+  {
+    "id": "luma-evt-qcxYdl2uuptQfpJ",
+    "name": "Two Steps Forward: December Co-Working",
+    "description": "",
+    "startDate": "2026-12-10T14:00:00.000Z",
+    "endDate": "2026-12-10T22:00:00.000Z",
+    "city": "Toronto",
+    "country": "Canada",
+    "location": "Toronto, Canada",
+    "url": "https://lu.ma/bae35ps5",
+    "coverImage": "/events/luma-evt-qcxydl2uuptqfpj-dc2595b3.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-evt-DXoPAH3tvR7KNbV",
+    "name": "Crowdfunding Launchpad: Building a Winning Kickstarter Campaign (Hybrid)",
+    "description": "",
+    "startDate": "2026-12-10T16:00:00.000Z",
+    "endDate": "2026-12-10T17:00:00.000Z",
+    "city": "Markham",
+    "country": "Canada",
+    "location": "Markham, Canada",
+    "url": "https://lu.ma/tcaifkqy",
+    "coverImage": "/events/luma-evt-dxopah3tvr7knbv-0df8c1c4.webp",
+    "source": "luma",
+    "month": "December 2026"
+  },
+  {
+    "id": "luma-host-evt-evt-hahjIIBUdquny8O",
+    "name": "THE FUTURE OF FINANCE | AI, RWA & Financial Infrastructure",
+    "description": "",
+    "startDate": "2027-02-01T05:00:00.000Z",
+    "endDate": "2027-02-01T10:00:00.000Z",
+    "city": "",
+    "country": "Hong Kong",
+    "location": "Hong Kong",
+    "url": "https://luma.com/o8uemj3d",
+    "coverImage": "/events/luma-host-evt-evt-hahjiibudquny8o-1be852ae.webp",
+    "source": "luma-trusted",
+    "month": "February 2027"
   }
 ]

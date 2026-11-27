@@ -27813,42 +27813,6 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
-<a id="event-f41f73b4aeab2bff"></a>
-
-## Let's discuss Bitcoin and the Crypto Sector
-
-- Record: `mu-316890584`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T19:00:00-05:00
-- Description: Unverified stored copy
-- Original page: <https://www.meetup.com/austin-bitcoin-meetup/events/316890584/>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-24d19ad816b16400"></a>
-
-## ICON - Private Tour (Principled Business Summit)
-
-- Record: `luma-evt-l2AcVKYqGsHVrxT`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/mklrphpt>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-e06258a81270d032"></a>
-
-## Meet & Make #27 – Tricot 🧶
-
-- Record: `luma-evt-x1U2RBrqcnEBlTt`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-27T22:00:00.000Z
-- Description: Missing
-- Original page: <https://lu.ma/meet-and-make-27>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-9c60b2c746426e83"></a>
 
 ## Hacker House Goa 2026
@@ -45613,6 +45577,18 @@ An organizer description has not been verified for this record. Any previous cop
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
+<a id="event-e32ebdc7a4204958"></a>
+
+## Two Steps Forward: December Co-Working
+
+- Record: `luma-evt-qcxYdl2uuptQfpJ`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T14:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/bae35ps5>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5bf374f5047bf8f5"></a>
 
 ## After Hours : ADFW Edition \| Powered by Checkout.com
@@ -45670,6 +45646,18 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-12-10T15:00:00.000Z
 - Description: Unverified stored copy
 - Original page: <https://luma.com/SolanaDemoDineSuperweek>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-a22d9ad3a6001b10"></a>
+
+## Crowdfunding Launchpad: Building a Winning Kickstarter Campaign (Hybrid)
+
+- Record: `luma-evt-DXoPAH3tvR7KNbV`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2026-12-10T16:00:00.000Z
+- Description: Missing
+- Original page: <https://lu.ma/tcaifkqy>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
@@ -47453,6 +47441,18 @@ Announced speakers include Sasha Mills (Bank of England) and leaders from instit
 ### Tickets
 
 Ticket tiers start at £699 (excl. 20% VAT), with a VIP option at £2,199 that adds access to the VIP Night Party with speakers, sponsors and media at the 5-star venue, and a team option at £9,999 - the best return is achieved by bringing a team.
+
+<a id="event-83b80149d1aeebcd"></a>
+
+## THE FUTURE OF FINANCE \| AI, RWA & Financial Infrastructure
+
+- Record: `luma-host-evt-evt-hahjIIBUdquny8O`
+- Source: [events-cache.json](sources/events-cache.json)
+- Starts: 2027-02-01T05:00:00.000Z
+- Description: Missing
+- Original page: <https://luma.com/o8uemj3d>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-7738b38e24f202f6"></a>
 

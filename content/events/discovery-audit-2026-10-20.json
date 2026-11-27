@@ -5934,22 +5934,6 @@
   ],
   "held": [
     {
-      "url": "https://bridge.thetie.io/",
-      "name": "The Bridge Conference 2026",
-      "startDate": "2026-10-27",
-      "reason": "Organizer explicitly describes a private, invitation-only setting. Public announcement does not make this an unrestricted public conference. No matching known identity; hold for publication decision.",
-      "lane": "global",
-      "evidence": [
-        {
-          "url": "https://bridge.thetie.io/",
-          "fetchedAt": "2026-10-20T08:05:23.163Z",
-          "excerpt": "On October 27, 2026, The Tie will host the fourth annual The Bridge conference in New York City. A private, invitation-only setting in Lower Manhattan.",
-          "sha256": "9f335674f8adf371dbdf0a2dd77fb839b552ed33287205f0371bca76e7787caf",
-          "representation": "HTTP response HTML"
-        }
-      ]
-    },
-    {
       "url": "https://cfc-stmoritz.com/",
       "id": "ma-cfc-st--moritz-2027",
       "name": "CfC St. Moritz 2027",

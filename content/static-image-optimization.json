@@ -5373,10 +5373,6 @@
       "sha256": "3c7a9ad2462b4e79e5552043aca6928a0f875df69685bc523182a2492b743e77",
       "status": "optimized"
     },
-    "/events/luma-evt-l2acvkyqgshvrxt-43c6f2c9.webp": {
-      "sha256": "4d2a9f7b63ac3c302cfbf3495f936e81c342998924f76e20d0e77c9d67ec241c",
-      "status": "optimized"
-    },
     "/events/luma-evt-la7bq9540g9crwa-a20f691f.webp": {
       "sha256": "2757cc75a6b67263824a0cb76ac377d4c8e8966e1e67a890929c0c82305bf069",
       "status": "optimized"
@@ -6113,10 +6109,6 @@
       "sha256": "f5d3029bb6f508afbd13bf105c3aa7ac2af088e683a150b475e87fbd61746c0e",
       "status": "optimized"
     },
-    "/events/luma-evt-x1u2rbrqcnebltt-5b954a5a.webp": {
-      "sha256": "ea1968f8d2e6b4441c91307b6f399589db5c25ca3a24d4d928d2fdc8746fdbe3",
-      "status": "optimized"
-    },
     "/events/luma-evt-x8o59zim38bf2no-281852d0.webp": {
       "sha256": "d0ca3b1cf9c638b96f5b12d9732f476f717a205297050cf423750a2f211a0287",
       "status": "optimized"
@@ -6755,10 +6747,6 @@
     },
     "/events/ma-web-summit-2027-b6238e2b.webp": {
       "sha256": "c30a54237d40084b7352946c64cb8b1793749e697dffdd79165b37c0eb1c6ab1",
-      "status": "optimized"
-    },
-    "/events/ma-webx-2027-53a0cfdb.webp": {
-      "sha256": "dc25a2388e630d4c9d9fa98bb4fbc91e60991d55529737b6a90f53ccf47e4a9c",
       "status": "optimized"
     },
     "/events/meridian.webp": {
