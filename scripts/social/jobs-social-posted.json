@@ -203944,6 +203944,41 @@
       "attemptId": "18080c4f-d745-4511-aa2e-109f95d4b396",
       "verification": "verified",
       "postId": "0x9cd6bad8d9fd0e51547415eaad36a0129849899d"
+    },
+    {
+      "slug": "rsa",
+      "company": "Ripple",
+      "title": "RFP Specialist (Americas)",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T17:20:39.478Z",
+      "expectedText": "Ripple is hiring RFP Specialist\n\nhttps://hashtagweb3.com/rsa/fc?og=7",
+      "snapshot": {
+        "id": "8349630",
+        "title": "RFP Specialist (Americas)",
+        "company": "Ripple",
+        "link": "https://ripple.com/careers/all-jobs/job/8349630?gh_jid=8349630",
+        "date": "2026-11-16T10:24:57-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Ripple [ripple]",
+        "location": "Chicago, IL",
+        "department": "Sales",
+        "active": true,
+        "salary": "$92k – $110k/yr",
+        "dateVerified": true,
+        "slug": "rsa"
+      },
+      "payload": {
+        "text": "Ripple is hiring RFP Specialist\n\nhttps://hashtagweb3.com/rsa/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rsa/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "2dc45ffe-18ff-4698-a852-e60ef40c52a8",
+      "verification": "creating"
     }
   ]
 }
