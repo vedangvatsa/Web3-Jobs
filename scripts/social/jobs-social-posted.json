@@ -201623,7 +201623,8 @@
       },
       "account": "channel:defi",
       "attemptId": "c60a3440-6c42-4584-a493-2343a03fdd75",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x25a2b2860ce74ea9f8f031a3d647c5ed6f9dec23"
     }
   ]
 }
