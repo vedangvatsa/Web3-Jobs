@@ -200556,7 +200556,8 @@
       },
       "account": "channel:developers",
       "attemptId": "74340cd4-3383-4bc9-ac96-7535aa22d1a7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc54918bf7637eb991671a0033077abbb098228da"
     }
   ]
 }
