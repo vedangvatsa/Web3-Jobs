@@ -1153,5 +1153,36 @@
     "slotKey": "2026-11-27:afternoon",
     "messageId": 65860,
     "sentAt": "2026-11-27T13:04:53.436Z"
+  },
+  "12807fb5-91b4-413a-a59b-ad70d546b417": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T20:13:11.631Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Nvidia Board Not Considering Jensen Huang's Return as CEO",
+        "summary": "Directors are focusing on an internal investigation as company stock fell 4.1% despite a 187,000-signature petition.",
+        "link": "https://hashtagweb3.com/huangreturn?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Nvidia board not weighing Jensen Huang return as CEO"
+      },
+      {
+        "index": -1,
+        "headline": "Former FBI agent pleads guilty to $2.47 million crypto theft",
+        "summary": "Patrick Steven Yaroch used credentials from 35 investigations to transfer the funds into his personal digital wallets.",
+        "link": "https://hashtagweb3.com/yaroch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases"
+      },
+      {
+        "index": -1,
+        "headline": "Hackers convert $50 million of stolen XRP into Bitcoin",
+        "summary": "Attackers used THORChain to exchange 42 million tokens, while 192 million XRP remain in their original wallets.",
+        "link": "https://hashtagweb3.com/xrplaunder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says"
+      }
+    ],
+    "slotKey": "2026-11-27:evening"
   }
 }
