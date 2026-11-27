@@ -204050,7 +204050,8 @@
       },
       "account": "channel:founders",
       "attemptId": "3f053fa0-7072-4382-86f5-721e3228ff0c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb4d4305eac0b4f5db0bc144e76f5d00fa2855653"
     }
   ]
 }
