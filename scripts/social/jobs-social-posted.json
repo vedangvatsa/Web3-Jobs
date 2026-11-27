@@ -203113,7 +203113,8 @@
       },
       "account": "channel:developers",
       "attemptId": "146691b0-ddd8-423d-a788-916f6d6043ca",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x7333070706c935ffc92fa4c68f6aa8aa89d2d7e2"
     }
   ]
 }
