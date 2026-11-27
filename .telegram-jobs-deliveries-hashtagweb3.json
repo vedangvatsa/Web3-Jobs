@@ -4188,7 +4188,7 @@
     "sentAt": "2026-11-27T13:01:38.866Z"
   },
   "56c3900b-4292-4806-8116-108f84b8504a": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T20:11:17.346Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4301,6 +4301,8 @@
       }
     ],
     "message": "- Riot Platforms is hiring <a href=\"https://hashtagweb3.com/cm14?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VP, Community &amp; Sustainability</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/infra64?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer, Machine Learning &amp; Data Infrastructure</a>\n- D3 Global is hiring <a href=\"https://hashtagweb3.com/sls539?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Development</a>\n- Figure is hiring <a href=\"https://hashtagweb3.com/ds21?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Data Scientist</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls518?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Japan Enterprise Account Manager</a>",
-    "slotKey": "2026-11-27:evening"
+    "slotKey": "2026-11-27:evening",
+    "messageId": 156545,
+    "sentAt": "2026-11-27T20:11:19.722Z"
   }
 }
