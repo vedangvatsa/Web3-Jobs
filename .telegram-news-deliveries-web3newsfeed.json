@@ -1155,7 +1155,7 @@
     "sentAt": "2026-11-27T13:04:53.436Z"
   },
   "12807fb5-91b4-413a-a59b-ad70d546b417": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T20:13:11.631Z",
     "stories": [
       {
@@ -1183,6 +1183,8 @@
         "originalTitle": "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says"
       }
     ],
-    "slotKey": "2026-11-27:evening"
+    "slotKey": "2026-11-27:evening",
+    "messageId": 65861,
+    "sentAt": "2026-11-27T20:13:14.803Z"
   }
 }

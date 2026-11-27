@@ -104,6 +104,9 @@
   "https://hashtagweb3.com/bbitlisting?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/ukexchangemarketmaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/wallerrate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/huangreturn?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/yaroch?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xrplaunder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -314,6 +317,12 @@
   "UK bars crypto exchanges from market making on their own platforms",
   "Fed Governor Waller backs traditional payments for tokenized markets",
   "Fed's Waller Backs Traditional Rails for Tokenized Markets in TCH Speech",
+  "Nvidia Board Not Considering Jensen Huang's Return as CEO",
+  "Nvidia board not weighing Jensen Huang return as CEO",
+  "Former FBI agent pleads guilty to $2.47 million crypto theft",
+  "Former FBI agent pleads guilty to stealing $2.47 million in crypto from bureau cases",
+  "Hackers convert $50 million of stolen XRP into Bitcoin",
+  "Hackers Swap About $50 Million of Stolen XRP Into Bitcoin, Elliptic Says",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -418,5 +427,8 @@
   "fp:account|against|cas|claim|court|creator|default|defendant|enter|fail",
   "fp:approval|asset|begin|bit|debut|etf|finma|follow|management|october",
   "fp:avoid|ban|bar|centraliz|conflict|exchang|interest|internal|liquidity|own",
-  "fp:back|bank|central|continu|exist|financ|governor|growth|money|payment"
+  "fp:back|bank|central|continu|exist|financ|governor|growth|money|payment",
+  "fp:000|187|are|board|ceo|consider|despit|director|fell41|focus",
+  "fp:247m|bureau|cas|credential|digital|fbi|former|from35|guilty|his",
+  "fp:192m|42m|50m|attacker|convert|elliptic|exchang|hacker|original|remain"
 ]
