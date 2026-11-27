@@ -199016,6 +199016,40 @@
       "attemptId": "1ccd7815-6376-4363-9102-0e2c67e3bfe9",
       "verification": "verified",
       "postId": "0x2da41063ae19af62d40bb50f936a9608cae6421f"
+    },
+    {
+      "slug": "eng789",
+      "company": "Bitpanda",
+      "title": "Senior Engineer, Golang",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T02:20:59.119Z",
+      "expectedText": "Bitpanda is hiring Senior Engineer, Golang\n\nhttps://hashtagweb3.com/eng789/fc?og=7",
+      "snapshot": {
+        "id": "4979476101",
+        "title": "Senior Engineer, Golang",
+        "company": "Bitpanda",
+        "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4979476101",
+        "date": "2026-11-16T08:49:02-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Bitpanda [bitpanda]",
+        "location": "București, Bucharest, Romania",
+        "department": "Engineering & Technology",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng789"
+      },
+      "payload": {
+        "text": "Bitpanda is hiring Senior Engineer, Golang\n\nhttps://hashtagweb3.com/eng789/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng789/fc?og=7"
+          }
+        ],
+        "channel_id": "solana"
+      },
+      "account": "channel:solana",
+      "attemptId": "c12c1eb6-cb29-4ef5-b4e5-06c96419dc5f",
+      "verification": "creating"
     }
   ]
 }
