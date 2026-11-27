@@ -201373,6 +201373,41 @@
       "attemptId": "136fc7aa-548d-4128-a0b5-1d8b20c915d6",
       "verification": "verified",
       "postId": "0xea9306ef1cb418d6c0c3bfcda1b622fb01d4ffa8"
+    },
+    {
+      "slug": "int68",
+      "company": "Ledger",
+      "title": "Consolidation Intern",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T04:57:40.288Z",
+      "expectedText": "Ledger is hiring Consolidation Intern\n\nhttps://hashtagweb3.com/int68/fc?og=7",
+      "snapshot": {
+        "id": "a2e9f3c2-10c8-4e42-8849-c470d7d1c4e1",
+        "title": "Consolidation Intern",
+        "company": "Ledger",
+        "link": "https://jobs.ashbyhq.com/ledger/a2e9f3c2-10c8-4e42-8849-c470d7d1c4e1",
+        "date": "2026-11-06T18:20:33.265+00:00",
+        "source": "Ashby: Ledger [ledger]",
+        "location": "Paris, France",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "int68"
+      },
+      "payload": {
+        "text": "Ledger is hiring Consolidation Intern\n\nhttps://hashtagweb3.com/int68/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/int68/fc?og=7"
+          }
+        ],
+        "channel_id": "developers"
+      },
+      "account": "channel:developers",
+      "attemptId": "ad59ee8b-6f89-4b18-8a93-fbe3a6118424",
+      "verification": "creating"
     }
   ]
 }
