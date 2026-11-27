@@ -1329,7 +1329,7 @@
     "sentAt": "2026-11-27T13:03:32.141Z"
   },
   "fcf13414-ff35-49ef-ad03-8ee1583082e3": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T20:11:21.245Z",
     "stories": [
       {
@@ -1363,6 +1363,8 @@
         "originalTitle": "42 state AGs are trying to stop Character.AI from selling users’ chats"
       }
     ],
-    "slotKey": "2026-11-27:evening"
+    "slotKey": "2026-11-27:evening",
+    "messageId": 193596,
+    "sentAt": "2026-11-27T20:11:23.396Z"
   }
 }

@@ -104,6 +104,9 @@
   "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/",
   "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
   "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+  "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
+  "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
+  "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -314,6 +317,12 @@
   "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
   "MIT Technology Review opens 2027 Innovators Under 35 nominations",
   "Our 2027 Innovators Under 35 competition is now open",
+  "OpenAI countersues Apple over trade secret theft",
+  "OpenAI countersues Apple over trade secret theft and alleged coercion of shared suppliers",
+  "Nvidia Blackwell chips discovered in Shanghai data center",
+  "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
+  "Forty-two states act to block Character.AI chat data sale",
+  "42 state AGs are trying to stop Character.AI from selling users’ chats",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -418,5 +427,8 @@
   "fp:attention|cach|decod|dfly2|exist|generation|improv|increas|larg|memory",
   "fp:000|cutt|employe|global|initiativ|lay|layoff|major|nin|off10",
   "fp:agency|board|chipmaker|concentration|concern|consider|credit|cut|downgrad|due",
-  "fp:annual|competition|founder|innovator|list|mit|nomination|now|open|opens2027"
+  "fp:annual|competition|founder|innovator|list|mit|nomination|now|open|opens2027",
+  "fp:action|alleg|appl|between|both|coercion|competition|countersu|intensify|legal",
+  "fp:advanc|alic|bann|blackwell|bloomberg|center|china|chip|demonstrat|discover",
+  "fp:act|are|auction|bankruptcy|block|buyer|character|chat|conversational|court"
 ]
