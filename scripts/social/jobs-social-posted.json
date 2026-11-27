@@ -205504,7 +205504,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "36543634-4466-42ea-9292-769d488e8677",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x11aac3e3079f2fb3fa81ab4b468ad5abd5c9b958"
     }
   ]
 }
