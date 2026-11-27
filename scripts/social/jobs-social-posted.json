@@ -201032,6 +201032,34 @@
       "attemptId": "cfa16ec8-ec14-41d5-a1f5-d325f0649d20",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "pri",
+      "company": "Hut 8",
+      "title": "Principal, Chief of Staff",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T04:54:31.000Z",
+      "expectedText": "Hut 8 is hiring Principal, Chief of Staff: https://hashtagweb3.com/pri/fb?og=7",
+      "snapshot": {
+        "id": "5457213008",
+        "title": "Principal, Chief of Staff",
+        "company": "Hut 8",
+        "link": "https://job-boards.greenhouse.io/hut8/jobs/5457213008",
+        "date": "2026-11-10T09:48:58-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Hut 8 [hut8]",
+        "location": "Miami",
+        "department": "Office of the CEO",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pri"
+      },
+      "payload": {
+        "message": "Hut 8 is hiring Principal, Chief of Staff: https://hashtagweb3.com/pri/fb?og=7",
+        "link": "https://hashtagweb3.com/pri/fb?og=7"
+      },
+      "attemptId": "963b048a-b102-4e6c-a9ca-04d510cb8645",
+      "verification": "creating"
     }
   ]
 }
