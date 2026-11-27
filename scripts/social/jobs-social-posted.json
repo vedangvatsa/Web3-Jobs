@@ -201191,7 +201191,8 @@
       },
       "account": "profile",
       "attemptId": "6b15d91e-8082-4a0a-b220-a52dae5ed30f",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb21684963faff8f09725bc31108025b0c120d118"
     }
   ]
 }
