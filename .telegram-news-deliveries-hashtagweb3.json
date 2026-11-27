@@ -1123,7 +1123,7 @@
     "sentAt": "2026-11-27T04:56:09.345Z"
   },
   "6e277a34-f5d4-4bd7-ad7b-4e0e351e685b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T13:06:00.170Z",
     "stories": [
       {
@@ -1153,6 +1153,8 @@
         "originalTitle": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin"
       }
     ],
-    "slotKey": "2026-11-27:afternoon"
+    "slotKey": "2026-11-27:afternoon",
+    "messageId": 156544,
+    "sentAt": "2026-11-27T13:06:11.902Z"
   }
 }
