@@ -98,6 +98,9 @@
   "https://hashtagweb3.com/ukexchangemarketmaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/frenchhill?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/hashratehijack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/swisscarf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/xbotsued?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -296,6 +299,12 @@
   "French Hill Wins Reelection but Is Set to Lose House Financial Services Chair",
   "Japan financial regulator considers tighter oversight of decentralized finance",
   "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+  "Braiins Reports Hijack Attacks Affecting Over 1,000 Mining Sites",
+  "Braiins Says Bitcoin Mining Hijacks Hit More Than 1,000 Sites at Once",
+  "Switzerland Approves Crypto Tax Data Sharing With 57 Partners",
+  "Swiss Federal Council approves 57 partners for crypto tax data exchange from 2028",
+  "UK Court Rules Against Two Individuals in X Fraud Case",
+  "UK Court Enters Default Judgment Against Two in X Bitcoin Account Case",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -394,5 +403,8 @@
   "fp:action|biopharma|biotech|confirm|desci|enforcement|grant|issu|molecul|not",
   "fp:avoid|ban|bar|centraliz|conflict|exchang|interest|own|prevent|regulation",
   "fp:arkansa|but|chair|committe|democrat|financial|french|gain|hill|his",
-  "fp:associat|consider|custodial|decentraliz|defi|explor|financ|financial|illicit|japan"
+  "fp:associat|consider|custodial|decentraliz|defi|explor|financ|financial|illicit|japan",
+  "fp:000|affect|and20|attack|between|braiin|connection|during24|hijack|hit",
+  "fp:approv|approves57|automatically|begin|council|cryptocurrency|exchang|federal|from2028|government",
+  "fp:account|against|allegation|cas|court|default|defendant|enter|fail|fraud"
 ]
