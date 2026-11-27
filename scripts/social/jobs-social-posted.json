@@ -200801,7 +200801,8 @@
       },
       "account": "channel:ai",
       "attemptId": "b7411fec-5d57-437a-8d72-3ed4843649c7",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xce252dbd208dcf8de0533098e3fb79b87f7fb7ca"
     }
   ]
 }
