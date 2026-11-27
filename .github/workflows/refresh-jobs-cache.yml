@@ -722,7 +722,7 @@ jobs:
       group: event-catalogue
       cancel-in-progress: false
     needs: [gate]
-    if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.slot != 'recovery' && (needs.gate.outputs.morning == 'true' || needs.gate.outputs.deploy == 'true' || needs.gate.outputs.social == 'true') && github.event.inputs.diagnose_telegram != 'true' }}
+    if: ${{ needs.gate.outputs.skip != 'true' && needs.gate.outputs.slot != 'recovery' && (needs.gate.outputs.morning == 'true' || github.event_name == 'workflow_dispatch') && github.event.inputs.diagnose_telegram != 'true' }}
     runs-on: ubuntu-latest
     timeout-minutes: 30
     permissions:
