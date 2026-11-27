@@ -201443,7 +201443,8 @@
       },
       "account": "channel:build",
       "attemptId": "bf580959-5a03-4174-91d8-eef85053c0ee",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd2d3f801fdfdc8d5a87666599da0b2c87682240f"
     }
   ]
 }
