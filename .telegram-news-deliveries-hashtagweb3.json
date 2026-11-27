@@ -1156,5 +1156,36 @@
     "slotKey": "2026-11-27:afternoon",
     "messageId": 156544,
     "sentAt": "2026-11-27T13:06:11.902Z"
+  },
+  "bd6a8550-40a3-4acd-97c1-9011811de0c1": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T20:15:05.410Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Upbit and Bithumb pause CYBER transfers over token minting",
+        "summary": "The platforms stopped transfers on Nov. 22 when Cyber reported unauthorized Solana minting and bridge vault withdrawals.",
+        "link": "https://hashtagweb3.com/cyberbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Upbit and Bithumb halt CYBER deposits after suspected bridge minting"
+      },
+      {
+        "index": 1,
+        "headline": "Bitcoin drops below major historical price support levels",
+        "summary": "Current prices sit below long-term averages that investors used to predict previous market bottoms.",
+        "link": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+        "source": "Decrypt",
+        "originalTitle": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different"
+      },
+      {
+        "index": 2,
+        "headline": "Bitcoin whales continue buying despite lower profit margins",
+        "summary": "Data shows large holders are purchasing Bitcoin instead of following historical fourth-quarter selling trends.",
+        "link": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph",
+        "originalTitle": "Bitcoin whales pile into BTC despite shrinking profit cushion"
+      }
+    ],
+    "slotKey": "2026-11-27:evening"
   }
 }
