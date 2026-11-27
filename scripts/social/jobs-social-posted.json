@@ -198699,7 +198699,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "949c0d96-b7d1-4225-adf1-6ea480b93bd8",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe38036be4535a211b11823b69b32e0e0e5be81fb"
     }
   ]
 }
