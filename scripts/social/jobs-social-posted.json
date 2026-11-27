@@ -204266,7 +204266,8 @@
       },
       "account": "channel:product",
       "attemptId": "1efbc450-93a2-4c21-9e29-6668a4fab64b",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfefd5d5ae98d533b861b30f1e01e1c99e5a9e88f"
     }
   ]
 }
