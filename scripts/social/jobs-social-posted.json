@@ -199411,6 +199411,34 @@
       "attemptId": "8fb2cb0b-e119-40da-8141-330bdff095b9",
       "verification": "creating",
       "error": "Buffer X request failed: HTTP 429"
+    },
+    {
+      "slug": "mkt146",
+      "company": "Alpaca",
+      "title": "Marketing Manager - Market Data",
+      "platform": "threads",
+      "postedAt": "2026-11-27T02:24:36.335Z",
+      "expectedText": "Alpaca is hiring Marketing Manager: https://hashtagweb3.com/mkt146/th?og=7",
+      "snapshot": {
+        "id": "6254813004",
+        "title": "Marketing Manager - Market Data",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6254813004",
+        "date": "2026-11-11T16:42:22-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Europe",
+        "department": "Market Data",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mkt146"
+      },
+      "payload": {
+        "text": "Alpaca is hiring Marketing Manager: https://hashtagweb3.com/mkt146/th?og=7",
+        "link_attachment": "https://hashtagweb3.com/mkt146/th?og=7"
+      },
+      "attemptId": "a29460a2-3bc5-417c-ae61-2f82f2d5507b",
+      "verification": "creating"
     }
   ]
 }
