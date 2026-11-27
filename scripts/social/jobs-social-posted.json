@@ -202052,7 +202052,8 @@
       },
       "account": "profile",
       "attemptId": "efec1693-0738-4171-a358-f308330ee146",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x48eda2eb22f0a2cf8465a6e3b08dd7e7323ce130"
     }
   ]
 }
