@@ -11017,7 +11017,7 @@ Alpha Ladder: A global Web2.5 digital finance ecosystem serving corporates expan
 
 Supported by:
 
-SPD: South Pacific Digital is a Hong Kong-based digital finance company with a global vision, dedicated to advancing global payment innovation and AI agent commerce through stablecoin technology. At the core of our offering is SPD, a US dollar-pegged stablecoin designed to maintain a 1:1 peg to the US dollar and backed by verifiable reserves. Leveraging our group's Vanuatu Stablecoin License and regulatory presence across the Asia-Pacific region, we integrate regulatory compliance, reserve transparency, and security into our operations to build a trusted digital payment ecosystem for global customers.
+SPD:South Pacific Digital is a Hong Kong-based digital finance company with a global vision, dedicated to advancing global payment innovation and AI agent commerce through stablecoin technology. At the core of our offering is SPD, a US dollar-pegged stablecoin designed to maintain a 1:1 peg to the US dollar and backed by verifiable reserves. Leveraging our group's Vanuatu Stablecoin License and regulatory presence across the Asia-Pacific region, we integrate regulatory compliance, reserve transparency, and security into our operations to build a trusted digital payment ecosystem for global customers.
 
 Focusing on two key areas-global payments and AI agent commerce-we aim to deliver seamless, efficient, and cost-effective 24/7 cross-border payment and settlement solutions. We also enable autonomous AI agent transactions, real-time settlements, and machine-to-machine (M2M) micropayments, facilitating the efficient flow of digital value worldwide and unlocking new business opportunities in the emerging AI-driven economy. Connecting Global Payments. Powering the AI Economy.
 
@@ -11279,7 +11279,7 @@ Your career in Web3 starts with a conversation. Come and meet industry professio
 
 Ready to take the next step? Explore current Web3 job vacancies and submit your CV directly to our hiring partners [HERE]
 
-Curious about building a career in digital assets and Web3 Industry? Join Web3 Career Connect, an official community event of Hong Kong FinTech Week x StartmeupHK 2026 ( ).
+Curious about building a career in digital assets and Web3 Industry? Join Web3 Career Connect, an official community event of Hong Kong FinTech Week x StartmeupHK 2026.
 
 Co-hosted by Blockchain for Good Alliance and Finoverse, Web3 Career Connect brings together university students, fresh graduates and industry professionals for an open conversation about careers in the evolving Web3 ecosystem.
 
@@ -11649,15 +11649,7 @@ Standard event sponsorship delivers a logo, a booth, and a list of badge scans. 
 
 Partnership structures range from targeted business development packages to full event association under your brand. If your organization needs to be present where the APAC digital asset market is being shaped in 2026, tell us your objectives.
 
-[Get in touch](
-
-### THE VENUE
-
-The Hong Kong Digital Asset Summit takes place at the Grand Hyatt Hong Kong, situated directly alongside the Hong Kong Convention and Exhibition Centre on Victoria Harbour.
-
-The Summit runs alongside Hong Kong FinTech Week, making the Grand Hyatt the institutional centre of the most concentrated week of digital finance activity in Asia Pacific
-
-Business Day | 4 November (Invite Only)
+Get in touch
 
 A closed-door day reserved for confirmed speakers and partners, with private, focused engagement among senior institutional leaders and capital allocators. Participation is by invitation only.
 
@@ -13353,7 +13345,7 @@ This event is organized by Leap Quantum Technology Hub as part of the Thursday G
 - jak pořádat skupinové bitcoinové kvízy na meetupech,
 - jak automatizovat pravidelné nákupy bitcoinu a sledovat své portfolio,
 - jak funguje automatický výběr BTC do vlastní peněženky,
-- jak začít se self-custody a používat Trezor krok za krokem. Nezůstane ale jen u teorie. Součástí meetupu bude také praktická ukázka skupinového bitcoinového kvízu, který si společně zahrajeme. Ať už s Bitcoinem teprve začínáte, nebo se mu věnujete delší dobu, přijďte se inspirovat, otestovat své znalosti a potkat ostatní bitcoinery. Přednáší: Luboš Kovařík (Štosuj.cz )
+- jak začít se self-custody a používat Trezor krok za krokem. Nezůstane ale jen u teorie. Součástí meetupu bude také praktická ukázka skupinového bitcoinového kvízu, který si společně zahrajeme. Ať už s Bitcoinem teprve začínáte, nebo se mu věnujete delší dobu, přijďte se inspirovat, otestovat své znalosti a potkat ostatní bitcoinery. Přednáší: Luboš Kovařík (Štosuj.cz)
 
 <a id="event-345e339bb8243dd9"></a>
 
@@ -15498,11 +15490,9 @@ Founded in 2016, Sunrate has enabled companies to operate and scale both locally
 
 Join AWIC and Norton Rose Fulbright during Singapore FinTech Festival for breakfast and a panel discussion, followed by networking. AI, digital assets and the future of financial markets: regulation, governance and trust in a new financial ecosystem As AI and digital assets move from experimentation to deployment, how can financial institutions embrace innovation while building trust? From stablecoins and tokenised assets to AI-enabled decision-making, the panel will explore evolving regulation, governance expectations and financial crime risks - and what firms can do today to prepare for tomorrow's financial markets. Speakers:
 
-Hasanali Pirbhai, Senior Associate, Dubai - Norton Rose Fulbright
-
-Hannah Meakin, Partner, London - Norton Rose Fulbright
-
-Floortje Nagelkerke, Partner, Amsterdam - Norton Rose Fulbright
+- Hasanali Pirbhai, Senior Associate, Dubai - Norton Rose Fulbright
+- Hannah Meakin, Partner, London - Norton Rose Fulbright
+- Floortje Nagelkerke, Partner, Amsterdam - Norton Rose Fulbright
 
 Max Bernt, International Managing Director - Taxbit Moderator: Afia Sengupta, Founder, CAT Investigators; AWIC Singapore President Date: Thursday, November 19th, 2026 Location: Norton Rose Fulbright offices, Singapore Time: 3:30-5:00 PM SGT Programme
 
@@ -23884,7 +23874,7 @@ Instead of static rules or shared pooled models, nSureAI builds a dedicated AI m
 
 Processing over $200B in annual volume, nSureAI is one of the most scalable fraud engines in digital commerce. Rendering decisions under 500ms and handling peak volumes of $80M/hr, nSureAI's operational excellence has driven 3x YoY growth while safeguarding leading global enterprises.
 
-LinkedIn · Website
+LinkedIn | Website
 
 ### Powered by INPUT Global
 
@@ -23901,7 +23891,7 @@ Our work spans the Americas, Europe and MENA, with experience across 500+ compan
 
 90% of our clients stay with us year after year.
 
-X · LinkedIn · Website
+X | LinkedIn | Website
 
 ### Privacy & Media Consent
 
@@ -24714,7 +24704,7 @@ Event hosts:
 
 AI That Delivers and Canadian Business Council Abu Dhabi
 
-AI That Delivers (aithatdelivers.ai ) is a private network of 600+ senior leaders in financial services, tech and AI across Canada and UAE.
+AI That Delivers (aithatdelivers.ai) is a private network of 600+ senior leaders in financial services, tech and AI across Canada and UAE.
 
 Elena D. Kaiache is a fractional CFO and Strategic Advisor with experience in Canada and USA across FinTech, B2B AI SaaS and private equity consulting, having led 40+ M&A and value creation deals for investment funds. Founder of AI That Delivers.
 
@@ -26304,13 +26294,13 @@ Join us at Keio ChainHack 2027 and connect with the next generation of AI & Web3
 
 ### About the event
 
-東京大学ブロックチェーンイノベーション寄付講座 が主催する本イベントでは、『ビットコイン・スタンダード 』(ミネルヴァ書房)の内容をもとに、参加者間での議論を行います。
+東京大学ブロックチェーンイノベーション寄付講座が主催する本イベントでは、『ビットコイン・スタンダード』(ミネルヴァ書房)の内容をもとに、参加者間での議論を行います。
 
-会場には本書の翻訳者である練木照子 氏をお招きし、また、本書の著者であり1月に新著 The Fiat Standard 邦訳版の出版を控えるSaifedean Ammous氏からのビデオメッセージも上映する予定です。
+会場には本書の翻訳者である練木照子氏をお招きし、また、本書の著者であり1月に新著 The Fiat Standard 邦訳版の出版を控えるSaifedean Ammous氏からのビデオメッセージも上映する予定です。
 
 ### 著者への質問募集
 
-イベントに先立ち、Saifedean Ammous氏(X:@saifedean )への質問を募集します。
+イベントに先立ち、Saifedean Ammous氏(X:@saifedean)への質問を募集します。
 
 質問は、Xでハッシュタグ「#bitcoinstandardUTokyo」を付けてご投稿ください。締切は11月30日です。
 
@@ -26331,7 +26321,7 @@ Ammous氏の回答は、イベント当日に上映するビデオメッセー�
 - Kensuke ITO(東京大学大学院工学系研究科 特任研究員)
 - ichinaka(日本ビットコイン産業株式会社)
 - ゲスト:
-- 練木照子 氏(『ビットコイン・スタンダード』翻訳者 X: @Teruko21M)
+- 練木照子氏(『ビットコイン・スタンダード』翻訳者 X: @Teruko21M)
 - ビデオメッセージ:
 - Saifedean Ammous氏(『ビットコイン・スタンダード』著者)
 - 対象:本書を読了した方(学内外不問・自己申告)。ビットコインのプロトコル設計やナラティブ、普及について、疑問や問題意識をお持ちの方を特に歓迎します。
@@ -26557,7 +26547,7 @@ ZIG Finance is the onchain finance ecosystem built on a single conviction: insti
 
 Speakers and partners will be announced soon. Register now to secure your place.
 
-LinkedIn · X · Website
+LinkedIn | X | Website
 
 <a id="event-c7b8ca389c664948"></a>
 
@@ -45032,13 +45022,13 @@ Your hosts
 
 About Soter Insure Headquartered in Abu Dhabi and operating out of Bermuda, with offices in London, New York and Dubai, Soter Insure was incubated by Further Ventures and WebN Group. The company offers specialized digital asset insurance products for financial institutions, including Directors & Officers (D&O), Professional Indemnity (PI), Crime, Specie, Slashing and Smart Contract Failure coverage, uniquely denominated in both fiat and native digital assets.
 
-X · Website · LinkedIn
+X | Website | LinkedIn
 
 About Galaxy Galaxy Digital Inc. (NASDAQ: GLXY) is a global leader in digital assets and data center infrastructure, growing the economy that runs on code. Galaxy delivers the onchain infrastructure that connects institutions to digital assets, including trading, advisory, asset management, staking, self-custody, and tokenization. Galaxy also develops and operates data center infrastructure to power AI and HPC workloads. Anchored by its Helios campus in Texas, Galaxy is building a multi-gigawatt pipeline of more than 5.7 GW of potential capacity, positioning it among the largest and fastest-growing data center developers in North America.
 
 The Company is headquartered in New York City, with offices across North America, Europe, the Middle East, and Asia.  Additional information about Galaxy's businesses and products is available on
 
-X · Website · LinkedIn
+X | Website | LinkedIn
 
 <a id="event-795ef3db2eb03adf"></a>
 
@@ -45497,7 +45487,7 @@ Event hosts:
 
 AI That Delivers and Canadian Business Council Abu Dhabi
 
-AI That Delivers (aithatdelivers.ai ) is a private network of 600+ senior leaders in financial services, tech and AI across Canada and UAE.
+AI That Delivers (aithatdelivers.ai) is a private network of 600+ senior leaders in financial services, tech and AI across Canada and UAE.
 
 Elena D. Kaiache is a fractional CFO and Strategic Advisor with experience in Canada and USA across FinTech, B2B AI SaaS and private equity consulting, having led 40+ M&A and value creation deals for investment funds. Founder of AI That Delivers.
 
