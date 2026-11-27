@@ -206429,6 +206429,47 @@
       "attemptId": "d21ce11f-9a79-4c88-bbb2-9f14d60201bd",
       "verification": "verified",
       "postId": "0x24dd38d1b3bfb4d8faed82942a0597ed252da8bd"
+    },
+    {
+      "slug": "sls380",
+      "company": "Ledger",
+      "title": "Accounts Payable Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-11-27T23:04:31.076Z",
+      "expectedText": "Ledger is hiring Accounts Payable Specialist: https://hashtagweb3.com/sls380/li?og=7",
+      "snapshot": {
+        "id": "99a878f8-192f-4bf2-8220-019e4b96762b",
+        "title": "Accounts Payable Specialist",
+        "company": "Ledger",
+        "link": "https://jobs.ashbyhq.com/ledger/99a878f8-192f-4bf2-8220-019e4b96762b",
+        "date": "2026-11-05T15:20:59.076+00:00",
+        "source": "Ashby: Ledger [ledger]",
+        "location": "Hybrid (Paris, France)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls380"
+      },
+      "payload": {
+        "text": "Ledger is hiring Accounts Payable Specialist: https://hashtagweb3.com/sls380/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls380/li?og=7",
+          "title": "Accounts Payable Specialist at Ledger | Hashtag Web3",
+          "description": "Join Ledger as Accounts Payable Specialist. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls380.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "f0ebd25d-7a9d-4135-a3be-4624342b2f12",
+      "verification": "creating"
     }
   ]
 }
