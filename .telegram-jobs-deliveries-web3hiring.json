@@ -7930,7 +7930,7 @@
     "sentAt": "2026-11-26T20:24:43.082Z"
   },
   "ab46842e-8340-4cef-b26e-633ed3d8e50b": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T04:54:12.242Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -8040,6 +8040,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr250?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Treasury Manager</a>\n- Helius is hiring <a href=\"https://hashtagweb3.com/rec36?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Recruiter</a>\n- Flow Traders is hiring <a href=\"https://hashtagweb3.com/rec63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior HR Business Partner</a>\n- Fun​.xyz is hiring <a href=\"https://hashtagweb3.com/eng596?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of GTM Engineering</a>\n- Anchorage Digital is hiring <a href=\"https://hashtagweb3.com/mrmm?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Member of Global Risk Management</a>",
-    "slotKey": "2026-11-27:morning"
+    "slotKey": "2026-11-27:morning",
+    "messageId": 16685,
+    "sentAt": "2026-11-27T04:54:14.323Z"
   }
 }
