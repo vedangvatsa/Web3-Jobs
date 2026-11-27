@@ -10807,5 +10807,19 @@
       "luma-batch-evt9rz1fuza2dw4u",
       "2n764jm8"
     ]
+  },
+  "ibw-sheet-evt-WP32nMhXbmHisMb": {
+    "until": "2027-11-27T08:20:00.000Z",
+    "slugs": [
+      "dabaohack",
+      "ibw-sheet-evt-wp32nmhxbmhismb"
+    ]
+  },
+  "w3v-dabao-open-hardware-hackathon-incl-board-26-11-03": {
+    "until": "2027-11-27T08:20:00.000Z",
+    "slugs": [
+      "dabaohack",
+      "w3v-dabao-open-hardware-hackathon-incl-board-26-11-03"
+    ]
   }
 }

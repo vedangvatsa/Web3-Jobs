@@ -1,42 +1,42 @@
 [
   {
-    "slug": "cftcreserves",
-    "title": "CFTC staff let exchanges count Bitcoin toward operating reserves",
-    "description": "A CFTC staff advisory issued Nov. 23 says regulated trading venues and clearinghouses may count bitcoin, ether and payment stablecoins toward financial resources covering at least one year of operating costs, subject to haircuts.",
+    "slug": "bbitlisting",
+    "title": "Switzerland's first spot Bitcoin ETF starts trading on SIX",
+    "description": "BIT Asset Management's Bitcoin Fund ETF began trading on SIX Swiss Exchange with 350 bitcoin in assets after FINMA approved the fund in October.",
     "category": "News",
-    "publishedDate": "2026-11-24",
-    "image": "/images/news/cftcreserves.jpg"
+    "publishedDate": "2026-11-27",
+    "image": "/images/news/bbitlisting.jpg"
   },
   {
-    "slug": "cyberbridge",
-    "title": "Upbit and Bithumb halt CYBER deposits after suspected bridge minting",
-    "description": "South Korean exchanges Upbit and Bithumb suspended CYBER deposits and withdrawals on Nov. 22 after the Cyber project reported unexpected token minting on Solana and tokens leaving its Ethereum bridge lockbox.",
+    "slug": "hashratehijack",
+    "title": "Braiins Says Bitcoin Mining Hijacks Hit More Than 1,000 Sites at Once",
+    "description": "Bitcoin mining pool Braiins reported that attackers rerouted traffic to unsecured mining connections in 24 incidents between Nov. 7 and Nov. 20, with four episodes on Nov. 20 each affecting 1,050 to 1,600 sites.",
     "category": "News",
-    "publishedDate": "2026-11-24",
-    "image": "/images/news/cyberbridge.jpg"
+    "publishedDate": "2026-11-27",
+    "image": "/images/news/hashratehijack.jpg"
   },
   {
-    "slug": "soloblock",
-    "title": "Solo miner wins $191,000 Bitcoin block with 11 TH/s",
-    "description": "A solo miner running about 11 terahashes per second solved block 977057 through Solo CKPool on Nov. 22, collecting 3.1287 BTC worth roughly $191,000.",
+    "slug": "swisscarf",
+    "title": "Swiss Federal Council approves 57 partners for crypto tax data exchange from 2028",
+    "description": "Switzerland's Federal Council approved 57 jurisdictions for automatic exchange of cryptoasset tax data starting in 2028 under the OECD reporting framework.",
     "category": "News",
-    "publishedDate": "2026-11-24",
-    "image": "/images/news/soloblock.jpg"
+    "publishedDate": "2026-11-27",
+    "image": "/images/news/swisscarf.jpg"
   },
   {
-    "slug": "eventcontracts",
-    "title": "Coinbase targets first half of 2027 for its own prediction market contracts",
-    "description": "Coinbase plans to offer its own event contracts to U.S. retail and institutional customers in the first half of 2027, Bloomberg reported, as the exchange builds clearing and trading infrastructure around the business.",
+    "slug": "xbotsued",
+    "title": "UK Court Enters Default Judgment Against Two in X Bitcoin Account Case",
+    "description": "London's High Court entered judgment for X against Vivek Kumar Sen and Zamyang Sherpa on Nov. 20 after neither responded to the creator-payout fraud claim, with damages to be fixed at a later hearing.",
     "category": "News",
-    "publishedDate": "2026-11-23",
-    "image": "/images/news/eventcontracts.jpg"
+    "publishedDate": "2026-11-27",
+    "image": "/images/news/xbotsued.jpg"
   },
   {
-    "slug": "xmr1collapse",
-    "title": "Wrapped Monero token XMR1 collapses 99.8% after $13.5 million sell-off",
-    "description": "XMR1, Wagyu's wrapped Monero token on Hyperliquid, fell from about $500 to near zero on Nov. 20 as a deployer-linked wallet sold $13.5 million of the asset; the operator blamed a breach at its web host.",
+    "slug": "bithumbnotice",
+    "title": "Bithumb says October breach ran 15 days and exposed passports and wallet addresses",
+    "description": "In a Nov. 25 update, Bithumb said intruders had its internal groupware for about 15 days, not one hour, and that up to 19 categories of personal data were taken.",
     "category": "News",
-    "publishedDate": "2026-11-23",
-    "image": "/images/news/xmr1collapse.jpg"
+    "publishedDate": "2026-11-26",
+    "image": "/images/news/bithumbnotice.jpg"
   }
 ]

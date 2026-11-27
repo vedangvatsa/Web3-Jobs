@@ -6199,42 +6199,6 @@ The clinic takes place inside the Jio World Convention Centre, Impact Space, Ban
 
 Attendance is free for Devcon 8 badge holders. Registration on Luma guarantees priority access to hardware demo stations and confirms board reservation slots.
 
-<a id="event-4a4bd9b840206643"></a>
-
-## Dabao Open Hardware Hackathon
-
-- Record: `ibw-sheet-evt-WP32nMhXbmHisMb`
-- Source: [ibw-side-events.json](sources/ibw-side-events.json)
-- Starts: 2026-11-03T03:30:00.000Z
-- Description: Source-backed
-- Original page: <https://luma.com/qivci0a6>
-
-### About the event
-
-CrossBar hosts the Dabao Open Hardware Hackathon in Mumbai on Thursday and Friday, November 5-6, 2026. The 24-hour hardware and firmware sprint challenges engineers to build cryptographic security applications on open-source silicon.
-
-### What to expect
-
-Participants receive hardware kits featuring the Dabao RISC-V open evaluation board and Daric security chip:
-
-- 24 hours of collaborative prototyping, firmware programming, and hardware integration.
-- Mentorship from CrossBar's silicon architects, cryptographic engineers, and embedded systems veterans.
-- Hackathon tracks covering hardware authenticator keys, physical unclonable function (PUF) biometric sensors, offline multi-party computation signers, and supply-chain verification tooling.
-- Final live demonstrations before a judging panel, with cash prizes and grant opportunities for winning projects.
-- Fully catered meals, energy drinks, and hardware debugging stations with logic analyzers and oscilloscopes.
-
-### Who should attend
-
-The hackathon is ideal for embedded systems programmers, C/Rust firmware developers, hardware engineers, electrical engineering students, and cybersecurity researchers.
-
-### Venue and schedule
-
-The hackathon takes place at a dedicated maker space in Mumbai, starting at 10:00 IST on Thursday, November 5, and concluding with presentations at 14:00 IST on Friday, November 6.
-
-### Registration and admission
-
-Participation is free with hardware kits provided for all accepted teams. Space is limited to 40 hackers. Apply with your GitHub profile or hardware portfolio to secure a team spot.
-
 <a id="event-2126456564b5cfdb"></a>
 
 ## World of DeSci @DEVCON VIII, India
@@ -27843,18 +27807,6 @@ Registration and admission
 
 Participation is free with application review required. Applications are evaluated based on project proposals, GitHub contributions, and community impact. Confirmed guests receive onboarding packages and arrival instructions.
 
-<a id="event-cbf60747df48c357"></a>
-
-## Expat Mums Dubai \| Halloween Special 🎃 Coffee & Play Club @Lemonade Play
-
-- Record: `luma-evt-qCSrCHL64LkxJHh`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-10-28T06:00:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://lu.ma/hcv7si5d>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
 <a id="event-d8f9221c78629242"></a>
 
 ## India OnChain Tour #50 - Haryana Edition
@@ -30018,18 +29970,6 @@ An organizer description has not been verified for this record. Any previous cop
 - Starts: 2026-11-03T03:30:00.000Z
 - Description: Missing
 - Original page: <https://lu.ma/n7rhminc>
-
-An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
-
-<a id="event-7eff8623767d157b"></a>
-
-## Dabao Open Hardware Hackathon
-
-- Record: `w3v-dabao-open-hardware-hackathon-incl-board-26-11-03`
-- Source: [events-cache.json](sources/events-cache.json)
-- Starts: 2026-11-03T03:30:00.000Z
-- Description: Unverified stored copy
-- Original page: <https://luma.com/qivci0a6>
 
 An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 

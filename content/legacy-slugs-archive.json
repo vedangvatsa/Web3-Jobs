@@ -161027,5 +161027,353 @@
     "company": "BitOasis",
     "title": "Senior Software Engineer - Android",
     "newSlug": "eng898"
+  },
+  "cmp155": {
+    "id": "FE.276",
+    "link": "https://www.etoro.com/about/careers/position/fe.276/",
+    "title": "Compliance Officer",
+    "company": "eToro"
+  },
+  "pm125": {
+    "id": "8328050",
+    "link": "https://ripple.com/careers/all-jobs/job/8328050?gh_jid=8328050",
+    "title": "Product Operations Analyst (Customer Activations)",
+    "company": "Ripple"
+  },
+  "pnv": {
+    "id": "8917092002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8917092002",
+    "title": "Partnerships Lead, New Verticals",
+    "company": "Figure"
+  },
+  "pm344": {
+    "id": "8328060",
+    "link": "https://ripple.com/careers/all-jobs/job/8328060?gh_jid=8328060",
+    "title": "Product Operations Analyst (Customer Activations)",
+    "company": "Ripple"
+  },
+  "ops130": {
+    "id": "8168550",
+    "link": "https://stripe.com/jobs/search?gh_jid=8168550",
+    "title": "Fraud Operations Associate, Bridge (CDMX)",
+    "company": "Stripe"
+  },
+  "eng672": {
+    "id": "8045820003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8045820003",
+    "title": "Engineering VP / Director",
+    "company": "OKX"
+  },
+  "hrbp2": {
+    "id": "8329789",
+    "link": "https://www.jumptrading.com/hr/job?gh_jid=8329789",
+    "title": "Senior Human Resources Business Partner",
+    "company": "Jump Trading"
+  },
+  "eng671": {
+    "id": "8329685",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8329685",
+    "title": "Desktop Systems Engineer",
+    "company": "DRW"
+  },
+  "dcm": {
+    "id": "7239593b-55ec-4fbd-bfc5-01e855f9f56d",
+    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/7239593b-55ec-4fbd-bfc5-01e855f9f56d",
+    "title": "Director, Capital Markets",
+    "company": "Riot Platforms"
+  },
+  "qa95": {
+    "id": "8329677",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8329677?t=gh_src=&gh_jid=8329677",
+    "title": "Senior Quality Engineer",
+    "company": "Robinhood"
+  },
+  "isa": {
+    "id": "JR101187",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-IT-Systems-Administrator_JR101187",
+    "title": "Senior IT Systems Administrator",
+    "company": "Circle"
+  },
+  "pcac": {
+    "id": "60e864cee6d8",
+    "link": "https://bitdeer.breezy.hr/p/60e864cee6d8-procurement-category-lead-ai-crypto-data-center-construction",
+    "title": "Procurement Category Lead (AI & Crypto Data Center Construction)",
+    "company": "Bitdeer"
+  },
+  "ops129": {
+    "id": "8315962",
+    "link": "https://stripe.com/jobs/search?gh_jid=8315962",
+    "title": "Risk Operations Associate, Bridge UPO",
+    "company": "Stripe"
+  },
+  "psc4": {
+    "id": "8328949",
+    "link": "https://ripple.com/careers/all-jobs/job/8328949?gh_jid=8328949",
+    "title": "Professional Services Consultant",
+    "company": "Ripple"
+  },
+  "psc3": {
+    "id": "8328926",
+    "link": "https://ripple.com/careers/all-jobs/job/8328926?gh_jid=8328926",
+    "title": "Professional Services Consultant",
+    "company": "Ripple"
+  },
+  "sls357": {
+    "id": "4470125009",
+    "link": "https://job-boards.greenhouse.io/ondofinance/jobs/4470125009",
+    "title": "Director of Business Development, LATAM",
+    "company": "Ondo Finance"
+  },
+  "ds19": {
+    "id": "2152bd2d-cdf8-418e-9c03-eae970e630a2",
+    "link": "https://jobs.ashbyhq.com/phantom/2152bd2d-cdf8-418e-9c03-eae970e630a2",
+    "title": "Staff Data Scientist",
+    "company": "Phantom"
+  },
+  "aso75": {
+    "id": "8329280",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8329280?t=gh_src=&gh_jid=8329280",
+    "title": "Customer Experience Associate, Pathway",
+    "company": "Robinhood"
+  },
+  "ce": {
+    "id": "5018047101",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5018047101",
+    "title": "[EU] Customer Excellence Lead, EU",
+    "company": "Bybit"
+  },
+  "wec3": {
+    "id": "514422a7-95d1-401f-bb21-a1bbb6e82f73",
+    "link": "https://jobs.ashbyhq.com/uniswap/514422a7-95d1-401f-bb21-a1bbb6e82f73",
+    "title": "Workplace Experience Coordinator",
+    "company": "Uniswap Labs"
+  },
+  "mgr210": {
+    "id": "6236778004",
+    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6236778004",
+    "title": "Senior Manager, Commissioning",
+    "company": "Galaxy Digital"
+  },
+  "tir14": {
+    "id": "8046685003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8046685003",
+    "title": "Head of Tax Information Reporting",
+    "company": "OKX"
+  },
+  "sls356": {
+    "id": "e8815463-ee2b-4fb8-bb18-4890866dc61a",
+    "link": "https://jobs.ashbyhq.com/alchemy/e8815463-ee2b-4fb8-bb18-4890866dc61a",
+    "title": "Accounts Payable Accountant (Remote)",
+    "company": "Alchemy"
+  },
+  "sls355": {
+    "id": "6c1c3192-2508-4805-9dbb-08a4f581b44d",
+    "link": "https://jobs.ashbyhq.com/ramp/6c1c3192-2508-4805-9dbb-08a4f581b44d",
+    "title": "Sales Development Representative | Public Sector",
+    "company": "Ramp"
+  },
+  "eng670": {
+    "id": "f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+    "link": "https://jobs.ashbyhq.com/phantom/f4fcc35e-bdc0-498b-a5f0-ac553d146531",
+    "title": "AI Engineer",
+    "company": "Phantom"
+  },
+  "sls341": {
+    "id": "8306516",
+    "link": "https://www.jumptrading.com/hr/job?gh_jid=8306516",
+    "title": "Senior Accounting Analyst | Digital Assets",
+    "company": "Jump Trading"
+  },
+  "sls354": {
+    "id": "5458383008",
+    "link": "http://block.xyz/careers/jobs/5458383008?gh_jid=5458383008",
+    "title": "Enterprise Sales Lead, US",
+    "company": "Block"
+  },
+  "infra54": {
+    "id": "8328079",
+    "link": "https://www.coinbase.com/careers/positions/8328079?gh_jid=8328079",
+    "title": "Senior Sales Associate - CB Infrastructure",
+    "company": "Coinbase"
+  },
+  "eng669": {
+    "id": "8283782",
+    "link": "https://stripe.com/jobs/search?gh_jid=8283782",
+    "title": "Creative Engineer, Stripe Creative Lab",
+    "company": "Stripe"
+  },
+  "sls353": {
+    "id": "8319459",
+    "link": "https://stripe.com/jobs/search?gh_jid=8319459",
+    "title": "Account Executive, Platforms Hunter (Spanish fluency)",
+    "company": "Stripe"
+  },
+  "sci": {
+    "id": "8162450",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8162450?t=gh_src=&gh_jid=8162450",
+    "title": "Sanctions Crypto Investigator",
+    "company": "Robinhood"
+  },
+  "mgr209": {
+    "id": "5464915008",
+    "link": "https://job-boards.greenhouse.io/mesh/jobs/5464915008",
+    "title": "Treasury Manager",
+    "company": "Mesh"
+  },
+  "eng668": {
+    "id": "8325213",
+    "link": "https://www.coinbase.com/careers/positions/8325213?gh_jid=8325213",
+    "title": "Senior Software Engineer - Data Platform",
+    "company": "Coinbase"
+  },
+  "sls352": {
+    "id": "b4b9576f-82d8-4497-a106-76b2f75dec62",
+    "link": "https://jobs.ashbyhq.com/paxos/b4b9576f-82d8-4497-a106-76b2f75dec62",
+    "title": "Senior Revenue Accountant",
+    "company": "Paxos"
+  },
+  "aso73": {
+    "id": "8327450",
+    "link": "https://boards.greenhouse.io/robinhood/jobs/8327450?t=gh_src=&gh_jid=8327450",
+    "title": "Customer Experience Associate, Money",
+    "company": "Robinhood"
+  },
+  "mkt192": {
+    "id": "dc2c0e7e-b921-4e6e-af8e-3f5ad5abba1c",
+    "link": "https://jobs.ripio.com/jobs/8626451-marketing-operations-crm-senior",
+    "title": "Marketing Operations & CRM Senior",
+    "company": "Ripio"
+  },
+  "eng667": {
+    "id": "8325731",
+    "link": "https://job-boards.greenhouse.io/drweng/jobs/8325731",
+    "title": "Senior Service Reliability Engineer",
+    "company": "DRW"
+  },
+  "dskl": {
+    "id": "5386b88b-a98b-4db5-944a-73d8ccb1b241",
+    "link": "https://jobs.ashbyhq.com/trm-labs/5386b88b-a98b-4db5-944a-73d8ccb1b241",
+    "title": "Senior Data Scientist, Knowledge Layer",
+    "company": "TRM Labs"
+  },
+  "eng666": {
+    "id": "f906798e-b5da-440b-80a0-639356e72e1d",
+    "link": "https://jobs.ashbyhq.com/trm-labs/f906798e-b5da-440b-80a0-639356e72e1d",
+    "title": "Senior Machine Learning Engineer, Knowledge Layer",
+    "company": "TRM Labs"
+  },
+  "arc29": {
+    "id": "8175669",
+    "link": "https://stripe.com/jobs/search?gh_jid=8175669",
+    "title": "Global Head of Specialist Solutions Architecture, Revenue Suite",
+    "company": "Stripe"
+  },
+  "eng665": {
+    "id": "8326127",
+    "link": "https://www.coinbase.com/careers/positions/8326127?gh_jid=8326127",
+    "title": "Senior Software Engineer, Certificates Management",
+    "company": "Coinbase"
+  },
+  "sls376": {
+    "id": "8319316",
+    "link": "https://job-boards.greenhouse.io/project44/jobs/8319316",
+    "title": "Enterprise Account Executive",
+    "company": "project44"
+  },
+  "arc50": {
+    "id": "4747875005",
+    "link": "https://www.proofserve.com/careers/4747875005?gh_jid=4747875005",
+    "title": "Principal Solutions Architect",
+    "company": "Proof"
+  },
+  "eng664": {
+    "id": "5957a4b8-235b-490c-b4ad-86384baee628",
+    "link": "https://jobs.lever.co/crypto/5957a4b8-235b-490c-b4ad-86384baee628",
+    "title": "Software Engineer, Prediction Markets Platform",
+    "company": "Crypto.com"
+  },
+  "sls489": {
+    "id": "ccd3231c-cd81-492c-946b-0753cb8137dd",
+    "link": "https://jobs.lever.co/unlimit/ccd3231c-cd81-492c-946b-0753cb8137dd",
+    "title": "Business Development Manager - Colombia",
+    "company": "Unlimit"
+  },
+  "eng663": {
+    "id": "6c4cb921-2657-477e-91d3-0e72118d8633",
+    "link": "https://jobs.lever.co/crypto/6c4cb921-2657-477e-91d3-0e72118d8633",
+    "title": "Senior Software Engineer, Prediction Markets Platform",
+    "company": "Crypto.com"
+  },
+  "pm363": {
+    "id": "5c89d4e7-d57c-463c-bddd-0fc77fd71c87",
+    "link": "https://jobs.ashbyhq.com/arca/5c89d4e7-d57c-463c-bddd-0fc77fd71c87",
+    "title": "Product Marketing Manager, Growth",
+    "company": "Arca"
+  },
+  "mkt183": {
+    "id": "cfd92d4c-3d04-4528-8c14-5af38268173e",
+    "link": "https://jobs.ashbyhq.com/arca/cfd92d4c-3d04-4528-8c14-5af38268173e",
+    "title": "Events Marketing Manager, Growth",
+    "company": "Arca"
+  },
+  "aso81": {
+    "id": "keka-liminal-168093",
+    "link": "https://liminal.keka.com/careers/jobdetails/168093",
+    "title": "Associate Manager - Finance & Admin",
+    "company": "Liminal"
+  },
+  "ops162": {
+    "id": "5017380101",
+    "link": "https://job-boards.eu.greenhouse.io/primexbt/jobs/5017380101",
+    "title": "Trading Operations Specialist",
+    "company": "PrimeXBT"
+  },
+  "ir": {
+    "id": "8917616002",
+    "link": "https://job-boards.greenhouse.io/figure/jobs/8917616002",
+    "title": "Head of Investor Relations",
+    "company": "Figure"
+  },
+  "mgr223": {
+    "id": "92182c93-f4f7-4126-8de6-471e138e6910",
+    "link": "https://jobs.lever.co/moonpay/92182c93-f4f7-4126-8de6-471e138e6910",
+    "title": "Manager, Customer Experience",
+    "company": "MoonPay"
+  },
+  "fe27": {
+    "id": "8212319",
+    "link": "https://stripe.com/jobs/search?gh_jid=8212319",
+    "title": "Backend Engineer, UI Platform",
+    "company": "Stripe"
+  },
+  "ops156": {
+    "id": "a8a073a7-5003-4c12-bdd9-863833420cab",
+    "link": "https://jobs.lever.co/BTSE/a8a073a7-5003-4c12-bdd9-863833420cab",
+    "title": "Core Operations Senior Manager",
+    "company": "BTSE"
+  },
+  "fe24": {
+    "id": "8226890",
+    "link": "https://stripe.com/jobs/search?gh_jid=8226890",
+    "title": "Frontend Engineer, UI Platform",
+    "company": "Stripe"
+  },
+  "psct2": {
+    "id": "8286436",
+    "link": "https://ripple.com/careers/all-jobs/job/8286436?gh_jid=8286436",
+    "title": "Professional Services Consultant (TMS Implementation)",
+    "company": "Ripple"
+  },
+  "psct": {
+    "id": "8286438",
+    "link": "https://ripple.com/careers/all-jobs/job/8286438?gh_jid=8286438",
+    "title": "Professional Services Consultant (TMS Implementation)",
+    "company": "Ripple"
+  },
+  "eng650": {
+    "id": "8045415003",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/8045415003",
+    "title": "Software Engineer, Mobile (Android)",
+    "company": "OKX"
   }
 }

@@ -1681,12 +1681,6 @@
       "near-builders-cafe-2"
     ]
   },
-  "ibw-sheet-evt-WP32nMhXbmHisMb": {
-    "slug": "dabaohack",
-    "aliases": [
-      "dabao-open-hardware-hackathon"
-    ]
-  },
   "ibw-sheet-evt-26jnyHUBFxt6ooC": {
     "slug": "irismumbai",
     "aliases": [
@@ -4774,6 +4768,12 @@
     "slug": "pdm",
     "aliases": [
       "private-dinner-with-moss-bbw-bangkok"
+    ]
+  },
+  "ibw-sheet-evt-WP32nMhXbmHisMb": {
+    "slug": "dabaohack",
+    "aliases": [
+      "dabao-open-hardware-hackathon"
     ]
   }
 }

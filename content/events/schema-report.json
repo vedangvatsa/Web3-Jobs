@@ -10,19 +10,6 @@
   },
   "events": [
     {
-      "id": "ibw-sheet-evt-WP32nMhXbmHisMb",
-      "name": "Dabao Open Hardware Hackathon",
-      "url": "https://hashtagweb3.com/dabaohack",
-      "eligible": false,
-      "issues": [
-        "restricted-registration"
-      ],
-      "missingRecommended": [
-        "offers",
-        "organizer"
-      ]
-    },
-    {
       "id": "luma-crypto-13WH0lUCgcznSeW",
       "name": "Toronto Blockchain Week 2026",
       "url": "https://hashtagweb3.com/toronto-bl",
