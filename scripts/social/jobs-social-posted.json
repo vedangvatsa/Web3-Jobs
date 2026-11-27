@@ -205435,6 +205435,40 @@
       "attemptId": "5ae1a300-9513-4988-9b01-e4ecd774d359",
       "verification": "verified",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n3cysqegr32r"
+    },
+    {
+      "slug": "ec5",
+      "company": "Rain",
+      "title": "Events Coordinator",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T20:12:58.627Z",
+      "expectedText": "Rain is hiring Events Coordinator\n\nhttps://hashtagweb3.com/ec5/fc?og=7",
+      "snapshot": {
+        "id": "43904e24-639b-4e46-8988-85a90ec1357a",
+        "title": "Events Coordinator",
+        "company": "Rain",
+        "link": "https://jobs.ashbyhq.com/rain/43904e24-639b-4e46-8988-85a90ec1357a",
+        "date": "2026-11-05T21:54:19.096+00:00",
+        "source": "Ashby: Rain [rain]",
+        "location": "New York, NY",
+        "isRemote": false,
+        "workplaceType": "OnSite",
+        "department": "GTM",
+        "active": true,
+        "dateVerified": true,
+        "slug": "ec5"
+      },
+      "payload": {
+        "text": "Rain is hiring Events Coordinator\n\nhttps://hashtagweb3.com/ec5/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ec5/fc?og=7"
+          }
+        ]
+      },
+      "account": "profile",
+      "attemptId": "80ed4c35-0bc4-4d22-abff-9e940b9fdec4",
+      "verification": "creating"
     }
   ]
 }
