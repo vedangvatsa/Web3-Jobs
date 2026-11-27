@@ -199995,7 +199995,8 @@
       },
       "account": "channel:product",
       "attemptId": "282af3e2-28ec-4f16-a941-2b0156983161",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x780c1b3a9fb9c3ca92da2ea89889ce6fa9dccb94"
     }
   ]
 }
