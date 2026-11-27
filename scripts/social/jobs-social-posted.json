@@ -206556,6 +206556,35 @@
       "attemptId": "94302cb9-0b37-44f5-afd1-fa40be2533bc",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "sls380",
+      "company": "Ledger",
+      "title": "Accounts Payable Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T23:04:31.076Z",
+      "expectedText": "Ledger is hiring Accounts Payable Specialist: https://hashtagweb3.com/sls380/fb?og=7",
+      "snapshot": {
+        "id": "99a878f8-192f-4bf2-8220-019e4b96762b",
+        "title": "Accounts Payable Specialist",
+        "company": "Ledger",
+        "link": "https://jobs.ashbyhq.com/ledger/99a878f8-192f-4bf2-8220-019e4b96762b",
+        "date": "2026-11-05T15:20:59.076+00:00",
+        "source": "Ashby: Ledger [ledger]",
+        "location": "Hybrid (Paris, France)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls380"
+      },
+      "payload": {
+        "message": "Ledger is hiring Accounts Payable Specialist: https://hashtagweb3.com/sls380/fb?og=7",
+        "link": "https://hashtagweb3.com/sls380/fb?og=7"
+      },
+      "attemptId": "1d60d430-597f-4c09-a4da-df2f8b5ac41c",
+      "verification": "creating"
     }
   ]
 }
