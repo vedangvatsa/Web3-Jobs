@@ -200191,6 +200191,34 @@
       "attemptId": "168768e2-1fcc-40eb-bbb1-963f40837f30",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "mkt146",
+      "company": "Alpaca",
+      "title": "Marketing Manager - Market Data",
+      "platform": "facebook",
+      "postedAt": "2026-11-27T02:24:36.335Z",
+      "expectedText": "Alpaca is hiring Marketing Manager: https://hashtagweb3.com/mkt146/fb?og=7",
+      "snapshot": {
+        "id": "6254813004",
+        "title": "Marketing Manager - Market Data",
+        "company": "Alpaca",
+        "link": "https://job-boards.greenhouse.io/alpaca/jobs/6254813004",
+        "date": "2026-11-11T16:42:22-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Alpaca [alpaca]",
+        "location": "Remote - Europe",
+        "department": "Market Data",
+        "active": true,
+        "dateVerified": true,
+        "slug": "mkt146"
+      },
+      "payload": {
+        "message": "Alpaca is hiring Marketing Manager: https://hashtagweb3.com/mkt146/fb?og=7",
+        "link": "https://hashtagweb3.com/mkt146/fb?og=7"
+      },
+      "attemptId": "e948f227-fb29-46e5-97ab-2a391346190c",
+      "verification": "creating"
     }
   ]
 }
