@@ -205433,7 +205433,8 @@
         "description": "Join Rain as Events Coordinator. View responsibilities, requirements, and apply directly."
       },
       "attemptId": "5ae1a300-9513-4988-9b01-e4ecd774d359",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3n3cysqegr32r"
     }
   ]
 }
