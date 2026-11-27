@@ -204302,7 +204302,8 @@
       },
       "account": "channel:design",
       "attemptId": "a5d66781-d28e-45cd-88a1-52446976366c",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc79cbdeed2145df8abfec823e7b58ed198462e92"
     }
   ]
 }
