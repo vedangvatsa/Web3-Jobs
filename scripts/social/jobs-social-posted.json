@@ -203077,7 +203077,8 @@
       },
       "account": "channel:dev",
       "attemptId": "d8a8bafa-7a6c-4e66-b54c-5d8554840ee2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3899f53d9b2c46865bb284e886facdee3b1c1da7"
     }
   ]
 }
