@@ -198664,7 +198664,8 @@
       },
       "account": "profile",
       "attemptId": "f5c83448-e56a-4931-90e3-e2253a4d3531",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2e42217f5fcb07e961a892ee6a7862b2f5065ad2"
     }
   ]
 }
