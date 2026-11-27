@@ -201767,7 +201767,8 @@
       },
       "account": "channel:growth",
       "attemptId": "22689652-3d36-4d87-a0f9-699c91906163",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x1cdc7d9e779e57b3167412465eb212e795f06af1"
     }
   ]
 }
