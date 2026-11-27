@@ -200521,7 +200521,8 @@
       },
       "account": "channel:dev",
       "attemptId": "85708209-0cfb-487d-afb9-f307e67363f2",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x24644d015c4ede003c22d886d823345584be8341"
     }
   ]
 }
