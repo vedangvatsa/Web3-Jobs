@@ -203475,6 +203475,47 @@
       "attemptId": "76b204cc-12dd-4756-9502-9ff80c5caa20",
       "verification": "verified",
       "postId": "0x4b534a0a4c23a6feddc6d410220f054e454e6016"
+    },
+    {
+      "slug": "rc8",
+      "company": "TRM Labs",
+      "title": "Lead Recruiting Coordinator",
+      "platform": "linkedin",
+      "postedAt": "2026-11-27T13:08:00.460Z",
+      "expectedText": "TRM Labs is hiring Lead Recruiting Coordinator: https://hashtagweb3.com/rc8/li?og=7",
+      "snapshot": {
+        "id": "626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "title": "Lead Recruiting Coordinator",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/626e013d-3fa8-4ae0-a438-fbdff6d512f5",
+        "date": "2026-11-17T16:56:42.671+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Portland, OR",
+        "isRemote": null,
+        "workplaceType": null,
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc8"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Lead Recruiting Coordinator: https://hashtagweb3.com/rc8/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rc8/li?og=7",
+          "title": "Lead Recruiting Coordinator at TRM Labs | Hashtag Web3",
+          "description": "Join TRM Labs as Lead Recruiting Coordinator. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rc8.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "d83ac727-bcba-4943-b8f1-2d015feaf264",
+      "verification": "creating"
     }
   ]
 }
