@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-27T02:19:27.176Z",
+  "generatedAt": "2026-11-27T04:54:14.188Z",
   "items": [
+    {
+      "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+      "link": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+      "pubDate": "Fri, 27 Nov 2026 04:45:47 +0000",
+      "creator": "Omkar Godbole",
+      "contentSnippet": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+      "link": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+      "pubDate": "Fri, 27 Nov 2026 04:29:47 +0000",
+      "creator": "Shaurya Malwa",
+      "contentSnippet": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the n...",
+      "source": "Coindesk"
+    },
+    {
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "link": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+      "pubDate": "Fri, 27 Nov 2026 04:18:40 +0000",
+      "creator": "Timmy Shen",
+      "contentSnippet": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation.",
+      "source": "The Block"
+    },
+    {
+      "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+      "pubDate": "Fri, 27 Nov 2026 02:20:00 +0000",
+      "creator": "Yogita Khatri",
+      "contentSnippet": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and...",
+      "source": "The Block"
+    },
     {
       "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
       "link": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -31,14 +63,6 @@
       "pubDate": "Thu, 26 Nov 2026 21:42:43 +0000",
       "creator": "Nate Kostar",
       "contentSnippet": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter o...",
-      "source": "Cointelegraph"
-    },
-    {
-      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-      "link": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 26 Nov 2026 21:33:47 +0000",
-      "creator": "Nate Kostar",
-      "contentSnippet": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto th...",
       "source": "Cointelegraph"
     },
     {
@@ -568,22 +592,6 @@
       "creator": "Agent",
       "contentSnippet": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal.",
       "source": "Decrypt"
-    },
-    {
-      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-      "link": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
-      "pubDate": "Wed, 25 Nov 2026 11:51:54 +0000",
-      "creator": "Olivier Acuna",
-      "contentSnippet": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value...",
-      "source": "Coindesk"
-    },
-    {
-      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-      "link": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-      "pubDate": "Wed, 25 Nov 2026 11:30:32 +0000",
-      "creator": "Omkar Godbole",
-      "contentSnippet": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leavi...",
-      "source": "Coindesk"
     },
     {
       "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
