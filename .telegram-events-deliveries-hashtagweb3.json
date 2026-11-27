@@ -1584,5 +1584,56 @@
     "slotKey": "2026-11-27:morning",
     "messageId": 156536,
     "sentAt": "2026-11-27T04:54:06.618Z"
+  },
+  "6b37fe88-29bc-41f6-b5ce-0abded966f13": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T13:01:16.125Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-PE2r0DjrvNooWxH",
+        "slug": "dubaibrunch",
+        "name": "Dubai Brunch: Crypto Cards and Payments | Blockchain Life Side Event",
+        "startDate": "2026-12-02T06:00:00.000Z",
+        "keys": [
+          "luma-crypto-pe2r0djrvnoowxh",
+          "dubai-brun",
+          "page:dubaibrunch:2026-12-02",
+          "luma:evt-pe2r0djrvnoowxh",
+          "luma-url:/o4de51ub",
+          "event:dubaibrunchcryptocardsandpaymentsblockchainlifesideevent:2026-12-02:dubai"
+        ]
+      },
+      {
+        "id": "luma-crypto-MyZo6eJD3xiEIzW",
+        "slug": "aspectyacht",
+        "name": "Aspect Blockchain Yacht Party - Blockchain Life 2026",
+        "startDate": "2026-12-02T15:15:00.000Z",
+        "keys": [
+          "luma-crypto-myzo6ejd3xieizw",
+          "aspect-blo",
+          "page:aspectyacht:2026-12-02",
+          "luma:evt-myzo6ejd3xieizw",
+          "luma-url:/43nj2gmj",
+          "event:aspectblockchainyachtpartyblockchainlife2026:2026-12-02:dubai"
+        ]
+      },
+      {
+        "id": "luma-crypto-CsfAUvJdG1XNGeP",
+        "slug": "oabl",
+        "name": "OFFICIAL AFTERPARTY Blockchain Life 2026",
+        "startDate": "2026-12-02T17:00:00.000Z",
+        "keys": [
+          "luma-crypto-csfauvjdg1xngep",
+          "official-afterparty",
+          "page:oabl:2026-12-02",
+          "luma:evt-csfauvjdg1xngep",
+          "luma-url:/nl8t1z95",
+          "event:officialafterpartyblockchainlife2026:2026-12-02:"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-27:afternoon"
   }
 }
