@@ -206427,7 +206427,8 @@
       },
       "account": "channel:growth",
       "attemptId": "d21ce11f-9a79-4c88-bbb2-9f14d60201bd",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x24dd38d1b3bfb4d8faed82942a0597ed252da8bd"
     }
   ]
 }
