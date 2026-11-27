@@ -207169,6 +207169,40 @@
       "attemptId": "586df839-788c-4b85-89c9-c4e3b339132a",
       "verification": "verified",
       "postId": "0xa1eabbbae78f950e817c4b0328d0442742e5b522"
+    },
+    {
+      "slug": "eng783",
+      "company": "StraitsX",
+      "title": "Site Reliability Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T23:07:31.956Z",
+      "expectedText": "StraitsX is hiring Site Reliability Engineer\n\nhttps://hashtagweb3.com/eng783/fc?og=7",
+      "snapshot": {
+        "id": "5026840101",
+        "title": "Site Reliability Engineer",
+        "company": "StraitsX",
+        "link": "https://job-boards.eu.greenhouse.io/straitsx/jobs/5026840101",
+        "date": "2026-11-13T01:25:29-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: StraitsX [straitsx]",
+        "location": "Jakarta, Indonesia",
+        "department": "STX - Engineering",
+        "active": true,
+        "dateVerified": true,
+        "slug": "eng783"
+      },
+      "payload": {
+        "text": "StraitsX is hiring Site Reliability Engineer\n\nhttps://hashtagweb3.com/eng783/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/eng783/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "1b41e04a-044a-4287-ac37-dbbdb144ad75",
+      "verification": "creating"
     }
   ]
 }
