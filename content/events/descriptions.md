@@ -18467,6 +18467,18 @@ Techub News
 
 Techub News is a Hong Kong-based technology media outlet covering AI, Web3, and the cross-border digital economy, with a bilingual Chinese-English newsroom and editorial teams across Asia. It brings a Hong Kong perspective on the fast-moving Web3 landscape to builders, investors, and everyday readers across the region.
 
+<a id="event-fbad286ce19416dc"></a>
+
+## Coworking Fridays Belgrade \| Superteam Balkan
+
+- Record: `luma-crypto-JRloloPOnjwowzA`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T08:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/coworking-fridays-belgrade>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-baba53fb5a9a05ce"></a>
 
 ## Solana Student Bootcamp｜AIで始める、ブロックチェーン開発
@@ -18677,6 +18689,18 @@ Get your head right before the main event. Just landed in Bangkok? Long flight, 
 - 8:00 PM -
 - 10:00 PM | Drinks & Networking Wind down with refreshing drinks, light bites, and good conversations. Connect with fellow founders, builders, and friends of the Web3 community in a relaxed, laid-back setting. Powered by: Elephants Inc. is a non-bank alternative for the AI Era. We are not a bank - we're a smarter way to operate. Elephants Inc helps companies manage spending, fund movements, and cross-border transactions in one intelligent system. Get real-time visibility and AI-powered insights built for modern businesses.BitGo is the leading regulated infrastructure provider of digital asset solutions, offering custody, wallets, staking, trading, financing, and settlement out of regulated cold storage for the world's largest financial institutions.
 
+<a id="event-3106c5a66479e55b"></a>
+
+## Talent Hub Fridays \| Web3 Co-Working \| Dogpatch Labs
+
+- Record: `luma-crypto-nkm8zsan1yP61ya`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T09:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/244sc3ym>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-836c6efb4c8d1ce8"></a>
 
 ## Sterling, Stablecoins & Beyond,Where is Digital Money Heading in the UK
@@ -18815,6 +18839,18 @@ Recent Dash Events
 - Singapore - TOKEN2049. Dash supported XT's eighth-anniversary VIP dinner in October 2026, where guests and ecosystem partners met for an evening of networking and conversations about digital payments.
 - Hong Kong - FinTech Week. Our November 2026 Dash Community Meetup brought contributors and builders together to discuss DashPay, Dash Evolution, and the ecosystem roadmap, with an open Q&A and networking.
 
+<a id="event-be15fac7496fb88c"></a>
+
+## Bitcoin Indonesia Community Online Meetup
+
+- Record: `luma-crypto-UQnVDq7Sf0Y9jzk`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T12:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/3up3f6c6>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6563d4db670bfd0a"></a>
 
 ## UXUY Rooftop Blockchain Week Pre-Party \| Bangkok
@@ -18852,6 +18888,18 @@ Can't wait when finally it will happen. 27-Nov, Bangkok's Rooftop, UXUY official
 #KriptoCuma Nedir? Yeni insanlarla tanışıp, çok farklı bakış açılarını yakalayabileceğiniz buluşmalarımıza kriptoyla ilgilenen herkes davetli. Öncelikle keyif alıyoruz. Çok şey öğreniyoruz, en önemlisi de sanalda kalmıyor arkadaşlıklarımız, dostluklarımız 3-4 saat boyunca çevrende ayni dili konuşan insanların olması kendini iyi hissettiriyor. Gel, sende bir iyilik yap kendine, bir Cuma katil bize. #KriptoCuma her Cuma Saat 19:00'da Kadiköy Altcointurk | Base'de Kripto Para, NFT ve Blockchain teknolojisi ile ilgilenen farklı kültür ve coğrafyadan insanları ayrım yapmadan #KriptoCuma etkinliğinde bir araya getiriyoruz
 
 What is #CryptoFriday? Even though it's very rare to see physical meetups in the crypto world, we, as a community, have been enjoying our conversations since 2018. Anyone interested in cryptocurrency and blockchain world, meeting new people, different point of views and having fruitful conversations about the market is invited to #CryptoFriday #CryptoFriday every Friday on 19:00 at Altcointurk | Base, Kadıköy
+
+<a id="event-7b09e57a4d4cef82"></a>
+
+## Chile 🔺 Team1 Avalanche Hackathon: de la prueba de concepto al prototipo funcional
+
+- Record: `luma-crypto-hN25fgr8EpDzDGw`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-27T17:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/w5cmfbsx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-8a2ecaef6cef8adf"></a>
 
@@ -19224,6 +19272,18 @@ Hosted by Botany Tech, Touch Grass offers a relaxed rooftop sanctuary near the Q
 - **Hospitality & Refreshments:** Fresh artisanal pizza, light bites, sparkling wine, and craft drinks.
 - **Relaxed Atmosphere:** Sunset networking with background music, away from convention crowds.
 
+<a id="event-d7c26aabcc57f166"></a>
+
+## Computer Use Agents Hackathon - London Edition
+
+- Record: `luma-crypto-7tMH9VskMUGCqcE`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T09:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/hcompany-6xo3>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-131a5ea8566dbbaf"></a>
 
 ## AI Meets RWA: The Real-World Shift 🍷🍴
@@ -19273,6 +19333,18 @@ Hosts:Web3Labs
 Co-Hosts: Microsoft
 
 Join us in Bangkok on Nov 28 for an evening with Web3Labs, Microsoft, and the teams shaping the future of onchain finance and AI! Come share ideas, meet the people building what comes next, and be part of the conversation on where finance and AI are heading.
+
+<a id="event-d7f9216bda170832"></a>
+
+## AI Voice Hackathon
+
+- Record: `luma-crypto-h4LRoWZJwR7H3Bb`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T09:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/cheeg4s2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-8df7cadeca1a62bf"></a>
 
@@ -19358,6 +19430,18 @@ The private gathering brings together institutional asset allocators, Real-World
 ### Attendance & Registration
 
 Attendance is strictly by invitation and approved application. Verified institutional builders, allocators, and partners are invited to request access through the official Luma portal.
+
+<a id="event-2f66b04f98127daf"></a>
+
+## Crypto After Hours – Connect. Discuss. Build.
+
+- Record: `luma-crypto-sQBoxPKhzQnBRU3`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-28T11:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/ggfv1zfb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-625c94aea4374de0"></a>
 
@@ -19620,6 +19704,18 @@ Tokyo Bitcoin Base(東京・四谷)
 
 英語(日本語翻訳あり)
 
+<a id="event-517c2b5b6fd71518"></a>
+
+## Women x Codex
+
+- Record: `luma-crypto-HFeAtBljPvWojCl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T05:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/2t9pft28>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-7d82ff26223003ce"></a>
 
 ## The Future Is Tokenized 💎
@@ -19769,6 +19865,30 @@ Conclave Premium Club is an international business club for entrepreneurs and in
 Investment is one of our focus areas, and our gatherings bring people together to exchange ideas and explore potential collaborations.
 
 Register for Crypto Brunch
+
+<a id="event-be12cd567d81d268"></a>
+
+## Bitcoin Indonesia Community Meetup Bandung Barat 29 November 2026
+
+- Record: `luma-crypto-OSpm36mtHHEXYZL`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T09:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/upzvyeld>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-fb08dea1dd4c14fc"></a>
+
+## Consumer AI Hackathon: Ship an App People Love in a Day
+
+- Record: `luma-crypto-VUQpN8RPZ4dN7Zz`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-29T10:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/encode-husb>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e61e5a6297baae11"></a>
 
@@ -20195,6 +20315,18 @@ We are happy to be a part of Blockchain Life & AI Future Week 2026 in Dubai
 
 When? November 30th
 
+<a id="event-7983017a352c6a2c"></a>
+
+## Santai Hackathon #1
+
+- Record: `luma-crypto-y0p1Z4KVjLr9Ni6`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-30T05:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/76s0u4sl>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-6a940ddbe1e71e5b"></a>
 
 ## ASTER COMMUNITY COURT
@@ -20453,6 +20585,18 @@ Every request is reviewed by the Daos team, so everyone around you is worth meet
 Request your place to hear first
 
 Daos Hub, Dubai Become a Partner - daos.co
+
+<a id="event-e9b01c2de9224ec1"></a>
+
+## Pakistan Blockchain Consortium X Binance blockchain Week Thailand- 2026
+
+- Record: `luma-crypto-XSVqxBsfkUopBPq`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-30T09:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/8xyprbq1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e331772156d76464"></a>
 
@@ -20748,6 +20892,18 @@ Participants can recharge through curated thermal cycles, cold plunge pools, and
 - Attire: Appropriate swimwear required; bathrobes, towels, and slippers provided on-site
 - Approval: Registration is subject to host approval via Luma.
 
+<a id="event-3995ee85c90591df"></a>
+
+## Avalanche Builder Series: Solidity Fundamentals
+
+- Record: `luma-crypto-LxPZNsa70snnqMa`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-11-30T15:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/9u2wrtp7>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-5becf09343909020"></a>
 
 ## INVEST YACHT BY CONNECT & CIFRA MARKETS
@@ -20886,6 +21042,18 @@ Topics on the table
 
 Event details When: Monday, November 30, 2026 from 6:00 to 9:00 PM MST Where: Phoenix, Arizona (venue shared with confirmed RSVPs) Cost: Free, registration required Includes: Light food and refreshments Hosted by: Emerging Tech Center With support from: Stand With Crypto Arizona
 
+<a id="event-20d2f6da8e3d65fb"></a>
+
+## Sound Money Running Club · Part of Blockchain Life Week
+
+- Record: `luma-crypto-GifeBG9t0yVJOeJ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-01T03:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/rrly56vc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9d58472c1a329338"></a>
 
 ## Blockchain Life 2026 Day 1
@@ -21019,6 +21187,18 @@ Presentation
 
 - 09:30-10:30
 - Q&A and networking
+
+<a id="event-136662e4f3a67fcf"></a>
+
+## Bitcoin Indonesia Community Meetup Pekanbaru 1 Desember 2026
+
+- Record: `luma-crypto-yuUhJAA4MuvFCZv`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-01T08:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/8b3nzhfm>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-30bd50343f05aa3e"></a>
 
@@ -21362,6 +21542,30 @@ Free to attend. just grab yourself a drink
 
 See you there.
 
+<a id="event-cf7c807708569da8"></a>
+
+## Out of Distribution: A Humanoids Summit Side Event
+
+- Record: `luma-crypto-qhbts1JukXy5lzq`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T02:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/hvxpljbw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-af1e3519ebc9993a"></a>
+
+## Off the Record - YC Founders Dinner
+
+- Record: `luma-crypto-xAF2dSFSpywtXBa`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T02:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/uafx0dx8>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-392a2fb55c2d94a5"></a>
 
 ## AI Future 2026 Day 2
@@ -21481,6 +21685,42 @@ The growth partner behind crypto neobanks, cards and payments, covering BD, even
 Would you like to sponsor?
 
 Contact @Ploppy77 on Telegram.
+
+<a id="event-50321904703cdc64"></a>
+
+## Bitcoin Games Night
+
+- Record: `luma-crypto-FcLpPt5QpMQGyLh`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T09:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/7pq79xgq>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-d793d942d09e83dc"></a>
+
+## Visit The Bitcoin Museum in VR
+
+- Record: `luma-crypto-lF79mvvi5YMcn9e`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T11:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/noc8u64j>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7e84f7e3a92732d4"></a>
+
+## NEAR Networking Mixer @ Blockchain Life Dubai
+
+- Record: `luma-crypto-rXJ5TBg8d1peODQ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-02T13:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/near-dubai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-11ba4e2cb2afad0e"></a>
 
@@ -21882,6 +22122,18 @@ The holiday celebration unites Toronto's thriving tech community for an evening 
 - **Year-End Reflections:** Reviewing major Canadian technology milestones and upcoming 2027 ecosystem initiatives.
 - **Community Atmosphere:** Festive music, catered refreshments, and informal holiday celebration in downtown Toronto.
 
+<a id="event-eb9ead8b6bbac3e1"></a>
+
+## Founder Dinner with Peter Deng
+
+- Record: `luma-crypto-uNSQOJe1897CuUo`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-03T03:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/fdy6n9bu>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-ef23de260d857eaf"></a>
 
 ## Jet Ski - BingX Dubai Week 5.0
@@ -21910,6 +22162,18 @@ Led by certified instructors with top-tier watercraft, the convoy navigates open
 - Life jackets and safety gear provided
 - Suitable for both beginners and experienced riders
 - Location: Dubai Marina Watersports Center (full address sent to confirmed RSVPs).
+
+<a id="event-b5c683e0823e2ca6"></a>
+
+## Digital Assets Developments & Opportunities - Part 2
+
+- Record: `luma-crypto-DMi90EQ3TOyIw0e`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-03T07:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/dat-part2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-6ec216021c141ce1"></a>
 
@@ -22239,6 +22503,18 @@ Probereme:
 
 Na akci je potřeba registrace.
 
+<a id="event-faefa8836286f270"></a>
+
+## CVA Research Symposium 2026: Five Years of Crypto Valley Research
+
+- Record: `luma-crypto-FyZTY6I26HdJTbr`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-03T17:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/cva-research-symposium-epfl-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-57aa0562320b15dd"></a>
 
 ## Holiday Party with Tellor & DC DAO!
@@ -22267,6 +22543,18 @@ And yes. the Ugly Sweater Competition is back. Bring your A-game (or your worst-
 Come celebrate the season with fellow builders, advocates, and friends of the DC crypto and AI community.
 
 We can't wait to see what you all show up in!
+
+<a id="event-49ec34ef1b6a2879"></a>
+
+## NYCFC Founders Dinner with Rho: 2nd Edition
+
+- Record: `luma-crypto-AgJLIK2JAsayLcp`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T00:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/ohgvwfbx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-d4ad868b93c6e15c"></a>
 
@@ -22305,6 +22593,18 @@ Patrocinado por AUREOBITCOIN.
 COM
 
 aureobitcoin.com Compra Bitcoin con Direct to Wallet (Lightning o on-chain), vende Bitcoin por pesos en segundos, accede a la mesa OTC para compras grandes de Bitcoin y atención personalizada para operaciones de hasta 20 millones de pesos por transacción.
+
+<a id="event-1863beab633265ed"></a>
+
+## YC Demo Day Afterparty 🕺
+
+- Record: `luma-crypto-T8HPlDFfbiFqvKN`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T03:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/or7e3ihp>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-4444a589ff942bcf"></a>
 
@@ -22797,6 +23097,78 @@ News and updates before the event are posted on networking.yachts.
 
 What is #CryptoFriday? Even though it's very rare to see physical meetups in the crypto world, we, as a community, have been enjoying our conversations since 2018. Anyone interested in cryptocurrency and blockchain world, meeting new people, different point of views and having fruitful conversations about the market is invited to #CryptoFriday #CryptoFriday every Friday on 19:00 at Altcointurk | Base, Kadıköy
 
+<a id="event-30f013c617e48217"></a>
+
+## super{set} Hackathon: Making Agents Reliable in the Enterprise
+
+- Record: `luma-crypto-517rdRkoGmiNg81`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T18:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/superset-6lth>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-ff7a1f790c06e34f"></a>
+
+## Health Frontier NYC Hackathon 🗽
+
+- Record: `luma-crypto-4sOZ8Fmq6MTkZU3`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T20:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/6bwgvqrc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-62cdb5b622238581"></a>
+
+## NYC Female Founders Dinner
+
+- Record: `luma-crypto-TowhnzQe5Ep0AlW`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-04T23:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/ulawtd3w>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-921241b378c5f2d0"></a>
+
+## Funded Founders Dinner hosted by Founders Bay
+
+- Record: `luma-crypto-DW94szRwdP60SRd`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T01:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/c6qgsf0n>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-5749cd56bdf6b131"></a>
+
+## Berkeley AI Builders Hackathon
+
+- Record: `luma-crypto-3MtKAxzhvnXbEZ0`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T02:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/i3znxqrs>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8bfde69e58b6887d"></a>
+
+## Human in the Loop: Creative Hackathon
+
+- Record: `luma-crypto-qRVdUTqGL1NxWYj`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T02:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/node-hackathon>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-e7f3e90f75a7dca7"></a>
 
 ## Bitcoin Rails Unconference: Doing business on Bitcoin Rails
@@ -22849,6 +23221,78 @@ Beyond structured conversations, the unconference fosters high-signal networking
 
 This event is crafted for corporate finance leaders, treasury operators, institutional investors, founders, ecosystem builders, compliance professionals, and anyone focused on integrating Bitcoin into operational systems, balance sheets, and financial product strategies.
 
+<a id="event-aae12e0e78746ead"></a>
+
+## 4Vision × Team1 Türkiye DeFi Hackathon
+
+- Record: `luma-crypto-StdbFED6P5NZNLq`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T05:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/mnkukpwf>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-16455b2e9827b245"></a>
+
+## Monad Blitz Antalya
+
+- Record: `luma-crypto-2xAUXj1Ydz3h0LH`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T06:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/blitz-antalya-dec-2026>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1a8331a5289d3f17"></a>
+
+## Bitcoin Indonesia Community Meetup Bandung 5 Desember 2026
+
+- Record: `luma-crypto-sx1qipcq4oPuKhX`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T06:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/qhqh92xj>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7df48aa97575912d"></a>
+
+## Bitcoin Indonesia Community Meetup Jakarta 5 Desember 2026
+
+- Record: `luma-crypto-ufN8Ey4B74Vjdfq`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T06:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/ib3biems>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-46f6fd52fedff78d"></a>
+
+## Bitcoin Indonesia Community Meetup Makassar 5 Desember 2026
+
+- Record: `luma-crypto-4DWHPOg41eCsiXs`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T08:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/gzv8pwnk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-45de0eb7d70eea62"></a>
+
+## Wellness Hackathon: Build AI That Makes People Feel Better
+
+- Record: `luma-crypto-RUC9HRBqMjME9HC`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T10:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/encode-4ntf>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c2cf746f90ba7b14"></a>
 
 ## CAPITAL GATHERING F1
@@ -22884,6 +23328,30 @@ XMAS CAPITAL GATHERING, December 2025
 CAPITAL GATHERING @ F1, December 2025 ______________________________________
 
 A very limited number of sponsorship opportunities are available. Contact Kristina TG @kristina_code or Daria to get involved.
+
+<a id="event-1cfbb69de148bb77"></a>
+
+## Sapiens: A hackathon for human intelligence
+
+- Record: `luma-crypto-0zGu9ZSXHIuDwyl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T17:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/utnutt5f>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-2b12e6e3915e26b8"></a>
+
+## Hack Your Love Story: The AI Dating Hackathon
+
+- Record: `luma-crypto-ETiBGTv77rgMJ6I`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-05T21:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/lpo2uxd0>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-00d586beaa1c292e"></a>
 
@@ -22939,6 +23407,18 @@ Evaluation frameworks: BTC Rating, BTC Risk, BTC Credit, BTC Breakeven ARR, BTC 
 ### Who This Is For
 
 Owners and C-level executives from: Banks, investment funds, corporations, family offices, sovereign wealth funds, brokers, central banks, regulators, and private companies
+
+<a id="event-728f328f2e8ec0a2"></a>
+
+## Bitcoin Indonesia Community Meetup Jakarta Barat 6 Desember 2026
+
+- Record: `luma-crypto-QaS1R0AefAIk4Ua`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-06T08:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/iofanvl9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-a6b0d5ee8f2772de"></a>
 
@@ -24021,6 +24501,18 @@ Bebida alcoólica servida apenas para maiores de 18 anos
 
 Este evento faz parte da Semana da Inovação e é uma iniciativa do Programa de Embaixadores Stellar, em parceria com a NearX Brasil.
 
+<a id="event-196198e9b30340b7"></a>
+
+## Bitcoin Indonesia Community Meetup Tangerang 9 Desember 2026
+
+- Record: `luma-crypto-Y7lbUCJzKFTkGuP`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-09T03:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/9l6kc7n2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-0eb5f6d226e64024"></a>
 
 ## The Dawn
@@ -24806,6 +25298,18 @@ Bebida alcoólica servida apenas para maiores de 18 anos
 
 Este evento faz parte da Semana da Inovação e é uma iniciativa do Programa de Embaixadores Stellar, em parceria com a NearX Brasil.
 
+<a id="event-6f50bd0a61fde35d"></a>
+
+## Junto Founder Dinner (Hosted by Andrew & Friends)
+
+- Record: `luma-crypto-QAvbYwkGSC5TQHn`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-09T23:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/juntodinnerdec9>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-9945b157b0bcda0d"></a>
 
 ## ReCON - Coinspiracy II
@@ -24877,6 +25381,30 @@ The CoinHeads- Cypher Punk Meme Band
 Hosts Space DAO. Space DAO - The decentralized space force. A collection of hackers, engineers, block chain developers and ham radio operators.
 
 About the organiser: The Decentralized Space Force
+
+<a id="event-fa456ff4eda56efc"></a>
+
+## Claude x Sim Hackathon
+
+- Record: `luma-crypto-ZpydpfmWPeAOfQh`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T00:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/wkbxlawk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-7a9eb97d3805319b"></a>
+
+## Codex Community Hack Night — Video Generation Jam
+
+- Record: `luma-crypto-bA4Zzdl5CLH5oBr`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T02:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/video-generation-jam-with-codex-1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-504524ff0960d3d3"></a>
 
@@ -25013,6 +25541,18 @@ Bringing together up to 250 carefully selected senior decision-makers, the event
 The programme will feature insightful discussions led by renowned industry leaders and Cointelegraph's editorial team.
 
 LONGITUDE is built around intentional introductions, strategic dialogue and premium hospitality ensuring every conversation happens with purpose.
+
+<a id="event-ad1ddc325edeed24"></a>
+
+## House of Sol Workshops: Privacy on Solana for Institutions: SRI x Helius
+
+- Record: `luma-crypto-FgnshfsIDuhSPlv`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-10T13:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/sg9w8vcx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-ea63687b38251128"></a>
 
@@ -25211,6 +25751,18 @@ Afterwards: Stick around to hang out, continue the conversation, and grab some f
 
 Location: PubKey DC
 
+<a id="event-23584a9f3cde0bba"></a>
+
+## JC Bitcoin Networking Social Meetup
+
+- Record: `luma-crypto-maJq19vOdyALoPK`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-11T00:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/lsmjtds5>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-cf564ecee74fa894"></a>
 
 ## Cena Privada de fin de año by Reap · CDMX
@@ -25263,6 +25815,18 @@ No stages. No formal agendas. Just meaningful conversations, fresh perspectives,
 
 Private, invitation-only event. Location details will be shared with confirmed guests.
 
+<a id="event-17c1473ab5d33ce5"></a>
+
+## Madison Avenue: The Media and Advertising Hackathon: Powered by Plug & Play VC and Base44
+
+- Record: `luma-crypto-yQFrRDxWUhfQztP`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-11T14:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/media-hack-nyc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-bfc3184c06609620"></a>
 
 ## #KriptoCuma - #CryptoFriday
@@ -25278,6 +25842,18 @@ Private, invitation-only event. Location details will be shared with confirmed g
 #KriptoCuma Nedir? Yeni insanlarla tanışıp, çok farklı bakış açılarını yakalayabileceğiniz buluşmalarımıza kriptoyla ilgilenen herkes davetli. Öncelikle keyif alıyoruz. Çok şey öğreniyoruz, en önemlisi de sanalda kalmıyor arkadaşlıklarımız, dostluklarımız 3-4 saat boyunca çevrende ayni dili konuşan insanların olması kendini iyi hissettiriyor. Gel, sende bir iyilik yap kendine, bir Cuma katil bize. #KriptoCuma her Cuma Saat 19:00'da Kadiköy Altcointurk | Base'de Kripto Para, NFT ve Blockchain teknolojisi ile ilgilenen farklı kültür ve coğrafyadan insanları ayrım yapmadan #KriptoCuma etkinliğinde bir araya getiriyoruz
 
 What is #CryptoFriday? Even though it's very rare to see physical meetups in the crypto world, we, as a community, have been enjoying our conversations since 2018. Anyone interested in cryptocurrency and blockchain world, meeting new people, different point of views and having fruitful conversations about the market is invited to #CryptoFriday #CryptoFriday every Friday on 19:00 at Altcointurk | Base, Kadıköy
+
+<a id="event-86a2d6e278946676"></a>
+
+## The Great Business Bake Off: an AI Agent Hackathon
+
+- Record: `luma-crypto-NWfrdXpQpZUjkQC`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-11T21:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/bakeoff>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-f53f0cb4671f54c6"></a>
 
@@ -25312,6 +25888,18 @@ About The Studio The Studiois Monad Foundation's founder workspace in the heart 
 About Monad Foundation The Monad Foundationis an independent organization dedicated to encouraging the development and adoption of the Monad blockchain protocol, an ultra-high-performant EVM L1 blockchain. Monad offers the best of both worlds: unrivaled performance (10,000 transactions per second) and portability (full-compatibility for Ethereum smart contracts)
 
 Disclaimer By attending an event organized by Monad Foundation, you are entering an area where photography, audio and video live-streaming and/or recording may occur. Your entry and presence at such an event constitutes your consent to be photographed, filmed (including live-streamed), and/or otherwise recorded and to the release, publication, exhibition, or reproduction of any and all recorded media of your appearance, voice, and name for any purpose whatsoever in connection with Monad Foundation and its initiatives. By attending the event, you waive and release any claims you may have related to the use of such media of you at the event.
+
+<a id="event-dd56934aaa6a2dfe"></a>
+
+## Talent Density Index: The Honors Party
+
+- Record: `luma-crypto-1nRNktrllGd2pfG`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T03:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/dzoxgpsz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-403ad390f85cec5f"></a>
 
@@ -25372,6 +25960,18 @@ Stand with Crypto's support helps keep our community talk stories and pau hanas 
 Hosts Pūpūkahi Tech Foundation. Pupukahi Tech Foundation helps Hawaiʻi locals learn blockchain, Bitcoin, AI, and digital skills through workshops and events
 
 About the organiser: Community calendar
+
+<a id="event-11635fd08ef4c135"></a>
+
+## AI Tools Show & Tell \| Claude, Gemini, Codex & OpenClaw
+
+- Record: `luma-crypto-XghppCD1pWphpuN`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T08:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/vjj3w6nk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-77d0e43875a73d45"></a>
 
@@ -25504,6 +26104,54 @@ The reading list for the Socratic Seminar be posted here a couple days before th
 The seminar is for those interested in learning more about and discussing Bitcoin and related protocols. The event is formatted to foster debate, information sharing, and lively discussion.
 
 Discussion topics from a variety of sources are collated by meetup members in the weeks preceding the event. We'll discuss pull requests in the Bitcoin Core and other relevant repositories, network statistics, research papers, technical blog posts and other relevant content.
+
+<a id="event-2f3c7493934da832"></a>
+
+## Flushing Tech Meetup - Hackathon at TIQC
+
+- Record: `luma-crypto-XXy4TvEn59dkHHp`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T21:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/uyyuvjrk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9c07e9bceef8a898"></a>
+
+## Flushing Tech Meetup - Hackathon at TIQC
+
+- Record: `luma-crypto-yIjwVdOc3Gh9NbI`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-12T21:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/fzr45wwc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-dbcf42cba35aaefa"></a>
+
+## Bitcoin Indonesia Community Meetup Magelang 13 Desember 2026
+
+- Record: `luma-crypto-RTCySZz6aiI8z0X`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-13T07:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/qy3ghopo>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3b3e9e4dab0d1505"></a>
+
+## 🚀 AI Agentic Trading — Bitcoin & AI Meetup
+
+- Record: `luma-crypto-PIcabDJyBr9F9fp`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-13T09:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/6bmg1eup>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-16462919cab1a15f"></a>
 
@@ -25668,6 +26316,18 @@ Vex House is coming to Abu Dhabi for one night. This is the Vex House launch par
 
 On the night Founders, operators and investors from across Abu Dhabi and the wider UAE A 10-minute talk on what Vex House is and who we are looking for Mocktails, conversation and a standing mixer Meet the team and ask anything about applying Who should come Builders in AI: applied AI, agents and tooling, AI-native financial infrastructure, models in production, not prototypes. Fintech builders, VC/PE aspirants, quants and traders, M&A operators, capital allocators, and anyone who knows someone who should be in the house. Entry is free and by approval only. Venue in Abu Dhabi shared with approved guests.  Apply to Cohort 001:
 
+<a id="event-1858078eab4ed26f"></a>
+
+## Agentic AI Hackathon 2.0 - SF
+
+- Record: `luma-crypto-bM7tSGR9f8BVv4v`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-15T17:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/12545fxr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-14004e7a870ac7a6"></a>
 
 ## AWIC & Bitso: Brindis Navideño, Cripto & Comunidad
@@ -25764,6 +26424,30 @@ This bitcoin meetup began in early 2024, and lately has typically met on the 4th
 
 and check out our collected resources at:
 
+<a id="event-772d9a613ba9062d"></a>
+
+## Data and AI Hackathon 2.0
+
+- Record: `luma-crypto-1b29TPJYWot6D0f`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-17T17:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/vbrkehfk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-f9455d4173afd205"></a>
+
+## Web3 Maryland: Holiday Celebration & Toy Drive
+
+- Record: `luma-crypto-RkQjlgD5KJNR94q`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-17T23:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/wjdirxah>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-b2b1a2f58e18b2ba"></a>
 
 ## Proof of Build: Houston Dev Night
@@ -25802,6 +26486,18 @@ Beezi.
 Rocket Network.
 
 TokenRoster.
+
+<a id="event-95225f25e8822a01"></a>
+
+## Jersey City Bitcoin: Monthly Socratic Seminar
+
+- Record: `luma-crypto-Aw0bi5XTRdmnaRx`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-18T00:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/jnk9cmp1>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-d3314e13c9e22f08"></a>
 
@@ -25848,6 +26544,18 @@ Eat. Sip. Play. Connect.
 Food, drinks, games, gifts, laughs, and most importantly, our amazing community.
 
 Hosted by Stand With Crypto California | Los Angeles - San Diego - San Francisco
+
+<a id="event-c1a9b6c6586adf35"></a>
+
+## Bitcoin Indonesia Community Meetup Bontang 18 Desember 2026
+
+- Record: `luma-crypto-bKQdfsRr5fbUDHw`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-18T07:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/htcvptle>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-42a9afb64f5de71c"></a>
 
@@ -25905,6 +26613,18 @@ We'll be in the attic and will have presentations from 5-7:30 PM, then join us a
 - Sean O'Brien demo'ing PrivacySafe
 - James Babb of Enemies of the State
 - Joel Valenzuela with a special announcement
+
+<a id="event-2e8ab46c05a5a57c"></a>
+
+## Bitcoin Indonesia Community Meetup Surabaya 19 Desember 2026
+
+- Record: `luma-crypto-hsjfctgjF6vjEUz`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-19T08:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/1cbx91fo>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-d4e32020e7556a90"></a>
 
@@ -25964,6 +26684,42 @@ Event Details Venue: Gurugram (To Be Updated) Date and Time: Saturday, December 
 
 Seats are limited. register early to save your spot. Bring your questions, doubts, and curiosity. We'll keep it real
 
+<a id="event-5b9b175032d07b20"></a>
+
+## Bitcoin Indonesia Community Meetup Aceh 20 Desember 2026
+
+- Record: `luma-crypto-F55r2FdsKlOgtjy`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-20T09:21:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/cbfhgvy2>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-06d513c5871fcf35"></a>
+
+## Bitcoin for Merchants
+
+- Record: `luma-crypto-xOeyvPHpIjzguLl`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-21T08:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/7kk601zn>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-9efd53ff8bc84b84"></a>
+
+## Bitcoin for Beginners
+
+- Record: `luma-crypto-L7pcD5cbHOdYnRW`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-21T09:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/xk7g6t8f>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-45988b67216ba2d1"></a>
 
 ## CryptoMondays Dubai: Christmas Edition 2026 🎄✨
@@ -25998,6 +26754,18 @@ Registration & Entry
 
 - Ticket Type: Free Approval Request
 - Note: Space is strictly limited to maintain high-quality networking. Please request your approval early to secure your spot!
+
+<a id="event-55c4f67bcf04fd7f"></a>
+
+## Belajar Bitcoin di Bitcoin House Bali! ☕️ (Bahasa Indonesia)
+
+- Record: `luma-crypto-NAm2qwYHaYtoVA4`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-25T03:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/tamylgqc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-18f50ea724c49340"></a>
 
@@ -26113,6 +26881,78 @@ JapanOrbs
 
 ご参加前に必ず参加規約をお読みください
 
+<a id="event-0fd7a35d1b877c6c"></a>
+
+## Coffee & Bitcoin - Falls Church
+
+- Record: `luma-crypto-IsIugDMTq2UuAoc`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-26T15:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/q2lnvpir>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8fc9383c2e52826e"></a>
+
+## Bitcoin Indonesia Community Meetup Bandung Barat 27 Desember 2026
+
+- Record: `luma-crypto-Eu5L23EhrXiuJtM`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2026-12-27T09:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/fr1m8bvr>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-bd7204b7c2aa9a19"></a>
+
+## Bitcoin Brunch - The Boro
+
+- Record: `luma-crypto-L9g4Eg4Iqa5tQmO`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-09T16:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/hb50m0xc>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-3b0cb47afb30d59e"></a>
+
+## Robotics Inference Hackathon (General Instinct x Manifest Ventures)
+
+- Record: `luma-crypto-AjAqKkUeyAp7QSe`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-09T17:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/b8615otm>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-1916a67a73e99f82"></a>
+
+## Flushing Tech Meetup - Hackathon at TIQC
+
+- Record: `luma-crypto-C6ubH9JE6Gyd6k8`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-09T21:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/wvsh2c4s>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-4fadbcb78d168fc6"></a>
+
+## Qoder Beyond Coding AI Hackathon
+
+- Record: `luma-crypto-Qt4NZ8sfCB8UD48`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-12T06:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/qoderhack>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-d3e5827d8a438446"></a>
 
 ## Auralith AAO Launch Event!
@@ -26155,6 +26995,42 @@ Build Connections Beyond The Event Meet fellow blockchain enthusiasts, creators,
 
 Come For The Vision. Connect With The Community. Leave With New Perspectives.
 
+<a id="event-162cc9b73c5b4e09"></a>
+
+## Bay Area Hackathon
+
+- Record: `luma-crypto-9bRcDnw8fib2E4x`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-15T18:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/qgarcdzw>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-04540b910583b73b"></a>
+
+## DMV Women & Bitcoin
+
+- Record: `luma-crypto-cZ8FYMCEZMG2V0K`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-19T23:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/ase7jorh>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-35ba69a67dcb08d3"></a>
+
+## Bitcoin Merchants Adoption 101 Class
+
+- Record: `luma-crypto-oBMEbY3H3bWrg2V`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-22T08:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/1k299dbk>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-554a1e9930100101"></a>
 
 ## Snowfro: Press Start
@@ -26176,6 +27052,18 @@ At the center of Calderon's practice is a belief that art can be playful and int
 Snowfro: Press Start arrives at a moment of reflection and renewal. Across more than a decade of making art, and through the intense, formative years surrounding the creation of Chromie Squiggle and Art Blocks, Calderon's practice has evolved through experimentation, ambition, and persistence.
 
 For the first time, NODE offers an opportunity to gather these threads and look back at the ideas that have shaped his path as an artist.
+
+<a id="event-7dfe2e1c574faa7b"></a>
+
+## Crypto Drinks - Amsterdam
+
+- Record: `luma-crypto-9gUqcSalxIwdlTz`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-27T17:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/59ycd88v>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-e1752e2de7c055b2"></a>
 
@@ -26281,6 +27169,18 @@ Agenda is tentative and subject to adjustment.
 - Corporates and ecosystem partners exploring innovation and startup collaborations.
 
 Join us at Keio ChainHack 2027 and connect with the next generation of AI & Web3 innovators!
+
+<a id="event-374b131fea5c0d6b"></a>
+
+## Coffee & Bitcoin - Falls Church
+
+- Record: `luma-crypto-9olhADGL89M2H5y`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-01-30T15:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/qe1ea0fx>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-0ece521715a94371"></a>
 
@@ -26396,6 +27296,30 @@ Alyssa will share the story behind each house and what to taste for, with bites 
 
 We can't wait to raise a glass with you.
 
+<a id="event-ee2720b4d2c01cce"></a>
+
+## Crypto Drinks - Amsterdam
+
+- Record: `luma-crypto-uGNX5C5uK415LVB`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-02-24T17:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/537kc4ic>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-0dfc4a9c87dd93a1"></a>
+
+## GSE's IRW Hackathon
+
+- Record: `luma-crypto-KcMfJpkSkWHwdlu`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-02-26T01:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/vikzbuyz>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-2fe05420b9090a38"></a>
 
 ## Blockchain Summit 2027 Spring
@@ -26426,6 +27350,18 @@ Thursday, March 4, 2027 at Otemachi Sankei Plaza, Tokyo. Speakers and program wi
 - Venue: Otemachi Sankei Plaza (directly connected to Otemachi Station)
 - Admission: Free (pre-registration and approval required)
 - Organizer: Pacific Meta Group ■ Registration This event requires pre-registration and approval. Please register with your business email address.
+
+<a id="event-b348d5732d2f72c8"></a>
+
+## Cryptography at Work for Blockchain III
+
+- Record: `luma-crypto-aISLnfBStZ7CbDZ`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-03-10T08:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/cryptography-at-work-for-blockchain-2027>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-f638abe7ec34493a"></a>
 
@@ -26549,6 +27485,18 @@ Speakers and partners will be announced soon. Register now to secure your place.
 
 LinkedIn | X | Website
 
+<a id="event-d125c4109339ccf7"></a>
+
+## Crypto Drinks - Amsterdam
+
+- Record: `luma-crypto-1KUJuVmG5URYj4F`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-03-31T16:30:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/kdhuw5yo>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
 <a id="event-c7b8ca389c664948"></a>
 
 ## Wealth Tech Executive Forum \| 📍Dubai Edition
@@ -26613,6 +27561,30 @@ Tacnode is the fastest database for building Crypto trading platform. We serve l
 - Application Performance Monitoring (APM
 
 Contact: Marketing@tacnode.io
+
+<a id="event-79c6273f4edec27f"></a>
+
+## RWA SUMMIT DUBAI 2027
+
+- Record: `luma-crypto-a6OvqCBd6zF4joK`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-04-23T06:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/rwasummit-dubai>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
+
+<a id="event-8822876f2d1c7ee2"></a>
+
+## Crypto Valley Conference 2027
+
+- Record: `luma-crypto-menCUR2r2fkrEXW`
+- Source: [luma-crypto-events.json](sources/luma-crypto-events.json)
+- Starts: 2027-06-03T07:00:00.000Z
+- Description: Listing stub
+- Original page: <https://luma.com/cvc27>
+
+An organizer description has not been verified for this record. Any previous copy is retained in the source JSON for review.
 
 <a id="event-b5c938d93c0fa7e9"></a>
 

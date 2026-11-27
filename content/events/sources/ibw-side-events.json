@@ -108,7 +108,7 @@
   {
     "id": "ibw-official-defi-security-summit-day-1-11-01",
     "name": "DeFi Security Summit 2026",
-    "description": "The fifth DeFi Security Summit takes place at Courtyard by Marriott Mumbai International Airport on November 1 and 2, 2026, from 10:00 to 18:00 IST each day. It is intended for security researchers, auditors, protocol builders and the wider DeFi community. The venue address is CTS 215, Andheri-Kurla Road, opposite Carnival Cinemas, Andheri East, Mumbai, Maharashtra 400093.\n\nThe organizer has published a 2026 talk directory, although its Luma description still says speakers and program details are forthcoming. The directory identifies the following talks with the November 1 and 2 Marriott summit. Individual session times and rooms remain to be assigned.\n\n### Published talks\n\n- Hudson Jameson, head of Web3 at CertiK, revisits the 2017 Parity multisig hacks.\n- Steffen Kux, co-founder and co-CEO of corpus.core, discusses trustless transaction analysis before Ethereum wallet signatures.\n- Dmytro Matviiv, CEO of HackenProof, examines changes in crowdsourced security, including Code4rena and Hats Finance.\n- Natalia Klaus, verification engineer at Runtime Verification, covers a pipeline from production Rust to Lean 4 proofs using AI provers.\n- 0xa5df, senior security researcher at Certora, approaches auditing as system risk management.\n- Kirk Baird, executive director of Sigma Prime, examines single points of failure in blockchain security.\n- Shebin John, senior research engineer at Safe Research, presents a deny-by-default policy engine for Safe.\n- Rahul Saxena, founder of Bluethroat Labs, addresses attestation gaps in private AI and TEE-backed DeFi.\n- Paul Clemson, audit engineer at Quantstamp, examines collateral flows when auditing Polymarket V2.\n- Kalp Shah, smart contract auditor at QuillAudits, discusses circuit-level exploits in DeFi.\n- Jacob Czepluch covers Core Solidity.\n- Michael Lewellen, head of solutions engineering at Turnkey, examines recovery mechanisms as an attack surface.\n- Don Josey, founder of Glossifi, asks how financial incentives affect security judgment.\n- Ofir Eliasi, CTO of Lava Foundation, covers security during live Cosmos-to-EVM migrations and the risks of unaudited RPC infrastructure.\n- Lokesh Joshi, blockchain and AI engineer, discusses autonomous defense for DeFi.\n- Mohamad Mansouri, Web3 security researcher at Dedaub, evaluates AI auditing against real smart-contract audits.\n- Victor Okafor, security researcher at QuillAudits, considers quantum threats beyond post-quantum signatures.\n- George Loukovitis, senior engineer at Dedaub, combines deterministic analysis and language models to detect unsafe ERC-20 behavior.\n- Akand Sitra of Hypernative covers real-time Web3 security monitoring.\n- Gerard Persoon, security researcher at Cantina, examines conversion between EVM bytecode and Solidity.\n- Anu Adeleke of QuillAudits presents a session on vulnerable Daml code.\n- Nemveer, senior security researcher at Certora, discusses ecosystem-specific security lessons from auditing NEAR.\n- Raj Kumar, security researcher at Certora, and senior threat researcher Sabanaku77 examine monitoring internals, chain data and incident response.\n- Henri Binsztok, co-founder and CEO of OKcontract Labs, examines how a multisig can approve an unintended transaction.\n- Uri Kirstein, product manager for Fordefi's blockchain team, discusses information missing from Safe transaction decoders.\n- Igor Gulamov, co-founder of SavantChat, applies AI auditing to consensus, mempools and peer-to-peer systems.\n- Viraz Malhotra, senior blockchain engineer and security researcher, introduces a methodology for AI-assisted auditing.\n- Nicolas Garcia, security researcher at OpenZeppelin, discusses when to deploy an AI auditor and disclose its findings.\n- Jochen Hoenicke, formal verification researcher at Certora, examines a self-liquidation issue in Morpho Midnight involving a callback window.\n- Josselin Feist, security researcher at Aave Labs, addresses security leadership.\n- Jeff Fei, security researcher at Ant International, presents SOAC and zero-trust smart-contract permission governance.\n- Jork Leonhardt, co-founder of Corpus Core GmbH, covers RPC trust failures affecting builders and monitoring tools.\n- Daniel Monz\u00f3n, offensive security engineer at Halborn, discusses Web3 red-teaming methods.\n- Robert Reith, CEO and co-founder of Accretion and hackhack, examines bugs missed by AI tools.\n- Abhimanyu Nag, engineering manager at Muchlearning/Canvas, models cryptoeconomic attacks and adversaries in DeFi.\n- Andy M. Lee, founder and CEO of Mamori, examines what fuzzing establishes about smart-contract security.\n- Magnus Woodgate, lead security engineer at Asymmetric Research, has two listed talks on post-quantum signatures, stateful risks and Ethereum account security.\n- Joaquin Pereyra, lead security engineer at Coinspect, examines the discovery of and response to the Ill Bloom wallet-generation flaw.\n- Sumanjeet, maintainer of py-libp2p and unified-testing, shares security and operational lessons from py-libp2p and Py-IPFS-lite.\n- Julia Hardy, co-founder and head of investigations at zeroShadow, discusses using money-laundering intelligence to contain active exploits.\n- Christopher von Hessert, head of security at Polygon Labs, presents \"Never Send a Human to Do a Machine's Job.\"\n- Cl\u00e9ment Moller, smart contract engineer at Origin Protocol, covers DeFi liveness testing with stateful invariants and replacing a staking oracle with beacon-chain proofs.\n- Davit Kobakhidze of Consensys Diligence discusses AI security challenges looking ahead to 2027.\n- Christian Vari, head of audit operations at Oak Security, presents an adversarial methodology for AI audits and a four-year study comparing audit findings with exploits.\n- Bernardo Codesido, head of security at RootstockLabs, discusses building a lasting crypto security team.\n- Nikita Belenkov, security engineer at Anza, examines running an audit competition.\n- Doris Benda, blockchain security engineer and auditor at ChainSecurity, covers dirty bits in Solidity.\n- Hrishikesh Bhat of Cantina examines the development of crowdsourced security beyond bounties.\n- Sofia Bobadilla, PhD student at KTH Royal Institute of Technology, discusses smart-contract invariants as a defense against attacks.\n- Zakaryae Boudi, founder of Tokenfrastructure Group, examines vulnerabilities created by the interaction of otherwise correct contracts.\n- Petar Calic, protocol lead at Spectra, covers the opportunities and pitfalls of formal verification with AI.\n- Lilian Cariou, security and formal-verification researcher at Certora, examines Aave V4's hub-and-spoke architecture.\n- Ivan Djordjevic, head of security and data protection at Degensoft, discusses the SOC 2 Type 2 observation period in a DeFi organization.\n- Matthias Egli, founding and managing partner of ChainSecurity, reviews hacks since Devcon 7.\n- John Ennis of Safe R&D examines onchain security markets in the context of offensive AI.\n- Elliot Friedman of Solidity Labs covers multisig backdoor detection and laptop security in governance-proposal workflows.\n- Josef Gattermayer, co-founder of ack3, compares frontier models for EVM auditing and examines practical fuzzing with coding agents.\n- Jelle (0xFlint) Goethals, founder of Flint Security, covers x402 integration requirements and indirect dependencies in DeFi trust relationships.\n- Neville Grech, co-founder of Dedaub, discusses symbolic execution for math-heavy code alongside AI tools.\n- Manu Sheel Gupta, technical lead and maintainer for libp2p, IPLD and Multiformats, examines a Gossipsub crash and its implications for AI security and DeFi infrastructure.\n- Peter Kacherginsky, security researcher and author of BlockThreat, surveys DeFi security in 2026.\n- George Kobakhidze of Consensys Diligence presents Certiflai and certification workflows.\n- Dima Kogan, CTO and co-founder of Fordefi, and Yaron Salman, its cryptography specialist, discuss MPC wallets and post-quantum readiness.\n- Kevin Lotz covers formal verification of stake pools and a practical application.\n- Yash Saraswat, smart contract engineer at ether.fi, presents a runtime security framework for liquid staking tokens.\n- Dhairya Sethi of Aave Labs' core smart-contract team and security researcher Tomer Ganor examine rounding and accounting risks in lending protocols.\n- Suryansh Singh, lead blockchain security researcher at OpenZeppelin, discusses security standards and weaknesses in evaluating Web3 AI security tools.\n- Anish Agrawal of Olympix draws lessons about real exploits from mutation testing.\n- Prabal Banerjee, co-founder of Avail, discusses responses to onchain surveillance infrastructure.\n- Yannis Smaragdakis, co-founder of Dedaub, covers reconstructing unverified contracts from bytecode and modeling fund flows using large linear-algebra systems.\n- Aarnav Bos, security engineer at Asymmetric Research, examines exploration and testing of consensus-protocol state spaces.\n- Sergey Khomutinin, senior Solidity engineer at Lido, discusses continuous auditing with language models.\n- nisedo, security engineer at Trail of Bits, presents lessons from AI bug hunting and a short session on evidence, questions and coverage in AI-assisted audits.\n- Rudra Singh of CertiK addresses frontend security audits.\n- Yuri Tkachenko, head of DeFi engineering at Lido, examines audit work after publication.\n- Jason W, security researcher, discusses real-time DeFi threat detection with stream engines.\n- Benjamin Flores, co-founder of Verity, covers formal verification in the context of AI.\n- Griff Green discusses collective approaches to DeFi security and costs.\n- Jan Kalivoda, co-founder of ack3.ai, addresses laptop security and components that audits leave outside their scope.\n- Jonathan Mevs, senior audit engineer at Quantstamp, examines agent-assisted formal verification.\n- Thomas Marques compares a simple LLM pipeline with more complex agent-based approaches.\n- Eugene Mamin, chief technical master at Lido Labs, presents the Lido and Nethermind Evergreen approach to continuous AI-assisted security.\n\n### Tickets and the Devcon continuation\n\nStandard admission costs US$50 for both Marriott summit days. Students can use DSSSTUDENT at checkout for US$10 admission. Registration is through the summit's Luma page.\n\nDSS continues on November 3 as a community-led session at Devcon. Devcon admission is separate from the November 1 and 2 summit ticket. The organizer's agenda allows attendees to save a shortlist of talks; saving a talk does not reserve a seat.",
+    "description": "The fifth DeFi Security Summit takes place at Courtyard by Marriott Mumbai International Airport on November 1 and 2, 2026, from 10:00 to 18:00 IST each day. It is intended for security researchers, auditors, protocol builders and the wider DeFi community. The venue address is CTS 215, Andheri-Kurla Road, opposite Carnival Cinemas, Andheri East, Mumbai, Maharashtra 400093.\n\nThe organizer has published a 2026 talk directory, although its Luma description still says speakers and program details are forthcoming. The directory identifies the following talks with the November 1 and 2 Marriott summit. Individual session times and rooms remain to be assigned.\n\n### Published talks\n\n- Hudson Jameson, head of Web3 at CertiK, revisits the 2017 Parity multisig hacks.\n- Steffen Kux, co-founder and co-CEO of corpus.core, discusses trustless transaction analysis before Ethereum wallet signatures.\n- Dmytro Matviiv, CEO of HackenProof, examines changes in crowdsourced security, including Code4rena and Hats Finance.\n- Natalia Klaus, verification engineer at Runtime Verification, covers a pipeline from production Rust to Lean 4 proofs using AI provers.\n- 0xa5df, senior security researcher at Certora, approaches auditing as system risk management.\n- Kirk Baird, executive director of Sigma Prime, examines single points of failure in blockchain security.\n- Shebin John, senior research engineer at Safe Research, presents a deny-by-default policy engine for Safe.\n- Rahul Saxena, founder of Bluethroat Labs, addresses attestation gaps in private AI and TEE-backed DeFi.\n- Paul Clemson, audit engineer at Quantstamp, examines collateral flows when auditing Polymarket V2.\n- Kalp Shah, smart contract auditor at QuillAudits, discusses circuit-level exploits in DeFi.\n- Jacob Czepluch covers Core Solidity.\n- Michael Lewellen, head of solutions engineering at Turnkey, examines recovery mechanisms as an attack surface.\n- Don Josey, founder of Glossifi, asks how financial incentives affect security judgment.\n- Ofir Eliasi, CTO of Lava Foundation, covers security during live Cosmos-to-EVM migrations and the risks of unaudited RPC infrastructure.\n- Lokesh Joshi, blockchain and AI engineer, discusses autonomous defense for DeFi.\n- Mohamad Mansouri, Web3 security researcher at Dedaub, evaluates AI auditing against real smart-contract audits.\n- Victor Okafor, security researcher at QuillAudits, considers quantum threats beyond post-quantum signatures.\n- George Loukovitis, senior engineer at Dedaub, combines deterministic analysis and language models to detect unsafe ERC-20 behavior.\n- Akand Sitra of Hypernative covers real-time Web3 security monitoring.\n- Gerard Persoon, security researcher at Cantina, examines conversion between EVM bytecode and Solidity.\n- Anu Adeleke of QuillAudits presents a session on vulnerable Daml code.\n- Nemveer, senior security researcher at Certora, discusses ecosystem-specific security lessons from auditing NEAR.\n- Raj Kumar, security researcher at Certora, and senior threat researcher Sabanaku77 examine monitoring internals, chain data and incident response.\n- Henri Binsztok, co-founder and CEO of OKcontract Labs, examines how a multisig can approve an unintended transaction.\n- Uri Kirstein, product manager for Fordefi's blockchain team, discusses information missing from Safe transaction decoders.\n- Igor Gulamov, co-founder of SavantChat, applies AI auditing to consensus, mempools and peer-to-peer systems.\n- Viraz Malhotra, senior blockchain engineer and security researcher, introduces a methodology for AI-assisted auditing.\n- Nicolas Garcia, security researcher at OpenZeppelin, discusses when to deploy an AI auditor and disclose its findings.\n- Jochen Hoenicke, formal verification researcher at Certora, examines a self-liquidation issue in Morpho Midnight involving a callback window.\n- Josselin Feist, security researcher at Aave Labs, addresses security leadership.\n- Jeff Fei, security researcher at Ant International, presents SOAC and zero-trust smart-contract permission governance.\n- Jork Leonhardt, co-founder of Corpus Core GmbH, covers RPC trust failures affecting builders and monitoring tools.\n- Daniel Monzón, offensive security engineer at Halborn, discusses Web3 red-teaming methods.\n- Robert Reith, CEO and co-founder of Accretion and hackhack, examines bugs missed by AI tools.\n- Abhimanyu Nag, engineering manager at Muchlearning/Canvas, models cryptoeconomic attacks and adversaries in DeFi.\n- Andy M. Lee, founder and CEO of Mamori, examines what fuzzing establishes about smart-contract security.\n- Magnus Woodgate, lead security engineer at Asymmetric Research, has two listed talks on post-quantum signatures, stateful risks and Ethereum account security.\n- Joaquin Pereyra, lead security engineer at Coinspect, examines the discovery of and response to the Ill Bloom wallet-generation flaw.\n- Sumanjeet, maintainer of py-libp2p and unified-testing, shares security and operational lessons from py-libp2p and Py-IPFS-lite.\n- Julia Hardy, co-founder and head of investigations at zeroShadow, discusses using money-laundering intelligence to contain active exploits.\n- Christopher von Hessert, head of security at Polygon Labs, presents \"Never Send a Human to Do a Machine's Job.\"\n- Clément Moller, smart contract engineer at Origin Protocol, covers DeFi liveness testing with stateful invariants and replacing a staking oracle with beacon-chain proofs.\n- Davit Kobakhidze of Consensys Diligence discusses AI security challenges looking ahead to 2027.\n- Christian Vari, head of audit operations at Oak Security, presents an adversarial methodology for AI audits and a four-year study comparing audit findings with exploits.\n- Bernardo Codesido, head of security at RootstockLabs, discusses building a lasting crypto security team.\n- Nikita Belenkov, security engineer at Anza, examines running an audit competition.\n- Doris Benda, blockchain security engineer and auditor at ChainSecurity, covers dirty bits in Solidity.\n- Hrishikesh Bhat of Cantina examines the development of crowdsourced security beyond bounties.\n- Sofia Bobadilla, PhD student at KTH Royal Institute of Technology, discusses smart-contract invariants as a defense against attacks.\n- Zakaryae Boudi, founder of Tokenfrastructure Group, examines vulnerabilities created by the interaction of otherwise correct contracts.\n- Petar Calic, protocol lead at Spectra, covers the opportunities and pitfalls of formal verification with AI.\n- Lilian Cariou, security and formal-verification researcher at Certora, examines Aave V4's hub-and-spoke architecture.\n- Ivan Djordjevic, head of security and data protection at Degensoft, discusses the SOC 2 Type 2 observation period in a DeFi organization.\n- Matthias Egli, founding and managing partner of ChainSecurity, reviews hacks since Devcon 7.\n- John Ennis of Safe R&D examines onchain security markets in the context of offensive AI.\n- Elliot Friedman of Solidity Labs covers multisig backdoor detection and laptop security in governance-proposal workflows.\n- Josef Gattermayer, co-founder of ack3, compares frontier models for EVM auditing and examines practical fuzzing with coding agents.\n- Jelle (0xFlint) Goethals, founder of Flint Security, covers x402 integration requirements and indirect dependencies in DeFi trust relationships.\n- Neville Grech, co-founder of Dedaub, discusses symbolic execution for math-heavy code alongside AI tools.\n- Manu Sheel Gupta, technical lead and maintainer for libp2p, IPLD and Multiformats, examines a Gossipsub crash and its implications for AI security and DeFi infrastructure.\n- Peter Kacherginsky, security researcher and author of BlockThreat, surveys DeFi security in 2026.\n- George Kobakhidze of Consensys Diligence presents Certiflai and certification workflows.\n- Dima Kogan, CTO and co-founder of Fordefi, and Yaron Salman, its cryptography specialist, discuss MPC wallets and post-quantum readiness.\n- Kevin Lotz covers formal verification of stake pools and a practical application.\n- Yash Saraswat, smart contract engineer at ether.fi, presents a runtime security framework for liquid staking tokens.\n- Dhairya Sethi of Aave Labs' core smart-contract team and security researcher Tomer Ganor examine rounding and accounting risks in lending protocols.\n- Suryansh Singh, lead blockchain security researcher at OpenZeppelin, discusses security standards and weaknesses in evaluating Web3 AI security tools.\n- Anish Agrawal of Olympix draws lessons about real exploits from mutation testing.\n- Prabal Banerjee, co-founder of Avail, discusses responses to onchain surveillance infrastructure.\n- Yannis Smaragdakis, co-founder of Dedaub, covers reconstructing unverified contracts from bytecode and modeling fund flows using large linear-algebra systems.\n- Aarnav Bos, security engineer at Asymmetric Research, examines exploration and testing of consensus-protocol state spaces.\n- Sergey Khomutinin, senior Solidity engineer at Lido, discusses continuous auditing with language models.\n- nisedo, security engineer at Trail of Bits, presents lessons from AI bug hunting and a short session on evidence, questions and coverage in AI-assisted audits.\n- Rudra Singh of CertiK addresses frontend security audits.\n- Yuri Tkachenko, head of DeFi engineering at Lido, examines audit work after publication.\n- Jason W, security researcher, discusses real-time DeFi threat detection with stream engines.\n- Benjamin Flores, co-founder of Verity, covers formal verification in the context of AI.\n- Griff Green discusses collective approaches to DeFi security and costs.\n- Jan Kalivoda, co-founder of ack3.ai, addresses laptop security and components that audits leave outside their scope.\n- Jonathan Mevs, senior audit engineer at Quantstamp, examines agent-assisted formal verification.\n- Thomas Marques compares a simple LLM pipeline with more complex agent-based approaches.\n- Eugene Mamin, chief technical master at Lido Labs, presents the Lido and Nethermind Evergreen approach to continuous AI-assisted security.\n\n### Tickets and the Devcon continuation\n\nStandard admission costs US$50 for both Marriott summit days. Students can use DSSSTUDENT at checkout for US$10 admission. Registration is through the summit's Luma page.\n\nDSS continues on November 3 as a community-led session at Devcon. Devcon admission is separate from the November 1 and 2 summit ticket. The organizer's agenda allows attendees to save a shortlist of talks; saving a talk does not reserve a seat.",
     "startDate": "2026-11-01T04:30:00.000Z",
     "endDate": "2026-11-02T12:30:00.000Z",
     "location": "Location to be announced",
@@ -476,7 +476,7 @@
   },
   {
     "id": "ibw-official-onchain-dev-city-india-11-02",
-    "name": "Onchain Dev City - Devcon [8] INDIA \ud83c\uddee\ud83c\uddf3",
+    "name": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
     "description": "BackersStage hosts Onchain Dev City during Devcon week. The announced program includes onchain quests, project pitches, talks and community activities.",
     "startDate": "2026-11-02T10:30:00.000Z",
     "endDate": "2026-11-02T15:30:00.000Z",
@@ -535,7 +535,7 @@
       "url": "https://luma.com/n0a39ago",
       "fetchedAt": "2026-10-11T18:38:36.451Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Onchain Dev City - Devcon [8] INDIA \ud83c\uddee\ud83c\uddf3",
+      "pageTitle": "Onchain Dev City - Devcon [8] INDIA 🇮🇳",
       "sha256": "59eb7aa99088eea54eb4166897eb43230cbb05f8c7d15587935024624364b4a6",
       "evidence": [
         {
@@ -731,7 +731,7 @@
   },
   {
     "id": "ibw-official-ai-economic-forum-aief-truth-intelligence-summit-11-03",
-    "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 \u27e1 Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+    "name": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
     "description": "Omniscient AI's Mumbai forum covers AI infrastructure, models, agents, AI and Web3, investment, enterprise applications and policy. The announced program includes keynotes, panels, product demonstrations and founder sessions.",
     "startDate": "2026-11-03T04:00:00.000Z",
     "endDate": "2026-11-03T14:30:00.000Z",
@@ -748,7 +748,7 @@
     "source": "ibw-official",
     "hosts": [
       "Tanmaya (Tan) Sharma",
-      "Omniscient AI \u2022 MSJ News \u2022 Tokenised News",
+      "Omniscient AI • MSJ News • Tokenised News",
       "Akanksha Sharma"
     ],
     "price": "Free",
@@ -786,7 +786,7 @@
       "url": "https://luma.com/a0e6b8at",
       "fetchedAt": "2026-10-11T18:38:38.713Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 \u27e1 Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
+      "pageTitle": "AI ECONOMIC FORUM (AIEF), MUMBAI 2026 ⟡ Truth Intelligence Summit - Official AI Side Event of India Blockchain Week 2026 & Devcon 8",
       "sha256": "abb2463ce4d4601fcfcfc2109750b9e38a62115a49ab76497ce6d57407d49bfd",
       "evidence": [
         {
@@ -1739,7 +1739,7 @@
   {
     "id": "india-luma-islzi7v3",
     "slug": "moneylayer",
-    "name": "Money Layer @Devcon\ud83c\uddee\ud83c\uddf3 Week",
+    "name": "Money Layer @Devcon🇮🇳 Week",
     "description": "The Money Layer Consortium presents Money Layer @Devcon Week in Mumbai on Wednesday, November 4, 2026, from 14:00 to 18:00 IST. The four-hour conference explores digital cash, programmable payments, and decentralized settlement infrastructure.\n\n## What to expect\n\nThe afternoon conference brings together leaders from monetary protocol design, banking, and crypto-native commerce:\n- Keynote on the evolution of digital cash: from sovereign stablecoins to privacy-preserving ecash (Cashu, Fedimint).\n- Panel on scalable payment channels: Lightning Network, state channels, and Layer 2 payment streaming protocols.\n- Merchant adoption case studies: deploying point-of-sale crypto payments across retail and e-commerce platforms with zero chargeback risk.\n- Regulatory frameworks for programmable payments, automated tax withholding, and programmable escrow.\nThe presentations conclude with an open tea and networking reception.\n\n## Who should attend\n\nThe conference is tailored for payments product managers, fintech executives, monetary economists, stablecoin developers, and Web3 engineers building consumer checkout flows.\n\n## Venue and schedule\n\nThe event takes place at a conference auditorium in Mumbai on Wednesday, November 4, from 14:00 to 18:00 IST.\n\n## Registration and admission\n\nAttendance is free with registration approval required on Luma. Registered attendees receive presentation decks and speaker summaries following the conference.",
     "startDate": "2026-11-04T13:00:00.000Z",
     "location": "Mumbai, India",
@@ -1796,7 +1796,7 @@
       "url": "https://luma.com/islzi7v3",
       "fetchedAt": "2026-10-25T20:42:17.792Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Money Layer @Devcon\ud83c\uddee\ud83c\uddf3 Week",
+      "pageTitle": "Money Layer @Devcon🇮🇳 Week",
       "sha256": "f92d265d80e5ccf07dff82e754b7c537ea85ec0d3a81ff699f66c35733b736ef",
       "evidence": [
         {
@@ -2291,7 +2291,7 @@
   {
     "id": "india-luma-sgrf4yq5",
     "slug": "liquiditymumbai",
-    "name": "Liquidity Pool @Devcon 8 | Mumbai \ud83c\uddee\ud83c\uddf3",
+    "name": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
     "description": "Web3 Mumbai and community leads Harsh Gupta and Fardeen Samir host Liquidity Pool @Devcon 8 in Mumbai on Tuesday, November 3, 2026, from 21:30 IST to 00:30 on November 4. The evening meetup brings together DeFi market makers, traders, and protocol builders.\n\n## What to expect\n\nThe event provides an informal, lounge-style networking atmosphere focused on decentralized finance and liquidity infrastructure. Discussion topics include automated market maker (AMM) design, cross-chain order routing, high-frequency onchain trading, and liquidity provisioning strategies across Layer 2 networks. Cocktails and appetizers will be served throughout the evening with ambient music for easy networking.\n\n## Who should attend\n\nThis mixer is curated for DeFi founders, quantitative analysts, liquidity providers, decentralized exchange (DEX) developers, and crypto fund managers attending Devcon and India Blockchain Week.\n\n## Venue and schedule\n\nThe gathering takes place at a premier lounge in Mumbai on Tuesday night, November 3, running from 21:30 IST to 00:30 IST.\n\n## Registration and admission\n\nRegistration is free and subject to host approval to ensure an authentic peer group of market makers and builders. Exact venue location will be sent directly to approved participants via Luma.",
     "startDate": "2026-11-03T16:00:00.000Z",
     "location": "Mumbai, India",
@@ -2332,7 +2332,7 @@
       "url": "https://luma.com/sgrf4yq5",
       "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Liquidity Pool @Devcon 8 | Mumbai \ud83c\uddee\ud83c\uddf3",
+      "pageTitle": "Liquidity Pool @Devcon 8 | Mumbai 🇮🇳",
       "sha256": "c49e3d01261ae818cd368120cd43a48633b9137c16027b0e45cd147fa28390f1",
       "evidence": [
         {
@@ -2754,7 +2754,7 @@
   {
     "id": "india-luma-5u1evsou",
     "slug": "brunchmumbai",
-    "name": "Builders Brunch, Mumbai \ud83c\uddee\ud83c\uddf3",
+    "name": "Builders Brunch, Mumbai 🇮🇳",
     "description": "Buildify hosts the Builders Brunch in Mumbai on Thursday, November 5, 2026, from 13:00 to 16:00 IST during Devcon week. The midday gathering brings together decentralized technology builders for authentic Indian food and informal collaboration.\n\n## What to expect\n\nThe brunch offers a casual, community-first setting for meaningful peer interaction:\n- A rich spread of authentic regional Indian brunch specialties, fresh tropical fruits, and artisanal beverages.\n- Roundtable discussions where founders and developers share unvarnished experiences regarding product development, user onboarding, and technical architecture.\n- Collaborative whiteboarding spaces where engineering teams can brainstorm solutions to scalability, privacy, and UX bottlenecks.\n\n## Who should attend\n\nThe brunch is tailored for software engineers, product designers, protocol contributors, and early-stage Web3 startup founders attending Devcon in Mumbai.\n\n## Venue and schedule\n\nThe gathering takes place at a private restaurant and terrace venue in Mumbai on Thursday, November 5, from 13:00 to 16:00 IST (07:30-10:30 UTC).\n\n## Registration and admission\n\nAdmission is free and requires organizer approval on Luma. The exact restaurant address is sent directly to approved participants upon confirmation.",
     "startDate": "2026-11-05T07:30:00.000Z",
     "location": "Mumbai, India",
@@ -2798,7 +2798,7 @@
       "url": "https://luma.com/5u1evsou",
       "fetchedAt": "2026-10-25T20:42:17.942Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Builders Brunch, Mumbai \ud83c\uddee\ud83c\uddf3",
+      "pageTitle": "Builders Brunch, Mumbai 🇮🇳",
       "sha256": "ac2927e1ea93001634893b04fea48f8d22fe8791433e88b9ed798f1d45a030e0",
       "evidence": [
         {
@@ -3068,7 +3068,7 @@
     "slug": "ethindia"
   },
   {
-    "name": "NEAR Builder\u2019s Cafe #2",
+    "name": "NEAR Builder’s Cafe #2",
     "startDate": "2026-10-31T07:30:00.000Z",
     "endDate": "2026-10-31T10:30:00.000Z",
     "description": "The NEAR Foundation community hosts NEAR Builder's Cafe #2 in Mumbai on Monday, November 2, 2026, from 15:00 to 18:00 IST. The technical salon combines specialty coffee with architectural explorations of Chain Abstraction and decentralized AI.\n\n## What to expect\n\nThe afternoon program is structured around interactive workshops and reading circles:\n- Deep dive into Chain Abstraction: examining account aggregation, cross-chain signatures, and seamless multi-chain user experiences powered by NEAR.\n- User-owned AI: exploring decentralized compute, verifiable model inference, and onchain agentic workflows.\n- Code walkthroughs of multichain smart contracts and fast finality bridges.\n- Hands-on mentoring with core protocol contributors and grant evaluators over artisanal espresso and treats.\n\n## Who should attend\n\nThe session is designed for full-stack developers, smart contract engineers, AI researchers, and product architects interested in building cross-chain applications without bridging friction.\n\n## Venue and schedule\n\nThe meetup takes place at a specialty cafe in Bandra, Mumbai, on Monday, November 2, from 15:00 to 18:00 IST.\n\n## Registration and admission\n\nAttendance is free with limited cafe capacity. Approval is required on Luma; guests are advised to bring a laptop to participate in code demonstrations.",
@@ -3119,7 +3119,7 @@
       "url": "https://luma.com/ijy8hzbj",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Near Builder\u2019s Cafe #2 \u00b7 Luma",
+      "pageTitle": "Near Builder’s Cafe #2 · Luma",
       "sha256": "39c7a13ac8301e4a4b04d2f3bfbddaaefd8d83aa3eda2d43dada9b677cdb3f9d",
       "evidence": [
         {
@@ -3190,7 +3190,7 @@
       "url": "https://luma.com/sjxszq4s",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Open Silicon, In Your Hands: IRIS Demo + Free Board \u00b7 CrossBar at Devcon 8 \u00b7 Luma",
+      "pageTitle": "Open Silicon, In Your Hands: IRIS Demo + Free Board · CrossBar at Devcon 8 · Luma",
       "sha256": "4496efa990c88720e3ccdd73dc70792fc26d30c3ad1b6287a9fb7cb658f9528e",
       "evidence": [
         {
@@ -3207,7 +3207,7 @@
     ]
   },
   {
-    "name": "ClickOptions \u00d7 NextWave: Live Crypto Trading Competition",
+    "name": "ClickOptions × NextWave: Live Crypto Trading Competition",
     "startDate": "2026-11-03T10:30:00.000Z",
     "endDate": "2026-11-03T13:30:00.000Z",
     "description": "NextWave Network and ClickOptions host a platform introduction and live crypto trading competition in Mumbai on Tuesday, November 3, 2026, from 16:00 to 19:00 IST. The session introduces onchain options trading with real-time competition mechanics.\n\n## What to expect\n\nThe three-hour event combines technical education with interactive trading:\n- An introduction to the ClickOptions platform architecture, detailing defined-risk options structures, automated settlement, and decentralized collateral management.\n- A two-hour live simulated options trading competition using risk-free testnet accounts.\n- Real-time leaderboard tracking top-performing portfolios based on risk-adjusted returns.\n- Award ceremony distributing up to $200 in prize rewards to top-performing traders, followed by food, drinks, and networking with options market makers.\n\n## Who should attend\n\nThe competition is ideal for crypto derivatives traders, options enthusiasts, quantitative analysts, and financial engineers looking to test systematic trading strategies.\n\n## Venue and schedule\n\nThe competition takes place at a tech event space in Mumbai on Tuesday, November 3, running from 16:00 to 19:00 IST (10:30-13:30 UTC).\n\n## Registration and admission\n\nRegistration is free and subject to approval. Participants are required to bring a laptop to connect to the trading competition platform. WiFi and power outlets are provided.",
@@ -3256,7 +3256,7 @@
       "url": "https://luma.com/teffnotz",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "ClickOptions \u00d7 NextWave: Live Crypto Trading Competition \u00b7 Luma",
+      "pageTitle": "ClickOptions × NextWave: Live Crypto Trading Competition · Luma",
       "sha256": "ad338244f4aa4b79c6ff310cc54a4e1a36859473d2296f48561ff2562d2711a1",
       "evidence": [
         {
@@ -3273,7 +3273,7 @@
     ]
   },
   {
-    "name": "The Best Event: Stable \u2014 Payments & Stablecoins",
+    "name": "The Best Event: Stable — Payments & Stablecoins",
     "startDate": "2026-11-04T10:30:00.000Z",
     "endDate": "2026-11-04T14:30:00.000Z",
     "description": "The Best Event (TBE) hosts Stable: Payments & Stablecoins during Devcon week in Mumbai on Wednesday, November 4, 2026, from 16:00 to 20:00 IST. The focused industry conference explores fiat-backed tokens, real-world payments, and international financial settlement.\n\n## What to expect\n\nThe four-hour afternoon program delivers focused panel discussions and keynote presentations:\n- Global stablecoin regulation, examining compliance standards, reserve audits, and licensing regimes in Asia, Europe, and the Americas.\n- Merchant payment rails and point-of-sale crypto integrations, detailing fee savings and settlement finality compared to traditional card networks.\n- Cross-border remittances and B2B trade settlement, highlighting emerging market adoption in Latin America, Southeast Asia, and Africa.\n- Yield-bearing stablecoins, tokenized treasury bills, and real-world asset (RWA) composability within decentralized lending pools.\nThe panels are followed by a catered networking reception.\n\n## Who should attend\n\nThis summit is designed for fintech executives, payments product managers, treasury officers, banking partners, stablecoin issuers, and Web3 payments infrastructure developers.\n\n## Venue and schedule\n\nThe conference is hosted at a premier business venue in Mumbai on November 4, running from 16:00 to 20:00 IST.\n\n## Registration and admission\n\nRegistration is free of charge and subject to host approval. Early application is recommended as seating is limited. Approved attendees receive the venue location and full speaker roster upon confirmation.",
@@ -3326,7 +3326,7 @@
       "url": "https://luma.com/TBE-Stable26",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "The Best Event: Stable - Payments & Stablecoins \u00b7 Luma",
+      "pageTitle": "The Best Event: Stable - Payments & Stablecoins · Luma",
       "sha256": "47292d5d932be393bdcc4892a2c75437548ed38fa30ba3c036b5e2e29dd69d6b",
       "evidence": [
         {
@@ -3380,13 +3380,13 @@
     "approvalRequired": true,
     "ticketOffers": [
       {
-        "name": "In Person \u00b7 Mumbai",
+        "name": "In Person · Mumbai",
         "url": "https://luma.com/qwlh11yl",
         "price": 0,
         "availability": "InStock"
       },
       {
-        "name": "Online \u00b7 Livestream",
+        "name": "Online · Livestream",
         "url": "https://luma.com/qwlh11yl",
         "price": 0,
         "availability": "InStock"
@@ -3411,7 +3411,7 @@
       "url": "https://luma.com/qwlh11yl",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Sovrency C8 Launch \u00b7 The first hardware MPC wallet for stablecoins \u00b7 Luma",
+      "pageTitle": "Sovrency C8 Launch · The first hardware MPC wallet for stablecoins · Luma",
       "sha256": "a13988f73b764d549f4a6e79e100221482f676f2cdc4522295b7eb28717bc12a",
       "evidence": [
         {
@@ -3479,7 +3479,7 @@
       "url": "https://luma.com/indie-builders-dinner-2026",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Indie Builders Dinner w/ Harkirat Singh \u00b7 Luma",
+      "pageTitle": "Indie Builders Dinner w/ Harkirat Singh · Luma",
       "sha256": "2d806b9e5d72a37a9362ac51d0df4251a7cafd4c3ef8dbfa2f753cdcb7fd7420",
       "evidence": [
         {
@@ -3493,7 +3493,7 @@
     }
   },
   {
-    "name": "Touch Grass, Not Contracts \ud83c\udf3f | Security Researchers' Walk",
+    "name": "Touch Grass, Not Contracts 🌿 | Security Researchers' Walk",
     "startDate": "2026-11-01T01:30:00.000Z",
     "endDate": "2026-11-01T02:15:00.000Z",
     "description": "You can spend four days collecting conference contacts - or 45 minutes actually getting to know a few security people.\n\nA free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.\n\n## Who is this for?\n\nAuditors, bug hunters, smart-contract security researchers, protocol engineers, and security-curious Devcon ticket holders. Everyone is welcome regardless of gender or experience.\n\n## Why come?\n\nFind fellow researchers, compare real lessons from hacks and audits, and start conversations that aren't another panel Q&A.\n\nConversation starter (optional): What's one security red flag you wish every DeFi user understood?\n\n## Meet-up details\n\n- Date: Sunday, 1 November 2026\n- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM so you can find the group before we start.\n- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.\n- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.\n- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.\n- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.\n\n## Tickets and joining\n\nThis walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.\n\nPlease be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.\n\nHosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.",
@@ -3521,7 +3521,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -3553,7 +3553,7 @@
       "url": "https://luma.com/3xehz0zi",
       "fetchedAt": "2026-10-25T18:35:50.575Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Touch Grass, Not Contracts \ud83c\udf3f | Security Researchers' Walk \u00b7 Luma",
+      "pageTitle": "Touch Grass, Not Contracts 🌿 | Security Researchers' Walk · Luma",
       "sha256": "4372b131d41bc8df650fdd9416274ba65e3e6b49d9b468a0c4201a8e0b535993",
       "evidence": [
         {
@@ -3567,7 +3567,7 @@
     }
   },
   {
-    "name": "sunday morning padel & pickleball club\u2122",
+    "name": "sunday morning padel & pickleball club™",
     "startDate": "2026-11-01T02:30:00.000Z",
     "endDate": "2026-11-01T04:30:00.000Z",
     "description": "Superteam India hosts the Sunday Morning Padel & Pickleball Club in Mumbai on November 1, 2026, from 07:00 to 09:00 IST. The casual sports gathering brings together Solana builders, founders, designers and operators in Mumbai for India Blockchain Week and Devcon for a morning of friendly court competition.\n\n## What to expect\n\nThe session features casual games across dedicated padel and pickleball courts. Equipment including paddles and balls is provided on site. Whether you are an experienced player or picking up a paddle for the first time, players of all skill levels are paired for informal doubles matches. Fresh juices, coconut water and morning breakfast refreshments will be served court-side.\n\n## Who should attend\n\nThis meetup is designed for Superteam India members, Solana ecosystem contributors, Web3 founders and friends looking to connect through sports before the week of technical conferences and hackathons begins.\n\n## Venue and schedule\n\nThe event takes place in the Mount Mary neighborhood of Bandra West, Mumbai, on Sunday, November 1, running from 07:00 to 09:00 IST. Comfortable athletic footwear and sportswear are recommended.\n\n## Registration and admission\n\nRegistration is completely free and requires organizer approval. Court capacity is strictly limited to ensure adequate play time for all confirmed attendees. Approved guests will receive the exact court address and arrival details upon confirmation.",
@@ -3617,7 +3617,7 @@
       "url": "https://luma.com/padel-pickle-club",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "sunday morning padel & pickleball club\u2122 \u00b7 Luma",
+      "pageTitle": "sunday morning padel & pickleball club™ · Luma",
       "sha256": "216068bf7e20ba1f9f55ab9e11afd81ff6c2629e0cf57c82763b37baa83180a0",
       "evidence": [
         {
@@ -3631,7 +3631,7 @@
     }
   },
   {
-    "name": "404: Conference Room Not Found \ud83d\udc1b | Security Night Walk",
+    "name": "404: Conference Room Not Found 🐛 | Security Night Walk",
     "startDate": "2026-11-01T14:00:00.000Z",
     "endDate": "2026-11-01T14:45:00.000Z",
     "description": "404: Slides Not Found. Security nerds, fresh air, and conversations you can actually hear.\n\nA free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.\n\n## Who is this for?\n\nSolidity developers, security reviewers, bug bounty hunters, founders who care about safer code, and curious first-timers. Everyone is welcome regardless of gender or experience.\n\n## Why come?\n\nTalk through security lessons, meet future collaborators, and unwind after a packed conference day.\n\nConversation starter (optional): What's a tiny bug that caused a surprisingly big problem?\n\n## Meet-up details\n\n- Date: Sunday, 1 November 2026\n- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM so you can find the group before we start.\n- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.\n- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.\n- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.\n- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.\n\n## Tickets and joining\n\nThis walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.\n\nPlease be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.\n\nHosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.",
@@ -3659,7 +3659,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -3691,7 +3691,7 @@
       "url": "https://luma.com/9vf77z15",
       "fetchedAt": "2026-10-25T18:35:53.205Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "404: Conference Room Not Found \ud83d\udc1b | Security Night Walk \u00b7 Luma",
+      "pageTitle": "404: Conference Room Not Found 🐛 | Security Night Walk · Luma",
       "sha256": "cedfb0ce277961a683de0415a7104dfe432b977388c9cb0dc28fe5eb5308ee59",
       "evidence": [
         {
@@ -3705,7 +3705,7 @@
     }
   },
   {
-    "name": "Bug Hunters Anonymous \ud83d\udc1e | Auditors' Morning Walk",
+    "name": "Bug Hunters Anonymous 🐞 | Auditors' Morning Walk",
     "startDate": "2026-11-02T01:30:00.000Z",
     "endDate": "2026-11-02T02:15:00.000Z",
     "description": "A bug bounty leaderboard won't introduce you to the person behind the finding. This walk might.\n\nA free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.\n\n## Who is this for?\n\nIndependent auditors, security contest participants, bounty hunters, reviewers and newcomers learning vulnerability research. Everyone is welcome regardless of gender or experience.\n\n## Why come?\n\nMeet people who share your obsession with edge cases and trade practical learning stories.\n\nConversation starter (optional): What's the funniest false positive you've chased?\n\n## Meet-up details\n\n- Date: Monday, 2 November 2026\n- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM so you can find the group before we start.\n- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.\n- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.\n- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.\n- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.\n\n## Tickets and joining\n\nThis walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.\n\nPlease be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.\n\nHosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.",
@@ -3733,7 +3733,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -3765,7 +3765,7 @@
       "url": "https://luma.com/3m6mrikv",
       "fetchedAt": "2026-10-25T18:35:58.382Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Bug Hunters Anonymous \ud83d\udc1e | Auditors' Morning Walk \u00b7 Luma",
+      "pageTitle": "Bug Hunters Anonymous 🐞 | Auditors' Morning Walk · Luma",
       "sha256": "0278feecf0ba829fb65a443eb910064c89b45072bfa2b77177c0b0585bf18ec7",
       "evidence": [
         {
@@ -3830,7 +3830,7 @@
       "url": "https://luma.com/yhs0jlfx",
       "fetchedAt": "2026-10-25T18:35:59.519Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "MEV - Maximal Evening Vibes \u00b7 Luma",
+      "pageTitle": "MEV - Maximal Evening Vibes · Luma",
       "sha256": "c47ac287c99785b0ecd62a5e95f7c9046d469f0042d1801435bbc4e490a4ac07",
       "evidence": [
         {
@@ -3844,7 +3844,7 @@
     }
   },
   {
-    "name": "Post-DSS: No More Slides \ud83d\ude05 | Security Community Walk",
+    "name": "Post-DSS: No More Slides 😅 | Security Community Walk",
     "startDate": "2026-11-02T14:00:00.000Z",
     "endDate": "2026-11-02T14:45:00.000Z",
     "description": "Still thinking about that DSS talk? Bring the question you didn't get to ask.\n\nA free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.\n\n## Who is this for?\n\nDSS attendees, smart-contract auditors, DeFi security teams and builders who care about safer on-chain apps. Everyone is welcome regardless of gender or experience.\n\n## Why come?\n\nKeep conference ideas alive, meet other security thinkers, and talk without waiting for a microphone.\n\nConversation starter (optional): Which DSS idea would you actually use on a real protocol?\n\n## Meet-up details\n\n- Date: Monday, 2 November 2026\n- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM so you can find the group before we start.\n- Mapped meeting landmark: Chhatrapati Shivaji Maharaj Monument, 1 Juhu Tara Road, Juhu, Mumbai 400049. Use the map pin on this event page, not the conference venue.\n- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.\n- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.\n- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.\n\n## Tickets and joining\n\nThis walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.\n\nPlease be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.\n\nHosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.",
@@ -3862,7 +3862,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -3894,7 +3894,7 @@
       "url": "https://luma.com/vxs2cvjg",
       "fetchedAt": "2026-10-25T18:36:01.454Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Post-DSS: No More Slides \ud83d\ude05 | Security Community Walk \u00b7 Luma",
+      "pageTitle": "Post-DSS: No More Slides 😅 | Security Community Walk · Luma",
       "sha256": "86cfe2eb78c165b16bd8837fdd55ebf871c2018b92a9abc2cfb62f272ca242d6",
       "evidence": [
         {
@@ -3908,7 +3908,7 @@
     }
   },
   {
-    "name": "Pitch Decks Not Allowed \ud83d\udc5f | Protocol Founders' Walk",
+    "name": "Pitch Decks Not Allowed 👟 | Protocol Founders' Walk",
     "startDate": "2026-11-03T01:30:00.000Z",
     "endDate": "2026-11-03T02:15:00.000Z",
     "description": "No TAM. No fundraising pitch. Just founders talking like normal humans for once.\n\nA free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.\n\n## Who is this for?\n\nProtocol founders, indie hackers, early-stage builders, engineers and anyone serious about shipping on Ethereum. Everyone is welcome regardless of gender or experience.\n\n## Why come?\n\nMeet people building through similar problems and have a conversation that could outlast your next pitch deck.\n\nConversation starter (optional): What's one thing about building you've learned the hard way?\n\n## Meet-up details\n\n- Date: Tuesday, 3 November 2026\n- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM so you can find the group before we start.\n- Mapped meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this event page, not the conference venue.\n- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.\n- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.\n- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.\n\n## Tickets and joining\n\nThis walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.\n\nPlease be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.\n\nHosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.",
@@ -3936,7 +3936,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -3968,7 +3968,7 @@
       "url": "https://luma.com/7l76qryo",
       "fetchedAt": "2026-10-25T18:36:02.557Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Pitch Decks Not Allowed \ud83d\udc5f | Protocol Founders' Walk \u00b7 Luma",
+      "pageTitle": "Pitch Decks Not Allowed 👟 | Protocol Founders' Walk · Luma",
       "sha256": "53d143098c5730c79f42dfd02cd648753a8cc6c8b9e725924acfb7d573a32c9f",
       "evidence": [
         {
@@ -4035,7 +4035,7 @@
       "url": "https://luma.com/4iotvxh0",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Devcon Assassin \u00b7 Luma",
+      "pageTitle": "Devcon Assassin · Luma",
       "sha256": "5b7332c57832668db92908210a97811f52731eee01e33bcd45cf015f9f9f8c7a",
       "evidence": [
         {
@@ -4104,7 +4104,7 @@
       "url": "https://luma.com/uxs32jih",
       "fetchedAt": "2026-10-25T18:36:04.227Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Security Hub @Devcon VIII India \u00b7 Luma",
+      "pageTitle": "Security Hub @Devcon VIII India · Luma",
       "sha256": "c63f32172acc9ad404366e619b9a56e1ffe35e9ba61ccd8e55fb07e843461a4a",
       "evidence": [
         {
@@ -4168,7 +4168,7 @@
       "url": "https://luma.com/Stark-Space-Mumbai-Day-1",
       "fetchedAt": "2026-10-25T18:36:05.144Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Stark Space Mumbai | Day 1 \u00b7 Luma",
+      "pageTitle": "Stark Space Mumbai | Day 1 · Luma",
       "sha256": "4730f49a40dd25555f3318cc497fb46976e3710e8854d9765f856b68477da880",
       "evidence": [
         {
@@ -4182,10 +4182,10 @@
     }
   },
   {
-    "name": "Builder Nights Mumbai - Agentic Edition | Hosted by MetaMask \ud83e\udd8a\ufe0f, Monad, ENS, ARKIV, Strato and Diligence",
+    "name": "Builder Nights Mumbai - Agentic Edition | Hosted by MetaMask 🦊️, Monad, ENS, ARKIV, Strato and Diligence",
     "startDate": "2026-11-03T11:30:00.000Z",
     "endDate": "2026-11-03T15:30:00.000Z",
-    "description": "MetaMask Builder Night is back. and this time, we're heading to the Agentic Frontier.\n\nThe developers, founders, and ecosystem contributors pushing the boundaries of agentic technology.\n\nThe tools, protocols, and ideas quietly rewriting what's possible onchain. All in one room.\n\nThe frontier is open. Come claim it.\n\nHosted by MetaMask and our frens. Built for the people building what's next.\n\nProduct agnostic. Shill-free. Vertical specific.\n\n## Our core pillars \u2b07\n\nDetails:\n\nTime: 5:00PM - 9:00PM Venue: Register for location Free entry\n\n## Agenda\n\n5:00PM. Doors Open\n\n6:00PM - 7:30PM. Panels\n\n7:30PM - 9:00PM. Networking and Vibes.\n\n## Co-hosts\n\nAbout MetaMask\n\nMetaMask is the world's leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.\n\nAbout Monad Foundation\n\nMonad Foundation supports the growth and decentralization of the Monad ecosystem, a high-performance, EVM-compatible Layer 1 blockchain designed for speed, scalability, and low transaction costs. The Foundation empowers developers, builders, and communities to create the next generation of decentralized applications, from DeFi and trading to emerging onchain use cases.\n\nAbout ARKIV\n\nARKIV is building decentralized data infrastructure designed to make data programmable, accessible, and verifiable. By enabling developers to build applications that interact with decentralized data, ARKIV supports new possibilities for AI agents, autonomous applications, and the next generation of onchain services.\n\nAbout ENS\n\nEthereum Name Service (ENS) is the decentralized naming protocol for Ethereum, making web3 more accessible through human-readable names. ENS enables users, developers, and applications to replace complex blockchain addresses with simple identities, while providing essential infrastructure for decentralized identity, payments, and interactions between humans and AI agents.\n\nAbout STRATO\n\nSTRATO is an Ethereum-compatible blockchain platform designed to help enterprises build and deploy real-world blockchain applications. By combining blockchain infrastructure with enterprise-grade capabilities, STRATO enables organizations to develop secure, scalable solutions for tokenization, digital assets, and decentralized business processes.\n\nAbout Consensys Diligence\n\nConsensys Diligence is a leading blockchain security team specializing in smart contract audits, security assessments, and developer security tooling. With extensive experience securing Ethereum-based protocols and decentralized applications, Diligence helps developers identify vulnerabilities, strengthen smart contract security, and build safer onchain experiences.\n\nSome of the past Builder Nights \u2b07\n\nInterested in future Builder Nights? Get in touch with @andreolf on Telegram!\n\nBuilder Nights Collab Deck",
+    "description": "MetaMask Builder Night is back. and this time, we're heading to the Agentic Frontier.\n\nThe developers, founders, and ecosystem contributors pushing the boundaries of agentic technology.\n\nThe tools, protocols, and ideas quietly rewriting what's possible onchain. All in one room.\n\nThe frontier is open. Come claim it.\n\nHosted by MetaMask and our frens. Built for the people building what's next.\n\nProduct agnostic. Shill-free. Vertical specific.\n\n## Our core pillars ⬇\n\nDetails:\n\nTime: 5:00PM - 9:00PM Venue: Register for location Free entry\n\n## Agenda\n\n5:00PM. Doors Open\n\n6:00PM - 7:30PM. Panels\n\n7:30PM - 9:00PM. Networking and Vibes.\n\n## Co-hosts\n\nAbout MetaMask\n\nMetaMask is the world's leading self-custody web3 platform with 19 million monthly active users. Developed by Consensys, MetaMask is the most beloved and trusted way a global user base relies on to mint and collect NFTs, join DAOs, play games and participate in DeFi protocols.\n\nAbout Monad Foundation\n\nMonad Foundation supports the growth and decentralization of the Monad ecosystem, a high-performance, EVM-compatible Layer 1 blockchain designed for speed, scalability, and low transaction costs. The Foundation empowers developers, builders, and communities to create the next generation of decentralized applications, from DeFi and trading to emerging onchain use cases.\n\nAbout ARKIV\n\nARKIV is building decentralized data infrastructure designed to make data programmable, accessible, and verifiable. By enabling developers to build applications that interact with decentralized data, ARKIV supports new possibilities for AI agents, autonomous applications, and the next generation of onchain services.\n\nAbout ENS\n\nEthereum Name Service (ENS) is the decentralized naming protocol for Ethereum, making web3 more accessible through human-readable names. ENS enables users, developers, and applications to replace complex blockchain addresses with simple identities, while providing essential infrastructure for decentralized identity, payments, and interactions between humans and AI agents.\n\nAbout STRATO\n\nSTRATO is an Ethereum-compatible blockchain platform designed to help enterprises build and deploy real-world blockchain applications. By combining blockchain infrastructure with enterprise-grade capabilities, STRATO enables organizations to develop secure, scalable solutions for tokenization, digital assets, and decentralized business processes.\n\nAbout Consensys Diligence\n\nConsensys Diligence is a leading blockchain security team specializing in smart contract audits, security assessments, and developer security tooling. With extensive experience securing Ethereum-based protocols and decentralized applications, Diligence helps developers identify vulnerabilities, strengthen smart contract security, and build safer onchain experiences.\n\nSome of the past Builder Nights ⬇\n\nInterested in future Builder Nights? Get in touch with @andreolf on Telegram!\n\nBuilder Nights Collab Deck",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/bnmumbai26",
     "coverImage": "/events/buildernights-d6cb544c.webp",
@@ -4196,7 +4196,7 @@
     "country": "India",
     "location": "Mumbai, India",
     "hosts": [
-      "Francesco Andreoli \ud83e\udd8a",
+      "Francesco Andreoli 🦊",
       "Consensys",
       "Monad Foundation"
     ],
@@ -4229,7 +4229,7 @@
       "url": "https://luma.com/bnmumbai26",
       "fetchedAt": "2026-10-25T18:36:07.270Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Builder Nights Mumbai - Agentic Edition | Hosted by MetaMask \ud83e\udd8a\ufe0f, Monad, ENS, ARKIV, Strato and Diligence \u00b7 Luma",
+      "pageTitle": "Builder Nights Mumbai - Agentic Edition | Hosted by MetaMask 🦊️, Monad, ENS, ARKIV, Strato and Diligence · Luma",
       "sha256": "28acc4449242f767ca3a91a2983e325bb4f2fd0768f285d58705d848f4cd70ae",
       "evidence": [
         {
@@ -4293,7 +4293,7 @@
       "url": "https://luma.com/stark-after-dark-mumbai",
       "fetchedAt": "2026-10-25T18:36:08.903Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Stark After Dark: Starknet Party \u00b7 Luma",
+      "pageTitle": "Stark After Dark: Starknet Party · Luma",
       "sha256": "dd46a88a74dc66c1739bdf11e250858c050669bb27a810f9c9c1b6e880aa0397",
       "evidence": [
         {
@@ -4361,7 +4361,7 @@
       "url": "https://luma.com/jjl2hz9z",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Armada - Privacy in Practice \u00b7 Luma",
+      "pageTitle": "Armada - Privacy in Practice · Luma",
       "sha256": "ed2a409124e9fee64b19e511546f7e4c0618e5216e4c1eb9e09516793f502442",
       "evidence": [
         {
@@ -4375,7 +4375,7 @@
     }
   },
   {
-    "name": "No Slippage, Just Steps \ud83d\udcb8 | DeFi Night Walk",
+    "name": "No Slippage, Just Steps 💸 | DeFi Night Walk",
     "startDate": "2026-11-03T14:00:00.000Z",
     "endDate": "2026-11-03T14:45:00.000Z",
     "description": "The only thing we're farming tonight is real conversation.\n\nA free 45-minute waterfront walk. No stage, no microphone, no forced networking. Come on your own - it's normal here.\n\n## Who is this for?\n\nDeFi traders, users, founders, researchers, designers and curious people who want products to work better. Everyone is welcome regardless of gender or experience.\n\n## Why come?\n\nMeet the humans behind products, swap genuine DeFi experiences, and hear what others wish existed.\n\nConversation starter (optional): Which DeFi app is brilliant in theory but frustrating in practice?\n\n## Meet-up details\n\n- Date: Tuesday, 3 November 2026\n- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM so you can find the group before we start.\n- Mapped meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this event page, not the conference venue.\n- Exact entrance and route: The host will confirm the precise side of the landmark and safe public pedestrian path in a Luma update before the event. This is a proposed meeting area, not an inspected route yet.\n- Pace: Easy walking for 45 minutes; a gentle jog is optional. No fitness requirements.\n- Bring: Drinking water, comfortable shoes, a charged phone and curiosity.\n\n## Tickets and joining\n\nThis walk is FREE and registration is open without a fixed attendance cap. A valid Devcon 8 ticket is required to participate. The RSVP does not provide a Devcon ticket. Confirm that you hold one in the sign-up form; never upload your QR code or wallet secrets.\n\nPlease be considerate: Respect pedestrians, other attendees and different paces; no unsolicited pitches. We'll stay in public pedestrian areas and avoid traffic lanes and unsafe shoreline sections. If weather, access or route checks require a change, registered guests will receive updated joining details in Luma.\n\nHosted independently by Veerendra Vamshi (Proof of Audits). Not an official Devcon or Ethereum Foundation event.",
@@ -4393,7 +4393,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -4425,7 +4425,7 @@
       "url": "https://luma.com/dvu4zt0s",
       "fetchedAt": "2026-10-25T18:36:10.880Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "No Slippage, Just Steps \ud83d\udcb8 | DeFi Night Walk \u00b7 Luma",
+      "pageTitle": "No Slippage, Just Steps 💸 | DeFi Night Walk · Luma",
       "sha256": "c6d0442a2571619d4e3f8d9baef77c2efcd6b608ff57625199d4fb3f9ec415cd",
       "evidence": [
         {
@@ -4439,7 +4439,7 @@
     }
   },
   {
-    "name": "Low Gas, High Steps \ud83c\udf31 | Solidity Devs' Walk",
+    "name": "Low Gas, High Steps 🌱 | Solidity Devs' Walk",
     "startDate": "2026-11-04T01:30:00.000Z",
     "endDate": "2026-11-04T02:15:00.000Z",
     "description": "Close the IDE. The best debugging session today might be a conversation outside.\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nSolidity/EVM engineers, contract testers, security reviewers and aspiring on-chain developers. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nMeet other Solidity builders, trade useful lessons and get away from your laptop for a bit.\n\nConversation starter, if you want one: What's your most memorable 'this should never happen' test?\n\n## When, where and how to find us\n\n- Date: Wednesday, 4 November 2026\n- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -4457,7 +4457,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -4489,7 +4489,7 @@
       "url": "https://luma.com/cfut7t9n",
       "fetchedAt": "2026-10-25T18:36:11.794Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Low Gas, High Steps \ud83c\udf31 | Solidity Devs' Walk \u00b7 Luma",
+      "pageTitle": "Low Gas, High Steps 🌱 | Solidity Devs' Walk · Luma",
       "sha256": "f729d1022584439fd5ce6aa58ae947909ecf3267fd66c5c3544f1bbaf6134605",
       "evidence": [
         {
@@ -4553,7 +4553,7 @@
       "url": "https://luma.com/stark-space-mumbai-day-2",
       "fetchedAt": "2026-10-25T18:36:13.859Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Stark Space Mumbai | Day 2 \u00b7 Luma",
+      "pageTitle": "Stark Space Mumbai | Day 2 · Luma",
       "sha256": "59c149ebd6838685ea4ec4f35bba3f29823ef8c2ccdfb8a0ed2c971e6c07988f",
       "evidence": [
         {
@@ -4580,7 +4580,7 @@
     "city": "Mumbai",
     "country": "India",
     "location": "Location to be announced",
-    "venueName": "BKC, Mumbai \u00b7 Venue to be confirmed",
+    "venueName": "BKC, Mumbai · Venue to be confirmed",
     "hosts": [
       "DeFi Founders Club"
     ],
@@ -4618,7 +4618,7 @@
       "url": "https://luma.com/defi-69kr",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "DeFi Lunch at Devcon \u00b7 Luma",
+      "pageTitle": "DeFi Lunch at Devcon · Luma",
       "sha256": "4d339d9c7ec3055709b1246ab2e08349271738d87186bfdbba8d92e2dc6ba98a",
       "evidence": [
         {
@@ -4679,7 +4679,7 @@
       "url": "https://luma.com/kydf59j8",
       "fetchedAt": "2026-10-25T20:42:17.943Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "UNDISCLOSED : MUMBAI \u00b7 Luma",
+      "pageTitle": "UNDISCLOSED : MUMBAI · Luma",
       "sha256": "3a5f33a1a27d790fdc3b2f44e3f8574658cb7e8bcc8052258e0c1b81376f407b",
       "evidence": [
         {
@@ -4744,7 +4744,7 @@
       "url": "https://luma.com/rloppl7e",
       "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "The Allowlist \u00b7 Luma",
+      "pageTitle": "The Allowlist · Luma",
       "sha256": "8c20ccf906dbfca973f46c379a64744e6d19e3973108855c8d43e2a990e2643d",
       "evidence": [
         {
@@ -4758,7 +4758,7 @@
     }
   },
   {
-    "name": "Seed Phrases Stay Home \ud83d\udd10 | Wallet & dApp Walk",
+    "name": "Seed Phrases Stay Home 🔐 | Wallet & dApp Walk",
     "startDate": "2026-11-04T14:00:00.000Z",
     "endDate": "2026-11-04T14:45:00.000Z",
     "description": "Your wallet shouldn't require a PhD. Talk about fixing it with the people building it.\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nWallet engineers, product designers, frontend developers, dApp founders, account abstraction builders and users. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nMeet UX-minded builders, exchange product feedback and make connections beyond app demos.\n\nConversation starter, if you want one: What wallet step would you delete tomorrow?\n\n## When, where and how to find us\n\n- Date: Wednesday, 4 November 2026\n- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -4776,7 +4776,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -4808,7 +4808,7 @@
       "url": "https://luma.com/rkhah22j",
       "fetchedAt": "2026-10-25T18:36:20.703Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Seed Phrases Stay Home \ud83d\udd10 | Wallet & dApp Walk \u00b7 Luma",
+      "pageTitle": "Seed Phrases Stay Home 🔐 | Wallet & dApp Walk · Luma",
       "sha256": "dab86d639708ed968c8b74eba157b24f0172da3ee0268ed6d611c4934d642e51",
       "evidence": [
         {
@@ -4883,7 +4883,7 @@
       "url": "https://luma.com/un1ip2l2",
       "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Institutional Open Doors Mixer \u00b7 Luma",
+      "pageTitle": "Institutional Open Doors Mixer · Luma",
       "sha256": "d7b1b0163c4cf18cc60ce8531f45183d78952935881dd5abed8d4f5c9029ad9e",
       "evidence": [
         {
@@ -4897,7 +4897,7 @@
     }
   },
   {
-    "name": "Nodes Need Fresh Air Too \u2699\ufe0f | Ethereum Infra Walk",
+    "name": "Nodes Need Fresh Air Too ⚙️ | Ethereum Infra Walk",
     "startDate": "2026-11-05T01:30:00.000Z",
     "endDate": "2026-11-05T02:15:00.000Z",
     "description": "Your node can stay online without you for 45 minutes. Probably.\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nEthereum client developers, node operators, RPC teams, infra founders and L2 researchers. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nMeet the people behind invisible infrastructure, and talk about hard problems without a panel.\n\nConversation starter, if you want one: What infra issue deserves much more attention?\n\n## When, where and how to find us\n\n- Date: Thursday, 5 November 2026\n- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -4925,7 +4925,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -4957,7 +4957,7 @@
       "url": "https://luma.com/4o1mzip0",
       "fetchedAt": "2026-10-25T18:36:22.753Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Nodes Need Fresh Air Too \u2699\ufe0f | Ethereum Infra Walk \u00b7 Luma",
+      "pageTitle": "Nodes Need Fresh Air Too ⚙️ | Ethereum Infra Walk · Luma",
       "sha256": "c043ca32e519ee86ea0198b774fbe9bcdcd3a819f6a6ff9e2ae980584bc65c59",
       "evidence": [
         {
@@ -4995,7 +4995,7 @@
       "longitude": 72.8661501
     },
     "hosts": [
-      "Krzysztof Urba\u0144ski"
+      "Krzysztof Urbański"
     ],
     "price": "Free",
     "approvalRequired": true,
@@ -5026,7 +5026,7 @@
       "url": "https://luma.com/il76d51q",
       "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "L2BEAT - The Next Chapter \u00b7 Luma",
+      "pageTitle": "L2BEAT - The Next Chapter · Luma",
       "sha256": "bc3409f37acd894f21937416f4509923ef8569c87cad0e73dc41d83276e661b4",
       "evidence": [
         {
@@ -5095,7 +5095,7 @@
       "url": "https://luma.com/d6v9he6d",
       "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Devcon Coffee Exchange \u00b7 Luma",
+      "pageTitle": "Devcon Coffee Exchange · Luma",
       "sha256": "3a2515b68fdcfd4b7af713166b411a2476d2299dd2a215211dfeba5e74df568b",
       "evidence": [
         {
@@ -5112,7 +5112,7 @@
     "name": "Women's Networking",
     "startDate": "2026-11-05T12:00:00.000Z",
     "endDate": "2026-11-05T14:00:00.000Z",
-    "description": "\ud83c\udf38\u00a0WOMEN IN BLOCKCHAIN | DEVCON \u2013 MUMBAI\u00a0\ud83c\udf38\n\nWomen's Networking Evening \ud83d\udc97\n\nConnect \u2022 Share \u2022 Inspire\n\nJoin us for a fun, relaxed evening bringing women together during DevCon week in Mumbai!\n\nCome meet inspiring women from the blockchain and Web3 community, reconnect with old friends, make new connections, exchange ideas, and enjoy great conversations over drinks and delicious food.\n\nAfter panels and presentations - enjoy good vibes, interesting people, and plenty of time to mingle! \ud83e\udd42\u2728\n\n\ud83d\udcc5\u00a0Thursday, November 5, 2026\n\n\ud83d\udd60\u00a05:30 \u2013 7:30 PM\n\n\ud83d\udccd\u00a0Sant\u00e9 \u2013 Spa Cuisine\nUnit No. 6, INS Towers\nNear Trident Hotel, G Block\nBandra Kurla Complex (BKC)\nBandra East, Mumbai 400051\n\n\ud83d\udc97\u00a0Hosted by Women in Blockchain\n\nPlease RSVP \u2014 space is limited!\n\nLooking forward to seeing you! \ud83c\udf38\n\n\nAbout\u00a0Women\u00a0in\u00a0Blockchain\n\nFounded\u00a0in\u00a0New\u00a0York\u00a0City\u00a0in\u00a02016,\u00a0Women\u00a0in\u00a0Blockchain\u00a0(WiB)\u00a0was\u00a0the\u00a0first\u00a0female focused\u00a0community\u00a0in\u00a0Web3.\n\nOur\u00a0mission\u00a0is\u00a0to\u00a0connect,\u00a0empower,\u00a0and\u00a0amplify\u00a0women\u00a0across\u00a0the\u00a0blockchain\u00a0ecosystem\u00a0through\u00a0education,\u00a0collaboration,\u00a0mentorship,\u00a0and\u00a0meaningful\u00a0opportunities.\n\nOur\u00a0vision\u00a0is\u00a0a\u00a0decentralized\u00a0future\u00a0where\u00a0women\u00a0are\u00a0leaders,\u00a0builders,\u00a0investors,\u00a0and\u00a0decision-makers\u00a0-\u00a0shaping\u00a0the\u00a0technology,\u00a0communities,\u00a0and\u00a0economies\u00a0of\u00a0tomorrow.\n\nAll People One World \ud83d\udc97",
+    "description": "🌸 WOMEN IN BLOCKCHAIN | DEVCON – MUMBAI 🌸\n\nWomen's Networking Evening 💗\n\nConnect • Share • Inspire\n\nJoin us for a fun, relaxed evening bringing women together during DevCon week in Mumbai!\n\nCome meet inspiring women from the blockchain and Web3 community, reconnect with old friends, make new connections, exchange ideas, and enjoy great conversations over drinks and delicious food.\n\nAfter panels and presentations - enjoy good vibes, interesting people, and plenty of time to mingle! 🥂✨\n\n📅 Thursday, November 5, 2026\n\n🕠 5:30 – 7:30 PM\n\n📍 Santé – Spa Cuisine\nUnit No. 6, INS Towers\nNear Trident Hotel, G Block\nBandra Kurla Complex (BKC)\nBandra East, Mumbai 400051\n\n💗 Hosted by Women in Blockchain\n\nPlease RSVP — space is limited!\n\nLooking forward to seeing you! 🌸\n\nAbout Women in Blockchain\n\nFounded in New York City in 2016, Women in Blockchain (WiB) was the first female focused community in Web3.\n\nOur mission is to connect, empower, and amplify women across the blockchain ecosystem through education, collaboration, mentorship, and meaningful opportunities.\n\nOur vision is a decentralized future where women are leaders, builders, investors, and decision-makers - shaping the technology, communities, and economies of tomorrow.\n\nAll People One World 💗",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/phluxeas",
     "coverImage": "/events/womenweb3-307d9a42.webp",
@@ -5164,7 +5164,7 @@
       "url": "https://luma.com/phluxeas",
       "fetchedAt": "2026-10-25T18:36:25.628Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Women's Networking \u00b7 Luma",
+      "pageTitle": "Women's Networking · Luma",
       "sha256": "329ab3661f534590f904aa054d4863667dbb1f58ac36d7ac17d1e61ebac08389",
       "evidence": [
         {
@@ -5178,7 +5178,7 @@
     }
   },
   {
-    "name": "Onchain Execution Dinner: Deepflow \u00d7 Eureka Labs",
+    "name": "Onchain Execution Dinner: Deepflow × Eureka Labs",
     "startDate": "2026-11-05T13:30:00.000Z",
     "endDate": "2026-11-05T16:00:00.000Z",
     "description": "Deepflow and Eureka Labs host the Onchain Execution Dinner in Mumbai on Thursday, November 5, 2026, from 19:00 to 22:00 IST during Devcon week. The technical dinner convenes virtual machine architects, compiler engineers, and core protocol researchers.\n\n## What to expect\n\nThe dinner is structured around technical whiteboard discussions and peer presentations:\n- Parallel execution architectures, multi-threaded virtual machines, and optimistic concurrency control in high-throughput rollups.\n- State access optimization, flat databases, and memory-mapped state storage for sub-second block times.\n- JIT compilation, eBPF runtimes, and bytecode verification improvements for next-generation EVM and SVM environments.\n- Multi-course dining with wine and beer, providing ample time for technical debates and collaboration.\n\n## Who should attend\n\nThe dinner is curated for systems programmers, compiler engineers, virtual machine researchers, Layer 1/Layer 2 core developers, and performance optimization specialists.\n\n## Venue and schedule\n\nThe dinner takes place at an upscale private dining venue in the Bandra Kurla Complex (BKC), Mumbai, on Thursday, November 5, from 19:00 to 22:00 IST.\n\n## Registration and admission\n\nRegistration is strictly approval-based with limited seating. Applications are reviewed based on engineering background and contributions to execution layer research. Approved guests receive confirmation and venue details.",
@@ -5228,7 +5228,7 @@
       "url": "https://luma.com/defi-32af",
       "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Onchain Execution Dinner: Deepflow \u00d7 Eureka Labs \u00b7 Luma",
+      "pageTitle": "Onchain Execution Dinner: Deepflow × Eureka Labs · Luma",
       "sha256": "a6a04dd348043fbcbbc6ca3e827187a65b798c79b68669192dd72b6a1c037836",
       "evidence": [
         {
@@ -5245,7 +5245,7 @@
     "name": "Biggest CT G.A.Y Party",
     "startDate": "2026-11-05T14:00:00.000Z",
     "endDate": "2026-11-05T19:30:00.000Z",
-    "description": "## Biggest CT G.A.Y Party\n\n\n## Gather Align Yield\n\n\n## About Event\n\nOPEN FOR ALL \u2014 builders, traders, creators, and anyone active in crypto Twitter or crypto IRL.\n\nA high-signal crypto IRL meetup built for people who are not just watching CT but actively moving in it.\n\nThis is where traders meet builders, creators meet founders, and random conversations turn into real opportunities.\n\nNo boring panels. No passive listening.\nJust real people, real conversations, and real alpha in one room.\n\n\n## \ud83d\udd25 Why You Shouldn\u2019t Miss This\n\n\n\u2022 High-quality networking \u2013 Meet serious traders, builders, and Web3 operators from CT and your city\n\u2022 Real conversations, real value \u2013 Market talk, strategy sharing, project ideas, and alpha flows naturally\n\u2022 Builder x trader energy \u2013 Connect with people actively shipping, trading, and scaling in crypto\n\u2022 Opportunity zone \u2013 Collabs, partnerships, and future deals often start here\n\u2022 Unfiltered crypto talk \u2013 No scripts, no filters, just what is actually happening in the space\n\n\n## \u2728 What You\u2019ll Get\n\n\n\u2022 Exclusive IRL networking with CT-native crowd\n\u2022 Early connections with active builders and traders\n\u2022 Community-driven discussions around trends and opportunities\n\u2022 Light food, drinks and a chill environment for real conversations\n\n\n## \ud83d\udcc5 Event Details\n\n\n\u2022 \ud83d\uddd3 Date: 6th December\n\u2022 \u23f0 Time: 4 PM to 7 PM\n\u2022 \ud83d\udccd Venue: To be shared with registered attendees\n\n\n## \ud83d\ude80 Limited Spots Only\n\nThis is not a mass event. It is a curated room of people who are actually building or actively involved in crypto.\n\nIf you are early, curious, or already deep in the space, this is where you should be.\n\nReserve your spot and show up ready to connect.",
+    "description": "## Biggest CT G.A.Y Party\n\n## Gather Align Yield\n\n## About Event\n\nOPEN FOR ALL — builders, traders, creators, and anyone active in crypto Twitter or crypto IRL.\n\nA high-signal crypto IRL meetup built for people who are not just watching CT but actively moving in it.\n\nThis is where traders meet builders, creators meet founders, and random conversations turn into real opportunities.\n\nNo boring panels. No passive listening.\nJust real people, real conversations, and real alpha in one room.\n\n## 🔥 Why You Shouldn’t Miss This\n\n• High-quality networking – Meet serious traders, builders, and Web3 operators from CT and your city\n• Real conversations, real value – Market talk, strategy sharing, project ideas, and alpha flows naturally\n• Builder x trader energy – Connect with people actively shipping, trading, and scaling in crypto\n• Opportunity zone – Collabs, partnerships, and future deals often start here\n• Unfiltered crypto talk – No scripts, no filters, just what is actually happening in the space\n\n## ✨ What You’ll Get\n\n• Exclusive IRL networking with CT-native crowd\n• Early connections with active builders and traders\n• Community-driven discussions around trends and opportunities\n• Light food, drinks and a chill environment for real conversations\n\n## 📅 Event Details\n\n• 🗓 Date: 6th December\n• ⏰ Time: 4 PM to 7 PM\n• 📍 Venue: To be shared with registered attendees\n\n## 🚀 Limited Spots Only\n\nThis is not a mass event. It is a curated room of people who are actually building or actively involved in crypto.\n\nIf you are early, curious, or already deep in the space, this is where you should be.\n\nReserve your spot and show up ready to connect.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/ena53peq",
     "coverImage": "/events/ctparty-4dc03ef8.webp",
@@ -5287,7 +5287,7 @@
       "url": "https://luma.com/ena53peq",
       "fetchedAt": "2026-10-25T18:36:28.487Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Biggest CT G.A.Y Party \u00b7 Luma",
+      "pageTitle": "Biggest CT G.A.Y Party · Luma",
       "sha256": "f783dd055f5def9a320c8192ed0c83f893be5e025872aefff8e08504ddc14bab",
       "evidence": [
         {
@@ -5301,7 +5301,7 @@
     }
   },
   {
-    "name": "Zero Knowledge, Actual Friends \ud83d\udd76\ufe0f | Privacy & ZK Walk",
+    "name": "Zero Knowledge, Actual Friends 🕶️ | Privacy & ZK Walk",
     "startDate": "2026-11-05T14:00:00.000Z",
     "endDate": "2026-11-05T14:45:00.000Z",
     "description": "Zero knowledge, zero awkward pitches, and a chance to meet real people.\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nPrivacy advocates, ZK developers, cryptographers, designers and people curious about digital rights. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nMeet people making privacy usable, swap ideas and enjoy a real-world conversation.\n\nConversation starter, if you want one: Which privacy feature would your family actually use?\n\n## When, where and how to find us\n\n- Date: Thursday, 5 November 2026\n- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -5319,7 +5319,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -5351,7 +5351,7 @@
       "url": "https://luma.com/hgkcvozg",
       "fetchedAt": "2026-10-25T18:36:29.404Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Zero Knowledge, Actual Friends \ud83d\udd76\ufe0f | Privacy & ZK Walk \u00b7 Luma",
+      "pageTitle": "Zero Knowledge, Actual Friends 🕶️ | Privacy & ZK Walk · Luma",
       "sha256": "7121da8858c12ff8965bfb4b2cc3242da6b8356a164174e1227d7fd8d590a94c",
       "evidence": [
         {
@@ -5365,7 +5365,7 @@
     }
   },
   {
-    "name": "DAO Vote: Touch Grass \ud83d\uddf3\ufe0f | Governance Walk",
+    "name": "DAO Vote: Touch Grass 🗳️ | Governance Walk",
     "startDate": "2026-11-06T01:30:00.000Z",
     "endDate": "2026-11-06T02:15:00.000Z",
     "description": "No quorum. No governance forum. Just a good walk and a few new people.\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nDAO contributors, community managers, public goods builders, governance researchers and newcomers. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nTrade practical community lessons and connect with people who care about participation.\n\nConversation starter, if you want one: What community tradition kept people coming back?\n\n## When, where and how to find us\n\n- Date: Friday, 6 November 2026\n- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -5383,7 +5383,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -5415,7 +5415,7 @@
       "url": "https://luma.com/wtkth99f",
       "fetchedAt": "2026-10-25T18:36:30.317Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "DAO Vote: Touch Grass \ud83d\uddf3\ufe0f | Governance Walk \u00b7 Luma",
+      "pageTitle": "DAO Vote: Touch Grass 🗳️ | Governance Walk · Luma",
       "sha256": "57609256b86a10b123681231e881699f7a30caf526a5c8440d3b3b31120cb084",
       "evidence": [
         {
@@ -5429,7 +5429,7 @@
     }
   },
   {
-    "name": "Yield Farming? Try Step Farming \ud83e\udd7e | DeFi Users' Walk",
+    "name": "Yield Farming? Try Step Farming 🥾 | DeFi Users' Walk",
     "startDate": "2026-11-06T14:00:00.000Z",
     "endDate": "2026-11-06T14:45:00.000Z",
     "description": "Forget APY screenshots. What DeFi products do people actually love?\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nDeFi users, on-chain product builders, risk researchers, traders and interested newcomers. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nMeet people using the products you build and hear candid feedback.\n\nConversation starter, if you want one: What DeFi product would you recommend, and what's the catch?\n\n## When, where and how to find us\n\n- Date: Friday, 6 November 2026\n- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -5447,7 +5447,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -5479,7 +5479,7 @@
       "url": "https://luma.com/zmsks9jh",
       "fetchedAt": "2026-10-25T18:36:30.946Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Yield Farming? Try Step Farming \ud83e\udd7e | DeFi Users' Walk \u00b7 Luma",
+      "pageTitle": "Yield Farming? Try Step Farming 🥾 | DeFi Users' Walk · Luma",
       "sha256": "5f57dbd341458349914e29795d7673149b7d5a3d80104c1bfeba97ad882acd12",
       "evidence": [
         {
@@ -5493,7 +5493,7 @@
     }
   },
   {
-    "name": "One Last GM, Mumbai \u2600\ufe0f | Ethereum Farewell Walk",
+    "name": "One Last GM, Mumbai ☀️ | Ethereum Farewell Walk",
     "startDate": "2026-11-07T01:30:00.000Z",
     "endDate": "2026-11-07T02:15:00.000Z",
     "description": "Don't leave Mumbai with hundreds of new follows and nobody you remember.\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nEthereum developers, researchers, creators, founders, students and solo Devcon attendees. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nMake another meaningful connection before heading home and hear what others learned at Devcon.\n\nConversation starter, if you want one: What idea or person changed your week?\n\n## When, where and how to find us\n\n- Date: Saturday, 7 November 2026\n- Walk: 7:00-7:45 AM IST. Arrive by 6:50 AM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -5511,7 +5511,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -5543,7 +5543,7 @@
       "url": "https://luma.com/hqe3sz43",
       "fetchedAt": "2026-10-25T18:36:31.894Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "One Last GM, Mumbai \u2600\ufe0f | Ethereum Farewell Walk \u00b7 Luma",
+      "pageTitle": "One Last GM, Mumbai ☀️ | Ethereum Farewell Walk · Luma",
       "sha256": "57bbdb1fd7397aa9820e10a11882d20f3bce6c87e3cab97708e47ef237e9603a",
       "evidence": [
         {
@@ -5602,7 +5602,7 @@
       "url": "https://luma.com/kwi8jlpk",
       "fetchedAt": "2026-10-25T18:36:32.776Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Clear-Signing & Wallet Security @ DEVCON \u00b7 Luma",
+      "pageTitle": "Clear-Signing & Wallet Security @ DEVCON · Luma",
       "sha256": "27ae9b14c49ccf9938e655ac924e50e556ee4e5743f240ad4cd9e9c8f5d65502",
       "evidence": [
         {
@@ -5675,7 +5675,7 @@
       "url": "https://luma.com/d054y35i",
       "fetchedAt": "2026-10-25T18:36:33.499Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "YACHT RAVE { PRIVATE } \u00b7 Luma",
+      "pageTitle": "YACHT RAVE { PRIVATE } · Luma",
       "sha256": "bd8687067c2a87a7b7b36b52233ec8f647e616a85fdf002918025b41d78e8219",
       "evidence": [
         {
@@ -5689,7 +5689,7 @@
     }
   },
   {
-    "name": "Don't Ghost After Devcon \ud83d\udc7b | Farewell Waterfront Walk",
+    "name": "Don't Ghost After Devcon 👻 | Farewell Waterfront Walk",
     "startDate": "2026-11-07T14:00:00.000Z",
     "endDate": "2026-11-07T14:45:00.000Z",
     "description": "The conference ends. The conversations don't have to.\n\nOne free, easy-paced 45-minute waterfront walk where you can actually hear the person next to you. Come solo - no stage, speeches, sales pitches or forced introductions.\n\n## Who should join?\n\nDevcon builders, auditors, founders, DeFi users, creators and anyone wanting a relaxed farewell. People of all genders and experience levels are welcome.\n\n## What you'll get\n\nClose out conference week with real conversation and people worth following up with.\n\nConversation starter, if you want one: Who would you like to keep talking with after Mumbai?\n\n## When, where and how to find us\n\n- Date: Saturday, 7 November 2026\n- Walk: 7:30-8:15 PM IST. Arrive by 7:20 PM to meet the group before we move.\n- Meeting landmark: Carter Road Amphitheatre, 3 Sherly Rajan Road, Bandra West, Mumbai 400050. Use the map pin on this Luma page, not the Devcon venue.\n- Exact entrance and route: The precise side of the landmark and safe public pedestrian path will be confirmed in an event update before the walk, after local access checks. Please check your Luma updates.\n- Format: Easy walk, optional gentle jog. No fitness requirements. Bring water, comfortable shoes and a charged phone.\n\n## RSVP and ticket\n\nThis walk is FREE, and registration has no fixed attendee cap. A valid Devcon 8 ticket is required for participation. Your RSVP does not include a Devcon ticket. You only need to confirm ticket ownership in the form - never send your ticket QR code.\n\nSafety: We stay on accessible public pedestrian areas; no traffic-road running, risky shorelines or pressure to match others' pace. Weather or access checks may require a change or cancellation, communicated to registered guests through Luma.\n\nIndependently hosted by Veerendra Vamshi, founder of Proof of Audits. Not officially endorsed by Devcon or the Ethereum Foundation.",
@@ -5707,7 +5707,7 @@
     ],
     "organizer": {
       "type": "Organization",
-      "name": "Offchain Mumbai \u2014 Walks & Jogs",
+      "name": "Offchain Mumbai — Walks & Jogs",
       "url": "https://offchain-mumbai.vercel.app/"
     },
     "price": "Free",
@@ -5739,7 +5739,7 @@
       "url": "https://luma.com/odo7gaar",
       "fetchedAt": "2026-10-25T18:36:34.471Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Don't Ghost After Devcon \ud83d\udc7b | Farewell Waterfront Walk \u00b7 Luma",
+      "pageTitle": "Don't Ghost After Devcon 👻 | Farewell Waterfront Walk · Luma",
       "sha256": "34ba81a843460ec3928bb930597cbf1bdf33d800eca1319b1089269bf18ca9c7",
       "evidence": [
         {
@@ -5803,7 +5803,7 @@
       "url": "https://luma.com/frontier-traders-india",
       "fetchedAt": "2026-10-25T20:42:17.944Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Frontier Traders Mixer @ Solana Summit India \u00b7 Luma",
+      "pageTitle": "Frontier Traders Mixer @ Solana Summit India · Luma",
       "sha256": "1180b947da2884b622a7761370c4d92036e86547d027f54e03b7dc10689998a6",
       "evidence": [
         {
@@ -5819,7 +5819,7 @@
   {
     "id": "ibw-official-kast-gold-party-mumbai-11-05",
     "name": "KAST Gold Party - Mumbai",
-    "description": "KAST lands in India for the first time with the exclusive KAST Gold Party at AER & Gimlet Garden, situated on the 34th floor of the Four Seasons Hotel Mumbai on Thursday, November 5, 2026, from 20:30 IST to 01:30 IST on November 6. The rooftop gathering brings together Web3 founders, protocol builders, investors, fintech partners, and the global KAST community during India Blockchain Week and Devcon week.\n\n## What to expect\n\nSet high above Mumbai with panoramic skyline views and open-air rooftop energy, the Gold Party offers a curated, high-caliber social setting:\n- Uninterrupted skyline views across Mumbai from the 34th floor of the Four Seasons Hotel.\n- Curated guest list engineered for genuine connections, partnership discussions, and high-signal networking across fintech, stablecoins, and Web3 infrastructure.\n- Premium canap\u00e9s, free-flow crafted drinks, and bottle service running throughout the night.\n- Live DJ sets and ambient music tailored for conversation and late-night rooftop celebration.\n- An exclusive look at KAST's global payments vision, solid gold card benefits, and stablecoin account ecosystem.\n\n## Who should attend\n\nThe gathering is designed for:\n- Web3 & crypto founders, CTOs, and protocol architects in Mumbai for IBW and Devcon.\n- Venture capitalists, angel investors, family offices, and fund managers exploring consumer crypto and real-world payment infrastructure.\n- KAST community members, cardholders, and fintech operators building borderless financial products.\n- Digital nomads, international entrepreneurs, and traders utilizing stablecoin accounts and cross-border payment cards.\n\n## Venue and schedule\n\nThe party takes place at AER & Gimlet Garden, on the 34th Floor of the Four Seasons Hotel Mumbai (1/136, Dr Elijah Moses Rd, Gandhi Nagar, Upper Worli, Worli, Mumbai, Maharashtra 400018, India).\n\n- **Date:** Thursday, November 5, 2026\n- **Time:** 20:30. 01:30 IST (15:00. 20:00 UTC)\n- **Dress Code:** Smart casual / party attire\n\n## About KAST\n\nKAST is built for global-first people and businesses moving money across borders. Millions use KAST to manage finances across 170+ countries with instant USD accounts, global payouts, and cards designed to spend stablecoins seamlessly in the physical world. Whether you're building a global business or flexing your solid gold card, KAST provides money that moves as fast as you do.\n\n## Registration and admission\n\nRSVP is free on Luma and strictly subject to host approval due to rooftop venue capacity limits. Submitting an RSVP does not guarantee entry; confirmed guests will receive a confirmation QR code for entry at the door. Photography and filming will take place during the event for official community recaps.",
+    "description": "KAST lands in India for the first time with the exclusive KAST Gold Party at AER & Gimlet Garden, situated on the 34th floor of the Four Seasons Hotel Mumbai on Thursday, November 5, 2026, from 20:30 IST to 01:30 IST on November 6. The rooftop gathering brings together Web3 founders, protocol builders, investors, fintech partners, and the global KAST community during India Blockchain Week and Devcon week.\n\n## What to expect\n\nSet high above Mumbai with panoramic skyline views and open-air rooftop energy, the Gold Party offers a curated, high-caliber social setting:\n- Uninterrupted skyline views across Mumbai from the 34th floor of the Four Seasons Hotel.\n- Curated guest list engineered for genuine connections, partnership discussions, and high-signal networking across fintech, stablecoins, and Web3 infrastructure.\n- Premium canapés, free-flow crafted drinks, and bottle service running throughout the night.\n- Live DJ sets and ambient music tailored for conversation and late-night rooftop celebration.\n- An exclusive look at KAST's global payments vision, solid gold card benefits, and stablecoin account ecosystem.\n\n## Who should attend\n\nThe gathering is designed for:\n- Web3 & crypto founders, CTOs, and protocol architects in Mumbai for IBW and Devcon.\n- Venture capitalists, angel investors, family offices, and fund managers exploring consumer crypto and real-world payment infrastructure.\n- KAST community members, cardholders, and fintech operators building borderless financial products.\n- Digital nomads, international entrepreneurs, and traders utilizing stablecoin accounts and cross-border payment cards.\n\n## Venue and schedule\n\nThe party takes place at AER & Gimlet Garden, on the 34th Floor of the Four Seasons Hotel Mumbai (1/136, Dr Elijah Moses Rd, Gandhi Nagar, Upper Worli, Worli, Mumbai, Maharashtra 400018, India).\n\n- **Date:** Thursday, November 5, 2026\n- **Time:** 20:30. 01:30 IST (15:00. 20:00 UTC)\n- **Dress Code:** Smart casual / party attire\n\n## About KAST\n\nKAST is built for global-first people and businesses moving money across borders. Millions use KAST to manage finances across 170+ countries with instant USD accounts, global payouts, and cards designed to spend stablecoins seamlessly in the physical world. Whether you're building a global business or flexing your solid gold card, KAST provides money that moves as fast as you do.\n\n## Registration and admission\n\nRSVP is free on Luma and strictly subject to host approval due to rooftop venue capacity limits. Submitting an RSVP does not guarantee entry; confirmed guests will receive a confirmation QR code for entry at the door. Photography and filming will take place during the event for official community recaps.",
     "startDate": "2026-11-05T15:00:00.000Z",
     "endDate": "2026-11-05T20:00:00.000Z",
     "city": "Mumbai",
@@ -5868,7 +5868,7 @@
       "url": "https://luma.com/kastxyz-mumbai",
       "fetchedAt": "2026-10-26T10:05:00.000Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "KAST Gold Party - Mumbai \u00b7 Luma",
+      "pageTitle": "KAST Gold Party - Mumbai · Luma",
       "sha256": "f4e2c99ba6a8b03b672ac2fe3f8ee0183383bcdde0e0403d04861e8332547fa9",
       "evidence": [
         {
@@ -5930,7 +5930,7 @@
       "url": "https://luma.com/z10bdk0l",
       "fetchedAt": "2026-10-27T12:38:19.973Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Money in Motion : The Future of Cross-Border Payments \u00b7 Luma",
+      "pageTitle": "Money in Motion : The Future of Cross-Border Payments · Luma",
       "sha256": "2db29d3b6e1a29cf207c5d7d9513443d2e1154ea2e682d6e9138919abe7e904d",
       "evidence": [
         {
@@ -5995,7 +5995,7 @@
       "url": "https://luma.com/pav-bhaji",
       "fetchedAt": "2026-10-27T12:38:22.073Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Achija Pav Bhaji Meetup \u00b7 Luma",
+      "pageTitle": "Achija Pav Bhaji Meetup · Luma",
       "sha256": "d856e9efa477b89f40aa65ceeff6aac2a1f547fe6bf41d25510dccb2f8043e35",
       "evidence": [
         {
@@ -6074,7 +6074,7 @@
       "url": "https://luma.com/qe2dcey1",
       "fetchedAt": "2026-10-27T12:38:29.652Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "The Payments Night Mumbai | Mixer \u00b7 Luma",
+      "pageTitle": "The Payments Night Mumbai | Mixer · Luma",
       "sha256": "7b0469dbbd374d1ac92841cb5a939778657987731233ebe294d4ed64c6fc07f2",
       "evidence": [
         {
@@ -6091,7 +6091,7 @@
     "name": "ZECsy at ETH Cypherpunk Congress #3",
     "startDate": "2026-11-02T04:30:00.000Z",
     "endDate": "2026-11-02T13:30:00.000Z",
-    "description": "The ZECsy team will be wandering inside of Web3Privacy Now's Ethereum Cypherpunk Congress #3.\n\nLooking for a zcash rep? We'll be roaming in Zcash shirts, stop us and say hello. We'll be there doing hands-on Zcash onboarding. Bring your phone and we'll get you set up with a shielded wallet in a few minutes, no prior crypto experience needed. We're also happy to go deep on the parts nobody explains well: how to get in and out of ZEC, what on-ramps and off-ramps actually look like in practice, where the friction is, and what shielded transactions do and don't hide.\n\nSee all our events at: ZECsy.com\n\nNote: We will be inside a main event. Register here: \n\nSee Web3Privacy Now's main site: ",
+    "description": "The ZECsy team will be wandering inside of Web3Privacy Now's Ethereum Cypherpunk Congress #3.\n\nLooking for a zcash rep? We'll be roaming in Zcash shirts, stop us and say hello. We'll be there doing hands-on Zcash onboarding. Bring your phone and we'll get you set up with a shielded wallet in a few minutes, no prior crypto experience needed. We're also happy to go deep on the parts nobody explains well: how to get in and out of ZEC, what on-ramps and off-ramps actually look like in practice, where the friction is, and what shielded transactions do and don't hide.\n\nSee all our events at: ZECsy.com\n\nNote: We will be inside a main event. Register here: \n\nSee Web3Privacy Now's main site:",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/ze1j2zv0",
     "coverImage": "/events/zecsycypherpunk-8612b8a4.webp",
@@ -6148,7 +6148,7 @@
       "url": "https://luma.com/ze1j2zv0",
       "fetchedAt": "2026-10-27T12:38:57.757Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "ZECsy at ETH Cypherpunk Congress #3 \u00b7 Luma",
+      "pageTitle": "ZECsy at ETH Cypherpunk Congress #3 · Luma",
       "sha256": "208fb6daf391cec771ed88cd99f6be838f8bc891ff679d5d19e03e7f632c37c4",
       "evidence": [
         {
@@ -6165,7 +6165,7 @@
     "name": "House of HYPE: Hyperliquid India x Bitget Wallet",
     "startDate": "2026-11-03T12:30:00.000Z",
     "endDate": "2026-11-03T16:30:00.000Z",
-    "description": "House of HYPE is the most liquid gathering in town, bringing Hyperliquid to Mumbai.\n\nMeet a room full of traders, builders, founders, and people you've probably argued with on CT.\n\nWhat to expect?\n\n- 1:1 conversations with our ecosystem partners.\n- Trading discussions, new connections, and familiar faces from CT.\n- A few mini-games to keep things interesting.\n- Non-alcoholic drinks in a relaxed caf\u00e9-bar setting.\n- An upstairs space to unwind if you're not in the mood to socialize.\n\nWe've no panels, presentations, or packed agendas. We just want you to make great conversations and new connections beyond the trading screens.\n\n## Hosts & Partners\n\nAbout Hyperliquid India: Hyperliquid India is an independent community dedicated to growing the Hyperliquid ecosystem in India through community engagement, educational initiatives, and in-person events.\n\nAbout Bitget Wallet: Bitget Wallet is a non-custodial cryptocurrency wallet offering integrated access to onchain trading, token swaps, decentralized applications, and multi-chain asset management.\n\nAbout Strat: Strat is a full-stack prop trading protocol and perpetual exchange, offering traders access to funded accounts with a 90% profit share, one of the most competitive rates in the industry. With flexible trading rules, up to 100x leverage, and instant onchain payouts, Strat makes prop trading more accessible and trader-friendly.\n\nAbout ENS: Ethereum Name Service (ENS) is a decentralized naming protocol that enables human-readable blockchain identities, simplifying wallet addresses and interactions across Web3.\n\nAbout Redstone: RedStone is the data layer for institutional DeFi, delivering secure, low-latency price feeds for digital assets, RWAs, stablecoins, LSTs, LRTs, and Bitcoin LSTs. Trusted by 200+ clients, including Securitize, Morpho, Pendle, Spark, Ether.fi, Ethena, Entropy, and Hyperlend. RedStone powers lending, stablecoins, perpetuals, and tokenized asset markets with a custom pricing infrastructure built for complex onchain systems.\n\nAbout Cointelegraph India: Official India arm of Cointelegraph. Your trusted source for crypto news, market intelligence and Web3 insights in India.\n\nEntry is by approved RSVP only, and no +1s will be allowed.\n\nSee you at the House of HYPE.\n\nFor sponsorship/partnership enquiries, reach out to @ninja_writer21 on Telegram",
+    "description": "House of HYPE is the most liquid gathering in town, bringing Hyperliquid to Mumbai.\n\nMeet a room full of traders, builders, founders, and people you've probably argued with on CT.\n\nWhat to expect?\n\n- 1:1 conversations with our ecosystem partners.\n- Trading discussions, new connections, and familiar faces from CT.\n- A few mini-games to keep things interesting.\n- Non-alcoholic drinks in a relaxed café-bar setting.\n- An upstairs space to unwind if you're not in the mood to socialize.\n\nWe've no panels, presentations, or packed agendas. We just want you to make great conversations and new connections beyond the trading screens.\n\n## Hosts & Partners\n\nAbout Hyperliquid India: Hyperliquid India is an independent community dedicated to growing the Hyperliquid ecosystem in India through community engagement, educational initiatives, and in-person events.\n\nAbout Bitget Wallet: Bitget Wallet is a non-custodial cryptocurrency wallet offering integrated access to onchain trading, token swaps, decentralized applications, and multi-chain asset management.\n\nAbout Strat: Strat is a full-stack prop trading protocol and perpetual exchange, offering traders access to funded accounts with a 90% profit share, one of the most competitive rates in the industry. With flexible trading rules, up to 100x leverage, and instant onchain payouts, Strat makes prop trading more accessible and trader-friendly.\n\nAbout ENS: Ethereum Name Service (ENS) is a decentralized naming protocol that enables human-readable blockchain identities, simplifying wallet addresses and interactions across Web3.\n\nAbout Redstone: RedStone is the data layer for institutional DeFi, delivering secure, low-latency price feeds for digital assets, RWAs, stablecoins, LSTs, LRTs, and Bitcoin LSTs. Trusted by 200+ clients, including Securitize, Morpho, Pendle, Spark, Ether.fi, Ethena, Entropy, and Hyperlend. RedStone powers lending, stablecoins, perpetuals, and tokenized asset markets with a custom pricing infrastructure built for complex onchain systems.\n\nAbout Cointelegraph India: Official India arm of Cointelegraph. Your trusted source for crypto news, market intelligence and Web3 insights in India.\n\nEntry is by approved RSVP only, and no +1s will be allowed.\n\nSee you at the House of HYPE.\n\nFor sponsorship/partnership enquiries, reach out to @ninja_writer21 on Telegram",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/x6m1zvfh",
     "coverImage": "/events/houseofhype-94f83589.webp",
@@ -6211,7 +6211,7 @@
       "url": "https://luma.com/x6m1zvfh",
       "fetchedAt": "2026-10-27T12:39:07.224Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "House of HYPE by Hyperliquid India x Bitget Wallet \u00b7 Luma",
+      "pageTitle": "House of HYPE by Hyperliquid India x Bitget Wallet · Luma",
       "sha256": "99577c17ebe0fe39d93a13a6461ee01defb1be8df2825d535f262c2d75880444",
       "evidence": [
         {
@@ -6287,7 +6287,7 @@
       "url": "https://luma.com/iaoyiiv7",
       "fetchedAt": "2026-10-27T12:39:15.445Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "ZECsy at Devcon 8 \u00b7 Luma",
+      "pageTitle": "ZECsy at Devcon 8 · Luma",
       "sha256": "f71e680363296b37d0a0d80675c13c120b57786d6b6d3ca0f3200209dc9d3fe8",
       "evidence": [
         {
@@ -6304,7 +6304,7 @@
     "name": "Family Offices Investors Summit: Michelin Dinners Mumbai",
     "startDate": "2026-11-03T09:30:00.000Z",
     "endDate": "2026-11-06T15:30:00.000Z",
-    "description": "## \ud83c\uddee\ud83c\uddf3Family Offices Investors Summit \ud83e\udd42\ud83d\udd6fMichelin\u2011Dinners\ud83d\udccdMumbai \ud83d\udccdNov 3-6 #Devcon\ud83c\uddee\ud83c\uddf3\n\nFOIS Global Roadshow Calendar:\n New York \ud83c\uddf5\ud83c\uddf9 Lisbon \ud83c\uddfa\ud83c\uddf8 New York\ud83c\uddf5\ud83c\uddf9 Lisbon\ud83c\uddef\ud83c\uddf5 Tokyo\ud83c\uddf0\ud83c\uddf7 Seoul \ud83c\uddfa\ud83c\uddf8 San Francisco\ud83c\uddf8\ud83c\uddecSingapore \ud83c\uddfa\ud83c\uddf8 Los Angeles \ud83c\uddee\ud83c\uddf3Mumbai \ud83c\uddf5\ud83c\uddf9 Lisbon \ud83c\uddfa\ud83c\uddf8 Miami \ud83c\udde6\ud83c\uddea Abu Dhabi \ud83c\udde8\ud83c\uddedDavos\ud83c\uddfa\ud83c\uddf8\n\n\ud83c\udf9f\ufe0f Tickets: Free for funds < $100M AUM | General Admission: $250 \n\n\ud83d\udce9 \ud83d\udcdeEmail: rsvp@familyofficesinvestorssummit.com\n\n\ud83d\udc65 Attendee Guest List \n\nThemes & Dialogues\n\u2013 AI x Capital Formation x IP x Tokens\n\u2013 Digital Sovereignty & Green Capital\n\u2013 Alternative Capital, Stablecoins & DeSci\n\u2013 M&A + Next-Gen Portfolio Construction\n\u2013 Gen Z Wealth & Power Tools (FrankEinstein AI Agent)\n\u2013 Family Office Labs & Thesis-First Funds\n\u2013 Michelin Brunch-Dinner Experience (12-30 guests only)\n\nFull calendar: lu.ma/foi\n\nFeatured Investors Include: Andreessen Horowitz (a16z), 1AM Gaming, 280 Capital, 360 Social Ventures, 500 Emerging Europe, 500 Global, 7BC Ventures, 8-Bit Capital, 8020, AIAC Family Office, Acequia Capital, Achebe Capital, Acorn Pacific Ventures, Active Impact Investments, Advaita Capital, Advance Venture Partners, Aero X Ventures, AiiM Partners, Alibaba, Aligned Climate Capital, Alpha Partners, Alpha Partners Pritzker Group, Alpha Trend Capital FO, Alto Partners, Amino Capital, Amplify, Antler, Arc Ventures, Auset Ventures, Avedissian Investment Partners, B Capital, BASF Venture Capital, BGVArka, Bachmanity Capital, Bank of America, Bankless VC, Beckett Industries, Berkeley SkyDeck Fund, BlackPines Capital Partners, Blackwing Ventures, Bloomberg Beta, Blue Nexus Ventures, Borex Capital, Bosch Ventures, Bow Capital, Bracket Capital, Brick & Mortar Ventures, Bridgex Ventures, Yildiz Family Office, Brookfield Growth, BuildGroup, Bullpen Capital, CLNM Capital, Cannage Capital, Canvas Ventures, Carbide Ventures, Cartography Capital, Catalyze Capital, China Bridge Capital, China Bridge Capital & NextG Tech Limited, Colibri Equity Ventures, Collab+Currency, Colle Capital, Collide Capital, Com2uS CRIT Ventures, Coolwater Capital, Cooper Family Office, Core Family Office, Core Innovation Capital, Courtside Ventures, Cratus Asset Management, Crossbeam VC, Crossover VC, Cystic Fibrosis Foundation, DART Ventures, DG Daiwa Ventures, Darwin Ventures, Decisive Point, Deel, Diagram, Dispersion Capital, DraperU Ventures, ELK Development, East Sunshine Ventures, Egis Capital Partners, Elevate Wellness, Elliott Management, Enlightened Hospitality Investments, Epakon Capital, Epic Funds, Everybody Ventures, Expert DOJO, FMZ Ventures, Fabric VC, Failup Ventures, Fear of Pasta, Fellows Fund, Ferment, Fingaroo, Fintex & Partners Italia, Fitch Ventures, Fluent Ventures, Flyer One Venture, Fontinalis, Foresight Ventures, Fortitude Capital, Forum Ventures, Fremont Group, Future Planet Capital, FutureX Capital, GPN Investment, GV (formerly Google Ventures), Galaxy Interactive, Griffin Gaming Partners, Hartmann Capital, HashKey Capital, Hico Ventures, IA Capital Group, IASV Seed Ventures, IDC Ventures, Impulsum Ventures, Inicio Ventures, Innovent Capital, Interlock Partners, Ion Pacific, Istari Ventures, J17 Capital, JetBlue Ventures, Javelin Venture Partners, K50 Ventures, Kain Capital, Kavantsaari Capital, Kenetic, Khosla Ventures, Kineo Finance, Kismet Ventures, Kli Capital, Kuma Capital, Kyber Knight Capital, Lauren Edwards Private Equity Group, Lockheed Martin Ventures, Lumia Capital, Lux Capital, MAGIC Fund, Mantis VC, MarketX Ventures, Matador Capital | DSCVR, Merrill Lynch Wealth Management, Micron Ventures, Mirae Asset Global, Mobius Ventures, Mofo Capital, Morpheus Ventures, Muivona Capital, Myriad Venture Partners, NASDAQ Private Market, Nathan Family Office, Nationwide Investment Group, New York Life Ventures, Nomadic Ventures, Nomad Ventures, Nour Capital, OC GPN CLUB, OK Capital, Offline Ventures, Outlander VC, PERSEA Ventures, Pacific Alliance Ventures of Shinsegae Emart Group, Pangaea Ventures, Paperstack Capital, Plum Alley Ventures Company, Plug and Play, Point72 Ventures, Post Urban Ventures, Practical VC, Primary Venture Partners, Primer Sazze, Primitiva Global, Private VC, Propy Inc. & NextTech Ventures (CSO), Prosperity7 Ventures, Protocol VC, R42, Radian Investment Management, Rakuten Ventures, Recharge Capital, Red Beard Ventures, Reflex Capital SE, Rethink Capital Partners, Rina Capital, Robo Global, Rocketship VC, Roosh.tech, SMB Investments Streetlife Ventures, SaaS Wealth Fund, Samsung Ventures, Sandbox, Sandbox Studios, Scope Ventures, Scrum Ventures, Shakti Capital, Shorewind Capital, Side Door Ventures, Singularity Capital, SmartGateVC, Software Growth Partners, Sonen Capital, Sony Ventures, Space Capital, Spatial Capital, Streetlife Ventures, Summit LP, Superstate, Syon Capital, TIRTA Ventures, TJC, TLS Dubai, TPG, Techstars, TenSquared Capital, Tencent, Tencent Games, Testnet, The Artemis Fund, Third Point Ventures, Tilden Capital Family Office, Touchdown Ventures, Transform Capital, Translink Capital, Tribe Capital, Tru Arrow Partners, Turan & Everle FO, UBS, Ulu Ventures, United Nations, VDOSH Ventures, VU Venture Fund, Valia Ventures, Verlinvest, Vesta Ventures, Vinthera, Void Venture Capital, Wadson Ventures, Walden Catalyst Ventures, Wells Fargo, Wilshire Lane Capital, Zahren Capital, aVenture, Alto Partners, and many more.",
+    "description": "## 🇮🇳Family Offices Investors Summit 🥂🕯Michelin‑Dinners📍Mumbai 📍Nov 3-6 #Devcon🇮🇳\n\nFOIS Global Roadshow Calendar:\n New York 🇵🇹 Lisbon 🇺🇸 New York🇵🇹 Lisbon🇯🇵 Tokyo🇰🇷 Seoul 🇺🇸 San Francisco🇸🇬Singapore 🇺🇸 Los Angeles 🇮🇳Mumbai 🇵🇹 Lisbon 🇺🇸 Miami 🇦🇪 Abu Dhabi 🇨🇭Davos🇺🇸\n\n🎟️ Tickets: Free for funds < $100M AUM | General Admission: $250 \n\n📩 📞Email: rsvp@familyofficesinvestorssummit.com\n\n👥 Attendee Guest List \n\nThemes & Dialogues\n– AI x Capital Formation x IP x Tokens\n– Digital Sovereignty & Green Capital\n– Alternative Capital, Stablecoins & DeSci\n– M&A + Next-Gen Portfolio Construction\n– Gen Z Wealth & Power Tools (FrankEinstein AI Agent)\n– Family Office Labs & Thesis-First Funds\n– Michelin Brunch-Dinner Experience (12-30 guests only)\n\nFull calendar: lu.ma/foi\n\nFeatured Investors Include: Andreessen Horowitz (a16z), 1AM Gaming, 280 Capital, 360 Social Ventures, 500 Emerging Europe, 500 Global, 7BC Ventures, 8-Bit Capital, 8020, AIAC Family Office, Acequia Capital, Achebe Capital, Acorn Pacific Ventures, Active Impact Investments, Advaita Capital, Advance Venture Partners, Aero X Ventures, AiiM Partners, Alibaba, Aligned Climate Capital, Alpha Partners, Alpha Partners Pritzker Group, Alpha Trend Capital FO, Alto Partners, Amino Capital, Amplify, Antler, Arc Ventures, Auset Ventures, Avedissian Investment Partners, B Capital, BASF Venture Capital, BGVArka, Bachmanity Capital, Bank of America, Bankless VC, Beckett Industries, Berkeley SkyDeck Fund, BlackPines Capital Partners, Blackwing Ventures, Bloomberg Beta, Blue Nexus Ventures, Borex Capital, Bosch Ventures, Bow Capital, Bracket Capital, Brick & Mortar Ventures, Bridgex Ventures, Yildiz Family Office, Brookfield Growth, BuildGroup, Bullpen Capital, CLNM Capital, Cannage Capital, Canvas Ventures, Carbide Ventures, Cartography Capital, Catalyze Capital, China Bridge Capital, China Bridge Capital & NextG Tech Limited, Colibri Equity Ventures, Collab+Currency, Colle Capital, Collide Capital, Com2uS CRIT Ventures, Coolwater Capital, Cooper Family Office, Core Family Office, Core Innovation Capital, Courtside Ventures, Cratus Asset Management, Crossbeam VC, Crossover VC, Cystic Fibrosis Foundation, DART Ventures, DG Daiwa Ventures, Darwin Ventures, Decisive Point, Deel, Diagram, Dispersion Capital, DraperU Ventures, ELK Development, East Sunshine Ventures, Egis Capital Partners, Elevate Wellness, Elliott Management, Enlightened Hospitality Investments, Epakon Capital, Epic Funds, Everybody Ventures, Expert DOJO, FMZ Ventures, Fabric VC, Failup Ventures, Fear of Pasta, Fellows Fund, Ferment, Fingaroo, Fintex & Partners Italia, Fitch Ventures, Fluent Ventures, Flyer One Venture, Fontinalis, Foresight Ventures, Fortitude Capital, Forum Ventures, Fremont Group, Future Planet Capital, FutureX Capital, GPN Investment, GV (formerly Google Ventures), Galaxy Interactive, Griffin Gaming Partners, Hartmann Capital, HashKey Capital, Hico Ventures, IA Capital Group, IASV Seed Ventures, IDC Ventures, Impulsum Ventures, Inicio Ventures, Innovent Capital, Interlock Partners, Ion Pacific, Istari Ventures, J17 Capital, JetBlue Ventures, Javelin Venture Partners, K50 Ventures, Kain Capital, Kavantsaari Capital, Kenetic, Khosla Ventures, Kineo Finance, Kismet Ventures, Kli Capital, Kuma Capital, Kyber Knight Capital, Lauren Edwards Private Equity Group, Lockheed Martin Ventures, Lumia Capital, Lux Capital, MAGIC Fund, Mantis VC, MarketX Ventures, Matador Capital | DSCVR, Merrill Lynch Wealth Management, Micron Ventures, Mirae Asset Global, Mobius Ventures, Mofo Capital, Morpheus Ventures, Muivona Capital, Myriad Venture Partners, NASDAQ Private Market, Nathan Family Office, Nationwide Investment Group, New York Life Ventures, Nomadic Ventures, Nomad Ventures, Nour Capital, OC GPN CLUB, OK Capital, Offline Ventures, Outlander VC, PERSEA Ventures, Pacific Alliance Ventures of Shinsegae Emart Group, Pangaea Ventures, Paperstack Capital, Plum Alley Ventures Company, Plug and Play, Point72 Ventures, Post Urban Ventures, Practical VC, Primary Venture Partners, Primer Sazze, Primitiva Global, Private VC, Propy Inc. & NextTech Ventures (CSO), Prosperity7 Ventures, Protocol VC, R42, Radian Investment Management, Rakuten Ventures, Recharge Capital, Red Beard Ventures, Reflex Capital SE, Rethink Capital Partners, Rina Capital, Robo Global, Rocketship VC, Roosh.tech, SMB Investments Streetlife Ventures, SaaS Wealth Fund, Samsung Ventures, Sandbox, Sandbox Studios, Scope Ventures, Scrum Ventures, Shakti Capital, Shorewind Capital, Side Door Ventures, Singularity Capital, SmartGateVC, Software Growth Partners, Sonen Capital, Sony Ventures, Space Capital, Spatial Capital, Streetlife Ventures, Summit LP, Superstate, Syon Capital, TIRTA Ventures, TJC, TLS Dubai, TPG, Techstars, TenSquared Capital, Tencent, Tencent Games, Testnet, The Artemis Fund, Third Point Ventures, Tilden Capital Family Office, Touchdown Ventures, Transform Capital, Translink Capital, Tribe Capital, Tru Arrow Partners, Turan & Everle FO, UBS, Ulu Ventures, United Nations, VDOSH Ventures, VU Venture Fund, Valia Ventures, Verlinvest, Vesta Ventures, Vinthera, Void Venture Capital, Wadson Ventures, Walden Catalyst Ventures, Wells Fargo, Wilshire Lane Capital, Zahren Capital, aVenture, Alto Partners, and many more.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/FOIS_Mumbai",
     "coverImage": "/events/familyoffices-0e4a97d3.webp",
@@ -6323,7 +6323,7 @@
       "longitude": 72.8319514
     },
     "hosts": [
-      "\ud83d\udc93\ud835\udd92\ud835\udd86\ud835\udd93\ud835\udd86\ud835\udd93\ud835\udd86 fois.fyi \ud83d\udd1c xShares",
+      "💓𝖒𝖆𝖓𝖆𝖓𝖆 fois.fyi 🔜 xShares",
       "Perps Capital",
       "familyofficesinvestorssummit.com",
       "X Shares"
@@ -6397,7 +6397,7 @@
       "url": "https://luma.com/FOIS_Mumbai",
       "fetchedAt": "2026-10-27T12:39:18.428Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "\ud83c\uddee\ud83c\uddf3Family Offices Investors Summit \ud83e\udd42\ud83d\udd6fMichelin\u2011Dinners\ud83d\udccdMumbai \ud83d\udccdNov 3-6 #Devcon\ud83c\uddee\ud83c\uddf3 \u00b7 Luma",
+      "pageTitle": "🇮🇳Family Offices Investors Summit 🥂🕯Michelin‑Dinners📍Mumbai 📍Nov 3-6 #Devcon🇮🇳 · Luma",
       "sha256": "8275a84fd416cdc77556ec28a47d360bd6f24028fce2e090a56789ab668434cb",
       "evidence": [
         {
@@ -6414,7 +6414,7 @@
     "name": "Practical Privacy Day at Devcon Mumbai",
     "startDate": "2026-11-05T04:00:00.000Z",
     "endDate": "2026-11-05T12:00:00.000Z",
-    "description": "IMPORTANT: Access to the hub is only for Devcon ticket holders. Get yours here.\n\nPrivacy gives you the freedom to act on your own terms.\n\nJoin us at the Practical Privacy Day to meet the builders working on privacy across Ethereum and beyond, and learn how you can take more control over your data.\n\nYou'll hear how teams are bringing privacy to Ethereum's L1 and explore different approaches to privacy-centric L2s. See open-source hardware wallets in action and learn how to prepare for a post-quantum future. We'll explore practical tools you can use day-to-day, from VPNs, AI tools that respect your data, to open-source alternatives.\n\nThe day is designed for anyone and everyone interested in on and offchain privacy solutions. No technical knowledge required.\n\nSchedule\n\n10:00 - 10:30 | Privacy 101: What is Privacy and Why Should You Care | Kyle (Brave) 10:40 - 11:30 | Achieving Privacy on Ethereum L1 | Mike (Privacy Pools), Kieran (Railgun), Gavin (Armada), Migle (zERC20) 11:40 - 12:10 | Open-source hardware wallets with Keycard | Devisha (Keycard) 12:30 - 13:30 | Lunch Break 13:30 - 14:20 | Privacy L2s: Different Methodologies to Achieve Privacy | Zac (Aztec), Leona (INTMAX), and Dominik (Miden) 14:30 - 15:00 | Utilising AI Agents to Analyse Genomic Data in a Privacy Preserving Manner | P\u00e9ter (Dark Bio) 15:00 - 15:30 | Afternoon Tea Break 15:30 - 15:50 | Privacy x AI: Achieving privacy in the age of AI agents | Jseam 16:00 - 16:20 | Privacy and Hardware Wallets in a Post-Quantum World | Markus and Nicola (FreedomFactory) 16:30 - 16:50 | Decentralise your life: a practical talk on FOSS tools for everyday privacy | Ben, Vaelyn (ETHPanda)\n\nPractical Privacy Day is part of the Devcon Privacy Community Hub aimed at bringing privacy to everyone. Four awesome days filled with amazing speakers talking about the future of privacy - follow the hub page for more info about other days: \n\nNote: The Privacy Hub is part of the Devcon 8 Community Hubs and is only accessible to Devcon 8 ticket holders. A valid Devcon ticket is required to enter.",
+    "description": "IMPORTANT: Access to the hub is only for Devcon ticket holders. Get yours here.\n\nPrivacy gives you the freedom to act on your own terms.\n\nJoin us at the Practical Privacy Day to meet the builders working on privacy across Ethereum and beyond, and learn how you can take more control over your data.\n\nYou'll hear how teams are bringing privacy to Ethereum's L1 and explore different approaches to privacy-centric L2s. See open-source hardware wallets in action and learn how to prepare for a post-quantum future. We'll explore practical tools you can use day-to-day, from VPNs, AI tools that respect your data, to open-source alternatives.\n\nThe day is designed for anyone and everyone interested in on and offchain privacy solutions. No technical knowledge required.\n\nSchedule\n\n10:00 - 10:30 | Privacy 101: What is Privacy and Why Should You Care | Kyle (Brave) 10:40 - 11:30 | Achieving Privacy on Ethereum L1 | Mike (Privacy Pools), Kieran (Railgun), Gavin (Armada), Migle (zERC20) 11:40 - 12:10 | Open-source hardware wallets with Keycard | Devisha (Keycard) 12:30 - 13:30 | Lunch Break 13:30 - 14:20 | Privacy L2s: Different Methodologies to Achieve Privacy | Zac (Aztec), Leona (INTMAX), and Dominik (Miden) 14:30 - 15:00 | Utilising AI Agents to Analyse Genomic Data in a Privacy Preserving Manner | Péter (Dark Bio) 15:00 - 15:30 | Afternoon Tea Break 15:30 - 15:50 | Privacy x AI: Achieving privacy in the age of AI agents | Jseam 16:00 - 16:20 | Privacy and Hardware Wallets in a Post-Quantum World | Markus and Nicola (FreedomFactory) 16:30 - 16:50 | Decentralise your life: a practical talk on FOSS tools for everyday privacy | Ben, Vaelyn (ETHPanda)\n\nPractical Privacy Day is part of the Devcon Privacy Community Hub aimed at bringing privacy to everyone. Four awesome days filled with amazing speakers talking about the future of privacy - follow the hub page for more info about other days: \n\nNote: The Privacy Hub is part of the Devcon 8 Community Hubs and is only accessible to Devcon 8 ticket holders. A valid Devcon ticket is required to enter.",
     "timezone": "Asia/Kolkata",
     "registrationUrl": "https://luma.com/h6e3ctg6",
     "coverImage": "/events/practicalprivacy-a49b06ca.webp",
@@ -6436,7 +6436,7 @@
     },
     "hosts": [
       "Vaelyn Luo",
-      "Lukas \u27e0",
+      "Lukas ⟠",
       "Ben"
     ],
     "price": "Free",
@@ -6468,7 +6468,7 @@
       "url": "https://luma.com/h6e3ctg6",
       "fetchedAt": "2026-10-27T12:39:52.101Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Practical Privacy Day @ Devcon Mumbai \u00b7 Luma",
+      "pageTitle": "Practical Privacy Day @ Devcon Mumbai · Luma",
       "sha256": "1c38cc6f6e68eb3ba5d5d15377bff5d00ee2cfae176e8c52b4922cd9a8f7dc13",
       "evidence": [
         {
@@ -6485,7 +6485,7 @@
     "name": "Zcash Educational Forum & University Mixer",
     "startDate": "2026-11-05T15:00:00.000Z",
     "endDate": "2026-11-05T17:30:00.000Z",
-    "description": "Join Zcash in India during Devcon 8 \ud83c\uddee\ud83c\uddf3\n\nWe will be hosting a dedicated morning featuring 2 educational sessions:\n\n- Introduction to Zcash- the mechanics behind ZEC, what powers privacy onchain and a look into the shielded ecosystem,\n- Opportunities within the Zcash ecosystem- from community building to developer grants and more!\n\nMeet the Zcash India team as well as active grant recipients, privacy advocates and educators and developers.\n\nThe 2 sessions will be followed up by lunch and refreshments as well as custom Zcash India merch to celebrate Devcon 8 and giveaways\n\nHope to see you there!",
+    "description": "Join Zcash in India during Devcon 8 🇮🇳\n\nWe will be hosting a dedicated morning featuring 2 educational sessions:\n\n- Introduction to Zcash- the mechanics behind ZEC, what powers privacy onchain and a look into the shielded ecosystem,\n- Opportunities within the Zcash ecosystem- from community building to developer grants and more!\n\nMeet the Zcash India team as well as active grant recipients, privacy advocates and educators and developers.\n\nThe 2 sessions will be followed up by lunch and refreshments as well as custom Zcash India merch to celebrate Devcon 8 and giveaways\n\nHope to see you there!",
     "timezone": "America/New_York",
     "registrationUrl": "https://luma.com/3fid49nj",
     "coverImage": "/events/zcashforum-37663d84.webp",
@@ -6495,7 +6495,7 @@
     "city": "Mumbai",
     "country": "India",
     "location": "Location to be announced",
-    "venueName": "Pillai HOC College of Engineering & Technology (Autonomous) \u092a\u093f\u0932\u094d\u0932\u0908 \u090f\u091a \u0913 \u0938\u0940 \u0905\u092d\u093f\u092f\u093e\u0902\u0924\u094d\u0930\u093f\u0915\u0940 \u0906\u0923\u093f \u0924\u0902\u0924\u094d\u0930\u091c\u094d\u091e\u093e\u0928 \u092e\u0939\u093e\u0935\u093f\u0926\u094d\u092f\u093e\u0932\u092f, \u0930\u0938\u093e\u092f\u0928\u0940",
+    "venueName": "Pillai HOC College of Engineering & Technology (Autonomous) पिल्लई एच ओ सी अभियांत्रिकी आणि तंत्रज्ञान महाविद्यालय, रसायनी",
     "hosts": [
       "Kate Stapleton",
       "Mylo Bennett",
@@ -6535,7 +6535,7 @@
       "url": "https://luma.com/3fid49nj",
       "fetchedAt": "2026-10-27T12:39:54.191Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Zcash Educational Forum & University Mixer \u00b7 Luma",
+      "pageTitle": "Zcash Educational Forum & University Mixer · Luma",
       "sha256": "807fa2cb7f66bd8b285a3fb8a8dc133ff38ebc7d6b312781419496ef9ba551cb",
       "evidence": [
         {
@@ -6603,7 +6603,7 @@
       "url": "https://luma.com/i4bpbsxn",
       "fetchedAt": "2026-10-27T12:39:56.403Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "The India house \u00b7 Luma",
+      "pageTitle": "The India house · Luma",
       "sha256": "2453537e0bc38883eda279f117699607a3755b5e3e41690f8dae41b8f0ec6e36",
       "evidence": [
         {
@@ -6667,7 +6667,7 @@
       "url": "https://luma.com/air2o40t",
       "fetchedAt": "2026-10-31T10:37:02.520Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "HyperCup by Hyperliquid India \u00b7 Luma",
+      "pageTitle": "HyperCup by Hyperliquid India · Luma",
       "sha256": "980f3522f793f4a1022a43af6249eaf4a4a584c99feb9297c918586c685a2b67"
     }
   },
@@ -6721,7 +6721,7 @@
       "url": "https://luma.com/i0vz9q6c",
       "fetchedAt": "2026-10-31T10:45:34.823Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Kashif Raza - Fan Meetup \u00b7 Luma",
+      "pageTitle": "Kashif Raza - Fan Meetup · Luma",
       "sha256": "46ac277c815a6c19b0a70b33c4ef98bbf844977010d701545d9e32885e69fe6e"
     }
   },
@@ -6777,7 +6777,7 @@
       "url": "https://luma.com/c9nw11qi",
       "fetchedAt": "2026-10-31T10:45:34.830Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Glamsterdam Readiness Clinic: 1:1s with ChainSecurity Engineers @ Devcon \u00b7 Luma",
+      "pageTitle": "Glamsterdam Readiness Clinic: 1:1s with ChainSecurity Engineers @ Devcon · Luma",
       "sha256": "3b7381f48ff722cc6382e1f386eb0340d79bdf074dbd0160057bf51538479e95"
     }
   },
@@ -6831,15 +6831,15 @@
       "url": "https://luma.com/vm795qzx",
       "fetchedAt": "2026-10-31T10:45:34.830Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Base Workshop: B20 Token Standard \u00b7 Luma",
+      "pageTitle": "Base Workshop: B20 Token Standard · Luma",
       "sha256": "e7896945674a70d3f1177f329282f3e2c4550138da5527dc5e43927b56b39522"
     }
   },
   {
     "id": "ibw-w61rovyw",
-    "name": "Names & Coffee \u2615| 1:1 Coffee with the Endless Domains Team",
+    "name": "Names & Coffee ☕| 1:1 Coffee with the Endless Domains Team",
     "slug": "endlesscoffee",
-    "description": "Devcon is full of side events. This one is for the people who own their name onchain. Coming to Mumbai for Devcon, IBW, ETHGlobal or just the energy of tech week?\n\nYou hold a Web3 name. We'd love to hear your story over a coffee.\n\nNames & Coffee is a series of 1:1 coffee meets between the Endless Domains team and Web3 domain holders on any chain, running 4 to 6 November in Mumbai during Devcon Week. No pitches. No panels. No crowded rooms. Just you, someone from our team, one coffee and a real conversation.\n\nWho it's forAnyone who holds a Web3 domain on any chain:.eth,.sns and.sol,.bnb,.arb and more. Founders, developers, creators, community leads, collectors. If your name lives onchain, there's a seat for you.\n\nWhat we can talk aboutWhat you're building, and how your Web3 name fits into it\n\nHonest feedback on Endless: what works, what's missing, what you'd changeMultichain identity, ENSv2, the.sol upgrade, or any naming question on your mindPartnerships, integrations and our affiliate program for creators and communitiesLocation & format\n\nMumbai, India, around the Devcon Week venues.\n\nThere's no single venue and no group gathering. You book a slot, and a member of the Endless team meets you at a public caf\u00e9 nearby. Each coffee runs about 30 minutes, the right length to fit between talks.\n\nHere's how it worksRSVP: free, and every\n\nregistration is reviewed. Add your Web3 domain name and a line about what you'd like to talk about.\n\nQuick verification: we check that your name exists onchain using a public lookup. We will never ask you to connect a wallet, sign a transaction or pay anything.\n\nPick your slot: once approved, you'll receive a link to choose a day and time that suits you.\n\nGrab a coffee: meet the Endless team at the agreed caf\u00e9 and time. We'll confirm the details a day before.4 to 6 November. Slots open daily through the week and are limited, so book early.\n\nHouse rulesBe respectful and keep it a conversation, not a sales call, on both sides. We'll never pitch you anything you didn't ask about.\n\nA Web3 rule worth repeating: never share your seed phrase or sign anything for anyone, at this event or any other. The Endless team will never ask you to.\n\nHosted by Endless Domains. Independent community event, not affiliated with or endorsed by Devcon, ETHGlobal or IBW.\n\nCome for the conference. Stay for the coffee.",
+    "description": "Devcon is full of side events. This one is for the people who own their name onchain. Coming to Mumbai for Devcon, IBW, ETHGlobal or just the energy of tech week?\n\nYou hold a Web3 name. We'd love to hear your story over a coffee.\n\nNames & Coffee is a series of 1:1 coffee meets between the Endless Domains team and Web3 domain holders on any chain, running 4 to 6 November in Mumbai during Devcon Week. No pitches. No panels. No crowded rooms. Just you, someone from our team, one coffee and a real conversation.\n\nWho it's forAnyone who holds a Web3 domain on any chain:.eth,.sns and.sol,.bnb,.arb and more. Founders, developers, creators, community leads, collectors. If your name lives onchain, there's a seat for you.\n\nWhat we can talk aboutWhat you're building, and how your Web3 name fits into it\n\nHonest feedback on Endless: what works, what's missing, what you'd changeMultichain identity, ENSv2, the.sol upgrade, or any naming question on your mindPartnerships, integrations and our affiliate program for creators and communitiesLocation & format\n\nMumbai, India, around the Devcon Week venues.\n\nThere's no single venue and no group gathering. You book a slot, and a member of the Endless team meets you at a public café nearby. Each coffee runs about 30 minutes, the right length to fit between talks.\n\nHere's how it worksRSVP: free, and every\n\nregistration is reviewed. Add your Web3 domain name and a line about what you'd like to talk about.\n\nQuick verification: we check that your name exists onchain using a public lookup. We will never ask you to connect a wallet, sign a transaction or pay anything.\n\nPick your slot: once approved, you'll receive a link to choose a day and time that suits you.\n\nGrab a coffee: meet the Endless team at the agreed café and time. We'll confirm the details a day before.4 to 6 November. Slots open daily through the week and are limited, so book early.\n\nHouse rulesBe respectful and keep it a conversation, not a sales call, on both sides. We'll never pitch you anything you didn't ask about.\n\nA Web3 rule worth repeating: never share your seed phrase or sign anything for anyone, at this event or any other. The Endless team will never ask you to.\n\nHosted by Endless Domains. Independent community event, not affiliated with or endorsed by Devcon, ETHGlobal or IBW.\n\nCome for the conference. Stay for the coffee.",
     "startDate": "2026-11-04T03:30:00.000Z",
     "endDate": "2026-11-06T15:30:00.000Z",
     "city": "Mumbai",
@@ -6887,7 +6887,7 @@
       "url": "https://luma.com/w61rovyw",
       "fetchedAt": "2026-10-31T10:45:34.830Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Names & Coffee \u2615| 1:1 Coffee with the Endless Domains Team \u00b7 Luma",
+      "pageTitle": "Names & Coffee ☕| 1:1 Coffee with the Endless Domains Team · Luma",
       "sha256": "4a39b8a4a5be45e58b98df2bda1d6caf0f2d92828465d08c7c9773df35d7a112"
     }
   },
@@ -6942,7 +6942,7 @@
       "url": "https://luma.com/wprc-kol-261104-zcash-tachyon-what-is-it-lessons-l",
       "fetchedAt": "2026-10-31T10:45:34.830Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Tachyon Reading Session: How we are going to scale Zcash \u00b7 Luma",
+      "pageTitle": "Tachyon Reading Session: How we are going to scale Zcash · Luma",
       "sha256": "9941d9439bf4348c74baf50c034fef6eb623494104b7d5faffbf8b4a5749c29f"
     }
   },
@@ -6950,7 +6950,7 @@
     "id": "ibw-wprc-kol-261104-at-monad-blitz-devcon",
     "name": "Whitepaper Reading Club: Multiple Concurrent Proposers + Rise of PropAMMs",
     "slug": "propamms",
-    "description": "Multiple Concurrent Proposers + The Rise of PropAMMs1. Cadence Extreme PipeliningCadence redesigns BFT block production by replacing a single leader with multiple proposers running in parallel. Each slot reaches consensus independently, so it does not wait for earlier blocks or network delays. It is built on two parts: Chorus, a fast 3-round consensus protocol, and Conductor, which controls when new slots open. Cadence provides short-term censorship resistance, hides proposals until they are revealed, and keeps the same security (3f+1 validators) and low latency as single-leader systems. In simulations on Monad's 200-validator network with 5 proposers per slot, it achieved 219 ms average finality ( 167 ms speculative) and 50 ms average transaction wait time with 100 ms block intervals.\n\nThis is part of Monad Blitz:  How Market Makers Are Reshaping Cross-Chain LiquidityTraditional AMMs, such as Uniswap, allow anyone to provide liquidity and earn trading fees. However, their prices typically update only when trades occur, leaving liquidity providers exposed to arbitrageurs who profit from outdated prices.\n\nA new model, proprietary automated market makers (propAMMs), is changing this. Unlike traditional AMMs, propAMMs actively update prices without waiting for trades, allowing them to respond faster to market movements. By 2026, propAMMs accounted for more than half of SOL/USDC trading volume on Solana. The paper: Active Liquidity On Chain: Evidence from PropAMMs Across Chains (September 2026), was written by Ozan Solmaz (ETH Zurich), Lioba Heimbach (Category Labs), Jason Milionis (Category Labs)Source:  introduction and context setting to start.\n\nA short walkthrough of the paper and its key ideas.\n\nQuestions and discussion grounded in the original source.\n\nModerator-led discussion with no promotions. Session Guides:Rongxin Zhang is the founder of Whitepaper Reading Club (WPRC). Previously, he lead Product at Cobo Custody, CKB, and was part of the founding team of Retsly, acquired by Zillow in 2015. He worked on decentarlized file storage research at Cornell Tech in 2017. Monad Foundation Monad is an institutional-grade blockchain built to power an open, global economy, enabling efficient money movement, tokenization, capital markets, and other financial applications. Built by a team from Jump Crypto.\n\nThank you Elton, and the team for always hosting us!!\n\nAbout Whitepaper Reading ClubWe are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.\n\nLearn more: Website - Summaries - CalendarWe create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.",
+    "description": "Multiple Concurrent Proposers + The Rise of PropAMMs1. Cadence Extreme PipeliningCadence redesigns BFT block production by replacing a single leader with multiple proposers running in parallel. Each slot reaches consensus independently, so it does not wait for earlier blocks or network delays. It is built on two parts: Chorus, a fast 3-round consensus protocol, and Conductor, which controls when new slots open. Cadence provides short-term censorship resistance, hides proposals until they are revealed, and keeps the same security (3f+1 validators) and low latency as single-leader systems. In simulations on Monad's 200-validator network with 5 proposers per slot, it achieved 219 ms average finality ( 167 ms speculative) and 50 ms average transaction wait time with 100 ms block intervals.\n\nThis is part of Monad Blitz: How Market Makers Are Reshaping Cross-Chain LiquidityTraditional AMMs, such as Uniswap, allow anyone to provide liquidity and earn trading fees. However, their prices typically update only when trades occur, leaving liquidity providers exposed to arbitrageurs who profit from outdated prices.\n\nA new model, proprietary automated market makers (propAMMs), is changing this. Unlike traditional AMMs, propAMMs actively update prices without waiting for trades, allowing them to respond faster to market movements. By 2026, propAMMs accounted for more than half of SOL/USDC trading volume on Solana. The paper: Active Liquidity On Chain: Evidence from PropAMMs Across Chains (September 2026), was written by Ozan Solmaz (ETH Zurich), Lioba Heimbach (Category Labs), Jason Milionis (Category Labs)Source: introduction and context setting to start.\n\nA short walkthrough of the paper and its key ideas.\n\nQuestions and discussion grounded in the original source.\n\nModerator-led discussion with no promotions. Session Guides:Rongxin Zhang is the founder of Whitepaper Reading Club (WPRC). Previously, he lead Product at Cobo Custody, CKB, and was part of the founding team of Retsly, acquired by Zillow in 2015. He worked on decentarlized file storage research at Cornell Tech in 2017. Monad Foundation Monad is an institutional-grade blockchain built to power an open, global economy, enabling efficient money movement, tokenization, capital markets, and other financial applications. Built by a team from Jump Crypto.\n\nThank you Elton, and the team for always hosting us!!\n\nAbout Whitepaper Reading ClubWe are a community of founders, researchers, and builders across Singapore, Malaysia, San Francisco, Bangkok, New York, Lagos, Taipei, and Hong Kong. We meet in person every month to read, discuss, and pressure-test the latest blockchain papers, protocols, and technical ideas.\n\nLearn more: Website - Summaries - CalendarWe create detailed, easy-to-understand summaries for each paper and have held 80+ sessions since June 2023, covering Account Abstraction, Parallel Chains, EIPs, the Bitcoin ecosystem, and AI x Crypto. We are ecosystem-agnostic, not for profit, and focused on projects with technical, product, or social innovation.",
     "startDate": "2026-11-04T09:30:00.000Z",
     "endDate": "2026-11-04T11:30:00.000Z",
     "city": "Mumbai",
@@ -6998,7 +6998,7 @@
       "url": "https://luma.com/wprc-kol-261104-at-monad-blitz-devcon",
       "fetchedAt": "2026-10-31T10:45:34.830Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Whitepaper Reading Club: Multiple Concurrent Proposers + Rise of PropAMMs \u00b7 Luma",
+      "pageTitle": "Whitepaper Reading Club: Multiple Concurrent Proposers + Rise of PropAMMs · Luma",
       "sha256": "cc106a33a531c122b1eb74502f82c67a3116baeeb907efdef0e0c565d3da4438"
     }
   },
@@ -7021,7 +7021,7 @@
     "source": "ibw-official",
     "hosts": [
       "Radhika Rungta",
-      "Fhenix \u200e"
+      "Fhenix ‎"
     ],
     "price": "Free",
     "approvalRequired": false,
@@ -7053,7 +7053,7 @@
       "url": "https://luma.com/9qzvhhxs",
       "fetchedAt": "2026-10-31T10:45:34.830Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Fhenix Arcade \u00b7 Luma",
+      "pageTitle": "Fhenix Arcade · Luma",
       "sha256": "6e5acb611b09438dc6e477c67d6088c6ff2a447f2827a3be26915b99711c5f3e"
     }
   },
@@ -7108,7 +7108,7 @@
       "url": "https://luma.com/kf553io8",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Privacy SZN Happy Hour \u00b7 Luma",
+      "pageTitle": "Privacy SZN Happy Hour · Luma",
       "sha256": "3a50ff650310e80dfd4bfe6c0df7d748bd6276892dd51f60542c968945609308"
     }
   },
@@ -7164,7 +7164,7 @@
       "url": "https://luma.com/0qwpaxre",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Future of AI , Quantum , Web3 with XDC Networks \u00b7 Luma",
+      "pageTitle": "Future of AI , Quantum , Web3 with XDC Networks · Luma",
       "sha256": "b939d9170942e7146c547857d4e5f122e942b06f7d010d3c56a4a6a077ce161c"
     }
   },
@@ -7218,7 +7218,7 @@
       "url": "https://luma.com/43x56ltz",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Web3India Coffee Meetup @ Devcon 8 \u00b7 Luma",
+      "pageTitle": "Web3India Coffee Meetup @ Devcon 8 · Luma",
       "sha256": "6c881812f9c7051b5196c4545635071b9587705ebde12f975b34c35fbc5a6750"
     }
   },
@@ -7226,7 +7226,7 @@
     "id": "ibw-t3u5q76p",
     "name": "Tachi BTC Hacker Shop - Devcon Edition",
     "slug": "tachibtc",
-    "description": "EVM apps on native Bitcoin. No wrappers. No sidechains. No forks.\n\nYour Solidity skills just found a new frontier: Bitcoin.\n\nTachi makes this possible, and for the first time, we're opening it up to builders. It starts in Mumbai, with 40 of you.\n\nAbout Tachi: It's a Bitcoin execution layer bringing EVM programmability to native, self-custodial BTC.\n\nThis is Round 0 of the Tachi EVM Hackathon. $20,000 in prizes are on the line in the main hackathon. This round is your chance to get ahead. 5 Nov 2026, 4 PM - 7 PM ISTThe AfternoonDeploy an ERC-20 on Tachi's Bitcoin Signet environment using the EVM SDK and a starter template.\n\nBuild with hands-on help from Tachi engineersFind collaborators and demo what you madeWhat you getSubmit a working deployment during the session to earn your Round 0 Pass: priority admission to the upcoming main hackathon, early access to its themes, and dedicated office hours with Tachi engineers.\n\nThe best demos are featured in our \"Built on Bitcoin with Tachi\" series:  a laptop and an idea, or come and find one. No Bitcoin project or experience needed.\n\nHow to joinRegister below. There are only 40 seats, and we'll confirm your spot by email. No deployment needed to register.\n\nOnce the SDK is available, we'll send you a quickstart. Building beforehand is optional, but submitting a working deployment on Tachi gives you priority on the waitlist if the event fills up.\n\nEverything runs on Tachi's Signet test network with test BTC (available through the Tachi Faucet ).",
+    "description": "EVM apps on native Bitcoin. No wrappers. No sidechains. No forks.\n\nYour Solidity skills just found a new frontier: Bitcoin.\n\nTachi makes this possible, and for the first time, we're opening it up to builders. It starts in Mumbai, with 40 of you.\n\nAbout Tachi: It's a Bitcoin execution layer bringing EVM programmability to native, self-custodial BTC.\n\nThis is Round 0 of the Tachi EVM Hackathon. $20,000 in prizes are on the line in the main hackathon. This round is your chance to get ahead. 5 Nov 2026, 4 PM - 7 PM ISTThe AfternoonDeploy an ERC-20 on Tachi's Bitcoin Signet environment using the EVM SDK and a starter template.\n\nBuild with hands-on help from Tachi engineersFind collaborators and demo what you madeWhat you getSubmit a working deployment during the session to earn your Round 0 Pass: priority admission to the upcoming main hackathon, early access to its themes, and dedicated office hours with Tachi engineers.\n\nThe best demos are featured in our \"Built on Bitcoin with Tachi\" series: a laptop and an idea, or come and find one. No Bitcoin project or experience needed.\n\nHow to joinRegister below. There are only 40 seats, and we'll confirm your spot by email. No deployment needed to register.\n\nOnce the SDK is available, we'll send you a quickstart. Building beforehand is optional, but submitting a working deployment on Tachi gives you priority on the waitlist if the event fills up.\n\nEverything runs on Tachi's Signet test network with test BTC (available through the Tachi Faucet ).",
     "startDate": "2026-11-05T04:30:00.000Z",
     "endDate": "2026-11-05T12:30:00.000Z",
     "city": "Mumbai",
@@ -7273,7 +7273,7 @@
       "url": "https://luma.com/t3u5q76p",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Tachi BTC Hacker Shop - Devcon Edition \u00b7 Luma",
+      "pageTitle": "Tachi BTC Hacker Shop - Devcon Edition · Luma",
       "sha256": "90bee49e8839d9b35ecdc5956ada73fea8c9a1a99ed049e387243de12b2690db"
     }
   },
@@ -7331,15 +7331,15 @@
       "url": "https://luma.com/bunkerautoresearch",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Bunker Autoresearch \u00b7 Luma",
+      "pageTitle": "Bunker Autoresearch · Luma",
       "sha256": "6a7df397e08cceba32fa147bc437432c0a778295543dac7be55067186b75bcf5"
     }
   },
   {
     "id": "ibw-545iup8w",
-    "name": "Tangem House: Mumbai Edition \ud83c\uddee\ud83c\uddf3",
+    "name": "Tangem House: Mumbai Edition 🇮🇳",
     "slug": "tangemhouse",
-    "description": "Tangem House is coming to Mumbai! \ud83c\uddee\ud83c\uddf3Meet the Tangem team, connect with India's Web3 community, and discover Tangem's approach to seedless self-custody.\n\nWe're bringing together traders, KOLs / creators and investors to talk about a simpler way to secure your crypto.\n\nExpect small bites, limited-edition Tangem merch, wallet giveaways and opportunities to collaborate with Tangem What to expect A\nseedless wallet setup\nyou actually understand Learn about the\nTangem India Early Partner Program\nand collaboration opportunities\nLimited edition Tangem merch\ndropping through the evening Exclusive deals\non\nTangem Rings\nand\nWallets\nTangem wallets\nfor challenge winners and selected guests The Game Palacio is a\nbowling lounge\n, enjoy the lanes between conversationsAgenda4:00 PM\n - Doors open & check-in4:30 PM\n - Seedless self-custody & live demo5:00 PM\n - Live challenge kicks off (revealed on the day)5:30 PM\n - Snacks, networking and Early Partner Program sign-ups6:30 PM\n - Giveaways & winners announced7:00 PM\n - Doors closeGood to knowRegistration is approval-based.\nPlease wait for confirmation and bring your Luma QR code for check-in.\n\nNo +1s. Each attendee must register separately and receive approval.\n\nLimited capacity. Attendance is capped at 100 guests.\n\nGiveaways. Winners must be present at the venue to claim their prizes.\n\nAbout TangemTangem makes hardware wallets in the form of cards and rings, designed to make self-custody simple and accessible.\n\nWith no batteries or cables, Tangem works with your smartphone to help you manage your digital assets. Its seedless approach protects private keys within a certified secure element, while backup cards provide a way to recover access. Simple. Secure. Tangem.\n\nWhen & where Thursday, 5 November 2026 4:00. 7:00 PM IST The Game Palacio, Bandra West, Mumbai (below Hakkasan, Waterfield Road) Hosted by Tangem \u00d7 DeDenSee you there!",
+    "description": "Tangem House is coming to Mumbai! 🇮🇳Meet the Tangem team, connect with India's Web3 community, and discover Tangem's approach to seedless self-custody.\n\nWe're bringing together traders, KOLs / creators and investors to talk about a simpler way to secure your crypto.\n\nExpect small bites, limited-edition Tangem merch, wallet giveaways and opportunities to collaborate with Tangem What to expect A\nseedless wallet setup\nyou actually understand Learn about the\nTangem India Early Partner Program\nand collaboration opportunities\nLimited edition Tangem merch\ndropping through the evening Exclusive deals\non\nTangem Rings\nand\nWallets\nTangem wallets\nfor challenge winners and selected guests The Game Palacio is a\nbowling lounge\n, enjoy the lanes between conversationsAgenda4:00 PM\n - Doors open & check-in4:30 PM\n - Seedless self-custody & live demo5:00 PM\n - Live challenge kicks off (revealed on the day)5:30 PM\n - Snacks, networking and Early Partner Program sign-ups6:30 PM\n - Giveaways & winners announced7:00 PM\n - Doors closeGood to knowRegistration is approval-based.\nPlease wait for confirmation and bring your Luma QR code for check-in.\n\nNo +1s. Each attendee must register separately and receive approval.\n\nLimited capacity. Attendance is capped at 100 guests.\n\nGiveaways. Winners must be present at the venue to claim their prizes.\n\nAbout TangemTangem makes hardware wallets in the form of cards and rings, designed to make self-custody simple and accessible.\n\nWith no batteries or cables, Tangem works with your smartphone to help you manage your digital assets. Its seedless approach protects private keys within a certified secure element, while backup cards provide a way to recover access. Simple. Secure. Tangem.\n\nWhen & where Thursday, 5 November 2026 4:00. 7:00 PM IST The Game Palacio, Bandra West, Mumbai (below Hakkasan, Waterfield Road) Hosted by Tangem × DeDenSee you there!",
     "startDate": "2026-11-05T10:30:00.000Z",
     "endDate": "2026-11-05T13:30:00.000Z",
     "city": "Mumbai",
@@ -7387,7 +7387,7 @@
       "url": "https://luma.com/545iup8w",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Tangem House: Mumbai Edition \ud83c\uddee\ud83c\uddf3 \u00b7 Luma",
+      "pageTitle": "Tangem House: Mumbai Edition 🇮🇳 · Luma",
       "sha256": "fedd2b3a67c1767e17f1990bad389e401a8e5e5643c1a3671fc3e70817963626"
     }
   },
@@ -7443,15 +7443,15 @@
       "url": "https://luma.com/pwpukays",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "RISEx Traders' Lounge \u00b7 Luma",
+      "pageTitle": "RISEx Traders' Lounge · Luma",
       "sha256": "01f4f6c5b973ec62fc1902f51a36cafdd9885a4ff1b86799f63cff9b21f63a34"
     }
   },
   {
     "id": "ibw-4jt54kqx",
-    "name": "Devcon Girlies Diwali Party in Mumbai \ud83e\ude94 \ud83d\udc96",
+    "name": "Devcon Girlies Diwali Party in Mumbai 🪔 💖",
     "slug": "devcongirlies",
-    "description": "Devcon Girlies Diwali Party Women Only EventOne festival. Four communities. A whole lot of women in Web3.\n\nDiwali is all about light, new beginnings and coming together, and we want to celebrate it with women who are building the future of web3 Join Babes Net, SheFi India, Dev3Pack and Soul Sisters for a special women-only Diwali celebration during Devcon in Mumbai. \ud83c\uddee\ud83c\uddf3Whether you're a founder, builder, investor, creator, or simply curious about the space, this is your chance to meet the women behind the projects, communities, and ideas shaping Web3.\n\nWe're bringing our communities together to celebrate how far we've come, make new friends, and celebrate love and light together.\n\nNo panels, no pitches, no pressure. Just women celebrating Diwali and each other Women only\n\nMumbai, India\n\nNovemeber 5th during Devcon weekMeet the communities Babes NetBabes Net is a global community for women in tech, Web3, and beyond, built by women, for women. We bring together founders, builders, creators, investors, and operators through IRL meetups, events, and experiences designed to turn online connections into meaningful friendships and opportunities. Dev3PackDev3pack is the global community for women building in Web3 and AI. We run bootcamps, global hackathons, local chapters, and an accelerator for founders. SheFiSheFi empowers women to learn about and participate in Web3 and decentralized finance through education, community, and hands-on experiences. It's all about making crypto more accessible and helping more women build confidence in the space. Sol SistersSol Sisters is a community where female founders, builders, marketers, and creators in the Solana ecosystem gather to build, grow, learn, and win together.\n\nFour communities, one shared mission: bringing more women together and making Web3 a space where we can all thrive.\n\nLet's celebrate Diwali together",
+    "description": "Devcon Girlies Diwali Party Women Only EventOne festival. Four communities. A whole lot of women in Web3.\n\nDiwali is all about light, new beginnings and coming together, and we want to celebrate it with women who are building the future of web3 Join Babes Net, SheFi India, Dev3Pack and Soul Sisters for a special women-only Diwali celebration during Devcon in Mumbai. 🇮🇳Whether you're a founder, builder, investor, creator, or simply curious about the space, this is your chance to meet the women behind the projects, communities, and ideas shaping Web3.\n\nWe're bringing our communities together to celebrate how far we've come, make new friends, and celebrate love and light together.\n\nNo panels, no pitches, no pressure. Just women celebrating Diwali and each other Women only\n\nMumbai, India\n\nNovemeber 5th during Devcon weekMeet the communities Babes NetBabes Net is a global community for women in tech, Web3, and beyond, built by women, for women. We bring together founders, builders, creators, investors, and operators through IRL meetups, events, and experiences designed to turn online connections into meaningful friendships and opportunities. Dev3PackDev3pack is the global community for women building in Web3 and AI. We run bootcamps, global hackathons, local chapters, and an accelerator for founders. SheFiSheFi empowers women to learn about and participate in Web3 and decentralized finance through education, community, and hands-on experiences. It's all about making crypto more accessible and helping more women build confidence in the space. Sol SistersSol Sisters is a community where female founders, builders, marketers, and creators in the Solana ecosystem gather to build, grow, learn, and win together.\n\nFour communities, one shared mission: bringing more women together and making Web3 a space where we can all thrive.\n\nLet's celebrate Diwali together",
     "startDate": "2026-11-05T13:30:00.000Z",
     "endDate": "2026-11-05T18:30:00.000Z",
     "city": "Mumbai",
@@ -7500,7 +7500,7 @@
       "url": "https://luma.com/4jt54kqx",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Devcon Girlies Diwali Party in Mumbai \ud83e\ude94 \ud83d\udc96 \u00b7 Luma",
+      "pageTitle": "Devcon Girlies Diwali Party in Mumbai 🪔 💖 · Luma",
       "sha256": "3f09895587735055fd816c47640087b5e9abafc358d0d3c59af393f59253e194"
     }
   },
@@ -7554,7 +7554,7 @@
       "url": "https://luma.com/4hcsc1r3",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Arkadian Community Meetup | Mumbai \u00b7 Luma",
+      "pageTitle": "Arkadian Community Meetup | Mumbai · Luma",
       "sha256": "1fad8df6e052d6e5ff9d5e38975ed69feef89080bf882ac8d2863807ece94340"
     }
   },
@@ -7612,7 +7612,7 @@
       "url": "https://luma.com/mgxg6ko8",
       "fetchedAt": "2026-10-31T10:45:34.831Z",
       "method": "reviewed-primary-sources",
-      "pageTitle": "Polkadot Assemble Conference \u00b7 Luma",
+      "pageTitle": "Polkadot Assemble Conference · Luma",
       "sha256": "0795830b3dadb29b219a8ebb2b563a84cd7bff4360c77f945f3d3824b38102f9"
     }
   }
