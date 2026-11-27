@@ -101,6 +101,9 @@
   "https://hashtagweb3.com/hashratehijack?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/swisscarf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/xbotsued?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/bbitlisting?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/ukexchangemarketmaking?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/wallerrate?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Details Three Fixed Security Flaws",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank launches crypto custody for European institutions",
@@ -305,6 +308,12 @@
   "Swiss Federal Council approves 57 partners for crypto tax data exchange from 2028",
   "UK Court Rules Against Two Individuals in X Fraud Case",
   "UK Court Enters Default Judgment Against Two in X Bitcoin Account Case",
+  "First Swiss Spot Bitcoin ETF Begins Trading on SIX",
+  "Switzerland's first spot Bitcoin ETF starts trading on SIX",
+  "UK bans crypto exchanges from internal market making",
+  "UK bars crypto exchanges from market making on their own platforms",
+  "Fed Governor Waller backs traditional payments for tokenized markets",
+  "Fed's Waller Backs Traditional Rails for Tokenized Markets in TCH Speech",
   "fp:block|bug|cor|detail|disclos|fix|flaw|issu|medium|min",
   "fp:agreement|asset|bank|client|custody|deutsch|establish|ether|european|institution",
   "fp:chang|delet|follow|implement|index|metaplanet|msci|november|november30|provider",
@@ -406,5 +415,8 @@
   "fp:arkansa|but|chair|committe|control|democrat|down|financial|french|head",
   "fp:000|600|affect|attacker|braiin|connection|episod|four|hijack|hit",
   "fp:approves57|begin|council|cryptocurrency|exchang|federal|from2028|government|in2028|information",
-  "fp:account|against|cas|claim|court|creator|default|defendant|enter|fail"
+  "fp:account|against|cas|claim|court|creator|default|defendant|enter|fail",
+  "fp:approval|asset|begin|bit|debut|etf|finma|follow|management|october",
+  "fp:avoid|ban|bar|centraliz|conflict|exchang|interest|internal|liquidity|own",
+  "fp:back|bank|central|continu|exist|financ|governor|growth|money|payment"
 ]

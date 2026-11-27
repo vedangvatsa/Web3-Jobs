@@ -1122,7 +1122,7 @@
     "sentAt": "2026-11-27T04:55:40.512Z"
   },
   "7fd24d2d-374a-4437-8d6c-553d36c717bf": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-27T13:04:43.337Z",
     "stories": [
       {
@@ -1150,6 +1150,8 @@
         "originalTitle": "Fed's Waller Backs Traditional Rails for Tokenized Markets in TCH Speech"
       }
     ],
-    "slotKey": "2026-11-27:afternoon"
+    "slotKey": "2026-11-27:afternoon",
+    "messageId": 65860,
+    "sentAt": "2026-11-27T13:04:53.436Z"
   }
 }
