@@ -206393,6 +206393,41 @@
       "attemptId": "3eb19154-ee7f-431a-8795-d49c7f9f9698",
       "verification": "verified",
       "postId": "0x31726255ac1cf8f3903cfcf2f609ca60d9ec73d4"
+    },
+    {
+      "slug": "sls380",
+      "company": "Ledger",
+      "title": "Accounts Payable Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-11-27T23:04:31.076Z",
+      "expectedText": "Ledger is hiring Accounts Payable Specialist\n\nhttps://hashtagweb3.com/sls380/fc?og=7",
+      "snapshot": {
+        "id": "99a878f8-192f-4bf2-8220-019e4b96762b",
+        "title": "Accounts Payable Specialist",
+        "company": "Ledger",
+        "link": "https://jobs.ashbyhq.com/ledger/99a878f8-192f-4bf2-8220-019e4b96762b",
+        "date": "2026-11-05T15:20:59.076+00:00",
+        "source": "Ashby: Ledger [ledger]",
+        "location": "Hybrid (Paris, France)",
+        "isRemote": true,
+        "workplaceType": "Hybrid",
+        "department": "Corporate Functions",
+        "active": true,
+        "dateVerified": true,
+        "slug": "sls380"
+      },
+      "payload": {
+        "text": "Ledger is hiring Accounts Payable Specialist\n\nhttps://hashtagweb3.com/sls380/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls380/fc?og=7"
+          }
+        ],
+        "channel_id": "growth"
+      },
+      "account": "channel:growth",
+      "attemptId": "d21ce11f-9a79-4c88-bbb2-9f14d60201bd",
+      "verification": "creating"
     }
   ]
 }
