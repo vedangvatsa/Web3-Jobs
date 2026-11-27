@@ -205995,7 +205995,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "9ce1d72b-2657-4083-9c4d-c9051dbeb5c5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb00562d198cf98a87dcb07328719d73fcaa95acc"
     }
   ]
 }
