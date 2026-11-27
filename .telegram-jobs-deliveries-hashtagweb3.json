@@ -3951,5 +3951,118 @@
     "slotKey": "2026-11-26:evening",
     "messageId": 156532,
     "sentAt": "2026-11-26T20:24:55.564Z"
+  },
+  "9bbb7680-90f6-4ef2-8484-ab8c972c6692": {
+    "status": "reserved",
+    "reservedAt": "2026-11-27T04:54:23.516Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "4009842201",
+          "title": "Security Operations Engineer",
+          "company": "dtcpay",
+          "link": "https://job-boards.anz.greenhouse.io/dtcpay/jobs/4009842201",
+          "date": "2026-11-20T05:58:48-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: dtcpay [dtcpay]",
+          "location": "Singapore",
+          "department": "SOC",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sec194"
+        },
+        "key": "4009842201",
+        "slug": "sec194",
+        "url": "https://hashtagweb3.com/sec194?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "dtcpay",
+        "title": "Security Operations Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "18e009e5-0c76-45e2-85ae-dc5726849c0d",
+          "title": "Copywriter",
+          "company": "Phantom",
+          "link": "https://jobs.ashbyhq.com/phantom/18e009e5-0c76-45e2-85ae-dc5726849c0d",
+          "date": "2026-11-09T18:39:33.674+00:00",
+          "source": "Ashby: Phantom [Phantom]",
+          "location": "Remote-US",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Growth",
+          "active": true,
+          "dateVerified": true,
+          "slug": "wr12"
+        },
+        "key": "18e009e5-0c76-45e2-85ae-dc5726849c0d",
+        "slug": "wr12",
+        "url": "https://hashtagweb3.com/wr12?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Phantom",
+        "title": "Copywriter"
+      },
+      {
+        "snapshot": {
+          "id": "0000326",
+          "title": "売買審査担当",
+          "company": "bitbank",
+          "link": "https://hrmos.co/pages/bitbank/jobs/0000326",
+          "date": "2026-11-18T09:56:29.000Z",
+          "dateVerified": true,
+          "source": "FirstParty: bitbank [bitbank-hrmos]",
+          "location": "Not specified",
+          "active": true,
+          "slug": "job41"
+        },
+        "key": "0000326",
+        "slug": "job41",
+        "url": "https://hashtagweb3.com/job41?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "bitbank",
+        "title": "売買審査担当"
+      },
+      {
+        "snapshot": {
+          "id": "8405596",
+          "title": "Integration Engineer (Client-Facing)",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8405596",
+          "date": "2026-11-20T11:02:37-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Amsterdam",
+          "department": "1143 EMEA Delivery",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng812"
+        },
+        "key": "8405596",
+        "slug": "eng812",
+        "url": "https://hashtagweb3.com/eng812?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Integration Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8206913003",
+          "title": "Staff Engineer, Machine Learning & Data Infrastructure",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8206913003",
+          "date": "2026-11-17T08:08:28-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "Singapore",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "infra89"
+        },
+        "key": "8206913003",
+        "slug": "infra89",
+        "url": "https://hashtagweb3.com/infra89?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Staff Engineer"
+      }
+    ],
+    "message": "- dtcpay is hiring <a href=\"https://hashtagweb3.com/sec194?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Security Operations Engineer</a>\n- Phantom is hiring <a href=\"https://hashtagweb3.com/wr12?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Copywriter</a>\n- bitbank is hiring <a href=\"https://hashtagweb3.com/job41?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">売買審査担当</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/eng812?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Integration Engineer</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/infra89?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Staff Engineer, Machine Learning &amp; Data Infrastructure</a>",
+    "slotKey": "2026-11-27:morning"
   }
 }
