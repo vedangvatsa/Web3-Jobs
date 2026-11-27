@@ -200766,7 +200766,8 @@
       },
       "account": "channel:defi",
       "attemptId": "a818628b-4f26-45c1-a606-1d8ec388b260",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc3b87c5bdc75b49f29f630f20193f3b7ab24b7e8"
     }
   ]
 }
