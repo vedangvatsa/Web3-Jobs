@@ -222983,7 +222983,27 @@
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
       "attempts": 0,
       "expiresAt": "2026-11-28T19:32:42.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "articleSlug": "fidelitychainlink",
+      "draftProgress": {
+        "id": "fd92935b41c529a1041c",
+        "day": "2026-11-27",
+        "articleSlug": "fidelitychainlink",
+        "note": "Read Yahoo Finance and CoinTicker reports of the S-1; SEC filing and draft still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://finance.yahoo.com/markets/crypto/articles/fidelity-files-spot-chainlink-etf-162500270.html",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointicker.com/fidelity-submits-sec-filing-for-spot-chainlink-etf-set-to-list-on-nasdaq/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-27T02:48:33.641Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "d2bf6b975193ebaff061": {
       "source": "CryptoSlate",
