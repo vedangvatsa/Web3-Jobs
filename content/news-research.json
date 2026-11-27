@@ -223768,7 +223768,27 @@
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
       "attempts": 0,
       "expiresAt": "2026-11-28T21:22:19.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "articleSlug": "hashratehijack",
+      "draftProgress": {
+        "id": "744d657df17de23a69fe",
+        "day": "2026-11-27",
+        "articleSlug": "hashratehijack",
+        "note": "Read the Braiins primary security report and Cointelegraph's independent coverage; draft and image still needed.",
+        "sourceChecks": [
+          {
+            "url": "https://braiins.com/blog/bitcoin-hashrate-hijacking-unencrypted-stratum-v1",
+            "outcome": "read"
+          },
+          {
+            "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-27T02:34:46.983Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e2c13cc5dddecdd6dc0e": {
       "source": "The Defiant",
