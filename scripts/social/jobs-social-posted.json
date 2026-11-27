@@ -199820,7 +199820,8 @@
       },
       "account": "channel:base",
       "attemptId": "34cc164c-2f5a-4311-bf97-c0a87dda7ec3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x9f63861ab2b35f50e6aa083358a16641c7b51498"
     }
   ]
 }
