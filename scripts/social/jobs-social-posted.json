@@ -210513,7 +210513,8 @@
       },
       "account": "channel:build",
       "attemptId": "d8631b7f-1dc3-4396-8f1a-faec23c8dc08",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x679a9cf95e992157f5aca891466f463081f77514"
     }
   ]
 }
