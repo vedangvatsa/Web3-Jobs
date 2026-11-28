@@ -211257,7 +211257,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "82f52005-5909-4fbe-af14-f5e0313ac42a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf5cf6e22aa6dda8df7d336722f468a08a15985aa"
     }
   ]
 }
