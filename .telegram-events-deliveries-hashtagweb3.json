@@ -1690,5 +1690,56 @@
     "slotKey": "2026-11-27:evening",
     "messageId": 156546,
     "sentAt": "2026-11-27T20:11:22.677Z"
+  },
+  "48b959c0-7b5a-49a4-bd83-fd2f06d3a160": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T04:39:32.577Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-crUZhaXhAeSdLJK",
+        "slug": "bitdevscdmx",
+        "name": "BitDevs CDMX 018 - Seminario Socrático Técnico de Bitcoin",
+        "startDate": "2026-12-04T00:00:00.000Z",
+        "keys": [
+          "luma-crypto-cruzhaxhaesdljk",
+          "bitdevs-cd",
+          "page:bitdevscdmx:2026-12-03",
+          "luma:evt-cruzhaxhaesdljk",
+          "luma-url:/02bin3ql",
+          "event:bitdevscdmx018seminariosocráticotécnicodebitcoin:2026-12-03:mexico city"
+        ]
+      },
+      {
+        "id": "luma-crypto-EojhhKy9foI7WV9",
+        "slug": "blcyacht",
+        "name": "Blockchain Life SE by Networking.Yachts",
+        "startDate": "2026-12-04T12:00:00.000Z",
+        "keys": [
+          "luma-crypto-eojhhky9foi7wv9",
+          "blockchain-life-se",
+          "page:blcyacht:2026-12-04",
+          "luma:evt-eojhhky9foi7wv9",
+          "luma-url:/nlgzqpqs",
+          "event:blockchainlifesebynetworkingyachts:2026-12-04:"
+        ]
+      },
+      {
+        "id": "luma-crypto-qdagAu8TQuz6IaW",
+        "slug": "brudbbr",
+        "name": "Bitcoin Rails Unconference: Doing business on Bitcoin Rails",
+        "startDate": "2026-12-05T05:00:00.000Z",
+        "keys": [
+          "luma-crypto-qdagau8tquz6iaw",
+          "bitcoin-rails",
+          "page:brudbbr:2026-12-05",
+          "luma:evt-qdagau8tquz6iaw",
+          "luma-url:/x0vtlc85",
+          "event:bitcoinrailsunconferencedoingbusinessonbitcoinrails:2026-12-05:"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-28:morning"
   }
 }
