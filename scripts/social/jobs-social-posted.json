@@ -208110,7 +208110,8 @@
       },
       "account": "channel:ai",
       "attemptId": "f2f48bc1-1c96-4eb8-9add-be9645b52eda",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x61a7e4e7c21d4cd79afa5138f4f5fd8d4a35231d"
     }
   ]
 }
