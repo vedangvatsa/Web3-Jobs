@@ -211653,7 +211653,8 @@
       },
       "account": "channel:design",
       "attemptId": "5ba29101-4b8d-4a22-ad4e-045af05d9b84",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xde370ac7f2d3064b66de7222858518e9d9f229ab"
     }
   ]
 }
