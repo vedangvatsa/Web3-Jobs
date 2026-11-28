@@ -209010,7 +209010,8 @@
       },
       "account": "channel:ai",
       "attemptId": "48885653-d737-4e65-8485-b5d586612ef4",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xba8c70593b45baa0e01d5ae4c56d97fd7c48fd4a"
     }
   ]
 }
