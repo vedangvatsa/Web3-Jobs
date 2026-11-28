@@ -212376,6 +212376,41 @@
       "attemptId": "3684741f-cf75-4e22-82b9-78377e92093a",
       "verification": "verified",
       "postId": "0xca314db7517ea69e935a8b7cfe37df8b02defcb3"
+    },
+    {
+      "slug": "sls434",
+      "company": "Fireblocks",
+      "title": "Sales Director, Banking",
+      "platform": "farcaster",
+      "postedAt": "2026-11-28T12:19:57.543Z",
+      "expectedText": "Fireblocks is hiring Sales Director, Banking\n\nhttps://hashtagweb3.com/sls434/fc?og=7",
+      "snapshot": {
+        "id": "4699618006",
+        "title": "Sales Director, Banking",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4699618006",
+        "date": "2026-11-06T13:46:57-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "New York",
+        "department": "Sales",
+        "active": true,
+        "salary": "$280k – $390k/yr",
+        "dateVerified": true,
+        "slug": "sls434"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director, Banking\n\nhttps://hashtagweb3.com/sls434/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls434/fc?og=7"
+          }
+        ],
+        "channel_id": "defi"
+      },
+      "account": "channel:defi",
+      "attemptId": "00086017-587a-42ce-a49f-a47184ceb365",
+      "verification": "creating"
     }
   ]
 }
