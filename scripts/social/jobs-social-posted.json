@@ -211691,6 +211691,47 @@
       "attemptId": "3f73c83a-df96-43ee-821d-17240078b271",
       "verification": "verified",
       "postId": "0x674b0bb80ac389ae68bdca67fc23b00e16398ba3"
+    },
+    {
+      "slug": "ds21",
+      "company": "Figure",
+      "title": "Senior Data Scientist",
+      "platform": "linkedin",
+      "postedAt": "2026-11-28T12:15:33.162Z",
+      "expectedText": "Figure is hiring Senior Data Scientist: https://hashtagweb3.com/ds21/li?og=7",
+      "snapshot": {
+        "id": "8934097002",
+        "title": "Senior Data Scientist",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8934097002",
+        "date": "2026-11-12T18:18:33-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Data Engineering",
+        "active": true,
+        "salary": "$132k – $198k/yr",
+        "dateVerified": true,
+        "slug": "ds21"
+      },
+      "payload": {
+        "text": "Figure is hiring Senior Data Scientist: https://hashtagweb3.com/ds21/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/ds21/li?og=7",
+          "title": "Senior Data Scientist at Figure | Hashtag Web3",
+          "description": "Join Figure as Senior Data Scientist. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/ds21.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "75fec25a-17cd-4da7-b649-5aca267806ee",
+      "verification": "creating"
     }
   ]
 }
