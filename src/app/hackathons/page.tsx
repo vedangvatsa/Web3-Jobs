@@ -44,11 +44,11 @@ export const metadata: Metadata = {
 };
 
 const hackathonLogos = [
-  { name: 'Ethereum', src: '/logo/companies/ethereum.svg', maxHeight: 24 },
-  { name: 'Chainlink', src: '/logo/companies/chainlink.svg', maxHeight: 22 },
+  { name: 'Ethereum', src: '/logo/companies/ethereum.svg', maxHeight: 20 },
+  { name: 'Chainlink', src: '/logo/companies/chainlink.svg', maxHeight: 20 },
   { name: 'Near', src: '/logo/companies/near.svg', maxHeight: 20 },
-  { name: 'Polygon', src: '/logo/companies/polygon.svg', maxHeight: 22 },
-  { name: 'Base', src: '/logo/companies/base.svg', maxHeight: 24 },
+  { name: 'Polygon', src: '/logo/companies/polygon.svg', maxHeight: 20 },
+  { name: 'Base', src: '/logo/companies/base.svg', maxHeight: 20 },
 ];
 
 export default function HackathonsPage() {
