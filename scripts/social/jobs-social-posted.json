@@ -207864,7 +207864,8 @@
       },
       "account": "channel:build",
       "attemptId": "3fb31009-447f-46d8-9ad6-2f38b7125853",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x6aaab3b54e5d6a0a92798b45000dbace7791f84d"
     }
   ]
 }
