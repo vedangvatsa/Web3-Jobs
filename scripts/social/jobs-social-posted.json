@@ -209407,7 +209407,8 @@
       },
       "account": "profile",
       "attemptId": "7dcd07a5-cc2c-4f7f-a8db-e001cb2249c6",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfdb14f4b91a8e2f88b02fbb6665cb7c490f1949f"
     }
   ]
 }
