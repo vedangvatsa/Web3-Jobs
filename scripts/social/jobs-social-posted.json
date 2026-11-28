@@ -210069,6 +210069,48 @@
       "attemptId": "efa178af-2872-4a7b-b4e7-dfce7b7bfb23",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "pm424",
+      "company": "Kraken",
+      "title": "Sr Staff Product Designer - Krak",
+      "platform": "linkedin",
+      "postedAt": "2026-11-28T04:41:03.959Z",
+      "expectedText": "Kraken is hiring Sr Staff Product Designer: https://hashtagweb3.com/pm424/li?og=7",
+      "snapshot": {
+        "id": "1de8e4bb-224d-43f3-b826-be513d13243c",
+        "title": "Sr Staff Product Designer - Krak",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/1de8e4bb-224d-43f3-b826-be513d13243c",
+        "date": "2026-11-18T20:45:58.839+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm424"
+      },
+      "payload": {
+        "text": "Kraken is hiring Sr Staff Product Designer: https://hashtagweb3.com/pm424/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/pm424/li?og=7",
+          "title": "Sr Staff Product Designer - Krak at Kraken | Hashtag Web3",
+          "description": "Join Kraken as Sr Staff Product Designer - Krak. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/pm424.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "3c4ca9f3-a9a9-47b3-aae5-2f7c508fbc7b",
+      "verification": "creating"
     }
   ]
 }
