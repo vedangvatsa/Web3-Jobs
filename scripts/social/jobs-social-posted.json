@@ -211911,6 +211911,39 @@
       "attemptId": "e5091ef2-3cb5-4132-a3dd-050e040472de",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 28-Nov-26 04:20:14 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"A6alQIRQ1FDD7UQIdUSkdyr\"}"
+    },
+    {
+      "slug": "sls434",
+      "company": "Fireblocks",
+      "title": "Sales Director, Banking",
+      "platform": "bluesky",
+      "postedAt": "2026-11-28T12:19:57.543Z",
+      "expectedText": "Fireblocks is hiring Sales Director, Banking: https://hashtagweb3.com/sls434/bsky?og=7",
+      "snapshot": {
+        "id": "4699618006",
+        "title": "Sales Director, Banking",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4699618006",
+        "date": "2026-11-06T13:46:57-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "New York",
+        "department": "Sales",
+        "active": true,
+        "salary": "$280k – $390k/yr",
+        "dateVerified": true,
+        "slug": "sls434"
+      },
+      "payload": {
+        "text": "Fireblocks is hiring Sales Director, Banking: https://hashtagweb3.com/sls434/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/sls434/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/sls434.png?v=7",
+        "company": "Fireblocks",
+        "title": "Sales Director, Banking",
+        "description": "Join Fireblocks as Sales Director, Banking. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "a27db4b6-1a09-4c7f-acff-43bf612788be",
+      "verification": "creating"
     }
   ]
 }
