@@ -1,0 +1,28 @@
+---
+title: Binance Fully Lifts Withdrawal Suspension Four Weeks After Hack
+ogTitle: "BINANCE FULLY LIFTS WITHDRAWAL SUSPENSION FOUR WEEKS AFTER HACK"
+description: Binance said it fully lifted the withdrawal suspension from the October 29 hack, reopening nearly all networks while about $2.85 billion of the stolen crypto stays frozen and the Justice Department pursues a $1.1 billion forfeiture case.
+image: /images/news/binancewithdrawals.jpg
+imageCaption: "The U.S. Department of Justice building in Washington, D.C. Photo: Tony Webster via Wikimedia Commons (CC BY 2.0)."
+imageCreditUrl: https://commons.wikimedia.org/wiki/File:Department%20of%20Justice%20Building%20-%20Washington%2C%20DC%20(14323816141).jpg
+category: News
+data-ai-hint: federal building stone facade
+publishedDate: '2026-11-28'
+lastUpdated: '2026-11-28'
+---
+
+Binance said on Thursday it has finished the withdrawal recovery work that followed last month's hack and fully lifted the suspension it imposed after the theft. "Our withdrawal recovery work is completed and the withdrawal suspension from the security incident has been fully lifted," the exchange wrote in a post to X on November 26, which [Decrypt reported](https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack). Withdrawals are open across nearly all supported networks, while a small number remain paused for maintenance or planned upgrades that Binance said are separate from the incident and affect a very small share of normal traffic.
+
+The restoration closes out four weeks of staged reopenings that started after the breach of October 29. Attackers drained roughly $6.3 billion to $6.4 billion from the exchange's hot wallets in about 20 to 30 minutes across several blockchains, making it the largest crypto theft on record, according to [Crypto Briefing](https://cryptobriefing.com/binance-restores-withdrawals-after-record-hack/). Binance stopped customer withdrawals for two days after the attack, and reopened them on November 1 starting with bitcoin, [Bitcoin Magazine wrote](https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack). Customers pulled a net $4.7 billion off the platform in those first days, a figure Binance published on November 2.
+
+The reopening then widened network by network. By November 14, 87 networks were operational again, and most services were restored by late November, Crypto Briefing reported. The exchange also sped up its proof-of-reserves process, which it uses to show that customer deposits are fully backed.
+
+Coverage of the losses finished before the withdrawals did. Binance said on November 12 that it had completed coverage of the affected assets with more than $6.34 billion of company money, drawn from a partial deployment of its Secure Asset Fund for Users, part of its futures insurance fund and its corporate treasury, and it pledged to rebuild the user-protection fund to about $1 billion. That step replaced customer balances on its own books; it did not bring back the stolen coins. About $2.82 billion to $2.85 billion of the funds have been frozen remotely by the token issuers that control the assets, mostly USDT and USDC, with the freezes resting on cooperation between Binance, the FBI and the U.S. Secret Service, Crypto Briefing reported.
+
+Recovery through the courts is moving more slowly than the freezing. On November 23 the Justice Department filed a civil forfeiture action for more than $1.1 billion in USDC taken in the hack, and said the United States has helped freeze, seize or return more than $2.9 billion in crypto since the attack, as [Decrypt wrote](https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack). Court orders now cover over $1.2 billion of the frozen funds, but only about $32 million had actually been recovered as of late November, according to Crypto Briefing. The FBI has attributed the October 29 attack to TraderTraitor, a hacking group linked to North Korea, and North Korea has denied involvement.
+
+Binance used the announcement to warn customers about phishing that follows incidents like this one. The exchange said it will never ask for passwords, two-factor authentication codes or seed phrases, and that it does not contact users to offer priority processing or to move their assets into a vault. It also said all user assets remain fully backed and pointed customers to its proof-of-reserves website.
+
+The funds that were not frozen are still moving. More than $600 million of the stolen crypto has passed through the cross-chain exchange THORChain, estimates from Chainalysis and Elliptic showed in a report [Decrypt covered](https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack), and Elliptic said another $342 million went through a bitcoin coinjoin service that pools coins to blur their origin. TRM Labs estimated the launderers may have paid THORChain as much as $1 million in fees, Bitcoin Magazine reported, and the firm's global head of policy, Ari Redbord, said cashing out even a fraction of the haul would be a windfall for North Korea. THORChain co-founder Chad Barraford posted a video on Thursday arguing that 98% of the network's trading is legitimate and that shutting it down would hurt ordinary users while barely inconveniencing the hackers.
+
+The FBI published wallet addresses tied to the attack on October 31 and asked crypto service providers, including the computers that run THORChain, to block them. THORChain says on its website that it does not censor transactions or run Know Your Customer checks.
