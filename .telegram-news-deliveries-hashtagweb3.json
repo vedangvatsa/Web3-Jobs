@@ -1191,7 +1191,7 @@
     "sentAt": "2026-11-27T20:15:10.490Z"
   },
   "eb9d5544-78c4-4fca-83ac-8be424bdfcd8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-28T04:42:44.458Z",
     "stories": [
       {
@@ -1219,6 +1219,8 @@
         "originalTitle": "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption"
       }
     ],
-    "slotKey": "2026-11-28:morning"
+    "slotKey": "2026-11-28:morning",
+    "messageId": 156550,
+    "sentAt": "2026-11-28T04:42:56.663Z"
   }
 }

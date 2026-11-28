@@ -107,6 +107,9 @@
   "https://hashtagweb3.com/cyberbridge?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
   "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://hashtagweb3.com/stanchartjapanrwa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/cantonstock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -323,6 +326,12 @@
   "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
   "Bitcoin whales continue buying despite lower profit margins",
   "Bitcoin whales pile into BTC despite shrinking profit cushion",
+  "Standard Chartered forecasts $2 trillion RWA market via Japanese bonds",
+  "Standard Chartered projects Japan bond tokenization could drive RWAs to $2T",
+  "Hong Kong Passes Crypto Tax Reporting Legislation",
+  "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection",
+  "Canton Strategic Completes First Tokenized Stock Trades Under SEC Exemption",
+  "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -430,5 +439,8 @@
   "fp:bank|bas|blockchain|central|chief|commercial|currency|deposit|digital|ecb",
   "fp:bithumb|bridg|cyber|deposit|halt|mint|nov22|paus|solana|stopp",
   "fp:averag|below|bottom|current|different|drop|historical|investor|levels4|long",
-  "fp:are|btc|buy|continu|cushion|despit|follow|fourth|historical|holder"
+  "fp:are|btc|buy|continu|cushion|despit|follow|fourth|historical|holder",
+  "fp:analyst|asset|bond|charter|corporat|debt|driv|forecast|globally|government",
+  "fp:begin|bill|collect|collection|comply|for2027|hong|in2027|international|kong",
+  "fp:canton|cntn|complet|cumberland|drw|exemption|fiv|flowdesk|issuer|north"
 ]
