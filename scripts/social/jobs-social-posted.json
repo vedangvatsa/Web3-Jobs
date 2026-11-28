@@ -211046,6 +211046,39 @@
       "attemptId": "aa27142a-ad3c-42af-9a48-fee9b29d0d53",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Saturday, 28-Nov-26 04:15:46 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AThbgjfXw-wF4MRV3lGtViW\"}"
+    },
+    {
+      "slug": "ds21",
+      "company": "Figure",
+      "title": "Senior Data Scientist",
+      "platform": "bluesky",
+      "postedAt": "2026-11-28T12:15:33.162Z",
+      "expectedText": "Figure is hiring Senior Data Scientist: https://hashtagweb3.com/ds21/bsky?og=7",
+      "snapshot": {
+        "id": "8934097002",
+        "title": "Senior Data Scientist",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8934097002",
+        "date": "2026-11-12T18:18:33-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Data Engineering",
+        "active": true,
+        "salary": "$132k – $198k/yr",
+        "dateVerified": true,
+        "slug": "ds21"
+      },
+      "payload": {
+        "text": "Figure is hiring Senior Data Scientist: https://hashtagweb3.com/ds21/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/ds21/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/ds21.png?v=7",
+        "company": "Figure",
+        "title": "Senior Data Scientist",
+        "description": "Join Figure as Senior Data Scientist. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "181ed16d-beb2-43d3-a6e1-0669884e2d2e",
+      "verification": "creating"
     }
   ]
 }
