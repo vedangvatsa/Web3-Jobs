@@ -1,0 +1,35 @@
+{
+  "dispatchedAt": "2026-11-25T06:21:38.339Z",
+  "results": [
+    {
+      "desk": "Webroot Threat Research Desk",
+      "email": "wr-threatresearch@opentext.com",
+      "status": 200,
+      "deliveryId": "01a2115d-e0aa-78b6-a62c-a87081e2f5c4"
+    },
+    {
+      "desk": "BrightCloud Threat Intelligence",
+      "email": "notify@bcti.opentext.com",
+      "status": 200,
+      "deliveryId": "01a2115d-e371-7230-9148-25f25659e524"
+    },
+    {
+      "desk": "Webroot Security Operations",
+      "email": "security@webroot.com",
+      "status": 200,
+      "deliveryId": "01a2115d-e68a-743a-9762-dd815d47c273"
+    },
+    {
+      "desk": "Webroot Technical Support",
+      "email": "support@webroot.com",
+      "status": 200,
+      "deliveryId": "01a2115d-e947-7ce5-91dc-827b09c0d59e"
+    },
+    {
+      "desk": "Webroot Abuse Escalation",
+      "email": "abuse@webroot.com",
+      "status": 200,
+      "deliveryId": "01a2115d-ec84-73e3-a664-8f733778a044"
+    }
+  ]
+}
