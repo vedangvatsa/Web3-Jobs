@@ -223236,37 +223236,34 @@
       ],
       "alsoCoveredBy": [],
       "id": "bc42da22ffcae8a374eb",
-      "status": "deferred",
+      "status": "ready",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T16:54:15.000Z",
       "lastSeenAt": "2026-11-28T02:05:08.508Z",
-      "reason": "source-blocked",
-      "note": "Availability-only GET checks for \"Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF\": https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686 -> HTTP 403; https://unchainedcrypto.com/index-reshuffle-puts-hyperliquids-hype-in-franklins-ezpz-crypto-etf-on-dec-1/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "reason": "verified-event",
+      "note": "Opened and read the SEC 424B3 Supplement No. 1 (Nov 25, 2026), Cointelegraph (Nov 27) and Unchained (Nov 26). Verified: HYPE joins the CF Institutional Digital Asset Index effective Dec 1, 2026; EZPZ buys all eight constituents in index weights on or about Dec 1; no HYPE weight or fee change disclosed; generic listing standards SR-CboeBZX-2025-104; three spot HYPE ETPs held ~66.5M AUM as of Nov 27. Hero image self-hosted from Wikimedia (One Franklin Parkway, CC BY-SA 4.0). Draft at 655 words.",
       "sourceChecks": [
         {
-          "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.586Z"
+          "url": "https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/draftezpz424b3nov2026.htm",
+          "outcome": "read"
+        },
+        {
+          "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf",
+          "outcome": "read"
         },
         {
           "url": "https://unchainedcrypto.com/index-reshuffle-puts-hyperliquids-hype-in-franklins-ezpz-crypto-etf-on-dec-1/",
-          "outcome": "blocked",
-          "status": 403,
-          "method": "GET",
-          "checkedAt": "2026-11-27T02:19:46.644Z"
+          "outcome": "read"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:30:34.788Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
         "Find independent reporting confirming the event in: Hyperliquid’s HYPE will join bitcoin, ether and more in Franklin Templeton’s crypto ETF",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28",
+      "lastReviewedDay": "2026-11-28",
       "articleSlug": "franklinhype",
       "draftProgress": {
         "id": "bc42da22ffcae8a374eb",
@@ -451320,6 +451317,27 @@
             }
           ],
           "reviewedAt": "2026-11-28T02:17:19.457Z"
+        },
+        "bc42da22ffcae8a374eb": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Opened and read the SEC 424B3 Supplement No. 1 (Nov 25, 2026), Cointelegraph (Nov 27) and Unchained (Nov 26). Verified: HYPE joins the CF Institutional Digital Asset Index effective Dec 1, 2026; EZPZ buys all eight constituents in index weights on or about Dec 1; no HYPE weight or fee change disclosed; generic listing standards SR-CboeBZX-2025-104; three spot HYPE ETPs held ~66.5M AUM as of Nov 27. Hero image self-hosted from Wikimedia (One Franklin Parkway, CC BY-SA 4.0). Draft at 655 words.",
+          "sourceChecks": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/draftezpz424b3nov2026.htm",
+              "outcome": "read"
+            },
+            {
+              "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf",
+              "outcome": "read"
+            },
+            {
+              "url": "https://unchainedcrypto.com/index-reshuffle-puts-hyperliquids-hype-in-franklins-ezpz-crypto-etf-on-dec-1/",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:30:34.788Z",
+          "articleSlug": "franklinhype"
         }
       },
       "baselineSlugs": [
