@@ -4424,5 +4424,121 @@
     "slotKey": "2026-11-28:morning",
     "messageId": 156548,
     "sentAt": "2026-11-28T04:39:35.830Z"
+  },
+  "7d3943bd-8367-44c0-9fac-06c2cd2e9d36": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T12:14:06.921Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "6267160004",
+          "title": "2027 FP&A Intern - NYC",
+          "company": "Galaxy Digital",
+          "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6267160004",
+          "date": "2026-11-20T10:49:20-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
+          "location": "New York",
+          "department": "Early Careers",
+          "active": true,
+          "dateVerified": true,
+          "slug": "int63"
+        },
+        "key": "6267160004",
+        "slug": "int63",
+        "url": "https://hashtagweb3.com/int63?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Galaxy Digital",
+        "title": "2027 FP&A Intern"
+      },
+      {
+        "snapshot": {
+          "id": "8368652",
+          "title": "Technical Account Manager, Spanish Speaking",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8368652",
+          "date": "2026-11-16T11:05:44-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Madrid, Spain",
+          "department": "4147 Technical Account Management, Support & Services - EMEA",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls512"
+        },
+        "key": "8368652",
+        "slug": "sls512",
+        "url": "https://hashtagweb3.com/sls512?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Technical Account Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8400293",
+          "title": "Marketing Program Manager",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8400293?t=gh_src=&gh_jid=8400293",
+          "date": "2026-11-23T10:46:22-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "New York, NY",
+          "department": "Marketing Division",
+          "active": true,
+          "salary": "$119k – $140k/yr",
+          "dateVerified": true,
+          "slug": "mkt180"
+        },
+        "key": "8400293",
+        "slug": "mkt180",
+        "url": "https://hashtagweb3.com/mkt180?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Marketing Program Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8197695003",
+          "title": "Senior Management, Platform & Infrastructure Audit",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8197695003",
+          "date": "2026-11-06T11:41:51-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "San Jose, CA",
+          "department": "Internal Audit ",
+          "active": true,
+          "salary": "$171k – $257k/yr",
+          "dateVerified": true,
+          "slug": "infra101"
+        },
+        "key": "8197695003",
+        "slug": "infra101",
+        "url": "https://hashtagweb3.com/infra101?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Senior Management"
+      },
+      {
+        "snapshot": {
+          "id": "8337809",
+          "title": "Business Analyst - Commodities / Openlink Endur",
+          "company": "DRW",
+          "link": "https://job-boards.greenhouse.io/drweng/jobs/8337809",
+          "date": "2026-11-03T13:58:18-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DRW [drweng]",
+          "location": "Houston",
+          "department": "UP - Commodities",
+          "active": true,
+          "dateVerified": true,
+          "slug": "an68"
+        },
+        "key": "8337809",
+        "slug": "an68",
+        "url": "https://hashtagweb3.com/an68?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DRW",
+        "title": "Business Analyst"
+      }
+    ],
+    "message": "- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 FP&amp;A Intern</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls512?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Account Manager, Spanish Speaking</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mkt180?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Program Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/infra101?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Management</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/an68?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Analyst - Commodities</a>",
+    "slotKey": "2026-11-28:afternoon"
   }
 }
