@@ -227055,11 +227055,25 @@
         "BeInCrypto"
       ],
       "id": "5b4a3876a03ea04b11c3",
-      "status": "pending",
+      "status": "rejected",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T16:18:24.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "price-chatter",
+      "note": "Read The Block's report of the JPMorgan note: it interprets Strategy's 0.88x NAV multiple and IBIT outflows as a bitcoin capitulation signal. This is analyst price interpretation and prediction, not a concrete event such as a filing, vote or launch.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+          "outcome": "read"
+        },
+        {
+          "url": "https://beincrypto.com/jpmorgan-bitcoin-bottom-signal-microstrategy/",
+          "outcome": "blocked"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:17:19.457Z",
+      "lastReviewedDay": "2026-11-28"
     },
     "275e09b498a4bba4ef96": {
       "source": "Bitcoin Magazine",
@@ -451266,6 +451280,22 @@
           ],
           "reviewedAt": "2026-11-28T02:15:11.093Z",
           "articleSlug": "binancewithdrawals"
+        },
+        "5b4a3876a03ea04b11c3": {
+          "status": "rejected",
+          "reason": "price-chatter",
+          "note": "Read The Block's report of the JPMorgan note: it interprets Strategy's 0.88x NAV multiple and IBIT outflows as a bitcoin capitulation signal. This is analyst price interpretation and prediction, not a concrete event such as a filing, vote or launch.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+              "outcome": "read"
+            },
+            {
+              "url": "https://beincrypto.com/jpmorgan-bitcoin-bottom-signal-microstrategy/",
+              "outcome": "blocked"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:17:19.457Z"
         }
       },
       "baselineSlugs": [
