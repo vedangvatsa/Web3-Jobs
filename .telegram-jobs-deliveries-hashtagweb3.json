@@ -4306,7 +4306,7 @@
     "sentAt": "2026-11-27T20:11:19.722Z"
   },
   "690dbb65-4e31-474c-b881-c167f3237512": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-28T04:39:33.491Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4421,6 +4421,8 @@
       }
     ],
     "message": "- Arca is hiring <a href=\"https://hashtagweb3.com/tax9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tax</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/sls322?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accounts Payable Specialist</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/eng871?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/eng859?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Development Engineer in Test</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/be64?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer</a>",
-    "slotKey": "2026-11-28:morning"
+    "slotKey": "2026-11-28:morning",
+    "messageId": 156548,
+    "sentAt": "2026-11-28T04:39:35.830Z"
   }
 }
