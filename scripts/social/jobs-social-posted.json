@@ -211437,7 +211437,8 @@
       },
       "account": "channel:base",
       "attemptId": "aea897c9-e7da-4109-a525-023c7e5727ae",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x8940f0725c9172c0fe32eb6586c052799a31185b"
     }
   ]
 }
