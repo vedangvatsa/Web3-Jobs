@@ -13,6 +13,7 @@ headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}
 stable_colors = ['#10b981', '#3b82f6', '#8b5cf6', '#f59e0b', '#06b6d4', '#ec4899', '#64748b', '#a855f7']
 chain_colors = ['#6366f1', '#ef4444', '#f59e0b', '#10b981', '#06b6d4', '#3b82f6', '#8b5cf6', '#ec4899']
 sector_colors = ['#3b82f6', '#10b981', '#8b5cf6', '#f59e0b', '#ec4899', '#06b6d4', '#64748b', '#e11d48']
+agentic_colors = ['#3b82f6', '#8b5cf6', '#10b981', '#f59e0b', '#ec4899', '#06b6d4', '#64748b', '#a855f7']
 
 # 1. Stablecoins from DefiLlama
 stables_url = 'https://stablecoins.llama.fi/stablecoins?includePrices=true'
@@ -126,7 +127,7 @@ try:
 except Exception as e:
     print(f"Error fetching Fees: {e}")
 
-# 6. Web3 DeFi Sector Breakdown (Lending, Liquid Staking, DEXs, Bridges, etc.)
+# 6. Web3 DeFi Sector Breakdown
 sectors_list = []
 try:
     proto_url = 'https://api.llama.fi/protocols'
@@ -136,7 +137,7 @@ try:
     cats = {}
     for p in proto_raw:
         c = p.get('category')
-        if not c or c in ['CEX', 'Canonical Bridge']: # Filter non-DeFi custodians
+        if not c or c in ['CEX', 'Canonical Bridge']:
             continue
         tvl = p.get('tvl', 0) or 0
         cats[c] = cats.get(c, 0) + tvl
@@ -232,18 +233,94 @@ rwa_treasuries = [
     }
 ]
 
-# 9. Visa Onchain Analytics Metrics
-visa_analytics = {
-    'adjustedMonthlyVolume': '$1.79 Trillion',
-    'rawReportedVolume': '$3.94 Trillion',
-    'botFilteredRatio': '54.6%',
-    'activeAddresses30d': '38.4 Million',
-    'organicVolumeRatio': '45.4%',
-    'institutionalSettlementRunRate': '$14.2 Billion',
-    'summary': 'Filters inorganic bot loops, flash loans, and exchange rebalancing to expose actual commercial settlement.'
+# 9. Visa Onchain Analytics: Agentic Payments Module
+# Source: https://visaonchainanalytics.com/agentic-payments
+agentic_payments = {
+    'totalVolume': '$59.21M',
+    'organicVolume': '$35.41M',
+    'medianTxnSize': '$0.0100',
+    'totalTransactions': '303.66M',
+    'buyerWallets': '1.06M',
+    'merchantWallets': '398,288',
+    'protocolBreakdown': [
+        {
+            'protocol': 'x402 Protocol',
+            'totalVolume': '$58.78M',
+            'organicVolume': '$34.98M',
+            'transactions': '298.97M',
+            'medianTxn': '$0.0100',
+            'buyerWallets': '847,039',
+            'merchantWallets': '323,126',
+            'share': 99.3,
+            'color': '#3b82f6'
+        },
+        {
+            'protocol': 'MPP (Machine Payments)',
+            'totalVolume': '$432.09k',
+            'organicVolume': '$432.09k',
+            'transactions': '4.70M',
+            'medianTxn': '$0.0100',
+            'buyerWallets': '223,686',
+            'merchantWallets': '75,748',
+            'share': 0.7,
+            'color': '#10b981'
+        }
+    ],
+    'serviceCategories': [
+        {'name': 'AI Inference (Metered Model APIs)', 'share': 80.8, 'color': '#3b82f6'},
+        {'name': 'Gaming (In-Game Autonomous Assets)', 'share': 7.9, 'color': '#8b5cf6'},
+        {'name': 'Data & Oracle Feeds', 'share': 6.3, 'color': '#10b981'},
+        {'name': 'Payment Routing & Settlement', 'share': 1.9, 'color': '#f59e0b'},
+        {'name': 'Image & Media Generation', 'share': 1.4, 'color': '#ec4899'},
+        {'name': 'Audio, Video & Infrastructure', 'share': 1.7, 'color': '#64748b'}
+    ],
+    'summary': 'AI agents autonomously paying for compute, data, and API services via micropayment primitives.'
 }
 
-# 10. Assemble complete dataset
+# 10. Visa Onchain Analytics: Stablecoin Lending Module
+# Source: https://visaonchainanalytics.com/lending
+stablecoin_lending = {
+    'totalBorrowed': '$755.14B',
+    'totalRepaid': '$733.96B',
+    'totalBorrowsCount': '21.39M',
+    'avgDailyLoanSize': '$58,269',
+    'outstandingLoans': '$16.58B',
+    'topProtocols': [
+        {'name': 'Aave', 'volume': '$395.8B', 'share': 52.4, 'chains': 'Ethereum, Base, Polygon, Avalanche', 'color': '#8b5cf6'},
+        {'name': 'Compound', 'volume': '$55.08B', 'share': 7.3, 'chains': 'Ethereum, Arbitrum, Polygon', 'color': '#00d395'},
+        {'name': 'Venus Finance', 'volume': '$41.86B', 'share': 5.5, 'chains': 'BNB Smart Chain', 'color': '#f59e0b'},
+        {'name': 'Jupiter', 'volume': '$31.22B', 'share': 4.1, 'chains': 'Solana', 'color': '#3b82f6'},
+        {'name': 'Spark (Sky / Maker)', 'volume': '$19.18B', 'share': 2.5, 'chains': 'Ethereum', 'color': '#ec4899'},
+        {'name': 'Morpho & Others', 'volume': '$211.99B', 'share': 28.2, 'chains': 'Ethereum, Multi-chain', 'color': '#64748b'}
+    ],
+    'topStablecoinsBorrowed': [
+        {'symbol': 'USDC', 'volume': '$430.4B', 'share': 57.0, 'color': '#2775ca'},
+        {'symbol': 'USDT', 'volume': '$279.4B', 'share': 37.0, 'color': '#26a17b'},
+        {'symbol': 'PYUSD & Others', 'volume': '$45.3B', 'share': 6.0, 'color': '#64748b'}
+    ]
+}
+
+# 11. Visa Onchain Analytics: Transactions & Signal-to-Noise Filtering
+# Source: https://visaonchainanalytics.com/transactions
+transactions_signal = {
+    'totalGrossVolume': '$371.97T',
+    'adjustedVolume': '$8.96T',
+    'totalGrossTransactions': '41.54B',
+    'adjustedTransactions': '3.98B',
+    'retailAdjustedVolume': '$109.31B',
+    'retailAdjustedCount': '2.90B',
+    'botFilteredRatio': '97.6%',
+    'sub100DollarTransferRatio': '68.2%',
+    'topPairsAdjusted': [
+        {'pair': 'USDT on Tron', 'volume': '$6.06T', 'txns': '1.37B', 'share': 67.6, 'color': '#ef4444'},
+        {'pair': 'USDT on Ethereum', 'volume': '$983.3B', 'txns': '140.6M', 'share': 11.0, 'color': '#6366f1'},
+        {'pair': 'USDC on Ethereum', 'volume': '$511.7B', 'txns': '59.9M', 'share': 5.7, 'color': '#3b82f6'},
+        {'pair': 'USDT on BSC', 'volume': '$422.1B', 'txns': '951.4M', 'share': 4.7, 'color': '#f59e0b'},
+        {'pair': 'USDC on Solana', 'volume': '$357.8B', 'txns': '346.3M', 'share': 4.0, 'color': '#10b981'}
+    ]
+}
+
+# 12. Assemble complete dataset
 data = {
     'updatedAt': datetime.now(timezone.utc).isoformat(),
     'overview': {
@@ -254,7 +331,9 @@ data = {
         'totalDeFiTvl': f"${sum(c['rawTvl'] for c in tvl_chains)/1e9:.2f}B" if tvl_chains else "$67.7B",
         'dex24hVolume': total_dex_24h,
         'fees24h': total_fees_24h,
-        'botFilteredVolume30d': "$2.15 Trillion"
+        'agenticPaymentsTotalVolume': agentic_payments['totalVolume'],
+        'lendingTotalBorrowed': stablecoin_lending['totalBorrowed'],
+        'cumulativeAdjustedVolume': transactions_signal['adjustedVolume']
     },
     'topStablecoins': top_assets,
     'topSettlementChains': top_chains,
@@ -264,17 +343,21 @@ data = {
     'topFeeGenerators': fees_list,
     'recentHacks': recent_hacks,
     'tokenizedTreasuries': rwa_treasuries,
-    'visaAnalytics': visa_analytics,
+    'agenticPayments': agentic_payments,
+    'stablecoinLending': stablecoin_lending,
+    'transactionsSignal': transactions_signal,
     'sources': [
-        {'name': 'Visa Onchain Analytics', 'url': 'https://visaonchainanalytics.com/'},
+        {'name': 'Visa Onchain Analytics (All Modules)', 'url': 'https://visaonchainanalytics.com/'},
+        {'name': 'Visa Agentic Payments Explorer', 'url': 'https://visaonchainanalytics.com/agentic-payments'},
+        {'name': 'Visa Stablecoin Lending Tracker', 'url': 'https://visaonchainanalytics.com/lending'},
         {'name': 'RWA.xyz Institutional Tracker', 'url': 'https://app.rwa.xyz/'},
         {'name': 'DefiLlama Stablecoins & TVL', 'url': 'https://defillama.com/stablecoins'},
         {'name': 'DefiLlama DEXs & Protocols', 'url': 'https://defillama.com/dexs'},
-        {'name': 'DefiLlama Hacks & Security', 'url': 'https://defillama.com/hacks'}
+        {'name': 'DefiLlama Security Exploits', 'url': 'https://defillama.com/hacks'}
     ]
 }
 
 with open(OUT_FILE, 'w') as f:
     json.dump(data, f, indent=2)
 
-print(f"Synced multi-source dashboard metrics successfully to {OUT_FILE}")
+print(f"Synced complete multi-source dataset to {OUT_FILE}")

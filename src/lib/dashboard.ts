@@ -10,7 +10,9 @@ export interface DashboardMetrics {
     totalDeFiTvl: string;
     dex24hVolume: string;
     fees24h: string;
-    botFilteredVolume30d: string;
+    agenticPaymentsTotalVolume?: string;
+    lendingTotalBorrowed?: string;
+    cumulativeAdjustedVolume?: string;
   };
   topStablecoins: Array<{
     name: string;
@@ -73,14 +75,67 @@ export interface DashboardMetrics {
     chains: string;
     yieldApy?: string;
   }>;
-  visaAnalytics: {
-    adjustedMonthlyVolume: string;
-    rawReportedVolume?: string;
-    botFilteredRatio?: string;
-    activeAddresses30d: string;
-    organicVolumeRatio: string;
-    institutionalSettlementRunRate: string;
+  agenticPayments?: {
+    totalVolume: string;
+    organicVolume: string;
+    medianTxnSize: string;
+    totalTransactions: string;
+    buyerWallets: string;
+    merchantWallets: string;
+    protocolBreakdown: Array<{
+      protocol: string;
+      totalVolume: string;
+      organicVolume: string;
+      transactions: string;
+      medianTxn: string;
+      buyerWallets: string;
+      merchantWallets: string;
+      share: number;
+      color?: string;
+    }>;
+    serviceCategories: Array<{
+      name: string;
+      share: number;
+      color?: string;
+    }>;
     summary: string;
+  };
+  stablecoinLending?: {
+    totalBorrowed: string;
+    totalRepaid: string;
+    totalBorrowsCount: string;
+    avgDailyLoanSize: string;
+    outstandingLoans: string;
+    topProtocols: Array<{
+      name: string;
+      volume: string;
+      share: number;
+      chains: string;
+      color?: string;
+    }>;
+    topStablecoinsBorrowed: Array<{
+      symbol: string;
+      volume: string;
+      share: number;
+      color?: string;
+    }>;
+  };
+  transactionsSignal?: {
+    totalGrossVolume: string;
+    adjustedVolume: string;
+    totalGrossTransactions: string;
+    adjustedTransactions: string;
+    retailAdjustedVolume: string;
+    retailAdjustedCount: string;
+    botFilteredRatio: string;
+    sub100DollarTransferRatio: string;
+    topPairsAdjusted: Array<{
+      pair: string;
+      volume: string;
+      txns: string;
+      share: number;
+      color?: string;
+    }>;
   };
   sources: Array<{
     name: string;

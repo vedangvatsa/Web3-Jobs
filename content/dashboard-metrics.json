@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T10:07:48.777840+00:00",
+  "updatedAt": "2026-11-28T10:23:10.178366+00:00",
   "overview": {
     "totalStablecoinMarketCap": "$282.79 Billion",
     "tokenizedTreasuriesMarketCap": "$14.80 Billion",
@@ -8,7 +8,9 @@
     "totalDeFiTvl": "$59.58B",
     "dex24hVolume": "$6.37B",
     "fees24h": "$62.2M",
-    "botFilteredVolume30d": "$2.15 Trillion"
+    "agenticPaymentsTotalVolume": "$59.21M",
+    "lendingTotalBorrowed": "$755.14B",
+    "cumulativeAdjustedVolume": "$8.96T"
   },
   "topStablecoins": [
     {
@@ -455,19 +457,201 @@
       "yieldApy": "4.72%"
     }
   ],
-  "visaAnalytics": {
-    "adjustedMonthlyVolume": "$1.79 Trillion",
-    "rawReportedVolume": "$3.94 Trillion",
-    "botFilteredRatio": "54.6%",
-    "activeAddresses30d": "38.4 Million",
-    "organicVolumeRatio": "45.4%",
-    "institutionalSettlementRunRate": "$14.2 Billion",
-    "summary": "Filters inorganic bot loops, flash loans, and exchange rebalancing to expose actual commercial settlement."
+  "agenticPayments": {
+    "totalVolume": "$59.21M",
+    "organicVolume": "$35.41M",
+    "medianTxnSize": "$0.0100",
+    "totalTransactions": "303.66M",
+    "buyerWallets": "1.06M",
+    "merchantWallets": "398,288",
+    "protocolBreakdown": [
+      {
+        "protocol": "x402 Protocol",
+        "totalVolume": "$58.78M",
+        "organicVolume": "$34.98M",
+        "transactions": "298.97M",
+        "medianTxn": "$0.0100",
+        "buyerWallets": "847,039",
+        "merchantWallets": "323,126",
+        "share": 99.3,
+        "color": "#3b82f6"
+      },
+      {
+        "protocol": "MPP (Machine Payments)",
+        "totalVolume": "$432.09k",
+        "organicVolume": "$432.09k",
+        "transactions": "4.70M",
+        "medianTxn": "$0.0100",
+        "buyerWallets": "223,686",
+        "merchantWallets": "75,748",
+        "share": 0.7,
+        "color": "#10b981"
+      }
+    ],
+    "serviceCategories": [
+      {
+        "name": "AI Inference (Metered Model APIs)",
+        "share": 80.8,
+        "color": "#3b82f6"
+      },
+      {
+        "name": "Gaming (In-Game Autonomous Assets)",
+        "share": 7.9,
+        "color": "#8b5cf6"
+      },
+      {
+        "name": "Data & Oracle Feeds",
+        "share": 6.3,
+        "color": "#10b981"
+      },
+      {
+        "name": "Payment Routing & Settlement",
+        "share": 1.9,
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Image & Media Generation",
+        "share": 1.4,
+        "color": "#ec4899"
+      },
+      {
+        "name": "Audio, Video & Infrastructure",
+        "share": 1.7,
+        "color": "#64748b"
+      }
+    ],
+    "summary": "AI agents autonomously paying for compute, data, and API services via micropayment primitives."
+  },
+  "stablecoinLending": {
+    "totalBorrowed": "$755.14B",
+    "totalRepaid": "$733.96B",
+    "totalBorrowsCount": "21.39M",
+    "avgDailyLoanSize": "$58,269",
+    "outstandingLoans": "$16.58B",
+    "topProtocols": [
+      {
+        "name": "Aave",
+        "volume": "$395.8B",
+        "share": 52.4,
+        "chains": "Ethereum, Base, Polygon, Avalanche",
+        "color": "#8b5cf6"
+      },
+      {
+        "name": "Compound",
+        "volume": "$55.08B",
+        "share": 7.3,
+        "chains": "Ethereum, Arbitrum, Polygon",
+        "color": "#00d395"
+      },
+      {
+        "name": "Venus Finance",
+        "volume": "$41.86B",
+        "share": 5.5,
+        "chains": "BNB Smart Chain",
+        "color": "#f59e0b"
+      },
+      {
+        "name": "Jupiter",
+        "volume": "$31.22B",
+        "share": 4.1,
+        "chains": "Solana",
+        "color": "#3b82f6"
+      },
+      {
+        "name": "Spark (Sky / Maker)",
+        "volume": "$19.18B",
+        "share": 2.5,
+        "chains": "Ethereum",
+        "color": "#ec4899"
+      },
+      {
+        "name": "Morpho & Others",
+        "volume": "$211.99B",
+        "share": 28.2,
+        "chains": "Ethereum, Multi-chain",
+        "color": "#64748b"
+      }
+    ],
+    "topStablecoinsBorrowed": [
+      {
+        "symbol": "USDC",
+        "volume": "$430.4B",
+        "share": 57.0,
+        "color": "#2775ca"
+      },
+      {
+        "symbol": "USDT",
+        "volume": "$279.4B",
+        "share": 37.0,
+        "color": "#26a17b"
+      },
+      {
+        "symbol": "PYUSD & Others",
+        "volume": "$45.3B",
+        "share": 6.0,
+        "color": "#64748b"
+      }
+    ]
+  },
+  "transactionsSignal": {
+    "totalGrossVolume": "$371.97T",
+    "adjustedVolume": "$8.96T",
+    "totalGrossTransactions": "41.54B",
+    "adjustedTransactions": "3.98B",
+    "retailAdjustedVolume": "$109.31B",
+    "retailAdjustedCount": "2.90B",
+    "botFilteredRatio": "97.6%",
+    "sub100DollarTransferRatio": "68.2%",
+    "topPairsAdjusted": [
+      {
+        "pair": "USDT on Tron",
+        "volume": "$6.06T",
+        "txns": "1.37B",
+        "share": 67.6,
+        "color": "#ef4444"
+      },
+      {
+        "pair": "USDT on Ethereum",
+        "volume": "$983.3B",
+        "txns": "140.6M",
+        "share": 11.0,
+        "color": "#6366f1"
+      },
+      {
+        "pair": "USDC on Ethereum",
+        "volume": "$511.7B",
+        "txns": "59.9M",
+        "share": 5.7,
+        "color": "#3b82f6"
+      },
+      {
+        "pair": "USDT on BSC",
+        "volume": "$422.1B",
+        "txns": "951.4M",
+        "share": 4.7,
+        "color": "#f59e0b"
+      },
+      {
+        "pair": "USDC on Solana",
+        "volume": "$357.8B",
+        "txns": "346.3M",
+        "share": 4.0,
+        "color": "#10b981"
+      }
+    ]
   },
   "sources": [
     {
-      "name": "Visa Onchain Analytics",
+      "name": "Visa Onchain Analytics (All Modules)",
       "url": "https://visaonchainanalytics.com/"
+    },
+    {
+      "name": "Visa Agentic Payments Explorer",
+      "url": "https://visaonchainanalytics.com/agentic-payments"
+    },
+    {
+      "name": "Visa Stablecoin Lending Tracker",
+      "url": "https://visaonchainanalytics.com/lending"
     },
     {
       "name": "RWA.xyz Institutional Tracker",
@@ -482,7 +666,7 @@
       "url": "https://defillama.com/dexs"
     },
     {
-      "name": "DefiLlama Hacks & Security",
+      "name": "DefiLlama Security Exploits",
       "url": "https://defillama.com/hacks"
     }
   ]
