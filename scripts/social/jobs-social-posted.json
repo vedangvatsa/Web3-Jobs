@@ -212683,6 +212683,35 @@
       "attemptId": "4ce657fe-bf54-456c-839a-c5f536ff0a42",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "sls434",
+      "company": "Fireblocks",
+      "title": "Sales Director, Banking",
+      "platform": "facebook",
+      "postedAt": "2026-11-28T12:19:57.543Z",
+      "expectedText": "Fireblocks is hiring Sales Director, Banking: https://hashtagweb3.com/sls434/fb?og=7",
+      "snapshot": {
+        "id": "4699618006",
+        "title": "Sales Director, Banking",
+        "company": "Fireblocks",
+        "link": "https://www.fireblocks.com/careers/position?gh_jid=4699618006",
+        "date": "2026-11-06T13:46:57-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Fireblocks [fireblocks]",
+        "location": "New York",
+        "department": "Sales",
+        "active": true,
+        "salary": "$280k – $390k/yr",
+        "dateVerified": true,
+        "slug": "sls434"
+      },
+      "payload": {
+        "message": "Fireblocks is hiring Sales Director, Banking: https://hashtagweb3.com/sls434/fb?og=7",
+        "link": "https://hashtagweb3.com/sls434/fb?og=7"
+      },
+      "attemptId": "c067b40a-e927-426d-b607-64f571d04960",
+      "verification": "creating"
     }
   ]
 }
