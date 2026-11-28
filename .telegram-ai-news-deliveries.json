@@ -1368,7 +1368,7 @@
     "sentAt": "2026-11-27T20:11:23.396Z"
   },
   "17a07166-6b7a-4222-b1f1-de8d32dbe5d7": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-28T04:39:53.007Z",
     "stories": [
       {
@@ -1402,6 +1402,8 @@
         "originalTitle": "A New Breed of Chip Runs AI Models Using Waves of Light"
       }
     ],
-    "slotKey": "2026-11-28:morning"
+    "slotKey": "2026-11-28:morning",
+    "messageId": 193598,
+    "sentAt": "2026-11-28T04:39:55.898Z"
   }
 }

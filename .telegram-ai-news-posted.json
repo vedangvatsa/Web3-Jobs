@@ -107,6 +107,9 @@
   "https://the-decoder.com/openai-countersues-apple-over-trade-secret-theft-and-alleged-coercion-of-shared-suppliers/",
   "https://the-decoder.com/banned-nvidia-blackwell-chips-turn-up-in-a-shanghai-data-center-linked-to-alice-huang-bloomberg-reports/",
   "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+  "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+  "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+  "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -323,6 +326,12 @@
   "Banned Nvidia Blackwell chips turn up in a Shanghai data center linked to Alice Huang, Bloomberg reports",
   "Forty-two states act to block Character.AI chat data sale",
   "42 state AGs are trying to stop Character.AI from selling users’ chats",
+  "Meta and AMI Labs publish research on JEPA architecture",
+  "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+  "OpenAI develops Athena data platform for business agents",
+  "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+  "Q.ANT develops photonic chip for AI model processing",
+  "A New Breed of Chip Runs AI Models Using Waves of Light",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -430,5 +439,8 @@
   "fp:annual|competition|founder|innovator|list|mit|nomination|now|open|opens2027",
   "fp:action|alleg|appl|between|both|coercion|competition|countersu|intensify|legal",
   "fp:advanc|alic|bann|blackwell|bloomberg|center|china|chip|demonstrat|discover",
-  "fp:act|are|auction|bankruptcy|block|buyer|character|chat|conversational|court"
+  "fp:act|are|auction|bankruptcy|block|buyer|character|chat|conversational|court",
+  "fp:alternativ|ami|architectur|back|bet|demonstrat|efficiency|jepa|lab|larg",
+  "fp:accuracy|athena|autonomous|business|creat|cut|develop|down|guesswork|improv",
+  "fp:aim|ant|bre|calculation|chip|consumption|develop|electricity|energy|hardwar"
 ]
