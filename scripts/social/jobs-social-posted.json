@@ -209247,6 +209247,35 @@
       "attemptId": "c18a3243-698d-4f57-9986-153ab4fcad28",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "rc7",
+      "company": "TRM Labs",
+      "title": "Senior Recruiting Coordinator",
+      "platform": "facebook",
+      "postedAt": "2026-11-28T02:09:26.519Z",
+      "expectedText": "TRM Labs is hiring Senior Recruiting Coordinator: https://hashtagweb3.com/rc7/fb?og=7",
+      "snapshot": {
+        "id": "a0a01b27-d165-4366-9fa1-df5610c9a9f9",
+        "title": "Senior Recruiting Coordinator",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/a0a01b27-d165-4366-9fa1-df5610c9a9f9",
+        "date": "2026-11-13T18:36:58.266+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (Seattle, WA)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc7"
+      },
+      "payload": {
+        "message": "TRM Labs is hiring Senior Recruiting Coordinator: https://hashtagweb3.com/rc7/fb?og=7",
+        "link": "https://hashtagweb3.com/rc7/fb?og=7"
+      },
+      "attemptId": "3906f208-47a4-467a-a620-b13e8b05f8ff",
+      "verification": "creating"
     }
   ]
 }
