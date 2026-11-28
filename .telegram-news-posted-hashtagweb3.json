@@ -110,6 +110,9 @@
   "https://hashtagweb3.com/stanchartjapanrwa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "https://hashtagweb3.com/cantonstock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/dcmaccess?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/mexcorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+  "https://hashtagweb3.com/aztectierra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
   "Bitcoin Core Discloses Details on Three Fixed Vulnerabilities",
   "Bitcoin Core discloses three patched security bugs",
   "Deutsche Bank Begins Crypto Custody for European Institutional Clients",
@@ -332,6 +335,12 @@
   "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection",
   "Canton Strategic Completes First Tokenized Stock Trades Under SEC Exemption",
   "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption",
+  "CFTC Orders Futures Exchanges to End US Location Restrictions",
+  "CFTC gives futures exchanges 30 days to drop domestic geographic restrictions",
+  "US Treasury blocks bank transfers to crypto exchange MEXC",
+  "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions",
+  "Aztec Releases Tierra Upgrade to Fix Network Vulnerability",
+  "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network",
   "fp:advisory|affect|block|bug|cor|detail|disclos|fix|flaw|high",
   "fp:agreement|alongsid|asset|bank|begin|client|custody|deutsch|ether|european",
   "fp:delet|drop|effect|final|follow|index|metaplanet|msci|november|november30",
@@ -442,5 +451,8 @@
   "fp:are|btc|buy|continu|cushion|despit|follow|fourth|historical|holder",
   "fp:analyst|asset|bond|charter|corporat|debt|driv|forecast|globally|government",
   "fp:begin|bill|collect|collection|comply|for2027|hong|in2027|international|kong",
-  "fp:canton|cntn|complet|cumberland|drw|exemption|fiv|flowdesk|issuer|north"
+  "fp:canton|cntn|complet|cumberland|drw|exemption|fiv|flowdesk|issuer|north",
+  "fp:cftc|complianc|day|domestic|drop|eliminat|end|exchang|exchanges30|explain",
+  "fp:16b|accus|bank|block|cybercrim|evasion|exchang|fincen|illicit|link",
+  "fp:add|as12|aztec|critical|cryptographic|cut|delivery|fix|flaw|littl"
 ]

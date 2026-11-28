@@ -1224,7 +1224,7 @@
     "sentAt": "2026-11-28T04:42:56.663Z"
   },
   "f0707423-660f-4beb-92ec-65d02e8b9bf9": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-28T12:16:57.601Z",
     "stories": [
       {
@@ -1252,6 +1252,8 @@
         "originalTitle": "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network"
       }
     ],
-    "slotKey": "2026-11-28:afternoon"
+    "slotKey": "2026-11-28:afternoon",
+    "messageId": 156556,
+    "sentAt": "2026-11-28T12:17:07.070Z"
   }
 }
