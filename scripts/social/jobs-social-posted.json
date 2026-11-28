@@ -209877,6 +209877,41 @@
       "attemptId": "246f1128-ddbf-45be-a69b-74c0df5cdc81",
       "verification": "verified",
       "postId": "0xac74a0eaee728d9dd8476c5dd9f62e940c1a506f"
+    },
+    {
+      "slug": "pm424",
+      "company": "Kraken",
+      "title": "Sr Staff Product Designer - Krak",
+      "platform": "farcaster",
+      "postedAt": "2026-11-28T04:41:03.959Z",
+      "expectedText": "Kraken is hiring Sr Staff Product Designer\n\nhttps://hashtagweb3.com/pm424/fc?og=7",
+      "snapshot": {
+        "id": "1de8e4bb-224d-43f3-b826-be513d13243c",
+        "title": "Sr Staff Product Designer - Krak",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/1de8e4bb-224d-43f3-b826-be513d13243c",
+        "date": "2026-11-18T20:45:58.839+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm424"
+      },
+      "payload": {
+        "text": "Kraken is hiring Sr Staff Product Designer\n\nhttps://hashtagweb3.com/pm424/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/pm424/fc?og=7"
+          }
+        ],
+        "channel_id": "product"
+      },
+      "account": "channel:product",
+      "attemptId": "4e8bf1a6-4be9-4ab8-8b26-3dc729d70d71",
+      "verification": "creating"
     }
   ]
 }
