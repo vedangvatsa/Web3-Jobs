@@ -1189,5 +1189,36 @@
     "slotKey": "2026-11-27:evening",
     "messageId": 156547,
     "sentAt": "2026-11-27T20:15:10.490Z"
+  },
+  "eb9d5544-78c4-4fca-83ac-8be424bdfcd8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T04:42:44.458Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Standard Chartered forecasts $2 trillion RWA market via Japanese bonds",
+        "summary": "Analysts say tokenizing Japanese government and corporate debt will increase the total value of real-world assets globally.",
+        "link": "https://hashtagweb3.com/stanchartjapanrwa?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Standard Chartered projects Japan bond tokenization could drive RWAs to $2T"
+      },
+      {
+        "index": -1,
+        "headline": "Hong Kong Passes Crypto Tax Reporting Legislation",
+        "summary": "Service providers must begin collecting user data in 2027 to comply with new international tax reporting standards.",
+        "link": "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection"
+      },
+      {
+        "index": -1,
+        "headline": "Canton Strategic Completes First Tokenized Stock Trades Under SEC Exemption",
+        "summary": "Five North, DRW Cumberland, and Flowdesk traded tokenized CNTN shares using a specific SEC regulatory exemption.",
+        "link": "https://hashtagweb3.com/cantonstock?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Canton Strategic Completes First Issuer-Sponsored Tokenized Stock Trades Under SEC Exemption"
+      }
+    ],
+    "slotKey": "2026-11-28:morning"
   }
 }
