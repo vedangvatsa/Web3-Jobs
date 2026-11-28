@@ -208329,6 +208329,53 @@
       "attemptId": "c424fc1e-07cc-4938-a37a-e36ea71bf276",
       "verification": "creating",
       "error": "Buffer channel check failed: HTTP 429"
+    },
+    {
+      "slug": "sls478",
+      "company": "DFNS",
+      "title": "Sales Director, North America",
+      "platform": "linkedin",
+      "postedAt": "2026-11-28T02:06:05.181Z",
+      "expectedText": "DFNS is hiring Sales Director, North America: https://hashtagweb3.com/sls478/li?og=7",
+      "snapshot": {
+        "id": "deel-dfns-914b3e51-fdeb-464e-bb9d-63312cf5f1ac",
+        "title": "Sales Director, North America",
+        "company": "DFNS",
+        "link": "https://jobs.deel.com/dfns/job-details/914b3e51-fdeb-464e-bb9d-63312cf5f1ac/overview",
+        "date": "2026-11-10T18:16:31.259Z",
+        "dateVerified": true,
+        "dateSource": "DFNS Careers on Deel",
+        "source": "Deel: DFNS [dfns]",
+        "location": "Remote",
+        "department": "Sales",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "active": true,
+        "salary": "$350k – $500k/yr",
+        "minSalary": 350000,
+        "maxSalary": 500000,
+        "currency": "USD",
+        "slug": "sls478"
+      },
+      "payload": {
+        "text": "DFNS is hiring Sales Director, North America: https://hashtagweb3.com/sls478/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/sls478/li?og=7",
+          "title": "Sales Director, North America at DFNS | Hashtag Web3",
+          "description": "Join DFNS as Sales Director, North America. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/sls478.png?v=7"
+        },
+        "target": {
+          "channelId": "urn:li:person:tf1Ssn_dQv",
+          "name": "easton-augustine-7a45aa102",
+          "label": "Easton Augustine (personal)",
+          "transport": "direct"
+        }
+      },
+      "account": "urn:li:person:tf1Ssn_dQv",
+      "provider": "linkedin-direct",
+      "attemptId": "a670276f-dc2a-4473-9c80-949f21197652",
+      "verification": "creating"
     }
   ]
 }
