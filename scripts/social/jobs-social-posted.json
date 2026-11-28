@@ -208830,7 +208830,8 @@
       },
       "account": "channel:founders",
       "attemptId": "fd8a4b51-365b-48e0-b100-3ac06cc413a0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc50d6cd7732e4857e4a22aee42833a217a54fb6c"
     }
   ]
 }
