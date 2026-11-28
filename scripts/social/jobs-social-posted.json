@@ -207577,7 +207577,8 @@
       },
       "account": "profile",
       "attemptId": "a5f23f08-2e77-44f9-b0d6-41a7bc8cd8c5",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xab901afb4f3de87e9c63176c6599e2e26e033be4"
     }
   ]
 }
