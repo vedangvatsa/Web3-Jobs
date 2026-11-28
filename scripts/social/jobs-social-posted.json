@@ -211113,7 +211113,8 @@
       },
       "account": "profile",
       "attemptId": "40d2ea20-7be3-45e4-87af-ca05c6e96842",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xc417574b2b0bc99f35f88608f5849b5f9936e6a9"
     }
   ]
 }
