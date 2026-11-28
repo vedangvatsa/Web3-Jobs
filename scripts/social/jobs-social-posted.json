@@ -212158,7 +212158,8 @@
       },
       "account": "channel:dev",
       "attemptId": "f8b7d67e-b762-42c2-b219-c3fbde002c9d",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe655bf5e9765e44a7c110cefd384faf99194b264"
     }
   ]
 }
