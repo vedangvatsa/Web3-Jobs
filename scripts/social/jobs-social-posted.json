@@ -208377,6 +208377,40 @@
       "attemptId": "a670276f-dc2a-4473-9c80-949f21197652",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "sls478",
+      "company": "DFNS",
+      "title": "Sales Director, North America",
+      "platform": "facebook",
+      "postedAt": "2026-11-28T02:06:05.181Z",
+      "expectedText": "DFNS is hiring Sales Director, North America: https://hashtagweb3.com/sls478/fb?og=7",
+      "snapshot": {
+        "id": "deel-dfns-914b3e51-fdeb-464e-bb9d-63312cf5f1ac",
+        "title": "Sales Director, North America",
+        "company": "DFNS",
+        "link": "https://jobs.deel.com/dfns/job-details/914b3e51-fdeb-464e-bb9d-63312cf5f1ac/overview",
+        "date": "2026-11-10T18:16:31.259Z",
+        "dateVerified": true,
+        "dateSource": "DFNS Careers on Deel",
+        "source": "Deel: DFNS [dfns]",
+        "location": "Remote",
+        "department": "Sales",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "active": true,
+        "salary": "$350k – $500k/yr",
+        "minSalary": 350000,
+        "maxSalary": 500000,
+        "currency": "USD",
+        "slug": "sls478"
+      },
+      "payload": {
+        "message": "DFNS is hiring Sales Director, North America: https://hashtagweb3.com/sls478/fb?og=7",
+        "link": "https://hashtagweb3.com/sls478/fb?og=7"
+      },
+      "attemptId": "7289dd39-15dd-4d5f-b02b-9c57daa2ef14",
+      "verification": "creating"
     }
   ]
 }
