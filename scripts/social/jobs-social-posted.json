@@ -211149,7 +211149,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "201bed08-ca92-4bc0-a79f-7cfa5328ef8e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x3c389a70107fa9ec359baf4afec8e1a42e125f6b"
     }
   ]
 }
