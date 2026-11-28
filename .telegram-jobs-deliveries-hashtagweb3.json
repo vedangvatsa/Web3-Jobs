@@ -4304,5 +4304,123 @@
     "slotKey": "2026-11-27:evening",
     "messageId": 156545,
     "sentAt": "2026-11-27T20:11:19.722Z"
+  },
+  "690dbb65-4e31-474c-b881-c167f3237512": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T04:39:33.491Z",
+    "chatId": "@hashtagweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "780783fb-8d1c-4695-868e-d6e5155598a9",
+          "title": "Head of Tax",
+          "company": "Arca",
+          "link": "https://jobs.ashbyhq.com/arca/780783fb-8d1c-4695-868e-d6e5155598a9",
+          "date": "2026-11-01T02:38:11.235+00:00",
+          "source": "Ashby: Arca [arca]",
+          "location": "New York",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "Strategy & Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "tax9"
+        },
+        "key": "780783fb-8d1c-4695-868e-d6e5155598a9",
+        "slug": "tax9",
+        "url": "https://hashtagweb3.com/tax9?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Arca",
+        "title": "Head of Tax"
+      },
+      {
+        "snapshot": {
+          "id": "4756957005",
+          "title": "Accounts Payable Specialist",
+          "company": "DV Trading",
+          "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4756957005",
+          "date": "2026-11-19T15:16:51-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: DV Trading [dvtrading]",
+          "location": "Chicago",
+          "department": "Accounting",
+          "active": true,
+          "salary": "$65k – $75k/yr",
+          "dateVerified": true,
+          "slug": "sls322"
+        },
+        "key": "4756957005",
+        "slug": "sls322",
+        "url": "https://hashtagweb3.com/sls322?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "DV Trading",
+        "title": "Accounts Payable Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "8405899",
+          "title": "Senior Software Engineer",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8405899?gh_jid=8405899",
+          "date": "2026-11-24T10:04:24-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "Toronto, Canada",
+          "department": "Engineering",
+          "active": true,
+          "salary": "$148k – $185k/yr",
+          "dateVerified": true,
+          "slug": "eng871"
+        },
+        "key": "8405899",
+        "slug": "eng871",
+        "url": "https://hashtagweb3.com/eng871?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Senior Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5480572008",
+          "title": "Software Development Engineer in Test",
+          "company": "Mesh",
+          "link": "https://job-boards.greenhouse.io/mesh/jobs/5480572008",
+          "date": "2026-11-23T11:39:47-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Mesh [mesh]",
+          "location": "Europe",
+          "department": "Engineering",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng859"
+        },
+        "key": "5480572008",
+        "slug": "eng859",
+        "url": "https://hashtagweb3.com/eng859?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Mesh",
+        "title": "Software Development Engineer in Test"
+      },
+      {
+        "snapshot": {
+          "id": "5025855101",
+          "title": "Senior Software Engineer (Backend) - Fraud",
+          "company": "BVNK",
+          "link": "https://job-boards.eu.greenhouse.io/bvnk/jobs/5025855101",
+          "date": "2026-11-03T07:43:35-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: BVNK [bvnk]",
+          "location": "Bulgaria, South Africa, Poland, Spain",
+          "department": "Technology",
+          "active": true,
+          "salary": "€70k – €110k/yr",
+          "dateVerified": true,
+          "slug": "be64"
+        },
+        "key": "5025855101",
+        "slug": "be64",
+        "url": "https://hashtagweb3.com/be64?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "BVNK",
+        "title": "Senior Software Engineer"
+      }
+    ],
+    "message": "- Arca is hiring <a href=\"https://hashtagweb3.com/tax9?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Head of Tax</a>\n- DV Trading is hiring <a href=\"https://hashtagweb3.com/sls322?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Accounts Payable Specialist</a>\n- Ripple is hiring <a href=\"https://hashtagweb3.com/eng871?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer</a>\n- Mesh is hiring <a href=\"https://hashtagweb3.com/eng859?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Development Engineer in Test</a>\n- BVNK is hiring <a href=\"https://hashtagweb3.com/be64?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Software Engineer</a>",
+    "slotKey": "2026-11-28:morning"
   }
 }
