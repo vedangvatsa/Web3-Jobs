@@ -1743,5 +1743,56 @@
     "slotKey": "2026-11-28:morning",
     "messageId": 156549,
     "sentAt": "2026-11-28T04:39:42.299Z"
+  },
+  "cf82c82f-d4c8-4893-937e-6c86c7607fda": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T12:14:14.587Z",
+    "chatId": "@hashtagweb3",
+    "threadId": 1454,
+    "events": [
+      {
+        "id": "luma-crypto-7yStNpIKZToctMJ",
+        "slug": "brudcdc",
+        "name": "Bitcoin Rails Unconference Day 2: From Digital Capital to Digital Credit",
+        "startDate": "2026-12-06T05:00:00.000Z",
+        "keys": [
+          "luma-crypto-7ystnpikztoctmj",
+          "bitcoin-rails-1",
+          "page:brudcdc:2026-12-06",
+          "luma:evt-7ystnpikztoctmj",
+          "luma-url:/hf7sjxdt",
+          "event:bitcoinrailsunconferenceday2fromdigitalcapitaltodigitalcredit:2026-12-06:"
+        ]
+      },
+      {
+        "id": "luma-crypto-Zfz00mr44SlPTBG",
+        "slug": "corgearnight",
+        "name": "第33回 CORGEAR Night ～仮想NISHIと振り返る2026年のWeb3 - コーギアナイト忘年会～",
+        "startDate": "2026-12-07T09:30:00.000Z",
+        "keys": [
+          "luma-crypto-zfz00mr44slptbg",
+          "33-corgear",
+          "page:corgearnight:2026-12-07",
+          "luma:evt-zfz00mr44slptbg",
+          "luma-url:/zg0lx8up",
+          "event:第33回corgearnight仮想nishiと振り返る2026年のweb3コーギアナイト忘年会:2026-12-07:minato city"
+        ]
+      },
+      {
+        "id": "luma-crypto-dz0MXGbPcSzCZXS",
+        "slug": "solanaarcade",
+        "name": "Solana Arcade Night",
+        "startDate": "2026-12-07T15:00:00.000Z",
+        "keys": [
+          "luma-crypto-dz0mxgbpcszczxs",
+          "solana-arcade-night",
+          "page:solanaarcade:2026-12-07",
+          "luma:evt-dz0mxgbpcszczxs",
+          "luma-url:/solanaarcadesuperweek",
+          "event:solanaarcadenight:2026-12-07:"
+        ]
+      }
+    ],
+    "slotKey": "2026-11-28:afternoon"
   }
 }
