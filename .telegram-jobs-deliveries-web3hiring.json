@@ -8750,5 +8750,121 @@
     "slotKey": "2026-11-28:morning",
     "messageId": 16689,
     "sentAt": "2026-11-28T04:39:26.202Z"
+  },
+  "82ddeefe-d8ba-4345-8e63-9525fb65c477": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T04:39:27.651Z",
+    "chatId": "@jobsweb3",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "8345667",
+          "title": "Quantitative DeFi Specialist",
+          "company": "Ripple",
+          "link": "https://ripple.com/careers/all-jobs/job/8345667?gh_jid=8345667",
+          "date": "2026-11-06T08:50:55-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Ripple [ripple]",
+          "location": "London, UK",
+          "department": "Ripple Trading and Markets",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr235"
+        },
+        "key": "8345667",
+        "slug": "mgr235",
+        "url": "https://hashtagweb3.com/mgr235?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Ripple",
+        "title": "Quantitative DeFi Specialist"
+      },
+      {
+        "snapshot": {
+          "id": "89351eb5-2d24-4c64-aef9-abc48fcfa7a8",
+          "title": "Client Account Executive - Financial Services",
+          "company": "Chainalysis",
+          "link": "https://jobs.ashbyhq.com/chainalysis-careers/89351eb5-2d24-4c64-aef9-abc48fcfa7a8",
+          "date": "2026-11-18T12:42:37.882+00:00",
+          "source": "Ashby: Chainalysis [chainalysis-careers]",
+          "location": "Remote (London)",
+          "isRemote": true,
+          "workplaceType": "Remote",
+          "department": "Sales",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls311"
+        },
+        "key": "89351eb5-2d24-4c64-aef9-abc48fcfa7a8",
+        "slug": "sls311",
+        "url": "https://hashtagweb3.com/sls311?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Chainalysis",
+        "title": "Client Account Executive"
+      },
+      {
+        "snapshot": {
+          "id": "8184389003",
+          "title": "Director, Model Risk - AI & Fraud",
+          "company": "OKX",
+          "link": "https://job-boards.greenhouse.io/okx/jobs/8184389003",
+          "date": "2026-11-03T19:34:31-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: OKX [okx]",
+          "location": "San Jose, CA",
+          "department": "Risk",
+          "active": true,
+          "salary": "$200k – $300k/yr",
+          "dateVerified": true,
+          "slug": "dmra2"
+        },
+        "key": "8184389003",
+        "slug": "dmra2",
+        "url": "https://hashtagweb3.com/dmra2?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "OKX",
+        "title": "Director, Model Risk"
+      },
+      {
+        "snapshot": {
+          "id": "4987105101",
+          "title": "AI Strategy Engineer",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4987105101",
+          "date": "2026-11-16T07:49:05-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "Kuala Lumpur, Malaysia",
+          "department": "Applied AI",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng776"
+        },
+        "key": "4987105101",
+        "slug": "eng776",
+        "url": "https://hashtagweb3.com/eng776?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "AI Strategy Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8406140",
+          "title": "Forward Deployed AI Accelerator, Marketing",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8406140",
+          "date": "2026-11-20T10:05:21-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada",
+          "department": "2315 Marketing - Marketing Operations",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mkt171"
+        },
+        "key": "8406140",
+        "slug": "mkt171",
+        "url": "https://hashtagweb3.com/mkt171?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Forward Deployed AI Accelerator"
+      }
+    ],
+    "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr235?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quantitative DeFi Specialist</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/sls311?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Account Executive</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/dmra2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Model Risk</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/eng776?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Strategy Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt171?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Deployed AI Accelerator</a>",
+    "slotKey": "2026-11-28:morning"
   }
 }
