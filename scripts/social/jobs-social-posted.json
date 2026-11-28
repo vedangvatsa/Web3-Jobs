@@ -210760,6 +210760,40 @@
       "attemptId": "d6c053ac-4b4d-41ca-ae17-7794993e4556",
       "verification": "verified",
       "postId": "0x2c2879305f8753b5028812fe6f922f3019ec896e"
+    },
+    {
+      "slug": "infra65",
+      "company": "DRW",
+      "title": "Infrastructure Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-11-28T04:46:01.808Z",
+      "expectedText": "DRW is hiring Infrastructure Engineer\n\nhttps://hashtagweb3.com/infra65/fc?og=7",
+      "snapshot": {
+        "id": "8349095",
+        "title": "Infrastructure Engineer",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8349095",
+        "date": "2026-11-04T09:42:32-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Singapore",
+        "department": "IO - Infrastructure Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "infra65"
+      },
+      "payload": {
+        "text": "DRW is hiring Infrastructure Engineer\n\nhttps://hashtagweb3.com/infra65/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/infra65/fc?og=7"
+          }
+        ],
+        "channel_id": "design"
+      },
+      "account": "channel:design",
+      "attemptId": "f630a46e-1585-4568-8748-d80271c943f1",
+      "verification": "creating"
     }
   ]
 }
