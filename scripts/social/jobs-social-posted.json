@@ -209983,7 +209983,8 @@
       },
       "account": "channel:growth",
       "attemptId": "dadf84ee-0a0e-4f31-bcb7-28f74cfe9d2e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x118fc29ddde337c1895a39d0e73f192ea0f29584"
     }
   ]
 }
