@@ -264,3 +264,18 @@ export interface GrantProgram {
   urlLive?: GrantUrlLive;
 }
 
+export interface Hackathon {
+  id: string;
+  title: string;
+  organizer: string;
+  url: string;
+  prizePool: string;
+  submissionPeriod: string;
+  location: string;
+  ecosystem: string;
+  format: string;
+  description: string;
+  tags: string[];
+  featured?: boolean;
+}
+

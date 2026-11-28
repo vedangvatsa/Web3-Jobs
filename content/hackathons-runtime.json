@@ -1,0 +1,366 @@
+[
+  {
+    "id": "ethglobal-online-2026",
+    "title": "ETHGlobal Online 2026",
+    "organizer": "ETHGlobal",
+    "url": "https://ethglobal.com",
+    "prizePool": "$150,000",
+    "submissionPeriod": "Sep 04 - Sep 16, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Ethereum",
+    "format": "Online",
+    "description": "The premier global virtual Ethereum hackathon bringing together thousands of developers building on EVM, ZK rollups, account abstraction, and decentralized AI.",
+    "tags": [
+      "Ethereum",
+      "DeFi",
+      "ZK",
+      "EVM",
+      "AI"
+    ],
+    "featured": true
+  },
+  {
+    "id": "ethglobal-mumbai-2026",
+    "title": "ETHGlobal Mumbai",
+    "organizer": "ETHGlobal",
+    "url": "https://ethglobal.com",
+    "prizePool": "$125,000",
+    "submissionPeriod": "Nov 05 - Nov 07, 2026",
+    "location": "Mumbai, India",
+    "ecosystem": "Ethereum",
+    "format": "In-Person",
+    "description": "Major flagship in-person ETHGlobal hackathon in Mumbai connecting developers, protocol founders, and ecosystem mentors right around the global Devcon season.",
+    "tags": [
+      "Ethereum",
+      "In-Person",
+      "Asia",
+      "Protocols"
+    ],
+    "featured": true
+  },
+  {
+    "id": "solana-global-radar",
+    "title": "Solana Global Radar Hackathon",
+    "organizer": "Solana Foundation",
+    "url": "https://solana.com",
+    "prizePool": "$600,000+",
+    "submissionPeriod": "Oct - Nov 2026",
+    "location": "Online / Global",
+    "ecosystem": "Solana",
+    "format": "Online",
+    "description": "The world\u2019s largest Solana developer competition with tracks across DeFi, DePIN, Payments, Consumer Apps, Crypto x AI, and Infrastructure.",
+    "tags": [
+      "Solana",
+      "Rust",
+      "DePIN",
+      "DeFi",
+      "Payments"
+    ],
+    "featured": true
+  },
+  {
+    "id": "encode-web3-ai-hackathon",
+    "title": "Encode Web3 & AI Hackathon",
+    "organizer": "Encode Club",
+    "url": "https://www.encodeclub.com",
+    "prizePool": "$50,000",
+    "submissionPeriod": "Nov - Dec 2026",
+    "location": "London & Online",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid",
+    "description": "Intensive multi-week hackathon focused on the intersection of autonomous AI agents, on-chain data, and verifiable computing with VC accelerator pathways.",
+    "tags": [
+      "AI Agents",
+      "Multi-Chain",
+      "Accelerators",
+      "DeFi"
+    ],
+    "featured": true
+  },
+  {
+    "id": "chainlink-constellation",
+    "title": "Chainlink Constellation Hackathon",
+    "organizer": "Chainlink Labs",
+    "url": "https://chain.link/hackathon",
+    "prizePool": "$350,000",
+    "submissionPeriod": "Q4 2026",
+    "location": "Online / Global",
+    "ecosystem": "Chainlink / Cross-Chain",
+    "format": "Online",
+    "description": "Global cross-chain hackathon centered on CCIP, Chainlink Data Feeds, Verifiable Random Function, and off-chain compute infrastructure.",
+    "tags": [
+      "CCIP",
+      "Oracles",
+      "Cross-Chain",
+      "Smart Contracts"
+    ],
+    "featured": true
+  },
+  {
+    "id": "base-buildathon",
+    "title": "Base Buildathon: Onchain Summer",
+    "organizer": "Base (Coinbase)",
+    "url": "https://base.org",
+    "prizePool": "100 ETH + Grants",
+    "submissionPeriod": "Ongoing Rolling Tracks",
+    "location": "Online / Global",
+    "ecosystem": "Base",
+    "format": "Online",
+    "description": "Build on Base to bring the next billion users onchain. Tracks include social, gaming, creator tools, DeFi, and developer infrastructure.",
+    "tags": [
+      "Base",
+      "Ethereum L2",
+      "Consumer Crypto",
+      "Onchain"
+    ],
+    "featured": true
+  },
+  {
+    "id": "arbitrum-colosseum",
+    "title": "Arbitrum Stylus Hackathon",
+    "organizer": "Arbitrum Foundation",
+    "url": "https://arbitrum.io",
+    "prizePool": "$200,000",
+    "submissionPeriod": "Q4 2026",
+    "location": "Online / Global",
+    "ecosystem": "Arbitrum",
+    "format": "Online",
+    "description": "Write smart contracts in Rust, C, and C++ alongside Solidity using Arbitrum Stylus for ultra-fast, WASM-powered execution.",
+    "tags": [
+      "Arbitrum",
+      "Stylus",
+      "Rust",
+      "WASM",
+      "L2"
+    ],
+    "featured": true
+  },
+  {
+    "id": "monad-madness",
+    "title": "Monad Madness Developer Pitch & Sprint",
+    "organizer": "Monad Foundation",
+    "url": "https://monad.xyz",
+    "prizePool": "$1,000,000 In Prizes & Grants",
+    "submissionPeriod": "Rolling 2026",
+    "location": "Global City Tours & Online",
+    "ecosystem": "Monad",
+    "format": "Hybrid",
+    "description": "Global pitch competition and technical hack sprint for teams deploying on Monad\u2019s parallelized EVM 10,000 TPS blockchain.",
+    "tags": [
+      "Monad",
+      "Parallel EVM",
+      "DeFi",
+      "High-Throughput"
+    ],
+    "featured": true
+  },
+  {
+    "id": "berachain-boyco",
+    "title": "Berachain Proof-of-Liquidity Build Sprint",
+    "organizer": "Berachain Foundation",
+    "url": "https://berachain.com",
+    "prizePool": "$100,000",
+    "submissionPeriod": "Mainnet Sprint 2026",
+    "location": "Online / Global",
+    "ecosystem": "Berachain",
+    "format": "Online",
+    "description": "Build applications leveraging Proof-of-Liquidity consensus, native bribes, and decentralized liquidity infrastructure.",
+    "tags": [
+      "Berachain",
+      "Proof of Liquidity",
+      "DeFi",
+      "EVM"
+    ],
+    "featured": true
+  },
+  {
+    "id": "near-chain-abstraction",
+    "title": "NEAR Chain Abstraction & AI Hackathon",
+    "organizer": "NEAR Foundation",
+    "url": "https://near.org",
+    "prizePool": "$150,000",
+    "submissionPeriod": "2026 Season",
+    "location": "Online / Global",
+    "ecosystem": "NEAR",
+    "format": "Online",
+    "description": "Build multichain applications with NEAR Chain Signatures, user-owned AI agents, and frictionless chain abstraction.",
+    "tags": [
+      "NEAR",
+      "Chain Abstraction",
+      "User-Owned AI",
+      "Rust"
+    ],
+    "featured": true
+  },
+  {
+    "id": "devpost-31667",
+    "title": "Kiroween 2026",
+    "organizer": "Kiro",
+    "url": "https://kiroween.devpost.com/",
+    "prizePool": "$100,000",
+    "submissionPeriod": "Oct 30 - Dec 04, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $100,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": true
+  },
+  {
+    "id": "devpost-31572",
+    "title": "Codegeist 2026: Build with context. Ship with confidence.",
+    "organizer": "Atlassian",
+    "url": "https://codegeist2026.devpost.com/",
+    "prizePool": "$120,000",
+    "submissionPeriod": "Oct 27 - Dec 22, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $120,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": true
+  },
+  {
+    "id": "devpost-31808",
+    "title": "#BuildHybridAI 2026",
+    "organizer": "Google",
+    "url": "https://firebasehybridaihackathon.devpost.com/",
+    "prizePool": "$30,000",
+    "submissionPeriod": "Nov 11 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $30,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31644",
+    "title": "Reddit\u2019s Game of the Day Hackathon",
+    "organizer": "reddit",
+    "url": "https://redditgameofday2026.devpost.com/",
+    "prizePool": "$35,000",
+    "submissionPeriod": "Nov 11 - Dec 08, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $35,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32026",
+    "title": "Open Agentic Web Challenge",
+    "organizer": "Cognizant",
+    "url": "https://cognizant-agenticweb.devpost.com/",
+    "prizePool": "$10,000",
+    "submissionPeriod": "Nov 11, 2026 - Jan 11, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $10,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31083",
+    "title": "QNX Global Hackathon",
+    "organizer": "QNX",
+    "url": "https://qnx.devpost.com/",
+    "prizePool": "$50,000",
+    "submissionPeriod": "Nov 02 - Dec 15, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $50,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": true
+  },
+  {
+    "id": "devpost-31973",
+    "title": "Deck the Pixels",
+    "organizer": "Google",
+    "url": "https://deckthepixels.devpost.com/",
+    "prizePool": "$25,000",
+    "submissionPeriod": "Nov 10 - Dec 07, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $25,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31571",
+    "title": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
+    "organizer": "Cloud9",
+    "url": "https://cloud9.devpost.com/",
+    "prizePool": "$25,000",
+    "submissionPeriod": "Nov 17, 2026 - Jan 12, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $25,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31642",
+    "title": "AWS MSP AI Hackathon",
+    "organizer": "AWS",
+    "url": "https://aws-agentic-msp.devpost.com/",
+    "prizePool": "$64,000",
+    "submissionPeriod": "Nov 02 - Dec 11, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $64,000 in total rewards and ecosystem grants.",
+    "tags": [
+      "Web3",
+      "Blockchain",
+      "Developers",
+      "Open-Source"
+    ],
+    "featured": false
+  }
+]
