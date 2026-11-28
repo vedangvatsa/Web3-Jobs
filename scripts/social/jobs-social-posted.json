@@ -209120,6 +209120,47 @@
       "attemptId": "0be600f0-fa88-4322-afb8-5434623ae3b0",
       "verification": "verified",
       "postId": "0xde72db7f6f1aed890a96350eb8c9f679d068591f"
+    },
+    {
+      "slug": "rc7",
+      "company": "TRM Labs",
+      "title": "Senior Recruiting Coordinator",
+      "platform": "linkedin",
+      "postedAt": "2026-11-28T02:09:26.519Z",
+      "expectedText": "TRM Labs is hiring Senior Recruiting Coordinator: https://hashtagweb3.com/rc7/li?og=7",
+      "snapshot": {
+        "id": "a0a01b27-d165-4366-9fa1-df5610c9a9f9",
+        "title": "Senior Recruiting Coordinator",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/a0a01b27-d165-4366-9fa1-df5610c9a9f9",
+        "date": "2026-11-13T18:36:58.266+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (Seattle, WA)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc7"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Senior Recruiting Coordinator: https://hashtagweb3.com/rc7/li?og=7",
+        "link": {
+          "url": "https://hashtagweb3.com/rc7/li?og=7",
+          "title": "Senior Recruiting Coordinator at TRM Labs | Hashtag Web3",
+          "description": "Join TRM Labs as Senior Recruiting Coordinator. View responsibilities, requirements, and apply directly.",
+          "thumbnail": "https://hashtagweb3.com/og/jobs/rc7.png?v=7"
+        },
+        "target": {
+          "channelId": "69c5b139af47dacb695b5feb",
+          "name": "hashtagweb3",
+          "label": "#Web3"
+        }
+      },
+      "account": "69c5b139af47dacb695b5feb",
+      "provider": "buffer",
+      "attemptId": "b5449e5a-008c-42d1-a081-44911cb7e0db",
+      "verification": "creating"
     }
   ]
 }
