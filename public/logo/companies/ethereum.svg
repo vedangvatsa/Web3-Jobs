@@ -1,0 +1,13 @@
+<svg width="220" height="48" viewBox="0 0 220 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(4, 4)">
+    <!-- Ethereum diamond emblem -->
+    <path d="M19.99 0L19.64 1.19V27.35L19.99 27.7L32.35 20.4L19.99 0Z" fill="#343434"/>
+    <path d="M19.99 0L7.63 20.4L19.99 27.7V14.81V0Z" fill="#8C8C8C"/>
+    <path d="M19.99 29.98L19.79 30.22V40L19.99 40.58L32.36 22.68L19.99 29.98Z" fill="#3C3C3B"/>
+    <path d="M19.99 40.58V29.98L7.63 22.68L19.99 40.58Z" fill="#8C8C8C"/>
+    <path d="M19.99 27.7L32.35 20.4L19.99 14.81V27.7Z" fill="#141414"/>
+    <path d="M7.63 20.4L19.99 27.7V14.81L7.63 20.4Z" fill="#393939"/>
+  </g>
+  <!-- Text: ETHEREUM -->
+  <text x="48" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3" fill="#111827">ETHEREUM</text>
+</svg>

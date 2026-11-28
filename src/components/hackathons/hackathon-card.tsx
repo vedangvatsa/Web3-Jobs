@@ -1,61 +1,52 @@
 'use client';
 
-import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import type { Hackathon } from '@/types';
-import { Trophy, Calendar, MapPin, ExternalLink } from 'lucide-react';
+import { Card, CardHeader, CardTitle } from '@/components/ui/card';
+import { Trophy, Calendar } from 'lucide-react';
 
 export function HackathonCard({ hackathon }: { hackathon: Hackathon }) {
+  // Generate ecosystem badge initials or short mark for the 40x40 container
+  const ecoInitial = hackathon.ecosystem ? hackathon.ecosystem.slice(0, 2).toUpperCase() : 'W3';
+
   return (
     <a
       href={hackathon.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="block h-full min-w-0 group"
+      className="block h-full min-w-0"
     >
-      <Card className="flex h-full min-w-0 flex-col justify-between border-border/70 bg-card shadow-none transition-colors hover:border-foreground/25">
-        <CardHeader className="p-4 min-w-0 space-y-2">
-          <div className="flex items-start justify-between gap-2 min-w-0">
-            <span className="text-[11px] font-semibold uppercase tracking-wider text-primary truncate">
-              {hackathon.organizer}
-            </span>
-            {hackathon.featured && (
-              <span className="shrink-0 rounded-full bg-amber-500/10 px-2 py-0.5 text-[10px] font-medium text-amber-600 dark:text-amber-400 border border-amber-500/20">
-                Featured
-              </span>
-            )}
-          </div>
-
-          <CardTitle
-            className="text-base leading-snug font-semibold line-clamp-2 group-hover:text-primary transition-colors"
-            title={hackathon.title}
-          >
-            {hackathon.title}
-          </CardTitle>
-
-          <div className="flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-muted-foreground pt-1">
-            <div className="flex items-center gap-1 font-medium text-foreground">
-              <Trophy className="h-3.5 w-3.5 text-amber-500 shrink-0" />
-              <span className="truncate">{hackathon.prizePool}</span>
+      <Card className="flex h-full min-w-0 flex-col border-border/70 bg-card shadow-none hover:border-foreground/25">
+        <CardHeader className="px-4 pb-3 pt-4 min-w-0">
+          <div className="flex min-w-0 items-start gap-3">
+            <div className="h-10 w-10 shrink-0 rounded-md border border-border/60 bg-muted/40 flex items-center justify-center overflow-hidden font-bold text-xs text-foreground uppercase tracking-wider">
+              {ecoInitial}
             </div>
-            <div className="flex items-center gap-1 text-muted-foreground">
-              <MapPin className="h-3.5 w-3.5 shrink-0" />
-              <span className="truncate">{hackathon.location}</span>
-            </div>
-            <div className="flex items-center gap-1 text-muted-foreground">
-              <Calendar className="h-3.5 w-3.5 shrink-0" />
-              <span className="truncate">{hackathon.submissionPeriod}</span>
+            <div className="min-w-0 flex-1">
+              <CardTitle
+                className="text-base leading-snug font-semibold line-clamp-2"
+                title={hackathon.title}
+              >
+                {hackathon.title}
+              </CardTitle>
+              <p className="text-xs text-muted-foreground truncate mt-0.5">
+                {hackathon.organizer}
+              </p>
+              <div className="mt-1 flex items-center gap-2 text-xs text-muted-foreground truncate">
+                <span className="font-semibold text-emerald-600 dark:text-emerald-400 shrink-0">
+                  {hackathon.prizePool}
+                </span>
+                <span className="text-muted-foreground/60 shrink-0">•</span>
+                <span className="truncate">{hackathon.format}</span>
+                {hackathon.submissionPeriod && (
+                  <>
+                    <span className="text-muted-foreground/60 shrink-0">•</span>
+                    <span className="truncate">{hackathon.submissionPeriod}</span>
+                  </>
+                )}
+              </div>
             </div>
           </div>
         </CardHeader>
-
-        <div className="px-4 py-2 bg-muted/20 border-t border-border/50 flex items-center justify-between text-xs text-muted-foreground">
-          <span className="rounded bg-muted px-2 py-0.5 text-[10px] font-medium text-muted-foreground truncate max-w-[150px]">
-            {hackathon.ecosystem}
-          </span>
-          <span className="inline-flex items-center gap-1 text-[11px] font-medium text-primary group-hover:underline">
-            Apply <ExternalLink className="h-3 w-3" />
-          </span>
-        </div>
       </Card>
     </a>
   );
