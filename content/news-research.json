@@ -223266,7 +223266,27 @@
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
       "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "nextReviewDate": "2026-11-28",
+      "articleSlug": "franklinhype",
+      "draftProgress": {
+        "id": "bc42da22ffcae8a374eb",
+        "day": "2026-11-28",
+        "articleSlug": "franklinhype",
+        "note": "Read Cointelegraph and Unchained (downloaded via curl with readiness UA after 403 in the availability pass): Franklin Crypto Trust filed a prospectus supplement Nov 25 adding HYPE to EZPZ around Dec. 1 via CF Benchmarks index reconstitution. Two independent sources read; draft and image still pending.",
+        "sourceChecks": [
+          {
+            "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf",
+            "outcome": "read"
+          },
+          {
+            "url": "https://unchainedcrypto.com/index-reshuffle-puts-hyperliquids-hype-in-franklins-ezpz-crypto-etf-on-dec-1/",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-28T02:17:24.007Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "e1f29e264f6ed3bf3c5d": {
       "source": "BeInCrypto",
