@@ -218285,7 +218285,7 @@
       "id": "caf4e2057ffa33c59f89",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T11:30:32.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -218296,17 +218296,17 @@
           "outcome": "blocked",
           "status": 429,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.075Z"
+          "checkedAt": "2026-11-28T02:05:24.839Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
         "Find independent reporting confirming the event in: Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "c2f37578e984ec81bc15": {
       "source": "The Block",
@@ -218325,7 +218325,7 @@
       "id": "c2f37578e984ec81bc15",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 3,
+      "attempts": 4,
       "expiresAt": "2026-11-28T07:26:57.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -218336,17 +218336,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.106Z"
+          "checkedAt": "2026-11-28T02:05:24.855Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
         "Find independent reporting confirming the event in: Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "1f567fec90265c6e0a8f": {
       "source": "Bitcoin Magazine",
@@ -219607,7 +219607,7 @@
       "id": "ab9918b21cf748e4007f",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T13:00:00.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -219618,17 +219618,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.276Z"
+          "checkedAt": "2026-11-28T02:05:33.945Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Bitcoin Is on Track for Its Second-Worst Q4 Ever, and One Signal Points to 2027",
         "Find independent reporting confirming the event in: Bitcoin Is on Track for Its Second-Worst Q4 Ever, and One Signal Points to 2027",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "0ab7c26a78b543d4ab21": {
       "source": "The Block",
@@ -219974,7 +219974,7 @@
       "id": "dfa71cc95f67724a0698",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T10:23:37.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -219985,17 +219985,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.305Z"
+          "checkedAt": "2026-11-28T02:05:34.004Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Lost Crypto, Then a 20% Fee? Tether Faces Questions Over USDT Recoveries",
         "Find independent reporting confirming the event in: Lost Crypto, Then a 20% Fee? Tether Faces Questions Over USDT Recoveries",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "4f9293b14e43c57298d4": {
       "source": "BeInCrypto",
@@ -220014,7 +220014,7 @@
       "id": "4f9293b14e43c57298d4",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T09:27:36.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -220025,17 +220025,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.332Z"
+          "checkedAt": "2026-11-28T02:05:34.056Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks",
         "Find independent reporting confirming the event in: Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "e06bbc77cd320910331d": {
       "source": "CoinDesk",
@@ -220696,7 +220696,7 @@
       "id": "35c33845bdc3c91e569a",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T13:25:35.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -220707,17 +220707,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:41.740Z"
+          "checkedAt": "2026-11-28T02:05:33.460Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: LayerZero's ZRO Falls 27%, More Than Wormhole or Axelar",
         "Find independent reporting confirming the event in: LayerZero's ZRO Falls 27%, More Than Wormhole or Axelar",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "646d392050988dc0f98d": {
       "source": "Crypto Briefing",
@@ -221129,7 +221129,7 @@
       "id": "4bb123bbe05e73c67e81",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T12:17:06.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -221140,17 +221140,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.362Z"
+          "checkedAt": "2026-11-28T02:05:34.100Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Bitrue Thanksgiving Month Brings 0.01% Fees and Up to $300 Daily Rewards",
         "Find independent reporting confirming the event in: Bitrue Thanksgiving Month Brings 0.01% Fees and Up to $300 Daily Rewards",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "6a6728bdb0c8fee79611": {
       "source": "Crypto Briefing",
@@ -221274,7 +221274,7 @@
       "id": "31844d0a7136f8f82949",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T11:50:45.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -221285,17 +221285,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.421Z"
+          "checkedAt": "2026-11-28T02:05:34.157Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand",
         "Find independent reporting confirming the event in: Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "d9f5daf3c121f6d916c9": {
       "source": "BeInCrypto",
@@ -221314,7 +221314,7 @@
       "id": "d9f5daf3c121f6d916c9",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T11:50:05.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -221325,17 +221325,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.456Z"
+          "checkedAt": "2026-11-28T02:05:34.184Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: A New Path for API3: Fixed Supply, On-Chain Curation, and Infrastructure for AI Agents",
         "Find independent reporting confirming the event in: A New Path for API3: Fixed Supply, On-Chain Curation, and Infrastructure for AI Agents",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "a01c6d20791ea86926ce": {
       "source": "Chainwire",
@@ -221495,7 +221495,7 @@
       "id": "740d4907d2670c3142c8",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T10:20:22.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -221506,17 +221506,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.484Z"
+          "checkedAt": "2026-11-28T02:05:34.206Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Gold ETFs Lose $2.2 Billion in a Week, Their Fastest Exit Since June",
         "Find independent reporting confirming the event in: Gold ETFs Lose $2.2 Billion in a Week, Their Fastest Exit Since June",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "6725bb7f4d1fcec88f18": {
       "source": "Chainwire",
@@ -221605,7 +221605,7 @@
       "id": "f405e6fbfb8d4ad2ca5e",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T08:40:41.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -221616,17 +221616,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.522Z"
+          "checkedAt": "2026-11-28T02:05:34.229Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: South Korea Plans $11.9 Billion AI Budget for 2027, Moving AI From Labs to Factories",
         "Find independent reporting confirming the event in: South Korea Plans $11.9 Billion AI Budget for 2027, Moving AI From Labs to Factories",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "64f760ee1fb2472f6d82": {
       "source": "Cointelegraph",
@@ -221718,7 +221718,7 @@
       "id": "30470f529ce74168b6cf",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T08:01:25.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -221729,17 +221729,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.658Z"
+          "checkedAt": "2026-11-28T02:05:34.348Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Global Digital Asset and Structured Finance Platform OpenVault Completes $2 Million Seed Round at $20 Million Post-Money Valuation",
         "Find independent reporting confirming the event in: Global Digital Asset and Structured Finance Platform OpenVault Completes $2 Million Seed Round at $20 Million Post-Money Valuation",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "b5e48aa082f0982b574c": {
       "source": "Chainwire",
@@ -221779,7 +221779,7 @@
       "id": "0d903a4fd7baacb89d8b",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T07:14:52.000Z",
       "lastSeenAt": "2026-11-25T13:25:37.357Z",
       "reason": "source-blocked",
@@ -221790,17 +221790,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.689Z"
+          "checkedAt": "2026-11-28T02:05:34.369Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Monad’s First Anniversary Brings a Record Low and 16 Billion New Tokens",
         "Find independent reporting confirming the event in: Monad’s First Anniversary Brings a Record Low and 16 Billion New Tokens",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "94b5570008e360e594e4": {
       "source": "The Defiant",
@@ -221824,7 +221824,7 @@
       "id": "94b5570008e360e594e4",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T03:14:56.000Z",
       "lastSeenAt": "2026-11-27T02:19:28.239Z",
       "reason": "source-blocked",
@@ -221835,24 +221835,24 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:41.864Z"
+          "checkedAt": "2026-11-28T02:05:33.551Z"
         },
         {
           "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-tokens-turn-over-8-9-million-in-three-days",
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:41.892Z"
+          "checkedAt": "2026-11-28T02:05:33.569Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
         "Find independent reporting confirming the event in: Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "e5efd720f0c8700a1249": {
       "source": "The Block",
@@ -221925,7 +221925,7 @@
       "id": "f8f093c311bf101dd9ce",
       "status": "deferred",
       "firstSeenAt": "2026-11-25T13:25:37.357Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T02:35:03.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -221936,17 +221936,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:41.920Z"
+          "checkedAt": "2026-11-28T02:05:33.590Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
         "Find independent reporting confirming the event in: FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "f79d0839f91059875dc1": {
       "source": "The Defiant",
@@ -223285,7 +223285,7 @@
       "id": "e1f29e264f6ed3bf3c5d",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-29T00:02:00.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -223296,17 +223296,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.721Z"
+          "checkedAt": "2026-11-28T02:05:34.395Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US",
         "Find independent reporting confirming the event in: Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "92b237087a491ec54f70": {
       "source": "The Block",
@@ -223457,11 +223457,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "15b448326a04194142da",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T18:46:07.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Tether Sought 20% Fees From Some Hack Victims: Bloomberg\": https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:33.693Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Tether Sought 20% Fees From Some Hack Victims: Bloomberg",
+        "Find independent reporting confirming the event in: Tether Sought 20% Fees From Some Hack Victims: Bloomberg",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "58c58c25c71ba22db4ad": {
       "source": "The Defiant",
@@ -223483,11 +223502,37 @@
       ],
       "alsoCoveredBy": [],
       "id": "58c58c25c71ba22db4ad",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T18:41:30.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Solana Direct Mapping Set for Mainnet Today, Anza Says\": https://thedefiant.io/news/blockchains/solana-direct-mapping-set-for-mainnet-today-anza-says -> HTTP 403; https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/blockchains/solana-direct-mapping-set-for-mainnet-today-anza-says",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:33.716Z"
+        },
+        {
+          "url": "https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:33.740Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Solana Direct Mapping Set for Mainnet Today, Anza Says",
+        "Find independent reporting confirming the event in: Solana Direct Mapping Set for Mainnet Today, Anza Says",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "110c4c7bf373a0277f5a": {
       "source": "Cointelegraph",
@@ -223736,11 +223781,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "8155096cab6350668647",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T15:12:36.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide\": https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:33.781Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
+        "Find independent reporting confirming the event in: Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "b913c767e470960a089e": {
       "source": "Chainwire",
@@ -223780,7 +223844,7 @@
       "id": "d9d846c13c44de397d50",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-29T01:37:34.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -223791,17 +223855,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.785Z"
+          "checkedAt": "2026-11-28T02:05:34.429Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
         "Find independent reporting confirming the event in: How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "d80f94f0f2e219513b1c": {
       "source": "CryptoSlate",
@@ -223995,11 +224059,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "e2c13cc5dddecdd6dc0e",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T21:14:30.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Venice Token Gains 33% While Bitcoin and TAO Retreat\": https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:33.800Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Venice Token Gains 33% While Bitcoin and TAO Retreat",
+        "Find independent reporting confirming the event in: Venice Token Gains 33% While Bitcoin and TAO Retreat",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "fb215a0c4fc52d8ee9dd": {
       "source": "Crypto Briefing",
@@ -224147,7 +224230,7 @@
       "id": "58e0e7a0db6c23a8624d",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T19:43:34.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -224158,17 +224241,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.844Z"
+          "checkedAt": "2026-11-28T02:05:34.493Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: New Cryptographic Breakthrough Could Transform Bitcoin’s Global Utility",
         "Find independent reporting confirming the event in: New Cryptographic Breakthrough Could Transform Bitcoin’s Global Utility",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "d88c4849aff7e91d5c90": {
       "source": "The Block",
@@ -224213,11 +224296,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "77acc0a3800c5e310c6b",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-28T19:01:06.000Z",
-      "lastSeenAt": "2026-11-26T02:20:29.660Z"
+      "lastSeenAt": "2026-11-26T02:20:29.660Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"CoW Swap Fees Double, With Ethereum Driving the Gain\": https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain -> HTTP 429. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain",
+          "outcome": "blocked",
+          "status": 429,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:33.822Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: CoW Swap Fees Double, With Ethereum Driving the Gain",
+        "Find independent reporting confirming the event in: CoW Swap Fees Double, With Ethereum Driving the Gain",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "d9f46c2aa33b9bea7a07": {
       "source": "CryptoSlate",
@@ -224509,7 +224611,7 @@
       "id": "f841bc43940159ef37a2",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-29T01:55:00.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -224520,17 +224622,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.873Z"
+          "checkedAt": "2026-11-28T02:05:34.511Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Bank of Korea Rate Hike Meets KOSPI Struggles: Can Chips Carry Korea?",
         "Find independent reporting confirming the event in: Bank of Korea Rate Hike Meets KOSPI Struggles: Can Chips Carry Korea?",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "8bfb31cf9fb7810dffbc": {
       "source": "BeInCrypto",
@@ -224549,7 +224651,7 @@
       "id": "8bfb31cf9fb7810dffbc",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-29T01:49:32.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -224560,17 +224662,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.900Z"
+          "checkedAt": "2026-11-28T02:05:34.538Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: CertiK Finds 38 Hidden AI Bugs That Could Cost the Industry Millions",
         "Find independent reporting confirming the event in: CertiK Finds 38 Hidden AI Bugs That Could Cost the Industry Millions",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "7fef8a18b6b927037bdc": {
       "source": "Crypto Briefing",
@@ -224673,7 +224775,7 @@
       "id": "62b1571466147e0e6741",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-29T00:54:58.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -224684,17 +224786,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:54.927Z"
+          "checkedAt": "2026-11-28T02:05:34.560Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
         "Find independent reporting confirming the event in: Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "c4d830249dd8d8e57072": {
       "source": "The Defiant",
@@ -224849,7 +224951,7 @@
       "id": "b7daf4de08c884f8d4e3",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T22:30:54.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -224860,17 +224962,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:55.000Z"
+          "checkedAt": "2026-11-28T02:05:34.582Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain",
         "Find independent reporting confirming the event in: Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "3be5b81ce25f8f75099a": {
       "source": "The Defiant",
@@ -225215,7 +225317,7 @@
       "id": "56ab1f303915ea061adb",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-28T20:07:35.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -225226,17 +225328,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-26T02:20:55.055Z"
+          "checkedAt": "2026-11-28T02:05:34.631Z"
         }
       ],
-      "reviewedAt": "2026-11-26T02:21:26.967Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Michael Burry Bets on Stock Market Recovery After Thanksgiving",
         "Find independent reporting confirming the event in: Michael Burry Bets on Stock Market Recovery After Thanksgiving",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-26",
-      "nextReviewDate": "2026-11-27"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "b7388f47634b800df179": {
       "source": "Bankless",
@@ -225761,7 +225863,7 @@
       "id": "96c955c314d8dc407a81",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T16:00:00.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -225772,17 +225874,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.726Z"
+          "checkedAt": "2026-11-28T02:05:25.072Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Aave Labs publicly launches savings app as balances top $63 million",
         "Find independent reporting confirming the event in: Aave Labs publicly launches savings app as balances top $63 million",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "8f8212a973b70150b02a": {
       "source": "CryptoSlate",
@@ -225822,7 +225924,7 @@
       "id": "865732c3f13b27859018",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T15:02:10.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -225833,17 +225935,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.756Z"
+          "checkedAt": "2026-11-28T02:05:25.091Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.617Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors",
         "Find independent reporting confirming the event in: NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "44c5e4d8160d632faf57": {
       "source": "Chainwire",
@@ -225904,7 +226006,7 @@
       "id": "22fe71d0213f5b96eb48",
       "status": "deferred",
       "firstSeenAt": "2026-11-26T02:20:29.660Z",
-      "attempts": 2,
+      "attempts": 3,
       "expiresAt": "2026-11-28T14:35:20.000Z",
       "lastSeenAt": "2026-11-26T02:20:29.660Z",
       "reason": "source-blocked",
@@ -225915,17 +226017,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.785Z"
+          "checkedAt": "2026-11-28T02:05:25.110Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Ukraine passes crypto market law, with $332 million revenue target",
         "Find independent reporting confirming the event in: Ukraine passes crypto market law, with $332 million revenue target",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "5621814d7309676f138f": {
       "source": "Cointelegraph",
@@ -226240,7 +226342,31 @@
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
       "attempts": 0,
       "expiresAt": "2026-11-29T21:43:50.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "articleSlug": "binancewithdrawals",
+      "draftProgress": {
+        "id": "79233d3ef490ce37a2be",
+        "day": "2026-11-28",
+        "articleSlug": "binancewithdrawals",
+        "note": "Draft written from three read sources; running audits now.",
+        "sourceChecks": [
+          {
+            "url": "https://cryptobriefing.com/binance-restores-withdrawals-after-record-hack/",
+            "outcome": "read"
+          },
+          {
+            "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+            "outcome": "read"
+          },
+          {
+            "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+            "outcome": "read"
+          }
+        ],
+        "updatedAt": "2026-11-28T02:13:01.543Z",
+        "approved": false,
+        "mustReview": true
+      }
     },
     "03d135f20db99088dc4f": {
       "source": "The Defiant",
@@ -226535,7 +226661,7 @@
       "id": "ff871f7ea23c262a5daf",
       "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-29T17:32:00.000Z",
       "lastSeenAt": "2026-11-27T02:19:28.239Z",
       "reason": "source-blocked",
@@ -226546,17 +226672,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.900Z"
+          "checkedAt": "2026-11-28T02:05:25.148Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: Tokenized Anthropic Holders Doubled in 3 Days",
         "Find independent reporting confirming the event in: Tokenized Anthropic Holders Doubled in 3 Days",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "2afd6c54d2c7c680011d": {
       "source": "Decrypt",
@@ -226601,11 +226727,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "32c951eb37dbfeecf644",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T01:42:22.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Bitcoin in Extreme Fear: Historically a Buy Signal, But Potentially a Trap?\": https://beincrypto.com/bitcoin-in-extreme-fear-buy-signal/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/bitcoin-in-extreme-fear-buy-signal/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.689Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Bitcoin in Extreme Fear: Historically a Buy Signal, But Potentially a Trap?",
+        "Find independent reporting confirming the event in: Bitcoin in Extreme Fear: Historically a Buy Signal, But Potentially a Trap?",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "b9f15ec3a4c50fb5b84b": {
       "source": "Crypto Briefing",
@@ -226643,11 +226788,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "fa716688c84fbca78338",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T00:30:00.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain\": https://beincrypto.com/bitcoin-bear-market-2022-comparison/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/bitcoin-bear-market-2022-comparison/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.715Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain",
+        "Find independent reporting confirming the event in: Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "6a32118eda6e0c710eca": {
       "source": "CryptoSlate",
@@ -226685,11 +226849,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "d98efdcc9033e6e73a65",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T23:04:34.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"New Bitcoin Privacy Flaw Could Expose Your Location for Just $0.35\": https://beincrypto.com/bitcoin-core-privacy-flaw-ip-address/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/bitcoin-core-privacy-flaw-ip-address/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.735Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: New Bitcoin Privacy Flaw Could Expose Your Location for Just $0.35",
+        "Find independent reporting confirming the event in: New Bitcoin Privacy Flaw Could Expose Your Location for Just $0.35",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "2950cb0189e90ae2d5e2": {
       "source": "Cointelegraph",
@@ -227378,11 +227561,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "ba9faf0a9c170faed046",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T22:49:10.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test\": https://beincrypto.com/sp-500-futures-black-friday-nvidia/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/sp-500-futures-black-friday-nvidia/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.784Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test",
+        "Find independent reporting confirming the event in: A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "fda96eac6d1a8d00131f": {
       "source": "Cointelegraph",
@@ -227572,11 +227774,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "47b9e61fa4e76887b6a5",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T21:02:19.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"How Apple Avoided the Stock Market Crash With 31% Gains\": https://beincrypto.com/apple-stock-market-crash-beat-analysis/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/apple-stock-market-crash-beat-analysis/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.809Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: How Apple Avoided the Stock Market Crash With 31% Gains",
+        "Find independent reporting confirming the event in: How Apple Avoided the Stock Market Crash With 31% Gains",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "1d45699d258ff4bb0a69": {
       "source": "BeInCrypto",
@@ -227593,11 +227814,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "1d45699d258ff4bb0a69",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T20:45:37.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Gold Traders are Watching 5 Historic Signals\": https://beincrypto.com/gold-price-bottom-analysis-signals-to-watch/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/gold-price-bottom-analysis-signals-to-watch/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.832Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Gold Traders are Watching 5 Historic Signals",
+        "Find independent reporting confirming the event in: Gold Traders are Watching 5 Historic Signals",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "75e52109bcef29400463": {
       "source": "CryptoSlate",
@@ -227865,11 +228105,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "9035acb903a02bda3206",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T16:19:42.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition\": https://beincrypto.com/at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.852Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition",
+        "Find independent reporting confirming the event in: At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "0d1cba1a0c6f034cb05d": {
       "source": "Chainwire",
@@ -227975,11 +228234,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "2f804a530ce904375375",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T15:19:41.000Z",
-      "lastSeenAt": "2026-11-27T02:19:28.239Z"
+      "lastSeenAt": "2026-11-27T02:19:28.239Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Zoomex Partnerships: Elite Sports Gateway\": https://beincrypto.com/zoomex-partnerships-elite-sports-gateway/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/zoomex-partnerships-elite-sports-gateway/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.909Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Zoomex Partnerships: Elite Sports Gateway",
+        "Find independent reporting confirming the event in: Zoomex Partnerships: Elite Sports Gateway",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "60ad0d6a7e81cd23c173": {
       "source": "Unchained",
@@ -228336,7 +228614,7 @@
       "id": "aaf1ee41ee7114d2994b",
       "status": "deferred",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 1,
+      "attempts": 2,
       "expiresAt": "2026-11-29T13:22:47.000Z",
       "lastSeenAt": "2026-11-27T02:19:28.239Z",
       "reason": "source-blocked",
@@ -228347,17 +228625,17 @@
           "outcome": "blocked",
           "status": 403,
           "method": "GET",
-          "checkedAt": "2026-11-27T02:19:42.957Z"
+          "checkedAt": "2026-11-28T02:05:25.253Z"
         }
       ],
-      "reviewedAt": "2026-11-27T02:20:04.557Z",
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
       "retrySearches": [
         "Find a readable primary announcement or filing for: ‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
         "Find independent reporting confirming the event in: ‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
         "Retry the attempted URLs after any Retry-After time, within the existing verification window."
       ],
-      "lastReviewedDay": "2026-11-27",
-      "nextReviewDate": "2026-11-28"
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "ed7ea165d4cb0dbcfef4": {
       "source": "Cointelegraph",
@@ -228947,11 +229225,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "8cd1b25cf0e02644c4a4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T21:00:00.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Bitcoin Treasury Titans Clash Over Whether BTC Is Money or Just Savings\": https://beincrypto.com/saylor-cole-tucker-bitcoin-money-savings/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/saylor-cole-tucker-bitcoin-money-savings/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.929Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Bitcoin Treasury Titans Clash Over Whether BTC Is Money or Just Savings",
+        "Find independent reporting confirming the event in: Bitcoin Treasury Titans Clash Over Whether BTC Is Money or Just Savings",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "f7e564052d1f3464049e": {
       "source": "The Defiant",
@@ -229693,11 +229990,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "7e2dc19649db0626144d",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T19:33:26.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"How Bitcoin’s Macro Trend Changed in 2026\": https://beincrypto.com/bitcoin-macro-trend-analysis-2027/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/bitcoin-macro-trend-analysis-2027/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.970Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: How Bitcoin’s Macro Trend Changed in 2026",
+        "Find independent reporting confirming the event in: How Bitcoin’s Macro Trend Changed in 2026",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "913469bbaf7e8dd57097": {
       "source": "Cointelegraph",
@@ -229756,11 +230072,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "d051d81616777a51f446",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T18:13:45.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"CryptoQuant says bitcoin price recovery needs USDT supply growth\": https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:25.293Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: CryptoQuant says bitcoin price recovery needs USDT supply growth",
+        "Find independent reporting confirming the event in: CryptoQuant says bitcoin price recovery needs USDT supply growth",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "8cf29e99ff24f3f3fb9e": {
       "source": "CryptoSlate",
@@ -229798,11 +230133,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "61dfa54890f159ef4d45",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T16:00:00.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Tether Is Buying Bitdeer Again After an 87% Crash: Is a Rebound Coming?\": https://beincrypto.com/tether-buys-bitdeer-again-rebound/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/tether-buys-bitdeer-again-rebound/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:34.990Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Tether Is Buying Bitdeer Again After an 87% Crash: Is a Rebound Coming?",
+        "Find independent reporting confirming the event in: Tether Is Buying Bitdeer Again After an 87% Crash: Is a Rebound Coming?",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "4db041f1cab31c57da92": {
       "source": "The Block",
@@ -229819,11 +230173,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "4db041f1cab31c57da92",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T15:00:21.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Tether buys $10 million of Bitdeer shares as stock hovers near all-time low\": https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:25.309Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+        "Find independent reporting confirming the event in: Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "94a44484e19e628ed0b8": {
       "source": "The Block",
@@ -229840,11 +230213,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "94a44484e19e628ed0b8",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T14:24:21.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33\": https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:25.329Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+        "Find independent reporting confirming the event in: AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "da76e8ec39969c399c35": {
       "source": "CryptoSlate",
@@ -229903,11 +230295,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "6bd76bf84298885bb2b4",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T12:34:04.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"$100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH\": https://beincrypto.com/ethereum-ico-555000-wall-street-selling/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/ethereum-ico-555000-wall-street-selling/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:35.020Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: $100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH",
+        "Find independent reporting confirming the event in: $100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "55457402ebbddb9b5548": {
       "source": "CoinDesk",
@@ -230112,11 +230523,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "4f7e44331d56df3fd597",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-12-01T01:00:08.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"S&P 500 Achieves Its Best Thanksgiving Rally Since 2008. What’s Next?\": https://beincrypto.com/sp-500-best-thanksgiving-week-since-2008/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/sp-500-best-thanksgiving-week-since-2008/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:35.050Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: S&P 500 Achieves Its Best Thanksgiving Rally Since 2008. What’s Next?",
+        "Find independent reporting confirming the event in: S&P 500 Achieves Its Best Thanksgiving Rally Since 2008. What’s Next?",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "03965667fbccefe85cdf": {
       "source": "Crypto Briefing",
@@ -230613,11 +231043,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "c278e336570fcfa311b7",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T18:03:46.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"France Enters Technical Recession: How Bad Is It and Is America Next?\": https://beincrypto.com/france-technical-recession-is-america-next/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/france-technical-recession-is-america-next/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:35.139Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: France Enters Technical Recession: How Bad Is It and Is America Next?",
+        "Find independent reporting confirming the event in: France Enters Technical Recession: How Bad Is It and Is America Next?",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "25322ed4719b67a0f7ad": {
       "source": "Decrypt",
@@ -230788,11 +231237,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "9dbbae2b9d6ee4c429c2",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T16:42:55.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Amazon FTX Documentary Takes On the SBF Story Netflix Got Wrong\": https://beincrypto.com/amazon-ftx-documentary-netflix-got-wrong/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/amazon-ftx-documentary-netflix-got-wrong/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:35.194Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Amazon FTX Documentary Takes On the SBF Story Netflix Got Wrong",
+        "Find independent reporting confirming the event in: Amazon FTX Documentary Takes On the SBF Story Netflix Got Wrong",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "bf0fa2faa9fa8bed80b4": {
       "source": "The Defiant",
@@ -230942,11 +231410,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "19bf612fd7b19d2f42ff",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T14:10:17.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"The Conference Is Becoming a Newsroom\": https://beincrypto.com/the-conference-is-becoming-a-newsroom/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/the-conference-is-becoming-a-newsroom/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:35.234Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: The Conference Is Becoming a Newsroom",
+        "Find independent reporting confirming the event in: The Conference Is Becoming a Newsroom",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "d9329dab145acc4f0821": {
       "source": "BeInCrypto",
@@ -230963,11 +231450,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "d9329dab145acc4f0821",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T13:52:47.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"Why Adobe Stock May Barely Move Despite Its $12.9 Billion Black Friday Prediction\": https://beincrypto.com/black-friday-online-sales-adobe-stock/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://beincrypto.com/black-friday-online-sales-adobe-stock/",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:35.255Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: Why Adobe Stock May Barely Move Despite Its $12.9 Billion Black Friday Prediction",
+        "Find independent reporting confirming the event in: Why Adobe Stock May Barely Move Despite Its $12.9 Billion Black Friday Prediction",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     },
     "76326e53022d290d726c": {
       "source": "CoinDesk",
@@ -231306,11 +231812,30 @@
       ],
       "alsoCoveredBy": [],
       "id": "eb8a70f615e43eb20d95",
-      "status": "pending",
+      "status": "deferred",
       "firstSeenAt": "2026-11-28T02:05:08.508Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-30T04:18:40.000Z",
-      "lastSeenAt": "2026-11-28T02:05:08.508Z"
+      "lastSeenAt": "2026-11-28T02:05:08.508Z",
+      "reason": "source-blocked",
+      "note": "Availability-only GET checks for \"China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation\": https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+      "sourceChecks": [
+        {
+          "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+          "outcome": "blocked",
+          "status": 403,
+          "method": "GET",
+          "checkedAt": "2026-11-28T02:05:25.363Z"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:05:53.618Z",
+      "retrySearches": [
+        "Find a readable primary announcement or filing for: China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+        "Find independent reporting confirming the event in: China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+        "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+      ],
+      "lastReviewedDay": "2026-11-28",
+      "nextReviewDate": "2026-11-29"
     }
   },
   "runs": {
@@ -449608,6 +450133,1100 @@
           "sourceChecks": [],
           "reviewedAt": "2026-11-28T02:05:08.508Z",
           "automatic": true
+        },
+        "caf4e2057ffa33c59f89": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Gold's haven status has lost its edge over bitcoin, and the Fed's to blame\": https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same -> HTTP 429. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+              "outcome": "blocked",
+              "status": 429,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:24.839Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+            "Find independent reporting confirming the event in: Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "c2f37578e984ec81bc15": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000\": https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:24.855Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+            "Find independent reporting confirming the event in: Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "ab9918b21cf748e4007f": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Bitcoin Is on Track for Its Second-Worst Q4 Ever, and One Signal Points to 2027\": https://beincrypto.com/bitcoin-worst-q4-returns-2027-outlook/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-worst-q4-returns-2027-outlook/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.945Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Bitcoin Is on Track for Its Second-Worst Q4 Ever, and One Signal Points to 2027",
+            "Find independent reporting confirming the event in: Bitcoin Is on Track for Its Second-Worst Q4 Ever, and One Signal Points to 2027",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "dfa71cc95f67724a0698": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Lost Crypto, Then a 20% Fee? Tether Faces Questions Over USDT Recoveries\": https://beincrypto.com/tether-20-percent-fee-frozen-usdt/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/tether-20-percent-fee-frozen-usdt/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.004Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Lost Crypto, Then a 20% Fee? Tether Faces Questions Over USDT Recoveries",
+            "Find independent reporting confirming the event in: Lost Crypto, Then a 20% Fee? Tether Faces Questions Over USDT Recoveries",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "4f9293b14e43c57298d4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks\": https://beincrypto.com/peter-brandt-ethereum-below-500/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/peter-brandt-ethereum-below-500/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.056Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks",
+            "Find independent reporting confirming the event in: Peter Brandt Warns Ethereum Could Crash Below $500 if One Key Level Breaks",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "35c33845bdc3c91e569a": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"LayerZero's ZRO Falls 27%, More Than Wormhole or Axelar\": https://thedefiant.io/news/markets/layerzero-s-zro-falls-27-more-than-wormhole-or-axelar -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/layerzero-s-zro-falls-27-more-than-wormhole-or-axelar",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.460Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: LayerZero's ZRO Falls 27%, More Than Wormhole or Axelar",
+            "Find independent reporting confirming the event in: LayerZero's ZRO Falls 27%, More Than Wormhole or Axelar",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "4bb123bbe05e73c67e81": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Bitrue Thanksgiving Month Brings 0.01% Fees and Up to $300 Daily Rewards\": https://beincrypto.com/bitrue-thanksgiving-month-300-daily-reward/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitrue-thanksgiving-month-300-daily-reward/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.100Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Bitrue Thanksgiving Month Brings 0.01% Fees and Up to $300 Daily Rewards",
+            "Find independent reporting confirming the event in: Bitrue Thanksgiving Month Brings 0.01% Fees and Up to $300 Daily Rewards",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "31844d0a7136f8f82949": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand\": https://beincrypto.com/dell-stock-falls-ai-selloff-record-backlog/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/dell-stock-falls-ai-selloff-record-backlog/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.157Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand",
+            "Find independent reporting confirming the event in: Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "d9f5daf3c121f6d916c9": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"A New Path for API3: Fixed Supply, On-Chain Curation, and Infrastructure for AI Agents\": https://beincrypto.com/new-path-for-api3-fixed-supply-on-chain-curation/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/new-path-for-api3-fixed-supply-on-chain-curation/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.184Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: A New Path for API3: Fixed Supply, On-Chain Curation, and Infrastructure for AI Agents",
+            "Find independent reporting confirming the event in: A New Path for API3: Fixed Supply, On-Chain Curation, and Infrastructure for AI Agents",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "740d4907d2670c3142c8": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Gold ETFs Lose $2.2 Billion in a Week, Their Fastest Exit Since June\": https://beincrypto.com/gold-etf-outflows-biggest-since-june/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/gold-etf-outflows-biggest-since-june/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.206Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Gold ETFs Lose $2.2 Billion in a Week, Their Fastest Exit Since June",
+            "Find independent reporting confirming the event in: Gold ETFs Lose $2.2 Billion in a Week, Their Fastest Exit Since June",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "f405e6fbfb8d4ad2ca5e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"South Korea Plans $11.9 Billion AI Budget for 2027, Moving AI From Labs to Factories\": https://beincrypto.com/south-korea-ai-budget-2027/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/south-korea-ai-budget-2027/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.229Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: South Korea Plans $11.9 Billion AI Budget for 2027, Moving AI From Labs to Factories",
+            "Find independent reporting confirming the event in: South Korea Plans $11.9 Billion AI Budget for 2027, Moving AI From Labs to Factories",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "30470f529ce74168b6cf": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Global Digital Asset and Structured Finance Platform OpenVault Completes $2 Million Seed Round at $20 Million Post-Money Valuation\": https://beincrypto.com/openvault-completes-2-million-seed-round/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/openvault-completes-2-million-seed-round/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.348Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Global Digital Asset and Structured Finance Platform OpenVault Completes $2 Million Seed Round at $20 Million Post-Money Valuation",
+            "Find independent reporting confirming the event in: Global Digital Asset and Structured Finance Platform OpenVault Completes $2 Million Seed Round at $20 Million Post-Money Valuation",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "0d903a4fd7baacb89d8b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Monad’s First Anniversary Brings a Record Low and 16 Billion New Tokens\": https://beincrypto.com/monad-price-record-low-token-unlock/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/monad-price-record-low-token-unlock/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.369Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Monad’s First Anniversary Brings a Record Low and 16 Billion New Tokens",
+            "Find independent reporting confirming the event in: Monad’s First Anniversary Brings a Record Low and 16 Billion New Tokens",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "94b5570008e360e594e4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Taiwan Stocks Sink as Much as 8.6% After 9% Rally\": https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally -> HTTP 403; https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-tokens-turn-over-8-9-million-in-three-days -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.551Z"
+            },
+            {
+              "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-tokens-turn-over-8-9-million-in-three-days",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.569Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
+            "Find independent reporting confirming the event in: Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "f8f093c311bf101dd9ce": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"FinCEN Confirms Intrusion, Keeps BSA Filing Website Open\": https://thedefiant.io/converge/security/fincen-confirms-intrusion-keeps-bsa-filing-website-open -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/converge/security/fincen-confirms-intrusion-keeps-bsa-filing-website-open",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.590Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
+            "Find independent reporting confirming the event in: FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "e1f29e264f6ed3bf3c5d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US\": https://beincrypto.com/bitcoin-tokenized-gold-euro-bond-yields/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-tokenized-gold-euro-bond-yields/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.395Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US",
+            "Find independent reporting confirming the event in: Bitcoin and Tokenized Gold Trading in Euros Rises When Eurozone Yields Outpace US",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "15b448326a04194142da": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Tether Sought 20% Fees From Some Hack Victims: Bloomberg\": https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/hacks/tether-sought-20-fees-from-some-hack-victims-bloomberg",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.693Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Tether Sought 20% Fees From Some Hack Victims: Bloomberg",
+            "Find independent reporting confirming the event in: Tether Sought 20% Fees From Some Hack Victims: Bloomberg",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "58c58c25c71ba22db4ad": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Solana Direct Mapping Set for Mainnet Today, Anza Says\": https://thedefiant.io/news/blockchains/solana-direct-mapping-set-for-mainnet-today-anza-says -> HTTP 403; https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/blockchains/solana-direct-mapping-set-for-mainnet-today-anza-says",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.716Z"
+            },
+            {
+              "url": "https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.740Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Solana Direct Mapping Set for Mainnet Today, Anza Says",
+            "Find independent reporting confirming the event in: Solana Direct Mapping Set for Mainnet Today, Anza Says",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "8155096cab6350668647": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide\": https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/frontier/markets/nasdaq-100-tests-bear-market-line-as-chip-shares-slide",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.781Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
+            "Find independent reporting confirming the event in: Nasdaq 100 Tests Bear-Market Line as Chip Shares Slide",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "d9d846c13c44de397d50": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch\": https://beincrypto.com/critical-price-levels-for-bitcoin-ethereum-xrp/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/critical-price-levels-for-bitcoin-ethereum-xrp/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.429Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
+            "Find independent reporting confirming the event in: How Low Can Bitcoin, Ethereum and XRP Fall? 4 Price Levels to Watch",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "e2c13cc5dddecdd6dc0e": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Venice Token Gains 33% While Bitcoin and TAO Retreat\": https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.800Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Venice Token Gains 33% While Bitcoin and TAO Retreat",
+            "Find independent reporting confirming the event in: Venice Token Gains 33% While Bitcoin and TAO Retreat",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "58e0e7a0db6c23a8624d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"New Cryptographic Breakthrough Could Transform Bitcoin’s Global Utility\": https://beincrypto.com/bitcoin-praxis-witness-encryption-breakthrough/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-praxis-witness-encryption-breakthrough/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.493Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: New Cryptographic Breakthrough Could Transform Bitcoin’s Global Utility",
+            "Find independent reporting confirming the event in: New Cryptographic Breakthrough Could Transform Bitcoin’s Global Utility",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "77acc0a3800c5e310c6b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"CoW Swap Fees Double, With Ethereum Driving the Gain\": https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain -> HTTP 429. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://thedefiant.io/news/defi/cow-swap-fees-double-with-ethereum-driving-the-gain",
+              "outcome": "blocked",
+              "status": 429,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:33.822Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: CoW Swap Fees Double, With Ethereum Driving the Gain",
+            "Find independent reporting confirming the event in: CoW Swap Fees Double, With Ethereum Driving the Gain",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "f841bc43940159ef37a2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Bank of Korea Rate Hike Meets KOSPI Struggles: Can Chips Carry Korea?\": https://beincrypto.com/bank-of-korea-rate-hike-kospi/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bank-of-korea-rate-hike-kospi/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.511Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Bank of Korea Rate Hike Meets KOSPI Struggles: Can Chips Carry Korea?",
+            "Find independent reporting confirming the event in: Bank of Korea Rate Hike Meets KOSPI Struggles: Can Chips Carry Korea?",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "8bfb31cf9fb7810dffbc": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"CertiK Finds 38 Hidden AI Bugs That Could Cost the Industry Millions\": https://beincrypto.com/certik-38-hidden-ai-bugs-computing-costs/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/certik-38-hidden-ai-bugs-computing-costs/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.538Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: CertiK Finds 38 Hidden AI Bugs That Could Cost the Industry Millions",
+            "Find independent reporting confirming the event in: CertiK Finds 38 Hidden AI Bugs That Could Cost the Industry Millions",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "62b1571466147e0e6741": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running\": https://beincrypto.com/kospi-crash-south-korea-stock-market/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/kospi-crash-south-korea-stock-market/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.560Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
+            "Find independent reporting confirming the event in: Samsung and SK Hynix Drag KOSPI Down 6%, and Foreign Investors Are Running",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "b7daf4de08c884f8d4e3": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain\": https://beincrypto.com/shiba-inu-shibarium-privacy-upgrade/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/shiba-inu-shibarium-privacy-upgrade/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.582Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain",
+            "Find independent reporting confirming the event in: Shiba Inu Developer Teases a Major Privacy Boost for Its Blockchain",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "56ab1f303915ea061adb": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Michael Burry Bets on Stock Market Recovery After Thanksgiving\": https://beincrypto.com/michael-burry-stock-market-recovery-thanksgiving-crash/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/michael-burry-stock-market-recovery-thanksgiving-crash/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.631Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Michael Burry Bets on Stock Market Recovery After Thanksgiving",
+            "Find independent reporting confirming the event in: Michael Burry Bets on Stock Market Recovery After Thanksgiving",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "96c955c314d8dc407a81": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Aave Labs publicly launches savings app as balances top $63 million\": https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/defi/2026-11-25-aave-labs-publicly-launches-savings-app-as-balances-top-63-million-446674",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.072Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Aave Labs publicly launches savings app as balances top $63 million",
+            "Find independent reporting confirming the event in: Aave Labs publicly launches savings app as balances top $63 million",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "865732c3f13b27859018": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors\": https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-25-novatech-founders-ordered-pay-1-3-million-crypto-ponzi-scheme-haitian-investors-446643",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.091Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.617Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors",
+            "Find independent reporting confirming the event in: NovaTech founders ordered to pay $1.3 billion over crypto Ponzi scheme targeting Haitian investors",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "22fe71d0213f5b96eb48": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Ukraine passes crypto market law, with $332 million revenue target\": https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-25-ukraine-passes-crypto-market-law-with-332-million-revenue-target-446182",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.110Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Ukraine passes crypto market law, with $332 million revenue target",
+            "Find independent reporting confirming the event in: Ukraine passes crypto market law, with $332 million revenue target",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "ff871f7ea23c262a5daf": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Tokenized Anthropic Holders Doubled in 3 Days\": https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.148Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Tokenized Anthropic Holders Doubled in 3 Days",
+            "Find independent reporting confirming the event in: Tokenized Anthropic Holders Doubled in 3 Days",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "32c951eb37dbfeecf644": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Bitcoin in Extreme Fear: Historically a Buy Signal, But Potentially a Trap?\": https://beincrypto.com/bitcoin-in-extreme-fear-buy-signal/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-in-extreme-fear-buy-signal/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.689Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Bitcoin in Extreme Fear: Historically a Buy Signal, But Potentially a Trap?",
+            "Find independent reporting confirming the event in: Bitcoin in Extreme Fear: Historically a Buy Signal, But Potentially a Trap?",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "fa716688c84fbca78338": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain\": https://beincrypto.com/bitcoin-bear-market-2022-comparison/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-bear-market-2022-comparison/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.715Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain",
+            "Find independent reporting confirming the event in: Is the Bitcoin Bear Market Repeating 2022? Key Gaps Remain",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "d98efdcc9033e6e73a65": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"New Bitcoin Privacy Flaw Could Expose Your Location for Just $0.35\": https://beincrypto.com/bitcoin-core-privacy-flaw-ip-address/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-core-privacy-flaw-ip-address/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.735Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: New Bitcoin Privacy Flaw Could Expose Your Location for Just $0.35",
+            "Find independent reporting confirming the event in: New Bitcoin Privacy Flaw Could Expose Your Location for Just $0.35",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "ba9faf0a9c170faed046": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test\": https://beincrypto.com/sp-500-futures-black-friday-nvidia/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/sp-500-futures-black-friday-nvidia/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.784Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test",
+            "Find independent reporting confirming the event in: A Green Black Friday? Futures Rise After Thanksgiving Close as Nvidia Faces Test",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "47b9e61fa4e76887b6a5": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"How Apple Avoided the Stock Market Crash With 31% Gains\": https://beincrypto.com/apple-stock-market-crash-beat-analysis/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/apple-stock-market-crash-beat-analysis/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.809Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: How Apple Avoided the Stock Market Crash With 31% Gains",
+            "Find independent reporting confirming the event in: How Apple Avoided the Stock Market Crash With 31% Gains",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "1d45699d258ff4bb0a69": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Gold Traders are Watching 5 Historic Signals\": https://beincrypto.com/gold-price-bottom-analysis-signals-to-watch/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/gold-price-bottom-analysis-signals-to-watch/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.832Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Gold Traders are Watching 5 Historic Signals",
+            "Find independent reporting confirming the event in: Gold Traders are Watching 5 Historic Signals",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "9035acb903a02bda3206": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition\": https://beincrypto.com/at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/at-fm-summit-london-brokers-and-panellists-weigh-uk-rules-and-on-chain-competition/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.852Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition",
+            "Find independent reporting confirming the event in: At FM Summit London, Brokers and Panellists Weigh UK Rules and On-Chain Competition",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "2f804a530ce904375375": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Zoomex Partnerships: Elite Sports Gateway\": https://beincrypto.com/zoomex-partnerships-elite-sports-gateway/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/zoomex-partnerships-elite-sports-gateway/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.909Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Zoomex Partnerships: Elite Sports Gateway",
+            "Find independent reporting confirming the event in: Zoomex Partnerships: Elite Sports Gateway",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "aaf1ee41ee7114d2994b": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool\": https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.253Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: ‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
+            "Find independent reporting confirming the event in: ‘The time to prepare for a cryptographic breakthrough is before it happens’: Zcash team urges faster deprecation of legacy shielded pool",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "8cd1b25cf0e02644c4a4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Bitcoin Treasury Titans Clash Over Whether BTC Is Money or Just Savings\": https://beincrypto.com/saylor-cole-tucker-bitcoin-money-savings/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/saylor-cole-tucker-bitcoin-money-savings/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.929Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Bitcoin Treasury Titans Clash Over Whether BTC Is Money or Just Savings",
+            "Find independent reporting confirming the event in: Bitcoin Treasury Titans Clash Over Whether BTC Is Money or Just Savings",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "7e2dc19649db0626144d": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"How Bitcoin’s Macro Trend Changed in 2026\": https://beincrypto.com/bitcoin-macro-trend-analysis-2027/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/bitcoin-macro-trend-analysis-2027/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.970Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: How Bitcoin’s Macro Trend Changed in 2026",
+            "Find independent reporting confirming the event in: How Bitcoin’s Macro Trend Changed in 2026",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "d051d81616777a51f446": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"CryptoQuant says bitcoin price recovery needs USDT supply growth\": https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.293Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: CryptoQuant says bitcoin price recovery needs USDT supply growth",
+            "Find independent reporting confirming the event in: CryptoQuant says bitcoin price recovery needs USDT supply growth",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "61dfa54890f159ef4d45": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Tether Is Buying Bitdeer Again After an 87% Crash: Is a Rebound Coming?\": https://beincrypto.com/tether-buys-bitdeer-again-rebound/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/tether-buys-bitdeer-again-rebound/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:34.990Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Tether Is Buying Bitdeer Again After an 87% Crash: Is a Rebound Coming?",
+            "Find independent reporting confirming the event in: Tether Is Buying Bitdeer Again After an 87% Crash: Is a Rebound Coming?",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "4db041f1cab31c57da92": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Tether buys $10 million of Bitdeer shares as stock hovers near all-time low\": https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.309Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+            "Find independent reporting confirming the event in: Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "94a44484e19e628ed0b8": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33\": https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.329Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+            "Find independent reporting confirming the event in: AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "6bd76bf84298885bb2b4": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"$100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH\": https://beincrypto.com/ethereum-ico-555000-wall-street-selling/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/ethereum-ico-555000-wall-street-selling/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:35.020Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: $100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH",
+            "Find independent reporting confirming the event in: $100 in Ethereum's ICO Is Now $555,000, but Wall Street Keeps Selling ETH",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "4f7e44331d56df3fd597": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"S&P 500 Achieves Its Best Thanksgiving Rally Since 2008. What’s Next?\": https://beincrypto.com/sp-500-best-thanksgiving-week-since-2008/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/sp-500-best-thanksgiving-week-since-2008/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:35.050Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: S&P 500 Achieves Its Best Thanksgiving Rally Since 2008. What’s Next?",
+            "Find independent reporting confirming the event in: S&P 500 Achieves Its Best Thanksgiving Rally Since 2008. What’s Next?",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "c278e336570fcfa311b7": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"France Enters Technical Recession: How Bad Is It and Is America Next?\": https://beincrypto.com/france-technical-recession-is-america-next/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/france-technical-recession-is-america-next/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:35.139Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: France Enters Technical Recession: How Bad Is It and Is America Next?",
+            "Find independent reporting confirming the event in: France Enters Technical Recession: How Bad Is It and Is America Next?",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "9dbbae2b9d6ee4c429c2": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Amazon FTX Documentary Takes On the SBF Story Netflix Got Wrong\": https://beincrypto.com/amazon-ftx-documentary-netflix-got-wrong/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/amazon-ftx-documentary-netflix-got-wrong/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:35.194Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Amazon FTX Documentary Takes On the SBF Story Netflix Got Wrong",
+            "Find independent reporting confirming the event in: Amazon FTX Documentary Takes On the SBF Story Netflix Got Wrong",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "19bf612fd7b19d2f42ff": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"The Conference Is Becoming a Newsroom\": https://beincrypto.com/the-conference-is-becoming-a-newsroom/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/the-conference-is-becoming-a-newsroom/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:35.234Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: The Conference Is Becoming a Newsroom",
+            "Find independent reporting confirming the event in: The Conference Is Becoming a Newsroom",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "d9329dab145acc4f0821": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"Why Adobe Stock May Barely Move Despite Its $12.9 Billion Black Friday Prediction\": https://beincrypto.com/black-friday-online-sales-adobe-stock/ -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://beincrypto.com/black-friday-online-sales-adobe-stock/",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:35.255Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: Why Adobe Stock May Barely Move Despite Its $12.9 Billion Black Friday Prediction",
+            "Find independent reporting confirming the event in: Why Adobe Stock May Barely Move Despite Its $12.9 Billion Black Friday Prediction",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
+        },
+        "eb8a70f615e43eb20d95": {
+          "status": "deferred",
+          "reason": "source-blocked",
+          "note": "Availability-only GET checks for \"China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation\": https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029 -> HTTP 403. All known URLs returned definite access/unavailability responses. This pass did not read source content, verify facts, or perform alternate searches. Temporary deferral; primary and independent alternatives still need research.",
+          "sourceChecks": [
+            {
+              "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+              "outcome": "blocked",
+              "status": 403,
+              "method": "GET",
+              "checkedAt": "2026-11-28T02:05:25.363Z"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:05:53.618Z",
+          "retrySearches": [
+            "Find a readable primary announcement or filing for: China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+            "Find independent reporting confirming the event in: China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+            "Retry the attempted URLs after any Retry-After time, within the existing verification window."
+          ]
         }
       },
       "baselineSlugs": [
