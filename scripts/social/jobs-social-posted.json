@@ -207463,7 +207463,8 @@
       "provider": "buffer",
       "account": "hashtag_web3",
       "attemptId": "01fe2ef8-3150-4c48-a1a5-57ee75b41ac5",
-      "verification": "creating"
+      "verification": "creating",
+      "error": "Buffer X request failed: HTTP 429"
     }
   ]
 }
