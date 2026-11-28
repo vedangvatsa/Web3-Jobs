@@ -223272,7 +223272,7 @@
         "id": "bc42da22ffcae8a374eb",
         "day": "2026-11-28",
         "articleSlug": "franklinhype",
-        "note": "Read Cointelegraph and Unchained (downloaded via curl with readiness UA after 403 in the availability pass): Franklin Crypto Trust filed a prospectus supplement Nov 25 adding HYPE to EZPZ around Dec. 1 via CF Benchmarks index reconstitution. Two independent sources read; draft and image still pending.",
+        "note": "Re-read Cointelegraph and Unchained downloads and opened the SEC 424B3 supplement (primary): HYPE joins the CF index Dec 1, 2026; fund buys all eight constituents in index weights on or about Dec 1. Draft and hero image pending.",
         "sourceChecks": [
           {
             "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf",
@@ -223281,9 +223281,13 @@
           {
             "url": "https://unchainedcrypto.com/index-reshuffle-puts-hyperliquids-hype-in-franklins-ezpz-crypto-etf-on-dec-1/",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.sec.gov/Archives/edgar/data/2033807/000207184426001935/draftezpz424b3nov2026.htm",
+            "outcome": "read"
           }
         ],
-        "updatedAt": "2026-11-28T02:17:24.007Z",
+        "updatedAt": "2026-11-28T02:26:08.470Z",
         "approved": false,
         "mustReview": true
       }
