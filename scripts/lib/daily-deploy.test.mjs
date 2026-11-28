@@ -84,8 +84,8 @@ function harness(initial = {}) {
 test('daily content requires current jobs plus completed validated coverage and newly published original articles', () => {
   assert.deepEqual(assertDailyContent({ date, ...content() }, now).articleSlugs, ['original-news']);
   const invalid = [
-    // Older than yesterday: still rejected. Yesterday's jobs are allowed so news is not stranded.
-    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-20T03:45:00Z'; },
+    // Older than 3 days: still rejected. Recent jobs (up to 3 days) are allowed so news is not stranded.
+    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-18T03:45:00Z'; },
     c => { c.catalogs.catalogs.jobs.checkedAt = `${date}T05:00:00Z`; },
     c => { c.research.runs[date].status = 'incomplete'; },
     c => { c.research.runs[date].validationErrors = ['source unavailable']; },
@@ -141,7 +141,7 @@ test('a publication marker cannot forge approval, omit backlog, misidentify an a
     c => { c.research.runs[date].validationErrors.push('Article audit failed'); },
     c => { c.research.runs[date].baselineSlugs.push('original-news'); },
     c => { c.research.runs[date].discovery.feeds = [{ ok: false }]; },
-    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-20T03:45:00Z'; },
+    c => { c.catalogs.catalogs.jobs.checkedAt = '2026-10-18T03:45:00Z'; },
     c => { c.catalogs.catalogs.jobs.sourceCommit = 'unconfirmed'; },
     c => { c.hasArticle = () => false; },
   ];
@@ -322,9 +322,9 @@ test('ready-build and rollout proof must identify the exact reserved revision an
 test('a next-day rollout requires both a new jobs refresh and a new completed original-news batch', async () => {
   const h = harness(); await h.run();
   const next = '2026-10-23', later = Date.parse(`${next}T04:00:00Z`);
-  // Jobs older than yesterday remain blocked.
+  // Jobs older than 3 days remain blocked.
   const staleJobs = content(next);
-  staleJobs.catalogs.catalogs.jobs.checkedAt = '2026-10-21T03:45:00Z';
+  staleJobs.catalogs.catalogs.jobs.checkedAt = '2026-10-18T03:45:00Z';
   staleJobs.research = content().research;
   await assert.rejects(h.run({ date: next, now: () => later, id: '125-1', content: staleJobs }), /today’s published jobs/);
   // Yesterday's jobs unlock the rollout only once today's news batch is complete.

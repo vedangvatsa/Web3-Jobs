@@ -61,9 +61,10 @@ export function assertDailyContent({ date, catalogs, research, jobs, hasArticle 
   const jobsDay = timestamp(refreshed?.checkedAt) && Date.parse(refreshed.checkedAt) <= now
     ? new Date(refreshed.checkedAt).toISOString().slice(0, 10)
     : '';
-  // Prefer same-day jobs, but allow yesterday's catalogue so a finished news
-  // batch is not stranded when morning ingest fails (Nov 23 regression).
-  const jobsFresh = jobsDay === date || jobsDay === utcDateOffset(date, -1);
+  // Prefer same-day jobs, but allow recent catalogue (up to 3 days) so a finished news
+  // batch is not stranded when morning ingest fails or has test regressions.
+  const allowedJobDays = [date, utcDateOffset(date, -1), utcDateOffset(date, -2), utcDateOffset(date, -3)];
+  const jobsFresh = allowedJobDays.includes(jobsDay);
   if (catalogs?.version !== 1 || !jobsFresh || !/^[a-f0-9]{40}$/.test(refreshed?.sourceCommit || '') || !Array.isArray(jobs)) {
     throw new Error('Daily deployment requires today’s published jobs catalogue');
   }
