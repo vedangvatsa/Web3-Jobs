@@ -207700,7 +207700,8 @@
       },
       "account": "channel:bounties",
       "attemptId": "a92dbc38-6799-4886-8090-370829237892",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x2626783bd5bc3f65f74c1680db6fca008c01fa37"
     }
   ]
 }
