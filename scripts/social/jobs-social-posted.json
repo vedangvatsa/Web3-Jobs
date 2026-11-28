@@ -211293,7 +211293,8 @@
       },
       "account": "channel:dev",
       "attemptId": "ece28558-286e-42e4-83ca-c2dc2863010e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x18360a95e796b336bd52efba62f35870c7bd4dff"
     }
   ]
 }
