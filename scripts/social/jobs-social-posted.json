@@ -210583,7 +210583,8 @@
       },
       "account": "channel:base",
       "attemptId": "9801d9e5-261c-4536-b1d3-4bf916c35d96",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xcccc9c74600e9a8c138b97ac2e805c80a331e0bd"
     }
   ]
 }
