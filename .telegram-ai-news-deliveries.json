@@ -1405,5 +1405,42 @@
     "slotKey": "2026-11-28:morning",
     "messageId": 193598,
     "sentAt": "2026-11-28T04:39:55.898Z"
+  },
+  "f89c67b9-78b4-458b-9af3-3ed180efd3c8": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T12:14:28.387Z",
+    "stories": [
+      {
+        "index": 1,
+        "original_title": "[The Decoder] Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+        "headline": "Google DeepMind study reveals performance gaps in major models",
+        "summary": "A multi-run benchmark of 18 artificial intelligence models showed consistent failures during repeated simple task execution.",
+        "event_rationale": "Covers Google DeepMind's Humanity's First Exam benchmark research, which is distinct from all recently posted benchmark evaluations.",
+        "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+        "source": "The Decoder",
+        "originalTitle": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs"
+      },
+      {
+        "index": 2,
+        "original_title": "[The Decoder] Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+        "headline": "Embo raises 110 million dollars for robotics AI",
+        "summary": "The startup secured seed funding to build physical world models for general-purpose autonomous robots.",
+        "event_rationale": "Covers Embo's $110 million seed funding round, representing a new major investment event in robotics AI.",
+        "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+        "source": "The Decoder",
+        "originalTitle": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots"
+      },
+      {
+        "index": 3,
+        "original_title": "[MarkTechPost] Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
+        "headline": "Ant Group releases open-source medical AI model",
+        "summary": "The 560-billion parameter model ranks first on medical benchmarks and is available under a free developer license.",
+        "event_rationale": "Covers Ant Group's release of the LingSante-3.1-flash model, a distinct open-source model deployment.",
+        "link": "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
+        "source": "MarkTechPost",
+        "originalTitle": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token"
+      }
+    ],
+    "slotKey": "2026-11-28:afternoon"
   }
 }
