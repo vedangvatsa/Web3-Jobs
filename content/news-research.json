@@ -226338,9 +226338,9 @@
         "The Defiant"
       ],
       "id": "79233d3ef490ce37a2be",
-      "status": "pending",
+      "status": "ready",
       "firstSeenAt": "2026-11-27T02:19:28.239Z",
-      "attempts": 0,
+      "attempts": 1,
       "expiresAt": "2026-11-29T21:43:50.000Z",
       "lastSeenAt": "2026-11-28T02:05:08.508Z",
       "articleSlug": "binancewithdrawals",
@@ -226366,7 +226366,25 @@
         "updatedAt": "2026-11-28T02:13:01.543Z",
         "approved": false,
         "mustReview": true
-      }
+      },
+      "reason": "verified-event",
+      "note": "Read Crypto Briefing, Decrypt and Bitcoin Magazine on Binance's Nov. 26 post ending the withdrawal suspension; timeline, .34B coverage, .85B frozen, DOJ forfeiture and THORChain laundering figures all sourced from the opened articles. Quality, image, formatting and duplicate audits pass.",
+      "sourceChecks": [
+        {
+          "url": "https://cryptobriefing.com/binance-restores-withdrawals-after-record-hack/",
+          "outcome": "read"
+        },
+        {
+          "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+          "outcome": "read"
+        },
+        {
+          "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+          "outcome": "read"
+        }
+      ],
+      "reviewedAt": "2026-11-28T02:15:11.093Z",
+      "lastReviewedDay": "2026-11-28"
     },
     "03d135f20db99088dc4f": {
       "source": "The Defiant",
@@ -451227,6 +451245,27 @@
             "Find independent reporting confirming the event in: China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
             "Retry the attempted URLs after any Retry-After time, within the existing verification window."
           ]
+        },
+        "79233d3ef490ce37a2be": {
+          "status": "ready",
+          "reason": "verified-event",
+          "note": "Read Crypto Briefing, Decrypt and Bitcoin Magazine on Binance's Nov. 26 post ending the withdrawal suspension; timeline, .34B coverage, .85B frozen, DOJ forfeiture and THORChain laundering figures all sourced from the opened articles. Quality, image, formatting and duplicate audits pass.",
+          "sourceChecks": [
+            {
+              "url": "https://cryptobriefing.com/binance-restores-withdrawals-after-record-hack/",
+              "outcome": "read"
+            },
+            {
+              "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+              "outcome": "read"
+            },
+            {
+              "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+              "outcome": "read"
+            }
+          ],
+          "reviewedAt": "2026-11-28T02:15:11.093Z",
+          "articleSlug": "binancewithdrawals"
         }
       },
       "baselineSlugs": [
