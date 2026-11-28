@@ -24556,5 +24556,920 @@
     "changeFrequency": "weekly",
     "priority": 0.6,
     "lastModified": "2026-11-27T11:00:02.834Z"
+  },
+  {
+    "url": "https://hashtagweb3.com/hackathons",
+    "changeFrequency": "daily",
+    "priority": 0.8
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs",
+    "changeFrequency": "daily",
+    "priority": 0.8
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/united-arab-emirates-digital-dirham",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/singapore",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/russian-federation-digital-ruble",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/india-digital-rupee",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/honduras-honduras-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-appia",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/sweden-e-krona",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/south-korea",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/new-zealand-new-zealand-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-morocco-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-pontes",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-ensembletx",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/australia-eaud",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/kyrgyzstan-digital-som",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/japan-digital-yen",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/uzbekistan-digital-sum",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/vietnam-vietnam-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/united-states-of-america-digital-dollar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/turkey-digital-lira",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/south-korea-hangang-river",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/china-e-cny",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/south-africa-south-africa-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/philippines-agila-20",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/peru-peru-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/nigeria-e-naira",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/kazakhstan-digital-tenge",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-e-hkd",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-mbridge",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/western-african-monetary-union-wamu-wamu-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/uganda-uganda-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/australia-project-acacia",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/israel-e-shekel",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/ghana-e-cedi",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-project-agora",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/norway-norway-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/canada-project-samara",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/bermuda-digital-bermuda-dollar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/rwanda-e-franc-rwandais",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/eastern-caribbean-economic-and-currency-union-oecs-eccu-dcash",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/malawi-malawi-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/iraq-iraq-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/ethiopia-digital-birr",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-project-guardian",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/brazil-drex-phase-3",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/bolivia",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/madagascar-e-ariary",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/hong-kong-e-hkd",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/georgia-digital-lari",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/bolivia-digital-boliviano",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/chile-chile-wcbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/ukraine-e-hryvnia",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/angola-digital-kwanza",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/pakistan-pakistan-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/chile-chile-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/timor-leste-ecentavos",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/switzerland-helvetia",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/myanmar-myanmar-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/botswana-botswana-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/liberia-digital-liberian-dollar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-digital-ruble",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-digital-euro",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/colombia-colombia-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/serbia-digital-dinar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/papua-new-guinea-papua-new-guinea-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/namibia-namibia-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-trigger-solution",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-wholesale-digital-euro",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/philippines-agila",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/macau-e-mop",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/indonesia-project-garuda",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/fiji-fiji-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/iran-digital-rial",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/eswatini-digital-lilangeni",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/aruba-digital-florin",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/malaysia-e-ringgit",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/canada-digital-loonie",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/republic-of-palau-palau-stablecoin",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/mauritius-digital-rupee",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/jamaica-jam-dex",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/indonesia-digital-rupiah",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/hong-kong-project-ensemble",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/dominican-republic-dominican-republic-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/azerbaijan-azerbaijan-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/bahamas-sand-dollar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/thailand-thailand-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/qatar-qatar-wholesale-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-project-venus",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-spanish-wholesale-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/brazil-drex-phase-2",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/mauritania-mauritania-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-tips-hash-link",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/hong-kong-project-aurum",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/sri-lanka-sri-lanka-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/egypt-egypt-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/armenia-armenia-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/taiwan-taiwan-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/south-korea-digital-won",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/south-korea-south-korea-wholesale-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/solomon-islands-bokolo-cash",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/maldives-maldives-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/argentina-digital-peso",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/mongolia-mongolia-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/bhutan-digital-ngultrum",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/saudi-arabia-saudi-arabia-wholesale-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/israel-sela",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-swift-connector",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-project-mariana",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-digital-tenge",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/hong-kong-sela",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/economic-and-monetary-community-of-central-africa-emcca-emcca-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/united-states-of-america-project-hamilton",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/philippines-philippines-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/kenya-kenya-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/hungary-hungary-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/united-states-of-america-wholesale-digital-dollar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-project-cedar-phase-ii-x-project-ubin",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/montenegro-montenegro-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/kuwait-kuwait-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/denmark-e-kroner",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/curacao-curacao-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/united-arab-emirates-united-arab-emirates-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/laos-laos-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/united-kingdom-digital-pound",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/algeria-algerian-digital-dinar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/tanzania-tanzania-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/mexico-moneda-digital-del-banco-central-mdbc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/oman-oman-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-project-ubin",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/nepal-nepal-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-project-icebreaker",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/zimbabwe-zimbabwe-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/south-korea-south-korea-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/bangladesh-bangladesh-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/sudan-sudan-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/south-africa-khokha",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/trinidad-and-tobago-trinidad-and-tobago-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/singapore-project-orchid",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/malaysia-malaysia-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/zambia-zambia-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/yemen-yemen-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/albania-diigital-lek",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/saudi-arabia-saudi-arabia-retail-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/qatar-qatar-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/denmark-denmark-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/jordan-jordan-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/paraguay-paraguay-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-jura",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/australia-project-atom",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/guatemala-iquetzal",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/costa-rica-costa-rica-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/vanuatu-vanuatu-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/tonga-tonga-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-project-prosperus",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/solomon-islands-solomon-islands-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/palestine-palestine-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-delphi",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/poland-digital-zloty",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/haiti-gourde-digitale",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/morocco-morocco-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/czech-republic-czech-republic-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/lebanon-lebanon-cbdc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-aber",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-inthanon-lionrock",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/barbados-digital-barbados-dollar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-jasper-ubin",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/bahrain-digital-dinar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/switzerland-e-franc",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/tunisia-e-dinar",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/thailand-inthanon",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/canada-jasper",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/iceland-rafkrona",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/cross-border-project-lionrock",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/uruguay-e-peso",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/brazil-drex-phase-1",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/ecuador-dinero-electronico",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/japan-stella",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/euro-area-stella",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/united-kingdom-rscoin",
+    "changeFrequency": "weekly",
+    "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/cbdcs/finland-avant",
+    "changeFrequency": "weekly",
+    "priority": 0.7
   }
 ]

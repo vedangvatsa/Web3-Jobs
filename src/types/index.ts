@@ -279,3 +279,20 @@ export interface Hackathon {
   featured?: boolean;
 }
 
+export interface CbdcProfile {
+  id: string;
+  slug: string;
+  country: string;
+  countryCode?: string;
+  digitalCurrency: string;
+  centralBank: string;
+  status: 'Launched' | 'Pilot' | 'Proof of concept' | 'Research' | 'Paused' | 'Cancelled' | string;
+  type: string;
+  dlt: string;
+  announcementYear: string;
+  goals: string;
+  announcementLink: string;
+  crossBorderProject: boolean;
+  verifiedOn: string;
+}
+
