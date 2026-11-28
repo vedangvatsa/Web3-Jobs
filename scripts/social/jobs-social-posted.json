@@ -211403,6 +211403,41 @@
       "attemptId": "39b08502-c377-4ecd-bbbe-e2beacdd713c",
       "verification": "verified",
       "postId": "0xa073cd94cb08044fce366583e4db4f8a792db60c"
+    },
+    {
+      "slug": "ds21",
+      "company": "Figure",
+      "title": "Senior Data Scientist",
+      "platform": "farcaster",
+      "postedAt": "2026-11-28T12:15:33.162Z",
+      "expectedText": "Figure is hiring Senior Data Scientist\n\nhttps://hashtagweb3.com/ds21/fc?og=7",
+      "snapshot": {
+        "id": "8934097002",
+        "title": "Senior Data Scientist",
+        "company": "Figure",
+        "link": "https://job-boards.greenhouse.io/figure/jobs/8934097002",
+        "date": "2026-11-12T18:18:33-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: Figure [figure]",
+        "location": "Remote",
+        "department": "Data Engineering",
+        "active": true,
+        "salary": "$132k – $198k/yr",
+        "dateVerified": true,
+        "slug": "ds21"
+      },
+      "payload": {
+        "text": "Figure is hiring Senior Data Scientist\n\nhttps://hashtagweb3.com/ds21/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/ds21/fc?og=7"
+          }
+        ],
+        "channel_id": "base"
+      },
+      "account": "channel:base",
+      "attemptId": "aea897c9-e7da-4109-a525-023c7e5727ae",
+      "verification": "creating"
     }
   ]
 }
