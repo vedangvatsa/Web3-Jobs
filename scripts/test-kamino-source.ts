@@ -22,9 +22,9 @@ const read = async (url: string) => {
   throw new Error(`Unexpected GET ${url}`);
 };
 
-test('reviewed Kamino identity is recurring and keeps an honest zero-job profile', async () => {
+test('reviewed Kamino identity is tracked and keeps an honest zero-job profile', async () => {
   assert.equal(EXPANSION_SOURCES.filter(row => row.board.toLowerCase() === 'kamino').length, 1);
-  assert.equal(source.status, 'recurring');
+  assert.equal(source.status, 'ingested-via-refresh-jobs-cache');
   assert.equal(source.ownership.kind, 'reviewed-ashby-organization');
   await verifyExpansionSource(source, read);
   const companies = buildCompaniesFromJobs([], { kamino: profiles.kamino });

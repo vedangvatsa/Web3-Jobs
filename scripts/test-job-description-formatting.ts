@@ -42,9 +42,8 @@ const gsDisability =
   '<p>We are committed to reasonable accommodations during our recruiting process. Learn more: https://www.goldmansachs.com/careers/footer/disability-statement.html</p>';
 const gsHtml = buildSynthesizedJobContent(fixture, gsDisability);
 const gsPage = cheerio.load(gsHtml);
-assert.equal(gsPage('a[href*="disability-statement"]').length, 1, 'Learn more: URL must become a link');
-assert.equal(gsPage('a[href*="disability-statement"]').text().trim(), 'Learn more');
-assert.ok(!gsHtml.includes('Learn more: https://'), 'Bare Learn more: URL must not render as plain text');
+assert.equal(gsPage('a').length, 0, 'No hyperlinks should remain in sanitized job content');
+assert.ok(!gsHtml.includes('https://www.goldmansachs.com'), 'Bare Learn more: URL must not render in output');
 
 const gsOracle =
   '<p>&nbsp;OUR IMPACT<br>Wealth Management<br>Across Wealth Management, Goldman Sachs helps empower clients.</p>' +
