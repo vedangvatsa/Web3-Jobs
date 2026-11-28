@@ -16,36 +16,47 @@ seen_titles = set()
 def normalize_title(t):
     return re.sub(r'[^a-z0-9]', '', t.lower())
 
+def is_past_hackathon(period_str):
+    if not period_str:
+        return False
+    s = period_str.strip()
+    today = datetime.now(timezone.utc).date()
+    
+    # Check for past years e.g. 2020-2025
+    years = re.findall(r'\b(202[0-5]|201\d)\b', s)
+    future_years = re.findall(r'\b(202[6-9]|20[3-9]\d)\b', s)
+    if years and not future_years:
+        return True
+
+    # Look for range ending in date: e.g. 'Sep 04 - Sep 16, 2026' or 'Nov 05 - Nov 07, 2026'
+    parts = s.split('-')
+    end_part = parts[-1].strip()
+    
+    m = re.search(r'([A-Za-z]{3,9})\s+(\d{1,2}),?\s*(\d{4})', end_part)
+    if m:
+        mon_str, day_str, yr_str = m.groups()
+        try:
+            dt = datetime.strptime(f'{mon_str[:3]} {day_str} {yr_str}', '%b %d %Y').date()
+            return dt < today
+        except Exception:
+            pass
+
+    m2 = re.search(r'(\d{1,2}),?\s*(\d{4})', end_part)
+    if m2:
+        day_str, yr_str = m2.groups()
+        m_start = re.search(r'([A-Za-z]{3,9})', parts[0])
+        if m_start:
+            mon_str = m_start.group(1)
+            try:
+                dt = datetime.strptime(f'{mon_str[:3]} {day_str} {yr_str}', '%b %d %Y').date()
+                return dt < today
+            except Exception:
+                pass
+
+    return False
+
 # 1. Flagship Web3 Ecosystem Hackathons
 curated = [
-    {
-        "id": "ethglobal-online-2026",
-        "title": "ETHGlobal Online 2026",
-        "organizer": "ETHGlobal",
-        "url": "https://ethglobal.com",
-        "prizePool": "$150,000",
-        "submissionPeriod": "Sep 04 - Sep 16, 2026",
-        "location": "Online / Global",
-        "ecosystem": "Ethereum",
-        "format": "Online",
-        "description": "The premier global virtual Ethereum hackathon bringing together thousands of developers building on EVM, ZK rollups, account abstraction, and decentralized AI.",
-        "tags": ["Ethereum", "DeFi", "ZK", "EVM", "AI"],
-        "featured": True
-    },
-    {
-        "id": "ethglobal-mumbai-2026",
-        "title": "ETHGlobal Mumbai",
-        "organizer": "ETHGlobal",
-        "url": "https://ethglobal.com",
-        "prizePool": "$125,000",
-        "submissionPeriod": "Nov 05 - Nov 07, 2026",
-        "location": "Mumbai, India",
-        "ecosystem": "Ethereum",
-        "format": "In-Person",
-        "description": "Major flagship in-person ETHGlobal hackathon in Mumbai connecting developers, protocol founders, and ecosystem mentors right around the global Devcon season.",
-        "tags": ["Ethereum", "In-Person", "Asia", "Protocols"],
-        "featured": True
-    },
     {
         "id": "solana-global-radar",
         "title": "Solana Global Radar Hackathon",
@@ -315,6 +326,9 @@ for p in range(1, 15):
     except Exception as e:
         print(f"Devpost page {p} error: {e}")
         break
+
+# Filter out past events
+hackathons = [h for h in hackathons if not is_past_hackathon(h.get('submissionPeriod', ''))]
 
 with open(OUT_FILE, 'w') as f:
     json.dump(hackathons, f, indent=2)

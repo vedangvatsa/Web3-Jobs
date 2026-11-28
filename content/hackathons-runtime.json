@@ -1,44 +1,5 @@
 [
   {
-    "id": "ethglobal-online-2026",
-    "title": "ETHGlobal Online 2026",
-    "organizer": "ETHGlobal",
-    "url": "https://ethglobal.com",
-    "prizePool": "$150,000",
-    "submissionPeriod": "Sep 04 - Sep 16, 2026",
-    "location": "Online / Global",
-    "ecosystem": "Ethereum",
-    "format": "Online",
-    "description": "The premier global virtual Ethereum hackathon bringing together thousands of developers building on EVM, ZK rollups, account abstraction, and decentralized AI.",
-    "tags": [
-      "Ethereum",
-      "DeFi",
-      "ZK",
-      "EVM",
-      "AI"
-    ],
-    "featured": true
-  },
-  {
-    "id": "ethglobal-mumbai-2026",
-    "title": "ETHGlobal Mumbai",
-    "organizer": "ETHGlobal",
-    "url": "https://ethglobal.com",
-    "prizePool": "$125,000",
-    "submissionPeriod": "Nov 05 - Nov 07, 2026",
-    "location": "Mumbai, India",
-    "ecosystem": "Ethereum",
-    "format": "In-Person",
-    "description": "Major flagship in-person ETHGlobal hackathon in Mumbai connecting developers, protocol founders, and ecosystem mentors right around the global Devcon season.",
-    "tags": [
-      "Ethereum",
-      "In-Person",
-      "Asia",
-      "Protocols"
-    ],
-    "featured": true
-  },
-  {
     "id": "solana-global-radar",
     "title": "Solana Global Radar Hackathon",
     "organizer": "Solana Foundation",
