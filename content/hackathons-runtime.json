@@ -116,7 +116,7 @@
     "featured": true
   },
   {
-    "id": "arbitrum-colosseum",
+    "id": "arbitrum-stylus",
     "title": "Arbitrum Stylus Hackathon",
     "organizer": "Arbitrum Foundation",
     "url": "https://arbitrum.io",
@@ -155,7 +155,7 @@
     "featured": true
   },
   {
-    "id": "berachain-boyco",
+    "id": "berachain-pol-buildathon",
     "title": "Berachain Proof-of-Liquidity Build Sprint",
     "organizer": "Berachain Foundation",
     "url": "https://berachain.com",
@@ -174,7 +174,7 @@
     "featured": true
   },
   {
-    "id": "near-chain-abstraction",
+    "id": "near-chain-signatures",
     "title": "NEAR Chain Abstraction & AI Hackathon",
     "organizer": "NEAR Foundation",
     "url": "https://near.org",
@@ -193,6 +193,234 @@
     "featured": true
   },
   {
+    "id": "polygon-village-hackathon",
+    "title": "Polygon Village Builder Grants & Hackathon",
+    "organizer": "Polygon Labs",
+    "url": "https://polygon.technology/village",
+    "prizePool": "$250,000",
+    "submissionPeriod": "Rolling Cohorts 2026",
+    "location": "Online / Global",
+    "ecosystem": "Polygon",
+    "format": "Online",
+    "description": "Build consumer dApps, DeFi protocols, and AggLayer cross-chain liquidity solutions with Polygon Village grants and technical support.",
+    "tags": [
+      "Polygon",
+      "AggLayer",
+      "ZK",
+      "EVM"
+    ],
+    "featured": true
+  },
+  {
+    "id": "avalanche-summit-hackathon",
+    "title": "Avalanche Subnet & L1 Hackathon",
+    "organizer": "Ava Labs",
+    "url": "https://avax.network",
+    "prizePool": "$175,000",
+    "submissionPeriod": "2026 Schedule",
+    "location": "Hybrid & Online",
+    "ecosystem": "Avalanche",
+    "format": "Hybrid",
+    "description": "Build custom application-specific blockchains using Avalanche Subnets, Teleporter cross-subnet messaging, and high-throughput Avalanche L1s.",
+    "tags": [
+      "Avalanche",
+      "Subnets",
+      "Teleporter",
+      "Solidity"
+    ],
+    "featured": true
+  },
+  {
+    "id": "sui-overflow-hackathon",
+    "title": "Sui Overflow Global Hackathon",
+    "organizer": "Sui Foundation",
+    "url": "https://sui.io",
+    "prizePool": "$500,000",
+    "submissionPeriod": "Global Virtual Sprint",
+    "location": "Online / Global",
+    "ecosystem": "Sui",
+    "format": "Online",
+    "description": "Compete across Move smart contract tracks, DeFi, gaming, infrastructure, and mobile applications built on Sui's object-centric blockchain.",
+    "tags": [
+      "Sui",
+      "Move",
+      "Gaming",
+      "DeFi"
+    ],
+    "featured": true
+  },
+  {
+    "id": "aptos-code-collision",
+    "title": "Aptos Code Collision Global Hackathon",
+    "organizer": "Aptos Foundation",
+    "url": "https://aptosfoundation.org",
+    "prizePool": "$500,000",
+    "submissionPeriod": "2026 Circuit",
+    "location": "Online / Global",
+    "ecosystem": "Aptos",
+    "format": "Online",
+    "description": "Build high-throughput Web3 applications using Aptos Move. Tracks include DeFi, NFTs, Social, Gaming, and Institutional Web3.",
+    "tags": [
+      "Aptos",
+      "Move",
+      "Ecosystem",
+      "DeFi"
+    ],
+    "featured": true
+  },
+  {
+    "id": "filecoin-data-economy",
+    "title": "Filecoin & IPFS Decentralized Storage Hackathon",
+    "organizer": "Protocol Labs",
+    "url": "https://filecoin.io",
+    "prizePool": "$100,000",
+    "submissionPeriod": "2026 Online",
+    "location": "Online / Global",
+    "ecosystem": "Filecoin",
+    "format": "Online",
+    "description": "Build verifiable compute, decentralized storage pipelines, and FVM (Filecoin Virtual Machine) smart contracts.",
+    "tags": [
+      "Filecoin",
+      "IPFS",
+      "DePIN",
+      "Storage"
+    ],
+    "featured": true
+  },
+  {
+    "id": "event-dev3pack-global-hackathon-2026",
+    "title": "Dev3pack Global Hackathon",
+    "organizer": "Web3 Host",
+    "url": "https://hack.dev3pack.xyz/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "November 2026",
+    "location": "Lisbon, Portugal",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Explore the future of Web3! The Dev3pack Global Hackathon, scheduled from 27-29 November 2026, is a three-day hybrid event. where students from universities all over the world may create innovative blockchain application",
+    "tags": [
+      "Hackathon",
+      "Web3",
+      "Global",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "event-hack-days-georgia-tbilisi",
+    "title": "Hack Days Georgia 2026",
+    "organizer": "Web3 Host",
+    "url": "https://luma.com/dgf-8sz3",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "November 2026",
+    "location": "Tbilisi",
+    "ecosystem": "Multi-Chain",
+    "format": "In-Person",
+    "description": "Join Hack Days Georgia 2026, from November 27-29, 2026, in Tbilisi, Georgia. This exciting three-day hackathon will bring together developers, designers, students, entrepreneurs, founders, and technology enthusiasts to b",
+    "tags": [
+      "Hackathon",
+      "Web3",
+      "Tbilisi",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "event-hackathon",
+    "title": "HACKATHON: Build AI on KASPA",
+    "organizer": "Google Developer Group Epita",
+    "url": "https://luma.com/8dl5fglx",
+    "prizePool": "Bounties & Prizes",
+    "submissionPeriod": "November 2026",
+    "location": "Paris",
+    "ecosystem": "Multi-Chain",
+    "format": "In-Person",
+    "description": "HACKATHON: Build AI on KASPA is a one-day hackathon on the theme Finance x AI, organized by GDG EPITA and GDG ESIEA, with the support of Kaspa and Google.",
+    "tags": [
+      "Hackathon",
+      "Web3",
+      "Paris",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "event-miningdisc",
+    "title": "Mining Discovery: Your First Bittensor Mining Competition",
+    "organizer": "42Blockchain",
+    "url": "https://luma.com/t90n9jon",
+    "prizePool": "Bounties & Prizes",
+    "submissionPeriod": "November 2026",
+    "location": "Paris",
+    "ecosystem": "Multi-Chain",
+    "format": "In-Person",
+    "description": "Join us for the begining of a series of 3 live workshops at 42 Paris to discover the Bittensor ecosystem and prepare for the Opentensor Foundation hackathon.",
+    "tags": [
+      "Hackathon",
+      "Web3",
+      "Paris",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "event-headsuphack",
+    "title": "Heads Up Hackathon: Demo Day & Awards",
+    "organizer": "TVM Ventures",
+    "url": "https://luma.com/inbw26dh",
+    "prizePool": "Bounties & Prizes",
+    "submissionPeriod": "December 2026",
+    "location": "Dubai",
+    "ecosystem": "Multi-Chain",
+    "format": "In-Person",
+    "description": "Demo Day and awards of the Heads Up Hackathon: a 7-day online build where developers bring the apps people use every day to Even Realities G2 smart glasses.",
+    "tags": [
+      "Hackathon",
+      "Web3",
+      "Dubai",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "event-xrplhack",
+    "title": "\u30d6\u30ed\u30c3\u30af\u30c1\u30a7\u30fc\u30f3\u30fb\u30cf\u30c3\u30ab\u30bd\u30f3 2026 | XRPL Hackathon at Blockchain Kaigi 2026 (Tokyo)",
+    "organizer": "XRP Asia",
+    "url": "https://luma.com/l55q8bdw",
+    "prizePool": "Bounties & Prizes",
+    "submissionPeriod": "December 2026",
+    "location": "Tokyo",
+    "ecosystem": "Multi-Chain",
+    "format": "In-Person",
+    "description": "============== English Follows ==============",
+    "tags": [
+      "Hackathon",
+      "Web3",
+      "Tokyo",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "event-ethglobal-cannes-2027",
+    "title": "ETHGlobal Cannes 2027",
+    "organizer": "Web3 Host",
+    "url": "https://ethglobal.com/events/cannes2027",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "April 2027",
+    "location": "Cannes",
+    "ecosystem": "Multi-Chain",
+    "format": "In-Person",
+    "description": "Get ready to explore, experiment, and innovate at ETHGlobal Cannes 2027, from April 14-16, 2027, in Cannes, France. Developers, blockchain enthusiasts, entrepreneurs, and creative minds will come together for this exciti",
+    "tags": [
+      "Hackathon",
+      "Web3",
+      "Cannes",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
     "id": "devpost-31667",
     "title": "Kiroween 2026",
     "organizer": "Kiro",
@@ -202,12 +430,12 @@
     "location": "Online / Global",
     "ecosystem": "Multi-Chain",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $100,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $100,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
     ],
     "featured": true
   },
@@ -221,12 +449,12 @@
     "location": "Online / Global",
     "ecosystem": "Multi-Chain",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $120,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $120,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
     ],
     "featured": true
   },
@@ -238,14 +466,14 @@
     "prizePool": "$30,000",
     "submissionPeriod": "Nov 11 - 30, 2026",
     "location": "Online / Global",
-    "ecosystem": "Multi-Chain",
+    "ecosystem": "AI x Web3",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $30,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $30,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
     ],
     "featured": false
   },
@@ -259,12 +487,12 @@
     "location": "Online / Global",
     "ecosystem": "Multi-Chain",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $35,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $35,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
     ],
     "featured": false
   },
@@ -278,12 +506,12 @@
     "location": "Online / Global",
     "ecosystem": "Multi-Chain",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $10,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $10,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
     ],
     "featured": false
   },
@@ -297,12 +525,12 @@
     "location": "Online / Global",
     "ecosystem": "Multi-Chain",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $50,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $50,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
     ],
     "featured": true
   },
@@ -316,12 +544,12 @@
     "location": "Online / Global",
     "ecosystem": "Multi-Chain",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $25,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $25,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
     ],
     "featured": false
   },
@@ -333,14 +561,14 @@
     "prizePool": "$25,000",
     "submissionPeriod": "Nov 17, 2026 - Jan 12, 2027",
     "location": "Online / Global",
-    "ecosystem": "Multi-Chain",
+    "ecosystem": "AI x Web3",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $25,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $25,000 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
     ],
     "featured": false
   },
@@ -352,14 +580,2237 @@
     "prizePool": "$64,000",
     "submissionPeriod": "Nov 02 - Dec 11, 2026",
     "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $64,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30789",
+    "title": "Arbiter Hacks V1",
+    "organizer": "Arbiter ",
+    "url": "https://arbiter-hacks-v1.devpost.com/",
+    "prizePool": "$7,800",
+    "submissionPeriod": "Oct 20 - Dec 21, 2026",
+    "location": "Online / Global",
     "ecosystem": "Multi-Chain",
     "format": "Online",
-    "description": "Official Web3 and software development hackathon hosted on Devpost. Compete for $64,000 in total rewards and ecosystem grants.",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $7,800 in prizes and ecosystem recognition.",
     "tags": [
-      "Web3",
-      "Blockchain",
-      "Developers",
-      "Open-Source"
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31886",
+    "title": "Build with AI - PICO Space Program",
+    "organizer": "XR Bootcamp",
+    "url": "https://pico-space-program.devpost.com/",
+    "prizePool": "$50,000",
+    "submissionPeriod": "Nov 18, 2026 - Feb 01, 2027",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $50,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": true
+  },
+  {
+    "id": "devpost-32079",
+    "title": "Learn AR with SPECS",
+    "organizer": "Devpost",
+    "url": "https://learn-specs.devpost.com/",
+    "prizePool": "$2,500",
+    "submissionPeriod": "Nov 10 - Dec 07, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $2,500 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32024",
+    "title": "Relate by Neo4j Hackathon",
+    "organizer": "Neo4j",
+    "url": "https://relate.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 11 - Dec 11, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30740",
+    "title": "Code for Humanity",
+    "organizer": "nill",
+    "url": "https://code-for-humanity.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Jul 16, 2026 - Jan 15, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31907",
+    "title": "Build Your First AI App",
+    "organizer": "Yasir Insights",
+    "url": "https://build-your-first-ai-app.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Oct 27 - Dec 09, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31787",
+    "title": "GenHacks",
+    "organizer": "Shail & Sharaf",
+    "url": "https://genhacks-open.devpost.com/",
+    "prizePool": "$CAD 1,050",
+    "submissionPeriod": "Nov 01 - Dec 26, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 1,050 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31972",
+    "title": "SLAY HACKS",
+    "organizer": "cite & slayy",
+    "url": "https://slayy-hacks.devpost.com/",
+    "prizePool": "$4,500",
+    "submissionPeriod": "Nov 07 - Dec 07, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $4,500 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31789",
+    "title": "STEM2Connect AI Hackathon",
+    "organizer": "STEM2Connect",
+    "url": "https://stem2connect-online-hackathon.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Oct 17 - Nov 29, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31773",
+    "title": "LaunchPad Hacks (580k In Prizes!)",
+    "organizer": "Hack4TodayOrg",
+    "url": "https://launchpad-hacks.devpost.com/",
+    "prizePool": "$300",
+    "submissionPeriod": "Oct 16 - Dec 04, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $300 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31480",
+    "title": "AI Agents for Founders Challenge \u2014 HETIC 2026",
+    "organizer": "HETIC",
+    "url": "https://ai-agents-founders-hetic-26.devpost.com/",
+    "prizePool": "\u20ac1,000",
+    "submissionPeriod": "Nov 04 - Dec 18, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20ac1,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31826",
+    "title": "Global AI Builder\u2019s Challenge",
+    "organizer": "Refactor The World",
+    "url": "https://global-ai-builders-challenge.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 21 - 28, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31796",
+    "title": "SafeSpace Hacks - Judges Needed",
+    "organizer": "SafeSpace",
+    "url": "https://safespace-hacks.devpost.com/",
+    "prizePool": "$280",
+    "submissionPeriod": "Oct 17 - Dec 09, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $280 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30764",
+    "title": "Syntax Summit",
+    "organizer": "Student Organization",
+    "url": "https://syntax-summit.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Jul 18, 2026 - Jan 14, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31108",
+    "title": "InnovArt 2027: Art and Technology Hack Day",
+    "organizer": "Binnovative",
+    "url": "https://innovart2027.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Aug 23, 2026 - Jan 02, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32009",
+    "title": "AI for Medicine: A Global Student Hackathon on the Future of Care",
+    "organizer": "Open Health AI Collective",
+    "url": "https://ai-for-medicine.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 04 - Dec 04, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31682",
+    "title": "CSC Winter Sparkathon",
+    "organizer": "The Webb Schools CSC",
+    "url": "https://csc-winter-sparkathon.devpost.com/",
+    "prizePool": "$300",
+    "submissionPeriod": "Oct 29 - Nov 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $300 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31795",
+    "title": "AccessED Hacks",
+    "organizer": "AccessEDnpo",
+    "url": "https://accessed-hacks.devpost.com/",
+    "prizePool": "$225",
+    "submissionPeriod": "Oct 17 - Dec 20, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $225 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32060",
+    "title": "Silicon Valley Buildathon",
+    "organizer": "Silicon Hacks Team",
+    "url": "https://silicon-valley-buildathon.devpost.com/",
+    "prizePool": "$500",
+    "submissionPeriod": "Nov 08 - Dec 15, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $500 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31994",
+    "title": "AI OpenBuild",
+    "organizer": "AI OpenBuild",
+    "url": "https://ai-openbuild.devpost.com/",
+    "prizePool": "$150",
+    "submissionPeriod": "Nov 05 - Dec 10, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $150 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31794",
+    "title": "Code for Change",
+    "organizer": "HackathonForEveryone",
+    "url": "https://code-for-change-global.devpost.com/",
+    "prizePool": "$200",
+    "submissionPeriod": "Nov 05 - Dec 01, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $200 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31960",
+    "title": "ML Empowerment Build Challenge 4.0 (250K IN PRIZES!)",
+    "organizer": "ML Empowerment Foundation",
+    "url": "https://ml-build-challenge-4.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 01 - Dec 02, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31797",
+    "title": "Green Shift Hacks",
+    "organizer": "HackathonForEveryone",
+    "url": "https://green-shift-hacks.devpost.com/",
+    "prizePool": "$125",
+    "submissionPeriod": "Oct 18 - Dec 10, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $125 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31798",
+    "title": "Taskforge",
+    "organizer": "HackathonForEveryone",
+    "url": "https://taskforge.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Oct 17 - Dec 10, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32072",
+    "title": "InnovateHER Hackathon: Girls Who Code",
+    "organizer": "Girls Who Code",
+    "url": "https://hackathon-girls-who-code.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 10 - Dec 13, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31775",
+    "title": "OBSCURA: Satellite AI Research Challenge",
+    "organizer": "BTAJI CREW",
+    "url": "https://obscura.devpost.com/",
+    "prizePool": "$50",
+    "submissionPeriod": "Nov 18 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $50 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31905",
+    "title": "Teens in AI Global Challenge 2027",
+    "organizer": "Teens in AI",
+    "url": "https://teens-in-ai.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 15, 2026 - Feb 15, 2027",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31873",
+    "title": "HackOut! 2027",
+    "organizer": "BranchOut!",
+    "url": "https://hackout-branchout.devpost.com/",
+    "prizePool": "$3,000",
+    "submissionPeriod": "Nov 03, 2026 - Feb 01, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $3,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31993",
+    "title": "IdeaLab Hacks",
+    "organizer": "IdeaLab",
+    "url": "https://idealab-hacks.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 04 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32133",
+    "title": "Creators AI Winter Challenge",
+    "organizer": "Creators AI ",
+    "url": "https://creators-ai-winter-challenge.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 19 - 28, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31484",
+    "title": "2026-2027 Fall ESE Senior Design",
+    "organizer": "university of pennsylvania",
+    "url": "https://ese4500f26.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Sep 22 - Dec 07, 2026",
+    "location": "Amy Gutman Hall",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31958",
+    "title": "K-Dub Hacks",
+    "organizer": "AWS Student Builders Group - Laurier",
+    "url": "https://k-dub-hacks.devpost.com/",
+    "prizePool": "$CAD 448,000",
+    "submissionPeriod": "Nov 27 - 29, 2026",
+    "location": "Spur Innovation Center",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 448,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32017",
+    "title": "Inceptrix 3.0",
+    "organizer": "Tech Council - Jain Univeristy",
+    "url": "https://inceptrix-hackathon.devpost.com/",
+    "prizePool": "\u20b9 0",
+    "submissionPeriod": "Nov 05 - Dec 24, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20b9 0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32215",
+    "title": "Acodemic X KeebsforWater Global SDG Hackathon",
+    "organizer": "Hack Club",
+    "url": "https://hackathon-draft-32215.devpost.com/",
+    "prizePool": "$35",
+    "submissionPeriod": "Nov 23 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $35 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31733",
+    "title": "305 Veterans Hackathon Edition November 2026 \u2014 305Hackathons.vercel.app",
+    "organizer": "GOOGLE DEVELOPER GROUP AT FIU",
+    "url": "https://305veteransnov2026.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 01 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32222",
+    "title": "National Hackathon 2026: AWS Student Builder Group COMSATS Sahiwal \u00d7 ILC\u00d7Devsinc",
+    "organizer": "AWS SBG COMSATS Sahiwal",
+    "url": "https://aws-sbg-cui-sahiwal-hack-2026.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 26 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31504",
+    "title": "Code For DFW",
+    "organizer": "n/a",
+    "url": "https://code-for-dfw.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Oct 20 - Nov 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31956",
+    "title": "Build Day 2",
+    "organizer": "Durham College",
+    "url": "https://build-day.devpost.com/",
+    "prizePool": "\u00a31,000",
+    "submissionPeriod": "Nov 24 - 28, 2026",
+    "location": "Durham University, Entrepreneurs Durham",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u00a31,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32193",
+    "title": "DIU Dev Meetup 2026",
+    "organizer": "Data Science Club @ DIU",
+    "url": "https://diu-devthon.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 22 - Dec 01, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32061",
+    "title": "Peninsula Innovation Hackathon",
+    "organizer": "bayhacks",
+    "url": "https://peninsula-innovation-hackathon.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 10 - Dec 10, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-28603",
+    "title": "MCA 2026 projects",
+    "organizer": "Mizzou Computing Association",
+    "url": "https://mca-2026-projects.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Feb 27 - Dec 25, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32218",
+    "title": "Global Perceive Drawing Challenge",
+    "organizer": "Perceive",
+    "url": "https://perceive-drawing-challenge.devpost.com/",
+    "prizePool": "$50",
+    "submissionPeriod": "Nov 23 - Dec 20, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $50 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32141",
+    "title": "unihacks",
+    "organizer": "VidOpt LLC",
+    "url": "https://unihacks-youth.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 15, 2026 - Jan 25, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31974",
+    "title": "PhysTech 2027: Physical Activity and Technology Hack Day",
+    "organizer": "Binnovative",
+    "url": "https://phystech2027.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 04, 2026 - Jun 26, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32208",
+    "title": "Agents that act. Systems that answer.",
+    "organizer": "studentchakra",
+    "url": "https://accountable-agents.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 28 - Dec 01, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32182",
+    "title": "AlgoConnect Quantathon - 2026",
+    "organizer": "AlgoConnect x QUARCC",
+    "url": "https://algoconnect-quantathon-2026.devpost.com/",
+    "prizePool": "$700",
+    "submissionPeriod": "Nov 22 - 28, 2026",
+    "location": "AlgoConnect - Montr\u00e9al Offices",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $700 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31744",
+    "title": "LooHacks",
+    "organizer": "AWS Student Builder Group - WLU",
+    "url": "https://loohacks.devpost.com/",
+    "prizePool": "$CAD 0",
+    "submissionPeriod": "Nov 27 - 29, 2026",
+    "location": "Spur Innovation Center - SPUR Campus",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32236",
+    "title": "thanksgiving thank you hackathon",
+    "organizer": "shrimat koti",
+    "url": "https://thanksgiving-hackathon.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 27 - Dec 01, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32207",
+    "title": "Bath Game Jam 2026",
+    "organizer": "Bath Computer Science Society",
+    "url": "https://jam26.devpost.com/",
+    "prizePool": "\u00a30",
+    "submissionPeriod": "Nov 23 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u00a30 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32201",
+    "title": "KickStart 2026",
+    "organizer": "BizTech",
+    "url": "https://kickstart-2026.devpost.com/",
+    "prizePool": "$CAD 1,500",
+    "submissionPeriod": "Nov 26 - 30, 2026",
+    "location": "UBC Sauder (Demo Day)",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 1,500 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31581",
+    "title": "Project-ZH Hack Day",
+    "organizer": "Project-ZH",
+    "url": "https://project-zh.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 28, 2026",
+    "location": "Innoland Incubation Center, Baku",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32078",
+    "title": "Westside Build Challenge",
+    "organizer": "Westside Coding Club",
+    "url": "https://whs-build.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 24 - Dec 01, 2026",
+    "location": "Online \u2014 no in-person attendance",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32246",
+    "title": "Fanshawe Hacks",
+    "organizer": "club",
+    "url": "https://fanshawe-hacks.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 25 - Dec 03, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32253",
+    "title": "Build AI on Kaspa",
+    "organizer": "GDG EPITA",
+    "url": "https://build-ai-on-kaspa.devpost.com/",
+    "prizePool": "\u20ac1,000",
+    "submissionPeriod": "Nov 28, 2026",
+    "location": "EPITA Kremlin-Bic\u00eatre",
+    "ecosystem": "AI x Web3",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20ac1,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31995",
+    "title": "Alan x Qovery x AWS: AI Health Hack 2",
+    "organizer": "Alan",
+    "url": "https://ai-health-hack-2.devpost.com/",
+    "prizePool": "\u20ac4,700",
+    "submissionPeriod": "Nov 28, 2026",
+    "location": "Alan HQ",
+    "ecosystem": "AI x Web3",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20ac4,700 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32160",
+    "title": "HackEPS2026",
+    "organizer": "LleidaHack",
+    "url": "https://hackeps2026.devpost.com/",
+    "prizePool": "\u20ac0",
+    "submissionPeriod": "Nov 28 - 29, 2026",
+    "location": "Universitat de Lleida",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20ac0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32252",
+    "title": "Mosque & Madrassah Hackathon 2026",
+    "organizer": "Faith Associates",
+    "url": "https://mosque-expo-hackathon-2026.devpost.com/",
+    "prizePool": "\u00a30",
+    "submissionPeriod": "Nov 27 - 29, 2026",
+    "location": "Thistle London Heathrow Terminal 5",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u00a30 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30455",
+    "title": "Cosmo Hacks 2026",
+    "organizer": "Cosmo Hacks",
+    "url": "https://cosmohacks.devpost.com/",
+    "prizePool": "$147,105",
+    "submissionPeriod": "Dec 19, 2026 - Jan 18, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $147,105 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30463",
+    "title": "DeveloperWeek 2027 Hackathon",
+    "organizer": "DevNetwork",
+    "url": "https://developerweek-2027-hackathon.devpost.com/",
+    "prizePool": "$6,000",
+    "submissionPeriod": "Jan 25 - Feb 11, 2027",
+    "location": "Santa Clara Convention Center + Online",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $6,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32042",
+    "title": "The Dawn of Superintelligence | Kaya AI Grand Challenge",
+    "organizer": "Kaya AI",
+    "url": "https://kaya-ai-grand-challenge.devpost.com/",
+    "prizePool": "$3,000",
+    "submissionPeriod": "Nov 29 - Dec 06, 2026",
+    "location": "Mumbai",
+    "ecosystem": "AI x Web3",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $3,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30340",
+    "title": "HackTitan",
+    "organizer": "IWU",
+    "url": "https://hacktitan.devpost.com/",
+    "prizePool": "$10,000",
+    "submissionPeriod": "Feb 02 - 04, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $10,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31222",
+    "title": "checkpoint 1 \u2014 games for good",
+    "organizer": "Checkpoint",
+    "url": "https://checkpoint-1.devpost.com/",
+    "prizePool": "$15,560",
+    "submissionPeriod": "Jan 08 - 10, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $15,560 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-27097",
+    "title": "evensonarisnord",
+    "organizer": "HoustonHacks2026",
+    "url": "https://evensonarisnord.devpost.com/",
+    "prizePool": "$150",
+    "submissionPeriod": "Dec 31, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $150 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31655",
+    "title": "HackSussex GameJam 2026",
+    "organizer": "HackSussex",
+    "url": "https://hacksussex-gamejam-2026.devpost.com/",
+    "prizePool": "\u00a30",
+    "submissionPeriod": "Dec 05 - 06, 2026",
+    "location": "Brighton",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u00a30 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31602",
+    "title": "Hackathon 2026",
+    "organizer": "Deutsche Telekom IT Solutions Slovakia",
+    "url": "https://dtit-hackathon-2026.devpost.com/",
+    "prizePool": "\u20ac10,000",
+    "submissionPeriod": "Nov 28 - 29, 2026",
+    "location": "Technical University of Ko\u0161ice - Library",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20ac10,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31297",
+    "title": "BUILD 4 ALL",
+    "organizer": "CS4ALL",
+    "url": "https://build4all.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 05 - 12, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32057",
+    "title": "Ryze Hacks 2026",
+    "organizer": "ryze",
+    "url": "https://ryzehacks.devpost.com/",
+    "prizePool": "$3,260",
+    "submissionPeriod": "Dec 10 - 18, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $3,260 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31535",
+    "title": "Build Beyond Hackathon",
+    "organizer": "OSC",
+    "url": "https://build-beyond.devpost.com/",
+    "prizePool": "$5,000",
+    "submissionPeriod": "Mar 01 - 15, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $5,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-29135",
+    "title": "Brewing Codes 4.0",
+    "organizer": "HARD MODE",
+    "url": "https://brewing-codes-4-0.devpost.com/",
+    "prizePool": "\u20b9 100,000",
+    "submissionPeriod": "Mar 12 - 27, 2028",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20b9 100,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": true
+  },
+  {
+    "id": "devpost-32132",
+    "title": "OVO Hack 48",
+    "organizer": "Ovo Talent",
+    "url": "https://ovo-hack-48.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 18 - 20, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-28629",
+    "title": "Tech to Treasure Hackathon",
+    "organizer": "bin to better",
+    "url": "https://techtotreasure.devpost.com/",
+    "prizePool": "$450",
+    "submissionPeriod": "Mar 03 - 10, 2027",
+    "location": "Tully Community Branch Library",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $450 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32093",
+    "title": "FRONTIER//26",
+    "organizer": "LoveHack",
+    "url": "https://frontier26.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 04 - 11, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32103",
+    "title": "Syntax Hacks 2026",
+    "organizer": "Syntax Hacks Team",
+    "url": "https://syntax-hacks-2026.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 14, 2026 - Jan 17, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31800",
+    "title": "GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes",
+    "organizer": "Global NGO Executive Committee",
+    "url": "https://gnec-hackathon-2027-winter.devpost.com/",
+    "prizePool": "$700",
+    "submissionPeriod": "Jan 26 - Mar 26, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $700 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31827",
+    "title": "AI for Human Impact: A Global BASIS Hackathon",
+    "organizer": "BASIS Independent Silicon Valley",
+    "url": "https://basisglobalhackathon.devpost.com/",
+    "prizePool": "$10,200",
+    "submissionPeriod": "Feb 06 - 13, 2027",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $10,200 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32231",
+    "title": "Zyrelyx Global AI Hackathon",
+    "organizer": "Zyrelyx",
+    "url": "https://zyrelyx-global-ai-hackathon.devpost.com/",
+    "prizePool": "$15,000",
+    "submissionPeriod": "Dec 01 - 07, 2026",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $15,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32019",
+    "title": "Hack AI x Stan",
+    "organizer": "Stan",
+    "url": "https://hackai-toronto.devpost.com/",
+    "prizePool": "$CAD 23,000",
+    "submissionPeriod": "Dec 05 - 06, 2026",
+    "location": "Stan HQ - Toronto",
+    "ecosystem": "AI x Web3",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 23,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31141",
+    "title": "HackStorm 3.0: Sense, Think and Act",
+    "organizer": "HackStorm",
+    "url": "https://hackstorm3.devpost.com/",
+    "prizePool": "$5,200",
+    "submissionPeriod": "Jan 15 - 17, 2027",
+    "location": "San Francisco, California, USA",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $5,200 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30689",
+    "title": "BearHacks 2027",
+    "organizer": "BearHacks",
+    "url": "https://bearhacks2027.devpost.com/",
+    "prizePool": "$CAD 10,000",
+    "submissionPeriod": "Apr 23 - 25, 2027",
+    "location": "Sheridan College Hazel McCallion Campus",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 10,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-28304",
+    "title": "Hoya Hacks 2027",
+    "organizer": "Hoya Hacks",
+    "url": "https://hoya-hacks-2027.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Jan 22 - 24, 2027",
+    "location": "Healey Family Student Center",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-29980",
+    "title": "Vibe Code Animated Maps",
+    "organizer": "Mappi Studio",
+    "url": "https://vibecode-animated-maps.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 20, 2026",
+    "location": "South Plainfield Library",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31722",
+    "title": "DeveloperWeek New York 2027 Hackathon",
+    "organizer": "DevNetwork",
+    "url": "https://developerweek-new-york-2027.devpost.com/",
+    "prizePool": "$12,500",
+    "submissionPeriod": "May 31 - Jun 17, 2027",
+    "location": "Meadowlands Exposition Center + Online",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $12,500 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31882",
+    "title": "CSAIC Hack-AI-Thon",
+    "organizer": "Computer Science and AI Circle @ IISH",
+    "url": "https://csaic-hackaithon.devpost.com/",
+    "prizePool": "\u20b9 0",
+    "submissionPeriod": "Jan 08 - 11, 2027",
+    "location": "Online / Global",
+    "ecosystem": "AI x Web3",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20b9 0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31134",
+    "title": "MACHINE AGE",
+    "organizer": "Paramam",
+    "url": "https://machineage.devpost.com/",
+    "prizePool": "$10,000",
+    "submissionPeriod": "Jan 01 - Mar 31, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $10,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30163",
+    "title": "H.A.R.D. Hack 2027",
+    "organizer": "HKN (Eta Kappa Nu)",
+    "url": "https://h-a-r-d-hack-2027.devpost.com/",
+    "prizePool": "$300",
+    "submissionPeriod": "Jan 30 - 31, 2027",
+    "location": "University of California - Jacobs Hall",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $300 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31843",
+    "title": "Blackout 2026",
+    "organizer": "buildicy",
+    "url": "https://blackout-2026.devpost.com/",
+    "prizePool": "$5,000",
+    "submissionPeriod": "Nov 28, 2026",
+    "location": "Coimbatore , TamilNadu ",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $5,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31612",
+    "title": "NTU Beyond Binary Techathon 2027",
+    "organizer": "NTU Women In Tech",
+    "url": "https://ntu-beyond-binary-2027.devpost.com/",
+    "prizePool": "$10,000",
+    "submissionPeriod": "Feb 09 - 13, 2027",
+    "location": "Singapore",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $10,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32220",
+    "title": "Zero-G Hacks",
+    "organizer": "Zero-G CAD",
+    "url": "https://zero-g-hacks.devpost.com/",
+    "prizePool": "$120",
+    "submissionPeriod": "Dec 04 - 07, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $120 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32230",
+    "title": "HackTheFashion Global'26",
+    "organizer": "AI SKILLS LAB KIET",
+    "url": "https://hackthefashion-global-26.devpost.com/",
+    "prizePool": "$10,000",
+    "submissionPeriod": "Dec 08 - 31, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $10,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32261",
+    "title": "STEM For Tomorrow",
+    "organizer": "GlobalInnovationLeague",
+    "url": "https://stem-for-tomorrow.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Nov 30 - Dec 12, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31681",
+    "title": "Decisions Modeling for Greater Philadelphia",
+    "organizer": "Pennovation Works",
+    "url": "https://tbd-hackathon.devpost.com/",
+    "prizePool": "$100",
+    "submissionPeriod": "Feb 06, 2027",
+    "location": "Pennovation Works",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $100 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32161",
+    "title": "Hackstead: Winterfest",
+    "organizer": "Hackstead",
+    "url": "https://hackstead.devpost.com/",
+    "prizePool": "$2,830",
+    "submissionPeriod": "Dec 06 - 20, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $2,830 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31734",
+    "title": "305 CodeFest Edition December 2026 \u2014 305Hackathons.vercel.app",
+    "organizer": "COLORSTACKatFIU",
+    "url": "https://305codefestdec2026.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 01 - 31, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31522",
+    "title": "WiCS Hackathon",
+    "organizer": "MLH",
+    "url": "https://wics-hackathon.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Feb 28 - Mar 02, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30110",
+    "title": "MEGA Hackathon 2027",
+    "organizer": "MegaHackathonLeague",
+    "url": "https://megahackathon-27.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Feb 14 - 21, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32213",
+    "title": "SunnyHacks Jan 2027",
+    "organizer": "SunnyHacks",
+    "url": "https://sunnyhacks-jan-2027.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Jan 25 - Feb 01, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-29927",
+    "title": "GoatHacks 2027",
+    "organizer": "WPI ACM",
+    "url": "https://goathacks-2027.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Mar 26 - 28, 2027",
+    "location": "WPI - Campus Center",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31340",
+    "title": "Hook Em Hacks 2027",
+    "organizer": "Hook Em Hacks",
+    "url": "https://hook-em-hacks-2027.devpost.com/",
+    "prizePool": "$1,000",
+    "submissionPeriod": "Feb 27 - 28, 2027",
+    "location": "Austin, TX, USA",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $1,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31918",
+    "title": "HackTCNJ 2027",
+    "organizer": "HackTCNJ",
+    "url": "https://hacktcnj-2027.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Feb 27 - 28, 2027",
+    "location": "The College of New Jersey ",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30885",
+    "title": "hacks test",
+    "organizer": "n/a",
+    "url": "https://youtube-automation-hackathon.devpost.com/",
+    "prizePool": "$1",
+    "submissionPeriod": "Sep 09 - Dec 10, 2027",
+    "location": "Vancouver, Canada",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $1 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31924",
+    "title": "HACKRISE'26",
+    "organizer": "Mulearn MBCCET ",
+    "url": "https://hackrise-26.devpost.com/",
+    "prizePool": "\u20b9 1,000",
+    "submissionPeriod": "Nov 29, 2026 - Jan 31, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for \u20b9 1,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32166",
+    "title": "Launchly Project Sprint",
+    "organizer": "Launchly",
+    "url": "https://launchlyapp.devpost.com/",
+    "prizePool": "$1,500",
+    "submissionPeriod": "Jan 27 - Feb 24, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $1,500 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31162",
+    "title": "Desert Dev Lab 2027",
+    "organizer": "NM Tech Talks",
+    "url": "https://desert-dev-lab-2027.devpost.com/",
+    "prizePool": "$1,000",
+    "submissionPeriod": "Apr 24 - 25, 2027",
+    "location": "Albuquerque, NM, USA",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $1,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32082",
+    "title": "DevNetwork [API + Cloud + AI] Hackathon 2027",
+    "organizer": "DevNetwork",
+    "url": "https://devnetwork-api-hackathon-2027.devpost.com/",
+    "prizePool": "$12,500",
+    "submissionPeriod": "Sep 03 - 10, 2027",
+    "location": "Santa Clara Convention Center and Online",
+    "ecosystem": "AI x Web3",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $12,500 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "AI x Web3",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32062",
+    "title": "CodeTheCure Winter Hackathon",
+    "organizer": "CodeTheCure",
+    "url": "https://codethecure-winter-hackathon.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 19, 2026 - Jan 06, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Ethereum",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Ethereum",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32149",
+    "title": "Knightlytics",
+    "organizer": "UCF",
+    "url": "https://knightlytics.devpost.com/",
+    "prizePool": "$100",
+    "submissionPeriod": "Apr 09 - 11, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $100 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-27509",
+    "title": "hack::peel 2026",
+    "organizer": "Absolute Robotics #4308",
+    "url": "https://hack-peel.devpost.com/",
+    "prizePool": "$CAD 100",
+    "submissionPeriod": "Dec 12 - 13, 2026",
+    "location": "The Woodlands Secondary School",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 100 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31674",
+    "title": "Ticket to Hack 2027 @ UVA",
+    "organizer": "university of virginia",
+    "url": "https://ticket-to-hack.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Feb 20 - 21, 2027",
+    "location": "Rice Hall",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30608",
+    "title": "SpartaHack 12",
+    "organizer": "SpartaHack",
+    "url": "https://spartahack-12.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Feb 06 - 07, 2027",
+    "location": "MSU - STEM Building",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32027",
+    "title": "Civic Hacks 2027",
+    "organizer": "BU Spark!",
+    "url": "https://civic-hacks-2027-32027.devpost.com/",
+    "prizePool": "$300",
+    "submissionPeriod": "Feb 20 - 21, 2027",
+    "location": "Boston University- CDS",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $300 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31945",
+    "title": "Forgehacks",
+    "organizer": "UBC BizTech",
+    "url": "https://forgehacks-biztech.devpost.com/",
+    "prizePool": "$6,000",
+    "submissionPeriod": "Feb 27 - 28, 2027",
+    "location": "Pharmacutical Sciences Building",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $6,000 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-32066",
+    "title": "Arioron Think 2026",
+    "organizer": "Arioron",
+    "url": "https://arioron-think-2026.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Dec 10 - 17, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-31188",
+    "title": "N/A",
+    "organizer": "NA",
+    "url": "https://ai-content-engine-hackathon.devpost.com/",
+    "prizePool": "$2",
+    "submissionPeriod": "Feb 02 - Apr 06, 2027",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $2 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30988",
+    "title": "Revolution",
+    "organizer": "Hack Club Monterrey and High Coders MTY",
+    "url": "https://revolution-mty2026.devpost.com/",
+    "prizePool": "MEX$0",
+    "submissionPeriod": "Dec 05 - 06, 2026",
+    "location": "Museo Del Acero Horno 3",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for MEX$0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30359",
+    "title": "CrackleHacks",
+    "organizer": "Hyperlattice",
+    "url": "https://cracklehacks.devpost.com/",
+    "prizePool": "$20",
+    "submissionPeriod": "Dec 20 - 30, 2026",
+    "location": "Online / Global",
+    "ecosystem": "Multi-Chain",
+    "format": "Online",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $20 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30853",
+    "title": ".devHacks 2027",
+    "organizer": ".devClub",
+    "url": "https://devhacks-2027.devpost.com/",
+    "prizePool": "$CAD 0",
+    "submissionPeriod": "Feb 19 - 21, 2027",
+    "location": "EITC Building, University of Manitoba",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $CAD 0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
+    ],
+    "featured": false
+  },
+  {
+    "id": "devpost-30263",
+    "title": "Kent Hack Enough 2027",
+    "organizer": "HacKSU",
+    "url": "https://khe-2027.devpost.com/",
+    "prizePool": "Prizes & Grants",
+    "submissionPeriod": "Mar 06 - 07, 2027",
+    "location": "Kent State University - DI Hub",
+    "ecosystem": "Multi-Chain",
+    "format": "Hybrid / In-Person",
+    "description": "Global hackathon and developer challenge hosted on Devpost. Compete for $0 in prizes and ecosystem recognition.",
+    "tags": [
+      "Devpost",
+      "Multi-Chain",
+      "Hackathon",
+      "Developers"
     ],
     "featured": false
   }

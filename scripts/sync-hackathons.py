@@ -7,11 +7,16 @@ from datetime import datetime, timezone
 REPO = "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs"
 CONTENT_DIR = os.path.join(REPO, "content")
 OUT_FILE = os.path.join(CONTENT_DIR, "hackathons-runtime.json")
+EVENTS_FILE = os.path.join(CONTENT_DIR, "events-runtime.json")
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)'}
 hackathons = []
+seen_titles = set()
 
-# Curated flagship ecosystem hackathons
+def normalize_title(t):
+    return re.sub(r'[^a-z0-9]', '', t.lower())
+
+# 1. Flagship Web3 Ecosystem Hackathons
 curated = [
     {
         "id": "ethglobal-online-2026",
@@ -98,7 +103,7 @@ curated = [
         "featured": True
     },
     {
-        "id": "arbitrum-colosseum",
+        "id": "arbitrum-stylus",
         "title": "Arbitrum Stylus Hackathon",
         "organizer": "Arbitrum Foundation",
         "url": "https://arbitrum.io",
@@ -126,7 +131,7 @@ curated = [
         "featured": True
     },
     {
-        "id": "berachain-boyco",
+        "id": "berachain-pol-buildathon",
         "title": "Berachain Proof-of-Liquidity Build Sprint",
         "organizer": "Berachain Foundation",
         "url": "https://berachain.com",
@@ -140,7 +145,7 @@ curated = [
         "featured": True
     },
     {
-        "id": "near-chain-abstraction",
+        "id": "near-chain-signatures",
         "title": "NEAR Chain Abstraction & AI Hackathon",
         "organizer": "NEAR Foundation",
         "url": "https://near.org",
@@ -152,44 +157,166 @@ curated = [
         "description": "Build multichain applications with NEAR Chain Signatures, user-owned AI agents, and frictionless chain abstraction.",
         "tags": ["NEAR", "Chain Abstraction", "User-Owned AI", "Rust"],
         "featured": True
+    },
+    {
+        "id": "polygon-village-hackathon",
+        "title": "Polygon Village Builder Grants & Hackathon",
+        "organizer": "Polygon Labs",
+        "url": "https://polygon.technology/village",
+        "prizePool": "$250,000",
+        "submissionPeriod": "Rolling Cohorts 2026",
+        "location": "Online / Global",
+        "ecosystem": "Polygon",
+        "format": "Online",
+        "description": "Build consumer dApps, DeFi protocols, and AggLayer cross-chain liquidity solutions with Polygon Village grants and technical support.",
+        "tags": ["Polygon", "AggLayer", "ZK", "EVM"],
+        "featured": True
+    },
+    {
+        "id": "avalanche-summit-hackathon",
+        "title": "Avalanche Subnet & L1 Hackathon",
+        "organizer": "Ava Labs",
+        "url": "https://avax.network",
+        "prizePool": "$175,000",
+        "submissionPeriod": "2026 Schedule",
+        "location": "Hybrid & Online",
+        "ecosystem": "Avalanche",
+        "format": "Hybrid",
+        "description": "Build custom application-specific blockchains using Avalanche Subnets, Teleporter cross-subnet messaging, and high-throughput Avalanche L1s.",
+        "tags": ["Avalanche", "Subnets", "Teleporter", "Solidity"],
+        "featured": True
+    },
+    {
+        "id": "sui-overflow-hackathon",
+        "title": "Sui Overflow Global Hackathon",
+        "organizer": "Sui Foundation",
+        "url": "https://sui.io",
+        "prizePool": "$500,000",
+        "submissionPeriod": "Global Virtual Sprint",
+        "location": "Online / Global",
+        "ecosystem": "Sui",
+        "format": "Online",
+        "description": "Compete across Move smart contract tracks, DeFi, gaming, infrastructure, and mobile applications built on Sui's object-centric blockchain.",
+        "tags": ["Sui", "Move", "Gaming", "DeFi"],
+        "featured": True
+    },
+    {
+        "id": "aptos-code-collision",
+        "title": "Aptos Code Collision Global Hackathon",
+        "organizer": "Aptos Foundation",
+        "url": "https://aptosfoundation.org",
+        "prizePool": "$500,000",
+        "submissionPeriod": "2026 Circuit",
+        "location": "Online / Global",
+        "ecosystem": "Aptos",
+        "format": "Online",
+        "description": "Build high-throughput Web3 applications using Aptos Move. Tracks include DeFi, NFTs, Social, Gaming, and Institutional Web3.",
+        "tags": ["Aptos", "Move", "Ecosystem", "DeFi"],
+        "featured": True
+    },
+    {
+        "id": "filecoin-data-economy",
+        "title": "Filecoin & IPFS Decentralized Storage Hackathon",
+        "organizer": "Protocol Labs",
+        "url": "https://filecoin.io",
+        "prizePool": "$100,000",
+        "submissionPeriod": "2026 Online",
+        "location": "Online / Global",
+        "ecosystem": "Filecoin",
+        "format": "Online",
+        "description": "Build verifiable compute, decentralized storage pipelines, and FVM (Filecoin Virtual Machine) smart contracts.",
+        "tags": ["Filecoin", "IPFS", "DePIN", "Storage"],
+        "featured": True
     }
 ]
 
-# Fetch Devpost challenges
-for c in ['web3', 'blockchain', 'cryptocurrency']:
-    url = f"https://devpost.com/api/hackathons?challenge_type[]={c}"
+for h in curated:
+    norm = normalize_title(h['title'])
+    if norm not in seen_titles:
+        seen_titles.add(norm)
+        hackathons.append(h)
+
+# 2. Extract hackathons from events-runtime.json
+if os.path.exists(EVENTS_FILE):
+    try:
+        with open(EVENTS_FILE) as f:
+            events_data = json.load(f)
+        for e in events_data:
+            name = (e.get('name') or e.get('title') or '').strip()
+            desc = (e.get('description') or '').strip()
+            if any(k in name.lower() for k in ['hackathon', 'hack sprint', 'buildathon', 'hacker space']) or \
+               'hackathon' in desc.lower()[:300]:
+                norm = normalize_title(name)
+                if norm and norm not in seen_titles:
+                    seen_titles.add(norm)
+                    org = e.get('organizer', {}).get('name') if isinstance(e.get('organizer'), dict) else (e.get('organizer') or 'Web3 Host')
+                    clean_desc = desc.split('\n')[0].replace('#', '').strip() if desc else f"Web3 developer hackathon hosted by {org}."
+                    hackathons.append({
+                        "id": f"event-{e.get('slug') or e.get('id')}",
+                        "title": name,
+                        "organizer": org,
+                        "url": e.get('url') or e.get('registrationUrl') or 'https://hashtagweb3.com/events',
+                        "prizePool": "Bounties & Prizes" if e.get('price') == 'Free' else (e.get('price') or "Prizes & Grants"),
+                        "submissionPeriod": e.get('month') or "Upcoming 2026",
+                        "location": e.get('city') or e.get('location') or "Global / Online",
+                        "ecosystem": "Multi-Chain",
+                        "format": "In-Person" if e.get('city') else "Online",
+                        "description": clean_desc[:220],
+                        "tags": ["Hackathon", "Web3", e.get('city') or "Global", "Developers"],
+                        "featured": False
+                    })
+    except Exception as e:
+        print(f"Error reading events-runtime: {e}")
+
+# 3. Devpost Multi-Page Crawl (Search queries + Pages 1-12)
+for p in range(1, 15):
+    url = f"https://devpost.com/api/hackathons?page={p}"
     try:
         req = urllib.request.Request(url, headers=headers)
         with urllib.request.urlopen(req, timeout=10) as r:
             data = json.loads(r.read())
-            for h in data.get('hackathons', []):
+            items = data.get('hackathons', [])
+            if not items:
+                break
+            for h in items:
+                title = h.get('title', '').strip()
+                norm = normalize_title(title)
+                if not norm or norm in seen_titles:
+                    continue
+                seen_titles.add(norm)
                 clean_prize = re.sub(r'<[^>]+>', '', h.get('prize_amount', '$0')).strip()
+                loc = h.get('displayed_location', {}).get('location') or 'Online / Global'
+                is_online = (loc.lower() == 'online')
+                
+                # Check for ecosystem tag
+                eco = "Multi-Chain"
+                t_lower = title.lower()
+                if 'solana' in t_lower: eco = "Solana"
+                elif 'ethereum' in t_lower or 'eth' in t_lower: eco = "Ethereum"
+                elif 'polygon' in t_lower: eco = "Polygon"
+                elif 'ai' in t_lower: eco = "AI x Web3"
+                elif 'near' in t_lower: eco = "NEAR"
+                elif 'base' in t_lower: eco = "Base"
+
                 hackathons.append({
                     "id": f"devpost-{h.get('id')}",
-                    "title": h.get('title'),
+                    "title": title,
                     "organizer": h.get('organization_name') or 'Devpost Partner',
                     "url": h.get('url'),
-                    "prizePool": clean_prize or 'Prizes & Grants',
-                    "submissionPeriod": h.get('submission_period_dates', 'Upcoming'),
-                    "location": "Online / Global" if h.get('displayed_location', {}).get('location') == 'Online' else (h.get('displayed_location', {}).get('location') or 'Online / Global'),
-                    "ecosystem": "Multi-Chain",
-                    "format": "Online" if h.get('displayed_location', {}).get('location') == 'Online' else "Hybrid",
-                    "description": f"Official Web3 and software development hackathon hosted on Devpost. Compete for {clean_prize} in total rewards and ecosystem grants.",
-                    "tags": ["Web3", "Blockchain", "Developers", "Open-Source"],
-                    "featured": True if clean_prize and any(k in clean_prize for k in ['100,000', '120,000', '50,000']) else False
+                    "prizePool": clean_prize if clean_prize and clean_prize != '$0' else 'Prizes & Grants',
+                    "submissionPeriod": h.get('submission_period_dates', '2026 Schedule'),
+                    "location": 'Online / Global' if is_online else loc,
+                    "ecosystem": eco,
+                    "format": "Online" if is_online else "Hybrid / In-Person",
+                    "description": f"Global hackathon and developer challenge hosted on Devpost. Compete for {clean_prize} in prizes and ecosystem recognition.",
+                    "tags": ["Devpost", eco, "Hackathon", "Developers"],
+                    "featured": True if clean_prize and any(k in clean_prize for k in ['100,000', '120,000', '50,000', '250,000']) else False
                 })
     except Exception as e:
-        print(f"devpost {c} fetch error: {e}")
-
-seen = set()
-final_list = []
-for h in curated + hackathons:
-    key = h['title'].strip().lower()
-    if key not in seen:
-        seen.add(key)
-        final_list.append(h)
+        print(f"Devpost page {p} error: {e}")
+        break
 
 with open(OUT_FILE, 'w') as f:
-    json.dump(final_list, f, indent=2)
+    json.dump(hackathons, f, indent=2)
 
-print(f"Saved {len(final_list)} hackathons to {OUT_FILE}")
+print(f"Successfully synced {len(hackathons)} hackathons to {OUT_FILE}!")

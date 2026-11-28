@@ -10,10 +10,10 @@ import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 export const dynamic = 'force-static';
 export const revalidate = 3600;
 
-const hackathonsTitleSegment = 'Web3 Hackathons & Competitions 2026';
+const hackathonsTitleSegment = 'Web3 Hackathons 2026';
 const hackathonsSocialTitle = seoSocialTitle(hackathonsTitleSegment);
 const hackathonsDesc =
-  'Discover top Web3, blockchain, and crypto hackathons. Compete for over $2,000,000+ in global prize pools, developer grants, and VC accelerator pathways.';
+  'Discover top Web3, blockchain, and crypto hackathons. Compete for global prize pools, developer grants, and VC accelerator pathways.';
 
 export const metadata: Metadata = {
   title: seoTitleSegment(hackathonsTitleSegment),
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
         url: 'https://hashtagweb3.com/og/pages/grants.png',
         width: 1200,
         height: 630,
-        alt: 'Hashtag Web3 Hackathons & Competitions',
+        alt: 'Hashtag Web3 Hackathons',
       },
     ],
   },
@@ -94,7 +94,7 @@ export default function HackathonsPage() {
       <div className="flex flex-col min-h-screen">
         <main className="flex-1" data-hackathons-page>
           <PageShell>
-            <PageHeader title="Web3 Hackathons & Competitions" />
+            <PageHeader title="Web3 Hackathons" />
             <LogoStrip title="Hackathons & tracks backed by leading ecosystems:" logos={hackathonLogos} />
             <CommunityFeedBanner variant="community" />
             <HackathonsBoard
