@@ -1186,5 +1186,36 @@
     "slotKey": "2026-11-27:evening",
     "messageId": 65861,
     "sentAt": "2026-11-27T20:13:14.803Z"
+  },
+  "f31a4508-016f-4510-b006-85e91c2e346a": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T04:43:01.959Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "Hong Kong Passes Crypto Tax Reporting Legislation",
+        "summary": "Service providers must begin collecting user data in 2027 to comply with new international tax reporting standards.",
+        "link": "https://hashtagweb3.com/carf?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Hong Kong Lawmakers Pass Crypto Tax Reporting Bill for 2027 Collection"
+      },
+      {
+        "index": -1,
+        "headline": "US Treasury Bans Banks From Processing MEXC Transactions",
+        "summary": "Regulators blocked US financial institutions from working with the exchange due to alleged involvement in illicit money transfers.",
+        "link": "https://hashtagweb3.com/mexcorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions"
+      },
+      {
+        "index": -1,
+        "headline": "Aztec Releases Tierra Update to Fix Security Flaw",
+        "summary": "The update improves cryptography verification and reduces the time required to send messages from Ethereum to Aztec.",
+        "link": "https://hashtagweb3.com/aztectierra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network"
+      }
+    ],
+    "slotKey": "2026-11-28:morning"
   }
 }
