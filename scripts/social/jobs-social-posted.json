@@ -212482,7 +212482,8 @@
       },
       "account": "channel:product",
       "attemptId": "c2ee919a-e5ff-4bcb-a2b4-e5503810b6af",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeb5e2858f64c6fe8f82a39910e04452a0bea836c"
     }
   ]
 }
