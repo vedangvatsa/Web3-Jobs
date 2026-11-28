@@ -1481,6 +1481,23 @@
         "rolloutState": "SUCCEEDED",
         "confirmedAt": "2026-11-27T04:05:08.585Z"
       }
+    ],
+    "2026-11-28": [
+      {
+        "date": "2026-11-28",
+        "id": "46143533942-1",
+        "sourceCommit": "3abdb370a7b465a18e3fe6c5c923c4d9b81a1fbd",
+        "jobsCheckedAt": "2026-11-26T02:30:02.950Z",
+        "newsCompletedAt": "2026-11-28T03:03:32.805Z",
+        "articleSlugs": [
+          "franklinhype",
+          "binancewithdrawals"
+        ],
+        "phase": "building",
+        "startedAt": "2026-11-28T12:22:33.190Z",
+        "buildId": "daily-20261128-46143533942-1",
+        "rolloutId": "daily-20261128-46143533942-1"
+      }
     ]
   }
 }
