@@ -1407,7 +1407,7 @@
     "sentAt": "2026-11-28T04:39:55.898Z"
   },
   "f89c67b9-78b4-458b-9af3-3ed180efd3c8": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-28T12:14:28.387Z",
     "stories": [
       {
@@ -1441,6 +1441,8 @@
         "originalTitle": "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token"
       }
     ],
-    "slotKey": "2026-11-28:afternoon"
+    "slotKey": "2026-11-28:afternoon",
+    "messageId": 193600,
+    "sentAt": "2026-11-28T12:14:30.434Z"
   }
 }

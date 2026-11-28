@@ -110,6 +110,9 @@
   "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
   "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
   "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+  "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+  "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+  "https://www.marktechpost.com/2026/11/28/ant-group-lingsante-3-1-flash-open-source-medical-ai/",
   "Nvidia chief executive Jensen Huang resigns after personal conduct inquiry",
   "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
   "Google releases Gemini 4 Hydrogen model with lower operating costs",
@@ -332,6 +335,12 @@
   "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
   "Q.ANT develops photonic chip for AI model processing",
   "A New Breed of Chip Runs AI Models Using Waves of Light",
+  "Google DeepMind study reveals performance gaps in major models",
+  "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+  "Embo raises 110 million dollars for robotics AI",
+  "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+  "Ant Group releases open-source medical AI model",
+  "Ant Group Releases LingSante-3.1-flash: An Open-Weight MoE Model with 560B Total Parameters and 25B Activations per Token",
   "fp:built|center|chief|chip|conduct|creat|current|departur|executiv|expansion",
   "fp:achiev|argon|benchmark|cost|earlier|flagship|gemini4|googl|higher|hydrogen",
   "fp:300m|automat|capital|dollar|investment|langchain|open|provider|sourc",
@@ -442,5 +451,8 @@
   "fp:act|are|auction|bankruptcy|block|buyer|character|chat|conversational|court",
   "fp:alternativ|ami|architectur|back|bet|demonstrat|efficiency|jepa|lab|larg",
   "fp:accuracy|athena|autonomous|business|creat|cut|develop|down|guesswork|improv",
-  "fp:aim|ant|bre|calculation|chip|consumption|develop|electricity|energy|hardwar"
+  "fp:aim|ant|bre|calculation|chip|consumption|develop|electricity|energy|hardwar",
+  "fp:benchmark|consistent|dur|everyday|exam|execution|fail|failur|gap|googl",
+  "fp:110m|autonomous|dollar|embo|general|physical|purpos|robot|robotic|world",
+  "fp:25b|560b|activation|ant|availabl|benchmark|flash|fre|group|licens"
 ]
