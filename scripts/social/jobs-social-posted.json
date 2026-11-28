@@ -210338,7 +210338,8 @@
       },
       "account": "channel:web3",
       "attemptId": "5291b3a2-d1fb-420d-a78c-34e931a78e3e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xd7ec4f836453e02a10db68f9c22afac942ddeb89"
     }
   ]
 }
