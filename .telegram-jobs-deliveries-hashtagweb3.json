@@ -4426,7 +4426,7 @@
     "sentAt": "2026-11-28T04:39:35.830Z"
   },
   "7d3943bd-8367-44c0-9fac-06c2cd2e9d36": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-28T12:14:06.921Z",
     "chatId": "@hashtagweb3",
     "jobs": [
@@ -4539,6 +4539,8 @@
       }
     ],
     "message": "- Galaxy Digital is hiring <a href=\"https://hashtagweb3.com/int63?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">2027 FP&amp;A Intern</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/sls512?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Technical Account Manager, Spanish Speaking</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/mkt180?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Marketing Program Manager</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/infra101?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Senior Management</a>\n- DRW is hiring <a href=\"https://hashtagweb3.com/an68?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Business Analyst - Commodities</a>",
-    "slotKey": "2026-11-28:afternoon"
+    "slotKey": "2026-11-28:afternoon",
+    "messageId": 156554,
+    "sentAt": "2026-11-28T12:14:09.982Z"
   }
 }
