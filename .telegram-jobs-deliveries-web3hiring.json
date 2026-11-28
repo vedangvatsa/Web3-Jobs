@@ -8634,7 +8634,7 @@
     "sentAt": "2026-11-27T20:11:10.564Z"
   },
   "cd89deb7-a42c-4bb7-af06-da5c3d0b7d07": {
-    "status": "reserved",
+    "status": "sent",
     "reservedAt": "2026-11-28T04:39:24.140Z",
     "chatId": "@web3hiring",
     "jobs": [
@@ -8747,6 +8747,8 @@
       }
     ],
     "message": "- Ripple is hiring <a href=\"https://hashtagweb3.com/mgr235?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Quantitative DeFi Specialist</a>\n- Chainalysis is hiring <a href=\"https://hashtagweb3.com/sls311?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Client Account Executive</a>\n- OKX is hiring <a href=\"https://hashtagweb3.com/dmra2?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Director, Model Risk</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/eng776?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">AI Strategy Engineer</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/mkt171?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Forward Deployed AI Accelerator</a>",
-    "slotKey": "2026-11-28:morning"
+    "slotKey": "2026-11-28:morning",
+    "messageId": 16689,
+    "sentAt": "2026-11-28T04:39:26.202Z"
   }
 }
