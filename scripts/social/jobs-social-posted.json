@@ -212122,7 +212122,8 @@
       },
       "account": "channel:crypto",
       "attemptId": "83e91c0d-4075-42ff-bc6d-f92b9f41709a",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x0dc0ac7500301cbd796c5c5fea9761bf65351ca0"
     }
   ]
 }
