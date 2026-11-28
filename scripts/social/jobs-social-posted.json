@@ -208722,7 +208722,8 @@
       },
       "account": "channel:dev",
       "attemptId": "077caf55-b679-4506-bd2e-55bb05173ad0",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf09030012dcf1ca3aa1cfc94b582b6fa9090ba7a"
     }
   ]
 }
