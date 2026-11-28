@@ -1366,5 +1366,42 @@
     "slotKey": "2026-11-27:evening",
     "messageId": 193596,
     "sentAt": "2026-11-27T20:11:23.396Z"
+  },
+  "17a07166-6b7a-4222-b1f1-de8d32dbe5d7": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T04:39:53.007Z",
+    "stories": [
+      {
+        "index": 4,
+        "original_title": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models",
+        "headline": "Meta and AMI Labs publish research on JEPA architecture",
+        "summary": "New studies demonstrate progress in robot planning and training efficiency using world models as an alternative to LLMs.",
+        "event_rationale": "This covers a specific research milestone in non-LLM AI architectures, distinct from standard transformer-based model releases.",
+        "link": "https://the-decoder.com/three-studies-from-meta-and-ami-labs-back-yann-lecuns-bet-on-jepa-world-models-over-large-language-models/",
+        "source": "The Decoder",
+        "originalTitle": "Three studies from Meta and AMI Labs back Yann LeCun's bet on JEPA world models over large language models"
+      },
+      {
+        "index": 7,
+        "original_title": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork",
+        "headline": "OpenAI develops Athena data platform for business agents",
+        "summary": "The platform creates a semantic layer for standardized business metrics to improve the accuracy of autonomous AI agents.",
+        "event_rationale": "This reports on a specific internal infrastructure project at OpenAI aimed at enterprise agent reliability, distinct from consumer product updates.",
+        "link": "https://the-decoder.com/openai-is-building-athena-data-platform-to-cut-down-on-ai-agent-guesswork/",
+        "source": "The Decoder",
+        "originalTitle": "OpenAI is building \"Athena\" data platform to cut down on AI agent guesswork"
+      },
+      {
+        "index": 15,
+        "original_title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+        "headline": "Q.ANT develops photonic chip for AI model processing",
+        "summary": "The hardware uses light waves instead of electricity to perform calculations, aiming to reduce energy consumption for AI.",
+        "event_rationale": "This covers a hardware innovation in AI compute infrastructure, distinct from traditional silicon-based GPU developments.",
+        "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+        "source": "Wired",
+        "originalTitle": "A New Breed of Chip Runs AI Models Using Waves of Light"
+      }
+    ],
+    "slotKey": "2026-11-28:morning"
   }
 }
