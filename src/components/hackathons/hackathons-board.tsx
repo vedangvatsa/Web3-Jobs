@@ -111,7 +111,6 @@ export function HackathonsBoard({
         searchPlaceholder="Search hackathons, ecosystems, prizes, or organizers"
         searchAriaLabel="Search hackathons"
         selects={selects}
-        resultCount={filteredHackathons.length}
       />
 
       {visibleHackathons.length > 0 ? (
