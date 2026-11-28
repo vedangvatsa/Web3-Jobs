@@ -45,6 +45,7 @@ const DOMAIN_OVERRIDES: Record<string, string> = {
   securitize: 'securitize.io',
   cournot: 'yzilabs.com',
   mercuryo: 'mercuryo.com',
+  tazapay: 'tazapay.com',
   'mysten-labs': 'mystenlabs.com',
   'subzero-labs': 'subzerolabs.org',
   transak: 'transak.com',

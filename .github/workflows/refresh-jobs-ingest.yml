@@ -46,6 +46,10 @@ jobs:
         run: npx tsx scripts/ingest-mercuryo-bamboo.ts
         continue-on-error: true
 
+      - name: Ingest Tazapay Freshteam jobs
+        run: npx tsx scripts/ingest-tazapay-freshteam.ts
+        continue-on-error: true
+
       - name: Ingest Open Standard Ashby jobs
         run: npx tsx scripts/ingest-ashby-board.ts openstandard "Open Standard"
         continue-on-error: true

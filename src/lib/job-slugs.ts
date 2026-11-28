@@ -42,6 +42,11 @@ export function normalizeJobLink(link: string): string {
       : undefined;
     if (breezyId) return `breezy:${hostname}:${breezyId.toLowerCase()}`;
 
+    const freshteamId = hostname.endsWith('.freshteam.com')
+      ? url.pathname.match(/\/jobs\/([a-z0-9_-]+)(?:\/|$)/i)?.[1]
+      : undefined;
+    if (freshteamId) return `freshteam:${hostname.replace('.freshteam.com', '')}:${freshteamId.toLowerCase()}`;
+
     url.hash = '';
     for (const param of [...url.searchParams.keys()]) {
       if (TRACKING_QUERY_PARAMS.has(param.toLowerCase())) {

@@ -5366,5 +5366,17 @@
     "gaps": [
       "Careers and hiring details are published on the Ashby board at jobs.ashbyhq.com/fomo-labs; this profile is pinned to the consumer product site at fomo.family."
     ]
+  },
+  "tazapay": {
+    "name": "Tazapay",
+    "website": "https://tazapay.com/",
+    "description": "Tazapay is a cross-border payments infrastructure provider enabling global businesses to collect, hold, and disburse local and digital currencies (including stablecoins) across 70+ markets.",
+    "published": true,
+    "verified": true,
+    "checkedAt": "2026-11-28T10:55:24.095Z",
+    "socialLinks": {
+      "twitter": "https://x.com/tazapay"
+    },
+    "logo": "/logo/companies/tazapay.png"
   }
 }
