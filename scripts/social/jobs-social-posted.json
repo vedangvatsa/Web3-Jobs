@@ -210443,7 +210443,8 @@
       },
       "account": "channel:dev",
       "attemptId": "e661f850-11c1-428d-b69c-7969112b8bfb",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x68b458a8253062a9ef4619f5f38b5e37f0a9962a"
     }
   ]
 }
