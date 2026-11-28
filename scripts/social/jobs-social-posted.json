@@ -210723,7 +210723,8 @@
       },
       "account": "channel:ai",
       "attemptId": "17f89d0d-8f5e-4958-9dfe-1fe63eb5f029",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeeb36f7f8acf2ddd6d22aed0ee17d848d6d90696"
     }
   ]
 }
