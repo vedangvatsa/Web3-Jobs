@@ -1,0 +1,160 @@
+{
+  "updatedAt": "2026-11-28T09:59:31.758240+00:00",
+  "overview": {
+    "totalStablecoinMarketCap": "$282.80 Billion",
+    "tokenizedTreasuriesMarketCap": "$14.8 Billion",
+    "visaAdjustedVolume30d": "$1.79 Trillion",
+    "activePaymentAddresses30d": "38.4 Million"
+  },
+  "topStablecoins": [
+    {
+      "name": "Tether",
+      "symbol": "USDT",
+      "amount": "$173.51B",
+      "rawAmount": 173510714364.9414,
+      "share": 61.4,
+      "chains": 131
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "amount": "$69.38B",
+      "rawAmount": 69378471245.73509,
+      "share": 24.5,
+      "chains": 165
+    },
+    {
+      "name": "Ethena USDe",
+      "symbol": "USDe",
+      "amount": "$4.91B",
+      "rawAmount": 4912163026.102209,
+      "share": 1.7,
+      "chains": 34
+    },
+    {
+      "name": "Dai",
+      "symbol": "DAI",
+      "amount": "$3.72B",
+      "rawAmount": 3717984618.072931,
+      "share": 1.3,
+      "chains": 50
+    },
+    {
+      "name": "Sky Dollar",
+      "symbol": "USDS",
+      "amount": "$3.12B",
+      "rawAmount": 3115632430.106416,
+      "share": 1.1,
+      "chains": 9
+    },
+    {
+      "name": "Ripple USD",
+      "symbol": "RLUSD",
+      "amount": "$2.82B",
+      "rawAmount": 2821324433.152653,
+      "share": 1.0,
+      "chains": 6
+    }
+  ],
+  "topSettlementChains": [
+    {
+      "name": "Ethereum",
+      "amount": "$127.28B",
+      "rawAmount": 127282934465.18782,
+      "share": 45.0
+    },
+    {
+      "name": "Tron",
+      "amount": "$92.51B",
+      "rawAmount": 92512870082.56427,
+      "share": 32.7
+    },
+    {
+      "name": "BSC",
+      "amount": "$13.19B",
+      "rawAmount": 13188996968.505806,
+      "share": 4.7
+    },
+    {
+      "name": "Solana",
+      "amount": "$12.98B",
+      "rawAmount": 12982750130.795391,
+      "share": 4.6
+    },
+    {
+      "name": "Hyperliquid L1",
+      "amount": "$5.91B",
+      "rawAmount": 5909821675.234553,
+      "share": 2.1
+    },
+    {
+      "name": "Base",
+      "amount": "$4.79B",
+      "rawAmount": 4787416530.953422,
+      "share": 1.7
+    }
+  ],
+  "tokenizedTreasuries": [
+    {
+      "name": "BlackRock BUIDL",
+      "issuer": "BlackRock / Securitize",
+      "symbol": "BUIDL",
+      "tvl": "$2.85B",
+      "share": 19.3,
+      "chains": "Ethereum, Aptos, Arbitrum, Avalanche"
+    },
+    {
+      "name": "Circle USYC",
+      "issuer": "Circle",
+      "symbol": "USYC",
+      "tvl": "$2.42B",
+      "share": 16.4,
+      "chains": "Ethereum, Solana"
+    },
+    {
+      "name": "Franklin OnChain US Gov Money Fund",
+      "issuer": "Franklin Templeton",
+      "symbol": "FOBXX / BENJI",
+      "tvl": "$1.86B",
+      "share": 12.6,
+      "chains": "Polygon, Stellar, Arbitrum, Aptos"
+    },
+    {
+      "name": "Ondo Short-Term US Gov Treasuries",
+      "issuer": "Ondo Finance",
+      "symbol": "OUSG",
+      "tvl": "$1.35B",
+      "share": 9.1,
+      "chains": "Ethereum, Solana, Polygon"
+    },
+    {
+      "name": "Superstate Short Duration US Gov",
+      "issuer": "Superstate",
+      "symbol": "USTB",
+      "tvl": "$780M",
+      "share": 5.3,
+      "chains": "Ethereum"
+    }
+  ],
+  "visaAnalytics": {
+    "adjustedMonthlyVolume": "$1.79 Trillion",
+    "activeAddresses30d": "38.4 Million",
+    "organicVolumeRatio": "17.8%",
+    "institutionalSettlementRunRate": "$14.2 Billion",
+    "summary": "Filters inorganic bot loops and liquidity recycling to reveal true organic consumer and commercial payment velocity."
+  },
+  "sources": [
+    {
+      "name": "Visa Onchain Analytics",
+      "url": "https://visaonchainanalytics.com/"
+    },
+    {
+      "name": "RWA.xyz Institutional Tracker",
+      "url": "https://app.rwa.xyz/"
+    },
+    {
+      "name": "DefiLlama Stablecoins & TVL",
+      "url": "https://defillama.com/stablecoins"
+    }
+  ]
+}

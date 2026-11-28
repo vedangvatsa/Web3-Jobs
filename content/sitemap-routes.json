@@ -25471,5 +25471,10 @@
     "url": "https://hashtagweb3.com/cbdcs/finland-avant",
     "changeFrequency": "weekly",
     "priority": 0.7
+  },
+  {
+    "url": "https://hashtagweb3.com/dashboard",
+    "changeFrequency": "daily",
+    "priority": 0.8
   }
 ]
