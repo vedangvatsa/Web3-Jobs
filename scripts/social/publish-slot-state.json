@@ -1493,10 +1493,12 @@
           "franklinhype",
           "binancewithdrawals"
         ],
-        "phase": "building",
+        "phase": "build-failed",
         "startedAt": "2026-11-28T12:22:33.190Z",
         "buildId": "daily-20261128-46143533942-1",
-        "rolloutId": "daily-20261128-46143533942-1"
+        "rolloutId": "daily-20261128-46143533942-1",
+        "buildState": "FAILED",
+        "observedAt": "2026-11-28T12:26:11.039Z"
       }
     ]
   }
