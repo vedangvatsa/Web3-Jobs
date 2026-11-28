@@ -207661,6 +207661,46 @@
       "attemptId": "4d85cb5f-35ff-411c-97a9-f5f691a2832e",
       "verification": "verified",
       "postId": "0xf1e9df91fb2186f0edfaa4d42c0f8956c843e912"
+    },
+    {
+      "slug": "sls478",
+      "company": "DFNS",
+      "title": "Sales Director, North America",
+      "platform": "farcaster",
+      "postedAt": "2026-11-28T02:06:05.181Z",
+      "expectedText": "DFNS is hiring Sales Director, North America\n\nhttps://hashtagweb3.com/sls478/fc?og=7",
+      "snapshot": {
+        "id": "deel-dfns-914b3e51-fdeb-464e-bb9d-63312cf5f1ac",
+        "title": "Sales Director, North America",
+        "company": "DFNS",
+        "link": "https://jobs.deel.com/dfns/job-details/914b3e51-fdeb-464e-bb9d-63312cf5f1ac/overview",
+        "date": "2026-11-10T18:16:31.259Z",
+        "dateVerified": true,
+        "dateSource": "DFNS Careers on Deel",
+        "source": "Deel: DFNS [dfns]",
+        "location": "Remote",
+        "department": "Sales",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "active": true,
+        "salary": "$350k – $500k/yr",
+        "minSalary": 350000,
+        "maxSalary": 500000,
+        "currency": "USD",
+        "slug": "sls478"
+      },
+      "payload": {
+        "text": "DFNS is hiring Sales Director, North America\n\nhttps://hashtagweb3.com/sls478/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/sls478/fc?og=7"
+          }
+        ],
+        "channel_id": "bounties"
+      },
+      "account": "channel:bounties",
+      "attemptId": "a92dbc38-6799-4886-8090-370829237892",
+      "verification": "creating"
     }
   ]
 }
