@@ -211365,7 +211365,8 @@
       },
       "account": "channel:build",
       "attemptId": "3266a93c-5c6e-474b-b7f4-a5c25d5c3274",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xf4ab40f14d62851f929c996e866dda4748d44bf0"
     }
   ]
 }
