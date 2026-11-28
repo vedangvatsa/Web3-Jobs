@@ -210203,6 +210203,38 @@
       "attemptId": "a430dec3-4e63-4cb6-813b-65d2071db360",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 27-Nov-26 20:46:13 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AHF-YXeQT89bv4kw_oJLOf4\"}"
+    },
+    {
+      "slug": "infra65",
+      "company": "DRW",
+      "title": "Infrastructure Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-11-28T04:46:01.808Z",
+      "expectedText": "DRW is hiring Infrastructure Engineer: https://hashtagweb3.com/infra65/bsky?og=7",
+      "snapshot": {
+        "id": "8349095",
+        "title": "Infrastructure Engineer",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8349095",
+        "date": "2026-11-04T09:42:32-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Singapore",
+        "department": "IO - Infrastructure Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "infra65"
+      },
+      "payload": {
+        "text": "DRW is hiring Infrastructure Engineer: https://hashtagweb3.com/infra65/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/infra65/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/infra65.png?v=7",
+        "company": "DRW",
+        "title": "Infrastructure Engineer",
+        "description": "Join DRW as Infrastructure Engineer. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "35372006-3520-45dd-a836-97e93ec064fd",
+      "verification": "creating"
     }
   ]
 }
