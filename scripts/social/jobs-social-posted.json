@@ -210268,7 +210268,8 @@
       },
       "account": "profile",
       "attemptId": "62d3123c-4e86-49f5-bf25-c478c4b1385e",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x62e59b0d621f92aff603ad9427901b3ab5d5bce8"
     }
   ]
 }
