@@ -209340,6 +209340,39 @@
       "attemptId": "12e65033-4f12-4f6a-9ea1-1e03dd123429",
       "verification": "creating",
       "error": "Threads account lookup failed: {\"message\":\"Error validating access token: Session has expired on Sunday, 01-Nov-26 12:47:46 PST. The current time is Friday, 27-Nov-26 20:41:18 PST.\",\"type\":\"OAuthException\",\"code\":190,\"error_subcode\":0,\"fbtrace_id\":\"AKlLMgoUzWD10XJbzGh7RC5\"}"
+    },
+    {
+      "slug": "pm424",
+      "company": "Kraken",
+      "title": "Sr Staff Product Designer - Krak",
+      "platform": "bluesky",
+      "postedAt": "2026-11-28T04:41:03.959Z",
+      "expectedText": "Kraken is hiring Sr Staff Product Designer: https://hashtagweb3.com/pm424/bsky?og=7",
+      "snapshot": {
+        "id": "1de8e4bb-224d-43f3-b826-be513d13243c",
+        "title": "Sr Staff Product Designer - Krak",
+        "company": "Kraken",
+        "link": "https://jobs.ashbyhq.com/kraken.com/1de8e4bb-224d-43f3-b826-be513d13243c",
+        "date": "2026-11-18T20:45:58.839+00:00",
+        "source": "Ashby: Kraken [kraken.com]",
+        "location": "Remote (United Kingdom)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "Design",
+        "active": true,
+        "dateVerified": true,
+        "slug": "pm424"
+      },
+      "payload": {
+        "text": "Kraken is hiring Sr Staff Product Designer: https://hashtagweb3.com/pm424/bsky?og=7",
+        "linkUrl": "https://hashtagweb3.com/pm424/bsky?og=7",
+        "ogImageUrl": "https://hashtagweb3.com/og/jobs/pm424.png?v=7",
+        "company": "Kraken",
+        "title": "Sr Staff Product Designer - Krak",
+        "description": "Join Kraken as Sr Staff Product Designer - Krak. View responsibilities, requirements, and apply directly."
+      },
+      "attemptId": "740caadd-be2d-4792-9650-0697bd741377",
+      "verification": "creating"
     }
   ]
 }
