@@ -212014,7 +212014,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "bcefa60f-8ec3-4d3d-b5cb-08842a71ec32",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xeda98f9bb91064b130f493041ac4bf1ad80d3eea"
     }
   ]
 }
