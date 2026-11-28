@@ -210303,7 +210303,8 @@
       },
       "account": "channel:jobs",
       "attemptId": "c444ea2c-33e6-4795-8bbb-e6b8b3299f52",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x00919803d21bc1e37e3635b32989d9dbb7ccc008"
     }
   ]
 }
