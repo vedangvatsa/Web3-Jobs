@@ -8868,5 +8868,121 @@
     "slotKey": "2026-11-28:morning",
     "messageId": 227,
     "sentAt": "2026-11-28T04:39:29.622Z"
+  },
+  "665367e9-5de8-4b78-9cfb-a06062331e73": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T12:14:03.263Z",
+    "chatId": "@web3hiring",
+    "jobs": [
+      {
+        "snapshot": {
+          "id": "5410307008",
+          "title": "Account Executive Manager",
+          "company": "Block",
+          "link": "http://block.xyz/careers/jobs/5410307008?gh_jid=5410307008",
+          "date": "2026-11-09T16:12:26-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Block [block]",
+          "location": "Tokyo, Japan",
+          "department": "20213 S&M - Sales - Square Outside",
+          "active": true,
+          "dateVerified": true,
+          "slug": "sls454"
+        },
+        "key": "5410307008",
+        "slug": "sls454",
+        "url": "https://hashtagweb3.com/sls454?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Block",
+        "title": "Account Executive Manager"
+      },
+      {
+        "snapshot": {
+          "id": "8207701",
+          "title": "Software Engineer, Crypto Expansion",
+          "company": "Robinhood",
+          "link": "https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src=&gh_jid=8207701",
+          "date": "2026-11-03T08:45:05-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Robinhood [robinhood]",
+          "location": "Toronto, Canada",
+          "department": "Crypto Engineering",
+          "active": true,
+          "salary": "$136k – $160k/yr",
+          "dateVerified": true,
+          "slug": "eng710"
+        },
+        "key": "8207701",
+        "slug": "eng710",
+        "url": "https://hashtagweb3.com/eng710?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Robinhood",
+        "title": "Software Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "8331445",
+          "title": "Specialist Solutions Architect, Fraud & Risk",
+          "company": "Stripe",
+          "link": "https://stripe.com/jobs/search?gh_jid=8331445",
+          "date": "2026-11-06T07:55:57-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Stripe [stripe]",
+          "location": "London, UK",
+          "department": "1154 Specialized Solutions Architecture",
+          "active": true,
+          "dateVerified": true,
+          "slug": "arc35"
+        },
+        "key": "8331445",
+        "slug": "arc35",
+        "url": "https://hashtagweb3.com/arc35?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Stripe",
+        "title": "Specialist Solutions Architect"
+      },
+      {
+        "snapshot": {
+          "id": "3f62d2db-7df1-4ced-8899-bfef37fe2720",
+          "title": "Sales Engineer",
+          "company": "Rain",
+          "link": "https://jobs.ashbyhq.com/rain/3f62d2db-7df1-4ced-8899-bfef37fe2720",
+          "date": "2026-11-05T15:59:45.730+00:00",
+          "source": "Ashby: Rain [rain]",
+          "location": "New York, NY",
+          "isRemote": false,
+          "workplaceType": "OnSite",
+          "department": "GTM",
+          "active": true,
+          "dateVerified": true,
+          "slug": "eng421"
+        },
+        "key": "3f62d2db-7df1-4ced-8899-bfef37fe2720",
+        "slug": "eng421",
+        "url": "https://hashtagweb3.com/eng421?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Rain",
+        "title": "Sales Engineer"
+      },
+      {
+        "snapshot": {
+          "id": "5029461101",
+          "title": "VIP Relationship Manager, CIS Region",
+          "company": "Bybit",
+          "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/5029461101",
+          "date": "2026-11-06T04:46:44-05:00",
+          "dateSource": "Greenhouse.first_published",
+          "source": "Greenhouse: Bybit [bybit]",
+          "location": "CIS - Remote",
+          "department": "Global Regions",
+          "active": true,
+          "dateVerified": true,
+          "slug": "mgr207"
+        },
+        "key": "5029461101",
+        "slug": "mgr207",
+        "url": "https://hashtagweb3.com/mgr207?utm_source=telegram&utm_medium=social&utm_campaign=web3hiring",
+        "company": "Bybit",
+        "title": "VIP Relationship Manager"
+      }
+    ],
+    "message": "- Block is hiring <a href=\"https://hashtagweb3.com/sls454?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Account Executive Manager</a>\n- Robinhood is hiring <a href=\"https://hashtagweb3.com/eng710?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Software Engineer, Crypto Expansion</a>\n- Stripe is hiring <a href=\"https://hashtagweb3.com/arc35?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Specialist Solutions Architect, Fraud &amp; Risk</a>\n- Rain is hiring <a href=\"https://hashtagweb3.com/eng421?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">Sales Engineer</a>\n- Bybit is hiring <a href=\"https://hashtagweb3.com/mgr207?utm_source=telegram&amp;utm_medium=social&amp;utm_campaign=web3hiring\">VIP Relationship Manager, CIS Region</a>",
+    "slotKey": "2026-11-28:afternoon"
   }
 }
