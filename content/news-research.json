@@ -223113,9 +223113,9 @@
       "articleSlug": "fidelitychainlink",
       "draftProgress": {
         "id": "fd92935b41c529a1041c",
-        "day": "2026-11-27",
+        "day": "2026-11-28",
         "articleSlug": "fidelitychainlink",
-        "note": "Read Yahoo Finance and CoinTicker reports of the S-1; SEC filing and draft still pending.",
+        "note": "Re-read Yahoo Finance, CoinTicker and Bankless downloads; The Defiant still 403. SEC full-text search located the S-1 (Fidelity Chainlink Fund, CIK 2166611, filed Nov 25, 2026). Opening the S-1 next; draft and image pending.",
         "sourceChecks": [
           {
             "url": "https://finance.yahoo.com/markets/crypto/articles/fidelity-files-spot-chainlink-etf-162500270.html",
@@ -223124,9 +223124,17 @@
           {
             "url": "https://cointicker.com/fidelity-submits-sec-filing-for-spot-chainlink-etf-set-to-list-on-nasdaq/",
             "outcome": "read"
+          },
+          {
+            "url": "https://www.bankless.com/read/news/fidelity-files-for-a-spot-chainlink-etf",
+            "outcome": "read"
+          },
+          {
+            "url": "https://thedefiant.io/converge/tradfi-and-fintech/fidelity-files-for-spot-chainlink-fund-on-nasdaq",
+            "outcome": "blocked"
           }
         ],
-        "updatedAt": "2026-11-27T02:48:33.641Z",
+        "updatedAt": "2026-11-28T02:31:40.239Z",
         "approved": false,
         "mustReview": true
       }
