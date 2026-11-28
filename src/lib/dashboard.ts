@@ -7,6 +7,8 @@ export interface DashboardMetrics {
     tokenizedTreasuriesMarketCap: string;
     visaAdjustedVolume30d: string;
     activePaymentAddresses30d: string;
+    totalDeFiTvl?: string;
+    botFilteredVolume30d?: string;
   };
   topStablecoins: Array<{
     name: string;
@@ -15,11 +17,20 @@ export interface DashboardMetrics {
     rawAmount: number;
     share: number;
     chains: number;
+    color?: string;
   }>;
   topSettlementChains: Array<{
     name: string;
     amount: string;
     rawAmount: number;
+    share: number;
+    color?: string;
+  }>;
+  topDeFiChains?: Array<{
+    name: string;
+    tokenSymbol: string;
+    tvl: string;
+    rawTvl: number;
     share: number;
   }>;
   tokenizedTreasuries: Array<{
@@ -29,9 +40,12 @@ export interface DashboardMetrics {
     tvl: string;
     share: number;
     chains: string;
+    yieldApy?: string;
   }>;
   visaAnalytics: {
     adjustedMonthlyVolume: string;
+    rawReportedVolume?: string;
+    botFilteredRatio?: string;
     activeAddresses30d: string;
     organicVolumeRatio: string;
     institutionalSettlementRunRate: string;

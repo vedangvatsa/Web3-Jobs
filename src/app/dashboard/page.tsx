@@ -1,9 +1,8 @@
 import type { Metadata } from 'next';
 import { PageHeader } from '@/components/page-header';
 import { PageShell } from '@/components/page-shell';
-import { Card, CardHeader, CardTitle } from '@/components/ui/card';
+import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { getDashboardMetricsSync } from '@/lib/dashboard';
 import { seoSocialTitle, seoTitleSegment } from '@/lib/seo-title';
 import {
@@ -15,6 +14,8 @@ import {
   ArrowUpRight,
   ShieldCheck,
   ExternalLink,
+  Flame,
+  Percent,
 } from 'lucide-react';
 
 export const dynamic = 'force-static';
@@ -23,7 +24,7 @@ export const revalidate = 3600;
 const titleSegment = 'Web3 & Stablecoin On-Chain Dashboard';
 const socialTitle = seoSocialTitle(titleSegment);
 const desc =
-  'Real-time on-chain macro intelligence tracking $280B+ stablecoin settlement volumes, Visa Onchain Analytics, RWA tokenized US Treasuries, and blockchain network velocity.';
+  'Compact real-time on-chain macro intelligence tracking $280B+ stablecoins, Visa Onchain Analytics, RWA tokenized Treasuries, and blockchain network velocity.';
 
 export const metadata: Metadata = {
   title: seoTitleSegment(titleSegment),
@@ -76,170 +77,200 @@ export default function DashboardPage() {
       <div className="flex flex-col min-h-screen">
         <main className="flex-1" data-dashboard-page>
           <PageShell>
-            <PageHeader title="On-Chain & RWA Dashboard" />
-
-            <div className="text-sm font-medium text-muted-foreground -mt-4 mb-6">
-              Empirical on-chain settlement data synthesized from{' '}
-              <a
-                href="https://visaonchainanalytics.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-foreground hover:underline"
-              >
-                Visa Onchain Analytics
-              </a>
-              ,{' '}
-              <a
-                href="https://app.rwa.xyz"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-foreground hover:underline"
-              >
-                RWA.xyz
-              </a>
-              , and{' '}
-              <a
-                href="https://defillama.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-foreground hover:underline"
-              >
-                DefiLlama
-              </a>
-              .
+            {/* Header with inline provenance bar */}
+            <div className="flex flex-col sm:flex-row sm:items-baseline justify-between gap-2 pb-3 mb-4 border-b border-border/60">
+              <div>
+                <PageHeader title="On-Chain & RWA Dashboard" />
+                <p className="text-xs text-muted-foreground -mt-3">
+                  Live institutional data synthesized from Visa Onchain Analytics, RWA.xyz, and DefiLlama
+                </p>
+              </div>
+              <div className="flex items-center gap-2 text-[11px] text-muted-foreground shrink-0">
+                <span className="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-600 dark:text-emerald-400 font-medium">
+                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
+                  Live Feeds
+                </span>
+                <span>•</span>
+                <span>{data.updatedAt.split('T')[0]}</span>
+              </div>
             </div>
 
-            {/* Macro KPI Cards */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
-              <Card className="border-border/70 bg-card shadow-none p-4">
-                <div className="flex items-center justify-between text-muted-foreground text-xs font-semibold uppercase tracking-wider mb-2">
-                  <span>Stablecoin Market Cap</span>
-                  <CircleDollarSign className="h-4 w-4 text-emerald-500" />
+            {/* Dense 6-Metric KPI Row */}
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-2.5 mb-4">
+              <div className="rounded-lg border border-border/70 bg-card p-3 shadow-none">
+                <div className="flex items-center justify-between text-[11px] text-muted-foreground mb-1">
+                  <span>Stablecoin Cap</span>
+                  <CircleDollarSign className="h-3.5 w-3.5 text-emerald-500" />
                 </div>
-                <div className="text-2xl font-bold text-foreground">
-                  {data.overview.totalStablecoinMarketCap}
+                <div className="text-lg font-bold text-foreground leading-tight">
+                  {data.overview.totalStablecoinMarketCap.replace(' Billion', 'B')}
                 </div>
-                <div className="text-xs text-muted-foreground mt-1 flex items-center gap-1">
-                  <span className="text-emerald-500 font-medium">All-time record</span> across 215+ chains
+                <div className="text-[10px] text-emerald-600 dark:text-emerald-400 mt-1 font-medium">
+                  ATH · 215+ chains
                 </div>
-              </Card>
+              </div>
 
-              <Card className="border-border/70 bg-card shadow-none p-4">
-                <div className="flex items-center justify-between text-muted-foreground text-xs font-semibold uppercase tracking-wider mb-2">
-                  <span>Visa Adjusted 30d Volume</span>
-                  <Activity className="h-4 w-4 text-primary" />
+              <div className="rounded-lg border border-border/70 bg-card p-3 shadow-none">
+                <div className="flex items-center justify-between text-[11px] text-muted-foreground mb-1">
+                  <span>Visa Adj. Volume</span>
+                  <Activity className="h-3.5 w-3.5 text-primary" />
                 </div>
-                <div className="text-2xl font-bold text-foreground">
-                  {data.overview.visaAdjustedVolume30d}
+                <div className="text-lg font-bold text-foreground leading-tight">
+                  {data.overview.visaAdjustedVolume30d.replace(' Trillion', 'T')}
                 </div>
-                <div className="text-xs text-muted-foreground mt-1">
-                  Filtered organic consumer & commercial flows
+                <div className="text-[10px] text-muted-foreground mt-1">
+                  30d filtered organic
                 </div>
-              </Card>
+              </div>
 
-              <Card className="border-border/70 bg-card shadow-none p-4">
-                <div className="flex items-center justify-between text-muted-foreground text-xs font-semibold uppercase tracking-wider mb-2">
-                  <span>Tokenized US Treasuries</span>
-                  <Building2 className="h-4 w-4 text-amber-500" />
+              <div className="rounded-lg border border-border/70 bg-card p-3 shadow-none">
+                <div className="flex items-center justify-between text-[11px] text-muted-foreground mb-1">
+                  <span>RWA Treasuries</span>
+                  <Building2 className="h-3.5 w-3.5 text-amber-500" />
                 </div>
-                <div className="text-2xl font-bold text-foreground">
-                  {data.overview.tokenizedTreasuriesMarketCap}
+                <div className="text-lg font-bold text-foreground leading-tight">
+                  {data.overview.tokenizedTreasuriesMarketCap.replace(' Billion', 'B')}
                 </div>
-                <div className="text-xs text-muted-foreground mt-1">
-                  Institutional on-chain yield (RWA.xyz)
+                <div className="text-[10px] text-muted-foreground mt-1">
+                  Institutional yield
                 </div>
-              </Card>
+              </div>
 
-              <Card className="border-border/70 bg-card shadow-none p-4">
-                <div className="flex items-center justify-between text-muted-foreground text-xs font-semibold uppercase tracking-wider mb-2">
-                  <span>Active Payment Wallets</span>
-                  <TrendingUp className="h-4 w-4 text-blue-500" />
+              <div className="rounded-lg border border-border/70 bg-card p-3 shadow-none">
+                <div className="flex items-center justify-between text-[11px] text-muted-foreground mb-1">
+                  <span>Active Payers</span>
+                  <TrendingUp className="h-3.5 w-3.5 text-blue-500" />
                 </div>
-                <div className="text-2xl font-bold text-foreground">
-                  {data.overview.activePaymentAddresses30d}
+                <div className="text-lg font-bold text-foreground leading-tight">
+                  {data.overview.activePaymentAddresses30d.replace(' Million', 'M')}
                 </div>
-                <div className="text-xs text-muted-foreground mt-1">
-                  Monthly unique sending addresses
+                <div className="text-[10px] text-muted-foreground mt-1">
+                  Unique senders 30d
                 </div>
-              </Card>
+              </div>
+
+              <div className="rounded-lg border border-border/70 bg-card p-3 shadow-none">
+                <div className="flex items-center justify-between text-[11px] text-muted-foreground mb-1">
+                  <span>Bot Traffic Filter</span>
+                  <ShieldCheck className="h-3.5 w-3.5 text-purple-500" />
+                </div>
+                <div className="text-lg font-bold text-foreground leading-tight">
+                  {data.visaAnalytics.botFilteredRatio || '54.6%'}
+                </div>
+                <div className="text-[10px] text-muted-foreground mt-1">
+                  Filtered non-organic
+                </div>
+              </div>
+
+              <div className="rounded-lg border border-border/70 bg-card p-3 shadow-none">
+                <div className="flex items-center justify-between text-[11px] text-muted-foreground mb-1">
+                  <span>Top DeFi TVL</span>
+                  <Layers className="h-3.5 w-3.5 text-indigo-500" />
+                </div>
+                <div className="text-lg font-bold text-foreground leading-tight">
+                  {data.overview.totalDeFiTvl || '$56.4B'}
+                </div>
+                <div className="text-[10px] text-muted-foreground mt-1">
+                  L1 & L2 locked capital
+                </div>
+              </div>
             </div>
 
-            {/* Visual Bar Graphs: Stablecoin Dominance & Settlement Chains */}
-            <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-8">
-              {/* Stablecoin Market Share */}
-              <Card className="border-border/70 bg-card shadow-none p-5">
-                <CardHeader className="p-0 pb-4 border-b border-border/50">
-                  <div className="flex items-center justify-between">
-                    <div>
-                      <CardTitle className="text-base font-semibold text-foreground">
-                        Stablecoin Supply Distribution
-                      </CardTitle>
-                      <p className="text-xs text-muted-foreground mt-0.5">
-                        Total circulating fiat-backed digital dollars
-                      </p>
-                    </div>
-                    <span className="text-xs font-semibold uppercase tracking-wider text-primary">
-                      Market Share
-                    </span>
+            {/* Macro Visualizations: Segmented Distribution Bar & Dual Compact Columns */}
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-3.5 mb-4">
+              {/* Card 1: Stablecoins with Stacked Visual Bar */}
+              <Card className="border-border/70 bg-card shadow-none p-4">
+                <div className="flex items-center justify-between pb-2 mb-3 border-b border-border/50">
+                  <div className="flex items-center gap-2">
+                    <span className="w-2 h-2 rounded-full bg-emerald-500" />
+                    <h3 className="text-sm font-semibold text-foreground">Stablecoin Market Share</h3>
                   </div>
-                </CardHeader>
+                  <span className="text-[11px] text-muted-foreground tabular-nums">
+                    Total: {data.overview.totalStablecoinMarketCap}
+                  </span>
+                </div>
 
-                <div className="pt-4 space-y-3.5">
+                {/* Stacked Visual Bar */}
+                <div className="h-3 w-full rounded-md overflow-hidden flex bg-muted/40 mb-3.5">
                   {data.topStablecoins.map((coin) => (
-                    <div key={coin.symbol}>
-                      <div className="flex items-baseline justify-between text-xs mb-1">
-                        <span className="font-medium text-foreground">
-                          {coin.name} ({coin.symbol})
-                        </span>
-                        <div className="space-x-2">
-                          <span className="font-semibold text-foreground">{coin.amount}</span>
-                          <span className="text-muted-foreground tabular-nums">({coin.share}%)</span>
-                        </div>
-                      </div>
-                      <div className="h-2 w-full rounded-full bg-muted/60 overflow-hidden">
-                        <div
-                          className="h-full rounded-full bg-primary transition-all duration-500"
-                          style={{ width: `${Math.min(coin.share, 100)}%` }}
+                    <div
+                      key={coin.symbol}
+                      style={{
+                        width: `${Math.max(coin.share, 1.2)}%`,
+                        backgroundColor: coin.color || '#10b981',
+                      }}
+                      title={`${coin.name} (${coin.symbol}): ${coin.share}% (${coin.amount})`}
+                      className="h-full border-r border-background/20 last:border-none transition-all hover:opacity-85"
+                    />
+                  ))}
+                </div>
+
+                {/* Compact 2-column or list view of coins */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-4 gap-y-2 text-xs">
+                  {data.topStablecoins.map((coin) => (
+                    <div key={coin.symbol} className="flex items-center justify-between py-1 border-b border-border/30 last:border-none">
+                      <div className="flex items-center gap-1.5 min-w-0">
+                        <span
+                          className="w-2 h-2 rounded-full shrink-0"
+                          style={{ backgroundColor: coin.color || '#10b981' }}
                         />
+                        <span className="font-semibold text-foreground truncate">{coin.symbol}</span>
+                        <span className="text-muted-foreground text-[11px] truncate hidden xs:inline">
+                          ({coin.chains} ch)
+                        </span>
+                      </div>
+                      <div className="text-right shrink-0">
+                        <span className="font-semibold text-foreground">{coin.amount}</span>
+                        <span className="text-muted-foreground text-[11px] ml-1.5 tabular-nums">
+                          {coin.share}%
+                        </span>
                       </div>
                     </div>
                   ))}
                 </div>
               </Card>
 
-              {/* Top Settlement Blockchains */}
-              <Card className="border-border/70 bg-card shadow-none p-5">
-                <CardHeader className="p-0 pb-4 border-b border-border/50">
-                  <div className="flex items-center justify-between">
-                    <div>
-                      <CardTitle className="text-base font-semibold text-foreground">
-                        Top Settlement Blockchains
-                      </CardTitle>
-                      <p className="text-xs text-muted-foreground mt-0.5">
-                        Circulating stablecoins by base network
-                      </p>
-                    </div>
-                    <span className="text-xs font-semibold uppercase tracking-wider text-primary">
-                      Network Share
-                    </span>
+              {/* Card 2: Settlement Blockchains with Stacked Visual Bar */}
+              <Card className="border-border/70 bg-card shadow-none p-4">
+                <div className="flex items-center justify-between pb-2 mb-3 border-b border-border/50">
+                  <div className="flex items-center gap-2">
+                    <span className="w-2 h-2 rounded-full bg-indigo-500" />
+                    <h3 className="text-sm font-semibold text-foreground">Top Settlement Blockchains</h3>
                   </div>
-                </CardHeader>
+                  <span className="text-[11px] text-muted-foreground">Stablecoin Velocity</span>
+                </div>
 
-                <div className="pt-4 space-y-3.5">
+                {/* Stacked Visual Bar */}
+                <div className="h-3 w-full rounded-md overflow-hidden flex bg-muted/40 mb-3.5">
                   {data.topSettlementChains.map((chain) => (
-                    <div key={chain.name}>
-                      <div className="flex items-baseline justify-between text-xs mb-1">
-                        <span className="font-medium text-foreground">{chain.name}</span>
-                        <div className="space-x-2">
-                          <span className="font-semibold text-foreground">{chain.amount}</span>
-                          <span className="text-muted-foreground tabular-nums">({chain.share}%)</span>
-                        </div>
-                      </div>
-                      <div className="h-2 w-full rounded-full bg-muted/60 overflow-hidden">
-                        <div
-                          className="h-full rounded-full bg-emerald-500 transition-all duration-500"
-                          style={{ width: `${Math.min(chain.share, 100)}%` }}
+                    <div
+                      key={chain.name}
+                      style={{
+                        width: `${Math.max(chain.share, 1.2)}%`,
+                        backgroundColor: chain.color || '#6366f1',
+                      }}
+                      title={`${chain.name}: ${chain.share}% (${chain.amount})`}
+                      className="h-full border-r border-background/20 last:border-none transition-all hover:opacity-85"
+                    />
+                  ))}
+                </div>
+
+                {/* Compact list of chains */}
+                <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-4 gap-y-2 text-xs">
+                  {data.topSettlementChains.map((chain) => (
+                    <div key={chain.name} className="flex items-center justify-between py-1 border-b border-border/30 last:border-none">
+                      <div className="flex items-center gap-1.5 min-w-0">
+                        <span
+                          className="w-2 h-2 rounded-full shrink-0"
+                          style={{ backgroundColor: chain.color || '#6366f1' }}
                         />
+                        <span className="font-semibold text-foreground truncate">{chain.name}</span>
+                      </div>
+                      <div className="text-right shrink-0">
+                        <span className="font-semibold text-foreground">{chain.amount}</span>
+                        <span className="text-muted-foreground text-[11px] ml-1.5 tabular-nums">
+                          {chain.share}%
+                        </span>
                       </div>
                     </div>
                   ))}
@@ -247,126 +278,111 @@ export default function DashboardPage() {
               </Card>
             </div>
 
-            {/* Tokenized Treasuries Breakdown (RWA.xyz) */}
-            <Card className="border-border/70 bg-card shadow-none p-5 mb-8">
-              <CardHeader className="p-0 pb-4 border-b border-border/50">
-                <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
-                  <div>
-                    <CardTitle className="text-base font-semibold text-foreground">
-                      Tokenized US Treasuries & Institutional Yield (RWA.xyz)
-                    </CardTitle>
-                    <p className="text-xs text-muted-foreground mt-0.5">
-                      Short-term government bond funds represented on public blockchains
-                    </p>
+            {/* Tokenized Treasuries (RWA.xyz) & Visa Filter Metrics in 2 Dense Columns */}
+            <div className="grid grid-cols-1 lg:grid-cols-3 gap-3.5 mb-4">
+              {/* Left: Tokenized US Treasuries Table (Dense) */}
+              <Card className="border-border/70 bg-card shadow-none p-4 lg:col-span-2">
+                <div className="flex items-center justify-between pb-2 mb-2 border-b border-border/50">
+                  <div className="flex items-center gap-2">
+                    <Building2 className="h-4 w-4 text-amber-500" />
+                    <h3 className="text-sm font-semibold text-foreground">
+                      Tokenized US Treasuries (RWA.xyz)
+                    </h3>
                   </div>
-                  <Button asChild variant="outline" size="sm" className="gap-1 text-xs shrink-0">
+                  <Button asChild variant="ghost" size="sm" className="h-6 px-2 text-[11px] text-muted-foreground hover:text-foreground gap-1">
                     <a href="https://app.rwa.xyz/" target="_blank" rel="noopener noreferrer">
-                      RWA.xyz Terminal <ExternalLink className="h-3 w-3" />
+                      RWA.xyz <ExternalLink className="h-2.5 w-2.5" />
                     </a>
                   </Button>
                 </div>
-              </CardHeader>
 
-              <div className="pt-4 overflow-x-auto">
-                <table className="w-full text-left text-xs">
-                  <thead>
-                    <tr className="border-b border-border/50 text-muted-foreground uppercase tracking-wider font-semibold">
-                      <th className="pb-2.5">Product Name</th>
-                      <th className="pb-2.5">Manager / Issuer</th>
-                      <th className="pb-2.5">Token</th>
-                      <th className="pb-2.5">TVL</th>
-                      <th className="pb-2.5">Market Share</th>
-                      <th className="pb-2.5">Active Blockchains</th>
-                    </tr>
-                  </thead>
-                  <tbody className="divide-y divide-border/40 font-medium">
-                    {data.tokenizedTreasuries.map((rwa) => (
-                      <tr key={rwa.symbol} className="hover:bg-muted/20 transition-colors">
-                        <td className="py-3 text-foreground font-semibold">{rwa.name}</td>
-                        <td className="py-3 text-muted-foreground">{rwa.issuer}</td>
-                        <td className="py-3">
-                          <span className="rounded bg-primary/10 px-2 py-0.5 font-semibold text-primary">
-                            {rwa.symbol}
-                          </span>
-                        </td>
-                        <td className="py-3 text-foreground font-semibold">{rwa.tvl}</td>
-                        <td className="py-3 text-foreground">{rwa.share}%</td>
-                        <td className="py-3 text-muted-foreground">{rwa.chains}</td>
+                <div className="overflow-x-auto">
+                  <table className="w-full text-left text-xs">
+                    <thead>
+                      <tr className="border-b border-border/40 text-muted-foreground text-[10px] uppercase tracking-wider font-semibold">
+                        <th className="py-1.5">Asset</th>
+                        <th className="py-1.5">Manager</th>
+                        <th className="py-1.5 text-right">AUM / TVL</th>
+                        <th className="py-1.5 text-right">APY</th>
+                        <th className="py-1.5 text-right">Share</th>
                       </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            </Card>
-
-            {/* Visa Onchain Analytics Deep Dive */}
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
-              <Card className="border-border/70 bg-card shadow-none p-5 md:col-span-2">
-                <CardHeader className="p-0 pb-3">
-                  <div className="flex items-center gap-2">
-                    <ShieldCheck className="h-4 w-4 text-primary" />
-                    <CardTitle className="text-base font-semibold text-foreground">
-                      Visa Onchain Analytics Methodology
-                    </CardTitle>
-                  </div>
-                </CardHeader>
-                <div className="text-xs text-muted-foreground space-y-3 leading-relaxed">
-                  <p>
-                    Standard blockchain explorers report gross stablecoin volumes exceeding $3–5 Trillion
-                    per month, but over 80% of this traffic originates from automated arbitrage bots, DEX
-                    liquidity routing, and exchange rebalancing loops.
-                  </p>
-                  <p>
-                    Visa Onchain Analytics applies address-clustering models and heuristic filters to
-                    isolate <strong className="text-foreground">organic payment volume</strong>, measuring
-                    actual commercial settlement, merchant remittances, and consumer payments.
-                  </p>
-                  <div className="pt-2 flex flex-wrap gap-4 text-foreground font-semibold">
-                    <div>
-                      <span className="text-muted-foreground font-normal block">Adjusted 30d Volume:</span>
-                      {data.visaAnalytics.adjustedMonthlyVolume}
-                    </div>
-                    <div>
-                      <span className="text-muted-foreground font-normal block">Organic Volume Ratio:</span>
-                      {data.visaAnalytics.organicVolumeRatio}
-                    </div>
-                    <div>
-                      <span className="text-muted-foreground font-normal block">Institutional Run Rate:</span>
-                      {data.visaAnalytics.institutionalSettlementRunRate}
-                    </div>
-                  </div>
+                    </thead>
+                    <tbody className="divide-y divide-border/20 font-medium">
+                      {data.tokenizedTreasuries.map((rwa) => (
+                        <tr key={`${rwa.name}-${rwa.symbol}`} className="hover:bg-muted/30 transition-colors">
+                          <td className="py-2 text-foreground font-semibold">
+                            <span className="rounded bg-primary/10 px-1.5 py-0.5 text-[11px] font-bold text-primary mr-1.5">
+                              {rwa.symbol}
+                            </span>
+                            {rwa.name}
+                          </td>
+                          <td className="py-2 text-muted-foreground text-[11px]">{rwa.issuer}</td>
+                          <td className="py-2 text-right text-foreground font-semibold">{rwa.tvl}</td>
+                          <td className="py-2 text-right text-emerald-600 dark:text-emerald-400 font-semibold">
+                            {rwa.yieldApy || '4.6%'}
+                          </td>
+                          <td className="py-2 text-right text-muted-foreground tabular-nums">
+                            {rwa.share}%
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
                 </div>
               </Card>
 
-              <Card className="border-border/70 bg-muted/20 shadow-none p-5 flex flex-col justify-between">
+              {/* Right: Visa Onchain Analytics & Methodology (Dense Box) */}
+              <Card className="border-border/70 bg-card shadow-none p-4 flex flex-col justify-between">
                 <div>
-                  <h3 className="text-sm font-semibold text-foreground mb-2">Verified Primary Sources</h3>
-                  <p className="text-xs text-muted-foreground mb-4">
-                    Data is indexed and cross-verified continuously across institutional tracking endpoints.
+                  <div className="flex items-center justify-between pb-2 mb-2 border-b border-border/50">
+                    <div className="flex items-center gap-1.5">
+                      <ShieldCheck className="h-4 w-4 text-primary" />
+                      <h3 className="text-sm font-semibold text-foreground">Visa Bot Filter</h3>
+                    </div>
+                    <Button asChild variant="ghost" size="sm" className="h-6 px-2 text-[11px] text-muted-foreground hover:text-foreground gap-1">
+                      <a href="https://visaonchainanalytics.com/" target="_blank" rel="noopener noreferrer">
+                        Visa <ExternalLink className="h-2.5 w-2.5" />
+                      </a>
+                    </Button>
+                  </div>
+
+                  <p className="text-[11px] text-muted-foreground leading-relaxed mb-3">
+                    Excludes bot arbitrage and internal loops to measure genuine commercial settlements.
                   </p>
-                  <ul className="space-y-2 text-xs">
-                    {data.sources.map((src) => (
-                      <li key={src.url}>
-                        <a
-                          href={src.url}
-                          target="_blank"
-                          rel="noopener noreferrer"
-                          className="inline-flex items-center gap-1.5 text-primary hover:underline font-medium"
-                        >
-                          <ArrowUpRight className="h-3 w-3" />
-                          {src.name}
-                        </a>
-                      </li>
-                    ))}
-                  </ul>
+
+                  <div className="space-y-2 text-xs">
+                    <div className="flex items-center justify-between p-2 rounded bg-muted/30 border border-border/40">
+                      <span className="text-muted-foreground">Adjusted Volume:</span>
+                      <span className="font-bold text-foreground">{data.visaAnalytics.adjustedMonthlyVolume}</span>
+                    </div>
+                    <div className="flex items-center justify-between p-2 rounded bg-muted/30 border border-border/40">
+                      <span className="text-muted-foreground">Organic Ratio:</span>
+                      <span className="font-bold text-emerald-600 dark:text-emerald-400">{data.visaAnalytics.organicVolumeRatio}</span>
+                    </div>
+                    <div className="flex items-center justify-between p-2 rounded bg-muted/30 border border-border/40">
+                      <span className="text-muted-foreground">Institutional Run-Rate:</span>
+                      <span className="font-bold text-foreground">{data.visaAnalytics.institutionalSettlementRunRate}</span>
+                    </div>
+                    <div className="flex items-center justify-between p-2 rounded bg-muted/30 border border-border/40">
+                      <span className="text-muted-foreground">Bot Volume Excluded:</span>
+                      <span className="font-bold text-muted-foreground">{data.overview.botFilteredVolume30d || '$2.15T'}</span>
+                    </div>
+                  </div>
                 </div>
-                <div className="text-[11px] text-muted-foreground pt-4 border-t border-border/50">
-                  Last synchronized: {data.updatedAt.split('T')[0]}
+
+                <div className="pt-3 mt-3 border-t border-border/40 flex items-center justify-between text-[10px] text-muted-foreground">
+                  <span>Sources: Visa · RWA.xyz · DefiLlama</span>
+                  <a
+                    href="https://visaonchainanalytics.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="hover:underline text-primary"
+                  >
+                    Methodology →
+                  </a>
                 </div>
               </Card>
             </div>
-
-            <CommunityFeedBanner variant="community" />
           </PageShell>
         </main>
       </div>

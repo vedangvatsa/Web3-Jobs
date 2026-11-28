@@ -762,6 +762,10 @@ jobs:
         run: python3 scripts/sync-hackathons.py
         continue-on-error: true
 
+      - name: Sync On-Chain & RWA Dashboard Data
+        run: python3 scripts/sync-onchain-dashboard.py
+        continue-on-error: true
+
       - name: Fetch Web3 Events from Luma
         run: node scripts/fetch-web3-events.mjs
         continue-on-error: true
