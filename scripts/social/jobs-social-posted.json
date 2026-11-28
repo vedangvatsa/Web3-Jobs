@@ -212050,7 +212050,8 @@
       },
       "account": "channel:web3",
       "attemptId": "7fea06f7-b593-4d05-a9cb-36bbc2918ef3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xe819cddef04b0a9b216fb29dbadee5b9c936f31e"
     }
   ]
 }
