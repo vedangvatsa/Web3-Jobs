@@ -212446,7 +212446,8 @@
       },
       "account": "channel:ai",
       "attemptId": "a4ca99d6-d2a1-4380-b897-633ceabf1143",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x818fa0bbb717ed5a76cd7dd6e4fbdd9d79d7a270"
     }
   ]
 }
