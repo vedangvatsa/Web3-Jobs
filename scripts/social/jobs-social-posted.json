@@ -211978,7 +211978,8 @@
       },
       "account": "profile",
       "attemptId": "9cc25945-66e3-41a6-bcff-8ad867b87379",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xb59204a20732854f38986b35548017c417bef129"
     }
   ]
 }
