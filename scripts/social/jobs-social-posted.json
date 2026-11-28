@@ -208760,6 +208760,41 @@
       "attemptId": "d848c02c-ee60-4428-936a-57cb15f94a57",
       "verification": "verified",
       "postId": "0x0672666509b25d34aa7b8271dac607326bfcd258"
+    },
+    {
+      "slug": "rc7",
+      "company": "TRM Labs",
+      "title": "Senior Recruiting Coordinator",
+      "platform": "farcaster",
+      "postedAt": "2026-11-28T02:09:26.519Z",
+      "expectedText": "TRM Labs is hiring Senior Recruiting Coordinator\n\nhttps://hashtagweb3.com/rc7/fc?og=7",
+      "snapshot": {
+        "id": "a0a01b27-d165-4366-9fa1-df5610c9a9f9",
+        "title": "Senior Recruiting Coordinator",
+        "company": "TRM Labs",
+        "link": "https://jobs.ashbyhq.com/trm-labs/a0a01b27-d165-4366-9fa1-df5610c9a9f9",
+        "date": "2026-11-13T18:36:58.266+00:00",
+        "source": "Ashby: TRM Labs [trm-labs]",
+        "location": "Remote (Seattle, WA)",
+        "isRemote": true,
+        "workplaceType": "Remote",
+        "department": "G&A",
+        "active": true,
+        "dateVerified": true,
+        "slug": "rc7"
+      },
+      "payload": {
+        "text": "TRM Labs is hiring Senior Recruiting Coordinator\n\nhttps://hashtagweb3.com/rc7/fc?og=7",
+        "embeds": [
+          {
+            "url": "https://hashtagweb3.com/rc7/fc?og=7"
+          }
+        ],
+        "channel_id": "build"
+      },
+      "account": "channel:build",
+      "attemptId": "22597f4d-9ab0-4c75-a053-b487c4d20c7f",
+      "verification": "creating"
     }
   ]
 }
