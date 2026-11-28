@@ -211581,7 +211581,8 @@
       },
       "account": "channel:ai",
       "attemptId": "9e8bb3e0-9d15-47e9-893e-adea80a19a15",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0x5a1425eac898a3716e4075f2d7b503feb9840ff8"
     }
   ]
 }
