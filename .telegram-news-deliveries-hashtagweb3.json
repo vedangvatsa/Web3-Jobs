@@ -1222,5 +1222,36 @@
     "slotKey": "2026-11-28:morning",
     "messageId": 156550,
     "sentAt": "2026-11-28T04:42:56.663Z"
+  },
+  "f0707423-660f-4beb-92ec-65d02e8b9bf9": {
+    "status": "reserved",
+    "reservedAt": "2026-11-28T12:16:57.601Z",
+    "stories": [
+      {
+        "index": -1,
+        "headline": "CFTC Orders Futures Exchanges to End US Location Restrictions",
+        "summary": "Registered platforms have 30 days to eliminate state trader limits or explain non-compliance to market regulators.",
+        "link": "https://hashtagweb3.com/dcmaccess?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "CFTC gives futures exchanges 30 days to drop domestic geographic restrictions"
+      },
+      {
+        "index": -1,
+        "headline": "US Treasury blocks bank transfers to crypto exchange MEXC",
+        "summary": "FinCEN accused the exchange of processing $16 billion in transfers linked to sanctions evasion and cybercrime.",
+        "link": "https://hashtagweb3.com/mexcorder?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Treasury orders US banks to stop transfers to MEXC over $16 billion in illicit transactions"
+      },
+      {
+        "index": -1,
+        "headline": "Aztec Releases Tierra Upgrade to Fix Network Vulnerability",
+        "summary": "The update adds cryptographic verification and cuts Ethereum-to-Aztec message delivery to as little as 12 seconds.",
+        "link": "https://hashtagweb3.com/aztectierra?utm_source=telegram&utm_medium=social&utm_campaign=web3newsfeed",
+        "source": "Hashtag Web3",
+        "originalTitle": "Aztec Launches Tierra Upgrade, Patching Critical Flaw in Privacy Network"
+      }
+    ],
+    "slotKey": "2026-11-28:afternoon"
   }
 }
