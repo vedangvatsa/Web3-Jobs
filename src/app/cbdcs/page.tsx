@@ -49,12 +49,12 @@ export const metadata: Metadata = {
 };
 
 const centralBankLogos = [
-  { name: 'Ethereum', src: '/logo/companies/ethereum.svg', maxHeight: 20 },
-  { name: 'Solana', src: '/logo/companies/solana-real.svg', maxHeight: 16 },
-  { name: 'Base', src: '/logo/companies/base.svg', maxHeight: 20 },
-  { name: 'Arbitrum', src: '/logo/companies/arbitrum.svg', maxHeight: 20 },
-  { name: 'Chainlink', src: '/logo/companies/chainlink.svg', maxHeight: 22 },
+  { name: 'Solana', src: '/logo/companies/solana-real.svg', maxHeight: 18 },
+  { name: 'Consensys', src: '/logo/companies/consensys.webp', maxHeight: 20 },
+  { name: 'Polygon', src: '/logo/companies/polygon.webp', maxHeight: 20 },
+  { name: 'Alchemy', src: '/logo/companies/alchemy.png', maxHeight: 20 },
   { name: 'Google Cloud', src: '/logo/companies/google.webp', maxHeight: 20 },
+  { name: 'AWS', src: '/logo/companies/aws.webp', maxHeight: 22 },
 ];
 
 export default function CbdcsPage() {
