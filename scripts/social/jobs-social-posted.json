@@ -211617,7 +211617,8 @@
       },
       "account": "channel:product",
       "attemptId": "b164edd4-a8ea-4e0d-8f5a-7f36b5a3f6c3",
-      "verification": "creating"
+      "verification": "verified",
+      "postId": "0xfcbad625499a9e102127a07855737b9bf3090822"
     }
   ]
 }
