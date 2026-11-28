@@ -210954,6 +210954,34 @@
       "attemptId": "6c15abc8-668f-48ed-94e3-50b02903dc4c",
       "verification": "creating",
       "error": "Personal LinkedIn token is expired or expiring; reauthorize Easton"
+    },
+    {
+      "slug": "infra65",
+      "company": "DRW",
+      "title": "Infrastructure Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-11-28T04:46:01.808Z",
+      "expectedText": "DRW is hiring Infrastructure Engineer: https://hashtagweb3.com/infra65/fb?og=7",
+      "snapshot": {
+        "id": "8349095",
+        "title": "Infrastructure Engineer",
+        "company": "DRW",
+        "link": "https://job-boards.greenhouse.io/drweng/jobs/8349095",
+        "date": "2026-11-04T09:42:32-05:00",
+        "dateSource": "Greenhouse.first_published",
+        "source": "Greenhouse: DRW [drweng]",
+        "location": "Singapore",
+        "department": "IO - Infrastructure Support",
+        "active": true,
+        "dateVerified": true,
+        "slug": "infra65"
+      },
+      "payload": {
+        "message": "DRW is hiring Infrastructure Engineer: https://hashtagweb3.com/infra65/fb?og=7",
+        "link": "https://hashtagweb3.com/infra65/fb?og=7"
+      },
+      "attemptId": "309c9d32-65e3-4602-a012-aa315d0b3106",
+      "verification": "creating"
     }
   ]
 }
