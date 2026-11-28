@@ -1,11 +1,13 @@
 {
-  "updatedAt": "2026-11-28T10:03:11.057295+00:00",
+  "updatedAt": "2026-11-28T10:07:48.777840+00:00",
   "overview": {
-    "totalStablecoinMarketCap": "$282.80 Billion",
+    "totalStablecoinMarketCap": "$282.79 Billion",
     "tokenizedTreasuriesMarketCap": "$14.80 Billion",
     "visaAdjustedVolume30d": "$1.79 Trillion",
     "activePaymentAddresses30d": "38.4 Million",
-    "totalDeFiTvl": "$56.35B",
+    "totalDeFiTvl": "$59.58B",
+    "dex24hVolume": "$6.37B",
+    "fees24h": "$62.2M",
     "botFilteredVolume30d": "$2.15 Trillion"
   },
   "topStablecoins": [
@@ -13,7 +15,7 @@
       "name": "Tether",
       "symbol": "USDT",
       "amount": "$173.51B",
-      "rawAmount": 173510714364.9414,
+      "rawAmount": 173514187705.23126,
       "share": 61.4,
       "chains": 131,
       "color": "#10b981"
@@ -22,7 +24,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "amount": "$69.38B",
-      "rawAmount": 69378471245.73509,
+      "rawAmount": 69380168443.4218,
       "share": 24.5,
       "chains": 165,
       "color": "#3b82f6"
@@ -31,7 +33,7 @@
       "name": "Ethena USDe",
       "symbol": "USDe",
       "amount": "$4.91B",
-      "rawAmount": 4912163026.102209,
+      "rawAmount": 4912816773.623586,
       "share": 1.7,
       "chains": 34,
       "color": "#8b5cf6"
@@ -40,7 +42,7 @@
       "name": "Dai",
       "symbol": "DAI",
       "amount": "$3.72B",
-      "rawAmount": 3717984618.072931,
+      "rawAmount": 3717000479.328318,
       "share": 1.3,
       "chains": 50,
       "color": "#f59e0b"
@@ -49,7 +51,7 @@
       "name": "Sky Dollar",
       "symbol": "USDS",
       "amount": "$3.12B",
-      "rawAmount": 3115632430.106416,
+      "rawAmount": 3122329990.4169464,
       "share": 1.1,
       "chains": 9,
       "color": "#06b6d4"
@@ -58,7 +60,7 @@
       "name": "Ripple USD",
       "symbol": "RLUSD",
       "amount": "$2.82B",
-      "rawAmount": 2821324433.152653,
+      "rawAmount": 2821626527.5148005,
       "share": 1.0,
       "chains": 6,
       "color": "#ec4899"
@@ -66,8 +68,8 @@
     {
       "name": "World Liberty Financial USD",
       "symbol": "USD1",
-      "amount": "$2.77B",
-      "rawAmount": 2769361903.8640814,
+      "amount": "$2.74B",
+      "rawAmount": 2743697559.9397397,
       "share": 1.0,
       "chains": 9,
       "color": "#64748b"
@@ -76,7 +78,7 @@
       "name": "Global Dollar",
       "symbol": "USDG",
       "amount": "$2.57B",
-      "rawAmount": 2568504412.868735,
+      "rawAmount": 2568742930.9248433,
       "share": 0.9,
       "chains": 9,
       "color": "#a855f7"
@@ -85,57 +87,57 @@
   "topSettlementChains": [
     {
       "name": "Ethereum",
-      "amount": "$127.28B",
-      "rawAmount": 127282934465.18782,
+      "amount": "$127.27B",
+      "rawAmount": 127266238903.5994,
       "share": 45.0,
       "color": "#6366f1"
     },
     {
       "name": "Tron",
       "amount": "$92.51B",
-      "rawAmount": 92512870082.56427,
+      "rawAmount": 92514213108.7493,
       "share": 32.7,
       "color": "#ef4444"
     },
     {
       "name": "BSC",
       "amount": "$13.19B",
-      "rawAmount": 13188996968.505806,
+      "rawAmount": 13187325863.12378,
       "share": 4.7,
       "color": "#f59e0b"
     },
     {
       "name": "Solana",
-      "amount": "$12.98B",
-      "rawAmount": 12982750130.795391,
+      "amount": "$12.97B",
+      "rawAmount": 12973546162.556053,
       "share": 4.6,
       "color": "#10b981"
     },
     {
       "name": "Hyperliquid L1",
       "amount": "$5.91B",
-      "rawAmount": 5909821675.234553,
+      "rawAmount": 5906440130.3676405,
       "share": 2.1,
       "color": "#06b6d4"
     },
     {
       "name": "Base",
       "amount": "$4.79B",
-      "rawAmount": 4787416530.953422,
+      "rawAmount": 4787887143.062163,
       "share": 1.7,
       "color": "#3b82f6"
     },
     {
       "name": "Arbitrum",
-      "amount": "$3.99B",
-      "rawAmount": 3993722556.2262955,
+      "amount": "$4.00B",
+      "rawAmount": 3998705248.8123875,
       "share": 1.4,
       "color": "#8b5cf6"
     },
     {
       "name": "Polygon",
-      "amount": "$2.90B",
-      "rawAmount": 2897750683.0416584,
+      "amount": "$2.89B",
+      "rawAmount": 2893878132.1102953,
       "share": 1.0,
       "color": "#ec4899"
     }
@@ -146,42 +148,255 @@
       "tokenSymbol": "ETH",
       "tvl": "$36.31B",
       "rawTvl": 36308453439.9433,
-      "share": 53.6
+      "share": 53.6,
+      "color": "#6366f1"
     },
     {
       "name": "Base",
       "tokenSymbol": "BAS",
       "tvl": "$4.62B",
       "rawTvl": 4621645009.547388,
-      "share": 6.8
+      "share": 6.8,
+      "color": "#ef4444"
     },
     {
       "name": "Solana",
       "tokenSymbol": "SOL",
       "tvl": "$4.61B",
       "rawTvl": 4610637122.264164,
-      "share": 6.8
+      "share": 6.8,
+      "color": "#f59e0b"
     },
     {
       "name": "Tron",
       "tokenSymbol": "TRX",
       "tvl": "$4.29B",
       "rawTvl": 4293543765.541792,
-      "share": 6.3
+      "share": 6.3,
+      "color": "#10b981"
     },
     {
       "name": "BSC",
       "tokenSymbol": "BNB",
       "tvl": "$4.27B",
       "rawTvl": 4270280396.1797004,
-      "share": 6.3
+      "share": 6.3,
+      "color": "#06b6d4"
     },
     {
       "name": "Hyperliquid L1",
       "tokenSymbol": "HYPE",
       "tvl": "$2.25B",
       "rawTvl": 2246403827.945494,
-      "share": 3.3
+      "share": 3.3,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Bitcoin",
+      "tokenSymbol": "BTC",
+      "tvl": "$2.04B",
+      "rawTvl": 2035961949.914524,
+      "share": 3.0,
+      "color": "#8b5cf6"
+    },
+    {
+      "name": "Arbitrum",
+      "tokenSymbol": "ARB",
+      "tvl": "$1.20B",
+      "rawTvl": 1196001423.583981,
+      "share": 1.8,
+      "color": "#ec4899"
+    }
+  ],
+  "topSectors": [
+    {
+      "name": "Bridge",
+      "tvl": "$44.28B",
+      "rawTvl": 44277119240.73094,
+      "share": 22.4,
+      "color": "#3b82f6"
+    },
+    {
+      "name": "Lending",
+      "tvl": "$44.10B",
+      "rawTvl": 44101244025.06661,
+      "share": 22.3,
+      "color": "#10b981"
+    },
+    {
+      "name": "Liquid Staking",
+      "tvl": "$38.53B",
+      "rawTvl": 38526087975.48466,
+      "share": 19.5,
+      "color": "#8b5cf6"
+    },
+    {
+      "name": "Dexs",
+      "tvl": "$10.64B",
+      "rawTvl": 10644757901.40214,
+      "share": 5.4,
+      "color": "#f59e0b"
+    },
+    {
+      "name": "Staking Pool",
+      "tvl": "$10.20B",
+      "rawTvl": 10204075124.363363,
+      "share": 5.2,
+      "color": "#ec4899"
+    },
+    {
+      "name": "Risk Curators",
+      "tvl": "$9.04B",
+      "rawTvl": 9039021185.038948,
+      "share": 4.6,
+      "color": "#06b6d4"
+    }
+  ],
+  "topDexs": [
+    {
+      "name": "Uniswap V4",
+      "volume24h": "$914.9M",
+      "raw24h": 914881902,
+      "change_1d": 34.73,
+      "chains": [
+        "Ethereum",
+        "OP Mainnet",
+        "Base"
+      ]
+    },
+    {
+      "name": "Aero Slipstream",
+      "volume24h": "$769.0M",
+      "raw24h": 769008836,
+      "change_1d": -2.09,
+      "chains": [
+        "Arc",
+        "Ethereum",
+        "OP Mainnet"
+      ]
+    },
+    {
+      "name": "Uniswap V3",
+      "volume24h": "$762.2M",
+      "raw24h": 762163770,
+      "change_1d": 36.97,
+      "chains": [
+        "Ethereum",
+        "Arbitrum",
+        "OP Mainnet"
+      ]
+    },
+    {
+      "name": "Kalshi",
+      "volume24h": "$757.7M",
+      "raw24h": 757682059,
+      "change_1d": 5.75,
+      "chains": [
+        "Off Chain"
+      ]
+    },
+    {
+      "name": "Metric V1",
+      "volume24h": "$431.9M",
+      "raw24h": 431866353,
+      "change_1d": 145.87,
+      "chains": [
+        "Ethereum",
+        "Base",
+        "Robinhood Chain"
+      ]
+    },
+    {
+      "name": "PancakeSwap AMM V3",
+      "volume24h": "$431.8M",
+      "raw24h": 431811087,
+      "change_1d": 35.72,
+      "chains": [
+        "BSC",
+        "Ethereum",
+        "Polygon zkEVM"
+      ]
+    }
+  ],
+  "topFeeGenerators": [
+    {
+      "name": "Tether",
+      "category": "Stablecoin Issuer",
+      "fee24h": "$16.92M",
+      "rawFee": 16923488,
+      "change_1d": -0.57
+    },
+    {
+      "name": "Circle USDC",
+      "category": "Stablecoin Issuer",
+      "fee24h": "$6.78M",
+      "rawFee": 6781925,
+      "change_1d": -0.72
+    },
+    {
+      "name": "Polymarket US",
+      "category": "Prediction Market",
+      "fee24h": "$3.84M",
+      "rawFee": 3844051,
+      "change_1d": -0.62
+    },
+    {
+      "name": "Hyperliquid Perps",
+      "category": "Derivatives",
+      "fee24h": "$3.56M",
+      "rawFee": 3557692,
+      "change_1d": 61.22
+    },
+    {
+      "name": "PumpSwap",
+      "category": "Dexs",
+      "fee24h": "$1.30M",
+      "rawFee": 1297350,
+      "change_1d": -8.34
+    },
+    {
+      "name": "Polymarket International",
+      "category": "Prediction Market",
+      "fee24h": "$1.28M",
+      "rawFee": 1283125,
+      "change_1d": 13.44
+    }
+  ],
+  "recentHacks": [
+    {
+      "name": "Atoshi Bridge",
+      "date": "Nov 27, 2026",
+      "amount": "$60k",
+      "technique": "Deployer Key Compromised",
+      "chain": "DeFi Protocol"
+    },
+    {
+      "name": "SVT",
+      "date": "Nov 26, 2026",
+      "amount": "$57k",
+      "technique": "Swap Logic Flaw",
+      "chain": "DeFi Protocol"
+    },
+    {
+      "name": "Bullpen",
+      "date": "Nov 24, 2026",
+      "amount": "$2.57M",
+      "technique": "Unknown",
+      "chain": "DeFi Protocol"
+    },
+    {
+      "name": "Biswap V3",
+      "date": "Nov 24, 2026",
+      "amount": "$51k",
+      "technique": "Incorrect Share Accounting",
+      "chain": "DeFi Protocol"
+    },
+    {
+      "name": "Endurance Bridge",
+      "date": "Nov 22, 2026",
+      "amount": "$1.04M",
+      "technique": "Unbacked Cross-Chain Mint",
+      "chain": "DeFi Protocol"
     }
   ],
   "tokenizedTreasuries": [
@@ -261,6 +476,14 @@
     {
       "name": "DefiLlama Stablecoins & TVL",
       "url": "https://defillama.com/stablecoins"
+    },
+    {
+      "name": "DefiLlama DEXs & Protocols",
+      "url": "https://defillama.com/dexs"
+    },
+    {
+      "name": "DefiLlama Hacks & Security",
+      "url": "https://defillama.com/hacks"
     }
   ]
 }
